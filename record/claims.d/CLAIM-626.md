@@ -1,10 +1,26 @@
 ---
 number: 626
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpwp3ru
 title: 'Critical slowing has no single organizational meaning: when a collective mode slows, reduction to it improves; when the mode that restores a collective relation slows, as two detuned phase oscillators near the edge of locking, the reduction fails while the locked state still exists; when the maintenance of the coupling slows, the reduction stays good while the organization nears its fold'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: its ground CASE-189 is Active; no
+    objection; the defeated_if is not met (neither CLAIM-478 nor CLAIM-521
+    states the dissociation); the transverse computation re-checked. A's
+    wording, which A calls its own synthesis.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §5.1
+    states its three kinds of slowing, with some drift (see the curation
+    entry). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -42,6 +58,8 @@ summary: >-
   half, [CLAIM-521](CLAIM-521.md)), and the transverse arm and the dissociation are new.
   Recomputed by the reader. The wording is A's; adopting it is the owner's
   call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim whose second half is the collective arm, cited as open -->
 <!-- inactive-ok-file: CLAIM-841 — filed 2026-11-21 from the exchange "Rich Get Richer Power Laws", Proposed -->
@@ -134,3 +152,37 @@ discrimination of inputs, so the optimum sits below the transition. One
 more organizational meaning of slowing, in which it neither helps nor
 breaks a reduction but costs a finite-time observer confidence. No
 relation is written.
+
+## Note of 2026-11-22: Ott and Antonsen, read
+
+A parallel in an exact model, no edge. Near the Kuramoto threshold the
+collective mode slows (damping rate Δ − K/2 → 0) while the approach to Ott
+and Antonsen's reduced manifold stays at least Δ ([NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md),
+[NOTE-tmp5oph4](../notes.d/NOTE-tmp5oph4.md)), so reduction to the order parameter improves as the mode
+slows: this claim's first case.
+
+<!-- inactive-ok-file: CLAIM-tmpbzwmr — Proposed; filed in this filing of 2026-11-22 (second share) -->
+
+## Note of 2026-11-22: a governance reading
+
+A40 of the exchange "Explain First Contact RL" (second share, ChatGPT,
+2026-11-22), at the owner's U21, reads this claim's three cases for an
+organization's identity. A slow collective mode can carry identity. A
+slowing transverse restoring mode is "the loss of effective
+stabilization", as in "A coordinated supply network might continue
+operating under its established arrangement while its capacity to
+recover from disagreements, delays, or disruptions becomes progressively
+weaker". A slowing maintenance mode is current coordination with failing
+support. A40: "a slow mode cannot automatically be interpreted as a
+stabilizing identity." The thesis it supports, [CLAIM-tmpbzwmr](CLAIM-tmpbzwmr.md),
+complements this claim. The relation is a parallel, so no edge is written
+from here.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: ADR-tmpsfjxu — Proposed; the work -->
+Restatement, with drift. A48 §5.1 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md))
+restates this claim's three kinds of slowing, but recasts whether the
+collective reduction stays good as whether coordination weakens or the
+relationship continues to function; and its lineage section calls the claim
+Proposed, which it was until the status review of this date.

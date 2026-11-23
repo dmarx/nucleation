@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpub743
 title: 'Where a dependent party''s claims on an arrangement''s controllers fail of legibility, volitional efficacy or correctability in the controlling organization, the dependent lacks effective means of influence and challenge, and where they fail so at every party able to constrain the controllers it lacks effective protection; justified withdrawal lies outside those three achievements, so the domination threshold''s third condition is met by failures of normative efficacy only together with a failure of exit, and is not those failures restated'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-15'
@@ -28,6 +28,14 @@ history:
     "lacks effective means of protection, influence, challenge or
     justified withdrawal" as lacking all four, which the body
     states. No change of title.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §10.1, §13.5. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -77,6 +85,8 @@ summary: >-
   the condition also needs exit to fail. Demonstrated; the derivation is
   in the body. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-682 CLAIM-677 CASE-261 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; the record's duty of answerability, cited with its standing -->

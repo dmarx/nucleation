@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpye2m2
 title: 'Isomorphism is not persistence, in either direction: two separately made mechanisms with the same costed transformation structure are isomorphic and still two, and one mechanism whose hinge is replaced can persist while its costed structure becomes non-isomorphic to the earlier one, so which morphisms count as continuations is structure added by assumptions about the domain, not read off the category'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -32,6 +32,13 @@ history:
     2026-11-11: the summary still said adopting the claim is the
     owner's call. The status review promoted it on 2026-11-06
     (version 2), and the summary now says so. No other change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.0. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -82,6 +89,8 @@ summary: >-
   python3 -I. [CLAIM-544](CLAIM-544.md) holds the same point for willed agents, as "a
   question of continuation, not of resemblance". The construction is the filer's, from
   A's; the status review adopted it on 2026-11-06.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: ARG-075 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-615 — filed from the same exchange, Proposed -->

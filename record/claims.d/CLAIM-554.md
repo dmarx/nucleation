@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpv67b2
 title: 'Niche differentiation matters to an organization''s development as possible relief of structural frustration among its constituents'' persistence demands, a strict enlargement of their compatibility complex over viable histories for the same demands, and not as reduced competition: competition, contested rankings, structural and governance frustration, operative thwarting, strain and coexistence come apart, so lower competitive intensity, the exclusion of a constituent or a redistribution of influence relieves no structural frustration of the original demands, and specialization can relieve frustration where nothing competes'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -28,6 +28,14 @@ history:
     part in that line's argument, since it bears on QUESTION-131 to
     QUESTION-135, a question of that line. Found by the lint sweep of
     2026-11-10 as a `rests_on` step across lines. No other change.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §12.1, §12.5. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -81,6 +89,8 @@ summary: >-
   constrained coexistence". The reader adds the governance case A7
   dropped and the separation of coexistence from cooperation. The wording
   is A's, sharpened by the reader; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-555 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
@@ -189,3 +199,8 @@ undifferentiated one.**"
 <!-- inactive-ok-block: CASE-209 — Proposed; cited as holding the separate, simultaneous and sequential distinction -->
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A25 §5: "A temporal sheaf framework could represent that distinction more naturally than a purely static compatibility complex." The distinction is demands satisfiable at one instant with no jointly admissible continuation. This claim already takes each demand's acceptance set as "a set of viable histories, not of instantaneous states", and [CASE-209](../cases.d/CASE-209.md) separates separate, simultaneous and sequential feasibility, so the temporal point is held. A sheaf over intervals would add only the restriction structure between horizons. No status changes.
+
+## Note of 2026-11-23: cited for diversity as richness, from "Explain First Contact RL"
+<!-- inactive-ok-block: CLAIM-tmp6thmv CLAIM-tmp6ik2v — Proposed, new; the claim that cites this one and the owner's thesis it develops -->
+
+A60 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) cites this claim for why diversity tracks an ecosystem's richness: "niche differentiation matters because it can relieve structural frustration ... The achievement is not simply more types coexisting. It is a change in the organization of possibilities that permits those types to remain viable together." The use is faithful: differentiation counts as an enlargement of what constituents can jointly realize, not as reduced competition or more coexisting types. [CLAIM-tmp6thmv](CLAIM-tmp6thmv.md), which develops the owner's U31 thesis ([CLAIM-tmp6ik2v](CLAIM-tmp6ik2v.md)), rests on this claim. No status changes. The note is the assistant's (Claude, in this session).

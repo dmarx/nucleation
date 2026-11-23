@@ -62,7 +62,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-712 CLAIM-702 CASE-277 ARG-112 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-707 CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
-<!-- inactive-ok-file: CLAIM-740 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 # CLAIM-715: Friction that makes the people in a process think before accepting an output differs from friction that makes the institution answerable to their objections, so a system can make individuals think harder while leaving the institution's authority untouched, and the added scrutiny can then serve as evidence that the individuals owned decisions whose conditions they could not change
 
@@ -148,3 +147,12 @@ HKMA 2026, read in part ([NOTE-2018](../notes.d/NOTE-2018.md), [THEORY-1931](../
 <!-- inactive-ok-file: THEORY-2267 — new of 2026-11-22, Proposed; the account filed from the reading for LEAD-152 -->
 
 Frischmann and Benesch ([LIT-3136](../literature.d/LIT-3136.md), [NOTE-2359](../notes.d/NOTE-2359.md)) corroborate the premise from the regulatory side. They propose that the state require friction of platforms, and the friction they would require acts almost entirely on users' thinking: delays that give time to "stop and think" (p. 388), alerts, comprehension checks and prompts before sharing (pp. 442–43). None gives users a way to stop or redirect the platform; who decides enters only as the last parameter of their framework, "Governance" (p. 402), meaning who deploys the friction. So the cognitive friction this claim separates from answerability is what even state-imposed friction-in-design would supply. [THEORY-2267](../theory.d/THEORY-2267.md) carries `corroborates`. No status changes.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-708 TERM-127 THEORY-1928 — Proposed; what holds it -->
+Its last clause, that the added scrutiny can serve as evidence that
+individuals owned decisions they could not change, rests on [CLAIM-707](CLAIM-707.md), which
+waits on [CLAIM-708](CLAIM-708.md), [TERM-127](../terms.d/TERM-127.md) and [THEORY-1928](../theory.d/THEORY-1928.md). The readings that corroborate
+it reach only its first half: Choroszewicz reports no such use of scrutiny
+(note of 2026-11-17).

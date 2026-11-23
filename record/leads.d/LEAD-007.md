@@ -28,3 +28,25 @@ summary: >-
 Register and read Lippl and Lindsey (2024); check whether their regimes
 already show the same present capability with different later learning,
 outside the special initialization Anguita and colleagues generalize.
+
+## Note of 2026-11-23: carried out by the lead run of that date
+<!-- inactive-ok-file: THEORY-tmpw69kb THEORY-tmpfysqg CLAIM-tmp7n00e CLAIM-tmp2tjpt CLAIM-tmpew899 ARG-tmpbvq7y CASE-tmpjn7jc CLAIM-754 CLAIM-tmp2k67n THEORY-2077 — Proposed or new; filed or cited by the lead run of 2026-11-23 -->
+
+Lippl and Lindsey registered ([LIT-tmpkuq67](../literature.d/LIT-tmpkuq67.md)) and read from the arXiv HTML
+of v4 ([NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md), Read), with two accounts: [THEORY-tmpw69kb](../theory.d/THEORY-tmpw69kb.md), the
+shallow-network theory that Anguita and colleagues ([THEORY-2077](../theory.d/THEORY-2077.md)) extend,
+and [THEORY-tmpfysqg](../theory.d/THEORY-tmpfysqg.md), the deep-network results.
+
+The check. The paper never compares networks with the same function, but
+its rescaling after pretraining, with the auxiliary readout compensated,
+gives one: same pretrained function and same readout-only reach, different
+full fine-tuning, and the better rescaling reverses with the main task
+([CLAIM-tmp7n00e](../claims.d/CLAIM-tmp7n00e.md), demonstrated; run over 40 seeds in [CASE-tmpjn7jc](../cases.d/CASE-tmpjn7jc.md)). It acts
+on any converged network, not on a chosen initialization. Whether this is
+two learners with equal present capability and different later learning
+([CLAIM-tmp2tjpt](../claims.d/CLAIM-tmp2tjpt.md), the assistant's lean, supporting [CLAIM-754](../claims.d/CLAIM-754.md) through
+[ARG-tmpbvq7y](../arguments.d/ARG-tmpbvq7y.md)) or one learner under two procedures, because the rescaling
+is a change of step sizes ([CLAIM-tmp2k67n](../claims.d/CLAIM-tmp2k67n.md)), is filed as the objection
+[CLAIM-tmpew899](../claims.d/CLAIM-tmpew899.md). That choice is the owner's. Nothing here bears on the
+frontiers moving in opposite directions over training. Status and stage
+left for the owner.

@@ -1,0 +1,67 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-23 ([NOTE-tmpv0ug9](../notes.d/NOTE-tmpv0ug9.md)), from Europe PMC's full-text XML
+  (PMC12092256), CC BY 4.0: abstract, introduction, methods, results,
+  discussion and conclusions; the supplementary tables not read. Worth
+  reading as the largest human study so far of sperm epigenetic marks
+  against fathers' childhood maltreatment: step one of a paternal germline
+  route, with no offspring measured.
+title: 'Exposure to childhood maltreatment is associated with specific epigenetic patterns in sperm'
+version: 1
+history:
+- version: 1
+  date: '2026-11-23'
+  note: >-
+    Filed and read the same day, by the lead run of 2026-11-23, from a
+    Europe PMC search for human sperm and germline studies of trauma (no
+    email sent). Crossref: Molecular Psychiatry 30(6), 2635–; online
+    2025-01-03, so `published:` is that date (ADR-002). Read from Europe
+    PMC's REST full-text route (ADR-101).
+tags:
+- natural-sciences
+- psychopathology-and-treatment
+date: '2026-11-23'
+published: '2025-01-03'
+doi: '10.1038/s41380-024-02872-3'
+first_author: 'Tuulari'
+keywords:
+- 'childhood maltreatment'
+- 'sperm'
+- 'small non-coding RNA'
+- 'DNA methylation'
+- 'FinnBrain'
+implementations: []
+summary: >-
+  Tuulari, Bourgery and colleagues (2025). Fathers from the FinnBrain Birth
+  Cohort with high or low childhood maltreatment scores (Trauma and
+  Distress Scale ≥ 39 against ≤ 10) gave sperm about nine years after their
+  child's birth. In 55 men, 3 regions were differentially methylated
+  (near CRTC1, WFIKKN1 and GBX2). In 30 men, 47 miRNAs, 21 tRNA-derived
+  small RNAs and 4 piRNA clusters differed in abundance, among them lower
+  miR-34c-5p, which partly replicates an earlier study. Most differences
+  survived adjustment for semen quality, age, BMI, smoking, alcohol and
+  current symptoms. The authors grant that "epigenetic inheritance per se
+  was not addressed".
+---
+<!-- inactive-ok-file: THEORY-tmpseccf — filed by the lead run of 2026-11-23 -->
+
+# LIT-tmpuwnm5: Exposure to childhood maltreatment is associated with specific epigenetic patterns in sperm
+
+Tuulari, J. J., Bourgery, M., Iversen, J., Koefoed, T. G., Ahonen, A., Ahmedani, A., Kataja, E.-L., Karlsson, L., Barrès, R., Karlsson, H. & Kotaja, N. (2025). *Molecular Psychiatry*, 30(6), 2635–.
+
+## Key takeaways
+
+- A man's childhood maltreatment goes with differences in his sperm's
+  small RNAs and DNA methylation decades later. This is a cross-sectional
+  case-control association with a small sample.
+- It meets, at the level of association, the first step of a germline
+  route: the exposure marks the gamete. It tests nothing about transmission
+  to a child.
+- The cohort holds these men's children, but the paper does not link
+  sperm to child.
+
+## Standing in the record
+
+Read for [LEAD-156](../leads.d/LEAD-156.md) ([QUESTION-297](../questions.d/QUESTION-297.md)). It is the molecular half of a paternal
+design. The reading is [NOTE-tmpv0ug9](../notes.d/NOTE-tmpv0ug9.md), and its account is [THEORY-tmpseccf](../theory.d/THEORY-tmpseccf.md).

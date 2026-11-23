@@ -4,7 +4,7 @@ formerly:
 - QUESTION-tmp2t6ve
 status: Open
 title: 'Does blameless post-incident practice in engineering keep accountability while giving up blame, and if it does, does it keep or lose the upstream provenance of an incapacity that blame supplies?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-17'
@@ -28,6 +28,13 @@ history:
     and Nyce, and 49 U.S.C. 1154, each with bears_on this question; two
     claims and a proposed study filed in answer, with bears_on. No change
     of status or title.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    A dated note added: the SRE example postmortem, the SRE workbook
+    chapter and the reports of the Tempe prosecution read for LEAD-189,
+    each with bears_on this question; a claim, two objections and a
+    specimen filed in answer. No change of status or title.
 tags:
 - society-and-governance
 - ethics
@@ -172,3 +179,14 @@ No status changes. The question stays Open: its second half, for engineering pos
 The question's second half, for engineering postmortems, now has a pilot bearing on it: [CASE-335](../cases.d/CASE-335.md) and its finding [CLAIM-905](../claims.d/CLAIM-905.md). In 26 of 30 public postmortems the trace stops at the engineering group's own design or procedure. CSB investigations of chemical accidents mostly carry it to corporate oversight, funding and regulation. That is the second answer listed here, "keeps correction, loses provenance", for published internal reviews. One coder, the assistant (Claude, Opus 5.5), of the same model family that wrote the claim tested and the codebook, coding with the prediction known: the pilot is not independent. The arms differ in domain and severity (software outages against chemical accidents) as well as in who reviews.
 
 No status changes. The question stays Open.
+
+## Note of 2026-11-22: the SRE example postmortem, the workbook and the Tempe prosecution, read
+<!-- inactive-ok-file: THEORY-tmp9j928 CLAIM-tmp20uni CLAIM-tmpauu5r CASE-tmptkkgm — new; filed by the lead run on 2026-11-22 -->
+
+Read for [LEAD-189](../leads.d/LEAD-189.md) on 2026-11-22; each reading now carries `bears_on` this question.
+
+- **The second half, from the practice itself.** Google's example postmortem ([THEORY-tmp9j928](../theory.d/THEORY-tmp9j928.md)) is fictional and its causes are a bug and a surge, so it shows the template, not where a trace stops. The workbook ([THEORY-tmpm653d](../theory.d/THEORY-tmpm653d.md)) shows one real postmortem whole ([CASE-tmptkkgm](../cases.d/CASE-tmptkkgm.md)): blaming "No individual or team", it names a staffing limit among what went poorly and gives its fourteen action items, all technical, to engineers. Its examples of keeping review blameless recast a question to a manager, and a vice-president's question, as questions about process. That leans toward the second answer listed here, "keeps correction, loses provenance", for the single postmortem.
+- **But the practice may keep provenance elsewhere.** The workbook puts "Is feature velocity trumping reliability fixes?" in the review of repeated incidents, and has "organizational leaders" review the process. [CLAIM-tmpauu5r](../claims.d/CLAIM-tmpauu5r.md) files that as an objection to testing [CLAIM-750](../claims.d/CLAIM-750.md) one postmortem at a time. Whether those channels reach above the teams is not shown by anything read.
+- **The blame-based counterpart.** On the Tempe crash, which the NTSB traced to the company and the state without blame, the criminal process charged and convicted the operator alone and declined to charge the company ([THEORY-tmpfdyu6](../theory.d/THEORY-tmpfdyu6.md), [CLAIM-tmp20uni](../claims.d/CLAIM-tmp20uni.md)). The objection, [CLAIM-tmp64hmn](../claims.d/CLAIM-tmp64hmn.md): a civil settlement and the state's suspension of testing did reach the company, so the contrast is with the criminal law, not with blame as such.
+
+No status changes. The question stays Open: what a blameless practice traces across incidents, as opposed to in one postmortem, is unanswered.

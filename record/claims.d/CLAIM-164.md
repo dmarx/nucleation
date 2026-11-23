@@ -2,7 +2,7 @@
 number: 164
 status: Active
 title: 'What a spectral gap makes definite is the subspace of the cluster it isolates, not a single direction: the gap picks the object, and the object is a vector only when its own gap is wide'
-version: 5
+version: 6
 history:
 - version: 1
   date: '2026-10-11'
@@ -45,6 +45,12 @@ history:
     (that note took no history entry). A dated correction after
     the note of 2026-10-12 says so; the note itself is kept as
     written. No other change.
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 added, from the lead run of that date: a
+    projection perturbation bound for the compressed diffusion-wavelet
+    chain, filed as CLAIM-tmpdsu37. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -150,3 +156,25 @@ Its Definition 4 gives vague emergence for any ε at or above σ_N and below
 shows it at some ε, and the degree varies with ε. The paper picks ε at
 "relatively clear cut-offs". That is this claim's criterion, used
 informally and not stated. The claim is unchanged.
+
+## Note of 2026-11-23: the bound for the compressed chain
+
+This claim's core is Davis–Kahan for one perturbation. The diffusion-wavelet
+chain of Coifman and Maggioni ([NOTE-984](../notes.d/NOTE-984.md), [THEORY-758](../theory.d/THEORY-758.md)) truncates, compresses
+and squares level after level, so its perturbations compound, and [NOTE-984](../notes.d/NOTE-984.md)
+asked what that does to the subspace a level keeps. [CLAIM-tmpdsu37](CLAIM-tmpdsu37.md) answers
+with a proof, checked numerically in scratch/studies/lead-192. If the
+truncation at level j leaves a column residual d_j and the chain's operator
+has drifted f_j from the true power T^{2^j}, the kept subspace is within
+(d_j + f_j)/λ_k^{2^j} of the top-k eigenspace, for symmetric T with spectrum
+in [0, 1], and f_j is at most Σ_{i<j} 2^{j−i}d_i. Since no truncation of rank k
+has a residual below the first discarded value, the bound is a relative gap
+at the cut plus the drift, and it is vacuous at a gapless cut.
+
+That is a demonstrated step for this claim in the multilevel setting: the
+gap still picks the object when the object is built level by level, and
+the chain's own errors enter only as a residual over the kept spectrum. It
+adds one qualification this claim does not state. For a non-symmetric T the
+bound needs a row residual as well, and its denominator is the smallest
+singular value of the power on the invariant subspace, which non-normality
+can make far smaller than the smallest kept |λ|^{2^j}. The claim is unchanged.

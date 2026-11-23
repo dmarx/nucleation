@@ -2,7 +2,6 @@
 number: 156
 status: Proposed
 formerly:
-- TERM-156
 - TERM-tmpdlwl8
 title: 'crosscutting and nested factorizations'
 version: 1

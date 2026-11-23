@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvceet
 title: 'For a fixed arrangement, expanding the recognized demand set cannot improve conjunctive compliance and cannot decrease the count of recognized violations; where governance penalizes newly recognized violations without rewarding their discovery, an organization may acquire an incentive not to improve its identification of its obligations'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-12'
@@ -32,6 +32,14 @@ history:
     conditional on its governance assumption, as the title says.
     Nothing in the record meets the defeat condition. The claim is
     unchanged.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §9.8, §13.1, §13.8. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -74,6 +82,8 @@ summary: >-
   monotonicity facts are demonstrated and checked by enumeration; the
   incentive is conditional on the governance assumption. The wording is
   the owner's and A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-652 CLAIM-657 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-249 — Proposed; filed from the same exchange -->
@@ -176,3 +186,18 @@ That any organization behaves this way, or which demands are justified:
 A44 §7, the experiment "would not derive the legitimacy of the underlying
 requirements". [CASE-249](../cases.d/CASE-249.md) gives a design that would test whether the
 incentive produces avoidance of inquiry.
+
+## Note of 2026-11-23: the incentive in an adaptive institution, from [LEAD-181](../leads.d/LEAD-181.md)
+<!-- inactive-ok-file: CLAIM-tmpjz94s CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
+
+[CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) runs [CASE-249](../cases.d/CASE-249.md)'s design. Under this claim's governance the
+institution's optimal and learned inquiry is nil in every setting, while it
+remediates every violation it knows of: satisfaction progress without
+identification progress, learned from the score alone. [CLAIM-tmpbbfcj](CLAIM-tmpbbfcj.md) gives
+step 4 a dynamic form, proved path by path in the model: inquiry adds only
+penalized violations and spent budget. Against the independent count the
+penalty suppresses inquiry ([CLAIM-tmpjz94s](CLAIM-tmpjz94s.md)). Against internal scoring
+without the penalty, the second conjunct of the governance, discovery
+unrewarded, already removes every reason to inquire where inquiry is
+costly, and the penalty makes inquiry a loss ([CLAIM-tmp0bqyu](CLAIM-tmp0bqyu.md)). Both readings
+are filed as alternatives. Neither defeats the claim. No status change.

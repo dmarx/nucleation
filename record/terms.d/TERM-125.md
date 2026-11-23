@@ -83,7 +83,6 @@ summary: >-
   in this session); adopting it is the owner's call.
 
 ---
-<!-- inactive-ok-file: CLAIM-740 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-706 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-1609 LIT-2660 — Deferred; Herd and Moynihan, unread -->
 <!-- inactive-ok-file: CLAIM-710 CLAIM-711 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->

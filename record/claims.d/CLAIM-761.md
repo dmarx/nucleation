@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpqpd2p
 title: 'A stabilized constraint can be stored work: by replacing later work with cheaper operations it changes which activities are realizable within a fixed per-task budget, so amortization becomes capability expansion without any added degrees of freedom or resources; the expansion is conditional on the costs of constructing, keeping, retrieving, verifying and revising the constraint and on the distribution of later demands, and the persistence that buys it can entrench'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-20'
@@ -27,6 +27,13 @@ history:
     each witness stipulates that the framework is acquired at a cost.
     CLAIM-755, which the body cites for the two separations, stays
     Proposed and is not a premise. Interpretive. The title is unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §11.1. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,6 +61,7 @@ line:
 - realizability
 - learned-structure
 works:
+- governance-of-possibility
 - cost-structure-of-possibility
 rests_on:
 - CLAIM-303
@@ -162,3 +170,18 @@ approach feasible whether or not their lifetime saving is positive.
 [CLAIM-891](CLAIM-891.md) adds a third route besides reuse and feasibility: a store
 can pay by moving work to a moment when work is cheaper, with total work
 unchanged. No status change.
+
+## Note of 2026-11-22: learned scroll parameters as amortized coordination, from the exchange "Explain First Contact RL"
+<!-- inactive-ok-file: CASE-tmptzhse CLAIM-tmpk8ude ARG-tmpzxz7y — Proposed or Rejected; filed 2026-11-22 from the exchange "Explain First Contact RL" -->
+
+A8 §4 of that exchange reads the parameters an adaptive scroll interface
+learns ([CASE-tmptzhse](../cases.d/CASE-tmptzhse.md)) through this claim: repeated interaction exposes a
+mismatch, the interface learns a mapping, the mapping becomes a stable
+constraint, and later interactions are easier "without fresh inference",
+"a small piece of **amortized sensorimotor coordination**". A11 §5 says the
+same of the cached controller. This is an analogy, so no edge: the claim's
+step needs a fixed per-task budget whose feasible set the stored constraint
+enlarges, and a scroll interface works without it at any parameter value,
+so the reading is of cost lowered, not of capability expanded ([ARG-tmpzxz7y](../arguments.d/ARG-tmpzxz7y.md), Rejected as support). The
+separation of fast loop and slow learning that the analogy rests on is
+[CLAIM-tmpk8ude](CLAIM-tmpk8ude.md) (A's). No status change.

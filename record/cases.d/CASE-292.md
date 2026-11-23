@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpnrxpi
 title: 'Tempe, Arizona, 18 March 2018: an Uber test vehicle whose developmental automated driving system relied on its sole operator to brake killed a pedestrian while the operator streamed video; the NTSB made her distraction the probable cause and the company''s safety culture, which had removed the second operator and left automation complacency unaddressed, a contributing one'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-18'
@@ -24,6 +24,11 @@ history:
     A dated note added: the statute the report cites, 49 U.S.C. 1154(b),
     read, and the report's recommendations rechecked. No change of status
     or title.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    A dated note added: the prosecution read for LEAD-189, which the
+    case had left unread. No change of status or title.
 standing: documented
 kind: specimen
 tags:
@@ -130,3 +135,10 @@ The report's notice page cites 49 U.S.C. § 1154(b), now read ([THEORY-1999](../
 So the case shows, for [QUESTION-476](../questions.d/QUESTION-476.md), a no-blame investigator fenced off from liability that traced cause upstream and directed repair there. [CLAIM-751](../claims.d/CLAIM-751.md) files that and names this case in `grounds`.
 
 No status changes.
+
+## Note of 2026-11-22: the prosecution, read
+<!-- inactive-ok-file: CLAIM-tmp20uni — new; filed by the lead run on 2026-11-22 -->
+
+This case's "What it cannot show" left "prosecution and the press" unread. The prosecution is now read ([THEORY-tmpfdyu6](../theory.d/THEORY-tmpfdyu6.md); [NOTE-tmpeb1f9](../notes.d/NOTE-tmpeb1f9.md), [NOTE-tmphxo80](../notes.d/NOTE-tmphxo80.md), [NOTE-tmpi1l0m](../notes.d/NOTE-tmpi1l0m.md)). The Yavapai County Attorney, acting for Maricopa County "due to a potential conflict of interest", found "no basis for criminal liability for the Uber corporation" (March 2019). The operator was charged with negligent homicide (September 2020) and on 28 July 2023 pleaded guilty to endangerment, an undesignated felony, and was sentenced to three years of supervised probation. In court her defence argued that "Uber should share some blame"; the prosecutor, that she "had one job and one job only". The family settled with Uber shortly after the crash, and the governor prohibited Uber from continuing its tests in Arizona.
+
+So, in the criminal law, blame landed on the operator alone: the crumple-zone part of [CLAIM-707](../claims.d/CLAIM-707.md), in one institution. [CLAIM-tmp20uni](../claims.d/CLAIM-tmp20uni.md) files the contrast with the NTSB; [CLAIM-tmp64hmn](../claims.d/CLAIM-tmp64hmn.md) objects that other processes reached the company. The press is still unread.

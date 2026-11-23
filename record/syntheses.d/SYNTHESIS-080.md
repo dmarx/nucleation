@@ -31,7 +31,7 @@ integrates:
 - CASE-227
 - ARG-068
 ---
-<!-- inactive-ok-file: THEORY-142 ARG-056 CASE-227 CASE-231 CLAIM-157 CLAIM-478 CLAIM-612 CLAIM-626 SYNTHESIS-035 SYNTHESIS-039 SYNTHESIS-048 — Proposed; components and citations, with their standing, and the audit this review applies -->
+<!-- inactive-ok-file: THEORY-142 ARG-056 CASE-227 CASE-231 CLAIM-157 CLAIM-478 CLAIM-612 SYNTHESIS-035 SYNTHESIS-039 SYNTHESIS-048 — Proposed; components and citations, with their standing, and the audit this review applies -->
 <!-- inactive-ok-file: ARG-068 CLAIM-473 — Rejected; a component and the conjecture a component refutes -->
 <!-- inactive-ok-file: SYNTHESIS-003 SYNTHESIS-006 — Superseded; cited as earlier accounts, not integrated -->
 <!-- inactive-ok-file: CLAIM-640 SYNTHESIS-076 SYNTHESIS-079 SYNTHESIS-082 SYNTHESIS-088 — Proposed; cited with its standing -->

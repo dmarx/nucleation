@@ -1,10 +1,10 @@
 ---
 number: 902
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpe87cm
 title: 'Under multiplicative co-occurrence with any implication structure among binary attributes and positive strengths, every attribute is an exact linear readout of the full-rank PMI embedding; on a balanced tree the PMI eigenvectors are branch contrasts whose eigenvalues fall strictly with depth, so a truncated embedding keeps exactly the shallow attributes and merges siblings below the cut'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -13,6 +13,14 @@ history:
     derivation QUESTION-025's first limb asks for. The closed form is
     checked numerically in scratch/studies/lead-147/ (tree_pmi.py and its
     tests).
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): a demonstrated derivation grounded on
+    THEORY-185 (Active), tests re-run; point 3 now states the strict
+    threshold and the tie at b = 2; QUESTION-025 is marked Answered in the
+    same change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -59,6 +67,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-186 THEORY-201 LIT-267 CLAIM-119 — Proposed; cited as the accounts this derivation meets, not as settled -->
+<!-- inactive-ok-file: CLAIM-tmp6ksyy CASE-344 — Proposed; the account that reads this claim, and its corpus test, named in the note of 2026-11-22 -->
 
 # CLAIM-902: Under multiplicative co-occurrence with any implication structure among binary attributes and positive strengths, every attribute is an exact linear readout of the full-rank PMI embedding; on a balanced tree the PMI eigenvectors are branch contrasts whose eigenvalues fall strictly with depth, so a truncated embedding keeps exactly the shallow attributes and merges siblings below the cut
 
@@ -117,8 +126,10 @@ centred eigenvectors (levels below K) therefore read out exactly every
 attribute of depth ≤ K. For a deeper attribute (depth ℓ > K), the
 least-squares readout is b^{−(ℓ−K)} on the whole subtree of its depth-K
 ancestor and 0 elsewhere. That value is identical for the attribute and
-all its siblings and cousins under that ancestor. With threshold ½, a
-probe misses every member and never fires outside the ancestor. The
+all its siblings and cousins under that ancestor. With threshold ½ read
+strictly (a probe fires above ½), a probe misses every member and never
+fires outside the ancestor; for b = 2 one level below the cut the readout
+is exactly ½, on the threshold. The
 recovered context is the tree cut at depth K, and its lattice is the
 generating lattice cut there.
 
@@ -163,3 +174,16 @@ cut. derivation_check.txt holds one run.
 - That a direction exists for each attribute in the sense of one
   eigenvector per attribute. The readout is exact, but the eigenvectors
   are contrasts.
+
+## Note of 2026-11-22: read as resource-relative individuation, in the exchange "Explain First Contact RL"
+
+A parallel, and a fair report. A29 of the exchange (ChatGPT, after the
+owner's U15) stated this claim correctly, full-rank embeddings reading
+every attribute exactly under implication and truncation merging deeper
+siblings, and reported [CASE-344](../cases.d/CASE-344.md) correctly as not showing the predicted
+loss by WordNet depth. It read the truncation as "an elegant model of
+resource-relative perspectival individuation": rank is a budget on the
+readout family, and raising it refines the partition of words into
+indistinguishable groups, as [CLAIM-574](CLAIM-574.md)'s nested probe families do. The
+mapping is A's, filed in [CLAIM-tmp6ksyy](CLAIM-tmp6ksyy.md) (Proposed); this note writes no
+relation, since CLAIM-902 is an illustration there, not a premise.

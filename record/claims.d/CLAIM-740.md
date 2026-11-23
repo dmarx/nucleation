@@ -2,9 +2,9 @@
 number: 740
 formerly:
 - CLAIM-tmpohafo
-status: Proposed
+status: Active
 title: 'For a party affected by a decision, explanation (understanding why it was reached), contestation (challenging it or the principles behind it) and interruption (suspending its execution while the challenge is considered) are separate entitlements, and each without the next fails in its own way: explanation without contestation is transparency without accountability, contestation without interruption a right that arrives too late, and interruption without reasons an arbitrary veto'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-11-17'
@@ -15,6 +15,22 @@ history:
     first split. Citron (2008) read; notice, hearing and pre-
     deprivation process are distinct safeguards that fail differently,
     which corroborates the claim.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    at the status review's ruling (the owner delegated these rulings;
+    ADR-057): CLAIM-624 moves from rests_on to complements, since the
+    title uses only CLAIM-523's separation of the three achievements and
+    CLAIM-624's duty is cited for the giving-an-account split, which is
+    not in the title; promoted to Active: CLAIM-523 is Active, no
+    objection, the defeated_if is not met.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.3. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -36,8 +52,8 @@ line:
 - distributed-agency
 rests_on:
 - CLAIM-523
-- CLAIM-624
 complements:
+- CLAIM-624
 - CLAIM-705
 summary: >-
   A's, from A23 §6 of the exchange "Assess Depp Heard Abuse" (2026-11-15),
@@ -54,9 +70,11 @@ summary: >-
   organization's; these are the affected party's entitlements, and
   [CLAIM-624](CLAIM-624.md)'s answerability is what contestation is owed under. The
   wording is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-705 TERM-125 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
-<!-- inactive-ok-file: CLAIM-624 — Proposed; a claim this rests on -->
+<!-- inactive-ok-file: CLAIM-624 — Proposed; a claim this complements -->
 <!-- inactive-ok-file: CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 <!-- inactive-ok-file: CLAIM-731 TERM-130 TERM-126 CLAIM-739 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpov8rf
 title: 'A reserve is described by where in a configuration space it can be applied, not only by how much there is: an organization can hold ample slack and still be pinned, when none of it can be brought to bear at the bottleneck of the transition it needs'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -31,6 +31,13 @@ history:
     resources of CLAIM-585. The old clause read: "A showing that the cases
     cited are all cases of nonfungible resources and nothing more, so that
     a vector of resource types (TERM-105) already says what location adds".
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §9.4. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -70,6 +77,8 @@ summary: >-
   location adds addressability, which a list of resource types does not
   carry. The wording is the assistant's (Claude, in this session); adopting
   it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-205 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 

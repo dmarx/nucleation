@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpfmmkt
 title: 'When an institution produces challengeable decisions faster than its corrective process can resolve them, the formal right to challenge stays with everyone while its preventive effect cannot: if valid challenges arrive at rate λ and are resolved at rate μ < λ, at most a share μ/λ can ever be resolved in time, whatever the order of review, and under first-come review none filed after a finite time is'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-16'
@@ -35,6 +35,14 @@ history:
     bound from rates; that one separates three entitlements, of which this
     shows one failure); complements CLAIM-740 added; a sentence on the
     difference added. No change of status or title.
+- version: 7
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §10.3, §13.4. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -71,8 +79,9 @@ summary: >-
   closed. With A's numbers t* is ten days. Checked by simulation. It is
   [TERM-085](../terms.d/TERM-085.md)'s deadline applied to a stream of cases. The wording is A's; the
   derivation is the filer's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
-<!-- inactive-ok-file: CLAIM-740 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-704 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: THEORY-1931 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-711 — filed from the same exchange, Proposed -->

@@ -1,16 +1,24 @@
 ---
 number: 947
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp6f8w8
 title: 'In the coupled meaning–influence model of two hypotheses and two specialists, with conferral a moving average toward a softmax of agreement with the current meaning, the symmetric state is unstable exactly when gσ² > 2(1 − φ(1 − ε)): the conferral memory and the meaning rate set how fast capture comes, not whether it comes or where it settles'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant, carrying out LEAD-090, from the
     executed study CASE-363.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): its ground CASE-363 went Active at this
+    review on a reproduced rerun; the derivation was rechecked; no
+    objection; the defeated_if is not met (spread 1e-9, 1,916 of 1,916
+    sets agree).
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -42,7 +50,7 @@ summary: >-
   positive loop destabilizes; under Regime B, γ = 0. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-363 CLAIM-948 CASE-317 — Proposed or new; the study this claim rests on and its companion, filed in the same batch, and LEAD-081's build, filed today -->
+<!-- inactive-ok-file: CASE-317 — Proposed or new; the study this claim rests on and its companion, filed in the same batch, and LEAD-081's build, filed today -->
 
 # CLAIM-947: In the coupled meaning–influence model of two hypotheses and two specialists, with conferral a moving average toward a softmax of agreement with the current meaning, the symmetric state is unstable exactly when gσ² > 2(1 − φ(1 − ε)): the conferral memory and the meaning rate set how fast capture comes, not whether it comes or where it settles
 

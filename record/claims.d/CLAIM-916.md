@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpke0ap
 title: 'A regulatory capacity''s constraint set is fixed by what realizes it: K holds each constraint the capacity''s own constraints depend on for their production, at the least level at which what depends on it is still produced, so once the agent and the capacity are named only the agent''s boundary is left to choose'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §8.6, §12.6. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,6 +52,8 @@ summary: >-
   [CLAIM-915](CLAIM-915.md) (wide), for the owner. Tested in [CASE-342](../cases.d/CASE-342.md). The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-342 CLAIM-917 CLAIM-915 — new, filed in this pull request for LEAD-053 -->
 <!-- inactive-ok-file: CASE-227 — Proposed; a case the rule is tested on, cited as open -->

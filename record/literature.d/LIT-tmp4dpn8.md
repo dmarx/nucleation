@@ -1,0 +1,35 @@
+---
+status: Deferred
+status_note: 'Registered 2026-11-23 from A63 of the exchange "Explain First Contact RL", which cites it in its article; not sought or read. The identifier is the one A63 gives, unverified.'
+title: 'Collaboration, Interdisciplinarity, and the Epistemology of Contemporary Science'
+version: 1
+history:
+- version: 1
+  date: '2026-11-23'
+  note: >-
+    Filed, not read. Registered from A63's reference list. The record
+    was searched by title and first author and holds no copy. The
+    identifier and the publication date are A63's and are not checked
+    against Crossref; the owner asked on 2026-11-23 to save readings for
+    later.
+tags:
+- philosophy-of-science
+- epistemology
+date: '2026-11-23'
+published: '2016-04-01'
+doi: '10.1016/j.shpsa.2015.10.006'
+first_author: 'Andersen'
+keywords: ['collaboration', 'epistemic dependence']
+implementations: []
+summary: >-
+  Andersen (2016), Studies in History and Philosophy of Science Part A 56:1–10. Cited by A63 of the exchange "Explain First Contact RL" (ChatGPT),
+  in its article section 7.5, for cognitive resources and epistemic dependence in collaborative science. What A63 says of it is unverified until read.
+---
+
+# LIT-tmp4dpn8: Collaboration, Interdisciplinarity, and the Epistemology of Contemporary Science
+
+Andersen (2016), Studies in History and Philosophy of Science Part A 56:1–10.
+
+## Key takeaways
+
+- Not read.

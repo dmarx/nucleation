@@ -259,3 +259,33 @@ readings, filed as alternatives for the owner:
 The readings agree that the organizational rungs give no authority beyond
 the organization; they differ on whether that is news. The question stays
 Open.
+
+## Note of 2026-11-22: the forager run, [LEAD-177](../leads.d/LEAD-177.md)
+
+<!-- inactive-ok-block: CLAIM-tmpnc1mf CLAIM-tmphrp1s CASE-239 — new or Proposed; the run of CASE-239, the design itself, and the claims drawn from it -->
+[CASE-239](../cases.d/CASE-239.md)'s forager was run as [CASE-tmpz762n](../cases.d/CASE-tmpz762n.md). A learner that forms its
+warnings from its own energy account, with no feature-to-failure mapping
+supplied, revised which features count where a change needed it
+([CLAIM-tmppa4rs](../claims.d/CLAIM-tmppa4rs.md)). Its gains vanished when the account was replaced by a score
+equal to it in training. Two readings are filed for the owner: that this
+meets [CASE-239](../cases.d/CASE-239.md)'s second defeater, so the criteria are the designer's in
+another form ([CLAIM-tmpnc1mf](../claims.d/CLAIM-tmpnc1mf.md)), or that the defeater cannot discriminate and
+the result shows the criteria bound to the condition of dissolution, as the
+design's main threat asks ([CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md)). The question stays Open.
+
+## Note of 2026-11-23: at the synthesis review
+
+<!-- inactive-ok-block: CLAIM-tmphrp1s CLAIM-tmpnc1mf CLAIM-920 — Proposed or new; the run and its readings -->
+The synthesis review of 2026-11-23 asked whether an integration across this
+question's answers is held in parts and stated by no entry. It is stated:
+in this question's own body (A16's verdict and ladder) and its notes, and in
+[CLAIM-648](../claims.d/CLAIM-648.md)'s note of 2026-11-22, which sets the endogenous profile against the
+etiological objection ([CLAIM-920](../claims.d/CLAIM-920.md)) and the run ([CASE-tmpz762n](../cases.d/CASE-tmpz762n.md)). A stronger
+sentence was tested, that once the agent and the capacity are named the only
+arbitrariness left in a norm of function is the choice of boundary
+([CLAIM-916](../claims.d/CLAIM-916.md)'s last clause, carried to this question); it failed, since the run
+leaves open whether learned warnings are the system's or the designer's in
+another form ([CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md) against [CLAIM-tmpnc1mf](../claims.d/CLAIM-tmpnc1mf.md)), which is not a choice
+of boundary. Nothing new is filed. [CLAIM-916](../claims.d/CLAIM-916.md) bears on this question through
+[CLAIM-648](../claims.d/CLAIM-648.md) and [CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md); whether it should also carry the
+organizational-normativity line is for the owner.

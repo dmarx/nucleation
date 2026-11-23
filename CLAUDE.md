@@ -126,6 +126,10 @@ Suggest switching off when going on would be awkward.
 upload or a work, and for reading registered works. Its steps are the
 `read-and-file` skill (`.claude/skills/read-and-file/SKILL.md`).
 
+[ADR-tmpbdfmk](record/decisions.d/ADR-tmpbdfmk.md) holds the invariants for writing a manuscript from the record, a
+view over its argument kept in `scratch/manuscripts/<work>/`. Its steps are
+the `write-manuscript` skill (`.claude/skills/write-manuscript/SKILL.md`).
+
 `luria new` is the only command a contribution needs locally. Open the pull
 request early and push each commit as you make it. The pull request's
 `docs-check` job repairs the sources, pushes the repair onto the branch, and

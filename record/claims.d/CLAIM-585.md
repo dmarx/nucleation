@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpuk8gq
 title: 'With several resources, the budgets that suffice for a transition form an upward-closed set whose minimal elements, when the transition paths are finitely many, form a Pareto frontier; the set need not be convex, so no threshold on a weighted total of the resources describes it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -36,6 +36,13 @@ history:
     sufficient route needs; the reading holds for resources held as
     capacities, and for cumulative ones only by a parallel argument
     the claim does not make. No other change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §9.4, §9.10. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -70,6 +77,8 @@ summary: >-
 complements:
 - CLAIM-563
 - CLAIM-580
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: THEORY-1420 CLAIM-555 — Proposed; A's proposals of 2026-11-04 and a reading's account, cited as filed, nothing here rests on their being settled beyond the rests_on -->
 

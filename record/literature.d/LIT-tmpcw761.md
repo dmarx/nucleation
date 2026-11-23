@@ -1,0 +1,60 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-23 for its passages on X-Men: The Last Stand ([NOTE-tmphwsps](../notes.d/NOTE-tmphwsps.md))
+  from the article page on looper.com; worth reading as the first of two
+  first-hand production accounts of where the Juggernaut line came from:
+  the actor calls it "Brett's line" and says the director "found that on
+  the internet and wanted to do that". Read it knowing that the quoted
+  words are Jones's but the framing is Looper's, and that Jones speaks of
+  Ratner's viewing at second hand.
+title: 'How Vinnie Jones Really Feels About His Role In X-Men - Exclusive'
+version: 1
+history:
+- version: 1
+  date: '2026-11-23'
+  note: >-
+    Registered and read on 2026-11-23 by the lead run of that date, found
+    by a web search for production testimony on the line. Read from
+    https://www.looper.com/233945/how-vinnie-jones-really-feels-about-his-role-in-x-men-exclusive/,
+    a free web page, through the session's fetch tool and then checked
+    verbatim against the page's HTML. Byline and date from the page:
+    David L. Lebovitz, Looper, 2020-08-06 (article:published_time
+    2020-08-06T15:03:45Z), which is `published:`. Journalism, no DOI. Not
+    checked against the Anthology of the SOTA (ADR-048: not required).
+tags:
+- social-science
+date: '2026-11-23'
+published: '2020-08-06'
+url: 'https://www.looper.com/233945/how-vinnie-jones-really-feels-about-his-role-in-x-men-exclusive/'
+first_author: 'Lebovitz'
+keywords:
+- 'Vinnie Jones'
+- 'Juggernaut'
+- 'X-Men: The Last Stand'
+- 'Brett Ratner'
+implementations: []
+summary: >-
+  Lebovitz (2020), Looper's own interview with Vinnie Jones. Jones on
+  Juggernaut: the role was "dissolved" when Ratner replaced Vaughn, and
+  the famous line is "Brett's line": the director "found that on the
+  internet and wanted to do that".
+---
+<!-- inactive-ok-file: NOTE-tmphwsps — new; filed by the lead run of 2026-11-23 -->
+
+# LIT-tmpcw761: How Vinnie Jones Really Feels About His Role In X-Men - Exclusive
+
+Lebovitz, D. L. (2020-08-06). Looper.
+
+Read for its passages on the film in [NOTE-tmphwsps](../notes.d/NOTE-tmphwsps.md).
+
+## Key takeaways
+
+- The actor who spoke the line attributes it to the director, and says
+  the director found it "on the internet".
+- He felt the role was cut down after Ratner replaced Matthew Vaughn.
+
+## Standing in the record
+
+Registered for [LEAD-188](../leads.d/LEAD-188.md), which asks for production testimony of how
+the fan redub of [CASE-100](../cases.d/CASE-100.md) reached the reshoot. Journalism, not theory.

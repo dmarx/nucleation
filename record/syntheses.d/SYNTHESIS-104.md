@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpzqep9
 title: 'Accountability without blame and normative governability: blame and accountability are proposed to come apart, so that correction does not wait on culpability and an organization may owe repair where no one is to blame, blame traced upstream supplies the provenance of an incapacity, an incapacity an institution brought about in breach of a duty does not excuse it, blame and repair do not substitute for each other, a complete record of who approved an outcome does not settle whether it can fairly be attributed to them, and an institution responsive within its governing mechanism need not be responsive to reasons for revising it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-18'
@@ -33,6 +33,15 @@ history:
     as a component, with the reason it belongs: it asks where blame ends
     while the other senses of responsibility go on. Arm B and Not-stated
     drop the pointer to SYNTHESIS-099. No other change.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added CLAIM-751,
+    CLAIM-905, CLAIM-tmp20uni, CLAIM-tmp64hmn and CLAIM-tmpauu5r, claims
+    carrying this line that bear on QUESTION-476 and that no account
+    integrated. They are set out at the end of the components; CLAIM-750,
+    on which they turn, carries rightful-power only and is integrated by
+    SYNTHESIS-100. The title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here, its voice or its status
   among what can be misstated, and the owner's U47 and A110's
@@ -68,6 +77,11 @@ integrates:
 - CLAIM-719
 - TERM-128
 - QUESTION-473
+- CLAIM-751
+- CLAIM-905
+- CLAIM-tmp20uni
+- CLAIM-tmp64hmn
+- CLAIM-tmpauu5r
 bears_on:
 - QUESTION-470
 - QUESTION-473
@@ -365,6 +379,37 @@ it. No reading of 2026-11-18 bears on either.
 - [CLAIM-719](../claims.d/CLAIM-719.md), A's; thesis, interpretive, Proposed.
 - [TERM-128](../terms.d/TERM-128.md), A's term with the owner's link; Proposed.
 - [QUESTION-473](../questions.d/QUESTION-473.md), A's, raised by a review the owner forwarded; first filing; Open; line organizational-normativity. No reading.
+
+Added at version 4, at the synthesis review of 2026-11-23: five claims
+bearing on [QUESTION-476](../questions.d/QUESTION-476.md) that carry this line and that no account
+integrated. [SYNTHESIS-100](SYNTHESIS-100.md) integrates them too, with [CLAIM-750](../claims.d/CLAIM-750.md) (line
+rightful-power only), on which they turn.
+
+- [CLAIM-751](../claims.d/CLAIM-751.md), the lead filer's, proposed on 2026-11-18 and accepted for
+  filing by the owner; thesis, interpretive, Proposed; first line
+  rightful-power. Upstream provenance can be carried without blame, as
+  the NTSB's Tempe report ([CASE-292](../cases.d/CASE-292.md)) did; it complements [CLAIM-733](../claims.d/CLAIM-733.md) and
+  [CLAIM-750](../claims.d/CLAIM-750.md), uses [TERM-127](../terms.d/TERM-127.md), and bears on [QUESTION-476](../questions.d/QUESTION-476.md) and [QUESTION-470](../questions.d/QUESTION-470.md).
+- [CLAIM-905](../claims.d/CLAIM-905.md), the assistant's, the finding of the pilot [CASE-335](../cases.d/CASE-335.md) run for
+  [LEAD-119](../leads.d/LEAD-119.md); thesis, empirical, Proposed; first line rightful-power. Public
+  software postmortems rarely trace a cause above the engineering team,
+  where Chemical Safety Board investigations mostly do; it bears on
+  [QUESTION-476](../questions.d/QUESTION-476.md) and corroborates [CLAIM-750](../claims.d/CLAIM-750.md), weakly by its own account.
+- [CLAIM-tmp20uni](../claims.d/CLAIM-tmp20uni.md), the assistant's, for [LEAD-189](../leads.d/LEAD-189.md) (2026-11-22); thesis,
+  empirical, Proposed; first line rightful-power. On the Tempe failure the
+  criminal process convicted only the operator while the investigation
+  barred from blame named the company and the state; it complements
+  [CLAIM-751](../claims.d/CLAIM-751.md), corroborates [CLAIM-707](../claims.d/CLAIM-707.md), and bears on [QUESTION-476](../questions.d/QUESTION-476.md) and
+  [QUESTION-470](../questions.d/QUESTION-470.md).
+- [CLAIM-tmp64hmn](../claims.d/CLAIM-tmp64hmn.md), the assistant's, same filing; counter, interpretive,
+  Proposed; first line rightful-power. It objects to [CLAIM-tmp20uni](../claims.d/CLAIM-tmp20uni.md) that
+  the contrast is between the criminal law and a safety investigation,
+  not between blame and its absence; it bears on [QUESTION-476](../questions.d/QUESTION-476.md).
+- [CLAIM-tmpauu5r](../claims.d/CLAIM-tmpauu5r.md), the assistant's, same filing; counter, interpretive,
+  Proposed; first line rightful-power. It objects to [CLAIM-750](../claims.d/CLAIM-750.md) that a
+  single postmortem is the wrong unit for testing where a blameless trace
+  stops, since Google's practice routes questions about priorities set
+  above the team to reviews across incidents; it bears on [QUESTION-476](../questions.d/QUESTION-476.md).
 
 ## Not stated on the record
 

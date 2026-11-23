@@ -104,7 +104,7 @@ summary: >-
   opportunity for it sits in a process, and what automation does to it.
 ---
 <!-- unresolved-ok-file: CLAIM-tmp11xvc — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
-<!-- inactive-ok-file: CLAIM-731 CLAIM-740 CLAIM-715 CLAIM-730 CASE-285 — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
+<!-- inactive-ok-file: CLAIM-731 CLAIM-715 CLAIM-730 CASE-285 — filed from the continuation of the same exchange on 2026-11-17, Proposed -->
 <!-- inactive-ok-file: CASE-250 — Proposed; a case that uses "friction" in another sense -->
 <!-- inactive-ok-file: LIT-2660 TERM-125 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-2676 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->

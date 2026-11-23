@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpt568z
 title: 'What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available'
-version: 7
+version: 9
 history:
 - version: 2
   date: '2026-10-21'
@@ -50,6 +50,19 @@ history:
   note: >-
     A dated note added: LEAD-077's run of CASE-158's design. The entry
     is otherwise unchanged.
+- version: 8
+  date: '2026-11-23'
+  note: >-
+    A dated note added: LEAD-180's run of CASE-108, the
+    compromised-evaluator variant. The claim is unchanged.
+- version: 9
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.6, §13.7. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -94,6 +107,8 @@ summary: >-
   locks in with action available, because its own sampling policy
   withholds the evidence that would correct it. The claim does not say
   action is unimportant, only that it is not what does the anchoring.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-247 CLAIM-655 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
@@ -351,3 +366,21 @@ unchanged.
 <!-- inactive-ok-block: CASE-353 CLAIM-931 TERM-147 — new; filed for LEAD-020 -->
 
 [CASE-353](../cases.d/CASE-353.md) ([LEAD-020](../leads.d/LEAD-020.md)) simulates this claim's thesis in one mind with action held fixed. The loop stays out of lock-in when something scores or weights it that its authority does not set: commitment before evidence, processing signals or exogenous capture. Evidence that arrives unselected but is attended through the loop's authority keeps it sighted without anchoring it. So of "arrival or scoring", in that model only scoring anchors, plus arrival that carries its own weight past attention, as capture does. This claim's caveat about pooling appeared too. Capture of the sensory channel failed (lock-in 0.77) when an attended body channel outweighed it. In [TERM-147](../terms.d/TERM-147.md)'s terms, these anchors are not independent of the loop's state in either sense: the committed score reads the evidence as attended, and capture compares the input with the interpretation. What they share is that the loop's authority does not set their weight. [CLAIM-931](CLAIM-931.md) states the finding. No status changes.
+
+## Note of 2026-11-23: the compromised evaluator, run
+
+[CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md) runs [CASE-108](../cases.d/CASE-108.md)'s evaluator variant, which tests this claim. Three
+findings. Without evidence on a block of tasks that does not pass
+through the proposals, no governance rule that treats members alike told
+an attack from dissent pushing the same block ([CLAIM-tmpxoxys](CLAIM-tmpxoxys.md)): in this class the
+claim's condition is necessary. Evidence pooled with evaluators who
+score that block against the majority's prior is evidence that passes
+through the interpretation, and protected nothing. And independence held
+block by block: compromising 2 of 7 evaluators left the block all seven
+hold safe and let the attack through on the block two hold ([CLAIM-tmpd6gon](CLAIM-tmpd6gon.md)). One
+model class. The claim is unchanged.
+
+## Note of 2026-11-23: a two-variable instance, from "Explain First Contact RL"
+
+<!-- inactive-ok-block: CLAIM-tmpep410 CLAIM-tmp8nzk0 CLAIM-tmp9in65 — Proposed, filed from A50 of the exchange "Explain First Contact RL" on 2026-11-23 -->
+A50 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) cites this claim for a toy model in which a response and the standard that evaluates it adapt toward each other ([CLAIM-tmpep410](CLAIM-tmpep410.md)): they converge to a point fixed by their initial conditions, and only a pull of the standard toward an independent target d makes d the equilibrium. That is this claim's anchoring condition in two linear variables, with the anchor as the evidence that does not pass through the loop. The assistant's gap fill ([CLAIM-tmp8nzk0](CLAIM-tmp8nzk0.md)) measures it: after a transient the gap between response and standard is a fraction of about κ/(α + β) of the response's distance from d, so the share of the standard's movement that comes from the anchor sets how far measured agreement understates inadequacy. A50's reading for regulation is [CLAIM-tmp9in65](CLAIM-tmp9in65.md). The claim is unchanged.

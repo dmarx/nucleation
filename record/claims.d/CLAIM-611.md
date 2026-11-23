@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp6xhn3
 title: 'When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-07'
@@ -65,6 +65,13 @@ history:
     coverage (the owner's laboratory), statistical persistence,
     external maintenance and standing. Reported by the synthesis
     review of 2026-11-11 (seventh round). No other change.
+- version: 8
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.0. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -125,6 +132,8 @@ summary: >-
   SYNTHESIS scheme as SYNTHESIS-003 on 2026-11-07 ([ADR-076](../decisions.d/ADR-076.md)), where it was
   admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md), and returned to
   CLAIM under its own code on 2026-11-08 (ADR-084).
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-612 CLAIM-623 CLAIM-616 CLAIM-618 CASE-225 CASE-231 CASE-224 — filed from the same exchange, Proposed; components and restored owner contributions -->

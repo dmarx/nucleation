@@ -2,7 +2,7 @@
 number: 39
 status: Open
 formerly:
-- QUESTION-039
+- QUESTION-tmp0dy29
 title: 'What sets the order and the moment, in training time or in examples, at which a network acquires a structure, and is acquisition one kind of event or several?'
 version: 2
 history:

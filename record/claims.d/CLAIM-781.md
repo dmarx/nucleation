@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpy75jv
 title: 'Rate differences between levels, where they exceed the rate differences within a level, do two jobs in a hierarchy: the ratio of the rate within a level''s blocks to the rate between them is the margin by which the block aggregate is a slow manifold and the coarse variable closes, and its logarithm is the spacing between that level and the next in the tree the time geometry becomes; so dynamical hyperbolicity at every level makes the whole geometrically hyperbolic, which is how rate differences make hierarchical structure and not only mark it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-20'
@@ -21,6 +21,13 @@ history:
     A dated note: the metastability and ultradiffusion readings support
     the closure side and add the branching to the condition. No change of
     status or title.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.1. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -65,6 +72,8 @@ summary: >-
   between levels that exceed those within make the state space's time
   geometry a hierarchy. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: THEORY-2137 THEORY-2141 — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-780 CLAIM-770 CLAIM-772 — Proposed; filed in this contribution or the one it builds on -->

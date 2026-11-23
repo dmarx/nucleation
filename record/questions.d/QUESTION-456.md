@@ -272,3 +272,18 @@ against one another, which the compatibility complex also needs, and not
 on who counts as a claimant. Its guidelines are the second half of A42's
 procedure, justifying the resolution, for one measurement practice. The
 question stays Open.
+
+## Note of 2026-11-23: governance that keeps the demand set small, from [LEAD-181](../leads.d/LEAD-181.md)
+<!-- inactive-ok-file: CLAIM-tmpjz94s CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
+
+[CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) models the demand set as fixed and independently specified,
+with the recognized part of it set by the institution's inquiry. Under
+governance that penalizes recognized violations and does not reward
+discovery, the recognized set stays the visible one, and the internal count
+ends near 0 against about 3.4 to 6.1 true violations. Scoring by an
+independent count of the whole set, or a reward for discovery, brings
+inquiry back ([CLAIM-tmpjz94s](../claims.d/CLAIM-tmpjz94s.md), [CLAIM-tmp0bqyu](../claims.d/CLAIM-tmp0bqyu.md)); an amnesty on newly
+recognized violations alone does not where inquiry is costly. That bears on
+the question's demand that the set be checked against "a reference set the
+organization did not choose": in the model, nothing else restores the
+search. The question stays Open.

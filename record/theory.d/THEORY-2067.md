@@ -2,7 +2,7 @@
 number: 2067
 status: Proposed
 formerly:
-- THEORY-2067
+- THEORY-tmpf6s7m
 title: 'Papadimitriou and Jurafsky find that LSTM language models whose recurrent weights are trained on Java code, on matched-pair parenthesis languages or on MIDI music, then frozen while only the embeddings are finetuned on Spanish, reach far lower Spanish perplexity than ones trained on random text, and that flat crossing pairs transfer as well as nested ones'
 version: 1
 source:

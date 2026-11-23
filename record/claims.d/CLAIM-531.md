@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpr242r
 title: 'Generative entrenchment does not by itself give organizational closure: an entrenched core, which later interactions depend on so that perturbing it is catastrophic and perturbing them tolerable, can sit at the root of an acyclic dependency order, and where interactions turn over such an order persists only while something outside supplies its core; an organization that is both entrenched and closed has a core containing a cycle of mutual maintenance, each interaction on which is itself core unless its share of the maintenance is redundant'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -20,6 +20,13 @@ history:
   date: '2026-11-22'
   note: >-
     A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §5.2, §11.4. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -63,6 +70,8 @@ summary: >-
   scaffolded conexus. It does not say their communities lack closure,
   only that entrenchment and knockout do not show it; and it reads
   Wimsatt's concept only as they quote it.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: THEORY-2273 — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full; the sketch whose step from entrenchment to closure this claim examines -->

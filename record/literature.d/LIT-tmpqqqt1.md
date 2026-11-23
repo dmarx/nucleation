@@ -1,0 +1,61 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-23 ([NOTE-tmpwvqch](../notes.d/NOTE-tmpwvqch.md)), sections I–III and the signature
+  pages, from the University of North Texas end-of-term 2008 web archive's
+  capture of oig.hhs.gov/fraud/cia/docs/CIAPurdue.pdf (capture of
+  2008-10-07), a federal agency's own publication; a dated primary
+  document coded as data in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).
+title: 'Corporate Integrity Agreement between the Office of Inspector General of the Department of Health and Human Services and Purdue Pharma L.P.'
+version: 1
+history:
+- version: 1
+  date: '2026-11-23'
+  note: >-
+    Registered and read on 2026-11-23 by the lead run of that date.
+    Checked: not held in record/literature.d by title or party. The
+    signature dates are not legible in the scanned copy; the agreement
+    accompanies the settlement of 2007, so `published` is the first of
+    that year's settlement month as the complaint read beside it dates the
+    2007 settlements, and only the year is relied on. No email address
+    was sent to any service.
+tags:
+- society-and-governance
+- ethics
+date: '2026-11-23'
+published: '2007-05-01'
+url: 'https://webarchive.library.unt.edu/eot2008/20081007083411/http://oig.hhs.gov/fraud/cia/docs/CIAPurdue.pdf'
+first_author: 'Office of Inspector General, HHS'
+keywords:
+- 'corporate integrity agreement'
+- 'Purdue Pharma'
+- 'OxyContin'
+implementations: []
+summary: >-
+  The five-year compliance agreement Purdue Pharma entered with HHS's
+  Office of Inspector General beside its 2007 settlement: its term, and
+  the duties it set, among them sales compensation designed so that
+  incentives do not motivate improper promotion. Read in [NOTE-tmpwvqch](../notes.d/NOTE-tmpwvqch.md);
+  coded as data in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).
+---
+<!-- inactive-ok-file: NOTE-tmpwvqch CASE-tmphvbov — new; the reading and the study that codes this document -->
+
+# LIT-tmpqqqt1: Corporate Integrity Agreement between the Office of Inspector General of the Department of Health and Human Services and Purdue Pharma L.P.
+
+HHS-OIG and Purdue Pharma L.P. (2007): https://webarchive.library.unt.edu/eot2008/20081007083411/http://oig.hhs.gov/fraud/cia/docs/CIAPurdue.pdf
+
+## Key takeaways
+
+- **The term.** "The period of the compliance obligations assumed by Purdue
+  under this CIA shall be five years from the effective date of this CIA,
+  unless otherwise specified" (Section II.A).
+- **What it required of incentives.** Policies on "compensation (including
+  salaries and bonuses) for Relevant Covered Persons engaged in promoting
+  and selling Purdue products that are designed to ensure that financial
+  incentives do not inappropriately motivate such individuals to engage in
+  the improper promotion or sales of Purdue's products" (Section III.B.2).
+
+## Standing in the record
+
+A primary document, not an account: it fixes when the sanction on Purdue
+ended. No THEORY is filed from it.

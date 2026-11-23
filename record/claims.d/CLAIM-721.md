@@ -166,3 +166,8 @@ title is shown necessary. [CLAIM-950](CLAIM-950.md) corroborates this claim with
 formal demonstration; it does not rest on the model, which reads no real
 institution. Whether the demonstration moves this claim's warrant from
 interpretive to demonstrated is the owner's call. No status change.
+
+## Note of 2026-11-23: the trap without decay, from "Explain First Contact RL"
+
+<!-- inactive-ok-block: CASE-tmp0nsah CLAIM-tmpumpxw — new; the case and thesis filed from these turns -->
+A54 §6 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23), on the owner's employee who must justify an idea to a manager ([CASE-tmp0nsah](../cases.d/CASE-tmp0nsah.md)): "A manager who requires extensive justification before allowing any exploration may demand evidence that cannot exist until exploration occurs", a loop of no evidence, no authorization, no exploration, no evidence. It is this claim's form with nothing decaying: the evidence the restriction waits for is never produced, rather than lost. That form is held by [CLAIM-406](CLAIM-406.md) (Active), where an arrangement keeps an exclusion going "through the indicators of competence that only being sought produces". A54's remedy is this claim's "route to practice": "A small preauthorized exploration budget", "A staged process in which early experiments generate evidence before larger authorization is required", and maintained perspectives in which questions "can be developed and provisionally tested without requiring immediate endorsement by the whole organization" ([CLAIM-tmpumpxw](CLAIM-tmpumpxw.md)). No status change.

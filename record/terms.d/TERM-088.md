@@ -69,6 +69,7 @@ draws_on:
 <!-- inactive-ok-file: TERM-098 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-167 CLAIM-170 CLAIM-544 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed, Open or new; the entries this term serves -->
+<!-- inactive-ok-file: CLAIM-tmptxsin — new; A15's revised account of the self, cited in the note of 2026-11-22 -->
 
 # TERM-088: individuation, and which sense: descriptive (an inquiry can distinguish and track it), dynamical (its organization persists under specified dynamics and perturbation, with robust identity and boundaries), constitutive (its relational organization helps fix its identity and boundary), and organizational autonomy, the further achievement of contributing to the maintenance of its own constitutive constraints
 
@@ -232,3 +233,7 @@ A26 §9 proposed three senses of reification of a class, using the owner's genre
 A12 listed a genetic sense of individuation, how regions and their boundaries form, as part of the record's inquiry. This term excludes the genetic sense (note of 2026-10-31; [THEORY-1276](../theory.d/THEORY-1276.md)), and a claim that means it says so. A7 §4's "autonomous lower-dimensional phase" means a phase with its own symmetry and excitations, not this term's organizational autonomy.
 
 No change to the definition. No status change.
+
+## Note of 2026-11-22: two more rows between the descriptive and the dynamical senses
+
+In the exchange "Explain First Contact RL" (ChatGPT, shared 2026-11-22), A13 §4 split "separating", "individuating" and "constituting" perspectives within a self, which are this term's descriptive, dynamical and constitutive senses applied to perspectives. A15 §1 then gave five questions, "Can we tell two response profiles apart?" (observational separation), "Do they have different causal roles?" (functional differentiation), "Are they maintained as distinct organizations?" (dynamical individuation), "Are they governed by separate authorities?" (organizational differentiation), and "Do they constitute different selves?" ("a further, much stronger claim"). The second and fourth are not senses of individuation in this term's list. Functional differentiation is what [CLAIM-414](../claims.d/CLAIM-414.md) shows can hide under matched ordinary trajectories; organizational differentiation is [CLAIM-454](../claims.d/CLAIM-454.md)'s relations of access, uptake and authority. A15's revised account of the self, [CLAIM-tmptxsin](../claims.d/CLAIM-tmptxsin.md), uses the five rows; this term is unchanged. A parallel, not evidence. No change to the definition. No status change.

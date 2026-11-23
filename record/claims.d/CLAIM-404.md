@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjo2zr
 title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
-version: 13
+version: 14
 history:
 - version: 2
   date: '2026-10-21'
@@ -87,6 +87,13 @@ history:
     Abuse" raised reflexive control again, and A developed a route
     through the situation the target's values respond to, filed
     separately. No other change.
+- version: 14
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.5. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -148,7 +155,10 @@ bears_on:
 - QUESTION-070
 - QUESTION-100
 - QUESTION-071
+works:
+- governance-of-possibility
 ---
+<!-- inactive-ok-file: CASE-tmpd80em CLAIM-tmp0v3wu CLAIM-tmpz8q70 CLAIM-tmp42aba — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
 <!-- inactive-ok-file: LIT-2453 — Unfetched; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-244 CLAIM-656 CLAIM-660 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; open claims and readings this claim rests on or cites, and it is Proposed with them -->
@@ -569,3 +579,9 @@ that any regulator, newsroom or expert body is captured"): "We need
 evidence of intention, anticipation, capacity, and causal influence."
 
 No status changes.
+
+## Note of 2026-11-22: the loop between two institutions, derived for one model
+
+"The two-institution version has not been derived" (What it does not say) no longer holds for [CASE-092](../cases.d/CASE-092.md)'s model as [LEAD-090](../leads.d/LEAD-090.md) built it. [LEAD-015](../leads.d/LEAD-015.md)'s build, [CASE-tmpd80em](../cases.d/CASE-tmpd80em.md), couples two such institutions, an evaluator and the party it evaluates, through the party's hold on the evaluator's evidence (θ) and resources (ω) and the evaluator's hold on the party's standing (ψ) and evidence (χ). With each institution stable alone, the pair leaves symmetry exactly when (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, Δ_i being each institution's own margin ([CLAIM-tmp0v3wu](CLAIM-tmp0v3wu.md)).
+
+For this claim's second defeat condition, the showing that the loop between the institutions "adds nothing to the two loops within them": in this model it adds something. [CLAIM-tmpz8q70](CLAIM-tmpz8q70.md) sets out four cases: capture with no loop inside either institution; an evaluator in Regime B whose authority stays balanced while its reading is captured, which is "formal independence of the evaluator's procedure does not make its evaluation independent" in the model; capture through resources with the evidence independent; and no capture once the return channel is cut. Under a second reading of resources, as capacity ([CLAIM-tmp42aba](CLAIM-tmp42aba.md)), the resource channel drops from the linear condition but captures one side below it. All three are Proposed, and demonstrated only for the model. Whether the third part's warrant moves is the owner's call. The claim is unchanged.

@@ -2,7 +2,7 @@
 number: 397
 status: Open
 formerly:
-- QUESTION-397
+- QUESTION-tmp4jbc3
 title: 'Under what conditions does a partial organization increase the probability of subsequent organization by changing the transition dynamics, rather than merely providing a more advanced initial state?'
 version: 1
 tags:

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpgfyls
 title: 'Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-25'
@@ -46,6 +46,12 @@ history:
   note: >-
     Note of 2026-11-22 added: Ito and Kaneko's core, removed, is refilled
     from the periphery (CASE-313). The claim is unchanged.
+- version: 8
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: Chesson (2011) read (NOTE-tmp6d961); a
+    parallel to A46's point that operators with different overall
+    success can stay complementary. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -232,5 +238,20 @@ this by removing the core. Former periphery units fall into the core role
 and re-form it at its size and structure, so the role is a regime units
 fall into, not a kind of unit. This is one model at one parameter point,
 and the case illustrates the claim without grounding it.
+
+The claim is unchanged.
+
+## Note of 2026-11-22: Chesson (2011), read
+
+A parallel only, not evidence for the claim. The note of 2026-10-18
+gives A46's point that "two operators with different overall success can
+stay complementary because they do well in different circumstances".
+Chesson's 2011 chapter, [LIT-tmp7sngn](../literature.d/LIT-tmp7sngn.md) ([NOTE-tmp6d961](../notes.d/NOTE-tmp6d961.md)), says the same of
+species: "Differences in performance under specific conditions lead to
+tolerance of average performance differences" (p. 48). In MacArthur's
+model the specific differences lower the overlap ρ, and the tolerated
+fitness ratio is then any value between ρ and 1/ρ. That concerns
+coexistence of differentiated components, not whether a role is a
+regime or a kind, which is this claim's thesis.
 
 The claim is unchanged.

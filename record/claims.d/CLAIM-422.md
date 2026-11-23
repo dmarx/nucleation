@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmplrpat
 title: 'A successful corrective act, an executable procedure and a maintained organizational capacity are three different things, so an organization can record a correction, even rewrite its rules, without the corrected capacity being maintained'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-22'
@@ -34,6 +34,14 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: the National Transportation Safety Board (LIT-2664) read on 2026-11-16, NOTE-2034. No change of status or title.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §10.1, §10.2, §13.2, §13.8.
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -58,6 +66,7 @@ grounds:
 - CASE-138
 - CASE-135
 works:
+- governance-of-possibility
 - organization-of-perspective
 - who-gets-to-say-stop
 summary: >-
@@ -199,3 +208,7 @@ instances).
 ## Note of 2026-11-22: decay by task type
 
 Supported, unchanged. In the posted data of Tatel & Ackerman's meta-analysis ([CASE-314](../cases.d/CASE-314.md)), real-world procedures lose accuracy with disuse more slowly than laboratory tasks, but medical and dental procedures still lose it measurably (0.04 SD a month), so a trained procedure is not a maintained capacity. Corroborated by [THEORY-2211](../theory.d/THEORY-2211.md). No status change.
+
+## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
+
+Instance, the assistant's. A gap of the manuscript governance-of-possibility, §10.2 (GC9). The manuscript's model shows a capability made once and then lost to the budget rule with no turnover: under the peak rule a transition made leaves the budget at its peak for one period, and after a period spent holding it is lost again ([CLAIM-577](CLAIM-577.md)). The act succeeded; the capacity to repeat it was not maintained. That is this claim's separation, by a mechanism other than the decay with disuse of the notes above: nothing is forgotten, and the loss is [CLAIM-568](CLAIM-568.md)'s first obstruction, a resource ceiling, here lowered by the allocation rule itself. The note is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.

@@ -2,9 +2,9 @@
 number: 758
 status: Proposed
 formerly:
-- CLAIM-758
+- CLAIM-tmp8ljvp
 title: 'Overconsolidation, a generalization of overfitting: relative to a declared family of later acquisitions lying outside the training task distribution, continued stabilization of a learner can keep improving its present objective while raising the budget it needs to acquire that family to a declared reliability with its held capabilities kept above a declared floor, so collateral forgetting counts as part of the cost; it is not overfitting to a data distribution, nor task-level overfitting within a training task distribution, and it is a failure only relative to that family and horizon'
-version: 2
+version: 3
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -31,6 +31,13 @@ history:
     distribution and prices acquisition with held capabilities kept above
     a floor, so collateral forgetting is part of the cost. Version 1's title
     read: 'Overconsolidation, a generalization of overfitting: relative to a declared family of future demands, continued stabilization of a learner''s organization can keep improving its present objective while raising the cost of acquiring, recovering or reaching other capabilities, so a learner can learn itself into a trap without overfitting its data; it is a failure only relative to that declared family and horizon'.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §11
+    states its proposition, overconsolidation as a failure relative to a
+    family of demands. No other change.
 tags:
 - learning-theory
 - representation-learning
@@ -68,6 +75,8 @@ summary: >-
   collateral forgetting counts as cost.
 uses:
 - TERM-131
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: THEORY-2006 THEORY-2015 THEORY-2019 THEORY-2025 THEORY-2027 THEORY-2034 THEORY-2053 THEORY-2056 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-294 CLAIM-695 CLAIM-754 THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
@@ -252,3 +261,20 @@ with a tradition. Together they suggest something this claim lacks:
 consolidation that raises the cost of a later acquisition can lower the
 cost of detecting that it is needed. Analogy, about communities of
 scientists.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: ADR-tmpsfjxu TERM-tmpu5k0o — Proposed; the work and the term -->
+Extension. A48 §11 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md)) carries this
+claim to industrial ecosystems and draws productive specialization against
+destructive lock-in ([TERM-tmpu5k0o](../terms.d/TERM-tmpu5k0o.md)), with the justification standard left
+open.
+
+## Note of 2026-11-23: Lippl and Lindsey, read
+<!-- inactive-ok-file: THEORY-tmpw69kb — Proposed or new; filed by the lead run of 2026-11-23 -->
+
+A parallel only ([THEORY-tmpw69kb](../theory.d/THEORY-tmpw69kb.md); [NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md)): pretraining is
+always to convergence, so nothing on time course. But the scale of the
+weights after pretraining, which the pretraining objective does not see,
+decides whether fine-tuning can still pick out a sparse set of new or
+reused features. No status change.

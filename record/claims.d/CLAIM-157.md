@@ -134,6 +134,7 @@ bears_on:
 - QUESTION-218
 - QUESTION-219
 ---
+<!-- inactive-ok-file: THEORY-tmpgdriu — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: CASE-334 CLAIM-904 — new; LEAD-083's study and claim of 2026-11-22 -->
 <!-- inactive-ok-file: CASE-311 CLAIM-869 — new; LEAD-069's study and claims of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
@@ -427,3 +428,39 @@ own supply the block criterion's target; the lattice match is a property of
 the lattice's homogeneous boundary. This bounds the claim without objecting to
 it: the block test still names the block it is defined to name. No change of
 status or title.
+
+## Note of 2026-11-22: Ott and Antonsen, read
+
+A parallel, no edge. In Ott and Antonsen's model of communities of
+oscillators ([NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md), eq. 15) each community's order parameter
+obeys a closed equation at any coupling between communities, so closure of
+a community's collective variable does not wait on the community's being
+a weakly coupled block: the nonlinear counterpart of [CLAIM-388](CLAIM-388.md), and the gap
+between closure and block that [QUESTION-218](../questions.d/QUESTION-218.md) asks about. The whole
+population, isolated, passes this criterion trivially. The criterion is
+unchanged.
+
+## Note of 2026-11-22 (later): Caprioglio and Berthouze, read
+
+Evidence, weak ([THEORY-tmpgdriu](../theory.d/THEORY-tmpgdriu.md) corroborates this claim). In simulations
+of identical phase-frustrated oscillators on three-layer hierarchically
+modular networks, each lowest-layer module acts as "a single
+macro-oscillator" only while the Laplacian's spectral gap between the
+lowest two layers is large; below a threshold (near 2 in their model) its
+members desynchronize and resynchronize under the slower modes. The
+gap-isolated block is the unit, with a numerical threshold for one network
+family; the paper does not compare the gap with an Occam factor. The
+criterion is unchanged.
+
+## Note of 2026-11-23: what holds it back
+
+Rechecked after [CASE-334](../cases.d/CASE-334.md) and [CLAIM-904](CLAIM-904.md), [CASE-311](../cases.d/CASE-311.md) and [CLAIM-869](CLAIM-869.md), [CASE-347](../cases.d/CASE-347.md) and
+[CLAIM-926](CLAIM-926.md), [CLAIM-780](CLAIM-780.md) and [CLAIM-781](CLAIM-781.md), [NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md), and the notes of
+2026-11-22 and 2026-11-23 on [QUESTION-218](../questions.d/QUESTION-218.md) and [QUESTION-116](../questions.d/QUESTION-116.md). The necessity
+half of the defeated_if is still unanswered and now pressed: [CLAIM-904](CLAIM-904.md)
+measures two closed modes that compensate (and one entrains) and that the
+test on member groupings does not single out, and [CLAIM-869](CLAIM-869.md) a Life block
+that compensates and fails it, each one model at one setting and both
+Proposed; [QUESTION-218](../questions.d/QUESTION-218.md) is still Open on whether such a mode is one system,
+and [QUESTION-116](../questions.d/QUESTION-116.md) leaves to the owner whether [CASE-347](../cases.d/CASE-347.md)'s lagged test answers
+it. The duration clause still has no window or tolerance.

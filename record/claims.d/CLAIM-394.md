@@ -46,6 +46,7 @@ bears_on:
 complements:
 - CLAIM-478
 ---
+<!-- inactive-ok-file: CLAIM-478 CLAIM-tmpa694z CLAIM-tmpervl4 — Proposed; the claim whose defeater names this one and the verdict on Ott and Antonsen, 2026-11-22 -->
 
 # CLAIM-394: In a stationary linear Gaussian VAR(1) that is time-reversible (AΠ = ΠAᵀ, Π the stationary covariance), every slow-feature direction is a left eigenvector of A, so any span of slow features is an exactly dynamically independent coarse-graining; off reversibility a slow feature is in general neither independent nor free of memory
 
@@ -109,3 +110,13 @@ eigenoperators, not slow features against closure. It shows the
 off-reversibility worry can be tamed by a small parameter where one exists.
 
 The claim is unchanged.
+
+## Note of 2026-11-22: a sibling among the exceptions
+
+[CLAIM-478](CLAIM-478.md)'s defeater (a) names this claim's reversible case among the
+exact closures that bear on it only if typical. Ott and Antonsen's
+reduction, read for [LEAD-094](../leads.d/LEAD-094.md) ([NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md), [NOTE-tmp5oph4](../notes.d/NOTE-tmp5oph4.md)), is a nonlinear
+sibling: an exact closure by structure, here first-harmonic coupling
+([CLAIM-tmpo6ehq](CLAIM-tmpo6ehq.md)), in a restricted class. The verdict on it is filed as
+alternatives, [CLAIM-tmpa694z](CLAIM-tmpa694z.md) and [CLAIM-tmpervl4](CLAIM-tmpervl4.md). Nothing here changes this
+claim.

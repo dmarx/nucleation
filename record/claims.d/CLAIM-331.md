@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpufacs
 title: 'A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition'
-version: 10
+version: 11
 history:
 - version: 2
   date: '2026-10-16'
@@ -59,6 +59,13 @@ history:
     (NOTE-1534): what slowness marks is relative to an environment
     and a measure of size, and moves with the environment's strength.
     The claim is unchanged.
+- version: 11
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §3.1 and
+    §3.2 use it as a step: levels are slower, and slowness alone does not
+    establish identity. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -93,7 +100,10 @@ summary: >-
   a slow variable is thereby a level, a system or an individual.
 complements:
 - CLAIM-327
+works:
+- governance-of-possibility
 ---
+<!-- inactive-ok-file: THEORY-tmpqdy16 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-747 — Proposed; the measured memory length cited for the graded ordering, open -->
 <!-- inactive-ok-file: LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-571 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -290,3 +300,11 @@ the environment sets. That is a reason, beyond [CASE-116](../cases.d/CASE-116.md
 slowness define a level.
 
 The claim is unchanged.
+
+## Note of 2026-11-22: Kaur, Jain and Berman, read
+
+A parallel, no edge. Kaur, Jain and Berman ([THEORY-tmpqdy16](../theory.d/THEORY-tmpqdy16.md)) find slow
+behavioral states, which bias fast movement, as metastable basins in a
+transfer operator's slow eigenvectors: slowness as an operational mark of
+a behavioral level. They add a caution: where the gap between fast and
+slow rates is wide, a single-resolution analysis misses the slow level.

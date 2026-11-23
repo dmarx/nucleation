@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp06538
 title: 'Before the four obstructions to a transition stands a failure of compatibility, no configuration meeting the demands, repaired by changing the constraints, since dropping a demand is not relief; and after them a failure of regeneration, the capability not surviving turnover, repaired by maintenance or reproduction; so a diagnosis runs through six levels, each with its own repair'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -18,6 +18,13 @@ history:
     the body uses them for the repair of compatibility, that dropping a
     demand is not relief and that no resource relieves a non-face while the
     architecture is fixed.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §10
+    states a capability that succeeds once while the capacity to repeat it
+    deteriorates. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,6 +69,8 @@ summary: >-
   without a new architecture. A's further hope that the levels are
   "substrate-independent" is left to [CLAIM-573](CLAIM-573.md). The wording is A's;
   adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-194 CASE-207 CLAIM-573 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
@@ -140,3 +149,18 @@ Audited at the synthesis review of 2026-11-21 ([ADR-075](../decisions.d/ADR-075.
 **What the skill would do.** Fold the mapping into its scope's account and set the claim Superseded. That is a status change on an Active entry, so it waits for the owner ([ADR-127](../decisions.d/ADR-127.md)).
 
 **A narrower sentence the reader thought might pass by derivation**, with [CLAIM-516](CLAIM-516.md) as a further premise: "Under turnover with no basal production, no remedy for [CLAIM-568](CLAIM-568.md)'s four obstructions keeps a capability over horizons longer than turnover unless it creates a productive cycle among the capability's producers." Before filing it, check that [CLAIM-531](CLAIM-531.md) and [CLAIM-532](CLAIM-532.md) do not already hold it.
+
+## Note of 2026-11-23: the synthesis review's audit, again
+
+At the synthesis review of 2026-11-23 a second reader, briefed neutrally and
+not told of the note above, reached the same verdict: the claim adds nothing
+to [CLAIM-568](CLAIM-568.md), [CLAIM-566](CLAIM-566.md), [CLAIM-347](CLAIM-347.md) and [CLAIM-586](CLAIM-586.md) set side by side, and the
+first clause of its `defeated_if` is met by a capability lost over a horizon
+with no turnover and no failure of information, such as creep or fatigue of
+a folded structure. The recommendation stands: fold the mapping into the
+realizability and readiness accounts and set the claim Superseded, and, if it
+is kept, drop the defeater's exhaustiveness. Both wait for the owner.
+
+## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
+
+Instance, the assistant's. A gap of the manuscript governance-of-possibility, §10.2 (GC9). The manuscript's model shows a capability made once and then lost to the budget rule with no turnover: under the peak rule a transition made leaves the budget at its peak for one period, and after the next period spent holding the transition is lost again ([CLAIM-577](CLAIM-577.md)). The manuscript says this falls under none of the six levels. It does not: it is [CLAIM-568](CLAIM-568.md)'s first obstruction, "A feasible path exceeds a resource ceiling", with the ceiling set by the rule itself, which is this claim's affordability level ("Does a path fit the budget?"), repaired by adding or reallocating resources (outside money, a floor, a reserve). So it is not a second instance of the capability "lost over a horizon with no turnover and no failure of information" that the two audit notes above found to meet the first clause of this claim's defeater; it leaves their verdict where it was, resting on creep or fatigue. The note is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.

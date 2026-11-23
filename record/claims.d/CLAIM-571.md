@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbi4ca
 title: 'For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-06'
@@ -59,6 +59,12 @@ history:
     A dated note: A74 §3 of the exchange "Assess Depp Heard Abuse"
     indexes the threshold by a normatively permitted set of paths,
     which can only raise it. No other change.
+- version: 7
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §9 uses
+    its threshold, the least peak over paths. No other change.
 grounds:
 - CASE-233
 role: thesis
@@ -96,6 +102,8 @@ complements:
 - CLAIM-563
 - CLAIM-575
 - CLAIM-591
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-584 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: THEORY-1420 CASE-198 CASE-200 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->

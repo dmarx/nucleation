@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpk0nka
 title: 'The pragmatic-transport line is twelve part accounts, of communicative kinds, of fidelity relative to receivers, of the communicative object and its obstructions, of what the line adds and how it is tested, of language models as a test bed, of composition in conditional generation, of directed transport by kernels, of the act a rendering keeps besides its proposition, of Saussure''s value, of frames and the judgement–observation loop, of reconstruction chains, and of conservation under kernels, with eleven moved promotion conditions integrated directly; the parts meet at what survives a rendering, which most of their questions refine, at the anchoring of a correspondence, at fidelity as a profile and at the frame as a configuration; four claims are filed by derivation and no link between the parts passes the claim test'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: CASE-370,
+    QUESTION-509 and QUESTION-513, in-force entries of the line no account
+    integrated, were added to the part accounts SYNTHESIS-069,
+    SYNTHESIS-063 and SYNTHESIS-062, and their counts under the parts
+    follow (58, 41 and 35). Nothing is added to `integrates`; the title is
+    unchanged.
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the pragmatic-transport line that neither a part
@@ -82,7 +92,7 @@ from contextuality. The Superseded entries that carry the line,
   and it is relative to the receivers' decisions ([CLAIM-050](../claims.d/CLAIM-050.md)). It holds the
   line's root question, [QUESTION-002](../questions.d/QUESTION-002.md), and the claim filed with it,
   [CLAIM-636](../claims.d/CLAIM-636.md).
-- **The communicative object ([SYNTHESIS-069](SYNTHESIS-069.md)), 57 entries.** A
+- **The communicative object ([SYNTHESIS-069](SYNTHESIS-069.md)), 58 entries.** A
   communicative object is a context-indexed system of empirical
   constraints over a cover of contexts ([CLAIM-038](../claims.d/CLAIM-038.md)), whose global
   realizability is to be found out; local descriptions that disagree are
@@ -98,7 +108,7 @@ from contextuality. The Superseded entries that carry the line,
   and agreement across model families.
 - **Composition in conditional generation ([SYNTHESIS-061](SYNTHESIS-061.md)), 9
   entries.** A case for the theory and not a realization of it.
-- **Directed transport by kernels ([SYNTHESIS-063](SYNTHESIS-063.md)), 40 entries.**
+- **Directed transport by kernels ([SYNTHESIS-063](SYNTHESIS-063.md)), 41 entries.**
   Directed transport keeps overlap consistency and global extendability under two sufficient conditions, but constrains a translation only as a property of a rendering procedure ([CLAIM-207](../claims.d/CLAIM-207.md); [CLAIM-228](../claims.d/CLAIM-228.md), Proposed); a transport is admissible only if it keeps specified distinctions apart ([CLAIM-077](../claims.d/CLAIM-077.md)), and intertwining with an uninformative correspondence is vacuous or lossy ([CLAIM-011](../claims.d/CLAIM-011.md)). Decision-relevant information across a change of cover stays open ([CLAIM-125](../claims.d/CLAIM-125.md)). It integrates the two claims filed with it, [CLAIM-637](../claims.d/CLAIM-637.md)
   and [CLAIM-638](../claims.d/CLAIM-638.md).
 - **The act a rendering keeps ([SYNTHESIS-058](SYNTHESIS-058.md)), 27 entries.**
@@ -107,7 +117,7 @@ from contextuality. The Superseded entries that carry the line,
 - **Saussure's value ([SYNTHESIS-065](SYNTHESIS-065.md)), 7 entries.** Value is fixed by
   contrast within one language state; whether it supports transport is
   open.
-- **Frames and the loop ([SYNTHESIS-062](SYNTHESIS-062.md)), 34 entries.** A frame is an
+- **Frames and the loop ([SYNTHESIS-062](SYNTHESIS-062.md)), 35 entries.** A frame is an
   operation on an interpretive state ([TERM-026](../terms.d/TERM-026.md)); telling an interpreter
   about a situation is a different intervention from changing it
   ([CLAIM-130](../claims.d/CLAIM-130.md)); and what keeps a judgement–observation loop from

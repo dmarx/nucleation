@@ -28,7 +28,6 @@ summary: >-
   authority-grant claims are stated against. Named in [CASE-092](../cases.d/CASE-092.md) and
   [QUESTION-117](../questions.d/QUESTION-117.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-363 CLAIM-947 CLAIM-948 — new; filed 2026-11-22 for LEAD-090 and cited in the note of that date -->
 <!-- inactive-ok-file: CASE-317 — Proposed; filed today for LEAD-081 -->
 
 # LEAD-090: Build the coupled meaning-influence model with its linearization, and place a reduced form of it inside its predecessor models or find a phenomenon it produces that they cannot

@@ -1,0 +1,89 @@
+---
+status: Proposed
+title: "Zollman's account of transient diversity, by contrast, limits the claim that maintained diversity matters more than transient variety: diversity of pursuit kept indefinitely stops a learning group from settling, so what should be maintained is capacity, not pursuit"
+version: 1
+form: contrast
+grounds:
+- THEORY-148
+concludes:
+- CLAIM-tmp6thmv
+uses:
+- TERM-tmp9lu6c
+tags:
+- philosophy-of-science
+- epistemology
+- network-science
+date: '2026-11-23'
+line:
+- realizability
+- distributed-agency
+summary: >-
+  A60 §5 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23)
+  argues that "maintained diversity matters more than transient variety"
+  ([CLAIM-tmp6thmv](../claims.d/CLAIM-tmp6thmv.md), step 5). The record holds Zollman's result
+  ([THEORY-148](../theory.d/THEORY-148.md), Proposed) that diversity of pursuit helps a learning group
+  when it lasts long enough and then gives way, and harms it when made
+  permanent. The two use "transient" in different senses, and together
+  they narrow step 5 to maintained capacity, not maintained pursuit. The
+  conclusion's own standing stays in [CLAIM-tmp6thmv](../claims.d/CLAIM-tmp6thmv.md). The wording is the
+  assistant's (Claude, in this session); adopting it is the owner's call.
+---
+
+<!-- inactive-ok-file: THEORY-148 CLAIM-tmp6thmv — Proposed or new; the reading, the claim it bounds and its term -->
+
+# ARG-tmpdnptq: Zollman's account of transient diversity, by contrast, limits the claim that maintained diversity matters more than transient variety: diversity of pursuit kept indefinitely stops a learning group from settling, so what should be maintained is capacity, not pursuit
+
+## The inference
+
+[THEORY-148](../theory.d/THEORY-148.md)'s contrast: in Zollman's bandit model, the same agents and
+methods, with diversity of pursuit made to last a while (by sparse
+communication or by stubborn priors) or to last indefinitely (by both),
+differ in outcome. A while helps the group survive misleading early
+evidence; indefinitely, "the group never settles". Zollman: "both
+together make the diversity too stable".
+
+A60 §5 contrasts an organization that lets "many different opinions" be
+expressed with no enduring support, which "displays diversity without
+maintaining much corresponding capacity", with one that supports "several
+small, enduring communities of inquiry", and concludes for the second.
+
+The two do not conflict once their terms are kept apart:
+
+- A60's **transient variety** is unsupported utterance: opinions with no
+  practice, method or channel behind them. Zollman's **transient
+  diversity** is diversity of what members actually pursue, supported for
+  a time and then given up. A60's sense is not Zollman's, and Zollman's
+  is a virtue.
+- What Zollman shows harmful is **maintained pursuit**: everyone keeps
+  acting on their own option. What A60 argues for is **maintained
+  capacity**: the competence to take an option up again, kept while the
+  ecosystem acts on another. A dormant perspective that can be
+  reactivated (A60 §5; [CLAIM-421](../claims.d/CLAIM-421.md)'s interruption of activation) is
+  capacity kept without pursuit.
+
+So step 5 of [CLAIM-tmp6thmv](../claims.d/CLAIM-tmp6thmv.md) holds of maintained capacity. Read as a call to keep
+every perspective's pursuit going, it is bounded by [THEORY-148](../theory.d/THEORY-148.md).
+
+## Critical questions
+
+- **Is everything said to be held fixed really fixed?** In Zollman's model,
+  yes: agents, methods and payoffs are fixed and only the sources of
+  diversity vary. Between his model and A60's ecosystems, no: Zollman's
+  agents learn which of two known options is better, while A60's concern
+  is questions not yet posed. The bound therefore applies where an
+  ecosystem's perspectives are rival pursuits of one question, not where
+  they answer different ones.
+- **Does changing the factor change anything else?** Making diversity
+  permanent in Zollman's model also delays consensus, and the cost it
+  measures is that delay. A60's argument counts no cost of delay; the bound
+  is that it should.
+- **Is the case realistic, or only coherent?** [THEORY-148](../theory.d/THEORY-148.md) is Proposed, shown
+  only in simulation, with Rosenstock and colleagues' finding that
+  transient diversity is what holds across the models they test. The
+  bound has that standing.
+
+## Verdict
+
+Proposed: the contrast holds within its scope and narrows step 5. Whether
+maintaining capacity without pursuit is affordable is [CLAIM-463](../claims.d/CLAIM-463.md) and
+[CLAIM-558](../claims.d/CLAIM-558.md)'s ground: a capability seldom used decays unless practised.

@@ -4,13 +4,20 @@ status: Proposed
 formerly:
 - CLAIM-tmpprgb1
 title: 'Under matched information and capacity, ablating an agent''s slow structure tells resolve from mere persistence only by what the ablation removes and only in conjunction: a reset rules out inertia but not imposed protection, recovery from a reset rules out imposed protection, revision under a defeater as the commitment ages rules out entrenchment, and ablating the timescale or yoking the values can read resolve as inertia'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant, carrying out LEAD-159, from the
     executed study CASE-383.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §5.2. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -50,6 +57,8 @@ summary: >-
   and capacity held fixed", has to say which ablation, and needs all three
   tests together. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-383 — new, the study this claim rests on, filed in the same batch -->
 

@@ -24,7 +24,7 @@ summary: >-
   both halves. Named in [QUESTION-025](../questions.d/QUESTION-025.md) and [QUESTION-178](../questions.d/QUESTION-178.md). Filed by the
   backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CLAIM-902 CASE-344 — new, filed today by this lead's run -->
+<!-- inactive-ok-file: CASE-344 — new, filed today by this lead's run -->
 
 # LEAD-147: Derive the PMI spectrum of a co-occurrence model with implication among binary attributes, and measure PMI additivity across a known hierarchy and across analogy families
 

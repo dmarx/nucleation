@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp68okc
 title: 'In the transmission criterion of identity over time, an outside maintainer''s organization is part of what is transmitted just insofar as it holds organization the repertoire depends on that the individual does not carry and that a competent unrelated replacement, working from the individual, would not supply; a garage holds none of a car''s, so a change of garage continues the car whole, while an unrelated new maintainer can continue a project only in the respects its code carries'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §12.4. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -56,6 +64,8 @@ summary: >-
   participants say "it's not the same thing". The assistant leans to this
   reading. The owner chooses between the readings. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-615 CLAIM-611 CLAIM-617 CASE-223 — Proposed; the claim whose slot this fills, its premise kept here, the claim on community verdicts and the owner's study -->
 <!-- inactive-ok-file: CLAIM-983 ARG-216 — new; the alternative reading and the argument both share -->

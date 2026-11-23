@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwpvbz
 title: 'A process with no procedural friction can still be interruptible: standing constraints set slowly in advance and enforced by mechanisms faster than the process can foreclose alternatives keep it open to intervention without delaying it, so an opportunity to intervene does not consist in friction'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-11-16'
@@ -42,6 +42,12 @@ history:
   date: '2026-11-22'
   note: >-
     A dated note added: Frischmann and Benesch (LIT-3136) registered and read on 2026-11-22 for LEAD-152, NOTE-2359. No change of status or title.
+- version: 9
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §7 uses
+    it: slow rule formation with fast execution. No other change.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -61,6 +67,7 @@ date: '2026-11-15'
 line:
 - distributed-agency
 works:
+- governance-of-possibility
 - capability-restraint-relational-freedom
 objects_to:
 - CLAIM-710
@@ -205,3 +212,28 @@ without slowing each decision, as CLAIM-711 says is possible. Relation: corrobor
 ## Note of 2026-11-22: Frischmann and Benesch, read
 
 Background, not evidence ([LIT-3136](../literature.d/LIT-3136.md), [NOTE-2359](../notes.d/NOTE-2359.md)). The content-neutral regulations Frischmann and Benesch sketch are standing rules set in advance, with triggers (a count of forwards, a border, social-graph distance) that delay what they catch and leave the rest alone (pp. 437–42): the shape this claim describes. They justify them by the deliberation they allow, not by interruptibility, and report no test. Relation: none. No status changes.
+
+<!-- inactive-ok-file: CLAIM-tmpcag0t — Proposed; filed in this filing of 2026-11-23 (third share) -->
+
+## Note of 2026-11-23: the slow commitment applied fast
+
+A42 §3 and A44 §4 of the exchange "Explain First Contact RL" (third share,
+ChatGPT, 2026-11-22) both cite this claim. A42: "the rate of executing a
+decision can be separated from the rate of revising the rules that
+authorize it". A44: "Preauthorize fast actions that remain within the
+jurisdiction of the slower governing structure. ... The commitment is
+slow; its application is fast." Both are faithful to it. A44 adds the
+residual case, an emergency outside the preauthorized categories, which
+needs "an escalation or revision pathway rather than merely faster
+execution of obsolete rules". [CLAIM-tmp947v0](CLAIM-tmp947v0.md) and [CLAIM-tmpcag0t](CLAIM-tmpcag0t.md) cite this
+claim.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: TERM-125 — Proposed; the sense this waits on -->
+Whether its counterexample removes friction or relocates it, the first
+clause of its defeated_if, turns on whether an independent execution gate is
+procedural friction in [CLAIM-710](CLAIM-710.md)'s sense, which [TERM-125](../terms.d/TERM-125.md) leaves open and
+[CLAIM-710](CLAIM-710.md)'s note of 2026-11-22 on [CASE-316](../cases.d/CASE-316.md) leaves to the owner. Promoting it
+would also make its concession due on [CLAIM-710](CLAIM-710.md), the owner's own claim, so
+the sense must be settled first.

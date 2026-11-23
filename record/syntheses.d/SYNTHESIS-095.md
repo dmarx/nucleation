@@ -3,7 +3,7 @@ number: 95
 status: Proposed
 formerly:
 - SYNTHESIS-tmpt2tjp
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-17'
@@ -55,6 +55,14 @@ history:
     of SYNTHESIS-099 and the paragraph on components carrying
     organizational-normativity first say so. The relation counts of
     version 3 are left as counted. No other change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added CLAIM-760, an
+    in-force entry of the line no account of the line integrated,
+    directly, in a new section, since its scope is none of the six parts'.
+    The summary's count of entries integrated directly changes from ten to
+    eleven. The title is unchanged.
 title: 'The dependence-and-domination line is six accounts: what wholes and parts owe and claim; what those who govern an arrangement others depend on owe; responsibility for another''s conditions, and moral exploitation; restricting capabilities, and who controls the terms of waiting and contracting; remedies foreclosed before review; and answerability and contestability; the parts meet mostly where the later four use the first part''s term for domination and point at its claims on control of terms, and the line makes no claim beyond its parts'
 defeated_if: >-
   A part account or component misstated or misattributed here, a
@@ -88,6 +96,7 @@ integrates:
 - CLAIM-718
 - QUESTION-485
 - ARG-117
+- CLAIM-760
 bears_on:
 - QUESTION-460
 - QUESTION-461
@@ -124,11 +133,11 @@ summary: >-
   the reconciliation of the exchange's two filings. Of 136 front-matter
   relations among the parts' 80 components, 93 fall within a part; 25 of
   the 43 across point into the first part, eight of them uses of
-  TERM-124. Ten entries of this line mapped by organizational-normativity's
+  TERM-124. Eleven entries of this line mapped by organizational-normativity's
   part accounts, or by none, are integrated directly. The account adds
   nothing of its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ARG-103 ARG-110 ARG-113 ARG-115 ARG-116 ARG-117 CASE-256 CASE-257 CASE-261 CASE-264 CASE-279 CASE-281 CASE-282 CASE-285 CASE-286 CASE-287 CASE-288 CASE-289 CASE-290 CLAIM-423 CLAIM-428 CLAIM-445 CLAIM-478 CLAIM-603 CLAIM-619 CLAIM-624 CLAIM-669 CLAIM-670 CLAIM-671 CLAIM-682 CLAIM-684 CLAIM-685 CLAIM-690 CLAIM-700 CLAIM-701 CLAIM-702 CLAIM-707 CLAIM-708 CLAIM-709 CLAIM-710 CLAIM-713 CLAIM-715 CLAIM-720 CLAIM-721 CLAIM-722 CLAIM-723 CLAIM-724 CLAIM-726 CLAIM-728 CLAIM-730 CLAIM-731 CLAIM-732 CLAIM-734 CLAIM-736 CLAIM-737 CLAIM-739 CLAIM-740 CLAIM-743 CLAIM-744 CLAIM-745 CLAIM-746 CLAIM-747 CLAIM-748 SYNTHESIS-038 SYNTHESIS-091 SYNTHESIS-092 SYNTHESIS-093 SYNTHESIS-098 SYNTHESIS-099 SYNTHESIS-101 SYNTHESIS-102 SYNTHESIS-103 TERM-122 TERM-123 TERM-124 TERM-126 TERM-129 TERM-130 THEORY-1917 THEORY-1947 THEORY-1957 THEORY-1959 THEORY-1972 — Proposed; components, citations and the readings that support them, with their standing -->
+<!-- inactive-ok-file: ARG-103 ARG-110 ARG-113 ARG-115 ARG-116 ARG-117 CASE-256 CASE-257 CASE-261 CASE-264 CASE-279 CASE-281 CASE-282 CASE-285 CASE-286 CASE-287 CASE-288 CASE-289 CASE-290 CLAIM-423 CLAIM-428 CLAIM-445 CLAIM-478 CLAIM-603 CLAIM-619 CLAIM-624 CLAIM-669 CLAIM-670 CLAIM-671 CLAIM-682 CLAIM-684 CLAIM-685 CLAIM-690 CLAIM-700 CLAIM-701 CLAIM-702 CLAIM-707 CLAIM-708 CLAIM-709 CLAIM-710 CLAIM-713 CLAIM-715 CLAIM-720 CLAIM-721 CLAIM-722 CLAIM-723 CLAIM-724 CLAIM-726 CLAIM-728 CLAIM-730 CLAIM-731 CLAIM-732 CLAIM-734 CLAIM-736 CLAIM-737 CLAIM-739 CLAIM-743 CLAIM-744 CLAIM-745 CLAIM-746 CLAIM-747 CLAIM-748 SYNTHESIS-038 SYNTHESIS-091 SYNTHESIS-092 SYNTHESIS-093 SYNTHESIS-098 SYNTHESIS-099 SYNTHESIS-101 SYNTHESIS-102 SYNTHESIS-103 TERM-122 TERM-123 TERM-124 TERM-126 TERM-129 TERM-130 THEORY-1917 THEORY-1947 THEORY-1957 THEORY-1959 THEORY-1972 — Proposed; components, citations and the readings that support them, with their standing -->
 <!-- inactive-ok-file: ARG-099 — Rejected; cited with its standing -->
 
 # SYNTHESIS-095: The dependence-and-domination line is six accounts: what wholes and parts owe and claim; what those who govern an arrangement others depend on owe; responsibility for another's conditions, and moral exploitation; restricting capabilities, and who controls the terms of waiting and contracting; remedies foreclosed before review; and answerability and contestability; the parts meet mostly where the later four use the first part's term for domination and point at its claims on control of terms, and the line makes no claim beyond its parts
@@ -218,7 +227,8 @@ summary: >-
 
 Every component whose first line is dependence-and-domination, the part
 accounts apart, is integrated by exactly one of the six part accounts,
-with the exceptions below, which this account integrates directly.
+with the exceptions below, which this account integrates directly
+(and [CLAIM-760](../claims.d/CLAIM-760.md), added at version 5, which no part takes).
 Several entries also carry another line and are integrated again by that
 line's accounts, which the part accounts name.
 
@@ -254,6 +264,22 @@ organizational-normativity first or only: [CLAIM-707](../claims.d/CLAIM-707.md),
 [CLAIM-703](../claims.d/CLAIM-703.md), [CLAIM-700](../claims.d/CLAIM-700.md) and [CLAIM-722](../claims.d/CLAIM-722.md) (and [CLAIM-701](../claims.d/CLAIM-701.md), which
 also carries distributed-agency). Whether organizational-normativity's
 account integrates them directly is that account's to say.
+
+## Integrated directly, in no part (added at version 5)
+
+- **[CLAIM-760](../claims.d/CLAIM-760.md)** (A's, from A62 §9 of the exchange "Topological protection
+  explained", filed at the owner's request on 2026-11-19; thesis,
+  interpretive, Active; also realizability, where [SYNTHESIS-106](SYNTHESIS-106.md) and
+  [SYNTHESIS-107](SYNTHESIS-107.md) integrate it). That an organization makes an activity
+  cheaper for those who perform it does not show that work was saved: it
+  may have been transferred, to an earlier time, to upkeep or to other
+  parties, and work saved, work transferred and capability expanded are
+  three separate achievements. It rests on [CLAIM-303](../claims.d/CLAIM-303.md) and complements
+  [CLAIM-060](../claims.d/CLAIM-060.md), [CLAIM-603](../claims.d/CLAIM-603.md), [CLAIM-676](../claims.d/CLAIM-676.md), [CLAIM-761](../claims.d/CLAIM-761.md) and, in this line,
+  [CLAIM-731](../claims.d/CLAIM-731.md) (in [SYNTHESIS-098](SYNTHESIS-098.md)); its body says the contesting cost a
+  transfer imposes is [CLAIM-731](../claims.d/CLAIM-731.md)'s subject. Its scope, the
+  accounting of work across a system's boundary, is none of the six
+  parts', so it is integrated here; it was filed after the parts.
 
 ## Where they meet
 

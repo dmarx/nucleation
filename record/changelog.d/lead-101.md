@@ -1,0 +1,11 @@
+### Added
+
+- [CASE-tmphvbov](record/cases.d/CASE-tmphvbov.md), an executed study for [LEAD-101](record/leads.d/LEAD-101.md): corporate sanctions that ended, coded from open sources, under rules written before coding, for whether the firm kept weighing others' harms after; one quantitative study and three firm cases (Purdue Pharma, Siemens, Wells Fargo), with data, a summary script and tests under scratch/studies/lead-101/. No case meets the lead's standard.
+- [THEORY-tmpvtotj](record/theory.d/THEORY-tmpvtotj.md), Gallo, Lynch and Tomy's account of corporate monitors under deferred and non-prosecution agreements: fewer penalised violations only while the monitor is on site.
+- [CLAIM-tmpm9a3z](record/claims.d/CLAIM-tmpm9a3z.md) (a monitor's effect does not outlast it), [CLAIM-tmpsuj5n](record/claims.d/CLAIM-tmpsuj5n.md) (the sanction-versus-redesign test separates remorse from prudence only in the redesigned arm, with reputation and benefit fixed), and two alternative readings of the board-change result, [CLAIM-tmpuvgxw](record/claims.d/CLAIM-tmpuvgxw.md) and [CLAIM-tmpioexk](record/claims.d/CLAIM-tmpioexk.md) (leaned to).
+- [ARG-tmpd3vkm](record/arguments.d/ARG-tmpd3vkm.md), the monitor study as evidence for [CLAIM-432](record/claims.d/CLAIM-432.md), Proposed with the run's lean to Rejected.
+- Six sources registered and read, each a LIT with a NOTE: the monitor study ([LIT-tmpaya40](record/literature.d/LIT-tmpaya40.md)), Purdue's 2007 corporate integrity agreement ([LIT-tmpqqqt1](record/literature.d/LIT-tmpqqqt1.md)), Indiana's complaint against the Sacklers ([LIT-tmpy9yua](record/literature.d/LIT-tmpy9yua.md)), the Norwegian Council on Ethics on Siemens ([LIT-tmp5i00q](record/literature.d/LIT-tmp5i00q.md)), 100Reporters on Siemens ([LIT-tmptlfo6](record/literature.d/LIT-tmptlfo6.md)), and the Federal Reserve's lift of Wells Fargo's growth restriction ([LIT-tmppg6h5](record/literature.d/LIT-tmppg6h5.md)).
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-101](record/leads.d/LEAD-101.md), [CLAIM-431](record/claims.d/CLAIM-431.md), [CLAIM-432](record/claims.d/CLAIM-432.md), [CLAIM-039](record/claims.d/CLAIM-039.md), [QUESTION-265](record/questions.d/QUESTION-265.md) and [CASE-151](record/cases.d/CASE-151.md). No status or stage changed.

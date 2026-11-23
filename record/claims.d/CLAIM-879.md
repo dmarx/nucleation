@@ -4,13 +4,20 @@ status: Proposed
 formerly:
 - CLAIM-tmpsaql8
 title: 'In a queueing model whose overseer keeps the same authority, information and reviewers at every speed, making the acting institution''s actions irreversible sooner lowers the share of objectionable actions stopped in time gradually and from before the timing condition fails at the means; at the settings run, precommitted limits win back the share they foresee and automatic suspension the share detected in time, each delaying only what it holds, while a pause wins back capacity only by giving up the speed, and wins back none when speed also multiplies the volume of actions'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant, carrying out LEAD-068, from the
     runs of CASE-316.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §7.2. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -59,6 +66,8 @@ summary: >-
   intervention opportunity without impedance ([CLAIM-706](CLAIM-706.md)), not that any
   institution works so. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-316 — new; the study this claim rests its evidence on, filed with it -->
 <!-- inactive-ok-file: CASE-285 CLAIM-706 CLAIM-710 CLAIM-711 CLAIM-730 TERM-125 — Proposed; the design carried out and the entries the result bears on -->

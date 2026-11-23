@@ -23,6 +23,7 @@ summary: >-
   orientation" is weaker than [CLAIM-030](../claims.d/CLAIM-030.md)'s operative intention.
 ---
 
+<!-- inactive-ok-file: CASE-tmpktyr7 CLAIM-tmp24fw0 CLAIM-tmp4ybsw CLAIM-tmp48sm1 CLAIM-tmp9av3u — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-192 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # QUESTION-119: When a diffusely organized population with no procedure for collective judgment is credited with a stance, or with an effect on an outside institution, when is the credit due to the population as organized, and when is it a biased sample of what some members said or did?
 
@@ -81,3 +82,18 @@ representatives (p. 7), which reaches the more organised fans, the biased
 sample of a diffuse population this question worries about. The paper
 does not discuss it, and it credits no stance to a fanbase, so it is not
 evidence on when the credit is due.
+
+## Note of 2026-11-23: the Juggernaut route, testified and modelled
+
+The run of [LEAD-188](../leads.d/LEAD-188.md) ([CASE-tmpktyr7](../cases.d/CASE-tmpktyr7.md)) found that the effect in [CASE-100](../cases.d/CASE-100.md)
+passed through one decision-maker who, the actor says, saw the redub
+online ([CLAIM-tmp24fw0](../claims.d/CLAIM-tmp24fw0.md)). Whether the credit is due to the population's
+circulation or to a short list of identifiable contributors is not
+settled by one case: a model of it favours circulation over a list
+naming the distributors by at most about five to one, and under two once
+the case's fame is allowed for ([CLAIM-tmp4ybsw](../claims.d/CLAIM-tmp4ybsw.md)). The two readings are
+filed as alternatives, [CLAIM-tmp48sm1](../claims.d/CLAIM-tmp48sm1.md) and [CLAIM-tmp9av3u](../claims.d/CLAIM-tmp9av3u.md). The case also
+shows where this question's "biased sample" worry enters an effect:
+the record knows of the case because the video was famous, and allowing
+for that ascertainment takes the observation's factor for circulation
+over a bare list from about ten or more to under two.
