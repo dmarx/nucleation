@@ -18,11 +18,16 @@ f(x) = ReLU(WᵀWx + b), loss ‖x − f(x)‖² (Table 1's L, no factor ½).
   the dead column of the 5-gon frozen under SGD, the posterior energy and
   the confined sampler). Run: `python3 -I -m pytest -q scratch/studies/lead-175`.
 - `sgd_sweep.py`: the SGD sweep; one JSON line per run in
-  `results/sgd_*.jsonl`, written per (n, batch) job; resumable.
+  `results/sgd_*.jsonl`, written per (n, batch) job; resumable per run
+  (a partly written job is completed, not skipped).
 - `posterior.py`: HMC on p_n(w) ∝ exp(−n L(w)) N(w; 0, I₁₈) over a ladder
   of n: `pt` (parallel tempering, occupancy of each region) and
   `restricted` (sampling confined to one region, for thermodynamic
-  integration); one JSON line per block; resumable.
+  integration); one JSON line per block; resumable from an atomic checkpoint
+  that holds the block count, configuration and generator state, reconciled
+  with the output on restart.
+- `test_resume.py`: pytest for resumption after an interrupted write, in both
+  scripts.
 - `prior_regions.py`: prior mass and prior mean of L of each region (the
   n = 0 anchor of the integration).
 - `run_restricted.sh`: the confined runs, region by region.
