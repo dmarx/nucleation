@@ -67,3 +67,8 @@ the kept-exactly-when condition for thresholds 1, 2 and 3.
 ## Gap filled
 
 A48 §9.3–9.4: the unstated reserve in Regime III's row of the table.
+
+## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: CLAIM-878 — Proposed; the drill already held -->
+Extension, the assistant's. A gap of the manuscript governance-of-possibility, §9.5 (GC5). In the manuscript's model the redesign without a reserve (III-a) does worse than no redesign (I): at p = 0.02, R(6) is 0.147 against 0.267, mean response 14.83 against 12.76 periods, output 0.758 against 0.787. Outside money raises the budget to the least threshold ([CLAIM-577](CLAIM-577.md)'s step 4), and the redesign makes the cheapest route the slower staged one. With each edge crossed with chance 0.5 a period, three edges take 6 periods on average against the original's 4, a difference of 2 against the 2.07 observed. That rests on two of the modeller's choices that the record does not hold: outside money buys the cheapest route, not the fastest, and the staged route is longer. If it bought the fastest, III-a would match I. So "Not that redesign is worthless" holds with a reserve; without one, redesign can do worse than none. The "third mechanism" of "What it does not say", a drill each period at the transition's peak, is [CLAIM-878](CLAIM-878.md)'s, already held: "A drill each period holds the budget". The note is the assistant's (Claude, in this session); adopting it is the owner's call.

@@ -160,3 +160,7 @@ with no turnover and no failure of information, such as creep or fatigue of
 a folded structure. The recommendation stands: fold the mapping into the
 realizability and readiness accounts and set the claim Superseded, and, if it
 is kept, drop the defeater's exhaustiveness. Both wait for the owner.
+
+## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
+
+Instance, the assistant's. A gap of the manuscript governance-of-possibility, §10.2 (GC9). The manuscript's model shows a capability made once and then lost to the budget rule with no turnover: under the peak rule a transition made leaves the budget at its peak for one period, and after the next period spent holding the transition is lost again ([CLAIM-577](CLAIM-577.md)). The manuscript says this falls under none of the six levels. It does not: it is [CLAIM-568](CLAIM-568.md)'s first obstruction, "A feasible path exceeds a resource ceiling", with the ceiling set by the rule itself, which is this claim's affordability level ("Does a path fit the budget?"), repaired by adding or reallocating resources (outside money, a floor, a reserve). So it is not a second instance of the capability "lost over a horizon with no turnover and no failure of information" that the two audit notes above found to meet the first clause of this claim's defeater; it leaves their verdict where it was, resting on creep or fatigue. The note is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.

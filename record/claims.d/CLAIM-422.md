@@ -199,3 +199,7 @@ instances).
 ## Note of 2026-11-22: decay by task type
 
 Supported, unchanged. In the posted data of Tatel & Ackerman's meta-analysis ([CASE-314](../cases.d/CASE-314.md)), real-world procedures lose accuracy with disuse more slowly than laboratory tasks, but medical and dental procedures still lose it measurably (0.04 SD a month), so a trained procedure is not a maintained capacity. Corroborated by [THEORY-2211](../theory.d/THEORY-2211.md). No status change.
+
+## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
+
+Instance, the assistant's. A gap of the manuscript governance-of-possibility, §10.2 (GC9). The manuscript's model shows a capability made once and then lost to the budget rule with no turnover: under the peak rule a transition made leaves the budget at its peak for one period, and after a period spent holding it is lost again ([CLAIM-577](CLAIM-577.md)). The act succeeded; the capacity to repeat it was not maintained. That is this claim's separation, by a mechanism other than the decay with disuse of the notes above: nothing is forgotten, and the loss is [CLAIM-568](CLAIM-568.md)'s first obstruction, a resource ceiling, here lowered by the allocation rule itself. The note is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.

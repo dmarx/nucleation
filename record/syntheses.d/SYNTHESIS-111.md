@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpeptl5
 title: 'In the record a collective''s correction runs through separable achievements, from admission to recognition, credibility, uptake and a part in revising standards, any of which can fail while the others hold; selection and self-scoring need different remedies; and effective action, governance and correctability by others are maintained separately; and, in the governance leads'' models, correction needs evidence from outside the proposals that the revision can neither rewrite nor refuse, scored apart from agreement and with no return channel closing the loop, while an anchor so protected bounds correction by its own accuracy'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -17,6 +17,17 @@ history:
     qualification (CLAIM-tmpw11e6). The "Not stated" item on necessity is
     narrowed: CLAIM-tmpxoxys now shows a necessity in a model, for rules
     that treat members alike. Nothing else in the account changes.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    For the manuscript governance-of-possibility, at the owner's ruling of
+    2026-11-23 that joins a manuscript makes and no entry maps are filed as
+    accounts. Adds to "Not stated on the record" the manuscript's join JD6,
+    the owner's principle and its four instances, with CLAIM-404, carried
+    to a regulator, with its ADR-075 verdict. SYNTHESIS-tmp4zamw's decline
+    of "an ecology of regulatory perspectives" does not reach it (that
+    account's note of this date). No component, link or clause of the
+    account changes.
 defeated_if: >-
   A component misstated or misattributed here, with its scope conditions;
   an in-force entry of the record that states part of this theme left out
@@ -101,4 +112,5 @@ their models, and the owner's principle.**
 - **A collective learns only if every link holds, up to revision of the standards of uptake.** The manuscript's P10 stated this. [CLAIM-403](../claims.d/CLAIM-403.md)'s separability, and [CLAIM-523](../claims.d/CLAIM-523.md)'s three achievements, which do not include the top rung, allow a collective to change its procedures on a contribution while its standards of uptake stay fixed.
 - **Its self-evaluation confirms itself without independent evidence,** as a necessity in general. [CLAIM-342](../claims.d/CLAIM-342.md) says such a loop "can lock in". Since version 2, a necessity is held in one model and for one class of rule: without evidence that does not come from the proposals, a rule treating members alike cannot tell dissent from attack ([CLAIM-tmpxoxys](../claims.d/CLAIM-tmpxoxys.md)). That every self-evaluating system fails without independent evidence is still not stated.
 - **That the owner's conditions are separate requirements.** [CLAIM-tmp4h9rc](../claims.d/CLAIM-tmp4h9rc.md)'s four instances are in four models. Whether each condition is needed when the others hold is open, and [LEAD-tmpdzbyn](../leads.d/LEAD-tmpdzbyn.md) would test it.
+- **The principle carried to a regulator (version 3; the manuscript governance-of-possibility's join JD6, §13.6).** The manuscript reads each condition for a public regulator: protected evidence as evidence about the industry it cannot rewrite or refuse (independent measurement, mandatory disclosure), authority's coupling as how standing and resources flow back from the regulated (the return channel of [CLAIM-tmpz8q70](../claims.d/CLAIM-tmpz8q70.md)), and scoring as whether objections gain weight by relevance or by agreement ([CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md)). [CLAIM-404](../claims.d/CLAIM-404.md) already holds, for an organization, that it can be governed from outside through the evidence its procedures receive or the criteria by which they weigh it. No component states the carriage to a regulator. *Verdict under [ADR-075](../decisions.d/ADR-075.md), step 5: fails, a carry.* The four instances are a sensor network and populations on the meaning–influence model, and the record holds no regulatory or industrial case. The readings are relabellings and state no inference, and their positive half rests on the item above, that the conditions are separate requirements, which is open until [LEAD-tmpdzbyn](../leads.d/LEAD-tmpdzbyn.md) is run. Not filed as a claim.
 - **That the weakest stage bounds the ladder of uptake.** The weakest-stage bound is [CLAIM-732](../claims.d/CLAIM-732.md)'s, Proposed, and about objections.

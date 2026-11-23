@@ -142,3 +142,8 @@ adequacy later.
 - **A reduction**, showing that legitimacy is adequacy to some standard,
   would dissolve the pairing. A71 denies it: "none establishes that moral
   justification is reducible to realizability."
+
+## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: CLAIM-tmpz67ew — Proposed; the owner's thesis the manuscript rests on -->
+Presupposed, the assistant's. A gap of the manuscript governance-of-possibility, §2.3 and §13.1 (GD1). The manuscript treats the demand specification as given and says what a regime does with it, so every judgement it makes of a regime is relative to a specification whose source it does not account for. A demand specification is a restriction in this question's sense: it fixes which histories of an industrial ecosystem count as acceptable. Who legitimately sets it, and from where it derives its legitimacy, is this question applied to the specification; the owner's thesis the manuscript rests on says so of itself ([CLAIM-tmpz67ew](../claims.d/CLAIM-tmpz67ew.md): "It does not say who sets the demand specification, or what makes it legitimate"). What the record holds is negative: viability does not settle what ought to persist ([CLAIM-075](../claims.d/CLAIM-075.md)), and a demand's satisfaction condition does not carry its warrant ([CLAIM-725](../claims.d/CLAIM-725.md)). To whom the setter must answer is [QUESTION-480](QUESTION-480.md)'s half. The note is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.

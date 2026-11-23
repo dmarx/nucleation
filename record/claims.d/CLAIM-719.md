@@ -173,3 +173,8 @@ No status changes.
 The pilot of postmortems run for [LEAD-119](../leads.d/LEAD-119.md) ([CASE-335](../cases.d/CASE-335.md)) coded action items by level but could not measure completion. None of the 30 public postmortems or the 10 CSB reports coded reports whether its items were carried out. The completion measure of this entry's note of 2026-11-18 needs data from outside the documents, such as the CSB's recommendation status records or an organization's tracker.
 
 No status changes.
+
+## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: CASE-289 SYNTHESIS-104 SYNTHESIS-038 — Proposed; the candidate case and the accounts that examined it -->
+Still no case, the assistant's. A gap of the manuscript governance-of-possibility, §13.2 (GD6). No case on the record shows an institution responsive at the first order and unresponsive at the second. The one candidate examined, [CASE-289](../cases.d/CASE-289.md), was found with the court's opinion read to be a first-order failure: the statute indexes the gate, and nothing on the record says how the Department answered reasons to revise it ([SYNTHESIS-038](../syntheses.d/SYNTHESIS-038.md); [SYNTHESIS-104](../syntheses.d/SYNTHESIS-104.md)). The measure of the note of 2026-11-18 could not be applied to published postmortems (the note of 2026-11-22). The manuscript's model offers only an analogue: under the peak budget rule a review that needs capacity never starts, so a new demand is excised by default, which is a failure to revise for want of means, not of responsiveness to reasons. The note is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.

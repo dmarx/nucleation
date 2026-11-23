@@ -39,3 +39,13 @@ and [CLAIM-079](../claims.d/CLAIM-079.md)'s stable-but-unreorganizable system as
 The justification clause has no standard: whether consolidation's
 benefits "justify" a loss is the open part, near [CLAIM-684](../claims.d/CLAIM-684.md)'s rising
 burden of justification.
+
+## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
+
+<!-- inactive-ok-file: CLAIM-757 TERM-131 CASE-200 — Proposed; the consolidation route, its learner and the carry-over remedy -->
+Distinction, the assistant's. A gap of the manuscript governance-of-possibility, §11.3 (GC10). The sense above joins two routes the record holds apart, with different remedies.
+
+- **Lock-in by allocation.** A budget or allocation rule follows use, and the transitions that need slack are priced out ([CLAIM-577](../claims.d/CLAIM-577.md), [CLAIM-679](../claims.d/CLAIM-679.md), Active and demonstrated). No learner is needed. Outside money of at least the slack restores the route ([CLAIM-577](../claims.d/CLAIM-577.md)'s step 4), and a reserve, a floor or carry-over ([CASE-200](../cases.d/CASE-200.md)) prevents the loss.
+- **Lock-in by consolidation.** A declared learner's retained organization changes with experience so that acquiring the declared family costs more ([CLAIM-758](../claims.d/CLAIM-758.md)). It needs a learner in [TERM-131](TERM-131.md)'s sense, and money may not reverse it; varied practice before the threshold point, or renewing what training used up, may ([CLAIM-757](../claims.d/CLAIM-757.md)).
+
+The term names [CLAIM-758](../claims.d/CLAIM-758.md) as its sense and [CLAIM-679](../claims.d/CLAIM-679.md) as its mechanism, so it covers both without saying which a case is. A diagnosis under it should say which route it found. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
