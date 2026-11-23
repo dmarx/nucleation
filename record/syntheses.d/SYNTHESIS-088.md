@@ -445,29 +445,29 @@ entries state.
   server-specific service rates" converges geometrically to the exact
   stationary distribution.
 
-### Hierarchy in a chain's time geometry (added at version 3; nearest account: the reachability account, SYNTHESIS-076)
+### Hierarchy in a chain's time geometry (added at version 3; nearest account: the reachability account, [SYNTHESIS-076](SYNTHESIS-076.md))
 
-Two open questions filed on 2026-11-20 beside CLAIM-780 (the assistant's;
+Two open questions filed on 2026-11-20 beside [CLAIM-780](../claims.d/CLAIM-780.md) (the assistant's;
 thesis, demonstrated, Proposed; no account integrates it), which proves
 that rate differences across levels make a chain's log commute-time
-geometry converge to the ultrametric tree CLAIM-581 builds, and rests on
-CLAIM-581. That shared ground is why the nearest account is named; neither
-question names a member of SYNTHESIS-076.
+geometry converge to the ultrametric tree [CLAIM-581](../claims.d/CLAIM-581.md) builds, and rests on
+[CLAIM-581](../claims.d/CLAIM-581.md). That shared ground is why the nearest account is named; neither
+question names a member of [SYNTHESIS-076](SYNTHESIS-076.md).
 
-- **QUESTION-500** (Open; filed at the owner's turn of 2026-11-20
+- **[QUESTION-500](../questions.d/QUESTION-500.md)** (Open; filed at the owner's turn of 2026-11-20
   preferring "rate differences" to "scale separation"; also
   distributed-agency): what rate ratio between levels, set against the
   spread within a level and the size of the state space, is enough for a
-  level to show in the time geometry, since CLAIM-780's proven factor is
+  level to show in the time geometry, since [CLAIM-780](../claims.d/CLAIM-780.md)'s proven factor is
   far above the ratios at which simulated hierarchies show. Its body says
-  it bears on CLAIM-781 (in SYNTHESIS-048), whose "between against within"
-  rests on the simulation, and on CLAIM-478 (in SYNTHESIS-108 and
-  SYNTHESIS-119) in its version of 2026-11-20.
-- **QUESTION-501** (Open; filed with the assistant's hierarchy-and-
+  it bears on [CLAIM-781](../claims.d/CLAIM-781.md) (in [SYNTHESIS-048](SYNTHESIS-048.md)), whose "between against within"
+  rests on the simulation, and on [CLAIM-478](../claims.d/CLAIM-478.md) (in [SYNTHESIS-108](SYNTHESIS-108.md) and
+  [SYNTHESIS-119](SYNTHESIS-119.md)) in its version of 2026-11-20.
+- **[QUESTION-501](../questions.d/QUESTION-501.md)** (Open; filed with the assistant's hierarchy-and-
   hyperbolicity claims of 2026-11-20; also distributed-agency): the
-  converse of CLAIM-780, whether well-separated levels in the time
+  converse of [CLAIM-780](../claims.d/CLAIM-780.md), whether well-separated levels in the time
   geometry require separated rates or can come from the shape of the
-  state space alone. Its body says it bears on CLAIM-781: if shape alone
+  state space alone. Its body says it bears on [CLAIM-781](../claims.d/CLAIM-781.md): if shape alone
   can make the tree, "one rate gap does two jobs" holds only where the
   tree comes from rates.
 
