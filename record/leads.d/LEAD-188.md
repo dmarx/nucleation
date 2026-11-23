@@ -22,6 +22,7 @@ summary: >-
   Named in [CLAIM-332](../claims.d/CLAIM-332.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-332 — Proposed; cited in the backlog audit of 2026-11-19 -->
+<!-- inactive-ok-file: CASE-tmpktyr7 NOTE-tmphwsps NOTE-tmpurc5c NOTE-tmpubj66 CLAIM-tmp24fw0 CLAIM-tmp4ybsw CLAIM-tmp48sm1 CLAIM-tmp9av3u — new; filed by the lead run of 2026-11-23 -->
 
 # LEAD-188: Find production testimony of how the fan redub reached the reshoot, and compare a circulation-network model with the list of identifiable contributions
 
@@ -38,3 +39,36 @@ Where the record names it:
 
 A route through circulation rather than one contributor supports
 [CLAIM-332](../claims.d/CLAIM-332.md).
+
+## Note of 2026-11-23: run by the lead worker
+
+Done on the branch claude/lead-188-fan-redub; the study is under
+scratch/studies/lead-188/ and the run is CASE-tmpktyr7.
+
+- **Testimony.** Coded by rules written before reading. One production
+  voice gives a route: the actor Vinnie Jones, twice (NOTE-tmphwsps,
+  NOTE-tmpurc5c). The director "found that on the internet", phoned him
+  after the Vancouver shoot, and the line was shot on one pickup day at
+  Elstree. The co-writer, via Polygon (NOTE-tmpubj66), dates it to a
+  reshoot. No production voice names a conveyor, a test screening or the
+  crew; nothing was found from Ratner on the line. Filed as
+  CLAIM-tmp24fw0.
+- **Model.** A percolation model of fan videos on a heavy-tailed network,
+  one decision-maker adopting one line, compared with the list of
+  identifiable contributions with and without named distributors. The
+  case's one observation favours circulation over the list with
+  distributors by 2.3 to 4.7, and by 1.3 to 1.6 if the case is known for
+  its fame. Filed as CLAIM-tmp4ybsw.
+- **What would count.** The lead counts "a route through circulation
+  rather than one contributor" as support for CLAIM-332. The testimony
+  gives a route that ends in one contributor and is silent on its middle,
+  so it is read two ways, filed as alternatives: CLAIM-tmp48sm1 (through
+  circulation; the assistant's lean, with weak support) and
+  CLAIM-tmp9av3u (a list entry; the defeater met as far as this case
+  reaches). The choice is the owner's.
+- **What remains.** Polygon's Kinberg interview was refused by the
+  session's fetch tool and The Playlist's 2020 Jones story returned 403;
+  neither was worked around. Ratner's own account is not on the record.
+  The test that would separate the readings is cross-case: whether
+  productions' adoption of fan material tracks its reach beyond what the
+  named distributors predict. The lead's status and stage are unchanged.
