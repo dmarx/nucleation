@@ -17,6 +17,26 @@ skills, with no disruption arm.
 
 ## Done
 
+- crossed.py (network, optimizers, disruptions, probe), run_all.py,
+  analyze.py, test_lead105.py (8 tests pass).
+- Grid run (2 training optimizers x 12 seeds x 6 states x 4 probe
+  optimizers, plus the training optimizer with carried state on the intact
+  net; 600 probes) in results/probes.jsonl; calibration.json; summary.json.
+
+## Choices
+
+- Response to a conflicting demand: task B's target is changed to
+  b2 = (b - sqrt(3) a)/2 (cos -0.866 with A) and both tasks train jointly;
+  measured by A's peak forgetting, A's level when B reaches 0.9, B's
+  relearning time, the initial task-gradient cosine and segregation.
+- Pace matched: each probe optimizer's step size calibrated (seeds
+  100-103, separate from the study seeds) so the intact net relearns B in
+  40 steps; differences are in path, not speed.
+- Disruptions: permutation (null control), function-preserving rescaling
+  (spread 2; spread 4 destabilized SGD), ablate-and-heal of the 8 most
+  task-selective units or 8 random units (1000 healing steps under the
+  training optimizer), continued training (control for healing).
+
 ## Next
 
-- design and code the study
+- file CASE, CLAIMs, dated notes on LEAD-105 and CLAIM-367, changelog
