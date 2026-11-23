@@ -202,18 +202,18 @@ and passed. No status change.
 
 ## Note of 2026-11-23: equal budgets at different places in organizations
 
-The lead run of 2026-11-23 for the organizational test of CLAIM-562
+The lead run of 2026-11-23 for the organizational test of [CLAIM-562](../claims.d/CLAIM-562.md)
 coded open evaluations under rules written before coding
-(CASE-tmpjfl6r). One meets the standard: in Andhra Pradesh's randomized
+([CASE-tmpjfl6r](../cases.d/CASE-tmpjfl6r.md)). One meets the standard: in Andhra Pradesh's randomized
 evaluation of 500 government primary schools, arms of equal yearly cost
 differed threefold, a teacher bonus raising test scores by 0.27 SD against
-0.09 SD for an extra teacher or materials (THEORY-tmpmwhm1). Whether
+0.09 SD for an extra teacher or materials ([THEORY-tmpmwhm1](../theory.d/THEORY-tmpmwhm1.md)). Whether
 that is a difference of place or of instrument is filed both ways
-(CLAIM-tmpqrmoy, the filer's lean; CLAIM-tmphbmpy). Two cases come
+([CLAIM-tmpqrmoy](../claims.d/CLAIM-tmpqrmoy.md), the filer's lean; [CLAIM-tmphbmpy](../claims.d/CLAIM-tmphbmpy.md)). Two cases come
 closest: Seva Mandir's immunisation camps, where a demand-side incentive
 added to supply doubled full immunisation and halved its unit cost
-(THEORY-tmp7jput), and Zambia's supply chain pilot, two arms at two tiers,
-whose costs were not reached (THEORY-tmp8j9f4). None gives a predictor
+([THEORY-tmp7jput](../theory.d/THEORY-tmp7jput.md)), and Zambia's supply chain pilot, two arms at two tiers,
+whose costs were not reached ([THEORY-tmp8j9f4](../theory.d/THEORY-tmp8j9f4.md)). None gives a predictor
 computed from the organization's structure, and none shows an added
-intervention lowering the chance of the target (CLAIM-tmpb125k). The
+intervention lowering the chance of the target ([CLAIM-tmpb125k](../claims.d/CLAIM-tmpb125k.md)). The
 question stays open. No status change.

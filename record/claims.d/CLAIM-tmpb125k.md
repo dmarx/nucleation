@@ -23,7 +23,7 @@ grounds:
 bears_on:
 - QUESTION-380
 summary: >-
-  CLAIM-562's second half, that an added actuator can stop a folding that
+  [CLAIM-562](CLAIM-562.md)'s second half, that an added actuator can stop a folding that
   succeeded, has no organizational instance in the cases coded for its
   first half. Andhra Pradesh's schools had one treatment each; Zambia's
   pilot compared two structures, not a set and its superset; and in Seva
@@ -39,10 +39,10 @@ summary: >-
 
 ## What is disclaimed
 
-The coding (CASE-tmpjfl6r) asked of each case whether an arm that is
+The coding ([CASE-tmpjfl6r](../cases.d/CASE-tmpjfl6r.md)) asked of each case whether an arm that is
 another arm plus a further component does worse. Only one case has such
 arms: Seva Mandir's camps with incentives against camps alone
-(THEORY-tmp7jput), and the superset did better. The others have no
+([THEORY-tmp7jput](../theory.d/THEORY-tmp7jput.md)), and the superset did better. The others have no
 nested arms.
 
 So the record does not hold, from these cases, that adding an

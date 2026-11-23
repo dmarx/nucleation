@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmpz3ek2) in full, through NCBI E-utilities
+  read 2026-11-23 ([NOTE-tmpz3ek2](../notes.d/NOTE-tmpz3ek2.md)) in full, through NCBI E-utilities
   (the PMC page showed a reCAPTCHA), with the correction of 2016 that puts
   the abstract's cost figures the right way round; worth reading as a
   randomized evaluation in one organization's villages of supply-side
@@ -58,7 +58,7 @@ Banerjee, A. V., Duflo, E., Glennerster, R. & Kothari, D. (2010). Improving immu
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpz3ek2 (full text; appendix 2 not read).*
+*From the reading, [NOTE-tmpz3ek2](../notes.d/NOTE-tmpz3ek2.md) (full text; appendix 2 not read).*
 
 - **Supply alone is modest.** Reliable camps: 18 % fully immunised against
   6 % in control villages; "improving the supply alone might not be
@@ -74,8 +74,8 @@ Banerjee, A. V., Duflo, E., Glennerster, R. & Kothari, D. (2010). Improving immu
 
 ## Standing in the record
 
-Filed for LEAD-044 as the closest case of its kind: one organization, a
+Filed for [LEAD-044](../leads.d/LEAD-044.md) as the closest case of its kind: one organization, a
 randomized comparison, a supply-side intervention against the same plus a
 demand-side one, costs per outcome. It lacks two arms of equal budget at
-two places. Filed from it: THEORY-tmp7jput. No instruction for
+two places. Filed from it: [THEORY-tmp7jput](../theory.d/THEORY-tmp7jput.md). No instruction for
 machine-learning practice.

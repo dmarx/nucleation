@@ -28,7 +28,7 @@ reported_in:
 - NOTE-tmpz3ek2
 - NOTE-tmpmco2w
 summary: >-
-  CLAIM-562 holds, from mechanical systems, that where an intervention
+  [CLAIM-562](../claims.d/CLAIM-562.md) holds, from mechanical systems, that where an intervention
   acts in a constraint structure can predict success better than how much
   intervention there is. A search of open evaluations for its
   organizational test, coded under six criteria fixed before the search,
@@ -51,9 +51,9 @@ summary: >-
 
 ## The study
 
-LEAD-044 asks for "documented interventions of similar cost at different
+[LEAD-044](../leads.d/LEAD-044.md) asks for "documented interventions of similar cost at different
 places in one organization", effects differing by location to test
-CLAIM-562. Before searching, six criteria were fixed
+[CLAIM-562](../claims.d/CLAIM-562.md). Before searching, six criteria were fixed
 (`scratch/studies/lead-044/CODING-RULES.md`):
 
 | | Criterion | "yes" means |
@@ -74,9 +74,9 @@ coded. The passages behind each code are in `CODING.md`.
 
 | Case | C1 | C2 | C3 | C4 | C5 | C6 | Verdict |
 |---|---|---|---|---|---|---|---|
-| Andhra Pradesh schools, inputs against incentives (THEORY-tmpmwhm1) | yes | yes | yes (three arms) | yes | yes | partial | meets the standard |
-| Seva Mandir immunisation camps (THEORY-tmp7jput) | yes | partial | partial | yes | yes | yes | closest of its kind, outside the rules (C2) |
-| Zambia supply chain pilot (THEORY-tmp8j9f4) | yes | yes | no, unread | yes | partial | partial | closest of its kind, outside the rules (C3) |
+| Andhra Pradesh schools, inputs against incentives ([THEORY-tmpmwhm1](../theory.d/THEORY-tmpmwhm1.md)) | yes | yes | yes (three arms) | yes | yes | partial | meets the standard |
+| Seva Mandir immunisation camps ([THEORY-tmp7jput](../theory.d/THEORY-tmp7jput.md)) | yes | partial | partial | yes | yes | yes | closest of its kind, outside the rules (C2) |
+| Zambia supply chain pilot ([THEORY-tmp8j9f4](../theory.d/THEORY-tmp8j9f4.md)) | yes | yes | no, unread | yes | partial | partial | closest of its kind, outside the rules (C3) |
 
 **Andhra Pradesh.** Five cells of 100 schools. Two-year effects on test
 scores, and yearly spending per school:
@@ -100,21 +100,21 @@ against a set, not two places at one budget.
 **Zambia.** Two arms at two tiers: picking, packing and stock at the
 district, or packages made at the national warehouse and cross-docked at
 the district; the second had fewer days without stock. The costs are in
-Vledder et al. (LIT-tmpuedwt), which showed a Cloudflare challenge at
+Vledder et al. ([LIT-tmpuedwt](../literature.d/LIT-tmpuedwt.md)), which showed a Cloudflare challenge at
 both of its copies.
 
 ## What it can show
 
-- **That the organizational comparison CLAIM-562 needs exists, once.**
+- **That the organizational comparison [CLAIM-562](../claims.d/CLAIM-562.md) needs exists, once.**
   One evaluation meets a standard fixed in advance, and its effects
   differ threefold at equal cost. Whether the difference is one of place
   is read two ways, both filed: as place, the arm acting on effort rather
-  than on staff or materials (CLAIM-tmpqrmoy, the filer's lean); or as
+  than on staff or materials ([CLAIM-tmpqrmoy](../claims.d/CLAIM-tmpqrmoy.md), the filer's lean); or as
   instrument, conditional pay rather than unconditional resources, which
-  the design cannot separate from place (CLAIM-tmphbmpy).
-- **Nothing on the second half of CLAIM-562.** No coded case has a
+  the design cannot separate from place ([CLAIM-tmphbmpy](../claims.d/CLAIM-tmphbmpy.md)).
+- **Nothing on the second half of [CLAIM-562](../claims.d/CLAIM-562.md).** No coded case has a
   larger set of interventions doing worse than a smaller one;
-  CLAIM-tmpb125k disclaims it.
+  [CLAIM-tmpb125k](../claims.d/CLAIM-tmpb125k.md) disclaims it.
 
 ## Limits
 
@@ -123,6 +123,6 @@ both of its copies.
 - The location criterion (C2) is a judgement about what counts as a
   different place in an organization's structure. The rules were written
   before coding; the judgement in each case is quoted in `CODING.md`.
-- Count of interventions, the other half of CLAIM-562's comparison, is
+- Count of interventions, the other half of [CLAIM-562](../claims.d/CLAIM-562.md)'s comparison, is
   held fixed at one per arm here: the cases compare places at one
   budget, not place against amount.

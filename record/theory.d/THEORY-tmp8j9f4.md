@@ -38,7 +38,7 @@ summary: >-
 
 ## The account
 
-Leung and colleagues (NOTE-tmpmco2w): "Inventory control policies widely
+Leung and colleagues ([NOTE-tmpmco2w](../notes.d/NOTE-tmpmco2w.md)): "Inventory control policies widely
 recommended and used for distributing medicines in sub-Saharan Africa
 directly account for a substantial fraction of stock-outs observed in
 common situations involving demand seasonality and facility access

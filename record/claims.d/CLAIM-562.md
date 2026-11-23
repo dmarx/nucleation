@@ -173,14 +173,14 @@ and a race reading of the paper's explanation fails as a predictor there
 ## Note of 2026-11-23: an organizational case at equal budget
 
 The lead run of 2026-11-23 for this claim's organizational test
-(CASE-tmpjfl6r) found one open evaluation that meets a standard written
+([CASE-tmpjfl6r](../cases.d/CASE-tmpjfl6r.md)) found one open evaluation that meets a standard written
 before coding. In Andhra Pradesh's randomized evaluation of government
 primary schools, an extra contract teacher, a block grant for materials
 and an individual teacher bonus each cost about Rs 10,000 per school a
 year, and the bonus raised test scores three times as much, 0.27 SD
-against 0.09 SD (THEORY-tmpmwhm1). Read as placement, it corroborates the
-first half here in an organization (CLAIM-tmpqrmoy, the filer's lean);
+against 0.09 SD ([THEORY-tmpmwhm1](../theory.d/THEORY-tmpmwhm1.md)). Read as placement, it corroborates the
+first half here in an organization ([CLAIM-tmpqrmoy](CLAIM-tmpqrmoy.md), the filer's lean);
 read as a difference of instrument, conditional pay against unconditional
-resources, it illustrates without testing (CLAIM-tmphbmpy). No case
+resources, it illustrates without testing ([CLAIM-tmphbmpy](CLAIM-tmphbmpy.md)). No case
 coded bears on the second half, that adding can hurt
-(CLAIM-tmpb125k). No status change.
+([CLAIM-tmpb125k](CLAIM-tmpb125k.md)). No status change.

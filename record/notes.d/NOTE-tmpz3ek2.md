@@ -76,14 +76,14 @@ frame it as supply against supply plus demand.
 
 ## Bearing on the record
 
-- **CLAIM-562**, weakly. The money added on the demand side, on top of
+- **[CLAIM-562](../claims.d/CLAIM-562.md)**, weakly. The money added on the demand side, on top of
   supply, doubled the outcome and halved its unit cost, so in this
   organization the binding constraint was not where the first
   intervention acted. But there is no arm on the demand side alone, and
   the totals are not equal: the comparison is of a supply arm against a
   superset of it. Where a reading puts the incentive "in a different
   place" in the structure, that is the filer's framing.
-- **The second half of CLAIM-562** (adding can hurt): the nested arm
+- **The second half of [CLAIM-562](../claims.d/CLAIM-562.md)** (adding can hurt): the nested arm
   did better, not worse. No evidence either way on whether adding can
   hurt.
 

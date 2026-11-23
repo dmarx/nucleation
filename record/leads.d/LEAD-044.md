@@ -42,20 +42,20 @@ Effects that differ by location test [CLAIM-562](../claims.d/CLAIM-562.md).
 
 Done on branch `claude/lead-044-equal-budget-interventions`. Coding rules
 were written before the search (`scratch/studies/lead-044/CODING-RULES.md`),
-and three open evaluations were read and coded (CASE-tmpjfl6r):
+and three open evaluations were read and coded ([CASE-tmpjfl6r](../cases.d/CASE-tmpjfl6r.md)):
 
 - **Meets the standard.** Muralidharan and Sundararaman's Andhra Pradesh
-  evaluation (LIT-tmpnoa89): an extra contract teacher, a block grant
+  evaluation ([LIT-tmpnoa89](../literature.d/LIT-tmpnoa89.md)): an extra contract teacher, a block grant
   and an individual teacher bonus at about Rs 10,000 per school a year;
   0.09 SD for the inputs pooled, 0.27 SD for the bonus.
 - **Closest cases.** Banerjee and colleagues' immunisation camps
-  (LIT-tmpiih9k), nested arms with costs per outcome only; Zambia's
-  supply chain pilot, read through Leung and colleagues (LIT-tmpa48v2),
-  the primary paper (LIT-tmpuedwt) behind Cloudflare at both copies.
+  ([LIT-tmpiih9k](../literature.d/LIT-tmpiih9k.md)), nested arms with costs per outcome only; Zambia's
+  supply chain pilot, read through Leung and colleagues ([LIT-tmpa48v2](../literature.d/LIT-tmpa48v2.md)),
+  the primary paper ([LIT-tmpuedwt](../literature.d/LIT-tmpuedwt.md)) behind Cloudflare at both copies.
 
-Filed: CLAIM-tmpqrmoy (thesis, the placement reading, corroborating
-CLAIM-562), CLAIM-tmphbmpy (counter, the instrument reading) and
-CLAIM-tmpb125k (disclaimed: no case shows that adding can hurt). No
+Filed: [CLAIM-tmpqrmoy](../claims.d/CLAIM-tmpqrmoy.md) (thesis, the placement reading, corroborating
+[CLAIM-562](../claims.d/CLAIM-562.md)), [CLAIM-tmphbmpy](../claims.d/CLAIM-tmphbmpy.md) (counter, the instrument reading) and
+[CLAIM-tmpb125k](../claims.d/CLAIM-tmpb125k.md) (disclaimed: no case shows that adding can hurt). No
 simulation was built, since one case met the standard.
 
 What remains: the two input arms' separate effects (in the companion
