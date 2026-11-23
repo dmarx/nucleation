@@ -21,8 +21,8 @@ complements:
 - CLAIM-tmpw11e6
 summary: 'The owner''s, 2026-11-23, in this session: "thankfully, mechanics
   is grounded in physical phenomena, so we have an independent witness to
-  certify from". It answers the regress of anchors (CLAIM-tmpw11e6, CLAIM-tmphsmbq).
-  In LEAD-177''s terms, the world is the party that places the beacon. The
+  certify from". It answers the regress of anchors ([CLAIM-tmpw11e6](CLAIM-tmpw11e6.md), [CLAIM-tmphsmbq](CLAIM-tmphsmbq.md)).
+  In [LEAD-177](../leads.d/LEAD-177.md)''s terms, the world is the party that places the beacon. The
   owner''s.'
 ---
 
@@ -34,16 +34,16 @@ summary: 'The owner''s, 2026-11-23, in this session: "thankfully, mechanics
 
 The owner: "thankfully, mechanics is grounded in physical phenomena, so
 we have an independent witness to certify from". The regress is the one
-in CLAIM-tmpw11e6: a protected anchor's own error needs a further anchor.
+in [CLAIM-tmpw11e6](CLAIM-tmpw11e6.md): a protected anchor's own error needs a further anchor.
 Its mechanism is a symmetry the system's reports cannot break
-(CLAIM-tmpklggb). The owner's point is that in mechanics the regress
+([CLAIM-tmpklggb](CLAIM-tmpklggb.md)). The owner's point is that in mechanics the regress
 ends at the world, a witness no revision can rewrite. That is the role
-the world plays in LEAD-177's anchored arm, where "the world, not the
+the world plays in [LEAD-177](../leads.d/LEAD-177.md)'s anchored arm, where "the world, not the
 apparatus, places a beacon".
 
 ## The assistant's qualification
 
-CLAIM-tmpnl4xk, with ARG-tmpvn8p8: the witness certifies every difference
+[CLAIM-tmpnl4xk](CLAIM-tmpnl4xk.md), with [ARG-tmpvn8p8](../arguments.d/ARG-tmpvn8p8.md): the witness certifies every difference
 among the channels that read it, never their common mode. So physics ends
 the regress with a standard fixed by definition against invariant
 phenomena, and the witness is reached through that standard.

@@ -31,7 +31,7 @@ complements:
 - CLAIM-510
 - CLAIM-011
 summary: 'The assistant''s qualification of the owner''s point that mechanics
-  has an independent witness (CLAIM-tmpo7kx7). Checked in scratch/formal/beacon_gauge_check.py:
+  has an independent witness ([CLAIM-tmpo7kx7](CLAIM-tmpo7kx7.md)). Checked in scratch/formal/beacon_gauge_check.py:
   with 1, 2, 3 or 5 channels, exactly the two dimensions of a common shift
   stay unidentified. The metrology is cited from standard knowledge, not from
   a reading the record holds. The wording is the assistant''s (Claude, in
@@ -52,17 +52,17 @@ identified: in `scratch/formal/beacon_gauge_check.py` the rank deficiency
 is exactly 2, the plane's two directions, for 1, 2, 3 and 5 channels. More
 channels identify more differences d_i − d_j, but never the common mode.
 The same holds with a different gain A_k on each channel, since
-(z + u, d_k − A_k u) is again a symmetry (CLAIM-tmpklggb).
+(z + u, d_k − A_k u) is again a symmetry ([CLAIM-tmpklggb](CLAIM-tmpklggb.md)).
 
 ## What it means for the owner's point
 
 The owner is right that the world is a witness no revision can rewrite.
 What the witness gives through comparison is agreement and disagreement
 among channels, which is a great deal. Independent techniques that agree
-are strong evidence. The record's own case is LEAD-164's clocks:
+are strong evidence. The record's own case is [LEAD-164](../leads.d/LEAD-164.md)'s clocks:
 frequency differences estimated by satellite, checked against a
 simultaneous optical fibre and a second, independent satellite technique
-(CASE-tmp17zl1, CLAIM-510). But no amount of agreement fixes the frame.
+([CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md), [CLAIM-510](CLAIM-510.md)). But no amount of agreement fixes the frame.
 
 Measurement ends the regress in two steps:
 - **A standard fixed by definition against an invariant phenomenon.**
@@ -71,7 +71,7 @@ Measurement ends the regress in two steps:
   realization of that standard.
 
 (Cited from standard knowledge of metrology, not from a reading the record
-holds.) The definition plays the survey's part in CLAIM-tmpw11e6. It is
+holds.) The definition plays the survey's part in [CLAIM-tmpw11e6](CLAIM-tmpw11e6.md). It is
 chosen to be stable because the phenomenon is invariant, and it is not
 revised by what it calibrates.
 

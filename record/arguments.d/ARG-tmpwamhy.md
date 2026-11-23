@@ -19,8 +19,8 @@ tags:
 date: '2026-11-23'
 line:
 - formal-apparatus
-summary: An explication of the owner's "subset" (CLAIM-tmpsx7jd) by the evening's
-  two results. The conclusion CLAIM-tmppmx4w amends the thesis and keeps its
+summary: An explication of the owner's "subset" ([CLAIM-tmpsx7jd](../claims.d/CLAIM-tmpsx7jd.md)) by the evening's
+  two results. The conclusion [CLAIM-tmppmx4w](../claims.d/CLAIM-tmppmx4w.md) amends the thesis and keeps its
   core, that physics answers to observation. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
@@ -32,11 +32,11 @@ summary: An explication of the owner's "subset" (CLAIM-tmpsx7jd) by the evening'
 ## The argument
 
 If physics were a subset of mathematics, two distinct mathematical models
-would be two physical claims. CLAIM-tmpklggb exhibits two distinct models
+would be two physical claims. [CLAIM-tmpklggb](../claims.d/CLAIM-tmpklggb.md) exhibits two distinct models
 with every observation the same. Physics treats them as one situation, so
 its content is the class and not the member. If physics were mathematics
 alone, nothing beyond the mathematics would fix which structure is which
-quantity. CLAIM-tmpnl4xk shows the frame is fixed only by a defined
+quantity. [CLAIM-tmpnl4xk](../claims.d/CLAIM-tmpnl4xk.md) shows the frame is fixed only by a defined
 standard, which is a coordination and not a theorem. Hence: quotient plus
 coordination.
 
@@ -51,5 +51,5 @@ coordination.
   rescues "subset" at the cost of moving it. The coordination point
   stands either way.
 - **Does the third amendment overreach?** It says only that what counts
-  as observable moves with the channels. That is TERM-069's and
-  CLAIM-574's point, applied to physics.
+  as observable moves with the channels. That is [TERM-069](../terms.d/TERM-069.md)'s and
+  [CLAIM-574](../claims.d/CLAIM-574.md)'s point, applied to physics.

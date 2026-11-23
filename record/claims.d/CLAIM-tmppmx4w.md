@@ -32,10 +32,10 @@ complements:
 - CLAIM-148
 - CLAIM-574
 summary: 'The assistant''s refinement of the owner''s thesis that physics
-  is the subset of mathematics relevant to observable phenomena (CLAIM-tmpsx7jd).
+  is the subset of mathematics relevant to observable phenomena ([CLAIM-tmpsx7jd](CLAIM-tmpsx7jd.md)).
   It draws on the evening''s two results: a miscalibrated anchor and a shifted
-  world are mathematically distinct and observationally one (CLAIM-tmpklggb),
-  and a frame is fixed by a defined standard (CLAIM-tmpnl4xk). The physics
+  world are mathematically distinct and observationally one ([CLAIM-tmpklggb](CLAIM-tmpklggb.md)),
+  and a frame is fixed by a defined standard ([CLAIM-tmpnl4xk](CLAIM-tmpnl4xk.md)). The physics
   examples are standard, not from a reading the record holds. The wording
   is the assistant''s (Claude, in this session); adopting it is the owner''s
   call.'
@@ -48,12 +48,12 @@ summary: 'The assistant''s refinement of the owner''s thesis that physics
 ## Three amendments
 
 **1. A quotient, not a subset.** The beacon world and the shifted world
-are distinct mathematical models (CLAIM-tmpklggb). Every report is the
+are distinct mathematical models ([CLAIM-tmpklggb](CLAIM-tmpklggb.md)). Every report is the
 same in both, so they are one physical situation. What physics keeps of
 the mathematics is what is invariant under such symmetries. That is the
-model taken up to observational equivalence (TERM-069), the way a
+model taken up to observational equivalence ([TERM-069](../terms.d/TERM-069.md)), the way a
 factorization is identified only up to a change of latent coordinates
-(CLAIM-148). Gauge theories make this explicit: potentials differing by a
+([CLAIM-148](CLAIM-148.md)). Gauge theories make this explicit: potentials differing by a
 gauge transformation are one field (a standard example, not from a
 reading the record holds). So physical content is closer to equivalence
 classes of mathematical structures than to a selection of them.
@@ -62,15 +62,15 @@ classes of mathematical structures than to a selection of them.
 different physics: the wave equation for sound and for light. And one
 physics has different mathematical descriptions. What makes a structure
 physics is a coordination: which structure stands for which quantity, in
-which units, read by which instrument. CLAIM-tmpnl4xk's defined standard
+which units, read by which instrument. [CLAIM-tmpnl4xk](CLAIM-tmpnl4xk.md)'s defined standard
 is a coordination of this kind. It fixes the frame that no comparison of
 channels can fix. On the owner's reading, the coordination is what
 "relevant to phenomena" has to supply, and it is not itself part of
 mathematics.
 
 **3. Possible observation is relative to the channels.** Which
-distinctions can be observed depends on the probe family (CLAIM-574,
-TERM-069). Enlarging the channels can split one physical situation into
+distinctions can be observed depends on the probe family ([CLAIM-574](CLAIM-574.md),
+[TERM-069](../terms.d/TERM-069.md)). Enlarging the channels can split one physical situation into
 two, which refines the quotient. Physical theories also keep quantities
 that are not observed one by one. They earn their place by organizing
 what is observed, so "relevant to" is wider than "observable".
