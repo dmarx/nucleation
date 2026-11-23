@@ -420,7 +420,6 @@ or lead above.
 
 ## Note of 2026-11-23: the scope of the decline of "a polity as an ecological pseudo-self"
 
-<!-- inactive-ok-block: TERM-tmpm0s7g CLAIM-tmp31b3v CLAIM-tmp37le7 TERM-tmpxwa7g — Proposed; the distinction and the term the decline used -->
 At the owner's question of 2026-11-23, while the manuscript governance-of-
 possibility was being revised. This account's "Not stated on the record"
 declines A31's "a polity as an ecological pseudo-self" because no component
