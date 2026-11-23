@@ -40,7 +40,7 @@ summary: >-
   that counts this disruption as the network's arm and an optimizer change
   as the other arm is assigning one thing to two arms by a choice of
   coordinates. It is checked exactly in the run's tests
-  (CASE-tmphp4pt). The wording is the assistant's (Claude, in this
+  ([CASE-tmphp4pt](../cases.d/CASE-tmphp4pt.md)). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmphp4pt — new; the study filed by the lead run of 2026-11-23 -->
@@ -70,12 +70,12 @@ sizes, and the two trace the same path in function space. The test
 scratch/studies/lead-105/ checks the gradient-descent case to 10⁻⁹ over a
 hundred steps.
 
-CASE-113's crossed design reads a change in the network's response
+[CASE-113](../cases.d/CASE-113.md)'s crossed design reads a change in the network's response
 under "disrupt a learned state, hold the optimizer fixed" as evidence that
 the regulation sits in the network. This disruption leaves everything the
 network computes unchanged and is an optimizer change in other
 coordinates. Which arm it belongs to is decided by the parameterization,
-not by the network. It is the same kind of fact as CLAIM-366's: the
+not by the network. It is the same kind of fact as [CLAIM-366](CLAIM-366.md)'s: the
 sign of a gradient inner product, and here the assignment of an
 intervention to network or optimizer, is not invariant under
 reparameterization.

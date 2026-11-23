@@ -266,7 +266,7 @@ nothing here tests it. The claim is unchanged.
 ## Note of 2026-11-23: the crossed intervention, run on a small network
 
 The defeat condition's crossed intervention was run on 2026-11-23
-(CASE-tmphp4pt): a width-32 two-layer ReLU network trained
+([CASE-tmphp4pt](../cases.d/CASE-tmphp4pt.md)): a width-32 two-layer ReLU network trained
 conventionally on two tasks with a task-identity input, by heavy ball or
 by Adam, twelve seeds each, then met with a conflicting demand (task B's
 target turned against task A's).
@@ -277,18 +277,18 @@ target turned against task A's).
   it more than doubled it. The first limb of the defeat condition fails.
 - With the optimizer fixed, re-initializing and healing the most
   task-selective hidden units raised the loss, and as many random units
-  did so less (CLAIM-tmp60fme). The second limb holds in part.
+  did so less ([CLAIM-tmp60fme](CLAIM-tmp60fme.md)). The second limb holds in part.
 - The share of the variation that follows the learned state rather than
   the optimizer was 0.58 in heavy-ball-trained networks and 0.15 in
   Adam-trained ones.
 
 The condition is not met. Two readings are filed as alternatives:
-CLAIM-tmpmgb7l, that the run corroborates this claim, since its
+[CLAIM-tmpmgb7l](CLAIM-tmpmgb7l.md), that the run corroborates this claim, since its
 "does not say a network cannot come to hold it" covers the state effect
-(the assistant's lean); and CLAIM-tmpyf8s0, that shares set by the
+(the assistant's lean); and [CLAIM-tmpyf8s0](CLAIM-tmpyf8s0.md), that shares set by the
 training optimizer tell against "most of that governance falls to the
 optimizer–model–data system" as a rule. Separately, a function-preserving
 rescaling of hidden units, run as a learned-state disruption, is exactly
 an optimizer change in other coordinates, so the defeat condition's two
 arms need disruptions that change what the network computes
-(CLAIM-tmp2k67n). The claim is unchanged.
+([CLAIM-tmp2k67n](CLAIM-tmp2k67n.md)). The claim is unchanged.

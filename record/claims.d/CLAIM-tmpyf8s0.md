@@ -25,9 +25,9 @@ rests_on:
 objects_to:
 - CLAIM-367
 summary: >-
-  Alternative B. CLAIM-367 says that in conventional training "most of
+  Alternative B. [CLAIM-367](CLAIM-367.md) says that in conventional training "most of
   that governance falls to the optimizer–model–data system", and argues
-  from the relations outside the network. In the run (CLAIM-tmp60fme)
+  from the relations outside the network. In the run ([CLAIM-tmp60fme](CLAIM-tmp60fme.md))
   the learned state accounted for 0.58 of the variation in how much of one
   task the network gave up, against 0.39 for the optimizer, in networks
   trained by heavy ball; and 0.15 against 0.81 in networks trained by
@@ -45,11 +45,11 @@ summary: >-
 
 ## The claim
 
-CLAIM-367 is written so that the network–optimizer–data system holds
+[CLAIM-367](CLAIM-367.md) is written so that the network–optimizer–data system holds
 most of the governance of updates, and its argument places the relations
 that select effective updates outside the network. A crossed intervention
 measures something those relations do not: how the outcome of a conflict
-divides when each side is changed. In the run (CLAIM-tmp60fme):
+divides when each side is changed. In the run ([CLAIM-tmp60fme](CLAIM-tmp60fme.md)):
 
 - for heavy-ball-trained networks, disrupting the units that carry the
   learned task separation changed the forgetting more (+0.028) than any
@@ -75,6 +75,6 @@ the training itself sets".
 
 ## Alternative
 
-CLAIM-tmpmgb7l reads the run as corroborating CLAIM-367: its
+[CLAIM-tmpmgb7l](CLAIM-tmpmgb7l.md) reads the run as corroborating [CLAIM-367](CLAIM-367.md): its
 defeat condition fails, and the claim already allows the network to hold
 some governance. The owner chooses.

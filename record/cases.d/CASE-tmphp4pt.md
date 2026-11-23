@@ -26,7 +26,7 @@ illustrates:
 - CLAIM-tmp60fme
 - CLAIM-tmp2k67n
 summary: >-
-  The two interventions of CASE-113, crossed, on one small network
+  The two interventions of [CASE-113](CASE-113.md), crossed, on one small network
   trained conventionally on two tasks with a task-identity input: a
   width-32 two-layer ReLU network, trained by heavy-ball SGD or by Adam,
   twelve seeds each. The conflicting learning demand is a change of task
@@ -38,7 +38,7 @@ summary: >-
   moved it: re-initializing the eight most task-selective hidden units and
   healing raised the loss of A by 61% under the training optimizer for
   heavy-ball-trained networks, and eight random units did not. Neither
-  limb of CLAIM-367's defeat condition held. The share of the response
+  limb of [CLAIM-367](../claims.d/CLAIM-367.md)'s defeat condition held. The share of the response
   that varies with the optimizer, against the share that varies with the
   learned state, depended on which optimizer had trained the network.
   One small network, full batch, twelve seeds. The wording is the
@@ -50,9 +50,9 @@ summary: >-
 
 ## What was done
 
-CASE-113 states two interventions and their reading: change the
+[CASE-113](CASE-113.md) states two interventions and their reading: change the
 optimizer with the network fixed, and disrupt a learned state with the
-optimizer fixed. CLAIM-367 is defeated if the first leaves the
+optimizer fixed. [CLAIM-367](../claims.d/CLAIM-367.md) is defeated if the first leaves the
 network's responses to conflicting learning demands unchanged while the
 second abolishes or alters them. This run does both on one conventionally
 trained network, on 2026-11-23, with numpy on CPU. Code, eight tests and
@@ -151,11 +151,11 @@ Other measures:
 
 ## What it can show
 
-- In this network, the first limb of CLAIM-367's defeat condition
+- In this network, the first limb of [CLAIM-367](../claims.d/CLAIM-367.md)'s defeat condition
   fails: changing the optimizer with the network fixed changed the response
   to the conflicting demand in both trained populations, at matched pace,
   in the optimizer's state alone as well as in its rule
-  (CLAIM-tmp60fme).
+  ([CLAIM-tmp60fme](../claims.d/CLAIM-tmp60fme.md)).
 - The second limb holds in part: disrupting the units that carry the
   learned task separation, and healing, altered the response under the
   training optimizer for one population, more than disrupting as many
@@ -163,12 +163,12 @@ Other measures:
 - How much of the response sits with each is not fixed: it depends on
   which optimizer trained the network, and a disruption's effect depends on
   the optimizer that meets it. Two readings of what that does to
-  CLAIM-367 are filed as alternatives
-  (CLAIM-tmpmgb7l, CLAIM-tmpyf8s0).
+  [CLAIM-367](../claims.d/CLAIM-367.md) are filed as alternatives
+  ([CLAIM-tmpmgb7l](../claims.d/CLAIM-tmpmgb7l.md), [CLAIM-tmpyf8s0](../claims.d/CLAIM-tmpyf8s0.md)).
 - A function-preserving change of the network's parameters is the same
   thing as a change of the optimizer's per-coordinate step sizes, so the
   two arms are not separated by anything the network computes
-  (CLAIM-tmp2k67n).
+  ([CLAIM-tmp2k67n](../claims.d/CLAIM-tmp2k67n.md)).
 
 ## What it cannot show
 
@@ -176,9 +176,9 @@ Other measures:
   batches, or a conflict that persists for longer. Here the conflict
   resolves in tens of steps and the losses are a few percent of A's level.
 - That the task separation is a *regulatory* representation in
-  CASE-113's sense, a variable that the network uses to govern its
+  [CASE-113](CASE-113.md)'s sense, a variable that the network uses to govern its
   updates. It is learned structure that shapes how conflict propagates;
-  System B or C of CASE-113 was not built.
+  System B or C of [CASE-113](CASE-113.md) was not built.
 - Anything about frustration or affect. The forgetting measured is
   optimization strain in A31's sense, nothing more.
 - Whether the ablation-and-heal result is about the units' selectivity or

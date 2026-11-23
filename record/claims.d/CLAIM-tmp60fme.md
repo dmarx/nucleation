@@ -31,8 +31,8 @@ bears_on:
 grounds:
 - CASE-tmphp4pt
 summary: >-
-  The crossed design of CASE-113, run once in a small setting
-  (CASE-tmphp4pt): two tasks with a task-identity input, a width-32
+  The crossed design of [CASE-113](../cases.d/CASE-113.md), run once in a small setting
+  ([CASE-tmphp4pt](../cases.d/CASE-tmphp4pt.md)): two tasks with a task-identity input, a width-32
   ReLU network trained by heavy ball or by Adam, twelve seeds each, and a
   conflicting demand (task B's target turned against task A's). At matched
   pace, changing only the probe optimizer changed A's peak forgetting by
@@ -55,7 +55,7 @@ summary: >-
 
 ## The claim
 
-CASE-tmphp4pt holds the design and every number. Three findings.
+[CASE-tmphp4pt](../cases.d/CASE-tmphp4pt.md) holds the design and every number. Three findings.
 
 1. **The optimizer arm is not null.** With the trained parameters fixed
    and every optimizer calibrated to relearn the changed task at the same
@@ -78,7 +78,7 @@ CASE-tmphp4pt holds the design and every number. Three findings.
    network, the optimizer that trained it and the optimizer that meets the
    demand, together.
 
-The first finding is the first limb of CLAIM-367's defeat condition
+The first finding is the first limb of [CLAIM-367](CLAIM-367.md)'s defeat condition
 failing in this setting; the second is the second limb holding in part.
 
 ## What it does not say
