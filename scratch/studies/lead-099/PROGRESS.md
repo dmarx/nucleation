@@ -26,9 +26,34 @@ lead's result. Not held.
 ## Done
 
 - Branch cut; step 1 check.
+- Coding rules written before reading (CODING.md).
+- Sources read 2026-11-23; coded statements in statements.tsv, refusals in
+  obstacles.tsv (a file named findings.md was refused by the harness as a
+  report file, so the data went to TSV).
+- Verdict by the rules: LEAGUE's own voice not reached (mlb.com 406); every
+  page stating the standard count (Hall of Fame, Baseball-Reference, AP)
+  is C-EX and D-SEN. CLUB: heritage only (H-SEN), "a new team" at founding,
+  Senators and Expos records on separate pages; Ring of Honor honours both
+  Senators clubs, the Expos and the Homestead Grays as Washington baseball.
+  SUPPORTERS (two pages): no C-SEN; one D-SEN, one claims the Senators'
+  legacy for Washington against the Expos' without their records.
+  PRESS counts franchise (Expos) and city (1924) at once.
+- Read, not coded and not registered: The Hoya 2019, Bleacher Report
+  (Wood), SABR (Thornley 2024; Thorn 2018 repost), IBWAA (Livacari 2023),
+  Fox Sports 2017, Wikipedia "History of the Washington Nationals",
+  District on Deck (Wilkerson 2025).
+
+## Choices
+
+- LITs only for sources relied on: NBC Sports Washington 2020; Wikipedia
+  "Washington Nationals"; Baseball Hall of Fame team page;
+  Baseball-Reference WSN page; AP via SI 2019; The W board thread 2004;
+  District on Deck (Bestwick 2023). Each primary or reference document gets
+  a LIT and a NOTE and no THEORY (as LIT-tmp0go6t was filed).
+- Verdict as a Proposed empirical thesis CLAIM grounded in an
+  executed-study CASE; its bearing on CLAIM-329 as two alternative
+  interpretive claims (lean: the defeater is not met).
 
 ## Next
 
-- Coding rules (CODING.md).
-- Read sources; record findings in findings.md with URL and date read.
-- File.
+- File LITs and NOTEs, the CASE, the claims, dated notes, changelog.
