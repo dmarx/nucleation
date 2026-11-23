@@ -51,6 +51,7 @@ summary: 'The assistant''s, after the owner''s ruling ([CLAIM-tmpwjpc8](CLAIM-tm
 ---
 
 <!-- inactive-ok-file: CLAIM-541 CLAIM-tmp0doyo — Proposed; the account read and the claims beside it -->
+<!-- inactive-ok-file: CASE-tmp3axlj CLAIM-tmpk8x2j CLAIM-tmpx0pvr — filed by the lead run of 2026-11-23 -->
 
 # CLAIM-tmpcbdgm: Computational mechanics gives effortless action a cost reading: for a system driven without feedback, the average work it dissipates at each switch of its drive is the memory it keeps of the current input that fails to predict the next, so a memory that keeps only what carries over wastes nothing and effortlessness is predictive economy; but wu-wei is action, and with feedback prediction is not enough, since in the record's one worked channel no predictive agent is efficient and the efficient agent forgets its actions
 
@@ -111,3 +112,27 @@ same day (version 2): a two-state Markov drive with rows (0.9, 0.1) and
 corrected reading, and the bound it states from [THEORY-026](../theory.d/THEORY-026.md) for kernels that
 keep their equilibrium stationary, want a checked re-derivation in scratch/
 before the ruling is made; nothing else holds it back.
+
+## Note of 2026-11-23: the re-derivation checked in scratch/
+
+The note above asks for a checked re-derivation in scratch/ before the
+ruling. LEAD-005's run (CASE-tmp3axlj; scratch/studies/lead-005/) supplies
+it.
+
+- **The example.** A test builds a memory that copies a two-state Markov
+  drive with rows (0.9, 0.1) and (0.2, 0.8), sharply stored and
+  re-equilibrated after each switch. Its nostalgia at every switch is
+  H(X_t | X_{t+1}) = 0.3835 nats, as stated.
+- **The bound.** For kernels that keep their equilibrium stationary,
+  driven by a Markov signal without feedback, the summed nostalgia is at
+  most the dissipation in all 300 random systems run. The per-switch
+  identity holds to 1e-15.
+
+The run also bears on this claim's feedback limit. Under feedback the
+nostalgia can be negative (CLAIM-tmpk8x2j). In a loop where the action must
+match a context, the memory that acts well has its whole content
+nonpredictive, while its heat per step is what it would be unused
+(CLAIM-tmpx0pvr). Effortlessness read as predictive economy therefore does
+not carry over to acting, which is this claim's own caveat.
+
+No status change.
