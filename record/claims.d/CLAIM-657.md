@@ -132,13 +132,13 @@ No status changes.
 
 Route A rests on [CLAIM-652](CLAIM-652.md), Proposed, which waits on [CLAIM-655](CLAIM-655.md) and its toy [CASE-246](../cases.d/CASE-246.md); [CLAIM-662](CLAIM-662.md), route B, went Active at this review, so [CLAIM-652](CLAIM-652.md) is now the only unheld premise. The claim goes Active when [CLAIM-652](CLAIM-652.md) does, unless the candidate third route of the note of 2026-11-17 is filed as an objection to "two distinct routes".
 
-## Note of 2026-11-23: route B produced by learning, from LEAD-181
+## Note of 2026-11-23: route B produced by learning, from [LEAD-181](../leads.d/LEAD-181.md)
 <!-- inactive-ok-file: CASE-tmp8mk6w CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
 
-In CASE-tmp8mk6w an institution told only its internal score learns to
+In [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) an institution told only its internal score learns to
 make no inquiry, with no rule against inquiry and no act against anyone:
 route B, costly discovery, arising without deliberate suppression, as the
-claim says. CLAIM-tmp0bqyu narrows what the route needs, in that model:
+claim says. [CLAIM-tmp0bqyu](CLAIM-tmp0bqyu.md) narrows what the route needs, in that model:
 discovery unrewarded and inquiry costly already suffice, without the
 penalty on newly recognized violations; the penalty makes inquiry a loss.
 The study models no exit, so it says nothing of route A or of whether the

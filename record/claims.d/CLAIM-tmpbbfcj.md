@@ -35,7 +35,7 @@ corroborates:
 bears_on:
 - QUESTION-456
 summary: >-
-  The dynamic form, for CASE-tmp8mk6w's institution, of CLAIM-662's
+  The dynamic form, for [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md)'s institution, of [CLAIM-662](CLAIM-662.md)'s
   step 4. Each period the institution splits a budget among inquiry,
   remediation of recognized violations (oldest first, at least one period
   after recognition) and output; it is charged for every recognized
@@ -57,11 +57,11 @@ summary: >-
 
 ## The claim
 
-CLAIM-662's step 4 holds that, under governance that "penalizes newly
+[CLAIM-662](CLAIM-662.md)'s step 4 holds that, under governance that "penalizes newly
 recognized violations without rewarding their discovery", an audit
 improvement that adds a failed demand raises the penalty while the
 arrangement is unchanged. This is the same for an institution that
-decides each period how much to inquire, in CASE-tmp8mk6w's model.
+decides each period how much to inquire, in [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md)'s model.
 
 ## The argument
 
@@ -97,5 +97,5 @@ them carry it: discovery earns nothing, and remediation lags recognition
 (with no lag and free remediation, inquiry is neutral rather than
 penalized). It does not cover surfacing from outside at a cost, under
 which an institution can gain by finding a violation first; in
-CASE-tmp8mk6w the optimum still made no inquiry at a cost of 3 and did at
+[CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) the optimum still made no inquiry at a cost of 3 and did at
 10. It says nothing of whether any institution is so scored.

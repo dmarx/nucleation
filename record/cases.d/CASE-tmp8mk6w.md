@@ -24,7 +24,7 @@ bears_on:
 - QUESTION-456
 - QUESTION-279
 summary: >-
-  CASE-249's proposed simulation (A44 §7), built and run for LEAD-181: an
+  [CASE-249](CASE-249.md)'s proposed simulation (A44 §7), built and run for [LEAD-181](../leads.d/LEAD-181.md): an
   institution with 30 fixed requirements, 10 visible and 20 found only by
   inquiry, splits a budget each period among inquiry, remediation (one
   period behind recognition) and output. Its internal evaluator counts
@@ -51,13 +51,13 @@ summary: >-
 
 ## The case
 
-CASE-249 proposed an institution facing "a known, independently
+[CASE-249](CASE-249.md) proposed an institution facing "a known, independently
 specified set of stakeholder requirements, some visible at once and some
 discoverable only after a sequence of inquiries", an internal evaluator
 scoring "against the requirements found so far" and an independent one
 "against all", and asked whether an institution rewarded for a low internal
 failure count learns "to avoid inquiries likely to uncover additional
-requirements". LEAD-181 asked for the run with and without penalties for
+requirements". [LEAD-181](../leads.d/LEAD-181.md) asked for the run with and without penalties for
 newly recognized violations.
 
 **The institution** (scratch/studies/lead-181/model.py). 30 requirements,
@@ -73,7 +73,7 @@ found or not; in S4 a violation still unmet when it surfaces costs 3 more.
 **The governance regimes**, each charging 1 per counted violation per
 period:
 
-- **pen**, CLAIM-662's governance: every recognized violation, newly
+- **pen**, [CLAIM-662](../claims.d/CLAIM-662.md)'s governance: every recognized violation, newly
   recognized ones included; discovery not rewarded.
 - **amnesty**: a violation counts only once recognized for a period, so a
   newly recognized one can be remedied unpenalized.
@@ -108,7 +108,7 @@ it within two paired standard errors, and the learners' mean.
    penalized at least once before it can be remedied, and nothing else
    (test_model.py checks it path by path). The institution remediates the
    visible violations at full capacity (b = 6), so it improves at meeting
-   the demands it knows while declining to learn of others, CLAIM-662's
+   the demands it knows while declining to learn of others, [CLAIM-662](../claims.d/CLAIM-662.md)'s
    satisfaction progress without identification progress.
 2. **The two evaluators part.** At the optimum under the penalty the
    internal count ends at 0.00 (S1, S2) or 0.10 (S3, S4) recognized
@@ -134,18 +134,18 @@ it within two paired standard errors, and the learners' mean.
 
 ## What it can show
 
-That CLAIM-662's incentive, in an adaptive system, produces avoidance
+That [CLAIM-662](../claims.d/CLAIM-662.md)'s incentive, in an adaptive system, produces avoidance
 of inquiry without any rule against inquiry and without suppressing
-anyone: the learners are told only their score. That is CLAIM-657's
+anyone: the learners are told only their score. That is [CLAIM-657](../claims.d/CLAIM-657.md)'s
 second route produced by learning. And which designs prevent it: scoring
 by an independent count, a reward for discovery, or an outside cost of
 being found out large enough to outweigh the penalty; not an amnesty on
 newly recognized violations by itself. Which comparison answers the lead's
-test is read two ways, filed as alternatives: CLAIM-tmpjz94s (against
-the independent score, the penalty suppresses inquiry) and CLAIM-tmp0bqyu
+test is read two ways, filed as alternatives: [CLAIM-tmpjz94s](../claims.d/CLAIM-tmpjz94s.md) (against
+the independent score, the penalty suppresses inquiry) and [CLAIM-tmp0bqyu](../claims.d/CLAIM-tmp0bqyu.md)
 (against internal scoring without it, the penalty lowers inquiry only
 where inquiry has another value). The pathwise result is
-CLAIM-tmpbbfcj.
+[CLAIM-tmpbbfcj](../claims.d/CLAIM-tmpbbfcj.md).
 
 ## What it cannot show
 
@@ -153,7 +153,7 @@ That any institution behaves so; the parameters are stipulated. That the
 requirements are justified, which A44 says such an experiment "would not
 derive". The policies are stationary; an institution whose inquiry could
 depend on what it has found, or on the time left, may do otherwise. It does
-not model relaxing tolerances (CLAIM-549's second route to a better score),
-which CASE-249's tolerance axis was to separate. For QUESTION-279: an
+not model relaxing tolerances ([CLAIM-549](../claims.d/CLAIM-549.md)'s second route to a better score),
+which [CASE-249](CASE-249.md)'s tolerance axis was to separate. For [QUESTION-279](../questions.d/QUESTION-279.md): an
 institution under the penalty that reports few violations has made no
 search, so its report certifies nothing about the hidden requirements.

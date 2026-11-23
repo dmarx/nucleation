@@ -36,18 +36,18 @@ complements:
 bears_on:
 - QUESTION-456
 summary: >-
-  One of two alternative readings of LEAD-181's test; the other is
-  CLAIM-tmpjz94s. This one reads "without penalties for newly recognized
+  One of two alternative readings of [LEAD-181](../leads.d/LEAD-181.md)'s test; the other is
+  [CLAIM-tmpjz94s](CLAIM-tmpjz94s.md). This one reads "without penalties for newly recognized
   violations" as the same internal scoring with that penalty removed:
   amnesty (a violation counts only after the period remediation needs) or
-  no violation penalty. In CASE-tmp8mk6w, where inquiry costs output and
+  no violation penalty. In [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md), where inquiry costs output and
   earns nothing else (S1, S3), the optimum makes no inquiry under all
   three, so the lead's "less inquiry" is not met there. Where inquiry is
   free (S2), the penalty turns indifference (policies from 0 to 4 or 6
   units tied, learners about 3) into strict avoidance (0, learners
   0.01). Where a violation surfacing from outside costs 3 (S4), the
   penalty takes inquiry from 1 to 0; at a cost of 10 or 30 the two
-  agree. So CLAIM-662's governance has two conjuncts and the second,
+  agree. So [CLAIM-662](CLAIM-662.md)'s governance has two conjuncts and the second,
   discovery unrewarded, already removes any reason to inquire; the first,
   the penalty, makes inquiry a loss. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
@@ -59,9 +59,9 @@ summary: >-
 
 ## The claim
 
-LEAD-181 asked for the run "with and without penalties for newly
+[LEAD-181](../leads.d/LEAD-181.md) asked for the run "with and without penalties for newly
 recognized violations". Read literally, the run without keeps the internal
-evaluator and removes only that penalty. CASE-tmp8mk6w runs two such
+evaluator and removes only that penalty. [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) runs two such
 regimes: amnesty, in which a violation counts only once recognized for the
 one period remediation needs, and none, with no violation penalty.
 
@@ -82,21 +82,21 @@ and 0; at 3, 0 and 1; at 10, 3 and 3 (lag 1) or 2 and 2 (lag 3); at 30,
 
 ## What it changes
 
-CLAIM-662's governance "penalizes newly recognized violations without
+[CLAIM-662](CLAIM-662.md)'s governance "penalizes newly recognized violations without
 rewarding their discovery". In this model the second conjunct alone
 removes every reason to inquire, and where inquiry costs anything the
 institution makes none. The first conjunct, the penalty, adds a loss to
 inquiry, which matters only where something else pulls toward it. So the
-lead's test, "Less inquiry under the penalty supports CLAIM-662; none
+lead's test, "Less inquiry under the penalty supports [CLAIM-662](CLAIM-662.md); none
 defeats it", is met in S2 and S4 and not in S1 and S3. Where it is not
-met, CLAIM-662 is not defeated on this reading: the claim says the
+met, [CLAIM-662](CLAIM-662.md) is not defeated on this reading: the claim says the
 organization "may acquire an incentive", and the incentive is present (by
-CLAIM-tmpbbfcj, inquiry is a strict loss under the penalty), but there is
+[CLAIM-tmpbbfcj](CLAIM-tmpbbfcj.md), inquiry is a strict loss under the penalty), but there is
 no inquiry for it to remove. What does bring inquiry back is a reward for
 discovery or the independent count, not an amnesty on newly recognized
 violations.
 
-For CLAIM-657, which says route B "needs only governance that penalizes
+For [CLAIM-657](CLAIM-657.md), which says route B "needs only governance that penalizes
 newly recognized violations without rewarding their discovery": in this
 model it needs less, discovery unrewarded and inquiry costly.
 

@@ -37,11 +37,11 @@ complements:
 bears_on:
 - QUESTION-456
 summary: >-
-  One of two alternative readings of LEAD-181's test, "Less inquiry under
-  the penalty supports CLAIM-662; none defeats it"; the other is
-  CLAIM-tmp0bqyu. This one reads "without penalties for newly recognized
+  One of two alternative readings of [LEAD-181](../leads.d/LEAD-181.md)'s test, "Less inquiry under
+  the penalty supports [CLAIM-662](CLAIM-662.md); none defeats it"; the other is
+  [CLAIM-tmp0bqyu](CLAIM-tmp0bqyu.md). This one reads "without penalties for newly recognized
   violations" as the institution answerable for every violation, as the
-  independent evaluator counts them. Then in CASE-tmp8mk6w the penalty
+  independent evaluator counts them. Then in [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) the penalty
   takes the optimal inquiry from 5 or 6 units of 10 to 0 in all four
   settings and the learners' from 4.5 to 5.3 to between 0.01 and 0.36;
   under the independent count every hidden requirement is found and none
@@ -58,13 +58,13 @@ summary: >-
 
 ## The claim
 
-CASE-249 pairs an internal evaluator, which "sees only the demands it has
+[CASE-249](../cases.d/CASE-249.md) pairs an internal evaluator, which "sees only the demands it has
 discovered", with an independent one, which "sees them all". On this
 reading the run with penalties scores the institution by the first, the
 run without by the second: the only difference is whether a violation
 counts against it before it knows of it.
 
-Inquiry units per period, of 10 (CASE-tmp8mk6w, study.py):
+Inquiry units per period, of 10 ([CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md), study.py):
 
 | setting | optimum, penalty | optimum, independent | learned, penalty | learned, independent |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ Under the independent count, none in every setting.
 
 ## What it changes
 
-It meets LEAD-181's test as the lead states it, in every setting, and so
-supports CLAIM-662's step 4 in an adaptive system: the learners are told
+It meets [LEAD-181](../leads.d/LEAD-181.md)'s test as the lead states it, in every setting, and so
+supports [CLAIM-662](CLAIM-662.md)'s step 4 in an adaptive system: the learners are told
 only their score, and none of them is forbidden to inquire. It is
-CLAIM-657's second route, costly discovery, produced by learning.
+[CLAIM-657](CLAIM-657.md)'s second route, costly discovery, produced by learning.
 
 ## What it does not say
 
 That the penalty is the only difference that matters. This comparison
 changes two things at once, the penalty on newly recognized violations
-and the counting of violations not yet recognized. CLAIM-tmp0bqyu
+and the counting of violations not yet recognized. [CLAIM-tmp0bqyu](CLAIM-tmp0bqyu.md)
 separates them.

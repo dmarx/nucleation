@@ -137,13 +137,13 @@ A's proposal (A69 §4) is to judge an epistemic planner "by the resource-bounded
 
 No status change.
 
-## Note of 2026-11-23: the internal evaluator's errors are chosen, from LEAD-181
+## Note of 2026-11-23: the internal evaluator's errors are chosen, from [LEAD-181](../leads.d/LEAD-181.md)
 <!-- inactive-ok-file: CASE-tmp8mk6w — new; filed by the lead run of 2026-11-23 -->
 
 The claim's second qualification separates "Oracle-assessed availability"
 from "Operational success", the evaluator being part of the organization.
-CASE-tmp8mk6w shows the gap made by the organization's own choice: under a
+[CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) shows the gap made by the organization's own choice: under a
 penalty on recognized violations the institution's internal count ends
 near 0 while the independent count is about 3.4 to 6.1, because it learns
 not to inquire. The study did not use the tolerance axis or the breadth and
-depth budgets of CASE-249's pass rate. No status change.
+depth budgets of [CASE-249](../cases.d/CASE-249.md)'s pass rate. No status change.

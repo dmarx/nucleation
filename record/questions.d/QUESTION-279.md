@@ -187,12 +187,12 @@ enforcer, is a statement whose certifier is the party, the case this
 question's second point raises. It does not say what would certify that
 no remedy exists. The question stays Open.
 
-## Note of 2026-11-23: a search not made, from LEAD-181
+## Note of 2026-11-23: a search not made, from [LEAD-181](../leads.d/LEAD-181.md)
 <!-- inactive-ok-file: CASE-tmp8mk6w CLAIM-tmpbbfcj — new; filed by the lead run of 2026-11-23 -->
 
-In CASE-tmp8mk6w an institution penalized for each recognized violation,
+In [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) an institution penalized for each recognized violation,
 and unrewarded for finding one, learns to make no inquiry at all
-(CLAIM-tmpbbfcj), so its report of few violations is not even a report of
+([CLAIM-tmpbbfcj](../claims.d/CLAIM-tmpbbfcj.md)), so its report of few violations is not even a report of
 search failure: no search was made. Where a party's own score sets how
 much it searches, the extent of the search is a further thing a
 certificate of absence would have to establish. The question stays Open.
