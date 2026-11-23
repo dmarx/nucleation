@@ -37,14 +37,14 @@ objects_to:
 bears_on:
 - QUESTION-tmp4fkkx
 summary: 'The owner''s objection of 2026-11-23, under the dialectic regime, to the
-  structural answer CLAIM-tmpcljke: "I''m not convinced. ecosystems are absolutely
+  structural answer [CLAIM-tmpcljke](CLAIM-tmpcljke.md): "I''m not convinced. ecosystems are absolutely
   governed by slow collective variables. tides. day/night cycles. lunar cycles.
   seasons. predator-prey population oscillations. boundary effects at interfaces
   with other ecologies. cadences set by human activity. etc." Filed in the owner''s
-  voice; the assistant''s reading of the examples is CLAIM-tmps5yc5.'
+  voice; the assistant''s reading of the examples is [CLAIM-tmps5yc5](CLAIM-tmps5yc5.md).'
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpcljke CLAIM-tmps5yc5 QUESTION-tmp4fkkx — Proposed or Open; the claim objected to, its reading and the question -->
+<!-- inactive-ok-file: CLAIM-tmpcljke CLAIM-tmps5yc5 — Proposed or Open; the claim objected to, its reading and the question -->
 
 # CLAIM-tmpt93dp: Ecosystems are governed by slow collective variables, such as tides, day and night, lunar cycles, seasons, predator–prey oscillations, boundary effects at interfaces with other ecologies and cadences set by human activity, so having a whole-level slow variable cannot be what separates a pseudo-self from an ecosystem of pseudo-selves
 
@@ -52,7 +52,7 @@ summary: 'The owner''s objection of 2026-11-23, under the dialectic regime, to t
 
 The owner's words: "I'm not convinced. ecosystems are absolutely governed by slow collective variables. tides. day/night cycles. lunar cycles. seasons. predator-prey population oscillations. boundary effects at interfaces with other ecologies. cadences set by human activity. etc."
 
-The structural answer (CLAIM-tmpcljke) said that what marks a plurality of
+The structural answer ([CLAIM-tmpcljke](CLAIM-tmpcljke.md)) said that what marks a plurality of
 pseudo-selves as integrated, rather than an ecosystem, is a whole-level slow
 variable maintained as the whole's. The owner answers that ecosystems have
 such variables in abundance.
@@ -60,16 +60,16 @@ such variables in abundance.
 ## The owner's addition
 
 Later the same day: "migration dynamics might be a better endogenous
-example". The assistant's reading is CLAIM-tmp7pwo5.
+example". The assistant's reading is [CLAIM-tmp7pwo5](CLAIM-tmp7pwo5.md).
 
 And: "another useful ecological example for a slow mode which was observed
 to undergo change is the reintroduction of wolves to yellowstone (I think
 this should already be documented on the record)". It is, through Kadowaki
-and colleagues' review (NOTE-1677, THEORY-1468), citing Wolf et al. 2007; the
-assistant's reading is the dated note of 2026-11-23 on CLAIM-tmps5yc5.
+and colleagues' review ([NOTE-1677](../notes.d/NOTE-1677.md), [THEORY-1468](../theory.d/THEORY-1468.md)), citing Wolf et al. 2007; the
+assistant's reading is the dated note of 2026-11-23 on [CLAIM-tmps5yc5](CLAIM-tmps5yc5.md).
 
 ## Standing
 
-Proposed, the owner's. The assistant's reading (CLAIM-tmps5yc5) concedes that
-it defeats CLAIM-tmpcljke as worded, through the endogenous examples, and
+Proposed, the owner's. The assistant's reading ([CLAIM-tmps5yc5](CLAIM-tmps5yc5.md)) concedes that
+it defeats [CLAIM-tmpcljke](CLAIM-tmpcljke.md) as worded, through the endogenous examples, and
 divides the rest.
