@@ -275,7 +275,7 @@ design's main threat asks ([CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md)). The
 
 ## Note of 2026-11-23: at the synthesis review
 
-<!-- inactive-ok-block: CLAIM-tmphrp1s CLAIM-tmpnc1mf CASE-tmpz762n CLAIM-920 — Proposed or new; the run and its readings -->
+<!-- inactive-ok-block: CLAIM-tmphrp1s CLAIM-tmpnc1mf CLAIM-920 — Proposed or new; the run and its readings -->
 The synthesis review of 2026-11-23 asked whether an integration across this
 question's answers is held in parts and stated by no entry. It is stated:
 in this question's own body (A16's verdict and ladder) and its notes, and in
