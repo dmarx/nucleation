@@ -38,7 +38,7 @@ def ln_offset(gamma, beta) -> float:
 
 
 def _key(r: float) -> str:
-    return f"{r:.0e}"
+    return f"{r:.0e}" if float(f"{r:.0e}") == r else f"{r:.2e}"
 
 
 def _last(lm, ids):
@@ -164,7 +164,11 @@ def main(argv):
     lm, tok = lmnp.load_model(model_dir)
     bos = 50256 if lm.kind == "gpt2" else 0
     rng = np.random.default_rng(73)
-    res = measure(lm, tok, bos, RELATIONS, rng)
+    # Optional third argument: a POST-HOC tolerance sweep (comma-separated rtols),
+    # written to its own file; the pre-registered run uses RTOLS.
+    rtols = tuple(float(x) for x in argv[3].split(",")) if len(argv) > 3 else RTOLS
+    res = measure(lm, tok, bos, RELATIONS, rng, rtols=rtols)
+    res["posthoc_sweep"] = len(argv) > 3
     res["model_dir"] = os.path.basename(os.path.normpath(model_dir))
     with open(out_path, "w") as fh:
         json.dump(res, fh, indent=1)
