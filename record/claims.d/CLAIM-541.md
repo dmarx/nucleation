@@ -136,3 +136,14 @@ accordingly (version 3). A computational-mechanics reading is filed
 beside it: effortlessness as predictive economy of memory, with the
 feedback limit that keeps it from being mere prediction ([CLAIM-tmpcbdgm](CLAIM-tmpcbdgm.md)).
 
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-711 LIT-1997 LIT-1972 — Proposed or Unavailable; the moves checked -->
+Checked after the owner's ruling (CLAIM-tmpwjpc8) and CLAIM-711's revision:
+the sinological half of the wait of 2026-11-06 is over, and CLAIM-711's slow
+commitment is a further shape the title's "at least three" allows. What
+remains is its formal instance: no reading or demonstration of Ott, Grebogi
+and Yorke's control is in the record (LIT-1997 and LIT-1972 are
+Unavailable). A reading, or a checked simulation in scratch/ showing small
+parameter perturbations holding an unstable orbit of, say, the Hénon map,
+with the orbit lost once control stops, would let the ruling be made.

@@ -1,7 +1,18 @@
 ---
-status: Proposed
+status: Active
 title: 'Repeated arbitration can fall away from a collaboration by three different mechanisms, valuational concordance, learned practical coordination and externalized governance, and a governed record is directly only the third: rules and infrastructure that settle recurring conflicts automatically do not show that the collaborators have learned to coordinate, though they may be a stage on the way to it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted by the status review (ADR-057), at the status review's ruling
+    (the owner delegated these rulings): TERM-050 and TERM-061 are Active;
+    no live objection; nothing meets its defeated_if (TERM-061's note of
+    2026-11-22 agrees that enforced rules are a higher level). CLAIM-358
+    is cited for the second mechanism's cost, which the title does not
+    need, and stays in complements. The developmental hypothesis remains a
+    hypothesis, tested by LEAD-tmponn7c.
 role: thesis
 warrant: interpretive
 defeated_if: >-

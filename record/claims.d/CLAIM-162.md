@@ -192,3 +192,13 @@ show that anyone experiences flow. And A20's closing proposition says what
 this claim does not describe: flow-regulation, the capacity to enter,
 sustain, interrupt and recover fluent coordination ([CLAIM-tmpcsh5p](CLAIM-tmpcsh5p.md),
 Proposed). The claim is unchanged.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-169 THEORY-070 CASE-382 CLAIM-981 — Proposed; what holds it -->
+The wait of 2026-10-29 stands. The works read since for LEAD-078 (LIT-3113,
+LIT-3114, LIT-916) bear on bundling and mindfulness and leave CLAIM-169
+Proposed; THEORY-070 is still Proposed, its promote_when (1) having only a
+candidate fit (CASE-382, CLAIM-981) on a revealed-choice measure, not the
+accumulator parameter it names. No choice probe within a flow episode is in
+the record.

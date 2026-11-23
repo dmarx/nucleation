@@ -1,13 +1,25 @@
 ---
 status: Proposed
-title: 'Computational mechanics gives effortless action a cost reading: for
-  a system driven without feedback, the work it dissipates is the memory it
-  keeps that fails to predict its next input, so a memory that holds only
-  the causal states of its drive wastes nothing and effortlessness is predictive
-  economy; but wu-wei is action, and with feedback prediction is not enough,
-  since in the record''s one worked channel no predictive agent is efficient
+title: 'Computational mechanics gives effortless action a cost reading: for a system
+  driven without feedback, the average work it dissipates at each switch of its
+  drive is the memory it keeps of the current input that fails to predict the next,
+  so a memory that keeps only what carries over wastes nothing and effortlessness
+  is predictive economy; but wu-wei is action, and with feedback prediction is not
+  enough, since in the record''s one worked channel no predictive agent is efficient
   and the efficient agent forgets its actions'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    At the status review of 2026-11-23 (ADR-057). The title's clause "the
+    work it dissipates is the memory it keeps that fails to predict its
+    next input, so a memory that holds only the causal states of its drive
+    wastes nothing" is corrected: a drive's causal states can keep what
+    the next input does not carry, and then pay for it (a two-state Markov
+    drive gives H(X_t|X_{t+1}) > 0), and THEORY-026's identity is an
+    average per switch. The claim is kept Proposed; see the note of this
+    date.
 role: supposed
 warrant: interpretive
 defeated_if: A model of acting with feedback in which the efficient agents
@@ -40,7 +52,7 @@ summary: 'The assistant''s, after the owner''s ruling ([CLAIM-tmpwjpc8](CLAIM-tm
 
 <!-- inactive-ok-file: CLAIM-541 CLAIM-tmp0doyo — Proposed; the account read and the claims beside it -->
 
-# CLAIM-tmpcbdgm: Computational mechanics gives effortless action a cost reading: for a system driven without feedback, the work it dissipates is the memory it keeps that fails to predict its next input, so a memory that holds only the causal states of its drive wastes nothing and effortlessness is predictive economy; but wu-wei is action, and with feedback prediction is not enough, since in the record's one worked channel no predictive agent is efficient and the efficient agent forgets its actions
+# CLAIM-tmpcbdgm: Computational mechanics gives effortless action a cost reading: for a system driven without feedback, the average work it dissipates at each switch of its drive is the memory it keeps of the current input that fails to predict the next, so a memory that keeps only what carries over wastes nothing and effortlessness is predictive economy; but wu-wei is action, and with feedback prediction is not enough, since in the record's one worked channel no predictive agent is efficient and the efficient agent forgets its actions
 
 ## The reading
 
@@ -49,9 +61,16 @@ says the average work dissipated at each switch of the drive equals
 I[s_t; x_t] − I[s_t; x_{t+1}]. That is the memory the system keeps of the
 current input that does not carry over to the next. Summed over a
 protocol it bounds dissipation below. "Predictive memory costs nothing
-in it." A memory that holds only the causal states of its drive ([TERM-062](../terms.d/TERM-062.md):
-the coarsest partition of pasts that is prescient for the future) keeps
-nothing that fails to predict, so it wastes nothing.
+in it." A memory that keeps of the current input only what carries over to the
+next has no nostalgia, so it wastes nothing at the switch (the nostalgia is
+nonnegative under a Markov drive, and summed it bounds dissipation from
+below when each kernel keeps its equilibrium stationary). That is not the
+same as holding the drive's causal states (TERM-062): they are prescient
+for the whole future, yet where the next input does not fix the current
+causal state they keep what it does not carry, and pay for it. For a
+two-state Markov drive with transition rows (0.9, 0.1) and (0.2, 0.8) the
+causal state is the current input, and the nostalgia is H(X_t|X_{t+1}) ≈
+0.38 nats.
 
 Read as an account of effortlessness, this adds a third axis to
 [CLAIM-541](CLAIM-541.md)'s timing and [CLAIM-tmp0doyo](CLAIM-tmp0doyo.md)'s direction: economy of memory. An
@@ -83,3 +102,12 @@ about effortless action.
 [THEORY-026](../theory.d/THEORY-026.md) is Active, but its feedback result is one channel. The step
 from dissipated work to felt or organizational effort is a reading, not
 a derivation.
+
+## Note of 2026-11-23: what holds it back
+
+The causal-state clause was shown false at this review and corrected the
+same day (version 2): a two-state Markov drive with rows (0.9, 0.1) and
+(0.2, 0.8) keeps about 0.38 nats it does not carry to the next input. The
+corrected reading, and the bound it states from THEORY-026 for kernels that
+keep their equilibrium stationary, want a checked re-derivation in scratch/
+before the ruling is made; nothing else holds it back.

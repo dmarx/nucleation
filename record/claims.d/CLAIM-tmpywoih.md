@@ -71,3 +71,12 @@ dynamical mechanism. And A20 §7: coordinated, uninterrupted collaboration
 does not show that any collaborator experiences flow; [CLAIM-872](CLAIM-872.md)'s
 experience-sampling evidence bears on flow and affect, not on this.
 [LEAD-tmponn7c](../leads.d/LEAD-tmponn7c.md) measures experienced flow separately from coordination.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-162 CLAIM-169 THEORY-070 LEAD-tmponn7c — Proposed; what holds it -->
+Its premise CLAIM-162 is Proposed: CLAIM-169 and THEORY-070 are not held,
+and no choice probe within a flow episode is in the record. Its own first
+clause, that a governed record narrows the gap between a contribution's
+immediate reward and the inquiry's longer-run value, has no measure in the
+record; LEAD-tmponn7c would supply one.

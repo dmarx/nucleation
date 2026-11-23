@@ -80,3 +80,10 @@ what the reading uses. The reading itself is interpretive. It is
 defeated by its `defeated_if`. Under the owner's ruling ([CLAIM-tmpwjpc8](CLAIM-tmpwjpc8.md))
 the sinological reading, unread ([LIT-1994](../literature.d/LIT-1994.md)), bears on whether the name
 fits, not on the account.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-541 — Proposed; the premise that holds it -->
+Its premise CLAIM-541 is Proposed: the timing it adds a direction to rests
+on Ott, Grebogi and Yorke's method, which no reading or demonstration in the
+record holds. The direction half follows from CLAIM-345 (Active) alone.

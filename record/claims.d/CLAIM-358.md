@@ -380,3 +380,13 @@ the work so that the people say they did it themselves (paraphrased from
 common knowledge of the text, not checked). This is an analogy; no edge
 is written. The regulation thread of the exchange "Explain First Contact
 RL" ([CLAIM-tmptfpf7](CLAIM-tmptfpf7.md), generative regulation) is the same shape.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: THEORY-070 CASE-382 CLAIM-981 — Proposed; what holds it -->
+Checked after CLAIM-361's revision of 2026-11-21, an attribution note that
+changes nothing here. The claim is still held by its ground THEORY-070:
+CASE-382 and CLAIM-981 (Proposed) give its promote_when (1) a candidate fit
+on a revealed-choice measure, not the accumulator parameter or conflict
+adaptation it names, and whether that suffices is left to the owner in
+THEORY-070's note of 2026-11-22.
