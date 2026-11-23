@@ -140,3 +140,14 @@ Audited at the synthesis review of 2026-11-21 ([ADR-075](../decisions.d/ADR-075.
 **What the skill would do.** Fold the mapping into its scope's account and set the claim Superseded. That is a status change on an Active entry, so it waits for the owner ([ADR-127](../decisions.d/ADR-127.md)).
 
 **A narrower sentence the reader thought might pass by derivation**, with [CLAIM-516](CLAIM-516.md) as a further premise: "Under turnover with no basal production, no remedy for [CLAIM-568](CLAIM-568.md)'s four obstructions keeps a capability over horizons longer than turnover unless it creates a productive cycle among the capability's producers." Before filing it, check that [CLAIM-531](CLAIM-531.md) and [CLAIM-532](CLAIM-532.md) do not already hold it.
+
+## Note of 2026-11-23: the synthesis review's audit, again
+
+At the synthesis review of 2026-11-23 a second reader, briefed neutrally and
+not told of the note above, reached the same verdict: the claim adds nothing
+to [CLAIM-568](CLAIM-568.md), [CLAIM-566](CLAIM-566.md), [CLAIM-347](CLAIM-347.md) and [CLAIM-586](CLAIM-586.md) set side by side, and the
+first clause of its `defeated_if` is met by a capability lost over a horizon
+with no turnover and no failure of information, such as creep or fatigue of
+a folded structure. The recommendation stands: fold the mapping into the
+realizability and readiness accounts and set the claim Superseded, and, if it
+is kept, drop the defeater's exhaustiveness. Both wait for the owner.

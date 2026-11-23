@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp4vrjc
 title: 'From interconnection to individuation the record holds distinct achievements in a partial order: interconnection makes effective constraints that gluing only expresses, coupling separates time scales only where it dissipates differences, an individuation is well defined once its criterion is fixed and its senses need different evidence, where maintenance is realized is shown only by interventions on production relative to a declared boundary, and assembling, persisting, regenerating and being supplied come apart, while how distinctions are made and unmade, and when relations constitute an entity, stay open'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-21'
@@ -13,6 +13,13 @@ history:
     account that bear on QUESTION-281 are integrated (CLAIM-672, CLAIM-770,
     CLAIM-781), and a dated note maps what they say of the question. The
     question stays Open. The account's body is otherwise unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added QUESTION-450,
+    QUESTION-452, QUESTION-469 and QUESTION-490, in-force entries of the
+    line no account integrated. Each is set out at the end of the
+    components; the title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the individuation part of the distributed-agency line left out without
@@ -102,6 +109,10 @@ integrates:
 - CLAIM-672
 - CLAIM-770
 - CLAIM-781
+- QUESTION-450
+- QUESTION-452
+- QUESTION-469
+- QUESTION-490
 ---
 <!-- inactive-ok-file: ARG-056 ARG-072 CASE-163 CASE-194 CASE-225 CASE-227 CASE-231 CLAIM-157 CLAIM-167 CLAIM-170 CLAIM-174 CLAIM-274 CLAIM-327 CLAIM-367 CLAIM-417 CLAIM-477 CLAIM-478 CLAIM-510 CLAIM-511 CLAIM-514 CLAIM-519 CLAIM-544 CLAIM-603 CLAIM-606 CLAIM-610 CLAIM-611 CLAIM-612 CLAIM-615 CLAIM-616 CLAIM-618 CLAIM-626 SYNTHESIS-029 SYNTHESIS-032 SYNTHESIS-037 SYNTHESIS-041 SYNTHESIS-042 SYNTHESIS-043 SYNTHESIS-046 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-047 ARG-068 CLAIM-473 THEORY-787 — Rejected; components and citations, with their standing -->
@@ -503,6 +514,39 @@ inside ([QUESTION-373](../questions.d/QUESTION-373.md), [QUESTION-388](../questi
 - [CLAIM-497](../claims.d/CLAIM-497.md), the record's at the owner's direction, thesis, interpretive,
   Active; first line formal-apparatus; bears on [QUESTION-204](../questions.d/QUESTION-204.md).
 - [QUESTION-281](../questions.d/QUESTION-281.md), the owner's U14 with A14, Open.
+
+Added at version 3, at the synthesis review of 2026-11-23: four in-force
+questions of the line, filed after this account, that fall in its scope
+and that no account integrated. The account now integrates 78 entries.
+
+- [QUESTION-450](../questions.d/QUESTION-450.md), the assistant's, raised by the reading review of
+  2026-11-11 from [THEORY-1078](../theory.d/THEORY-1078.md); Open. It asks whether a law that constrains
+  without being produced by what it constrains, a symmetry, a conservation
+  law or a law of possibility, counts as a constraint realized and
+  maintained by something; its body states it as the candidate for
+  [CLAIM-477](../claims.d/CLAIM-477.md)'s defeater (b), which [CLAIM-477](../claims.d/CLAIM-477.md)'s notes of 2026-10-27 to
+  2026-11-06 leave "unruled".
+- [QUESTION-452](../questions.d/QUESTION-452.md), the assistant's, raised by the second by-topic reading
+  review of 2026-11-11; Open. It asks whether keeping a maintained
+  organization precise costs dissipation in proportion to the precision,
+  and whether that bound separates organizations that persist from
+  structures that merely last; its body names [CLAIM-604](../claims.d/CLAIM-604.md), [CLAIM-516](../claims.d/CLAIM-516.md) and
+  [CLAIM-521](../claims.d/CLAIM-521.md) as speaking of upkeep drawn from a flux "without pricing it".
+- [QUESTION-469](../questions.d/QUESTION-469.md), the assistant's, filed at the owner's request on
+  2026-11-15; Open. It asks whether a model can derive together the
+  persistence of a pattern and of the persisting carrier it rides on, and
+  whether the pattern's identity then depends on the carrier's; its body
+  says [CLAIM-606](../claims.d/CLAIM-606.md) sorts single structures by what holds them without asking
+  what happens when one structure holds another, and that [TERM-088](../terms.d/TERM-088.md)'s
+  senses are stated for one level at a time.
+- [QUESTION-490](../questions.d/QUESTION-490.md), A's, from A10 of the exchange "Topological protection
+  explained" (2026-11-18); Open; also transient-support. It asks whether
+  degrees of freedom bound to a defect can come to maintain the
+  order-parameter structure that localizes them, and whether the composite
+  is then one organization; its body says the record holds the one-way
+  case ([TERM-088](../terms.d/TERM-088.md), [CLAIM-611](../claims.d/CLAIM-611.md)) and not the feedback, cites [CLAIM-516](../claims.d/CLAIM-516.md),
+  [CLAIM-566](../claims.d/CLAIM-566.md), [TERM-070](../terms.d/TERM-070.md) and [CLAIM-606](../claims.d/CLAIM-606.md), and calls it a field-theory case of
+  [QUESTION-399](../questions.d/QUESTION-399.md).
 
 ## Links the components state, and where
 
