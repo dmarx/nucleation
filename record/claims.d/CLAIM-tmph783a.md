@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'A symmetry of the current fundamental theories meets the relata–realization frame''s second defeater: in Wigner''s classification the representations of the Poincaré group fix elementary particle kinds, and no particular thing realizes or maintains that symmetry, which constrains other laws rather than being produced by any process; so the frame holds only for kinds whose constraints are effective, and at the fundamental level constraints are prior to their realizations'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    CLAIM-tmpfbofs joins objects_to: the section "Against the leaned-to
+    reading" argues against it, and a body citation doing an objection's
+    work goes in the field (ADR-057), at the status review's ruling (the
+    owner delegated these rulings). Text unchanged.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -27,6 +35,7 @@ bears_on:
 grounds:
 - THEORY-1078
 objects_to:
+- CLAIM-tmpfbofs
 - CLAIM-477
 summary: >-
   Alternative 2 of two for [LEAD-195](../leads.d/LEAD-195.md)'s first question: does a symmetry or

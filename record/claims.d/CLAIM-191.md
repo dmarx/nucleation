@@ -191,3 +191,11 @@ items, once restated, keep their identity as well as coded ones. That
 half is not testable from the reconstructions either: they report a
 restatement almost only when it fails ([CLAIM-tmp9w3p9](CLAIM-tmp9w3p9.md)). The blind rating
 still needs verbatim transcripts. No change of status or title.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-090 CLAIM-182 — Proposed; what holds it -->
+Checked CLAIM-772's revisions of 2026-11-20 and 2026-11-21, which read this
+claim's direction clause and do not test it, and CASE-tmp4niuz, which rated
+no direction. CLAIM-090 and CLAIM-182 remain Proposed, and no blind rating
+of re-derivations across sessions is held.

@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'The record''s reconstructions of its exchanges report a restatement almost only when it fails, so they cannot measure whether a code protects content from re-derivation or whether a restatement''s distance from its original predicts it: those tests need transcripts coded for every restatement, recognised or not'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Proposed to Active at the status review's ruling (the owner delegated
+    these rulings): its ground CASE-tmp4niuz reproduces and is Active; the
+    title is the methodological finding the counts show; its defeater (a
+    second coder finding about one retrieval in ten) is unmet.
 role: thesis
 warrant: empirical
 defeated_if: >-

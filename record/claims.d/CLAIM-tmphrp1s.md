@@ -79,3 +79,10 @@ That the forager's norm is its own in Bickhard's full sense: the modeller
 still wrote the dissolution condition and the learning rule, which no
 construction removes ([CASE-241](../cases.d/CASE-241.md), "What it cannot show"). Only that the
 second defeater, as worded, is not the test of it.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-tmpnc1mf — Proposed; the alternative -->
+CASE-tmpz762n is now Active and reproduces; what holds this claim is the
+owner's choice between it and CLAIM-tmpnc1mf, its live objection, under
+ADR-127.

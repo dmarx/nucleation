@@ -82,3 +82,11 @@ channels cannot expose it, for example an assumption of the theory each
 instrument's reading relies on. Exposing it takes a channel that does not
 share it. Independence of technique lowers the chance of a shared error,
 but it does not make one observable.
+
+## Note of 2026-11-23: what holds it back
+
+The rank computation is reproduced (scratch/formal/beacon_gauge_check.py),
+but the title's clause that a standard fixed by definition 'is how
+measurement ends' the regress rests on no reading the record holds; a read
+source on the SI's defined constants and traceability, or a narrowing that
+drops the clause to a Proposed interpretive claim, would free it.

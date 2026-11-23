@@ -1,7 +1,7 @@
 ---
-status: Proposed
+status: Active
 title: 'A simulated ladder on one sensor channel and a forager that learns its own warning signs: a fail-safe relay acts on an absence and keeps nothing, a tester registers a silent fault and cannot place it, a four-probe diagnoser places it, and only a diagnoser that reviews its record of real fires finds a fault that appears in heat; the forager needs to revise which features count only when the warning sign is a feature it never attended to, and loses its gains when its energy account is replaced by a matched score'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -9,6 +9,13 @@ history:
     Filed 2026-11-22 by the assistant, carrying out LEAD-177 as a delegated
     lead worker. The code, its tests and the results are committed under
     scratch/studies/lead-177/.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Proposed to Active at the status review's ruling (the owner delegated
+    these rulings): the run reproduces; study_ladder.py (100 seeds) and
+    study_forager.py (40 seeds) rerun from scratch give summaries byte-
+    identical to the committed ones, and the tests pass.
 standing: documented
 kind: executed-study
 tags:

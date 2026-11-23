@@ -74,3 +74,9 @@ standard.
 That the learner revises only estimates; the run shows it revises which
 features count. Nor that a physical self-maintaining system would fail the
 same test: the claim is about the construction.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-tmphrp1s — Proposed; the alternative -->
+CASE-tmpz762n is now Active and reproduces; what holds this claim is the
+owner's choice between it and CLAIM-tmphrp1s under ADR-127.

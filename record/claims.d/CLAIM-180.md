@@ -236,3 +236,13 @@ retrieval by content altogether": the collaborator reaches the code by
 content. [CLAIM-tmp49ilj](CLAIM-tmp49ilj.md) reads the same counts as failures to find the
 code, which "What it does not say" already allows. The lead worker leans
 to the second. No change of status or title.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-182 CLAIM-tmpc5mmp — Proposed; what holds it -->
+Checked CLAIM-772's revisions of 2026-11-20 and 2026-11-21, which bear on
+the mechanism of drift and not on this claim's test, and CASE-tmp4niuz,
+which cannot run it: the reconstructions report almost only failed
+restatements (CLAIM-tmp9w3p9). Its test still wants transcripts coded for
+every restatement; CLAIM-182 is Proposed, and CLAIM-tmpc5mmp is a live
+objection to the bypass clause.

@@ -78,3 +78,12 @@ It is one model, with the miscalibration fixed and the survey assumed
 correct. It does not show that every protected anchor must be revisable.
 A protected anchor that is correct is [LEAD-177](../leads.d/LEAD-177.md)'s main result and needs no
 survey.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-tmp4h9rc — Proposed; the owner's claim it qualifies -->
+CASE-tmp33vf4 is now Active and the miscalibrated arm reproduces (0.360
+against a miscalibration of 0.361). Promoting this claim would make its
+concession due on CLAIM-tmp4h9rc, the owner's own claim (ADR-059), and
+writing it in is the owner's. Its title's 'only through a further protected
+channel' also reaches beyond the one model, as its body concedes.

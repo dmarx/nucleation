@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'If constructor theory''s programme holds, Deutsch and Marletto''s possibility facts meet the relata–realization frame''s second defeater: being an information medium is an exact property of a substrate fixed by which tasks are possible, every constructor that could perform them is approximate and none need exist, and the laws are themselves statements of possibility that mention no constructor, so an exact individuating constraint is realized by no actual thing, and reading it as modal maintenance concedes that what individuates is the modal fact and not its realizers'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    CLAIM-tmpr0sfe joins objects_to: points 3 and 4 argue against it, and
+    a body citation doing an objection's work goes in the field (ADR-057),
+    at the status review's ruling (the owner delegated these rulings).
+    Text unchanged.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -27,6 +35,7 @@ grounds:
 - THEORY-1066
 - THEORY-1078
 objects_to:
+- CLAIM-tmpr0sfe
 - CLAIM-477
 summary: >-
   Alternative 2 of two for [LEAD-195](../leads.d/LEAD-195.md)'s second question: does a possibility

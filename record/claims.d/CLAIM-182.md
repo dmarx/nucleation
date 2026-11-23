@@ -146,3 +146,11 @@ code, which this claim's "Stable identity and discoverability may matter
 too" allows. It reads the count as silent on the thesis itself. The
 before-and-after comparison the thesis needs still wants a transcript
 coded for every restatement. No change of status or title.
+
+## Note of 2026-11-23: what holds it back
+
+Checked CLAIM-185's note of 2026-11-22 (entrenchment readings, background)
+and QUESTION-271's (LEAD-077's run): neither counts re-derivation before and
+after addressing. CASE-tmp4niuz's count is censored, since silence after a
+code may mean citation or absence (CLAIM-tmp9w3p9); the comparison still
+wants a transcript coded for every restatement.

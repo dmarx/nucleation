@@ -197,3 +197,12 @@ them. The two differ on whether a defeater about laws may be met by the
 best current theory or needs a result. Choosing is the owner's. The
 possibility-fact rulings, [CLAIM-tmpr0sfe](CLAIM-tmpr0sfe.md) and [CLAIM-tmp6sa56](CLAIM-tmp6sa56.md), can be
 combined with either.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-tmph783a LEAD-195 — Proposed; the alternative and its lead -->
+It is one of two alternatives filed for LEAD-195, and the choice between it
+and CLAIM-tmph783a, whether defeater (b) asks for a result that a law is
+fundamental or is met by the best current theory, is the owner's under
+ADR-127. CLAIM-tmph783a's objection is answered only by this claim's own
+text, not by a held counter. It answers QUESTION-450, which is Open.

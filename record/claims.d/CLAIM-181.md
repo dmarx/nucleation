@@ -276,3 +276,10 @@ norms into mechanisms ([DP-3](../../docs/design-principles.md#dp-3)) makes the r
 a governed record synchronizes without convergence, and [CLAIM-tmpcsh5p](CLAIM-tmpcsh5p.md)
 (Proposed) as the reason a record must keep the interruptions that change
 its grammar. The claim is unchanged.
+
+## Note of 2026-11-23: what holds it back
+
+Checked CASE-300's correction of 2026-11-21 (one row reclassified, counts
+unchanged) and NOTE-2353's reading (a parallel from type inference): neither
+supplies the test still unmet, a move that mattered in an exchange and that
+the record still cannot hold or holds only by distorting it.

@@ -1,13 +1,19 @@
 ---
-status: Proposed
+status: Active
 title: 'In a simulated sensor network whose correspondences drift, revision improves prediction on positions the network did not choose only when it answers to beacons whose position and channel the revision can neither rewrite nor refuse; revision by the sensors'' disagreement alone restores consistency and not accuracy, and a revisable beacon map or a right to refuse disagreeing beacons loses part or all of the gain'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant, carrying out LEAD-177 as a delegated
     lead worker, from the run filed as CASE-tmp33vf4.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Proposed to Active at the status review's ruling (the owner delegated
+    these rulings): CASE-tmp33vf4, its only ground, reproduces and is
+    Active; no objection; the defeater is not met.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

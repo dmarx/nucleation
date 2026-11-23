@@ -68,3 +68,12 @@ describes. So a code moves the retrieval failure; it does not remove it.
   that ([CLAIM-tmp49ilj](CLAIM-tmp49ilj.md), [CLAIM-tmp9w3p9](CLAIM-tmp9w3p9.md)).
 - It does not deny the critical-distance account of drift. It denies only
   the bypass clause, as a description of the exchanges.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-tmp49ilj — Proposed; the alternative -->
+CASE-tmp4niuz is now Active and reproduces; this is one of two readings of
+its counts, with CLAIM-tmp49ilj, and the choice between them is the owner's
+under ADR-127. Its causal clause, that the collaborator had to find the code
+by what the content said, is not measured by the study, which cannot see
+what the collaborator had to hand.

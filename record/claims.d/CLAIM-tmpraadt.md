@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'Sampling the toy model of superposition''s tempered posterior exp(−nL) under Chen et al.''s N(0, 1) prior does not confirm the critical sample sizes the free-energy formula gives for the training chain: 5 → 5⁺ falls near n = 780, not 1,600–2,500, the first two steps have no crossing above n ≈ 1, and 5 → 6 falls near 270, not 601, which matches Chen et al.''s sampled 600–700 only because their likelihood carries a factor ½ that their formula does not'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Proposed to Active at the status review's ruling (the owner delegated
+    these rulings): reproduced from the committed chains; the factor-of-
+    one-half reading is hedged. It weakens what THEORY-1275's title says
+    of the rising order, which THEORY-1275's note of 2026-11-22 records.
 role: thesis
 warrant: empirical
 defeated_if: >-

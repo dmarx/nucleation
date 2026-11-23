@@ -64,3 +64,10 @@ reconstructions cannot measure that.
   whatever the cause.
 - It does not say the record's views made codes discoverable. That is
   what the counts call into question.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-tmpc5mmp — Proposed; the alternative -->
+CASE-tmp4niuz is now Active and reproduces; this is one of two readings of
+its counts, with CLAIM-tmpc5mmp, and the choice between them is the owner's
+under ADR-127.

@@ -149,3 +149,13 @@ consists in (a channel the estimate can neither rewrite nor refuse). On
 that lean the condition the 2026-10-30 note set, "One such case would
 promote it", looks met. Promotion is the owner's call. The wording is the
 assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CASE-tmp17zl1 NOTE-tmp2d035 THEORY-tmp5gcq1 — Proposed or Skimmed; reading B -->
+Checked the moves since 2026-10-30: CASE-tmp33vf4 is put Active by this
+review, which meets the condition only under reading A of the note of
+2026-11-22; under the leaned-to reading B the case is CASE-tmp17zl1,
+Proposed, whose reading NOTE-tmp2d035 is Skimmed and whose THEORY-tmp5gcq1
+awaits a check of the uncertainty budgets. Which reading the condition means
+is the owner's call.
