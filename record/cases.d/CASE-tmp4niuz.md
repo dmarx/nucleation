@@ -147,6 +147,10 @@ methodological finding.
   reports what its reader judged worth reporting, in that reader's words.
   Its quotations are sometimes of the original rather than the
   restatement.
+- **No direction.** CLAIM-191's defeater asks blind raters which way
+  re-derivations drift. This study codes no direction. A reconstruction
+  paraphrases a restatement in its own reader's words, so it could not
+  support a direction coding.
 - **Same owner, one assistant family.** As in CASE-306 and CASE-372, all
   the exchanges have one owner and one assistant family. The counts are
   exact properties of the record's files on 2026-11-23, not rates in
