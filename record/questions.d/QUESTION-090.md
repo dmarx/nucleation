@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmplstea
 title: 'Under what conditions does a population of heterogeneous processes develop a self-maintaining, internally differentiated governance structure that acts coherently without suppressing the plurality of processes it emerges from?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-04'
@@ -19,6 +19,11 @@ history:
     rule (2026-11-10): the entry takes part in that line's argument,
     through the first line of an entry it names: will-organization,
     since it refines QUESTION-034. No other change.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    A dated note added: LEAD-180's run of CASE-108. The
+    question is unchanged.
 tags:
 - self-governance
 - behavioral-integration
@@ -112,3 +117,17 @@ No status changes.
 ## Note of 2026-11-23: a population result
 
 [CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md) bears on this question. Operators that cannot raise their own authority, and are rewarded for realized policy, built a delegation structure that sorted by side: all grants went to their own side and, within it, to its extremes ([CLAIM-tmpdpnid](../claims.d/CLAIM-tmpdpnid.md), [CLAIM-tmpoc6mo](../claims.d/CLAIM-tmpoc6mo.md)). With one grant per operator, that structure also set whom each read, and the population split into factions. With grants indexed by role, the plurality of policy survived while evidence crossed sides ([CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md)).
+
+## Note of 2026-11-23: a condition for coherence without suppression, in a governance run
+<!-- inactive-ok-block: CASE-tmpqnoj1 CLAIM-tmpxoxys CLAIM-tmp26exz CLAIM-tmpd6gon — new; filed by the lead run of 2026-11-23 -->
+
+In [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md), a run of [CASE-108](../cases.d/CASE-108.md), the arm that learned the shared task without
+suppressing the dissenting minority was audit by evaluators who hold
+evidence of their own and judge only the tasks they hold it for; the
+dissenters then carried their tasks at 4.4 times their head-count share
+([CLAIM-tmp26exz](../claims.d/CLAIM-tmp26exz.md)). Two conditions failed it: no evidence on the minority's tasks
+independent of the proposals, under which no architecture told dissent
+from an attack that mimics it ([CLAIM-tmpxoxys](../claims.d/CLAIM-tmpxoxys.md)); and compromise of the few
+evaluators holding that evidence ([CLAIM-tmpd6gon](../claims.d/CLAIM-tmpd6gon.md)). One model class, with the
+members' kinds and the evaluators' honesty stipulated. The question is
+unchanged.

@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmplh9fr
 title: 'When does a process that destabilizes a whole''s prevailing pattern improve the organization rather than only disrupt it, and does that depend on others able to build on what it opens and on authority that can move to them?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-23'
@@ -23,6 +23,11 @@ history:
   note: >-
     A dated note added: LEAD-077's run of CASE-158's design. The entry
     is otherwise unchanged.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    A dated note added: LEAD-180's run of CASE-108. The
+    question is unchanged.
 tags:
 - self-governance
 - social-ontology
@@ -118,3 +123,15 @@ the unheeded. The question is unchanged.
 ## Note of 2026-11-23: a population result
 
 [CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md) bears on this question. In a population model, dissent kept its place as evidence, with opponents read at chance and by their competence, only when the critic role had a score of its own that did not read agreement. Then no factions and no capture formed, and authority over the decision stayed with each side ([CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md)). The price was a shared meaning that follows where competence sits rather than the evidence alone ([CLAIM-tmppm30v](../claims.d/CLAIM-tmppm30v.md)).
+
+## Note of 2026-11-23: dissent that improved the learner where authority could move to it
+<!-- inactive-ok-block: CASE-tmpqnoj1 CLAIM-tmp26exz CLAIM-tmpd6gon — new; filed by the lead run of 2026-11-23 -->
+
+In [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md), honest dissenters who alone held data on a block of tasks raised
+its capability from 0.27 (unrestricted aggregation) to 0.92 where
+authority over that block could move to them, under role-limited audit
+by evaluators holding their own evidence on it ([CLAIM-tmp26exz](../claims.d/CLAIM-tmp26exz.md)), and not where it
+could not (reputation by agreement or by validation against the
+majority's prior). With the evaluators of that block compromised, the
+move failed and their influence fell from 4.2 to 0.9 times parity
+([CLAIM-tmpd6gon](../claims.d/CLAIM-tmpd6gon.md)). The question is unchanged.
