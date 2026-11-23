@@ -269,3 +269,12 @@ Extension. A48 §11 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR
 claim to industrial ecosystems and draws productive specialization against
 destructive lock-in ([TERM-tmpu5k0o](../terms.d/TERM-tmpu5k0o.md)), with the justification standard left
 open.
+
+## Note of 2026-11-23: Lippl and Lindsey, read
+<!-- inactive-ok-file: THEORY-tmpw69kb — Proposed or new; filed by the lead run of 2026-11-23 -->
+
+A parallel only (THEORY-tmpw69kb; NOTE-tmpw2i45): pretraining is
+always to convergence, so nothing on time course. But the scale of the
+weights after pretraining, which the pretraining objective does not see,
+decides whether fine-tuning can still pick out a sparse set of new or
+reused features. No status change.
