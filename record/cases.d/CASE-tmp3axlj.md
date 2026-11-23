@@ -39,7 +39,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpk8x2j CLAIM-tmpx0pvr CLAIM-tmpk8zw2 CLAIM-tmpj5z7a — filed by the lead run of 2026-11-23 -->
-<!-- inactive-ok-file: THEORY-817 CLAIM-tmpcbdgm — Proposed; cited for what the run bears on -->
+<!-- inactive-ok-file: CLAIM-tmpcbdgm — Proposed; cited for what the run bears on -->
 
 # CASE-tmp3axlj: Still, Sivak, Bell and Crooks's thermodynamics of prediction reproduced on small driven Markov systems, then with feedback from system to drive, and in a percept–action loop where the predictive and interventional partitions differ
 
