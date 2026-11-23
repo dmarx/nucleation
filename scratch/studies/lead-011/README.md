@@ -22,7 +22,7 @@ these files only guard the numbers.
      is beaten by n + 1 and never exploiting is worth 0. A bounded version,
      1 - 2^-n, has a finite supremum that no policy attains. A finite
      horizon restores an optimum.
-- `test_constructions.py`: 21 tests.
+- `test_constructions.py`: 22 tests.
 
 Rerun, from the repository root:
 

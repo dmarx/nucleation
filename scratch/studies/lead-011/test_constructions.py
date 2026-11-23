@@ -106,3 +106,13 @@ def test_finite_horizon_attains_an_optimum_even_with_fast_growth(horizon):
     assert 0 <= n < horizon
     assert v == max(c.invest_then_exploit_value(k, g, gamma, 1, horizon)
                     for k in range(horizon + 1))
+
+
+def test_without_commitment_alternating_policy_diverges_when_gamma_squared_g_at_least_one():
+    # Invest at even periods, exploit at odd ones: the exploit at period
+    # 2k + 1 follows k + 1 investments and earns gamma^(2k+1) g^(k+1).
+    g, gamma = Fraction(3, 2), Fraction(9, 10)
+    assert gamma ** 2 * g >= 1
+    terms = [gamma ** (2 * k + 1) * g ** (k + 1) for k in range(200)]
+    assert all(t >= terms[0] for t in terms)  # terms do not shrink
+    assert sum(terms) > 100
