@@ -146,7 +146,7 @@
   ]
  ],
  "reps": 2000,
- "episodes": 1500,
+ "episodes": 4000,
  "learners": 16,
  "results": {
   "S1 costly inquiry | pen": {
@@ -166,11 +166,11 @@
    "tied_a": [
     0
    ],
-   "learned_mean_a": 0.12119901636841568,
-   "learned_sd_a": 0.059100703555684066,
-   "learned_hidden_recognized": 0.040255385429120584,
-   "learned_true_viol": 5.850021202673749,
-   "learned_recog_viol": 0.012315578619591042
+   "learned_mean_a": 0.005360061542202684,
+   "learned_sd_a": 0.00264031053999296,
+   "learned_hidden_recognized": 0.0017400579526023214,
+   "learned_true_viol": 6.072589791924213,
+   "learned_recog_viol": 0.0006715511782054416
   },
   "S1 costly inquiry | amnesty": {
    "optimal": [
@@ -189,11 +189,11 @@
    "tied_a": [
     0
    ],
-   "learned_mean_a": 0.7761876887855176,
-   "learned_sd_a": 0.489238293977339,
-   "learned_hidden_recognized": 0.32921020935771333,
-   "learned_true_viol": 4.136448384479846,
-   "learned_recog_viol": 0.0550962579719048
+   "learned_mean_a": 0.3193890343302354,
+   "learned_sd_a": 0.46166855301379256,
+   "learned_hidden_recognized": 0.2770920158438493,
+   "learned_true_viol": 4.425141734936061,
+   "learned_recog_viol": 0.024906103173254514
   },
   "S1 costly inquiry | none": {
    "optimal": [
@@ -212,11 +212,11 @@
    "tied_a": [
     0
    ],
-   "learned_mean_a": 0.011262469575313867,
-   "learned_sd_a": 0.0035822450300705094,
-   "learned_hidden_recognized": 0.004168154234318569,
-   "learned_true_viol": 7.384965836236307,
-   "learned_recog_viol": 1.3278082363904893
+   "learned_mean_a": 0.0011372552598809948,
+   "learned_sd_a": 0.0007992678168177008,
+   "learned_hidden_recognized": 0.0004006071360587271,
+   "learned_true_viol": 6.83858146472006,
+   "learned_recog_viol": 0.7585174450110211
   },
   "S1 costly inquiry | disc": {
    "optimal": [
@@ -235,11 +235,11 @@
    "tied_a": [
     1
    ],
-   "learned_mean_a": 1.5578516395110846,
-   "learned_sd_a": 0.3164905262856142,
-   "learned_hidden_recognized": 0.7334213222685145,
-   "learned_true_viol": 1.715838354477324,
-   "learned_recog_viol": 0.09132203750100851
+   "learned_mean_a": 0.8805148164797008,
+   "learned_sd_a": 0.47797497626301594,
+   "learned_hidden_recognized": 0.7211894427052595,
+   "learned_true_viol": 1.7631156877774696,
+   "learned_recog_viol": 0.060157336608546455
   },
   "S1 costly inquiry | ext": {
    "optimal": [
@@ -259,11 +259,11 @@
     5,
     6
    ],
-   "learned_mean_a": 4.747829758978555,
-   "learned_sd_a": 0.6666419361802837,
-   "learned_hidden_recognized": 0.9965425024146595,
-   "learned_true_viol": 0.04650503469992466,
-   "learned_recog_viol": 0.02555947573845905
+   "learned_mean_a": 4.935502240769432,
+   "learned_sd_a": 0.8953039461052761,
+   "learned_hidden_recognized": 0.9997670988055622,
+   "learned_true_viol": 0.0024398586903826317,
+   "learned_recog_viol": 0.001079224932584798
   },
   "S2 costless inquiry and remediation | pen": {
    "optimal": [
@@ -282,11 +282,11 @@
    "tied_a": [
     0
    ],
-   "learned_mean_a": 0.9309405432461522,
-   "learned_sd_a": 0.6090449100991885,
-   "learned_hidden_recognized": 0.27530479902763105,
-   "learned_true_viol": 4.457298077094926,
-   "learned_recog_viol": 0.04917678780631823
+   "learned_mean_a": 0.011390303463894833,
+   "learned_sd_a": 0.004434874935886245,
+   "learned_hidden_recognized": 0.003451399627004528,
+   "learned_true_viol": 6.0621206489392945,
+   "learned_recog_viol": 0.0006091817285162643
   },
   "S2 costless inquiry and remediation | amnesty": {
    "optimal": [
@@ -309,11 +309,11 @@
     3,
     4
    ],
-   "learned_mean_a": 2.905556191715165,
-   "learned_sd_a": 0.4352265325624436,
-   "learned_hidden_recognized": 0.8448851411807023,
-   "learned_true_viol": 1.035722634657539,
-   "learned_recog_viol": 0.09222791324945114
+   "learned_mean_a": 3.1917587440987414,
+   "learned_sd_a": 1.596871389514994,
+   "learned_hidden_recognized": 0.89974996526649,
+   "learned_true_viol": 0.6221354049775081,
+   "learned_recog_viol": 0.013412776871589009
   },
   "S2 costless inquiry and remediation | none": {
    "optimal": [
@@ -383,11 +383,11 @@
     3,
     4
    ],
-   "learned_mean_a": 3.1181795656347178,
-   "learned_sd_a": 0.4362425146925695,
-   "learned_hidden_recognized": 0.908413365930357,
-   "learned_true_viol": 0.6578742729699851,
-   "learned_recog_viol": 0.10090961229708159
+   "learned_mean_a": 3.914049771796421,
+   "learned_sd_a": 1.5218509037267087,
+   "learned_hidden_recognized": 0.9878532150053139,
+   "learned_true_viol": 0.08400205663898583,
+   "learned_recog_viol": 0.010866787940842872
   },
   "S2 costless inquiry and remediation | ext": {
    "optimal": [
@@ -406,11 +406,11 @@
    "tied_a": [
     6
    ],
-   "learned_mean_a": 5.1283054517804905,
-   "learned_sd_a": 0.6743158027122373,
-   "learned_hidden_recognized": 0.997518790662941,
-   "learned_true_viol": 0.034206621031171676,
-   "learned_recog_viol": 0.01915232035228972
+   "learned_mean_a": 5.310510250648271,
+   "learned_sd_a": 0.7659962757764285,
+   "learned_hidden_recognized": 0.9998926436542299,
+   "learned_true_viol": 0.0012483447706047896,
+   "learned_recog_viol": 0.0006079051664242287
   },
   "S3 S1 + surfacing s=0.03 | pen": {
    "optimal": [
@@ -429,11 +429,11 @@
    "tied_a": [
     0
    ],
-   "learned_mean_a": 0.4613919384379975,
-   "learned_sd_a": 0.38154147255100673,
-   "learned_hidden_recognized": 0.591997949424188,
-   "learned_true_viol": 2.5732142619620104,
-   "learned_recog_viol": 0.10966238789314355
+   "learned_mean_a": 0.19281076612337483,
+   "learned_sd_a": 0.3895845716950557,
+   "learned_hidden_recognized": 0.5489829008184586,
+   "learned_true_viol": 2.8147433819670753,
+   "learned_recog_viol": 0.09187407589485742
   },
   "S3 S1 + surfacing s=0.03 | amnesty": {
    "optimal": [
@@ -452,11 +452,11 @@
    "tied_a": [
     0
    ],
-   "learned_mean_a": 0.6865456751504757,
-   "learned_sd_a": 0.43575037795974064,
-   "learned_hidden_recognized": 0.6514563346449732,
-   "learned_true_viol": 2.214398561369974,
-   "learned_recog_viol": 0.10847499043375695
+   "learned_mean_a": 0.32060836776492707,
+   "learned_sd_a": 0.4621454296589406,
+   "learned_hidden_recognized": 0.6088370988091102,
+   "learned_true_viol": 2.4501466671201912,
+   "learned_recog_viol": 0.08662338190873084
   },
   "S3 S1 + surfacing s=0.03 | none": {
    "optimal": [
@@ -475,11 +475,11 @@
    "tied_a": [
     0
    ],
-   "learned_mean_a": 0.07539736441644947,
-   "learned_sd_a": 0.23935909524457308,
-   "learned_hidden_recognized": 0.4910142986514043,
-   "learned_true_viol": 4.798037971930471,
-   "learned_recog_viol": 1.7271852550882698
+   "learned_mean_a": 0.12589072911295954,
+   "learned_sd_a": 0.330717187356807,
+   "learned_hidden_recognized": 0.5185052337388273,
+   "learned_true_viol": 4.260199840969117,
+   "learned_recog_viol": 1.3543419250091102
   },
   "S3 S1 + surfacing s=0.03 | disc": {
    "optimal": [
@@ -498,11 +498,11 @@
    "tied_a": [
     1
    ],
-   "learned_mean_a": 1.6073304770261756,
-   "learned_sd_a": 0.3804250100300044,
-   "learned_hidden_recognized": 0.9037450938391598,
-   "learned_true_viol": 0.685963579556043,
-   "learned_recog_viol": 0.09727037029257722
+   "learned_mean_a": 1.0116290013649631,
+   "learned_sd_a": 0.3500945707344619,
+   "learned_hidden_recognized": 0.9084968495602013,
+   "learned_true_viol": 0.6208694485519972,
+   "learned_recog_viol": 0.057316827126118776
   },
   "S3 S1 + surfacing s=0.03 | ext": {
    "optimal": [
@@ -521,11 +521,11 @@
    "tied_a": [
     5
    ],
-   "learned_mean_a": 4.572688333801629,
-   "learned_sd_a": 0.6886774462617906,
-   "learned_hidden_recognized": 0.9963176382006024,
-   "learned_true_viol": 0.059234213642019015,
-   "learned_recog_viol": 0.036907714569045486
+   "learned_mean_a": 4.515188448783414,
+   "learned_sd_a": 0.9301670189192179,
+   "learned_hidden_recognized": 0.999755584786056,
+   "learned_true_viol": 0.003083712182344791,
+   "learned_recog_viol": 0.0016485107091550955
   },
   "S4 S3 + cost of being found out sigma=3 | pen": {
    "optimal": [
@@ -544,20 +544,20 @@
    "tied_a": [
     0
    ],
-   "learned_mean_a": 1.4579015376380682,
-   "learned_sd_a": 0.30612965425743277,
-   "learned_hidden_recognized": 0.8287223123200261,
-   "learned_true_viol": 1.1509799511666883,
-   "learned_recog_viol": 0.11177589620237223
+   "learned_mean_a": 0.36383049066484496,
+   "learned_sd_a": 0.4583293118409662,
+   "learned_hidden_recognized": 0.6267456956464871,
+   "learned_true_viol": 2.3409418959507344,
+   "learned_recog_viol": 0.08497566313838296
   },
   "S4 S3 + cost of being found out sigma=3 | amnesty": {
    "optimal": [
     1,
     6
    ],
-   "optimal_value": 13.412450000000003,
+   "optimal_value": 12.582950000000002,
    "optimal_stats": {
-    "reward": 13.412450000000003,
+    "reward": 12.582950000000002,
     "inquiry": 1.0,
     "found_frac": 0.734825,
     "hidden_recognized": 0.9350749999999999,
@@ -567,43 +567,44 @@
    "tied_a": [
     1
    ],
-   "learned_mean_a": 1.8106976103286854,
-   "learned_sd_a": 0.4374264703960462,
-   "learned_hidden_recognized": 0.9069923452804546,
-   "learned_true_viol": 0.6731059380777988,
-   "learned_recog_viol": 0.10526194905679712
+   "learned_mean_a": 0.9475969970378966,
+   "learned_sd_a": 0.42883426199376107,
+   "learned_hidden_recognized": 0.8786617395916867,
+   "learned_true_viol": 0.8025125642436824,
+   "learned_recog_viol": 0.05983989051862532
   },
   "S4 S3 + cost of being found out sigma=3 | none": {
    "optimal": [
     1,
-    0
+    4
    ],
-   "optimal_value": 14.2875,
+   "optimal_value": 12.592950000000002,
    "optimal_stats": {
-    "reward": 14.2875,
+    "reward": 12.592950000000002,
     "inquiry": 1.0,
     "found_frac": 0.734825,
     "hidden_recognized": 0.9350749999999999,
-    "true_viol": 9.112,
-    "recog_viol": 8.707
+    "true_viol": 0.4615,
+    "recog_viol": 0.0565
    },
    "tied_a": [
+    1,
     1
    ],
-   "learned_mean_a": 1.184286522023245,
-   "learned_sd_a": 0.3393629166352053,
-   "learned_hidden_recognized": 0.9436254069160661,
-   "learned_true_viol": 5.320890123165969,
-   "learned_recog_viol": 4.969769127916139
+   "learned_mean_a": 1.1264542142055864,
+   "learned_sd_a": 0.32960525699787196,
+   "learned_hidden_recognized": 0.9421177807430589,
+   "learned_true_viol": 0.4145417144756697,
+   "learned_recog_viol": 0.05369622134507575
   },
   "S4 S3 + cost of being found out sigma=3 | disc": {
    "optimal": [
     2,
     6
    ],
-   "optimal_value": 15.691900000000006,
+   "optimal_value": 14.745400000000005,
    "optimal_stats": {
-    "reward": 15.691900000000006,
+    "reward": 14.745400000000005,
     "inquiry": 2.0,
     "found_frac": 0.8774249999999999,
     "hidden_recognized": 0.9927249999999999,
@@ -613,20 +614,20 @@
    "tied_a": [
     2
    ],
-   "learned_mean_a": 2.306057253207264,
-   "learned_sd_a": 0.5303742446852941,
-   "learned_hidden_recognized": 0.9488490313578264,
-   "learned_true_viol": 0.4036893125949362,
-   "learned_recog_viol": 0.09039826485891721
+   "learned_mean_a": 1.7393977863871952,
+   "learned_sd_a": 0.9537088062308077,
+   "learned_hidden_recognized": 0.9604359718246257,
+   "learned_true_viol": 0.2829236385151103,
+   "learned_recog_viol": 0.036700792878427126
   },
   "S4 S3 + cost of being found out sigma=3 | ext": {
    "optimal": [
     5,
     6
    ],
-   "optimal_value": -5.941200000000001,
+   "optimal_value": -7.058700000000001,
    "optimal_stats": {
-    "reward": -5.941200000000001,
+    "reward": -7.058700000000001,
     "inquiry": 5.0,
     "found_frac": 0.95895,
     "hidden_recognized": 1.0,
@@ -636,11 +637,11 @@
    "tied_a": [
     5
    ],
-   "learned_mean_a": 4.533797761324838,
-   "learned_sd_a": 0.6994292353041083,
-   "learned_hidden_recognized": 0.9969824995004877,
-   "learned_true_viol": 0.05149739604978627,
-   "learned_recog_viol": 0.03324192340021355
+   "learned_mean_a": 4.864272738293401,
+   "learned_sd_a": 0.9022725192325006,
+   "learned_hidden_recognized": 0.9998178536335718,
+   "learned_true_viol": 0.002559484309776238,
+   "learned_recog_viol": 0.0014564635676844663
   }
  }
 }

@@ -15,7 +15,26 @@
   scratch/studies/ directory or entry cites it as run; CASE-249 says "Not
   run"; CASE-290 says no such study is held.
 
+- Step 2: model.py, test_model.py (16 pass), study.py (results.json,
+  results.md), sweep.py (sweep.md), README.md. Finding: under the penalty
+  the optimal inquiry is 0 in every setting and learners converge near 0;
+  scored by the independent evaluator, 5-6 of 10 units. Against an
+  internal regime without the penalty (amnesty, none), inquiry is also 0
+  when it is costly and has no other value (S1, S3); it is higher than
+  under the penalty only when inquiry is costless (S2: tied 0-4 / 0-6,
+  learned about 3) or being found out from outside costs (S4, sigma = 3:
+  1 against 0). Sweep: at large sigma pen and amnesty agree.
+
+## Choices made
+
+- "Without penalties" has several readings; five regimes run (amnesty,
+  none, disc, ext beside pen). The comparison the lead's test depends on
+  is filed as alternatives.
+- Surfacing reaches requirements whether or not the institution found them
+  (internal knowledge does not shield from sigma); an earlier draft let it
+  shield, which made 'none' inquire without fixing. Corrected before the
+  reported run.
+
 ## Next
 
-- Model, tests, study runs.
 - Filing.
