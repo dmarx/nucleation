@@ -1,0 +1,476 @@
+{
+ "runs": 300,
+ "per_arch": {
+  "0@0.5": {
+   "m1": {
+    "vic": 0.5087436092040847,
+    "icn": 0.4468487806810987,
+    "count": 0.2647560854539423,
+    "ufi": 0.5535705245375244,
+    "joint": 0.5234178435802807
+   },
+   "V_empty": 0.006666666666666667,
+   "V_max": 0.03333333333333333,
+   "m2": {
+    "vic": {
+     "auc": NaN,
+     "recall": NaN,
+     "precision": 0.0,
+     "n_dec": 0,
+     "n_inc": 0,
+     "n_flagged": 30
+    },
+    "icn": {
+     "auc": NaN,
+     "recall": NaN,
+     "precision": 0.0,
+     "n_dec": 0,
+     "n_inc": 0,
+     "n_flagged": 17
+    },
+    "count": {
+     "auc": NaN,
+     "recall": NaN,
+     "precision": NaN,
+     "n_dec": 0,
+     "n_inc": 0,
+     "n_flagged": 0
+    },
+    "ufi": {
+     "auc": NaN,
+     "recall": NaN,
+     "precision": NaN,
+     "n_dec": 0,
+     "n_inc": 0,
+     "n_flagged": 0
+    },
+    "joint": {
+     "auc": NaN,
+     "recall": NaN,
+     "precision": NaN,
+     "n_dec": 0,
+     "n_inc": 0,
+     "n_flagged": 0
+    }
+   }
+  },
+  "1@0.5": {
+   "m1": {
+    "vic": -0.5484204668754562,
+    "icn": 0.5583628671261036,
+    "count": 0.11992495199504372,
+    "ufi": 0.5583628671261036,
+    "joint": 0.5583628671261036
+   },
+   "V_empty": 0.006666666666666667,
+   "V_max": 0.13,
+   "m2": {
+    "vic": {
+     "auc": 0.40625,
+     "recall": 0.0,
+     "precision": 0.0,
+     "n_dec": 1,
+     "n_inc": 16,
+     "n_flagged": 18
+    },
+    "icn": {
+     "auc": 0.875,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 1,
+     "n_inc": 16,
+     "n_flagged": 0
+    },
+    "count": {
+     "auc": 0.5,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 1,
+     "n_inc": 16,
+     "n_flagged": 0
+    },
+    "ufi": {
+     "auc": 0.875,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 1,
+     "n_inc": 16,
+     "n_flagged": 0
+    },
+    "joint": {
+     "auc": 0.875,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 1,
+     "n_inc": 16,
+     "n_flagged": 0
+    }
+   }
+  },
+  "2@0.5": {
+   "m1": {
+    "vic": -0.09738650490003399,
+    "icn": 0.4878061409246413,
+    "count": -0.028277762719778086,
+    "ufi": 0.4880793069352149,
+    "joint": 0.4880793069352149
+   },
+   "V_empty": 0.01,
+   "V_max": 0.10666666666666667,
+   "m2": {
+    "vic": {
+     "auc": 0.5,
+     "recall": 0.0,
+     "precision": 0.0,
+     "n_dec": 1,
+     "n_inc": 8,
+     "n_flagged": 32
+    },
+    "icn": {
+     "auc": 1.0,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 1,
+     "n_inc": 8,
+     "n_flagged": 0
+    },
+    "count": {
+     "auc": 0.5,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 1,
+     "n_inc": 8,
+     "n_flagged": 0
+    },
+    "ufi": {
+     "auc": 1.0,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 1,
+     "n_inc": 8,
+     "n_flagged": 0
+    },
+    "joint": {
+     "auc": 1.0,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 1,
+     "n_inc": 8,
+     "n_flagged": 0
+    }
+   }
+  },
+  "3@0.5": {
+   "m1": {
+    "vic": 0.5582637272892632,
+    "icn": 0.5182117576603972,
+    "count": 0.2347017640006443,
+    "ufi": 0.5073093520910624,
+    "joint": 0.5181520545553289
+   },
+   "V_empty": 0.02,
+   "V_max": 0.09,
+   "m2": {
+    "vic": {
+     "auc": NaN,
+     "recall": NaN,
+     "precision": 0.0,
+     "n_dec": 0,
+     "n_inc": 4,
+     "n_flagged": 48
+    },
+    "icn": {
+     "auc": NaN,
+     "recall": NaN,
+     "precision": 0.0,
+     "n_dec": 0,
+     "n_inc": 4,
+     "n_flagged": 1
+    },
+    "count": {
+     "auc": NaN,
+     "recall": NaN,
+     "precision": NaN,
+     "n_dec": 0,
+     "n_inc": 4,
+     "n_flagged": 0
+    },
+    "ufi": {
+     "auc": NaN,
+     "recall": NaN,
+     "precision": NaN,
+     "n_dec": 0,
+     "n_inc": 4,
+     "n_flagged": 0
+    },
+    "joint": {
+     "auc": NaN,
+     "recall": NaN,
+     "precision": NaN,
+     "n_dec": 0,
+     "n_inc": 4,
+     "n_flagged": 0
+    }
+   }
+  },
+  "4@0.5": {
+   "m1": {
+    "vic": 0.6598697907375409,
+    "icn": 0.5767132036901673,
+    "count": 0.11038452695140016,
+    "ufi": 0.581716394677515,
+    "joint": 0.581716394677515
+   },
+   "V_empty": 0.02666666666666667,
+   "V_max": 0.2733333333333333,
+   "m2": {
+    "vic": {
+     "auc": 0.8295454545454546,
+     "recall": 0.3333333333333333,
+     "precision": 0.03076923076923077,
+     "n_dec": 6,
+     "n_inc": 44,
+     "n_flagged": 65
+    },
+    "icn": {
+     "auc": 0.8409090909090909,
+     "recall": 0.0,
+     "precision": 0.0,
+     "n_dec": 6,
+     "n_inc": 44,
+     "n_flagged": 6
+    },
+    "count": {
+     "auc": 0.5,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 6,
+     "n_inc": 44,
+     "n_flagged": 0
+    },
+    "ufi": {
+     "auc": 0.8409090909090909,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 6,
+     "n_inc": 44,
+     "n_flagged": 0
+    },
+    "joint": {
+     "auc": 0.8409090909090909,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 6,
+     "n_inc": 44,
+     "n_flagged": 0
+    }
+   }
+  },
+  "100@0.4": {
+   "m1": {
+    "vic": 0.4096366984515332,
+    "icn": 0.20740486077455986,
+    "count": 0.08060796013072831,
+    "ufi": 0.538232371585048,
+    "joint": 0.17720853634797715
+   },
+   "V_empty": 0.013333333333333334,
+   "V_max": 0.17333333333333334,
+   "m2": {
+    "vic": {
+     "auc": 0.8668831168831169,
+     "recall": 0.7272727272727273,
+     "precision": 0.14545454545454545,
+     "n_dec": 11,
+     "n_inc": 28,
+     "n_flagged": 55
+    },
+    "icn": {
+     "auc": 0.7207792207792207,
+     "recall": 0.0,
+     "precision": 0.0,
+     "n_dec": 11,
+     "n_inc": 28,
+     "n_flagged": 6
+    },
+    "count": {
+     "auc": 0.5,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 11,
+     "n_inc": 28,
+     "n_flagged": 0
+    },
+    "ufi": {
+     "auc": 0.9318181818181818,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 11,
+     "n_inc": 28,
+     "n_flagged": 0
+    },
+    "joint": {
+     "auc": 0.7142857142857143,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 11,
+     "n_inc": 28,
+     "n_flagged": 0
+    }
+   }
+  },
+  "101@0.6": {
+   "m1": {
+    "vic": 0.014454986540750683,
+    "icn": 0.2220011383494931,
+    "count": 0.142991064143529,
+    "ufi": 0.22234781651046776,
+    "joint": 0.22234781651046776
+   },
+   "V_empty": 0.0033333333333333335,
+   "V_max": 0.20333333333333334,
+   "m2": {
+    "vic": {
+     "auc": 0.6118493909191584,
+     "recall": 0.0,
+     "precision": 0.0,
+     "n_dec": 21,
+     "n_inc": 43,
+     "n_flagged": 45
+    },
+    "icn": {
+     "auc": 0.7325581395348837,
+     "recall": 0.0,
+     "precision": 0.0,
+     "n_dec": 21,
+     "n_inc": 43,
+     "n_flagged": 1
+    },
+    "count": {
+     "auc": 0.5,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 21,
+     "n_inc": 43,
+     "n_flagged": 0
+    },
+    "ufi": {
+     "auc": 0.7325581395348837,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 21,
+     "n_inc": 43,
+     "n_flagged": 0
+    },
+    "joint": {
+     "auc": 0.7325581395348837,
+     "recall": 0.0,
+     "precision": NaN,
+     "n_dec": 21,
+     "n_inc": 43,
+     "n_flagged": 0
+    }
+   }
+  }
+ },
+ "primary": {
+  "m1_mean": {
+   "vic": 0.21621403109107976,
+   "icn": 0.5175885500164815,
+   "count": 0.14029791313625045,
+   "ufi": 0.5378076890734841,
+   "joint": 0.5339456933748886
+  },
+  "m2": {
+   "vic": {
+    "auc": 0.6953125,
+    "recall": 0.25,
+    "precision": 0.010362694300518135,
+    "n_dec": 8,
+    "n_inc": 72,
+    "n_flagged": 193
+   },
+   "icn": {
+    "auc": 0.875,
+    "recall": 0.0,
+    "precision": 0.0,
+    "n_dec": 8,
+    "n_inc": 72,
+    "n_flagged": 24
+   },
+   "count": {
+    "auc": 0.5,
+    "recall": 0.0,
+    "precision": NaN,
+    "n_dec": 8,
+    "n_inc": 72,
+    "n_flagged": 0
+   },
+   "ufi": {
+    "auc": 0.875,
+    "recall": 0.0,
+    "precision": NaN,
+    "n_dec": 8,
+    "n_inc": 72,
+    "n_flagged": 0
+   },
+   "joint": {
+    "auc": 0.875,
+    "recall": 0.0,
+    "precision": NaN,
+    "n_dec": 8,
+    "n_inc": 72,
+    "n_flagged": 0
+   }
+  },
+  "transfer": {
+   "vic": false,
+   "icn": false
+  },
+  "best_monotone_m1": 0.5378076890734841
+ },
+ "sensitivity": {
+  "m2": {
+   "vic": {
+    "auc": 0.7308538732394366,
+    "recall": 0.25,
+    "precision": 0.08,
+    "n_dec": 32,
+    "n_inc": 71,
+    "n_flagged": 100
+   },
+   "icn": {
+    "auc": 0.7429577464788732,
+    "recall": 0.0,
+    "precision": 0.0,
+    "n_dec": 32,
+    "n_inc": 71,
+    "n_flagged": 7
+   },
+   "count": {
+    "auc": 0.5,
+    "recall": 0.0,
+    "precision": NaN,
+    "n_dec": 32,
+    "n_inc": 71,
+    "n_flagged": 0
+   },
+   "ufi": {
+    "auc": 0.8085387323943662,
+    "recall": 0.0,
+    "precision": NaN,
+    "n_dec": 32,
+    "n_inc": 71,
+    "n_flagged": 0
+   },
+   "joint": {
+    "auc": 0.7420774647887324,
+    "recall": 0.0,
+    "precision": NaN,
+    "n_dec": 32,
+    "n_inc": 71,
+    "n_flagged": 0
+   }
+  }
+ }
+}

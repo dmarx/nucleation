@@ -30,6 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-220 — Proposed; A's committor study, cited from the note on A's second synthesis -->
 <!-- inactive-ok-file: CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-tmp2a9lm CLAIM-tmpeno57 CLAIM-tmpzo914 CLAIM-tmpzi0ri CLAIM-tmpf0417 CLAIM-tmpddl2d THEORY-tmp1pfm4 — new; filed by the lead run of 2026-11-23 -->
 
 # QUESTION-380: When does establishing a small, internally compatible subsystem make global organization more likely, and how can its effectiveness be predicted from the constraint architecture?
 
@@ -165,3 +166,35 @@ A in the continuation of the exchange "Explain String Theory" (A7) sets two loca
 - **The topologically protected defect.** It may persist without catalyzing the target, or may pin an interface and block it, the field-theory form of the origami topological traps this question already holds.
 
 Persistence and nucleating productivity come apart ([CLAIM-595](../claims.d/CLAIM-595.md)), and a protected seed can be the lock-in this question warns of. A's proposed test is a field with a controllable bias, asking whether a parameter schedule escapes a trap no constant parameter escapes within the horizon ([CLAIM-594](../claims.d/CLAIM-594.md)). Not run. No status change.
+
+## Note of 2026-11-23: a non-monotone predictor tested out of sample, and two-staple origami data
+
+The lead run of 2026-11-23 pre-registered and tested a race reading of folding
+islands (VIC) in a kinetic constraint-growth model, [CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md).
+
+- **Seeds can hurt there too.** Adding a seed already in its target state,
+  with every set still compatible with the target, can halve the chance of
+  exact assembly; island coverage predicts the chance better than the
+  number of seeds ([CLAIM-tmpeno57](../claims.d/CLAIM-tmpeno57.md)).
+- **The race reading does not transfer** ([CLAIM-tmpzo914](../claims.d/CLAIM-tmpzo914.md)). The seeds that
+  hurt have large islands; the errors come from the order in which
+  components reach the binding threshold.
+- **A post hoc predictor does, within one system** ([CLAIM-tmpzi0ri](../claims.d/CLAIM-tmpzi0ri.md)):
+  counting the states each component could take at first threshold.
+  It uses the growth rule's threshold, a condition of the kind this
+  question asks an answer to state, and was built on the system it was
+  tested in, on fresh architectures.
+- **Two readings, filed as alternatives.** [CLAIM-tmpf0417](../claims.d/CLAIM-tmpf0417.md) (the filer's
+  lean): a predictor computed from the constraint architecture alone
+  cannot do the job; the order and threshold of growth belong in it.
+  [CLAIM-tmpddl2d](../claims.d/CLAIM-tmpddl2d.md) objects that the test system has no coherent alternative
+  branch, so the race reading's home case stays open.
+- **Origami.** Arbona, Aimé and Elezgaray ([THEORY-tmp1pfm4](../theory.d/THEORY-tmp1pfm4.md), from
+  [LIT-tmp581o9](../literature.d/LIT-tmp581o9.md)) supply the observable this question's note on Majikes et
+  al. asked for, on a two-staple scaffold: a staple's melting peak rises by
+  1.5 to 8.5 °C once its neighbour has folded. Their model excludes
+  misfolds, so its nuclei can only help, and it cannot tell a productive
+  nucleus from a trap.
+
+The question stays open: no predictor has yet been tested across systems
+and passed. No status change.
