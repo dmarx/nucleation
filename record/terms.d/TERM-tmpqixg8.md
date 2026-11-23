@@ -21,9 +21,9 @@ summary: >-
   sufficiently reliable pathways to investigate relevant members of 𝓓
   within their applicable horizons", and "The stronger condition is
   maintaining this readiness through continued institutional activity."
-  It is TERM-115's readiness with epistemic demands as the contingencies,
-  kept up as in TERM-tmpz28l1's viability kernel. It supplies what
-  CLAIM-tmp4u0mj left undefined, the "sufficiently rich joint
+  It is [TERM-115](TERM-115.md)'s readiness with epistemic demands as the contingencies,
+  kept up as in [TERM-tmpz28l1](TERM-tmpz28l1.md)'s viability kernel. It supplies what
+  [CLAIM-tmp4u0mj](../claims.d/CLAIM-tmp4u0mj.md) left undefined, the "sufficiently rich joint
   inquiry–response frontier" of A52 §7, by a declared family of demands in
   place of richness. The wording is A's (ChatGPT's, at A63 of the exchange
   "Explain First Contact RL"); adopting it is the owner's call.
@@ -48,10 +48,10 @@ through which present inquiry and future reconfiguration remain possible."
 
 In the record's terms, an epistemic demand d ∈ 𝓓 with horizon H_d is met
 when some pair (q_d, a) is brought into the joint inquiry relation of
-CLAIM-tmpx0wv9 (TERM-tmpdk711's joint frontier, or TERM-tmpace0k's inquiry
-frontier) by H_d. "Sufficiently reliable" is TERM-115's readiness for that
+[CLAIM-tmpx0wv9](../claims.d/CLAIM-tmpx0wv9.md) ([TERM-tmpdk711](TERM-tmpdk711.md)'s joint frontier, or [TERM-tmpace0k](TERM-tmpace0k.md)'s inquiry
+frontier) by H_d. "Sufficiently reliable" is [TERM-115](TERM-115.md)'s readiness for that
 contingency held above a declared level. The stronger condition is
-TERM-tmpz28l1's viability kernel, with the pathways to investigate the
+[TERM-tmpz28l1](TERM-tmpz28l1.md)'s viability kernel, with the pathways to investigate the
 members of 𝓓 in place of the routes to a viable alternative organization.
 
 A63's limits: "Such a criterion would be conditional on the family of
@@ -65,31 +65,31 @@ alternative perspective is valuable."
   apart: "the institution may retain impressive present research
   performance while possessing diminished ability to respond to novel
   questions". It calls that "epistemic overconsolidation", which is the
-  owner's overconsolidation (CLAIM-758, from another exchange) carried from
+  owner's overconsolidation ([CLAIM-758](../claims.d/CLAIM-758.md), from another exchange) carried from
   a learner to an institution, and the query-induced capability trap of
-  CLAIM-tmp9o6yv and CLAIM-tmp11j0f reached by funding. A63 also separates
-  the two achievements by CLAIM-099, which it cites correctly: maintaining a
+  [CLAIM-tmp9o6yv](../claims.d/CLAIM-tmp9o6yv.md) and [CLAIM-tmp11j0f](../claims.d/CLAIM-tmp11j0f.md) reached by funding. A63 also separates
+  the two achievements by [CLAIM-099](../claims.d/CLAIM-099.md), which it cites correctly: maintaining a
   regime of effective action is not maintaining the capacity to govern among
   regimes.
-- **Not richness.** TERM-tmp9lu6c's richness is a maintained plurality with
+- **Not richness.** [TERM-tmp9lu6c](TERM-tmp9lu6c.md)'s richness is a maintained plurality with
   no declared demands. This term is relative to 𝓓, so it does not say an
   institution is rich, only ready for the demands declared.
-- **Not reorganization readiness.** TERM-tmpz28l1's routes end in a viable
+- **Not reorganization readiness.** [TERM-tmpz28l1](TERM-tmpz28l1.md)'s routes end in a viable
   alternative organization; these end in an answer to a declared demand.
 
 ## What it leaves open
 
 "Relevant members of 𝓓" is not defined: whether readiness is required for
 every declared demand, for a weighted share, or for those an evaluator marks
-as relevant. With every member, the term is TERM-tmpz28l1's kind of
-worst-case condition; with a weighting, it is coverage in CLAIM-tmp7iie0's
+as relevant. With every member, the term is [TERM-tmpz28l1](TERM-tmpz28l1.md)'s kind of
+worst-case condition; with a weighting, it is coverage in [CLAIM-tmp7iie0](../claims.d/CLAIM-tmp7iie0.md)'s
 sense, linear in the weights. The two are different conditions, and A63
-does not choose. Nor does it say who declares 𝓓, which CLAIM-tmp76xaw's
+does not choose. Nor does it say who declares 𝓓, which [CLAIM-tmp76xaw](../claims.d/CLAIM-tmp76xaw.md)'s
 question of who classes noise would ask of it. These points are the
 assistant's (Claude, in this session).
 
 ## Standing
 
 Proposed, A's. It has content of its own only as an instantiation: the
-condition is TERM-115's and TERM-tmpz28l1's; what is new is the object, the
+condition is [TERM-115](TERM-115.md)'s and [TERM-tmpz28l1](TERM-tmpz28l1.md)'s; what is new is the object, the
 joint inquiry relation, and the declared family in place of A52's "rich".

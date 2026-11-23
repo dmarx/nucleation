@@ -77,7 +77,7 @@ monotone in what it schedules.
   may belong to different ways of posing. Then the bound holds only when
   the cost of answering does not depend on how the question was posed.
   Where it does, a question inside the bound computed from the frontiers
-  can be jointly out of reach: in CLAIM-tmpj15c6's construction 4 the least
+  can be jointly out of reach: in [CLAIM-tmpj15c6](CLAIM-tmpj15c6.md)'s construction 4 the least
   costs sum to 5 and the true joint cost is 9. The outer bound needs no such
   condition, since a joint schedule's parts cost at least the least costs.
 - **Between them,** membership depends on what neither frontier records:
@@ -115,7 +115,7 @@ complex as in [CLAIM-tmpdvgrf](CLAIM-tmpdvgrf.md).
   same frontiers at every horizon and differ only in that rule. This claim
   adds the bounds that hold whatever the rule is, the inner one only where
   posing a question does not change what answering it costs (the
-  qualification above, from CLAIM-tmpj15c6's construction 4).
+  qualification above, from [CLAIM-tmpj15c6](CLAIM-tmpj15c6.md)'s construction 4).
 - Not which object the record should call the inquiry frontier. Whether
   [TERM-092](../terms.d/TERM-092.md) should become the joint object or stay the query frontier beside
   a new term is the owner's choice, filed from U30 and A58.
@@ -129,16 +129,16 @@ complex as in [CLAIM-tmpdvgrf](CLAIM-tmpdvgrf.md).
 
 ## Note of 2026-11-23: against A58's joint relation and the two terms
 
-Filed in the same batch from A58 (U30): CLAIM-tmpx0wv9 and the two
-alternatives for TERM-092, TERM-tmpace0k and TERM-tmpdk711. This claim's
-𝒥(H, B) is the question projection of CLAIM-tmpx0wv9's relation 𝓕_S(H, B),
-its "resolved questions", which is TERM-tmpdk711's question side. Its F_A is
+Filed in the same batch from A58 (U30): [CLAIM-tmpx0wv9](CLAIM-tmpx0wv9.md) and the two
+alternatives for [TERM-092](../terms.d/TERM-092.md), [TERM-tmpace0k](../terms.d/TERM-tmpace0k.md) and [TERM-tmpdk711](../terms.d/TERM-tmpdk711.md). This claim's
+𝒥(H, B) is the question projection of [CLAIM-tmpx0wv9](CLAIM-tmpx0wv9.md)'s relation 𝓕_S(H, B),
+its "resolved questions", which is [TERM-tmpdk711](../terms.d/TERM-tmpdk711.md)'s question side. Its F_A is
 the conditional answer frontier (the question supplied, the answer charged),
 not the joint answer frontier that both terms derive from 𝓕. Its F_Q is
-TERM-092's askable set as the term now stands; under alternative (a),
-TERM-tmpace0k, that set would be named the query frontier and "inquiry
+[TERM-092](../terms.d/TERM-092.md)'s askable set as the term now stands; under alternative (a),
+[TERM-tmpace0k](../terms.d/TERM-tmpace0k.md), that set would be named the query frontier and "inquiry
 frontier" would name 𝓕. The bounds hold under either name. They give what
-CLAIM-tmpx0wv9's third site of failure, joint realizability, can and cannot
+[CLAIM-tmpx0wv9](CLAIM-tmpx0wv9.md)'s third site of failure, joint realizability, can and cannot
 be read from: a question outside the outer bound fails at the first or
 second site, and one between the bounds fails, if at all, at the third. The
 note is the assistant's (Claude, in this session); adopting it is the
