@@ -260,44 +260,44 @@ assistant's gap fills are its own, and each says so.
 **Possibility, reorganization and timescales (U18 to U21, second
 share).**
 - **Governance of possibility.** U18 named A33's phrase. A34's account of
-  it is CLAIM-tmptfpf7: generative, stabilizing and reflexive regulation,
-  resting on CLAIM-tmpk4bou, CLAIM-tmpx9nrj and CLAIM-410.
+  it is [CLAIM-tmptfpf7](../claims.d/CLAIM-tmptfpf7.md): generative, stabilizing and reflexive regulation,
+  resting on [CLAIM-tmpk4bou](../claims.d/CLAIM-tmpk4bou.md), [CLAIM-tmpx9nrj](../claims.d/CLAIM-tmpx9nrj.md) and [CLAIM-410](../claims.d/CLAIM-410.md).
 - **Reorganization readiness.** U19 quoted A34's "the capacity for viable
   reorganization when the equilibrium becomes inadequate" and asked for a
-  formal version. A36's is TERM-tmpz28l1, the viability kernel of
-  reorganization readiness. It is built from THEORY-134, CLAIM-079,
-  CLAIM-099, CLAIM-571 and CLAIM-577, whose budget rule is A36's example.
-- **The owner's thesis**, at U20, is CLAIM-tmpntzjo: an inherent tension
+  formal version. A36's is [TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md), the viability kernel of
+  reorganization readiness. It is built from [THEORY-134](../theory.d/THEORY-134.md), [CLAIM-079](../claims.d/CLAIM-079.md),
+  [CLAIM-099](../claims.d/CLAIM-099.md), [CLAIM-571](../claims.d/CLAIM-571.md) and [CLAIM-577](../claims.d/CLAIM-577.md), whose budget rule is A36's example.
+- **The owner's thesis**, at U20, is [CLAIM-tmpntzjo](../claims.d/CLAIM-tmpntzjo.md): an inherent tension
   between identity stabilization and adaptability, with appropriate
   response depending on the timescale of the demand. It is filed with two
   readings of "inherent".
-- **A38's answer**, CLAIM-tmph25dl, keeps the tension and denies it is a
-  trade-off on one scale. Its toy bound, vH ≥ 1 − δ − ε, is CLAIM-tmp2k3c5.
+- **A38's answer**, [CLAIM-tmph25dl](../claims.d/CLAIM-tmph25dl.md), keeps the tension and denies it is a
+  trade-off on one scale. Its toy bound, vH ≥ 1 − δ − ε, is [CLAIM-tmp2k3c5](../claims.d/CLAIM-tmp2k3c5.md).
 - **Slow modes.** U21 asked how slow modes bear on it. A40 separates a
-  mode's persistence from how hard it is to redirect (CLAIM-tmpx8csq,
-  resting on CLAIM-345, checked). It revises A38's thesis as
-  CLAIM-tmpbzwmr: identity in slow collective modes, adaptability in their
-  selective controllability (with CLAIM-331 and CLAIM-626).
+  mode's persistence from how hard it is to redirect ([CLAIM-tmpx8csq](../claims.d/CLAIM-tmpx8csq.md),
+  resting on [CLAIM-345](../claims.d/CLAIM-345.md), checked). It revises A38's thesis as
+  [CLAIM-tmpbzwmr](../claims.d/CLAIM-tmpbzwmr.md): identity in slow collective modes, adaptability in their
+  selective controllability (with [CLAIM-331](../claims.d/CLAIM-331.md) and [CLAIM-626](../claims.d/CLAIM-626.md)).
 
 **The spectrum of response times (U22, U23, third share).**
 - **The owner's prompts.** U22 and U23 quote A's own sentences, A40's
   "designing and maintaining the spectrum of organizational response
   times" and A42's thesis, and ask A to "double-click". They carry no
   claim of the owner's.
-- **A42's thesis** is CLAIM-tmpcag0t: governance of the temporal response
+- **A42's thesis** is [CLAIM-tmpcag0t](../claims.d/CLAIM-tmpcag0t.md): governance of the temporal response
   structure, including the capacity to retune it.
-- **Its filter** is CLAIM-tmppqdnv: identity stabilization as temporal
+- **Its filter** is [CLAIM-tmppqdnv](../claims.d/CLAIM-tmppqdnv.md): identity stabilization as temporal
   filtering, with the Wiener optimum. Checked.
-- **A44's question of who classes noise** is CLAIM-tmp76xaw.
-- **The retuning bound** is CLAIM-tmp947v0, the sufficient half beside
-  CLAIM-tmp2k3c5's necessary half. Checked.
-- **Temporal compatibility** is CLAIM-tmpdvgrf: the deadline-indexed
+- **A44's question of who classes noise** is [CLAIM-tmp76xaw](../claims.d/CLAIM-tmp76xaw.md).
+- **The retuning bound** is [CLAIM-tmp947v0](../claims.d/CLAIM-tmp947v0.md), the sufficient half beside
+  [CLAIM-tmp2k3c5](../claims.d/CLAIM-tmp2k3c5.md)'s necessary half. Checked.
+- **Temporal compatibility** is [CLAIM-tmpdvgrf](../claims.d/CLAIM-tmpdvgrf.md): the deadline-indexed
   complex sits inside the static one.
-- **A44's carried formulation** is CLAIM-tmpm985y: identity and
+- **A44's carried formulation** is [CLAIM-tmpm985y](../claims.d/CLAIM-tmpm985y.md): identity and
   adaptability as two achievements of one temporally organized system,
   with generative continuity among the identity-bearing structures. It is
-  the last version of the thesis begun at CLAIM-tmph25dl and revised at
-  CLAIM-tmpbzwmr.
+  the last version of the thesis begun at [CLAIM-tmph25dl](../claims.d/CLAIM-tmph25dl.md) and revised at
+  [CLAIM-tmpbzwmr](../claims.d/CLAIM-tmpbzwmr.md).
 
 ## The account
 
@@ -344,22 +344,22 @@ link is attributed to the entry that states it.
    before the commitments are declared ([CLAIM-tmphjm0q](../claims.d/CLAIM-tmphjm0q.md)).
 9. **Regulation as governance of possibility.** It governs which
    possibilities are attainable, sustainable and revisable
-   (CLAIM-tmptfpf7). What it should maintain is reorganization readiness
-   (TERM-tmpz28l1), whose loss can come from ordinary efficient operation
-   (CLAIM-577). The owner's tension between stabilizing identity and
-   adapting (CLAIM-tmpntzjo) is, on A's account, not one scale: a
+   ([CLAIM-tmptfpf7](../claims.d/CLAIM-tmptfpf7.md)). What it should maintain is reorganization readiness
+   ([TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md)), whose loss can come from ordinary efficient operation
+   ([CLAIM-577](../claims.d/CLAIM-577.md)). The owner's tension between stabilizing identity and
+   adapting ([CLAIM-tmpntzjo](../claims.d/CLAIM-tmpntzjo.md)) is, on A's account, not one scale: a
    constraint's adequacy is indexed to the demands' timescales
-   (CLAIM-tmph25dl, CLAIM-tmp2k3c5). Slowness fixes persistence, not
-   redirectability (CLAIM-tmpx8csq), so identity in slow modes needs those
-   modes kept controllable (CLAIM-tmpbzwmr).
+   ([CLAIM-tmph25dl](../claims.d/CLAIM-tmph25dl.md), [CLAIM-tmp2k3c5](../claims.d/CLAIM-tmp2k3c5.md)). Slowness fixes persistence, not
+   redirectability ([CLAIM-tmpx8csq](../claims.d/CLAIM-tmpx8csq.md)), so identity in slow modes needs those
+   modes kept controllable ([CLAIM-tmpbzwmr](../claims.d/CLAIM-tmpbzwmr.md)).
 10. **The response spectrum.** Identity stabilization filters: it
-   passes slow variation and absorbs fast (CLAIM-tmppqdnv). What counts as
-   noise is itself governed (CLAIM-tmp76xaw). Governance can retune
-   within bounds (CLAIM-tmp947v0, CLAIM-tmp2k3c5), and deadlines shrink
-   what is jointly attainable (CLAIM-tmpdvgrf). On A's last version,
+   passes slow variation and absorbs fast ([CLAIM-tmppqdnv](../claims.d/CLAIM-tmppqdnv.md)). What counts as
+   noise is itself governed ([CLAIM-tmp76xaw](../claims.d/CLAIM-tmp76xaw.md)). Governance can retune
+   within bounds ([CLAIM-tmp947v0](../claims.d/CLAIM-tmp947v0.md), [CLAIM-tmp2k3c5](../claims.d/CLAIM-tmp2k3c5.md)), and deadlines shrink
+   what is jointly attainable ([CLAIM-tmpdvgrf](../claims.d/CLAIM-tmpdvgrf.md)). On A's last version,
    stabilization and adaptability are two achievements of one organization
-   (CLAIM-tmpm985y), whose response spectrum, and the capacity to retune
-   it, are objects of governance (CLAIM-tmpcag0t).
+   ([CLAIM-tmpm985y](../claims.d/CLAIM-tmpm985y.md)), whose response spectrum, and the capacity to retune
+   it, are objects of governance ([CLAIM-tmpcag0t](../claims.d/CLAIM-tmpcag0t.md)).
 
 ## How the account developed
 

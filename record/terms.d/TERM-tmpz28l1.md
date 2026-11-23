@@ -92,5 +92,5 @@ V_adaptive = Viab_{F_aug}(M_adaptive): "the viability kernel of the
 capacity to remain ready for current demands while retaining affordable
 routes to readiness under alternative demands." A42 §6 states the design
 problem that uses it: minimize operating, maintenance and
-reconfiguration costs subject to TERM-115 readiness and this kernel.
-CLAIM-tmpm985y and CLAIM-tmpcag0t cite both.
+reconfiguration costs subject to [TERM-115](TERM-115.md) readiness and this kernel.
+[CLAIM-tmpm985y](../claims.d/CLAIM-tmpm985y.md) and [CLAIM-tmpcag0t](../claims.d/CLAIM-tmpcag0t.md) cite both.

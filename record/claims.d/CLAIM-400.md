@@ -196,4 +196,4 @@ path-dependent governance architecture": the terms in 1/(1 − λ) grow as
 the state's persistence approaches one. A42: "A system can become better
 at governing the problems it already recognizes while becoming worse at
 recognizing and governing new ones." This is a faithful application. The
-thesis using it is CLAIM-tmpcag0t; no edge is written from here.
+thesis using it is [CLAIM-tmpcag0t](CLAIM-tmpcag0t.md); no edge is written from here.

@@ -218,5 +218,5 @@ jurisdiction of the slower governing structure. ... The commitment is
 slow; its application is fast." Both are faithful to it. A44 adds the
 residual case, an emergency outside the preauthorized categories, which
 needs "an escalation or revision pathway rather than merely faster
-execution of obsolete rules". CLAIM-tmp947v0 and CLAIM-tmpcag0t cite this
+execution of obsolete rules". [CLAIM-tmp947v0](CLAIM-tmp947v0.md) and [CLAIM-tmpcag0t](CLAIM-tmpcag0t.md) cite this
 claim.

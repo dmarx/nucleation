@@ -25,7 +25,7 @@ rests_on:
 - CLAIM-347
 - CLAIM-tmpk4bou
 summary: 'A44 §8 of the exchange "Explain First Contact RL" (ChatGPT, third
-  share of 2026-11-22): the compatibility complex of CLAIM-347 indexed by
+  share of 2026-11-22): the compatibility complex of [CLAIM-347](CLAIM-347.md) indexed by
   deadlines and response architecture. A44 asserts that it is downward closed.
   The containment in the deadline-free complex, and so the possibility of
   static compatibility with temporal incompatibility, is the assistant''s
@@ -49,7 +49,7 @@ includes deadlines, resource limits and safety conditions.
 
 - **Downward closed:** a history meeting every demand in J meets every
   demand in any subset of J. So K_{θ,B} is a simplicial complex, as in
-  CLAIM-347.
+  [CLAIM-347](CLAIM-347.md).
 - **Contained in the deadline-free complex:** let D_i⁰ be the same
   acceptance condition with no deadline. Every history meeting D_i by
   H_i meets D_i⁰. So K_{θ,B} ⊆ K⁰_B, the complex of the deadline-free
@@ -60,10 +60,10 @@ includes deadlines, resource limits and safety conditions.
   requirements". The pair is a face of K⁰ and not of K_{θ,B}.
 - **Retuning can enlarge it:** a change of θ that adds attainable
   histories (faster actuation, resequencing, staged capacity, a new
-  method) can enlarge K_{θ,B} for the same demands. By CLAIM-tmpk4bou that
+  method) can enlarge K_{θ,B} for the same demands. By [CLAIM-tmpk4bou](CLAIM-tmpk4bou.md) that
   requires a change of dynamics, not a hard constraint added at fixed
   dynamics. A44 rightly adds that this is "one possible mechanism, not a
   guarantee of monotone expansion".
 
 Under stochastic dynamics the existence test becomes a probability of
-joint satisfaction, as in CLAIM-tmpx9nrj.
+joint satisfaction, as in [CLAIM-tmpx9nrj](CLAIM-tmpx9nrj.md).

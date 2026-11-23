@@ -67,10 +67,10 @@ A44 qualifies the filter reading in two ways:
   restoration transverse to its organizing relations together with slow
   change along them.
 - "Fourier spectra cannot fully characterize event-triggered obligations,
-  irreversible harms, or response deadlines". Those need TERM-115's
+  irreversible harms, or response deadlines". Those need [TERM-115](../terms.d/TERM-115.md)'s
   readiness.
 
-Who sets S_n, what counts as noise, is CLAIM-tmp76xaw. This complements
-CLAIM-tmph25dl, which says a constraint's adequacy depends on the
-demand's timescale. It also complements CLAIM-tmpx8csq, which says
+Who sets S_n, what counts as noise, is [CLAIM-tmp76xaw](CLAIM-tmp76xaw.md). This complements
+[CLAIM-tmph25dl](CLAIM-tmph25dl.md), which says a constraint's adequacy depends on the
+demand's timescale. It also complements [CLAIM-tmpx8csq](CLAIM-tmpx8csq.md), which says
 persistence does not fix redirectability.

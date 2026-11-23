@@ -54,19 +54,19 @@ must remain open to correction."
 
 ## Against the record
 
-- Suppressing a demand is not satisfying it: CLAIM-361.
+- Suppressing a demand is not satisfying it: [CLAIM-361](CLAIM-361.md).
 - Admission, recognition, credibility, uptake and revision are distinct:
-  CLAIM-403.
-- Lock-in from selectively admitted evidence: CLAIM-466.
+  [CLAIM-403](CLAIM-403.md).
+- Lock-in from selectively admitted evidence: [CLAIM-466](CLAIM-466.md).
 - A coarse-graining adequate under ordinary dynamics can lose what an
-  intervention would reveal: CLAIM-407, which A44 cites. That is why the
+  intervention would reveal: [CLAIM-407](CLAIM-407.md), which A44 cites. That is why the
   architecture must be tested by interventions, not ordinary operation.
 
-## Admission (ADR-075)
+## Admission ([ADR-075](../decisions.d/ADR-075.md))
 
 *A separating case.* Take an institution whose admission of evidence is
-unbiased (CLAIM-466's remedy applied) and whose stages of uptake are all
-in place (CLAIM-403 satisfied). Suppose its filter treats a whole class of
+unbiased ([CLAIM-466](CLAIM-466.md)'s remedy applied) and whose stages of uptake are all
+in place ([CLAIM-403](CLAIM-403.md) satisfied). Suppose its filter treats a whole class of
 signal, objections to a category, as transient because of the rate at
 which they arrive and not because of their content. The premises hold,
 and yet the demands behind the objections are never answered. What the

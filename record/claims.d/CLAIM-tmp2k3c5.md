@@ -60,4 +60,4 @@ A44 §4 of the third share gives a sufficient condition to set beside this
 necessary one. If operation relaxes at rate γ toward a governed
 configuration that changes at rate at most V, it stays within LV/γ of it.
 A change Δθ by deadline H keeps it within ε if LΔθ/(γH) ≤ ε. That is
-CLAIM-tmp947v0, which complements this claim.
+[CLAIM-tmp947v0](CLAIM-tmp947v0.md), which complements this claim.

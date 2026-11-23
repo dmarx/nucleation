@@ -55,8 +55,8 @@ There are four separate obstructions (A44):
 
 A44's way around retuning: "Preauthorize fast actions that remain within
 the jurisdiction of the slower governing structure. ... The **commitment
-is slow; its application is fast**." That is CLAIM-711.
+is slow; its application is fast**." That is [CLAIM-711](CLAIM-711.md).
 
-CLAIM-tmp2k3c5 is the necessary half: no reference revisable at rate v
+[CLAIM-tmp2k3c5](CLAIM-tmp2k3c5.md) is the necessary half: no reference revisable at rate v
 reaches a demand farther than vH. This claim is a sufficient half for
 keeping the realization close while the reference moves.

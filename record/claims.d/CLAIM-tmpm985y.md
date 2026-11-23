@@ -37,7 +37,7 @@ summary: A44's carried formulation in the exchange "Explain First Contact
   RL" (ChatGPT, third share of 2026-11-22), answering the owner's U23, which
   quoted A40 and A42 and asked A to "double click on (and relate) these ideas".
   It is the last version of the identity and adaptability thesis begun at
-  A38 (CLAIM-tmph25dl) and revised at A40 (CLAIM-tmpbzwmr). The wording is
+  A38 ([CLAIM-tmph25dl](CLAIM-tmph25dl.md)) and revised at A40 ([CLAIM-tmpbzwmr](CLAIM-tmpbzwmr.md)). The wording is
   A's (ChatGPT, in the exchange of 2026-11-22); adopting it is the owner's
   call.
 ---
@@ -62,30 +62,30 @@ other identity-bearing structures."
 - **Selective invariance.** Split perturbations into components
   transverse to and tangent to an organizing manifold M_θ: "Fast
   restoration of organization + slow transformation within
-  organization". That is CLAIM-626's restoring and collective modes put
+  organization". That is [CLAIM-626](CLAIM-626.md)'s restoring and collective modes put
   to work. "The manifold alone does not establish" identity.
 - **The first inversion.** "A strongly stabilized organization can be
   highly adaptable precisely because it does not need to reconstruct its
   basic coordination after every disturbance."
-- **Slow modes are produced and reproduced:** CLAIM-478 and CLAIM-327. A
+- **Slow modes are produced and reproduced:** [CLAIM-478](CLAIM-478.md) and [CLAIM-327](CLAIM-327.md). A
   mode's observed persistence "is not sufficient evidence of the
   continued viability of its maintenance".
-- **Filtering and who classes noise:** CLAIM-tmppqdnv and CLAIM-tmp76xaw.
-- **A bound on retuning:** CLAIM-tmp947v0.
+- **Filtering and who classes noise:** [CLAIM-tmppqdnv](CLAIM-tmppqdnv.md) and [CLAIM-tmp76xaw](CLAIM-tmp76xaw.md).
+- **A bound on retuning:** [CLAIM-tmp947v0](CLAIM-tmp947v0.md).
 - **A second-order kernel.** The states ready for the current demands D
   that keep affordable routes to readiness for each D′ in a declared
-  family. A dated note on TERM-tmpz28l1 records it.
+  family. A dated note on [TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md) records it.
 - **Five reasons the single stability–plasticity trade-off is
   inadequate:** modes differ, some constraints improve both, slowness has
-  several meanings (CLAIM-626), organization and constituents change at
-  different rates, and overconsolidation (CLAIM-758).
-- **Temporal compatibility:** CLAIM-tmpdvgrf.
+  several meanings ([CLAIM-626](CLAIM-626.md)), organization and constituents change at
+  different rates, and overconsolidation ([CLAIM-758](CLAIM-758.md)).
+- **Temporal compatibility:** [CLAIM-tmpdvgrf](CLAIM-tmpdvgrf.md).
 - **Configuration preservation against generative continuity,** with
-  CLAIM-916's rule for finding what a capacity's constraints are.
+  [CLAIM-916](CLAIM-916.md)'s rule for finding what a capacity's constraints are.
 
-## Admission (ADR-075)
+## Admission ([ADR-075](../decisions.d/ADR-075.md))
 
-*A separating case.* CLAIM-tmph25dl, CLAIM-099 and CLAIM-916 hold of an
+*A separating case.* [CLAIM-tmph25dl](CLAIM-tmph25dl.md), [CLAIM-099](CLAIM-099.md) and [CLAIM-916](CLAIM-916.md) hold of an
 organization whose capacity to revise its configurations rests wholly on
 an external party, a regulator outside it, so that nothing internal to
 it keeps its structures revisable. There the claim's last clause, that

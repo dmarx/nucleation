@@ -56,26 +56,26 @@ demand-appropriate response + viable capacity to retune response."
 - **The response operator, not the eigenvalues.** G(s) = C(sI − A)⁻¹B =
   Σ_j (Cv_j)(w_jᵀB)/(s − λ_j). A mode's weight in governance is its
   persistence (λ_j), its controllability (w_jᵀB) and its consequence for
-  demands (Cv_j). This adds the third factor to CLAIM-tmpx8csq; a dated
+  demands (Cv_j). This adds the third factor to [CLAIM-tmpx8csq](CLAIM-tmpx8csq.md); a dated
   note there records it.
-- **The filter:** CLAIM-tmppqdnv.
+- **The filter:** [CLAIM-tmppqdnv](CLAIM-tmppqdnv.md).
 - **Multiband architecture.** "The rate of executing a decision can be
   separated from the rate of revising the rules that authorize it"
-  (CLAIM-711).
+  ([CLAIM-711](CLAIM-711.md)).
 - **Four dimensions of the spectrum:** relaxation, sensing, control and
   correction, and maintenance and revision. "the bottleneck can move".
-  The four failures of CLAIM-568 apply.
-- **Slow modes can entrench error.** CLAIM-400's maintained legibility
+  The four failures of [CLAIM-568](CLAIM-568.md) apply.
+- **Slow modes can entrench error.** [CLAIM-400](CLAIM-400.md)'s maintained legibility
   state adds terms in 1/(1 − λ), so "an initially useful standard can
-  become path-dependent governance architecture" (CLAIM-758).
+  become path-dependent governance architecture" ([CLAIM-758](CLAIM-758.md)).
 - **The design problem.** Choose θ and π to minimize operating,
-  maintenance and reconfiguration costs, subject to TERM-115 readiness
-  for each demand and to the viability kernel of TERM-tmpz28l1. The costs
+  maintenance and reconfiguration costs, subject to [TERM-115](../terms.d/TERM-115.md) readiness
+  for each demand and to the viability kernel of [TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md). The costs
   "need not be commensurable".
 
-## Admission (ADR-075)
+## Admission ([ADR-075](../decisions.d/ADR-075.md))
 
-*A separating case.* CLAIM-tmpbzwmr and CLAIM-099 hold of an organization
+*A separating case.* [CLAIM-tmpbzwmr](CLAIM-tmpbzwmr.md) and [CLAIM-099](CLAIM-099.md) hold of an organization
 whose slow modes stay controllable and whose capacity to govern among
 regimes is kept, but whose demand family never changes. In it there is
 no call to reshape the spectrum, and the claim's last clause is idle.
