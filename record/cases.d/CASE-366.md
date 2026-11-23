@@ -2,7 +2,6 @@
 number: 366
 status: Proposed
 formerly:
-- CASE-366
 - CASE-tmpn19tk
 title: 'The three-perspective agenda model, run in numpy: with the latent Condorcet cycle W beats R, R beats S, S beats W held fixed, a chair installs any of the three options by leaving one contest off the agenda, a successive agenda elects the option introduced last, and raising the suppressed contest''s admission probability from nil to certain drops the share of coherent records from one to nil while recorded conflict rises from nil to its maximum, so the recorded outcome and the potential read off it are a function of admission, not of preference'
 version: 1

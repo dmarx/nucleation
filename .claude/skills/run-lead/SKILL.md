@@ -172,6 +172,12 @@ From here on, a stop at any moment must lose at most the step in hand.
   - its H1 matches its title.
 
   Do NOT run luria lint, repair, index or link.
+- **Merging staging into the branch after a promotion.** When the Promote
+  workflow has concretized codes the branch cites, rewrite each temporary
+  code to its concrete one in the branch's prose and relation fields, but
+  never inside a `formerly:` list. That list is where the temporary code
+  is kept; rewriting it there leaves the entry listing itself. After the
+  merge, check that no entry's `formerly` contains its own code.
 - **Commits.** End each commit message with the attribution lines the
   session gives. Do not open a pull request; the lead opens it once you
   report.

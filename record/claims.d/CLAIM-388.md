@@ -2,7 +2,7 @@
 number: 388
 status: Active
 formerly:
-- CLAIM-388
+- CLAIM-tmpkoi6k
 title: 'Exact dynamical closure of a collective variable does not require a nearly decomposable block: in a linear Gaussian VAR(1) with uniform coupling among n units, the sum of all units is exactly dynamically independent at every stable coupling strength, while every partition of the units into two or more groups couples as strongly across its edges as within them'
 version: 4
 history:

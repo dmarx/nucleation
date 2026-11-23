@@ -2,7 +2,7 @@
 number: 758
 status: Proposed
 formerly:
-- CLAIM-758
+- CLAIM-tmp8ljvp
 title: 'Overconsolidation, a generalization of overfitting: relative to a declared family of later acquisitions lying outside the training task distribution, continued stabilization of a learner can keep improving its present objective while raising the budget it needs to acquire that family to a declared reliability with its held capabilities kept above a declared floor, so collateral forgetting counts as part of the cost; it is not overfitting to a data distribution, nor task-level overfitting within a training task distribution, and it is a failure only relative to that family and horizon'
 version: 2
 role: thesis

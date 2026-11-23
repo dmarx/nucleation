@@ -2,7 +2,7 @@
 number: 475
 status: Active
 formerly:
-- CLAIM-475
+- CLAIM-tmpi1bjh
 title: 'Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder'
 version: 9
 history:

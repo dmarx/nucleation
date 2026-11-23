@@ -2,7 +2,7 @@
 number: 218
 status: Open
 formerly:
-- QUESTION-218
+- QUESTION-tmplru2n
 title: 'Can a collective mode that is dynamically closed, but is not a weakly coupled block of the units carrying it, be one system, and if so what should a boundary test take as the unit: a subset of members or a function of the whole state?'
 version: 2
 history:

@@ -2,7 +2,7 @@
 number: 756
 status: Proposed
 formerly:
-- CLAIM-756
+- CLAIM-tmp5gbzr
 title: 'An acquisition can be worth making for what it does to the cost of other acquisitions: valued only by its own savings on a fixed task distribution, a learning step that lowers the cost of a later one can show a loss, and the ranking of learning policies can reverse once its effect on later acquisitions is counted'
 version: 1
 role: thesis

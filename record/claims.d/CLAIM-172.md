@@ -2,7 +2,7 @@
 number: 172
 status: Active
 formerly:
-- CLAIM-172
+- CLAIM-tmptsdgt
 title: 'Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other''s timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture'
 version: 10
 history:

@@ -2,7 +2,7 @@
 number: 157
 status: Proposed
 formerly:
-- CLAIM-157
+- CLAIM-tmp8tsw5
 title: 'Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member'
 version: 12
 history:
