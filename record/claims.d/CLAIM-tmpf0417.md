@@ -34,14 +34,14 @@ rests_on:
 bears_on:
 - QUESTION-380
 summary: >-
-  Alternative reading A of CASE-tmp2a9lm, the one the filer leans to. In
+  Alternative reading A of [CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md), the one the filer leans to. In
   that study a static closure of the constraints (arc consistency) forced
   the whole target from any seed, every island-based predictor failed, and
   the one that worked counted the states open when each component first
-  reached the binding threshold. Read generally: QUESTION-380's predictor
+  reached the binding threshold. Read generally: [QUESTION-380](../questions.d/QUESTION-380.md)'s predictor
   "computed from a constraint architecture" needs the growth rule's order
   and threshold among the conditions the question already asks an answer
-  to state. Alternative reading B (CLAIM-tmpddl2d) objects that the study
+  to state. Alternative reading B ([CLAIM-tmpddl2d](CLAIM-tmpddl2d.md)) objects that the study
   cannot show this for systems with coherent alternative branches. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
@@ -52,9 +52,9 @@ summary: >-
 
 ## The claim
 
-QUESTION-380 asks for a predictor "computed from a constraint
+[QUESTION-380](../questions.d/QUESTION-380.md) asks for a predictor "computed from a constraint
 architecture", and lists among the conditions an answer must state "the
-possibility of backtracking, the order of formation". CASE-tmp2a9lm
+possibility of backtracking, the order of formation". [CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md)
 suggests the order is not a side condition but the substance:
 
 1. **The static closure is uninformative where it matters.** When the
@@ -65,15 +65,15 @@ suggests the order is not a side condition but the substance:
    constant, while V varies across seed sets from 0 to 0.51.
 2. **Islands built forward still miss it.** The forward closure, waiting
    until each component is forced, overstates what the growth forces; the
-   failures fall inside islands (CLAIM-tmpzo914).
+   failures fall inside islands ([CLAIM-tmpzo914](CLAIM-tmpzo914.md)).
 3. **The predictor that works reads the order.** Counting what is open at
-   first threshold transfers to fresh architectures (CLAIM-tmpzi0ri).
+   first threshold transfers to fresh architectures ([CLAIM-tmpzi0ri](CLAIM-tmpzi0ri.md)).
 
 So the effect of a nucleus is a property of the architecture together
 with the growth rule. Stern et al.'s own island already says so: it is
 what folds correctly "if that subset is cut out and actuated", a dynamic
 notion that the record's description of it as "computed from the
-constraint structure" (QUESTION-380) passes over.
+constraint structure" ([QUESTION-380](../questions.d/QUESTION-380.md)) passes over.
 
 ## Alternatives
 
@@ -81,7 +81,7 @@ Two readings of the study would be filed differently, and both are:
 
 - **A, this claim** (the filer's lean): the order and threshold of growth
   belong in any predictor of productive nuclei.
-- **B, CLAIM-tmpddl2d**: the study's system lacks the coherent alternative
+- **B, [CLAIM-tmpddl2d](CLAIM-tmpddl2d.md)**: the study's system lacks the coherent alternative
   branches that self-folding sheets have, so it leaves open whether a
   constraint-only race predictor works where they exist.
 
@@ -93,5 +93,5 @@ is read as general. Choosing is the owner's call.
 ## What it does not say
 
 - That the constraint architecture does not matter: island coverage still
-  beats the number of seeds (CLAIM-tmpeno57).
+  beats the number of seeds ([CLAIM-tmpeno57](CLAIM-tmpeno57.md)).
 - That TFF is the right predictor beyond this system.

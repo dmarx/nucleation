@@ -160,11 +160,11 @@ UFI is the fraction of creases in the union of the actuated creases' folding isl
 
 ## Note of 2026-11-23: both findings recur in a kinetic constraint-growth model
 
-The lead run of 2026-11-23 (CASE-tmp2a9lm) found both of this claim's findings in
+The lead run of 2026-11-23 ([CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md)) found both of this claim's findings in
 a system of another kind, grown stochastically with a binding threshold
 rather than by energy descent: island coverage ranks seed sets well above
 the number of seeds, and adding a seed can halve the chance of the target
-(CLAIM-tmpeno57, which corroborates this claim). The mechanism differs:
+([CLAIM-tmpeno57](CLAIM-tmpeno57.md), which corroborates this claim). The mechanism differs:
 the harmful seeds there have large islands, not the small one of Fig. 5h,
 and a race reading of the paper's explanation fails as a predictor there
-(CLAIM-tmpzo914). No status change.
+([CLAIM-tmpzo914](CLAIM-tmpzo914.md)). No status change.

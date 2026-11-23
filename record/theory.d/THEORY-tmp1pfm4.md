@@ -39,7 +39,7 @@ summary: >-
 
 # THEORY-tmp1pfm4: Arbona, Aimé and Elezgaray find, by UV-absorption melting of three-strand DNA constructions, that a staple's melting peak rises by 1.5 to 8.5 °C when a neighbouring staple is already folded and that the inner crossover position costs more than the outer, and that a local-equilibrium model with neighbour-dependent crossover penalties and no misfolds reproduces the annealing–melting hysteresis of four origamis of about 200 staples
 
-Arbona, Aimé and Elezgaray (2013; arXiv 2011), LIT-tmp581o9, read in NOTE-tmpfz1bj.
+Arbona, Aimé and Elezgaray (2013; arXiv 2011), [LIT-tmp581o9](../literature.d/LIT-tmp581o9.md), read in [NOTE-tmpfz1bj](../notes.d/NOTE-tmpfz1bj.md).
 
 ## The finding
 

@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmpfz1bj) from the arXiv PDF, v2 of 2 October 2012,
+  read 2026-11-23 ([NOTE-tmpfz1bj](../notes.d/NOTE-tmpfz1bj.md)) from the arXiv PDF, v2 of 2 October 2012,
   text in full, figure captions read, figure images not; worth reading as
   the record's first measurement, in a construction of more than one
   staple, of a staple's melting temperature rising once a neighbouring
-  staple has closed, which LEAD-183 asked for. In a three-strand "small
+  staple has closed, which [LEAD-183](../leads.d/LEAD-183.md) asked for. In a three-strand "small
   origami" a staple's melting peak rises by 1.5 to 8.5 °C when its
   neighbour is folded, and a local-equilibrium model with neighbour-dependent
   crossover penalties reproduces the annealing–melting hysteresis of four
@@ -65,7 +65,7 @@ Arbona, J.-M., Aimé, J.-P. & Elezgaray, J. (2013). Cooperativity in the anneali
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpfz1bj (text and captions in full; figure images not read).*
+*From the reading, [NOTE-tmpfz1bj](../notes.d/NOTE-tmpfz1bj.md) (text and captions in full; figure images not read).*
 
 - **A closed neighbour raises a staple's melting temperature.** With B2
   folded, B1 "folds at a temperature higher than when it is alone"; "the
@@ -87,13 +87,13 @@ Arbona, J.-M., Aimé, J.-P. & Elezgaray, J. (2013). Cooperativity in the anneali
 
 ## Standing in the record
 
-Filed for LEAD-183, which asked for "multi-fold origami data in which a
+Filed for [LEAD-183](../leads.d/LEAD-183.md), which asked for "multi-fold origami data in which a
 fold's melting temperature rises once a neighbour has closed". It supplies
 the smallest such data, two staples on one scaffold, and a model of about
-200 staples that needs the coupling to fit. It bears on QUESTION-380 as
+200 staples that needs the coupling to fit. It bears on [QUESTION-380](../questions.d/QUESTION-380.md) as
 evidence that a closed neighbour makes the next fold cheaper, the mechanism
-Majikes et al. (LIT-2117; THEORY-1454) inferred and said needed "systems
+Majikes et al. ([LIT-2117](LIT-2117.md); [THEORY-1454](../theory.d/THEORY-1454.md)) inferred and said needed "systems
 with multiple folds", and on the nucleation-and-growth picture generally.
 Because misfolds are excluded, its cooperativity can only help: it cannot
 show a nucleus that lowers the chance of the target. Filed from it:
-THEORY-tmp1pfm4. No instruction for machine-learning practice.
+[THEORY-tmp1pfm4](../theory.d/THEORY-tmp1pfm4.md). No instruction for machine-learning practice.

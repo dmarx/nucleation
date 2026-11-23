@@ -25,7 +25,7 @@ summary: >-
   their hysteresis for four ~200-staple origamis. Misfolds and kinetics are
   excluded by hypothesis; parameters are fitted on the small constructs.
 ---
-<!-- inactive-ok-file: THEORY-tmp1pfm4 CASE-tmp2a9lm — new; this reading's account and the study it informs, filed with it -->
+<!-- inactive-ok-file: CASE-tmp2a9lm — new; this reading's account and the study it informs, filed with it -->
 
 # NOTE-tmpfz1bj: Arbona, Aime and Elezgaray: cooperativity in the annealing of DNA origamis
 
@@ -107,27 +107,27 @@ large origamis.
 
 ## Bearing on the record
 
-- **QUESTION-380** (evidence, partial). The measured shifts are a fold's
+- **[QUESTION-380](../questions.d/QUESTION-380.md)** (evidence, partial). The measured shifts are a fold's
   melting temperature rising once a neighbour has closed, the observable
   the question's note of 2026-11-05 on Majikes et al. asked for. The
   paper's picture of nuclei whose effect decays with distance is a
   predictor of when a staple folds from where the first ones sit. It is
   monotone by construction: with misfolds excluded, adding a nucleus can
   only help, so it cannot say which nuclei lower the chance of the target.
-- **THEORY-1454** (Majikes et al.; corroboration of the inferred part).
+- **[THEORY-1454](../theory.d/THEORY-1454.md)** (Majikes et al.; corroboration of the inferred part).
   Majikes et al. infer that short, cheap folds make neighbouring folds
   cheaper and say that confirming it "will require additional testing in
   systems with multiple folds". This earlier work, by another group,
   measures that a bound neighbour raises a fold's melting temperature on
-  a two-staple scaffold. It does not reproduce what THEORY-1454 measured
+  a two-staple scaffold. It does not reproduce what [THEORY-1454](../theory.d/THEORY-1454.md) measured
   (the comparison with bimolecular binding of the same domain, and the
   fall with fold distance); its loop-length dependence is a model term,
   not a measurement.
-- **CLAIM-562** (a parallel). Position in the connectivity, inner against
+- **[CLAIM-562](../claims.d/CLAIM-562.md)** (a parallel). Position in the connectivity, inner against
   outer, changes a staple's melting temperature by 3.5 to 7 °C for the same
   sequence or pair: where a constraint sits matters, in a thermodynamic sense, not
   the success-of-folding sense the claim states. An analogy; no edge.
-- **CASE-tmp2a9lm** (background). The lead run's test system uses
+- **[CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md)** (background). The lead run's test system uses
   cooperative attachment (a component bound by more strength attaches much
   faster), the regime of the kinetic tile assembly model; the paper's
   finding is a measured instance of that kind of cooperativity in origami.

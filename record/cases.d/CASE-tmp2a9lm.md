@@ -29,16 +29,16 @@ draws_on:
 - THEORY-1418
 - THEORY-1451
 summary: >-
-  QUESTION-380 asks for a predictor, computed from a constraint
+  [QUESTION-380](../questions.d/QUESTION-380.md) asks for a predictor, computed from a constraint
   architecture, of which local subsystems raise or lower the chance of a
   coherent global organization, tested in a system other than the one it
   was built for; UFI, the folding-island predictor of Stern, Pinson and
-  Murugan (THEORY-1418), cannot flag a superset that lowers the chance. A
+  Murugan ([THEORY-1418](../theory.d/THEORY-1418.md)), cannot flag a superset that lowers the chance. A
   race reading of folding islands (VIC: a component counts only if the
   first seed front to reach it forces it) and an alternative (ICN: island
   coverage per disconnected nucleus) were pre-registered and tested on a
   kinetic constraint-growth model in the threshold-2 regime of the kinetic
-  tile assembly model (THEORY-1451). Adding a seed already in its target
+  tile assembly model ([THEORY-1451](../theory.d/THEORY-1451.md)). Adding a seed already in its target
   state can halve the chance of exact assembly (38 of 40 significant
   decreases confirmed with 3000 runs), and island coverage predicts the
   chance better than the number of seeds. Neither VIC nor ICN transfers: VIC
@@ -67,7 +67,7 @@ compatible, since all of it agrees with x*.
   forward forcing closure, setting any component next to set ones whose
   states compatible with its set neighbours are exactly {x*_v}. Stern et
   al.'s folding island is the largest subset that folds correctly "if that
-  subset is cut out and actuated" (THEORY-1418), which the forward closure
+  subset is cut out and actuated" ([THEORY-1418](../theory.d/THEORY-1418.md)), which the forward closure
   follows.
 - **VIC**, Voronoi-island coverage (the primary predictor): the share of
   components v for which the nearest seeds, by hop distance, include v in
@@ -151,11 +151,11 @@ target satisfying every relation, the metrics.
   3000 fresh runs; on the sensitivity architectures the median fall is
   0.07, typically halving V (for example 0.16 to 0.07 when seed 45 joins
   seed 3 at p_r = 0.6). Every such seed set is jointly compatible with the
-  target, so this is upward non-closure (CLAIM-599) without an
+  target, so this is upward non-closure ([CLAIM-599](../claims.d/CLAIM-599.md)) without an
   incompatibility built in.
 - **Placement beats count.** Island coverage ranks seed sets well above
   the number of seeds in both runs (0.54 against 0.14; 0.48 against 0.26),
-  CLAIM-562's first finding outside self-folding sheets.
+  [CLAIM-562](../claims.d/CLAIM-562.md)'s first finding outside self-folding sheets.
 - **The race reading fails.** VIC flags 193 additions on architectures
   0–4 and 251 on 200–204; 2 and 22 of them are significant decreases. Its
   ranking of seed sets is worse than the monotone union's in both runs.
@@ -185,5 +185,5 @@ target satisfying every relation, the metrics.
 - **DNA origami.** The model and its rates are the assistant's; V is low
   throughout (at most 0.51); 8 × 8 lattices, q = 4, 300 runs per set.
 - **A constraint-only predictor.** TFF needs the threshold of the growth
-  rule, a condition of the dynamics, as QUESTION-380 says an answer must
+  rule, a condition of the dynamics, as [QUESTION-380](../questions.d/QUESTION-380.md) says an answer must
   state.

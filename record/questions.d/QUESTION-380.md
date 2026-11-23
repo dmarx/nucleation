@@ -170,27 +170,27 @@ Persistence and nucleating productivity come apart ([CLAIM-595](../claims.d/CLAI
 ## Note of 2026-11-23: a non-monotone predictor tested out of sample, and two-staple origami data
 
 The lead run of 2026-11-23 pre-registered and tested a race reading of folding
-islands (VIC) in a kinetic constraint-growth model, CASE-tmp2a9lm.
+islands (VIC) in a kinetic constraint-growth model, [CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md).
 
 - **Seeds can hurt there too.** Adding a seed already in its target state,
   with every set still compatible with the target, can halve the chance of
   exact assembly; island coverage predicts the chance better than the
-  number of seeds (CLAIM-tmpeno57).
-- **The race reading does not transfer** (CLAIM-tmpzo914). The seeds that
+  number of seeds ([CLAIM-tmpeno57](../claims.d/CLAIM-tmpeno57.md)).
+- **The race reading does not transfer** ([CLAIM-tmpzo914](../claims.d/CLAIM-tmpzo914.md)). The seeds that
   hurt have large islands; the errors come from the order in which
   components reach the binding threshold.
-- **A post hoc predictor does, within one system** (CLAIM-tmpzi0ri):
+- **A post hoc predictor does, within one system** ([CLAIM-tmpzi0ri](../claims.d/CLAIM-tmpzi0ri.md)):
   counting the states each component could take at first threshold.
   It uses the growth rule's threshold, a condition of the kind this
   question asks an answer to state, and was built on the system it was
   tested in, on fresh architectures.
-- **Two readings, filed as alternatives.** CLAIM-tmpf0417 (the filer's
+- **Two readings, filed as alternatives.** [CLAIM-tmpf0417](../claims.d/CLAIM-tmpf0417.md) (the filer's
   lean): a predictor computed from the constraint architecture alone
   cannot do the job; the order and threshold of growth belong in it.
-  CLAIM-tmpddl2d objects that the test system has no coherent alternative
+  [CLAIM-tmpddl2d](../claims.d/CLAIM-tmpddl2d.md) objects that the test system has no coherent alternative
   branch, so the race reading's home case stays open.
-- **Origami.** Arbona, Aimé and Elezgaray (THEORY-tmp1pfm4, from
-  LIT-tmp581o9) supply the observable this question's note on Majikes et
+- **Origami.** Arbona, Aimé and Elezgaray ([THEORY-tmp1pfm4](../theory.d/THEORY-tmp1pfm4.md), from
+  [LIT-tmp581o9](../literature.d/LIT-tmp581o9.md)) supply the observable this question's note on Majikes et
   al. asked for, on a two-staple scaffold: a staple's melting peak rises by
   1.5 to 8.5 °C once its neighbour has folded. Their model excludes
   misfolds, so its nuclei can only help, and it cannot tell a productive

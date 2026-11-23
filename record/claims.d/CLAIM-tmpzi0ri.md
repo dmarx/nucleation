@@ -43,7 +43,7 @@ summary: >-
   0.64 against the best monotone 0.48, AUC 0.94, recall 0.66. Its
   precision is 0.11: flagged additions lower V by 0.011 on average, 55 %
   of them at all. It uses the growth rule's threshold as well as the
-  constraints. It answers QUESTION-380 for one system only, since it was
+  constraints. It answers [QUESTION-380](../questions.d/QUESTION-380.md) for one system only, since it was
   built on that system. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
@@ -55,10 +55,10 @@ summary: >-
 
 ## The claim
 
-The island-based predictors fail in CASE-tmp2a9lm because what decides a
+The island-based predictors fail in [CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md) because what decides a
 component's state is the set of states still open when it first becomes
 bound strongly enough to attach, and a seed changes that order
-(CLAIM-tmpzo914). Threshold-front forcing (TFF) scores a seed set by that
+([CLAIM-tmpzo914](CLAIM-tmpzo914.md)). Threshold-front forcing (TFF) scores a seed set by that
 quantity directly:
 
 - grow from S in synchronous rounds; in each round every unset component
@@ -78,7 +78,7 @@ or no falls: flagged additions change V by −0.011 on average, unflagged by
 
 ## Relations
 
-- **CLAIM-969** (complements). The committor scores intermediates by their
+- **[CLAIM-969](CLAIM-969.md)** (complements). The committor scores intermediates by their
   future and so can rank a small nucleus above a larger trap, but it needs
   the whole chain solved. TFF is a surrogate computed from the architecture
   and the growth rule's threshold without solving the dynamics, for seed
@@ -88,7 +88,7 @@ or no falls: flagged additions change V by −0.011 on average, unflagged by
 
 - That it transfers across systems: it was designed on this one's
   failures. A test in another system, such as one with coherent
-  alternative branches, is what QUESTION-380 still lacks.
+  alternative branches, is what [QUESTION-380](../questions.d/QUESTION-380.md) still lacks.
 - That it is computed from the constraints alone. The threshold is a
   condition of the dynamics.
 - That its flags are reliable one by one.

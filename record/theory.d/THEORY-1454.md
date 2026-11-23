@@ -96,7 +96,7 @@ Majikes, Patrone, Schiffels, Zwolak, Kearsley, Forry and Liddle (2020),
 Read by the lead run of 2026-11-23. Majikes and colleagues infer that a bound
 neighbour makes the next fold cheaper and say that confirming it "will
 require additional testing in systems with multiple folds". Arbona, Aimé
-and Elezgaray (LIT-tmp581o9; THEORY-tmp1pfm4), an earlier work by another
+and Elezgaray ([LIT-tmp581o9](../literature.d/LIT-tmp581o9.md); [THEORY-tmp1pfm4](THEORY-tmp1pfm4.md)), an earlier work by another
 group, measure it in the smallest such system: on a 64-base scaffold with
 two staples, a staple's melting peak rises by 1.5 to 8.5 °C when the other
 is already folded. That is corroboration of the inferred mechanism, in

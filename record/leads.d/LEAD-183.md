@@ -50,23 +50,23 @@ folding islands, which can fall when a seed is added, and an alternative
 criterion of transfer before any run (scratch/studies/lead-183/). The
 system is a kinetic constraint-growth model in the threshold-2 regime of
 the kinetic tile assembly model, not a self-folding sheet. The record of
-the run is CASE-tmp2a9lm.
+the run is [CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md).
 
 **The result.** Adding a target-state seed can halve the chance of exact
-assembly, and island coverage beats the seed count (CLAIM-tmpeno57). VIC
-does not transfer (CLAIM-tmpzo914). The first registered island, by static
+assembly, and island coverage beats the seed count ([CLAIM-tmpeno57](../claims.d/CLAIM-tmpeno57.md)). VIC
+does not transfer ([CLAIM-tmpzo914](../claims.d/CLAIM-tmpzo914.md)). The first registered island, by static
 arc consistency, was constant and the first test void; the amended one
 failed on ranking and precision. A post hoc predictor, threshold-front
-forcing, meets the criterion on fresh architectures (CLAIM-tmpzi0ri), but
+forcing, meets the criterion on fresh architectures ([CLAIM-tmpzi0ri](../claims.d/CLAIM-tmpzi0ri.md)), but
 was built on this system, so it transfers across architectures, not
 systems. Two readings are filed as alternatives: that a predictor of
 productive nuclei needs the order and threshold of growth
-(CLAIM-tmpf0417, the filer's lean), and that the test system, lacking
+([CLAIM-tmpf0417](../claims.d/CLAIM-tmpf0417.md), the filer's lean), and that the test system, lacking
 coherent alternative branches, leaves the race reading's home case open
-(CLAIM-tmpddl2d).
+([CLAIM-tmpddl2d](../claims.d/CLAIM-tmpddl2d.md)).
 
-**The origami search.** Arbona, Aimé and Elezgaray (LIT-tmp581o9;
-THEORY-tmp1pfm4) measure a staple's melting peak rising by 1.5 to 8.5 °C
+**The origami search.** Arbona, Aimé and Elezgaray ([LIT-tmp581o9](../literature.d/LIT-tmp581o9.md);
+[THEORY-tmp1pfm4](../theory.d/THEORY-tmp1pfm4.md)) measure a staple's melting peak rising by 1.5 to 8.5 °C
 once its neighbour has folded, on a two-staple scaffold, and model ~200
 staples with that coupling. No lawful open staple-resolved dataset for a
 many-fold origami was found. The arXiv API returned HTTP 429 on

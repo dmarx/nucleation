@@ -33,12 +33,12 @@ grounds:
 bears_on:
 - QUESTION-380
 summary: >-
-  QUESTION-380 asks for a predictor of productive nuclei from the
+  [QUESTION-380](../questions.d/QUESTION-380.md) asks for a predictor of productive nuclei from the
   constraint architecture, tested in a system other than its own, and its
   note of 2026-11-07 records that UFI, the folding-island predictor, is
   monotone. The race reading of folding islands (VIC), pre-registered as
   the non-monotone replacement, fails the registered test in
-  CASE-tmp2a9lm: Spearman 0.22 against the island union's 0.54, 193
+  [CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md): Spearman 0.22 against the island union's 0.54, 193
   additions flagged of which 2 are significant decreases, and on five fresh
   architectures 0.21 against 0.48. Its own first form, built on static
   arc consistency, was constant there. The wording is the assistant's
@@ -51,16 +51,16 @@ summary: >-
 
 ## The claim
 
-Stern, Pinson and Murugan (THEORY-1418) explain an added actuator "with a
+Stern, Pinson and Murugan ([THEORY-1418](../theory.d/THEORY-1418.md)) explain an added actuator "with a
 very small folding island" stopping a successful fold as competition
 between actuators, the sheet misfolding just outside the small island
-(CLAIM-562's reading). Voronoi-island
+([CLAIM-562](CLAIM-562.md)'s reading). Voronoi-island
 coverage (VIC) writes that as a race: each component is credited only if
 the nearest seed's own island forces it, so a small-island seed placed in
 a larger island's territory lowers the score. VIC is computed from the
 constraints and the graph alone, and is not monotone in the seed set.
 
-In CASE-tmp2a9lm, pre-registered before any run, VIC fails the criterion
+In [CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md), pre-registered before any run, VIC fails the criterion
 of transfer:
 
 - **Ranking.** Its rank correlation with the chance of exact assembly is
@@ -83,5 +83,5 @@ as their only solution and arc consistency finds it from any seed.
 
 - That VIC fails in self-folding sheets. It was not run there.
 - That no non-monotone predictor works here: a post hoc one does
-  (CLAIM-tmpzi0ri).
+  ([CLAIM-tmpzi0ri](CLAIM-tmpzi0ri.md)).
 - That the test system is like DNA origami.

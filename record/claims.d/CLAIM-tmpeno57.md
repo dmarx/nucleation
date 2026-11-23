@@ -37,15 +37,15 @@ uses:
 bears_on:
 - QUESTION-380
 summary: >-
-  CLAIM-562 holds, from Stern, Pinson and Murugan's self-folding sheets,
+  [CLAIM-562](CLAIM-562.md) holds, from Stern, Pinson and Murugan's self-folding sheets,
   that where an intervention acts predicts success better than how much
   there is, and that adding one can make a successful set fail. In a kinetic
-  constraint-growth model of another kind (CASE-tmp2a9lm), 38 of 40
+  constraint-growth model of another kind ([CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md)), 38 of 40
   significant decreases from adding a target-state seed are confirmed with
   3000 runs, typically halving the chance of exact assembly, and island
   coverage outranks the seed count (Spearman 0.54 against 0.14, and 0.48
   against 0.26 on fresh architectures). Every set is compatible with the
-  target, so CLAIM-599's upward non-closure arises here without an
+  target, so [CLAIM-599](CLAIM-599.md)'s upward non-closure arises here without an
   incompatibility built in. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
@@ -56,7 +56,7 @@ summary: >-
 
 ## The claim
 
-CASE-tmp2a9lm grows a random constraint architecture on an 8 × 8 lattice
+[CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md) grows a random constraint architecture on an 8 × 8 lattice
 in the threshold-2 regime of the kinetic tile assembly model, from seed
 sets established in their target states, and estimates V(S), the chance of
 exact assembly. Two things hold there.
@@ -66,7 +66,7 @@ exact assembly. Two things hold there.
    confirmed at z < −2, on the sensitivity architectures with a median fall
    of 0.07 (for example from 0.16 to 0.07). Each larger set is still
    compatible with the target: nothing in the architecture forbids the
-   target it lowers the chance of. In TERM-117's sense, the added seed is
+   target it lowers the chance of. In [TERM-117](../terms.d/TERM-117.md)'s sense, the added seed is
    not productive relative to the smaller set.
 2. **Placement beats count.** Coverage by the seeds' islands ranks seed
    sets by V far better than their number (Spearman 0.54 against 0.14 on
@@ -74,9 +74,9 @@ exact assembly. Two things hold there.
 
 ## What it adds
 
-CLAIM-562's two findings come from one 4 × 4 crease pattern; CLAIM-599
+[CLAIM-562](CLAIM-562.md)'s two findings come from one 4 × 4 crease pattern; [CLAIM-599](CLAIM-599.md)
 draws the general point, that productive sets need not be closed upward,
-from them and a stipulated table. CASE-374 showed two seams combining into
+from them and a stipulated table. [CASE-374](../cases.d/CASE-374.md) showed two seams combining into
 a trap, but there the pair is incompatible by construction. Here both
 findings recur in a system with different physics (stochastic attachment
 with a binding threshold, not energy descent with torques), with every set
@@ -86,7 +86,7 @@ compatible with the target.
 
 - That the harm has the sheets' mechanism. The harmful seeds here have
   large islands; the errors are order effects at the binding threshold
-  (CASE-tmp2a9lm, "Why").
+  ([CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md), "Why").
 - That adding seeds usually hurts. Most additions help or do nothing; V
   rises on average.
 - Anything about DNA origami, whose rates the model does not take.

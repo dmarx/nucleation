@@ -120,9 +120,9 @@ raised defects, again a design change and not a factorial test of nuclei.
 
 ## Note of 2026-11-23: upward non-closure with every set compatible
 
-The lead run of 2026-11-23 (CASE-tmp2a9lm) gives an instance from dynamics in
+The lead run of 2026-11-23 ([CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md)) gives an instance from dynamics in
 which every seed set is compatible with the target: in a kinetic
 constraint-growth model, 38 of 40 significant falls in V from adding one
-target-state seed are confirmed with 3000 runs (CLAIM-tmpeno57, which
+target-state seed are confirmed with 3000 runs ([CLAIM-tmpeno57](CLAIM-tmpeno57.md), which
 corroborates this claim). The earlier dynamic instance had its two seams
 incompatible by construction. No status change.
