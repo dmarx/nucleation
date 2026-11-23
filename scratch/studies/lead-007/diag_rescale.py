@@ -32,7 +32,7 @@ K_AUX = 10
 N_AUX = 80
 N_MAIN = {"nested": 8, "dense": 14}
 CS = [2.0, 1.0, 0.3, 0.1]
-SEEDS = list(range(10))
+SEEDS = list(range(40))
 GAMMA = 0.01
 ALPHA = 1e-3
 TOL = 1e-9
@@ -46,7 +46,8 @@ def beta_of(wp, wm, vp, vm):
     return vp * wp - vm * wm
 
 
-def train(X, y, wp, wm, vp, vm, train_first=True, tol=TOL, max_steps=MAX_STEPS):
+def train(X, y, wp, wm, vp, vm, train_first=True, tol=TOL, max_steps=MAX_STEPS,
+          lr_factor=0.4):
     """Full-batch gradient descent on 1/(2n)||X beta - y||^2.
 
     Returns the trained parameters and the number of steps. The step size
@@ -58,8 +59,12 @@ def train(X, y, wp, wm, vp, vm, train_first=True, tol=TOL, max_steps=MAX_STEPS):
     L = np.linalg.eigvalsh(X.T @ X / n).max()
     lr = None
     for step in range(max_steps):
-        scale = max((wp ** 2 + vp ** 2).max(), (wm ** 2 + vm ** 2).max(), 1e-2)
-        lr = 0.4 / (L * scale)
+        if train_first:
+            scale = max((wp ** 2 + vp ** 2).max(), (wm ** 2 + vm ** 2).max(), 1e-2)
+        else:
+            # readout only: the step on beta scales with the first layer alone
+            scale = max((wp ** 2).max(), (wm ** 2).max(), 1e-4)
+        lr = lr_factor / (L * scale)
         b = beta_of(wp, wm, vp, vm)
         r = X @ b - y
         loss = 0.5 * float(r @ r) / n
