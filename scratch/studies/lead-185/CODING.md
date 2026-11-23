@@ -131,4 +131,21 @@ path (`checked` = no, with the obstacle in the note).
   sit behind a bot check, so that its date is known from the FESCo ticket
   that cites it.
 - `outcome_2026` gained `undetermined` for cases whose downstreams were not
-  checked, rather than defaulting them to `original`.
+  checked, rather than defaulting them to `original`, and `revoked` for
+  `event-stream`, whose accepted succession was undone.
+- `arm` gained `unclassified` for Audacity, whose fork's first release was
+  not dated, so the 12-month rule could not be applied.
+- Event kinds added while coding, each because a source recorded an act the
+  first list had no place for: `community_vote` (Jenkins's rename vote,
+  io.js's vote to join the foundation), `host_accept` (a foundation or
+  non-profit taking the successor in; never counted as independent, since
+  the founders arrange it), `original_restewarded` (the original line
+  passing to a new steward, as OpenOffice.org to Apache and Hudson to
+  Eclipse), `steward_escalation` (freenode's channel takeovers),
+  `downstream_proposal` and `downstream_effective` (a downstream's proposal
+  and its release, beside its decision), `fork_call` and `revocation`.
+- Reasons are written as `+`-joined sets in alphabetical order, so that
+  "identity+practical" and "practical+identity" count as one.
+- The lower bound on the legitimacy-to-capability lag is not computed for a
+  reunited case, whose original line did not lose its producers but merged
+  with them.
