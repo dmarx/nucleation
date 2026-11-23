@@ -46,15 +46,22 @@
     and 1 (videos/text, Δ = 2.000) that rounding leaves undecided.
   - All 25 printed (SF, Δ) pairs can be realised.
 
-## Filing plan
+## Filed (all committed and pushed)
 
-- **A CASE** (executed-study, documented).
-- **A CLAIM** (thesis, demonstrated): the formal comparison.
-- **Three alternative CLAIMs** (interpretive) on which verdict is right.
-  The worker leans to alternative 1 (the data cannot discriminate).
-- **Dated notes** on LEAD-191, CLAIM-037 and THEORY-623.
-- **A changelog fragment**: record/changelog.d/lead-191.md.
+- CASE-tmpskejj: executed-study, documented.
+- CLAIM-tmptzmky: thesis, demonstrated.
+- Alternatives, all interpretive:
+  - CLAIM-tmprfjkk: thesis, the lean.
+  - CLAIM-tmprq0nb: thesis, corroborates CLAIM-037.
+  - CLAIM-tmpzvz98: counter, objects to CLAIM-037.
+- Dated notes of 2026-11-23 on LEAD-191, CLAIM-037 and THEORY-623.
+- record/changelog.d/lead-191.md.
 
 ## Next
 
-- File the entries above and commit each one.
+- Nothing for this worker. The pull request is the lead's to open.
+- Remaining for the owner:
+  - choose among the three alternatives;
+  - the per-instance data, if the authors release them;
+  - a reading of Vallée et al.;
+  - a data set with a measured support.
