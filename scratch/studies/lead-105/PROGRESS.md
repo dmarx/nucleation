@@ -37,6 +37,11 @@ skills, with no disruption arm.
   task-selective units or 8 random units (1000 healing steps under the
   training optimizer), continued training (control for healing).
 
+- Filed: CASE-tmphp4pt (study); CLAIM-tmp60fme (result, empirical);
+  CLAIM-tmpmgb7l and CLAIM-tmpyf8s0 (alternative readings, lean to the
+  first); CLAIM-tmp2k67n (rescaling = optimizer change, demonstrated);
+  dated notes on LEAD-105 and CLAIM-367; changelog fragment lead-105.md.
+
 ## Next
 
-- file CASE, CLAIMs, dated notes on LEAD-105 and CLAIM-367, changelog
+- nothing in this run; what remains of the lead is in its dated note
