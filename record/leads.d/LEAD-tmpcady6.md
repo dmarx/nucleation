@@ -17,7 +17,7 @@ line:
 - realizability
 advances:
 - CLAIM-tmpbzwmr
-summary: 'A gap of the manuscript governance-of-possibility, §5.2 (GB6): CLAIM-tmpbzwmr''s
+summary: 'A gap of the manuscript governance-of-possibility, §5.2 (GB6): [CLAIM-tmpbzwmr](../claims.d/CLAIM-tmpbzwmr.md)''s
   discriminating prediction has no case or lead that tests it. The wording is the
   assistant''s (Claude, in this session); adopting it is the owner''s call.'
 ---
@@ -28,7 +28,7 @@ summary: 'A gap of the manuscript governance-of-possibility, §5.2 (GB6): CLAIM-
 
 ## The idea
 
-CLAIM-tmpbzwmr predicts: "Among organizations with matched relaxation
+[CLAIM-tmpbzwmr](../claims.d/CLAIM-tmpbzwmr.md) predicts: "Among organizations with matched relaxation
 spectra, those whose slow modes lack actuated, affordable control
 directions should fail the demands that need those modes moved." If
 failures track slowness and not controllability, the claim fails.
@@ -38,7 +38,7 @@ Two arms:
 1. **A model arm.** Linear organizations with the same eigenvalues and
    different input matrices, demands that need a slow mode moved by a
    deadline within a budget. In such a model the outcome follows from the
-   least-effort formula (CLAIM-345, CLAIM-tmpx8csq), so the arm checks the
+   least-effort formula ([CLAIM-345](../claims.d/CLAIM-345.md), [CLAIM-tmpx8csq](../claims.d/CLAIM-tmpx8csq.md)), so the arm checks the
    reading, not the world; it fixes the measures the second arm needs.
 2. **An empirical arm.** Organizations matched on how fast a slow feature
    relaxes after disturbance (a standard's adoption, a workforce's skill

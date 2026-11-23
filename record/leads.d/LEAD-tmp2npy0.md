@@ -18,19 +18,19 @@ line:
 advances:
 - CLAIM-730
 - CLAIM-879
-summary: 'A gap of the manuscript governance-of-possibility, §7.2 (GB7): CASE-316''s
-  model "has no affected party and never revises a limit", so CLAIM-730''s first
+summary: 'A gap of the manuscript governance-of-possibility, §7.2 (GB7): [CASE-316](../cases.d/CASE-316.md)''s
+  model "has no affected party and never revises a limit", so [CLAIM-730](../claims.d/CLAIM-730.md)''s first
   clause is untested. The design is fixed here. The wording is the assistant''s
   (Claude, in this session); adopting it is the owner''s call.'
 ---
 
-<!-- inactive-ok-file: CLAIM-730 CLAIM-879 CASE-316 — Proposed; what this would test and the model it extends -->
+<!-- inactive-ok-file: CLAIM-730 CASE-316 — Proposed; what this would test and the model it extends -->
 
 # LEAD-tmp2npy0: Extend the oversight queueing model with an affected party who petitions to revise a precommitted limit and a revision process of its own speed, and measure the harm done to that party before the limit can be revised against the speed of application
 
 ## The design
 
-Start from CASE-316's model unchanged: actions at 2 a day, one in ten
+Start from [CASE-316](../cases.d/CASE-316.md)'s model unchanged: actions at 2 a day, one in ten
 objectionable, irreversibility gamma with shape 4 and mean 30/s days,
 four reviewers, the precommitted-limits variant with coverage q = 0.8.
 Add:
@@ -44,7 +44,7 @@ Add:
 3. **Revision.** A petition waits a revision time, gamma with shape 4 and
    mean τ_rev; once revised, the limits cover the class.
 4. **Arms.** Speed s ∈ {1, 3, 10}, latency and throughput readings as in
-   CASE-316; τ_rev ∈ {10, 90, 365} days; and a revision-on-demand arm in
+   [CASE-316](../cases.d/CASE-316.md); τ_rev ∈ {10, 90, 365} days; and a revision-on-demand arm in
    which a petition suspends the class at once pending revision.
 
 20 seeds per configuration, shared across arms. Measure the harms to P
@@ -53,7 +53,7 @@ reviewer load, since escalations share the reviewers.
 
 ## Checks the record can run
 
-- **CLAIM-730's first clause** predicts that, at fixed τ_rev, the harm to P
+- **[CLAIM-730](../claims.d/CLAIM-730.md)'s first clause** predicts that, at fixed τ_rev, the harm to P
   before revision rises with s. If it does not, the clause fails in the
   model.
 - **Its second clause** predicts that revision on demand brings the harm

@@ -27,7 +27,7 @@ uses:
 - TERM-115
 summary: 'A gap fill: a gap of the manuscript governance-of-possibility, §4 (GB4),
   which finds no combined result for how fast a reference should be revisable
-  given both a deadline and a noise spectrum. For CLAIM-tmppqdnv''s first-order
+  given both a deadline and a noise spectrum. For [CLAIM-tmppqdnv](CLAIM-tmppqdnv.md)''s first-order
   reference the two pictures meet in a conserved product. Checked with python3
   -I. The wording is the assistant''s (Claude, in this session); adopting it is
   the owner''s call.'
@@ -37,14 +37,14 @@ summary: 'A gap fill: a gap of the manuscript governance-of-possibility, §4 (GB
 
 ## The derivation
 
-CLAIM-tmppqdnv's reference: ż = k(d + n − z), H_k(s) = k/(s + k).
+[CLAIM-tmppqdnv](CLAIM-tmppqdnv.md)'s reference: ż = k(d + n − z), H_k(s) = k/(s + k).
 
 - **The deadline picture.** With no noise and a unit step in d at t = 0,
   z(t) = 1 − e^{−kt}, so |1 − z| ≤ δ from t_δ = ln(1/δ)/k on.
 - **The frequency picture.** With d = 0 and n white of intensity σ²
   (E n(t)n(s) = σ²δ(t − s)), z is an Ornstein–Uhlenbeck process,
   dz = −kz dt + kσ dW, with stationary variance
-  ∫₀^∞ (k e^{−ku})² σ² du = kσ²/2. In CLAIM-tmppqdnv's terms it is the
+  ∫₀^∞ (k e^{−ku})² σ² du = kσ²/2. In [CLAIM-tmppqdnv](CLAIM-tmppqdnv.md)'s terms it is the
   noise passed, σ² ∫ k²/(k² + ω²) dω/2π.
 
 So t_δ · Var z = σ² ln(1/δ)/2, independent of k. Speeding the reference
@@ -54,8 +54,8 @@ the step to within δ needs k ≥ ln(1/δ)/H, hence
 Var z ≥ σ² ln(1/δ)/(2H): the shorter the deadline, the more noise the
 reference must pass.
 
-This sets CLAIM-tmppqdnv's noise cost beside a deadline, as TERM-115 poses
-deadlines. CLAIM-tmp2k3c5 gives the speed floor vH ≥ 1 − δ − ε for a
+This sets [CLAIM-tmppqdnv](CLAIM-tmppqdnv.md)'s noise cost beside a deadline, as [TERM-115](../terms.d/TERM-115.md) poses
+deadlines. [CLAIM-tmp2k3c5](CLAIM-tmp2k3c5.md) gives the speed floor vH ≥ 1 − δ − ε for a
 reference revisable at a bounded rate; that is a different model, a rate
 limit rather than a first-order rule, and the two answer different parts
 of the manuscript's question.
@@ -73,13 +73,13 @@ gave variances of 0.0491, 0.2276 and 1.267 against 0.049, 0.245 and
 
 ## What it does not say
 
-- Not the best k: that needs the two errors weighed, as CLAIM-tmppqdnv's
+- Not the best k: that needs the two errors weighed, as [CLAIM-tmppqdnv](CLAIM-tmppqdnv.md)'s
   λ does.
 - Nothing for other filters. The product is for the first-order rule; a
-  higher-order filter, or one shaped to the spectra (CLAIM-tmppqdnv's
+  higher-order filter, or one shaped to the spectra ([CLAIM-tmppqdnv](CLAIM-tmppqdnv.md)'s
   T*), can trade differently.
 - Nothing for coloured noise or demands other than a step. With noise,
-  being within δ by H is a probability, as TERM-115's readiness is; the
+  being within δ by H is a probability, as [TERM-115](../terms.d/TERM-115.md)'s readiness is; the
   claim gives the time of the mean response only.
 
 ## Gap filled

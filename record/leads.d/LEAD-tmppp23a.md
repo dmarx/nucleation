@@ -29,10 +29,10 @@ summary: 'A gap of the manuscript governance-of-possibility, §12.2 (GD2): the r
 
 ## The idea
 
-TERM-tmppvlfi's adoption "needs each conjunct operationalized for a
-declared plurality and horizon": viability by CLAIM-347's compatibility
-complex, correctability by recovery when rare (QUESTION-132) or access to
-consequential roles (CLAIM-362), and accommodation "by a measure not
+[TERM-tmppvlfi](../terms.d/TERM-tmppvlfi.md)'s adoption "needs each conjunct operationalized for a
+declared plurality and horizon": viability by [CLAIM-347](../claims.d/CLAIM-347.md)'s compatibility
+complex, correctability by recovery when rare ([QUESTION-132](../questions.d/QUESTION-132.md)) or access to
+consequential roles ([CLAIM-362](../claims.d/CLAIM-362.md)), and accommodation "by a measure not
 reducible to either".
 
 Pick one plurality the record already models, such as the populations of

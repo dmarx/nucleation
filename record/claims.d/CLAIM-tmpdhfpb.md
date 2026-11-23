@@ -26,7 +26,7 @@ rests_on:
 summary: 'A gap fill: a gap of the manuscript governance-of-possibility, §5.3 (GB1),
   the two conditions the tangent/transverse argument for "strong organizational
   stabilization can enable extensive adaptation" needs and does not state: decoupling,
-  or a restoring rate that grows with the excursion, and actuation in CLAIM-589''s
+  or a restoring rate that grows with the excursion, and actuation in [CLAIM-589](CLAIM-589.md)''s
   sense. Checked by simulation with python3 -I. The wording is the assistant''s
   (Claude, in this session); adopting it is the owner''s call.'
 ---
@@ -60,9 +60,9 @@ block-diagonal case, any κ > 0 keeps the relations exactly.
 stabilization neither helps nor hinders the tangential move itself. A
 demanded displacement Δ along M_θ by H is possible only if
 Δ − e^{A∥H}x∥(0) lies in the range of the Gramian
-W_H = ∫₀^H e^{A∥s}B∥B∥ᵀe^{A∥ᵀs} ds (the actuated directions, CLAIM-589's
+W_H = ∫₀^H e^{A∥s}B∥B∥ᵀe^{A∥ᵀs} ds (the actuated directions, [CLAIM-589](CLAIM-589.md)'s
 second object), and affordable only if its least effort
-E* = (Δ − e^{A∥H}x∥(0))ᵀ W_H^† (Δ − e^{A∥H}x∥(0)) (CLAIM-345's form) is
+E* = (Δ − e^{A∥H}x∥(0))ᵀ W_H^† (Δ − e^{A∥H}x∥(0)) ([CLAIM-345](CLAIM-345.md)'s form) is
 within budget (its third). The input that achieves it adds at most
 ‖B⊥‖√(E*/(2κ)) of deviation. So strong transverse stabilization leaves
 tangential adaptation possible when:
@@ -99,4 +99,4 @@ form, never above 1. The scalar case with C = 2, X = 3, K = 4 settles at
 A gap of the manuscript governance-of-possibility, §5.3 (GB1), whose last
 paragraph describes this fill: "a bound on the transverse deviation under
 tangential motion in terms of ‖C‖, ‖B⊥‖, the input and K⊥, together with
-the actuation condition stated with CLAIM-589's three objects".
+the actuation condition stated with [CLAIM-589](CLAIM-589.md)'s three objects".

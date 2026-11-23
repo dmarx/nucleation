@@ -26,8 +26,8 @@ rests_on:
 - CLAIM-347
 - CLAIM-560
 summary: 'A gap fill: a gap of the manuscript governance-of-possibility, §2.4 (GA1),
-  which identifies the history-indexed complex of CLAIM-347 with the configuration-indexed
-  filtrations of CLAIM-560 "without proof". As the manuscript states it the identification
+  which identifies the history-indexed complex of [CLAIM-347](CLAIM-347.md) with the configuration-indexed
+  filtrations of [CLAIM-560](CLAIM-560.md) "without proof". As the manuscript states it the identification
   holds only under three conditions, which the title names; two counterexamples
   show what fails without them. Checked by enumeration with python3 -I. The wording
   is the assistant''s (Claude, in this session); adopting it is the owner''s call.'
@@ -37,9 +37,9 @@ summary: 'A gap fill: a gap of the manuscript governance-of-possibility, §2.4 (
 
 ## The derivation
 
-Take CLAIM-560's architecture: configurations Q, moves between them, a
+Take [CLAIM-560](CLAIM-560.md)'s architecture: configurations Q, moves between them, a
 capacity requirement r held at each moment, Q(B) = {q : r(q) ≤ B}, and a
-start q₀ ∈ Q(B). Take CLAIM-347's complex indexed by horizon and budget,
+start q₀ ∈ Q(B). Take [CLAIM-347](CLAIM-347.md)'s complex indexed by horizon and budget,
 𝒦(𝒪; D, H, B) = {S ⊆ D : ℛ(𝒪; H, B) ∩ ⋂_{i∈S} A_i ≠ ∅}. Three conditions:
 
 1. **Demands on the configuration reached.** Each demand i is a condition on
@@ -58,16 +58,16 @@ moves. So
 
   𝒦(𝒪; D, H, B) = {S : Reach_H(B) ∩ ⋂_{i∈S} C_i ≠ ∅},
 
-which is CLAIM-560's K(B) with Q(B) replaced by Reach_H(B). Since
+which is [CLAIM-560](CLAIM-560.md)'s K(B) with Q(B) replaced by Reach_H(B). Since
 Reach_H(B) ⊆ Q(B), the history complex is always contained in K(B). They
 are equal when every face of K(B) is met by a reachable configuration, and
-they differ exactly where CLAIM-560's "feasible and unreachable" bites.
+they differ exactly where [CLAIM-560](CLAIM-560.md)'s "feasible and unreachable" bites.
 For H at least the number of configurations, Reach_H(B) is q₀ with
-everything (q₀, q) joins in CLAIM-560's R(B).
+everything (q₀, q) joins in [CLAIM-560](CLAIM-560.md)'s R(B).
 
 ## Where it fails
 
-- **Without holding.** CLAIM-560's row s₁ — s₂ — s₃ with r = (1, 3, 1),
+- **Without holding.** [CLAIM-560](CLAIM-560.md)'s row s₁ — s₂ — s₃ with r = (1, 3, 1),
   B = 3, H = 2 and no hold: the histories are s₁s₂s₁ and s₁s₂s₃. A demand
   met only at s₂ is a face of the restricted configuration complex (s₂ is
   reachable within 2) and not of the history complex (no history ends
@@ -76,11 +76,11 @@ everything (q₀, q) joins in CLAIM-560's R(B).
   "at some time in s₁" and "at some time in s₃": the history s₁s₂s₃ meets
   both, and no configuration meets both, so {1, 3} is a face of the history
   complex and not of the configuration complex. Demands on a whole history,
-  such as persistence throughout H (CLAIM-347's note of 2026-11-04) or a
+  such as persistence throughout H ([CLAIM-347](CLAIM-347.md)'s note of 2026-11-04) or a
   response by a deadline, are not conditions on a configuration at all.
 - **A cumulative budget.** If B bounds a sum along the history rather than
   what is held at each moment, reachability within B is not closed under
-  composition (CLAIM-563), and the restriction has to be to histories.
+  composition ([CLAIM-563](CLAIM-563.md)), and the restriction has to be to histories.
 - **A policy.** If ℛ is restricted to the histories the organization's
   actual policy produces, the restriction is to the configurations reached
   under that policy, not to all that are reachable.
@@ -100,7 +100,7 @@ some time, {1, 3} is a history face only.
 
 - Not that the configuration formulation can replace the history one: for
   the manuscript's deadline and persistence demands it cannot.
-- Nothing for several resources (CLAIM-585).
+- Nothing for several resources ([CLAIM-585](CLAIM-585.md)).
 
 ## Gap filled
 
