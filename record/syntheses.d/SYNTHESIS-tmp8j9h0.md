@@ -318,16 +318,16 @@ Each item gives the join, what no component states, and its verdict under
   first-order rule k/(s + k) can only approximate the per-frequency optimum,
   which is an arbitrary function of frequency set by the two spectra, so one
   adaptation rate per relation is in general not the optimum, is not stated
-  beyond CLAIM-tmppqdnv's "neither the slowest nor the fastest adaptation is
+  beyond [CLAIM-tmppqdnv](../claims.d/CLAIM-tmppqdnv.md)'s "neither the slowest nor the fastest adaptation is
   optimal in general". *Verdict: fails, a recap.* It follows in one step
-  from CLAIM-tmppqdnv's own formula (a one-parameter family against an
+  from [CLAIM-tmppqdnv](../claims.d/CLAIM-tmppqdnv.md)'s own formula (a one-parameter family against an
   arbitrary target), and adds no case, derivation or prediction the claim
   leaves open.
-- **The manuscript's §4.1: CLAIM-tmppa4rs read for an institution.** That
+- **The manuscript's §4.1: [CLAIM-tmppa4rs](../claims.d/CLAIM-tmppa4rs.md) read for an institution.** That
   revising an institution's classification of noise pays where a new demand
   arrives through a class of signal it does not attend to, and nowhere else,
-  is not stated: CLAIM-tmppa4rs is shown for a simulated forager. *Verdict:
-  fails, a carry.* No institutional case is held; QUESTION-tmp5co54 holds
+  is not stated: [CLAIM-tmppa4rs](../claims.d/CLAIM-tmppa4rs.md) is shown for a simulated forager. *Verdict:
+  fails, a carry.* No institutional case is held; [QUESTION-tmp5co54](../questions.d/QUESTION-tmp5co54.md) holds
   the question of how such a classification is revised.
 
 ## Cross-line audit ([ADR-129](../decisions.d/ADR-129.md))
