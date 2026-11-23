@@ -1,0 +1,104 @@
+---
+status: Read
+paper: LIT-tmpuwnm5
+title: 'Exposure to childhood maltreatment is associated with specific epigenetic patterns in sperm'
+version: 1
+history:
+- version: 1
+  date: '2026-11-23'
+  note: >-
+    Read by the lead run of 2026-11-23 from the published version (CC BY
+    4.0), served as JATS XML by Europe PMC's REST full-text route
+    (PMC12092256); the documented interface was the route (ADR-101).
+    Read: the abstract, introduction, methods, results, discussion and
+    conclusions. Not read: the supplementary tables and figures. Citations
+    are by section.
+date: '2026-11-23'
+summary: >-
+  A nested case-control study in the FinnBrain Birth Cohort. Fathers'
+  childhood maltreatment was rated on the Trauma and Distress Scale during
+  their partner's pregnancy (2011–2015), and sperm was collected in
+  2019–2021. High-maltreatment sperm had 3 differentially methylated
+  regions (55 men, RRBS) and 47 miRNAs, 21 tRNA-derived small RNAs and 4
+  piRNA clusters at different levels (30 men, small RNA-seq), among them
+  lower miR-34c-5p, as in an earlier study. The differences mostly survive
+  adjustment for semen quality, age, BMI, smoking, alcohol and current
+  symptoms. No offspring outcome is linked to the sperm.
+---
+<!-- inactive-ok-file: CLAIM-tmp3qsdg — filed by the lead run of 2026-11-23 -->
+
+# NOTE-tmpv0ug9: Exposure to childhood maltreatment is associated with specific epigenetic patterns in sperm
+
+## Contribution
+
+The largest sample so far linking men's childhood maltreatment to their
+sperm epigenome: both DNA methylation and small RNAs, in men of proven
+fertility.
+
+## Key results
+
+- **Design** (Methods): cases had TADS ≥ 39 and controls ≤ 10. The study
+  is "a (nested) case-control study", cross-sectional, with "no a priori
+  hypotheses".
+- **Small RNAs** (Results): 29 miRNAs, 15 tsRNAs and 3 piRNA clusters were
+  lower in the high-TADS group, and 18 miRNAs, 6 tsRNAs and 1 piRNA
+  cluster were higher (log2FC beyond ±1, adjusted p < 0.05; 14 against 16
+  men).
+- **Replication** (Results): lower miR-34c-5p in the high group (W = 140,
+  p = 0.017), as Dickson et al. reported. miR-449a did not replicate.
+  Partial r for miR-34c-5p against TADS was −0.528 with three covariates,
+  and −0.420 (p = 0.073) with all of them.
+- **Methylation** (Results): "3 differentially methylated regions (DMRs)"
+  near CRTC1, WFIKKN1 and GBX2, 19–21% lower in the high group
+  (Discussion). Pyrosequencing of a selection of regions agreed with
+  the RRBS result.
+- **The authors' limit** (Discussion): "we acknowledge that epigenetic
+  inheritance per se was not addressed in this study, and that there are
+  many factors that limit the possibilities for demonstrating epigenetic
+  inheritance in humans".
+- **Stability is assumed, not measured** (Strengths and limitations):
+  "Measurement error and test-retest reliability of sperm epigenome were
+  not quantified".
+
+## Assumptions
+
+- Retrospective self-report of childhood maltreatment is valid enough to
+  split extreme groups.
+- The marks found in sperm decades after the exposure persist from it.
+  The study has one sample per man and cannot show when they arose.
+- Covariates measured at sperm collection stand in for the lifestyle
+  paths from maltreatment to the sperm.
+
+## Concepts
+
+- **Sperm-borne small non-coding RNAs** (miRNAs, tsRNAs, piRNAs), which
+  rodent work makes the best candidate carriers. Some, such as
+  miR-34c, are absent from oocytes and delivered at fertilization.
+- **Step one of a germline route**: the exposure marks the gamete. Steps
+  two and three, that the mark reaches the embryo and that it causes an
+  offspring effect, are not tested.
+
+## Bearing on the record
+
+- **[QUESTION-297](../questions.d/QUESTION-297.md), the germline route** (evidence for one step). In men, a
+  childhood exposure goes with sperm marks years later. This answers part
+  of Horsthemke's second step, identifying a factor in purified germ cells
+  ([THEORY-1618](../theory.d/THEORY-1618.md)), at the level of association. It does not separate
+  routes. It shows that a paternal germline route has something to carry.
+- **[CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md)** (ground). The paternal design has its molecular
+  half. The missing link is the same men's children, whom the FinnBrain
+  cohort holds, with rearing still confounded unless the father did not
+  raise the child.
+- **Jawaid and Mansuy** ([THEORY-1587](../theory.d/THEORY-1587.md); a parallel). The mouse result that
+  sperm RNA carries paternal stress has, in men, a correlational
+  counterpart in the same molecules.
+
+## Limitations
+
+- Small samples (55 and 30), extreme-group selection and a single
+  cross-sectional sample per man.
+- Exposure and marks are separated by decades of life, so a lifestyle or
+  health path from maltreatment to sperm is not excluded by the measured
+  covariates.
+- The discussion speculates about offspring brain development from the
+  genes near the DMRs. That step is not shown, and the authors say so.

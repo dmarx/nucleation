@@ -229,3 +229,12 @@ belts now") and impartial valuation of far-future lives, not what grounds
 the obligation. Its link of future-self continuity to that felt obligation
 is correlational (r = .21), and two pre-registered experiments did not
 reliably move it.
+
+## Note of 2026-11-23: [LEAD-156](../leads.d/LEAD-156.md)'s run, no bearing found
+
+[LEAD-156](../leads.d/LEAD-156.md) advances this question through its last work, Ord's *The
+Precipice* ([LIT-1678](../literature.d/LIT-1678.md)), which the run did not attempt. The five works the
+run read are on routes of inherited trauma: donor-gamete, three-generation
+and sperm studies, and a scoping review. None says anything about what
+the living owe far-future people. Nothing is filed against this question.
+The run's results are in [QUESTION-297](QUESTION-297.md)'s note of today.
