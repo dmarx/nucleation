@@ -119,8 +119,8 @@ Neither happened.
 
 This reading's "What this does not say" leaves open whether the sheaf test
 is necessary as well as sufficient, "so 0.148% may be a lower bound". A
-comparison of the two routes on the BERT figures (CASE-tmpskejj,
-CLAIM-tmptzmky, demonstrated) answers this for the BERT models. It does
+comparison of the two routes on the BERT figures ([CASE-tmpskejj](../cases.d/CASE-tmpskejj.md),
+[CLAIM-tmptzmky](../claims.d/CLAIM-tmptzmky.md), demonstrated) answers this for the BERT models. It does
 not answer it for Vallée et al.'s criterion in general.
 
 - **Both criteria are thresholds on signalling alone.** On the PR-prism
@@ -136,5 +136,5 @@ not answer it for Vallée et al.'s criterion in general.
 
 This is a qualification, not a change to the reading. It strengthens the
 last clause of the title: both verdicts depend only on the three referent
-choices, and they differ in where they draw the line. CLAIM-tmprfjkk
+choices, and they differ in where they draw the line. [CLAIM-tmprfjkk](../claims.d/CLAIM-tmprfjkk.md)
 draws the consequence that these data cannot show which line is right.

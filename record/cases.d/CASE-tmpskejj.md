@@ -31,7 +31,7 @@ draws_on:
 - THEORY-722
 
 summary: >-
-  Run for LEAD-191. LIT-844's 51,966,480 PR-like models of the binary
+  Run for [LEAD-191](../leads.d/LEAD-191.md). [LIT-844](../literature.d/LIT-844.md)'s 51,966,480 PR-like models of the binary
   3-cycle were to be reanalysed by the sheaf test it applies (CF > 2|M|·SF)
   and by CbD 2.0. The per-instance BERT probabilities are not published, so
   the full reanalysis was not possible. Linear programs confirm that the
@@ -49,15 +49,15 @@ summary: >-
 
 ## What was done
 
-LEAD-191 asks for LIT-844's data to be reanalysed by two routes and the
-verdicts compared. CLAIM-037's note of 2026-10-29 names that comparison as
+[LEAD-191](../leads.d/LEAD-191.md) asks for [LIT-844](../literature.d/LIT-844.md)'s data to be reanalysed by two routes and the
+verdicts compared. [CLAIM-037](../claims.d/CLAIM-037.md)'s note of 2026-10-29 names that comparison as
 its promotion condition. The two routes:
 
-- **The sheaf route that allows signalling.** This is the one LIT-844
+- **The sheaf route that allows signalling.** This is the one [LIT-844](../literature.d/LIT-844.md)
   applies: "a criterion of contextuality for signalling models that reads
-  CF > 2|M| SF" (§3a). LIT-844 takes it from Vallée et al., which the
+  CF > 2|M| SF" (§3a). [LIT-844](../literature.d/LIT-844.md) takes it from Vallée et al., which the
   record has not read.
-- **Contextuality-by-Default 2.0** (LIT-831).
+- **Contextuality-by-Default 2.0** ([LIT-831](../literature.d/LIT-831.md)).
 
 Everything is in `scratch/studies/lead-191/`: `routes.py`,
 `test_routes.py`, `study.py`, `results.json` and a README. The run is CPU
@@ -65,7 +65,7 @@ only and takes about 25 seconds; 249 tests pass.
 
 ### The data
 
-LIT-844 publishes three kinds of figure:
+[LIT-844](../literature.d/LIT-844.md) publishes three kinds of figure:
 
 - aggregate counts (§6b, §6c, §8);
 - (SF, Δ) for 15 random instances (Table 1) and 10 similar-noun
@@ -87,20 +87,20 @@ the exact divergence count, and both verdicts on the 25 printed instances.
 
 ### The tests, as linear programs
 
-The scenario is LIT-844's binary 3-cycle with the support of the PR prism.
+The scenario is [LIT-844](../literature.d/LIT-844.md)'s binary 3-cycle with the support of the PR prism.
 A model is ε = (ε1, ε2, ε3), with ε_i = 2P_i(O1) − 1. The programs compute
 the following, and each was checked against a closed form on 120 random
 models:
 
-- **CF and SF** by LIT-844's definitions (3.1) and (3.3). CF ≡ 1, as in
+- **CF and SF** by [LIT-844](../literature.d/LIT-844.md)'s definitions (3.1) and (3.3). CF ≡ 1, as in
   Proposition 3.3, and SF = max|ε_i|, as in Proposition 3.4. The corrected
   criterion therefore holds iff SF < 1/6.
 - **CbD 2.0 noncontextuality**: whether the six variables R_q^c admit a
   coupling with the model's bunches and multimaximally coupled
   connections. Each connection here has two binary variables, so
-  multimaximal is maximal, and CbD 2.0 agrees with CbD 1.0 (THEORY-722).
+  multimaximal is maximal, and CbD 2.0 agrees with CbD 1.0 ([THEORY-722](../theory.d/THEORY-722.md)).
   The program's verdict is Δ < 2 for contextuality, with
-  Δ = |ε1 − ε2| + |ε2 − ε3| + |ε3 + ε1|. This is LIT-844's CNT1 = 2 − Δ.
+  Δ = |ε1 − ε2| + |ε2 − ε3| + |ε3 + ε1|. This is [LIT-844](../literature.d/LIT-844.md)'s CNT1 = 2 − Δ.
 - **Two further sheaf-side readings**, the assistant's own:
   - *ns-part*: the no-signalling part of a minimal-SF decomposition is
     contextual. This holds iff SF < 1, since that part is always the PR
@@ -175,13 +175,13 @@ show:
 - **anything about individual instances beyond the 25 printed**;
 - **which verdict is right about language.** The support is fixed by the
   schema, and both verdicts are thresholds on how BERT's three choices
-  signal (NOTE-648, THEORY-623).
+  signal ([NOTE-648](../notes.d/NOTE-648.md), [THEORY-623](../theory.d/THEORY-623.md)).
 
 It shows the following. The 0.148%-against-71.1% gap is the gap between a
 threshold on SF and a threshold on Δ. The sheaf figure is the verdict of a
 sufficient test, and two exact sheaf-side readings give different figures.
-CLAIM-tmptzmky states the demonstrated part. CLAIM-tmprfjkk,
-CLAIM-tmprq0nb and CLAIM-tmpzvz98 are three alternative readings of which
+[CLAIM-tmptzmky](../claims.d/CLAIM-tmptzmky.md) states the demonstrated part. [CLAIM-tmprfjkk](../claims.d/CLAIM-tmprfjkk.md),
+[CLAIM-tmprq0nb](../claims.d/CLAIM-tmprq0nb.md) and [CLAIM-tmpzvz98](../claims.d/CLAIM-tmpzvz98.md) are three alternative readings of which
 verdict is right.
 
 The nearest-NS results are LP samples, not proofs. Vallée et al.'s own

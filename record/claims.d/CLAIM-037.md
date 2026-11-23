@@ -161,29 +161,29 @@ comparison of a sheaf route with CbD 2.0 on one signalling data set.
 ## Note of 2026-11-23: the comparison its promotion names, run
 
 The comparison this claim's note of 2026-10-29 asks for was run on
-LIT-844's published figures. The per-instance probabilities are not
+[LIT-844](../literature.d/LIT-844.md)'s published figures. The per-instance probabilities are not
 published, so the 51,966,480 instances could not be reanalysed one by one
-(CASE-tmpskejj).
+([CASE-tmpskejj](../cases.d/CASE-tmpskejj.md)).
 
-**What the comparison shows** (CLAIM-tmptzmky, demonstrated). On
-LIT-844's support, the corrected sheaf test is the signalling threshold
+**What the comparison shows** ([CLAIM-tmptzmky](CLAIM-tmptzmky.md), demonstrated). On
+[LIT-844](../literature.d/LIT-844.md)'s support, the corrected sheaf test is the signalling threshold
 SF < 1/6 and CbD 2.0 is Δ < 2. The sheaf set lies inside the CbD set, so
 the 36,861,830 diverging instances are all CbD-contextual and not
 sheaf-contextual. Read as "the no-signalling part is contextual", the
 sheaf route is SF < 1 instead, and calls at least 71.1% contextual.
-Either way, the sheaf test LIT-844 applies is a sufficient test on these
+Either way, the sheaf test [LIT-844](../literature.d/LIT-844.md) applies is a sufficient test on these
 data, not an exact one. So this claim's defeat condition, a sheaf test
 that handles inconsistent connectedness "without loss", is not met.
 
 **What it means for "needs".** Three alternative readings are filed. The
 owner chooses; the lead worker leans to the first.
 
-- CLAIM-tmprfjkk: the data cannot say which verdict is right, because
+- [CLAIM-tmprfjkk](CLAIM-tmprfjkk.md): the data cannot say which verdict is right, because
   their support is fixed. On this reading the promotion condition is not
   met, and a data set with a measured support is needed.
-- CLAIM-tmprq0nb: only CbD 2.0 gives a single verdict here. It
+- [CLAIM-tmprq0nb](CLAIM-tmprq0nb.md): only CbD 2.0 gives a single verdict here. It
   corroborates this claim, in the form "only CbD gives a verdict".
-- CLAIM-tmpzvz98: on the reading of signalling as error, the sheaf figure
+- [CLAIM-tmpzvz98](CLAIM-tmpzvz98.md): on the reading of signalling as error, the sheaf figure
   is the defensible one, and "needs" concedes to "can handle". It objects
   to this claim.
 
