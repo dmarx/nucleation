@@ -37,9 +37,9 @@ grounds:
 - CASE-tmpc7lbu
 - THEORY-234
 summary: >-
-  One reading of CASE-tmpc7lbu, offered as an answer to QUESTION-149 for two
+  One reading of [CASE-tmpc7lbu](../cases.d/CASE-tmpc7lbu.md), offered as an answer to [QUESTION-149](../questions.d/QUESTION-149.md) for two
   released models. Both meet the diversity condition exactly: the final
-  layer norm's offset is nonzero (CLAIM-tmp41bjo), so F = ℝᵈ, and the
+  layer norm's offset is nonzero ([CLAIM-tmp41bjo](CLAIM-tmp41bjo.md)), so F = ℝᵈ, and the
   unembeddings have full rank, so G = ℝᵈ. Then M = N = ℝᵈ, Theorem 14's
   containments hold for any Γ, and by Corollary 6 any model inducing exactly
   the same distribution at the same dimension is an invertible linear
@@ -54,21 +54,21 @@ summary: >-
 
 ## The claim
 
-THEORY-234 holds, for softmax next-token predictors, that a relational
+[THEORY-234](../theory.d/THEORY-234.md) holds, for softmax next-token predictors, that a relational
 linear property is shared by every model inducing the same distribution
 when Γ ⊆ N and Γ_q ⊆ M. Under the diversity condition, F = G = ℝᵈ, so
-M = N = ℝᵈ and the containments hold for every Γ (NOTE-746).
+M = N = ℝᵈ and the containments hold for every Γ ([NOTE-746](../notes.d/NOTE-746.md)).
 
 Both models meet the diversity condition. The F half follows from
-CLAIM-tmp41bjo with the measured offsets (c = −1.82 in GPT-2 small,
+[CLAIM-tmp41bjo](CLAIM-tmp41bjo.md) with the measured offsets (c = −1.82 in GPT-2 small,
 −2.4e-4 in Pythia-70m, each constant over contexts to within 4e-7). The G
 half is a rank computation: the centred unembeddings have full rank, with
 smallest relative singular value 9e-4 in GPT-2 small and 0.06 in
 Pythia-70m.
 
-So for the three relations of CASE-tmpc7lbu, and for any other, whatever
+So for the three relations of [CASE-tmpc7lbu](../cases.d/CASE-tmpc7lbu.md), and for any other, whatever
 relational linearity these models have is a property of their distribution
-in the theorem's sense. QUESTION-149's own test, "Γ_q has a substantial
+in the theorem's sense. [QUESTION-149](../questions.d/QUESTION-149.md)'s own test, "Γ_q has a substantial
 component in F outside M", cannot come out positive here, because F
 outside M is empty.
 
@@ -78,7 +78,7 @@ outside M is empty.
   and the held-out fits run from R² 0.82 (city in country, GPT-2 small) to
   0.12 (country language, Pythia-70m).
 - Anything about models whose distributions are close to these but not
-  equal. CLAIM-tmpdltg3 is the reading that puts the weight there.
+  equal. [CLAIM-tmpdltg3](CLAIM-tmpdltg3.md) is the reading that puts the weight there.
 - That this is informative about relations in particular. The containments
   hold for every subspace, which is why the assistant reads the result as
   showing where the question's content is not.

@@ -265,9 +265,9 @@ physics, which says laws should be coordinate-free.
 ## Note of 2026-11-23: the open question on trained models, measured
 
 The first open question above was measured in GPT-2 small and Pythia-70m
-for three factual relations (CASE-tmpc7lbu). Both models meet the
+for three factual relations ([CASE-tmpc7lbu](../cases.d/CASE-tmpc7lbu.md)). Both models meet the
 diversity condition exactly, so the trained-model question has a trivial
-yes for them (CLAIM-tmp58rtz). The final layer norm's bias is what makes F
-the whole space (CLAIM-tmp41bjo). At a tolerance fixed in advance the
-containments fail, and the verdict turns on the tolerance (CLAIM-tmpdltg3).
+yes for them ([CLAIM-tmp58rtz](../claims.d/CLAIM-tmp58rtz.md)). The final layer norm's bias is what makes F
+the whole space ([CLAIM-tmp41bjo](../claims.d/CLAIM-tmp41bjo.md)). At a tolerance fixed in advance the
+containments fail, and the verdict turns on the tolerance ([CLAIM-tmpdltg3](../claims.d/CLAIM-tmpdltg3.md)).
 That points to the second open question, approximate equivalence.

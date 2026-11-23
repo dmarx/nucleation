@@ -55,15 +55,15 @@ and the ĥ span the mean-zero hyperplane (as they generically do), the f
 span the whole space: the differences between them span diag(γ)1^⊥, which
 is u^⊥, and any single f adds the direction off it.
 
-So the F half of the diversity condition (NOTE-746, Definition 1) is settled
+So the F half of the diversity condition ([NOTE-746](../notes.d/NOTE-746.md), Definition 1) is settled
 for such a model by one number computed from its weights, and the
 component that makes F full is constant over contexts. Its effect on the
 logits is c·g(y)ᵀn with n = u/|u| and c = c′/|u|, a per-token bias that no
-context changes. In NOTE-746's model, which has no output bias, this is
+context changes. In [NOTE-746](../notes.d/NOTE-746.md)'s model, which has no output bias, this is
 how such a bias appears.
 
 In GPT-2 small, c = −1.82 against |f| of about 190. In Pythia-70m,
-c = −2.4e-4 against |f| of about 440 (CASE-tmpc7lbu).
+c = −2.4e-4 against |f| of about 440 ([CASE-tmpc7lbu](../cases.d/CASE-tmpc7lbu.md)).
 
 ## What it does not say
 

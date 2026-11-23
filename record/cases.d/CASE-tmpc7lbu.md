@@ -25,7 +25,7 @@ bears_on:
 - QUESTION-149
 - QUESTION-027
 summary: >-
-  LEAD-073 asked for NOTE-746's M, N and Γ_q in released models, for
+  [LEAD-073](../leads.d/LEAD-073.md) asked for [NOTE-746](../notes.d/NOTE-746.md)'s M, N and Γ_q in released models, for
   relations where linearity has been reported. Forward passes of GPT-2 small
   and Pythia-70m, in numpy on CPU, gave the final-layer-norm output f(x) over
   about 3,200 contexts, and the unembeddings gave G. Exactly, both models meet
@@ -49,10 +49,10 @@ summary: >-
 
 ## The case
 
-**What was asked.** NOTE-746's open question, carried by QUESTION-149: do
+**What was asked.** [NOTE-746](../notes.d/NOTE-746.md)'s open question, carried by [QUESTION-149](../questions.d/QUESTION-149.md): do
 trained language models satisfy Γ ⊆ N and Γ_q ⊆ M, the conditions under
-which Theorem 14 of Marconato et al. (THEORY-234) makes a relational linear
-property shared by every model inducing the same distribution? QUESTION-149
+which Theorem 14 of Marconato et al. ([THEORY-234](../theory.d/THEORY-234.md)) makes a relational linear
+property shared by every model inducing the same distribution? [QUESTION-149](../questions.d/QUESTION-149.md)
 asks for a tolerance stated in advance.
 
 **Models and access.** GPT-2 small (d = 768, vocabulary 50,257) and
@@ -65,7 +65,7 @@ give 2.64 and 3.25 nats per token, in the range expected of these models,
 and they pass tests of causality on tiny random models. No weights are
 committed.
 
-**Quantities** (geometry.py, tested on NOTE-746's B.5 counterexample, on
+**Quantities** (geometry.py, tested on [NOTE-746](../notes.d/NOTE-746.md)'s B.5 counterexample, on
 Lemma 2's identity f(x)ᵀg₀(y) = (P_M f(x))ᵀ P_N g₀(y), and on recovery of
 a known affine map).
 
@@ -101,7 +101,7 @@ cosines above 1e-3; S ⊆ T passes when the worst direction of S has at most
 and 6e-9 (Pythia), so f lies in β + diag(γ)1^⊥. Its component along
 n ∝ 1/γ is the same for every context: −1.82 in GPT-2 (|f| about 190) and
 −2.4e-4 in Pythia (|f| about 440), with standard deviation over contexts
-of 3e-8 and 4e-7. Both are nonzero, so F is the whole space (CLAIM-tmp41bjo).
+of 3e-8 and 4e-7. Both are nonzero, so F is the whole space ([CLAIM-tmp41bjo](../claims.d/CLAIM-tmp41bjo.md)).
 The centred unembeddings have full rank in both models (smallest singular
 value 9e-4 of the largest in GPT-2, 0.06 in Pythia). So the diversity
 condition holds, M = N = ℝᵈ, and the containments hold for every Γ.
@@ -158,10 +158,10 @@ context through directions that move the logits.
 
 - The exact answer for these two models: Theorem 14's containments hold for
   every relation, because the diversity condition does. That is
-  CLAIM-tmp58rtz's reading.
+  [CLAIM-tmp58rtz](../claims.d/CLAIM-tmp58rtz.md)'s reading.
 - That the answer at finite precision depends on a tolerance the theorem
   does not supply, and fails at the one stated in advance. That is
-  CLAIM-tmpdltg3's reading. The two readings are alternatives, filed for the
+  [CLAIM-tmpdltg3](../claims.d/CLAIM-tmpdltg3.md)'s reading. The two readings are alternatives, filed for the
   owner's choice.
 - A point of method for anyone repeating it. Γ_q estimated by regression on
   the subject representations lies in their centred span, so Γ_q ⊆ M passes

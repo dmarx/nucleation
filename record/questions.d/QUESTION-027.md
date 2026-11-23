@@ -214,11 +214,11 @@ known" calls answered, and not on decisions outside the observed probes.
 
 ## Note of 2026-11-23: the measurement a lead asked for
 
-LEAD-073, filed for this question, measured NOTE-746's M, N and Γ_q in
-GPT-2 small and Pythia-70m (CASE-tmpc7lbu). Like the reading itself, it
+[LEAD-073](../leads.d/LEAD-073.md), filed for this question, measured [NOTE-746](../notes.d/NOTE-746.md)'s M, N and Γ_q in
+GPT-2 small and Pythia-70m ([CASE-tmpc7lbu](../cases.d/CASE-tmpc7lbu.md)). Like the reading itself, it
 bears on the unrestricted, in-probe form only, as the note of 2026-10-14
 says. Exactly, both models meet the diversity condition, so every linear
-property is shared across the exact equivalence class (CLAIM-tmp58rtz).
+property is shared across the exact equivalence class ([CLAIM-tmp58rtz](../claims.d/CLAIM-tmp58rtz.md)).
 Whether that survives for nearly equivalent models depends on a tolerance
-(CLAIM-tmpdltg3). Nothing in it concerns decisions outside the observed
+([CLAIM-tmpdltg3](../claims.d/CLAIM-tmpdltg3.md)). Nothing in it concerns decisions outside the observed
 probes. The question stays open.

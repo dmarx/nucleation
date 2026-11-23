@@ -55,8 +55,8 @@ structure in single models cannot settle it.
 
 ## Note of 2026-11-23: a measurement in two small released models
 
-LEAD-073 ran the measurement this question asks for, in GPT-2 small and
-Pythia-70m, for three factual relations (CASE-tmpc7lbu), with a tolerance
+[LEAD-073](../leads.d/LEAD-073.md) ran the measurement this question asks for, in GPT-2 small and
+Pythia-70m, for three factual relations ([CASE-tmpc7lbu](../cases.d/CASE-tmpc7lbu.md)), with a tolerance
 committed before the run. Exactly, both models meet the diversity
 condition, so M = N = ℝᵈ and Γ ⊆ N and Γ_q ⊆ M hold for any relation.
 "Γ_q has a substantial component in F outside M" cannot occur there,
@@ -64,7 +64,7 @@ because F outside M is empty. At the stated tolerance the containments
 fail, for all three relations in GPT-2 small and narrowly in Pythia-70m,
 and the verdict moves with the tolerance.
 
-Two readings are filed as alternatives. CLAIM-tmp58rtz offers a yes for
-these models, trivially. CLAIM-tmpdltg3 holds that the question's content
+Two readings are filed as alternatives. [CLAIM-tmp58rtz](../claims.d/CLAIM-tmp58rtz.md) offers a yes for
+these models, trivially. [CLAIM-tmpdltg3](../claims.d/CLAIM-tmpdltg3.md) holds that the question's content
 lies in approximate equivalence, where the measurement does not settle it.
 The question stays open; no status was changed.
