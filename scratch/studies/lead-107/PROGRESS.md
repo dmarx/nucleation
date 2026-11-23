@@ -32,7 +32,14 @@ split) and CASE-372 (LEAD-122, filing census by contributor).
 ## Done
 
 - Codebook, script, tests (10 pass), results v1 and v2, audit, README.
+- Filed: CASE-tmp4niuz; CLAIM-tmp9w3p9 (thesis); CLAIM-tmpc5mmp (counter,
+  alternative A) and CLAIM-tmp49ilj (granted, alternative B, leaned to);
+  dated notes on LEAD-107, CLAIM-180, CLAIM-182, CLAIM-191; changelog
+  fragment record/changelog.d/lead-107.md.
 
 ## Next
 
-- File the CASE, the CLAIMs (alternatives), dated notes, changelog fragment.
+- Nothing for this worker. Remaining for a separate lead / the owner: a
+  verbatim transcript coded for every restatement (recognised or not) with
+  its earlier statement; a human second coder; a blind direction rating for
+  CLAIM-191; the owner's choice between the two readings.
