@@ -10,7 +10,19 @@
 
 ## Done
 
+- Searched Europe PMC REST (2026-11-23, no email): human sperm/germline + trauma; IVF/donor designs; Rice/Thapar assisted-conception design; Syrian refugees, Finnish evacuees, Yehuda paternal/maternal PTSD. None of the candidates is held in `record/literature.d`.
+- Retried registered works (2026-11-23):
+  - LIT-1715 (PMC6127768): Europe PMC fullTextXML HTTP 500; E-utilities efetch db=pmc returns front matter with "The publisher of this article does not allow downloading of the full text in XML form." Stopped. Stays Unfetched.
+  - LIT-1692 (PMID 26410355) and LIT-1764 (PMID 16391557): Europe PMC lists no PMC copy. The publisher copies were refused on 2026-10-29 (Cloudflare; Nature sign-in); not retried (same host). Stay Unfetched.
+- Fetched full text:
+  - Rice et al. 2010, PMC2954294 (E-utilities; EPMC REST gave 500) — IVF design, prenatal stress.
+  - Mulligan et al. 2025, PMC11868390 (E-utilities; EPMC REST gave 500) — Syrian refugees, germline exposure.
+  - Zhou & Ryan 2023, PMC10454883 (EPMC REST) — scoping review of intergenerational epigenetic transmission in humans.
+  - Tuulari et al. 2025, PMC12092256 (EPMC REST) — childhood maltreatment and sperm epigenetics.
+- Not reached: Thapar & Rice 2021 (PMC7919395): EPMC 500; E-utilities says publisher disallows XML. Santavirta et al. 2018 (PMC5833542): EPMC 500.
+
 ## Next
 
-- Search Europe PMC and E-utilities.
-- Retry the three registered works.
+- Read the four texts; file LIT, NOTE, THEORY each.
+- File the verdict claims; dated notes; curation; changelog.
+- Second part of the lead (distress against group identification): search.
