@@ -435,3 +435,24 @@ not reach it. It is not stated on the record either: no component states
 that an industrial ecosystem meets [CLAIM-tmp37le7](../claims.d/CLAIM-tmp37le7.md)'s conditions, and the
 record holds no industrial case. The decline stands for the pseudo-self
 reading.
+
+## Note of 2026-11-23: the scope of the decline of "an ecology of regulatory perspectives"
+
+<!-- inactive-ok-block: CLAIM-tmp4h9rc CLAIM-tmpz8q70 SYNTHESIS-111 — Proposed; the owner's principle, one of its instances, and the account that maps them -->
+At the coordinator's request of 2026-11-23, while the manuscript
+governance-of-possibility was being revised. This account's "Not stated on
+the record" declines A33 §7's "an ecology of regulatory perspectives": its
+components are CLAIM-342 and CLAIM-403, and beyond them it is a label. That
+decline tested a label against two entries, and it was made before the
+owner's correction-coupling principle existed (CLAIM-tmp4h9rc, filed
+2026-11-23). The manuscript's join JD6 is a different link. It carries that
+principle and its model results (CLAIM-tmpvqmwc, CLAIM-tmp5wozo,
+CLAIM-tmpxoxys, CLAIM-tmpz8q70), with CLAIM-404, to a regulator, and gives
+each condition a regulatory reading: protected evidence as independent
+measurement and mandatory disclosure, authority's coupling as the return
+channel from the regulated, scoring as relevance against agreement. So the
+decline does not reach JD6. JD6 is mapped, with its own verdict, in
+SYNTHESIS-111 at version 3, the account that integrates the principle and
+its instances. It is not stated on the record there either. The decline
+stands for A33 §7's label. The note is the assistant's (Claude, in this
+session); adopting it is the owner's call.
