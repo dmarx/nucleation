@@ -211,3 +211,21 @@ contracts, and a reading of it as part of an organization's character
 (CLAIM-tmpersgx). The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
 <!-- inactive-ok-file: CLAIM-719 CLAIM-tmpersgx — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A48 §§7–8
+
+<!-- inactive-ok-file: LIT-tmpdaunm CLAIM-tmpa61rf — Deferred or Proposed; registered or filed from A48 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+
+A48 cites this claim for "Residual authority under incomplete contracts",
+rightly, and applies it to the corporation's non-shareholders through Blair
+and Stout's team production theory (LIT-tmpdaunm, registered unread).
+Employees, suppliers, customers and communities make relationship-specific
+investments ("Firm-specific human capital", "Relationship-specific
+infrastructure", "Compatibility with accumulated work", "Place-specific
+economic opportunities") that "help constitute corporate capacity" and
+"also create vulnerability to subsequent changes in the relationship". It
+keeps the limit: "**Constitutive contribution does not automatically
+confer unrestricted governing authority, just as financial ownership does
+not automatically exhaust the grounds of legitimate standing.**" Bearing:
+an application of the claim to corporate governance, used in
+CLAIM-tmpa61rf. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

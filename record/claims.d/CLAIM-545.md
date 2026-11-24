@@ -385,3 +385,21 @@ A90 XV of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afc
 A93 §2 calls Schlager and Ostrom's split of operational from collective-choice property rights "a concrete version of what we have called **the governance of governability**". "We have called" presents the phrase as coined jointly with the owner; this claim's summary records it as A's, from "Assess SDT Coverage".
 
 No status changes.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A42 §16
+
+<!-- inactive-ok-file: CLAIM-tmp9xge5 CLAIM-tmpp91oy — Proposed; filed from U27 and A42 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+
+A42 §16, on the owner's U27 (CLAIM-tmp9xge5), carries this claim outward:
+"**Freedom can involve effective participation in determining the
+conditions under which one's activity becomes legible and consequential to
+others.**" The claim's legibility is the agent's own organization making
+distinctions legible to itself; A42 adds the legibility of the agent to
+others, and "Cooperation requires some mutual legibility. Individuation can
+require protected opacity" (CLAIM-tmpp91oy). The claim's last clause,
+"domination is another's capacity to govern those same relations, used or
+not", already covers another's hold on the outward relation where it
+governs the inward ones; A42's addition is the outward relation in its own
+right. A42 §4 restates the "used or not" ("An authority has not established
+non-domination merely because it has not abused every power available to
+it"). Bearing: an extension. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

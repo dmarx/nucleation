@@ -230,3 +230,17 @@ sphere (the household, children, money) rests on the relationship; the controlli
 discretion; and control works by "depriving them of the means needed for independence, resistance and escape" (the
 Home Office definition the review quotes), the claim's third condition. The reading is gendered and interpersonal
 where the claim is general; it illustrates without testing. Relation: none (note only).
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A42 §4
+
+<!-- inactive-ok-file: CLAIM-tmplm3mz CLAIM-tmp9xge5 — Proposed; filed from U27 and A42 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+
+A42 §4 cites the three conditions correctly and argues that "Legibility can
+intensify all three through different mechanisms": a service acquires
+information in ordinary provision, its users come to depend on it, "The
+information then enables more discriminating exercises of discretion, while
+the users' ability to refuse collection or challenge subsequent uses
+diminishes", so "The resulting relationship can become dominating even
+without continuously exercised coercion." Bearing: an extension, a route by
+which the conditions come to hold, filed with the owner's U27 in
+CLAIM-tmplm3mz and CLAIM-tmp9xge5. Relation: none (note only). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

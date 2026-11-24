@@ -105,3 +105,18 @@ penalized). It does not cover surfacing from outside at a cost, under
 which an institution can gain by finding a violation first; in
 [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) the optimum still made no inquiry at a cost of 3 and did at
 10. It says nothing of whether any institution is so scored.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A44 §10
+
+A44 §10 cites this claim, by the code it has on main, rightly, "under
+specified assumptions", though its paraphrase drops the condition that the
+hidden requirements do not otherwise come to light. It extends the pattern
+to other accountability measures: rewarding an absence of complaints
+invites making complaints hard to submit, rewarding resolved cases favours
+the easiest, rewarding successful audits discourages discriminating ones.
+And it qualifies the remedy: "rewarding discoveries can create incentives
+to manufacture or exaggerate them." CASE-tmp8mk6w's reward-for-discovery
+regime restores inquiry, but its institution cannot report a discovery it
+did not make, so it does not test that qualification. Bearing: an extension
+of the pattern, and a limit of the held study's design. The claim is
+unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

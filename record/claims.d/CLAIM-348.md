@@ -325,3 +325,38 @@ fails from 8. A16 adds that the failure is reflexively counter-normative
 the relevant failures"; "At the purely computational level" it is "a
 mismatch between the monitoring contract and the wider system
 requirements". Bearing: an illustration. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A34 §11
+
+A34 §11 gives a worked instance: "Two hypothetical services each receive
+10,000 requests from 100 equally active users. Both experience 100 failed
+requests." In Service A "Each user experiences one failure"; in Service B
+"One user experiences complete failure; all others succeed." Both show 99%
+availability. Checked with `python3 -I`: 100 requests per user, so A gives
+each user a 1% failure rate and B gives one user 100 failures of 100, and
+both 1 − 100/10,000 = 0.99. "Whether that difference matters depends on
+the requirements the service is supposed to satisfy." A34 calls this "a
+direct application of Nucleation's fibre-occlusion account", meaning this
+claim. Bearing: an illustration, cleaner than the claim's own because the
+coarse-graining is a single published metric. The claim is unchanged.
+The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A44 §§2 and 8, A46 §4 and A48 §4
+
+<!-- inactive-ok-file: LIT-tmp2v8ep CASE-tmp3so1p CLAIM-tmpa61rf — Deferred or Proposed; registered or filed from A44, A46 and A48 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+
+Three more applications in the same exchange. A44 §2 cites the claim
+rightly with CLAIM-350 and CASE-110 ("Management cannot establish that only
+total productivity matters merely by selecting a representation in which
+only total productivity exists"). A44 §8 offers Obermeyer et al.'s
+healthcare algorithm, which predicted expenditure as a proxy for need, as
+"almost an ideal empirical example", and draws a consequence the claim does
+not state: "**A metric can encode historical injustice and subsequently
+participate in its reproduction**", since the merged states differ in
+past allocation and the metric feeds future allocation. The study is
+registered unread (LIT-tmp2v8ep) and is not evidence here until read. A46
+§4's retention KPI merging satisfaction with lock-in is filed as
+CASE-tmp3so1p. A48 §4 applies the claim to shareholder value: decisions with
+V_S(x) = V_S(x′) and different judgments of a party's claims
+(CLAIM-tmpa61rf). Bearing: illustrations, and one candidate empirical case
+to be read. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

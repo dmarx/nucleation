@@ -214,3 +214,20 @@ A parallel, not evidence for the claim's argument; no edge.
   change over a transition.
 
 No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A42 §7, a miscitation
+
+<!-- inactive-ok-file: CLAIM-tmpp91oy — Proposed; filed from A42 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+
+A42 §7 cites this claim as distinguishing "a boundary produced and
+maintained by an organization from a boundary merely identified or imposed
+by an observer". That misreads it. The claim is that a gap or coupling
+criterion cannot tell a boundary a system produces from one imposed on it
+by an outside coupling, a beam between two pendulums; no observer is
+involved, and the claim says a criterion fails, not that it draws the
+distinction. What A42 builds on, "A meaningful organizational boundary may
+involve the capacity to regulate exchange across it, including
+informational exchange", is THEORY-1119's interactional asymmetry, which
+this claim's note of 2026-10-21 names; the informational extension is A42's
+own and is filed in CLAIM-tmpp91oy. Bearing: miscitation; the claim is
+unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
