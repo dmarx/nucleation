@@ -201,3 +201,21 @@ the content of the speaker's intention is a relation in [CLAIM-151](CLAIM-151.md
 sense. No communicative invariant has been built ([TERM-041](../terms.d/TERM-041.md)), and
 [CASE-057](../cases.d/CASE-057.md) meets the condition of one act realized in two media only by
 construction.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', U4 and A5
+
+The owner's U4, "memes as characteristics  (qua representation theory) of
+perspectives", puts memes where this claim puts the invariant, and
+perspectives where it puts communicative kinds; filed in two readings,
+the meme as the character (CLAIM-tmphi3mx) or as one of its values
+(CLAIM-tmp4mk0t). A5 cites this claim accurately, "character-like
+invariants possess classificatory priority over particular realizations",
+and builds on it (CLAIM-tmpjitli, A's), naming CLAIM-249 as what it "Must
+answer". The extension from communicative kinds to perspectives is the
+one CLAIM-417 calls "new territory". Bearing: an extension that depends
+on this claim's condition (one group identified across realizations),
+which is still unmet; no change. The wording of this note is the
+assistant's (Claude, in this session), reporting A's (ChatGPT's) text;
+adopting what it reports is the owner's call.
+
+<!-- inactive-ok-file: CLAIM-417 CLAIM-tmp4mk0t CLAIM-tmphi3mx CLAIM-tmpjitli — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

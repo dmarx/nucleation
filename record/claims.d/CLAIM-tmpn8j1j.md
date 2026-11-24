@@ -129,3 +129,5 @@ The claim is unchanged. The wording of this note is the assistant's
 it reports is the owner's call.
 
 <!-- inactive-ok-file: CASE-tmp1ptqp CLAIM-tmpzuzeh — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->
+
+<!-- inactive-ok-file: LIT-tmpw0gbn TERM-tmp9mag8 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->
