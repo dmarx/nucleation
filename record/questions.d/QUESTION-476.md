@@ -190,3 +190,24 @@ Read for [LEAD-189](../leads.d/LEAD-189.md) on 2026-11-22; each reading now carr
 - **The blame-based counterpart.** On the Tempe crash, which the NTSB traced to the company and the state without blame, the criminal process charged and convicted the operator alone and declined to charge the company ([THEORY-tmpfdyu6](../theory.d/THEORY-tmpfdyu6.md), [CLAIM-tmp20uni](../claims.d/CLAIM-tmp20uni.md)). The objection, [CLAIM-tmp64hmn](../claims.d/CLAIM-tmp64hmn.md): a civil settlement and the state's suspension of testing did reach the company, so the contrast is with the criminal law, not with blame as such.
 
 No status changes. The question stays Open: what a blameless practice traces across incidents, as opposed to in one postmortem, is unanswered.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A34 §13
+
+A34 §13 reads blameless postmortems as "a contractual arrangement
+governing retrospective inquiry" and concludes: "Blamelessness need not
+eliminate accountability. It changes the relationship between the
+investigation of failure and the assignment of blame, making room for
+better causal explanations and appropriate corrective responsibilities."
+It cites CLAIM-742 ("Responsibility for correction is not identical to
+culpability for failure") and CLAIM-523, and adds that "A particularly
+pathological regime would repeatedly produce excellent postmortems
+without altering the conditions responsible for recurring failure".
+
+Bearing: a restatement of the practice's own aims, toward a yes on the
+first half of this question, without evidence. A34 does not engage the
+record's findings on the second half. Its table asks "Who will make the
+changes effective?" and answers "Commitment and governance"; CLAIM-750
+and the pilot of CLAIM-905 say where internal reviews' answers tend to
+stop, at the reviewing team's authority. A34 was written from the codes
+it cites, which do not include those. No status change; the question
+stays Open. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

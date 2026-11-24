@@ -174,3 +174,19 @@ pay to make a proposal legible steers which questions an institution
 pursues. It is filed as [CLAIM-tmpjg4h2](CLAIM-tmpjg4h2.md), in A's voice, on the owner's U29
 ([CLAIM-tmpbt43r](CLAIM-tmpbt43r.md)). No status change. The note is the assistant's (Claude, in
 this session); adopting it is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A34 §7, a miscitation
+
+A34 §7 gives an amortization condition for automating a manual recovery,
+F + TU + nρ < nc (construction F, upkeep U per period over T periods, ρ
+per automated invocation against c per manual one), and says: "This is
+directly captured by Nucleation's CLAIM-303, CLAIM-569 and CLAIM-761." The
+condition has this claim's form, work paid now against work saved later,
+but this claim is about filing an argument in the record, not about
+automation; CLAIM-569 (construction, maintenance and transition costs)
+and CLAIM-761 (a stabilized constraint as stored work) are the entries
+that state it in general. "Directly captured" overstates this claim's
+scope. A34's next sentences, that automation "can also introduce new
+dependencies, obscure underlying failure mechanisms and reduce human
+recovery competence", are the costs the note of 2026-11-22 on this claim
+lists as staleness, erosion and spill. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

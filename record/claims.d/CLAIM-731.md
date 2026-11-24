@@ -178,3 +178,27 @@ relationship, through the stateful invocation of CLAIM-tmpsf9hp: an
 ordinary use can be a modification, so the friction of imposing it can be
 near zero. A related mechanism, control over which relationship an act
 invokes, is CLAIM-tmpro73c. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A36 §7
+
+A36 §7 adds a fourth cost to this claim's pair: "The costs of imposing,
+contesting, suspending and resolving a decision need not be symmetric",
+written κ_impose, κ_contest, κ_suspend and κ_resolve. "An institution can
+provide robust powers to prevent action without providing equally
+effective pathways for resolving the disagreement that motivated
+prevention." Its example is Senate cloture, where ending debate
+"generally requires three-fifths of senators duly chosen and sworn, with
+exceptions and different procedures for certain matters" (A36's
+statement, which agrees with Senate Rule XXII as the assistant knows it).
+In SRE terms: "A lock whose holders cannot reliably resolve contention can
+produce starvation or deadlock."
+
+<!-- inactive-ok-block: CLAIM-711 — Proposed; cited for A36's gloss -->
+Bearing: an extension. This claim separates the cost of imposing from the
+cost of questioning, suspending or reversing; A36 adds that a cheap power
+to suspend can coexist with a costly path to resolution, so that the
+second gap can open on the side of those who contest as well as those who
+impose. A36's table of "Productive friction" against "Pathological
+friction" ("Prevents irreversible mistakes" against "Prevents correction
+of acknowledged deficiencies") is its gloss on CLAIM-710 and CLAIM-711.
+No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

@@ -360,3 +360,47 @@ restatement with a proposed refinement of the first stage. The claim is
 unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
 <!-- inactive-ok-file: CLAIM-714 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A34 §13 and A36 §12
+
+A34 §13 applies this claim to postmortems: "A postmortem document can
+establish knowledge without establishing corrective efficacy." A36 §12
+applies it to American oversight, writing the three achievements as
+legibility, volitional efficacy and maintained correction, and maps the
+five criteria of GAO's High-Risk Series, as A36 gives them ("leadership
+commitment, capacity, an action plan, monitoring and demonstrated
+progress", 2025, unread here), onto them: "Leadership commitment |
+Practical authority and maintained demand", "Capacity | Available
+realizability", "Action plan | Corrective specification", "Monitoring |
+Legibility and verification", "Demonstrated progress | Effective
+realization". It names the backlog "corrective debt: recognized
+remediation work that remains unrealized", and qualifies it: "not every
+unimplemented recommendation represents unjustified inaction.
+Recommendations can be disputed, infeasible or superseded."
+
+Bearing: an illustration, and a pointer to a measure. GAO's lists of open
+recommendations, which A36 also cites, would be a public count of
+recognized and unrealized correction across agencies, of the kind the
+note of 2026-11-18 on CLAIM-719 proposes for action items. "Corrective
+debt" is left as a label: it names the gap between this claim's second
+and third achievements and adds no content. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A40 §3.4 and §7
+
+A40 §3.4 cites this claim, with CLAIM-404 and CLAIM-624, for an authority
+that controls the resources, evidence, criteria, personnel and continuation
+of the processes that would correct it, "the conditions of its own
+governability"; the cite is apt, and the application is CLAIM-tmplc4m8.
+A40 §7 splits the path of a discrepancy into d → q → a → r → 𝒢′ with seven
+obstructions (illegibility, a question that cannot be formulated, an
+inquiry that cannot be authorized, evidence that cannot influence
+evaluation, an answer that cannot recruit authority, a response that
+cannot be realized, a remedy that cannot be maintained). The first is this
+claim's legibility, the fifth its volitional efficacy, the sixth and
+seventh its correctability; formulation and authorization are held as
+CLAIM-tmp04pr7's second-order query. Bearing: a finer division, with the
+test in LEAD-tmpnvrld; the claim is unchanged. The wording of this note is
+the assistant's (Claude, in this session), reporting A's (ChatGPT's) text;
+adopting what it reports is the owner's call.
+
+<!-- inactive-ok-file: CLAIM-tmplc4m8 CLAIM-tmp04pr7 — Proposed; cited in the note of 2026-11-24 on A40 §3.4 and §7 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
