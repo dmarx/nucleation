@@ -25,6 +25,7 @@ complements:
 - CLAIM-tmp18v1o
 - CLAIM-tmp1nubb
 - CLAIM-tmp0i6c0
+- CLAIM-tmpkvzcn
 summary: >-
   The owner's thesis at U16 of the exchange "Memes, Contracts, and Systemic
   Normativity" (2026-11-24), after the turns on contracts between processes:

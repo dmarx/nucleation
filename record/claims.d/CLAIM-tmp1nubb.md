@@ -28,6 +28,8 @@ complements:
 - CLAIM-364
 - CLAIM-718
 - CLAIM-522
+- CLAIM-tmpersgx
+- CLAIM-tmp7hqtl
 bears_on:
 - QUESTION-468
 summary: >-
@@ -112,3 +114,20 @@ on a mechanism, can.
 
 A test of the claim, the matched-behaviour comparison A22 §21 and A24 §23
 propose, is [LEAD-tmp5l71z](../leads.d/LEAD-tmp5l71z.md).
+
+## Note of 2026-11-24: the separating point was stated earlier, the closing pass
+
+<!-- inactive-ok-file: CLAIM-tmpersgx CLAIM-tmp7hqtl ARG-tmp2dpcv — Proposed; filed from the same exchange -->
+
+A22 §15's "a contract's ordinary fulfillment may reveal less about its
+organization than its response to disagreement, nonperformance or
+attempted revision" restates A16 §15, held as CLAIM-tmpersgx ("Two
+systems with identical ordinary behavior may diverge when a contract is
+breached"), which ARG-tmp2dpcv argues from priority inversion; and
+CLAIM-tmp7hqtl already makes governing deviation and breach the mark of
+a contract-like relation. What this claim adds is the turn to implicit
+contracts, where no declared term says which perturbation to run, A20
+§14's list of probes, and A22 §16's point that compliance alone cannot
+say which achievement sustains it. The earlier entries are the idea's
+home; this one complements them. The wording is the assistant's (Claude,
+in this session); adopting it is the owner's call.

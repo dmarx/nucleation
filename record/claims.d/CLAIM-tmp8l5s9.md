@@ -59,3 +59,20 @@ It objects to the gap note in CLAIM-tmpjg5gx, which said the model lets a
 norm outlast a weakening of its reasons "not their disappearance". The
 assistant's answer, CLAIM-tmps8ou2, concedes that the note overstated
 the narrowing.
+
+## Note of 2026-11-24: its bearing on the exchange's critique of conservatism, the closing pass
+
+<!-- inactive-ok-file: CLAIM-tmplc0vv CLAIM-tmpdzcj6 CLAIM-tmpa8tdg CLAIM-tmp4zii5 — Proposed; filed from the same exchange -->
+
+A38 §3 and A40 §4.2 (CLAIM-tmplc0vv) charge strong preservationist
+conservatism with treating "historical endurance as a general presumption
+of adequacy". This claim's case is one in which an arrangement endured
+long after its justification was gone. It bears on that critique, but no
+entry argues the support, and the objection to the critique
+(CLAIM-tmpdzcj6) holds that conservatism's presumption is defeasible,
+which a case like this one is offered to defeat. So no relation is
+written; an ARG would be needed, and the owner may want it. The sidebar's
+mechanism of persistence by replacement rationales and served interests
+(CLAIM-tmps8ou2) is close to A22 §13's normative capture
+(CLAIM-tmp4zii5), which that claim now complements. The wording is the
+assistant's (Claude, in this session); adopting it is the owner's call.

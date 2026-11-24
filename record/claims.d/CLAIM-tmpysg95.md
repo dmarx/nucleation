@@ -25,6 +25,7 @@ rests_on:
 - CLAIM-tmp7hqtl
 complements:
 - CLAIM-443
+- CLAIM-tmpn754o
 summary: >-
   A16 §9 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24), "Heuristics as compiled contracts", with A18 §9's
@@ -83,3 +84,18 @@ their own codes; the closing pass relates this to them.
 It does not say that every heuristic is a compiled contract or that every
 bias is a misapplied one; A16 says "in some cases" and "some cognitive
 biases".
+
+## Note of 2026-11-24: the same idea filed earlier, the closing pass
+
+<!-- inactive-ok-file: CLAIM-tmpn754o — Proposed; filed from the same exchange -->
+
+A16 §9's "compiled result of previous governance work" is A13 §VI's
+"amortized governance", held as CLAIM-tmpn754o from A12 and A13: a
+learned allocation of which process governs, kept past the regime that
+made it adequate, so that expertise and bias are one mechanism. This
+claim restates it in the vocabulary of contracts. What it adds is A16's
+table of candidate mappings from named biases to compiled protocols and
+A18 §9's second route, through the precedence affect is granted. The
+earlier entry is kept as the idea's home and this one complements it.
+Whether to retire either is the owner's call. The wording is the
+assistant's (Claude, in this session); adopting it is the owner's call.

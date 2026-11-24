@@ -23,6 +23,7 @@ rests_on:
 - CLAIM-424
 - CLAIM-532
 - CLAIM-545
+- CLAIM-tmp1ng5k
 uses:
 - TERM-100
 bears_on:

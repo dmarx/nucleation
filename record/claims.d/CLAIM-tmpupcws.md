@@ -11,6 +11,8 @@ defeated_if: >-
   both already held); or a showing that "novel consequential distinction"
   adds nothing to TERM-099's new distinction produced on a discrepancy, so
   that the claim is self-formation relabelled for the dyad.
+complements:
+- CLAIM-tmp80ny9
 tags:
 - epistemology
 - individuation

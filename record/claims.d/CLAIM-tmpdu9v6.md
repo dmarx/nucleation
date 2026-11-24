@@ -25,6 +25,7 @@ complements:
 - CLAIM-703
 - CLAIM-713
 - CLAIM-690
+- CLAIM-tmp0i6c0
 summary: >-
   A32 §13 of the exchange 'Memes, Contracts, and Systemic Normativity'
   (ChatGPT, 2026-11-24), on [QUESTION-472](../questions.d/QUESTION-472.md): "A genuine obligation may

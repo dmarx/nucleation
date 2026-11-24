@@ -12,6 +12,8 @@ defeated_if: >-
   adds nothing to a behavioural profile; or that what differs between such
   arrangements under contention is better described as a difference in
   the processes themselves than in the relations among them.
+complements:
+- CLAIM-tmpjitli
 tags:
 - agency
 - individuation

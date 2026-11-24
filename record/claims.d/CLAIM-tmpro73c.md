@@ -25,6 +25,8 @@ complements:
 - CLAIM-728
 - CLAIM-731
 - CLAIM-713
+- CLAIM-tmp4zii5
+- CLAIM-tmp8bimm
 bears_on:
 - QUESTION-468
 - QUESTION-tmpb7fx7
@@ -96,3 +98,19 @@ standard and standing").
 ## Standing
 
 Proposed, in A's voice.
+
+## Note of 2026-11-24: the neighbours filed from A22 and A24, the closing pass
+
+<!-- inactive-ok-file: CLAIM-tmp4zii5 CLAIM-tmp8bimm CLAIM-tmpgx2ej — Proposed; filed from the same exchange -->
+
+A22 §13, held as CLAIM-tmp4zii5, already gave a party "disproportionate
+influence over how an implicit contract is interpreted"; its dangerous
+form makes the arrangement the standard for judging complaints. This
+claim's mechanism is different: no standard is captured, and one party
+settles which arrangement covers the act case by case and
+inconsistently. A24's exploitation of accommodation (CLAIM-tmp8bimm) is a
+third route, through the regulatory surplus. The three complement one
+another. The owner's sidebar on productive misunderstanding draws on this
+claim as the risk of leaving an ambiguity unresolved (CLAIM-tmpgx2ej). The
+wording is the assistant's (Claude, in this session); adopting it is the
+owner's call.

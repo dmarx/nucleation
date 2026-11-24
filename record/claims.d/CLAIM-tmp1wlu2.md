@@ -12,6 +12,8 @@ defeated_if: >-
   service contracts, an incident commander under independent review) depend
   on such a center after all; or evidence that increases in a center's
   control reliably increase the organization's capacities.
+complements:
+- CLAIM-tmp7xsyj
 tags:
 - society-and-governance
 - operations-research
@@ -99,3 +101,16 @@ coordinated unity from unity of authority. A38 §2 also cites Hamilton's
 Federalist No. 70 ([LIT-tmp4cqb2](../literature.d/LIT-tmp4cqb2.md)) and Madison's No. 51 ([LIT-tmp0qznk](../literature.d/LIT-tmp0qznk.md)) as
 stating, respectively, executive unity and differentiated institutional
 wills, "distinct requirements that need to be jointly accommodated".
+
+## Note of 2026-11-24: correlated corrective failure, the closing pass
+
+<!-- inactive-ok-file: CLAIM-tmp7xsyj — Proposed; filed from the same exchange -->
+
+The pathology the section above calls A36 §6's is held as CLAIM-tmp7xsyj:
+formally independent checks fail together where a shared concern, such
+as party alignment, conditions their use. This claim's model, q + (1 −
+q)pⁿ, gives that claim a quantity, and the two complement each other:
+this one says that coordinated unity need not come from one authority,
+that one says why many correctives under one shared concern add little.
+Neither rests on the other. The wording is the assistant's (Claude, in
+this session); adopting it is the owner's call.

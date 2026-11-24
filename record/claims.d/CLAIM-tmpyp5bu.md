@@ -11,6 +11,8 @@ defeated_if: >-
   withdrawing circulation cannot be done without also removing the
   realization's own supports, so that the two alternatives cannot be told
   apart by any intervention.
+complements:
+- CLAIM-tmp4uj40
 tags:
 - society-and-governance
 - complex-systems

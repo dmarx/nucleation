@@ -29,6 +29,8 @@ complements:
 - CLAIM-739
 - CLAIM-tmptrn75
 - CLAIM-tmpjnly0
+- CLAIM-tmpjlxfy
+- CLAIM-tmp9k2la
 title: "To have standing toward an agent is to have claims that can constrain what it is entitled to optimize, not only to enter its objective, so an organizational objective that admits other parties only through their contribution to it excludes their standing whatever it knows of them, and a specialized objective such as shareholder value is legitimate only so far as the outside governance it relies on to supply those constraints is adequate"
 summary: >-
   A48 §§1–5 and 14–15 of the exchange "Memes, Contracts, and Systemic
@@ -131,3 +133,21 @@ is more than prudence.
 "The proposed claim does not establish that shareholder-oriented
 corporations necessarily exhibit this pathology, or that
 stakeholder-oriented corporations necessarily avoid it" (A48 §14).
+
+## Note of 2026-11-24: normative agnotology and the exchange's earlier agnotology, the closing pass
+
+<!-- inactive-ok-file: CLAIM-tmpjlxfy CLAIM-tmp9k2la TERM-tmp9mag8 TERM-tmpgiy6r CLAIM-tmpkvzcn TERM-083 — Proposed; filed from the same exchange -->
+
+A48's "normative agnotology" is not the same idea as A6's transmitted
+agnotological character (CLAIM-tmpjlxfy, TERM-tmp9mag8), though both say
+an organization can be ignorant without believing anything false. A6's is
+a limit on what becomes legible or credible; A48's is a limit on what a
+fact already known is allowed to count for. The nearer neighbour is A6's
+manufactured doubt working on the threshold for action (CLAIM-tmp9k2la),
+where the evidence is held and action is deferred. The three complement
+one another. Standing here is TERM-083's normative sense, which
+constrains what may be optimized; it is not the operational standing of
+the owner's U14 (CLAIM-tmpkvzcn, TERM-tmpgiy6r), which is eligibility to
+have a claim become consequential under an arrangement. The wording is
+the assistant's (Claude, in this session); adopting it is the owner's
+call.

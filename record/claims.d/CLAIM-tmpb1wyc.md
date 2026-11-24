@@ -25,6 +25,7 @@ grounds:
 complements:
 - CLAIM-603
 - CLAIM-677
+- CLAIM-tmp18v1o
 summary: >-
   A34 §2 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24), from the SRE book's global Chubby planned outage
@@ -92,3 +93,17 @@ owner's call.
 
 Proposed, in A's voice, from one documented specimen; [ARG-tmptccms](../arguments.d/ARG-tmptccms.md) says
 how much the specimen carries. [LEAD-tmpmmfxt](../leads.d/LEAD-tmpmmfxt.md) would test it in simulation.
+
+## Note of 2026-11-24: the structural expectation it instantiates, the closing pass
+
+<!-- inactive-ok-file: CLAIM-tmp18v1o — Proposed; filed from the same exchange -->
+
+A20 §2's consumer that "gave up its buffer against a reliable producer"
+and "now presupposes reliable delivery" is held as CLAIM-tmp18v1o: an
+expectation embodied in a capacity no longer maintained. This claim is
+that mechanism with a declared guarantee beside it, so that the excess of
+realized over declared reliability is what induces the loss, and with the
+book's remedy of holding realized reliability near the guarantee. It
+complements the earlier entry; it does not rest on it, since the Chubby
+case carries it alone. The wording is the assistant's (Claude, in this
+session); adopting it is the owner's call.

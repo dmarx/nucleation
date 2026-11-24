@@ -95,7 +95,8 @@ invariants may be investigated; otherwise use explicitly probe-relative
 profiles." It differs from this case in what is transferred (an
 expression, not learned components) and shares its question of which
 transfer reproduces a characteristic organization; the memes-as-characters
-idea it tests is the owner's (U4). A neighbour design, proposed and not
+idea it tests is the owner's (U4), filed as two alternative readings,
+CLAIM-tmphi3mx and CLAIM-tmp4mk0t. A neighbour design, proposed and not
 run; [LEAD-113](../leads.d/LEAD-113.md) is this case's run. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A5 §8 and A6 §9
@@ -114,4 +115,4 @@ no change. The wording of this note is the assistant's (Claude, in this
 session), reporting A's (ChatGPT's) text; adopting what it reports is the
 owner's call.
 
-<!-- inactive-ok-file: CLAIM-tmpjitli CLAIM-tmpjlxfy — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->
+<!-- inactive-ok-file: CLAIM-tmpjitli CLAIM-tmpjlxfy CLAIM-tmphi3mx CLAIM-tmp4mk0t — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

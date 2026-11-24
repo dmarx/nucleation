@@ -14,6 +14,9 @@ defeated_if: >-
   CLAIM-tmpb1wyc; or that institutions cannot keep alternatives to another
   institution's restraint at all, so that the analogy has nothing to
   transfer.
+complements:
+- CLAIM-tmp18v1o
+- CLAIM-tmp0d1fq
 tags:
 - society-and-governance
 - social-science

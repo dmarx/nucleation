@@ -6,6 +6,8 @@ role: counter
 warrant: interpretive
 objects_to:
 - CLAIM-tmpupcws
+complements:
+- CLAIM-tmpro73c
 tags:
 - epistemology
 - society-and-governance
@@ -65,3 +67,17 @@ Keeping an ambiguity has a cost that falls unevenly. [CLAIM-tmpro73c](CLAIM-tmpr
 party that controls when the ambiguity is resolved can treat one
 accommodation as owed or as discretionary as suits it. A working
 misunderstanding can be a domination that has not yet been called.
+
+## Note of 2026-11-24: the exchange had put the objection's case, the closing pass
+
+<!-- inactive-ok-file: CLAIM-tmpro73c CLAIM-tmp80ny9 — Proposed; filed from the same exchange -->
+
+A30 §10, held as CLAIM-tmpro73c, lists "productive under-specification"
+first among ambiguity's uses, and says that ambiguity can "permit
+cooperation among parties whose interpretations are not yet fully
+reconciled". That is this objection's case, stated in the exchange before
+the owner's sidebar; A30 §5 (CLAIM-tmp80ny9) also declines to call
+ambiguity a defect. So the objection is the exchange's as well as the
+assistant's, and its risk, asymmetric invocation, is that same claim's
+main point. The wording is the assistant's (Claude, in this session);
+adopting it is the owner's call.

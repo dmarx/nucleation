@@ -20,6 +20,7 @@ rests_on:
 - CLAIM-tmpjg5gx
 complements:
 - CLAIM-tmp8l5s9
+- CLAIM-tmp4zii5
 summary: >-
   The assistant's answer, under the dialectic regime on 2026-11-24, to the
   owner's CLAIM-tmp8l5s9, conceding that the gap note in CLAIM-tmpjg5gx

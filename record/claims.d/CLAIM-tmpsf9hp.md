@@ -14,6 +14,8 @@ defeated_if: >-
   gives no prediction beyond existing models of co-adaptation and
   coordination, so that "relational invocation" is only a vocabulary (A32
   §21's own defeater).
+complements:
+- CLAIM-tmp7hqtl
 tags:
 - operations-research
 - society-and-governance

@@ -19,6 +19,7 @@ complements:
 - CLAIM-402
 - CLAIM-tmpbucep
 - CLAIM-tmpa61rf
+- CLAIM-tmpdq0ah
 title: "The belief that fiduciary duty requires maximizing shareholder value can bind a corporation more tightly than the applicable law does, gaining authority through management education, pay and investor expectation, and so help produce the organizational character later presented as a legal necessity"
 summary: >-
   A48 §11 of the exchange "Memes, Contracts, and Systemic Normativity"

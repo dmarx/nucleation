@@ -21,6 +21,7 @@ line:
 - organizational-normativity
 complements:
 - CLAIM-348
+- CLAIM-tmpkvzcn
 grounds:
 - LIT-tmpvluk2
 summary: >-
@@ -87,3 +88,17 @@ owner's call.
 ## Standing
 
 Proposed, in A's voice, narrowed by the gap fill.
+
+## Note of 2026-11-24: what it says of the owner's service-level agreements, the closing pass
+
+<!-- inactive-ok-file: CLAIM-tmpkvzcn CLAIM-tmpe6yfm TERM-tmpgiy6r — Proposed; filed from the same exchange -->
+
+The owner's U14 (CLAIM-tmpkvzcn) proposed that contracts such as
+service-level agreements can operationalize standing through their
+prioritization structure, and its second part (CLAIM-tmpe6yfm) set moral
+duties aside. This claim marks what such an operationalization is not:
+an error budget allocates corrective effort over a tolerance and does not
+settle what is owed to the party in a failure. The two complement each
+other. Operational standing (TERM-tmpgiy6r) is the first column of A36's
+table, not the second. The wording is the assistant's (Claude, in this
+session); adopting it is the owner's call.
