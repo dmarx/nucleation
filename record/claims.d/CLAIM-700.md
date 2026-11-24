@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp0tg7y
 title: 'Where members'' conscientious compensation covers an organization''s shortfall and the organization budgets to what it observes, the compensation and the quiet it buys are read as adequacy, resources are cut toward what the present configuration needs, and the reconfigurations that would remove the shortfall pass out of reach while the present arrangement stays feasible; and where revealing spare capacity invites its removal, the members'' own best responses feed the loop'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-11-16'
@@ -67,6 +67,11 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §9.10. No other change.
+- version: 10
+  date: '2026-11-24'
+  note: >-
+    A dated note added: A22 §11 of the exchange "Memes, Contracts, and
+    Systemic Normativity" restates the loop. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -287,3 +292,25 @@ The lead filer's, from the case of blameless culture ([QUESTION-476](../question
 **What the readings bear on.** Whether blame suppresses reports: the SRE chapter's ground for blamelessness is that under blame issues are "swept under the rug" ([THEORY-2000](../theory.d/THEORY-2000.md)), and Dekker and Nyce relay "a widespread perception of negative repercussions for reporting" in hospitals with just-culture schemes ([THEORY-1997](../theory.d/THEORY-1997.md)). Neither bears on whether reports reach budgets, which is where the hypothesis would succeed or fail. Relation: none.
 
 No status changes.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A22
+
+<!-- inactive-ok-file: CLAIM-tmp8bimm — new; filed from A22 and A24 of the exchange on 2026-11-24 -->
+
+A22 §11 (ChatGPT, 2026-11-24) restates this loop without citing it, as a
+"Hidden regulatory subsidy": ordinary demands need 100 units of work, the
+formal allocation provides 85, and a constituent "reliably supplies the
+remaining 15 units". "Because the constituent compensates for the
+inadequacy, the encompassing organization experiences successful operation.
+Its success obscures its dependency. It may then further reduce formal
+allocations, increasing the burden upon the corrective process." Its
+figure: "Success conceals its own costs."
+
+A restatement by the same kind of source, not independent evidence. Two
+things it adds. It says the loop can run "between computational processes,
+psychological processes or institutional participants", and calls the
+non-human cases "an unaccounted resource subsidy or asymmetric functional
+appropriation", keeping exploitation for the human case "under an
+independently justified standard". And it places the compensation inside a
+wider class, the regulatory surplus a reliable maintainer frees for the
+other party, filed as CLAIM-tmp8bimm. No status change.

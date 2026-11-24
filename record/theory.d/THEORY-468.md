@@ -137,3 +137,28 @@ test: no sample coded for the seven domains and for non-cooperative
 candidates named before coding is on the record, and where such items
 appear the programme's own data show them moralized. [CLAIM-547](../claims.d/CLAIM-547.md) no longer
 grounds on it.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A24
+
+<!-- inactive-ok-file: CLAIM-tmpreipd ARG-tmpn6xou — new; filed from A23 and A24 of the exchange on 2026-11-24 -->
+
+A24 §2 (ChatGPT, 2026-11-24) reads this account correctly through
+NOTE-408 ("seven domains of morality through distinct game-theoretic
+cooperation problems") and sets against it the thesis filed as
+CLAIM-tmpreipd: "Our framework does not need to reject these as important
+sources of moral dispositions. But it does challenge an exhaustive
+identification of morality with cooperative solutions. A cooperative
+solution can alter the participants and their circumstances so
+substantially that it creates a new problem requiring moral evaluation."
+
+The assistant's check (ARG-tmpn6xou, Rejected) finds that this route does
+not tell against the account: the new problems A names are problems of
+exchange and division, which the account counts among its own, and A's
+contrast passes from the origin of moral dispositions to the validity of
+verdicts. A route A gives elsewhere does bear on this account's negative
+half, the clause this account's 2026-11-06 note says has had no blind test:
+A24 §10's claim that "moral consideration cannot be restricted to
+cooperative participants", with animals among its cases, is a candidate
+non-cooperative domain of the kind the promote_when asks to be named before
+coding. A contrast, not evidence; no relation is written. No status
+change.

@@ -36,3 +36,23 @@ conflicts, as Piaget held, with ages earlier than his.
 
 Review of developmental studies, mostly the author's, set against
 Tomasello's book.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A24
+
+<!-- inactive-ok-file: CLAIM-tmpreipd — new; filed from A23 and A24 of the exchange on 2026-11-24 -->
+
+A24 §2 (ChatGPT, 2026-11-24) uses this reading, through NOTE-2203, as
+"Killen's critique of Tomasello's collaboration-first account": "independent
+judgment and conflict are essential to moral development, including the
+ability to challenge group norms, authority and institutional practices",
+so that "The moral achievement is consequently not exhausted by learning to
+cooperate. It includes learning when cooperation should be refused,
+challenged or reorganized." The characterization is faithful, with one
+widening: this reading has children challenging group norms that treat
+others unequally, and "authority and institutional practices" is A's
+extension from social domain theory generally.
+
+It supports one route of CLAIM-tmpreipd, that refusing to cooperate can be
+morally right, as developmental evidence that the capacity to oppose a
+cooperating group's norm is part of morality from early on. That claim
+names this reading in `grounds`. No status change.

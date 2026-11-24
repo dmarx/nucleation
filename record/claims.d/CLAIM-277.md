@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpf1063
 title: 'Durable authority among an organization''s processes need not be a primitive: trust can be the temporal regularity of grants that policies earn by being right often, and the same loop entrenches whatever gained influence early'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-21'
@@ -42,6 +42,12 @@ history:
   note: >-
     A dated note added: LEAD-077's run of CASE-158's design. The entry
     is otherwise unchanged.
+- version: 8
+  date: '2026-11-24'
+  note: >-
+    A dated note added: A20 §10 of the exchange "Memes, Contracts, and
+    Systemic Normativity" extends the loop to authority acquired through
+    others' reliance. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -256,3 +262,26 @@ specialist was already competent, so the loop had no time to bind; rate
 and capacity were not swept. It is an instance of the loop failing to
 lock in under independent audits, not a test of it where audits are
 lacking. The claim is unchanged.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A20
+
+<!-- inactive-ok-file: CLAIM-tmp18v1o CLAIM-tmp2jhc1 — new; filed from A20 and A24 of the exchange on 2026-11-24 -->
+
+A20 §10 (ChatGPT, 2026-11-24) cites this claim for "the emergence of
+durable authority through trust" and extends the loop from grants to
+reliance: "Consider an investigative process that routinely provides
+reliable assessments. Other processes gradually reduce independent
+verification and defer to its outputs. Over time, the investigator acquires
+practical authority. No explicit delegation need have occurred at the
+beginning." Its addition is the second half of the loop: "Alternative
+assessment capacities atrophy", so "authority can become stronger than the
+original grounds supporting it", because the others can no longer check
+it. "A process may acquire authority not by demanding it, but by becoming
+something around which others organize themselves."
+
+This is an extension, not evidence: the entrenchment this claim already
+holds is reinforced by a loss of capacity on the deferring side, the route
+filed as CLAIM-tmp18v1o, and the reserve that would check it is
+CLAIM-tmp2jhc1's constitutional redundancy ("its existence can prevent
+another process from acquiring unrestricted interpretive authority", A24
+§7). The claim is unchanged.
