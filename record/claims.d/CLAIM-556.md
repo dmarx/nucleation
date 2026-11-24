@@ -164,3 +164,23 @@ is kept, drop the defeater's exhaustiveness. Both wait for the owner.
 ## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
 
 Instance, the assistant's. A gap of the manuscript governance-of-possibility, §10.2 (GC9). The manuscript's model shows a capability made once and then lost to the budget rule with no turnover: under the peak rule a transition made leaves the budget at its peak for one period, and after the next period spent holding the transition is lost again ([CLAIM-577](CLAIM-577.md)). The manuscript says this falls under none of the six levels. It does not: it is [CLAIM-568](CLAIM-568.md)'s first obstruction, "A feasible path exceeds a resource ceiling", with the ceiling set by the rule itself, which is this claim's affordability level ("Does a path fit the budget?"), repaired by adding or reallocating resources (outside money, a floor, a reserve). So it is not a second instance of the capability "lost over a horizon with no turnover and no failure of information" that the two audit notes above found to meet the first clause of this claim's defeater; it leaves their verdict where it was, resting on creep or fatigue. The note is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A16 §7 and A18 §7
+
+A16 §7 sorts the sources of an empty set of jointly compliant histories,
+each with its intervention: inconsistent guarantees (renegotiate),
+insufficient resources (expand or redistribute), incorrect assumptions
+(revise applicability), inadequate scheduling (change arbitration or
+precedence), inadequate monitoring, inadequate coordination, lack of
+corrective capability. "Simply cancelling one commitment may restore
+operational coherence, but it is not the same achievement as expanding
+the organization's capacity to satisfy both. That is exactly the
+distinction held by CLAIM-347 and CLAIM-556", correctly cited. A18 §7
+orders the questions frustration can raise by level (execution, diagnosis,
+coordination, specification, contractual, developmental, constitutional)
+and adds that "Escalation is conditional, not inevitable": existing
+contracts "can specify ordinary remedies, tolerances and conditions for
+escalation". Bearing: a parallel diagnosis in contractual terms; it
+splits this claim's change of constraints into renegotiating terms,
+revising applicability and changing arbitration. The claim is unchanged.
+The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

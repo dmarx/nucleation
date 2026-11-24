@@ -1,0 +1,54 @@
+---
+status: Deferred
+status_note: 'Registered 2026-11-24 from A16 of the exchange "Memes, Contracts, and Systemic Normativity", which cites Google SRE practice for error budget policies that restrict releases; not read. Google publishes the workbook openly at sre.google, where this appendix answered (HTTP 200) on 2026-11-24.'
+title: 'Example Error Budget Policy'
+version: 1
+history:
+- version: 1
+  date: '2026-11-24'
+  note: >-
+    Filed, not read. Checked on 2026-11-24: not held in
+    record/literature.d by title, author (Thurgood), or URL. An appendix of
+    Beyer, Murphy, Rensin, Kawahara and Thorne (eds.), The Site
+    Reliability Workbook: Practical Ways to Implement SRE (O'Reilly,
+    2018); the page names Steven Thurgood as the policy's author. The page
+    was fetched once to confirm the address and author; it states "If the
+    service has exceeded its error budget for the preceding four-week
+    window, we will halt all changes and releases other than P0 issues or
+    security fixes until the service is back within its SLO." The date
+    the page carries (2018-02-19) belongs to the example policy, so
+    `published:` is the workbook's year, first of January 2018 (ADR-002).
+    No email address was sent to any service.
+tags:
+- software-engineering
+- operations-research
+date: '2026-11-24'
+published: '2018-01-01'
+url: 'https://sre.google/workbook/error-budget-policy/'
+first_author: 'Thurgood'
+keywords:
+- 'error budget'
+- 'service level objective'
+- 'release policy'
+implementations: []
+summary: >-
+  Thurgood (2018), "Example Error Budget Policy", an appendix of Google's
+  Site Reliability Workbook. A16 of the exchange "Memes, Contracts, and
+  Systemic Normativity" cites Google SRE practice for policies "that
+  restrict releases when a service exhausts its error budget", and reads
+  the error budget as a negotiated tolerance (noted on CLAIM-552). Beyond
+  the sentence quoted in the history, unverified until read.
+---
+
+# LIT-tmpwfb8b: Example Error Budget Policy
+
+Steven Thurgood (2018). "Example Error Budget Policy". Appendix in B. Beyer, N. R. Murphy, D. K. Rensin, K. Kawahara and S. Thorne (eds.), *The Site Reliability Workbook: Practical Ways to Implement SRE*. O'Reilly. https://sre.google/workbook/error-budget-policy/
+
+## Key takeaways
+
+- Not read.
+
+## Standing in the record
+
+Registered as the example of an error budget policy that A16 uses for
+contractual tolerance (CLAIM-552's note of 2026-11-24).

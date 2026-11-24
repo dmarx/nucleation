@@ -191,3 +191,23 @@ the owner's call, between two readings:
 
 The wording is the assistant's (Claude, in this session); choosing between
 the alternatives, and adopting either, is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A16 §14
+
+A16 §14 cites this claim ("asks who holds residual authority when
+circumstances arise that the existing contract does not cover") and
+carries it from contracts between persons to contracts between processes:
+"If contracts govern relationships among processes, what governs the
+contracts themselves?" It orders the governing objects (execution;
+coordination and arbitration of commitments; revision of those
+arrangements; "Distribution of authority over contract formation and
+revision"), notes that "A system might competently resolve ordinary
+disputes while being unable to revise the mechanism through which disputes
+are resolved", which it ties to CLAIM-719, and concludes: "**The
+allocation of authority over unforeseen contingencies is a characteristic
+of the organization's constitution, not merely of its current behavior.**"
+Bearing: an extension of the claim's residual control to interprocess
+contracts, and a reading of it as part of an organization's character
+(CLAIM-tmpersgx). The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+<!-- inactive-ok-file: CLAIM-719 CLAIM-tmpersgx — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->

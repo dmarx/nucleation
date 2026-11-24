@@ -187,3 +187,5 @@ tolerance is negotiated between perspectives and maintained as a contract
 takes precedence is fixed jointly, not by the reliability concern alone.
 Bearing: an extension from a directed tolerance to an agreed one. The
 claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+<!-- inactive-ok-file: CLAIM-tmpkvzcn CLAIM-tmp7hqtl LIT-tmpwfb8b — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->

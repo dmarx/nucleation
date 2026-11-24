@@ -307,3 +307,21 @@ seven models on UCI Adult is fairest under some meta-metric. "none of the
 identified profiles is inherently more problematic than another" (§5.1):
 the data cannot choose, and the choice must be justified by the
 conception of fairness, the evaluative target. Status unchanged.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A16
+
+A16 §11 gives a worked instance, "When a service indicator obscures a
+failure": 100 requests, ordinary ones at 100 ms, an objective of a mean
+latency at most 200 ms. With 5 slow requests at 1500 ms the mean is
+170 ms and the objective is met while one request in twenty waits fifteen
+times as long; "The service could technically satisfy its stated objective
+while systematically failing to provide adequate service to a minority of
+requests." A16 says it "directly models the fibre-occlusion problem in
+CLAIM-348 and CLAIM-350", which is right: the mean merges states a
+per-request requirement must distinguish. Checked with python3 -I: at
+1500 ms the objective holds up to 7 slow requests in 100 (mean 198 ms) and
+fails from 8. A16 adds that the failure is reflexively counter-normative
+(CLAIM-624) only where there is "an obligation to recognize and correct
+the relevant failures"; "At the purely computational level" it is "a
+mismatch between the monitoring contract and the wider system
+requirements". Bearing: an illustration. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
