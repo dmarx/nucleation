@@ -158,3 +158,23 @@ A parallel in consumer design, not evidence ([LIT-3136](../literature.d/LIT-3136
 ## Note of 2026-11-23: the cost of asking as power, from "Explain First Contact RL"
 
 A52 §6 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23), in answer to [QUESTION-tmp3cft4](../questions.d/QUESTION-tmp3cft4.md), reaches this claim from the side of inquiry: "the querying side may also seek to exhaust the respondent's limited time. An audit, appeal, or investigation can impose substantial response costs", and "powerful respondents can make querying prohibitively expensive by withholding evidence, complicating standards, or raising the costs of obtaining meaningful review", so "the allocation of inquiry costs is itself a dimension of power. **Who must spend time to make a demand legible, and who must spend time to answer it, are institutional design choices.**" That is this claim with contestation read as a query and its friction as the cost of asking; A52 adds the direction this claim does not state, that a challenger can also impose costs on an institution. A52 also sorts repeated queries as extractive, productive or transformative of the respondent's resources, a passing taxonomy left here. [TERM-085](../terms.d/TERM-085.md)'s practical contestability is the other held entry it uses. No new entry; no status change.
+
+<!-- inactive-ok-file: CLAIM-tmpro73c CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A30 and A32, applied to contracts
+
+A32 §11, citing this claim: "Imagine that one party can expand the
+practical scope of a relationship through ordinary invocation, while the
+other must undertake substantial effort to prevent that expansion from
+becoming established. One party possesses cheap contractual modification.
+The other faces expensive contractual defense." It divides the friction
+into invocation, expansion, contestation, suspension, remedial and exit
+friction, and concludes that a participant "might gain practical control
+over a relationship without acquiring any new formally recognized
+authority, simply because its preferred modifications become easier to
+realize". A30 §9's table of per-party transition costs makes the same
+point. This extends the claim from decisions to the terms of an implicit
+relationship, through the stateful invocation of CLAIM-tmpsf9hp: an
+ordinary use can be a modification, so the friction of imposing it can be
+near zero. A related mechanism, control over which relationship an act
+invokes, is CLAIM-tmpro73c. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

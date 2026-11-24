@@ -289,3 +289,21 @@ A39 §7 and A43 §3.3 and §9 restate this claim's separation as a trade between
 A43 listed the trade as a hypothesis (H3), hedged "under some workloads", and A39 §7 as "Not a universal inverse relationship". That fits this claim, which says no requirement fixes another, not that they move oppositely.
 
 No status change.
+
+<!-- inactive-ok-file: CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', U21 and A30
+
+The owner, at U21: "let's integrate contract formation, persistence, and
+modification in our cost model. It might actually already be in there
+already under other names". This claim is where the first half already
+is: a contract read as a stabilized relational constraint has a
+construction (formation), a maintenance (persistence) and a transition
+(modification and exit) requirement, none fixing another. A30 §1 calls
+this "The strongest existing foundation", and §8 applies it: "Formation
+might initially be almost costless", while revision later requires
+"rebuilding capabilities, modifying interfaces, redistributing authority",
+so F(C) ≠ R(C → C′), and with TERM-116 the revision cost is directed. The
+exchange supports and applies the claim; it adds nothing to it. What the
+stored-work model lacks for contracts is filed as CLAIM-tmpsf9hp, under
+the owner's QUESTION-tmpb7fx7. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

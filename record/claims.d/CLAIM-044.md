@@ -142,3 +142,17 @@ By Fine's theorem (Abramsky–Brandenburger), a model with no global extension
 is never a mixture of global assignments over the same observables, so the
 defeat condition cannot be met; [CLAIM-238](CLAIM-238.md) already lists "Every pattern" as
 an unmeetable universal negative.
+
+<!-- inactive-ok-file: CLAIM-tmp80ny9 — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
+
+A32 §4 carries this claim's test from an utterance's readings to the
+parties' specifications of a relationship: with Γ(C_1, …, C_n) the joint
+specifications compatible under declared conditions, one is a determinate
+relationship, several is ambiguity or under-specification, none is
+incompatibility, and "an empty compatibility set would not by itself
+establish contextuality in the technical sheaf-theoretic sense." An
+analogy that keeps the claim's distinction and its caution; filed in
+CLAIM-tmp80ny9, whose note of the same date says what compatibility alone
+cannot separate there. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

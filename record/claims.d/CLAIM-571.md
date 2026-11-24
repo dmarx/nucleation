@@ -297,3 +297,14 @@ A74 §3 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6af
 What follows, though A does not state it: Γ_N ⊆ Γ, so b*_N ≥ b*. A normative restriction on the path can raise this claim's threshold and never lower it, as [CLAIM-582](CLAIM-582.md) says of any added hard constraint. [TERM-106](../terms.d/TERM-106.md)'s reconfiguration slack already keeps "specified commitments" along the path; Γ_N is that clause with the commitments read as obligations to others. That the same endpoint reached by a permitted and an unpermitted path differs normatively is filed as [CLAIM-741](CLAIM-741.md)'s first separation.
 
 No status changes.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A30
+
+A30 §8 ("Reconfiguration slack") applies this claim to contracts:
+replacing a critical service provider can require keeping two providers at
+once, rebuilding internal expertise and moving data, so "The new contract
+would be cheaper to maintain, but the organization cannot afford the
+transition. This produces contractual lock-in without requiring any
+preference for the existing arrangement", and "renegotiation readiness
+might itself need to be maintained as an organizational capacity." An
+application that supports the claim's reading; no change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

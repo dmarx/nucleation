@@ -167,3 +167,20 @@ moment of a demand (the found brick) and a construction at a quiet moment
   only as a lower chance of error on the bug route.
 - Anything about the record's own filings. The filing numbers are A11's
   construction and illustrative values. [CLAIM-303](../claims.d/CLAIM-303.md)'s caveat stands.
+
+<!-- inactive-ok-file: ARG-tmpa5ped CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A30, a contract reading and its limit
+
+A30 §2 reads this case's terms as a contract's lifecycle (F formation, U
+upkeep of expectations, ρ identifying and invoking the contract, v and δ
+checking applicability and compliance, σ inadequacy of inherited
+arrangements, R renegotiation, ε loss of independent capability through
+reliance) and quotes the served-demand formula exactly. "A contract
+amortizes the work of establishing mutually intelligible expectations and
+coordinating interdependent activity." Its limit, A30 §15: "the current
+CASE-326 implementation uses fixed erosion and does not establish the full
+endogenous contractual dynamics described here." A qualification of
+scope, not of the case: for a store whose use changes it, σ and ε are not
+fixed. ARG-tmpa5ped holds the judgement, CLAIM-tmpsf9hp the claim, and
+LEAD-tmp14n26 the extension that would test it. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

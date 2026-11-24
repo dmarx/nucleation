@@ -113,3 +113,21 @@ cases illustrate the account; none is set up so that it might have failed.
   offered as what realises it, though that half is weakly supported.
 - [NOTE-392](../notes.d/NOTE-392.md) corrects the essay's citation of North and Weingast (1989),
   which is JEH 49(4):803–832.
+
+<!-- inactive-ok-file: CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32, a limit on novelty
+
+A32 §17 names North as "probably the most important economic precedent"
+for the exchange's contractual synthesis: his account "already joins
+informal institutional constraints, transaction costs, adaptive
+expectations, learning and increasing returns to institutional
+stabilization. We should therefore not claim novelty merely for the
+assertion that implicit arrangements economize coordination and become
+path-dependent." The more distinctive direction it proposes is to
+generalize the mechanisms across scales, tie them to individuation and
+represent their effects on the participants' costed possibility spaces.
+A bearing of prior art on the exchange's claims (CLAIM-tmpsf9hp and the
+implicit contracts of U14 and U16): this reading anticipates their
+economic half. Relation: none written; it is a limit on what those claims
+may call new, recorded here. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

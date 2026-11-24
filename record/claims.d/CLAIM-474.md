@@ -382,3 +382,17 @@ A, at A37 §8 of the exchange "Individuation, Possibility, and Disposition" (202
 ## Note of 2026-11-22: a constructed case, from [LEAD-098](../leads.d/LEAD-098.md)
 
 [CASE-333](../cases.d/CASE-333.md), the first run of [CASE-179](../cases.d/CASE-179.md)'s design, made the achievements this claim keeps apart come apart on purpose in one oscillator network: compatibility without attraction (weak and conservative coupling), attraction without coupling (a shared drive), organization without compatibility (frustrated maps, locked in a compromise), persistence that only withdrawal of the drive reveals, and coherence without knowledge (revision by consistency alone). The claim gains a constructed case. No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
+
+A32 §22 places contracts in this claim's partial order of achievements:
+coupling, co-adaptation, relational specification, contractual
+organization ("Requirements and commitments become maintained
+relationships"), constitutive integration and reflexive governance, with
+"A possible formation history. The achievements remain distinct and need
+not occur in this order." It proposes treating contracts "not as a new
+fundamental ontological category, but as a particular kind of achievement
+within Nucleation's existing process-relational ontology". An extension
+of the order by one achievement between interconnection and individuation,
+by A, not argued for beyond its statement; the manuscript of A26 cites
+this claim for the same distinctions (§2). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

@@ -156,3 +156,15 @@ commitment), and under decoupling at full-use money in none.
   competence outside maintenance.
 - That partial commitment, the main path to loss at moderate rarity in the
   study, follows the bound. Step 2 is a lower bound, loose there.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
+
+A32 §9 applies this claim to rarely invoked guarantees (emergency
+assistance, independent review, dispute resolution, fallback provision):
+"If maintenance follows invocation frequency, the capacity underlying the
+commitment may disappear. The contract might remain formally recognized
+while its guarantee becomes unrealizable." It separates a guarantee that
+is represented, maintained, ready and exercised, after TERM-109's
+maintaining, committing and exercising. A contractual reading of the
+claim's absorbing state; the claim's model needs only that the guarantee
+is a capability committed when competent, so it applies as stated. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

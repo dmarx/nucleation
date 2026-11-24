@@ -115,3 +115,15 @@ a test.
   `promote_when` is unchanged.
 - **[THEORY-057](THEORY-057.md)** uses the split, as this entry states it, in its
   connections on emotion categories and money.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
+
+A32 §17 uses Epstein's grounding and anchoring to separate, for a
+contract, "What makes a relationship qualify as a contract", "What
+establishes the conditions under which that relationship qualifies" and
+"What maintains those conditions over time", and says this "fits our
+existing distinctions concerning formation provenance and maintenance
+provenance" (TERM-100). An analogy: Epstein's anchor is what puts the
+conditions in place; whether it also covers what keeps them in place over
+time this reading does not settle, so the third item leans on TERM-100
+rather than on Epstein. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

@@ -388,3 +388,15 @@ changes nothing here. The claim is still held by its ground [THEORY-070](../theo
 on a revealed-choice measure, not the accumulator parameter or conflict
 adaptation it names, and whether that suffices is left to the owner in
 [THEORY-070](../theory.d/THEORY-070.md)'s note of 2026-11-22.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
+
+A32 §8 reads flow and learned accommodation (with CLAIM-162 and
+CLAIM-tmpcsh5p) as cheap contractual invocation: "Flow may be enabled by a
+history of stored coordination work rather than merely an absence of
+control." It takes CLAIM-364's objection with it, distinguishing
+"Fluency through accommodation" from "Fluency through suppression":
+"Both can make contract invocation cheap. Their counterfactual profiles
+differ when a novel, legitimate demand is introduced", and "contractual
+friction can be informative. Not every interruption should be amortized
+away." An application that keeps the held objection; no change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

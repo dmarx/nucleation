@@ -241,3 +241,18 @@ dilemma rests on the same premise. This claim rests on both and keeps the
 proposal and its operational definition of a change of cover; it stays
 interpretive. Its title names the two premises as what the proposal starts
 from, and its conclusion is the proposal, so it was kept.
+
+<!-- inactive-ok-file: CLAIM-tmp80ny9 — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32, a loose citation
+
+A32 §1 cites this claim as one that "already investigates how
+communicative interpretation can depend on identifying who is addressed
+and in what relationship". The claim does not investigate that in
+general: it is about a change of cover in translation, and its address
+question appears only in CASE-072's example, a rendering that decides
+"who is addressed and in what relationship" where the source left it
+open. The citation is loose rather than wrong: that example is a
+translation deciding which relationship an utterance invokes, the
+question CLAIM-tmp80ny9 holds, but this claim neither states nor needs the
+general point. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

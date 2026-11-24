@@ -77,3 +77,23 @@ the old environment to keep being enacted; and which is reabsorbed.
   ([LIT-1423](../literature.d/LIT-1423.md), not reached) is reported to show a norm surviving the
   replacement of everyone who set it ([QUESTION-118](../questions.d/QUESTION-118.md)); this design asks which
   parts of what survives did the work.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A27, the manuscript's Study D
+
+The manuscript ChatGPT drafted at U20 ("Becoming Through One Another",
+§11, Study D, "Character transport and corrective autonomy") proposes a
+neighbour of this design: expose carriers to cultural expressions or
+protocol specifications "with matched informational content but
+different governance implications", test whether they acquire similar
+responses to controlled changes in evidence, concerns, authority and
+opportunities for contestation, and "Separate activation of preexisting
+organization from formation of new capacities by intervening during
+learning and after withdrawal", against ordinary transmission,
+reinforcement learning and resource-rational baselines. "If a common group
+action can be independently identified, strict representation-theoretic
+invariants may be investigated; otherwise use explicitly probe-relative
+profiles." It differs from this case in what is transferred (an
+expression, not learned components) and shares its question of which
+transfer reproduces a characteristic organization; the memes-as-characters
+idea it tests is the owner's (U4). A neighbour design, proposed and not
+run; LEAD-113 is this case's run. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
