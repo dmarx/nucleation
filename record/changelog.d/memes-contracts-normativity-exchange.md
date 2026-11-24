@@ -20,9 +20,9 @@
   of the exchange's norm model ([CLAIM-tmpjg5gx](record/claims.d/CLAIM-tmpjg5gx.md), version 2).
 - At the owner's word, the assistant's three ideas from reading across the
   filing: ambiguity resolved jointly or by one party as productive
-  misunderstanding or exploitation (CLAIM-tmpisfi1); the owner's case as
-  evidence against endurance as a presumption of adequacy (ARG-tmpo7ijm);
-  and toy models whose parameters are misread (CLAIM-tmpyxemn).
+  misunderstanding or exploitation ([CLAIM-tmpisfi1](record/claims.d/CLAIM-tmpisfi1.md)); the owner's case as
+  evidence against endurance as a presumption of adequacy ([ARG-tmpo7ijm](record/arguments.d/ARG-tmpo7ijm.md));
+  and toy models whose parameters are misread ([CLAIM-tmpyxemn](record/claims.d/CLAIM-tmpyxemn.md)).
 
 ### Changed
 
