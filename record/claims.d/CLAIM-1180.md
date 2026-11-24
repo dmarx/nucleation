@@ -120,3 +120,7 @@ With python3 -I, on the configurations of the manuscript's §9:
 The manuscript governance-of-possibility, §9.4 and §9.8, join JC5. Filed
 at the owner's ruling of 2026-11-23. The account [SYNTHESIS-124](../syntheses.d/SYNTHESIS-124.md)
 integrates it.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A53
+
+A53: "The claim's derivation concerns previously affordable transitions whose thresholds lie between the reduced and original reserve limits. The title should explicitly preserve that restriction rather than imply that reducing a reserve newly eliminates transitions that were never affordable in the first place." Checked against the title: a reserve falling from θ − h to θ′ − h "loses every other transition whose threshold lies above θ′", which takes in thresholds above θ, never kept at the old reserve either. The narrowing is to thresholds above θ′ and at most θ. It is a correction of wording, not of the derivation, and is due before a ruling. The note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting either is the owner's call. No status change.

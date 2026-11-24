@@ -191,3 +191,7 @@ frequent; under decoupling 1.00 in all five; at equal money 0.52, 0.78,
 
 Code: `scratch/studies/lead-036/` (`sim.py`, `test_sim.py`, outputs in
 `results.txt` and `results.jsonl`; how to rerun in its README).
+
+## Note of 2026-11-24: rerun, for the promotion review the owner proposed at U33 of the exchange 'Memes, Contracts, and Systemic Normativity'
+
+Rerun on 2026-11-24 by the assistant, from a copy of `scratch/studies/lead-036/` as on this branch, with `results.jsonl` deleted so that every configuration was recomputed: it regenerates `results.jsonl` byte for byte and `results.txt` unchanged, and the 17 tests pass. A53 of the exchange names this case as a promotion candidate, a study "executed" and awaiting review. The run is now checked by a session other than the one that filed it, which the status-review README (section 2) asks of a demonstrated case; the ruling is the status review's ([LEAD-tmp0j28l](../leads.d/LEAD-tmp0j28l.md)). The note is the assistant's (Claude, in this session). No status change.

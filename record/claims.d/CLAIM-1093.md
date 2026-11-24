@@ -60,3 +60,7 @@ alternatives.
 
 <!-- inactive-ok-block: CASE-412 — new; the study filed -->
 The manuscript's study is now on the record as [CASE-412](../cases.d/CASE-412.md). In its model the two routes are not alternatives under the peak rule, since redesign without a reserve (III-a) loses its route, while the reading this claim's Standing section concedes, that the two change different things, is untouched. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A53
+
+A53 proposes recording [CLAIM-1099](CLAIM-1099.md)'s objection as a concession: "Maintaining a reserve and redesigning a transition change different components of reconfiguration readiness. Under utilization-matched budgeting they can be complementary requirements rather than independently sufficient alternatives." The Standing section above already says so, but no history note names the objection, so the status-review worklist would count it unwritten once [CLAIM-1099](CLAIM-1099.md) is Active. The claim is A's, so the revision is the assistant's to make at that ruling, with A53's wording as the candidate. The note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting either is the owner's call. No status change.

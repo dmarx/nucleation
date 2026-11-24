@@ -111,3 +111,7 @@ stage is one more cost in the same composition ([CLAIM-1016](CLAIM-1016.md)).
 ## Standing
 
 Proposed, the assistant's.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A53
+
+A53 calls this "one of the strongest mathematical promotion opportunities" and says "The constructions have already been computationally checked." They were, by the filer, with a script the entry reports and the record does not keep. The status-review README asks that a computation behind a ruling be "in a script with controls that someone else re-runs before the ruling". Before one: keep the four constructions as a script under `scratch/formal/` and have it rerun by a session that did not write it. The status-review worklist of 2026-11-24 lists the claim as ready for a ruling; A53's description of its four results is accurate. The note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting either is the owner's call. No status change.

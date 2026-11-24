@@ -253,3 +253,7 @@ fully corrected belief (b = 0) that needs κ ≥ 1.83. At b = 0.05 it needs
 - The second version of [CASE-153](CASE-153.md), where inspection itself is risky. There
   the sentry's and investigator's demands would be structurally frustrated
   in danger. It was not run.
+
+## Note of 2026-11-24: rerun, for the promotion review the owner proposed at U33 of the exchange 'Memes, Contracts, and Systemic Normativity'
+
+Rerun on 2026-11-24 by the assistant, from a copy of `scratch/studies/lead-076/` as on this branch: the 24 tests pass, and with the `.jsonl` results deleted `run_sentry.py` and `analyze.py` regenerate every file in `results/`, `summary.md` included, byte for byte. A53 did not name this case among its candidates, though A51 makes it a centre of its Article 6 and its result (a protected investigator corrects the belief and protection outlasts it in 87 per cent of runs) is its own; it belongs on the same list. The run is now checked by a session other than the one that filed it, which the status-review README (section 2) asks of a demonstrated case; the ruling is the status review's ([LEAD-tmp0j28l](../leads.d/LEAD-tmp0j28l.md)). The note is the assistant's (Claude, in this session). No status change.

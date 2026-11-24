@@ -101,3 +101,8 @@ notation only.
 ## Standing
 
 Open, at stage idea.
+
+## Note of 2026-11-24: what the record already does, from U32 and A51 of the exchange 'Memes, Contracts, and Systemic Normativity'
+
+<!-- inactive-ok-block: CLAIM-tmpyp0ju — Proposed or new; the executed studies and claims this note checks the lead against, and the owner's thesis it answers -->
+Not addressed by A51, but the gap stated above is narrower than it says. "No entry defines reach per actor": [CLAIM-675](../claims.d/CLAIM-675.md) (Active, demonstrated) holds that "support that does the work shrinks what the party can reach unaided while support that covers only its shortfall does not", and [CLAIM-602](../claims.d/CLAIM-602.md) (Active, demonstrated) that the order in which supply and capacity are used, not the amount, decides it. That is step 3's construction for solo reach under supply, with its negative control (shortfall support), already demonstrated. What stays open is the authority index W, the four predicates per transition, and whether solo reach's shrinkage, not a price, moves the terms the other can offer ([CLAIM-tmp2jhc1](../claims.d/CLAIM-tmp2jhc1.md)). Narrow the lead to those, citing [CLAIM-675](../claims.d/CLAIM-675.md) for the rest. The owner's U32 holds that the series' proposed experiments are "largely already satisfied by prior work" ([CLAIM-tmpyp0ju](../claims.d/CLAIM-tmpyp0ju.md)). The note is the assistant's (Claude, in this session); whether to narrow, lower or close the lead is the owner's call. No status change.

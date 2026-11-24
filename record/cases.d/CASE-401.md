@@ -114,3 +114,7 @@ That the interpretation–authority loop can close between two institutions, eac
 - Anything about corrective channels beyond the count above; no condition for the oscillatory instability was derived.
 - That the two institutions should share one meaning axis. If the party's interest fixes its corpus bias, the pair has no symmetric state, and what survives is the amplification 1/(1 − L_E L_P).
 - That the numbers bear on any regulator or newsroom. The model is the assistant's reading of [CASE-092](CASE-092.md) and [CLAIM-404](../claims.d/CLAIM-404.md), and its parameters are illustrative.
+
+## Note of 2026-11-24: rerun, for the promotion review the owner proposed at U33 of the exchange 'Memes, Contracts, and Systemic Normativity'
+
+Rerun on 2026-11-24 by the assistant, from a copy of `scratch/studies/lead-015/` (with `../lead-090/`) as on this branch, one thread: the 14 tests pass, and `run.py` regenerates every file in `results/` identically except the `seconds` timings in `e4.json`. A53 of the exchange names this case as a promotion candidate, a study "executed" and awaiting review. The run is now checked by a session other than the one that filed it, which the status-review README (section 2) asks of a demonstrated case; the ruling is the status review's ([LEAD-tmp0j28l](../leads.d/LEAD-tmp0j28l.md)). The note is the assistant's (Claude, in this session). No status change.
