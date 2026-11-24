@@ -38,8 +38,8 @@ summary: >-
   without intentionally changing the underlying problem. Contracts can
   change the problem." Invoke(q, C_t) → (a_t, C_{t+1}); A32 writes the
   relational kernel K_C(q) = Law(a, τ, κ, C′, S′ | do(q), C, S), extending
-  CLAIM-1156's, and names reproductive, formative and transformative
-  invocation. ARG-tmpa5ped says what CASE-326 prices; LEAD-tmp14n26 is the
+  [CLAIM-1156](CLAIM-1156.md)'s, and names reproductive, formative and transformative
+  invocation. [ARG-tmpa5ped](../arguments.d/ARG-tmpa5ped.md) says what [CASE-326](../cases.d/CASE-326.md) prices; [LEAD-tmp14n26](../leads.d/LEAD-tmp14n26.md) is the
   test. The wording is A's (ChatGPT, in the exchange 'Memes, Contracts, and
   Systemic Normativity'); adopting it is the owner's call.
 ---

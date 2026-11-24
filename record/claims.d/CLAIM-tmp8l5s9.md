@@ -25,15 +25,15 @@ objects_to:
 - CLAIM-tmpjg5gx
 summary: >-
   The owner's, under the dialectic regime on 2026-11-24, answering the
-  assistant's report that the norm-stabilization model in CLAIM-tmpjg5gx
+  assistant's report that the norm-stabilization model in [CLAIM-tmpjg5gx](CLAIM-tmpjg5gx.md)
   "says less than ChatGPT claims": "you can make a stronger case by
   pointing to empirical examples of precedent being overturned and
   constitutional amendment. For example, persistence of segregationism in
   the US is an example of a norm (race based power difference) persisting
   long after its original justification (chattel slavery theories of
   property and human rights)." It objects to the narrowing in
-  CLAIM-tmpjg5gx's gap note, which the assistant concedes in
-  CLAIM-tmps8ou2. The case is CASE-tmp3euq0.
+  [CLAIM-tmpjg5gx](CLAIM-tmpjg5gx.md)'s gap note, which the assistant concedes in
+  [CLAIM-tmps8ou2](CLAIM-tmps8ou2.md). The case is [CASE-tmp3euq0](../cases.d/CASE-tmp3euq0.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpjg5gx CLAIM-tmps8ou2 CASE-tmp3euq0 — Proposed or new; the claim objected to, the assistant's answer, and the owner's case -->
 
@@ -55,7 +55,7 @@ Two things are claimed:
 
 ## Bearing
 
-It objects to the gap note in CLAIM-tmpjg5gx, which said the model lets a
+It objects to the gap note in [CLAIM-tmpjg5gx](CLAIM-tmpjg5gx.md), which said the model lets a
 norm outlast a weakening of its reasons "not their disappearance". The
-assistant's answer, CLAIM-tmps8ou2, concedes that the note overstated
+assistant's answer, [CLAIM-tmps8ou2](CLAIM-tmps8ou2.md), concedes that the note overstated
 the narrowing.

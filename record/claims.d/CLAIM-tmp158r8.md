@@ -35,8 +35,8 @@ summary: >-
   the conditions under which subsequent memes are evaluated", with A6
   §8's three levels, P₀ interpretation of evidence, P₁ evaluation of
   interpretations, P₂ revision of evaluative organization. A6 ties it to
-  CLAIM-614, CLAIM-619, CLAIM-624 and, by its code on main,
-  CLAIM-1155. The wording is A's (ChatGPT, in the exchange 'Memes,
+  [CLAIM-614](CLAIM-614.md), [CLAIM-619](CLAIM-619.md), [CLAIM-624](CLAIM-624.md) and, by its code on main,
+  [CLAIM-1155](CLAIM-1155.md). The wording is A's (ChatGPT, in the exchange 'Memes,
   Contracts, and Systemic Normativity'); adopting it is the owner's call.
 ---
 

@@ -17,8 +17,8 @@ summary: >-
   (2026-11-24), revising A38 §6's first statement, offered "provisionally" as
   a conception of conservation "not exhausted by fidelity to origin, unity of
   command or structural persistence". It rests on A38 §3's distinction of
-  realization conservation from character conservation (CLAIM-tmpa8tdg).
-  Adaptive inquiry readiness (TERM-163) is the capacity to find an
+  realization conservation from character conservation ([CLAIM-tmpa8tdg](../claims.d/CLAIM-tmpa8tdg.md)).
+  Adaptive inquiry readiness ([TERM-163](TERM-163.md)) is the capacity to find an
   arrangement's inadequacies; this is the capacity to keep what is valuable
   through the changes that follow. The wording is A's (ChatGPT, in the
   exchange "Memes, Contracts, and Systemic Normativity"); adopting it is the

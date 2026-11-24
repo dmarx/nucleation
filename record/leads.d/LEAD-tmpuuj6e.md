@@ -35,13 +35,13 @@ summary: >-
 
 ## What it would do
 
-- Check CASE-tmp3euq0's dates and holdings against sources.
+- Check [CASE-tmp3euq0](../cases.d/CASE-tmp3euq0.md)'s dates and holdings against sources.
 - Read Woodward on whether Jim Crow was carried over from slavery or built
   after Reconstruction. That decides how directly the case bears on
-  CLAIM-tmp8l5s9.
+  [CLAIM-tmp8l5s9](../claims.d/CLAIM-tmp8l5s9.md).
 - Read Klarman on Brown and the resistance that followed. That bears on the
-  discontinuous end and on the hysteresis after it (CLAIM-tmps8ou2).
+  discontinuous end and on the hysteresis after it ([CLAIM-tmps8ou2](../claims.d/CLAIM-tmps8ou2.md)).
 - Read the county-level work on slavery's political legacy. It compares
   places that differ in how much was built on slavery, which is the
-  comparison CLAIM-tmpjg5gx's defeater asks for and ARG-tmpqkfwb says the
+  comparison [CLAIM-tmpjg5gx](../claims.d/CLAIM-tmpjg5gx.md)'s defeater asks for and [ARG-tmpqkfwb](../arguments.d/ARG-tmpqkfwb.md) says the
   national case cannot supply.

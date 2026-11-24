@@ -20,12 +20,12 @@ summary: >-
   justification: a race-based difference in power that persisted after
   the abolition of chattel slavery. The dates and holdings here are the
   standard ones, recalled and not checked against sources in this
-  filing; LEAD-tmpuuj6e would read the historiography, including the
+  filing; [LEAD-tmpuuj6e](../leads.d/LEAD-tmpuuj6e.md) would read the historiography, including the
   view that Jim Crow segregation was built in the 1890s rather than
   carried over from slavery. Standing documented, for the events; the
   readings of them are the entries that cite the case.
 ---
-<!-- inactive-ok-file: CLAIM-tmp8l5s9 CLAIM-tmpjg5gx CLAIM-tmps8ou2 ARG-tmpqkfwb LEAD-tmpuuj6e — Proposed or new; the claims this case illustrates, the argument on it and the lead that would check it -->
+<!-- inactive-ok-file: CLAIM-tmpjg5gx ARG-tmpqkfwb — Proposed or new; the claims this case illustrates, the argument on it and the lead that would check it -->
 
 # CASE-tmp3euq0: Race-based power in the United States after abolition: the Thirteenth Amendment ends chattel slavery in 1865, a system of segregation and disfranchisement is upheld in Plessy v. Ferguson in 1896, and its legal form is dismantled by Brown v. Board of Education in 1954, the Civil Rights Act of 1964 and the Voting Rights Act of 1965, with resistance and de facto segregation continuing after
 
@@ -58,9 +58,9 @@ As commonly dated, and not checked against sources here:
   after its legal support was withdrawn.
 - **Not, by itself, for the reliance loop.** The norm was also maintained
   by violence, by disfranchisement and by the interests of those it
-  served. CLAIM-tmpjg5gx's mechanism, maintenance funded by what others
+  served. [CLAIM-tmpjg5gx](../claims.d/CLAIM-tmpjg5gx.md)'s mechanism, maintenance funded by what others
   had built on the norm, is one candidate among these, and the case does
-  not separate them (ARG-tmpqkfwb).
+  not separate them ([ARG-tmpqkfwb](../arguments.d/ARG-tmpqkfwb.md)).
 - **Complicated by its history.** On one well-known reading (C. Vann
   Woodward's), Jim Crow segregation was largely built in the 1890s rather
   than carried over from slavery. On that reading, the case shows a norm

@@ -31,9 +31,9 @@ summary: >-
   The owner's, U2 of the exchange "Memes, Contracts, and Systemic
   Normativity" (ChatGPT, 2026-11-24), after A1's account of memes in
   Dawkins's sense: "memes as nucleation sites". It carries the figure the
-  owner used for persisted perspectives (CLAIM-1004) and the record
-  uses for its own argument (CLAIM-185) to memes. A2 and A4 develop it
-  (CLAIM-tmpgvsgg, CLAIM-tmp4uj40). Filed in the owner's voice.
+  owner used for persisted perspectives ([CLAIM-1004](CLAIM-1004.md)) and the record
+  uses for its own argument ([CLAIM-185](CLAIM-185.md)) to memes. A2 and A4 develop it
+  ([CLAIM-tmpgvsgg](CLAIM-tmpgvsgg.md), [CLAIM-tmp4uj40](CLAIM-tmp4uj40.md)). Filed in the owner's voice.
 ---
 
 <!-- inactive-ok-file: CLAIM-184 CLAIM-185 CLAIM-1004 CLAIM-tmp4uj40 CLAIM-tmpgvsgg CLAIM-tmpq1lyz LIT-tmpfj6uj — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
