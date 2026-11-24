@@ -25,8 +25,8 @@ summary: >-
   on a scalar attribution by reversal and notes that conformity (r = s)
   and opposition (r = −s) both transform by the sign character, so
   "Defiance and submission can be structurally related forms of
-  governability", which is CLAIM-425's point and Cooley's "remoter
-  conformity" in CLAIM-415. A9 then reads equal sensitivity, |dr/ds| = 1,
+  governability", which is [CLAIM-425](CLAIM-425.md)'s point and Cooley's "remoter
+  conformity" in [CLAIM-415](CLAIM-415.md). A9 then reads equal sensitivity, |dr/ds| = 1,
   as "a miniature character-theoretic result". The transformation type
   does not carry sensitivity, and it separates attribution from grounds
   only if the grounds are held fixed. This claim gives the decomposition
@@ -72,7 +72,7 @@ Let C2 act by reversing s with g held fixed.
 3. **The measure.** The size of r₋, for instance its root mean square over
    the attributions met, measures how far the attribution, as distinct
    from the grounds, sets the response. Its sign does not enter: defiance
-   scores as conformity does. This is CLAIM-425's "both let the
+   scores as conformity does. This is [CLAIM-425](CLAIM-425.md)'s "both let the
    judgements set the terms of response" as a quantity.
 4. **What the transformation type does not carry.** r = 0.05s and r = s³
    transform exactly as r = s does, with very different sensitivity; the
@@ -83,7 +83,7 @@ Let C2 act by reversing s with g held fixed.
 5. **The anchoring condition.** If reversing s also reverses g, as it does
    when attributions track their grounds, a person governed only by the
    grounds has a reversing part as large as a conformist's. The action must
-   reverse the attribution independently of the grounds, as CASE-140 varies
+   reverse the attribution independently of the grounds, as [CASE-140](../cases.d/CASE-140.md) varies
    an attribution's breadth with its words fixed. This is what A8 §11 asks
    for in "independently anchored transformations of social attribution".
 
@@ -97,12 +97,12 @@ satisfies both parities; r = 0.4 + 0.5s gives ‖r₋‖ = 0.290 and
 
 - **Not that the reversing part is all of social influence.** A response
   can depend on the attribution evenly, for example on its breadth or
-  salience whatever its direction (CASE-140); that part is in r₊ and this
+  salience whatever its direction ([CASE-140](../cases.d/CASE-140.md)); that part is in r₊ and this
   measure misses it. A fuller test would let the group act on breadth too.
-- **Not that a small reversing part is self-governance.** CLAIM-425 asks
+- **Not that a small reversing part is self-governance.** [CLAIM-425](CLAIM-425.md) asks
   also that access to others' judgements be kept; a closed response
   (A8 §10's "Nothing you say can tell me who I am") has a small r₋ and
   fails that clause.
 - **Not a result in character theory proper.** Only the two-element group
-  and its two characters are used; nothing here needs CLAIM-132's
+  and its two characters are used; nothing here needs [CLAIM-132](CLAIM-132.md)'s
   conditions beyond that.

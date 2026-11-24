@@ -37,12 +37,12 @@ summary: >-
   the expectation." "An operative norm might be distinguished partly by
   the organization's disposition to preserve it against discrepancies
   rather than simply revise it in response to them." It is the record's
-  direction of fit (TERM-151), a link A does not draw. The wording is A's
+  direction of fit ([TERM-151](../terms.d/TERM-151.md)), a link A does not draw. The wording is A's
   (ChatGPT, in the exchange 'Memes, Contracts, and Systemic Normativity');
   adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: TERM-151 CLAIM-942 CLAIM-tmpjg5gx LIT-493 — Proposed or Unavailable; the term this is stated in, the held claim on predicates, the stabilization claim filed with this, and Bicchieri's book -->
+<!-- inactive-ok-file: TERM-151 CLAIM-942 LIT-493 — Proposed or Unavailable; the term this is stated in, the held claim on predicates, the stabilization claim filed with this, and Bicchieri's book -->
 
 # CLAIM-tmphq6hp: An expectation is an operative norm rather than a prediction when a discrepancy is met by bringing the behaviour back into line with the expectation instead of revising the expectation to fit the behaviour; which response a discrepancy gets, adaptation, enforcement, accommodation or revision, is the work of normative governance
 
@@ -66,7 +66,7 @@ preserve it against discrepancies rather than simply revise it in response
 to them." This needs no represented belief about what ought to happen,
 which is why A22 offers it for organizations "whose constituent processes
 lack explicitly represented beliefs", extending Bicchieri's distinction
-between empirical and normative expectations (LIT-493, held, not read).
+between empirical and normative expectations ([LIT-493](../literature.d/LIT-493.md), held, not read).
 
 Neither response is better in general: "An organization that revises every
 expectation immediately cannot sustain commitments. An organization that
@@ -76,9 +76,9 @@ revision" for a given discrepancy is what A22 calls normative governance.
 
 ## The record's term for it
 
-The distinction is the record's direction of fit (TERM-151): a predicate
+The distinction is the record's direction of fit ([TERM-151](../terms.d/TERM-151.md)): a predicate
 "written to fit what it is applied to, describing it", or one that "what it
-is applied to must be made to fit". CLAIM-942 uses it to tell inquiry from
+is applied to must be made to fit". [CLAIM-942](CLAIM-942.md) uses it to tell inquiry from
 engineering. Applied here, a prediction is a descriptive predicate on
 another's behaviour and an operative norm a requiring one; an expectation
 becomes a norm when its direction of fit turns. A22 does not name the
@@ -93,5 +93,5 @@ record's term that already holds it).
   standard as authoritative"), and §3's caption: "Those reasons need not
   establish moral legitimacy."
 - Not that the organization formed the standard by itself. Who supplies
-  the requirement is QUESTION-128's open part; A22 §5 says of its own
+  the requirement is [QUESTION-128](../questions.d/QUESTION-128.md)'s open part; A22 §5 says of its own
   model that "its maintenance rule is supplied by the modeler".

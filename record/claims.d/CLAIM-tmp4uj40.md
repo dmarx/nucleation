@@ -29,7 +29,7 @@ bears_on:
 summary: >-
   A2 §6 and A4 §6 of the exchange "Memes, Contracts, and Systemic
   Normativity" (ChatGPT, 2026-11-24), developing the owner's U2
-  (CLAIM-tmp1ng5k): "A viral meme produces copies; a generative meme
+  ([CLAIM-tmp1ng5k](CLAIM-tmp1ng5k.md)): "A viral meme produces copies; a generative meme
   produces structures", and A4's profile of memetic success beyond
   Dawkins's three replicator properties. The wording is A's (ChatGPT, in
   the exchange 'Memes, Contracts, and Systemic Normativity'); adopting it
@@ -51,7 +51,7 @@ nucleation sites, their significance need not be proportional to their
 informational complexity."
 
 A4 §6 widens Dawkins's three properties (replicative fidelity, fecundity,
-longevity; TERM-tmpet5z8 sense 1) by six more: nucleation capacity,
+longevity; [TERM-tmpet5z8](../terms.d/TERM-tmpet5z8.md) sense 1) by six more: nucleation capacity,
 generativity, structural reach, entrenchment, organizational
 dispensability and corrigibility, and says "These properties should not
 be treated as a hierarchy." Its examples: "A highly transmissible meme may
@@ -66,10 +66,10 @@ subsequently eliminates it."
   changes following its introduction, rather than merely counting
   references to it"; the defeater above requires it be fixed beforehand.
 - **The non-hierarchy is asserted, not shown.** A4 supports it by
-  CLAIM-474, whose partial order is of a different set of achievements;
-  ARG-tmpeukxb. Whether the nine properties are independent is an
-  empirical matter for LEAD-tmpiktom.
+  [CLAIM-474](CLAIM-474.md), whose partial order is of a different set of achievements;
+  [ARG-tmpeukxb](../arguments.d/ARG-tmpeukxb.md). Whether the nine properties are independent is an
+  empirical matter for [LEAD-tmpiktom](../leads.d/LEAD-tmpiktom.md).
 - **The replicator-side baseline** is a model of popularity under
   competition for attention, such as the one A2 cites for criticality
-  (LIT-tmp4vkyd, unread): it predicts how often memes are copied, which is
+  ([LIT-tmp4vkyd](../literature.d/LIT-tmp4vkyd.md), unread): it predicts how often memes are copied, which is
   the side this claim holds does not fix the other.

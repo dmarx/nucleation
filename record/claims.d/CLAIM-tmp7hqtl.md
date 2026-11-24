@@ -33,10 +33,10 @@ summary: >-
   A16 §13 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24), "Contract formation as organizational
   nucleation", which A16 calls "the most substantial theoretical
-  contribution" of the owner's U14 (CLAIM-tmpkvzcn): conflict,
+  contribution" of the owner's U14 ([CLAIM-tmpkvzcn](CLAIM-tmpkvzcn.md)): conflict,
   accommodation, maintenance, and four marks of a contract-like relation
   against "mere behavioral regularity". A18 §8 adds that such a contract
-  stores past inquiry (noted on CLAIM-475). The note of 2026-11-24 is the
+  stores past inquiry (noted on [CLAIM-475](CLAIM-475.md)). The note of 2026-11-24 is the
   assistant's: what the four conditions do not yet exclude. The wording is
   A's (ChatGPT, in the exchange 'Memes, Contracts, and Systemic
   Normativity'); adopting it is the owner's call.
@@ -74,20 +74,20 @@ such a contract, C = (A, G, J, Π, Σ, M, E, R): assumptions, guarantees,
 jurisdiction, priority policy, suspension, monitoring, enforcement and
 revision, saying "This is a proposed extension for our inquiry, not the
 standard definition of an assume–guarantee contract" (for which see
-LIT-tmpm8d98). A16 §14 adds meta-contracts that govern formation and
-revision, distributed rather than a supervisor's (noted on CLAIM-728).
+[LIT-tmpm8d98](../literature.d/LIT-tmpm8d98.md)). A16 §14 adds meta-contracts that govern formation and
+revision, distributed rather than a supervisor's (noted on [CLAIM-728](CLAIM-728.md)).
 
 ## Where the record stands
 
-- CLAIM-358 holds that a recurring conflict admitting a stable
+- [CLAIM-358](CLAIM-358.md) holds that a recurring conflict admitting a stable
   accommodation can be settled among the processes more cheaply than by
   escalation; this claim says what the settled accommodation must do to
-  count as a contract. CLAIM-277 holds durable authority as the regularity
-  of grants; CLAIM-364 that never-objecting and negotiating processes part
+  count as a contract. [CLAIM-277](CLAIM-277.md) holds durable authority as the regularity
+  of grants; [CLAIM-364](CLAIM-364.md) that never-objecting and negotiating processes part
   only under intervention, which is why condition 2 and the counterfactual
   test carry the weight.
 - Nucleation as the formation of a self-maintaining constraint is
-  QUESTION-399's subject; the claim offers contract formation as one
+  [QUESTION-399](../questions.d/QUESTION-399.md)'s subject; the claim offers contract formation as one
   instance.
 
 ## Note of 2026-11-24: the assistant's gap fill

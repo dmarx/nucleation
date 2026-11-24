@@ -77,18 +77,18 @@ framing difference." The decomposition is textbook and was checked
 
 ## Where the record stands
 
-- CLAIM-085 holds the standard-relativity for one case: a framing effect in
+- [CLAIM-085](CLAIM-085.md) holds the standard-relativity for one case: a framing effect in
   a model is a property of the model, and what ought to be preserved "is a
   normative question that model response distributions, being descriptive,
   cannot settle". This claim generalizes the form and keeps that point.
-- CLAIM-298 and TERM-026 hold a frame as an operation on an interpretive
-  state, and CLAIM-041 holds that noncommuting framing operations do not by
+- [CLAIM-298](CLAIM-298.md) and [TERM-026](../terms.d/TERM-026.md) hold a frame as an operation on an interpretive
+  state, and [CLAIM-041](CLAIM-041.md) holds that noncommuting framing operations do not by
   themselves show nonclassical probability.
-- CLAIM-249 and CLAIM-132 are the qualification A11 repeats: comparing
+- [CLAIM-249](CLAIM-249.md) and [CLAIM-132](CLAIM-132.md) are the qualification A11 repeats: comparing
   characters needs one group identified on both sides, and "establishing
   the relevant equivalence and correspondence is substantive, not merely
   mathematical".
-- Klayman and Ha (LIT-tmpk51ff), as A11 reports them, are why the standard
+- Klayman and Ha ([LIT-tmpk51ff](../literature.d/LIT-tmpk51ff.md)), as A11 reports them, are why the standard
   matters: a positive test strategy is a bias in some environments and not
   in others.
 
@@ -103,7 +103,7 @@ Proposed, in A's voice.
 
 ## Note of 2026-11-24: both classes are one quantity, and a uniform bias escapes both
 
-The assistant's gap fill (ADR-137) for A11 §§4 and 5, which state the two
+The assistant's gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A11 §§4 and 5, which state the two
 classes and the C₂ decomposition but do not relate them, and do not say
 which biases the contrasts cannot see.
 

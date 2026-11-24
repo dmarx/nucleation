@@ -118,7 +118,7 @@ to other accountability measures: rewarding an absence of complaints
 invites making complaints hard to submit, rewarding resolved cases favours
 the easiest, rewarding successful audits discourages discriminating ones.
 And it qualifies the remedy: "rewarding discoveries can create incentives
-to manufacture or exaggerate them." CASE-tmp8mk6w's reward-for-discovery
+to manufacture or exaggerate them." [CASE-396](../cases.d/CASE-396.md)'s reward-for-discovery
 regime restores inquiry, but its institution cannot report a discovery it
 did not make, so it does not test that qualification. Bearing: an extension
 of the pattern, and a limit of the held study's design. The claim is

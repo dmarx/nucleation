@@ -391,10 +391,10 @@ adaptation it names, and whether that suffices is left to the owner in
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
 
-A32 §8 reads flow and learned accommodation (with CLAIM-162 and
-CLAIM-tmpcsh5p) as cheap contractual invocation: "Flow may be enabled by a
+A32 §8 reads flow and learned accommodation (with [CLAIM-162](CLAIM-162.md) and
+[CLAIM-1075](CLAIM-1075.md)) as cheap contractual invocation: "Flow may be enabled by a
 history of stored coordination work rather than merely an absence of
-control." It takes CLAIM-364's objection with it, distinguishing
+control." It takes [CLAIM-364](CLAIM-364.md)'s objection with it, distinguishing
 "Fluency through accommodation" from "Fluency through suppression":
 "Both can make contract invocation cheap. Their counterfactual profiles
 differ when a novel, legitimate demand is introduced", and "contractual

@@ -27,7 +27,7 @@ summary: >-
   "Memes, Contracts, and Systemic Normativity" as where the word "meme"
   was coined, for a cultural replicator by analogy with the gene, with
   longevity, fecundity and copying fidelity as the properties of a
-  successful replicator. It is the replicator sense of TERM-tmpet5z8. What
+  successful replicator. It is the replicator sense of [TERM-tmpet5z8](../terms.d/TERM-tmpet5z8.md). What
   A1 says of it is unverified until read.
 ---
 
@@ -43,6 +43,6 @@ Dawkins (1976), Oxford University Press.
 
 ## Standing in the record
 
-The source of sense 1 of TERM-tmpet5z8. The exchange's owner turns (U2,
+The source of sense 1 of [TERM-tmpet5z8](../terms.d/TERM-tmpet5z8.md). The exchange's owner turns (U2,
 U4) and A's developments set their accounts against the replicator
 reading; the record has not checked that reading against the book.

@@ -33,14 +33,14 @@ summary: >-
   and SLA distinction ("an explicit or implicit contract with your users
   that includes consequences"). The Chubby sidebar and the SLA paragraph
   were checked against the web edition on 2026-11-24 for the quotations in
-  CASE-tmp3xxqg and CLAIM-tmpb1wyc; the chapter was not read.
+  [CASE-tmp3xxqg](../cases.d/CASE-tmp3xxqg.md) and [CLAIM-tmpb1wyc](../claims.d/CLAIM-tmpb1wyc.md); the chapter was not read.
 ---
 
 <!-- inactive-ok-file: CASE-tmp3xxqg CLAIM-tmpb1wyc — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
 # LIT-tmpihhfs: Service Level Objectives
 
-Chapter 4 of Beyer, Jones, Petoff and Murphy (eds.), Site Reliability Engineering: How Google Runs Production Systems (O'Reilly, 2016), written by Chris Jones, John Wilkes and Niall Murphy with Cody Smith; its sidebar "The Global Chubby Planned Outage" is written by Marc Alvidrez. No DOI; `published:` is the first of January 2016, as for LIT-2784 (ADR-002).
+Chapter 4 of Beyer, Jones, Petoff and Murphy (eds.), Site Reliability Engineering: How Google Runs Production Systems (O'Reilly, 2016), written by Chris Jones, John Wilkes and Niall Murphy with Cody Smith; its sidebar "The Global Chubby Planned Outage" is written by Marc Alvidrez. No DOI; `published:` is the first of January 2016, as for [LIT-2784](LIT-2784.md) ([ADR-002](../decisions.d/ADR-002.md)).
 
 ## Key takeaways
 
@@ -48,4 +48,4 @@ Chapter 4 of Beyer, Jones, Petoff and Murphy (eds.), Site Reliability Engineerin
 
 ## Standing in the record
 
-A34 §2 and §3 cite it for the Chubby planned outage and for the SLI, SLO and SLA distinction ("an explicit or implicit contract with your users that includes consequences"). The Chubby sidebar and the SLA paragraph were checked against the web edition on 2026-11-24 for the quotations in CASE-tmp3xxqg and CLAIM-tmpb1wyc; the chapter was not read.
+A34 §2 and §3 cite it for the Chubby planned outage and for the SLI, SLO and SLA distinction ("an explicit or implicit contract with your users that includes consequences"). The Chubby sidebar and the SLA paragraph were checked against the web edition on 2026-11-24 for the quotations in [CASE-tmp3xxqg](../cases.d/CASE-tmp3xxqg.md) and [CLAIM-tmpb1wyc](../claims.d/CLAIM-tmpb1wyc.md); the chapter was not read.

@@ -31,8 +31,8 @@ summary: >-
   Normativity" (2026-11-24), after A22's turn on norm formation and
   exploitation: "i think this significantly helps clarify the relationship
   between morality and cooperation". Filed in the owner's voice. What the
-  clarification is, as A23 and A24 develop it, is CLAIM-tmpreipd (A's);
-  the assistant's check of one step of that development is ARG-tmpn6xou.
+  clarification is, as A23 and A24 develop it, is [CLAIM-tmpreipd](CLAIM-tmpreipd.md) (A's);
+  the assistant's check of one step of that development is [ARG-tmpn6xou](../arguments.d/ARG-tmpn6xou.md).
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpreipd ARG-tmpn6xou THEORY-468 THEORY-2109 THEORY-2110 CLAIM-tmp0d1fq CLAIM-tmp05a1l CLAIM-tmppx64t CLAIM-tmpjg5gx — Proposed; A's development and the assistant's check, the readings on morality and cooperation, and the claims filed with this from U16–U17 -->
@@ -48,11 +48,11 @@ relationship between morality and cooperation".
 prompts:
 
 - implicit contracts formed as observed behaviour becomes expectation and
-  dependence (CLAIM-tmp0d1fq, U16);
+  dependence ([CLAIM-tmp0d1fq](CLAIM-tmp0d1fq.md), U16);
 - norms formed and stabilized as reliance accumulates around them
-  (CLAIM-tmpjg5gx, from A22, at the owner's U17);
+  ([CLAIM-tmpjg5gx](CLAIM-tmpjg5gx.md), from A22, at the owner's U17);
 - exploitation as the asymmetric use of relied-upon expectations
-  (CLAIM-tmp05a1l and CLAIM-tmppx64t, U17).
+  ([CLAIM-tmp05a1l](CLAIM-tmp05a1l.md) and [CLAIM-tmppx64t](CLAIM-tmppx64t.md), U17).
 
 The thesis is that these, together, clarify how morality and cooperation
 are related. It does not say how; U19 ("flesh this out further") asks A to.
@@ -60,7 +60,7 @@ are related. It does not say how; U19 ("flesh this out further") asks A to.
 ## What it does not say
 
 - Not that morality is cooperation, or reduces to it. A23's development
-  denies that (CLAIM-tmpreipd), and nothing in U18 asserts it.
+  denies that ([CLAIM-tmpreipd](CLAIM-tmpreipd.md)), and nothing in U18 asserts it.
 - Not which clarification. A23's ("morality is concerned not merely with
   whether agents cooperate, but with the terms under which their
   cooperation becomes organized, sustained and transformed") is one
@@ -70,8 +70,8 @@ are related. It does not say how; U19 ("flesh this out further") asks A to.
 
 Proposed, the owner's. The record has read three accounts of the
 relationship: morality as the solutions to cooperation problems
-(THEORY-468, Curry), morality as arising from shared agency (THEORY-2109,
+([THEORY-468](../theory.d/THEORY-468.md), Curry), morality as arising from shared agency ([THEORY-2109](../theory.d/THEORY-2109.md),
 Tomasello and Vaish), and Killen's reply that cooperation is a basis for
-morality but not sufficient for it (THEORY-2110). The thesis is defeated
+morality but not sufficient for it ([THEORY-2110](../theory.d/THEORY-2110.md)). The thesis is defeated
 if the new account only relabels what these and the record's held
 separations already say.

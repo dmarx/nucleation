@@ -18,7 +18,7 @@ line:
 - rightful-power
 - dependence-and-domination
 summary: >-
-  The step from CLAIM-tmpb1wyc to CLAIM-tmpzas6q, which A36 §5 of the
+  The step from [CLAIM-tmpb1wyc](../claims.d/CLAIM-tmpb1wyc.md) to [CLAIM-tmpzas6q](../claims.d/CLAIM-tmpzas6q.md), which A36 §5 of the
   exchange "Memes, Contracts, and Systemic Normativity" (2026-11-24)
   takes in one sentence: "American institutions can analogously become
   dependent upon forms of restraint that have historically been reliable
@@ -34,8 +34,8 @@ summary: >-
 ## The inference
 
 1. A provider whose realized reliability exceeds its declared guarantee
-   can induce dependents to drop fallbacks (CLAIM-tmpb1wyc, from
-   CASE-tmp3xxqg).
+   can induce dependents to drop fallbacks ([CLAIM-tmpb1wyc](../claims.d/CLAIM-tmpb1wyc.md), from
+   [CASE-tmp3xxqg](../cases.d/CASE-tmp3xxqg.md)).
 2. An institution's restraint under a convention is a realized regularity
    that exceeds what law guarantees, "The legally permissible behavior of
    an institution can become substantially broader than the behavior other
@@ -50,7 +50,7 @@ summary: >-
 **In what respect are they alike, and is it the respect the conclusion
 needs?** In the gap between declared and realized regularity, and in
 dependents organizing around the realized one. That is the respect
-CLAIM-tmpzas6q needs.
+[CLAIM-tmpzas6q](../claims.d/CLAIM-tmpzas6q.md) needs.
 
 **What relevant difference is there?** Three. A service's dependents are
 designed artefacts whose fallbacks can be audited; an institution's
@@ -64,7 +64,7 @@ chosen, case by case, by actors whose choices are what is at issue.
 **What transfers, and what does not?** The dependence transfers. The
 remedy does not: SRE keeps reliance honest by synthesizing outages, and
 no one can synthesize breaches of a convention, nor should. The polity's
-remedy in CASE-tmpfh2in ran the other way, raising the guarantee to the
+remedy in [CASE-tmpfh2in](../cases.d/CASE-tmpfh2in.md) ran the other way, raising the guarantee to the
 realized level by amendment. So the analogy supports the vulnerability
 and leaves the response open; it supports nothing about which response
 is right.

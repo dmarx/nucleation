@@ -23,11 +23,11 @@ line:
 summary: >-
   A10 §4 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24), at the owner's U9 ("relate to hyperstition").
-  CLAIM-426's note of 2026-10-30 says the read sources (Land, Soros) give
+  [CLAIM-426](CLAIM-426.md)'s note of 2026-10-30 says the read sources (Land, Soros) give
   "no condition for telling which judgements' circulation helps make them
-  true", and NOTE-1378 finds Land's "favorable" circumstances left
+  true", and [NOTE-1378](../notes.d/NOTE-1378.md) finds Land's "favorable" circumstances left
   unstated. A10 gives a condition in a model: αβ > μν. The algebra and the
-  mapping to CLAIM-330 are checked with python3 -I. It is a condition on
+  mapping to [CLAIM-330](CLAIM-330.md) are checked with python3 -I. It is a condition on
   gains in a model, not a way to measure them. The wording is A's
   (ChatGPT, in the exchange 'Memes, Contracts, and Systemic Normativity');
   adopting it is the owner's call.
@@ -61,10 +61,10 @@ determinant is negative, so the zero state is unstable exactly when
 αβ > μν. Checked with `python3 -I` on 100,000 random draws with
 α, β ∈ [0, 2] and μ, ν ∈ (0, 2]: no mismatch.
 
-**The mapping to CLAIM-330.** The discrete map x_{t+1} = Ax corresponds to
+**The mapping to [CLAIM-330](CLAIM-330.md).** The discrete map x_{t+1} = Ax corresponds to
 ẋ = (A − I)x. With A = [[α′, β′], [γ′, δ′]], A − I has determinant
-(1 − α′)(1 − δ′) − β′γ′, so μ = 1 − α′, ν = 1 − δ′ and CLAIM-330's
-β′γ′ > (1 − α′)(1 − δ′) becomes αβ > μν, under CLAIM-330's conditions
+(1 − α′)(1 − δ′) − β′γ′, so μ = 1 − α′, ν = 1 − δ′ and [CLAIM-330](CLAIM-330.md)'s
+β′γ′ > (1 − α′)(1 − δ′) becomes αβ > μν, under [CLAIM-330](CLAIM-330.md)'s conditions
 (nonnegative entries, α′, δ′ < 1). A10's "continuous-time analogue" is
 exact.
 
@@ -78,17 +78,17 @@ stable state below the threshold.
 
 ## What it does not say
 
-- **Not that hyperstition is a mechanism the record lacked.** CLAIM-426
+- **Not that hyperstition is a mechanism the record lacked.** [CLAIM-426](CLAIM-426.md)
   already says Merton's self-fulfilling prophecy and the looping effects of
-  CLAIM-402 run "on the same circuit". The claim adds a condition, in a
+  [CLAIM-402](CLAIM-402.md) run "on the same circuit". The claim adds a condition, in a
   model, for when the circuit amplifies.
 - **Not a way to tell, in a case, which judgements' circulation helps make
   them true.** The gains are not observed; the condition says what would
-  have to be measured. CLAIM-426's open question is narrowed, not
+  have to be measured. [CLAIM-426](CLAIM-426.md)'s open question is narrowed, not
   answered.
 - **Not that the realization lasts.** In this model realization is held up
   by circulation; when salience decays, so does realization. Persistence
-  after circulation stops needs more (CLAIM-tmpnws9d).
+  after circulation stops needs more ([CLAIM-tmpnws9d](CLAIM-tmpnws9d.md)).
 - **Not a law of cultural evolution.** A10: "This construction
   demonstrates a possible mechanism, not an empirically established law of
   cultural evolution."

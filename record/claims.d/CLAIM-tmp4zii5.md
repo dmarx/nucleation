@@ -65,10 +65,10 @@ characterized as the process violating the norm, even where the objection
 concerns the unjust organization of the norm itself."
 
 It is self-sealing because of how the operative norm works
-(CLAIM-tmphq6hp): a discrepancy with an operative norm recruits correction
+([CLAIM-tmphq6hp](CLAIM-tmphq6hp.md)): a discrepancy with an operative norm recruits correction
 of the behaviour, not revision of the norm. When the discrepancy is an
 objection to the norm, the correction is aimed at the objector. And by the
-normalization route (CLAIM-tmp0i6c0), the norm need never have been agreed
+normalization route ([CLAIM-tmp0i6c0](CLAIM-tmp0i6c0.md)), the norm need never have been agreed
 to, so there is no moment of agreement to appeal to against it.
 
 A22 §13's taxonomy of what can be captured, which A offers as working
@@ -79,18 +79,18 @@ constitutional (who can revise these).
 
 ## Relation to the record
 
-- Interpretive capture (TERM-066) is the evaluation driven by the party
+- Interpretive capture ([TERM-066](../terms.d/TERM-066.md)) is the evaluation driven by the party
   evaluated rather than by independent evidence. Normative capture is the
   case where what is captured is the standard itself, not only the reading
   of evidence against it.
-- CLAIM-624 holds the wrong of reproducing representations and allocations
+- [CLAIM-624](CLAIM-624.md) holds the wrong of reproducing representations and allocations
   of authority that keep a justified standard from constraining an
   organization. Normative capture is one mechanism by which that happens:
   the arrangement's operative standard takes the justified one's place in
   hearing complaints.
-- CLAIM-448 holds that observed coherence can be the product of selective
+- [CLAIM-448](CLAIM-448.md) holds that observed coherence can be the product of selective
   contestation. A captured standard is one way contests get excluded.
-- Argyris's self-sealing theories-in-use (THEORY-145) are a neighbour: tests
+- Argyris's self-sealing theories-in-use ([THEORY-145](../theory.d/THEORY-145.md)) are a neighbour: tests
   kept from testing the premises they rest on.
 
 ## What it does not say

@@ -19,7 +19,7 @@ advances:
 - QUESTION-071
 summary: >-
   A7 §5 of the exchange "Memes, Contracts, and Systemic Normativity"
-  (ChatGPT, 2026-11-24): THEORY-855's propagandist forwards only real
+  (ChatGPT, 2026-11-24): [THEORY-855](../theory.d/THEORY-855.md)'s propagandist forwards only real
   results that favour the worse action, and "the proposed memetic
   extension would ask whether characteristic organizations of evidence
   selection can themselves become culturally transmitted. The phenomenon to
@@ -36,14 +36,14 @@ summary: >-
 
 ## The plan
 
-THEORY-855 is the evidence route of CLAIM-404 without fabrication: the
+[THEORY-855](../theory.d/THEORY-855.md) is the evidence route of [CLAIM-404](../claims.d/CLAIM-404.md) without fabrication: the
 propagandist forwards genuine results, selected. A7 §5: "Those are
 different causal arrangements, even if their observable conclusions are
 identical."
 
 A sketch of the build (the assistant's):
 
-1. Start from THEORY-855's Bala–Goyal network of scientists and Bayesian
+1. Start from [THEORY-855](../theory.d/THEORY-855.md)'s Bala–Goyal network of scientists and Bayesian
    policy makers with a propagandist.
 2. Give policy makers a heritable selection or trust rule (which sources
    they listen to, or how they weight a study by its direction), and let
@@ -55,16 +55,16 @@ A sketch of the build (the assistant's):
    scientists' later results.
 
 **What would count.** If the false belief decays once the propagandist
-stops, the distortion was maintained from outside (CLAIM-404's route
+stops, the distortion was maintained from outside ([CLAIM-404](../claims.d/CLAIM-404.md)'s route
 only). If it persists because the transmitted rule keeps selecting, the
-route of CLAIM-tmpp0ufw has a built instance with a cultural carrier,
-which ARG-tmp2kh2e finds missing. Knocking out the transmission of the
-rule during and after the campaign separates the two, as TERM-100's tests
+route of [CLAIM-tmpp0ufw](../claims.d/CLAIM-tmpp0ufw.md) has a built instance with a cultural carrier,
+which [ARG-tmp2kh2e](../arguments.d/ARG-tmp2kh2e.md) finds missing. Knocking out the transmission of the
+rule during and after the campaign separates the two, as [TERM-100](../terms.d/TERM-100.md)'s tests
 do for a capacity.
 
 ## Questions to settle first
 
 - Whether the policy makers' rule should be selected for by anything
   (payoff, approval), or only copied; copied alone, it drifts.
-- Whether THEORY-855's dilution result (the effect weakens as policy makers
+- Whether [THEORY-855](../theory.d/THEORY-855.md)'s dilution result (the effect weakens as policy makers
   hear more scientists) survives a heritable rule.

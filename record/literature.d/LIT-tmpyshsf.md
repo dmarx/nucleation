@@ -22,7 +22,7 @@ keywords: ['intuitive expertise', 'validity of the environment', 'feedback']
 implementations: []
 summary: >-
   Kahneman and Klein (2009), American Psychologist 64(6):515–526. Cited by A11 of the exchange "Memes, Contracts, and Systemic
-  Normativity" (ChatGPT) for its account that environmental regularity and opportunities for valid feedback are what reliable intuition needs. It bears on CLAIM-tmpn754o, A12's thesis that intuitive expertise and entrenched bias can be one learned allocation of authority, valid where its learning conditions hold. What A11 says of it is unverified until
+  Normativity" (ChatGPT) for its account that environmental regularity and opportunities for valid feedback are what reliable intuition needs. It bears on [CLAIM-tmpn754o](../claims.d/CLAIM-tmpn754o.md), A12's thesis that intuitive expertise and entrenched bias can be one learned allocation of authority, valid where its learning conditions hold. What A11 says of it is unverified until
   read.
 ---
 

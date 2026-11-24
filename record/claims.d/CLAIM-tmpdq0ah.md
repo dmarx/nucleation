@@ -25,7 +25,7 @@ summary: >-
   A16 §10 and A18 §12 of the exchange "Memes, Contracts, and Systemic
   Normativity" (ChatGPT, 2026-11-24), "Memes as portable contract
   specifications" and "Memes as transmissible inquiry contracts", carrying
-  the owner's contracts between processes (CLAIM-tmpkvzcn) into the
+  the owner's contracts between processes ([CLAIM-tmpkvzcn](CLAIM-tmpkvzcn.md)) into the
   exchange's opening topic, memes (U1 and after, filed with their own
   codes). The wording is A's (ChatGPT, in the exchange 'Memes, Contracts,
   and Systemic Normativity'); adopting it is the owner's call.
@@ -68,7 +68,7 @@ institutional context" (A18).
 The exchange's earlier claims about memes as characteristics of
 perspectives and as nucleation sites (U1–U5) are filed with their own
 codes; the closing pass relates this claim to them. In the record before
-this exchange, CLAIM-068 holds that pragmatic stances, not only lexicon
+this exchange, [CLAIM-068](CLAIM-068.md) holds that pragmatic stances, not only lexicon
 and grammar, can be stabilized by transmission; this claim names one kind
 of stance so stabilized, an allocation of precedence or burden, and says it
 is completed differently in each host.

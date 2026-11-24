@@ -146,5 +146,5 @@ organization that interprets it." It adds a distinction this claim does not
 draw: "The framework should consequently distinguish transient frame
 activation from durable perspectival transformation. A one-off framing
 effect does not establish that a new perspective has formed." That is filed
-with the anchoring mechanism in CLAIM-tmpggu4v (A's, Proposed). Bearing: a
+with the anchoring mechanism in [CLAIM-tmpggu4v](CLAIM-tmpggu4v.md) (A's, Proposed). Bearing: a
 parallel, extended to evaluation. The claim is unchanged.

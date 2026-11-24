@@ -21,7 +21,7 @@ summary: >-
   Normativity" (2026-11-24), on a second reading of its word "purported":
   "what is wrong/deficient with purported "originalist", "unitary
   executive", and even more broadly, "conservative" theories". One of two
-  readings, filed as alternatives: (a) CLAIM-tmpgmxs0, a critique of the
+  readings, filed as alternatives: (a) [CLAIM-tmpgmxs0](CLAIM-tmpgmxs0.md), a critique of the
   theories; (b) this one, an internal critique, that they fall short of what
   they purport. The owner chooses. The wording of the reading is the
   assistant's (Claude, in this session); the claim is the owner's.
@@ -42,7 +42,7 @@ lost.
 
 ## Where the exchange takes this reading
 
-A38 §8 ends on it, with Burke's sentence (LIT-tmpus6zs) as its warrant:
+A38 §8 ends on it, with Burke's sentence ([LIT-tmpus6zs](../literature.d/LIT-tmpus6zs.md)) as its warrant:
 "A state without the means of some change is without the means of its
 conservation." A38 §8 goes on: "The inability to change can therefore
 become an inability to preserve. Likewise, the concentration of authority
@@ -53,13 +53,13 @@ historically acquired capacities that constitute its continuing
 realization."
 
 Each of the three sentences is an application of a general claim filed
-from the exchange: CLAIM-tmpa8tdg, CLAIM-tmp1wlu2 and CLAIM-tmpazcha.
+from the exchange: [CLAIM-tmpa8tdg](CLAIM-tmpa8tdg.md), [CLAIM-tmp1wlu2](CLAIM-tmp1wlu2.md) and [CLAIM-tmpazcha](CLAIM-tmpazcha.md).
 
 ## How it differs from reading (a)
 
-Reading (a) (CLAIM-tmpgmxs0) needs the theories to hold the conflations
+Reading (a) ([CLAIM-tmpgmxs0](CLAIM-tmpgmxs0.md)) needs the theories to hold the conflations
 charged, which the objections filed from this exchange dispute
-(CLAIM-tmpmp2wh, CLAIM-tmpqhxsz, CLAIM-tmpdzcj6). Reading (b) needs only
+([CLAIM-tmpmp2wh](CLAIM-tmpmp2wh.md), [CLAIM-tmpqhxsz](CLAIM-tmpqhxsz.md), [CLAIM-tmpdzcj6](CLAIM-tmpdzcj6.md)). Reading (b) needs only
 that each theory names a good it serves and that, in some conditions, its
 commitments undercut that good. It is the stronger reading against the
 theories' defenders, since it argues from their premises, and the weaker as

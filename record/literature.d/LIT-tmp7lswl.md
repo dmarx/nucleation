@@ -22,7 +22,7 @@ keywords: ['replication', 'heterogeneity', 'many labs']
 implementations: []
 summary: >-
   Klein, Vianello, Hasselman, Adams and 186 others (2018), Advances in Methods and Practices in Psychological Science 1(4):443–490. Cited by A11 of the exchange "Memes, Contracts, and Systemic
-  Normativity" (ChatGPT) for the warning that reported psychological effects are not all robust, universal or mechanistically homogeneous. It bears on LEAD-tmpr4xwc, whose test of co-varying biases needs bias measures whose replicability is known. The record holds Many Labs 4 (LIT-1796) but not this one. What A11 says of it is unverified until
+  Normativity" (ChatGPT) for the warning that reported psychological effects are not all robust, universal or mechanistically homogeneous. It bears on [LEAD-tmpr4xwc](../leads.d/LEAD-tmpr4xwc.md), whose test of co-varying biases needs bias measures whose replicability is known. The record holds Many Labs 4 ([LIT-1796](LIT-1796.md)) but not this one. What A11 says of it is unverified until
   read.
 ---
 

@@ -114,7 +114,7 @@ require the standards themselves to be revised.
 
 ## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", A8 §4 and §10
 
-<!-- inactive-ok-file: CLAIM-tmpj4pw3 LEAD-tmp0w114 — Proposed or Open; filed from the exchange of 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-tmpj4pw3 — Proposed or Open; filed from the exchange of 2026-11-24 -->
 
 A8 §10 restates this claim as four orientations with maxims: conformity
 ("I am what you say I am"), opposition, epistemic closure ("Nothing you say
@@ -126,9 +126,9 @@ resisting every one", with closure named as the second failure.
 
 A8 §4 gives the claim's "both let the judgements set the terms of
 response" a formal shape: under reversal of the attribution, conformity
-and opposition transform alike. The assistant's CLAIM-tmpj4pw3 makes it a
+and opposition transform alike. The assistant's [CLAIM-tmpj4pw3](CLAIM-tmpj4pw3.md) makes it a
 measure, the size of the part of a response that reverses with the
 attribution while its grounds are held fixed, and shows that it captures
 the first clause and not the access clause (a closed response scores low).
-LEAD-tmp0w114 is A8's test in that form. This is an operationalization,
+[LEAD-tmp0w114](../leads.d/LEAD-tmp0w114.md) is A8's test in that form. This is an operationalization,
 not evidence. The claim is unchanged.

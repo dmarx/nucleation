@@ -180,11 +180,11 @@ this session); adopting it is the owner's call.
 A34 §7 gives an amortization condition for automating a manual recovery,
 F + TU + nρ < nc (construction F, upkeep U per period over T periods, ρ
 per automated invocation against c per manual one), and says: "This is
-directly captured by Nucleation's CLAIM-303, CLAIM-569 and CLAIM-761." The
+directly captured by Nucleation's CLAIM-303, [CLAIM-569](CLAIM-569.md) and [CLAIM-761](CLAIM-761.md)." The
 condition has this claim's form, work paid now against work saved later,
 but this claim is about filing an argument in the record, not about
-automation; CLAIM-569 (construction, maintenance and transition costs)
-and CLAIM-761 (a stabilized constraint as stored work) are the entries
+automation; [CLAIM-569](CLAIM-569.md) (construction, maintenance and transition costs)
+and [CLAIM-761](CLAIM-761.md) (a stabilized constraint as stored work) are the entries
 that state it in general. "Directly captured" overstates this claim's
 scope. A34's next sentences, that automation "can also introduce new
 dependencies, obscure underlying failure mechanisms and reduce human

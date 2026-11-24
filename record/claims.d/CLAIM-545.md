@@ -390,13 +390,13 @@ No status changes.
 
 <!-- inactive-ok-file: CLAIM-tmp9xge5 CLAIM-tmpp91oy — Proposed; filed from U27 and A42 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
 
-A42 §16, on the owner's U27 (CLAIM-tmp9xge5), carries this claim outward:
+A42 §16, on the owner's U27 ([CLAIM-tmp9xge5](CLAIM-tmp9xge5.md)), carries this claim outward:
 "**Freedom can involve effective participation in determining the
 conditions under which one's activity becomes legible and consequential to
 others.**" The claim's legibility is the agent's own organization making
 distinctions legible to itself; A42 adds the legibility of the agent to
 others, and "Cooperation requires some mutual legibility. Individuation can
-require protected opacity" (CLAIM-tmpp91oy). The claim's last clause,
+require protected opacity" ([CLAIM-tmpp91oy](CLAIM-tmpp91oy.md)). The claim's last clause,
 "domination is another's capacity to govern those same relations, used or
 not", already covers another's hold on the outward relation where it
 governs the inward ones; A42's addition is the outward relation in its own

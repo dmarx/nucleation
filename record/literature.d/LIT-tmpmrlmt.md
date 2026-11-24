@@ -29,11 +29,11 @@ summary: >-
   the exchange "Memes, Contracts, and Systemic Normativity", which cites
   McGoey's work for nonknowledge as a resource for organizational and
   political power, against which A6 sets ignorance maintained with no
-  one intending it (CLAIM-657). The choice of this article is the
+  one intending it ([CLAIM-657](../claims.d/CLAIM-657.md)). The choice of this article is the
   filer's. What A6 says of the work is unverified until read.
 ---
 
-<!-- inactive-ok-file: CLAIM-657 CLAIM-tmpq1213 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
+<!-- inactive-ok-file: CLAIM-657 CLAIM-1155 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
 # LIT-tmpmrlmt: Strategic unknowns: towards a sociology of ignorance
 
@@ -45,7 +45,7 @@ McGoey (2012), Economy and Society 41(1):1-16.
 
 ## Standing in the record
 
-The intentional pole that CLAIM-657 and CLAIM-tmpq1213 set aside: they
+The intentional pole that [CLAIM-657](../claims.d/CLAIM-657.md) and [CLAIM-1155](../claims.d/CLAIM-1155.md) set aside: they
 hold that an organization can become less informed with no one suppressing
 anything. A reading would say how far McGoey's strategic unknowns need an
 intending strategist.

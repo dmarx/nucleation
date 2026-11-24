@@ -15,7 +15,7 @@ summary: >-
   generate justified claims in some circumstances—for example, where
   another party has knowingly induced reasonable reliance", listing what
   would have to be investigated, but gives no principle that turns those
-  conditions into a verdict. CLAIM-tmp0i6c0 holds A's two parts; CLAIM-671
+  conditions into a verdict. [CLAIM-tmp0i6c0](../claims.d/CLAIM-tmp0i6c0.md) holds A's two parts; [CLAIM-671](../claims.d/CLAIM-671.md)
   holds the vulnerability route as a supposition. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
@@ -26,7 +26,7 @@ summary: >-
 
 ## Why it is a question
 
-CLAIM-tmp0i6c0 holds that repetition and reliance can make a contribution
+[CLAIM-tmp0i6c0](../claims.d/CLAIM-tmp0i6c0.md) holds that repetition and reliance can make a contribution
 operatively required, its withdrawal treated as a breach, with no agreement,
 and that being expected, being relied on, being committed and owing are
 distinct. That leaves open when the passage from reliance to owing is
@@ -46,10 +46,10 @@ The candidate grounds come apart in cases:
 - **Reasonableness.** B's reliance was what a party in B's position would
   reasonably form from A's conduct, whether or not A meant to invite it.
 - **Control.** A holds discretionary control over the condition B now
-  needs; the ground is A's power over B, as in CLAIM-690 and TERM-124.
+  needs; the ground is A's power over B, as in [CLAIM-690](../claims.d/CLAIM-690.md) and [TERM-124](../terms.d/TERM-124.md).
 - **Vulnerability.** B is now vulnerable to A's choices, and vulnerability
   grounds special obligations under an independent principle; the record
-  holds this as CLAIM-671's supposition, from Goodin.
+  holds this as [CLAIM-671](../claims.d/CLAIM-671.md)'s supposition, from Goodin.
 
 These give different verdicts. A volunteer whose help an employer came to
 rely on without the volunteer's encouragement (A22 §6) owes nothing on the
@@ -64,7 +64,7 @@ A principle, defended on its own terms, that says which of these conditions
 suffice, which are necessary, and how they trade off; or a showing that
 they collapse into one. A reading would start from the accounts of promising
 and reliance that the record holds in part: the survey of contractualism
-(LIT-2768) and the vulnerability account (Goodin, held as LIT-2531,
-Unavailable, and read through others for CLAIM-671). The question also bears on CLAIM-713: if knowing inducement
+([LIT-2768](../literature.d/LIT-2768.md)) and the vulnerability account (Goodin, held as [LIT-2531](../literature.d/LIT-2531.md),
+Unavailable, and read through others for [CLAIM-671](../claims.d/CLAIM-671.md)). The question also bears on [CLAIM-713](../claims.d/CLAIM-713.md): if knowing inducement
 grounds an obligation, an institution that induced a member's conscientious
 reliance may owe what it now takes for granted.

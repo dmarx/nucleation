@@ -211,7 +211,7 @@ with "Same procedure, different revision opportunities". "A meme may
 transmit a partial specification of a contract. The surrounding
 organization supplies the rest", which "would explain why apparently
 identical cultural principles can nucleate substantially different
-institutional arrangements." A32 traces this to CLAIM-115's normative
+institutional arrangements." A32 traces this to [CLAIM-115](CLAIM-115.md)'s normative
 generalization (Superseded, so not noted there). An extension of this
 claim's object from communicative kinds to contracts, by analogy; the
 memes-as-seeds idea it draws on was introduced at U2. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

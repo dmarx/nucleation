@@ -121,11 +121,11 @@ No status change.
 A40 cites this claim twice. At §2.4, for originalism: "This is an
 application of CLAIM-760's broader lesson. Work and discretion can be
 transferred without disappearing." The claim holds this for work; for
-discretion it is A's extension, untested (LEAD-tmp2x04m). At §4.4, for the
+discretion it is A's extension, untested ([LEAD-tmp2x04m](../leads.d/LEAD-tmp2x04m.md)). At §4.4, for the
 cost of institutional caution: deferring reform for a time T imposes on
 participant i the cost ∫₀ᵀ L_i(t) dt, "substantial even if the
 decision-making institution incurs little immediate expenditure", which
-"is another application of transferred regulatory work" (CLAIM-tmpa8tdg).
+"is another application of transferred regulatory work" ([CLAIM-tmpa8tdg](CLAIM-tmpa8tdg.md)).
 Bearing: two applications, the first a slight overreach of the claim's
 scope; the claim is unchanged. The wording of this note is the assistant's
 (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it

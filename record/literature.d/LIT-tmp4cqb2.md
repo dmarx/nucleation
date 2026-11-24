@@ -24,7 +24,7 @@ summary: >-
   Contracts, and Systemic Normativity" (ChatGPT): A38 §2 cites it:
   "Hamilton's Federalist No. 70 explicitly emphasizes executive energy,
   unity and responsibility". It bears on the unitary-executive critique
-  (CLAIM-tmplc4m8) and the objection to it (CLAIM-tmpqhxsz), which rests
+  ([CLAIM-tmplc4m8](../claims.d/CLAIM-tmplc4m8.md)) and the objection to it ([CLAIM-tmpqhxsz](../claims.d/CLAIM-tmpqhxsz.md)), which rests
   on its accountability argument: a plural executive "tends to conceal
   faults and destroy responsibility". What the exchange says of it is
   unverified until read.

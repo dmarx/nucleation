@@ -158,13 +158,13 @@ A32 §6 reads the directed tolerance Q_{i→j}(y, c) = 1[d_i(y, c) ≤
 the delivered contribution, c the context, d_i the recipient's discrepancy
 measure, τ its tolerance, Q the acceptance condition, the granting rule a
 conditional commitment of support, negative conferral the consequence of
-unacceptable performance. With TERM-101 and TERM-103: "receiving a
+unacceptable performance. With [TERM-101](../terms.d/TERM-101.md) and [TERM-103](../terms.d/TERM-103.md): "receiving a
 benefit is not sufficient to establish a contract", just as a positive
 effect is not a grant. It proposes letting d_i, τ and the grant conditions
 "evolve through the history of interaction", giving "endogenously
 acquired contractual terms, rather than fixed acceptance criteria supplied
-by the modeler". That extension would meet the burden QUESTION-128 and
-CASE-239 state (the standard learned rather than supplied), and A32 does
+by the modeler". That extension would meet the burden [QUESTION-128](../questions.d/QUESTION-128.md) and
+[CASE-239](../cases.d/CASE-239.md) state (the standard learned rather than supplied), and A32 does
 not construct it; it is an extension proposed, not made. A32 §20 ranks
 this claim second among the points of contact. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
@@ -175,7 +175,7 @@ A16 §8 reads an error budget as tolerance made explicit in an agreement:
 tolerable deviation can be explicitly specified, allowing reliability
 concerns and development concerns to coexist", citing Google SRE policies
 "that restrict releases when a service exhausts its error budget" (the
-example policy is LIT-tmpwfb8b). "A process need not continuously override
+example policy is [LIT-tmpwfb8b](../literature.d/LIT-tmpwfb8b.md)). "A process need not continuously override
 competing processes merely because its preferred state is unrealized. A
 contract can establish a region of acceptable deviation within which other
 perspectives remain free to govern." "Escalation is determined by a
@@ -183,7 +183,7 @@ maintained agreement, rather than by every discrepancy independently
 claiming unrestricted control." Against this claim, which makes each
 tolerance the perceiving perspective's own, set by its priorities, A16's
 tolerance is negotiated between perspectives and maintained as a contract
-(CLAIM-tmpkvzcn, CLAIM-tmp7hqtl): the threshold at which reliability work
+([CLAIM-tmpkvzcn](CLAIM-tmpkvzcn.md), [CLAIM-tmp7hqtl](CLAIM-tmp7hqtl.md)): the threshold at which reliability work
 takes precedence is fixed jointly, not by the reliability concern alone.
 Bearing: an extension from a directed tolerance to an agreed one. The
 claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

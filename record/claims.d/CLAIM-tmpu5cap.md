@@ -18,14 +18,14 @@ line:
 complements:
 - CLAIM-330
 summary: >-
-  The assistant's gap fill (ADR-137) for A11 §6 of the exchange "Memes,
+  The assistant's gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A11 §6 of the exchange "Memes,
   Contracts, and Systemic Normativity" (2026-11-24). A11 states a sampling
   model of confirmation bias and illustrates it with a different update,
   x_{t+1} = 0.92x_t + 0.12 tanh(κx_t), whose symmetry "becomes unstable
   when κ exceeds 2/3". The derivation shows the threshold belongs to the
   illustration's decay, not to the model: an accumulator that does not
   correct for its own selection has no threshold, so a small lean is
-  amplified at any coupling. That is CLAIM-330's condition that each field
+  amplified at any coupling. That is [CLAIM-330](CLAIM-330.md)'s condition that each field
   be stable alone. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
@@ -80,9 +80,9 @@ side of the initial lean.
 
 ## Bearing
 
-CLAIM-330 makes the coupling destabilize symmetry in its linearized model
+[CLAIM-330](CLAIM-330.md) makes the coupling destabilize symmetry in its linearized model
 "with each field stable alone", above a threshold. A11 calls its model "a
-natural extension of CLAIM-330, CLAIM-340 and CASE-123". It is one only once
+natural extension of [CLAIM-330](CLAIM-330.md), [CLAIM-340](CLAIM-340.md) and [CASE-123](../cases.d/CASE-123.md)". It is one only once
 belief has its own restoring term, the decay; without it there is no
 threshold, and the amplification of a small lean that A11 attributes to
 nucleation happens at any coupling, with the side chosen partly by noise.

@@ -28,7 +28,7 @@ summary: >-
   grounded in present legal practice, rather than simply in the
   authority of historical actors". This is their joint statement of that
   account; the identification is the filer's. It bears on the
-  originalism critique (CLAIM-tmpr2qzg) and its objection (CLAIM-tmpmp2wh): a defence of originalism whose authority is present law, so
+  originalism critique ([CLAIM-tmpr2qzg](../claims.d/CLAIM-tmpr2qzg.md)) and its objection ([CLAIM-tmpmp2wh](../claims.d/CLAIM-tmpmp2wh.md)): a defence of originalism whose authority is present law, so
   not formation provenance. What the exchange says of it is unverified
   until read.
 ---

@@ -26,7 +26,7 @@ complements:
 - CLAIM-600
 summary: >-
   A20 §2 of the exchange "Memes, Contracts, and Systemic Normativity"
-  (ChatGPT, 2026-11-24), on the owner's U16 (CLAIM-tmp0d1fq). Three senses
+  (ChatGPT, 2026-11-24), on the owner's U16 ([CLAIM-tmp0d1fq](CLAIM-tmp0d1fq.md)). Three senses
   of expectation: represented ("explicitly predicts"), dispositional
   ("prepares ... without computing an explicit prediction") and structural
   ("its successful operation presupposes another's output"). A consumer
@@ -65,9 +65,9 @@ can be is a gap: what the process no longer maintains.
 ## Why it is more than capability loss
 
 The record holds the loss itself: a capability given up because another
-reliably supplies it is the Black Queen's loss (CLAIM-603), and support that
+reliably supplies it is the Black Queen's loss ([CLAIM-603](CLAIM-603.md)), and support that
 does the work can leave a party unable to recover the capacity once a
-deadline passes (CLAIM-605). What the claim adds is a reading of the loss:
+deadline passes ([CLAIM-605](CLAIM-605.md)). What the claim adds is a reading of the loss:
 as the content of an expectation, with terms. The buffer's size fixes how
 long an interruption the consumer still tolerates; its absence fixes that
 none is tolerated. A loss read this way says which deviations by the
@@ -90,6 +90,6 @@ formation of a reciprocally maintained contract."
 - Not that every structural presupposition is an expectation of a
   particular party. A20 §14's substitution test, whether "reliance concerns
   the function or its particular provider", is what tells the two apart;
-  CLAIM-tmp1nubb holds it.
+  [CLAIM-tmp1nubb](CLAIM-tmp1nubb.md) holds it.
 - Not that the process is at fault for the loss. Giving up a costly
-  capacity that another supplies is favoured (CLAIM-603).
+  capacity that another supplies is favoured ([CLAIM-603](CLAIM-603.md)).

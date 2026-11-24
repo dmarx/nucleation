@@ -198,16 +198,16 @@ governing retrospective inquiry" and concludes: "Blamelessness need not
 eliminate accountability. It changes the relationship between the
 investigation of failure and the assignment of blame, making room for
 better causal explanations and appropriate corrective responsibilities."
-It cites CLAIM-742 ("Responsibility for correction is not identical to
-culpability for failure") and CLAIM-523, and adds that "A particularly
+It cites [CLAIM-742](../claims.d/CLAIM-742.md) ("Responsibility for correction is not identical to
+culpability for failure") and [CLAIM-523](../claims.d/CLAIM-523.md), and adds that "A particularly
 pathological regime would repeatedly produce excellent postmortems
 without altering the conditions responsible for recurring failure".
 
 Bearing: a restatement of the practice's own aims, toward a yes on the
 first half of this question, without evidence. A34 does not engage the
 record's findings on the second half. Its table asks "Who will make the
-changes effective?" and answers "Commitment and governance"; CLAIM-750
-and the pilot of CLAIM-905 say where internal reviews' answers tend to
+changes effective?" and answers "Commitment and governance"; [CLAIM-750](../claims.d/CLAIM-750.md)
+and the pilot of [CLAIM-905](../claims.d/CLAIM-905.md) say where internal reviews' answers tend to
 stop, at the reviewing team's authority. A34 was written from the codes
 it cites, which do not include those. No status change; the question
 stays Open. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

@@ -122,9 +122,9 @@ including perspectives fundamentally opposed to one another", so that
 the meme nucleates "an **organization of disagreement**". It notes that
 "CASE-222 has Proposed status, and the requisite empirical evidence has
 not yet been established in the record", which is accurate. The
-stronger hypothesis it draws, and what would test it, are in CLAIM-621's
+stronger hypothesis it draws, and what would test it, are in [CLAIM-621](../claims.d/CLAIM-621.md)'s
 note of 2026-11-24. Bearing: a reading of this case as an instance of
-CLAIM-tmpgvsgg, no edge while the case is Proposed; no change. The
+[CLAIM-tmpgvsgg](../claims.d/CLAIM-tmpgvsgg.md), no edge while the case is Proposed; no change. The
 wording of this note is the assistant's (Claude, in this session),
 reporting A's (ChatGPT's) text; adopting what it reports is the owner's
 call.

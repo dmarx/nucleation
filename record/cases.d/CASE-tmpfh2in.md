@@ -17,7 +17,7 @@ summary: >-
   (ChatGPT, 2026-11-24): "an unusually clear historical example of the
   contractual lifecycle", which "closely resembles Nucleation's
   progression from prose to convention to mechanism to guarantee"
-  (DP-003). The historical facts are standard and were not checked against
+  ([DP-003](../../docs/design-principles.md#dp-3)). The historical facts are standard and were not checked against
   a source in this session; A36 cites sources it does not name. The
   reading is A's (ChatGPT, in the exchange "Memes, Contracts, and Systemic
   Normativity"); adopting it is the owner's call.
@@ -60,10 +60,10 @@ reliability profiles."
 
 ## Bearing
 
-It illustrates CLAIM-tmpzas6q on one point only: a restraint that law did
+It illustrates [CLAIM-tmpzas6q](../claims.d/CLAIM-tmpzas6q.md) on one point only: a restraint that law did
 not guarantee was relied on and then broken lawfully. It does not show
 the other point, that institutions had given up alternatives to the
 restraint; it shows the reverse response, formalization. It is the
-record's ladder of DP-003, walked by a polity: a norm kept as convention,
-walked up to guarantee after it failed. LEAD-tmps9jkd lists it among six
+record's ladder of [DP-003](../../docs/design-principles.md#dp-3), walked by a polity: a norm kept as convention,
+walked up to guarantee after it failed. [LEAD-tmps9jkd](../leads.d/LEAD-tmps9jkd.md) lists it among six
 cases for comparative study.

@@ -313,4 +313,4 @@ non-human cases "an unaccounted resource subsidy or asymmetric functional
 appropriation", keeping exploitation for the human case "under an
 independently justified standard". And it places the compensation inside a
 wider class, the regulatory surplus a reliable maintainer frees for the
-other party, filed as CLAIM-tmp8bimm. No status change.
+other party, filed as [CLAIM-tmp8bimm](CLAIM-tmp8bimm.md). No status change.

@@ -116,7 +116,7 @@ objects", result 8; "green transition" persists because vague).
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A4 §4
 
-A4 §4 cites this claim accurately, with CASE-222, as "already a candidate
+A4 §4 cites this claim accurately, with [CASE-222](../cases.d/CASE-222.md), as "already a candidate
 study of memetic nucleation": a shared expression can nucleate "not a
 coherent shared worldview, but an **organization of disagreement**", which
 "organize[s] relations among mutually incompatible perspectives without
@@ -125,7 +125,7 @@ reconciling them". It adds a hypothesis this claim does not state:
 single perspective succeeds in exhausting their interpretation." That is
 stronger than "can keep it in circulation": it predicts that settling the
 dispute, one side's reading prevailing, lowers the expression's
-circulation. A4 marks it "a hypothesis" and notes CASE-222 is Proposed.
+circulation. A4 marks it "a hypothesis" and notes [CASE-222](../cases.d/CASE-222.md) is Proposed.
 Not filed apart; the prediction is recorded here as what would test the
 stronger reading. Bearing: an extension, no status change. The wording of
 this note is the assistant's (Claude, in this session), reporting A's

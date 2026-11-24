@@ -23,7 +23,7 @@ summary: >-
   processes, one lock, one processor, two arbitration rules. A16 reads it
   as granted authority without efficacy, and its remedy as "temporarily
   empowering a lower-priority process upon which it depends". Priority
-  inheritance is Sha, Rajkumar and Lehoczky's (LIT-tmphhs41). The
+  inheritance is Sha, Rajkumar and Lehoczky's ([LIT-tmphhs41](../literature.d/LIT-tmphhs41.md)). The
   note of 2026-11-24 is the assistant's: the schedules checked, and what
   the relief costs the medium-priority process. The wording is A's
   (ChatGPT, in the exchange 'Memes, Contracts, and Systemic Normativity');
@@ -63,9 +63,9 @@ arrangement changes." H needs the lock L holds.
 "**Advancing the interests of the highest-priority process requires
 temporarily empowering a lower-priority process upon which it depends.**
 Authority is relational. It cannot be adequately allocated by examining
-processes in isolation." A16 calls this a realization of CLAIM-357's
+processes in isolation." A16 calls this a realization of [CLAIM-357](../claims.d/CLAIM-357.md)'s
 separation of structural infeasibility from governance-induced
-frustration, and of CLAIM-283's claimed precedence against granted
+frustration, and of [CLAIM-283](../claims.d/CLAIM-283.md)'s claimed precedence against granted
 authority.
 
 ## Note of 2026-11-24: the assistant's check
@@ -84,7 +84,7 @@ units on one processor; for H to finish by 5, L's four units and H's one
 must fill the interval up to 5, so M cannot start before 5 and finishes at
 10 at the earliest. So:
 
-- the case shows governance-induced frustration, in CLAIM-357's sense,
+- the case shows governance-induced frustration, in [CLAIM-357](../claims.d/CLAIM-357.md)'s sense,
   only because M has no deadline. Give M any deadline before 10 and the
   commitments to H and M are jointly infeasible under every arbitration
   rule: the frustration is structural, and inheritance only chooses which
@@ -92,11 +92,11 @@ must fill the interval up to 5, so M cannot start before 5 and finishes at
 - "fulfilling the relevant commitments together" is true of H's deadline
   and the lock's mutual exclusion; it is a reallocation of delay, not a
   costless gain, which matters for reading the remedy as relief rather
-  than as a choice of whose claim prevails (CLAIM-556: dropping a demand
+  than as a choice of whose claim prevails ([CLAIM-556](../claims.d/CLAIM-556.md): dropping a demand
   is not relief).
 
 The two arbitration rules give the same schedule whenever L does not hold
 a lock H needs, so the case is also an instance of arrangements alike on
-the ordinary course that part under contention (CLAIM-tmpersgx, argued in
-ARG-tmp2dpcv). The note's wording is the assistant's (Claude, in this
+the ordinary course that part under contention ([CLAIM-tmpersgx](../claims.d/CLAIM-tmpersgx.md), argued in
+[ARG-tmp2dpcv](../arguments.d/ARG-tmp2dpcv.md)). The note's wording is the assistant's (Claude, in this
 session); adopting it is the owner's call.

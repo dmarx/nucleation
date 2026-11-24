@@ -34,10 +34,10 @@ summary: >-
   claims and standing A15 had set out, contracts forming between
   processes, and standing operationalized by a contract's prioritization
   structure. The second part, on moral duties and pathological regimes, is
-  CLAIM-tmpe6yfm. A16 develops it: operational standing (TERM-tmpgiy6r),
-  priority inversion (CASE-tmptpna1), what makes a relation contract-like
-  (CLAIM-tmp7hqtl) and the contractual ecology as character
-  (CLAIM-tmpersgx). Filed in the owner's voice.
+  [CLAIM-tmpe6yfm](CLAIM-tmpe6yfm.md). A16 develops it: operational standing ([TERM-tmpgiy6r](../terms.d/TERM-tmpgiy6r.md)),
+  priority inversion ([CASE-tmptpna1](../cases.d/CASE-tmptpna1.md)), what makes a relation contract-like
+  ([CLAIM-tmp7hqtl](CLAIM-tmp7hqtl.md)) and the contractual ecology as character
+  ([CLAIM-tmpersgx](CLAIM-tmpersgx.md)). Filed in the owner's voice.
 ---
 <!-- inactive-ok-file: CASE-tmptpna1 CLAIM-728 CLAIM-739 CLAIM-tmp7hqtl CLAIM-tmpe6yfm CLAIM-tmpersgx TERM-083 TERM-tmpgiy6r — Proposed; cited as filed or held beside this entry, whatever its standing -->
 
@@ -68,22 +68,22 @@ Three parts:
 ## Where the record stands
 
 - No entry held service-level agreements, contracts between processes or
-  priority structures before this filing. The nearest are TERM-017
+  priority structures before this filing. The nearest are [TERM-017](../terms.d/TERM-017.md)
   (precedence, jurisdiction and suspension, which A16 §2 says a contract
-  can set all at once), TERM-101 (a grant runs through a maintained
-  relation of granting, delegation or eligibility), CLAIM-277 (durable
-  authority as the regularity of grants), CLAIM-283 (claimed precedence
-  and granted authority are different quantities) and CLAIM-728
+  can set all at once), [TERM-101](../terms.d/TERM-101.md) (a grant runs through a maintained
+  relation of granting, delegation or eligibility), [CLAIM-277](CLAIM-277.md) (durable
+  authority as the regularity of grants), [CLAIM-283](CLAIM-283.md) (claimed precedence
+  and granted authority are different quantities) and [CLAIM-728](CLAIM-728.md)
   (residual control in an incomplete contract, between persons).
-- Standing is held as moral standing in TERM-083 and as directed
-  answerability in CLAIM-739. The owner's proposal gives it an operational
+- Standing is held as moral standing in [TERM-083](../terms.d/TERM-083.md) and as directed
+  answerability in [CLAIM-739](CLAIM-739.md). The owner's proposal gives it an operational
   sense that presupposes neither moral consideration nor agency.
-- "Contract" here is not the contractualist's. QUESTION-483 and
-  LEAD-033 ask whether reasonable rejection explains the record's
+- "Contract" here is not the contractualist's. [QUESTION-483](../questions.d/QUESTION-483.md) and
+  [LEAD-033](../leads.d/LEAD-033.md) ask whether reasonable rejection explains the record's
   allocations of normative power; that is a test of justification among
   persons. The owner's contracts are maintained relations among processes
   that settle contention, and the second part of the proposal
-  (CLAIM-tmpe6yfm) keeps them apart from moral duty.
+  ([CLAIM-tmpe6yfm](CLAIM-tmpe6yfm.md)) keeps them apart from moral duty.
 
 ## What A16 made of it
 
@@ -96,12 +96,12 @@ identical to a race condition", and "operational standing is not reducible
 to priority. A low-priority process could possess a protected guarantee of
 eventual service, an entitlement to escalate a missed deadline, or
 immunity from arbitrary cancellation." Its development is filed as
-TERM-tmpgiy6r, CASE-tmptpna1, CLAIM-tmp7hqtl and CLAIM-tmpersgx.
+[TERM-tmpgiy6r](../terms.d/TERM-tmpgiy6r.md), [CASE-tmptpna1](../cases.d/CASE-tmptpna1.md), [CLAIM-tmp7hqtl](CLAIM-tmp7hqtl.md) and [CLAIM-tmpersgx](CLAIM-tmpersgx.md).
 
 ## What it does not say
 
 - It does not say that processes bound by such contracts have moral
   standing or owe one another anything morally; the second part of the
-  proposal says the opposite (CLAIM-tmpe6yfm).
+  proposal says the opposite ([CLAIM-tmpe6yfm](CLAIM-tmpe6yfm.md)).
 - It does not say that every priority rule is a contract, or that a
   contract's priority structure exhausts the standing it secures.

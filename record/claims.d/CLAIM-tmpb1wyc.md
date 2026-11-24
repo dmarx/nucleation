@@ -28,7 +28,7 @@ complements:
 summary: >-
   A34 §2 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24), from the SRE book's global Chubby planned outage
-  (CASE-tmp3xxqg): "Increasing the reliability of an individual component
+  ([CASE-tmp3xxqg](../cases.d/CASE-tmp3xxqg.md)): "Increasing the reliability of an individual component
   can decrease the resilience of the encompassing organization if other
   components adapt by losing their capacity to accommodate its failure."
   The last clause, the remedy of holding realized reliability near the
@@ -37,13 +37,13 @@ summary: >-
   Contracts, and Systemic Normativity"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: ARG-tmptccms CASE-tmp3xxqg CLAIM-603 CLAIM-677 CLAIM-tmpzas6q LIT-tmpihhfs — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
+<!-- inactive-ok-file: ARG-tmptccms CASE-tmp3xxqg CLAIM-603 CLAIM-677 LIT-tmpihhfs — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
 # CLAIM-tmpb1wyc: A provider whose realized reliability exceeds its declared guarantee can lower the resilience of the organization built on it: those who depend on it stop maintaining the fallbacks the guarantee would require, so its rare failures propagate, and holding realized reliability near the declared level keeps their expectations at the guarantee
 
 ## The claim
 
-A34 §2 reads the Chubby planned outage (CASE-tmp3xxqg) as "a concrete
+A34 §2 reads the Chubby planned outage ([CASE-tmp3xxqg](../cases.d/CASE-tmp3xxqg.md)) as "a concrete
 instance of the developmental mechanism we have been discussing": a chain
 from "Exceptional service reliability" through "Expectation formation",
 "Adaptive specialization" ("Fallback mechanisms become neglected or
@@ -62,9 +62,9 @@ implicit contracts is filed from U16 onward, by another group).
 
 ## What it adds to the record
 
-CLAIM-603 holds that a capability lost because another reliably supplies
+[CLAIM-603](CLAIM-603.md) holds that a capability lost because another reliably supplies
 it is the Black Queen's loss, and that the supply decides whether the loss
-is dependence or division of labour. CLAIM-677 holds that adoption can
+is dependence or division of labour. [CLAIM-677](CLAIM-677.md) holds that adoption can
 make a technology practically compulsory. Neither has a declared
 guarantee in it. This claim's content is the gap between what the
 provider declares and what it realizes: the consumers' loss is a
@@ -75,7 +75,7 @@ close the gap from its side.
 
 A34 says "Google's historical response was to introduce controlled
 outages when necessary to expose inappropriate dependencies". The SRE
-book (LIT-tmpihhfs, checked against the web edition on 2026-11-24) states
+book ([LIT-tmpihhfs](../literature.d/LIT-tmpihhfs.md), checked against the web edition on 2026-11-24) states
 the principle more sharply: "SRE makes sure that global Chubby meets, but
 does not significantly exceed, its service level objective. In any given
 quarter, if a true failure has not dropped availability below the target,
@@ -90,5 +90,5 @@ owner's call.
 
 ## Standing
 
-Proposed, in A's voice, from one documented specimen; ARG-tmptccms says
-how much the specimen carries. LEAD-tmpmmfxt would test it in simulation.
+Proposed, in A's voice, from one documented specimen; [ARG-tmptccms](../arguments.d/ARG-tmptccms.md) says
+how much the specimen carries. [LEAD-tmpmmfxt](../leads.d/LEAD-tmpmmfxt.md) would test it in simulation.

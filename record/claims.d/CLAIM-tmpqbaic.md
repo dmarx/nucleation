@@ -25,7 +25,7 @@ complements:
 uses:
 - TERM-tmp9mag8
 summary: >-
-  A gap fill (ADR-137) for A6 §3 of the exchange "Memes, Contracts, and
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A6 §3 of the exchange "Memes, Contracts, and
   Systemic Normativity" (ChatGPT, 2026-11-24), which defines the
   observational invariance subgroup K_P of a perspective's projection h_P,
   says the kernel of a representation ρ_P "Under suitable conditions ...
@@ -89,10 +89,10 @@ K and {g : χ(g) = χ(e)} agree ({e} and {e, s}); the merged fibres are
 ## What follows for A6
 
 The character apparatus captures blindness to transformations, a symmetry
-of the perspective, and misses the ignorance CLAIM-350 locates, which is a
+of the perspective, and misses the ignorance [CLAIM-350](CLAIM-350.md) locates, which is a
 judgment not constant on the fibres, whatever their relation to any
 group. A6 says "Character theory alone cannot establish that relevance"
 of the ignored distinctions; this adds that it cannot establish which
 distinctions are ignored either, beyond those a group moves. Agnotological
-character (TERM-tmp9mag8) is rightly "not necessarily a literal group
+character ([TERM-tmp9mag8](../terms.d/TERM-tmp9mag8.md)) is rightly "not necessarily a literal group
 character".

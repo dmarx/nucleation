@@ -17,7 +17,7 @@ published: '2001-09-01'
 doi: '10.1111/j.1745-6622.2001.tb00434.x'
 first_author: 'Jensen'
 summary: >-
-  Cited by A48 §9 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): "enlightened value maximization" incorporates much of stakeholder theory while keeping long-term firm value as the criterion for trade-offs. A48 argues it answers temporal, not jurisdictional, greed (TERM-tmpxr1ox). Unverified until read.
+  Cited by A48 §9 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): "enlightened value maximization" incorporates much of stakeholder theory while keeping long-term firm value as the criterion for trade-offs. A48 argues it answers temporal, not jurisdictional, greed ([TERM-tmpxr1ox](../terms.d/TERM-tmpxr1ox.md)). Unverified until read.
 ---
 
 <!-- inactive-ok-file: TERM-tmpxr1ox — Proposed or new; the entries this registration bears on -->
@@ -30,4 +30,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. Cited by A48 §9 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): "enlightened value maximization" incorporates much of stakeholder theory while keeping long-term firm value as the criterion for trade-offs. A48 argues it answers temporal, not jurisdictional, greed (TERM-tmpxr1ox). Unverified until read.
+Deferred. Cited by A48 §9 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): "enlightened value maximization" incorporates much of stakeholder theory while keeping long-term firm value as the criterion for trade-offs. A48 argues it answers temporal, not jurisdictional, greed ([TERM-tmpxr1ox](../terms.d/TERM-tmpxr1ox.md)). Unverified until read.

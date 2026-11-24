@@ -24,7 +24,7 @@ summary: >-
   §2.2 cites it: "Jack Balkin's Living Originalism treats the
   Constitution as a framework that is filled out through continuing
   political and constitutional construction". It bears on the
-  originalism critique (CLAIM-tmpr2qzg) and its objection (CLAIM-tmpmp2wh): an originalist position that by A40's own account does not
+  originalism critique ([CLAIM-tmpr2qzg](../claims.d/CLAIM-tmpr2qzg.md)) and its objection ([CLAIM-tmpmp2wh](../claims.d/CLAIM-tmpmp2wh.md)): an originalist position that by A40's own account does not
   hold specification exhaustiveness. What the exchange says of it is
   unverified until read.
 ---

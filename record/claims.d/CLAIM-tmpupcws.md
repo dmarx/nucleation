@@ -28,10 +28,10 @@ summary: >-
   "a sidebar we should explore: 'productive misunderstanding' -
   identification and clarification of ambiguity as detection of and
   reorganization around novel consequential distinctions". It reads the
-  clarification of an ambiguity as self-formation (TERM-099) of the
+  clarification of an ambiguity as self-formation ([TERM-099](../terms.d/TERM-099.md)) of the
   parties' joint organization, and offers misunderstanding as one occasion
-  on which a distinction comes into being (QUESTION-281). The assistant's
-  qualification is CLAIM-tmpm76n5 and its objection CLAIM-tmpgx2ej.
+  on which a distinction comes into being ([QUESTION-281](../questions.d/QUESTION-281.md)). The assistant's
+  qualification is [CLAIM-tmpm76n5](CLAIM-tmpm76n5.md) and its objection [CLAIM-tmpgx2ej](CLAIM-tmpgx2ej.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpm76n5 CLAIM-tmpgx2ej CLAIM-tmp80ny9 CLAIM-tmpro73c — Proposed or new; filed with this entry or in the same pull request -->
 
@@ -58,21 +58,21 @@ new to the organization that clarifies it.
 
 ## Where it sits
 
-- **Self-formation.** TERM-099's self-formation is the production, on a
+- **Self-formation.** [TERM-099](../terms.d/TERM-099.md)'s self-formation is the production, on a
   discrepancy the agent cannot yet resolve, of "a new distinction it can
   make legible" that outlasts the discrepancy and serves later ones. This
   claim names misunderstanding as an occasion of it, with a dyad or an
   organization as the agent.
-- **The exchange's taxonomy.** CLAIM-tmp80ny9 sorts uncertainty about which
+- **The exchange's taxonomy.** [CLAIM-tmp80ny9](CLAIM-tmp80ny9.md) sorts uncertainty about which
   relationship an act invokes into epistemic ambiguity, relational
   disagreement and constitutive indeterminacy. Of the three, only
   constitutive indeterminacy needs a new arrangement to resolve it; the
   owner's "novel" distinction belongs there, or in relational disagreement
   when its resolution forms terms neither party held.
-- **Who resolves it.** CLAIM-tmpro73c, from the same exchange: control over
+- **Who resolves it.** [CLAIM-tmpro73c](CLAIM-tmpro73c.md), from the same exchange: control over
   resolving an ambiguity can be exploited. A clarification imposed by one
   party may reorganize the relation around a distinction that serves only
   that party; whether that is still "productive" is open.
-- **How distinctions begin.** QUESTION-281 asks by which transitions the
+- **How distinctions begin.** [QUESTION-281](../questions.d/QUESTION-281.md) asks by which transitions the
   distinctions individuation needs come into being. This claim offers a
   communicative one.

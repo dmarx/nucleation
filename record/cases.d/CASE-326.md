@@ -182,5 +182,5 @@ coordinating interdependent activity." Its limit, A30 §15: "the current
 CASE-326 implementation uses fixed erosion and does not establish the full
 endogenous contractual dynamics described here." A qualification of
 scope, not of the case: for a store whose use changes it, σ and ε are not
-fixed. ARG-tmpa5ped holds the judgement, CLAIM-tmpsf9hp the claim, and
-LEAD-tmp14n26 the extension that would test it. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+fixed. [ARG-tmpa5ped](../arguments.d/ARG-tmpa5ped.md) holds the judgement, [CLAIM-tmpsf9hp](../claims.d/CLAIM-tmpsf9hp.md) the claim, and
+[LEAD-tmp14n26](../leads.d/LEAD-tmp14n26.md) the extension that would test it. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

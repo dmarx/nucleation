@@ -21,11 +21,11 @@ rests_on:
 - CLAIM-tmpa8tdg
 summary: >-
   A's critique of conservatism in the exchange "Memes, Contracts, and
-  Systemic Normativity" (2026-11-24), at the owner's U25 (CLAIM-tmpgmxs0):
+  Systemic Normativity" (2026-11-24), at the owner's U25 ([CLAIM-tmpgmxs0](CLAIM-tmpgmxs0.md)):
   A38 §3's "persistence–value conflation" and A40 §4.2's "epistemic
-  limitation". It applies CLAIM-tmpa8tdg. CLAIM-tmpdzcj6 holds that
+  limitation". It applies [CLAIM-tmpa8tdg](CLAIM-tmpa8tdg.md). [CLAIM-tmpdzcj6](CLAIM-tmpdzcj6.md) holds that
   conservatism as its theorists state it is a presumption under
-  uncertainty, not this conflation, and ARG-tmpx1cys rejects the inference.
+  uncertainty, not this conflation, and [ARG-tmpx1cys](../arguments.d/ARG-tmpx1cys.md) rejects the inference.
   The wording is A's (ChatGPT, in the exchange "Memes, Contracts, and
   Systemic Normativity"); adopting it is the owner's call.
 ---
@@ -50,13 +50,13 @@ counterfactual consequences of change."
 
 A38 §3: "philosophical conservatism contains important insights that our
 framework actually strengthens." Its table maps them: institutions contain
-inherited wisdom (stabilized constraints are stored work, CLAIM-761);
+inherited wisdom (stabilized constraints are stored work, [CLAIM-761](CLAIM-761.md));
 reform has unintended consequences (dependency structures are incompletely
 legible); traditions coordinate behaviour (implicit contracts amortize
 interaction costs); rapid transformation can be dangerous (reconfiguration
-may exceed available slack, CLAIM-571); local knowledge matters (inquiry
+may exceed available slack, [CLAIM-571](CLAIM-571.md)); local knowledge matters (inquiry
 capacities are distributed). A40 §4.1 cites Hayek's dispersed knowledge,
-held as THEORY-841, and notes that "Hayek explicitly distinguished his
+held as [THEORY-841](../theory.d/THEORY-841.md), and notes that "Hayek explicitly distinguished his
 liberalism from conservatism". A40 §4.1 adds that inherited organization
 stores constraint beside work: solutions beside assumptions specific to
 their time, credible commitments beside dependencies on their continuation.
@@ -65,16 +65,16 @@ their time, credible commitments beside dependencies on their continuation.
 
 A38 §3: "Burke's conservatism, in particular, recognizes the importance of
 change to preservation. It is not simply a doctrine of maintaining every
-existing arrangement" (LIT-tmpus6zs), and A38 §8 quotes Burke for its own
+existing arrangement" ([LIT-tmpus6zs](../literature.d/LIT-tmpus6zs.md)), and A38 §8 quotes Burke for its own
 conclusion. The conflation is charged to "strong preservationist
 conservatism", which A38 says is not a definition of the tradition. The
 exchange names no theorist who holds it.
 
 ## The objection
 
-CLAIM-tmpdzcj6: conservatism as its theorists state it is a presumption
+[CLAIM-tmpdzcj6](CLAIM-tmpdzcj6.md): conservatism as its theorists state it is a presumption
 under uncertainty and irreversibility, which rests on the premises A grants,
-and CLAIM-tmp8mpgs shows such a presumption can be cost-minimizing. What
+and [CLAIM-tmp8mpgs](CLAIM-tmp8mpgs.md) shows such a presumption can be cost-minimizing. What
 survives is the distributional point, A40 §4.4's cost of waiting borne by
 those the arrangement burdens, and A40 §4.3's point that keeping a
 structure is not keeping its goods.

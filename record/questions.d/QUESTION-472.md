@@ -160,7 +160,7 @@ Robillard's dissertation ([LIT-2682](../literature.d/LIT-2682.md), Unfetched) an
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
 
 A32 §13 calls this question "almost tailor-made for the expanded cost
-model". Its answer is filed as CLAIM-tmpdu9v6 (bears_on): a genuine
+model". Its answer is filed as [CLAIM-tmpdu9v6](../claims.d/CLAIM-tmpdu9v6.md) (bears_on): a genuine
 obligation "may constrain the admissibility of a transition rather than
 merely raise its numerical cost", so the model needs a cost κ_i(p) and a
 permissibility Perm_N(p) apart; a participant may be able to withdraw

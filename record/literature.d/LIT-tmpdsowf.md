@@ -27,7 +27,7 @@ summary: >-
   Thelen distinguish changes produced by altered environments from
   changes produced through new interpretations and enactments of
   existing rules". It bears on the claim that semantic fidelity can
-  coexist with functional drift (CLAIM-tmpazcha), which is their
+  coexist with functional drift ([CLAIM-tmpazcha](../claims.d/CLAIM-tmpazcha.md)), which is their
   "drift". What the exchange says of it is unverified until read.
 ---
 

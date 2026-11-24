@@ -20,7 +20,7 @@ line:
 - distributed-agency
 - pragmatic-transport
 complements:
-- CLAIM-tmp1m3ba
+- CLAIM-1004
 - CLAIM-185
 bears_on:
 - QUESTION-tmprvnp0
@@ -31,12 +31,12 @@ summary: >-
   The owner's, U2 of the exchange "Memes, Contracts, and Systemic
   Normativity" (ChatGPT, 2026-11-24), after A1's account of memes in
   Dawkins's sense: "memes as nucleation sites". It carries the figure the
-  owner used for persisted perspectives (CLAIM-tmp1m3ba) and the record
+  owner used for persisted perspectives (CLAIM-1004) and the record
   uses for its own argument (CLAIM-185) to memes. A2 and A4 develop it
   (CLAIM-tmpgvsgg, CLAIM-tmp4uj40). Filed in the owner's voice.
 ---
 
-<!-- inactive-ok-file: CLAIM-184 CLAIM-185 CLAIM-tmp1m3ba CLAIM-tmp4uj40 CLAIM-tmpgvsgg CLAIM-tmpq1lyz LIT-tmpfj6uj — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
+<!-- inactive-ok-file: CLAIM-184 CLAIM-185 CLAIM-1004 CLAIM-tmp4uj40 CLAIM-tmpgvsgg CLAIM-tmpq1lyz LIT-tmpfj6uj — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
 # CLAIM-tmp1ng5k: A meme can act as a nucleation site: a seed around which beliefs, practices and relations organize, and not only a unit that copies itself
 
@@ -60,29 +60,29 @@ and its surrounding informational environment."
 
 - **The figure is the owner's own, here moved again.** The owner offered
   persisted perspectives as "conceptual nucleation sites" for parallel
-  pursuit of inquiry (CLAIM-tmp1m3ba, the exchange "Explain First Contact
+  pursuit of inquiry ([CLAIM-1004](CLAIM-1004.md), the exchange "Explain First Contact
   RL", U28). The record's nucleating-argument line reads its own argument
-  as nucleating on persistent anchors (CLAIM-185: "The nucleation
+  as nucleating on persistent anchors ([CLAIM-185](CLAIM-185.md): "The nucleation
   threshold of an argument is whatever makes a structure persist";
-  CLAIM-184 on anchors that entrench). U2 takes the figure from arguments
+  [CLAIM-184](CLAIM-184.md) on anchors that entrench). U2 takes the figure from arguments
   and perspectives to transmitted cultural items.
 - **Its dynamical content is held.** A seed that tips a system into a
-  self-maintaining state is CASE-111's fold read with a transient input
-  (CLAIM-463), and a connector "maintained by the processes it enables" is
-  CASE-189's second construction. What the seeded model does and does not
-  express is CLAIM-tmpq1lyz.
-- **The open question** is QUESTION-380's in another setting: when a small
+  self-maintaining state is [CASE-111](../cases.d/CASE-111.md)'s fold read with a transient input
+  ([CLAIM-463](CLAIM-463.md)), and a connector "maintained by the processes it enables" is
+  [CASE-189](../cases.d/CASE-189.md)'s second construction. What the seeded model does and does not
+  express is [CLAIM-tmpq1lyz](CLAIM-tmpq1lyz.md).
+- **The open question** is [QUESTION-380](../questions.d/QUESTION-380.md)'s in another setting: when a small
   established structure makes a larger organization more likely, and
-  whether its effectiveness can be predicted. QUESTION-tmprvnp0 asks it of
+  whether its effectiveness can be predicted. [QUESTION-tmprvnp0](../questions.d/QUESTION-tmprvnp0.md) asks it of
   memes.
 - **Published neighbours,** unread: Schweitzer and Andres's model of group
-  formation as a phase transition (LIT-tmpfj6uj); Sperber's cultural
-  attractors, held as TERM-027.
+  formation as a phase transition ([LIT-tmpfj6uj](../literature.d/LIT-tmpfj6uj.md)); Sperber's cultural
+  attractors, held as [TERM-027](../terms.d/TERM-027.md).
 
 ## What it does not say
 
 That memes do not replicate. A2 §4: "The two models are not mutually
 exclusive. A meme can replicate across minds while nucleating complex
 structures within each mind." Nor that the seed persists in what it
-nucleates: whether it must is CLAIM-tmpgvsgg's separation of the seed's
+nucleates: whether it must is [CLAIM-tmpgvsgg](CLAIM-tmpgvsgg.md)'s separation of the seed's
 persistence from the organization's.

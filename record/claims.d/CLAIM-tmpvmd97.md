@@ -37,14 +37,14 @@ summary: >-
   (CLAIM-350, CLAIM-348, CASE-110), performative agreement (CLAIM-402,
   NOTE-1050), motivational capture (QUESTION-267), transferred and
   compensating work (CLAIM-760, CLAIM-700), capability erosion (CLAIM-921,
-  CLAIM-463), the no-inquiry result (CLAIM-tmpbbfcj). What it adds is the link
+  CLAIM-463), the no-inquiry result (CLAIM-1064). What it adds is the link
   to the owner's U27: metric governance as a legibility control surface, and
   its safeguards. Wells Fargo's sales model (CASE-151) is the held documented
   case A44 did not cite. The wording is A's (ChatGPT, in the exchange "Memes,
   Contracts, and Systemic Normativity"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmplm3mz CLAIM-682 CLAIM-931 QUESTION-267 CLAIM-700 CLAIM-921 CLAIM-tmpbbfcj TERM-108 LIT-tmpz8k08 LIT-tmp6k0um QUESTION-456 — Proposed, Deferred or new; the neighbours, held parts and works A44 cites, unread -->
+<!-- inactive-ok-file: CLAIM-931 CLAIM-700 CLAIM-921 TERM-108 LIT-tmpz8k08 LIT-tmp6k0um — Proposed, Deferred or new; the neighbours, held parts and works A44 cites, unread -->
 
 # CLAIM-tmpvmd97: A metric that governs allocates two powers, to make processes legible and to decide what follows from what it makes legible, so an accurate metric can still dominate where it gives a controller unanswerable discretion over those who depend on the arrangement; bounding by role which decisions a metric may govern, and keeping the authority to define success apart from the authority to pursue it, are the corresponding safeguards
 
@@ -88,27 +88,27 @@ to determine value."
 
 ## What is held
 
-- **Fibres.** A44 §2's J = j∘T criterion is CLAIM-350; its four workers
-  are CASE-110's two members; CLAIM-348 is the normative point.
+- **Fibres.** A44 §2's J = j∘T criterion is [CLAIM-350](CLAIM-350.md); its four workers
+  are [CASE-110](../cases.d/CASE-110.md)'s two members; [CLAIM-348](CLAIM-348.md) is the normative point.
 - **Weights.** A44 §3: "Some requirements should operate as constraints
-  rather than as weighted preferences." CLAIM-347 holds joint realizability
+  rather than as weighted preferences." [CLAIM-347](CLAIM-347.md) holds joint realizability
   before scalarization. Which requirements are constraints A44 does not say;
-  that is QUESTION-456's territory, how the demands are established.
+  that is [QUESTION-456](../questions.d/QUESTION-456.md)'s territory, how the demands are established.
 - **Goodhart's mechanisms.** A44 §4's taxonomy relabels held entries:
-  proxy inadequacy is TERM-108, performative agreement CLAIM-402 and
-  Espeland and Sauder's reactivity (NOTE-1050), cost displacement CLAIM-760,
-  capability erosion CLAIM-921 and CLAIM-463, epistemic closure
-  CLAIM-tmpbbfcj. Its point that metric tyranny needs no deception, "even
+  proxy inadequacy is [TERM-108](../terms.d/TERM-108.md), performative agreement [CLAIM-402](CLAIM-402.md) and
+  Espeland and Sauder's reactivity ([NOTE-1050](../notes.d/NOTE-1050.md)), cost displacement [CLAIM-760](CLAIM-760.md),
+  capability erosion [CLAIM-921](CLAIM-921.md) and [CLAIM-463](CLAIM-463.md), epistemic closure
+  [CLAIM-1064](CLAIM-1064.md). Its point that metric tyranny needs no deception, "even
   when every measurement is accurate, every participant acts
-  conscientiously and every declared target is satisfied", is CLAIM-348's.
-- **Who controls the test.** CLAIM-416: "a perspective that gains influence
-  over the test can change what later success shows"; CLAIM-931: what keeps
+  conscientiously and every declared target is satisfied", is [CLAIM-348](CLAIM-348.md)'s.
+- **Who controls the test.** [CLAIM-416](CLAIM-416.md): "a perspective that gains influence
+  over the test can change what later success shows"; [CLAIM-931](CLAIM-931.md): what keeps
   a loop from locking in is a score its own authority does not set. The
   separation of defining from pursuing success is their institutional form.
-- **A documented case.** CASE-151, Wells Fargo's Community Bank: unwanted
+- **A documented case.** [CASE-151](../cases.d/CASE-151.md), Wells Fargo's Community Bank: unwanted
   accounts the board's own investigation traced to the sales model and its
   performance management. A44 did not cite it; it is the record's case of
   a governing metric that the governed could not contest.
 
-Muller (LIT-tmpz8k08) and Bevan and Hood (LIT-tmp6k0um) are registered
+Muller ([LIT-tmpz8k08](../literature.d/LIT-tmpz8k08.md)) and Bevan and Hood ([LIT-tmp6k0um](../literature.d/LIT-tmp6k0um.md)) are registered
 Deferred; A44's account of them is unverified.

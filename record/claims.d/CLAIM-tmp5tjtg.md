@@ -33,9 +33,9 @@ summary: >-
   Normativity" (ChatGPT, 2026-11-24), anticipated at A8 §9 and restated at
   A10 §10. The rest of A9 maps components the record or the exchange
   already holds; this is what it adds, admitted by a discriminating
-  prediction (transfer of revision to later dependencies). CLAIM-424 holds
-  the capacity, CLAIM-532 how a capacity forms by an agent's own activity,
-  TERM-121 its collective form; none says the capacity can be seeded by
+  prediction (transfer of revision to later dependencies). [CLAIM-424](CLAIM-424.md) holds
+  the capacity, [CLAIM-532](CLAIM-532.md) how a capacity forms by an agent's own activity,
+  [TERM-121](../terms.d/TERM-121.md) its collective form; none says the capacity can be seeded by
   uptake of an expression. The wording is A's (ChatGPT, in the exchange
   'Memes, Contracts, and Systemic Normativity'); adopting it is the
   owner's call.
@@ -65,32 +65,32 @@ A10 §10: "A conception of autonomy could itself function as a nucleation
 site for autonomous organization. But merely believing oneself autonomous
 does not establish that such capacities have formed."
 
-**Admission** (ADR-075's routes). A discriminating prediction: if the
+**Admission** ([ADR-075](../decisions.d/ADR-075.md)'s routes). A discriminating prediction: if the
 claim holds, people who take up such an expression go on to revise
 dependencies of the same class that they meet later, more often than
 matched people who do not; if the expression is only held, endorsement
-rises and revisions do not. The components leave this open. CLAIM-424
+rises and revisions do not. The components leave this open. [CLAIM-424](CLAIM-424.md)
 says reflexive governance is a capacity some organizations have and others
-lack, and that it is not the capacity to revise well. CLAIM-532 says a
+lack, and that it is not the capacity to revise well. [CLAIM-532](CLAIM-532.md) says a
 capacity is self-formed when the agent's own activity on a discrepancy
-produces it, shown by transfer. CLAIM-545 makes that capacity, applied to
+produces it, shown by transfer. [CLAIM-545](CLAIM-545.md) makes that capacity, applied to
 the relations that govern one's own governing, freedom of will in the
-operational sense. TERM-121 holds the capacity for a perspective shared
+operational sense. [TERM-121](../terms.d/TERM-121.md) holds the capacity for a perspective shared
 across organizations. None says whether uptake of an expression can seed
 it.
 
 **How the parts fit.** The expression is the seed, the agent's own work on
-a discrepancy (being governed by an attribution it rejects, CLAIM-415) is
-what forms the capacity, and transfer is the test, as in CLAIM-532. So the
-capacity's formation provenance is mixed (TERM-100): the seed came from
+a discrepancy (being governed by an attribution it rejects, [CLAIM-415](CLAIM-415.md)) is
+what forms the capacity, and transfer is the test, as in [CLAIM-532](CLAIM-532.md). So the
+capacity's formation provenance is mixed ([TERM-100](../terms.d/TERM-100.md)): the seed came from
 outside, the formation was the agent's.
 
 ## What it does not say
 
 - **Not that such a capacity is the agent's own in every sense.** Whether
   a capacity seeded from outside and formed by one's own activity is one's
-  own is QUESTION-071's question, and CASE-191 shows the present structure
+  own is [QUESTION-071](../questions.d/QUESTION-071.md)'s question, and [CASE-191](../cases.d/CASE-191.md) shows the present structure
   does not settle it.
-- **Not that the capacity revises well** (CLAIM-424's rider).
+- **Not that the capacity revises well** ([CLAIM-424](CLAIM-424.md)'s rider).
 - **Not that the phrase does it.** A8: it is "not a property guaranteed by
   the phrase".

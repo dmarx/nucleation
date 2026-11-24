@@ -317,11 +317,11 @@ latency at most 200 ms. With 5 slow requests at 1500 ms the mean is
 times as long; "The service could technically satisfy its stated objective
 while systematically failing to provide adequate service to a minority of
 requests." A16 says it "directly models the fibre-occlusion problem in
-CLAIM-348 and CLAIM-350", which is right: the mean merges states a
+CLAIM-348 and [CLAIM-350](CLAIM-350.md)", which is right: the mean merges states a
 per-request requirement must distinguish. Checked with python3 -I: at
 1500 ms the objective holds up to 7 slow requests in 100 (mean 198 ms) and
 fails from 8. A16 adds that the failure is reflexively counter-normative
-(CLAIM-624) only where there is "an obligation to recognize and correct
+([CLAIM-624](CLAIM-624.md)) only where there is "an obligation to recognize and correct
 the relevant failures"; "At the purely computational level" it is "a
 mismatch between the monitoring contract and the wider system
 requirements". Bearing: an illustration. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
@@ -346,7 +346,7 @@ The wording of this note is the assistant's (Claude, in this session), reporting
 <!-- inactive-ok-file: LIT-tmp2v8ep CASE-tmp3so1p CLAIM-tmpa61rf — Deferred or Proposed; registered or filed from A44, A46 and A48 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
 
 Three more applications in the same exchange. A44 §2 cites the claim
-rightly with CLAIM-350 and CASE-110 ("Management cannot establish that only
+rightly with [CLAIM-350](CLAIM-350.md) and [CASE-110](../cases.d/CASE-110.md) ("Management cannot establish that only
 total productivity matters merely by selecting a representation in which
 only total productivity exists"). A44 §8 offers Obermeyer et al.'s
 healthcare algorithm, which predicted expenditure as a proxy for need, as
@@ -354,9 +354,9 @@ healthcare algorithm, which predicted expenditure as a proxy for need, as
 not state: "**A metric can encode historical injustice and subsequently
 participate in its reproduction**", since the merged states differ in
 past allocation and the metric feeds future allocation. The study is
-registered unread (LIT-tmp2v8ep) and is not evidence here until read. A46
+registered unread ([LIT-tmp2v8ep](../literature.d/LIT-tmp2v8ep.md)) and is not evidence here until read. A46
 §4's retention KPI merging satisfaction with lock-in is filed as
-CASE-tmp3so1p. A48 §4 applies the claim to shareholder value: decisions with
+[CASE-tmp3so1p](../cases.d/CASE-tmp3so1p.md). A48 §4 applies the claim to shareholder value: decisions with
 V_S(x) = V_S(x′) and different judgments of a party's claims
-(CLAIM-tmpa61rf). Bearing: illustrations, and one candidate empirical case
+([CLAIM-tmpa61rf](CLAIM-tmpa61rf.md)). Bearing: illustrations, and one candidate empirical case
 to be read. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

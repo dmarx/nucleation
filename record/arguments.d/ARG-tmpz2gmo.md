@@ -14,12 +14,12 @@ line:
 - rightful-power
 summary: >-
   A38 §2 and A40 §3 of the exchange "Memes, Contracts, and Systemic
-  Normativity" (2026-11-24) apply CLAIM-tmp1wlu2 to strong unitary executive
+  Normativity" (2026-11-24) apply [CLAIM-tmp1wlu2](../claims.d/CLAIM-tmp1wlu2.md) to strong unitary executive
   theory. The application holds for correctives the strong theory puts under
   presidential direction and removal, inside the executive or dependent on
   its resources, and not as A38's table states the theory's assumption,
   since its defenders argue from text and accountability. Narrowed, not
-  rejected; the narrowing is CLAIM-tmpqhxsz's. The wording is the
+  rejected; the narrowing is [CLAIM-tmpqhxsz](../claims.d/CLAIM-tmpqhxsz.md)'s. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
@@ -29,12 +29,12 @@ summary: >-
 
 ## The inference
 
-Premise (CLAIM-tmp1wlu2): responsibility for an outcome does not entail
+Premise ([CLAIM-tmp1wlu2](../claims.d/CLAIM-tmp1wlu2.md)): responsibility for an outcome does not entail
 every power over the processes that contribute to, evaluate or correct it,
 and concentrating authority over correctives correlates their failures.
 Premise from the theory (A38 §2, accurate): strong versions give the
 President "extensive control over executive officials, especially their
-supervision and removal". Conclusion (CLAIM-tmplc4m8): the theory is
+supervision and removal". Conclusion ([CLAIM-tmplc4m8](../claims.d/CLAIM-tmplc4m8.md)): the theory is
 deficient where that control reaches the processes that correct the
 executive.
 
@@ -51,11 +51,11 @@ executive.
   attributes to it the assumption that "Effective unity of executive action
   requires hierarchical unity of governing authority". Its defenders argue
   from the vesting of executive power and from accountability (Federalist
-  No. 70, LIT-tmp4cqb2: plurality "tends to conceal faults and destroy
+  No. 70, [LIT-tmp4cqb2](../literature.d/LIT-tmp4cqb2.md): plurality "tends to conceal faults and destroy
   responsibility"). The non-entailment does not touch those arguments; it
   shows only that they must carry the theory alone.
 - **Is there a countervailing consideration?** Yes, and A40 §3.5 grants it:
   insulated correctives can become unanswerable. The accountability argument
   is this consideration.
 - **Verdict.** The inference holds for correctives inside the executive or
-  dependent on its resources, case by case; LEAD-tmpvo9fs is its test.
+  dependent on its resources, case by case; [LEAD-tmpvo9fs](../leads.d/LEAD-tmpvo9fs.md) is its test.

@@ -51,7 +51,7 @@ summary: >-
 
 ## The claim
 
-Where a contract is implicit (CLAIM-tmp0d1fq), there is no text to read its
+Where a contract is implicit ([CLAIM-tmp0d1fq](CLAIM-tmp0d1fq.md)), there is no text to read its
 terms from, and the ordinary run of the relationship does not show them
 either: "Two systems might exhibit identical ordinary interaction while
 differing significantly in how their relationships are organized" (A20
@@ -78,7 +78,7 @@ Two consequences the turns draw:
    then discover "That it depended upon a service it had never
    represented" or "That the contract's conditions of suspension or
    revision had never been established". Exploitation is one such event,
-   which is the owner's U17 on reading (b) (CLAIM-tmppx64t).
+   which is the owner's U17 on reading (b) ([CLAIM-tmppx64t](CLAIM-tmppx64t.md)).
 2. **Compliance underdetermines the mechanism** (A22 §16). The same
    compliance can come from internalization, mutual accommodation,
    strategic compliance, dependency, enforcement, constitutive
@@ -90,12 +90,12 @@ Two consequences the turns draw:
 
 ## Relation to the record
 
-This is the record's method applied to contracts. CLAIM-364 holds that
+This is the record's method applied to contracts. [CLAIM-364](CLAIM-364.md) holds that
 processes conditioned never to object and processes that negotiate part
 "only under intervention, when a constituent dissents, or in their
-history"; CLAIM-718 takes a normative verdict as a premise and looks for
+history"; [CLAIM-718](CLAIM-718.md) takes a normative verdict as a premise and looks for
 the organizational difference between relationships with the same
-behaviour and outcome. A20 cites CLAIM-522 for "observing a maintained
+behaviour and outcome. A20 cites [CLAIM-522](CLAIM-522.md) for "observing a maintained
 organization" versus "identifying the processes through which it is
 maintained". That claim adds a limit the probes should respect:
 interventions on state, recovery included, cannot show where maintenance is
@@ -111,4 +111,4 @@ on a mechanism, can.
   fixed by what the arrangement is claimed to be.
 
 A test of the claim, the matched-behaviour comparison A22 §21 and A24 §23
-propose, is LEAD-tmp5l71z.
+propose, is [LEAD-tmp5l71z](../leads.d/LEAD-tmp5l71z.md).

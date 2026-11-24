@@ -32,7 +32,7 @@ summary: >-
 
 # LIT-tmpy59b0: How Democracies Die
 
-Steven Levitsky and Daniel Ziblatt (Crown, 2018). No DOI for the book; the URL is its Open Library work record. The publication date, 16 January 2018, is the assistant's knowledge of the first US edition, not checked against a catalogue here (ADR-002).
+Steven Levitsky and Daniel Ziblatt (Crown, 2018). No DOI for the book; the URL is its Open Library work record. The publication date, 16 January 2018, is the assistant's knowledge of the first US edition, not checked against a catalogue here ([ADR-002](../decisions.d/ADR-002.md)).
 
 ## Key takeaways
 

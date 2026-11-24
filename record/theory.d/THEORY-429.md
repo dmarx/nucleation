@@ -127,7 +127,7 @@ assertion that implicit arrangements economize coordination and become
 path-dependent." The more distinctive direction it proposes is to
 generalize the mechanisms across scales, tie them to individuation and
 represent their effects on the participants' costed possibility spaces.
-A bearing of prior art on the exchange's claims (CLAIM-tmpsf9hp and the
+A bearing of prior art on the exchange's claims ([CLAIM-tmpsf9hp](../claims.d/CLAIM-tmpsf9hp.md) and the
 implicit contracts of U14 and U16): this reading anticipates their
 economic half. Relation: none written; it is a limit on what those claims
 may call new, recorded here. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

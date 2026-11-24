@@ -25,9 +25,9 @@ complements:
 bears_on:
 - QUESTION-tmprvnp0
 summary: >-
-  A gap fill (ADR-137) for A4 §3 of the exchange "Memes, Contracts, and
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A4 §3 of the exchange "Memes, Contracts, and
   Systemic Normativity" (ChatGPT, 2026-11-24), which adds a meme to
-  CASE-111's fold, ḃ = μb + κb² − b³ + αm(t), and says "In the bistable
+  [CASE-111](../cases.d/CASE-111.md)'s fold, ḃ = μb + κb² − b³ + αm(t), and says "In the bistable
   regime, the meme need only push the system past an unstable threshold"
   and that the model "produces a fundamentally different account of
   memetic effectiveness". The window, the threshold and how it grows with
@@ -43,7 +43,7 @@ summary: >-
 
 ## The gap
 
-A4 §3 takes CASE-111's boundary-maintenance fold and adds "a transient
+A4 §3 takes [CASE-111](../cases.d/CASE-111.md)'s boundary-maintenance fold and adds "a transient
 memetic intervention", ḃ = μb + κb² − b³ + αm(t), where b is "the
 intensity of organizational activity", μ "prevailing environmental
 conditions", κ "endogenous reinforcement", m(t) "exposure to the meme"
@@ -63,7 +63,7 @@ With m = 0, the equilibria other than b = 0 solve b² − κb − μ = 0:
   b± = (κ ± √(κ² + 4μ)) / 2.
 
 - **The window.** Both are real and positive exactly when
-  −κ²/4 < μ < 0 (CASE-111's bistable range). Then b = 0 and b₊ are stable
+  −κ²/4 < μ < 0 ([CASE-111](../cases.d/CASE-111.md)'s bistable range). Then b = 0 and b₊ are stable
   and b₋ is the unstable threshold between them. For μ ≥ 0, b = 0 is
   unstable and any positive activity grows to b₊: no seed is needed, as
   past a spinodal. For μ < −κ²/4 there is no maintained state and no seed
@@ -107,9 +107,9 @@ from −0.99 to −0.01, inside the window, so it shows neither edge.
   which A4 §8 tests as "Nucleation specificity", cannot be expressed.
 - **Transmission is absent.** The model has no copying, so it can neither
   show nor refute that "informational fidelity" or "replication rate" is
-  insufficient. That is CLAIM-tmp4uj40's question, for data.
+  insufficient. That is [CLAIM-tmp4uj40](CLAIM-tmp4uj40.md)'s question, for data.
 
-The model is CLAIM-463's hysteresis with a pulse; what it adds is the
+The model is [CLAIM-463](CLAIM-463.md)'s hysteresis with a pulse; what it adds is the
 threshold for a transient seed, and the lesson is that a test of
 nucleation specificity needs more than one maintained regime and a seed
-with more than one dimension (LEAD-tmpiktom).
+with more than one dimension ([LEAD-tmpiktom](../leads.d/LEAD-tmpiktom.md)).

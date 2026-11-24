@@ -162,8 +162,8 @@ Accurately discovering previously unrecognized problems can then be
 individually disadvantageous", so that "**Ignorance can be an
 organizational achievement without being anyone's objective.**" A6 sets
 this against Linsey McGoey's work on strategic ignorance, registered
-unread as LIT-tmpmrlmt, which treats nonknowledge as a resource someone
-uses. A6's account of transmitted ignorance (CLAIM-tmpjlxfy) complements
+unread as [LIT-tmpmrlmt](../literature.d/LIT-tmpmrlmt.md), which treats nonknowledge as a resource someone
+uses. A6's account of transmitted ignorance ([CLAIM-tmpjlxfy](CLAIM-tmpjlxfy.md)) complements
 this claim. Bearing: an application and a contrast with outside
 literature, no edge; no change. The wording of this note is the
 assistant's (Claude, in this session), reporting A's (ChatGPT's) text;

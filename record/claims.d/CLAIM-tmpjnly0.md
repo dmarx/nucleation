@@ -34,16 +34,16 @@ summary: >-
   A46 §10 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24), restated for shareholder value at A48 §6 ("Regulatory
   arbitrage as second-order optimization"). It reads Doctorow's four
-  constraints (THEORY-470) as terms of the loss that disciplines extraction
-  and makes that loss stateful. THEORY-470 holds that the constraints
-  weakened, not the people; CLAIM-464 holds that one intervention can change
+  constraints ([THEORY-470](../theory.d/THEORY-470.md)) as terms of the loss that disciplines extraction
+  and makes that loss stateful. [THEORY-470](../theory.d/THEORY-470.md) holds that the constraints
+  weakened, not the people; [CLAIM-464](CLAIM-464.md) holds that one intervention can change
   what it would take to correct it. Added: the optimizing policy itself puts a
   value on eroding them. The derivation A46 omits is filled in the note below.
   The wording is A's (ChatGPT, in the exchange "Memes, Contracts, and Systemic
   Normativity"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-619 CLAIM-670 CLAIM-624 THEORY-470 THEORY-150 TERM-tmpxr1ox — Proposed; the held neighbours, Doctorow's accounts and the term -->
+<!-- inactive-ok-file: CLAIM-619 CLAIM-624 THEORY-470 THEORY-150 — Proposed; the held neighbours, Doctorow's accounts and the term -->
 
 # CLAIM-tmpjnly0: Where the losses that discipline an institution's extraction from those who depend on it, their exit, challenge, regulation and internal resistance, depend on a state its own actions change, an institution optimizing a narrow objective over time values weakening those constraints for their own sake, so their erosion can be produced by the optimization itself, with no change in the character of those who run it
 
@@ -78,13 +78,13 @@ justified constraints."
 
 ## What is held and what is added
 
-- THEORY-470 (Doctorow, Proposed): decay comes from the weakening of the four
+- [THEORY-470](../theory.d/THEORY-470.md) (Doctorow, Proposed): decay comes from the weakening of the four
   constraints, not from a change in who runs platforms; it names regulation
-  "Captured by concentrated industries". THEORY-150: each stage is made
+  "Captured by concentrated industries". [THEORY-150](../theory.d/THEORY-150.md): each stage is made
   possible by the lock-in the one before built.
-- CLAIM-464: one intervention can alter control, access or enforcement
-  before it is reviewed. CLAIM-619: answering a challenge by reducing the
-  capacity for challenge. CLAIM-404: governing an organization through what
+- [CLAIM-464](CLAIM-464.md): one intervention can alter control, access or enforcement
+  before it is reviewed. [CLAIM-619](CLAIM-619.md): answering a challenge by reducing the
+  capacity for challenge. [CLAIM-404](CLAIM-404.md): governing an organization through what
   its procedures receive.
 - Added: the endogenous form. The optimization assigns the erosion a value
   of its own, so the account needs no change of character, which is how
@@ -116,5 +116,5 @@ claim is about the policy, not the motive: the institution need not
 represent the constraints as targets, only act on a score that rewards
 their weakening. Whether that erosion is wrongful is the separate question
 A48 §6 marks, answered only with an independently justified constraint
-(CLAIM-624). The wording of this note is the assistant's (Claude, in this
+([CLAIM-624](CLAIM-624.md)). The wording of this note is the assistant's (Claude, in this
 session); adopting it is the owner's call.

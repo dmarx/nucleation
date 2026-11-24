@@ -250,9 +250,9 @@ A32 §1 cites this claim as one that "already investigates how
 communicative interpretation can depend on identifying who is addressed
 and in what relationship". The claim does not investigate that in
 general: it is about a change of cover in translation, and its address
-question appears only in CASE-072's example, a rendering that decides
+question appears only in [CASE-072](../cases.d/CASE-072.md)'s example, a rendering that decides
 "who is addressed and in what relationship" where the source left it
 open. The citation is loose rather than wrong: that example is a
 translation deciding which relationship an utterance invokes, the
-question CLAIM-tmp80ny9 holds, but this claim neither states nor needs the
+question [CLAIM-tmp80ny9](CLAIM-tmp80ny9.md) holds, but this claim neither states nor needs the
 general point. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

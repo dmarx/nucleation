@@ -27,7 +27,7 @@ keywords: ['capability trap', 'firefighting', 'process improvement', 'system dyn
 implementations: []
 summary: >-
   Not cited by the exchange. The assistant names it in the gap fill of
-  CLAIM-tmpjoaj3: A34 §7's "regulatory trap", in which reactive work consumes
+  [CLAIM-tmpjoaj3](../claims.d/CLAIM-tmpjoaj3.md): A34 §7's "regulatory trap", in which reactive work consumes
   the capacity to remove its causes, is close to this paper's capability
   trap, which the exchange does not mention. Unverified until read.
 ---
@@ -36,7 +36,7 @@ summary: >-
 
 # LIT-tmp4c11c: Nobody Ever Gets Credit for Fixing Problems That Never Happened: Creating and Sustaining Process Improvement
 
-Nelson P. Repenning and John D. Sterman, California Management Review 43(4):64–88. Crossref gives July 2001 with no day, so `published:` is the first of July (ADR-002).
+Nelson P. Repenning and John D. Sterman, California Management Review 43(4):64–88. Crossref gives July 2001 with no day, so `published:` is the first of July ([ADR-002](../decisions.d/ADR-002.md)).
 
 ## Key takeaways
 
@@ -44,4 +44,4 @@ Nelson P. Repenning and John D. Sterman, California Management Review 43(4):64�
 
 ## Standing in the record
 
-Not cited by the exchange. The assistant names it in the gap fill of CLAIM-tmpjoaj3: A34 §7's "regulatory trap", in which reactive work consumes the capacity to remove its causes, is close to this paper's capability trap, which the exchange does not mention. Unverified until read.
+Not cited by the exchange. The assistant names it in the gap fill of [CLAIM-tmpjoaj3](../claims.d/CLAIM-tmpjoaj3.md): A34 §7's "regulatory trap", in which reactive work consumes the capacity to remove its causes, is close to this paper's capability trap, which the exchange does not mention. Unverified until read.

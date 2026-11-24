@@ -31,7 +31,7 @@ summary: >-
   owner's call.
 ---
 
-<!-- inactive-ok-file: CASE-tmpktyr7 CLAIM-332 CLAIM-tmpgvsgg CLAIM-tmpq1lyz LIT-tmpfj6uj — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
+<!-- inactive-ok-file: CASE-410 CLAIM-332 CLAIM-tmpgvsgg CLAIM-tmpq1lyz LIT-tmpfj6uj — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
 # LEAD-tmpiktom: Design a memetic nucleation study that varies the seed and the receiving organization separately, withdraws the seed once organization forms, interrupts its endogenous reinforcement, and measures new persistent relations among participants against a threshold-contagion baseline
 
@@ -55,7 +55,7 @@ It names no population, no measure of "organization", and no baseline.
 ## The plan
 
 1. **Baseline.** Fit threshold (complex-contagion) adoption models as the
-   transmission rival named in CLAIM-tmpgvsgg's defeater. They already
+   transmission rival named in [CLAIM-tmpgvsgg](../claims.d/CLAIM-tmpgvsgg.md)'s defeater. They already
    produce critical masses and hysteresis, so a threshold or a lasting
    regime after withdrawal is not by itself evidence of nucleation.
 2. **Measure.** Take A4's own discriminating variable: "whether exposure
@@ -64,24 +64,24 @@ It names no population, no measure of "organization", and no baseline.
    relations". Measure tie formation and persistence, fixed before
    exposure data are seen, beside adoption.
 3. **More than one regime.** Nucleation specificity needs seeds that can
-   nucleate different organizations; CLAIM-tmpq1lyz shows that a model
+   nucleate different organizations; [CLAIM-tmpq1lyz](../claims.d/CLAIM-tmpq1lyz.md) shows that a model
    with one maintained state and a scalar seed cannot express it, so
    the model fitted must have several.
 4. **Maintenance provenance.** Intervene on the reinforcing mechanisms,
-   not only on state: CLAIM-522 holds that recovery after perturbations
+   not only on state: [CLAIM-522](../claims.d/CLAIM-522.md) holds that recovery after perturbations
    of state "cannot show where maintenance is realized".
-5. **A first site.** The record's Juggernaut study (CASE-100, and
-   CASE-tmpktyr7, which A4 cites by its code on main) asks whether distributed
-   circulation earns explanatory standing (CLAIM-332). A4: "A nucleation
+5. **A first site.** The record's Juggernaut study ([CASE-100](../cases.d/CASE-100.md), and
+   [CASE-410](../cases.d/CASE-410.md), which A4 cites by its code on main) asks whether distributed
+   circulation earns explanatory standing ([CLAIM-332](../claims.d/CLAIM-332.md)). A4: "A nucleation
    study would ask an additional question". Check whether its data
    record relations among circulators at all.
 6. **Read** the nearest published model, Schweitzer and Andres on group
-   formation as a phase transition (LIT-tmpfj6uj), for whether its
+   formation as a phase transition ([LIT-tmpfj6uj](../literature.d/LIT-tmpfj6uj.md)), for whether its
    nucleation is around a seed.
 
 ## What each outcome would show
 
 New persistent relations formed after exposure, beyond what the fitted
-threshold model predicts, would favour CLAIM-tmpgvsgg. Adoption patterns
+threshold model predicts, would favour [CLAIM-tmpgvsgg](../claims.d/CLAIM-tmpgvsgg.md). Adoption patterns
 the threshold model fits, with no relational excess, would meet its
 defeater.

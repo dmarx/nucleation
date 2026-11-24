@@ -231,7 +231,7 @@ recognition rather than in kinds. Status unchanged; no edge.
 
 <!-- inactive-ok-file: CLAIM-426 — Proposed; cited as A11 cites it -->
 
-A11 §11 cites this claim, with CLAIM-426, for bias "participating in the
+A11 §11 cites this claim, with [CLAIM-426](CLAIM-426.md), for bias "participating in the
 production of reality", where "The attribution can become accurate while
 its original evidential grounds remain inadequate"; the citation is right.
 A11 §14 applies the same structure, without citing it, to ecological
@@ -241,14 +241,14 @@ accommodate its existing constraints." That is this claim's condition for a
 heuristic: its fit to an environment its own use helped make warrants
 little about its adaptation unless the evidence of fit does not pass
 through that use. Bearing: an extension to heuristics, held here rather
-than filed apart (ADR-072). The claim is unchanged.
+than filed apart ([ADR-072](../decisions.d/ADR-072.md)). The claim is unchanged.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A44 §5
 
 <!-- inactive-ok-file: CLAIM-tmpefeb7 CLAIM-tmpyqjn0 — Proposed; filed from A42 and A48 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
 
 A44 §5, on the owner's U28 ("the tyranny of metrics"), restates this claim
-for public rankings after Espeland and Sauder (NOTE-1050): "The metric can
+for public rankings after Espeland and Sauder ([NOTE-1050](../notes.d/NOTE-1050.md)): "The metric can
 become more predictive because the organization has increasingly
 reorganized itself around the metric", so "**Improved correspondence
 between a measure and its object does not establish that the measure was
@@ -257,6 +257,6 @@ desirable.**" It separates "predictive validity, independently grounded
 evaluative validity, and performatively produced agreement", which names
 the three things the claim's condition keeps apart. Two filings of the
 exchange apply the pattern: monitoring that produces the conformity it
-records (CLAIM-tmpefeb7) and a reading of fiduciary duty that produces the
-character later cited as legal necessity (CLAIM-tmpyqjn0). Bearing:
+records ([CLAIM-tmpefeb7](CLAIM-tmpefeb7.md)) and a reading of fiduciary duty that produces the
+character later cited as legal necessity ([CLAIM-tmpyqjn0](CLAIM-tmpyqjn0.md)). Bearing:
 support by restatement, and two applications. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

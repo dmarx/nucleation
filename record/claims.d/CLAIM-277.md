@@ -281,7 +281,7 @@ something around which others organize themselves."
 
 This is an extension, not evidence: the entrenchment this claim already
 holds is reinforced by a loss of capacity on the deferring side, the route
-filed as CLAIM-tmp18v1o, and the reserve that would check it is
-CLAIM-tmp2jhc1's constitutional redundancy ("its existence can prevent
+filed as [CLAIM-tmp18v1o](CLAIM-tmp18v1o.md), and the reserve that would check it is
+[CLAIM-tmp2jhc1](CLAIM-tmp2jhc1.md)'s constitutional redundancy ("its existence can prevent
 another process from acquiring unrestricted interpretive authority", A24
 §7). The claim is unchanged.

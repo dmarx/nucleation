@@ -64,17 +64,17 @@ compliance.
 
 What it would test:
 
-- **CLAIM-tmp1nubb.** Regimes matched on ordinary behaviour should part
+- **[CLAIM-tmp1nubb](../claims.d/CLAIM-tmp1nubb.md).** Regimes matched on ordinary behaviour should part
   under the perturbations that claim lists. A22's control: "compare
   genuine accommodation against suppression of conflicting demands".
-- **CLAIM-tmpjg5gx.** Norm stability should rise with dependent investment
+- **[CLAIM-tmpjg5gx](../claims.d/CLAIM-tmpjg5gx.md).** Norm stability should rise with dependent investment
   while independent capacity falls (A22: "norm stability can increase
   while independent capacity declines").
-- **CLAIM-tmp8bimm.** In the unaccounted-subsidy regime, regulatory
+- **[CLAIM-tmp8bimm](../claims.d/CLAIM-tmp8bimm.md).** In the unaccounted-subsidy regime, regulatory
   savings should accrue to the non-maintaining agent while measured harmony
   matches the reciprocal regime (A22: "exploitation-like arrangements can
   persist through successful performance").
-- **CLAIM-tmpreipd**, in one respect only: whether cooperation scores
+- **[CLAIM-tmpreipd](../claims.d/CLAIM-tmpreipd.md)**, in one respect only: whether cooperation scores
   alone fail to fix the relational properties a moral evaluation would
   need. A24: it "would not demonstrate that the computational processes
   themselves have moral standing, or that the model has derived moral
@@ -85,7 +85,7 @@ What it would test:
 - a capacity dynamics (how unused capacity decays and can be rebuilt),
   such as A20 §6's update rule;
 - a definition of when a relationship counts as an implicit contract in
-  the environment, by CLAIM-tmp1nubb's probes, fixed before the runs;
+  the environment, by [CLAIM-tmp1nubb](../claims.d/CLAIM-tmp1nubb.md)'s probes, fixed before the runs;
 - the matching criterion for "ordinary behaviour", stated in advance;
 - a perturbation schedule fixed before the comparison, as in the
-  record's other matched-behaviour designs (CLAIM-364).
+  record's other matched-behaviour designs ([CLAIM-364](../claims.d/CLAIM-364.md)).

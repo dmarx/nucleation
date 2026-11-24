@@ -258,22 +258,22 @@ cites this claim correctly. A13 §IX separates the steps: "Rejection does not
 necessarily dissolve affective significance. Affective significance does
 not necessarily determine granted authority. Granted authority does not
 necessarily establish legitimate authority." Bearing: a candidate
-mechanism, through TERM-104's significance and CLAIM-283's grant, and no
+mechanism, through [TERM-104](../terms.d/TERM-104.md)'s significance and [CLAIM-283](CLAIM-283.md)'s grant, and no
 evidence; the third clause's want of a read result stands. The claim is
 unchanged.
 
 ## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", U7/A8 and A10 §8
 
-<!-- inactive-ok-file: CLAIM-tmpj4pw3 LEAD-tmp0w114 CLAIM-tmp5tjtg CLAIM-425 CLAIM-426 CLAIM-332 LIT-1394 — Proposed, Open or Unfetched; filed from or read against the exchange of 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-tmpj4pw3 CLAIM-tmp5tjtg CLAIM-425 CLAIM-426 CLAIM-332 LIT-1394 — Proposed, Open or Unfetched; filed from or read against the exchange of 2026-11-24 -->
 
 At U7 the owner asked to "apply this framework to probe the phrase 'I am
-whatever you say I am'". A8 found this claim and its neighbours (LIT-1394,
-TERM-075, CLAIM-425, CLAIM-426, CASE-142) and dated the phrase correctly to
+whatever you say I am'". A8 found this claim and its neighbours ([LIT-1394](../literature.d/LIT-1394.md),
+[TERM-075](../terms.d/TERM-075.md), [CLAIM-425](CLAIM-425.md), [CLAIM-426](CLAIM-426.md), [CASE-142](../cases.d/CASE-142.md)) and dated the phrase correctly to
 the exchange of 2026-10-22. Most of A8 restates what is held: "believing an
 identity and being organized in relation to an identity" is this claim's
 second step; the imagined "you" as "a falsely unified audience" beside the
-"I" as "a falsely unified owner" is its first step with CLAIM-355; the four
-orientations of A8 §10 are CLAIM-425's.
+"I" as "a falsely unified owner" is its first step with [CLAIM-355](CLAIM-355.md); the four
+orientations of A8 §10 are [CLAIM-425](CLAIM-425.md)'s.
 
 What is new:
 
@@ -281,26 +281,26 @@ What is new:
   attribution act on responses and finds that conformity and opposition
   "transform according to the sign representation": "Defiance and
   submission can be structurally related forms of governability", Cooley's
-  "remoter conformity" in symmetry terms. The assistant's CLAIM-tmpj4pw3
+  "remoter conformity" in symmetry terms. The assistant's [CLAIM-tmpj4pw3](CLAIM-tmpj4pw3.md)
   corrects A9's reading of it (the transformation type does not carry
   sensitivity) and states the condition it needs (the attribution reversed
-  with its grounds held fixed). A8's proposed test is LEAD-tmp0w114.
+  with its grounds held fixed). A8's proposed test is [LEAD-tmp0w114](../leads.d/LEAD-tmp0w114.md).
 - **Three ways a label is confirmed.** A10 §8 separates
   "**Self-fulfillment:** I acquire characteristics that were initially
   misattributed to me", "**Adversarial constitution:** I become organized
   through my opposition to the characterization" and "**Interpretive
   self-sealing:** Whatever I do is taken as confirmation, regardless of
   whether my character changes", and notes "Only the first necessarily
-  involves realization of the attributed content", with NOTE-1409's moral
-  alchemy for the third. CASE-142's critic citing the anger as proof can be
+  involves realization of the attributed content", with [NOTE-1409](../notes.d/NOTE-1409.md)'s moral
+  alchemy for the third. [CASE-142](../cases.d/CASE-142.md)'s critic citing the anger as proof can be
   the second or the third; which it is turns on whether the person became
   hostile or was only read so, which A8 §5's caption also leaves "a
-  separate question". CASE-141 shows the first and third together.
+  separate question". [CASE-141](../cases.d/CASE-141.md) shows the first and third together.
 - **The phrase as a resource for revision.** A8 §9: the phrase "could
   subsequently provide a conceptual resource for recognizing and revising
-  that condition", generalized in CLAIM-tmp5tjtg (A's, Proposed).
+  that condition", generalized in [CLAIM-tmp5tjtg](CLAIM-tmp5tjtg.md) (A's, Proposed).
 
 A8 §7's "distributed reflexive influence without a unified controller" is
-this claim's false unity seen from the attributors' side, and CLAIM-332's
+this claim's false unity seen from the attributors' side, and [CLAIM-332](CLAIM-332.md)'s
 effect without collective intention; A8 itself reserves "control" for an
 agent with a control channel. The claim is unchanged.

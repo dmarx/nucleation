@@ -19,7 +19,7 @@ summary: >-
   A38 §4 and A40 §5 of the exchange "Memes, Contracts, and Systemic
   Normativity" (2026-11-24), at the owner's U25 and U26: "They therefore
   cannot simply be treated as expressions of one coherent philosophy of
-  conservation." It bears on the owner's "respectively" (CLAIM-tmpgmxs0).
+  conservation." It bears on the owner's "respectively" ([CLAIM-tmpgmxs0](CLAIM-tmpgmxs0.md)).
   The tension is a known debate within conservative legal thought, which the
   exchange does not mention. The wording is A's (ChatGPT, in the exchange
   "Memes, Contracts, and Systemic Normativity"); adopting it is the owner's
@@ -62,7 +62,7 @@ common-mode failure, lock-in): "These are paired design problems."
   originalist correction. From the assistant's knowledge; the turns cite
   neither, so they are not registered.
 - **Two of the three are not independent.** Unitary executive theory is
-  usually argued on originalist grounds (CLAIM-tmpqhxsz), so where they
+  usually argued on originalist grounds ([CLAIM-tmpqhxsz](CLAIM-tmpqhxsz.md)), so where they
   conflict with conservatism they tend to conflict together.
 - **A candidate shared principle.** Originalism and executive unity are
   often defended together as limits on unaccountable discretion, of judges
@@ -78,6 +78,6 @@ another, so that an arrangement "governs access to the activities through
 which its inadequacy might be discovered". A40 marks it a "Hypothetical
 conjunction, not an empirical finding" and says it "applies equally to any
 institutional arrangement, regardless of its ideological orientation". It
-is held as a mechanism by CLAIM-614 (an organization reproducing the
-projections that make its harm illegible) and CLAIM-624, and the exchange's
+is held as a mechanism by [CLAIM-614](CLAIM-614.md) (an organization reproducing the
+projections that make its harm illegible) and [CLAIM-624](CLAIM-624.md), and the exchange's
 A36 §24 names it "Epistemic closure"; it is not filed again here.

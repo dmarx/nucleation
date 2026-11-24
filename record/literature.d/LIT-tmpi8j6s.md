@@ -24,7 +24,7 @@ summary: >-
   "Gillian Metzger's work on the constitutional duty to supervise ...
   provide[s] relevant legal precedents for examining these
   relationships". It bears on the claim that responsibility for an
-  outcome does not entail every power over its contributors (CLAIM-tmp1wlu2). What the exchange says of it is unverified until read.
+  outcome does not entail every power over its contributors ([CLAIM-tmp1wlu2](../claims.d/CLAIM-tmp1wlu2.md)). What the exchange says of it is unverified until read.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmp1wlu2 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->

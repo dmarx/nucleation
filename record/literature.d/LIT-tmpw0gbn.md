@@ -24,11 +24,11 @@ summary: >-
   Hess (2016), MIT Press. Cited by A6 of the exchange "Memes, Contracts,
   and Systemic Normativity" for research systematically neglected
   despite its social value, which A6 ties to the circular dependency of
-  evidence and authorization in CLAIM-tmpn8j1j. What A6 says of it is
+  evidence and authorization in CLAIM-1140. What A6 says of it is
   unverified until read.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpn8j1j — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
+<!-- inactive-ok-file: CLAIM-1140 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
 # LIT-tmpw0gbn: Undone Science: Social Movements, Mobilized Publics, and Industrial Transitions
 
@@ -40,7 +40,7 @@ Hess (2016), MIT Press.
 
 ## Standing in the record
 
-Registered as the outside literature nearest CLAIM-tmpn8j1j's trap (no
+Registered as the outside literature nearest [CLAIM-1140](../claims.d/CLAIM-1140.md)'s trap (no
 evidence without authorization, no authorization without evidence). A
 reading would say whether Hess's mechanisms of undone science include that
 circle or are of another kind.

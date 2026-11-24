@@ -42,12 +42,12 @@ summary: >-
   establishes that duty automatically." "One cannot necessarily acquire
   entitlement to another's activity simply by reorganizing oneself around
   its continued availability." Which principle does make reliance a ground
-  is not given; the assistant files that as QUESTION-tmprudey. The wording
+  is not given; the assistant files that as [QUESTION-tmprudey](../questions.d/QUESTION-tmprudey.md). The wording
   is A's (ChatGPT, in the exchange 'Memes, Contracts, and Systemic
   Normativity'); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp0d1fq CLAIM-713 CLAIM-700 CLAIM-671 LIT-tmpwdxhm CLAIM-tmp8bimm CLAIM-tmphq6hp TERM-123 — Proposed or Deferred; the owner's thesis, the held claims on exploited commitment, compensation and vulnerability, the question and the work filed with this, and the regulatory-surplus claim -->
+<!-- inactive-ok-file: CLAIM-tmp0d1fq CLAIM-671 LIT-tmpwdxhm CLAIM-tmp8bimm CLAIM-tmphq6hp TERM-123 — Proposed or Deferred; the owner's thesis, the held claims on exploited commitment, compensation and vulnerability, the question and the work filed with this, and the regulatory-surplus claim -->
 
 # CLAIM-tmp0i6c0: Repetition and reliance can turn a discretionary contribution into an operative obligation, whose withdrawal is treated as a breach, with no agreement ever made; but being expected, being relied on, being committed and owing are distinct, and reliance makes something owed only under a further principle, such as one about reliance knowingly induced
 
@@ -72,8 +72,8 @@ recipient's expectations may gradually harden into asserted normative
 claims." A22 §6's case: "The employee's discretionary contribution has
 been transformed into an organizational dependency without necessarily
 becoming a mutually recognized commitment." The end state is an operative
-norm in CLAIM-tmphq6hp's sense, a requirement whose violation recruits
-correction, reached by the route of the owner's U16 (CLAIM-tmp0d1fq).
+norm in [CLAIM-tmphq6hp](CLAIM-tmphq6hp.md)'s sense, a requirement whose violation recruits
+correction, reached by the route of the owner's U16 ([CLAIM-tmp0d1fq](CLAIM-tmp0d1fq.md)).
 
 **2. What that does not make owed.** A22 §12 separates Expected(A, φ),
 ReliedUpon(A, φ), Committed(A, φ) and Owes(A, B, φ): "The first three can
@@ -87,7 +87,7 @@ parts as C^op, "the actual contractual organization", against C^just, "an
 arrangement satisfying the relevant justified standards": "There is no
 reason to presume that these coincide."
 
-This rests on CLAIM-738: a demand's being asserted, maintained or
+This rests on [CLAIM-738](CLAIM-738.md): a demand's being asserted, maintained or
 recognized gives it no warrant, and a commitment is neither an obligation
 nor an authorization. The normalization ladder is the route by which an
 unwarranted demand comes to be maintained.
@@ -103,19 +103,19 @@ what commitments were undertaken, and what competing claims exist."
 
 The principle that would turn these into a verdict is not given (gap: a
 condition asserted without the principle that makes it one). The record
-holds one candidate as a supposition, CLAIM-671's, where an agent's
+holds one candidate as a supposition, [CLAIM-671](CLAIM-671.md)'s, where an agent's
 discretionary power over what a party has come to depend on grounds
 responsibilities under a principle that vulnerability grounds special
 obligations. Whether induced reliance is a separate ground, and what
-"reasonable" and "knowingly" add, is QUESTION-tmprudey, filed by the
+"reasonable" and "knowingly" add, is [QUESTION-tmprudey](../questions.d/QUESTION-tmprudey.md), filed by the
 assistant.
 
 ## What it does not say
 
 - Not that a normalized contribution is exploited. A22 §10: "That is not
   necessarily exploitation; it could be a fair division of labor."
-  Whether it is turns on a declared standard (TERM-123), and on the
-  distribution of what the regularity saves (CLAIM-tmp8bimm).
+  Whether it is turns on a declared standard ([TERM-123](../terms.d/TERM-123.md)), and on the
+  distribution of what the regularity saves ([CLAIM-tmp8bimm](CLAIM-tmp8bimm.md)).
 - Not that the party who normalized the contribution acted wrongly. The
   ladder needs no one's intent; the recipient's expectations "may
   gradually harden".
@@ -124,6 +124,6 @@ assistant.
 
 Rousseau's distinction between psychological contracts, perceived
 reciprocal obligations, and implied contracts at the level of the
-relationship (A20 §7; Rousseau 1989, LIT-tmpwdxhm, not read) is the
+relationship (A20 §7; Rousseau 1989, [LIT-tmpwdxhm](../literature.d/LIT-tmpwdxhm.md), not read) is the
 organizational-psychology form of part 2's first gap, between what one
 party takes to be owed and what the relationship carries.

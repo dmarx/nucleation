@@ -380,10 +380,10 @@ each asks this question's second part of it.
   inquiry must distinguish discovering its object from participating in
   the construction of its object.**"
 
-The last is CLAIM-402's warning (a category's own use producing the
+The last is [CLAIM-402](../claims.d/CLAIM-402.md)'s warning (a category's own use producing the
 regularities that confirm it) turned on the record's vocabulary, with
-CLAIM-476's constitutive reading of its apparatus. A7's point about
-assistants is a question of formation provenance (TERM-100) for the
+[CLAIM-476](../claims.d/CLAIM-476.md)'s constitutive reading of its apparatus. A7's point about
+assistants is a question of formation provenance ([TERM-100](../terms.d/TERM-100.md)) for the
 record's own distinctions; the record's voice rules, which file an
 assistant's ideas as Proposed in its own voice, are the mechanism A7
 names, and nothing filed tests whether they work. None of the three

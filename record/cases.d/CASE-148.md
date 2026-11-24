@@ -96,20 +96,20 @@ profiles." It differs from this case in what is transferred (an
 expression, not learned components) and shares its question of which
 transfer reproduces a characteristic organization; the memes-as-characters
 idea it tests is the owner's (U4). A neighbour design, proposed and not
-run; LEAD-113 is this case's run. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+run; [LEAD-113](../leads.d/LEAD-113.md) is this case's run. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A5 §8 and A6 §9
 
 Earlier in the same exchange, A5 and A6 cite this case accurately as "an
 existing proposed experimental design that asks which transferred
 components reproduce characteristic organization in new carriers", and
-name it as the experimental extension of their theses (CLAIM-tmpjitli,
-CLAIM-tmpjlxfy). A6 §9: "The crucial test would be whether transferring
+name it as the experimental extension of their theses ([CLAIM-tmpjitli](../claims.d/CLAIM-tmpjitli.md),
+[CLAIM-tmpjlxfy](../claims.d/CLAIM-tmpjlxfy.md)). A6 §9: "The crucial test would be whether transferring
 particular memes reproduces these characteristic response profiles,
 including their limitations, in another organization", holding evidence
 fixed while varying "its source, implications, medium or relationship to
 existing commitments". The extension, with a control that transfers the
-memes' propositions alone, is LEAD-tmpqucxc. Bearing: a proposed variant,
+memes' propositions alone, is [LEAD-tmpqucxc](../leads.d/LEAD-tmpqucxc.md). Bearing: a proposed variant,
 no change. The wording of this note is the assistant's (Claude, in this
 session), reporting A's (ChatGPT's) text; adopting what it reports is the
 owner's call.

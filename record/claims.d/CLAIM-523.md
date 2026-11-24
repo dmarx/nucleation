@@ -331,7 +331,7 @@ correct in time, without citing it; it is a member of the work.
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A11
 
 A11 §13 reads the bias blind spot through the achievements this claim
-separates, citing it and CLAIM-424 correctly: "Someone can know that
+separates, citing it and [CLAIM-424](CLAIM-424.md) correctly: "Someone can know that
 confirmation bias exists while continuing to exhibit it. Someone can
 recognize their own confirmation bias while lacking the practical means to
 correct it." Debiasing, it concludes, "may require changes to
@@ -351,7 +351,7 @@ draws the pathway with two further stations: "Normative evaluation"
 between legibility and efficacy, whose failure is "Misrecognition", and
 "Maintained answerability" after correctability ("The corrective pathway
 remains available"), whose failure is "Self-immunization". The second is
-held in CLAIM-624's second-order duty of answerability and CLAIM-714's
+held in [CLAIM-624](CLAIM-624.md)'s second-order duty of answerability and [CLAIM-714](CLAIM-714.md)'s
 dismantled capability; the first separates recognizing a discrepancy from
 weighing its significance correctly, which this claim folds into
 legibility. "Justification must be established independently of the
@@ -381,16 +381,16 @@ Recommendations can be disputed, infeasible or superseded."
 Bearing: an illustration, and a pointer to a measure. GAO's lists of open
 recommendations, which A36 also cites, would be a public count of
 recognized and unrealized correction across agencies, of the kind the
-note of 2026-11-18 on CLAIM-719 proposes for action items. "Corrective
+note of 2026-11-18 on [CLAIM-719](CLAIM-719.md) proposes for action items. "Corrective
 debt" is left as a label: it names the gap between this claim's second
 and third achievements and adds no content. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A40 §3.4 and §7
 
-A40 §3.4 cites this claim, with CLAIM-404 and CLAIM-624, for an authority
+A40 §3.4 cites this claim, with [CLAIM-404](CLAIM-404.md) and [CLAIM-624](CLAIM-624.md), for an authority
 that controls the resources, evidence, criteria, personnel and continuation
 of the processes that would correct it, "the conditions of its own
-governability"; the cite is apt, and the application is CLAIM-tmplc4m8.
+governability"; the cite is apt, and the application is [CLAIM-tmplc4m8](CLAIM-tmplc4m8.md).
 A40 §7 splits the path of a discrepancy into d → q → a → r → 𝒢′ with seven
 obstructions (illegibility, a question that cannot be formulated, an
 inquiry that cannot be authorized, evidence that cannot influence
@@ -398,9 +398,9 @@ evaluation, an answer that cannot recruit authority, a response that
 cannot be realized, a remedy that cannot be maintained). The first is this
 claim's legibility, the fifth its volitional efficacy, the sixth and
 seventh its correctability; formulation and authorization are held as
-CLAIM-tmp04pr7's second-order query. Bearing: a finer division, with the
-test in LEAD-tmpnvrld; the claim is unchanged. The wording of this note is
+[CLAIM-996](CLAIM-996.md)'s second-order query. Bearing: a finer division, with the
+test in [LEAD-tmpnvrld](../leads.d/LEAD-tmpnvrld.md); the claim is unchanged. The wording of this note is
 the assistant's (Claude, in this session), reporting A's (ChatGPT's) text;
 adopting what it reports is the owner's call.
 
-<!-- inactive-ok-file: CLAIM-tmplc4m8 CLAIM-tmp04pr7 — Proposed; cited in the note of 2026-11-24 on A40 §3.4 and §7 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
+<!-- inactive-ok-file: CLAIM-tmplc4m8 CLAIM-996 — Proposed; cited in the note of 2026-11-24 on A40 §3.4 and §7 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->

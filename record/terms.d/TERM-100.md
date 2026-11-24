@@ -146,10 +146,10 @@ reflexive ("Who can examine and revise those relationships?"), with "No
 single dimension guarantees the others", and it calls "the distinction
 between formation provenance and maintenance provenance indispensable". The
 formative and maintenance dimensions are this term's senses; the epistemic
-is CLAIM-404's route to outside governance; the reflexive is CLAIM-545's
+is [CLAIM-404](../claims.d/CLAIM-404.md)'s route to outside governance; the reflexive is [CLAIM-545](../claims.d/CLAIM-545.md)'s
 governance of one's own governability. The independence of the five is
-asserted without separating cases. The record holds some pairs: CLAIM-404
-separates decisional independence from epistemic, CLAIM-736 an
+asserted without separating cases. The record holds some pairs: [CLAIM-404](../claims.d/CLAIM-404.md)
+separates decisional independence from epistemic, [CLAIM-736](../claims.d/CLAIM-736.md) an
 opposition's independence as an actor from its capacity to change what it
 opposes, and this term separates formation from maintenance. Bearing: an
 extension, with no entry filed. The term is unchanged.

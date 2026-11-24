@@ -34,8 +34,8 @@ summary: >-
   and Trends in Electronic Design Automation 12(2–3):124–400. A16 of the
   exchange "Memes, Contracts, and Systemic Normativity" cites
   assume–guarantee contract theory, C = (A, G), with composition and
-  refinement, and proposes an extended schema (CLAIM-tmp7hqtl) whose
-  composition LEAD-tmpbqj9u asks for. Unverified until read.
+  refinement, and proposes an extended schema ([CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md)) whose
+  composition [LEAD-tmpbqj9u](../leads.d/LEAD-tmpbqj9u.md) asks for. Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmp7hqtl — Proposed; cited as filed or held beside this entry, whatever its standing -->
 
@@ -50,4 +50,4 @@ Benveniste et al. (2018), Foundations and Trends in Electronic Design Automation
 ## Standing in the record
 
 Registered as the standard account of the assume–guarantee contracts A16
-extends (CLAIM-tmp7hqtl, LEAD-tmpbqj9u).
+extends ([CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md), [LEAD-tmpbqj9u](../leads.d/LEAD-tmpbqj9u.md)).

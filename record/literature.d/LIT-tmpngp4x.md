@@ -22,7 +22,7 @@ keywords: ['cognitive biases', 'noisy information processing', 'conservatism']
 implementations: []
 summary: >-
   Hilbert (2012), Psychological Bulletin 138(2):211–237. Cited by A11 of the exchange "Memes, Contracts, and Systemic
-  Normativity" (ChatGPT) for its model that connects eight decision-making biases through noisy information processing. It is the strongest existing rival to CLAIM-tmp5atd3, which says several biases can be marks of one organizational constraint: Hilbert's unification predicts co-variation from noise, the exchange's from a shared constraint on significance or authority. What A11 says of it is unverified until
+  Normativity" (ChatGPT) for its model that connects eight decision-making biases through noisy information processing. It is the strongest existing rival to [CLAIM-tmp5atd3](../claims.d/CLAIM-tmp5atd3.md), which says several biases can be marks of one organizational constraint: Hilbert's unification predicts co-variation from noise, the exchange's from a shared constraint on significance or authority. What A11 says of it is unverified until
   read.
 ---
 

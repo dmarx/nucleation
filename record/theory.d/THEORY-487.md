@@ -123,7 +123,7 @@ contract, "What makes a relationship qualify as a contract", "What
 establishes the conditions under which that relationship qualifies" and
 "What maintains those conditions over time", and says this "fits our
 existing distinctions concerning formation provenance and maintenance
-provenance" (TERM-100). An analogy: Epstein's anchor is what puts the
+provenance" ([TERM-100](../terms.d/TERM-100.md)). An analogy: Epstein's anchor is what puts the
 conditions in place; whether it also covers what keeps them in place over
-time this reading does not settle, so the third item leans on TERM-100
+time this reading does not settle, so the third item leans on [TERM-100](../terms.d/TERM-100.md)
 rather than on Epstein. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

@@ -37,8 +37,8 @@ summary: >-
   ecology of interprocess contracts", with A16 §15's "Two systems with
   identical ordinary behavior may diverge when a contract is breached, an
   assumption fails, or competing processes invoke their standing." The
-  rest of the thesis is the owner's U14 (CLAIM-tmpkvzcn, CLAIM-tmpe6yfm)
-  and held claims. ARG-tmp2dpcv argues it from CASE-tmptpna1. The wording
+  rest of the thesis is the owner's U14 ([CLAIM-tmpkvzcn](CLAIM-tmpkvzcn.md), [CLAIM-tmpe6yfm](CLAIM-tmpe6yfm.md))
+  and held claims. [ARG-tmp2dpcv](../arguments.d/ARG-tmp2dpcv.md) argues it from [CASE-tmptpna1](../cases.d/CASE-tmptpna1.md). The wording
   is A's (ChatGPT, in the exchange 'Memes, Contracts, and Systemic
   Normativity'); adopting it is the owner's call.
 ---
@@ -69,11 +69,11 @@ invoke their standing."
 
 ## Admission
 
-Filed from the synthesis by a separating case (ADR-075's first route).
-The premises: contracts can form between processes (CLAIM-tmpkvzcn); a
+Filed from the synthesis by a separating case ([ADR-075](../decisions.d/ADR-075.md)'s first route).
+The premises: contracts can form between processes ([CLAIM-tmpkvzcn](CLAIM-tmpkvzcn.md)); a
 contract-like relation is marked by what it does on deviation, conflict
-and breach (CLAIM-tmp7hqtl); and processes that never object coordinate
-like negotiating ones until intervention (CLAIM-364). CASE-tmptpna1 has
+and breach ([CLAIM-tmp7hqtl](CLAIM-tmp7hqtl.md)); and processes that never object coordinate
+like negotiating ones until intervention ([CLAIM-364](CLAIM-364.md)). [CASE-tmptpna1](../cases.d/CASE-tmptpna1.md) has
 two arrangements, fixed priorities and priority inheritance, that give the
 same schedule whenever the low-priority process holds no lock the
 high-priority one needs, and part when it does. Every premise holds there,
@@ -86,9 +86,9 @@ its characteristic structure, rather than to its circumstances.
 
 - It does not say that an organization's contracts are its whole
   character, or that every regularity among its processes is a contract
-  (CLAIM-tmp7hqtl).
+  ([CLAIM-tmp7hqtl](CLAIM-tmp7hqtl.md)).
 - The remainder of A16 §19 ("Operational normativity provides a formal
   substrate for analyzing requirements, standing, violations and
   correction, while their moral significance remains a distinct question
-  requiring independent justification") is the owner's U14 with CLAIM-075
-  and CLAIM-725, and is not restated here.
+  requiring independent justification") is the owner's U14 with [CLAIM-075](CLAIM-075.md)
+  and [CLAIM-725](CLAIM-725.md), and is not restated here.

@@ -40,7 +40,7 @@ summary: >-
   A's (ChatGPT, in the exchange 'Memes, Contracts, and Systemic
   Normativity'); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-713 CLAIM-728 CLAIM-731 CLAIM-tmp80ny9 CLAIM-tmpro73c TERM-123 — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-713 CLAIM-728 CLAIM-731 TERM-123 — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
 
 # CLAIM-tmpro73c: Where an implicit relationship is ambiguous, who resolves the ambiguity, when, and at whose cost can matter more than how ambiguous it is: a party that may treat the same accommodation as discretionary when asked to compensate it and as owed when it is withheld takes advantage through the ambiguity without changing any term
 
@@ -62,7 +62,7 @@ It sorts ambiguity by function: productive under-specification, shared
 uncertainty, latent disagreement, asymmetric interpretive discretion
 ("Lets one party determine which interpretation governs") and strategic
 ambiguity ("Maintains indeterminacy because it provides leverage"). It
-links this to CLAIM-728 and to reflexive control (CLAIM-404): "a party can
+links this to [CLAIM-728](CLAIM-728.md) and to reflexive control ([CLAIM-404](CLAIM-404.md)): "a party can
 influence another's conduct by governing which relationship is treated as
 applicable rather than issuing an overt command." A32 §3 gives the framing
 form: "The request *help me* acquires different practical significance
@@ -71,18 +71,18 @@ commitment or discretionary favor."
 
 ## Where the record stands
 
-- CLAIM-728: the holder of residual control decides uncovered
+- [CLAIM-728](CLAIM-728.md): the holder of residual control decides uncovered
   contingencies. This claim is different in kind: no contingency is
   uncovered; which arrangement covers the act is left open, and one party
   decides it case by case and inconsistently.
-- CLAIM-731: the cost of imposing and of contesting a decision come apart.
+- [CLAIM-731](CLAIM-731.md): the cost of imposing and of contesting a decision come apart.
   Here the cost of contesting an interpretation, not a decision, is the
   lever.
-- CLAIM-713 and CLAIM-703: a commitment can be exploited by whoever
+- [CLAIM-713](CLAIM-713.md) and [CLAIM-703](CLAIM-703.md): a commitment can be exploited by whoever
   controls the circumstances that trigger it; the "obligatory when
   declined" half of the example draws on the employee's commitment.
-- QUESTION-468 asks what separates exploitation from dependence and
-  domination; this is a candidate mechanism, and TERM-123 still requires
+- [QUESTION-468](../questions.d/QUESTION-468.md) asks what separates exploitation from dependence and
+  domination; this is a candidate mechanism, and [TERM-123](../terms.d/TERM-123.md) still requires
   a declared standard before "exploitation" is said.
 
 ## What it does not say

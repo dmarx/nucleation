@@ -149,8 +149,8 @@ and the probability under each policy, so it is well formed once a law of
 the organization's states and of d is declared, which A40 leaves open with
 the family and the acceptance criteria: "a proposed formalization, not a
 validated measurement instrument". Its comparative experiment is
-LEAD-tmpnvrld. A40 §10 D's "Constitutional persistence does not entail
-constitutional readiness" is CLAIM-025's, noted there. Bearing: an application with an admissibility
+[LEAD-tmpnvrld](../leads.d/LEAD-tmpnvrld.md). A40 §10 D's "Constitutional persistence does not entail
+constitutional readiness" is [CLAIM-025](../claims.d/CLAIM-025.md)'s, noted there. Bearing: an application with an admissibility
 condition added; the term is unchanged. The wording of this note is the
 assistant's (Claude, in this session), reporting A's (ChatGPT's) text;
 adopting what it reports is the owner's call.

@@ -36,7 +36,7 @@ summary: >-
   Site Reliability Workbook. A16 of the exchange "Memes, Contracts, and
   Systemic Normativity" cites Google SRE practice for policies "that
   restrict releases when a service exhausts its error budget", and reads
-  the error budget as a negotiated tolerance (noted on CLAIM-552). Beyond
+  the error budget as a negotiated tolerance (noted on [CLAIM-552](../claims.d/CLAIM-552.md)). Beyond
   the sentence quoted in the history, unverified until read.
 ---
 
@@ -51,4 +51,4 @@ Steven Thurgood (2018). "Example Error Budget Policy". Appendix in B. Beyer, N. 
 ## Standing in the record
 
 Registered as the example of an error budget policy that A16 uses for
-contractual tolerance (CLAIM-552's note of 2026-11-24).
+contractual tolerance ([CLAIM-552](../claims.d/CLAIM-552.md)'s note of 2026-11-24).

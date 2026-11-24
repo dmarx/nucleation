@@ -30,7 +30,7 @@ implementations: []
 summary: >-
   A36 §6 cites it for the argument that party competition can explain
   interbranch behavior better than the formal separation of institutions,
-  and grounds its "correlated corrective failure" (CLAIM-tmp7xsyj) on it. What
+  and grounds its "correlated corrective failure" ([CLAIM-tmp7xsyj](../claims.d/CLAIM-tmp7xsyj.md)) on it. What
   A36 says of it is unverified until read.
 ---
 
@@ -38,7 +38,7 @@ summary: >-
 
 # LIT-tmpkhum8: Separation of Parties, Not Powers
 
-Daryl J. Levinson and Richard H. Pildes, Harvard Law Review 119(8):2311–2386 (June 2006), per OpenAlex (W1555881619), which gives no DOI; the URL is the NYU working-paper copy OpenAlex lists. Day as OpenAlex gives it (ADR-002). Both authors are law professors; A36 calls them "political scientists and constitutional scholars".
+Daryl J. Levinson and Richard H. Pildes, Harvard Law Review 119(8):2311–2386 (June 2006), per OpenAlex (W1555881619), which gives no DOI; the URL is the NYU working-paper copy OpenAlex lists. Day as OpenAlex gives it ([ADR-002](../decisions.d/ADR-002.md)). Both authors are law professors; A36 calls them "political scientists and constitutional scholars".
 
 ## Key takeaways
 
@@ -46,4 +46,4 @@ Daryl J. Levinson and Richard H. Pildes, Harvard Law Review 119(8):2311–2386 (
 
 ## Standing in the record
 
-A36 §6 cites it for the argument that party competition can explain interbranch behavior better than the formal separation of institutions, and grounds its "correlated corrective failure" (CLAIM-tmp7xsyj) on it. What A36 says of it is unverified until read.
+A36 §6 cites it for the argument that party competition can explain interbranch behavior better than the formal separation of institutions, and grounds its "correlated corrective failure" ([CLAIM-tmp7xsyj](../claims.d/CLAIM-tmp7xsyj.md)) on it. What A36 says of it is unverified until read.

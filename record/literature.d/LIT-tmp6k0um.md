@@ -17,7 +17,7 @@ published: '2006-08-01'
 doi: '10.1111/j.1467-9299.2006.00600.x'
 first_author: 'Bevan'
 summary: >-
-  Named by A44 §14 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) as "another particularly relevant comparison" on targets and gaming. It bears on CLAIM-tmpvmd97 and TERM-108. Unverified until read.
+  Named by A44 §14 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) as "another particularly relevant comparison" on targets and gaming. It bears on [CLAIM-tmpvmd97](../claims.d/CLAIM-tmpvmd97.md) and [TERM-108](../terms.d/TERM-108.md). Unverified until read.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpvmd97 TERM-108 — Proposed or new; the entries this registration bears on -->
@@ -30,4 +30,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. Named by A44 §14 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) as "another particularly relevant comparison" on targets and gaming. It bears on CLAIM-tmpvmd97 and TERM-108. Unverified until read.
+Deferred. Named by A44 §14 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) as "another particularly relevant comparison" on targets and gaming. It bears on [CLAIM-tmpvmd97](../claims.d/CLAIM-tmpvmd97.md) and [TERM-108](../terms.d/TERM-108.md). Unverified until read.

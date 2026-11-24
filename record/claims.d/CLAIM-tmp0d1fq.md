@@ -33,9 +33,9 @@ summary: >-
   unspoken understanding that  evolved through evolution of expectations and
   assumptions based on consistently observed behaviors that evolved into
   dependencies". Filed in the owner's voice. A20's development of it is
-  carried by CLAIM-tmp18v1o (structural expectation), CLAIM-tmp1nubb (an
+  carried by [CLAIM-tmp18v1o](CLAIM-tmp18v1o.md) (structural expectation), [CLAIM-tmp1nubb](CLAIM-tmp1nubb.md) (an
   implicit contract is identified by its response to perturbation) and
-  CLAIM-tmp0i6c0 (an operative obligation is not thereby owed).
+  [CLAIM-tmp0i6c0](CLAIM-tmp0i6c0.md) (an operative obligation is not thereby owed).
 ---
 
 <!-- inactive-ok-file: CLAIM-tmp18v1o CLAIM-tmp1nubb CLAIM-tmp0i6c0 CLAIM-603 CLAIM-728 LIT-tmp1xqzu LIT-tmpwdxhm LIT-473 — Proposed, Deferred or Unavailable; filed with this from U16–U19, the held claims it sits beside, and the works registered from A20 or held unread -->
@@ -70,10 +70,10 @@ to. The owner asks that the account of contracts make room for it.
   ordinarily constitute a contract between the plant and the sun"), and
   the owner's route ends in a contract only where the dependence comes to
   govern how the parties respond to its failure. Where that line falls is
-  CLAIM-tmp1nubb's.
+  [CLAIM-tmp1nubb](CLAIM-tmp1nubb.md)'s.
 - Not that an implicit contract binds anyone morally. That expectation and
-  reliance do not by themselves make anything owed is CLAIM-tmp0i6c0, on
-  CLAIM-738.
+  reliance do not by themselves make anything owed is [CLAIM-tmp0i6c0](CLAIM-tmp0i6c0.md), on
+  [CLAIM-738](CLAIM-738.md).
 - Not that the parties exist, fully formed, before the contract. A20 §17
   draws the stronger consequence, that "Relationships can form first. Their
   participants can subsequently individuate through them"; that is A's, not
@@ -86,16 +86,16 @@ part:
 
 - **Relational contracts** in economics, sustained by the value of future
   dealings rather than by enforcement (Baker, Gibbons and Murphy 2002,
-  registered as LIT-tmp1xqzu, not read).
+  registered as [LIT-tmp1xqzu](../literature.d/LIT-tmp1xqzu.md), not read).
 - **Psychological and implied contracts** in organizational psychology
-  (Rousseau 1989, LIT-tmpwdxhm, not read), which separate what a party
+  (Rousseau 1989, [LIT-tmpwdxhm](../literature.d/LIT-tmpwdxhm.md), not read), which separate what a party
   perceives as owed from what the relationship implies.
-- **Convention** (Lewis 1969, LIT-473, Unavailable), coordination kept up
+- **Convention** (Lewis 1969, [LIT-473](../literature.d/LIT-473.md), Unavailable), coordination kept up
   by mutual expectation.
-- **The Black Queen** route to dependence by adaptive loss (LIT-1568, read;
-  CLAIM-603), which A20 §4 uses as a precedent "for the development of
+- **The Black Queen** route to dependence by adaptive loss ([LIT-1568](../literature.d/LIT-1568.md), read;
+  [CLAIM-603](CLAIM-603.md)), which A20 §4 uses as a precedent "for the development of
   dependencies upon which stronger contractual arrangements might form".
-- **Incomplete contracts** (CLAIM-728), where what the contract leaves
+- **Incomplete contracts** ([CLAIM-728](CLAIM-728.md)), where what the contract leaves
   unspecified is settled by whoever holds residual control.
 
 The owner's addition to these is the direction: a contract reached from

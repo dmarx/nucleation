@@ -26,7 +26,7 @@ keywords: ['divided government', 'congressional investigations', 'oversight']
 implementations: []
 summary: >-
   Not cited by the exchange. The assistant names it in the gap of CLAIM-
-  tmp7xsyj and in LEAD-tmps9jkd, as later work that, in the assistant's
+  tmp7xsyj and in [LEAD-tmps9jkd](../leads.d/LEAD-tmps9jkd.md), as later work that, in the assistant's
   recollection, finds more investigative activity under divided
   government. Unverified until read.
 ---
@@ -35,7 +35,7 @@ summary: >-
 
 # LIT-tmpfn8el: Investigating the President: Congressional Checks on Presidential Power
 
-Douglas L. Kriner and Eric Schickler (Princeton University Press, 2016). The DOI and the date are Crossref's (ADR-002).
+Douglas L. Kriner and Eric Schickler (Princeton University Press, 2016). The DOI and the date are Crossref's ([ADR-002](../decisions.d/ADR-002.md)).
 
 ## Key takeaways
 
@@ -43,4 +43,4 @@ Douglas L. Kriner and Eric Schickler (Princeton University Press, 2016). The DOI
 
 ## Standing in the record
 
-Not cited by the exchange. The assistant names it in the gap of CLAIM-tmp7xsyj and in LEAD-tmps9jkd, as later work that, in the assistant's recollection, finds more investigative activity under divided government. Unverified until read.
+Not cited by the exchange. The assistant names it in the gap of [CLAIM-tmp7xsyj](../claims.d/CLAIM-tmp7xsyj.md) and in [LEAD-tmps9jkd](../leads.d/LEAD-tmps9jkd.md), as later work that, in the assistant's recollection, finds more investigative activity under divided government. Unverified until read.

@@ -34,11 +34,11 @@ summary: >-
   mathematical and computational constructions through which the
   organizational distinctions can be tested". A18 qualifies them as
   "candidate structural correspondences". The pathological regimes of the
-  owner's U14 (CLAIM-tmpe6yfm) are what they catalogue. The wording is A's
+  owner's U14 ([CLAIM-tmpe6yfm](CLAIM-tmpe6yfm.md)) are what they catalogue. The wording is A's
   (ChatGPT, in the exchange 'Memes, Contracts, and Systemic Normativity');
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmptpna1 CLAIM-451 CLAIM-tmp11j0f CLAIM-tmpe6yfm CLAIM-tmpn8j1j — Proposed; cited as filed or held beside this entry, whatever its standing -->
+<!-- inactive-ok-file: CASE-tmptpna1 CLAIM-451 CLAIM-1003 CLAIM-tmpe6yfm CLAIM-1140 — Proposed; cited as filed or held beside this entry, whatever its standing -->
 
 # CLAIM-tmpzuzeh: The coordination pathologies of distributed computing, among them deadlock, livelock, starvation, priority inversion, races, thrashing, split brain, retry storms and silent failure, are candidate structural correspondences for pathologies of organizations and of inquiry, each with its own mechanism and remedy, so that the remedy for one, more resources, higher priority or more information, need not relieve another
 
@@ -74,7 +74,7 @@ The point of the correspondence is the remedy: "adding computational
 resources may not resolve epistemic deadlock. Increasing the priority of
 an inquiry may not resolve priority inversion. Producing more information
 may not resolve incompatible evaluation criteria. Different organizational
-failures demand different interventions." A16 names tests: CLAIM-451's
+failures demand different interventions." A16 names tests: [CLAIM-451](CLAIM-451.md)'s
 account of dissonance "could be investigated using systems exhibiting
 livelock or costly governance oscillation", frustration through deadlock
 and resource-allocation models, agnotology through "failures of
@@ -83,9 +83,9 @@ observability, breach detection and error propagation".
 ## Where the record stands
 
 Several rows are held under other names: epistemic deadlock is
-CLAIM-tmpn8j1j's circle between evidence and authorization; priority
-inversion is CASE-tmptpna1; silent failure is the undetected route of
-CLAIM-tmp11j0f; CLAIM-556 already orders repairs by level, each with its
+[CLAIM-1140](CLAIM-1140.md)'s circle between evidence and authorization; priority
+inversion is [CASE-tmptpna1](../cases.d/CASE-tmptpna1.md); silent failure is the undetected route of
+[CLAIM-1003](CLAIM-1003.md); [CLAIM-556](CLAIM-556.md) already orders repairs by level, each with its
 own. What the claim adds is the catalogue as a source of independently
 specified mechanisms, and the warning that the remedies do not transfer
 across rows.

@@ -179,4 +179,4 @@ extremely expensive to leave." A30 §9 indexes the profile by party,
 R_i(C, C′), so the same transition can cost one party 1 and the other 8
 (illustrative). The party index is an extension the term does not carry:
 a configuration's profiles here are one organization's. An application,
-with that extension; CLAIM-tmpsf9hp. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+with that extension; [CLAIM-tmpsf9hp](../claims.d/CLAIM-tmpsf9hp.md). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

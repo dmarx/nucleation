@@ -61,7 +61,7 @@ competence and practical jurisdiction".
 
 ## What it adds to the record
 
-CLAIM-731 holds that the cost of imposing a decision and the cost of
+[CLAIM-731](CLAIM-731.md) holds that the cost of imposing a decision and the cost of
 questioning, suspending or reversing it are separate. This claim applies
 the separation to a regime rather than a decision, and adds the middle
 capacity, maintenance, as a third that can fail alone. That a person or
@@ -73,7 +73,7 @@ is about the transitions, not the reliance.
 
 A36 says only that "The National Emergencies Act establishes mechanisms
 for declaration, termination, renewal and congressional consideration of
-ongoing national emergencies." Its text (LIT-tmpdpc7y, checked on the LII
+ongoing national emergencies." Its text ([LIT-tmpdpc7y](../literature.d/LIT-tmpdpc7y.md), checked on the LII
 page on 2026-11-24) shows the asymmetry the claim names. A national
 emergency ends if "there is enacted into law a joint resolution
 terminating the emergency" or "the President issues a proclamation
@@ -90,7 +90,7 @@ declared emergency and failed to override the veto, are the assistant's
 knowledge, not checked here. § 1622(b) also requires each House, every
 six months, to "meet to consider a vote on a joint resolution to
 determine whether that emergency shall be terminated"; whether it does is
-an empirical question for LEAD-tmps9jkd. The section is the assistant's
+an empirical question for [LEAD-tmps9jkd](../leads.d/LEAD-tmps9jkd.md). The section is the assistant's
 (Claude, in this session); adopting it is the owner's call.
 
 ## Standing

@@ -61,17 +61,17 @@ expressions, not inherently pathological ones".
 
 ## What it rests on
 
-Reading (b) of the owner's U4 (CLAIM-tmp4mk0t): if a meme were a whole
-character (reading (a), CLAIM-tmphi3mx), perspectives sharing one could
+Reading (b) of the owner's U4 ([CLAIM-tmp4mk0t](CLAIM-tmp4mk0t.md)): if a meme were a whole
+character (reading (a), [CLAIM-tmphi3mx](CLAIM-tmphi3mx.md)), perspectives sharing one could
 not differ in character. The claim needs memes to be values that
 perspectives can share while their characters differ.
 
 ## Where the record stands
 
 - Who is believed and on what terms is held at the level of channels:
-  CLAIM-403 (admission, recognition, credibility, uptake and revision are
-  separable) and CLAIM-406 (structural testimonial injustice).
+  [CLAIM-403](CLAIM-403.md) (admission, recognition, credibility, uptake and revision are
+  separable) and [CLAIM-406](CLAIM-406.md) (structural testimonial injustice).
 - Asymmetric distrust can be rational from the truster's position
-  (THEORY-615, Proposed), so selective application is not by itself the
+  ([THEORY-615](../theory.d/THEORY-615.md), Proposed), so selective application is not by itself the
   mark of produced ignorance. Telling the two apart needs an
-  independently justified standard, as CLAIM-624 requires of any verdict.
+  independently justified standard, as [CLAIM-624](CLAIM-624.md) requires of any verdict.

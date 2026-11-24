@@ -299,24 +299,24 @@ keep it open each time; the filing adds four claims that bear on it.
 
 - **A mark of an operative norm.** A22 §2: an expectation is held as a
   norm when a discrepancy recruits activity to restore compliance rather
-  than revising the expectation (CLAIM-tmphq6hp, which ties it to the
+  than revising the expectation ([CLAIM-tmphq6hp](../claims.d/CLAIM-tmphq6hp.md), which ties it to the
   record's direction of fit). That is a norm of failure an organization's
   own dynamics can show, in the question's first sense, without a
   represented belief.
 - **A stabilization mechanism, not a standard.** A22 §5's model of
-  compliance, reliance and maintenance is bistable (CLAIM-tmpjg5gx, checked).
+  compliance, reliance and maintenance is bistable ([CLAIM-tmpjg5gx](../claims.d/CLAIM-tmpjg5gx.md), checked).
   A22 itself: "The model does not demonstrate endogenous formation of a
   standard of correctness: its maintenance rule is supplied by the modeler.
   It demonstrates a candidate stabilization mechanism. That distinction
   matters particularly given the concerns already raised in QUESTION-128
-  and CASE-239".
+  and [CASE-239](../cases.d/CASE-239.md)".
 - **Genesis, persistence, validity.** A23 §11 separates "Evolution of
   normative dispositions", "Stabilization of normative organization" and
   "Normative justification", and says the account "gives that inquiry a
   richer intermediate domain, but does not yet close the justificatory
   gap". The owner's U18 thesis that the account clarifies morality and
-  cooperation (CLAIM-tmp1fj5p) and A's development of it
-  (CLAIM-tmpreipd) bear on the question's last part, what more moral
+  cooperation ([CLAIM-tmp1fj5p](../claims.d/CLAIM-tmp1fj5p.md)) and A's development of it
+  ([CLAIM-tmpreipd](../claims.d/CLAIM-tmpreipd.md)) bear on the question's last part, what more moral
   authority needs: on A's reading, an evaluation of the terms of
   cooperation that cooperative success does not supply.
 

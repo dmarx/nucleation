@@ -29,7 +29,7 @@ summary: >-
   Normativity" as reframing ignorance as something actively produced,
   not only an absence of knowledge; A6 also quotes the 1969 Brown &
   Williamson memo ("Doubt is our product") that the volume's literature
-  discusses. It bears on CLAIM-tmpjlxfy, CLAIM-tmp9k2la and TERM-
+  discusses. It bears on [CLAIM-tmpjlxfy](../claims.d/CLAIM-tmpjlxfy.md), [CLAIM-tmp9k2la](../claims.d/CLAIM-tmp9k2la.md) and TERM-
   tmp9mag8. What A6 says of it is unverified until read.
 ---
 
@@ -46,6 +46,6 @@ Proctor and Schiebinger (eds.) (2008), Stanford University Press.
 ## Standing in the record
 
 The field's founding volume, registered so that the agnotology entries
-filed from A6 (CLAIM-tmpjlxfy, CLAIM-tmp9k2la, TERM-tmp9mag8) have the
+filed from A6 ([CLAIM-tmpjlxfy](../claims.d/CLAIM-tmpjlxfy.md), [CLAIM-tmp9k2la](../claims.d/CLAIM-tmp9k2la.md), [TERM-tmp9mag8](../terms.d/TERM-tmp9mag8.md)) have the
 work they borrow the word from. Nothing on the record yet rests on a
 reading of it.

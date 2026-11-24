@@ -40,14 +40,14 @@ reading as a convention ([CLAIM-068](../claims.d/CLAIM-068.md)).
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A2 and A4 §7
 
 A2 §5 names Sperber's cultural attractor theory as a parallel to the owner's
-"memes as nucleation sites" (CLAIM-tmp1ng5k), and A4 §7, citing this term and
-CLAIM-081 accurately, sets an attractor against a "memetic nucleator": an
+"memes as nucleation sites" ([CLAIM-tmp1ng5k](../claims.d/CLAIM-tmp1ng5k.md)), and A4 §7, citing this term and
+[CLAIM-081](../claims.d/CLAIM-081.md) accurately, sets an attractor against a "memetic nucleator": an
 attractor concerns "Where reconstruction tends" and may forget its history; a
 nucleator concerns "How organization becomes established" and "May become
 dispensable". "A meme need not be an attractor to nucleate an attractor. It
 need not even bring about convergence: it might instead initiate a persistent
 ecology of competing regimes." The contrast is recorded as sense 2 of
-TERM-tmpet5z8. Bearing: a complement, no change to this term; Sperber's
+[TERM-tmpet5z8](TERM-tmpet5z8.md). Bearing: a complement, no change to this term; Sperber's
 works stay unregistered, A2 naming no title. The wording of this note is the
 assistant's (Claude, in this session), reporting A's (ChatGPT's) text;
 adopting what it reports is the owner's call.

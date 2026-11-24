@@ -34,7 +34,7 @@ summary: >-
   way ("Your suggestion that exploitation can expose previously implicit
   expectations is particularly important", §6) and develops it into
   perturbation as a probe of a relationship (§15), filed as
-  CLAIM-tmp1nubb. The other reading is the alternative CLAIM-tmp05a1l.
+  [CLAIM-tmp1nubb](CLAIM-tmp1nubb.md). The other reading is the alternative [CLAIM-tmp05a1l](CLAIM-tmp05a1l.md).
   Filed in the owner's voice, as one of two alternatives for the owner to
   choose between.
 ---
@@ -45,10 +45,10 @@ summary: >-
 
 ## The claim
 
-The owner's words, at U17, as in CLAIM-tmp05a1l. **Alternative (b) of
+The owner's words, at U17, as in [CLAIM-tmp05a1l](CLAIM-tmp05a1l.md). **Alternative (b) of
 two**: "expose" as *make visible*.
 
-An implicit contract is, by CLAIM-tmp0d1fq, unspoken: its terms live in
+An implicit contract is, by [CLAIM-tmp0d1fq](CLAIM-tmp0d1fq.md), unspoken: its terms live in
 what the parties expect and assume. While it runs smoothly nobody needs to
 state them. Exploitation, an asymmetric use of the reliance, is one of the
 events that brings them out: the exploited party finds out what it had been
@@ -68,7 +68,7 @@ tacit on both sides.
   legible only when its expected regularity fails"); exploitation is the
   case where the failure, or the asymmetry, is someone's use of the
   reliance.
-- Not that revelation is reliable. CLAIM-700 holds the opposite tendency:
+- Not that revelation is reliable. [CLAIM-700](CLAIM-700.md) holds the opposite tendency:
   where conscientious compensation covers a shortfall, the quiet it buys is
   read as adequacy, so a successful exploitation of reliance can hide the
   expectation as well as reveal it.
@@ -76,4 +76,4 @@ tacit on both sides.
 ## Standing
 
 Proposed, the owner's, filed as one of two readings of U17; the other is
-CLAIM-tmp05a1l. The owner chooses which U17 meant, or keeps both.
+[CLAIM-tmp05a1l](CLAIM-tmp05a1l.md). The owner chooses which U17 meant, or keeps both.

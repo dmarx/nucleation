@@ -207,6 +207,6 @@ A12 §9 and A13 §VI read this claim's prior as a kind of heuristic, a
 governance heuristic that settles "Which perspective or procedure should
 determine what to do", and propose that intuitive expertise and entrenched
 bias are one learned allocation, in and out of the conditions it was
-learned under (CLAIM-tmpn754o, A's, Proposed, resting on this claim). They
+learned under ([CLAIM-tmpn754o](CLAIM-tmpn754o.md), A's, Proposed, resting on this claim). They
 cite this claim correctly, with its limit: "persistence alone does not
 demonstrate amortization". Bearing: an extension. The claim is unchanged.

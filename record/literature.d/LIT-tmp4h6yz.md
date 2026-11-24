@@ -26,7 +26,7 @@ summary: >-
   "Bradley and Siegel distinguish approaches to giving constitutional
   significance to post-ratification governmental practice, including
   whether a previously settled understanding can subsequently change".
-  It bears on the formation–continuing-constitution distinction (CLAIM-tmpazcha): the legal literature's own treatment of acquired practice.
+  It bears on the formation–continuing-constitution distinction ([CLAIM-tmpazcha](../claims.d/CLAIM-tmpazcha.md)): the legal literature's own treatment of acquired practice.
   What the exchange says of it is unverified until read.
 ---
 

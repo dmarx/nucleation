@@ -46,4 +46,4 @@ Mills (2007), in Sullivan and Tuana (eds.), Race and Epistemologies of Ignorance
 ## Standing in the record
 
 Registered for A6 §7's reading that ignorance can be inherited apart from
-explicit beliefs (CLAIM-tmpjlxfy). Unread, it grounds nothing.
+explicit beliefs ([CLAIM-tmpjlxfy](../claims.d/CLAIM-tmpjlxfy.md)). Unread, it grounds nothing.

@@ -254,7 +254,7 @@ semisimplifications. Applied to A5 §5's "memeplex" as a decomposition
 often, and could not tell a perspective whose modes drive one another (a
 non-split extension, as in the ℤ example) from one where they are
 independent. That is the part A5 assigns to "organizational dynamics".
-Recorded in CLAIM-tmpjitli. Bearing: this claim bounds A5's; no change.
+Recorded in [CLAIM-tmpjitli](CLAIM-tmpjitli.md). Bearing: this claim bounds A5's; no change.
 The wording of this note is the assistant's (Claude, in this session),
 reporting A's (ChatGPT's) text; adopting what it reports is the owner's
 call.

@@ -16,7 +16,7 @@ published: '2013-08-01'
 url: 'https://delcode.delaware.gov/title8/c001/sc15/'
 first_author: 'Delaware General Assembly'
 summary: >-
-  Cited by A48 §11 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): directors of a public benefit corporation must balance stockholders' pecuniary interests, the interests of those materially affected and the stated public benefit, which "does not, by itself, give every affected party a directly enforceable fiduciary claim" (§ 365, unverified). It bears on CLAIM-tmpyqjn0. Unverified until read.
+  Cited by A48 §11 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): directors of a public benefit corporation must balance stockholders' pecuniary interests, the interests of those materially affected and the stated public benefit, which "does not, by itself, give every affected party a directly enforceable fiduciary claim" (§ 365, unverified). It bears on [CLAIM-tmpyqjn0](../claims.d/CLAIM-tmpyqjn0.md). Unverified until read.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpyqjn0 — Proposed or new; the entries this registration bears on -->
@@ -29,4 +29,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. Cited by A48 §11 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): directors of a public benefit corporation must balance stockholders' pecuniary interests, the interests of those materially affected and the stated public benefit, which "does not, by itself, give every affected party a directly enforceable fiduciary claim" (§ 365, unverified). It bears on CLAIM-tmpyqjn0. Unverified until read.
+Deferred. Cited by A48 §11 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): directors of a public benefit corporation must balance stockholders' pecuniary interests, the interests of those materially affected and the stated public benefit, which "does not, by itself, give every affected party a directly enforceable fiduciary claim" (§ 365, unverified). It bears on [CLAIM-tmpyqjn0](../claims.d/CLAIM-tmpyqjn0.md). Unverified until read.

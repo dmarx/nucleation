@@ -41,7 +41,7 @@ A36 §25's cases and mechanisms:
 
 | Case | Principal mechanism to investigate (A36) |
 |---|---|
-| Twenty-Second Amendment (CASE-tmpfh2in) | Cultural norm formation and formalization |
+| Twenty-Second Amendment ([CASE-tmpfh2in](../cases.d/CASE-tmpfh2in.md)) | Cultural norm formation and formalization |
 | Electoral Count Reform Act | Clarification of relational jurisdiction |
 | Continuing resolutions | Recurrent workaround costs and inhibited development |
 | Debt-limit impasses | Compositional incompatibility and distributed costs |
@@ -69,27 +69,27 @@ federal disaster assistance, "more than 30 federal entities"; GAO on
 Medicaid redeterminations after the continuous-enrollment period; GAO's
 2026 review of the CIGIE Integrity Committee; the Electoral Count Reform
 Act of 2022. Of the scholarly works it cites, Levinson and Pildes
-(LIT-tmpkhum8), Tushnet (LIT-tmpj8e0r) and Levitsky and Ziblatt
-(LIT-tmpy59b0) are registered; Moynihan, Herd and Harvey's administrative
-burden is held (LIT-2769), as is Ostrom on polycentric governance
-(LIT-719).
+([LIT-tmpkhum8](../literature.d/LIT-tmpkhum8.md)), Tushnet ([LIT-tmpj8e0r](../literature.d/LIT-tmpj8e0r.md)) and Levitsky and Ziblatt
+([LIT-tmpy59b0](../literature.d/LIT-tmpy59b0.md)) are registered; Moynihan, Herd and Harvey's administrative
+burden is held ([LIT-2769](../literature.d/LIT-2769.md)), as is Ostrom on polycentric governance
+([LIT-719](../literature.d/LIT-719.md)).
 
 ## What each case would test (the assistant's)
 
-- **CLAIM-tmpzas6q**: in the Twenty-Second Amendment and the Electoral
+- **[CLAIM-tmpzas6q](../claims.d/CLAIM-tmpzas6q.md)**: in the Twenty-Second Amendment and the Electoral
   Count Reform Act, whether any institution can be shown to have given up
   an alternative to a restraint before the restraint failed, which the
   two-term case as filed does not show.
-- **CLAIM-tmp7xsyj**: oversight intensity against party alignment, reading
-  Mayhew's Divided We Govern (1991, LIT-tmpiqxhs) and Kriner and
-  Schickler's Investigating the President (2016, LIT-tmpfn8el), registered
+- **[CLAIM-tmp7xsyj](../claims.d/CLAIM-tmp7xsyj.md)**: oversight intensity against party alignment, reading
+  Mayhew's Divided We Govern (1991, [LIT-tmpiqxhs](../literature.d/LIT-tmpiqxhs.md)) and Kriner and
+  Schickler's Investigating the President (2016, [LIT-tmpfn8el](../literature.d/LIT-tmpfn8el.md)), registered
   unread.
-- **CLAIM-tmp0gs0t**: the durations of declared national emergencies, and
-  how often § 1622(b)'s six-monthly review has been held (LIT-tmpdpc7y).
-- **CLAIM-tmpjoaj3**: whether agencies under repeated continuing
+- **[CLAIM-tmp0gs0t](../claims.d/CLAIM-tmp0gs0t.md)**: the durations of declared national emergencies, and
+  how often § 1622(b)'s six-monthly review has been held ([LIT-tmpdpc7y](../literature.d/LIT-tmpdpc7y.md)).
+- **[CLAIM-tmpjoaj3](../claims.d/CLAIM-tmpjoaj3.md)**: whether agencies under repeated continuing
   resolutions show the reinforcing loop, deferred modernization feeding
   later deficiencies, or only the one-time costs GAO lists.
-- **CLAIM-760** and **CLAIM-347**: Medicaid redetermination as work
+- **[CLAIM-760](../claims.d/CLAIM-760.md)** and **[CLAIM-347](../claims.d/CLAIM-347.md)**: Medicaid redetermination as work
   transferred to enrollees, the debt limit as a composition of
   specifications that cannot all be met.
 
