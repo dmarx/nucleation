@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'A norm can be stabilized by the reliance it attracts: compliance makes a practice predictable, others specialize around it, and their stake in its continuation funds its maintenance, which raises compliance, so a practice established past a threshold can persist where a weakly established one would not, and can outlast a weakening of the reasons that first supported it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    A dated note corrects the gap note's narrowing, at the owner's
+    objection (CLAIM-tmp8l5s9): the model lets an established norm outlast
+    the loss of most of its baseline support, so it supports A22's
+    sentence on outlasting a justification. No change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -124,3 +132,39 @@ among processes. CLAIM-785's accrual of predicates, which stabilizes an
 entry "from prose convention to lint rule", is A22 §4's example of a norm
 "more strongly realized through its progressive incorporation into an
 organization's material and procedural architecture".
+
+## Note of 2026-11-24: a correction to the gap note, at the owner's objection
+
+<!-- inactive-ok-file: CLAIM-tmp8l5s9 CLAIM-tmps8ou2 CASE-tmp3euq0 ARG-tmpqkfwb — Proposed or new; the owner's objection and the entries filed with this correction -->
+
+The owner objected (CLAIM-tmp8l5s9, with CASE-tmp3euq0): norms do persist
+long after their original justification disappears, as race-based power
+did in the United States after abolition. The gap note above overstated
+its narrowing. It read the reasons' "disappearance" as the baseline b
+falling past the collapse point. But b is the tendency to comply without
+the maintenance loop, and a justification is one share of it.
+
+Recomputed with `python3 -I` at A22's settings (λ = 8, α = β = 0.2): a
+practice established at b = −1, then lowered in steps, each run to
+equilibrium (Euler, dt = 0.05, t = 4000), against a fresh start at
+x = r = 0.05:
+
+| b | unaided compliance σ(b) | established | fresh start |
+|---|---|---|---|
+| −1 | 0.269 | 0.999 | 0.999 |
+| −2 | 0.119 | 0.997 | 0.136 |
+| −3 | 0.047 | 0.992 | 0.048 |
+| −4 | 0.018 | 0.973 | 0.018 |
+| −4.3 | 0.013 | 0.945 | 0.013 |
+| −4.33 | 0.013 | 0.933 | 0.013 |
+| −4.35 | 0.013 | 0.013 | 0.013 |
+
+The established norm holds above 93% compliance while unaided compliance
+falls from 27% to about 1.3%. A norm whose justification supplied most of
+its baseline support can outlast it. So the model supports A22's
+sentence, "norms can persist even after their original justification
+disappears". What it rules out is persistence at any baseline whatever:
+at λ = 8, below b ≈ −4.33 only the low state exists. The sentence "not
+its disappearance" above is withdrawn in favour of this. CLAIM-tmps8ou2
+says what the owner's case adds. The wording of this note is the
+assistant's (Claude, in this session); adopting it is the owner's call.
