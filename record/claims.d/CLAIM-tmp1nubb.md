@@ -1,7 +1,7 @@
 ---
 status: Superseded
 title: 'An implicit contract cannot be read off consistent behaviour: arrangements with the same ordinary interaction differ in how they respond to interruption, a substitute provider, competing demands, removal of an enforcer, withdrawal of a discretionary contribution and a request to renegotiate, and only those responses show whether a dependence is regulated, by what, and on whose terms'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-24'
@@ -9,6 +9,11 @@ history:
     Superseded by CLAIM-tmpersgx, which states the same proposition from
     the earlier turn (A16) and now carries this entry's six probes. At the
     owner's word on duplicates.
+- version: 3
+  date: '2026-11-24'
+  note: >-
+    Leaves the work governance-of-becoming: superseded, its proposition is
+    held in the work by CLAIM-tmpersgx.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -29,8 +34,6 @@ date: '2026-11-24'
 line:
 - dependence-and-domination
 - distributed-agency
-works:
-- governance-of-becoming
 complements:
 - CLAIM-tmp0d1fq
 - CLAIM-tmppx64t

@@ -19,7 +19,6 @@ line:
 advances:
 - CLAIM-1156
 - CLAIM-tmpsf9hp
-- CLAIM-tmp1nubb
 - CLAIM-tmpersgx
 - CLAIM-tmpv5sry
 summary: >-
@@ -69,7 +68,7 @@ as relief ([CLAIM-556](../claims.d/CLAIM-556.md)).
 
 The method, A49's: "Match ordinary performance; perturb the governing
 relationships; observe the divergence in organizational trajectories", as
-in [CLAIM-364](../claims.d/CLAIM-364.md), [CLAIM-tmp1nubb](../claims.d/CLAIM-tmp1nubb.md) and [CLAIM-tmpersgx](../claims.d/CLAIM-tmpersgx.md).
+in [CLAIM-364](../claims.d/CLAIM-364.md), CLAIM-tmpersgx (which supersedes CLAIM-tmp1nubb).
 
 ## The six families, and the leads already filed for each
 
@@ -99,7 +98,7 @@ already name most of them.
   appears, the shared state is bookkeeping and the leads stay separate.
 - **Dynamics for each component.** A49 gives none. Capacity decay and
   rebuilding (A20 §6's update rule), contract formation by
-  [CLAIM-tmp1nubb](../claims.d/CLAIM-tmp1nubb.md)'s probes, authority by a learned prior over governing
+  CLAIM-tmpersgx's probes, authority by a learned prior over governing
   processes ([CLAIM-443](../claims.d/CLAIM-443.md)) and monitoring that changes what it records
   ([CLAIM-tmpefeb7](../claims.d/CLAIM-tmpefeb7.md)) are the record's candidates.
 - **The matching criterion and the perturbation schedule** fixed before

@@ -25,7 +25,7 @@ works:
 - governance-of-becoming
 complements:
 - CLAIM-tmp18v1o
-- CLAIM-tmp1nubb
+- CLAIM-tmpersgx
 - CLAIM-tmp0i6c0
 - CLAIM-tmpkvzcn
 summary: >-
@@ -36,7 +36,7 @@ summary: >-
   unspoken understanding that  evolved through evolution of expectations and
   assumptions based on consistently observed behaviors that evolved into
   dependencies". Filed in the owner's voice. A20's development of it is
-  carried by [CLAIM-tmp18v1o](CLAIM-tmp18v1o.md) (structural expectation), [CLAIM-tmp1nubb](CLAIM-tmp1nubb.md) (an
+  carried by [CLAIM-tmp18v1o](CLAIM-tmp18v1o.md) (structural expectation), CLAIM-tmpersgx (an
   implicit contract is identified by its response to perturbation) and
   [CLAIM-tmp0i6c0](CLAIM-tmp0i6c0.md) (an operative obligation is not thereby owed).
 ---
@@ -73,7 +73,7 @@ to. The owner asks that the account of contracts make room for it.
   ordinarily constitute a contract between the plant and the sun"), and
   the owner's route ends in a contract only where the dependence comes to
   govern how the parties respond to its failure. Where that line falls is
-  [CLAIM-tmp1nubb](CLAIM-tmp1nubb.md)'s.
+  CLAIM-tmpersgx's, with its six probes (it supersedes CLAIM-tmp1nubb).
 - Not that an implicit contract binds anyone morally. That expectation and
   reliance do not by themselves make anything owed is [CLAIM-tmp0i6c0](CLAIM-tmp0i6c0.md), on
   [CLAIM-738](CLAIM-738.md).

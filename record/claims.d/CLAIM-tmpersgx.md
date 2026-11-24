@@ -127,3 +127,14 @@ what, and on whose terms" (A22). Superseded rather than kept beside it,
 because the two state one proposition, and this one, from the earlier
 turn, carries the separating case. The wording is the assistant's (Claude,
 in this session); adopting it is the owner's call.
+
+## Note of 2026-11-24: the mechanisms behind the same compliance
+
+Also taken in from CLAIM-tmp1nubb, which this claim supersedes: compliance
+underdetermines the mechanism that produces it. A22 §16 lists seven that can
+produce the same compliance: internalization, mutual accommodation, strategic
+compliance, dependency, enforcement, constitutive stabilization and
+suppression, and "These mechanisms can coexist". That is why the ordinary
+course does not reveal the contract: the probes above are what tell the
+mechanisms apart. The wording is the assistant's (Claude, in this session).
+
