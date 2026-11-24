@@ -24,6 +24,12 @@
   evidence against endurance as a presumption of adequacy ([ARG-tmpo7ijm](record/arguments.d/ARG-tmpo7ijm.md));
   and toy models whose parameters are misread ([CLAIM-tmpyxemn](record/claims.d/CLAIM-tmpyxemn.md)).
 
+- At the owner's correction, institutional sociopathy split in two:
+  asymmetric legibility (TERM-tmp383al), the structural condition, and
+  institutional sociopathy (TERM-tmp72sq3), claims legible and carrying no
+  weight by any route, direct or representative; the owner's distinction
+  is CLAIM-tmpsh3og.
+
 ### Changed
 
 - The read-and-file skill's step 9a asks, of a source's toy model, that

@@ -103,3 +103,20 @@ that party**" ([CLAIM-tmpa61rf](CLAIM-tmpa61rf.md)).
 
 Bakan ([LIT-1430](../literature.d/LIT-1430.md)) is held and Unavailable; A46 notes that the clinical
 application "has itself been criticized".
+
+## Note of 2026-11-24: the owner's objection, direct authority is not answerability
+
+<!-- inactive-ok-file: CLAIM-tmpsh3og TERM-tmp383al TERM-tmp72sq3 — Proposed or new; the owner's objection and the two terms it splits this claim's profile into -->
+
+The owner objected (CLAIM-tmpsh3og): an institution "can still respect the
+standing and claims of its constituents without giving them direct
+authority to effect change within the institution (e.g. effective
+representative governance vs. captured)". This claim's "their justified
+claims gain no authority over what it does" is true of every representative
+institution if authority means direct authority, and names the vice only if
+it means effective weight. Read in the second sense, the profile is
+TERM-tmp72sq3; the first-sense situation is asymmetric legibility
+(TERM-tmp383al), a condition for it. Bearing: an objection that narrows the
+claim to the second reading. The wording of this note is the assistant's
+(Claude, in this session).
+
