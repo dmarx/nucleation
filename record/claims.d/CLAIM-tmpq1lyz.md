@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Active
 title: 'In the seeded fold model, a transient seed leaves a maintained organization only inside the bistable window and only by carrying the state past the unstable threshold, a brief seed needing exactly that threshold and a slower one more; the meme enters only as a scalar forcing, so the model expresses the environment''s receptivity but not which organization a seed nucleates'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Active: an independent checker, who did not write it, reproduced every
+    computation in it with its own code (2026-11-24). The owner left the
+    promotion of verified entries to the assistant's discretion.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

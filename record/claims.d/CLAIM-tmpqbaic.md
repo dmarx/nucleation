@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Active
 title: 'The character of a perspective''s representation detects the transformations it is blind to, not the states it merges: its kernel is the observational invariance subgroup when the projection is equivariant and its image spans, but a projection can merge states no transformation relates while its character shows no blindness at all'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Active: an independent checker, who did not write it, reproduced every
+    computation in it with its own code (2026-11-24). The owner left the
+    promotion of verified entries to the assistant's discretion.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

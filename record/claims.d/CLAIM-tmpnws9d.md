@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Active
 title: 'In the salience–realization model of hyperstition, coupling alone never lets a realization outlast its representation: once circulation stops the realization decays at its own rate whatever the gains were; it persists only if the realized organization has a self-maintaining loop of its own strong enough to have a second stable state, and the realization crossed that loop''s threshold while the representation still circulated'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Active: an independent checker, who did not write it, reproduced every
+    computation in it with its own code (2026-11-24). The owner left the
+    promotion of verified entries to the assistant's discretion.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

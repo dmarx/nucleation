@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Active
 title: 'Under reversal of a social attribution with its grounds held fixed, every response splits uniquely into a part that reverses with the attribution and a part that does not: conformity and defiance lie wholly in the first and a response governed by the grounds alone wholly in the second, so the size of the reversing part, not its direction, measures how far the attribution sets the terms of response; the transformation type records only which parts are present, and reversing the attribution together with its grounds measures nothing'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Active: an independent checker, who did not write it, reproduced every
+    computation in it with its own code (2026-11-24). The owner left the
+    promotion of verified entries to the assistant's discretion.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -26,8 +33,9 @@ summary: >-
   and opposition (r = −s) both transform by the sign character, so
   "Defiance and submission can be structurally related forms of
   governability", which is [CLAIM-425](CLAIM-425.md)'s point and Cooley's "remoter
-  conformity" in [CLAIM-415](CLAIM-415.md). A9 then reads equal sensitivity, |dr/ds| = 1,
-  as "a miniature character-theoretic result". The transformation type
+  conformity" in [CLAIM-415](CLAIM-415.md). A9 also states equal sensitivity, |dr/ds| = 1,
+  just before calling the shared sign transformation "a miniature
+  character-theoretic result". The transformation type
   does not carry sensitivity, and it separates attribution from grounds
   only if the grounds are held fixed. This claim gives the decomposition
   that does, checked with python3 -I. The construction is A8's; the
@@ -48,7 +56,8 @@ opposition transform according to the sign representation under reversal
 of the external signal. ... Their policies differ, but their transformation
 character, under this particular group action, is identical." A9 §VI adds that
 "both exhibit the same absolute dependence", |dr₊/ds| = |dr₋/ds| = 1, and
-calls this "a miniature character-theoretic result".
+then calls the shared sign transformation "a miniature character-theoretic
+result"; the slope sits beside that result, not inside it.
 
 The first statement is right. The second does not follow from it: equal
 slope is a property of the two functions A8 chose, not of how they

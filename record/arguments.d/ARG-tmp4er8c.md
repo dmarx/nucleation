@@ -21,8 +21,7 @@ summary: >-
   (ChatGPT, 2026-11-24) offers "what happens when respecting their justified
   claims ceases to be profitable" as the test between instrumental and
   normative recognition of non-shareholders ([CLAIM-tmpa61rf](../claims.d/CLAIM-tmpa61rf.md)). The record
-  already analysed a parallel test for remorse against prudence (CLAIM-
-  tmpsuj5n) and holds an objection to the distinction itself ([CLAIM-431](../claims.d/CLAIM-431.md)).
+  already analysed a parallel test for remorse against prudence (CLAIM-1169) and holds an objection to the distinction itself ([CLAIM-431](../claims.d/CLAIM-431.md)).
   Carried over, they narrow A48's test without defeating it; the conclusion's
   standing lives in [CLAIM-tmpa61rf](../claims.d/CLAIM-tmpa61rf.md). The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.

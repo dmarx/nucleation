@@ -1,7 +1,18 @@
 ---
 status: Proposed
 title: "The argument filed from the exchange Memes, Contracts, and Systemic Normativity, mapped: from the owner's memes as nucleation sites and as characters of perspectives, through contracts between processes and implicit contracts formed by reliance, to norms stabilized by dependence, exploitation as the asymmetric use of reliance, and the exchange's applications to engineering reliability, American governance, three constitutional theories, legibility, metrics and corporate objectives"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Corrected on an independent fidelity check of 43 links, 22 quotations
+    and 16 items not stated: a superseded component (CLAIM-tmp1nubb), two
+    relations changed to rests_on, two overstatements (CLAIM-tmpyp5bu,
+    CLAIM-tmp3cywa), a necessary condition stated as sufficient
+    (CLAIM-tmp7hqtl), a dropped scope (CLAIM-tmpq1lyz), the target of
+    CLAIM-tmpj4pw3's correction, a quotation, the manuscript's turns, and
+    two items under Not stated. Kept Proposed.
 defeated_if: >-
   A component misstated or misattributed here, with the owner's turns,
   A's (ChatGPT's) candidate syntheses and the assistant's gap fills and
@@ -97,7 +108,6 @@ integrates:
 - CLAIM-tmppx64t
 - CLAIM-tmp1fj5p
 - CLAIM-tmp18v1o
-- CLAIM-tmp1nubb
 - CLAIM-tmphq6hp
 - CLAIM-tmpjg5gx
 - CLAIM-tmp0i6c0
@@ -220,7 +230,7 @@ U9).**
   [CASE-191](../cases.d/CASE-191.md) and [CASE-123](../cases.d/CASE-123.md) carry its possibility half only.
 - **The phrase (U7).** [CLAIM-tmpj4pw3](../claims.d/CLAIM-tmpj4pw3.md), the assistant's, demonstrates that
   under reversal of an attribution with its grounds fixed every response
-  splits into a reversing and a non-reversing part, and corrects A8 §4.
+  splits into a reversing and a non-reversing part. It keeps A8 §4's statement and corrects A9 §VI's equal-slope reading and its unstated anchoring.
 - **A9's addition (U8).** An outside expression can seed a capacity for
   reflexive self-governance: [CLAIM-tmp5tjtg](../claims.d/CLAIM-tmp5tjtg.md), resting on [CLAIM-tmp1ng5k](../claims.d/CLAIM-tmp1ng5k.md).
 - **Hyperstition (U9).** A10's linear model, in which circulation
@@ -251,7 +261,7 @@ U9).**
   and contract formation as nucleation; it rests on [CLAIM-tmpkvzcn](../claims.d/CLAIM-tmpkvzcn.md).
   [CLAIM-tmpzuzeh](../claims.d/CLAIM-tmpzuzeh.md), the pathology catalogue, resting on [CLAIM-tmpe6yfm](../claims.d/CLAIM-tmpe6yfm.md).
   [CLAIM-tmpysg95](../claims.d/CLAIM-tmpysg95.md), heuristics as compiled contracts, which restates
-  [CLAIM-tmpn754o](../claims.d/CLAIM-tmpn754o.md) in contract vocabulary and complements it. [CLAIM-tmpdq0ah](../claims.d/CLAIM-tmpdq0ah.md),
+  [CLAIM-tmpn754o](../claims.d/CLAIM-tmpn754o.md) in contract vocabulary and rests on it. [CLAIM-tmpdq0ah](../claims.d/CLAIM-tmpdq0ah.md),
   memes as portable protocol specifications, resting on [CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md) and
   [CLAIM-tmp1ng5k](../claims.d/CLAIM-tmp1ng5k.md). [CLAIM-tmpersgx](../claims.d/CLAIM-tmpersgx.md), A16 §19's addition narrowed: contracts
   that ordinary behaviour does not reveal can belong to an organization's
@@ -270,9 +280,7 @@ U9).**
   morality and cooperation": [CLAIM-tmp1fj5p](../claims.d/CLAIM-tmp1fj5p.md).
 - **A20.** A structural expectation embodied in a capacity given up:
   [CLAIM-tmp18v1o](../claims.d/CLAIM-tmp18v1o.md). An implicit contract cannot be read off consistent
-  behaviour, only off responses to perturbation: [CLAIM-tmp1nubb](../claims.d/CLAIM-tmp1nubb.md), which
-  complements [CLAIM-tmpersgx](../claims.d/CLAIM-tmpersgx.md) and [CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md), whose separating point
-  it applies to implicit contracts.
+  behaviour, only off responses to perturbation: CLAIM-tmp1nubb, now Superseded by CLAIM-tmpersgx, which states the same proposition and carries its six probes, at the owner's word on duplicates (2026-11-24).
 - **A22.** Prediction against enforcement: [CLAIM-tmphq6hp](../claims.d/CLAIM-tmphq6hp.md). Norms
   stabilized by the reliance they attract, with the assistant's check of
   the model's bistability and hysteresis: [CLAIM-tmpjg5gx](../claims.d/CLAIM-tmpjg5gx.md). The ladder from
@@ -300,8 +308,7 @@ U9).**
 
 **Reliability engineering and American governance (U23, U24).**
 - **SRE (A34).** Over-reliability lowers resilience: [CLAIM-tmpb1wyc](../claims.d/CLAIM-tmpb1wyc.md), with
-  [CASE-tmp3xxqg](../cases.d/CASE-tmp3xxqg.md) and [ARG-tmptccms](../arguments.d/ARG-tmptccms.md), complementing [CLAIM-tmp18v1o](../claims.d/CLAIM-tmp18v1o.md), whose
-  mechanism it is with a declared guarantee beside it. Burn-rate alerting:
+  [CASE-tmp3xxqg](../cases.d/CASE-tmp3xxqg.md) and [ARG-tmptccms](../arguments.d/ARG-tmptccms.md), resting on CLAIM-tmp18v1o, whose mechanism it applies to a provider with a declared guarantee. Burn-rate alerting:
   [CLAIM-tmpcet1g](../claims.d/CLAIM-tmpcet1g.md). Recruiting, keeping and leaving an emergency regime:
   [CLAIM-tmp0gs0t](../claims.d/CLAIM-tmp0gs0t.md). Toil and the capability trap: [CLAIM-tmpjoaj3](../claims.d/CLAIM-tmpjoaj3.md), with
   [CASE-tmphtt17](../cases.d/CASE-tmphtt17.md). Retry amplification: [CLAIM-tmpuleno](../claims.d/CLAIM-tmpuleno.md).
@@ -378,8 +385,7 @@ is attributed to the entry that states it.
    ([CLAIM-tmp1ng5k](../claims.d/CLAIM-tmp1ng5k.md), the owner's), so transmissible structures can take
    part in forming organizations ([CLAIM-tmpgvsgg](../claims.d/CLAIM-tmpgvsgg.md)). How widely a meme is
    copied does not fix how much forms around it ([CLAIM-tmp4uj40](../claims.d/CLAIM-tmp4uj40.md)), and a
-   seed leaves a maintained organization only past a threshold
-   ([CLAIM-tmpq1lyz](../claims.d/CLAIM-tmpq1lyz.md)).
+   seed leaves a maintained organization, in the seeded fold model, only past a threshold and inside a window of the parameter (CLAIM-tmpq1lyz).
 2. **What a meme carries.** On the owner's U4, a meme carries a character
    of a perspective, whole or as one value ([CLAIM-tmphi3mx](../claims.d/CLAIM-tmphi3mx.md),
    [CLAIM-tmp4mk0t](../claims.d/CLAIM-tmp4mk0t.md)), so that uptake can help reconstitute a perspective in
@@ -394,9 +400,7 @@ is attributed to the entry that states it.
 4. **Seeding as control.** Reflexive control can act on how a target's
    organization forms ([CLAIM-tmpp0ufw](../claims.d/CLAIM-tmpp0ufw.md)), and an outside expression can
    seed a capacity for self-governance ([CLAIM-tmp5tjtg](../claims.d/CLAIM-tmp5tjtg.md)); both rest on the
-   owner's [CLAIM-tmp1ng5k](../claims.d/CLAIM-tmp1ng5k.md). A hyperstition succeeds when what it brings
-   about outlasts its circulation ([CLAIM-tmpyp5bu](../claims.d/CLAIM-tmpyp5bu.md)), which coupling alone
-   cannot do ([CLAIM-tmpnws9d](../claims.d/CLAIM-tmpnws9d.md)).
+   owner's [CLAIM-tmp1ng5k](../claims.d/CLAIM-tmp1ng5k.md). A hyperstition's success is not memetic fitness, and what it brings about may outlast its circulation or stay dependent on it (CLAIM-tmpyp5bu); outlasting it takes a loop of its own, which coupling alone cannot supply (CLAIM-tmpnws9d).
 5. **Biases as organization.** Several biases can mark one constraint
    ([CLAIM-tmp5atd3](../claims.d/CLAIM-tmp5atd3.md)), and expertise and bias can be one learned allocation
    of authority ([CLAIM-tmpn754o](../claims.d/CLAIM-tmpn754o.md)), which A16 restates as a compiled
@@ -404,16 +408,14 @@ is attributed to the entry that states it.
 6. **Contracts between processes.** On the owner's U14, contracts can form
    between processes and operationalize standing ([CLAIM-tmpkvzcn](../claims.d/CLAIM-tmpkvzcn.md),
    [TERM-tmpgiy6r](../terms.d/TERM-tmpgiy6r.md)), and systems of processes owing no duties can still need
-   their commitments reorganized ([CLAIM-tmpe6yfm](../claims.d/CLAIM-tmpe6yfm.md)). A relation is
-   contract-like when it governs deviation and breach ([CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md)), so
+   their commitments reorganized ([CLAIM-tmpe6yfm](../claims.d/CLAIM-tmpe6yfm.md)). A relation is contract-like only if it governs deviation and breach (CLAIM-tmp7hqtl), so
    contracts the ordinary course does not reveal can belong to an
    organization's characteristic structure ([CLAIM-tmpersgx](../claims.d/CLAIM-tmpersgx.md), [ARG-tmp2dpcv](../arguments.d/ARG-tmp2dpcv.md)).
    An error budget's tolerance is not a right ([CLAIM-tmpxl4mg](../claims.d/CLAIM-tmpxl4mg.md)).
 7. **Implicit contracts.** On the owner's U16, contracts can be implicit,
    formed as expectations become dependencies ([CLAIM-tmp0d1fq](../claims.d/CLAIM-tmp0d1fq.md)). An
    expectation can be structural, held in a capacity given up
-   ([CLAIM-tmp18v1o](../claims.d/CLAIM-tmp18v1o.md)), and an implicit contract is known by its response to
-   perturbation, not its ordinary course ([CLAIM-tmp1nubb](../claims.d/CLAIM-tmp1nubb.md)). Being relied on
+   ([CLAIM-tmp18v1o](../claims.d/CLAIM-tmp18v1o.md)), and an implicit contract is known by its response to perturbation, not its ordinary course (CLAIM-tmpersgx, which supersedes CLAIM-tmp1nubb). Being relied on
    is not being owed ([CLAIM-tmp0i6c0](../claims.d/CLAIM-tmp0i6c0.md)); what makes reliance owed is open
    ([QUESTION-tmprudey](../questions.d/QUESTION-tmprudey.md)), and a genuine obligation conditions exit rather
    than pricing it ([CLAIM-tmpdu9v6](../claims.d/CLAIM-tmpdu9v6.md)).
@@ -453,8 +455,7 @@ is attributed to the entry that states it.
 13. **Legibility.** On the owner's U27 ([CLAIM-tmp9xge5](../claims.d/CLAIM-tmp9xge5.md)), legibility cheapens
    intervention whatever its purpose ([CLAIM-tmplm3mz](../claims.d/CLAIM-tmplm3mz.md)), monitoring can make
    the conformity it records ([CLAIM-tmpefeb7](../claims.d/CLAIM-tmpefeb7.md)), protected illegibility can
-   condition individuation ([CLAIM-tmpp91oy](../claims.d/CLAIM-tmpp91oy.md)), and correctability and
-   protection must be had jointly ([CLAIM-tmp3cywa](../claims.d/CLAIM-tmp3cywa.md)). A governing metric
+   condition individuation ([CLAIM-tmpp91oy](../claims.d/CLAIM-tmpp91oy.md)), and correctability and protection are distinct achievements whose joint realizability turns on separating authority to observe from authority to act (CLAIM-tmp3cywa). A governing metric
    allocates the power to decide what follows from it ([CLAIM-tmpvmd97](../claims.d/CLAIM-tmpvmd97.md)).
 14. **Objectives and standing.** An institution can make others legible
    while their claims gain no authority over it ([CLAIM-tmptrn75](../claims.d/CLAIM-tmptrn75.md)) and can
@@ -489,10 +490,11 @@ why none does.
   which is [CLAIM-tmp5tjtg](../claims.d/CLAIM-tmp5tjtg.md). Its "Nucleation is itself developing an
   organizational perspective" and its line that the most consequential
   transmissible characteristic is the capacity to transform one's own
-  constitution are labels; no entry states them.
+  constitution are labels. The second is quoted in CLAIM-tmp5tjtg as A9
+  §XII, which states its proposition but not its superlative.
 - **A13, "tie it all together" (U12).** A second version of A9, a recap
   except "amortized governance", which is [CLAIM-tmpn754o](../claims.d/CLAIM-tmpn754o.md). Its programme
-  question and its "small number of independently specified mechanisms"
+  question and its "small number of independently specified organizational mechanisms"
   are the scope of [CLAIM-tmp5atd3](../claims.d/CLAIM-tmp5atd3.md) and [LEAD-tmpr4xwc](../leads.d/LEAD-tmpr4xwc.md), not further claims.
 - **A15 §19.** "Freedom is the governance of one's own governability" and
   justice as its answerability: a recap with labels over held claims; no
@@ -514,7 +516,7 @@ why none does.
 - **A24 §24**, morality and the continuing constitution of cooperative
   relationships: what it adds is [CLAIM-tmpreipd](../claims.d/CLAIM-tmpreipd.md). A24 §25's table, a
   contribution per concept from memetics to inquiry, is a recap.
-- **A28, the manuscript "Becoming Through One Another".** A recap of A7 to
+- **A26 to A28, the manuscript "Becoming Through One Another"** (drafted in A26 and A27's hidden code; A28 is its summary). A recap of A7 to
   A24 that tells the owner's U2, U4, U14, U16 and U17 as a joint "We
   propose"; it adds no claim. Its three equilibria of the norm model were
   checked by the filer and left, since [CLAIM-tmpjg5gx](../claims.d/CLAIM-tmpjg5gx.md) holds the model; its
@@ -527,7 +529,7 @@ why none does.
   the line.
 - **A38 §7 and §8, A40 §11.** A recap with a label, authority within
   against authority over a relationship, near [CLAIM-545](../claims.d/CLAIM-545.md) and [CLAIM-728](../claims.d/CLAIM-728.md);
-  "revision authority" is not held. Proposed foundations go unflagged, and
+  "revision authority" is held as a concept in CLAIM-tmpmp2wh and ARG-tmptjsx2, though no term names it. Proposed foundations go unflagged, and
   the owner's "respectively" and "purported" are ignored (the alternatives
   [CLAIM-tmpgmxs0](../claims.d/CLAIM-tmpgmxs0.md) and [CLAIM-tmp9v9yl](../claims.d/CLAIM-tmp9v9yl.md) hold them).
 - **A42 §16**, freedom as governance of one's legibility: carried as a

@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Active
 title: 'In a linear model of a representation''s cultural salience and its material or organizational realization, each decaying alone and each raising the other, the representation''s circulation amplifies its own realization exactly when the product of the two gains exceeds the product of the two decay rates, so hyperstitional efficacy is a property of the coupling between a representation and the activity that can realize it, not of the representation; it is the continuous-time form of the meaning–authority condition'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Active: an independent checker, who did not write it, reproduced every
+    computation in it with its own code (2026-11-24). The owner left the
+    promotion of verified entries to the assistant's discretion.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -72,8 +79,10 @@ exact.
 **A10's bounded version.** A10's interactive model adds saturation,
 ṁ = αr(1 − m) − 0.5m, ṙ = βm(1 − r) − 0.5r, so μν = 0.25. Rerun as
 A10 codes it: at αβ = 0.64 a seed (m, r) = (0.14, 0.015) settles at
-0.375 each; at αβ = 0.24 and 0.09 it decays to zero; at αβ = 0.27 it
-settles low, near 0.035 and 0.040. Started near saturation with
+0.375 each; at αβ = 0.24 and 0.09 it decays to zero; at αβ = 0.27
+(α = 0.45, β = 0.6) it settles low, near 0.035 and 0.040 (with α = β,
+0.038 each). These are long-run values; at the widget's 400-step horizon
+the low cases have not yet settled. Started near saturation with
 αβ = 0.225 or 0.24 it still decays: in this model there is no second
 stable state below the threshold.
 

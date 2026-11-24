@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Active
 title: 'In a comparison of preserving an arrangement against transforming it, uncertainty about the alternative''s costs together with an irreversible transition cost gives waiting to learn an option value, so transforming can beat preserving in expectation while waiting beats both; when the status quo irreversibly erodes the capacity to transform, the ranking can reverse, so symmetric scrutiny requires pricing irreversibility on both sides'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Active: an independent checker, who did not write it, reproduced every
+    computation in it with its own code (2026-11-24). The owner left the
+    promotion of verified entries to the assistant's discretion.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
