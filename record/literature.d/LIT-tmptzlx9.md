@@ -1,0 +1,42 @@
+---
+status: Deferred
+status_note: 'Registered 2026-11-24 from the exchange "Memes, Contracts, and Systemic Normativity", which cites it; not sought or read.'
+title: 'Presidential Control and Administrative Capacity'
+version: 1
+history:
+- version: 1
+  date: '2026-11-24'
+  note: >-
+    Filed, not read. The record was searched by title and first author and
+    holds no copy. Crossref gives the SSRN DOI, Bednar as sole author and
+    2024 as its only date, so `published` is the first of the year. A40's
+    "2025" may be a journal version; none was found. The SSRN abstract
+    Crossref carries confirms the two components: "presidential power vis-à-vis administrative policymaking has two necessary components:
+    control and capacity".
+tags:
+- society-and-governance
+date: '2026-11-24'
+published: '2024-01-01'
+doi: '10.2139/ssrn.4872670'
+first_author: 'Bednar'
+keywords: ['presidential control', 'administrative capacity']
+implementations: []
+summary: >-
+  Bednar, SSRN working paper (2024). Cited in the exchange "Memes,
+  Contracts, and Systemic Normativity" (ChatGPT): A40 §3.2 cites it as
+  "Nicholas Bednar's 2025 article", which "analyzes presidential
+  administrative power through the separate dimensions of control and
+  capacity". It bears on the claim that control over an organization is
+  not possession of its capacity (CLAIM-tmp1wlu2). What the exchange
+  says of it is unverified until read.
+---
+
+<!-- inactive-ok-file: CLAIM-tmp1wlu2 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
+
+# LIT-tmptzlx9: Presidential Control and Administrative Capacity
+
+Bednar, SSRN working paper (2024).
+
+## Key takeaways
+
+- Not read.

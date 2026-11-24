@@ -132,3 +132,22 @@ reliable" already presupposes; without it the inequality has no content.
 Bearing: a formalization with that condition added; the term is
 unchanged. The gap fill's wording is the assistant's (Claude, in this
 session); adopting it is the owner's call. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A40 §7
+
+A40 §7 applies the term to a governance architecture 𝒢 = (C, W, K, M, B)
+as "constitutional inquiry readiness": R_𝒢(d; B, H) = sup over admissible
+policies π of Pr_π(adequate response to d within B, H), for a declared
+family of discrepancies, with admissible policies those that respect "the
+applicable legal and normative constraints", so as to avoid "equating
+maximum corrective capacity with unrestricted power to alter the
+constitution". Unlike A18's version above, the supremum is over policies
+and the probability under each policy, so it is well formed once a law of
+the organization's states and of d is declared, which A40 leaves open with
+the family and the acceptance criteria: "a proposed formalization, not a
+validated measurement instrument". Its comparative experiment is
+LEAD-tmpnvrld. A40 §10 D's "Constitutional persistence does not entail
+constitutional readiness" is CLAIM-025's, noted there. Bearing: an application with an admissibility
+condition added; the term is unchanged. The wording of this note is the
+assistant's (Claude, in this session), reporting A's (ChatGPT's) text;
+adopting what it reports is the owner's call.

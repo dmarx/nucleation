@@ -19,6 +19,8 @@ promote_when: >-
   predict.
 title: 'Politics is more prone than markets to increasing returns, and so to path dependence, because it is dense with compulsory institutions and policies, rests on collective action and is opaque, so that institutions, collective action and shared interpretations of politics all feed back on themselves; and once on a path political actors leave it less readily than market actors, because competition and learning correct weakly, elected officials discount the future at the electoral cycle, and institutions are built to be hard to change'
 version: 1
+corroborates:
+- CLAIM-tmpa8tdg
 tags:
 - society-and-governance
 - complex-systems
@@ -108,3 +110,21 @@ No comparison in the record measures how often and how cheaply matched
 political and market arrangements are reversed. Pierson argues the
 contrast, with one illustration chosen after the event, and this reading
 has only his 1997 working paper ([NOTE-1076](../notes.d/NOTE-1076.md)).
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A40 §4.2
+
+A40 §4.2 cites Pierson: his work "demonstrates why initially contingent
+choices can become increasingly difficult to reverse", and the exchange
+draws from it that "Persistence is evidence that an arrangement has been
+reproducible. It is not sufficient evidence of what makes its reproduction
+possible or whether its reproduction is justified." That conclusion is
+filed as part of CLAIM-tmpa8tdg, which does not rest on this account;
+increasing returns are one mechanism by which an arrangement persists
+without its value doing the selecting, so the account corroborates it
+(relation written). As this account's own promote_when warns, a case of
+persistence cannot by itself tell path dependence from persisting causes.
+No status change. The wording of this note is the assistant's (Claude, in
+this session), reporting A's (ChatGPT's) text; adopting what it reports is
+the owner's call.
+
+<!-- inactive-ok-file: CLAIM-tmpa8tdg — Proposed; filed from the exchange 'Memes, Contracts, and Systemic Normativity' and cited in its note of 2026-11-24, whatever its standing -->

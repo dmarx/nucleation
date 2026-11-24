@@ -115,3 +115,20 @@ contesting cost a transfer imposes is [CLAIM-731](CLAIM-731.md)'s subject.
 Ibrahim ([THEORY-2030](../theory.d/THEORY-2030.md)), read in her 2013 piece as a stand-in for [LIT-2823](../literature.d/LIT-2823.md): a collective capability, one "the individual alone would neither have nor be able to achieve", is a case of the claim's third achievement, capability expanded, apart from work saved or transferred. Alkire's objection that crediting a group with a capability "may overlook some significant dis-benefits or heterogeneities" is the claim's boundary point about costs, made about benefits. It supports the claim's third category; it says nothing on saved against transferred work.
 
 No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A40 §2.4 and §4.4
+
+A40 cites this claim twice. At §2.4, for originalism: "This is an
+application of CLAIM-760's broader lesson. Work and discretion can be
+transferred without disappearing." The claim holds this for work; for
+discretion it is A's extension, untested (LEAD-tmp2x04m). At §4.4, for the
+cost of institutional caution: deferring reform for a time T imposes on
+participant i the cost ∫₀ᵀ L_i(t) dt, "substantial even if the
+decision-making institution incurs little immediate expenditure", which
+"is another application of transferred regulatory work" (CLAIM-tmpa8tdg).
+Bearing: two applications, the first a slight overreach of the claim's
+scope; the claim is unchanged. The wording of this note is the assistant's
+(Claude, in this session), reporting A's (ChatGPT's) text; adopting what it
+reports is the owner's call.
+
+<!-- inactive-ok-file: CLAIM-tmpa8tdg — Proposed; filed from the exchange 'Memes, Contracts, and Systemic Normativity' and cited in its note of 2026-11-24, whatever its standing -->

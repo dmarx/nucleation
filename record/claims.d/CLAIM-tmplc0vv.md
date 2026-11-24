@@ -1,0 +1,80 @@
+---
+status: Proposed
+title: 'Strong preservationist conservatism is deficient where it treats preserving an established arrangement as preserving the capacities it realizes, or historical endurance as a general presumption of adequacy, counting the dangers of reform and not the costs of continued operation; conservatism''s valid insight, that institutions store work and knowledge no one holds explicitly, supports caution but not that conflation'
+version: 1
+role: thesis
+warrant: interpretive
+defeated_if: >-
+  A showing that the conservative positions the critique targets do not make
+  the conflation, counting the costs of the status quo and distinguishing an
+  arrangement's structure from the goods it serves; or that the presumption
+  in favour of what has endured is justified on grounds the critique does not
+  consider.
+tags:
+- society-and-governance
+- ethics
+date: '2026-11-24'
+line:
+- rightful-power
+- organizational-normativity
+rests_on:
+- CLAIM-tmpa8tdg
+summary: >-
+  A's critique of conservatism in the exchange "Memes, Contracts, and
+  Systemic Normativity" (2026-11-24), at the owner's U25 (CLAIM-tmpgmxs0):
+  A38 §3's "persistence–value conflation" and A40 §4.2's "epistemic
+  limitation". It applies CLAIM-tmpa8tdg. CLAIM-tmpdzcj6 holds that
+  conservatism as its theorists state it is a presumption under
+  uncertainty, not this conflation, and ARG-tmpx1cys rejects the inference.
+  The wording is A's (ChatGPT, in the exchange "Memes, Contracts, and
+  Systemic Normativity"); adopting it is the owner's call.
+---
+
+<!-- inactive-ok-file: ARG-tmpx1cys CLAIM-tmp8mpgs CLAIM-tmpa8tdg CLAIM-tmpdzcj6 CLAIM-tmpgmxs0 LIT-tmpus6zs THEORY-841 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
+
+# CLAIM-tmplc0vv: Strong preservationist conservatism is deficient where it treats preserving an established arrangement as preserving the capacities it realizes, or historical endurance as a general presumption of adequacy, counting the dangers of reform and not the costs of continued operation; conservatism's valid insight, that institutions store work and knowledge no one holds explicitly, supports caution but not that conflation
+
+## The claim
+
+A38's table: "Strong preservationist conservatism | Preserving an
+established organizational arrangement is equivalent to preserving the
+valuable capacities it realizes." A38 §3: "A conservative cost analysis
+that counts the dangers of reform but omits the costs of continued
+operation is incomplete." A40 §4.2: "This identifies the epistemic
+limitation of arguments that treat historical endurance as a general
+presumption of institutional adequacy. A more defensible conservative
+argument would need to investigate the mechanisms of persistence and the
+counterfactual consequences of change."
+
+## The insight A grants
+
+A38 §3: "philosophical conservatism contains important insights that our
+framework actually strengthens." Its table maps them: institutions contain
+inherited wisdom (stabilized constraints are stored work, CLAIM-761);
+reform has unintended consequences (dependency structures are incompletely
+legible); traditions coordinate behaviour (implicit contracts amortize
+interaction costs); rapid transformation can be dangerous (reconfiguration
+may exceed available slack, CLAIM-571); local knowledge matters (inquiry
+capacities are distributed). A40 §4.1 cites Hayek's dispersed knowledge,
+held as THEORY-841, and notes that "Hayek explicitly distinguished his
+liberalism from conservatism". A40 §4.1 adds that inherited organization
+stores constraint beside work: solutions beside assumptions specific to
+their time, credible commitments beside dependencies on their continuation.
+
+## A's own qualifications
+
+A38 §3: "Burke's conservatism, in particular, recognizes the importance of
+change to preservation. It is not simply a doctrine of maintaining every
+existing arrangement" (LIT-tmpus6zs), and A38 §8 quotes Burke for its own
+conclusion. The conflation is charged to "strong preservationist
+conservatism", which A38 says is not a definition of the tradition. The
+exchange names no theorist who holds it.
+
+## The objection
+
+CLAIM-tmpdzcj6: conservatism as its theorists state it is a presumption
+under uncertainty and irreversibility, which rests on the premises A grants,
+and CLAIM-tmp8mpgs shows such a presumption can be cost-minimizing. What
+survives is the distributional point, A40 §4.4's cost of waiting borne by
+those the arrangement burdens, and A40 §4.3's point that keeping a
+structure is not keeping its goods.

@@ -139,3 +139,25 @@ agents. Analogy only; no edge. Reading (c) of the constitutivism test,
 [CLAIM-988](CLAIM-988.md), `rests_on` this claim: because the record already keeps
 viability apart from what ought to persist, Leffler's choice point closes
 a route the record did not take. No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A38 §3 and A40 §4.2
+
+A38 §3 cites this claim, aptly, for "The selection pressures responsible
+for institutional persistence need not track the standards governing
+institutional legitimacy", and applies it to conservatism. A38 lists seven
+mechanisms of persistence (productive accommodation, internalization,
+dependency, enforcement, exploitation, agnotology, defeated standing), and
+"The fact of persistence cannot identify which of these mechanisms
+predominates." A40 §4.2: "Persistence is evidence that an arrangement has
+been reproducible. It is not sufficient evidence of what makes its
+reproduction possible or whether its reproduction is justified." The
+extension, that structure kept is not value kept and that inaction
+transforms, is filed as CLAIM-tmpa8tdg; the application to conservatism is
+CLAIM-tmplc0vv, with the objection CLAIM-tmpdzcj6, that conservatism's
+theorists hold a presumption under uncertainty and not the inference this
+claim disclaims. Bearing: an application; the claim is unchanged. The
+wording of this note is the assistant's (Claude, in this session),
+reporting A's (ChatGPT's) text; adopting what it reports is the owner's
+call.
+
+<!-- inactive-ok-file: CLAIM-tmpa8tdg CLAIM-tmplc0vv CLAIM-tmpdzcj6 — Proposed; filed from the exchange 'Memes, Contracts, and Systemic Normativity' and cited in its note of 2026-11-24, whatever their standing -->
