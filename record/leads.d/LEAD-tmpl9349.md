@@ -69,6 +69,20 @@ discretionary contribution, a request to renegotiate.
 [LEAD-tmpfq5cj](LEAD-tmpfq5cj.md) names a shared organizational state. This study could run on
 it once its dynamics are written.
 
+## Note of 2026-11-24: the first expectation corrected
+
+The manuscript review of 2026-11-24 found that the first expectation
+contradicts its chosen instance. The two controllers meet [CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md)'s
+second mark, differentiated responses to satisfaction and violation, so
+under interruption they do respond: by their fixed rule. Corrected
+expectation for mere coupling: under interruption it responds by its fixed
+rule only, and that response does not change when the terms are changed
+with the processes kept. Unilateral dependence shows a fall in functioning
+and no correction. What parts mere coupling from maintained commitment is
+then the change-of-terms probe, which is [CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md)'s proposed fifth
+condition. The wording is the assistant's (Claude, in this session).
+
+
 ## Note of 2026-11-24: what the record already does, from U32 and A51 of the exchange 'Memes, Contracts, and Systemic Normativity'
 
 <!-- inactive-ok-block: CASE-163 CLAIM-tmpyp0ju — Proposed or new; the executed studies and claims this note checks the lead against, and the owner's thesis it answers -->

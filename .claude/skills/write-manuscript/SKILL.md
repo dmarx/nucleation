@@ -76,6 +76,10 @@ is not the record's text.
     passes is filed; what fails is a recap or a gap.
   - **Gaps:** steps it asserts without deriving, numbers that do not check,
     tests proposed without a design, outcomes stipulated as if found.
+  - **Research already done:** for every study, experiment or test the
+    draft proposes, check whether the record has already done it
+    (step 3a). A motivating draft written by an assistant tends to frame
+    held results as a programme still to run.
 - **File what it adds**, in the voices of whoever put it forward, in the
   work's pull request, before drafting on it (read-and-file steps 9 and
   9a).
@@ -100,6 +104,36 @@ A digest is a dated snapshot:
 Digests are delegated in parallel, one region each. A digester writes only
 its own file, edits nothing in the record, and commits a whole file, not a
 partial one.
+
+## 3a. What the record has already done
+
+The owner, 2026-11-24, on the first motivating draft of the series
+governance-of-becoming: "this is framed as a research program, but most of
+the research has already been achieved ... you propose several experiments
+which I agree would be interesting, but I think their role in our account
+is largely already satisfied by prior work." A manuscript is a view over
+work the record holds, so before it proposes anything, it looks for that
+work.
+
+- **For each proposed study, test or experiment** (in the motivating draft,
+  a digest's "missing" list, or a draft), search the record for what
+  already plays its role: executed-study and reported-study CASEs,
+  demonstrated or empirical CLAIMs, readings (THEORY), and LEADs already
+  run or closed. Search by the construction and the measure, not only the
+  words.
+- **Sort each one:**
+  - *done*: an entry does what the study would do. The manuscript cites the
+    entry and its standing, and proposes nothing.
+  - *done in part*: an entry does it for a narrower case (a scalar where the
+    study wants a perspective, a model where it wants a field case). The
+    manuscript cites it and states the extension, which may be a LEAD.
+  - *not done*: then, and only then, a LEAD (step 6).
+- **Write the sort down** in a section of the README, "What the record has
+  already done", with each study's verdict and the entry that settles it,
+  and put a dated note on any LEAD filed earlier that the search finds
+  redundant.
+- **Do it again after drafting.** Drafters and digesters list gaps; each is
+  checked the same way before it is filed as a LEAD or a QUESTION.
 
 ## 4. Analysis
 
@@ -207,6 +241,36 @@ inside the manuscript, and is not thrown away either.
 - **Membership of what is filed.** A claim filed for the manuscript is a
   candidate member under ADR-104's rule. List it as one in the pull
   request; adding it is the owner's call.
+
+## 6a. A targeted promotion review
+
+The owner, 2026-11-24: "we can probably also use this as an exercise to
+identify content on the record that is still in a proposed state but which
+the record functionally treats as Active and should probably be promoted."
+A draft shows which Proposed entries the argument leans on, so each draft
+is followed by a review of those entries' standing.
+
+- **The candidates** are the Proposed entries the draft uses as premises
+  (cited as a step, not only mentioned), together with the Proposed entries
+  they rest on.
+- **For each candidate, record:**
+  - its status and warrant;
+  - how many entries rest on it, ground on it or use it;
+  - whether its evidence or computation has been checked by someone other
+    than its filer, and by whom (history notes, CASEs, a fact-check);
+  - whether its `defeated_if` (CLAIM) or `promote_when` (THEORY) is met or
+    open, and any objection standing against it;
+  - whether the draft describes its standing correctly.
+- **Recommend** promote, or keep with the reason. A result that is
+  demonstrated and independently recomputed is the clearest case. An
+  interpretive claim used as a premise many times is a candidate, not a
+  promotion: its use is evidence of reliance, not of truth.
+- **Put the table to the owner** as a checklist (ADR-124's form). The
+  manuscript never confers standing, so a promotion is the owner's, or the
+  assistant's only where the owner has delegated it, as on 2026-11-24 for
+  independently recomputed demonstrated claims.
+- **Keep it** in the README, "Standing review", dated, and refresh it at
+  each refresh (step 9).
 
 ## 7. Independent review
 
