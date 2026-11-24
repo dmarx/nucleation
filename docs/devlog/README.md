@@ -6,6 +6,7 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## Currently — [November 2026](2026-11.md)
 
+- [24 Nov 20:19 — A red docs-lint on main silently skips the back-merge into staging](2026-11.md#a-red-docs-lint-on-main-silently-skips-the-back-merge-into-staging)
 - [23 Nov 03:45 — The write-manuscript protocol was first written from one manuscript's README, not from the record of how that manuscript was made](2026-11.md#the-write-manuscript-protocol-was-first-written-from-one-manuscripts-readme-not-from-the-record-of-how-that-manuscript-was-made)
 - [23 Nov 03:20 — An owner's request to file a manuscript as a work was read as a LIT, when the record has a works vocabulary for it](2026-11.md#an-owners-request-to-file-a-manuscript-as-a-work-was-read-as-a-lit-when-the-record-has-a-works-vocabulary-for-it)
 - [23 Nov 01:05 — Resumable study scripts that were resumable only when nothing went wrong](2026-11.md#resumable-study-scripts-that-were-resumable-only-when-nothing-went-wrong)
@@ -32,8 +33,8 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## All books
 
-23 entries across 1 book, newest first.
+24 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 23 | 2026-11-21 | 2026-11-23 |
+| [2026-11](2026-11.md) | 24 | 2026-11-21 | 2026-11-24 |
