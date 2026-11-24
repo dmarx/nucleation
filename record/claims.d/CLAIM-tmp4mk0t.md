@@ -85,14 +85,14 @@ whole character.
 
 ## Note of 2026-11-24: the owner's ruling on the two readings of U4
 
-<!-- inactive-ok-file: CLAIM-tmp4mk0t CLAIM-tmphi3mx CLAIM-tmp590sw — Proposed; the two readings and the claim the owner's ruling adds -->
+<!-- inactive-ok-file: CLAIM-tmp590sw — Proposed; the two readings and the claim the owner's ruling adds -->
 
 The owner, 2026-11-24, on the two readings filed as alternatives: "I think
 both readings are valid. I mainly meant 'meme as value', but also
 persistent reproduction of a meme can nucleate related but distinct
 perspectives (e.g. 'death of the author' type phenomena)". So this entry
 is the reading the owner mainly meant. The two are no longer alternatives: CLAIM-tmp4mk0t is the
-primary reading and CLAIM-tmphi3mx stands beside it. The owner's further
-point is filed as CLAIM-tmp590sw, which rests on the primary reading. No
+primary reading and [CLAIM-tmphi3mx](CLAIM-tmphi3mx.md) stands beside it. The owner's further
+point is filed as [CLAIM-tmp590sw](CLAIM-tmp590sw.md), which rests on the primary reading. No
 change of status.
 

@@ -26,7 +26,7 @@ summary: >-
   read.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpei0cf CLAIM-tmpu5cap — Proposed or new; the entries this work bears on -->
+<!-- inactive-ok-file: CLAIM-tmpei0cf — Proposed or new; the entries this work bears on -->
 
 # LIT-tmpk51ff: Confirmation, disconfirmation, and information in hypothesis testing
 

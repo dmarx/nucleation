@@ -32,7 +32,7 @@ summary: >-
   owner's call.
 ---
 
-<!-- inactive-ok-file: CASE-410 CLAIM-332 CLAIM-tmpgvsgg CLAIM-tmpq1lyz LIT-tmpfj6uj — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
+<!-- inactive-ok-file: CASE-410 CLAIM-332 CLAIM-tmpgvsgg LIT-tmpfj6uj — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
 # LEAD-tmpiktom: Design a memetic nucleation study that varies the seed and the receiving organization separately, withdraws the seed once organization forms, interrupts its endogenous reinforcement, and measures new persistent relations among participants against a threshold-contagion baseline
 

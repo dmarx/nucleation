@@ -22,7 +22,7 @@ summary: >-
 ## Context
 
 The topic vocabulary is closed: "a work that needs a word the list lacks
-gets the word added by decision, not the nearest wrong one" (ADR-001). In
+gets the word added by decision, not the nearest wrong one" ([ADR-001](ADR-001.md)). In
 the filing of the exchange 'Memes, Contracts, and Systemic Normativity' on
 2026-11-24, the filers of the memes turns (U1 to U12), of governance and
 constitutional theory (U23 to U26), and of legibility, metrics and

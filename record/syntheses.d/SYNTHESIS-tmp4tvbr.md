@@ -178,7 +178,7 @@ integrates:
 - ARG-tmpqkfwb
 ---
 
-<!-- inactive-ok-file: ARG-tmp2dpcv ARG-tmp2kh2e ARG-tmp4er8c ARG-tmpa5ped ARG-tmpeukxb ARG-tmpmtbby ARG-tmpn6xou ARG-tmpqkfwb ARG-tmptccms ARG-tmptjsx2 ARG-tmpx1cys ARG-tmpz2gmo CASE-tmp3euq0 CASE-tmp3so1p CASE-tmp3xxqg CASE-tmpfh2in CASE-tmphtt17 CASE-tmptpna1 CLAIM-tmp05a1l CLAIM-tmp0d1fq CLAIM-tmp0gs0t CLAIM-tmp0i6c0 CLAIM-tmp158r8 CLAIM-tmp18v1o CLAIM-tmp1fj5p CLAIM-tmp1ng5k CLAIM-tmp1nubb CLAIM-tmp1wlu2 CLAIM-tmp2jhc1 CLAIM-tmp2kfwd CLAIM-tmp3cywa CLAIM-tmp4mk0t CLAIM-tmp4uj40 CLAIM-tmp4zii5 CLAIM-tmp5atd3 CLAIM-tmp5tjtg CLAIM-tmp7hqtl CLAIM-tmp7xsyj CLAIM-tmp80ny9 CLAIM-tmp8bimm CLAIM-tmp8l5s9 CLAIM-tmp8mpgs CLAIM-tmp9k2la CLAIM-tmp9v9yl CLAIM-tmp9xge5 CLAIM-tmpa61rf CLAIM-tmpa8tdg CLAIM-tmpawbfn CLAIM-tmpazcha CLAIM-tmpb1wyc CLAIM-tmpbucep CLAIM-tmpcet1g CLAIM-tmpdq0ah CLAIM-tmpdu9v6 CLAIM-tmpdzcj6 CLAIM-tmpe6yfm CLAIM-tmpefeb7 CLAIM-tmpei0cf CLAIM-tmpersgx CLAIM-tmpgc8vi CLAIM-tmpggu4v CLAIM-tmpgmxs0 CLAIM-tmpgvsgg CLAIM-tmpgx2ej CLAIM-tmphi3mx CLAIM-tmphq6hp CLAIM-tmpj4pw3 CLAIM-tmpjg5gx CLAIM-tmpjitli CLAIM-tmpjlxfy CLAIM-tmpjnly0 CLAIM-tmpjoaj3 CLAIM-tmpkvzcn CLAIM-tmplc0vv CLAIM-tmplc4m8 CLAIM-tmplm3mz CLAIM-tmpm76n5 CLAIM-tmpmp2wh CLAIM-tmpn754o CLAIM-tmpnws9d CLAIM-tmpp0ufw CLAIM-tmpp91oy CLAIM-tmppx64t CLAIM-tmpq1lyz CLAIM-tmpqbaic CLAIM-tmpqhxsz CLAIM-tmpr2qzg CLAIM-tmpreipd CLAIM-tmpro73c CLAIM-tmps8ou2 CLAIM-tmpsf9hp CLAIM-tmptrn75 CLAIM-tmpu5cap CLAIM-tmpuleno CLAIM-tmpupcws CLAIM-tmpvic6m CLAIM-tmpvmd97 CLAIM-tmpxl4mg CLAIM-tmpyp5bu CLAIM-tmpyqjn0 CLAIM-tmpysg95 CLAIM-tmpzas6q CLAIM-tmpzuzeh TERM-tmp9mag8 TERM-tmpet5z8 TERM-tmpgiy6r TERM-tmpx4zke TERM-tmpxr1ox — Proposed or new; filed from the exchange 'Memes, Contracts, and Systemic Normativity' or the owner's sidebars, in this pull request -->
+<!-- inactive-ok-file: ARG-tmp2dpcv ARG-tmp2kh2e ARG-tmp4er8c ARG-tmpa5ped ARG-tmpeukxb ARG-tmpmtbby ARG-tmpn6xou ARG-tmpqkfwb ARG-tmptccms ARG-tmptjsx2 ARG-tmpx1cys ARG-tmpz2gmo CASE-tmp3euq0 CASE-tmp3so1p CASE-tmp3xxqg CASE-tmpfh2in CASE-tmphtt17 CASE-tmptpna1 CLAIM-tmp05a1l CLAIM-tmp0d1fq CLAIM-tmp0gs0t CLAIM-tmp0i6c0 CLAIM-tmp158r8 CLAIM-tmp18v1o CLAIM-tmp1fj5p CLAIM-tmp1ng5k CLAIM-tmp1nubb CLAIM-tmp1wlu2 CLAIM-tmp2jhc1 CLAIM-tmp2kfwd CLAIM-tmp3cywa CLAIM-tmp4mk0t CLAIM-tmp4uj40 CLAIM-tmp4zii5 CLAIM-tmp5atd3 CLAIM-tmp5tjtg CLAIM-tmp7hqtl CLAIM-tmp7xsyj CLAIM-tmp80ny9 CLAIM-tmp8bimm CLAIM-tmp8l5s9 CLAIM-tmp9k2la CLAIM-tmp9v9yl CLAIM-tmp9xge5 CLAIM-tmpa61rf CLAIM-tmpa8tdg CLAIM-tmpawbfn CLAIM-tmpazcha CLAIM-tmpb1wyc CLAIM-tmpbucep CLAIM-tmpcet1g CLAIM-tmpdq0ah CLAIM-tmpdu9v6 CLAIM-tmpdzcj6 CLAIM-tmpe6yfm CLAIM-tmpefeb7 CLAIM-tmpei0cf CLAIM-tmpersgx CLAIM-tmpgc8vi CLAIM-tmpggu4v CLAIM-tmpgmxs0 CLAIM-tmpgvsgg CLAIM-tmpgx2ej CLAIM-tmphi3mx CLAIM-tmphq6hp CLAIM-tmpjg5gx CLAIM-tmpjitli CLAIM-tmpjlxfy CLAIM-tmpjnly0 CLAIM-tmpjoaj3 CLAIM-tmpkvzcn CLAIM-tmplc0vv CLAIM-tmplc4m8 CLAIM-tmplm3mz CLAIM-tmpm76n5 CLAIM-tmpmp2wh CLAIM-tmpn754o CLAIM-tmpp0ufw CLAIM-tmpp91oy CLAIM-tmppx64t CLAIM-tmpqhxsz CLAIM-tmpr2qzg CLAIM-tmpreipd CLAIM-tmpro73c CLAIM-tmps8ou2 CLAIM-tmpsf9hp CLAIM-tmptrn75 CLAIM-tmpuleno CLAIM-tmpupcws CLAIM-tmpvmd97 CLAIM-tmpxl4mg CLAIM-tmpyp5bu CLAIM-tmpyqjn0 CLAIM-tmpysg95 CLAIM-tmpzas6q CLAIM-tmpzuzeh TERM-tmp9mag8 TERM-tmpet5z8 TERM-tmpgiy6r TERM-tmpx4zke TERM-tmpxr1ox — Proposed or new; filed from the exchange 'Memes, Contracts, and Systemic Normativity' or the owner's sidebars, in this pull request -->
 <!-- inactive-ok-file: CASE-326 CASE-388 CLAIM-545 CLAIM-683 CLAIM-728 CLAIM-750 CLAIM-905 — Proposed; held entries the audited syntheses cite or drop -->
 
 # SYNTHESIS-tmp4tvbr: The argument filed from the exchange Memes, Contracts, and Systemic Normativity, mapped: from the owner's memes as nucleation sites and as characters of perspectives, through contracts between processes and implicit contracts formed by reliance, to norms stabilized by dependence, exploitation as the asymmetric use of reliance, and the exchange's applications to engineering reliability, American governance, three constitutional theories, legibility, metrics and corporate objectives
@@ -280,7 +280,7 @@ U9).**
   morality and cooperation": [CLAIM-tmp1fj5p](../claims.d/CLAIM-tmp1fj5p.md).
 - **A20.** A structural expectation embodied in a capacity given up:
   [CLAIM-tmp18v1o](../claims.d/CLAIM-tmp18v1o.md). An implicit contract cannot be read off consistent
-  behaviour, only off responses to perturbation: CLAIM-tmp1nubb, now Superseded by CLAIM-tmpersgx, which states the same proposition and carries its six probes, at the owner's word on duplicates (2026-11-24).
+  behaviour, only off responses to perturbation: [CLAIM-tmp1nubb](../claims.d/CLAIM-tmp1nubb.md), now Superseded by [CLAIM-tmpersgx](../claims.d/CLAIM-tmpersgx.md), which states the same proposition and carries its six probes, at the owner's word on duplicates (2026-11-24).
 - **A22.** Prediction against enforcement: [CLAIM-tmphq6hp](../claims.d/CLAIM-tmphq6hp.md). Norms
   stabilized by the reliance they attract, with the assistant's check of
   the model's bistability and hysteresis: [CLAIM-tmpjg5gx](../claims.d/CLAIM-tmpjg5gx.md). The ladder from
@@ -308,7 +308,7 @@ U9).**
 
 **Reliability engineering and American governance (U23, U24).**
 - **SRE (A34).** Over-reliability lowers resilience: [CLAIM-tmpb1wyc](../claims.d/CLAIM-tmpb1wyc.md), with
-  [CASE-tmp3xxqg](../cases.d/CASE-tmp3xxqg.md) and [ARG-tmptccms](../arguments.d/ARG-tmptccms.md), resting on CLAIM-tmp18v1o, whose mechanism it applies to a provider with a declared guarantee. Burn-rate alerting:
+  [CASE-tmp3xxqg](../cases.d/CASE-tmp3xxqg.md) and [ARG-tmptccms](../arguments.d/ARG-tmptccms.md), resting on [CLAIM-tmp18v1o](../claims.d/CLAIM-tmp18v1o.md), whose mechanism it applies to a provider with a declared guarantee. Burn-rate alerting:
   [CLAIM-tmpcet1g](../claims.d/CLAIM-tmpcet1g.md). Recruiting, keeping and leaving an emergency regime:
   [CLAIM-tmp0gs0t](../claims.d/CLAIM-tmp0gs0t.md). Toil and the capability trap: [CLAIM-tmpjoaj3](../claims.d/CLAIM-tmpjoaj3.md), with
   [CASE-tmphtt17](../cases.d/CASE-tmphtt17.md). Retry amplification: [CLAIM-tmpuleno](../claims.d/CLAIM-tmpuleno.md).
@@ -385,7 +385,7 @@ is attributed to the entry that states it.
    ([CLAIM-tmp1ng5k](../claims.d/CLAIM-tmp1ng5k.md), the owner's), so transmissible structures can take
    part in forming organizations ([CLAIM-tmpgvsgg](../claims.d/CLAIM-tmpgvsgg.md)). How widely a meme is
    copied does not fix how much forms around it ([CLAIM-tmp4uj40](../claims.d/CLAIM-tmp4uj40.md)), and a
-   seed leaves a maintained organization, in the seeded fold model, only past a threshold and inside a window of the parameter (CLAIM-tmpq1lyz).
+   seed leaves a maintained organization, in the seeded fold model, only past a threshold and inside a window of the parameter ([CLAIM-tmpq1lyz](../claims.d/CLAIM-tmpq1lyz.md)).
 2. **What a meme carries.** On the owner's U4, a meme carries a character
    of a perspective, whole or as one value ([CLAIM-tmphi3mx](../claims.d/CLAIM-tmphi3mx.md),
    [CLAIM-tmp4mk0t](../claims.d/CLAIM-tmp4mk0t.md)), so that uptake can help reconstitute a perspective in
@@ -400,7 +400,7 @@ is attributed to the entry that states it.
 4. **Seeding as control.** Reflexive control can act on how a target's
    organization forms ([CLAIM-tmpp0ufw](../claims.d/CLAIM-tmpp0ufw.md)), and an outside expression can
    seed a capacity for self-governance ([CLAIM-tmp5tjtg](../claims.d/CLAIM-tmp5tjtg.md)); both rest on the
-   owner's [CLAIM-tmp1ng5k](../claims.d/CLAIM-tmp1ng5k.md). A hyperstition's success is not memetic fitness, and what it brings about may outlast its circulation or stay dependent on it (CLAIM-tmpyp5bu); outlasting it takes a loop of its own, which coupling alone cannot supply (CLAIM-tmpnws9d).
+   owner's [CLAIM-tmp1ng5k](../claims.d/CLAIM-tmp1ng5k.md). A hyperstition's success is not memetic fitness, and what it brings about may outlast its circulation or stay dependent on it ([CLAIM-tmpyp5bu](../claims.d/CLAIM-tmpyp5bu.md)); outlasting it takes a loop of its own, which coupling alone cannot supply ([CLAIM-tmpnws9d](../claims.d/CLAIM-tmpnws9d.md)).
 5. **Biases as organization.** Several biases can mark one constraint
    ([CLAIM-tmp5atd3](../claims.d/CLAIM-tmp5atd3.md)), and expertise and bias can be one learned allocation
    of authority ([CLAIM-tmpn754o](../claims.d/CLAIM-tmpn754o.md)), which A16 restates as a compiled
@@ -408,14 +408,14 @@ is attributed to the entry that states it.
 6. **Contracts between processes.** On the owner's U14, contracts can form
    between processes and operationalize standing ([CLAIM-tmpkvzcn](../claims.d/CLAIM-tmpkvzcn.md),
    [TERM-tmpgiy6r](../terms.d/TERM-tmpgiy6r.md)), and systems of processes owing no duties can still need
-   their commitments reorganized ([CLAIM-tmpe6yfm](../claims.d/CLAIM-tmpe6yfm.md)). A relation is contract-like only if it governs deviation and breach (CLAIM-tmp7hqtl), so
+   their commitments reorganized ([CLAIM-tmpe6yfm](../claims.d/CLAIM-tmpe6yfm.md)). A relation is contract-like only if it governs deviation and breach ([CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md)), so
    contracts the ordinary course does not reveal can belong to an
    organization's characteristic structure ([CLAIM-tmpersgx](../claims.d/CLAIM-tmpersgx.md), [ARG-tmp2dpcv](../arguments.d/ARG-tmp2dpcv.md)).
    An error budget's tolerance is not a right ([CLAIM-tmpxl4mg](../claims.d/CLAIM-tmpxl4mg.md)).
 7. **Implicit contracts.** On the owner's U16, contracts can be implicit,
    formed as expectations become dependencies ([CLAIM-tmp0d1fq](../claims.d/CLAIM-tmp0d1fq.md)). An
    expectation can be structural, held in a capacity given up
-   ([CLAIM-tmp18v1o](../claims.d/CLAIM-tmp18v1o.md)), and an implicit contract is known by its response to perturbation, not its ordinary course (CLAIM-tmpersgx, which supersedes CLAIM-tmp1nubb). Being relied on
+   ([CLAIM-tmp18v1o](../claims.d/CLAIM-tmp18v1o.md)), and an implicit contract is known by its response to perturbation, not its ordinary course ([CLAIM-tmpersgx](../claims.d/CLAIM-tmpersgx.md), which supersedes [CLAIM-tmp1nubb](../claims.d/CLAIM-tmp1nubb.md)). Being relied on
    is not being owed ([CLAIM-tmp0i6c0](../claims.d/CLAIM-tmp0i6c0.md)); what makes reliance owed is open
    ([QUESTION-tmprudey](../questions.d/QUESTION-tmprudey.md)), and a genuine obligation conditions exit rather
    than pricing it ([CLAIM-tmpdu9v6](../claims.d/CLAIM-tmpdu9v6.md)).
@@ -455,7 +455,7 @@ is attributed to the entry that states it.
 13. **Legibility.** On the owner's U27 ([CLAIM-tmp9xge5](../claims.d/CLAIM-tmp9xge5.md)), legibility cheapens
    intervention whatever its purpose ([CLAIM-tmplm3mz](../claims.d/CLAIM-tmplm3mz.md)), monitoring can make
    the conformity it records ([CLAIM-tmpefeb7](../claims.d/CLAIM-tmpefeb7.md)), protected illegibility can
-   condition individuation ([CLAIM-tmpp91oy](../claims.d/CLAIM-tmpp91oy.md)), and correctability and protection are distinct achievements whose joint realizability turns on separating authority to observe from authority to act (CLAIM-tmp3cywa). A governing metric
+   condition individuation ([CLAIM-tmpp91oy](../claims.d/CLAIM-tmpp91oy.md)), and correctability and protection are distinct achievements whose joint realizability turns on separating authority to observe from authority to act ([CLAIM-tmp3cywa](../claims.d/CLAIM-tmp3cywa.md)). A governing metric
    allocates the power to decide what follows from it ([CLAIM-tmpvmd97](../claims.d/CLAIM-tmpvmd97.md)).
 14. **Objectives and standing.** An institution can make others legible
    while their claims gain no authority over it ([CLAIM-tmptrn75](../claims.d/CLAIM-tmptrn75.md)) and can
@@ -490,7 +490,7 @@ why none does.
   which is [CLAIM-tmp5tjtg](../claims.d/CLAIM-tmp5tjtg.md). Its "Nucleation is itself developing an
   organizational perspective" and its line that the most consequential
   transmissible characteristic is the capacity to transform one's own
-  constitution are labels. The second is quoted in CLAIM-tmp5tjtg as A9
+  constitution are labels. The second is quoted in [CLAIM-tmp5tjtg](../claims.d/CLAIM-tmp5tjtg.md) as A9
   §XII, which states its proposition but not its superlative.
 - **A13, "tie it all together" (U12).** A second version of A9, a recap
   except "amortized governance", which is [CLAIM-tmpn754o](../claims.d/CLAIM-tmpn754o.md). Its programme
@@ -529,7 +529,7 @@ why none does.
   the line.
 - **A38 §7 and §8, A40 §11.** A recap with a label, authority within
   against authority over a relationship, near [CLAIM-545](../claims.d/CLAIM-545.md) and [CLAIM-728](../claims.d/CLAIM-728.md);
-  "revision authority" is held as a concept in CLAIM-tmpmp2wh and ARG-tmptjsx2, though no term names it. Proposed foundations go unflagged, and
+  "revision authority" is held as a concept in [CLAIM-tmpmp2wh](../claims.d/CLAIM-tmpmp2wh.md) and [ARG-tmptjsx2](../arguments.d/ARG-tmptjsx2.md), though no term names it. Proposed foundations go unflagged, and
   the owner's "respectively" and "purported" are ignored (the alternatives
   [CLAIM-tmpgmxs0](../claims.d/CLAIM-tmpgmxs0.md) and [CLAIM-tmp9v9yl](../claims.d/CLAIM-tmp9v9yl.md) hold them).
 - **A42 §16**, freedom as governance of one's legibility: carried as a

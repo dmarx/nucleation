@@ -105,11 +105,11 @@ assistant's (Claude, in this session); adopting it is the owner's call.
 ## Note of 2026-11-24: rests on the governance heuristic, at the owner's ruling on duplicates
 
 At the owner's word (2026-11-24: "your discretion how to best handle merges"),
-this claim now rests on CLAIM-tmpn754o instead of complementing it. A13's
+this claim now rests on [CLAIM-tmpn754o](CLAIM-tmpn754o.md) instead of complementing it. A13's
 governance heuristic, a learned allocation of authority that is efficient
 where it was learned and a source of error where conditions changed, is the
 proposition; this claim is its reading in contract terms (A16, A18), and
 adds only that the allocation is a protocol among processes. Not
 superseded, because the contract reading links the heuristic to
-CLAIM-tmp7hqtl, which the earlier claim does not. The wording is the
+[CLAIM-tmp7hqtl](CLAIM-tmp7hqtl.md), which the earlier claim does not. The wording is the
 assistant's (Claude, in this session); adopting it is the owner's call.

@@ -114,7 +114,6 @@ require the standards themselves to be revised.
 
 ## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", A8 §4 and §10
 
-<!-- inactive-ok-file: CLAIM-tmpj4pw3 — Proposed or Open; filed from the exchange of 2026-11-24 -->
 
 A8 §10 restates this claim as four orientations with maxims: conformity
 ("I am what you say I am"), opposition, epistemic closure ("Nothing you say

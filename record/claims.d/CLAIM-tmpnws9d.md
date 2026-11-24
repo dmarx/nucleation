@@ -41,7 +41,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpvic6m CLAIM-tmpyp5bu — Proposed; A's claims filed with this fill from the exchange of 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-tmpyp5bu — Proposed; A's claims filed with this fill from the exchange of 2026-11-24 -->
 
 # CLAIM-tmpnws9d: In the salience–realization model of hyperstition, coupling alone never lets a realization outlast its representation: once circulation stops the realization decays at its own rate whatever the gains were; it persists only if the realized organization has a self-maintaining loop of its own strong enough to have a second stable state, and the realization crossed that loop's threshold while the representation still circulated
 

@@ -166,7 +166,7 @@ A parallel, close to evidence in form ([NOTE-2140](../notes.d/NOTE-2140.md)): th
 
 ## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", A8 §8 and U9/A10
 
-<!-- inactive-ok-file: CLAIM-tmpvic6m CLAIM-tmpyp5bu CLAIM-tmpnws9d — Proposed; filed from the exchange of 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-tmpyp5bu — Proposed; filed from the exchange of 2026-11-24 -->
 
 A8 §8 and the owner's U9 ("relate to hyperstition") brought this claim
 into the exchange. A10 reads it and its sources accurately: Land's
