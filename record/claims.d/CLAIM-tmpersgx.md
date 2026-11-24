@@ -15,7 +15,7 @@ defeated_if: >-
   A showing that the contracts among an organization's processes are
   always recoverable from its behaviour on the ordinary course (no two
   arrangements with different contracts behave alike until contention,
-  breach or failed assumption), so that including them in its character
+  breach or failed assumption), so that including them in its characteristic structure
   adds nothing to a behavioural profile; or that what differs between such
   arrangements under contention is better described as a difference in
   the processes themselves than in the relations among them.

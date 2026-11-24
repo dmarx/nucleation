@@ -40,7 +40,8 @@ summary: >-
   an organization that treats an employee's recurring accommodation as
   discretionary when asked to compensate it, and as obligatory when the
   employee declines. It extends the owner's U17 (exploitation exposing
-  relied-upon expectations) to the resolution of ambiguity. The wording is
+  relied-upon expectations), on either of its readings (CLAIM-tmp05a1l,
+  CLAIM-tmppx64t, still open), to the resolution of ambiguity. The wording is
   A's (ChatGPT, in the exchange 'Memes, Contracts, and Systemic
   Normativity'); adopting it is the owner's call.
 ---
