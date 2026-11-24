@@ -7,7 +7,7 @@ method:
 - empirical
 - historical
 tags:
-- society-and-governance
+- law
 date: '2026-11-24'
 line:
 - rightful-power

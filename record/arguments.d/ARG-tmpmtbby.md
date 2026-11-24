@@ -12,6 +12,7 @@ concludes:
 - CLAIM-tmpzas6q
 tags:
 - society-and-governance
+- law
 - software-engineering
 date: '2026-11-24'
 line:

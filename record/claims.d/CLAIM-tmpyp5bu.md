@@ -14,6 +14,7 @@ defeated_if: >-
 complements:
 - CLAIM-tmp4uj40
 tags:
+- cultural-evolution
 - society-and-governance
 - complex-systems
 - epistemology

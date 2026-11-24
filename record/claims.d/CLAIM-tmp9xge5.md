@@ -12,6 +12,7 @@ defeated_if: >-
   only its parts (TERM-064's direction, THEORY-857 and CLAIM-545 state
   parts).
 tags:
+- privacy
 - society-and-governance
 - ethics
 - epistemology

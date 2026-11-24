@@ -13,6 +13,7 @@ defeated_if: >-
   CLAIM-749 allows, no answer is owed.
 tags:
 - ethics
+- economics
 - society-and-governance
 - social-ontology
 date: '2026-11-24'

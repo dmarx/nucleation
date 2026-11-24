@@ -19,9 +19,9 @@ defeated_if: >-
   realization-independent invariant, so that what the meme carries is
   content after all.
 tags:
+- cultural-evolution
 - individuation
 - mathematics
-- social-science
 date: '2026-11-24'
 line:
 - pragmatic-transport

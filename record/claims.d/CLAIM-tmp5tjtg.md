@@ -13,6 +13,7 @@ defeated_if: >-
   difference, so that it seeds nothing and CLAIM-532 alone holds the case.
 tags:
 - self-governance
+- cultural-evolution
 - agency
 - social-identity
 date: '2026-11-24'

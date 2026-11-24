@@ -10,7 +10,8 @@ history:
     Filed, not read. The record was searched by title and first author and
     holds no entry for it. Blair and Stout (1999), Virginia Law Review 85(2):247; checked against Crossref 2026-11-24, which gives 1999-03.
 tags:
-- society-and-governance
+- law
+- economics
 - ethics
 date: '2026-11-24'
 published: '1999-03-01'

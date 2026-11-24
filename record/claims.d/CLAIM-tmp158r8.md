@@ -11,8 +11,8 @@ defeated_if: >-
   treating it so, with no difference in how later memes are taken up
   that the belief does not already explain.
 tags:
+- cultural-evolution
 - epistemology
-- social-science
 - self-governance
 date: '2026-11-24'
 line:

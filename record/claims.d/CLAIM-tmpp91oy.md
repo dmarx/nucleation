@@ -11,6 +11,7 @@ defeated_if: >-
   that what separates protective from obstructive illegibility is in fact
   the amount disclosed.
 tags:
+- privacy
 - individuation
 - society-and-governance
 - ethics

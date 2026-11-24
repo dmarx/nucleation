@@ -17,7 +17,7 @@ history:
     month. A 2009 reprint in "The Economic Nature of the Firm"
     (10.1017/cbo9780511817410.010) is not registered.
 tags:
-- social-science
+- economics
 - game-theory
 date: '2026-11-24'
 published: '1978-10-01'

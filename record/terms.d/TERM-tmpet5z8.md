@@ -7,7 +7,7 @@ complements:
 - TERM-098
 - TERM-072
 tags:
-- social-science
+- cultural-evolution
 - philosophy-of-biology
 - individuation
 date: '2026-11-24'

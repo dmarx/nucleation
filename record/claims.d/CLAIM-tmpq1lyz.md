@@ -10,8 +10,8 @@ defeated_if: >-
   defeated by a richer model: the claim is about A4's.
 tags:
 - mathematics
+- cultural-evolution
 - complex-systems
-- social-science
 date: '2026-11-24'
 line:
 - transient-support

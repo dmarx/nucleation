@@ -13,7 +13,7 @@ history:
     first page 1455 and the online date 2019-04-20 in its citation
     metadata.
 tags:
-- society-and-governance
+- law
 date: '2026-11-24'
 published: '2019-04-20'
 url: 'https://scholarlycommons.law.northwestern.edu/nulr/vol113/iss6/6/'

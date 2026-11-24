@@ -10,7 +10,8 @@ history:
     Filed, not read. The record was searched by title and first author and
     holds no entry for it. Delaware Supreme Court, written opinion of 1986-03-13 (oral decision 1985-11-01), as a web search of 2026-11-24 reported; the copy at CourtListener's storage was not fetched. Justia's copy showed a bot check.
 tags:
-- society-and-governance
+- law
+- economics
 - ethics
 date: '2026-11-24'
 published: '1986-03-13'

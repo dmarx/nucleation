@@ -3,7 +3,7 @@ status: Open
 title: "How do transmissible structures such as memes take part in forming, maintaining and transforming the organizations through which they become consequential, and when does the seed's own persistence matter to the organization's?"
 version: 1
 tags:
-- social-science
+- cultural-evolution
 - complex-systems
 - individuation
 date: '2026-11-24'

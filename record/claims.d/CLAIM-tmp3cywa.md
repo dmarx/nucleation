@@ -12,6 +12,7 @@ defeated_if: >-
   move it.
 tags:
 - society-and-governance
+- privacy
 - self-governance
 - software-engineering
 date: '2026-11-24'

@@ -10,8 +10,8 @@ history:
     Filed, not read. The record was searched by title and first author and
     holds no entry for it. Jensen (2001), Journal of Applied Corporate Finance 14(3):8–21; checked against Crossref 2026-11-24, which gives 2001-09. A version appeared in Business Ethics Quarterly 12(2):235–256 (2002, doi 10.2307/3857812); A48 does not say which it read, and the earlier is registered.
 tags:
+- economics
 - ethics
-- society-and-governance
 date: '2026-11-24'
 published: '2001-09-01'
 doi: '10.1111/j.1745-6622.2001.tb00434.x'

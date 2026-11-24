@@ -11,7 +11,7 @@ history:
     holds no copy. OpenAlex gives the title, Metzger, The Yale Law Journal
     and 2015-04-01; the journal's page was fetched and carries the title.
 tags:
-- society-and-governance
+- law
 date: '2026-11-24'
 published: '2015-04-01'
 url: 'https://www.yalelawjournal.org/article/the-constitutional-duty-to-supervise'

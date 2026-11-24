@@ -22,6 +22,10 @@ summary: >-
   session); adopting it is the owner's call.
 tags:
 - society-and-governance
+- cultural-evolution
+- law
+- privacy
+- economics
 - social-ontology
 - epistemology
 - software-engineering

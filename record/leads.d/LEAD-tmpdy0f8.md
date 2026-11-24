@@ -6,6 +6,7 @@ stage: idea
 method:
 - reading
 tags:
+- law
 - society-and-governance
 date: '2026-11-24'
 line:

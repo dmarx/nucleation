@@ -9,7 +9,8 @@ defeated_if: >-
   belief to fill; or evidence that directors' and managers' decisions do not
   vary with how firmly they hold the belief, at fixed legal exposure.
 tags:
-- society-and-governance
+- economics
+- law
 - social-ontology
 date: '2026-11-24'
 line:

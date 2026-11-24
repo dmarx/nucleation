@@ -8,6 +8,7 @@ rests_on:
 concludes:
 - CLAIM-tmplc4m8
 tags:
+- law
 - society-and-governance
 date: '2026-11-24'
 line:

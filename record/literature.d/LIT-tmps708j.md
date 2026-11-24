@@ -11,7 +11,7 @@ history:
     holds no copy. Crossref gives the DOI, the title, Balkin as author and
     2011-12-31 as the earliest date (print and online).
 tags:
-- society-and-governance
+- law
 date: '2026-11-24'
 published: '2011-12-31'
 doi: '10.4159/harvard.9780674063037'

@@ -7,6 +7,7 @@ method:
 - formal
 tags:
 - network-science
+- cultural-evolution
 - epistemology
 - society-and-governance
 date: '2026-11-24'

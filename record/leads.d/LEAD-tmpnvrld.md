@@ -7,6 +7,7 @@ method:
 - formal
 tags:
 - society-and-governance
+- law
 - operations-research
 date: '2026-11-24'
 line:

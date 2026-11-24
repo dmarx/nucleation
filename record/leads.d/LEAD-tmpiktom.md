@@ -8,6 +8,7 @@ method:
 - empirical
 - operationalization
 tags:
+- cultural-evolution
 - social-science
 - complex-systems
 date: '2026-11-24'

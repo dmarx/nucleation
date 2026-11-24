@@ -12,6 +12,7 @@ defeated_if: >-
   interpretation, inquiry and correction."
 tags:
 - epistemology
+- cultural-evolution
 - social-science
 - society-and-governance
 date: '2026-11-24'

@@ -12,7 +12,7 @@ defeated_if: >-
   alone, with nothing left over that a property of the meme or its
   environment explains.
 tags:
-- social-science
+- cultural-evolution
 - complex-systems
 date: '2026-11-24'
 line:

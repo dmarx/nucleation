@@ -10,6 +10,7 @@ history:
     Filed, not read. The record was searched by title and first author and
     holds no entry for it. Nissenbaum (2004), Washington Law Review 79(1):119. No DOI; the repository page's citation metadata (journal, volume, issue, first page, year) checked 2026-11-24; the first of the month because no source gives a day. A lawful copy is linked from that page and was not fetched.
 tags:
+- privacy
 - ethics
 - society-and-governance
 - philosophy-of-technology

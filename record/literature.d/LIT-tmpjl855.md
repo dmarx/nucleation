@@ -15,7 +15,7 @@ history:
     publication was found, so the year's first day stands.
 tags:
 - philosophy-of-biology
-- social-science
+- cultural-evolution
 date: '2026-11-24'
 published: '1976-01-01'
 url: 'https://lccn.loc.gov/76029168'

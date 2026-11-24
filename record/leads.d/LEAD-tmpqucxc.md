@@ -8,6 +8,7 @@ method:
 - empirical
 - operationalization
 tags:
+- cultural-evolution
 - social-science
 - epistemology
 - individuation

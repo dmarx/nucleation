@@ -16,7 +16,7 @@ defeated_if: >-
   practice or amendment; or that the allocation of revision authority they
   defend presupposes specification exhaustiveness after all.
 tags:
-- society-and-governance
+- law
 - philosophy-of-language
 date: '2026-11-24'
 line:

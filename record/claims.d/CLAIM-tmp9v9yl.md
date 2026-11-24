@@ -12,6 +12,7 @@ defeated_if: >-
   conditions where the framework says it is undercut.
 tags:
 - society-and-governance
+- law
 - ethics
 date: '2026-11-24'
 line:

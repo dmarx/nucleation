@@ -19,6 +19,7 @@ history:
     "political scientists and constitutional scholars". No email address
     was sent to any service.
 tags:
+- law
 - society-and-governance
 - social-science
 date: '2026-11-24'

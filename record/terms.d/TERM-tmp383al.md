@@ -3,6 +3,7 @@ status: Proposed
 version: 1
 tags:
 - society-and-governance
+- privacy
 - ethics
 date: '2026-11-24'
 line:

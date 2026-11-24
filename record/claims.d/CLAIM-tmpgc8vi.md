@@ -12,6 +12,7 @@ defeated_if: >-
   different maxims never show the same pattern of selective uptake.
 tags:
 - epistemology
+- cultural-evolution
 - social-science
 date: '2026-11-24'
 line:

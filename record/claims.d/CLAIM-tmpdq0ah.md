@@ -16,6 +16,7 @@ uses:
 - TERM-tmpet5z8
 tags:
 - social-ontology
+- cultural-evolution
 - epistemology
 - society-and-governance
 date: '2026-11-24'

@@ -18,6 +18,7 @@ history:
     assistant's knowledge, not checked here. No email address was sent
     to any service.
 tags:
+- law
 - society-and-governance
 - social-science
 date: '2026-11-24'

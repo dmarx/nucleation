@@ -6,6 +6,7 @@ standing: documented
 kind: specimen
 tags:
 - society-and-governance
+- law
 - social-ontology
 date: '2026-11-24'
 line:

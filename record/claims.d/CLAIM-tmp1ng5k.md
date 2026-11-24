@@ -12,7 +12,7 @@ defeated_if: >-
   form around a meme form at the same rate and in the same shape where
   the meme is absent.
 tags:
-- social-science
+- cultural-evolution
 - complex-systems
 - epistemology
 date: '2026-11-24'

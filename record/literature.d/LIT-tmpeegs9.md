@@ -10,8 +10,8 @@ history:
     Filed, not read. The record was searched by title and first author and
     holds no entry for it. Donaldson and Preston (1995), Academy of Management Review 20(1):65–91; checked against Crossref 2026-11-24 (year and volume; Crossref gives 1995-01).
 tags:
+- economics
 - ethics
-- society-and-governance
 date: '2026-11-24'
 published: '1995-01-01'
 doi: '10.2307/258887'

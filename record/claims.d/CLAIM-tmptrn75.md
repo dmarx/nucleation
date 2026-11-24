@@ -12,6 +12,7 @@ defeated_if: >-
   claim's authority from its instrumental value to the institution.
 tags:
 - moral-psychology
+- privacy
 - social-ontology
 - ethics
 date: '2026-11-24'

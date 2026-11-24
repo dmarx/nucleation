@@ -12,7 +12,7 @@ history:
     Siegel, volume 106, issue 1, first page 1, and 2019-02-09 as its date,
     with copies listed at the Duke and Chicago repositories; no DOI.
 tags:
-- society-and-governance
+- law
 date: '2026-11-24'
 published: '2019-02-09'
 url: 'https://scholarship.law.duke.edu/faculty_scholarship/3915'

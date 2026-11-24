@@ -13,7 +13,7 @@ defeated_if: >-
   in which, as CLAIM-749 allows of an owner, no answer is owed.
 tags:
 - ethics
-- society-and-governance
+- economics
 - social-ontology
 date: '2026-11-24'
 line:

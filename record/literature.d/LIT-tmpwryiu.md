@@ -10,6 +10,7 @@ history:
     Filed, not read. The record was searched by title and first author and
     holds no entry for it. Penney (2016), Berkeley Technology Law Journal 31(1):117. Crossref has no record; the DOI, venue and year are OpenAlex's, checked 2026-11-24; the first of the month because no source gives a day.
 tags:
+- privacy
 - society-and-governance
 - social-science
 - epistemology

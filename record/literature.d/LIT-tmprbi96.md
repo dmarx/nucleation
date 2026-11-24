@@ -10,7 +10,8 @@ history:
     Filed, not read. The record was searched by title and first author and
     holds no entry for it. The statute's current text at the Delaware Code Online, which answered 200 on 2026-11-24 and was not read. Subchapter XV took effect on 2013-08-01; that date is from general knowledge and unverified here.
 tags:
-- society-and-governance
+- law
+- economics
 date: '2026-11-24'
 published: '2013-08-01'
 url: 'https://delcode.delaware.gov/title8/c001/sc15/'

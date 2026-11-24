@@ -9,6 +9,7 @@ concludes:
 - CLAIM-tmpa61rf
 tags:
 - ethics
+- economics
 - social-ontology
 date: '2026-11-24'
 line:

@@ -14,7 +14,7 @@ defeated_if: >-
   masses and hysteresis; a nucleation account that out-predicts only
   simple contagion is not vindicated by it.
 tags:
-- social-science
+- cultural-evolution
 - complex-systems
 - individuation
 date: '2026-11-24'

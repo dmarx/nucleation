@@ -16,6 +16,7 @@ defeated_if: >-
   generally enough that the theory's control of the executive is control of
   them.
 tags:
+- law
 - society-and-governance
 - self-governance
 date: '2026-11-24'

@@ -11,6 +11,7 @@ defeated_if: >-
   observed's anticipatory adaptation, with nothing added.
 tags:
 - epistemology
+- privacy
 - society-and-governance
 - social-science
 date: '2026-11-24'

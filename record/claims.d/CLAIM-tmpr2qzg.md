@@ -12,7 +12,7 @@ defeated_if: >-
   the passage from meaning to legitimate governance is made by an argument
   the critique does not answer.
 tags:
-- society-and-governance
+- law
 - philosophy-of-language
 date: '2026-11-24'
 line:

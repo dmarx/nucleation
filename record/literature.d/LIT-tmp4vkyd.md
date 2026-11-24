@@ -14,6 +14,7 @@ history:
     O'Sullivan and Lee. The identification is the filer's.
 tags:
 - complex-systems
+- cultural-evolution
 - network-science
 - social-science
 date: '2026-11-24'

@@ -10,7 +10,8 @@ history:
     Filed, not read. The record was searched by title and first author and
     holds no entry for it. United States Supreme Court, No. 16-402, opinion by Chief Justice Roberts, decided 2018-06-22. The slip opinion at the Court's site answered 200 on 2026-11-24 and was not read.
 tags:
-- society-and-governance
+- privacy
+- law
 - philosophy-of-technology
 date: '2026-11-24'
 published: '2018-06-22'

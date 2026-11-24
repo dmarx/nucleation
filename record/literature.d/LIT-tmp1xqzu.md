@@ -16,7 +16,7 @@ history:
     Theory of the Firm" (NBER w6177, September 1997), is a separate
     version and is not registered.
 tags:
-- social-science
+- economics
 - game-theory
 date: '2026-11-24'
 published: '2002-02-01'

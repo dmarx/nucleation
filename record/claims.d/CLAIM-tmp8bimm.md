@@ -18,6 +18,7 @@ defeated_if: >-
   verdict.
 tags:
 - society-and-governance
+- economics
 - ethics
 - game-theory
 date: '2026-11-24'

@@ -12,6 +12,7 @@ defeated_if: >-
   claim says it need not.
 tags:
 - society-and-governance
+- economics
 - operations-research
 - ethics
 date: '2026-11-24'

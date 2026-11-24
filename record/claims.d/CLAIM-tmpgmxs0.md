@@ -12,6 +12,7 @@ defeated_if: >-
   theory, so that the framework adds a vocabulary and not precision.
 tags:
 - society-and-governance
+- law
 - ethics
 date: '2026-11-24'
 line:

@@ -9,8 +9,8 @@ concludes:
 - CLAIM-tmpgvsgg
 - CLAIM-tmp4uj40
 tags:
+- cultural-evolution
 - complex-systems
-- social-science
 date: '2026-11-24'
 line:
 - distributed-agency

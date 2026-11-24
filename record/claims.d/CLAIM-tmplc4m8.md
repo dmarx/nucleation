@@ -10,6 +10,7 @@ defeated_if: >-
   control, corrective processes stay effective when their findings go
   against the controlling authority (A40 §3.4's own test).
 tags:
+- law
 - society-and-governance
 - self-governance
 date: '2026-11-24'

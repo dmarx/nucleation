@@ -17,6 +17,7 @@ history:
     `published:` is the enactment date the LII notes give (ADR-002). No
     email address was sent to any service.
 tags:
+- law
 - society-and-governance
 date: '2026-11-24'
 published: '1976-09-14'

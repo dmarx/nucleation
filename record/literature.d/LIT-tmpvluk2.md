@@ -17,7 +17,7 @@ history:
     LII page was checked for the three factors, not the date). No email
     address was sent to any service.
 tags:
-- society-and-governance
+- law
 - ethics
 date: '2026-11-24'
 published: '1976-02-24'

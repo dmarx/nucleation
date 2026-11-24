@@ -14,8 +14,8 @@ defeated_if: >-
   reproduces the profiles no better than transmitting the propositions
   does.
 tags:
+- cultural-evolution
 - individuation
-- social-science
 - mathematics
 date: '2026-11-24'
 line:

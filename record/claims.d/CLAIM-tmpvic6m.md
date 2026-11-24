@@ -14,6 +14,7 @@ defeated_if: >-
   held fixed.
 tags:
 - complex-systems
+- cultural-evolution
 - society-and-governance
 - epistemology
 date: '2026-11-24'

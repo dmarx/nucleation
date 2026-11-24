@@ -11,6 +11,7 @@ defeated_if: >-
   exercising it, fix how consequential it is, so that cheaper monitoring
   leaves an unchanged authority no more consequential.
 tags:
+- privacy
 - society-and-governance
 - epistemology
 - philosophy-of-technology

@@ -12,6 +12,7 @@ defeated_if: >-
   three share that decides those conflicts.
 tags:
 - society-and-governance
+- law
 date: '2026-11-24'
 line:
 - rightful-power

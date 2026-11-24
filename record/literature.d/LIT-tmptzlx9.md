@@ -14,6 +14,7 @@ history:
     Crossref carries confirms the two components: "presidential power vis-à-vis administrative policymaking has two necessary components:
     control and capacity".
 tags:
+- law
 - society-and-governance
 date: '2026-11-24'
 published: '2024-01-01'

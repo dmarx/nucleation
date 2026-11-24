@@ -10,7 +10,8 @@ history:
     Filed, not read. The record was searched by title and first author and
     holds no entry for it. Delaware Court of Chancery, opinion by Chancellor Chandler. The Delaware courts address is the one a web search of 2026-11-24 gave; a request to the courts' download service that day was rejected, and it was not retried. The date is the commonly given decision date, unverified here.
 tags:
-- society-and-governance
+- law
+- economics
 - ethics
 date: '2026-11-24'
 published: '2010-09-09'

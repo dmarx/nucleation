@@ -10,8 +10,8 @@ history:
     Filed, not read. The record was searched by title and first author and
     holds no entry for it. Friedman, New York Times Magazine, 1970-09-13. The DOI is Crossref's for the reprint in Corporate Ethics and Corporate Governance (Springer, pp. 173–178); the original's date is used. The newspaper's archive page answered 403 on 2026-11-24.
 tags:
+- economics
 - ethics
-- society-and-governance
 date: '2026-11-24'
 published: '1970-09-13'
 doi: '10.1007/978-3-540-70818-6_14'

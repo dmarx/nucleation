@@ -13,6 +13,7 @@ defeated_if: >-
   meaning alone, with no further premise.
 tags:
 - society-and-governance
+- law
 - philosophy-of-language
 date: '2026-11-24'
 line:

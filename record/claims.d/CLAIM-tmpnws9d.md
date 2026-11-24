@@ -13,6 +13,7 @@ defeated_if: >-
   threshold.
 tags:
 - complex-systems
+- cultural-evolution
 - mathematics
 date: '2026-11-24'
 line:

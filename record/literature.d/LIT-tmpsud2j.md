@@ -10,7 +10,8 @@ history:
     Filed, not read. The record was searched by title and first author and
     holds no entry for it. United States Supreme Court, opinion by Justice Harlan, decided 1958-06-30. The Library of Congress page showed a bot check on 2026-11-24 and was not retried; the citation and date are the standard ones and unverified here.
 tags:
-- society-and-governance
+- privacy
+- law
 - ethics
 date: '2026-11-24'
 published: '1958-06-30'

@@ -19,9 +19,9 @@ defeated_if: >-
   so that no value of a realization-independent invariant is being
   recorded.
 tags:
+- cultural-evolution
 - individuation
 - mathematics
-- social-science
 date: '2026-11-24'
 line:
 - pragmatic-transport

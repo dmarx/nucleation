@@ -11,6 +11,7 @@ history:
     holds no copy. The Avalon Project page was fetched and the date line
     ("Friday, February 8, 1788") read from it.
 tags:
+- law
 - society-and-governance
 date: '2026-11-24'
 published: '1788-02-08'
