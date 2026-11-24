@@ -96,7 +96,7 @@ profiles." It differs from this case in what is transferred (an
 expression, not learned components) and shares its question of which
 transfer reproduces a characteristic organization; the memes-as-characters
 idea it tests is the owner's (U4), filed as two alternative readings,
-CLAIM-tmphi3mx and CLAIM-tmp4mk0t. A neighbour design, proposed and not
+[CLAIM-tmphi3mx](../claims.d/CLAIM-tmphi3mx.md) and [CLAIM-tmp4mk0t](../claims.d/CLAIM-tmp4mk0t.md). A neighbour design, proposed and not
 run; [LEAD-113](../leads.d/LEAD-113.md) is this case's run. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A5 §8 and A6 §9

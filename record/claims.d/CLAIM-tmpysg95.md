@@ -92,7 +92,7 @@ biases".
 <!-- inactive-ok-file: CLAIM-tmpn754o — Proposed; filed from the same exchange -->
 
 A16 §9's "compiled result of previous governance work" is A13 §VI's
-"amortized governance", held as CLAIM-tmpn754o from A12 and A13: a
+"amortized governance", held as [CLAIM-tmpn754o](CLAIM-tmpn754o.md) from A12 and A13: a
 learned allocation of which process governs, kept past the regime that
 made it adequate, so that expertise and bias are one mechanism. This
 claim restates it in the vocabulary of contracts. What it adds is A16's

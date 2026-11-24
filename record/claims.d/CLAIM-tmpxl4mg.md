@@ -93,12 +93,12 @@ Proposed, in A's voice, narrowed by the gap fill.
 
 <!-- inactive-ok-file: CLAIM-tmpkvzcn CLAIM-tmpe6yfm TERM-tmpgiy6r — Proposed; filed from the same exchange -->
 
-The owner's U14 (CLAIM-tmpkvzcn) proposed that contracts such as
+The owner's U14 ([CLAIM-tmpkvzcn](CLAIM-tmpkvzcn.md)) proposed that contracts such as
 service-level agreements can operationalize standing through their
-prioritization structure, and its second part (CLAIM-tmpe6yfm) set moral
+prioritization structure, and its second part ([CLAIM-tmpe6yfm](CLAIM-tmpe6yfm.md)) set moral
 duties aside. This claim marks what such an operationalization is not:
 an error budget allocates corrective effort over a tolerance and does not
 settle what is owed to the party in a failure. The two complement each
-other. Operational standing (TERM-tmpgiy6r) is the first column of A36's
+other. Operational standing ([TERM-tmpgiy6r](../terms.d/TERM-tmpgiy6r.md)) is the first column of A36's
 table, not the second. The wording is the assistant's (Claude, in this
 session); adopting it is the owner's call.

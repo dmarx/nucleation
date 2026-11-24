@@ -101,7 +101,7 @@ how much the specimen carries. [LEAD-tmpmmfxt](../leads.d/LEAD-tmpmmfxt.md) woul
 <!-- inactive-ok-file: CLAIM-tmp18v1o — Proposed; filed from the same exchange -->
 
 A20 §2's consumer that "gave up its buffer against a reliable producer"
-and "now presupposes reliable delivery" is held as CLAIM-tmp18v1o: an
+and "now presupposes reliable delivery" is held as [CLAIM-tmp18v1o](CLAIM-tmp18v1o.md): an
 expectation embodied in a capacity no longer maintained. This claim is
 that mechanism with a declared guarantee beside it, so that the excess of
 realized over declared reliability is what induces the loss, and with the

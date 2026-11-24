@@ -141,15 +141,15 @@ stakeholder-oriented corporations necessarily avoid it" (A48 §14).
 <!-- inactive-ok-file: CLAIM-tmpjlxfy CLAIM-tmp9k2la TERM-tmp9mag8 TERM-tmpgiy6r CLAIM-tmpkvzcn TERM-083 — Proposed; filed from the same exchange -->
 
 A48's "normative agnotology" is not the same idea as A6's transmitted
-agnotological character (CLAIM-tmpjlxfy, TERM-tmp9mag8), though both say
+agnotological character ([CLAIM-tmpjlxfy](CLAIM-tmpjlxfy.md), [TERM-tmp9mag8](../terms.d/TERM-tmp9mag8.md)), though both say
 an organization can be ignorant without believing anything false. A6's is
 a limit on what becomes legible or credible; A48's is a limit on what a
 fact already known is allowed to count for. The nearer neighbour is A6's
-manufactured doubt working on the threshold for action (CLAIM-tmp9k2la),
+manufactured doubt working on the threshold for action ([CLAIM-tmp9k2la](CLAIM-tmp9k2la.md)),
 where the evidence is held and action is deferred. The three complement
-one another. Standing here is TERM-083's normative sense, which
+one another. Standing here is [TERM-083](../terms.d/TERM-083.md)'s normative sense, which
 constrains what may be optimized; it is not the operational standing of
-the owner's U14 (CLAIM-tmpkvzcn, TERM-tmpgiy6r), which is eligibility to
+the owner's U14 ([CLAIM-tmpkvzcn](CLAIM-tmpkvzcn.md), [TERM-tmpgiy6r](../terms.d/TERM-tmpgiy6r.md)), which is eligibility to
 have a claim become consequential under an arrangement. The wording is
 the assistant's (Claude, in this session); adopting it is the owner's
 call.

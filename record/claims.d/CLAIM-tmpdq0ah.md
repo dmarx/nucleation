@@ -92,14 +92,14 @@ completed, differently, in each organization that takes it up.
 The closing pass of the filing wired three relations. "Portable
 specifications around which contractual relationships can become
 organized" applies the owner's U2, a meme as a nucleation site
-(CLAIM-tmp1ng5k), to contracts, so this claim now rests on it. A burden of
+([CLAIM-tmp1ng5k](CLAIM-tmp1ng5k.md)), to contracts, so this claim now rests on it. A burden of
 evidence or a threshold is a condition under which later interpretations
-are evaluated, which is A4 §5's second-order meme (CLAIM-tmp158r8); the
+are evaluated, which is A4 §5's second-order meme ([CLAIM-tmp158r8](CLAIM-tmp158r8.md)); the
 two complement each other, this one saying what such a meme carries. And
-it is stated in TERM-tmpet5z8's sense of a meme as a constraint or
+it is stated in [TERM-tmpet5z8](../terms.d/TERM-tmpet5z8.md)'s sense of a meme as a constraint or
 scaffold. It is not a third alternative to the owner's U4 readings
-(CLAIM-tmphi3mx, CLAIM-tmp4mk0t): A16's "share a characteristic
+([CLAIM-tmphi3mx](CLAIM-tmphi3mx.md), [CLAIM-tmp4mk0t](CLAIM-tmp4mk0t.md)): A16's "share a characteristic
 governance profile despite differences in their constituent processes"
-is compatible with either, and no entry derives it from one. CLAIM-tmpyqjn0,
+is compatible with either, and no entry derives it from one. [CLAIM-tmpyqjn0](CLAIM-tmpyqjn0.md),
 shareholder primacy as a meme, is a case of it. The wording is the
 assistant's (Claude, in this session); adopting it is the owner's call.

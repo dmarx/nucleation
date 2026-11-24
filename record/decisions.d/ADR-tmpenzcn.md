@@ -14,7 +14,7 @@ summary: >-
   U31, and named as its collected work; the manuscript "Becoming Through
   One Another" (A26 to A28, at the owner's U20) is its precursor draft.
   Taking the two as one work is the lead's reading, and the owner may
-  separate them. Membership follows ADR-104's rule, read against A49: on
+  separate them. Membership follows [ADR-104](ADR-104.md)'s rule, read against A49: on
   reading, 122 claims and arguments are members, 60 held before the
   exchange and 62 filed from it (one of them from A49 itself), with 13
   more left for the owner as borderline. Gap fills are not members.
@@ -53,7 +53,7 @@ produced two write-ups at the owner's request:
 The exchange's turns U1 to U30 are filed in the same pull request. On
 2026-11-24 the owner asked for both: to add the series as a work and to
 start a manuscript from it. The `works` field exists on CLAIM and ARG
-only. ADR-104 is the membership rule and ADR-144 the latest precedent
+only. [ADR-104](ADR-104.md) is the membership rule and [ADR-144](ADR-144.md) the latest precedent
 (governance-of-possibility, where A48 superseded A46).
 
 ## Decision
@@ -67,28 +67,28 @@ only. ADR-104 is the membership rule and ADR-144 the latest precedent
   and fuller draft of the same argument, and its Parts I to III take over
   the manuscript's scope. The owner may separate them, giving the
   manuscript a work of its own.
-- **Membership is ADR-104's rule, read against A49.** A CLAIM or ARG is in
+- **Membership is [ADR-104](ADR-104.md)'s rule, read against A49.** A CLAIM or ARG is in
   the work when A49 states its proposition, in any wording, or uses it as
   a step, in an article's abstract, outline or centre, or in the
   connective sections. A code in an article's "Record anchors" with no use
   in the text does not count; nor does a topic named without the entry's
   proposition. Claims the precursor alone uses are not members, as claims
-  A46 alone cites are not members of governance-of-possibility (ADR-144).
-  Whether the record believes a member is its status (ADR-032).
+  A46 alone cites are not members of governance-of-possibility ([ADR-144](ADR-144.md)).
+  Whether the record believes a member is its status ([ADR-032](ADR-032.md)).
 - **Members are found by reading.** Each candidate was read against the
   passage it would come from; the curation entry gives each member's
   article and section, the borderline cases and the exclusions.
 - **Gap fills are not members.** A fill the assistant files against the
-  series' argument (CLAIM-tmpq1lyz, CLAIM-tmpqbaic, CLAIM-tmpj4pw3,
-  CLAIM-tmpnws9d, CLAIM-tmpu5cap, CLAIM-tmp8mpgs among them) is not
+  series' argument ([CLAIM-tmpq1lyz](../claims.d/CLAIM-tmpq1lyz.md), [CLAIM-tmpqbaic](../claims.d/CLAIM-tmpqbaic.md), [CLAIM-tmpj4pw3](../claims.d/CLAIM-tmpj4pw3.md),
+  [CLAIM-tmpnws9d](../claims.d/CLAIM-tmpnws9d.md), [CLAIM-tmpu5cap](../claims.d/CLAIM-tmpu5cap.md), [CLAIM-tmp8mpgs](../claims.d/CLAIM-tmp8mpgs.md) among them) is not
   offered for it, so it is not in the work unless the owner adds it.
 - **Readings the owner has not chosen are not settled by membership.** For
   U4, A49 §7.3 declines to identify memes "literally with mathematical
-  characters", so neither CLAIM-tmphi3mx nor CLAIM-tmp4mk0t is a member;
-  CLAIM-tmpjitli, which A49 states, is. For U17, A49 states the reading of
-  exposure as vulnerability (CLAIM-tmp05a1l), not as revelation
-  (CLAIM-tmppx64t). For U25, A49's hedged wording fits both readings
-  (CLAIM-tmpgmxs0, CLAIM-tmp9v9yl), so both are borderline.
+  characters", so neither [CLAIM-tmphi3mx](../claims.d/CLAIM-tmphi3mx.md) nor [CLAIM-tmp4mk0t](../claims.d/CLAIM-tmp4mk0t.md) is a member;
+  [CLAIM-tmpjitli](../claims.d/CLAIM-tmpjitli.md), which A49 states, is. For U17, A49 states the reading of
+  exposure as vulnerability ([CLAIM-tmp05a1l](../claims.d/CLAIM-tmp05a1l.md)), not as revelation
+  ([CLAIM-tmppx64t](../claims.d/CLAIM-tmppx64t.md)). For U25, A49's hedged wording fits both readings
+  ([CLAIM-tmpgmxs0](../claims.d/CLAIM-tmpgmxs0.md), [CLAIM-tmp9v9yl](../claims.d/CLAIM-tmp9v9yl.md)), so both are borderline.
 
 ## Alternatives
 
@@ -98,11 +98,11 @@ only. ADR-104 is the membership rule and ADR-144 the latest precedent
   which draft carries the argument forward. It remains open to the
   owner, if the manuscript is to be finished on its own.
 - **Count A49's "Record anchors".** The lists cite 116 codes. Most fit, but
-  some are misplaced (CLAIM-785, on predicates as constraints on an
-  entry's revisions, and TERM-123, exploitation, under the memes article;
-  CASE-189 under it too) and some name a topic without its proposition
-  (CLAIM-788, CLAIM-522, CLAIM-600). Counting them would admit A's
-  mispairings, as ADR-104 found of A49's provenance table in "Assess Depp
+  some are misplaced ([CLAIM-785](../claims.d/CLAIM-785.md), on predicates as constraints on an
+  entry's revisions, and [TERM-123](../terms.d/TERM-123.md), exploitation, under the memes article;
+  [CASE-189](../cases.d/CASE-189.md) under it too) and some name a topic without its proposition
+  ([CLAIM-788](../claims.d/CLAIM-788.md), [CLAIM-522](../claims.d/CLAIM-522.md), [CLAIM-600](../claims.d/CLAIM-600.md)). Counting them would admit A's
+  mispairings, as [ADR-104](ADR-104.md) found of A49's provenance table in "Assess Depp
   Heard Abuse".
 - **Count the precursor's uses as well.** The manuscript's appendix cites
   codes all of which exist and fit (the filer's check), but its argument
@@ -116,23 +116,23 @@ only. ADR-104 is the membership rule and ADR-144 the latest precedent
 
 - 122 entries join the work, each with the field and, where it keeps a history, a version bump and a note (50 of them): 60 held
   before the exchange (24 Active, 36 Proposed), 61 filed from its turns
-  U1 to U30, and CLAIM-tmpv5sry, filed from A49's Part IV in this change.
-  ARG-tmptccms and ARG-tmpa5ped are the two arguments. 13 more are
+  U1 to U30, and [CLAIM-tmpv5sry](../claims.d/CLAIM-tmpv5sry.md), filed from A49's Part IV in this change.
+  [ARG-tmptccms](../arguments.d/ARG-tmptccms.md) and [ARG-tmpa5ped](../arguments.d/ARG-tmpa5ped.md) are the two arguments. 13 more are
   borderline and wait on the owner.
 - 28 held members are in other works already, 17 of them in
   governance-of-possibility, mostly the cost model's and correction's
-  claims (CLAIM-569, CLAIM-571, CLAIM-760, CLAIM-761, CLAIM-921, CLAIM-523).
+  claims ([CLAIM-569](../claims.d/CLAIM-569.md), [CLAIM-571](../claims.d/CLAIM-571.md), [CLAIM-760](../claims.d/CLAIM-760.md), [CLAIM-761](../claims.d/CLAIM-761.md), [CLAIM-921](../claims.d/CLAIM-921.md), [CLAIM-523](../claims.d/CLAIM-523.md)).
 - Parts of A49 that cannot carry the field are named in the curation
-  entry: the terms (TERM-088, TERM-114, TERM-160, TERM-163,
-  TERM-tmpgiy6r, TERM-tmpet5z8, TERM-tmpxr1ox, TERM-tmpx4zke among them),
-  the cases (CASE-148, CASE-326, CASE-tmp3xxqg, CASE-tmpfh2in,
-  CASE-tmp3so1p), the questions (QUESTION-472, QUESTION-265,
-  QUESTION-tmprudey, QUESTION-tmpb7fx7), and the leads the six
+  entry: the terms ([TERM-088](../terms.d/TERM-088.md), [TERM-114](../terms.d/TERM-114.md), [TERM-160](../terms.d/TERM-160.md), [TERM-163](../terms.d/TERM-163.md),
+  [TERM-tmpgiy6r](../terms.d/TERM-tmpgiy6r.md), [TERM-tmpet5z8](../terms.d/TERM-tmpet5z8.md), [TERM-tmpxr1ox](../terms.d/TERM-tmpxr1ox.md), [TERM-tmpx4zke](../terms.d/TERM-tmpx4zke.md) among them),
+  the cases ([CASE-148](../cases.d/CASE-148.md), [CASE-326](../cases.d/CASE-326.md), [CASE-tmp3xxqg](../cases.d/CASE-tmp3xxqg.md), [CASE-tmpfh2in](../cases.d/CASE-tmpfh2in.md),
+  [CASE-tmp3so1p](../cases.d/CASE-tmp3so1p.md)), the questions ([QUESTION-472](../questions.d/QUESTION-472.md), [QUESTION-265](../questions.d/QUESTION-265.md),
+  [QUESTION-tmprudey](../questions.d/QUESTION-tmprudey.md), [QUESTION-tmpb7fx7](../questions.d/QUESTION-tmpb7fx7.md)), and the leads the six
   experiment families map to.
 - A49's audit, in the curation entry, found one join that passes
-  ADR-075's test, filed as CLAIM-tmpv5sry, and two proposed studies with
-  content of their own, filed as LEAD-tmpfq5cj (one organizational state
-  for the exchange's testbeds) and LEAD-tmpeo8wq (reachability indexed by
+  [ADR-075](ADR-075.md)'s test, filed as [CLAIM-tmpv5sry](../claims.d/CLAIM-tmpv5sry.md), and two proposed studies with
+  content of their own, filed as [LEAD-tmpfq5cj](../leads.d/LEAD-tmpfq5cj.md) (one organizational state
+  for the exchange's testbeds) and [LEAD-tmpeo8wq](../leads.d/LEAD-tmpeo8wq.md) (reachability indexed by
   actor and authority).
 - The manuscript itself is the next step, in
   `scratch/manuscripts/governance-of-becoming/`, under the

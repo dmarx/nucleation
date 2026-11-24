@@ -45,7 +45,7 @@ summary: >-
   of cooperation, and the successful optimization of operative
   objectives." A49 calls it "one of the most distinctive arguments of the
   entire research program". Filed by a discriminating prediction
-  (ADR-075's third route) against a deficit account of the same
+  ([ADR-075](../decisions.d/ADR-075.md)'s third route) against a deficit account of the same
   pathologies. The wording is A's (ChatGPT, in the exchange 'Memes,
   Contracts, and Systemic Normativity'); adopting it is the owner's call.
 ---
@@ -70,29 +70,29 @@ turn:
 
 - **Successful provision.** A provider whose realized reliability exceeds
   its declared guarantee can lower the resilience of those built on it,
-  who stop maintaining fallbacks (CLAIM-tmpb1wyc, grounded in the global
-  Chubby outage, CASE-tmp3xxqg); an arrangement can produce the dependence
+  who stop maintaining fallbacks ([CLAIM-tmpb1wyc](CLAIM-tmpb1wyc.md), grounded in the global
+  Chubby outage, [CASE-tmp3xxqg](../cases.d/CASE-tmp3xxqg.md)); an arrangement can produce the dependence
   through which it exploits by reliably supplying what a party then stops
-  supplying for itself (CLAIM-670).
+  supplying for itself ([CLAIM-670](CLAIM-670.md)).
 - **Successful cooperation.** Cooperation yields a regulatory surplus that
-  can be captured asymmetrically (CLAIM-tmp8bimm), and members'
-  conscientious compensation is read as adequacy (CLAIM-700).
+  can be captured asymmetrically ([CLAIM-tmp8bimm](CLAIM-tmp8bimm.md)), and members'
+  conscientious compensation is read as adequacy ([CLAIM-700](CLAIM-700.md)).
 - **Successful optimization.** A routine questioner rewards the ecosystem
-  that optimized away what only an unasked query needs (CLAIM-1054); where
+  that optimized away what only an unasked query needs ([CLAIM-1054](CLAIM-1054.md)); where
   the losses that discipline extraction depend on a state the institution
   can optimize, the constraints become objects of optimization
-  (CLAIM-tmpjnly0); an objective that recognizes affected parties only
+  ([CLAIM-tmpjnly0](CLAIM-tmpjnly0.md)); an objective that recognizes affected parties only
   instrumentally keeps their claims from constraining it however well it
-  is met (CLAIM-tmpa61rf).
+  is met ([CLAIM-tmpa61rf](CLAIM-tmpa61rf.md)).
 
 And an encompassing organization's success does not establish its
-constituents' well-being, viability or autonomy (CLAIM-060).
+constituents' well-being, viability or autonomy ([CLAIM-060](CLAIM-060.md)).
 
 ## Admission
 
 No component states the join, that these pathologies form a class marked
 by arising from success, and no account was found that declines it. The
-join is tested by ADR-075's third route, a discriminating prediction. A
+join is tested by [ADR-075](../decisions.d/ADR-075.md)'s third route, a discriminating prediction. A
 deficit account treats a pathology as the lack of some achievement, so its
 marks should fall as ordinary performance rises and a remedy that restores
 performance should remove them. The join predicts, within these
@@ -100,12 +100,12 @@ mechanisms, the opposite sign or none:
 
 - in the over-reliable provider, the spread of a provider outage grows
   with the provider's realized availability above its guarantee, since
-  consumers drop fallbacks as observed availability rises (CLAIM-tmpb1wyc);
-- in CASE-tmp3so1p's stipulated retention model, a service of quality 80
+  consumers drop fallbacks as observed availability rises ([CLAIM-tmpb1wyc](CLAIM-tmpb1wyc.md));
+- in [CASE-tmp3so1p](../cases.d/CASE-tmp3so1p.md)'s stipulated retention model, a service of quality 80
   that costs nothing to leave and one of quality 20 that costs 60 to leave
   keep the same 63.5 percent of their customers, so retention, the
   ordinary measure, cannot rank them;
-- in CLAIM-1054's trap the optimizing ecosystem is the one rewarded.
+- in [CLAIM-1054](CLAIM-1054.md)'s trap the optimizing ecosystem is the one rewarded.
 
 So the two accounts part on a measurable sign: whether the pathology's
 mark covaries negatively with ordinary performance. That is what A49's
@@ -123,8 +123,8 @@ and it is what a remedy aimed at restoring performance would miss.
   error and deception remain; the claim is that these named mechanisms do
   not need them.
 - Not that the mechanisms are one mechanism. They share a mark, not a
-  cause, and each is tested in its own design (LEAD-tmpmmfxt, LEAD-tmp5l71z,
-  LEAD-tmp466iv).
+  cause, and each is tested in its own design ([LEAD-tmpmmfxt](../leads.d/LEAD-tmpmmfxt.md), [LEAD-tmp5l71z](../leads.d/LEAD-tmp5l71z.md),
+  [LEAD-tmp466iv](../leads.d/LEAD-tmp466iv.md)).
 - The sign predictions are of illustrative constructions (the retention
   numbers are stipulated) and one documented specimen; none is a measured
   covariation across organizations.

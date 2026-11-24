@@ -62,17 +62,17 @@ the narrowing.
 
 ## Note of 2026-11-24: its bearing on the exchange's critique of conservatism, the closing pass
 
-<!-- inactive-ok-file: CLAIM-tmplc0vv CLAIM-tmpdzcj6 CLAIM-tmpa8tdg CLAIM-tmp4zii5 — Proposed; filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmplc0vv CLAIM-tmpdzcj6 CLAIM-tmp4zii5 — Proposed; filed from the same exchange -->
 
-A38 §3 and A40 §4.2 (CLAIM-tmplc0vv) charge strong preservationist
+A38 §3 and A40 §4.2 ([CLAIM-tmplc0vv](CLAIM-tmplc0vv.md)) charge strong preservationist
 conservatism with treating "historical endurance as a general presumption
 of adequacy". This claim's case is one in which an arrangement endured
 long after its justification was gone. It bears on that critique, but no
 entry argues the support, and the objection to the critique
-(CLAIM-tmpdzcj6) holds that conservatism's presumption is defeasible,
+([CLAIM-tmpdzcj6](CLAIM-tmpdzcj6.md)) holds that conservatism's presumption is defeasible,
 which a case like this one is offered to defeat. So no relation is
 written; an ARG would be needed, and the owner may want it. The sidebar's
 mechanism of persistence by replacement rationales and served interests
-(CLAIM-tmps8ou2) is close to A22 §13's normative capture
-(CLAIM-tmp4zii5), which that claim now complements. The wording is the
+([CLAIM-tmps8ou2](CLAIM-tmps8ou2.md)) is close to A22 §13's normative capture
+([CLAIM-tmp4zii5](CLAIM-tmp4zii5.md)), which that claim now complements. The wording is the
 assistant's (Claude, in this session); adopting it is the owner's call.

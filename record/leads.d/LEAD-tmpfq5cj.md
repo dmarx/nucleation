@@ -37,7 +37,7 @@ summary: >-
   assistant's (Claude, in this session); adopting either is the owner's
   call.
 ---
-<!-- inactive-ok-file: ARG-tmpa5ped CLAIM-1156 CLAIM-364 CLAIM-tmp1nubb CLAIM-tmpefeb7 CLAIM-tmpersgx CLAIM-tmpsf9hp CLAIM-tmpv5sry — Proposed, Rejected or new; entries this one reads or rests on, cited whatever their standing -->
+<!-- inactive-ok-file: ARG-tmpa5ped CLAIM-1156 CLAIM-364 CLAIM-tmp1nubb CLAIM-tmpefeb7 CLAIM-tmpersgx CLAIM-tmpsf9hp — Proposed, Rejected or new; entries this one reads or rests on, cited whatever their standing -->
 
 # LEAD-tmpfq5cj: Put the exchange's testbeds on one organizational state, participants, contracts, capabilities, authority, monitoring and resources, whose transition returns the organization its own activity changed, with normative evaluation kept outside the monitoring it changes, so the six experiment families extend one architecture and each compares regimes matched on ordinary performance by their divergence under perturbation of the governing relationships
 
@@ -58,18 +58,18 @@ and one transition, T(S_t, q_t) → (a_t, τ_t, κ_t, S_{t+1}): "The important
 feature is that the operation returns not only an immediate realization,
 but also an organization changed by the activity required to produce it."
 That feature is held: an answer benchmark misses what answering does to
-the organization (CLAIM-1156), and an invocation can change the
+the organization ([CLAIM-1156](../claims.d/CLAIM-1156.md)), and an invocation can change the
 relationship it invokes, which a cost model with a fixed store misprices
-(CLAIM-tmpsf9hp, ARG-tmpa5ped). A49 adds a constraint: "Independent
+([CLAIM-tmpsf9hp](../claims.d/CLAIM-tmpsf9hp.md), [ARG-tmpa5ped](../arguments.d/ARG-tmpa5ped.md)). A49 adds a constraint: "Independent
 normative evaluation is then applied to the relevant history,
 relationships and consequences. It should not simply be identified with
 the operative evaluation apparatus M_t." The record's reason for it is
 that a dropped demand scored against the system's current demands reads
-as relief (CLAIM-556).
+as relief ([CLAIM-556](../claims.d/CLAIM-556.md)).
 
 The method, A49's: "Match ordinary performance; perturb the governing
 relationships; observe the divergence in organizational trajectories", as
-in CLAIM-364, CLAIM-tmp1nubb and CLAIM-tmpersgx.
+in [CLAIM-364](../claims.d/CLAIM-364.md), [CLAIM-tmp1nubb](../claims.d/CLAIM-tmp1nubb.md) and [CLAIM-tmpersgx](../claims.d/CLAIM-tmpersgx.md).
 
 ## The six families, and the leads already filed for each
 
@@ -77,12 +77,12 @@ The mapping is the assistant's.
 
 | Family (A49) | Articles | Filed leads it would unify |
 |---|---|---|
-| Nucleation, persistence and component substitution | 1, 2, 7 | LEAD-tmpiktom, LEAD-tmpqucxc |
-| Contract learning, amortization and alternative erosion | 2, 3, 9 | LEAD-tmp5l71z, LEAD-tmp14n26, LEAD-tmpeo8wq |
-| Competing demands, conditional authority and regulatory effort | 4, 6, 10 | LEAD-tmpbqj9u, LEAD-tmpmmfxt |
-| Inquiry access, monitoring and capability maintenance | 5, 6, 11 | LEAD-tmpbqj9u (A18's arms), LEAD-tmp3nqe0 |
-| Dependency-producing extraction and normative exclusion | 8, 9, 12 | LEAD-tmp5l71z, LEAD-tmp466iv |
-| Corrective independence and constitutional reconfiguration | 10, 13, 14 | LEAD-tmpvo9fs, LEAD-tmpnvrld, LEAD-tmps9jkd |
+| Nucleation, persistence and component substitution | 1, 2, 7 | [LEAD-tmpiktom](LEAD-tmpiktom.md), [LEAD-tmpqucxc](LEAD-tmpqucxc.md) |
+| Contract learning, amortization and alternative erosion | 2, 3, 9 | [LEAD-tmp5l71z](LEAD-tmp5l71z.md), [LEAD-tmp14n26](LEAD-tmp14n26.md), [LEAD-tmpeo8wq](LEAD-tmpeo8wq.md) |
+| Competing demands, conditional authority and regulatory effort | 4, 6, 10 | [LEAD-tmpbqj9u](LEAD-tmpbqj9u.md), [LEAD-tmpmmfxt](LEAD-tmpmmfxt.md) |
+| Inquiry access, monitoring and capability maintenance | 5, 6, 11 | [LEAD-tmpbqj9u](LEAD-tmpbqj9u.md) (A18's arms), [LEAD-tmp3nqe0](LEAD-tmp3nqe0.md) |
+| Dependency-producing extraction and normative exclusion | 8, 9, 12 | [LEAD-tmp5l71z](LEAD-tmp5l71z.md), [LEAD-tmp466iv](LEAD-tmp466iv.md) |
+| Corrective independence and constitutional reconfiguration | 10, 13, 14 | [LEAD-tmpvo9fs](LEAD-tmpvo9fs.md), [LEAD-tmpnvrld](LEAD-tmpnvrld.md), [LEAD-tmps9jkd](LEAD-tmps9jkd.md) |
 
 A49's comparison field per investigation (control theory, transaction-cost
 economics, relational contracts, cultural evolution, bargaining theory,
@@ -99,14 +99,14 @@ already name most of them.
   appears, the shared state is bookkeeping and the leads stay separate.
 - **Dynamics for each component.** A49 gives none. Capacity decay and
   rebuilding (A20 §6's update rule), contract formation by
-  CLAIM-tmp1nubb's probes, authority by a learned prior over governing
-  processes (CLAIM-443) and monitoring that changes what it records
-  (CLAIM-tmpefeb7) are the record's candidates.
+  [CLAIM-tmp1nubb](../claims.d/CLAIM-tmp1nubb.md)'s probes, authority by a learned prior over governing
+  processes ([CLAIM-443](../claims.d/CLAIM-443.md)) and monitoring that changes what it records
+  ([CLAIM-tmpefeb7](../claims.d/CLAIM-tmpefeb7.md)) are the record's candidates.
 - **The matching criterion and the perturbation schedule** fixed before
   any comparison, as in the record's other matched-behaviour designs
-  (CLAIM-364).
+  ([CLAIM-364](../claims.d/CLAIM-364.md)).
 - **The external evaluation fixed in advance**, as a reference collection
-  of demands and claims the system cannot edit (CLAIM-556).
+  of demands and claims the system cannot edit ([CLAIM-556](../claims.d/CLAIM-556.md)).
 
 ## What would count
 

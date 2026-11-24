@@ -108,7 +108,7 @@ wills, "distinct requirements that need to be jointly accommodated".
 
 <!-- inactive-ok-file: CLAIM-tmp7xsyj — Proposed; filed from the same exchange -->
 
-The pathology the section above calls A36 §6's is held as CLAIM-tmp7xsyj:
+The pathology the section above calls A36 §6's is held as [CLAIM-tmp7xsyj](CLAIM-tmp7xsyj.md):
 formally independent checks fail together where a shared concern, such
 as party alignment, conditions their use. This claim's model, q + (1 −
 q)pⁿ, gives that claim a quantity, and the two complement each other:

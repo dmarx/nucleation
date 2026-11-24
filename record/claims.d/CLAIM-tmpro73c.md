@@ -105,14 +105,14 @@ Proposed, in A's voice.
 
 <!-- inactive-ok-file: CLAIM-tmp4zii5 CLAIM-tmp8bimm CLAIM-tmpgx2ej — Proposed; filed from the same exchange -->
 
-A22 §13, held as CLAIM-tmp4zii5, already gave a party "disproportionate
+A22 §13, held as [CLAIM-tmp4zii5](CLAIM-tmp4zii5.md), already gave a party "disproportionate
 influence over how an implicit contract is interpreted"; its dangerous
 form makes the arrangement the standard for judging complaints. This
 claim's mechanism is different: no standard is captured, and one party
 settles which arrangement covers the act case by case and
-inconsistently. A24's exploitation of accommodation (CLAIM-tmp8bimm) is a
+inconsistently. A24's exploitation of accommodation ([CLAIM-tmp8bimm](CLAIM-tmp8bimm.md)) is a
 third route, through the regulatory surplus. The three complement one
 another. The owner's sidebar on productive misunderstanding draws on this
-claim as the risk of leaving an ambiguity unresolved (CLAIM-tmpgx2ej). The
+claim as the risk of leaving an ambiguity unresolved ([CLAIM-tmpgx2ej](CLAIM-tmpgx2ej.md)). The
 wording is the assistant's (Claude, in this session); adopting it is the
 owner's call.

@@ -123,10 +123,10 @@ propose, is [LEAD-tmp5l71z](../leads.d/LEAD-tmp5l71z.md).
 
 A22 §15's "a contract's ordinary fulfillment may reveal less about its
 organization than its response to disagreement, nonperformance or
-attempted revision" restates A16 §15, held as CLAIM-tmpersgx ("Two
+attempted revision" restates A16 §15, held as [CLAIM-tmpersgx](CLAIM-tmpersgx.md) ("Two
 systems with identical ordinary behavior may diverge when a contract is
-breached"), which ARG-tmp2dpcv argues from priority inversion; and
-CLAIM-tmp7hqtl already makes governing deviation and breach the mark of
+breached"), which [ARG-tmp2dpcv](../arguments.d/ARG-tmp2dpcv.md) argues from priority inversion; and
+[CLAIM-tmp7hqtl](CLAIM-tmp7hqtl.md) already makes governing deviation and breach the mark of
 a contract-like relation. What this claim adds is the turn to implicit
 contracts, where no declared term says which perturbation to run, A20
 §14's list of probes, and A22 §16's point that compliance alone cannot
