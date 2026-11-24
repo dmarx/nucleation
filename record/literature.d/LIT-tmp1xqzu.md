@@ -29,7 +29,7 @@ summary: >-
   117(1):39–84. Cited by A20 §13 of the exchange "Memes, Contracts, and
   Systemic Normativity" (ChatGPT) as "particularly relevant to informal
   arrangements sustained through the value of future interaction";
-  unverified until read. Bears on CLAIM-tmp0d1fq (implicit contracts formed
+  unverified until read. Bears on [CLAIM-tmp0d1fq](../claims.d/CLAIM-tmp0d1fq.md) (implicit contracts formed
   without agreement).
 ---
 
@@ -47,5 +47,5 @@ Baker, Gibbons and Murphy (2002), The Quarterly Journal of Economics 117(1):39�
 
 Registered as the economic precedent for contracts kept by the value of
 continued dealing rather than by enforcement, a neighbour of the owner's
-implicit contracts (CLAIM-tmp0d1fq). What A20 says of it is unverified
+implicit contracts ([CLAIM-tmp0d1fq](../claims.d/CLAIM-tmp0d1fq.md)). What A20 says of it is unverified
 until read.

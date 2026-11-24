@@ -25,13 +25,13 @@ complements:
 bears_on:
 - QUESTION-281
 summary: >-
-  The assistant's qualification of the owner's CLAIM-tmpupcws, filed under
+  The assistant's qualification of the owner's [CLAIM-tmpupcws](CLAIM-tmpupcws.md), filed under
   the dialectic regime on 2026-11-24. Readings that agree on every case met
-  are equivalent under every test the parties have run (CLAIM-302's
+  are equivalent under every test the parties have run ([CLAIM-302](CLAIM-302.md)'s
   equivalence under feasible tests), so the misunderstanding is the first
   test that separates them. And the reorganization runs both ways: it
   refines the parties' partition where readings diverge in consequence,
-  and coarsens it, as CLAIM-762 describes, where a disputed difference
+  and coarsens it, as [CLAIM-762](CLAIM-762.md) describes, where a disputed difference
   turns out to matter nowhere. The owner's thesis names the first
   direction. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
@@ -44,7 +44,7 @@ summary: >-
 
 Two parties use an expression with readings R₁ and R₂. On every case they
 have met, R₁ and R₂ prescribe the same response, so no test they have run
-tells the readings apart (CLAIM-302: equivalence under feasible tests can
+tells the readings apart ([CLAIM-302](CLAIM-302.md): equivalence under feasible tests can
 be much coarser than identity). The ambiguity is latent. It becomes
 consequential on the first case where R₁ and R₂ prescribe different
 responses, and the misunderstanding is the parties' discovering that case.
@@ -69,7 +69,7 @@ Clarifying an ambiguity is recalibrating the parties' partition to the
 consequences that cases have shown. Where readings diverge in
 consequence, the partition is refined: the owner's case. Where a
 difference the parties disputed turns out to change nothing they care
-about, the readings are merged. That is CLAIM-762's mechanism, in which
+about, the readings are merged. That is [CLAIM-762](CLAIM-762.md)'s mechanism, in which
 collapsing differences that do not matter is how the remaining classes
 become units.
 
@@ -83,5 +83,5 @@ The thesis holds for refinement, and needs a companion clause for
 coarsening. Read together they say that clarifying an ambiguity aligns the
 parties' joint partition with the distinctions that cases have made
 consequential, in either direction. "Productive" then has a test borrowed
-from CLAIM-762: the clarified partition is reused, and is closed under the
+from [CLAIM-762](CLAIM-762.md): the clarified partition is reused, and is closed under the
 parties' later dealings.

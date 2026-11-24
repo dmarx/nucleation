@@ -31,7 +31,7 @@ summary: >-
   A6 calls "a canonical case in agnotology" and quotes from a 1969 Brown
   & Williamson document, "Doubt is our product." The quotation is
   unverified here; the agnotology volume is registered unread
-  (LIT-tmpgyknm). The wording is A's (ChatGPT, in the exchange 'Memes,
+  ([LIT-tmpgyknm](../literature.d/LIT-tmpgyknm.md)). The wording is A's (ChatGPT, in the exchange 'Memes,
   Contracts, and Systemic Normativity'); adopting it is the owner's call.
 ---
 
@@ -61,18 +61,18 @@ procedures."
 
 ## Where the record stands
 
-CLAIM-523 separates legibility (the discrepancy becomes recognizable) from
+[CLAIM-523](CLAIM-523.md) separates legibility (the discrepancy becomes recognizable) from
 volitional efficacy (a demand can move action). The claim places
 manufactured doubt's effect on the second with the first intact. It is
-an application of the memetic account (CLAIM-tmpjlxfy) and of the seed
-figure (CLAIM-tmpgvsgg) to a documented kind of campaign.
+an application of the memetic account ([CLAIM-tmpjlxfy](CLAIM-tmpjlxfy.md)) and of the seed
+figure ([CLAIM-tmpgvsgg](CLAIM-tmpgvsgg.md)) to a documented kind of campaign.
 
 ## Gaps
 
 - **The case is not on the record.** The memo, its date and its words are
   A6's; the UCSF tobacco documents archive refused this session's
   connection, and no other copy was sought. A CASE needs the document and
-  a reading of the agnotology literature (LIT-tmpgyknm).
+  a reading of the agnotology literature ([LIT-tmpgyknm](../literature.d/LIT-tmpgyknm.md)).
 - **The rival is not weighed.** The defeater asks whether the campaigns'
   effect ran through belief or through the bar for action; the exchange
   gives no evidence either way.

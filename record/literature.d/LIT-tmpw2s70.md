@@ -42,5 +42,5 @@ Tuana (2006), Hypatia 21(3):1-19.
 ## Standing in the record
 
 Registered as one of the epistemologies-of-ignorance works A6 §7 maps onto
-CLAIM-tmpjlxfy. The record's nearest readings are Fricker's (LIT-1004) and
-the testimonial-injustice claims CLAIM-403 and CLAIM-406.
+[CLAIM-tmpjlxfy](../claims.d/CLAIM-tmpjlxfy.md). The record's nearest readings are Fricker's ([LIT-1004](LIT-1004.md)) and
+the testimonial-injustice claims [CLAIM-403](../claims.d/CLAIM-403.md) and [CLAIM-406](../claims.d/CLAIM-406.md).

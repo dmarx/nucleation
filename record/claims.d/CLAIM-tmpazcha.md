@@ -24,7 +24,7 @@ summary: >-
   A40 §10's first candidate claim ("Formative specification does not exhaust
   continuing constitution") in the exchange "Memes, Contracts, and Systemic
   Normativity" (2026-11-24), at the owner's U25 and U26, with A38 §1 and
-  A40 §1 and §2.1 to §2.3 as its argument. TERM-100 separates formation from
+  A40 §1 and §2.1 to §2.3 as its argument. [TERM-100](../terms.d/TERM-100.md) separates formation from
   maintenance provenance; this extends the separation from provenance to
   authority and adequacy. The wording is A's (ChatGPT, in the exchange
   "Memes, Contracts, and Systemic Normativity"); adopting it is the owner's
@@ -73,15 +73,15 @@ authority."
 
 ## Where the record and the literature hold it
 
-- TERM-100 separates formation from maintenance provenance, and CASE-191
+- [TERM-100](../terms.d/TERM-100.md) separates formation from maintenance provenance, and [CASE-191](../cases.d/CASE-191.md)
   found that they come apart and that only the second can be read off a
   present organization. This claim adds that neither settles authority.
-- CLAIM-075 holds the parallel for viability: what keeps an arrangement
+- [CLAIM-075](CLAIM-075.md) holds the parallel for viability: what keeps an arrangement
   going does not establish what ought to persist.
 - The drift A40 §2.3 describes is the institutional-change literature's;
-  A40 cites Mahoney and Thelen (LIT-tmpdsowf). The legal treatment of
+  A40 cites Mahoney and Thelen ([LIT-tmpdsowf](../literature.d/LIT-tmpdsowf.md)). The legal treatment of
   practice acquired after ratification, historical gloss and liquidation, is
-  Bradley and Siegel's (LIT-tmp4h6yz), cited at A38 §1. A40's contribution,
+  Bradley and Siegel's ([LIT-tmp4h6yz](../literature.d/LIT-tmp4h6yz.md)), cited at A38 §1. A40's contribution,
   by its own account, is to connect drift to "contractual dependence, the
   cost of correction and organizational character".
 
@@ -91,5 +91,5 @@ That historical meaning lacks authority, or that fixation is false. A38 §1:
 "Our framework need not reject fixation." The claim is a non-entailment,
 and sophisticated originalist theory concedes it (A40 §2 reports Solum's
 separation of semantic, legal and normative claims). That concession
-matters for the critique built on it, CLAIM-tmpr2qzg, and its objection,
-CLAIM-tmpmp2wh.
+matters for the critique built on it, [CLAIM-tmpr2qzg](CLAIM-tmpr2qzg.md), and its objection,
+[CLAIM-tmpmp2wh](CLAIM-tmpmp2wh.md).

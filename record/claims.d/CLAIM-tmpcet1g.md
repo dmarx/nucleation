@@ -60,7 +60,7 @@ and 1 hours for burn rates 1, 2, 10, 30 and 720, which are A34's 30 days,
 
 A burn rate is the present error rate divided by the allowed one, so on
 its own it is a rescaled present discrepancy. What makes the alerts the
-workbook describes (LIT-tmpavq47) more than a threshold on the present
+workbook describes ([LIT-tmpavq47](../literature.d/LIT-tmpavq47.md)) more than a threshold on the present
 rate is that the scale and the windows are set by the maintained demand:
 the objective fixes \(e^*\), the window fixes the horizon, and an alert
 fires on the share of the whole window's budget spent within a short
@@ -81,7 +81,7 @@ call.
 ## Standing
 
 Proposed, in A's voice. Its affect side is an analogy A34 itself hedges;
-it complements CLAIM-552, whose tolerances are a perspective's criteria
+it complements [CLAIM-552](CLAIM-552.md), whose tolerances are a perspective's criteria
 for conferring influence, by adding the horizon over which a tolerance is
 spent. That error budgets regulate precedence between competing concerns
 was introduced earlier in the exchange (A16) and is filed by another

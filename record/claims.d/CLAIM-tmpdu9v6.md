@@ -27,7 +27,7 @@ complements:
 - CLAIM-690
 summary: >-
   A32 §13 of the exchange 'Memes, Contracts, and Systemic Normativity'
-  (ChatGPT, 2026-11-24), on QUESTION-472: "A genuine obligation may
+  (ChatGPT, 2026-11-24), on [QUESTION-472](../questions.d/QUESTION-472.md): "A genuine obligation may
   constrain the admissibility of a transition rather than merely raise its
   numerical cost", so the model needs κ_i(p), the burdens of process p, and
   Perm_N(p), its permissibility under a declared standard. A30 §11
@@ -37,7 +37,7 @@ summary: >-
   The wording is A's (ChatGPT, in the exchange 'Memes, Contracts, and
   Systemic Normativity'); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-690 CLAIM-713 CLAIM-tmpdu9v6 — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-713 — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
 
 # CLAIM-tmpdu9v6: A genuine obligation enters a cost model of exit as a condition on which transitions are permissible, not as a cost: withdrawal can be feasible and affordable yet impermissible until alternatives are arranged or the duty is transferred, so a party who controls the circumstances that keep the restriction in place controls the other's exit without raising its price
 
@@ -67,23 +67,23 @@ predicates apart: "Physically feasible", "Affordable", "Authorized" and
 
 ## Where the record stands
 
-- QUESTION-472 asks whether activating another's genuine obligations can
+- [QUESTION-472](../questions.d/QUESTION-472.md) asks whether activating another's genuine obligations can
   be control over the terms of their dependence. This claim is a "yes"
   with a mechanism: the controlled term is the cost and availability of
   the permissible route (alternative care, a transfer of the duty), not
   the price of exit. It meets the question's "No, by a second route" (a
   triggered obligation is "a cost the person bears and not a term another
   sets") by denying that the obligation is a cost.
-- CLAIM-703 and CLAIM-713 say a party can wrongfully bring about, or
+- [CLAIM-703](CLAIM-703.md) and [CLAIM-713](CLAIM-713.md) say a party can wrongfully bring about, or
   exploit, the circumstances that activate an obligation; this claim says
   where that control sits in a cost model.
-- TERM-114's note of 2026-11-17 separates authorized from feasible
+- [TERM-114](../terms.d/TERM-114.md)'s note of 2026-11-17 separates authorized from feasible
   changes (Θ); this claim adds permissibility as a fourth, distinct
   predicate.
 
 ## What it does not say
 
-It does not answer QUESTION-472's second half, what separates this from
+It does not answer [QUESTION-472](../questions.d/QUESTION-472.md)'s second half, what separates this from
 ordinary reliance on someone's conscientiousness: A32 does not address
 it. Nor does it say that every obligation is a bar rather than a weight:
 defeasible obligations would need rules of priority. The manuscript of

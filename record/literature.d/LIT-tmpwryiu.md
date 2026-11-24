@@ -18,7 +18,7 @@ published: '2016-01-01'
 doi: '10.15779/Z38SS13'
 first_author: 'Penney'
 summary: >-
-  Cited by A42 §5 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) for a fall in traffic to privacy-sensitive Wikipedia articles after the June 2013 surveillance revelations, "consistent with surveillance-induced changes in information-seeking behavior". It bears on CLAIM-tmpefeb7, the claim that monitoring can produce the conformity it records. What A42 says of it is unverified until read.
+  Cited by A42 §5 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) for a fall in traffic to privacy-sensitive Wikipedia articles after the June 2013 surveillance revelations, "consistent with surveillance-induced changes in information-seeking behavior". It bears on [CLAIM-tmpefeb7](../claims.d/CLAIM-tmpefeb7.md), the claim that monitoring can produce the conformity it records. What A42 says of it is unverified until read.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpefeb7 — Proposed or new; the entries this registration bears on -->
@@ -31,4 +31,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. Cited by A42 §5 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) for a fall in traffic to privacy-sensitive Wikipedia articles after the June 2013 surveillance revelations, "consistent with surveillance-induced changes in information-seeking behavior". It bears on CLAIM-tmpefeb7, the claim that monitoring can produce the conformity it records. What A42 says of it is unverified until read.
+Deferred. Cited by A42 §5 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) for a fall in traffic to privacy-sensitive Wikipedia articles after the June 2013 surveillance revelations, "consistent with surveillance-induced changes in information-seeking behavior". It bears on [CLAIM-tmpefeb7](../claims.d/CLAIM-tmpefeb7.md), the claim that monitoring can produce the conformity it records. What A42 says of it is unverified until read.

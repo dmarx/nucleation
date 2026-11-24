@@ -44,5 +44,5 @@ Gleeson, Ward, O'Sullivan and Lee (2013), arXiv:1305.4328; Physical Review Lette
 ## Standing in the record
 
 A model of how often memes are copied under limited attention, so of
-virality alone. It is the kind of transmission model CLAIM-tmp4uj40 and
-LEAD-tmpiktom need as a baseline.
+virality alone. It is the kind of transmission model [CLAIM-tmp4uj40](../claims.d/CLAIM-tmp4uj40.md) and
+[LEAD-tmpiktom](../leads.d/LEAD-tmpiktom.md) need as a baseline.

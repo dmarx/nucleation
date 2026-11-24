@@ -175,7 +175,7 @@ precedence), inadequate monitoring, inadequate coordination, lack of
 corrective capability. "Simply cancelling one commitment may restore
 operational coherence, but it is not the same achievement as expanding
 the organization's capacity to satisfy both. That is exactly the
-distinction held by CLAIM-347 and CLAIM-556", correctly cited. A18 §7
+distinction held by [CLAIM-347](CLAIM-347.md) and CLAIM-556", correctly cited. A18 §7
 orders the questions frustration can raise by level (execution, diagnosis,
 coordination, specification, contractual, developmental, constitutional)
 and adds that "Escalation is conditional, not inevitable": existing

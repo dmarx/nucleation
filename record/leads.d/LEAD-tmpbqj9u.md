@@ -30,7 +30,7 @@ summary: >-
   model is not. The wording is A's (ChatGPT, in the exchange 'Memes,
   Contracts, and Systemic Normativity'); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp7hqtl TERM-tmpdk711 — Proposed; cited as filed or held beside this entry, whatever its standing -->
+<!-- inactive-ok-file: CLAIM-tmp7hqtl TERM-160 — Proposed; cited as filed or held beside this entry, whatever its standing -->
 <!-- inactive-ok-file: LIT-tmpm8d98 — Deferred; cited as filed or held beside this entry, whatever its standing -->
 
 # LEAD-tmpbqj9u: Build a contract-governed distributed agent under matched architectures, from fixed priority to a reflexive contract ecology, and test whether revising contracts enlarges the set of jointly realizable demands and the joint inquiry frontier or only suppresses the demands that interfere
@@ -54,7 +54,7 @@ incompatible sets of commitments, frequency and duration of breaches,
 spending on negotiation and arbitration, recovery time, persistence of
 corrective capabilities after turnover, and the ability to detect and
 challenge incompatible arrangements. A18 adds the joint question–answer
-frontier (TERM-tmpdk711), time from discrepancy to investigable question
+frontier ([TERM-160](../terms.d/TERM-160.md)), time from discrepancy to investigable question
 and from question to adequate response, unresolved and unrecognized
 discrepancies, and performance on "independently generated unfamiliar
 queries".
@@ -66,7 +66,7 @@ expands the set of jointly realizable commitments, or merely becomes more
 effective at suppressing demands that interfere with its prevailing
 organization." Scoring against the fixed reference collection, not the
 system's current one, is what keeps a dropped demand from counting as
-relief (CLAIM-556). A18's strongest outcome: "evidence that particular
+relief ([CLAIM-556](../claims.d/CLAIM-556.md)). A18's strongest outcome: "evidence that particular
 contractual structures predictably enlarge the organization's capacity to
 discover and resolve consequential conflicts that its previous
 organization could not adequately recognize". A16 sets the bar: the
@@ -79,10 +79,10 @@ contractual relationships".
 ## Before it can be run
 
 A16 §6's schema C = (A, G, J, Π, Σ, M, E, R) has no composition or
-refinement defined. Assume–guarantee contracts (LIT-tmpm8d98) compose and
+refinement defined. Assume–guarantee contracts ([LIT-tmpm8d98](../literature.d/LIT-tmpm8d98.md)) compose and
 refine on (A, G); the first formal step is to say how jurisdiction,
 priority, suspension, monitoring, enforcement and revision compose when two
 contracts meet, or to show that they reduce to (A, G) over a richer
 history space. The model also needs a stated rule for when a regularity
-counts as a contract (CLAIM-tmp7hqtl and its note), or the reflexive arms
+counts as a contract ([CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md) and its note), or the reflexive arms
 cannot be told from adaptive ones.

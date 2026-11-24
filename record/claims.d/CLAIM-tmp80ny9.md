@@ -32,13 +32,13 @@ summary: >-
   invocation of relationship"). A request can invoke friendship,
   employment, expertise, reciprocity, emergency or charity, and "The
   requested action may be identical across these interpretations. But the
-  contractual consequences differ substantially." A32 §4 adapts CLAIM-044's
+  contractual consequences differ substantially." A32 §4 adapts [CLAIM-044](CLAIM-044.md)'s
   test by compatible assignments to the parties' specifications. A dated
   note gives a gap in how the two taxonomies line up. The wording is A's
   (ChatGPT, in the exchange 'Memes, Contracts, and Systemic Normativity');
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-044 CLAIM-151 CLAIM-430 CLAIM-tmp80ny9 CLAIM-tmpro73c — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-044 CLAIM-151 CLAIM-430 CLAIM-tmpro73c — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
 
 # CLAIM-tmp80ny9: When an act could invoke more than one relationship, the uncertainty is of three kinds needing different remedies: epistemic ambiguity, an arrangement in force whose applicability is uncertain, resolved by information; relational disagreement, participants enacting incompatible specifications, resolved by negotiation or arbitration; and constitutive indeterminacy, no arrangement yet fixing what the relationship requires, resolved only by forming one
 
@@ -66,14 +66,14 @@ A30 §5 then distinguishes:
 "The first may be resolved through more information. The second may
 require negotiation or arbitration. The third may require contract
 formation." A30 ties this to the record's distinction between inquiry
-within a specification and inquiry that develops one (CLAIM-470).
+within a specification and inquiry that develops one ([CLAIM-470](CLAIM-470.md)).
 
-A32 §4 adapts CLAIM-044. With C_i the conditions process i treats as
+A32 §4 adapts [CLAIM-044](CLAIM-044.md). With C_i the conditions process i treats as
 governing the relationship and Γ(C_1, …, C_n) the joint specifications
 compatible under declared conditions: one admissible specification is a
 determinate relationship, several is "Contractual ambiguity or
 under-specification", none is "Incompatible local specifications". It
-keeps CLAIM-044's caution: "an empty compatibility set would not by itself
+keeps [CLAIM-044](CLAIM-044.md)'s caution: "an empty compatibility set would not by itself
 establish contextuality in the technical sheaf-theoretic sense." Its
 conclusion: "Not every disagreement about a contract concerns discovering
 its correct interpretation. Sometimes the relationship has never acquired
@@ -86,16 +86,16 @@ division sorts.
 
 ## Where the record stands
 
-- CLAIM-044 separates ambiguity from contextuality for an utterance's
+- [CLAIM-044](CLAIM-044.md) separates ambiguity from contextuality for an utterance's
   readings; this claim moves the test from readings to the parties'
   specifications of a relationship.
-- CLAIM-151 and TERM-040 make which communicative act an utterance
+- [CLAIM-151](CLAIM-151.md) and [TERM-040](../terms.d/TERM-040.md) make which communicative act an utterance
   performs depend on its relations to roles, norms and expectations; this
   claim asks which relationship it invokes.
-- CLAIM-430 holds the owner's perspectival invitation: an act can invite a
+- [CLAIM-430](CLAIM-430.md) holds the owner's perspectival invitation: an act can invite a
   relationship not yet held, which is the third kind.
 - The answer to which relationship governs is often decided by whoever
-  controls its resolution: CLAIM-tmpro73c.
+  controls its resolution: [CLAIM-tmpro73c](CLAIM-tmpro73c.md).
 
 ## What it does not say
 
@@ -119,7 +119,7 @@ in force and the parties do not know which) and constitutive indeterminacy
 (none is in force, and several could be formed). Compatibility of the
 parties' specifications cannot tell these apart: the difference is whether
 some arrangement is actually maintained, a fact of maintenance provenance
-(TERM-100), which a probe of the parties' responses to a deviation can
+([TERM-100](../terms.d/TERM-100.md)), which a probe of the parties' responses to a deviation can
 show (does anyone mobilize correction, and toward which specification?).
 So the division needs, beside Γ, a record of which specification is
 maintained, and the claim's second kind is the only one Γ alone

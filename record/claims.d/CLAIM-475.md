@@ -372,13 +372,13 @@ does each process need? Are the requirements compatible?"), then "a
 maintained protocol can embody the results of these investigations".
 "**A contract can be a materialized answer to a historically recurring
 question about how processes should interact.**" And the cost, as in
-SYNTHESIS-114: "Once stabilized, the contract makes familiar coordination
+[SYNTHESIS-114](../syntheses.d/SYNTHESIS-114.md): "Once stabilized, the contract makes familiar coordination
 cheaper. But it can make unfamiliar questions more expensive", since a
 challenger must "overcome its established jurisdiction, translate its
 objections into the accepted language, obtain permission to investigate,
 and mobilize resources for revision." A16 §9 makes the same move for
-heuristics (CLAIM-tmpysg95). Bearing: an instance, a contract as a stored
-specification, with CLAIM-761's stored work and CLAIM-358's amortized
+heuristics ([CLAIM-tmpysg95](CLAIM-tmpysg95.md)). Bearing: an instance, a contract as a stored
+specification, with [CLAIM-761](CLAIM-761.md)'s stored work and [CLAIM-358](CLAIM-358.md)'s amortized
 accommodation. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
 <!-- inactive-ok-file: SYNTHESIS-114 CLAIM-358 CLAIM-tmpysg95 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->

@@ -17,7 +17,7 @@ published: '1999-03-01'
 doi: '10.2307/1073662'
 first_author: 'Blair'
 summary: >-
-  Cited by A48 §7 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) for the corporation as an arrangement supporting cooperative production among parties making firm-specific investments, "rather than simply as an instrument belonging to shareholders". It bears on CLAIM-728 and CLAIM-tmpa61rf. Unverified until read.
+  Cited by A48 §7 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) for the corporation as an arrangement supporting cooperative production among parties making firm-specific investments, "rather than simply as an instrument belonging to shareholders". It bears on [CLAIM-728](../claims.d/CLAIM-728.md) and [CLAIM-tmpa61rf](../claims.d/CLAIM-tmpa61rf.md). Unverified until read.
 ---
 
 <!-- inactive-ok-file: CLAIM-728 CLAIM-tmpa61rf — Proposed or new; the entries this registration bears on -->
@@ -30,4 +30,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. Cited by A48 §7 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) for the corporation as an arrangement supporting cooperative production among parties making firm-specific investments, "rather than simply as an instrument belonging to shareholders". It bears on CLAIM-728 and CLAIM-tmpa61rf. Unverified until read.
+Deferred. Cited by A48 §7 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) for the corporation as an arrangement supporting cooperative production among parties making firm-specific investments, "rather than simply as an instrument belonging to shareholders". It bears on [CLAIM-728](../claims.d/CLAIM-728.md) and [CLAIM-tmpa61rf](../claims.d/CLAIM-tmpa61rf.md). Unverified until read.

@@ -20,7 +20,7 @@ summary: >-
   circumstances", from excellence to the cost of leaving, and the lesson
   "Continued participation is not necessarily satisfaction." The model is
   A46's; the matched pair and the numbers are the assistant's check (python3
-  -I). It illustrates CLAIM-350's fibres and CLAIM-670's dependence produced
+  -I). It illustrates [CLAIM-350](../claims.d/CLAIM-350.md)'s fibres and [CLAIM-670](../claims.d/CLAIM-670.md)'s dependence produced
   by an arrangement. The model's wording is A's (ChatGPT, in the exchange
   "Memes, Contracts, and Systemic Normativity"); the pair is the assistant's
   (Claude, in this session); adopting either is the owner's call.
@@ -52,7 +52,7 @@ The first two rows are the point. Same retention, one service good and free
 to leave, the other poor and costly to leave: one fibre of the retention
 map holds both, and any judgment that tells them apart (satisfaction,
 consent, whether the provider owes better terms) does not factor through
-retention (CLAIM-350). The last three rows are A46's: "Increasing switching
+retention ([CLAIM-350](../claims.d/CLAIM-350.md)). The last three rows are A46's: "Increasing switching
 costs can sustain retention even as service quality deteriorates."
 
 ## What A46 draws from it
@@ -70,7 +70,7 @@ exploitation are therefore separate mechanisms."
 
 ## Held around it
 
-CLAIM-670, an arrangement producing the dependence it exploits, which A46
+[CLAIM-670](../claims.d/CLAIM-670.md), an arrangement producing the dependence it exploits, which A46
 §3 calls "almost exactly the mechanism"; Doctorow's decay "set by the cost
-of leaving" (THEORY-150); Hirschman's exit as a recuperation signal
-(THEORY-152), which the case shows silenced by the cost of exit.
+of leaving" ([THEORY-150](../theory.d/THEORY-150.md)); Hirschman's exit as a recuperation signal
+([THEORY-152](../theory.d/THEORY-152.md)), which the case shows silenced by the cost of exit.

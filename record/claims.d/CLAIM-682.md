@@ -243,4 +243,4 @@ the users' ability to refuse collection or challenge subsequent uses
 diminishes", so "The resulting relationship can become dominating even
 without continuously exercised coercion." Bearing: an extension, a route by
 which the conditions come to hold, filed with the owner's U27 in
-CLAIM-tmplm3mz and CLAIM-tmp9xge5. Relation: none (note only). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+[CLAIM-tmplm3mz](CLAIM-tmplm3mz.md) and [CLAIM-tmp9xge5](CLAIM-tmp9xge5.md). Relation: none (note only). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

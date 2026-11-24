@@ -17,11 +17,11 @@ line:
 - readiness
 - realizability
 summary: >-
-  A gap fill (ADR-137) for A38 §3 of the exchange "Memes, Contracts, and
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A38 §3 of the exchange "Memes, Contracts, and
   Systemic Normativity" (2026-11-24), whose preservation-versus-transformation comparison "Excludes uncertainty" and concludes that "Our
   lifecycle cost model requires symmetrical scrutiny". A worked comparison,
   checked with python3 -I, after the real-options argument (Dixit and
-  Pindyck). It is the formal side of the objection CLAIM-tmpdzcj6. The
+  Pindyck). It is the formal side of the objection [CLAIM-tmpdzcj6](CLAIM-tmpdzcj6.md). The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
@@ -64,7 +64,7 @@ Checked with `python3 -I`, which reproduced 150, 120, 111.5 and 126.5.
 - The conservative presumption, wait and learn before an irreversible
   change, can be the cost-minimizing policy even when the reform wins in
   expectation. It is not a conflation of persistence with value
-  (CLAIM-tmpdzcj6).
+  ([CLAIM-tmpdzcj6](CLAIM-tmpdzcj6.md)).
 - Irreversibility cuts both ways. A40 §4.3 ("Inaction can be organizational
   transformation") is the other irreversibility: if the status quo erodes
   capacities, delay has its own sunk cost, and it can reverse the ranking.

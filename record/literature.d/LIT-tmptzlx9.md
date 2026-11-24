@@ -27,7 +27,7 @@ summary: >-
   "Nicholas Bednar's 2025 article", which "analyzes presidential
   administrative power through the separate dimensions of control and
   capacity". It bears on the claim that control over an organization is
-  not possession of its capacity (CLAIM-tmp1wlu2). What the exchange
+  not possession of its capacity ([CLAIM-tmp1wlu2](../claims.d/CLAIM-tmp1wlu2.md)). What the exchange
   says of it is unverified until read.
 ---
 

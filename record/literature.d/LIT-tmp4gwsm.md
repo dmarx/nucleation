@@ -28,7 +28,7 @@ keywords: ['metastable failure', 'retry', 'overload']
 implementations: []
 summary: >-
   Not cited by the exchange. The assistant names it in the gap fill of
-  CLAIM-tmpuleno, as the literature on failures that persist after their
+  [CLAIM-tmpuleno](../claims.d/CLAIM-tmpuleno.md), as the literature on failures that persist after their
   trigger is removed, which retry amplification with a fixed failure
   probability (A34 §9) does not produce. Unverified until read.
 ---
@@ -37,7 +37,7 @@ summary: >-
 
 # LIT-tmp4gwsm: Metastable failures in distributed systems
 
-Nathan Bronson, Abutalib Aghayev, Aleksey Charapko and Timothy Zhu, Proceedings of the Workshop on Hot Topics in Operating Systems (HotOS '21), pp. 221–227. Crossref gives June 2021 with no day, so `published:` is the first of June (ADR-002).
+Nathan Bronson, Abutalib Aghayev, Aleksey Charapko and Timothy Zhu, Proceedings of the Workshop on Hot Topics in Operating Systems (HotOS '21), pp. 221–227. Crossref gives June 2021 with no day, so `published:` is the first of June ([ADR-002](../decisions.d/ADR-002.md)).
 
 ## Key takeaways
 
@@ -45,4 +45,4 @@ Nathan Bronson, Abutalib Aghayev, Aleksey Charapko and Timothy Zhu, Proceedings 
 
 ## Standing in the record
 
-Not cited by the exchange. The assistant names it in the gap fill of CLAIM-tmpuleno, as the literature on failures that persist after their trigger is removed, which retry amplification with a fixed failure probability (A34 §9) does not produce. Unverified until read.
+Not cited by the exchange. The assistant names it in the gap fill of [CLAIM-tmpuleno](../claims.d/CLAIM-tmpuleno.md), as the literature on failures that persist after their trigger is removed, which retry amplification with a fixed failure probability (A34 §9) does not produce. Unverified until read.

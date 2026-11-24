@@ -22,7 +22,7 @@ keywords: ['positive test strategy', 'confirmation bias', 'hypothesis testing']
 implementations: []
 summary: >-
   Klayman and Ha (1987), Psychological Review 94(2):211–228. Cited by A11 of the exchange "Memes, Contracts, and Systemic
-  Normativity" (ChatGPT) for the claim that many apparent confirmation biases are better understood as positive testing strategies whose effectiveness depends on the structure of the environment. It bears on CLAIM-tmpei0cf, which makes a bias relative to a separately specified standard and task, and on CLAIM-tmpu5cap, the assistant's correction of A11's model of confirmation feedback. What A11 says of it is unverified until
+  Normativity" (ChatGPT) for the claim that many apparent confirmation biases are better understood as positive testing strategies whose effectiveness depends on the structure of the environment. It bears on [CLAIM-tmpei0cf](../claims.d/CLAIM-tmpei0cf.md), which makes a bias relative to a separately specified standard and task, and on [CLAIM-tmpu5cap](../claims.d/CLAIM-tmpu5cap.md), the assistant's correction of A11's model of confirmation feedback. What A11 says of it is unverified until
   read.
 ---
 

@@ -17,7 +17,7 @@ reported_in:
 - LIT-tmpihhfs
 summary: >-
   A sidebar by Marc Alvidrez in the SRE book's chapter "Service Level
-  Objectives" (LIT-tmpihhfs), which A34 §2 of the exchange "Memes,
+  Objectives" ([LIT-tmpihhfs](../literature.d/LIT-tmpihhfs.md)), which A34 §2 of the exchange "Memes,
   Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) names the
   "Priority case for filing". The facts are the book's, quoted from its
   web edition, checked on 2026-11-24; the reading in the last section is
@@ -31,7 +31,7 @@ summary: >-
 
 ## The case
 
-From the SRE book (LIT-tmpihhfs), checked against the web edition on
+From the SRE book ([LIT-tmpihhfs](../literature.d/LIT-tmpihhfs.md)), checked against the web edition on
 2026-11-24:
 
 > Chubby [Bur06] is Google’s lock service for loosely coupled distributed
@@ -70,9 +70,9 @@ developed around Chubby."
 
 ## Bearing
 
-It grounds CLAIM-tmpb1wyc, with ARG-tmptccms saying how far. It
-illustrates CLAIM-603: the dependents lost a capability, tolerance of
+It grounds [CLAIM-tmpb1wyc](../claims.d/CLAIM-tmpb1wyc.md), with [ARG-tmptccms](../arguments.d/ARG-tmptccms.md) saying how far. It
+illustrates [CLAIM-603](../claims.d/CLAIM-603.md): the dependents lost a capability, tolerance of
 Chubby's absence, because Chubby reliably supplied what made it
-unneeded, and the supply was one-way and set from outside, CLAIM-603's
+unneeded, and the supply was one-way and set from outside, [CLAIM-603](../claims.d/CLAIM-603.md)'s
 condition for dependence rather than division of labour. A36 §5 uses the
-case again for constitutional conventions (CLAIM-tmpzas6q).
+case again for constitutional conventions ([CLAIM-tmpzas6q](../claims.d/CLAIM-tmpzas6q.md)).

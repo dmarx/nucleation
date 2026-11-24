@@ -154,5 +154,5 @@ relationship, several is ambiguity or under-specification, none is
 incompatibility, and "an empty compatibility set would not by itself
 establish contextuality in the technical sheaf-theoretic sense." An
 analogy that keeps the claim's distinction and its caution; filed in
-CLAIM-tmp80ny9, whose note of the same date says what compatibility alone
+[CLAIM-tmp80ny9](CLAIM-tmp80ny9.md), whose note of the same date says what compatibility alone
 cannot separate there. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

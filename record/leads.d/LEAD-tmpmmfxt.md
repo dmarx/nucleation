@@ -42,15 +42,15 @@ A34 §20 tabulates eight experiments. Those whose claims are filed:
 
 | Experiment (A34) | Research question (A34) | Claim it would test |
 |---|---|---|
-| Over-reliable dependency | "Does increased provider reliability induce downstream fallback erosion?" | CLAIM-tmpb1wyc |
-| Retry amplification | "Can locally appropriate corrective responses produce systemic frustration?" | CLAIM-tmpuleno |
-| Operational overload | "Can immediate viability consume the resources required for self-formation?" | CLAIM-tmpjoaj3 |
-| Recovery readiness | "Can utilization-based maintenance destroy rarely exercised capabilities?" | CLAIM-921 |
-| Error-budget governance | "Do conditional grants of precedence outperform fixed priorities under changing demands?" | CLAIM-tmpcet1g, with A16's error-budget precedence, filed by another group |
+| Over-reliable dependency | "Does increased provider reliability induce downstream fallback erosion?" | [CLAIM-tmpb1wyc](../claims.d/CLAIM-tmpb1wyc.md) |
+| Retry amplification | "Can locally appropriate corrective responses produce systemic frustration?" | [CLAIM-tmpuleno](../claims.d/CLAIM-tmpuleno.md) |
+| Operational overload | "Can immediate viability consume the resources required for self-formation?" | [CLAIM-tmpjoaj3](../claims.d/CLAIM-tmpjoaj3.md) |
+| Recovery readiness | "Can utilization-based maintenance destroy rarely exercised capabilities?" | [CLAIM-921](../claims.d/CLAIM-921.md) |
+| Error-budget governance | "Do conditional grants of precedence outperform fixed priorities under changing demands?" | [CLAIM-tmpcet1g](../claims.d/CLAIM-tmpcet1g.md), with A16's error-budget precedence, filed by another group |
 
 The other three, "Hidden corrective subsidy", "Contractual drift" and
 "Reflexive monitoring", bear on ideas introduced earlier in the exchange
-and filed by other groups, and on CLAIM-tmpbbfcj's inquiry penalty.
+and filed by other groups, and on [CLAIM-1064](../claims.d/CLAIM-1064.md)'s inquiry penalty.
 
 A34's method: "The strongest methodological design would compare
 organizations with matched ordinary service performance and different
@@ -80,14 +80,14 @@ assistant's):
   against providers whose realized availability exceeds it. Outcome:
   propagated failures per provider outage. The baseline is a consumer that
   plans to the declared objective, which should show no difference.
-- **Retry amplification.** The gap fill of CLAIM-tmpuleno shows that a
+- **Retry amplification.** The gap fill of [CLAIM-tmpuleno](../claims.d/CLAIM-tmpuleno.md) shows that a
   load-independent failure probability gives bounded amplification; the
   run needs a goodput that falls under overload, against the metastable
-  failure literature (LIT-tmp4gwsm).
+  failure literature ([LIT-tmp4gwsm](../literature.d/LIT-tmp4gwsm.md)).
 - **Operational overload.** One team budget split between reactive and
   engineering work, failure rates falling with engineering done; with and
   without a protected share, and with and without return of overflow,
-  against Repenning and Sterman's model (LIT-tmp4c11c).
+  against Repenning and Sterman's model ([LIT-tmp4c11c](../literature.d/LIT-tmp4c11c.md)).
 
 ## Standing
 

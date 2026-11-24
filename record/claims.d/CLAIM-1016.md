@@ -97,7 +97,7 @@ individual question to a domain of inquiry." With formulation 3 hours,
 per-question authorization 4 and investigation 5 against a deadline of
 10, individual authorization takes 12 and misses, a standing grant takes
 8 and meets it (checked). It generalizes the claim's point to any term of
-the processes' contracts: writing the joint relation of TERM-tmpdk711 as
+the processes' contracts: writing the joint relation of [TERM-160](../terms.d/TERM-160.md) as
 indexed by the contractual ecology C, "changing the contractual ecology
 can change the inquiry frontier without changing the intrinsic
 capabilities of any constituent process." A18 states the widget's own
@@ -106,4 +106,4 @@ not included in this per-inquiry calculation." Bearing: a restatement and
 a generalization from authorization to contract terms. The claim is
 unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
-<!-- inactive-ok-file: TERM-tmpdk711 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->
+<!-- inactive-ok-file: TERM-160 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->

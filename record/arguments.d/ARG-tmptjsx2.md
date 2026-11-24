@@ -14,13 +14,13 @@ line:
 - rightful-power
 summary: >-
   A38 §1 and A40 §2 of the exchange "Memes, Contracts, and Systemic
-  Normativity" (2026-11-24) apply the non-exhaustion claim (CLAIM-tmpazcha)
+  Normativity" (2026-11-24) apply the non-exhaustion claim ([CLAIM-tmpazcha](../claims.d/CLAIM-tmpazcha.md))
   to originalism. The application needs a premise the exchange does not
   supply and its own reports tell against: that originalism, as its
   defenders state it, assumes specification exhaustiveness. Rejected as an
   argument against originalist theory. The critique's standing lives in
-  CLAIM-tmpr2qzg (A's, Proposed), and the objection that holds the
-  rejection, with the residue that survives it, is CLAIM-tmpmp2wh. The
+  [CLAIM-tmpr2qzg](../claims.d/CLAIM-tmpr2qzg.md) (A's, Proposed), and the objection that holds the
+  rejection, with the residue that survives it, is [CLAIM-tmpmp2wh](../claims.d/CLAIM-tmpmp2wh.md). The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
@@ -31,11 +31,11 @@ summary: >-
 
 ## The inference
 
-Premise (CLAIM-tmpazcha): fidelity to a specification's historical meaning
+Premise ([CLAIM-tmpazcha](../claims.d/CLAIM-tmpazcha.md)): fidelity to a specification's historical meaning
 cannot by itself establish the present organization's adequacy or the scope
 of the specification's continuing authority. Unstated premise: originalism
 takes the formative specification to settle the developed realization.
-Conclusion (CLAIM-tmpr2qzg): originalism is deficient there.
+Conclusion ([CLAIM-tmpr2qzg](../claims.d/CLAIM-tmpr2qzg.md)): originalism is deficient there.
 
 ## Critical questions
 
@@ -44,15 +44,15 @@ Conclusion (CLAIM-tmpr2qzg): originalism is deficient there.
   semantic, legal and normative claims).
 - **Does the target satisfy the condition the rule applies to?** Not as
   stated by its defenders. Solum's construction zone, Balkin's framework
-  originalism (LIT-tmps708j, cited at A40 §2.2), and Baude and Sachs's
-  grounding in present law (LIT-tmp3huft, reported at A40 §2) each deny
+  originalism ([LIT-tmps708j](../literature.d/LIT-tmps708j.md), cited at A40 §2.2), and Baude and Sachs's
+  grounding in present law ([LIT-tmp3huft](../literature.d/LIT-tmp3huft.md), reported at A40 §2) each deny
   specification exhaustiveness or supply the further argument for
   continuing authority. A40 §10 says the application "would then require
   demonstrating that the targeted theory actually depends upon the
   conflation in question", and the exchange does not.
 - **Is there an exception the application ignores?** The originalist's
-  claim is about revision authority (CLAIM-tmpmp2wh), a property A38 §1's
+  claim is about revision authority ([CLAIM-tmpmp2wh](../claims.d/CLAIM-tmpmp2wh.md)), a property A38 §1's
   own table lists apart from formation provenance.
 - **What would revive it?** A theorist, or a body of practice, shown from
   its own texts to treat recovered meaning as settling the developed
-  realization without construction or amendment. LEAD-tmpdy0f8 would look.
+  realization without construction or amendment. [LEAD-tmpdy0f8](../leads.d/LEAD-tmpdy0f8.md) would look.

@@ -325,7 +325,7 @@ Two qualifications go beyond what the term says. First, the observer's errors al
 
 The owner's U27 asks the record to account for "the vulnerability of
 legibility as a control surface for imposing coercive domination"
-(CLAIM-tmp9xge5). A42 §1 starts from this term's direction ("It explicitly
+([CLAIM-tmp9xge5](../claims.d/CLAIM-tmp9xge5.md)). A42 §1 starts from this term's direction ("It explicitly
 recognizes that the two can vary independently") and crosses the two
 directions into four regimes, from "Protected autonomy" to "Surveillance
 asymmetry"; the grid is a labelling of the direction, not filed apart. It
@@ -333,10 +333,10 @@ reads the term rightly, including that Scott "remains unavailable there".
 Three uses follow. A42 §2's control surface, "the set of distinctions about
 a process that another process can use to make consequential interventions
 upon it", is this term's legibility to a governor for the task of
-intervening (CLAIM-tmplm3mz). A42 §9 applies the term's score to two task
-families, justified and unjustified, L₊(M) and L₋(M) (CLAIM-tmp3cywa).
+intervening ([CLAIM-tmplm3mz](../claims.d/CLAIM-tmplm3mz.md)). A42 §9 applies the term's score to two task
+families, justified and unjustified, L₊(M) and L₋(M) ([CLAIM-tmp3cywa](../claims.d/CLAIM-tmp3cywa.md)).
 And A42 §5's monitoring that produces the conformity it records
-(CLAIM-tmpefeb7) is a case of the observer this term, by its note of
+([CLAIM-tmpefeb7](../claims.d/CLAIM-tmpefeb7.md)) is a case of the observer this term, by its note of
 2026-11-15, "has no place for": one that induces the distinction it
 reports. Bearing: applications and one instance of the open point. The
 term is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

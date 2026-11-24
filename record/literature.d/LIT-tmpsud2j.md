@@ -17,7 +17,7 @@ published: '1958-06-30'
 url: 'https://www.loc.gov/item/usrep357449/'
 first_author: 'Harlan'
 summary: >-
-  Cited by A42 §10 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): compelled disclosure of the NAACP's membership lists "could substantially impair freedom of association", so protection from state observation preserved "the practical capacity for collective political organization". A42 reads it as protected opacity as a condition of collective individuation (CLAIM-tmpp91oy). Unverified until read.
+  Cited by A42 §10 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): compelled disclosure of the NAACP's membership lists "could substantially impair freedom of association", so protection from state observation preserved "the practical capacity for collective political organization". A42 reads it as protected opacity as a condition of collective individuation ([CLAIM-tmpp91oy](../claims.d/CLAIM-tmpp91oy.md)). Unverified until read.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpp91oy — Proposed or new; the entries this registration bears on -->
@@ -30,4 +30,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. Cited by A42 §10 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): compelled disclosure of the NAACP's membership lists "could substantially impair freedom of association", so protection from state observation preserved "the practical capacity for collective political organization". A42 reads it as protected opacity as a condition of collective individuation (CLAIM-tmpp91oy). Unverified until read.
+Deferred. Cited by A42 §10 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): compelled disclosure of the NAACP's membership lists "could substantially impair freedom of association", so protection from state observation preserved "the practical capacity for collective political organization". A42 reads it as protected opacity as a condition of collective individuation ([CLAIM-tmpp91oy](../claims.d/CLAIM-tmpp91oy.md)). Unverified until read.

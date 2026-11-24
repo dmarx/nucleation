@@ -27,7 +27,7 @@ keywords: ['divided government', 'congressional investigations', 'oversight']
 implementations: []
 summary: >-
   Not cited by the exchange. The assistant names it in the gap of CLAIM-
-  tmp7xsyj and in LEAD-tmps9jkd, as the classic finding, from the
+  tmp7xsyj and in [LEAD-tmps9jkd](../leads.d/LEAD-tmps9jkd.md), as the classic finding, from the
   assistant's recollection, that major congressional investigations of the
   executive were about as frequent under unified as under divided party
   control, which tells against correlated corrective failure in its
@@ -38,7 +38,7 @@ summary: >-
 
 # LIT-tmpiqxhs: Divided We Govern: Party Control, Lawmaking, and Investigations, 1946-1990
 
-David R. Mayhew (Yale University Press, 1991). No DOI for the book; the URL is its Open Library work record, which gives 1991 with no day, so `published:` is the first of January (ADR-002).
+David R. Mayhew (Yale University Press, 1991). No DOI for the book; the URL is its Open Library work record, which gives 1991 with no day, so `published:` is the first of January ([ADR-002](../decisions.d/ADR-002.md)).
 
 ## Key takeaways
 
@@ -46,4 +46,4 @@ David R. Mayhew (Yale University Press, 1991). No DOI for the book; the URL is i
 
 ## Standing in the record
 
-Not cited by the exchange. The assistant names it in the gap of CLAIM-tmp7xsyj and in LEAD-tmps9jkd, as the classic finding, from the assistant's recollection, that major congressional investigations of the executive were about as frequent under unified as under divided party control, which tells against correlated corrective failure in its simplest form. Unverified until read.
+Not cited by the exchange. The assistant names it in the gap of [CLAIM-tmp7xsyj](../claims.d/CLAIM-tmp7xsyj.md) and in [LEAD-tmps9jkd](../leads.d/LEAD-tmps9jkd.md), as the classic finding, from the assistant's recollection, that major congressional investigations of the executive were about as frequent under unified as under divided party control, which tells against correlated corrective failure in its simplest form. Unverified until read.

@@ -50,4 +50,4 @@ governs or help form one, which is reflexive control by frame: "The
 request *help me* acquires different practical significance when framed
 as an emergency, professional obligation, reciprocal commitment or
 discretionary favor." An application of the term, not a revision; the
-claims it serves are CLAIM-tmp80ny9 and CLAIM-tmpro73c. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+claims it serves are [CLAIM-tmp80ny9](../claims.d/CLAIM-tmp80ny9.md) and [CLAIM-tmpro73c](../claims.d/CLAIM-tmpro73c.md). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

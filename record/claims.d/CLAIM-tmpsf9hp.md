@@ -26,7 +26,7 @@ line:
 rests_on:
 - CLAIM-761
 - CLAIM-569
-- CLAIM-tmpq1usu
+- CLAIM-1156
 bears_on:
 - QUESTION-tmpb7fx7
 uses:
@@ -38,12 +38,12 @@ summary: >-
   without intentionally changing the underlying problem. Contracts can
   change the problem." Invoke(q, C_t) → (a_t, C_{t+1}); A32 writes the
   relational kernel K_C(q) = Law(a, τ, κ, C′, S′ | do(q), C, S), extending
-  CLAIM-tmpq1usu's, and names reproductive, formative and transformative
+  CLAIM-1156's, and names reproductive, formative and transformative
   invocation. ARG-tmpa5ped says what CASE-326 prices; LEAD-tmp14n26 is the
   test. The wording is A's (ChatGPT, in the exchange 'Memes, Contracts, and
   Systemic Normativity'); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ARG-tmpa5ped CASE-326 CLAIM-891 CLAIM-tmpfc364 CLAIM-tmpq1usu CLAIM-tmpsf9hp TERM-116 — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
+<!-- inactive-ok-file: ARG-tmpa5ped CASE-326 CLAIM-891 CLAIM-1095 CLAIM-1156 TERM-116 — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
 
 # CLAIM-tmpsf9hp: Invoking a relationship differs from reusing a stored result in that the invocation can change the relationship it invokes, so one operation can reproduce, form or transform a contract, and a stored-work cost model that holds the store fixed between uses prices a contract's lifecycle but not its invocation, which returns an act, a distribution of costs over the parties and the relationship's next state
 
@@ -65,7 +65,7 @@ transforms future alternatives. "None of these effects follows
 automatically ... The point is that invocation should be permitted to have
 these effects in the model."
 
-A32 §14 finds the kernel in CLAIM-tmpq1usu, K_S(q) = Law(a, τ, c, S′ |
+A32 §14 finds the kernel in [CLAIM-1156](CLAIM-1156.md), K_S(q) = Law(a, τ, c, S′ |
 do(q), S), "almost precisely the extension", and makes the relationship
 and the cost distribution explicit:
 
@@ -74,7 +74,7 @@ and the cost distribution explicit:
 with κ "the distribution of costs among the participating processes".
 "Two relationships might produce the same ordinary responses at the same
 immediate cost while differing in what those responses do to their
-subsequent organization." Following CLAIM-tmpfc364, the comparison is made
+subsequent organization." Following [CLAIM-1095](CLAIM-1095.md), the comparison is made
 on later response distributions under further probes, not on internal
 post-states.
 
@@ -89,7 +89,7 @@ interaction", and a run of formative invocations can cross a nucleation
 threshold after which ordinary interaction is reproductive.
 
 What the model therefore needs (A30 §§11 and 15): a contract as a
-distinguished part of TERM-114's architecture, not a new primitive;
+distinguished part of [TERM-114](../terms.d/TERM-114.md)'s architecture, not a new primitive;
 costed Form, Maintain, Invoke, Verify, Repair, Revise and Exit, each
 indexed by who bears it; and, as A30 says, "the critical test is whether
 these require genuinely new cost terms, or merely richer state variables
@@ -99,20 +99,20 @@ will cover most of the cases."
 ## Admission
 
 From A30 §16's and A32 §21's candidate syntheses, by a discriminating
-prediction (ADR-075): two relationships matched in per-use cost and output
-under CASE-326's terms part in their later costs, response and exit
+prediction ([ADR-075](../decisions.d/ADR-075.md)): two relationships matched in per-use cost and output
+under [CASE-326](../cases.d/CASE-326.md)'s terms part in their later costs, response and exit
 profiles when one's invocations change it and the other's do not. The
-components (CLAIM-761, CLAIM-569, CLAIM-tmpq1usu) leave open whether a
+components ([CLAIM-761](CLAIM-761.md), [CLAIM-569](CLAIM-569.md), [CLAIM-1156](CLAIM-1156.md)) leave open whether a
 contract's store changes with use; this claim says it can and that the
-pricing then differs. LEAD-tmp14n26 would test it.
+pricing then differs. [LEAD-tmp14n26](../leads.d/LEAD-tmp14n26.md) would test it.
 
 ## Where the record stands
 
-- CLAIM-761 and CLAIM-569 give the lifecycle; CASE-326 and CLAIM-891 price
-  it with the store fixed between uses (ARG-tmpa5ped).
-- CLAIM-tmpq1usu holds that the same answers can differ in what answering
+- [CLAIM-761](CLAIM-761.md) and [CLAIM-569](CLAIM-569.md) give the lifecycle; [CASE-326](../cases.d/CASE-326.md) and [CLAIM-891](CLAIM-891.md) price
+  it with the store fixed between uses ([ARG-tmpa5ped](../arguments.d/ARG-tmpa5ped.md)).
+- [CLAIM-1156](CLAIM-1156.md) holds that the same answers can differ in what answering
   does; this claim locates the change in the invoked relationship.
-- TERM-116 makes the revision cost directed, R(C, C′) ≠ R(C′, C), which A30
+- [TERM-116](../terms.d/TERM-116.md) makes the revision cost directed, R(C, C′) ≠ R(C′, C), which A30
   §8 uses: "A relationship may be easy to enter, inexpensive to maintain and
   extremely expensive to leave."
 - Implicit contracts and their formation were introduced earlier in the

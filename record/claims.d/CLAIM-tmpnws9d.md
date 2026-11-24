@@ -24,10 +24,10 @@ summary: >-
   Fills a gap in A10 §9 of the exchange "Memes, Contracts, and Systemic
   Normativity" (ChatGPT, 2026-11-24), which separates a hyperstition whose
   realization outlasts its representation from one that stays dependent on
-  it (CLAIM-tmpyp5bu) and leaves telling them apart as "a central research
-  question", while its own model (CLAIM-tmpvic6m) contains only the second
+  it ([CLAIM-tmpyp5bu](CLAIM-tmpyp5bu.md)) and leaves telling them apart as "a central research
+  question", while its own model ([CLAIM-tmpvic6m](CLAIM-tmpvic6m.md)) contains only the second
   kind. This claim gives the condition for the first in that model, with
-  an added self-maintenance term, checked with python3 -I. It is CASE-189's
+  an added self-maintenance term, checked with python3 -I. It is [CASE-189](../cases.d/CASE-189.md)'s
   transient encounter and maintained connector, in hyperstition's
   variables. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
@@ -50,7 +50,7 @@ version), cannot show the first outcome, and the turn does not say so.
 1. **Coupling alone.** Set m = 0 from some time on. Then ṙ = −νr in the
    linear model, and ṙ = −0.5r in A10's bounded one: r decays to zero at
    its own rate, whatever α and β were and however far realization had
-   gone. Coupling above threshold (CLAIM-tmpvic6m) makes the realization
+   gone. Coupling above threshold ([CLAIM-tmpvic6m](CLAIM-tmpvic6m.md)) makes the realization
    grow while the representation circulates; it does nothing for it after.
 2. **With a loop of its own.** Add to ṙ a term for the realized
    organization's self-maintenance, k r²(1 − r) (the realization producing
@@ -60,11 +60,11 @@ version), cannot show the first outcome, and the turn does not say so.
    at r = [1 − √(1 − 4ν/k)]/2. Realization outlasts the representation
    exactly when k > 4ν and r is above the threshold when circulation stops.
 3. **What withdrawal tells.** Withdrawing circulation after formation
-   separates the two outcomes of CLAIM-tmpyp5bu: decay means maintenance
+   separates the two outcomes of [CLAIM-tmpyp5bu](CLAIM-tmpyp5bu.md): decay means maintenance
    was the representation's; persistence means it passed to the realized
    organization. Withdrawal before the threshold is crossed ends the
    realization in both kinds of system, so a single withdrawal at an
-   unknown stage does not discriminate. This is TERM-100's pair of tests,
+   unknown stage does not discriminate. This is [TERM-100](../terms.d/TERM-100.md)'s pair of tests,
    a knockout of upkeep now and an intervention during formation.
 
 **Check.** `python3 -I`, A10's bounded system with α = β = 0.8 and
@@ -77,6 +77,6 @@ state; k = 3 gives 0.836 and 0.789, predicted 0.789.
 
 - **Not that the self-maintenance term is the right one.** Any loop that
   gives the realization's own dynamics a second stable state will do; the
-  quadratic term is the simplest. CASE-189 builds a richer one.
+  quadratic term is the simplest. [CASE-189](../cases.d/CASE-189.md) builds a richer one.
 - **Not that persistence after withdrawal shows the representation was
-  true.** It shows where maintenance lies now (CLAIM-402).
+  true.** It shows where maintenance lies now ([CLAIM-402](CLAIM-402.md)).

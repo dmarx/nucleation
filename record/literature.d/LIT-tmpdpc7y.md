@@ -28,7 +28,7 @@ summary: >-
   A36 §15 cites the National Emergencies Act for mechanisms of
   declaration, termination, renewal and congressional review. The
   assistant checked § 1622 on the LII page on 2026-11-24 for the gap fill
-  of CLAIM-tmp0gs0t: termination is by "a joint resolution" enacted into law
+  of [CLAIM-tmp0gs0t](../claims.d/CLAIM-tmp0gs0t.md): termination is by "a joint resolution" enacted into law
   or by proclamation, and the 1985 amendment substituted that for
   "Congress terminates the emergency by concurrent resolution".
 ---
@@ -37,7 +37,7 @@ summary: >-
 
 # LIT-tmpdpc7y: 50 U.S. Code § 1622: National emergencies
 
-Section 202 of the National Emergencies Act, Pub. L. 94-412 (14 September 1976), as amended by Pub. L. 99-93, § 801 (16 August 1985). `published:` is the enactment date the LII notes give (ADR-002).
+Section 202 of the National Emergencies Act, Pub. L. 94-412 (14 September 1976), as amended by Pub. L. 99-93, § 801 (16 August 1985). `published:` is the enactment date the LII notes give ([ADR-002](../decisions.d/ADR-002.md)).
 
 ## Key takeaways
 
@@ -45,4 +45,4 @@ Section 202 of the National Emergencies Act, Pub. L. 94-412 (14 September 1976),
 
 ## Standing in the record
 
-A36 §15 cites the National Emergencies Act for mechanisms of declaration, termination, renewal and congressional review. The assistant checked § 1622 on the LII page on 2026-11-24 for the gap fill of CLAIM-tmp0gs0t: termination is by "a joint resolution" enacted into law or by proclamation, and the 1985 amendment substituted that for "Congress terminates the emergency by concurrent resolution".
+A36 §15 cites the National Emergencies Act for mechanisms of declaration, termination, renewal and congressional review. The assistant checked § 1622 on the LII page on 2026-11-24 for the gap fill of [CLAIM-tmp0gs0t](../claims.d/CLAIM-tmp0gs0t.md): termination is by "a joint resolution" enacted into law or by proclamation, and the 1985 amendment substituted that for "Congress terminates the emergency by concurrent resolution".

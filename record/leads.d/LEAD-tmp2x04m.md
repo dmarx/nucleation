@@ -25,7 +25,7 @@ summary: >-
   owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpmp2wh CLAIM-tmpr2qzg — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
+<!-- inactive-ok-file: CLAIM-tmpmp2wh — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
 # LEAD-tmp2x04m: Compare across interpretive methodologies the actual distribution of interpretive authority, evidential burdens and correction costs, to test whether recovering historical meaning relocates discretion rather than eliminating it
 
@@ -42,9 +42,9 @@ methodology can relocate discretion rather than eliminate it."
 
 Whether the Constraint Principle's rationale, constraining discretion,
 holds up when the discretion in reconstructing meaning is counted: the part
-of the originalism critique that survives CLAIM-tmpmp2wh. A40 cites
-CLAIM-760 for "Work and discretion can be transferred without
-disappearing"; CLAIM-760 holds it for work, and this would test it for
+of the originalism critique that survives [CLAIM-tmpmp2wh](../claims.d/CLAIM-tmpmp2wh.md). A40 cites
+[CLAIM-760](../claims.d/CLAIM-760.md) for "Work and discretion can be transferred without
+disappearing"; [CLAIM-760](../claims.d/CLAIM-760.md) holds it for work, and this would test it for
 discretion.
 
 ## What it needs first

@@ -17,7 +17,7 @@ published: '2018-01-23'
 doi: '10.2307/j.ctvc77h85'
 first_author: 'Muller'
 summary: >-
-  The book the owner's U28 of the exchange "Memes, Contracts, and Systemic Normativity" names, "the tyranny of metrics". A44 §4 (ChatGPT, 2026-11-24) cites it for how "quantification, public accountability and performance-linked incentives can produce goal displacement, gaming and additional organizational burdens". It bears on CLAIM-tmpvmd97 and on CLAIM-348, TERM-108 and QUESTION-267. Unverified until read.
+  The book the owner's U28 of the exchange "Memes, Contracts, and Systemic Normativity" names, "the tyranny of metrics". A44 §4 (ChatGPT, 2026-11-24) cites it for how "quantification, public accountability and performance-linked incentives can produce goal displacement, gaming and additional organizational burdens". It bears on [CLAIM-tmpvmd97](../claims.d/CLAIM-tmpvmd97.md) and on [CLAIM-348](../claims.d/CLAIM-348.md), [TERM-108](../terms.d/TERM-108.md) and [QUESTION-267](../questions.d/QUESTION-267.md). Unverified until read.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpvmd97 TERM-108 — Proposed or new; the entries this registration bears on -->
@@ -30,4 +30,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. The book the owner's U28 of the exchange "Memes, Contracts, and Systemic Normativity" names, "the tyranny of metrics". A44 §4 (ChatGPT, 2026-11-24) cites it for how "quantification, public accountability and performance-linked incentives can produce goal displacement, gaming and additional organizational burdens". It bears on CLAIM-tmpvmd97 and on CLAIM-348, TERM-108 and QUESTION-267. Unverified until read.
+Deferred. The book the owner's U28 of the exchange "Memes, Contracts, and Systemic Normativity" names, "the tyranny of metrics". A44 §4 (ChatGPT, 2026-11-24) cites it for how "quantification, public accountability and performance-linked incentives can produce goal displacement, gaming and additional organizational burdens". It bears on [CLAIM-tmpvmd97](../claims.d/CLAIM-tmpvmd97.md) and on [CLAIM-348](../claims.d/CLAIM-348.md), [TERM-108](../terms.d/TERM-108.md) and [QUESTION-267](../questions.d/QUESTION-267.md). Unverified until read.

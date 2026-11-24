@@ -36,11 +36,11 @@ summary: >-
   §8's three levels, P₀ interpretation of evidence, P₁ evaluation of
   interpretations, P₂ revision of evaluative organization. A6 ties it to
   CLAIM-614, CLAIM-619, CLAIM-624 and, by its code on main,
-  CLAIM-tmpq1213. The wording is A's (ChatGPT, in the exchange 'Memes,
+  CLAIM-1155. The wording is A's (ChatGPT, in the exchange 'Memes,
   Contracts, and Systemic Normativity'); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-614 CLAIM-619 CLAIM-624 CLAIM-627 CLAIM-tmpq1213 TERM-098 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
+<!-- inactive-ok-file: CLAIM-614 CLAIM-619 CLAIM-624 CLAIM-627 CLAIM-1155 TERM-098 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
 # CLAIM-tmp158r8: A meme can act above the content of beliefs, on how interpretations are evaluated or on how the evaluating organization is revised, so that what it changes is the conditions under which later memes are assessed and inadequacies become recognizable
 
@@ -68,16 +68,16 @@ prevent some inadequacies from becoming recognizable."
 
 - **Concept as a pattern of distinctions** with consequences, kept apart
   from "conceptual corrigibility, the further capacity to find and revise
-  its inadequacies": TERM-098 (Proposed). A4 cites it accurately.
-- **Jurisdiction over contexts of interpretation**: CLAIM-627 (Proposed),
+  its inadequacies": [TERM-098](../terms.d/TERM-098.md) (Proposed). A4 cites it accurately.
+- **Jurisdiction over contexts of interpretation**: [CLAIM-627](CLAIM-627.md) (Proposed),
   that who governs which contexts count acts "on the conditions of
   interpretation and not only on its outputs". A4 cites it accurately.
-  This claim puts a transmitted item where CLAIM-627 puts a
+  This claim puts a transmitted item where [CLAIM-627](CLAIM-627.md) puts a
   will-organization's jurisdiction.
-- **The pathologies at P₁ and P₂** are held: CLAIM-619 (answering a
+- **The pathologies at P₁ and P₂** are held: [CLAIM-619](CLAIM-619.md) (answering a
   credible challenge by reducing the capacity for future challenge),
-  CLAIM-614 (reproducing the projections that make a harm non-legible),
-  CLAIM-624 (a second-order duty of answerability) and CLAIM-tmpq1213 (the
+  [CLAIM-614](CLAIM-614.md) (reproducing the projections that make a harm non-legible),
+  [CLAIM-624](CLAIM-624.md) (a second-order duty of answerability) and [CLAIM-1155](CLAIM-1155.md) (the
   wrong in standing). What is new here is that a meme can be the vehicle.
 
 ## Gap

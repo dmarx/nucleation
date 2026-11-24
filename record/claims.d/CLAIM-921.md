@@ -164,7 +164,7 @@ assistance, independent review, dispute resolution, fallback provision):
 "If maintenance follows invocation frequency, the capacity underlying the
 commitment may disappear. The contract might remain formally recognized
 while its guarantee becomes unrealizable." It separates a guarantee that
-is represented, maintained, ready and exercised, after TERM-109's
+is represented, maintained, ready and exercised, after [TERM-109](../terms.d/TERM-109.md)'s
 maintaining, committing and exercising. A contractual reading of the
 claim's absorbing state; the claim's model needs only that the guarantee
 is a capability committed when competent, so it applies as stated. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

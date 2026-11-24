@@ -24,7 +24,7 @@ summary: >-
   "Memes, Contracts, and Systemic Normativity" (ChatGPT): A38 §2 cites
   it beside No. 70: "Madison's Federalist No. 51, meanwhile, emphasizes
   the maintenance of differentiated institutional wills". It bears on
-  the unity–authority distinction (CLAIM-tmp1wlu2). What the exchange
+  the unity–authority distinction ([CLAIM-tmp1wlu2](../claims.d/CLAIM-tmp1wlu2.md)). What the exchange
   says of it is unverified until read.
 ---
 

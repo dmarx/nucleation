@@ -152,8 +152,8 @@ predominates." A40 §4.2: "Persistence is evidence that an arrangement has
 been reproducible. It is not sufficient evidence of what makes its
 reproduction possible or whether its reproduction is justified." The
 extension, that structure kept is not value kept and that inaction
-transforms, is filed as CLAIM-tmpa8tdg; the application to conservatism is
-CLAIM-tmplc0vv, with the objection CLAIM-tmpdzcj6, that conservatism's
+transforms, is filed as [CLAIM-tmpa8tdg](CLAIM-tmpa8tdg.md); the application to conservatism is
+[CLAIM-tmplc0vv](CLAIM-tmplc0vv.md), with the objection [CLAIM-tmpdzcj6](CLAIM-tmpdzcj6.md), that conservatism's
 theorists hold a presumption under uncertainty and not the inference this
 claim disclaims. Bearing: an application; the claim is unchanged. The
 wording of this note is the assistant's (Claude, in this session),

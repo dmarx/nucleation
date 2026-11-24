@@ -26,7 +26,7 @@ summary: >-
   Cited by A2 of the exchange "Memes, Contracts, and Systemic
   Normativity" as modelling social group formation with concepts from
   physical phase transitions, the nearest published model to the owner's
-  memes as nucleation sites (CLAIM-tmp1ng5k). What A2 says of it is
+  memes as nucleation sites ([CLAIM-tmp1ng5k](../claims.d/CLAIM-tmp1ng5k.md)). What A2 says of it is
   unverified until read.
 ---
 
@@ -42,7 +42,7 @@ Schweitzer and Andres (2021), arXiv:2107.06696; Physical Review E 105, 044301 (2
 
 ## Standing in the record
 
-The published model nearest the owner's U2 (CLAIM-tmp1ng5k) and A4's
-hypothesis (CLAIM-tmpgvsgg). A reading would say whether its nucleation is
+The published model nearest the owner's U2 ([CLAIM-tmp1ng5k](../claims.d/CLAIM-tmp1ng5k.md)) and A4's
+hypothesis ([CLAIM-tmpgvsgg](../claims.d/CLAIM-tmpgvsgg.md)). A reading would say whether its nucleation is
 of groups around a seed or of groups from fluctuations, which is the
-distinction LEAD-tmpiktom needs.
+distinction [LEAD-tmpiktom](../leads.d/LEAD-tmpiktom.md) needs.

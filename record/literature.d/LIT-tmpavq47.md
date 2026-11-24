@@ -16,7 +16,7 @@ history:
     Reliability Workbook (O'Reilly, 2018), by Steven Thurgood with Jess
     Frame, Anthony Lenton, Carmela Quinito, Anton Tolchanov and Nejc
     Trdin. No DOI; `published:` is the first of January 2018, as for
-    LIT-tmpujx6j (ADR-002). No email address was sent to any service.
+    LIT-3187 (ADR-002). No email address was sent to any service.
 tags:
 - software-engineering
 - operations-research
@@ -35,7 +35,7 @@ summary: >-
 
 # LIT-tmpavq47: Alerting on SLOs
 
-Chapter 5 of Beyer, Murphy, Rensin, Kawahara and Thorne (eds.), The Site Reliability Workbook (O'Reilly, 2018), by Steven Thurgood with Jess Frame, Anthony Lenton, Carmela Quinito, Anton Tolchanov and Nejc Trdin. No DOI; `published:` is the first of January 2018, as for LIT-tmpujx6j (ADR-002).
+Chapter 5 of Beyer, Murphy, Rensin, Kawahara and Thorne (eds.), The Site Reliability Workbook (O'Reilly, 2018), by Steven Thurgood with Jess Frame, Anthony Lenton, Carmela Quinito, Anton Tolchanov and Nejc Trdin. No DOI; `published:` is the first of January 2018, as for [LIT-3187](LIT-3187.md) ([ADR-002](../decisions.d/ADR-002.md)).
 
 ## Key takeaways
 

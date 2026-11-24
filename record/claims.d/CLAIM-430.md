@@ -289,6 +289,6 @@ contract, invite a new contract, or ambiguously do both. The resulting
 relationship may not be fully determinate until subsequent interactions
 establish how the initial act is to be treated." This extends the claim
 to a favour's later treatment, which settles what the favour was; the
-third case is CLAIM-tmp80ny9's constitutive indeterminacy, and formative
-invocation in CLAIM-tmpsf9hp. A32 §20 ranks this claim first among the
+third case is [CLAIM-tmp80ny9](CLAIM-tmp80ny9.md)'s constitutive indeterminacy, and formative
+invocation in [CLAIM-tmpsf9hp](CLAIM-tmpsf9hp.md). A32 §20 ranks this claim first among the
 points of contact. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

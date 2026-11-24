@@ -118,7 +118,7 @@ choices can become increasingly difficult to reverse", and the exchange
 draws from it that "Persistence is evidence that an arrangement has been
 reproducible. It is not sufficient evidence of what makes its reproduction
 possible or whether its reproduction is justified." That conclusion is
-filed as part of CLAIM-tmpa8tdg, which does not rest on this account;
+filed as part of [CLAIM-tmpa8tdg](../claims.d/CLAIM-tmpa8tdg.md), which does not rest on this account;
 increasing returns are one mechanism by which an arrangement persists
 without its value doing the selecting, so the account corroborates it
 (relation written). As this account's own promote_when warns, a case of

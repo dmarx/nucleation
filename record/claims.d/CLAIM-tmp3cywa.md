@@ -31,7 +31,7 @@ summary: >-
   A42 §§8–9 and 13 of the exchange "Memes, Contracts, and Systemic
   Normativity" (ChatGPT, 2026-11-24), its proposition D, "Privacy-preserving
   correctability", with its principle of "sufficient observability under
-  bounded authority, rather than maximum observability". CLAIM-359 already
+  bounded authority, rather than maximum observability". [CLAIM-359](CLAIM-359.md) already
   holds security and self-governance as distinct achievements, with least
   privilege, separation of duties and revocable authorization serving both;
   this carries them from execution to observation. Its model is stipulated.
@@ -40,7 +40,6 @@ summary: >-
   owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpp91oy CLAIM-tmp9xge5 — Proposed; the companion claim and the owner's thesis -->
 
 # CLAIM-tmp3cywa: An organization's capacity to discover and correct its deficiencies and its constituents' protection against unjustified, informationally mediated intervention are distinct achievements whose joint realizability turns on separating authority to observe from authority to act, and access for one purpose from access for another, sufficient observability under bounded authority, not on maximizing or minimizing the information available
 
@@ -62,15 +61,15 @@ diagnose the component, and what internal distinctions must it disclose;
 can we audit it, and can it challenge inappropriate auditing; can we detect
 anomalous behaviour, and who determines what counts as anomalous. Hence
 "**sufficient observability under bounded authority**, rather than maximum
-observability". It notes that CLAIM-359 recognizes "independent audits, least
+observability". It notes that [CLAIM-359](CLAIM-359.md) recognizes "independent audits, least
 privilege, separation of duties and revocable authorization" (checked:
-CLAIM-359's body names them), and that "These mechanisms apply to
+[CLAIM-359](CLAIM-359.md)'s body names them), and that "These mechanisms apply to
 observation as well as execution."
 
 ## The formal version
 
 A42 §9 splits tasks into justified ones 𝒬₊ and unjustified ones 𝒬₋ and takes
-L₊(M) = L(M; 𝒬₊, B₊) and L₋(M) = L(M; 𝒬₋, B₋), "applications of TERM-064's
+L₊(M) = L(M; 𝒬₊, B₊) and L₋(M) = L(M; 𝒬₋, B₋), "applications of [TERM-064](../terms.d/TERM-064.md)'s
 task-relative legibility measure". The aim is an architecture that "makes
 justified tasks adequately realizable while appropriately restricting the
 affordances for unjustified tasks", not the one with most information. Its
@@ -86,6 +85,6 @@ realizable space of reliability and autonomy."
 
 ## What is held and what is added
 
-CLAIM-359 holds the distinction of achievements and the safeguards that serve
-both; CLAIM-523 and TERM-085 hold correctability. Added: the separation
-applied to observation, and the two-task reading of TERM-064's score.
+[CLAIM-359](CLAIM-359.md) holds the distinction of achievements and the safeguards that serve
+both; [CLAIM-523](CLAIM-523.md) and [TERM-085](../terms.d/TERM-085.md) hold correctability. Added: the separation
+applied to observation, and the two-task reading of [TERM-064](../terms.d/TERM-064.md)'s score.

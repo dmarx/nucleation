@@ -17,7 +17,7 @@ published: '1970-09-13'
 doi: '10.1007/978-3-540-70818-6_14'
 first_author: 'Friedman'
 summary: >-
-  Cited by A48 §5 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): Friedman "explicitly qualifies profit-seeking by reference to law and ethical custom", which A48 reads as a division of normative labour that presupposes other institutions can supply the constraints. It bears on CLAIM-tmpa61rf and CLAIM-tmpbucep. Unverified until read.
+  Cited by A48 §5 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): Friedman "explicitly qualifies profit-seeking by reference to law and ethical custom", which A48 reads as a division of normative labour that presupposes other institutions can supply the constraints. It bears on [CLAIM-tmpa61rf](../claims.d/CLAIM-tmpa61rf.md) and [CLAIM-tmpbucep](../claims.d/CLAIM-tmpbucep.md). Unverified until read.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpa61rf CLAIM-tmpbucep — Proposed or new; the entries this registration bears on -->
@@ -30,4 +30,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. Cited by A48 §5 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): Friedman "explicitly qualifies profit-seeking by reference to law and ethical custom", which A48 reads as a division of normative labour that presupposes other institutions can supply the constraints. It bears on CLAIM-tmpa61rf and CLAIM-tmpbucep. Unverified until read.
+Deferred. Cited by A48 §5 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): Friedman "explicitly qualifies profit-seeking by reference to law and ethical custom", which A48 reads as a division of normative labour that presupposes other institutions can supply the constraints. It bears on [CLAIM-tmpa61rf](../claims.d/CLAIM-tmpa61rf.md) and [CLAIM-tmpbucep](../claims.d/CLAIM-tmpbucep.md). Unverified until read.

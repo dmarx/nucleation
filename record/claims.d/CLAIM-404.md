@@ -588,7 +588,7 @@ For this claim's second defeat condition, the showing that the loop between the 
 
 ## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", U6/A7
 
-<!-- inactive-ok-file: CLAIM-tmpp0ufw ARG-tmp2kh2e TERM-066 CLAIM-545 — Proposed; filed from or read against the exchange of 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-tmpp0ufw ARG-tmp2kh2e — Proposed; filed from or read against the exchange of 2026-11-24 -->
 
 At U6 the owner asked to "relate this to Nucleation's account of reflexive
 control", after earlier turns on memes as nucleation sites and as
@@ -596,21 +596,21 @@ characters of perspectives. A7, reading the repository, opens with this
 claim, quoting A20 §9's sentence from the claim's body ("Control over an
 organization need not consist in issuing its decisions...") as the claim's
 own; it is A20's wording, which the claim quotes. A7 reads the two routes
-correctly, and CLAIM-703 as a third.
+correctly, and [CLAIM-703](CLAIM-703.md) as a third.
 
 What A7 adds is an influence on how the target's organization forms,
 carried by a transmissible expression and then maintained by the target,
-filed as CLAIM-tmpp0ufw (A's, Proposed). This claim's three routes act on
+filed as [CLAIM-tmpp0ufw](CLAIM-tmpp0ufw.md) (A's, Proposed). This claim's three routes act on
 a decision's conditions; that one predicts effects that outlast the source
-and reach circumstances never presented. ARG-tmp2kh2e finds CASE-191 and
-CASE-123 carry its possibility half and nothing built carries its
+and reach circumstances never presented. [ARG-tmp2kh2e](../arguments.d/ARG-tmp2kh2e.md) finds [CASE-191](../cases.d/CASE-191.md) and
+[CASE-123](../cases.d/CASE-123.md) carry its possibility half and nothing built carries its
 cultural carrier. A7 §7's "governance character", the relations deciding
 whose perspective becomes effective, is a label for the governing
-organization among regimes that CLAIM-025 already separates.
+organization among regimes that [CLAIM-025](CLAIM-025.md) already separates.
 
-One miscitation: A7 §4 cites CLAIM-340 for "reinforcement is not
+One miscitation: A7 §4 cites [CLAIM-340](CLAIM-340.md) for "reinforcement is not
 sufficient evidence of capture. A well-supported interpretation can
-legitimately acquire authority through similar dynamics." CLAIM-340 is
+legitimately acquire authority through similar dynamics." [CLAIM-340](CLAIM-340.md) is
 about whether scoring predictions committed before the evidence removes
-capture, and says nothing of the kind; the point is TERM-066's clause
+capture, and says nothing of the kind; the point is [TERM-066](../terms.d/TERM-066.md)'s clause
 "without a gain in fidelity". The claim is unchanged.

@@ -25,7 +25,7 @@ summary: >-
   A40 §10's second candidate claim ("Coordinated unity does not entail
   unrestricted supervisory authority") in the exchange "Memes, Contracts, and
   Systemic Normativity" (2026-11-24), with A38 §2's five kinds of unity and
-  A40 §3.1 to §3.3 and §3.5 as its parts. CLAIM-404 and CLAIM-736 hold
+  A40 §3.1 to §3.3 and §3.5 as its parts. [CLAIM-404](CLAIM-404.md) and [CLAIM-736](CLAIM-736.md) hold
   related separations, of an evaluator's formal from its effective
   independence and of an actor's independence from control of its means.
   The wording is A's (ChatGPT, in the exchange "Memes, Contracts, and
@@ -61,14 +61,14 @@ necessary for effective correction."
 - **Control is not capacity** (A40 §3.2). ΔW_A > 0 does not imply ΔK > 0:
   "Increasing control may improve coordination. It may also destroy
   expertise, trust, alternative perspectives or independently maintained
-  regulatory mechanisms." A40 cites Bednar (LIT-tmptzlx9), whose abstract,
+  regulatory mechanisms." A40 cites Bednar ([LIT-tmptzlx9](../literature.d/LIT-tmptzlx9.md)), whose abstract,
   as Crossref carries it, says presidential power over policymaking "has two
   necessary components: control and capacity".
 - **Unity through differentiation** (A40 §3.3): coordination over
   implementation with protected authority for evaluation, "unity through
   differentiated organization".
 - **The converse** (A40 §3.5): "Independence does not establish normative
-  governability" (TERM-128). Independence, autonomy, accountability,
+  governability" ([TERM-128](../terms.d/TERM-128.md)). Independence, autonomy, accountability,
   answerability and coordination are separate properties, and "The
   architecture must accommodate these requirements rather than maximize one
   without regard to the others."
@@ -89,13 +89,13 @@ model is new here.
 
 ## Where the record holds the neighbours
 
-CLAIM-404 (formal independence of an evaluator's procedure does not make
-its evaluation independent), CLAIM-736 (an opposition independent as an
+[CLAIM-404](CLAIM-404.md) (formal independence of an evaluator's procedure does not make
+its evaluation independent), [CLAIM-736](CLAIM-736.md) (an opposition independent as an
 actor whose capacity to change the arrangement depends on another's control
-of its resources), CLAIM-706 (execution impedance, independent constraint
-and intervention opportunity vary independently) and TERM-017
+of its resources), [CLAIM-706](CLAIM-706.md) (execution impedance, independent constraint
+and intervention opportunity vary independently) and [TERM-017](../terms.d/TERM-017.md)
 (jurisdiction, precedence and suspension). None states the separation of
 coordinated unity from unity of authority. A38 §2 also cites Hamilton's
-Federalist No. 70 (LIT-tmp4cqb2) and Madison's No. 51 (LIT-tmp0qznk) as
+Federalist No. 70 ([LIT-tmp4cqb2](../literature.d/LIT-tmp4cqb2.md)) and Madison's No. 51 ([LIT-tmp0qznk](../literature.d/LIT-tmp0qznk.md)) as
 stating, respectively, executive unity and differentiated institutional
 wills, "distinct requirements that need to be jointly accommodated".

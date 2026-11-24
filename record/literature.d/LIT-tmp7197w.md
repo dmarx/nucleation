@@ -22,7 +22,7 @@ keywords: ['framing effect', 'prospect theory', 'loss aversion']
 implementations: []
 summary: >-
   Tversky and Kahneman (1981), Science 211(4481):453–458. Cited by A11 of the exchange "Memes, Contracts, and Systemic
-  Normativity" (ChatGPT) for the standard framing experiments, the disease problem with 600 lives whose reported choice proportions it shows as 72% for the certain option in the gain frame and 22% in the loss frame. It bears on CLAIM-298 (a frame changes which distinctions are reachable) and on the exchange's anchoring-and-framing claim CLAIM-tmpggu4v, which separates a transient framing effect from a durable change of perspective. What A11 says of it is unverified until
+  Normativity" (ChatGPT) for the standard framing experiments, the disease problem with 600 lives whose reported choice proportions it shows as 72% for the certain option in the gain frame and 22% in the loss frame. It bears on [CLAIM-298](../claims.d/CLAIM-298.md) (a frame changes which distinctions are reachable) and on the exchange's anchoring-and-framing claim [CLAIM-tmpggu4v](../claims.d/CLAIM-tmpggu4v.md), which separates a transient framing effect from a durable change of perspective. What A11 says of it is unverified until
   read.
 ---
 

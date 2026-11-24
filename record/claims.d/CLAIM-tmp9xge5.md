@@ -34,16 +34,16 @@ summary: >-
   Normativity" (2026-11-24): "we should also account for the tension between
   the organizational impetus for observability, and the vulnerability of
   legibility as a control surface for imposing coercive domination". The
-  record holds the parts: legibility as directed (TERM-064), the
-  correctability program (CLAIM-523), domination as another's capacity to
-  govern one's relations, used or not (CLAIM-545, CLAIM-682), and James et
-  al.'s inclusion that gives operators access (THEORY-857). It does not hold
+  record holds the parts: legibility as directed ([TERM-064](../terms.d/TERM-064.md)), the
+  correctability program ([CLAIM-523](CLAIM-523.md)), domination as another's capacity to
+  govern one's relations, used or not ([CLAIM-545](CLAIM-545.md), [CLAIM-682](CLAIM-682.md)), and James et
+  al.'s inclusion that gives operators access ([THEORY-857](../theory.d/THEORY-857.md)). It does not hold
   the tension, that one resource serves both. A42 developed it in four claims
-  (CLAIM-tmplm3mz, CLAIM-tmpefeb7, CLAIM-tmpp91oy, CLAIM-tmp3cywa). Filed in
+  ([CLAIM-tmplm3mz](CLAIM-tmplm3mz.md), [CLAIM-tmpefeb7](CLAIM-tmpefeb7.md), [CLAIM-tmpp91oy](CLAIM-tmpp91oy.md), [CLAIM-tmp3cywa](CLAIM-tmp3cywa.md)). Filed in
   the owner's voice.
 ---
 
-<!-- inactive-ok-file: CLAIM-545 CLAIM-682 CLAIM-tmplm3mz CLAIM-tmpefeb7 CLAIM-tmpp91oy CLAIM-tmp3cywa CLAIM-tmpvmd97 CLAIM-tmptrn75 CLAIM-tmpjg4h2 CLAIM-731 THEORY-857 THEORY-1842 — Proposed; the held parts and the claims filed from A42, A44 and A46 with this -->
+<!-- inactive-ok-file: CLAIM-545 CLAIM-682 CLAIM-tmplm3mz CLAIM-tmpefeb7 CLAIM-tmpp91oy CLAIM-tmp3cywa CLAIM-tmpvmd97 CLAIM-tmptrn75 CLAIM-1117 CLAIM-731 THEORY-857 THEORY-1842 — Proposed; the held parts and the claims filed from A42, A44 and A46 with this -->
 
 # CLAIM-tmp9xge5: The organizational impetus for observability and the vulnerability of legibility as a control surface for coercive domination are in tension, because what an organization makes legible so that it can coordinate and correct itself is what those able to act on it can use to dominate the observed
 
@@ -63,25 +63,25 @@ observes.
 
 ## How far the record already went
 
-- **Direction.** TERM-064 makes legibility directed: what is legible to a
+- **Direction.** [TERM-064](../terms.d/TERM-064.md) makes legibility directed: what is legible to a
   governing institution and what of its governing is legible to others
   "can vary independently".
-- **Inclusion as access.** James et al. (THEORY-857, Proposed): "inclusion
+- **Inclusion as access.** James et al. ([THEORY-857](../theory.d/THEORY-857.md), Proposed): "inclusion
   in a data system also gives its operators access to the included, and
   transparency can be demanded of the governed while the governing system
   stays opaque". That is the tension seen in one remedy.
-- **Surveillance.** Zuboff (THEORY-1842, Proposed): epistemic inequality
+- **Surveillance.** Zuboff ([THEORY-1842](../theory.d/THEORY-1842.md), Proposed): epistemic inequality
   and a power to modify behaviour, with no exit.
-- **Correction needs legibility.** CLAIM-523: legibility, volitional efficacy
-  and correctability; CLAIM-686 applies it to a dependent's claims.
-- **Domination needs no use.** CLAIM-545: "domination is another's capacity
-  to govern those same relations, used or not"; CLAIM-682's three
-  conditions; CLAIM-741: respect for a right is a property of a policy,
+- **Correction needs legibility.** [CLAIM-523](CLAIM-523.md): legibility, volitional efficacy
+  and correctability; [CLAIM-686](CLAIM-686.md) applies it to a dependent's claims.
+- **Domination needs no use.** [CLAIM-545](CLAIM-545.md): "domination is another's capacity
+  to govern those same relations, used or not"; [CLAIM-682](CLAIM-682.md)'s three
+  conditions; [CLAIM-741](CLAIM-741.md): respect for a right is a property of a policy,
   not of a realized history. A42 §4 restates this ("An authority has not
   established non-domination merely because it has not abused every power
-  available to it") without citing CLAIM-741.
-- **Who pays.** CLAIM-tmpjg4h2: the cost of making a proposal legible is
-  distributed by the institution; CLAIM-731: friction moves from imposing a
+  available to it") without citing [CLAIM-741](CLAIM-741.md).
+- **Who pays.** [CLAIM-1117](CLAIM-1117.md): the cost of making a proposal legible is
+  distributed by the institution; [CLAIM-731](CLAIM-731.md): friction moves from imposing a
   decision to contesting it.
 
 What none of them states is the owner's: that the correctability program
@@ -91,15 +91,15 @@ is, other things equal, more exposure to the second.
 ## How the exchange developed it
 
 - A42 §§2–3, 10–12: legibility lowers intervention costs whatever their
-  purpose (CLAIM-tmplm3mz).
+  purpose ([CLAIM-tmplm3mz](CLAIM-tmplm3mz.md)).
 - A42 §5: monitoring can produce the conformity it records
-  (CLAIM-tmpefeb7).
+  ([CLAIM-tmpefeb7](CLAIM-tmpefeb7.md)).
 - A42 §§6–7: protected illegibility as a condition of individuation
-  (CLAIM-tmpp91oy).
+  ([CLAIM-tmpp91oy](CLAIM-tmpp91oy.md)).
 - A42 §§8–9, 13: correctability and protection as distinct achievements,
-  jointly realizable by architecture (CLAIM-tmp3cywa).
-- A44 §11 carries it to metrics (CLAIM-tmpvmd97) and A46 §6 to institutions
-  that understand those they harm (CLAIM-tmptrn75).
+  jointly realizable by architecture ([CLAIM-tmp3cywa](CLAIM-tmp3cywa.md)).
+- A44 §11 carries it to metrics ([CLAIM-tmpvmd97](CLAIM-tmpvmd97.md)) and A46 §6 to institutions
+  that understand those they harm ([CLAIM-tmptrn75](CLAIM-tmptrn75.md)).
 
 ## What would defeat it
 

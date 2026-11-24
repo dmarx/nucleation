@@ -34,7 +34,7 @@ summary: >-
 
 # LIT-tmpvlv1c: The Federalist No. 51: The Structure of the Government Must Furnish the Proper Checks and Balances Between the Different Departments
 
-The Avalon Project's text gives "From the New York Packet. Friday, February 8, 1788" and "HAMILTON OR MADISON"; it is now usually attributed to Madison, as A36 does. `published:` is the date the Avalon text carries (ADR-002).
+The Avalon Project's text gives "From the New York Packet. Friday, February 8, 1788" and "HAMILTON OR MADISON"; it is now usually attributed to Madison, as A36 does. `published:` is the date the Avalon text carries ([ADR-002](../decisions.d/ADR-002.md)).
 
 ## Key takeaways
 

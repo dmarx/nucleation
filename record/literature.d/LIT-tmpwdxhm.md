@@ -28,8 +28,8 @@ summary: >-
   Normativity" (ChatGPT) for distinguishing "psychological contracts,
   concerning perceived reciprocal obligations, from implied contracts at the
   level of an ongoing relationship"; unverified until read. Bears on
-  CLAIM-tmp0i6c0 (expected, relied on, committed and owed are distinct) and
-  CLAIM-tmp0d1fq (implicit contracts).
+  [CLAIM-tmp0i6c0](../claims.d/CLAIM-tmp0i6c0.md) (expected, relied on, committed and owed are distinct) and
+  [CLAIM-tmp0d1fq](../claims.d/CLAIM-tmp0d1fq.md) (implicit contracts).
 ---
 
 <!-- inactive-ok-file: CLAIM-tmp0i6c0 CLAIM-tmp0d1fq — Proposed; the claims filed with this from U16 and A20 -->
@@ -46,4 +46,4 @@ Rousseau (1989), Employee Responsibilities and Rights Journal 2(2):121–139.
 
 Registered as the organizational-psychology precedent for the gap between
 what one party perceives as owed and what a relationship implies, the gap
-CLAIM-tmp0i6c0 holds. What A20 says of it is unverified until read.
+[CLAIM-tmp0i6c0](../claims.d/CLAIM-tmp0i6c0.md) holds. What A20 says of it is unverified until read.

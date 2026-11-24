@@ -39,10 +39,10 @@ summary: >-
   A5 §8 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24), "Memes as transmissible characteristics of
   organizational perspectives — Proposed", A's development of the owner's
-  U4 (filed in two readings, CLAIM-tmphi3mx and CLAIM-tmp4mk0t; A5's is
-  nearer the second). A5 cites CLAIM-132, CLAIM-329, TERM-072, CLAIM-137,
-  CLAIM-417 and CLAIM-249 accurately. The test it proposes, extending
-  CASE-148, is LEAD-tmpqucxc. The wording is A's (ChatGPT, in the
+  U4 (filed in two readings, [CLAIM-tmphi3mx](CLAIM-tmphi3mx.md) and [CLAIM-tmp4mk0t](CLAIM-tmp4mk0t.md); A5's is
+  nearer the second). A5 cites [CLAIM-132](CLAIM-132.md), [CLAIM-329](CLAIM-329.md), [TERM-072](../terms.d/TERM-072.md), [CLAIM-137](CLAIM-137.md),
+  [CLAIM-417](CLAIM-417.md) and [CLAIM-249](CLAIM-249.md) accurately. The test it proposes, extending
+  [CASE-148](../cases.d/CASE-148.md), is [LEAD-tmpqucxc](../leads.d/LEAD-tmpqucxc.md). The wording is A's (ChatGPT, in the
   exchange 'Memes, Contracts, and Systemic Normativity'); adopting it is
   the owner's call.
 ---
@@ -70,19 +70,19 @@ informational object.**" A5 §7's example: a philosophical school can
 survive "while its vocabulary, institutions, adherents and explicit
 doctrines change", and "a school could preserve all its canonical texts
 while losing the perspective that originally made those texts
-consequential", which is CLAIM-420's and CLAIM-329's separation of
+consequential", which is [CLAIM-420](CLAIM-420.md)'s and [CLAIM-329](CLAIM-329.md)'s separation of
 transmitted perspective, descent and resemblance.
 
 ## What it rests on
 
 - **The owner's U4**, read as (b): memes sample a character
-  (CLAIM-tmp4mk0t). A5 itself declines (a): "Strictly speaking, however, a
+  ([CLAIM-tmp4mk0t](CLAIM-tmp4mk0t.md)). A5 itself declines (a): "Strictly speaking, however, a
   meme would not ordinarily be a mathematical character."
-- **What characters do and do not classify** (CLAIM-132), and **persistence
-  by causal transmission of organization** (CLAIM-329).
-- It extends CLAIM-137 (character-like invariants classify communicative
-  kinds) from communicative kinds to perspectives, which CLAIM-417 calls
-  "new territory, with CLAIM-249 standing against any easy
+- **What characters do and do not classify** ([CLAIM-132](CLAIM-132.md)), and **persistence
+  by causal transmission of organization** ([CLAIM-329](CLAIM-329.md)).
+- It extends [CLAIM-137](CLAIM-137.md) (character-like invariants classify communicative
+  kinds) from communicative kinds to perspectives, which [CLAIM-417](CLAIM-417.md) calls
+  "new territory, with [CLAIM-249](CLAIM-249.md) standing against any easy
   identification".
 
 ## Gaps and standing
@@ -93,13 +93,13 @@ transmitted perspective, descent and resemblance.
   group, in which case ordinary character theory loses much of its
   classificatory completeness." The record already holds how much is
   lost: equal characters give "at most isomorphic semisimplifications"
-  (CLAIM-132, its ℤ example). So A5 §5's "memeplex" as a decomposition
+  ([CLAIM-132](CLAIM-132.md), its ℤ example). So A5 §5's "memeplex" as a decomposition
   χ_P = Σ n_i χ_i would record which modes occur and how often, and lose
   exactly how one mode depends on another, the part A5 assigns to
-  "organizational dynamics and will-organization". The note on CLAIM-132
+  "organizational dynamics and will-organization". The note on [CLAIM-132](CLAIM-132.md)
   of 2026-11-24 says so.
 - **Probes.** A5 §4's response profiles are evidence of a character only
-  relative to the probe family (CLAIM-142).
+  relative to the probe family ([CLAIM-142](CLAIM-142.md)).
 - **Standing.** A5's close, "This would situate memetics within
   Nucleation's non-eliminative structural realism", tells as the record's
-  position what CLAIM-136 holds as a Proposed thesis.
+  position what [CLAIM-136](CLAIM-136.md) holds as a Proposed thesis.

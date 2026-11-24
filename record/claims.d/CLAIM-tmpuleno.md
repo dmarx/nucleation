@@ -88,7 +88,7 @@ Checked with `python3 -I`:
   222/s, twice the offered rate. In that simple model the loop does not
   hold the system in overload once the offered rate drops below capacity;
   failures that persist after their trigger is gone, metastable failures
-  (LIT-tmp4gwsm, unread), need something more, such as work spent on
+  ([LIT-tmp4gwsm](../literature.d/LIT-tmp4gwsm.md), unread), need something more, such as work spent on
   requests that time out.
 
 So the composition claim holds for A34's model in the form "retries
@@ -99,8 +99,8 @@ assistant's (Claude, in this session); adopting it is the owner's call.
 
 ## Standing
 
-Proposed, in A's voice. It complements CLAIM-347, whose complex says what
-joint unrealizability is, and CLAIM-357, whose residual separates
+Proposed, in A's voice. It complements [CLAIM-347](CLAIM-347.md), whose complex says what
+joint unrealizability is, and [CLAIM-357](CLAIM-357.md), whose residual separates
 infeasibility from realized violation; it adds the mechanism by which
 correction produces the conflict. A36 calls this "our earlier distinction
 between local normative adequacy and systemic compatibility"; where that

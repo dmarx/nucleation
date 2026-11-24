@@ -163,14 +163,14 @@ A22 §7 (ChatGPT, 2026-11-24) cites this claim correctly for the first of
 ... The recipient loses alternatives. The provider acquires leverage over
 the terms of supply", with "economic hold-up after relationship-specific
 investment" as its example. The second direction, the recipient exploiting
-the provider's commitment, it gives to CLAIM-713.
+the provider's commitment, it gives to [CLAIM-713](CLAIM-713.md).
 
 A22 §9 relays hold-up a second time, now with a source and a model.
 
 - **The source.** "Klein, Crawford and Alchian's 1978 work on appropriable
-  quasi-rents" is registered as LIT-tmpgcwyt (Deferred, identifier checked
+  quasi-rents" is registered as [LIT-tmpgcwyt](../literature.d/LIT-tmpgcwyt.md) (Deferred, identifier checked
   on Crossref). The note of 2026-11-17 above says no hold-up source was
-  held; Hart and Moore 1990 has since been registered (LIT-2742,
+  held; Hart and Moore 1990 has since been registered ([LIT-2742](../literature.d/LIT-2742.md),
   Unfetched), so that sentence is now out of date.
 - **The model.** Equal-weight Nash bargaining over joint value V with
   outside options o_A and o_B gives u_B = o_B + (V − o_A − o_B)/2. As B's
@@ -187,4 +187,4 @@ A22 §9 relays hold-up a second time, now with a source and a model.
   refused", in the bargaining model's terms.
 
 The same computation, read the other way, is why an unexercised fallback
-keeps a party's terms: CLAIM-tmp2jhc1. The claim is unchanged.
+keeps a party's terms: [CLAIM-tmp2jhc1](CLAIM-tmp2jhc1.md). The claim is unchanged.

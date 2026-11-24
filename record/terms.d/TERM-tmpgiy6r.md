@@ -17,7 +17,7 @@ line:
 summary: >-
   A16 §3 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24), defining the standing the owner's U14 said
-  contracts can operationalize (CLAIM-tmpkvzcn). It sets four quantities
+  contracts can operationalize ([CLAIM-tmpkvzcn](../claims.d/CLAIM-tmpkvzcn.md)). It sets four quantities
   apart, asserted claim, operational standing, effective authority and
   moral standing, and denies that standing is a place in a queue. The
   wording is A's (ChatGPT, in the exchange 'Memes, Contracts, and Systemic
@@ -59,26 +59,26 @@ position in a queue."
 
 ## Relations
 
-- It refines what the owner's U14 proposed (CLAIM-tmpkvzcn): the
+- It refines what the owner's U14 proposed ([CLAIM-tmpkvzcn](../claims.d/CLAIM-tmpkvzcn.md)): the
   prioritization structure is one way a contract secures standing, not
   what standing is.
-- It sits beside TERM-083 (moral standing), which it explicitly does not
+- It sits beside [TERM-083](TERM-083.md) (moral standing), which it explicitly does not
   imply, and beside A15's kinds of standing (claim-right, consultative,
-  intervention, consent, adjudicative, remedial), which CLAIM-739 and
-  CLAIM-723 hold in the moral and institutional case.
-- Asserted claim against effective authority is CLAIM-283's split of
+  intervention, consent, adjudicative, remedial), which [CLAIM-739](../claims.d/CLAIM-739.md) and
+  [CLAIM-723](../claims.d/CLAIM-723.md) hold in the moral and institutional case.
+- Asserted claim against effective authority is [CLAIM-283](../claims.d/CLAIM-283.md)'s split of
   claimed precedence from granted authority; A16 says the term "extends
-  the distinction between conferral and grant" of TERM-103 and TERM-101.
+  the distinction between conferral and grant" of [TERM-103](TERM-103.md) and [TERM-101](TERM-101.md).
   The new quantity is the middle one: an eligibility the arrangement
   recognizes, which can hold with no effective authority and be absent
   where effective authority is large.
 - A18 §4 applies it to inquiry: standing to submit a query, reserve
   investigative resources, challenge an answer or an acceptance criterion
-  (CLAIM-tmp2kfwd).
+  ([CLAIM-tmp2kfwd](../claims.d/CLAIM-tmp2kfwd.md)).
 
 ## What it leaves open
 
 What makes an eligibility "maintained" and "recognized" without a
-representing process is not said; CLAIM-tmp7hqtl's conditions for a
+representing process is not said; [CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md)'s conditions for a
 contract-like relation are A16's answer for the arrangement that confers
 it.

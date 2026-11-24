@@ -33,7 +33,7 @@ summary: >-
   representation theory) of perspectives". Reading (b) of two, filed as
   alternatives: a meme is one value of a perspective's character, and
   memes sample it. Reading (a), the meme as the whole character, is
-  CLAIM-tmphi3mx. A5's development (CLAIM-tmpjitli) is nearer this one.
+  [CLAIM-tmphi3mx](CLAIM-tmphi3mx.md). A5's development ([CLAIM-tmpjitli](CLAIM-tmpjitli.md)) is nearer this one.
   The owner chooses. Filed in the owner's voice; the readings are the
   filer's (Claude, in this session).
 ---
@@ -57,21 +57,21 @@ evidence" as "Scale evidential requirements with prior plausibility".
 Several memes sample the character; none is it. Perspectives can share
 some memes and differ in others.
 
-**Reading (a), the alternative,** is CLAIM-tmphi3mx: the meme is the
+**Reading (a), the alternative,** is [CLAIM-tmphi3mx](CLAIM-tmphi3mx.md): the meme is the
 whole character.
 
 ## Where the record stands
 
 - **Sampling a character by probes is held, with its limit.** A5 §4's
   "family of probes", Φ_M(P) = (R_P(m₁), …, R_P(m_n)), is the record's
-  relational identification by probes (CLAIM-142, Proposed): "Two
+  relational identification by probes ([CLAIM-142](CLAIM-142.md), Proposed): "Two
   communicative realizations can agree on every probe in a restricted
   family without being structurally identical, so observational
   equivalence is relative to the probes". A finite set of memes fixes a
   character only if the probes are independently justified and the
   values sampled determine it; for a finite group, the values on every
   conjugacy class do.
-- **The group is still owed** (CLAIM-249), as on reading (a).
-- **A5's development** is CLAIM-tmpjitli, and A6 uses this reading when it
+- **The group is still owed** ([CLAIM-249](CLAIM-249.md)), as on reading (a).
+- **A5's development** is [CLAIM-tmpjitli](CLAIM-tmpjitli.md), and A6 uses this reading when it
   has two perspectives share a meme and differ in character
-  (CLAIM-tmpgc8vi).
+  ([CLAIM-tmpgc8vi](CLAIM-tmpgc8vi.md)).

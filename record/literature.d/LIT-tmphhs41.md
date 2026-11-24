@@ -30,7 +30,7 @@ summary: >-
   39(9):1175–1185, the standard source for priority inheritance and the
   priority ceiling protocol. A16 of the exchange "Memes, Contracts, and
   Systemic Normativity" cites the literature for priority inversion, which
-  it builds into CASE-tmptpna1. Unverified until read.
+  it builds into [CASE-tmptpna1](../cases.d/CASE-tmptpna1.md). Unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmptpna1 — Proposed; cited as filed or held beside this entry, whatever its standing -->
 
@@ -44,4 +44,4 @@ Sha, Rajkumar and Lehoczky (1990), IEEE Transactions on Computers 39(9):1175–1
 
 ## Standing in the record
 
-Registered as the source of the remedy in CASE-tmptpna1.
+Registered as the source of the remedy in [CASE-tmptpna1](../cases.d/CASE-tmptpna1.md).

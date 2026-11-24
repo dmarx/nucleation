@@ -16,7 +16,7 @@ advances:
 - CLAIM-tmpazcha
 - CLAIM-tmp1wlu2
 - CLAIM-tmpa8tdg
-- TERM-tmpqixg8
+- TERM-163
 summary: >-
   A40 §7's "revealing comparative experiment", in the exchange "Memes,
   Contracts, and Systemic Normativity" (2026-11-24), with its readiness
@@ -27,7 +27,7 @@ summary: >-
   owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp1wlu2 CLAIM-tmpa8tdg CLAIM-tmpazcha TERM-tmpqixg8 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
+<!-- inactive-ok-file: CLAIM-tmp1wlu2 CLAIM-tmpa8tdg CLAIM-tmpazcha TERM-163 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
 # LEAD-tmpnvrld: Simulate four constitutional organizations under changing environments, one with stable specifications and costly revision, one with concentrated executive direction, one preserving inherited relational constraints, one with differentiated authority and protected inquiry and reconfiguration pathways, measuring ordinary performance, coordination cost, continuity of commitments, upkeep, independent corrective capacity and the ability to realize legitimate revisions
 
@@ -53,8 +53,8 @@ coordinate urgent activity."
 ## What it would settle
 
 Which combinations of constraints preserve which achievements under which
-conditions: whether the non-entailments of CLAIM-tmpazcha, CLAIM-tmp1wlu2
-and CLAIM-tmpa8tdg have the consequences A draws from them, as
+conditions: whether the non-entailments of [CLAIM-tmpazcha](../claims.d/CLAIM-tmpazcha.md), [CLAIM-tmp1wlu2](../claims.d/CLAIM-tmp1wlu2.md)
+and [CLAIM-tmpa8tdg](../claims.d/CLAIM-tmpa8tdg.md) have the consequences A draws from them, as
 discriminating predictions rather than distinctions.
 
 ## What it needs first
@@ -62,8 +62,8 @@ discriminating predictions rather than distinctions.
 A40 says so itself: "The family of discrepancies, acceptance criteria and
 permissible policies all require independent justification. The expression
 is a proposed formalization, not a validated measurement instrument." The
-readiness function is TERM-tmpqixg8's for a governance architecture; the
-seven-step chain extends CLAIM-523's three achievements. A first model
-could reuse LEAD-tmp6gz07's machinery of capacities kept by use under a
-budget. The common-mode parameter q of CLAIM-tmp1wlu2 is one variable
+readiness function is [TERM-163](../terms.d/TERM-163.md)'s for a governance architecture; the
+seven-step chain extends [CLAIM-523](../claims.d/CLAIM-523.md)'s three achievements. A first model
+could reuse [LEAD-218](LEAD-218.md)'s machinery of capacities kept by use under a
+budget. The common-mode parameter q of [CLAIM-tmp1wlu2](../claims.d/CLAIM-tmp1wlu2.md) is one variable
 organization B's design should move.

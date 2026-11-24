@@ -78,11 +78,11 @@ Two conjectures:
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', U2
 
 The owner used the figure again the next day, for memes: "memes as
-nucleation sites" (U2, CLAIM-tmp1ng5k), and at U4 tied memes to
+nucleation sites" (U2, [CLAIM-tmp1ng5k](CLAIM-tmp1ng5k.md)), and at U4 tied memes to
 perspectives as their "characteristics  (qua representation theory)"
-(CLAIM-tmphi3mx, CLAIM-tmp4mk0t). Together the conjectures place
+([CLAIM-tmphi3mx](CLAIM-tmphi3mx.md), [CLAIM-tmp4mk0t](CLAIM-tmp4mk0t.md)). Together the conjectures place
 perspectives as nuclei (here) and memes as seeds that can nucleate
-perspectives in other carriers (A5 §3, CLAIM-tmpjitli). A, which browsed
+perspectives in other carriers (A5 §3, [CLAIM-tmpjitli](CLAIM-tmpjitli.md)). A, which browsed
 main, could not see this entry, which is on staging. Bearing: the same
 figure in another setting; no change. The wording of this note is the
 assistant's (Claude, in this session); adopting it is the owner's call.

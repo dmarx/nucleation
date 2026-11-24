@@ -61,7 +61,7 @@ normative portion of our framework to SRE itself".
 
 ## What it adds to the record
 
-CLAIM-348 holds that a description adequate for an institution's
+[CLAIM-348](CLAIM-348.md) holds that a description adequate for an institution's
 aggregate performance can merge states its members' claims must
 distinguish. This claim is the decision-side counterpart: a tolerance set
 on the aggregate allocates effort and does not settle what is owed to the
@@ -70,7 +70,7 @@ person in the merged state.
 ## Gap filled: the law prices error too
 
 The table puts "Can support statistical evaluation" on one side only. US
-procedural due process does not. Mathews v. Eldridge (LIT-tmpvluk2)
+procedural due process does not. Mathews v. Eldridge ([LIT-tmpvluk2](../literature.d/LIT-tmpvluk2.md))
 weighs, among three factors, "the risk of an erroneous deprivation of such
 interest through the procedures used, and probable value, if any, of
 additional procedural safeguards" (syllabus, checked on the LII page on

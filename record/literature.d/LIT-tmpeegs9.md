@@ -17,7 +17,7 @@ published: '1995-01-01'
 doi: '10.2307/258887'
 first_author: 'Donaldson'
 summary: >-
-  Cited by A48 §1 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) for the distinction of descriptive, instrumental and normative stakeholder theory, with the normative foundations treated as fundamental. It bears on CLAIM-tmpa61rf and the owner's CLAIM-tmpbucep. Unverified until read.
+  Cited by A48 §1 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) for the distinction of descriptive, instrumental and normative stakeholder theory, with the normative foundations treated as fundamental. It bears on [CLAIM-tmpa61rf](../claims.d/CLAIM-tmpa61rf.md) and the owner's [CLAIM-tmpbucep](../claims.d/CLAIM-tmpbucep.md). Unverified until read.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpa61rf CLAIM-tmpbucep — Proposed or new; the entries this registration bears on -->
@@ -30,4 +30,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. Cited by A48 §1 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) for the distinction of descriptive, instrumental and normative stakeholder theory, with the normative foundations treated as fundamental. It bears on CLAIM-tmpa61rf and the owner's CLAIM-tmpbucep. Unverified until read.
+Deferred. Cited by A48 §1 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) for the distinction of descriptive, instrumental and normative stakeholder theory, with the normative foundations treated as fundamental. It bears on [CLAIM-tmpa61rf](../claims.d/CLAIM-tmpa61rf.md) and the owner's [CLAIM-tmpbucep](../claims.d/CLAIM-tmpbucep.md). Unverified until read.

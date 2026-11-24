@@ -20,15 +20,15 @@ title: "Test whether an institution's answerability to those it affects survives
 summary: >-
   A46 §13 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24) proposes characterizing institutions "through response
-  profiles" under perturbations, not by a score. LEAD-101 already holds one
-  row, the lifting of a sanction. This collects the others for CLAIM-tmptrn75
-  and CLAIM-tmpa61rf, with ARG-tmp4er8c's condition that reputation and
+  profiles" under perturbations, not by a score. [LEAD-101](LEAD-101.md) already holds one
+  row, the lifting of a sanction. This collects the others for [CLAIM-tmptrn75](../claims.d/CLAIM-tmptrn75.md)
+  and [CLAIM-tmpa61rf](../claims.d/CLAIM-tmpa61rf.md), with [ARG-tmp4er8c](../arguments.d/ARG-tmp4er8c.md)'s condition that reputation and
   benefit be held fixed. The design is A46's; the note on natural experiments
   is the assistant's. The wording is A's (ChatGPT, in the exchange "Memes,
   Contracts, and Systemic Normativity"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmptrn75 CLAIM-tmpa61rf ARG-tmp4er8c LEAD-101 CASE-tmphvbov — Proposed or Open; the claims advanced, the argument and the held lead and case -->
+<!-- inactive-ok-file: CLAIM-tmptrn75 CLAIM-tmpa61rf ARG-tmp4er8c CASE-405 — Proposed or Open; the claims advanced, the argument and the held lead and case -->
 
 # LEAD-tmp466iv: Test whether an institution's answerability to those it affects survives perturbations that make it unprofitable or unobserved, such as credible alternatives appearing, scrutiny ending, a hidden harm coming to light, costly internal objection and leadership turnover
 
@@ -55,7 +55,7 @@ establish moral competence."
 
 ## What is held
 
-LEAD-101 and CASE-tmphvbov hold the second row, for sanctions. The others
+[LEAD-101](LEAD-101.md) and [CASE-405](../cases.d/CASE-405.md) hold the second row, for sanctions. The others
 are open.
 
 ## A first step (the assistant)
@@ -64,7 +64,7 @@ The third row has natural experiments: rules that lower switching costs by
 order (number portability, data portability or interoperability mandates).
 Whether the incumbent's terms improved after them, against comparable
 services the rule did not reach, reads answerability to users from conduct
-once leaving became credible. ARG-tmp4er8c's condition applies: improvement
+once leaving became credible. [ARG-tmp4er8c](../arguments.d/ARG-tmp4er8c.md)'s condition applies: improvement
 predicted by competition alone shows prudence, so the informative arm is a
 failure to improve where competition would have rewarded it, or
 persistence of better terms after the competitive pressure fades.

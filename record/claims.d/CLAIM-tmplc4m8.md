@@ -21,11 +21,11 @@ rests_on:
 summary: >-
   A's critique of strong unitary executive theory in the exchange "Memes,
   Contracts, and Systemic Normativity" (2026-11-24), at the owner's U25
-  (CLAIM-tmpgmxs0): A38 §2's "hierarchy–coherence conflation" and A40 §3's
-  "second-order authority". It applies CLAIM-tmp1wlu2. CLAIM-tmpqhxsz
+  ([CLAIM-tmpgmxs0](CLAIM-tmpgmxs0.md)): A38 §2's "hierarchy–coherence conflation" and A40 §3's
+  "second-order authority". It applies [CLAIM-tmp1wlu2](CLAIM-tmp1wlu2.md). [CLAIM-tmpqhxsz](CLAIM-tmpqhxsz.md)
   objects that the theory's defenders argue from text and accountability, not
   from what unity requires, and that the correctives that matter most lie
-  outside the executive; ARG-tmpz2gmo narrows the inference to correctives
+  outside the executive; [ARG-tmpz2gmo](../arguments.d/ARG-tmpz2gmo.md) narrows the inference to correctives
   inside it. The wording is A's (ChatGPT, in the exchange "Memes,
   Contracts, and Systemic Normativity"); adopting it is the owner's call.
 ---
@@ -52,18 +52,18 @@ is not equivalent to the capacity to remain independently correctable."
   efficient under ordinary conditions while increasing its vulnerability
   under circumstances in which its governing authority itself becomes the
   object of correction." A38 calls this "the distinction between first-order
-  efficacy and higher-order normative governability" (TERM-128).
+  efficacy and higher-order normative governability" ([TERM-128](../terms.d/TERM-128.md)).
 - **Common-mode failure** (A38 §2). If execution controls the appointment,
   resources, criteria and continuation of the monitoring and corrective
   processes, "The organization may retain all three functions formally while
   their effective governance becomes correlated." The model is in
-  CLAIM-tmp1wlu2.
+  [CLAIM-tmp1wlu2](CLAIM-tmp1wlu2.md).
 - **Reflexive control** (A40 §3.4). If the authority also controls a
   corrective process's resources, evidence, criteria, personnel, occasions
   and continued existence, "The authority relationship becomes reflexive
   because it governs the conditions of its own governability." "These powers
   need not be exercised improperly to have organizational consequences."
-  A40 cites CLAIM-404, CLAIM-523 and CLAIM-624; the cites are apt.
+  A40 cites [CLAIM-404](CLAIM-404.md), [CLAIM-523](CLAIM-523.md) and [CLAIM-624](CLAIM-624.md); the cites are apt.
 
 ## A's own description and qualifications
 
@@ -81,8 +81,8 @@ presidential powers the Constitution actually grants remains separate".
 
 ## The objection
 
-CLAIM-tmpqhxsz. The table's statement of the assumption mislocates the
+[CLAIM-tmpqhxsz](CLAIM-tmpqhxsz.md). The table's statement of the assumption mislocates the
 theory's warrant, and the correctives that A40 §3.4 worries about are, for
 the most part, outside the executive the theory unifies. The critique holds
 for correctives inside the executive or dependent on its resources;
-LEAD-tmpvo9fs would test it there.
+[LEAD-tmpvo9fs](../leads.d/LEAD-tmpvo9fs.md) would test it there.

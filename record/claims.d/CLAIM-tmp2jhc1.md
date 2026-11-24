@@ -46,7 +46,7 @@ summary: >-
   owner's call.
 ---
 
-<!-- inactive-ok-file: TERM-124 CLAIM-690 CLAIM-682 CLAIM-670 — Proposed; the term this is stated in and the held claims on control over terms, domination and produced dependence -->
+<!-- inactive-ok-file: TERM-124 CLAIM-690 CLAIM-682 — Proposed; the term this is stated in and the held claims on control over terms, domination and produced dependence -->
 
 # CLAIM-tmp2jhc1: A fallback capacity can matter without being used: it keeps a party able to refuse, and so changes the terms others offer, so redundancy that keeps credible alternatives within a governing relationship (constitutional redundancy) differs from redundancy that keeps performance when a component fails (operational redundancy), and optimizing away capacity that ordinary operation never exercises can remove a condition of non-domination
 
@@ -97,9 +97,9 @@ establish an optimal degree of protection."
 
 ## Why "non-domination"
 
-The record's domination (TERM-124) is a capacity, "used or not", to set or
+The record's domination ([TERM-124](../terms.d/TERM-124.md)) is a capacity, "used or not", to set or
 change the terms on which a party can act, exit, contest or renegotiate,
-not answerable to the party; CLAIM-682's test includes the dependent's
+not answerable to the party; [CLAIM-682](CLAIM-682.md)'s test includes the dependent's
 lack of "effective means of protection, influence, challenge or justified
 withdrawal". A constitutional reserve is one such means: it keeps exit
 credible. Removing it because ordinary operation never draws on it removes
@@ -110,8 +110,8 @@ is why efficiency measured on use will tend to remove it.
 
 - Not that every unused capacity is a constitutional reserve, or worth its
   cost. Telling a warranted reserve from waste when operation seldom
-  exercises it is QUESTION-395, which this claim bears on by giving one
+  exercises it is [QUESTION-395](../questions.d/QUESTION-395.md), which this claim bears on by giving one
   thing the reserve does that its use-rate does not show.
-- Not that a party with a fallback is undominated: CLAIM-690 holds that
+- Not that a party with a fallback is undominated: [CLAIM-690](CLAIM-690.md) holds that
   what sorts dependence is control over exit, renegotiation and the
   conditions of supply, of which a fallback secures only the first.

@@ -26,8 +26,8 @@ complements:
 summary: >-
   A12 §9 and A13 §VI of the exchange "Memes, Contracts, and Systemic
   Normativity" (2026-11-24), answering the owner's U11 and U12; A11 §9
-  supplies Kahneman and Klein's conditions (LIT-tmpyshsf). It reads
-  CLAIM-443's learned prior over which processes govern as a kind of
+  supplies Kahneman and Klein's conditions ([LIT-tmpyshsf](../literature.d/LIT-tmpyshsf.md)). It reads
+  [CLAIM-443](CLAIM-443.md)'s learned prior over which processes govern as a kind of
   heuristic and gives cognitive bias a history: an allocation learned under
   one regime of validity persists into another. A13 states it as "amortized
   governance". The assistant's note below states the prediction that would
@@ -42,7 +42,7 @@ summary: >-
 
 ## The claim
 
-A12 §9, from CLAIM-443's prior P(g | z, H) ∝ exp(βQ(g, z) + b_H(g, z)):
+A12 §9, from [CLAIM-443](CLAIM-443.md)'s prior P(g | z, H) ∝ exp(βQ(g, z) + b_H(g, z)):
 "Repeated experience can establish which processes ordinarily receive
 authority in particular circumstances. This suggests a distinction between
 two forms of heuristic learning." An action heuristic settles "What to do";
@@ -66,16 +66,16 @@ does not imply that all heuristics arise through such learning."
 
 A11 §9 names the conditions: Kahneman and Klein identify "environmental
 regularity and opportunities for valid feedback as crucial to the
-development of reliable intuition" (LIT-tmpyshsf, unread).
+development of reliable intuition" ([LIT-tmpyshsf](../literature.d/LIT-tmpyshsf.md), unread).
 
 ## Where the record stands
 
-CLAIM-443 (Active) is the mechanism, "a candidate mechanism for durable
+[CLAIM-443](CLAIM-443.md) (Active) is the mechanism, "a candidate mechanism for durable
 authority and for amortized governance", with its limit, which A12 repeats:
 "persistence alone does not demonstrate amortization". What this claim adds
 is the reading of that prior as a kind of heuristic, distinct from one over
 actions, and the thesis that expertise and bias are the same learned
-allocation evaluated in and out of its conditions. CLAIM-283 separates the
+allocation evaluated in and out of its conditions. [CLAIM-283](CLAIM-283.md) separates the
 precedence a process claims from the authority it is granted; a governance
 heuristic is learned on the grant side.
 
@@ -91,7 +91,7 @@ Proposed, in A's voice.
 
 ## Note of 2026-11-24: the prediction that tells it from an action heuristic
 
-The assistant's gap fill (ADR-137): A12 and A13 propose the distinction and
+The assistant's gap fill ([ADR-137](../decisions.d/ADR-137.md)): A12 and A13 propose the distinction and
 give no test that separates it. One follows from the claim. Take a context
 in which several tasks share a cue and intuition was reliable in all of
 them. Change the cue–outcome regularity in some of the tasks, so that the

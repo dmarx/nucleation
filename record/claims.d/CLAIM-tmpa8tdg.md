@@ -24,13 +24,13 @@ summary: >-
   A40 §10's third candidate claim ("Structural conservation does not entail
   capacity conservation") in the exchange "Memes, Contracts, and Systemic
   Normativity" (2026-11-24), with A38 §3 and A40 §4.2 to §4.4 as its
-  argument. CLAIM-075 holds that viability does not establish what ought to
+  argument. [CLAIM-075](CLAIM-075.md) holds that viability does not establish what ought to
   persist; this adds that structure kept is not value kept, and that
   inaction transforms. The wording is A's (ChatGPT, in the exchange "Memes,
   Contracts, and Systemic Normativity"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp8mpgs CLAIM-tmph25dl THEORY-885 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
+<!-- inactive-ok-file: CLAIM-tmp8mpgs CLAIM-1104 THEORY-885 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
 # CLAIM-tmpa8tdg: Preserving an inherited arrangement's structure does not preserve the capacities it realizes, since what an arrangement realizes depends on its environment, and keeping it is itself a choice with developmental consequences whose costs fall on particular parties: persistence shows that an arrangement has been reproducible, not what makes it reproducible or whether its reproduction is justified, and the status quo is not a zero-cost baseline
 
@@ -67,7 +67,7 @@ organizational character."
 - **Who bears the cost of waiting** (A40 §4.4): J_i^delay = ∫₀ᵀ L_i(t) dt,
   borne by participant i while reform is deferred, "substantial even if the
   decision-making institution incurs little immediate expenditure". It is
-  CLAIM-760's transferred work.
+  [CLAIM-760](CLAIM-760.md)'s transferred work.
 - **Symmetric scrutiny** (A38 §3): J_preserve = U + L + E against
   J_transform = R + U′ + L′ + E′. "The status quo is not a zero-cost
   baseline", and "a reformist analysis that counts the benefits of the
@@ -75,20 +75,20 @@ organizational character."
 
 ## Where the record holds the neighbours
 
-CLAIM-075 (viability does not establish what ought to persist), which A38
+[CLAIM-075](CLAIM-075.md) (viability does not establish what ought to persist), which A38
 §3 cites for "The selection pressures responsible for institutional
 persistence need not track the standards governing institutional
-legitimacy", an apt cite; CLAIM-280 (a pattern can persist while its
-constituents are replaced); CLAIM-tmph25dl (a constraint's adequacy depends
-on the timescales of the demands it governs); CLAIM-760 (cheaper for some is
+legitimacy", an apt cite; [CLAIM-280](CLAIM-280.md) (a pattern can persist while its
+constituents are replaced); [CLAIM-1104](CLAIM-1104.md) (a constraint's adequacy depends
+on the timescales of the demands it governs); [CLAIM-760](CLAIM-760.md) (cheaper for some is
 not work saved). A40 §4.2 cites Pierson for path dependence; the record
-holds the reading (THEORY-885), which corroborates the claim that
+holds the reading ([THEORY-885](../theory.d/THEORY-885.md)), which corroborates the claim that
 persistence can be explained by increasing returns rather than value.
 
 ## The gap
 
 A38's cost comparison "Excludes uncertainty, discounting and normative
 constraints", as its caption says. Without uncertainty it cannot represent
-the reason conservatives give for caution. CLAIM-tmp8mpgs adds it, and
+the reason conservatives give for caution. [CLAIM-tmp8mpgs](CLAIM-tmp8mpgs.md) adds it, and
 finds that the scrutiny is symmetric only once irreversibility is priced on
 both sides.

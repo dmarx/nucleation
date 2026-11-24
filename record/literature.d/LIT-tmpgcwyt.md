@@ -31,8 +31,8 @@ summary: >-
   Systemic Normativity" (ChatGPT) for how "investments specialized to a
   relationship can create opportunities for opportunistic appropriation";
   unverified until read. The standard source for the hold-up route to
-  produced dependence that CLAIM-670's note of 2026-11-17 relays, and for
-  the bargaining step in CLAIM-tmp2jhc1.
+  produced dependence that [CLAIM-670](../claims.d/CLAIM-670.md)'s note of 2026-11-17 relays, and for
+  the bargaining step in [CLAIM-tmp2jhc1](../claims.d/CLAIM-tmp2jhc1.md).
 ---
 
 <!-- inactive-ok-file: CLAIM-670 CLAIM-tmp2jhc1 â€” Proposed; the held claim whose hold-up note had no source, and the claim filed with this from A24 -->
@@ -48,5 +48,5 @@ Klein, Crawford and Alchian (1978), The Journal of Law and Economics 21(2):297â€
 ## Standing in the record
 
 Registered as a source for the hold-up problem, which the record relays on
-CLAIM-670 without a held source. What A22 says of it is unverified until
+[CLAIM-670](../claims.d/CLAIM-670.md) without a held source. What A22 says of it is unverified until
 read.

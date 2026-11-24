@@ -36,14 +36,14 @@ summary: >-
   distinctions about a process that another process can use to make
   consequential interventions upon it", and argues that investments in
   observability "amortize the cost of cooperation and the cost of coercion".
-  Held nearby: epistemic power as a separable dimension (CLAIM-678), a
-  stabilized constraint as stored work (CLAIM-761), James et al.'s access
-  through inclusion (THEORY-857). The wording is A's (ChatGPT, in the exchange
+  Held nearby: epistemic power as a separable dimension ([CLAIM-678](CLAIM-678.md)), a
+  stabilized constraint as stored work ([CLAIM-761](CLAIM-761.md)), James et al.'s access
+  through inclusion ([THEORY-857](../theory.d/THEORY-857.md)). The wording is A's (ChatGPT, in the exchange
   "Memes, Contracts, and Systemic Normativity"); adopting it is the owner's
   call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp9xge5 CLAIM-682 CLAIM-736 THEORY-857 CLAIM-tmpjg4h2 CLAIM-545 LIT-tmp27hah — Proposed or Deferred; the owner's thesis, the held parts and Carpenter, registered unread -->
+<!-- inactive-ok-file: CLAIM-682 CLAIM-736 THEORY-857 CLAIM-1117 LIT-tmp27hah — Proposed or Deferred; the owner's thesis, the held parts and Carpenter, registered unread -->
 
 # CLAIM-tmplm3mz: Making a process legible to another lowers that other's cost of discriminating among the process's circumstances and intervening on it, whatever the purpose of the intervention, so an investment in observability cheapens coercion as well as cooperation, its savings can go to different parties, and an authority unchanged in law grows more consequential when monitoring cheapens its exercise
 
@@ -70,7 +70,7 @@ discrimination, behavioural histories with personalized assistance and
 manipulative influence, performance measurement with accountability and
 disciplinary pressure. "Legibility is thus a form of stored work whose
 value depends upon the authority and objectives of those able to invoke
-it", which is CLAIM-761's stored work, and CLAIM-761's warning that "the
+it", which is [CLAIM-761](CLAIM-761.md)'s stored work, and [CLAIM-761](CLAIM-761.md)'s warning that "the
 persistence that buys it can entrench".
 
 A42 states the monotonicity with its limit: "Under fixed dynamics, goals,
@@ -80,7 +80,7 @@ ignore it. But actual monitoring systems impose costs and change behavior,
 so this monotonicity does not generally hold for their full lifecycle." The
 first sentence is the textbook result that free information has
 non-negative value to a single decision-maker; the second is
-CLAIM-tmpefeb7's mechanism.
+[CLAIM-tmpefeb7](CLAIM-tmpefeb7.md)'s mechanism.
 
 ## Consequences A42 draws
 
@@ -88,21 +88,21 @@ CLAIM-tmpefeb7's mechanism.
   may become far more consequential when new monitoring technology reduces
   its intervention costs. The legal specification has not necessarily
   changed, but the control surface has." Carpenter v. United States
-  (LIT-tmp27hah, Deferred) is its example of legibility produced by ordinary
+  ([LIT-tmp27hah](../literature.d/LIT-tmp27hah.md), Deferred) is its example of legibility produced by ordinary
   dependence on infrastructure.
 - **Asymmetric epistemic enablement (§12).** An informational intervention
   can give ΔF_A > 0 and ΔV_B < 0, the governing process's inquiry frontier
   growing while the dependent's viable reach shrinks; "Surveillance can
-  supply a mechanism for maintaining" the asymmetry of CLAIM-736's contained
+  supply a mechanism for maintaining" the asymmetry of [CLAIM-736](CLAIM-736.md)'s contained
   opposition.
 - **The domination conditions (§4).** Legibility can intensify all three of
-  CLAIM-682's conditions; that is noted on CLAIM-682.
+  [CLAIM-682](CLAIM-682.md)'s conditions; that is noted on [CLAIM-682](CLAIM-682.md).
 
 ## What is held and what is added
 
-CLAIM-678 holds epistemic power as a dimension separable from operational
-and economic power; TERM-064 holds direction and "not free to the observed";
-THEORY-857 holds one remedy whose access runs both ways. What this adds is
+[CLAIM-678](CLAIM-678.md) holds epistemic power as a dimension separable from operational
+and economic power; [TERM-064](../terms.d/TERM-064.md) holds direction and "not free to the observed";
+[THEORY-857](../theory.d/THEORY-857.md) holds one remedy whose access runs both ways. What this adds is
 the purpose-blindness of the saving and its consequence for an unchanged
 authority. Who pays for the legibility, which A42 leaves open ("may accrue
-to different parties"), is CLAIM-tmpjg4h2's and TERM-064's.
+to different parties"), is [CLAIM-1117](CLAIM-1117.md)'s and [TERM-064](../terms.d/TERM-064.md)'s.

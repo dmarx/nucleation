@@ -29,8 +29,8 @@ summary: >-
   Normativity" (ChatGPT): A38 §8 quotes it, "A state without the means
   of some change is without the means of its conservation", and A38 §3
   cites it for Burke's recognizing "the importance of change to
-  preservation". It bears on the conservatism critique (CLAIM-tmplc0vv)
-  and the objection to it (CLAIM-tmpdzcj6), which uses the next
+  preservation". It bears on the conservatism critique ([CLAIM-tmplc0vv](../claims.d/CLAIM-tmplc0vv.md))
+  and the objection to it ([CLAIM-tmpdzcj6](../claims.d/CLAIM-tmpdzcj6.md)), which uses the next
   sentence: "The two principles of conservation and correction operated
   strongly at the two critical periods of the Restoration and
   Revolution". What the exchange says of it is unverified until read.

@@ -48,7 +48,7 @@ summary: >-
   it is the owner's call.
 ---
 
-<!-- inactive-ok-file: TERM-123 CLAIM-713 CLAIM-700 CLAIM-744 CLAIM-tmp0i6c0 LIT-tmp4wo8i — Proposed or Deferred; the term, the held claims on exploited commitment, compensation and waiting, the claim, work and lead filed with this -->
+<!-- inactive-ok-file: TERM-123 CLAIM-713 CLAIM-700 CLAIM-744 LIT-tmp4wo8i — Proposed or Deferred; the term, the held claims on exploited commitment, compensation and waiting, the claim, work and lead filed with this -->
 
 # CLAIM-tmp8bimm: Cooperation yields a regulatory surplus, the monitoring, verification, contingency planning and conflict resolution that reliance makes unnecessary, and the surplus can be captured asymmetrically: as the relationship comes to rest on the party better at maintaining it, the other can divest its own regulatory capacity while the first keeps bearing the cost, under the same visible harmony as a relationship that shares it
 
@@ -91,20 +91,20 @@ participant may need to invest in its maintenance."
 
 ## Relation to the record
 
-- CLAIM-713 holds the commitment side: a moral commitment is exploitable
+- [CLAIM-713](CLAIM-713.md) holds the commitment side: a moral commitment is exploitable
   because the committed party reliably acts on it. This claim names what is
   captured when it is: the regulatory work the other party no longer has to
   do.
-- CLAIM-700 holds the loop that hides it: conscientious compensation read
+- [CLAIM-700](CLAIM-700.md) holds the loop that hides it: conscientious compensation read
   as adequacy, and resources cut to what the present configuration needs.
   A22 §11's "hidden regulatory subsidy" (100 units of work, 85 funded, 15
   supplied by a constituent) restates that loop.
-- CLAIM-744 holds A22 §10's "Patience" row: whether waiting for a benefit
+- [CLAIM-744](CLAIM-744.md) holds A22 §10's "Patience" row: whether waiting for a benefit
   another controls is good judgment depends on the controller's
   reliability.
 - Gouldner's 1960 paper on the norm of reciprocity, which A22 §10 cites
   for connecting reciprocity, functional organization and exploitation, is
-  registered (LIT-tmp4wo8i, not read).
+  registered ([LIT-tmp4wo8i](../literature.d/LIT-tmp4wo8i.md), not read).
 
 ## What it does not say
 
@@ -112,7 +112,7 @@ participant may need to invest in its maintenance."
   necessarily exploitation; it could be a fair division of labor. The
   distinction requires examining the terms, benefits, burdens and
   distribution of control." Exploitation is a verdict relative to a
-  declared standard (TERM-123); A24 §8 calls this "a candidate mechanism
+  declared standard ([TERM-123](../terms.d/TERM-123.md)); A24 §8 calls this "a candidate mechanism
   for **regulatory exploitation**, under the appropriate normative
   conditions".
 - Not that the accommodating party should accommodate less. A22 §20: "the

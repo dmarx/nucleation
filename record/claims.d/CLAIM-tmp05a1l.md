@@ -34,7 +34,7 @@ summary: >-
   relationships." Read here as exposure to risk: relied-upon expectations
   are an exposure, and they are what create the opportunity exploitation
   uses. The other reading, exposure as revelation, is the alternative
-  CLAIM-tmppx64t. Filed in the owner's voice, as one of two alternatives
+  [CLAIM-tmppx64t](CLAIM-tmppx64t.md). Filed in the owner's voice, as one of two alternatives
   for the owner to choose between.
 ---
 
@@ -52,7 +52,7 @@ opposrtunities for asymmetric relationships."
 **Alternative (a) of two.** "Expose" can mean *leave open to harm* or *make
 visible*. On this reading, the first:
 
-1. The route of CLAIM-tmp0d1fq, from observed behaviour through expectation
+1. The route of [CLAIM-tmp0d1fq](CLAIM-tmp0d1fq.md), from observed behaviour through expectation
    to dependence, and its extension to norms, leaves some parties relying on
    others' expected behaviour.
 2. A relied-upon expectation is an exposure: the relying party now has
@@ -68,15 +68,15 @@ contracting and norm formation produce, not as something from outside them.
 
 - Not that reliance is exploitation, or that every asymmetry is. Whether
   an asymmetry exploits is a verdict relative to a declared standard
-  (TERM-123).
+  ([TERM-123](../terms.d/TERM-123.md)).
 - Not which party is exposed. A22 §7 found both: the relying party, when
-  the provider can set terms on what it now needs (CLAIM-670), and the
+  the provider can set terms on what it now needs ([CLAIM-670](CLAIM-670.md)), and the
   relied-upon party, when its reliable commitment is what is captured
-  (CLAIM-713).
+  ([CLAIM-713](CLAIM-713.md)).
 
 ## Standing
 
 Proposed, the owner's, filed as one of two readings of U17. The other,
-CLAIM-tmppx64t, reads "expose" as reveal. The two are compatible as
+[CLAIM-tmppx64t](CLAIM-tmppx64t.md), reads "expose" as reveal. The two are compatible as
 claims, but they say different things and would be developed differently;
 the owner chooses which U17 meant, or keeps both.

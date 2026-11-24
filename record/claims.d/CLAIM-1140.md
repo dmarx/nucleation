@@ -109,28 +109,28 @@ their contracts require. Neither needs to be incompetent, irrational or
 malicious. Nevertheless, their contractual composition produces an
 epistemic pathology. If there is no seed evidence or alternative route,
 neither process can discharge the condition on which the other depends.
-This is structurally analogous to deadlock." The remedy is CLAIM-tmp3l7is's
+This is structurally analogous to deadlock." The remedy is [CLAIM-1016](CLAIM-1016.md)'s
 change of unit: "A standing exploratory allocation can break the circular
 dependency", which "does not guarantee that the inquiry will prove
 worthwhile. It makes discovering whether it is worthwhile organizationally
-possible." It names CASE-tmp1ptqp, by its code on main, as the design that
-would test it. Bearing: an analogy (CLAIM-tmpzuzeh's catalogue), no edge.
+possible." It names [CASE-388](../cases.d/CASE-388.md), by its code on main, as the design that
+would test it. Bearing: an analogy ([CLAIM-tmpzuzeh](CLAIM-tmpzuzeh.md)'s catalogue), no edge.
 The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A6 §6
 
 A6 §6 cites this claim, by its code on main, accurately, "a circular
 dependency" of evidence of value, authorization and inquiry resources,
-and sets it beside David Hess's Undone Science (2016; LIT-tmpw0gbn,
+and sets it beside David Hess's Undone Science (2016; [LIT-tmpw0gbn](../literature.d/LIT-tmpw0gbn.md),
 registered unread): "research that is systematically neglected despite
 its potential social value". "Here ignorance is not simply an invariant
 of interpretation. It arises from the structure of reachable epistemic
-histories." It is the investigative form of ignorance in TERM-tmp9mag8.
+histories." It is the investigative form of ignorance in [TERM-tmp9mag8](../terms.d/TERM-tmp9mag8.md).
 Bearing: a parallel in outside literature, no edge until Hess is read.
 The claim is unchanged. The wording of this note is the assistant's
 (Claude, in this session), reporting A's (ChatGPT's) text; adopting what
 it reports is the owner's call.
 
-<!-- inactive-ok-file: CASE-tmp1ptqp CLAIM-tmpzuzeh — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->
+<!-- inactive-ok-file: CASE-388 CLAIM-tmpzuzeh — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->
 
 <!-- inactive-ok-file: LIT-tmpw0gbn TERM-tmp9mag8 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

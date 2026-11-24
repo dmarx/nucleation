@@ -24,12 +24,12 @@ uses:
 summary: >-
   A10 §2 and §9 of the exchange "Memes, Contracts, and Systemic
   Normativity" (ChatGPT, 2026-11-24), at the owner's U9 ("relate to
-  hyperstition"). CLAIM-426 holds that a judgement's circulation can help
+  hyperstition"). [CLAIM-426](CLAIM-426.md) holds that a judgement's circulation can help
   bring about what it says; it does not say whether what is brought about
   needs the circulation to continue. A10 separates the two outcomes and
   calls distinguishing them "a central research question". The condition
   under which the first holds, in A10's own model, is the assistant's
-  CLAIM-tmpnws9d. The wording is A's (ChatGPT, in the exchange 'Memes,
+  [CLAIM-tmpnws9d](CLAIM-tmpnws9d.md). The wording is A's (ChatGPT, in the exchange 'Memes,
   Contracts, and Systemic Normativity'); adopting it is the owner's call.
 ---
 
@@ -57,13 +57,13 @@ hyperstition might ultimately produce something that no longer needs to be
 believed in order to exist. The reverse is also possible: an organization
 might remain dependent on the continued circulation of the representation
 that sustains it. Distinguishing these outcomes would be a central research
-question." A10 ties it to TERM-100's formation and maintenance provenance
+question." A10 ties it to [TERM-100](../terms.d/TERM-100.md)'s formation and maintenance provenance
 and to the record's transient-support line.
 
-**What the record holds.** CLAIM-426 holds the circuit and Land's
-definition (NOTE-1378): circulation can help bring about what a judgement
-says. TERM-100 holds the two provenances and the test for the second,
-knockouts of what upholds the capacity now. CASE-189's second construction
+**What the record holds.** [CLAIM-426](CLAIM-426.md) holds the circuit and Land's
+definition ([NOTE-1378](../notes.d/NOTE-1378.md)): circulation can help bring about what a judgement
+says. [TERM-100](../terms.d/TERM-100.md) holds the two provenances and the test for the second,
+knockouts of what upholds the capacity now. [CASE-189](../cases.d/CASE-189.md)'s second construction
 is the shape of the first outcome in another setting: a transient
 encounter forms a connector that is then maintained by what it enables.
 The claim puts these together for a representation's circulation: its
@@ -75,7 +75,7 @@ withdrawal of circulation after formation is the knockout that tells which.
 
 - **Not that persistence vindicates the representation.** A realization
   that outlasts its fiction does not make the fiction true when it
-  circulated (CLAIM-402, CLAIM-426's "not of whether it was right").
+  circulated ([CLAIM-402](CLAIM-402.md), [CLAIM-426](CLAIM-426.md)'s "not of whether it was right").
 - **Not that withdrawal is easy to observe.** A representation that has
   stopped circulating may persist in institutions' rules, which are a
   second channel; the test needs the representation's every channel

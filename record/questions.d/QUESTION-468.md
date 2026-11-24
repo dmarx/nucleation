@@ -217,7 +217,7 @@ The question stays Open.
 
 A22 §19 (ChatGPT, 2026-11-24) answers the first part of the question, what
 separates exploitation from dependence, with three levels, keeping the
-record's restriction of moral exploitation to TERM-123:
+record's restriction of moral exploitation to [TERM-123](../terms.d/TERM-123.md):
 
 | Level | A22's characterization |
 |---|---|
@@ -235,8 +235,8 @@ attributing moral duties or moral patienthood to their constituents."
 This is a sorting of the question's terms, not an answer to its second and
 third parts, which standard and who answers. The filing of 2026-11-24 adds
 four claims that bear on the question: the owner's U17, filed as two
-readings (CLAIM-tmp05a1l, reliance as exposure; CLAIM-tmppx64t, exploitation
+readings ([CLAIM-tmp05a1l](../claims.d/CLAIM-tmp05a1l.md), reliance as exposure; [CLAIM-tmppx64t](../claims.d/CLAIM-tmppx64t.md), exploitation
 as revelation); identification of an implicit contract by perturbation
-rather than routine behaviour (CLAIM-tmp1nubb); and the regulatory surplus
-whose capture is a candidate mechanism of exploitation (CLAIM-tmp8bimm).
+rather than routine behaviour ([CLAIM-tmp1nubb](../claims.d/CLAIM-tmp1nubb.md)); and the regulatory surplus
+whose capture is a candidate mechanism of exploitation ([CLAIM-tmp8bimm](../claims.d/CLAIM-tmp8bimm.md)).
 The question stays Open.

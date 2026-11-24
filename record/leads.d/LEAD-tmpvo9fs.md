@@ -20,7 +20,7 @@ summary: >-
   Normativity" (2026-11-24): "An important empirical test would ask whether
   corrective processes remain effective when their findings conflict with
   the interests of the authority controlling them." It is the test that
-  decides the unitary-executive critique where CLAIM-tmpqhxsz narrows it.
+  decides the unitary-executive critique where [CLAIM-tmpqhxsz](../claims.d/CLAIM-tmpqhxsz.md) narrows it.
   The wording is A's (ChatGPT, in the exchange "Memes, Contracts, and
   Systemic Normativity"); adopting it is the owner's call.
 ---
@@ -40,10 +40,10 @@ reliance and behavior."
 ## What it would settle
 
 Whether control of a corrective process correlates its failures with the
-controller's interests (CLAIM-tmplc4m8), and for which correctives
-(CLAIM-tmpqhxsz): inside the executive, such as inspectors general and
+controller's interests ([CLAIM-tmplc4m8](../claims.d/CLAIM-tmplc4m8.md)), and for which correctives
+([CLAIM-tmpqhxsz](../claims.d/CLAIM-tmpqhxsz.md)): inside the executive, such as inspectors general and
 independent commissions, and outside it but dependent on its evidence or
-enforcement (CLAIM-404's informational route).
+enforcement ([CLAIM-404](../claims.d/CLAIM-404.md)'s informational route).
 
 ## What it needs first
 

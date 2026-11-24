@@ -70,10 +70,10 @@ determines how that precedence is granted."
 
 ## Where the record stands
 
-CLAIM-358 holds that a recurring conflict admitting a stable accommodation
-can be settled locally at lower amortized cost; CLAIM-443 models the
+[CLAIM-358](CLAIM-358.md) holds that a recurring conflict admitting a stable accommodation
+can be settled locally at lower amortized cost; [CLAIM-443](CLAIM-443.md) models the
 learned prior over which processes govern. The claim adds the reading of
-the settled accommodation as a contract with assumptions (CLAIM-tmp7hqtl,
+the settled accommodation as a contract with assumptions ([CLAIM-tmp7hqtl](CLAIM-tmp7hqtl.md),
 A16 §6's A), so that a misfire is the contract run outside them. The
 exchange's earlier turns on heuristics and biases (U10–U12) are filed with
 their own codes; the closing pass relates this to them.

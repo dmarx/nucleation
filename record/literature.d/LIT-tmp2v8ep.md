@@ -18,7 +18,7 @@ published: '2019-10-25'
 doi: '10.1126/science.aax2342'
 first_author: 'Obermeyer'
 summary: >-
-  Cited by A44 §8 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): an algorithm that predicted healthcare expenditure as a proxy for need underestimated Black patients' needs, because less had been spent on them at comparable illness. A44 calls it "almost an ideal empirical example of CLAIM-348": the proxy imports past allocation into future access. It bears on CLAIM-348 and TERM-108. Unverified until read.
+  Cited by A44 §8 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): an algorithm that predicted healthcare expenditure as a proxy for need underestimated Black patients' needs, because less had been spent on them at comparable illness. A44 calls it "almost an ideal empirical example of [CLAIM-348](../claims.d/CLAIM-348.md)": the proxy imports past allocation into future access. It bears on [CLAIM-348](../claims.d/CLAIM-348.md) and [TERM-108](../terms.d/TERM-108.md). Unverified until read.
 ---
 
 <!-- inactive-ok-file: TERM-108 — Proposed or new; the entries this registration bears on -->
@@ -31,4 +31,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. Cited by A44 §8 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): an algorithm that predicted healthcare expenditure as a proxy for need underestimated Black patients' needs, because less had been spent on them at comparable illness. A44 calls it "almost an ideal empirical example of CLAIM-348": the proxy imports past allocation into future access. It bears on CLAIM-348 and TERM-108. Unverified until read.
+Deferred. Cited by A44 §8 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24): an algorithm that predicted healthcare expenditure as a proxy for need underestimated Black patients' needs, because less had been spent on them at comparable illness. A44 calls it "almost an ideal empirical example of [CLAIM-348](../claims.d/CLAIM-348.md)": the proxy imports past allocation into future access. It bears on [CLAIM-348](../claims.d/CLAIM-348.md) and [TERM-108](../terms.d/TERM-108.md). Unverified until read.

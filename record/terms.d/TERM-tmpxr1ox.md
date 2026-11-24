@@ -18,8 +18,8 @@ summary: >-
   Normativity" (2026-11-24), "greedy agency", with A46 §2's two senses; A48 §9
   uses them to say that Jensen's enlightened value maximization answers
   temporal and not jurisdictional greed. Jurisdictional greed is a failure of
-  TERM-122's cross-scale concordance by a constituent; the proxy it serves can
-  be TERM-108's. The name borrows the greedy algorithm, which fits the
+  [TERM-122](TERM-122.md)'s cross-scale concordance by a constituent; the proxy it serves can
+  be [TERM-108](TERM-108.md)'s. The name borrows the greedy algorithm, which fits the
   temporal sense only. The definitions are A46's: The wording is A's (ChatGPT,
   in the exchange "Memes, Contracts, and Systemic Normativity"); adopting it
   is the owner's call.
@@ -58,10 +58,10 @@ recovery and exploration."
 
 ## Use
 
-A48 §9, on Jensen (LIT-tmpo2igd): enlightened value maximization "addresses
+A48 §9, on Jensen ([LIT-tmpo2igd](../literature.d/LIT-tmpo2igd.md)): enlightened value maximization "addresses
 an important dimension of greedy agency: temporal short-sightedness. But
 it does not necessarily resolve jurisdictional greediness." Used by
-CLAIM-tmpa61rf and CLAIM-tmpjnly0 ("This is where greedy agency becomes
+[CLAIM-tmpa61rf](../claims.d/CLAIM-tmpa61rf.md) and [CLAIM-tmpjnly0](../claims.d/CLAIM-tmpjnly0.md) ("This is where greedy agency becomes
 reflexive control").
 
 ## Not to be confused with
@@ -72,14 +72,14 @@ reflexive control").
   optimizing processes are not inherently pathological. Their adequacy
   depends on the architecture of constraints within which their activity
   occurs."
-- **A proxy objective** (TERM-108): greed is about whose demands govern, a
+- **A proxy objective** ([TERM-108](TERM-108.md)): greed is about whose demands govern, a
   proxy about whether the measure tracks the outcome. An agent can be
   greedy on the true outcome of its own.
-- **Failure of cross-scale concordance** (TERM-122), which is the
+- **Failure of cross-scale concordance** ([TERM-122](TERM-122.md)), which is the
   encompassing organization's property; jurisdictional greed is a
   constituent's way of producing that failure.
 
 The owner's companion phrase, "measurement naivety", is not given a term:
 A46 §1's six forms (representational, statistical, causal, performative,
-organizational and normative naivety) are each held, at TERM-108,
-CLAIM-348, CLAIM-402 and CLAIM-060.
+organizational and normative naivety) are each held, at [TERM-108](TERM-108.md),
+[CLAIM-348](../claims.d/CLAIM-348.md), [CLAIM-402](../claims.d/CLAIM-402.md) and [CLAIM-060](../claims.d/CLAIM-060.md).

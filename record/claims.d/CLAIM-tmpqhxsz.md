@@ -23,14 +23,14 @@ line:
 - rightful-power
 - will-organization
 summary: >-
-  A gap fill (ADR-137) for the exchange "Memes, Contracts, and Systemic
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for the exchange "Memes, Contracts, and Systemic
   Normativity" (2026-11-24): the reply unitary executive theory's defenders
-  would make to A38 §2 and A40 §3 (CLAIM-tmplc4m8), which the exchange does
+  would make to A38 §2 and A40 §3 ([CLAIM-tmplc4m8](CLAIM-tmplc4m8.md)), which the exchange does
   not engage. It marks A38's statement of the theory's assumption as a
   partial strawman (A's prose description of the theory is accurate) and
   narrows the critique to correctives inside the executive. The defenders'
   statements are from the assistant's knowledge, unverified until read
-  (LEAD-tmpdy0f8), except Federalist No. 70, checked. The wording is the
+  ([LEAD-tmpdy0f8](../leads.d/LEAD-tmpdy0f8.md)), except Federalist No. 70, checked. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
@@ -42,13 +42,13 @@ summary: >-
 
 A38's table states the theory's assumption as "Effective unity of executive
 action requires hierarchical unity of governing authority", and answers it
-with "The first four do not logically entail the fifth" (CLAIM-tmp1wlu2).
+with "The first four do not logically entail the fifth" ([CLAIM-tmp1wlu2](CLAIM-tmp1wlu2.md)).
 The theory's defenders do not argue from that assumption, and the exchange
 does not meet the argument they do make.
 
 ## The defenders' statements
 
-From the assistant's knowledge; unverified until read (LEAD-tmpdy0f8),
+From the assistant's knowledge; unverified until read ([LEAD-tmpdy0f8](../leads.d/LEAD-tmpdy0f8.md)),
 except where checked.
 
 - **Text.** The case of Calabresi and Prakash ("The President's Power to
@@ -58,7 +58,7 @@ except where checked.
   the laws' execution. Its force does not depend on any claim about what
   effective unity requires.
 - **Accountability.** The functional rationale is Hamilton's, in Federalist
-  No. 70 (LIT-tmp4cqb2), which A38 cites for "energy, unity and
+  No. 70 ([LIT-tmp4cqb2](../literature.d/LIT-tmp4cqb2.md)), which A38 cites for "energy, unity and
   responsibility": a plural executive "tends to conceal faults and destroy
   responsibility" (checked against the Avalon Project text). The claim is
   not that unity of authority is entailed by unity of accountability, but
@@ -84,9 +84,9 @@ That holds, and the critique has force, for correctives the strong theory
 does put under presidential direction and removal: inspectors general,
 independent regulatory commissions, and prosecutors investigating the
 executive. It holds partly for external correctives, which depend on
-evidence the executive holds and on enforcement it performs: CLAIM-404's
+evidence the executive holds and on enforcement it performs: [CLAIM-404](CLAIM-404.md)'s
 informational route. Each such dependence has to be shown, not assumed;
-A40 §3.4's test (LEAD-tmpvo9fs) is the way to show it.
+A40 §3.4's test ([LEAD-tmpvo9fs](../leads.d/LEAD-tmpvo9fs.md)) is the way to show it.
 
 ## The mark
 
@@ -94,4 +94,4 @@ A38's statement of the theory's assumption is a partial strawman: it
 mislocates the theory's warrant, from text and accountability to a
 functional claim about unity. Its description of strong and weak versions,
 and of the theory's concern with "the structure of authority within the
-executive", is accurate. ARG-tmpz2gmo holds the narrowed inference.
+executive", is accurate. [ARG-tmpz2gmo](../arguments.d/ARG-tmpz2gmo.md) holds the narrowed inference.

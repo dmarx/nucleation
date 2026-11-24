@@ -194,7 +194,7 @@ is unchanged.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A12
 
-A12 §13 cites this claim and QUESTION-053 correctly and lists institutional
+A12 §13 cites this claim and [QUESTION-053](../questions.d/QUESTION-053.md) correctly and lists institutional
 candidates for functional affect: alarm as "Mobilization of resources
 toward perceived threats", frustration as "Maintained demands that cannot
 be jointly realized", ambivalence as "Competing rankings without a

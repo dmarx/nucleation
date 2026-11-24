@@ -18,7 +18,7 @@ published: '2004-01-01'
 url: 'https://digitalcommons.law.uw.edu/wlr/vol79/iss1/10/'
 first_author: 'Nissenbaum'
 summary: >-
-  Cited by A42 §6 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) as the precedent for privacy as "appropriate information flows within particular social contexts, rather than simply ... the absence of disclosure". It bears on CLAIM-tmpp91oy, protected illegibility as an enabling constraint. What A42 says of it is unverified until read.
+  Cited by A42 §6 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) as the precedent for privacy as "appropriate information flows within particular social contexts, rather than simply ... the absence of disclosure". It bears on [CLAIM-tmpp91oy](../claims.d/CLAIM-tmpp91oy.md), protected illegibility as an enabling constraint. What A42 says of it is unverified until read.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpp91oy — Proposed or new; the entries this registration bears on -->
@@ -31,4 +31,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. Cited by A42 §6 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) as the precedent for privacy as "appropriate information flows within particular social contexts, rather than simply ... the absence of disclosure". It bears on CLAIM-tmpp91oy, protected illegibility as an enabling constraint. What A42 says of it is unverified until read.
+Deferred. Cited by A42 §6 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) as the precedent for privacy as "appropriate information flows within particular social contexts, rather than simply ... the absence of disclosure". It bears on [CLAIM-tmpp91oy](../claims.d/CLAIM-tmpp91oy.md), protected illegibility as an enabling constraint. What A42 says of it is unverified until read.

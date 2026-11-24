@@ -339,7 +339,7 @@ persists), but the reading tests neither direction. No status change.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', U2 and A4 §9
 
-The owner's U2, "memes as nucleation sites" (CLAIM-tmp1ng5k), carries this
+The owner's U2, "memes as nucleation sites" ([CLAIM-tmp1ng5k](CLAIM-tmp1ng5k.md)), carries this
 claim's figure to transmitted cultural items. A4 §9 ("Nucleation as its
 own case study") then turns it back on the record without citing this
 claim or its line: "The inquiry itself repeatedly introduces terms,
@@ -349,8 +349,8 @@ measure the generativity of a concept by examining the organizational
 changes following its introduction, rather than merely counting
 references to it", allowing that "increased connectivity reflects
 editorial decisions rather than genuine intellectual reorganization".
-That proposal is held in LEAD-028 (inbound references and turns per
-anchor against drift) and LEAD-199 (revisions before and after an entry's
+That proposal is held in [LEAD-028](../leads.d/LEAD-028.md) (inbound references and turns per
+anchor against drift) and [LEAD-199](../leads.d/LEAD-199.md) (revisions before and after an entry's
 first inbound edge), so no lead is filed. A4 quotes the repository's
 description, "A space for ideas to crystalize amidst an ongoing
 philosophical inquiry." Bearing: a restatement, uncited, no change. The

@@ -230,18 +230,18 @@ A40 §10's fourth candidate claim, "Constitutional persistence does not
 entail constitutional readiness: An organization can successfully maintain
 its operative constraints while diminishing its capacity to discover,
 evaluate and correct their inadequacies", is this claim applied to
-constitutions, with adaptive inquiry readiness (TERM-tmpqixg8) as the third
+constitutions, with adaptive inquiry readiness ([TERM-163](../terms.d/TERM-163.md)) as the third
 capacity. A38 §5 states it as reliability at different reflective orders:
 originalism, executive unity and conservatism each protect one, "But none
 of these achievements alone guarantees the continuing reliability of the
 organization's capacity to investigate and correct itself." Not filed again.
 A's positive term for the capacity to keep valuable relationships through
-transformation is TERM-tmpx4zke. Bearing: a restatement; the claim is
+transformation is [TERM-tmpx4zke](../terms.d/TERM-tmpx4zke.md). Bearing: a restatement; the claim is
 unchanged. The wording of this note is the assistant's (Claude, in this
 session), reporting A's (ChatGPT's) text; adopting what it reports is the
 owner's call.
 
-<!-- inactive-ok-file: TERM-tmpqixg8 TERM-tmpx4zke — Proposed; cited in the note of 2026-11-24 on A40 §10 D from the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
+<!-- inactive-ok-file: TERM-163 TERM-tmpx4zke — Proposed; cited in the note of 2026-11-24 on A40 §10 D from the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A34 §18 and A36 §19
 
@@ -252,12 +252,12 @@ reliability" ("Can it maintain appropriate mechanisms for revising how it
 is governed?"), adding: "These differences are not captured by a single
 uptime measure." A36 §19 extends the list to seven dimensions of "civic
 reliability", adding contractual, epistemic and corrective reliability and
-"Normative governability" (TERM-128), and holds that "These dimensions
+"Normative governability" ([TERM-128](../terms.d/TERM-128.md)), and holds that "These dimensions
 should remain separate."
 
 Bearing: a restatement. That an operative regime, the organization
 governing regimes and the capacity to transform it persist or fail
 separately is this claim; the reliability vocabulary relabels its three
-levels and splits the middle one. The split itself is CLAIM-523's three
-achievements and CLAIM-422's correction, procedure and maintained
+levels and splits the middle one. The split itself is [CLAIM-523](CLAIM-523.md)'s three
+achievements and [CLAIM-422](CLAIM-422.md)'s correction, procedure and maintained
 capacity. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

@@ -56,7 +56,7 @@ protected engineering allocation is consequently a constitutional
 constraint: it preserves resources for the continuing transformation of
 the organization."
 
-The remedy's second half is the SRE book's (CASE-tmphtt17, LIT-tmpeybfl):
+The remedy's second half is the SRE book's ([CASE-tmphtt17](../cases.d/CASE-tmphtt17.md), [LIT-tmpeybfl](../literature.d/LIT-tmpeybfl.md)):
 excess operational work is redirected to the product development teams,
 which "provides an effective feedback mechanism, guiding developers to
 build systems that don’t need manual intervention". A34 §8 reads that
@@ -70,17 +70,17 @@ uncertainty" → "Repeated contingency work" → "Reduced development" →
 mechanism based on documented burdens", citing GAO reports (2022, and a
 2026 report on the Department of Defense) for hiring delays, planning
 uncertainty, administrative burden and increased contracting costs. Those
-reports are A36's citations, unread here; LEAD-tmps9jkd would read them.
+reports are A36's citations, unread here; [LEAD-tmps9jkd](../leads.d/LEAD-tmps9jkd.md) would read them.
 A36 adds: "Continuing resolutions can also be indispensable fallback
 mechanisms that prevent more severe disruption."
 
 ## What it adds to the record
 
-CLAIM-700 holds that compensation which covers a shortfall is read as
+[CLAIM-700](CLAIM-700.md) holds that compensation which covers a shortfall is read as
 adequacy and resources are cut toward the present configuration; there
 the loop runs through the organization's budgeting. Here no one cuts
-anything: the loop runs inside one budget, by precedence. CLAIM-571 gives
-the threshold for reaching a configuration, and CLAIM-921 the
+anything: the loop runs inside one budget, by precedence. [CLAIM-571](CLAIM-571.md) gives
+the threshold for reaching a configuration, and [CLAIM-921](CLAIM-921.md) the
 utilization-following budget that loses a rarely used capability. The
 claim's own content is the reinforcing loop between reactive work and
 transformation under one budget, and a remedy with two parts.
@@ -90,7 +90,7 @@ transformation under one budget, and a remedy with two parts.
 A34 calls the loop "exactly the kind of resource-bounded organizational
 pathology our theory should explain" and cites only Google's case
 studies. The loop is close to the capability trap of Repenning and
-Sterman (LIT-tmp4c11c, unread; described here from the assistant's knowledge of it): in their system-dynamics account, working
+Sterman ([LIT-tmp4c11c](../literature.d/LIT-tmp4c11c.md), unread; described here from the assistant's knowledge of it): in their system-dynamics account, working
 harder on immediate output crowds out the improvement that would lower
 the need for it, and the shortfall is met by more of the same. A34 §20's
 own defeater, "Nucleation would need to demonstrate explanatory value

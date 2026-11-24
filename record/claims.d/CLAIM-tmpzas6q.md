@@ -29,15 +29,15 @@ grounds:
 summary: >-
   A36 §3 and §5 of the exchange "Memes, Contracts, and Systemic
   Normativity" (ChatGPT, 2026-11-24), carrying the Chubby mechanism
-  (CLAIM-tmpb1wyc) from services to constitutional conventions: "American
+  ([CLAIM-tmpb1wyc](CLAIM-tmpb1wyc.md)) from services to constitutional conventions: "American
   institutions can analogously become dependent upon forms of restraint
   that have historically been reliable but are not independently
-  guaranteed." ARG-tmpmtbby weighs the analogy. The works cited are
+  guaranteed." [ARG-tmpmtbby](../arguments.d/ARG-tmpmtbby.md) weighs the analogy. The works cited are
   unread. The wording is A's (ChatGPT, in the exchange "Memes, Contracts,
   and Systemic Normativity"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: ARG-tmpmtbby CASE-tmpfh2in CLAIM-tmpb1wyc LIT-tmpj8e0r LIT-tmpy59b0 — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
+<!-- inactive-ok-file: ARG-tmpmtbby CASE-tmpfh2in CLAIM-tmpb1wyc LIT-tmpj8e0r — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
 # CLAIM-tmpzas6q: Institutions can come to rely on another institution's historically reliable restraint beyond what law guarantees and stop maintaining alternatives to it, so that a lawful departure from a convention defeats capacities organized around the expectation, and the risk lies less in the departure than in the alternatives the encompassing organization no longer keeps
 
@@ -56,7 +56,7 @@ operation."
 ## Not every departure is a wrong
 
 A36 §5 sorts departures, citing Tushnet's constitutional hardball
-(LIT-tmpj8e0r, unread):
+([LIT-tmpj8e0r](../literature.d/LIT-tmpj8e0r.md), unread):
 
 - "An action may be legally prohibited."
 - "An action may be legally permitted but violate an established
@@ -78,16 +78,16 @@ standing and interdependence".
 
 A36 gives no instance in which institutions are shown to have given up an
 alternative to another's restraint. The one case it works through, the
-two-term tradition (CASE-tmpfh2in), shows a convention breaking and being
+two-term tradition ([CASE-tmpfh2in](../cases.d/CASE-tmpfh2in.md)), shows a convention breaking and being
 made law, not an erosion of fallbacks before the break. What the claim
 needs, and the SRE case has, is the dependents' lost alternative. A
-study of that is one of the six cases of LEAD-tmps9jkd. The section is the
+study of that is one of the six cases of [LEAD-tmps9jkd](../leads.d/LEAD-tmps9jkd.md). The section is the
 assistant's (Claude, in this session); adopting it is the owner's call.
 
 ## Standing
 
-Proposed, in A's voice. It rests on CLAIM-tmpb1wyc by analogy, which
-ARG-tmpmtbby examines. The exchange's account of implicit contracts, of
+Proposed, in A's voice. It rests on [CLAIM-tmpb1wyc](CLAIM-tmpb1wyc.md) by analogy, which
+[ARG-tmpmtbby](../arguments.d/ARG-tmpmtbby.md) examines. The exchange's account of implicit contracts, of
 which A36 calls conventions an instance ("Our theory of implicit contracts
 provides a particularly useful account of constitutional conventions"),
 is filed from U16 onward by another group.

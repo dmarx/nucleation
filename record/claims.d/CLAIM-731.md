@@ -174,10 +174,10 @@ over a relationship without acquiring any new formally recognized
 authority, simply because its preferred modifications become easier to
 realize". A30 §9's table of per-party transition costs makes the same
 point. This extends the claim from decisions to the terms of an implicit
-relationship, through the stateful invocation of CLAIM-tmpsf9hp: an
+relationship, through the stateful invocation of [CLAIM-tmpsf9hp](CLAIM-tmpsf9hp.md): an
 ordinary use can be a modification, so the friction of imposing it can be
 near zero. A related mechanism, control over which relationship an act
-invokes, is CLAIM-tmpro73c. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+invokes, is [CLAIM-tmpro73c](CLAIM-tmpro73c.md). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A36 §7
 
@@ -200,5 +200,5 @@ to suspend can coexist with a costly path to resolution, so that the
 second gap can open on the side of those who contest as well as those who
 impose. A36's table of "Productive friction" against "Pathological
 friction" ("Prevents irreversible mistakes" against "Prevents correction
-of acknowledged deficiencies") is its gloss on CLAIM-710 and CLAIM-711.
+of acknowledged deficiencies") is its gloss on [CLAIM-710](CLAIM-710.md) and [CLAIM-711](CLAIM-711.md).
 No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

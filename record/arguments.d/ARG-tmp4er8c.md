@@ -3,7 +3,7 @@ status: Proposed
 version: 1
 form: analogy
 rests_on:
-- CLAIM-tmpsuj5n
+- CLAIM-1169
 - CLAIM-431
 concludes:
 - CLAIM-tmpa61rf
@@ -19,21 +19,21 @@ summary: >-
   A48 §1 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24) offers "what happens when respecting their justified
   claims ceases to be profitable" as the test between instrumental and
-  normative recognition of non-shareholders (CLAIM-tmpa61rf). The record
+  normative recognition of non-shareholders ([CLAIM-tmpa61rf](../claims.d/CLAIM-tmpa61rf.md)). The record
   already analysed a parallel test for remorse against prudence (CLAIM-
-  tmpsuj5n) and holds an objection to the distinction itself (CLAIM-431).
+  tmpsuj5n) and holds an objection to the distinction itself ([CLAIM-431](../claims.d/CLAIM-431.md)).
   Carried over, they narrow A48's test without defeating it; the conclusion's
-  standing lives in CLAIM-tmpa61rf. The wording is the assistant's (Claude, in
+  standing lives in [CLAIM-tmpa61rf](../claims.d/CLAIM-tmpa61rf.md). The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpsuj5n CLAIM-431 CLAIM-tmpa61rf LEAD-101 LEAD-tmp466iv — Proposed or Open; the premises, the conclusion and the leads -->
+<!-- inactive-ok-file: CLAIM-1169 CLAIM-431 CLAIM-tmpa61rf — Proposed or Open; the premises, the conclusion and the leads -->
 
 # ARG-tmp4er8c: The sanction-lift analysis of remorse and prudence, carried by analogy to A48's test, shows that whether a corporation keeps honouring a party's claim once honouring it stops paying separates normative from instrumental recognition only with reputation and other benefits held fixed
 
 ## The inference
 
-CLAIM-tmpsuj5n: that a corporation changed only by sanction reverts when
+[CLAIM-1169](../claims.d/CLAIM-1169.md): that a corporation changed only by sanction reverts when
 the sanction lifts, and one whose concerns were redesigned does not,
 "separates remorse from prudence only in the redesigned arm and only with
 reputation and benefit held fixed", because a prudent corporation's
@@ -53,17 +53,17 @@ claim had no standing in the corporation's decisions.
 - **Is the analogy close enough?** Yes in the respect that matters: both
   tests read a disposition from conduct after an incentive is removed, and
   both are confounded by the other incentives that persist.
-- **Does CLAIM-431 defeat the test outright?** It says any concern a
+- **Does [CLAIM-431](../claims.d/CLAIM-431.md) defeat the test outright?** It says any concern a
   corporation installs "was put there for its own ends". If so, no
   conduct separates the two and A48's distinction is not observable in
-  corporations. The record holds CLAIM-431 Proposed, against CLAIM-432; this
+  corporations. The record holds [CLAIM-431](../claims.d/CLAIM-431.md) Proposed, against [CLAIM-432](../claims.d/CLAIM-432.md); this
   argument takes the narrower route that both leave open.
-- **Is there a design that meets the condition?** LEAD-101 proposes one for
-  sanctions; LEAD-tmp466iv collects A46's other perturbations.
+- **Is there a design that meets the condition?** [LEAD-101](../leads.d/LEAD-101.md) proposes one for
+  sanctions; [LEAD-tmp466iv](../leads.d/LEAD-tmp466iv.md) collects A46's other perturbations.
 
 ## Verdict
 
-Proposed. It carries CLAIM-tmpa61rf's discriminating prediction in the
+Proposed. It carries [CLAIM-tmpa61rf](../claims.d/CLAIM-tmpa61rf.md)'s discriminating prediction in the
 narrowed form: a corporation that drops a claim-honouring practice once it
 stops paying, with reputation and benefit held fixed, did not recognize the
 claim's standing; one that keeps it is not thereby shown to.

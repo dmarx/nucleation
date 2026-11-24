@@ -10,7 +10,7 @@ history:
     Filed, not read. Checked on 2026-11-24: not held in
     record/literature.d by title, chapter authors (Jones, Wilkes, Murphy),
     or URL; the record holds other chapters of the same book (LIT-2784,
-    LIT-tmpnjnwq). Chapter 4 of Beyer, Jones, Petoff and Murphy (eds.),
+    LIT-3175). Chapter 4 of Beyer, Jones, Petoff and Murphy (eds.),
     Site Reliability Engineering: How Google Runs Production Systems
     (O'Reilly, 2016), written by Chris Jones, John Wilkes and Niall Murphy
     with Cody Smith, edited by Betsy Beyer, as the page gives it. No DOI;
@@ -36,7 +36,7 @@ summary: >-
   performance. The objective specifies acceptable performance. The
   agreement establishes consequences when performance fails to meet the
   objective", which it maps onto the record's vocabulary in developing the
-  owner's U14 (CLAIM-tmpkvzcn). What A16 says of it is unverified until
+  owner's U14 ([CLAIM-tmpkvzcn](../claims.d/CLAIM-tmpkvzcn.md)). What A16 says of it is unverified until
   read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpkvzcn TERM-tmpgiy6r — Proposed; cited as filed or held beside this entry, whatever its standing -->
@@ -52,5 +52,5 @@ Chris Jones, John Wilkes and Niall Murphy (2016). "Service Level Objectives". Ch
 ## Standing in the record
 
 Registered as the source of the SLI, SLO and SLA distinction that A16
-uses to develop the owner's contracts between processes (CLAIM-tmpkvzcn,
-TERM-tmpgiy6r).
+uses to develop the owner's contracts between processes ([CLAIM-tmpkvzcn](../claims.d/CLAIM-tmpkvzcn.md),
+[TERM-tmpgiy6r](../terms.d/TERM-tmpgiy6r.md)).

@@ -51,7 +51,7 @@ summary: >-
   call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmphq6hp CLAIM-785 CLAIM-tmp1nubb — Proposed; the operative-norm claim filed with this and the held claim on predicates as constraints -->
+<!-- inactive-ok-file: CLAIM-785 CLAIM-tmp1nubb — Proposed; the operative-norm claim filed with this and the held claim on predicates as constraints -->
 
 # CLAIM-tmpjg5gx: A norm can be stabilized by the reliance it attracts: compliance makes a practice predictable, others specialize around it, and their stake in its continuation funds its maintenance, which raises compliance, so a practice established past a threshold can persist where a weakly established one would not, and can outlast a weakening of the reasons that first supported it
 
@@ -120,15 +120,15 @@ state exists at any baseline the reasons' loss leaves.
 - Not that the model forms a standard. A22 §5: "The model does not
   demonstrate endogenous formation of a standard of correctness: its
   maintenance rule is supplied by the modeler. It demonstrates a candidate
-  stabilization mechanism." That leaves QUESTION-128 where it was.
+  stabilization mechanism." That leaves [QUESTION-128](../questions.d/QUESTION-128.md) where it was.
 - Not that reliance is the only stabilizer. A22 §16 lists seven
-  mechanisms that can produce the same compliance (CLAIM-tmp1nubb).
+  mechanisms that can produce the same compliance ([CLAIM-tmp1nubb](CLAIM-tmp1nubb.md)).
 
 ## Relation to the record
 
-CLAIM-277's loop, trust as the regularity of grants that "entrenches
+[CLAIM-277](CLAIM-277.md)'s loop, trust as the regularity of grants that "entrenches
 whatever gained influence early", is the same shape applied to authority
-among processes. CLAIM-785's accrual of predicates, which stabilizes an
+among processes. [CLAIM-785](CLAIM-785.md)'s accrual of predicates, which stabilizes an
 entry "from prose convention to lint rule", is A22 §4's example of a norm
 "more strongly realized through its progressive incorporation into an
 organization's material and procedural architecture".

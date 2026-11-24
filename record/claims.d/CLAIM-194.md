@@ -227,7 +227,7 @@ by an outside coupling, a beam between two pendulums; no observer is
 involved, and the claim says a criterion fails, not that it draws the
 distinction. What A42 builds on, "A meaningful organizational boundary may
 involve the capacity to regulate exchange across it, including
-informational exchange", is THEORY-1119's interactional asymmetry, which
+informational exchange", is [THEORY-1119](../theory.d/THEORY-1119.md)'s interactional asymmetry, which
 this claim's note of 2026-10-21 names; the informational extension is A42's
-own and is filed in CLAIM-tmpp91oy. Bearing: miscitation; the claim is
+own and is filed in [CLAIM-tmpp91oy](CLAIM-tmpp91oy.md). Bearing: miscitation; the claim is
 unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

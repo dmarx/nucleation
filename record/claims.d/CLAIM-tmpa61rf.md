@@ -32,19 +32,19 @@ complements:
 title: "To have standing toward an agent is to have claims that can constrain what it is entitled to optimize, not only to enter its objective, so an organizational objective that admits other parties only through their contribution to it excludes their standing whatever it knows of them, and a specialized objective such as shareholder value is legitimate only so far as the outside governance it relies on to supply those constraints is adequate"
 summary: >-
   A48 §§1–5 and 14–15 of the exchange "Memes, Contracts, and Systemic
-  Normativity" (ChatGPT, 2026-11-24), on the owner's U30 (CLAIM-tmpbucep). A48
+  Normativity" (ChatGPT, 2026-11-24), on the owner's U30 ([CLAIM-tmpbucep](CLAIM-tmpbucep.md)). A48
   §14 is offered as a candidate synthesis; it is admitted here by a
-  discriminating prediction, which ARG-tmp4er8c narrows: instrumental and
+  discriminating prediction, which [ARG-tmp4er8c](../arguments.d/ARG-tmp4er8c.md) narrows: instrumental and
   constrained recognition part only when honouring a claim stops paying, with
   reputation and other benefits held fixed. Held nearby: claimed precedence
-  against granted authority (CLAIM-283), rights against demands and
-  commitments (CLAIM-738), directed answerability (CLAIM-739), and the
-  counterweight CLAIM-749. The wording is A's (ChatGPT, in the exchange
+  against granted authority ([CLAIM-283](CLAIM-283.md)), rights against demands and
+  commitments ([CLAIM-738](CLAIM-738.md)), directed answerability ([CLAIM-739](CLAIM-739.md)), and the
+  counterweight [CLAIM-749](CLAIM-749.md). The wording is A's (ChatGPT, in the exchange
   "Memes, Contracts, and Systemic Normativity"); adopting it is the owner's
   call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpbucep CLAIM-739 CLAIM-tmptrn75 CLAIM-tmpjnly0 TERM-083 TERM-tmpxr1ox ARG-tmp4er8c CLAIM-tmpsuj5n CLAIM-431 CLAIM-728 LIT-tmpeegs9 LIT-tmpu1amh LIT-tmpdaunm LIT-tmpo2igd — Proposed or Deferred; the owner's thesis, the neighbours, the argument and the works A48 cites, unread -->
+<!-- inactive-ok-file: CLAIM-tmpbucep CLAIM-739 CLAIM-tmpjnly0 TERM-tmpxr1ox ARG-tmp4er8c CLAIM-1169 CLAIM-431 CLAIM-728 LIT-tmpeegs9 LIT-tmpu1amh LIT-tmpdaunm LIT-tmpo2igd — Proposed or Deferred; the owner's thesis, the neighbours, the argument and the works A48 cites, unread -->
 
 # CLAIM-tmpa61rf: To have standing toward an agent is to have claims that can constrain what it is entitled to optimize, not only to enter its objective, so an organizational objective that admits other parties only through their contribution to it excludes their standing whatever it knows of them, and a specialized objective such as shareholder value is legitimate only so far as the outside governance it relies on to supply those constraints is adequate
 
@@ -63,7 +63,7 @@ normatively restrictive when it recognizes the first column for
 non-shareholders while denying the independent significance of the
 second." "The discriminating test concerns what happens when respecting
 their justified claims ceases to be profitable." Donaldson and Preston
-(LIT-tmpeegs9, Deferred) are its precedent.
+([LIT-tmpeegs9](../literature.d/LIT-tmpeegs9.md), Deferred) are its precedent.
 
 **An objective as a rule of eligibility (§2).** Adopted as the final
 criterion, shareholder value "becomes a **meta-principle governing which
@@ -72,7 +72,7 @@ perspectives can acquire authority only by demonstrating their
 contribution to shareholder value, their normative efficacy is
 subordinated to a particular concern. The corporation has not necessarily
 failed to recognize them epistemically. It has restricted their
-jurisdiction." That is CLAIM-283's claimed precedence and granted authority.
+jurisdiction." That is [CLAIM-283](CLAIM-283.md)'s claimed precedence and granted authority.
 
 **Normative ignorance without factual ignorance (§3).** A48 separates
 factual ignorance, representational ignorance, normative ignorance ("Harm
@@ -88,16 +88,16 @@ over X_N = {x : Perm_N(x) = 1}. "The decisive question is consequently not
 whether corporations maximize something. It is **who establishes the
 constraints upon maximization, whether those constraints are adequate, and
 how their inadequacies can become consequential**." The first half applies
-CLAIM-348 and CLAIM-350, as A48 says.
+[CLAIM-348](CLAIM-348.md) and [CLAIM-350](CLAIM-350.md), as A48 says.
 
-**The division of normative labour (§5).** Friedman (LIT-tmpu1amh,
+**The division of normative labour (§5).** Friedman ([LIT-tmpu1amh](../literature.d/LIT-tmpu1amh.md),
 Deferred) "explicitly qualifies profit-seeking by reference to law and
 ethical custom", which "presupposes that other institutions can adequately
 discover, formulate, authorize, enforce and revise the constraints required
 to govern corporate activity. That is an extraordinarily demanding
 service-level guarantee", and "the corporation itself may possess
 considerable influence over the institutions upon which its normative
-regulation depends" (CLAIM-tmpjnly0). Hence §14's last sentence: "The
+regulation depends" ([CLAIM-tmpjnly0](CLAIM-tmpjnly0.md)). Hence §14's last sentence: "The
 legitimacy of a specialized organizational objective therefore depends
 partly upon the adequacy of the surrounding governance relationships
 through which independently justified constraints remain effective."
@@ -105,10 +105,10 @@ through which independently justified constraints remain effective."
 **Specialization is not restriction (§§7, 9, 12, 15).** "**Constitutive
 contribution does not automatically confer unrestricted governing
 authority, just as financial ownership does not automatically exhaust the
-grounds of legitimate standing**" (after Blair and Stout, LIT-tmpdaunm;
-the firm-specific investments are CLAIM-728's territory, noted there).
-Jensen's enlightened value maximization (LIT-tmpo2igd) answers temporal
-but not jurisdictional greed (TERM-tmpxr1ox): "The issue is not merely the
+grounds of legitimate standing**" (after Blair and Stout, [LIT-tmpdaunm](../literature.d/LIT-tmpdaunm.md);
+the firm-specific investments are [CLAIM-728](CLAIM-728.md)'s territory, noted there).
+Jensen's enlightened value maximization ([LIT-tmpo2igd](../literature.d/LIT-tmpo2igd.md)) answers temporal
+but not jurisdictional greed ([TERM-tmpxr1ox](../terms.d/TERM-tmpxr1ox.md)): "The issue is not merely the
 length of the optimization horizon. It is the authority structure
 governing what gets optimized." The distinction is "between
 **specialization of purpose and restriction of moral standing**". And an
@@ -123,9 +123,9 @@ A48 §14 is a proposed synthesis of the owner's U30 with held entries. What
 it adds beyond them passes by a **discriminating prediction**: an
 institution that recognizes a party only instrumentally drops a practice
 that honours the party's claim when the practice stops paying, and one
-constrained by the claim does not. ARG-tmp4er8c narrows the prediction:
-by CLAIM-tmpsuj5n's analysis it separates the two only with reputation and
-other benefits held fixed, and CLAIM-431 doubts that any corporate concern
+constrained by the claim does not. [ARG-tmp4er8c](../arguments.d/ARG-tmp4er8c.md) narrows the prediction:
+by [CLAIM-1169](CLAIM-1169.md)'s analysis it separates the two only with reputation and
+other benefits held fixed, and [CLAIM-431](CLAIM-431.md) doubts that any corporate concern
 is more than prudence.
 
 "The proposed claim does not establish that shareholder-oriented
