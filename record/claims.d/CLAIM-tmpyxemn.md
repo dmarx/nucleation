@@ -41,18 +41,18 @@ summary: >-
 All three are from the exchange 'Memes, Contracts, and Systemic
 Normativity', and in each the numbers were right:
 
-1. **The confirmation threshold** (CLAIM-tmpu5cap). A11 presents a
+1. **The confirmation threshold** ([CLAIM-tmpu5cap](CLAIM-tmpu5cap.md)). A11 presents a
    symmetry that "becomes unstable when κ exceeds 2/3" as a property of
    confirmation-biased sampling. The threshold comes from the
    illustration's decay factor. The sampling bias alone has none.
-2. **The sign character** (CLAIM-tmpj4pw3). A9 reads "I am whatever you say
+2. **The sign character** ([CLAIM-tmpj4pw3](CLAIM-tmpj4pw3.md)). A9 reads "I am whatever you say
    I am" as a response with |dr/ds| = 1 under reversal. Oddness under
    reversal, the character the model gives, does not fix the slope:
    r = 0.05s and r = s³ are odd too.
-3. **The norm's justification** (CLAIM-tmpjg5gx, note of 2026-11-24). The
+3. **The norm's justification** ([CLAIM-tmpjg5gx](CLAIM-tmpjg5gx.md), note of 2026-11-24). The
    assistant read the model's baseline b as the norm's justification, and
    so reported that a norm in the model could not outlast its
-   justification's disappearance. The owner's case (CLAIM-tmp8l5s9) made
+   justification's disappearance. The owner's case ([CLAIM-tmp8l5s9](CLAIM-tmp8l5s9.md)) made
    the assistant recompute: with b read as the tendency to comply, which
    is what it is, the model lets a norm outlast the loss of most of it.
 
