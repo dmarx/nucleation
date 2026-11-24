@@ -142,7 +142,7 @@ A50 §2 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) cites t
 
 ## Note of 2026-11-23: the answer frontier, from "Explain First Contact RL"
 
-<!-- inactive-ok-block: CLAIM-1009 TERM-159 CLAIM-1190 — Proposed; filed from the exchange -->
+<!-- inactive-ok-block: CLAIM-1009 TERM-159 — Proposed; filed from the exchange -->
 The owner, at U30 of the exchange "Explain First Contact RL" (2026-11-23):
 this term "is actually just the query frontier component of the boundary
 about the inquiry, which includes an answer frontier" ([CLAIM-1009](../claims.d/CLAIM-1009.md)). A58
@@ -164,7 +164,7 @@ the owner, both Proposed:
 - (b) [TERM-160](TERM-160.md): this term kept, a joint inquiry frontier beside it whose
   question side is the investigable set (the assistant's wording).
 
-<!-- inactive-ok-block: CLAIM-754 CLAIM-1115 CLAIM-996 CLAIM-1016 — Proposed; a claim using this term's earlier sense, and claims filed from the exchange -->
+<!-- inactive-ok-block: CLAIM-754 CLAIM-996 CLAIM-1016 — Proposed; a claim using this term's earlier sense, and claims filed from the exchange -->
 Under (a) the five claims stated in this term would each say which set they
 use; under (b) none changes. [CLAIM-754](../claims.d/CLAIM-754.md) uses the term's version-1 sense,
 "formulate and pursue", which version 2 split (its note of 2026-11-23). Why

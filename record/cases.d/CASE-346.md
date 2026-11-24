@@ -1,16 +1,29 @@
 ---
 number: 346
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpxmuri
 title: 'The self-protecting sentry run: in a hidden world trained in danger and then safe, a sentry whose authority is rewarded by the apparent success of protection keeps protection on through 400 safe steps wherever it is strong enough, while still protecting when danger returns; restricting inspection turns protection that outlasts a corrected belief into protection that keeps the belief from being corrected; an independent audit shifts the boundary and a protected investigator corrects the belief without ending protection; and a habit of matched memory reproduces every intervention it can receive'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant, carrying out LEAD-076. The code,
     tests and outputs are under scratch/studies/lead-076/.
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("promote the
+    ten", under the dialectic regime; ADR-057, status-review README
+    section 2): a CASE goes Active when it is demonstrated, and its run
+    has been checked by a session other than its filer's. Rerun on
+    2026-11-24 from a copy of scratch/studies/lead-076/: the 24 tests
+    pass, and with the .jsonl results deleted run_sentry.py and
+    analyze.py regenerate every file in results/, summary.md included,
+    byte for byte (the note of that date). A53 of the exchange 'Memes,
+    Contracts, and Systemic Normativity' missed it; the promotion table
+    of that date added it to the ten.
 standing: documented
 kind: executed-study
 tags:

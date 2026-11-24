@@ -47,7 +47,7 @@ summary: >-
   test. The wording is A's (ChatGPT, in the exchange 'Memes, Contracts, and
   Systemic Normativity'); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ARG-tmpa5ped CASE-326 CLAIM-891 CLAIM-1095 CLAIM-1156 TERM-116 — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
+<!-- inactive-ok-file: ARG-tmpa5ped CLAIM-891 CLAIM-1156 TERM-116 — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
 
 # CLAIM-tmpsf9hp: Invoking a relationship differs from reusing a stored result in that the invocation can change the relationship it invokes, so one operation can reproduce, form or transform a contract, and a stored-work cost model that holds the store fixed between uses prices a contract's lifecycle but not its invocation, which returns an act, a distribution of costs over the parties and the relationship's next state
 

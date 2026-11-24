@@ -1,12 +1,41 @@
 ---
 number: 1093
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpf71gk
-title: 'Maintaining a reserve and redesigning a transition are distinct routes to
-  readiness: one keeps enough capacity to cross an existing transition barrier,
-  the other lowers the barrier itself'
-version: 1
+title: 'Maintaining a reserve and redesigning a transition change different components of readiness, one keeping enough capacity to cross an existing transition barrier and the other lowering the barrier itself, and under a budget that follows peak use they are complementary requirements rather than independently sufficient alternatives, unless the redesigned barrier is no higher than the cost of holding'
+version: 3
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Revised to concede CLAIM-1099 (ADR-059), at the owner's word of
+    2026-11-24 ("promote the ten", with this concession written in the
+    same pass as the promotion table says; under the dialectic regime):
+    CLAIM-1099 shows that under a budget set to the last period's peak
+    use a redesigned transition is lost like the original unless a
+    reserve is also held, so reserve and redesign are complements, not
+    alternatives, except where the redesigned threshold is at most the
+    holding cost. The title takes A53's wording, with "can be" made exact by CLAIM-1099's exception. Old title: "Maintaining
+    a reserve and redesigning a transition are distinct routes to
+    readiness: one keeps enough capacity to cross an existing transition
+    barrier, the other lowers the barrier itself". The Standing section
+    says the same. Nothing dropped needs routing: the old title's "distinct routes" read as alternatives, which CLAIM-1099 shows false, a note only
+    (README, narrowing kind 3).
+- version: 3
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("handle the
+    fixes for the twelve ... use your best judgement"; ADR-057's four
+    criteria for an interpretive thesis): its premises CLAIM-577 and
+    CLAIM-571 are Active; its one objection, CLAIM-1099, is written in
+    by the revision above; nothing meets its defeated_if, since
+    CLAIM-1099 shows redesign needing a reserve only where the
+    redesigned threshold exceeds the holding cost, not always, and no
+    held claim states the distinction (CLAIM-1180 derives what trading
+    one for the other costs, and says CLAIM-1093 is the distinction);
+    and the owner's word is the assent. An interpretive promotion,
+    listed for the owner in the pull request.
 role: thesis
 warrant: interpretive
 defeated_if: A showing that one route always requires the other, so that they are
@@ -35,9 +64,7 @@ bears_on:
 - QUESTION-395
 ---
 
-<!-- inactive-ok-file: CLAIM-1099 — Proposed; the objection filed with this -->
-
-# CLAIM-1093: Maintaining a reserve and redesigning a transition are distinct routes to readiness: one keeps enough capacity to cross an existing transition barrier, the other lowers the barrier itself
+# CLAIM-1093: Maintaining a reserve and redesigning a transition change different components of readiness, one keeping enough capacity to cross an existing transition barrier and the other lowering the barrier itself, and under a budget that follows peak use they are complementary requirements rather than independently sufficient alternatives, unless the redesigned barrier is no higher than the cost of holding
 
 ## The claim
 
@@ -51,14 +78,19 @@ other changes the transition barrier itself."
 
 ## Standing
 
-Proposed, in A's voice. [CLAIM-1099](CLAIM-1099.md) shows that under §9.1's own budget
-rule the redesigned route is lost like the original unless a reserve is
-also held, so the two are distinct in what they change but not
-alternatives.
+In A's voice, revised on 2026-11-24 to concede CLAIM-1099 (ADR-059), in
+A53's wording, with the exception CLAIM-1099 states added to the title: "Maintaining a reserve and redesigning a transition change
+different components of reconfiguration readiness. Under
+utilization-matched budgeting they can be complementary requirements
+rather than independently sufficient alternatives." CLAIM-1099 shows
+that under §9.1's own budget rule the redesigned route is lost like the
+original unless a reserve is also held, so the two are distinct in what
+they change but not alternatives; redesign replaces the reserve only
+where its threshold is at most the cost of holding. The old title called
+them "distinct routes to readiness", which read as alternatives.
 
 ## Note of 2026-11-23: the study filed
 
-<!-- inactive-ok-block: CASE-412 — new; the study filed -->
 The manuscript's study is now on the record as [CASE-412](../cases.d/CASE-412.md). In its model the two routes are not alternatives under the peak rule, since redesign without a reserve (III-a) loses its route, while the reading this claim's Standing section concedes, that the two change different things, is untouched. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A53

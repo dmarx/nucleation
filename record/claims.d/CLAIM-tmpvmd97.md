@@ -46,7 +46,7 @@ summary: >-
   Contracts, and Systemic Normativity"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-931 CLAIM-700 CLAIM-921 TERM-108 LIT-tmpz8k08 LIT-tmp6k0um — Proposed, Deferred or new; the neighbours, held parts and works A44 cites, unread -->
+<!-- inactive-ok-file: CLAIM-931 CLAIM-700 TERM-108 LIT-tmpz8k08 LIT-tmp6k0um — Proposed, Deferred or new; the neighbours, held parts and works A44 cites, unread -->
 
 # CLAIM-tmpvmd97: A metric that governs allocates two powers, to make processes legible and to decide what follows from what it makes legible, so an accurate metric can still dominate where it gives a controller unanswerable discretion over those who depend on the arrangement; bounding by role which decisions a metric may govern, and keeping the authority to define success apart from the authority to pursue it, are the corresponding safeguards
 

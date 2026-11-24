@@ -35,7 +35,7 @@ summary: >-
   ones, which remain open.
 ---
 
-<!-- inactive-ok-file: CLAIM-1099 CASE-163 CASE-315 CASE-326 CASE-343 CASE-346 CASE-397 CASE-401 CASE-412 CLAIM-921 — Proposed or Open; the executed studies and leads the thesis is checked against, cited whatever their standing -->
+<!-- inactive-ok-file: CASE-163 — Proposed or Open; the executed studies and leads the thesis is checked against, cited whatever their standing -->
 
 # CLAIM-tmpyp0ju: Most of the research the article series governance-of-becoming proposed has already been done on the record: the role its proposed experiments play in the account is largely filled by studies, constructions and derivations the record already holds, so the series is a program of consolidating and publishing results more than one of new research
 

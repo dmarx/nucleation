@@ -167,7 +167,7 @@ operations widen substantive freedom, and for whom, is [CLAIM-352](CLAIM-352.md)
 question, and A37 itself kept it open.
 
 ## Note of 2026-11-22: the separation, applied to three cases
-<!-- inactive-ok-file: CASE-326 CLAIM-891 — new; filed by LEAD-108's run of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-891 — new; filed by LEAD-108's run of 2026-11-22 -->
 
 [LEAD-108](../leads.d/LEAD-108.md)'s model keeps feasibility, lifetime cost and who pays apart, as
 this claim does, and the three cases show them parting ([CASE-326](../cases.d/CASE-326.md)). A

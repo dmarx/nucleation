@@ -29,7 +29,7 @@ summary: 'The owner''s, 2026-11-23, in this session: "thankfully, mechanics
   owner''s.'
 ---
 
-<!-- inactive-ok-file: ARG-234 CLAIM-1143 CLAIM-1185 — Proposed; cited in this filing of 2026-11-23 -->
+<!-- inactive-ok-file: ARG-234 CLAIM-1143 — Proposed; cited in this filing of 2026-11-23 -->
 
 # CLAIM-1146: Mechanics is grounded in physical phenomena, so the regress of anchors has an independent witness to certify from
 

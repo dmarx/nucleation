@@ -36,7 +36,7 @@ summary: >-
   assistant's [CLAIM-1195](CLAIM-1195.md). The wording is A's (ChatGPT, at A54 of the
   exchange "Explain First Contact RL"); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-1004 CLAIM-1195 CLAIM-182 CLAIM-921 — Proposed; the owner's conjecture, the gap fill and the held claims read against it -->
+<!-- inactive-ok-file: CLAIM-1004 CLAIM-1195 CLAIM-182 — Proposed; the owner's conjecture, the gap fill and the held claims read against it -->
 
 # CLAIM-1148: A perspective kept as a maintained nucleus, with usable methods, knowledge and relationships, differs from an archived alternative, which keeps only a description, and from active parallel inquiry, which keeps receiving resources, so an organization can hold many nuclei while developing a few and by holding them shorten its time to an effective response when an unfamiliar question arrives
 

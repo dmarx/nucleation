@@ -49,8 +49,6 @@ works:
 - governance-of-possibility
 ---
 
-<!-- inactive-ok-file: CLAIM-1185 CLAIM-1202 — Proposed or Open; cited in this filing of 2026-11-23 -->
-
 # CLAIM-1024: A system's ability to correct itself depends not simply on having critics or feedback but on how evidence, evaluation and authority are coupled, and on what the system is prevented from rewriting or rejecting
 
 ## The claim
@@ -118,5 +116,9 @@ Standing out of date; the assistant's (Claude, in this session). The summary's "
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A53
 
-<!-- inactive-ok-block: CASE-401 CLAIM-1000 — Proposed; entries A53 names beside this one, cited whatever their standing -->
 A53 proposes a joint ruling on this claim and its objection [CLAIM-1185](CLAIM-1185.md), and gives the principle it would yield: "Corrective governance depends upon protected relationships among evidence, evaluation and authority. Those protections can preserve the independence necessary for correction, while also limiting correction to the adequacy of the protected standards and evidence. The revision of those standards is a distinct governance problem." The claim is the owner's, so writing [CLAIM-1185](CLAIM-1185.md)'s concession is the owner's ([CLAIM-1185](CLAIM-1185.md)'s note of 2026-11-23); A53's wording is a candidate. Its other open premise, [CLAIM-1202](CLAIM-1202.md), rests on [CLAIM-1000](CLAIM-1000.md) and [CASE-401](../cases.d/CASE-401.md), which reproduces on a rerun of 2026-11-24 (its note). The note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting either is the owner's call. No status change.
+
+## Note of 2026-11-24: CLAIM-1185 and CLAIM-1202 Active
+
+<!-- inactive-ok-block: CLAIM-tmpjdml5 — Proposed; filed at the status pass of 2026-11-24 -->
+At the status pass of 2026-11-24, at the owner's word ("handle the fixes for the twelve ... use your best judgement"), CLAIM-1202, the last of the four components, went Active with CLAIM-1000 and CASE-401, and the objection CLAIM-1185 went Active after its title was narrowed to its model. Its concession on this claim is now due (ADR-059) and is the owner's to write, since the claim is the owner's; A53's wording in the note above is a candidate. The general form of the objection, beyond that model, is the Proposed CLAIM-tmpjdml5. The note is the assistant's (Claude, in this session). No status change.

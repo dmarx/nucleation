@@ -154,7 +154,7 @@ No status change.
 An analogy ([NOTE-2141](../notes.d/NOTE-2141.md)): Howard and Ruder's pretraining "only needs to be performed once" and serves many tasks, stored work repaid by reuse, though they do no accounting.
 
 ## Note of 2026-11-22: a general model this claim is a case of
-<!-- inactive-ok-file: CASE-326 CLAIM-891 — new; filed by LEAD-108's run of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-891 — new; filed by LEAD-108's run of 2026-11-22 -->
 
 [LEAD-108](../leads.d/LEAD-108.md)'s cost model ([CASE-326](../cases.d/CASE-326.md)) reduces to this claim's inequality,
 and to [CASE-088](../cases.d/CASE-088.md)'s 45 against 34, when predictability is 1, staleness,

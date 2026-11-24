@@ -1,16 +1,34 @@
 ---
 number: 165
-status: Proposed
+status: Active
 formerly:
 - TERM-tmpwc4la
 title: 'dispositional address, of a perspective under a declared probe family: the map from each admissible probe or intervention q to the law of the observed response, q ↦ P(Y | p, do(q)), taken up to observational equivalence under that family, so that a perspective is located by what it is disposed to do under the tests run and not by a label or a reconstruction of its goals; relative to the family, and so to the budget that affords it'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 from A11 §§1–2 and A13 §4 of the exchange "Explain
     First Contact RL" (ChatGPT, shared 2026-11-22), at the owner's U5.
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Adopted (Active) at the owner's word of 2026-11-24 ("handle the
+    fixes for the twelve ... use your best judgement", under the
+    dialectic regime; ADR-057, status-review README section 2: a TERM is
+    adopted when its definition is settled and every use says which
+    sense it means). Its uses were checked: CLAIM-1044 (as A11's
+    "relative to the tests we can afford to perform"), CLAIM-1095 (the
+    relativity to a declared test family), CLAIM-1156 (the map q ↦ P(Y |
+    p, do(q)) without the post-state, against which its kernel is set),
+    CLAIM-1118 (a distance between the laws of the answers given),
+    CLAIM-1175 (the address of probe sequences, the definition's second
+    paragraph), CLAIM-1046, CLAIM-1196, SYNTHESIS-122, TERM-118,
+    TERM-138 and QUESTION-tmpb7fx7: all mean the one sense defined, the
+    map from probes in a declared family to response laws, up to
+    observational equivalence under that family. No change of wording;
+    the definition has stood unrevised since 2026-11-22.
 complements:
 - TERM-116
 - TERM-067

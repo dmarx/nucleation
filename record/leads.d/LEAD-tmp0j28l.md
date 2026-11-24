@@ -1,8 +1,17 @@
 ---
 status: Open
 title: 'Review for promotion the Proposed entries the record functionally treats as held, found from executed studies that reproduce, demonstrated claims whose premises are held, terms in settled use and entries that Active entries and manuscripts rely on, with reliance as a reason to review and never as warrant'
-version: 1
-stage: specified
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Stage specified to underway: the status pass of 2026-11-24, at the
+    owner's word ("promote the ten, handle the fixes for the twelve ...
+    use your best judgement"), ruled on the first worklist's ten and
+    twelve; see the note of that date. Status stays Open: the syntheses,
+    the kept entries and the discovery signals remain.
+stage: underway
 priority: high
 method:
 - formal
@@ -45,7 +54,7 @@ summary: >-
   session); adopting either is the owner's call.
 ---
 
-<!-- inactive-ok-file: ADR-124 CLAIM-1000 CLAIM-1093 CLAIM-1099 CLAIM-1115 CLAIM-1190 CLAIM-478 CLAIM-892 TERM-165 CASE-315 CASE-326 CASE-343 CASE-346 CASE-397 CASE-401 CASE-412 — Proposed; the candidates and the decision this lead extends, cited whatever their standing -->
+<!-- inactive-ok-file: ADR-124 CLAIM-478 — Proposed; the candidates and the decision this lead extends, cited whatever their standing -->
 
 # LEAD-tmp0j28l: Review for promotion the Proposed entries the record functionally treats as held, found from executed studies that reproduce, demonstrated claims whose premises are held, terms in settled use and entries that Active entries and manuscripts rely on, with reliance as a reason to review and never as warrant
 
@@ -119,3 +128,18 @@ Done when a status-review pass has ruled on the worklist, each entry
 promoted, narrowed or kept with a blocker note, and the discovery signals
 either join the worklist script or are judged not worth it. Whether they
 join it is a change to [ADR-057](../decisions.d/ADR-057.md)'s procedure, and waits on the owner.
+
+## Note of 2026-11-24: the first worklist's ten and twelve ruled
+
+The status pass of 2026-11-24 promoted the ten and ten of the twelve: 20 entries went Active (seven cases, twelve
+claims, TERM-165), with titles narrowed on CLAIM-1180, CLAIM-878,
+CLAIM-921 and CLAIM-1185, CLAIM-1093 revised to concede CLAIM-1099,
+CLAIM-1190's defeater restated, and the checks of CLAIM-1115, CLAIM-1095
+and CLAIM-1180, which their filers had not kept, reconstructed and rerun.
+CLAIM-1156 was revised to concede CLAIM-1095. Two clauses dropped by
+narrowing are filed as Proposed claims, CLAIM-tmpc3ndh and CLAIM-tmpjdml5.
+CASE-163 and CASE-164 stay Proposed: the re-read of PerspectiveLab's
+stored results needs that repository, which is not in this checkout. The
+concession of CLAIM-1185 on CLAIM-1024 is due and is the owner's. The pass
+is described in the curation entry of that date. The note is the
+assistant's (Claude, in this session).

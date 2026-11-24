@@ -51,7 +51,6 @@ draws_on:
 - THEORY-257
 - THEORY-1161
 ---
-<!-- inactive-ok-file: CASE-401 CLAIM-1000 — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 <!-- inactive-ok-file: THEORY-257 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

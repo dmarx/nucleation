@@ -41,7 +41,6 @@ summary: >-
   authority can be pathological by the organization's own standard. This names one
   mechanism by which it could become so.
 ---
-<!-- inactive-ok-file: CASE-401 CLAIM-1000 CLAIM-1202 — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-276 CLAIM-278 CLAIM-281 CLAIM-285 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

@@ -34,7 +34,7 @@ summary: >-
   this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-754 CLAIM-1095 CLAIM-1102 CLAIM-1106 CLAIM-1118 CLAIM-1134 CLAIM-1156 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
+<!-- inactive-ok-file: CLAIM-754 CLAIM-1102 CLAIM-1106 CLAIM-1118 CLAIM-1134 CLAIM-1156 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
 # LEAD-229: Design a test of counterfactual epistemic richness that holds current task performance fixed, perturbs the environment and introduces unencountered questions, and measures the breadth, cost, speed and reliability of the paths to renewed understanding; and read the definitions of intelligence it would compete with
 

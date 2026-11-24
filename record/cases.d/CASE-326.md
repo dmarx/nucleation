@@ -1,10 +1,10 @@
 ---
 number: 326
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpo2iur
 title: 'One cost model for stored work, run on the cockpit''s speed bugs, a filed argument and a LEGO bin: every case is priced with the same terms; at illustrative values the bugs lose at a flat price of work on their four flap calls and win once the approach is at least twice as busy as the moment they are set, and the bin is made at once except for a brick that stands out'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -12,6 +12,16 @@ history:
     Filed 2026-11-22 by the assistant, carrying out LEAD-108. The model,
     its tests and the pricing script are committed under
     scratch/studies/lead-108/, with results.json and results.md.
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("promote the
+    ten", under the dialectic regime; ADR-057, status-review README
+    section 2): a CASE goes Active when it is demonstrated, and its run
+    has been checked by a session other than its filer's. Rerun on
+    2026-11-24 from a copy of scratch/studies/lead-108/: the 7 tests of
+    test_costmodel.py pass, and price_cases.py regenerates results.json
+    and results.md byte for byte (the note of that date).
 standing: documented
 kind: executed-study
 tags:
@@ -46,7 +56,7 @@ summary: >-
   case differs, and that is the result [CLAIM-891](../claims.d/CLAIM-891.md) states. The wording is
   the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-891 CLAIM-892 CLAIM-314 THEORY-351 — Proposed or new; filed or cited in this run of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-891 CLAIM-314 THEORY-351 — Proposed or new; filed or cited in this run of 2026-11-22 -->
 
 # CASE-326: One cost model for stored work, run on the cockpit's speed bugs, a filed argument and a LEGO bin: every case is priced with the same terms; at illustrative values the bugs lose at a flat price of work on their four flap calls and win once the approach is at least twice as busy as the moment they are set, and the bin is made at once except for a brick that stands out
 

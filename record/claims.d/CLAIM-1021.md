@@ -46,7 +46,6 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-401 CLAIM-1000 CLAIM-1202 — new; the study and the condition this claim rests on, and the reading it is the alternative to, filed in the same batch -->
 
 # CLAIM-1021: If an evaluated party's resources scale how strongly the evaluator's conferral answers agreement, rather than tilting it toward one side, they enter the two-institution meaning–influence model only beyond first order at the symmetric state: they leave the linear symmetry-breaking condition unchanged, yet they capture the evaluator's reading below that condition from a large enough push, toward the side the resources favour only, even when the evaluator's evidence is independent of the party
 

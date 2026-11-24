@@ -1,10 +1,10 @@
 ---
 number: 412
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpo8bsc
 title: 'A matched-performance model of regulation run under six budget regimes: every regime produces the same output until a contingency arrives, while readiness at a deadline of six periods ranges from 0.147 to 0.894; a redesigned route is lost under the peak rule unless a reserve is also held, a drill each period holds the budget as a reserve does, readiness is a step function of the reserve, the reserve is most ready at every deadline but cheapest only at some, and it pays above a break-even that moves with the deadline and with how often the capability is used'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-23'
@@ -14,6 +14,21 @@ history:
     sweep, tests and outputs are under
     scratch/manuscripts/governance-of-possibility/analysis/, the single
     copy, run at commit 28a3708c1 and reproduced.
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("promote the
+    ten", under the dialectic regime; ADR-057, status-review README
+    section 2): a CASE goes Active when it is demonstrated, and its run
+    has been checked by a session other than its filer's. The study was
+    run and reproduced at filing; the fact-check of the manuscript
+    governance-of-possibility, by a reader who did not write it
+    (2026-11-23), reran study.py in a copy (results.json reproduced in
+    every field but runtime_s, results.md identical) and its 24 tests
+    (all pass); this pass reran it again on 2026-11-24 from a copy, with
+    the same result. The wording is unchanged but for the summary's
+    sentence on its standing, which said it "stays Proposed until a
+    status review rules that it is demonstrated".
 standing: documented
 kind: executed-study
 tags:
@@ -45,12 +60,11 @@ summary: >-
   is matched by construction, [CLAIM-577](../claims.d/CLAIM-577.md)'s and [CLAIM-1099](../claims.d/CLAIM-1099.md)'s conditions
   hold exactly, and readiness, cost ranking, the reserve's break-even and
   the step function come out as stated here, on choices the body names.
-  It was run and reproduced; it stays Proposed until a status review rules
-  that it is demonstrated. The wording is the assistant's (Claude, in this
+  It was run and reproduced; a status review ruled it demonstrated on 2026-11-24. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-1099 CLAIM-878 CLAIM-1180 CLAIM-1093 CLAIM-922 CLAIM-584 CLAIM-654 CLAIM-646 CLAIM-1137 CASE-315 CASE-200 CASE-343 CASE-345 CASE-397 — Proposed or new; the claims this study illustrates or bears on, the simulator it extends, its novel-demand variant and the account that maps it -->
+<!-- inactive-ok-file: CLAIM-922 CLAIM-584 CLAIM-654 CLAIM-646 CLAIM-1137 CASE-200 CASE-345 — Proposed or new; the claims this study illustrates or bears on, the simulator it extends, its novel-demand variant and the account that maps it -->
 
 # CASE-412: A matched-performance model of regulation run under six budget regimes: every regime produces the same output until a contingency arrives, while readiness at a deadline of six periods ranges from 0.147 to 0.894; a redesigned route is lost under the peak rule unless a reserve is also held, a drill each period holds the budget as a reserve does, readiness is a step function of the reserve, the reserve is most ready at every deadline but cheapest only at some, and it pays above a break-even that moves with the deadline and with how often the capability is used
 
