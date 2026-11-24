@@ -564,31 +564,31 @@ why none does.
 ### The joins of the manuscript governance-of-becoming, Part I
 
 The drafts of Articles 1 to 3 (scratch/manuscripts/governance-of-becoming/)
-closed with 25 joins. An independent reader tested each under ADR-075 on
+closed with 25 joins. An independent reader tested each under [ADR-075](../decisions.d/ADR-075.md) on
 2026-11-24 (the review of that date, Part B). Two passed and are integrated
-above as claims: CLAIM-tmpu77ve (Article 2's J3, narrowed: an implicit
+above as claims: [CLAIM-tmpu77ve](../claims.d/CLAIM-tmpu77ve.md) (Article 2's J3, narrowed: an implicit
 contract's obligation held by reliance where the provider cannot cheaply
-exit) and CLAIM-tmp9ia3w (Article 1's J1.1, corrected: removing the
+exit) and [CLAIM-tmp9ia3w](../claims.d/CLAIM-tmp9ia3w.md) (Article 1's J1.1, corrected: removing the
 supervisor is the one maintenance-provenance test that does not part
 conditioned from negotiated coordination). The others:
 
-- **Restatements of held entries** (14): J1.2 (TERM-100, CASE-191),
-  J1.3 (CASE-191 with CLAIM-522, for a scalar), J1.5 (CLAIM-417, CLAIM-329,
-  CLAIM-132), J1.7 (a conjunction), JR1 (CLAIM-tmp0d1fq), JR2 (CLAIM-430's
+- **Restatements of held entries** (14): J1.2 ([TERM-100](../terms.d/TERM-100.md), [CASE-191](../cases.d/CASE-191.md)),
+  J1.3 ([CASE-191](../cases.d/CASE-191.md) with [CLAIM-522](../claims.d/CLAIM-522.md), for a scalar), J1.5 ([CLAIM-417](../claims.d/CLAIM-417.md), [CLAIM-329](../claims.d/CLAIM-329.md),
+  [CLAIM-132](../claims.d/CLAIM-132.md)), J1.7 (a conjunction), JR1 ([CLAIM-tmp0d1fq](../claims.d/CLAIM-tmp0d1fq.md)), JR2 ([CLAIM-430](../claims.d/CLAIM-430.md)'s
   note), and J3.1, J3.2, J3.3, J3.6, J3.8, J3.9, J3.11, J3.12 as the draft
   says. A restatement adds nothing to place.
 - **Failed** (7): J1.6, trivial once a representation is fixed;
   Article 2's J1, a gloss of the undefined "coordinated reliance"; J2,
   trivial one way and rejected by the draft the other; J4, matched glosses,
   better as an illustrates link, and it exposes a conflict between
-  CASE-tmptpna1 and TERM-tmpgiy6r on CLAIM-283's "granted authority"; J3.4,
-  stated two ways, one of them a misreading of CLAIM-760; J3.5, already
-  CLAIM-571's note for its peak half, trivial for its directed half; J3.7,
-  a restatement of CLAIM-tmp2jhc1. J3.10 is accurate but has no route; it is
-  a pointer for LEAD-tmpeo8wq.
-- **Misstated a component** (2): J1.1 as drafted (TERM-100's maintenance
-  sense; corrected and filed as CLAIM-tmp9ia3w) and J1.4 (CLAIM-604 excludes
-  other kinds of state-dependent uptake; CASE-189's construction has no
+  [CASE-tmptpna1](../cases.d/CASE-tmptpna1.md) and [TERM-tmpgiy6r](../terms.d/TERM-tmpgiy6r.md) on [CLAIM-283](../claims.d/CLAIM-283.md)'s "granted authority"; J3.4,
+  stated two ways, one of them a misreading of [CLAIM-760](../claims.d/CLAIM-760.md); J3.5, already
+  [CLAIM-571](../claims.d/CLAIM-571.md)'s note for its peak half, trivial for its directed half; J3.7,
+  a restatement of [CLAIM-tmp2jhc1](../claims.d/CLAIM-tmp2jhc1.md). J3.10 is accurate but has no route; it is
+  a pointer for [LEAD-tmpeo8wq](../leads.d/LEAD-tmpeo8wq.md).
+- **Misstated a component** (2): J1.1 as drafted ([TERM-100](../terms.d/TERM-100.md)'s maintenance
+  sense; corrected and filed as [CLAIM-tmp9ia3w](../claims.d/CLAIM-tmp9ia3w.md)) and J1.4 ([CLAIM-604](../claims.d/CLAIM-604.md) excludes
+  other kinds of state-dependent uptake; [CASE-189](../cases.d/CASE-189.md)'s construction has no
   supply variable).
 
 ## What it does not say
