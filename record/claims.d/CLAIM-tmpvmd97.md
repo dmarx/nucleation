@@ -34,12 +34,12 @@ summary: >-
   Normativity" (ChatGPT, 2026-11-24), on the owner's U28 ("the tyranny of
   metrics" and how KPI engineering bears on institutional efficacy, viability
   and justice). Most of A44 maps to held entries: the fibre criterion
-  (CLAIM-350, CLAIM-348, CASE-110), performative agreement (CLAIM-402,
-  NOTE-1050), motivational capture (QUESTION-267), transferred and
-  compensating work (CLAIM-760, CLAIM-700), capability erosion (CLAIM-921,
-  CLAIM-463), the no-inquiry result (CLAIM-1064). What it adds is the link
+  ([CLAIM-350](CLAIM-350.md), [CLAIM-348](CLAIM-348.md), [CASE-110](../cases.d/CASE-110.md)), performative agreement ([CLAIM-402](CLAIM-402.md),
+  [NOTE-1050](../notes.d/NOTE-1050.md)), motivational capture ([QUESTION-267](../questions.d/QUESTION-267.md)), transferred and
+  compensating work ([CLAIM-760](CLAIM-760.md), [CLAIM-700](CLAIM-700.md)), capability erosion ([CLAIM-921](CLAIM-921.md),
+  [CLAIM-463](CLAIM-463.md)), the no-inquiry result ([CLAIM-1064](CLAIM-1064.md)). What it adds is the link
   to the owner's U27: metric governance as a legibility control surface, and
-  its safeguards. Wells Fargo's sales model (CASE-151) is the held documented
+  its safeguards. Wells Fargo's sales model ([CASE-151](../cases.d/CASE-151.md)) is the held documented
   case A44 did not cite. The wording is A's (ChatGPT, in the exchange "Memes,
   Contracts, and Systemic Normativity"); adopting it is the owner's call.
 ---

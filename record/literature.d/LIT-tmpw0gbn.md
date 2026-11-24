@@ -24,7 +24,7 @@ summary: >-
   Hess (2016), MIT Press. Cited by A6 of the exchange "Memes, Contracts,
   and Systemic Normativity" for research systematically neglected
   despite its social value, which A6 ties to the circular dependency of
-  evidence and authorization in CLAIM-1140. What A6 says of it is
+  evidence and authorization in [CLAIM-1140](../claims.d/CLAIM-1140.md). What A6 says of it is
   unverified until read.
 ---
 

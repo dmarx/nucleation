@@ -40,8 +40,8 @@ summary: >-
   (ChatGPT, 2026-11-24), "Memetic transmission of agnotological character
   — Proposed", at the owner's U5, "apply this framework to topics in
   agnatology" (agnotology). It applies A5's account of memes as
-  expressions of perspectival character (CLAIM-tmpjitli) to produced
-  ignorance. A6 cites CLAIM-1140 and CLAIM-1155 by their codes on
+  expressions of perspectival character ([CLAIM-tmpjitli](CLAIM-tmpjitli.md)) to produced
+  ignorance. A6 cites [CLAIM-1140](CLAIM-1140.md) and [CLAIM-1155](CLAIM-1155.md) by their codes on
   main. The wording is A's (ChatGPT, in the
   exchange 'Memes, Contracts, and Systemic Normativity'); adopting it is
   the owner's call.

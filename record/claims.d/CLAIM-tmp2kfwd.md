@@ -28,9 +28,9 @@ uses:
 summary: >-
   A18 §4 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24), "Epistemic standing as a contractual property",
-  carrying operational standing (TERM-tmpgiy6r) into the organization of
-  inquiry. It parallels CLAIM-523's three achievements for a normative
-  discrepancy and sits beside CLAIM-996's authorization. The wording
+  carrying operational standing ([TERM-tmpgiy6r](../terms.d/TERM-tmpgiy6r.md)) into the organization of
+  inquiry. It parallels [CLAIM-523](CLAIM-523.md)'s three achievements for a normative
+  discrepancy and sits beside [CLAIM-996](CLAIM-996.md)'s authorization. The wording
   is A's (ChatGPT, in the exchange 'Memes, Contracts, and Systemic
   Normativity'); adopting it is the owner's call.
 ---

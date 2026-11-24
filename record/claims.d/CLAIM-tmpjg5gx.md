@@ -135,9 +135,9 @@ organization's material and procedural architecture".
 
 ## Note of 2026-11-24: a correction to the gap note, at the owner's objection
 
-<!-- inactive-ok-file: CLAIM-tmp8l5s9 CLAIM-tmps8ou2 CASE-tmp3euq0 ARG-tmpqkfwb — Proposed or new; the owner's objection and the entries filed with this correction -->
+<!-- inactive-ok-file: CLAIM-tmp8l5s9 CLAIM-tmps8ou2 CASE-tmp3euq0 — Proposed or new; the owner's objection and the entries filed with this correction -->
 
-The owner objected (CLAIM-tmp8l5s9, with CASE-tmp3euq0): norms do persist
+The owner objected ([CLAIM-tmp8l5s9](CLAIM-tmp8l5s9.md), with [CASE-tmp3euq0](../cases.d/CASE-tmp3euq0.md)): norms do persist
 long after their original justification disappears, as race-based power
 did in the United States after abolition. The gap note above overstated
 its narrowing. It read the reasons' "disappearance" as the baseline b
@@ -165,6 +165,6 @@ its baseline support can outlast it. So the model supports A22's
 sentence, "norms can persist even after their original justification
 disappears". What it rules out is persistence at any baseline whatever:
 at λ = 8, below b ≈ −4.33 only the low state exists. The sentence "not
-its disappearance" above is withdrawn in favour of this. CLAIM-tmps8ou2
+its disappearance" above is withdrawn in favour of this. [CLAIM-tmps8ou2](CLAIM-tmps8ou2.md)
 says what the owner's case adds. The wording of this note is the
 assistant's (Claude, in this session); adopting it is the owner's call.

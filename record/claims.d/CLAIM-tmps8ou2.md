@@ -23,7 +23,7 @@ complements:
 - CLAIM-tmp4zii5
 summary: >-
   The assistant's answer, under the dialectic regime on 2026-11-24, to the
-  owner's CLAIM-tmp8l5s9, conceding that the gap note in CLAIM-tmpjg5gx
+  owner's [CLAIM-tmp8l5s9](CLAIM-tmp8l5s9.md), conceding that the gap note in [CLAIM-tmpjg5gx](CLAIM-tmpjg5gx.md)
   overstated its narrowing. The note read "disappearance" of a norm's
   reasons as the baseline b falling past the collapse point. But b is a
   baseline tendency to comply, not the norm's justification. And in
@@ -38,7 +38,7 @@ summary: >-
 
 ## What the earlier note said, and what was wrong with it
 
-CLAIM-tmpjg5gx's gap note said that in A22's model "the loop lets a norm
+[CLAIM-tmpjg5gx](CLAIM-tmpjg5gx.md)'s gap note said that in A22's model "the loop lets a norm
 outlast a weakening of its baseline support by a margin set by λ, not its
 disappearance". The assistant's summary of it to the owner put it as: "a
 norm outlasts a weakened reason for it but not a vanished one".
@@ -55,7 +55,7 @@ That ran two things together:
 
 ## The model, checked
 
-The recomputation is in CLAIM-tmpjg5gx's dated note of 2026-11-24, the
+The recomputation is in [CLAIM-tmpjg5gx](CLAIM-tmpjg5gx.md)'s dated note of 2026-11-24, the
 correction of its gap note. In short: at A22's settings an established
 norm keeps compliance above 93% while its unaided baseline compliance
 falls from 27% to about 1.3%. So the model supports A22's sentence that
@@ -65,7 +65,7 @@ it does not allow is persistence at any baseline whatever.
 
 ## The owner's case, read through the model
 
-CASE-tmp3euq0 fits, and shows two further features the model predicts:
+[CASE-tmp3euq0](../cases.d/CASE-tmp3euq0.md) fits, and shows two further features the model predicts:
 
 - **Justification and baseline came apart.** The chattel-slavery theories
   went with abolition. Other supports took their place: new rationales and
@@ -79,5 +79,5 @@ CASE-tmp3euq0 fits, and shows two further features the model predicts:
   state lags.
 
 The case does not show that the reliance loop is what maintained the norm.
-Sanctions and violence are rival maintainers, and ARG-tmpqkfwb says what the
+Sanctions and violence are rival maintainers, and [ARG-tmpqkfwb](../arguments.d/ARG-tmpqkfwb.md) says what the
 case supports.
