@@ -145,7 +145,7 @@ in this session); adopting it is the owner's call.
 
 ## Note of 2026-11-24: superseded
 
-Superseded by CLAIM-tmpersgx at the owner's word on duplicates
+Superseded by [CLAIM-tmpersgx](CLAIM-tmpersgx.md) at the owner's word on duplicates
 (2026-11-24). The two state one proposition. That entry, from A16, came
 first and carries the separating case; this one's six probes are now listed
 there. The wording is the assistant's (Claude, in this session).

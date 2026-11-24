@@ -21,7 +21,7 @@ summary: >-
   Rejected: two works, one per draft; counting A49's "Record anchors"
   lists; counting the precursor's uses; and having no work.
 ---
-<!-- inactive-ok-file: ADR-144 ARG-tmpa5ped ARG-tmptccms CASE-326 CASE-tmp3so1p CASE-tmp3xxqg CASE-tmpfh2in CLAIM-785 CLAIM-788 CLAIM-921 CLAIM-tmp05a1l CLAIM-tmp4mk0t CLAIM-tmp8mpgs CLAIM-tmp9v9yl CLAIM-tmpgmxs0 CLAIM-tmphi3mx CLAIM-tmpj4pw3 CLAIM-tmpjitli CLAIM-tmpnws9d CLAIM-tmppx64t CLAIM-tmpq1lyz CLAIM-tmpqbaic CLAIM-tmpu5cap CLAIM-tmpv5sry TERM-123 TERM-160 TERM-163 TERM-tmpet5z8 TERM-tmpgiy6r TERM-tmpx4zke TERM-tmpxr1ox — Proposed, Rejected or new; entries this one reads or rests on, cited whatever their standing -->
+<!-- inactive-ok-file: ADR-144 ARG-tmpa5ped ARG-tmptccms CASE-326 CASE-tmp3so1p CASE-tmp3xxqg CASE-tmpfh2in CLAIM-785 CLAIM-788 CLAIM-921 CLAIM-tmp05a1l CLAIM-tmp4mk0t CLAIM-tmp9v9yl CLAIM-tmpgmxs0 CLAIM-tmphi3mx CLAIM-tmpjitli CLAIM-tmppx64t CLAIM-tmpv5sry TERM-123 TERM-160 TERM-163 TERM-tmpet5z8 TERM-tmpgiy6r TERM-tmpx4zke TERM-tmpxr1ox — Proposed, Rejected or new; entries this one reads or rests on, cited whatever their standing -->
 
 # ADR-tmpenzcn: A work governance-of-becoming is added for the article series the owner asked for at the end of the exchange Memes, Contracts, and Systemic Normativity, with its earlier manuscript as the precursor draft: a claim is a member when the series states the claim's proposition or uses it as a step
 

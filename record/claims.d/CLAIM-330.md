@@ -100,7 +100,6 @@ A45 §VII restates the condition as "Under nonnegative coupling, with \(\alpha,\
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A11
 
-<!-- inactive-ok-file: CLAIM-tmpu5cap — Proposed; the assistant's derivation filed from the exchange of 2026-11-24 -->
 
 A11 §6 cites this claim, with [CLAIM-340](CLAIM-340.md) and [CASE-123](../cases.d/CASE-123.md), for a model of
 confirmation bias in which belief tilts which evidence is sampled, q(y | ℓ)

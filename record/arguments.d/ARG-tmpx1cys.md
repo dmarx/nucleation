@@ -24,7 +24,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp8mpgs CLAIM-tmpa8tdg CLAIM-tmpdzcj6 CLAIM-tmplc0vv LIT-tmpus6zs — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
+<!-- inactive-ok-file: CLAIM-tmpa8tdg CLAIM-tmpdzcj6 CLAIM-tmplc0vv LIT-tmpus6zs — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
 # ARG-tmpx1cys: That preserving an arrangement's structure does not preserve its capacities, applied to conservatism, shows that conservatism conflates persistence with value and counts only the dangers of reform
 

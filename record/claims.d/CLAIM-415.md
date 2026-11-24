@@ -272,7 +272,7 @@ unchanged.
 
 ## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", U7/A8 and A10 §8
 
-<!-- inactive-ok-file: CLAIM-tmpj4pw3 CLAIM-tmp5tjtg CLAIM-425 CLAIM-426 CLAIM-332 LIT-1394 — Proposed, Open or Unfetched; filed from or read against the exchange of 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-tmp5tjtg CLAIM-425 CLAIM-426 CLAIM-332 LIT-1394 — Proposed, Open or Unfetched; filed from or read against the exchange of 2026-11-24 -->
 
 At U7 the owner asked to "apply this framework to probe the phrase 'I am
 whatever you say I am'". A8 found this claim and its neighbours ([LIT-1394](../literature.d/LIT-1394.md),

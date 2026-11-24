@@ -22,7 +22,7 @@ summary: >-
   Systemic Normativity'); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp1ng5k CLAIM-tmpgvsgg CLAIM-tmpjitli CLAIM-tmpq1lyz — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
+<!-- inactive-ok-file: CLAIM-tmp1ng5k CLAIM-tmpgvsgg CLAIM-tmpjitli — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
 # QUESTION-tmprvnp0: How do transmissible structures such as memes take part in forming, maintaining and transforming the organizations through which they become consequential, and when does the seed's own persistence matter to the organization's?
 

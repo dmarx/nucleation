@@ -52,8 +52,6 @@ summary: >-
   and held claims. [ARG-tmp2dpcv](../arguments.d/ARG-tmp2dpcv.md) argues it from [CASE-tmptpna1](../cases.d/CASE-tmptpna1.md). The wording
   is A's (ChatGPT, in the exchange 'Memes, Contracts, and Systemic
   Normativity'); adopting it is the owner's call.
-supersedes:
-- CLAIM-tmp1nubb
 ---
 <!-- inactive-ok-file: ARG-tmp2dpcv CASE-tmptpna1 CLAIM-364 CLAIM-tmp7hqtl CLAIM-tmpe6yfm CLAIM-tmpkvzcn — Proposed; cited as filed or held beside this entry, whatever its standing -->
 
@@ -112,7 +110,7 @@ its characteristic structure, rather than to its circumstances.
 
 At the owner's word on duplicates (2026-11-24: "your discretion how to best
 handle merges, they might not all merit the same resolution strategy"),
-this claim supersedes CLAIM-tmp1nubb, filed from A22 §15, which said the
+this claim supersedes [CLAIM-tmp1nubb](CLAIM-tmp1nubb.md), filed from A22 §15, which said the
 same thing for implicit contracts: "An implicit contract cannot be read off
 consistent behaviour". What that entry added is the list of probes that
 part arrangements alike on the ordinary course, now part of this claim:

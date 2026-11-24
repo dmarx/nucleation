@@ -32,7 +32,7 @@ summary: >-
   skill's step 9a now carries the check. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpu5cap CLAIM-tmpj4pw3 CLAIM-tmpjg5gx CLAIM-tmp8l5s9 — Proposed; the three instances and the owner's objection that found the third -->
+<!-- inactive-ok-file: CLAIM-tmpjg5gx CLAIM-tmp8l5s9 — Proposed; the three instances and the owner's objection that found the third -->
 
 # CLAIM-tmpyxemn: In the toy models filed from assistants' exchanges, the verbal conclusion drawn from a model often reads a parameter as the concept it was introduced to stand for, so checking a model's numbers is not enough: each parameter's reading has to be checked before a conclusion is read off it
 

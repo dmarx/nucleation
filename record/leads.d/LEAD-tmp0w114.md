@@ -29,7 +29,7 @@ summary: >-
   Systemic Normativity'); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-415 CLAIM-425 CLAIM-tmpj4pw3 — Proposed; the claims the test would advance -->
+<!-- inactive-ok-file: CLAIM-415 CLAIM-425 — Proposed; the claims the test would advance -->
 
 # LEAD-tmp0w114: Vary the direction of a social attribution while holding its stated grounds fixed, and estimate the part of each person's response that reverses with the attribution, to tell conformity and defiance, which share it, from a response governed by the grounds
 

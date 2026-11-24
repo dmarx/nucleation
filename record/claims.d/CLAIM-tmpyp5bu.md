@@ -38,7 +38,7 @@ summary: >-
   Contracts, and Systemic Normativity'); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-426 CLAIM-tmpnws9d — Proposed; the held claim this extends, and the gap fill filed with it -->
+<!-- inactive-ok-file: CLAIM-426 — Proposed; the held claim this extends, and the gap fill filed with it -->
 
 # CLAIM-tmpyp5bu: A hyperstition's success is not its representation's memetic fitness: what a representation helps bring about can come to be maintained by processes of its own and outlast the representation's circulation, so that it no longer needs to be believed in to exist, or it can stay dependent on continued circulation; which of the two holds is a fact about maintenance provenance, told apart by withdrawing the circulation once the realization has formed
 

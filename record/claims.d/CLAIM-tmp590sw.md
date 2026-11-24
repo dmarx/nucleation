@@ -30,8 +30,8 @@ summary: >-
   readings are valid. I mainly meant 'meme as value', but also persistent
   reproduction of a meme can nucleate related but distinct perspectives
   (e.g. 'death of the author' type phenomena)". It extends the owner's U2
-  (memes as nucleation sites, CLAIM-tmp1ng5k) with the reading they mainly
-  meant (CLAIM-tmp4mk0t). CLAIM-171 holds the reader's side, that a stored
+  (memes as nucleation sites, [CLAIM-tmp1ng5k](CLAIM-tmp1ng5k.md)) with the reading they mainly
+  meant ([CLAIM-tmp4mk0t](CLAIM-tmp4mk0t.md)). [CLAIM-171](CLAIM-171.md) holds the reader's side, that a stored
   text means only what its readings make of it; this claim adds that
   reproduction makes those readings into perspectives. Barthes's essay is
   not yet registered.
@@ -46,7 +46,7 @@ The owner, 2026-11-24: "persistent reproduction of a meme can nucleate
 related but distinct perspectives (e.g. 'death of the author' type
 phenomena)".
 
-On the reading the owner mainly meant (CLAIM-tmp4mk0t), a meme is one
+On the reading the owner mainly meant ([CLAIM-tmp4mk0t](CLAIM-tmp4mk0t.md)), a meme is one
 characteristic value of a perspective: how it responds to one kind of
 transformation of a situation. Reproduced, the value travels without the
 rest of the character that produced it. Each carrier that takes it up
@@ -58,16 +58,16 @@ shares that one value with its source and differs elsewhere.
 Barthes's figure: a text, once published, is no longer governed by its
 author's intentions, and its unity lies in its destination, the reader.
 Here the "text" is the meme and the readers are perspectives it nucleates.
-The record's CLAIM-171 holds the same point for stored texts: "an unread
+The record's [CLAIM-171](CLAIM-171.md) holds the same point for stored texts: "an unread
 text has possible meanings and no fixed one". What this claim adds is
 that the meanings become maintained perspectives, not passing readings.
 
 ## Bearing
 
-- **CLAIM-621**: reproduction can come apart from agreement on the concept
+- **[CLAIM-621](CLAIM-621.md)**: reproduction can come apart from agreement on the concept
   carried. This claim gives a route by which that happens without dispute:
   divergence by completion, not by contest.
-- **CLAIM-tmphi3mx** (the other U4 reading, the meme as a whole character):
+- **[CLAIM-tmphi3mx](CLAIM-tmphi3mx.md)** (the other U4 reading, the meme as a whole character):
   the owner holds it valid too. On it, reproduction copies a character, and
   divergence would need mutation. On this reading divergence needs only
   that carriers complete the meme differently.

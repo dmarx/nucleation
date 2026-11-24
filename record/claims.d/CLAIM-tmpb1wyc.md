@@ -113,8 +113,8 @@ session); adopting it is the owner's call.
 
 ## Note of 2026-11-24: rests on structural expectation, at the owner's ruling on duplicates
 
-At the owner's word (2026-11-24), this claim now rests on CLAIM-tmp18v1o
-instead of complementing it. CLAIM-tmp18v1o (A20 §2) is the mechanism: an
+At the owner's word (2026-11-24), this claim now rests on [CLAIM-tmp18v1o](CLAIM-tmp18v1o.md)
+instead of complementing it. [CLAIM-tmp18v1o](CLAIM-tmp18v1o.md) (A20 §2) is the mechanism: an
 expectation realized in a capacity the dependent has stopped maintaining.
 This claim (A34 §2, Google's Chubby) applies it to a provider whose
 realized reliability exceeds its guarantee, and adds the remedy, holding

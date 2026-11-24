@@ -38,7 +38,7 @@ summary: >-
   ([CLAIM-tmpgvsgg](CLAIM-tmpgvsgg.md), [CLAIM-tmp4uj40](CLAIM-tmp4uj40.md)). Filed in the owner's voice.
 ---
 
-<!-- inactive-ok-file: CLAIM-184 CLAIM-185 CLAIM-1004 CLAIM-tmp4uj40 CLAIM-tmpgvsgg CLAIM-tmpq1lyz LIT-tmpfj6uj — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
+<!-- inactive-ok-file: CLAIM-184 CLAIM-185 CLAIM-1004 CLAIM-tmp4uj40 CLAIM-tmpgvsgg LIT-tmpfj6uj — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
 # CLAIM-tmp1ng5k: A meme can act as a nucleation site: a seed around which beliefs, practices and relations organize, and not only a unit that copies itself
 
