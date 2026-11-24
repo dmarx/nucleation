@@ -21,6 +21,8 @@ date: '2026-11-24'
 line:
 - distributed-agency
 - organizational-normativity
+works:
+- governance-of-becoming
 complements:
 - CLAIM-347
 - CLAIM-357

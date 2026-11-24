@@ -23,6 +23,8 @@ tags:
 date: '2026-11-24'
 line:
 - dependence-and-domination
+works:
+- governance-of-becoming
 uses:
 - TERM-123
 complements:

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbbfcj
 title: 'In an institution each of whose recognized violations is penalized, newly recognized ones included, whose discovery of requirements earns nothing, and whose remediation lags recognition, inquiry that only reveals requirements never raises its score when the hidden requirements do not otherwise come to light: on every path it adds only penalized violations and spent budget, so an institution acting on that score makes no inquiry'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-23'
@@ -18,6 +18,12 @@ history:
     these rulings; ADR-057): its ground CASE-396 went Active on a
     reproduced rerun; the coupling argument was rechecked and the path-by-
     path test passes.
+- version: 3
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 11 abstract, §7 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -38,6 +44,8 @@ date: '2026-11-23'
 line:
 - organizational-normativity
 - distributed-agency
+works:
+- governance-of-becoming
 grounds:
 - CASE-396
 corroborates:

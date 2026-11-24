@@ -19,6 +19,8 @@ line:
 - organizational-affect
 - distributed-agency
 - organizational-normativity
+works:
+- governance-of-becoming
 bears_on:
 - QUESTION-265
 complements:

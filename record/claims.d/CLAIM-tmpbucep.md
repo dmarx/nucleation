@@ -19,6 +19,8 @@ date: '2026-11-24'
 line:
 - organizational-normativity
 - rightful-power
+works:
+- governance-of-becoming
 uses:
 - TERM-083
 complements:

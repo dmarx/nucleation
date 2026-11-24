@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'A norm can be stabilized by the reliance it attracts: compliance makes a practice predictable, others specialize around it, and their stake in its continuation funds its maintenance, which raises compliance, so a practice established past a threshold can persist where a weakly established one would not, and can outlast a weakening of the reasons that first supported it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-24'
@@ -10,6 +10,12 @@ history:
     objection (CLAIM-tmp8l5s9): the model lets an established norm outlast
     the loss of most of its baseline support, so it supports A22's
     sentence on outlasting a justification. No change of title or status.
+- version: 3
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 7 abstract; Article 13 §3 (ADR-
+    tmpenzcn). No change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,6 +34,8 @@ date: '2026-11-24'
 line:
 - organizational-normativity
 - dependence-and-domination
+works:
+- governance-of-becoming
 complements:
 - CLAIM-tmphq6hp
 - CLAIM-277

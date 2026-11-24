@@ -17,6 +17,8 @@ date: '2026-11-24'
 line:
 - dependence-and-domination
 - learning-and-inquiry
+works:
+- governance-of-becoming
 uses:
 - TERM-064
 complements:

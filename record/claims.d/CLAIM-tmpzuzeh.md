@@ -21,6 +21,8 @@ line:
 - distributed-agency
 - will-organization
 - learning-and-inquiry
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-tmpe6yfm
 complements:

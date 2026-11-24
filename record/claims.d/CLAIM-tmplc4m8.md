@@ -16,6 +16,8 @@ date: '2026-11-24'
 line:
 - rightful-power
 - will-organization
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-tmp1wlu2
 summary: >-

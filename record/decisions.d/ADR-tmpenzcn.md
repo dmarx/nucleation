@@ -114,7 +114,7 @@ only. ADR-104 is the membership rule and ADR-144 the latest precedent
 
 ## Consequences
 
-- 122 entries join the work when the lead writes membership: 60 held
+- 122 entries join the work, each with the field and, where it keeps a history, a version bump and a note (50 of them): 60 held
   before the exchange (24 Active, 36 Proposed), 61 filed from its turns
   U1 to U30, and CLAIM-tmpv5sry, filed from A49's Part IV in this change.
   ARG-tmptccms and ARG-tmpa5ped are the two arguments. 13 more are

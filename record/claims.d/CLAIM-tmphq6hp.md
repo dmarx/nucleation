@@ -20,6 +20,8 @@ tags:
 date: '2026-11-24'
 line:
 - organizational-normativity
+works:
+- governance-of-becoming
 uses:
 - TERM-151
 complements:

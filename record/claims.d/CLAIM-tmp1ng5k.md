@@ -19,6 +19,8 @@ date: '2026-11-24'
 line:
 - distributed-agency
 - pragmatic-transport
+works:
+- governance-of-becoming
 complements:
 - CLAIM-1004
 - CLAIM-185

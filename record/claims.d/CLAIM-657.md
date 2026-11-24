@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpljkzy
 title: 'An organization can become normatively less informed without censoring anyone by two distinct routes, selective disappearance of the harmed from the population it observes and costly discovery that keeps it from investigating the questions that would reveal unmet obligations; neither needs deliberate suppression, and both differ from the counter-corrective weakening of the channels through which challenge succeeds, so that they should not be conflated in attributing responsibility'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -15,6 +15,12 @@ history:
     being filed, and by the selective survival of challenges to
     adjudication; A relays the claim as its first route only. No other
     change.
+- version: 3
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 6 abstract, §5 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,6 +39,8 @@ date: '2026-11-12'
 line:
 - organizational-normativity
 - distributed-agency
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-652
 - CLAIM-662

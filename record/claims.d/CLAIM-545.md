@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpxpdqi
 title: 'Freedom of will, in the operational sense, is an agent''s governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another''s interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another''s capacity to govern those same relations, used or not'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-06'
@@ -58,6 +58,12 @@ history:
     the claim with claims that persist without the holder's
     competence, and A93 §2 presents its phrase as shared coinage. No
     other change.
+- version: 8
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 6 §7; closing (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -80,6 +86,8 @@ tags:
 date: '2026-11-02'
 line:
 - will-organization
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-354
 - CLAIM-523

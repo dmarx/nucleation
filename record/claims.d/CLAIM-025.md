@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp7wkss
 title: 'An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-21'
@@ -53,6 +53,12 @@ history:
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §1.2, §2.8, §7.1, §8.2,
     §15.3. No other change.
+- version: 8
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 10 abstract; Article 13 §10 (ADR-
+    tmpenzcn). No change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -68,6 +74,7 @@ line:
 works:
 - governance-of-possibility
 - organization-of-will
+- governance-of-becoming
 grounds:
 - CASE-036
 - CASE-111

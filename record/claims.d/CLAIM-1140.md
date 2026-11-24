@@ -20,6 +20,8 @@ date: '2026-11-23'
 line:
 - distributed-agency
 - learning-and-inquiry
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-996
 - CLAIM-277

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbi4ca
 title: 'For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-06'
@@ -65,6 +65,12 @@ history:
     Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §9 uses
     its threshold, the least peak over paths. No other change.
+- version: 8
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 3 abstract, §6 (ADR-tmpenzcn). No
+    change of title or status.
 grounds:
 - CASE-233
 role: thesis
@@ -104,6 +110,7 @@ complements:
 - CLAIM-591
 works:
 - governance-of-possibility
+- governance-of-becoming
 ---
 <!-- inactive-ok-file: CLAIM-584 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: THEORY-1420 CASE-198 CASE-200 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->

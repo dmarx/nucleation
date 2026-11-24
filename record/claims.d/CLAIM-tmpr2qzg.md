@@ -18,6 +18,8 @@ date: '2026-11-24'
 line:
 - rightful-power
 - organizational-normativity
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-tmpazcha
 summary: >-

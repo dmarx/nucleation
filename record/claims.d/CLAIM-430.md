@@ -24,6 +24,7 @@ line:
 - distributed-agency
 works:
 - organization-of-perspective
+- governance-of-becoming
 rests_on:
 - CLAIM-275
 uses:

@@ -20,6 +20,8 @@ line:
 - rightful-power
 - organizational-normativity
 - readiness
+works:
+- governance-of-becoming
 summary: >-
   A40 §10's third candidate claim ("Structural conservation does not entail
   capacity conservation") in the exchange "Memes, Contracts, and Systemic

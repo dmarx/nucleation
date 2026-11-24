@@ -24,6 +24,8 @@ date: '2026-11-24'
 line:
 - rightful-power
 - dependence-and-domination
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-tmpb1wyc
 grounds:

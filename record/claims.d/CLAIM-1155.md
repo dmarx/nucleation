@@ -33,6 +33,8 @@ date: '2026-11-22'
 line:
 - organizational-normativity
 - distributed-agency
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-348
 - CLAIM-523

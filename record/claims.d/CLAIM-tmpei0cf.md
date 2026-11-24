@@ -18,6 +18,8 @@ date: '2026-11-24'
 line:
 - pragmatic-transport
 - nucleating-argument
+works:
+- governance-of-becoming
 complements:
 - CLAIM-085
 - CLAIM-298

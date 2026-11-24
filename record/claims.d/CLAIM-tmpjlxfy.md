@@ -18,6 +18,8 @@ date: '2026-11-24'
 line:
 - organizational-normativity
 - distributed-agency
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-tmpjitli
 - CLAIM-523

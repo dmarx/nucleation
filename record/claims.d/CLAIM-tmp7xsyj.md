@@ -18,6 +18,8 @@ date: '2026-11-24'
 line:
 - rightful-power
 - distributed-agency
+works:
+- governance-of-becoming
 complements:
 - CLAIM-1002
 grounds:

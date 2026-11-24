@@ -18,6 +18,8 @@ date: '2026-11-24'
 line:
 - nucleating-argument
 - pragmatic-transport
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-463
 grounds:

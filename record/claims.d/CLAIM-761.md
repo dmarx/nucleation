@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpqpd2p
 title: 'A stabilized constraint can be stored work: by replacing later work with cheaper operations it changes which activities are realizable within a fixed per-task budget, so amortization becomes capability expansion without any added degrees of freedom or resources; the expansion is conditional on the costs of constructing, keeping, retrieving, verifying and revising the constraint and on the distribution of later demands, and the persistence that buys it can entrench'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-20'
@@ -34,6 +34,12 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §11.1. No other change.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 3 abstract, §1 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -63,6 +69,7 @@ line:
 works:
 - governance-of-possibility
 - cost-structure-of-possibility
+- governance-of-becoming
 rests_on:
 - CLAIM-303
 - CLAIM-475

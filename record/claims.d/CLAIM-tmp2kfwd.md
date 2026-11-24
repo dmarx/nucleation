@@ -19,6 +19,8 @@ date: '2026-11-24'
 line:
 - learning-and-inquiry
 - distributed-agency
+works:
+- governance-of-becoming
 complements:
 - CLAIM-996
 - CLAIM-523

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp3gvbj
 title: 'A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity, and a judgement can shape a person who rejects it, because resisting it makes it consequential'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-22'
@@ -61,6 +61,12 @@ history:
     QUESTION-119's first line, distributed-agency, is already this
     claim's (ADR-085). Reported by the synthesis review of
     2026-11-11 (seventh round). No other change.
+- version: 7
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 7 §7 (ADR-tmpenzcn). No change of
+    title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -78,6 +84,8 @@ tags:
 date: '2026-10-22'
 line:
 - distributed-agency
+works:
+- governance-of-becoming
 complements:
 - CLAIM-355
 uses:

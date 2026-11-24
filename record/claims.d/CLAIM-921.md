@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp9mpn0
 title: 'Where competence decays without funded maintenance and a capability is committed only when competent enough, a budget that follows observed use has a state in which the capability is never used or funded again whenever the base budget alone sustains competence below that level, any stretch without occasions long enough for competence to decay there reaches it whatever each use was paid, so at the same expected funding a rarer capability is lost sooner, while maintenance funded apart from use, at a level that sustains the threshold, has no such state'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-22'
@@ -18,6 +18,12 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §9.10. No other change.
+- version: 3
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 3 §5; Article 10 table (ADR-tmpenzcn).
+    No change of title or status.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -69,6 +75,7 @@ summary: >-
   session); adopting it is the owner's call.
 works:
 - governance-of-possibility
+- governance-of-becoming
 ---
 <!-- inactive-ok-file: CASE-343 CLAIM-878 — new or Proposed; the study this claim is drawn from, filed with it, and LEAD-080's corollary -->
 

@@ -20,6 +20,8 @@ date: '2026-11-24'
 line:
 - will-organization
 - learned-structure
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-358
 - CLAIM-tmp7hqtl

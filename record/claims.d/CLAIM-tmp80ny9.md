@@ -20,6 +20,8 @@ date: '2026-11-24'
 line:
 - pragmatic-transport
 - dependence-and-domination
+works:
+- governance-of-becoming
 bears_on:
 - QUESTION-tmpb7fx7
 complements:

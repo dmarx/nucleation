@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8lheg
 title: 'What the record explained by "self" in its dispositional, persisting, self-governing and integrated senses is better explained by organizational perspectives, with a perspective, its carriers, its lineage and its representations kept apart; the subject sense stays a separate question, and narrative, presented and modeled selves involve representations that may describe a perspective, attribute it to a bearer or construct an owner, none of them the perspective itself'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-22'
@@ -45,6 +45,12 @@ history:
     The text was: "becomes a perspective's dispositional repertoire and
     the resources coupled to it (habitus, in the sociology the exchange
     leaned on: LIT-1377, LIT-1367)". The claim stays Proposed.
+- version: 7
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 1 §4, Article 14 §8 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -76,6 +82,7 @@ complements:
 works:
 - organization-of-perspective
 - self-without-a-sovereign
+- governance-of-becoming
 summary: >-
   The owner's, at U31 of the exchange of 2026-10-22: the record's earlier
   "selves" are "better described as 'organizational perspectives'". A31

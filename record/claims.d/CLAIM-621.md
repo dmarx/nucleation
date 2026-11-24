@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpnza8k
 title: 'An expression''s reproduction can come apart from agreement on the concept it carries: communities that use it against one another, and contest whom it describes, can keep it in circulation, so symbolic stability can persist while conceptual stability fails, and a durable dispute over a term shows a durable relation among its uses, not one concept'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-10'
@@ -24,6 +24,12 @@ history:
     is pragmatic-transport and which carries distributed-agency
     second. Its resting on distributed-agency claims stays a
     crossing the argument chain reports. No other change.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 7 abstract, §7 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -43,6 +49,8 @@ date: '2026-11-07'
 line:
 - pragmatic-transport
 - learned-structure
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-280
 complements:

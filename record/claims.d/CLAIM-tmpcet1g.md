@@ -17,6 +17,8 @@ tags:
 date: '2026-11-24'
 line:
 - organizational-affect
+works:
+- governance-of-becoming
 complements:
 - CLAIM-552
 uses:

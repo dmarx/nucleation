@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp679hm
 title: 'No coarse-graining is normatively adequate in general because it preserves stability, prediction or aggregate performance: a description adequate for an institution''s performance can merge states its members'' claims must distinguish, so adequacy is fixed by the evaluative target, and the target cannot be justified solely by the description that preserves it'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -40,6 +40,12 @@ history:
     identity description meets as worded. It now asks for a criterion
     choosing a coarse-graining that merges some states, and names the
     identity as not defeating. Title unchanged.
+- version: 6
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 11 abstract (ADR-tmpenzcn). No change
+    of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -59,6 +65,8 @@ tags:
 date: '2026-10-18'
 line:
 - distributed-agency
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-350
 - CLAIM-152

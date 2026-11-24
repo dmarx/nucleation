@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpkjv7u
 title: 'A dependence becomes presumptively dominating by those who control it when three conditions coincide: participation in an important sphere of life rests on the arrangement, those who control it hold consequential discretion over the dependent, and the dependent lacks effective means of protection, influence, challenge or justified withdrawal; this is a test for domination by an arrangement''s controllers, not for every unfreedom, and impersonal constraint that no one holds is outside it'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-13'
@@ -42,6 +42,12 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Stark and Hester (LIT-2712) read on 2026-11-16, NOTE-1999. No change of status or title.
+- version: 6
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 9 abstract (ADR-tmpenzcn). No change
+    of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -63,6 +69,8 @@ tags:
 date: '2026-11-13'
 line:
 - dependence-and-domination
+works:
+- governance-of-becoming
 bears_on:
 - QUESTION-461
 complements:

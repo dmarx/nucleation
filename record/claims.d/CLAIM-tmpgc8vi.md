@@ -17,6 +17,8 @@ date: '2026-11-24'
 line:
 - organizational-normativity
 - distributed-agency
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-tmp4mk0t
 complements:

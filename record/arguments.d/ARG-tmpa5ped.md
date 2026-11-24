@@ -16,6 +16,8 @@ tags:
 date: '2026-11-24'
 line:
 - realizability
+works:
+- governance-of-becoming
 summary: >-
   A30 §§2 and 15 of the exchange 'Memes, Contracts, and Systemic
   Normativity' (ChatGPT, 2026-11-24) maps [CASE-326](../cases.d/CASE-326.md)'s terms onto a contract's

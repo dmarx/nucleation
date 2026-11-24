@@ -19,6 +19,8 @@ date: '2026-11-24'
 line:
 - will-organization
 - organizational-affect
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-443
 complements:

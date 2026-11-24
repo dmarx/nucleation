@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpalzo4
 title: 'Inquiry is a form of specification: a question fixes which differences would count as an answer, an inquiry adds the operations that make those differences accessible, and what it finds can stabilize into a specification that constrains later inquiry; so inquiry stands to its findings as a specification to its realizations, with one difference, that an inquiry can revise what an answer could be'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-29'
@@ -51,6 +51,12 @@ history:
     THEORY-1064 and THEORY-1094 already corroborate this claim;
     the claim does not rest on the work. The body keeps the
     citation. The text is unchanged.
+- version: 6
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 5 abstract, §5 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -71,6 +77,8 @@ tags:
 date: '2026-10-27'
 line:
 - record-as-apparatus
+works:
+- governance-of-becoming
 complements:
 - CLAIM-476
 - CLAIM-469

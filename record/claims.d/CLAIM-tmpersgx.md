@@ -22,6 +22,8 @@ date: '2026-11-24'
 line:
 - will-organization
 - distributed-agency
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-tmpkvzcn
 - CLAIM-tmp7hqtl

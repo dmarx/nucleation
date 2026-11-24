@@ -21,6 +21,8 @@ tags:
 date: '2026-11-23'
 line:
 - readiness
+works:
+- governance-of-becoming
 complements:
 - CLAIM-1003
 uses:

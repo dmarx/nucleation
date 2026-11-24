@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpj6tb1
 title: 'An arrangement can produce the dependence through which it exploits: by reliably supplying what a party then ceases to supply for itself, it creates a reliance on the provider that the party did not have before, and the provider can use that reliance to set terms the party could earlier have refused'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-15'
@@ -38,6 +38,12 @@ history:
     directions of dependency exploitation and relay hold-up with a
     bargaining model; Klein, Crawford and Alchian (1978) registered as
     LIT-tmpgcwyt. No change of status or title.
+- version: 6
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 9 abstract, §2 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,6 +68,7 @@ line:
 - transient-support
 works:
 - capability-restraint-relational-freedom
+- governance-of-becoming
 rests_on:
 - CLAIM-603
 complements:

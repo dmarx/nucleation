@@ -19,6 +19,8 @@ date: '2026-11-24'
 line:
 - dependence-and-domination
 - realizability
+works:
+- governance-of-becoming
 bears_on:
 - QUESTION-472
 complements:

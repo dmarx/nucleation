@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmprrjrd
 title: 'A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -43,6 +43,12 @@ history:
   date: '2026-11-22'
   note: >-
     A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
+- version: 7
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 1 §2 (ADR-tmpenzcn). No change of
+    title or status.
 role: counter
 warrant: interpretive
 tags:
@@ -58,6 +64,8 @@ grounds:
 - THEORY-073
 - THEORY-066
 - THEORY-1119
+works:
+- governance-of-becoming
 summary: >-
   A counter to the block criterion and to the agency test's first
   condition, found by two separate reviews of the unlinked THEORYs in the

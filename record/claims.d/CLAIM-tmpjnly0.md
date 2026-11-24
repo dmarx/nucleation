@@ -18,6 +18,8 @@ date: '2026-11-24'
 line:
 - dependence-and-domination
 - organizational-normativity
+works:
+- governance-of-becoming
 uses:
 - TERM-tmpxr1ox
 complements:

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpancvu
 title: 'A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and costly to acquire, so having enough to sustain it is not having enough to acquire it'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-06'
@@ -41,6 +41,12 @@ history:
     Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §9 uses
     it: endpoints cheap to keep, switching costly. No other change.
+- version: 6
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 3 abstract, §2 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -62,6 +68,7 @@ line:
 works:
 - governance-of-possibility
 - cost-structure-of-possibility
+- governance-of-becoming
 rests_on:
 - CLAIM-571
 uses:

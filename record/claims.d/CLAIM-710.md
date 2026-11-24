@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpuiaop
 title: 'Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted'
-version: 13
+version: 14
 history:
 - version: 2
   date: '2026-11-16'
@@ -66,6 +66,12 @@ history:
   date: '2026-11-22'
   note: >-
     A dated note added: Frischmann and Benesch (LIT-3136) registered and read on 2026-11-22 for LEAD-152, NOTE-2359. No change of status or title.
+- version: 14
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 13 abstract, §5 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -86,6 +92,8 @@ tags:
 date: '2026-11-15'
 line:
 - distributed-agency
+works:
+- governance-of-becoming
 complements:
 - CLAIM-523
 - CLAIM-462

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvr0mx
 title: 'For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-11-06'
@@ -60,6 +60,12 @@ history:
     manuscript from the exchange "Explain First Contact RL": A48 §10 and
     §13 state its three achievements, detection, authority and correction
     within a deadline, without citing it. No other change.
+- version: 10
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 8 §6 (ADR-tmpenzcn). No change of
+    title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -81,6 +87,7 @@ line:
 works:
 - governance-of-possibility
 - capability-restraint-relational-freedom
+- governance-of-becoming
 uses:
 - TERM-064
 - TERM-023

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjo2zr
 title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
-version: 14
+version: 15
 history:
 - version: 2
   date: '2026-10-21'
@@ -94,6 +94,12 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §13.5. No other change.
+- version: 15
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 6 abstract, §4 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -157,6 +163,7 @@ bears_on:
 - QUESTION-071
 works:
 - governance-of-possibility
+- governance-of-becoming
 ---
 <!-- inactive-ok-file: CASE-401 CLAIM-1000 CLAIM-1202 CLAIM-1021 — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
 <!-- inactive-ok-file: LIT-2453 — Unfetched; filed from the same exchange -->

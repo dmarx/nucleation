@@ -19,6 +19,8 @@ date: '2026-11-24'
 line:
 - dependence-and-domination
 - pragmatic-transport
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-tmp80ny9
 complements:

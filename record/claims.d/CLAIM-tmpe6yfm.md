@@ -22,6 +22,8 @@ line:
 - will-organization
 - organizational-normativity
 - distributed-agency
+works:
+- governance-of-becoming
 complements:
 - CLAIM-075
 - CLAIM-725

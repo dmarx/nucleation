@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpi1bjh
 title: 'Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-10-29'
@@ -68,6 +68,12 @@ history:
   note: >-
     Wording only, at the owner's request (review of dmarx/nucleation#528,
     2026-11-19): "dear" replaced by "costly" in one sentence. No other change.
+- version: 10
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 5 abstract (ADR-tmpenzcn). No change
+    of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -89,6 +95,7 @@ line:
 - record-as-apparatus
 works:
 - cost-structure-of-possibility
+- governance-of-becoming
 rests_on:
 - CLAIM-470
 complements:

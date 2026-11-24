@@ -18,6 +18,8 @@ date: '2026-11-24'
 line:
 - distributed-agency
 - pragmatic-transport
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-tmp1ng5k
 complements:

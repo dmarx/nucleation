@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpk5av7
 title: 'Viability does not establish what ought to persist'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-11'
@@ -21,6 +21,12 @@ history:
     manuscript from the exchange "Explain First Contact RL": A48 §12 and
     §14 use it: viability does not fix what ought to persist. No other
     change.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Programme (four distinctions), Article 1 §6
+    (ADR-tmpenzcn). No change of title or status.
 role: disclaimed
 warrant: interpretive
 tags:
@@ -32,6 +38,7 @@ line:
 works:
 - governance-of-possibility
 - organization-of-will
+- governance-of-becoming
 summary: >-
   Sections 6.10 and 7.3: "An unjust institution may be highly viable."
   Viability licenses conditional functional judgment only.

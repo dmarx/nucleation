@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpyjzi8
 title: 'A moral commitment is exploitable as a resource: because a committed party reliably acts on it, whoever controls the circumstances that trigger it can capture what its fulfilment yields and leave its costs with that party, without deception, coercion or any unreasonable choice by the party, and an institution can come to run on what it so avoids paying, with the burden falling hardest on its most conscientious members'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-11-16'
@@ -58,6 +58,12 @@ history:
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §6.1 and A53 §8 state its proposition. No
     other change.
+- version: 10
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 9 abstract, §4 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -85,6 +91,7 @@ line:
 - dependence-and-domination
 works:
 - capability-restraint-relational-freedom
+- governance-of-becoming
 rests_on:
 - CLAIM-703
 complements:

@@ -26,6 +26,8 @@ tags:
 date: '2026-11-22'
 line:
 - dependence-and-domination
+works:
+- governance-of-becoming
 grounds:
 - CASE-256
 objects_to:

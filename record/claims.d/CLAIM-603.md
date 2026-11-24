@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpqa0qu
 title: "A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity"
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-07'
@@ -45,6 +45,12 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §12.4. No other change.
+- version: 8
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 2 abstract; Article 9 abstract (ADR-
+    tmpenzcn). No change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -109,6 +115,7 @@ corroborates:
 - CLAIM-600
 works:
 - governance-of-possibility
+- governance-of-becoming
 ---
 <!-- inactive-ok-file: THEORY-2224 — Proposed; the reading of the 10 Principles, 2026-11-22 -->
 <!-- inactive-ok-file: CASE-262 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; cited in the proposed test -->

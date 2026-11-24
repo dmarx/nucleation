@@ -19,6 +19,8 @@ date: '2026-11-24'
 line:
 - readiness
 - dependence-and-domination
+works:
+- governance-of-becoming
 complements:
 - CLAIM-700
 - CLAIM-571

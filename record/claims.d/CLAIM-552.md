@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpgjdby
 title: 'A perspective''s tolerance for another process''s contribution is its criterion for conferring influence on that contribution, set by its own priorities: tolerances are directed, and the discrepancy each measures is the perspective''s own, so inside its tolerance the perspective''s interventions raise the other''s share of future influence and outside it they lower it; meeting the tolerance is necessary for that conferral where the criterion binds, and sufficient only for a grant, under a rule that grants influence on it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -25,6 +25,12 @@ history:
     measures discrepancy by its own priorities, is about which
     discrepancies count as significant, not whether a distinction can be
     recovered. No other change.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 4 formal centre (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,6 +50,8 @@ date: '2026-11-04'
 line:
 - will-organization
 - distributed-agency
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-534
 - CLAIM-347

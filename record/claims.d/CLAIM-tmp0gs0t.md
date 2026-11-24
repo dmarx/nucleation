@@ -18,6 +18,8 @@ date: '2026-11-24'
 line:
 - rightful-power
 - organizational-affect
+works:
+- governance-of-becoming
 complements:
 - CLAIM-731
 grounds:

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp6p3ki
 title: 'Whichever way a whole and its part depend on each other, the same magnitude of dependence can run either way, and what sorts it is who controls the terms on which it is met, exit, renegotiation and the conditions of supply, while the magnitude and the integration that produced it set only how much rides on it: with the part able to withdraw or renegotiate, the whole''s need of it becomes the part''s hold on its terms; with the terms at an agent''s discretion, the same need gives the part none, and the part''s own dependence becomes vulnerability to that agent, on whom, under a principle grounding obligations in such vulnerability, the strengthened responsibility falls'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-15'
@@ -21,6 +21,12 @@ history:
     Joins the work capability-restraint-relational-freedom
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §6 states its proposition. No other change.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 9 abstract (ADR-tmpenzcn). No change
+    of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -52,6 +58,7 @@ line:
 - distributed-agency
 works:
 - capability-restraint-relational-freedom
+- governance-of-becoming
 rests_on:
 - CLAIM-428
 grounds:

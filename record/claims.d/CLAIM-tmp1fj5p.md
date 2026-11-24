@@ -22,6 +22,8 @@ date: '2026-11-24'
 line:
 - organizational-normativity
 - dependence-and-domination
+works:
+- governance-of-becoming
 complements:
 - CLAIM-tmpreipd
 bears_on:

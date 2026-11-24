@@ -25,6 +25,8 @@ line:
 - realizability
 - dependence-and-domination
 - formal-apparatus
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-761
 - CLAIM-569

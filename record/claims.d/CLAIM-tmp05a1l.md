@@ -19,6 +19,8 @@ tags:
 date: '2026-11-24'
 line:
 - dependence-and-domination
+works:
+- governance-of-becoming
 complements:
 - CLAIM-669
 - CLAIM-670

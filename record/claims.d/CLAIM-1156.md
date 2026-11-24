@@ -20,6 +20,8 @@ date: '2026-11-23'
 line:
 - distributed-agency
 - learning-and-inquiry
+works:
+- governance-of-becoming
 uses:
 - TERM-165
 complements:

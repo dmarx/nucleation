@@ -21,6 +21,8 @@ date: '2026-11-24'
 line:
 - dependence-and-domination
 - distributed-agency
+works:
+- governance-of-becoming
 complements:
 - CLAIM-tmp18v1o
 - CLAIM-tmp1nubb

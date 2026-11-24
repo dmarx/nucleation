@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpmr1t8
 title: 'Learned local accommodation can reduce the amortized cost of recurrent arbitration: where a recurring conflict among an agent''s processes admits a stable accommodation, settling it among the processes can cost less over repeated encounters than escalating each instance to a higher-level process that mediates or overrides, though local negotiation and the relations it needs are not free'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-28'
@@ -38,6 +38,12 @@ history:
     accommodation nor escalation within the agent. The demand is granted
     in another organization." The question's first line is already this
     claim's, so no line is added (ADR-085). No other change.
+- version: 6
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 4 abstract, §5 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,6 +68,8 @@ tags:
 date: '2026-10-18'
 line:
 - will-organization
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-261
 grounds:

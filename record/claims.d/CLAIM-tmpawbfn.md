@@ -15,6 +15,8 @@ tags:
 date: '2026-11-24'
 line:
 - rightful-power
+works:
+- governance-of-becoming
 summary: >-
   A38 §4 and A40 §5 of the exchange "Memes, Contracts, and Systemic
   Normativity" (2026-11-24), at the owner's U25 and U26: "They therefore

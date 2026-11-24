@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmph28l6
 status: Proposed
 title: 'The cost of imposing a decision and the cost of questioning, suspending or reversing it are separate, so an institution can lower the first while the second stays the same or rises, gaining power over those its decisions affect with no change in its formal authority: friction moves from the exercise of power to its contestation'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-17'
@@ -23,6 +23,12 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §13.3. No other change.
+- version: 5
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 9 abstract (ADR-tmpenzcn). No change
+    of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -64,6 +70,7 @@ summary: >-
   A26 §VI. The wording is A's; adopting it is the owner's call.
 works:
 - governance-of-possibility
+- governance-of-becoming
 ---
 <!-- inactive-ok-file: CLAIM-706 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->

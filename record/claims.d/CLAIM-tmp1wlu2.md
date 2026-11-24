@@ -21,6 +21,8 @@ date: '2026-11-24'
 line:
 - rightful-power
 - will-organization
+works:
+- governance-of-becoming
 grounds:
 - LIT-tmptzlx9
 summary: >-

@@ -23,6 +23,8 @@ line:
 - distributed-agency
 - will-organization
 - dependence-and-domination
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-404
 - CLAIM-tmp1ng5k

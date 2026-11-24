@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp0tg7y
 title: 'Where members'' conscientious compensation covers an organization''s shortfall and the organization budgets to what it observes, the compensation and the quiet it buys are read as adequacy, resources are cut toward what the present configuration needs, and the reconfigurations that would remove the shortfall pass out of reach while the present arrangement stays feasible; and where revealing spare capacity invites its removal, the members'' own best responses feed the loop'
-version: 10
+version: 11
 history:
 - version: 2
   date: '2026-11-16'
@@ -72,6 +72,12 @@ history:
   note: >-
     A dated note added: A22 §11 of the exchange "Memes, Contracts, and
     Systemic Normativity" restates the loop. No change of status or title.
+- version: 11
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 9 §4; Article 10 table; Article 12 §4
+    (ADR-tmpenzcn). No change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -122,6 +128,7 @@ summary: >-
   call.
 works:
 - governance-of-possibility
+- governance-of-becoming
 ---
 <!-- unresolved-ok-file: CLAIM-tmp0ogo4 — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
 <!-- inactive-ok-file: SYNTHESIS-099 — Proposed; the part account whose audit found the second route -->

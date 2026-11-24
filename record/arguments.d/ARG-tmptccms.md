@@ -14,6 +14,8 @@ tags:
 date: '2026-11-24'
 line:
 - dependence-and-domination
+works:
+- governance-of-becoming
 summary: >-
   The support [CASE-tmp3xxqg](../cases.d/CASE-tmp3xxqg.md) gives [CLAIM-tmpb1wyc](../claims.d/CLAIM-tmpb1wyc.md), filed from A34 §2 of the
   exchange "Memes, Contracts, and Systemic Normativity" (2026-11-24).

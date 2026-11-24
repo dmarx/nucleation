@@ -19,6 +19,8 @@ line:
 - distributed-agency
 - organizational-normativity
 - pragmatic-transport
+works:
+- governance-of-becoming
 complements:
 - CLAIM-627
 - CLAIM-619
