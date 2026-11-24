@@ -43,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1785 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-491 LIT-1740 LIT-1738 LIT-1764 LIT-1692 LIT-1715 LIT-1793 LIT-1718 LIT-1770 LIT-1701 LIT-1727 LIT-1679 — Open, Proposed or Deferred; the questions, claims, case and works the question is organised around, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmp3qsdg CLAIM-tmpv8nto CLAIM-tmpgv8bs ARG-tmpmenxz THEORY-tmpo8don THEORY-tmp4fo7b THEORY-tmppcqht THEORY-tmpseccf THEORY-tmplq0um — filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-1017 CLAIM-1182 CLAIM-1103 ARG-229 THEORY-2297 THEORY-2280 THEORY-2299 THEORY-2303 THEORY-2293 — filed by the lead run of 2026-11-23 -->
 
 # QUESTION-297: When the effects of trauma reach descendants who did not live through it, by which route do they travel: germline epigenetics, the womb, parenting, or a group's narrative and identity; and on the identity route, does an ancestor's injury become part of the descendant's self?
 
@@ -279,34 +279,34 @@ is close to "the womb" but persists postnatally. Weak, worth a dated note.
 [LEAD-156](../leads.d/LEAD-156.md)'s run searched for the study "What would count as an answer"
 names on the routes, and read the five nearest works.
 
-- **What each design separates** ([CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md), the run's verdict).
+- **What each design separates** ([CLAIM-1017](../claims.d/CLAIM-1017.md), the run's verdict).
   - Donor gametes remove the womb and rearing from what the gamete
     carries, but cannot divide a germline mark from the genes it travels
-    with ([CLAIM-tmpv8nto](../claims.d/CLAIM-tmpv8nto.md)). The design is shown at work by Rice et al.
-    ([THEORY-tmpo8don](../theory.d/THEORY-tmpo8don.md)) and Lewis et al. ([THEORY-tmp4fo7b](../theory.d/THEORY-tmp4fo7b.md)), for prenatal
+    with ([CLAIM-1182](../claims.d/CLAIM-1182.md)). The design is shown at work by Rice et al.
+    ([THEORY-2297](../theory.d/THEORY-2297.md)) and Lewis et al. ([THEORY-2280](../theory.d/THEORY-2280.md)), for prenatal
     stress and parental depression. No study of trauma-exposed donors was
     found.
   - A father's exposure before conception removes the womb, and leaves
-    his rearing and the group. Tuulari et al. ([THEORY-tmpseccf](../theory.d/THEORY-tmpseccf.md)) add the
+    his rearing and the group. Tuulari et al. ([THEORY-2303](../theory.d/THEORY-2303.md)) add the
     molecular half: men's childhood maltreatment goes with sperm marks
     decades later, with no child measured.
   - A pregnant grandmother's exposure, the "germline exposure" of Mulligan
-    et al.'s Syrian families ([THEORY-tmppcqht](../theory.d/THEORY-tmppcqht.md)), removes none of the three.
+    et al.'s Syrian families ([THEORY-2299](../theory.d/THEORY-2299.md)), removes none of the three.
     The middle generation was exposed in utero, raised by the exposed
     grandmother, in the exposed community.
-  - The field's own survey (Zhou and Ryan, [THEORY-tmplq0um](../theory.d/THEORY-tmplq0um.md)) lists no design
+  - The field's own survey (Zhou and Ryan, [THEORY-2293](../theory.d/THEORY-2293.md)) lists no design
     that does better.
 
   So the first test still has, for now, the second answer the question
   allows, as the note of 2026-10-29 said. The run adds why: the designs'
   blind spots differ, and no natural experiment found combines them.
-- **An alternative** ([CLAIM-tmpgv8bs](../claims.d/CLAIM-tmpgv8bs.md), [ARG-tmpmenxz](../arguments.d/ARG-tmpmenxz.md)). The Syrian study can
+- **An alternative** ([CLAIM-1103](../claims.d/CLAIM-1103.md), [ARG-229](../arguments.d/ARG-229.md)). The Syrian study can
   be read as the first partial separation, from the care of a parent who
   lived through the trauma. The run leans against that reading. The owner
   chooses.
 - **The parenting route** gains a design that isolates it from genes.
   In IVF families, a parent's depression symptoms go with the child's when
-  the two are genetically unrelated ([THEORY-tmp4fo7b](../theory.d/THEORY-tmp4fo7b.md)). The exposure is not
+  the two are genetically unrelated ([THEORY-2280](../theory.d/THEORY-2280.md)). The exposure is not
   trauma, so this supports the route, not its share in the transmission
   of trauma.
 - **The identity test** has no study to read. Nothing was found that
@@ -320,4 +320,4 @@ names on the routes, and read the five nearest works.
   ([LIT-1764](../literature.d/LIT-1764.md)) remain unread here. Zhou and Ryan give the FKBP5 study's
   controls (current PTSD, offspring childhood trauma, genotype), and add
   that "Potential epigenetic effects in maternal or paternal gametes could
-  not, however, be investigated" ([NOTE-tmp05o0u](../notes.d/NOTE-tmp05o0u.md)).
+  not, however, be investigated" ([NOTE-2368](../notes.d/NOTE-2368.md)).

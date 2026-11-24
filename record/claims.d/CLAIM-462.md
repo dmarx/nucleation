@@ -67,7 +67,7 @@ history:
 - version: 10
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §13
     states it: action capacity without correctability. No other change.
 role: thesis

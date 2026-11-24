@@ -95,7 +95,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-995 — Proposed; the dropout account of IOI's backup heads, cited as a candidate case, untested -->
 <!-- inactive-ok-file: CLAIM-170 CLAIM-174 CLAIM-157 — Proposed; open claims and readings, cited as open -->
-<!-- inactive-ok-file: CASE-tmphp4pt CLAIM-tmp60fme CLAIM-tmpmgb7l CLAIM-tmpyf8s0 CLAIM-tmp2k67n — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-404 CLAIM-1030 CLAIM-1138 CLAIM-1199 CLAIM-1011 — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: ARG-015 — Proposed; the argument CLAIM-288 undercuts, which holds the verdict on the sufficiency tests -->
 
 # CLAIM-367: Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network
@@ -266,7 +266,7 @@ nothing here tests it. The claim is unchanged.
 ## Note of 2026-11-23: the crossed intervention, run on a small network
 
 The defeat condition's crossed intervention was run on 2026-11-23
-([CASE-tmphp4pt](../cases.d/CASE-tmphp4pt.md)): a width-32 two-layer ReLU network trained
+([CASE-404](../cases.d/CASE-404.md)): a width-32 two-layer ReLU network trained
 conventionally on two tasks with a task-identity input, by heavy ball or
 by Adam, twelve seeds each, then met with a conflicting demand (task B's
 target turned against task A's).
@@ -277,18 +277,18 @@ target turned against task A's).
   it more than doubled it. The first limb of the defeat condition fails.
 - With the optimizer fixed, re-initializing and healing the most
   task-selective hidden units raised the loss, and as many random units
-  did so less ([CLAIM-tmp60fme](CLAIM-tmp60fme.md)). The second limb holds in part.
+  did so less ([CLAIM-1030](CLAIM-1030.md)). The second limb holds in part.
 - The share of the variation that follows the learned state rather than
   the optimizer was 0.58 in heavy-ball-trained networks and 0.15 in
   Adam-trained ones.
 
 The condition is not met. Two readings are filed as alternatives:
-[CLAIM-tmpmgb7l](CLAIM-tmpmgb7l.md), that the run corroborates this claim, since its
+[CLAIM-1138](CLAIM-1138.md), that the run corroborates this claim, since its
 "does not say a network cannot come to hold it" covers the state effect
-(the assistant's lean); and [CLAIM-tmpyf8s0](CLAIM-tmpyf8s0.md), that shares set by the
+(the assistant's lean); and [CLAIM-1199](CLAIM-1199.md), that shares set by the
 training optimizer tell against "most of that governance falls to the
 optimizer–model–data system" as a rule. Separately, a function-preserving
 rescaling of hidden units, run as a learned-state disruption, is exactly
 an optimizer change in other coordinates, so the defeat condition's two
 arms need disruptions that change what the network computes
-([CLAIM-tmp2k67n](CLAIM-tmp2k67n.md)). The claim is unchanged.
+([CLAIM-1011](CLAIM-1011.md)). The claim is unchanged.

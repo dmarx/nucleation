@@ -6,6 +6,11 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## Currently — [November 2026](2026-11.md)
 
+- [23 Nov 03:45 — The write-manuscript protocol was first written from one manuscript's README, not from the record of how that manuscript was made](2026-11.md#the-write-manuscript-protocol-was-first-written-from-one-manuscripts-readme-not-from-the-record-of-how-that-manuscript-was-made)
+- [23 Nov 03:20 — An owner's request to file a manuscript as a work was read as a LIT, when the record has a works vocabulary for it](2026-11.md#an-owners-request-to-file-a-manuscript-as-a-work-was-read-as-a-lit-when-the-record-has-a-works-vocabulary-for-it)
+- [23 Nov 01:05 — Resumable study scripts that were resumable only when nothing went wrong](2026-11.md#resumable-study-scripts-that-were-resumable-only-when-nothing-went-wrong)
+- [23 Nov 00:53 — A code-rewriting merge step overwrote the temporary codes in formerly lists, on fifty-six entries](2026-11.md#a-code-rewriting-merge-step-overwrote-the-temporary-codes-in-formerly-lists-on-fifty-six-entries)
+- [22 Nov 22:55 — Filing a seventeen-turn exchange: five section workers in one tree, with the thesis that runs across their sections kept for the lead](2026-11.md#filing-a-seventeen-turn-exchange-five-section-workers-in-one-tree-with-the-thesis-that-runs-across-their-sections-kept-for-the-lead)
 - [22 Nov 15:59 — A dynamics reading lead: per-work commits held a fifteen-work reading batch together, and one careless shell command broke /dev/null for every worker on the machine](2026-11.md#a-dynamics-reading-lead-per-work-commits-held-a-fifteen-work-reading-batch-together-and-one-careless-shell-command-broke-devnull-for-every-worker-on-the-machine)
 - [22 Nov 10:40 — Going wrong: work held until the end was lost or put at risk three ways in one day, though the morning's note had already drawn the lesson](2026-11.md#going-wrong-work-held-until-the-end-was-lost-or-put-at-risk-three-ways-in-one-day-though-the-mornings-note-had-already-drawn-the-lesson)
 - [22 Nov 07:35 — Going right: a claim of the record's own was run against the defeater it stated in advance, and failed it; the admission written a day earlier had named the route and the sentence that would survive it](2026-11.md#going-right-a-claim-of-the-records-own-was-run-against-the-defeater-it-stated-in-advance-and-failed-it-the-admission-written-a-day-earlier-had-named-the-route-and-the-sentence-that-would-survive-it)
@@ -27,8 +32,8 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## All books
 
-18 entries across 1 book, newest first.
+23 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 18 | 2026-11-21 | 2026-11-22 |
+| [2026-11](2026-11.md) | 23 | 2026-11-21 | 2026-11-23 |

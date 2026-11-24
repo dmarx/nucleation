@@ -30,8 +30,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-220 — Proposed; A's committor study, cited from the note on A's second synthesis -->
 <!-- inactive-ok-file: CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CASE-tmp2a9lm CLAIM-tmpeno57 CLAIM-tmpzo914 CLAIM-tmpzi0ri CLAIM-tmpf0417 CLAIM-tmpddl2d THEORY-tmp1pfm4 — new; filed by the lead run of 2026-11-23 -->
-<!-- inactive-ok-file: CASE-tmpjfl6r CLAIM-tmpqrmoy CLAIM-tmphbmpy CLAIM-tmpb125k THEORY-tmpmwhm1 THEORY-tmp7jput THEORY-tmp8j9f4 — new; filed by the lead run of 2026-11-23 on equal budgets -->
+<!-- inactive-ok-file: CASE-389 CLAIM-1085 CLAIM-1205 CLAIM-1204 CLAIM-1090 CLAIM-1078 THEORY-2278 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-406 CLAIM-1160 CLAIM-1107 CLAIM-1063 THEORY-2296 THEORY-2282 THEORY-2283 — new; filed by the lead run of 2026-11-23 on equal budgets -->
 
 # QUESTION-380: When does establishing a small, internally compatible subsystem make global organization more likely, and how can its effectiveness be predicted from the constraint architecture?
 
@@ -171,27 +171,27 @@ Persistence and nucleating productivity come apart ([CLAIM-595](../claims.d/CLAI
 ## Note of 2026-11-23: a non-monotone predictor tested out of sample, and two-staple origami data
 
 The lead run of 2026-11-23 pre-registered and tested a race reading of folding
-islands (VIC) in a kinetic constraint-growth model, [CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md).
+islands (VIC) in a kinetic constraint-growth model, [CASE-389](../cases.d/CASE-389.md).
 
 - **Seeds can hurt there too.** Adding a seed already in its target state,
   with every set still compatible with the target, can halve the chance of
   exact assembly; island coverage predicts the chance better than the
-  number of seeds ([CLAIM-tmpeno57](../claims.d/CLAIM-tmpeno57.md)).
-- **The race reading does not transfer** ([CLAIM-tmpzo914](../claims.d/CLAIM-tmpzo914.md)). The seeds that
+  number of seeds ([CLAIM-1085](../claims.d/CLAIM-1085.md)).
+- **The race reading does not transfer** ([CLAIM-1205](../claims.d/CLAIM-1205.md)). The seeds that
   hurt have large islands; the errors come from the order in which
   components reach the binding threshold.
-- **A post hoc predictor does, within one system** ([CLAIM-tmpzi0ri](../claims.d/CLAIM-tmpzi0ri.md)):
+- **A post hoc predictor does, within one system** ([CLAIM-1204](../claims.d/CLAIM-1204.md)):
   counting the states each component could take at first threshold.
   It uses the growth rule's threshold, a condition of the kind this
   question asks an answer to state, and was built on the system it was
   tested in, on fresh architectures.
-- **Two readings, filed as alternatives.** [CLAIM-tmpf0417](../claims.d/CLAIM-tmpf0417.md) (the filer's
+- **Two readings, filed as alternatives.** [CLAIM-1090](../claims.d/CLAIM-1090.md) (the filer's
   lean): a predictor computed from the constraint architecture alone
   cannot do the job; the order and threshold of growth belong in it.
-  [CLAIM-tmpddl2d](../claims.d/CLAIM-tmpddl2d.md) objects that the test system has no coherent alternative
+  [CLAIM-1078](../claims.d/CLAIM-1078.md) objects that the test system has no coherent alternative
   branch, so the race reading's home case stays open.
-- **Origami.** Arbona, Aimé and Elezgaray ([THEORY-tmp1pfm4](../theory.d/THEORY-tmp1pfm4.md), from
-  [LIT-tmp581o9](../literature.d/LIT-tmp581o9.md)) supply the observable this question's note on Majikes et
+- **Origami.** Arbona, Aimé and Elezgaray ([THEORY-2278](../theory.d/THEORY-2278.md), from
+  [LIT-3148](../literature.d/LIT-3148.md)) supply the observable this question's note on Majikes et
   al. asked for, on a two-staple scaffold: a staple's melting peak rises by
   1.5 to 8.5 °C once its neighbour has folded. Their model excludes
   misfolds, so its nuclei can only help, and it cannot tell a productive
@@ -204,16 +204,16 @@ and passed. No status change.
 
 The lead run of 2026-11-23 for the organizational test of [CLAIM-562](../claims.d/CLAIM-562.md)
 coded open evaluations under rules written before coding
-([CASE-tmpjfl6r](../cases.d/CASE-tmpjfl6r.md)). One meets the standard: in Andhra Pradesh's randomized
+([CASE-406](../cases.d/CASE-406.md)). One meets the standard: in Andhra Pradesh's randomized
 evaluation of 500 government primary schools, arms of equal yearly cost
 differed threefold, a teacher bonus raising test scores by 0.27 SD against
-0.09 SD for an extra teacher or materials ([THEORY-tmpmwhm1](../theory.d/THEORY-tmpmwhm1.md)). Whether
+0.09 SD for an extra teacher or materials ([THEORY-2296](../theory.d/THEORY-2296.md)). Whether
 that is a difference of place or of instrument is filed both ways
-([CLAIM-tmpqrmoy](../claims.d/CLAIM-tmpqrmoy.md), the filer's lean; [CLAIM-tmphbmpy](../claims.d/CLAIM-tmphbmpy.md)). Two cases come
+([CLAIM-1160](../claims.d/CLAIM-1160.md), the filer's lean; [CLAIM-1107](../claims.d/CLAIM-1107.md)). Two cases come
 closest: Seva Mandir's immunisation camps, where a demand-side incentive
 added to supply doubled full immunisation and halved its unit cost
-([THEORY-tmp7jput](../theory.d/THEORY-tmp7jput.md)), and Zambia's supply chain pilot, two arms at two tiers,
-whose costs were not reached ([THEORY-tmp8j9f4](../theory.d/THEORY-tmp8j9f4.md)). None gives a predictor
+([THEORY-2282](../theory.d/THEORY-2282.md)), and Zambia's supply chain pilot, two arms at two tiers,
+whose costs were not reached ([THEORY-2283](../theory.d/THEORY-2283.md)). None gives a predictor
 computed from the organization's structure, and none shows an added
-intervention lowering the chance of the target ([CLAIM-tmpb125k](../claims.d/CLAIM-tmpb125k.md)). The
+intervention lowering the chance of the target ([CLAIM-1063](../claims.d/CLAIM-1063.md)). The
 question stays open. No status change.

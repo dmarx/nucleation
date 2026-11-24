@@ -54,7 +54,7 @@ summary: >-
   multiple folds, nor anything about hysteresis, kinetics or whole-origami
   yield.
 ---
-<!-- inactive-ok-file: THEORY-tmp1pfm4 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: THEORY-2278 — new; filed by the lead run of 2026-11-23 -->
 
 # THEORY-1454: Majikes and colleagues find, in a single-fold DNA origami model measured by FRET melting with affine baseline correction, that closing a fold with an already anchored staple is unimolecular and more stable than bimolecular binding of the same domain, and that the fold's melting temperature falls as fold distance grows, by up to more than 10 °C from short to long, through a configurational-entropy cost; from this they infer, without testing it, that origami folds by nucleation and growth, a staple's longest domain binding first and short, entropically cheap folds then making neighbouring folds cheaper
 
@@ -96,7 +96,7 @@ Majikes, Patrone, Schiffels, Zwolak, Kearsley, Forry and Liddle (2020),
 Read by the lead run of 2026-11-23. Majikes and colleagues infer that a bound
 neighbour makes the next fold cheaper and say that confirming it "will
 require additional testing in systems with multiple folds". Arbona, Aimé
-and Elezgaray ([LIT-tmp581o9](../literature.d/LIT-tmp581o9.md); [THEORY-tmp1pfm4](THEORY-tmp1pfm4.md)), an earlier work by another
+and Elezgaray ([LIT-3148](../literature.d/LIT-3148.md); [THEORY-2278](THEORY-2278.md)), an earlier work by another
 group, measure it in the smallest such system: on a 64-base scaffold with
 two staples, a staple's melting peak rises by 1.5 to 8.5 °C when the other
 is already folded. That is corroboration of the inferred mechanism, in

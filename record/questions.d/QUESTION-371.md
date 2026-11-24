@@ -81,6 +81,6 @@ design" and asks its counterpart for regulation in an industrial
 ecosystem: does a rule that alters access to essential infrastructure
 stabilize, where subsidies to entrants only equalize? Its diagnostic is
 whether "a specialized producer can regain viable participation when
-demand for its capability returns". That is filed as [QUESTION-tmpn9t5a](QUESTION-tmpn9t5a.md),
-with a model to test it ([LEAD-tmpy0jkr](../leads.d/LEAD-tmpy0jkr.md)). It is a sibling of this question,
+demand for its capability returns". That is filed as [QUESTION-525](QUESTION-525.md),
+with a model to test it ([LEAD-234](../leads.d/LEAD-234.md)). It is a sibling of this question,
 for regulations rather than moral norms, and does not answer it.

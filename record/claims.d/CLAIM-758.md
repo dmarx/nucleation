@@ -34,7 +34,7 @@ history:
 - version: 3
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §11
     states its proposition, overconsolidation as a failure relative to a
     family of demands. No other change.
@@ -264,16 +264,16 @@ scientists.
 
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
-<!-- inactive-ok-block: ADR-tmpsfjxu TERM-tmpu5k0o — Proposed; the work and the term -->
-Extension. A48 §11 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md)) carries this
+<!-- inactive-ok-block: ADR-144 TERM-164 — Proposed; the work and the term -->
+Extension. A48 §11 of the owner's manuscript ([ADR-144](../decisions.d/ADR-144.md)) carries this
 claim to industrial ecosystems and draws productive specialization against
-destructive lock-in ([TERM-tmpu5k0o](../terms.d/TERM-tmpu5k0o.md)), with the justification standard left
+destructive lock-in ([TERM-164](../terms.d/TERM-164.md)), with the justification standard left
 open.
 
 ## Note of 2026-11-23: Lippl and Lindsey, read
-<!-- inactive-ok-file: THEORY-tmpw69kb — Proposed or new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: THEORY-2305 — Proposed or new; filed by the lead run of 2026-11-23 -->
 
-A parallel only ([THEORY-tmpw69kb](../theory.d/THEORY-tmpw69kb.md); [NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md)): pretraining is
+A parallel only ([THEORY-2305](../theory.d/THEORY-2305.md); [NOTE-2415](../notes.d/NOTE-2415.md)): pretraining is
 always to convergence, so nothing on time course. But the scale of the
 weights after pretraining, which the pretraining objective does not see,
 decides whether fine-tuning can still pick out a sparse set of new or

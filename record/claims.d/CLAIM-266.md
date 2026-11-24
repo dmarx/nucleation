@@ -64,7 +64,7 @@ bears_on:
 - QUESTION-258
 ---
 <!-- inactive-ok-file: NOTE-1825 — Skimmed; named in the note of 2026-11-22 -->
-<!-- inactive-ok-file: CLAIM-tmpktdh5 — new; the objection filed for LEAD-194, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-1127 — new; the objection filed for LEAD-194, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-1776 — Proposed; the reading whose further passages this note cites -->
 <!-- inactive-ok-file: CASE-318 — new; the curation-completeness pilot and the claim filed from it, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as an application, as filed -->
@@ -200,7 +200,7 @@ Two resolutions are filed as alternatives. The owner chooses; nothing
 here is applied.
 
 - **Alternative A, this claim narrows (the assistant's lean).**
-  [CLAIM-tmpktdh5](CLAIM-tmpktdh5.md) objects to this claim: training probes do certify a
+  [CLAIM-1127](CLAIM-1127.md) objects to this claim: training probes do certify a
   property that a stated inequality bounds by their value over the
   contexts they cover, the value estimated on draws the system was not
   fitted to. Under the bound the property depends on nothing the probes
@@ -231,7 +231,7 @@ here is applied.
   from a model of the dynamics and the sampling. The premise "including
   what they cannot see" already scopes the claim to cases where there is
   something relevant they cannot see. On this reading a note suffices,
-  and [CLAIM-tmpktdh5](CLAIM-tmpktdh5.md) would go Rejected as answered. Its weakness, and the
+  and [CLAIM-1127](CLAIM-1127.md) would go Rejected as answered. Its weakness, and the
   reason for the lean to A: the title's second clause, "must be shown
   under probes not used to train it", is contradicted outright, since
   [CLAIM-517](CLAIM-517.md) shows preservation under the training family on fresh draws.

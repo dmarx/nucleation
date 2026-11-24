@@ -56,7 +56,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-004 CLAIM-178 CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis, whose change is the point -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
-<!-- inactive-ok-file: CLAIM-tmp49ilj — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-1023 — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-182: Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses
 
@@ -132,16 +132,16 @@ evidence about records. The before-and-after count is still not made.
 
 ## Note of 2026-11-23: a before-and-after count, censored
 
-[CASE-tmp4niuz](../cases.d/CASE-tmp4niuz.md) attempts the count this claim waits on. In the
+[CASE-393](../cases.d/CASE-393.md) attempts the count this claim waits on. In the
 reconstructions, 21 items were re-derived before they had codes. Four of
 them were re-derived again after their codes existed: [TERM-072](../terms.d/TERM-072.md),
 [CLAIM-414](CLAIM-414.md), [QUESTION-271](../questions.d/QUESTION-271.md) and [CASE-156](../cases.d/CASE-156.md). None is reported cited.
 
 The count is censored. The reconstructions report a restatement almost
-only when it fails ([CLAIM-tmp9w3p9](CLAIM-tmp9w3p9.md)), so silence about an item after its
+only when it fails ([CLAIM-1056](CLAIM-1056.md)), so silence about an item after its
 code may mean either that it was cited or that it did not come up.
 Content held under codes was re-derived without them in 20 of the 48
-reconstructions. [CLAIM-tmp49ilj](CLAIM-tmp49ilj.md) reads that as a failure to discover the
+reconstructions. [CLAIM-1023](CLAIM-1023.md) reads that as a failure to discover the
 code, which this claim's "Stable identity and discoverability may matter
 too" allows. It reads the count as silent on the thesis itself. The
 before-and-after comparison the thesis needs still wants a transcript
@@ -151,6 +151,6 @@ coded for every restatement. No change of status or title.
 
 Checked [CLAIM-185](CLAIM-185.md)'s note of 2026-11-22 (entrenchment readings, background)
 and [QUESTION-271](../questions.d/QUESTION-271.md)'s ([LEAD-077](../leads.d/LEAD-077.md)'s run): neither counts re-derivation before and
-after addressing. [CASE-tmp4niuz](../cases.d/CASE-tmp4niuz.md)'s count is censored, since silence after a
-code may mean citation or absence ([CLAIM-tmp9w3p9](CLAIM-tmp9w3p9.md)); the comparison still
+after addressing. [CASE-393](../cases.d/CASE-393.md)'s count is censored, since silence after a
+code may mean citation or absence ([CLAIM-1056](CLAIM-1056.md)); the comparison still
 wants a transcript coded for every restatement.

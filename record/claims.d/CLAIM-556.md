@@ -21,7 +21,7 @@ history:
 - version: 3
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §10
     states a capability that succeeds once while the capacity to repeat it
     deteriorates. No other change.

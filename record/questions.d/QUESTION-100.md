@@ -41,7 +41,7 @@ summary: >-
   authority can be pathological by the organization's own standard. This names one
   mechanism by which it could become so.
 ---
-<!-- inactive-ok-file: CASE-tmpd80em CLAIM-tmp0v3wu CLAIM-tmpz8q70 — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
+<!-- inactive-ok-file: CASE-401 CLAIM-1000 CLAIM-1202 — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-276 CLAIM-278 CLAIM-281 CLAIM-285 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
@@ -103,4 +103,4 @@ The question is unchanged.
 
 ## Note of 2026-11-22: capture through a loop between institutions
 
-[LEAD-015](../leads.d/LEAD-015.md) ([CASE-tmpd80em](../cases.d/CASE-tmpd80em.md)) asks this question of two institutions, an evaluator and the party it evaluates, each a reduced [CASE-092](../cases.d/CASE-092.md). Their symmetric state is unstable exactly when the round trip of the loop between them exceeds 1, (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P ([CLAIM-tmp0v3wu](../claims.d/CLAIM-tmp0v3wu.md)): capture can come from the coupling between institutions when each, alone, would hold stable expertise. An evaluator whose conferral reads no interpretation (Regime B) is captured this way too ([CLAIM-tmpz8q70](../claims.d/CLAIM-tmpz8q70.md)). This is still the linearization at symmetry, with the nonlinear map checked; role-indexed grants are not tested. The question is unchanged.
+[LEAD-015](../leads.d/LEAD-015.md) ([CASE-401](../cases.d/CASE-401.md)) asks this question of two institutions, an evaluator and the party it evaluates, each a reduced [CASE-092](../cases.d/CASE-092.md). Their symmetric state is unstable exactly when the round trip of the loop between them exceeds 1, (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P ([CLAIM-1000](../claims.d/CLAIM-1000.md)): capture can come from the coupling between institutions when each, alone, would hold stable expertise. An evaluator whose conferral reads no interpretation (Regime B) is captured this way too ([CLAIM-1202](../claims.d/CLAIM-1202.md)). This is still the linearization at symmetry, with the nonlinear map checked; role-indexed grants are not tested. The question is unchanged.

@@ -58,7 +58,7 @@ history:
 - version: 9
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    Joins the work governance-of-possibility (ADR-144) at its
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §13.6, §13.7. No other
@@ -369,18 +369,18 @@ unchanged.
 
 ## Note of 2026-11-23: the compromised evaluator, run
 
-[CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md) runs [CASE-108](../cases.d/CASE-108.md)'s evaluator variant, which tests this claim. Three
+[CASE-415](../cases.d/CASE-415.md) runs [CASE-108](../cases.d/CASE-108.md)'s evaluator variant, which tests this claim. Three
 findings. Without evidence on a block of tasks that does not pass
 through the proposals, no governance rule that treats members alike told
-an attack from dissent pushing the same block ([CLAIM-tmpxoxys](CLAIM-tmpxoxys.md)): in this class the
+an attack from dissent pushing the same block ([CLAIM-1194](CLAIM-1194.md)): in this class the
 claim's condition is necessary. Evidence pooled with evaluators who
 score that block against the majority's prior is evidence that passes
 through the interpretation, and protected nothing. And independence held
 block by block: compromising 2 of 7 evaluators left the block all seven
-hold safe and let the attack through on the block two hold ([CLAIM-tmpd6gon](CLAIM-tmpd6gon.md)). One
+hold safe and let the attack through on the block two hold ([CLAIM-1077](CLAIM-1077.md)). One
 model class. The claim is unchanged.
 
 ## Note of 2026-11-23: a two-variable instance, from "Explain First Contact RL"
 
-<!-- inactive-ok-block: CLAIM-tmpep410 CLAIM-tmp8nzk0 CLAIM-tmp9in65 — Proposed, filed from A50 of the exchange "Explain First Contact RL" on 2026-11-23 -->
-A50 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) cites this claim for a toy model in which a response and the standard that evaluates it adapt toward each other ([CLAIM-tmpep410](CLAIM-tmpep410.md)): they converge to a point fixed by their initial conditions, and only a pull of the standard toward an independent target d makes d the equilibrium. That is this claim's anchoring condition in two linear variables, with the anchor as the evidence that does not pass through the loop. The assistant's gap fill ([CLAIM-tmp8nzk0](CLAIM-tmp8nzk0.md)) measures it: after a transient the gap between response and standard is a fraction of about κ/(α + β) of the response's distance from d, so the share of the standard's movement that comes from the anchor sets how far measured agreement understates inadequacy. A50's reading for regulation is [CLAIM-tmp9in65](CLAIM-tmp9in65.md). The claim is unchanged.
+<!-- inactive-ok-block: CLAIM-1087 CLAIM-1050 CLAIM-1053 — Proposed, filed from A50 of the exchange "Explain First Contact RL" on 2026-11-23 -->
+A50 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) cites this claim for a toy model in which a response and the standard that evaluates it adapt toward each other ([CLAIM-1087](CLAIM-1087.md)): they converge to a point fixed by their initial conditions, and only a pull of the standard toward an independent target d makes d the equilibrium. That is this claim's anchoring condition in two linear variables, with the anchor as the evidence that does not pass through the loop. The assistant's gap fill ([CLAIM-1050](CLAIM-1050.md)) measures it: after a transient the gap between response and standard is a fraction of about κ/(α + β) of the response's distance from d, so the share of the standard's movement that comes from the anchor sets how far measured agreement understates inadequacy. A50's reading for regulation is [CLAIM-1053](CLAIM-1053.md). The claim is unchanged.

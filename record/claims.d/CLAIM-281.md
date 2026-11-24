@@ -116,14 +116,14 @@ Rechecked after the [ADR-070](../decisions.d/ADR-070.md) vocabulary revisions of
 
 ## Note of 2026-11-23: the population comparison, run
 
-The comparison this claim's notes said was missing has been run as [CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md) ([CLAIM-tmp5wozo](CLAIM-tmp5wozo.md)). There, role-indexed grants whose critic role is scored by observed relevance formed no factions and no capture, while scalar grants did. The clause on factions therefore has a population result under it, with a condition: the critic score must read agreement weakly enough, gζσ²/2 < 1 − φ′ − φ_s′. Role-indexed grants scored by agreement sorted into factions exactly as scalar ones did, which meets the first disjunct of the defeat condition for that scheme. Scoring both roles by relevance handed opponents 53% of decision grants, and role indexing removed that transfer. [CLAIM-tmp5wozo](CLAIM-tmp5wozo.md) sets out two readings for the owner: whether this claim's role indexing already includes a role-specific score (the assistant's lean), or must be restated to name it. Belief did not stay diverse under role indexing: the meanings converged on a value set by where competence sits ([CLAIM-tmppm30v](CLAIM-tmppm30v.md)). The claim is unchanged.
+The comparison this claim's notes said was missing has been run as [CASE-420](../cases.d/CASE-420.md) ([CLAIM-1029](CLAIM-1029.md)). There, role-indexed grants whose critic role is scored by observed relevance formed no factions and no capture, while scalar grants did. The clause on factions therefore has a population result under it, with a condition: the critic score must read agreement weakly enough, gζσ²/2 < 1 − φ′ − φ_s′. Role-indexed grants scored by agreement sorted into factions exactly as scalar ones did, which meets the first disjunct of the defeat condition for that scheme. Scoring both roles by relevance handed opponents 53% of decision grants, and role indexing removed that transfer. [CLAIM-1029](CLAIM-1029.md) sets out two readings for the owner: whether this claim's role indexing already includes a role-specific score (the assistant's lean), or must be restated to name it. Belief did not stay diverse under role indexing: the meanings converged on a value set by where competence sits ([CLAIM-1150](CLAIM-1150.md)). The claim is unchanged.
 
 ## Note of 2026-11-23: what holds it back
 
-The population comparison has been run, and it reproduces ([CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md),
-[CLAIM-tmp5wozo](CLAIM-tmp5wozo.md)). Whether it meets this claim's defeat condition turns on a
+The population comparison has been run, and it reproduces ([CASE-420](../cases.d/CASE-420.md),
+[CLAIM-1029](CLAIM-1029.md)). Whether it meets this claim's defeat condition turns on a
 reading the owner has not yet chosen: role-indexed grants scored by
 agreement sorted into factions exactly as scalar grants did. That meets the
 first disjunct unless 'indexed by role' already carries a role-specific
-score ([CLAIM-tmp5wozo](CLAIM-tmp5wozo.md)'s Reading A). On Reading A the claim goes Active; on
+score ([CLAIM-1029](CLAIM-1029.md)'s Reading A). On Reading A the claim goes Active; on
 Reading B it is first restated to name the critic score.

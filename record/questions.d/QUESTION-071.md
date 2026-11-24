@@ -73,7 +73,7 @@ summary: >-
   worked on without reopening the set-aside authenticity line, where
   [CLAIM-016](../claims.d/CLAIM-016.md)'s manipulation defeater sits.
 ---
-<!-- inactive-ok-file: CASE-tmpd80em CLAIM-tmpz8q70 — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
+<!-- inactive-ok-file: CASE-401 CLAIM-1202 — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
 <!-- inactive-ok-file: THEORY-1837 THEORY-1843 THEORY-1849 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-1504 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: THEORY-047 — new or Proposed; cited from the construction of 2026-11-03 -->
@@ -366,7 +366,7 @@ The question stays Open; whether these answer it is the owner's call.
 
 ## Note of 2026-11-22: an evaluator captured with nothing in its own structure showing it
 
-In [LEAD-015](../leads.d/LEAD-015.md)'s two-institution model ([CASE-tmpd80em](../cases.d/CASE-tmpd80em.md)), an evaluator whose conferral reads no interpretation keeps its authority exactly balanced while its reading is held by a loop through the party it evaluates ([CLAIM-tmpz8q70](../claims.d/CLAIM-tmpz8q70.md)). Its present structure, procedure and allocation of authority, shows nothing; what shows it is the state of the pair. A model case of an organization governed without its present structure showing it, in which telling it apart needs a record of the other institution's state as well as its own. The question is unchanged.
+In [LEAD-015](../leads.d/LEAD-015.md)'s two-institution model ([CASE-401](../cases.d/CASE-401.md)), an evaluator whose conferral reads no interpretation keeps its authority exactly balanced while its reading is held by a loop through the party it evaluates ([CLAIM-1202](../claims.d/CLAIM-1202.md)). Its present structure, procedure and allocation of authority, shows nothing; what shows it is the state of the pair. A model case of an organization governed without its present structure showing it, in which telling it apart needs a record of the other institution's state as well as its own. The question is unchanged.
 
 ## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", A7–A10
 

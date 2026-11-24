@@ -121,15 +121,15 @@ the unheeded. The question is unchanged.
 
 ## Note of 2026-11-23: a population result
 
-[CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md) bears on this question. In a population model, dissent kept its place as evidence, with opponents read at chance and by their competence, only when the critic role had a score of its own that did not read agreement. Then no factions and no capture formed, and authority over the decision stayed with each side ([CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md)). The price was a shared meaning that follows where competence sits rather than the evidence alone ([CLAIM-tmppm30v](../claims.d/CLAIM-tmppm30v.md)).
+[CASE-420](../cases.d/CASE-420.md) bears on this question. In a population model, dissent kept its place as evidence, with opponents read at chance and by their competence, only when the critic role had a score of its own that did not read agreement. Then no factions and no capture formed, and authority over the decision stayed with each side ([CLAIM-1029](../claims.d/CLAIM-1029.md)). The price was a shared meaning that follows where competence sits rather than the evidence alone ([CLAIM-1150](../claims.d/CLAIM-1150.md)).
 
 ## Note of 2026-11-23: dissent that improved the learner where authority could move to it
 
-In [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md), honest dissenters who alone held data on a block of tasks raised
+In [CASE-415](../cases.d/CASE-415.md), honest dissenters who alone held data on a block of tasks raised
 its capability from 0.27 (unrestricted aggregation) to 0.92 where
 authority over that block could move to them, under role-limited audit
-by evaluators holding their own evidence on it ([CLAIM-tmp26exz](../claims.d/CLAIM-tmp26exz.md)), and not where it
+by evaluators holding their own evidence on it ([CLAIM-1007](../claims.d/CLAIM-1007.md)), and not where it
 could not (reputation by agreement or by validation against the
 majority's prior). With the evaluators of that block compromised, the
 move failed and their influence fell from 4.2 to 0.9 times parity
-([CLAIM-tmpd6gon](../claims.d/CLAIM-tmpd6gon.md)). The question is unchanged.
+([CLAIM-1077](../claims.d/CLAIM-1077.md)). The question is unchanged.

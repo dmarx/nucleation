@@ -50,29 +50,29 @@ source ([LIT-983](../literature.d/LIT-983.md)).
 after cued traumatic recall in PTSD against trauma-exposed controls, and
 none runs the same exposure with and without restored context sampling.
 
-**Read** (lawful open copies): Zidda and colleagues 2025 ([LIT-tmpmkmjq](../literature.d/LIT-tmpmkmjq.md),
-[NOTE-tmpoybvl](../notes.d/NOTE-tmpoybvl.md), [THEORY-tmp1ov9x](../theory.d/THEORY-tmp1ov9x.md)), the nearest study: people with PTSD
+**Read** (lawful open copies): Zidda and colleagues 2025 ([LIT-3174](../literature.d/LIT-3174.md),
+[NOTE-2406](../notes.d/NOTE-2406.md), [THEORY-2277](../theory.d/THEORY-2277.md)), the nearest study: people with PTSD
 first looked at the neutral background of their own trauma cue later than
 trauma-exposed controls, with no difference for the cue; and Diotaiuti and
-colleagues' 2026 scoping review ([LIT-tmpogxg7](../literature.d/LIT-tmpogxg7.md), [NOTE-tmp9jy7p](../notes.d/NOTE-tmp9jy7p.md),
-[THEORY-tmp8n4s7](../theory.d/THEORY-tmp8n4s7.md)), whose 17 eye-tracking studies include none after
+colleagues' 2026 scoping review ([LIT-3179](../literature.d/LIT-3179.md), [NOTE-2382](../notes.d/NOTE-2382.md),
+[THEORY-2284](../theory.d/THEORY-2284.md)), whose 17 eye-tracking studies include none after
 recall.
 
 **Registered, Deferred** (the closest, with what each lacks): Blekic and
-colleagues 2025 ([LIT-tmp5bqfy](../literature.d/LIT-tmp5bqfy.md), shorter scanpaths in PTSD than
+colleagues 2025 ([LIT-3149](../literature.d/LIT-3149.md), shorter scanpaths in PTSD than
 trauma-exposed controls, no recall; open in PMC, next to read); Kimble
-and colleagues 2014 ([LIT-tmpocdt2](../literature.d/LIT-tmpocdt2.md)) and Kimble, Cappello and Fleming 2023
-([LIT-tmpizs88](../literature.d/LIT-tmpizs88.md)), more scanning of ambiguous scenes with hypervigilance;
-Milanak and colleagues 2018 ([LIT-tmpgjodp](../literature.d/LIT-tmpgjodp.md)), more gaze to emotional
-backgrounds with symptoms; Andrews and colleagues 2023 ([LIT-tmpozodu](../literature.d/LIT-tmpozodu.md)),
+and colleagues 2014 ([LIT-3178](../literature.d/LIT-3178.md)) and Kimble, Cappello and Fleming 2023
+([LIT-3171](../literature.d/LIT-3171.md)), more scanning of ambiguous scenes with hypervigilance;
+Milanak and colleagues 2018 ([LIT-3168](../literature.d/LIT-3168.md)), more gaze to emotional
+backgrounds with symptoms; Andrews and colleagues 2023 ([LIT-3180](../literature.d/LIT-3180.md)),
 recall then a gaze task, but brain imaging of being looked at; for the
-second half, Sack and colleagues 2016 ([LIT-tmp4oubb](../literature.d/LIT-tmp4oubb.md)), EMDR with and
+second half, Sack and colleagues 2016 ([LIT-3146](../literature.d/LIT-3146.md)), EMDR with and
 without an external visual focus, and Tyson, Ehlers and Wild 2025
-([LIT-tmpg13ib](../literature.d/LIT-tmpg13ib.md)), stimulus-discrimination training, analogue.
+([LIT-3167](../literature.d/LIT-3167.md)), stimulus-discrimination training, analogue.
 
-**The verdict** is filed as alternatives: [CLAIM-tmpcug8h](../claims.d/CLAIM-tmpcug8h.md) (leaned to: weak,
-indirect support for the first half's direction) and [CLAIM-tmpc7tmg](../claims.d/CLAIM-tmpc7tmg.md) (no
-support: the background disambiguated nothing), with [ARG-tmpc0892](../arguments.d/ARG-tmpc0892.md).
+**The verdict** is filed as alternatives: [CLAIM-1076](../claims.d/CLAIM-1076.md) (leaned to: weak,
+indirect support for the first half's direction) and [CLAIM-1069](../claims.d/CLAIM-1069.md) (no
+support: the background disambiguated nothing), with [ARG-224](../arguments.d/ARG-224.md).
 
 What remains: the evidence the lead looks for does not yet exist. Reading
 Blekic and colleagues, and getting copies of the three Deferred works with

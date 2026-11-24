@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §8 uses
     its distinction between keeping a regime and governing among regimes.
     No other change.
@@ -73,13 +73,13 @@ capacity is lost, with K read off the case and not chosen. What the rule
 leaves is the agent's boundary, filed as two readings for the owner,
 [CLAIM-917](CLAIM-917.md) and [CLAIM-915](CLAIM-915.md). The claim is unchanged.
 
-<!-- inactive-ok-file: TERM-tmpz28l1 — Proposed; filed in this filing of 2026-11-22 (second share) -->
+<!-- inactive-ok-file: TERM-167 — Proposed; filed in this filing of 2026-11-22 (second share) -->
 
 ## Note of 2026-11-22: a formal reading for an industrial ecosystem
 
 In the second share of the exchange "Explain First Contact RL" (ChatGPT,
 2026-11-22), A36 makes this claim formal, at the owner's U19, as the
-viability kernel of reorganization readiness ([TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md)). The state is
+viability kernel of reorganization readiness ([TERM-167](../terms.d/TERM-167.md)). The state is
 enlarged to (x, g, c), ecosystem, governance and reorganizational
 capacities, each with its own dynamics. The capacity to govern among
 regimes is a set C_ω(B, τ) of states with an affordable, safe route to a

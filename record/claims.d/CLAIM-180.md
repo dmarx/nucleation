@@ -90,7 +90,7 @@ bears_on:
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
 <!-- inactive-ok-file: LIT-928 — Unavailable; Kanerva's book, no copy obtainable, named as where the critical distance comes from, not leaned on beyond that -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the account filed from LIT-787, named in Connections and not leaned on -->
-<!-- inactive-ok-file: CLAIM-tmpc5mmp CLAIM-tmp49ilj — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-1068 CLAIM-1023 — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-180: Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether
 
@@ -222,26 +222,26 @@ distance itself, which this claim's own test still awaits.
 
 ## Note of 2026-11-23: the reconstructions cannot run this claim's test
 
-[CASE-tmp4niuz](../cases.d/CASE-tmp4niuz.md) coded, by rule, every restatement event that the 48
+[CASE-393](../cases.d/CASE-393.md) coded, by rule, every restatement event that the 48
 reconstructions of exchanges report. The test this claim proposes cannot
-be read from them ([CLAIM-tmp9w3p9](CLAIM-tmp9w3p9.md)). They report a restatement almost
+be read from them ([CLAIM-1056](CLAIM-1056.md)). They report a restatement almost
 only when it fails: 76 re-derived as new against one retrieved by
 citation. Only 16 events quote the restatement beside its code, none of
 them a retrieval. So neither half of the defeater is met or tested here.
 
 What the counts do show is content held under codes re-derived without
 them in 20 of the 48 reconstructions. Two readings are filed as
-alternatives. [CLAIM-tmpc5mmp](CLAIM-tmpc5mmp.md) objects to the clause "a code bypasses
+alternatives. [CLAIM-1068](CLAIM-1068.md) objects to the clause "a code bypasses
 retrieval by content altogether": the collaborator reaches the code by
-content. [CLAIM-tmp49ilj](CLAIM-tmp49ilj.md) reads the same counts as failures to find the
+content. [CLAIM-1023](CLAIM-1023.md) reads the same counts as failures to find the
 code, which "What it does not say" already allows. The lead worker leans
 to the second. No change of status or title.
 
 ## Note of 2026-11-23: what holds it back
 
 Checked [CLAIM-772](CLAIM-772.md)'s revisions of 2026-11-20 and 2026-11-21, which bear on
-the mechanism of drift and not on this claim's test, and [CASE-tmp4niuz](../cases.d/CASE-tmp4niuz.md),
+the mechanism of drift and not on this claim's test, and [CASE-393](../cases.d/CASE-393.md),
 which cannot run it: the reconstructions report almost only failed
-restatements ([CLAIM-tmp9w3p9](CLAIM-tmp9w3p9.md)). Its test still wants transcripts coded for
-every restatement; [CLAIM-182](CLAIM-182.md) is Proposed, and [CLAIM-tmpc5mmp](CLAIM-tmpc5mmp.md) is a live
+restatements ([CLAIM-1056](CLAIM-1056.md)). Its test still wants transcripts coded for
+every restatement; [CLAIM-182](CLAIM-182.md) is Proposed, and [CLAIM-1068](CLAIM-1068.md) is a live
 objection to the bypass clause.

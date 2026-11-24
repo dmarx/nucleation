@@ -253,21 +253,21 @@ is, and so whether it is distinct from the harm, is [QUESTION-441](../questions.
 answer, [CLAIM-624](CLAIM-624.md), is Proposed.
 
 ## Note of 2026-11-22: an argument for the wrong apart from the harm, for [LEAD-097](../leads.d/LEAD-097.md)
-<!-- inactive-ok-block: CLAIM-tmpq1213 CLAIM-tmpvv7fw ARG-tmpl0o7n CLAIM-723 THEORY-1972 — new or Proposed; filed for LEAD-097, and the held form of the wrong it argues from -->
+<!-- inactive-ok-block: CLAIM-1155 CLAIM-1184 ARG-228 CLAIM-723 THEORY-1972 — new or Proposed; filed for LEAD-097, and the held form of the wrong it argues from -->
 
 The note of 2026-11-18 said this claim gives no argument that reproducing
 the projections wrongs those affected beyond the harm's continuation.
-[ARG-tmpl0o7n](../arguments.d/ARG-tmpl0o7n.md) gives one, concluding this claim and [CLAIM-tmpq1213](CLAIM-tmpq1213.md). Two water
+[ARG-228](../arguments.d/ARG-228.md) gives one, concluding this claim and [CLAIM-1155](CLAIM-1155.md). Two water
 utilities cause the same completed harm, and a regulator pays the same
 remedy on its own tests, so the harm, its continuation and its expected
 continuation are matched; they differ only in that one reproduces a
 complaint taxonomy under which residents' complaints about the harm file as
 non-incidents. The one that does defeats the residents' standing to contest
 the harm, though contest would have changed nothing, which the record
-already judges a wrong in [CLAIM-723](CLAIM-723.md) and [THEORY-1972](../theory.d/THEORY-1972.md). [CLAIM-tmpq1213](CLAIM-tmpq1213.md) states
+already judges a wrong in [CLAIM-723](CLAIM-723.md) and [THEORY-1972](../theory.d/THEORY-1972.md). [CLAIM-1155](CLAIM-1155.md) states
 the wrong: directed at the conditions under which their claims can count,
 not at the interests the harm sets back. The instrumentalist reduction this
-claim's defeater names is filed as the counter [CLAIM-tmpvv7fw](CLAIM-tmpvv7fw.md), which
+claim's defeater names is filed as the counter [CLAIM-1184](CLAIM-1184.md), which
 objects to both.
 
 **The boundary test A9 proposed.** The gaslighting review ([LIT-2532](../literature.d/LIT-2532.md)) was not
@@ -280,8 +280,8 @@ harm" (this claim's section from A's review).
 
 **Reframing (proposed, not applied).** Before: the thesis is unconditional
 on those affected. After: it holds where those affected have standing to
-contest the harm with the organization, the condition [ARG-tmpl0o7n](../arguments.d/ARG-tmpl0o7n.md) needs,
+contest the harm with the organization, the condition [ARG-228](../arguments.d/ARG-228.md) needs,
 and is silent where they have none. The unavoidable case stays open as it
-is; [ARG-tmpl0o7n](../arguments.d/ARG-tmpl0o7n.md)'s construction has a feasible alternative and does not
+is; [ARG-228](../arguments.d/ARG-228.md)'s construction has a feasible alternative and does not
 reach it. Adopting the reframing, and any status change, is the owner's. No
 status change.

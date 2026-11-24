@@ -25,7 +25,7 @@ summary: >-
   Named in the curation entry of 2026-11-11 (061331). Filed by the backlog
   audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CLAIM-tmpktdh5 — new; the objection this lead filed -->
+<!-- inactive-ok-file: CLAIM-1127 — new; the objection this lead filed -->
 
 # LEAD-194: Resolve the tension between the claims on curation as revision and on admission
 
@@ -53,7 +53,7 @@ from the very distillation loss the successor was trained to. They agree
 where the boundary contexts are not covered and disagree only where they
 are.
 
-Filed: [CLAIM-tmpktdh5](../claims.d/CLAIM-tmpktdh5.md) (Proposed, thesis, demonstrated), which `objects_to`
+Filed: [CLAIM-1127](../claims.d/CLAIM-1127.md) (Proposed, thesis, demonstrated), which `objects_to`
 [CLAIM-266](../claims.d/CLAIM-266.md) and `rests_on` [CLAIM-517](../claims.d/CLAIM-517.md): training probes do certify a property
 that a stated inequality bounds by their value over the contexts they
 cover, the value estimated out of sample. Dated notes on [CLAIM-266](../claims.d/CLAIM-266.md) and

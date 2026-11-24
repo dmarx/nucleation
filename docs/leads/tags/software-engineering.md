@@ -6,8 +6,8 @@
 
 **Software engineering** — how software is specified, built, tested and changed — test oracles and metamorphic testing, verification against specifications, reflective and metaobject architectures, self-adaptive systems and models kept at run time, model-driven engineering and the coupled evolution of metamodels and their instances, and version control and change management; read for itself, not as ML practice, which belongs to the anthology (ADR-048); ontology and schema change as data organization stays with databases (ADR-097).
 
-1 of 215 LEAD documents. Back to the [full index](../README.md).
+1 of 234 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [LEAD-189](../../../record/leads.d/LEAD-189.md) | Read the blameless post-incident practice and check the Tempe prosecution | Named in the curation entry of 2026-11-18 (062004). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-189](../../../record/leads.d/LEAD-189.md) v2 | Read the blameless post-incident practice and check the Tempe prosecution | Named in the curation entry of 2026-11-18 (062004). Filed by the backlog audit of 2026-11-19. | Open |

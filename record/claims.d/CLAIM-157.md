@@ -134,7 +134,7 @@ bears_on:
 - QUESTION-218
 - QUESTION-219
 ---
-<!-- inactive-ok-file: THEORY-tmpgdriu — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2291 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: CASE-334 CLAIM-904 — new; LEAD-083's study and claim of 2026-11-22 -->
 <!-- inactive-ok-file: CASE-311 CLAIM-869 — new; LEAD-069's study and claims of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
@@ -432,7 +432,7 @@ status or title.
 ## Note of 2026-11-22: Ott and Antonsen, read
 
 A parallel, no edge. In Ott and Antonsen's model of communities of
-oscillators ([NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md), eq. 15) each community's order parameter
+oscillators ([NOTE-2385](../notes.d/NOTE-2385.md), eq. 15) each community's order parameter
 obeys a closed equation at any coupling between communities, so closure of
 a community's collective variable does not wait on the community's being
 a weakly coupled block: the nonlinear counterpart of [CLAIM-388](CLAIM-388.md), and the gap
@@ -442,7 +442,7 @@ unchanged.
 
 ## Note of 2026-11-22 (later): Caprioglio and Berthouze, read
 
-Evidence, weak ([THEORY-tmpgdriu](../theory.d/THEORY-tmpgdriu.md) corroborates this claim). In simulations
+Evidence, weak ([THEORY-2291](../theory.d/THEORY-2291.md) corroborates this claim). In simulations
 of identical phase-frustrated oscillators on three-layer hierarchically
 modular networks, each lowest-layer module acts as "a single
 macro-oscillator" only while the Laplacian's spectral gap between the
@@ -455,7 +455,7 @@ criterion is unchanged.
 ## Note of 2026-11-23: what holds it back
 
 Rechecked after [CASE-334](../cases.d/CASE-334.md) and [CLAIM-904](CLAIM-904.md), [CASE-311](../cases.d/CASE-311.md) and [CLAIM-869](CLAIM-869.md), [CASE-347](../cases.d/CASE-347.md) and
-[CLAIM-926](CLAIM-926.md), [CLAIM-780](CLAIM-780.md) and [CLAIM-781](CLAIM-781.md), [NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md), and the notes of
+[CLAIM-926](CLAIM-926.md), [CLAIM-780](CLAIM-780.md) and [CLAIM-781](CLAIM-781.md), [NOTE-2385](../notes.d/NOTE-2385.md), and the notes of
 2026-11-22 and 2026-11-23 on [QUESTION-218](../questions.d/QUESTION-218.md) and [QUESTION-116](../questions.d/QUESTION-116.md). The necessity
 half of the defeated_if is still unanswered and now pressed: [CLAIM-904](CLAIM-904.md)
 measures two closed modes that compensate (and one entrains) and that the

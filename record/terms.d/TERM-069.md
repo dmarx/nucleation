@@ -111,10 +111,10 @@ d_F(μ, ν) = sup_{f∈F} |∫f dμ − ∫f dν| is a pseudometric whose zero s
 is equivalence under F; it is a metric exactly when F separates measures
 (Wasserstein-1 for 1-Lipschitz tests, MMD for a characteristic kernel's
 unit ball). A26 of the exchange proposed it, after the owner's "measure in
-the measure theoretic sense. a metric." ([CLAIM-tmpwb6dg](../claims.d/CLAIM-tmpwb6dg.md), Proposed). With
+the measure theoretic sense. a metric." ([CLAIM-1186](../claims.d/CLAIM-1186.md), Proposed). With
 interventions added, sup over q and f of the disagreement under each
 intervention, it gives a distance for the interventional equivalence this
 term's "Not interventional equivalence" excludes. With linear tests of a
 representation φ it is the distance between mean representations
-([CLAIM-tmprbieu](../claims.d/CLAIM-tmprbieu.md), Proposed), so equivalence under linear probes of
+([CLAIM-1163](../claims.d/CLAIM-1163.md), Proposed), so equivalence under linear probes of
 distributions is equality of means.

@@ -25,7 +25,7 @@ summary: >-
   2026-11-19.
 ---
 <!-- inactive-ok-file: LIT-1678 LIT-1692 LIT-1715 LIT-1764 — Unfetched; cited in the backlog audit of 2026-11-19 -->
-<!-- inactive-ok-file: CLAIM-644 CLAIM-tmp3qsdg CLAIM-tmpv8nto CLAIM-tmpgv8bs ARG-tmpmenxz THEORY-tmpo8don THEORY-tmp4fo7b THEORY-tmppcqht THEORY-tmpseccf THEORY-tmplq0um — filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-644 CLAIM-1017 CLAIM-1182 CLAIM-1103 ARG-229 THEORY-2297 THEORY-2280 THEORY-2299 THEORY-2303 THEORY-2293 — filed by the lead run of 2026-11-23 -->
 
 # LEAD-156: Search for human studies that separate the germline route of intergenerational trauma from the uterine, parenting and cultural routes, and for studies of descendants' distress against group identification
 
@@ -75,20 +75,20 @@ Carried out by a delegated lead run on branch
   and paternal-line designs, and the identity route.
 - **Read and filed**, each with a LIT, a NOTE and a THEORY:
   - Rice et al. 2010, the IVF "prenatal cross-fostering" design
-    ([THEORY-tmpo8don](../theory.d/THEORY-tmpo8don.md));
+    ([THEORY-2297](../theory.d/THEORY-2297.md));
   - Lewis et al. 2011, the same design on parental depression
-    ([THEORY-tmp4fo7b](../theory.d/THEORY-tmp4fo7b.md));
+    ([THEORY-2280](../theory.d/THEORY-2280.md));
   - Mulligan et al. 2025, Syrian refugees with a "germline" exposure group
-    ([THEORY-tmppcqht](../theory.d/THEORY-tmppcqht.md));
+    ([THEORY-2299](../theory.d/THEORY-2299.md));
   - Tuulari et al. 2025, sperm marks of fathers' childhood maltreatment
-    ([THEORY-tmpseccf](../theory.d/THEORY-tmpseccf.md));
+    ([THEORY-2303](../theory.d/THEORY-2303.md));
   - Zhou and Ryan 2023, a scoping review of the human studies
-    ([THEORY-tmplq0um](../theory.d/THEORY-tmplq0um.md)).
-- **The verdict** is [CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md): each design removes some routes and
+    ([THEORY-2293](../theory.d/THEORY-2293.md)).
+- **The verdict** is [CLAIM-1017](../claims.d/CLAIM-1017.md): each design removes some routes and
   leaves at least one, and no study combines them. The donor-gamete
-  design's limit is [CLAIM-tmpv8nto](../claims.d/CLAIM-tmpv8nto.md). The alternative reading of the Syrian
-  study, as a partial separation, is [CLAIM-tmpgv8bs](../claims.d/CLAIM-tmpgv8bs.md), argued in
-  [ARG-tmpmenxz](../arguments.d/ARG-tmpmenxz.md). The run leans to the first; the owner chooses.
+  design's limit is [CLAIM-1182](../claims.d/CLAIM-1182.md). The alternative reading of the Syrian
+  study, as a partial separation, is [CLAIM-1103](../claims.d/CLAIM-1103.md), argued in
+  [ARG-229](../arguments.d/ARG-229.md). The run leans to the first; the owner chooses.
 - **The registered works.** Yehuda and Lehrner 2018 ([LIT-1715](../literature.d/LIT-1715.md)) was retried
   by both documented interfaces and refused by both. Yehuda et al. 2016
   ([LIT-1692](../literature.d/LIT-1692.md)) and Pembrey et al. 2006 ([LIT-1764](../literature.d/LIT-1764.md)) have no PMC copy. Their

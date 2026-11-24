@@ -43,7 +43,7 @@ history:
 - version: 5
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §2.1 uses
     it as a step: the compatibility complex, relief as enlargement. No
     other change.

@@ -1,9 +1,0 @@
-### Added
-
-- [LEAD-032](record/leads.d/LEAD-032.md)'s Europe PMC search for dismantling trials of safety-behaviour removal with exposure held fixed, and for individual-level hysteresis in psychopathology: script, counts and screening in scratch/studies/lead-032/. Neither the experiment [QUESTION-045](record/questions.d/QUESTION-045.md) asks for nor individual data showing hysteresis was found.
-- Three readings: Meckes et al. (2025), [LIT-3123](record/literature.d/LIT-3123.md), [NOTE-2332](record/notes.d/NOTE-2332.md), [THEORY-2242](record/theory.d/THEORY-2242.md) (exposure with a supplied safety behaviour faded, kept or absent, no difference at one month); de Jong et al. (2023), [LIT-3124](record/literature.d/LIT-3124.md), [NOTE-2333](record/notes.d/NOTE-2333.md), [THEORY-2243](record/theory.d/THEORY-2243.md) (the HysTAR test for hysteresis, no empirical psychopathology series); Smit et al. (2025), [LIT-3125](record/literature.d/LIT-3125.md), [NOTE-2334](record/notes.d/NOTE-2334.md), [THEORY-2244](record/theory.d/THEORY-2244.md) (critical slowing before about a third of depressive recurrences).
-- Registered: Meulders et al. 2016, [LIT-3120](record/literature.d/LIT-3120.md) (Unfetched), and Wells et al. 1995, [LIT-3117](record/literature.d/LIT-3117.md); Salkovskis et al. 1999, [LIT-3121](record/literature.d/LIT-3121.md); Powers et al. 2004, [LIT-3118](record/literature.d/LIT-3118.md); Blakey et al. 2019, [LIT-3122](record/literature.d/LIT-3122.md); Wichers et al. 2016, [LIT-3119](record/literature.d/LIT-3119.md) (Deferred).
-
-### Changed
-
-- Dated notes of 2026-11-22 on [LEAD-032](record/leads.d/LEAD-032.md), [QUESTION-045](record/questions.d/QUESTION-045.md), [THEORY-058](record/theory.d/THEORY-058.md), [TERM-020](record/terms.d/TERM-020.md) and [CLAIM-446](record/claims.d/CLAIM-446.md) giving the search's outcome. No status changes.

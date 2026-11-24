@@ -6,7 +6,7 @@
 
 **Normative judgment about organizations** — whether an organization's own dynamics ground norms of function and failure, and what judging an organization needs beyond them — fixed relata before a judgment is well-defined, viability that does not establish what ought to persist, histories a present state does not show, a failure norm set by a system's own upkeep, and a bounded duty of answerability for the wrong beyond harm, with the routes by which an organization becomes normatively less informed; split from will-organization (ADR-089). What wholes and parts owe each other, and what those who govern an arrangement others depend on owe, is a line of its own (ADR-100).
 
-18 of 215 LEAD documents. Back to the [full index](../README.md).
+18 of 234 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -26,5 +26,5 @@
 | [LEAD-158](../../../record/leads.d/LEAD-158.md) | Read the works on the objectivity of relational norms, with Leffler on constitutivism as the adversarial test | Named in [QUESTION-128](../../../record/questions.d/QUESTION-128.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-177](../../../record/leads.d/LEAD-177.md) | Construct systems with identical sensory correlations but different memory persistence, downstream use and adaptive capacity, starting with a forager that learns its own failure criteria | Named in [QUESTION-285](../../../record/questions.d/QUESTION-285.md) and [CASE-239](../../../record/cases.d/CASE-239.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-181](../../../record/leads.d/LEAD-181.md) | Use the tolerance-indexed simulation to test whether penalizing newly recognized violations produces avoidance of inquiry | Named in [CLAIM-662](../../../record/claims.d/CLAIM-662.md). Filed by the backlog audit of 2026-11-19. | Open |
-| [LEAD-189](../../../record/leads.d/LEAD-189.md) | Read the blameless post-incident practice and check the Tempe prosecution | Named in the curation entry of 2026-11-18 (062004). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-189](../../../record/leads.d/LEAD-189.md) v2 | Read the blameless post-incident practice and check the Tempe prosecution | Named in the curation entry of 2026-11-18 (062004). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-198](../../../record/leads.d/LEAD-198.md) | Test whether the joint commitment supplies the motive and the conspicuous split the content of children's equal division, by crossing commitment with the availability of a salient or known split | The crossed design that would test [CLAIM-766](../../../record/claims.d/CLAIM-766.md): commitment against no commitment, crossed at age five and over with a salient against no salient split, and at age three with a stated equality norm against a novel division with no stated norm. First step: search for published studies that already cross these factors. Filed with the developmental readings of 2026-11-20. | Open |

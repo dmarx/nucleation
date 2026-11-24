@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [November 2026](2026-11.md)
 
+- [23 Nov 02:50 — Status review of the promotion batch of 2026-11-23](2026-11.md#status-review-of-the-promotion-batch-of-2026-11-23)
 - [21 Nov 06:38 — Adoption review of 2026-11-21: the 48 Proposed decisions on staging, sorted into adopt, adopt after a look, and leave](2026-11.md#adoption-review-of-2026-11-21-the-48-proposed-decisions-on-staging-sorted-into-adopt-adopt-after-a-look-and-leave)
 - [20 Nov 22:45 — Admission audit of the manuscript's principles; principles filed as accounts](2026-11.md#admission-audit-of-the-manuscripts-principles-principles-filed-as-accounts)
 - [20 Nov 21:06 — Status review of 2026-11-20: entries proximal to PR 555's manuscript; 11 promoted](2026-11.md#status-review-of-2026-11-20-entries-proximal-to-pr-555s-manuscript-11-promoted)
@@ -23,9 +24,9 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-135 entries across 2 books, newest first.
+136 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 14 | 2026-11-03 | 2026-11-21 |
+| [2026-11](2026-11.md) | 15 | 2026-11-03 | 2026-11-23 |
 | [2026-10](2026-10.md) | 121 | 2026-10-07 | 2026-10-31 |

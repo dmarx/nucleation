@@ -6,7 +6,7 @@
 
 **Well-being** — how well a life goes for the one living it, as psychology measures it — subjective and eudaimonic well-being, flourishing, vitality and meaning in life, and what predicts them (ADR-025).
 
-45 of 3140 LIT documents. Back to the [full index](../README.md).
+45 of 3195 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

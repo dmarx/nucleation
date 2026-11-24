@@ -6,8 +6,8 @@
 
 **Software engineering** — how software is specified, built, tested and changed — test oracles and metamorphic testing, verification against specifications, reflective and metaobject architectures, self-adaptive systems and models kept at run time, model-driven engineering and the coupled evolution of metamodels and their instances, and version control and change management; read for itself, not as ML practice, which belongs to the anthology (ADR-048); ontology and schema change as data organization stays with databases (ADR-097).
 
-0 of 217 ARG documents. Back to the [full index](../README.md).
+1 of 240 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-219](../../../record/arguments.d/ARG-219.md) | The workbook's exemplar postmortem, which names a staffing limit among what went poorly and assigns its fourteen action items, all technical, to engineers and none to staffing, as evidence, fits the prediction that a blameless review's action items stop at or below the reviewing teams' authority | The support [CASE-418](../../../record/cases.d/CASE-418.md) gives [CLAIM-750](../../../record/claims.d/CLAIM-750.md), filed for [LEAD-189](../../../record/leads.d/LEAD-189.md) on 2026-11-22. Contested: the filing doubts it, in an alternative reading in the case and in the objection [CLAIM-1062](../../../record/claims.d/CLAIM-1062.md). The inference is weak evidence for the prediction, from one exemplar; both critical questions are answered with qualifications. Proposed. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

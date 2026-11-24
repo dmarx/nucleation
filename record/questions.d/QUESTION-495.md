@@ -120,20 +120,20 @@ revolutionary learning, which cuts against reading the question as a
 choice between the two.
 
 ## Note of 2026-11-23: the conditions for a scalar optimum
-<!-- inactive-ok-file: CLAIM-tmpy87xn CLAIM-tmp6ppvo CLAIM-tmpl9022 ARG-tmpi8mhy — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-1197 CLAIM-1036 CLAIM-1130 ARG-227 — new; filed by the lead run of 2026-11-23 -->
 
 The lead run for ChatGPT's "Show which assumptions are necessary for a
 scalar optimum to exist" filed three claims and an argument. An optimal
 learning policy is a scalar optimum under a declared task law, one
-valuation, a finite value and attainment ([CLAIM-tmpy87xn](../claims.d/CLAIM-tmpy87xn.md)); the task law
+valuation, a finite value and attainment ([CLAIM-1197](../claims.d/CLAIM-1197.md)); the task law
 may depend on what has been learned, so the question's case of a task
 distribution that depends on what the learner becomes does not by itself
 defeat a definition. What does: a valuation that learning changes, where
 the evaluator that gives an optimum, the present self, excludes by
 construction the benefits that cannot be specified in advance
-([CLAIM-tmp6ppvo](../claims.d/CLAIM-tmp6ppvo.md)); and learnability that outgrows the discount, where
+([CLAIM-1036](../claims.d/CLAIM-1036.md)); and learnability that outgrows the discount, where
 investing in it is always better and so no amount is best
-([CLAIM-tmpl9022](../claims.d/CLAIM-tmpl9022.md)). The independence of the conditions is [ARG-tmpi8mhy](../arguments.d/ARG-tmpi8mhy.md). It
+([CLAIM-1130](../claims.d/CLAIM-1130.md)). The independence of the conditions is [ARG-227](../arguments.d/ARG-227.md). It
 narrows what would answer the question: a definition must declare an
 evaluator across valuations, or bound the growth of learnability. No
 status change.

@@ -1,6 +1,6 @@
 ---
 name: write-manuscript
-description: How a manuscript is manifested and fleshed out from the record as a view over its argument - from a work in the `works` vocabulary and a motivating draft (an assistant's write-up, an owner's outline) to a cited, fact-checked, reviewed working draft in scratch/manuscripts/, with its analysis executed, its gaps fed back to the record, its open items routed to the owner, and its refreshes as the record moves. Use it when the owner asks to draft, flesh out, refresh or revise a manuscript tied to the record's arguments, or to turn an exchange's write-up into one. ADR-tmpbdfmk holds the invariants; ADR-104 the membership rule.
+description: How a manuscript is manifested and fleshed out from the record as a view over its argument - from a work in the `works` vocabulary and a motivating draft (an assistant's write-up, an owner's outline) to a cited, fact-checked, reviewed working draft in scratch/manuscripts/, with its analysis executed, its gaps fed back to the record, its open items routed to the owner, and its refreshes as the record moves. Use it when the owner asks to draft, flesh out, refresh or revise a manuscript tied to the record's arguments, or to turn an exchange's write-up into one. ADR-143 holds the invariants; ADR-104 the membership rule.
 ---
 <!-- .claude/skills/write-manuscript/SKILL.md -->
 
@@ -16,7 +16,7 @@ its scope, before the manuscript is ready (step 6). The owner's ruling of
 `scratch/manuscripts/<work>/`, under version control and outside the
 record: luria does not read `scratch/`, and does not repair it either.
 
-ADR-tmpbdfmk holds what must stay true. This file says how it is done now,
+ADR-143 holds what must stay true. This file says how it is done now,
 and it is meant to change. When a step turns out wrong or missing, edit it
 in the same pull request as the work that showed it, and say so in the
 changelog fragment.

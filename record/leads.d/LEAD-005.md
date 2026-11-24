@@ -21,7 +21,7 @@ summary: >-
   no-feedback result before adding feedback, so that the question's model
   is checked against what is known.
 ---
-<!-- inactive-ok-file: CASE-tmp3axlj CLAIM-tmpk8x2j CLAIM-tmpx0pvr CLAIM-tmpk8zw2 CLAIM-tmpj5z7a — filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-391 CLAIM-1123 CLAIM-1189 CLAIM-1124 CLAIM-1116 — filed by the lead run of 2026-11-23 -->
 
 # LEAD-005: Reproduce a known result on the thermodynamics of prediction without feedback, as the first milestone toward asking which memory a costed agent with feedback keeps
 
@@ -47,22 +47,22 @@ filed. Its text was re-checked from arXiv v3. [THEORY-026](../theory.d/THEORY-02
 2026-10-19 had a one-off numerical check without code; nothing held a
 reproduction with code, or the feedback half.
 
-One executed study, [CASE-tmp3axlj](../cases.d/CASE-tmp3axlj.md), in three parts:
+One executed study, [CASE-391](../cases.d/CASE-391.md), in three parts:
 
 - **Without feedback**, in 300 random driven systems, every identity and
   bound of the paper holds and no step's nostalgia is negative.
 - **With feedback** from state to drive, the identities and the summed
   bound still hold, but the nostalgia, and in a few systems the
-  dissipation itself, go negative: [CLAIM-tmpk8x2j](../claims.d/CLAIM-tmpk8x2j.md).
+  dissipation itself, go negative: [CLAIM-1123](../claims.d/CLAIM-1123.md).
 - **A percept–action loop** in which the predictive partition is a sticky
   nuisance and the interventional partition is the context the action
   must match. The memory keeping only the context is the cheapest that
   does the task, by every cost measured. The policy that uses a memory
-  changes its nostalgia and not its heat: [CLAIM-tmpx0pvr](../claims.d/CLAIM-tmpx0pvr.md). Which partition
+  changes its nostalgia and not its heat: [CLAIM-1189](../claims.d/CLAIM-1189.md). Which partition
   that memory keeps depends on what the interventional partition is taken
-  relative to, so two alternative claims are filed: [CLAIM-tmpk8zw2](../claims.d/CLAIM-tmpk8zw2.md) (the
+  relative to, so two alternative claims are filed: [CLAIM-1124](../claims.d/CLAIM-1124.md) (the
   outcome: the interventional partition; the assistant leans here) and
-  [CLAIM-tmpj5z7a](../claims.d/CLAIM-tmpj5z7a.md) (the whole percept: neither).
+  [CLAIM-1116](../claims.d/CLAIM-1116.md) (the whole percept: neither).
 
 What remains: a memory that revises (every kernel and policy here is
 fixed); pricing the controller that reads the memory; a loop with a hidden

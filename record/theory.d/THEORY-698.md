@@ -138,9 +138,9 @@ its meet is half-space intersection, its join a union of cones
 approximated by their conic hull (Definition 7), and its soft meet and
 join are the pointwise min and max of profiles (Eq. 6), none of them one
 direction. So the observation is no objection to the paper as written
-([CLAIM-tmpgnozg](../claims.d/CLAIM-tmpgnozg.md), Proposed, which rests on the reading here). A29 used this
+([CLAIM-1101](../claims.d/CLAIM-1101.md), Proposed, which rests on the reading here). A29 used this
 account's main point, that every incidence relation has a complete concept
 lattice so the lattice's existence shows nothing, correctly. Its graded
-lattice of [0, 1]-valued predicates under min and max ([CLAIM-tmpfza2h](../claims.d/CLAIM-tmpfza2h.md),
+lattice of [0, 1]-valued predicates under min and max ([CLAIM-1096](../claims.d/CLAIM-1096.md),
 Proposed) is the paper's soft algebra taken over a measure, with its
 distributivity and valuation metric made explicit.

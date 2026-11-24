@@ -151,18 +151,18 @@ own comparison of SGD's chain with critical sample sizes does.
 
 ## Note of 2026-11-22: the antecedents sampled, and the SGD sweep ([LEAD-175](../leads.d/LEAD-175.md))
 
-[CASE-tmpgqbyq](../cases.d/CASE-tmpgqbyq.md) ran both tests this reading's old condition asked for.
+[CASE-402](../cases.d/CASE-402.md) ran both tests this reading's old condition asked for.
 
 **The sweep.** No SGD run reached the 6-gon at any n (300 to 2,000),
 batch size (1 to 100), rate (0.001 to 0.2), initialisation or length (to
 45,000 epochs). From the 5-gon the move is closed for plain SGD
-([CLAIM-tmpg8m7a](../claims.d/CLAIM-tmpg8m7a.md)), so "inaccessible and not reached … are not yet told
-apart" is now told apart for that route ([CLAIM-tmp9zqvq](../claims.d/CLAIM-tmp9zqvq.md)).
+([CLAIM-1098](../claims.d/CLAIM-1098.md)), so "inaccessible and not reached … are not yet told
+apart" is now told apart for that route ([CLAIM-1057](../claims.d/CLAIM-1057.md)).
 
 **The antecedents.** Sampling the formula's target exp(−nL) under the
 N(0, 1) prior does not give n ≈ 190, 370 and 1,600–2,500. The first two
 steps have no crossing above n ≈ 1, 5 → 5⁺ falls near 780 and 5 → 6 near
-270 ([CLAIM-tmpraadt](../claims.d/CLAIM-tmpraadt.md)). Chen et al.'s NUTS likelihood (Eq. 3) carries a ½
+270 ([CLAIM-1162](../claims.d/CLAIM-1162.md)). Chen et al.'s NUTS likelihood (Eq. 3) carries a ½
 that their formula's nL (App. F.1, Table 1's L) does not. Their Fig. 2's
 600–700 matches the sampled 5 → 6 on their scale (about 530–560), and
 matches the formula's 601 only across the factor of two.

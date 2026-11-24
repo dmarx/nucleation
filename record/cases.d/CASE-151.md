@@ -30,7 +30,7 @@ reported_in:
 - LIT-1425
 - NOTE-1095
 ---
-<!-- inactive-ok-file: CASE-tmphvbov — new, Proposed; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-405 — new, Proposed; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: ARG-071 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-432 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
@@ -218,7 +218,7 @@ The Federal Reserve lifted the asset growth restriction of its 2018
 enforcement action on 2025-06-03, finding that the bank had improved "its
 governance and risk management program" and completed a third-party review;
 "The other provisions in the 2018 enforcement action will remain in place"
-([LIT-tmppg6h5](../literature.d/LIT-tmppg6h5.md), [NOTE-tmp59pkn](../notes.d/NOTE-tmp59pkn.md)). For [LEAD-101](../leads.d/LEAD-101.md)'s run ([CASE-tmphvbov](CASE-tmphvbov.md)) this
+([LIT-3181](../literature.d/LIT-3181.md), [NOTE-2377](../notes.d/NOTE-2377.md)). For [LEAD-101](../leads.d/LEAD-101.md)'s run ([CASE-405](CASE-405.md)) this
 case is coded unripe: under six months of window, and the release names no
 procedure that weighs harm to customers. It is the case on which
 [CLAIM-432](../claims.d/CLAIM-432.md)'s part 5 could next be tested, from mid-2027. Unchanged.

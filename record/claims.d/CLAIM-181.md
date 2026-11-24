@@ -94,7 +94,7 @@ complements:
 - CLAIM-476
 - CLAIM-479
 ---
-<!-- inactive-ok-file: CLAIM-tmp86z76 — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
+<!-- inactive-ok-file: CLAIM-1049 — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
 # CLAIM-181: The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it
@@ -272,8 +272,8 @@ pathological convergence (differences collapsed into one formulation;
 revision made prohibitively hard; the vocabulary treated as exhaustive;
 agreement rewarded as evidence of correctness). It adds that compiling
 norms into mechanisms ([DP-3](../../docs/design-principles.md#dp-3)) makes the risk "especially consequential".
-[CLAIM-tmp86z76](CLAIM-tmp86z76.md) (Proposed) takes this claim as the limit of its thesis that
-a governed record synchronizes without convergence, and [CLAIM-tmpcsh5p](CLAIM-tmpcsh5p.md)
+[CLAIM-1049](CLAIM-1049.md) (Proposed) takes this claim as the limit of its thesis that
+a governed record synchronizes without convergence, and [CLAIM-1075](CLAIM-1075.md)
 (Proposed) as the reason a record must keep the interruptions that change
 its grammar. The claim is unchanged.
 

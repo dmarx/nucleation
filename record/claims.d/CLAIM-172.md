@@ -129,7 +129,7 @@ complements:
 - CLAIM-157
 - CLAIM-616
 ---
-<!-- inactive-ok-file: THEORY-tmpq02z9 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2300 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the owner's challenge that occasioned version 3, open -->
 <!-- inactive-ok-file: CLAIM-163 CLAIM-165 — Proposed; the earlier objection this bears on and the open objection to this claim -->
@@ -236,7 +236,7 @@ A stronger case than this claim's own ([THEORY-2250](../theory.d/THEORY-2250.md)
 ## Note of 2026-11-22: Augustsson and colleagues, read
 
 A parallel, no edge. In Augustsson and colleagues' adaptive network
-([THEORY-tmpq02z9](../theory.d/THEORY-tmpq02z9.md)) identical oscillators with no imposed groups split by
+([THEORY-2300](../theory.d/THEORY-2300.md)) identical oscillators with no imposed groups split by
 themselves into a mutually entrained cluster and a desynchronized group;
 the cluster carries a collective frequency neither group's members have
 alone. It does not test the claim's sufficiency.

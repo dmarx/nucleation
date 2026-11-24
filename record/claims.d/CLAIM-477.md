@@ -80,7 +80,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-478 CLAIM-137 LIT-1019 LIT-1632 — claims the note connects (Proposed) and works unread here (Unavailable or Deferred) -->
 <!-- inactive-ok-file: THEORY-1086 — Proposed; Jaksland's conditional, cited as open -->
 <!-- inactive-ok-file: CLAIM-136 CLAIM-151 — Proposed; the domain cases, neighbours and objection this frame sits beside, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmpfbofs CLAIM-tmph783a CLAIM-tmpr0sfe CLAIM-tmp6sa56 — new; LEAD-195's rulings on symmetries, conservation laws and possibility facts, 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-1094 CLAIM-1105 CLAIM-1161 CLAIM-1037 — new; LEAD-195's rulings on symmetries, conservation laws and possibility facts, 2026-11-22 -->
 
 # CLAIM-477: Relata stand to relations as realizations stand to specifications: what an entity is, is partly fixed by the constraints on the configurations of entities and relations it can enter, and those constraints are themselves realized and maintained by something, so neither relata nor relations, nor specifications nor realizations, are prior without qualification
 
@@ -440,7 +440,7 @@ The readings since (Bencherki 2017 and Bencherki and Iliadis on 2026-10-31, Baum
 2026-10-30 and 2026-11-06 left open, and [QUESTION-450](../questions.d/QUESTION-450.md) states. It is filed as
 two pairs of alternatives.
 
-- **Symmetries and conservation laws.** [CLAIM-tmpfbofs](CLAIM-tmpfbofs.md) (leaned to) rules
+- **Symmetries and conservation laws.** [CLAIM-1094](CLAIM-1094.md) (leaned to) rules
   under the thick sense of "realized and maintained", [TERM-070](../terms.d/TERM-070.md)'s and A10
   §7's, since read thinly (a law realized by whatever obeys it) defeater (b)
   could never fire for a law. An effective symmetry or conservation law
@@ -451,15 +451,15 @@ two pairs of alternatives.
   fundamental is maintained by nothing, but no result shows a law
   fundamental, and the one historical case on the record, parity, went the
   other way ([THEORY-1078](../theory.d/THEORY-1078.md)). So (b) is not met as things stand.
-  [CLAIM-tmph783a](CLAIM-tmph783a.md) objects. Take the current fundamental theory at face
+  [CLAIM-1105](CLAIM-1105.md) objects. Take the current fundamental theory at face
   value: Wigner's kinds are fixed by a symmetry nothing realizes. Then (b)
   is met, and this claim holds only for kinds whose constraints are
   effective.
-- **Possibility facts.** [CLAIM-tmpr0sfe](CLAIM-tmpr0sfe.md) (leaned to): a possibility fact
+- **Possibility facts.** [CLAIM-1161](CLAIM-1161.md) (leaned to): a possibility fact
   adds no candidate of its own. It is a fact about the laws, and its
   definition asks that the laws allow constructors to be built and to
   "retain their ability", which is this claim's "realized and maintained
-  by something" made modal. [CLAIM-tmp6sa56](CLAIM-tmp6sa56.md) objects. On constructor
+  by something" made modal. [CLAIM-1037](CLAIM-1037.md) objects. On constructor
   theory's programme the laws are themselves possibility facts, so the
   reduction reaches nothing realized, and (b) is met for information media.
 
@@ -479,7 +479,7 @@ only that the processes obeying it realize it as a specification, not
 that anything maintains it." Adopting it would be version 4, with
 history. The text otherwise, the edges and the warrant are unchanged.
 
-**Under the alternatives**, [CLAIM-tmph783a](CLAIM-tmph783a.md) or [CLAIM-tmp6sa56](CLAIM-tmp6sa56.md), the
+**Under the alternatives**, [CLAIM-1105](CLAIM-1105.md) or [CLAIM-1037](CLAIM-1037.md), the
 revision would instead restrict the claim, as (b) already says it would.
 The title's "neither ... prior without qualification" would hold for kinds
 whose constraints are effective, or have actual realizers. That is a
@@ -492,7 +492,7 @@ No status, title or warrant changes.
 Checked the revisions since the note of 2026-11-06 ([CLAIM-136](CLAIM-136.md), [CLAIM-151](CLAIM-151.md),
 [TERM-070](../terms.d/TERM-070.md), [THEORY-1066](../theory.d/THEORY-1066.md), [THEORY-1078](../theory.d/THEORY-1078.md), [THEORY-158](../theory.d/THEORY-158.md)): each moved an edge only,
 and [CLAIM-136](CLAIM-136.md) and [CLAIM-151](CLAIM-151.md) remain Proposed, so the template still has no
-held domain case. [CLAIM-tmph783a](CLAIM-tmph783a.md) and [CLAIM-tmp6sa56](CLAIM-tmp6sa56.md) are live objections
-answered only by the Proposed [CLAIM-tmpfbofs](CLAIM-tmpfbofs.md) and [CLAIM-tmpr0sfe](CLAIM-tmpr0sfe.md); which
+held domain case. [CLAIM-1105](CLAIM-1105.md) and [CLAIM-1037](CLAIM-1037.md) are live objections
+answered only by the Proposed [CLAIM-1094](CLAIM-1094.md) and [CLAIM-1161](CLAIM-1161.md); which
 reading of defeater (b) the claim intends, and whether to adopt the
 Reframing of 2026-11-22, are the owner's.

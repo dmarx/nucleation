@@ -82,10 +82,10 @@ change and a precision-lowering drug does not. More simulations cannot
 settle it.
 
 ## Note of 2026-11-22: the promote_when is not met
-<!-- inactive-ok-block: THEORY-tmp1ov9x THEORY-tmp8n4s7 — new; filed by the lead search of 2026-11-22 -->
+<!-- inactive-ok-block: THEORY-2277 THEORY-2284 — new; filed by the lead search of 2026-11-22 -->
 
 [LEAD-106](../leads.d/LEAD-106.md) found no study of either kind this entry's promote_when asks
-for. The nearest, [THEORY-tmp1ov9x](THEORY-tmp1ov9x.md), has trauma-exposed controls and eye
+for. The nearest, [THEORY-2277](THEORY-2277.md), has trauma-exposed controls and eye
 tracking but no cued recall, no disambiguating periphery and only a
-latency measure; [THEORY-tmp8n4s7](THEORY-tmp8n4s7.md) finds no eye-tracking study of PTSD
+latency measure; [THEORY-2284](THEORY-2284.md) finds no eye-tracking study of PTSD
 after recall. The entry stays Proposed.

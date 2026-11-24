@@ -47,7 +47,7 @@ The simulator [QUESTION-394](../questions.d/QUESTION-394.md) records from A was 
 
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
-<!-- inactive-ok-block: ADR-tmpsfjxu CASE-315 — Proposed or new; the work, the run and the extension -->
-Parallel. A48 §9.6 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md)) proposes,
+<!-- inactive-ok-block: ADR-144 CASE-315 — Proposed or new; the work, the run and the extension -->
+Parallel. A48 §9.6 of the owner's manuscript ([ADR-144](../decisions.d/ADR-144.md)) proposes,
 without a design, the study this lead partly ran ([CASE-315](../cases.d/CASE-315.md)); its redesign
-and novel-harm arms are new, and are [LEAD-tmpnblsf](LEAD-tmpnblsf.md).
+and novel-harm arms are new, and are [LEAD-226](LEAD-226.md).

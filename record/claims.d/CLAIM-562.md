@@ -22,7 +22,7 @@ history:
 - version: 3
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    Joins the work governance-of-possibility (ADR-144) at its
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §10.1, §13.6. No other
@@ -68,8 +68,8 @@ works:
 ---
 <!-- inactive-ok-file: CASE-215 — Proposed or new; cited from the note on A's predictions -->
 <!-- inactive-ok-file: THEORY-1368 CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CASE-tmp2a9lm CLAIM-tmpeno57 CLAIM-tmpzo914 — new; filed by the lead run of 2026-11-23 -->
-<!-- inactive-ok-file: CASE-tmpjfl6r CLAIM-tmpqrmoy CLAIM-tmphbmpy CLAIM-tmpb125k THEORY-tmpmwhm1 — new; filed by the lead run of 2026-11-23 on equal budgets -->
+<!-- inactive-ok-file: CASE-389 CLAIM-1085 CLAIM-1205 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-406 CLAIM-1160 CLAIM-1107 CLAIM-1063 THEORY-2296 — new; filed by the lead run of 2026-11-23 on equal budgets -->
 
 # CLAIM-562: Where an intervention acts in a system's constraint structure can predict whether it achieves a target better than how much intervention there is, and adding an intervention to a successful set can make it fail
 
@@ -171,26 +171,26 @@ UFI is the fraction of creases in the union of the actuated creases' folding isl
 
 ## Note of 2026-11-23: both findings recur in a kinetic constraint-growth model
 
-The lead run of 2026-11-23 ([CASE-tmp2a9lm](../cases.d/CASE-tmp2a9lm.md)) found both of this claim's findings in
+The lead run of 2026-11-23 ([CASE-389](../cases.d/CASE-389.md)) found both of this claim's findings in
 a system of another kind, grown stochastically with a binding threshold
 rather than by energy descent: island coverage ranks seed sets well above
 the number of seeds, and adding a seed can halve the chance of the target
-([CLAIM-tmpeno57](CLAIM-tmpeno57.md), which corroborates this claim). The mechanism differs:
+([CLAIM-1085](CLAIM-1085.md), which corroborates this claim). The mechanism differs:
 the harmful seeds there have large islands, not the small one of Fig. 5h,
 and a race reading of the paper's explanation fails as a predictor there
-([CLAIM-tmpzo914](CLAIM-tmpzo914.md)). No status change.
+([CLAIM-1205](CLAIM-1205.md)). No status change.
 
 ## Note of 2026-11-23: an organizational case at equal budget
 
 The lead run of 2026-11-23 for this claim's organizational test
-([CASE-tmpjfl6r](../cases.d/CASE-tmpjfl6r.md)) found one open evaluation that meets a standard written
+([CASE-406](../cases.d/CASE-406.md)) found one open evaluation that meets a standard written
 before coding. In Andhra Pradesh's randomized evaluation of government
 primary schools, an extra contract teacher, a block grant for materials
 and an individual teacher bonus each cost about Rs 10,000 per school a
 year, and the bonus raised test scores three times as much, 0.27 SD
-against 0.09 SD ([THEORY-tmpmwhm1](../theory.d/THEORY-tmpmwhm1.md)). Read as placement, it corroborates the
-first half here in an organization ([CLAIM-tmpqrmoy](CLAIM-tmpqrmoy.md), the filer's lean);
+against 0.09 SD ([THEORY-2296](../theory.d/THEORY-2296.md)). Read as placement, it corroborates the
+first half here in an organization ([CLAIM-1160](CLAIM-1160.md), the filer's lean);
 read as a difference of instrument, conditional pay against unconditional
-resources, it illustrates without testing ([CLAIM-tmphbmpy](CLAIM-tmphbmpy.md)). No case
+resources, it illustrates without testing ([CLAIM-1107](CLAIM-1107.md)). No case
 coded bears on the second half, that adding can hurt
-([CLAIM-tmpb125k](CLAIM-tmpb125k.md)). No status change.
+([CLAIM-1063](CLAIM-1063.md)). No status change.

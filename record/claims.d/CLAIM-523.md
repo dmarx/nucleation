@@ -56,7 +56,7 @@ history:
 - version: 9
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §10 and
     §13 state its three achievements, detection, authority and correction
     within a deadline, without citing it. No other change.
@@ -322,8 +322,8 @@ Arnstein 1969, read from an OCR scan ([NOTE-2037](../notes.d/NOTE-2037.md), [THE
 
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
-<!-- inactive-ok-block: ADR-tmpsfjxu — Proposed; the work -->
-Parallel, uncited. A48 §10 and §13 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md))
+<!-- inactive-ok-block: ADR-144 — Proposed; the work -->
+Parallel, uncited. A48 §10 and §13 of the owner's manuscript ([ADR-144](../decisions.d/ADR-144.md))
 state this claim's three achievements, detection, authority and correction
 within a deadline, including a formally contestable institution that cannot
 correct in time, without citing it; it is a member of the work.

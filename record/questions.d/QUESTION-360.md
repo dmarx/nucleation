@@ -22,7 +22,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-331 — new; the run of LEAD-172, filed 2026-11-22 -->
 <!-- inactive-ok-file: TERM-131 — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: CASE-tmpkttf2 CASE-tmp55ptq CASE-tmphawe9 CLAIM-tmpf4pun CLAIM-tmpadjsm — Proposed; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-409 CASE-394 CASE-403 CLAIM-1092 CLAIM-1059 — Proposed; filed by the lead run of 2026-11-23 -->
 
 # QUESTION-360: When does a learned distinction become a concept rather than a discriminator or a habit (by being reused systematically, transferring to counterfactual cases, integrating with other capacities, or being correctable), is the transition graded or categorical, and how is a concept told apart from the organization that realizes it and from the thing it is about?
 
@@ -115,10 +115,10 @@ No status change.
 ## Note of 2026-11-23: A73's table and rule filed as a case
 
 The x² example this question's note of A73 §7 records is now a case,
-[CASE-tmpkttf2](../cases.d/CASE-tmpkttf2.md), with two variants: [CASE-tmp55ptq](../cases.d/CASE-tmp55ptq.md), the rule computed by a
+[CASE-409](../cases.d/CASE-409.md), with two variants: [CASE-394](../cases.d/CASE-394.md), the rule computed by a
 noisy multiplier (understanding without reliably correct output), and
-[CASE-tmphawe9](../cases.d/CASE-tmphawe9.md), a frozen exact rule that cannot learn. The last sets apart
+[CASE-403](../cases.d/CASE-403.md), a frozen exact rule that cannot learn. The last sets apart
 two criteria this question could use to tell a concept from a
 discriminator: stable tracking under structure-preserving change
-([CLAIM-tmpf4pun](../claims.d/CLAIM-tmpf4pun.md), the assistant's lean) and cheap acquisition of the next
-target ([CLAIM-tmpadjsm](../claims.d/CLAIM-tmpadjsm.md)). Filed for [QUESTION-493](QUESTION-493.md); no status change here.
+([CLAIM-1092](../claims.d/CLAIM-1092.md), the assistant's lean) and cheap acquisition of the next
+target ([CLAIM-1059](../claims.d/CLAIM-1059.md)). Filed for [QUESTION-493](QUESTION-493.md); no status change here.

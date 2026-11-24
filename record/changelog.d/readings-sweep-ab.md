@@ -1,7 +1,0 @@
-### Added
-
-- Batches A and B of the Unfetched sweep's reading queue, filed from two readers' reports checked against the copies. Read in full and moved to Active, each with a NOTE and a Proposed THEORY: Martela and Ryan 2019 on beneficence and basic wellness enhancers ([LIT-1983](record/literature.d/LIT-1983.md)), Čater, Čater and Ivašković on fan identity and the Super League ([LIT-1138](record/literature.d/LIT-1138.md)), Mulgan on corporate agency and possible futures ([LIT-1874](record/literature.d/LIT-1874.md)), Dorsch, Coeckelbergh and Vierkant on engagement algorithms and epistemic agency ([LIT-2373](record/literature.d/LIT-2373.md)), and Caliari on behavioural welfare analysis ([LIT-2363](record/literature.d/LIT-2363.md)). Lubics et al. ([LIT-1980](record/literature.d/LIT-1980.md)) stays Unfetched behind Springer's bot check; Martela and Ryan 2021 is registered and read as its stand-in, in part ([LIT-3085](record/literature.d/LIT-3085.md)). Dated notes on the 37 entries the readings bear on, among them corrections to [NOTE-440](record/notes.d/NOTE-440.md) and [NOTE-1253](record/notes.d/NOTE-1253.md). The curation entry of 2026-11-22 11:34 lists what was filed and what was left.
-
-### Fixed
-
-- [LIT-1138](record/literature.d/LIT-1138.md)'s pagination, now the copy's online-first pages 1–20, and [LIT-2373](record/literature.d/LIT-2373.md)'s citation, now Synthese 208, article 164.

@@ -62,7 +62,7 @@ history:
 - version: 7
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §9 uses
     its threshold, the least peak over paths. No other change.
 grounds:

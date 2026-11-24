@@ -165,14 +165,14 @@ change.
 
 ## Note of 2026-11-23: the work transferred to claimants, filed
 
-<!-- inactive-ok-block: CLAIM-tmpjg4h2 CLAIM-tmpbt43r — Proposed; filed from the exchange "Explain First Contact RL" -->
+<!-- inactive-ok-block: CLAIM-1117 CLAIM-1065 — Proposed; filed from the exchange "Explain First Contact RL" -->
 The point in (b) of the note of 2026-11-19, a bureaucracy cheap for
 administrators because claimants do the work of fitting its categories,
 left unfiled as close to definitional, came back at A56 §4 of the exchange
 "Explain First Contact RL" (2026-11-23) with content of its own: who must
 pay to make a proposal legible steers which questions an institution
-pursues. It is filed as [CLAIM-tmpjg4h2](CLAIM-tmpjg4h2.md), in A's voice, on the owner's U29
-([CLAIM-tmpbt43r](CLAIM-tmpbt43r.md)). No status change. The note is the assistant's (Claude, in
+pursues. It is filed as [CLAIM-1117](CLAIM-1117.md), in A's voice, on the owner's U29
+([CLAIM-1065](CLAIM-1065.md)). No status change. The note is the assistant's (Claude, in
 this session); adopting it is the owner's call.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A34 §7, a miscitation

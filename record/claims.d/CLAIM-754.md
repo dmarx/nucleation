@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    Joins the work governance-of-possibility (ADR-144) at its
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §11.2. No other change.
@@ -171,9 +171,9 @@ of anomalies in training in a tradition, an inquiry frontier set by
 acquired organization. Interpretive.
 
 ## Note of 2026-11-23: Lippl and Lindsey, read
-<!-- inactive-ok-file: THEORY-tmpw69kb CLAIM-tmp7n00e CLAIM-tmp2tjpt CLAIM-tmpew899 ARG-tmpbvq7y CASE-tmpjn7jc CLAIM-tmp2k67n — Proposed or new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: THEORY-2305 CLAIM-1043 CLAIM-1013 CLAIM-1089 ARG-223 CASE-407 CLAIM-1011 — Proposed or new; filed by the lead run of 2026-11-23 -->
 
-Lippl and Lindsey ([THEORY-tmpw69kb](../theory.d/THEORY-tmpw69kb.md); [NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md)), the precursor
+Lippl and Lindsey ([THEORY-2305](../theory.d/THEORY-2305.md); [NOTE-2415](../notes.d/NOTE-2415.md)), the precursor
 of Anguita and colleagues, read for the check of the lead that asked for
 it: do their regimes already show the same present capability with
 different later learning, outside the initialization Anguita and
@@ -183,43 +183,43 @@ pretrained diagonal linear network and its rescaling after pretraining
 function and reach the same functions by readout-only training, yet full
 fine-tuning sends them to different solutions, and which c is best
 reverses between a main task using a sparse subset of the pretrained
-features and one using all of them ([CLAIM-tmp7n00e](CLAIM-tmp7n00e.md), demonstrated, run in
-[CASE-tmpjn7jc](../cases.d/CASE-tmpjn7jc.md)). Two readings: two learners with one operational frontier
-and two developmental ones ([CLAIM-tmp2tjpt](CLAIM-tmp2tjpt.md), which corroborates this claim
-through [ARG-tmpbvq7y](../arguments.d/ARG-tmpbvq7y.md); the assistant's lean), or one learner under two
+features and one using all of them ([CLAIM-1043](CLAIM-1043.md), demonstrated, run in
+[CASE-407](../cases.d/CASE-407.md)). Two readings: two learners with one operational frontier
+and two developmental ones ([CLAIM-1013](CLAIM-1013.md), which corroborates this claim
+through [ARG-223](../arguments.d/ARG-223.md); the assistant's lean), or one learner under two
 procedures, since the rescaling is a change of step sizes
-([CLAIM-tmp2k67n](CLAIM-tmp2k67n.md)), which instances only this claim's indexing by
-procedure ([CLAIM-tmpew899](CLAIM-tmpew899.md), the objection). On either reading, the
+([CLAIM-1011](CLAIM-1011.md)), which instances only this claim's indexing by
+procedure ([CLAIM-1089](CLAIM-1089.md), the objection). On either reading, the
 readout's re-initialization scale γ gives the same pretrained network
 different fine-tuning penalties: the frontier is indexed by procedure.
 Nothing on the frontiers moving in opposite directions over training,
 since pretraining is always to convergence. No status change.
 
 ## Note of 2026-11-23: the scalar once declared
-<!-- inactive-ok-file: CLAIM-tmpy87xn CLAIM-tmp6ppvo CLAIM-tmpl9022 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-1197 CLAIM-1036 CLAIM-1130 — new; filed by the lead run of 2026-11-23 -->
 
 The lead run of 2026-11-23 qualifies this claim's last clause, that a
 scalar ranks learning processes once a task distribution, costs, horizon
 and evaluative preferences are declared. A fixed task distribution is more
 than is needed: a declared law that depends on what has been learned
-suffices ([CLAIM-tmpy87xn](CLAIM-tmpy87xn.md)). The list is less than enough: with all four
+suffices ([CLAIM-1197](CLAIM-1197.md)). The list is less than enough: with all four
 declared, a learner whose learnability outgrows the discount has no
-optimal policy ([CLAIM-tmpl9022](CLAIM-tmpl9022.md)), so a finite value and attainment must be
+optimal policy ([CLAIM-1130](CLAIM-1130.md)), so a finite value and attainment must be
 added. And "evaluative preferences" must be one valuation across the
 selves a policy could produce; when learning changes them, the
-preferences of those selves fix no scalar ([CLAIM-tmp6ppvo](CLAIM-tmp6ppvo.md)). The claim's
+preferences of those selves fix no scalar ([CLAIM-1036](CLAIM-1036.md)). The claim's
 thesis, that the three frontiers move separately, is untouched. Related
 by complements; whether the qualification should be an objection is the
 owner's call.
 
 ## Note of 2026-11-23: generative richness, from "Explain First Contact RL"
-<!-- inactive-ok-block: TERM-tmp9lu6c CLAIM-tmp6thmv — new; the term and claim that use this one -->
+<!-- inactive-ok-block: TERM-158 CLAIM-1038 — new; the term and claim that use this one -->
 
-A60 §3 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) uses this claim to say that an ecosystem's richness has a generative part as well as an extensive one: two perspectives with the same present repertoire 𝓕ᵢ can differ in what they could develop "through affordable learning and reorganization within a further horizon" (𝓓ᵢ), which is this claim's developmental frontier against its operational one. A60 adds that differentiated perspectives "can occupy different parts of each of these frontiers", so diversity distributes the capacity for future competence acquisition. That use is [TERM-tmp9lu6c](../terms.d/TERM-tmp9lu6c.md)'s developmental dimension and step 3 of [CLAIM-tmp6thmv](CLAIM-tmp6thmv.md), which rests on this claim. No status changes. The note is the assistant's (Claude, in this session).
+A60 §3 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) uses this claim to say that an ecosystem's richness has a generative part as well as an extensive one: two perspectives with the same present repertoire 𝓕ᵢ can differ in what they could develop "through affordable learning and reorganization within a further horizon" (𝓓ᵢ), which is this claim's developmental frontier against its operational one. A60 adds that differentiated perspectives "can occupy different parts of each of these frontiers", so diversity distributes the capacity for future competence acquisition. That use is [TERM-158](../terms.d/TERM-158.md)'s developmental dimension and step 3 of [CLAIM-1038](CLAIM-1038.md), which rests on this claim. No status changes. The note is the assistant's (Claude, in this session).
 
 ## Note of 2026-11-23: which inquiry frontier, from "Explain First Contact RL"
 
-<!-- inactive-ok-block: CLAIM-tmpx0wv9 TERM-tmpace0k TERM-tmpdk711 — Proposed; filed from the exchange -->
+<!-- inactive-ok-block: CLAIM-1190 TERM-159 TERM-160 — Proposed; filed from the exchange -->
 This claim's inquiry frontier, "what it can formulate and pursue", is
 [TERM-092](../terms.d/TERM-092.md)'s version-1 sense. Version 2 (2026-10-29) split it into the
 askable and the investigable sets, so the claim's third frontier should say
@@ -228,7 +228,7 @@ which it means. A58 of the exchange "Explain First Contact RL"
 answers: answering a question is not doing what it specifies, as an inquiry
 may explain why a machine fails "without possessing the ability to repair
 it", and the operational frontier must stay apart. Both alternatives filed
-for the owner keep it apart ([TERM-tmpace0k](../terms.d/TERM-tmpace0k.md), [TERM-tmpdk711](../terms.d/TERM-tmpdk711.md)), indexing the
+for the owner keep it apart ([TERM-159](../terms.d/TERM-159.md), [TERM-160](../terms.d/TERM-160.md)), indexing the
 answer frontier by the kind of inquiry and its acceptance standard;
-[CLAIM-tmpx0wv9](CLAIM-tmpx0wv9.md) complements this claim. No status change. The note is the
+[CLAIM-1190](CLAIM-1190.md) complements this claim. No status change. The note is the
 assistant's (Claude, in this session); adopting it is the owner's call.

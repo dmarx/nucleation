@@ -14,7 +14,7 @@ history:
 - version: 2
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    Joins the work governance-of-possibility (ADR-144) at its
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §8.5, §9.4, §15.3. No other
@@ -140,5 +140,5 @@ It adds two differences. The drill needs no commitment from whoever sets the bud
 
 ## Note of 2026-11-23: the study filed
 
-<!-- inactive-ok-block: CASE-tmpo8bsc CASE-tmp95f8e — new; the study filed -->
-The model the note above reports is now on the record as [CASE-tmpo8bsc](../cases.d/CASE-tmpo8bsc.md), which illustrates this claim: a drill each period (IV) costs what a reserve at the same level costs and has the same readiness curve, and drilling every second period loses the route. Its variant [CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md) holds the second way the drill breaks, a review that crowds it out. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
+<!-- inactive-ok-block: CASE-412 CASE-397 — new; the study filed -->
+The model the note above reports is now on the record as [CASE-412](../cases.d/CASE-412.md), which illustrates this claim: a drill each period (IV) costs what a reserve at the same level costs and has the same readiness curve, and drilling every second period loses the route. Its variant [CASE-397](../cases.d/CASE-397.md) holds the second way the drill breaks, a review that crowds it out. The note is the assistant's (Claude, in this session); adopting it is the owner's call.

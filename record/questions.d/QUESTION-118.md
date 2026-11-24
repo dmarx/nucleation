@@ -62,7 +62,7 @@ summary: >-
   that separates continuation, branching descent and independent
   reconstitution, and returns verdicts on the Senators lineages.
 ---
-<!-- inactive-ok-file: CLAIM-tmpqr0tn — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
+<!-- inactive-ok-file: CLAIM-1159 — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
 <!-- inactive-ok-file: CASE-320 CLAIM-884 — new, filed 2026-11-22 from LEAD-167's computation -->
 <!-- inactive-ok-file: THEORY-1814 THEORY-1819 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: QUESTION-290 — Answered; cited in the note of 2026-11-07 -->
@@ -295,34 +295,34 @@ collaborator while retaining Luria" and see whether an organizational
 disposition persists beyond a particular participant, and to keep the
 collaborators while withdrawing the record. That is this question for one
 replacement at a time, with the record as a candidate for what must stay
-causally continuous ([CLAIM-tmpqr0tn](../claims.d/CLAIM-tmpqr0tn.md), Proposed). The design is
-[LEAD-tmph7m7s](../leads.d/LEAD-tmph7m7s.md). The question is unchanged.
+causally continuous ([CLAIM-1159](../claims.d/CLAIM-1159.md), Proposed). The design is
+[LEAD-221](../leads.d/LEAD-221.md). The question is unchanged.
 
 ## Note of 2026-11-23: open-source successions, coded
 
-<!-- inactive-ok-block: CASE-tmpntt8e CLAIM-tmpc47v8 CLAIM-tmppui4z CLAIM-tmpqpfvh CLAIM-tmp79lxm — new, Proposed; the run and the claims filed from it -->
-[CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md) coded eight contested open-source successions. The
+<!-- inactive-ok-block: CASE-411 CLAIM-1067 CLAIM-1154 CLAIM-1158 CLAIM-1041 — new, Proposed; the run and the claims filed from it -->
+[CASE-411](../cases.d/CASE-411.md) coded eight contested open-source successions. The
 community's recognition followed the maintainers, not the name, where the
 maintainers moved wholesale, and split where part of them moved
-([CLAIM-tmpqpfvh](../claims.d/CLAIM-tmpqpfvh.md)); an original line kept producing while its steward paid
-its producers ([CLAIM-tmp79lxm](../claims.d/CLAIM-tmp79lxm.md)). That is which successor participants treat
+([CLAIM-1158](../claims.d/CLAIM-1158.md)); an original line kept producing while its steward paid
+its producers ([CLAIM-1041](../claims.d/CLAIM-1041.md)). That is which successor participants treat
 as continuing the project, not which, if any, is its persistence. The
 public records could not time participants' verdicts apart from their
-moves ([CLAIM-tmpc47v8](../claims.d/CLAIM-tmpc47v8.md), with its alternative [CLAIM-tmppui4z](../claims.d/CLAIM-tmppui4z.md)). The question
+moves ([CLAIM-1067](../claims.d/CLAIM-1067.md), with its alternative [CLAIM-1154](../claims.d/CLAIM-1154.md)). The question
 is unchanged and stays Open.
 
 ## Note of 2026-11-23 (later): the Senators' successors as participants count them
 
-<!-- inactive-ok-block: CASE-tmp44mzc CLAIM-tmp7z7si CLAIM-tmpl3ubq CLAIM-tmpzrzml — new, Proposed; the study, the verdict and the two readings filed by the lead run of 2026-11-23 -->
-[CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md) coded how the league's reported count, the club and
+<!-- inactive-ok-block: CASE-392 CLAIM-1047 CLAIM-1129 CLAIM-1206 — new, Proposed; the study, the verdict and the two readings filed by the lead run of 2026-11-23 -->
+[CASE-392](../cases.d/CASE-392.md) coded how the league's reported count, the club and
 supporters count the 2005 Nationals. Participants keep two units apart: a
 franchise, traced through Montreal and never through the Senators, and the
 city's baseball, traced to 1859 or 1901, into which the club and
 supporters put both Senators clubs, the Homestead Grays and the Nationals
-([CLAIM-tmp7z7si](../claims.d/CLAIM-tmp7z7si.md)). That is evidence of which successor relation
+([CLAIM-1047](../claims.d/CLAIM-1047.md)). That is evidence of which successor relation
 participants call continuation, not of which is persistence. Whether the
 city's baseball is itself a collective persisting without organizational
-transmission, or a place's history, is filed two ways ([CLAIM-tmpl3ubq](../claims.d/CLAIM-tmpl3ubq.md),
-the run's lean; [CLAIM-tmpzrzml](../claims.d/CLAIM-tmpzrzml.md)), and turns on this question's open part,
+transmission, or a place's history, is filed two ways ([CLAIM-1129](../claims.d/CLAIM-1129.md),
+the run's lean; [CLAIM-1206](../claims.d/CLAIM-1206.md)), and turns on this question's open part,
 whether supporters' memory is transmission. The question is unchanged and
 stays Open.

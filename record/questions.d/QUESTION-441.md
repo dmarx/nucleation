@@ -187,15 +187,15 @@ p. 9), and held evidence ([THEORY-1653](../theory.d/THEORY-1653.md)) cuts agains
 affective polarization. The question stays open.
 
 ## Note of 2026-11-22: part 1, an answer from the claimant's side, for [LEAD-097](../leads.d/LEAD-097.md)
-<!-- inactive-ok-block: CLAIM-tmpq1213 CLAIM-tmpvv7fw ARG-tmpl0o7n CLAIM-723 CLAIM-876 CLAIM-877 LIT-2532 — new, Proposed or Unfetched; filed for LEAD-097, the held form of the wrong, the bearer readings, and the review not read -->
+<!-- inactive-ok-block: CLAIM-1155 CLAIM-1184 ARG-228 CLAIM-723 CLAIM-876 CLAIM-877 LIT-2532 — new, Proposed or Unfetched; filed for LEAD-097, the held form of the wrong, the bearer readings, and the review not read -->
 
-[CLAIM-tmpq1213](../claims.d/CLAIM-tmpq1213.md), which `bears_on` this question, offers an answer to **part
+[CLAIM-1155](../claims.d/CLAIM-1155.md), which `bears_on` this question, offers an answer to **part
 1**: the counter-normativity, where those affected have standing to contest
 the harm with the organization, is the defeat of that standing, a wrong
 directed at the conditions under which their claims can count and not at
-the interests the harm sets back. [ARG-tmpl0o7n](../arguments.d/ARG-tmpl0o7n.md) argues that it does not
+the interests the harm sets back. [ARG-228](../arguments.d/ARG-228.md) argues that it does not
 reduce to the harm's continuation, from a construction with actual and
-expected harm matched; [CLAIM-tmpvv7fw](../claims.d/CLAIM-tmpvv7fw.md) is the instrumentalist objection it
+expected harm matched; [CLAIM-1184](../claims.d/CLAIM-1184.md) is the instrumentalist objection it
 answers. It complements [CLAIM-624](../claims.d/CLAIM-624.md)'s answer, the same wrong from the duty's
 side, and carries [CLAIM-723](../claims.d/CLAIM-723.md)'s form of wrong from foreclosure by timing to
 foreclosure by representation. On **part 2** it adds only that reproduction

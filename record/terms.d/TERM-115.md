@@ -83,8 +83,8 @@ The pasted synthesis on constraint architectures reads readiness as a resource-c
 
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
-<!-- inactive-ok-block: ADR-tmpsfjxu — Proposed; the work -->
-Extension. A48 §6 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md)) makes this term a
+<!-- inactive-ok-block: ADR-144 — Proposed; the work -->
+Extension. A48 §6 of the owner's manuscript ([ADR-144](../decisions.d/ADR-144.md)) makes this term a
 curve over the deadline, R_i(S, t), and says organizations "need not admit a
 universal ranking" without saying when one exists. Since R_i(S, ·) is the
 distribution function of the response time, two organizations are ranked the
@@ -95,5 +95,5 @@ ready is fixed only by the deadline. The condition is the assistant's
 
 ## Note of 2026-11-23: indexed by query and budget, from "Explain First Contact RL"
 
-<!-- inactive-ok-block: CLAIM-tmp2oloi CLAIM-tmp11j0f CLAIM-tmp62ldm — Proposed, filed from A50 of the exchange "Explain First Contact RL" on 2026-11-23 -->
-A50 §1 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) writes R_S(q; H, B), the probability that "an acceptable answer to q is realized by H within budget B" under the organization's actual policy, and calls it "a demand-relative extension" of this term: the contingency becomes a practical query, and a budget is added ([CLAIM-tmp2oloi](../claims.d/CLAIM-tmp2oloi.md)). Its §8 takes the superlevel set 𝓔(S) = {(q, H, B): R_S(q; H, B) ≥ 1 − η_q} as the organization's answer frontier, beside the inquiry frontier of [TERM-092](TERM-092.md) ([CLAIM-tmp11j0f](../claims.d/CLAIM-tmp11j0f.md)). The assistant's analysis of A50's interrogation game ([CLAIM-tmp62ldm](../claims.d/CLAIM-tmp62ldm.md)) finds that its strategic content is this term's setting, preparation chosen before the contingency is known. The term is unchanged.
+<!-- inactive-ok-block: CLAIM-1012 CLAIM-1003 CLAIM-1032 — Proposed, filed from A50 of the exchange "Explain First Contact RL" on 2026-11-23 -->
+A50 §1 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) writes R_S(q; H, B), the probability that "an acceptable answer to q is realized by H within budget B" under the organization's actual policy, and calls it "a demand-relative extension" of this term: the contingency becomes a practical query, and a budget is added ([CLAIM-1012](../claims.d/CLAIM-1012.md)). Its §8 takes the superlevel set 𝓔(S) = {(q, H, B): R_S(q; H, B) ≥ 1 − η_q} as the organization's answer frontier, beside the inquiry frontier of [TERM-092](TERM-092.md) ([CLAIM-1003](../claims.d/CLAIM-1003.md)). The assistant's analysis of A50's interrogation game ([CLAIM-1032](../claims.d/CLAIM-1032.md)) finds that its strategic content is this term's setting, preparation chosen before the contingency is known. The term is unchanged.

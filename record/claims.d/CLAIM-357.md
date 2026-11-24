@@ -74,7 +74,7 @@ history:
 - version: 9
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    Joins the work governance-of-possibility (ADR-144) at its
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §10.2. No other change.
@@ -337,6 +337,6 @@ differ: technological development or open reconsideration of priorities;
 better incentives, information or enforcement; improvement without any
 violation. A's gloss of the third case is looser than the claim, which
 compares the actual update's worst residual with the best achievable
-(minimax regret), not performance under an objective. [CLAIM-tmpx9nrj](CLAIM-tmpx9nrj.md)
+(minimax regret), not performance under an objective. [CLAIM-1193](CLAIM-1193.md)
 carries the split between possibility and realization from one update to
 a distribution over histories. No status change.

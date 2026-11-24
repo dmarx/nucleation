@@ -50,7 +50,7 @@ history:
   note: >-
     Note of 2026-11-23 added, from the lead run of that date: a
     projection perturbation bound for the compressed diffusion-wavelet
-    chain, filed as CLAIM-tmpdsu37. The claim is unchanged.
+    chain, filed as CLAIM-1083. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -162,7 +162,7 @@ informally and not stated. The claim is unchanged.
 This claim's core is Davis–Kahan for one perturbation. The diffusion-wavelet
 chain of Coifman and Maggioni ([NOTE-984](../notes.d/NOTE-984.md), [THEORY-758](../theory.d/THEORY-758.md)) truncates, compresses
 and squares level after level, so its perturbations compound, and [NOTE-984](../notes.d/NOTE-984.md)
-asked what that does to the subspace a level keeps. [CLAIM-tmpdsu37](CLAIM-tmpdsu37.md) answers
+asked what that does to the subspace a level keeps. [CLAIM-1083](CLAIM-1083.md) answers
 with a proof, checked numerically in scratch/studies/lead-192. If the
 truncation at level j leaves a column residual d_j and the chain's operator
 has drifted f_j from the true power T^{2^j}, the kept subspace is within

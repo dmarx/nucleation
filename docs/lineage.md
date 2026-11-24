@@ -2,7 +2,7 @@
 
 # Lines of work
 
-93 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+94 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -162,6 +162,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - alongside: [LIT-660](../record/literature.d/LIT-660.md) — Mode Connectivity Beyond Classifiers: Evidence from Generative and Contrastive Models *(Proposed)*
 - alongside: [LIT-675](../record/literature.d/LIT-675.md) — TIES-Merging: Resolving Interference When Merging Models *(Active)*
 - alongside: [LIT-681](../record/literature.d/LIT-681.md) — Optimizing Mode Connectivity for Class Incremental Learning *(Active)*
+
+### From Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse
+
+- [LIT-3172](../record/literature.d/LIT-3172.md) — Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse *(Active)*
+  - [LIT-2861](../record/literature.d/LIT-2861.md) — A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning *(Active)*
 
 ### From Algebraic Geometry and Statistical Learning Theory
 
@@ -745,6 +750,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-242](../record/literature.d/LIT-242.md) — On the Stepwise Nature of Self-Supervised Learning *(Active)*
   - [LIT-855](../record/literature.d/LIT-855.md) — Closed-Form Training Dynamics Reveal Learned Features and Linear Structure in Word2Vec-like Models *(Active)*
 
+### From Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse
+
+- [LIT-3172](../record/literature.d/LIT-3172.md) — Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse *(Active)*
+  - [LIT-2861](../record/literature.d/LIT-2861.md) — A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning *(Active)*
+
 ### From Algebraic Geometry and Statistical Learning Theory
 
 - [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Unavailable)*
@@ -1219,6 +1229,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-242](../record/literature.d/LIT-242.md) — On the Stepwise Nature of Self-Supervised Learning *(Active)*
   - [LIT-855](../record/literature.d/LIT-855.md) — Closed-Form Training Dynamics Reveal Learned Features and Linear Structure in Word2Vec-like Models *(Active)*
+
+### From Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse
+
+- [LIT-3172](../record/literature.d/LIT-3172.md) — Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse *(Active)*
+  - [LIT-2861](../record/literature.d/LIT-2861.md) — A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning *(Active)*
 
 ### From Understanding image representations by measuring their equivariance and equivalence
 
