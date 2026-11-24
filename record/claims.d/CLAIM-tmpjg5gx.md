@@ -131,8 +131,8 @@ state exists at any baseline the reasons' loss leaves.
   maintenance rule is supplied by the modeler. It demonstrates a candidate
   stabilization mechanism." That leaves [QUESTION-128](../questions.d/QUESTION-128.md) where it was.
 - Not that reliance is the only stabilizer. A22 §16 lists seven
-  mechanisms that can produce the same compliance (CLAIM-tmpersgx's note of
-  2026-11-24; first filed in CLAIM-tmp1nubb, now superseded).
+  mechanisms that can produce the same compliance ([CLAIM-tmpersgx](CLAIM-tmpersgx.md)'s note of
+  2026-11-24; first filed in [CLAIM-tmp1nubb](CLAIM-tmp1nubb.md), now superseded).
 
 ## Relation to the record
 

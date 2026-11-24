@@ -311,7 +311,7 @@ this "The strongest existing foundation", and §8 applies it: "Formation
 might initially be almost costless", while revision later requires
 "rebuilding capabilities, modifying interfaces, redistributing authority",
 so F(C) ≠ R(C → C′), and A30 §8 asks for the revision cost to be directed
-(corrected 2026-11-24: TERM-116 defines relational profiles, not a revision
+(corrected 2026-11-24: [TERM-116](../terms.d/TERM-116.md) defines relational profiles, not a revision
 cost, and no entry defines R(C → C′)). The
 exchange supports and applies the claim; it adds nothing to it. What the
 stored-work model lacks for contracts is filed as [CLAIM-tmpsf9hp](CLAIM-tmpsf9hp.md), under

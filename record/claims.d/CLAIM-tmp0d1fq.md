@@ -73,7 +73,7 @@ to. The owner asks that the account of contracts make room for it.
   ordinarily constitute a contract between the plant and the sun"), and
   the owner's route ends in a contract only where the dependence comes to
   govern how the parties respond to its failure. Where that line falls is
-  CLAIM-tmpersgx's, with its six probes (it supersedes CLAIM-tmp1nubb).
+  [CLAIM-tmpersgx](CLAIM-tmpersgx.md)'s, with its six probes (it supersedes [CLAIM-tmp1nubb](CLAIM-tmp1nubb.md)).
 - Not that an implicit contract binds anyone morally. That expectation and
   reliance do not by themselves make anything owed is [CLAIM-tmp0i6c0](CLAIM-tmp0i6c0.md), on
   [CLAIM-738](CLAIM-738.md).

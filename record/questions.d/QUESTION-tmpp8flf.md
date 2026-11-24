@@ -15,9 +15,9 @@ summary: >-
   personnel changes and substitution of implementation" among Article 2's
   topics and states no thesis, and no entry holds one. The question's
   second half is the assistant's candidate answer, the converse of the
-  fifth condition proposed on CLAIM-tmp7hqtl: replace the processes, keep
+  fifth condition proposed on [CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md): replace the processes, keep
   the terms, and see whether the relation's responses to deviation
-  survive. CLAIM-tmpersgx's substitute-provider probe is the nearest held
+  survive. [CLAIM-tmpersgx](../claims.d/CLAIM-tmpersgx.md)'s substitute-provider probe is the nearest held
   test. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
@@ -27,10 +27,10 @@ summary: >-
 
 ## The gap
 
-An organizational contract (TERM-tmplpplx) is a relation among processes.
+An organizational contract ([TERM-tmplpplx](../terms.d/TERM-tmplpplx.md)) is a relation among processes.
 Two of the record's tests tell it apart from a mere regularity:
 
-- CLAIM-tmp7hqtl's four marks, all necessary;
+- [CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md)'s four marks, all necessary;
 - the assistant's proposed fifth condition there: change the terms and
   keep the processes, and see whether behaviour follows the terms.
 
@@ -41,7 +41,7 @@ implementation change. A49 names the question and gives no answer.
 
 The converse of the fifth condition: replace the processes and keep the
 terms, then check whether the relation's responses to deviation survive.
-CLAIM-tmpersgx's substitute-provider probe is the nearest held test. It
+[CLAIM-tmpersgx](../claims.d/CLAIM-tmpersgx.md)'s substitute-provider probe is the nearest held test. It
 asks whether reliance concerns the function or its provider, not whether
 the contract survives the provider's replacement.
 
