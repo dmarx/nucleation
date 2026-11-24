@@ -28,9 +28,9 @@ summary: >-
   giving them direct authority to effect change within the institution
   (e.g. effective representative governance vs. captured)". This term now
   names that structural situation. Institutional sociopathy itself is
-  TERM-tmp72sq3, and the owner's distinction is CLAIM-tmpsh3og.
+  [TERM-tmp72sq3](TERM-tmp72sq3.md), and the owner's distinction is [CLAIM-tmpsh3og](../claims.d/CLAIM-tmpsh3og.md).
 ---
-<!-- inactive-ok-file: TERM-tmp72sq3 CLAIM-tmpsh3og CLAIM-tmptrn75 TERM-064 TERM-124 — Proposed or new; the corrected term, the owner's claim, the claim this term came from, and its neighbours -->
+<!-- inactive-ok-file: TERM-tmp72sq3 CLAIM-tmpsh3og TERM-124 — Proposed or new; the corrected term, the owner's claim, the claim this term came from, and its neighbours -->
 
 # TERM-tmp383al: asymmetric legibility, of an institution and those it affects: the institution makes their circumstances legible to itself, recognizing and predicting their needs and vulnerabilities, while they hold no direct authority over what it does; a structural condition that makes institutional sociopathy possible and does not constitute it
 
@@ -39,7 +39,7 @@ summary: >-
 Two conditions together:
 
 - **Legibility to the institution.** It models those it affects well: their
-  needs, vulnerabilities and likely responses (legibility in TERM-064's
+  needs, vulnerabilities and likely responses (legibility in [TERM-064](TERM-064.md)'s
   sense).
 - **No direct authority for them.** They cannot themselves change what it
   does.
@@ -52,7 +52,7 @@ authority to effect change within the institution (e.g. effective
 representative governance vs. captured)". Whether their claims carry weight
 is a separate question from whether they hold the controls. The vice is the
 claims carrying no weight by any route: institutional sociopathy,
-TERM-tmp72sq3.
+[TERM-tmp72sq3](TERM-tmp72sq3.md).
 
 Asymmetric legibility is the condition under which that vice can arise
 unseen. The institution can predict the harm, and those harmed cannot act
@@ -61,6 +61,6 @@ unless some route gives their claims weight.
 
 ## Not to be confused with
 
-- Domination (TERM-124), which is defined against answerability to the
+- Domination ([TERM-124](TERM-124.md)), which is defined against answerability to the
   party under a declared standard, not against the party's direct control.
-- Institutional sociopathy (TERM-tmp72sq3).
+- Institutional sociopathy ([TERM-tmp72sq3](TERM-tmp72sq3.md)).

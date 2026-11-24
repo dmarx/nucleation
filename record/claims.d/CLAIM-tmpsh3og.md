@@ -32,12 +32,12 @@ summary: >-
   sociopathy to arise, but an institution can still respect the standing
   and claims of its constituents without giving them direct authority to
   effect change within the institution (e.g. effective representative
-  governance vs. captured)". It objects to CLAIM-tmptrn75 (A46), whose
+  governance vs. captured)". It objects to [CLAIM-tmptrn75](CLAIM-tmptrn75.md) (A46), whose
   "their justified claims gain no authority over what it does" runs
   direct authority and answerability together. The term is split into
-  TERM-tmp383al (the condition) and TERM-tmp72sq3 (the vice).
+  [TERM-tmp383al](../terms.d/TERM-tmp383al.md) (the condition) and [TERM-tmp72sq3](../terms.d/TERM-tmp72sq3.md) (the vice).
 ---
-<!-- inactive-ok-file: CLAIM-tmptrn75 TERM-tmp383al TERM-tmp72sq3 CLAIM-624 TERM-124 TERM-066 — Proposed or new; the claim objected to and the terms and claims the owner's distinction uses -->
+<!-- inactive-ok-file: CLAIM-tmptrn75 TERM-tmp383al TERM-tmp72sq3 TERM-124 — Proposed or new; the claim objected to and the terms and claims the owner's distinction uses -->
 
 # CLAIM-tmpsh3og: Lacking direct authority over an institution is not lacking standing with it: an institution can respect the standing and claims of those it affects without giving them authority to change what it does, as effective representative governance does, so legibility without direct authority is a condition for institutional sociopathy and not the thing, which is its claims carrying no weight by any route, as when representation is captured
 
@@ -59,19 +59,19 @@ Three things are distinguished:
 
 ## What it corrects
 
-CLAIM-tmptrn75 (A46) puts the profile the word sociopathy points at as
+[CLAIM-tmptrn75](CLAIM-tmptrn75.md) (A46) puts the profile the word sociopathy points at as
 legibility used for the institution's own objective "while their justified
 claims gain no authority over what it does". Read as direct authority, that
 describes every well-run representative institution, which is the owner's
 counterexample. Read as effective weight, it is the vice. The assistant's
 first term followed the first reading; it is now asymmetric legibility
-(TERM-tmp383al), the condition, and the vice is TERM-tmp72sq3.
+([TERM-tmp383al](../terms.d/TERM-tmp383al.md)), the condition, and the vice is [TERM-tmp72sq3](../terms.d/TERM-tmp72sq3.md).
 
 ## The pair
 
 The owner's contrast, effective against captured representative governance,
 is the separating case: the two can agree on asymmetric legibility and on
 the constituents' lack of direct authority, and differ only in whether the
-representing processes carry the constituents' claims. TERM-124 already
+representing processes carry the constituents' claims. [TERM-124](../terms.d/TERM-124.md) already
 defines domination against answerability to a party, not against the
 party's control.

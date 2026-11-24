@@ -25,10 +25,10 @@
   and toy models whose parameters are misread ([CLAIM-tmpyxemn](record/claims.d/CLAIM-tmpyxemn.md)).
 
 - At the owner's correction, institutional sociopathy split in two:
-  asymmetric legibility (TERM-tmp383al), the structural condition, and
-  institutional sociopathy (TERM-tmp72sq3), claims legible and carrying no
+  asymmetric legibility ([TERM-tmp383al](record/terms.d/TERM-tmp383al.md)), the structural condition, and
+  institutional sociopathy ([TERM-tmp72sq3](record/terms.d/TERM-tmp72sq3.md)), claims legible and carrying no
   weight by any route, direct or representative; the owner's distinction
-  is CLAIM-tmpsh3og.
+  is [CLAIM-tmpsh3og](record/claims.d/CLAIM-tmpsh3og.md).
 
 ### Changed
 
