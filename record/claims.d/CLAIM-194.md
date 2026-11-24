@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmprrjrd
 title: 'A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -43,6 +43,12 @@ history:
   date: '2026-11-22'
   note: >-
     A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
+- version: 7
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 1 §2 (ADR-tmpenzcn). No change of
+    title or status.
 role: counter
 warrant: interpretive
 tags:
@@ -58,6 +64,8 @@ grounds:
 - THEORY-073
 - THEORY-066
 - THEORY-1119
+works:
+- governance-of-becoming
 summary: >-
   A counter to the block criterion and to the agency test's first
   condition, found by two separate reviews of the unlinked THEORYs in the
@@ -214,3 +222,20 @@ A parallel, not evidence for the claim's argument; no edge.
   change over a transition.
 
 No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A42 §7, a miscitation
+
+<!-- inactive-ok-file: CLAIM-tmpp91oy — Proposed; filed from A42 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+
+A42 §7 cites this claim as distinguishing "a boundary produced and
+maintained by an organization from a boundary merely identified or imposed
+by an observer". That misreads it. The claim is that a gap or coupling
+criterion cannot tell a boundary a system produces from one imposed on it
+by an outside coupling, a beam between two pendulums; no observer is
+involved, and the claim says a criterion fails, not that it draws the
+distinction. What A42 builds on, "A meaningful organizational boundary may
+involve the capacity to regulate exchange across it, including
+informational exchange", is [THEORY-1119](../theory.d/THEORY-1119.md)'s interactional asymmetry, which
+this claim's note of 2026-10-21 names; the informational extension is A42's
+own and is filed in [CLAIM-tmpp91oy](CLAIM-tmpp91oy.md). Bearing: miscitation; the claim is
+unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

@@ -156,3 +156,19 @@ Four readings bear on the question; each THEORY carries bears_on to it. Wenar 20
 <!-- inactive-ok-file: CASE-336 CLAIM-908 CLAIM-909 CLAIM-913 CLAIM-911 CLAIM-912 ARG-203 — new, filed for LEAD-033 -->
 
 [LEAD-033](../leads.d/LEAD-033.md) wrote out A102 §12's three matched constructions, and the one [QUESTION-481](QUESTION-481.md) asks for, on one stipulated courier platform ([CASE-336](../cases.d/CASE-336.md), C1 to C4), and applied the test. As stated, each is explained by reasonable rejection on personal reasons of protection, against undetectable error, self-serving review, engineered dependence and unilateral change, with no principle of who holds a power imported ([CLAIM-908](../claims.d/CLAIM-908.md), argued by [ARG-203](../arguments.d/ARG-203.md)). So the constructions as stated support the supplement answer, as A106 §20 expected; "importing a principle of standing" was read as fixing who holds a normative power, not as presupposing moral standing, which every theory does. They do not discriminate, because each explanation runs through what a holder might do with the power. Two variants that stipulate those reasons away (C2*, a decider known to be error-free; C4*, a sole reviser known to amend as the subjects would) do discriminate, and the verdict there turns on whether a reason to hold or share a power, apart from its use, is an input the test admits ([CLAIM-909](../claims.d/CLAIM-909.md)). Three readings are filed as alternatives for the owner: (a) no residual wrong, supplement only ([CLAIM-913](../claims.d/CLAIM-913.md)); (b) a residual wrong the test explains by a personal reason of status, supplement at a cost to its reductive ambition, the assistant's lean ([CLAIM-911](../claims.d/CLAIM-911.md)); (c) a residual wrong the test reaches only by importing a principle of standing, the "more than a supplement" answer in Wenar's form ([CLAIM-912](../claims.d/CLAIM-912.md)). No status changes.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', U14 and A16
+
+A contrast, not evidence. The owner's U14 proposes contracts between
+processes that "operationalize standing" by a prioritization structure,
+while doubting that the processes have "moral duties to each other
+precisely" ([CLAIM-tmpkvzcn](../claims.d/CLAIM-tmpkvzcn.md), [CLAIM-tmpe6yfm](../claims.d/CLAIM-tmpe6yfm.md)). Those contracts are not the
+contractualist's: they are maintained relations settling contention, not
+principles no one could reasonably reject, and A16 §16 keeps "operational
+normativity" apart from moral normativity. They bear on this question only
+by giving the record an operational sense of standing ([TERM-tmpgiy6r](../terms.d/TERM-tmpgiy6r.md))
+that presupposes no principle of standing, which [LEAD-033](../leads.d/LEAD-033.md)'s constructions
+could use to state what a power's holder can do without saying who ought
+to hold it. Bearing: a contrast; no edge. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+<!-- inactive-ok-file: CLAIM-tmpkvzcn CLAIM-tmpe6yfm TERM-tmpgiy6r — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->

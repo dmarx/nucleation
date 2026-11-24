@@ -20,6 +20,8 @@ date: '2026-11-23'
 line:
 - learning-and-inquiry
 - realizability
+works:
+- governance-of-becoming
 uses:
 - TERM-092
 complements:

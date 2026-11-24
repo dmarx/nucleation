@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjo2zr
 title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
-version: 14
+version: 15
 history:
 - version: 2
   date: '2026-10-21'
@@ -94,6 +94,12 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §13.5. No other change.
+- version: 15
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 6 abstract, §4 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -157,6 +163,7 @@ bears_on:
 - QUESTION-071
 works:
 - governance-of-possibility
+- governance-of-becoming
 ---
 <!-- inactive-ok-file: CASE-401 CLAIM-1000 CLAIM-1202 CLAIM-1021 — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
 <!-- inactive-ok-file: LIT-2453 — Unfetched; filed from the same exchange -->
@@ -585,3 +592,32 @@ No status changes.
 "The two-institution version has not been derived" (What it does not say) no longer holds for [CASE-092](../cases.d/CASE-092.md)'s model as [LEAD-090](../leads.d/LEAD-090.md) built it. [LEAD-015](../leads.d/LEAD-015.md)'s build, [CASE-401](../cases.d/CASE-401.md), couples two such institutions, an evaluator and the party it evaluates, through the party's hold on the evaluator's evidence (θ) and resources (ω) and the evaluator's hold on the party's standing (ψ) and evidence (χ). With each institution stable alone, the pair leaves symmetry exactly when (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, Δ_i being each institution's own margin ([CLAIM-1000](CLAIM-1000.md)).
 
 For this claim's second defeat condition, the showing that the loop between the institutions "adds nothing to the two loops within them": in this model it adds something. [CLAIM-1202](CLAIM-1202.md) sets out four cases: capture with no loop inside either institution; an evaluator in Regime B whose authority stays balanced while its reading is captured, which is "formal independence of the evaluator's procedure does not make its evaluation independent" in the model; capture through resources with the evidence independent; and no capture once the return channel is cut. Under a second reading of resources, as capacity ([CLAIM-1021](CLAIM-1021.md)), the resource channel drops from the linear condition but captures one side below it. All three are Proposed, and demonstrated only for the model. Whether the third part's warrant moves is the owner's call. The claim is unchanged.
+
+## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", U6/A7
+
+<!-- inactive-ok-file: CLAIM-tmpp0ufw ARG-tmp2kh2e — Proposed; filed from or read against the exchange of 2026-11-24 -->
+
+At U6 the owner asked to "relate this to Nucleation's account of reflexive
+control", after earlier turns on memes as nucleation sites and as
+characters of perspectives. A7, reading the repository, opens with this
+claim, quoting A20 §9's sentence from the claim's body ("Control over an
+organization need not consist in issuing its decisions...") as the claim's
+own; it is A20's wording, which the claim quotes. A7 reads the two routes
+correctly, and [CLAIM-703](CLAIM-703.md) as a third.
+
+What A7 adds is an influence on how the target's organization forms,
+carried by a transmissible expression and then maintained by the target,
+filed as [CLAIM-tmpp0ufw](CLAIM-tmpp0ufw.md) (A's, Proposed). This claim's three routes act on
+a decision's conditions; that one predicts effects that outlast the source
+and reach circumstances never presented. [ARG-tmp2kh2e](../arguments.d/ARG-tmp2kh2e.md) finds [CASE-191](../cases.d/CASE-191.md) and
+[CASE-123](../cases.d/CASE-123.md) carry its possibility half and nothing built carries its
+cultural carrier. A7 §7's "governance character", the relations deciding
+whose perspective becomes effective, is a label for the governing
+organization among regimes that [CLAIM-025](CLAIM-025.md) already separates.
+
+One miscitation: A7 §4 cites [CLAIM-340](CLAIM-340.md) for "reinforcement is not
+sufficient evidence of capture. A well-supported interpretation can
+legitimately acquire authority through similar dynamics." [CLAIM-340](CLAIM-340.md) is
+about whether scoring predictions committed before the evidence removes
+capture, and says nothing of the kind; the point is [TERM-066](../terms.d/TERM-066.md)'s clause
+"without a gain in fidelity". The claim is unchanged.

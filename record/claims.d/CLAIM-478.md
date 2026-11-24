@@ -632,3 +632,16 @@ organization below it, as Yang and Abanin's conserved sectors are
 fundamental one, if any is, is maximally persistent and realized by
 nothing. That bears on [CLAIM-477](CLAIM-477.md), not on this claim's defeater (a).
 No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
+
+A32 §7 applies this claim to contracts: with ẋ = f(x, C, u) for ordinary
+interaction and Ċ = εg(C, x, u) for the contractual organization, "For
+sufficiently small ε over the relevant interaction horizon, the contract
+behaves approximately as a fixed constraint", while over longer histories
+it forms and changes through ordinary interaction: "The contract becomes
+an effective boundary condition." It adds that "there is no need to
+assume that contractual change is always slow. A breach, emergency,
+objection or successful renegotiation could produce rapid
+reorganization", which is a case outside this claim's window, where the
+rate separation fails. An application; no change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

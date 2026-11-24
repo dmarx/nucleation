@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpnhesz
 status: Proposed
 title: 'Answerability is directed and role-specific: an actor owes an answer to a party with a claim concerning the matter, on one of several grounds that need not presuppose the actor''s legitimate authority, among them interference with a protected interest, entrusted authority, collective rule, consequential dependence and control over recourse; the party owed, the recipient of reasons, the forum that judges and the party that remedies can differ; and what is owed is indexed to the claim, not to how much the party is affected'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-17'
@@ -26,6 +26,12 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §13.4. No other change.
+- version: 5
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 8 §4 (ADR-tmpenzcn). No change of
+    title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -71,6 +77,7 @@ summary: >-
   [CLAIM-749](CLAIM-749.md). The wording is A's; adopting it is the owner's call.
 works:
 - governance-of-possibility
+- governance-of-becoming
 ---
 <!-- inactive-ok-file: CLAIM-624 CLAIM-682 TERM-083 CASE-229 — Proposed; the record's nearest entries, cited with their standing -->
 

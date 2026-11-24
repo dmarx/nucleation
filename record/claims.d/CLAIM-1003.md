@@ -20,6 +20,8 @@ date: '2026-11-23'
 line:
 - readiness
 - learning-and-inquiry
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-475
 complements:

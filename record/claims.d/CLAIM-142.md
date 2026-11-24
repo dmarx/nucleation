@@ -202,3 +202,20 @@ Rechecked after [CLAIM-151](CLAIM-151.md)'s version 5 (2026-10-30), which only d
 the competent-uptake standard that the realist half of this claim needs
 against [CLAIM-206](CLAIM-206.md), still rests on a premise not held, and [CLAIM-217](CLAIM-217.md) held
 is still what would promote this claim.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A5 §4 and A6 §9
+
+A5 §4 proposes memes as "a family of probes", Φ_M(P) = (R_P(m₁), …,
+R_P(m_n)), whose response profile "could provide an empirical
+approximation to a perspectival character, provided it is invariant under
+appropriate changes of realization", and ties it to "the inquiry's
+Yoneda-inspired relational characterization" without citing this claim.
+A6 §9 does the same for its agnotological profile ([TERM-tmp9mag8](../terms.d/TERM-tmp9mag8.md)). This
+claim bounds both: agreement on a restricted probe family does not show
+structure preserved, and only independently justified probes evaluated
+on held-out cases count. [LEAD-tmpqucxc](../leads.d/LEAD-tmpqucxc.md)'s design takes that condition in.
+Bearing: a limit on A's proposal, uncited by A; no change. The wording of
+this note is the assistant's (Claude, in this session), reporting A's
+(ChatGPT's) text; adopting what it reports is the owner's call.
+
+<!-- inactive-ok-file: TERM-tmp9mag8 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

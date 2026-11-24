@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpj6tb1
 title: 'An arrangement can produce the dependence through which it exploits: by reliably supplying what a party then ceases to supply for itself, it creates a reliance on the provider that the party did not have before, and the provider can use that reliance to set terms the party could earlier have refused'
-version: 4
+version: 6
 history:
 - version: 2
   date: '2026-11-15'
@@ -30,6 +30,20 @@ history:
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §6 and §8 use its proposition as a step. No
     other change.
+- version: 5
+  date: '2026-11-24'
+  note: >-
+    A dated note added: A22 §§7 and 9 of the exchange "Memes, Contracts,
+    and Systemic Normativity" cite the claim for the first of two
+    directions of dependency exploitation and relay hold-up with a
+    bargaining model; Klein, Crawford and Alchian (1978) registered as
+    LIT-tmpgcwyt. No change of status or title.
+- version: 6
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 9 abstract, §2 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,6 +68,7 @@ line:
 - transient-support
 works:
 - capability-restraint-relational-freedom
+- governance-of-becoming
 rests_on:
 - CLAIM-603
 complements:
@@ -145,3 +160,38 @@ It is a second route to the dependence this claim is about. Here the provider's 
 A49's provenance table pairs this claim with [CLAIM-669](CLAIM-669.md) in a row whose literature is Seamster and Charron-Chénier ([LIT-2525](../literature.d/LIT-2525.md)). Only [CLAIM-669](CLAIM-669.md) cites that work, through its reading of it, and this claim's summary says why: "Seamster and Charron-Chénier show the second mechanism, not this one." A49's body uses the work correctly, for access "extended on terms that reproduce or deepen vulnerability", which is [CLAIM-669](CLAIM-669.md)'s mechanism.
 
 No status changes.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A22
+
+<!-- inactive-ok-file: LIT-tmpgcwyt CLAIM-713 CLAIM-tmp2jhc1 LIT-2742 — Proposed, Deferred or Unfetched; the hold-up paper registered on 2026-11-24, the held claim on exploited commitment, the fallback claim filed with this, and Hart and Moore -->
+
+A22 §7 (ChatGPT, 2026-11-24) cites this claim correctly for the first of
+"two directions of dependency exploitation": "Provider exploits recipient
+... The recipient loses alternatives. The provider acquires leverage over
+the terms of supply", with "economic hold-up after relationship-specific
+investment" as its example. The second direction, the recipient exploiting
+the provider's commitment, it gives to [CLAIM-713](CLAIM-713.md).
+
+A22 §9 relays hold-up a second time, now with a source and a model.
+
+- **The source.** "Klein, Crawford and Alchian's 1978 work on appropriable
+  quasi-rents" is registered as [LIT-tmpgcwyt](../literature.d/LIT-tmpgcwyt.md) (Deferred, identifier checked
+  on Crossref). The note of 2026-11-17 above says no hold-up source was
+  held; Hart and Moore 1990 has since been registered ([LIT-2742](../literature.d/LIT-2742.md),
+  Unfetched), so that sentence is now out of date.
+- **The model.** Equal-weight Nash bargaining over joint value V with
+  outside options o_A and o_B gives u_B = o_B + (V − o_A − o_B)/2. As B's
+  relationship-specific investment lowers o_B, B's share falls by half of
+  each unit lost and A's rises by the same: with V = 20 and o_A = 4, B gets
+  10, 9 and 8 as o_B is 4, 2 and 0 (checked with `python3 -I`). A22's
+  caption keeps the verdict out of the model: "This establishes bargaining
+  vulnerability, not by itself exploitation or injustice."
+- **The point A draws.** "An arrangement can preserve the appearance of
+  fair negotiation while its historical development progressively changes
+  the conditions under which negotiations occur. The parties may continue
+  to consent to the terms. But what they can afford to refuse has changed."
+  That is this claim's conclusion, "terms the party could earlier have
+  refused", in the bargaining model's terms.
+
+The same computation, read the other way, is why an unexercised fallback
+keeps a party's terms: [CLAIM-tmp2jhc1](CLAIM-tmp2jhc1.md). The claim is unchanged.

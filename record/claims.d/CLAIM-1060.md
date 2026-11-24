@@ -21,6 +21,8 @@ date: '2026-11-23'
 line:
 - readiness
 - realizability
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-475
 - CLAIM-761

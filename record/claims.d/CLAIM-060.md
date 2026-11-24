@@ -15,6 +15,8 @@ tags:
 - ethics
 date: '2026-10-04'
 line: distributed-agency
+works:
+- governance-of-becoming
 summary: >-
   The owner's thread at U37 and U39: corporations trample human wellbeing
   though made of humans; and cancer, autoimmunity and ecosystem collapse

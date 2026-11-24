@@ -191,3 +191,41 @@ the owner's call, between two readings:
 
 The wording is the assistant's (Claude, in this session); choosing between
 the alternatives, and adopting either, is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A16 §14
+
+A16 §14 cites this claim ("asks who holds residual authority when
+circumstances arise that the existing contract does not cover") and
+carries it from contracts between persons to contracts between processes:
+"If contracts govern relationships among processes, what governs the
+contracts themselves?" It orders the governing objects (execution;
+coordination and arbitration of commitments; revision of those
+arrangements; "Distribution of authority over contract formation and
+revision"), notes that "A system might competently resolve ordinary
+disputes while being unable to revise the mechanism through which disputes
+are resolved", which it ties to [CLAIM-719](CLAIM-719.md), and concludes: "**The
+allocation of authority over unforeseen contingencies is a characteristic
+of the organization's constitution, not merely of its current behavior.**"
+Bearing: an extension of the claim's residual control to interprocess
+contracts, and a reading of it as part of an organization's character
+([CLAIM-tmpersgx](CLAIM-tmpersgx.md)). The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+<!-- inactive-ok-file: CLAIM-719 CLAIM-tmpersgx — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A48 §§7–8
+
+<!-- inactive-ok-file: LIT-tmpdaunm CLAIM-tmpa61rf — Deferred or Proposed; registered or filed from A48 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+
+A48 cites this claim for "Residual authority under incomplete contracts",
+rightly, and applies it to the corporation's non-shareholders through Blair
+and Stout's team production theory ([LIT-tmpdaunm](../literature.d/LIT-tmpdaunm.md), registered unread).
+Employees, suppliers, customers and communities make relationship-specific
+investments ("Firm-specific human capital", "Relationship-specific
+infrastructure", "Compatibility with accumulated work", "Place-specific
+economic opportunities") that "help constitute corporate capacity" and
+"also create vulnerability to subsequent changes in the relationship". It
+keeps the limit: "**Constitutive contribution does not automatically
+confer unrestricted governing authority, just as financial ownership does
+not automatically exhaust the grounds of legitimate standing.**" Bearing:
+an application of the claim to corporate governance, used in
+[CLAIM-tmpa61rf](CLAIM-tmpa61rf.md). The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

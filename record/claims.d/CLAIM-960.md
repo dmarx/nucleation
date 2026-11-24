@@ -33,6 +33,8 @@ tags:
 date: '2026-11-22'
 line:
 - dependence-and-domination
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-418
 grounds:

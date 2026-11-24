@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpmr1t8
 title: 'Learned local accommodation can reduce the amortized cost of recurrent arbitration: where a recurring conflict among an agent''s processes admits a stable accommodation, settling it among the processes can cost less over repeated encounters than escalating each instance to a higher-level process that mediates or overrides, though local negotiation and the relations it needs are not free'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-28'
@@ -38,6 +38,12 @@ history:
     accommodation nor escalation within the agent. The demand is granted
     in another organization." The question's first line is already this
     claim's, so no line is added (ADR-085). No other change.
+- version: 6
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 4 abstract, §5 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,6 +68,8 @@ tags:
 date: '2026-10-18'
 line:
 - will-organization
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-261
 grounds:
@@ -388,3 +396,15 @@ changes nothing here. The claim is still held by its ground [THEORY-070](../theo
 on a revealed-choice measure, not the accumulator parameter or conflict
 adaptation it names, and whether that suffices is left to the owner in
 [THEORY-070](../theory.d/THEORY-070.md)'s note of 2026-11-22.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
+
+A32 §8 reads flow and learned accommodation (with [CLAIM-162](CLAIM-162.md) and
+[CLAIM-1075](CLAIM-1075.md)) as cheap contractual invocation: "Flow may be enabled by a
+history of stored coordination work rather than merely an absence of
+control." It takes [CLAIM-364](CLAIM-364.md)'s objection with it, distinguishing
+"Fluency through accommodation" from "Fluency through suppression":
+"Both can make contract invocation cheap. Their counterfactual profiles
+differ when a novel, legitimate demand is introduced", and "contractual
+friction can be informative. Not every interruption should be amortized
+away." An application that keeps the held objection; no change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

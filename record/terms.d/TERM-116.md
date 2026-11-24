@@ -165,3 +165,18 @@ example breaking it at one threshold, ε = 0.15, was found.
 
 Adoption by the owner, or a claim of the record's own that names which
 profile it means.
+
+<!-- inactive-ok-file: CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A30
+
+A30 §8 applies the incoming and outgoing profiles to contracts: "revision
+cost is a directed relationship between organizational states", R(C, C′)
+≠ R(C′, C), and illustrates a contractual ecology as a costed transition
+structure (independent, implicit contract, entrenched, renegotiated) in
+which "A relationship may be easy to enter, inexpensive to maintain and
+extremely expensive to leave." A30 §9 indexes the profile by party,
+R_i(C, C′), so the same transition can cost one party 1 and the other 8
+(illustrative). The party index is an extension the term does not carry:
+a configuration's profiles here are one organization's. An application,
+with that extension; [CLAIM-tmpsf9hp](../claims.d/CLAIM-tmpsf9hp.md). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

@@ -87,3 +87,23 @@ consequential action. The claim is about where the circle opens.
 ## Standing
 
 Proposed, the assistant's.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A18 §3
+
+A18 §3 calls its "Contract-dependent inquiry frontier" widget "a simple
+contractual realization of" this claim (cited by its code on main):
+"standing authorization changes the unit of authorization from an
+individual question to a domain of inquiry." With formulation 3 hours,
+per-question authorization 4 and investigation 5 against a deadline of
+10, individual authorization takes 12 and misses, a standing grant takes
+8 and meets it (checked). It generalizes the claim's point to any term of
+the processes' contracts: writing the joint relation of [TERM-160](../terms.d/TERM-160.md) as
+indexed by the contractual ecology C, "changing the contractual ecology
+can change the inquiry frontier without changing the intrinsic
+capabilities of any constituent process." A18 states the widget's own
+limit: "Its initial establishment and continuing maintenance have costs
+not included in this per-inquiry calculation." Bearing: a restatement and
+a generalization from authorization to contract terms. The claim is
+unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+<!-- inactive-ok-file: TERM-160 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->

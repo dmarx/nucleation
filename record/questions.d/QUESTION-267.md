@@ -121,3 +121,21 @@ analogy; it does not yet show that the maintaining link, and not the
 proxy's content, is what keeps either in place, which is [QUESTION-045](QUESTION-045.md)'s
 test.
 
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A44 §6
+
+<!-- inactive-ok-file: CLAIM-tmpvmd97 LIT-tmpz8k08 — Proposed or Deferred; filed or registered from A44 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+
+A44 §6, on the owner's U28 ("the tyranny of metrics", Muller,
+[LIT-tmpz8k08](../literature.d/LIT-tmpz8k08.md), registered unread), names "**metric-mediated motivational
+capture**": "The organization's practical concerns become progressively
+reorganized around the conditions under which its metrics recruit
+authority." Its table maps appraisal, valence, frustration, action
+readiness, claimed precedence, granted authority and relief onto a
+KPI-governed organization, and it draws the parallel this question asks
+about from the other side: "successfully reducing an alarm signal is not
+necessarily equivalent to resolving the conditions that justified
+protective mobilization." Bearing: a restatement of the question's
+hypothesis by analogy, without the test the question asks for; it does not
+answer it. The governance side of A44 is filed as [CLAIM-tmpvmd97](../claims.d/CLAIM-tmpvmd97.md). The
+question stays open. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

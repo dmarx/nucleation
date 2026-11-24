@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbbfcj
 title: 'In an institution each of whose recognized violations is penalized, newly recognized ones included, whose discovery of requirements earns nothing, and whose remediation lags recognition, inquiry that only reveals requirements never raises its score when the hidden requirements do not otherwise come to light: on every path it adds only penalized violations and spent budget, so an institution acting on that score makes no inquiry'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-23'
@@ -18,6 +18,12 @@ history:
     these rulings; ADR-057): its ground CASE-396 went Active on a
     reproduced rerun; the coupling argument was rechecked and the path-by-
     path test passes.
+- version: 3
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 11 abstract, §7 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -38,6 +44,8 @@ date: '2026-11-23'
 line:
 - organizational-normativity
 - distributed-agency
+works:
+- governance-of-becoming
 grounds:
 - CASE-396
 corroborates:
@@ -108,3 +116,18 @@ penalized). It does not cover surfacing from outside at a cost, under
 which an institution can gain by finding a violation first; in
 [CASE-396](../cases.d/CASE-396.md) the optimum still made no inquiry at a cost of 3 and did at
 10. It says nothing of whether any institution is so scored.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A44 §10
+
+A44 §10 cites this claim, by the code it has on main, rightly, "under
+specified assumptions", though its paraphrase drops the condition that the
+hidden requirements do not otherwise come to light. It extends the pattern
+to other accountability measures: rewarding an absence of complaints
+invites making complaints hard to submit, rewarding resolved cases favours
+the easiest, rewarding successful audits discourages discriminating ones.
+And it qualifies the remedy: "rewarding discoveries can create incentives
+to manufacture or exaggerate them." [CASE-396](../cases.d/CASE-396.md)'s reward-for-discovery
+regime restores inquiry, but its institution cannot report a discovery it
+did not make, so it does not test that qualification. Bearing: an extension
+of the pattern, and a limit of the held study's design. The claim is
+unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

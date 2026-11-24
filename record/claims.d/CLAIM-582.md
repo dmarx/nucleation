@@ -201,3 +201,23 @@ often changes the dynamics. [CLAIM-1121](CLAIM-1121.md) rests on this claim and 
 the consequence for the compatibility complex of public demands. A pure
 hard constraint on fixed dynamics can only shrink the complex, so relief
 of the original demands needs a change of model. No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A11 and A13
+
+<!-- inactive-ok-file: LIT-tmpa3t7o — Deferred; registered from the exchange of 2026-11-24, unread -->
+
+The exchange's integrating principle comes in two wordings. A11 §18: "A
+constraint does not merely prevent something from occurring. By
+restricting possible activity, it can enable organization that would
+otherwise be unrealizable." A13 §II: "A constraint eliminates certain
+trajectories while making other trajectories more reliably realizable."
+Under this claim A13's wording holds as stated, since reliability is what
+an added constraint can improve. A11's "would otherwise be unrealizable" holds only
+where the constraint has changed the mechanism, and the exchange's own
+examples are of that kind: a heuristic frees resources a bounded agent
+spends elsewhere (A11 §9, "A heuristic makes some cognitive trajectories
+more realizable by making others less available"), and natural frequencies
+change the representation in which an inference is computed ("The
+representational conditions under which the inference becomes realizable
+have changed", A11 §9; [LIT-tmpa3t7o](../literature.d/LIT-tmpa3t7o.md)). Bearing: this claim qualifies the
+principle; no entry is filed for the principle. The claim is unchanged.

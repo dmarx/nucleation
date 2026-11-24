@@ -110,3 +110,34 @@ both answers ([CLAIM-1169](../claims.d/CLAIM-1169.md)); a monitor's effect on vi
 outlast the monitor ([CLAIM-1136](../claims.d/CLAIM-1136.md)); and remorse, if a corporation has
 it, would show only in a redesigned corporation's post-lift conduct when
 keeping the procedure no longer pays. The question stays open.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A46 §§5–7 and 13, a candidate answer and a misreading
+
+<!-- inactive-ok-file: CLAIM-tmptrn75 — Proposed or Open; filed from A46 of the exchange 'Memes, Contracts, and Systemic Normativity', and the held answers -->
+
+On the owner's U29, which put "institutional sociopathy" beside
+measurement naivety, greedy agency and enshittification, A46 cites this
+question and offers a functional definition that does without the clinical
+attribution: competence in pursuing its own objectives with a systematic
+failure "to give independently justified claims of affected parties
+appropriate practical authority". Its distinctive step is that the
+institution may understand those it harms very well: "It may involve the
+ability to understand others without allowing their interests to govern
+activity in the ways their standing warrants." That is filed as a
+candidate answer, [CLAIM-tmptrn75](../claims.d/CLAIM-tmptrn75.md); it locates the deficit after the harm is
+tracked, where [CLAIM-432](../claims.d/CLAIM-432.md) locates it in what the appraisals track.
+
+**A misreading.** A46 §14: "The record explicitly identifies the absence of
+an account of corporate remorse as an open problem." The question's first
+section said so on 2026-10-23, but the record has since filed [CLAIM-432](../claims.d/CLAIM-432.md),
+[CLAIM-431](../claims.d/CLAIM-431.md) (remorse cannot be told from prudence) and [CLAIM-1169](../claims.d/CLAIM-1169.md) (when a
+sanction-lift test separates them), recorded in this question's note of
+2026-11-23. A46 §7's remorse profile (recognition, attribution, corrective
+mobilization, restoration, self-formation, persistence, the changes "survive declining
+public attention and personnel turnover") restates [CLAIM-1169](../claims.d/CLAIM-1169.md)'s
+persistence criterion and adds restoration and attribution; its own test
+("A costly remedy undertaken solely to avoid reputational damage ... does
+not establish that the institution would respond appropriately when
+wrongdoing remains commercially advantageous") is [CLAIM-1169](../claims.d/CLAIM-1169.md)'s
+condition. A46 §13's perturbation profiles are [LEAD-tmp466iv](../leads.d/LEAD-tmp466iv.md), beside
+[LEAD-101](../leads.d/LEAD-101.md). The question stays open. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

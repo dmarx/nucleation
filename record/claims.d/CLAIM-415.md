@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp3gvbj
 title: 'A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity, and a judgement can shape a person who rejects it, because resisting it makes it consequential'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-22'
@@ -61,6 +61,12 @@ history:
     QUESTION-119's first line, distributed-agency, is already this
     claim's (ADR-085). Reported by the synthesis review of
     2026-11-11 (seventh round). No other change.
+- version: 7
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 7 §7 (ADR-tmpenzcn). No change of
+    title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -78,6 +84,8 @@ tags:
 date: '2026-10-22'
 line:
 - distributed-agency
+works:
+- governance-of-becoming
 complements:
 - CLAIM-355
 uses:
@@ -243,3 +251,64 @@ The third clause, that resisting a judgement makes it consequential, has
 no read result: it rests on Cooley's statement and the constructed
 [CASE-142](../cases.d/CASE-142.md). The one cited case of private change, Prentice and Miller's men
 ([LIT-1370](../literature.d/LIT-1370.md)), is unread, and the authors' 1998 cohort did not reproduce it.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A12 and A13
+
+<!-- inactive-ok-file: TERM-104 — Proposed; cited as the mechanism A12 proposes, not as settled -->
+
+A12 §12 offers affect as the mechanism of this claim's second clause:
+"External characterization need not acquire authority through belief
+alone. It can become consequential through its significance relative to
+belonging, shame, recognition, threat, pride, resentment or
+self-preservation." Of two people who both reject an attribution: "Their
+explicit beliefs are matched. Their affective organization is not." It
+cites this claim correctly. A13 §IX separates the steps: "Rejection does not
+necessarily dissolve affective significance. Affective significance does
+not necessarily determine granted authority. Granted authority does not
+necessarily establish legitimate authority." Bearing: a candidate
+mechanism, through [TERM-104](../terms.d/TERM-104.md)'s significance and [CLAIM-283](CLAIM-283.md)'s grant, and no
+evidence; the third clause's want of a read result stands. The claim is
+unchanged.
+
+## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", U7/A8 and A10 §8
+
+<!-- inactive-ok-file: CLAIM-tmp5tjtg CLAIM-425 CLAIM-426 CLAIM-332 LIT-1394 — Proposed, Open or Unfetched; filed from or read against the exchange of 2026-11-24 -->
+
+At U7 the owner asked to "apply this framework to probe the phrase 'I am
+whatever you say I am'". A8 found this claim and its neighbours ([LIT-1394](../literature.d/LIT-1394.md),
+[TERM-075](../terms.d/TERM-075.md), [CLAIM-425](CLAIM-425.md), [CLAIM-426](CLAIM-426.md), [CASE-142](../cases.d/CASE-142.md)) and dated the phrase correctly to
+the exchange of 2026-10-22. Most of A8 restates what is held: "believing an
+identity and being organized in relation to an identity" is this claim's
+second step; the imagined "you" as "a falsely unified audience" beside the
+"I" as "a falsely unified owner" is its first step with [CLAIM-355](CLAIM-355.md); the four
+orientations of A8 §10 are [CLAIM-425](CLAIM-425.md)'s.
+
+What is new:
+
+- **A formal version of the second step.** A8 §4 lets reversal of an
+  attribution act on responses and finds that conformity and opposition
+  "transform according to the sign representation": "Defiance and
+  submission can be structurally related forms of governability", Cooley's
+  "remoter conformity" in symmetry terms. The assistant's [CLAIM-tmpj4pw3](CLAIM-tmpj4pw3.md)
+  corrects A9's reading of it (the transformation type does not carry
+  sensitivity) and states the condition it needs (the attribution reversed
+  with its grounds held fixed). A8's proposed test is [LEAD-tmp0w114](../leads.d/LEAD-tmp0w114.md).
+- **Three ways a label is confirmed.** A10 §8 separates
+  "**Self-fulfillment:** I acquire characteristics that were initially
+  misattributed to me", "**Adversarial constitution:** I become organized
+  through my opposition to the characterization" and "**Interpretive
+  self-sealing:** Whatever I do is taken as confirmation, regardless of
+  whether my character changes", and notes "Only the first necessarily
+  involves realization of the attributed content", with [NOTE-1409](../notes.d/NOTE-1409.md)'s moral
+  alchemy for the third. [CASE-142](../cases.d/CASE-142.md)'s critic citing the anger as proof can be
+  the second or the third; which it is turns on whether the person became
+  hostile or was only read so, which A8 §5's caption also leaves "a
+  separate question". [CASE-141](../cases.d/CASE-141.md) shows the first and third together.
+- **The phrase as a resource for revision.** A8 §9: the phrase "could
+  subsequently provide a conceptual resource for recognizing and revising
+  that condition", generalized in [CLAIM-tmp5tjtg](CLAIM-tmp5tjtg.md) (A's, Proposed).
+
+A8 §7's "distributed reflexive influence without a unified controller" is
+this claim's false unity seen from the attributors' side, and [CLAIM-332](CLAIM-332.md)'s
+effect without collective intention; A8 itself reserves "control" for an
+agent with a control channel. The claim is unchanged.

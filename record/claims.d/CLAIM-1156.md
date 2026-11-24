@@ -20,6 +20,8 @@ date: '2026-11-23'
 line:
 - distributed-agency
 - learning-and-inquiry
+works:
+- governance-of-becoming
 uses:
 - TERM-165
 complements:
@@ -54,3 +56,21 @@ The record's dispositional address ([TERM-165](../terms.d/TERM-165.md)) is the m
 ## Standing
 
 Proposed, in A's voice. [CLAIM-1095](CLAIM-1095.md) objects to the formal step, not the thesis: compared directly, the post-state separates organizations no test could tell apart, so d_𝒬 is not observational as A64b intends; observing S′ through its later responses repairs it and keeps the separation the thesis needs.
+
+<!-- inactive-ok-file: CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A30 and A32
+
+A30 §7 asked for contractual invocation to be stateful, Invoke(q, C_t) →
+(a_t, C_{t+1}), and A32 §14 found the kernel here "almost precisely the
+extension to contractual invocation that we proposed in the previous
+turn". It adapts it as K_C(q) = Law(a, τ, κ, C′, S′ | do(q), C, S),
+making the invoked relationship C and the distribution of costs over the
+parties κ explicit, and keeps [CLAIM-1095](CLAIM-1095.md)'s qualification: compare
+"subsequent response distributions under further probes", not internal
+post-states. Its contrast of two relationships (a fulfilled request
+"Reinforces reciprocal coordination" in one and "Increases unilateral
+dependency" in the other; an objection "Improves contractual
+specification" or "Diminishes the objector's standing") is this claim's
+learning-versus-suppression contrast applied to a relationship. An
+extension, filed as [CLAIM-tmpsf9hp](CLAIM-tmpsf9hp.md), which rests on this claim. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

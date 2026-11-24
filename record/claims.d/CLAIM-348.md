@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp679hm
 title: 'No coarse-graining is normatively adequate in general because it preserves stability, prediction or aggregate performance: a description adequate for an institution''s performance can merge states its members'' claims must distinguish, so adequacy is fixed by the evaluative target, and the target cannot be justified solely by the description that preserves it'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -40,6 +40,12 @@ history:
     identity description meets as worded. It now asks for a criterion
     choosing a coarse-graining that merges some states, and names the
     identity as not defeating. Title unchanged.
+- version: 6
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 11 abstract (ADR-tmpenzcn). No change
+    of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -59,6 +65,8 @@ tags:
 date: '2026-10-18'
 line:
 - distributed-agency
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-350
 - CLAIM-152
@@ -307,3 +315,56 @@ seven models on UCI Adult is fairest under some meta-metric. "none of the
 identified profiles is inherently more problematic than another" (§5.1):
 the data cannot choose, and the choice must be justified by the
 conception of fairness, the evaluative target. Status unchanged.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A16
+
+A16 §11 gives a worked instance, "When a service indicator obscures a
+failure": 100 requests, ordinary ones at 100 ms, an objective of a mean
+latency at most 200 ms. With 5 slow requests at 1500 ms the mean is
+170 ms and the objective is met while one request in twenty waits fifteen
+times as long; "The service could technically satisfy its stated objective
+while systematically failing to provide adequate service to a minority of
+requests." A16 says it "directly models the fibre-occlusion problem in
+CLAIM-348 and [CLAIM-350](CLAIM-350.md)", which is right: the mean merges states a
+per-request requirement must distinguish. Checked with python3 -I: at
+1500 ms the objective holds up to 7 slow requests in 100 (mean 198 ms) and
+fails from 8. A16 adds that the failure is reflexively counter-normative
+([CLAIM-624](CLAIM-624.md)) only where there is "an obligation to recognize and correct
+the relevant failures"; "At the purely computational level" it is "a
+mismatch between the monitoring contract and the wider system
+requirements". Bearing: an illustration. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A34 §11
+
+A34 §11 gives a worked instance: "Two hypothetical services each receive
+10,000 requests from 100 equally active users. Both experience 100 failed
+requests." In Service A "Each user experiences one failure"; in Service B
+"One user experiences complete failure; all others succeed." Both show 99%
+availability. Checked with `python3 -I`: 100 requests per user, so A gives
+each user a 1% failure rate and B gives one user 100 failures of 100, and
+both 1 − 100/10,000 = 0.99. "Whether that difference matters depends on
+the requirements the service is supposed to satisfy." A34 calls this "a
+direct application of Nucleation's fibre-occlusion account", meaning this
+claim. Bearing: an illustration, cleaner than the claim's own because the
+coarse-graining is a single published metric. The claim is unchanged.
+The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A44 §§2 and 8, A46 §4 and A48 §4
+
+<!-- inactive-ok-file: LIT-tmp2v8ep CASE-tmp3so1p CLAIM-tmpa61rf — Deferred or Proposed; registered or filed from A44, A46 and A48 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+
+Three more applications in the same exchange. A44 §2 cites the claim
+rightly with [CLAIM-350](CLAIM-350.md) and [CASE-110](../cases.d/CASE-110.md) ("Management cannot establish that only
+total productivity matters merely by selecting a representation in which
+only total productivity exists"). A44 §8 offers Obermeyer et al.'s
+healthcare algorithm, which predicted expenditure as a proxy for need, as
+"almost an ideal empirical example", and draws a consequence the claim does
+not state: "**A metric can encode historical injustice and subsequently
+participate in its reproduction**", since the merged states differ in
+past allocation and the metric feeds future allocation. The study is
+registered unread ([LIT-tmp2v8ep](../literature.d/LIT-tmp2v8ep.md)) and is not evidence here until read. A46
+§4's retention KPI merging satisfaction with lock-in is filed as
+[CASE-tmp3so1p](../cases.d/CASE-tmp3so1p.md). A48 §4 applies the claim to shareholder value: decisions with
+V_S(x) = V_S(x′) and different judgments of a party's claims
+([CLAIM-tmpa61rf](CLAIM-tmpa61rf.md)). Bearing: illustrations, and one candidate empirical case
+to be read. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

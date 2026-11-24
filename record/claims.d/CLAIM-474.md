@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpgubhp
 title: 'From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-27'
@@ -81,6 +81,12 @@ history:
     now says it was moved, as SYNTHESIS-006, from this claim.
     Reported by the synthesis review of 2026-11-11 (seventh round).
     No other change.
+- version: 8
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 1 abstract, §6 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -105,6 +111,8 @@ tags:
 date: '2026-10-27'
 line:
 - distributed-agency
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-471
 - CLAIM-480
@@ -382,3 +390,17 @@ A, at A37 §8 of the exchange "Individuation, Possibility, and Disposition" (202
 ## Note of 2026-11-22: a constructed case, from [LEAD-098](../leads.d/LEAD-098.md)
 
 [CASE-333](../cases.d/CASE-333.md), the first run of [CASE-179](../cases.d/CASE-179.md)'s design, made the achievements this claim keeps apart come apart on purpose in one oscillator network: compatibility without attraction (weak and conservative coupling), attraction without coupling (a shared drive), organization without compatibility (frustrated maps, locked in a compromise), persistence that only withdrawal of the drive reveals, and coherence without knowledge (revision by consistency alone). The claim gains a constructed case. No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
+
+A32 §22 places contracts in this claim's partial order of achievements:
+coupling, co-adaptation, relational specification, contractual
+organization ("Requirements and commitments become maintained
+relationships"), constitutive integration and reflexive governance, with
+"A possible formation history. The achievements remain distinct and need
+not occur in this order." It proposes treating contracts "not as a new
+fundamental ontological category, but as a particular kind of achievement
+within Nucleation's existing process-relational ontology". An extension
+of the order by one achievement between interconnection and individuation,
+by A, not argued for beyond its statement; the manuscript of A26 cites
+this claim for the same distinctions (§2). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

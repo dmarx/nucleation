@@ -10,7 +10,7 @@ title: 'Identity stabilization and adaptability are not two ends of one scale:
   and on how fast it can be revised, and adaptive governance maintains a hierarchy
   of revisable constraints whose response times suit their demands, conserving
   selectively what enables later transformation'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -19,6 +19,12 @@ history:
     manuscript from the exchange "Explain First Contact RL": A48 §5, §6
     and §15 state it: not one scale, adequacy relative to the demands. No
     other change.
+- version: 3
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 14 formal centre (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: An organization in which every identity-conserving constraint
@@ -50,6 +56,7 @@ summary: 'A38 of the exchange "Explain First Contact RL" (ChatGPT, second
   is the owner''s call.'
 works:
 - governance-of-possibility
+- governance-of-becoming
 ---
 
 <!-- inactive-ok-file: CLAIM-184 CLAIM-423 CLAIM-478 CLAIM-758 TERM-167 — Proposed; cited in this filing of 2026-11-22 (second share) -->

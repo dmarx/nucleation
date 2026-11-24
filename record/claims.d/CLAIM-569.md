@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpancvu
 title: 'A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and costly to acquire, so having enough to sustain it is not having enough to acquire it'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-06'
@@ -41,6 +41,12 @@ history:
     Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §9 uses
     it: endpoints cheap to keep, switching costly. No other change.
+- version: 6
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 3 abstract, §2 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -62,6 +68,7 @@ line:
 works:
 - governance-of-possibility
 - cost-structure-of-possibility
+- governance-of-becoming
 rests_on:
 - CLAIM-571
 uses:
@@ -289,3 +296,21 @@ A39 §7 and A43 §3.3 and §9 restate this claim's separation as a trade between
 A43 listed the trade as a hypothesis (H3), hedged "under some workloads", and A39 §7 as "Not a universal inverse relationship". That fits this claim, which says no requirement fixes another, not that they move oppositely.
 
 No status change.
+
+<!-- inactive-ok-file: CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', U21 and A30
+
+The owner, at U21: "let's integrate contract formation, persistence, and
+modification in our cost model. It might actually already be in there
+already under other names". This claim is where the first half already
+is: a contract read as a stabilized relational constraint has a
+construction (formation), a maintenance (persistence) and a transition
+(modification and exit) requirement, none fixing another. A30 §1 calls
+this "The strongest existing foundation", and §8 applies it: "Formation
+might initially be almost costless", while revision later requires
+"rebuilding capabilities, modifying interfaces, redistributing authority",
+so F(C) ≠ R(C → C′), and with [TERM-116](../terms.d/TERM-116.md) the revision cost is directed. The
+exchange supports and applies the claim; it adds nothing to it. What the
+stored-work model lacks for contracts is filed as [CLAIM-tmpsf9hp](CLAIM-tmpsf9hp.md), under
+the owner's [QUESTION-tmpb7fx7](../questions.d/QUESTION-tmpb7fx7.md). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

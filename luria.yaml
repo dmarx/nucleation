@@ -231,6 +231,18 @@ vocabularies:
       philosophy-of-language:
         label: Philosophy of language
         blurb: 'meaning, content and reference as philosophy poses them — theories of meaning, meaning holism, assertion and whether machines assert, and conceptual change (group: philosophy)'
+      cultural-evolution:
+        label: Cultural evolution and memetics
+        blurb: 'how culture is transmitted, varies and is selected — memes in Dawkins''s sense and their critics, cultural attractors, dual inheritance, contagion and diffusion of ideas, and what a transmitted unit carries between carriers (ADR-tmpofuo3)'
+      law:
+        label: Law
+        blurb: 'law and jurisprudence as a subject — constitutional theory and interpretation (originalism and its rivals), separation of powers and executive authority, doctrine and case law, corporate and fiduciary law, and legal conventions and their enforcement; politics and policy at large stay in society-and-governance (ADR-tmpofuo3)'
+      economics:
+        label: Economics
+        blurb: 'economic theory and institutions — contracts and incomplete contracts, hold-up and relationship-specific investment, bargaining, the theory of the firm and corporate governance, shareholder and stakeholder theories; psychology and sociology stay in social-science (ADR-tmpofuo3)'
+      privacy:
+        label: Privacy
+        blurb: 'privacy and surveillance — informational privacy and contextual integrity, monitoring, observability and legibility as instruments of control, chilling effects, and the law of searches and association (ADR-tmpofuo3)'
       religion:
         label: Religion
         blurb: 'religion as a subject — its relation to science, religious belief and practice, and how religious practitioners are treated'
@@ -859,6 +871,19 @@ vocabularies:
           the capacity to reorganize viable, which a model with matched present performance separates from
           present performance. Its argument is held mainly in the lines realizability, distributed-agency,
           will-organization, formal-apparatus and readiness'
+      governance-of-becoming:
+        label: 'The Governance of Becoming'
+        blurb: 'the owner''s article series, requested at U31 of the exchange "Memes, Contracts, and Systemic
+          Normativity" and proposed by ChatGPT on 2026-11-24 (A49) as fourteen articles in five parts, to be
+          collected as The Governance of Becoming: Individuation, Interdependence, and the Organization of
+          Possibility; its precursor draft is the manuscript Becoming Through One Another (A26 to A28), requested
+          at U20. Organizations individuate through maintained relationships that make their processes mutually
+          consequential, store work, distribute authority and create dependencies, implicit contracts among them;
+          cooperation changes its participants, so exploitation, domination and agency without answerability can
+          arise from success; normative governance is the legitimate organization of those transformations,
+          including the capacity to discover and correct them, and constitutional regeneration is its political
+          form. Its argument is held mainly in the lines distributed-agency, dependence-and-domination,
+          organizational-normativity and will-organization'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 # The pending report's age horizon, at the record's own pace: the default 90
 # could not name a stale document in a record a month old (ADR-057).

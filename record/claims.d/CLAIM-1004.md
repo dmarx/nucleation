@@ -74,3 +74,17 @@ Two conjectures:
 - A54's development: the levels of preservation and the maintained-nucleus
   model are [CLAIM-1148](CLAIM-1148.md), the portfolio of parallel routes [CLAIM-1002](CLAIM-1002.md),
   and the governance thesis [CLAIM-1177](CLAIM-1177.md).
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', U2
+
+The owner used the figure again the next day, for memes: "memes as
+nucleation sites" (U2, [CLAIM-tmp1ng5k](CLAIM-tmp1ng5k.md)), and at U4 tied memes to
+perspectives as their "characteristics  (qua representation theory)"
+([CLAIM-tmphi3mx](CLAIM-tmphi3mx.md), [CLAIM-tmp4mk0t](CLAIM-tmp4mk0t.md)). Together the conjectures place
+perspectives as nuclei (here) and memes as seeds that can nucleate
+perspectives in other carriers (A5 §3, [CLAIM-tmpjitli](CLAIM-tmpjitli.md)). A, which browsed
+main, could not see this entry, which is on staging. Bearing: the same
+figure in another setting; no change. The wording of this note is the
+assistant's (Claude, in this session); adopting it is the owner's call.
+
+<!-- inactive-ok-file: CLAIM-tmp1ng5k CLAIM-tmp4mk0t CLAIM-tmphi3mx CLAIM-tmpjitli — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

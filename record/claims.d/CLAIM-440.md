@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpz8lli
 title: 'An organization''s appraisal is the negotiation among its perspectives, a common currency is that negotiation''s admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization''s own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes contested rankings, not frustrated demands, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation''s decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-27'
@@ -48,6 +48,12 @@ history:
     opposed valences, so "no ordering" is one way ambivalence shows in
     the record, not what it is. The title's clause is to be read so;
     it is not changed. No other change.
+- version: 6
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 4 abstract (ADR-tmpenzcn). No change
+    of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -67,6 +73,8 @@ date: '2026-10-23'
 line:
 - organizational-affect
 - distributed-agency
+works:
+- governance-of-becoming
 uses:
 - TERM-076
 - TERM-077
