@@ -100,3 +100,16 @@ a lock H needs, so the case is also an instance of arrangements alike on
 the ordinary course that part under contention ([CLAIM-tmpersgx](../claims.d/CLAIM-tmpersgx.md), argued in
 [ARG-tmp2dpcv](../arguments.d/ARG-tmp2dpcv.md)). The note's wording is the assistant's (Claude, in this
 session); adopting it is the owner's call.
+
+## Note of 2026-11-24: a correction to the delay figure
+
+The assistant's note above says "the relief moves four units of delay from
+H to M". The manuscript review of 2026-11-24 found that imprecise. Against
+the schedule without inheritance, H and L each finish five units earlier
+and M four units later. So inheritance takes five units of delay off H,
+and off L, and puts four on M. It is a reallocation, as the note says, but
+not of one block of four units. The total delay summed over the three
+processes falls by six. The conclusion stands: no schedule finishes H by 5
+and M before 10. Bearing: a corrected figure; no change of status. The
+wording is the assistant's (Claude, in this session).
+
