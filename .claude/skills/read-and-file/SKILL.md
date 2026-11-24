@@ -312,6 +312,11 @@ the ledger found, not only when the owner asks.
     `python3 -I` where it computes, the check stated in the entry;
   - *a correction*: in the entry that uses the mistaken step, quoting the
     source and giving the right value with the check;
+  - *a model's reading*: when the source draws a verbal conclusion from a
+    toy model, check both that the numbers are right and that each
+    parameter means what the conclusion takes it to mean. In the exchange
+    "Memes, Contracts, and Systemic Normativity" three corrections out of
+    three were of the second kind, and one was the checker's own;
   - *a question*: when the gap is open and the record should hold it so;
   - *a lead* (ADR-109): for a test or reading that would settle it.
 - **Say which gap it fills** and which turn or passage it answers. The

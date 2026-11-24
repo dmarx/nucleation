@@ -18,3 +18,13 @@
   and objection), and norms that outlast their original justification
   ([CLAIM-tmp8l5s9](record/claims.d/CLAIM-tmp8l5s9.md), [CASE-tmp3euq0](record/cases.d/CASE-tmp3euq0.md)), which corrected an overstated reading
   of the exchange's norm model ([CLAIM-tmpjg5gx](record/claims.d/CLAIM-tmpjg5gx.md), version 2).
+- At the owner's word, the assistant's three ideas from reading across the
+  filing: ambiguity resolved jointly or by one party as productive
+  misunderstanding or exploitation (CLAIM-tmpisfi1); the owner's case as
+  evidence against endurance as a presumption of adequacy (ARG-tmpo7ijm);
+  and toy models whose parameters are misread (CLAIM-tmpyxemn).
+
+### Changed
+
+- The read-and-file skill's step 9a asks, of a source's toy model, that
+  each parameter's reading be checked as well as its numbers.
