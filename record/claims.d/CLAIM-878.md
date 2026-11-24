@@ -142,3 +142,8 @@ It adds two differences. The drill needs no commitment from whoever sets the bud
 
 <!-- inactive-ok-block: CASE-412 CASE-397 — new; the study filed -->
 The model the note above reports is now on the record as [CASE-412](../cases.d/CASE-412.md), which illustrates this claim: a drill each period (IV) costs what a reserve at the same level costs and has the same readiness curve, and drilling every second period loses the route. Its variant [CASE-397](../cases.d/CASE-397.md) holds the second way the drill breaks, a review that crowds it out. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A53
+
+<!-- inactive-ok-block: CASE-315 — Proposed; entries A53 names beside this one, cited whatever their standing -->
+A53: "it is expenditure reaching the threshold that preserves the budget, not necessarily mobilization of the particular capability whose affordability is at issue. Another sufficiently costly activity could preserve the same budget under the pure rule." Checked: the defeater speaks of "an occupation costing at least B*", the title of "a mobilization at its cost". Under the pure rule any occupation at that cost keeps the budget, so the title's "exactly as long as every period contains a mobilization" is too strong in its "only if" half. The rewording, to any occupation at that cost of which a use, a drill, a false alarm or a cancelled dispatch are instances, is due before a ruling, with CASE-315 (rerun the same day). The note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting either is the owner's call. No status change.

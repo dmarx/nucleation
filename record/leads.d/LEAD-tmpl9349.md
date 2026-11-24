@@ -68,3 +68,8 @@ discretionary contribution, a request to renegotiate.
 [LEAD-tmpbqj9u](LEAD-tmpbqj9u.md) compares governance architectures, not these four systems.
 [LEAD-tmpfq5cj](LEAD-tmpfq5cj.md) names a shared organizational state. This study could run on
 it once its dynamics are written.
+
+## Note of 2026-11-24: what the record already does, from U32 and A51 of the exchange 'Memes, Contracts, and Systemic Normativity'
+
+<!-- inactive-ok-block: CASE-163 CLAIM-tmpyp0ju — Proposed or new; the executed studies and claims this note checks the lead against, and the owner's thesis it answers -->
+A51 §3 does not take this study up by name, but its method is held: arrangements matched on their ordinary trajectories that part under intervention (CASE-161, Active), and diagnostic probes that identify which of a known catalogue of mechanisms applies and predict withheld interventions (CASE-163). What is not held is the catalogue this lead needs, the four systems, and A51 §7 keeps the question open ("What differentiates implicit contracting from regulated co-adaptation? ... their proposed contractual integration needs a discriminating criterion"). Reframe the lead as CASE-163's design run on these four systems: the same probe battery, a predictor fitted on one system and tested on the others, and identification accuracy against no probe as the measure, which also gives "What would count against" a number. The owner's U32 holds that the series' proposed experiments are "largely already satisfied by prior work" (CLAIM-tmpyp0ju). The note is the assistant's (Claude, in this session); whether to narrow, lower or close the lead is the owner's call. No status change.

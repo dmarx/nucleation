@@ -94,3 +94,8 @@ assistant's):
 Open, at stage idea. The wording of the experiments is A's; the designs
 are the assistant's (Claude, in this session); adopting either is the
 owner's call.
+
+## Note of 2026-11-24: what the record already does, from U32 and A51 of the exchange 'Memes, Contracts, and Systemic Normativity'
+
+<!-- inactive-ok-block: CASE-343 CASE-412 CLAIM-878 CLAIM-921 CLAIM-tmpyp0ju — Proposed or new; the executed studies and claims this note checks the lead against, and the owner's thesis it answers -->
+A51 Article 10: "This paper should not be an exercise in constructing new SRE-inspired toy models." Of the five experiments above, "Recovery readiness" is done: CASE-343 runs the utilization-funded loop with and without decoupling for CLAIM-921, and reproduces on a rerun of 2026-11-24. "Operational overload" is done in part by CASE-412 (drills, reserves and carry-over under the peak rule, CLAIM-878). "Over-reliable dependency" has its mechanism demonstrated as CLAIM-602 and CLAIM-675 (Active), so a service-ecology run would test a known result in a new domain. "Error-budget governance" has CASE-325's comparison of relational authority against control models as its nearest study, not the same question. "Retry amplification" is not held. Narrow the lead to retry amplification and to error-budget precedence, and cite the rest. The owner's U32 holds that the series' proposed experiments are "largely already satisfied by prior work" (CLAIM-tmpyp0ju). The note is the assistant's (Claude, in this session); whether to narrow, lower or close the lead is the owner's call. No status change.

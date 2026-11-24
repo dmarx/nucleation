@@ -80,3 +80,8 @@ Extension, the assistant's. A gap of the manuscript governance-of-possibility, �
 
 <!-- inactive-ok-block: CASE-412 CASE-397 — new; the study filed -->
 The manuscript's study is now on the record as [CASE-412](../cases.d/CASE-412.md), which illustrates this claim: its tests check that a redesigned route is kept under the peak rule exactly when θ′ ≤ 1, and its regime without a reserve (III-a) loses the route and falls below no redesign at all. Its novel-demand variant, [CASE-397](../cases.d/CASE-397.md), shows the reserve this claim says redesign does not replace serving a route the specification did not name. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A53
+
+<!-- inactive-ok-block: CASE-412 CLAIM-1093 — Proposed; entries A53 names beside this one, cited whatever their standing -->
+A53 lists this claim as "a strong promotion candidate": its premises CLAIM-577, CLAIM-679 and CLAIM-571 are Active and demonstrated, and CASE-412 reproduces the phenomenon. Checked: `scratch/formal/redesign_reserve_check.py`, rerun on 2026-11-24 with `python3 -I`, prints "checks pass"; the status-review worklist of that date lists the claim as ready for a ruling. Promoting it makes its concession due on CLAIM-1093 (ADR-059), whose Standing already grants it (the note of this date there gives A53's wording). The note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting either is the owner's call. No status change.
