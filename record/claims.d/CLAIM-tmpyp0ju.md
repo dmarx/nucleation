@@ -35,7 +35,7 @@ summary: >-
   ones, which remain open.
 ---
 
-<!-- inactive-ok-file: CLAIM-1099 CASE-163 CASE-164 CASE-315 CASE-326 CASE-343 CASE-346 CASE-397 CASE-401 CASE-412 CLAIM-1202 CLAIM-921 LEAD-tmpbqj9u LEAD-tmpeo8wq LEAD-tmpfq5cj LEAD-tmpiktom LEAD-tmpl9349 LEAD-tmpmmfxt LEAD-tmpu1jj5 LEAD-tmp5l71z — Proposed or Open; the executed studies and leads the thesis is checked against, cited whatever their standing -->
+<!-- inactive-ok-file: CLAIM-1099 CASE-163 CASE-315 CASE-326 CASE-343 CASE-346 CASE-397 CASE-401 CASE-412 CLAIM-921 — Proposed or Open; the executed studies and leads the thesis is checked against, cited whatever their standing -->
 
 # CLAIM-tmpyp0ju: Most of the research the article series governance-of-becoming proposed has already been done on the record: the role its proposed experiments play in the account is largely filled by studies, constructions and derivations the record already holds, so the series is a program of consolidating and publishing results more than one of new research
 
@@ -61,27 +61,27 @@ filed from A49, is the curation entry's section on U32 to U33. In brief:
 
 | A49's experiment | Held work that does its job in the argument | Left open |
 |---|---|---|
-| Individuation under matched ordinary behaviour (Art. 1) | CASE-161 (Active), CASE-163: interventions on the maintaining mechanism part arrangements with identical ordinary trajectories, and probes identify the mechanism | an object richer than a scalar rule (LEAD-tmpu1jj5, narrowed) |
-| Authority against control baselines (Art. 4) | CASE-325 (Active): model comparison with held-out combinations and stated losses | reflexive revision of the arrangement (LEAD-tmpbqj9u) |
-| Readiness under matched performance (Arts. 10, 13, 14) | CASE-412, CASE-315, CLAIM-577, CLAIM-1099 | institutional application |
-| Utilization-funded recovery (Art. 10) | CASE-343, CLAIM-921 | none for the model |
-| Inquiry suppressed by its score; self-certification (Arts. 6, 11, 12) | CASE-396 (Active), CLAIM-1064 (Active), CASE-397 | real institutions |
-| Evidence selection, self-scoring, protected correction (Art. 6) | CASE-162 (Active), CASE-346, CLAIM-1183 (Active), CASE-401 | human cognitive data |
-| Capability lost to reliable supply (Arts. 3, 9) | CLAIM-602 and CLAIM-675 (Active, demonstrated) | the authority index of LEAD-tmpeo8wq |
-| Implicit contracts against mere coupling (Arts. 2, 9) | the method (CASE-161, CASE-163); not the systems | LEAD-tmpl9349, LEAD-tmp5l71z |
-| Memetic nucleation (Art. 7) | formal precedents only (CASE-189, CASE-191, CASE-148) | the empirical study (LEAD-tmpiktom) |
-| A shared organizational state (all) | model lineages inside families (CASE-315 to CASE-412 to CASE-397; CASE-363 to CASE-401; PerspectiveLab) | the cross-family test (LEAD-tmpfq5cj) |
+| Individuation under matched ordinary behaviour (Art. 1) | [CASE-161](../cases.d/CASE-161.md) (Active), [CASE-163](../cases.d/CASE-163.md): interventions on the maintaining mechanism part arrangements with identical ordinary trajectories, and probes identify the mechanism | an object richer than a scalar rule ([LEAD-tmpu1jj5](../leads.d/LEAD-tmpu1jj5.md), narrowed) |
+| Authority against control baselines (Art. 4) | [CASE-325](../cases.d/CASE-325.md) (Active): model comparison with held-out combinations and stated losses | reflexive revision of the arrangement ([LEAD-tmpbqj9u](../leads.d/LEAD-tmpbqj9u.md)) |
+| Readiness under matched performance (Arts. 10, 13, 14) | [CASE-412](../cases.d/CASE-412.md), [CASE-315](../cases.d/CASE-315.md), [CLAIM-577](CLAIM-577.md), [CLAIM-1099](CLAIM-1099.md) | institutional application |
+| Utilization-funded recovery (Art. 10) | [CASE-343](../cases.d/CASE-343.md), [CLAIM-921](CLAIM-921.md) | none for the model |
+| Inquiry suppressed by its score; self-certification (Arts. 6, 11, 12) | [CASE-396](../cases.d/CASE-396.md) (Active), [CLAIM-1064](CLAIM-1064.md) (Active), [CASE-397](../cases.d/CASE-397.md) | real institutions |
+| Evidence selection, self-scoring, protected correction (Art. 6) | [CASE-162](../cases.d/CASE-162.md) (Active), [CASE-346](../cases.d/CASE-346.md), [CLAIM-1183](CLAIM-1183.md) (Active), [CASE-401](../cases.d/CASE-401.md) | human cognitive data |
+| Capability lost to reliable supply (Arts. 3, 9) | [CLAIM-602](CLAIM-602.md) and [CLAIM-675](CLAIM-675.md) (Active, demonstrated) | the authority index of [LEAD-tmpeo8wq](../leads.d/LEAD-tmpeo8wq.md) |
+| Implicit contracts against mere coupling (Arts. 2, 9) | the method ([CASE-161](../cases.d/CASE-161.md), [CASE-163](../cases.d/CASE-163.md)); not the systems | [LEAD-tmpl9349](../leads.d/LEAD-tmpl9349.md), [LEAD-tmp5l71z](../leads.d/LEAD-tmp5l71z.md) |
+| Memetic nucleation (Art. 7) | formal precedents only ([CASE-189](../cases.d/CASE-189.md), [CASE-191](../cases.d/CASE-191.md), [CASE-148](../cases.d/CASE-148.md)) | the empirical study ([LEAD-tmpiktom](../leads.d/LEAD-tmpiktom.md)) |
+| A shared organizational state (all) | model lineages inside families ([CASE-315](../cases.d/CASE-315.md) to [CASE-412](../cases.d/CASE-412.md) to [CASE-397](../cases.d/CASE-397.md); [CASE-363](../cases.d/CASE-363.md) to [CASE-401](../cases.d/CASE-401.md); PerspectiveLab) | the cross-family test ([LEAD-tmpfq5cj](../leads.d/LEAD-tmpfq5cj.md)) |
 
 Of ten experiment families, seven have held work that does the article's
 job, though one of them (capability lost to supply) lacks the authority
 index A49 added; two have only the method or formal precedents (implicit
 contracts, memetic nucleation); and one is open (the shared state). That
 supports the thesis as stated, "largely". It also shows a qualification:
-of the executed studies the series would lean on, CASE-161, CASE-162,
-CASE-325 and CASE-396 are Active and the rest Proposed, though each of
-CASE-315, CASE-326, CASE-343, CASE-346 and CASE-401 reproduces exactly on
+of the executed studies the series would lean on, [CASE-161](../cases.d/CASE-161.md), [CASE-162](../cases.d/CASE-162.md),
+[CASE-325](../cases.d/CASE-325.md) and [CASE-396](../cases.d/CASE-396.md) are Active and the rest Proposed, though each of
+[CASE-315](../cases.d/CASE-315.md), [CASE-326](../cases.d/CASE-326.md), [CASE-343](../cases.d/CASE-343.md), [CASE-346](../cases.d/CASE-346.md) and [CASE-401](../cases.d/CASE-401.md) reproduces exactly on
 a rerun of 2026-11-24 (their notes of that date). The owner's U33 takes
-that up (LEAD-tmp0j28l).
+that up ([LEAD-tmp0j28l](../leads.d/LEAD-tmp0j28l.md)).
 
 ## What it does not say
 
