@@ -74,7 +74,7 @@ The record's dispositional address ([TERM-165](../terms.d/TERM-165.md)) is the m
 
 ## Standing
 
-Proposed, in A's voice, revised on 2026-11-24 to concede CLAIM-1095, which objects to the formal step, not the thesis: compared directly, the post-state separates organizations no test could tell apart, so d_𝒬 is not observational as A64b intends; observing S′ through its later responses repairs it and keeps the separation the thesis needs.
+Proposed, in A's voice, revised on 2026-11-24 to concede [CLAIM-1095](CLAIM-1095.md), which objects to the formal step, not the thesis: compared directly, the post-state separates organizations no test could tell apart, so d_𝒬 is not observational as A64b intends; observing S′ through its later responses repairs it and keeps the separation the thesis needs.
 
 <!-- inactive-ok-file: CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
 

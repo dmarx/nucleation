@@ -132,14 +132,14 @@ join it is a change to [ADR-057](../decisions.d/ADR-057.md)'s procedure, and wai
 ## Note of 2026-11-24: the first worklist's ten and twelve ruled
 
 The status pass of 2026-11-24 promoted the ten and ten of the twelve: 20 entries went Active (seven cases, twelve
-claims, TERM-165), with titles narrowed on CLAIM-1180, CLAIM-878,
-CLAIM-921 and CLAIM-1185, CLAIM-1093 revised to concede CLAIM-1099,
-CLAIM-1190's defeater restated, and the checks of CLAIM-1115, CLAIM-1095
-and CLAIM-1180, which their filers had not kept, reconstructed and rerun.
-CLAIM-1156 was revised to concede CLAIM-1095. Two clauses dropped by
-narrowing are filed as Proposed claims, CLAIM-tmpc3ndh and CLAIM-tmpjdml5.
-CASE-163 and CASE-164 stay Proposed: the re-read of PerspectiveLab's
+claims, [TERM-165](../terms.d/TERM-165.md)), with titles narrowed on [CLAIM-1180](../claims.d/CLAIM-1180.md), [CLAIM-878](../claims.d/CLAIM-878.md),
+[CLAIM-921](../claims.d/CLAIM-921.md) and [CLAIM-1185](../claims.d/CLAIM-1185.md), [CLAIM-1093](../claims.d/CLAIM-1093.md) revised to concede [CLAIM-1099](../claims.d/CLAIM-1099.md),
+[CLAIM-1190](../claims.d/CLAIM-1190.md)'s defeater restated, and the checks of [CLAIM-1115](../claims.d/CLAIM-1115.md), [CLAIM-1095](../claims.d/CLAIM-1095.md)
+and [CLAIM-1180](../claims.d/CLAIM-1180.md), which their filers had not kept, reconstructed and rerun.
+[CLAIM-1156](../claims.d/CLAIM-1156.md) was revised to concede [CLAIM-1095](../claims.d/CLAIM-1095.md). Two clauses dropped by
+narrowing are filed as Proposed claims, [CLAIM-tmpc3ndh](../claims.d/CLAIM-tmpc3ndh.md) and [CLAIM-tmpjdml5](../claims.d/CLAIM-tmpjdml5.md).
+[CASE-163](../cases.d/CASE-163.md) and [CASE-164](../cases.d/CASE-164.md) stay Proposed: the re-read of PerspectiveLab's
 stored results needs that repository, which is not in this checkout. The
-concession of CLAIM-1185 on CLAIM-1024 is due and is the owner's. The pass
+concession of [CLAIM-1185](../claims.d/CLAIM-1185.md) on [CLAIM-1024](../claims.d/CLAIM-1024.md) is due and is the owner's. The pass
 is described in the curation entry of that date. The note is the
 assistant's (Claude, in this session).

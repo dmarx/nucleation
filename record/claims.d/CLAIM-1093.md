@@ -78,11 +78,11 @@ other changes the transition barrier itself."
 
 ## Standing
 
-In A's voice, revised on 2026-11-24 to concede CLAIM-1099 (ADR-059), in
-A53's wording, with the exception CLAIM-1099 states added to the title: "Maintaining a reserve and redesigning a transition change
+In A's voice, revised on 2026-11-24 to concede [CLAIM-1099](CLAIM-1099.md) ([ADR-059](../decisions.d/ADR-059.md)), in
+A53's wording, with the exception [CLAIM-1099](CLAIM-1099.md) states added to the title: "Maintaining a reserve and redesigning a transition change
 different components of reconfiguration readiness. Under
 utilization-matched budgeting they can be complementary requirements
-rather than independently sufficient alternatives." CLAIM-1099 shows
+rather than independently sufficient alternatives." [CLAIM-1099](CLAIM-1099.md) shows
 that under §9.1's own budget rule the redesigned route is lost like the
 original unless a reserve is also held, so the two are distinct in what
 they change but not alternatives; redesign replaces the reserve only

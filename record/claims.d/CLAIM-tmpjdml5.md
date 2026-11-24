@@ -35,11 +35,11 @@ objects_to:
 complements:
 - CLAIM-342
 summary: >-
-  The general form of CLAIM-1185's objection to the owner's CLAIM-1024,
-  kept as its own Proposed claim when CLAIM-1185 was narrowed to what its
+  The general form of [CLAIM-1185](CLAIM-1185.md)'s objection to the owner's [CLAIM-1024](CLAIM-1024.md),
+  kept as its own Proposed claim when [CLAIM-1185](CLAIM-1185.md) was narrowed to what its
   model shows. In that model a miscalibrated protected beacon drives the
   network's error to its own, and the error fell only when a rarer
-  protected survey revised the beacon. The claim reads this as CLAIM-342
+  protected survey revised the beacon. The claim reads this as [CLAIM-342](CLAIM-342.md)
   one level up: correction needs something it cannot revise, and what it
   cannot revise it cannot correct from inside. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
@@ -51,7 +51,7 @@ summary: >-
 
 ## The claim
 
-CLAIM-1185 shows, in the record's simulated sensor network, that a
+[CLAIM-1185](CLAIM-1185.md) shows, in the record's simulated sensor network, that a
 protected beacon that is itself miscalibrated drives the network's error to
 the beacon's own while the network stays internally consistent, and that
 the error fell only when a further, rarer protected survey revised the
@@ -61,13 +61,13 @@ outside what its revision can reach, so an error in it is invisible from
 inside: consistency is unaffected. Evidence about the anchor that does not
 pass through it is needed, and to be relied on it must itself be
 protected. The regress stops at whatever is not revised, the entrenchment
-CLAIM-184 warns of.
+[CLAIM-184](CLAIM-184.md) warns of.
 
 ## What it does not say
 
 - That every protected anchor must be revisable: a correct anchor needs no
   survey.
-- How fast correction of an anchor can be; in CLAIM-1185's model it runs at
+- How fast correction of an anchor can be; in [CLAIM-1185](CLAIM-1185.md)'s model it runs at
   the survey's rate.
 
 ## Note of 2026-11-24: what holds it back

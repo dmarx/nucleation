@@ -37,9 +37,9 @@ grounds:
 bears_on:
 - QUESTION-386
 summary: >-
-  The ordering CLAIM-921's title once stated, kept as its own Proposed
+  The ordering [CLAIM-921](CLAIM-921.md)'s title once stated, kept as its own Proposed
   claim when that title was narrowed to the lower bound its derivation
-  gives. CASE-343 observes it at the rarities it ran (loss within thirty
+  gives. [CASE-343](../cases.d/CASE-343.md) observes it at the rarities it ran (loss within thirty
   years in every run at one occasion in five or in two and a half years,
   93 % at one a year, 39 % at four, under 1 % at sixteen, with ηλ fixed),
   and there most of the loss at moderate rarity runs through partial
@@ -52,15 +52,15 @@ summary: >-
 
 ## The claim
 
-In CLAIM-921's model (A's model from QUESTION-386, with a threshold on
+In [CLAIM-921](CLAIM-921.md)'s model (A's model from [QUESTION-386](../questions.d/QUESTION-386.md), with a threshold on
 commitment), hold ηλ fixed so that a capability used on every occasion
-earns the same on average, and let occasions grow rarer. CLAIM-921 derives
+earns the same on average, and let occasions grow rarer. [CLAIM-921](CLAIM-921.md) derives
 that the lower bound on the chance of loss within T periods,
 1 − (1 − e^(−λL))^⌊T/L⌋, rises as λ falls. This claim says more: that the
 chance of loss within every horizon rises as λ falls, so that time to loss
 is stochastically shorter for the rarer capability.
 
-The evidence is CASE-343's sweep, in which loss frequencies within thirty
+The evidence is [CASE-343](../cases.d/CASE-343.md)'s sweep, in which loss frequencies within thirty
 years fall monotonically from every run at one occasion in five years to
 under 1 % at sixteen a year, and in which averaging the activity over a
 year lowers them "without changing the ordering". At one occasion a year
@@ -73,13 +73,13 @@ derivation of it is yet held.
 ## What it does not say
 
 - That the ordering holds where the base budget alone sustains competence
-  at or above the threshold; there nothing is lost for good (CLAIM-921,
-  step 4, and CASE-343 at B̄ = 1.35).
-- That it holds at every horizon in models other than CASE-343's; the
+  at or above the threshold; there nothing is lost for good ([CLAIM-921](CLAIM-921.md),
+  step 4, and [CASE-343](../cases.d/CASE-343.md) at B̄ = 1.35).
+- That it holds at every horizon in models other than [CASE-343](../cases.d/CASE-343.md)'s; the
   sweep checked one horizon, thirty years, at five rarities.
 
 ## Note of 2026-11-24: what holds it back
 
-A derivation of the ordering, or a sweep of CASE-343's model over horizons
+A derivation of the ordering, or a sweep of [CASE-343](../cases.d/CASE-343.md)'s model over horizons
 and over B̄ and the commitment ramp, is missing; one horizon at five
 rarities is what is observed.
