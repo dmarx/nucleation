@@ -116,8 +116,9 @@ pricing then differs. [LEAD-tmp14n26](../leads.d/LEAD-tmp14n26.md) would test it
   it with the store fixed between uses ([ARG-tmpa5ped](../arguments.d/ARG-tmpa5ped.md)).
 - [CLAIM-1156](CLAIM-1156.md) holds that the same answers can differ in what answering
   does; this claim locates the change in the invoked relationship.
-- [TERM-116](../terms.d/TERM-116.md) makes the revision cost directed, R(C, C′) ≠ R(C′, C), which A30
-  §8 uses: "A relationship may be easy to enter, inexpensive to maintain and
+- A30 §8 asks for a directed revision cost, R(C, C′) ≠ R(C′, C). The
+  record defines none: [TERM-116](../terms.d/TERM-116.md) defines relational profiles, not R (a
+  manuscript drafter's finding, 2026-11-24). A30 §8: "A relationship may be easy to enter, inexpensive to maintain and
   extremely expensive to leave."
 - Implicit contracts and their formation were introduced earlier in the
   exchange (U14, U16); this claim adds their invocation.

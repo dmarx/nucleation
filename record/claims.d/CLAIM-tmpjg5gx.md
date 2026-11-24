@@ -106,7 +106,7 @@ reduced equation and the eigenvalues of the full three-variable Jacobian
   s = 0.6, falls to the low state (x ≈ 0.048): the "sufficiently
   established practice" has to be established past roughly 69% compliance
   at these settings.
-- **Outlasting its reasons, within limits.** A practice established where
+- **[Withdrawn 2026-11-24; see the correction note below.] Outlasting its reasons, within limits.** A practice established where
   only the high state exists (b = −1) and then subjected to a fall in b
   stays high down to b = −4.3 (x ≈ 0.95), while the same practice started
   fresh at b = −4.3 dies out (x ≈ 0.013); at b = −4.5 the established
@@ -114,7 +114,8 @@ reduced equation and the eigenvalues of the full three-variable Jacobian
   weakening of its baseline support by a margin set by λ, not its
   disappearance.
 
-The check narrows A22's sentence "norms can persist even after their
+[Withdrawn 2026-11-24 at the owner's objection; see the correction note
+below.] The check narrows A22's sentence "norms can persist even after their
 original justification disappears": in this model they persist after the
 reasons weaken, up to a point, not after they vanish; persistence after
 they vanish would need maintenance feedback large enough that the high
@@ -130,7 +131,8 @@ state exists at any baseline the reasons' loss leaves.
   maintenance rule is supplied by the modeler. It demonstrates a candidate
   stabilization mechanism." That leaves [QUESTION-128](../questions.d/QUESTION-128.md) where it was.
 - Not that reliance is the only stabilizer. A22 §16 lists seven
-  mechanisms that can produce the same compliance ([CLAIM-tmp1nubb](CLAIM-tmp1nubb.md)).
+  mechanisms that can produce the same compliance ([CLAIM-tmpersgx](CLAIM-tmpersgx.md)'s note of
+  2026-11-24; first filed in [CLAIM-tmp1nubb](CLAIM-tmp1nubb.md), now superseded).
 
 ## Relation to the record
 

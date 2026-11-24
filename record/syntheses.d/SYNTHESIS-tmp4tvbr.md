@@ -506,8 +506,9 @@ why none does.
   is an instance of [CLAIM-475](../claims.d/CLAIM-475.md).
 - **A20 §16, three proposed definitions** ("contractual organization",
   "organizational contract", "implicit organizational contract"). Their
-  content is [CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md)'s marks and [CLAIM-tmp0d1fq](../claims.d/CLAIM-tmp0d1fq.md); no TERM holds the
-  words. Whether to file one is the owner's call.
+  content is [CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md)'s marks and [CLAIM-tmp0d1fq](../claims.d/CLAIM-tmp0d1fq.md); at the owner's word of 2026-11-24,
+  [TERM-tmplpplx](../terms.d/TERM-tmplpplx.md) now holds "organizational contract"; the other two words
+  have no term.
 - **A22 §22**, dependency-mediated norm formation and asymmetric
   contractual organization: a map of [CLAIM-tmp18v1o](../claims.d/CLAIM-tmp18v1o.md), [CLAIM-tmpjg5gx](../claims.d/CLAIM-tmpjg5gx.md),
   [CLAIM-tmp8bimm](../claims.d/CLAIM-tmp8bimm.md) and [CLAIM-tmp4zii5](../claims.d/CLAIM-tmp4zii5.md). Its clause that such relationships

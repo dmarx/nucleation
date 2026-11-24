@@ -90,6 +90,7 @@ formation of a reciprocally maintained contract."
 - Not that every structural presupposition is an expectation of a
   particular party. A20 §14's substitution test, whether "reliance concerns
   the function or its particular provider", is what tells the two apart;
-  [CLAIM-tmp1nubb](CLAIM-tmp1nubb.md) holds it.
+  [CLAIM-tmpersgx](CLAIM-tmpersgx.md) holds it among its probes (the substitute provider); it
+  supersedes [CLAIM-tmp1nubb](CLAIM-tmp1nubb.md).
 - Not that the process is at fault for the loss. Giving up a costly
   capacity that another supplies is favoured ([CLAIM-603](CLAIM-603.md)).

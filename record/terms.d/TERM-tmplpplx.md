@@ -1,6 +1,14 @@
 ---
 status: Proposed
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Two corrections a manuscript digest found: CLAIM-tmp7hqtl's conditions
+    are necessary, and the title read them as sufficient ("because" for
+    "only if"); and operational standing is not reducible to priority
+    (TERM-tmpgiy6r), which the Use section had contradicted.
 tags:
 - society-and-governance
 - social-ontology
@@ -8,7 +16,7 @@ date: '2026-11-24'
 line:
 - dependence-and-domination
 - organizational-normativity
-title: 'organizational contract: a maintained relation among the processes of an organization that governs how they interact, explicitly agreed or formed implicitly from relied-upon regularities, and that is contract-like because it governs deviation, conflict and breach and not only the ordinary course'
+title: 'organizational contract: a maintained relation among the processes of an organization that governs how they interact, explicitly agreed or formed implicitly from relied-upon regularities, and that is contract-like only if it governs deviation, conflict and breach and not only the ordinary course'
 summary: >-
   Coined at the owner's word of 2026-11-24 ("go ahead and coin the
   terms"), from the exchange 'Memes, Contracts, and Systemic Normativity':
@@ -20,7 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpkvzcn CLAIM-tmp0d1fq CLAIM-tmp7hqtl CLAIM-tmpersgx CLAIM-tmp80ny9 CLAIM-tmpisfi1 TERM-tmpgiy6r — Proposed; the entries the term assembles -->
 
-# TERM-tmplpplx: organizational contract: a maintained relation among the processes of an organization that governs how they interact, explicitly agreed or formed implicitly from relied-upon regularities, and that is contract-like because it governs deviation, conflict and breach and not only the ordinary course
+# TERM-tmplpplx: organizational contract: a maintained relation among the processes of an organization that governs how they interact, explicitly agreed or formed implicitly from relied-upon regularities, and that is contract-like only if it governs deviation, conflict and breach and not only the ordinary course
 
 ## Definition
 
@@ -31,8 +39,8 @@ summary: >-
   evolved through evolution of expectations and assumptions based on
   consistently observed behaviors that evolved into dependencies"
   ([CLAIM-tmp0d1fq](../claims.d/CLAIM-tmp0d1fq.md)).
-- **Contract-like by its handling of the abnormal.** [CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md)'s
-  criterion: it maintains reciprocal requirements, responds differently to
+- **Contract-like only if it handles the abnormal.** [CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md)'s
+  necessary conditions: it maintains reciprocal requirements, responds differently to
   their satisfaction and violation, settles which prevails in conflict, and
   is sustained or revised by some mechanism.
 
@@ -43,8 +51,8 @@ summary: >-
 - Where no organizational contract yet fixes what a relation requires, the
   uncertainty is constitutive and is resolved only by forming one
   ([CLAIM-tmp80ny9](../claims.d/CLAIM-tmp80ny9.md), [CLAIM-tmpisfi1](../claims.d/CLAIM-tmpisfi1.md)).
-- Its priority structure is where operational standing lives
-  ([TERM-tmpgiy6r](TERM-tmpgiy6r.md)).
+- Its priority structure is one place operational standing shows,
+  though standing is not reducible to priority ([TERM-tmpgiy6r](TERM-tmpgiy6r.md)).
 
 ## Not to be confused with
 

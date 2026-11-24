@@ -1,7 +1,14 @@
 ---
 status: Proposed
-title: 'Resolving an ambiguity that no arrangement yet settles forms a contract, and the same act has two outcomes: resolved jointly, it is a productive misunderstanding that reorganizes the parties around a new distinction; resolved by one party who controls when and how, it is exploitation through ambiguity'
-version: 1
+title: 'Resolving an ambiguity that no arrangement yet settles forms a contract, and the same act has two outcomes: resolved jointly, it is a productive misunderstanding that reorganizes the parties around a new distinction; resolved by one party who controls when and how, it is exploitation through ambiguity where the terms it sets fail a declared standard'
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    The title keeps TERM-123's condition: exploitation is relative to a
+    declared standard, as CLAIM-tmpro73c's use of it is. A manuscript
+    drafter found the condition dropped.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmp80ny9 CLAIM-tmpupcws CLAIM-tmpro73c CLAIM-tmpgx2ej — Proposed; the entries joined -->
 
-# CLAIM-tmpisfi1: Resolving an ambiguity that no arrangement yet settles forms a contract, and the same act has two outcomes: resolved jointly, it is a productive misunderstanding that reorganizes the parties around a new distinction; resolved by one party who controls when and how, it is exploitation through ambiguity
+# CLAIM-tmpisfi1: Resolving an ambiguity that no arrangement yet settles forms a contract, and the same act has two outcomes: resolved jointly, it is a productive misunderstanding that reorganizes the parties around a new distinction; resolved by one party who controls when and how, it is exploitation through ambiguity where the terms it sets fail a declared standard
 
 ## The join
 

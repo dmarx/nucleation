@@ -15,7 +15,7 @@ defeated_if: >-
   A showing that the contracts among an organization's processes are
   always recoverable from its behaviour on the ordinary course (no two
   arrangements with different contracts behave alike until contention,
-  breach or failed assumption), so that including them in its character
+  breach or failed assumption), so that including them in its characteristic structure
   adds nothing to a behavioural profile; or that what differs between such
   arrangements under contention is better described as a difference in
   the processes themselves than in the relations among them.
@@ -127,3 +127,14 @@ what, and on whose terms" (A22). Superseded rather than kept beside it,
 because the two state one proposition, and this one, from the earlier
 turn, carries the separating case. The wording is the assistant's (Claude,
 in this session); adopting it is the owner's call.
+
+## Note of 2026-11-24: the mechanisms behind the same compliance
+
+Also taken in from [CLAIM-tmp1nubb](CLAIM-tmp1nubb.md), which this claim supersedes: compliance
+underdetermines the mechanism that produces it. A22 §16 lists seven that can
+produce the same compliance: internalization, mutual accommodation, strategic
+compliance, dependency, enforcement, constitutive stabilization and
+suppression, and "These mechanisms can coexist". That is why the ordinary
+course does not reveal the contract: the probes above are what tell the
+mechanisms apart. The wording is the assistant's (Claude, in this session).
+
