@@ -507,7 +507,7 @@ why none does.
 - **A20 §16, three proposed definitions** ("contractual organization",
   "organizational contract", "implicit organizational contract"). Their
   content is [CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md)'s marks and [CLAIM-tmp0d1fq](../claims.d/CLAIM-tmp0d1fq.md); at the owner's word of 2026-11-24,
-  TERM-tmplpplx now holds "organizational contract"; the other two words
+  [TERM-tmplpplx](../terms.d/TERM-tmplpplx.md) now holds "organizational contract"; the other two words
   have no term.
 - **A22 §22**, dependency-mediated norm formation and asymmetric
   contractual organization: a map of [CLAIM-tmp18v1o](../claims.d/CLAIM-tmp18v1o.md), [CLAIM-tmpjg5gx](../claims.d/CLAIM-tmpjg5gx.md),
