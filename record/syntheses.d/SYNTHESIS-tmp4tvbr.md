@@ -1,6 +1,7 @@
 ---
 status: Proposed
 title: "The argument filed from the exchange Memes, Contracts, and Systemic Normativity, mapped: from the owner's memes as nucleation sites and as characters of perspectives, through contracts between processes and implicit contracts formed by reliance, to norms stabilized by dependence, exploitation as the asymmetric use of reliance, and the exchange's applications to engineering reliability, American governance, three constitutional theories, legibility, metrics and corporate objectives"
+version: 1
 defeated_if: >-
   A component misstated or misattributed here, with the owner's turns,
   A's (ChatGPT's) candidate syntheses and the assistant's gap fills and
