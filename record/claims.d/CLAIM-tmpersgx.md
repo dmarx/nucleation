@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: "An organization's characteristic structure can include the contracts maintained among its processes, which its ordinary behaviour does not reveal: two arrangements alike on the ordinary course can part when a contract is breached, an assumption fails or a process invokes its standing"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Supersedes CLAIM-tmp1nubb (A22 §15), which stated the same proposition
+    for implicit contracts; its six probes are taken in by a dated note. At
+    the owner's word on duplicates. No change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,6 +52,8 @@ summary: >-
   and held claims. [ARG-tmp2dpcv](../arguments.d/ARG-tmp2dpcv.md) argues it from [CASE-tmptpna1](../cases.d/CASE-tmptpna1.md). The wording
   is A's (ChatGPT, in the exchange 'Memes, Contracts, and Systemic
   Normativity'); adopting it is the owner's call.
+supersedes:
+- CLAIM-tmp1nubb
 ---
 <!-- inactive-ok-file: ARG-tmp2dpcv CASE-tmptpna1 CLAIM-364 CLAIM-tmp7hqtl CLAIM-tmpe6yfm CLAIM-tmpkvzcn — Proposed; cited as filed or held beside this entry, whatever its standing -->
 
@@ -96,3 +105,27 @@ its characteristic structure, rather than to its circumstances.
   correction, while their moral significance remains a distinct question
   requiring independent justification") is the owner's U14 with [CLAIM-075](CLAIM-075.md)
   and [CLAIM-725](CLAIM-725.md), and is not restated here.
+
+## Note of 2026-11-24: supersedes the later statement of the same claim, with its probes
+
+<!-- inactive-ok-file: CLAIM-tmp1nubb — Superseded by this claim on 2026-11-24 -->
+
+At the owner's word on duplicates (2026-11-24: "your discretion how to best
+handle merges, they might not all merit the same resolution strategy"),
+this claim supersedes CLAIM-tmp1nubb, filed from A22 §15, which said the
+same thing for implicit contracts: "An implicit contract cannot be read off
+consistent behaviour". What that entry added is the list of probes that
+part arrangements alike on the ordinary course, now part of this claim:
+
+- interruption of the relied-upon behaviour;
+- a substitute provider;
+- competing demands on the provider;
+- removal of an enforcer;
+- withdrawal of a discretionary contribution;
+- a request to renegotiate.
+
+Only the responses to these show "whether a dependence is regulated, by
+what, and on whose terms" (A22). Superseded rather than kept beside it,
+because the two state one proposition, and this one, from the earlier
+turn, carries the separating case. The wording is the assistant's (Claude,
+in this session); adopting it is the owner's call.

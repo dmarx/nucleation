@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'Memes are characters of perspectives in the representation-theoretic sense: what a meme carries between carriers is a realization-independent invariant by which a perspective is recognized, not a particular content'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    The owner's ruling: both readings of U4 are valid, the value reading
+    (CLAIM-tmp4mk0t) primary; no longer alternatives. No change of title or
+    status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -84,3 +91,17 @@ need.
   ordinarily be a mathematical character. It might instead encode,
   reveal, probe or help reproduce some part of a character-like
   structure." That is a move toward (b), filed as A's in [CLAIM-tmpjitli](CLAIM-tmpjitli.md).
+
+## Note of 2026-11-24: the owner's ruling on the two readings of U4
+
+<!-- inactive-ok-file: CLAIM-tmp4mk0t CLAIM-tmphi3mx CLAIM-tmp590sw — Proposed; the two readings and the claim the owner's ruling adds -->
+
+The owner, 2026-11-24, on the two readings filed as alternatives: "I think
+both readings are valid. I mainly meant 'meme as value', but also
+persistent reproduction of a meme can nucleate related but distinct
+perspectives (e.g. 'death of the author' type phenomena)". So this entry
+is the other reading, which the owner also holds valid. The two are no longer alternatives: CLAIM-tmp4mk0t is the
+primary reading and CLAIM-tmphi3mx stands beside it. The owner's further
+point is filed as CLAIM-tmp590sw, which rests on the primary reading. No
+change of status.
+

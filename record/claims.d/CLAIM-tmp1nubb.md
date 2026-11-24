@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Superseded
 title: 'An implicit contract cannot be read off consistent behaviour: arrangements with the same ordinary interaction differ in how they respond to interruption, a substitute provider, competing demands, removal of an enforcer, withdrawal of a discretionary contribution and a request to renegotiate, and only those responses show whether a dependence is regulated, by what, and on whose terms'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Superseded by CLAIM-tmpersgx, which states the same proposition from
+    the earlier turn (A16) and now carries this entry's six probes. At the
+    owner's word on duplicates.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -47,6 +54,8 @@ summary: >-
   organizational achievement has occurred." The wording is A's (ChatGPT, in
   the exchange 'Memes, Contracts, and Systemic Normativity'); adopting it is
   the owner's call.
+superseded_by:
+- CLAIM-tmpersgx
 ---
 
 <!-- inactive-ok-file: CLAIM-tmp0d1fq CLAIM-tmppx64t CLAIM-364 — Proposed; the owner's theses this develops and the held equivalence claim -->
@@ -133,3 +142,10 @@ contracts, where no declared term says which perturbation to run, A20
 say which achievement sustains it. The earlier entries are the idea's
 home; this one complements them. The wording is the assistant's (Claude,
 in this session); adopting it is the owner's call.
+
+## Note of 2026-11-24: superseded
+
+Superseded by CLAIM-tmpersgx at the owner's word on duplicates
+(2026-11-24). The two state one proposition. That entry, from A16, came
+first and carries the separating case; this one's six probes are now listed
+there. The wording is the assistant's (Claude, in this session).

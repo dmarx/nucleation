@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'Memes are characteristic values of perspectives: each records how a perspective responds to one kind of transformation of a situation, so a family of memes samples a perspective''s character without being it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    The owner's ruling: both readings of U4 are valid, the value reading
+    (CLAIM-tmp4mk0t) primary; no longer alternatives. No change of title or
+    status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -75,3 +82,17 @@ whole character.
 - **A5's development** is [CLAIM-tmpjitli](CLAIM-tmpjitli.md), and A6 uses this reading when it
   has two perspectives share a meme and differ in character
   ([CLAIM-tmpgc8vi](CLAIM-tmpgc8vi.md)).
+
+## Note of 2026-11-24: the owner's ruling on the two readings of U4
+
+<!-- inactive-ok-file: CLAIM-tmp4mk0t CLAIM-tmphi3mx CLAIM-tmp590sw — Proposed; the two readings and the claim the owner's ruling adds -->
+
+The owner, 2026-11-24, on the two readings filed as alternatives: "I think
+both readings are valid. I mainly meant 'meme as value', but also
+persistent reproduction of a meme can nucleate related but distinct
+perspectives (e.g. 'death of the author' type phenomena)". So this entry
+is the reading the owner mainly meant. The two are no longer alternatives: CLAIM-tmp4mk0t is the
+primary reading and CLAIM-tmphi3mx stands beside it. The owner's further
+point is filed as CLAIM-tmp590sw, which rests on the primary reading. No
+change of status.
+
