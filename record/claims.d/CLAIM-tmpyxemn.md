@@ -16,7 +16,7 @@ tags:
 date: '2026-11-24'
 line:
 - records-of-inquiry
-grounds:
+rests_on:
 - CLAIM-tmpu5cap
 - CLAIM-tmpj4pw3
 - CLAIM-tmpjg5gx
