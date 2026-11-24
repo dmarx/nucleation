@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: "The argument filed from the exchange Memes, Contracts, and Systemic Normativity, mapped: from the owner's memes as nucleation sites and as characters of perspectives, through contracts between processes and implicit contracts formed by reliance, to norms stabilized by dependence, exploitation as the asymmetric use of reliance, and the exchange's applications to engineering reliability, American governance, three constitutional theories, legibility, metrics and corporate objectives"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-24'
@@ -13,6 +13,13 @@ history:
     (CLAIM-tmp7hqtl), a dropped scope (CLAIM-tmpq1lyz), the target of
     CLAIM-tmpj4pw3's correction, a quotation, the manuscript's turns, and
     two items under Not stated. Kept Proposed.
+- version: 3
+  date: '2026-11-24'
+  note: >-
+    Places the 25 joins of the manuscript governance-of-becoming, Part I,
+    as an independent reader tested them under ADR-075: two passed and are
+    integrated (CLAIM-tmpu77ve, CLAIM-tmp9ia3w), the rest are listed under
+    Not stated on the record with their verdicts. No other change.
 defeated_if: >-
   A component misstated or misattributed here, with the owner's turns,
   A's (ChatGPT's) candidate syntheses and the assistant's gap fills and
@@ -64,6 +71,8 @@ bears_on:
 - QUESTION-128
 - QUESTION-071
 integrates:
+- CLAIM-tmpu77ve
+- CLAIM-tmp9ia3w
 - CLAIM-tmp1ng5k
 - CLAIM-tmphi3mx
 - CLAIM-tmp4mk0t
@@ -550,6 +559,37 @@ why none does.
   standing, legibility, reliance). The links the record holds are those
   in the account above; no entry derives the applications at U23 to U30
   from the account of memes at U1 to U9.
+
+
+### The joins of the manuscript governance-of-becoming, Part I
+
+The drafts of Articles 1 to 3 (scratch/manuscripts/governance-of-becoming/)
+closed with 25 joins. An independent reader tested each under ADR-075 on
+2026-11-24 (the review of that date, Part B). Two passed and are integrated
+above as claims: CLAIM-tmpu77ve (Article 2's J3, narrowed: an implicit
+contract's obligation held by reliance where the provider cannot cheaply
+exit) and CLAIM-tmp9ia3w (Article 1's J1.1, corrected: removing the
+supervisor is the one maintenance-provenance test that does not part
+conditioned from negotiated coordination). The others:
+
+- **Restatements of held entries** (14): J1.2 (TERM-100, CASE-191),
+  J1.3 (CASE-191 with CLAIM-522, for a scalar), J1.5 (CLAIM-417, CLAIM-329,
+  CLAIM-132), J1.7 (a conjunction), JR1 (CLAIM-tmp0d1fq), JR2 (CLAIM-430's
+  note), and J3.1, J3.2, J3.3, J3.6, J3.8, J3.9, J3.11, J3.12 as the draft
+  says. A restatement adds nothing to place.
+- **Failed** (7): J1.6, trivial once a representation is fixed;
+  Article 2's J1, a gloss of the undefined "coordinated reliance"; J2,
+  trivial one way and rejected by the draft the other; J4, matched glosses,
+  better as an illustrates link, and it exposes a conflict between
+  CASE-tmptpna1 and TERM-tmpgiy6r on CLAIM-283's "granted authority"; J3.4,
+  stated two ways, one of them a misreading of CLAIM-760; J3.5, already
+  CLAIM-571's note for its peak half, trivial for its directed half; J3.7,
+  a restatement of CLAIM-tmp2jhc1. J3.10 is accurate but has no route; it is
+  a pointer for LEAD-tmpeo8wq.
+- **Misstated a component** (2): J1.1 as drafted (TERM-100's maintenance
+  sense; corrected and filed as CLAIM-tmp9ia3w) and J1.4 (CLAIM-604 excludes
+  other kinds of state-dependent uptake; CASE-189's construction has no
+  supply variable).
 
 ## What it does not say
 
