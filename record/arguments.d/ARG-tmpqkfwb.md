@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'The persistence of race-based power in the United States after abolition, as evidence, supports that norms can outlast their original justification and end discontinuously, and does not show that the reliance loop of CLAIM-tmpjg5gx is what maintained it'
+title: 'The persistence of race-based power in the United States after abolition, as evidence, supports that norms can outlast their original justification and end discontinuously, and does not show that the reliance loop of the norm-stabilization model is what maintained it'
 version: 1
 form: evidence
 grounds:
@@ -26,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmp3euq0 CLAIM-tmp8l5s9 CLAIM-tmpjg5gx — Proposed or new; the case, the claim it supports, the claim it does not settle, and the lead -->
 
-# ARG-tmpqkfwb: The persistence of race-based power in the United States after abolition, as evidence, supports that norms can outlast their original justification and end discontinuously, and does not show that the reliance loop of [CLAIM-tmpjg5gx](../claims.d/CLAIM-tmpjg5gx.md) is what maintained it
+# ARG-tmpqkfwb: The persistence of race-based power in the United States after abolition, as evidence, supports that norms can outlast their original justification and end discontinuously, and does not show that the reliance loop of the norm-stabilization model is what maintained it
 
 ## The argument
 

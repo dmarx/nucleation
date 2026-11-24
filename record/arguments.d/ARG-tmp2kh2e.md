@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'CASE-191''s pulse-installed capacity and CASE-123''s one-time perturbation, as existence proofs, show that an outside influence on how an organization forms can leave an organization the target then maintains itself, and so carry the possibility half of the claim that reflexive control can act on formation; they do not show that a transmissible cultural expression can be the installing influence'
+title: 'A constructed pulse that installs a capacity and a one-time perturbation, as existence proofs, show that an outside influence on how an organization forms can leave an organization the target then maintains itself, and so carry the possibility half of the claim that reflexive control can act on formation; they do not show that a transmissible cultural expression can be the installing influence'
 version: 1
 form: existence
 rests_on:
@@ -33,7 +33,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmpp0ufw — Proposed; the claim this argument concludes, filed with it -->
 
-# ARG-tmp2kh2e: [CASE-191](../cases.d/CASE-191.md)'s pulse-installed capacity and [CASE-123](../cases.d/CASE-123.md)'s one-time perturbation, as existence proofs, show that an outside influence on how an organization forms can leave an organization the target then maintains itself, and so carry the possibility half of the claim that reflexive control can act on formation; they do not show that a transmissible cultural expression can be the installing influence
+# ARG-tmp2kh2e: A constructed pulse that installs a capacity and a one-time perturbation, as existence proofs, show that an outside influence on how an organization forms can leave an organization the target then maintains itself, and so carry the possibility half of the claim that reflexive control can act on formation; they do not show that a transmissible cultural expression can be the installing influence
 
 ## The inference
 
