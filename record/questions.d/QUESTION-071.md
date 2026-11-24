@@ -367,3 +367,32 @@ The question stays Open; whether these answer it is the owner's call.
 ## Note of 2026-11-22: an evaluator captured with nothing in its own structure showing it
 
 In [LEAD-015](../leads.d/LEAD-015.md)'s two-institution model ([CASE-tmpd80em](../cases.d/CASE-tmpd80em.md)), an evaluator whose conferral reads no interpretation keeps its authority exactly balanced while its reading is held by a loop through the party it evaluates ([CLAIM-tmpz8q70](../claims.d/CLAIM-tmpz8q70.md)). Its present structure, procedure and allocation of authority, shows nothing; what shows it is the state of the pair. A model case of an organization governed without its present structure showing it, in which telling it apart needs a record of the other institution's state as well as its own. The question is unchanged.
+
+## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", A7–A10
+
+<!-- inactive-ok-file: CLAIM-tmpp0ufw CLAIM-tmp5tjtg LEAD-tmpuxizu — Proposed or Open; filed from the exchange of 2026-11-24 -->
+
+A7 §6 restates this question's premise for the character of a perspective:
+"χ_{P_A} = χ_{P_B} does not imply that the perspectives share formation
+provenance", and "Even a complete characterization of present organization
+could fail to establish whether it arose through autonomous development,
+ordinary cultural inheritance or an externally directed intervention." That
+is CLAIM-132 (a character classifies kinds) with CASE-191's result, and
+adds no answer. Two further points bear on the question.
+
+- **A cultural route to manipulation without a present trace.** A7's
+  formation route of reflexive control, CLAIM-tmpp0ufw (A's, Proposed),
+  is a manipulated will whose installing influence was an expression the
+  target took up and then maintained. LEAD-tmpuxizu would build one.
+- **What the history must hold.** A7 §6: "the historical conditions
+  through which a perspective was formed may themselves be unavailable to
+  that perspective. This makes preservation of provenance a potential
+  epistemic resource for reflexive self-governance." A9 §VII: a
+  characterization "might become increasingly accurate as a description of
+  the present while becoming increasingly misleading as an explanation of
+  how the present arose." Both say the record the question asks for is a
+  record of formation, which TERM-100 already names.
+
+A8–A10 propose that the capacity to revise one's own governing relations
+can itself be seeded from outside (CLAIM-tmp5tjtg), which raises this
+question for that capacity too. The question stays Open.

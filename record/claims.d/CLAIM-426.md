@@ -163,3 +163,41 @@ telling which judgements' circulation helps make them true.
 
 ## Note of 2026-11-19: Krohn and Weninger, read
 A parallel, close to evidence in form ([NOTE-2140](../notes.d/NOTE-2140.md)): the chance that a proposed subreddit is created rises with how often it is linked, saturating near a third at about twenty links. The links are proposals or jokes, not judgements, and the result is correlational.
+
+## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", A8 §8 and U9/A10
+
+<!-- inactive-ok-file: CLAIM-tmpvic6m CLAIM-tmpyp5bu CLAIM-tmpnws9d — Proposed; filed from the exchange of 2026-11-24 -->
+
+A8 §8 and the owner's U9 ("relate to hyperstition") brought this claim
+into the exchange. A10 reads it and its sources accurately: Land's
+definition as NOTE-1378 quotes it, and NOTE-1378's finding that Land
+leaves the conditions unstated. Its precedents table (Merton, Soros, Land,
+MacKenzie) is the claim's own grounds.
+
+- **A condition, in a model.** The note of 2026-10-30 says the read
+  sources "give no condition for telling which judgements' circulation
+  helps make them true". A10 §4 gives one for a linear model of salience
+  and realization: the loop amplifies exactly when αβ > μν, so the
+  property belongs to the coupling and not to the judgement
+  (CLAIM-tmpvic6m, A's, checked). It names what would have to be measured;
+  it does not tell, in a case, which judgements are of this kind. The
+  open item is narrowed, not closed.
+- **Realization that outlasts its judgement.** A10 §9 separates a
+  realization that comes to maintain itself from one that needs continued
+  circulation (CLAIM-tmpyp5bu, A's); the assistant's CLAIM-tmpnws9d gives
+  the condition in the model. This bears on the claim's reading of
+  visibility as evidence about the future: once realization maintains
+  itself, further circulation is no longer evidence of what it will bring
+  about.
+- **Present accuracy, past grounds.** A8 §8: "A characterization can be
+  causally successful while being epistemically unjustified"; A10 §6's
+  "agnotological closure of hyperstitional feedback": "the causal
+  consequences of a representation become evidence for it, while the
+  formative role of the representation becomes increasingly illegible."
+  Both are the body's "evidence only of what the judgement's spread will
+  do, not of whether it was right", with CLAIM-402 and CASE-141. A10 §6's
+  table, which separates a changed reality (hyperstition) from a changed
+  reading of evidence (interpretive capture, confirmation bias) and from
+  counterperformativity, keeps apart what CASE-141 shows together.
+
+The claim is unchanged.

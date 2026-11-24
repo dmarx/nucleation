@@ -356,3 +356,35 @@ through a channel G can neither rewrite nor refuse, restores accuracy
 ([CLAIM-tmpvqmwc](../claims.d/CLAIM-tmpvqmwc.md)). Both are constructions, and neither invents a question it
 could not ask: the candidates for revision are features already sensed. The
 question stays Open.
+
+## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", A7 §9, A9 §X and A10 §11
+
+Three turns of the exchange apply its account to the record itself, and
+each asks this question's second part of it.
+
+- A7 §9: the record's schemes and conventions are at once "Memetic
+  carriers of the inquiry's characteristic organization", "Nucleation
+  sites", "Constraints on which contributions become legible" and
+  "Potential sources of organized ignorance". With AI assistants, "A
+  conceptual distinction proposed externally could become integrated into
+  the inquiry's subsequent organization and maintained through its own
+  procedures"; the safeguard is whether the inquiry can "distinguish
+  externally supplied structures from established conclusions", and "the
+  presence of those mechanisms does not by itself establish their
+  effectiveness."
+- A9 §X: "Can it distinguish conceptual generativity from self-confirming
+  conceptual entrenchment?"
+- A10 §11: "If Nucleation's vocabulary becomes sufficiently generative, the
+  inquiry may increasingly encounter phenomena organized through that
+  vocabulary—including phenomena within its own research apparatus." "**The
+  inquiry must distinguish discovering its object from participating in
+  the construction of its object.**"
+
+The last is CLAIM-402's warning (a category's own use producing the
+regularities that confirm it) turned on the record's vocabulary, with
+CLAIM-476's constitutive reading of its apparatus. A7's point about
+assistants is a question of formation provenance (TERM-100) for the
+record's own distinctions; the record's voice rules, which file an
+assistant's ideas as Proposed in its own voice, are the mechanism A7
+names, and nothing filed tests whether they work. None of the three
+proposes a test. The question stays Open.
