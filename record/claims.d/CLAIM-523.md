@@ -327,3 +327,36 @@ Parallel, uncited. A48 §10 and §13 of the owner's manuscript ([ADR-tmpsfjxu](.
 state this claim's three achievements, detection, authority and correction
 within a deadline, including a formally contestable institution that cannot
 correct in time, without citing it; it is a member of the work.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A11
+
+A11 §13 reads the bias blind spot through the achievements this claim
+separates, citing it and CLAIM-424 correctly: "Someone can know that
+confirmation bias exists while continuing to exhibit it. Someone can
+recognize their own confirmation bias while lacking the practical means to
+correct it." Debiasing, it concludes, "may require changes to
+representational apparatuses, evidence access, feedback channels, practical
+incentives and authority relations", not knowledge of biases alone. Its
+proposed test, "Provide metacognitive knowledge without corrective
+resources | Recognition improves without necessarily producing
+organizational correction" (A11 §15), would test this claim's separation of
+legibility from efficacy in the psychology of debiasing. Bearing: an
+application with a proposed test. The claim is unchanged.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A15
+
+A15 §10 restates this claim ("Nucleation's Active CLAIM-523 distinguishes
+legibility, volitional efficacy and correctability", correctly cited) and
+draws the pathway with two further stations: "Normative evaluation"
+between legibility and efficacy, whose failure is "Misrecognition", and
+"Maintained answerability" after correctability ("The corrective pathway
+remains available"), whose failure is "Self-immunization". The second is
+held in CLAIM-624's second-order duty of answerability and CLAIM-714's
+dismantled capability; the first separates recognizing a discrepancy from
+weighing its significance correctly, which this claim folds into
+legibility. "Justification must be established independently of the
+pathway's success" restates the claim's last clause. Bearing: a
+restatement with a proposed refinement of the first stage. The claim is
+unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+<!-- inactive-ok-file: CLAIM-714 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->

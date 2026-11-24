@@ -134,3 +134,17 @@ which this claim rests, and this claim is marked interpretive. Its title
 already states the general form, so it was kept; what changed is that its
 psychological support is a separate claim with its own warrant and
 standing.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A11
+
+<!-- inactive-ok-file: CLAIM-tmpggu4v — Proposed; filed from the exchange of 2026-11-24 -->
+
+A11 §8 reads the framing effect as this claim reads a frame: "framing may
+alter the activated evaluative regime, not simply distort an otherwise
+unchanged computation", and "Changing the representation can change the
+organization that interprets it." It adds a distinction this claim does not
+draw: "The framework should consequently distinguish transient frame
+activation from durable perspectival transformation. A one-off framing
+effect does not establish that a new perspective has formed." That is filed
+with the anchoring mechanism in CLAIM-tmpggu4v (A's, Proposed). Bearing: a
+parallel, extended to evaluation. The claim is unchanged.

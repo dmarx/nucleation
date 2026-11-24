@@ -1,0 +1,35 @@
+---
+status: Deferred
+status_note: 'Registered 2026-11-24 from A11 of the exchange "Memes, Contracts, and Systemic Normativity", which names it; not sought or read.'
+title: 'Many Labs 2: Investigating Variation in Replicability Across Samples and Settings'
+version: 1
+history:
+- version: 1
+  date: '2026-11-24'
+  note: >-
+    Filed, not read. Registered from A11 of the exchange "Memes,
+    Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24). The record
+    was searched by title, first author and DOI and holds no entry for it.
+    Title, authors, venue and DOI checked against Crossref on 2026-11-24. The earliest exact date Crossref gives, online.
+tags:
+- psychometrics
+- philosophy-of-science
+date: '2026-11-24'
+published: '2018-12-24'
+doi: '10.1177/2515245918810225'
+first_author: 'Klein'
+keywords: ['replication', 'heterogeneity', 'many labs']
+implementations: []
+summary: >-
+  Klein, Vianello, Hasselman, Adams and 186 others (2018), Advances in Methods and Practices in Psychological Science 1(4):443–490. Cited by A11 of the exchange "Memes, Contracts, and Systemic
+  Normativity" (ChatGPT) for the warning that reported psychological effects are not all robust, universal or mechanistically homogeneous. It bears on LEAD-tmpr4xwc, whose test of co-varying biases needs bias measures whose replicability is known. The record holds Many Labs 4 (LIT-1796) but not this one. What A11 says of it is unverified until
+  read.
+---
+
+# LIT-tmp7lswl: Many Labs 2: Investigating Variation in Replicability Across Samples and Settings
+
+Klein, Vianello, Hasselman, Adams and 186 others (2018), Advances in Methods and Practices in Psychological Science 1(4):443–490.
+
+## Key takeaways
+
+- Not read.

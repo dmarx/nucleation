@@ -226,3 +226,19 @@ on, draws the attention and credit that then confirm the standing, "a
 self-confirming process" (p. 62). It is a further instance of this
 claim's category whose use produces the regularities that confirm it, in
 recognition rather than in kinds. Status unchanged; no edge.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A11
+
+<!-- inactive-ok-file: CLAIM-426 — Proposed; cited as A11 cites it -->
+
+A11 §11 cites this claim, with CLAIM-426, for bias "participating in the
+production of reality", where "The attribution can become accurate while
+its original evidential grounds remain inadequate"; the citation is right.
+A11 §14 applies the same structure, without citing it, to ecological
+rationality: "A cognitive organization may appear well adapted to its
+environment partly because it has transformed that environment to
+accommodate its existing constraints." That is this claim's condition for a
+heuristic: its fit to an environment its own use helped make warrants
+little about its adaptation unless the evidence of fit does not pass
+through that use. Bearing: an extension to heuristics, held here rather
+than filed apart (ADR-072). The claim is unchanged.

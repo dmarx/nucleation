@@ -191,3 +191,15 @@ characterized functionally. Every case and estimate in it is read as
 conduct a corporation's appraisals and readiness would produce, which this
 claim licenses; none tests the licence. No relation is written. The claim
 is unchanged.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A12
+
+A12 §13 cites this claim and QUESTION-053 correctly and lists institutional
+candidates for functional affect: alarm as "Mobilization of resources
+toward perceived threats", frustration as "Maintained demands that cannot
+be jointly realized", ambivalence as "Competing rankings without a
+prevailing integrative ordering", relief as "Progress relative to a
+protective concern's reference course". It keeps "functional organization,
+emotional synchronization and collective phenomenal experience" apart.
+Bearing: illustration; the separation this claim needs is not advanced. No
+relation is written. The claim is unchanged.
