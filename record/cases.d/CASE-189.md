@@ -292,16 +292,16 @@ wording is the assistant's (Claude, in this session).
 <!-- inactive-ok-file: CLAIM-tmpv6tw7 — Proposed; the computation that closes the gap, cited with its standing -->
 
 The note of 2026-11-24 recorded that a supply parameter added to
-Construction 2's production terms would test CLAIM-604's signatures, and
+Construction 2's production terms would test [CLAIM-604](../claims.d/CLAIM-604.md)'s signatures, and
 that it had not been computed. It has been, for the manuscript
 governance-of-becoming, Article 1's G1.2, in
 `scratch/manuscripts/governance-of-becoming/analysis/case189_supply_parameter.py`
 (output of 2026-11-25 beside it; the script first reproduces this case's
 own figures, the fold at d* = 0.6908 among them, and prints "checks pass").
-The result is CLAIM-tmpv6tw7 (Proposed, demonstrated, the assistant's):
+The result is [CLAIM-tmpv6tw7](../claims.d/CLAIM-tmpv6tw7.md) (Proposed, demonstrated, the assistant's):
 
 - with a supply multiplying the production terms, Construction 2 shows all
-  three of CLAIM-604's signatures: an ignition threshold with the supply
+  three of [CLAIM-604](../claims.d/CLAIM-604.md)'s signatures: an ignition threshold with the supply
   on, a supply fold below which the connector goes out rather than
   declines (s* = 0.649 at d = 0 when the supply also feeds the connector),
   and an outage limit (about 1.5 time units) after which restoring the
@@ -313,9 +313,9 @@ The result is CLAIM-tmpv6tw7 (Proposed, demonstrated, the assistant's):
 
 So the gap is closed: the signatures appear once a supply is put in, and
 the misreading the note of 2026-11-24 corrected stays corrected, since
-the case as filed has no supply. CLAIM-606's limit still holds: the
+the case as filed has no supply. [CLAIM-606](../claims.d/CLAIM-606.md)'s limit still holds: the
 signatures do not identify upkeep drawn in through the structure's own
-state; withdrawing the supply does. CLAIM-tmpv6tw7 has been checked by its
+state; withdrawing the supply does. [CLAIM-tmpv6tw7](../claims.d/CLAIM-tmpv6tw7.md) has been checked by its
 filer only. Bearing: no change to the case, its title or its status. The
 wording is the assistant's (Claude, in this session); adopting it is the
 owner's call.
