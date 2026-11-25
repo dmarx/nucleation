@@ -16,8 +16,6 @@ history:
     record was not compared. Quotations checked by script against the
     extracted text, with mathematical italic letters normalized to plain
     ones.
-tags:
-- logic
 date: '2026-11-22'
 summary: >-
   Bidirectional typing splits typing into checking, where context, term
