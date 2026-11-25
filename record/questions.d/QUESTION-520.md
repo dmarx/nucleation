@@ -23,6 +23,7 @@ summary: >-
   [TERM-085](../terms.d/TERM-085.md) (finding and carrying out a correction share one deadline).
   A52's answer is [CLAIM-1157](../claims.d/CLAIM-1157.md). Filed in the owner's voice.
 ---
+<!-- pattern-ok: answered_but_open — the answer CLAIM-1157 went Active on 2026-11-25; the question is the owner's, so marking it Answered is the owner's call (note of 2026-11-25) -->
 <!-- inactive-ok-file: CASE-386 — Proposed; the answer and the entries filed with this question on 2026-11-23 -->
 
 # QUESTION-520: Since asking a question and answering it are each resource-bounded, do the two compete for related resources, or is the coupling between them, through time as a shared resource, already shown?
@@ -55,3 +56,15 @@ inquiry should go is [CLAIM-1008](../claims.d/CLAIM-1008.md), and what it does t
 questions an organization can both pose and answer is [CLAIM-1025](../claims.d/CLAIM-1025.md). The
 owner's example at U28, a proponent who must justify an idea before time
 goes to it, is [CASE-386](../cases.d/CASE-386.md).
+
+## Note of 2026-11-25: the answer is Active
+
+[CLAIM-1157](../claims.d/CLAIM-1157.md), A52's answer, went Active on 2026-11-25 under the owner's
+delegation of 2026-11-24, after a rerun by a second session reproduced it
+and [CLAIM-1114](../claims.d/CLAIM-1114.md), its premise, was promoted (dmarx/nucleation#813 and
+#814). Under [ADR-049](../decisions.d/ADR-049.md) a question with an Active answer is Answered, or is
+split if part of it is still open. The question is the owner's, so its
+status is left Open for the owner to set: Answered, or split if the owner
+holds that "time as an influential shared resource" asks more than
+CLAIM-1157 settles. The wording is the assistant's (Claude, in this
+session); adopting it is the owner's call.
