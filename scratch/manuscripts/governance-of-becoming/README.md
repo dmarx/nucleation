@@ -449,17 +449,7 @@ three.
 7. Statuses only the owner can change: TERM-124, whose summary records the
    owner's acceptance on 2026-11-13 and whose status is Proposed; LEAD-108,
    Open although CASE-326 reports its run.
-8. **A51's order for the series.** A51 renumbers the series (Article 1
-   "The Identity of Organization", Article 2 "Regulation as the Governance
-   of Possibility", Article 3 "The Contracts We Become"), retitles several
-   articles, and makes the manuscript governance-of-possibility the series'
-   Article 2: "This is the existing manuscript, not a proposal for a
-   replacement." Whether the work takes that order, and whether
-   governance-of-possibility becomes one of its articles, is the owner's.
-   No `works` field was changed. The lead's lean: keep the series' order
-   for now, and cite governance-of-possibility's results where Part I uses
-   them. A51 §6's companion paper, "Inquiry as Infrastructure", is the
-   owner's call too.
+8. *Closed: see below (the owner kept A49's order, 2026-11-25).*
 9. **The three accounts the standing review leaves to the owner**:
    SYNTHESIS-124, SYNTHESIS-111 and SYNTHESIS-106, Current after a review
    of their maps; and SYNTHESIS-tmp4tvbr, Current once its mapping is
@@ -515,6 +505,7 @@ three.
 
 ## Closed since the last list
 
+- **A51's order** (2026-11-25): "keep A49's order; continue with Part II". The series keeps A49's fourteen articles in five parts; governance-of-possibility stays a work of its own, and Part I cites its results where it uses them. A51 stays a motivating draft for what the record has already done (step 3a), not for the order. A51 §6's companion paper, "Inquiry as Infrastructure", is not taken up.
 - **U4's readings** (#787): "I think both readings are valid. I mainly
   meant 'meme as value'". CLAIM-tmp4mk0t is primary and CLAIM-tmphi3mx
   stands beside it; they are no longer alternatives. The owner's further
