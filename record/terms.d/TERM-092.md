@@ -177,8 +177,8 @@ definition is unchanged; the choice is the owner's.
 
 <!-- inactive-ok-block: CLAIM-1009 TERM-159 — the owner's thesis and the deferred alternative -->
 At the owner's ruling of 2026-11-25, "keep TERM-092 and add the joint term
-beside it for now", this term is kept as it stands and TERM-160, the joint
-inquiry frontier, is Active beside it. TERM-159, which would have revised
-this term to the joint object, is Deferred. The owner's U30 (CLAIM-1009)
+beside it for now", this term is kept as it stands and [TERM-160](TERM-160.md), the joint
+inquiry frontier, is Active beside it. [TERM-159](TERM-159.md), which would have revised
+this term to the joint object, is Deferred. The owner's U30 ([CLAIM-1009](../claims.d/CLAIM-1009.md))
 wanted "inquiry frontier" for the joint object; for now the name stays here,
 with the askable set.

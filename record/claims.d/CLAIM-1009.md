@@ -76,9 +76,9 @@ object is not two frontiers listed side by side. The choice is the owner's.
 
 Proposed, the owner's.
 
-## Note of 2026-11-25: the ruling on TERM-092
+## Note of 2026-11-25: the ruling on [TERM-092](../terms.d/TERM-092.md)
 
-At the owner's ruling of 2026-11-25, "keep TERM-092 and add the joint term
+At the owner's ruling of 2026-11-25, "keep [TERM-092](../terms.d/TERM-092.md) and add the joint term
 beside it for now", the joint object this claim asks for is named by
-TERM-160, Active, beside TERM-092, which keeps its name for now. TERM-159,
-the revision of TERM-092, is Deferred.
+[TERM-160](../terms.d/TERM-160.md), Active, beside [TERM-092](../terms.d/TERM-092.md), which keeps its name for now. [TERM-159](../terms.d/TERM-159.md),
+the revision of [TERM-092](../terms.d/TERM-092.md), is Deferred.
