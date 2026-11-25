@@ -142,7 +142,7 @@ The motivating draft's "crucial additional requirement" is therefore the record'
 
 ### 7.5 Governance as allocation over time
 
-*Added 2026-11-25 from the Part I draft of governance-of-becoming (old §3.5.1, with the entry its §3.4.2 cites); standings as of 2026-11-25.*
+*Added 2026-11-25 from governance-of-becoming's superseded file 03 (A49's Article 3, `superseded/03-cost-of-becoming.md`; old §3.5.1, with the entry its §3.4.2 cites); standings as of 2026-11-25.*
 
 The architecture of §§7.1–7.4 runs on resources, and the exchange behind this paper said how they are divided over time. ChatGPT's A52 §5, in the same exchange, "Explain First Contact RL": "Organizational governance is partly the intertemporal allocation of scarce resources among inquiry, response and the upkeep of the structures that make both possible, slow organizational modes arise partly as ways of amortizing inquiry and coordination costs, and adaptive governance must keep the capacity to reallocate between answering existing questions and learning to ask and answer new ones" (CLAIM-1060, Proposed, interpretive, ChatGPT's). The claim's summary says its mechanism is already held: "stored specification moves inquiry cost away from the moment a response is urgent and also makes revision costly", which is CLAIM-475 (Active, interpretive; the owner's thesis, its stored-inquiry clause drawn by ChatGPT at A17 and A18 of the exchange of 2026-10-27) and CLAIM-761 (Active, interpretive; the owner's thesis, in ChatGPT's wording), with TERM-085's note on Hutchins, that preparation "moves the cost of search ahead of the deadline" (§10.3). What A52 adds is the governance reading.
 
