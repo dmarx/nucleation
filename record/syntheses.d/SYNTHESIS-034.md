@@ -3,7 +3,16 @@ number: 34
 status: Proposed
 formerly:
 - SYNTHESIS-tmptiwlg
-title: 'What sets when a network acquires a structure, and whether acquisition is one kind of event or several, is open: the record holds partial answers each proved or measured in one setting, refinements asking whether each survives another start, optimizer, input law or architecture, a question whether training''s order follows the posterior''s order in sample size, and a question whether circuits forming over shared features predict held-out training interventions, which the line''s frustration, concept and persona entries cite'
+title: 'When networks acquire structure is still open'
+statement: >-
+  What sets when a network acquires a structure, and whether acquisition is
+  one kind of event or several, is open: the record holds partial answers
+  each proved or measured in one setting, refinements asking whether each
+  survives another start, optimizer, input law or architecture, a question
+  whether training's order follows the posterior's order in sample size, and
+  a question whether circuits forming over shared features predict held-out
+  training interventions, which the line's frustration, concept and persona
+  entries cite
 version: 3
 history:
 - version: 2
@@ -60,7 +69,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CASE-271 CASE-272 CASE-274 CASE-193 CLAIM-263 CLAIM-367 CLAIM-555 THEORY-200 THEORY-802 THEORY-967 THEORY-1016 THEORY-1353 — Proposed; components, citations and the decisions this account follows, with their standing -->
 
-# SYNTHESIS-034: What sets when a network acquires a structure, and whether acquisition is one kind of event or several, is open: the record holds partial answers each proved or measured in one setting, refinements asking whether each survives another start, optimizer, input law or architecture, a question whether training's order follows the posterior's order in sample size, and a question whether circuits forming over shared features predict held-out training interventions, which the line's frustration, concept and persona entries cite
+# SYNTHESIS-034: When networks acquire structure is still open
 
 *A part account of the learned-structure line ([ADR-083](../decisions.d/ADR-083.md)); the line's account is built over it and its sibling parts. Every component is a question; the part holds no claim.*
 

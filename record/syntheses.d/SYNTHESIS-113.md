@@ -3,7 +3,13 @@ number: 113
 status: Proposed
 formerly:
 - SYNTHESIS-tmph7fc9
-title: 'A capacity kept for rare use decays with disuse and is shown only by a retention test or the contingency it serves, a correction recorded is not a capacity maintained, support that does work a capacity is learned from can erode it, and where a capacity''s maintenance comes from is shown only by intervention on its production'
+title: 'Kept capacities decay unseen without tests'
+statement: >-
+  A capacity kept for rare use decays with disuse and is shown only by a
+  retention test or the contingency it serves, a correction recorded is not
+  a capacity maintained, support that does work a capacity is learned from
+  can erode it, and where a capacity's maintenance comes from is shown only
+  by intervention on its production
 version: 1
 defeated_if: >-
   A component misstated or misattributed here, with its scope conditions;
@@ -36,7 +42,7 @@ integrates:
 ---
 <!-- inactive-ok-file: CLAIM-828 CLAIM-837 CLAIM-807 — Proposed or Open; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" and cited in the note of that date -->
 
-# SYNTHESIS-113: A capacity kept for rare use decays with disuse and is shown only by a retention test or the contingency it serves, a correction recorded is not a capacity maintained, support that does work a capacity is learned from can erode it, and where a capacity's maintenance comes from is shown only by intervention on its production
+# SYNTHESIS-113: Kept capacities decay unseen without tests
 
 *A thematic account, across lines, of principle P7 of the owner's manuscript (scratch/manuscripts/from-obstruction-to-reorganization/, §7.1, on its own branch). Filed at the owner's direction on 2026-11-20 after an independent reader's audit found the principle to be a conjunction of entries the record holds rather than a claim with content of its own ([ADR-075](../decisions.d/ADR-075.md), step 5; workbench entry of this date). It adds nothing; its standing is its components'. Its scope is a theme, not a line or a part of one, which [ADR-083](../decisions.d/ADR-083.md)'s one account per scope does not anticipate.*
 
