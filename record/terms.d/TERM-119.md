@@ -162,7 +162,7 @@ architecture? Can the inquiry preserve alternative perspectives that it
 does not currently endorse?" The first is near [QUESTION-458](../questions.d/QUESTION-458.md) (schema change
 coupled to recorded decision); the third is held by the record's
 alternatives practice. Bearing: an application of the term, with
-questions about the record's own operational standing ([TERM-tmpgiy6r](TERM-tmpgiy6r.md)).
+questions about the record's own operational standing ([TERM-174](TERM-174.md)).
 The term is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
-<!-- inactive-ok-file: SYNTHESIS-114 TERM-tmpgiy6r — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->
+<!-- inactive-ok-file: SYNTHESIS-114 TERM-174 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->

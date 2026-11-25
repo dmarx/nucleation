@@ -212,7 +212,7 @@ of the original demands needs a change of model. No status change.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A11 and A13
 
-<!-- inactive-ok-file: LIT-tmpa3t7o — Deferred; registered from the exchange of 2026-11-24, unread -->
+<!-- inactive-ok-file: LIT-3215 — Deferred; registered from the exchange of 2026-11-24, unread -->
 
 The exchange's integrating principle comes in two wordings. A11 §18: "A
 constraint does not merely prevent something from occurring. By
@@ -227,5 +227,5 @@ spends elsewhere (A11 §9, "A heuristic makes some cognitive trajectories
 more realizable by making others less available"), and natural frequencies
 change the representation in which an inference is computed ("The
 representational conditions under which the inference becomes realizable
-have changed", A11 §9; [LIT-tmpa3t7o](../literature.d/LIT-tmpa3t7o.md)). Bearing: this claim qualifies the
+have changed", A11 §9; [LIT-3215](../literature.d/LIT-3215.md)). Bearing: this claim qualifies the
 principle; no entry is filed for the principle. The claim is unchanged.

@@ -23,4 +23,4 @@
   circle between evidence and permission; eight works registered
   Deferred (Hart, Rawls, Scheffler, Dworkin, Centola and Macy, Sperber,
   Coase, Williamson); and dated notes on thirteen held entries, with
-  [CLAIM-tmp7rl3d](record/claims.d/CLAIM-tmp7rl3d.md)'s `complements` added. No status changes.
+  [CLAIM-1240](record/claims.d/CLAIM-1240.md)'s `complements` added. No status changes.

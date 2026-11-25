@@ -103,7 +103,7 @@ A45 §VII restates the condition as "Under nonnegative coupling, with \(\alpha,\
 A11 §6 cites this claim, with [CLAIM-340](CLAIM-340.md) and [CASE-123](../cases.d/CASE-123.md), for a model of
 confirmation bias in which belief tilts which evidence is sampled, q(y | ℓ)
 ∝ p(y)exp(κℓy), and illustrates it with a map whose symmetry "becomes
-unstable when κ exceeds 2/3". The assistant's derivation ([CLAIM-tmpu5cap](CLAIM-tmpu5cap.md),
+unstable when κ exceeds 2/3". The assistant's derivation ([CLAIM-1324](CLAIM-1324.md),
 demonstrated, Proposed) shows that the threshold comes from the map's decay
 factor, which plays the part of this claim's condition that each field be
 stable alone; the stated model, an accumulator that does not correct for

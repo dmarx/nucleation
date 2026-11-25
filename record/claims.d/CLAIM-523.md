@@ -64,25 +64,25 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 8 §6 (ADR-tmpenzcn). No change of
+    stated or used in A49 Article 8 §6 (ADR-147). No change of
     title or status.
 - version: 11
   date: '2026-11-25'
   note: >-
     Gains the lines self-correction (atlas scope 10); scholarly-publishing
-    (atlas scope 15) under ADR-tmpd3ckn: the entry is in that scope's core
+    (atlas scope 15) under ADR-146: the entry is in that scope's core
     fiber in the hyperarticle atlas v0.3 (scratch/atlas/atlas-v0.3.md),
     and each atlas scope is documented as a line. No other change.
 - version: 12
   date: '2026-11-25'
   note: >-
-    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    Joins the work conditions-of-correction (ADR-145): Article 1 of
     A45 in the exchange "Hyper article interpretation" states its
     proposition or uses it as a step, in §5. No other change.
 - version: 13
   date: '2026-11-25'
   note: >-
-    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition or uses it as a step, in scope 10, scope 15,
     section V. No other change.
 role: thesis
@@ -420,7 +420,7 @@ and third achievements and adds no content. No status change. The wording of thi
 A40 §3.4 cites this claim, with [CLAIM-404](CLAIM-404.md) and [CLAIM-624](CLAIM-624.md), for an authority
 that controls the resources, evidence, criteria, personnel and continuation
 of the processes that would correct it, "the conditions of its own
-governability"; the cite is apt, and the application is [CLAIM-tmplc4m8](CLAIM-tmplc4m8.md).
+governability"; the cite is apt, and the application is [CLAIM-1295](CLAIM-1295.md).
 A40 §7 splits the path of a discrepancy into d → q → a → r → 𝒢′ with seven
 obstructions (illegibility, a question that cannot be formulated, an
 inquiry that cannot be authorized, evidence that cannot influence
@@ -429,8 +429,8 @@ cannot be realized, a remedy that cannot be maintained). The first is this
 claim's legibility, the fifth its volitional efficacy, the sixth and
 seventh its correctability; formulation and authorization are held as
 [CLAIM-996](CLAIM-996.md)'s second-order query. Bearing: a finer division, with the
-test in [LEAD-tmpnvrld](../leads.d/LEAD-tmpnvrld.md); the claim is unchanged. The wording of this note is
+test in [LEAD-267](../leads.d/LEAD-267.md); the claim is unchanged. The wording of this note is
 the assistant's (Claude, in this session), reporting A's (ChatGPT's) text;
 adopting what it reports is the owner's call.
 
-<!-- inactive-ok-file: CLAIM-tmplc4m8 CLAIM-996 — Proposed; cited in the note of 2026-11-24 on A40 §3.4 and §7 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
+<!-- inactive-ok-file: CLAIM-1295 CLAIM-996 — Proposed; cited in the note of 2026-11-24 on A40 §3.4 and §7 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->

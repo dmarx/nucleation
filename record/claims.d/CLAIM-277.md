@@ -265,7 +265,7 @@ lacking. The claim is unchanged.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A20
 
-<!-- inactive-ok-file: CLAIM-tmp18v1o CLAIM-tmp2jhc1 — new; filed from A20 and A24 of the exchange on 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-1216 CLAIM-1221 — new; filed from A20 and A24 of the exchange on 2026-11-24 -->
 
 A20 §10 (ChatGPT, 2026-11-24) cites this claim for "the emergence of
 durable authority through trust" and extends the loop from grants to
@@ -281,7 +281,7 @@ something around which others organize themselves."
 
 This is an extension, not evidence: the entrenchment this claim already
 holds is reinforced by a loss of capacity on the deferring side, the route
-filed as [CLAIM-tmp18v1o](CLAIM-tmp18v1o.md), and the reserve that would check it is
-[CLAIM-tmp2jhc1](CLAIM-tmp2jhc1.md)'s constitutional redundancy ("its existence can prevent
+filed as [CLAIM-1216](CLAIM-1216.md), and the reserve that would check it is
+[CLAIM-1221](CLAIM-1221.md)'s constitutional redundancy ("its existence can prevent
 another process from acquiring unrestricted interpretive authority", A24
 §7). The claim is unchanged.

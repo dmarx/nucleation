@@ -6,8 +6,8 @@
 
 **Social identity** — the psychology of group membership — social identity and self-categorization theory, how people categorize themselves and others and when a group identity becomes salient, identification and its measurement, in-group bias and intergroup relations, rivalry, recategorization and common in-group identity, group-based emotion, crowds and fandom. What a group is, as ontology, is social-ontology; here it is how people come to see themselves and act as members (ADR-062).
 
-0 of 234 LEAD documents. Back to the [full index](../README.md).
+1 of 282 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-236](../../../record/leads.d/LEAD-236.md) | Vary the direction of a social attribution while holding its stated grounds fixed, and estimate the part of each person's response that reverses with the attribution, to tell conformity and defiance, which share it, from a response governed by the grounds | A8 §11 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) proposes as its "Formal starting point" to "Compare response organizations under independently anchored transformations of social attribution, separating invariant dependence from policy direction, formation provenance and corrective capacity", with [CASE-140](../../../record/cases.d/CASE-140.md) and [CASE-142](../../../record/cases.d/CASE-142.md) as empirical starting points. The measure and the anchoring condition come from the assistant's [CLAIM-1281](../../../record/claims.d/CLAIM-1281.md). The wording is A's (ChatGPT, in the exchange 'Memes, Contracts, and Systemic Normativity'); adopting it is the owner's call. | Open |

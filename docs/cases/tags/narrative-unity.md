@@ -6,8 +6,8 @@
 
 **Narrative unity** — the unity a life has as a story — narrative identity, the narrative self, autobiographical reasoning, and the claim and counter-claim that a self is the story told of it. One of four unities kept apart (group: philosophy; ADR-024).
 
-1 of 421 CASE documents. Back to the [full index](../README.md).
+1 of 427 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [CASE-137](../../../record/cases.d/CASE-137.md) v3 | Clive Wearing: a musician left by encephalitis with almost no memory of his past and none of the last minutes, who still plays, sight-reads and conducts, keeps his attachment to his wife, and writes over and over that he has just become conscious for the first time | The owner's case, proposed at U26 of the exchange of 2026-10-22 ("if we haven't already examined the case of Clive Wearing, that might be another good addition"). The record had no amnesia case. It separates skill and short-horizon organization, which persist, from autobiographical continuity and experienced ownership of one's past, which do not. Not shown by it: that the unity of his present experience is an illusion, or that his denials of past consciousness are evidence of its absence. | Active |
+| [CASE-137](../../../record/cases.d/CASE-137.md) v4 | Clive Wearing | The owner's case, proposed at U26 of the exchange of 2026-10-22 ("if we haven't already examined the case of Clive Wearing, that might be another good addition"). The record had no amnesia case. It separates skill and short-horizon organization, which persist, from autobiographical continuity and experienced ownership of one's past, which do not. Not shown by it: that the unity of his present experience is an illusion, or that his denials of past consciousness are evidence of its absence. | Active |

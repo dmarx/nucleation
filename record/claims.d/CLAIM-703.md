@@ -78,12 +78,12 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 6 abstract, §4 (ADR-tmpenzcn). No
+    stated or used in A49 Article 6 abstract, §4 (ADR-147). No
     change of title or status.
 - version: 11
   date: '2026-11-25'
   note: >-
-    Gains the line rightful-power (atlas scope 13) under ADR-tmpd3ckn: the
+    Gains the line rightful-power (atlas scope 13) under ADR-146: the
     entry is in that scope's core fiber in the hyperarticle atlas v0.3
     (scratch/atlas/atlas-v0.3.md), and each atlas scope is documented as a
     line. No other change.

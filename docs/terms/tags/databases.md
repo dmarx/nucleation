@@ -6,8 +6,8 @@
 
 **Databases and data structures** — how stored data is organized so that it can be found and kept current — physical database design and index selection, materialized views and the choice of which answers to precompute, adaptive and self-organizing structures, lower bounds on lookup, caching and paging; and the cost of organizing ahead of use against organizing in use. Read for itself, not as ML practice: learned indexes and other machine-learning approaches go to the anthology (ADR-045).
 
-0 of 167 TERM documents. Back to the [full index](../README.md).
+1 of 179 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-177](../../../record/terms.d/TERM-177.md) v2 | feed | The owner's, at U5 of the exchange "Hyper article interpretation" (2026-11-22): "A 'feed' as: "A 'view' (with a memory) over data."". The gloss after the semicolon is A11's: the view "determines what gets included, how it's organized, and how it's presented", and the memory "preserves what the view has seen, selected, rejected, annotated, or changed over time". Filed in the owner's voice; the gloss is A's (ChatGPT's, at A11 of the exchange "Hyper article interpretation"), and adopting either is the owner's call. | Proposed |

@@ -55,7 +55,7 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 5 abstract, §5 (ADR-tmpenzcn). No
+    stated or used in A49 Article 5 abstract, §5 (ADR-147). No
     change of title or status.
 - version: 7
   date: '2026-11-25'
@@ -67,13 +67,13 @@ history:
 - version: 8
   date: '2026-11-25'
   note: >-
-    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    Joins the work conditions-of-correction (ADR-145): Article 1 of
     A45 in the exchange "Hyper article interpretation" states its
     proposition or uses it as a step, in §1. No other change.
 - version: 9
   date: '2026-11-25'
   note: >-
-    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition or uses it as a step, in scope 01, section V.
     No other change.
 role: thesis
@@ -295,9 +295,9 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 The claim is unchanged.
 
 ## Note of 2026-11-22: Kolmogorov, read
-<!-- inactive-ok-block: THEORY-tmpdsft8 ARG-tmp6sdu6 CLAIM-949 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
+<!-- inactive-ok-block: THEORY-2308 ARG-245 CLAIM-949 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
 
-Kolmogorov 1932 ([THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md), read in [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md)): a parallel and a contrast, cited
+Kolmogorov 1932 ([THEORY-2308](../theory.d/THEORY-2308.md), read in [NOTE-2422](../notes.d/NOTE-2422.md)): a parallel and a contrast, cited
 as neither ground nor corroboration. **Parallel**: a problem, like this
 claim's question, asserts nothing and fixes what would count as solving it;
 and "Um ganz präzis zu sein, sollte man natürlich bei der Formulierung
@@ -309,14 +309,14 @@ and a problem whose supposition is impossible counts as solved by the proof
 of that (p. 59). The calculus has no counterpart of the last clause: where
 the bifurcation example replaces a question with no adequate answer,
 Kolmogorov closes the case as a solution. Weighed for [CLAIM-949](CLAIM-949.md) in
-[ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md). The claim is unchanged.
+[ARG-245](../arguments.d/ARG-245.md). The claim is unchanged.
 
 ## Note of 2026-11-25: Martin-Löf, read
-<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmppv3b8 CLAIM-949 — Proposed or Skimmed; filed for LEAD-215 -->
+<!-- inactive-ok-file: THEORY-2307 NOTE-2419 ARG-255 CLAIM-949 — Proposed or Skimmed; filed for LEAD-215 -->
 
 A qualification of the formal reading of this claim's last clause (no
-edge), from Martin-Löf's universes ([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md); [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md);
-[ARG-tmppv3b8](../arguments.d/ARG-tmppv3b8.md)). [CLAIM-949](CLAIM-949.md) read a question's revision as a change of type
+edge), from Martin-Löf's universes ([THEORY-2307](../theory.d/THEORY-2307.md); [NOTE-2419](../notes.d/NOTE-2419.md);
+[ARG-255](../arguments.d/ARG-255.md)). [CLAIM-949](CLAIM-949.md) read a question's revision as a change of type
 handled by universes. In the book a universe is "the least set closed
 under certain specified set forming operations", and there is no set of
 all sets, "because we are not able to exhibit once and for all all
@@ -326,6 +326,6 @@ only among spaces the universe already codes: the choice among
 distinctions already admitted, which is what defeater (a) describes. The
 last clause's revision, a new kind of answer, is outside any universe
 given: on one reading met by the next universe, on the other only by
-extending the theory, filed as alternatives in [ARG-tmppv3b8](../arguments.d/ARG-tmppv3b8.md). The type
+extending the theory, filed as alternatives in [ARG-255](../arguments.d/ARG-255.md). The type
 theory thus draws this claim's line between refining within and revising,
 and on reading B places the revision outside the formalism. No change.

@@ -76,7 +76,7 @@ The record's dispositional address ([TERM-165](../terms.d/TERM-165.md)) is the m
 
 Proposed, in A's voice, revised on 2026-11-24 to concede [CLAIM-1095](CLAIM-1095.md), which objects to the formal step, not the thesis: compared directly, the post-state separates organizations no test could tell apart, so d_𝒬 is not observational as A64b intends; observing S′ through its later responses repairs it and keeps the separation the thesis needs.
 
-<!-- inactive-ok-file: CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+<!-- inactive-ok-file: CLAIM-1319 — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A30 and A32
 
@@ -92,4 +92,4 @@ post-states. Its contrast of two relationships (a fulfilled request
 dependency" in the other; an objection "Improves contractual
 specification" or "Diminishes the objector's standing") is this claim's
 learning-versus-suppression contrast applied to a relationship. An
-extension, filed as [CLAIM-tmpsf9hp](CLAIM-tmpsf9hp.md), which rests on this claim. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+extension, filed as [CLAIM-1319](CLAIM-1319.md), which rests on this claim. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

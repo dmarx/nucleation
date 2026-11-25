@@ -201,12 +201,12 @@ No status change.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A12 and A13
 
-<!-- inactive-ok-file: CLAIM-tmpn754o — Proposed; filed from the exchange of 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-1303 — Proposed; filed from the exchange of 2026-11-24 -->
 
 A12 §9 and A13 §VI read this claim's prior as a kind of heuristic, a
 governance heuristic that settles "Which perspective or procedure should
 determine what to do", and propose that intuitive expertise and entrenched
 bias are one learned allocation, in and out of the conditions it was
-learned under ([CLAIM-tmpn754o](CLAIM-tmpn754o.md), A's, Proposed, resting on this claim). They
+learned under ([CLAIM-1303](CLAIM-1303.md), A's, Proposed, resting on this claim). They
 cite this claim correctly, with its limit: "persistence alone does not
 demonstrate amortization". Bearing: an extension. The claim is unchanged.

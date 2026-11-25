@@ -39,7 +39,7 @@ Tomasello's book.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A24
 
-<!-- inactive-ok-file: CLAIM-tmpreipd — new; filed from A23 and A24 of the exchange on 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-1316 — new; filed from A23 and A24 of the exchange on 2026-11-24 -->
 
 A24 §2 (ChatGPT, 2026-11-24) uses this reading, through [NOTE-2203](../notes.d/NOTE-2203.md), as
 "Killen's critique of Tomasello's collaboration-first account": "independent
@@ -52,7 +52,7 @@ widening: this reading has children challenging group norms that treat
 others unequally, and "authority and institutional practices" is A's
 extension from social domain theory generally.
 
-It supports one route of [CLAIM-tmpreipd](../claims.d/CLAIM-tmpreipd.md), that refusing to cooperate can be
+It supports one route of [CLAIM-1316](../claims.d/CLAIM-1316.md), that refusing to cooperate can be
 morally right, as developmental evidence that the capacity to oppose a
 cooperating group's norm is part of morality from early on. That claim
 names this reading in `grounds`. No status change.

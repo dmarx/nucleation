@@ -243,12 +243,12 @@ originalism, executive unity and conservatism each protect one, "But none
 of these achievements alone guarantees the continuing reliability of the
 organization's capacity to investigate and correct itself." Not filed again.
 A's positive term for the capacity to keep valuable relationships through
-transformation is [TERM-tmpx4zke](../terms.d/TERM-tmpx4zke.md). Bearing: a restatement; the claim is
+transformation is [TERM-178](../terms.d/TERM-178.md). Bearing: a restatement; the claim is
 unchanged. The wording of this note is the assistant's (Claude, in this
 session), reporting A's (ChatGPT's) text; adopting what it reports is the
 owner's call.
 
-<!-- inactive-ok-file: TERM-163 TERM-tmpx4zke — Proposed; cited in the note of 2026-11-24 on A40 §10 D from the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
+<!-- inactive-ok-file: TERM-163 TERM-178 — Proposed; cited in the note of 2026-11-24 on A40 §10 D from the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A34 §18 and A36 §19
 

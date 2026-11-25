@@ -37,17 +37,17 @@ history:
     and Systemic Normativity" cite the claim for the first of two
     directions of dependency exploitation and relay hold-up with a
     bargaining model; Klein, Crawford and Alchian (1978) registered as
-    LIT-tmpgcwyt. No change of status or title.
+    LIT-3228. No change of status or title.
 - version: 6
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 9 abstract, §2 (ADR-tmpenzcn). No
+    stated or used in A49 Article 9 abstract, §2 (ADR-147). No
     change of title or status.
 - version: 7
   date: '2026-11-25'
   note: >-
-    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition or uses it as a step, in scope 12. No other
     change.
 role: thesis
@@ -170,7 +170,7 @@ No status changes.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A22
 
-<!-- inactive-ok-file: LIT-tmpgcwyt CLAIM-713 CLAIM-tmp2jhc1 LIT-2742 — Proposed, Deferred or Unfetched; the hold-up paper registered on 2026-11-24, the held claim on exploited commitment, the fallback claim filed with this, and Hart and Moore -->
+<!-- inactive-ok-file: LIT-3228 CLAIM-713 CLAIM-1221 LIT-2742 — Proposed, Deferred or Unfetched; the hold-up paper registered on 2026-11-24, the held claim on exploited commitment, the fallback claim filed with this, and Hart and Moore -->
 
 A22 §7 (ChatGPT, 2026-11-24) cites this claim correctly for the first of
 "two directions of dependency exploitation": "Provider exploits recipient
@@ -182,7 +182,7 @@ the provider's commitment, it gives to [CLAIM-713](CLAIM-713.md).
 A22 §9 relays hold-up a second time, now with a source and a model.
 
 - **The source.** "Klein, Crawford and Alchian's 1978 work on appropriable
-  quasi-rents" is registered as [LIT-tmpgcwyt](../literature.d/LIT-tmpgcwyt.md) (Deferred, identifier checked
+  quasi-rents" is registered as [LIT-3228](../literature.d/LIT-3228.md) (Deferred, identifier checked
   on Crossref). The note of 2026-11-17 above says no hold-up source was
   held; Hart and Moore 1990 has since been registered ([LIT-2742](../literature.d/LIT-2742.md),
   Unfetched), so that sentence is now out of date.
@@ -201,7 +201,7 @@ A22 §9 relays hold-up a second time, now with a source and a model.
   refused", in the bargaining model's terms.
 
 The same computation, read the other way, is why an unexercised fallback
-keeps a party's terms: [CLAIM-tmp2jhc1](CLAIM-tmp2jhc1.md). The claim is unchanged.
+keeps a party's terms: [CLAIM-1221](CLAIM-1221.md). The claim is unchanged.
 
 ## Note of 2026-11-25: the hold-up sources are now read
 

@@ -37,7 +37,7 @@ history, and is no longer an index on judgements only.
 Not an act on a reader: that is a framing intervention ([TERM-018](TERM-018.md)). A39: "A friend
 speaking is a property of a communicative situation."
 
-<!-- inactive-ok-file: CLAIM-tmp80ny9 CLAIM-tmpro73c — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+<!-- inactive-ok-file: CLAIM-1243 CLAIM-1317 — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
 
@@ -52,4 +52,4 @@ governs or help form one, which is reflexive control by frame: "The
 request *help me* acquires different practical significance when framed
 as an emergency, professional obligation, reciprocal commitment or
 discretionary favor." An application of the term, not a revision; the
-claims it serves are [CLAIM-tmp80ny9](../claims.d/CLAIM-tmp80ny9.md) and [CLAIM-tmpro73c](../claims.d/CLAIM-tmpro73c.md). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+claims it serves are [CLAIM-1243](../claims.d/CLAIM-1243.md) and [CLAIM-1317](../claims.d/CLAIM-1317.md). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

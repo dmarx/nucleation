@@ -26,13 +26,13 @@ history:
 - version: 4
   date: '2026-11-25'
   note: >-
-    Joins the work luria-beyond-software (ADR-tmp85hdc): Article 2 of A45
+    Joins the work luria-beyond-software (ADR-145): Article 2 of A45
     in the exchange "Hyper article interpretation" states its proposition
     or uses it as a step, in §6. No other change.
 - version: 5
   date: '2026-11-25'
   note: >-
-    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    Joins the work hyperarticles (ADR-145): Article 3 of A45 in the
     exchange "Hyper article interpretation" states its proposition or uses
     it as a step, in §2. No other change.
 role: thesis

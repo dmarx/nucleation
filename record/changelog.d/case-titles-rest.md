@@ -1,6 +1,6 @@
 ### Changed
 
-- The remaining CASEs are retitled under [ADR-tmpkc4c4](record/decisions.d/ADR-tmpkc4c4.md), in the form of the sample
+- The remaining CASEs are retitled under [ADR-148](record/decisions.d/ADR-148.md), in the form of the sample
   the owner reviewed on pull request 819 ("call this close enough"). Of the
   397, 382 get a short address, each old title kept verbatim in
   `statement:`; 15 already had titles that serve as addresses and are

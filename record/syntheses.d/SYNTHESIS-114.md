@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-25'
   note: >-
-    Rewritten as a synthesis under ADR-tmpw306d; the components are
+    Rewritten as a synthesis under ADR-151; the components are
     unchanged. CLAIM-784, CLAIM-786 and CASE-299, candidates in the note
     of 2026-11-21, are added to integrates: they state engineering, and
     building generally, as a case of reflexive inquiry, which is this
@@ -51,7 +51,7 @@ integrates:
 - CLAIM-424
 - QUESTION-457
 ---
-<!-- inactive-ok-file: CLAIM-784 CLAIM-786 CLAIM-785 CLAIM-783 TERM-134 TERM-133 ADR-tmpw306d — Proposed; two components, the claim named under "Not stated on the record", the candidates the history note declines, and the decision it applies -->
+<!-- inactive-ok-file: CLAIM-784 CLAIM-786 CLAIM-785 CLAIM-783 TERM-134 TERM-133 ADR-151 — Proposed; two components, the claim named under "Not stated on the record", the candidates the history note declines, and the decision it applies -->
 
 # SYNTHESIS-114: Inquiry in the record is a form of specification that can revise what an answer could be, reflexive when its language, answer space, interventions, observations, criteria or resources become its object; specifying is resource-bounded and stored specification cheapens some questions and hardens others; and what makes reconfiguration self-governed is an open question
 

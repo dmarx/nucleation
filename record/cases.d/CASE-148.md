@@ -102,7 +102,7 @@ profiles." It differs from this case in what is transferred (an
 expression, not learned components) and shares its question of which
 transfer reproduces a characteristic organization; the memes-as-characters
 idea it tests is the owner's (U4), filed as two alternative readings,
-[CLAIM-tmphi3mx](../claims.d/CLAIM-tmphi3mx.md) and [CLAIM-tmp4mk0t](../claims.d/CLAIM-tmp4mk0t.md). A neighbour design, proposed and not
+[CLAIM-1278](../claims.d/CLAIM-1278.md) and [CLAIM-1227](../claims.d/CLAIM-1227.md). A neighbour design, proposed and not
 run; [LEAD-113](../leads.d/LEAD-113.md) is this case's run. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A5 §8 and A6 §9
@@ -110,15 +110,15 @@ run; [LEAD-113](../leads.d/LEAD-113.md) is this case's run. The wording of this 
 Earlier in the same exchange, A5 and A6 cite this case accurately as "an
 existing proposed experimental design that asks which transferred
 components reproduce characteristic organization in new carriers", and
-name it as the experimental extension of their theses ([CLAIM-tmpjitli](../claims.d/CLAIM-tmpjitli.md),
-[CLAIM-tmpjlxfy](../claims.d/CLAIM-tmpjlxfy.md)). A6 §9: "The crucial test would be whether transferring
+name it as the experimental extension of their theses ([CLAIM-1285](../claims.d/CLAIM-1285.md),
+[CLAIM-1286](../claims.d/CLAIM-1286.md)). A6 §9: "The crucial test would be whether transferring
 particular memes reproduces these characteristic response profiles,
 including their limitations, in another organization", holding evidence
 fixed while varying "its source, implications, medium or relationship to
 existing commitments". The extension, with a control that transfers the
-memes' propositions alone, is [LEAD-tmpqucxc](../leads.d/LEAD-tmpqucxc.md). Bearing: a proposed variant,
+memes' propositions alone, is [LEAD-271](../leads.d/LEAD-271.md). Bearing: a proposed variant,
 no change. The wording of this note is the assistant's (Claude, in this
 session), reporting A's (ChatGPT's) text; adopting what it reports is the
 owner's call.
 
-<!-- inactive-ok-file: CLAIM-tmpjitli CLAIM-tmpjlxfy CLAIM-tmphi3mx CLAIM-tmp4mk0t — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->
+<!-- inactive-ok-file: CLAIM-1285 CLAIM-1286 CLAIM-1278 CLAIM-1227 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

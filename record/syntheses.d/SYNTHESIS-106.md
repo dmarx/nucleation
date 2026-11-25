@@ -133,14 +133,14 @@ That every emergent organization is such an investment
 wrongful ([CLAIM-760](../claims.d/CLAIM-760.md)'s).
 
 ## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
-<!-- inactive-ok-file: CLAIM-891 ARG-tmpa5ped CLAIM-tmpsf9hp — Proposed; cited with their standing -->
+<!-- inactive-ok-file: CLAIM-891 ARG-246 CLAIM-1319 — Proposed; cited with their standing -->
 
 The revision of the manuscript's Article 3 (its gap G3.1) found that no
 account maps the stored-work cost model as it now stands. This account is
 dated 2026-11-19. It predates [CASE-326](../cases.d/CASE-326.md) (2026-11-22), the cost model run on
 three cases, with [CLAIM-891](../claims.d/CLAIM-891.md) and [CLAIM-892](../claims.d/CLAIM-892.md) filed from it, and the entries
-of 2026-11-24 that apply the model to contracts ([ARG-tmpa5ped](../arguments.d/ARG-tmpa5ped.md),
-[CLAIM-tmpsf9hp](../claims.d/CLAIM-tmpsf9hp.md)). It also gives [CLAIM-761](../claims.d/CLAIM-761.md) and [CLAIM-760](../claims.d/CLAIM-760.md) as Proposed, in
+of 2026-11-24 that apply the model to contracts ([ARG-246](../arguments.d/ARG-246.md),
+[CLAIM-1319](../claims.d/CLAIM-1319.md)). It also gives [CLAIM-761](../claims.d/CLAIM-761.md) and [CLAIM-760](../claims.d/CLAIM-760.md) as Proposed, in
 the account and in its list of components. Both have been Active since
 2026-11-20, promoted at a status review whose rulings the owner delegated
 ([ADR-057](../decisions.d/ADR-057.md)).

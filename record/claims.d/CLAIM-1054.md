@@ -90,4 +90,4 @@ describes the loop as questioners and answerers adapting to each other
 (Q_t to R_t to Q_{t+1}), with the caution that "apparent validation
 through restricted questioning remains distinct from genuine realization."
 Bearing: variables for the model the claim lacks, not the model;
-[LEAD-tmpbqj9u](../leads.d/LEAD-tmpbqj9u.md) is where it would be built. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+[LEAD-250](../leads.d/LEAD-250.md) is where it would be built. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

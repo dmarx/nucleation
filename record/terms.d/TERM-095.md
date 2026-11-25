@@ -124,9 +124,9 @@ What would settle it:
   clause may need apart from Σ.
 
 ## Note of 2026-11-22: Kolmogorov, read
-<!-- inactive-ok-block: THEORY-tmpdsft8 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
+<!-- inactive-ok-block: THEORY-2308 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
 
-Kolmogorov 1932 ([THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md), read in [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md)) puts the permitted means of
+Kolmogorov 1932 ([THEORY-2308](../theory.d/THEORY-2308.md), read in [NOTE-2422](../notes.d/NOTE-2422.md)) puts the permitted means of
 construction in the formulation of a problem (p. 59, n. 2), where this term
 keeps the admissible interventions 𝓘 apart from the answer space A. A
 problem fully stated is nearer to (A, 𝓘) than to A alone. A contrast in

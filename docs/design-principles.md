@@ -121,3 +121,37 @@ Two rules keep it from becoming license to sprawl:
   gift.
 
 *v1 · origin: Seeded from Luria. Replace this note with your own first instance*
+
+<a id="dp-7"></a>
+
+## 7. Pilot a change on a sample before sweeping
+
+When a change of form will touch many entries — a new field, a retitling, a
+relation retagged, a section restructured — **apply it first to a small
+sample, have the owner review it, and only then sweep the rest.**
+
+A rule can be read and agreed with and still come out wrong in its
+application. Its wording describes what the author pictured, and the entries
+it lands on vary more than that. The sample is where the gap shows, while
+it costs a few edits to close. After a sweep the same gap is spread across
+the whole scheme. It is reverted entry by entry, or, more often, it stays,
+because nobody reads a thousand diffs.
+
+What makes a sample useful:
+
+- **It spans the variety, not the convenient cases.** Draw across the kinds,
+  lengths and statuses the change will meet, including the awkward ones. A
+  sample of the easiest entries tests nothing.
+- **It is small enough to read in full.** Two or three entries for a new
+  form; a few dozen when the variety is wide. The owner reads every one.
+- **It goes out as a demonstration, not a description.** The reviewer sees
+  the entries as they will be, in the pull request that will carry the
+  sweep.
+- **The sweep follows the reviewed form.** What the review changed applies
+  to the rest. What the review did not see is not assumed approved.
+
+The sweep waits for that review, even when the rule itself has already been
+accepted. Accepting a rule approves what it says; the sample is how anyone
+sees what it does.
+
+*v1 · origin: Applied four times before it was stated: [ADR-043](../record/decisions.d/ADR-043.md)'s warrant field, [ADR-044](../record/decisions.d/ADR-044.md)'s corroborates relation, [ADR-056](../record/decisions.d/ADR-056.md)'s term kinds, and [ADR-148](../record/decisions.d/ADR-148.md)'s retitling. It was missed once, when a sweep of 115 syntheses nearly launched unpiloted ([RETRO-010](../record/retrospectives.d/RETRO-010.md), which recommends "pilot, then sweep"). The owner, on 2026-11-25: "this reflects a good generalizable policy"*

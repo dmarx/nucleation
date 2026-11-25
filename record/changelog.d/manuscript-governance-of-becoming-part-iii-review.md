@@ -5,5 +5,5 @@
   a main review with a ten-item revision plan, an independent [ADR-075](record/decisions.d/ADR-075.md)
   test of the 19 joins (one passes, in a corrected form), and a search
   for uncited points of contact; the record corrections the join test
-  named, the joins' verdicts placed in [SYNTHESIS-tmp4tvbr](record/syntheses.d/SYNTHESIS-tmp4tvbr.md), and a retro
+  named, the joins' verdicts placed in [SYNTHESIS-125](record/syntheses.d/SYNTHESIS-125.md), and a retro
   devlog note.

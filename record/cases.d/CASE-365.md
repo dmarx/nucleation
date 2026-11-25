@@ -302,7 +302,7 @@ a few hundred time units at these sizes.
 
 ## Note of 2026-11-25: rerun, one figure corrected, and what holds it back
 
-Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). From a copy of `scratch/studies/lead-093/` in the session's scratch space, with `results/` set aside and every experiment regenerated as the README directs (e1 to e9; scipy 1.18.1 and numpy 2.5.3). The 11 tests pass. Every line of all ten results files agrees with the stored one in every field but the wall times, e9's 400 stochastic runs included.
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-252](../leads.d/LEAD-252.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). From a copy of `scratch/studies/lead-093/` in the session's scratch space, with `results/` set aside and every experiment regenerated as the README directs (e1 to e9; scipy 1.18.1 and numpy 2.5.3). The 11 tests pass. Every line of all ten results files agrees with the stored one in every field but the wall times, e9's 400 stochastic runs included.
 
 The figures above were compared. All match but one:
 

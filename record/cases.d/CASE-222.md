@@ -128,9 +128,9 @@ the meme nucleates "an **organization of disagreement**". It notes that
 not yet been established in the record", which is accurate. The
 stronger hypothesis it draws, and what would test it, are in [CLAIM-621](../claims.d/CLAIM-621.md)'s
 note of 2026-11-24. Bearing: a reading of this case as an instance of
-[CLAIM-tmpgvsgg](../claims.d/CLAIM-tmpgvsgg.md), no edge while the case is Proposed; no change. The
+[CLAIM-1275](../claims.d/CLAIM-1275.md), no edge while the case is Proposed; no change. The
 wording of this note is the assistant's (Claude, in this session),
 reporting A's (ChatGPT's) text; adopting what it reports is the owner's
 call.
 
-<!-- inactive-ok-file: CLAIM-tmpgvsgg — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->
+<!-- inactive-ok-file: CLAIM-1275 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

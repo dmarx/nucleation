@@ -46,7 +46,7 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 9 abstract (ADR-tmpenzcn). No change
+    stated or used in A49 Article 9 abstract (ADR-147). No change
     of title or status.
 role: thesis
 warrant: interpretive
@@ -241,7 +241,7 @@ where the claim is general; it illustrates without testing. Relation: none (note
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A42 §4
 
-<!-- inactive-ok-file: CLAIM-tmplm3mz CLAIM-tmp9xge5 — Proposed; filed from U27 and A42 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+<!-- inactive-ok-file: CLAIM-1296 CLAIM-1251 — Proposed; filed from U27 and A42 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
 
 A42 §4 cites the three conditions correctly and argues that "Legibility can
 intensify all three through different mechanisms": a service acquires
@@ -251,4 +251,4 @@ the users' ability to refuse collection or challenge subsequent uses
 diminishes", so "The resulting relationship can become dominating even
 without continuously exercised coercion." Bearing: an extension, a route by
 which the conditions come to hold, filed with the owner's U27 in
-[CLAIM-tmplm3mz](CLAIM-tmplm3mz.md) and [CLAIM-tmp9xge5](CLAIM-tmp9xge5.md). Relation: none (note only). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+[CLAIM-1296](CLAIM-1296.md) and [CLAIM-1251](CLAIM-1251.md). Relation: none (note only). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

@@ -185,7 +185,7 @@ moment of a demand (the found brick) and a construction at a quiet moment
 - Anything about the record's own filings. The filing numbers are A11's
   construction and illustrative values. [CLAIM-303](../claims.d/CLAIM-303.md)'s caveat stands.
 
-<!-- inactive-ok-file: ARG-tmpa5ped CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+<!-- inactive-ok-file: ARG-246 CLAIM-1319 — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A30, a contract reading and its limit
 
@@ -199,9 +199,9 @@ coordinating interdependent activity." Its limit, A30 §15: "the current
 CASE-326 implementation uses fixed erosion and does not establish the full
 endogenous contractual dynamics described here." A qualification of
 scope, not of the case: for a store whose use changes it, σ and ε are not
-fixed. [ARG-tmpa5ped](../arguments.d/ARG-tmpa5ped.md) holds the judgement, [CLAIM-tmpsf9hp](../claims.d/CLAIM-tmpsf9hp.md) the claim, and
-[LEAD-tmp14n26](../leads.d/LEAD-tmp14n26.md) the extension that would test it. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+fixed. [ARG-246](../arguments.d/ARG-246.md) holds the judgement, [CLAIM-1319](../claims.d/CLAIM-1319.md) the claim, and
+[LEAD-237](../leads.d/LEAD-237.md) the extension that would test it. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
 ## Note of 2026-11-24: rerun, for the promotion review the owner proposed at U33 of the exchange 'Memes, Contracts, and Systemic Normativity'
 
-Rerun on 2026-11-24 by the assistant, from a copy of `scratch/studies/lead-108/` as on this branch: the 7 tests of `test_costmodel.py` pass, and `price_cases.py` regenerates `results.json` and `results.md` byte for byte. A53 of the exchange names this case as a promotion candidate, a study "executed" and awaiting review. The run is now checked by a session other than the one that filed it, which the status-review README (section 2) asks of a demonstrated case; the ruling is the status review's ([LEAD-tmp0j28l](../leads.d/LEAD-tmp0j28l.md)). The note is the assistant's (Claude, in this session). No status change.
+Rerun on 2026-11-24 by the assistant, from a copy of `scratch/studies/lead-108/` as on this branch: the 7 tests of `test_costmodel.py` pass, and `price_cases.py` regenerates `results.json` and `results.md` byte for byte. A53 of the exchange names this case as a promotion candidate, a study "executed" and awaiting review. The run is now checked by a session other than the one that filed it, which the status-review README (section 2) asks of a demonstrated case; the ruling is the status review's ([LEAD-235](../leads.d/LEAD-235.md)). The note is the assistant's (Claude, in this session). No status change.

@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-25'
   note: >-
-    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    Joins the work hyperarticles (ADR-145): Article 3 of A45 in the
     exchange "Hyper article interpretation" states its proposition or uses
     it as a step, in §9. No other change.
 role: thesis
@@ -142,5 +142,5 @@ The claim is unchanged.
 
 ## Note of 2026-11-25: the exchange "Hyper article interpretation", U17 and A35
 
-<!-- inactive-ok-block: CLAIM-tmp0ncly CLAIM-tmpqteki CLAIM-tmpmacjk — new; filed from the same exchange -->
-The owner's U17 makes this claim's first half the premise of a use in teaching: a record of a student's collaboration with an LLM that keeps "which contributions were theirs vs the LLM's" ([CLAIM-tmp0ncly](CLAIM-tmp0ncly.md)). A35 cites this claim for that, correctly: it "distinguishes what a shared record says from what any individual collaborator actually believes", and builds on it the point that provenance is a basis for questioning understanding, not proof of it ([CLAIM-tmpqteki](CLAIM-tmpqteki.md)). The use exposes a condition this claim leaves implicit: a record represents who contributed reliably only when its attributions are checked against an account the contributor did not write ([CLAIM-tmpmacjk](CLAIM-tmpmacjk.md)). The note is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.
+<!-- inactive-ok-block: CLAIM-1213 CLAIM-1314 CLAIM-1299 — new; filed from the same exchange -->
+The owner's U17 makes this claim's first half the premise of a use in teaching: a record of a student's collaboration with an LLM that keeps "which contributions were theirs vs the LLM's" ([CLAIM-1213](CLAIM-1213.md)). A35 cites this claim for that, correctly: it "distinguishes what a shared record says from what any individual collaborator actually believes", and builds on it the point that provenance is a basis for questioning understanding, not proof of it ([CLAIM-1314](CLAIM-1314.md)). The use exposes a condition this claim leaves implicit: a record represents who contributed reliably only when its attributions are checked against an account the contributor did not write ([CLAIM-1299](CLAIM-1299.md)). The note is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.

@@ -44,7 +44,7 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 11 abstract (ADR-tmpenzcn). No change
+    stated or used in A49 Article 11 abstract (ADR-147). No change
     of title or status.
 role: thesis
 warrant: interpretive
@@ -351,7 +351,7 @@ The wording of this note is the assistant's (Claude, in this session), reporting
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A44 §§2 and 8, A46 §4 and A48 §4
 
-<!-- inactive-ok-file: LIT-tmp2v8ep CASE-tmp3so1p CLAIM-tmpa61rf — Deferred or Proposed; registered or filed from A44, A46 and A48 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+<!-- inactive-ok-file: LIT-3200 CASE-423 CLAIM-1252 — Deferred or Proposed; registered or filed from A44, A46 and A48 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
 
 Three more applications in the same exchange. A44 §2 cites the claim
 rightly with [CLAIM-350](CLAIM-350.md) and [CASE-110](../cases.d/CASE-110.md) ("Management cannot establish that only
@@ -362,9 +362,9 @@ healthcare algorithm, which predicted expenditure as a proxy for need, as
 not state: "**A metric can encode historical injustice and subsequently
 participate in its reproduction**", since the merged states differ in
 past allocation and the metric feeds future allocation. The study is
-registered unread ([LIT-tmp2v8ep](../literature.d/LIT-tmp2v8ep.md)) and is not evidence here until read. A46
+registered unread ([LIT-3200](../literature.d/LIT-3200.md)) and is not evidence here until read. A46
 §4's retention KPI merging satisfaction with lock-in is filed as
-[CASE-tmp3so1p](../cases.d/CASE-tmp3so1p.md). A48 §4 applies the claim to shareholder value: decisions with
+[CASE-423](../cases.d/CASE-423.md). A48 §4 applies the claim to shareholder value: decisions with
 V_S(x) = V_S(x′) and different judgments of a party's claims
-([CLAIM-tmpa61rf](CLAIM-tmpa61rf.md)). Bearing: illustrations, and one candidate empirical case
+([CLAIM-1252](CLAIM-1252.md)). Bearing: illustrations, and one candidate empirical case
 to be read. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

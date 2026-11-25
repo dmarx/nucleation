@@ -419,9 +419,9 @@ the owner's call.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A34 §2
 
-<!-- inactive-ok-block: CASE-tmp3xxqg CLAIM-tmpb1wyc CLAIM-677 — new or Proposed; filed from A34, and the claim A34 cites beside this one -->
+<!-- inactive-ok-block: CASE-424 CLAIM-1256 CLAIM-677 — new or Proposed; filed from A34, and the claim A34 cites beside this one -->
 A34 §2 cites this claim, with [CLAIM-600](CLAIM-600.md) and [CLAIM-677](CLAIM-677.md), for the SRE book's
-global Chubby planned outage ([CASE-tmp3xxqg](../cases.d/CASE-tmp3xxqg.md)): services dropped tolerance
+global Chubby planned outage ([CASE-424](../cases.d/CASE-424.md)): services dropped tolerance
 of the lock service's absence because "true global Chubby outages are so
 infrequent", and its rare outages reached users. Bearing: an
 illustration. The loss is this claim's, by one-way supply set from
@@ -429,4 +429,4 @@ outside. What the case adds is a supply-side remedy this claim does not
 have: the provider holds realized reliability at its declared objective,
 synthesizing outages when true failures have not used the budget, so that
 the loss is exposed as it forms. That is filed in A's voice as
-[CLAIM-tmpb1wyc](CLAIM-tmpb1wyc.md), which complements this one. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+[CLAIM-1256](CLAIM-1256.md), which complements this one. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

@@ -54,20 +54,20 @@ history:
 - version: 8
   date: '2026-11-25'
   note: >-
-    Gains the line self-correction (atlas scope 10) under ADR-tmpd3ckn:
+    Gains the line self-correction (atlas scope 10) under ADR-146:
     the entry is in that scope's core fiber in the hyperarticle atlas v0.3
     (scratch/atlas/atlas-v0.3.md), and each atlas scope is documented as a
     line. No other change.
 - version: 9
   date: '2026-11-25'
   note: >-
-    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    Joins the work conditions-of-correction (ADR-145): Article 1 of
     A45 in the exchange "Hyper article interpretation" states its
     proposition or uses it as a step, in §5. No other change.
 - version: 10
   date: '2026-11-25'
   note: >-
-    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition or uses it as a step, in scope 10. No other
     change.
 role: thesis

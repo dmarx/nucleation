@@ -369,7 +369,7 @@ In [LEAD-015](../leads.d/LEAD-015.md)'s two-institution model ([CASE-401](../cas
 
 ## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", A7–A10
 
-<!-- inactive-ok-file: CLAIM-tmpp0ufw CLAIM-tmp5tjtg — Proposed or Open; filed from the exchange of 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-1307 CLAIM-1236 — Proposed or Open; filed from the exchange of 2026-11-24 -->
 
 A7 §6 restates this question's premise for the character of a perspective:
 "χ_{P_A} = χ_{P_B} does not imply that the perspectives share formation
@@ -380,9 +380,9 @@ is [CLAIM-132](../claims.d/CLAIM-132.md) (a character classifies kinds) with [CA
 adds no answer. Two further points bear on the question.
 
 - **A cultural route to manipulation without a present trace.** A7's
-  formation route of reflexive control, [CLAIM-tmpp0ufw](../claims.d/CLAIM-tmpp0ufw.md) (A's, Proposed),
+  formation route of reflexive control, [CLAIM-1307](../claims.d/CLAIM-1307.md) (A's, Proposed),
   is a manipulated will whose installing influence was an expression the
-  target took up and then maintained. [LEAD-tmpuxizu](../leads.d/LEAD-tmpuxizu.md) would build one.
+  target took up and then maintained. [LEAD-278](../leads.d/LEAD-278.md) would build one.
 - **What the history must hold.** A7 §6: "the historical conditions
   through which a perspective was formed may themselves be unavailable to
   that perspective. This makes preservation of provenance a potential
@@ -393,5 +393,5 @@ adds no answer. Two further points bear on the question.
   record of formation, which [TERM-100](../terms.d/TERM-100.md) already names.
 
 A8–A10 propose that the capacity to revise one's own governing relations
-can itself be seeded from outside ([CLAIM-tmp5tjtg](../claims.d/CLAIM-tmp5tjtg.md)), which raises this
+can itself be seeded from outside ([CLAIM-1236](../claims.d/CLAIM-1236.md)), which raises this
 question for that capacity too. The question stays Open.

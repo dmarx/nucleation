@@ -6,9 +6,10 @@
 
 **Philosophy of technology** — what technology is and what it does to those who live with it — the autonomy of technique, technological determinism and the social shaping of technology, lock-in and practical compulsion, automation and deskilling, technical codes and the politics of artifacts, design that steers or captures its users, critical theory of technology and convivial tools. A technology's regulation stays with society-and-governance, a measured effect of one product with social-science and a verdict on what is owed with ethics, unless the work argues about technology as such; how software is built is software-engineering (group: philosophy; ADR-098).
 
-2 of 234 LEAD documents. Back to the [full index](../README.md).
+3 of 282 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [LEAD-068](../../../record/leads.d/LEAD-068.md) | Compare two arrangements whose overseer has the same authority and resources and that differ only in how fast the acting institution can act | The cleanest test of the owner's U11 ([CLAIM-710](../../../record/claims.d/CLAIM-710.md)); several claims depend on it. Named in [CLAIM-464](../../../record/claims.d/CLAIM-464.md) and [CASE-285](../../../record/cases.d/CASE-285.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-152](../../../record/leads.d/LEAD-152.md) v2 | Read the works on procedural friction | Named in [NOTE-2033](../../../record/notes.d/NOTE-2033.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-258](../../../record/leads.d/LEAD-258.md) | Test whether instructors assess understanding better from a submission with its governed collaboration record and follow-up questions than from the submission alone | A35 of the exchange "Hyper article interpretation" says of the educational use of a collaboration record, "I think the basic idea is worth testing", and gives no design. This lead is one, filling that gap: assess the same students' understanding from the submission alone and from the submission with its governed collaboration record and questions the record prompts, against an unassisted test. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Open |

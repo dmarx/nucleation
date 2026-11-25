@@ -140,18 +140,18 @@ grounds on it.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A24
 
-<!-- inactive-ok-file: CLAIM-tmpreipd ARG-tmpn6xou — new; filed from A23 and A24 of the exchange on 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-1316 ARG-252 — new; filed from A23 and A24 of the exchange on 2026-11-24 -->
 
 A24 §2 (ChatGPT, 2026-11-24) reads this account correctly through
 [NOTE-408](../notes.d/NOTE-408.md) ("seven domains of morality through distinct game-theoretic
 cooperation problems") and sets against it the thesis filed as
-[CLAIM-tmpreipd](../claims.d/CLAIM-tmpreipd.md): "Our framework does not need to reject these as important
+[CLAIM-1316](../claims.d/CLAIM-1316.md): "Our framework does not need to reject these as important
 sources of moral dispositions. But it does challenge an exhaustive
 identification of morality with cooperative solutions. A cooperative
 solution can alter the participants and their circumstances so
 substantially that it creates a new problem requiring moral evaluation."
 
-The assistant's check ([ARG-tmpn6xou](../arguments.d/ARG-tmpn6xou.md), Rejected) finds that this route does
+The assistant's check ([ARG-252](../arguments.d/ARG-252.md), Rejected) finds that this route does
 not tell against the account: the new problems A names are problems of
 exchange and division, which the account counts among its own, and A's
 contrast passes from the origin of moral dispositions to the validity of

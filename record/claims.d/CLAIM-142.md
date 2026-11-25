@@ -210,12 +210,12 @@ R_P(m_n)), whose response profile "could provide an empirical
 approximation to a perspectival character, provided it is invariant under
 appropriate changes of realization", and ties it to "the inquiry's
 Yoneda-inspired relational characterization" without citing this claim.
-A6 §9 does the same for its agnotological profile ([TERM-tmp9mag8](../terms.d/TERM-tmp9mag8.md)). This
+A6 §9 does the same for its agnotological profile ([TERM-171](../terms.d/TERM-171.md)). This
 claim bounds both: agreement on a restricted probe family does not show
 structure preserved, and only independently justified probes evaluated
-on held-out cases count. [LEAD-tmpqucxc](../leads.d/LEAD-tmpqucxc.md)'s design takes that condition in.
+on held-out cases count. [LEAD-271](../leads.d/LEAD-271.md)'s design takes that condition in.
 Bearing: a limit on A's proposal, uncited by A; no change. The wording of
 this note is the assistant's (Claude, in this session), reporting A's
 (ChatGPT's) text; adopting what it reports is the owner's call.
 
-<!-- inactive-ok-file: TERM-tmp9mag8 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->
+<!-- inactive-ok-file: TERM-171 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

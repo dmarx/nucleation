@@ -155,12 +155,12 @@ Keller 2016, read ([NOTE-2005](../notes.d/NOTE-2005.md), [THEORY-1917](../theory
 
 Robillard's dissertation ([LIT-2682](../literature.d/LIT-2682.md), Unfetched) and Robillard and Strawser's book ([LIT-2692](../literature.d/LIT-2692.md), Unavailable), registered for this question, were not read.
 
-<!-- inactive-ok-file: CLAIM-tmpdu9v6 — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+<!-- inactive-ok-file: CLAIM-1265 — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
 
 A32 §13 calls this question "almost tailor-made for the expanded cost
-model". Its answer is filed as [CLAIM-tmpdu9v6](../claims.d/CLAIM-tmpdu9v6.md) (bears_on): a genuine
+model". Its answer is filed as [CLAIM-1265](../claims.d/CLAIM-1265.md) (bears_on): a genuine
 obligation "may constrain the admissibility of a transition rather than
 merely raise its numerical cost", so the model needs a cost κ_i(p) and a
 permissibility Perm_N(p) apart; a participant may be able to withdraw

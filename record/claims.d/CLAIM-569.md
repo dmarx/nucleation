@@ -45,7 +45,7 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 3 abstract, §2 (ADR-tmpenzcn). No
+    stated or used in A49 Article 3 abstract, §2 (ADR-147). No
     change of title or status.
 role: thesis
 warrant: demonstrated
@@ -297,7 +297,7 @@ A43 listed the trade as a hypothesis (H3), hedged "under some workloads", and A3
 
 No status change.
 
-<!-- inactive-ok-file: CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+<!-- inactive-ok-file: CLAIM-1319 — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', U21 and A30
 
@@ -314,5 +314,5 @@ so F(C) ≠ R(C → C′), and A30 §8 asks for the revision cost to be directed
 (corrected 2026-11-24: [TERM-116](../terms.d/TERM-116.md) defines relational profiles, not a revision
 cost, and no entry defines R(C → C′)). The
 exchange supports and applies the claim; it adds nothing to it. What the
-stored-work model lacks for contracts is filed as [CLAIM-tmpsf9hp](CLAIM-tmpsf9hp.md), under
-the owner's [QUESTION-tmpb7fx7](../questions.d/QUESTION-tmpb7fx7.md). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+stored-work model lacks for contracts is filed as [CLAIM-1319](CLAIM-1319.md), under
+the owner's [QUESTION-531](../questions.d/QUESTION-531.md). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

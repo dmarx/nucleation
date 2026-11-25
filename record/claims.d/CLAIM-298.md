@@ -137,7 +137,7 @@ standing.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A11
 
-<!-- inactive-ok-file: CLAIM-tmpggu4v — Proposed; filed from the exchange of 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-1272 — Proposed; filed from the exchange of 2026-11-24 -->
 
 A11 §8 reads the framing effect as this claim reads a frame: "framing may
 alter the activated evaluative regime, not simply distort an otherwise
@@ -146,5 +146,5 @@ organization that interprets it." It adds a distinction this claim does not
 draw: "The framework should consequently distinguish transient frame
 activation from durable perspectival transformation. A one-off framing
 effect does not establish that a new perspective has formed." That is filed
-with the anchoring mechanism in [CLAIM-tmpggu4v](CLAIM-tmpggu4v.md) (A's, Proposed). Bearing: a
+with the anchoring mechanism in [CLAIM-1272](CLAIM-1272.md) (A's, Proposed). Bearing: a
 parallel, extended to evaluation. The claim is unchanged.

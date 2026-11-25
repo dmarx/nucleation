@@ -44,9 +44,9 @@ summary: >-
   the readings on 2026-11-22, one delegated reader per work, each filed in
   its own pull request into staging.
 ---
-<!-- inactive-ok-file: LIT-tmp9cdlq THEORY-tmpqj2d4 ARG-tmp68y3c — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
+<!-- inactive-ok-file: LIT-3213 THEORY-2309 ARG-244 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
 
-<!-- inactive-ok-file: THEORY-tmptsz1u ARG-tmpcpo8g CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
+<!-- inactive-ok-file: THEORY-2310 ARG-247 CLAIM-1327 — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: CLAIM-949 — Proposed; the claim this lead tests -->
 
 # LEAD-215: Read the type-theoretic sources for the account of specification, propositions as problems, realizability, refinement types and bidirectional typing, to test the correspondences the record states from memory
@@ -132,11 +132,11 @@ run-time checks this paper proposes, the nearest case of the elaboration
 ## Note of 2026-11-22: Kleene, read through van Oosten
 
 The Kleene item is done as far as a lawful copy allows. Kleene 1945
-([LIT-tmp9cdlq](../literature.d/LIT-tmp9cdlq.md)) is Unavailable; van Oosten's historical essay
-([LIT-tmpegqz0](../literature.d/LIT-tmpegqz0.md), [NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md), [THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md)) stands in for it. Finding: the
+([LIT-3213](../literature.d/LIT-3213.md)) is Unavailable; van Oosten's historical essay
+([LIT-3221](../literature.d/LIT-3221.md), [NOTE-2420](../notes.d/NOTE-2420.md), [THEORY-2309](../theory.d/THEORY-2309.md)) stands in for it. Finding: the
 realizer is the realization with its witness kept, as [CLAIM-949](../claims.d/CLAIM-949.md) says,
 and not with the evidence that it passes; realizability sits between the
-model-theoretic and proof-relevant readings ([ARG-tmp68y3c](../arguments.d/ARG-tmp68y3c.md)). The evidence half
+model-theoretic and proof-relevant readings ([ARG-244](../arguments.d/ARG-244.md)). The evidence half
 is left to the Martin-Löf item, and a reading of Kreisel's modified
 realizability (1959) or Troelstra's handbook chapter would serve if it is
 wanted. Kleene's paper, read, would settle the clauses. The lead's status
@@ -144,31 +144,31 @@ and stage are the owner's.
 
 ## Note of 2026-11-22: Dunfield and Krishnaswami, read
 
-Dunfield and Krishnaswami (2021) registered and read: [LIT-tmpqagik](../literature.d/LIT-tmpqagik.md), [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md),
-[THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md). On the lead's question: inference against checking matches the
+Dunfield and Krishnaswami (2021) registered and read: [LIT-3247](../literature.d/LIT-3247.md), [NOTE-2421](../notes.d/NOTE-2421.md),
+[THEORY-2310](../theory.d/THEORY-2310.md). On the lead's question: inference against checking matches the
 direction of fit as fact against requirement, in the authors' own words,
 but neither mode moves the term, and where the type comes from (mode) is
-not who must fit whom ([ARG-tmpcpo8g](../arguments.d/ARG-tmpcpo8g.md), [CLAIM-tmpugw2q](../claims.d/CLAIM-tmpugw2q.md)). Where elaboration sits is not
-answered by the survey; [LEAD-tmp7mkn0](LEAD-tmp7mkn0.md) plans that reading. The other four
+not who must fit whom ([ARG-247](../arguments.d/ARG-247.md), [CLAIM-1327](../claims.d/CLAIM-1327.md)). Where elaboration sits is not
+answered by the survey; [LEAD-245](LEAD-245.md) plans that reading. The other four
 readings remain.
 
 ## Note of 2026-11-22: Kolmogorov, read
-<!-- inactive-ok-block: THEORY-tmpdsft8 ARG-tmp6sdu6 — Proposed; the reading of 2026-11-22 and its argument -->
+<!-- inactive-ok-block: THEORY-2308 ARG-245 — Proposed; the reading of 2026-11-22 and its argument -->
 
 The first item is done: Kolmogorov 1932 read in full from the GDZ scan
-([LIT-tmpgnf38](../literature.d/LIT-tmpgnf38.md), [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md), [THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md)), and its bearing on [CLAIM-949](../claims.d/CLAIM-949.md)'s question as
-problem argued in [ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md): confirmed in what it asserts, narrowed (a question
+([LIT-3229](../literature.d/LIT-3229.md), [NOTE-2422](../notes.d/NOTE-2422.md), [THEORY-2308](../theory.d/THEORY-2308.md)), and its bearing on [CLAIM-949](../claims.d/CLAIM-949.md)'s question as
+problem argued in [ARG-245](../arguments.d/ARG-245.md): confirmed in what it asserts, narrowed (a question
 with an answer space is a disjunction of problems; nothing in the calculus
 revises a problem), widened (a problem carries its permitted means), and
 one attribution corrected. The other four readings remain. Status and
 stage unchanged.
 
 ## Note of 2026-11-25: Martin-Löf, read
-<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpl0sxy ARG-tmpneexr ARG-tmppv3b8 CLAIM-tmp01pyt CLAIM-tmpjs6hp ADR-108 — Proposed or Skimmed; filed from this reading, and the decision on running notes -->
+<!-- inactive-ok-file: THEORY-2307 NOTE-2419 ARG-249 ARG-253 ARG-255 CLAIM-1208 CLAIM-1289 ADR-108 — Proposed or Skimmed; filed from this reading, and the decision on running notes -->
 
-The third item, Martin-Löf (1984), is read, Skimmed: [LIT-tmphxyqk](../literature.d/LIT-tmphxyqk.md),
-[NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md), [THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md), with [ARG-tmpl0sxy](../arguments.d/ARG-tmpl0sxy.md), [ARG-tmpneexr](../arguments.d/ARG-tmpneexr.md),
-[ARG-tmppv3b8](../arguments.d/ARG-tmppv3b8.md), [CLAIM-tmp01pyt](../claims.d/CLAIM-tmp01pyt.md) and [CLAIM-tmpjs6hp](../claims.d/CLAIM-tmpjs6hp.md) (pull request 802, "Read
+The third item, Martin-Löf (1984), is read, Skimmed: [LIT-3232](../literature.d/LIT-3232.md),
+[NOTE-2419](../notes.d/NOTE-2419.md), [THEORY-2307](../theory.d/THEORY-2307.md), with [ARG-249](../arguments.d/ARG-249.md), [ARG-253](../arguments.d/ARG-253.md),
+[ARG-255](../arguments.d/ARG-255.md), [CLAIM-1208](../claims.d/CLAIM-1208.md) and [CLAIM-1289](../claims.d/CLAIM-1289.md) (pull request 802, "Read
 Martin-Löf 1984"). The copy is a scan hosted by a Carnegie Mellon course,
 OCR'd. Types are problems and specifications in the book's own words, and
 the "such that" set carries its proofs, the first reading under this lead
@@ -176,5 +176,5 @@ that supports the proof-relevant reading itself. A specification of tests
 is a type over a kind of thing already given and a category otherwise.
 Universes handle changes among the types they code; whether they handle a
 revision of what an answer could be is left to the owner, as two readings
-in [ARG-tmppv3b8](../arguments.d/ARG-tmppv3b8.md). The bidirectional correspondence is not tested by this
+in [ARG-255](../arguments.d/ARG-255.md). The bidirectional correspondence is not tested by this
 book. No running-notes branch was used ([ADR-108](../decisions.d/ADR-108.md) is Proposed).
