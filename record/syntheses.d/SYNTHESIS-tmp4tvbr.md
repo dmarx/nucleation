@@ -627,3 +627,14 @@ owner's alternative readings is right, that any implicit contract or norm
 is legitimate, that any constitutional theory is deficient, or that any
 corporation is sociopathic. Each is an open claim, question or lead above,
 and its standing is its own.
+
+## Note of 2026-11-25: the count of Part II's joins
+
+The section "The joins of the manuscript governance-of-becoming, Part II"
+and the version-4 summary say 19 joins. The drafts close with 17 (J4.1,
+J4.2, JR4.1, JR4.2, J5.1 to J5.7, J6.1 to J6.6), as the review's own table
+has; the fact-check of the revised Part II (2026-11-25) found the
+miscount. Of the 17, ten are restatements, three were rightly not made,
+and four failed as stated, of which J4.1 passed in a corrected form
+(CLAIM-tmp7rl3d). The wording is the assistant's (Claude, in this session);
+adopting it is the owner's call.

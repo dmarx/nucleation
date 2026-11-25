@@ -123,3 +123,15 @@ from U1–U5). This claim applies it to outside governance.
   result, and it is [QUESTION-071](../questions.d/QUESTION-071.md)'s problem.
 - **Not that any actual influence campaign works this way.** It names a
   route and a test, as [CLAIM-404](CLAIM-404.md) does.
+
+## Note of 2026-11-25: the summary's "procedure that stays what it was"
+
+The revision of the manuscript governance-of-becoming, Part II (Article 6,
+G6.5), found that the summary's phrase that the three held routes act on a
+decision "by a procedure that stays what it was" fits the evidence route
+(CLAIM-404) and the circumstance route (CLAIM-703), and sits uneasily with
+the criteria route (CLAIM-404), which changes the weights the procedure
+applies. The body's wording, an influence "on the standards a procedure
+applies while the influence lasts", is the more careful one, and is the one
+to read the summary by. The wording is the assistant's (Claude, in this
+session); adopting it is the owner's call.
