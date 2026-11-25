@@ -33,8 +33,8 @@ summary: >-
   reading lead on associative obligation and fair play filed for Article
   8 of the manuscript governance-of-becoming (on its Part III branch,
   not yet on staging) names it, for whether membership in a cooperative
-  scheme grounds obligations of its own (CLAIM-959, CLAIM-960,
-  QUESTION-460). What the work says is unverified until read; reading it
+  scheme grounds obligations of its own ([CLAIM-959](../claims.d/CLAIM-959.md), [CLAIM-960](../claims.d/CLAIM-960.md),
+  [QUESTION-460](../questions.d/QUESTION-460.md)). What the work says is unverified until read; reading it
   is a delegated reading, the owner's call (the audit, C10).
 ---
 

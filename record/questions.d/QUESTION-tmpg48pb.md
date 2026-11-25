@@ -18,7 +18,7 @@ summary: >-
   usable under different governance arrangements." It does not argue
   the point, so it is filed as a question and not as a claim in A's
   voice. The phrase occurs on the record only in readings of transactive
-  memory (NOTE-1804, NOTE-1832). The wording is the assistant's (Claude,
+  memory ([NOTE-1804](../notes.d/NOTE-1804.md), [NOTE-1832](../notes.d/NOTE-1832.md)). The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-1025 CASE-395 CLAIM-1117 CLAIM-1016 CLAIM-tmp2kfwd — Proposed; cited in prose with their standing, whatever it is -->
@@ -31,27 +31,27 @@ A51's sentence, "The same competence can be differently usable under
 different governance arrangements", is near several things the record
 holds, and none of them is a capacity of this kind:
 
-- **Matched competence, different reach.** CASE-412 and CASE-397 (Active)
+- **Matched competence, different reach.** [CASE-412](../cases.d/CASE-412.md) and [CASE-397](../cases.d/CASE-397.md) (Active)
   give regimes with identical output that differ in readiness for a
-  contingency, by budget rules and reserves. CLAIM-1025 constructs
+  contingency, by budget rules and reserves. [CLAIM-1025](../claims.d/CLAIM-1025.md) constructs
   organizations with the same frontiers and different joint sets.
-  CASE-395 proposes matched organizations that part on novel inquiry
+  [CASE-395](../cases.d/CASE-395.md) proposes matched organizations that part on novel inquiry
   because "their authorization and perspective-maintenance arrangements
   differ".
-- **The costs between competence and use.** CLAIM-1117 (who pays for
-  legibility) and CLAIM-1016 (authorization as a third cost on the shared
+- **The costs between competence and use.** [CLAIM-1117](../claims.d/CLAIM-1117.md) (who pays for
+  legibility) and [CLAIM-1016](../claims.d/CLAIM-1016.md) (authorization as a third cost on the shared
   budget).
-- **Achievements apart from competence.** CLAIM-tmp2kfwd's four: being
+- **Achievements apart from competence.** [CLAIM-tmp2kfwd](../claims.d/CLAIM-tmp2kfwd.md)'s four: being
   able to formulate a question, standing to pursue it, resources, and
   making its findings consequential.
-- **Transactive memory**, read in NOTE-1804 and NOTE-1832: knowledge of
+- **Transactive memory**, read in [NOTE-1804](../notes.d/NOTE-1804.md) and [NOTE-1832](../notes.d/NOTE-1832.md): knowledge of
   who knows what, measured as "expertise specialization, credibility and
   coordination", which an anticipated change of membership "hindered".
 
 What none says is whether there is an organizational capacity that exists
 only in the relations among members, so that removing the relations
 (members kept, each as capable as before) removes the capacity, and
-whether governance is one of those relations. If it is, CASE-395's
+whether governance is one of those relations. If it is, [CASE-395](../cases.d/CASE-395.md)'s
 discriminating result is evidence of a transactive capacity and not only
 of a cost structure.
 

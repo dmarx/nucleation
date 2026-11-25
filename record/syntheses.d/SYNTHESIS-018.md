@@ -191,26 +191,26 @@ Two candidates within the part were tried.
 - Anything with standing of its own.
 
 ## Note of 2026-11-25: the test of remorse against prudence, run on open sources
-<!-- inactive-ok-file: CLAIM-431 CASE-405 CLAIM-1136 CLAIM-1169 — not in force; cited in the note of 2026-11-25 with their standing -->
+<!-- inactive-ok-file: CASE-405 CLAIM-1136 CLAIM-1169 — not in force; cited in the note of 2026-11-25 with their standing -->
 
-This account says, of CLAIM-431's objection, that "the test whether harms
-keep being weighed once sanction lifts is unrun". LEAD-101 was run on
-open sources on 2026-11-23 (CASE-405, Proposed), after this account
+This account says, of [CLAIM-431](../claims.d/CLAIM-431.md)'s objection, that "the test whether harms
+keep being weighed once sanction lifts is unrun". [LEAD-101](../leads.d/LEAD-101.md) was run on
+open sources on 2026-11-23 ([CASE-405](../cases.d/CASE-405.md), Proposed), after this account
 (Article 4 G4.1; the audit of what was left out (2026-11-25), B21):
 
 - **No case meets the standard**: none holds reputation and benefit
-  fixed, so the test is "still unrun in the form this lead sets" (LEAD-101,
+  fixed, so the test is "still unrun in the form this lead sets" ([LEAD-101](../leads.d/LEAD-101.md),
   note of 2026-11-23). The account's sentence stands.
 - **What was found**: a monitor's effect on penalised violations lasts
-  only while it is on site (CLAIM-1136, Proposed, empirical); Wells
+  only while it is on site ([CLAIM-1136](../claims.d/CLAIM-1136.md), Proposed, empirical); Wells
   Fargo's growth restriction, this account's specimen, was lifted on
   2025-06-03, too recent to trace.
-- **What the test can show** (CLAIM-1169, Proposed, demonstrated):
+- **What the test can show** ([CLAIM-1169](../claims.d/CLAIM-1169.md), Proposed, demonstrated):
   reversion by a sanction-only corporation is predicted by both readings,
   so only a redesigned corporation's conduct after the lift separates
   remorse from prudence.
 
-CLAIM-1169 narrows what would answer CLAIM-431, which this account calls
+[CLAIM-1169](../claims.d/CLAIM-1169.md) narrows what would answer [CLAIM-431](../claims.d/CLAIM-431.md), which this account calls
 unanswered; it remains unanswered. A revision on the synthesis-review
-skill's stage 4 would integrate CASE-405, CLAIM-1136 and CLAIM-1169; this
+skill's stage 4 would integrate [CASE-405](../cases.d/CASE-405.md), [CLAIM-1136](../claims.d/CLAIM-1136.md) and [CLAIM-1169](../claims.d/CLAIM-1169.md); this
 note does not make it. No change of status. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

@@ -399,18 +399,18 @@ as a biotic scaffold for the other. No status change.
 <!-- inactive-ok-file: SYNTHESIS-053 — not in force; cited in the note of 2026-11-25 with their standing -->
 
 The manuscript's Article 1 (§1.8, G1.8) notes that no entry maps this
-question's five dimensions onto TERM-088's senses of individuation or
-CLAIM-474's achievements, and SYNTHESIS-053 says the criterion that would
+question's five dimensions onto [TERM-088](../terms.d/TERM-088.md)'s senses of individuation or
+[CLAIM-474](../claims.d/CLAIM-474.md)'s achievements, and [SYNTHESIS-053](../syntheses.d/SYNTHESIS-053.md) says the criterion that would
 answer the question "is not on the record". A map, the assistant's,
 tentative:
 
-- **Mutual dependence**: CLAIM-474's interconnection, what joint behaviour
+- **Mutual dependence**: [CLAIM-474](../claims.d/CLAIM-474.md)'s interconnection, what joint behaviour
   is possible. It individuates nothing by itself, as the exchange's thesis
-  in SYNTHESIS-053 says ("more interdependent without becoming more
+  in [SYNTHESIS-053](../syntheses.d/SYNTHESIS-053.md) says ("more interdependent without becoming more
   cooperative, more unified, more autonomous").
-- **Reproductive cohesion**: TERM-088's dynamical sense carried across
+- **Reproductive cohesion**: [TERM-088](../terms.d/TERM-088.md)'s dynamical sense carried across
   generations, the partnership's organization persisting through
-  reproduction, which is TERM-071's historical persistence.
+  reproduction, which is [TERM-071](../terms.d/TERM-071.md)'s historical persistence.
 - **Distribution of essential functions across genomes**: the constitutive
   sense, the relational organization helping fix each partner's identity
   and boundary.
@@ -419,15 +419,15 @@ tentative:
   expression) that is constitutive of the whole; it is the whole's
   autonomy only if that constraint is one of the whole's constitutive
   constraints and not only the host's.
-- **Alignment of selection**: no sense TERM-088 lists. It is the criterion
+- **Alignment of selection**: no sense [TERM-088](../terms.d/TERM-088.md) lists. It is the criterion
   of an evolutionary individual, about the level at which selection acts,
   and none of the descriptive, dynamical, constitutive and autonomy senses
   is about that.
 
-So four of the five land on TERM-088's senses or CLAIM-474's achievements,
+So four of the five land on [TERM-088](../terms.d/TERM-088.md)'s senses or [CLAIM-474](../claims.d/CLAIM-474.md)'s achievements,
 and the one this question's last clause turns on ("a new evolutionary
 individual") does not. An answer needs either an evolutionary sense
-beside TERM-088's four, which would be a term revision and the owner's, or
+beside [TERM-088](../terms.d/TERM-088.md)'s four, which would be a term revision and the owner's, or
 the clause read as the four together with aligned selection as a further
 condition of its own. Filed as a note, not a claim: the map is a reading of
 the definitions and adds no inference. No change of status. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

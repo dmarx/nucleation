@@ -314,17 +314,17 @@ Three candidates within the part were tried against [ADR-075](../decisions.d/ADR
 <!-- inactive-ok-file: CASE-330 CLAIM-899 — not in force; cited in the note of 2026-11-25 with their standing -->
 
 This account's "What it does not say" holds: "No record of wins has been
-read by QUESTION-268's procedure." Since 2026-11-22 one has: CASE-330
-(Proposed), LEAD-041's run, reads the FOMC's policy-rate decisions,
+read by [QUESTION-268](../questions.d/QUESTION-268.md)'s procedure." Since 2026-11-22 one has: [CASE-330](../cases.d/CASE-330.md)
+(Proposed), [LEAD-041](../leads.d/LEAD-041.md)'s run, reads the FOMC's policy-rate decisions,
 1966–2026, with the dual mandate's inflation and employment channels as
 perspectives. Its verdicts: the channels contest in about a quarter of
 quarters, nearly all in stagflation; "a channel's lead is shown in one
 window only, on four contests, a compromise of holding prevails in two";
 ambivalence is shown only for Burns's tenure and 1980–81 and only under
-some readings; "no persistence or resumption can be read". CLAIM-899
+some readings; "no persistence or resumption can be read". [CLAIM-899](../claims.d/CLAIM-899.md)
 (Proposed) states the procedure's six verdicts. So the sentence is out of
 date: a record has been read, and what it shows is a class of orderings on
 a few windows, as this account's title says a record of wins can (Article
 4 G4.1; the audit of what was left out (2026-11-25), B21). A revision on the synthesis-review skill's stage 4
-would integrate CASE-330 and CLAIM-899; this note does not make it. No
+would integrate [CASE-330](../cases.d/CASE-330.md) and [CLAIM-899](../claims.d/CLAIM-899.md); this note does not make it. No
 change of status. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

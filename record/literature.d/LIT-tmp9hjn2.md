@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'Registered 2026-11-25 from the audit of what was left out by the manuscript governance-of-becoming (B27), for LEAD-tmple60r; not sought or read.'
+status_note: 'Registered 2026-11-25 from the audit of what was left out by the manuscript governance-of-becoming (B27), for [LEAD-tmple60r](../leads.d/LEAD-tmple60r.md); not sought or read.'
 title: 'The Nature of the Firm'
 version: 1
 history:
@@ -31,7 +31,7 @@ summary: >-
   R. H. Coase (1937), Economica 4(16):386–405. The origin of
   transaction-cost economics: the firm exists where the cost of using
   the price mechanism exceeds the cost of directing resources by
-  authority. LEAD-tmple60r names it as what Article 3 of the manuscript
+  authority. [LEAD-tmple60r](../leads.d/LEAD-tmple60r.md) names it as what Article 3 of the manuscript
   governance-of-becoming must be compared against (G3.3). What the work
   says is unverified until read; reading it is a delegated reading, the
   owner's call (the audit, C10).
@@ -49,5 +49,5 @@ R. H. Coase (1937), Economica 4(16):386–405.
 
 ## Standing in the record
 
-Registered Deferred for LEAD-tmple60r, which names it in its reading list.
+Registered Deferred for [LEAD-tmple60r](../leads.d/LEAD-tmple60r.md), which names it in its reading list.
 What any source says of it is unverified until read.

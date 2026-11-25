@@ -76,7 +76,7 @@ branch.
 ## Note of 2026-11-25: the complements field added
 
 The manuscript's Article 4 (J4.1) noted that this claim "carries no
-`complements` field" to CLAIM-tmpupcws and CLAIM-tmpisfi1, which its body
+`complements` field" to [CLAIM-tmpupcws](CLAIM-tmpupcws.md) and [CLAIM-tmpisfi1](CLAIM-tmpisfi1.md), which its body
 cites as counting a joint settlement on one reading as productive, and
 left adding it "for the next pass" (the audit of what was left out,
 2026-11-25, B24). The field is added: this claim says when clarifying is

@@ -69,25 +69,25 @@ A51 §3: [CASE-161](../cases.d/CASE-161.md) "already implements much of the expe
 
 The Article 1 refresher's report asks that this lead note the record's
 non-ideal outside maintainers (Article 1 §1.5 and §1.7.3, step 5). For a
-scalar in the mutual-maintenance model they make a ladder below CLAIM-522's
+scalar in the mutual-maintenance model they make a ladder below [CLAIM-522](../claims.d/CLAIM-522.md)'s
 ideal controller, arm (c):
 
-- CASE-265 (Proposed, a construction): a constant outside controller gives
+- [CASE-265](../cases.d/CASE-265.md) (Proposed, a construction): a constant outside controller gives
   the same equilibrium and is "found out by perturbing the state".
-- CASE-268 (Proposed, the assistant's construction): a supply running the
+- [CASE-268](../cases.d/CASE-268.md) (Proposed, the assistant's construction): a supply running the
   production law on a delayed reading is separated by a brief knock, "by
   less as its delay shrinks"; the exact law on the present reading is not
   separated by any intervention on state.
-- CLAIM-693 (Proposed, demonstrated for the delay family): "The
+- [CLAIM-693](../claims.d/CLAIM-693.md) (Proposed, demonstrated for the delay family): "The
   interventions needed to find that a structure's maintenance comes from
   outside grow with how much of the internal production law the outside
   maintainer reproduces."
 
 For this lead: an outside controller for an object richer than a scalar
 will realize arm (c) only approximately. The design should declare where
-on CLAIM-693's ladder its controller sits, how much of the production law
+on [CLAIM-693](../claims.d/CLAIM-693.md)'s ladder its controller sits, how much of the production law
 it reproduces, and expect state probes to part (a) from (c) in that
 measure; only the exact-law rung needs the intervention on the mechanism
 inside the boundary that this lead asks for. None of the three has been
 checked by a session other than the filer's (Article 1's G1.7); their
-recomputation is LEAD-tmpc0rqa. No change of status or stage. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+recomputation is [LEAD-tmpc0rqa](LEAD-tmpc0rqa.md). No change of status or stage. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

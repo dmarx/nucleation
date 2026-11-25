@@ -20,9 +20,9 @@ advances:
 summary: >-
   From the manuscript governance-of-becoming, Article 6's G6.2 and G6.4
   (the audit of what was left out, 2026-11-25, B13). No lead tests
-  CLAIM-tmpei0cf's classification by a census, and status quo bias and
+  [CLAIM-tmpei0cf](../claims.d/CLAIM-tmpei0cf.md)'s classification by a census, and status quo bias and
   motivated skepticism, which A49 names among the biases to model, have
-  no entry beyond a row in CLAIM-tmpysg95. One lead holds both. The
+  no entry beyond a row in [CLAIM-tmpysg95](../claims.d/CLAIM-tmpysg95.md). One lead holds both. The
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
@@ -32,7 +32,7 @@ summary: >-
 
 ## The gap
 
-CLAIM-tmpei0cf (A11, Proposed): relative to a separately justified
+[CLAIM-tmpei0cf](../claims.d/CLAIM-tmpei0cf.md) (A11, Proposed): relative to a separately justified
 standard, "many cognitive biases are spurious sensitivity, a response
 that varies under a transformation of the situation that the standard
 treats as irrelevant, or spurious invariance, a response that does not
@@ -61,21 +61,21 @@ third column.
    census records which reading the source's measure supports. Motivated
    skepticism as an evidence threshold that varies with whether the
    conclusion is wanted, where the standard says it should not. Each row
-   also says whether CLAIM-tmpysg95's compiled-contract reading applies.
+   also says whether [CLAIM-tmpysg95](../claims.d/CLAIM-tmpysg95.md)'s compiled-contract reading applies.
 
 ## What would count
 
-- **For CLAIM-tmpei0cf**: most established biases fall in one of the two
+- **For [CLAIM-tmpei0cf](../claims.d/CLAIM-tmpei0cf.md)**: most established biases fall in one of the two
   classes once transformation and standard are declared.
 - **Against it**: a large share falls in neither, or the coding of a bias
   flips between classes with the choice of standard, so the classes
   describe the standard and not the bias.
-- **For LEAD-tmpr4xwc**: the census's rows are the bias measures that
-  CLAIM-tmp5atd3's co-variation test would move together; which share a
+- **For [LEAD-tmpr4xwc](LEAD-tmpr4xwc.md)**: the census's rows are the bias measures that
+  [CLAIM-tmp5atd3](../claims.d/CLAIM-tmp5atd3.md)'s co-variation test would move together; which share a
   transformation is a prediction it can use.
 
 ## Standing
 
 Open, at stage specified. Checked first, by grep over leads.d for
-"census", "status quo bias" and CLAIM-tmpei0cf: LEAD-122 and LEAD-206 are
+"census", "status quo bias" and [CLAIM-tmpei0cf](../claims.d/CLAIM-tmpei0cf.md): [LEAD-122](LEAD-122.md) and [LEAD-206](LEAD-206.md) are
 censuses of the record itself; none of the biases.

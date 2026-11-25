@@ -99,11 +99,11 @@ Much of what the lead says it needs first is held. A capacity dynamics: [CLAIM-6
 
 The manuscript's Article 3 (G3.5) and Article 4 (G4.3, last item) find one
 gap with two numbers: A32 §6's directed tolerances and grant conditions
-that "evolve through the history of interaction", which CLAIM-552's note of
+that "evolve through the history of interaction", which [CLAIM-552](../claims.d/CLAIM-552.md)'s note of
 2026-11-24 records as proposed and not constructed (the audit of what was left out (2026-11-25), B2). That is one
 directed edge of the environment this lead asks for, in which implicit
 contracts form without "pre-specifying who owes what to whom". It is held
-as LEAD-tmpobng3, which extends CASE-421's forager to learned tolerances
+as [LEAD-tmpobng3](LEAD-tmpobng3.md), which extends [CASE-421](../cases.d/CASE-421.md)'s forager to learned tolerances
 with a fixed-threshold control. Done first, it would give this lead's
 environment one component whose terms are learned and not supplied. No
 change of status or stage. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

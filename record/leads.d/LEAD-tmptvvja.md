@@ -24,7 +24,7 @@ operationalized_in:
 - CASE-388
 summary: >-
   From the manuscript governance-of-becoming, Article 5's G5.1 (the audit
-  of what was left out, 2026-11-25, B7). CASE-388 (A56 §8) is a proposed
+  of what was left out, 2026-11-25, B7). [CASE-388](../cases.d/CASE-388.md) (A56 §8) is a proposed
   study that no lead held. Its note of 2026-11-23, the assistant's, names
   three things the design needs, and its note of 2026-11-24 adds Study C's
   control from "Becoming Through One Another", that some novel inquiries
@@ -35,7 +35,7 @@ summary: >-
 
 # LEAD-tmptvvja: Run the study of project proposals through centralized review, translation support, protected exploration and distributed evaluation, in simulation with a hidden true value, with a fifth arm of standing budgets under centralized review and tasks in which novel inquiry is genuinely unhelpful
 
-## The design, as CASE-388 holds it
+## The design, as [CASE-388](../cases.d/CASE-388.md) holds it
 
 Proposals "with independently evaluated technical promise and matched
 implementation requirements" are presented under four arrangements:
@@ -45,9 +45,9 @@ meaningful evaluation, the approval rate, the rate of successful
 implementation, and whether unfamiliar but valuable classes of proposal
 survive long enough to produce evidence". What each comparison isolates
 is in the case: translation support against centralized review, who pays
-for legibility (CLAIM-1117); protected exploration, the circle between
-evidence and permission (CLAIM-1140); distributed evaluation, the
-alternative regimes (CLAIM-1119) and the thesis (CLAIM-1132).
+for legibility ([CLAIM-1117](../claims.d/CLAIM-1117.md)); protected exploration, the circle between
+evidence and permission ([CLAIM-1140](../claims.d/CLAIM-1140.md)); distributed evaluation, the
+alternative regimes ([CLAIM-1119](../claims.d/CLAIM-1119.md)) and the thesis ([CLAIM-1132](../claims.d/CLAIM-1132.md)).
 
 ## What this lead fixes, before any run
 
@@ -58,7 +58,7 @@ From the case's two notes:
    construction (note of 2026-11-23, points 1 and 2).
 2. **A fifth arm**: standing budgets with centralized review, so that the
    effect of protected exploration and distributed evaluation is read as
-   a change in the unit of authorization (CLAIM-1016) and not as a lower
+   a change in the unit of authorization ([CLAIM-1016](../claims.d/CLAIM-1016.md)) and not as a lower
    cost per proposal (point 3).
 3. **Study C's control**: tasks in which novel inquiries are genuinely
    unhelpful, "so that indiscriminate authorization is not rewarded", with
@@ -67,7 +67,7 @@ From the case's two notes:
 
 ## What would count
 
-- **For CLAIM-1140's circle**: unfamiliar valuable classes die under
+- **For [CLAIM-1140](../claims.d/CLAIM-1140.md)'s circle**: unfamiliar valuable classes die under
   centralized review for want of evidence they could only produce with
   approval, and survive under protected exploration and under the fifth
   arm, but not under translation support alone.
@@ -81,4 +81,4 @@ From the case's two notes:
 ## Standing
 
 Open, at stage specified. Checked first, by grep over leads.d for
-CASE-388: no lead names it. The sibling lead for CASE-395 is LEAD-tmp8ogv0.
+[CASE-388](../cases.d/CASE-388.md): no lead names it. The sibling lead for [CASE-395](../cases.d/CASE-395.md) is [LEAD-tmp8ogv0](LEAD-tmp8ogv0.md).

@@ -37,7 +37,7 @@ summary: >-
   objection to them. The reading list of the reading lead on associative
   obligation and fair play filed for Article 8 of the manuscript
   governance-of-becoming (on its Part III branch, not yet on staging)
-  names its central paper, for CLAIM-959's "independently justified
+  names its central paper, for [CLAIM-959](../claims.d/CLAIM-959.md)'s "independently justified
   principle of associative obligation". What the work says is unverified
   until read; reading it is a delegated reading, the owner's call (the
   audit, C10).
