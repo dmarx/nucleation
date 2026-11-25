@@ -1,7 +1,14 @@
 ---
-status: Open
+status: Dissolved
 title: "Should the hyperarticle atlas be filed as an account of the record's argument, or as a manuscript composed of manuscripts"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Dissolved: a question about the record's procedure (how to file the
+    atlas), not a question of the inquiry. The owner's ruling of
+    2026-11-25. ADR-tmpm72rh answers it as a decision.
 tags:
 - design-rationale
 - epistemology
@@ -9,6 +16,9 @@ date: '2026-11-25'
 line:
 - scholarly-publishing
 - record-as-apparatus
+status_note: >-
+  Retired 2026-11-25: misfiled as part of the inquiry; a procedural
+  decision, held in ADR-tmpm72rh.
 summary: >-
   The owner's question of 2026-11-25, after the atlas's fifteen scopes were
   documented as lines ([ADR-tmpd3ckn](../decisions.d/ADR-tmpd3ckn.md)) and three of its articles registered

@@ -1,7 +1,17 @@
 ---
 status: Proposed
 title: "A work atlas is added for the hyperarticle atlas, a series whose articles are works of their own: a claim is a member when the atlas's prose states it or uses it as a step, and its fiber lists are citations"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    At the owner's ruling of 2026-11-25 ("CLAIM-tmpcd1e0 and
+    CLAIM-tmpqhazs shouldn't have been filed as CLAIMs, these are proposed
+    procedural decisions being asserted as if they are part of the
+    inquiry"), their content moves here: the series is this decision, the
+    later synthesis is its deferred step, and filing it now is a rejected
+    alternative. The two claims and QUESTION-tmptcvtu are retired.
 tags:
 - record
 date: '2026-11-25'
@@ -11,10 +21,9 @@ summary: >-
   wait on me either"), the works vocabulary gains atlas, the hyperarticle
   atlas v0.3 (ChatGPT's A65 in "Hyper article interpretation", kept in
   scratch/atlas/atlas-v0.3.md), as a series whose articles are works of
-  their own, on the precedent of governance-of-becoming ([ADR-tmpenzcn](ADR-tmpenzcn.md)). This
-  takes the first of the two answers to the owner's question
-  [QUESTION-tmptcvtu](../questions.d/QUESTION-tmptcvtu.md) ([CLAIM-tmpcd1e0](../claims.d/CLAIM-tmpcd1e0.md)); the second, an account over the
-  fifteen lines' accounts ([CLAIM-tmpqhazs](../claims.d/CLAIM-tmpqhazs.md)), waits on those accounts. Its
+  their own, on the precedent of governance-of-becoming ([ADR-tmpenzcn](ADR-tmpenzcn.md)). Its
+  synthesis, one over the fifteen lines' syntheses, waits on those
+  syntheses. Its
   members are found by [ADR-104](ADR-104.md)'s rule in the atlas's prose: 55 claims and
   arguments, 9 stated without their codes. Its fiber lists are citations.
   Rejected: filing the atlas as a SYNTHESIS now, since its outlines add
@@ -31,10 +40,11 @@ The atlas divides the record into fifteen scopes, each with a
 microabstract, an outline and a core fiber ([ADR-tmpd3ckn](ADR-tmpd3ckn.md) made each scope a
 line; [ADR-tmp85hdc](ADR-tmp85hdc.md) registered its three entry points' articles as works).
 The owner asked whether it should be a synthesis or a manuscript composed of
-manuscripts ([QUESTION-tmptcvtu](../questions.d/QUESTION-tmptcvtu.md)). Two answers were filed: a series work now
-([CLAIM-tmpcd1e0](../claims.d/CLAIM-tmpcd1e0.md)) and an account over accounts once the scopes' lines have
-accounts ([CLAIM-tmpqhazs](../claims.d/CLAIM-tmpqhazs.md)). The owner then said the registration need not
-wait.
+manuscripts, and then said that registering the work need not wait. This
+decision answers that procedural question itself. (It was first filed as a
+question with two claims as answers; the owner ruled on 2026-11-25 that
+those were procedural decisions asserted as if they were part of the
+inquiry, and they are retired in favour of this decision.)
 
 ## Decision
 
@@ -51,7 +61,24 @@ wait.
   microabstracts, the outline beats, the "missing from the fiber" and
   "open seam" lines and the section V table. The core fiber lists are bare
   lists of codes and count as citations.
-- **Its account waits** on the fifteen lines' accounts ([CLAIM-tmpqhazs](../claims.d/CLAIM-tmpqhazs.md)).
+- **Its synthesis waits.** The atlas can be a SYNTHESIS only as one over
+  the fifteen lines' syntheses, a cross-line synthesis ([ADR-129](ADR-129.md)) whose
+  components are those syntheses. It cannot be one now. Its outlines "may
+  propose transitions that no existing ARG or CLAIM establishes" (A65), and a
+  synthesis adds nothing ([ADR-084](ADR-084.md)). Its fibers are "candidate source spines,
+  not exhaustive dependency closures", so a synthesis built on them would
+  leave out in-force components of its scopes. It is filed once each of the
+  fifteen lines has a current synthesis, starting with the four lines
+  [ADR-tmpd3ckn](ADR-tmpd3ckn.md) added.
+
+## Alternatives
+
+- **File the atlas as a SYNTHESIS now.** Rejected, for the two reasons in
+  the decision above.
+- **File the choice as a QUESTION with claims as answers.** Tried first and
+  retired at the owner's ruling. How to file the atlas is a decision about
+  the record's procedure, which an ADR holds; the argument schemes hold the
+  inquiry's own propositions.
 
 ## Consequences
 
