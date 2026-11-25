@@ -352,3 +352,33 @@ JC1, which this account listed as a study to be filed as a CASE, is now
 filed as [CASE-412](../cases.d/CASE-412.md), with its novel-demand arm as [CASE-397](../cases.d/CASE-397.md); this
 version integrates the first. The note is the assistant's (Claude, in
 this session); adopting it is the owner's call.
+
+## Note of 2026-11-25: three ways of losing a route under use-following budgets, unjoined
+<!-- inactive-ok-file: CLAIM-tmpjoaj3 — not in force; cited in the note of 2026-11-25 with their standing -->
+
+The manuscript governance-of-possibility cites [CLAIM-921](../claims.d/CLAIM-921.md) (Active,
+demonstrated) and [CLAIM-tmpjoaj3](../claims.d/CLAIM-tmpjoaj3.md) (A's, Proposed) beside [CLAIM-577](../claims.d/CLAIM-577.md) (Active,
+demonstrated), and no account relates them (the audit of what was left out (2026-11-25), B20). This account
+integrates [CLAIM-577](../claims.d/CLAIM-577.md) and neither of the others. The three are distinct
+mechanisms, and governance-of-possibility keeps them apart (its §5: one
+"concerns loss of affordable transition pathways; the other concerns loss
+of the underlying capability", A51 §3):
+
+- [CLAIM-577](../claims.d/CLAIM-577.md): under the peak rule a transition whose threshold exceeds the
+  holding cost is lost after one period of holding; the capability to hold
+  is untouched.
+- [CLAIM-921](../claims.d/CLAIM-921.md): under a budget that follows observed use, competence that
+  decays without funded maintenance reaches a state in which it is "never
+  used or funded again"; the capability itself is lost.
+- [CLAIM-tmpjoaj3](../claims.d/CLAIM-tmpjoaj3.md): reactive work and the engineering that would remove its
+  cause draw on one budget, the reactive work takes precedence, and the
+  capacity to transform is consumed while operation succeeds.
+
+A link no entry states: the remedies of the second and third have one
+form, funding held apart from current use ([CLAIM-921](../claims.d/CLAIM-921.md)'s "maintenance
+funded apart from use"; [CLAIM-tmpjoaj3](../claims.d/CLAIM-tmpjoaj3.md)'s "standing reservation of
+capacity for transformation"), and this account's reserve held as budget
+may be the same form for the first. Whether that is one remedy for three
+mechanisms, or three remedies that share a shape, is for the next
+synthesis review, with the [ADR-075](../decisions.d/ADR-075.md) test. The account is not revised here.
+No change of status. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

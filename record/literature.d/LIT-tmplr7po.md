@@ -1,0 +1,57 @@
+---
+status: Deferred
+status_note: 'Registered 2026-11-25 from the audit of what was left out by the manuscript governance-of-becoming (B27), for the reading lead on associative obligation and fair play filed for Article 8 of the manuscript governance-of-becoming (on its Part III branch, not yet on staging); not sought or read.'
+title: 'Law''s Empire'
+version: 1
+history:
+- version: 1
+  date: '2026-11-25'
+  note: >-
+    Filed, not read. Registered from the audit of what was left out,
+    2026-11-25, B27, which found no such work in literature.d. Searched
+    again on 2026-11-25 by title, author and DOI in literature.d: not
+    held. No DOI was found for the book (OpenAlex search by title and
+    author returned only reviews and critiques). Open Library's ISBN
+    record (0674518357) gives Law's empire, Belknap Press, 1986, at
+    books/OL2546676M, which is the `url:`. The year only is known, so
+    `published:` is the first of that year.
+tags:
+- law
+- ethics
+- society-and-governance
+date: '2026-11-25'
+published: '1986-01-01'
+url: 'https://openlibrary.org/books/OL2546676M'
+first_author: 'Dworkin'
+keywords:
+- 'associative obligations'
+- 'integrity'
+- 'community of principle'
+implementations: []
+summary: >-
+  Ronald Dworkin (1986), Belknap Press of Harvard University Press;
+  chapter 6, "Integrity", holds the account of associative obligations.
+  Dworkin's account of associative obligations, in chapter 6, as the
+  ground of political legitimacy in a "community of principle". The
+  reading list of the reading lead on associative obligation and fair
+  play filed for Article 8 of the manuscript governance-of-becoming (on
+  its Part III branch, not yet on staging) names it, for whether
+  membership as such grounds obligations ([QUESTION-460](../questions.d/QUESTION-460.md), [CLAIM-959](../claims.d/CLAIM-959.md)). What
+  the work says is unverified until read; reading it is a delegated
+  reading, the owner's call (the audit, C10).
+---
+
+<!-- inactive-ok-file: CLAIM-959 — Proposed; cited in prose with their standing, whatever it is -->
+
+# LIT-tmplr7po: Law's Empire
+
+Ronald Dworkin (1986), Belknap Press of Harvard University Press; chapter 6, "Integrity", holds the account of associative obligations.
+
+## Key takeaways
+
+- Not read.
+
+## Standing in the record
+
+Registered Deferred for the reading lead on associative obligation and fair play filed for Article 8 of the manuscript governance-of-becoming (on its Part III branch, not yet on staging), which names it in its reading list.
+What any source says of it is unverified until read.
