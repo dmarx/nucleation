@@ -3,7 +3,14 @@ number: 1401
 status: Active
 formerly:
 - THEORY-tmpj2rdc
-title: 'Bogetoft and Hougaard hold that an organization''s measured technical inefficiency can be a rational choice of on-the-job slack traded against profit, so that under price-based or restriction-based control a rational unit still uses an efficient underlying plan, and its observed inputs reveal partial information about how it values the different kinds of slack'
+title: 'Measured inefficiency can be rational slack'
+statement: >-
+  Bogetoft and Hougaard hold that an organization's measured technical
+  inefficiency can be a rational choice of on-the-job slack traded against
+  profit, so that under price-based or restriction-based control a rational
+  unit still uses an efficient underlying plan, and its observed inputs
+  reveal partial information about how it values the different kinds of
+  slack
 version: 2
 history:
 - version: 1
@@ -47,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2076 — Unfetched; the unread paper this one stands in for, cited as open -->
 
-# THEORY-1401: Bogetoft and Hougaard hold that an organization's measured technical inefficiency can be a rational choice of on-the-job slack traded against profit, so that under price-based or restriction-based control a rational unit still uses an efficient underlying plan, and its observed inputs reveal partial information about how it values the different kinds of slack
+# THEORY-1401: Measured inefficiency can be rational slack
 
 ## Source
 

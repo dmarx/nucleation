@@ -16,7 +16,13 @@ promote_when: >-
   the fact, such as the Havasupai case, cannot settle it, and neither can a
   check that the argument scheme is valid, since validity is all the paper
   claims.
-title: "Stubborn distrust of scientific experts can follow validly from the truster's position: one with little say in collective decisions, who has reason to think the experts' service ethos leaves out their core interests, has a reason to distrust an expert because of the expert's prestige, whatever the expert's competence or goodwill"
+title: 'Status distrust of experts can be rational'
+statement: >-
+  Stubborn distrust of scientific experts can follow validly from the
+  truster's position: one with little say in collective decisions, who has
+  reason to think the experts' service ethos leaves out their core
+  interests, has a reason to distrust an expert because of the expert's
+  prestige, whatever the expert's competence or goodwill
 version: 1
 tags:
 - epistemology
@@ -37,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-119 LIT-203 — Unavailable; Keeley, held and unread, named as an open question -->
 
-# THEORY-615: Stubborn distrust of scientific experts can follow validly from the truster's position: one with little say in collective decisions, who has reason to think the experts' service ethos leaves out their core interests, has a reason to distrust an expert because of the expert's prestige, whatever the expert's competence or goodwill
+# THEORY-615: Status distrust of experts can be rational
 
 ## Source
 

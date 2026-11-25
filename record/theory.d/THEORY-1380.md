@@ -9,7 +9,13 @@ promote_when: >-
   algorithm, combining local consistency with linear algebra over prime
   fields, solves every CSP over a finite language on a finite domain
   preserved by a weak near-unanimity operation in polynomial time.
-title: 'Zhuk shows, independently of Bulatov, that for a finite set of relations on a finite domain, deciding satisfiability is solvable in polynomial time if a weak near-unanimity operation preserves every relation and is NP-complete otherwise, by an algorithm that combines local consistency with linear algebra over prime fields'
+title: 'Finite CSPs are in P or NP-complete'
+statement: >-
+  Zhuk shows, independently of Bulatov, that for a finite set of relations
+  on a finite domain, deciding satisfiability is solvable in polynomial time
+  if a weak near-unanimity operation preserves every relation and is
+  NP-complete otherwise, by an algorithm that combines local consistency
+  with linear algebra over prime fields
 version: 2
 history:
 - version: 2
@@ -47,7 +53,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: NOTE-1555 — Skimmed and new; cited from the reading of Zhuk (2020) as open -->
 
-# THEORY-1380: Zhuk shows, independently of Bulatov, that for a finite set of relations on a finite domain, deciding satisfiability is solvable in polynomial time if a weak near-unanimity operation preserves every relation and is NP-complete otherwise, by an algorithm that combines local consistency with linear algebra over prime fields
+# THEORY-1380: Finite CSPs are in P or NP-complete
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1597
 status: Active
 formerly:
 - THEORY-tmpf51cs
-title: 'Volkan argues, from clinical work and facilitated dialogues, that a large group''s shared image of an ancestral injury at the hands of an enemy, real or mythologized, changes function across generations into a marker of the group''s identity, a chosen trauma, which a threat to that identity brings up, and that a recent trauma still mourned, like the Holocaust, is not one'
+title: 'Ancestral injury becomes a chosen trauma'
+statement: >-
+  Volkan argues, from clinical work and facilitated dialogues, that a large
+  group's shared image of an ancestral injury at the hands of an enemy, real
+  or mythologized, changes function across generations into a marker of the
+  group's identity, a chosen trauma, which a threat to that identity brings
+  up, and that a recent trauma still mourned, like the Holocaust, is not one
 version: 2
 history:
 - version: 1
@@ -37,7 +43,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1597: Volkan argues, from clinical work and facilitated dialogues, that a large group's shared image of an ancestral injury at the hands of an enemy, real or mythologized, changes function across generations into a marker of the group's identity, a chosen trauma, which a threat to that identity brings up, and that a recent trauma still mourned, like the Holocaust, is not one
+# THEORY-1597: Ancestral injury becomes a chosen trauma
 
 ## The account
 

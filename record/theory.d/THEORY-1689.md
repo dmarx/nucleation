@@ -3,7 +3,13 @@ number: 1689
 status: Proposed
 formerly:
 - THEORY-tmpjzvh4
-title: 'Monnier and colleagues (2026) propose mutual information between predictions and sensitive attributes as a single template for intersectional and multiclass fairness metrics and mitigation, and observe that it and a pairwise-disparity criterion rank the same models differently.'
+title: 'Mutual information as one fairness template'
+statement: >-
+  Monnier and colleagues (2026) propose mutual information between
+  predictions and sensitive attributes as a single template for
+  intersectional and multiclass fairness metrics and mitigation, and observe
+  that it and a pairwise-disparity criterion rank the same models
+  differently.
 version: 1
 source:
 - LIT-2461
@@ -26,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1739 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1689: Monnier and colleagues (2026) propose mutual information between predictions and sensitive attributes as a single template for intersectional and multiclass fairness metrics and mitigation, and observe that it and a pairwise-disparity criterion rank the same models differently.
+# THEORY-1689: Mutual information as one fairness template
 
 ## The account
 

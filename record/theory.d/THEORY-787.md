@@ -39,8 +39,12 @@ promote_when: "A test of whether the macro advantage depends on the uniform inte
 
 # The claim. Repeat it as the body's `# THEORY-787:` heading; the lint checks
 # that the two agree.
-title: "A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information"
-
+title: 'Macro scales can beat micro causally'
+statement: >-
+  A system's causal structure can be most effective at a macro scale, so
+  that causation emerges at a coarse-grained level and the macro description
+  is the one at which the system's causes are found, as Hoel, Albantakis and
+  Tononi propose from effective information
 version: 2
 history:
 - version: 2
@@ -83,7 +87,7 @@ answers:
 <!-- inactive-ok-file: ARG-041 — Proposed or Open; what replaces this account and the case it leaves, named in the status note -->
 
 
-# THEORY-787: A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information
+# THEORY-787: Macro scales can beat micro causally
 
 ## Source
 

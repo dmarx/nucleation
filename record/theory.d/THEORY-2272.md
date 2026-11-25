@@ -11,7 +11,15 @@ promote_when: >-
   with the number of subgroups; and the taxonomy is checked to cover the
   meta-metrics in use, so that the reversals are not artefacts of an
   unusual choice of comparison, aggregation or weighting.
-title: 'Monnier, George, Guyard, Tarnec and Kountouris (2026) show that turning intersectional subgroup fairness measurements into one score requires a meta-metric, a choice of comparison, aggregation and weighting, and that different meta-metrics, which agree only when there is no disparity, can reverse the fairness ranking of the same distributions and models, increasingly so as subgroups multiply, so that the choice encodes which pattern of disadvantage counts as worse and needs its own justification'
+title: 'Fairness meta-metrics can reverse rankings'
+statement: >-
+  Monnier, George, Guyard, Tarnec and Kountouris (2026) show that turning
+  intersectional subgroup fairness measurements into one score requires a
+  meta-metric, a choice of comparison, aggregation and weighting, and that
+  different meta-metrics, which agree only when there is no disparity, can
+  reverse the fairness ranking of the same distributions and models,
+  increasingly so as subgroups multiply, so that the choice encodes which
+  pattern of disadvantage counts as worse and needs its own justification
 version: 1
 tags:
 - society-and-governance
@@ -34,7 +42,7 @@ summary: >-
   weighed, not on who counts.
 ---
 
-# THEORY-2272: Monnier, George, Guyard, Tarnec and Kountouris (2026) show that turning intersectional subgroup fairness measurements into one score requires a meta-metric, a choice of comparison, aggregation and weighting, and that different meta-metrics, which agree only when there is no disparity, can reverse the fairness ranking of the same distributions and models, increasingly so as subgroups multiply, so that the choice encodes which pattern of disadvantage counts as worse and needs its own justification
+# THEORY-2272: Fairness meta-metrics can reverse rankings
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 1289
 status: Active
 formerly:
 - THEORY-tmp7jall
-title: 'In a dynamical model anchored to an identified mechanism, holding one part''s variable fixed and finding that the phenomenon persists indicates that the part is not a component of the mechanism responsible for that phenomenon, as when Smolen et al. fixed CLOCK and circadian oscillation continued; the verdict is relative to the phenomenon and only as good as the model, and it decides which pathways the phenomenon needs, not which lie inside the system'
+title: 'Clamping a part tests its componenthood'
+statement: >-
+  In a dynamical model anchored to an identified mechanism, holding one
+  part's variable fixed and finding that the phenomenon persists indicates
+  that the part is not a component of the mechanism responsible for that
+  phenomenon, as when Smolen et al. fixed CLOCK and circadian oscillation
+  continued; the verdict is relative to the phenomenon and only as good as
+  the model, and it decides which pathways the phenomenon needs, not which
+  lie inside the system
 version: 2
 history:
 - version: 1
@@ -42,7 +50,7 @@ corroborates:
 - CLAIM-414
 ---
 
-# THEORY-1289: In a dynamical model anchored to an identified mechanism, holding one part's variable fixed and finding that the phenomenon persists indicates that the part is not a component of the mechanism responsible for that phenomenon, as when Smolen et al. fixed CLOCK and circadian oscillation continued; the verdict is relative to the phenomenon and only as good as the model, and it decides which pathways the phenomenon needs, not which lie inside the system
+# THEORY-1289: Clamping a part tests its componenthood
 
 ## Source
 

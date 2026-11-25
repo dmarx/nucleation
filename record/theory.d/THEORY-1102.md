@@ -3,7 +3,16 @@ number: 1102
 status: Active
 formerly:
 - THEORY-tmpckv2l
-title: 'On Pittis and Gabaldón''s stem-length analysis of the LECA proteome, families of alphaproteobacterial origin and mitochondrial location sit closer to their prokaryotic relatives, after correction for each family''s rate, than families of other bacterial origin (P = 0.044), which sit closer than archaeal families, and the authors read this as late acquisition of the mitochondrion by a host whose proteome was already chimaeric, under their stated assumption that rates before and after LECA are correlated'
+title: 'Mitochondria arrived late to a chimaeric host'
+statement: >-
+  On Pittis and Gabaldón's stem-length analysis of the LECA proteome,
+  families of alphaproteobacterial origin and mitochondrial location sit
+  closer to their prokaryotic relatives, after correction for each family's
+  rate, than families of other bacterial origin (P = 0.044), which sit
+  closer than archaeal families, and the authors read this as late
+  acquisition of the mitochondrion by a host whose proteome was already
+  chimaeric, under their stated assumption that rates before and after LECA
+  are correlated
 version: 2
 history:
 - version: 1
@@ -78,7 +87,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1206 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 
-# THEORY-1102: On Pittis and Gabaldón's stem-length analysis of the LECA proteome, families of alphaproteobacterial origin and mitochondrial location sit closer to their prokaryotic relatives, after correction for each family's rate, than families of other bacterial origin (P = 0.044), which sit closer than archaeal families, and the authors read this as late acquisition of the mitochondrion by a host whose proteome was already chimaeric, under their stated assumption that rates before and after LECA are correlated
+# THEORY-1102: Mitochondria arrived late to a chimaeric host
 
 ## Source
 

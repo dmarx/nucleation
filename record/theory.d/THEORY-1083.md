@@ -3,7 +3,13 @@ number: 1083
 status: Active
 formerly:
 - THEORY-tmposaze
-title: 'Barad holds agential realism to be naturalized metaphysics justified by quantum mechanics and applied once, to the one reality, with its scope extended to the lifeworld; she rejects both reading it as an analogy and reading it as a template that quantum mechanics and other domains each instantiate'
+title: 'Agential realism is applied once, not analogized'
+statement: >-
+  Barad holds agential realism to be naturalized metaphysics justified by
+  quantum mechanics and applied once, to the one reality, with its scope
+  extended to the lifeworld; she rejects both reading it as an analogy and
+  reading it as a template that quantum mechanics and other domains each
+  instantiate
 version: 2
 history:
 - version: 2
@@ -43,7 +49,7 @@ bounds:
 - CLAIM-477
 ---
 
-# THEORY-1083: Barad holds agential realism to be naturalized metaphysics justified by quantum mechanics and applied once, to the one reality, with its scope extended to the lifeworld; she rejects both reading it as an analogy and reading it as a template that quantum mechanics and other domains each instantiate
+# THEORY-1083: Agential realism is applied once, not analogized
 
 ## Source
 
