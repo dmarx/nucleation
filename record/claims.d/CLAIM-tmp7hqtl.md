@@ -127,11 +127,11 @@ entry.
 
 **Does "violation" presuppose a requirement?** The first draft read the
 second mark, "Differentiated responses to satisfaction and violation", as
-CLAIM-tmphq6hp's operative norm (its join J2.2). The independent reader of
-the joins found that the reading failed (SYNTHESIS-tmp4tvbr, "The joins of
+[CLAIM-tmphq6hp](CLAIM-tmphq6hp.md)'s operative norm (its join J2.2). The independent reader of
+the joins found that the reading failed ([SYNTHESIS-tmp4tvbr](../syntheses.d/SYNTHESIS-tmp4tvbr.md), "The joins of
 the manuscript governance-of-becoming, Part I"), and left a residue. Read
 literally, the second mark may not exclude a mere predictor that revises
-its expectation on disconfirmation, and CLAIM-tmp0d1fq's `defeated_if`
+its expectation on disconfirmation, and [CLAIM-tmp0d1fq](CLAIM-tmp0d1fq.md)'s `defeated_if`
 needs that excluded ("never more than a learned prediction or a bare
 causal dependence"). Two readings are open.
 
@@ -152,7 +152,7 @@ above pass the mark on either reading, since they correct.
 
 **"or" against "and".** This claim's title says "governs deviation,
 conflict or breach", after A16 §13 ("counterfactual circumstances of
-deviation, conflict or breach"). TERM-tmplpplx, which takes its criterion
+deviation, conflict or breach"). [TERM-tmplpplx](../terms.d/TERM-tmplpplx.md), which takes its criterion
 from this claim, says "deviation, conflict and breach". In a necessary
 condition "and" is the stricter. The gap is narrower than it looks, since
 this claim's third mark ("settles which prevails when they conflict")

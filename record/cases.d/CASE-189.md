@@ -261,11 +261,11 @@ not [CLAIM-456](../claims.d/CLAIM-456.md)'s comparison with outside reset, which
 <!-- inactive-ok-file: CLAIM-606 — Proposed; cited with its standing -->
 
 The manuscript's first draft (Article 1, §1.4) read Construction 2 as of
-CLAIM-604's kind. The independent reader of its joins (J1.4) found that
-this misstates CLAIM-604, and the revision corrected the article.
-CLAIM-604's model draws repair from a supply at a rate set by the intact
+[CLAIM-604](../claims.d/CLAIM-604.md)'s kind. The independent reader of its joins (J1.4) found that
+this misstates [CLAIM-604](../claims.d/CLAIM-604.md), and the revision corrected the article.
+[CLAIM-604](../claims.d/CLAIM-604.md)'s model draws repair from a supply at a rate set by the intact
 share, and Construction 2 has no supply variable: "the substrates are
-assumed available". Of CLAIM-604's three signatures, Construction 2 shows
+assumed available". Of [CLAIM-604](../claims.d/CLAIM-604.md)'s three signatures, Construction 2 shows
 the ignition threshold ("Without the encounter, q = 0 is invariant and the
 capacities decay"); collapse appears only in the damage parameter, at the
 fold d* ≈ 0.6908, not in a supply; and an outage after which restoring the
@@ -274,9 +274,9 @@ supplied.
 
 The reader named the computation that would settle it: add a supply
 parameter to Construction 2's production terms, and see whether all three
-signatures appear or not. That would test CLAIM-604's signatures on a
+signatures appear or not. That would test [CLAIM-604](../claims.d/CLAIM-604.md)'s signatures on a
 construction filed for another purpose. It has not been computed, and this
-note records the gap only. Even if all three appeared, CLAIM-606 holds
+note records the gap only. Even if all three appeared, [CLAIM-606](../claims.d/CLAIM-606.md) holds
 that the signatures do not identify upkeep drawn in through the
 structure's own state; withdrawing the supply does.
 

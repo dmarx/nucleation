@@ -480,21 +480,21 @@ Links across the components that no entry states, tested by
 <!-- inactive-ok-file: CASE-163 SYNTHESIS-050 — Proposed; cited with their standing -->
 
 Article 1 of the manuscript cites this account for what agreement in
-ordinary operation leaves open (§1.5), and then cites CASE-161 and
-CASE-163 as the record's runs of the interventions on mechanism that,
+ordinary operation leaves open (§1.5), and then cites [CASE-161](../cases.d/CASE-161.md) and
+[CASE-163](../cases.d/CASE-163.md) as the record's runs of the interventions on mechanism that,
 in this account's words, alone show "where maintenance is realized". The
 account cites neither.
 
 That is not a defect by the account's own defeater. Both cases are in
 distributed-agency only, not in formal-apparatus, and that line's account
-SYNTHESIS-050 integrates both. But a component states the link:
-CLAIM-522's body says "CASE-161 and CASE-163 are the record's runs of
+[SYNTHESIS-050](SYNTHESIS-050.md) integrates both. But a component states the link:
+[CLAIM-522](../claims.d/CLAIM-522.md)'s body says "[CASE-161](../cases.d/CASE-161.md) and [CASE-163](../cases.d/CASE-163.md) are the record's runs of
 such interventions". And the section "Links to other parts, stated" lists
 only links to other parts of formal-apparatus. A reader who takes this
 account alone does not learn that the separating interventions have been
-run, in one stipulated population, nor that CASE-161's audit pulse, an
+run, in one stipulated population, nor that [CASE-161](../cases.d/CASE-161.md)'s audit pulse, an
 intervention on state, also parts its external reset, which is not
-CLAIM-522's ideal controller (CLAIM-522's note of this date).
+[CLAIM-522](../claims.d/CLAIM-522.md)'s ideal controller ([CLAIM-522](../claims.d/CLAIM-522.md)'s note of this date).
 
 Whether to add the links this part's components state to other lines is
 for the next synthesis review of the line. Bearing: a note; no change to
