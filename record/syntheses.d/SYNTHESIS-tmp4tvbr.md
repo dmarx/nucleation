@@ -638,3 +638,39 @@ miscount. Of the 17, ten are restatements, three were rightly not made,
 and four failed as stated, of which J4.1 passed in a corrected form
 ([CLAIM-tmp7rl3d](../claims.d/CLAIM-tmp7rl3d.md)). The wording is the assistant's (Claude, in this session);
 adopting it is the owner's call.
+
+## Note of 2026-11-25: two parts out of date, from the manuscript governance-of-becoming, Articles 7 and 8
+<!-- inactive-ok-file: CLAIM-tmptrn75 CLAIM-tmpsh3og TERM-tmp383al TERM-tmp72sq3 CLAIM-tmp4mk0t CLAIM-tmphi3mx CLAIM-tmp590sw — Proposed or new; the claim, the owner's correction and its terms, and the two readings of U4 with the claim the ruling adds -->
+
+The drafts of Articles 7 and 8 found two places where this account
+predates the owner's rulings of 2026-11-24. Neither is corrected here:
+the next synthesis review revises the account (G8.2 of Article 8; Article
+7's list of inconsistencies).
+
+- **Institutional sociopathy.** The part "A46" and item 14 of the
+  account gloss CLAIM-tmptrn75 as "Institutional sociopathy as
+  legibility without answerability" and say an institution "can make
+  others legible while their claims gain no authority over it". The
+  owner corrected that on 2026-11-24: an institution "can still respect
+  the standing and claims of its constituents without giving them direct
+  authority to effect change within the institution (e.g. effective
+  representative governance vs. captured)". That correction is
+  CLAIM-tmpsh3og, which objects to CLAIM-tmptrn75, and it splits the
+  term into TERM-tmp383al (asymmetric legibility, the condition) and
+  TERM-tmp72sq3 (institutional sociopathy, the vice: claims carrying "no
+  effective weight in what it does by any route"). The account cites none
+  of the three. The gloss should become the condition, with the vice and
+  the owner's objection integrated beside it.
+- **U4.** The part "Memes (U1 to U5)" still says of the two readings of
+  U4, "The owner chooses". The owner ruled on 2026-11-24: "I think both
+  readings are valid. I mainly meant 'meme as value'" (CLAIM-tmp4mk0t,
+  its history at version 2 and note of 2026-11-24). So CLAIM-tmp4mk0t is
+  the primary reading, CLAIM-tmphi3mx stands beside it, and they are no
+  longer alternatives; the ruling's further point is CLAIM-tmp590sw,
+  which the account does not integrate. The account's item 2 ("whole or
+  as one value"), its defeater's "three pairs of alternative readings
+  (U4, U17, U25)" and "What it does not say" ("which of the owner's
+  alternative readings is right") need the same change.
+
+No change of status. The wording is the assistant's (Claude, in this
+session); adopting it is the owner's call.

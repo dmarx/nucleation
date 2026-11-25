@@ -97,3 +97,38 @@ record's term that already holds it).
 - Not that the organization formed the standard by itself. Who supplies
   the requirement is [QUESTION-128](../questions.d/QUESTION-128.md)'s open part; A22 §5 says of its own
   model that "its maintenance rule is supplied by the modeler".
+
+## Note of 2026-11-25: restoration and a copied majority, from the manuscript governance-of-becoming, Article 7
+<!-- inactive-ok-file: CLAIM-946 CASE-362 TERM-148 — Proposed; the executed study, its finding and the term it tested, cited with their standing -->
+
+The manuscript's Article 7 (§7.6, join J7.4) carries CLAIM-946 over to
+this claim's marker. Neither entry cites the other. CASE-362 (Proposed,
+executed study; filer-run) committed in advance to the failure rule that
+"if plain conformity passes condition 3 … the criterion fails to make the
+distinction", and found that "Plain conformity restores a minority's
+deviation (ρ = 0.024, against the averaging benchmark 0.25 and the
+threshold 0.125)". CLAIM-946: restoration "does not tell a population
+whose members evaluate one another's interpretations from one whose
+members copy one another's answers".
+
+If that carries over, observed restoration of behaviour to an expectation
+does not tell an enforced norm from a majority copied: members who only
+copy what most others do also bring a deviant back into line, with no
+disposition to preserve the expectation against discrepancy. Then the
+ladder from regularity to operative norm needs a marker beyond observed
+restoration. One candidate, not stated by any entry: a disposition to
+restore that holds against a majority, of the kind CASE-362's evidential
+condition tests in direction (there, members moved away from an
+unwarranted deviation, toward the world).
+
+The carry-over may fail, because the objects differ. CASE-362 restores
+interpretive prototypes (TERM-148's restorative reading), and this claim
+restores behaviour against an expectation. The worry is also not the one
+this claim's defeater names ("every corrective response is also a
+revision of expectation"): it is that a corrective response can come from
+copying, not from the expectation's direction of fit. Filed as a note, not
+a question: whether it carries over is a check on this claim's marker,
+answered by rerunning CASE-362's design on behaviour against an
+expectation. The join has not yet been put to an independent reader
+under ADR-075. No change of status. The wording is the assistant's
+(Claude, in this session); adopting it is the owner's call.

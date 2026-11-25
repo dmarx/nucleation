@@ -88,3 +88,30 @@ The argument that answers it, [ARG-228](../arguments.d/ARG-228.md), is Proposed,
 neither answered by a held argument nor shown sound. Whether the matched-
 outcome construction defeats premise 1, and so whether this objection goes
 Rejected, is the owner's call.
+
+## Note of 2026-11-25: a parallel instrumentalism, from the manuscript governance-of-becoming, Article 8
+<!-- inactive-ok-file: ARG-228 CASE-336 CLAIM-909 CLAIM-911 CLAIM-912 CLAIM-913 CLAIM-723 — Proposed; the two constructions, their instrumentalist readings and the alternatives the owner has not ruled on, cited with their standing -->
+
+The manuscript's Article 8 (§8.5, join J8.2) sets two constructions side
+by side that the record has not linked. ARG-228's matched utilities,
+which answer CLAIM-1184, fix expected harm and vary only whether those
+affected can contest it. CASE-336's variants C2* and C4* (CLAIM-909),
+which CLAIM-913 reads, fix what a power's holder would do and vary only
+who holds a share of the power to review or revise. Both fix the
+instrumental difference and vary only standing or the allocation of a
+power, and CLAIM-1184 and CLAIM-913 are the instrumentalist reading of
+each: what is left once the instrumental difference is matched is a
+residue, "no wrong beyond the harm" in one and "a residue of protective
+reasons that no longer apply" in the other.
+
+The parallel routes; it does not bind. Standing to be heard on a harm is
+not a share of a power to revise rules, so one can reject CLAIM-1184 and
+accept CLAIM-913, or the reverse, without inconsistency; the stronger
+form, that the two stand or fall together, fails on that reading. What
+carries over is a candidate, not an entailment: a non-instrumental reason
+the owner accepts in one (CLAIM-911's "personal reason of status", or
+ARG-228's carried-over judgement from CLAIM-723) is a reason to test in
+the other. The join has not yet been put to an independent reader under
+ADR-075. No change of status; the rulings on CLAIM-1184 and on CLAIM-911
+to CLAIM-913 stay the owner's. The wording is the assistant's (Claude, in
+this session).
