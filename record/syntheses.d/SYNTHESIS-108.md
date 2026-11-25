@@ -3,7 +3,16 @@ number: 108
 status: Proposed
 formerly:
 - SYNTHESIS-tmplih4n
-title: 'How an equivalence becomes a unit: the owner''s hypothesis that collapsing differences that do not matter is how classes are reified, made substantive by closure under the system''s own operations and completed by differentiation between basins; the owner''s genres example and its closure test; the owner''s hunch that role abstraction meets balanced partitions of units, with the check that symmetry alone forces one only where the relabelling group permutes the units; and the open comparison of criteria for a learned feature'
+title: 'Collapsing irrelevant differences reifies classes'
+statement: >-
+  How an equivalence becomes a unit: the owner's hypothesis that collapsing
+  differences that do not matter is how classes are reified, made
+  substantive by closure under the system's own operations and completed by
+  differentiation between basins; the owner's genres example and its closure
+  test; the owner's hunch that role abstraction meets balanced partitions of
+  units, with the check that symmetry alone forces one only where the
+  relabelling group permutes the units; and the open comparison of criteria
+  for a learned feature
 version: 2
 history:
 - version: 2
@@ -55,7 +64,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-296 CLAIM-478 CLAIM-762 TERM-098 — Proposed; cited in this filing of 2026-11-19 -->
 
-# SYNTHESIS-108: How an equivalence becomes a unit: the owner's hypothesis that collapsing differences that do not matter is how classes are reified, made substantive by closure under the system's own operations and completed by differentiation between basins; the owner's genres example and its closure test; the owner's hunch that role abstraction meets balanced partitions of units, with the check that symmetry alone forces one only where the relabelling group permutes the units; and the open comparison of criteria for a learned feature
+# SYNTHESIS-108: Collapsing irrelevant differences reifies classes
 
 ## The account
 

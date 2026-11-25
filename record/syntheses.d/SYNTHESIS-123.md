@@ -3,7 +3,16 @@ number: 123
 status: Proposed
 formerly:
 - SYNTHESIS-tmp8j9h0
-title: "How fast an organization responds and revises, in the record: a first-order reference's time to meet a step times the noise it passes is fixed, so a deadline sets a floor on the noise; a slowly relaxing operation is proposed to be cheap to push and, kept within tolerance, slow to retune; a response's time is the longest chain of its stages still to be done, not its slowest part; slowness alone does not make a mode hard to redirect; and what counts as noise, where entrenchment sits and how far a readiness kernel reaches up the tiers of governance are not settled"
+title: 'Response speed is set by chains, not slow parts'
+statement: >-
+  How fast an organization responds and revises, in the record: a
+  first-order reference's time to meet a step times the noise it passes is
+  fixed, so a deadline sets a floor on the noise; a slowly relaxing
+  operation is proposed to be cheap to push and, kept within tolerance, slow
+  to retune; a response's time is the longest chain of its stages still to
+  be done, not its slowest part; slowness alone does not make a mode hard to
+  redirect; and what counts as noise, where entrenchment sits and how far a
+  readiness kernel reaches up the tiers of governance are not settled
 version: 2
 history:
 - version: 2
@@ -78,7 +87,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1137 CLAIM-1082 CLAIM-1070 TERM-164 CLAIM-719 CLAIM-711 CLAIM-423 CLAIM-705 TERM-167 SYNTHESIS-122 SYNTHESIS-124 SYNTHESIS-121 SYNTHESIS-086 — Proposed; components and neighbouring accounts, cited with their standing -->
 
-# SYNTHESIS-123: How fast an organization responds and revises, in the record: a first-order reference's time to meet a step times the noise it passes is fixed, so a deadline sets a floor on the noise; a slowly relaxing operation is proposed to be cheap to push and, kept within tolerance, slow to retune; a response's time is the longest chain of its stages still to be done, not its slowest part; slowness alone does not make a mode hard to redirect; and what counts as noise, where entrenchment sits and how far a readiness kernel reaches up the tiers of governance are not settled
+# SYNTHESIS-123: Response speed is set by chains, not slow parts
 
 *A thematic account, across lines, of the joins of the manuscript
 governance-of-possibility (scratch/manuscripts/governance-of-possibility/,

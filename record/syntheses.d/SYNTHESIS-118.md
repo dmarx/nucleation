@@ -3,7 +3,12 @@ number: 118
 status: Proposed
 formerly:
 - SYNTHESIS-tmpt1te9
-title: 'The learning-and-inquiry line is eight part accounts and three claims integrated directly, which meet only through relations their components store, most of them at self-formation, and which no entry orders as a sequence'
+title: 'Learning-and-inquiry: eight parts, no sequence'
+statement: >-
+  The learning-and-inquiry line is eight part accounts and three claims
+  integrated directly, which meet only through relations their components
+  store, most of them at self-formation, and which no entry orders as a
+  sequence
 version: 1
 defeated_if: >-
   A part account or component misstated or misattributed here, with its
@@ -51,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-732 CLAIM-719 CLAIM-762 CLAIM-780 CLAIM-090 CLAIM-182 CLAIM-184 CLAIM-189 CLAIM-191 CLAIM-315 CLAIM-772 CLAIM-789 CLAIM-790 CLAIM-793 ARG-035 ARG-124 TERM-131 — Proposed or Open; the part accounts and components cited, with their standing -->
 <!-- inactive-ok-file: CLAIM-823 CLAIM-802 CLAIM-839 CLAIM-828 CLAIM-807 CLAIM-837 SYNTHESIS-120 TERM-138 SYNTHESIS-119 — Proposed; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" and cited in the note of that date -->
 
-# SYNTHESIS-118: The learning-and-inquiry line is eight part accounts and three claims integrated directly, which meet only through relations their components store, most of them at self-formation, and which no entry orders as a sequence
+# SYNTHESIS-118: Learning-and-inquiry: eight parts, no sequence
 
 *The account of the learning-and-inquiry line, over the accounts of its
 parts ([ADR-083](../decisions.d/ADR-083.md)). The line was added by [ADR-130](../decisions.d/ADR-130.md) (Active) on 2026-11-21. It
