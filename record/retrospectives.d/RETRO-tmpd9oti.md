@@ -6,7 +6,6 @@ tags:
 date: '2026-11-25'
 reviews:
 - ADR-148
-- DP-007
 - ADR-065
 - ADR-116
 - ADR-125
