@@ -184,12 +184,12 @@ the exchange develops as you go, without offering first: new entries in the
 argument schemes …".
 
 *Produced*: every argued turn was filed in the argument schemes, including
-a turn about how the record should file itself (QUESTION-tmptcvtu and two
-claims, retired in #811).
+a turn about how the record should file itself ([QUESTION-tmptcvtu](../questions.d/QUESTION-tmptcvtu.md) and two
+claims, retired in [#811](https://github.com/dmarx/nucleation/issues/811)).
 
 *Proposed*: "While it is on, file what the exchange develops, by its
 subject. What it argues about the subject of the inquiry goes in the
-argument schemes (those of ADR-032, and WORKBENCH and LEAD). What it argues
+argument schemes (those of [ADR-032](../decisions.d/ADR-032.md), and WORKBENCH and LEAD). What it argues
 about the record itself (what to file, where, under which scheme,
 vocabulary, rule or skill) is procedure, and goes in an ADR or a revision of
 one, with the readings in its Alternatives. Claims about the record as an
@@ -219,7 +219,7 @@ voice); changes to CI and to luria.yaml outside its vocabularies."
 *Now*: "When a turn admits several valid readings that would be filed
 differently, file each, marked as alternatives".
 
-*Produced*: the two answer-claims of #807, filed as alternatives because
+*Produced*: the two answer-claims of [#807](https://github.com/dmarx/nucleation/issues/807), filed as alternatives because
 the owner's question had two readings.
 
 *Proposed*: add "This is for readings of the owner's words about the
@@ -228,21 +228,21 @@ and the assistant acts on its stated lean."
 
 ### W4. "Adds nothing" was read as "says nothing but the list"
 
-*Now* (ADR-084's summary, still standing beside ADR-tmpw306d): syntheses
+*Now* ([ADR-084](../decisions.d/ADR-084.md)'s summary, still standing beside [ADR-tmpw306d](../decisions.d/ADR-tmpw306d.md)): syntheses
 "map a scope's components and add nothing"; the scheme was "the scheme of
 accounts".
 
-*Produced*: inventories (#809's occasion).
+*Produced*: inventories ([#809](https://github.com/dmarx/nucleation/issues/809)'s occasion).
 
-*Proposed*: a version of ADR-084 that says "asserts nothing its components
+*Proposed*: a version of [ADR-084](../decisions.d/ADR-084.md) that says "asserts nothing its components
 do not; it states how they combine, which is what a synthesis is", and that
-drops "account" and "map" for "synthesis" and "argument". ADR-tmpw306d
-already rules this; ADR-084's own text still teaches the old reading to
+drops "account" and "map" for "synthesis" and "argument". [ADR-tmpw306d](../decisions.d/ADR-tmpw306d.md)
+already rules this; [ADR-084](../decisions.d/ADR-084.md)'s own text still teaches the old reading to
 anyone who reads it first.
 
 ### W5. The write-manuscript skill still contradicts itself on voices
 
-*Now*: step 5's first bullet (revised in #809) says voices belong in the
+*Now*: step 5's first bullet (revised in [#809](https://github.com/dmarx/nucleation/issues/809)) says voices belong in the
 README; its third bullet still says "Voices stay separate. Name the owner's
 theses as the owner's, another assistant's as theirs, and the drafting
 assistant's own additions as its own."
@@ -256,18 +256,18 @@ step is; the README attributes the rest."
 *Now*: step 9b's "Account for it" and step 10's heading "Account for
 everything", where the curation entry is written.
 
-*Proposed*: "Record the audit" and "Close the filing". After ADR-tmpw306d
+*Proposed*: "Record the audit" and "Close the filing". After [ADR-tmpw306d](../decisions.d/ADR-tmpw306d.md)
 the word "account" should not name a list anywhere.
 
 ### W7. Membership by "any wording" inflates works
 
-*Now* (ADR-104): a claim is a member when the manuscript "states the
+*Now* ([ADR-104](../decisions.d/ADR-104.md)): a claim is a member when the manuscript "states the
 entry's proposition, in any wording; or" uses it as a step.
 
 *Produced*: 116 members added to governance-of-possibility in one pass,
 49 of them stated as neighbours, parallels or limits rather than used.
 
-*Proposed* (an alternative, since the owner's merge of #781 adopted the
+*Proposed* (an alternative, since the owner's merge of [#781](https://github.com/dmarx/nucleation/issues/781) adopted the
 literal reading): "A claim is a member when the work's argument depends on
 it: it is a step, or it is the work's own thesis. A claim the work states
 to mark a neighbour, a parallel, a limit or a rival is cited, not a
@@ -275,11 +275,11 @@ member."
 
 ### W8. Bookkeeping edits are versioned like content edits
 
-*Now*: no rule; ADR-144's precedent was "each with a history note and a
+*Now*: no rule; [ADR-144](../decisions.d/ADR-144.md)'s precedent was "each with a history note and a
 version bump", and every pass since followed it.
 
 *Produced*: passes that edited 116, 65, 40 and 55 entries, each a version,
-and the version collisions that blocked #781 and #806.
+and the version collisions that blocked [#781](https://github.com/dmarx/nucleation/issues/781) and [#806](https://github.com/dmarx/nucleation/issues/806).
 
 *Proposed*: "Adding a relation or a membership (a `works`, `line` or
 `complements` value) under a decision is not a new version of the entry:
@@ -300,10 +300,10 @@ unit (a line, a manuscript) per pull request."
 
 ### W10. Nothing says to look for other sessions' work
 
-*Now*: ADR-139 governs workers within one session; nothing covers another
+*Now*: [ADR-139](../decisions.d/ADR-139.md) governs workers within one session; nothing covers another
 session editing the same files.
 
-*Produced*: Part A's rewrite set aside after #804's refresh.
+*Produced*: Part A's rewrite set aside after [#804](https://github.com/dmarx/nucleation/issues/804)'s refresh.
 
 *Proposed*: add to CLAUDE.md's "Working": "Before rewriting a manuscript
 file or editing more than a handful of entries, list the open pull
@@ -314,7 +314,7 @@ request."
 ### W11. "One open pull request" against "each unit its own pull request"
 
 *Now*: the regime says "Put them in one open pull request into staging";
-ADR-071 says each logical unit gets its own.
+[ADR-071](../decisions.d/ADR-071.md) says each logical unit gets its own.
 
 *Proposed*: "Put the regime's filings for one unit of work (one exchange,
 one decision) in one open pull request into staging".
