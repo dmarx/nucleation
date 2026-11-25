@@ -604,19 +604,19 @@ conditioned from negotiated coordination). The others:
 
 The drafts of Articles 4 to 6 closed with 19 joins, tested by an
 independent reader on 2026-11-25 (the review of that date, Part B). One
-passed in a corrected form and is integrated above: CLAIM-tmp7rl3d
+passed in a corrected form and is integrated above: [CLAIM-tmp7rl3d](../claims.d/CLAIM-tmp7rl3d.md)
 (Article 4's J4.1: clarifying relieves by a distinction only where the
 readings' demands bear on different situations). The others:
 
 - **Failed as stated:** J4.1 as drafted ("productive exactly when relief");
-  J5.1 (inquiry as learning, a relabelling of CLAIM-475's sense; its
-  residue is a definitional question, noted on TERM-131); J6.4 (CLAIM-924's
+  J5.1 (inquiry as learning, a relabelling of [CLAIM-475](../claims.d/CLAIM-475.md)'s sense; its
+  residue is a definitional question, noted on [TERM-131](../terms.d/TERM-131.md)); J6.4 ([CLAIM-924](../claims.d/CLAIM-924.md)'s
   limit does not carry over to a test with clear feedback).
-- **Misstated a component:** J6.3 (CASE-346; the remainder is a note on
-  LEAD-220 and CLAIM-1024, not a claim).
-- **Restatements:** JR4.1 (CLAIM-364, CLAIM-448, CLAIM-549), JR4.2
-  (CLAIM-923), J5.2 (CLAIM-1115), J5.3 (CASE-396, CLAIM-1064), J5.5 and
-  J5.6 (LEAD-tmpeo8wq), J6.1 (CLAIM-tmpp0ufw), J6.2 (CASE-397), J6.5 and
+- **Misstated a component:** J6.3 ([CASE-346](../cases.d/CASE-346.md); the remainder is a note on
+  [LEAD-220](../leads.d/LEAD-220.md) and [CLAIM-1024](../claims.d/CLAIM-1024.md), not a claim).
+- **Restatements:** JR4.1 ([CLAIM-364](../claims.d/CLAIM-364.md), [CLAIM-448](../claims.d/CLAIM-448.md), [CLAIM-549](../claims.d/CLAIM-549.md)), JR4.2
+  ([CLAIM-923](../claims.d/CLAIM-923.md)), J5.2 ([CLAIM-1115](../claims.d/CLAIM-1115.md)), J5.3 ([CASE-396](../cases.d/CASE-396.md), [CLAIM-1064](../claims.d/CLAIM-1064.md)), J5.5 and
+  J5.6 ([LEAD-tmpeo8wq](../leads.d/LEAD-tmpeo8wq.md)), J6.1 ([CLAIM-tmpp0ufw](../claims.d/CLAIM-tmpp0ufw.md)), J6.2 ([CASE-397](../cases.d/CASE-397.md)), J6.5 and
   J6.6 (conjunctions).
 - **Rightly not made:** J4.2, J5.4, J5.7.
 

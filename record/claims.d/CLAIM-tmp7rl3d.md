@@ -29,10 +29,10 @@ grounds:
 summary: >-
   A join of the manuscript governance-of-becoming (Article 4, J4.1), in the
   corrected form an independent reader gave it on 2026-11-25, which passes
-  ADR-075's test by derivation. As drafted, the join said clarifying a
+  [ADR-075](../decisions.d/ADR-075.md)'s test by derivation. As drafted, the join said clarifying a
   misunderstanding is productive exactly when it is relief; that fails,
   because a joint settlement on one reading is productive by the owner's
-  CLAIM-tmpupcws and not relief by CLAIM-347 and CLAIM-361. The warrant is
+  [CLAIM-tmpupcws](CLAIM-tmpupcws.md) and not relief by [CLAIM-347](CLAIM-347.md) and [CLAIM-361](CLAIM-361.md). The warrant is
   demonstrated conditional on its first step, reading each party's
   reading as a demand on their joint outcomes. The wording is the
   reader's, filed by the assistant (Claude, in this session); adopting
@@ -42,30 +42,30 @@ summary: >-
 
 # CLAIM-tmp7rl3d: Taking each party's reading of an ambiguous expression as a demand on their joint outcomes, clarifying a consequential misunderstanding relieves frustration by a new distinction only where the readings' demands bear on different situations the expression conflated; where they demand different joint outcomes in the same situation, no distinction relieves them, only an outcome that meets both, and settling on one reading or rewording the demands is not relief
 
-## Admission (ADR-075): a derivation
+## Admission ([ADR-075](../decisions.d/ADR-075.md)): a derivation
 
 1. Read each party's reading as a demand on their joint outcomes. This is
    the one free step, and the warrant is conditional on it.
 2. A misunderstanding is consequential when the demands conflict: no joint
-   outcome meets both (CLAIM-347's frustration, for two parties).
-3. Relief, in CLAIM-347's and CLAIM-361's sense, is reaching an outcome
+   outcome meets both ([CLAIM-347](CLAIM-347.md)'s frustration, for two parties).
+3. Relief, in [CLAIM-347](CLAIM-347.md)'s and [CLAIM-361](CLAIM-361.md)'s sense, is reaching an outcome
    that meets the demands as declared, not dropping or rewording one.
 4. A new distinction separates situations. It relieves the conflict only
    if the demands bear on situations it separates: then each demand can be
-   met in its own situation (CLAIM-tmpm76n5's refinement).
+   met in its own situation ([CLAIM-tmpm76n5](CLAIM-tmpm76n5.md)'s refinement).
 5. Where the demands bear on the same situation, a distinction leaves the
    conflict as it was; only an outcome that meets both relieves it.
    Settling on one reading drops a demand, and rewording changes it, so
    neither is relief, though either may be productive in the owner's sense
-   (CLAIM-tmpupcws).
+   ([CLAIM-tmpupcws](CLAIM-tmpupcws.md)).
 
-CASE-191 is the record's construction of frustration resolved by a new
+[CASE-191](../cases.d/CASE-191.md) is the record's construction of frustration resolved by a new
 distinction, where the demands are for different contexts: the first
 branch.
 
 ## What it does not say
 
-- Not that a settlement on one reading is unproductive: CLAIM-tmpupcws and
-  CLAIM-tmpisfi1 count it as productive.
+- Not that a settlement on one reading is unproductive: [CLAIM-tmpupcws](CLAIM-tmpupcws.md) and
+  [CLAIM-tmpisfi1](CLAIM-tmpisfi1.md) count it as productive.
 - Not that every misunderstanding is a pair of demands: step 1 is the
   claim's condition.

@@ -158,7 +158,7 @@ it.
 ## Note of 2026-11-25: from the review of the manuscript governance-of-becoming, Part II
 
 Article 5's join J5.1 read inquiry as a way the inquirer learns, in this
-term's sense. An independent reader found it a relabelling of CLAIM-475's
+term's sense. An independent reader found it a relabelling of [CLAIM-475](../claims.d/CLAIM-475.md)'s
 sense: trivial once one says which system learned. What it leaves is a
 definitional question for this term: interventions and observations count
 as "experience", but does formulating a question, with no observation,

@@ -63,13 +63,13 @@ honest minority's standing, as [LEAD-180](LEAD-180.md) does.
 
 ## Note of 2026-11-25: from the review of the manuscript governance-of-becoming, Part II
 
-Article 6's join J6.3 read CASE-346 as showing two of CLAIM-1024's
+Article 6's join J6.3 read [CASE-346](../cases.d/CASE-346.md) as showing two of [CLAIM-1024](../claims.d/CLAIM-1024.md)'s
 conditions coming apart: protected evidence held while authority stayed
 coupled to apparent success. An independent reader found it misstated the
-case. CASE-346 ran the independent-reinforcement intervention in the
+case. [CASE-346](../cases.d/CASE-346.md) ran the independent-reinforcement intervention in the
 success-and-restricted run, which has no inspection floor, and two of its
 results point the other way: with independent evaluation every run leaves
-protection, restricted runs included, which suggests CLAIM-1024's
+protection, restricted runs included, which suggests [CLAIM-1024](../claims.d/CLAIM-1024.md)'s
 conditions narrowing rather than separating; and at the lower hazard rate
 (h = 0.002) the inspection floor alone ends protection in 99.5% of runs.
 Which part of the model counts as which condition is a free choice. This

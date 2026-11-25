@@ -125,12 +125,11 @@ At the status pass of 2026-11-24, at the owner's word ("handle the fixes for the
 
 ## Note of 2026-11-25: from the review of the manuscript governance-of-becoming, Part II
 
-<!-- inactive-ok-file: LEAD-220 — Open; the lead that would test the separation -->
 
-A manuscript's join (Article 6, J6.3) read CASE-346 as separating two of
+A manuscript's join (Article 6, J6.3) read [CASE-346](../cases.d/CASE-346.md) as separating two of
 this claim's conditions. An independent reader found that it misstated the
-case, and that CASE-346's results, independent evaluation ending protection
+case, and that [CASE-346](../cases.d/CASE-346.md)'s results, independent evaluation ending protection
 in every run, point to the conditions narrowing, not separating. The
-detail is in LEAD-220's note of this date. No change to this claim; the
-concession CLAIM-1185 asks of it is still the owner's to write. The wording
+detail is in [LEAD-220](../leads.d/LEAD-220.md)'s note of this date. No change to this claim; the
+concession [CLAIM-1185](CLAIM-1185.md) asks of it is still the owner's to write. The wording
 is the assistant's (Claude, in this session).
