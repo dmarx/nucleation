@@ -1,10 +1,18 @@
 ---
 number: 159
-status: Proposed
+status: Deferred
 formerly:
 - TERM-tmpace0k
 title: 'inquiry frontier, as the boundary of the question–answer processes an agent or organization can jointly realize within a declared budget, horizon and inquiry regime, with a query frontier and an answer frontier as components that do not determine it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Deferred at the owner's ruling of 2026-11-25, "keep TERM-092 and add
+    the joint term beside it for now": alternative (a), revising TERM-092
+    to the joint object, is not adopted for now. It stays on file for a
+    later choice. The wording is unchanged.
 rivals:
 - TERM-092
 - TERM-160
@@ -28,7 +36,7 @@ summary: >-
   assistant's: what this wording drops from [TERM-092](TERM-092.md). The wording is A's (ChatGPT's, at A58 of the exchange "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-1009 TERM-160 CLAIM-754 CLAIM-732 CLAIM-1036 CLAIM-1025 — Proposed; the owner's thesis, the other alternative, the claims filed with this, and claims stated in the term it would revise -->
+<!-- inactive-ok-file: CLAIM-1009 CLAIM-754 CLAIM-732 CLAIM-1036 CLAIM-1025 — Proposed; the owner's thesis, the other alternative, the claims filed with this, and claims stated in the term it would revise -->
 
 # TERM-159: inquiry frontier, as the boundary of the question–answer processes an agent or organization can jointly realize within a declared budget, horizon and inquiry regime, with a query frontier and an answer frontier as components that do not determine it
 
