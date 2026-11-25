@@ -30,7 +30,7 @@ summary: >-
   model is not. The wording is A's (ChatGPT, in the exchange 'Memes,
   Contracts, and Systemic Normativity'); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp7hqtl TERM-160 — Proposed; cited as filed or held beside this entry, whatever its standing -->
+<!-- inactive-ok-file: CLAIM-tmp7hqtl — Proposed; cited as filed or held beside this entry, whatever its standing -->
 <!-- inactive-ok-file: LIT-tmpm8d98 — Deferred; cited as filed or held beside this entry, whatever its standing -->
 
 # LEAD-tmpbqj9u: Build a contract-governed distributed agent under matched architectures, from fixed priority to a reflexive contract ecology, and test whether revising contracts enlarges the set of jointly realizable demands and the joint inquiry frontier or only suppresses the demands that interfere

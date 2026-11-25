@@ -27,7 +27,7 @@ summary: >-
   "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-754 CLAIM-1102 CLAIM-1106 CLAIM-1134 TERM-158 TERM-159 TERM-160 TERM-167 THEORY-092 THEORY-402 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
+<!-- inactive-ok-file: CLAIM-754 CLAIM-1102 CLAIM-1106 CLAIM-1134 TERM-158 TERM-159 TERM-167 THEORY-092 THEORY-402 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
 # TERM-157: epistemic ecological intelligence: the maintained capacity of an organization of differentiated perspectives to recognize, investigate and answer consequential questions while preserving and developing the diversity of dispositions through which new questions and answers become possible; distinct from epistemic diversity, epistemic richness and adaptive epistemic viability
 

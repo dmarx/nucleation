@@ -158,7 +158,7 @@ What the term lacks is which answers, at what standard, are attainable for a
 question within that budget, and the pairs. Two alternatives are filed for
 the owner, both Proposed:
 
-<!-- inactive-ok-block: TERM-159 TERM-160 — Proposed; the two alternatives -->
+<!-- inactive-ok-block: TERM-159 — Proposed; the two alternatives -->
 - (a) [TERM-159](TERM-159.md): this term revised to the joint object, the name going
   with it (A58's wording, with the assistant's note on what it drops);
 - (b) [TERM-160](TERM-160.md): this term kept, a joint inquiry frontier beside it whose
@@ -172,3 +172,13 @@ the joint object is not the two frontiers listed side by side is
 [CLAIM-1115](../claims.d/CLAIM-1115.md) (the assistant's derivation, checked). Authorization as a
 further cost on the same budget is [CLAIM-996](../claims.d/CLAIM-996.md) and [CLAIM-1016](../claims.d/CLAIM-1016.md). The
 definition is unchanged; the choice is the owner's.
+
+## Note of 2026-11-25: the joint term beside it
+
+<!-- inactive-ok-block: CLAIM-1009 TERM-159 — the owner's thesis and the deferred alternative -->
+At the owner's ruling of 2026-11-25, "keep TERM-092 and add the joint term
+beside it for now", this term is kept as it stands and TERM-160, the joint
+inquiry frontier, is Active beside it. TERM-159, which would have revised
+this term to the joint object, is Deferred. The owner's U30 (CLAIM-1009)
+wanted "inquiry frontier" for the joint object; for now the name stays here,
+with the askable set.

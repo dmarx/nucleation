@@ -1,10 +1,18 @@
 ---
 number: 160
-status: Proposed
+status: Active
 formerly:
 - TERM-tmpdk711
 title: "joint inquiry frontier, of an agent at a budget and horizon: the question–answer pairs it can bring about together, formulating the question and producing and evaluating an answer to a stated acceptance standard within the same resources; its question side is the inquiry frontier's investigable set, and its answer side, indexed by question, is the answer frontier"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Active at the owner's ruling of 2026-11-25, "keep TERM-092 and add the
+    joint term beside it for now": alternative (b) is adopted. TERM-092
+    keeps its name and sense as the askable set, and this term names the
+    joint object beside it. The definition is unchanged.
 complements:
 - TERM-092
 - TERM-095
