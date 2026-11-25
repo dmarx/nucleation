@@ -94,3 +94,47 @@ of 20 items per user is affordable there. It does not say the reshaped
 classes are real kinds: whether a class confirmed through its own use is
 one is [CLAIM-402](CLAIM-402.md)'s question, and this result is an instance of
 [CLAIM-402](CLAIM-402.md)'s worry, not an answer to it.
+
+## Note of 2026-11-25: where this result sits in [CLAIM-402](CLAIM-402.md)'s decomposition, from the review of the manuscript governance-of-becoming, Part III
+<!-- inactive-ok-file: CLAIM-415 SYNTHESIS-062 — Proposed; the claim whose note gives the person-scale forms, and the account that declines neighbouring mappings onto CLAIM-402, cited with their standing -->
+
+The manuscript's Article 7 (§7.5, join J7.3) read [CASE-367](../cases.d/CASE-367.md)'s arms as the
+model form of [CLAIM-402](CLAIM-402.md)'s two feedbacks, the fixed-preference arm as
+apparent confirmation by the reading regime and the adaptive arm as a
+changed referent, and at the person's scale as self-sealing against
+self-fulfillment. The review of Part III (2026-11-25, Part B), whose
+independent reader tested the joins under [ADR-075](../decisions.d/ADR-075.md), found that this
+misstates two components, and that what survives is this claim's title.
+The residue, as the review states it:
+
+- **The randomized probe is [CLAIM-402](CLAIM-402.md)'s second separating intervention,
+  inside the performative term.** [CLAIM-402](CLAIM-402.md)'s note of 2026-10-24 splits
+  the change in what is learned from into Σ K_r dD_u/dθ, performative
+  change of the world sampled, and Σ (dK_r/dθ) D_u, endogenous change of
+  how it is represented, and names the intervention that separates them:
+  "change the policy with raw outcomes observed independently". Engagement
+  under randomized exposure is that intervention.
+- **The case holds the reading regime fixed, so it has no arm for the
+  representational term, and none for interpretive self-sealing.**
+  [CASE-367](../cases.d/CASE-367.md)'s classes are "Inferred once … then held fixed", so
+  dK/dθ = 0 in every arm, and both arms lie in the performative term: in
+  one, exposure changes what is sampled while preferences stay fixed; in
+  the other, preferences move too. Mapping the arms onto [CLAIM-402](CLAIM-402.md)'s two
+  terms would need exposure counted as part of the reading regime, a free
+  parameter of the kind [SYNTHESIS-062](../syntheses.d/SYNTHESIS-062.md) declines for neighbouring mappings
+  onto [CLAIM-402](CLAIM-402.md). Interpretive self-sealing ([CLAIM-415](CLAIM-415.md)'s note, A10 §8:
+  "Whatever I do is taken as confirmation, regardless of whether my
+  character changes") is a changed reading of fixed behaviour; in the
+  fixed-preference arm the behaviour, engagement, does change, steered by
+  exposure, while the reading is fixed, so that arm is not self-sealing.
+  The adaptive arm illustrates self-fulfillment; adversarial constitution
+  has no arm.
+- **Re-inferring the classes under use would be the representational
+  arm.** A rerun of [CASE-367](../cases.d/CASE-367.md) in which the classes are inferred again from
+  the engagement the steering produced would vary K_r with θ, and so test
+  the term this run holds at zero.
+
+This is consistent with the sentence above, that the result "is an
+instance of [CLAIM-402](CLAIM-402.md)'s worry, not an answer to it". No change of status.
+The wording is the assistant's (Claude, in this session); adopting it is
+the owner's call.

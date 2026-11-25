@@ -1,7 +1,17 @@
 ---
 status: Proposed
 title: 'Persistent reproduction of a meme can nucleate related but distinct perspectives: once reproduced apart from the perspective that produced it, a meme is taken up by carriers whose own characters it seeds differently, so its circulation can diversify the perspectives it touches rather than copy one, as in the death of the author'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    The summary's last sentence, "Barthes's essay is not yet registered",
+    is replaced: the essay is registered as LIT-tmpflbme (Deferred, not
+    read), filed for this claim on 2026-11-25. A dated note adds the
+    wording line the entry lacked (the review of the manuscript
+    governance-of-becoming, Part III, Part A, corrections 2.3 and 2.18).
+    No other change; no change of status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -34,9 +44,10 @@ summary: >-
   meant ([CLAIM-tmp4mk0t](CLAIM-tmp4mk0t.md)). [CLAIM-171](CLAIM-171.md) holds the reader's side, that a stored
   text means only what its readings make of it; this claim adds that
   reproduction makes those readings into perspectives. Barthes's essay is
-  not yet registered.
+  registered as LIT-tmpflbme (Deferred, not read).
 ---
 <!-- inactive-ok-file: CLAIM-tmp1ng5k CLAIM-tmp4mk0t CLAIM-tmphi3mx CLAIM-171 CLAIM-621 — Proposed; the owner's readings and the held claims this extends -->
+<!-- inactive-ok-file: LIT-tmpflbme — Deferred; Barthes's essay, registered for this claim and not read -->
 
 # CLAIM-tmp590sw: Persistent reproduction of a meme can nucleate related but distinct perspectives: once reproduced apart from the perspective that produced it, a meme is taken up by carriers whose own characters it seeds differently, so its circulation can diversify the perspectives it touches rather than copy one, as in the death of the author
 
@@ -71,3 +82,20 @@ that the meanings become maintained perspectives, not passing readings.
   the owner holds it valid too. On it, reproduction copies a character, and
   divergence would need mutation. On this reading divergence needs only
   that carriers complete the meme differently.
+
+## Note of 2026-11-25: whose wording this is, from the review of the manuscript governance-of-becoming, Part III
+
+The entry had no wording line. The thesis is the owner's: the ruling of
+2026-11-24 quoted in the summary and under "The claim", "persistent
+reproduction of a meme can nucleate related but distinct perspectives
+(e.g. 'death of the author' type phenomena)". The development is the
+filer's (the assistant, Claude): the mechanism under "The claim"
+("Reproduced, the value travels without the rest of the character that
+produced it. Each carrier that takes it up completes it from its own
+character"), the gloss of Barthes under "Death of the author", and the
+links under "Bearing". The review of Part III (2026-11-25, Part A,
+correction 2.18) found that the manuscript's Article 7 quotes that
+mechanism as the owner's. [LIT-tmpflbme](../literature.d/LIT-tmpflbme.md) registers Barthes's essay; it has
+not been read, so the gloss is the filer's account of it, not a reading.
+No change of status. The wording is the assistant's (Claude, in this
+session); adopting it is the owner's call.
