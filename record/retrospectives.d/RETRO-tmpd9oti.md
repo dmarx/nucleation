@@ -141,8 +141,8 @@ need work" to the promotion of the result:
    merge settings; which is the owner's call.
 3. **Carrying concretized codes belongs in luria.** The 14:43 note said: if
    it recurs, a `luria carry` or a repair step that maps `formerly` codes on
-   a branch. It recurred, at the scale of 165 files. File the upstream issue,
-   at the owner's word, since it is an outside service.
+   a branch. It recurred, at the scale of 165 files. Filed upstream at the owner's
+   word as dmarx/luria#406, for implementation later.
 4. **Check relations before calling entries duplicates, and fetch the full
    history before tracing origins.**
 5. **Load the config after any edit to `luria.yaml`.** One line,
