@@ -1,0 +1,275 @@
+---
+status: Skimmed
+paper: LIT-tmphxyqk
+title: 'Martin-Löf — Intuitionistic Type Theory'
+version: 1
+history:
+- version: 1
+  date: '2026-11-25'
+  note: >-
+    Read on 2026-11-25 for LEAD-215 from
+    https://www.cs.cmu.edu/~crary/819-f09/Martin-Lof80.pdf, hosted by Karl
+    Crary's course "Classic Papers in Programming Languages and Logic"
+    (CMU 15-819, Fall 2009): a course copy, lawful under ADR-113. A
+    100-page image scan of the typescript the book reproduces, with the
+    preface of January 1984 and the book's pagination (ix + 91); no text
+    layer, so OCR'd with tesseract 5.3.4 at 300 dpi, and every quotation
+    below checked against the page images. Read closely: the preface and
+    contents, Introductory remarks, Propositions and judgements,
+    Explanations of the forms of judgement, Propositions, Rules of
+    equality, Hypothetical judgements, Contexts, Sets and categories,
+    General remarks on the rules, the cartesian product and its
+    applications, Definitional equality, the disjoint union and its
+    applications, The axiom of choice, The notion of such that (pp. i–54);
+    the example on properties and indexed families (p. 64); Consistency
+    (pp. 69–70); Universes (pp. 87–91). Skimmed at the level of the rules
+    and examples: Disjoint union of two sets, Propositional equality,
+    Finite sets, Natural numbers, Lists, Wellorderings (pp. 55–86).
+    Status Skimmed for that reason. Read directly by the filer, not
+    delegated; no running-notes branch (ADR-108 is Proposed, and this
+    session's proxy cannot delete remote branches). Downloaded text kept
+    in the scratchpad, out of git.
+date: '2026-11-25'
+summary: >-
+  A judgement is not a proposition: A set, A = B, a ∈ A and a = b ∈ A are
+  the four forms, each read as set and element, proposition and proof,
+  intention and fulfilment, or problem and solution, the last "a program
+  ... which meets the specification A". A set is defined by how its
+  canonical elements are formed, an element is a method yielding one, and
+  propositions are identified with sets. Σ's elements are pairs of a
+  witness and its proof; the set of a ∈ A such that B(a) is Σ, carrying
+  "the witnessing information". Proofs may be suppressed, writing A true,
+  only where nothing depends on them. Universes are sets of codes closed
+  under the set-forming operations, never all sets.
+---
+<!-- inactive-ok-file: CLAIM-949 CLAIM-783 CLAIM-984 TERM-151 TERM-152 TERM-153 TERM-154 THEORY-tmp62cvo CLAIM-tmp01pyt CLAIM-tmpjs6hp ARG-tmppv3b8 ARG-tmpl0sxy ARG-tmpneexr — Proposed; this reading's account and the entries it bears on -->
+
+# NOTE-tmp60upv: Martin-Löf — Intuitionistic Type Theory
+
+## Contribution
+
+A foundational language in which a judgement's meaning is explained before
+any rule is given, and the rules are justified by those explanations. The
+four forms of judgement are fixed first; a set is explained by its
+canonical elements, an element as a program that computes one, and a
+proposition is identified with the set of its proofs. On that basis the
+book gives the formation, introduction, elimination and equality rules for
+Π, Σ, +, identity, the finite sets, N, lists and wellorderings, proves the
+axiom of choice from the meaning of the quantifiers, and adds universes to
+reach transfinite types.
+
+## Key results
+
+1. **Judgements are not propositions (pp. 3–5).** "What we combine by means
+   of the logical operations ... and hold to be true are propositions.
+   When we hold a proposition to be true, we make a judgement" (p. 3).
+   The four forms: "(1) A is a set (abbr. A set), (2) A and B are equal
+   sets (A = B), (3) a is an element of the set A (a ∈ A), (4) a and b are
+   equal elements of the set A (a = b ∈ A)", and "in ordinary set theory
+   a ∈ b and a = b are propositions, while they are judgements here"
+   (p. 5). Each presupposes the one before: "a judgement of the form
+   a ∈ A presupposes that A is a set" (p. 5).
+2. **Four readings of each form, the last a specification (pp. 5–6).** The
+   table pairs "A is a set / a is an element of the set A / A is
+   nonempty", "A is a proposition / a is a proof (construction) of a
+   proposition A / A is true", "A is an intention (expectation) / a is a
+   method of fulfilling (realizing) the intention (expectation) A / A is
+   fulfillable (realizable)" and "A is a problem (task) / a is a method of
+   solving the problem (doing the task) A / A is solvable" (p. 5). The
+   third is Heyting's, the fourth Kolmogorov's: "'a is a method ...' can
+   be read as 'a is a program ...'. Since programming languages have a
+   formal notation for the program a, but not for A, we complete the
+   sentence with '... which meets the specification A'. In Kolmogorov's
+   interpretation, the word problem refers to something to be done and the
+   word program to how to do it" (p. 6).
+3. **A set is fixed by how its canonical elements are formed (pp. 7–9).**
+   "(1) a set A is defined by prescribing how a canonical element of A is
+   formed as well as how two equal canonical elements of A are formed"
+   (p. 8). "(3) an element a of a set A is a method (or program) which,
+   when executed, yields a canonical element of A as result" (p. 9). Two
+   sets are equal when they have the same canonical elements and the same
+   equality on them (p. 9). "There is no limitation on the prescription
+   defining a set, except that equality between canonical elements must
+   always be defined in such a way as to be reflexive, symmetric and
+   transitive" (p. 8).
+4. **Propositions are sets (pp. 11–13).** "a proposition is defined by
+   laying down what counts as a proof of the proposition, and ... a
+   proposition is true if it has a proof" (p. 11). Since both are defined
+   by their canonical elements, keeping them apart "would only lead to
+   unnecessary duplication ... Instead, we simply identify them ... This is
+   the formulae-as-types (propositions-as-sets) interpretation on which
+   intuitionistic type theory is based" (p. 13).
+5. **Sets against categories (pp. 21–23).** "A category is defined by
+   explaining what an object of the category is and when two such objects
+   are equal. A category need not be a set, since we can grasp what it
+   means to be an object of a given category even without exhaustive rules
+   for forming its objects" (p. 21). The category of sets is not a set; "a
+   judgement is a statement to the effect that something is an object of a
+   category (a ∈ A, A set, ...) or that two objects of a category are
+   equal" (p. 22). "When one speaks about data types in computer science,
+   one might just as well say data sets. So here type is always synonymous
+   with set and not with category" (p. 23).
+6. **Suppressing proofs, and where it cannot be done (pp. 33, 47).** "we
+   write in general A true instead of a ∈ A for some a, when A is thought
+   of as a proposition and we don't care about what its proof
+   (construction) is" (p. 33). For the right projection, "in case B(x)
+   depends on x, it is impossible to suppress the construction in the
+   premiss, since the conclusion depends on it" (p. 47).
+7. **The existential as a pair of witness and proof (pp. 42–46).** "a
+   (canonical) proof of (∃x ∈ A)B(x) is a pair (a,b), where b is a proof
+   of the fact that a satisfies B" (p. 42). The projections recover both:
+   p(c) ∈ A and q(c) ∈ B(p(c)) (pp. 44–46). "So we have no need of the
+   description operator ... or the choice operator ... The difficulty with
+   an epsilon term (εx)B(x) is that it is construed as a function of the
+   property B(x) itself and not of the proof of (∃x)B(x)" (p. 45). The
+   Σ-elimination rule "is stronger than the ∃-elimination rule, which is
+   obtained from it by suppressing proofs" (p. 43).
+8. **"Such that" is Σ, and keeps the proof (pp. 53–54).** "To have an
+   element a ∈ A such that B(a) holds means to have an element a ∈ A
+   together with a proof of B(a), namely an element b ∈ B(a). So the
+   elements of the set of all elements of A satisfying B(x) are pairs
+   (a,b) with b ∈ B(a), i.e. elements of (Σx ∈ A)B(x). Then the Σ-rules
+   play the role of the comprehension axiom ... The information given by
+   b ∈ B(a) is called the witnessing information by Feferman" (p. 53). A
+   real number is "a sequence of rational numbers toghether [sic] with a proof
+   that it satisfies the Cauchy condition", and "Only by means of the
+   proof q(c) do we know how far to go for the approximation desired"
+   (pp. 53–54).
+9. **The axiom of choice is proved (pp. 50–52),** from the meaning of the
+   quantifiers: the choice function is (λx)p(Ap(z,x)), read off the proof
+   z of (∀x)(∃y)C(x,y).
+10. **Two views of a subset (p. 64):** "a subset of B is a propositional
+    function (property) C(y) (y ∈ B)" or "an indexed family of elements
+    b(x) ∈ B (x ∈ A)", shown equivalent with the identity rules.
+11. **Simple-minded consistency (pp. 69–70).** ⊥ is N₀, which "has no
+    canonical element by definition"; so "if c ∈ ⊥ would hold for some
+    element (construction) c, then c would yield a canonical element
+    d ∈ ⊥; but this is impossible" (p. 69).
+12. **Universes (pp. 87–91).** "Recall that there can be no set of all
+    sets, because we are not able to exhibit once and for all all possible
+    set forming operations" (p. 87). "The idea is to define a universe as
+    the least set closed under certain specified set forming operations"
+    (p. 87). À la Tarski, "U consists of indices of sets (like in recursion
+    theory)", with T(a) the set a codes (p. 88); the process can be
+    iterated, "obtaining a second universe U'", then a third, and so on
+    (p. 89). "However, U itself is not an elemnt [sic] of U. In fact,
+    the axiom U ∈ U leads to a contradiction (Girard's paradox)" (p. 90). A
+    set is small if it has a code in U; "U is a perfectly good set, but it
+    is not small" (pp. 90–91). The fourth Peano axiom needs U, to define by
+    recursion a family of sets that is ⊥ at 0 and ⊤ at successors (p. 91).
+
+## Assumptions
+
+- The notion of method (program) is primitive (p. 9); meaning explanations
+  are by "thought experiment" execution (p. 29), not by a model in set
+  theory.
+- Predicativity: every set is given by rules for its canonical elements,
+  and quantification is over sets only, never over the category of sets
+  (pp. 2, 21–22).
+- "The rules should be rules of immediate inference; we cannot further
+  analyse them, but only explain them" (p. 25).
+- Definitional equality is decidable and its decidability "is essential in
+  checking the formal correctness of a proof" (p. 31).
+
+## Concepts
+
+- **Judgement against proposition**: the act of holding true, against what
+  is held true (p. 3).
+- **Canonical and noncanonical element**: an element whose form shows
+  which introduction rule made it, against a method that computes one
+  (p. 7).
+- **Construction**: the word reserved for a proof of a proposition, an
+  element, as distinct from a proof of a judgement, a derivation tree
+  (p. 6).
+- **Category**: a kind whose objects are grasped without rules that form
+  them all; not a set (p. 21).
+- **Universe, small set**: a set of codes closed under the set-forming
+  operations; a set with a code (pp. 87–90).
+
+## Bearing on the record
+
+The reading is THEORY-tmp62cvo. For LEAD-215's five questions:
+
+- **(a) Types as problems or specifications, their elements as solutions or
+  realizations: borne out in the text** (ARG-tmpl0sxy). The fourth reading of the table
+  is the problem and its solution, and the book itself writes "a program
+  ... which meets the specification A" (p. 6), and "a method of fulfilling
+  (realizing) the intention" (p. 5). CLAIM-949's "Martin-Löf's types are
+  the same reading" as Kolmogorov's holds with one difference: Martin-Löf
+  makes the problem one of four readings of a single form of judgement,
+  where Kolmogorov, as the reading in pull request 708 reports, keeps
+  problems apart from statements.
+- **(b) Propositions as sets: borne out, with the criterion for dropping
+  proofs.** A proposition is the set of its proofs (p. 13); "A true"
+  abbreviates "a ∈ A for some a" and is used when "we don't care about
+  what its proof (construction) is" (p. 33), which is impossible when what
+  follows depends on the proof (p. 47). That is the test CLAIM-949's
+  defeater (a) needs: the record is proof-relevant where a later step uses
+  the evidence and not only the fact of passing (CLAIM-tmp01pyt, filed
+  from this reading).
+- **(c) The judgement forms against TERM-152: tracks it, with a
+  qualification.** "a ∈ A" and "A set" are realization and specification
+  in the book's own fourth reading, and "a ∈ A presupposes that A is a set"
+  (p. 5): a realization is judged only against a specification already
+  formed. But a Martin-Löf set is fixed by how its canonical elements are
+  formed (p. 8), not by tests on candidates. TERM-152's specification, a
+  set of tests and whatever passes them all, is in his terms the set of
+  a ∈ A such that B(a), a Σ over a base set (p. 53), or, without a base
+  set, a category, which is not a set (p. 21). See CLAIM-tmpjs6hp,
+  filed from this reading.
+- **(d) Universes and the revision of a question: narrowed.** A universe
+  lets a type be computed: a family of sets over N defined by recursion
+  into U (p. 91). So a change among types the universe codes is an element
+  of a set, as CLAIM-949 says. But a universe is "the least set closed
+  under certain specified set forming operations", and there can be no
+  set of all sets "because we are not able to exhibit once and for all all
+  possible set forming operations" (p. 87). A revision that brings in a new
+  form of set lies outside the universe and needs the next one, U′, or the
+  open category of sets. That divides CLAIM-470's revisions: choice among
+  answer spaces already admitted is computation in a universe, the
+  outcome its defeater (a) names, while revision of what an answer could
+  be is the step from a universe to the open category (ARG-tmppv3b8,
+  filed from this reading).
+- **(e) Σ as witness and evidence: borne out, and stronger than TERM-153
+  and TERM-154 state.** The first component is TERM-154's witness, the
+  second TERM-153's certificate (p. 42). Three refinements. The witness is
+  read off the proof by the projection p(c), so constructively there is no
+  certificate without a witness (p. 45), which TERM-154's "Certificate
+  without witness" already marks as classical. The second component is a
+  construction, a proof of a proposition, which the book keeps apart from
+  the derivation of the judgement (p. 6); TERM-153 calls it "the derivation
+  that x satisfies φ". And the evidence is used, not only checked: "Only by
+  means of the proof q(c) do we know how far to go" (p. 54).
+- **The descriptor as a refinement inhabited** (CLAIM-949, CLAIM-783;
+  ARG-tmpneexr): the
+  "such that" set is the refinement {x ∈ A : B(x)} the claim writes, and,
+  unlike the three refinement systems read so far, its elements carry
+  their proofs (p. 53). Two descriptors a passes give the pair of their
+  proofs, an element of the Σ over their conjunction (from the Σ and &
+  rules, pp. 39–44; the step is the filer's): CLAIM-783's witness
+  argument, with the certificate carried.
+- **The direction of fit as bidirectional typing**: not tested. The book
+  has no inference or checking algorithm. The intention reading of the
+  table (p. 5), an intention fulfilled by a method, is world to word in
+  TERM-151's sense, and it reads the same judgement form as "a is an
+  element of A": the direction belongs to the reading, not to the form.
+- **Model-theoretic against proof-relevant** (CLAIM-949, THEORY-1142):
+  the book places itself against the model-theoretic route, where
+  "Formulas and deductions are given meaning only through semantics, which
+  is usually done following Tarski and assuming set theory"; "We will
+  avoid keeping form and meaning (content) apart" (p. 3).
+
+## Limitations
+
+- Lecture notes, not a monograph: the meaning explanations are given for
+  the forms of judgement and some rules, and the rest is said to be
+  similar. The second universe's rules are sketched (p. 89).
+- No metatheory: normalization, decidability of type checking and the
+  consistency of universes are not proved here; consistency is argued
+  "simple-mindedly" from the meaning of the rules (pp. 69–70).
+- The extensional identity type (I-elimination gives a = b ∈ A from
+  c ∈ I(A,a,b), p. 61) makes judgemental equality undecidable; the book does
+  not discuss this, and later versions of the theory are intensional.
+- The copy is a scan of the typescript, OCR'd; formulas came through badly
+  and were read from the page images where cited.
+- Pp. 55–86 were skimmed, not read closely.

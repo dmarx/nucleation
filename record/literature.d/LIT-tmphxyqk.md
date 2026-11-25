@@ -99,7 +99,7 @@ Theory, Lecture Notes. Bibliopolis, Naples. ix + 91 pp.
   B(a) has such pairs as its elements (p. 53).
 - A universe is "the least set closed under certain specified set forming
   operations" (p. 87); "there can be no set of all sets" (p. 87), and
-  "U itself is not an element of U" (p. 90).
+  "U itself is not an elemnt [sic] of U" (p. 90).
 
 ## Standing in the record
 
