@@ -3,7 +3,7 @@ number: 1586
 status: Active
 formerly:
 - THEORY-tmp8vjtt
-title: 'Abramsky–Sadrzadeh: discourse as gluing'
+title: 'Discourse meaning as gluing of sections'
 statement: >-
   Abramsky and Sadrzadeh model a basic discourse representation structure as
   a section of a presheaf of consistent literals, a choice of anaphoric
@@ -55,7 +55,7 @@ corroborates:
 - CLAIM-044
 ---
 
-# THEORY-1586: Abramsky–Sadrzadeh: discourse as gluing
+# THEORY-1586: Discourse meaning as gluing of sections
 
 ## The account
 

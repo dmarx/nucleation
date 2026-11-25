@@ -3,7 +3,7 @@ number: 921
 status: Active
 formerly:
 - THEORY-tmpxdq9s
-title: 'Craske et al.: fear drop doesn''t predict return'
+title: 'Within-session fear drop doesn''t predict return'
 statement: >-
   As Craske et al.'s 2014 review reports it, citing six studies and
   reporting no data of its own, how far fear falls during an extinction or
@@ -46,7 +46,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim this corroborates, named, nothing here rests on it -->
 
-# THEORY-921: Craske et al.: fear drop doesn't predict return
+# THEORY-921: Within-session fear drop doesn't predict return
 
 ## Source
 

@@ -11,7 +11,7 @@ promote_when: >-
   with the number of subgroups; and the taxonomy is checked to cover the
   meta-metrics in use, so that the reversals are not artefacts of an
   unusual choice of comparison, aggregation or weighting.
-title: 'Monnier et al.: meta-metrics reverse rankings'
+title: 'Fairness meta-metrics can reverse rankings'
 statement: >-
   Monnier, George, Guyard, Tarnec and Kountouris (2026) show that turning
   intersectional subgroup fairness measurements into one score requires a
@@ -42,7 +42,7 @@ summary: >-
   weighed, not on who counts.
 ---
 
-# THEORY-2272: Monnier et al.: meta-metrics reverse rankings
+# THEORY-2272: Fairness meta-metrics can reverse rankings
 
 ## Source
 

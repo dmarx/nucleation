@@ -3,7 +3,7 @@ number: 1597
 status: Active
 formerly:
 - THEORY-tmpf51cs
-title: 'Volkan: chosen trauma'
+title: 'Ancestral injury becomes a chosen trauma'
 statement: >-
   Volkan argues, from clinical work and facilitated dialogues, that a large
   group's shared image of an ancestral injury at the hands of an enemy, real
@@ -43,7 +43,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1597: Volkan: chosen trauma
+# THEORY-1597: Ancestral injury becomes a chosen trauma
 
 ## The account
 

@@ -3,7 +3,7 @@ number: 843
 status: Active
 formerly:
 - THEORY-tmpe391l
-title: 'Beckers et al.: approximate abstraction error'
+title: 'Zero abstraction error iff τ-abstraction'
 statement: >-
   Beckers, Eberhardt and Halpern's approximate abstraction error, the least
   over surjective context maps of the worst case over allowed interventions
@@ -39,7 +39,7 @@ summary: >-
   Γ.
 ---
 
-# THEORY-843: Beckers et al.: approximate abstraction error
+# THEORY-843: Zero abstraction error iff τ-abstraction
 
 ## Source
 

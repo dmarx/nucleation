@@ -13,7 +13,7 @@ promote_when: >-
   a later complete source that restates the classification with its
   proofs, such as Lattimore and Szepesvári's corrected adversarial
   analysis. A citation of the classification by others does not count.
-title: 'Partial monitoring: four regret rates'
+title: 'Partial monitoring has four regret rates'
 statement: >-
   The minimax regret of a finite partial-monitoring game takes one of four
   rates, decided by its loss and signal matrices: 0 when only one action is
@@ -71,7 +71,7 @@ summary: >-
   degenerate games.
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose example is classified here, nothing here rests on it -->
-# THEORY-964: Partial monitoring: four regret rates
+# THEORY-964: Partial monitoring has four regret rates
 
 ## Source
 

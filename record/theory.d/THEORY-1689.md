@@ -3,7 +3,7 @@ number: 1689
 status: Proposed
 formerly:
 - THEORY-tmpjzvh4
-title: 'MIFair: mutual information for fairness'
+title: 'Mutual information as one fairness template'
 statement: >-
   Monnier and colleagues (2026) propose mutual information between
   predictions and sensitive attributes as a single template for
@@ -32,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1739 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1689: MIFair: mutual information for fairness
+# THEORY-1689: Mutual information as one fairness template
 
 ## The account
 

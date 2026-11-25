@@ -3,7 +3,7 @@ number: 1671
 status: Proposed
 formerly:
 - THEORY-tmpauuea
-title: 'Brussels Collaboration: strict medical necessity'
+title: 'Child genital surgery only if strictly necessary'
 statement: >-
   The Brussels Collaboration on Bodily Integrity (2024) argues that
   clinicians may perform nonvoluntary genital cutting or surgery on a
@@ -48,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1799 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1671: Brussels Collaboration: strict medical necessity
+# THEORY-1671: Child genital surgery only if strictly necessary
 
 ## The account
 

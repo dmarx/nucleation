@@ -3,7 +3,7 @@ number: 865
 status: Active
 formerly:
 - THEORY-tmp111ci
-title: 'Gurnee et al.: a verbalizable workspace'
+title: 'Verbalizable directions carry verbal report'
 statement: >-
   In Gurnee, Sofroniew et al.'s experiments on Claude Sonnet 4.5, Haiku 4.5,
   Opus 4.5 and Opus 4.6, the residual-stream directions a corpus-averaged
@@ -81,7 +81,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-091 THEORY-096 THEORY-023 THEORY-881 — Proposed; accounts this one is set beside, not leaned on -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the batch's claims and term, cited as open -->
 
-# THEORY-865: Gurnee et al.: a verbalizable workspace
+# THEORY-865: Verbalizable directions carry verbal report
 
 ## Source
 

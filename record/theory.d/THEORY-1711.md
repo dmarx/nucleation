@@ -3,7 +3,7 @@ number: 1711
 status: Proposed
 formerly:
 - THEORY-tmpvj9k2
-title: 'Finn: kind onset and parthood are independent'
+title: 'Kind onset and parthood in pregnancy separate'
 statement: >-
   Finn (2023) argues that when an organism of the gestating organism's kind
   begins and whether the foster is a proper part of or merely contained by
@@ -34,7 +34,7 @@ summary: >-
   After-Pregnancy models such as Kingma's "Nine Months")?
 ---
 
-# THEORY-1711: Finn: kind onset and parthood are independent
+# THEORY-1711: Kind onset and parthood in pregnancy separate
 
 ## The account
 

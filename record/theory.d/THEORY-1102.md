@@ -3,7 +3,7 @@ number: 1102
 status: Active
 formerly:
 - THEORY-tmpckv2l
-title: 'Pittis–Gabaldón: late mitochondria'
+title: 'Mitochondria arrived late to a chimaeric host'
 statement: >-
   On Pittis and Gabaldón's stem-length analysis of the LECA proteome,
   families of alphaproteobacterial origin and mitochondrial location sit
@@ -87,7 +87,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1206 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 
-# THEORY-1102: Pittis–Gabaldón: late mitochondria
+# THEORY-1102: Mitochondria arrived late to a chimaeric host
 
 ## Source
 

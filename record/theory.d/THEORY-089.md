@@ -25,7 +25,7 @@ promote_when: >-
   Psychosemantics) and of Campbell's reply (1987/8), none of them held,
   is needed before the account could be Active. More Twin Earth cases
   cannot settle it, because both sides grant the verdicts.
-title: 'Block: two-factor conceptual-role content'
+title: 'Content has narrow-role and referential factors'
 statement: >-
   The content of a mental representation has two factors, a narrow
   conceptual role inside the head and a referential factor relating it to
@@ -58,7 +58,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-095 — Proposed; the Inverted Earth account filed alongside, named in prose, nothing here rests on it -->
 
-# THEORY-089: Block: two-factor conceptual-role content
+# THEORY-089: Content has narrow-role and referential factors
 
 ## Source
 

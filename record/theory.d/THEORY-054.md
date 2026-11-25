@@ -20,7 +20,7 @@ promote_when: >-
   regulation turn out to be one dimension of strength. More correlations
   between "autonomous motivation" composites and well-being cannot settle
   it.
-title: 'SDT: autonomy is graded integration'
+title: 'Autonomy is graded integration, not order'
 statement: >-
   A regulation is autonomous to the degree it is integrated with one's other
   values and needs: autonomy is graded, and is not set by the order of the
@@ -80,7 +80,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 
-# THEORY-054: SDT: autonomy is graded integration
+# THEORY-054: Autonomy is graded integration, not order
 
 ## Source
 

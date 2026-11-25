@@ -39,7 +39,7 @@ promote_when: "A test of whether the macro advantage depends on the uniform inte
 
 # The claim. Repeat it as the body's `# THEORY-787:` heading; the lint checks
 # that the two agree.
-title: 'Hoel et al.: macro can beat micro'
+title: 'Macro scales can beat micro causally'
 statement: >-
   A system's causal structure can be most effective at a macro scale, so
   that causation emerges at a coarse-grained level and the macro description
@@ -87,7 +87,7 @@ answers:
 <!-- inactive-ok-file: ARG-041 — Proposed or Open; what replaces this account and the case it leaves, named in the status note -->
 
 
-# THEORY-787: Hoel et al.: macro can beat micro
+# THEORY-787: Macro scales can beat micro causally
 
 ## Source
 

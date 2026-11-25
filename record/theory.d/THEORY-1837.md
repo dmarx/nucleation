@@ -3,7 +3,7 @@ number: 1837
 status: Proposed
 formerly:
 - THEORY-tmp5hgen
-title: 'Han: the achievement society'
+title: 'Achievement society breeds self-exploitation'
 statement: >-
   Han holds that late-modern society has passed from a disciplinary society
   of prohibition to an achievement society, whose subjects, free of any
@@ -33,7 +33,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-682 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-1944 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
-# THEORY-1837: Han: the achievement society
+# THEORY-1837: Achievement society breeds self-exploitation
 
 ## The account
 

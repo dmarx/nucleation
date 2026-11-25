@@ -3,7 +3,7 @@ number: 587
 status: Active
 formerly:
 - THEORY-tmpn5a5a
-title: 'NUTS: U-turn stopping keeps HMC exact'
+title: 'U-turn stopping keeps HMC exact'
 statement: >-
   A U-turn stopping rule for Hamiltonian Monte Carlo leaves the target
   invariant once the trajectory is built as a random balanced doubling tree
@@ -28,7 +28,7 @@ summary: >-
   rule, U-turn criterion and adaptation.
 ---
 
-# THEORY-587: NUTS: U-turn stopping keeps HMC exact
+# THEORY-587: U-turn stopping keeps HMC exact
 
 ## Source
 

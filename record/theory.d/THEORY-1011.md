@@ -15,7 +15,7 @@ promote_when: >-
   THEORY-1024) find edits of equal quality at layers that tracing does
   not implicate. More successful rank-one edits cannot reinstate it
   (Makelov et al.'s Lemma D.2).
-title: 'ROME: facts as mid-layer MLP memories'
+title: 'Facts stored as mid-layer MLP key–values'
 statement: >-
   In autoregressive transformer language models, factual associations are
   stored in middle-layer MLP modules as linear key–value memories: the MLP
@@ -70,7 +70,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1026 — Proposed; Hase et al.'s account of why tracing and editing come apart, cited beside the conjecture it resembles -->
 <!-- inactive-ok-file: THEORY-1039 — Proposed; the conjecture split out of this entry when it was rejected -->
 
-# THEORY-1011: ROME: facts as mid-layer MLP memories
+# THEORY-1011: Facts stored as mid-layer MLP key–values
 
 ## Source
 

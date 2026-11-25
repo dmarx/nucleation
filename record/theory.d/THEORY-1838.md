@@ -3,7 +3,7 @@ number: 1838
 status: Proposed
 formerly:
 - THEORY-tmp5l4e4
-title: 'Kelly: the technium has its own tendencies'
+title: 'Technology has tendencies of its own'
 statement: >-
   Kelly argues that technology taken as a whole, the technium, is an
   interdependent, organism-like system whose self-reinforcing feedback gives
@@ -33,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-1943 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 <!-- inactive-ok-file: CLAIM-677 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 
-# THEORY-1838: Kelly: the technium has its own tendencies
+# THEORY-1838: Technology has tendencies of its own
 
 ## The account
 

@@ -3,7 +3,7 @@ number: 2168
 status: Proposed
 formerly:
 - THEORY-tmpye6xs
-title: 'Azizpour et al.: integration time shifts optimum'
+title: 'Integration time moves optimum off criticality'
 statement: >-
   Azizpour, Priesemann, Zierenberg and Levina show, analytically in the
   limits and by simulation between them, that in a random network of
@@ -44,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-3027 LIT-3028 ARG-163 CLAIM-809 CLAIM-814 — Proposed, Deferred or new; the reading, the works it names and the claims it bears on -->
 <!-- inactive-ok-file: THEORY-2204 LIT-2991 — Proposed or Unavailable; the reading of the NIPS 2004 companion and the work it stands in for, 2026-11-22 -->
 
-# THEORY-2168: Azizpour et al.: integration time shifts optimum
+# THEORY-2168: Integration time moves optimum off criticality
 
 ## Source
 

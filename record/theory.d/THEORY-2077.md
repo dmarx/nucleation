@@ -3,7 +3,7 @@ number: 2077
 status: Proposed
 formerly:
 - THEORY-tmppm9la
-title: 'Anguita et al.: four fine-tuning regimes'
+title: 'Init scales set four fine-tuning regimes'
 statement: >-
   Anguita and colleagues show in two-layer diagonal linear networks trained
   to convergence that the initialization's absolute scale, its relative
@@ -39,7 +39,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2077: Anguita et al.: four fine-tuning regimes
+# THEORY-2077: Init scales set four fine-tuning regimes
 
 ## The account
 

@@ -3,7 +3,7 @@ number: 2021
 status: Proposed
 formerly:
 - THEORY-tmpctik9
-title: 'Jacobs et al.: travelling waves integrate shape'
+title: 'Travelling waves carry global shape information'
 statement: >-
   Jacobs and colleagues show that recurrent networks with only local
   encoders and local recurrence learn to propagate travelling waves that
@@ -44,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-647 — Unavailable; cited in this filing of 2026-11-19 -->
 
-# THEORY-2021: Jacobs et al.: travelling waves integrate shape
+# THEORY-2021: Travelling waves carry global shape information
 
 ## The account
 

@@ -3,7 +3,7 @@ number: 1401
 status: Active
 formerly:
 - THEORY-tmpj2rdc
-title: 'Bogetoft–Hougaard: rational inefficiency'
+title: 'Measured inefficiency can be rational slack'
 statement: >-
   Bogetoft and Hougaard hold that an organization's measured technical
   inefficiency can be a rational choice of on-the-job slack traded against
@@ -54,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2076 — Unfetched; the unread paper this one stands in for, cited as open -->
 
-# THEORY-1401: Bogetoft–Hougaard: rational inefficiency
+# THEORY-1401: Measured inefficiency can be rational slack
 
 ## Source
 
