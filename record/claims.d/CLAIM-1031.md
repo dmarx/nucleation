@@ -3,7 +3,11 @@ number: 1031
 status: Proposed
 formerly:
 - CLAIM-tmp61i14
-title: 'The organization of possibility can be treated as a game between queries and targets, between what can be asked of an organization and what it can answer'
+title: 'Possibility as a query–target game'
+statement: >-
+  The organization of possibility can be treated as a game between queries
+  and targets, between what can be asked of an organization and what it can
+  answer
 version: 1
 role: thesis
 warrant: interpretive
@@ -37,7 +41,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1012 CLAIM-1032 CLAIM-1087 CLAIM-1053 CLAIM-1054 CLAIM-1003 CLAIM-1188 — Proposed; A50's development of this thesis and the assistant's analysis of its game, filed with it -->
 
-# CLAIM-1031: The organization of possibility can be treated as a game between queries and targets, between what can be asked of an organization and what it can answer
+# CLAIM-1031: Possibility as a query–target game
 
 ## The claim
 

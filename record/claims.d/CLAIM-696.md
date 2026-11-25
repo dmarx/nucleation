@@ -3,7 +3,14 @@ number: 696
 status: Proposed
 formerly:
 - CLAIM-tmp7jyur
-title: 'A mode can bear explanatory weight in a learned network only if it is defined invariantly under the network''s function-preserving symmetries, permutations of hidden units and the reparametrizations its architecture allows; a spectrum over the index order of units fails that test, while the Fourier characters of a task''s group pass it, because the task supplies them'
+title: 'Explanatory modes must be symmetry-invariant'
+statement: >-
+  A mode can bear explanatory weight in a learned network only if it is
+  defined invariantly under the network's function-preserving symmetries,
+  permutations of hidden units and the reparametrizations its architecture
+  allows; a spectrum over the index order of units fails that test, while
+  the Fourier characters of a task's group pass it, because the task
+  supplies them
 version: 1
 role: thesis
 warrant: interpretive
@@ -42,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-698 CASE-270 THEORY-022 THEORY-1872 — Proposed or new; the claim this sharpens, its construction, and the readings it contrasts -->
 
-# CLAIM-696: A mode can bear explanatory weight in a learned network only if it is defined invariantly under the network's function-preserving symmetries, permutations of hidden units and the reparametrizations its architecture allows; a spectrum over the index order of units fails that test, while the Fourier characters of a task's group pass it, because the task supplies them
+# CLAIM-696: Explanatory modes must be symmetry-invariant
 
 ## The rule
 

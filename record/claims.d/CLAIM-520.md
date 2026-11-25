@@ -3,7 +3,15 @@ number: 520
 status: Active
 formerly:
 - CLAIM-tmpnxn4o
-title: 'The value of keeping a corrective capacity is conditional on objectives, uncertainty and cost: a free, optional audit cannot lower a single time-consistent decision-maker''s expected performance, but an audit that costs C to maintain and bears on k decisions with error rate ε is worth k(0.25 − 0.5ε) − C in the exchange''s model, negative when C is large or k small, and where no hypothesis fits the world, correction gains no reward and improves only calibration'
+title: 'Corrective capacity''s value is conditional'
+statement: >-
+  The value of keeping a corrective capacity is conditional on objectives,
+  uncertainty and cost: a free, optional audit cannot lower a single
+  time-consistent decision-maker's expected performance, but an audit that
+  costs C to maintain and bears on k decisions with error rate ε is worth
+  k(0.25 − 0.5ε) − C in the exchange's model, negative when C is large or k
+  small, and where no hypothesis fits the world, correction gains no reward
+  and improves only calibration
 version: 2
 history:
 - version: 2
@@ -42,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-053 ARG-042 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 <!-- inactive-ok-file: THEORY-1807 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-520: The value of keeping a corrective capacity is conditional on objectives, uncertainty and cost: a free, optional audit cannot lower a single time-consistent decision-maker's expected performance, but an audit that costs C to maintain and bears on k decisions with error rate ε is worth k(0.25 − 0.5ε) − C in the exchange's model, negative when C is large or k small, and where no hypothesis fits the world, correction gains no reward and improves only calibration
+# CLAIM-520: Corrective capacity's value is conditional
 
 ## The claim
 

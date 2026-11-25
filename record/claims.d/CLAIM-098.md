@@ -3,7 +3,11 @@ number: 98
 status: Active
 formerly:
 - CLAIM-tmpse4aa
-title: 'Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases'
+title: 'Translations need not be group actions'
+statement: >-
+  Translation and cross-modal reconstruction need not be group actions: they
+  form a category or semigroup of directed stochastic transformations, in
+  which invertible symmetries are special cases
 version: 3
 history:
 - version: 2
@@ -57,7 +61,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-004 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-098: Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases
+# CLAIM-098: Translations need not be group actions
 
 ## The claim
 

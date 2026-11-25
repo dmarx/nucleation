@@ -3,7 +3,12 @@ number: 422
 status: Active
 formerly:
 - CLAIM-tmplrpat
-title: 'A successful corrective act, an executable procedure and a maintained organizational capacity are three different things, so an organization can record a correction, even rewrite its rules, without the corrected capacity being maintained'
+title: 'A recorded correction is not a maintained one'
+statement: >-
+  A successful corrective act, an executable procedure and a maintained
+  organizational capacity are three different things, so an organization can
+  record a correction, even rewrite its rules, without the corrected
+  capacity being maintained
 version: 5
 history:
 - version: 2
@@ -89,7 +94,7 @@ complements:
 <!-- inactive-ok-file: LIT-2088 — Unfetched; Tatel and Ackerman (2025), cited from the reading of 2026-11-04 as the article the dissertation precedes -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-422: A successful corrective act, an executable procedure and a maintained organizational capacity are three different things, so an organization can record a correction, even rewrite its rules, without the corrected capacity being maintained
+# CLAIM-422: A recorded correction is not a maintained one
 
 ## The claim
 

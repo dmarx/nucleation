@@ -3,7 +3,13 @@ number: 800
 status: Proposed
 formerly:
 - CLAIM-tmp6mjfc
-title: "Occupancy of entailment cones is not a measure of learning: it rises when cone boundaries move as well as when representations flow, it rises under collapse, and nested cones make a coarse concept's cone entered no later than a fine one's by construction, so coarse-to-fine learning needs an independent measure of when each level's distinction becomes decodable"
+title: 'Cone occupancy is not a measure of learning'
+statement: >-
+  Occupancy of entailment cones is not a measure of learning: it rises when
+  cone boundaries move as well as when representations flow, it rises under
+  collapse, and nested cones make a coarse concept's cone entered no later
+  than a fine one's by construction, so coarse-to-fine learning needs an
+  independent measure of when each level's distinction becomes decodable
 version: 2
 history:
 - version: 2
@@ -50,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-186 THEORY-2185 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-800: Occupancy of entailment cones is not a measure of learning: it rises when cone boundaries move as well as when representations flow, it rises under collapse, and nested cones make a coarse concept's cone entered no later than a fine one's by construction, so coarse-to-fine learning needs an independent measure of when each level's distinction becomes decodable
+# CLAIM-800: Cone occupancy is not a measure of learning
 
 ## The claim
 

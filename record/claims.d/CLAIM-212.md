@@ -3,7 +3,13 @@ number: 212
 status: Proposed
 formerly:
 - CLAIM-tmp95pjv
-title: 'Fidelity as a report and fidelity as a re-performance are different decision targets: Blackwell''s order compares a rendering with its source as evidence about the source''s situation, which both readers decide about, while a rendering that re-performs the act in the target''s situation is compared only through a correspondence of situations'
+title: 'Report and re-performance are different targets'
+statement: >-
+  Fidelity as a report and fidelity as a re-performance are different
+  decision targets: Blackwell's order compares a rendering with its source
+  as evidence about the source's situation, which both readers decide about,
+  while a rendering that re-performs the act in the target's situation is
+  compared only through a correspondence of situations
 version: 3
 history:
 - version: 2
@@ -64,7 +70,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-778 — Unavailable; Torgersen, unread here, named and not leaned on -->
 <!-- inactive-ok-file: CLAIM-240 — Proposed; the weighting claim, cited in a dated note as the rival reading of a reception split, open -->
 
-# CLAIM-212: Fidelity as a report and fidelity as a re-performance are different decision targets: Blackwell's order compares a rendering with its source as evidence about the source's situation, which both readers decide about, while a rendering that re-performs the act in the target's situation is compared only through a correspondence of situations
+# CLAIM-212: Report and re-performance are different targets
 
 ## What it answers
 

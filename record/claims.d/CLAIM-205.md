@@ -3,7 +3,11 @@ number: 205
 status: Active
 formerly:
 - CLAIM-tmp6gb7c
-title: 'Functional and relevance-theoretic accounts of translation, as Nida, Nord and Gutt state them, need not fix one context or a static stance profile of the rendering'
+title: 'Nida, Nord and Gutt need not fix one context'
+statement: >-
+  Functional and relevance-theoretic accounts of translation, as Nida, Nord
+  and Gutt state them, need not fix one context or a static stance profile
+  of the rendering
 version: 3
 history:
 - version: 2
@@ -59,7 +63,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-031 — Rejected; the argument this claim undercuts, defeated by it -->
 <!-- inactive-ok-file: CLAIM-202 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
-# CLAIM-205: Functional and relevance-theoretic accounts of translation, as Nida, Nord and Gutt state them, need not fix one context or a static stance profile of the rendering
+# CLAIM-205: Nida, Nord and Gutt need not fix one context
 
 ## The objection
 

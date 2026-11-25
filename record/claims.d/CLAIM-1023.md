@@ -3,7 +3,12 @@ number: 1023
 status: Proposed
 formerly:
 - CLAIM-tmp49ilj
-title: 'That held content was re-derived without its code in 20 of 48 reconstructed exchanges is a failure to find the code, which the anchoring account already allows, not evidence that addresses fail to anchor: it bears on discoverability, not on whether a found code stops re-derivation'
+title: 'Re-derivation shows undiscovered codes'
+statement: >-
+  That held content was re-derived without its code in 20 of 48
+  reconstructed exchanges is a failure to find the code, which the anchoring
+  account already allows, not evidence that addresses fail to anchor: it
+  bears on discoverability, not on whether a found code stops re-derivation
 version: 1
 role: granted
 warrant: empirical
@@ -35,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-180 CLAIM-182 — Proposed; the claims this reading is read with, cited as under test -->
 <!-- inactive-ok-file: CLAIM-1068 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1023: That held content was re-derived without its code in 20 of 48 reconstructed exchanges is a failure to find the code, which the anchoring account already allows, not evidence that addresses fail to anchor: it bears on discoverability, not on whether a found code stops re-derivation
+# CLAIM-1023: Re-derivation shows undiscovered codes
 
 ## The claim
 

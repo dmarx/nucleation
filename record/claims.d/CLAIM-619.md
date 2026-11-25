@@ -3,7 +3,16 @@ number: 619
 status: Proposed
 formerly:
 - CLAIM-tmplgp4k
-title: 'An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control, and the test alone does not say whether the response finks the disposition to be corrected, masks it, or changes only the challengers'' access and incentives'
+title: 'Suppressed challenge reads as success'
+statement: >-
+  An organization can be disposed to answer a credible challenge by reducing
+  the capacity for future challenge, classifying the challenge as the
+  problem and restricting the challenger, so that the later absence of
+  challenges reads as success; the test is whether a credible challenge
+  causally lowers the chance of effective future challenge against a
+  control, and the test alone does not say whether the response finks the
+  disposition to be corrected, masks it, or changes only the challengers'
+  access and incentives
 version: 7
 history:
 - version: 2
@@ -115,7 +124,7 @@ works:
 <!-- inactive-ok-file: TERM-118 CLAIM-614 — filed from the same exchange, Proposed; the term it is stated in, A's companion thesis and the owner's question and claim -->
 <!-- inactive-ok-file: LIT-1311 — Proposed or Unavailable; cited with their standing -->
 
-# CLAIM-619: An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control, and the test alone does not say whether the response finks the disposition to be corrected, masks it, or changes only the challengers' access and incentives
+# CLAIM-619: Suppressed challenge reads as success
 
 ## The claim
 

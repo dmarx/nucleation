@@ -3,7 +3,13 @@ number: 820
 status: Proposed
 formerly:
 - CLAIM-tmpficzj
-title: "A model's parameter complexity and its behavioural complexity come apart: when its predictions depend on a few stiff combinations of parameters and barely on the rest, it can be hard to fit and still predictive, so simplicity can belong to how a system responds to observation rather than to its mechanism"
+title: 'Parameter and behavioural complexity come apart'
+statement: >-
+  A model's parameter complexity and its behavioural complexity come apart:
+  when its predictions depend on a few stiff combinations of parameters and
+  barely on the rest, it can be hard to fit and still predictive, so
+  simplicity can belong to how a system responds to observation rather than
+  to its mechanism
 version: 3
 history:
 - version: 2
@@ -79,7 +85,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2205 — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-861 — Proposed; alternative (a), filed 2026-11-22 from the readings of Quinn and colleagues and of Shalizi and Moore -->
 
-# CLAIM-820: A model's parameter complexity and its behavioural complexity come apart: when its predictions depend on a few stiff combinations of parameters and barely on the rest, it can be hard to fit and still predictive, so simplicity can belong to how a system responds to observation rather than to its mechanism
+# CLAIM-820: Parameter and behavioural complexity come apart
 
 ## The claim
 

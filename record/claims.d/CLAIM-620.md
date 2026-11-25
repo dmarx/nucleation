@@ -3,7 +3,14 @@ number: 620
 status: Proposed
 formerly:
 - CLAIM-tmpnjz70
-title: 'Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy'
+title: 'Concepts individuated by transmission'
+statement: >-
+  Concepts are individuated over time by the transmission criterion that
+  governs organized individuals, so in reflexive social systems the coupling
+  of meaning and will runs through what is transmitted and can remake the
+  concepts, perspectives and organizations it runs in: meaning-making and
+  individuation condition each other, without that persistence showing
+  truth, consensus or autonomy
 version: 7
 history:
 - version: 2
@@ -139,7 +146,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-553 ARG-073 CASE-221 ARG-066 ARG-060 — the owner's construct, Proposed, and the argument and claim filed from the second share of the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-194 THEORY-916 — Proposed; the stipulated construction and the special case, cited in the version 2 corrections with their standing -->
 
-# CLAIM-620: Concepts are individuated over time by the transmission criterion that governs organized individuals, so in reflexive social systems the coupling of meaning and will runs through what is transmitted and can remake the concepts, perspectives and organizations it runs in: meaning-making and individuation condition each other, without that persistence showing truth, consensus or autonomy
+# CLAIM-620: Concepts individuated by transmission
 
 *Returned to CLAIM from [SYNTHESIS-005](../syntheses.d/SYNTHESIS-005.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 

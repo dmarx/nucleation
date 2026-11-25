@@ -3,7 +3,15 @@ number: 906
 status: Proposed
 formerly:
 - CLAIM-tmpdmn0v
-title: 'Among specialist denoisers after a reversal of expertise, the best router given the same audits, delay and cost as audited governance matches or beats the best governance in each arm built for a failure of evaluation, cycles, incommensurable scores, captured probes, bandit feedback and continued training included; governance wins only against a router lacking its context or its normalization, or burdened with an audit floor it does better without'
+title: 'Best router matches audited governance'
+statement: >-
+  Among specialist denoisers after a reversal of expertise, the best router
+  given the same audits, delay and cost as audited governance matches or
+  beats the best governance in each arm built for a failure of evaluation,
+  cycles, incommensurable scores, captured probes, bandit feedback and
+  continued training included; governance wins only against a router lacking
+  its context or its normalization, or burdened with an audit floor it does
+  better without
 version: 1
 history:
 - version: 1
@@ -45,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-338 — new; the run this claim rests on -->
 <!-- inactive-ok-file: ARG-036 — Proposed; cited as the argument whose failed question this bears on -->
 
-# CLAIM-906: Among specialist denoisers after a reversal of expertise, the best router given the same audits, delay and cost as audited governance matches or beats the best governance in each arm built for a failure of evaluation, cycles, incommensurable scores, captured probes, bandit feedback and continued training included; governance wins only against a router lacking its context or its normalization, or burdened with an audit floor it does better without
+# CLAIM-906: Best router matches audited governance
 
 ## The claim
 

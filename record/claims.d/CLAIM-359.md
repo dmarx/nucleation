@@ -3,7 +3,15 @@ number: 359
 status: Active
 formerly:
 - CLAIM-tmpp9ox0
-title: 'A self-governing organization''s robustness to compromised constituents is a property of the processes that allocate, audit and revise authority, not only of its constraints on harmful acts; safeguards against capture can also restrict the disagreement and revision that self-governance needs, and where they do security and self-governance trade off, while others, such as audits independent of the audited that protect dissent, serve both, so the two are distinct achievements and not opposed ones'
+title: 'Capture robustness lies in authority processes'
+statement: >-
+  A self-governing organization's robustness to compromised constituents is
+  a property of the processes that allocate, audit and revise authority, not
+  only of its constraints on harmful acts; safeguards against capture can
+  also restrict the disagreement and revision that self-governance needs,
+  and where they do security and self-governance trade off, while others,
+  such as audits independent of the audited that protect dissent, serve
+  both, so the two are distinct achievements and not opposed ones
 version: 5
 history:
 - version: 2
@@ -89,7 +97,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1206 LIT-1216 — Deferred; skimmed on 2026-10-29 and cited in the note of that date for the parts read, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-1823 — Unfetched since 2026-10-29; Edmondson 1996, cited in the note of that date as not read, nothing here rests on it -->
 
-# CLAIM-359: A self-governing organization's robustness to compromised constituents is a property of the processes that allocate, audit and revise authority, not only of its constraints on harmful acts; safeguards against capture can also restrict the disagreement and revision that self-governance needs, and where they do security and self-governance trade off, while others, such as audits independent of the audited that protect dissent, serve both, so the two are distinct achievements and not opposed ones
+# CLAIM-359: Capture robustness lies in authority processes
 
 ## The claim
 

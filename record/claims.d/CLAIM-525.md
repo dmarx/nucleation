@@ -3,7 +3,13 @@ number: 525
 status: Active
 formerly:
 - CLAIM-tmpeli2w
-title: "Information in the sense the Simondonian readings give it, a disparity whose resolution reorders the system that takes it up, is in the line's terms a change in the interpreter or in the questions receivers can decide, not evidence about a fixed situation, so Blackwell's order leaves it out by construction and the two accounts are not rivals"
+title: 'Simondonian information changes the interpreter'
+statement: >-
+  Information in the sense the Simondonian readings give it, a disparity
+  whose resolution reorders the system that takes it up, is in the line's
+  terms a change in the interpreter or in the questions receivers can
+  decide, not evidence about a fixed situation, so Blackwell's order leaves
+  it out by construction and the two accounts are not rivals
 version: 2
 history:
 - version: 2
@@ -67,7 +73,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1648 — Unavailable; Simondon's own text, whose reading would test the defeat condition -->
 <!-- ref::uses-file: TERM-028 — Blackwell's order, which holds the receiver and problem fixed and gives "the ceiling a rendering sets for a fixed receiver, which report fidelity needs", is fidelity as TERM-028's inferential sufficiency -->
 
-# CLAIM-525: Information in the sense the Simondonian readings give it, a disparity whose resolution reorders the system that takes it up, is in the line's terms a change in the interpreter or in the questions receivers can decide, not evidence about a fixed situation, so Blackwell's order leaves it out by construction and the two accounts are not rivals
+# CLAIM-525: Simondonian information changes the interpreter
 
 ## The claim
 

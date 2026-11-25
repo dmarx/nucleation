@@ -3,7 +3,10 @@ number: 489
 status: Rejected
 formerly:
 - CLAIM-tmpgbiz1
-title: 'A sign''s communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent'
+title: 'Significance from contrast, not reference'
+statement: >-
+  A sign's communicative significance is fixed by its contrasts within a
+  system rather than by correspondence to a referent
 version: 2
 history:
 - version: 2
@@ -44,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-775 until 2027-01-28 — Unavailable; Lévi-Strauss, unread here, the attribution the manuscript gives -->
 <!-- inactive-ok-file: CLAIM-082 CLAIM-242 — Proposed; the narrowed claim and the use-level reply, cited as open -->
 
-# CLAIM-489: A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent
+# CLAIM-489: Significance from contrast, not reference
 
 ## The claim
 

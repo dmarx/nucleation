@@ -3,7 +3,14 @@ number: 694
 status: Proposed
 formerly:
 - CLAIM-tmpovvk2
-title: 'A conserved topological charge individuates a kind, not a token: it fixes the sector a configuration is in and its net count of defects, but not where a defect is, which one persisted or, in more than one dimension, how many cores carry the charge; so on the topological route to persistence what the charge protects is the sector, and the identity of a particular structure needs a further, declared criterion'
+title: 'Topological charge individuates kinds, not tokens'
+statement: >-
+  A conserved topological charge individuates a kind, not a token: it fixes
+  the sector a configuration is in and its net count of defects, but not
+  where a defect is, which one persisted or, in more than one dimension, how
+  many cores carry the charge; so on the topological route to persistence
+  what the charge protects is the sector, and the identity of a particular
+  structure needs a further, declared criterion
 version: 1
 role: thesis
 warrant: demonstrated
@@ -47,7 +54,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2051 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-606 CASE-266 NOTE-1950 — Proposed, Skimmed or new; the claim this narrows and the construction and readings it rests on -->
 
-# CLAIM-694: A conserved topological charge individuates a kind, not a token: it fixes the sector a configuration is in and its net count of defects, but not where a defect is, which one persisted or, in more than one dimension, how many cores carry the charge; so on the topological route to persistence what the charge protects is the sector, and the identity of a particular structure needs a further, declared criterion
+# CLAIM-694: Topological charge individuates kinds, not tokens
 
 ## The claim and its demonstration
 

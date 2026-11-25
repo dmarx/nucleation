@@ -3,7 +3,12 @@ number: 651
 status: Proposed
 formerly:
 - CLAIM-tmpz1xb5
-title: 'To register that an expected event failed to occur within a specified interval, an apparatus must physically distinguish the tested interval from its alternatives and retain enough state to classify the outcome; such an apparatus need not be sentient'
+title: 'Registering absence needs no sentience'
+statement: >-
+  To register that an expected event failed to occur within a specified
+  interval, an apparatus must physically distinguish the tested interval
+  from its alternatives and retain enough state to classify the outcome;
+  such an apparatus need not be sentient
 version: 3
 history:
 - version: 2
@@ -75,7 +80,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-240 CLAIM-649 CASE-238 — filed from the same exchange, Proposed -->
 
-# CLAIM-651: To register that an expected event failed to occur within a specified interval, an apparatus must physically distinguish the tested interval from its alternatives and retain enough state to classify the outcome; such an apparatus need not be sentient
+# CLAIM-651: Registering absence needs no sentience
 
 ## The claim
 

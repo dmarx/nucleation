@@ -3,7 +3,13 @@ number: 237
 status: Active
 formerly:
 - CLAIM-tmpkf8pe
-title: 'The first open problem of directed transport is not yet posed: a contextual model is a menu of incompatible experiments, and under the natural order on menus any state-independent classical simulation is dominated automatically, so what is open is only the converse or a deficiency bound'
+title: 'First open problem of directed transport unposed'
+statement: >-
+  The first open problem of directed transport is not yet posed: a
+  contextual model is a menu of incompatible experiments, and under the
+  natural order on menus any state-independent classical simulation is
+  dominated automatically, so what is open is only the converse or a
+  deficiency bound
 version: 3
 history:
 - version: 2
@@ -50,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-258 — Proposed; a companion objection from the same audit, cited for the state-dependent case -->
 
-# CLAIM-237: The first open problem of directed transport is not yet posed: a contextual model is a menu of incompatible experiments, and under the natural order on menus any state-independent classical simulation is dominated automatically, so what is open is only the converse or a deficiency bound
+# CLAIM-237: First open problem of directed transport unposed
 
 ## The objection
 

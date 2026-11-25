@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'A record used to evaluate research should make legible the distinctions the evaluating decision needs and not every detail: publication count is adequate to a question about throughput and inadequate to one about contribution to knowledge'
+title: 'Evaluation needs decision-relevant distinctions'
+statement: >-
+  A record used to evaluate research should make legible the distinctions
+  the evaluating decision needs and not every detail: publication count is
+  adequate to a question about throughput and inadequate to one about
+  contribution to knowledge
 version: 2
 history:
 - version: 2
@@ -45,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpu6e4u CLAIM-tmpkvi10 — Proposed; the assistant's qualification, and the owner's many-views claim -->
 
-# CLAIM-tmpts8ee: A record used to evaluate research should make legible the distinctions the evaluating decision needs and not every detail: publication count is adequate to a question about throughput and inadequate to one about contribution to knowledge
+# CLAIM-tmpts8ee: Evaluation needs decision-relevant distinctions
 
 ## The claim
 

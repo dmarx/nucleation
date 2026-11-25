@@ -3,7 +3,13 @@ number: 343
 status: Active
 formerly:
 - CLAIM-tmpqjpx1
-title: 'For three or more parts, no ΦID can use a redundancy function that both satisfies the identity axiom and yields nonnegative atoms, because on the Williams–Beer lattice the two are inconsistent from three sources up; a ΦID verdict on three or more parts therefore rests on which axiom the analyst drops, and should name it'
+title: 'No ΦID for three or more parts'
+statement: >-
+  For three or more parts, no ΦID can use a redundancy function that both
+  satisfies the identity axiom and yields nonnegative atoms, because on the
+  Williams–Beer lattice the two are inconsistent from three sources up; a
+  ΦID verdict on three or more parts therefore rests on which axiom the
+  analyst drops, and should name it
 version: 2
 history:
 - version: 2
@@ -54,7 +60,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-497 — Proposed; cited for what each measure or account computes, not as settled -->
 <!-- inactive-ok-file: THEORY-2187 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-343: For three or more parts, no ΦID can use a redundancy function that both satisfies the identity axiom and yields nonnegative atoms, because on the Williams–Beer lattice the two are inconsistent from three sources up; a ΦID verdict on three or more parts therefore rests on which axiom the analyst drops, and should name it
+# CLAIM-343: No ΦID for three or more parts
 
 ## The claim
 

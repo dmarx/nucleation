@@ -3,7 +3,16 @@ number: 1082
 status: Proposed
 formerly:
 - CLAIM-tmpdrkvl
-title: "Where an organization's operation relaxes at rate γ toward a governed configuration h(θ) and can also be pushed directly, ẋ = −γ(x − h(θ)) + bu, a smaller γ makes a direct push cheaper and a change of the configuration slower: the least effort to push x by Δ within H, 2γΔ²/(b²(1 − e^{−2γH})), rises with γ, while moving the configuration by D with operation kept within ε of it throughout needs H ≥ (D/ε − 2)/γ, so an organization whose operation has slowed is easier to redirect by intervention and slower to govern by changing its rules"
+title: 'Slowed operation: easier pushed, slower governed'
+statement: >-
+  Where an organization's operation relaxes at rate γ toward a governed
+  configuration h(θ) and can also be pushed directly, ẋ = −γ(x − h(θ)) + bu,
+  a smaller γ makes a direct push cheaper and a change of the configuration
+  slower: the least effort to push x by Δ within H, 2γΔ²/(b²(1 − e^{−2γH})),
+  rises with γ, while moving the configuration by D with operation kept
+  within ε of it throughout needs H ≥ (D/ε − 2)/γ, so an organization whose
+  operation has slowed is easier to redirect by intervention and slower to
+  govern by changing its rules
 version: 1
 role: thesis
 warrant: demonstrated
@@ -38,7 +47,7 @@ summary: >-
 
 <!-- inactive-ok-file: SYNTHESIS-123 — Proposed; the account filed with this claim -->
 
-# CLAIM-1082: Where an organization's operation relaxes at rate γ toward a governed configuration h(θ) and can also be pushed directly, ẋ = −γ(x − h(θ)) + bu, a smaller γ makes a direct push cheaper and a change of the configuration slower: the least effort to push x by Δ within H, 2γΔ²/(b²(1 − e^{−2γH})), rises with γ, while moving the configuration by D with operation kept within ε of it throughout needs H ≥ (D/ε − 2)/γ, so an organization whose operation has slowed is easier to redirect by intervention and slower to govern by changing its rules
+# CLAIM-1082: Slowed operation: easier pushed, slower governed
 
 ## The derivation
 

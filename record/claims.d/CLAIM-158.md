@@ -3,7 +3,11 @@ number: 158
 status: Proposed
 formerly:
 - CLAIM-tmp99nuu
-title: 'Systems differ in whether "who drives?" has an answer at a given level of description, and the kinds form a spectrum: fully top-down, bidirectional, emergent from the whole, and between'
+title: '"Who drives?" answers form a spectrum'
+statement: >-
+  Systems differ in whether "who drives?" has an answer at a given level of
+  description, and the kinds form a spectrum: fully top-down, bidirectional,
+  emergent from the whole, and between
 version: 1
 role: thesis
 warrant: interpretive
@@ -40,7 +44,7 @@ summary: >-
 ---
 <!-- ref::uses-file: TERM-046 — stated in "notation for the threshold, drive and unity criteria"; the body applies the term without naming it -->
 
-# CLAIM-158: Systems differ in whether "who drives?" has an answer at a given level of description, and the kinds form a spectrum: fully top-down, bidirectional, emergent from the whole, and between
+# CLAIM-158: "Who drives?" answers form a spectrum
 
 ## The claim
 

@@ -3,7 +3,12 @@ number: 859
 status: Proposed
 formerly:
 - CLAIM-tmpywy3c
-title: 'In two distinct mechanisms that mix a structured step with a uniform one, preferential attachment or copying with a uniform share and noisy sample-space reduction, the tail''s survival exponent is one over the structured share'
+title: 'Survival exponent is one over the structured share'
+statement: >-
+  In two distinct mechanisms that mix a structured step with a uniform one,
+  preferential attachment or copying with a uniform share and noisy
+  sample-space reduction, the tail's survival exponent is one over the
+  structured share
 version: 1
 history:
 - version: 1
@@ -54,7 +59,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-795 CLAIM-803 — Proposed, Rejected, Deferred or new; the entries this filing made or touched -->
 
-# CLAIM-859: In two distinct mechanisms that mix a structured step with a uniform one, preferential attachment or copying with a uniform share and noisy sample-space reduction, the tail's survival exponent is one over the structured share
+# CLAIM-859: Survival exponent is one over the structured share
 
 ## The two cases
 

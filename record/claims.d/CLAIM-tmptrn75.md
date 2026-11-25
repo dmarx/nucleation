@@ -29,7 +29,14 @@ complements:
 - CLAIM-523
 - CLAIM-283
 - CLAIM-tmplm3mz
-title: "An institution can make others' circumstances highly legible to itself, recognizing and predicting their needs and vulnerabilities, and use that legibility for its own objective while their justified claims gain no authority over what it does, so the functional profile the word sociopathy points at is legibility without volitional efficacy for others' claims, not a failure to understand them"
+title: 'Sociopathy: legibility without standing'
+statement: >-
+  An institution can make others' circumstances highly legible to itself,
+  recognizing and predicting their needs and vulnerabilities, and use that
+  legibility for its own objective while their justified claims gain no
+  authority over what it does, so the functional profile the word sociopathy
+  points at is legibility without volitional efficacy for others' claims,
+  not a failure to understand them
 summary: >-
   A46 §§5–6 and 15 of the exchange "Memes, Contracts, and Systemic
   Normativity" (ChatGPT, 2026-11-24), on the owner's U29, which asked how
@@ -46,7 +53,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-432 CLAIM-431 CLAIM-tmplm3mz CLAIM-1169 CLAIM-624 LIT-1430 CLAIM-tmpa61rf — Proposed or Unavailable; the rival answers, the owner's thread and Bakan, cited by A46 -->
 
-# CLAIM-tmptrn75: An institution can make others' circumstances highly legible to itself, recognizing and predicting their needs and vulnerabilities, and use that legibility for its own objective while their justified claims gain no authority over what it does, so the functional profile the word sociopathy points at is legibility without volitional efficacy for others' claims, not a failure to understand them
+# CLAIM-tmptrn75: Sociopathy: legibility without standing
 
 ## The claim
 

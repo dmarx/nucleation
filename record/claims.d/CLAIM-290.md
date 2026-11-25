@@ -3,7 +3,11 @@ number: 290
 status: Active
 formerly:
 - CLAIM-tmpds763
-title: 'A positive-definite kernel''s minimal realizations are unique up to a unitary, and two finite representation matrices with the same centred Gram matrix differ by a translation and an orthogonal map'
+title: 'Kernel realizations are unique up to unitary'
+statement: >-
+  A positive-definite kernel's minimal realizations are unique up to a
+  unitary, and two finite representation matrices with the same centred Gram
+  matrix differ by a translation and an orthogonal map
 version: 1
 role: thesis
 warrant: demonstrated
@@ -35,7 +39,7 @@ summary: >-
   unique, which fails when the rank is below d.
 ---
 
-# CLAIM-290: A positive-definite kernel's minimal realizations are unique up to a unitary, and two finite representation matrices with the same centred Gram matrix differ by a translation and an orthogonal map
+# CLAIM-290: Kernel realizations are unique up to unitary
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 336
 status: Proposed
 formerly:
 - CLAIM-tmp84z6h
-title: 'The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another''s influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them'
+title: 'Transport and will-organization are one model'
+statement: >-
+  The pragmatic-transport and will-organization lines describe one model, an
+  organization of operators that act on a shared interpretive state under a
+  context while allocating one another's influence: a frame is the context
+  under which operators act, a judgement is the response they yield, an
+  action-generating regime is an operator or coalition, and a
+  will-organization is the dynamics that allocates influence among them
 version: 11
 history:
 - version: 2
@@ -149,7 +156,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-286 ARG-065 — Proposed; a premise and the argument that concludes this, cited with their standing -->
 <!-- ref::uses-file: TERM-101 — the lab's governor combining proposals "by nominal grants", and its arm with "a raised grant for the reframer", are grants in TERM-101's sense -->
 
-# CLAIM-336: The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them
+# CLAIM-336: Transport and will-organization are one model
 
 *Returned to CLAIM from [SYNTHESIS-011](../syntheses.d/SYNTHESIS-011.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 

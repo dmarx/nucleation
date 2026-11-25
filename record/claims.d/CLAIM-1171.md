@@ -3,7 +3,14 @@ number: 1171
 status: Proposed
 formerly:
 - CLAIM-tmpt8pvt
-title: 'In a time-indexed incidence of queries and answers with fixed meanings, a new query cannot change the implications or the compatibility among the existing queries, and a new answer can only remove implications and add compatible sets; implications among existing queries appear only when answers are lost or made unaffordable or when what counts as an adequate answer is revised'
+title: 'New queries cannot change existing implications'
+statement: >-
+  In a time-indexed incidence of queries and answers with fixed meanings, a
+  new query cannot change the implications or the compatibility among the
+  existing queries, and a new answer can only remove implications and add
+  compatible sets; implications among existing queries appear only when
+  answers are lost or made unaffordable or when what counts as an adequate
+  answer is revised
 version: 1
 role: thesis
 warrant: demonstrated
@@ -33,7 +40,7 @@ summary: >-
   (Claude, in this session); adopting it is the owner's call.
 ---
 
-# CLAIM-1171: In a time-indexed incidence of queries and answers with fixed meanings, a new query cannot change the implications or the compatibility among the existing queries, and a new answer can only remove implications and add compatible sets; implications among existing queries appear only when answers are lost or made unaffordable or when what counts as an adequate answer is revised
+# CLAIM-1171: New queries cannot change existing implications
 
 ## The step corrected
 

@@ -3,7 +3,15 @@ number: 872
 status: Proposed
 formerly:
 - CLAIM-tmpiyf8w
-title: 'The experience-sampling studies the record has read put what positivity flow has during the episode and not after it: within persons flow goes moderately with valence and strongly with positive activation at the same signal, and does not raise valence at the next once that is controlled; so the flow objection''s third exit, that the positivity comes after the episode, is not supported, though these reports do not show that flow episodes are felt as positive, nor which valence the positivity is'
+title: 'Flow''s positivity is during, not after'
+statement: >-
+  The experience-sampling studies the record has read put what positivity
+  flow has during the episode and not after it: within persons flow goes
+  moderately with valence and strongly with positive activation at the same
+  signal, and does not raise valence at the next once that is controlled; so
+  the flow objection's third exit, that the positivity comes after the
+  episode, is not supported, though these reports do not show that flow
+  episodes are felt as positive, nor which valence the positivity is
 version: 1
 role: thesis
 warrant: empirical
@@ -40,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-441 CLAIM-440 CLAIM-433 THEORY-2208 THEORY-2207 LIT-3072 LIT-3068 — Proposed, new or Unfetched; the objection this corroborates, the account it bears on, the readings it rests on and the unread works that could defeat or extend it -->
 
-# CLAIM-872: The experience-sampling studies the record has read put what positivity flow has during the episode and not after it: within persons flow goes moderately with valence and strongly with positive activation at the same signal, and does not raise valence at the next once that is controlled; so the flow objection's third exit, that the positivity comes after the episode, is not supported, though these reports do not show that flow episodes are felt as positive, nor which valence the positivity is
+# CLAIM-872: Flow's positivity is during, not after
 
 ## The claim
 

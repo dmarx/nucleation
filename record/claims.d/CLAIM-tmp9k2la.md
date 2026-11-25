@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'Manufactured doubt can work on the threshold of evidence for action rather than on belief: an organization of interpretation in which residual uncertainty outweighs accumulated evidence defers action while the evidence is still recognized, and can outlast the campaign that seeded it'
+title: 'Manufactured doubt raises the action threshold'
+statement: >-
+  Manufactured doubt can work on the threshold of evidence for action rather
+  than on belief: an organization of interpretation in which residual
+  uncertainty outweighs accumulated evidence defers action while the
+  evidence is still recognized, and can outlast the campaign that seeded it
 version: 1
 role: thesis
 warrant: interpretive
@@ -37,7 +42,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmpgvsgg CLAIM-tmpjlxfy LIT-tmpgyknm — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
-# CLAIM-tmp9k2la: Manufactured doubt can work on the threshold of evidence for action rather than on belief: an organization of interpretation in which residual uncertainty outweighs accumulated evidence defers action while the evidence is still recognized, and can outlast the campaign that seeded it
+# CLAIM-tmp9k2la: Manufactured doubt raises the action threshold
 
 ## The claim
 

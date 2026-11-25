@@ -3,7 +3,12 @@ number: 138
 status: Proposed
 formerly:
 - CLAIM-tmpayhau
-title: 'The Newman objection is the collapse objection at the level of ontology, and the remedy offered for both, independently specified relations, concedes that relational structure alone does not fix communicative identity'
+title: 'Newman objection is the collapse objection'
+statement: >-
+  The Newman objection is the collapse objection at the level of ontology,
+  and the remedy offered for both, independently specified relations,
+  concedes that relational structure alone does not fix communicative
+  identity
 version: 3
 history:
 - version: 2
@@ -48,7 +53,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-136 CLAIM-151 — Proposed; the thesis this objection presses and the qualified claim it spares, both open -->
 <!-- inactive-ok-file: THEORY-880 — Proposed; Lyre's structuralism, cited for comparison, not leaned on -->
 
-# CLAIM-138: The Newman objection is the collapse objection at the level of ontology, and the remedy offered for both, independently specified relations, concedes that relational structure alone does not fix communicative identity
+# CLAIM-138: Newman objection is the collapse objection
 
 ## The claim
 

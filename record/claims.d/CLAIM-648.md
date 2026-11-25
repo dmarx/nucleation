@@ -3,7 +3,14 @@ number: 648
 status: Proposed
 formerly:
 - CLAIM-tmph9egz
-title: "On Bickhard's account the owner's debugging case has an endogenous form: a self-maintaining system that anticipates an interaction will sustain it holds an expected response profile set by its own upkeep, the absence or shortfall of the response means by its own lights that the interaction failed, and that norm and a designer's profile come apart where the system's persistence is at stake"
+title: 'Bickhard gives debugging an endogenous norm'
+statement: >-
+  On Bickhard's account the owner's debugging case has an endogenous form: a
+  self-maintaining system that anticipates an interaction will sustain it
+  holds an expected response profile set by its own upkeep, the absence or
+  shortfall of the response means by its own lights that the interaction
+  failed, and that norm and a designer's profile come apart where the
+  system's persistence is at stake
 version: 1
 role: thesis
 warrant: interpretive
@@ -54,7 +61,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-649 CASE-241 ARG-083 CLAIM-650 CASE-240 — filed in this pull request, Proposed -->
 <!-- inactive-ok-file: THEORY-220 THEORY-628 THEORY-217 THEORY-1646 — Proposed; readings cited with their standing -->
 
-# CLAIM-648: On Bickhard's account the owner's debugging case has an endogenous form: a self-maintaining system that anticipates an interaction will sustain it holds an expected response profile set by its own upkeep, the absence or shortfall of the response means by its own lights that the interaction failed, and that norm and a designer's profile come apart where the system's persistence is at stake
+# CLAIM-648: Bickhard gives debugging an endogenous norm
 
 ## The claim
 

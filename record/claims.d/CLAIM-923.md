@@ -3,7 +3,18 @@ number: 923
 status: Proposed
 formerly:
 - CLAIM-tmpmcrb7
-title: 'With operative thwarting identified by silencing a process, structural frustration and thwarting are independent in both directions: under a resolution that seeks joint satisfaction a member is thwarted only where the demands in force are jointly unsatisfiable, and in a minimal conflict exactly one member goes unmet while every other member is separately a but-for cause of it; a pair that conflicts minimally need not thwart each other inside a larger organization; thwarting where joint satisfaction is attainable needs a resolution that weighs authority or preference beyond the demands; and a frustrated set can leave an unmet member acting with no process responsible'
+title: 'Frustration and thwarting are independent'
+statement: >-
+  With operative thwarting identified by silencing a process, structural
+  frustration and thwarting are independent in both directions: under a
+  resolution that seeks joint satisfaction a member is thwarted only where
+  the demands in force are jointly unsatisfiable, and in a minimal conflict
+  exactly one member goes unmet while every other member is separately a
+  but-for cause of it; a pair that conflicts minimally need not thwart each
+  other inside a larger organization; thwarting where joint satisfaction is
+  attainable needs a resolution that weighs authority or preference beyond
+  the demands; and a frustrated set can leave an unmet member acting with no
+  process responsible
 version: 1
 history:
 - version: 1
@@ -61,7 +72,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-631 THEORY-052 — Proposed or new; the integration this complements, the reading cited for operative thwarting, and the study filed with this claim -->
 
-# CLAIM-923: With operative thwarting identified by silencing a process, structural frustration and thwarting are independent in both directions: under a resolution that seeks joint satisfaction a member is thwarted only where the demands in force are jointly unsatisfiable, and in a minimal conflict exactly one member goes unmet while every other member is separately a but-for cause of it; a pair that conflicts minimally need not thwart each other inside a larger organization; thwarting where joint satisfaction is attainable needs a resolution that weighs authority or preference beyond the demands; and a frustrated set can leave an unmet member acting with no process responsible
+# CLAIM-923: Frustration and thwarting are independent
 
 ## The model
 

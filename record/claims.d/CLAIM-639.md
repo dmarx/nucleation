@@ -3,7 +3,14 @@ number: 639
 status: Active
 formerly:
 - CLAIM-tmpopi1b
-title: 'Knowing each configuration''s requirement to within ε fixes every transition threshold to within ε but not which of a system''s own reachable classes an observer''s partitions can agree with: where two merges of the merge tree lie within 2ε of each other, an error within ε can reorder them, replacing a level that agrees under some order of probe costs with one that agrees under none'
+title: 'ε-accurate requirements can reorder near merges'
+statement: >-
+  Knowing each configuration's requirement to within ε fixes every
+  transition threshold to within ε but not which of a system's own reachable
+  classes an observer's partitions can agree with: where two merges of the
+  merge tree lie within 2ε of each other, an error within ε can reorder
+  them, replacing a level that agrees under some order of probe costs with
+  one that agrees under none
 version: 2
 history:
 - version: 2
@@ -78,7 +85,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 
-# CLAIM-639: Knowing each configuration's requirement to within ε fixes every transition threshold to within ε but not which of a system's own reachable classes an observer's partitions can agree with: where two merges of the merge tree lie within 2ε of each other, an error within ε can reorder them, replacing a level that agrees under some order of probe costs with one that agrees under none
+# CLAIM-639: ε-accurate requirements can reorder near merges
 
 ## The claim
 

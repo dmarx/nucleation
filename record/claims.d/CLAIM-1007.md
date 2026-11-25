@@ -3,7 +3,16 @@ number: 1007
 status: Active
 formerly:
 - CLAIM-tmp26exz
-title: 'In a simulated federated learner with honest evaluators, audit by evaluators who hold validation evidence of their own and vote only on the tasks they hold it for lowered attack success to about zero for an overt attack and for one that mimics dissent, and raised the minority''s capability from 0.27 to 0.92, for 0.01 of main capability; reliability-weighting by agreement was captured by the mimic, and by validation without that limit of jurisdiction it stopped the overt attack and left the dissenters where unrestricted aggregation leaves them'
+title: 'Jurisdiction-limited audit stops both attacks'
+statement: >-
+  In a simulated federated learner with honest evaluators, audit by
+  evaluators who hold validation evidence of their own and vote only on the
+  tasks they hold it for lowered attack success to about zero for an overt
+  attack and for one that mimics dissent, and raised the minority's
+  capability from 0.27 to 0.92, for 0.01 of main capability;
+  reliability-weighting by agreement was captured by the mimic, and by
+  validation without that limit of jurisdiction it stopped the overt attack
+  and left the dissenters where unrestricted aggregation leaves them
 version: 2
 history:
 - version: 1
@@ -61,7 +70,7 @@ summary: >-
   call.
 ---
 
-# CLAIM-1007: In a simulated federated learner with honest evaluators, audit by evaluators who hold validation evidence of their own and vote only on the tasks they hold it for lowered attack success to about zero for an overt attack and for one that mimics dissent, and raised the minority's capability from 0.27 to 0.92, for 0.01 of main capability; reliability-weighting by agreement was captured by the mimic, and by validation without that limit of jurisdiction it stopped the overt attack and left the dissenters where unrestricted aggregation leaves them
+# CLAIM-1007: Jurisdiction-limited audit stops both attacks
 
 ## The claim
 

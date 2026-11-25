@@ -3,7 +3,11 @@ number: 49
 status: Active
 formerly:
 - CLAIM-tmpduv33
-title: 'An adaptive interpreter''s state includes its message, context knowledge and learned parameters, and learning can make some relational invariants more stable and others less'
+title: 'Learning shifts which invariants are stable'
+statement: >-
+  An adaptive interpreter's state includes its message, context knowledge
+  and learned parameters, and learning can make some relational invariants
+  more stable and others less
 version: 2
 history:
 - version: 2
@@ -34,7 +38,7 @@ summary: >-
   adapted receivers.
 ---
 
-# CLAIM-049: An adaptive interpreter's state includes its message, context knowledge and learned parameters, and learning can make some relational invariants more stable and others less
+# CLAIM-049: Learning shifts which invariants are stable
 
 ## The claim
 

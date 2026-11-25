@@ -3,7 +3,16 @@ number: 514
 status: Proposed
 formerly:
 - CLAIM-tmp4mq28
-title: 'World-modeling is a family of resource-bounded capabilities for producing and using predictions about an environment''s possibilities and consequences, each relative to a declared family of questions; a world model in the representational sense is one possible realization of them, competent behaviour can determine environmental structure without identifying any internal mechanism, and producing, maintaining and revising world-modeling capabilities are further achievements, not prerequisites of agency in general'
+title: 'World-modeling as a family of capabilities'
+statement: >-
+  World-modeling is a family of resource-bounded capabilities for producing
+  and using predictions about an environment's possibilities and
+  consequences, each relative to a declared family of questions; a world
+  model in the representational sense is one possible realization of them,
+  competent behaviour can determine environmental structure without
+  identifying any internal mechanism, and producing, maintaining and
+  revising world-modeling capabilities are further achievements, not
+  prerequisites of agency in general
 version: 1
 role: thesis
 warrant: interpretive
@@ -44,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-519 TERM-086 — Proposed or Open; the premises and question this joins, cited as open -->
 <!-- ref::uses-file: TERM-086 — the title's "further achievements", producing, maintaining and revising world-modeling capabilities, are TERM-086's organizational achievement as episode, maintained capacity and its reproduction -->
 
-# CLAIM-514: World-modeling is a family of resource-bounded capabilities for producing and using predictions about an environment's possibilities and consequences, each relative to a declared family of questions; a world model in the representational sense is one possible realization of them, competent behaviour can determine environmental structure without identifying any internal mechanism, and producing, maintaining and revising world-modeling capabilities are further achievements, not prerequisites of agency in general
+# CLAIM-514: World-modeling as a family of capabilities
 
 ## The claim
 

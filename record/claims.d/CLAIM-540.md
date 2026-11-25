@@ -3,7 +3,15 @@ number: 540
 status: Active
 formerly:
 - CLAIM-tmplz9zf
-title: 'The persistence a Dirichlet–categorical hierarchy gives a run of selections is an observer''s learning about a fixed mixture, not a change in what selects: under a uniform prior an observed first choice raises the predicted chance of repeating it from 1/2 to 2/3, while the same choice forced leaves it at 1/2, so the hierarchy''s reinforcement is not evidence of self-formation or of a maintained will-organization, which need the mixture itself to change under the choice'
+title: 'Dirichlet persistence is observer learning'
+statement: >-
+  The persistence a Dirichlet–categorical hierarchy gives a run of
+  selections is an observer's learning about a fixed mixture, not a change
+  in what selects: under a uniform prior an observed first choice raises the
+  predicted chance of repeating it from 1/2 to 2/3, while the same choice
+  forced leaves it at 1/2, so the hierarchy's reinforcement is not evidence
+  of self-formation or of a maintained will-organization, which need the
+  mixture itself to change under the choice
 version: 1
 role: disclaimed
 warrant: demonstrated
@@ -38,7 +46,7 @@ summary: >-
 ---
 <!-- ref::uses-file: TERM-099 — the self-formation the hierarchy's reinforcement is not evidence of, which "needs the mixture itself to change", is TERM-099's -->
 
-# CLAIM-540: The persistence a Dirichlet–categorical hierarchy gives a run of selections is an observer's learning about a fixed mixture, not a change in what selects: under a uniform prior an observed first choice raises the predicted chance of repeating it from 1/2 to 2/3, while the same choice forced leaves it at 1/2, so the hierarchy's reinforcement is not evidence of self-formation or of a maintained will-organization, which need the mixture itself to change under the choice
+# CLAIM-540: Dirichlet persistence is observer learning
 
 ## The claim
 

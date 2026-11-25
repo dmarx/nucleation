@@ -3,7 +3,13 @@ number: 1019
 status: Proposed
 formerly:
 - CLAIM-tmp3xo35
-title: 'Self-like organizational unity does not require perspectival singularity: a historically sustained, causally integrated plurality of perspectives may suffice for some of what is attributed to a self with no unique overarching perspective, since integration does not entail organizational singularity, nor organizational singularity phenomenal singularity'
+title: 'Self-like unity needs no singular perspective'
+statement: >-
+  Self-like organizational unity does not require perspectival singularity:
+  a historically sustained, causally integrated plurality of perspectives
+  may suffice for some of what is attributed to a self with no unique
+  overarching perspective, since integration does not entail organizational
+  singularity, nor organizational singularity phenomenal singularity
 version: 1
 role: thesis
 warrant: interpretive
@@ -57,7 +63,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-161 TERM-166 CLAIM-355 CLAIM-417 — Proposed; the terms the claim is stated in and its neighbours -->
 
-# CLAIM-1019: Self-like organizational unity does not require perspectival singularity: a historically sustained, causally integrated plurality of perspectives may suffice for some of what is attributed to a self with no unique overarching perspective, since integration does not entail organizational singularity, nor organizational singularity phenomenal singularity
+# CLAIM-1019: Self-like unity needs no singular perspective
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 956
 status: Proposed
 formerly:
 - CLAIM-tmp1qqso
-title: 'Read by its definition, the closing-nucleus loop is organizational closure of two constraints: the teacher constrains, without being consumed, the formation that produces nuclei, and the nucleus constrains, without being consumed, the production of teachers, so each depends directly on the other and is depended on'
+title: 'Closing-nucleus loop is organizational closure'
+statement: >-
+  Read by its definition, the closing-nucleus loop is organizational closure
+  of two constraints: the teacher constrains, without being consumed, the
+  formation that produces nuclei, and the nucleus constrains, without being
+  consumed, the production of teachers, so each depends directly on the
+  other and is depended on
 version: 1
 history:
 - version: 1
@@ -47,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-365 CLAIM-958 — new; the run this reading is of, and the alternative reading -->
 
-# CLAIM-956: Read by its definition, the closing-nucleus loop is organizational closure of two constraints: the teacher constrains, without being consumed, the formation that produces nuclei, and the nucleus constrains, without being consumed, the production of teachers, so each depends directly on the other and is depended on
+# CLAIM-956: Closing-nucleus loop is organizational closure
 
 ## The claim
 

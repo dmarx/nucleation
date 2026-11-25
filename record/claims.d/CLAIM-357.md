@@ -3,7 +3,17 @@ number: 357
 status: Active
 formerly:
 - CLAIM-tmpl8vsy
-title: 'The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update''s worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility need not be the weights governance assigns'
+title: 'Frustration residual and regret are not thwarting'
+statement: >-
+  The frustration residual and governance regret separate structural
+  infeasibility, realized violation and minimax suboptimality, and identify
+  none of them as thwarting: a positive residual says no admissible update
+  meets every declared requirement, a positive regret only that the actual
+  update's worst residual exceeds the best achievable, which can hold while
+  every requirement is met, and actual violation needs regret above the
+  negative residual; aggregate performance does not tell infeasibility from
+  realized violation, and the multipliers that certify infeasibility need
+  not be the weights governance assigns
 version: 9
 history:
 - version: 2
@@ -128,7 +138,7 @@ works:
 <!-- inactive-ok-file: CASE-317, CLAIM-880, CLAIM-500 — Proposed or new; cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-947 — Proposed; Kwon and Perchet's rates as the paper states them, cited in the note of 2026-10-25 for the target and distance, nothing here rests on it -->
 
-# CLAIM-357: The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update's worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility need not be the weights governance assigns
+# CLAIM-357: Frustration residual and regret are not thwarting
 
 <!-- ref::uses-file: TERM-060 — the diagnostics are stated against the term's structural and governance-induced cases, which this claim narrows -->
 

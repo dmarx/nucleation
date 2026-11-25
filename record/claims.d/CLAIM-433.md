@@ -3,7 +3,17 @@ number: 433
 status: Proposed
 formerly:
 - CLAIM-tmp5lpdu
-title: 'The potential account of valence is an account of goal-conduciveness valence, not of intrinsic pleasantness: on the component process model''s separation of levels of valence, the ordering that prevails ranks states by need satisfaction and goal attainment, the potential''s strength tracks ''wanting'' and its sign tracks goal conduciveness, while ''liking'' is a separate appraisal with its own ordering; so the wanting–liking dissociation is two valence systems coming apart, as that separation predicts, and the objection that the account is not about pleasure is conceded rather than answered'
+title: 'The potential account is goal-conduciveness'
+statement: >-
+  The potential account of valence is an account of goal-conduciveness
+  valence, not of intrinsic pleasantness: on the component process model's
+  separation of levels of valence, the ordering that prevails ranks states
+  by need satisfaction and goal attainment, the potential's strength tracks
+  'wanting' and its sign tracks goal conduciveness, while 'liking' is a
+  separate appraisal with its own ordering; so the wanting–liking
+  dissociation is two valence systems coming apart, as that separation
+  predicts, and the objection that the account is not about pleasure is
+  conceded rather than answered
 version: 2
 history:
 - version: 2
@@ -59,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-895 — Proposed; the sensitization reading filed with this note, cited as open -->
 <!-- inactive-ok-file: CLAIM-438 CLAIM-440 THEORY-893 TERM-076 — Proposed; the objection, the thesis, the reading and the term this reply bears on, cited as open -->
 
-# CLAIM-433: The potential account of valence is an account of goal-conduciveness valence, not of intrinsic pleasantness: on the component process model's separation of levels of valence, the ordering that prevails ranks states by need satisfaction and goal attainment, the potential's strength tracks 'wanting' and its sign tracks goal conduciveness, while 'liking' is a separate appraisal with its own ordering; so the wanting–liking dissociation is two valence systems coming apart, as that separation predicts, and the objection that the account is not about pleasure is conceded rather than answered
+# CLAIM-433: The potential account is goal-conduciveness
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 719
 formerly:
 - CLAIM-tmp69o4u
 status: Proposed
-title: "An institution can be reliably responsive to reasons within its governing mechanism and unresponsive to justified reasons for revising that mechanism, and because its own actions change the mechanism, responsiveness at the first order is no evidence of responsiveness at the second; identical decisions can come from different capacities to be governed by reasons"
+title: 'First-order responsiveness is not second-order'
+statement: >-
+  An institution can be reliably responsive to reasons within its governing
+  mechanism and unresponsive to justified reasons for revising that
+  mechanism, and because its own actions change the mechanism,
+  responsiveness at the first order is no evidence of responsiveness at the
+  second; identical decisions can come from different capacities to be
+  governed by reasons
 version: 3
 history:
 - version: 2
@@ -56,7 +63,7 @@ works:
 <!-- inactive-ok-file: TERM-128 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: CASE-226 CASE-229 CLAIM-624 CLAIM-685 — Proposed; the record's nearest entries, cited with their standing -->
 
-# CLAIM-719: An institution can be reliably responsive to reasons within its governing mechanism and unresponsive to justified reasons for revising that mechanism, and because its own actions change the mechanism, responsiveness at the first order is no evidence of responsiveness at the second; identical decisions can come from different capacities to be governed by reasons
+# CLAIM-719: First-order responsiveness is not second-order
 
 ## The claim
 

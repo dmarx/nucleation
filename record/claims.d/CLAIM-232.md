@@ -3,7 +3,11 @@ number: 232
 status: Active
 formerly:
 - CLAIM-tmpgetbr
-title: 'Human ratings of stance or footing and human ratings of fidelity of the same renderings share rater construal, scale use and a general impression, which a machine similarity score shares with neither'
+title: 'Human stance and fidelity ratings share construal'
+statement: >-
+  Human ratings of stance or footing and human ratings of fidelity of the
+  same renderings share rater construal, scale use and a general impression,
+  which a machine similarity score shares with neither
 version: 4
 history:
 - version: 2
@@ -62,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; the theses this objection is to, as worded; the objection stays pointed at them -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-202 CLAIM-204 — Proposed; the record's revised theses of 2026-10-10, open, cited in the history as the repair -->
 
-# CLAIM-232: Human ratings of stance or footing and human ratings of fidelity of the same renderings share rater construal, scale use and a general impression, which a machine similarity score shares with neither
+# CLAIM-232: Human stance and fidelity ratings share construal
 
 ## The objection
 

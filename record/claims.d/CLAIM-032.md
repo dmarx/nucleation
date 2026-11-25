@@ -3,7 +3,10 @@ number: 32
 status: Active
 formerly:
 - CLAIM-tmp9xb12
-title: 'Northstar''s internal procedures are not morally or historically analogous to the regime Fraenkel described'
+title: 'Northstar is not analogous to Fraenkel''s regime'
+statement: >-
+  Northstar's internal procedures are not morally or historically analogous
+  to the regime Fraenkel described
 version: 2
 history:
 - version: 2
@@ -32,7 +35,7 @@ summary: >-
   holds, to structure alone.
 ---
 
-# CLAIM-032: Northstar's internal procedures are not morally or historically analogous to the regime Fraenkel described
+# CLAIM-032: Northstar is not analogous to Fraenkel's regime
 
 ## The claim
 

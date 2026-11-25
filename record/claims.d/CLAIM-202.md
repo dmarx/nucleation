@@ -3,7 +3,13 @@ number: 202
 status: Proposed
 formerly:
 - CLAIM-tmp351uu
-title: 'What the line adds to functional and relevance-theoretic accounts of translation is measured structure beyond a static pragmatic profile: the context-indexed profile, its response to later framings and its decision relevance predict receivers'' recovery beyond the similarity of static stance and footing ratings'
+title: 'Context-indexed profile beats static pragmatics'
+statement: >-
+  What the line adds to functional and relevance-theoretic accounts of
+  translation is measured structure beyond a static pragmatic profile: the
+  context-indexed profile, its response to later framings and its decision
+  relevance predict receivers' recovery beyond the similarity of static
+  stance and footing ratings
 version: 3
 history:
 - version: 2
@@ -61,7 +67,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-083 — Superseded; cited as the earlier thesis whose body first noticed the weak baseline -->
 <!-- inactive-ok-file: LIT-784 — Unavailable; unread here, cited as the rival CLAIM-023 names and not leaned on -->
 
-# CLAIM-202: What the line adds to functional and relevance-theoretic accounts of translation is measured structure beyond a static pragmatic profile: the context-indexed profile, its response to later framings and its decision relevance predict receivers' recovery beyond the similarity of static stance and footing ratings
+# CLAIM-202: Context-indexed profile beats static pragmatics
 
 ## The claim
 

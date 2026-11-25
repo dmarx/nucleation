@@ -3,7 +3,11 @@ number: 97
 status: Active
 formerly:
 - CLAIM-tmpscv6b
-title: 'T2I-CompBench is not purely object-centered: its non-spatial relation category already probes interactions, but scores them with CLIPScore and near human ceiling'
+title: 'T2I-CompBench is not purely object-centered'
+statement: >-
+  T2I-CompBench is not purely object-centered: its non-spatial relation
+  category already probes interactions, but scores them with CLIPScore and
+  near human ceiling
 version: 2
 history:
 - version: 2
@@ -34,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-250 — Proposed; filed today, cited for what LIT-938 measures, not leaned on -->
 
-# CLAIM-097: T2I-CompBench is not purely object-centered: its non-spatial relation category already probes interactions, but scores them with CLIPScore and near human ceiling
+# CLAIM-097: T2I-CompBench is not purely object-centered
 
 ## The claim
 

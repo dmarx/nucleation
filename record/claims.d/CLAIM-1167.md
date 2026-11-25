@@ -3,7 +3,13 @@ number: 1167
 status: Active
 formerly:
 - CLAIM-tmprq9q5
-title: 'Perspectives given as graded participation functions on a common measure overlap by the integral of their pointwise minimum, which is zero exactly when the measures they carve out are mutually singular and, for probability densities, equals one minus their total-variation distance, so separation of perspectives comes by degrees and need not be a partition'
+title: 'Perspectives overlap by degrees, not partition'
+statement: >-
+  Perspectives given as graded participation functions on a common measure
+  overlap by the integral of their pointwise minimum, which is zero exactly
+  when the measures they carve out are mutually singular and, for
+  probability densities, equals one minus their total-variation distance, so
+  separation of perspectives comes by degrees and need not be a partition
 version: 2
 history:
 - version: 1
@@ -54,7 +60,7 @@ summary: >-
   them is the owner's call.
 ---
 
-# CLAIM-1167: Perspectives given as graded participation functions on a common measure overlap by the integral of their pointwise minimum, which is zero exactly when the measures they carve out are mutually singular and, for probability densities, equals one minus their total-variation distance, so separation of perspectives comes by degrees and need not be a partition
+# CLAIM-1167: Perspectives overlap by degrees, not partition
 
 ## The claim
 

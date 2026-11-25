@@ -1,6 +1,15 @@
 ---
 status: Proposed
-title: 'Strong unitary executive theory, as its defenders state it, rests on the constitutional vesting of the executive power in one officer and on an accountability argument, that unity makes responsibility traceable to an officer the electorate can judge, not on a claim that effective unity requires hierarchy; and the correctives of the executive that matter most, Congress, the courts and elections, lie outside the executive it unifies, so the common-mode charge holds only for correctives inside the executive or dependent on its resources, case by case'
+title: 'Unitarism rests on vesting and accountability'
+statement: >-
+  Strong unitary executive theory, as its defenders state it, rests on the
+  constitutional vesting of the executive power in one officer and on an
+  accountability argument, that unity makes responsibility traceable to an
+  officer the electorate can judge, not on a claim that effective unity
+  requires hierarchy; and the correctives of the executive that matter most,
+  Congress, the courts and elections, lie outside the executive it unifies,
+  so the common-mode charge holds only for correctives inside the executive
+  or dependent on its resources, case by case
 version: 1
 role: counter
 warrant: interpretive
@@ -37,7 +46,7 @@ summary: >-
 
 <!-- inactive-ok-file: ARG-tmpz2gmo CLAIM-tmp1wlu2 CLAIM-tmplc4m8 LIT-tmp4cqb2 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# CLAIM-tmpqhxsz: Strong unitary executive theory, as its defenders state it, rests on the constitutional vesting of the executive power in one officer and on an accountability argument, that unity makes responsibility traceable to an officer the electorate can judge, not on a claim that effective unity requires hierarchy; and the correctives of the executive that matter most, Congress, the courts and elections, lie outside the executive it unifies, so the common-mode charge holds only for correctives inside the executive or dependent on its resources, case by case
+# CLAIM-tmpqhxsz: Unitarism rests on vesting and accountability
 
 ## The gap
 

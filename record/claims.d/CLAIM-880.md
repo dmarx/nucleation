@@ -3,7 +3,14 @@ number: 880
 status: Proposed
 formerly:
 - CLAIM-tmpifr7i
-title: 'In the coupled meaning–influence model with declared demands, the frustration of satisfiable demands follows the allocation of influence when search and information are held fixed, but a captured allocation acts as a fixed weighting rule, so the model shows the governance-induced kind caused by allocation without showing conferral dynamics causing what no fixed weighting would'
+title: 'Captured allocation acts as a fixed weighting'
+statement: >-
+  In the coupled meaning–influence model with declared demands, the
+  frustration of satisfiable demands follows the allocation of influence
+  when search and information are held fixed, but a captured allocation acts
+  as a fixed weighting rule, so the model shows the governance-induced kind
+  caused by allocation without showing conferral dynamics causing what no
+  fixed weighting would
 version: 1
 history:
 - version: 1
@@ -58,7 +65,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-500, CASE-317 — Proposed or new; the thesis the study tests and the entries this filing made -->
 
-# CLAIM-880: In the coupled meaning–influence model with declared demands, the frustration of satisfiable demands follows the allocation of influence when search and information are held fixed, but a captured allocation acts as a fixed weighting rule, so the model shows the governance-induced kind caused by allocation without showing conferral dynamics causing what no fixed weighting would
+# CLAIM-880: Captured allocation acts as a fixed weighting
 
 ## The claim
 

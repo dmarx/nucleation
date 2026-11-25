@@ -3,7 +3,16 @@ number: 686
 status: Active
 formerly:
 - CLAIM-tmpub743
-title: 'Where a dependent party''s claims on an arrangement''s controllers fail of legibility, volitional efficacy or correctability in the controlling organization, the dependent lacks effective means of influence and challenge, and where they fail so at every party able to constrain the controllers it lacks effective protection; justified withdrawal lies outside those three achievements, so the domination threshold''s third condition is met by failures of normative efficacy only together with a failure of exit, and is not those failures restated'
+title: 'Efficacy failures dominate only with failed exit'
+statement: >-
+  Where a dependent party's claims on an arrangement's controllers fail of
+  legibility, volitional efficacy or correctability in the controlling
+  organization, the dependent lacks effective means of influence and
+  challenge, and where they fail so at every party able to constrain the
+  controllers it lacks effective protection; justified withdrawal lies
+  outside those three achievements, so the domination threshold's third
+  condition is met by failures of normative efficacy only together with a
+  failure of exit, and is not those failures restated
 version: 5
 history:
 - version: 2
@@ -98,7 +107,7 @@ works:
 <!-- inactive-ok-file: CLAIM-682 CLAIM-677 CASE-261 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; the record's duty of answerability, cited with its standing -->
 
-# CLAIM-686: Where a dependent party's claims on an arrangement's controllers fail of legibility, volitional efficacy or correctability in the controlling organization, the dependent lacks effective means of influence and challenge, and where they fail so at every party able to constrain the controllers it lacks effective protection; justified withdrawal lies outside those three achievements, so the domination threshold's third condition is met by failures of normative efficacy only together with a failure of exit, and is not those failures restated
+# CLAIM-686: Efficacy failures dominate only with failed exit
 
 ## The idea, and what was checked
 

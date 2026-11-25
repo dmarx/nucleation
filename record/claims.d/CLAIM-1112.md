@@ -3,7 +3,11 @@ number: 1112
 status: Proposed
 formerly:
 - CLAIM-tmphxbli
-title: 'Continuous predicates are test functions, test functions determine measures, and so a self can be a continuous mess rather than a countable collection of perspectives'
+title: 'A self can be a continuous mess'
+statement: >-
+  Continuous predicates are test functions, test functions determine
+  measures, and so a self can be a continuous mess rather than a countable
+  collection of perspectives
 version: 1
 history:
 - version: 1
@@ -49,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-134 — Proposed; the term this extends and the entries filed with it on 2026-11-22 -->
 
-# CLAIM-1112: Continuous predicates are test functions, test functions determine measures, and so a self can be a continuous mess rather than a countable collection of perspectives
+# CLAIM-1112: A self can be a continuous mess
 
 ## The claim
 

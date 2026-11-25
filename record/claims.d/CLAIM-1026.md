@@ -3,7 +3,13 @@ number: 1026
 status: Proposed
 formerly:
 - CLAIM-tmp4ybsw
-title: 'One adopted line from a top-circulated video favours a circulation model over a list of identifiable contributions that names the distributors by at most about five to one, and by under two when the case is known partly for the video''s fame, so a single case like the Juggernaut line cannot meet or discharge a defeater that asks the network model to beat that list'
+title: 'One adopted line cannot settle the defeater'
+statement: >-
+  One adopted line from a top-circulated video favours a circulation model
+  over a list of identifiable contributions that names the distributors by
+  at most about five to one, and by under two when the case is known partly
+  for the video's fame, so a single case like the Juggernaut line cannot
+  meet or discharge a defeater that asks the network model to beat that list
 version: 1
 history:
 - version: 1
@@ -50,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-410 — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-332 — Proposed; the thesis whose defeater is priced here -->
 
-# CLAIM-1026: One adopted line from a top-circulated video favours a circulation model over a list of identifiable contributions that names the distributors by at most about five to one, and by under two when the case is known partly for the video's fame, so a single case like the Juggernaut line cannot meet or discharge a defeater that asks the network model to beat that list
+# CLAIM-1026: One adopted line cannot settle the defeater
 
 ## The claim
 

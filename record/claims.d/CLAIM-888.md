@@ -3,7 +3,17 @@ number: 888
 status: Proposed
 formerly:
 - CLAIM-tmpc4gyx
-title: 'In the coupled meaning–influence model, where each operator''s authority is scored against the interpretation it helped make dominant, a governance intervention''s later effect on a response under a new frame takes the sign of the treated operator''s reading there and survives in proportion to the operators'' dissent under the frames passed through, growing where η·Δa²/2 > κ; so separate interpretation and governance models of matched complexity and training data mispredict held-out compositions of interventions and frame changes when that loop is present, and gain nothing on the joint model when it is absent'
+title: 'Separate models miss the meaning–influence loop'
+statement: >-
+  In the coupled meaning–influence model, where each operator's authority is
+  scored against the interpretation it helped make dominant, a governance
+  intervention's later effect on a response under a new frame takes the sign
+  of the treated operator's reading there and survives in proportion to the
+  operators' dissent under the frames passed through, growing where η·Δa²/2
+  > κ; so separate interpretation and governance models of matched
+  complexity and training data mispredict held-out compositions of
+  interventions and frame changes when that loop is present, and gain
+  nothing on the joint model when it is absent
 version: 1
 history:
 - version: 1
@@ -62,7 +72,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-336 CLAIM-286 ARG-065 CASE-324 — Proposed or new; the owner's unification and its premise and argument, cited as open, and the study filed with this claim -->
 
-# CLAIM-888: In the coupled meaning–influence model, where each operator's authority is scored against the interpretation it helped make dominant, a governance intervention's later effect on a response under a new frame takes the sign of the treated operator's reading there and survives in proportion to the operators' dissent under the frames passed through, growing where η·Δa²/2 > κ; so separate interpretation and governance models of matched complexity and training data mispredict held-out compositions of interventions and frame changes when that loop is present, and gain nothing on the joint model when it is absent
+# CLAIM-888: Separate models miss the meaning–influence loop
 
 ## The claim
 

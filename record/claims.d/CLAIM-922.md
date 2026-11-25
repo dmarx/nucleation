@@ -3,7 +3,15 @@ number: 922
 status: Proposed
 formerly:
 - CLAIM-tmpmvt0a
-title: 'In a model with a home and a staging architecture and one capacity, the same intervention, admitting the staging architecture, creates reachability where the home configuration space is disconnected and only lowers the bottleneck budget where it is connected, while a budget or a reserve changes neither the bottleneck budget nor the least time, and a deadline shorter than every route through the staging architecture takes that remedy away'
+title: 'Staging creates reachability only if disconnected'
+statement: >-
+  In a model with a home and a staging architecture and one capacity, the
+  same intervention, admitting the staging architecture, creates
+  reachability where the home configuration space is disconnected and only
+  lowers the bottleneck budget where it is connected, while a budget or a
+  reserve changes neither the bottleneck budget nor the least time, and a
+  deadline shorter than every route through the staging architecture takes
+  that remedy away
 version: 2
 history:
 - version: 2
@@ -69,7 +77,7 @@ works:
 ---
 <!-- inactive-ok-file: CASE-345 — new; the executed study this claim is grounded in, filed in the same batch -->
 
-# CLAIM-922: In a model with a home and a staging architecture and one capacity, the same intervention, admitting the staging architecture, creates reachability where the home configuration space is disconnected and only lowers the bottleneck budget where it is connected, while a budget or a reserve changes neither the bottleneck budget nor the least time, and a deadline shorter than every route through the staging architecture takes that remedy away
+# CLAIM-922: Staging creates reachability only if disconnected
 
 ## The claim
 

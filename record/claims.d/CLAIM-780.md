@@ -3,7 +3,17 @@ number: 780
 status: Proposed
 formerly:
 - CLAIM-tmpxi826
-title: 'For a chain with symmetric rates ε to the power U on a connected graph of n states and E edges, the log commute time between two states lies within log max(E, n − 1) of log n plus log(1/ε) times their minimax barrier, an ultrametric; so after scaling by log(1/ε) the time geometry of the state space converges to that ultrametric, the tree of classes reachable within a budget, and a level of the tree shows in the geometry once the rate ratio across it exceeds max(E, n − 1) squared; that the geometry is hyperbolic with bounded δ is not the content, since the logarithm of any metric is nearly an ultrametric'
+title: 'Log commute time converges to the budget tree'
+statement: >-
+  For a chain with symmetric rates ε to the power U on a connected graph of
+  n states and E edges, the log commute time between two states lies within
+  log max(E, n − 1) of log n plus log(1/ε) times their minimax barrier, an
+  ultrametric; so after scaling by log(1/ε) the time geometry of the state
+  space converges to that ultrametric, the tree of classes reachable within
+  a budget, and a level of the tree shows in the geometry once the rate
+  ratio across it exceeds max(E, n − 1) squared; that the geometry is
+  hyperbolic with bounded δ is not the content, since the logarithm of any
+  metric is nearly an ultrametric
 version: 3
 history:
 - version: 2
@@ -73,7 +83,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1366 THEORY-1370 THEORY-2137 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-1558 CLAIM-478 THEORY-196 — Proposed; the readings and claims this links -->
 
-# CLAIM-780: For a chain with symmetric rates ε to the power U on a connected graph of n states and E edges, the log commute time between two states lies within log max(E, n − 1) of log n plus log(1/ε) times their minimax barrier, an ultrametric; so after scaling by log(1/ε) the time geometry of the state space converges to that ultrametric, the tree of classes reachable within a budget, and a level of the tree shows in the geometry once the rate ratio across it exceeds max(E, n − 1) squared; that the geometry is hyperbolic with bounded δ is not the content, since the logarithm of any metric is nearly an ultrametric
+# CLAIM-780: Log commute time converges to the budget tree
 
 ## The claim
 

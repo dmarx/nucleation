@@ -3,7 +3,12 @@ number: 667
 status: Proposed
 formerly:
 - CLAIM-tmppk8g6
-title: 'Governance raises the value of a modifiable schema on tasks whose inherited categories are inadequate: with review, rationale and migration, letting a collective change its schema improves justified correction more than it does without them'
+title: 'Governed schema change helps where categories fail'
+statement: >-
+  Governance raises the value of a modifiable schema on tasks whose
+  inherited categories are inadequate: with review, rationale and migration,
+  letting a collective change its schema improves justified correction more
+  than it does without them
 version: 3
 history:
 - version: 1
@@ -73,7 +78,7 @@ works:
 <!-- inactive-ok-file: CASE-253 CLAIM-665 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: ARG-098 THEORY-1733 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-667: Governance raises the value of a modifiable schema on tasks whose inherited categories are inadequate: with review, rationale and migration, letting a collective change its schema improves justified correction more than it does without them
+# CLAIM-667: Governed schema change helps where categories fail
 
 ## The claim
 

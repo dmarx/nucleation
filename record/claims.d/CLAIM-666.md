@@ -3,7 +3,11 @@ number: 666
 status: Proposed
 formerly:
 - CLAIM-tmpefs1h
-title: 'A migration of the record''s grammar is faithful when it preserves the record''s accountability structure, not its old graph: where the old grammar forced a relation nobody asserted, a faithful migration removes it'
+title: 'Faithful migration preserves accountability'
+statement: >-
+  A migration of the record's grammar is faithful when it preserves the
+  record's accountability structure, not its old graph: where the old
+  grammar forced a relation nobody asserted, a faithful migration removes it
 version: 1
 role: thesis
 warrant: interpretive
@@ -49,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-096 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-250 — Proposed; cited for what each holds, not as settled -->
 
-# CLAIM-666: A migration of the record's grammar is faithful when it preserves the record's accountability structure, not its old graph: where the old grammar forced a relation nobody asserted, a faithful migration removes it
+# CLAIM-666: Faithful migration preserves accountability
 
 ## The claim
 

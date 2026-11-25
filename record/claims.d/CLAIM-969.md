@@ -3,7 +3,14 @@ number: 969
 status: Proposed
 formerly:
 - CLAIM-tmp7stqi
-title: 'In a stochastic assembly process modelled as a Markov chain, the committor of an intermediate measures its future and need not rise with how much of the target it already shows, so scoring intermediates by committor can rank a small nucleus above a more assembled trap and exhibit two separately productive nuclei combining into a trap, separations a count of formed bonds cannot register'
+title: 'Committor can rank a nucleus above a trap'
+statement: >-
+  In a stochastic assembly process modelled as a Markov chain, the committor
+  of an intermediate measures its future and need not rise with how much of
+  the target it already shows, so scoring intermediates by committor can
+  rank a small nucleus above a more assembled trap and exhibit two
+  separately productive nuclei combining into a trap, separations a count of
+  formed bonds cannot register
 version: 1
 history:
 - version: 1
@@ -44,7 +51,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CASE-374 — new; the executed study this claim is grounded in, filed with it -->
 
-# CLAIM-969: In a stochastic assembly process modelled as a Markov chain, the committor of an intermediate measures its future and need not rise with how much of the target it already shows, so scoring intermediates by committor can rank a small nucleus above a more assembled trap and exhibit two separately productive nuclei combining into a trap, separations a count of formed bonds cannot register
+# CLAIM-969: Committor can rank a nucleus above a trap
 
 ## The claim
 

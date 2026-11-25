@@ -3,7 +3,14 @@ number: 877
 status: Proposed
 formerly:
 - CLAIM-tmp8qqi4
-title: 'The organization that breaches the second-order duty of answerability is a collective institution that is an agent under a stated criterion, and the duty is its own: its obligations, capabilities and reasonable alternatives are the ones the verdict weighs, and those who control its arrangements bear the duty only derivatively, as its officers, so that an arrangement no such institution governs falls outside the claim'
+title: 'Answerability duty is the institution''s own'
+statement: >-
+  The organization that breaches the second-order duty of answerability is a
+  collective institution that is an agent under a stated criterion, and the
+  duty is its own: its obligations, capabilities and reasonable alternatives
+  are the ones the verdict weighs, and those who control its arrangements
+  bear the duty only derivatively, as its officers, so that an arrangement
+  no such institution governs falls outside the claim
 version: 1
 role: thesis
 warrant: interpretive
@@ -55,7 +62,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-876 — new; the rival reading, filed with this one for LEAD-131 -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-614 CLAIM-685 TERM-063 THEORY-1818 ARG-114 — Proposed; the claim whose bearer is fixed here and its neighbours, cited with their standing -->
 
-# CLAIM-877: The organization that breaches the second-order duty of answerability is a collective institution that is an agent under a stated criterion, and the duty is its own: its obligations, capabilities and reasonable alternatives are the ones the verdict weighs, and those who control its arrangements bear the duty only derivatively, as its officers, so that an arrangement no such institution governs falls outside the claim
+# CLAIM-877: Answerability duty is the institution's own
 
 ## The reading
 

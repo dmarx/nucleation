@@ -3,7 +3,12 @@ number: 187
 status: Proposed
 formerly:
 - CLAIM-tmp82c4f
-title: 'Whether two systems compute the same way can be tested by quotienting the full admissible symmetry group and measuring what remains: a residual barrier marks a different mechanism, and a feature with no counterpart blocks the comparison'
+title: 'Same computation tested by quotienting symmetry'
+statement: >-
+  Whether two systems compute the same way can be tested by quotienting the
+  full admissible symmetry group and measuring what remains: a residual
+  barrier marks a different mechanism, and a feature with no counterpart
+  blocks the comparison
 version: 3
 history:
 - version: 2
@@ -61,7 +66,7 @@ bears_on:
 <!-- inactive-ok-file: CASE-385 CLAIM-994 CLAIM-992 — new; LEAD-157's executed study, its finding and the two alternative readings, filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-263 — Proposed; the general forms of this claim's premises, filed under ADR-040, open -->
 
-# CLAIM-187: Whether two systems compute the same way can be tested by quotienting the full admissible symmetry group and measuring what remains: a residual barrier marks a different mechanism, and a feature with no counterpart blocks the comparison
+# CLAIM-187: Same computation tested by quotienting symmetry
 
 ## The claim
 

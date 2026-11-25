@@ -3,7 +3,15 @@ number: 876
 status: Proposed
 formerly:
 - CLAIM-tmp7mors
-title: 'The organization whose reproduction of occluding representations and allocations of authority breaches the second-order duty of answerability is a relational arrangement, the ground and object of the verdict and not its bearer; the duty falls on the agents or roles that control that reproduction, inside the arrangement or outside it, each as far as its control reaches, so that where no one controls it the duty is breached by no one'
+title: 'Answerability duty falls on controllers'
+statement: >-
+  The organization whose reproduction of occluding representations and
+  allocations of authority breaches the second-order duty of answerability
+  is a relational arrangement, the ground and object of the verdict and not
+  its bearer; the duty falls on the agents or roles that control that
+  reproduction, inside the arrangement or outside it, each as far as its
+  control reaches, so that where no one controls it the duty is breached by
+  no one
 version: 1
 role: thesis
 warrant: interpretive
@@ -71,7 +79,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-624 CLAIM-614 CLAIM-682 — Proposed; the claim whose bearer is fixed here, its premises and neighbours, cited with their standing -->
 <!-- inactive-ok-file: ARG-114 ARG-109 CASE-256 CASE-229 SYNTHESIS-092 TERM-124 TERM-129 TERM-123 TERM-063 SYNTHESIS-093 THEORY-1818 — Proposed; cited with their standing -->
 
-# CLAIM-876: The organization whose reproduction of occluding representations and allocations of authority breaches the second-order duty of answerability is a relational arrangement, the ground and object of the verdict and not its bearer; the duty falls on the agents or roles that control that reproduction, inside the arrangement or outside it, each as far as its control reaches, so that where no one controls it the duty is breached by no one
+# CLAIM-876: Answerability duty falls on controllers
 
 ## The problem
 

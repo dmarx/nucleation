@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'An implicit contract''s operative obligation, once normalized by the recipient''s reliance, can be held by that reliance past the provider''s original reasons for the contribution, where the provider cannot cheaply exit'
+title: 'Reliance holds obligation past original reasons'
+statement: >-
+  An implicit contract's operative obligation, once normalized by the
+  recipient's reliance, can be held by that reliance past the provider's
+  original reasons for the contribution, where the provider cannot cheaply
+  exit
 version: 1
 role: thesis
 warrant: interpretive
@@ -35,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmp0i6c0 CLAIM-tmpjg5gx CLAIM-tmphq6hp CLAIM-tmp8l5s9 SYNTHESIS-tmp4tvbr — Proposed; the components, the owner's objection behind the model's corrected reading, and the account that maps the join -->
 
-# CLAIM-tmpu77ve: An implicit contract's operative obligation, once normalized by the recipient's reliance, can be held by that reliance past the provider's original reasons for the contribution, where the provider cannot cheaply exit
+# CLAIM-tmpu77ve: Reliance holds obligation past original reasons
 
 ## Admission ([ADR-075](../decisions.d/ADR-075.md)): a separating case
 

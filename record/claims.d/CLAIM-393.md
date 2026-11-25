@@ -3,7 +3,13 @@ number: 393
 status: Proposed
 formerly:
 - CLAIM-tmp1ugth
-title: 'Ordinary and legal attributions of agency to an artifact cannot serve as the independent marks that would defeat the record''s agency test, because they turn on whether its mechanism is understood: a known mechanism invites "This is all just programmed!", an inscrutable one invites fear, whatever the description lengths'
+title: 'Folk agency attributions cannot defeat the test'
+statement: >-
+  Ordinary and legal attributions of agency to an artifact cannot serve as
+  the independent marks that would defeat the record's agency test, because
+  they turn on whether its mechanism is understood: a known mechanism
+  invites "This is all just programmed!", an inscrutable one invites fear,
+  whatever the description lengths
 version: 1
 role: counter
 warrant: interpretive
@@ -38,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-174 CLAIM-155 — Proposed; the claim objected to and the open claim it bears on -->
 
-# CLAIM-393: Ordinary and legal attributions of agency to an artifact cannot serve as the independent marks that would defeat the record's agency test, because they turn on whether its mechanism is understood: a known mechanism invites "This is all just programmed!", an inscrutable one invites fear, whatever the description lengths
+# CLAIM-393: Folk agency attributions cannot defeat the test
 
 ## The objection
 

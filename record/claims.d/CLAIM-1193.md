@@ -3,7 +3,13 @@ number: 1193
 status: Active
 formerly:
 - CLAIM-tmpx9nrj
-title: 'Possibility and realization are separate dimensions of a regulatory regime: its compatibility complex says which sets of public demands some attainable history meets, the probability of meeting them under a model of participants'' behaviour says how reliably the regime selects such a history, and a regime can improve either without the other'
+title: 'Possibility and realization are separate'
+statement: >-
+  Possibility and realization are separate dimensions of a regulatory
+  regime: its compatibility complex says which sets of public demands some
+  attainable history meets, the probability of meeting them under a model of
+  participants' behaviour says how reliably the regime selects such a
+  history, and a regime can improve either without the other
 version: 3
 history:
 - version: 2
@@ -58,7 +64,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-1108 — Proposed; filed in this filing of 2026-11-22 -->
 
-# CLAIM-1193: Possibility and realization are separate dimensions of a regulatory regime: its compatibility complex says which sets of public demands some attainable history meets, the probability of meeting them under a model of participants' behaviour says how reliably the regime selects such a history, and a regime can improve either without the other
+# CLAIM-1193: Possibility and realization are separate
 
 ## The claim
 

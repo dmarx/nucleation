@@ -3,7 +3,14 @@ number: 318
 status: Active
 formerly:
 - CLAIM-tmp6eegl
-title: 'Within a shared observational scenario, exact structure-preserving symmetries are the invertible members of a nested family of stochastic transports, and among Markov kernels between finite sets the invertible ones are the permutation matrices, so the invertible core is the relabellings, a groupoid in which objects joined by an arrow have isomorphic automorphism groups'
+title: 'Exact symmetries are invertible transports'
+statement: >-
+  Within a shared observational scenario, exact structure-preserving
+  symmetries are the invertible members of a nested family of stochastic
+  transports, and among Markov kernels between finite sets the invertible
+  ones are the permutation matrices, so the invertible core is the
+  relabellings, a groupoid in which objects joined by an arrow have
+  isomorphic automorphism groups
 version: 1
 role: thesis
 warrant: demonstrated
@@ -35,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-103 — Proposed; the semigroup claim this complements and the claim this was split from, cited as open -->
 
-# CLAIM-318: Within a shared observational scenario, exact structure-preserving symmetries are the invertible members of a nested family of stochastic transports, and among Markov kernels between finite sets the invertible ones are the permutation matrices, so the invertible core is the relabellings, a groupoid in which objects joined by an arrow have isomorphic automorphism groups
+# CLAIM-318: Exact symmetries are invertible transports
 
 ## The claim
 

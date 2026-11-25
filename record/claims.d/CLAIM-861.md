@@ -3,7 +3,13 @@ number: 861
 status: Proposed
 formerly:
 - CLAIM-tmp3ima1
-title: 'A coarse-grained description, the sloppiness of a model and the emergence of one level from another are each defined only relative to a chosen set of observables and a demanded precision, and given that choice the dynamics fix the rest: which partition is causal, which parameter combinations are stiff, and whether one description emerges from another'
+title: 'Coarse descriptions are relative to observables'
+statement: >-
+  A coarse-grained description, the sloppiness of a model and the emergence
+  of one level from another are each defined only relative to a chosen set
+  of observables and a demanded precision, and given that choice the
+  dynamics fix the rest: which partition is causal, which parameter
+  combinations are stiff, and whether one description emerges from another
 version: 1
 role: thesis
 warrant: interpretive
@@ -55,7 +61,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2167 THEORY-2205 CLAIM-820 TERM-140 TERM-135 TERM-146 THEORY-257 — Proposed or new; the readings this claim rests on, the entries it widens, the term it uses and the account it is set against -->
 
-# CLAIM-861: A coarse-grained description, the sloppiness of a model and the emergence of one level from another are each defined only relative to a chosen set of observables and a demanded precision, and given that choice the dynamics fix the rest: which partition is causal, which parameter combinations are stiff, and whether one description emerges from another
+# CLAIM-861: Coarse descriptions are relative to observables
 
 **Alternative (a), the lean.** Filed beside alternative (b), the dated
 note of 2026-11-22 on [QUESTION-517](../questions.d/QUESTION-517.md), which holds that no entry is needed.

@@ -3,7 +3,14 @@ number: 837
 status: Proposed
 formerly:
 - CLAIM-tmpqbo50
-title: 'In the factored-feature model a feature switches on, and its regularized loss is singular, at the same point s = λ, but sample PCA detects the feature only further on: in the hidden layer once s − λ exceeds σ²√(D/N), and in its contribution to the output once (s − λ)² does, so over a window that narrows as the sample grows the feature is active and improves the fit while it stays inside the noise bulk'
+title: 'Active features hide in the noise bulk'
+statement: >-
+  In the factored-feature model a feature switches on, and its regularized
+  loss is singular, at the same point s = λ, but sample PCA detects the
+  feature only further on: in the hidden layer once s − λ exceeds σ²√(D/N),
+  and in its contribution to the output once (s − λ)² does, so over a window
+  that narrows as the sample grows the feature is active and improves the
+  fit while it stays inside the noise bulk
 version: 1
 role: thesis
 warrant: demonstrated
@@ -54,7 +61,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-807 CLAIM-799 CASE-301 TERM-137 CLAIM-828 CLAIM-827 — new and Proposed or Open; filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: ARG-188 THEORY-2186 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-837: In the factored-feature model a feature switches on, and its regularized loss is singular, at the same point s = λ, but sample PCA detects the feature only further on: in the hidden layer once s − λ exceeds σ²√(D/N), and in its contribution to the output once (s − λ)² does, so over a window that narrows as the sample grows the feature is active and improves the fit while it stays inside the noise bulk
+# CLAIM-837: Active features hide in the noise bulk
 
 ## The claim
 

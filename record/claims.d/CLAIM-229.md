@@ -3,7 +3,12 @@ number: 229
 status: Superseded
 formerly:
 - CLAIM-tmpfe37n
-title: 'The footing, compensation and constitution theses ground on invented cases whose readings the assistant assigned, and the case filed for the proposition''s non-necessity holds the words fixed, so it shows only insufficiency'
+title: 'Invented cases show only insufficiency'
+statement: >-
+  The footing, compensation and constitution theses ground on invented cases
+  whose readings the assistant assigned, and the case filed for the
+  proposition's non-necessity holds the words fixed, so it shows only
+  insufficiency
 version: 3
 history:
 - version: 2
@@ -59,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-053 until 2027-01-28 — Superseded; moved to arguments the same day, cited as the claim this one answered -->
 <!-- inactive-ok-file: CLAIM-486 — Proposed; the necessity half, cited as the conclusion of the arguments this claim moved to -->
 
-# CLAIM-229: The footing, compensation and constitution theses ground on invented cases whose readings the assistant assigned, and the case filed for the proposition's non-necessity holds the words fixed, so it shows only insufficiency
+# CLAIM-229: Invented cases show only insufficiency
 
 ## The objection
 

@@ -3,7 +3,16 @@ number: 495
 status: Active
 formerly:
 - CLAIM-tmp3lml8
-title: 'For an O(d)-valued connection on a connected graph, the assignments that meet every edge relation xᵢ = Tᵢⱼxⱼ form a space isomorphic to the vectors at one vertex fixed by every holonomy based there, which is the kernel of the connection Laplacian; for d = 1, and for U(1) phases, that space is all or nothing, but for d > 1 a connection whose loops are not trivial can still keep a subspace on which every loop is, so compatibility among local frames can be partial and graded by direction; and edge maps that do not commute can compose to a flat loop, so non-commutativity is not holonomy'
+title: 'Consistent assignments: holonomy-fixed vectors'
+statement: >-
+  For an O(d)-valued connection on a connected graph, the assignments that
+  meet every edge relation xᵢ = Tᵢⱼxⱼ form a space isomorphic to the vectors
+  at one vertex fixed by every holonomy based there, which is the kernel of
+  the connection Laplacian; for d = 1, and for U(1) phases, that space is
+  all or nothing, but for d > 1 a connection whose loops are not trivial can
+  still keep a subspace on which every loop is, so compatibility among local
+  frames can be partial and graded by direction; and edge maps that do not
+  commute can compose to a flat loop, so non-commutativity is not holonomy
 version: 1
 role: thesis
 warrant: demonstrated
@@ -34,7 +43,7 @@ summary: >-
   it says nothing about which organizations have such transports.
 ---
 
-# CLAIM-495: For an O(d)-valued connection on a connected graph, the assignments that meet every edge relation xᵢ = Tᵢⱼxⱼ form a space isomorphic to the vectors at one vertex fixed by every holonomy based there, which is the kernel of the connection Laplacian; for d = 1, and for U(1) phases, that space is all or nothing, but for d > 1 a connection whose loops are not trivial can still keep a subspace on which every loop is, so compatibility among local frames can be partial and graded by direction; and edge maps that do not commute can compose to a flat loop, so non-commutativity is not holonomy
+# CLAIM-495: Consistent assignments: holonomy-fixed vectors
 
 ## The claim
 

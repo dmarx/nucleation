@@ -3,7 +3,13 @@ number: 376
 status: Active
 formerly:
 - CLAIM-tmp007ve
-title: 'A linear system that is stable at every instant can have a positive Lyapunov exponent: shifting any operator with exponent λ > 0 by −δI lowers its exponent by exactly δ and makes every instantaneous operator stable, so for 0 < δ < λ the shifted system is stable at every instant and unstable'
+title: 'Instantaneously stable yet positive Lyapunov'
+statement: >-
+  A linear system that is stable at every instant can have a positive
+  Lyapunov exponent: shifting any operator with exponent λ > 0 by −δI lowers
+  its exponent by exactly δ and makes every instantaneous operator stable,
+  so for 0 < δ < λ the shifted system is stable at every instant and
+  unstable
 version: 2
 history:
 - version: 1
@@ -50,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-325 — Proposed; the stochastic account, named as what this does not cover -->
 
-# CLAIM-376: A linear system that is stable at every instant can have a positive Lyapunov exponent: shifting any operator with exponent λ > 0 by −δI lowers its exponent by exactly δ and makes every instantaneous operator stable, so for 0 < δ < λ the shifted system is stable at every instant and unstable
+# CLAIM-376: Instantaneously stable yet positive Lyapunov
 
 ## The claim
 

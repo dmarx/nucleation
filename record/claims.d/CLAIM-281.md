@@ -3,7 +3,12 @@ number: 281
 status: Proposed
 formerly:
 - CLAIM-tmpny1e4
-title: 'Granting influence by role lets a process empower another as a critic while opposing its preferred policy, so an organization that allocates authority by role can keep disagreement working inside it instead of sorting into factions'
+title: 'Role grants keep disagreement working inside'
+statement: >-
+  Granting influence by role lets a process empower another as a critic
+  while opposing its preferred policy, so an organization that allocates
+  authority by role can keep disagreement working inside it instead of
+  sorting into factions
 version: 3
 history:
 - version: 2
@@ -54,7 +59,7 @@ bears_on:
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 THEORY-029 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-281: Granting influence by role lets a process empower another as a critic while opposing its preferred policy, so an organization that allocates authority by role can keep disagreement working inside it instead of sorting into factions
+# CLAIM-281: Role grants keep disagreement working inside
 
 ## The claim
 

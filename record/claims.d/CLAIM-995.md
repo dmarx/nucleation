@@ -3,7 +3,13 @@ number: 995
 status: Proposed
 formerly:
 - CLAIM-tmpym9ng
-title: 'The record''s own checks, lint, docs-check and review, are conservative: each passes only what it can show passes, so a failed check does not by itself say the entry is at fault; the fault may lie in the entry, in the vocabulary the check can express, or in the check, and telling them apart is a separate step'
+title: 'The record''s checks are conservative'
+statement: >-
+  The record's own checks, lint, docs-check and review, are conservative:
+  each passes only what it can show passes, so a failed check does not by
+  itself say the entry is at fault; the fault may lie in the entry, in the
+  vocabulary the check can express, or in the check, and telling them apart
+  is a separate step
 version: 1
 role: thesis
 warrant: interpretive
@@ -38,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2262 CLAIM-975 CLAIM-984 — Proposed; the reading and entries this is stated against -->
 
-# CLAIM-995: The record's own checks, lint, docs-check and review, are conservative: each passes only what it can show passes, so a failed check does not by itself say the entry is at fault; the fault may lie in the entry, in the vocabulary the check can express, or in the check, and telling them apart is a separate step
+# CLAIM-995: The record's checks are conservative
 
 ## The claim
 

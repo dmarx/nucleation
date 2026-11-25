@@ -3,7 +3,13 @@ number: 779
 status: Proposed
 formerly:
 - CLAIM-tmpw6wkt
-title: 'In a linear Gaussian restatement step with per-step noise, the information a feature keeps about its start falls geometrically, as a to the power 2n, where the step contracts the feature, and only as 1/n where the step copies it with error: a feature copied with any error drifts slowly instead of settling, and only a feature copied exactly keeps its start'
+title: 'Only exact copying keeps a feature''s start'
+statement: >-
+  In a linear Gaussian restatement step with per-step noise, the information
+  a feature keeps about its start falls geometrically, as a to the power 2n,
+  where the step contracts the feature, and only as 1/n where the step
+  copies it with error: a feature copied with any error drifts slowly
+  instead of settling, and only a feature copied exactly keeps its start
 version: 1
 role: thesis
 warrant: demonstrated
@@ -38,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-772 — Proposed; the exact case this extends, and the claims filed with it -->
 
-# CLAIM-779: In a linear Gaussian restatement step with per-step noise, the information a feature keeps about its start falls geometrically, as a to the power 2n, where the step contracts the feature, and only as 1/n where the step copies it with error: a feature copied with any error drifts slowly instead of settling, and only a feature copied exactly keeps its start
+# CLAIM-779: Only exact copying keeps a feature's start
 
 ## The claim
 

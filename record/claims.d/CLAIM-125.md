@@ -3,7 +3,11 @@ number: 125
 status: Active
 formerly:
 - CLAIM-tmpnyfix
-title: 'Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data'
+title: 'Two open problems for cover-changing transport'
+statement: >-
+  Directed transport between empirical models whose covers change has two
+  open problems: when it preserves decision-relevant information, and how it
+  extends to signalling data
 version: 7
 history:
 - version: 2
@@ -98,7 +102,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-100 — Superseded; replaced, and cited as the history this entry narrows -->
 <!-- inactive-ok-file: CLAIM-127 — Proposed; cited for its routes to signalling in elicitation, open -->
 
-# CLAIM-125: Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data
+# CLAIM-125: Two open problems for cover-changing transport
 
 ## The claim
 

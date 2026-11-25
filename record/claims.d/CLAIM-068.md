@@ -3,7 +3,11 @@ number: 68
 status: Proposed
 formerly:
 - CLAIM-tmpj8d91
-title: 'Repeated reconstruction is attraction toward conventional regions of communicative possibility: pragmatic stances, not only lexicon and grammar, can be stabilized by transmission'
+title: 'Transmission stabilizes pragmatic stances'
+statement: >-
+  Repeated reconstruction is attraction toward conventional regions of
+  communicative possibility: pragmatic stances, not only lexicon and
+  grammar, can be stabilized by transmission
 version: 4
 history:
 - version: 2
@@ -62,7 +66,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-234 — Superseded by ARG-027; the objection as conceded on 2026-10-10, cited as history -->
 <!-- inactive-ok-file: THEORY-173 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# CLAIM-068: Repeated reconstruction is attraction toward conventional regions of communicative possibility: pragmatic stances, not only lexicon and grammar, can be stabilized by transmission
+# CLAIM-068: Transmission stabilizes pragmatic stances
 
 ## The claim
 

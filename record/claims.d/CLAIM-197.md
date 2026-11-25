@@ -3,7 +3,12 @@ number: 197
 status: Active
 formerly:
 - CLAIM-tmpk4fd7
-title: 'Sections over contexts that do not overlap always glue, so a sense that differs between disjoint contexts is not a gluing failure: a failure needs an overlap carrying sections that disagree, and which families count as covers decides whether anything glues'
+title: 'Disjoint contexts always glue'
+statement: >-
+  Sections over contexts that do not overlap always glue, so a sense that
+  differs between disjoint contexts is not a gluing failure: a failure needs
+  an overlap carrying sections that disagree, and which families count as
+  covers decides whether anything glues
 version: 2
 history:
 - version: 1
@@ -63,7 +68,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-198 — Proposed; the consequence drawn from this claim, cited forward -->
 <!-- inactive-ok-file: CLAIM-105 CLAIM-201 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# CLAIM-197: Sections over contexts that do not overlap always glue, so a sense that differs between disjoint contexts is not a gluing failure: a failure needs an overlap carrying sections that disagree, and which families count as covers decides whether anything glues
+# CLAIM-197: Disjoint contexts always glue
 
 ## The claim
 

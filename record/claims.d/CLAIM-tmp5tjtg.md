@@ -1,6 +1,14 @@
 ---
 status: Proposed
-title: 'A capacity for reflexive self-governance can itself be seeded by a transmissible expression: taking up a representation of how one''s dependence on others'' attributions or influence works can help form, through one''s own activity, a capacity to examine and revise that dependence; but holding the representation, or believing oneself autonomous, is not having the capacity, which shows only in effective revisions of dependencies met after the exposure'
+title: 'Reflexive self-governance can be seeded'
+statement: >-
+  A capacity for reflexive self-governance can itself be seeded by a
+  transmissible expression: taking up a representation of how one's
+  dependence on others' attributions or influence works can help form,
+  through one's own activity, a capacity to examine and revise that
+  dependence; but holding the representation, or believing oneself
+  autonomous, is not having the capacity, which shows only in effective
+  revisions of dependencies met after the exposure
 version: 1
 role: thesis
 warrant: interpretive
@@ -45,7 +53,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-415 CLAIM-545 TERM-121 — Proposed; held entries read against the claim -->
 
-# CLAIM-tmp5tjtg: A capacity for reflexive self-governance can itself be seeded by a transmissible expression: taking up a representation of how one's dependence on others' attributions or influence works can help form, through one's own activity, a capacity to examine and revise that dependence; but holding the representation, or believing oneself autonomous, is not having the capacity, which shows only in effective revisions of dependencies met after the exposure
+# CLAIM-tmp5tjtg: Reflexive self-governance can be seeded
 
 ## The claim
 

@@ -3,7 +3,10 @@ number: 54
 status: Proposed
 formerly:
 - CLAIM-tmpfbpte
-title: 'A translation can preserve interpretive content while failing as a social act: interpretive and performative fidelity come apart'
+title: 'Interpretive and performative fidelity come apart'
+statement: >-
+  A translation can preserve interpretive content while failing as a social
+  act: interpretive and performative fidelity come apart
 version: 1
 role: thesis
 warrant: interpretive
@@ -29,7 +32,7 @@ summary: >-
   Apparently dropped by inadvertence, never argued against.
 ---
 
-# CLAIM-054: A translation can preserve interpretive content while failing as a social act: interpretive and performative fidelity come apart
+# CLAIM-054: Interpretive and performative fidelity come apart
 
 ## The claim
 

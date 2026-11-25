@@ -3,7 +3,13 @@ number: 1121
 status: Active
 formerly:
 - CLAIM-tmpk4bou
-title: 'A regulation that only adds hard constraints to a fixed dynamical model can only shrink the compatibility complex of the public demands, so it cannot relieve their frustration; a regulation relieves frustration among the original demands only by changing the dynamics, through the technologies, infrastructure or access it brings about'
+title: 'Added hard constraints cannot relieve frustration'
+statement: >-
+  A regulation that only adds hard constraints to a fixed dynamical model
+  can only shrink the compatibility complex of the public demands, so it
+  cannot relieve their frustration; a regulation relieves frustration among
+  the original demands only by changing the dynamics, through the
+  technologies, infrastructure or access it brings about
 version: 3
 history:
 - version: 2
@@ -57,7 +63,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-1121: A regulation that only adds hard constraints to a fixed dynamical model can only shrink the compatibility complex of the public demands, so it cannot relieve their frustration; a regulation relieves frustration among the original demands only by changing the dynamics, through the technologies, infrastructure or access it brings about
+# CLAIM-1121: Added hard constraints cannot relieve frustration
 
 ## The claim
 

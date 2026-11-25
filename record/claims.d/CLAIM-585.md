@@ -3,7 +3,12 @@ number: 585
 status: Active
 formerly:
 - CLAIM-tmpuk8gq
-title: 'With several resources, the budgets that suffice for a transition form an upward-closed set whose minimal elements, when the transition paths are finitely many, form a Pareto frontier; the set need not be convex, so no threshold on a weighted total of the resources describes it'
+title: 'Sufficient budgets form a nonconvex up-set'
+statement: >-
+  With several resources, the budgets that suffice for a transition form an
+  upward-closed set whose minimal elements, when the transition paths are
+  finitely many, form a Pareto frontier; the set need not be convex, so no
+  threshold on a weighted total of the resources describes it
 version: 5
 history:
 - version: 2
@@ -82,7 +87,7 @@ works:
 ---
 <!-- inactive-ok-file: THEORY-1420 CLAIM-555 — Proposed; A's proposals of 2026-11-04 and a reading's account, cited as filed, nothing here rests on their being settled beyond the rests_on -->
 
-# CLAIM-585: With several resources, the budgets that suffice for a transition form an upward-closed set whose minimal elements, when the transition paths are finitely many, form a Pareto frontier; the set need not be convex, so no threshold on a weighted total of the resources describes it
+# CLAIM-585: Sufficient budgets form a nonconvex up-set
 
 ## The claim
 

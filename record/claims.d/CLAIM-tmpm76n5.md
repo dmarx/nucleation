@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'An ambiguity becomes consequential only when a case first gives its readings different consequences, so a misunderstanding dates the distinction''s relevance rather than its existence, and clarifying it can coarsen as well as refine: readings found to agree on every case that matters are merged'
+title: 'Misunderstandings date relevance, not existence'
+statement: >-
+  An ambiguity becomes consequential only when a case first gives its
+  readings different consequences, so a misunderstanding dates the
+  distinction's relevance rather than its existence, and clarifying it can
+  coarsen as well as refine: readings found to agree on every case that
+  matters are merged
 version: 1
 role: thesis
 warrant: interpretive
@@ -38,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpupcws CLAIM-762 — Proposed or new; the owner's thesis and the claim this one complements -->
 
-# CLAIM-tmpm76n5: An ambiguity becomes consequential only when a case first gives its readings different consequences, so a misunderstanding dates the distinction's relevance rather than its existence, and clarifying it can coarsen as well as refine: readings found to agree on every case that matters are merged
+# CLAIM-tmpm76n5: Misunderstandings date relevance, not existence
 
 ## When an ambiguity becomes consequential
 

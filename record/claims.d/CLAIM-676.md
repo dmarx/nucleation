@@ -3,7 +3,13 @@ number: 676
 status: Active
 formerly:
 - CLAIM-tmp6yhlh
-title: 'Two forms of assistance that deliver the same outcome can leave the person different participation in worthwhile activity, by removing drudgery, by opening an activity of worth to them, or by displacing participation they have reason to value, so assistance, a technology''s above all, is assessed by the participation it enables or displaces as well as by its outcomes'
+title: 'Same outcome, different participation'
+statement: >-
+  Two forms of assistance that deliver the same outcome can leave the person
+  different participation in worthwhile activity, by removing drudgery, by
+  opening an activity of worth to them, or by displacing participation they
+  have reason to value, so assistance, a technology's above all, is assessed
+  by the participation it enables or displaces as well as by its outcomes
 version: 3
 history:
 - version: 2
@@ -66,7 +72,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1847 THEORY-1856 THEORY-1861 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-603 — Proposed; the record's claim on division of labour, cited with its standing -->
 
-# CLAIM-676: Two forms of assistance that deliver the same outcome can leave the person different participation in worthwhile activity, by removing drudgery, by opening an activity of worth to them, or by displacing participation they have reason to value, so assistance, a technology's above all, is assessed by the participation it enables or displaces as well as by its outcomes
+# CLAIM-676: Same outcome, different participation
 
 ## The claim
 

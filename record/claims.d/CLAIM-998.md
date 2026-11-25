@@ -3,12 +3,15 @@ number: 998
 status: Proposed
 formerly:
 - CLAIM-tmp0doyo
-title: 'Effortless action has a direction as well as a timing: the least quadratic
-  effort to move a controlled system by Δx is ΔxᵀW⁻¹Δx with W its controllability
-  Gramian, so a change of given size is cheap along W''s strong directions,
-  costly along its weak ones and impossible outside its range, and acting
-  effortlessly is acting along the directions the system already affords,
-  as Cook Ding''s knife follows the spaces between the joints'
+title: 'Effortless action has a direction'
+statement: >-
+  Effortless action has a direction as well as a timing: the least quadratic
+  effort to move a controlled system by Δx is ΔxᵀW⁻¹Δx with W its
+  controllability Gramian, so a change of given size is cheap along W's
+  strong directions, costly along its weak ones and impossible outside its
+  range, and acting effortlessly is acting along the directions the system
+  already affords, as Cook Ding's knife follows the spaces between the
+  joints
 version: 2
 history:
 - version: 2
@@ -53,7 +56,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-541 CLAIM-1122 LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->
 
-# CLAIM-998: Effortless action has a direction as well as a timing: the least quadratic effort to move a controlled system by Δx is ΔxᵀW⁻¹Δx with W its controllability Gramian, so a change of given size is cheap along W's strong directions, costly along its weak ones and impossible outside its range, and acting effortlessly is acting along the directions the system already affords, as Cook Ding's knife follows the spaces between the joints
+# CLAIM-998: Effortless action has a direction
 
 ## The claim
 

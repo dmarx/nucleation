@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'Noticing a distinction that keeps a class stable, so that instances of one kind are still recognized as that kind across changes of context, presentation or application and are not confused with a neighbouring kind, is one way an inquiry progresses'
+title: 'Stable classes are one way inquiry progresses'
+statement: >-
+  Noticing a distinction that keeps a class stable, so that instances of one
+  kind are still recognized as that kind across changes of context,
+  presentation or application and are not confused with a neighbouring kind,
+  is one way an inquiry progresses
 version: 1
 role: thesis
 warrant: interpretive
@@ -31,7 +36,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-764 CLAIM-tmph11zb CLAIM-762 CLAIM-794 CLAIM-483 SYNTHESIS-013 — Proposed, Open or new; the claim it complements, its development and test, and the neighbouring entries it is set against -->
 
-# CLAIM-tmpyaro8: Noticing a distinction that keeps a class stable, so that instances of one kind are still recognized as that kind across changes of context, presentation or application and are not confused with a neighbouring kind, is one way an inquiry progresses
+# CLAIM-tmpyaro8: Stable classes are one way inquiry progresses
 
 ## The claim
 

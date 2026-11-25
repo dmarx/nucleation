@@ -3,7 +3,12 @@ number: 1009
 status: Proposed
 formerly:
 - CLAIM-tmp2enpa
-title: "The inquiry frontier should include an answer frontier: the record's inquiry frontier, the questions an agent can formulate, is only the query-frontier component of the boundary of an inquiry, which also has an answer frontier"
+title: 'The inquiry frontier needs an answer frontier'
+statement: >-
+  The inquiry frontier should include an answer frontier: the record's
+  inquiry frontier, the questions an agent can formulate, is only the
+  query-frontier component of the boundary of an inquiry, which also has an
+  answer frontier
 version: 1
 role: thesis
 warrant: interpretive
@@ -35,7 +40,7 @@ summary: >-
 
 <!-- inactive-ok-file: TERM-159 — Proposed; the alternatives and the claims filed with this -->
 
-# CLAIM-1009: The inquiry frontier should include an answer frontier: the record's inquiry frontier, the questions an agent can formulate, is only the query-frontier component of the boundary of an inquiry, which also has an answer frontier
+# CLAIM-1009: The inquiry frontier needs an answer frontier
 
 ## The claim
 

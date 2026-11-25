@@ -3,7 +3,15 @@ number: 929
 status: Proposed
 formerly:
 - CLAIM-tmpzujm1
-title: 'On data whose inputs and targets are each written in a tree''s levels with a strength per level, every kernel of inner products and norms commutes exactly with the level projectors, so kernel gradient flow acquires the levels in the order of input strength alone, while a decoupled deep linear network acquires them in the order of input strength times target strength; the two learners'' phase boundaries therefore differ, and neither is fixed by tree depth'
+title: 'Kernels and linear nets order levels differently'
+statement: >-
+  On data whose inputs and targets are each written in a tree's levels with
+  a strength per level, every kernel of inner products and norms commutes
+  exactly with the level projectors, so kernel gradient flow acquires the
+  levels in the order of input strength alone, while a decoupled deep linear
+  network acquires them in the order of input strength times target
+  strength; the two learners' phase boundaries therefore differ, and neither
+  is fixed by tree depth
 version: 1
 history:
 - version: 1
@@ -61,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-351 CLAIM-930 — new; the study and the empirical claim of LEAD-052, filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-186 — Proposed; the deep linear solution this claim applies under its own assumptions -->
 
-# CLAIM-929: On data whose inputs and targets are each written in a tree's levels with a strength per level, every kernel of inner products and norms commutes exactly with the level projectors, so kernel gradient flow acquires the levels in the order of input strength alone, while a decoupled deep linear network acquires them in the order of input strength times target strength; the two learners' phase boundaries therefore differ, and neither is fixed by tree depth
+# CLAIM-929: Kernels and linear nets order levels differently
 
 ## The claim
 

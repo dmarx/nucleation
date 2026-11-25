@@ -3,7 +3,16 @@ number: 445
 status: Proposed
 formerly:
 - CLAIM-tmp28sti
-title: 'A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed'
+title: 'Protective regimes become self-maintaining'
+statement: >-
+  A protective regime, in a person, an institution or a system of states,
+  becomes self-maintaining when the interventions it authorizes shift the
+  evidence used to judge its necessity, the authority and resources of those
+  who judge it, the capacities of its constituents or the threat environment
+  itself in ways that favour its continuation; this can happen when the
+  original threat was real and the first protection apt, and it is a failure
+  only where the regime has become less responsive to evidence that it is no
+  longer needed
 version: 6
 history:
 - version: 2
@@ -111,7 +120,7 @@ works:
 <!-- inactive-ok-file: CLAIM-614 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 
-# CLAIM-445: A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed
+# CLAIM-445: Protective regimes become self-maintaining
 
 ## The claim
 

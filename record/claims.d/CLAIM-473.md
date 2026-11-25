@@ -3,7 +3,11 @@ number: 473
 status: Rejected
 formerly:
 - CLAIM-tmpfw510
-title: 'Coupling locally described systems necessarily induces a separation of time scales between their collective behaviour and their relative behaviour'
+title: 'Coupling induces time-scale separation'
+statement: >-
+  Coupling locally described systems necessarily induces a separation of
+  time scales between their collective behaviour and their relative
+  behaviour
 version: 1
 role: thesis
 warrant: interpretive
@@ -34,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-478 — Proposed or new; the claim this rests on, its objection and the claim that holds its conditional form -->
 
-# CLAIM-473: Coupling locally described systems necessarily induces a separation of time scales between their collective behaviour and their relative behaviour
+# CLAIM-473: Coupling induces time-scale separation
 
 ## The claim
 

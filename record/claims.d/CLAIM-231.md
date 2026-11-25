@@ -3,7 +3,13 @@ number: 231
 status: Active
 formerly:
 - CLAIM-tmpfzcik
-title: 'On observed responses, a rendering that keeps the response distribution of each order of two framings within ε of the source''s, under an outcome correspondence, keeps the observed order effect within 2ε, a bound identified from data, while the intertwining identity bounds it only through defects of an unidentified state model'
+title: 'Observed order effect bounded by 2ε'
+statement: >-
+  On observed responses, a rendering that keeps the response distribution of
+  each order of two framings within ε of the source's, under an outcome
+  correspondence, keeps the observed order effect within 2ε, a bound
+  identified from data, while the intertwining identity bounds it only
+  through defects of an unidentified state model
 version: 1
 role: thesis
 warrant: demonstrated
@@ -35,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-117 — Proposed; the commutator thesis and the dynamics thesis this restates on observations, cited as open -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the procedure-level measure that fixes the kernel across items, cited as open -->
 
-# CLAIM-231: On observed responses, a rendering that keeps the response distribution of each order of two framings within ε of the source's, under an outcome correspondence, keeps the observed order effect within 2ε, a bound identified from data, while the intertwining identity bounds it only through defects of an unidentified state model
+# CLAIM-231: Observed order effect bounded by 2ε
 
 ## What it answers
 

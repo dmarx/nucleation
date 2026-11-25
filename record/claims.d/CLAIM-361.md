@@ -3,7 +3,15 @@ number: 361
 status: Active
 formerly:
 - CLAIM-tmpq80iq
-title: 'Relief of an organization''s frustration must be judged for an identified organization against a fixed reference set of its original demands, under an explicit correspondence between earlier and later demands: a demand excised or suppressed has changed the comparison and has not been satisfied, an endogenous revision of what the organization maintains is a transformation of it and not relief, and learning can change which processes bear the demands'
+title: 'Judge relief against fixed original demands'
+statement: >-
+  Relief of an organization's frustration must be judged for an identified
+  organization against a fixed reference set of its original demands, under
+  an explicit correspondence between earlier and later demands: a demand
+  excised or suppressed has changed the comparison and has not been
+  satisfied, an endogenous revision of what the organization maintains is a
+  transformation of it and not relief, and learning can change which
+  processes bear the demands
 version: 4
 history:
 - version: 2
@@ -78,7 +86,7 @@ works:
 <!-- inactive-ok-file: CLAIM-787 THEORY-2147 — Proposed; the dated note of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-232 — Proposed; Watson's comparison, cited as the half of the principle that is his and as corroboration, not leaned on -->
 
-# CLAIM-361: Relief of an organization's frustration must be judged for an identified organization against a fixed reference set of its original demands, under an explicit correspondence between earlier and later demands: a demand excised or suppressed has changed the comparison and has not been satisfied, an endogenous revision of what the organization maintains is a transformation of it and not relief, and learning can change which processes bear the demands
+# CLAIM-361: Judge relief against fixed original demands
 
 ## The claim
 

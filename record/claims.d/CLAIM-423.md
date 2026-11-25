@@ -3,7 +3,16 @@ number: 423
 status: Proposed
 formerly:
 - CLAIM-tmppkmq0
-title: 'In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it'
+title: 'Political timescales are not merely nested'
+statement: >-
+  In a political collective, components that change at different speeds
+  (attention, coalitions, elected terms, administrative careers, law and
+  treaties, generational memory) are not only nested by timescale: under a
+  given institutional arrangement their different temporal horizons affect
+  which forms of influence each can accumulate, exercise and keep, and so
+  which of them holds authority over the others, so a state can stay
+  continuous as an actor while the organization producing its positions
+  changes under it
 version: 6
 history:
 - version: 2
@@ -85,7 +94,7 @@ bears_on:
 <!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-327 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-423: In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it
+# CLAIM-423: Political timescales are not merely nested
 
 ## The claim
 

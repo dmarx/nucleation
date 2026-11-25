@@ -3,7 +3,14 @@ number: 961
 status: Proposed
 formerly:
 - CLAIM-tmpw4lvx
-title: 'Reading the full set of askable questions as the fixed scenario, the operational cover is a thresholded determinacy functional of the empirical model, not a cover: a change in which questions a population answers determinately is a change of model on a fixed cover, so the operational notion earns its own name (the determinacy cover) and the sheaf cover is kept apart'
+title: 'The determinacy cover is not a sheaf cover'
+statement: >-
+  Reading the full set of askable questions as the fixed scenario, the
+  operational cover is a thresholded determinacy functional of the empirical
+  model, not a cover: a change in which questions a population answers
+  determinately is a change of model on a fixed cover, so the operational
+  notion earns its own name (the determinacy cover) and the sheaf cover is
+  kept apart
 version: 1
 role: thesis
 warrant: interpretive
@@ -35,7 +42,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-251 CLAIM-201 — Proposed; the counter this reading corroborates, the thesis whose "cover" it would rename, and the measure that uses the operational sense -->
 <!-- inactive-ok-file: CLAIM-962 TERM-155 CASE-368 — new in this contribution; the alternative reading, the term this claim uses, and the construction it rests on -->
 
-# CLAIM-961: Reading the full set of askable questions as the fixed scenario, the operational cover is a thresholded determinacy functional of the empirical model, not a cover: a change in which questions a population answers determinately is a change of model on a fixed cover, so the operational notion earns its own name (the determinacy cover) and the sheaf cover is kept apart
+# CLAIM-961: The determinacy cover is not a sheaf cover
 
 ## The claim
 

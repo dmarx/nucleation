@@ -3,7 +3,11 @@ number: 136
 status: Proposed
 formerly:
 - CLAIM-tmp8yo01
-title: 'Communicative acts and their participants exist as relata but have no identity beyond what their relations differentiate: non-eliminative structural realism without primitive identity'
+title: 'Structural realism without primitive identity'
+statement: >-
+  Communicative acts and their participants exist as relata but have no
+  identity beyond what their relations differentiate: non-eliminative
+  structural realism without primitive identity
 version: 2
 history:
 - version: 2
@@ -48,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-477 LIT-1647 — the general frame (Proposed) and a registered, unread source (Deferred), cited as open -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-134 CLAIM-138 — Proposed; the companion thesis and the two objections to this one, all open -->
 
-# CLAIM-136: Communicative acts and their participants exist as relata but have no identity beyond what their relations differentiate: non-eliminative structural realism without primitive identity
+# CLAIM-136: Structural realism without primitive identity
 
 ## The claim
 

@@ -3,7 +3,11 @@ number: 91
 status: Proposed
 formerly:
 - CLAIM-tmpqgtmh
-title: 'A translation can reach pragmatic equivalence by compensating for changed social coordinates with changed linguistic ones, so lexical infidelity can be required for pragmatic fidelity'
+title: 'Lexical infidelity can be required for fidelity'
+statement: >-
+  A translation can reach pragmatic equivalence by compensating for changed
+  social coordinates with changed linguistic ones, so lexical infidelity can
+  be required for pragmatic fidelity
 version: 2
 history:
 - version: 2
@@ -38,7 +42,7 @@ summary: >-
   mechanism. Apparently dropped inadvertently, never refuted.
 ---
 
-# CLAIM-091: A translation can reach pragmatic equivalence by compensating for changed social coordinates with changed linguistic ones, so lexical infidelity can be required for pragmatic fidelity
+# CLAIM-091: Lexical infidelity can be required for fidelity
 
 ## The claim
 

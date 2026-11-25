@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: "Two views of the record should be separate scholarly contributions only when they have different central claims needing different evidence; that audiences want different presentations is a reason for different views, not different contributions, so an atlas of the record is organized around a few primary arguments with focused, cross-cutting and frontier views beside them rather than as a list of paper titles"
+title: 'Separate contributions need separate claims'
+statement: >-
+  Two views of the record should be separate scholarly contributions only
+  when they have different central claims needing different evidence; that
+  audiences want different presentations is a reason for different views,
+  not different contributions, so an atlas of the record is organized around
+  a few primary arguments with focused, cross-cutting and frontier views
+  beside them rather than as a list of paper titles
 version: 3
 history:
 - version: 2
@@ -51,7 +58,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-tmpkvi10 CLAIM-tmp2tzk5 — Proposed or new; the owner's thesis it sharpens, the claim it complements and the identity question -->
 
-# CLAIM-tmpotj4b: Two views of the record should be separate scholarly contributions only when they have different central claims needing different evidence; that audiences want different presentations is a reason for different views, not different contributions, so an atlas of the record is organized around a few primary arguments with focused, cross-cutting and frontier views beside them rather than as a list of paper titles
+# CLAIM-tmpotj4b: Separate contributions need separate claims
 
 ## The claim
 

@@ -5,7 +5,12 @@ superseded_by:
 - ARG-016
 formerly:
 - CLAIM-tmpigdl0
-title: '"Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross"'
+title: '"Synchronization" lacks a mechanism'
+statement: >-
+  "Synchronization" is an analogy without a mechanism: phase synchrony among
+  coupled oscillators has a coupling, an order parameter and transitions,
+  valuations that fail to cross have none of these, and the word adds
+  nothing to "the curves do not cross"
 version: 3
 history:
 - version: 2
@@ -48,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-069 — Proposed; the coordination-dynamics reading that sets the standard the analogy is held to -->
 <!-- inactive-ok-file: ARG-016 CLAIM-169 CLAIM-198 THEORY-070 — Proposed; the argument this claim moved to, its premises and the reply that still names this claim, open -->
 
-# CLAIM-163: "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross"
+# CLAIM-163: "Synchronization" lacks a mechanism
 
 ## The claim
 

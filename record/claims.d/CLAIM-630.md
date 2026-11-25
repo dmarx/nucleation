@@ -3,7 +3,15 @@ number: 630
 status: Proposed
 formerly:
 - CLAIM-tmp476gw
-title: 'Where filing an argument costs at least twice what one reconstruction overpays, the break-even filing rule files it later than its second occurrence, and every reconstruction it pays for in between is a restatement with nothing filed to check it against: the cost-competitive rule and the drift-catching second-occurrence rule part exactly when filing is that dear, and the competitive guarantee prices none of the drift between them'
+title: 'Costly filing waits past the second occurrence'
+statement: >-
+  Where filing an argument costs at least twice what one reconstruction
+  overpays, the break-even filing rule files it later than its second
+  occurrence, and every reconstruction it pays for in between is a
+  restatement with nothing filed to check it against: the cost-competitive
+  rule and the drift-catching second-occurrence rule part exactly when
+  filing is that dear, and the competitive guarantee prices none of the
+  drift between them
 version: 1
 history:
 - version: 1
@@ -58,7 +66,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 SYNTHESIS-016 — Proposed; premises, citations and the account that integrates this claim -->
 
-# CLAIM-630: Where filing an argument costs at least twice what one reconstruction overpays, the break-even filing rule files it later than its second occurrence, and every reconstruction it pays for in between is a restatement with nothing filed to check it against: the cost-competitive rule and the drift-catching second-occurrence rule part exactly when filing is that dear, and the competitive guarantee prices none of the drift between them
+# CLAIM-630: Costly filing waits past the second occurrence
 
 *Filed from version 2 of [SYNTHESIS-016](../syntheses.d/SYNTHESIS-016.md), the nucleating-argument line's synthesis, at [ADR-084](../decisions.d/ADR-084.md). That entry is now the line's account, and integrates this claim.*
 

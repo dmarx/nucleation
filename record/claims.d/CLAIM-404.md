@@ -3,7 +3,17 @@ number: 404
 status: Active
 formerly:
 - CLAIM-tmpjo2zr
-title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
+title: 'Governing an organization through its evidence'
+statement: >-
+  An organization can be governed from outside without any of its decisions
+  being made for it, through the evidence its own procedures receive or
+  through the criteria by which they weigh evidence; the two routes are
+  distinct and each is possible without the other, so informational and
+  evaluative independence do not imply each other; and where the
+  organization's role is to evaluate another that affects its evidence or
+  resources, the interpretation–authority loop can close between the two
+  institutions, so that formal independence of the evaluator's procedure
+  does not make its evaluation independent
 version: 15
 history:
 - version: 2
@@ -174,7 +184,7 @@ works:
 <!-- ref::uses-file: TERM-064 — stated in "legible"; the body uses the word in the sense that term defines -->
 <!-- ref::uses-file: TERM-100 — an organization "governed from outside" while its own procedures make every decision is a question of whose processes shape and keep its evidence and criteria, TERM-100's formation and maintenance provenance, not of who issues its decisions -->
 
-# CLAIM-404: An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization's role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator's procedure does not make its evaluation independent
+# CLAIM-404: Governing an organization through its evidence
 
 ## The claim
 

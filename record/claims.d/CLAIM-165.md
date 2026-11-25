@@ -3,7 +3,11 @@ number: 165
 status: Proposed
 formerly:
 - CLAIM-tmpk62ey
-title: 'A combined form constituted by mutual entrainment is not thereby a self in the subject sense: two dancers in phase are one coordination, an autonomous process, and still two subjects'
+title: 'Entrained dancers are still two subjects'
+statement: >-
+  A combined form constituted by mutual entrainment is not thereby a self in
+  the subject sense: two dancers in phase are one coordination, an
+  autonomous process, and still two subjects
 version: 2
 history:
 - version: 2
@@ -42,7 +46,7 @@ complements:
 - CLAIM-355
 ---
 
-# CLAIM-165: A combined form constituted by mutual entrainment is not thereby a self in the subject sense: two dancers in phase are one coordination, an autonomous process, and still two subjects
+# CLAIM-165: Entrained dancers are still two subjects
 
 ## The claim
 

@@ -3,7 +3,11 @@ number: 1065
 status: Proposed
 formerly:
 - CLAIM-tmpbt43r
-title: "Asking permission is resource bounded, and its boundedness connects the record's account of inquiry under deadlines directly to its legibility program"
+title: 'Asking permission is resource bounded'
+statement: >-
+  Asking permission is resource bounded, and its boundedness connects the
+  record's account of inquiry under deadlines directly to its legibility
+  program
 version: 1
 role: thesis
 warrant: interpretive
@@ -40,7 +44,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-732 CLAIM-996 CLAIM-1117 CLAIM-1140 CLAIM-1119 CLAIM-1132 CLAIM-1016 CASE-386 — Proposed; the nearest held antecedent and A56's development filed with this -->
 
-# CLAIM-1065: Asking permission is resource bounded, and its boundedness connects the record's account of inquiry under deadlines directly to its legibility program
+# CLAIM-1065: Asking permission is resource bounded
 
 ## The claim
 

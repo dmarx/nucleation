@@ -3,7 +3,10 @@ number: 102
 status: Superseded
 formerly:
 - CLAIM-tmpt5uc1
-title: 'Variations in translation are transformations between pragmatic frames of reference that preserve selected invariants of the communicative act'
+title: 'Translation variants as frame transformations'
+statement: >-
+  Variations in translation are transformations between pragmatic frames of
+  reference that preserve selected invariants of the communicative act
 version: 1
 role: thesis
 warrant: interpretive
@@ -34,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-016 until 2027-02-10 — Superseded; a premise this entry depends on (`uses`): replaced; this entry is stated in its earlier sense, so ask again whether it holds in the successor's -->
 <!-- inactive-ok-file: TERM-013 until 2027-02-10 — Superseded; a premise this entry depends on (`uses`): replaced; this entry is stated in its earlier sense, so ask again whether it holds in the successor's -->
 
-# CLAIM-102: Variations in translation are transformations between pragmatic frames of reference that preserve selected invariants of the communicative act
+# CLAIM-102: Translation variants as frame transformations
 
 ## The claim
 

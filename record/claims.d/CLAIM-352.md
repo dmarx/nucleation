@@ -3,7 +3,14 @@ number: 352
 status: Active
 formerly:
 - CLAIM-tmph678z
-title: 'Sen''s two aspects of freedom divide along the record''s line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy'
+title: 'Sen''s two freedoms map reach and organization'
+statement: >-
+  Sen's two aspects of freedom divide along the record's line between what
+  an agent can viably reach and the organization that selects among it:
+  viable reachability can stand for the opportunity aspect only through a
+  map from trajectories to valued functionings, which control theory does
+  not supply, and will-organization gives a causal account of part of the
+  process aspect, not of its fairness or legitimacy
 version: 6
 history:
 - version: 2
@@ -95,7 +102,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1845 THEORY-1852 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency and Massumi's affect, and the claim that separates their quantity -->
 
-# CLAIM-352: Sen's two aspects of freedom divide along the record's line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy
+# CLAIM-352: Sen's two freedoms map reach and organization
 
 ## The claim
 

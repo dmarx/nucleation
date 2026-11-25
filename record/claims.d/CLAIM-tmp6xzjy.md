@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'Views whose correspondences all pass through one source satisfy the cocycle condition by construction, as charts of a given space do, while views related to one another pair by pair can be compatible on every overlap and inconsistent around a cycle of three, so an atlas of such views must check its compatibility on cycles and not only on pairs'
+title: 'Pairwise views can fail around a cycle'
+statement: >-
+  Views whose correspondences all pass through one source satisfy the
+  cocycle condition by construction, as charts of a given space do, while
+  views related to one another pair by pair can be compatible on every
+  overlap and inconsistent around a cycle of three, so an atlas of such
+  views must check its compatibility on cycles and not only on pairs
 version: 1
 role: thesis
 warrant: demonstrated
@@ -38,7 +44,7 @@ summary: >-
 
 <!-- inactive-ok-file: ADR-143 TERM-tmp1bef0 — Proposed, Open or new; the thesis it completes, the owner's, the tolerance result, the manuscript protocol, the route term and the holonomy question -->
 
-# CLAIM-tmp6xzjy: Views whose correspondences all pass through one source satisfy the cocycle condition by construction, as charts of a given space do, while views related to one another pair by pair can be compatible on every overlap and inconsistent around a cycle of three, so an atlas of such views must check its compatibility on cycles and not only on pairs
+# CLAIM-tmp6xzjy: Pairwise views can fail around a cycle
 
 ## The gap
 

@@ -3,7 +3,12 @@ number: 363
 status: Active
 formerly:
 - CLAIM-tmpt75xe
-title: 'A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false'
+title: 'Fixed relata make judgments definite, not relative'
+statement: >-
+  A normative judgment is well-defined only once its relata are fixed (the
+  organization or standpoint it concerns, the standard, the scale and the
+  context), and that dependence does not by itself make it relative: once
+  they are fixed, the judgment can be false
 version: 8
 history:
 - version: 2
@@ -108,7 +113,7 @@ complements:
 <!-- inactive-ok-file: CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: THEORY-1279 THEORY-1277 — Proposed; Tsoukas and Chia's radial categories and Bencherki and Iliadis's coexisting levels, set beside this claim -->
 
-# CLAIM-363: A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false
+# CLAIM-363: Fixed relata make judgments definite, not relative
 
 ## The claim
 

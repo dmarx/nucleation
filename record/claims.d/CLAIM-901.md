@@ -3,7 +3,14 @@ number: 901
 status: Proposed
 formerly:
 - CLAIM-tmpqaqtx
-title: 'In a simulation of an organization that corrects once and is then damaged, the second correction after an undisclosed lesion of evidence generation, admission or scoring is decided by whether the apparatus can find its own damage and has a producer to rebuild it, not by which of the three operations is damaged; where maintenance is realized, inside or outside, is separated only when both maintained capacities are destroyed'
+title: 'Second correction turns on self-diagnosis'
+statement: >-
+  In a simulation of an organization that corrects once and is then damaged,
+  the second correction after an undisclosed lesion of evidence generation,
+  admission or scoring is decided by whether the apparatus can find its own
+  damage and has a producer to rebuild it, not by which of the three
+  operations is damaged; where maintenance is realized, inside or outside,
+  is separated only when both maintained capacities are destroyed
 version: 1
 history:
 - version: 1
@@ -52,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-265 — new or Proposed; the run this claim is drawn from, and the constant outside controller it is compared with -->
 <!-- ref::uses-file: TERM-100 — "where maintenance is realized", inside or outside the boundary, is TERM-100's maintenance provenance -->
 
-# CLAIM-901: In a simulation of an organization that corrects once and is then damaged, the second correction after an undisclosed lesion of evidence generation, admission or scoring is decided by whether the apparatus can find its own damage and has a producer to rebuild it, not by which of the three operations is damaged; where maintenance is realized, inside or outside, is separated only when both maintained capacities are destroyed
+# CLAIM-901: Second correction turns on self-diagnosis
 
 ## The claim
 

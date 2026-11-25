@@ -3,7 +3,15 @@ number: 679
 status: Active
 formerly:
 - CLAIM-tmpfrjqq
-title: 'For a fixed architecture and one resource that must be held at each moment, cutting the resource an organization holds toward what holding its present configuration requires leaves that configuration feasible and removes exactly the transitions whose threshold lies between the old holding and the new, so that at the limit the organization can still hold where it is and can reach no configuration whose transition carries any reconfiguration slack'
+title: 'Cutting slack to need freezes the configuration'
+statement: >-
+  For a fixed architecture and one resource that must be held at each
+  moment, cutting the resource an organization holds toward what holding its
+  present configuration requires leaves that configuration feasible and
+  removes exactly the transitions whose threshold lies between the old
+  holding and the new, so that at the limit the organization can still hold
+  where it is and can reach no configuration whose transition carries any
+  reconfiguration slack
 version: 4
 history:
 - version: 2
@@ -86,7 +94,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-679: For a fixed architecture and one resource that must be held at each moment, cutting the resource an organization holds toward what holding its present configuration requires leaves that configuration feasible and removes exactly the transitions whose threshold lies between the old holding and the new, so that at the limit the organization can still hold where it is and can reach no configuration whose transition carries any reconfiguration slack
+# CLAIM-679: Cutting slack to need freezes the configuration
 
 ## The sentence and its parameter
 

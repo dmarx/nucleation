@@ -3,7 +3,14 @@ number: 137
 status: Proposed
 formerly:
 - CLAIM-tmpaedgb
-title: 'A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, once one symmetry group is identified across the realizations by its action on the situation and not by labels of a medium, so that invariant has classificatory priority over any particular realization'
+title: 'Kinds identified by a realization-free invariant'
+statement: >-
+  A communicative kind is identified by an invariant that does not depend on
+  any one realization, as a group character identifies a representation up
+  to isomorphism, once one symmetry group is identified across the
+  realizations by its action on the situation and not by labels of a medium,
+  so that invariant has classificatory priority over any particular
+  realization
 version: 4
 history:
 - version: 2
@@ -87,7 +94,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-151 CLAIM-136 — Proposed; the constitution claim this rests on and the individuation claim beside it, both open -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as the manuscript's thesis this claim was filed beside -->
 
-# CLAIM-137: A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, once one symmetry group is identified across the realizations by its action on the situation and not by labels of a medium, so that invariant has classificatory priority over any particular realization
+# CLAIM-137: Kinds identified by a realization-free invariant
 
 ## The claim
 

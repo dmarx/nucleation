@@ -3,7 +3,13 @@ number: 618
 status: Proposed
 formerly:
 - CLAIM-tmpk1015
-title: 'Indexed by a system''s control parameters, the compatibility complex of its synchronization demands gives each set of demands a region where they can be met together; an Arnold tongue is a locking region, where a demand is met by an attracting state, and each locking region lies inside the compatibility region of the same demands without needing to equal it'
+title: 'Arnold tongues are compatibility regions'
+statement: >-
+  Indexed by a system's control parameters, the compatibility complex of its
+  synchronization demands gives each set of demands a region where they can
+  be met together; an Arnold tongue is a locking region, where a demand is
+  met by an attracting state, and each locking region lies inside the
+  compatibility region of the same demands without needing to equal it
 version: 2
 history:
 - version: 2
@@ -61,7 +67,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-061 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-555 — Proposed; cited as the parameter-space nerve this claim is set beside -->
 
-# CLAIM-618: Indexed by a system's control parameters, the compatibility complex of its synchronization demands gives each set of demands a region where they can be met together; an Arnold tongue is a locking region, where a demand is met by an attracting state, and each locking region lies inside the compatibility region of the same demands without needing to equal it
+# CLAIM-618: Arnold tongues are compatibility regions
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 87
 status: Proposed
 formerly:
 - CLAIM-tmpovy47
-title: 'Cross-modal reconstruction often improves a receiver''s access to an implicit communicative relation beyond the text-only baseline, as when posture or expression conveys solidarity better than the source text''s literal content, though a rendering made without the situation is a garbling and cannot improve what an ideal receiver could do'
+title: 'Cross-modal renderings can improve access'
+statement: >-
+  Cross-modal reconstruction often improves a receiver's access to an
+  implicit communicative relation beyond the text-only baseline, as when
+  posture or expression conveys solidarity better than the source text's
+  literal content, though a rendering made without the situation is a
+  garbling and cannot improve what an ideal receiver could do
 version: 4
 history:
 - version: 2
@@ -66,7 +72,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-087: Cross-modal reconstruction often improves a receiver's access to an implicit communicative relation beyond the text-only baseline, as when posture or expression conveys solidarity better than the source text's literal content, though a rendering made without the situation is a garbling and cannot improve what an ideal receiver could do
+# CLAIM-087: Cross-modal renderings can improve access
 
 ## The claim
 

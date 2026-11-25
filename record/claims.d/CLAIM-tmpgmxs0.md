@@ -1,6 +1,10 @@
 ---
 status: Proposed
-title: "The record's framework positions it to characterize precisely what is wrong or deficient in originalist, unitary-executive and, more broadly, conservative theories, each in its own respect"
+title: 'Framework can diagnose conservative theories'
+statement: >-
+  The record's framework positions it to characterize precisely what is
+  wrong or deficient in originalist, unitary-executive and, more broadly,
+  conservative theories, each in its own respect
 version: 1
 role: thesis
 warrant: interpretive
@@ -30,7 +34,7 @@ summary: >-
 
 <!-- inactive-ok-file: ARG-tmptjsx2 ARG-tmpx1cys ARG-tmpz2gmo CLAIM-tmp1wlu2 CLAIM-tmp9v9yl CLAIM-tmpa8tdg CLAIM-tmpawbfn CLAIM-tmpazcha CLAIM-tmpdzcj6 CLAIM-tmplc0vv CLAIM-tmplc4m8 CLAIM-tmpmp2wh CLAIM-tmpqhxsz CLAIM-tmpr2qzg TERM-tmpx4zke — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# CLAIM-tmpgmxs0: The record's framework positions it to characterize precisely what is wrong or deficient in originalist, unitary-executive and, more broadly, conservative theories, each in its own respect
+# CLAIM-tmpgmxs0: Framework can diagnose conservative theories
 
 ## The claim
 

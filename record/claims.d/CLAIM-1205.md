@@ -3,7 +3,15 @@ number: 1205
 status: Proposed
 formerly:
 - CLAIM-tmpzo914
-title: 'A non-monotone generalisation of folding-island coverage, counting a component as covered only when the first seed front to reach it forces it, does not transfer to a kinetic constraint-growth system: it ranks seed sets worse than the monotone island union and flags many times more harmful additions than occur, because the seeds that hurt there have large islands and act through the order in which components reach the binding threshold'
+title: 'Non-monotone island coverage does not transfer'
+statement: >-
+  A non-monotone generalisation of folding-island coverage, counting a
+  component as covered only when the first seed front to reach it forces it,
+  does not transfer to a kinetic constraint-growth system: it ranks seed
+  sets worse than the monotone island union and flags many times more
+  harmful additions than occur, because the seeds that hurt there have large
+  islands and act through the order in which components reach the binding
+  threshold
 version: 1
 history:
 - version: 1
@@ -50,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-389 — new; the executed study this claim is grounded in, filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-1204 — new; the post hoc predictor's claim, filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1205: A non-monotone generalisation of folding-island coverage, counting a component as covered only when the first seed front to reach it forces it, does not transfer to a kinetic constraint-growth system: it ranks seed sets worse than the monotone island union and flags many times more harmful additions than occur, because the seeds that hurt there have large islands and act through the order in which components reach the binding threshold
+# CLAIM-1205: Non-monotone island coverage does not transfer
 
 ## The claim
 

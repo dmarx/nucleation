@@ -3,7 +3,12 @@ number: 285
 status: Proposed
 formerly:
 - CLAIM-tmpxuigm
-title: 'A grant scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation'
+title: 'Policy-based rewards make delegation do work'
+statement: >-
+  A grant scheme that denies each operator control over its own authority
+  can make delegation do work: rewarded for how far their preferred policies
+  are realized and not for authority held, operators delegate to aligned
+  others, and the two conditions need not be confined to one-hop allocation
 version: 5
 history:
 - version: 2
@@ -97,7 +102,7 @@ bears_on:
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); named in the history as the term of its time -->
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-285: A grant scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation
+# CLAIM-285: Policy-based rewards make delegation do work
 
 ## The claim
 

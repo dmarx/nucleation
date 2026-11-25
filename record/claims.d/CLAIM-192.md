@@ -3,7 +3,11 @@ number: 192
 status: Proposed
 formerly:
 - CLAIM-tmppevte
-title: 'A multi-session argument''s thesis can move without any participant arguing for the move, which is a case of an organized whole''s course coming apart from its members'' intentions'
+title: 'Thesis moves with no one arguing it'
+statement: >-
+  A multi-session argument's thesis can move without any participant arguing
+  for the move, which is a case of an organized whole's course coming apart
+  from its members' intentions
 version: 2
 history:
 - version: 2
@@ -53,7 +57,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
-# CLAIM-192: A multi-session argument's thesis can move without any participant arguing for the move, which is a case of an organized whole's course coming apart from its members' intentions
+# CLAIM-192: Thesis moves with no one arguing it
 
 ## The claim
 

@@ -3,7 +3,15 @@ number: 1083
 status: Active
 formerly:
 - CLAIM-tmpdsu37
-title: 'In the compressed diffusion-wavelet chain, where each level''s operator is the orthogonal compression of the square of the one before onto the columns kept, the distance between the subspace kept at a level and an invariant subspace of the same dimension is at most the accumulated truncation residual divided by the smallest singular value of the dyadic power on that subspace, so a level is definite when its kept spectrum stands well above the residual and not at a gapless threshold'
+title: 'Kept levels are definite above the residual'
+statement: >-
+  In the compressed diffusion-wavelet chain, where each level's operator is
+  the orthogonal compression of the square of the one before onto the
+  columns kept, the distance between the subspace kept at a level and an
+  invariant subspace of the same dimension is at most the accumulated
+  truncation residual divided by the smallest singular value of the dyadic
+  power on that subspace, so a level is definite when its kept spectrum
+  stands well above the residual and not at a gapless threshold
 version: 2
 history:
 - version: 2
@@ -56,7 +64,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-2306 LIT-3195 NOTE-2414 — new, Unfetched and new; the directed construction read for this bound, the report it stands in for, and its reading, filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1083: In the compressed diffusion-wavelet chain, where each level's operator is the orthogonal compression of the square of the one before onto the columns kept, the distance between the subspace kept at a level and an invariant subspace of the same dimension is at most the accumulated truncation residual divided by the smallest singular value of the dyadic power on that subspace, so a level is definite when its kept spectrum stands well above the residual and not at a gapless threshold
+# CLAIM-1083: Kept levels are definite above the residual
 
 ## The claim
 

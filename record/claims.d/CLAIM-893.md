@@ -3,7 +3,17 @@ number: 893
 status: Proposed
 formerly:
 - CLAIM-tmp186gy
-title: 'For a linear coarse-graining of a linear Gaussian VAR, with an external target, Mori''s projection, excess error against the optimal predictor over two steps and a dimension budget declared, the five conditions on an effective description obey exactly three entailments: dynamical independence entails memory closure in VAR(1) but not in VAR(2); sufficiency, independence and memory closure together entail fidelity; and exact fidelity entails sufficiency; so leaving one out, independence and tractability can fail alone, memory closure only from VAR(2), sufficiency only at a positive tolerance, and fidelity never'
+title: 'Three entailments among five conditions'
+statement: >-
+  For a linear coarse-graining of a linear Gaussian VAR, with an external
+  target, Mori's projection, excess error against the optimal predictor over
+  two steps and a dimension budget declared, the five conditions on an
+  effective description obey exactly three entailments: dynamical
+  independence entails memory closure in VAR(1) but not in VAR(2);
+  sufficiency, independence and memory closure together entail fidelity; and
+  exact fidelity entails sufficiency; so leaving one out, independence and
+  tractability can fail alone, memory closure only from VAR(2), sufficiency
+  only at a positive tolerance, and fidelity never
 version: 1
 role: thesis
 warrant: demonstrated
@@ -42,7 +52,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-327 CLAIM-894 — new; the study this claim rests on and the alternative declaration filed beside it -->
 
-# CLAIM-893: For a linear coarse-graining of a linear Gaussian VAR, with an external target, Mori's projection, excess error against the optimal predictor over two steps and a dimension budget declared, the five conditions on an effective description obey exactly three entailments: dynamical independence entails memory closure in VAR(1) but not in VAR(2); sufficiency, independence and memory closure together entail fidelity; and exact fidelity entails sufficiency; so leaving one out, independence and tractability can fail alone, memory closure only from VAR(2), sufficiency only at a positive tolerance, and fidelity never
+# CLAIM-893: Three entailments among five conditions
 
 ## The claim
 

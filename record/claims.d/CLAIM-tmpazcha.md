@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: "An organization's formative specification and the relationships, capacities and dependencies acquired through its continuing realization are distinct objects, so fidelity to the specification's historical meaning can coexist with drift in what the organization does, and cannot by itself establish the present organization's adequacy or the legitimate scope of the specification's continuing authority"
+title: 'Specification fidelity can coexist with drift'
+statement: >-
+  An organization's formative specification and the relationships,
+  capacities and dependencies acquired through its continuing realization
+  are distinct objects, so fidelity to the specification's historical
+  meaning can coexist with drift in what the organization does, and cannot
+  by itself establish the present organization's adequacy or the legitimate
+  scope of the specification's continuing authority
 version: 1
 role: thesis
 warrant: interpretive
@@ -36,7 +43,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmpmp2wh CLAIM-tmpr2qzg LIT-tmp4h6yz LIT-tmpdsowf — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# CLAIM-tmpazcha: An organization's formative specification and the relationships, capacities and dependencies acquired through its continuing realization are distinct objects, so fidelity to the specification's historical meaning can coexist with drift in what the organization does, and cannot by itself establish the present organization's adequacy or the legitimate scope of the specification's continuing authority
+# CLAIM-tmpazcha: Specification fidelity can coexist with drift
 
 ## The claim
 

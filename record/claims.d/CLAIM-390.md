@@ -3,7 +3,13 @@ number: 390
 status: Active
 formerly:
 - CLAIM-tmpymy0a
-title: 'For a block of coordinates in a stable linear Gaussian VAR(1), dynamical dependence is at most ½ log det(I + Σ_YY⁻¹ A_YR C A_YRᵀ), with A_YR the coupling into the block and C the covariance of the rest given the block''s present state, so it is of second order in the coupling into the block, whatever the coupling out of it'
+title: 'A bound on a block''s dynamical dependence'
+statement: >-
+  For a block of coordinates in a stable linear Gaussian VAR(1), dynamical
+  dependence is at most ½ log det(I + Σ_YY⁻¹ A_YR C A_YRᵀ), with A_YR the
+  coupling into the block and C the covariance of the rest given the block's
+  present state, so it is of second order in the coupling into the block,
+  whatever the coupling out of it
 version: 2
 history:
 - version: 2
@@ -43,7 +49,7 @@ works:
 - governance-of-possibility
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account whose dependence this bounds, open -->
-# CLAIM-390: For a block of coordinates in a stable linear Gaussian VAR(1), dynamical dependence is at most ½ log det(I + Σ_YY⁻¹ A_YR C A_YRᵀ), with A_YR the coupling into the block and C the covariance of the rest given the block's present state, so it is of second order in the coupling into the block, whatever the coupling out of it
+# CLAIM-390: A bound on a block's dynamical dependence
 
 ## The claim
 

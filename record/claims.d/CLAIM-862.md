@@ -3,7 +3,15 @@ number: 862
 status: Proposed
 formerly:
 - CLAIM-tmpvq33w
-title: 'In the KPZ interface, the ordered Toner–Tu flock and the two-dimensional XY phase, a symmetry or a conservation law protects a coupling or forbids a restoring term, so that scale-free behaviour holds over a whole phase with nothing tuned; a perturbation that breaks the protection, such as an explicit preferred direction, a finite interaction range or, for KPZ, more than two dimensions at weak coupling, restores a characteristic scale or puts a tuned point back'
+title: 'Protected couplings give scale-free phases'
+statement: >-
+  In the KPZ interface, the ordered Toner–Tu flock and the two-dimensional
+  XY phase, a symmetry or a conservation law protects a coupling or forbids
+  a restoring term, so that scale-free behaviour holds over a whole phase
+  with nothing tuned; a perturbation that breaks the protection, such as an
+  explicit preferred direction, a finite interaction range or, for KPZ, more
+  than two dimensions at weak coupling, restores a characteristic scale or
+  puts a tuned point back
 version: 1
 role: thesis
 warrant: interpretive
@@ -49,7 +57,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2202 THEORY-2198 THEORY-2199 THEORY-2206 THEORY-2197 — Proposed; the readings of 2026-11-22 this claim rests on -->
 <!-- inactive-ok-file: CLAIM-841 TERM-139 THEORY-1095 — Proposed; the claim this complements and the entries it uses -->
 
-# CLAIM-862: In the KPZ interface, the ordered Toner–Tu flock and the two-dimensional XY phase, a symmetry or a conservation law protects a coupling or forbids a restoring term, so that scale-free behaviour holds over a whole phase with nothing tuned; a perturbation that breaks the protection, such as an explicit preferred direction, a finite interaction range or, for KPZ, more than two dimensions at weak coupling, restores a characteristic scale or puts a tuned point back
+# CLAIM-862: Protected couplings give scale-free phases
 
 ## The gap it fills
 

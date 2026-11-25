@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'A heuristic can be a compiled contract, a protocol that settles a recurring conflict among processes without renegotiating it, and some biases can be such a protocol still governing where the assumptions that made it adequate no longer hold'
+title: 'A heuristic can be a compiled contract'
+statement: >-
+  A heuristic can be a compiled contract, a protocol that settles a
+  recurring conflict among processes without renegotiating it, and some
+  biases can be such a protocol still governing where the assumptions that
+  made it adequate no longer hold
 version: 1
 role: thesis
 warrant: interpretive
@@ -39,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-358 CLAIM-tmp7hqtl — Proposed; cited as filed or held beside this entry, whatever its standing -->
 
-# CLAIM-tmpysg95: A heuristic can be a compiled contract, a protocol that settles a recurring conflict among processes without renegotiating it, and some biases can be such a protocol still governing where the assumptions that made it adequate no longer hold
+# CLAIM-tmpysg95: A heuristic can be a compiled contract
 
 ## The claim
 

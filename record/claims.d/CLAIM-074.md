@@ -3,7 +3,14 @@ number: 74
 status: Active
 formerly:
 - CLAIM-tmpk2ltq
-title: 'Fidelity is relative to the interpreter''s learning history: what the current context supplies and what earlier experience has left in the interpreter are separate histories, told apart by what they carry and not by whether the change sits in activations or in weights, so fidelity under a fixed interpreter, across interpreters and across states of adaptation are different quantities'
+title: 'Fidelity is relative to learning history'
+statement: >-
+  Fidelity is relative to the interpreter's learning history: what the
+  current context supplies and what earlier experience has left in the
+  interpreter are separate histories, told apart by what they carry and not
+  by whether the change sits in activations or in weights, so fidelity under
+  a fixed interpreter, across interpreters and across states of adaptation
+  are different quantities
 version: 5
 history:
 - version: 2
@@ -67,7 +74,7 @@ bears_on:
 - QUESTION-075
 ---
 
-# CLAIM-074: Fidelity is relative to the interpreter's learning history: what the current context supplies and what earlier experience has left in the interpreter are separate histories, told apart by what they carry and not by whether the change sits in activations or in weights, so fidelity under a fixed interpreter, across interpreters and across states of adaptation are different quantities
+# CLAIM-074: Fidelity is relative to learning history
 
 ## The claim
 

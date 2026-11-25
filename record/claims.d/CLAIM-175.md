@@ -3,7 +3,11 @@ number: 175
 status: Active
 formerly:
 - CLAIM-tmpygda8
-title: 'A partner-dancing couple, while dancing, is one combined cognitive form on the extended-mind thesis''s own terms, more clearly than Otto and his notebook, and merits a name of its own'
+title: 'A dancing couple is one combined cognitive form'
+statement: >-
+  A partner-dancing couple, while dancing, is one combined cognitive form on
+  the extended-mind thesis's own terms, more clearly than Otto and his
+  notebook, and merits a name of its own
 version: 3
 history:
 - version: 2
@@ -64,7 +68,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-579 — Proposed; named in the history as the reading the grounds moved from -->
 <!-- inactive-ok-file: CLAIM-165 — Proposed; the objection this replies to, narrowed in answer -->
 
-# CLAIM-175: A partner-dancing couple, while dancing, is one combined cognitive form on the extended-mind thesis's own terms, more clearly than Otto and his notebook, and merits a name of its own
+# CLAIM-175: A dancing couple is one combined cognitive form
 
 ## The claim
 

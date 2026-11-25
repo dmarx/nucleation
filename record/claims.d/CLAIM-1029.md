@@ -3,7 +3,15 @@ number: 1029
 status: Active
 formerly:
 - CLAIM-tmp5wozo
-title: 'In a population built on the coupled meaning–influence model, grants indexed by role with the critic role scored by observed relevance leave neither belief factions nor capture, while scalar grants fail one way or the other: scored by agreement they capture the population or split it into factions, and moved by the reward for realized policy they split it into factions that read only their own side; indexing by role without a separate score buys nothing'
+title: 'Role-indexed grants avoid factions and capture'
+statement: >-
+  In a population built on the coupled meaning–influence model, grants
+  indexed by role with the critic role scored by observed relevance leave
+  neither belief factions nor capture, while scalar grants fail one way or
+  the other: scored by agreement they capture the population or split it
+  into factions, and moved by the reward for realized policy they split it
+  into factions that read only their own side; indexing by role without a
+  separate score buys nothing
 version: 3
 history:
 - version: 2
@@ -62,7 +70,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-281 CLAIM-285 — Proposed; the claims tested and the built model, cited as open -->
 
-# CLAIM-1029: In a population built on the coupled meaning–influence model, grants indexed by role with the critic role scored by observed relevance leave neither belief factions nor capture, while scalar grants fail one way or the other: scored by agreement they capture the population or split it into factions, and moved by the reward for realized policy they split it into factions that read only their own side; indexing by role without a separate score buys nothing
+# CLAIM-1029: Role-indexed grants avoid factions and capture
 
 ## The claim
 

@@ -3,13 +3,15 @@ number: 1084
 status: Active
 formerly:
 - CLAIM-tmpdvgrf
-title: When demands are predicates on histories with deadlines, the sets of
-  them an organization can jointly meet under its response architecture and
+title: 'Demands can be compatible statically, not in time'
+statement: >-
+  When demands are predicates on histories with deadlines, the sets of them
+  an organization can jointly meet under its response architecture and
   budget form a downward-closed complex contained in the complex of the same
   demands without deadlines, so two demands can be compatible statically and
   incompatible in time, and a change in the response architecture, faster
-  actuation, different sequencing, staged capacity or a new method, can enlarge
-  the temporal complex without weakening any demand
+  actuation, different sequencing, staged capacity or a new method, can
+  enlarge the temporal complex without weakening any demand
 version: 3
 history:
 - version: 2
@@ -57,7 +59,7 @@ works:
 ---
 
 
-# CLAIM-1084: When demands are predicates on histories with deadlines, the sets of them an organization can jointly meet under its response architecture and budget form a downward-closed complex contained in the complex of the same demands without deadlines, so two demands can be compatible statically and incompatible in time, and a change in the response architecture, faster actuation, different sequencing, staged capacity or a new method, can enlarge the temporal complex without weakening any demand
+# CLAIM-1084: Demands can be compatible statically, not in time
 
 ## The construction (A44 §8)
 

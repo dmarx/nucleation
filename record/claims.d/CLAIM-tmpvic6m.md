@@ -1,6 +1,15 @@
 ---
 status: Active
-title: 'In a linear model of a representation''s cultural salience and its material or organizational realization, each decaying alone and each raising the other, the representation''s circulation amplifies its own realization exactly when the product of the two gains exceeds the product of the two decay rates, so hyperstitional efficacy is a property of the coupling between a representation and the activity that can realize it, not of the representation; it is the continuous-time form of the meaning–authority condition'
+title: 'Circulation amplifies realization if gains win'
+statement: >-
+  In a linear model of a representation's cultural salience and its material
+  or organizational realization, each decaying alone and each raising the
+  other, the representation's circulation amplifies its own realization
+  exactly when the product of the two gains exceeds the product of the two
+  decay rates, so hyperstitional efficacy is a property of the coupling
+  between a representation and the activity that can realize it, not of the
+  representation; it is the continuous-time form of the meaning–authority
+  condition
 version: 2
 history:
 - version: 2
@@ -43,7 +52,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-426 — Proposed; the held claim whose open item this narrows, and the gap fill filed with it -->
 
-# CLAIM-tmpvic6m: In a linear model of a representation's cultural salience and its material or organizational realization, each decaying alone and each raising the other, the representation's circulation amplifies its own realization exactly when the product of the two gains exceeds the product of the two decay rates, so hyperstitional efficacy is a property of the coupling between a representation and the activity that can realize it, not of the representation; it is the continuous-time form of the meaning–authority condition
+# CLAIM-tmpvic6m: Circulation amplifies realization if gains win
 
 ## The claim
 

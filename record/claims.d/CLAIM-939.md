@@ -3,7 +3,12 @@ number: 939
 status: Proposed
 formerly:
 - CLAIM-tmp8xj7x
-title: 'Information-bottleneck optima are nested at every pair of budgets whenever p(Y|x) takes at most two distinct values, for any finite Y: the region where F_β exceeds its convex envelope is a single interval, because r(1 − r) Σ_y Δ_y²/s_y(r) is concave, and that interval only widens as β grows'
+title: 'Two-valued p(Y|x) gives nested IB optima'
+statement: >-
+  Information-bottleneck optima are nested at every pair of budgets whenever
+  p(Y|x) takes at most two distinct values, for any finite Y: the region
+  where F_β exceeds its convex envelope is a single interval, because r(1 −
+  r) Σ_y Δ_y²/s_y(r) is concave, and that interval only widens as β grows
 version: 1
 role: thesis
 warrant: demonstrated
@@ -44,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-940 CASE-360 — new; filed with this claim from LEAD-039 -->
 
-# CLAIM-939: Information-bottleneck optima are nested at every pair of budgets whenever p(Y|x) takes at most two distinct values, for any finite Y: the region where F_β exceeds its convex envelope is a single interval, because r(1 − r) Σ_y Δ_y²/s_y(r) is concave, and that interval only widens as β grows
+# CLAIM-939: Two-valued p(Y|x) gives nested IB optima
 
 ## The claim
 

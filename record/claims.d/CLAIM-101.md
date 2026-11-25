@@ -3,7 +3,12 @@ number: 101
 status: Superseded
 formerly:
 - CLAIM-tmpt20oo
-title: 'Translation is a context-conditioned transport process that preserves selected structures of communicative meaning to varying degrees while introducing distortions that may accumulate, attenuate or amplify under composition'
+title: 'Translation as context-conditioned transport'
+statement: >-
+  Translation is a context-conditioned transport process that preserves
+  selected structures of communicative meaning to varying degrees while
+  introducing distortions that may accumulate, attenuate or amplify under
+  composition
 version: 1
 role: thesis
 warrant: interpretive
@@ -30,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-026 CLAIM-124 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
-# CLAIM-101: Translation is a context-conditioned transport process that preserves selected structures of communicative meaning to varying degrees while introducing distortions that may accumulate, attenuate or amplify under composition
+# CLAIM-101: Translation as context-conditioned transport
 
 ## The claim
 

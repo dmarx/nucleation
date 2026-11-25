@@ -3,7 +3,15 @@ number: 401
 status: Active
 formerly:
 - CLAIM-tmpcrdhj
-title: 'The conditions an effective description is commonly asked to meet are not of one kind: predictive sufficiency and approximation fidelity are adequacy relative to a declared target, metric and horizon; tractability restricts the operations under which adequacy is assessed; dynamical independence and memory closure are relations of the representation to the system, memory relative to a chosen projection; so a matrix over them as independent binary axes conflates kinds'
+title: 'Effective-description conditions differ in kind'
+statement: >-
+  The conditions an effective description is commonly asked to meet are not
+  of one kind: predictive sufficiency and approximation fidelity are
+  adequacy relative to a declared target, metric and horizon; tractability
+  restricts the operations under which adequacy is assessed; dynamical
+  independence and memory closure are relations of the representation to the
+  system, memory relative to a chosen projection; so a matrix over them as
+  independent binary axes conflates kinds
 version: 5
 history:
 - version: 2
@@ -91,7 +99,7 @@ summary: >-
   the axes of a comparison. It does not say the five reduce to three.
 ---
 
-# CLAIM-401: The conditions an effective description is commonly asked to meet are not of one kind: predictive sufficiency and approximation fidelity are adequacy relative to a declared target, metric and horizon; tractability restricts the operations under which adequacy is assessed; dynamical independence and memory closure are relations of the representation to the system, memory relative to a chosen projection; so a matrix over them as independent binary axes conflates kinds
+# CLAIM-401: Effective-description conditions differ in kind
 
 ## The claim
 

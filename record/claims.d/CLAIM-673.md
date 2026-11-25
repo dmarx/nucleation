@@ -3,7 +3,13 @@ number: 673
 status: Active
 formerly:
 - CLAIM-tmp09pjt
-title: 'Where the capacities a collective needs to govern an arrangement are learned by exercise and lost with disuse, and the arrangement does the work through which they are exercised, the arrangement can erode the capacity to govern it, so that whether a collective can correct an arrangement is not independent of the arrangement'
+title: 'An arrangement can erode the capacity to govern it'
+statement: >-
+  Where the capacities a collective needs to govern an arrangement are
+  learned by exercise and lost with disuse, and the arrangement does the
+  work through which they are exercised, the arrangement can erode the
+  capacity to govern it, so that whether a collective can correct an
+  arrangement is not independent of the arrangement
 version: 5
 history:
 - version: 2
@@ -87,7 +93,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-603 — Proposed; the record's account of dependency against division of labour, cited with its standing -->
 <!-- inactive-ok-file: CASE-262 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
-# CLAIM-673: Where the capacities a collective needs to govern an arrangement are learned by exercise and lost with disuse, and the arrangement does the work through which they are exercised, the arrangement can erode the capacity to govern it, so that whether a collective can correct an arrangement is not independent of the arrangement
+# CLAIM-673: An arrangement can erode the capacity to govern it
 
 ## The claim
 

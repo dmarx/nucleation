@@ -3,7 +3,12 @@ number: 864
 status: Proposed
 formerly:
 - CLAIM-tmpylhdj
-title: 'Inbound rests_on and grounds edges do not move a claim''s text out of the part still open to revision: at matched age, cited claims are revised more often than uncited ones, so the settling claim''s defeater (a) is met and that claim is false as it stands'
+title: 'Cited claims are revised more, not less'
+statement: >-
+  Inbound rests_on and grounds edges do not move a claim's text out of the
+  part still open to revision: at matched age, cited claims are revised more
+  often than uncited ones, so the settling claim's defeater (a) is met and
+  that claim is false as it stands
 version: 1
 history:
 - version: 1
@@ -44,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-307 CLAIM-772 CLAIM-778 CLAIM-863 — Proposed, Rejected, Deferred or new; the entries this filing made or touched -->
 
-# CLAIM-864: Inbound rests_on and grounds edges do not move a claim's text out of the part still open to revision: at matched age, cited claims are revised more often than uncited ones, so the settling claim's defeater (a) is met and that claim is false as it stands
+# CLAIM-864: Cited claims are revised more, not less
 
 **One of two readings of [CASE-307](../cases.d/CASE-307.md); the other is [CLAIM-863](CLAIM-863.md).** This is the reading that takes [CLAIM-778](CLAIM-778.md) at its word. Its defeater (a) was stated in advance, and the count meets it: at matched age, cited claims are revised more, not less. [CLAIM-778](CLAIM-778.md)'s admission foresaw the route ("If heavily cited entries draw more audits and revisions, because scrutiny follows citation, substantive revision rises with inbound edges while every premise holds") and said a result like this "shows the claim false rather than merely separate".
 

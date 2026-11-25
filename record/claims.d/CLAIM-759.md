@@ -3,7 +3,18 @@ number: 759
 status: Active
 formerly:
 - CLAIM-tmpj540o
-title: 'A symmetry of the data gives a network a balanced partition of its units where the symmetry group acts on the units by permuting them: weights fixed by such an action make the group act by automorphisms of the weighted unit graph, whose orbits are always a balanced partition; where the group acts only on the inputs, or on hidden coordinates by an orthogonal mixing that maps no unit onto a multiple of another, data symmetry fixes no partition of units; and for a vocabulary of at least five tokens larger than a layer''s width, the relabelling group can permute that layer''s units only through the sign of the relabelling, as a group of order at most two'
+title: 'Data symmetry partitions units only by permutation'
+statement: >-
+  A symmetry of the data gives a network a balanced partition of its units
+  where the symmetry group acts on the units by permuting them: weights
+  fixed by such an action make the group act by automorphisms of the
+  weighted unit graph, whose orbits are always a balanced partition; where
+  the group acts only on the inputs, or on hidden coordinates by an
+  orthogonal mixing that maps no unit onto a multiple of another, data
+  symmetry fixes no partition of units; and for a vocabulary of at least
+  five tokens larger than a layer's width, the relabelling group can permute
+  that layer's units only through the sign of the relabelling, as a group of
+  order at most two
 version: 2
 history:
 - version: 2
@@ -71,7 +82,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2055 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-2035 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-759: A symmetry of the data gives a network a balanced partition of its units where the symmetry group acts on the units by permuting them: weights fixed by such an action make the group act by automorphisms of the weighted unit graph, whose orbits are always a balanced partition; where the group acts only on the inputs, or on hidden coordinates by an orthogonal mixing that maps no unit onto a multiple of another, data symmetry fixes no partition of units; and for a vocabulary of at least five tokens larger than a layer's width, the relabelling group can permute that layer's units only through the sign of the relabelling, as a group of order at most two
+# CLAIM-759: Data symmetry partitions units only by permutation
 
 ## The derivation
 

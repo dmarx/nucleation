@@ -3,7 +3,14 @@ number: 1115
 status: Active
 formerly:
 - CLAIM-tmpj15c6
-title: "At one budget, the questions an agent can formulate and the answers it can attain once a question is supplied do not fix which question–answer pairs it can attain together, but their budget-indexed families do when the costs of formulating and answering compose by a declared rule; what is left over is the rule, and where the way a question is formulated changes what answering it costs, not even the least costs fix it"
+title: 'Question and answer sets need a composition rule'
+statement: >-
+  At one budget, the questions an agent can formulate and the answers it can
+  attain once a question is supplied do not fix which question–answer pairs
+  it can attain together, but their budget-indexed families do when the
+  costs of formulating and answering compose by a declared rule; what is
+  left over is the rule, and where the way a question is formulated changes
+  what answering it costs, not even the least costs fix it
 version: 3
 history:
 - version: 2
@@ -64,7 +71,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1016 — Proposed; the claim this supports, its argument, the authorization fill and the bounds filed from A52 and A54 -->
 
-# CLAIM-1115: At one budget, the questions an agent can formulate and the answers it can attain once a question is supplied do not fix which question–answer pairs it can attain together, but their budget-indexed families do when the costs of formulating and answering compose by a declared rule; what is left over is the rule, and where the way a question is formulated changes what answering it costs, not even the least costs fix it
+# CLAIM-1115: Question and answer sets need a composition rule
 
 ## The gap
 

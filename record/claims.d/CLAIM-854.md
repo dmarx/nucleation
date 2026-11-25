@@ -3,7 +3,13 @@ number: 854
 status: Proposed
 formerly:
 - CLAIM-tmp2r6ur
-title: "The most informative signal in a learned spectrum lies in a truncated band: the top directions carry common, weakly discriminating structure, as stop words do in a corpus, the extreme bottom carries low-signal outliers, as rare words do, and once both are cut, the bottom of the retained band holds the most discriminating directions"
+title: 'Discrimination peaks in a truncated band'
+statement: >-
+  The most informative signal in a learned spectrum lies in a truncated
+  band: the top directions carry common, weakly discriminating structure, as
+  stop words do in a corpus, the extreme bottom carries low-signal outliers,
+  as rare words do, and once both are cut, the bottom of the retained band
+  holds the most discriminating directions
 version: 2
 history:
 - version: 2
@@ -51,7 +57,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2162 ARG-162 TERM-143 CLAIM-835 — Proposed or new; the reading, its argument, its test and the term it uses -->
 <!-- inactive-ok-file: LIT-3047 THEORY-2185 THEORY-2186 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-854: The most informative signal in a learned spectrum lies in a truncated band: the top directions carry common, weakly discriminating structure, as stop words do in a corpus, the extreme bottom carries low-signal outliers, as rare words do, and once both are cut, the bottom of the retained band holds the most discriminating directions
+# CLAIM-854: Discrimination peaks in a truncated band
 
 **The owner's claim.** "this connects to classic NLP pre-processing for topic modeling, e.g. where both the most common (stop words) and least common (low signal outliers) are often eliminated to distill signal in a text corpus. i.e. the most informative signal is in the truncated spectrum, and the bottom of that spectrum is often characterized by highly discriminating directions."
 

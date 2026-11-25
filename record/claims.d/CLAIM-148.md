@@ -3,7 +3,14 @@ number: 148
 status: Active
 formerly:
 - CLAIM-tmpro4wi
-title: 'A matrix factorization is identified only up to an invertible change of latent coordinates, which weight decay narrows to rotations and nonnegativity to rescalings and permutations plus a data-dependent remainder; such a gauge is not a symmetry of the relational system, and automorphisms of the data act on the factors only when the factorization is identifiable'
+title: 'Factorizations identified only up to gauge'
+statement: >-
+  A matrix factorization is identified only up to an invertible change of
+  latent coordinates, which weight decay narrows to rotations and
+  nonnegativity to rescalings and permutations plus a data-dependent
+  remainder; such a gauge is not a symmetry of the relational system, and
+  automorphisms of the data act on the factors only when the factorization
+  is identifiable
 version: 4
 history:
 - version: 2
@@ -66,7 +73,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-180 — Proposed; named as the parents of the Active entries now cited, not leaned on -->
 
-# CLAIM-148: A matrix factorization is identified only up to an invertible change of latent coordinates, which weight decay narrows to rotations and nonnegativity to rescalings and permutations plus a data-dependent remainder; such a gauge is not a symmetry of the relational system, and automorphisms of the data act on the factors only when the factorization is identifiable
+# CLAIM-148: Factorizations identified only up to gauge
 
 ## The claim
 

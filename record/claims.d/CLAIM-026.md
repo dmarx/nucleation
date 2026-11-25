@@ -3,7 +3,11 @@ number: 26
 status: Superseded
 formerly:
 - CLAIM-tmp817r3
-title: 'Translation is not the transmission of an invariant semantic object but the selective preservation of decision-relevant information across changing observational and interpretive structures'
+title: 'Translation preserves what decisions need'
+statement: >-
+  Translation is not the transmission of an invariant semantic object but
+  the selective preservation of decision-relevant information across
+  changing observational and interpretive structures
 version: 1
 role: thesis
 warrant: interpretive
@@ -31,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-124 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# CLAIM-026: Translation is not the transmission of an invariant semantic object but the selective preservation of decision-relevant information across changing observational and interpretive structures
+# CLAIM-026: Translation preserves what decisions need
 
 ## The claim
 

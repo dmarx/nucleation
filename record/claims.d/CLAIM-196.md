@@ -3,7 +3,11 @@ number: 196
 status: Proposed
 formerly:
 - CLAIM-tmp37bdg
-title: 'A person''s roles in contexts that do not meet cannot contradict one another: role conflict needs an overlap, which segregating audiences prevents and collapsed contexts create'
+title: 'Roles in disjoint contexts cannot conflict'
+statement: >-
+  A person's roles in contexts that do not meet cannot contradict one
+  another: role conflict needs an overlap, which segregating audiences
+  prevents and collapsed contexts create
 version: 1
 history:
 - version: 1
@@ -54,7 +58,7 @@ uses:
 <!-- inactive-ok-file: CLAIM-198 — Proposed; the diachronic partner of this claim, open -->
 <!-- inactive-ok-file: NOTE-1432 — Skimmed; the reading of boyd the dated note cites -->
 
-# CLAIM-196: A person's roles in contexts that do not meet cannot contradict one another: role conflict needs an overlap, which segregating audiences prevents and collapsed contexts create
+# CLAIM-196: Roles in disjoint contexts cannot conflict
 
 ## The claim
 

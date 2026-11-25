@@ -3,7 +3,12 @@ number: 36
 status: Superseded
 formerly:
 - CLAIM-tmpartp6
-title: 'Communicative meaning is constituted through systems of distinctions and relations, and translation transports these systems, selectively preserving or transforming their differential, probabilistic and interactional structure'
+title: 'Translation transports systems of distinctions'
+statement: >-
+  Communicative meaning is constituted through systems of distinctions and
+  relations, and translation transports these systems, selectively
+  preserving or transforming their differential, probabilistic and
+  interactional structure
 version: 1
 role: thesis
 warrant: interpretive
@@ -31,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-015 CLAIM-108 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-082 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-036: Communicative meaning is constituted through systems of distinctions and relations, and translation transports these systems, selectively preserving or transforming their differential, probabilistic and interactional structure
+# CLAIM-036: Translation transports systems of distinctions
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 1003
 status: Proposed
 formerly:
 - CLAIM-tmp11j0f
-title: 'An organization can lose adaptability by two routes, becoming less able to answer new questions or its institutions becoming less able to ask them; the second is harder to detect, since a question nobody formulates leaves no recorded failure to answer it, so an ecosystem can grow better at its established questions while becoming less able to answer unfamiliar ones and to discover which of them matter'
+title: 'Losing the ability to ask is harder to detect'
+statement: >-
+  An organization can lose adaptability by two routes, becoming less able to
+  answer new questions or its institutions becoming less able to ask them;
+  the second is harder to detect, since a question nobody formulates leaves
+  no recorded failure to answer it, so an ecosystem can grow better at its
+  established questions while becoming less able to answer unfamiliar ones
+  and to discover which of them matter
 version: 1
 role: thesis
 warrant: interpretive
@@ -41,7 +48,7 @@ summary: >-
   is the owner's call.
 ---
 
-# CLAIM-1003: An organization can lose adaptability by two routes, becoming less able to answer new questions or its institutions becoming less able to ask them; the second is harder to detect, since a question nobody formulates leaves no recorded failure to answer it, so an ecosystem can grow better at its established questions while becoming less able to answer unfamiliar ones and to discover which of them matter
+# CLAIM-1003: Losing the ability to ask is harder to detect
 
 ## The claim
 

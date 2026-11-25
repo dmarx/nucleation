@@ -3,7 +3,13 @@ number: 955
 status: Proposed
 formerly:
 - CLAIM-tmpvn59f
-title: 'Fit to engagement data and stability over time favour clusters that exposure made, and classes a platform uses, over genres that exist in preferences, so neither can warrant an engagement category as a kind; a closure test conditioned on exposure and scored on randomized exposure, against a control partition built from exposure, can tell them apart'
+title: 'Fit and stability favour exposure-made clusters'
+statement: >-
+  Fit to engagement data and stability over time favour clusters that
+  exposure made, and classes a platform uses, over genres that exist in
+  preferences, so neither can warrant an engagement category as a kind; a
+  closure test conditioned on exposure and scored on randomized exposure,
+  against a control partition built from exposure, can tell them apart
 version: 1
 role: thesis
 warrant: empirical
@@ -45,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-296 — Proposed; the case whose test this claim reports -->
 <!-- inactive-ok-file: CASE-367 — new; the study this claim reports -->
 
-# CLAIM-955: Fit to engagement data and stability over time favour clusters that exposure made, and classes a platform uses, over genres that exist in preferences, so neither can warrant an engagement category as a kind; a closure test conditioned on exposure and scored on randomized exposure, against a control partition built from exposure, can tell them apart
+# CLAIM-955: Fit and stability favour exposure-made clusters
 
 ## The claim
 

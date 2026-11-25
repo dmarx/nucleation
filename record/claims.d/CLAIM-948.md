@@ -3,7 +3,15 @@ number: 948
 status: Active
 formerly:
 - CLAIM-tmpw3bak
-title: 'The coupled meaning–influence model reduced to two specialists and scalar authority is a weighted-averaging opinion model with two stubborn sources whose weights relax toward an agreement kernel, so it adds nothing to that class; against fixed-weight and reflected-appraisal models, and against Gaussian bounded confidence off a balanced corpus, it produces authority chosen by the initial interpretation and switched by the evidence with hysteresis, which they cannot'
+title: 'Two-specialist model is stubborn-source averaging'
+statement: >-
+  The coupled meaning–influence model reduced to two specialists and scalar
+  authority is a weighted-averaging opinion model with two stubborn sources
+  whose weights relax toward an agreement kernel, so it adds nothing to that
+  class; against fixed-weight and reflected-appraisal models, and against
+  Gaussian bounded confidence off a balanced corpus, it produces authority
+  chosen by the initial interpretation and switched by the evidence with
+  hysteresis, which they cannot
 version: 2
 history:
 - version: 1
@@ -60,7 +68,7 @@ summary: >-
   the owner's call.
 ---
 
-# CLAIM-948: The coupled meaning–influence model reduced to two specialists and scalar authority is a weighted-averaging opinion model with two stubborn sources whose weights relax toward an agreement kernel, so it adds nothing to that class; against fixed-weight and reflected-appraisal models, and against Gaussian bounded confidence off a balanced corpus, it produces authority chosen by the initial interpretation and switched by the evidence with hysteresis, which they cannot
+# CLAIM-948: Two-specialist model is stubborn-source averaging
 
 ## The claim
 

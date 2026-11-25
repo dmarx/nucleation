@@ -3,7 +3,11 @@ number: 119
 status: Proposed
 formerly:
 - CLAIM-tmpykenz
-title: 'Communicative categories form a concept lattice rather than a hierarchy: categories such as affectionate teasing and sarcastic condemnation share attributes and differ in a few social-relational constraints'
+title: 'Communicative categories form a concept lattice'
+statement: >-
+  Communicative categories form a concept lattice rather than a hierarchy:
+  categories such as affectionate teasing and sarcastic condemnation share
+  attributes and differ in a few social-relational constraints
 version: 2
 history:
 - version: 2
@@ -36,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-267 — Proposed or open; cited as a qualification and an open question, not as settled -->
 <!-- inactive-ok-file: LIT-344 — Unavailable; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 
-# CLAIM-119: Communicative categories form a concept lattice rather than a hierarchy: categories such as affectionate teasing and sarcastic condemnation share attributes and differ in a few social-relational constraints
+# CLAIM-119: Communicative categories form a concept lattice
 
 ## The claim
 

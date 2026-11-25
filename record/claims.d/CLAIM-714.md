@@ -3,7 +3,14 @@ number: 714
 formerly:
 - CLAIM-tmp0wx69
 status: Proposed
-title: "A present incapacity to recognize a violation does not show that the incapacitated party is not responsible for the incapacity: where it dismantled the capability in breach of a duty, the incapacity is a consequence of its earlier wrong and does not excuse it, the same failure of responsiveness differs in significance with its history, and where no one is culpable for the incapacity the duty to repair still stands"
+title: 'Self-made incapacity does not excuse'
+statement: >-
+  A present incapacity to recognize a violation does not show that the
+  incapacitated party is not responsible for the incapacity: where it
+  dismantled the capability in breach of a duty, the incapacity is a
+  consequence of its earlier wrong and does not excuse it, the same failure
+  of responsiveness differs in significance with its history, and where no
+  one is culpable for the incapacity the duty to repair still stands
 version: 1
 role: thesis
 warrant: interpretive
@@ -41,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-114 CASE-291 CLAIM-721 CLAIM-733 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-624 — Proposed; the record's nearest entries, cited with their standing -->
 
-# CLAIM-714: A present incapacity to recognize a violation does not show that the incapacitated party is not responsible for the incapacity: where it dismantled the capability in breach of a duty, the incapacity is a consequence of its earlier wrong and does not excuse it, the same failure of responsiveness differs in significance with its history, and where no one is culpable for the incapacity the duty to repair still stands
+# CLAIM-714: Self-made incapacity does not excuse
 
 ## The claim
 

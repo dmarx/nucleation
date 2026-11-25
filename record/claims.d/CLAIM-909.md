@@ -3,7 +3,16 @@ number: 909
 status: Proposed
 formerly:
 - CLAIM-tmpduscr
-title: 'Matched constructions discriminate between contractualism and an account of rightful power only when they hold fixed what a power''s holder would do with it, as a perfectly reliable decider or a reviser known to do what the subjects would choose does; there the verdict turns on whether a reason to hold or share a power, apart from its use, is an input reasonable rejection admits, and the protective explanation of the stated constructions makes their verdicts depend on how reliable the holder can feasibly be made'
+title: 'Discrimination needs the holder''s use fixed'
+statement: >-
+  Matched constructions discriminate between contractualism and an account
+  of rightful power only when they hold fixed what a power's holder would do
+  with it, as a perfectly reliable decider or a reviser known to do what the
+  subjects would choose does; there the verdict turns on whether a reason to
+  hold or share a power, apart from its use, is an input reasonable
+  rejection admits, and the protective explanation of the stated
+  constructions makes their verdicts depend on how reliable the holder can
+  feasibly be made
 version: 1
 role: thesis
 warrant: interpretive
@@ -54,7 +63,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-336 CLAIM-908 CLAIM-913 CLAIM-911 CLAIM-912 — new, filed for LEAD-033 -->
 <!-- inactive-ok-file: THEORY-1967 THEORY-1988 THEORY-1977 — Proposed; Scanlon's reply, Wenar, and Scanlon's later paper -->
 
-# CLAIM-909: Matched constructions discriminate between contractualism and an account of rightful power only when they hold fixed what a power's holder would do with it, as a perfectly reliable decider or a reviser known to do what the subjects would choose does; there the verdict turns on whether a reason to hold or share a power, apart from its use, is an input reasonable rejection admits, and the protective explanation of the stated constructions makes their verdicts depend on how reliable the holder can feasibly be made
+# CLAIM-909: Discrimination needs the holder's use fixed
 
 ## Why the stated constructions do not discriminate
 

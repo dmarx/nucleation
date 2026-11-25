@@ -3,7 +3,13 @@ number: 313
 status: Active
 formerly:
 - CLAIM-tmpie11s
-title: 'A fixed number of bins realizes one partition only when each item is stored once: with copies, overlapping partitions coexist, as hashing-based similarity search stores each item in many partitions and pays for it in space, so sortings conflict as arrangements only under a one-copy constraint, which binds bricks but not index entries'
+title: 'With copies, overlapping partitions coexist'
+statement: >-
+  A fixed number of bins realizes one partition only when each item is
+  stored once: with copies, overlapping partitions coexist, as hashing-based
+  similarity search stores each item in many partitions and pays for it in
+  space, so sortings conflict as arrangements only under a one-copy
+  constraint, which binds bricks but not index entries
 version: 2
 history:
 - version: 2
@@ -45,7 +51,7 @@ summary: >-
   about descriptions.
 ---
 
-# CLAIM-313: A fixed number of bins realizes one partition only when each item is stored once: with copies, overlapping partitions coexist, as hashing-based similarity search stores each item in many partitions and pays for it in space, so sortings conflict as arrangements only under a one-copy constraint, which binds bricks but not index entries
+# CLAIM-313: With copies, overlapping partitions coexist
 
 ## The objection
 

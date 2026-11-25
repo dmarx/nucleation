@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'A provider whose realized reliability exceeds its declared guarantee can lower the resilience of the organization built on it: those who depend on it stop maintaining the fallbacks the guarantee would require, so its rare failures propagate, and holding realized reliability near the declared level keeps their expectations at the guarantee'
+title: 'Over-reliable providers lower resilience'
+statement: >-
+  A provider whose realized reliability exceeds its declared guarantee can
+  lower the resilience of the organization built on it: those who depend on
+  it stop maintaining the fallbacks the guarantee would require, so its rare
+  failures propagate, and holding realized reliability near the declared
+  level keeps their expectations at the guarantee
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +49,7 @@ rests_on:
 
 <!-- inactive-ok-file: ARG-tmptccms CASE-tmp3xxqg CLAIM-603 CLAIM-677 LIT-tmpihhfs — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
-# CLAIM-tmpb1wyc: A provider whose realized reliability exceeds its declared guarantee can lower the resilience of the organization built on it: those who depend on it stop maintaining the fallbacks the guarantee would require, so its rare failures propagate, and holding realized reliability near the declared level keeps their expectations at the guarantee
+# CLAIM-tmpb1wyc: Over-reliable providers lower resilience
 
 ## The claim
 

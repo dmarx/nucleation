@@ -3,7 +3,12 @@ number: 492
 status: Active
 formerly:
 - CLAIM-tmprudek
-title: "If the self is defined to include whatever an agent cares about, the claim that all motivation serves the self is true by definition and rules nothing out; the thesis has content only with a criterion of the self's extent that can come apart from what the agent cares about"
+title: 'Self-interest by definition rules nothing out'
+statement: >-
+  If the self is defined to include whatever an agent cares about, the claim
+  that all motivation serves the self is true by definition and rules
+  nothing out; the thesis has content only with a criterion of the self's
+  extent that can come apart from what the agent cares about
 version: 2
 history:
 - version: 2
@@ -51,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-491 THEORY-1114 — Proposed, Open or Deferred; the thesis objected to, its question, an unread work and a reading named as an example -->
 <!-- inactive-ok-file: LIT-1683 — Unavailable; Sober and Wilson, named for the objection's lineage and read at second hand in Stich (NOTE-1282), nothing here rests on it -->
 
-# CLAIM-492: If the self is defined to include whatever an agent cares about, the claim that all motivation serves the self is true by definition and rules nothing out; the thesis has content only with a criterion of the self's extent that can come apart from what the agent cares about
+# CLAIM-492: Self-interest by definition rules nothing out
 
 ## The claim
 

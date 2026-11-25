@@ -3,7 +3,14 @@ number: 1038
 status: Proposed
 formerly:
 - CLAIM-tmp6thmv
-title: "Diversity indicates an ecosystem's richness because differentiated constituents that persist preserve partially independent routes through its possibility space, including questions not yet asked and responses not yet demanded, so diversity of consequential capabilities, not the number of constituents, tracks richness, and it is a generally informative proxy rather than a quantity that always rises with richness"
+title: 'Diversity tracks richness via independent routes'
+statement: >-
+  Diversity indicates an ecosystem's richness because differentiated
+  constituents that persist preserve partially independent routes through
+  its possibility space, including questions not yet asked and responses not
+  yet demanded, so diversity of consequential capabilities, not the number
+  of constituents, tracks richness, and it is a generally informative proxy
+  rather than a quantity that always rises with richness
 version: 1
 role: thesis
 warrant: interpretive
@@ -56,7 +63,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1034 CLAIM-1042 CLAIM-754 TERM-158 ARG-222 ARG-226 THEORY-148 CLAIM-1002 CLAIM-1177 — Proposed, Open or new; the owner's thesis, the term, the check, the arguments and the reading that bounds it -->
 
-# CLAIM-1038: Diversity indicates an ecosystem's richness because differentiated constituents that persist preserve partially independent routes through its possibility space, including questions not yet asked and responses not yet demanded, so diversity of consequential capabilities, not the number of constituents, tracks richness, and it is a generally informative proxy rather than a quantity that always rises with richness
+# CLAIM-1038: Diversity tracks richness via independent routes
 
 ## The claim
 

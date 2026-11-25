@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'Persistent reproduction of a meme can nucleate related but distinct perspectives: once reproduced apart from the perspective that produced it, a meme is taken up by carriers whose own characters it seeds differently, so its circulation can diversify the perspectives it touches rather than copy one, as in the death of the author'
+title: 'Memes can diversify the perspectives they touch'
+statement: >-
+  Persistent reproduction of a meme can nucleate related but distinct
+  perspectives: once reproduced apart from the perspective that produced it,
+  a meme is taken up by carriers whose own characters it seeds differently,
+  so its circulation can diversify the perspectives it touches rather than
+  copy one, as in the death of the author
 version: 2
 history:
 - version: 2
@@ -49,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmp1ng5k CLAIM-tmp4mk0t CLAIM-tmphi3mx CLAIM-171 CLAIM-621 — Proposed; the owner's readings and the held claims this extends -->
 <!-- inactive-ok-file: LIT-tmpflbme — Deferred; Barthes's essay, registered for this claim and not read -->
 
-# CLAIM-tmp590sw: Persistent reproduction of a meme can nucleate related but distinct perspectives: once reproduced apart from the perspective that produced it, a meme is taken up by carriers whose own characters it seeds differently, so its circulation can diversify the perspectives it touches rather than copy one, as in the death of the author
+# CLAIM-tmp590sw: Memes can diversify the perspectives they touch
 
 ## The claim
 

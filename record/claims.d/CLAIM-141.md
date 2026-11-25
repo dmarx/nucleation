@@ -3,7 +3,13 @@ number: 141
 status: Active
 formerly:
 - CLAIM-tmpc4chg
-title: 'Causal-loop consistency and sheaf contextuality are both local-to-global problems, but passing to distributions affects them oppositely: a loop with no deterministic solution has a distributional fixed point, while a model with no global section in its supports has no global distribution either'
+title: 'Distributions help loops, not contextuality'
+statement: >-
+  Causal-loop consistency and sheaf contextuality are both local-to-global
+  problems, but passing to distributions affects them oppositely: a loop
+  with no deterministic solution has a distributional fixed point, while a
+  model with no global section in its supports has no global distribution
+  either
 version: 2
 history:
 - version: 2
@@ -50,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-037 CLAIM-044 CLAIM-127 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-813 — Superseded; withdrawn by its authors, and cited only to say that A161 recommended it as current -->
 
-# CLAIM-141: Causal-loop consistency and sheaf contextuality are both local-to-global problems, but passing to distributions affects them oppositely: a loop with no deterministic solution has a distributional fixed point, while a model with no global section in its supports has no global distribution either
+# CLAIM-141: Distributions help loops, not contextuality
 
 ## The claim
 

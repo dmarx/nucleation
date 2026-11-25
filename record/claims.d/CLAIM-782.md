@@ -3,7 +3,13 @@ number: 782
 status: Proposed
 formerly:
 - CLAIM-tmpz7t76
-title: 'Whether slowing an exchange without anchoring anything reduces drift as much as anchoring does turns on whether drift accrues per restatement or per unit of time: if per restatement, an idea never coded drifts through every restatement it gets at any pace, and only anchoring bounds it; if per unit of time, slowing can reduce it, and the rival can hold'
+title: 'Slowing vs anchoring turns on drift''s clock'
+statement: >-
+  Whether slowing an exchange without anchoring anything reduces drift as
+  much as anchoring does turns on whether drift accrues per restatement or
+  per unit of time: if per restatement, an idea never coded drifts through
+  every restatement it gets at any pace, and only anchoring bounds it; if
+  per unit of time, slowing can reduce it, and the rival can hold
 version: 1
 role: thesis
 warrant: interpretive
@@ -34,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-777 CLAIM-773 CLAIM-186 CLAIM-191 — Proposed; the claims this rests on -->
 
-# CLAIM-782: Whether slowing an exchange without anchoring anything reduces drift as much as anchoring does turns on whether drift accrues per restatement or per unit of time: if per restatement, an idea never coded drifts through every restatement it gets at any pace, and only anchoring bounds it; if per unit of time, slowing can reduce it, and the rival can hold
+# CLAIM-782: Slowing vs anchoring turns on drift's clock
 
 ## The claim
 

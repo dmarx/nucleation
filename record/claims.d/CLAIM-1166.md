@@ -3,7 +3,14 @@ number: 1166
 status: Proposed
 formerly:
 - CLAIM-tmprq0nb
-title: 'On the BERT anaphora data only Contextuality-by-Default 2.0 gives a single verdict once signalling is allowed: the sheaf figure is that of a sufficient test, and the sheaf-side readings that are exact give other figures, one of them at least as large as the CbD figure, so the comparison supports the thesis that formal contextuality on such data needs Contextuality-by-Default'
+title: 'BERT anaphora: only CbD 2.0 gives one verdict'
+statement: >-
+  On the BERT anaphora data only Contextuality-by-Default 2.0 gives a single
+  verdict once signalling is allowed: the sheaf figure is that of a
+  sufficient test, and the sheaf-side readings that are exact give other
+  figures, one of them at least as large as the CbD figure, so the
+  comparison supports the thesis that formal contextuality on such data
+  needs Contextuality-by-Default
 version: 1
 role: thesis
 warrant: interpretive
@@ -41,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-037 — Proposed; the thesis this reading supports, cited as under test -->
 <!-- inactive-ok-file: CLAIM-1176 CASE-417 CLAIM-1164 CLAIM-1207 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1166: On the BERT anaphora data only Contextuality-by-Default 2.0 gives a single verdict once signalling is allowed: the sheaf figure is that of a sufficient test, and the sheaf-side readings that are exact give other figures, one of them at least as large as the CbD figure, so the comparison supports the thesis that formal contextuality on such data needs Contextuality-by-Default
+# CLAIM-1166: BERT anaphora: only CbD 2.0 gives one verdict
 
 ## The claim
 

@@ -3,7 +3,12 @@ number: 272
 status: Active
 formerly:
 - CLAIM-tmp2cza3
-title: 'Giving every member an equal budget of actions does not equalize their influence: coordination is one route, letting a member''s plan direct other members'' actions, so a cap on self-allocation constrains action and not authority'
+title: 'Equal action budgets do not equalize influence'
+statement: >-
+  Giving every member an equal budget of actions does not equalize their
+  influence: coordination is one route, letting a member's plan direct other
+  members' actions, so a cap on self-allocation constrains action and not
+  authority
 version: 4
 history:
 - version: 2
@@ -78,7 +83,7 @@ bears_on:
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-272: Giving every member an equal budget of actions does not equalize their influence: coordination is one route, letting a member's plan direct other members' actions, so a cap on self-allocation constrains action and not authority
+# CLAIM-272: Equal action budgets do not equalize influence
 
 ## The claim
 

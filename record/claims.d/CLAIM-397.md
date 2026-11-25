@@ -3,7 +3,13 @@ number: 397
 status: Active
 formerly:
 - CLAIM-tmp511ss
-title: 'For a scalar stationary process with autocovariance C, the Mori–Zwanzig memory kernels for the projection onto the current value are fixed by C alone, through C(m+1) = Σ_{k≤m} c_k C(m−k); the memory vanishes iff C is geometric, and when C has finite Hankel rank d the memory has Hankel rank exactly d − 1'
+title: 'Scalar memory kernels fixed by autocovariance'
+statement: >-
+  For a scalar stationary process with autocovariance C, the Mori–Zwanzig
+  memory kernels for the projection onto the current value are fixed by C
+  alone, through C(m+1) = Σ_{k≤m} c_k C(m−k); the memory vanishes iff C is
+  geometric, and when C has finite Hankel rank d the memory has Hankel rank
+  exactly d − 1
 version: 2
 history:
 - version: 2
@@ -44,7 +50,7 @@ bears_on:
 - QUESTION-222
 ---
 
-# CLAIM-397: For a scalar stationary process with autocovariance C, the Mori–Zwanzig memory kernels for the projection onto the current value are fixed by C alone, through C(m+1) = Σ_{k≤m} c_k C(m−k); the memory vanishes iff C is geometric, and when C has finite Hankel rank d the memory has Hankel rank exactly d − 1
+# CLAIM-397: Scalar memory kernels fixed by autocovariance
 
 ## The claim
 

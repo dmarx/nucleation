@@ -3,7 +3,13 @@ number: 1117
 status: Proposed
 formerly:
 - CLAIM-tmpjg4h2
-title: "The cost of making a proposal legible to the authority that controls its resources is not a property of the idea but of how an institution distributes interpretive labour, so an institution can steer which questions are pursued by deciding who must pay to make them legible, with no rule against any idea"
+title: 'Legibility cost steers which questions are pursued'
+statement: >-
+  The cost of making a proposal legible to the authority that controls its
+  resources is not a property of the idea but of how an institution
+  distributes interpretive labour, so an institution can steer which
+  questions are pursued by deciding who must pay to make them legible, with
+  no rule against any idea
 version: 1
 role: thesis
 warrant: interpretive
@@ -40,7 +46,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-731 THEORY-857 — Proposed; the premise, the neighbour A56 cites and a reading the assistant points to -->
 
-# CLAIM-1117: The cost of making a proposal legible to the authority that controls its resources is not a property of the idea but of how an institution distributes interpretive labour, so an institution can steer which questions are pursued by deciding who must pay to make them legible, with no rule against any idea
+# CLAIM-1117: Legibility cost steers which questions are pursued
 
 ## The claim
 

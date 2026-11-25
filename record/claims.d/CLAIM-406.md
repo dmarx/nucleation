@@ -3,7 +3,14 @@ number: 406
 status: Active
 formerly:
 - CLAIM-tmpoxld9
-title: 'Structural, pre-emptive testimonial injustice has the form of the record''s trust loop: an arrangement that decides whose word is sought can keep an early exclusion going through the indicators of competence that only being sought produces, with no continuing prejudiced act; but the loop alone cannot tell perpetuated privilege from merited expertise, because that needs the prejudice condition the dynamics do not contain'
+title: 'Pre-emptive testimonial injustice is a trust loop'
+statement: >-
+  Structural, pre-emptive testimonial injustice has the form of the record's
+  trust loop: an arrangement that decides whose word is sought can keep an
+  early exclusion going through the indicators of competence that only being
+  sought produces, with no continuing prejudiced act; but the loop alone
+  cannot tell perpetuated privilege from merited expertise, because that
+  needs the prejudice condition the dynamics do not contain
 version: 9
 history:
 - version: 2
@@ -105,7 +112,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-276 THEORY-317 THEORY-326 THEORY-145 THEORY-151 — Proposed; claims and readings this one cites where it bears, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-1723 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-406: Structural, pre-emptive testimonial injustice has the form of the record's trust loop: an arrangement that decides whose word is sought can keep an early exclusion going through the indicators of competence that only being sought produces, with no continuing prejudiced act; but the loop alone cannot tell perpetuated privilege from merited expertise, because that needs the prejudice condition the dynamics do not contain
+# CLAIM-406: Pre-emptive testimonial injustice is a trust loop
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 1098
 status: Active
 formerly:
 - CLAIM-tmpg8m7a
-title: 'In the toy model of superposition trained by plain SGD on squared error, a feature whose output is silenced for every input and whose input excites no output gets an exactly zero gradient from every sample, so no learning rate, batch size or training time revives it; at the 5-gon the dropped feature is such a feature for as long as the other biases stay non-positive'
+title: 'Silenced features get exactly zero gradient'
+statement: >-
+  In the toy model of superposition trained by plain SGD on squared error, a
+  feature whose output is silenced for every input and whose input excites
+  no output gets an exactly zero gradient from every sample, so no learning
+  rate, batch size or training time revives it; at the 5-gon the dropped
+  feature is such a feature for as long as the other biases stay
+  non-positive
 version: 2
 history:
 - version: 2
@@ -45,7 +52,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1353 — Proposed; Dong's test of a temperature, cited as the neighbouring point -->
 
-# CLAIM-1098: In the toy model of superposition trained by plain SGD on squared error, a feature whose output is silenced for every input and whose input excites no output gets an exactly zero gradient from every sample, so no learning rate, batch size or training time revives it; at the 5-gon the dropped feature is such a feature for as long as the other biases stay non-positive
+# CLAIM-1098: Silenced features get exactly zero gradient
 
 ## The claim
 

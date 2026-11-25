@@ -3,7 +3,17 @@ number: 771
 status: Proposed
 formerly:
 - CLAIM-tmpcvuyr
-title: 'A transformer''s depth orders its processing in coarse stages around a broad middle that is robust to intervention but not redundant, refining one prediction while its representation drifts, rather than ascending through levels of knowledge: early layers are distinct and sensitive, middle layers can be skipped, reordered or run in parallel with graceful loss though not replaced by copies of one layer, and an ordering of linguistic information by layer, overlapping in the middle and revised per example from above, is the main evidence against reading depth as refinement alone'
+title: 'Transformer depth: coarse stages, robust middle'
+statement: >-
+  A transformer's depth orders its processing in coarse stages around a
+  broad middle that is robust to intervention but not redundant, refining
+  one prediction while its representation drifts, rather than ascending
+  through levels of knowledge: early layers are distinct and sensitive,
+  middle layers can be skipped, reordered or run in parallel with graceful
+  loss though not replaced by copies of one layer, and an ordering of
+  linguistic information by layer, overlapping in the middle and revised per
+  example from above, is the main evidence against reading depth as
+  refinement alone
 version: 2
 history:
 - version: 2
@@ -71,7 +81,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2140 THEORY-2145 THEORY-2144 THEORY-2132 THEORY-2134 THEORY-1030 — Proposed; readings this claim now rests on -->
 <!-- inactive-ok-file: CLAIM-767 CLAIM-478 CLAIM-774 CLAIM-781 — Proposed or Deferred; the claims this rests on and the works read only by abstract -->
 
-# CLAIM-771: A transformer's depth orders its processing in coarse stages around a broad middle that is robust to intervention but not redundant, refining one prediction while its representation drifts, rather than ascending through levels of knowledge: early layers are distinct and sensitive, middle layers can be skipped, reordered or run in parallel with graceful loss though not replaced by copies of one layer, and an ordering of linguistic information by layer, overlapping in the middle and revised per example from above, is the main evidence against reading depth as refinement alone
+# CLAIM-771: Transformer depth: coarse stages, robust middle
 
 ## The claim
 

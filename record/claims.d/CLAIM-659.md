@@ -3,7 +3,13 @@ number: 659
 status: Proposed
 formerly:
 - CLAIM-tmpn0ytb
-title: 'Microchimerism, cells of mother and offspring persisting in each other for decades and some of them taking part in the host''s regulation, bears on the view that biological individuality is graded or processual: the separation that gestation begins is not completed at birth at the level of cells'
+title: 'Microchimerism: separation unfinished at birth'
+statement: >-
+  Microchimerism, cells of mother and offspring persisting in each other for
+  decades and some of them taking part in the host's regulation, bears on
+  the view that biological individuality is graded or processual: the
+  separation that gestation begins is not completed at birth at the level of
+  cells
 version: 1
 role: thesis
 warrant: empirical
@@ -54,7 +60,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-443 — Proposed; evolutionary against physiological individuality -->
 <!-- inactive-ok-file: TERM-083 — Proposed; moral standing, which the claim does not reach -->
 
-# CLAIM-659: Microchimerism, cells of mother and offspring persisting in each other for decades and some of them taking part in the host's regulation, bears on the view that biological individuality is graded or processual: the separation that gestation begins is not completed at birth at the level of cells
+# CLAIM-659: Microchimerism: separation unfinished at birth
 
 ## The claim
 

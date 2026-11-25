@@ -3,7 +3,13 @@ number: 1020
 status: Proposed
 formerly:
 - CLAIM-tmp41bjo
-title: 'When a language model''s logit representation is the output of a final layer norm with a bias, every context representation has the same component along the direction proportional to the reciprocals of the gains, so the representations span the whole space when that common component is nonzero and only a hyperplane when it is zero'
+title: 'Final-layer-norm bias fixes a common component'
+statement: >-
+  When a language model's logit representation is the output of a final
+  layer norm with a bias, every context representation has the same
+  component along the direction proportional to the reciprocals of the
+  gains, so the representations span the whole space when that common
+  component is nonzero and only a hyperplane when it is zero
 version: 1
 history:
 - version: 1
@@ -45,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-398 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1020: When a language model's logit representation is the output of a final layer norm with a bias, every context representation has the same component along the direction proportional to the reciprocals of the gains, so the representations span the whole space when that common component is nonzero and only a hyperplane when it is zero
+# CLAIM-1020: Final-layer-norm bias fixes a common component
 
 ## The claim
 

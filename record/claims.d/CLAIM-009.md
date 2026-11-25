@@ -3,7 +3,11 @@ number: 9
 status: Proposed
 formerly:
 - CLAIM-tmp1ycte
-title: 'Pragmatic judgements may be formally contextual: their context-relative distributions may admit no global extension once direct context effects are accounted for'
+title: 'Pragmatic judgements may be contextual'
+statement: >-
+  Pragmatic judgements may be formally contextual: their context-relative
+  distributions may admit no global extension once direct context effects
+  are accounted for
 version: 2
 history:
 - version: 2
@@ -35,7 +39,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-013 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
-# CLAIM-009: Pragmatic judgements may be formally contextual: their context-relative distributions may admit no global extension once direct context effects are accounted for
+# CLAIM-009: Pragmatic judgements may be contextual
 
 ## The claim
 

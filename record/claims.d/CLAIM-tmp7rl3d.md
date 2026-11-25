@@ -1,6 +1,14 @@
 ---
 status: Proposed
-title: 'Taking each party''s reading of an ambiguous expression as a demand on their joint outcomes, clarifying a consequential misunderstanding relieves frustration by a new distinction only where the readings'' demands bear on different situations the expression conflated; where they demand different joint outcomes in the same situation, no distinction relieves them, only an outcome that meets both, and settling on one reading or rewording the demands is not relief'
+title: 'Clarifying helps only where situations conflated'
+statement: >-
+  Taking each party's reading of an ambiguous expression as a demand on
+  their joint outcomes, clarifying a consequential misunderstanding relieves
+  frustration by a new distinction only where the readings' demands bear on
+  different situations the expression conflated; where they demand different
+  joint outcomes in the same situation, no distinction relieves them, only
+  an outcome that meets both, and settling on one reading or rewording the
+  demands is not relief
 version: 1
 role: thesis
 warrant: demonstrated
@@ -43,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpm76n5 CLAIM-tmpupcws CLAIM-tmpisfi1 — Proposed; the components and the owner's thesis it qualifies -->
 
-# CLAIM-tmp7rl3d: Taking each party's reading of an ambiguous expression as a demand on their joint outcomes, clarifying a consequential misunderstanding relieves frustration by a new distinction only where the readings' demands bear on different situations the expression conflated; where they demand different joint outcomes in the same situation, no distinction relieves them, only an outcome that meets both, and settling on one reading or rewording the demands is not relief
+# CLAIM-tmp7rl3d: Clarifying helps only where situations conflated
 
 ## Admission ([ADR-075](../decisions.d/ADR-075.md)): a derivation
 

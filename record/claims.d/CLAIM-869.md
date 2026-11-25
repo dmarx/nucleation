@@ -3,7 +3,13 @@ number: 869
 status: Proposed
 formerly:
 - CLAIM-tmp3twn6
-title: 'Read as sensitivity to one flipped cell, the coupling inside a Game of Life block is zero at every horizon while a single birth on its border destroys it, so the gap-isolated block test does not pick out the block, alone or in the gun; the property that keeps the block in being, its cells'' tolerance of one another''s loss, is what reads as no coupling'
+title: 'Block test misses the Life block'
+statement: >-
+  Read as sensitivity to one flipped cell, the coupling inside a Game of
+  Life block is zero at every horizon while a single birth on its border
+  destroys it, so the gap-isolated block test does not pick out the block,
+  alone or in the gun; the property that keeps the block in being, its
+  cells' tolerance of one another's loss, is what reads as no coupling
 version: 1
 role: thesis
 warrant: demonstrated
@@ -47,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-311 CLAIM-871 CLAIM-870 — new; the study this claim reports and the two readings filed with it -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the criterion tested and the constructions it is tested on -->
 
-# CLAIM-869: Read as sensitivity to one flipped cell, the coupling inside a Game of Life block is zero at every horizon while a single birth on its border destroys it, so the gap-isolated block test does not pick out the block, alone or in the gun; the property that keeps the block in being, its cells' tolerance of one another's loss, is what reads as no coupling
+# CLAIM-869: Block test misses the Life block
 
 ## The claim
 

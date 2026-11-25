@@ -3,7 +3,14 @@ number: 623
 status: Proposed
 formerly:
 - CLAIM-tmprmy7a
-title: "Forgetting a hidden mechanism can turn a sheaf of histories into a presheaf of realizable observations that is not a sheaf: when the union of two overlapping intervals is itself an observable context, two observed histories can each be realizable and agree on their overlap with no realization of their union, so a gluing failure need not show a disagreement on an overlap or a cycle of three contexts"
+title: 'Forgetting a mechanism can break gluing'
+statement: >-
+  Forgetting a hidden mechanism can turn a sheaf of histories into a
+  presheaf of realizable observations that is not a sheaf: when the union of
+  two overlapping intervals is itself an observable context, two observed
+  histories can each be realizable and agree on their overlap with no
+  realization of their union, so a gluing failure need not show a
+  disagreement on an overlap or a cycle of three contexts
 version: 2
 history:
 - version: 2
@@ -55,7 +62,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-224 — filed from the same exchange, Proposed -->
 
-# CLAIM-623: Forgetting a hidden mechanism can turn a sheaf of histories into a presheaf of realizable observations that is not a sheaf: when the union of two overlapping intervals is itself an observable context, two observed histories can each be realizable and agree on their overlap with no realization of their union, so a gluing failure need not show a disagreement on an overlap or a cycle of three contexts
+# CLAIM-623: Forgetting a mechanism can break gluing
 
 ## The claim
 

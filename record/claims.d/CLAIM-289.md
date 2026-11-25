@@ -3,7 +3,11 @@ number: 289
 status: Active
 formerly:
 - CLAIM-tmp75182
-title: 'Non-stochastic strings stay non-stochastic under total recursive models: their minimal randomness deficiency agrees with the finite-set one to within O(log n) in argument and value'
+title: 'Non-stochasticity survives recursive models'
+statement: >-
+  Non-stochastic strings stay non-stochastic under total recursive models:
+  their minimal randomness deficiency agrees with the finite-set one to
+  within O(log n) in argument and value
 version: 1
 role: thesis
 warrant: demonstrated
@@ -32,7 +36,7 @@ summary: >-
   defined at constant precision.
 ---
 
-# CLAIM-289: Non-stochastic strings stay non-stochastic under total recursive models: their minimal randomness deficiency agrees with the finite-set one to within O(log n) in argument and value
+# CLAIM-289: Non-stochasticity survives recursive models
 
 ## The claim
 

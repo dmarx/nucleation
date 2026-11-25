@@ -3,7 +3,12 @@ number: 914
 status: Proposed
 formerly:
 - CLAIM-tmpt226r
-title: "Golub and Jackson's characterization of wisdom by a vanishing largest influence weight fails in its sufficient direction when a society has many closed groups, and holds with several closed groups when their number m satisfies s_1 log m → 0, in particular when it is bounded"
+title: 'Golub–Jackson wisdom fails with many closed groups'
+statement: >-
+  Golub and Jackson's characterization of wisdom by a vanishing largest
+  influence weight fails in its sufficient direction when a society has many
+  closed groups, and holds with several closed groups when their number m
+  satisfies s_1 log m → 0, in particular when it is bounded
 version: 1
 history:
 - version: 1
@@ -56,7 +61,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-340 — Proposed; the construction this claim rests on, filed in the same batch -->
 
-# CLAIM-914: Golub and Jackson's characterization of wisdom by a vanishing largest influence weight fails in its sufficient direction when a society has many closed groups, and holds with several closed groups when their number m satisfies s_1 log m → 0, in particular when it is bounded
+# CLAIM-914: Golub–Jackson wisdom fails with many closed groups
 
 ## The claim
 

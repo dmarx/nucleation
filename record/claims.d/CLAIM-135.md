@@ -3,7 +3,12 @@ number: 135
 status: Active
 formerly:
 - CLAIM-tmp59oav
-title: 'Recovering latent structure from relational data is three achievements, reconstruction, identification up to stated ambiguities, and constitution of a communicative kind, and identifiability theory reaches the second at most'
+title: 'Recovering structure is three achievements'
+statement: >-
+  Recovering latent structure from relational data is three achievements,
+  reconstruction, identification up to stated ambiguities, and constitution
+  of a communicative kind, and identifiability theory reaches the second at
+  most
 version: 3
 history:
 - version: 2
@@ -57,7 +62,7 @@ bears_on:
 - QUESTION-001
 ---
 
-# CLAIM-135: Recovering latent structure from relational data is three achievements, reconstruction, identification up to stated ambiguities, and constitution of a communicative kind, and identifiability theory reaches the second at most
+# CLAIM-135: Recovering structure is three achievements
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 815
 status: Proposed
 formerly:
 - CLAIM-tmpdusls
-title: 'The exponent 3/2 shared by critical branching cascades and first passage of a random walk comes from one identity, the hitting-time theorem: the chance of total size s, or of first passage at time t, is 1/s or 1/t times a local probability that falls as the inverse square root at balance, so 3/2 = 1 + 1/2'
+title: 'Exponent 3/2 from the hitting-time theorem'
+statement: >-
+  The exponent 3/2 shared by critical branching cascades and first passage
+  of a random walk comes from one identity, the hitting-time theorem: the
+  chance of total size s, or of first passage at time t, is 1/s or 1/t times
+  a local probability that falls as the inverse square root at balance, so
+  3/2 = 1 + 1/2
 version: 2
 history:
 - version: 2
@@ -52,7 +58,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-2169 ARG-165 — Proposed; Newman's reading and the argument that it does not carry this claim -->
 <!-- inactive-ok-file: THEORY-2177 — Proposed; the reading of Reed and Hughes, 2026-11-22 -->
 
-# CLAIM-815: The exponent 3/2 shared by critical branching cascades and first passage of a random walk comes from one identity, the hitting-time theorem: the chance of total size s, or of first passage at time t, is 1/s or 1/t times a local probability that falls as the inverse square root at balance, so 3/2 = 1 + 1/2
+# CLAIM-815: Exponent 3/2 from the hitting-time theorem
 
 ## The gap (A5 §3)
 

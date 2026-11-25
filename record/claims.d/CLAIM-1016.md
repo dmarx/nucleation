@@ -3,7 +3,14 @@ number: 1016
 status: Proposed
 formerly:
 - CLAIM-tmp3l7is
-title: "Authorization granted question by question puts its cost between formulating a question and investigating it, on the same budget, while a standing grant pays it once for a domain before any question in it is formulated, so the remedies for the circle between evidence and permission work by changing the unit of authorization, and authorization's cost belongs in the joint inquiry relation as a third cost on the shared budget"
+title: 'Standing grants change the unit of authorization'
+statement: >-
+  Authorization granted question by question puts its cost between
+  formulating a question and investigating it, on the same budget, while a
+  standing grant pays it once for a domain before any question in it is
+  formulated, so the remedies for the circle between evidence and permission
+  work by changing the unit of authorization, and authorization's cost
+  belongs in the joint inquiry relation as a third cost on the shared budget
 version: 1
 role: thesis
 warrant: interpretive
@@ -41,7 +48,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1140 CASE-388 CLAIM-1119 CASE-386 — Proposed; the premises, the composition this joins and A58's joint relation -->
 
-# CLAIM-1016: Authorization granted question by question puts its cost between formulating a question and investigating it, on the same budget, while a standing grant pays it once for a domain before any question in it is formulated, so the remedies for the circle between evidence and permission work by changing the unit of authorization, and authorization's cost belongs in the joint inquiry relation as a third cost on the shared budget
+# CLAIM-1016: Standing grants change the unit of authorization
 
 ## The gap
 

@@ -3,7 +3,12 @@ number: 55
 status: Superseded
 formerly:
 - CLAIM-tmpfi0jr
-title: 'The pragmatic identity of an utterance is partly constituted by the context-dependent transformations it induces, so pragmatic fidelity is an approximate structure-preserving correspondence between source and target dynamics'
+title: 'Pragmatic fidelity as dynamics correspondence'
+statement: >-
+  The pragmatic identity of an utterance is partly constituted by the
+  context-dependent transformations it induces, so pragmatic fidelity is an
+  approximate structure-preserving correspondence between source and target
+  dynamics
 version: 1
 role: thesis
 warrant: interpretive
@@ -30,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-083 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# CLAIM-055: The pragmatic identity of an utterance is partly constituted by the context-dependent transformations it induces, so pragmatic fidelity is an approximate structure-preserving correspondence between source and target dynamics
+# CLAIM-055: Pragmatic fidelity as dynamics correspondence
 
 ## The claim
 

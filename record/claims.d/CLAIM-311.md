@@ -3,7 +3,14 @@ number: 311
 status: Active
 formerly:
 - CLAIM-tmp28lab
-title: 'A search cut off before an exhaustive pass can establish absence when the arrangement certifies that the unsearched remainder cannot hold the item: a sorted table answers non-membership in a logarithmic number of probes, and the Threshold Algorithm stops early with its answer proved, so absence needs a certificate about the remainder, not exhaustion; similarity search in high dimension is where no such certificate exists'
+title: 'A cut-off search can establish absence'
+statement: >-
+  A search cut off before an exhaustive pass can establish absence when the
+  arrangement certifies that the unsearched remainder cannot hold the item:
+  a sorted table answers non-membership in a logarithmic number of probes,
+  and the Threshold Algorithm stops early with its answer proved, so absence
+  needs a certificate about the remainder, not exhaustion; similarity search
+  in high dimension is where no such certificate exists
 version: 1
 role: counter
 warrant: demonstrated
@@ -30,7 +37,7 @@ summary: >-
   similarity search in high dimension, [CLAIM-306](CLAIM-306.md)'s asymmetry stands.
 ---
 
-# CLAIM-311: A search cut off before an exhaustive pass can establish absence when the arrangement certifies that the unsearched remainder cannot hold the item: a sorted table answers non-membership in a logarithmic number of probes, and the Threshold Algorithm stops early with its answer proved, so absence needs a certificate about the remainder, not exhaustion; similarity search in high dimension is where no such certificate exists
+# CLAIM-311: A cut-off search can establish absence
 
 ## The objection
 

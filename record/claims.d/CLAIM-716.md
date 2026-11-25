@@ -3,7 +3,13 @@ number: 716
 formerly:
 - CLAIM-tmp3t16f
 status: Active
-title: 'A breach can lower the injured party''s position if it refuses to settle, so that the breaching party gains leverage over the resolution of its own breach: a settlement the injured party rationally accepts afterward can leave the breacher ahead, the leverage coming from the violation and not from any right to set the terms'
+title: 'A breach can give leverage over its resolution'
+statement: >-
+  A breach can lower the injured party's position if it refuses to settle,
+  so that the breaching party gains leverage over the resolution of its own
+  breach: a settlement the injured party rationally accepts afterward can
+  leave the breacher ahead, the leverage coming from the violation and not
+  from any right to set the terms
 version: 4
 history:
 - version: 2
@@ -76,7 +82,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-734 CLAIM-722 CLAIM-728 CLAIM-748 — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: CLAIM-619 — Proposed; the record's nearest entries, cited with their standing -->
 
-# CLAIM-716: A breach can lower the injured party's position if it refuses to settle, so that the breaching party gains leverage over the resolution of its own breach: a settlement the injured party rationally accepts afterward can leave the breacher ahead, the leverage coming from the violation and not from any right to set the terms
+# CLAIM-716: A breach can give leverage over its resolution
 
 ## The claim
 

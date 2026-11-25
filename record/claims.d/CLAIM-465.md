@@ -3,7 +3,12 @@ number: 465
 status: Proposed
 formerly:
 - CLAIM-tmpgs4b8
-title: 'An organization''s flexibility among regimes depends on the conditions under which a regime gives up authority as well as those under which it takes it, so escalation without a release condition leaves authority with a regime after the demand that justified it has passed'
+title: 'Flexibility needs release conditions'
+statement: >-
+  An organization's flexibility among regimes depends on the conditions
+  under which a regime gives up authority as well as those under which it
+  takes it, so escalation without a release condition leaves authority with
+  a regime after the demand that justified it has passed
 version: 2
 history:
 - version: 2
@@ -52,7 +57,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-286 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CLAIM-465: An organization's flexibility among regimes depends on the conditions under which a regime gives up authority as well as those under which it takes it, so escalation without a release condition leaves authority with a regime after the demand that justified it has passed
+# CLAIM-465: Flexibility needs release conditions
 
 ## The claim
 

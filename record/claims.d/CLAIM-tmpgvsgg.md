@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'Transmissible cultural structures can take part in the genesis of organizations by enabling relations and processes that would otherwise be less realizable, and the persistence of the seed, of the organization it nucleates and of the perspective it carries are distinct phenomena'
+title: 'Seed, organization and perspective persist apart'
+statement: >-
+  Transmissible cultural structures can take part in the genesis of
+  organizations by enabling relations and processes that would otherwise be
+  less realizable, and the persistence of the seed, of the organization it
+  nucleates and of the perspective it carries are distinct phenomena
 version: 1
 role: thesis
 warrant: interpretive
@@ -57,7 +62,7 @@ summary: >-
 
 <!-- inactive-ok-file: ARG-tmpeukxb CLAIM-621 CLAIM-tmp1ng5k TERM-098 TERM-tmpet5z8 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
-# CLAIM-tmpgvsgg: Transmissible cultural structures can take part in the genesis of organizations by enabling relations and processes that would otherwise be less realizable, and the persistence of the seed, of the organization it nucleates and of the perspective it carries are distinct phenomena
+# CLAIM-tmpgvsgg: Seed, organization and perspective persist apart
 
 ## The claim
 

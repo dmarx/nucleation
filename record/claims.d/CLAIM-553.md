@@ -3,7 +3,17 @@ number: 553
 status: Proposed
 formerly:
 - CLAIM-tmpu69za
-title: 'Give each of an individual''s perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt, wholeheartedness is the will that moves the individual to act lying within every perspective''s tolerance, a full face of the requirement complex and not of the quiet one, so a structurally frustrated individual cannot act wholeheartedly unless its demands change'
+title: 'Intervention is mobilization times legibility'
+statement: >-
+  Give each of an individual's perspectives a scalar intervention threshold
+  on its discrepancy from the will it wants effective: the intervention that
+  can be observed is the propensity to mobilize times the chance that the
+  discrepancy is legible and a channel carries the intervention, so a
+  perspective that does not intervene has not thereby endorsed; and read
+  through Frankfurt, wholeheartedness is the will that moves the individual
+  to act lying within every perspective's tolerance, a full face of the
+  requirement complex and not of the quiet one, so a structurally frustrated
+  individual cannot act wholeheartedly unless its demands change
 version: 3
 history:
 - version: 2
@@ -84,7 +94,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-364 CLAIM-417 LIT-695 THEORY-054 THEORY-120 THEORY-152 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- ref::uses-file: TERM-060 — "a structurally frustrated individual", which "can become wholehearted only by changing a demand", is TERM-060's frustration of demands -->
 
-# CLAIM-553: Give each of an individual's perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt, wholeheartedness is the will that moves the individual to act lying within every perspective's tolerance, a full face of the requirement complex and not of the quiet one, so a structurally frustrated individual cannot act wholeheartedly unless its demands change
+# CLAIM-553: Intervention is mobilization times legibility
 
 ## The claim
 

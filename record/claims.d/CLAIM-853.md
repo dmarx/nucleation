@@ -3,7 +3,13 @@ number: 853
 status: Proposed
 formerly:
 - CLAIM-tmp6odrj
-title: "Multiplying a vector by the inverse of a covariance moves its energy toward that covariance's spectral tail: in the eigenbasis the energy fractions are reweighted by the inverse squared eigenvalues, so the cumulative energy falls at every cut and any measure that integrates it against cumulative variance falls with it"
+title: 'Inverse covariance moves energy to the tail'
+statement: >-
+  Multiplying a vector by the inverse of a covariance moves its energy
+  toward that covariance's spectral tail: in the eigenbasis the energy
+  fractions are reweighted by the inverse squared eigenvalues, so the
+  cumulative energy falls at every cut and any measure that integrates it
+  against cumulative variance falls with it
 version: 1
 role: thesis
 warrant: demonstrated
@@ -33,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-852 — Proposed or new; the claim this serves and the decision behind the split -->
 
-# CLAIM-853: Multiplying a vector by the inverse of a covariance moves its energy toward that covariance's spectral tail: in the eigenbasis the energy fractions are reweighted by the inverse squared eigenvalues, so the cumulative energy falls at every cut and any measure that integrates it against cumulative variance falls with it
+# CLAIM-853: Inverse covariance moves energy to the tail
 
 **Statement.** Let Σ have eigenvalues λ₁ ≥ λ₂ ≥ … ≥ λ_d > 0 with orthonormal eigenvectors u_i, and let v ≠ 0 have components v_i = u_iᵀv and energy fractions e_i = v_i²/Σ_j v_j². Then Σ⁻¹v has components v_i/λ_i and energy fractions e'_i = (e_i/λ_i²)/Σ_j(e_j/λ_j²). For every k, C'(k) = Σ_{i≤k} e'_i ≤ C(k) = Σ_{i≤k} e_i.
 

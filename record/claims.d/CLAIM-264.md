@@ -3,7 +3,11 @@ number: 264
 status: Active
 formerly:
 - CLAIM-tmp5bgh5
-title: 'Two objects can agree on every probe in a restricted family without being isomorphic, so equivalence under a probe family is coarser than identity unless the family is rich enough'
+title: 'Probe equivalence coarser than isomorphism'
+statement: >-
+  Two objects can agree on every probe in a restricted family without being
+  isomorphic, so equivalence under a probe family is coarser than identity
+  unless the family is rich enough
 version: 2
 history:
 - version: 1
@@ -61,7 +65,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-142 CLAIM-187 CLAIM-190 CLAIM-193 — Proposed; cited for what each holds or applies, open, not settled -->
 
-# CLAIM-264: Two objects can agree on every probe in a restricted family without being isomorphic, so equivalence under a probe family is coarser than identity unless the family is rich enough
+# CLAIM-264: Probe equivalence coarser than isomorphism
 
 ## The claim
 

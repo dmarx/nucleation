@@ -3,7 +3,16 @@ number: 978
 status: Proposed
 formerly:
 - CLAIM-tmpr54f9
-title: 'In the minimal construction of an executive, a reviewer and an enforcer whose agents follow fixed policies, the arrangement in which the executive can condition enforcement is observationally equivalent to the one in which enforcement is independent under every probe but one, a corrective order that runs against the executive which it is disposed to withhold; there the two first part at execution, after identical challenges and rulings, and when the executive only holds the order they part in timing first and in outcome only once the hold passes the deadline'
+title: 'Fixed policies part only at a withheld order'
+statement: >-
+  In the minimal construction of an executive, a reviewer and an enforcer
+  whose agents follow fixed policies, the arrangement in which the executive
+  can condition enforcement is observationally equivalent to the one in
+  which enforcement is independent under every probe but one, a corrective
+  order that runs against the executive which it is disposed to withhold;
+  there the two first part at execution, after identical challenges and
+  rulings, and when the executive only holds the order they part in timing
+  first and in outcome only once the hold passes the deadline
 version: 1
 history:
 - version: 1
@@ -59,7 +68,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-380 CLAIM-979 — new; the executed study and the alternative reading filed with this claim for LEAD-168 -->
 <!-- inactive-ok-file: CLAIM-879 — Proposed; LEAD-068's result on the timing margin, cited for comparison -->
 
-# CLAIM-978: In the minimal construction of an executive, a reviewer and an enforcer whose agents follow fixed policies, the arrangement in which the executive can condition enforcement is observationally equivalent to the one in which enforcement is independent under every probe but one, a corrective order that runs against the executive which it is disposed to withhold; there the two first part at execution, after identical challenges and rulings, and when the executive only holds the order they part in timing first and in outcome only once the hold passes the deadline
+# CLAIM-978: Fixed policies part only at a withheld order
 
 ## The claim
 

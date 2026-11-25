@@ -3,7 +3,9 @@ number: 511
 status: Proposed
 formerly:
 - CLAIM-tmp025xj
-title: 'A self-maintaining organization ought to preserve its corrigibility'
+title: 'Self-maintainers ought to keep corrigibility'
+statement: >-
+  A self-maintaining organization ought to preserve its corrigibility
 version: 5
 history:
 - version: 2
@@ -67,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-058 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 
-# CLAIM-511: A self-maintaining organization ought to preserve its corrigibility
+# CLAIM-511: Self-maintainers ought to keep corrigibility
 
 ## Not claimed
 

@@ -3,7 +3,12 @@ number: 457
 status: Active
 formerly:
 - CLAIM-tmp3lrj9
-title: 'That no single institution can bring about a remedy does not imply that no combination of them can: the institutions able together to realize a corrective outcome need include none able alone, so a true statement of unilateral inability is not a statement that the outcome is unattainable'
+title: 'Unilateral inability is not joint inability'
+statement: >-
+  That no single institution can bring about a remedy does not imply that no
+  combination of them can: the institutions able together to realize a
+  corrective outcome need include none able alone, so a true statement of
+  unilateral inability is not a statement that the outcome is unattainable
 version: 1
 role: thesis
 warrant: demonstrated
@@ -37,7 +42,7 @@ bears_on:
 - QUESTION-278
 ---
 
-# CLAIM-457: That no single institution can bring about a remedy does not imply that no combination of them can: the institutions able together to realize a corrective outcome need include none able alone, so a true statement of unilateral inability is not a statement that the outcome is unattainable
+# CLAIM-457: Unilateral inability is not joint inability
 
 ## The claim
 

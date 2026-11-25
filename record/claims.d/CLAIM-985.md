@@ -3,7 +3,14 @@ number: 985
 status: Proposed
 formerly:
 - CLAIM-tmpo8u76
-title: 'A predicate about how an entry may change, rather than what it is now, is neither passed nor failed when it is added, since its test is on versions not yet written; so it is neither a descriptor nor an imposition in the sense that predicates are sorted by whether the entry passes them when added, and two such predicates the present entry is consistent with can still conflict over what may be written next'
+title: 'Change predicates fit neither sort'
+statement: >-
+  A predicate about how an entry may change, rather than what it is now, is
+  neither passed nor failed when it is added, since its test is on versions
+  not yet written; so it is neither a descriptor nor an imposition in the
+  sense that predicates are sorted by whether the entry passes them when
+  added, and two such predicates the present entry is consistent with can
+  still conflict over what may be written next
 version: 1
 role: thesis
 warrant: interpretive
@@ -39,7 +46,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
-# CLAIM-985: A predicate about how an entry may change, rather than what it is now, is neither passed nor failed when it is added, since its test is on versions not yet written; so it is neither a descriptor nor an imposition in the sense that predicates are sorted by whether the entry passes them when added, and two such predicates the present entry is consistent with can still conflict over what may be written next
+# CLAIM-985: Change predicates fit neither sort
 
 ## The claim
 

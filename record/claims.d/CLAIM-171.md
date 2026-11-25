@@ -3,7 +3,11 @@ number: 171
 status: Proposed
 formerly:
 - CLAIM-tmptmxjl
-title: 'A stored text means only what its readings make of it: the writer''s projected receiver is one more reading, so an unread text has possible meanings and no fixed one'
+title: 'An unread text has no fixed meaning'
+statement: >-
+  A stored text means only what its readings make of it: the writer's
+  projected receiver is one more reading, so an unread text has possible
+  meanings and no fixed one
 version: 2
 history:
 - version: 2
@@ -39,7 +43,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-111 CLAIM-160 — Proposed; the support and the target, both open -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# CLAIM-171: A stored text means only what its readings make of it: the writer's projected receiver is one more reading, so an unread text has possible meanings and no fixed one
+# CLAIM-171: An unread text has no fixed meaning
 
 ## The claim
 

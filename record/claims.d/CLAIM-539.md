@@ -3,7 +3,16 @@ number: 539
 status: Active
 formerly:
 - CLAIM-tmplyicq
-title: 'Jennings''s attention as the source of a free will has Frankfurt''s two-level architecture with its upper level changed from an attitude to a process: the whole collection of an agent''s interests, prioritizing, settles which first-order interest becomes effective, as a second-order volition does for Frankfurt, but by metacontrol and not by endorsement; so it inherits unchanged the objection that a manipulated organization can meet the condition, and what it adds to Frankfurt is that the process forms new interests and is a contextually emergent cause'
+title: 'Jennings''s attention is Frankfurt with a process'
+statement: >-
+  Jennings's attention as the source of a free will has Frankfurt's
+  two-level architecture with its upper level changed from an attitude to a
+  process: the whole collection of an agent's interests, prioritizing,
+  settles which first-order interest becomes effective, as a second-order
+  volition does for Frankfurt, but by metacontrol and not by endorsement; so
+  it inherits unchanged the objection that a manipulated organization can
+  meet the condition, and what it adds to Frankfurt is that the process
+  forms new interests and is a contextually emergent cause
 version: 2
 history:
 - version: 2
@@ -58,7 +67,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1314 — Proposed, Open, Deferred or new; cited from the reading of Jennings 2026 as open -->
 <!-- inactive-ok-file: THEORY-120 — Proposed or Open; the reading and the question the claim bears on, cited as open -->
 
-# CLAIM-539: Jennings's attention as the source of a free will has Frankfurt's two-level architecture with its upper level changed from an attitude to a process: the whole collection of an agent's interests, prioritizing, settles which first-order interest becomes effective, as a second-order volition does for Frankfurt, but by metacontrol and not by endorsement; so it inherits unchanged the objection that a manipulated organization can meet the condition, and what it adds to Frankfurt is that the process forms new interests and is a contextually emergent cause
+# CLAIM-539: Jennings's attention is Frankfurt with a process
 
 ## The claim
 

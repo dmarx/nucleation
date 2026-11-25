@@ -3,7 +3,14 @@ number: 894
 status: Proposed
 formerly:
 - CLAIM-tmp9xo66
-title: 'If the declared target of an effective description is the coarse variable''s own future, then for a linear coarse-graining of a stationary linear Gaussian process predictive sufficiency and fidelity of the memoryless reduced model are each equivalent to dynamical independence together with memory closure, so the five-condition table has three conditions, independence, memory closure and tractability'
+title: 'Own-future target leaves three conditions'
+statement: >-
+  If the declared target of an effective description is the coarse
+  variable's own future, then for a linear coarse-graining of a stationary
+  linear Gaussian process predictive sufficiency and fidelity of the
+  memoryless reduced model are each equivalent to dynamical independence
+  together with memory closure, so the five-condition table has three
+  conditions, independence, memory closure and tractability
 version: 1
 role: thesis
 warrant: demonstrated
@@ -36,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-327 CLAIM-893 — new; the study whose regime this varies and the claim under the primary declaration -->
 
-# CLAIM-894: If the declared target of an effective description is the coarse variable's own future, then for a linear coarse-graining of a stationary linear Gaussian process predictive sufficiency and fidelity of the memoryless reduced model are each equivalent to dynamical independence together with memory closure, so the five-condition table has three conditions, independence, memory closure and tractability
+# CLAIM-894: Own-future target leaves three conditions
 
 ## The claim
 

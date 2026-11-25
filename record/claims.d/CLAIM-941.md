@@ -3,7 +3,13 @@ number: 941
 status: Proposed
 formerly:
 - CLAIM-tmpzohh5
-title: 'Forcing an information-bottleneck encoder at the smaller budget to be a garbling of a bottleneck at the larger budget costs at most the concavity gap of the information curve, I(λ₁) − (λ₁/λ₂) I(λ₂), because erasing a fine bottleneck with probability 1 − λ₁/λ₂ gives a nested encoder within the smaller budget'
+title: 'Nesting costs at most the concavity gap'
+statement: >-
+  Forcing an information-bottleneck encoder at the smaller budget to be a
+  garbling of a bottleneck at the larger budget costs at most the concavity
+  gap of the information curve, I(λ₁) − (λ₁/λ₂) I(λ₂), because erasing a
+  fine bottleneck with probability 1 − λ₁/λ₂ gives a nested encoder within
+  the smaller budget
 version: 1
 role: thesis
 warrant: demonstrated
@@ -36,7 +42,7 @@ summary: >-
   call.
 ---
 
-# CLAIM-941: Forcing an information-bottleneck encoder at the smaller budget to be a garbling of a bottleneck at the larger budget costs at most the concavity gap of the information curve, I(λ₁) − (λ₁/λ₂) I(λ₂), because erasing a fine bottleneck with probability 1 − λ₁/λ₂ gives a nested encoder within the smaller budget
+# CLAIM-941: Nesting costs at most the concavity gap
 
 ## The claim
 

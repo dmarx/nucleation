@@ -3,7 +3,12 @@ number: 1147
 status: Active
 formerly:
 - CLAIM-tmpoc6mo
-title: 'Operators rewarded for realized policy under a weighted-mean decision delegate, within their own side, to its most extreme members and not its nearest, because a grant''s marginal value to the granter is proportional to how far the grantee''s policy lies from the decision'
+title: 'Delegation goes to own side''s most extreme'
+statement: >-
+  Operators rewarded for realized policy under a weighted-mean decision
+  delegate, within their own side, to its most extreme members and not its
+  nearest, because a grant's marginal value to the granter is proportional
+  to how far the grantee's policy lies from the decision
 version: 2
 history:
 - version: 2
@@ -51,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the claim whose word is read, cited as open -->
 
-# CLAIM-1147: Operators rewarded for realized policy under a weighted-mean decision delegate, within their own side, to its most extreme members and not its nearest, because a grant's marginal value to the granter is proportional to how far the grantee's policy lies from the decision
+# CLAIM-1147: Delegation goes to own side's most extreme
 
 ## The claim
 

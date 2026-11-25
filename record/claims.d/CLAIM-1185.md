@@ -3,7 +3,15 @@ number: 1185
 status: Active
 formerly:
 - CLAIM-tmpw11e6
-title: 'What a system is prevented from rewriting or rejecting can bound what it can correct as well as enable correction: in the record''s simulated sensor network a protected beacon that is itself miscalibrated drives the network''s error to the beacon''s own error while keeping it internally consistent, the network''s own revision does not lower it, and in the runs it fell only when a further, rarer protected channel revised the beacon''s calibration, at that channel''s rate'
+title: 'A miscalibrated protected beacon bounds correction'
+statement: >-
+  What a system is prevented from rewriting or rejecting can bound what it
+  can correct as well as enable correction: in the record's simulated sensor
+  network a protected beacon that is itself miscalibrated drives the
+  network's error to the beacon's own error while keeping it internally
+  consistent, the network's own revision does not lower it, and in the runs
+  it fell only when a further, rarer protected channel revised the beacon's
+  calibration, at that channel's rate
 version: 4
 history:
 - version: 2
@@ -88,7 +96,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-184 CLAIM-1070 — Proposed or Open; cited in this filing of 2026-11-23 -->
 
-# CLAIM-1185: What a system is prevented from rewriting or rejecting can bound what it can correct as well as enable correction: in the record's simulated sensor network a protected beacon that is itself miscalibrated drives the network's error to the beacon's own error while keeping it internally consistent, the network's own revision does not lower it, and in the runs it fell only when a further, rarer protected channel revised the beacon's calibration, at that channel's rate
+# CLAIM-1185: A miscalibrated protected beacon bounds correction
 
 ## The result
 

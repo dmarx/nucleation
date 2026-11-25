@@ -3,7 +3,17 @@ number: 554
 status: Active
 formerly:
 - CLAIM-tmpv67b2
-title: 'Niche differentiation matters to an organization''s development as possible relief of structural frustration among its constituents'' persistence demands, a strict enlargement of their compatibility complex over viable histories for the same demands, and not as reduced competition: competition, contested rankings, structural and governance frustration, operative thwarting, strain and coexistence come apart, so lower competitive intensity, the exclusion of a constituent or a redistribution of influence relieves no structural frustration of the original demands, and specialization can relieve frustration where nothing competes'
+title: 'Niche differentiation relieves frustration'
+statement: >-
+  Niche differentiation matters to an organization's development as possible
+  relief of structural frustration among its constituents' persistence
+  demands, a strict enlargement of their compatibility complex over viable
+  histories for the same demands, and not as reduced competition:
+  competition, contested rankings, structural and governance frustration,
+  operative thwarting, strain and coexistence come apart, so lower
+  competitive intensity, the exclusion of a constituent or a redistribution
+  of influence relieves no structural frustration of the original demands,
+  and specialization can relieve frustration where nothing competes
 version: 4
 history:
 - version: 2
@@ -94,7 +104,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-555 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CLAIM-554: Niche differentiation matters to an organization's development as possible relief of structural frustration among its constituents' persistence demands, a strict enlargement of their compatibility complex over viable histories for the same demands, and not as reduced competition: competition, contested rankings, structural and governance frustration, operative thwarting, strain and coexistence come apart, so lower competitive intensity, the exclusion of a constituent or a redistribution of influence relieves no structural frustration of the original demands, and specialization can relieve frustration where nothing competes
+# CLAIM-554: Niche differentiation relieves frustration
 
 ## The claim
 

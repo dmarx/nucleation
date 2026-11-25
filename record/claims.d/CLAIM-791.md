@@ -3,7 +3,13 @@ number: 791
 status: Proposed
 formerly:
 - CLAIM-tmpj5aiv
-title: 'In this record a change to a vocabulary term was always announced by a decision, and was carried through the entries using the term whenever entries had to move, by removal or split; the audit found no term whose meaning changed in place, so it does not test whether entries follow a change of meaning alone'
+title: 'No vocabulary term changed meaning in place'
+statement: >-
+  In this record a change to a vocabulary term was always announced by a
+  decision, and was carried through the entries using the term whenever
+  entries had to move, by removal or split; the audit found no term whose
+  meaning changed in place, so it does not test whether entries follow a
+  change of meaning alone
 version: 2
 history:
 - version: 2
@@ -55,7 +61,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-189 CLAIM-666 — Proposed; cited in this filing of 2026-11-20 -->
 
-# CLAIM-791: In this record a change to a vocabulary term was always announced by a decision, and was carried through the entries using the term whenever entries had to move, by removal or split; the audit found no term whose meaning changed in place, so it does not test whether entries follow a change of meaning alone
+# CLAIM-791: No vocabulary term changed meaning in place
 
 ## The claim
 

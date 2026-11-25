@@ -3,7 +3,16 @@ number: 592
 status: Active
 formerly:
 - CLAIM-tmpy6y22
-title: 'Whether a system''s own reachable classes ever coincide with what an observer can tell apart depends on the order of the observer''s probe costs as well as on the mechanism: the two partitions agree exactly at partitions common to the observer''s refinement chain and the system''s merge tree, a level of the merge tree can be made to agree under some cost order exactly when it is the common refinement of some set of the available probes, and the cost order decides which of those levels actually appear'
+title: 'Probe-cost order decides partition agreement'
+statement: >-
+  Whether a system's own reachable classes ever coincide with what an
+  observer can tell apart depends on the order of the observer's probe costs
+  as well as on the mechanism: the two partitions agree exactly at
+  partitions common to the observer's refinement chain and the system's
+  merge tree, a level of the merge tree can be made to agree under some cost
+  order exactly when it is the common refinement of some set of the
+  available probes, and the cost order decides which of those levels
+  actually appear
 version: 3
 history:
 - version: 2
@@ -72,7 +81,7 @@ complements:
 - CLAIM-572
 ---
 
-# CLAIM-592: Whether a system's own reachable classes ever coincide with what an observer can tell apart depends on the order of the observer's probe costs as well as on the mechanism: the two partitions agree exactly at partitions common to the observer's refinement chain and the system's merge tree, a level of the merge tree can be made to agree under some cost order exactly when it is the common refinement of some set of the available probes, and the cost order decides which of those levels actually appear
+# CLAIM-592: Probe-cost order decides partition agreement
 
 ## The claim
 

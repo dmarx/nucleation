@@ -3,7 +3,11 @@ number: 180
 status: Proposed
 formerly:
 - CLAIM-tmp7vmnc
-title: 'Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether'
+title: 'Drift is retrieval failure beyond a distance'
+statement: >-
+  Drift is retrieval failure outside a critical distance: a restatement
+  close enough to an idea retrieves it, one that has drifted too far is
+  taken for new, and a code bypasses retrieval by content altogether
 version: 6
 history:
 - version: 2
@@ -92,7 +96,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-307 — Proposed; the account filed from LIT-787, named in Connections and not leaned on -->
 <!-- inactive-ok-file: CLAIM-1068 CLAIM-1023 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-180: Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether
+# CLAIM-180: Drift is retrieval failure beyond a distance
 
 ## The claim
 

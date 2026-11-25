@@ -3,10 +3,12 @@ number: 267
 status: Active
 formerly:
 - CLAIM-tmpjp2tl
-title: Per-step discrepancies between a chain of maps and a reference chain
-  compound through the sensitivity of the later steps, so the same local error
-  can be damped, accumulated or amplified, and closeness at every step can
-  coexist with large end-to-end divergence
+title: 'Small per-step errors can compound'
+statement: >-
+  Per-step discrepancies between a chain of maps and a reference chain
+  compound through the sensitivity of the later steps, so the same local
+  error can be damped, accumulated or amplified, and closeness at every step
+  can coexist with large end-to-end divergence
 version: 3
 history:
 - version: 1
@@ -54,7 +56,7 @@ summary: 'The general content of [CLAIM-056](CLAIM-056.md), filed alone under [A
 ---
 <!-- inactive-ok-file: CLAIM-068 CLAIM-191 — Proposed; cited for what each holds or applies, open, not settled -->
 
-# CLAIM-267: Per-step discrepancies between a chain of maps and a reference chain compound through the sensitivity of the later steps, so the same local error can be damped, accumulated or amplified, and closeness at every step can coexist with large end-to-end divergence
+# CLAIM-267: Small per-step errors can compound
 
 ## The claim
 

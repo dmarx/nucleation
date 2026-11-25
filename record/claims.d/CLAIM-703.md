@@ -3,7 +3,15 @@ number: 703
 status: Active
 formerly:
 - CLAIM-tmpd6uxt
-title: 'One party can wrongfully bring about circumstances in which another incurs a genuine obligation, so that the second does right in discharging it and is still wronged: the manipulation changes the situation the target''s sound values respond to, without deceiving it or changing its criteria, rather than working through a defect in its reasoning; the obligation so created is no larger than the circumstances support, whatever the manipulator claims'
+title: 'Manipulation can create a genuine obligation'
+statement: >-
+  One party can wrongfully bring about circumstances in which another incurs
+  a genuine obligation, so that the second does right in discharging it and
+  is still wronged: the manipulation changes the situation the target's
+  sound values respond to, without deceiving it or changing its criteria,
+  rather than working through a defect in its reasoning; the obligation so
+  created is no larger than the circumstances support, whatever the
+  manipulator claims
 version: 11
 history:
 - version: 2
@@ -142,7 +150,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-713 CLAIM-660 THEORY-225 — Proposed; the same exchange's resource claim and the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: THEORY-235 — Proposed; a reading of manipulation, cited with its standing -->
 
-# CLAIM-703: One party can wrongfully bring about circumstances in which another incurs a genuine obligation, so that the second does right in discharging it and is still wronged: the manipulation changes the situation the target's sound values respond to, without deceiving it or changing its criteria, rather than working through a defect in its reasoning; the obligation so created is no larger than the circumstances support, whatever the manipulator claims
+# CLAIM-703: Manipulation can create a genuine obligation
 
 ## The claim
 

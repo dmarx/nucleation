@@ -3,7 +3,14 @@ number: 655
 status: Proposed
 formerly:
 - CLAIM-tmphgjbz
-title: 'The preference an optimizer reads from its remaining users can move with no one''s preferences changing: the change in a weighted average splits exactly into a change in the groups'' weights and a change within the groups, and when a design drives out the users it serves worst the first term alone moves the measured demand toward the design, so a metric can improve while the set of people for whom the product works shrinks'
+title: 'Measured demand can move with no taste changing'
+statement: >-
+  The preference an optimizer reads from its remaining users can move with
+  no one's preferences changing: the change in a weighted average splits
+  exactly into a change in the groups' weights and a change within the
+  groups, and when a design drives out the users it serves worst the first
+  term alone moves the measured demand toward the design, so a metric can
+  improve while the set of people for whom the product works shrinks
 version: 2
 history:
 - version: 2
@@ -42,7 +49,7 @@ summary: >-
   A's; adopting it is the owner's call.
 ---
 
-# CLAIM-655: The preference an optimizer reads from its remaining users can move with no one's preferences changing: the change in a weighted average splits exactly into a change in the groups' weights and a change within the groups, and when a design drives out the users it serves worst the first term alone moves the measured demand toward the design, so a metric can improve while the set of people for whom the product works shrinks
+# CLAIM-655: Measured demand can move with no taste changing
 
 ## The claim
 

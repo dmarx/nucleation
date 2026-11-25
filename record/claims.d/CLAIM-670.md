@@ -3,7 +3,13 @@ number: 670
 status: Proposed
 formerly:
 - CLAIM-tmpj6tb1
-title: 'An arrangement can produce the dependence through which it exploits: by reliably supplying what a party then ceases to supply for itself, it creates a reliance on the provider that the party did not have before, and the provider can use that reliance to set terms the party could earlier have refused'
+title: 'An arrangement can produce exploitable dependence'
+statement: >-
+  An arrangement can produce the dependence through which it exploits: by
+  reliably supplying what a party then ceases to supply for itself, it
+  creates a reliance on the provider that the party did not have before, and
+  the provider can use that reliance to set terms the party could earlier
+  have refused
 version: 7
 history:
 - version: 2
@@ -102,7 +108,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-257 — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-603 CLAIM-428 — Proposed; the claims this one sets beside, cited with their standing -->
 
-# CLAIM-670: An arrangement can produce the dependence through which it exploits: by reliably supplying what a party then ceases to supply for itself, it creates a reliance on the provider that the party did not have before, and the provider can use that reliance to set terms the party could earlier have refused
+# CLAIM-670: An arrangement can produce exploitable dependence
 
 ## The claim
 

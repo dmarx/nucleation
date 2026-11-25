@@ -3,7 +3,13 @@ number: 947
 status: Active
 formerly:
 - CLAIM-tmp6f8w8
-title: 'In the coupled meaning–influence model of two hypotheses and two specialists, with conferral a moving average toward a softmax of agreement with the current meaning, the symmetric state is unstable exactly when gσ² > 2(1 − φ(1 − ε)): the conferral memory and the meaning rate set how fast capture comes, not whether it comes or where it settles'
+title: 'Conferral rates set capture speed, not outcome'
+statement: >-
+  In the coupled meaning–influence model of two hypotheses and two
+  specialists, with conferral a moving average toward a softmax of agreement
+  with the current meaning, the symmetric state is unstable exactly when gσ²
+  > 2(1 − φ(1 − ε)): the conferral memory and the meaning rate set how fast
+  capture comes, not whether it comes or where it settles
 version: 2
 history:
 - version: 1
@@ -52,7 +58,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-317 — Proposed or new; the study this claim rests on and its companion, filed in the same batch, and LEAD-081's build, filed today -->
 
-# CLAIM-947: In the coupled meaning–influence model of two hypotheses and two specialists, with conferral a moving average toward a softmax of agreement with the current meaning, the symmetric state is unstable exactly when gσ² > 2(1 − φ(1 − ε)): the conferral memory and the meaning rate set how fast capture comes, not whether it comes or where it settles
+# CLAIM-947: Conferral rates set capture speed, not outcome
 
 ## The claim
 

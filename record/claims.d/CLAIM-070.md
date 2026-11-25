@@ -3,7 +3,10 @@ number: 70
 status: Active
 formerly:
 - CLAIM-tmpjl8xd
-title: 'Transport induced by one global stochastic kernel carries a global extension of the source model to a global extension of the target model'
+title: 'A global kernel carries global extensions'
+statement: >-
+  Transport induced by one global stochastic kernel carries a global
+  extension of the source model to a global extension of the target model
 version: 2
 history:
 - version: 2
@@ -44,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-070: Transport induced by one global stochastic kernel carries a global extension of the source model to a global extension of the target model
+# CLAIM-070: A global kernel carries global extensions
 
 ## The claim
 

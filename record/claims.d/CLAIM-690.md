@@ -3,7 +3,18 @@ number: 690
 status: Proposed
 formerly:
 - CLAIM-tmp6p3ki
-title: 'Whichever way a whole and its part depend on each other, the same magnitude of dependence can run either way, and what sorts it is who controls the terms on which it is met, exit, renegotiation and the conditions of supply, while the magnitude and the integration that produced it set only how much rides on it: with the part able to withdraw or renegotiate, the whole''s need of it becomes the part''s hold on its terms; with the terms at an agent''s discretion, the same need gives the part none, and the part''s own dependence becomes vulnerability to that agent, on whom, under a principle grounding obligations in such vulnerability, the strengthened responsibility falls'
+title: 'Control of terms sorts dependence, not magnitude'
+statement: >-
+  Whichever way a whole and its part depend on each other, the same
+  magnitude of dependence can run either way, and what sorts it is who
+  controls the terms on which it is met, exit, renegotiation and the
+  conditions of supply, while the magnitude and the integration that
+  produced it set only how much rides on it: with the part able to withdraw
+  or renegotiate, the whole's need of it becomes the part's hold on its
+  terms; with the terms at an agent's discretion, the same need gives the
+  part none, and the part's own dependence becomes vulnerability to that
+  agent, on whom, under a principle grounding obligations in such
+  vulnerability, the strengthened responsibility falls
 version: 5
 history:
 - version: 2
@@ -97,7 +108,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-671 CLAIM-428 CLAIM-603 CLAIM-669 CASE-256 CASE-257 TERM-083 — Proposed; the record's entries this claim joins or sets beside, cited with their standing -->
 <!-- inactive-ok-file: LIT-2531 until 2027-02-13 — Unavailable; Goodin, whose principle the obligation clause is conditional on; ask again whether a lawful copy has appeared -->
 
-# CLAIM-690: Whichever way a whole and its part depend on each other, the same magnitude of dependence can run either way, and what sorts it is who controls the terms on which it is met, exit, renegotiation and the conditions of supply, while the magnitude and the integration that produced it set only how much rides on it: with the part able to withdraw or renegotiate, the whole's need of it becomes the part's hold on its terms; with the terms at an agent's discretion, the same need gives the part none, and the part's own dependence becomes vulnerability to that agent, on whom, under a principle grounding obligations in such vulnerability, the strengthened responsibility falls
+# CLAIM-690: Control of terms sorts dependence, not magnitude
 
 ## Which sense of "whole"
 

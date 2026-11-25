@@ -3,7 +3,12 @@ number: 1136
 status: Proposed
 formerly:
 - CLAIM-tmpm9a3z
-title: 'Among firms under deferred or non-prosecution agreements, the fall in penalised violations that an on-site monitor brings lasts only while the monitor is there, so what added sanction adds to a corporation''s conduct does not outlast it; the measure counts penalties, not harms weighed'
+title: 'Monitor effects do not outlast the monitor'
+statement: >-
+  Among firms under deferred or non-prosecution agreements, the fall in
+  penalised violations that an on-site monitor brings lasts only while the
+  monitor is there, so what added sanction adds to a corporation's conduct
+  does not outlast it; the measure counts penalties, not harms weighed
 version: 1
 history:
 - version: 1
@@ -46,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2304 CASE-405 CLAIM-1169 — new, Proposed; the account and the study this claim rests on, and the claim on what it can show -->
 <!-- inactive-ok-file: CLAIM-431 CLAIM-432 — Proposed; the claims whose test this bears on -->
 
-# CLAIM-1136: Among firms under deferred or non-prosecution agreements, the fall in penalised violations that an on-site monitor brings lasts only while the monitor is there, so what added sanction adds to a corporation's conduct does not outlast it; the measure counts penalties, not harms weighed
+# CLAIM-1136: Monitor effects do not outlast the monitor
 
 ## The claim
 

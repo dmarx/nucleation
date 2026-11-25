@@ -3,7 +3,12 @@ number: 195
 status: Active
 formerly:
 - CLAIM-tmptfikp
-title: 'For an argument, the constraint set that persistence is relative to is fixed by an amendable decision, not discovered: the record stipulates what counts as the same claim persisting, which makes the choice explicit without making it non-arbitrary'
+title: 'Sameness of a claim is stipulated, not found'
+statement: >-
+  For an argument, the constraint set that persistence is relative to is
+  fixed by an amendable decision, not discovered: the record stipulates what
+  counts as the same claim persisting, which makes the choice explicit
+  without making it non-arbitrary
 version: 2
 history:
 - version: 2
@@ -57,7 +62,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-181 CLAIM-184 CLAIM-185 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: THEORY-1749 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-195: For an argument, the constraint set that persistence is relative to is fixed by an amendable decision, not discovered: the record stipulates what counts as the same claim persisting, which makes the choice explicit without making it non-arbitrary
+# CLAIM-195: Sameness of a claim is stipulated, not found
 
 ## The claim
 

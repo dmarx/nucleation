@@ -3,7 +3,12 @@ number: 935
 status: Proposed
 formerly:
 - CLAIM-tmp7vutq
-title: 'On a cycle of five or more contexts with zero monodromy, the XY energy has stable twisted local minima of positive energy, so a local minimization of it can report an obstruction that is not there; on three or four contexts every local minimum is a global one'
+title: 'XY minimization can report false obstructions'
+statement: >-
+  On a cycle of five or more contexts with zero monodromy, the XY energy has
+  stable twisted local minima of positive energy, so a local minimization of
+  it can report an obstruction that is not there; on three or four contexts
+  every local minimum is a global one
 version: 1
 role: thesis
 warrant: demonstrated
@@ -34,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2247 THEORY-2248 THEORY-2252 — Proposed; the readings this claim rests on, filed with it -->
 
-# CLAIM-935: On a cycle of five or more contexts with zero monodromy, the XY energy has stable twisted local minima of positive energy, so a local minimization of it can report an obstruction that is not there; on three or four contexts every local minimum is a global one
+# CLAIM-935: XY minimization can report false obstructions
 
 ## The claim
 

@@ -3,7 +3,12 @@ number: 42
 status: Active
 formerly:
 - CLAIM-tmpc6h7z
-title: 'The levels at which communicative observables exist organize observables, not objects: a communicative object is identified jointly by constraints from observables at several levels, which, where those observables share one state space, is the intersection of the regions they pick out'
+title: 'Levels organize observables, not objects'
+statement: >-
+  The levels at which communicative observables exist organize observables,
+  not objects: a communicative object is identified jointly by constraints
+  from observables at several levels, which, where those observables share
+  one state space, is the intersection of the regions they pick out
 version: 2
 history:
 - version: 2
@@ -47,7 +52,7 @@ summary: >-
 <!-- ref::uses-file: TERM-042 — TERM-042's context-indexed constraints over a cover reduce to the intersection of constraint regions when the contexts share one ambient space, which is the case the title names last (the manuscript keeps it as that special case, §2); until 2026-10-27 it used TERM-022, now Superseded -->
 <!-- inactive-ok-file: CLAIM-008 TERM-022 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# CLAIM-042: The levels at which communicative observables exist organize observables, not objects: a communicative object is identified jointly by constraints from observables at several levels, which, where those observables share one state space, is the intersection of the regions they pick out
+# CLAIM-042: Levels organize observables, not objects
 
 ## The claim
 

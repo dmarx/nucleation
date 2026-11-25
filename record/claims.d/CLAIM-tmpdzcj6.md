@@ -1,6 +1,14 @@
 ---
 status: Proposed
-title: 'Conservatism as its theorists state it is a presumption under uncertainty, not a conflation of persistence with value: it rests on premises the critique itself grants, that an inherited arrangement''s dependencies are only partly legible and that destroying them can be irreversible, and it places the burden of proof on change while conceding that conservation requires correction; what survives of the critique is who bears the cost of waiting, and that keeping a structure is not keeping its goods'
+title: 'Conservatism is a presumption under uncertainty'
+statement: >-
+  Conservatism as its theorists state it is a presumption under uncertainty,
+  not a conflation of persistence with value: it rests on premises the
+  critique itself grants, that an inherited arrangement's dependencies are
+  only partly legible and that destroying them can be irreversible, and it
+  places the burden of proof on change while conceding that conservation
+  requires correction; what survives of the critique is who bears the cost
+  of waiting, and that keeping a structure is not keeping its goods
 version: 1
 role: counter
 warrant: interpretive
@@ -37,7 +45,7 @@ summary: >-
 
 <!-- inactive-ok-file: ARG-tmpx1cys CLAIM-tmpa8tdg CLAIM-tmplc0vv LIT-tmpus6zs TERM-163 THEORY-841 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# CLAIM-tmpdzcj6: Conservatism as its theorists state it is a presumption under uncertainty, not a conflation of persistence with value: it rests on premises the critique itself grants, that an inherited arrangement's dependencies are only partly legible and that destroying them can be irreversible, and it places the burden of proof on change while conceding that conservation requires correction; what survives of the critique is who bears the cost of waiting, and that keeping a structure is not keeping its goods
+# CLAIM-tmpdzcj6: Conservatism is a presumption under uncertainty
 
 ## The gap
 

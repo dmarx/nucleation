@@ -3,7 +3,16 @@ number: 421
 status: Active
 formerly:
 - CLAIM-tmpj73lm
-title: 'The cessation of an organizational perspective''s enactment need not imply the loss of the dispositions, capacities or reproductive relationships from which it can be reinstated: an interruption can be of activation (the disposition is held but not engaged or retrievable), of enactment (held, but the material, institutional or social conditions for exercising it are gone) or of reproduction (held by some bearers, but the processes that pass it on are damaged), and temporary unavailability is not extinction, though prolonged interruption of reproduction can end a tradition'
+title: 'Ceased enactment need not lose a perspective'
+statement: >-
+  The cessation of an organizational perspective's enactment need not imply
+  the loss of the dispositions, capacities or reproductive relationships
+  from which it can be reinstated: an interruption can be of activation (the
+  disposition is held but not engaged or retrievable), of enactment (held,
+  but the material, institutional or social conditions for exercising it are
+  gone) or of reproduction (held by some bearers, but the processes that
+  pass it on are damaged), and temporary unavailability is not extinction,
+  though prolonged interruption of reproduction can end a tradition
 version: 6
 history:
 - version: 2
@@ -89,7 +98,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-421: The cessation of an organizational perspective's enactment need not imply the loss of the dispositions, capacities or reproductive relationships from which it can be reinstated: an interruption can be of activation (the disposition is held but not engaged or retrievable), of enactment (held, but the material, institutional or social conditions for exercising it are gone) or of reproduction (held by some bearers, but the processes that pass it on are damaged), and temporary unavailability is not extinction, though prolonged interruption of reproduction can end a tradition
+# CLAIM-421: Ceased enactment need not lose a perspective
 
 ## The claim
 

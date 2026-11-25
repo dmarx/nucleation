@@ -3,7 +3,10 @@ number: 484
 status: Proposed
 formerly:
 - CLAIM-tmpxb1wf
-title: 'Internal conflict is the gap between the precedence a motive claims over action and the authority the rest of the organization grants it'
+title: 'Internal conflict as precedence–authority gap'
+statement: >-
+  Internal conflict is the gap between the precedence a motive claims over
+  action and the authority the rest of the organization grants it
 version: 3
 history:
 - version: 2
@@ -57,7 +60,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
-# CLAIM-484: Internal conflict is the gap between the precedence a motive claims over action and the authority the rest of the organization grants it
+# CLAIM-484: Internal conflict as precedence–authority gap
 
 ## The claim
 

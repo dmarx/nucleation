@@ -3,7 +3,9 @@ number: 1170
 status: Proposed
 formerly:
 - CLAIM-tmpsx7jd
-title: Physics is the subset of mathematics relevant to phenomena it is possible
+title: 'Physics is the observable subset of mathematics'
+statement: >-
+  Physics is the subset of mathematics relevant to phenomena it is possible
   to observe
 version: 1
 role: thesis
@@ -29,7 +31,7 @@ summary: 'The owner''s, 2026-11-23, in this session: "physics as the subset
 
 <!-- inactive-ok-file: ARG-235 CLAIM-1143 CLAIM-1146 CLAIM-1151 — Proposed; cited in this filing of 2026-11-23 -->
 
-# CLAIM-1170: Physics is the subset of mathematics relevant to phenomena it is possible to observe
+# CLAIM-1170: Physics is the observable subset of mathematics
 
 ## The claim
 

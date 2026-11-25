@@ -3,7 +3,12 @@ number: 257
 status: Active
 formerly:
 - CLAIM-tmpx3m7e
-title: 'Observational distortion should be summed over the contexts both covers can host, with the target''s new questions asked of the source too, and the questions only one side can decide reported as a separate change of cover, so that a rendering that adds a relation pays for it'
+title: 'Sum distortion over both covers'' contexts'
+statement: >-
+  Observational distortion should be summed over the contexts both covers
+  can host, with the target's new questions asked of the source too, and the
+  questions only one side can decide reported as a separate change of cover,
+  so that a rendering that adds a relation pays for it
 version: 3
 history:
 - version: 2
@@ -61,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-005 CLAIM-076 CLAIM-087 CLAIM-034 — Proposed; the measure restated, the claim that interpreters add relations, the improvement and adaptation claims, and the directed-fidelity thesis, cited as open -->
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the cover-change form of the headline, cited as open -->
 
-# CLAIM-257: Observational distortion should be summed over the contexts both covers can host, with the target's new questions asked of the source too, and the questions only one side can decide reported as a separate change of cover, so that a rendering that adds a relation pays for it
+# CLAIM-257: Sum distortion over both covers' contexts
 
 ## What it answers
 

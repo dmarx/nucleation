@@ -3,7 +3,15 @@ number: 1053
 status: Proposed
 formerly:
 - CLAIM-tmp9in65
-title: 'A regulatory equilibrium may be the stabilization of a mutually reinforcing question–answer relationship rather than the discovery of an independently satisfactory answer: the slow mode of a coupled standard and response belongs to neither alone, so identity stabilization can be read as the reproduction of persistent query–answer relationships, and a response spectrum should sometimes be computed for the combined query–target system'
+title: 'Equilibrium may be a stabilized query–answer pair'
+statement: >-
+  A regulatory equilibrium may be the stabilization of a mutually
+  reinforcing question–answer relationship rather than the discovery of an
+  independently satisfactory answer: the slow mode of a coupled standard and
+  response belongs to neither alone, so identity stabilization can be read
+  as the reproduction of persistent query–answer relationships, and a
+  response spectrum should sometimes be computed for the combined
+  query–target system
 version: 1
 role: thesis
 warrant: interpretive
@@ -39,7 +47,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1087 CLAIM-1066 CLAIM-1050 TERM-066 — Proposed; the model this reads, the account of identity it carries, and the assistant's rates -->
 
-# CLAIM-1053: A regulatory equilibrium may be the stabilization of a mutually reinforcing question–answer relationship rather than the discovery of an independently satisfactory answer: the slow mode of a coupled standard and response belongs to neither alone, so identity stabilization can be read as the reproduction of persistent query–answer relationships, and a response spectrum should sometimes be computed for the combined query–target system
+# CLAIM-1053: Equilibrium may be a stabilized query–answer pair
 
 ## The claim
 

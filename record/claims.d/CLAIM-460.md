@@ -3,7 +3,13 @@ number: 460
 status: Active
 formerly:
 - CLAIM-tmp7mzg1
-title: 'In the completely locked-in state, evidence of lucid judgement has to cross a channel the patient drives, which is action in active inference''s sense, so such cases can show the judgement–observation loop running down but never running with no action at all, and a null result cannot tell lost judgement from a lost channel'
+title: 'Locked-in cases cannot show action-free loops'
+statement: >-
+  In the completely locked-in state, evidence of lucid judgement has to
+  cross a channel the patient drives, which is action in active inference's
+  sense, so such cases can show the judgement–observation loop running down
+  but never running with no action at all, and a null result cannot tell
+  lost judgement from a lost channel
 version: 2
 history:
 - version: 2
@@ -48,7 +54,7 @@ summary: >-
   [CLAIM-341](CLAIM-341.md).
 ---
 
-# CLAIM-460: In the completely locked-in state, evidence of lucid judgement has to cross a channel the patient drives, which is action in active inference's sense, so such cases can show the judgement–observation loop running down but never running with no action at all, and a null result cannot tell lost judgement from a lost channel
+# CLAIM-460: Locked-in cases cannot show action-free loops
 
 ## The claim
 

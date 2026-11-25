@@ -3,7 +3,14 @@ number: 609
 status: Active
 formerly:
 - CLAIM-tmp5iqbr
-title: 'In a central-force network at a stable ground state, the external force that couples to a linear zero mode u is (T + λI)u, with T the prestress matrix and λ the regularizer, so bond stiffness never redirects it, and as λ goes to zero, wherever Tu is not zero, its direction tends to that of Tu, which is supported only on the nodes of prestressed bonds; prestress carried by a cluster that every zero mode moves rigidly redirects nothing'
+title: 'Bond stiffness never redirects zero-mode force'
+statement: >-
+  In a central-force network at a stable ground state, the external force
+  that couples to a linear zero mode u is (T + λI)u, with T the prestress
+  matrix and λ the regularizer, so bond stiffness never redirects it, and as
+  λ goes to zero, wherever Tu is not zero, its direction tends to that of
+  Tu, which is supported only on the nodes of prestressed bonds; prestress
+  carried by a cluster that every zero mode moves rigidly redirects nothing
 version: 3
 history:
 - version: 2
@@ -85,7 +92,7 @@ bears_on:
 - QUESTION-423
 ---
 
-# CLAIM-609: In a central-force network at a stable ground state, the external force that couples to a linear zero mode u is (T + λI)u, with T the prestress matrix and λ the regularizer, so bond stiffness never redirects it, and as λ goes to zero, wherever Tu is not zero, its direction tends to that of Tu, which is supported only on the nodes of prestressed bonds; prestress carried by a cluster that every zero mode moves rigidly redirects nothing
+# CLAIM-609: Bond stiffness never redirects zero-mode force
 
 ## The claim
 

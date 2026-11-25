@@ -3,7 +3,13 @@ number: 325
 status: Active
 formerly:
 - CLAIM-tmpxrlyo
-title: 'The behavioural data the record has read show no contextuality proper: none of the five kinds of data Dzhafarov, Zhang and Kujala re-analyse is contextual, Wang et al. test none of their 90 language systems for it, and no documented test of pragmatic or meaning judgements finds it at adequate power'
+title: 'Behavioural data read show no contextuality'
+statement: >-
+  The behavioural data the record has read show no contextuality proper:
+  none of the five kinds of data Dzhafarov, Zhang and Kujala re-analyse is
+  contextual, Wang et al. test none of their 90 language systems for it, and
+  no documented test of pragmatic or meaning judgements finds it at adequate
+  power
 version: 2
 history:
 - version: 2
@@ -45,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-328 CASE-329 LIT-3100 THEORY-2226 CLAIM-896 CLAIM-895 — new; filed by LEAD-182 on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-105 CLAIM-201 — Proposed; the headline and its narrowing this premise bears on, open -->
 
-# CLAIM-325: The behavioural data the record has read show no contextuality proper: none of the five kinds of data Dzhafarov, Zhang and Kujala re-analyse is contextual, Wang et al. test none of their 90 language systems for it, and no documented test of pragmatic or meaning judgements finds it at adequate power
+# CLAIM-325: Behavioural data read show no contextuality
 
 ## The claim
 

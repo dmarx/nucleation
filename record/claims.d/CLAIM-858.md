@@ -3,7 +3,13 @@ number: 858
 status: Proposed
 formerly:
 - CLAIM-tmpfwwrf
-title: 'In the two-dimensional Bak–Tang–Wiesenfeld sandpile, driven one grain at a time with open boundaries and nothing tuned, the avalanche-size distribution is a power law whose cutoff grows with lattice size, roughly as L^2.5 between L = 16 and 128, with an apparent exponent near 1.1 that drifts upward with L'
+title: 'BTW sandpile avalanches follow a power law'
+statement: >-
+  In the two-dimensional Bak–Tang–Wiesenfeld sandpile, driven one grain at a
+  time with open boundaries and nothing tuned, the avalanche-size
+  distribution is a power law whose cutoff grows with lattice size, roughly
+  as L^2.5 between L = 16 and 128, with an apparent exponent near 1.1 that
+  drifts upward with L
 version: 1
 role: thesis
 warrant: demonstrated
@@ -45,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2179 CLAIM-841 CLAIM-803 — Proposed or new; the reading this reproduction checks, the argument filed with it, and the claims it bears on -->
 
-# CLAIM-858: In the two-dimensional Bak–Tang–Wiesenfeld sandpile, driven one grain at a time with open boundaries and nothing tuned, the avalanche-size distribution is a power law whose cutoff grows with lattice size, roughly as L^2.5 between L = 16 and 128, with an apparent exponent near 1.1 that drifts upward with L
+# CLAIM-858: BTW sandpile avalanches follow a power law
 
 ## The gap it fills
 

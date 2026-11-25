@@ -3,7 +3,18 @@ number: 897
 status: Proposed
 formerly:
 - CLAIM-tmp0uism
-title: 'The evaluative space model''s positivity and negativity channels are perspectives in the thin sense goal-conduciveness valence uses: each ranks the options by its own activation, the two rankings contest exactly the approach–avoidance pairs, and each holds an authority over action apart from its activation, in its gain, its offset and the override of higher levels; so the model''s neutral point, both channels low, is no contest, where valence is undefined, not neutrality, and its coactivation is contest, which a record of conduct shows as ambivalence only when no candidate ordering, a stable compromise included, accounts for the decisions'
+title: 'Evaluative-space channels are perspectives'
+statement: >-
+  The evaluative space model's positivity and negativity channels are
+  perspectives in the thin sense goal-conduciveness valence uses: each ranks
+  the options by its own activation, the two rankings contest exactly the
+  approach–avoidance pairs, and each holds an authority over action apart
+  from its activation, in its gain, its offset and the override of higher
+  levels; so the model's neutral point, both channels low, is no contest,
+  where valence is undefined, not neutrality, and its coactivation is
+  contest, which a record of conduct shows as ambivalence only when no
+  candidate ordering, a stable compromise included, accounts for the
+  decisions
 version: 1
 history:
 - version: 1
@@ -66,7 +77,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-440 TERM-076 CLAIM-451 — Proposed; the claim whose debt this pays, the term it is stated in and the narrowing it keeps, cited as open -->
 <!-- inactive-ok-file: CLAIM-898 CLAIM-899 CASE-330 — new on 2026-11-22; the alternative, the procedure and its application filed with this claim for LEAD-041 -->
 
-# CLAIM-897: The evaluative space model's positivity and negativity channels are perspectives in the thin sense goal-conduciveness valence uses: each ranks the options by its own activation, the two rankings contest exactly the approach–avoidance pairs, and each holds an authority over action apart from its activation, in its gain, its offset and the override of higher levels; so the model's neutral point, both channels low, is no contest, where valence is undefined, not neutrality, and its coactivation is contest, which a record of conduct shows as ambivalence only when no candidate ordering, a stable compromise included, accounts for the decisions
+# CLAIM-897: Evaluative-space channels are perspectives
 
 ## The claim
 

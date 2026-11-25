@@ -3,7 +3,15 @@ number: 943
 status: Proposed
 formerly:
 - CLAIM-tmpmk056
-title: 'A descriptor and an imposition are an informative and a performative update: adding a predicate an entry already passes restricts the admissible versions to those where it holds, which is informative update, and enforcing one it fails moves each version to a nearest version where it holds, which is performative update when minimal change is read as nearness in a metric; so the record''s two kinds of predicate are the two directions of fit'
+title: 'Descriptors inform, impositions perform'
+statement: >-
+  A descriptor and an imposition are an informative and a performative
+  update: adding a predicate an entry already passes restricts the
+  admissible versions to those where it holds, which is informative update,
+  and enforcing one it fails moves each version to a nearest version where
+  it holds, which is performative update when minimal change is read as
+  nearness in a metric; so the record's two kinds of predicate are the two
+  directions of fit
 version: 1
 role: thesis
 warrant: demonstrated
@@ -40,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: CLAIM-783 TERM-134 THEORY-162 — Proposed; the claims, term and reading this joins, and the claim filed with it -->
 
-# CLAIM-943: A descriptor and an imposition are an informative and a performative update: adding a predicate an entry already passes restricts the admissible versions to those where it holds, which is informative update, and enforcing one it fails moves each version to a nearest version where it holds, which is performative update when minimal change is read as nearness in a metric; so the record's two kinds of predicate are the two directions of fit
+# CLAIM-943: Descriptors inform, impositions perform
 
 ## The claim
 

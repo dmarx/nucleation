@@ -3,7 +3,14 @@ number: 454
 status: Active
 formerly:
 - CLAIM-tmpwr001
-title: 'A latent feature or mode recovered from an organization''s members'' activity is at most a constituent of an organizational perspective, not the perspective: a feature allocation says which members take part in which modes, and whether those modes are organized into one perspective depends on the relations of access, uptake and authority among their carriers, which the same allocation leaves open'
+title: 'A recovered mode is not a perspective'
+statement: >-
+  A latent feature or mode recovered from an organization's members'
+  activity is at most a constituent of an organizational perspective, not
+  the perspective: a feature allocation says which members take part in
+  which modes, and whether those modes are organized into one perspective
+  depends on the relations of access, uptake and authority among their
+  carriers, which the same allocation leaves open
 version: 3
 history:
 - version: 1
@@ -86,7 +93,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-166 — Proposed; the cases filed with this claim from the same exchange, an illustration and a reported study, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-1011 THEORY-1014 — Rejected and Proposed; circuits readings cited as hypotheses, not leaned on -->
 
-# CLAIM-454: A latent feature or mode recovered from an organization's members' activity is at most a constituent of an organizational perspective, not the perspective: a feature allocation says which members take part in which modes, and whether those modes are organized into one perspective depends on the relations of access, uptake and authority among their carriers, which the same allocation leaves open
+# CLAIM-454: A recovered mode is not a perspective
 
 ## The claim
 

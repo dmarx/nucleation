@@ -3,7 +3,11 @@ number: 275
 status: Active
 formerly:
 - CLAIM-tmpbkp1k
-title: 'An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence can co-evolve, and none of them is upstream of the others in every case'
+title: 'Intervention can precede interpretation'
+statement: >-
+  An intervention can come before the interpretation it makes available, so
+  in an organization of processes meaning, policy and influence can
+  co-evolve, and none of them is upstream of the others in every case
 version: 2
 history:
 - version: 2
@@ -51,7 +55,7 @@ uses:
 ---
 <!-- inactive-ok-file: THEORY-055 THEORY-057 CLAIM-255 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-275: An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence can co-evolve, and none of them is upstream of the others in every case
+# CLAIM-275: Intervention can precede interpretation
 
 ## The claim
 

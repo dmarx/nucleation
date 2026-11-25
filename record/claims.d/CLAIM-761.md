@@ -3,7 +3,15 @@ number: 761
 status: Active
 formerly:
 - CLAIM-tmpqpd2p
-title: 'A stabilized constraint can be stored work: by replacing later work with cheaper operations it changes which activities are realizable within a fixed per-task budget, so amortization becomes capability expansion without any added degrees of freedom or resources; the expansion is conditional on the costs of constructing, keeping, retrieving, verifying and revising the constraint and on the distribution of later demands, and the persistence that buys it can entrench'
+title: 'Stabilized constraints as stored work'
+statement: >-
+  A stabilized constraint can be stored work: by replacing later work with
+  cheaper operations it changes which activities are realizable within a
+  fixed per-task budget, so amortization becomes capability expansion
+  without any added degrees of freedom or resources; the expansion is
+  conditional on the costs of constructing, keeping, retrieving, verifying
+  and revising the constraint and on the distribution of later demands, and
+  the persistence that buys it can entrench
 version: 5
 history:
 - version: 2
@@ -110,7 +118,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-755 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-761: A stabilized constraint can be stored work: by replacing later work with cheaper operations it changes which activities are realizable within a fixed per-task budget, so amortization becomes capability expansion without any added degrees of freedom or resources; the expansion is conditional on the costs of constructing, keeping, retrieving, verifying and revising the constraint and on the distribution of later demands, and the persistence that buys it can entrench
+# CLAIM-761: Stabilized constraints as stored work
 
 ## The claim
 

@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'Strong originalism is deficient where it assumes specification exhaustiveness, that recovering a constitution''s formative specification suffices to settle the consequential questions about its developed realization: the deficiency is not in originalism''s theory of meaning but in the passage from historical meaning to legitimate governance'
+title: 'Originalism errs in assuming exhaustiveness'
+statement: >-
+  Strong originalism is deficient where it assumes specification
+  exhaustiveness, that recovering a constitution's formative specification
+  suffices to settle the consequential questions about its developed
+  realization: the deficiency is not in originalism's theory of meaning but
+  in the passage from historical meaning to legitimate governance
 version: 1
 role: thesis
 warrant: interpretive
@@ -35,7 +41,7 @@ summary: >-
 
 <!-- inactive-ok-file: ARG-tmptjsx2 CLAIM-tmpazcha CLAIM-tmpgmxs0 CLAIM-tmpmp2wh LIT-tmp3huft LIT-tmps708j — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# CLAIM-tmpr2qzg: Strong originalism is deficient where it assumes specification exhaustiveness, that recovering a constitution's formative specification suffices to settle the consequential questions about its developed realization: the deficiency is not in originalism's theory of meaning but in the passage from historical meaning to legitimate governance
+# CLAIM-tmpr2qzg: Originalism errs in assuming exhaustiveness
 
 ## The claim
 

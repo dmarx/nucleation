@@ -3,7 +3,11 @@ number: 822
 status: Proposed
 formerly:
 - CLAIM-tmpfwwfy
-title: "Concentration of measure, such as a Gaussian vector's concentration on a thin annulus, is an important consideration in modelling a deep network's representational manifold as an active-matter system in high dimension"
+title: 'High-D concentration matters for active matter'
+statement: >-
+  Concentration of measure, such as a Gaussian vector's concentration on a
+  thin annulus, is an important consideration in modelling a deep network's
+  representational manifold as an active-matter system in high dimension
 version: 1
 role: thesis
 warrant: interpretive
@@ -37,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-797 CLAIM-838 CLAIM-847 CLAIM-799 CLAIM-848 CLAIM-827 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2188 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-822: Concentration of measure, such as a Gaussian vector's concentration on a thin annulus, is an important consideration in modelling a deep network's representational manifold as an active-matter system in high dimension
+# CLAIM-822: High-D concentration matters for active matter
 
 ## The claim
 

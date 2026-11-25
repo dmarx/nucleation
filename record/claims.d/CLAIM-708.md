@@ -3,7 +3,15 @@ number: 708
 status: Proposed
 formerly:
 - CLAIM-tmpnw7ez
-title: 'Responsibility for one''s own conduct and responsibility for the conditions under which another acts are distinct and can both hold of one outcome: a party who wrongfully structures another''s circumstances so that a wrong becomes likely, hard to avoid or apparently necessary can answer for that wrong while the one who commits it still answers for committing it, and the structuring is also a wrong of its own against the person structured, whether or not they comply'
+title: 'Who structures a wrong answers for it too'
+statement: >-
+  Responsibility for one's own conduct and responsibility for the conditions
+  under which another acts are distinct and can both hold of one outcome: a
+  party who wrongfully structures another's circumstances so that a wrong
+  becomes likely, hard to avoid or apparently necessary can answer for that
+  wrong while the one who commits it still answers for committing it, and
+  the structuring is also a wrong of its own against the person structured,
+  whether or not they comply
 version: 17
 history:
 - version: 2
@@ -148,7 +156,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-671 — Proposed; a neighbour, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-445 THEORY-147 — Proposed; the neighbours, cited with their standing -->
 
-# CLAIM-708: Responsibility for one's own conduct and responsibility for the conditions under which another acts are distinct and can both hold of one outcome: a party who wrongfully structures another's circumstances so that a wrong becomes likely, hard to avoid or apparently necessary can answer for that wrong while the one who commits it still answers for committing it, and the structuring is also a wrong of its own against the person structured, whether or not they comply
+# CLAIM-708: Who structures a wrong answers for it too
 
 ## The claim
 

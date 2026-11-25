@@ -3,7 +3,13 @@ number: 826
 status: Proposed
 formerly:
 - CLAIM-tmpjbee7
-title: "Near a critical point a system becomes harder to separate into levels and easier to classify: fluctuations stay collectively consequential across scales, so no separation of levels holds, while the details of the microscopic interactions become irrelevant to the scaling exponents, so systems fall into a few universality classes"
+title: 'Criticality: no level separation, few classes'
+statement: >-
+  Near a critical point a system becomes harder to separate into levels and
+  easier to classify: fluctuations stay collectively consequential across
+  scales, so no separation of levels holds, while the details of the
+  microscopic interactions become irrelevant to the scaling exponents, so
+  systems fall into a few universality classes
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-139 THEORY-777 CLAIM-478 CLAIM-820 — Proposed or new, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, or Proposed entries the record already held -->
 
-# CLAIM-826: Near a critical point a system becomes harder to separate into levels and easier to classify: fluctuations stay collectively consequential across scales, so no separation of levels holds, while the details of the microscopic interactions become irrelevant to the scaling exponents, so systems fall into a few universality classes
+# CLAIM-826: Criticality: no level separation, few classes
 
 ## The claim
 

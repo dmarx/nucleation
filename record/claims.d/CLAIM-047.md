@@ -3,7 +3,10 @@ number: 47
 status: Active
 formerly:
 - CLAIM-tmpd9rrq
-title: 'Possessing an action-generating regime is not the same as its being practically effective'
+title: 'Possessing a regime is not its being effective'
+statement: >-
+  Possessing an action-generating regime is not the same as its being
+  practically effective
 version: 3
 history:
 - version: 2
@@ -52,7 +55,7 @@ bears_on:
 <!-- ref::uses-file: TERM-019 — stated in "action-generating regime"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: THEORY-120 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-047: Possessing an action-generating regime is not the same as its being practically effective
+# CLAIM-047: Possessing a regime is not its being effective
 
 ## The claim
 

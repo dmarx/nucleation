@@ -3,7 +3,17 @@ number: 890
 status: Proposed
 formerly:
 - CLAIM-tmp773u9
-title: 'Set beside the Northstar model, control theory''s regulation and executive control give the control-only models, which miss the difference, so against them the will-organization variables are implemented and not replaced; planning theory, holding the plan fixed as the case does, gives no difference at all; institutional theory already writes the relations as rules-in-use, so for an organization the difference is one an existing theory gives, and what is left of the explanatory-gain claim is that one description serves across realizers, which a model of one realizer cannot test'
+title: 'Existing theories give Northstar''s difference'
+statement: >-
+  Set beside the Northstar model, control theory's regulation and executive
+  control give the control-only models, which miss the difference, so
+  against them the will-organization variables are implemented and not
+  replaced; planning theory, holding the plan fixed as the case does, gives
+  no difference at all; institutional theory already writes the relations as
+  rules-in-use, so for an organization the difference is one an existing
+  theory gives, and what is left of the explanatory-gain claim is that one
+  description serves across realizers, which a model of one realizer cannot
+  test
 version: 1
 role: thesis
 warrant: interpretive
@@ -54,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-488 — Unavailable; Bratman's account of shared agency, not read, named as the reading that could change the planning verdict -->
 <!-- inactive-ok-file: CLAIM-889 — new; the finding and the study this reads -->
 
-# CLAIM-890: Set beside the Northstar model, control theory's regulation and executive control give the control-only models, which miss the difference, so against them the will-organization variables are implemented and not replaced; planning theory, holding the plan fixed as the case does, gives no difference at all; institutional theory already writes the relations as rules-in-use, so for an organization the difference is one an existing theory gives, and what is left of the explanatory-gain claim is that one description serves across realizers, which a model of one realizer cannot test
+# CLAIM-890: Existing theories give Northstar's difference
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 674
 status: Active
 formerly:
 - CLAIM-tmp58u4k
-title: 'An arrangement, a technology among them, can satisfy people''s preferences more fully, and raise the well-being they report, while narrowing their opportunities to engage actively with what is worthwhile, so success at satisfying preferences does not show that the lives an arrangement leaves open are going better'
+title: 'Satisfied preferences do not show better lives'
+statement: >-
+  An arrangement, a technology among them, can satisfy people's preferences
+  more fully, and raise the well-being they report, while narrowing their
+  opportunities to engage actively with what is worthwhile, so success at
+  satisfying preferences does not show that the lives an arrangement leaves
+  open are going better
 version: 3
 history:
 - version: 2
@@ -74,7 +80,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1853 THEORY-1861 CLAIM-677 ARG-106 ARG-102 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-1921 — Skimmed; the excerpt of Tools for Conviviality -->
 
-# CLAIM-674: An arrangement, a technology among them, can satisfy people's preferences more fully, and raise the well-being they report, while narrowing their opportunities to engage actively with what is worthwhile, so success at satisfying preferences does not show that the lives an arrangement leaves open are going better
+# CLAIM-674: Satisfied preferences do not show better lives
 
 ## The claim
 

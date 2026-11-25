@@ -3,7 +3,13 @@ number: 1005
 status: Proposed
 formerly:
 - CLAIM-tmp20uni
-title: 'On the Tempe failure the criminal process, the process built to assign blame, charged and convicted only the operator and declined to charge the company, while the investigation barred from assigning blame named the company''s safety culture and the state''s oversight and addressed its recommendations to them'
+title: 'Tempe: criminal law convicted only the operator'
+statement: >-
+  On the Tempe failure the criminal process, the process built to assign
+  blame, charged and convicted only the operator and declined to charge the
+  company, while the investigation barred from assigning blame named the
+  company's safety culture and the state's oversight and addressed its
+  recommendations to them
 version: 1
 role: thesis
 warrant: empirical
@@ -54,7 +60,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-232 — new; the reading, the objection and the argument filed with this claim -->
 <!-- inactive-ok-file: CLAIM-751 CLAIM-707 CLAIM-733 THEORY-1932 CASE-292 — Proposed; the claims it complements and corroborates and the case it draws on -->
 
-# CLAIM-1005: On the Tempe failure the criminal process, the process built to assign blame, charged and convicted only the operator and declined to charge the company, while the investigation barred from assigning blame named the company's safety culture and the state's oversight and addressed its recommendations to them
+# CLAIM-1005: Tempe: criminal law convicted only the operator
 
 ## The claim
 

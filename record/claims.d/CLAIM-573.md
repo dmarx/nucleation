@@ -3,7 +3,13 @@ number: 573
 status: Proposed
 formerly:
 - CLAIM-tmpe18y0
-title: 'Families of constrained systems on different physical substrates may admit equivalent resource-bounded process structures under two-way resource simulation with bounded overhead, even where their configuration spaces and microscopic dynamics differ, and the classes so defined for feasibility, reachability, control and regeneration need not coincide'
+title: 'Substrates can share process structures'
+statement: >-
+  Families of constrained systems on different physical substrates may admit
+  equivalent resource-bounded process structures under two-way resource
+  simulation with bounded overhead, even where their configuration spaces
+  and microscopic dynamics differ, and the classes so defined for
+  feasibility, reachability, control and regeneration need not coincide
 version: 2
 history:
 - version: 2
@@ -59,7 +65,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-111 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
-# CLAIM-573: Families of constrained systems on different physical substrates may admit equivalent resource-bounded process structures under two-way resource simulation with bounded overhead, even where their configuration spaces and microscopic dynamics differ, and the classes so defined for feasibility, reachability, control and regeneration need not coincide
+# CLAIM-573: Substrates can share process structures
 
 ## The claim
 

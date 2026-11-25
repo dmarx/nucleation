@@ -3,7 +3,12 @@ number: 491
 status: Proposed
 formerly:
 - CLAIM-tmpjylq8
-title: "No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity"
+title: 'No action is selfless'
+statement: >-
+  No action is selfless in the sense of aiming at a good that is no self's:
+  what is called selflessness, collectivist or altruistic, is concern for
+  the good of a self extended to include others or a group, so collectivism
+  is self-interest on a larger self-identity
 version: 6
 history:
 - version: 2
@@ -99,7 +104,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-494 THEORY-1114 THEORY-1115 THEORY-655 LIT-1700 LIT-1706 LIT-1782 LIT-1759 — Open, Proposed or Deferred; the question, objections, readings and unread works the thesis is stated against, nothing here rests on their being settled -->
 
-# CLAIM-491: No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity
+# CLAIM-491: No action is selfless
 
 ## The claim
 

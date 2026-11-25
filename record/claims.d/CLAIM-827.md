@@ -3,7 +3,15 @@ number: 827
 status: Proposed
 formerly:
 - CLAIM-tmpk33au
-title: 'The occupancy threshold of a cone holding a fixed share of random directions, the BBP threshold and the alignment bifurcation are three different thresholds on one scale of alignment strength: the first at κ of order √D, the second at κ = √D·(D/N)^(1/4), the third at a coupling of order D; only the last is a transition of the system, and in the mean-field alignment model the ordering mode becomes BBP-detectable at coupling D/(1 + √(D/N)), an early warning before the bifurcation at D'
+title: 'Three alignment thresholds; BBP warns early'
+statement: >-
+  The occupancy threshold of a cone holding a fixed share of random
+  directions, the BBP threshold and the alignment bifurcation are three
+  different thresholds on one scale of alignment strength: the first at κ of
+  order √D, the second at κ = √D·(D/N)^(1/4), the third at a coupling of
+  order D; only the last is a transition of the system, and in the
+  mean-field alignment model the ordering mode becomes BBP-detectable at
+  coupling D/(1 + √(D/N)), an early warning before the bifurcation at D
 version: 1
 role: thesis
 warrant: demonstrated
@@ -48,7 +56,7 @@ grounds:
 <!-- inactive-ok-file: THEORY-2152 THEORY-2149 THEORY-2148 ARG-135 ARG-151 ARG-145 — Proposed; the readings and arguments of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2186 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-827: The occupancy threshold of a cone holding a fixed share of random directions, the BBP threshold and the alignment bifurcation are three different thresholds on one scale of alignment strength: the first at κ of order √D, the second at κ = √D·(D/N)^(1/4), the third at a coupling of order D; only the last is a transition of the system, and in the mean-field alignment model the ordering mode becomes BBP-detectable at coupling D/(1 + √(D/N)), an early warning before the bifurcation at D
+# CLAIM-827: Three alignment thresholds; BBP warns early
 
 ## The claim
 

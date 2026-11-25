@@ -3,7 +3,14 @@ number: 560
 status: Active
 formerly:
 - CLAIM-tmp4rtpa
-title: 'The resource-indexed compatibility filtration and the resource-indexed reachability filtration of one architecture both grow with the budget and neither determines the other: a budget can make a transition between configurations already feasible affordable while adding no jointly satisfiable set of demands, and a configuration can be feasible at a budget at which it is unreachable from the start'
+title: 'Budget filtrations: neither fixes the other'
+statement: >-
+  The resource-indexed compatibility filtration and the resource-indexed
+  reachability filtration of one architecture both grow with the budget and
+  neither determines the other: a budget can make a transition between
+  configurations already feasible affordable while adding no jointly
+  satisfiable set of demands, and a configuration can be feasible at a
+  budget at which it is unreachable from the start
 version: 3
 history:
 - version: 2
@@ -78,7 +85,7 @@ works:
 <!-- inactive-ok-file: THEORY-1420 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- ref::uses-file: TERM-114 — "an architecture with configurations Q, moves between them, a capacity requirement r and demands", with reachability R(b) indexed by budget, is TERM-114's resource-bounded constraint system -->
 
-# CLAIM-560: The resource-indexed compatibility filtration and the resource-indexed reachability filtration of one architecture both grow with the budget and neither determines the other: a budget can make a transition between configurations already feasible affordable while adding no jointly satisfiable set of demands, and a configuration can be feasible at a budget at which it is unreachable from the start
+# CLAIM-560: Budget filtrations: neither fixes the other
 
 ## The claim
 

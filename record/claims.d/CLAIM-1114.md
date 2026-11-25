@@ -3,11 +3,14 @@ number: 1114
 status: Active
 formerly:
 - CLAIM-tmpiwxla
-title: Where a response runs through stages that do not compete for a shared resource,
-  its time is a property of the route, stages in sequence adding their times, stages
-  that overlap contributing the longest of theirs and a stage completed before
-  the contingency contributing nothing, so the slowest component bounds the response
-  time only when it lies on the route and is still to be done
+title: 'Response time is a property of the route'
+statement: >-
+  Where a response runs through stages that do not compete for a shared
+  resource, its time is a property of the route, stages in sequence adding
+  their times, stages that overlap contributing the longest of theirs and a
+  stage completed before the contingency contributing nothing, so the
+  slowest component bounds the response time only when it lies on the route
+  and is still to be done
 version: 2
 history:
 - version: 2
@@ -52,7 +55,7 @@ summary: 'A gap fill: a gap of the manuscript governance-of-possibility, §10.3 
 
 <!-- inactive-ok-file: CLAIM-711 CLAIM-423 CASE-316 — Proposed; the claims the manuscript's join also uses, and the case of competing stages -->
 
-# CLAIM-1114: Where a response runs through stages that do not compete for a shared resource, its time is a property of the route, stages in sequence adding their times, stages that overlap contributing the longest of theirs and a stage completed before the contingency contributing nothing, so the slowest component bounds the response time only when it lies on the route and is still to be done
+# CLAIM-1114: Response time is a property of the route
 
 ## The construction
 

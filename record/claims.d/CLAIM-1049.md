@@ -3,7 +3,14 @@ number: 1049
 status: Proposed
 formerly:
 - CLAIM-tmp86z76
-title: 'A governed record can stabilize collaborators'' contributions and synchronize them without making their perspectives converge: it constrains revisions of the public record, not of anyone''s perspective, so the record can approach full compliance with its constraints while the perspectives stay apart, and convergence, where it comes, can be on a regime of accountable disagreement rather than on one view'
+title: 'A governed record syncs without converging'
+statement: >-
+  A governed record can stabilize collaborators' contributions and
+  synchronize them without making their perspectives converge: it constrains
+  revisions of the public record, not of anyone's perspective, so the record
+  can approach full compliance with its constraints while the perspectives
+  stay apart, and convergence, where it comes, can be on a regime of
+  accountable disagreement rather than on one view
 version: 1
 role: thesis
 warrant: interpretive
@@ -54,7 +61,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-668 CLAIM-785 CLAIM-276 CLAIM-181 CLAIM-783 CLAIM-1159 — Proposed; premises, neighbours and the claim filed beside this one -->
 
-# CLAIM-1049: A governed record can stabilize collaborators' contributions and synchronize them without making their perspectives converge: it constrains revisions of the public record, not of anyone's perspective, so the record can approach full compliance with its constraints while the perspectives stay apart, and convergence, where it comes, can be on a regime of accountable disagreement rather than on one view
+# CLAIM-1049: A governed record syncs without converging
 
 ## The claim
 

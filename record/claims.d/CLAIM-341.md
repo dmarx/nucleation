@@ -3,7 +3,13 @@ number: 341
 status: Active
 formerly:
 - CLAIM-tmpq9do8
-title: 'The loop that keeps a lucid agent''s model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference''s action–perception cycle misplaces where the agent is active'
+title: 'The lucid loop runs judgement to observation'
+statement: >-
+  The loop that keeps a lucid agent's model in touch with what it models
+  runs between judgement and observation: each judgement reshapes the
+  observer whose later observations it then judges, and action on the world
+  is not part of that loop, so active inference's action–perception cycle
+  misplaces where the agent is active
 version: 5
 history:
 - version: 2
@@ -106,7 +112,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
-# CLAIM-341: The loop that keeps a lucid agent's model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference's action–perception cycle misplaces where the agent is active
+# CLAIM-341: The lucid loop runs judgement to observation
 
 ## The claim
 

@@ -3,7 +3,11 @@ number: 261
 status: Active
 formerly:
 - CLAIM-tmp5vc3p
-title: "Synchronization of an agent's interests is desirable, but not necessary for acting as one: internal conflict shows a human agent acting while its interests stay divided"
+title: 'Acting as one needs no synchronization'
+statement: >-
+  Synchronization of an agent's interests is desirable, but not necessary
+  for acting as one: internal conflict shows a human agent acting while its
+  interests stay divided
 version: 2
 history:
 - version: 1
@@ -58,7 +62,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-162 CLAIM-198 — Proposed; the record's open claims on synchronization and division, set beside this one -->
 
-# CLAIM-261: Synchronization of an agent's interests is desirable, but not necessary for acting as one: internal conflict shows a human agent acting while its interests stay divided
+# CLAIM-261: Acting as one needs no synchronization
 
 ## The claim
 

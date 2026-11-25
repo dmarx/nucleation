@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'An expectation can be structural rather than represented: a process can be organized so that its working presupposes another''s behaviour, and the presupposition can be realized in a capacity it has stopped maintaining, so that it no longer needs, or no longer knows how, to do the thing for itself'
+title: 'Expectations can be structural, not represented'
+statement: >-
+  An expectation can be structural rather than represented: a process can be
+  organized so that its working presupposes another's behaviour, and the
+  presupposition can be realized in a capacity it has stopped maintaining,
+  so that it no longer needs, or no longer knows how, to do the thing for
+  itself
 version: 1
 role: thesis
 warrant: interpretive
@@ -39,7 +45,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmp0d1fq CLAIM-603 CLAIM-tmp1nubb — Proposed; the owner's thesis this develops, the held capability-loss claim, and the identification claim filed with this from A20 -->
 
-# CLAIM-tmp18v1o: An expectation can be structural rather than represented: a process can be organized so that its working presupposes another's behaviour, and the presupposition can be realized in a capacity it has stopped maintaining, so that it no longer needs, or no longer knows how, to do the thing for itself
+# CLAIM-tmp18v1o: Expectations can be structural, not represented
 
 ## The claim
 

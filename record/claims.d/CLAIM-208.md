@@ -3,7 +3,11 @@ number: 208
 status: Active
 formerly:
 - CLAIM-tmp6zbr9
-title: 'The compositional predictions are upper bounds whose constants cannot be estimated from serial-reproduction data in a metric fixed beforehand, so the compositional half of the success criterion cannot fail'
+title: 'Compositional criterion cannot fail'
+statement: >-
+  The compositional predictions are upper bounds whose constants cannot be
+  estimated from serial-reproduction data in a metric fixed beforehand, so
+  the compositional half of the success criterion cannot fail
 version: 3
 history:
 - version: 2
@@ -48,7 +52,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-078 CLAIM-059 — Proposed; open, and cited as the claims this objection is to -->
 
-# CLAIM-208: The compositional predictions are upper bounds whose constants cannot be estimated from serial-reproduction data in a metric fixed beforehand, so the compositional half of the success criterion cannot fail
+# CLAIM-208: Compositional criterion cannot fail
 
 ## The objection
 

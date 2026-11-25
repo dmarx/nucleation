@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: A record kept in git passes the migration test for its sources and their history, which are content-addressed and travel with any clone, but not for what lives only on its host, such as pull-request descriptions, reviews and CI logs, which keep the owner's choices before they are filed and which hundreds of its files cite by number, nor for authorship, which most of its commits do not sign
+title: 'Git passes migration for sources, not host data'
+statement: >-
+  A record kept in git passes the migration test for its sources and their
+  history, which are content-addressed and travel with any clone, but not
+  for what lives only on its host, such as pull-request descriptions,
+  reviews and CI logs, which keep the owner's choices before they are filed
+  and which hundreds of its files cite by number, nor for authorship, which
+  most of its commits do not sign
 version: 2
 history:
 - version: 2
@@ -42,7 +49,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmp48g02 CLAIM-tmpk6vy2 CLAIM-tmpjf44i — Proposed; A45's reference-implementation claim, A's guarantees and migration test, the owner's thesis, and the assistant's claim on registration -->
 
-# CLAIM-tmp80nuw: A record kept in git passes the migration test for its sources and their history, which are content-addressed and travel with any clone, but not for what lives only on its host, such as pull-request descriptions, reviews and CI logs, which keep the owner's choices before they are filed and which hundreds of its files cite by number, nor for authorship, which most of its commits do not sign
+# CLAIM-tmp80nuw: Git passes migration for sources, not host data
 
 ## The gap
 

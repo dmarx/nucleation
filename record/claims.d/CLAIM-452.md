@@ -3,7 +3,17 @@ number: 452
 status: Active
 formerly:
 - CLAIM-tmpa8ttt
-title: 'For an organization whose response in each probe context is the authority-weighted mixture of its processes'' known response profiles, the authority shares are identifiable from a set of contexts exactly when the processes'' stacked profiles over those contexts are affinely independent; because the response is linear in the shares, local and global identifiability coincide, the condition is that the Fisher information of any design supported on those contexts is positive definite on the simplex''s tangent space, and with binary outcomes at least one context fewer than there are processes is needed'
+title: 'Authority shares identifiable from contexts'
+statement: >-
+  For an organization whose response in each probe context is the
+  authority-weighted mixture of its processes' known response profiles, the
+  authority shares are identifiable from a set of contexts exactly when the
+  processes' stacked profiles over those contexts are affinely independent;
+  because the response is linear in the shares, local and global
+  identifiability coincide, the condition is that the Fisher information of
+  any design supported on those contexts is positive definite on the
+  simplex's tangent space, and with binary outcomes at least one context
+  fewer than there are processes is needed
 version: 2
 history:
 - version: 1
@@ -61,7 +71,7 @@ complements:
 - CLAIM-444
 ---
 
-# CLAIM-452: For an organization whose response in each probe context is the authority-weighted mixture of its processes' known response profiles, the authority shares are identifiable from a set of contexts exactly when the processes' stacked profiles over those contexts are affinely independent; because the response is linear in the shares, local and global identifiability coincide, the condition is that the Fisher information of any design supported on those contexts is positive definite on the simplex's tangent space, and with binary outcomes at least one context fewer than there are processes is needed
+# CLAIM-452: Authority shares identifiable from contexts
 
 ## The claim
 

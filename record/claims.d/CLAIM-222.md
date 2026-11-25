@@ -3,7 +3,11 @@ number: 222
 status: Active
 formerly:
 - CLAIM-tmpc3xwx
-title: 'No design in the programme includes an interlingual translation, and the defeat conditions are disjunctive, so English retellings and model chains could settle a thesis about what survives translation'
+title: 'No design tests interlingual translation'
+statement: >-
+  No design in the programme includes an interlingual translation, and the
+  defeat conditions are disjunctive, so English retellings and model chains
+  could settle a thesis about what survives translation
 version: 2
 history:
 - version: 2
@@ -43,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-033 CLAIM-087 — Proposed; open, cited for the grammar point and a design's target, not as settled -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-204 — Proposed; the record's revised theses of 2026-10-10, open, cited in the history as the repair -->
 
-# CLAIM-222: No design in the programme includes an interlingual translation, and the defeat conditions are disjunctive, so English retellings and model chains could settle a thesis about what survives translation
+# CLAIM-222: No design tests interlingual translation
 
 ## The objection
 

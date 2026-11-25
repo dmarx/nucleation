@@ -1,6 +1,10 @@
 ---
 status: Proposed
-title: 'Contracts include implicit ones: an unspoken understanding can form as expectations and assumptions built on consistently observed behaviour evolve into dependencies, with no agreement ever made'
+title: 'Implicit contracts form without agreement'
+statement: >-
+  Contracts include implicit ones: an unspoken understanding can form as
+  expectations and assumptions built on consistently observed behaviour
+  evolve into dependencies, with no agreement ever made
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +47,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmp18v1o CLAIM-tmp1nubb CLAIM-tmp0i6c0 CLAIM-603 CLAIM-728 LIT-tmp1xqzu LIT-tmpwdxhm LIT-473 — Proposed, Deferred or Unavailable; filed with this from U16–U19, the held claims it sits beside, and the works registered from A20 or held unread -->
 
-# CLAIM-tmp0d1fq: Contracts include implicit ones: an unspoken understanding can form as expectations and assumptions built on consistently observed behaviour evolve into dependencies, with no agreement ever made
+# CLAIM-tmp0d1fq: Implicit contracts form without agreement
 
 ## The claim
 

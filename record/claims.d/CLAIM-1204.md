@@ -3,7 +3,15 @@ number: 1204
 status: Proposed
 formerly:
 - CLAIM-tmpzi0ri
-title: 'In a kinetic constraint-growth system, counting the states each component could still take when it first reaches the binding threshold, under deterministic growth from the seed set, predicts the chance of exact assembly and flags the seed additions that lower it on architectures it was not designed on, where island-based predictors do not; its flags are weak, and its transfer is across architectures of one system, not across systems'
+title: 'Counting states at binding predicts assembly'
+statement: >-
+  In a kinetic constraint-growth system, counting the states each component
+  could still take when it first reaches the binding threshold, under
+  deterministic growth from the seed set, predicts the chance of exact
+  assembly and flags the seed additions that lower it on architectures it
+  was not designed on, where island-based predictors do not; its flags are
+  weak, and its transfer is across architectures of one system, not across
+  systems
 version: 1
 history:
 - version: 1
@@ -54,7 +62,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-969 — Proposed; the committor claim this complements -->
 <!-- inactive-ok-file: CLAIM-1205 — new; the claim on the failed predictor, filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1204: In a kinetic constraint-growth system, counting the states each component could still take when it first reaches the binding threshold, under deterministic growth from the seed set, predicts the chance of exact assembly and flags the seed additions that lower it on architectures it was not designed on, where island-based predictors do not; its flags are weak, and its transfer is across architectures of one system, not across systems
+# CLAIM-1204: Counting states at binding predicts assembly
 
 ## The claim
 

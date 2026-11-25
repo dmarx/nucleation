@@ -3,7 +3,15 @@ number: 1106
 status: Proposed
 formerly:
 - CLAIM-tmph9g28
-title: "Intelligence may be understood as the adaptive organization of epistemic ecological richness: richness is what an ecology of differentiated perspectives makes available or can develop, intelligence is the capacity to mobilize, coordinate, evaluate and expand it under resource-bounded demands, so diversity contributes to intelligence without being a synonym for it, and two systems equally competent today can be unequally intelligent for the demands they may meet tomorrow"
+title: 'Intelligence organizes ecological richness'
+statement: >-
+  Intelligence may be understood as the adaptive organization of epistemic
+  ecological richness: richness is what an ecology of differentiated
+  perspectives makes available or can develop, intelligence is the capacity
+  to mobilize, coordinate, evaluate and expand it under resource-bounded
+  demands, so diversity contributes to intelligence without being a synonym
+  for it, and two systems equally competent today can be unequally
+  intelligent for the demands they may meet tomorrow
 version: 1
 role: thesis
 warrant: interpretive
@@ -48,7 +56,7 @@ summary: >-
 
 <!-- inactive-ok-file: ARG-222 ARG-231 CLAIM-754 CLAIM-1015 CLAIM-1042 CLAIM-1060 CLAIM-1102 CLAIM-1118 CLAIM-1134 CLAIM-1148 CLAIM-1175 CLAIM-1177 TERM-157 TERM-158 THEORY-402 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
-# CLAIM-1106: Intelligence may be understood as the adaptive organization of epistemic ecological richness: richness is what an ecology of differentiated perspectives makes available or can develop, intelligence is the capacity to mobilize, coordinate, evaluate and expand it under resource-bounded demands, so diversity contributes to intelligence without being a synonym for it, and two systems equally competent today can be unequally intelligent for the demands they may meet tomorrow
+# CLAIM-1106: Intelligence organizes ecological richness
 
 ## The claim
 

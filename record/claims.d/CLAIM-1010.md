@@ -3,12 +3,14 @@ number: 1010
 status: Active
 formerly:
 - CLAIM-tmp2k3c5
-title: If practice must stay within ε of a governing reference that can be
+title: 'Slow revision fails short-horizon demands'
+statement: >-
+  If practice must stay within ε of a governing reference that can be
   revised at most at rate v, a demand to bring practice within δ of a target
   at distance 1 by deadline H can be met only if vH ≥ 1 − δ − ε, so the same
-  rate of revision is adequate to a demand with a long horizon and inadequate
-  to one with a short horizon, and a fixed reference (v = 0) meets no demand
-  farther than δ + ε
+  rate of revision is adequate to a demand with a long horizon and
+  inadequate to one with a short horizon, and a fixed reference (v = 0)
+  meets no demand farther than δ + ε
 version: 3
 history:
 - version: 2
@@ -51,7 +53,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-1010: If practice must stay within ε of a governing reference that can be revised at most at rate v, a demand to bring practice within δ of a target at distance 1 by deadline H can be met only if vH ≥ 1 − δ − ε, so the same rate of revision is adequate to a demand with a long horizon and inadequate to one with a short horizon, and a fixed reference (v = 0) meets no demand farther than δ + ε
+# CLAIM-1010: Slow revision fails short-horizon demands
 
 ## Derivation
 

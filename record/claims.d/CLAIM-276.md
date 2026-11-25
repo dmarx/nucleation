@@ -3,7 +3,12 @@ number: 276
 status: Proposed
 formerly:
 - CLAIM-tmpejpqc
-title: 'A shared interpretation''s coherence, its fidelity to evidence and the plurality of live alternatives are separate quantities, and a population can raise the first while lowering the other two, so a collective interpretation''s stability is no evidence of its truth'
+title: 'Stable interpretation is no evidence of truth'
+statement: >-
+  A shared interpretation's coherence, its fidelity to evidence and the
+  plurality of live alternatives are separate quantities, and a population
+  can raise the first while lowering the other two, so a collective
+  interpretation's stability is no evidence of its truth
 version: 2
 history:
 - version: 2
@@ -50,7 +55,7 @@ complements:
 ---
 <!-- inactive-ok-file: THEORY-143 CLAIM-191 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-276: A shared interpretation's coherence, its fidelity to evidence and the plurality of live alternatives are separate quantities, and a population can raise the first while lowering the other two, so a collective interpretation's stability is no evidence of its truth
+# CLAIM-276: Stable interpretation is no evidence of truth
 
 ## The claim
 

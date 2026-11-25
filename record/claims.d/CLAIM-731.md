@@ -3,7 +3,13 @@ number: 731
 formerly:
 - CLAIM-tmph28l6
 status: Proposed
-title: 'The cost of imposing a decision and the cost of questioning, suspending or reversing it are separate, so an institution can lower the first while the second stays the same or rises, gaining power over those its decisions affect with no change in its formal authority: friction moves from the exercise of power to its contestation'
+title: 'Friction moves from power to contestation'
+statement: >-
+  The cost of imposing a decision and the cost of questioning, suspending or
+  reversing it are separate, so an institution can lower the first while the
+  second stays the same or rises, gaining power over those its decisions
+  affect with no change in its formal authority: friction moves from the
+  exercise of power to its contestation
 version: 5
 history:
 - version: 2
@@ -77,7 +83,7 @@ works:
 <!-- inactive-ok-file: CASE-285 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 <!-- inactive-ok-file: TERM-124 CLAIM-669 — Proposed; the record's term for domination and a neighbouring claim -->
 
-# CLAIM-731: The cost of imposing a decision and the cost of questioning, suspending or reversing it are separate, so an institution can lower the first while the second stays the same or rises, gaining power over those its decisions affect with no change in its formal authority: friction moves from the exercise of power to its contestation
+# CLAIM-731: Friction moves from power to contestation
 
 ## The claim
 

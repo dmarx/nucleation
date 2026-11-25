@@ -3,7 +3,11 @@ number: 993
 status: Proposed
 formerly:
 - CLAIM-tmpr7v4j
-title: 'In small ReLU networks the barrier that survives alignment is set by width, by the group quotiented and by the path family, and does not sort pairs by the input cue they rely on'
+title: 'Barrier set by width, group and path family'
+statement: >-
+  In small ReLU networks the barrier that survives alignment is set by
+  width, by the group quotiented and by the path family, and does not sort
+  pairs by the input cue they rely on
 version: 1
 history:
 - version: 1
@@ -53,7 +57,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-385 CLAIM-994 CLAIM-992 — new; the study this rests on and the two readings filed with it -->
 <!-- inactive-ok-file: CLAIM-263 THEORY-108 — Proposed; the claim and the reading this finding tests, open -->
 
-# CLAIM-993: In small ReLU networks the barrier that survives alignment is set by width, by the group quotiented and by the path family, and does not sort pairs by the input cue they rely on
+# CLAIM-993: Barrier set by width, group and path family
 
 ## The claim
 

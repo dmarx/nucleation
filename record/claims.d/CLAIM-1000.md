@@ -3,7 +3,15 @@ number: 1000
 status: Active
 formerly:
 - CLAIM-tmp0v3wu
-title: 'In two coupled meaning–influence institutions, each stable alone, with nonnegative channels by which each one''s meaning moves the other''s evidence or conferral, the symmetric state of the pair is unstable exactly when the round-trip gain exceeds one, which for the built institutions is (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P with Δ_i each institution''s own margin; the meaning rates and the conferral memories cancel, and each institution''s inner loop enters only through its margin'
+title: 'Round-trip gain above one breaks symmetry'
+statement: >-
+  In two coupled meaning–influence institutions, each stable alone, with
+  nonnegative channels by which each one's meaning moves the other's
+  evidence or conferral, the symmetric state of the pair is unstable exactly
+  when the round-trip gain exceeds one, which for the built institutions is
+  (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P with Δ_i each institution's own margin;
+  the meaning rates and the conferral memories cancel, and each
+  institution's inner loop enters only through its margin
 version: 2
 history:
 - version: 1
@@ -64,7 +72,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 
-# CLAIM-1000: In two coupled meaning–influence institutions, each stable alone, with nonnegative channels by which each one's meaning moves the other's evidence or conferral, the symmetric state of the pair is unstable exactly when the round-trip gain exceeds one, which for the built institutions is (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P with Δ_i each institution's own margin; the meaning rates and the conferral memories cancel, and each institution's inner loop enters only through its margin
+# CLAIM-1000: Round-trip gain above one breaks symmetry
 
 ## The claim
 

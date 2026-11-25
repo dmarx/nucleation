@@ -3,7 +3,14 @@ number: 685
 status: Proposed
 formerly:
 - CLAIM-tmpu2cwc
-title: 'Institutions able to recognize, authorize and carry out revisions of their own governing standards avoid persistent normatively significant failures better than institutions that only monitor outcomes against fixed standards, where the inherited standards are inadequate to the problems met, and not on routine work, where the added governance costs without benefit'
+title: 'Self-revision beats monitoring when standards fail'
+statement: >-
+  Institutions able to recognize, authorize and carry out revisions of their
+  own governing standards avoid persistent normatively significant failures
+  better than institutions that only monitor outcomes against fixed
+  standards, where the inherited standards are inadequate to the problems
+  met, and not on routine work, where the added governance costs without
+  benefit
 version: 3
 history:
 - version: 2
@@ -70,7 +77,7 @@ works:
 <!-- inactive-ok-file: THEORY-1841 THEORY-1851 THEORY-1855 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-667 CLAIM-665 CLAIM-624 CLAIM-511 — Proposed; the record's nearest claims, cited with their standing -->
 
-# CLAIM-685: Institutions able to recognize, authorize and carry out revisions of their own governing standards avoid persistent normatively significant failures better than institutions that only monitor outcomes against fixed standards, where the inherited standards are inadequate to the problems met, and not on routine work, where the added governance costs without benefit
+# CLAIM-685: Self-revision beats monitoring when standards fail
 
 ## The claim
 

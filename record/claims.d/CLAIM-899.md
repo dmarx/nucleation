@@ -3,7 +3,17 @@ number: 899
 status: Proposed
 formerly:
 - CLAIM-tmpkcsp7
-title: 'A record of conduct returns, for each window, one of six verdicts, no contest, too few contests, indeterminate, prevails, split by context or ambivalent, and across windows persistence, resumption and alternation, when contest is read from the perspectives'' rankings measured apart from the decisions, alignment is scored for each candidate ordering including a compromise, ambivalence is a misfit to every candidate larger than the record''s own departures on uncontested decisions would produce, and prevalence is a lead over every rival that survives resampling; it measures actual potential, the conflicts won, not dispositional potential'
+title: 'Six verdicts from a record of conduct'
+statement: >-
+  A record of conduct returns, for each window, one of six verdicts, no
+  contest, too few contests, indeterminate, prevails, split by context or
+  ambivalent, and across windows persistence, resumption and alternation,
+  when contest is read from the perspectives' rankings measured apart from
+  the decisions, alignment is scored for each candidate ordering including a
+  compromise, ambivalence is a misfit to every candidate larger than the
+  record's own departures on uncontested decisions would produce, and
+  prevalence is a lead over every rival that survives resampling; it
+  measures actual potential, the conflicts won, not dispositional potential
 version: 1
 history:
 - version: 1
@@ -67,7 +77,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-440 CLAIM-451 THEORY-252 — Proposed; the claim and term whose measure this specifies, the narrowing it keeps and the dilemma it answers for this measure, cited as open -->
 <!-- inactive-ok-file: CASE-330 — new on 2026-11-22; the argument and the application filed with this claim for LEAD-041 -->
 
-# CLAIM-899: A record of conduct returns, for each window, one of six verdicts, no contest, too few contests, indeterminate, prevails, split by context or ambivalent, and across windows persistence, resumption and alternation, when contest is read from the perspectives' rankings measured apart from the decisions, alignment is scored for each candidate ordering including a compromise, ambivalence is a misfit to every candidate larger than the record's own departures on uncontested decisions would produce, and prevalence is a lead over every rival that survives resampling; it measures actual potential, the conflicts won, not dispositional potential
+# CLAIM-899: Six verdicts from a record of conduct
 
 ## The procedure
 

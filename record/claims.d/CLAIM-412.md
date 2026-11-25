@@ -3,7 +3,12 @@ number: 412
 status: Proposed
 formerly:
 - CLAIM-tmpdga80
-title: 'Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization'
+title: 'Experience is constituted by interpretation'
+statement: >-
+  Experience is constituted by interpretive organization, not produced by
+  it: an appropriately organized process in which signals acquire
+  significance for a system is the experience, so whether a system can have
+  experience becomes whether it can sustain that organization
 version: 9
 history:
 - version: 2
@@ -119,7 +124,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1343 — Unavailable; a work registered and not read, cited as such -->
 <!-- inactive-ok-file: THEORY-959 — Proposed; the reading of Isaac's constancy layer, cited as open, nothing here rests on it -->
 <!-- inactive-ok-file: ARG-018 — Rejected; the argument this claim's support verdict moved to -->
-# CLAIM-412: Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization
+# CLAIM-412: Experience is constituted by interpretation
 
 ## The claim
 

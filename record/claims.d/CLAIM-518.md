@@ -3,7 +3,14 @@ number: 518
 status: Active
 formerly:
 - CLAIM-tmpg69cm
-title: 'Normative judgments about an organization''s continuity, reform or obligations can depend on diachronic relations that descriptions of present states or terminal outcomes do not show, so specifying the relevant relations and histories can be necessary to apply them adequately; which continuations ought to follow is a further normative question, not a prerequisite of every normative judgment'
+title: 'Normative judgments can depend on histories'
+statement: >-
+  Normative judgments about an organization's continuity, reform or
+  obligations can depend on diachronic relations that descriptions of
+  present states or terminal outcomes do not show, so specifying the
+  relevant relations and histories can be necessary to apply them
+  adequately; which continuations ought to follow is a further normative
+  question, not a prerequisite of every normative judgment
 version: 4
 history:
 - version: 1
@@ -95,7 +102,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1814 — Proposed, filed 2026-11-12 -->
 
-# CLAIM-518: Normative judgments about an organization's continuity, reform or obligations can depend on diachronic relations that descriptions of present states or terminal outcomes do not show, so specifying the relevant relations and histories can be necessary to apply them adequately; which continuations ought to follow is a further normative question, not a prerequisite of every normative judgment
+# CLAIM-518: Normative judgments can depend on histories
 
 ## The claim
 

@@ -3,7 +3,12 @@ number: 224
 status: Proposed
 formerly:
 - CLAIM-tmpcq79k
-title: 'Under partial relational constitution, a translation always changes the participants, audience and norms that the relational-constitution thesis makes constituents of the act, so whether the act survives turns on a correspondence of relations the structure cannot supply from inside'
+title: 'Translation always changes the act''s relations'
+statement: >-
+  Under partial relational constitution, a translation always changes the
+  participants, audience and norms that the relational-constitution thesis
+  makes constituents of the act, so whether the act survives turns on a
+  correspondence of relations the structure cannot supply from inside
 version: 1
 role: counter
 warrant: interpretive
@@ -43,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-091 — Proposed; cited for the model of translation, not as settled -->
 <!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited for the clause that inherits CLAIM-151, as it stood -->
 
-# CLAIM-224: Under partial relational constitution, a translation always changes the participants, audience and norms that the relational-constitution thesis makes constituents of the act, so whether the act survives turns on a correspondence of relations the structure cannot supply from inside
+# CLAIM-224: Translation always changes the act's relations
 
 ## The objection
 

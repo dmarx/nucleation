@@ -3,7 +3,14 @@ number: 660
 status: Proposed
 formerly:
 - CLAIM-tmpoxhqq
-title: 'Behaviour-manipulating parasites show one organism''s selected adaptations controlling another''s behaviour through the host''s own machinery, not goals the parasite represents and imposes: evolutionary goal-directedness and causal control come apart from intentional agency, and that an action is executed by the host''s own mechanisms does not show that the host''s governance of it is independent'
+title: 'Parasite control is not intentional agency'
+statement: >-
+  Behaviour-manipulating parasites show one organism's selected adaptations
+  controlling another's behaviour through the host's own machinery, not
+  goals the parasite represents and imposes: evolutionary goal-directedness
+  and causal control come apart from intentional agency, and that an action
+  is executed by the host's own mechanisms does not show that the host's
+  governance of it is independent
 version: 2
 history:
 - version: 2
@@ -56,7 +63,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-413 — Proposed; the four roles in units of selection, the beneficiary among them -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-167 — Proposed; the authenticity candidate and the one-system-not-one-agent claim A19 tests against -->
 
-# CLAIM-660: Behaviour-manipulating parasites show one organism's selected adaptations controlling another's behaviour through the host's own machinery, not goals the parasite represents and imposes: evolutionary goal-directedness and causal control come apart from intentional agency, and that an action is executed by the host's own mechanisms does not show that the host's governance of it is independent
+# CLAIM-660: Parasite control is not intentional agency
 
 ## The claim
 

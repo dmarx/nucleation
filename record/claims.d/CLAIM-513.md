@@ -3,7 +3,16 @@ number: 513
 status: Active
 formerly:
 - CLAIM-tmp4htg4
-title: 'Across a family of goals, a world model is not an optional explanation of competent behaviour: in a fully observed, finite, communicating, stationary environment, a goal-conditioned policy within a factor 1 − δ of optimal on every composite goal of depth n fixes every transition probability to within √(2P(1 − P)/((n − 1)(1 − δ))), so observers reading the same policy must ascribe the same world model; what it leaves open is whether a predictive component is realized inside the agent, since a lookup table over histories and goals has the same policy'
+title: 'Competence across goals requires a world model'
+statement: >-
+  Across a family of goals, a world model is not an optional explanation of
+  competent behaviour: in a fully observed, finite, communicating,
+  stationary environment, a goal-conditioned policy within a factor 1 − δ of
+  optimal on every composite goal of depth n fixes every transition
+  probability to within √(2P(1 − P)/((n − 1)(1 − δ))), so observers reading
+  the same policy must ascribe the same world model; what it leaves open is
+  whether a predictive component is realized inside the agent, since a
+  lookup table over histories and goals has the same policy
 version: 1
 role: counter
 warrant: demonstrated
@@ -39,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-384 CLAIM-991 — new or Proposed; the LEAD-160 study and claims cited in the note of 2026-11-22 -->
 
-# CLAIM-513: Across a family of goals, a world model is not an optional explanation of competent behaviour: in a fully observed, finite, communicating, stationary environment, a goal-conditioned policy within a factor 1 − δ of optimal on every composite goal of depth n fixes every transition probability to within √(2P(1 − P)/((n − 1)(1 − δ))), so observers reading the same policy must ascribe the same world model; what it leaves open is whether a predictive component is realized inside the agent, since a lookup table over histories and goals has the same policy
+# CLAIM-513: Competence across goals requires a world model
 
 ## The objection
 

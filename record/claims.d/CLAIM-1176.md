@@ -3,7 +3,14 @@ number: 1176
 status: Proposed
 formerly:
 - CLAIM-tmptzmky
-title: 'On binary three-cycle models with the support of the PR prism, the signalling-corrected sheaf test reduces to a threshold on the signalling fraction and is sufficient only, Contextuality-by-Default 2.0 reduces to a threshold on direct influence, every model the first calls contextual the second does too, and the 36,861,830 models of the BERT anaphora study on which they differ are all CbD-contextual and not sheaf-contextual'
+title: 'Sheaf contextual implies CbD contextual'
+statement: >-
+  On binary three-cycle models with the support of the PR prism, the
+  signalling-corrected sheaf test reduces to a threshold on the signalling
+  fraction and is sufficient only, Contextuality-by-Default 2.0 reduces to a
+  threshold on direct influence, every model the first calls contextual the
+  second does too, and the 36,861,830 models of the BERT anaphora study on
+  which they differ are all CbD-contextual and not sheaf-contextual
 version: 1
 role: thesis
 warrant: demonstrated
@@ -44,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-037 — Proposed; the claim whose promotion condition this result was derived for, cited as under test -->
 <!-- inactive-ok-file: CASE-417 CLAIM-1164 CLAIM-1166 CLAIM-1207 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1176: On binary three-cycle models with the support of the PR prism, the signalling-corrected sheaf test reduces to a threshold on the signalling fraction and is sufficient only, Contextuality-by-Default 2.0 reduces to a threshold on direct influence, every model the first calls contextual the second does too, and the 36,861,830 models of the BERT anaphora study on which they differ are all CbD-contextual and not sheaf-contextual
+# CLAIM-1176: Sheaf contextual implies CbD contextual
 
 ## The claim
 

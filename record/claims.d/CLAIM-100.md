@@ -3,7 +3,11 @@ number: 100
 status: Superseded
 formerly:
 - CLAIM-tmpsze11
-title: 'Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory''s open mathematical problem'
+title: 'Changing-cover transport is the open problem'
+statement: >-
+  Sheaf-theoretic contextuality has to be extended to directed transport
+  between observational scenarios whose covers change, and that extension is
+  the theory's open mathematical problem
 version: 1
 role: thesis
 warrant: interpretive
@@ -30,7 +34,7 @@ superseded_by:
 ---
 <!-- inactive-ok-file: CLAIM-001 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-100: Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
+# CLAIM-100: Changing-cover transport is the open problem
 
 ## The claim
 

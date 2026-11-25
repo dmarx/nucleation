@@ -3,7 +3,16 @@ number: 519
 status: Proposed
 formerly:
 - CLAIM-tmph29mx
-title: 'Competent behaviour does not establish an internal world model: over a fixed interface and a finite horizon, an agent with no model, whose actions are looked up from the history so far, reproduces the interaction distribution of an agent that has one exactly; a policy can identify predictive structure without any particular internal component realizing it, so compression and generalization support comparing candidate architectures, and establishing an internal mechanism needs evidence that discriminates candidate implementations, such as targeted interventions'
+title: 'Competence does not establish a world model'
+statement: >-
+  Competent behaviour does not establish an internal world model: over a
+  fixed interface and a finite horizon, an agent with no model, whose
+  actions are looked up from the history so far, reproduces the interaction
+  distribution of an agent that has one exactly; a policy can identify
+  predictive structure without any particular internal component realizing
+  it, so compression and generalization support comparing candidate
+  architectures, and establishing an internal mechanism needs evidence that
+  discriminates candidate implementations, such as targeted interventions
 version: 2
 history:
 - version: 2
@@ -68,7 +77,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-384 CLAIM-990 — new or Proposed; the LEAD-160 study and claims cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-092 — Proposed or Open; Block's argument and the question of endogenous revision, cited as open -->
 
-# CLAIM-519: Competent behaviour does not establish an internal world model: over a fixed interface and a finite horizon, an agent with no model, whose actions are looked up from the history so far, reproduces the interaction distribution of an agent that has one exactly; a policy can identify predictive structure without any particular internal component realizing it, so compression and generalization support comparing candidate architectures, and establishing an internal mechanism needs evidence that discriminates candidate implementations, such as targeted interventions
+# CLAIM-519: Competence does not establish a world model
 
 ## The claim
 

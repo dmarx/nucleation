@@ -3,7 +3,13 @@ number: 377
 status: Active
 formerly:
 - CLAIM-tmp2qr6a
-title: 'For any differentiable model under squared loss with Gaussian noise of precision β, the model''s Fisher on n inputs is the Gauss–Newton matrix βJᵀJ, and its non-zero eigenvalues are exactly β times those of the empirical NTK Gram matrix JJᵀ, with the same multiplicities, its eigenvectors being Jᵀ applied to the Gram matrix''s, normalized'
+title: 'Fisher equals Gauss–Newton and empirical NTK'
+statement: >-
+  For any differentiable model under squared loss with Gaussian noise of
+  precision β, the model's Fisher on n inputs is the Gauss–Newton matrix
+  βJᵀJ, and its non-zero eigenvalues are exactly β times those of the
+  empirical NTK Gram matrix JJᵀ, with the same multiplicities, its
+  eigenvectors being Jᵀ applied to the Gram matrix's, normalized
 version: 1
 history:
 - version: 1
@@ -43,7 +49,7 @@ complements:
 ---
 <!-- inactive-ok-file: THEORY-084 — Proposed; the account this step was split from and that cites it, cited as open -->
 
-# CLAIM-377: For any differentiable model under squared loss with Gaussian noise of precision β, the model's Fisher on n inputs is the Gauss–Newton matrix βJᵀJ, and its non-zero eigenvalues are exactly β times those of the empirical NTK Gram matrix JJᵀ, with the same multiplicities, its eigenvectors being Jᵀ applied to the Gram matrix's, normalized
+# CLAIM-377: Fisher equals Gauss–Newton and empirical NTK
 
 ## The claim
 

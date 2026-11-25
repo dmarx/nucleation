@@ -3,7 +3,14 @@ number: 952
 status: Proposed
 formerly:
 - CLAIM-tmpnyf9e
-title: 'A nucleus that repairs the constraint of its own formation without producing it cannot free that constraint from outside supply while any damaged constraint is lost: the outside supply then equals the loss, so repair divides the supply needed by 1 + ρN/λ and lengthens survival after withdrawal, but never to independence, while producing the constraint anew can close the loop'
+title: 'Repair alone never frees a nucleus from supply'
+statement: >-
+  A nucleus that repairs the constraint of its own formation without
+  producing it cannot free that constraint from outside supply while any
+  damaged constraint is lost: the outside supply then equals the loss, so
+  repair divides the supply needed by 1 + ρN/λ and lengthens survival after
+  withdrawal, but never to independence, while producing the constraint anew
+  can close the loop
 version: 1
 history:
 - version: 1
@@ -49,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-365 — new; the run this claim is drawn from -->
 
-# CLAIM-952: A nucleus that repairs the constraint of its own formation without producing it cannot free that constraint from outside supply while any damaged constraint is lost: the outside supply then equals the loss, so repair divides the supply needed by 1 + ρN/λ and lengthens survival after withdrawal, but never to independence, while producing the constraint anew can close the loop
+# CLAIM-952: Repair alone never frees a nucleus from supply
 
 ## The claim
 

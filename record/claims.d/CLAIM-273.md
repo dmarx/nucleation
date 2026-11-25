@@ -3,7 +3,13 @@ number: 273
 status: Active
 formerly:
 - CLAIM-tmp4zg6p
-title: 'A maintained r/place artwork copied from an off-canvas design is a dissipative structure in Prigogine''s structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from the design and not born of an instability'
+title: 'r/place art is an imported dissipative structure'
+statement: >-
+  A maintained r/place artwork copied from an off-canvas design is a
+  dissipative structure in Prigogine's structural sense, order held only by
+  a sustained flow of repair against rival coalitions and against
+  unaffiliated placement whose rate falls over the event, but its order is
+  imported from the design and not born of an instability
 version: 7
 history:
 - version: 2
@@ -115,7 +121,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-274 THEORY-224 CLAIM-163 THEORY-072 THEORY-220 — Proposed; readings and claims cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-913 — Unavailable; no copy could be obtained, cited as the precedent still to read and marked unread in the text -->
 
-# CLAIM-273: A maintained r/place artwork copied from an off-canvas design is a dissipative structure in Prigogine's structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from the design and not born of an instability
+# CLAIM-273: r/place art is an imported dissipative structure
 
 ## The claim
 

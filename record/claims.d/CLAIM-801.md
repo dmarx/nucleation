@@ -3,7 +3,11 @@ number: 801
 status: Proposed
 formerly:
 - CLAIM-tmp7ijze
-title: "Sloppy-model behaviour, behavioural complexity set by a few combinations of many parameters, probably does carry over to overparameterized neural networks, by a route other than the analogy from regular Fisher spectra"
+title: 'Sloppiness carries over, by another route'
+statement: >-
+  Sloppy-model behaviour, behavioural complexity set by a few combinations
+  of many parameters, probably does carry over to overparameterized neural
+  networks, by a route other than the analogy from regular Fisher spectra
 version: 1
 role: thesis
 warrant: interpretive
@@ -39,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-142 ARG-150 CLAIM-813 CLAIM-812 CLAIM-825 TERM-140 TERM-135 — Proposed, Rejected or new; filed 2026-11-21 -->
 
-# CLAIM-801: Sloppy-model behaviour, behavioural complexity set by a few combinations of many parameters, probably does carry over to overparameterized neural networks, by a route other than the analogy from regular Fisher spectra
+# CLAIM-801: Sloppiness carries over, by another route
 
 **The owner's claim.** That an overparameterized network's behaviour, like a sloppy model's, is set by a few combinations of its many parameters, while most combinations barely matter, even though the route the other assistant offered, the analogy from regular sloppy spectra ([ARG-142](../arguments.d/ARG-142.md)), does not show it. The owner, 2026-11-21: "We don't know that that conclusion doesn't hold … (which I think is actually probably correct)."
 

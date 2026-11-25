@@ -3,7 +3,16 @@ number: 991
 status: Proposed
 formerly:
 - CLAIM-tmpq92r4
-title: 'Among agents matched in competence on a goal family, competence fixes which predictive and interventional queries can be read out of each agent but not which the agent can answer within its own resources: in a small deterministic gridworld a planner on a learned transition table, a goal-conditioned value learner and a bank of occupancy predictors trained on the same experience answer every query family equally well when a transition table is read out of them, while within each agent''s own per-decision computation each answers a different family'
+title: 'Competence fixes readable, not answerable, queries'
+statement: >-
+  Among agents matched in competence on a goal family, competence fixes
+  which predictive and interventional queries can be read out of each agent
+  but not which the agent can answer within its own resources: in a small
+  deterministic gridworld a planner on a learned transition table, a
+  goal-conditioned value learner and a bank of occupancy predictors trained
+  on the same experience answer every query family equally well when a
+  transition table is read out of them, while within each agent's own
+  per-decision computation each answers a different family
 version: 1
 role: thesis
 warrant: empirical
@@ -46,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-384 CLAIM-514 — new or Proposed; the study that grounds this claim and the thesis it corroborates -->
 
-# CLAIM-991: Among agents matched in competence on a goal family, competence fixes which predictive and interventional queries can be read out of each agent but not which the agent can answer within its own resources: in a small deterministic gridworld a planner on a learned transition table, a goal-conditioned value learner and a bank of occupancy predictors trained on the same experience answer every query family equally well when a transition table is read out of them, while within each agent's own per-decision computation each answers a different family
+# CLAIM-991: Competence fixes readable, not answerable, queries
 
 ## The claim
 

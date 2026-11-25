@@ -3,7 +3,15 @@ number: 1091
 status: Proposed
 formerly:
 - CLAIM-tmpf0b31
-title: 'In a simulated federated learner with two of seven evaluators compromised, revisable safeguards with an honest monitor moved the trade-off between attack and dissent further than fixed role-limited audit: they cut the success of an attack that mimics dissent from 0.27 to 0.10 and raised the minority''s capability from 0.59 to 0.77, suspending attackers far more often than dissenters; their suspension of the honest majority''s mistaken pull is the safeguard working, not suppression of dissent'
+title: 'Revisable safeguards beat fixed role-limited audit'
+statement: >-
+  In a simulated federated learner with two of seven evaluators compromised,
+  revisable safeguards with an honest monitor moved the trade-off between
+  attack and dissent further than fixed role-limited audit: they cut the
+  success of an attack that mimics dissent from 0.27 to 0.10 and raised the
+  minority's capability from 0.59 to 0.77, suspending attackers far more
+  often than dissenters; their suspension of the honest majority's mistaken
+  pull is the safeguard working, not suppression of dissent
 version: 1
 history:
 - version: 1
@@ -54,7 +62,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1018 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1091: In a simulated federated learner with two of seven evaluators compromised, revisable safeguards with an honest monitor moved the trade-off between attack and dissent further than fixed role-limited audit: they cut the success of an attack that mimics dissent from 0.27 to 0.10 and raised the minority's capability from 0.59 to 0.77, suspending attackers far more often than dissenters; their suspension of the honest majority's mistaken pull is the safeguard working, not suppression of dissent
+# CLAIM-1091: Revisable safeguards beat fixed role-limited audit
 
 ## The claim
 

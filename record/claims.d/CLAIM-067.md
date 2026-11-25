@@ -3,7 +3,10 @@ number: 67
 status: Superseded
 formerly:
 - CLAIM-tmpj4s3r
-title: 'If a transport exactly intertwines a generating set of communicative operations, it preserves every trajectory composed from them'
+title: 'Exact intertwining preserves all trajectories'
+statement: >-
+  If a transport exactly intertwines a generating set of communicative
+  operations, it preserves every trajectory composed from them
 version: 1
 role: thesis
 warrant: demonstrated
@@ -29,7 +32,7 @@ summary: >-
 <!-- ref::uses-file: TERM-033 — stated in "fidelity, as observational equivalence over response trajectories"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-063 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-067: If a transport exactly intertwines a generating set of communicative operations, it preserves every trajectory composed from them
+# CLAIM-067: Exact intertwining preserves all trajectories
 
 ## The claim
 

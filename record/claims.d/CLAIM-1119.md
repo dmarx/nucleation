@@ -3,7 +3,15 @@ number: 1119
 status: Proposed
 formerly:
 - CLAIM-tmpjvllb
-title: "Maintained alternative perspectives are alternative legibility regimes: each lowers the cost of making some kinds of question intelligible and testable within it, so with protected resources and a route to wider uptake one can develop an inquiry until its results are legible elsewhere, and keeping a perspective able to do this means keeping its practices, expertise, channels and capacity for work, not only an archive of its ideas"
+title: 'Alternative perspectives are legibility regimes'
+statement: >-
+  Maintained alternative perspectives are alternative legibility regimes:
+  each lowers the cost of making some kinds of question intelligible and
+  testable within it, so with protected resources and a route to wider
+  uptake one can develop an inquiry until its results are legible elsewhere,
+  and keeping a perspective able to do this means keeping its practices,
+  expertise, channels and capacity for work, not only an archive of its
+  ideas
 version: 1
 role: thesis
 warrant: interpretive
@@ -42,7 +50,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1148 CLAIM-1004 — Proposed; the premise, A54's levels of preservation and the owner's U28 -->
 
-# CLAIM-1119: Maintained alternative perspectives are alternative legibility regimes: each lowers the cost of making some kinds of question intelligible and testable within it, so with protected resources and a route to wider uptake one can develop an inquiry until its results are legible elsewhere, and keeping a perspective able to do this means keeping its practices, expertise, channels and capacity for work, not only an archive of its ideas
+# CLAIM-1119: Alternative perspectives are legibility regimes
 
 ## The claim
 

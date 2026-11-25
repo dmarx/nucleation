@@ -3,7 +3,13 @@ number: 819
 status: Proposed
 formerly:
 - CLAIM-tmpewm5i
-title: "Decay of correlation between blocks is not weak interaction between them, so a finite correlation length does not make a system nearly decomposable in Simon's sense; near-decomposability is a condition on coupling strengths, which large blocks of a short-range system meet at a critical point too"
+title: 'Short correlation is not near-decomposability'
+statement: >-
+  Decay of correlation between blocks is not weak interaction between them,
+  so a finite correlation length does not make a system nearly decomposable
+  in Simon's sense; near-decomposability is a condition on coupling
+  strengths, which large blocks of a short-range system meet at a critical
+  point too
 version: 1
 role: thesis
 warrant: demonstrated
@@ -49,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-125 TERM-138 CLAIM-478 CLAIM-826 — Proposed, Rejected or new; the route this states the finding of, and its users -->
 
-# CLAIM-819: Decay of correlation between blocks is not weak interaction between them, so a finite correlation length does not make a system nearly decomposable in Simon's sense; near-decomposability is a condition on coupling strengths, which large blocks of a short-range system meet at a critical point too
+# CLAIM-819: Short correlation is not near-decomposability
 
 **The claim.** Two properties that are easily run together come apart:
 

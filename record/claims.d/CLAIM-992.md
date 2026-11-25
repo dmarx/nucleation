@@ -3,7 +3,11 @@ number: 992
 status: Proposed
 formerly:
 - CLAIM-tmp46m6e
-title: 'Read at the grain of features, the toy study narrows the alignment test of mechanism to where a same-mechanism control connects and the probe separates the candidate mechanisms, rather than defeating it'
+title: 'Feature grain narrows the alignment test'
+statement: >-
+  Read at the grain of features, the toy study narrows the alignment test of
+  mechanism to where a same-mechanism control connects and the probe
+  separates the candidate mechanisms, rather than defeating it
 version: 1
 history:
 - version: 1
@@ -49,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-385 CLAIM-993 CLAIM-994 — new; the study, the finding this rests on, and the alternative reading -->
 <!-- inactive-ok-file: CLAIM-263 CLAIM-142 — Proposed; the claim this narrows and the probe caution it invokes, open -->
 
-# CLAIM-992: Read at the grain of features, the toy study narrows the alignment test of mechanism to where a same-mechanism control connects and the probe separates the candidate mechanisms, rather than defeating it
+# CLAIM-992: Feature grain narrows the alignment test
 
 ## The claim
 

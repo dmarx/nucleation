@@ -3,7 +3,13 @@ number: 1164
 status: Proposed
 formerly:
 - CLAIM-tmprfjkk
-title: 'The BERT anaphora data cannot show which of the two signalling-allowing verdicts is right, because the sentence schema fixes their support and every verdict on them is a threshold on how the three referent choices signal, so the comparison neither meets nor defeats the thesis that formal contextuality on signalling data needs Contextuality-by-Default'
+title: 'BERT anaphora data cannot settle the verdicts'
+statement: >-
+  The BERT anaphora data cannot show which of the two signalling-allowing
+  verdicts is right, because the sentence schema fixes their support and
+  every verdict on them is a threshold on how the three referent choices
+  signal, so the comparison neither meets nor defeats the thesis that formal
+  contextuality on signalling data needs Contextuality-by-Default
 version: 1
 role: thesis
 warrant: interpretive
@@ -41,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-037 — Proposed; the thesis this reading bears on, cited as under test -->
 <!-- inactive-ok-file: CLAIM-1176 CASE-417 CLAIM-1166 CLAIM-1207 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1164: The BERT anaphora data cannot show which of the two signalling-allowing verdicts is right, because the sentence schema fixes their support and every verdict on them is a threshold on how the three referent choices signal, so the comparison neither meets nor defeats the thesis that formal contextuality on signalling data needs Contextuality-by-Default
+# CLAIM-1164: BERT anaphora data cannot settle the verdicts
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 811
 status: Proposed
 formerly:
 - CLAIM-tmpcbfdj
-title: 'Gradient flow into a degenerate minimum relaxes algebraically, not exponentially, and how slowly is not fixed by the learning coefficient: on the balanced line of a k-fold product loss the decay is t^(−1/(2k−2)) while the real log canonical threshold stays ½ and only its multiplicity grows to k'
+title: 'Relaxation rate not fixed by learning coefficient'
+statement: >-
+  Gradient flow into a degenerate minimum relaxes algebraically, not
+  exponentially, and how slowly is not fixed by the learning coefficient: on
+  the balanced line of a k-fold product loss the decay is t^(−1/(2k−2))
+  while the real log canonical threshold stays ½ and only its multiplicity
+  grows to k
 version: 2
 history:
 - version: 2
@@ -54,7 +60,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-843 CLAIM-844 — claims filed with this one -->
 <!-- inactive-ok-file: THEORY-2163 THEORY-2164 ARG-158 ARG-157 — Proposed or Rejected; filed 2026-11-21 from the readings of Amari, Park & Ozeki and Wei et al. -->
 
-# CLAIM-811: Gradient flow into a degenerate minimum relaxes algebraically, not exponentially, and how slowly is not fixed by the learning coefficient: on the balanced line of a k-fold product loss the decay is t^(−1/(2k−2)) while the real log canonical threshold stays ½ and only its multiplicity grows to k
+# CLAIM-811: Relaxation rate not fixed by learning coefficient
 
 ## The claim
 

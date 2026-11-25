@@ -3,9 +3,11 @@ number: 294
 status: Active
 formerly:
 - CLAIM-tmp2rwpl
-title: Two inquiry histories can agree on every current conclusion and still call
-  for different revisions of it, so a current marginal belief is not a sufficient
-  state for updating on evidence about what it depended on
+title: 'Current belief is not sufficient for updating'
+statement: >-
+  Two inquiry histories can agree on every current conclusion and still call
+  for different revisions of it, so a current marginal belief is not a
+  sufficient state for updating on evidence about what it depended on
 version: 7
 history:
 - version: 2
@@ -86,7 +88,7 @@ works:
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-1736 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-294: Two inquiry histories can agree on every current conclusion and still call for different revisions of it, so a current marginal belief is not a sufficient state for updating on evidence about what it depended on
+# CLAIM-294: Current belief is not sufficient for updating
 
 ## The claim
 

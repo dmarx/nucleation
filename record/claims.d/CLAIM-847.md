@@ -3,7 +3,14 @@ number: 847
 status: Proposed
 formerly:
 - CLAIM-tmpy688z
-title: 'For a Gaussian representation the relative spread of the squared norm is √(2/D_PR), with D_PR the covariance participation ratio, so concentration is set by effective rather than ambient dimension; under a rank power-law spectrum λ_j ∝ j^−α, D_PR grows as D for α below 1/2, as D/log D at 1/2, as D^(2(1−α)) between 1/2 and 1, as (log D)² at 1, and tends to a constant above 1'
+title: 'Concentration set by participation ratio'
+statement: >-
+  For a Gaussian representation the relative spread of the squared norm is
+  √(2/D_PR), with D_PR the covariance participation ratio, so concentration
+  is set by effective rather than ambient dimension; under a rank power-law
+  spectrum λ_j ∝ j^−α, D_PR grows as D for α below 1/2, as D/log D at 1/2,
+  as D^(2(1−α)) between 1/2 and 1, as (log D)² at 1, and tends to a constant
+  above 1
 version: 2
 history:
 - version: 2
@@ -52,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2174 ARG-169 — Proposed or new; the reading of Stringer and colleagues and the argument on its bound, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2189 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-847: For a Gaussian representation the relative spread of the squared norm is √(2/D_PR), with D_PR the covariance participation ratio, so concentration is set by effective rather than ambient dimension; under a rank power-law spectrum λ_j ∝ j^−α, D_PR grows as D for α below 1/2, as D/log D at 1/2, as D^(2(1−α)) between 1/2 and 1, as (log D)² at 1, and tends to a constant above 1
+# CLAIM-847: Concentration set by participation ratio
 
 ## The claim
 

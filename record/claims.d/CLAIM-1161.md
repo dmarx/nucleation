@@ -3,7 +3,16 @@ number: 1161
 status: Proposed
 formerly:
 - CLAIM-tmpr0sfe
-title: 'A possibility fact in Deutsch and Marletto''s sense is not a further candidate for the relata–realization frame''s second defeater: it is a fact about the laws, so it meets the frame''s definition exactly as far as the laws it is a fact about do; and its own definition, that the laws set no limit short of perfection on how well a task could be performed and the ability to perform it retained, states the frame''s realized and maintained constraint in modal form, as the admissibility of realizations, not as a constraint realized by nothing'
+title: 'Possibility facts are not a second defeater'
+statement: >-
+  A possibility fact in Deutsch and Marletto's sense is not a further
+  candidate for the relata–realization frame's second defeater: it is a fact
+  about the laws, so it meets the frame's definition exactly as far as the
+  laws it is a fact about do; and its own definition, that the laws set no
+  limit short of perfection on how well a task could be performed and the
+  ability to perform it retained, states the frame's realized and maintained
+  constraint in modal form, as the admissibility of realizations, not as a
+  constraint realized by nothing
 version: 1
 role: thesis
 warrant: interpretive
@@ -53,7 +62,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1094 CLAIM-1105 CLAIM-1037 — new; the symmetry rulings and the alternative filed with this claim for LEAD-195 -->
 <!-- inactive-ok-file: CLAIM-477 — Proposed; the frame whose definition is at issue -->
 
-# CLAIM-1161: A possibility fact in Deutsch and Marletto's sense is not a further candidate for the relata–realization frame's second defeater: it is a fact about the laws, so it meets the frame's definition exactly as far as the laws it is a fact about do; and its own definition, that the laws set no limit short of perfection on how well a task could be performed and the ability to perform it retained, states the frame's realized and maintained constraint in modal form, as the admissibility of realizations, not as a constraint realized by nothing
+# CLAIM-1161: Possibility facts are not a second defeater
 
 ## The question
 

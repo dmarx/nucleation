@@ -3,7 +3,9 @@ number: 1024
 status: Proposed
 formerly:
 - CLAIM-tmp4h9rc
-title: A system's ability to correct itself depends not simply on having critics
+title: 'Self-correction depends on coupling'
+statement: >-
+  A system's ability to correct itself depends not simply on having critics
   or feedback but on how evidence, evaluation and authority are coupled, and
   on what the system is prevented from rewriting or rejecting
 version: 2
@@ -49,7 +51,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-1024: A system's ability to correct itself depends not simply on having critics or feedback but on how evidence, evaluation and authority are coupled, and on what the system is prevented from rewriting or rejecting
+# CLAIM-1024: Self-correction depends on coupling
 
 ## The claim
 

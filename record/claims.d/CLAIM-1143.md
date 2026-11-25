@@ -3,14 +3,16 @@ number: 1143
 status: Proposed
 formerly:
 - CLAIM-tmpnl4xk
-title: 'An independent physical witness certifies every difference among the
+title: 'A witness never certifies the common mode'
+statement: >-
+  An independent physical witness certifies every difference among the
   channels that read it and never their common mode: if k channels each read
   the same placed points with an offset of their own, their reports identify
   every difference between offsets and leave one shift of all offsets and
-  points together unidentified, however many channels there are; so the regress
-  of anchors ends at a witness only together with a standard fixed by definition,
-  which is how measurement ends it, and an error every channel shares stays
-  invisible'
+  points together unidentified, however many channels there are; so the
+  regress of anchors ends at a witness only together with a standard fixed
+  by definition, which is how measurement ends it, and an error every
+  channel shares stays invisible
 version: 1
 role: counter
 warrant: demonstrated
@@ -43,7 +45,7 @@ summary: 'The assistant''s qualification of the owner''s point that mechanics
 
 <!-- inactive-ok-file: CASE-387 CLAIM-510 — Proposed; cited in this filing of 2026-11-23 -->
 
-# CLAIM-1143: An independent physical witness certifies every difference among the channels that read it and never their common mode: if k channels each read the same placed points with an offset of their own, their reports identify every difference between offsets and leave one shift of all offsets and points together unidentified, however many channels there are; so the regress of anchors ends at a witness only together with a standard fixed by definition, which is how measurement ends it, and an error every channel shares stays invisible
+# CLAIM-1143: A witness never certifies the common mode
 
 ## The computation
 

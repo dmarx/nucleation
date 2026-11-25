@@ -3,7 +3,14 @@ number: 496
 status: Active
 formerly:
 - CLAIM-tmpgwud2
-title: 'Agreement between routes of translation is a measure of coherence, not of fidelity, and the two are independent: a rendering that sends every source utterance to one output makes direct and relay transport agree exactly while a receiver who could tell a promise from a prediction with no error is left at chance, and two routes that keep the act and differ in register disagree completely while losing nothing the act-identification task needs'
+title: 'Route agreement measures coherence, not fidelity'
+statement: >-
+  Agreement between routes of translation is a measure of coherence, not of
+  fidelity, and the two are independent: a rendering that sends every source
+  utterance to one output makes direct and relay transport agree exactly
+  while a receiver who could tell a promise from a prediction with no error
+  is left at chance, and two routes that keep the act and differ in register
+  disagree completely while losing nothing the act-identification task needs
 version: 1
 role: thesis
 warrant: demonstrated
@@ -43,7 +50,7 @@ summary: >-
 ---
 <!-- ref::uses-file: TERM-034 — fidelity as what a rendering keeps that "a receiver needs", relative to "a declared task", the constant rendering being "perfectly coherent and with no fidelity", is TERM-034's sense -->
 
-# CLAIM-496: Agreement between routes of translation is a measure of coherence, not of fidelity, and the two are independent: a rendering that sends every source utterance to one output makes direct and relay transport agree exactly while a receiver who could tell a promise from a prediction with no error is left at chance, and two routes that keep the act and differ in register disagree completely while losing nothing the act-identification task needs
+# CLAIM-496: Route agreement measures coherence, not fidelity
 
 ## The claim
 

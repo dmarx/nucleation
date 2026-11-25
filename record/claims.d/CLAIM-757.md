@@ -3,7 +3,17 @@ number: 757
 status: Proposed
 formerly:
 - CLAIM-tmp5vg7p
-title: 'Whether relief from overconsolidation has a deadline depends on how the capacity to acquire is lost: if it is sustained by use and decays with disuse (the conditions of the owner-endorsed model of learning by doing), renewed varied practice restores it before a threshold point in training and not after; if it is used up by training, as in plasticity loss under continued varied practice, renewed practice does not restore it at any point, and only an intervention that renews what was used up, such as reinitializing units, does, at any point; the evidence read so far fits the second'
+title: 'Relief''s deadline turns on how capacity is lost'
+statement: >-
+  Whether relief from overconsolidation has a deadline depends on how the
+  capacity to acquire is lost: if it is sustained by use and decays with
+  disuse (the conditions of the owner-endorsed model of learning by doing),
+  renewed varied practice restores it before a threshold point in training
+  and not after; if it is used up by training, as in plasticity loss under
+  continued varied practice, renewed practice does not restore it at any
+  point, and only an intervention that renews what was used up, such as
+  reinitializing units, does, at any point; the evidence read so far fits
+  the second
 version: 3
 role: thesis
 warrant: interpretive
@@ -70,7 +80,7 @@ works:
 <!-- inactive-ok-file: THEORY-2006 THEORY-2027 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-294 CLAIM-758 THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-757: Whether relief from overconsolidation has a deadline depends on how the capacity to acquire is lost: if it is sustained by use and decays with disuse (the conditions of the owner-endorsed model of learning by doing), renewed varied practice restores it before a threshold point in training and not after; if it is used up by training, as in plasticity loss under continued varied practice, renewed practice does not restore it at any point, and only an intervention that renews what was used up, such as reinitializing units, does, at any point; the evidence read so far fits the second
+# CLAIM-757: Relief's deadline turns on how capacity is lost
 
 
 ## Version 2, after the readings

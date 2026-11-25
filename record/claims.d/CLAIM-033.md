@@ -3,7 +3,11 @@ number: 33
 status: Proposed
 formerly:
 - CLAIM-tmpa4al1
-title: 'In published translations, renderings that lose distinctions along one dimension commonly gain specificity along another, so loss is not one-dimensional'
+title: 'Translation loss is not one-dimensional'
+statement: >-
+  In published translations, renderings that lose distinctions along one
+  dimension commonly gain specificity along another, so loss is not
+  one-dimensional
 version: 4
 history:
 - version: 2
@@ -62,7 +66,7 @@ complements:
 ---
 <!-- inactive-ok-file: THEORY-170 — Proposed; Jakobson's obligatory-categories thesis, cited as prior statement of this claim, not as settled -->
 
-# CLAIM-033: In published translations, renderings that lose distinctions along one dimension commonly gain specificity along another, so loss is not one-dimensional
+# CLAIM-033: Translation loss is not one-dimensional
 
 ## The claim
 

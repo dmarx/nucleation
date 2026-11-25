@@ -3,7 +3,12 @@ number: 490
 status: Proposed
 formerly:
 - CLAIM-tmpitq0u
-title: "A fanbase is a mixture of spectators who relate to the club in different ways, as supporters, followers, fans and flâneurs, so the public stance credited to it is weighted towards the most committed types before any bias in who is sampled"
+title: 'Fanbase stance weighted toward the committed'
+statement: >-
+  A fanbase is a mixture of spectators who relate to the club in different
+  ways, as supporters, followers, fans and flâneurs, so the public stance
+  credited to it is weighted towards the most committed types before any
+  bias in who is sampled
 version: 1
 role: thesis
 warrant: interpretive
@@ -39,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1111 — Open or Proposed; the question answered, the reading it derives from, and its companion claim -->
 
-# CLAIM-490: A fanbase is a mixture of spectators who relate to the club in different ways, as supporters, followers, fans and flâneurs, so the public stance credited to it is weighted towards the most committed types before any bias in who is sampled
+# CLAIM-490: Fanbase stance weighted toward the committed
 
 ## The claim
 

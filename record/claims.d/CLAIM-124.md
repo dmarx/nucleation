@@ -3,7 +3,12 @@ number: 124
 status: Superseded
 formerly:
 - CLAIM-tmpzxah5
-title: 'Communicative objects are characterized through overlapping constraints on observables at partially ordered levels; translation transports these locally constrained structures, and repeated reconstruction changes both local interpretations and their global compatibility'
+title: 'Translation transports local constraint structures'
+statement: >-
+  Communicative objects are characterized through overlapping constraints on
+  observables at partially ordered levels; translation transports these
+  locally constrained structures, and repeated reconstruction changes both
+  local interpretations and their global compatibility
 version: 1
 role: thesis
 warrant: interpretive
@@ -31,7 +36,7 @@ summary: >-
 <!-- ref::uses-file: TERM-015 — stated in "fidelity, as graded, directed transport distortion"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-026 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# CLAIM-124: Communicative objects are characterized through overlapping constraints on observables at partially ordered levels; translation transports these locally constrained structures, and repeated reconstruction changes both local interpretations and their global compatibility
+# CLAIM-124: Translation transports local constraint structures
 
 ## The claim
 

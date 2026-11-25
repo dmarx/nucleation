@@ -1,6 +1,15 @@
 ---
 status: Active
-title: 'Under reversal of a social attribution with its grounds held fixed, every response splits uniquely into a part that reverses with the attribution and a part that does not: conformity and defiance lie wholly in the first and a response governed by the grounds alone wholly in the second, so the size of the reversing part, not its direction, measures how far the attribution sets the terms of response; the transformation type records only which parts are present, and reversing the attribution together with its grounds measures nothing'
+title: 'Responses split under attribution reversal'
+statement: >-
+  Under reversal of a social attribution with its grounds held fixed, every
+  response splits uniquely into a part that reverses with the attribution
+  and a part that does not: conformity and defiance lie wholly in the first
+  and a response governed by the grounds alone wholly in the second, so the
+  size of the reversing part, not its direction, measures how far the
+  attribution sets the terms of response; the transformation type records
+  only which parts are present, and reversing the attribution together with
+  its grounds measures nothing
 version: 2
 history:
 - version: 2
@@ -45,7 +54,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-415 CLAIM-425 — Proposed; the held claims this formalizes -->
 
-# CLAIM-tmpj4pw3: Under reversal of a social attribution with its grounds held fixed, every response splits uniquely into a part that reverses with the attribution and a part that does not: conformity and defiance lie wholly in the first and a response governed by the grounds alone wholly in the second, so the size of the reversing part, not its direction, measures how far the attribution sets the terms of response; the transformation type records only which parts are present, and reversing the attribution together with its grounds measures nothing
+# CLAIM-tmpj4pw3: Responses split under attribution reversal
 
 ## The source and the gap
 

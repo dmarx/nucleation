@@ -3,7 +3,18 @@ number: 532
 status: Active
 formerly:
 - CLAIM-tmpbeh2e
-title: 'An unresolved discrepancy is an occasion for self-formation, the transformation dimension of a will-organization, and not a guarantee of it; it suffices for self-formation that the agent''s own activity on such a discrepancy produce a maintained capacity, either a new distinction, its policy coming to depend on a feature of its situation it did not depend on, or a new channel, the outcomes it can reach under its own policy growing, that outlasts the discrepancy and serves a class of later ones, as shown by transfer to discrepancies of the same class after the inducing conditions are gone and by interventions on the processes that produce the capacity while it forms'
+title: 'A discrepancy occasions self-formation'
+statement: >-
+  An unresolved discrepancy is an occasion for self-formation, the
+  transformation dimension of a will-organization, and not a guarantee of
+  it; it suffices for self-formation that the agent's own activity on such a
+  discrepancy produce a maintained capacity, either a new distinction, its
+  policy coming to depend on a feature of its situation it did not depend
+  on, or a new channel, the outcomes it can reach under its own policy
+  growing, that outlasts the discrepancy and serves a class of later ones,
+  as shown by transfer to discrepancies of the same class after the inducing
+  conditions are gone and by interventions on the processes that produce the
+  capacity while it forms
 version: 7
 history:
 - version: 2
@@ -137,7 +148,7 @@ works:
 <!-- ref::uses-file: TERM-099 — the self-formation the claim defines, production by the agent's own activity on a discrepancy it cannot yet resolve, is TERM-099's, which states this claim's definition -->
 <!-- ref::uses-file: TERM-100 — telling self-formation apart from "a capacity installed or upheld from outside" by interventions on what produces and maintains it is TERM-100's formation and maintenance provenance -->
 
-# CLAIM-532: An unresolved discrepancy is an occasion for self-formation, the transformation dimension of a will-organization, and not a guarantee of it; it suffices for self-formation that the agent's own activity on such a discrepancy produce a maintained capacity, either a new distinction, its policy coming to depend on a feature of its situation it did not depend on, or a new channel, the outcomes it can reach under its own policy growing, that outlasts the discrepancy and serves a class of later ones, as shown by transfer to discrepancies of the same class after the inducing conditions are gone and by interventions on the processes that produce the capacity while it forms
+# CLAIM-532: A discrepancy occasions self-formation
 
 ## The claim
 

@@ -3,7 +3,12 @@ number: 219
 status: Active
 formerly:
 - CLAIM-tmpbvk4j
-title: 'A change in the global compatibility of a fixed scenario is either a change in contextuality proper, which the behavioural data read show none of, or a change in overlap consistency, which is ordinary context dependence and moves by at most 2ε when each context moves by ε'
+title: 'Overlap consistency moves by at most 2ε'
+statement: >-
+  A change in the global compatibility of a fixed scenario is either a
+  change in contextuality proper, which the behavioural data read show none
+  of, or a change in overlap consistency, which is ordinary context
+  dependence and moves by at most 2ε when each context moves by ε
 version: 5
 history:
 - version: 2
@@ -77,7 +82,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-044 CLAIM-078 — Proposed; cited for the distinction from context dependence, as a non-citer of LIT-264, for the signalling counts and for the success criterion, not as settled -->
 <!-- inactive-ok-file: ARG-032 — Rejected; the argument this claim's support verdict moved to, which it undercuts -->
 
-# CLAIM-219: A change in the global compatibility of a fixed scenario is either a change in contextuality proper, which the behavioural data read show none of, or a change in overlap consistency, which is ordinary context dependence and moves by at most 2ε when each context moves by ε
+# CLAIM-219: Overlap consistency moves by at most 2ε
 
 ## The objection
 

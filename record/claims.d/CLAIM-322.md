@@ -3,7 +3,12 @@ number: 322
 status: Active
 formerly:
 - CLAIM-tmpumwtu
-title: Agreement under a probe family is evidence that two objects share structure only to the degree that the family was chosen independently of the comparison and is evaluated on cases it was not chosen on, so a family selected to make two objects look alike shows only that it can be selected
+title: 'Probe agreement counts only if probes independent'
+statement: >-
+  Agreement under a probe family is evidence that two objects share
+  structure only to the degree that the family was chosen independently of
+  the comparison and is evaluated on cases it was not chosen on, so a family
+  selected to make two objects look alike shows only that it can be selected
 version: 3
 history:
 - version: 2
@@ -47,7 +52,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-142 — Proposed; the exact half this rests on, the application that first drew the rule, and the anchored-correspondence remedy, cited as open -->
 
-# CLAIM-322: Agreement under a probe family is evidence that two objects share structure only to the degree that the family was chosen independently of the comparison and is evaluated on cases it was not chosen on, so a family selected to make two objects look alike shows only that it can be selected
+# CLAIM-322: Probe agreement counts only if probes independent
 
 ## The claim
 

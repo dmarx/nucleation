@@ -3,7 +3,15 @@ number: 606
 status: Proposed
 formerly:
 - CLAIM-tmp5d91s
-title: "A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on"
+title: 'Three ways a localized structure persists'
+statement: >-
+  A localized structure can persist by an internal balance that needs no
+  supply, by a balance of gain and loss that needs a standing supply, or by
+  a topological charge that continuous change cannot remove, and the three
+  differ in what carries the structure's identity, how it forms and how it
+  ends; because thresholds and abrupt ends appear in all of them, even with
+  no supply at all, only withdrawing the supply and measuring the outflow
+  tells which route a structure is on
 version: 5
 history:
 - version: 2
@@ -114,7 +122,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1500 THEORY-1501 THEORY-1506 THEORY-1507 THEORY-1509 THEORY-1548 THEORY-1555 — Proposed; the readings that hold this claim back, cited as open -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; claims, a term and readings this one rests on or extends, cited as open -->
 
-# CLAIM-606: A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on
+# CLAIM-606: Three ways a localized structure persists
 
 ## The three routes, and a fourth case
 

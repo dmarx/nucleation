@@ -3,13 +3,16 @@ number: 1071
 status: Proposed
 formerly:
 - CLAIM-tmpcbdgm
-title: 'Computational mechanics gives effortless action a cost reading: for a system
-  driven without feedback, the average work it dissipates at each switch of its
-  drive is the memory it keeps of the current input that fails to predict the next,
-  so a memory that keeps only what carries over wastes nothing and effortlessness
-  is predictive economy; but wu-wei is action, and with feedback prediction is not
-  enough, since in the record''s one worked channel no predictive agent is efficient
-  and the efficient agent forgets its actions'
+title: 'Effortlessness as predictive economy'
+statement: >-
+  Computational mechanics gives effortless action a cost reading: for a
+  system driven without feedback, the average work it dissipates at each
+  switch of its drive is the memory it keeps of the current input that fails
+  to predict the next, so a memory that keeps only what carries over wastes
+  nothing and effortlessness is predictive economy; but wu-wei is action,
+  and with feedback prediction is not enough, since in the record's one
+  worked channel no predictive agent is efficient and the efficient agent
+  forgets its actions
 version: 2
 history:
 - version: 2
@@ -56,7 +59,7 @@ summary: 'The assistant''s, after the owner''s ruling ([CLAIM-1187](CLAIM-1187.m
 <!-- inactive-ok-file: CLAIM-541 CLAIM-998 — Proposed; the account read and the claims beside it -->
 <!-- inactive-ok-file: CASE-391 CLAIM-1123 CLAIM-1189 — filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1071: Computational mechanics gives effortless action a cost reading: for a system driven without feedback, the average work it dissipates at each switch of its drive is the memory it keeps of the current input that fails to predict the next, so a memory that keeps only what carries over wastes nothing and effortlessness is predictive economy; but wu-wei is action, and with feedback prediction is not enough, since in the record's one worked channel no predictive agent is efficient and the efficient agent forgets its actions
+# CLAIM-1071: Effortlessness as predictive economy
 
 ## The reading
 

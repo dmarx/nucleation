@@ -3,7 +3,13 @@ number: 255
 status: Proposed
 formerly:
 - CLAIM-tmpwi9o5
-title: 'Intending to perform an act, performing it and being recognized as having performed it are distinct, coupled variables: intended meaning is fixed at production, the act partly by roles, standing and norms, and recognition by uptake, so competent uptake is constitutive for some acts, evidential for others and irrelevant to the existence of still others'
+title: 'Intention, act and recognition are distinct'
+statement: >-
+  Intending to perform an act, performing it and being recognized as having
+  performed it are distinct, coupled variables: intended meaning is fixed at
+  production, the act partly by roles, standing and norms, and recognition
+  by uptake, so competent uptake is constitutive for some acts, evidential
+  for others and irrelevant to the existence of still others
 version: 2
 history:
 - version: 2
@@ -41,7 +47,7 @@ bears_on:
 - QUESTION-073
 ---
 <!-- inactive-ok-file: CLAIM-151 CLAIM-160 CLAIM-217 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
-# CLAIM-255: Intending to perform an act, performing it and being recognized as having performed it are distinct, coupled variables: intended meaning is fixed at production, the act partly by roles, standing and norms, and recognition by uptake, so competent uptake is constitutive for some acts, evidential for others and irrelevant to the existence of still others
+# CLAIM-255: Intention, act and recognition are distinct
 
 ## The claim
 

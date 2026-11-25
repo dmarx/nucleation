@@ -3,7 +3,13 @@ number: 680
 status: Proposed
 formerly:
 - CLAIM-tmpfyxes
-title: 'That some ways of living are more worthwhile than others, and that this can be judged fallibly, licenses institutions to cultivate the conditions in which people can engage with what is worthwhile, not to impose a conception of it: a reasoned judgment of worth is not by itself a warrant for coercion'
+title: 'Judged worth licenses cultivation, not coercion'
+statement: >-
+  That some ways of living are more worthwhile than others, and that this
+  can be judged fallibly, licenses institutions to cultivate the conditions
+  in which people can engage with what is worthwhile, not to impose a
+  conception of it: a reasoned judgment of worth is not by itself a warrant
+  for coercion
 version: 3
 history:
 - version: 2
@@ -61,7 +67,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1853 ARG-106 CLAIM-683 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-411 — Proposed; Sen's public reasoning, cited with its standing -->
 
-# CLAIM-680: That some ways of living are more worthwhile than others, and that this can be judged fallibly, licenses institutions to cultivate the conditions in which people can engage with what is worthwhile, not to impose a conception of it: a reasoned judgment of worth is not by itself a warrant for coercion
+# CLAIM-680: Judged worth licenses cultivation, not coercion
 
 ## The claim
 

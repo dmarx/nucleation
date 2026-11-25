@@ -3,7 +3,11 @@ number: 72
 status: Superseded
 formerly:
 - CLAIM-tmpjmeg6
-title: 'Saussure says purely differential only of signifier and signified taken apart; the sign as a whole is a positive fact, and signs stand in opposition'
+title: 'Saussure: the sign as a whole is positive'
+statement: >-
+  Saussure says purely differential only of signifier and signified taken
+  apart; the sign as a whole is a positive fact, and signs stand in
+  opposition
 version: 2
 history:
 - version: 2
@@ -36,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-082 THEORY-159 — Proposed; the premise this corrected, the thesis resting on it and the reading, open -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
-# CLAIM-072: Saussure says purely differential only of signifier and signified taken apart; the sign as a whole is a positive fact, and signs stand in opposition
+# CLAIM-072: Saussure: the sign as a whole is positive
 
 ## The claim
 

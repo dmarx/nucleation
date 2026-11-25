@@ -3,7 +3,12 @@ number: 129
 status: Proposed
 formerly:
 - CLAIM-tmp1xaiq
-title: 'A factorization recovers only the structure visible in the relations it is fitted to, so a topic can survive a transformation that changes the communicative act, and a kind must be tested against probe families chosen for their bearing on the act'
+title: 'Factorizations see only fitted relations'
+statement: >-
+  A factorization recovers only the structure visible in the relations it is
+  fitted to, so a topic can survive a transformation that changes the
+  communicative act, and a kind must be tested against probe families chosen
+  for their bearing on the act
 version: 4
 history:
 - version: 2
@@ -71,7 +76,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-004 CLAIM-142 — Proposed; open, and cited as the claims this one stands on, under test, not settled -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
-# CLAIM-129: A factorization recovers only the structure visible in the relations it is fitted to, so a topic can survive a transformation that changes the communicative act, and a kind must be tested against probe families chosen for their bearing on the act
+# CLAIM-129: Factorizations see only fitted relations
 
 ## The claim
 

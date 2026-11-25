@@ -3,13 +3,15 @@ number: 1040
 status: Active
 formerly:
 - CLAIM-tmp76xaw
-title: 'What an organization''s filtering treats as noise is itself governed:
-  if objections to its established categories are classed as high-frequency
-  disturbance, stabilization that succeeds against its current classification
-  of noise can fail against the demands it exists to answer, so governing
-  the distinction between demand and disturbance is a higher-order task, and
-  the capacity to recognize a demand as demand-worthy is a slow capability
-  that must stay open to correction'
+title: 'What counts as noise must be governed'
+statement: >-
+  What an organization's filtering treats as noise is itself governed: if
+  objections to its established categories are classed as high-frequency
+  disturbance, stabilization that succeeds against its current
+  classification of noise can fail against the demands it exists to answer,
+  so governing the distinction between demand and disturbance is a
+  higher-order task, and the capacity to recognize a demand as demand-worthy
+  is a slow capability that must stay open to correction
 version: 3
 history:
 - version: 2
@@ -55,7 +57,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-1040: What an organization's filtering treats as noise is itself governed: if objections to its established categories are classed as high-frequency disturbance, stabilization that succeeds against its current classification of noise can fail against the demands it exists to answer, so governing the distinction between demand and disturbance is a higher-order task, and the capacity to recognize a demand as demand-worthy is a slow capability that must stay open to correction
+# CLAIM-1040: What counts as noise must be governed
 
 ## The claim
 

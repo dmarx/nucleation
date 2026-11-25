@@ -3,7 +3,14 @@ number: 988
 status: Proposed
 formerly:
 - CLAIM-tmpn4gbs
-title: "Alternative reading (c) of the constitutivism test: the record's organizational account is not exposed to Leffler's choice point, because it never explains the force of an organization's norms by the organization's constitution; it keeps norms of function and failure apart from their authority, so the test closes a route the record has not taken rather than refuting a position it holds"
+title: 'Organizational account not exposed to choice point'
+statement: >-
+  Alternative reading (c) of the constitutivism test: the record's
+  organizational account is not exposed to Leffler's choice point, because
+  it never explains the force of an organization's norms by the
+  organization's constitution; it keeps norms of function and failure apart
+  from their authority, so the test closes a route the record has not taken
+  rather than refuting a position it holds
 version: 1
 role: thesis
 warrant: interpretive
@@ -45,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2268 CLAIM-987 CLAIM-989 — filed in the same batch, Proposed -->
 <!-- inactive-ok-file: CLAIM-648 — Proposed; the record's endogenous profile, which claims a norm and not its force -->
 
-# CLAIM-988: Alternative reading (c) of the constitutivism test: the record's organizational account is not exposed to Leffler's choice point, because it never explains the force of an organization's norms by the organization's constitution; it keeps norms of function and failure apart from their authority, so the test closes a route the record has not taken rather than refuting a position it holds
+# CLAIM-988: Organizational account not exposed to choice point
 
 ## The claim
 

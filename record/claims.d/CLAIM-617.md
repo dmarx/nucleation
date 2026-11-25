@@ -3,7 +3,13 @@ number: 617
 status: Proposed
 formerly:
 - CLAIM-tmpjw473
-title: 'When a project''s continuities part at a change of steward, participants'' judgements of which successor continues it are causally productive of that succession: those who judge one successor illegitimate move their work to another, and the move transfers the productive organization the judgement was about'
+title: 'Judging succession helps make succession'
+statement: >-
+  When a project's continuities part at a change of steward, participants'
+  judgements of which successor continues it are causally productive of that
+  succession: those who judge one successor illegitimate move their work to
+  another, and the move transfers the productive organization the judgement
+  was about
 version: 2
 history:
 - version: 2
@@ -56,7 +62,7 @@ works:
 <!-- inactive-ok-file: ARG-067 — Proposed; the argument from the study to this claim, cited as open -->
 <!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed; the study that would test this claim -->
 
-# CLAIM-617: When a project's continuities part at a change of steward, participants' judgements of which successor continues it are causally productive of that succession: those who judge one successor illegitimate move their work to another, and the move transfers the productive organization the judgement was about
+# CLAIM-617: Judging succession helps make succession
 
 ## The claim
 

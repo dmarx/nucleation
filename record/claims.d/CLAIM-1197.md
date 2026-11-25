@@ -3,7 +3,17 @@ number: 1197
 status: Proposed
 formerly:
 - CLAIM-tmpy87xn
-title: 'An optimal learning policy is a well-defined scalar optimum when four conditions hold: a declared law for the tasks the learner meets given its history and what it has learned; one valuation over outcomes, the same for every policy compared, with resource costs on its scale; a finite value for every policy, from a finite horizon or a discount that outruns the growth of what learning makes attainable; and a policy class over which the best value is attained. That learning changes which tasks the learner will meet is not among the conditions that fail, since a declared dependence makes what has been learned part of the state'
+title: 'Four conditions for an optimal learning policy'
+statement: >-
+  An optimal learning policy is a well-defined scalar optimum when four
+  conditions hold: a declared law for the tasks the learner meets given its
+  history and what it has learned; one valuation over outcomes, the same for
+  every policy compared, with resource costs on its scale; a finite value
+  for every policy, from a finite horizon or a discount that outruns the
+  growth of what learning makes attainable; and a policy class over which
+  the best value is attained. That learning changes which tasks the learner
+  will meet is not among the conditions that fail, since a declared
+  dependence makes what has been learned part of the state
 version: 1
 role: thesis
 warrant: demonstrated
@@ -46,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-754 CLAIM-756 CLAIM-1108 TERM-131 — Proposed; cited by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-1036 CLAIM-1130 ARG-227 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1197: An optimal learning policy is a well-defined scalar optimum when four conditions hold: a declared law for the tasks the learner meets given its history and what it has learned; one valuation over outcomes, the same for every policy compared, with resource costs on its scale; a finite value for every policy, from a finite horizon or a discount that outruns the growth of what learning makes attainable; and a policy class over which the best value is attained. That learning changes which tasks the learner will meet is not among the conditions that fail, since a declared dependence makes what has been learned part of the state
+# CLAIM-1197: Four conditions for an optimal learning policy
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 627
 status: Proposed
 formerly:
 - CLAIM-tmpxe1ih
-title: 'Whether a contested concept''s uses are compatible is partly settled by who has jurisdiction over its contexts: which contexts count as relevant to a decision and which rule governs where they overlap fix part of the cover on which its uses must glue, so a will-organization''s jurisdiction and precedence act on the conditions of interpretation and not only on its outputs'
+title: 'Jurisdiction partly settles concept compatibility'
+statement: >-
+  Whether a contested concept's uses are compatible is partly settled by who
+  has jurisdiction over its contexts: which contexts count as relevant to a
+  decision and which rule governs where they overlap fix part of the cover
+  on which its uses must glue, so a will-organization's jurisdiction and
+  precedence act on the conditions of interpretation and not only on its
+  outputs
 version: 2
 history:
 - version: 2
@@ -55,7 +62,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-057 — filed from the same exchange, Rejected -->
 
-# CLAIM-627: Whether a contested concept's uses are compatible is partly settled by who has jurisdiction over its contexts: which contexts count as relevant to a decision and which rule governs where they overlap fix part of the cover on which its uses must glue, so a will-organization's jurisdiction and precedence act on the conditions of interpretation and not only on its outputs
+# CLAIM-627: Jurisdiction partly settles concept compatibility
 
 ## The claim
 

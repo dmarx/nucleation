@@ -3,7 +3,12 @@ number: 587
 status: Active
 formerly:
 - CLAIM-tmpvhj8j
-title: 'Where successful response requires several complementary capacities, the value of preserving one depends on whether the others remain deployable, so individual resource utilization need not track the organization''s response capability'
+title: 'Utilization need not track response capability'
+statement: >-
+  Where successful response requires several complementary capacities, the
+  value of preserving one depends on whether the others remain deployable,
+  so individual resource utilization need not track the organization's
+  response capability
 version: 3
 history:
 - version: 2
@@ -58,7 +63,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-587: Where successful response requires several complementary capacities, the value of preserving one depends on whether the others remain deployable, so individual resource utilization need not track the organization's response capability
+# CLAIM-587: Utilization need not track response capability
 
 ## The claim
 

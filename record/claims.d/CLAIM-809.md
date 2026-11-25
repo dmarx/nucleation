@@ -3,7 +3,14 @@ number: 809
 status: Proposed
 formerly:
 - CLAIM-tmpask80
-title: 'Nearness to a dynamical transition changes what a system computes well rather than raising every computational ability: memory and separation, sensitivity, reliability and speed pull apart, total capacity is bounded by the number of independent state variables, and the best distance from the transition depends on the task, the integration window and the correlations of the environment'
+title: 'Criticality reshapes, not raises, computation'
+statement: >-
+  Nearness to a dynamical transition changes what a system computes well
+  rather than raising every computational ability: memory and separation,
+  sensitivity, reliability and speed pull apart, total capacity is bounded
+  by the number of independent state variables, and the best distance from
+  the transition depends on the task, the integration window and the
+  correlations of the environment
 version: 3
 history:
 - version: 2
@@ -91,7 +98,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-769 — Proposed, bearing on the claim -->
 <!-- inactive-ok-file: NOTE-2292 — Skimmed; the passage of Calvet, Reulet and Rouat read 2026-11-22 -->
 
-# CLAIM-809: Nearness to a dynamical transition changes what a system computes well rather than raising every computational ability: memory and separation, sensitivity, reliability and speed pull apart, total capacity is bounded by the number of independent state variables, and the best distance from the transition depends on the task, the integration window and the correlations of the environment
+# CLAIM-809: Criticality reshapes, not raises, computation
 
 ## The claim
 

@@ -3,7 +3,16 @@ number: 537
 status: Active
 formerly:
 - CLAIM-tmpkogzd
-title: 'In tolerance-bounded compatibility on a graph with disturbed offsets, |Dx − a₀ − w| ≤ δ for |w_e| ≤ η_e, a compatible configuration exists for every disturbance exactly when |cᵀa₀| + Σ η_e|c_e| ≤ Σ δ_e|c_e| on every cycle, and one configuration serves every disturbance exactly when η ≤ δ and |cᵀa₀| ≤ Σ(δ_e − η_e)|c_e|; an agent that chooses its configuration from what it observes needs the second condition within each class of disturbances it cannot tell apart, so whether a compatible state can be selected lies between the two and depends on what the agent can read'
+title: 'Robust compatibility as a cycle inequality'
+statement: >-
+  In tolerance-bounded compatibility on a graph with disturbed offsets, |Dx
+  − a₀ − w| ≤ δ for |w_e| ≤ η_e, a compatible configuration exists for every
+  disturbance exactly when |cᵀa₀| + Σ η_e|c_e| ≤ Σ δ_e|c_e| on every cycle,
+  and one configuration serves every disturbance exactly when η ≤ δ and
+  |cᵀa₀| ≤ Σ(δ_e − η_e)|c_e|; an agent that chooses its configuration from
+  what it observes needs the second condition within each class of
+  disturbances it cannot tell apart, so whether a compatible state can be
+  selected lies between the two and depends on what the agent can read
 version: 2
 history:
 - version: 2
@@ -52,7 +61,7 @@ summary: >-
 ---
 <!-- ref::uses-file: TERM-064 — compatibility indexed by "what the agent can read", where "Perfect legibility gives I; none gives II", is TERM-064's legibility of the disturbance to the agent -->
 
-# CLAIM-537: In tolerance-bounded compatibility on a graph with disturbed offsets, |Dx − a₀ − w| ≤ δ for |w_e| ≤ η_e, a compatible configuration exists for every disturbance exactly when |cᵀa₀| + Σ η_e|c_e| ≤ Σ δ_e|c_e| on every cycle, and one configuration serves every disturbance exactly when η ≤ δ and |cᵀa₀| ≤ Σ(δ_e − η_e)|c_e|; an agent that chooses its configuration from what it observes needs the second condition within each class of disturbances it cannot tell apart, so whether a compatible state can be selected lies between the two and depends on what the agent can read
+# CLAIM-537: Robust compatibility as a cycle inequality
 
 ## The claim
 

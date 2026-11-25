@@ -3,7 +3,14 @@ number: 1110
 status: Proposed
 formerly:
 - CLAIM-tmphrp1s
-title: 'That the forager''s gains vanish when its energy account is replaced by a matched score does not count against endogenous revision: it shows the learned warnings bound to the condition of the forager''s own dissolution, which is what the proposed study''s main threat asks for, and the study''s second defeater as worded is met by every learner and so cannot tell endogenous criteria from supplied ones'
+title: 'Matched-score loss supports endogenous revision'
+statement: >-
+  That the forager's gains vanish when its energy account is replaced by a
+  matched score does not count against endogenous revision: it shows the
+  learned warnings bound to the condition of the forager's own dissolution,
+  which is what the proposed study's main threat asks for, and the study's
+  second defeater as worded is met by every learner and so cannot tell
+  endogenous criteria from supplied ones
 version: 1
 history:
 - version: 1
@@ -48,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1141 — new; the run and the alternative reading -->
 <!-- inactive-ok-file: CASE-239 CASE-241 CLAIM-648 CLAIM-920 — Proposed or new; the study design whose defeater is read, and the claim and objection on whose terms the result is read -->
 
-# CLAIM-1110: That the forager's gains vanish when its energy account is replaced by a matched score does not count against endogenous revision: it shows the learned warnings bound to the condition of the forager's own dissolution, which is what the proposed study's main threat asks for, and the study's second defeater as worded is met by every learner and so cannot tell endogenous criteria from supplied ones
+# CLAIM-1110: Matched-score loss supports endogenous revision
 
 ## The claim
 

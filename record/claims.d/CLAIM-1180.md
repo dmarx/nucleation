@@ -3,7 +3,16 @@ number: 1180
 status: Active
 formerly:
 - CLAIM-tmpv0azx
-title: 'With one capacity that can be brought to bear at every configuration, a reserve held at budget B keeps every transition whose threshold is at most B, while a redesign lowers only the thresholds whose least-peak path can use the redesigned route, so a redesign that lets the reserve fall from θ − h to θ′ − h keeps the redesigned transition and loses every other transition the larger reserve kept whose threshold lies above θ′ and whose least-peak path does not use the redesign, that is, those with threshold in (θ′, θ]'
+title: 'Shrunk reserve loses transitions in (θ′, θ]'
+statement: >-
+  With one capacity that can be brought to bear at every configuration, a
+  reserve held at budget B keeps every transition whose threshold is at most
+  B, while a redesign lowers only the thresholds whose least-peak path can
+  use the redesigned route, so a redesign that lets the reserve fall from θ
+  − h to θ′ − h keeps the redesigned transition and loses every other
+  transition the larger reserve kept whose threshold lies above θ′ and whose
+  least-peak path does not use the redesign, that is, those with threshold
+  in (θ′, θ]
 version: 3
 history:
 - version: 2
@@ -71,7 +80,7 @@ summary: >-
 
 <!-- inactive-ok-file: SYNTHESIS-124 — Proposed; the premise, the claim it qualifies, the drill, and the account filed with this claim -->
 
-# CLAIM-1180: With one capacity that can be brought to bear at every configuration, a reserve held at budget B keeps every transition whose threshold is at most B, while a redesign lowers only the thresholds whose least-peak path can use the redesigned route, so a redesign that lets the reserve fall from θ − h to θ′ − h keeps the redesigned transition and loses every other transition the larger reserve kept whose threshold lies above θ′ and whose least-peak path does not use the redesign, that is, those with threshold in (θ′, θ]
+# CLAIM-1180: Shrunk reserve loses transitions in (θ′, θ]
 
 ## The derivation
 

@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'Norms can persist long after their original justification disappears: in the United States a race-based difference in power outlived the chattel-slavery theories of property and rights that first justified it, and was ended in law only by overturning precedent and by constitutional amendment and statute'
+title: 'Norms can outlast their justification'
+statement: >-
+  Norms can persist long after their original justification disappears: in
+  the United States a race-based difference in power outlived the
+  chattel-slavery theories of property and rights that first justified it,
+  and was ended in law only by overturning precedent and by constitutional
+  amendment and statute
 version: 1
 role: thesis
 warrant: empirical
@@ -37,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpjg5gx CLAIM-tmps8ou2 CASE-tmp3euq0 — Proposed or new; the claim objected to, the assistant's answer, and the owner's case -->
 
-# CLAIM-tmp8l5s9: Norms can persist long after their original justification disappears: in the United States a race-based difference in power outlived the chattel-slavery theories of property and rights that first justified it, and was ended in law only by overturning precedent and by constitutional amendment and statute
+# CLAIM-tmp8l5s9: Norms can outlast their justification
 
 ## The claim
 

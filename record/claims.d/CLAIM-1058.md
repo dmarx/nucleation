@@ -3,7 +3,16 @@ number: 1058
 status: Proposed
 formerly:
 - CLAIM-tmpa694z
-title: 'Ott and Antonsen''s reduction does not meet the rate-difference claim''s first defeater: its closed order-parameter law holds on a manifold that is exactly invariant, so the relation that constrains is maximally persistent rather than free of persistence, the limit of slowness as an exact conservation law is; and it holds only in a narrow class, infinitely many oscillators coupled through the first harmonic alone with spread frequencies, so it is an exception of the kind the defeater sets aside, an instance of the non-necessity the claim already concedes'
+title: 'Ott–Antonsen does not meet the first defeater'
+statement: >-
+  Ott and Antonsen's reduction does not meet the rate-difference claim's
+  first defeater: its closed order-parameter law holds on a manifold that is
+  exactly invariant, so the relation that constrains is maximally persistent
+  rather than free of persistence, the limit of slowness as an exact
+  conservation law is; and it holds only in a narrow class, infinitely many
+  oscillators coupled through the first harmonic alone with spread
+  frequencies, so it is an exception of the kind the defeater sets aside, an
+  instance of the non-necessity the claim already concedes
 version: 1
 role: thesis
 warrant: interpretive
@@ -49,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1088 THEORY-2276 ARG-220 THEORY-2291 — Proposed or new; filed with this claim for LEAD-094 -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim this defends and the claim on critical slowing it cites -->
 
-# CLAIM-1058: Ott and Antonsen's reduction does not meet the rate-difference claim's first defeater: its closed order-parameter law holds on a manifold that is exactly invariant, so the relation that constrains is maximally persistent rather than free of persistence, the limit of slowness as an exact conservation law is; and it holds only in a narrow class, infinitely many oscillators coupled through the first harmonic alone with spread frequencies, so it is an exception of the kind the defeater sets aside, an instance of the non-necessity the claim already concedes
+# CLAIM-1058: Ott–Antonsen does not meet the first defeater
 
 ## The question
 

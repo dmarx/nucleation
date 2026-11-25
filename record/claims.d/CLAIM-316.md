@@ -3,7 +3,10 @@ number: 316
 status: Active
 formerly:
 - CLAIM-tmp2gewd
-title: 'A person''s drive profile is time-indexed: who drives changes with state, such as hungry or sated and stressed or calm, with task and with regime'
+title: 'A drive profile is time-indexed'
+statement: >-
+  A person's drive profile is time-indexed: who drives changes with state,
+  such as hungry or sated and stressed or calm, with task and with regime
 version: 2
 history:
 - version: 2
@@ -49,7 +52,7 @@ summary: >-
   [CLAIM-166](CLAIM-166.md).
 ---
 
-# CLAIM-316: A person's drive profile is time-indexed: who drives changes with state, such as hungry or sated and stressed or calm, with task and with regime
+# CLAIM-316: A drive profile is time-indexed
 
 ## The claim
 

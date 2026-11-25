@@ -3,7 +3,11 @@ number: 44
 status: Proposed
 formerly:
 - CLAIM-tmpc7m5v
-title: 'Ambiguity and contextuality are different phenomena: an ambiguous utterance admits several compatible global assignments, a contextual one admits none'
+title: 'Ambiguity and contextuality differ'
+statement: >-
+  Ambiguity and contextuality are different phenomena: an ambiguous
+  utterance admits several compatible global assignments, a contextual one
+  admits none
 version: 3
 history:
 - version: 2
@@ -56,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-037 CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-044: Ambiguity and contextuality are different phenomena: an ambiguous utterance admits several compatible global assignments, a contextual one admits none
+# CLAIM-044: Ambiguity and contextuality differ
 
 ## The claim
 

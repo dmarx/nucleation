@@ -3,7 +3,11 @@ number: 494
 status: Proposed
 formerly:
 - CLAIM-tmpybc4k
-title: "Empathic concern for another produces motivation whose ultimate goal is the other's welfare, and it does so when perceived self–other merging is controlled, so not all helping is concern for an extended self"
+title: 'Empathic concern aims at the other''s welfare'
+statement: >-
+  Empathic concern for another produces motivation whose ultimate goal is
+  the other's welfare, and it does so when perceived self–other merging is
+  controlled, so not all helping is concern for an extended self
 version: 2
 history:
 - version: 2
@@ -45,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-491 — Proposed or Open; the thesis objected to and its question -->
 <!-- inactive-ok-file: LIT-1700 LIT-1683 until 2027-04-29 — Unavailable, cited and read at second hand (NOTE-1274, NOTE-1282), not grounds; ask again whether the objection holds once they are read, or by this date -->
 
-# CLAIM-494: Empathic concern for another produces motivation whose ultimate goal is the other's welfare, and it does so when perceived self–other merging is controlled, so not all helping is concern for an extended self
+# CLAIM-494: Empathic concern aims at the other's welfare
 
 ## The claim
 

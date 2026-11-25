@@ -3,7 +3,12 @@ number: 66
 status: Superseded
 formerly:
 - CLAIM-tmpj2kjo
-title: 'Kirby, Cornish and Smith show structure emerging under transmission with an experimenter''s filter, not filtering by measured inductive biases, and Griffiths and Kalish''s convergence to the prior holds only for sampling learners'
+title: 'Kirby and Griffiths results are narrower'
+statement: >-
+  Kirby, Cornish and Smith show structure emerging under transmission with
+  an experimenter's filter, not filtering by measured inductive biases, and
+  Griffiths and Kalish's convergence to the prior holds only for sampling
+  learners
 version: 2
 history:
 - version: 2
@@ -36,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-090 — Proposed; the claim this objection was to, open -->
 <!-- inactive-ok-file: CLAIM-234 — Superseded; moved to an argument the same day, cited as the claim that rested on this one -->
 
-# CLAIM-066: Kirby, Cornish and Smith show structure emerging under transmission with an experimenter's filter, not filtering by measured inductive biases, and Griffiths and Kalish's convergence to the prior holds only for sampling learners
+# CLAIM-066: Kirby and Griffiths results are narrower
 
 ## The claim
 

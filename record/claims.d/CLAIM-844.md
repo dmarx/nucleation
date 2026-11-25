@@ -3,7 +3,13 @@ number: 844
 status: Proposed
 formerly:
 - CLAIM-tmpv5asv
-title: 'Some of the slow, power-law-like relaxation seen in training deep networks may be the algebraic relaxation of degenerate singular modes rather than critical slowing down in a collective phase, and a dependency tree of feature transitions yields power laws only if its thresholds or relaxation times are themselves broadly or self-similarly distributed'
+title: 'Slow training may be singular, not critical'
+statement: >-
+  Some of the slow, power-law-like relaxation seen in training deep networks
+  may be the algebraic relaxation of degenerate singular modes rather than
+  critical slowing down in a collective phase, and a dependency tree of
+  feature transitions yields power laws only if its thresholds or relaxation
+  times are themselves broadly or self-similarly distributed
 version: 2
 history:
 - version: 2
@@ -55,7 +61,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-137 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2163 THEORY-2164 ARG-157 — Proposed or Rejected; filed 2026-11-21 from the readings of Amari, Park & Ozeki and Wei et al. -->
 
-# CLAIM-844: Some of the slow, power-law-like relaxation seen in training deep networks may be the algebraic relaxation of degenerate singular modes rather than critical slowing down in a collective phase, and a dependency tree of feature transitions yields power laws only if its thresholds or relaxation times are themselves broadly or self-similarly distributed
+# CLAIM-844: Slow training may be singular, not critical
 
 ## The claim
 

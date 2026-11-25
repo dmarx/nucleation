@@ -3,7 +3,13 @@ number: 977
 status: Proposed
 formerly:
 - CLAIM-tmpm4oom
-title: 'Beyond linear probes no single span of the conditional-expectation operator is the decision-sufficient signature: a nonlinear readout recovers stable targets outside the top-d linear span, sufficiency for a stated decision is span-relative, and direction-dependent decisions are served by no left span'
+title: 'No single span is decision-sufficient'
+statement: >-
+  Beyond linear probes no single span of the conditional-expectation
+  operator is the decision-sufficient signature: a nonlinear readout
+  recovers stable targets outside the top-d linear span, sufficiency for a
+  stated decision is span-relative, and direction-dependent decisions are
+  served by no left span
 version: 1
 role: thesis
 warrant: demonstrated
@@ -36,7 +42,7 @@ corroborates:
 <!-- inactive-ok-file: CASE-379 CLAIM-976 — Proposed; the study that grounds this claim and the companion reduction claim, filed with it on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-209 CLAIM-193 — Proposed; the thesis this bounds and the linear-probe claim it corroborates, cited as open -->
 
-# CLAIM-977: Beyond linear probes no single span of the conditional-expectation operator is the decision-sufficient signature: a nonlinear readout recovers stable targets outside the top-d linear span, sufficiency for a stated decision is span-relative, and direction-dependent decisions are served by no left span
+# CLAIM-977: No single span is decision-sufficient
 
 ## The claim
 

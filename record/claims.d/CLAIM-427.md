@@ -5,7 +5,16 @@ superseded_by:
 - ARG-025
 formerly:
 - CLAIM-tmpcp1lb
-title: 'Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework''s defeater, and no grade counts if success is defined in the framework''s own terms'
+title: 'Three grades of evidence for perspectives'
+statement: >-
+  Evidence for the organizational-perspective framework comes in three
+  grades: that different organizations produce the same ordinary behaviour,
+  that they respond differently to independently specified interventions,
+  and that a model representing the coupling of significance, authority and
+  reproduction predicts those responses better than the strongest existing
+  alternatives at matched complexity; only the third bears on the
+  framework's defeater, and no grade counts if success is defined in the
+  framework's own terms
 version: 6
 history:
 - version: 2
@@ -91,7 +100,7 @@ summary: >-
   constructions. Nothing in the record meets the third.
 ---
 <!-- inactive-ok-file: ARG-025 CLAIM-417 — Proposed; the argument this claim moved to and its conclusion, open -->
-# CLAIM-427: Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework's defeater, and no grade counts if success is defined in the framework's own terms
+# CLAIM-427: Three grades of evidence for perspectives
 
 ## The claim
 

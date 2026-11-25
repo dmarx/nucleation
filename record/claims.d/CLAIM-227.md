@@ -3,7 +3,11 @@ number: 227
 status: Active
 formerly:
 - CLAIM-tmpelp3h
-title: 'No validated measure of footing or stance exists in the record, and the one repeated assignment of footing, the analyst''s own, changed between passes'
+title: 'No validated measure of footing or stance'
+statement: >-
+  No validated measure of footing or stance exists in the record, and the
+  one repeated assignment of footing, the analyst's own, changed between
+  passes
 version: 1
 role: granted
 warrant: empirical
@@ -32,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: LIT-780 LIT-785 — Unavailable; the works are unread here, cited as the sources the line names for footing and force and not leaned on -->
 
-# CLAIM-227: No validated measure of footing or stance exists in the record, and the one repeated assignment of footing, the analyst's own, changed between passes
+# CLAIM-227: No validated measure of footing or stance
 
 ## The objection
 

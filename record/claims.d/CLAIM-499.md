@@ -3,7 +3,10 @@ number: 499
 status: Proposed
 formerly:
 - CLAIM-tmp79btt
-title: 'The linear barrier left after aligning independently trained networks over the architecture''s symmetries rises with depth'
+title: 'Post-alignment linear barrier rises with depth'
+statement: >-
+  The linear barrier left after aligning independently trained networks over
+  the architecture's symmetries rises with depth
 version: 1
 role: thesis
 warrant: interpretive
@@ -31,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-2 rule this entry is filed under -->
 
-# CLAIM-499: The linear barrier left after aligning independently trained networks over the architecture's symmetries rises with depth
+# CLAIM-499: Post-alignment linear barrier rises with depth
 
 ## The claim
 

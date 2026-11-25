@@ -3,7 +3,11 @@ number: 831
 status: Proposed
 formerly:
 - CLAIM-tmpnf9by
-title: "Scoring against a null is a case of certifying categories by a model of the effect of using them, the model being the null's account of what the measure shows without the effect"
+title: 'Null scoring is certification by effect model'
+statement: >-
+  Scoring against a null is a case of certifying categories by a model of
+  the effect of using them, the model being the null's account of what the
+  measure shows without the effect
 version: 1
 role: supposed
 warrant: interpretive
@@ -33,7 +37,7 @@ date: '2026-11-21'
 ---
 <!-- inactive-ok-file: CLAIM-821 CLAIM-851 — Proposed or new; filed 2026-11-21 -->
 
-# CLAIM-831: Scoring against a null is a case of certifying categories by a model of the effect of using them, the model being the null's account of what the measure shows without the effect
+# CLAIM-831: Null scoring is certification by effect model
 
 **Reading (b), an alternative to [CLAIM-851](CLAIM-851.md).** Comparing a reading with a null is comparing the measure with and without the learned categories, so it is a model of their effect, a degenerate one that gives the zero-effect baseline. On this reading the manuscript's list of three routes stands, and [CLAIM-821](CLAIM-821.md) says only that the second route must include a null.
 

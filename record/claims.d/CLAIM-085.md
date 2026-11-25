@@ -3,7 +3,12 @@ number: 85
 status: Active
 formerly:
 - CLAIM-tmpo49t2
-title: 'A framing effect in a language model is a property of that model under those prompts, and what a translation ought to preserve is a normative question that model response distributions, being descriptive, cannot settle'
+title: 'Model framing effects cannot settle the norm'
+statement: >-
+  A framing effect in a language model is a property of that model under
+  those prompts, and what a translation ought to preserve is a normative
+  question that model response distributions, being descriptive, cannot
+  settle
 version: 2
 history:
 - version: 2
@@ -36,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-095 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-085: A framing effect in a language model is a property of that model under those prompts, and what a translation ought to preserve is a normative question that model response distributions, being descriptive, cannot settle
+# CLAIM-085: Model framing effects cannot settle the norm
 
 ## The claim
 

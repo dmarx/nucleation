@@ -3,7 +3,10 @@ number: 6
 status: Superseded
 formerly:
 - CLAIM-tmp1bwsn
-title: 'What fundamentally distinguishes variations of a translation is the frame from which it is delivered'
+title: 'Translations differ by delivery frame'
+statement: >-
+  What fundamentally distinguishes variations of a translation is the frame
+  from which it is delivered
 version: 1
 role: thesis
 warrant: interpretive
@@ -31,7 +34,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-005 TERM-035 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: TERM-029 until 2027-02-10 — Superseded; a premise this entry depends on (`uses`): replaced; this entry is stated in its earlier sense, so ask again whether it holds in the successor's -->
 
-# CLAIM-006: What fundamentally distinguishes variations of a translation is the frame from which it is delivered
+# CLAIM-006: Translations differ by delivery frame
 
 ## The claim
 

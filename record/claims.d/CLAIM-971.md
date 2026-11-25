@@ -3,7 +3,13 @@ number: 971
 status: Proposed
 formerly:
 - CLAIM-tmppxyo3
-title: 'A centralized self-model matched to an accurate one in parameter count and reproducing the system''s behaviour exactly can still systematically misattribute control, so matched capacity and equal behaviour do not force the single owner a unified self-model presents to have a truthmaker in the true distribution of control'
+title: 'Equal behaviour does not ground a single owner'
+statement: >-
+  A centralized self-model matched to an accurate one in parameter count and
+  reproducing the system's behaviour exactly can still systematically
+  misattribute control, so matched capacity and equal behaviour do not force
+  the single owner a unified self-model presents to have a truthmaker in the
+  true distribution of control
 version: 1
 role: thesis
 warrant: demonstrated
@@ -31,7 +37,7 @@ corroborates:
 <!-- inactive-ok-file: CLAIM-355 — Proposed; the claim this finding corroborates, cited as open -->
 <!-- inactive-ok-file: CASE-376 THEORY-646 — the executed study this rests on (new) and Drayson's objection (Proposed), cited as open -->
 
-# CLAIM-971: A centralized self-model matched to an accurate one in parameter count and reproducing the system's behaviour exactly can still systematically misattribute control, so matched capacity and equal behaviour do not force the single owner a unified self-model presents to have a truthmaker in the true distribution of control
+# CLAIM-971: Equal behaviour does not ground a single owner
 
 ## The claim
 

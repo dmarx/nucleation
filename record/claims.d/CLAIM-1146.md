@@ -3,8 +3,10 @@ number: 1146
 status: Proposed
 formerly:
 - CLAIM-tmpo7kx7
-title: Mechanics is grounded in physical phenomena, so the regress of anchors
-  has an independent witness to certify from
+title: 'Physical phenomena witness the regress of anchors'
+statement: >-
+  Mechanics is grounded in physical phenomena, so the regress of anchors has
+  an independent witness to certify from
 version: 1
 role: thesis
 warrant: interpretive
@@ -31,7 +33,7 @@ summary: 'The owner''s, 2026-11-23, in this session: "thankfully, mechanics
 
 <!-- inactive-ok-file: ARG-234 CLAIM-1143 — Proposed; cited in this filing of 2026-11-23 -->
 
-# CLAIM-1146: Mechanics is grounded in physical phenomena, so the regress of anchors has an independent witness to certify from
+# CLAIM-1146: Physical phenomena witness the regress of anchors
 
 ## The claim
 

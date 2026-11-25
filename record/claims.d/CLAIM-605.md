@@ -3,7 +3,15 @@ number: 605
 status: Active
 formerly:
 - CLAIM-tmp6t2vz
-title: "Where capacity is learned by doing, decays with disuse and needs capacity already present to grow, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold"
+title: 'Capacity support has a withdrawal deadline'
+statement: >-
+  Where capacity is learned by doing, decays with disuse and needs capacity
+  already present to grow, support that does the work has a deadline after
+  which withdrawal no longer restores capacity, and a slow taper of such
+  support is worse than an abrupt cut because it holds practice down long
+  enough to cross the threshold; support that covers only what the party
+  cannot yet do needs no taper but cannot lift a party already below the
+  threshold
 version: 5
 history:
 - version: 2
@@ -101,7 +109,7 @@ works:
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-364 CLAIM-950 CLAIM-721 — new or Proposed; the restriction variant, its finding and the claim it reaches, note of 2026-11-22 -->
 
-# CLAIM-605: Where capacity is learned by doing, decays with disuse and needs capacity already present to grow, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold
+# CLAIM-605: Capacity support has a withdrawal deadline
 
 ## The model
 

@@ -3,7 +3,15 @@ number: 506
 status: Active
 formerly:
 - CLAIM-tmp1vxtu
-title: 'The split of the last eukaryotic common ancestor''s central carbon metabolism, archaeal enzymes in the cytosol and alphaproteobacterial ones in the mitochondrion, does not single out syntrophy: a host that kept its own archaeal glycolysis and took up a bacterium with a TCA cycle leaves it whether the partnership began in syntrophy or by engulfment by an already complex host, and what the split counts against is a host whose carbon metabolism was replaced by the symbiont''s'
+title: 'LECA''s metabolic split doesn''t imply syntrophy'
+statement: >-
+  The split of the last eukaryotic common ancestor's central carbon
+  metabolism, archaeal enzymes in the cytosol and alphaproteobacterial ones
+  in the mitochondrion, does not single out syntrophy: a host that kept its
+  own archaeal glycolysis and took up a bacterium with a TCA cycle leaves it
+  whether the partnership began in syntrophy or by engulfment by an already
+  complex host, and what the split counts against is a host whose carbon
+  metabolism was replaced by the symbiont's
 version: 2
 history:
 - version: 2
@@ -56,7 +64,7 @@ summary: >-
   cannot carry that reading.
 ---
 
-# CLAIM-506: The split of the last eukaryotic common ancestor's central carbon metabolism, archaeal enzymes in the cytosol and alphaproteobacterial ones in the mitochondrion, does not single out syntrophy: a host that kept its own archaeal glycolysis and took up a bacterium with a TCA cycle leaves it whether the partnership began in syntrophy or by engulfment by an already complex host, and what the split counts against is a host whose carbon metabolism was replaced by the symbiont's
+# CLAIM-506: LECA's metabolic split doesn't imply syntrophy
 
 ## The claim
 

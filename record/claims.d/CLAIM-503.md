@@ -3,7 +3,13 @@ number: 503
 status: Active
 formerly:
 - CLAIM-tmphhbgz
-title: 'Over finitely many states and finite outcome sets, one experiment is ε-deficient relative to another in every decision problem with losses in [0, 1] exactly when a single Markov kernel brings it within ε in total variation at every state, so the deficiency computed as a linear programme is the least such ε'
+title: 'ε-deficiency is a kernel within ε in TV'
+statement: >-
+  Over finitely many states and finite outcome sets, one experiment is
+  ε-deficient relative to another in every decision problem with losses in
+  [0, 1] exactly when a single Markov kernel brings it within ε in total
+  variation at every state, so the deficiency computed as a linear programme
+  is the least such ε
 version: 2
 history:
 - version: 1
@@ -61,7 +67,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the empirical question this result leaves open, cited as open -->
 
-# CLAIM-503: Over finitely many states and finite outcome sets, one experiment is ε-deficient relative to another in every decision problem with losses in [0, 1] exactly when a single Markov kernel brings it within ε in total variation at every state, so the deficiency computed as a linear programme is the least such ε
+# CLAIM-503: ε-deficiency is a kernel within ε in TV
 
 ## The claim
 

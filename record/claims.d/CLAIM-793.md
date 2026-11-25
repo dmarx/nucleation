@@ -3,7 +3,15 @@ number: 793
 status: Proposed
 formerly:
 - CLAIM-tmppkqzl
-title: 'Where an inquiry keeps its sources and each step reads the stored source rather than the last restatement of it, re-reading is not a second route beside conservation but conservation on the state enlarged by the source; on that structure an interpretation does not drift but settles on a fixed offset from the source toward the reader''s prior, the same at every reading, which no reader sharing that prior can see, and drift is confined to the chains of derived texts'
+title: 'Re-reading settles at a fixed offset'
+statement: >-
+  Where an inquiry keeps its sources and each step reads the stored source
+  rather than the last restatement of it, re-reading is not a second route
+  beside conservation but conservation on the state enlarged by the source;
+  on that structure an interpretation does not drift but settles on a fixed
+  offset from the source toward the reader's prior, the same at every
+  reading, which no reader sharing that prior can see, and drift is confined
+  to the chains of derived texts
 version: 2
 history:
 - version: 2
@@ -70,7 +78,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-772 CLAIM-182 CLAIM-191 — Proposed; the claim objected to and the anchoring claims it rests on -->
 
-# CLAIM-793: Where an inquiry keeps its sources and each step reads the stored source rather than the last restatement of it, re-reading is not a second route beside conservation but conservation on the state enlarged by the source; on that structure an interpretation does not drift but settles on a fixed offset from the source toward the reader's prior, the same at every reading, which no reader sharing that prior can see, and drift is confined to the chains of derived texts
+# CLAIM-793: Re-reading settles at a fixed offset
 
 ## The objection
 

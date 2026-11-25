@@ -3,7 +3,12 @@ number: 1140
 status: Proposed
 formerly:
 - CLAIM-tmpn8j1j
-title: "Where the evidence that would justify authorizing an inquiry can only be produced with resources that need the authorization, the dependency is circular, so a proposal's failure to persuade does not show that the possibility behind it is worthless"
+title: 'Failing to persuade does not show worthlessness'
+statement: >-
+  Where the evidence that would justify authorizing an inquiry can only be
+  produced with resources that need the authorization, the dependency is
+  circular, so a proposal's failure to persuade does not show that the
+  possibility behind it is worthless
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +48,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1016 CLAIM-721 — Proposed; the premise, the gap fill and the restriction trap it is set beside -->
 
-# CLAIM-1140: Where the evidence that would justify authorizing an inquiry can only be produced with resources that need the authorization, the dependency is circular, so a proposal's failure to persuade does not show that the possibility behind it is worthless
+# CLAIM-1140: Failing to persuade does not show worthlessness
 
 ## The claim
 

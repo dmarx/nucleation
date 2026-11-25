@@ -3,7 +3,14 @@ number: 405
 status: Active
 formerly:
 - CLAIM-tmpoxkub
-title: 'An individuation is well defined only once its criterion is fixed (the target it serves, the transformations its unity must survive, the scale), and that dependence does not make it arbitrary: once the criterion is fixed a verdict can be false, and differently fixed criteria can pick out units of one system whose boundaries cross rather than nest, none of them less real for it'
+title: 'Fixed criteria make individuation non-arbitrary'
+statement: >-
+  An individuation is well defined only once its criterion is fixed (the
+  target it serves, the transformations its unity must survive, the scale),
+  and that dependence does not make it arbitrary: once the criterion is
+  fixed a verdict can be false, and differently fixed criteria can pick out
+  units of one system whose boundaries cross rather than nest, none of them
+  less real for it
 version: 3
 history:
 - version: 2
@@ -73,7 +80,7 @@ works:
 <!-- inactive-ok-file: CLAIM-157 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-174 — Proposed; the owner's thesis this complements and the claims it is read beside, open -->
 
-# CLAIM-405: An individuation is well defined only once its criterion is fixed (the target it serves, the transformations its unity must survive, the scale), and that dependence does not make it arbitrary: once the criterion is fixed a verdict can be false, and differently fixed criteria can pick out units of one system whose boundaries cross rather than nest, none of them less real for it
+# CLAIM-405: Fixed criteria make individuation non-arbitrary
 
 ## The claim
 

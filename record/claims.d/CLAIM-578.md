@@ -3,7 +3,13 @@ number: 578
 status: Active
 formerly:
 - CLAIM-tmplysd0
-title: 'Computational complexity belongs to a family of problems posed over configuration spaces, with an encoding and permitted operations, and not to a configuration space: one fixed finite space has none, and over the same instances finding a solution and navigating between solutions can fall in different classes'
+title: 'Complexity belongs to problems, not spaces'
+statement: >-
+  Computational complexity belongs to a family of problems posed over
+  configuration spaces, with an encoding and permitted operations, and not
+  to a configuration space: one fixed finite space has none, and over the
+  same instances finding a solution and navigating between solutions can
+  fall in different classes
 version: 2
 history:
 - version: 2
@@ -61,7 +67,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1555 NOTE-1572 THEORY-1380 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
-# CLAIM-578: Computational complexity belongs to a family of problems posed over configuration spaces, with an encoding and permitted operations, and not to a configuration space: one fixed finite space has none, and over the same instances finding a solution and navigating between solutions can fall in different classes
+# CLAIM-578: Complexity belongs to problems, not spaces
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 335
 status: Active
 formerly:
 - CLAIM-tmpu9ivq
-title: 'Transfer entropy measures directed predictive improvement, not information flow: as a conditional mutual information it is the source''s unique information about the target''s next value plus its synergy with the target''s past, so it can credit a source with a bit the source carries only jointly and read zero from sources that jointly fix the target, and conditioning on more series does not remove the synergy'
+title: 'Transfer entropy is not information flow'
+statement: >-
+  Transfer entropy measures directed predictive improvement, not information
+  flow: as a conditional mutual information it is the source's unique
+  information about the target's next value plus its synergy with the
+  target's past, so it can credit a source with a bit the source carries
+  only jointly and read zero from sources that jointly fix the target, and
+  conditioning on more series does not remove the synergy
 version: 4
 history:
 - version: 2
@@ -66,7 +73,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-185 THEORY-2187 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-335: Transfer entropy measures directed predictive improvement, not information flow: as a conditional mutual information it is the source's unique information about the target's next value plus its synergy with the target's past, so it can credit a source with a bit the source carries only jointly and read zero from sources that jointly fix the target, and conditioning on more series does not remove the synergy
+# CLAIM-335: Transfer entropy is not information flow
 
 ## The claim
 

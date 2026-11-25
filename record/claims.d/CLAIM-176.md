@@ -3,7 +3,11 @@ number: 176
 status: Proposed
 formerly:
 - CLAIM-tmp2jolp
-title: 'Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record'
+title: 'Recurrence triggers persistence'
+statement: >-
+  Recurrence is the trigger of persistence this record is built around:
+  coding a thing the second time it turns up captures exactly the drift that
+  defeats an argument, and keeps capture from flooding the record
 version: 5
 history:
 - version: 2
@@ -78,7 +82,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
-# CLAIM-176: Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record
+# CLAIM-176: Recurrence triggers persistence
 
 ## The claim
 

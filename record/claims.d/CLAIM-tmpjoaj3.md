@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: 'Where the reactive work that restores a failing condition and the engineering that would remove its cause draw on one budget and the reactive work takes precedence, an organization can stay operationally viable while its capacity to transform itself is consumed, and a standing reservation of capacity for transformation, enforced by returning the overflow to those whose activity generates it, breaks the loop'
+title: 'Reactive work can consume transformative capacity'
+statement: >-
+  Where the reactive work that restores a failing condition and the
+  engineering that would remove its cause draw on one budget and the
+  reactive work takes precedence, an organization can stay operationally
+  viable while its capacity to transform itself is consumed, and a standing
+  reservation of capacity for transformation, enforced by returning the
+  overflow to those whose activity generates it, breaks the loop
 version: 1
 role: thesis
 warrant: interpretive
@@ -41,7 +48,7 @@ summary: >-
 
 <!-- inactive-ok-file: CASE-tmphtt17 CLAIM-700 LIT-tmp4c11c LIT-tmpeybfl — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
-# CLAIM-tmpjoaj3: Where the reactive work that restores a failing condition and the engineering that would remove its cause draw on one budget and the reactive work takes precedence, an organization can stay operationally viable while its capacity to transform itself is consumed, and a standing reservation of capacity for transformation, enforced by returning the overflow to those whose activity generates it, breaks the loop
+# CLAIM-tmpjoaj3: Reactive work can consume transformative capacity
 
 ## The claim
 

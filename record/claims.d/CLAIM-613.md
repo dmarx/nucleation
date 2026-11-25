@@ -3,7 +3,11 @@ number: 613
 status: Proposed
 formerly:
 - CLAIM-tmp7fzb9
-title: "A fork can be the construction of a new organization through which a disposition that the parent's governance kept ineffective gains efficacy, and not only one of several successors of the parent"
+title: 'A fork can empower a suppressed disposition'
+statement: >-
+  A fork can be the construction of a new organization through which a
+  disposition that the parent's governance kept ineffective gains efficacy,
+  and not only one of several successors of the parent
 version: 5
 history:
 - version: 2
@@ -84,7 +88,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-118 CLAIM-615 — filed from the same exchange, Proposed; the term used and the thesis whose fission correction this follows -->
 <!-- inactive-ok-file: THEORY-152 — Proposed; Hirschman's exit and voice, cited as the neighbouring account -->
 
-# CLAIM-613: A fork can be the construction of a new organization through which a disposition that the parent's governance kept ineffective gains efficacy, and not only one of several successors of the parent
+# CLAIM-613: A fork can empower a suppressed disposition
 
 ## The claim
 

@@ -3,7 +3,12 @@ number: 863
 status: Proposed
 formerly:
 - CLAIM-tmpdsiv5
-title: 'Per audit or reframing a claim undergoes, the chance that it takes a substantive revision falls as inbound rests_on and grounds edges accrue, because each edge adds a downstream recheck; a count of revisions over time cannot test this, since citation also draws the audits'
+title: 'Inbound edges lower revision chance per audit'
+statement: >-
+  Per audit or reframing a claim undergoes, the chance that it takes a
+  substantive revision falls as inbound rests_on and grounds edges accrue,
+  because each edge adds a downstream recheck; a count of revisions over
+  time cannot test this, since citation also draws the audits
 version: 1
 history:
 - version: 1
@@ -42,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-307 CLAIM-778 CLAIM-864 — Proposed, Rejected, Deferred or new; the entries this filing made or touched -->
 
-# CLAIM-863: Per audit or reframing a claim undergoes, the chance that it takes a substantive revision falls as inbound rests_on and grounds edges accrue, because each edge adds a downstream recheck; a count of revisions over time cannot test this, since citation also draws the audits
+# CLAIM-863: Inbound edges lower revision chance per audit
 
 **One of two readings of [CASE-307](../cases.d/CASE-307.md); the other is [CLAIM-864](CLAIM-864.md).** This reading keeps what [CLAIM-778](CLAIM-778.md) says about constraint and moves it to the right denominator. If citation draws scrutiny, revisions per unit of time can rise with citation even while each look at a cited claim is less likely to change it. The sentence is the one [CLAIM-778](CLAIM-778.md)'s admission of 2026-11-21 wrote for this case.
 

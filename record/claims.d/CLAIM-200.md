@@ -5,7 +5,13 @@ superseded_by:
 - ARG-017
 formerly:
 - CLAIM-tmp0stxa
-title: "The procedure-level fidelity thesis's title says observational fidelity is not defined for a single rendering of a single item, which is more than it shows: one source–target pair does not identify the procedure-level score, and a single rendering can still be judged, as a sample of its procedure or by another measure stated as such, as its own body says"
+title: 'Single renderings can still be judged'
+statement: >-
+  The procedure-level fidelity thesis's title says observational fidelity is
+  not defined for a single rendering of a single item, which is more than it
+  shows: one source–target pair does not identify the procedure-level score,
+  and a single rendering can still be judged, as a sample of its procedure
+  or by another measure stated as such, as its own body says
 version: 2
 history:
 - version: 2
@@ -35,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the claim this objection is to, repaired at version 2 and still open on its defeat condition -->
 
-# CLAIM-200: The procedure-level fidelity thesis's title says observational fidelity is not defined for a single rendering of a single item, which is more than it shows: one source–target pair does not identify the procedure-level score, and a single rendering can still be judged, as a sample of its procedure or by another measure stated as such, as its own body says
+# CLAIM-200: Single renderings can still be judged
 
 ## The objection
 

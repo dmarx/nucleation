@@ -3,7 +3,12 @@ number: 1069
 status: Proposed
 formerly:
 - CLAIM-tmpc7tmg
-title: 'A later first look at a background that says nothing about whether a trauma cue is dangerous withholds no evidence, so the nearest study gives the sampling account of persistent PTSD no support, and the gaze studies that measure how widely people scan point both ways'
+title: 'PTSD sampling account gets no support'
+statement: >-
+  A later first look at a background that says nothing about whether a
+  trauma cue is dangerous withholds no evidence, so the nearest study gives
+  the sampling account of persistent PTSD no support, and the gaze studies
+  that measure how widely people scan point both ways
 version: 1
 role: counter
 warrant: interpretive
@@ -42,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2277 THEORY-2284 — new; the readings it rests on -->
 <!-- inactive-ok-file: LIT-3149 LIT-3178 LIT-3171 LIT-3168 — Deferred; studies registered for the same lead, cited unread -->
 
-# CLAIM-1069: A later first look at a background that says nothing about whether a trauma cue is dangerous withholds no evidence, so the nearest study gives the sampling account of persistent PTSD no support, and the gaze studies that measure how widely people scan point both ways
+# CLAIM-1069: PTSD sampling account gets no support
 
 ## The claim
 

@@ -3,7 +3,17 @@ number: 555
 status: Proposed
 formerly:
 - CLAIM-tmpzj6at
-title: 'In statistical learning, the compatibility complex of the demands a training distribution presents and the singular geometry singular learning theory studies are two invariants of one object, not descriptions of two: each demand''s acceptance set is a sublevel set of its loss on the parameter space, the complex is the nerve of those sets, and the aggregate loss whose geometry fixes the learning coefficient is built from the same losses; the nerve is coarse, the learning coefficient finer, and over a fixed architecture the complex changes in training only through which configurations are accessible'
+title: 'Compatibility and SLT geometry share one object'
+statement: >-
+  In statistical learning, the compatibility complex of the demands a
+  training distribution presents and the singular geometry singular learning
+  theory studies are two invariants of one object, not descriptions of two:
+  each demand's acceptance set is a sublevel set of its loss on the
+  parameter space, the complex is the nerve of those sets, and the aggregate
+  loss whose geometry fixes the learning coefficient is built from the same
+  losses; the nerve is coarse, the learning coefficient finer, and over a
+  fixed architecture the complex changes in training only through which
+  configurations are accessible
 version: 2
 history:
 - version: 2
@@ -71,7 +81,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-249 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 
-# CLAIM-555: In statistical learning, the compatibility complex of the demands a training distribution presents and the singular geometry singular learning theory studies are two invariants of one object, not descriptions of two: each demand's acceptance set is a sublevel set of its loss on the parameter space, the complex is the nerve of those sets, and the aggregate loss whose geometry fixes the learning coefficient is built from the same losses; the nerve is coarse, the learning coefficient finer, and over a fixed architecture the complex changes in training only through which configurations are accessible
+# CLAIM-555: Compatibility and SLT geometry share one object
 
 ## The claim
 

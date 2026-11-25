@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'Processes need not owe one another moral duties for a system of them to enter a pathological regime of incompatible behaviour, one that takes intervention and a reorganization of their commitments to resolve its systemic frustration'
+title: 'Pathological regimes need no moral duties'
+statement: >-
+  Processes need not owe one another moral duties for a system of them to
+  enter a pathological regime of incompatible behaviour, one that takes
+  intervention and a reorganization of their commitments to resolve its
+  systemic frustration
 version: 1
 role: thesis
 warrant: interpretive
@@ -42,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmptpna1 CLAIM-tmpkvzcn CLAIM-tmpzuzeh — Proposed; cited as filed or held beside this entry, whatever its standing -->
 
-# CLAIM-tmpe6yfm: Processes need not owe one another moral duties for a system of them to enter a pathological regime of incompatible behaviour, one that takes intervention and a reorganization of their commitments to resolve its systemic frustration
+# CLAIM-tmpe6yfm: Pathological regimes need no moral duties
 
 ## The claim
 

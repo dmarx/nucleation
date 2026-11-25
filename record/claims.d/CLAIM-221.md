@@ -3,7 +3,12 @@ number: 221
 status: Proposed
 formerly:
 - CLAIM-tmpc25sn
-title: 'The relational-constitution thesis''s defeat condition describes a standard rival the record holds no counter for, intention-based accounts of illocution, which plausibly meet it for every act in the four-speakers case except the institutional one'
+title: 'Intention-based rivals meet the defeat condition'
+statement: >-
+  The relational-constitution thesis's defeat condition describes a standard
+  rival the record holds no counter for, intention-based accounts of
+  illocution, which plausibly meet it for every act in the four-speakers
+  case except the institutional one
 version: 3
 history:
 - version: 2
@@ -57,7 +62,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-780 LIT-785 — Unavailable; Goffman and Austin, unread here, cited as named and not leaned on -->
 <!-- inactive-ok-file: CLAIM-160 CLAIM-171 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# CLAIM-221: The relational-constitution thesis's defeat condition describes a standard rival the record holds no counter for, intention-based accounts of illocution, which plausibly meet it for every act in the four-speakers case except the institutional one
+# CLAIM-221: Intention-based rivals meet the defeat condition
 
 ## The objection
 

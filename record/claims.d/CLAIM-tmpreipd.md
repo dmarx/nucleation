@@ -1,6 +1,14 @@
 ---
 status: Proposed
-title: 'Morality is not cooperation, nor only the solutions to its problems: cooperation transforms its participants and creates new dependencies, vulnerabilities and claims, exploitation can be a way of organizing successful cooperation, refusing to cooperate can be right, and moral consideration is not confined to those who cooperate, so morality evaluates the terms on which cooperation is formed, maintained and transformed'
+title: 'Morality is not cooperation'
+statement: >-
+  Morality is not cooperation, nor only the solutions to its problems:
+  cooperation transforms its participants and creates new dependencies,
+  vulnerabilities and claims, exploitation can be a way of organizing
+  successful cooperation, refusing to cooperate can be right, and moral
+  consideration is not confined to those who cooperate, so morality
+  evaluates the terms on which cooperation is formed, maintained and
+  transformed
 version: 1
 role: thesis
 warrant: interpretive
@@ -52,7 +60,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmp1fj5p ARG-tmpn6xou CLAIM-669 CLAIM-713 THEORY-2110 THEORY-468 CLAIM-959 CLAIM-960 CLAIM-671 CLAIM-tmp0i6c0 CLAIM-tmp2jhc1 CLAIM-tmp8bimm — Proposed; the owner's thesis, the assistant's check, the held routes and readings, and the claims filed with this from A20–A24 -->
 
-# CLAIM-tmpreipd: Morality is not cooperation, nor only the solutions to its problems: cooperation transforms its participants and creates new dependencies, vulnerabilities and claims, exploitation can be a way of organizing successful cooperation, refusing to cooperate can be right, and moral consideration is not confined to those who cooperate, so morality evaluates the terms on which cooperation is formed, maintained and transformed
+# CLAIM-tmpreipd: Morality is not cooperation
 
 ## The claim
 

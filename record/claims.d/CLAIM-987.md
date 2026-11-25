@@ -3,7 +3,15 @@ number: 987
 status: Proposed
 formerly:
 - CLAIM-tmp8g26d
-title: "Alternative reading (a) of the constitutivism test: applied to the record's organizational account, Leffler's choice point cannot be passed from an organization's dynamics alone, since if the force of its self-generated norms is explained by its being continuously positioned to maintain itself, that force is relative to its constitution, and the account cannot by that route rule between an institution's norms and its members' without a premise from outside the dynamics"
+title: 'Choice point unpassable from dynamics alone'
+statement: >-
+  Alternative reading (a) of the constitutivism test: applied to the
+  record's organizational account, Leffler's choice point cannot be passed
+  from an organization's dynamics alone, since if the force of its
+  self-generated norms is explained by its being continuously positioned to
+  maintain itself, that force is relative to its constitution, and the
+  account cannot by that route rule between an institution's norms and its
+  members' without a premise from outside the dynamics
 version: 1
 role: counter
 warrant: interpretive
@@ -45,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2268 ARG-217 CLAIM-989 CLAIM-988 — filed in the same batch, Proposed -->
 <!-- inactive-ok-file: THEORY-220 THEORY-071 THEORY-628 CLAIM-648 — Proposed; the record's route to self-generated norms, which the test is applied to -->
 
-# CLAIM-987: Alternative reading (a) of the constitutivism test: applied to the record's organizational account, Leffler's choice point cannot be passed from an organization's dynamics alone, since if the force of its self-generated norms is explained by its being continuously positioned to maintain itself, that force is relative to its constitution, and the account cannot by that route rule between an institution's norms and its members' without a premise from outside the dynamics
+# CLAIM-987: Choice point unpassable from dynamics alone
 
 ## The claim
 

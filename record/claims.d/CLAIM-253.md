@@ -3,7 +3,12 @@ number: 253
 status: Active
 formerly:
 - CLAIM-tmpvmzx9
-title: 'The intertwining defects are defined on unobservable interpretive-state spaces, so they are not identified from judgement data, and the commutator identity bounds observed order effects only with a further, unstated readout-intertwining defect'
+title: 'Intertwining defects are unidentified'
+statement: >-
+  The intertwining defects are defined on unobservable interpretive-state
+  spaces, so they are not identified from judgement data, and the commutator
+  identity bounds observed order effects only with a further, unstated
+  readout-intertwining defect
 version: 2
 history:
 - version: 2
@@ -43,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-117 CLAIM-063 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-127 — Proposed; the observational-equivalence claim this objection rests on and the causal layer it cites, open -->
 
-# CLAIM-253: The intertwining defects are defined on unobservable interpretive-state spaces, so they are not identified from judgement data, and the commutator identity bounds observed order effects only with a further, unstated readout-intertwining defect
+# CLAIM-253: Intertwining defects are unidentified
 
 ## The objection
 

@@ -3,7 +3,12 @@ number: 130
 status: Active
 formerly:
 - CLAIM-tmp2i7yj
-title: 'Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s): only a do(S) intervenes on the relations that would constitute an act, and in a vignette or rating study every manipulation is a do(I)'
+title: 'Telling is not changing the situation'
+statement: >-
+  Telling an interpreter about a communicative situation, do(I = a), is a
+  different intervention from changing the situation, do(S = s): only a
+  do(S) intervenes on the relations that would constitute an act, and in a
+  vignette or rating study every manipulation is a do(I)
 version: 5
 history:
 - version: 2
@@ -83,7 +88,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the constitution thesis this claim complements, cited as open -->
 <!-- inactive-ok-file: ARG-012 — Rejected; the argument this claim's support verdict moved to, which it undercuts -->
 
-# CLAIM-130: Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s): only a do(S) intervenes on the relations that would constitute an act, and in a vignette or rating study every manipulation is a do(I)
+# CLAIM-130: Telling is not changing the situation
 
 ## The claim
 

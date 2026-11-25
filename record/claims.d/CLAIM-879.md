@@ -3,7 +3,16 @@ number: 879
 status: Proposed
 formerly:
 - CLAIM-tmpsaql8
-title: 'In a queueing model whose overseer keeps the same authority, information and reviewers at every speed, making the acting institution''s actions irreversible sooner lowers the share of objectionable actions stopped in time gradually and from before the timing condition fails at the means; at the settings run, precommitted limits win back the share they foresee and automatic suspension the share detected in time, each delaying only what it holds, while a pause wins back capacity only by giving up the speed, and wins back none when speed also multiplies the volume of actions'
+title: 'Earlier irreversibility erodes oversight gradually'
+statement: >-
+  In a queueing model whose overseer keeps the same authority, information
+  and reviewers at every speed, making the acting institution's actions
+  irreversible sooner lowers the share of objectionable actions stopped in
+  time gradually and from before the timing condition fails at the means; at
+  the settings run, precommitted limits win back the share they foresee and
+  automatic suspension the share detected in time, each delaying only what
+  it holds, while a pause wins back capacity only by giving up the speed,
+  and wins back none when speed also multiplies the volume of actions
 version: 2
 history:
 - version: 1
@@ -72,7 +81,7 @@ works:
 <!-- inactive-ok-file: CASE-316 — new; the study this claim rests its evidence on, filed with it -->
 <!-- inactive-ok-file: CASE-285 CLAIM-706 CLAIM-710 CLAIM-711 CLAIM-730 TERM-125 — Proposed; the design carried out and the entries the result bears on -->
 
-# CLAIM-879: In a queueing model whose overseer keeps the same authority, information and reviewers at every speed, making the acting institution's actions irreversible sooner lowers the share of objectionable actions stopped in time gradually and from before the timing condition fails at the means; at the settings run, precommitted limits win back the share they foresee and automatic suspension the share detected in time, each delaying only what it holds, while a pause wins back capacity only by giving up the speed, and wins back none when speed also multiplies the volume of actions
+# CLAIM-879: Earlier irreversibility erodes oversight gradually
 
 ## The claim
 

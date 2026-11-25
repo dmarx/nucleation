@@ -3,7 +3,14 @@ number: 799
 status: Proposed
 formerly:
 - CLAIM-tmp5y856
-title: 'Geometric separation, decodability and spectral detectability are distinct qualities of a learned representation that need not agree: a semantic direction can be decodable while related points are almost orthogonal, and a covariance spike yields a PCA outlier only above the BBP threshold √(D/N), which marks when that estimator can see the signal, not when the network acquired it'
+title: 'Separation, decodability, detectability differ'
+statement: >-
+  Geometric separation, decodability and spectral detectability are distinct
+  qualities of a learned representation that need not agree: a semantic
+  direction can be decodable while related points are almost orthogonal, and
+  a covariance spike yields a PCA outlier only above the BBP threshold
+  √(D/N), which marks when that estimator can see the signal, not when the
+  network acquired it
 version: 3
 history:
 - version: 2
@@ -69,7 +76,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-301 CLAIM-827 CLAIM-804 THEORY-078 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
 <!-- inactive-ok-file: ARG-188 THEORY-2186 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-799: Geometric separation, decodability and spectral detectability are distinct qualities of a learned representation that need not agree: a semantic direction can be decodable while related points are almost orthogonal, and a covariance spike yields a PCA outlier only above the BBP threshold √(D/N), which marks when that estimator can see the signal, not when the network acquired it
+# CLAIM-799: Separation, decodability, detectability differ
 
 ## The claim
 

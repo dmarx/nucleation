@@ -3,14 +3,16 @@ number: 1135
 status: Proposed
 formerly:
 - CLAIM-tmpm985y
-title: 'Identity stabilization and adaptability are different achievements
-  of one temporally organized system, not two competing quantities: an organization
+title: 'Identity and adaptability are two achievements'
+statement: >-
+  Identity stabilization and adaptability are different achievements of one
+  temporally organized system, not two competing quantities: an organization
   keeps identity by selectively conserving some relations while allowing or
-  producing change in others, it can restore its organization fast while transforming
-  slowly within it, what it conserves may be a configuration or the generative
-  continuity by which it revises its configurations, and some of its most
-  important identity-bearing structures may be those that keep its other identity-bearing
-  structures revisable'
+  producing change in others, it can restore its organization fast while
+  transforming slowly within it, what it conserves may be a configuration or
+  the generative continuity by which it revises its configurations, and some
+  of its most important identity-bearing structures may be those that keep
+  its other identity-bearing structures revisable
 version: 2
 history:
 - version: 2
@@ -57,7 +59,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-327 CLAIM-478 CLAIM-758 CLAIM-916 CLAIM-1104 TERM-167 — Proposed; cited in this filing of 2026-11-23 (third share) -->
 
-# CLAIM-1135: Identity stabilization and adaptability are different achievements of one temporally organized system, not two competing quantities: an organization keeps identity by selectively conserving some relations while allowing or producing change in others, it can restore its organization fast while transforming slowly within it, what it conserves may be a configuration or the generative continuity by which it revises its configurations, and some of its most important identity-bearing structures may be those that keep its other identity-bearing structures revisable
+# CLAIM-1135: Identity and adaptability are two achievements
 
 ## The claim
 

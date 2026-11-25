@@ -3,11 +3,13 @@ number: 1172
 status: Proposed
 formerly:
 - CLAIM-tmpt93dp
-title: Ecosystems are governed by slow collective variables, such as tides, day
-  and night, lunar cycles, seasons, predator–prey oscillations, boundary effects
-  at interfaces with other ecologies and cadences set by human activity, so having
-  a whole-level slow variable cannot be what separates a pseudo-self from an ecosystem
-  of pseudo-selves
+title: 'Ecosystems have slow variables too'
+statement: >-
+  Ecosystems are governed by slow collective variables, such as tides, day
+  and night, lunar cycles, seasons, predator–prey oscillations, boundary
+  effects at interfaces with other ecologies and cadences set by human
+  activity, so having a whole-level slow variable cannot be what separates a
+  pseudo-self from an ecosystem of pseudo-selves
 version: 3
 history:
 - version: 2
@@ -49,7 +51,7 @@ summary: 'The owner''s objection of 2026-11-23, under the dialectic regime, to t
 
 <!-- inactive-ok-file: CLAIM-1074 CLAIM-1168 — Proposed or Open; the claim objected to, its reading and the question -->
 
-# CLAIM-1172: Ecosystems are governed by slow collective variables, such as tides, day and night, lunar cycles, seasons, predator–prey oscillations, boundary effects at interfaces with other ecologies and cadences set by human activity, so having a whole-level slow variable cannot be what separates a pseudo-self from an ecosystem of pseudo-selves
+# CLAIM-1172: Ecosystems have slow variables too
 
 ## The objection
 

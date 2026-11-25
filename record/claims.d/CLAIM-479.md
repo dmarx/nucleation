@@ -3,7 +3,14 @@ number: 479
 status: Active
 formerly:
 - CLAIM-tmpoe0v5
-title: 'In the record a typed relation is more constrained than either of its relata: a claim''s content is open prose, while `rests_on` fixes the scheme at both ends, has `supports` written as its converse and says what retiring its target leaves, and none of that moves when either claim''s content does; so a relation''s rigidity is a fact about the grammar, not evidence that the dependency it records is sound'
+title: 'Typed relations are more constrained than relata'
+statement: >-
+  In the record a typed relation is more constrained than either of its
+  relata: a claim's content is open prose, while `rests_on` fixes the scheme
+  at both ends, has `supports` written as its converse and says what
+  retiring its target leaves, and none of that moves when either claim's
+  content does; so a relation's rigidity is a fact about the grammar, not
+  evidence that the dependency it records is sound
 version: 2
 history:
 - version: 2
@@ -43,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-184 CLAIM-478 — Proposed; the explanations of the asymmetry, cited as open -->
 
-# CLAIM-479: In the record a typed relation is more constrained than either of its relata: a claim's content is open prose, while `rests_on` fixes the scheme at both ends, has `supports` written as its converse and says what retiring its target leaves, and none of that moves when either claim's content does; so a relation's rigidity is a fact about the grammar, not evidence that the dependency it records is sound
+# CLAIM-479: Typed relations are more constrained than relata
 
 ## The claim
 

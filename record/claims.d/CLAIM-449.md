@@ -3,7 +3,16 @@ number: 449
 status: Active
 formerly:
 - CLAIM-tmpf2p3p
-title: 'The potential account of valence''s first consequence, no frustration, no valence, runs together two relations: perspectives'' contested rankings, which a record of winning moves registers, and demands that are jointly infeasible, which the compatibility complex registers; rankings can contest while every demand is satisfiable, and demands can be infeasible before any contest is recorded, so the consequence needs one of them named, and the absorbed writer, reported as positive with nothing contested, tests whichever is chosen'
+title: 'No frustration, no valence conflates two'
+statement: >-
+  The potential account of valence's first consequence, no frustration, no
+  valence, runs together two relations: perspectives' contested rankings,
+  which a record of winning moves registers, and demands that are jointly
+  infeasible, which the compatibility complex registers; rankings can
+  contest while every demand is satisfiable, and demands can be infeasible
+  before any contest is recorded, so the consequence needs one of them
+  named, and the absorbed writer, reported as positive with nothing
+  contested, tests whichever is chosen
 version: 2
 history:
 - version: 2
@@ -48,7 +57,7 @@ summary: >-
   request to record the exchange.
 ---
 
-# CLAIM-449: The potential account of valence's first consequence, no frustration, no valence, runs together two relations: perspectives' contested rankings, which a record of winning moves registers, and demands that are jointly infeasible, which the compatibility complex registers; rankings can contest while every demand is satisfiable, and demands can be infeasible before any contest is recorded, so the consequence needs one of them named, and the absorbed writer, reported as positive with nothing contested, tests whichever is chosen
+# CLAIM-449: No frustration, no valence conflates two
 
 ## The objection
 

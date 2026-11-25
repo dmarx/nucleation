@@ -1,6 +1,10 @@
 ---
 status: Proposed
-title: 'Memes are characters of perspectives in the representation-theoretic sense: what a meme carries between carriers is a realization-independent invariant by which a perspective is recognized, not a particular content'
+title: 'Memes are characters of perspectives'
+statement: >-
+  Memes are characters of perspectives in the representation-theoretic
+  sense: what a meme carries between carriers is a realization-independent
+  invariant by which a perspective is recognized, not a particular content
 version: 2
 history:
 - version: 2
@@ -46,7 +50,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-137 CLAIM-417 CLAIM-tmp4mk0t CLAIM-tmpjitli — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
-# CLAIM-tmphi3mx: Memes are characters of perspectives in the representation-theoretic sense: what a meme carries between carriers is a realization-independent invariant by which a perspective is recognized, not a particular content
+# CLAIM-tmphi3mx: Memes are characters of perspectives
 
 ## The claim
 

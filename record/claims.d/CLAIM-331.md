@@ -3,7 +3,12 @@ number: 331
 status: Active
 formerly:
 - CLAIM-tmpufacs
-title: 'A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition'
+title: 'Levels have a temporal facet'
+statement: >-
+  A level of organization has a temporal facet as well as a compositional
+  one: higher-level variables are characteristically slower and longer-lived
+  than the activity that produces them, though slowness is a mark of a level
+  and not its definition
 version: 11
 history:
 - version: 2
@@ -108,7 +113,7 @@ works:
 <!-- inactive-ok-file: LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-571 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-923 — Unavailable; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
-# CLAIM-331: A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition
+# CLAIM-331: Levels have a temporal facet
 
 ## The claim
 

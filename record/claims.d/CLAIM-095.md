@@ -3,7 +3,10 @@ number: 95
 status: Proposed
 formerly:
 - CLAIM-tmps5hv6
-title: 'Anticipated objections are better met by precise definitions, constructions and results than by hedges'
+title: 'Meet objections with results, not hedges'
+statement: >-
+  Anticipated objections are better met by precise definitions,
+  constructions and results than by hedges
 version: 1
 role: thesis
 warrant: interpretive
@@ -23,7 +26,7 @@ summary: >-
   removed hedges, and with them some substantive points.
 ---
 
-# CLAIM-095: Anticipated objections are better met by precise definitions, constructions and results than by hedges
+# CLAIM-095: Meet objections with results, not hedges
 
 ## The claim
 

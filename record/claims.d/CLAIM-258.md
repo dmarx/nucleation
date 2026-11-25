@@ -3,7 +3,14 @@ number: 258
 status: Proposed
 formerly:
 - CLAIM-tmpyeik3
-title: 'Blackwell''s order compares experiments about one parameter, so it does not reach the normal translation case: source and target readers decide about situations with changed coordinates, and where the state is common a translator with context knowledge yields a rendering that is not a garbling of the source, which the order typically leaves incomparable with it and about which the direction the manuscript uses is silent'
+title: 'Blackwell misses the normal translation case'
+statement: >-
+  Blackwell's order compares experiments about one parameter, so it does not
+  reach the normal translation case: source and target readers decide about
+  situations with changed coordinates, and where the state is common a
+  translator with context knowledge yields a rendering that is not a
+  garbling of the source, which the order typically leaves incomparable with
+  it and about which the direction the manuscript uses is silent
 version: 2
 history:
 - version: 2
@@ -47,7 +54,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-778 — Unavailable; Torgersen, unread here, named as where the quantitative question lies and not leaned on -->
 <!-- inactive-ok-file: CLAIM-212 — Proposed; the record's reply to this objection and the directed decision term, cited as open -->
 
-# CLAIM-258: Blackwell's order compares experiments about one parameter, so it does not reach the normal translation case: source and target readers decide about situations with changed coordinates, and where the state is common a translator with context knowledge yields a rendering that is not a garbling of the source, which the order typically leaves incomparable with it and about which the direction the manuscript uses is silent
+# CLAIM-258: Blackwell misses the normal translation case
 
 ## The objection
 

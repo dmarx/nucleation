@@ -3,7 +3,12 @@ number: 1052
 status: Proposed
 formerly:
 - CLAIM-tmp9av3u
-title: 'Reading B of the Juggernaut testimony: the line reached the film through one identifiable contributor, the director, who saw a video its makers posted, so on the evidence the case is explained by the list of identifiable contributions and does not show a population''s effect'
+title: 'Reading B: one contributor, the director'
+statement: >-
+  Reading B of the Juggernaut testimony: the line reached the film through
+  one identifiable contributor, the director, who saw a video its makers
+  posted, so on the evidence the case is explained by the list of
+  identifiable contributions and does not show a population's effect
 version: 1
 history:
 - version: 1
@@ -42,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1022 CLAIM-1006 CLAIM-1026 — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-332 — Proposed; the thesis this reading objects to -->
 
-# CLAIM-1052: Reading B of the Juggernaut testimony: the line reached the film through one identifiable contributor, the director, who saw a video its makers posted, so on the evidence the case is explained by the list of identifiable contributions and does not show a population's effect
+# CLAIM-1052: Reading B: one contributor, the director
 
 ## The reading
 

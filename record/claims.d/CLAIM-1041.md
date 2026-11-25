@@ -3,7 +3,13 @@ number: 1041
 status: Proposed
 formerly:
 - CLAIM-tmp79lxm
-title: 'In contested open-source successions an original line that loses recognized legitimacy keeps its productive capability as long as its steward pays its producers: of eight originals only one stopped producing, about six years after its community voted to leave, and the others still release'
+title: 'Paid producers outlast lost legitimacy'
+statement: >-
+  In contested open-source successions an original line that loses
+  recognized legitimacy keeps its productive capability as long as its
+  steward pays its producers: of eight originals only one stopped producing,
+  about six years after its community voted to leave, and the others still
+  release
 version: 1
 role: thesis
 warrant: empirical
@@ -43,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-411 — new, Proposed; the study this rests on -->
 <!-- inactive-ok-file: CASE-223 — Proposed; the design whose key measure this reports -->
 
-# CLAIM-1041: In contested open-source successions an original line that loses recognized legitimacy keeps its productive capability as long as its steward pays its producers: of eight originals only one stopped producing, about six years after its community voted to leave, and the others still release
+# CLAIM-1041: Paid producers outlast lost legitimacy
 
 ## The claim
 

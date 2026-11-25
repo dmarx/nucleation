@@ -3,7 +3,11 @@ number: 234
 status: Superseded
 formerly:
 - CLAIM-tmpi6n8k
-title: 'The record''s iterated-learning readings bear on lexical, structural and functional transmission, and none measures stance, footing or speech-act function along a chain'
+title: 'No iterated-learning reading measures stance'
+statement: >-
+  The record's iterated-learning readings bear on lexical, structural and
+  functional transmission, and none measures stance, footing or speech-act
+  function along a chain
 version: 3
 history:
 - version: 2
@@ -56,7 +60,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-027 — Rejected; the argument this claim moved to -->
 <!-- inactive-ok-file: CLAIM-066 until 2027-01-28 — Superseded; moved to an argument the same day, cited for what it said of the readings -->
 
-# CLAIM-234: The record's iterated-learning readings bear on lexical, structural and functional transmission, and none measures stance, footing or speech-act function along a chain
+# CLAIM-234: No iterated-learning reading measures stance
 
 ## The objection
 

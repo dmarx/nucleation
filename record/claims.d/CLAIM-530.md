@@ -3,7 +3,16 @@ number: 530
 status: Active
 formerly:
 - CLAIM-tmpg57ci
-title: 'Where maintenance is realized is a question of constitutive relevance only through its parthood condition: an internal producer and an outside controller supplying the same production law as state feedback meet mutual manipulability''s two manipulability conditions identically, since disabling or stimulating either changes the maintained capacities and intervening on the capacities changes the activity of either, so what puts one inside and the other outside is parthood, a boundary the experiments presuppose and do not find'
+title: 'Where maintenance is realized turns on parthood'
+statement: >-
+  Where maintenance is realized is a question of constitutive relevance only
+  through its parthood condition: an internal producer and an outside
+  controller supplying the same production law as state feedback meet mutual
+  manipulability's two manipulability conditions identically, since
+  disabling or stimulating either changes the maintained capacities and
+  intervening on the capacities changes the activity of either, so what puts
+  one inside and the other outside is parthood, a boundary the experiments
+  presuppose and do not find
 version: 3
 history:
 - version: 1
@@ -89,7 +98,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-356 — new; the comparison case and the reading of LIT-2462, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: LIT-832 LIT-1930 LIT-1931 LIT-1929 — Unavailable, Unfetched, Open or Proposed; the unread texts that state the criterion, the questions this bears on, and a proposed account of production, cited as open -->
 
-# CLAIM-530: Where maintenance is realized is a question of constitutive relevance only through its parthood condition: an internal producer and an outside controller supplying the same production law as state feedback meet mutual manipulability's two manipulability conditions identically, since disabling or stimulating either changes the maintained capacities and intervening on the capacities changes the activity of either, so what puts one inside and the other outside is parthood, a boundary the experiments presuppose and do not find
+# CLAIM-530: Where maintenance is realized turns on parthood
 
 ## The claim
 

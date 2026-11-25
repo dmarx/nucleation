@@ -3,7 +3,15 @@ number: 965
 status: Proposed
 formerly:
 - CLAIM-tmp764wb
-title: 'In Freeman and Pfenning''s refinement types, checking a term against a type given in advance moves nothing: an annotation is accepted only when the refinement inferred for the term already lies below it, and a term that fails it is not given that type and is left for the programmer to change; so whether an annotation describes the term or requires something of it is settled by whether the term already passes, not by whether its type was inferred or checked'
+title: 'Freeman–Pfenning annotations move nothing'
+statement: >-
+  In Freeman and Pfenning's refinement types, checking a term against a type
+  given in advance moves nothing: an annotation is accepted only when the
+  refinement inferred for the term already lies below it, and a term that
+  fails it is not given that type and is left for the programmer to change;
+  so whether an annotation describes the term or requires something of it is
+  settled by whether the term already passes, not by whether its type was
+  inferred or checked
 version: 1
 role: counter
 warrant: interpretive
@@ -42,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2259 CLAIM-949 TERM-151 TERM-134 CLAIM-943 — Proposed; the reading this rests on, the claim it objects to, and the terms and claim it is stated against -->
 
-# CLAIM-965: In Freeman and Pfenning's refinement types, checking a term against a type given in advance moves nothing: an annotation is accepted only when the refinement inferred for the term already lies below it, and a term that fails it is not given that type and is left for the programmer to change; so whether an annotation describes the term or requires something of it is settled by whether the term already passes, not by whether its type was inferred or checked
+# CLAIM-965: Freeman–Pfenning annotations move nothing
 
 ## The claim
 

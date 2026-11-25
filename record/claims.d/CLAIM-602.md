@@ -3,7 +3,14 @@ number: 602
 status: Active
 formerly:
 - CLAIM-tmpoh07b
-title: "Where an organization's capacity is learned by doing the work it serves, and decays with disuse, outside supply that does the work first lowers the capacity kept, and the longer it does all of it the longer recovery takes once it stops, while supply that covers only what the organization cannot yet do leaves its learning untouched, so what decides dependence is the order in which supply and capacity are used, not the amount of supply"
+title: 'Supplied work erodes learned capacity'
+statement: >-
+  Where an organization's capacity is learned by doing the work it serves,
+  and decays with disuse, outside supply that does the work first lowers the
+  capacity kept, and the longer it does all of it the longer recovery takes
+  once it stops, while supply that covers only what the organization cannot
+  yet do leaves its learning untouched, so what decides dependence is the
+  order in which supply and capacity are used, not the amount of supply
 version: 5
 history:
 - version: 2
@@ -108,7 +115,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-602: Where an organization's capacity is learned by doing the work it serves, and decays with disuse, outside supply that does the work first lowers the capacity kept, and the longer it does all of it the longer recovery takes once it stops, while supply that covers only what the organization cannot yet do leaves its learning untouched, so what decides dependence is the order in which supply and capacity are used, not the amount of supply
+# CLAIM-602: Supplied work erodes learned capacity
 
 ## The model
 

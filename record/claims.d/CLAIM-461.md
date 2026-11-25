@@ -3,7 +3,12 @@ number: 461
 status: Proposed
 formerly:
 - CLAIM-tmpb4dok
-title: 'Compensation is not only a re-performance notion: for a reader whose code gives the literal word a meaning the source lacked, the compensating rendering can be the more faithful report, so assigning compensation to re-performance alone needs narrowing'
+title: 'Compensation can be the more faithful report'
+statement: >-
+  Compensation is not only a re-performance notion: for a reader whose code
+  gives the literal word a meaning the source lacked, the compensating
+  rendering can be the more faithful report, so assigning compensation to
+  re-performance alone needs narrowing
 version: 1
 role: counter
 warrant: interpretive
@@ -30,7 +35,7 @@ summary: >-
   critic and the reader evidence is the translators' own.
 ---
 
-# CLAIM-461: Compensation is not only a re-performance notion: for a reader whose code gives the literal word a meaning the source lacked, the compensating rendering can be the more faithful report, so assigning compensation to re-performance alone needs narrowing
+# CLAIM-461: Compensation can be the more faithful report
 
 ## The claim
 

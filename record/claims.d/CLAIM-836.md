@@ -3,7 +3,14 @@ number: 836
 status: Proposed
 formerly:
 - CLAIM-tmpq8q9t
-title: 'At the critical point of a lattice model the Fisher information about a relevant coupling of renormalization-group eigenvalue y grows with linear size L as L^(2y) when 2y exceeds the dimension d and only as L^d ln L when 2y = d; in the two-dimensional Ising model the field''s grows per spin as L^(7/4) and the coupling''s only as ln L, so critical sensitivity lies along the field and is not shared by every control parameter'
+title: 'Critical Fisher sensitivity lies along the field'
+statement: >-
+  At the critical point of a lattice model the Fisher information about a
+  relevant coupling of renormalization-group eigenvalue y grows with linear
+  size L as L^(2y) when 2y exceeds the dimension d and only as L^d ln L when
+  2y = d; in the two-dimensional Ising model the field's grows per spin as
+  L^(7/4) and the coupling's only as ln L, so critical sensitivity lies
+  along the field and is not shared by every control parameter
 version: 1
 role: thesis
 warrant: demonstrated
@@ -45,7 +52,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, the decimated spectrum this complements -->
 
-# CLAIM-836: At the critical point of a lattice model the Fisher information about a relevant coupling of renormalization-group eigenvalue y grows with linear size L as L^(2y) when 2y exceeds the dimension d and only as L^d ln L when 2y = d; in the two-dimensional Ising model the field's grows per spin as L^(7/4) and the coupling's only as ln L, so critical sensitivity lies along the field and is not shared by every control parameter
+# CLAIM-836: Critical Fisher sensitivity lies along the field
 
 ## The gaps it fills
 

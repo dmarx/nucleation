@@ -3,7 +3,12 @@ number: 242
 status: Proposed
 formerly:
 - CLAIM-tmpon3g9
-title: 'The use-level counterpart of Saussure''s value is an utterance''s contrast with the alternatives its speaker could have used in context; values do not cross between languages, which is why fidelity is graded transport through an anchored correspondence rather than identity of value'
+title: 'Values do not cross between languages'
+statement: >-
+  The use-level counterpart of Saussure's value is an utterance's contrast
+  with the alternatives its speaker could have used in context; values do
+  not cross between languages, which is why fidelity is graded transport
+  through an anchored correspondence rather than identity of value
 version: 3
 history:
 - version: 2
@@ -68,7 +73,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-115 — Superseded; the thesis that rested on the premise, cited for the objection's terms -->
 <!-- inactive-ok-file: THEORY-159 — Proposed; the readings of rational speech acts and of Saussure, cited for what they say, not as settled -->
 
-# CLAIM-242: The use-level counterpart of Saussure's value is an utterance's contrast with the alternatives its speaker could have used in context; values do not cross between languages, which is why fidelity is graded transport through an anchored correspondence rather than identity of value
+# CLAIM-242: Values do not cross between languages
 
 ## The claim
 

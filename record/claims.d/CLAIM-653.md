@@ -3,7 +3,13 @@ number: 653
 status: Proposed
 formerly:
 - CLAIM-tmpcv1pg
-title: 'Where a content industry reads demand from activity or revenue, the minority of heaviest users comes to set the distribution of content everyone is offered; and if heavy users habituate and seek more extreme material, the mainstream drifts toward it, which may explain why mainstream pornography channels now carry material once niche or extreme'
+title: 'Heaviest users set the content mainstream'
+statement: >-
+  Where a content industry reads demand from activity or revenue, the
+  minority of heaviest users comes to set the distribution of content
+  everyone is offered; and if heavy users habituate and seek more extreme
+  material, the mainstream drifts toward it, which may explain why
+  mainstream pornography channels now carry material once niche or extreme
 version: 3
 history:
 - version: 2
@@ -68,7 +74,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2372 LIT-2469 — Deferred; registered from the same exchange, unread -->
 <!-- inactive-ok-file: LIT-2389 until 2027-02-12 — Unavailable; a premise this entry depends on (`grounds`): no lawful copy was found when it was read on 2026-11-12; ask again whether a copy has appeared -->
 
-# CLAIM-653: Where a content industry reads demand from activity or revenue, the minority of heaviest users comes to set the distribution of content everyone is offered; and if heavy users habituate and seek more extreme material, the mainstream drifts toward it, which may explain why mainstream pornography channels now carry material once niche or extreme
+# CLAIM-653: Heaviest users set the content mainstream
 
 ## The claim
 

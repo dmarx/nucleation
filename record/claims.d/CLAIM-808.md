@@ -3,7 +3,10 @@ number: 808
 status: Proposed
 formerly:
 - CLAIM-tmpa8hb2
-title: 'Watanabe''s stratification of a model''s parameter space connects to the hyperribbon account of sloppy models'
+title: 'Watanabe strata connect to hyperribbons'
+statement: >-
+  Watanabe's stratification of a model's parameter space connects to the
+  hyperribbon account of sloppy models
 version: 1
 role: thesis
 warrant: interpretive
@@ -44,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-813 CLAIM-812 CASE-302 ARG-138 LIT-354 — Proposed or new, or Deferred works not yet read, or Unavailable; filed with this claim -->
 <!-- inactive-ok-file: ARG-131 CLAIM-833 THEORY-2155 THEORY-2156 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-# CLAIM-808: Watanabe's stratification of a model's parameter space connects to the hyperribbon account of sloppy models
+# CLAIM-808: Watanabe strata connect to hyperribbons
 
 ## The claim
 

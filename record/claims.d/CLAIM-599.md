@@ -3,7 +3,13 @@ number: 599
 status: Active
 formerly:
 - CLAIM-tmpuv9yj
-title: 'Because establishing more relations can lower the chance of forming a target, the sets of relations that are productive nuclei need not be closed upward: two productive nuclei can combine into a trap, so the minimal productive sets describe the productive ones only where adding relations never hurts'
+title: 'Productive nuclei need not be upward closed'
+statement: >-
+  Because establishing more relations can lower the chance of forming a
+  target, the sets of relations that are productive nuclei need not be
+  closed upward: two productive nuclei can combine into a trap, so the
+  minimal productive sets describe the productive ones only where adding
+  relations never hurts
 version: 2
 history:
 - version: 2
@@ -58,7 +64,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-389 CLAIM-1085 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-599: Because establishing more relations can lower the chance of forming a target, the sets of relations that are productive nuclei need not be closed upward: two productive nuclei can combine into a trap, so the minimal productive sets describe the productive ones only where adding relations never hurts
+# CLAIM-599: Productive nuclei need not be upward closed
 
 ## The claim
 

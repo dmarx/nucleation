@@ -3,7 +3,11 @@ number: 243
 status: Active
 formerly:
 - CLAIM-tmpp41ad
-title: 'Read as description, the manuscript''s thesis is close to true by definition; read as a criterion, it is a schema until the decision family Q is fixed, and its descriptive defeat condition can test neither reading'
+title: 'Thesis is near-definitional or a mere schema'
+statement: >-
+  Read as description, the manuscript's thesis is close to true by
+  definition; read as a criterion, it is a schema until the decision family
+  Q is fixed, and its descriptive defeat condition can test neither reading
 version: 2
 history:
 - version: 2
@@ -41,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-220 — Proposed; the record's revised thesis of 2026-10-10, open, cited in the history as the repair -->
 <!-- inactive-ok-file: CLAIM-160 CLAIM-171 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# CLAIM-243: Read as description, the manuscript's thesis is close to true by definition; read as a criterion, it is a schema until the decision family Q is fixed, and its descriptive defeat condition can test neither reading
+# CLAIM-243: Thesis is near-definitional or a mere schema
 
 ## The objection
 

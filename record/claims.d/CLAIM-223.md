@@ -3,7 +3,12 @@ number: 223
 status: Active
 formerly:
 - CLAIM-tmpcbm69
-title: 'Whether a distinction survived is fixed by what the receivers can recover, and whether it can be shown to have survived is fixed by what the analyst''s probes can identify, so the manuscript''s thesis and the October fidelity clause, read so, answer different parts of one question'
+title: 'Survival is recovery; showing it is probing'
+statement: >-
+  Whether a distinction survived is fixed by what the receivers can recover,
+  and whether it can be shown to have survived is fixed by what the
+  analyst's probes can identify, so the manuscript's thesis and the October
+  fidelity clause, read so, answer different parts of one question
 version: 2
 history:
 - version: 2
@@ -48,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded; the two theses this reading relates, read as worded, which is what it reads -->
 
-# CLAIM-223: Whether a distinction survived is fixed by what the receivers can recover, and whether it can be shown to have survived is fixed by what the analyst's probes can identify, so the manuscript's thesis and the October fidelity clause, read so, answer different parts of one question
+# CLAIM-223: Survival is recovery; showing it is probing
 
 ## The claim
 

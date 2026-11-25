@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: 'Pathologies of organized agency need not be failures of achievement: reliable provision, cooperation that works and optimization that meets its objective can each produce them, through eroded fallbacks, captured regulatory work and standing excluded from what is optimized, so in these mechanisms the pathology can deepen while ordinary performance holds or improves, and restoring performance does not reach it'
+title: 'Pathologies can come from success'
+statement: >-
+  Pathologies of organized agency need not be failures of achievement:
+  reliable provision, cooperation that works and optimization that meets its
+  objective can each produce them, through eroded fallbacks, captured
+  regulatory work and standing excluded from what is optimized, so in these
+  mechanisms the pathology can deepen while ordinary performance holds or
+  improves, and restoring performance does not reach it
 version: 1
 role: thesis
 warrant: interpretive
@@ -51,7 +58,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmp3so1p CASE-tmp3xxqg CLAIM-1054 CLAIM-670 CLAIM-700 CLAIM-tmp8bimm CLAIM-tmpa61rf CLAIM-tmpb1wyc CLAIM-tmpjnly0 — Proposed, Rejected or new; entries this one reads or rests on, cited whatever their standing -->
 
-# CLAIM-tmpv5sry: Pathologies of organized agency need not be failures of achievement: reliable provision, cooperation that works and optimization that meets its objective can each produce them, through eroded fallbacks, captured regulatory work and standing excluded from what is optimized, so in these mechanisms the pathology can deepen while ordinary performance holds or improves, and restoring performance does not reach it
+# CLAIM-tmpv5sry: Pathologies can come from success
 
 ## The claim
 

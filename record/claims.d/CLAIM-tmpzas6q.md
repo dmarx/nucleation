@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: 'Institutions can come to rely on another institution''s historically reliable restraint beyond what law guarantees and stop maintaining alternatives to it, so that a lawful departure from a convention defeats capacities organized around the expectation, and the risk lies less in the departure than in the alternatives the encompassing organization no longer keeps'
+title: 'Reliance on restraint makes departures costly'
+statement: >-
+  Institutions can come to rely on another institution's historically
+  reliable restraint beyond what law guarantees and stop maintaining
+  alternatives to it, so that a lawful departure from a convention defeats
+  capacities organized around the expectation, and the risk lies less in the
+  departure than in the alternatives the encompassing organization no longer
+  keeps
 version: 1
 role: thesis
 warrant: interpretive
@@ -45,7 +52,7 @@ summary: >-
 
 <!-- inactive-ok-file: ARG-tmpmtbby CASE-tmpfh2in CLAIM-tmpb1wyc LIT-tmpj8e0r — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
-# CLAIM-tmpzas6q: Institutions can come to rely on another institution's historically reliable restraint beyond what law guarantees and stop maintaining alternatives to it, so that a lawful departure from a convention defeats capacities organized around the expectation, and the risk lies less in the departure than in the alternatives the encompassing organization no longer keeps
+# CLAIM-tmpzas6q: Reliance on restraint makes departures costly
 
 ## The claim
 

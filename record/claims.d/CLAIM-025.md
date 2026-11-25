@@ -3,7 +3,10 @@ number: 25
 status: Active
 formerly:
 - CLAIM-tmp7wkss
-title: 'An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately'
+title: 'Regime, governance and capacity fail separately'
+statement: >-
+  An operative regime, the governing organization among regimes, and the
+  capacity to transform that organization can persist or fail separately
 version: 8
 history:
 - version: 2
@@ -96,7 +99,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-1311 LIT-1329 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
-# CLAIM-025: An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately
+# CLAIM-025: Regime, governance and capacity fail separately
 
 ## The claim
 

@@ -3,7 +3,12 @@ number: 937
 status: Proposed
 formerly:
 - CLAIM-tmp1o9d0
-title: 'Contextuality-by-Default signalling has no unbiased estimator at any finite count, but it has a confidence interval and a no-signalling test that are valid at every count, and a content seen at most twice in each context can never be found signalling by a valid 5% test'
+title: 'Signalling: valid tests, no unbiased estimator'
+statement: >-
+  Contextuality-by-Default signalling has no unbiased estimator at any
+  finite count, but it has a confidence interval and a no-signalling test
+  that are valid at every count, and a content seen at most twice in each
+  context can never be found signalling by a valid 5% test
 version: 1
 role: thesis
 warrant: demonstrated
@@ -50,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-896 — Proposed; LEAD-182's finding on the plug-in's bias in a power study, which this claim complements -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; the claim whose defeat condition needs a stated sampling error -->
 
-# CLAIM-937: Contextuality-by-Default signalling has no unbiased estimator at any finite count, but it has a confidence interval and a no-signalling test that are valid at every count, and a content seen at most twice in each context can never be found signalling by a valid 5% test
+# CLAIM-937: Signalling: valid tests, no unbiased estimator
 
 ## The claim
 

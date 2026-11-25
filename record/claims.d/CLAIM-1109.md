@@ -3,7 +3,13 @@ number: 1109
 status: Proposed
 formerly:
 - CLAIM-tmphm1g8
-title: 'Where a learning system samples and checks, knowledge can belong to the declared composite of generator and verifier under a sampling budget and to neither part: the generator''s rare success is reach, the verifier''s check is no capacity to answer, and the composite''s delivered success is reliable and grounded by the check'
+title: 'Knowledge can belong to generator-verifier pair'
+statement: >-
+  Where a learning system samples and checks, knowledge can belong to the
+  declared composite of generator and verifier under a sampling budget and
+  to neither part: the generator's rare success is reach, the verifier's
+  check is no capacity to answer, and the composite's delivered success is
+  reliable and grounded by the check
 version: 1
 role: thesis
 warrant: interpretive
@@ -44,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-697 TERM-079 — Proposed; the premise this claim applies and a criterion it cites -->
 <!-- inactive-ok-file: CASE-414 CASE-400 CLAIM-1100 CLAIM-1028 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1109: Where a learning system samples and checks, knowledge can belong to the declared composite of generator and verifier under a sampling budget and to neither part: the generator's rare success is reach, the verifier's check is no capacity to answer, and the composite's delivered success is reliable and grounded by the check
+# CLAIM-1109: Knowledge can belong to generator-verifier pair
 
 ## The claim
 

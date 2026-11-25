@@ -3,7 +3,10 @@ number: 89
 status: Rejected
 formerly:
 - CLAIM-tmppqo06
-title: 'Northstar simply prefers speed: the governing relations are revealed preferences of the organization, not a separate organization of efficacy'
+title: 'Northstar simply prefers speed'
+statement: >-
+  Northstar simply prefers speed: the governing relations are revealed
+  preferences of the organization, not a separate organization of efficacy
 version: 3
 history:
 - version: 2
@@ -43,7 +46,7 @@ summary: >-
   authority.
 ---
 
-# CLAIM-089: Northstar simply prefers speed: the governing relations are revealed preferences of the organization, not a separate organization of efficacy
+# CLAIM-089: Northstar simply prefers speed
 
 ## The claim
 

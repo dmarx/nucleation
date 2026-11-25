@@ -3,7 +3,10 @@ number: 43
 status: Active
 formerly:
 - CLAIM-tmpc6q27
-title: 'Equal entropy does not entail equal relational structure, and a collection of local entropies need not characterize global compatibility'
+title: 'Equal entropy, unequal relational structure'
+statement: >-
+  Equal entropy does not entail equal relational structure, and a collection
+  of local entropies need not characterize global compatibility
 version: 1
 role: granted
 warrant: demonstrated
@@ -25,7 +28,7 @@ summary: >-
   entropy and reverse a fundamental relationship.
 ---
 
-# CLAIM-043: Equal entropy does not entail equal relational structure, and a collection of local entropies need not characterize global compatibility
+# CLAIM-043: Equal entropy, unequal relational structure
 
 ## The claim
 

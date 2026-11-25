@@ -3,7 +3,15 @@ number: 428
 status: Proposed
 formerly:
 - CLAIM-tmpm3ah3
-title: 'Material interdependence couples parties'' outcomes without fixing the perspective that organizes the coupling: the same dependence can be organized as mutual opportunity, as competitive vulnerability or as coercive leverage, so interdependence makes for peace to the extent that cooperation also changes which interests the parties'' institutions recognize and who holds influence over them, and payoff coupling alone does not settle which'
+title: 'Interdependence does not fix its organization'
+statement: >-
+  Material interdependence couples parties' outcomes without fixing the
+  perspective that organizes the coupling: the same dependence can be
+  organized as mutual opportunity, as competitive vulnerability or as
+  coercive leverage, so interdependence makes for peace to the extent that
+  cooperation also changes which interests the parties' institutions
+  recognize and who holds influence over them, and payoff coupling alone
+  does not settle which
 version: 1
 role: thesis
 warrant: interpretive
@@ -40,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
 
-# CLAIM-428: Material interdependence couples parties' outcomes without fixing the perspective that organizes the coupling: the same dependence can be organized as mutual opportunity, as competitive vulnerability or as coercive leverage, so interdependence makes for peace to the extent that cooperation also changes which interests the parties' institutions recognize and who holds influence over them, and payoff coupling alone does not settle which
+# CLAIM-428: Interdependence does not fix its organization
 
 ## The claim
 

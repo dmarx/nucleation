@@ -3,7 +3,13 @@ number: 806
 status: Proposed
 formerly:
 - CLAIM-tmp9a83b
-title: 'Linear preferential attachment is itself balanced at a boundary, between the stretched-exponential tails of weaker attachment and the condensation of stronger, so rich-get-richer processes and criticality are not opposite routes to a power law: both reach one at a marginal point, and differ in what is balanced'
+title: 'Linear attachment is balanced at a boundary'
+statement: >-
+  Linear preferential attachment is itself balanced at a boundary, between
+  the stretched-exponential tails of weaker attachment and the condensation
+  of stronger, so rich-get-richer processes and criticality are not opposite
+  routes to a power law: both reach one at a marginal point, and differ in
+  what is balanced
 version: 2
 history:
 - version: 2
@@ -61,7 +67,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-796 CLAIM-817 CLAIM-830 CASE-303 — Proposed or new; the claim objected to and the claims and case this rests on, filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-2181 THEORY-2184 ARG-184 — Proposed; the readings of 2026-11-22 and the argument that says how they bear -->
 
-# CLAIM-806: Linear preferential attachment is itself balanced at a boundary, between the stretched-exponential tails of weaker attachment and the condensation of stronger, so rich-get-richer processes and criticality are not opposite routes to a power law: both reach one at a marginal point, and differ in what is balanced
+# CLAIM-806: Linear attachment is balanced at a boundary
 
 ## The objection
 

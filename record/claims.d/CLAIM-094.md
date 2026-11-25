@@ -3,7 +3,11 @@ number: 94
 status: Active
 formerly:
 - CLAIM-tmprn8pl
-title: 'A harmonic observable conserves only its mean, and Baez and Fong show that mean conservation for every initial state does not make an observable a symmetry'
+title: 'A harmonic observable conserves only its mean'
+statement: >-
+  A harmonic observable conserves only its mean, and Baez and Fong show that
+  mean conservation for every initial state does not make an observable a
+  symmetry
 version: 2
 history:
 - version: 2
@@ -38,7 +42,7 @@ bears_on:
 - QUESTION-006
 ---
 
-# CLAIM-094: A harmonic observable conserves only its mean, and Baez and Fong show that mean conservation for every initial state does not make an observable a symmetry
+# CLAIM-094: A harmonic observable conserves only its mean
 
 ## The claim
 

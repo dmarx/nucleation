@@ -3,7 +3,12 @@ number: 166
 status: Proposed
 formerly:
 - CLAIM-tmpkdc9t
-title: 'A lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience: the routes exist and the effects are causal in rodents, while the human evidence is modest'
+title: 'Microbiome can drive behaviour; human data modest'
+statement: >-
+  A lower-level collective within the composite person, such as the gut
+  microbiome, can at times drive higher-level behaviour and even experience:
+  the routes exist and the effects are causal in rodents, while the human
+  evidence is modest
 version: 3
 history:
 - version: 2
@@ -67,7 +72,7 @@ bears_on:
 <!-- ref::uses-file: TERM-045 — stated in "self, and which sense"; the body applies the term without naming it -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading through which microbial influence reaches experience, untested -->
 
-# CLAIM-166: A lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience: the routes exist and the effects are causal in rodents, while the human evidence is modest
+# CLAIM-166: Microbiome can drive behaviour; human data modest
 
 ## The claim
 

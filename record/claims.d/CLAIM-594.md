@@ -3,7 +3,15 @@ number: 594
 status: Active
 formerly:
 - CLAIM-tmp7y162
-title: 'When the resource that pays for crossing barriers also sets the costs it pays, as heat does when DNA origami folds, reaching a target within a time budget need not be monotone in the resource: the target can be reached only in a window of levels that more time widens, and a schedule of levels can reach what no constant level reaches; budgeted reachability with fixed costs, where more budget never loses a reachable state, is the special case of a resource that leaves the costs unchanged'
+title: 'Reach can be non-monotone in the resource'
+statement: >-
+  When the resource that pays for crossing barriers also sets the costs it
+  pays, as heat does when DNA origami folds, reaching a target within a time
+  budget need not be monotone in the resource: the target can be reached
+  only in a window of levels that more time widens, and a schedule of levels
+  can reach what no constant level reaches; budgeted reachability with fixed
+  costs, where more budget never loses a reachable state, is the special
+  case of a resource that leaves the costs unchanged
 version: 3
 history:
 - version: 2
@@ -73,7 +81,7 @@ summary: >-
   the owner's call.
 ---
 
-# CLAIM-594: When the resource that pays for crossing barriers also sets the costs it pays, as heat does when DNA origami folds, reaching a target within a time budget need not be monotone in the resource: the target can be reached only in a window of levels that more time widens, and a schedule of levels can reach what no constant level reaches; budgeted reachability with fixed costs, where more budget never loses a reachable state, is the special case of a resource that leaves the costs unchanged
+# CLAIM-594: Reach can be non-monotone in the resource
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 1139
 status: Active
 formerly:
 - CLAIM-tmpmk036
-title: 'Repeated arbitration can fall away from a collaboration by three different mechanisms, valuational concordance, learned practical coordination and externalized governance, and a governed record is directly only the third: rules and infrastructure that settle recurring conflicts automatically do not show that the collaborators have learned to coordinate, though they may be a stage on the way to it'
+title: 'Governed records are not learned coordination'
+statement: >-
+  Repeated arbitration can fall away from a collaboration by three different
+  mechanisms, valuational concordance, learned practical coordination and
+  externalized governance, and a governed record is directly only the third:
+  rules and infrastructure that settle recurring conflicts automatically do
+  not show that the collaborators have learned to coordinate, though they
+  may be a stage on the way to it
 version: 2
 history:
 - version: 2
@@ -60,7 +67,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-358 CLAIM-711 — Proposed; neighbours and the claims filed beside this one -->
 
-# CLAIM-1139: Repeated arbitration can fall away from a collaboration by three different mechanisms, valuational concordance, learned practical coordination and externalized governance, and a governed record is directly only the third: rules and infrastructure that settle recurring conflicts automatically do not show that the collaborators have learned to coordinate, though they may be a stage on the way to it
+# CLAIM-1139: Governed records are not learned coordination
 
 ## The claim
 

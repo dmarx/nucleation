@@ -3,7 +3,15 @@ number: 787
 status: Proposed
 formerly:
 - CLAIM-tmpspx4i
-title: 'First Contact''s one failure is a choice of level: a shared-autonomy assistant, from a prior study, that stabilizes the lander overrides the user''s commands, damping their influence over the next state while raising it over the episode, so command-to-outcome information depends on the horizon it is taken at, and the horizon the method needs is the level of a rate hierarchy at which the user''s goals live; the task knowledge it assumes away is knowledge of that level'
+title: 'First Contact''s failure is a choice of level'
+statement: >-
+  First Contact's one failure is a choice of level: a shared-autonomy
+  assistant, from a prior study, that stabilizes the lander overrides the
+  user's commands, damping their influence over the next state while raising
+  it over the episode, so command-to-outcome information depends on the
+  horizon it is taken at, and the horizon the method needs is the level of a
+  rate hierarchy at which the user's goals live; the task knowledge it
+  assumes away is knowledge of that level
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-788 TERM-133 CLAIM-478 — Proposed or Open; the claims and term this joins -->
 
-# CLAIM-787: First Contact's one failure is a choice of level: a shared-autonomy assistant, from a prior study, that stabilizes the lander overrides the user's commands, damping their influence over the next state while raising it over the episode, so command-to-outcome information depends on the horizon it is taken at, and the horizon the method needs is the level of a rate hierarchy at which the user's goals live; the task knowledge it assumes away is knowledge of that level
+# CLAIM-787: First Contact's failure is a choice of level
 
 ## The failure
 

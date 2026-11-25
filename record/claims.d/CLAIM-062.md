@@ -3,7 +3,10 @@ number: 62
 status: Superseded
 formerly:
 - CLAIM-tmphgiju
-title: 'That every regulator with a higher-order attractor counts as having a will is acceptable once agency is kept apart from phenomenal experience'
+title: 'Will in every regulator is acceptable'
+statement: >-
+  That every regulator with a higher-order attractor counts as having a will
+  is acceptable once agency is kept apart from phenomenal experience
 version: 1
 role: thesis
 warrant: interpretive
@@ -25,7 +28,7 @@ summary: >-
   forced. Superseded when the paper chose to suppose its agent instead.
 ---
 
-# CLAIM-062: That every regulator with a higher-order attractor counts as having a will is acceptable once agency is kept apart from phenomenal experience
+# CLAIM-062: Will in every regulator is acceptable
 
 ## The claim
 

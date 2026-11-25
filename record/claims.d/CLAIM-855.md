@@ -3,7 +3,13 @@ number: 855
 status: Proposed
 formerly:
 - CLAIM-tmp9atj9
-title: 'An alternative to the stop-word half of the owner''s truncated-band account: top spectral directions that track the data''s leading principal components, its common high-variance structure, may be a mark of under-trained or large-step regimes that learning reorganizes away from, rather than a standing feature of a learned spectrum'
+title: 'Top directions may mark under-training'
+statement: >-
+  An alternative to the stop-word half of the owner's truncated-band
+  account: top spectral directions that track the data's leading principal
+  components, its common high-variance structure, may be a mark of
+  under-trained or large-step regimes that learning reorganizes away from,
+  rather than a standing feature of a learned spectrum
 version: 1
 role: thesis
 warrant: interpretive
@@ -47,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-854 THEORY-2171 CLAIM-856 ARG-174 — Proposed or new; the owner's claim this rivals, its grounds, the other alternative and the test -->
 <!-- inactive-ok-file: THEORY-2186 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-855: An alternative to the stop-word half of the owner's truncated-band account: top spectral directions that track the data's leading principal components, its common high-variance structure, may be a mark of under-trained or large-step regimes that learning reorganizes away from, rather than a standing feature of a learned spectrum
+# CLAIM-855: Top directions may mark under-training
 
 **Which part it rivals.** The owner's [CLAIM-854](CLAIM-854.md) has three parts: the
 top directions carry common, weakly discriminating structure (stop words);

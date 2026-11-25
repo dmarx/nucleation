@@ -3,7 +3,15 @@ number: 413
 status: Active
 formerly:
 - CLAIM-tmpjw8ev
-title: 'Grounding is not a property of an experience but a relation among an interpretation, what it purports to be about, and a process that constrains it independently; its current, developmental and epistemic senses come apart from one another, and in the current sense it comes apart from whether the interpretation occurs, so ungrounded is not unconstrained, and what makes an interpretive organization experiential need not be what makes its contents veridical'
+title: 'Grounding is a relation, not a property'
+statement: >-
+  Grounding is not a property of an experience but a relation among an
+  interpretation, what it purports to be about, and a process that
+  constrains it independently; its current, developmental and epistemic
+  senses come apart from one another, and in the current sense it comes
+  apart from whether the interpretation occurs, so ungrounded is not
+  unconstrained, and what makes an interpretive organization experiential
+  need not be what makes its contents veridical
 version: 4
 history:
 - version: 2
@@ -88,7 +96,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-412 THEORY-095 — Proposed; the claim this complements and a reading cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1343 LIT-1350 — Unavailable; works registered and not read, cited as such -->
-# CLAIM-413: Grounding is not a property of an experience but a relation among an interpretation, what it purports to be about, and a process that constrains it independently; its current, developmental and epistemic senses come apart from one another, and in the current sense it comes apart from whether the interpretation occurs, so ungrounded is not unconstrained, and what makes an interpretive organization experiential need not be what makes its contents veridical
+# CLAIM-413: Grounding is a relation, not a property
 
 ## The claim
 

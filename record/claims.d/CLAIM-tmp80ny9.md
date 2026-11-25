@@ -1,6 +1,14 @@
 ---
 status: Proposed
-title: 'When an act could invoke more than one relationship, the uncertainty is of three kinds needing different remedies: epistemic ambiguity, an arrangement in force whose applicability is uncertain, resolved by information; relational disagreement, participants enacting incompatible specifications, resolved by negotiation or arbitration; and constitutive indeterminacy, no arrangement yet fixing what the relationship requires, resolved only by forming one'
+title: 'Three kinds of relational uncertainty'
+statement: >-
+  When an act could invoke more than one relationship, the uncertainty is of
+  three kinds needing different remedies: epistemic ambiguity, an
+  arrangement in force whose applicability is uncertain, resolved by
+  information; relational disagreement, participants enacting incompatible
+  specifications, resolved by negotiation or arbitration; and constitutive
+  indeterminacy, no arrangement yet fixing what the relationship requires,
+  resolved only by forming one
 version: 1
 role: thesis
 warrant: interpretive
@@ -42,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-044 CLAIM-151 CLAIM-430 CLAIM-tmpro73c — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
 
-# CLAIM-tmp80ny9: When an act could invoke more than one relationship, the uncertainty is of three kinds needing different remedies: epistemic ambiguity, an arrangement in force whose applicability is uncertain, resolved by information; relational disagreement, participants enacting incompatible specifications, resolved by negotiation or arbitration; and constitutive indeterminacy, no arrangement yet fixing what the relationship requires, resolved only by forming one
+# CLAIM-tmp80ny9: Three kinds of relational uncertainty
 
 ## The claim
 

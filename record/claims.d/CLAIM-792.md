@@ -3,7 +3,14 @@ number: 792
 status: Proposed
 formerly:
 - CLAIM-tmpmtv1b
-title: 'In this record the noticing of grammar misfits moved from incidental to procedural, from filing agents who met a missing word to review procedures built to look, while revisions of the grammar, as distinct from refinements, were noticed or decided mostly by the owner: what was delegated was noticing, by procedure and by category of change, not judgment about revision'
+title: 'Noticing misfits delegated, not revision'
+statement: >-
+  In this record the noticing of grammar misfits moved from incidental to
+  procedural, from filing agents who met a missing word to review procedures
+  built to look, while revisions of the grammar, as distinct from
+  refinements, were noticed or decided mostly by the owner: what was
+  delegated was noticing, by procedure and by category of change, not
+  judgment about revision
 version: 1
 role: thesis
 warrant: empirical
@@ -37,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: ADR-120 ADR-124 — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
 
 
-# CLAIM-792: In this record the noticing of grammar misfits moved from incidental to procedural, from filing agents who met a missing word to review procedures built to look, while revisions of the grammar, as distinct from refinements, were noticed or decided mostly by the owner: what was delegated was noticing, by procedure and by category of change, not judgment about revision
+# CLAIM-792: Noticing misfits delegated, not revision
 
 ## The claim
 

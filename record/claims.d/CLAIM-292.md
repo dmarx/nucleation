@@ -3,9 +3,11 @@ number: 292
 status: Active
 formerly:
 - CLAIM-tmp23r9z
-title: 'Retrieval that depends on current belief is not a bias in itself: adaptive
-  search can be rational when inference accounts for how the evidence was selected,
-  and calling a search biased needs a standard outside the search'
+title: 'Belief-dependent retrieval is not itself bias'
+statement: >-
+  Retrieval that depends on current belief is not a bias in itself: adaptive
+  search can be rational when inference accounts for how the evidence was
+  selected, and calling a search biased needs a standard outside the search
 version: 2
 history:
 - version: 2
@@ -33,7 +35,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-190 CLAIM-301 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# CLAIM-292: Retrieval that depends on current belief is not a bias in itself: adaptive search can be rational when inference accounts for how the evidence was selected, and calling a search biased needs a standard outside the search
+# CLAIM-292: Belief-dependent retrieval is not itself bias
 
 ## The claim
 

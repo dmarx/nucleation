@@ -3,7 +3,13 @@ number: 366
 status: Active
 formerly:
 - CLAIM-tmpuia0a
-title: 'Whether several objectives share a strict first-order descent direction, 0 ∉ conv{g_i}, is invariant under smooth invertible reparameterization, while the sign of a Euclidean gradient inner product is not, and a negative inner product does not exclude common descent; a budgeted version is invariant only with the metric pulled back'
+title: 'Shared descent survives reparameterization'
+statement: >-
+  Whether several objectives share a strict first-order descent direction, 0
+  ∉ conv{g_i}, is invariant under smooth invertible reparameterization,
+  while the sign of a Euclidean gradient inner product is not, and a
+  negative inner product does not exclude common descent; a budgeted version
+  is invariant only with the metric pulled back
 version: 3
 history:
 - version: 2
@@ -61,7 +67,7 @@ summary: >-
   to diagnose task conflict by gradient cosine, is the anthology's.
 ---
 
-# CLAIM-366: Whether several objectives share a strict first-order descent direction, 0 ∉ conv{g_i}, is invariant under smooth invertible reparameterization, while the sign of a Euclidean gradient inner product is not, and a negative inner product does not exclude common descent; a budgeted version is invariant only with the metric pulled back
+# CLAIM-366: Shared descent survives reparameterization
 
 ## The claim
 

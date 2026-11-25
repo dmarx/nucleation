@@ -3,7 +3,13 @@ number: 248
 status: Active
 formerly:
 - CLAIM-tmpt2k3r
-title: 'The founding stimuli (Villon, Henley''s Villon, Hofstadter''s Marot) and commentary on them are likely in language models'' training data, and what a context does to one model need not be what it does to another, so a model''s reading of their footing may be recall, and a directional match in one model may not hold in the next'
+title: 'Founding stimuli may be in training data'
+statement: >-
+  The founding stimuli (Villon, Henley's Villon, Hofstadter's Marot) and
+  commentary on them are likely in language models' training data, and what
+  a context does to one model need not be what it does to another, so a
+  model's reading of their footing may be recall, and a directional match in
+  one model may not hold in the next
 version: 4
 history:
 - version: 2
@@ -57,7 +63,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-058 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-029 — Proposed; open, cited for its reading of LIT-833, not as settled -->
 
-# CLAIM-248: The founding stimuli (Villon, Henley's Villon, Hofstadter's Marot) and commentary on them are likely in language models' training data, and what a context does to one model need not be what it does to another, so a model's reading of their footing may be recall, and a directional match in one model may not hold in the next
+# CLAIM-248: Founding stimuli may be in training data
 
 ## The objection
 

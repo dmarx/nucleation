@@ -3,7 +3,13 @@ number: 776
 status: Proposed
 formerly:
 - CLAIM-tmpsn2rb
-title: 'In the record''s exchanges, the ideas lost soonest, re-derived as though new or silently redefined, are those furthest from the collaborators'' own framings: contraction toward those framings carries a distant idea past the critical distance in a few restatements and never carries a near one past it, so the most original ideas are the most fragile until coded'
+title: 'Most original ideas are most fragile until coded'
+statement: >-
+  In the record's exchanges, the ideas lost soonest, re-derived as though
+  new or silently redefined, are those furthest from the collaborators' own
+  framings: contraction toward those framings carries a distant idea past
+  the critical distance in a few restatements and never carries a near one
+  past it, so the most original ideas are the most fragile until coded
 version: 1
 role: thesis
 warrant: interpretive
@@ -40,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-773 CLAIM-180 CLAIM-191 CLAIM-772 CLAIM-176 — Proposed; the claims this rests on and bears on -->
 
-# CLAIM-776: In the record's exchanges, the ideas lost soonest, re-derived as though new or silently redefined, are those furthest from the collaborators' own framings: contraction toward those framings carries a distant idea past the critical distance in a few restatements and never carries a near one past it, so the most original ideas are the most fragile until coded
+# CLAIM-776: Most original ideas are most fragile until coded
 
 ## The claim
 

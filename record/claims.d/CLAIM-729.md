@@ -3,7 +3,13 @@ number: 729
 formerly:
 - CLAIM-tmpes6ef
 status: Proposed
-title: "The duties to comply with a justified rule, to support a justified institution and to help establish a needed one are distinct and none follows from another, and the third is bounded by whether the needed arrangement can be reached from the present one by permissible, resource-bounded transitions and by whose part it is to contribute"
+title: 'Comply, support, establish: three duties'
+statement: >-
+  The duties to comply with a justified rule, to support a justified
+  institution and to help establish a needed one are distinct and none
+  follows from another, and the third is bounded by whether the needed
+  arrangement can be reached from the present one by permissible,
+  resource-bounded transitions and by whose part it is to contribute
 version: 2
 history:
 - version: 2
@@ -43,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-114 CASE-282 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; the record's nearest entries, cited with their standing -->
 
-# CLAIM-729: The duties to comply with a justified rule, to support a justified institution and to help establish a needed one are distinct and none follows from another, and the third is bounded by whether the needed arrangement can be reached from the present one by permissible, resource-bounded transitions and by whose part it is to contribute
+# CLAIM-729: Comply, support, establish: three duties
 
 ## The claim
 

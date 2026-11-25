@@ -3,7 +3,14 @@ number: 118
 status: Active
 formerly:
 - CLAIM-tmpxrgp3
-title: 'Context and interpreter are separate sources of interpretive change, told apart by what each carries and not by mechanism: what the current context supplies, whether held in activations or in weights updated on it and discarded after, is the signal; what earlier contexts have left in the interpreter and it carries into new ones is the interpreter; and improving the signal differs from improving the interpreter'
+title: 'Context and interpreter are separate sources'
+statement: >-
+  Context and interpreter are separate sources of interpretive change, told
+  apart by what each carries and not by mechanism: what the current context
+  supplies, whether held in activations or in weights updated on it and
+  discarded after, is the signal; what earlier contexts have left in the
+  interpreter and it carries into new ones is the interpreter; and improving
+  the signal differs from improving the interpreter
 version: 6
 history:
 - version: 2
@@ -89,7 +96,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2007 THEORY-2023 THEORY-2037 THEORY-2049 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-118: Context and interpreter are separate sources of interpretive change, told apart by what each carries and not by mechanism: what the current context supplies, whether held in activations or in weights updated on it and discarded after, is the signal; what earlier contexts have left in the interpreter and it carries into new ones is the interpreter; and improving the signal differs from improving the interpreter
+# CLAIM-118: Context and interpreter are separate sources
 
 ## The claim
 

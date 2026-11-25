@@ -3,7 +3,20 @@ number: 600
 status: Active
 formerly:
 - CLAIM-tmpc3x0c
-title: 'Transient support can be withdrawn safely only if it started a process that keeps itself going on a flux that will stay available, was large enough to carry the supported party past any threshold that process has, outlasted the threat it stood in for, and left the work to the party throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept up after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement; support that fails these leaves dependence or decay, but meeting them all is not enough, since support can carry a function nobody names before withdrawal; and persistence after withdrawal is needed to tell which, though slow reversion can mimic it'
+title: 'Safe withdrawal needs a self-sustaining process'
+statement: >-
+  Transient support can be withdrawn safely only if it started a process
+  that keeps itself going on a flux that will stay available, was large
+  enough to carry the supported party past any threshold that process has,
+  outlasted the threat it stood in for, and left the work to the party
+  throughout, in each subtask it must later do alone and not only in its
+  role as a whole, at no more effort than it could bear, and, where the
+  capacity is cumulative and its field moves fast, kept up after withdrawal;
+  inputs the party cannot produce must stay supplied as a standing part of
+  the arrangement; support that fails these leaves dependence or decay, but
+  meeting them all is not enough, since support can carry a function nobody
+  names before withdrawal; and persistence after withdrawal is needed to
+  tell which, though slow reversion can mimic it
 version: 10
 history:
 - version: 2
@@ -226,7 +239,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-603 CLAIM-606 THEORY-1477 THEORY-1509 — Proposed; components and readings cited with their standing -->
 
-# CLAIM-600: Transient support can be withdrawn safely only if it started a process that keeps itself going on a flux that will stay available, was large enough to carry the supported party past any threshold that process has, outlasted the threat it stood in for, and left the work to the party throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept up after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement; support that fails these leaves dependence or decay, but meeting them all is not enough, since support can carry a function nobody names before withdrawal; and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
+# CLAIM-600: Safe withdrawal needs a self-sustaining process
 
 *Returned to CLAIM from [SYNTHESIS-010](../syntheses.d/SYNTHESIS-010.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 

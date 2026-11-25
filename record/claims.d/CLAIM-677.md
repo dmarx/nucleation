@@ -3,7 +3,13 @@ number: 677
 status: Proposed
 formerly:
 - CLAIM-tmpbypt7
-title: 'A technology can become practically compulsory without any rule requiring it: as infrastructures, competitors and expectations adapt to its adoption, the alternatives left to those who decline it shrink, so the freedom an arrangement leaves is measured by what remains open to a non-adopter, not by what it lets adopters do'
+title: 'Technology can become compulsory without a rule'
+statement: >-
+  A technology can become practically compulsory without any rule requiring
+  it: as infrastructures, competitors and expectations adapt to its
+  adoption, the alternatives left to those who decline it shrink, so the
+  freedom an arrangement leaves is measured by what remains open to a
+  non-adopter, not by what it lets adopters do
 version: 2
 history:
 - version: 2
@@ -72,7 +78,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-108 THEORY-1853 THEORY-1861 — filed from the readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-1921 — filed from the readings of 2026-11-13, Skimmed; Illich, a two-page excerpt -->
 
-# CLAIM-677: A technology can become practically compulsory without any rule requiring it: as infrastructures, competitors and expectations adapt to its adoption, the alternatives left to those who decline it shrink, so the freedom an arrangement leaves is measured by what remains open to a non-adopter, not by what it lets adopters do
+# CLAIM-677: Technology can become compulsory without a rule
 
 ## The claim
 

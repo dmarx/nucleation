@@ -3,7 +3,14 @@ number: 424
 status: Active
 formerly:
 - CLAIM-tmpqktfo
-title: 'Reflexive governance of an organization''s perspectival arrangements, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective; and the capacity to revise those standards is not the capacity to revise them well'
+title: 'Reflexive governance is a capacity some have'
+statement: >-
+  Reflexive governance of an organization's perspectival arrangements,
+  making the conditions that govern its own interpretation, evaluation and
+  action available for effective examination and revision, is a capacity
+  some organizations of perspective have and others lack, not what makes
+  something a perspective; and the capacity to revise those standards is not
+  the capacity to revise them well
 version: 6
 history:
 - version: 2
@@ -93,7 +100,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-121 — filed on 2026-11-13 from the remaining items of the exchange "Analyze technological civilization trap", Proposed -->
 <!-- inactive-ok-file: CLAIM-364 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-424: Reflexive governance of an organization's perspectival arrangements, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective; and the capacity to revise those standards is not the capacity to revise them well
+# CLAIM-424: Reflexive governance is a capacity some have
 
 ## The claim
 

@@ -3,7 +3,17 @@ number: 451
 status: Proposed
 formerly:
 - CLAIM-tmpuxcp6
-title: 'When an organization''s record of winning moves cycles, the failure is organizational nonintegrability, distinct from a perspective''s own preference instability and from switching of the governing regime; it becomes organizational tension only when realized as costly reversal against demands the organization maintains, and cognitive dissonance only when that tension is detected and appraised as aversive; learning can relieve it by accommodation, by entrenched precedence or by cheap periodic coordination, which observed coherence does not tell apart, and ambivalence and nonintegrability entail neither one another'
+title: 'Cycling winning moves is nonintegrability'
+statement: >-
+  When an organization's record of winning moves cycles, the failure is
+  organizational nonintegrability, distinct from a perspective's own
+  preference instability and from switching of the governing regime; it
+  becomes organizational tension only when realized as costly reversal
+  against demands the organization maintains, and cognitive dissonance only
+  when that tension is detected and appraised as aversive; learning can
+  relieve it by accommodation, by entrenched precedence or by cheap periodic
+  coordination, which observed coherence does not tell apart, and
+  ambivalence and nonintegrability entail neither one another
 version: 3
 history:
 - version: 2
@@ -63,7 +73,7 @@ summary: >-
 
 <!-- inactive-ok-file: CASE-366 — new on 2026-11-22; the executed-study agenda model, cited in the note of 2026-11-22 -->
 
-# CLAIM-451: When an organization's record of winning moves cycles, the failure is organizational nonintegrability, distinct from a perspective's own preference instability and from switching of the governing regime; it becomes organizational tension only when realized as costly reversal against demands the organization maintains, and cognitive dissonance only when that tension is detected and appraised as aversive; learning can relieve it by accommodation, by entrenched precedence or by cheap periodic coordination, which observed coherence does not tell apart, and ambivalence and nonintegrability entail neither one another
+# CLAIM-451: Cycling winning moves is nonintegrability
 
 ## The claim
 

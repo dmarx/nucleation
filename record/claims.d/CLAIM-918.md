@@ -3,7 +3,14 @@ number: 918
 status: Proposed
 formerly:
 - CLAIM-tmp1u4m3
-title: 'When influence shares are a softmax of logits trained by gradient on any loss of the shares, the part of a rare operator''s growth that depends on its own performance is proportional to its share, so its recovery exponent tends, as it becomes rare, to a value that does not depend on how good it is; a multiplicative contribution rule keeps that part independent of share'
+title: 'Softmax shares make rare recovery competence-blind'
+statement: >-
+  When influence shares are a softmax of logits trained by gradient on any
+  loss of the shares, the part of a rare operator's growth that depends on
+  its own performance is proportional to its share, so its recovery exponent
+  tends, as it becomes rare, to a value that does not depend on how good it
+  is; a multiplicative contribution rule keeps that part independent of
+  share
 version: 1
 history:
 - version: 1
@@ -53,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-341 — new, filed with this claim -->
 
-# CLAIM-918: When influence shares are a softmax of logits trained by gradient on any loss of the shares, the part of a rare operator's growth that depends on its own performance is proportional to its share, so its recovery exponent tends, as it becomes rare, to a value that does not depend on how good it is; a multiplicative contribution rule keeps that part independent of share
+# CLAIM-918: Softmax shares make rare recovery competence-blind
 
 ## The derivation
 
