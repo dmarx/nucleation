@@ -1,0 +1,219 @@
+---
+status: Read
+paper: LIT-tmpqagik
+title: 'Dunfield and Krishnaswami — Bidirectional Typing'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read in full on 2026-11-22 for LEAD-215 from arXiv 1908.05839v2
+    (14 November 2020), the authors' own deposit, 37 pages, extracted with
+    pdftotext -layout; lawful under ADR-074. All twelve sections and the
+    notation table read; typing rules read from the extracted layout,
+    where some superscripts and hats on existential variables did not
+    survive (§5.1.3, §6.3); the reference list scanned. The ACM version of
+    record was not compared. Quotations checked by script against the
+    extracted text, with mathematical italic letters normalized to plain
+    ones.
+date: '2026-11-22'
+summary: >-
+  Bidirectional typing splits typing into checking, where context, term
+  and type are inputs, and synthesis, where the type is an output. The
+  survey reads this as modes in the logic-programming sense, sets four
+  criteria for a system, restates the Pfenning recipe (introductions
+  check, eliminations synthesize, subsumption and annotation switch
+  direction), and shows the modes can be mixed, combined or reversed.
+  Read for [LEAD-215](../leads.d/LEAD-215.md): it supports reading a synthesized type as a
+  fact and a checked type as a requirement, and shows that neither mode
+  changes the term.
+---
+<!-- inactive-ok-file: CLAIM-949 TERM-151 TERM-134 ARG-tmpcpo8g CLAIM-943 CLAIM-tmpugw2q THEORY-162 TERM-152 CLAIM-783 CLAIM-942 — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
+
+# NOTE-tmpbrc1z: Dunfield and Krishnaswami — Bidirectional Typing
+
+## Contribution
+
+A survey with two aims (§1): to state the design principles of
+bidirectional typing, and to organize the work on it from before Pierce
+and Turner's local type inference to 2020. Its own contributions are the
+four design criteria (§3), a refined statement of the Pfenning recipe
+(§4), and the argument that bidirectional typing is about information
+flow rather than polarity (§8).
+
+## Key results
+
+1. **Modes (§1).** Typing Γ ⊢ e : A is read as a logic program: "If the
+   typing context Γ, the term e and the type A are inputs, we are
+   implementing type checking. If the type A is an output, we are
+   implementing type inference." "The status of each meta-variable—input
+   or output—is its mode." The authors prefer "synthesis" to "inference"
+   (footnote 1: "We choose to say synthesis instead of inference."). "As a
+   general rule, outputs make life more difficult."
+2. **Mode-correctness (§3.1).** "We want to avoid having to guess types:
+   in an ideal world, whenever we synthesize a type, the type should come
+   from known information". A rule is mode-correct if some order of its
+   premises has every input known when it is needed and the conclusion's
+   outputs known at the end; "mode-correctness is not about meaning in
+   that sense; rather, it is about a particular strategy for applying the
+   rule." Of the eight direction assignments for →-elimination, four are
+   mode-correct.
+3. **Completeness is annotatability (§3.2, §4.5.3).** Matching a type
+   assignment derivation "might require that we change the
+   term—generally, by adding type annotations". The theorem: whatever
+   the type assignment system types, some more-annotated version e′ ⊒ e
+   checks, and some synthesizes.
+4. **The Pfenning recipe (§4.1).** "If the rule is an introduction rule,
+   make the principal judgment checking. If the rule is an elimination
+   rule, make the principal judgment synthesizing." For the other
+   judgments, use known information: "If we already know the type of a
+   judgment—the judgment should be checking." Variables synthesize from
+   the context (§4.3). The recipe "was invented by Frank Pfenning, so we
+   call it the Pfenning recipe" (§10). The authors correct their own
+   earlier claim: "Dunfield and Pfenning [2004] claimed that annotations
+   were needed only on redexes, but that claim was false" (§4.1), for
+   eliminations that bind variables, such as case.
+5. **Subsumption is the change of direction (§4.4).** A variable
+   synthesizes its type but an argument position needs it checked: "So we
+   need a rule that verifies that a fact (x synthesizes type A) is
+   consistent with a requirement (x needs to check against type A)."
+   Written with a separate premise A = B, and then A <: B, it becomes the
+   subsumption rule: synthesize A, then test A <: B against the given B.
+   Both types are known, so nothing is guessed. "It is generally best to
+   apply Sub as late as possible (that is, towards the leaves of the
+   derivation), because that preserves the information provided by the
+   type being checked against." Subtyping reads as implication: "by
+   treating types as propositions, A <: B becomes A ⊃ B" (§4.6).
+6. **Annotation is the other change (§2, §4.2).** An annotation (e : A)
+   checks e against A and synthesizes A. "Neither Sub⇐ nor Anno⇒ is tied
+   to an operational feature" (§2): under type erasure an annotation
+   changes nothing the program does. Under the recipe "an annotation is
+   required on a subterm if and only if an introduction form meets an
+   elimination form" (§4.5.4).
+7. **Principal synthesis (§4.6.1).** With intersection types a term
+   synthesizes several types, A₁ ∧ A₂, A₁ and A₂, and synthesis is
+   principal only with extra design work.
+8. **Polymorphism (§5).** Instantiating a quantifier is "decidedly not an
+   input"; the authors' 2013 system solves it with existential variables
+   in an ordered context, so that a judgment's output context gains
+   information: checking can solve an unsolved type variable from the
+   term (§5.1.3).
+9. **Variations (§6).** Modes can be put in the types (Odersky et al.),
+   made finer than input and output (Reddy's directional logic
+   programming), declared per function (Davies's mode annotations), or
+   combined: a judgment Γ ⊢ e ⇐ A ⇒ B checks against A and synthesizes a
+   stronger B, so "The system thus operates in both checking and
+   synthesis modes simultaneously", and "Synthesis becomes a special case
+   of strengthening", checking against top (§6.4). In multiplicative
+   linear logic "bidirectional typing works precisely as well if you did
+   it backwards, changing all occurrences of synthesis to checking, and
+   vice versa" (§6.5); there "Usually, the context would give the type of
+   each variable. However, in this case the context is told the type of
+   each variable."
+10. **Proof theory (§7–8).** The recipe gives a subformula property: only
+    types the programmer wrote are synthesized (§7.1). Checking and
+    synthesis correspond to Pfenning's verifications and uses (§7.2). A
+    restricted system types exactly the β-normal, η-long terms and gives
+    a term model of the initial cartesian closed category (§8.1). But the
+    belief that bidirectional typing arises from polarized logic "is
+    natural, helpful, and (surprisingly) wrong" (§8); "the essence of
+    bidirectional typing is the management of information flow" (§8.4).
+11. **Intent (§1, §9.1).** Type systems "allow programmers to express
+    their intent, and to use a type checker to verify that their programs
+    are consistent with that intent." SML-CIDRE chose bidirectional
+    typing because "type inference finds all behaviours, not only the
+    intended behaviours", while its annotations "force programmers to
+    write down the behaviours they intend." Coquand's 1996 checker, in
+    Gofer, has a checkExp that "returns a boolean" (§9.1).
+12. **History (§10).** Lee and Yi's Algorithm M, reformulated as rules,
+    has rules that "are all checking rules: there is an input type";
+    when typing a let-bound expression "the input type is a fresh
+    unification variable, but the input type often carries information."
+
+## Assumptions
+
+- A type assignment system is the "ground truth" a bidirectional system
+  is complete against (§3.2, §4.1 step 3), though the authors note it is
+  not always clear what that should be.
+- Mode-correctness is required because typing should be decidable (§3.1).
+- Annotation character is judged by hypothesis, "In the absence of
+  empirical studies" (§3.4).
+- In both modes the term is an input. Only program synthesis, which the
+  survey sets aside (§1), makes the term an output.
+
+## Concepts
+
+- **checking (⇐) and synthesis (⇒)**: the type flowing into the term,
+  and from it (§11);
+- **mode, mode-correctness**: which parts of a judgment are inputs, and
+  whether an order of premises exists that never guesses one (§3.1);
+- **principal judgment**: the judgment holding the connective a rule
+  introduces or eliminates (§4.1);
+- **subsumption (Sub)**: the change from synthesis to checking, testing
+  the synthesized type against the given one under <: (§4.4);
+- **annotatability**: completeness up to adding annotations (§3.2);
+- **annotation character**: lightweight, predictable, stable, legible
+  (§3.4);
+- **principal synthesis**: every type a term checks against is a
+  supertype of the type it synthesizes (§4.6.1);
+- **stationary rule**: one whose premises type the same term as its
+  conclusion (§4.6).
+
+## Bearing on the record
+
+The reading answers [LEAD-215](../leads.d/LEAD-215.md)'s questions on bidirectional typing.
+
+- **Synthesis against checking, as direction of fit ([CLAIM-949](../claims.d/CLAIM-949.md),
+  [TERM-151](../terms.d/TERM-151.md)).** Supported in the authors' own words: the synthesized
+  type is "a fact", the type checked against "a requirement" (§4.4);
+  inference finds the behaviours a program has, annotations state those
+  intended (§9.1); the type flows from the term in one mode and into it
+  in the other (§11). That is word to world and world to word in
+  Searle's sense of which side must answer for a mismatch. But neither
+  mode changes the term, which is an input to both (§1), and a checker
+  only answers yes or no (§9.1). Both are tests in [TERM-134](../terms.d/TERM-134.md)'s sense. So
+  the correspondence holds for what the type is taken as and fails if
+  checking is read as performative update. ARG [ARG-tmpcpo8g](../arguments.d/ARG-tmpcpo8g.md) judges this.
+- **Where elaboration, coercion and subsumption sit ([CLAIM-949](../claims.d/CLAIM-949.md)).**
+  Subsumption sits at the change of direction, where the fact meets the
+  requirement, and is itself a test, A <: B read as A ⊃ B; it moves
+  nothing. What changes the term to fit is, in this survey, the
+  programmer's annotation (§3.2, §4.5.3), which under erasure changes no
+  behaviour (§2). Elaboration and coercion appear only as the remark that
+  type systems "automatically insert implicit operations" (§1) and in
+  cited titles (Dunfield 2012, 2014, 2015). The claim that the
+  performative half is elaboration or coercion is neither confirmed nor
+  refuted here; [LEAD-tmp7mkn0](../leads.d/LEAD-tmp7mkn0.md) plans the reading that would settle it.
+- **Where the type comes from against who must fit whom ([CLAIM-949](../claims.d/CLAIM-949.md),
+  [TERM-151](../terms.d/TERM-151.md), [CLAIM-943](../claims.d/CLAIM-943.md)).** Not the same distinction. Mode is
+  where the type comes from, and the survey shows it reversible (§6.5),
+  combinable (§6.4) and finer than input and output (§6.2), and shows
+  checking against a placeholder that the term then solves (§5.1.3, §10),
+  all with the term unchanged. Who must fit whom stays with the term in
+  every variant: a failed check is the term's error. In the standard
+  recipe the two line up, since a checked type comes from an annotation
+  or an earlier synthesis. And a requirement the term already meets is
+  still a requirement, while by [CLAIM-943](../claims.d/CLAIM-943.md)'s criterion, passing when
+  added, it is a descriptor. [CLAIM-tmpugw2q](../claims.d/CLAIM-tmpugw2q.md) files that objection.
+- **Parallels without an edge.** Checking as a test that passes or fails
+  against what it meets, Veltman's test ([THEORY-162](../theory.d/THEORY-162.md)); a predicate read as
+  a test returning a boolean ([TERM-134](../terms.d/TERM-134.md)); Polikarpova's strengthening,
+  which checks against a required type and returns the description
+  {b | ν = x} written from the variable itself, a description in
+  [TERM-152](../terms.d/TERM-152.md)'s sense; intersection introduction, where one term
+  witnesses both types, beside [CLAIM-783](../claims.d/CLAIM-783.md) part 6; inferring all behaviours
+  against annotating the intended ones, beside [CLAIM-942](../claims.d/CLAIM-942.md)'s inquiry
+  and engineering.
+
+## Limitations
+
+- A survey: its results are other papers' or the authors' own earlier
+  ones, and it proves only small things (the eight →-elimination rules,
+  backwards substitution, §6.5).
+- Its criteria for annotation character are hypotheses with no
+  empirical test (§3.4).
+- It never states what a type checker does on failure beyond rejecting:
+  error locality is claimed (abstract, §10) and not shown.
+- It does not discuss elaboration, coercion insertion or the semantics of
+  subsumption with coercions, beyond citing them.
+- The arXiv preprint was read, not the version of record.

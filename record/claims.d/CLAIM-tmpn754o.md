@@ -109,3 +109,18 @@ of deliberation measure the allocation apart from the choice, which is what
 keeps the term from naming every learned response (the claim's
 `defeated_if`). The wording is the
 assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-25: [CASE-346](../cases.d/CASE-346.md)'s identification limit does not reach this test
+
+The independent test of the joins of the manuscript governance-of-becoming,
+Part II (its review of 2026-11-25, Part B, J6.4), found that [CASE-346](../cases.d/CASE-346.md)'s
+identification limit does not carry to the test in the note above.
+[CLAIM-924](CLAIM-924.md)'s "same law" holds because "Under protection the outcome is the
+same in both states" ([CASE-346](../cases.d/CASE-346.md)): the protecting posture masks the outcome
+that would judge it. The test above gives "clear feedback in one" task, so
+there the success signal depends on the outcome, and an authority update
+learned on it can depart from a trace of which procedure ran. [CASE-346](../cases.d/CASE-346.md) also
+has one task and no deliberation channel, so it cannot speak to
+cue-generalization. The limit applies to tasks whose governing procedure
+masks its own outcome, not to this claim's test. The wording is the
+assistant's (Claude, in this session); adopting it is the owner's call.

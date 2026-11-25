@@ -131,3 +131,7 @@ regime restores inquiry, but its institution cannot report a discovery it
 did not make, so it does not test that qualification. Bearing: an extension
 of the pattern, and a limit of the held study's design. The claim is
 unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-25: the researcher's side of the same pattern
+
+ChatGPT, at A21 of the exchange "Hyper article interpretation" (2026-11-22), writing on academic incentives: "Why investigate a possible weakness in your earlier work when doing so might reduce its apparent significance?", and "If corrections and maintenance are difficult to publish, researchers have less incentive to spend time correcting and maintaining existing work." This is the pattern this claim derives for an institution, seen from a researcher evaluated by publications: discovering a flaw in one's own result scores as a loss and earns nothing as discovery. A gives it no model, so the note records an instance of the pattern and does not extend the claim. It bears on [QUESTION-tmpz0154](../questions.d/QUESTION-tmpz0154.md). The note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call. The claim is unchanged.

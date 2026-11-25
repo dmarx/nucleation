@@ -44,6 +44,9 @@ summary: >-
   assistant's knowledge and wait on [LEAD-215](../leads.d/LEAD-215.md). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmp9cdlq THEORY-tmpqj2d4 ARG-tmp68y3c — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
+
+<!-- inactive-ok-file: THEORY-tmptsz1u ARG-tmpcpo8g CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: CLAIM-783 CLAIM-943 TERM-152 — Proposed or Open; the claims, terms and lead this joins -->
 
 # CLAIM-949: The record's account of specification is model-theoretic, a set of tests and the versions that pass them all, as an institution pairs sentences with the models that satisfy them; type theory is its proof-relevant counterpart, in which a specification is a type, a question a problem, a realization an inhabitant carried with the evidence that it passes, adding a descriptor a refinement the entry provably inhabits, which is why descriptors cannot conflict, and the direction of fit is bidirectional typing's split between inferring a type from a term and checking a term against a type given
@@ -205,6 +208,66 @@ read after Freeman and Pfenning's turned out to be a declared lattice.
 Neither reaches this claim's `defeated_if` (b): the first correspondence
 holds narrowed, and the second is still untested on a bidirectional
 system. No change to the claim's status.
+
+## Note of 2026-11-22: Kleene, read through van Oosten
+
+Kleene 1945 ([LIT-tmp9cdlq](../literature.d/LIT-tmp9cdlq.md)) has no lawful copy; van Oosten's historical
+essay ([LIT-tmpegqz0](../literature.d/LIT-tmpegqz0.md), read in [NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md)) stands in for it, and its account
+is [THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md). It bears on the bullet "A finding is an inhabitant":
+
+- **Confirmed, as written.** A realizer of an existential is the witness
+  kept with a realizer of its instance: "n realizes an existential
+  statement ∃xφ(x) if and only if n = ⟨m, k⟩ and k realizes φ(m̄)" (p. 5).
+  So "the record's realization, with the witness kept" holds.
+- **Narrowed.** A Kleene realizer is not carried with the evidence that it
+  passes. Realizability "is designed to handle “information” about
+  formulas rather than proofs" (p. 4), and "n realizes F, where F is an
+  atomic sentence, if and only if n = 0 and F is true" (p. 5): at a
+  decidable test nothing is carried and the test is rechecked. The title's
+  "an inhabitant carried with the evidence that it passes" gets no support
+  from Kleene; its source would be proof-relevant type theory, Kreisel's
+  typed realizability (1959, p. 11) or Martin-Löf, which this lead reads
+  separately.
+- **Qualified.** Realizability does not sit on the proof-relevant side of
+  the claim's two. It is a classical relation between realizers and
+  sentences, "read and checked by the classical mathematician" (p. 4), of
+  the same shape as an institution's satisfaction ([THEORY-1142](../theory.d/THEORY-1142.md)), and in
+  the effective topos it is the truth definition for arithmetic (p. 15). It
+  is a model-theoretic semantics whose points are information, between the
+  two readings.
+
+The support judgement is [ARG-tmp68y3c](../arguments.d/ARG-tmp68y3c.md) (analogy, Proposed); [THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md)
+`corroborates` this claim for the witness correspondence. Neither the
+defeated_if (a) nor (b) is met: the correspondences (b) names are not the
+one Kleene bears on. No status changes; narrowing the claim is the owner's
+call.
+
+## Note of 2026-11-22: Dunfield and Krishnaswami, read
+
+Their survey of bidirectional typing ([LIT-tmpqagik](../literature.d/LIT-tmpqagik.md), read in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md), account
+[THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md)) tests the bullet "The direction of fit is bidirectional
+typing". It supports, and narrows (evidence; [ARG-tmpcpo8g](../arguments.d/ARG-tmpcpo8g.md)):
+
+- **Supported.** The authors call a synthesized type "a fact" and a
+  checked one "a requirement" (§4.4), and argue for checking because
+  inference "finds all behaviours, not only the intended behaviours"
+  (§9.1). Synthesis as description and checking as requirement is their
+  reading too. "Checking only accepts or rejects" is borne out: the term
+  is an input in both modes (§1), and Coquand's checkExp "returns a
+  boolean" (§9.1).
+- **Narrowed.** The modes are information flow, "the management of
+  information flow" (§8.4): which part of a judgment is known. They can
+  be reversed, combined or refined (§6) while the term still answers for
+  a mismatch, so where the type comes from is not who must fit whom.
+  The two coincide in the standard Pfenning recipe. [CLAIM-tmpugw2q](CLAIM-tmpugw2q.md) files the
+  objection this makes to [CLAIM-943](CLAIM-943.md).
+- **Left open.** Elaboration and coercion are only cited (§1, references).
+  The one change to a term the survey treats is the programmer's
+  annotation, which under type erasure changes no behaviour (§2, §3.2).
+  [LEAD-tmp7mkn0](../leads.d/LEAD-tmp7mkn0.md) plans the reading that would settle the elaboration clause.
+
+Defeat condition (b) is not met: the correspondence holds, more narrowly
+than stated. The status is the owner's.
 
 ## Note of 2026-11-25: Martin-Löf, read
 <!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpl0sxy ARG-tmpneexr ARG-tmppv3b8 CLAIM-tmp01pyt CLAIM-tmpjs6hp — Proposed or Skimmed; filed from the reading for LEAD-215 -->
