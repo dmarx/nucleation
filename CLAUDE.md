@@ -139,8 +139,10 @@ the record's size, takes minutes. If `docs-check` goes red, read its log, fix
 what it names on the branch, and push again; a narrow local command is fine
 for diagnosing. Pull before each push, since the bot's repair lands on the
 branch as its own commit. Never commit generated views: they land on the
-default branch through CI. Work goes to a branch and a pull request, and the
-changelog fragment goes in the same contribution.
+default branch through CI. Work goes to a branch and a pull request. A
+contribution that changes what a reader of the record sees carries its
+changelog fragment; one that only files devlog notes or other journal
+entries carries none, not even an empty stub.
 
 **Work goes through `staging`.** Cut each branch from `staging` and open its
 pull request into `staging`; docs-check runs on it as before. Temporary codes
