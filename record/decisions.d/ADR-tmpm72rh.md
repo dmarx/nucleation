@@ -62,14 +62,14 @@ inquiry, and they are retired in favour of this decision.)
   "open seam" lines and the section V table. The core fiber lists are bare
   lists of codes and count as citations.
 - **Its synthesis waits.** The atlas can be a SYNTHESIS only as one over
-  the fifteen lines' syntheses, a cross-line synthesis (ADR-129) whose
+  the fifteen lines' syntheses, a cross-line synthesis ([ADR-129](ADR-129.md)) whose
   components are those syntheses. It cannot be one now. Its outlines "may
   propose transitions that no existing ARG or CLAIM establishes" (A65), and a
-  synthesis adds nothing (ADR-084). Its fibers are "candidate source spines,
+  synthesis adds nothing ([ADR-084](ADR-084.md)). Its fibers are "candidate source spines,
   not exhaustive dependency closures", so a synthesis built on them would
   leave out in-force components of its scopes. It is filed once each of the
   fifteen lines has a current synthesis, starting with the four lines
-  ADR-tmpd3ckn added.
+  [ADR-tmpd3ckn](ADR-tmpd3ckn.md) added.
 
 ## Alternatives
 
