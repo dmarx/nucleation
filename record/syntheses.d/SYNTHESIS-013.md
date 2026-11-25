@@ -3,7 +3,14 @@ number: 13
 status: Proposed
 formerly:
 - SYNTHESIS-tmp5p7lm
-title: 'An argument''s nucleation threshold is whatever makes a structure persist, relative to identity criteria the record stipulates by decision; addressability, not storage, makes a kept structure something later structure is built on; and being built on is not being productive, which is judged against a target, comparator and horizon the record does not declare for an argument'
+title: 'Addressability, not storage, nucleates argument'
+statement: >-
+  An argument's nucleation threshold is whatever makes a structure persist,
+  relative to identity criteria the record stipulates by decision;
+  addressability, not storage, makes a kept structure something later
+  structure is built on; and being built on is not being productive, which
+  is judged against a target, comparator and horizon the record does not
+  declare for an argument
 version: 1
 defeated_if: >-
   A component misstated or misattributed
@@ -36,7 +43,7 @@ integrates:
 ---
 <!-- inactive-ok-file: ARG-028 CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-013: An argument's nucleation threshold is whatever makes a structure persist, relative to identity criteria the record stipulates by decision; addressability, not storage, makes a kept structure something later structure is built on; and being built on is not being productive, which is judged against a target, comparator and horizon the record does not declare for an argument
+# SYNTHESIS-013: Addressability, not storage, nucleates argument
 
 *A part account of the nucleating-argument line ([ADR-083](../decisions.d/ADR-083.md), version 2); the line's account is built over it and its two sibling parts.*
 

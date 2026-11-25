@@ -3,7 +3,20 @@ number: 82
 status: Proposed
 formerly:
 - SYNTHESIS-tmphb9rl
-title: 'Whether local descriptions make one global one is settled only once the failure is located: the event sheaf always glues, and contextuality is a failure of extension over supports or distributions, which Contextuality-by-Default and the sheaf criterion judge alike until marginals shift; order effects, a sense that differs over disjoint contexts, frames that differ in coordinates and sortings of determinate objects are no failure of gluing, and ambiguity is proposed as several global readings where contextuality has none; passing to distributions creates solutions of a causal loop and never a global section the supports lack; over time intervals viable histories glue and may have no future, while observations that forget a hidden mechanism can fail to glue themselves; and when a coherent family has a realization stays open'
+title: 'Contextuality is failure of extension, not gluing'
+statement: >-
+  Whether local descriptions make one global one is settled only once the
+  failure is located: the event sheaf always glues, and contextuality is a
+  failure of extension over supports or distributions, which
+  Contextuality-by-Default and the sheaf criterion judge alike until
+  marginals shift; order effects, a sense that differs over disjoint
+  contexts, frames that differ in coordinates and sortings of determinate
+  objects are no failure of gluing, and ambiguity is proposed as several
+  global readings where contextuality has none; passing to distributions
+  creates solutions of a causal loop and never a global section the supports
+  lack; over time intervals viable histories glue and may have no future,
+  while observations that forget a hidden mechanism can fail to glue
+  themselves; and when a coherent family has a realization stays open
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -58,7 +71,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-010 CLAIM-073 — Rejected; cited as the inferences and the claim components answer -->
 <!-- inactive-ok-file: SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-082: Whether local descriptions make one global one is settled only once the failure is located: the event sheaf always glues, and contextuality is a failure of extension over supports or distributions, which Contextuality-by-Default and the sheaf criterion judge alike until marginals shift; order effects, a sense that differs over disjoint contexts, frames that differ in coordinates and sortings of determinate objects are no failure of gluing, and ambiguity is proposed as several global readings where contextuality has none; passing to distributions creates solutions of a causal loop and never a global section the supports lack; over time intervals viable histories glue and may have no future, while observations that forget a hidden mechanism can fail to glue themselves; and when a coherent family has a realization stays open
+# SYNTHESIS-082: Contextuality is failure of extension, not gluing
 
 *A part account of the formal-apparatus line ("results that hold whatever
 any substantive line concludes"): the part on sheaves, presheaves, gluing

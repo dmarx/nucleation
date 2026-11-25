@@ -3,7 +3,15 @@ number: 44
 status: Proposed
 formerly:
 - SYNTHESIS-tmpoihy8
-title: 'An organization''s regulatory difficulty is frustration among its maintained demands, an ordinal fact about which sets of them can be jointly met; its perspectives'' activation, tolerance, claims and grants are quantities separate from that fact, so a quiet perspective need not be satisfied and raising a threshold is not relief; and motivational integration is the co-satisfaction of the demands within tolerances the will can recognize'
+title: 'Regulatory difficulty is frustration of demands'
+statement: >-
+  An organization's regulatory difficulty is frustration among its
+  maintained demands, an ordinal fact about which sets of them can be
+  jointly met; its perspectives' activation, tolerance, claims and grants
+  are quantities separate from that fact, so a quiet perspective need not be
+  satisfied and raising a threshold is not relief; and motivational
+  integration is the co-satisfaction of the demands within tolerances the
+  will can recognize
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -65,7 +73,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-049 — Rejected; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-008 — Superseded; components and citations, with their standing (the syntheses among them carry content returned to claims, ADR-084) -->
 
-# SYNTHESIS-044: An organization's regulatory difficulty is frustration among its maintained demands, an ordinal fact about which sets of them can be jointly met; its perspectives' activation, tolerance, claims and grants are quantities separate from that fact, so a quiet perspective need not be satisfied and raising a threshold is not relief; and motivational integration is the co-satisfaction of the demands within tolerances the will can recognize
+# SYNTHESIS-044: Regulatory difficulty is frustration of demands
 
 *A part account of the will-organization line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)); the line's account is built over it. Five of its claims have distributed-agency as their first line, and four organizational-affect or formal-apparatus; [CASE-129](../cases.d/CASE-129.md)'s is authenticity.*
 

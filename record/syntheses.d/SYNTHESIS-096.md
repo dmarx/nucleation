@@ -3,7 +3,18 @@ number: 96
 status: Proposed
 formerly:
 - SYNTHESIS-tmp42cg7
-title: 'What a learned system retains is held relative to its readers, cues, interventions and budgets: the owner''s claim that a disposition is resource-conditional, with coverage under repeated sampling distinct from delivery; the owner''s claim that RL post-training can amortize search into the policy, sharpening or expanding per run; the assistant''s claim that where the training verifier runs at test time RL buys economy and not reach; a construction in which several queries separate readdressing, suppression and deletion and one cancellation no query reveals; and two proposed studies that would separate loss from readdressing, interference, suppression and higher cost'
+title: 'What a learned system retains is reader-relative'
+statement: >-
+  What a learned system retains is held relative to its readers, cues,
+  interventions and budgets: the owner's claim that a disposition is
+  resource-conditional, with coverage under repeated sampling distinct from
+  delivery; the owner's claim that RL post-training can amortize search into
+  the policy, sharpening or expanding per run; the assistant's claim that
+  where the training verifier runs at test time RL buys economy and not
+  reach; a construction in which several queries separate readdressing,
+  suppression and deletion and one cancellation no query reveals; and two
+  proposed studies that would separate loss from readdressing, interference,
+  suppression and higher cost
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -34,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: SYNTHESIS-042 SYNTHESIS-097 CLAIM-698 CLAIM-697 CLAIM-695 CLAIM-699 CASE-271 CASE-274 CASE-275 CLAIM-576 CLAIM-182 TERM-118 THEORY-1880 THEORY-1908 — Proposed; the components, the entries they cite and the decisions this account follows -->
 
-# SYNTHESIS-096: What a learned system retains is held relative to its readers, cues, interventions and budgets: the owner's claim that a disposition is resource-conditional, with coverage under repeated sampling distinct from delivery; the owner's claim that RL post-training can amortize search into the policy, sharpening or expanding per run; the assistant's claim that where the training verifier runs at test time RL buys economy and not reach; a construction in which several queries separate readdressing, suppression and deletion and one cancellation no query reveals; and two proposed studies that would separate loss from readdressing, interference, suppression and higher cost
+# SYNTHESIS-096: What a learned system retains is reader-relative
 
 ## The account
 

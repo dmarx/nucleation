@@ -3,7 +3,20 @@ number: 50
 status: Proposed
 formerly:
 - SYNTHESIS-tmpg8tir
-title: 'Conferral among an organization''s processes is any effect on another''s share of future influence, and a grant is conferral through a maintained relation; how grants are counted and scored decides whether authority tracks reliability or entrenches: an accounting rule can keep an operator''s authority independent of its own grants, trust can be the regularity of grants earned by being right, and when authority is scored against the interpretation it helped make dominant the same loop can amplify an initial advantage without fidelity, which in the linear model only the two-way coupling starts and independent scoring removes; capture runs through the evidence an evaluation receives or the criteria it weighs by, with different remedies, and the standard that would tell capture from merited trust is not supplied'
+title: 'Grant scoring decides if authority entrenches'
+statement: >-
+  Conferral among an organization's processes is any effect on another's
+  share of future influence, and a grant is conferral through a maintained
+  relation; how grants are counted and scored decides whether authority
+  tracks reliability or entrenches: an accounting rule can keep an
+  operator's authority independent of its own grants, trust can be the
+  regularity of grants earned by being right, and when authority is scored
+  against the interpretation it helped make dominant the same loop can
+  amplify an initial advantage without fidelity, which in the linear model
+  only the two-way coupling starts and independent scoring removes; capture
+  runs through the evidence an evaluation receives or the criteria it weighs
+  by, with different remedies, and the standard that would tell capture from
+  merited trust is not supplied
 version: 3
 history:
 - version: 2
@@ -148,7 +161,7 @@ integrates:
 <!-- inactive-ok-file: ARG-042 — Rejected; a component, the verdict on support that CLAIM-520 undercuts -->
 <!-- inactive-ok-file: QUESTION-239 QUESTION-241 QUESTION-253 QUESTION-295 — Answered; components, cited for their answers -->
 
-# SYNTHESIS-050: Conferral among an organization's processes is any effect on another's share of future influence, and a grant is conferral through a maintained relation; how grants are counted and scored decides whether authority tracks reliability or entrenches: an accounting rule can keep an operator's authority independent of its own grants, trust can be the regularity of grants earned by being right, and when authority is scored against the interpretation it helped make dominant the same loop can amplify an initial advantage without fidelity, which in the linear model only the two-way coupling starts and independent scoring removes; capture runs through the evidence an evaluation receives or the criteria it weighs by, with different remedies, and the standard that would tell capture from merited trust is not supplied
+# SYNTHESIS-050: Grant scoring decides if authority entrenches
 
 *A part account of the distributed-agency line ("what an organized whole
 is, and how its operative direction relates to its members'"): the part

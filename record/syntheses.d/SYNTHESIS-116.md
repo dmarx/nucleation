@@ -3,7 +3,13 @@ number: 116
 status: Proposed
 formerly:
 - SYNTHESIS-tmpxuvmn
-title: 'An unresolved discrepancy, read as frustration among maintained demands, is an occasion and a sufficient condition for self-formation, a maintained new distinction or channel that outlasts it and transfers, and not a guarantee of it; the record defines learning more broadly and does not identify the two'
+title: 'Unresolved frustration occasions self-formation'
+statement: >-
+  An unresolved discrepancy, read as frustration among maintained demands,
+  is an occasion and a sufficient condition for self-formation, a maintained
+  new distinction or channel that outlasts it and transfers, and not a
+  guarantee of it; the record defines learning more broadly and does not
+  identify the two
 version: 1
 defeated_if: >-
   A component misstated or misattributed here, with its scope conditions;
@@ -35,7 +41,7 @@ integrates:
 
 <!-- inactive-ok-file: TERM-131 — Proposed or Open; components of this account, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-807 CLAIM-828 CLAIM-837 SYNTHESIS-120 — Proposed or Open; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" and cited in the note of that date -->
-# SYNTHESIS-116: An unresolved discrepancy, read as frustration among maintained demands, is an occasion and a sufficient condition for self-formation, a maintained new distinction or channel that outlasts it and transfers, and not a guarantee of it; the record defines learning more broadly and does not identify the two
+# SYNTHESIS-116: Unresolved frustration occasions self-formation
 
 *A thematic account, across lines, of principle P5 of the owner's manuscript (scratch/manuscripts/from-obstruction-to-reorganization/, §7.1, on its own branch). Filed at the owner's direction on 2026-11-20 after an independent reader's audit found the principle to be a conjunction of entries the record holds rather than a claim with content of its own ([ADR-075](../decisions.d/ADR-075.md), step 5; workbench entry of this date). It adds nothing; its standing is its components'. Its scope is a theme, not a line or a part of one, which [ADR-083](../decisions.d/ADR-083.md)'s one account per scope does not anticipate.*
 

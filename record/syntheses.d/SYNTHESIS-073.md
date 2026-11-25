@@ -3,7 +3,15 @@ number: 73
 status: Proposed
 formerly:
 - SYNTHESIS-tmp2gov9
-title: 'Granger causality and transfer entropy are predictive quantities relative to a stated information set: complete measurement is not enough for an interventional reading, Granger causation from a macro variable to its micro base has no intervention to stand for, transfer entropy adds synergy to unique information and so is not flow from the source alone, and a ΦID verdict on three or more parts rests on which axiom of redundancy is dropped'
+title: 'Granger and transfer entropy are only predictive'
+statement: >-
+  Granger causality and transfer entropy are predictive quantities relative
+  to a stated information set: complete measurement is not enough for an
+  interventional reading, Granger causation from a macro variable to its
+  micro base has no intervention to stand for, transfer entropy adds synergy
+  to unique information and so is not flow from the source alone, and a ΦID
+  verdict on three or more parts rests on which axiom of redundancy is
+  dropped
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -31,7 +39,7 @@ integrates:
 <!-- inactive-ok-file: SYNTHESIS-075 SYNTHESIS-079 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: THEORY-2187 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# SYNTHESIS-073: Granger causality and transfer entropy are predictive quantities relative to a stated information set: complete measurement is not enough for an interventional reading, Granger causation from a macro variable to its micro base has no intervention to stand for, transfer entropy adds synergy to unique information and so is not flow from the source alone, and a ΦID verdict on three or more parts rests on which axiom of redundancy is dropped
+# SYNTHESIS-073: Granger and transfer entropy are only predictive
 
 *A part account of the formal-apparatus line: one of the line's eleven
 small clusters, six entries, all first in formal-apparatus, filed from

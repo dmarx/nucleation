@@ -63,7 +63,16 @@ history:
     directly, in a new section, since its scope is none of the six parts'.
     The summary's count of entries integrated directly changes from ten to
     eleven. The title is unchanged.
-title: 'The dependence-and-domination line is six accounts: what wholes and parts owe and claim; what those who govern an arrangement others depend on owe; responsibility for another''s conditions, and moral exploitation; restricting capabilities, and who controls the terms of waiting and contracting; remedies foreclosed before review; and answerability and contestability; the parts meet mostly where the later four use the first part''s term for domination and point at its claims on control of terms, and the line makes no claim beyond its parts'
+title: 'Dependence-and-domination: six parts, no more'
+statement: >-
+  The dependence-and-domination line is six accounts: what wholes and parts
+  owe and claim; what those who govern an arrangement others depend on owe;
+  responsibility for another's conditions, and moral exploitation;
+  restricting capabilities, and who controls the terms of waiting and
+  contracting; remedies foreclosed before review; and answerability and
+  contestability; the parts meet mostly where the later four use the first
+  part's term for domination and point at its claims on control of terms,
+  and the line makes no claim beyond its parts
 defeated_if: >-
   A part account or component misstated or misattributed here, a
   component's declared sense of "organization" (TERM-074) among what can
@@ -140,7 +149,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-103 ARG-110 ARG-113 ARG-115 ARG-116 ARG-117 CASE-256 CASE-257 CASE-261 CASE-264 CASE-279 CASE-281 CASE-282 CASE-285 CASE-286 CASE-287 CASE-288 CASE-289 CASE-290 CLAIM-423 CLAIM-428 CLAIM-445 CLAIM-478 CLAIM-603 CLAIM-619 CLAIM-624 CLAIM-669 CLAIM-670 CLAIM-671 CLAIM-682 CLAIM-684 CLAIM-685 CLAIM-690 CLAIM-700 CLAIM-701 CLAIM-702 CLAIM-707 CLAIM-708 CLAIM-709 CLAIM-710 CLAIM-713 CLAIM-715 CLAIM-720 CLAIM-721 CLAIM-722 CLAIM-723 CLAIM-724 CLAIM-726 CLAIM-728 CLAIM-730 CLAIM-731 CLAIM-732 CLAIM-734 CLAIM-736 CLAIM-737 CLAIM-739 CLAIM-743 CLAIM-744 CLAIM-745 CLAIM-746 CLAIM-747 CLAIM-748 SYNTHESIS-038 SYNTHESIS-091 SYNTHESIS-092 SYNTHESIS-093 SYNTHESIS-098 SYNTHESIS-099 SYNTHESIS-101 SYNTHESIS-102 SYNTHESIS-103 TERM-122 TERM-123 TERM-124 TERM-126 TERM-129 TERM-130 THEORY-1917 THEORY-1947 THEORY-1957 THEORY-1959 THEORY-1972 — Proposed; components, citations and the readings that support them, with their standing -->
 <!-- inactive-ok-file: ARG-099 — Rejected; cited with its standing -->
 
-# SYNTHESIS-095: The dependence-and-domination line is six accounts: what wholes and parts owe and claim; what those who govern an arrangement others depend on owe; responsibility for another's conditions, and moral exploitation; restricting capabilities, and who controls the terms of waiting and contracting; remedies foreclosed before review; and answerability and contestability; the parts meet mostly where the later four use the first part's term for domination and point at its claims on control of terms, and the line makes no claim beyond its parts
+# SYNTHESIS-095: Dependence-and-domination: six parts, no more
 
 *The account of the dependence-and-domination line, "Wholes, parts and dependence", split from organizational-normativity ([ADR-100](../decisions.d/ADR-100.md)) at the owner's approval of 2026-11-15 ("yes on the two line split"). It is a line account over the accounts of its parts ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)). Version 1 had two parts. Version 2 (2026-11-17) adds the four filed at the interim synthesis review of that day, after the filing of the exchange "Assess Depp Heard Abuse" (the curation entry of 2026-11-17, 20:57:46). Version 3 (2026-11-18) follows the readings of that exchange's works and the reconciliation of its two filings; the four later part accounts were revised with it, and the readings are cited by the part accounts as the support each component has, by the THEORY that carries the relation. "Organization" is [TERM-074](../terms.d/TERM-074.md)'s sense 1, a relational arrangement, by default, and the bearer of an obligation is kept apart from its ground; each part account says which sense each component declares, and assigns none where a component declares none. Every link below is attributed to the part account or component that states it.*
 

@@ -3,7 +3,16 @@ number: 119
 status: Proposed
 formerly:
 - SYNTHESIS-tmp69tyj
-title: "In the record, a power law does not identify its mechanism: many routes produce one, each read from its dynamics, criticality among them; chaos, criticality and a cascade through scales come apart, as do scale invariance, dependence across scales and a heavy-tailed marginal; the owner's bulk-and-tail conjecture is held in two readings, of which only a separation of scales fits a continuous transition approached from below; and what survives a change of scale is counted by several effective dimensions whose agreement is open"
+title: 'A power law does not identify its mechanism'
+statement: >-
+  In the record, a power law does not identify its mechanism: many routes
+  produce one, each read from its dynamics, criticality among them; chaos,
+  criticality and a cascade through scales come apart, as do scale
+  invariance, dependence across scales and a heavy-tailed marginal; the
+  owner's bulk-and-tail conjecture is held in two readings, of which only a
+  separation of scales fits a continuous transition approached from below;
+  and what survives a change of scale is counted by several effective
+  dimensions whose agreement is open
 version: 2
 history:
 - version: 2
@@ -96,7 +105,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-2150 — Proposed; the reading of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2176 THEORY-2175 THEORY-2177 CLAIM-857 — Proposed; the readings of 2026-11-22 and the assistant's condition on the spread -->
 
-# SYNTHESIS-119: In the record, a power law does not identify its mechanism: many routes produce one, each read from its dynamics, criticality among them; chaos, criticality and a cascade through scales come apart, as do scale invariance, dependence across scales and a heavy-tailed marginal; the owner's bulk-and-tail conjecture is held in two readings, of which only a separation of scales fits a continuous transition approached from below; and what survives a change of scale is counted by several effective dimensions whose agreement is open
+# SYNTHESIS-119: A power law does not identify its mechanism
 
 *A part account of the formal-apparatus line: what the record holds on power laws, scale-free behaviour and criticality. Filed from the synthesis audit of the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21; [ADR-075](../decisions.d/ADR-075.md) step 5, [ADR-131](../decisions.d/ADR-131.md)). It maps A's syntheses at A1 §7, A3 §6–7, A5's close, A7 §5, A8 §8, A10 §8–9, A12 §9, A13 §8–9, A15 §10, A17 §10–11, A19 §8–10, A21 §9–10, A23 §9–10, A24 §8 and close, A26 §8–9 and A27 §8–10 onto the entries filed from that exchange and the held entries they bear on. No held account covered this scope. The line's account, [SYNTHESIS-088](SYNTHESIS-088.md), predates these entries; integrating this part is for its next review. The neighbouring parts on effective descriptions ([SYNTHESIS-075](SYNTHESIS-075.md)) and on coarse-graining criteria against renormalization ([SYNTHESIS-084](SYNTHESIS-084.md)) integrate none of these components. It adds nothing; its standing is its components'.*
 

@@ -3,7 +3,13 @@ number: 14
 status: Proposed
 formerly:
 - SYNTHESIS-tmp7nvem
-title: 'In the record''s exchanges with collaborators who keep no memory, the argument loses the identity of what was said: observed across six exchanges, Proposed in general, and read three ways, as retrieval failure outside a critical distance, as transport toward the collaborators'' framings, and as a whole''s course coming apart from its members'''
+title: 'Memoryless exchanges lose what was said'
+statement: >-
+  In the record's exchanges with collaborators who keep no memory, the
+  argument loses the identity of what was said: observed across six
+  exchanges, Proposed in general, and read three ways, as retrieval failure
+  outside a critical distance, as transport toward the collaborators'
+  framings, and as a whole's course coming apart from its members'
 version: 1
 defeated_if: >-
   A component misstated or misattributed
@@ -33,7 +39,7 @@ integrates:
 ---
 <!-- inactive-ok-file: CLAIM-178 CLAIM-180 CLAIM-182 CLAIM-185 CLAIM-191 CLAIM-192 CLAIM-483 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-014: In the record's exchanges with collaborators who keep no memory, the argument loses the identity of what was said: observed across six exchanges, Proposed in general, and read three ways, as retrieval failure outside a critical distance, as transport toward the collaborators' framings, and as a whole's course coming apart from its members'
+# SYNTHESIS-014: Memoryless exchanges lose what was said
 
 *A part account of the nucleating-argument line ([ADR-083](../decisions.d/ADR-083.md), version 2); the line's account is built over it and its two sibling parts.*
 

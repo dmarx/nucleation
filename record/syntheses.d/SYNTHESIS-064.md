@@ -3,7 +3,17 @@ number: 64
 status: Proposed
 formerly:
 - SYNTHESIS-tmpdk9nd
-title: 'Fidelity is relative to receivers and tasks: Blackwell''s order on rendering procedures sets the ceiling a rendering puts on report decisions, a bounded receiver''s usable information can rise under a garbling but never above that ceiling, the record''s directed decision term measures the ceiling and the line''s measures each see only part of a rendering, fidelity is a graded profile that only a task''s weighting ranks, a receiver''s learning history and access make fidelity a different quantity for different receivers, and what survives is fixed by the receivers while what can be shown to survive is the analyst''s'
+title: 'Fidelity is relative to receivers and tasks'
+statement: >-
+  Fidelity is relative to receivers and tasks: Blackwell's order on
+  rendering procedures sets the ceiling a rendering puts on report
+  decisions, a bounded receiver's usable information can rise under a
+  garbling but never above that ceiling, the record's directed decision term
+  measures the ceiling and the line's measures each see only part of a
+  rendering, fidelity is a graded profile that only a task's weighting
+  ranks, a receiver's learning history and access make fidelity a different
+  quantity for different receivers, and what survives is fixed by the
+  receivers while what can be shown to survive is the analyst's
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -120,7 +130,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded; cited as the theses the components answer, not integrated -->
 <!-- inactive-ok-file: QUESTION-249 — Answered; cited with its standing -->
 
-# SYNTHESIS-064: Fidelity is relative to receivers and tasks: Blackwell's order on rendering procedures sets the ceiling a rendering puts on report decisions, a bounded receiver's usable information can rise under a garbling but never above that ceiling, the record's directed decision term measures the ceiling and the line's measures each see only part of a rendering, fidelity is a graded profile that only a task's weighting ranks, a receiver's learning history and access make fidelity a different quantity for different receivers, and what survives is fixed by the receivers while what can be shown to survive is the analyst's
+# SYNTHESIS-064: Fidelity is relative to receivers and tasks
 
 *A part account of the pragmatic-transport line: the part the mechanical
 map of 2026-11-11 put together on fidelity relative to receivers,

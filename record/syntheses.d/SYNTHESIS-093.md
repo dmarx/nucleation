@@ -14,7 +14,17 @@ history:
     of that line, whose account is SYNTHESIS-095. Its line,
     defeater, summary and introduction change to say so; its
     components and the links it states are unchanged.
-title: "What is owed by those who govern an arrangement others depend on, and whether the capacity to govern it survives: power over it has separable dimensions, the burden of justifying a choice is proposed to rise with how much and how durably it narrows later possibilities, accountability with how indispensable the arrangement has become, an arrangement can erode the capacities that govern it, a collective's capacity to decline a technology can lie in coordination among rivals, and institutions that revise their standards are predicted to fail less where inherited standards are inadequate"
+title: 'Duties of governing what others depend on'
+statement: >-
+  What is owed by those who govern an arrangement others depend on, and
+  whether the capacity to govern it survives: power over it has separable
+  dimensions, the burden of justifying a choice is proposed to rise with how
+  much and how durably it narrows later possibilities, accountability with
+  how indispensable the arrangement has become, an arrangement can erode the
+  capacities that govern it, a collective's capacity to decline a technology
+  can lie in coordination among rivals, and institutions that revise their
+  standards are predicted to fail less where inherited standards are
+  inadequate
 defeated_if: >-
   A component misstated or misattributed here, its declared sense of
   "organization" (TERM-074) among what can be misstated; an in-force
@@ -68,7 +78,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-677 CLAIM-682 CLAIM-684 CLAIM-685 CLAIM-624 CLAIM-667 CLAIM-545 TERM-122 ARG-103 THEORY-1859 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: TERM-012 — Deferred; the definition TERM-122 rivals, set aside -->
 
-# SYNTHESIS-093: What is owed by those who govern an arrangement others depend on, and whether the capacity to govern it survives: power over it has separable dimensions, the burden of justifying a choice is proposed to rise with how much and how durably it narrows later possibilities, accountability with how indispensable the arrangement has become, an arrangement can erode the capacities that govern it, a collective's capacity to decline a technology can lie in coordination among rivals, and institutions that revise their standards are predicted to fail less where inherited standards are inadequate
+# SYNTHESIS-093: Duties of governing what others depend on
 
 *A part account of the dependence-and-domination line ("Wholes, parts and dependence"), filed at the synthesis review of organizational-normativity on 2026-11-15. It was then a part of that line, whose account, [SYNTHESIS-038](SYNTHESIS-038.md), was built over it and three sibling parts. Since the split of organizational-normativity ([ADR-100](../decisions.d/ADR-100.md)) it is a part of the new line, whose account, [SYNTHESIS-095](SYNTHESIS-095.md), is built over it and [SYNTHESIS-092](SYNTHESIS-092.md). Every component is new to any account. The part hangs together by its source more than by its relations: of its members' stored relations two point inside it, and most point to claims in other lines ([CLAIM-677](../claims.d/CLAIM-677.md), [CLAIM-605](../claims.d/CLAIM-605.md), [CLAIM-457](../claims.d/CLAIM-457.md), [CLAIM-667](../claims.d/CLAIM-667.md), [CLAIM-403](../claims.d/CLAIM-403.md), [CLAIM-523](../claims.d/CLAIM-523.md)). Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so.*
 

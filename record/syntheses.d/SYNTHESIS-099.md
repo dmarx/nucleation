@@ -39,7 +39,14 @@ history:
     counts three questions, the paragraph that described it now cites
     it, and its Arm B and Not-stated entries stay as citations. No
     other change.
-title: "Responsibility for another's conditions, and moral exploitation: who harmed whom is kept apart from who dominated whom, arranging another's wrong is proposed as a wrong of its own and its true accusation as an instrument of further control, an agent can be governed through its own sound values, and an arrangement can be carried by its members' commitments, credited with what they supply and blame them when it fails"
+title: 'Who harmed whom is not who dominated whom'
+statement: >-
+  Responsibility for another's conditions, and moral exploitation: who
+  harmed whom is kept apart from who dominated whom, arranging another's
+  wrong is proposed as a wrong of its own and its true accusation as an
+  instrument of further control, an agent can be governed through its own
+  sound values, and an arrangement can be carried by its members'
+  commitments, credited with what they supply and blame them when it fails
 defeated_if: >-
   A component misstated or misattributed here, its voice or its status
   among what can be misstated, or a reading's relation to it told wrongly
@@ -110,7 +117,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-113 ARG-115 CASE-279 CASE-288 CASE-290 CASE-292 CLAIM-445 CLAIM-553 CLAIM-614 CLAIM-619 CLAIM-624 CLAIM-669 CLAIM-690 CLAIM-700 CLAIM-701 CLAIM-702 CLAIM-707 CLAIM-708 CLAIM-709 CLAIM-710 CLAIM-712 CLAIM-713 CLAIM-715 CLAIM-721 CLAIM-726 CLAIM-728 SYNTHESIS-098 SYNTHESIS-101 TERM-110 TERM-123 TERM-124 TERM-127 THEORY-1397 THEORY-1912 THEORY-1914 THEORY-1916 THEORY-1917 THEORY-1919 THEORY-1921 THEORY-1922 THEORY-1925 THEORY-1926 THEORY-1928 THEORY-1929 THEORY-1931 THEORY-1932 THEORY-1933 THEORY-1935 THEORY-1937 THEORY-1939 THEORY-1943 THEORY-1946 THEORY-1948 THEORY-1949 THEORY-1958 THEORY-1961 THEORY-1973 THEORY-1986 THEORY-1987 THEORY-1991 THEORY-1993 — Proposed; components, citations and the readings that support them, with their standing -->
 
-# SYNTHESIS-099: Responsibility for another's conditions, and moral exploitation: who harmed whom is kept apart from who dominated whom, arranging another's wrong is proposed as a wrong of its own and its true accusation as an instrument of further control, an agent can be governed through its own sound values, and an arrangement can be carried by its members' commitments, credited with what they supply and blame them when it fails
+# SYNTHESIS-099: Who harmed whom is not who dominated whom
 
 *A part account of the dependence-and-domination line. Version 1 was filed at the interim synthesis review of 2026-11-17, before the readings and before the two filings of the exchange "Assess Depp Heard Abuse" were reconciled. Version 2 is the follow-up review of 2026-11-18. The first filing (pull request 510, the first share, U1–U17 and A1–A35) and the continuation's (pull request 512, the later share) filed several of these ideas twice; at the reconciliation the first filing's entries kept their codes and took what the continuation's added (the curation entry of 2026-11-17, 20:57:46, its reconciliation section). Each component below is described as it now stands, with the filing each part of it comes from. The readings of 2026-11-16 (the first filing's) and of 2026-11-17 (filed on 2026-11-18) are cited as the support each component has, by the THEORY that carries the relation; a reading is not a component. Where a component cites another, the account says which entry does.*
 

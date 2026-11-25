@@ -3,7 +3,19 @@ number: 49
 status: Proposed
 formerly:
 - SYNTHESIS-tmp8lbdb
-title: 'The distributed-agency line is ten part accounts, of conferral and authority, of availability before a deadline, of partners coming to depend on one another, of perspectives, legibility and correction, of the unit of a combined form, of individuation, of frustration among demands, of persistence, of world-modeling and of collective stance, with twenty-two entries integrated directly; conferral, frustration and perspectives are joined by complements over self-confirming authority and what a legibility regime admits, unit and individuation by the boundary test and its objection, and persistence by the slow variable and the senses of persistence; no link between the parts that no part states passes the claim test'
+title: 'Distributed agency: ten parts, no further claim'
+statement: >-
+  The distributed-agency line is ten part accounts, of conferral and
+  authority, of availability before a deadline, of partners coming to depend
+  on one another, of perspectives, legibility and correction, of the unit of
+  a combined form, of individuation, of frustration among demands, of
+  persistence, of world-modeling and of collective stance, with twenty-two
+  entries integrated directly; conferral, frustration and perspectives are
+  joined by complements over self-confirming authority and what a legibility
+  regime admits, unit and individuation by the boundary test and its
+  objection, and persistence by the slow variable and the senses of
+  persistence; no link between the parts that no part states passes the
+  claim test
 version: 3
 history:
 - version: 2
@@ -105,7 +117,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-295 — Answered; cited as it refines QUESTION-083 -->
 <!-- inactive-ok-file: CASE-028 — Superseded by CASE-006; named as not integrated -->
 
-# SYNTHESIS-049: The distributed-agency line is ten part accounts, of conferral and authority, of availability before a deadline, of partners coming to depend on one another, of perspectives, legibility and correction, of the unit of a combined form, of individuation, of frustration among demands, of persistence, of world-modeling and of collective stance, with twenty-two entries integrated directly; conferral, frustration and perspectives are joined by complements over self-confirming authority and what a legibility regime admits, unit and individuation by the boundary test and its objection, and persistence by the slow variable and the senses of persistence; no link between the parts that no part states passes the claim test
+# SYNTHESIS-049: Distributed agency: ten parts, no further claim
 
 *The account of the distributed-agency line ("Distributed agency": what an organized whole is, and how its operative direction relates to its members'), over the accounts of its parts ([ADR-083](../decisions.d/ADR-083.md)). It
 integrates every entry whose `line` includes distributed-agency on

@@ -3,7 +3,17 @@ number: 67
 status: Proposed
 formerly:
 - SYNTHESIS-tmplxxfq
-title: 'Along a chain of reconstructions, per-step discrepancies weighted by later sensitivity bound the departure from a reference transport but give no testable prediction and do not say whether the act survives, which a reorganized constraint or a phase change can decide; approximate transports compose additively only under a triangle inequality and nonexpansive kernels; a chain can forget its start while staying far from the original; and attraction toward conventional stances, filtered by the transmitters'' biases, is proposed, with chain evidence for evaluative stance only'
+title: 'Chain bounds give no test of the act''s survival'
+statement: >-
+  Along a chain of reconstructions, per-step discrepancies weighted by later
+  sensitivity bound the departure from a reference transport but give no
+  testable prediction and do not say whether the act survives, which a
+  reorganized constraint or a phase change can decide; approximate
+  transports compose additively only under a triangle inequality and
+  nonexpansive kernels; a chain can forget its start while staying far from
+  the original; and attraction toward conventional stances, filtered by the
+  transmitters' biases, is proposed, with chain evidence for evaluative
+  stance only
 version: 2
 history:
 - version: 2
@@ -50,7 +60,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-066 CLAIM-234 — Superseded; cited as the claims two components were moved from, and the history one answers -->
 <!-- inactive-ok-file: QUESTION-293 — Answered; cited with its standing -->
 
-# SYNTHESIS-067: Along a chain of reconstructions, per-step discrepancies weighted by later sensitivity bound the departure from a reference transport but give no testable prediction and do not say whether the act survives, which a reorganized constraint or a phase change can decide; approximate transports compose additively only under a triangle inequality and nonexpansive kernels; a chain can forget its start while staying far from the original; and attraction toward conventional stances, filtered by the transmitters' biases, is proposed, with chain evidence for evaluative stance only
+# SYNTHESIS-067: Chain bounds give no test of the act's survival
 
 *A part account of the pragmatic-transport line ("Contextual pragmatic
 information transport"): the part on repeated reconstruction chains, drift

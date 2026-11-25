@@ -3,7 +3,16 @@ number: 21
 status: Proposed
 formerly:
 - SYNTHESIS-tmpic4aw
-title: 'The organizational-affect line is three accounts joined at the potential account of valence: what valence is in an organization, a persistent potential of its perspectives'' negotiation; what affect a corporation can bear and what that does to the line between remorse and prudence; and when such a regime is felt and whose it is taken to be; the account of valence rests on the functional thesis about corporate affect, the account of feeling rests on the account of valence, and the line makes no claim beyond its parts'
+title: 'Organizational affect: three accounts on valence'
+statement: >-
+  The organizational-affect line is three accounts joined at the potential
+  account of valence: what valence is in an organization, a persistent
+  potential of its perspectives' negotiation; what affect a corporation can
+  bear and what that does to the line between remorse and prudence; and when
+  such a regime is felt and whose it is taken to be; the account of valence
+  rests on the functional thesis about corporate affect, the account of
+  feeling rests on the account of valence, and the line makes no claim
+  beyond its parts
 version: 2
 history:
 - version: 2
@@ -47,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-003 — Proposed; a component of a part, reopened on 2026-11-11 -->
 <!-- inactive-ok-file: QUESTION-019 — Superseded; a component of SYNTHESIS-018, replaced by QUESTION-015 -->
 
-# SYNTHESIS-021: The organizational-affect line is three accounts joined at the potential account of valence: what valence is in an organization, a persistent potential of its perspectives' negotiation; what affect a corporation can bear and what that does to the line between remorse and prudence; and when such a regime is felt and whose it is taken to be; the account of valence rests on the functional thesis about corporate affect, the account of feeling rests on the account of valence, and the line makes no claim beyond its parts
+# SYNTHESIS-021: Organizational affect: three accounts on valence
 
 *The account of the organizational-affect line, over the accounts of its three parts ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)). The line was set aside on 2026-10-04 and reopened by the owner on 2026-10-23 ([CLAIM-039](../claims.d/CLAIM-039.md)'s note of that date); the reviews of 2026-11-07 found it had no account (curation entry of 2026-11-07, 170741).*
 

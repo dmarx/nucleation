@@ -3,7 +3,14 @@ number: 117
 status: Proposed
 formerly:
 - SYNTHESIS-tmpl9gor
-title: 'The flourishing line holds that neither preference satisfaction, the outcome assistance delivers now, nor a capability set at one moment measures how the lives an arrangement leaves open go; that worth is judged fallibly, so institutions may cultivate it but not impose it; and that whether a standard joining capability, worth and non-domination can fail stays open'
+title: 'No present measure shows how open lives will go'
+statement: >-
+  The flourishing line holds that neither preference satisfaction, the
+  outcome assistance delivers now, nor a capability set at one moment
+  measures how the lives an arrangement leaves open go; that worth is judged
+  fallibly, so institutions may cultivate it but not impose it; and that
+  whether a standard joining capability, worth and non-domination can fail
+  stays open
 version: 1
 defeated_if: >-
   A component misstated or misattributed here, its voice, status or
@@ -60,7 +67,7 @@ summary: >-
   nothing; its standing is its components'.
 ---
 <!-- inactive-ok-file: CLAIM-677 CLAIM-680 CLAIM-681 CLAIM-683 CLAIM-753 ARG-102 ARG-105 ARG-106 ARG-108 CASE-263 TERM-120 — Proposed or Open; components of this account, cited with their standing -->
-# SYNTHESIS-117: The flourishing line holds that neither preference satisfaction, the outcome assistance delivers now, nor a capability set at one moment measures how the lives an arrangement leaves open go; that worth is judged fallibly, so institutions may cultivate it but not impose it; and that whether a standard joining capability, worth and non-domination can fail stays open
+# SYNTHESIS-117: No present measure shows how open lives will go
 
 *An account of the line flourishing-and-meaning, "what makes a life go well for the one living it and what makes it meaningful" (its blurb, [ADR-099](../decisions.d/ADR-099.md)). It maps every in-force entry of the line and adds nothing ([ADR-084](../decisions.d/ADR-084.md)). Most of the line was filed from A's turns in the exchange "Analyze technological civilization trap" (2026-11-13), and where a component says "the wording is A's; adopting it is the owner's call", that holds here too.*
 

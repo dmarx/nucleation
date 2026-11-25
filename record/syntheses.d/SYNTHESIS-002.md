@@ -3,7 +3,14 @@ number: 2
 status: Superseded
 formerly:
 - SYNTHESIS-tmp73anp
-title: 'The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative'
+title: 'The wrong beyond violation breaches answerability'
+statement: >-
+  The wrong beyond violation that an organization commits by reproducing
+  representations and allocations of authority that keep a justified
+  standard from constraining it is a breach of a second-order duty of
+  answerability: to maintain feasible means for relevant violations to
+  become knowable, contestable and correctable; it is a verdict only given
+  an independently justified standard and a feasible alternative
 version: 3
 history:
 - version: 1
@@ -92,7 +99,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-229 ARG-055 — filed from A's review of the pull request, Proposed; the matched-harm construction and the argument from it -->
 <!-- inactive-ok-file: CLAIM-445 CLAIM-511 CLAIM-545 SYNTHESIS-007 CLAIM-472 THEORY-145 TERM-083 QUESTION-068 — Proposed, Deferred or Superseded; components and boundaries, cited with their standing -->
 
-# SYNTHESIS-002: The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative
+# SYNTHESIS-002: The wrong beyond violation breaches answerability
 
 *Moved from [CLAIM-624](../claims.d/CLAIM-624.md), where its development up to version 4 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 
