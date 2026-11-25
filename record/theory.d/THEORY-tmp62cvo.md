@@ -19,14 +19,14 @@ source:
 corroborates:
 - CLAIM-949
 summary: >-
-  Martin-Löf (1984), LIT-tmphxyqk, read in NOTE-tmp60upv for LEAD-215
+  Martin-Löf (1984), [LIT-tmphxyqk](../literature.d/LIT-tmphxyqk.md), read in [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md) for [LEAD-215](../leads.d/LEAD-215.md)
   from a course-hosted scan, Skimmed. The source of the propositions-as-sets
   reading and of the table that reads an element as a program "which meets
-  the specification A" (p. 6). It corroborates CLAIM-949's correspondences
+  the specification A" (p. 6). It corroborates [CLAIM-949](../claims.d/CLAIM-949.md)'s correspondences
   of a question with a problem, a realization with an inhabitant carried
   with its evidence, and a descriptor with a refinement inhabited
-  (ARG-tmpl0sxy, ARG-tmpneexr); it narrows the claim that a question's
-  revision is a change of type handled by universes (ARG-tmppv3b8). It does
+  ([ARG-tmpl0sxy](../arguments.d/ARG-tmpl0sxy.md), [ARG-tmpneexr](../arguments.d/ARG-tmpneexr.md)); it narrows the claim that a question's
+  revision is a change of type handled by universes ([ARG-tmppv3b8](../arguments.d/ARG-tmppv3b8.md)). It does
   not bear on the direction of fit as inference against checking.
   Proposed until a model shows the meaning explanations consistent.
 ---
@@ -36,8 +36,8 @@ summary: >-
 
 ## Source
 
-Martin-Löf (1984), LIT-tmphxyqk, notes by Giovanni Sambin of the Padua
-lectures of June 1980; read in NOTE-tmp60upv from a scan of the typescript
+Martin-Löf (1984), [LIT-tmphxyqk](../literature.d/LIT-tmphxyqk.md), notes by Giovanni Sambin of the Padua
+lectures of June 1980; read in [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md) from a scan of the typescript
 (pp. i–54, 64, 69–70 and 87–91 closely, pp. 55–86 skimmed).
 
 ## The account
@@ -90,13 +90,13 @@ set over a base set already given (p. 53).
 
 ## Bearing
 
-It corroborates CLAIM-949 in three correspondences: a question as a
+It corroborates [CLAIM-949](../claims.d/CLAIM-949.md) in three correspondences: a question as a
 problem, a realization as an inhabitant carried with the evidence that it
 passes, and a descriptor as a refinement the entry inhabits, here with the
 evidence carried, which none of the refinement systems read under
-LEAD-215 does (ARG-tmpl0sxy, ARG-tmpneexr). It narrows the fourth, a
+[LEAD-215](../leads.d/LEAD-215.md) does ([ARG-tmpl0sxy](../arguments.d/ARG-tmpl0sxy.md), [ARG-tmpneexr](../arguments.d/ARG-tmpneexr.md)). It narrows the fourth, a
 question's revision as a change of type handled by universes, to the
-revisions a universe already codes (ARG-tmppv3b8). It qualifies TERM-152
-(CLAIM-tmpjs6hp) and gives CLAIM-949's defeater (a) a test
-(CLAIM-tmp01pyt). It sharpens TERM-153 and TERM-154, and parallels
-CLAIM-783's witness argument with the certificate carried.
+revisions a universe already codes ([ARG-tmppv3b8](../arguments.d/ARG-tmppv3b8.md)). It qualifies [TERM-152](../terms.d/TERM-152.md)
+([CLAIM-tmpjs6hp](../claims.d/CLAIM-tmpjs6hp.md)) and gives [CLAIM-949](../claims.d/CLAIM-949.md)'s defeater (a) a test
+([CLAIM-tmp01pyt](../claims.d/CLAIM-tmp01pyt.md)). It sharpens [TERM-153](../terms.d/TERM-153.md) and [TERM-154](../terms.d/TERM-154.md), and parallels
+[CLAIM-783](../claims.d/CLAIM-783.md)'s witness argument with the certificate carried.

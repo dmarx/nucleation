@@ -188,13 +188,13 @@ reach transfinite types.
 
 ## Bearing on the record
 
-The reading is THEORY-tmp62cvo. For LEAD-215's five questions:
+The reading is [THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md). For [LEAD-215](../leads.d/LEAD-215.md)'s five questions:
 
 - **(a) Types as problems or specifications, their elements as solutions or
-  realizations: borne out in the text** (ARG-tmpl0sxy). The fourth reading of the table
+  realizations: borne out in the text** ([ARG-tmpl0sxy](../arguments.d/ARG-tmpl0sxy.md)). The fourth reading of the table
   is the problem and its solution, and the book itself writes "a program
   ... which meets the specification A" (p. 6), and "a method of fulfilling
-  (realizing) the intention" (p. 5). CLAIM-949's "Martin-Löf's types are
+  (realizing) the intention" (p. 5). [CLAIM-949](../claims.d/CLAIM-949.md)'s "Martin-Löf's types are
   the same reading" as Kolmogorov's holds with one difference: Martin-Löf
   makes the problem one of four readings of a single form of judgement,
   where Kolmogorov, as the reading in pull request 708 reports, keeps
@@ -203,57 +203,57 @@ The reading is THEORY-tmp62cvo. For LEAD-215's five questions:
   proofs.** A proposition is the set of its proofs (p. 13); "A true"
   abbreviates "a ∈ A for some a" and is used when "we don't care about
   what its proof (construction) is" (p. 33), which is impossible when what
-  follows depends on the proof (p. 47). That is the test CLAIM-949's
+  follows depends on the proof (p. 47). That is the test [CLAIM-949](../claims.d/CLAIM-949.md)'s
   defeater (a) needs: the record is proof-relevant where a later step uses
-  the evidence and not only the fact of passing (CLAIM-tmp01pyt, filed
+  the evidence and not only the fact of passing ([CLAIM-tmp01pyt](../claims.d/CLAIM-tmp01pyt.md), filed
   from this reading).
-- **(c) The judgement forms against TERM-152: tracks it, with a
+- **(c) The judgement forms against [TERM-152](../terms.d/TERM-152.md): tracks it, with a
   qualification.** "a ∈ A" and "A set" are realization and specification
   in the book's own fourth reading, and "a ∈ A presupposes that A is a set"
   (p. 5): a realization is judged only against a specification already
   formed. But a Martin-Löf set is fixed by how its canonical elements are
-  formed (p. 8), not by tests on candidates. TERM-152's specification, a
+  formed (p. 8), not by tests on candidates. [TERM-152](../terms.d/TERM-152.md)'s specification, a
   set of tests and whatever passes them all, is in his terms the set of
   a ∈ A such that B(a), a Σ over a base set (p. 53), or, without a base
-  set, a category, which is not a set (p. 21). See CLAIM-tmpjs6hp,
+  set, a category, which is not a set (p. 21). See [CLAIM-tmpjs6hp](../claims.d/CLAIM-tmpjs6hp.md),
   filed from this reading.
 - **(d) Universes and the revision of a question: narrowed.** A universe
   lets a type be computed: a family of sets over N defined by recursion
   into U (p. 91). So a change among types the universe codes is an element
-  of a set, as CLAIM-949 says. But a universe is "the least set closed
+  of a set, as [CLAIM-949](../claims.d/CLAIM-949.md) says. But a universe is "the least set closed
   under certain specified set forming operations", and there can be no
   set of all sets "because we are not able to exhibit once and for all all
   possible set forming operations" (p. 87). A revision that brings in a new
   form of set lies outside the universe and needs the next one, U′, or the
-  open category of sets. That divides CLAIM-470's revisions: choice among
+  open category of sets. That divides [CLAIM-470](../claims.d/CLAIM-470.md)'s revisions: choice among
   answer spaces already admitted is computation in a universe, the
   outcome its defeater (a) names, while revision of what an answer could
-  be is the step from a universe to the open category (ARG-tmppv3b8,
+  be is the step from a universe to the open category ([ARG-tmppv3b8](../arguments.d/ARG-tmppv3b8.md),
   filed from this reading).
-- **(e) Σ as witness and evidence: borne out, and stronger than TERM-153
-  and TERM-154 state.** The first component is TERM-154's witness, the
-  second TERM-153's certificate (p. 42). Three refinements. The witness is
+- **(e) Σ as witness and evidence: borne out, and stronger than [TERM-153](../terms.d/TERM-153.md)
+  and [TERM-154](../terms.d/TERM-154.md) state.** The first component is [TERM-154](../terms.d/TERM-154.md)'s witness, the
+  second [TERM-153](../terms.d/TERM-153.md)'s certificate (p. 42). Three refinements. The witness is
   read off the proof by the projection p(c), so constructively there is no
-  certificate without a witness (p. 45), which TERM-154's "Certificate
+  certificate without a witness (p. 45), which [TERM-154](../terms.d/TERM-154.md)'s "Certificate
   without witness" already marks as classical. The second component is a
   construction, a proof of a proposition, which the book keeps apart from
-  the derivation of the judgement (p. 6); TERM-153 calls it "the derivation
+  the derivation of the judgement (p. 6); [TERM-153](../terms.d/TERM-153.md) calls it "the derivation
   that x satisfies φ". And the evidence is used, not only checked: "Only by
   means of the proof q(c) do we know how far to go" (p. 54).
-- **The descriptor as a refinement inhabited** (CLAIM-949, CLAIM-783;
-  ARG-tmpneexr): the
+- **The descriptor as a refinement inhabited** ([CLAIM-949](../claims.d/CLAIM-949.md), [CLAIM-783](../claims.d/CLAIM-783.md);
+  [ARG-tmpneexr](../arguments.d/ARG-tmpneexr.md)): the
   "such that" set is the refinement {x ∈ A : B(x)} the claim writes, and,
   unlike the three refinement systems read so far, its elements carry
   their proofs (p. 53). Two descriptors a passes give the pair of their
   proofs, an element of the Σ over their conjunction (from the Σ and &
-  rules, pp. 39–44; the step is the filer's): CLAIM-783's witness
+  rules, pp. 39–44; the step is the filer's): [CLAIM-783](../claims.d/CLAIM-783.md)'s witness
   argument, with the certificate carried.
 - **The direction of fit as bidirectional typing**: not tested. The book
   has no inference or checking algorithm. The intention reading of the
   table (p. 5), an intention fulfilled by a method, is world to word in
-  TERM-151's sense, and it reads the same judgement form as "a is an
+  [TERM-151](../terms.d/TERM-151.md)'s sense, and it reads the same judgement form as "a is an
   element of A": the direction belongs to the reading, not to the form.
-- **Model-theoretic against proof-relevant** (CLAIM-949, THEORY-1142):
+- **Model-theoretic against proof-relevant** ([CLAIM-949](../claims.d/CLAIM-949.md), [THEORY-1142](../theory.d/THEORY-1142.md)):
   the book places itself against the model-theoretic route, where
   "Formulas and deductions are given meaning only through semantics, which
   is usually done following Tarski and assuming set theory"; "We will

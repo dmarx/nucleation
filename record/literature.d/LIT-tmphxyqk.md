@@ -7,7 +7,7 @@ status_note: >-
   closely, pp. i–54, 64, 69–70 and 87–91; the rest at the level of rules
   and examples) from a scan hosted by a Carnegie Mellon course, OCR'd;
   worth reading as the source of the judgement forms and the
-  propositions-as-sets reading on which LEAD-215's test of CLAIM-949
+  propositions-as-sets reading on which [LEAD-215](../leads.d/LEAD-215.md)'s test of [CLAIM-949](../claims.d/CLAIM-949.md)
   turns, and as the place where a set read as a specification and its
   elements as programs that meet it is said in so many words.
 title: 'Intuitionistic Type Theory'
@@ -69,8 +69,8 @@ summary: >-
   such pairs as its elements, "the witnessing information" (p. 53).
   Universes are sets of codes of sets, closed under the set-forming
   operations; there is no set of all sets, and U is not an element of U.
-  Read in NOTE-tmp60upv for LEAD-215's test of CLAIM-949; the reading is
-  THEORY-tmp62cvo.
+  Read in [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md) for [LEAD-215](../leads.d/LEAD-215.md)'s test of [CLAIM-949](../claims.d/CLAIM-949.md); the reading is
+  [THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md).
 ---
 <!-- inactive-ok-file: CLAIM-949 TERM-152 TERM-153 TERM-154 THEORY-tmp62cvo NOTE-tmp60upv — Proposed or Skimmed; this work's reading and the entries it tests -->
 
@@ -104,8 +104,8 @@ Theory, Lecture Notes. Bibliopolis, Naples. ix + 91 pp.
 
 ## Standing in the record
 
-Filed by LEAD-215, the third of its five original candidates, to test
-CLAIM-949's correspondences of question with problem, realization with
+Filed by [LEAD-215](../leads.d/LEAD-215.md), the third of its five original candidates, to test
+[CLAIM-949](../claims.d/CLAIM-949.md)'s correspondences of question with problem, realization with
 inhabitant carried with its evidence, and revision of a question with a
-change of type handled by universes, and the terms TERM-152, TERM-153 and
-TERM-154. The reading is THEORY-tmp62cvo, in NOTE-tmp60upv.
+change of type handled by universes, and the terms [TERM-152](../terms.d/TERM-152.md), [TERM-153](../terms.d/TERM-153.md) and
+[TERM-154](../terms.d/TERM-154.md). The reading is [THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md), in [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md).

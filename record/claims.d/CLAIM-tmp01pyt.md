@@ -27,8 +27,8 @@ uses:
 - TERM-153
 - TERM-154
 summary: >-
-  Filed from the reading of Martin-Löf 1984 (THEORY-tmp62cvo,
-  NOTE-tmp60upv) for LEAD-215. CLAIM-949's first defeater asks whether
+  Filed from the reading of Martin-Löf 1984 ([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md),
+  [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md)) for [LEAD-215](../leads.d/LEAD-215.md). [CLAIM-949](CLAIM-949.md)'s first defeater asks whether
   the record is proof-irrelevant "in the sense that matters"; the book
   supplies the sense: a proof can be suppressed when nothing downstream
   depends on it (p. 33), and cannot be when the conclusion depends on it
@@ -53,7 +53,7 @@ cannot be dropped: "Only by means of the proof q(c) do we know how far to
 go for the approximation desired" (p. 54).
 
 So proof relevance is not a property of a whole system but of each use: a
-proof is relevant where something later is computed from it. CLAIM-949's
+proof is relevant where something later is computed from it. [CLAIM-949](CLAIM-949.md)'s
 defeater (a) asks whether the record is proof-irrelevant "in the sense
 that matters", that is, whether an entry's passing is ever "carried with,
 or checked against, any evidence beyond the entry itself". Read through
@@ -62,10 +62,10 @@ evidence and not only on the fact that an entry passes.
 
 ## A case
 
-The record's status reviews meet the test. Under ADR-058 a work cited in a
+The record's status reviews meet the test. Under [ADR-058](../decisions.d/ADR-058.md) a work cited in a
 claim's `grounds` that the claim turns out not to rest on leaves its
 grounds, or becomes corroboration, and the claim's standing is judged
-again (CLAIM-470's history, versions 3 and 5, records two works leaving
+again ([CLAIM-470](CLAIM-470.md)'s history, versions 3 and 5, records two works leaving
 its grounds, one of them unread). The review reads the evidence, not the
 bare fact that the claim held: two claims that both passed would be
 treated differently according to what their grounds contain. There the record is proof-relevant in Martin-Löf's

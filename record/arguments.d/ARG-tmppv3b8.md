@@ -15,14 +15,14 @@ line:
 - formal-apparatus
 - record-as-apparatus
 summary: >-
-  The route by which the reading of Martin-Löf (THEORY-tmp62cvo) bears on
-  CLAIM-949's sentence that a question's revision, CLAIM-470's one
+  The route by which the reading of Martin-Löf ([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md)) bears on
+  [CLAIM-949](../claims.d/CLAIM-949.md)'s sentence that a question's revision, [CLAIM-470](../claims.d/CLAIM-470.md)'s one
   difference, would be "a change of type, which type theory handles with
-  universes", LEAD-215's question (d). Narrowed: universes handle a change
-  among the types they code, which is CLAIM-470's defeater (a) case, the
+  universes", [LEAD-215](../leads.d/LEAD-215.md)'s question (d). Narrowed: universes handle a change
+  among the types they code, which is [CLAIM-470](../claims.d/CLAIM-470.md)'s defeater (a) case, the
   choice among answer spaces already admitted. Two readings of the rest
   are filed as alternatives, for the owner. The conclusion's own standing
-  lives in CLAIM-949. The wording is the assistant's (Claude, in this
+  lives in [CLAIM-949](../claims.d/CLAIM-949.md). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-tmp62cvo CLAIM-949 CLAIM-tmpjs6hp — Proposed; the reading, the claim this narrows, and the counter filed beside it -->
@@ -31,7 +31,7 @@ summary: >-
 
 ## The inference
 
-Source, THEORY-tmp62cvo: "Recall that there can be no set of all sets,
+Source, [THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md): "Recall that there can be no set of all sets,
 because we are not able to exhibit once and for all all possible set
 forming operations ... The idea is to define a universe as the least set
 closed under certain specified set forming operations" (p. 87). À la
@@ -42,9 +42,9 @@ is the empty set at 0 and the one-element set at successors (p. 91). The
 construction can be iterated, "obtaining a second universe U'" with U ∈ U′
 (p. 89); "U itself is not an elemnt [sic] of U" (p. 90).
 
-Target, CLAIM-949 with CLAIM-470: a question is a type; its revision, "that
+Target, [CLAIM-949](../claims.d/CLAIM-949.md) with [CLAIM-470](../claims.d/CLAIM-470.md): a question is a type; its revision, "that
 an inquiry can revise what an answer could be", is a change of type,
-handled by universes, "types computed from other types". CLAIM-470's
+handled by universes, "types computed from other types". [CLAIM-470](../claims.d/CLAIM-470.md)'s
 defeater (a) is the case where every reformulation is "a choice among
 distinctions its earlier specification already admitted".
 
@@ -59,7 +59,7 @@ repertoire of answer spaces an inquiry can state to the universe.
   from an earlier result, as f does from a number: a question whose answer
   space depends on what was found. That is a change of type, and universes
   handle it. But every set it can reach is coded in U already: it is the
-  choice among answer spaces already admitted, the outcome of CLAIM-470's
+  choice among answer spaces already admitted, the outcome of [CLAIM-470](../claims.d/CLAIM-470.md)'s
   defeater (a), not the revision its last clause names.
 - **Are there differences that defeat it?** For the other kind. A revision
   that brings in a form of answer no given operation builds is outside U,
@@ -68,7 +68,7 @@ repertoire of answer spaces an inquiry can state to the universe.
   type theory then offers, filed as alternatives:
   - **Reading A, the hierarchy.** The next universe U′ contains U and codes
     what U could not; a revision is a step up the hierarchy. On this
-    reading universes do handle it, and CLAIM-949's sentence stands with
+    reading universes do handle it, and [CLAIM-949](../claims.d/CLAIM-949.md)'s sentence stands with
     "universes" read as the hierarchy.
   - **Reading B, extending the theory.** Each universe in the hierarchy is
     closed under the same operations; U′ adds U itself as a code, not a new
@@ -76,18 +76,18 @@ repertoire of answer spaces an inquiry can state to the universe.
     introduction rule, justified by a new meaning explanation, which the
     book's rules are open to (propositions "form an open concept", p. 3)
     and no universe contains. On this reading the revision is an extension
-    of the theory, not a change of type within it, and CLAIM-949's sentence
+    of the theory, not a change of type within it, and [CLAIM-949](../claims.d/CLAIM-949.md)'s sentence
     holds only for revisions inside a universe.
 
   The filer leans to B, since U′'s rules (p. 89) add codes for U and T(a)
   only; the owner chooses.
-- **Is there a counter-analogy?** CLAIM-tmpjs6hp: a criterion over
+- **Is there a counter-analogy?** [CLAIM-tmpjs6hp](../claims.d/CLAIM-tmpjs6hp.md): a criterion over
   whatever might be proposed is a category, not a set, and the category of
   sets is the book's example. The space of all answer spaces is that
   category, which no universe exhausts.
 
 ## Verdict
 
-Supports CLAIM-949's sentence on revision for changes among types a
-universe codes; for the revision CLAIM-470's last clause names, only on
+Supports [CLAIM-949](../claims.d/CLAIM-949.md)'s sentence on revision for changes among types a
+universe codes; for the revision [CLAIM-470](../claims.d/CLAIM-470.md)'s last clause names, only on
 reading A. Proposed.
