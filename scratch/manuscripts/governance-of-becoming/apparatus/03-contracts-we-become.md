@@ -364,3 +364,166 @@ Old file 03's §3.*n* are cited as "old 03 §3.*n*" wherever they could be mista
 ## 13. Fact-check corrections carried
 
 From FACTCHECK-2026-11-25-part-i-refresh.md, all already applied in the earlier draft and kept: A4 (not every temporary code is Proposed or Open; §1 here); B5 (TERM-100's promotion at the twenty-fifth review; §2 here); B7 (CASE-315, THEORY-345 and THEORY-1050 among the Active entries cited beside the argument; §1 here); D12 (Article 2's share of old §§3.2 and 3.6; §12 here); E14 (CASE-326's three case results and its "7 tests" rerun, CLAIM-591's "does not settle reachability", THEORY-863's "a random walk with absorbing barriers", and "Some persistent structure saves no work"; all in the article's §§3.8 and 3.9, and the rerun in §4 here); and the G items (QUESTION-tmpp8ue3 for G3.4, LEAD-tmpobng3 for G3.5, LIT-tmp9hjn2 and LIT-tmpg47ie for G3.3). No review findings were given for this pass.
+
+
+## From the README
+
+Moved here from the manuscript's README on 2026-11-25, when the series was rewritten as a manuscript (ADR-tmpw306d), so that the README keeps the series' apparatus and this file the article's. The text is the README's as it stood before the rewrite, unchanged. Its section numbers are those of the draft it describes (the revision, the refresh or the previous draft, as each passage says), not this article's: the numbering map above translates them.
+
+### Refresh of 2026-11-25: Articles 2 and 3, and the superseded file
+
+- **Article 2** (governance-of-possibility, its own work). A49's Article
+  3's readiness was folded in at "don't be shy", then that manuscript was
+  refreshed in full (its README, dated notes of 2026-11-25). With this
+  pass: CLAIM-1188 (Proposed, A's), A50's "significant revision to the
+  article's central thesis", is cited beside CLAIM-1070 (audit A17);
+  §14.7 states that for "handle the fixes for the twelve" the owner ruled
+  each to fix, then promote, and left the fix and the judgement that it
+  was met to the assistant, so the caution about delegated judgement
+  applies to CLAIM-878, CLAIM-921, CLAIM-1180, CLAIM-1185, CLAIM-1202 and
+  CLAIM-1093 in part; and its pointers to the old file 03 name the
+  superseded file.
+- **Article 3** (`03-contracts-we-become.md`, from
+  `02-contracts-we-become.md`). File 02's sections and joins renumbered
+  to §3.n and J3.n; A49's Article 3's cost model, contractual lifecycle,
+  lock-in and exit folded in as §3.8 to §3.10 (its "Numbering" table).
+  New gaps G3.4 (invocation as a communicative kind) and G3.5 (A32's
+  learned tolerances). TERM-tmp72sq3's home corrected to Article 12. With
+  this pass, from the audit: CLAIM-352 (Active, interpretive, the
+  owner's; §3.8.1; A6), QUESTION-114 with CLAIM-891's `answers` and
+  THEORY-345 (§3.8.2; A7, A9), SYNTHESIS-107 (§3.8.4; A8), THEORY-1917
+  placed in the not-cited list via SYNTHESIS-099 (A10), and G3.5 pointed
+  at G4.3 (A14).
+- **`superseded/03-cost-of-becoming.md`** (A49's Article 3). Kept
+  unchanged under a note saying where each section, join and gap went,
+  since the review, the fact-check and SYNTHESIS-tmp4tvbr cite its
+  numbers.
+
+### Part I's own premises (standing review, skill step 6a): Article 3's rows
+
+**Part I's own premises.** From the revisers' step-6a lists: each
+Proposed entry an article uses as a premise that is not already above.
+"Relied on by" counts the entries whose front matter names it in any
+relation (rests on, grounds on, uses, complements, integrates and the
+rest), as the revisers counted, recounted on this branch. "Checked" asks
+whether someone other than its filer has checked its evidence or
+computation, from its history and notes. Recommendations are the lead's,
+for the owner (ADR-124's form); none is a promotion. Statuses as on this
+branch.
+
+| Code | Article | Status and warrant | Relied on by | Checked by someone other than the filer? | Recommendation |
+|---|---|---|---|---|---|
+| CLAIM-1095 and CASE-163, CASE-346 | 1, 3 | in the table above | | | as above |
+| Article 3's own argument (file 02's): CLAIM-tmpkvzcn, CLAIM-tmp7hqtl, CLAIM-tmp0d1fq, CLAIM-tmpersgx, CLAIM-tmp80ny9, CLAIM-tmpjg5gx, TERM-tmpgiy6r | 3 | Proposed, interpretive or a term; filed 2026-11-24 | 6, 8, 6, 7, 4, 9, 3 | Not computations; the assistant's runs of A's models (CLAIM-tmp18v1o, CLAIM-tmpjg5gx, CASE-tmptpna1) were checked by the filer and the review | keep: no clear promotion (file 02's reviser). CLAIM-1095, its one demonstrated premise, waited on TERM-165; both are Active after #794 |
+| CLAIM-755 | 3 (§3.8.1; old 03 §3.1.3), and Article 2 (§7.5; old 03 §3.5.1) | Proposed, demonstrated (A's; ARG-121 from CASE-116) | 4 | No independent recomputation on record | promote after one (the delegated rule) |
+| CLAIM-646 | 3 (§3.9.1, §3.9.2; old 03 §3.6.1, §3.6.3), and Article 2 (§2.4) | Proposed, demonstrated (A's; CASE-236) | 3 | No independent recomputation on record | promote after one (the delegated rule) |
+| Old file 03's contract entries: CLAIM-tmpsf9hp, ARG-tmpa5ped, CLAIM-tmp2jhc1, TERM-116 | 3 (§3.8.3, §3.9.2, §3.10), 5 (§5.6.3, CLAIM-tmp2jhc1) | Proposed, interpretive, an argument, or a term | 4, 1, 2, 3 | CLAIM-tmp2jhc1's bargaining step and ARG-tmpa5ped's break-even checked by the assistant with `python3 -I`; LEAD-tmp14n26 not run | keep |
+
+### The review's plan, item by item: file 02 (now Article 3) and file 03 (now superseded)
+
+From the revision of 2026-11-24 on REVIEW-2026-11-24.md's plan; sections given by the refresh's numbers with the revision's in brackets, and file 03's by its own numbers, which are those of `superseded/03-cost-of-becoming.md`.
+
+- **File 02, A49's Article 2, now Article 3** (items 1 and 3 to 7):
+  - item 1: LEAD-tmpl9349 cited in §3.12 [§2.10] and "No lead holds…"
+    deleted; QUESTION-tmpp8flf cited in §3.11 [§2.9]; correction 2.1,
+    CLAIM-tmpisfi1's whole title (§3.7 [§2.7]);
+  - item 3: the record wording this manuscript's process corrected is
+    listed under "Limits";
+  - item 4: the three expectation blocks of §§3.3, 3.4 and 3.6 [§§2.3,
+    2.4 and 2.6] relabelled as reconstructed against known results; §3.6
+    [§2.6]'s "same schedule" marked as holding by definition and not
+    counted; §3.4 [§2.4]'s second expectation graded; §3.12 [§2.10]'s
+    expectation for mere coupling changed to fit the two controllers, as
+    LEAD-tmpl9349's note of 2026-11-24 records;
+  - item 5: joins relabelled J2.1 to J2.4 and JR2.1 to JR2.2 (J3.1 to
+    J3.4 and JR3.1 to JR3.2 since the refresh); CLAIM-358
+    credited to the owner (U45 of 2026-10-17); the Active footing
+    completed with CLAIM-556, TERM-100 and CLAIM-357, and the warrant
+    sentence with CLAIM-1095;
+  - item 6: J2.2's (now J3.2's) component stated as CLAIM-tmphq6hp's
+    title states it;
+  - item 7: corrections 2.3 ("or", quoted from CLAIM-tmp7hqtl) and 2.10
+    (the three completion times, after CASE-tmptpna1's corrected note);
+  - step 3a: the four-system study cited as done in part, as method
+    (§3.12 [§2.10]).
+- **File 03, A49's Article 3, now superseded** (items 1 and 3 to 7; its
+  own numbers):
+  - item 1: QUESTION-tmpzhnqy at G3.2 and LEAD-tmple60r at G3.3;
+    correction 2.2, CLAIM-569's note quoted as corrected (§3.6.3);
+  - item 3: who ruled each Active entry Active, the same-day promotion of
+    CLAIM-tmp8mpgs, and the record wording this drafting corrected
+    ("Conventions and limits", §3.9);
+  - item 4: CASE-326's results stated as reported without prior
+    expectations, with what LEAD-108 stated before its run (§3.2.2);
+  - item 5: sections renumbered §3.1 to §3.9 with §3.n.m subsections;
+  - item 6: J3.5 and §3.6.3 restated against TERM-116's own wording
+    ("Under additive costs") and the corrected CLAIM-569 note;
+  - item 7: corrections 2.6 (CLAIM-475's stored-inquiry clause and
+    CLAIM-443's limit credited to A and to the working-through), 2.11
+    ("expects richer state to cover most cases") and 2.12 ("Proposed or
+    Open");
+  - step 3a: LEAD-tmp14n26 (§3.3.4), QUESTION-tmpzhnqy (G3.2) and the
+    reach study (§3.7.4) found done in part, with the held results cited.
+
+### The joins, as the README gave them for Part I (Articles 1 and 3, and A49's Article 3)
+
+The README's section "The joins" as it stood before the rewrite (unchanged; section numbers are the refresh's or the revision's, with older ones in brackets). The README now gives only the series' tally and points here.
+
+Each article closes with its joins: places where it puts together steps the
+record keeps apart. An independent reader tested all 25 under ADR-075
+(review, Part B), and the verdicts were placed in SYNTHESIS-tmp4tvbr,
+section "The joins of the manuscript governance-of-becoming, Part I" (#793).
+
+The revised articles state each verdict in their closing sections, with
+the section the join was in. Since the Part I refresh of 2026-11-25 the
+joins below are given by their new numbers and sections, with the old in
+brackets where they differ ("Files, in reading order"). The verdicts are
+unchanged.
+
+- **Passed, and filed as Proposed claims** that the account integrates:
+  - J1.1 (§1.7.2 [§1.5.4]), as a corrected replacement (the first draft
+    inverted which of CLAIM-364's tests is the maintenance test):
+    CLAIM-tmp9ia3w (Proposed, demonstrated).
+  - J3.3 (§3.4) [file 02's J2.3, §2.4; the first draft's J3 of Article 2],
+    narrowed to "where the provider cannot cheaply exit": CLAIM-tmpu77ve
+    (Proposed, interpretive).
+- **Restatements**, which cite the entry that holds them:
+  - Article 1: J1.2 (§1.7.1 [§1.5.3]), J1.3 for a scalar (§1.7.3
+    [§1.5.5]), J1.5 (§1.9 [§1.6]), J1.7 (§1.12 [§1.8]), and what is left
+    of J1.4 once corrected (§1.6 [§1.4]);
+  - Article 3, from file 02: JR3.1 [JR2.1] (CLAIM-tmp0d1fq) and JR3.2
+    [JR2.2] (CLAIM-430's note);
+  - A49's Article 3 (old file 03), eight: old J3.1, now Article 3's J3.5
+    (§3.8.1); old J3.2, now J3.6 (§3.8.3); old J3.3, now J3.7 (§3.8.3);
+    old J3.6, now J3.10 (§3.9.1, and governance-of-possibility §2.4); old
+    J3.8 (governance-of-possibility §9.1); old J3.9, now Article 5's J5.6
+    (§5.6.1); old J3.11, still J3.11 (§3.8.1); and old J3.12, now Article
+    5's J5.5 (§5.5.4).
+- **Misstated a component**, and corrected: J1.1 (TERM-100's maintenance
+  sense) and J1.4 (CLAIM-604's scope).
+- **Failed**, and removed from the text or reworded so that the text no
+  longer asserts them: J1.6 (§1.10.5 [§1.7.4]); from file 02, J3.1 (§3.3)
+  [J2.1, §2.3], J3.2 (§3.4) [J2.2, §2.4] and J3.4 (§3.6) [J2.4, §2.6];
+  from old file 03, old J3.4, now J3.8 (§3.8.4), old J3.5, now J3.9
+  (§3.9.2), old J3.7 (governance-of-possibility §9.6) and old J3.10
+  (Article 5 §5.6.3, labelled there). None of A49's Article 3's joins
+  passed. The review suggested keeping J2.2, J2.4, J3.5 and J3.10 (the old
+  numbers) as dated notes on their entries, and the closing pass filed
+  them: J2.2's (now J3.2's) residue on CLAIM-tmp7hqtl, J2.4's (now J3.4's)
+  conflict on CASE-tmptpna1, old J3.5's (now J3.9's) open item on
+  TERM-116, and old J3.10's pointer on LEAD-tmpeo8wq (below).
+- **Added at the refresh, tested in its fact-check** (2026-11-25,
+  `FACTCHECK-2026-11-25-part-i-refresh.md`, Part B; left-out audit,
+  A16): J1.8 (§1.11), the negative results as one table, is a
+  *restatement*, a conjunction of each row's entries, with its CASE-346
+  and CASE-177 rows corrected to their entries' words; J1.9 (§1.2,
+  §1.13), A51's thesis that organizational identity is a plurality of
+  related achievements, which Article 1 reports in A's voice and does
+  not assert, was *correctly not made*, and as a claim it fails: a
+  recap on the weak reading, a free parameter on the strong. §1.13 names
+  the record's one criterion of identity over time beside its parts,
+  causal transmission (CLAIM-329, CLAIM-615). The verdicts are placed in
+  SYNTHESIS-tmp4tvbr's note of 2026-11-25.
+
+The two filed claims are candidate members of the work under ADR-104
+(open items 10 and 14).

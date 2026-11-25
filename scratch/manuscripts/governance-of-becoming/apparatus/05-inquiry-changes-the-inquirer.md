@@ -275,3 +275,77 @@ A51 fixes the article's scope and order; it supplies none of its text.
 | Points of contact not cited | this file, §9 |
 | — | 5.13.2 The strongest objection (*new in the rewrite*: the objection that the governance of inquiry is resource allocation, answered from §§5.6.2, 5.8.2, 5.9.2 and conceded in part) |
 | — | 5.14 Conclusion (*new in the rewrite*) |
+
+
+## From the README
+
+Moved here from the manuscript's README on 2026-11-25, when the series was rewritten as a manuscript (ADR-tmpw306d), so that the README keeps the series' apparatus and this file the article's. The text is the README's as it stood before the rewrite, unchanged. Its section numbers are those of the draft it describes (the revision, the refresh or the previous draft, as each passage says), not this article's: the numbering map above translates them.
+
+### Refresh of 2026-11-25: Articles 4 to 6
+
+- **Articles 4 to 6.** References to "Article 3 (file 02, §2.n)", "file
+  03, §3.1" and "Part I's §3.7", J3.9 and J3.12 now give the refreshed
+  files and numbers (audit A13). Article 5 §5.6, which took over old 03
+  §3.7.4, gets back what the move dropped (A1 to A5): CLAIM-603 with the
+  owner's credit for the remark of 2026-11-05 and CLAIM-670 as the
+  mechanism in prose; CLAIM-568's list of failures, which covers feasible
+  and affordable only; CLAIM-605 (Active, demonstrated) as the capability
+  trap beside CLAIM-950 (Proposed); the "old J3.10" label, in §5.6.3 and
+  its Joins; and LEAD-tmpeo8wq's overstated "No entry defines reach per
+  actor", with its correction. G4.3's second and last items now point to
+  G6.3 and G3.5 (A14, A15).
+
+### Part II's own premises (standing review, skill step 6a): Article 5's rows
+
+**Part II's own premises.** From the drafters' step-6a lists, as their
+digests give them ("Premises and their standing": affect-and-authority
+§7, inquiry-and-the-inquirer §8, judgment-control-and-ignorance §9), with
+the drafters' replies as the drafts' closing sections summarize them
+(§4.12, §5.10, §6.11). Entries already in the tables above are not
+repeated except where a Part II article leans on them afresh. "Relied on
+by" is the digest's count of entries whose front matter names the entry
+in any relation, or, for Article 4, the dependants its digest lists.
+Statuses as of 2026-11-25. Recommendations are the drafters', for the
+owner; none is a promotion.
+
+| Code | Article | Status and warrant | Relied on by | Checked by someone other than the filer? | Recommendation |
+|---|---|---|---|---|---|
+| TERM-160, TERM-159 | 5 (§5.3) | TERM-160 Active, TERM-159 Deferred, terms (the assistant's, A's), at the owner's ruling of 2026-11-25 | 2, 2 | n/a | ruled: "keep TERM-092 and add the joint term beside it for now" (TERM-160, version 2) |
+| TERM-163 | 5 (§5.8) | Proposed, term (A's) | 4 | n/a | kept at #794 for the owner's definitional ruling |
+| CLAIM-1025 | 5 (§5.3.3) | Proposed, demonstrated (the assistant's) | 4 | Yes: reproduced on 2026-11-25 by a session other than the filer's, rebuilt from the entry alone as the kept `scratch/formal/inquiry_coupling_bounds_check.py`, with a negative control | keep: ADR-057's first criterion fails, its premises CLAIM-1114 and CLAIM-1157 being Proposed (its note of 2026-11-25) |
+| CLAIM-1157, CLAIM-1008, CLAIM-1203, CLAIM-1195 | 5 (§5.3.3, §5.8) | Proposed, demonstrated (CLAIM-1157 and CLAIM-1008 A's; CLAIM-1203 and CLAIM-1195 the assistant's gap fills of A52 §3 and A54 §4) | 3, 3, 1, 1 | Yes: each reproduced on 2026-11-25 by a session other than the filer's, in kept scripts (`inquiry_coupling_bounds_check.py`, `inquiry_depth_check.py`, `maintained_nuclei_check.py`), except CLAIM-1195's figure 1.61, which the rerun puts at 1.74 to 1.84 | keep: held back by Proposed premises (ADR-057's first criterion). CLAIM-1157 rests on CLAIM-1114, CLAIM-1008 on CLAIM-1157, CLAIM-1203 on CLAIM-1008; CLAIM-1195 on CLAIM-1148 (Proposed, interpretive), whose promotion needs the owner's assent. CLAIM-1195's 1.61 to be restated or dropped (open item 24) |
+| CLAIM-1114 | 5, through CLAIM-1157, CLAIM-1025, CLAIM-1008 and CLAIM-1203 | Proposed, demonstrated (the assistant's gap fill for governance-of-possibility) | 3 | No: the reruns of 2026-11-25 did not recheck it; its stated check (2,037 of 20,000 random routes) gives no seed | the bottom of Article 5's demonstrated chain, with no premise of its own: rechecked and promoted under the delegated rule, it frees CLAIM-1157, then CLAIM-1025 and CLAIM-1008, then CLAIM-1203 (curation of 2026-11-25 02:20). A rerun would reproduce the rule, not the count (open item 24) |
+| CLAIM-996 | 5 (§5.5) | Proposed, interpretive (A's) | 7 | n/a | keep: the base of CLAIM-1140, 1016, 1117, 1119, 1132 |
+| CLAIM-1140, CLAIM-1016 | 5 (§5.5) | Proposed, interpretive | 5, 1 | n/a | keep (CLAIM-1016 as in the table above) |
+| CLAIM-1003, CLAIM-1054 | 5 (§5.7) | Proposed, interpretive (A's) | 3, 4 | n/a | keep: CLAIM-1054 has no model |
+| CLAIM-754, CLAIM-758 | 5 (§5.1, §5.8) | Proposed, interpretive | 18, 12 | n/a | keep: heavily relied on; CLAIM-758's first defeater is pressed by two readings |
+| TERM-131 | 5 (§5.1, J5.1) | Proposed, term (A's) | 11 | n/a | keep: not tied to CLAIM-470 (SYNTHESIS-118) |
+| CLAIM-1060, ARG-238 | 5 | Proposed | 2, 1 | n/a | keep: narrowed by CLAIM-755 |
+| CLAIM-1177, CLAIM-1148, CLAIM-1004 | 5 (§5.8.3) | Proposed, interpretive (CLAIM-1004 the owner's conjecture) | 2, 5, 5 | n/a | keep |
+| CLAIM-tmp2kfwd | 5 (§5.5.3) | Proposed, interpretive (A's), filed 2026-11-24 | 2 | n/a | keep: defeater untested |
+| CLAIM-1156 | 5 (§5.4) | Proposed, interpretive (A's), version 2 | 5 | its formal step corrected by CLAIM-1095, rerun | keep (as above) |
+| CLAIM-tmpyp0ju | 5 (§5.9) | Proposed, interpretive (the owner's) | 0 | its check is the assistant's | keep; its own table has no row for Article 5, though this README's "Part II's studies" now has eight (review correction 2.13) |
+
+### The review's plan, item by item: Article 5
+
+From the revision of Part II on REVIEW-2026-11-25.md's plan, checked against the article as it stood after the fact-check's fixes.
+
+- **Article 5** (items 1, 2, 4, 5, 7 and 8; items 3 and 6 do not touch
+  it):
+  - item 1: the reruns of 2026-11-25 of CLAIM-1157, CLAIM-1025,
+    CLAIM-1008, CLAIM-1203 and CLAIM-1195 ("Standing", §5.3.3, §5.8.3,
+    §5.9, §5.10), CLAIM-1195's unreproduced 1.61, and CLAIM-1114 named as
+    the bottom of the chain (G5.9);
+  - item 2: CLAIM-758's readings (THEORY-2006 and the others) in §5.8 and
+    the §5.9 table, with the verdict done in part, by reading;
+  - item 4: LEAD-181's "What would count" before CASE-396's results
+    (§5.7);
+  - item 5: "handle the fixes for the twelve" read one way ("Who made
+    these entries Active"; "Limits", brought into line after the
+    fact-check); file 03, §3.1, for CLAIM-761 (since the refresh,
+    Article 3 §3.8.1); CLAIM-470 at the thirteenth
+    review (correction 2.10);
+  - item 7: G5.8, CLAIM-1190's title against its scope;
+  - item 8: corrections 2.7 (the abstract's stored-specification clause
+    credited to A), 2.8 (CLAIM-754's defeater with its scope), 2.11 (the
+    `rests_on` of §5.5.2), 2.13 (G5.5) and 2.14 ("produces").

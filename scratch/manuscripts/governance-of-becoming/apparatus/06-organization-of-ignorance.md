@@ -227,3 +227,61 @@ Read against A49, the work governance-of-becoming holds CLAIM-404, CLAIM-703, CL
 | — | 6.1 Introduction (new) |
 
 Old §6.7 (biases) now follows old §6.8 (transmitted ignorance), so that the bias section can draw on every mechanism before it. In §6.7 the CLAIM-1024 component table became prose. Cited in the argument for the first time in this rewrite, all from the previous draft's "Limits" or from the entries it cited: THEORY-337, THEORY-901, THEORY-920 (avoidance and anchoring readings), and CLAIM-404's third part with its second defeat condition, quoted from CLAIM-1202 (the previous draft said only "CLAIM-404's second defeat condition").
+
+
+## From the README
+
+Moved here from the manuscript's README on 2026-11-25, when the series was rewritten as a manuscript (ADR-tmpw306d), so that the README keeps the series' apparatus and this file the article's. The text is the README's as it stood before the rewrite, unchanged. Its section numbers are those of the draft it describes (the revision, the refresh or the previous draft, as each passage says), not this article's: the numbering map above translates them.
+
+### Part II's own premises (standing review, skill step 6a): Article 6's rows
+
+**Part II's own premises.** From the drafters' step-6a lists, as their
+digests give them ("Premises and their standing": affect-and-authority
+§7, inquiry-and-the-inquirer §8, judgment-control-and-ignorance §9), with
+the drafters' replies as the drafts' closing sections summarize them
+(§4.12, §5.10, §6.11). Entries already in the tables above are not
+repeated except where a Part II article leans on them afresh. "Relied on
+by" is the digest's count of entries whose front matter names the entry
+in any relation, or, for Article 4, the dependants its digest lists.
+Statuses as of 2026-11-25. Recommendations are the drafters', for the
+owner; none is a promotion.
+
+| Code | Article | Status and warrant | Relied on by | Checked by someone other than the filer? | Recommendation |
+|---|---|---|---|---|---|
+| CLAIM-446 | 4 (§4.8.3), 6 (§6.5) | Proposed, interpretive (the owner's) | 21; CLAIM-445 | Its model run, CASE-346, rerun by another session; the claim about persons is not checked | keep: defeater reading open (CLAIM-924); a ruling on "may be" is the owner's |
+| CLAIM-tmpn754o | 4 (§4.8.3), 6 (§6.7) | Proposed, interpretive (A's), filed 2026-11-24 | CLAIM-tmpysg95 | No; its test is unrun | keep |
+| CLAIM-tmp5atd3, CLAIM-tmpe6yfm, CLAIM-tmpupcws | 4 (§4.5, §4.11), 6 (§6.7) | Proposed, filed 2026-11-24 | none yet in Article 4's digest | No | keep |
+| CLAIM-1024 | 6 (§6.6) | Proposed, interpretive (the owner's) | 5; none rests on it | its four components are checked; the claim is not a computation | keep (as above) until the owner writes CLAIM-1185's concession |
+| CLAIM-445 | 6 (§6.5) | Proposed, interpretive (the owner's) | 21; CLAIM-624, CLAIM-726, ARG-064 | Not a computation | keep: a candidate by reliance |
+| CLAIM-657 | 6 (§6.4) | Proposed, interpretive (the owner's) | 6 | Route B modelled by CASE-396 (rerun) | keep: waits on CLAIM-652 (Proposed, demonstrated) and the unfiled third route |
+| CLAIM-624 | 6 | Proposed, interpretive (A's) | 35 (recounted 2026-11-25); CLAIM-876, CLAIM-877 | Not a computation | keep: a candidate by reliance; its use is evidence of reliance, not truth |
+| CLAIM-619 | 6 | Proposed, interpretive (A's) | 18 | Not a computation | keep: TERM-118 not adopted |
+| CLAIM-545 | 6 | Proposed, interpretive (A's integration of the owner's premises) | 14 (recounted 2026-11-25) | Not a computation | keep |
+| CLAIM-1120, CLAIM-997 | 6 (§6.4) | Proposed, empirical (the assistant's alternatives) | 1 each | CASE-396 rerun | the owner chooses between them |
+| CLAIM-tmpp0ufw, tmpggu4v, tmpei0cf, tmpn754o, tmpysg95, tmp5atd3, tmpjlxfy, tmpgc8vi, tmp9k2la; TERM-tmp9mag8 | 6 (§6.2, §6.7, §6.8) | Proposed, interpretive or a term (A's), filed 2026-11-24 | 3, 2, 1, 2, 1, 2, 6, 3, 2; 6 | Only the assistant's algebra notes (tmpei0cf by hand) | keep: defeaters untested; no promotion |
+| CLAIM-tmpqbaic, CLAIM-tmpu5cap | 6 (§6.7) | Active, demonstrated (the assistant's) | 1 or 2 | An independent checker reproduced every computation; set Active at the assistant's discretion the day each was filed | the article says so (review 1.3) |
+
+### The review's plan, item by item: Article 6
+
+From the revision of Part II on REVIEW-2026-11-25.md's plan, checked against the article as it stood after the fact-check's fixes.
+
+- **Article 6** (items 1 to 6 and 8; item 7 does not touch it):
+  - item 1: LEAD-181 Done (§6.4, G6.5); CASE-162 not rerunnable here,
+    its code being in dmarx/PerspectiveLab (§6.3, §6.10);
+  - item 2: the human avoidance readings THEORY-900, THEORY-901,
+    THEORY-903, THEORY-912, THEORY-920 and THEORY-914 ("Limits", §6.5,
+    §6.7's table), and the held work Part C found, CLAIM-342 and CASE-353
+    among it (§6.3);
+  - item 3: "unrewarded for discovering requirements" in the abstract,
+    and both conditions in §6.4 and §6.11's table;
+  - item 4: no criterion before CASE-162's run, said (§6.3); LEAD-181's
+    before CASE-396 (§6.4); CASE-153's before CASE-346 (§6.5);
+  - item 5: the twelve read one way ("Who made the standing"); the
+    reruns divided by who ran them ("Limits"); why CLAIM-442 is not used
+    (departure 4);
+  - item 6: the verdicts on J6.1 to J6.6 (Joins), with J6.3's correction
+    in §6.6 and J6.4's limit restricted in §6.7;
+  - item 8: corrections 2.4 ("Most of the leads named here have not been
+    run"), 2.9 (CLAIM-442 in no work), 2.10 (TERM-100 and CLAIM-532 on
+    2026-11-06, THEORY-335 with no delegation, CLAIM-1000 a claim) and
+    2.14.

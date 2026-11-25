@@ -310,3 +310,83 @@ The refresh added §1.8 (symbiosis), §1.10.4 (resource-bounded profiles) and §
 ## A.13 Fact-check findings carried
 
 The refresh's fact-check (FACTCHECK-2026-11-25-part-i-refresh.md) found, for this article: A2 (the abstract's count of Proposed executed studies; now four of seven, §A.2); C8 (CASE-161's "and agrees", quoted correctly in §A.2); C10 (CASE-265 is A's, not the assistant's; §A.4 and G1.7); C11 (J1.9 "set against", not "tested"); J1.8's two row corrections (in the article's table); J1.9's fix (CLAIM-329 and CLAIM-615 named in §1.13); E13's minor scope sentences (the "minimal" productive cycle and its consequence, §1.5; CLAIM-194's "does not say that production is measurable wherever coupling is", §1.5; the critique of the initiating-support design, §1.6; CLAIM-521's "as tightly integrated at the edge of collapse", §1.5, restored at this rewrite; CLAIM-474's "come apart on purpose" and QUESTION-281's "each way", §1.3 and §1.8, restored at this rewrite). Its section G (overtaken: G1.2 done as CLAIM-tmpv6tw7; LEAD-tmp81wwz and LEAD-tmpc0rqa filed) is reflected in §A.7. Its reproduced figures (CASE-191's 2.618 and knockouts; CASE-268's 0.1458, 0.0104 and 0; CASE-265's checks) and traced figures are unchanged in the article.
+
+
+## From the README
+
+Moved here from the manuscript's README on 2026-11-25, when the series was rewritten as a manuscript (ADR-tmpw306d), so that the README keeps the series' apparatus and this file the article's. The text is the README's as it stood before the rewrite, unchanged. Its section numbers are those of the draft it describes (the revision, the refresh or the previous draft, as each passage says), not this article's: the numbering map above translates them.
+
+### Refresh of 2026-11-25: Article 1
+
+- **Article 1** (`01-identity-of-organization.md`, from
+  `01-becoming-through-relations.md`). Retitled to A51's "The Identity
+  of Organization: individuation, maintenance provenance, and the limits
+  of behavioral equivalence", and reordered to A51's sketch (its
+  "Numbering" table; "Files, in reading order" above). New: §1.8
+  (symbiosis), §1.10.4 (resource-bounded profiles) and §1.11 (negative
+  results), with joins J1.8 and J1.9 (tested in the refresh's fact-check:
+  J1.8 a restatement, J1.9 correctly not made), and gaps G1.1 to
+  G1.8, numbered for the first time. Step 3a added CASE-164, CASE-265,
+  CASE-268 with CLAIM-693, CLAIM-456, CASE-225, CASE-365 with CLAIM-953,
+  SYNTHESIS-040 (with CLAIM-574, CLAIM-590 and CLAIM-557), SYNTHESIS-053,
+  QUESTION-277, CLAIM-508, SYNTHESIS-077 and SYNTHESIS-043; the
+  constructions and runs among them are in "What the record has already
+  done". Cross-references to Article
+  3 now name `03-contracts-we-become.md`.
+
+### Part I's own premises (standing review, skill step 6a): Article 1's rows
+
+**Part I's own premises.** From the revisers' step-6a lists: each
+Proposed entry an article uses as a premise that is not already above.
+"Relied on by" counts the entries whose front matter names it in any
+relation (rests on, grounds on, uses, complements, integrates and the
+rest), as the revisers counted, recounted on this branch. "Checked" asks
+whether someone other than its filer has checked its evidence or
+computation, from its history and notes. Recommendations are the lead's,
+for the owner (ADR-124's form); none is a promotion. Statuses as on this
+branch.
+
+| Code | Article | Status and warrant | Relied on by | Checked by someone other than the filer? | Recommendation |
+|---|---|---|---|---|---|
+| CLAIM-417 | 1 (§1.9, §1.10, §1.12) | Proposed, interpretive (the owner's, U31 of 2026-10-22) | 18 | Not a computation. Its defeater about established accounts is live: habitus and transposable schemas "may explain the same transitions" (notes of 2026-10-30 and 2026-11-20) | keep: relied on, not shown. Its title keeps four objects where its note of 2026-11-07 records five (open item 13) |
+| CLAIM-137 | 1 (§1.10.2) | Proposed, interpretive (the owner's, U54) | 13 | Not a computation; narrowed at the seventh status review for CLAIM-249's concession | keep: its condition, one group identified on all realizations, is unmet |
+| CLAIM-364 | 1 (§1.7.2), via CLAIM-tmp9ia3w | Proposed, interpretive (A45's; a counter) | 12 | Not a computation; split under ADR-061 | keep: a candidate by reliance |
+| CLAIM-615 | 1 (§1.9) | Proposed, interpretive | 10 | Admitted under ADR-075 at A's review of its pull request (2026-11-07), a check of the integration, not of its truth | keep: a candidate by reliance |
+| TERM-083 | 1 (§1.12), 3 (§3.6) | Proposed, term (the owner's, U12 of 2026-10-26) | 10 (7 use it) | A definition; nothing to recompute | the owner's: adopt the definition |
+| CASE-332 | 1 (§1.5, §1.7.3) | Proposed, executed-study (the assistant's, LEAD-048) | 2 | No: run by the filer as a delegated lead worker; code under scratch/studies/lead-048/ | promote after a rerun by another session, as for the cases above |
+| CASE-333 | 1 (§1.3, §1.7.3) | Proposed, executed-study (the assistant's, LEAD-098) | 1 | No: rerun by its filer only | promote after a rerun by another session |
+| CLAIM-903 | 1 (§1.3), with CASE-333 | Proposed, demonstrated | 0 | No | promote with CASE-333 |
+| CLAIM-672 | 1 (§1.6) | Proposed, demonstrated (Game of Life constructions, CASE-259, CASE-260) | 3 | Not recorded | promote after an independent run of the constructions (the delegated rule) |
+| CLAIM-tmp9ia3w | 1 (§1.7.2; J1.1) | Proposed, demonstrated | 1 | Its derivation is the independent joins reader's, not the drafter's; not yet fact-checked (LEAD-tmpc0rqa's item 3, blocked on the owner) | promote after the fact-check recomputes it (the delegated rule); a candidate member (open item 10) |
+| CLAIM-tmpyp5bu | 1 (§1.7.3) | Proposed, interpretive (A's, A10) | 1 | Not a computation | keep: filed 2026-11-24, defeater untested |
+| CLAIM-1095 and CASE-163, CASE-346 | 1, 3 | in the table above | | | as above |
+
+### The review's plan, item by item: Article 1
+
+From the revision of 2026-11-24 on REVIEW-2026-11-24.md's plan; sections given by the refresh's numbers with the revision's in brackets.
+
+- **Article 1** (items 1, 2, 3, 5, 7 and 8; 4 and 6 do not touch it):
+  - item 1: LEAD-tmpu1jj5 cited at the gap it holds (§1.7.3 [§1.5.5],
+    "Gaps");
+  - item 2: CLAIM-522's ideal-controller condition is in the abstract's
+    item 3; formation provenance is stated as "no knockout after
+    formation", "In CASE-191's construction" (abstract, §1.7.1 [§1.5.3]);
+    steps 2 and 5 of §1.7.3 [§1.5.5] are marked as holding by the
+    definition of arm (c), and steps 3 and 4 named as the design's test;
+    §1.4 [§1.3]'s "minimal form" was made "the minimal structure a
+    persisting capacity needs" (the refreshed §1.4 no longer has either
+    phrase);
+  - item 3: the delegated promotions and the two same-day promotions at
+    the assistant's discretion (CLAIM-tmpqbaic, CLAIM-tmpq1lyz) are
+    disclosed in "Standing, voices and limits", and §1.10.3 [§1.7.3] and
+    §1.13 [§1.9] marked;
+  - item 5: sections renumbered §1.1 to §1.9 (§1.1 to §1.13 since the
+    refresh);
+  - item 7: corrections 2.4 (four executed studies cited, not one), 2.5
+    (TERM-072's adoption quoted from one sentence), 2.6 (CLAIM-tmpjitli
+    "in the claim's wording, after A5 §8") and 2.9 (CLAIM-417's notes of
+    2026-10-30 and 2026-11-20);
+  - item 8: CLAIM-421 cited as the fifth object (§1.10.1 [§1.7.1]), and CLAIM-417's
+    title left to the owner (open item 13);
+  - step 3a: the design restated over CASE-191, CASE-161 and CASE-163, and
+    only LEAD-tmpu1jj5's extension proposed (§1.7.3 [§1.5.5]).
