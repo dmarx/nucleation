@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp5o4dd
 title: 'A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-29'
@@ -55,6 +55,12 @@ history:
     Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
     exchange "Hyper article interpretation" states its proposition or uses
     it as a step, in §2. No other change.
+- version: 9
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 15, section V.
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -72,6 +78,7 @@ line:
 - nucleating-argument
 - scholarly-publishing
 works:
+- atlas
 - hyperarticles
 - luria-beyond-software
 - from-obstruction-to-reorganization

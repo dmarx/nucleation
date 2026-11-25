@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpqktfo
 title: 'Reflexive governance of an organization''s perspectival arrangements, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective; and the capacity to revise those standards is not the capacity to revise them well'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-22'
@@ -44,6 +44,12 @@ history:
     Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
     A45 in the exchange "Hyper article interpretation" states its
     proposition or uses it as a step, in §7. No other change.
+- version: 6
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 09, scope 10. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -70,6 +76,7 @@ complements:
 uses:
 - TERM-072
 works:
+- atlas
 - conditions-of-correction
 - organization-of-perspective
 - who-gets-to-say-stop

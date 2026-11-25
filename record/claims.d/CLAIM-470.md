@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpalzo4
 title: 'Inquiry is a form of specification: a question fixes which differences would count as an answer, an inquiry adds the operations that make those differences accessible, and what it finds can stabilize into a specification that constrains later inquiry; so inquiry stands to its findings as a specification to its realizations, with one difference, that an inquiry can revise what an answer could be'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-29'
@@ -70,6 +70,12 @@ history:
     Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
     A45 in the exchange "Hyper article interpretation" states its
     proposition or uses it as a step, in §1. No other change.
+- version: 9
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 01, section V.
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -92,6 +98,7 @@ line:
 - record-as-apparatus
 - learning-and-inquiry
 works:
+- atlas
 - conditions-of-correction
 - governance-of-becoming
 complements:

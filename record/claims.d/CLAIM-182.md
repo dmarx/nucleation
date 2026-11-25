@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdj0qe
 title: 'Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -23,6 +23,12 @@ history:
     with CASE-271. An address need not be a location; keyed readout is
     noisy until a clean-up memory makes it exact. An analogy, not evidence
     about records. No status change.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 02. No other
+    change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -37,6 +43,7 @@ tags:
 date: '2026-10-11'
 line: nucleating-argument
 works:
+- atlas
 - from-obstruction-to-reorganization
 answers:
 - QUESTION-038

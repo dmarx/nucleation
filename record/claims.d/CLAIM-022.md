@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp64xks
 title: 'Explaining practical efficacy does not settle whose the will is'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-03'
@@ -15,6 +15,12 @@ history:
   note: >-
     Zeiser (2024) read and filed with corroborates on this claim, in
     the domain of AI decision support.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 08. No other
+    change.
 role: disclaimed
 warrant: interpretive
 tags:
@@ -23,6 +29,7 @@ tags:
 date: '2026-10-05'
 line: will-organization
 works:
+- atlas
 - organization-of-will
 grounds:
 - LIT-292

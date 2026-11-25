@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp16mkz
 title: 'An arrangement can exploit through the access it grants: a needed good offered on terms that leave the recipient with a lasting encumbrance, a reliance on the provider or an obligation hard to escape, that narrows later exit or renegotiation, so that exploitation can arise through inclusion that succeeds, not only through inclusion that fails, and widening access need not reduce it'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-12'
@@ -50,6 +50,12 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 9 §2 (ADR-tmpenzcn). No change of
     title or status.
+- version: 7
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 12. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -73,6 +79,7 @@ line:
 - dependence-and-domination
 - transient-support
 works:
+- atlas
 - capability-restraint-relational-freedom
 - governance-of-becoming
 bears_on:

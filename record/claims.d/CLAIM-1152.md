@@ -11,7 +11,7 @@ title: 'Identity stabilization can be read as temporal filtering: an organizatio
   is optimal in general, and the per-frequency optimum S_d/(S_d + λS_n) passes
   variation where genuine demand outweighs noise and holds steady where noise
   outweighs it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-23'
@@ -26,6 +26,12 @@ history:
     Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §4 states
     it: identity stabilization as temporal filtering. No other change.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition without citing it, in scope 14. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: 'An error in the transfer functions or the optimum. As a reading
@@ -52,6 +58,7 @@ summary: 'A42 §2 and A44 §3 of the exchange "Explain First Contact RL" (ChatGP
   assistant. The wording is A''s (ChatGPT, in the exchange of 2026-11-22);
   adopting it is the owner''s call.'
 works:
+- atlas
 - governance-of-possibility
 ---
 
