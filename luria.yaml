@@ -777,6 +777,30 @@ vocabularies:
           a will is stays with authenticity, what organizes efficacy with will-organization, judging an
           organization with organizational-normativity, and a whole's success against its members' good with
           distributed-agency (ADR-099)
+      organization-of-perspective:
+        label: The organization of perspective
+        blurb: how a perspective is organized, held and changed by an individual or a collective, and how
+          an organization of perspectives keeps or loses its identity; atlas scope 09 (ADR-tmpd3ckn). What an
+          organized whole is stays with distributed-agency
+      self-correction:
+        label: How an organization can know and fail to correct
+        blurb: the separable achievements of recognizing, making legible, acting on and correcting an error,
+          and how the coupling of evidence, evaluation and authority decides whether a system can correct
+          itself; atlas scope 10 (ADR-tmpd3ckn), first named as a candidate line at the synthesis review of
+          2026-11-23
+      governing-possibility:
+        label: Governing possibility
+        blurb: regulation as the governance of which organizations a system can attain, sustain and revise,
+          not only of conduct within one; readiness under matched present performance, and identity
+          stabilization as filtering indexed to the timescales of demands; atlas scope 14 (ADR-tmpd3ckn).
+          The cost structure of what is realizable stays with realizability, slack with readiness
+      scholarly-publishing:
+        label: Scholarly publishing over governed records
+        blurb: what a research record keeps when publishing separates communication, attribution,
+          preservation, assessment and evaluation — articles as views over a maintained record, editorial
+          assessments as attributable judgements, journals as feeds over editors, and what a host does not
+          supply; atlas scope 15 (ADR-tmpd3ckn). What a record of inquiry keeps stays with records-of-inquiry,
+          the record's own machinery with record-as-apparatus
   works:
     label: Works
     blurb: A manuscript the record's claims are marshalled into. Membership says a claim is in the work;

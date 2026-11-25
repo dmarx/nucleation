@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp9jg87
 title: 'Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; where a perspective contributes to an agent''s activity it can enable and constrain the exercise of agency, and that exercise can reproduce or transform it, while whether agency universally requires such a perspective stays open'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-27'
@@ -39,6 +39,13 @@ history:
     Note of 2026-11-22 added: LEAD-087's run of CASE-145
     (CASE-362) gives no constructed instance of a shared
     perspective without a collective agent. The claim is unchanged.
+- version: 6
+  date: '2026-11-25'
+  note: >-
+    Gains the line organization-of-perspective (atlas scope 09) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,6 +61,7 @@ tags:
 date: '2026-10-22'
 line:
 - distributed-agency
+- organization-of-perspective
 uses:
 - TERM-072
 - TERM-044

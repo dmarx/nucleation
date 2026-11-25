@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: Publishing is a set of separable guarantees, persistent access, stable identifiers, versioned records, metadata, attribution, discoverability and preservation, which different providers can give, so the identity of a scholarly object must be independent of the identity of its host, and keeping it online is distinct from keeping it after the host fails
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -16,6 +24,7 @@ tags:
 date: '2026-11-25'
 line:
 - records-of-inquiry
+- scholarly-publishing
 complements:
 - CLAIM-tmpv0sv7
 summary: >-

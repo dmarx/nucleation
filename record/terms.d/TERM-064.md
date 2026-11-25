@@ -8,7 +8,7 @@ complements:
 - TERM-034
 - TERM-092
 title: 'legibility, of a distinction to an observer for a task: whether the observer, with the rules, categories and resources it actually has, can recover the distinction from what it is given and bring it to bear on the task; a relation among a representation, an observer''s rule class, its resources and a task, bounded above by what the source makes possible for an ideal receiver, and directed, since what is legible to a governing institution and what of its governing is legible to others are different relations'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-21'
@@ -62,12 +62,22 @@ history:
     errors shape what is erased and that a strong observer may supply a
     distinction rather than recover it, are left open. The definition is
     unchanged.
+- version: 8
+  date: '2026-11-25'
+  note: >-
+    Gains the lines self-correction (atlas scope 10); scholarly-publishing
+    (atlas scope 15) under ADR-tmpd3ckn: the entry is in that scope's core
+    fiber in the hyperarticle atlas v0.3 (scratch/atlas/atlas-v0.3.md),
+    and each atlas scope is documented as a line. No other change.
 tags:
 - epistemology
 - information-theory
 - society-and-governance
 date: '2026-10-21'
-line: distributed-agency
+line:
+- distributed-agency
+- self-correction
+- scholarly-publishing
 summary: >-
   The owner's, U22 of the exchange of 2026-10-20: "a theme we seem to be
   touching on that I'm not sure is laid out clearly in our current account

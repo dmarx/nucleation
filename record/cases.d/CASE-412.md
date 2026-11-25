@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpo8bsc
 title: 'A matched-performance model of regulation run under six budget regimes: every regime produces the same output until a contingency arrives, while readiness at a deadline of six periods ranges from 0.147 to 0.894; a redesigned route is lost under the peak rule unless a reserve is also held, a drill each period holds the budget as a reserve does, readiness is a step function of the reserve, the reserve is most ready at every deadline but cheapest only at some, and it pays above a break-even that moves with the deadline and with how often the capability is used'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-23'
@@ -29,6 +29,13 @@ history:
     the same result. The wording is unchanged but for the summary's
     sentence on its standing, which said it "stays Proposed until a
     status review rules that it is demonstrated".
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Gains the line governing-possibility (atlas scope 14) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 standing: documented
 kind: executed-study
 tags:
@@ -49,6 +56,7 @@ line:
 - readiness
 - formal-apparatus
 - realizability
+- governing-possibility
 summary: >-
   The executed study behind §9 of the manuscript governance-of-possibility,
   carrying out the design of [LEAD-226](../leads.d/LEAD-226.md) on [CASE-315](CASE-315.md)'s simulator idea.

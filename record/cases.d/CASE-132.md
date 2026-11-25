@@ -4,14 +4,24 @@ status: Active
 formerly:
 - CASE-tmp8rpr6
 title: 'One complaint, two taxonomies: a report of an unsafe practice is correctly classified both by equipment and by workers'' obligations, the intake procedure needs one primary class, and the class chosen decides whether the report reaches a body that can change working conditions'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line self-correction (atlas scope 10) under ADR-tmpd3ckn:
+    the entry is in that scope's core fiber in the hyperarticle atlas v0.3
+    (scratch/atlas/atlas-v0.3.md), and each atlas scope is documented as a
+    line. No other change.
 standing: fictional
 kind: thought-experiment
 tags:
 - information-retrieval
 - society-and-governance
 date: '2026-10-22'
-line: distributed-agency
+line:
+- distributed-agency
+- self-correction
 illustrates:
 - CLAIM-310
 - CLAIM-403

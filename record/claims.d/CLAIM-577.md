@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmplo4ca
 title: 'A budget set each period to the peak resource spent the period before never rises, so the configurations an organization can reach shrink monotonically, and any transition whose threshold exceeds the cost of holding the current configuration is lost after one period spent holding it, unless the budget is raised from outside by at least the difference'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-06'
@@ -57,6 +57,13 @@ history:
     manuscript from the exchange "Explain First Contact RL": A48 §9.1
     states its mechanism, the utilization-matched budget that loses the
     transition. No other change.
+- version: 7
+  date: '2026-11-25'
+  note: >-
+    Gains the line governing-possibility (atlas scope 14) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -77,6 +84,7 @@ line:
 - readiness
 - formal-apparatus
 - realizability
+- governing-possibility
 rests_on:
 - CLAIM-571
 complements:

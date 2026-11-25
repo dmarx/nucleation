@@ -4,13 +4,20 @@ status: Active
 formerly:
 - CASE-tmp8jhbm
 title: 'The graph that asserted an inference nobody made: filing one claim as supporting another made the record''s link fixer write that the other rested on it, and the record answered by adding a relation'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
     line (ADR-082). No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -19,6 +26,7 @@ tags:
 date: '2026-10-22'
 line:
 - record-as-apparatus
+- scholarly-publishing
 illustrates:
 - CLAIM-181
 summary: >-

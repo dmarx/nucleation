@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpm0bix
 title: 'Lock-in from selectively admitted evidence and lock-in from self-scoring need different remedies: weighting admitted evidence by known, positive admission probabilities undoes the first and leaves the second, so correcting for how evidence was selected is not correcting how it is scored'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-30'
@@ -25,6 +25,13 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §4.1. No other change.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Gains the line self-correction (atlas scope 10) under ADR-tmpd3ckn:
+    the entry is in that scope's core fiber in the hyperarticle atlas v0.3
+    (scratch/atlas/atlas-v0.3.md), and each atlas scope is documented as a
+    line. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -39,6 +46,7 @@ tags:
 date: '2026-10-27'
 line:
 - distributed-agency
+- self-correction
 grounds:
 - CASE-162
 complements:

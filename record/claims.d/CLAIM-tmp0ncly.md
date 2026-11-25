@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: "Just show your work is also a proposal for educators: students will use LLMs anyway, and a record of the collaboration that keeps which contributions were the student's and which the LLM's lets them use LLMs while their own contribution stays assessable"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -16,6 +24,7 @@ date: '2026-11-25'
 line:
 - records-of-inquiry
 - record-as-apparatus
+- scholarly-publishing
 rests_on:
 - CLAIM-668
 bears_on:

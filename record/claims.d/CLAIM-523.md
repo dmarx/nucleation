@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvr0mx
 title: 'For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed'
-version: 10
+version: 11
 history:
 - version: 2
   date: '2026-11-06'
@@ -66,6 +66,13 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 8 §6 (ADR-tmpenzcn). No change of
     title or status.
+- version: 11
+  date: '2026-11-25'
+  note: >-
+    Gains the lines self-correction (atlas scope 10); scholarly-publishing
+    (atlas scope 15) under ADR-tmpd3ckn: the entry is in that scope's core
+    fiber in the hyperarticle atlas v0.3 (scratch/atlas/atlas-v0.3.md),
+    and each atlas scope is documented as a line. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -84,6 +91,8 @@ date: '2026-10-31'
 line:
 - will-organization
 - distributed-agency
+- self-correction
+- scholarly-publishing
 works:
 - governance-of-possibility
 - capability-restraint-relational-freedom

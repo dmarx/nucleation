@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpsp3d4
 title: 'Clive Wearing: a musician left by encephalitis with almost no memory of his past and none of the last minutes, who still plays, sight-reads and conducts, keeps his attachment to his wife, and writes over and over that he has just become conscious for the first time'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -17,6 +17,13 @@ history:
   note: >-
     Draws on THEORY-060 ("Against THEORY-060's life-story identity").
     First application of draws_on (ADR-095). No other change.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Gains the line organization-of-perspective (atlas scope 09) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -24,7 +31,9 @@ tags:
 - self
 - narrative-unity
 date: '2026-10-22'
-line: distributed-agency
+line:
+- distributed-agency
+- organization-of-perspective
 illustrates:
 - CLAIM-417
 - CLAIM-355

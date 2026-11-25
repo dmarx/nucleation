@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: A feed's memory is the durable provenance of the decisions and events that shaped it and not a cache of what it displayed, since a cache says what was shown and a memory says why, so a feed can be modelled as a versioned query with an append-only history of editorial actions, and curation becomes part of the record it curates
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -16,6 +24,7 @@ tags:
 date: '2026-11-25'
 line:
 - records-of-inquiry
+- scholarly-publishing
 uses:
 - TERM-tmpx49xx
 rests_on:
