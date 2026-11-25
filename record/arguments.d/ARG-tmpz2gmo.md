@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'That coordinated unity does not entail unity of authority, applied to strong unitary executive theory, shows that the theory is deficient where it claims control over the processes that evaluate and correct the executive'
+title: 'Unity of activity → unitarism overreaches'
+statement: >-
+  That coordinated unity does not entail unity of authority, applied to
+  strong unitary executive theory, shows that the theory is deficient where
+  it claims control over the processes that evaluate and correct the
+  executive
 version: 1
 form: formal-application
 rests_on:
@@ -26,7 +31,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmp1wlu2 CLAIM-tmplc4m8 CLAIM-tmpqhxsz LIT-tmp4cqb2 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# ARG-tmpz2gmo: That coordinated unity does not entail unity of authority, applied to strong unitary executive theory, shows that the theory is deficient where it claims control over the processes that evaluate and correct the executive
+# ARG-tmpz2gmo: Unity of activity → unitarism overreaches
 
 ## The inference
 

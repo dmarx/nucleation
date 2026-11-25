@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'Kleene''s realizer as van Oosten states it, by analogy, shows that the record''s realization kept with its witness is a realizer, but not that a realization is carried with the evidence that it passes, nor that realizability sits on the proof-relevant side of specification rather than between the two'
+title: 'Kleene realizability → typed specification'
+statement: >-
+  Kleene's realizer as van Oosten states it, by analogy, shows that the
+  record's realization kept with its witness is a realizer, but not that a
+  realization is carried with the evidence that it passes, nor that
+  realizability sits on the proof-relevant side of specification rather than
+  between the two
 version: 1
 form: analogy
 grounds:
@@ -34,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-949 CLAIM-783 TERM-152 TERM-154 TERM-153 LIT-tmp9cdlq THEORY-tmpqj2d4 — Proposed, Open or Unavailable; the claim this weighs, the terms it is stated in, the lead, and the unread work -->
 
-# ARG-tmp68y3c: Kleene's realizer as van Oosten states it, by analogy, shows that the record's realization kept with its witness is a realizer, but not that a realization is carried with the evidence that it passes, nor that realizability sits on the proof-relevant side of specification rather than between the two
+# ARG-tmp68y3c: Kleene realizability → typed specification
 
 ## The inference
 

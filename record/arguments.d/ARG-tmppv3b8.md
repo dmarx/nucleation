@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: 'Martin-Löf''s universes, sets of codes closed under given set-forming operations, by analogy show only in part that revising a question is a change of type handled by universes: a change among the types a universe codes is computed inside it, while a revision that brings in a new form of set is outside every universe given, on one reading met by the next universe and on another by extending the theory'
+title: 'Martin-Löf''s universes → typed specification'
+statement: >-
+  Martin-Löf's universes, sets of codes closed under given set-forming
+  operations, by analogy show only in part that revising a question is a
+  change of type handled by universes: a change among the types a universe
+  codes is computed inside it, while a revision that brings in a new form of
+  set is outside every universe given, on one reading met by the next
+  universe and on another by extending the theory
 version: 1
 form: analogy
 grounds:
@@ -27,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmp62cvo CLAIM-949 CLAIM-tmpjs6hp — Proposed; the reading, the claim this narrows, and the counter filed beside it -->
 
-# ARG-tmppv3b8: Martin-Löf's universes, sets of codes closed under given set-forming operations, by analogy show only in part that revising a question is a change of type handled by universes: a change among the types a universe codes is computed inside it, while a revision that brings in a new form of set is outside every universe given, on one reading met by the next universe and on another by extending the theory
+# ARG-tmppv3b8: Martin-Löf's universes → typed specification
 
 ## The inference
 

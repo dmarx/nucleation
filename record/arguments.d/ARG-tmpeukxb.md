@@ -1,6 +1,10 @@
 ---
 status: Rejected
-title: 'The partial order of organizational achievements, by analogy, would show that the dimensions of memetic success form no hierarchy and so support the memetic nucleation hypothesis'
+title: 'Achievement partial order → memetic dimensions'
+statement: >-
+  The partial order of organizational achievements, by analogy, would show
+  that the dimensions of memetic success form no hierarchy and so support
+  the memetic nucleation hypothesis
 version: 1
 form: analogy
 rests_on:
@@ -31,7 +35,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmp4uj40 CLAIM-tmpgvsgg — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
-# ARG-tmpeukxb: The partial order of organizational achievements, by analogy, would show that the dimensions of memetic success form no hierarchy and so support the memetic nucleation hypothesis
+# ARG-tmpeukxb: Achievement partial order → memetic dimensions
 
 ## The inference
 

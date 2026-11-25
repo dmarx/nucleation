@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'Martin-Löf''s table of readings of the judgement that a is an element of A, in which a is a method of solving the problem A or a program meeting the specification A, shows by analogy that a question is a type whose answers are its elements, a problem defined by what counts as its solution, narrowed to specifications over a kind of thing already given'
+title: 'Martin-Löf''s readings → typed specification'
+statement: >-
+  Martin-Löf's table of readings of the judgement that a is an element of A,
+  in which a is a method of solving the problem A or a program meeting the
+  specification A, shows by analogy that a question is a type whose answers
+  are its elements, a problem defined by what counts as its solution,
+  narrowed to specifications over a kind of thing already given
 version: 1
 form: analogy
 grounds:
@@ -28,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmp62cvo CLAIM-949 TERM-152 CLAIM-tmpjs6hp — Proposed; the reading, the claims and the term this joins -->
 
-# ARG-tmpl0sxy: Martin-Löf's table of readings of the judgement that a is an element of A, in which a is a method of solving the problem A or a program meeting the specification A, shows by analogy that a question is a type whose answers are its elements, a problem defined by what counts as its solution, narrowed to specifications over a kind of thing already given
+# ARG-tmpl0sxy: Martin-Löf's readings → typed specification
 
 ## The inference
 

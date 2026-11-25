@@ -1,6 +1,14 @@
 ---
 status: Proposed
-title: 'Kolmogorov''s calculus of problems, by analogy from his problem to the record''s question, supports reading a question as a problem, since both demand rather than assert, have no truth value and fix what counts as solving them; but narrowed, since a question with several admissible answers is a disjunction of problems and nothing in the calculus revises a problem, and widened, since a problem fully stated carries the means the record assigns to the inquiry'
+title: 'Kolmogorov''s problems → typed specification'
+statement: >-
+  Kolmogorov's calculus of problems, by analogy from his problem to the
+  record's question, supports reading a question as a problem, since both
+  demand rather than assert, have no truth value and fix what counts as
+  solving them; but narrowed, since a question with several admissible
+  answers is a disjunction of problems and nothing in the calculus revises a
+  problem, and widened, since a problem fully stated carries the means the
+  record assigns to the inquiry
 version: 1
 form: analogy
 grounds:
@@ -27,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmpdsft8 CLAIM-949 — new or Proposed; the reading and the claim it weighs -->
 
-# ARG-tmp6sdu6: Kolmogorov's calculus of problems, by analogy from his problem to the record's question, supports reading a question as a problem, since both demand rather than assert, have no truth value and fix what counts as solving them; but narrowed, since a question with several admissible answers is a disjunction of problems and nothing in the calculus revises a problem, and widened, since a problem fully stated carries the means the record assigns to the inquiry
+# ARG-tmp6sdu6: Kolmogorov's problems → typed specification
 
 ## The inference
 

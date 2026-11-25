@@ -1,6 +1,10 @@
 ---
 status: Rejected
-title: 'That a cooperative solution changes its participants and so creates new problems shows, by contrast with morality-as-cooperation, that morality is more than the solutions to cooperation problems'
+title: 'Cooperators change → morality not cooperation'
+statement: >-
+  That a cooperative solution changes its participants and so creates new
+  problems shows, by contrast with morality-as-cooperation, that morality is
+  more than the solutions to cooperation problems
 version: 1
 form: contrast
 grounds:
@@ -36,7 +40,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-468 CLAIM-tmpreipd THEORY-2110 CLAIM-713 — Proposed; the reading contrasted, the claim the contrast was offered for, and Killen's reading that carries one of its other routes -->
 
-# ARG-tmpn6xou: That a cooperative solution changes its participants and so creates new problems shows, by contrast with morality-as-cooperation, that morality is more than the solutions to cooperation problems
+# ARG-tmpn6xou: Cooperators change → morality not cooperation
 
 ## The inference
 
