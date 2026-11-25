@@ -389,7 +389,7 @@ scientist acquires theory, methods and standards together.
 
 ## Note of 2026-11-23: "Explain First Contact RL", U27 to A54
 
-<!-- inactive-ok-block: CLAIM-1157 CLAIM-1008 CLAIM-1060 ARG-238 — new or Proposed; the entries filed from these turns and the claim that narrows one of them -->
+<!-- inactive-ok-block: CLAIM-1060 ARG-238 — new or Proposed; the entries filed from these turns and the claim that narrows one of them -->
 The owner asked at U27 whether asking and answering, both resource-bounded, compete for related resources ([QUESTION-520](../questions.d/QUESTION-520.md)). A52 §1 cites this claim as establishing that "Formulating a question takes time, concepts, memory, and computation", which it does. A52's three-way split of boundedness, coupling and competition is [CLAIM-1157](CLAIM-1157.md); its model of how deep an inquiry should go before execution under a shared deadline is [CLAIM-1008](CLAIM-1008.md); and its thesis that slow organizational modes arise partly to amortize inquiry costs, built on this claim's "stabilized specification is past inquiry stored", is [CLAIM-1060](CLAIM-1060.md), by the inference [ARG-238](../arguments.d/ARG-238.md), which [CLAIM-755](CLAIM-755.md) narrows to the economic sense of slow. No status change.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A16 §9 and A18 §8
