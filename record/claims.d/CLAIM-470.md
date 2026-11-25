@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpalzo4
 title: 'Inquiry is a form of specification: a question fixes which differences would count as an answer, an inquiry adds the operations that make those differences accessible, and what it finds can stabilize into a specification that constrains later inquiry; so inquiry stands to its findings as a specification to its realizations, with one difference, that an inquiry can revise what an answer could be'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-29'
@@ -57,6 +57,13 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 5 abstract, §5 (ADR-tmpenzcn). No
     change of title or status.
+- version: 7
+  date: '2026-11-25'
+  note: >-
+    Gains the line learning-and-inquiry (atlas scope 01) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -77,6 +84,7 @@ tags:
 date: '2026-10-27'
 line:
 - record-as-apparatus
+- learning-and-inquiry
 works:
 - governance-of-becoming
 complements:

@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'A publishing system is part of the apparatus of inquiry: its representation of scholarly work fixes which kinds of labour are recognizable as contributions, so changing the representation changes what counts, and a system that is to stay adequate must govern revisions of its own rules of representation and evaluation as well as of the claims it holds'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -15,6 +23,7 @@ tags:
 date: '2026-11-25'
 line:
 - record-as-apparatus
+- scholarly-publishing
 rests_on:
 - CLAIM-469
 - CLAIM-419

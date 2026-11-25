@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: In a luria record a citation by code, read on the branch or from another record, resolves to the entry's current version and not to the version cited, because entries are rewritten to stay true, and a content pin detects that a cited document changed since it was vouched for without making the vouched version reachable, so a citation that must reach the version it relied on has to name a commit
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -15,6 +23,7 @@ tags:
 date: '2026-11-25'
 line:
 - record-as-apparatus
+- scholarly-publishing
 complements:
 - CLAIM-789
 - CLAIM-tmp48g02

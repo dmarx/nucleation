@@ -1,7 +1,15 @@
 ---
 status: Open
 title: 'Can a publishing system itself learn: recognize failures in its representational and editorial categories, revise them by accountable governance, and show an improved capacity to identify and support valuable research?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 tags:
 - philosophy-of-science
 - society-and-governance
@@ -9,6 +17,7 @@ date: '2026-11-25'
 line:
 - record-as-apparatus
 - learning-and-inquiry
+- scholarly-publishing
 summary: >-
   The closing question of A24 of the exchange "Hyper article
   interpretation" (2026-11-22): "Can the publishing system itself learn?

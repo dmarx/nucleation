@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpuc919
 title: 'scenario-conditioned response readiness: the probability that an organization operating under a specified policy can deliver an effective response to a specified contingency within its deadline'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -14,6 +14,13 @@ history:
     uses it (CLAIM-587, and the questions, cases and terms that cite
     it) names it, so says which sense of readiness it means. A's
     wording is kept.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Gains the line governing-possibility (atlas scope 14) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 tags:
 - operations-research
 - agency
@@ -21,6 +28,7 @@ tags:
 date: '2026-11-04'
 line:
 - readiness
+- governing-possibility
 complements:
 - TERM-055
 summary: >-

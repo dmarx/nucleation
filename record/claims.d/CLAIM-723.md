@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpazi8a
 status: Proposed
 title: 'Acting before a recognized opportunity for intervention can take effect is a wrong of its own, apart from acting without consent: where a party has standing to authorize, suspend or contest an act, an actor who without adequate justification makes the act''s consequences irreversible before that standing can be exercised defeats it, even where the objection would have failed'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-17'
@@ -23,6 +23,13 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 8 §6 (ADR-tmpenzcn). No change of
     title or status.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Gains the line rightful-power (atlas scope 13) under ADR-tmpd3ckn: the
+    entry is in that scope's core fiber in the hyperarticle atlas v0.3
+    (scratch/atlas/atlas-v0.3.md), and each atlas scope is documented as a
+    line. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,6 +52,7 @@ tags:
 date: '2026-11-17'
 line:
 - dependence-and-domination
+- rightful-power
 works:
 - capability-restraint-relational-freedom
 - governance-of-becoming

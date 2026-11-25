@@ -1,7 +1,15 @@
 ---
 status: Open
 title: Read the accounts of what scholarly communication's functions are and of their decoupling, and the overlay journals that already run a journal over work hosted elsewhere, to test the owner's split of publisher, journal and editor against them
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 stage: idea
 priority: low
 method:
@@ -12,6 +20,7 @@ tags:
 date: '2026-11-25'
 line:
 - records-of-inquiry
+- scholarly-publishing
 advances:
 - CLAIM-tmpzz0eu
 - CLAIM-tmpv0sv7

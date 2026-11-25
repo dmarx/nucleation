@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpqktfo
 title: 'Reflexive governance of an organization''s perspectival arrangements, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective; and the capacity to revise those standards is not the capacity to revise them well'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -31,6 +31,13 @@ history:
     perspective or a self; and the capacity to revise those standards is
     not the capacity to revise them well. The defeat condition is
     unchanged.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Gains the line organization-of-perspective (atlas scope 09) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,6 +55,7 @@ tags:
 date: '2026-10-22'
 line:
 - distributed-agency
+- organization-of-perspective
 rests_on:
 - CLAIM-025
 complements:

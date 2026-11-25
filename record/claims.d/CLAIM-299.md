@@ -5,7 +5,7 @@ formerly:
 - CLAIM-tmpb7qd9
 title: Decision sufficiency, historical accountability and correctness are three
   properties of a record of inquiry, and each can hold while the other two fail
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-07'
@@ -25,6 +25,13 @@ history:
     Reading review of 2026-11-11, by question: bears_on QUESTION-258
     added. The question's text, against a connected, well-supported
     subgraph: "CLAIM-299 separates the properties." No other change.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -36,6 +43,7 @@ tags:
 date: '2026-10-15'
 line:
 - records-of-inquiry
+- scholarly-publishing
 grounds:
 - CASE-093
 - CASE-084

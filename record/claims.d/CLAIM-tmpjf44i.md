@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: Scientific publishing should publish the work and not only the paper, as a hyperarticle, a living, versioned body of the work attributed at the level of each contribution, of which any article is one view, and Nucleation can be read as one
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -19,6 +27,7 @@ date: '2026-11-25'
 line:
 - records-of-inquiry
 - record-as-apparatus
+- scholarly-publishing
 rests_on:
 - CLAIM-178
 uses:

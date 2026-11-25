@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdhfze
 title: 'A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it'
-version: 10
+version: 11
 history:
 - version: 2
   date: '2026-10-21'
@@ -74,6 +74,13 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §3.0. No other change.
+- version: 11
+  date: '2026-11-25'
+  note: >-
+    Gains the line organization-of-perspective (atlas scope 09) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -91,6 +98,7 @@ tags:
 date: '2026-10-16'
 line:
 - distributed-agency
+- organization-of-perspective
 grounds:
 - CASE-102
 - CASE-098

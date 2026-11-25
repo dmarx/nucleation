@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmppwzer
 title: 'inquiry: a process that pursues a question, written (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑): a language in which it is posed, an answer space that says which differences would count as an answer, the interventions and observations that make those differences accessible, criteria for judging candidate answers, and the resources it runs on; it is reflexive when any of these becomes what it is pursuing'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -22,12 +22,20 @@ history:
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
     line (ADR-082). No other change.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Gains the line learning-and-inquiry (atlas scope 01) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 tags:
 - epistemology
 - cognition
 date: '2026-10-27'
 line:
 - record-as-apparatus
+- learning-and-inquiry
 complements:
 - TERM-092
 - TERM-065

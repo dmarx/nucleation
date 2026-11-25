@@ -8,7 +8,7 @@ complements:
 - TERM-064
 - TERM-095
 title: 'inquiry frontier, of an agent at a budget: the questions it can formulate, making them determinate enough to pursue, with the concepts, records, tools, time and computation it actually has; distinct from the questions its language can express, from those it can pursue to a stated standard, and from those that have answers'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -40,12 +40,20 @@ history:
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
     line (ADR-082). No other change.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Gains the line learning-and-inquiry (atlas scope 01) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 tags:
 - epistemology
 - cognition
 date: '2026-10-27'
 line:
 - record-as-apparatus
+- learning-and-inquiry
 summary: >-
   The object of [CLAIM-475](../claims.d/CLAIM-475.md), from A17 §§2 and 7 of the exchange of
   2026-10-27. A question is on an agent's frontier if some procedure

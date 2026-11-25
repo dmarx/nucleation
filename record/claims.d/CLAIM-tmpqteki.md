@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: "A record of a student's collaboration with an LLM is not proof of understanding but a better basis for questioning it: who first proposed a step, how it was evaluated and whether it was adopted are different pieces of information, and the submission becomes a view over a learning process"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -15,6 +23,7 @@ tags:
 date: '2026-11-25'
 line:
 - records-of-inquiry
+- scholarly-publishing
 rests_on:
 - CLAIM-tmp0ncly
 - CLAIM-668
