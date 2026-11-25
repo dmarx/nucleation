@@ -82,3 +82,19 @@ would preserve the false dependency in CASE-131." That is filed as
 [CLAIM-666](../claims.d/CLAIM-666.md), with [ARG-096](../arguments.d/ARG-096.md). This case's "What it does not show" is
 also A25's methodological point: a schema history "cannot tell us how many
 contributions were misclassified or abandoned because they did not fit".
+
+## Note of 2026-11-25: read as an atlas's failed transition, from "Hyper article interpretation"
+
+<!-- inactive-ok-block: CLAIM-tmplz7ng ARG-tmpmj7av CLAIM-tmpyaro8 — new; the atlas thesis, the argument from this case, the owner's class-stability thesis and the route lead -->
+ChatGPT, at A49 of the exchange "Hyper article interpretation"
+(2026-11-25), takes this case as "an unusually good persisted example" of
+its atlas thesis ([CLAIM-tmplz7ng](../claims.d/CLAIM-tmplz7ng.md)): two views of one argument, the
+supporting claim's and the supported claim's, described one relation
+incompatibly until `corroborates` was added. A's account of the case is
+accurate. [ARG-tmpmj7av](../arguments.d/ARG-tmpmj7av.md) holds what the case shows for that thesis, an
+existence result for progress by a distinction that restores
+compatibility, and not more. A47 counts it among the distinctions that
+keep a class stable ([CLAIM-tmpyaro8](../claims.d/CLAIM-tmpyaro8.md)), and A61 makes it the first post of
+its first blog series, "The Knowledge Graph That Lied" ([LEAD-tmpx9p54](../leads.d/LEAD-tmpx9p54.md)
+checks that route against the record's edges). The note is the
+assistant's (Claude, in this session). No status change.

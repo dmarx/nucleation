@@ -44,6 +44,8 @@ summary: >-
   is the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: THEORY-tmpqj2d4 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
+
 <!-- inactive-ok-file: THEORY-tmptsz1u — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: CLAIM-772 CLAIM-773 TERM-134 — Proposed; the contraction claims this formalizes for predicates, and the entries filed with it on 2026-11-21 -->
 
@@ -194,6 +196,14 @@ conjoined, so solutions are closed under union. That is part 6 said of
 types: descriptors true of the same values never conflict. Adding a
 qualifier to a solution's conjunction only shrinks the set it admits, as
 in part 1. Parallels only; the derivation here is unaffected.
+
+## Note of 2026-11-22: Kleene, read through van Oosten
+
+A parallel, no edge. Part 6's argument, that descriptors never conflict
+because the entry witnesses them, has the shape of Kleene's existential
+clause ([THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md)): the entry, with trivial realizers of the tests it
+passes, realizes "some version passes them all". The reading adds no
+support to a demonstrated result. No status changes.
 
 ## Note of 2026-11-22: Dunfield and Krishnaswami, read
 
