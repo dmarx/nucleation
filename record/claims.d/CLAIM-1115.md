@@ -62,7 +62,7 @@ summary: >-
   least costs overstate what is jointly attainable. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-1016 CLAIM-1025 — Proposed; the claim this supports, its argument, the authorization fill and the bounds filed from A52 and A54 -->
+<!-- inactive-ok-file: CLAIM-1016 — Proposed; the claim this supports, its argument, the authorization fill and the bounds filed from A52 and A54 -->
 
 # CLAIM-1115: At one budget, the questions an agent can formulate and the answers it can attain once a question is supplied do not fix which question–answer pairs it can attain together, but their budget-indexed families do when the costs of formulating and answering compose by a declared rule; what is left over is the rule, and where the way a question is formulated changes what answering it costs, not even the least costs fix it
 

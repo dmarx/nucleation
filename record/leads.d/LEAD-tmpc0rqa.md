@@ -44,7 +44,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-265 CASE-268 CLAIM-693 CASE-365 CLAIM-953 CLAIM-646 CLAIM-755 CLAIM-tmp9ia3w CLAIM-tmp7rl3d CASE-382 CLAIM-741 CLAIM-672 CASE-367 CASE-347 CASE-410 CASE-225 CLAIM-889 CLAIM-tmpm76n5 LEAD-089 LEAD-181 — Done, Proposed; cited in prose with their standing, whatever it is -->
-<!-- inactive-ok-file: CASE-236 CASE-259 CASE-260 CASE-264 CASE-283 CLAIM-364 CLAIM-tmp6nzs1 CLAIM-1157 CLAIM-1025 CLAIM-1008 CLAIM-1203 — Proposed; the grounds and premises that hold the kept entries back, an added item, and the chain a promotion frees -->
+<!-- inactive-ok-file: CASE-236 CASE-259 CASE-260 CASE-264 CASE-283 CLAIM-364 CLAIM-tmp6nzs1 — Proposed; the grounds and premises that hold the kept entries back, an added item, and the chain a promotion frees -->
 
 # LEAD-tmpc0rqa: Recompute, in a session other than the filer's, the demonstrated claims and executed studies the manuscript governance-of-becoming leans on that only their filers have checked, from their kept scripts where there are scripts and from their stated derivations where there are none, recording each result on its entry
 

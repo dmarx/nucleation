@@ -49,7 +49,6 @@ summary: 'A gap fill: a gap of the manuscript governance-of-possibility, §10.3 
   to [TERM-085](../terms.d/TERM-085.md)''s split of the time to correct. Checked with python3 -I. The wording
   is the assistant''s (Claude, in this session); adopting it is the owner''s call.'
 ---
-<!-- inactive-ok-file: CLAIM-1157 CLAIM-1025 CLAIM-1008 CLAIM-1203 — Proposed; the chain this claim's promotion frees, cited with their standing -->
 
 <!-- inactive-ok-file: CLAIM-711 CLAIM-423 CASE-316 — Proposed; the claims the manuscript's join also uses, and the case of competing stages -->
 

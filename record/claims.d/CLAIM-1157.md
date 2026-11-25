@@ -1,10 +1,10 @@
 ---
 number: 1157
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpq4crr
 title: 'That asking and answering are each resource-bounded does not make them compete: a common budget, a common bottleneck or a sequential dependence supplies the coupling, and a shared deadline is not a shared pool of worker-hours, since independent processes can spend the same elapsed time at once'
-version: 1
+version: 2
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -36,8 +36,21 @@ summary: >-
   for the same scarce capacity" as "Not established; false in general".
   The wording is A's (ChatGPT, at A52 of the exchange "Explain First
   Contact RL"); adopting it is the owner's call.
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Promoted to Active under the owner's delegation of 2026-11-24
+    ("handle the fixes for the twelve ... use your best judgement"),
+    as the status pass of 2026-11-24 and the reruns of 2026-11-25
+    applied it to independently recomputed demonstrated claims. It was
+    rerun by a session other than the filer's on 2026-11-25 (scratch/formal/inquiry_depth_check.py;
+    the curation entry of 2026-11-25 02:20) and reproduced; it was then
+    held back only by CLAIM-1114, which the recomputation pass of
+    2026-11-25 promoted. ADR-057: it rests on CLAIM-475 and CLAIM-1114, both Active (CLAIM-1114 promoted in the recomputation pass, dmarx/nucleation#813); it uses TERM-085, Active; no objection targets it; and
+    nothing meets its defeated_if.
 ---
-<!-- inactive-ok-file: CLAIM-1008 CLAIM-1025 CASE-316 — Proposed; the construction this rests on and the entries filed with it -->
+<!-- inactive-ok-file: CASE-316 — Proposed; the construction this rests on and the entries filed with it -->
 
 # CLAIM-1157: That asking and answering are each resource-bounded does not make them compete: a common budget, a common bottleneck or a sequential dependence supplies the coupling, and a shared deadline is not a shared pool of worker-hours, since independent processes can spend the same elapsed time at once
 

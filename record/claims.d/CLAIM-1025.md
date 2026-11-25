@@ -1,10 +1,10 @@
 ---
 number: 1025
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp4u0mj
 title: "The questions an organization can both pose and answer by a deadline lie between an inner bound, those whose posing and answering fit the horizon and budget run one after the other, and an outer bound, those each of whose processes fits alone, and where between them depends on precedence and sharing that neither frontier records, so two organizations with the same query and answer frontiers can differ in what they can jointly do"
-version: 1
+version: 2
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -42,8 +42,21 @@ summary: >-
   checked pair of organizations that they cannot tell apart. The wording is
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Promoted to Active under the owner's delegation of 2026-11-24
+    ("handle the fixes for the twelve ... use your best judgement"),
+    as the status pass of 2026-11-24 and the reruns of 2026-11-25
+    applied it to independently recomputed demonstrated claims. It was
+    rerun by a session other than the filer's on 2026-11-25 (scratch/formal/inquiry_depth_check.py;
+    the curation entry of 2026-11-25 02:20) and reproduced; it was then
+    held back only by CLAIM-1114, which the recomputation pass of
+    2026-11-25 promoted. ADR-057: it rests on CLAIM-1114, CLAIM-1084 and CLAIM-1157, all Active (CLAIM-1157 promoted just before it); it uses TERM-092, Active; no objection targets it; and
+    nothing meets its defeated_if.
 ---
-<!-- inactive-ok-file: CLAIM-1157 CLAIM-1004 TERM-167 TERM-159 — Proposed; the construction this rests on, A's claim, the owner's conjecture, the viability kernel, and the joint relation and terms filed beside it -->
+<!-- inactive-ok-file: CLAIM-1004 TERM-167 TERM-159 — Proposed; the construction this rests on, A's claim, the owner's conjecture, the viability kernel, and the joint relation and terms filed beside it -->
 
 # CLAIM-1025: The questions an organization can both pose and answer by a deadline lie between an inner bound, those whose posing and answering fit the horizon and budget run one after the other, and an outer bound, those each of whose processes fits alone, and where between them depends on precedence and sharing that neither frontier records, so two organizations with the same query and answer frontiers can differ in what they can jointly do
 

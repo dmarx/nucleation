@@ -1,10 +1,10 @@
 ---
 number: 1008
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp2dr12
 title: "Where inquiry of depth k must finish before execution can start within a deadline H, the chance of success p(k)F(H − t(k)) is greatest at an interior depth where the relative gain in finding a suitable response equals the time cost times the relative loss in execution readiness, so the appropriate depth of inquiry depends on the deadline and on the target's response dynamics"
-version: 1
+version: 2
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -36,8 +36,21 @@ summary: >-
   and when it can jump down, is the assistant's [CLAIM-1203](CLAIM-1203.md). The
   wording is A's (ChatGPT, at A52 of the exchange "Explain First Contact
   RL"); adopting it is the owner's call.
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Promoted to Active under the owner's delegation of 2026-11-24
+    ("handle the fixes for the twelve ... use your best judgement"),
+    as the status pass of 2026-11-24 and the reruns of 2026-11-25
+    applied it to independently recomputed demonstrated claims. It was
+    rerun by a session other than the filer's on 2026-11-25 (scratch/formal/maintained_nuclei_check.py;
+    the curation entry of 2026-11-25 02:20) and reproduced; it was then
+    held back only by CLAIM-1114, which the recomputation pass of
+    2026-11-25 promoted. ADR-057: it rests on CLAIM-475 and CLAIM-1157, both Active (CLAIM-1157 promoted just before it); it uses TERM-085, Active; no objection targets it; and
+    nothing meets its defeated_if.
 ---
-<!-- inactive-ok-file: CLAIM-1203 CLAIM-1070 — Proposed; the claim this rests on, the gap fill, the case filed with it and the claim whose phrase A uses -->
+<!-- inactive-ok-file: CLAIM-1070 — Proposed; the claim this rests on, the gap fill, the case filed with it and the claim whose phrase A uses -->
 
 # CLAIM-1008: Where inquiry of depth k must finish before execution can start within a deadline H, the chance of success p(k)F(H − t(k)) is greatest at an interior depth where the relative gain in finding a suitable response equals the time cost times the relative loss in execution readiness, so the appropriate depth of inquiry depends on the deadline and on the target's response dynamics
 
@@ -96,5 +109,4 @@ table's arithmetic checks.
 
 ## Note of 2026-11-25: rerun, and what holds it back
 
-<!-- inactive-ok-block: CLAIM-1157 — Proposed; the premise that holds this back, and the one that holds it -->
 Rerun on 2026-11-25 by the assistant, a session other than the filer's, at the owner's word ("go ahead with the reruns"; the owner delegated on 2026-11-24 the promotion of demonstrated claims independently recomputed). The filer's script was not kept, so the check was rebuilt from this entry alone as `scratch/formal/inquiry_depth_check.py`, with a negative control, and run with python3 -I. Every computation reproduces. The table's days left are 8, 4 and 1, and only the rapid inquiry leaves the five days. The analytic P′ agrees with a central difference to 10⁻⁷. At H = 4, 5, 6, 8, 10 and 14 the maximizer satisfies the condition to four decimals (0.8602, 0.3897, 0.1759, 0.0362, 0.0073, 0.0003 on both sides), and at H = 6 the grid maximizer is k* = 1.900 with both sides 0.176, as stated. One precision: that k* = 1.900 implies a grid of 0.001, and at that grid's points themselves the two sides agree to within 0.001, not four decimals (0.8606 against 0.8599 at H = 4); the four decimals hold at the maximizer, which the rerun refines from the grid by golden section. The control, k away from the optimum, gives sides that differ by more than 0.05. What holds it back: [ADR-057](../decisions.d/ADR-057.md)'s first criterion. Its premise [CLAIM-1157](CLAIM-1157.md) is Proposed, and that is held by [CLAIM-1114](CLAIM-1114.md) ([CLAIM-475](CLAIM-475.md) is Active). Since the model uses [CLAIM-1157](CLAIM-1157.md) only for its sequential framing, a pass could also read the edge as a borrowed framing and make the claim conditional ([ADR-057](../decisions.d/ADR-057.md), "An inversion"); that is a pass's ruling, not this rerun's. The note is the assistant's (Claude, in this session). No status change.

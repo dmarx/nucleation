@@ -30,7 +30,7 @@ summary: >-
   the predicted pattern by budget rules and reserves. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-395 CASE-388 CLAIM-1016 CLAIM-1025 — Proposed; cited in prose with their standing, whatever it is -->
+<!-- inactive-ok-file: CASE-395 CASE-388 CLAIM-1016 — Proposed; cited in prose with their standing, whatever it is -->
 
 # LEAD-tmp8ogv0: Run the study of research organizations matched on familiar inquiry and differing in how inquiry is authorized and perspectives maintained, in simulation first, with an arm on slack that holds authorization fixed
 
