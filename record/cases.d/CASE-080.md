@@ -3,7 +3,10 @@ number: 80
 status: Active
 formerly:
 - CASE-tmpejqc0
-title: 'The skeptic who delegates: a critic that cannot overturn an emerging consensus gives its authority to a process that can generate alternatives'
+title: 'The skeptic who delegates'
+statement: >-
+  The skeptic who delegates: a critic that cannot overturn an emerging
+  consensus gives its authority to a process that can generate alternatives
 version: 2
 history:
 - version: 2
@@ -33,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 CLAIM-281 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CASE-080: The skeptic who delegates: a critic that cannot overturn an emerging consensus gives its authority to a process that can generate alternatives
+# CASE-080: The skeptic who delegates
 
 ## The case
 

@@ -3,7 +3,12 @@ number: 250
 status: Proposed
 formerly:
 - CASE-tmpza0id
-title: 'A proposed study: whether a recommender''s objective with interface friction, or a game''s monetization design, raises engagement or revenue by lowering the efficacy of commitments its users keep endorsing, measured against goals and budgets elicited apart from any choice'
+title: 'Engagement design against users'' commitments'
+statement: >-
+  A proposed study: whether a recommender's objective with interface
+  friction, or a game's monetization design, raises engagement or revenue by
+  lowering the efficacy of commitments its users keep endorsing, measured
+  against goals and budgets elicited apart from any choice
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -32,7 +37,7 @@ summary: >-
   owner's call.
 ---
 
-# CASE-250: A proposed study: whether a recommender's objective with interface friction, or a game's monetization design, raises engagement or revenue by lowering the efficacy of commitments its users keep endorsing, measured against goals and budgets elicited apart from any choice
+# CASE-250: Engagement design against users' commitments
 
 ## The case
 

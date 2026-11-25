@@ -3,7 +3,14 @@ number: 388
 status: Proposed
 formerly:
 - CASE-tmp1ptqp
-title: 'A proposed study: project proposals of independently rated promise and matched requirements, run through centralized review, translation support, protected exploration and distributed evaluation, comparing the cost and time to a meaningful evaluation, approval, implementation, and whether unfamiliar but valuable classes of proposal survive long enough to produce evidence'
+title: 'Proposal review regimes compared'
+statement: >-
+  A proposed study: project proposals of independently rated promise and
+  matched requirements, run through centralized review, translation support,
+  protected exploration and distributed evaluation, comparing the cost and
+  time to a meaningful evaluation, approval, implementation, and whether
+  unfamiliar but valuable classes of proposal survive long enough to produce
+  evidence
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -30,7 +37,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1117 CLAIM-1140 CLAIM-1132 CLAIM-1119 — Proposed; the claims the study bears on -->
 
-# CASE-388: A proposed study: project proposals of independently rated promise and matched requirements, run through centralized review, translation support, protected exploration and distributed evaluation, comparing the cost and time to a meaningful evaluation, approval, implementation, and whether unfamiliar but valuable classes of proposal survive long enough to produce evidence
+# CASE-388: Proposal review regimes compared
 
 ## The design
 

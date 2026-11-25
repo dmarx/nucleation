@@ -3,7 +3,10 @@ number: 305
 status: Proposed
 formerly:
 - CASE-tmpykltu
-title: 'Cluster sizes in two-dimensional site percolation and final sizes of a small Reed–Frost epidemic, below and above their thresholds'
+title: 'Site percolation and Reed–Frost cluster sizes'
+statement: >-
+  Cluster sizes in two-dimensional site percolation and final sizes of a
+  small Reed–Frost epidemic, below and above their thresholds
 version: 1
 standing: stipulated
 kind: construction
@@ -27,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-840 — Proposed or new; the owner's conjecture and the reading this case checks -->
 
-# CASE-305: Cluster sizes in two-dimensional site percolation and final sizes of a small Reed–Frost epidemic, below and above their thresholds
+# CASE-305: Site percolation and Reed–Frost cluster sizes
 
 ## Percolation
 

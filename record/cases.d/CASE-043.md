@@ -3,7 +3,9 @@ number: 43
 status: Active
 formerly:
 - CASE-tmp3lyh3
-title: 'Data written for a future reader and never read'
+title: 'Data written for a future reader, never read'
+statement: >-
+  Data written for a future reader and never read
 version: 1
 standing: stipulated
 kind: thought-experiment
@@ -23,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-160 — Proposed; the claims this case is used for, open -->
 
-# CASE-043: Data written for a future reader and never read
+# CASE-043: Data written for a future reader, never read
 
 ## The case
 

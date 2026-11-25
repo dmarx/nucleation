@@ -3,7 +3,18 @@ number: 415
 status: Active
 formerly:
 - CASE-tmpqnoj1
-title: 'A simulation of four governance architectures over cooperative, honestly dissenting and adversarial specialists in a federated learner: audit by evaluators who hold their own evidence and judge only where they hold it blocks both attacks and lifts the minority''s capability, reputation by agreement is captured by the attack that mimics dissent, two compromised evaluators of seven let that attack through where honest evidence is thin, a revisable safeguard repairs part of the damage only while its monitor is honest, and with no evidence independent of the proposals every architecture''s gain for the dissenters is the attacker''s gain in the relabelled world'
+title: 'Four governance architectures, federated'
+statement: >-
+  A simulation of four governance architectures over cooperative, honestly
+  dissenting and adversarial specialists in a federated learner: audit by
+  evaluators who hold their own evidence and judge only where they hold it
+  blocks both attacks and lifts the minority's capability, reputation by
+  agreement is captured by the attack that mimics dissent, two compromised
+  evaluators of seven let that attack through where honest evidence is thin,
+  a revisable safeguard repairs part of the damage only while its monitor is
+  honest, and with no evidence independent of the proposals every
+  architecture's gain for the dissenters is the attacker's gain in the
+  relabelled world
 version: 2
 history:
 - version: 1
@@ -67,7 +78,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1091 CLAIM-1018 — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-281 — Proposed; a model considered and not used, and a claim cited for comparison, nothing here rests on them -->
 
-# CASE-415: A simulation of four governance architectures over cooperative, honestly dissenting and adversarial specialists in a federated learner: audit by evaluators who hold their own evidence and judge only where they hold it blocks both attacks and lifts the minority's capability, reputation by agreement is captured by the attack that mimics dissent, two compromised evaluators of seven let that attack through where honest evidence is thin, a revisable safeguard repairs part of the damage only while its monitor is honest, and with no evidence independent of the proposals every architecture's gain for the dissenters is the attacker's gain in the relabelled world
+# CASE-415: Four governance architectures, federated
 
 ## What was done
 

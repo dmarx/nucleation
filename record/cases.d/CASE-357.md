@@ -3,7 +3,15 @@ number: 357
 status: Proposed
 formerly:
 - CASE-tmp2zo3t
-title: 'A toy network trained with a benign trigger-conditioned relabelling, then fine-tuned until the triggered behaviour is never expressed, keeps the trigger decodable and recruited and the old mapping recoverable on symbols never retrained by gate-only retraining or one added vector, though sampling and brief full retraining recover almost none of it; the residue shrinks with longer fine-tuning and nearly vanishes under weight decay, and a never-trained control recovers nothing'
+title: 'Trigger residue after suppressive fine-tuning'
+statement: >-
+  A toy network trained with a benign trigger-conditioned relabelling, then
+  fine-tuned until the triggered behaviour is never expressed, keeps the
+  trigger decodable and recruited and the old mapping recoverable on symbols
+  never retrained by gate-only retraining or one added vector, though
+  sampling and brief full retraining recover almost none of it; the residue
+  shrinks with longer fine-tuning and nearly vanishes under weight decay,
+  and a never-trained control recovers nothing
 version: 1
 history:
 - version: 1
@@ -52,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-275 CLAIM-697 TERM-118 THEORY-1900 THEORY-1902 — Proposed; the design this runs, the claim it bears on, the term whose cases it separates, and the readings it stands in for -->
 
-# CASE-357: A toy network trained with a benign trigger-conditioned relabelling, then fine-tuned until the triggered behaviour is never expressed, keeps the trigger decodable and recruited and the old mapping recoverable on symbols never retrained by gate-only retraining or one added vector, though sampling and brief full retraining recover almost none of it; the residue shrinks with longer fine-tuning and nearly vanishes under weight decay, and a never-trained control recovers nothing
+# CASE-357: Trigger residue after suppressive fine-tuning
 
 ## What was done
 

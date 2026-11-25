@@ -3,7 +3,15 @@ number: 263
 status: Proposed
 formerly:
 - CASE-tmpkqwn1
-title: 'Regressive progress, a stipulated pair: an innovation that raises national output by fifteen per cent while raising economic insecurity, concentrating institutional power and reducing workers'' room for independent judgment, and a medical advance that needs complex infrastructure and adds dependence while greatly reducing suffering; a standard of progress is tested by whether it ranks the first below and the second above'
+title: 'Regressive progress, a stipulated pair'
+statement: >-
+  Regressive progress, a stipulated pair: an innovation that raises national
+  output by fifteen per cent while raising economic insecurity,
+  concentrating institutional power and reducing workers' room for
+  independent judgment, and a medical advance that needs complex
+  infrastructure and adds dependence while greatly reducing suffering; a
+  standard of progress is tested by whether it ranks the first below and the
+  second above
 version: 1
 standing: stipulated
 kind: thought-experiment
@@ -34,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-682 CLAIM-681 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
-# CASE-263: Regressive progress, a stipulated pair: an innovation that raises national output by fifteen per cent while raising economic insecurity, concentrating institutional power and reducing workers' room for independent judgment, and a medical advance that needs complex infrastructure and adds dependence while greatly reducing suffering; a standard of progress is tested by whether it ranks the first below and the second above
+# CASE-263: Regressive progress, a stipulated pair
 
 ## The case
 

@@ -3,7 +3,12 @@ number: 279
 status: Proposed
 formerly:
 - CASE-tmpwrhkd
-title: 'Two couples, stipulated: in one both partners fight and neither controls the other; in the other the partner who strikes more often is the one controlled, and the other partner holds the money, the messages, the friendships and the exit'
+title: 'Two couples, stipulated'
+statement: >-
+  Two couples, stipulated: in one both partners fight and neither controls
+  the other; in the other the partner who strikes more often is the one
+  controlled, and the other partner holds the money, the messages, the
+  friendships and the exit
 version: 10
 history:
 - version: 2
@@ -78,7 +83,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2715 LIT-2675 — Deferred; registered unread from the same exchange -->
 <!-- inactive-ok-file: CASE-264 — Proposed; the record's contrast of the same shape, cited with its standing -->
 
-# CASE-279: Two couples, stipulated: in one both partners fight and neither controls the other; in the other the partner who strikes more often is the one controlled, and the other partner holds the money, the messages, the friendships and the exit
+# CASE-279: Two couples, stipulated
 
 ## The case
 

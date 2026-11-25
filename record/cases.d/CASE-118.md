@@ -3,7 +3,13 @@ number: 118
 status: Active
 formerly:
 - CASE-tmptwfjg
-title: 'Two competing components with interaction matrix A = [[1, ρ], [ρ, 1]]: with equal growth rates their invasion growth is 1 − ρ, the smallest eigenvalue of the Gram matrix, and with growth rates 1 ± δ the same matrix supports coexistence only when |δ| < (1 − ρ)/(1 + ρ), so feature geometry alone does not fix coexistence'
+title: 'Two competing components with overlap ρ'
+statement: >-
+  Two competing components with interaction matrix A = [[1, ρ], [ρ, 1]]:
+  with equal growth rates their invasion growth is 1 − ρ, the smallest
+  eigenvalue of the Gram matrix, and with growth rates 1 ± δ the same matrix
+  supports coexistence only when |δ| < (1 − ρ)/(1 + ρ), so feature geometry
+  alone does not fix coexistence
 version: 5
 history:
 - version: 2
@@ -60,7 +66,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-193 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1826 — Unfetched since 2026-10-29; Chesson 1990, cited in the note of that date as not read, nothing here rests on it -->
 
-# CASE-118: Two competing components with interaction matrix A = [[1, ρ], [ρ, 1]]: with equal growth rates their invasion growth is 1 − ρ, the smallest eigenvalue of the Gram matrix, and with growth rates 1 ± δ the same matrix supports coexistence only when |δ| < (1 − ρ)/(1 + ρ), so feature geometry alone does not fix coexistence
+# CASE-118: Two competing components with overlap ρ
 
 ## The construction
 

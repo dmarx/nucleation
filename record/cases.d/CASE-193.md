@@ -3,7 +3,15 @@ number: 193
 status: Proposed
 formerly:
 - CASE-tmpbd03o
-title: 'Four model classes on one task with two contexts, targets ±1 and demands ŷ_A ≥ ½, ŷ_B ≤ −½: a shared scalar is regular and frustrated (λ = ½), a shared product ab is singular and frustrated (λ = ½, multiplicity 2), a context-split x ± d is regular and compatible (λ = 1), and x ± de is singular and compatible (λ = 1 against d/2 = 3/2), so singularity and compatibility vary independently, while λ here is ½ in both frustrated arms and 1 in both compatible ones'
+title: 'Four model classes on a two-context task'
+statement: >-
+  Four model classes on one task with two contexts, targets ±1 and demands
+  ŷ_A ≥ ½, ŷ_B ≤ −½: a shared scalar is regular and frustrated (λ = ½), a
+  shared product ab is singular and frustrated (λ = ½, multiplicity 2), a
+  context-split x ± d is regular and compatible (λ = 1), and x ± de is
+  singular and compatible (λ = 1 against d/2 = 3/2), so singularity and
+  compatibility vary independently, while λ here is ½ in both frustrated
+  arms and 1 in both compatible ones
 version: 2
 history:
 - version: 2
@@ -48,7 +56,7 @@ summary: >-
   reader; adopting it is the owner's call.
 ---
 
-# CASE-193: Four model classes on one task with two contexts, targets ±1 and demands ŷ_A ≥ ½, ŷ_B ≤ −½: a shared scalar is regular and frustrated (λ = ½), a shared product ab is singular and frustrated (λ = ½, multiplicity 2), a context-split x ± d is regular and compatible (λ = 1), and x ± de is singular and compatible (λ = 1 against d/2 = 3/2), so singularity and compatibility vary independently, while λ here is ½ in both frustrated arms and 1 in both compatible ones
+# CASE-193: Four model classes on a two-context task
 
 ## The construction
 

@@ -3,7 +3,18 @@ number: 377
 status: Proposed
 formerly:
 - CASE-tmp3pe1j
-title: 'A matched document comparison of public standards bodies with and without a standing mechanism to revise their governing standard — WHATWG against the W3C HTML and XHTML track, the W3C before against after its 2019 adoption of the living-standard model, and the Unicode Consortium against the frozen code-page regime, with the Julian calendar as an unmatched extreme — finds recognized inadequacies corrected within days to a few years where an effective revision means exists and left standing for years to centuries where it does not, the resource-reversed and same-institution pairs cutting against the rival that only the evidence differed; small-N, chosen not sampled, illustrative not powered'
+title: 'Standards bodies with and without revision'
+statement: >-
+  A matched document comparison of public standards bodies with and without
+  a standing mechanism to revise their governing standard — WHATWG against
+  the W3C HTML and XHTML track, the W3C before against after its 2019
+  adoption of the living-standard model, and the Unicode Consortium against
+  the frozen code-page regime, with the Julian calendar as an unmatched
+  extreme — finds recognized inadequacies corrected within days to a few
+  years where an effective revision means exists and left standing for years
+  to centuries where it does not, the resource-reversed and same-institution
+  pairs cutting against the rival that only the evidence differed; small-N,
+  chosen not sampled, illustrative not powered
 version: 1
 history:
 - version: 1
@@ -30,7 +41,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-685 CLAIM-665 — Proposed; the claim this case illustrates and its routine-work limit, cited with their standing -->
 
-# CASE-377: A matched document comparison of public standards bodies with and without a standing mechanism to revise their governing standard — WHATWG against the W3C HTML and XHTML track, the W3C before against after its 2019 adoption of the living-standard model, and the Unicode Consortium against the frozen code-page regime, with the Julian calendar as an unmatched extreme — finds recognized inadequacies corrected within days to a few years where an effective revision means exists and left standing for years to centuries where it does not, the resource-reversed and same-institution pairs cutting against the rival that only the evidence differed; small-N, chosen not sampled, illustrative not powered
+# CASE-377: Standards bodies with and without revision
 
 ## What the lead asked
 

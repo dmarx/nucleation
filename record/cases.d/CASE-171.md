@@ -3,7 +3,12 @@ number: 171
 status: Proposed
 formerly:
 - CASE-tmpir76a
-title: 'Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside an insect, amino-acid pathways patched together from three genomes and genes transferred from other bacteria, and an inner symbiont replaced several times while the transferred genes stayed'
+title: 'Mealybugs, Tremblaya and Moranella'
+statement: >-
+  Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside
+  an insect, amino-acid pathways patched together from three genomes and
+  genes transferred from other bacteria, and an inner symbiont replaced
+  several times while the transferred genes stayed
 version: 6
 history:
 - version: 2
@@ -55,7 +60,7 @@ draws_on:
 <!-- inactive-ok-file: LIT-1565 LIT-1569 LIT-1572 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: THEORY-418 — Open or Proposed; the question and account the case is filed to test -->
 
-# CASE-171: Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside an insect, amino-acid pathways patched together from three genomes and genes transferred from other bacteria, and an inner symbiont replaced several times while the transferred genes stayed
+# CASE-171: Mealybugs, Tremblaya and Moranella
 
 ## The case
 

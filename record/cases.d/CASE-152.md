@@ -3,7 +3,15 @@ number: 152
 status: Active
 formerly:
 - CASE-tmpj2xb7
-title: 'Absent attempt or unresponsive receiver: with Y ∼ N(ab, 1), a the strength of an attempted influence and b the receiver''s responsiveness, the settings (a, b) = (0, 1) and (1, 0) give the same response distribution; K(a, b) = a²b²/2, the Fisher matrix has rank at most one and vanishes at the origin, and the real log canonical threshold is ½ with multiplicity 2, not the regular d/2 = 1, while changing b with a held fixed separates the two'
+title: 'Absent attempt or unresponsive receiver'
+statement: >-
+  Absent attempt or unresponsive receiver: with Y ∼ N(ab, 1), a the strength
+  of an attempted influence and b the receiver's responsiveness, the
+  settings (a, b) = (0, 1) and (1, 0) give the same response distribution;
+  K(a, b) = a²b²/2, the Fisher matrix has rank at most one and vanishes at
+  the origin, and the real log canonical threshold is ½ with multiplicity 2,
+  not the regular d/2 = 1, while changing b with a held fixed separates the
+  two
 version: 2
 history:
 - version: 2
@@ -36,7 +44,7 @@ draws_on:
 - THEORY-087
 ---
 
-# CASE-152: Absent attempt or unresponsive receiver: with Y ∼ N(ab, 1), a the strength of an attempted influence and b the receiver's responsiveness, the settings (a, b) = (0, 1) and (1, 0) give the same response distribution; K(a, b) = a²b²/2, the Fisher matrix has rank at most one and vanishes at the origin, and the real log canonical threshold is ½ with multiplicity 2, not the regular d/2 = 1, while changing b with a held fixed separates the two
+# CASE-152: Absent attempt or unresponsive receiver
 
 ## The case
 

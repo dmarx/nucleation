@@ -3,7 +3,13 @@ number: 266
 status: Proposed
 formerly:
 - CASE-tmp5mact
-title: 'Equal charge, different tokens: two φ⁴ kinks with the same boundary charge and energy sit anywhere on the line, a perturbed kink can return to the kink family while drifting from its centre, and a winding-two sector of the abelian Higgs model holds two separated vortices, two coincident ones or, above critical coupling, a symmetric one that is unstable'
+title: 'Equal charge, different tokens'
+statement: >-
+  Equal charge, different tokens: two φ⁴ kinks with the same boundary charge
+  and energy sit anywhere on the line, a perturbed kink can return to the
+  kink family while drifting from its centre, and a winding-two sector of
+  the abelian Higgs model holds two separated vortices, two coincident ones
+  or, above critical coupling, a symmetric one that is unstable
 version: 1
 standing: stipulated
 kind: construction
@@ -33,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1507 NOTE-1950 — Proposed, Skimmed or new; the readings the construction uses and the claim it grounds -->
 
-# CASE-266: Equal charge, different tokens: two φ⁴ kinks with the same boundary charge and energy sit anywhere on the line, a perturbed kink can return to the kink family while drifting from its centre, and a winding-two sector of the abelian Higgs model holds two separated vortices, two coincident ones or, above critical coupling, a symmetric one that is unstable
+# CASE-266: Equal charge, different tokens
 
 ## The construction
 

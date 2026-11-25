@@ -3,7 +3,16 @@ number: 385
 status: Proposed
 formerly:
 - CASE-tmphfmrb
-title: 'Small numpy MLPs aligned by permutation and measured on three path families: the barrier left after alignment falls with width whatever the mechanism, so at narrow width pairs that rely on the same cue keep a barrier even under an exhaustive search of the full group, at width 64 and above pairs that rely on different cues are connected, an exact copy rescaled per unit keeps a barrier under permutations alone, and in a flat, poorly connected grid cell a trained curve removes the barrier the aligned straight line keeps'
+title: 'Permutation-aligned MLPs and loss barriers'
+statement: >-
+  Small numpy MLPs aligned by permutation and measured on three path
+  families: the barrier left after alignment falls with width whatever the
+  mechanism, so at narrow width pairs that rely on the same cue keep a
+  barrier even under an exhaustive search of the full group, at width 64 and
+  above pairs that rely on different cues are connected, an exact copy
+  rescaled per unit keeps a barrier under permutations alone, and in a flat,
+  poorly connected grid cell a trained curve removes the barrier the aligned
+  straight line keeps
 version: 1
 history:
 - version: 1
@@ -55,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-263 CLAIM-187 THEORY-116 THEORY-108 THEORY-109 CLAIM-142 — Proposed; the claims this study tests, the readings it draws on, and the probe caution, open -->
 <!-- inactive-ok-file: CLAIM-993 CLAIM-994 CLAIM-992 — new; the finding and the two alternative readings filed with this study -->
 
-# CASE-385: Small numpy MLPs aligned by permutation and measured on three path families: the barrier left after alignment falls with width whatever the mechanism, so at narrow width pairs that rely on the same cue keep a barrier even under an exhaustive search of the full group, at width 64 and above pairs that rely on different cues are connected, an exact copy rescaled per unit keeps a barrier under permutations alone, and in a flat, poorly connected grid cell a trained curve removes the barrier the aligned straight line keeps
+# CASE-385: Permutation-aligned MLPs and loss barriers
 
 ## What was done
 

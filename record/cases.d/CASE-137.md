@@ -3,7 +3,12 @@ number: 137
 status: Active
 formerly:
 - CASE-tmpsp3d4
-title: 'Clive Wearing: a musician left by encephalitis with almost no memory of his past and none of the last minutes, who still plays, sight-reads and conducts, keeps his attachment to his wife, and writes over and over that he has just become conscious for the first time'
+title: 'Clive Wearing'
+statement: >-
+  Clive Wearing: a musician left by encephalitis with almost no memory of
+  his past and none of the last minutes, who still plays, sight-reads and
+  conducts, keeps his attachment to his wife, and writes over and over that
+  he has just become conscious for the first time
 version: 4
 history:
 - version: 2
@@ -54,7 +59,7 @@ draws_on:
 <!-- inactive-ok-file: LIT-1368 LIT-1369 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-417 THEORY-060 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CASE-137: Clive Wearing: a musician left by encephalitis with almost no memory of his past and none of the last minutes, who still plays, sight-reads and conducts, keeps his attachment to his wife, and writes over and over that he has just become conscious for the first time
+# CASE-137: Clive Wearing
 
 ## The case
 

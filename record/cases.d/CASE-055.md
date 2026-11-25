@@ -3,7 +3,11 @@ number: 55
 status: Active
 formerly:
 - CASE-tmp1uzfn
-title: 'The discriminating fidelity study: renderings built to dissociate wording, proposition, static stance and transport structure, judged by named populations in two languages on stated tasks'
+title: 'The discriminating fidelity study'
+statement: >-
+  The discriminating fidelity study: renderings built to dissociate wording,
+  proposition, static stance and transport structure, judged by named
+  populations in two languages on stated tasks
 version: 2
 history:
 - version: 2
@@ -42,7 +46,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-244 — Proposed; an objection this design answers, left open until the owner decides on the revised theses -->
 <!-- inactive-ok-file: CLAIM-129 — Proposed; open, cited in the note of 2026-10-10 for the gap between recovering structure and reaching the act -->
 
-# CASE-055: The discriminating fidelity study: renderings built to dissociate wording, proposition, static stance and transport structure, judged by named populations in two languages on stated tasks
+# CASE-055: The discriminating fidelity study
 
 ## The case
 

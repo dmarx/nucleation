@@ -3,7 +3,10 @@ number: 240
 status: Proposed
 formerly:
 - CASE-tmpaky45
-title: "The debugger's test: a detector that stays silent when test smoke is put to it"
+title: 'The debugger''s test with test smoke'
+statement: >-
+  The debugger's test: a detector that stays silent when test smoke is put
+  to it
 version: 3
 history:
 - version: 2
@@ -53,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-243 CLAIM-649 CLAIM-651 CASE-242 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-202 — Proposed; the control it names is cited with its standing -->
 
-# CASE-240: The debugger's test: a detector that stays silent when test smoke is put to it
+# CASE-240: The debugger's test with test smoke
 
 ## The case
 

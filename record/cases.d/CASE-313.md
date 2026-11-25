@@ -3,7 +3,12 @@ number: 313
 status: Proposed
 formerly:
 - CASE-tmpvn7wm
-title: 'Removing the core of Ito and Kaneko''s coupled-map network: in 12 of 12 seeds the periphery refills it to its former size and one-way structure within a million steps; half a core removed is made up from the periphery; a core made rare in influence is recovered by its own members'
+title: 'Removing the core of Ito and Kaneko''s network'
+statement: >-
+  Removing the core of Ito and Kaneko's coupled-map network: in 12 of 12
+  seeds the periphery refills it to its former size and one-way structure
+  within a million steps; half a core removed is made up from the periphery;
+  a core made rare in influence is recovered by its own members
 version: 1
 history:
 - version: 1
@@ -51,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-875 — new, filed with this case -->
 
-# CASE-313: Removing the core of Ito and Kaneko's coupled-map network: in 12 of 12 seeds the periphery refills it to its former size and one-way structure within a million steps; half a core removed is made up from the periphery; a core made rare in influence is recovered by its own members
+# CASE-313: Removing the core of Ito and Kaneko's network
 
 ## What was done
 

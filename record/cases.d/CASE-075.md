@@ -3,7 +3,10 @@ number: 75
 status: Active
 formerly:
 - CASE-tmpez60y
-title: "Twitch Plays Pokémon in anarchy mode: one avatar steered through the map by the running aggregate of a crowd's inputs"
+title: 'Twitch Plays Pokémon: anarchy mode'
+statement: >-
+  Twitch Plays Pokémon in anarchy mode: one avatar steered through the map
+  by the running aggregate of a crowd's inputs
 version: 2
 history:
 - version: 2
@@ -34,7 +37,7 @@ draws_on:
 - THEORY-068
 ---
 
-# CASE-075: Twitch Plays Pokémon in anarchy mode: one avatar steered through the map by the running aggregate of a crowd's inputs
+# CASE-075: Twitch Plays Pokémon: anarchy mode
 
 ## The case
 

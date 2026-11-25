@@ -3,7 +3,15 @@ number: 406
 status: Proposed
 formerly:
 - CASE-tmpjfl6r
-title: 'Open evaluations coded, under rules written before coding, for interventions of equal budget at different places in one organization: one meets the standard, a school system''s randomized arms of equal yearly cost in which teacher bonuses raised test scores three times as much as an extra teacher or materials, and two come closest, an immunisation trial with nested supply and demand arms and a supply chain pilot whose costs were not reached'
+title: 'Equal-budget interventions at different places'
+statement: >-
+  Open evaluations coded, under rules written before coding, for
+  interventions of equal budget at different places in one organization: one
+  meets the standard, a school system's randomized arms of equal yearly cost
+  in which teacher bonuses raised test scores three times as much as an
+  extra teacher or materials, and two come closest, an immunisation trial
+  with nested supply and demand arms and a supply chain pilot whose costs
+  were not reached
 version: 1
 history:
 - version: 1
@@ -50,7 +58,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1160 CLAIM-1107 CLAIM-1063 THEORY-2296 THEORY-2282 THEORY-2283 LIT-3186 — new; filed by the lead run of 2026-11-23 -->
 
-# CASE-406: Open evaluations coded, under rules written before coding, for interventions of equal budget at different places in one organization: one meets the standard, a school system's randomized arms of equal yearly cost in which teacher bonuses raised test scores three times as much as an extra teacher or materials, and two come closest, an immunisation trial with nested supply and demand arms and a supply chain pilot whose costs were not reached
+# CASE-406: Equal-budget interventions at different places
 
 ## The study
 

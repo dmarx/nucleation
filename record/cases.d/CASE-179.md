@@ -3,7 +3,14 @@ number: 179
 status: Active
 formerly:
 - CASE-tmpl995z
-title: 'A proposed study: one network of locally described units in which physical coupling, the correspondence maps that say which local states agree, and the apparatus that revises those maps are manipulated independently, to find which of compatibility, attraction, effective boundary constraint, persistent individuation and reliable revision come apart, and how much each costs to establish'
+title: 'Coupling, correspondence maps and revision'
+statement: >-
+  A proposed study: one network of locally described units in which physical
+  coupling, the correspondence maps that say which local states agree, and
+  the apparatus that revises those maps are manipulated independently, to
+  find which of compatibility, attraction, effective boundary constraint,
+  persistent individuation and reliable revision come apart, and how much
+  each costs to establish
 version: 6
 history:
 - version: 2
@@ -73,7 +80,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-251 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 
-# CASE-179: A proposed study: one network of locally described units in which physical coupling, the correspondence maps that say which local states agree, and the apparatus that revises those maps are manipulated independently, to find which of compatibility, attraction, effective boundary constraint, persistent individuation and reliable revision come apart, and how much each costs to establish
+# CASE-179: Coupling, correspondence maps and revision
 
 ## The design
 

@@ -3,7 +3,15 @@ number: 230
 status: Proposed
 formerly:
 - CASE-tmpsdfol
-title: 'A proposed study of the label "anti-vax": matched descriptions of vaccination-related positions, crossed with the label''s presence, the classifier''s authority and a chance to reconsider, measuring where the label is applied, what is inferred, how the labelled are treated, what evidence or authority leads to reclassification, and whether those labelled adopt it, to tell descriptive classification, external labelling effects, self-identification and practical resistance apart'
+title: 'Applying "anti-vax", a matched study'
+statement: >-
+  A proposed study of the label "anti-vax": matched descriptions of
+  vaccination-related positions, crossed with the label's presence, the
+  classifier's authority and a chance to reconsider, measuring where the
+  label is applied, what is inferred, how the labelled are treated, what
+  evidence or authority leads to reclassification, and whether those
+  labelled adopt it, to tell descriptive classification, external labelling
+  effects, self-identification and practical resistance apart
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -36,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-627 CASE-222 — filed from the same exchange, Proposed; the claim the study bears on and the owner's example -->
 <!-- inactive-ok-file: TERM-098 — Proposed; cited for its corrigibility clause, nothing here rests on its being settled -->
 
-# CASE-230: A proposed study of the label "anti-vax": matched descriptions of vaccination-related positions, crossed with the label's presence, the classifier's authority and a chance to reconsider, measuring where the label is applied, what is inferred, how the labelled are treated, what evidence or authority leads to reclassification, and whether those labelled adopt it, to tell descriptive classification, external labelling effects, self-identification and practical resistance apart
+# CASE-230: Applying "anti-vax", a matched study
 
 ## The case
 

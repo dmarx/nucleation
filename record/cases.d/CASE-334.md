@@ -3,7 +3,13 @@ number: 334
 status: Proposed
 formerly:
 - CASE-tmpwyp15
-title: 'Compensation, entrainment and the block test measured by computation in two closed modes that are not blocks, the kink of a phi4 lattice and the locked cluster of a uniformly coupled Kuramoto population, beside a two-block control: the members compensate in all three, the cluster''s entrain, and the block test on members singles out only the control'
+title: 'Block test on a phi4 kink and Kuramoto cluster'
+statement: >-
+  Compensation, entrainment and the block test measured by computation in
+  two closed modes that are not blocks, the kink of a phi4 lattice and the
+  locked cluster of a uniformly coupled Kuramoto population, beside a
+  two-block control: the members compensate in all three, the cluster's
+  entrain, and the block test on members singles out only the control
 version: 1
 standing: documented
 kind: executed-study
@@ -37,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-157 CASE-269 CASE-266 — Proposed; the criterion tested and the testbed whose kink is used -->
 <!-- inactive-ok-file: LIT-902 — Unavailable; cited for the design of the compensation test, which is described here in full -->
 
-# CASE-334: Compensation, entrainment and the block test measured by computation in two closed modes that are not blocks, the kink of a phi4 lattice and the locked cluster of a uniformly coupled Kuramoto population, beside a two-block control: the members compensate in all three, the cluster's entrain, and the block test on members singles out only the control
+# CASE-334: Block test on a phi4 kink and Kuramoto cluster
 
 ## The case
 

@@ -3,7 +3,12 @@ number: 212
 status: Active
 formerly:
 - CASE-tmpsbhp8
-title: 'Three demands and four configurations: each pair of demands is jointly met at some cost, the pairs enter the budgeted complex at budgets 1, 2 and 3, and the triple never does, so raising the budget relieves scarcity and leaves the frustration where it was'
+title: 'Three demands and four configurations'
+statement: >-
+  Three demands and four configurations: each pair of demands is jointly met
+  at some cost, the pairs enter the budgeted complex at budgets 1, 2 and 3,
+  and the triple never does, so raising the budget relieves scarcity and
+  leaves the frustration where it was
 version: 2
 history:
 - version: 2
@@ -41,7 +46,7 @@ summary: >-
   compatibility complex; adopting it is the owner's call.
 ---
 
-# CASE-212: Three demands and four configurations: each pair of demands is jointly met at some cost, the pairs enter the budgeted complex at budgets 1, 2 and 3, and the triple never does, so raising the budget relieves scarcity and leaves the frustration where it was
+# CASE-212: Three demands and four configurations
 
 ## The case
 

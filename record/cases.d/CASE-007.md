@@ -3,7 +3,10 @@ number: 7
 status: Superseded
 formerly:
 - CASE-tmp7rnou
-title: 'CoreWeave: a climate-concerned workforce building fossil-powered datacenters'
+title: 'CoreWeave''s climate-concerned workforce'
+statement: >-
+  CoreWeave: a climate-concerned workforce building fossil-powered
+  datacenters
 version: 1
 standing: stipulated
 kind: specimen
@@ -21,7 +24,7 @@ summary: >-
   suggestion (U15).
 ---
 
-# CASE-007: CoreWeave: a climate-concerned workforce building fossil-powered datacenters
+# CASE-007: CoreWeave's climate-concerned workforce
 
 ## The case
 

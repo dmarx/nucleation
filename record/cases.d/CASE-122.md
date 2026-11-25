@@ -3,7 +3,12 @@ number: 122
 status: Active
 formerly:
 - CASE-tmpqxab8
-title: 'Warhol''s Orange Prince, licensed to Condé Nast in 2016 from a 1981 Goldsmith photograph: the Supreme Court judged the use by its purpose and the dissent by its meaning, and the same cover came out a substitute on one test and a new work on the other'
+title: 'Warhol''s Orange Prince and Goldsmith'
+statement: >-
+  Warhol's Orange Prince, licensed to Condé Nast in 2016 from a 1981
+  Goldsmith photograph: the Supreme Court judged the use by its purpose and
+  the dissent by its meaning, and the same cover came out a substitute on
+  one test and a new work on the other
 version: 1
 standing: documented
 kind: specimen
@@ -30,7 +35,7 @@ reported_in:
 ---
 <!-- inactive-ok-file: CLAIM-034 CLAIM-220 — Proposed; claims this case illustrates or bears on, open -->
 
-# CASE-122: Warhol's Orange Prince, licensed to Condé Nast in 2016 from a 1981 Goldsmith photograph: the Supreme Court judged the use by its purpose and the dissent by its meaning, and the same cover came out a substitute on one test and a new work on the other
+# CASE-122: Warhol's Orange Prince and Goldsmith
 
 ## The case
 

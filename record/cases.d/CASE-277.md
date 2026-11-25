@@ -3,7 +3,13 @@ number: 277
 status: Proposed
 formerly:
 - CASE-tmplgw46
-title: 'Two hospitals, stipulated, with the same AI diagnostic system and equally complete audit trails of the same approval before the same bad outcome: in one the clinician had time, independent information, authority to override and protected escalation; in the other overwhelming volume, too little information and penalties for overriding'
+title: 'Two hospitals, same AI and audit trail'
+statement: >-
+  Two hospitals, stipulated, with the same AI diagnostic system and equally
+  complete audit trails of the same approval before the same bad outcome: in
+  one the clinician had time, independent information, authority to override
+  and protected escalation; in the other overwhelming volume, too little
+  information and penalties for overriding
 version: 1
 standing: stipulated
 kind: construction
@@ -26,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-712 CLAIM-707 — filed from the exchange "Assess Depp Heard Abuse" or its reviews, Proposed -->
 
-# CASE-277: Two hospitals, stipulated, with the same AI diagnostic system and equally complete audit trails of the same approval before the same bad outcome: in one the clinician had time, independent information, authority to override and protected escalation; in the other overwhelming volume, too little information and penalties for overriding
+# CASE-277: Two hospitals, same AI and audit trail
 
 ## The case
 

@@ -3,7 +3,10 @@ number: 319
 status: Proposed
 formerly:
 - CASE-tmpd2k95
-title: 'Sign descent derived and run against gradient descent on the same unequal-frequency skills'
+title: 'Sign descent against gradient descent'
+statement: >-
+  Sign descent derived and run against gradient descent on the same
+  unequal-frequency skills
 version: 1
 history:
 - version: 1
@@ -51,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-883 CLAIM-882 THEORY-783 — Proposed or new; the claims this study grounds, and the wider reading it bears on -->
 
-# CASE-319: Sign descent derived and run against gradient descent on the same unequal-frequency skills
+# CASE-319: Sign descent against gradient descent
 
 ## What was done
 

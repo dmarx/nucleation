@@ -3,7 +3,12 @@ number: 107
 status: Active
 formerly:
 - CASE-tmpxgcq2
-title: 'Locked-in syndrome: consciousness preserved with anarthria and quadriplegia; in the classic form, vertical eye movement and blinking remain and carry communication, and in the completely locked-in state no motor channel remains'
+title: 'Locked-in syndrome'
+statement: >-
+  Locked-in syndrome: consciousness preserved with anarthria and
+  quadriplegia; in the classic form, vertical eye movement and blinking
+  remain and carry communication, and in the completely locked-in state no
+  motor channel remains
 version: 3
 history:
 - version: 2
@@ -60,7 +65,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: THEORY-090 THEORY-298 THEORY-500 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 
-# CASE-107: Locked-in syndrome: consciousness preserved with anarthria and quadriplegia; in the classic form, vertical eye movement and blinking remain and carry communication, and in the completely locked-in state no motor channel remains
+# CASE-107: Locked-in syndrome
 
 ## The case
 

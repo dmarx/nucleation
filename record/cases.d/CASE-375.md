@@ -3,7 +3,10 @@ number: 375
 status: Active
 formerly:
 - CASE-tmpoeu1o
-title: 'Informative-across-buffer variable versus the gap-isolated block in a non-lattice coupled-agent system'
+title: 'Informative-across-buffer variable vs block'
+statement: >-
+  Informative-across-buffer variable versus the gap-isolated block in a
+  non-lattice coupled-agent system
 version: 1
 standing: documented
 kind: executed-study
@@ -21,7 +24,7 @@ illustrates:
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion, the joint-mode unit and the readings this study operationalizes -->
 
-# CASE-375: Informative-across-buffer variable versus the gap-isolated block in a non-lattice coupled-agent system
+# CASE-375: Informative-across-buffer variable vs block
 
 ## The case
 

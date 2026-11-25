@@ -3,10 +3,12 @@ number: 97
 status: Active
 formerly:
 - CASE-tmpliavq
-title: 'The monograph''s castle topic, persistent across refinement by construction,
-  persists as no eigenmode: in its rank-2 and rank-3 co-occurrence matrices the
-  eigenvector nearest the castle topic changes rank and turns through about 51°,
-  and every eigenvector mixes signs'
+title: 'The castle topic across eigenmodes'
+statement: >-
+  The monograph's castle topic, persistent across refinement by
+  construction, persists as no eigenmode: in its rank-2 and rank-3
+  co-occurrence matrices the eigenvector nearest the castle topic changes
+  rank and turns through about 51°, and every eigenvector mixes signs
 version: 2
 history:
 - version: 2
@@ -39,7 +41,7 @@ bears_on:
 - QUESTION-113
 ---
 
-# CASE-097: The monograph's castle topic, persistent across refinement by construction, persists as no eigenmode: in its rank-2 and rank-3 co-occurrence matrices the eigenvector nearest the castle topic changes rank and turns through about 51°, and every eigenvector mixes signs
+# CASE-097: The castle topic across eigenmodes
 
 ## The case
 

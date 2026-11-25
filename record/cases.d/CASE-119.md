@@ -3,7 +3,13 @@ number: 119
 status: Active
 formerly:
 - CASE-tmpuuf3p
-title: 'Three demands each requiring one coordinate of an outcome to equal 1, with attainable outcomes (1,1,0), (1,0,1) and (0,1,1): every pair is jointly satisfiable and the triple is not, and a new composite policy that can also produce (1,1,1) relieves the frustration by enlarging the attainable set, with the acceptance sets unchanged and no demand suppressed'
+title: 'Three coordinate demands and a composite policy'
+statement: >-
+  Three demands each requiring one coordinate of an outcome to equal 1, with
+  attainable outcomes (1,1,0), (1,0,1) and (0,1,1): every pair is jointly
+  satisfiable and the triple is not, and a new composite policy that can
+  also produce (1,1,1) relieves the frustration by enlarging the attainable
+  set, with the acceptance sets unchanged and no demand suppressed
 version: 3
 history:
 - version: 2
@@ -44,7 +50,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: CLAIM-553 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CASE-119: Three demands each requiring one coordinate of an outcome to equal 1, with attainable outcomes (1,1,0), (1,0,1) and (0,1,1): every pair is jointly satisfiable and the triple is not, and a new composite policy that can also produce (1,1,1) relieves the frustration by enlarging the attainable set, with the acceptance sets unchanged and no demand suppressed
+# CASE-119: Three coordinate demands and a composite policy
 
 ## The construction
 

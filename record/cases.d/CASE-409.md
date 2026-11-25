@@ -3,7 +3,11 @@ number: 409
 status: Proposed
 formerly:
 - CASE-tmpkttf2
-title: 'A learner that memorized f(2) = 4, f(3) = 9 and f(4) = 16 and one that found f(x) = x²: the same answers on the table and the same knowledge of its values, parted when the target shifts to x² + c'
+title: 'Memorized table versus found x²'
+statement: >-
+  A learner that memorized f(2) = 4, f(3) = 9 and f(4) = 16 and one that
+  found f(x) = x²: the same answers on the table and the same knowledge of
+  its values, parted when the target shifts to x² + c
 version: 1
 standing: fictional
 kind: construction
@@ -32,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-519 CLAIM-754 TERM-079 THEORY-438 — Proposed; cited as the criteria applied, not relied on -->
 <!-- inactive-ok-file: CASE-394 CASE-403 CLAIM-1092 CLAIM-1059 CLAIM-1142 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CASE-409: A learner that memorized f(2) = 4, f(3) = 9 and f(4) = 16 and one that found f(x) = x²: the same answers on the table and the same knowledge of its values, parted when the target shifts to x² + c
+# CASE-409: Memorized table versus found x²
 
 ## The case
 

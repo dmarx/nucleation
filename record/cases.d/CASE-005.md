@@ -3,7 +3,10 @@ number: 5
 status: Active
 formerly:
 - CASE-tmp7b5rt
-title: 'The language-model experiments: frame commutator, trajectory-preserving selection, ICL against TTT'
+title: 'The language-model experiments'
+statement: >-
+  The language-model experiments: frame commutator, trajectory-preserving
+  selection, ICL against TTT
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -23,7 +26,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-083 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# CASE-005: The language-model experiments: frame commutator, trajectory-preserving selection, ICL against TTT
+# CASE-005: The language-model experiments
 
 ## The case
 

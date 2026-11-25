@@ -3,7 +3,13 @@ number: 321
 status: Proposed
 formerly:
 - CASE-tmp06fbt
-title: 'In a four-unit linear model with a beam-like apparatus, a fixed partition, the partition recovered from the dynamics in force and the apparatus''s own partition come apart under five interventions; the apparatus''s partition differs from the recovered one only where the apparatus is in place and its coupling is weaker than the units'' own, and there it predicts worse'
+title: 'Partitions of a four-unit beam-like model'
+statement: >-
+  In a four-unit linear model with a beam-like apparatus, a fixed partition,
+  the partition recovered from the dynamics in force and the apparatus's own
+  partition come apart under five interventions; the apparatus's partition
+  differs from the recovered one only where the apparatus is in place and
+  its coupling is weaker than the units' own, and there it predicts worse
 version: 1
 history:
 - version: 1
@@ -45,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-887 CLAIM-157 — new or Proposed; the claim this case grounds and neighbours cited as open -->
 
-# CASE-321: In a four-unit linear model with a beam-like apparatus, a fixed partition, the partition recovered from the dynamics in force and the apparatus's own partition come apart under five interventions; the apparatus's partition differs from the recovered one only where the apparatus is in place and its coupling is weaker than the units' own, and there it predicts worse
+# CASE-321: Partitions of a four-unit beam-like model
 
 ## Why this model
 

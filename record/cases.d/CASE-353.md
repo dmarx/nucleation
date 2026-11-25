@@ -3,7 +3,15 @@ number: 353
 status: Proposed
 formerly:
 - CASE-tmp943kt
-title: 'A simulated single-mind judgement–observation loop with action held fixed, built so that it locks in without anchors and given the five candidate anchors one switch each: with all present it never locks in and no single removal makes it; in the loops left minimal, removing commitment before evidence, processing signals or exogenous capture makes it lock in, while removing a channel of unselected input, the body or testimony only leaves it blind'
+title: 'Judgement–observation loop with five anchors'
+statement: >-
+  A simulated single-mind judgement–observation loop with action held fixed,
+  built so that it locks in without anchors and given the five candidate
+  anchors one switch each: with all present it never locks in and no single
+  removal makes it; in the loops left minimal, removing commitment before
+  evidence, processing signals or exogenous capture makes it lock in, while
+  removing a channel of unselected input, the body or testimony only leaves
+  it blind
 version: 1
 history:
 - version: 1
@@ -52,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-662 — Proposed; the reading candidate 4 is taken from, as QUESTION-121 cites it -->
 
-# CASE-353: A simulated single-mind judgement–observation loop with action held fixed, built so that it locks in without anchors and given the five candidate anchors one switch each: with all present it never locks in and no single removal makes it; in the loops left minimal, removing commitment before evidence, processing signals or exogenous capture makes it lock in, while removing a channel of unselected input, the body or testimony only leaves it blind
+# CASE-353: Judgement–observation loop with five anchors
 
 ## The construction
 

@@ -3,7 +3,15 @@ number: 389
 status: Proposed
 formerly:
 - CASE-tmp2a9lm
-title: 'A kinetic constraint-growth model on random lattices, run to test out of sample a non-monotone predictor of productive seed sets generalised from folding islands: adding a seed already in its target state can halve the chance of exact assembly, the island-based predictors, monotone or not, do not say which additions hurt, and a post hoc count of the states each component could take when it first reaches the binding threshold does on fresh architectures, with weak flags'
+title: 'Seed sets in kinetic constraint growth'
+statement: >-
+  A kinetic constraint-growth model on random lattices, run to test out of
+  sample a non-monotone predictor of productive seed sets generalised from
+  folding islands: adding a seed already in its target state can halve the
+  chance of exact assembly, the island-based predictors, monotone or not, do
+  not say which additions hurt, and a post hoc count of the states each
+  component could take when it first reaches the binding threshold does on
+  fresh architectures, with weak flags
 version: 1
 history:
 - version: 1
@@ -55,7 +63,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 
-# CASE-389: A kinetic constraint-growth model on random lattices, run to test out of sample a non-monotone predictor of productive seed sets generalised from folding islands: adding a seed already in its target state can halve the chance of exact assembly, the island-based predictors, monotone or not, do not say which additions hurt, and a post hoc count of the states each component could take when it first reaches the binding threshold does on fresh architectures, with weak flags
+# CASE-389: Seed sets in kinetic constraint growth
 
 ## The predictors
 

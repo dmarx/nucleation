@@ -3,7 +3,9 @@ number: 29
 status: Active
 formerly:
 - CASE-tmptjypf
-title: 'The dynamical-fidelity research programme of the outlines (A35, A38, A40)'
+title: 'The dynamical-fidelity research programme'
+statement: >-
+  The dynamical-fidelity research programme of the outlines (A35, A38, A40)
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -23,7 +25,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-095 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-052 CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CASE-029: The dynamical-fidelity research programme of the outlines (A35, A38, A40)
+# CASE-029: The dynamical-fidelity research programme
 
 ## The case
 

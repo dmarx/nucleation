@@ -3,7 +3,15 @@ number: 300
 status: 'Active'
 formerly:
 - CASE-tmpnkuie
-title: 'Who changes the record''s grammar, how, and with what result: of its 114 decisions to 2026-11-20, 88 changed the grammar, 62 by refinement, 25 by revision and 1 by restraint; the misfit each answered had nearly always been forced into a category or kept in prose first; removals were carried through every entry using the term while a change of meaning in place reached none; and the noticing moved from filing agents to review procedures while judgment about revisions stayed with the owner'
+title: 'Who changes the record''s grammar'
+statement: >-
+  Who changes the record's grammar, how, and with what result: of its 114
+  decisions to 2026-11-20, 88 changed the grammar, 62 by refinement, 25 by
+  revision and 1 by restraint; the misfit each answered had nearly always
+  been forced into a category or kept in prose first; removals were carried
+  through every entry using the term while a change of meaning in place
+  reached none; and the noticing moved from filing agents to review
+  procedures while judgment about revisions stayed with the owner
 version: 2
 history:
 - version: 2
@@ -48,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: ADR-047 ADR-076 ADR-077 ADR-080 — Superseded; cited as decisions the census coded -->
 <!-- inactive-ok-file: ARG-028 CLAIM-181 — Proposed; cited in this filing of 2026-11-20 -->
 
-# CASE-300: Who changes the record's grammar, how, and with what result: of its 114 decisions to 2026-11-20, 88 changed the grammar, 62 by refinement, 25 by revision and 1 by restraint; the misfit each answered had nearly always been forced into a category or kept in prose first; removals were carried through every entry using the term while a change of meaning in place reached none; and the noticing moved from filing agents to review procedures while judgment about revisions stayed with the owner
+# CASE-300: Who changes the record's grammar
 
 ## The case
 

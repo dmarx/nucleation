@@ -3,7 +3,12 @@ number: 416
 status: Proposed
 formerly:
 - CASE-tmpr1f20
-title: 'A classifier right on every item of its declared test family because it reads a watermark that, in that family, always accompanies the class: reliable correct output that fails when the cue and the class are separated'
+title: 'The watermark-reading classifier'
+statement: >-
+  A classifier right on every item of its declared test family because it
+  reads a watermark that, in that family, always accompanies the class:
+  reliable correct output that fails when the cue and the class are
+  separated
 version: 1
 standing: fictional
 kind: thought-experiment
@@ -29,7 +34,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-079 — Proposed; cited as the criterion applied, not relied on -->
 <!-- inactive-ok-file: CASE-399 CLAIM-1028 CLAIM-1086 CLAIM-1142 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CASE-416: A classifier right on every item of its declared test family because it reads a watermark that, in that family, always accompanies the class: reliable correct output that fails when the cue and the class are separated
+# CASE-416: The watermark-reading classifier
 
 ## The case
 

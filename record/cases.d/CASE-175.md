@@ -3,7 +3,12 @@ number: 175
 status: Active
 formerly:
 - CASE-tmprc3on
-title: 'CECOT, 2025: people removed from the United States into Salvadoran custody despite court orders, the US saying it could not bring them back and El Salvador''s president that he could not send them, until coordinated transfers out showed the two governments together could'
+title: 'CECOT removals, 2025'
+statement: >-
+  CECOT, 2025: people removed from the United States into Salvadoran custody
+  despite court orders, the US saying it could not bring them back and El
+  Salvador's president that he could not send them, until coordinated
+  transfers out showed the two governments together could
 version: 4
 history:
 - version: 2
@@ -54,7 +59,7 @@ bears_on:
 - QUESTION-279
 ---
 
-# CASE-175: CECOT, 2025: people removed from the United States into Salvadoran custody despite court orders, the US saying it could not bring them back and El Salvador's president that he could not send them, until coordinated transfers out showed the two governments together could
+# CASE-175: CECOT removals, 2025
 
 ## The case
 

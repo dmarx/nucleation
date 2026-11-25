@@ -3,7 +3,13 @@ number: 148
 status: Active
 formerly:
 - CASE-tmpbyihf
-title: 'Perspective transplantation: two populations matched in behaviour exchange different combinations of learned interpretive rules, specialist parameters, training histories, institutional rules and shared memory, and are then set where the transferred parts disagree with their new surroundings'
+title: 'Perspective transplantation'
+statement: >-
+  Perspective transplantation: two populations matched in behaviour exchange
+  different combinations of learned interpretive rules, specialist
+  parameters, training histories, institutional rules and shared memory, and
+  are then set where the transferred parts disagree with their new
+  surroundings
 version: 3
 history:
 - version: 2
@@ -46,7 +52,7 @@ bears_on:
 - QUESTION-118
 ---
 
-# CASE-148: Perspective transplantation: two populations matched in behaviour exchange different combinations of learned interpretive rules, specialist parameters, training histories, institutional rules and shared memory, and are then set where the transferred parts disagree with their new surroundings
+# CASE-148: Perspective transplantation
 
 ## The design
 

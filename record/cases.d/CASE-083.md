@@ -3,9 +3,11 @@ number: 83
 status: Active
 formerly:
 - CASE-tmp51hxx
-title: 'A pseudorandom generator''s output against uniform strings: almost disjoint
-  in total variation, indistinguishable to every efficient test if the generator
-  is secure'
+title: 'Pseudorandom output against uniform strings'
+statement: >-
+  A pseudorandom generator's output against uniform strings: almost disjoint
+  in total variation, indistinguishable to every efficient test if the
+  generator is secure
 version: 1
 standing: stipulated
 kind: construction
@@ -22,7 +24,7 @@ summary: >-
   separation needs the generator only for samplability.
 ---
 
-# CASE-083: A pseudorandom generator's output against uniform strings: almost disjoint in total variation, indistinguishable to every efficient test if the generator is secure
+# CASE-083: Pseudorandom output against uniform strings
 
 ## The case
 

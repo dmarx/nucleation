@@ -3,7 +3,14 @@ number: 343
 status: Active
 formerly:
 - CASE-tmpuqpww
-title: 'A''s maintenance-funding loop run with and without decoupling: where the base budget alone keeps competence below the level at which a capability is committed, a budget that follows observed activity loses a capability used once in two and a half years or more rarely in every run or nearly, one used four times a year in three or four runs in ten, and none when maintenance is funded apart from activity'
+title: 'Maintenance-funding loop with decoupling'
+statement: >-
+  A's maintenance-funding loop run with and without decoupling: where the
+  base budget alone keeps competence below the level at which a capability
+  is committed, a budget that follows observed activity loses a capability
+  used once in two and a half years or more rarely in every run or nearly,
+  one used four times a year in three or four runs in ten, and none when
+  maintenance is funded apart from activity
 version: 2
 history:
 - version: 1
@@ -61,7 +68,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 
-# CASE-343: A's maintenance-funding loop run with and without decoupling: where the base budget alone keeps competence below the level at which a capability is committed, a budget that follows observed activity loses a capability used once in two and a half years or more rarely in every run or nearly, one used four times a year in three or four runs in ten, and none when maintenance is funded apart from activity
+# CASE-343: Maintenance-funding loop with decoupling
 
 ## The study
 

@@ -3,7 +3,10 @@ number: 8
 status: Superseded
 formerly:
 - CASE-tmp8ayjc
-title: 'Solidarity, condemnation and humour judged in pairs: the probabilistic version'
+title: 'Solidarity, condemnation, humour: probabilistic'
+statement: >-
+  Solidarity, condemnation and humour judged in pairs: the probabilistic
+  version
 version: 2
 history:
 - version: 2
@@ -30,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-037 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CASE-008: Solidarity, condemnation and humour judged in pairs: the probabilistic version
+# CASE-008: Solidarity, condemnation, humour: probabilistic
 
 ## The case
 

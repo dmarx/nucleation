@@ -3,7 +3,14 @@ number: 227
 status: Proposed
 formerly:
 - CASE-tmpn5x96
-title: 'A coordination mode kept by a decaying capacity: in φ̇ = −sin φ − c sin 2φ anti-phase is stable only for c > ½, with relaxation time 1/(2c − 1) and escape barrier (2c − 1)²/(4c); with c produced at 2.2c²/(1 + c²) against unit decay, c = 0.6 holds anti-phase stable while lying below the unstable maintenance level 0.642, so the capacity decays through ½ and the mode is lost'
+title: 'Anti-phase mode kept by a decaying capacity'
+statement: >-
+  A coordination mode kept by a decaying capacity: in φ̇ = −sin φ − c sin 2φ
+  anti-phase is stable only for c > ½, with relaxation time 1/(2c − 1) and
+  escape barrier (2c − 1)²/(4c); with c produced at 2.2c²/(1 + c²) against
+  unit decay, c = 0.6 holds anti-phase stable while lying below the unstable
+  maintenance level 0.642, so the capacity decays through ½ and the mode is
+  lost
 version: 2
 history:
 - version: 2
@@ -40,7 +47,7 @@ draws_on:
 - THEORY-1227
 ---
 
-# CASE-227: A coordination mode kept by a decaying capacity: in φ̇ = −sin φ − c sin 2φ anti-phase is stable only for c > ½, with relaxation time 1/(2c − 1) and escape barrier (2c − 1)²/(4c); with c produced at 2.2c²/(1 + c²) against unit decay, c = 0.6 holds anti-phase stable while lying below the unstable maintenance level 0.642, so the capacity decays through ½ and the mode is lost
+# CASE-227: Anti-phase mode kept by a decaying capacity
 
 ## The case
 

@@ -3,9 +3,11 @@ number: 92
 status: Active
 formerly:
 - CASE-tmpyoenf
-title: 'A minimal coupled meaning–influence model: two hypotheses, two retrieval
-  specialists, a fixed balanced corpus, queries set by the dominant interpretation
-  and conferral updated from apparent retrieval success'
+title: 'A minimal coupled meaning–influence model'
+statement: >-
+  A minimal coupled meaning–influence model: two hypotheses, two retrieval
+  specialists, a fixed balanced corpus, queries set by the dominant
+  interpretation and conferral updated from apparent retrieval success
 version: 5
 history:
 - version: 2
@@ -56,7 +58,7 @@ draws_on:
 <!-- inactive-ok-file: THEORY-257 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-278 CLAIM-281 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# CASE-092: A minimal coupled meaning–influence model: two hypotheses, two retrieval specialists, a fixed balanced corpus, queries set by the dominant interpretation and conferral updated from apparent retrieval success
+# CASE-092: A minimal coupled meaning–influence model
 
 ## The case
 

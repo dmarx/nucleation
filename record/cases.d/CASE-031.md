@@ -3,7 +3,9 @@ number: 31
 status: Active
 formerly:
 - CASE-tmpunxdh
-title: 'Marot''s "A une Damoyselle malade" and Hofstadter''s translations of it'
+title: 'Marot''s "A une Damoyselle malade"'
+statement: >-
+  Marot's "A une Damoyselle malade" and Hofstadter's translations of it
 version: 2
 history:
 - version: 2
@@ -35,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: LIT-766 — Unavailable; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
 
-# CASE-031: Marot's "A une Damoyselle malade" and Hofstadter's translations of it
+# CASE-031: Marot's "A une Damoyselle malade"
 
 ## The case
 

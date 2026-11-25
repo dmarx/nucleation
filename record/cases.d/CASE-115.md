@@ -3,7 +3,11 @@ number: 115
 status: Active
 formerly:
 - CASE-tmpuc54q
-title: 'Two incompatible quadratic demands on one shared parameter, L₁ = (θ − 1)² and L₂ = (θ + 1)², frustrated at θ = 0 for every update budget, and the split of θ into task-routed θ_A and θ_B that makes both satisfiable'
+title: 'Two quadratic demands on one parameter'
+statement: >-
+  Two incompatible quadratic demands on one shared parameter, L₁ = (θ − 1)²
+  and L₂ = (θ + 1)², frustrated at θ = 0 for every update budget, and the
+  split of θ into task-routed θ_A and θ_B that makes both satisfiable
 version: 2
 history:
 - version: 2
@@ -40,7 +44,7 @@ summary: >-
   Fictional by construction.
 ---
 
-# CASE-115: Two incompatible quadratic demands on one shared parameter, L₁ = (θ − 1)² and L₂ = (θ + 1)², frustrated at θ = 0 for every update budget, and the split of θ into task-routed θ_A and θ_B that makes both satisfiable
+# CASE-115: Two quadratic demands on one parameter
 
 ## The construction
 

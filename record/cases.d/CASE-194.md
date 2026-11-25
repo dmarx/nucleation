@@ -3,7 +3,15 @@ number: 194
 status: Proposed
 formerly:
 - CASE-tmpklgk5
-title: 'Three organizations at 50% on one task, output y = c for a fair context c ∈ {−1, +1}, with the same failure from three causes: one shared actuator setting, an observation identical in both contexts, and an authority rule that always selects the process proposing +1; supplying observation, enlarging actuation or revising authority each repairs one and not the others, and the observational one is infeasible only relative to its observation-limited policies'
+title: 'Three organizations failing at 50%'
+statement: >-
+  Three organizations at 50% on one task, output y = c for a fair context c
+  ∈ {−1, +1}, with the same failure from three causes: one shared actuator
+  setting, an observation identical in both contexts, and an authority rule
+  that always selects the process proposing +1; supplying observation,
+  enlarging actuation or revising authority each repairs one and not the
+  others, and the observational one is infeasible only relative to its
+  observation-limited policies
 version: 3
 history:
 - version: 2
@@ -64,7 +72,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-2316 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-1741 THEORY-1761 THEORY-1789 THEORY-1796 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CASE-194: Three organizations at 50% on one task, output y = c for a fair context c ∈ {−1, +1}, with the same failure from three causes: one shared actuator setting, an observation identical in both contexts, and an authority rule that always selects the process proposing +1; supplying observation, enlarging actuation or revising authority each repairs one and not the others, and the observational one is infeasible only relative to its observation-limited policies
+# CASE-194: Three organizations failing at 50%
 
 ## The construction
 

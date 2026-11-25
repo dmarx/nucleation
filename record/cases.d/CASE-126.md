@@ -3,7 +3,13 @@ number: 126
 status: Active
 formerly:
 - CASE-tmp60jh6
-title: 'Represented, authorized, self-authorized and self-maintained: three one-bit systems that agree while the interpretation is 0 and part under an intervention that sets it to 1, and two two-constraint systems with the same constant trajectory, one closed and one reset from outside, that part under one perturbation'
+title: 'Represented, authorized and self-maintained'
+statement: >-
+  Represented, authorized, self-authorized and self-maintained: three
+  one-bit systems that agree while the interpretation is 0 and part under an
+  intervention that sets it to 1, and two two-constraint systems with the
+  same constant trajectory, one closed and one reset from outside, that part
+  under one perturbation
 version: 1
 standing: fictional
 kind: construction
@@ -24,7 +30,7 @@ summary: >-
   not shown.
 ---
 
-# CASE-126: Represented, authorized, self-authorized and self-maintained: three one-bit systems that agree while the interpretation is 0 and part under an intervention that sets it to 1, and two two-constraint systems with the same constant trajectory, one closed and one reset from outside, that part under one perturbation
+# CASE-126: Represented, authorized and self-maintained
 
 ## The case
 

@@ -3,7 +3,10 @@ number: 74
 status: Active
 formerly:
 - CASE-tmp048av
-title: "Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in"
+title: 'Twitch Plays Pokémon: democracy mode'
+statement: >-
+  Twitch Plays Pokémon in democracy mode, with the running tally shown while
+  the votes come in
 version: 4
 history:
 - version: 2
@@ -56,7 +59,7 @@ draws_on:
 - THEORY-068
 ---
 
-# CASE-074: Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in
+# CASE-074: Twitch Plays Pokémon: democracy mode
 
 ## The case
 

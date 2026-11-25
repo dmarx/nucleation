@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'Google SRE''s cap on operational work: operational work for SREs is capped at half their time, and the excess is redirected to the product development teams, by reassigning bugs and tickets and bringing developers into on-call rotations, until the load drops back, a safety valve the book calls an effective feedback mechanism'
+title: 'Google SRE''s cap on operational work'
+statement: >-
+  Google SRE's cap on operational work: operational work for SREs is capped
+  at half their time, and the excess is redirected to the product
+  development teams, by reassigning bugs and tickets and bringing developers
+  into on-call rotations, until the load drops back, a safety valve the book
+  calls an effective feedback mechanism
 version: 1
 standing: documented
 kind: specimen
@@ -30,7 +36,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-690 CLAIM-713 CLAIM-731 CLAIM-tmpjoaj3 LIT-tmpeybfl TERM-122 — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
-# CASE-tmphtt17: Google SRE's cap on operational work: operational work for SREs is capped at half their time, and the excess is redirected to the product development teams, by reassigning bugs and tickets and bringing developers into on-call rotations, until the load drops back, a safety valve the book calls an effective feedback mechanism
+# CASE-tmphtt17: Google SRE's cap on operational work
 
 ## The case
 

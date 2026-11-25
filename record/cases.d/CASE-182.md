@@ -3,7 +3,12 @@ number: 182
 status: Active
 formerly:
 - CASE-tmpasrij
-title: 'Two operators under one update rule, grants moving toward observed outcomes: scored every round, the more accurate one holds the lead durably whatever the start; scored only when it acts, under sharp selection, whichever gained influence early keeps it'
+title: 'Two operators under one grant rule'
+statement: >-
+  Two operators under one update rule, grants moving toward observed
+  outcomes: scored every round, the more accurate one holds the lead durably
+  whatever the start; scored only when it acts, under sharp selection,
+  whichever gained influence early keeps it
 version: 2
 history:
 - version: 2
@@ -35,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
-# CASE-182: Two operators under one update rule, grants moving toward observed outcomes: scored every round, the more accurate one holds the lead durably whatever the start; scored only when it acts, under sharp selection, whichever gained influence early keeps it
+# CASE-182: Two operators under one grant rule
 
 ## What happens
 

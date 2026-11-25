@@ -3,7 +3,11 @@ number: 131
 status: Active
 formerly:
 - CASE-tmp8jhbm
-title: 'The graph that asserted an inference nobody made: filing one claim as supporting another made the record''s link fixer write that the other rested on it, and the record answered by adding a relation'
+title: 'The graph that asserted an unmade inference'
+statement: >-
+  The graph that asserted an inference nobody made: filing one claim as
+  supporting another made the record's link fixer write that the other
+  rested on it, and the record answered by adding a relation
 version: 3
 history:
 - version: 2
@@ -39,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-181 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: ARG-096 CASE-253 CLAIM-666 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 
-# CASE-131: The graph that asserted an inference nobody made: filing one claim as supporting another made the record's link fixer write that the other rested on it, and the record answered by adding a relation
+# CASE-131: The graph that asserted an unmade inference
 
 ## The case
 

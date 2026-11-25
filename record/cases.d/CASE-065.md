@@ -3,7 +3,11 @@ number: 65
 status: Active
 formerly:
 - CASE-tmpkhubu
-title: 'Two satisfaction questions in German and in a back-translated Chinese version: an order effect that reverses across a rendering, with the Clinton–Gore poll as the scale of the 2ε bound'
+title: 'Two satisfaction questions across a rendering'
+statement: >-
+  Two satisfaction questions in German and in a back-translated Chinese
+  version: an order effect that reverses across a rendering, with the
+  Clinton–Gore poll as the scale of the 2ε bound
 version: 1
 standing: documented
 kind: reported-study
@@ -30,7 +34,7 @@ illustrates:
 ---
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the procedure-level measure that fixes the kernel across items, cited as open -->
 
-# CASE-065: Two satisfaction questions in German and in a back-translated Chinese version: an order effect that reverses across a rendering, with the Clinton–Gore poll as the scale of the 2ε bound
+# CASE-065: Two satisfaction questions across a rendering
 
 Found on 2026-10-10 by a search the owner asked for: a documented order
 effect measured in both orders on a source item and a rendering of it, to

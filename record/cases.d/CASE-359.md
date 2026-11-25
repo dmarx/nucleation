@@ -3,7 +3,12 @@ number: 359
 status: Proposed
 formerly:
 - CASE-tmpl6unn
-title: 'A check of signalling estimators, a guaranteed interval and an exact no-signalling test for binary Contextuality-by-Default systems, by enumeration and simulation, applied to the three binary systems a corpus study of ambiguous phrases prints as fractions'
+title: 'Signalling estimators, binary contextuality'
+statement: >-
+  A check of signalling estimators, a guaranteed interval and an exact
+  no-signalling test for binary Contextuality-by-Default systems, by
+  enumeration and simulation, applied to the three binary systems a corpus
+  study of ambiguous phrases prints as fractions
 version: 1
 standing: documented
 kind: executed-study
@@ -38,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-937 — new; the claim this study checks -->
 <!-- inactive-ok-file: CLAIM-896 — Proposed; LEAD-182's finding on the plug-in's bias, cited for comparison -->
 
-# CASE-359: A check of signalling estimators, a guaranteed interval and an exact no-signalling test for binary Contextuality-by-Default systems, by enumeration and simulation, applied to the three binary systems a corpus study of ambiguous phrases prints as fractions
+# CASE-359: Signalling estimators, binary contextuality
 
 ## What was run
 

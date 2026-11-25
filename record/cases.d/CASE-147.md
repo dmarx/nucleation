@@ -3,7 +3,12 @@ number: 147
 status: Active
 formerly:
 - CASE-tmpa5fgc
-title: 'Conversation against argument: in Kalla and Broockman''s field experiments, canvassers who exchanged personal narratives nonjudgmentally reduced exclusionary attitudes durably, while arguments alone did not produce comparable effects'
+title: 'Conversation against argument in canvassing'
+statement: >-
+  Conversation against argument: in Kalla and Broockman's field experiments,
+  canvassers who exchanged personal narratives nonjudgmentally reduced
+  exclusionary attitudes durably, while arguments alone did not produce
+  comparable effects
 version: 3
 history:
 - version: 2
@@ -41,7 +46,7 @@ bears_on:
 - QUESTION-262
 ---
 
-# CASE-147: Conversation against argument: in Kalla and Broockman's field experiments, canvassers who exchanged personal narratives nonjudgmentally reduced exclusionary attitudes durably, while arguments alone did not produce comparable effects
+# CASE-147: Conversation against argument in canvassing
 
 ## The case
 

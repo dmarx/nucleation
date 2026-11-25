@@ -3,7 +3,12 @@ number: 204
 status: Proposed
 formerly:
 - CASE-tmpb5t9j
-title: 'A positively curved origami vertex: its popped-up and popped-down states lie in components that no rigid, non-self-intersecting motion joins, so no budget reaches one from the other, and only widening the admissible moves reconnects them'
+title: 'A positively curved origami vertex'
+statement: >-
+  A positively curved origami vertex: its popped-up and popped-down states
+  lie in components that no rigid, non-self-intersecting motion joins, so no
+  budget reaches one from the other, and only widening the admissible moves
+  reconnects them
 version: 1
 standing: documented
 kind: specimen
@@ -40,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-207 — Proposed; the entries filed beside it on 2026-11-05, cited as filed, nothing here rests on their being settled -->
 
-# CASE-204: A positively curved origami vertex: its popped-up and popped-down states lie in components that no rigid, non-self-intersecting motion joins, so no budget reaches one from the other, and only widening the admissible moves reconnects them
+# CASE-204: A positively curved origami vertex
 
 ## The case
 

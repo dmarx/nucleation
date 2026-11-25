@@ -4,8 +4,12 @@ status: Proposed
 formerly:
 - CASE-tmpkge6r
 
-title: 'A census of filing dispositions in the workbench reconstructions: owner-attributed moves filed at a higher rate than the assistant''s and notes far above fresh claims and terms, over the entries that label their moves, with kind confounding contributor and no content-matched pairs'
-
+title: 'Census of filing dispositions in the workbench'
+statement: >-
+  A census of filing dispositions in the workbench reconstructions:
+  owner-attributed moves filed at a higher rate than the assistant's and
+  notes far above fresh claims and terms, over the entries that label their
+  moves, with kind confounding contributor and no content-matched pairs
 version: 1
 
 standing: documented
@@ -26,7 +30,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-181 CLAIM-182 — Proposed; the claims QUESTION-072 builds on, cited as the question frames them, nothing here rests on their being settled -->
 
-# CASE-372: A census of filing dispositions in the workbench reconstructions: owner-attributed moves filed at a higher rate than the assistant's and notes far above fresh claims and terms, over the entries that label their moves, with kind confounding contributor and no content-matched pairs
+# CASE-372: Census of filing dispositions in the workbench
 
 ## The case
 

@@ -3,7 +3,12 @@ number: 231
 status: Proposed
 formerly:
 - CASE-tmpyzdwh
-title: 'Two viable regimes exchanging at rate 1, one of which fails at rate 0.02 into an absorbing state: conditioned on survival the chain settles within a few time units to (0.5025, 0.4975) and stays there, while survival decays as e^(−0.00995t), a mean lifetime of 100.5'
+title: 'Two viable regimes with an absorbing failure'
+statement: >-
+  Two viable regimes exchanging at rate 1, one of which fails at rate 0.02
+  into an absorbing state: conditioned on survival the chain settles within
+  a few time units to (0.5025, 0.4975) and stays there, while survival
+  decays as e^(−0.00995t), a mean lifetime of 100.5
 version: 1
 standing: stipulated
 kind: construction
@@ -29,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-612 — filed from the same exchange, Proposed -->
 
-# CASE-231: Two viable regimes exchanging at rate 1, one of which fails at rate 0.02 into an absorbing state: conditioned on survival the chain settles within a few time units to (0.5025, 0.4975) and stays there, while survival decays as e^(−0.00995t), a mean lifetime of 100.5
+# CASE-231: Two viable regimes with an absorbing failure
 
 ## The case
 

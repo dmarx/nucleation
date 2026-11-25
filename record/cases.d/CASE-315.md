@@ -3,7 +3,14 @@ number: 315
 status: Active
 formerly:
 - CASE-tmpvnozj
-title: 'A readiness simulator run under spend-matching and under carry-over: a heavy rescue squad whose budget is set to the last month''s peak is lost for good in every run within months where it is sent only on confirmation, in a fifth of runs within nine years where it is sent provisionally to each of six reports a month, and never where it drills each month or the unspent budget rolls over'
+title: 'Readiness simulator: spend-matching, carry-over'
+statement: >-
+  A readiness simulator run under spend-matching and under carry-over: a
+  heavy rescue squad whose budget is set to the last month's peak is lost
+  for good in every run within months where it is sent only on confirmation,
+  in a fifth of runs within nine years where it is sent provisionally to
+  each of six reports a month, and never where it drills each month or the
+  unspent budget rolls over
 version: 3
 history:
 - version: 1
@@ -69,7 +76,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-200 TERM-110 — Proposed or new; CASE-200's carry-over rule is run as filed, the claim is filed with this study, and TERM-110 is cited as CLAIM-577 cites it -->
 
-# CASE-315: A readiness simulator run under spend-matching and under carry-over: a heavy rescue squad whose budget is set to the last month's peak is lost for good in every run within months where it is sent only on confirmation, in a fifth of runs within nine years where it is sent provisionally to each of six reports a month, and never where it drills each month or the unspent budget rolls over
+# CASE-315: Readiness simulator: spend-matching, carry-over
 
 ## The study
 

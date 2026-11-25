@@ -3,7 +3,15 @@ number: 322
 status: Proposed
 formerly:
 - CASE-tmp5sk3q
-title: 'Checking a restricted theorem on differentiated, recoverable specialists numerically: the recovery bound holds in 7,981 random removals, with equality whenever no other component goes extinct; Gaussian-niche operators started almost identical differentiate to equilibria meeting the stability conditions; and in a two-resource trade-off a removed specialist fails to return exactly where the lone resident leaves its corner for a generalist that takes more than its share'
+title: 'Recoverable-specialists theorem checked'
+statement: >-
+  Checking a restricted theorem on differentiated, recoverable specialists
+  numerically: the recovery bound holds in 7,981 random removals, with
+  equality whenever no other component goes extinct; Gaussian-niche
+  operators started almost identical differentiate to equilibria meeting the
+  stability conditions; and in a two-resource trade-off a removed specialist
+  fails to return exactly where the lone resident leaves its corner for a
+  generalist that takes more than its share
 version: 1
 history:
 - version: 1
@@ -56,7 +64,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-885 CLAIM-886 — new, filed with this case by LEAD-049 -->
 
-# CASE-322: Checking a restricted theorem on differentiated, recoverable specialists numerically: the recovery bound holds in 7,981 random removals, with equality whenever no other component goes extinct; Gaussian-niche operators started almost identical differentiate to equilibria meeting the stability conditions; and in a two-resource trade-off a removed specialist fails to return exactly where the lone resident leaves its corner for a generalist that takes more than its share
+# CASE-322: Recoverable-specialists theorem checked
 
 ## What was done
 

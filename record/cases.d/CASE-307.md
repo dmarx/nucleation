@@ -3,7 +3,13 @@ number: 307
 status: Proposed
 formerly:
 - CASE-tmpdcoyb
-title: 'The record''s history from 2026-10-07 to 2026-11-22, counted at matched age, shows claims with inbound rests_on or grounds edges taking substantive revisions about 1.45 times as often as claims with none, and the fall in revision rate over an entry''s life tracking its age, not its edges'
+title: 'Revision rates of claims with inbound edges'
+statement: >-
+  The record's history from 2026-10-07 to 2026-11-22, counted at matched
+  age, shows claims with inbound rests_on or grounds edges taking
+  substantive revisions about 1.45 times as often as claims with none, and
+  the fall in revision rate over an entry's life tracking its age, not its
+  edges
 version: 1
 history:
 - version: 1
@@ -44,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-778 — Proposed, Rejected, Deferred or new; the entries this filing made or touched -->
 
-# CASE-307: The record's history from 2026-10-07 to 2026-11-22, counted at matched age, shows claims with inbound rests_on or grounds edges taking substantive revisions about 1.45 times as often as claims with none, and the fall in revision rate over an entry's life tracking its age, not its edges
+# CASE-307: Revision rates of claims with inbound edges
 
 ## What was counted
 

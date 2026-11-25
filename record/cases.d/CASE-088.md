@@ -3,8 +3,10 @@ number: 88
 status: Active
 formerly:
 - CASE-tmpi5poq
-title: 'The repeated objection and the argument nobody reuses: filing pays for itself
-  after a few recurrences in one case, and never in the other'
+title: 'The repeated objection and the unreused argument'
+statement: >-
+  The repeated objection and the argument nobody reuses: filing pays for
+  itself after a few recurrences in one case, and never in the other
 version: 1
 standing: fictional
 kind: construction
@@ -19,7 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-182 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# CASE-088: The repeated objection and the argument nobody reuses: filing pays for itself after a few recurrences in one case, and never in the other
+# CASE-088: The repeated objection and the unreused argument
 
 ## The case
 

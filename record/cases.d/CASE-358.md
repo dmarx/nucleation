@@ -3,7 +3,10 @@ number: 358
 status: Proposed
 formerly:
 - CASE-tmp99n89
-title: 'Commutator bound on level-wise acquisition checked on perturbed tree data, in exact kernel flows and trained two-layer ReLU networks'
+title: 'Commutator bound on level-wise acquisition'
+statement: >-
+  Commutator bound on level-wise acquisition checked on perturbed tree data,
+  in exact kernel flows and trained two-layer ReLU networks
 version: 1
 history:
 - version: 1
@@ -42,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-938 — new; the claim of LEAD-066 this study checks, filed 2026-11-22 -->
 
-# CASE-358: Commutator bound on level-wise acquisition checked on perturbed tree data, in exact kernel flows and trained two-layer ReLU networks
+# CASE-358: Commutator bound on level-wise acquisition
 
 ## The case
 

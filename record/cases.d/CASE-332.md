@@ -3,7 +3,16 @@ number: 332
 status: Active
 formerly:
 - CASE-tmpl0ccq
-title: 'A simulation of the organization of the study of maintained inquiry under damage, with evidence generation, admission and scoring lesionable one at a time: a second correction after an undisclosed lesion of any one operation succeeds only where the apparatus tests itself and a producer rebuilds it, in 64 of 64 worlds for reciprocal and external maintenance and 0 of 64 without production, and in no arrangement without the self-test; only destroying both capacities separates reciprocal from external maintenance'
+title: 'Maintained inquiry under lesioned operations'
+statement: >-
+  A simulation of the organization of the study of maintained inquiry under
+  damage, with evidence generation, admission and scoring lesionable one at
+  a time: a second correction after an undisclosed lesion of any one
+  operation succeeds only where the apparatus tests itself and a producer
+  rebuilds it, in 64 of 64 worlds for reciprocal and external maintenance
+  and 0 of 64 without production, and in no arrangement without the
+  self-test; only destroying both capacities separates reciprocal from
+  external maintenance
 version: 2
 history:
 - version: 1
@@ -71,7 +80,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-265 CLAIM-901 — Proposed or new; CASE-265 cited for its constant outside controller, CLAIM-901 as the claim filed from this run -->
 
-# CASE-332: A simulation of the organization of the study of maintained inquiry under damage, with evidence generation, admission and scoring lesionable one at a time: a second correction after an undisclosed lesion of any one operation succeeds only where the apparatus tests itself and a producer rebuilds it, in 64 of 64 worlds for reciprocal and external maintenance and 0 of 64 without production, and in no arrangement without the self-test; only destroying both capacities separates reciprocal from external maintenance
+# CASE-332: Maintained inquiry under lesioned operations
 
 ## What was done
 

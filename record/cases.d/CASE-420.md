@@ -3,7 +3,11 @@ number: 420
 status: Active
 formerly:
 - CASE-tmpw3vii
-title: 'Role-indexed against scalar grants, and operators bound by the two grant conditions against unbound ones, in a population built on the coupled meaning–influence model'
+title: 'Role-indexed vs scalar grants'
+statement: >-
+  Role-indexed against scalar grants, and operators bound by the two grant
+  conditions against unbound ones, in a population built on the coupled
+  meaning–influence model
 version: 2
 history:
 - version: 2
@@ -46,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-281 CLAIM-285 — Proposed; the built model this study extends and the claims it tests, cited as open -->
 
-# CASE-420: Role-indexed against scalar grants, and operators bound by the two grant conditions against unbound ones, in a population built on the coupled meaning–influence model
+# CASE-420: Role-indexed vs scalar grants
 
 ## What was done
 

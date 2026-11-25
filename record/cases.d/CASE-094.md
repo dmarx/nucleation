@@ -3,9 +3,12 @@ number: 94
 status: Active
 formerly:
 - CASE-tmpd5exw
-title: 'The LEGO bin: a brick owned in one copy and buried among hundreds of similar
-  ones may as well not be owned, a black brick among white ones needs no bin of
-  its own, and every brick can be found by going through the whole collection'
+title: 'The LEGO bin'
+statement: >-
+  The LEGO bin: a brick owned in one copy and buried among hundreds of
+  similar ones may as well not be owned, a black brick among white ones
+  needs no bin of its own, and every brick can be found by going through the
+  whole collection
 version: 1
 standing: stipulated
 kind: thought-experiment
@@ -30,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1081 — Unavailable; held without a reading, cited as such -->
 
-# CASE-094: The LEGO bin: a brick owned in one copy and buried among hundreds of similar ones may as well not be owned, a black brick among white ones needs no bin of its own, and every brick can be found by going through the whole collection
+# CASE-094: The LEGO bin
 
 ## The case
 

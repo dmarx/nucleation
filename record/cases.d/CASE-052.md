@@ -3,7 +3,10 @@ number: 52
 status: Active
 formerly:
 - CASE-tmpdat4f
-title: "Stokely Carmichael's two speaking styles, kept apart by audience and collapsed by broadcast"
+title: 'Stokely Carmichael''s two speaking styles'
+statement: >-
+  Stokely Carmichael's two speaking styles, kept apart by audience and
+  collapsed by broadcast
 version: 1
 standing: stipulated
 kind: specimen
@@ -28,7 +31,7 @@ reported_in:
 ---
 <!-- inactive-ok-file: CLAIM-196 — Proposed; the claim this case illustrates, open -->
 
-# CASE-052: Stokely Carmichael's two speaking styles, kept apart by audience and collapsed by broadcast
+# CASE-052: Stokely Carmichael's two speaking styles
 
 ## The case
 

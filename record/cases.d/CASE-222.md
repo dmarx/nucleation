@@ -3,7 +3,11 @@ number: 222
 status: Proposed
 formerly:
 - CASE-tmpb16ru
-title: 'The contested expression "anti-vax": reported variation in its application, framing, identification and practical consequences, with its conceptual identity and any causal feedback unresolved'
+title: 'The contested expression "anti-vax"'
+statement: >-
+  The contested expression "anti-vax": reported variation in its
+  application, framing, identification and practical consequences, with its
+  conceptual identity and any causal feedback unresolved
 version: 2
 history:
 - version: 2
@@ -44,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-621 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-423 — Proposed; cited for its note declining the owner's U29 cases, nothing here rests on it -->
 
-# CASE-222: The contested expression "anti-vax": reported variation in its application, framing, identification and practical consequences, with its conceptual identity and any causal feedback unresolved
+# CASE-222: The contested expression "anti-vax"
 
 ## The case
 

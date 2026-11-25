@@ -3,7 +3,11 @@ number: 254
 status: Proposed
 formerly:
 - CASE-tmpvq90k
-title: 'A proposed study: one surface failure, a valid objection that leaves an accepted conclusion unchanged, generated with different hidden causes, for an agent team with a probe budget to diagnose before it repairs'
+title: 'One surface failure, several hidden causes'
+statement: >-
+  A proposed study: one surface failure, a valid objection that leaves an
+  accepted conclusion unchanged, generated with different hidden causes, for
+  an agent team with a probe budget to diagnose before it repairs
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -39,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2316 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: THEORY-1724 THEORY-1741 THEORY-1761 THEORY-1778 THEORY-1796 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CASE-254: A proposed study: one surface failure, a valid objection that leaves an accepted conclusion unchanged, generated with different hidden causes, for an agent team with a probe budget to diagnose before it repairs
+# CASE-254: One surface failure, several hidden causes
 
 ## The case
 

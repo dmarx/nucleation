@@ -3,7 +3,13 @@ number: 233
 status: Active
 formerly:
 - CASE-tmpwln61
-title: 'A transition with a barrier: on configurations [0, 1] with a holding requirement r(q) = 0.7 + 2.4q(1 − q), both ends cost 0.7, every path between them passes 1.3 at q = 1/2, and at a budget of 1.0 the feasible set falls into two components, each end feasible and neither reachable from the other'
+title: 'A transition with a capacity barrier'
+statement: >-
+  A transition with a barrier: on configurations [0, 1] with a holding
+  requirement r(q) = 0.7 + 2.4q(1 − q), both ends cost 0.7, every path
+  between them passes 1.3 at q = 1/2, and at a budget of 1.0 the feasible
+  set falls into two components, each end feasible and neither reachable
+  from the other
 version: 3
 history:
 - version: 2
@@ -54,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-198 CASE-200 — Proposed; the variants of this construction -->
 
-# CASE-233: A transition with a barrier: on configurations [0, 1] with a holding requirement r(q) = 0.7 + 2.4q(1 − q), both ends cost 0.7, every path between them passes 1.3 at q = 1/2, and at a budget of 1.0 the feasible set falls into two components, each end feasible and neither reachable from the other
+# CASE-233: A transition with a capacity barrier
 
 ## The construction
 

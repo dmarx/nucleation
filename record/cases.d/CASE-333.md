@@ -3,7 +3,14 @@ number: 333
 status: Active
 formerly:
 - CASE-tmp69rk8
-title: 'A simulated network of eight coupled oscillators carrying correspondence maps: a shared drive and coupling give the same phase locking and gluing, but displacing the drive for one member moves the others by 0.2 per cent of its shift without coupling and by 30 to 58 per cent with it; compatibility, attraction, persistence after the drive is withdrawn and revision that predicts interventions come apart across arms'
+title: 'Eight coupled oscillators with displaced drive'
+statement: >-
+  A simulated network of eight coupled oscillators carrying correspondence
+  maps: a shared drive and coupling give the same phase locking and gluing,
+  but displacing the drive for one member moves the others by 0.2 per cent
+  of its shift without coupling and by 30 to 58 per cent with it;
+  compatibility, attraction, persistence after the drive is withdrawn and
+  revision that predicts interventions come apart across arms
 version: 2
 history:
 - version: 1
@@ -70,7 +77,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-225 — Proposed; the claim and construction this study tests, and the argument that names it -->
 
-# CASE-333: A simulated network of eight coupled oscillators carrying correspondence maps: a shared drive and coupling give the same phase locking and gluing, but displacing the drive for one member moves the others by 0.2 per cent of its shift without coupling and by 30 to 58 per cent with it; compatibility, attraction, persistence after the drive is withdrawn and revision that predicts interventions come apart across arms
+# CASE-333: Eight coupled oscillators with displaced drive
 
 ## What was run
 

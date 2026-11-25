@@ -3,7 +3,11 @@ number: 78
 status: Active
 formerly:
 - CASE-tmp7b477
-title: 'Who keeps placing on r/place: the proposed survival analysis of the released placement logs, testing whether participants return while their art survives and whether unaffiliated placement cools'
+title: 'Who keeps placing on r/place: survival study'
+statement: >-
+  Who keeps placing on r/place: the proposed survival analysis of the
+  released placement logs, testing whether participants return while their
+  art survives and whether unaffiliated placement cools
 version: 3
 history:
 - version: 2
@@ -43,7 +47,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: CLAIM-274 — Proposed or Open; claims, questions and readings the study would test, cited as open -->
 
-# CASE-078: Who keeps placing on r/place: the proposed survival analysis of the released placement logs, testing whether participants return while their art survives and whether unaffiliated placement cools
+# CASE-078: Who keeps placing on r/place: survival study
 
 ## The case
 

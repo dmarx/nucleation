@@ -3,7 +3,9 @@ number: 35
 status: Active
 formerly:
 - CASE-tmpzeh33
-title: 'Solidarity, condemnation and humour: the parity obstruction'
+title: 'Solidarity, condemnation, humour: parity'
+statement: >-
+  Solidarity, condemnation and humour: the parity obstruction
 version: 2
 history:
 - version: 2
@@ -34,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-008 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CASE-035: Solidarity, condemnation and humour: the parity obstruction
+# CASE-035: Solidarity, condemnation, humour: parity
 
 ## The case
 

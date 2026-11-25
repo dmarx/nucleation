@@ -3,7 +3,13 @@ number: 286
 formerly:
 - CASE-tmpgp2qo
 status: Proposed
-title: 'Voluntary submission against alienation of standing: two informed, voluntary delegations of consequential decisions, one limited and still governed by the delegator''s protected claims, the other purporting to give the recipient unlimited authority to determine whether the delegator keeps any rights at all'
+title: 'Voluntary submission against alienation'
+statement: >-
+  Voluntary submission against alienation of standing: two informed,
+  voluntary delegations of consequential decisions, one limited and still
+  governed by the delegator's protected claims, the other purporting to give
+  the recipient unlimited authority to determine whether the delegator keeps
+  any rights at all
 version: 3
 history:
 - version: 2
@@ -48,7 +54,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-720 CLAIM-741 — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: CASE-229 — Proposed; the record's matched case for recognized against secured -->
 
-# CASE-286: Voluntary submission against alienation of standing: two informed, voluntary delegations of consequential decisions, one limited and still governed by the delegator's protected claims, the other purporting to give the recipient unlimited authority to determine whether the delegator keeps any rights at all
+# CASE-286: Voluntary submission against alienation
 
 ## The case
 

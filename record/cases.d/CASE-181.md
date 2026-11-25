@@ -3,7 +3,11 @@ number: 181
 status: Active
 formerly:
 - CASE-tmpv0eej
-title: 'Frankfurt''s unwilling addict: a man who has the desire to take the drug and the desire to refrain, wants the desire to refrain to be his will, and is moved by the craving anyway'
+title: 'Frankfurt''s unwilling addict'
+statement: >-
+  Frankfurt's unwilling addict: a man who has the desire to take the drug
+  and the desire to refrain, wants the desire to refrain to be his will, and
+  is moved by the craving anyway
 version: 1
 standing: fictional
 kind: thought-experiment
@@ -25,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-120 — Proposed; the account the case is separated from -->
 
-# CASE-181: Frankfurt's unwilling addict: a man who has the desire to take the drug and the desire to refrain, wants the desire to refrain to be his will, and is moved by the craving anyway
+# CASE-181: Frankfurt's unwilling addict
 
 ## What happens
 

@@ -3,7 +3,12 @@ number: 318
 status: Proposed
 formerly:
 - CASE-tmpssuha
-title: 'A pilot of the curation-completeness study on four replayed single-work readings: a replay from the source and the record as it stood recovers about two-thirds of what each filing held and none of what later corrections added'
+title: 'Curation-completeness pilot'
+statement: >-
+  A pilot of the curation-completeness study on four replayed single-work
+  readings: a replay from the source and the record as it stood recovers
+  about two-thirds of what each filing held and none of what later
+  corrections added
 version: 1
 history:
 - version: 1
@@ -48,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-251 THEORY-210 — Proposed or new; the study this pilots, a reading a correction revised, and the claim filed from this pilot -->
 
-# CASE-318: A pilot of the curation-completeness study on four replayed single-work readings: a replay from the source and the record as it stood recovers about two-thirds of what each filing held and none of what later corrections added
+# CASE-318: Curation-completeness pilot
 
 ## The study
 

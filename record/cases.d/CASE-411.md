@@ -3,7 +3,14 @@ number: 411
 status: Proposed
 formerly:
 - CASE-tmpntt8e
-title: 'Eleven open-source successions coded from their public records, timing outside verdicts against the move: the earliest outside verdicts were arranged with the founders, every independent identity verdict found was made in the same act as the speaker''s own move, recognition followed the maintainers where they moved wholesale and never the name except by reunion, and only one original line stopped producing'
+title: 'Eleven open-source successions'
+statement: >-
+  Eleven open-source successions coded from their public records, timing
+  outside verdicts against the move: the earliest outside verdicts were
+  arranged with the founders, every independent identity verdict found was
+  made in the same act as the speaker's own move, recognition followed the
+  maintainers where they moved wholesale and never the name except by
+  reunion, and only one original line stopped producing
 version: 1
 history:
 - version: 1
@@ -62,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-223 CLAIM-617 ARG-067 — Proposed; the design this runs, the claim it would test and the argument it was to rule -->
 <!-- inactive-ok-file: CLAIM-1067 CLAIM-1154 CLAIM-1158 CLAIM-1041 — new, Proposed; the claims filed from this run -->
 
-# CASE-411: Eleven open-source successions coded from their public records, timing outside verdicts against the move: the earliest outside verdicts were arranged with the founders, every independent identity verdict found was made in the same act as the speaker's own move, recognition followed the maintainers where they moved wholesale and never the name except by reunion, and only one original line stopped producing
+# CASE-411: Eleven open-source successions
 
 ## What was done
 

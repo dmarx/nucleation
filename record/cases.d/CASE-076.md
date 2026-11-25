@@ -3,7 +3,11 @@ number: 76
 status: Active
 formerly:
 - CASE-tmp2rlgl
-title: 'Twin pattern-keepers: two systems keep the same pattern, one by its own responses and one through an external controller, and only removing the controller tells them apart'
+title: 'Twin pattern-keepers'
+statement: >-
+  Twin pattern-keepers: two systems keep the same pattern, one by its own
+  responses and one through an external controller, and only removing the
+  controller tells them apart
 version: 1
 standing: stipulated
 kind: thought-experiment
@@ -23,7 +27,7 @@ summary: >-
   sits on depends on where the boundary is drawn.
 ---
 
-# CASE-076: Twin pattern-keepers: two systems keep the same pattern, one by its own responses and one through an external controller, and only removing the controller tells them apart
+# CASE-076: Twin pattern-keepers
 
 ## The case
 

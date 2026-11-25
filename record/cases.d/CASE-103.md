@@ -3,7 +3,11 @@ number: 103
 status: Active
 formerly:
 - CASE-tmpothd4
-title: 'A fanbase keeps a reputation, for hostility or loyalty or knowledge, after the behaviour that earned it has changed, and outsiders and members both act on it'
+title: 'A fanbase''s reputation outlasting its behaviour'
+statement: >-
+  A fanbase keeps a reputation, for hostility or loyalty or knowledge, after
+  the behaviour that earned it has changed, and outsiders and members both
+  act on it
 version: 3
 history:
 - version: 2
@@ -38,7 +42,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: THEORY-137 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 
-# CASE-103: A fanbase keeps a reputation, for hostility or loyalty or knowledge, after the behaviour that earned it has changed, and outsiders and members both act on it
+# CASE-103: A fanbase's reputation outlasting its behaviour
 
 ## The case
 

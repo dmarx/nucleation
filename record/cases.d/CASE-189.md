@@ -3,7 +3,16 @@ number: 189
 status: Active
 formerly:
 - CASE-tmpwxags
-title: 'Two constructions of a maintained organization: two constraints producing each other with saturating production and turnover hold a three-unit coupling, with a box invariant under damage up to 0.4, a saddle-node at damage 0.5 and extinction above it; and a transient encounter that forms a connector enabling that reciprocal production, after which the connector is maintained by what it enables, every single-pathway knockout ends it, and the regime ends in a saddle-node at damage ≈ 0.691 where the coupling''s gap is still ≈ 0.989'
+title: 'Two constructions of a maintained organization'
+statement: >-
+  Two constructions of a maintained organization: two constraints producing
+  each other with saturating production and turnover hold a three-unit
+  coupling, with a box invariant under damage up to 0.4, a saddle-node at
+  damage 0.5 and extinction above it; and a transient encounter that forms a
+  connector enabling that reciprocal production, after which the connector
+  is maintained by what it enables, every single-pathway knockout ends it,
+  and the regime ends in a saddle-node at damage ≈ 0.691 where the
+  coupling's gap is still ≈ 0.989
 version: 6
 history:
 - version: 2
@@ -81,7 +90,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: NOTE-1562 — Skimmed; Freidlin and Wentzell's front matter, cited from the reading of 2026-11-04 as open -->
 
-# CASE-189: Two constructions of a maintained organization: two constraints producing each other with saturating production and turnover hold a three-unit coupling, with a box invariant under damage up to 0.4, a saddle-node at damage 0.5 and extinction above it; and a transient encounter that forms a connector enabling that reciprocal production, after which the connector is maintained by what it enables, every single-pathway knockout ends it, and the regime ends in a saddle-node at damage ≈ 0.691 where the coupling's gap is still ≈ 0.989
+# CASE-189: Two constructions of a maintained organization
 
 ## Construction 1: reciprocal production holding a coupling (A9, A10)
 

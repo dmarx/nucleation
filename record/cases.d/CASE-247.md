@@ -3,7 +3,13 @@ number: 247
 status: Proposed
 formerly:
 - CASE-tmpd5eqf
-title: 'The newsroom that reads low traffic on the investigations it no longer funds: allocating reporting by measured demand, it cuts investigations, publishes fewer, sees little engagement with them, and takes that as evidence they are not wanted, until it no longer has the sources or expertise to see what needs investigating'
+title: 'The newsroom that defunds investigations'
+statement: >-
+  The newsroom that reads low traffic on the investigations it no longer
+  funds: allocating reporting by measured demand, it cuts investigations,
+  publishes fewer, sees little engagement with them, and takes that as
+  evidence they are not wanted, until it no longer has the sources or
+  expertise to see what needs investigating
 version: 1
 standing: stipulated
 kind: thought-experiment
@@ -38,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-624 — Proposed; the duty of answerability the stipulated commitment would engage -->
 <!-- inactive-ok-file: CASE-229 — Proposed; the record's case of a disabled challenge procedure with harm and remedy held fixed -->
 
-# CASE-247: The newsroom that reads low traffic on the investigations it no longer funds: allocating reporting by measured demand, it cuts investigations, publishes fewer, sees little engagement with them, and takes that as evidence they are not wanted, until it no longer has the sources or expertise to see what needs investigating
+# CASE-247: The newsroom that defunds investigations
 
 ## The case
 

@@ -3,7 +3,16 @@ number: 362
 status: Active
 formerly:
 - CASE-tmpez9id
-title: 'Five simulated populations trained on one structured schema, independent, socially trained then separated, conforming, enforcing by referee, and checking disagreements against the world, each with and without a collective vote: a criterion of shared perspective stated in advance finds none of them sharing one, since unperturbed members take up under three per cent of a deviation some members carry; the evidential condition orders the populations as predicted below its stated size, and the restorative condition is passed by plain conformity'
+title: 'Shared perspective in five trained populations'
+statement: >-
+  Five simulated populations trained on one structured schema, independent,
+  socially trained then separated, conforming, enforcing by referee, and
+  checking disagreements against the world, each with and without a
+  collective vote: a criterion of shared perspective stated in advance finds
+  none of them sharing one, since unperturbed members take up under three
+  per cent of a deviation some members carry; the evidential condition
+  orders the populations as predicted below its stated size, and the
+  restorative condition is passed by plain conformity
 version: 2
 history:
 - version: 1
@@ -73,7 +82,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1800 — Proposed; DeChurch and Mesmer-Magnus, the measurement constraint the criterion's first condition follows -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; its defeater is cited as what the criterion must meet -->
 
-# CASE-362: Five simulated populations trained on one structured schema, independent, socially trained then separated, conforming, enforcing by referee, and checking disagreements against the world, each with and without a collective vote: a criterion of shared perspective stated in advance finds none of them sharing one, since unperturbed members take up under three per cent of a deviation some members carry; the evidential condition orders the populations as predicted below its stated size, and the restorative condition is passed by plain conformity
+# CASE-362: Shared perspective in five trained populations
 
 ## What was stated in advance
 

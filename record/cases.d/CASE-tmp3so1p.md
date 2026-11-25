@@ -13,7 +13,13 @@ line:
 illustrates:
 - CLAIM-350
 - CLAIM-670
-title: "Retention under switching costs, stipulated: with retention a logistic function of a service's quality less an alternative's value plus the cost of switching, a service of quality 80 that costs nothing to leave and one of quality 20 that costs 60 to leave keep the same 63.5 percent of their customers, so the retention figure merges satisfaction with lock-in"
+title: 'Retention under switching costs'
+statement: >-
+  Retention under switching costs, stipulated: with retention a logistic
+  function of a service's quality less an alternative's value plus the cost
+  of switching, a service of quality 80 that costs nothing to leave and one
+  of quality 20 that costs 60 to leave keep the same 63.5 percent of their
+  customers, so the retention figure merges satisfaction with lock-in
 summary: >-
   A46 §4 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24): retention as a KPI that "can merge all these
@@ -28,7 +34,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-670 THEORY-150 THEORY-152 — Proposed; the claim illustrated and the held accounts of exit -->
 
-# CASE-tmp3so1p: Retention under switching costs, stipulated: with retention a logistic function of a service's quality less an alternative's value plus the cost of switching, a service of quality 80 that costs nothing to leave and one of quality 20 that costs 60 to leave keep the same 63.5 percent of their customers, so the retention figure merges satisfaction with lock-in
+# CASE-tmp3so1p: Retention under switching costs
 
 ## The case
 

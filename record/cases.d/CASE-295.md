@@ -3,7 +3,12 @@ number: 295
 status: Proposed
 formerly:
 - CASE-tmpplox8
-title: 'A stipulated two-step acquisition: a procedure that loses money on the one question it serves but cuts the cost of acquiring a second competence from 10 to 1, so that acquiring it first is the best policy though each step alone shows a loss'
+title: 'A stipulated two-step acquisition'
+statement: >-
+  A stipulated two-step acquisition: a procedure that loses money on the one
+  question it serves but cuts the cost of acquiring a second competence from
+  10 to 1, so that acquiring it first is the best policy though each step
+  alone shows a loss
 version: 1
 standing: stipulated
 kind: construction
@@ -25,7 +30,7 @@ summary: >-
   this session); adopting it is the owner's call.
 ---
 
-# CASE-295: A stipulated two-step acquisition: a procedure that loses money on the one question it serves but cuts the cost of acquiring a second competence from 10 to 1, so that acquiring it first is the best policy though each step alone shows a loss
+# CASE-295: A stipulated two-step acquisition
 
 ## The construction
 

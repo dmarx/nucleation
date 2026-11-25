@@ -3,7 +3,10 @@ number: 41
 status: Active
 formerly:
 - CASE-tmpp6j2b
-title: 'FID and Projected GANs: one ImageNet-trained probe family used both to train a generator and to evaluate it'
+title: 'FID and Projected GANs'
+statement: >-
+  FID and Projected GANs: one ImageNet-trained probe family used both to
+  train a generator and to evaluate it
 version: 2
 history:
 - version: 2
@@ -34,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-142 CLAIM-005 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
-# CASE-041: FID and Projected GANs: one ImageNet-trained probe family used both to train a generator and to evaluate it
+# CASE-041: FID and Projected GANs
 
 ## The case
 

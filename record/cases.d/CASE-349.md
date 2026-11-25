@@ -3,7 +3,14 @@ number: 349
 status: Proposed
 formerly:
 - CASE-tmpi9sds
-title: 'Finite Markovian augmentation of a linear coarse variable, computed exactly in linear Gaussian VAR(1) models with vector coarse variables: the finite-lag error bound held on 400 random models, the Kalman augmentation was Markov with unchanged transfer entropy on 16, and the filter''s rate exceeded the eliminated dynamics'' spectral radius in 67 of 2,000, never with one eliminated variable'
+title: 'Finite Markovian augmentation in linear VAR'
+statement: >-
+  Finite Markovian augmentation of a linear coarse variable, computed
+  exactly in linear Gaussian VAR(1) models with vector coarse variables: the
+  finite-lag error bound held on 400 random models, the Kalman augmentation
+  was Markov with unchanged transfer entropy on 16, and the filter's rate
+  exceeded the eliminated dynamics' spectral radius in 67 of 2,000, never
+  with one eliminated variable
 version: 1
 standing: documented
 kind: executed-study
@@ -31,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-925 — new; the claim this study checks -->
 
-# CASE-349: Finite Markovian augmentation of a linear coarse variable, computed exactly in linear Gaussian VAR(1) models with vector coarse variables: the finite-lag error bound held on 400 random models, the Kalman augmentation was Markov with unchanged transfer entropy on 16, and the filter's rate exceeded the eliminated dynamics' spectral radius in 67 of 2,000, never with one eliminated variable
+# CASE-349: Finite Markovian augmentation in linear VAR
 
 ## The case
 

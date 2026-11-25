@@ -3,7 +3,12 @@ number: 142
 status: Active
 formerly:
 - CASE-tmpazqjk
-title: 'The label confirmed by resistance: a critic calls someone hostile, the person answers the characterization angrily, and the critic cites the anger as proof, so the judgement is confirmed by the response of someone who rejects it'
+title: 'The label confirmed by resistance'
+statement: >-
+  The label confirmed by resistance: a critic calls someone hostile, the
+  person answers the characterization angrily, and the critic cites the
+  anger as proof, so the judgement is confirmed by the response of someone
+  who rejects it
 version: 2
 history:
 - version: 2
@@ -37,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1394 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-415 CLAIM-425 — Proposed; claims, cases and terms cited as open, nothing here rests on their being settled -->
 
-# CASE-142: The label confirmed by resistance: a critic calls someone hostile, the person answers the characterization angrily, and the critic cites the anger as proof, so the judgement is confirmed by the response of someone who rejects it
+# CASE-142: The label confirmed by resistance
 
 ## The case
 

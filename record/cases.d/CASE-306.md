@@ -3,7 +3,13 @@ number: 306
 status: Proposed
 formerly:
 - CASE-tmpzi1u3
-title: 'Coding the exchange "Rich Get Richer Power Laws" move by move under a codebook fixed in advance finds identity failures outnumbering structure failures by about 43 to 5, mostly re-derivations, with one silent redefinition; a second exchange of the same owner and assistant family, coded once by an AI coder'
+title: 'Coding "Rich Get Richer Power Laws" moves'
+statement: >-
+  Coding the exchange "Rich Get Richer Power Laws" move by move under a
+  codebook fixed in advance finds identity failures outnumbering structure
+  failures by about 43 to 5, mostly re-derivations, with one silent
+  redefinition; a second exchange of the same owner and assistant family,
+  coded once by an AI coder
 version: 1
 history:
 - version: 1
@@ -43,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-483 — Proposed, Rejected, Deferred or new; the entries this filing made or touched -->
 
-# CASE-306: Coding the exchange "Rich Get Richer Power Laws" move by move under a codebook fixed in advance finds identity failures outnumbering structure failures by about 43 to 5, mostly re-derivations, with one silent redefinition; a second exchange of the same owner and assistant family, coded once by an AI coder
+# CASE-306: Coding "Rich Get Richer Power Laws" moves
 
 ## What was done
 

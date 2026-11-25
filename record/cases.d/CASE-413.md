@@ -3,7 +3,12 @@ number: 413
 status: Proposed
 formerly:
 - CASE-tmpp2okq
-title: 'A model that answers a fact correctly, and uses it in further inferences, when asked in one phrasing or language but not under its default query: knowledge possessed under one cue and not reliably accessible under the declared interface'
+title: 'Fact accessible under one cue only'
+statement: >-
+  A model that answers a fact correctly, and uses it in further inferences,
+  when asked in one phrasing or language but not under its default query:
+  knowledge possessed under one cue and not reliably accessible under the
+  declared interface
 version: 1
 standing: fictional
 kind: thought-experiment
@@ -31,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-697 TERM-079 CASE-371 — Proposed; cited as the criteria applied or as related, not relied on -->
 <!-- inactive-ok-file: CASE-408 CLAIM-1100 CLAIM-1142 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CASE-413: A model that answers a fact correctly, and uses it in further inferences, when asked in one phrasing or language but not under its default query: knowledge possessed under one cue and not reliably accessible under the declared interface
+# CASE-413: Fact accessible under one cue only
 
 ## The case
 

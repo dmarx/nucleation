@@ -3,7 +3,14 @@ number: 257
 status: Proposed
 formerly:
 - CASE-tmpwmg3h
-title: 'The public theatres of colonial Saint-Domingue, 1764 to the Revolution, as reported: an institution of French cultural prestige to which enslaved musicians, supernumeraries and builders, and a few free performers of colour, are documented as contributing, while they are documented as excluded from standing in it, seated apart or not admitted, black roles given to whites in blackface, with no part in its rules'
+title: 'Public theatres of colonial Saint-Domingue'
+statement: >-
+  The public theatres of colonial Saint-Domingue, 1764 to the Revolution, as
+  reported: an institution of French cultural prestige to which enslaved
+  musicians, supernumeraries and builders, and a few free performers of
+  colour, are documented as contributing, while they are documented as
+  excluded from standing in it, seated apart or not admitted, black roles
+  given to whites in blackface, with no part in its rules
 version: 4
 history:
 - version: 2
@@ -83,7 +90,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-614 CLAIM-624 — Proposed; the claims A6 §5 read the case against, cited with their standing -->
 <!-- inactive-ok-file: LIT-2528 LIT-2516 LIT-2537 — Unavailable; registered from the same exchange, unread -->
 
-# CASE-257: The public theatres of colonial Saint-Domingue, 1764 to the Revolution, as reported: an institution of French cultural prestige to which enslaved musicians, supernumeraries and builders, and a few free performers of colour, are documented as contributing, while they are documented as excluded from standing in it, seated apart or not admitted, black roles given to whites in blackface, with no part in its rules
+# CASE-257: Public theatres of colonial Saint-Domingue
 
 ## The case
 

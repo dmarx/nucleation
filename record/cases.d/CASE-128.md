@@ -3,7 +3,12 @@ number: 128
 status: Active
 formerly:
 - CASE-tmp361g3
-title: 'The voluntary delegation: a person gives a friend the password to a distracting application during a calm period and is refused it later under temptation, while another person lives under the same restriction imposed without consent'
+title: 'The voluntary delegation'
+statement: >-
+  The voluntary delegation: a person gives a friend the password to a
+  distracting application during a calm period and is refused it later under
+  temptation, while another person lives under the same restriction imposed
+  without consent
 version: 3
 history:
 - version: 2
@@ -63,7 +68,7 @@ draws_on:
 <!-- inactive-ok-file: LIT-1389 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-364 THEORY-067 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CASE-128: The voluntary delegation: a person gives a friend the password to a distracting application during a calm period and is refused it later under temptation, while another person lives under the same restriction imposed without consent
+# CASE-128: The voluntary delegation
 
 ## The case
 

@@ -3,7 +3,16 @@ number: 371
 status: Proposed
 formerly:
 - CASE-tmprir2y
-title: 'A toy-scale forgetting study run on CPU: in a two-layer transformer that memorized random subject–relation–object facts, facts fine-tuned away by unlearning, overwriting or an unrelated new task stay recoverable, by an untrained cue, a probe, the runner-up answer, reverting one block''s update or relearning the other half, at rates well above a matched twin''s, while gradient ascent wrecks the whole model; and the union of these readers also recovers a fact the twin never held in a quarter to nearly half of cases'
+title: 'Toy transformer forgetting study'
+statement: >-
+  A toy-scale forgetting study run on CPU: in a two-layer transformer that
+  memorized random subject–relation–object facts, facts fine-tuned away by
+  unlearning, overwriting or an unrelated new task stay recoverable, by an
+  untrained cue, a probe, the runner-up answer, reverting one block's update
+  or relearning the other half, at rates well above a matched twin's, while
+  gradient ascent wrecks the whole model; and the union of these readers
+  also recovers a fact the twin never held in a quarter to nearly half of
+  cases
 version: 1
 history:
 - version: 1
@@ -59,7 +68,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-274 CLAIM-697 CLAIM-698 THEORY-1888 THEORY-1870 — Proposed; the design this run reduces, the claims it bears on, and the erasure readings it draws on -->
 
-# CASE-371: A toy-scale forgetting study run on CPU: in a two-layer transformer that memorized random subject–relation–object facts, facts fine-tuned away by unlearning, overwriting or an unrelated new task stay recoverable, by an untrained cue, a probe, the runner-up answer, reverting one block's update or relearning the other half, at rates well above a matched twin's, while gradient ascent wrecks the whole model; and the union of these readers also recovers a fact the twin never held in a quarter to nearly half of cases
+# CASE-371: Toy transformer forgetting study
 
 ## A toy-scale stand-in
 

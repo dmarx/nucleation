@@ -3,7 +3,13 @@ number: 150
 status: Active
 formerly:
 - CASE-tmptjtlr
-title: 'Economic alignment and political alignment: Kleinman, Liu and Redding find, using China''s integration into the world economy and falling air-transport costs as sources of variation, that countries whose welfare becomes more dependent on each other''s productivity become more politically aligned'
+title: 'Economic and political alignment'
+statement: >-
+  Economic alignment and political alignment: Kleinman, Liu and Redding
+  find, using China's integration into the world economy and falling
+  air-transport costs as sources of variation, that countries whose welfare
+  becomes more dependent on each other's productivity become more
+  politically aligned
 version: 2
 history:
 - version: 2
@@ -30,7 +36,7 @@ reported_in:
 - LIT-1416
 ---
 
-# CASE-150: Economic alignment and political alignment: Kleinman, Liu and Redding find, using China's integration into the world economy and falling air-transport costs as sources of variation, that countries whose welfare becomes more dependent on each other's productivity become more politically aligned
+# CASE-150: Economic and political alignment
 
 ## The case
 

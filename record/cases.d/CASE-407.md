@@ -3,7 +3,10 @@ number: 407
 status: Proposed
 formerly:
 - CASE-tmpjn7jc
-title: 'Function-preserving rescaling of a pretrained diagonal linear network before fine-tuning, run on two main tasks'
+title: 'Function-preserving rescaling before fine-tuning'
+statement: >-
+  Function-preserving rescaling of a pretrained diagonal linear network
+  before fine-tuning, run on two main tasks
 version: 1
 history:
 - version: 1
@@ -42,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1043 THEORY-2305 CLAIM-1011 — Proposed; the claim this run grounds, the reading whose setup it uses, the verdict it illustrates, and the identity it is read with -->
 
-# CASE-407: Function-preserving rescaling of a pretrained diagonal linear network before fine-tuning, run on two main tasks
+# CASE-407: Function-preserving rescaling before fine-tuning
 
 ## What was done
 

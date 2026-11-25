@@ -3,7 +3,11 @@ number: 62
 status: Active
 formerly:
 - CASE-tmpabax8
-title: 'Simplified texts for restricted and for full readers: a gain and a loss documented on different texts, documented nulls and a reversal, and a design that tests both on the same renderings'
+title: 'Simplified texts for restricted and full readers'
+statement: >-
+  Simplified texts for restricted and for full readers: a gain and a loss
+  documented on different texts, documented nulls and a reversal, and a
+  design that tests both on the same renderings
 version: 2
 history:
 - version: 2
@@ -39,7 +43,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: CLAIM-087 — Proposed; the improvement claim and the Blackwell thesis, cited as open -->
 
-# CASE-062: Simplified texts for restricted and for full readers: a gain and a loss documented on different texts, documented nulls and a reversal, and a design that tests both on the same renderings
+# CASE-062: Simplified texts for restricted and full readers
 
 Found on 2026-10-10 by a search the owner asked for: a rendering made from
 the source alone that measurably helps a named restricted receiver and

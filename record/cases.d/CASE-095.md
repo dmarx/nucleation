@@ -3,9 +3,11 @@ number: 95
 status: Active
 formerly:
 - CASE-tmpjgubn
-title: 'Two builders sorting one collection: the brick that one bins as red and
-  two-wide and the other as a curved connector has a bin that respects both, and
-  what the builders cannot share is an arrangement, not a description'
+title: 'Two builders sorting one LEGO collection'
+statement: >-
+  Two builders sorting one collection: the brick that one bins as red and
+  two-wide and the other as a curved connector has a bin that respects both,
+  and what the builders cannot share is an arrangement, not a description
 version: 1
 standing: fictional
 kind: construction
@@ -28,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-037 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->
 
-# CASE-095: Two builders sorting one collection: the brick that one bins as red and two-wide and the other as a curved connector has a bin that respects both, and what the builders cannot share is an arrangement, not a description
+# CASE-095: Two builders sorting one LEGO collection
 
 ## The case
 

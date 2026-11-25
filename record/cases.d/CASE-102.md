@@ -3,7 +3,10 @@ number: 102
 status: Active
 formerly:
 - CASE-tmpljl7c
-title: 'A college program stays good, or bad, at a sport for decades while its whole roster turns over every four or five years'
+title: 'A college program''s lasting strength or weakness'
+statement: >-
+  A college program stays good, or bad, at a sport for decades while its
+  whole roster turns over every four or five years
 version: 2
 history:
 - version: 2
@@ -32,7 +35,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-005 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
-# CASE-102: A college program stays good, or bad, at a sport for decades while its whole roster turns over every four or five years
+# CASE-102: A college program's lasting strength or weakness
 
 ## The case
 

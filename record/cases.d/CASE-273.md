@@ -3,7 +3,12 @@ number: 273
 status: Proposed
 formerly:
 - CASE-tmp86zrj
-title: 'Orthogonal task updates can interact: for f_w(x) = (w·x)², the updates (1, 0) and (0, 1) from w = 0 are orthogonal, yet at x = (1, 1) their joint effect exceeds the sum of their separate effects by 2, the mixed second-order term that a model linearized at its base cannot have'
+title: 'Orthogonal task updates that interact'
+statement: >-
+  Orthogonal task updates can interact: for f_w(x) = (w·x)², the updates (1,
+  0) and (0, 1) from w = 0 are orthogonal, yet at x = (1, 1) their joint
+  effect exceeds the sum of their separate effects by 2, the mixed
+  second-order term that a model linearized at its base cannot have
 version: 2
 history:
 - version: 2
@@ -40,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1892 THEORY-1890 — Proposed; the readings the construction is set against -->
 
-# CASE-273: Orthogonal task updates can interact: for f_w(x) = (w·x)², the updates (1, 0) and (0, 1) from w = 0 are orthogonal, yet at x = (1, 1) their joint effect exceeds the sum of their separate effects by 2, the mixed second-order term that a model linearized at its base cannot have
+# CASE-273: Orthogonal task updates that interact
 
 ## The construction
 

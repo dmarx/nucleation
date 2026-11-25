@@ -3,7 +3,14 @@ number: 293
 status: Proposed
 formerly:
 - CASE-tmpw9202
-title: 'A proposed study of postmortems: code each for the highest organizational level named among its contributing causes and for whether any action item targets a decision above the reviewing team''s authority, and compare reviews commissioned inside the organization with independent investigations, to test whether a blameless trace stops at the authority of the body that commissions it'
+title: 'Postmortems coded for organizational level'
+statement: >-
+  A proposed study of postmortems: code each for the highest organizational
+  level named among its contributing causes and for whether any action item
+  targets a decision above the reviewing team's authority, and compare
+  reviews commissioned inside the organization with independent
+  investigations, to test whether a blameless trace stops at the authority
+  of the body that commissions it
 version: 2
 history:
 - version: 2
@@ -41,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-750 — new; the claim the study would test and the reading whose format it uses -->
 <!-- inactive-ok-file: CASE-292 CLAIM-719 — Proposed; the entries the study bears on, cited with their standing -->
 
-# CASE-293: A proposed study of postmortems: code each for the highest organizational level named among its contributing causes and for whether any action item targets a decision above the reviewing team's authority, and compare reviews commissioned inside the organization with independent investigations, to test whether a blameless trace stops at the authority of the body that commissions it
+# CASE-293: Postmortems coded for organizational level
 
 ## The study
 

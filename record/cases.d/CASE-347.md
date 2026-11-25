@@ -3,7 +3,13 @@ number: 347
 status: Proposed
 formerly:
 - CASE-tmprsqvj
-title: 'Three simulated populations with matched turnover and aggregate statistics, run through a priced lagged block test and an information profile: the transmitting population is found with its lag, the commonly driven and the institutional populations are each joined to their external variable alike, and the common input is rejected only while it is observed'
+title: 'Priced lagged block test on three populations'
+statement: >-
+  Three simulated populations with matched turnover and aggregate
+  statistics, run through a priced lagged block test and an information
+  profile: the transmitting population is found with its lag, the commonly
+  driven and the institutional populations are each joined to their external
+  variable alike, and the common input is rejected only while it is observed
 version: 1
 history:
 - version: 1
@@ -52,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-157 CLAIM-167 THEORY-257 LIT-005 — Proposed; the block criterion tested, the claim on one-way drive it is read with, the dynamical-independence reading, and Bourrat's paper -->
 <!-- inactive-ok-file: CLAIM-926 — new, filed with this case -->
 
-# CASE-347: Three simulated populations with matched turnover and aggregate statistics, run through a priced lagged block test and an information profile: the transmitting population is found with its lag, the commonly driven and the institutional populations are each joined to their external variable alike, and the common input is rejected only while it is observed
+# CASE-347: Priced lagged block test on three populations
 
 ## What was done
 

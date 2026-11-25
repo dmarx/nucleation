@@ -3,7 +3,16 @@ number: 348
 status: Proposed
 formerly:
 - CASE-tmp6btcq
-title: 'A simulation of a collective that improves its own improver over generations: from the same fresh state at the same budget the later improver does better in every arm that may change it, through its settings and not through a record its predecessor cannot read; judged by the public metric, by its own suite or by an outside test of products, some lineages shed the checks that find damage, and with the suite''s self-test removed an improver that reads its record of past moves kept verification where one that does not dropped it in 10 of 12 lineages'
+title: 'A collective improving its own improver'
+statement: >-
+  A simulation of a collective that improves its own improver over
+  generations: from the same fresh state at the same budget the later
+  improver does better in every arm that may change it, through its settings
+  and not through a record its predecessor cannot read; judged by the public
+  metric, by its own suite or by an outside test of products, some lineages
+  shed the checks that find damage, and with the suite's self-test removed
+  an improver that reads its record of past moves kept verification where
+  one that does not dropped it in 10 of 12 lineages
 version: 1
 history:
 - version: 1
@@ -59,7 +68,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-255 CLAIM-928 — Proposed or new; the design run here, the run it builds on, that run's claim, and the claim filed from this run -->
 <!-- inactive-ok-file: THEORY-1784 THEORY-1799 THEORY-1754 — filed from the exchange "luria experiment design", Proposed; used for the design and the baseline -->
 
-# CASE-348: A simulation of a collective that improves its own improver over generations: from the same fresh state at the same budget the later improver does better in every arm that may change it, through its settings and not through a record its predecessor cannot read; judged by the public metric, by its own suite or by an outside test of products, some lineages shed the checks that find damage, and with the suite's self-test removed an improver that reads its record of past moves kept verification where one that does not dropped it in 10 of 12 lineages
+# CASE-348: A collective improving its own improver
 
 ## What was done
 

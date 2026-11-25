@@ -3,7 +3,14 @@ number: 226
 status: Proposed
 formerly:
 - CASE-tmphkso5
-title: 'A proposed study: two communities that agree in their present use of a category are shown evidence that it conflates two phenomena, and one revises the distinction while the other reinterprets the evidence as irrelevant, with their understanding of the evidence and their incentives controlled, to tell agreement in a concept from similarity in the organization that maintains and revises it'
+title: 'Two communities shown a conflated category'
+statement: >-
+  A proposed study: two communities that agree in their present use of a
+  category are shown evidence that it conflates two phenomena, and one
+  revises the distinction while the other reinterprets the evidence as
+  irrelevant, with their understanding of the evidence and their incentives
+  controlled, to tell agreement in a concept from similarity in the
+  organization that maintains and revises it
 version: 3
 history:
 - version: 2
@@ -47,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-098 TERM-118 — Proposed; the term the study would test, and the term filed from the same exchange -->
 
-# CASE-226: A proposed study: two communities that agree in their present use of a category are shown evidence that it conflates two phenomena, and one revises the distinction while the other reinterprets the evidence as irrelevant, with their understanding of the evidence and their incentives controlled, to tell agreement in a concept from similarity in the organization that maintains and revises it
+# CASE-226: Two communities shown a conflated category
 
 ## The case
 

@@ -3,7 +3,11 @@ number: 173
 status: Proposed
 formerly:
 - CASE-tmpoa9h4
-title: 'Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont''s genome reduced to a seventh of E. coli''s'
+title: 'Aphids and Buchnera'
+statement: >-
+  Aphids and Buchnera: an obligate nutritional symbiosis in which neither
+  partner reproduces alone, and the symbiont's genome reduced to a seventh
+  of E. coli's
 version: 5
 history:
 - version: 2
@@ -49,7 +53,7 @@ draws_on:
 <!-- inactive-ok-file: LIT-1573 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: LIT-1611 — Unfetched; tried for LEAD-138 and not reached, cited in the note of 2026-11-22 -->
 
-# CASE-173: Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont's genome reduced to a seventh of E. coli's
+# CASE-173: Aphids and Buchnera
 
 ## The case
 

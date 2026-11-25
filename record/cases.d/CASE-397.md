@@ -3,7 +3,15 @@ number: 397
 status: Active
 formerly:
 - CASE-tmp95f8e
-title: 'A demand the specification does not name, introduced into the matched-performance model mid-run: an organization that never enters it scores zero violations against the original specification and its own while the harm runs for all 120 periods, so only the true demand set ranks excision below revision; under the peak rule a review that needs capacity can never start; and a reserve of 2 reaches the harm-free configuration while a redesign that let the reserve fall to 1 does not'
+title: 'Unnamed demand in the matched-performance model'
+statement: >-
+  A demand the specification does not name, introduced into the
+  matched-performance model mid-run: an organization that never enters it
+  scores zero violations against the original specification and its own
+  while the harm runs for all 120 periods, so only the true demand set ranks
+  excision below revision; under the peak rule a review that needs capacity
+  can never start; and a reserve of 2 reaches the harm-free configuration
+  while a redesign that let the reserve fall to 1 does not
 version: 2
 history:
 - version: 1
@@ -66,7 +74,7 @@ summary: >-
 
 <!-- inactive-ok-file: SYNTHESIS-121 SYNTHESIS-049 — Proposed or new; the parent study, the claims this arm illustrates or bears on, and the accounts that map or decline its readings -->
 
-# CASE-397: A demand the specification does not name, introduced into the matched-performance model mid-run: an organization that never enters it scores zero violations against the original specification and its own while the harm runs for all 120 periods, so only the true demand set ranks excision below revision; under the peak rule a review that needs capacity can never start; and a reserve of 2 reaches the harm-free configuration while a redesign that let the reserve fall to 1 does not
+# CASE-397: Unnamed demand in the matched-performance model
 
 ## Why a case of its own
 

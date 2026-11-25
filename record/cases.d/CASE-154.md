@@ -3,7 +3,14 @@ number: 154
 status: Active
 formerly:
 - CASE-tmpswmo9
-title: 'One representation, two tasks, one bounded observer: with X₁, X₂ independent fair bits and an observer that reads one coordinate and cannot compute XOR, the raw pair U = (X₁, X₂) gives error 50% on Q_A = X₁ ⊕ X₂ and 0% on Q_B = X₁, and the compressed V = X₁ ⊕ X₂ gives 0% and 50%; a legibility regime can enable one perspective''s distinction while disabling another''s, with no task-independent sense in which it is better'
+title: 'One representation, two tasks, one observer'
+statement: >-
+  One representation, two tasks, one bounded observer: with X₁, X₂
+  independent fair bits and an observer that reads one coordinate and cannot
+  compute XOR, the raw pair U = (X₁, X₂) gives error 50% on Q_A = X₁ ⊕ X₂
+  and 0% on Q_B = X₁, and the compressed V = X₁ ⊕ X₂ gives 0% and 50%; a
+  legibility regime can enable one perspective's distinction while disabling
+  another's, with no task-independent sense in which it is better
 version: 1
 standing: stipulated
 kind: construction
@@ -25,7 +32,7 @@ summary: >-
   legibility regime may be a resource limit and not an exclusion.
 ---
 
-# CASE-154: One representation, two tasks, one bounded observer: with X₁, X₂ independent fair bits and an observer that reads one coordinate and cannot compute XOR, the raw pair U = (X₁, X₂) gives error 50% on Q_A = X₁ ⊕ X₂ and 0% on Q_B = X₁, and the compressed V = X₁ ⊕ X₂ gives 0% and 50%; a legibility regime can enable one perspective's distinction while disabling another's, with no task-independent sense in which it is better
+# CASE-154: One representation, two tasks, one observer
 
 ## The case
 

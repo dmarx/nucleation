@@ -3,7 +3,9 @@ number: 27
 status: Active
 formerly:
 - CASE-tmpsr160
-title: 'Henley translated perfectly in the voice of an academic sociologist'
+title: 'Henley in an academic sociologist''s voice'
+statement: >-
+  Henley translated perfectly in the voice of an academic sociologist
 version: 1
 standing: fictional
 kind: thought-experiment
@@ -21,7 +23,7 @@ summary: >-
   proposition is not sufficient.
 ---
 
-# CASE-027: Henley translated perfectly in the voice of an academic sociologist
+# CASE-027: Henley in an academic sociologist's voice
 
 ## The case
 

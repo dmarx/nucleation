@@ -3,7 +3,13 @@ number: 236
 status: Proposed
 formerly:
 - CASE-tmpbbfq8
-title: 'A chain of n moves and a complete graph on the same n + 1 configurations, every configuration and every move needing one unit of peak capacity and every move spending one unit: every pair is joined at budget 1 in both, while the least cumulative cost from one end to the other is n in the chain and 1 in the complete graph'
+title: 'Chain and complete graph on n + 1 configurations'
+statement: >-
+  A chain of n moves and a complete graph on the same n + 1 configurations,
+  every configuration and every move needing one unit of peak capacity and
+  every move spending one unit: every pair is joined at budget 1 in both,
+  while the least cumulative cost from one end to the other is n in the
+  chain and 1 in the complete graph
 version: 1
 standing: fictional
 kind: construction
@@ -29,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-646 — Proposed; the claim this construction grounds, filed with it -->
 
-# CASE-236: A chain of n moves and a complete graph on the same n + 1 configurations, every configuration and every move needing one unit of peak capacity and every move spending one unit: every pair is joined at budget 1 in both, while the least cumulative cost from one end to the other is n in the chain and 1 in the complete graph
+# CASE-236: Chain and complete graph on n + 1 configurations
 
 ## The case
 

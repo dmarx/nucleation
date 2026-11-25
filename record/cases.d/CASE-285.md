@@ -3,7 +3,13 @@ number: 285
 formerly:
 - CASE-tmpdn372
 status: Proposed
-title: 'A proposed study: two arrangements whose overseer has the same authority and resources differ only in how fast the acting institution can make its actions irreversible, and precommitted limits, automatic suspension and pauses are added in turn, to tell the value of delay from the value of control over when execution is allowed'
+title: 'Oversight against speed of irreversibility'
+statement: >-
+  A proposed study: two arrangements whose overseer has the same authority
+  and resources differ only in how fast the acting institution can make its
+  actions irreversible, and precommitted limits, automatic suspension and
+  pauses are added in turn, to tell the value of delay from the value of
+  control over when execution is allowed
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -40,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 <!-- inactive-ok-file: CLAIM-730 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
-# CASE-285: A proposed study: two arrangements whose overseer has the same authority and resources differ only in how fast the acting institution can make its actions irreversible, and precommitted limits, automatic suspension and pauses are added in turn, to tell the value of delay from the value of control over when execution is allowed
+# CASE-285: Oversight against speed of irreversibility
 
 ## The case
 

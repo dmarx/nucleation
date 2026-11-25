@@ -3,7 +3,15 @@ number: 367
 status: Proposed
 formerly:
 - CASE-tmpw8bs2
-title: 'A simulated engagement laboratory in two worlds, one with genres planted in preferences and one where exposure alone makes the clusters, and five arms: engagement under randomized exposure stayed flat when the inferred classes steered exposure over fixed preferences, rose when they steered it while users and creators adapted, and fell when the same adaptation ran without them; concentration, fit to raw counts and stability rose with use alone and were highest for the exposure-made clusters'
+title: 'Simulated engagement laboratory'
+statement: >-
+  A simulated engagement laboratory in two worlds, one with genres planted
+  in preferences and one where exposure alone makes the clusters, and five
+  arms: engagement under randomized exposure stayed flat when the inferred
+  classes steered exposure over fixed preferences, rose when they steered it
+  while users and creators adapted, and fell when the same adaptation ran
+  without them; concentration, fit to raw counts and stability rose with use
+  alone and were highest for the exposure-made clusters
 version: 1
 history:
 - version: 1
@@ -49,7 +57,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-296 CLAIM-762 THEORY-2054 — Proposed; the case this study runs, the claim it was filed for, and the reading behind degree correction -->
 <!-- inactive-ok-file: CLAIM-954 CLAIM-955 — new; the claims filed from this study -->
 
-# CASE-367: A simulated engagement laboratory in two worlds, one with genres planted in preferences and one where exposure alone makes the clusters, and five arms: engagement under randomized exposure stayed flat when the inferred classes steered exposure over fixed preferences, rose when they steered it while users and creators adapted, and fell when the same adaptation ran without them; concentration, fit to raw counts and stability rose with use alone and were highest for the exposure-made clusters
+# CASE-367: Simulated engagement laboratory
 
 ## The case
 

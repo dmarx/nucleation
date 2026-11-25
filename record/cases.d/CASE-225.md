@@ -3,7 +3,15 @@ number: 225
 status: Proposed
 formerly:
 - CASE-tmpecdgv
-title: 'A forced Stuart–Landau oscillator: a self-sustained and a damped one give the same drive-locked output; an inhibitory control above μ holds the self-sustained one at rest while it still answers the drive with amplitude about F/√((u − μ)² + (Ω − ω)²); withdrawing the drive alone lets the output die, withdrawing drive and control restores the limit cycle of radius √μ, so dependence for timing, dependence for performance and suppression of a latent capacity are three things'
+title: 'Forced Stuart–Landau oscillator'
+statement: >-
+  A forced Stuart–Landau oscillator: a self-sustained and a damped one give
+  the same drive-locked output; an inhibitory control above μ holds the
+  self-sustained one at rest while it still answers the drive with amplitude
+  about F/√((u − μ)² + (Ω − ω)²); withdrawing the drive alone lets the
+  output die, withdrawing drive and control restores the limit cycle of
+  radius √μ, so dependence for timing, dependence for performance and
+  suppression of a latent capacity are three things
 version: 2
 history:
 - version: 2
@@ -39,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2234 — filed from the same exchange, Deferred -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited for its domination clause -->
 
-# CASE-225: A forced Stuart–Landau oscillator: a self-sustained and a damped one give the same drive-locked output; an inhibitory control above μ holds the self-sustained one at rest while it still answers the drive with amplitude about F/√((u − μ)² + (Ω − ω)²); withdrawing the drive alone lets the output die, withdrawing drive and control restores the limit cycle of radius √μ, so dependence for timing, dependence for performance and suppression of a latent capacity are three things
+# CASE-225: Forced Stuart–Landau oscillator
 
 ## The case
 

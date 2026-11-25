@@ -3,7 +3,10 @@ number: 61
 status: Active
 formerly:
 - CASE-tmpa82q4
-title: 'Wonder-working power: one hymn phrase in a national address, heard as faith by those who sing it and as boilerplate by others'
+title: 'Wonder-working power in a national address'
+statement: >-
+  Wonder-working power: one hymn phrase in a national address, heard as
+  faith by those who sing it and as boilerplate by others
 version: 3
 history:
 - version: 2
@@ -48,7 +51,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the thesis the objection is to, the do(S)/do(I) distinction, cited as open -->
 <!-- inactive-ok-file: ARG-014 — Rejected; the verdict that labels written to fit their examples cannot validate the account -->
 
-# CASE-061: Wonder-working power: one hymn phrase in a national address, heard as faith by those who sing it and as boilerplate by others
+# CASE-061: Wonder-working power in a national address
 
 Found on 2026-10-10 by a search the owner asked for: a change of audience
 without translation in which the wording is identical, the condition

@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'Priority inversion on one preemptive processor: a high-priority process blocked on a lock held by a low-priority one misses its deadline under fixed priorities, because a medium-priority process preempts the holder, and meets it under priority inheritance, which moves the delay onto the medium-priority process'
+title: 'Priority inversion on one processor'
+statement: >-
+  Priority inversion on one preemptive processor: a high-priority process
+  blocked on a lock held by a low-priority one misses its deadline under
+  fixed priorities, because a medium-priority process preempts the holder,
+  and meets it under priority inheritance, which moves the delay onto the
+  medium-priority process
 version: 1
 standing: stipulated
 kind: construction
@@ -32,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-tmp2dpcv CLAIM-tmpersgx — Proposed; cited as filed or held beside this entry, whatever its standing -->
 <!-- inactive-ok-file: LIT-tmphhs41 — Deferred; cited as filed or held beside this entry, whatever its standing -->
 
-# CASE-tmptpna1: Priority inversion on one preemptive processor: a high-priority process blocked on a lock held by a low-priority one misses its deadline under fixed priorities, because a medium-priority process preempts the holder, and meets it under priority inheritance, which moves the delay onto the medium-priority process
+# CASE-tmptpna1: Priority inversion on one processor
 
 ## The construction
 
