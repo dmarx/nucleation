@@ -1,7 +1,16 @@
 ---
 status: Proposed
 title: "A work governance-of-becoming is added for the article series the owner asked for at the end of the exchange Memes, Contracts, and Systemic Normativity, with its earlier manuscript as the precursor draft: a claim is a member when the series states the claim's proposition or uses it as a step"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    The owner's ruling of 2026-11-25, "my bad let's do a51", after first
+    keeping A49's order: the series takes A51's order, with the manuscript
+    governance-of-possibility as its Article 2, kept a work of its own.
+    Membership stays as read against A49 until a membership pass re-reads
+    it against A51.
 tags:
 - record
 date: '2026-11-24'
@@ -67,6 +76,13 @@ only. [ADR-104](ADR-104.md) is the membership rule and [ADR-144](ADR-144.md) the
   and fuller draft of the same argument, and its Parts I to III take over
   the manuscript's scope. The owner may separate them, giving the
   manuscript a work of its own.
+- **The order is A51's** (the owner's ruling of 2026-11-25, version 2).
+  A51, ChatGPT's answer to the owner's U32, keeps fourteen articles in five
+  movements but reorders and retitles them. Its Article 2 is the existing
+  manuscript of the work governance-of-possibility, which stays a work of
+  its own: the series includes it as an article, and its members do not
+  become this work's by that. A49's Article 3, "The Cost of Becoming", has
+  no article of its own; its parts go to Articles 2, 3 and 5.
 - **Membership is [ADR-104](ADR-104.md)'s rule, read against A49.** A CLAIM or ARG is in
   the work when A49 states its proposition, in any wording, or uses it as
   a step, in an article's abstract, outline or centre, or in the

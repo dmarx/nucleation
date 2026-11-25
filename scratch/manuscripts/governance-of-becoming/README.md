@@ -449,7 +449,7 @@ three.
 7. Statuses only the owner can change: TERM-124, whose summary records the
    owner's acceptance on 2026-11-13 and whose status is Proposed; LEAD-108,
    Open although CASE-326 reports its run.
-8. *Closed: see below (the owner kept A49's order, 2026-11-25).*
+8. *Closed: see below (the owner took A51's order, 2026-11-25).*
 9. **The three accounts the standing review leaves to the owner**:
    SYNTHESIS-124, SYNTHESIS-111 and SYNTHESIS-106, Current after a review
    of their maps; and SYNTHESIS-tmp4tvbr, Current once its mapping is
@@ -505,7 +505,7 @@ three.
 
 ## Closed since the last list
 
-- **A51's order** (2026-11-25): "keep A49's order; continue with Part II". The series keeps A49's fourteen articles in five parts; governance-of-possibility stays a work of its own, and Part I cites its results where it uses them. A51 stays a motivating draft for what the record has already done (step 3a), not for the order. A51 §6's companion paper, "Inquiry as Infrastructure", is not taken up.
+- **A51's order** (2026-11-25). The owner first said "keep A49's order; continue with Part II", then, on seeing what that meant, "my bad let's do a51". The series takes A51's order (ADR-tmpenzcn version 2): 1 The Identity of Organization; 2 Regulation as the Governance of Possibility, the existing manuscript of the work governance-of-possibility, kept a work of its own; 3 The Contracts We Become; 4 The Architecture of Will; 5 Inquiry Changes the Inquirer; 6 The Organization of Ignorance; 7 to 14 as A49, under A51's titles. The Part I drafts map onto it: 01 is Article 1; 02 is Article 3; 03, "The Cost of Becoming", has no article of its own, and its parts go to Article 3 (the cost model), Article 2 (readiness) and Article 5 (costed frontiers), at the next refresh. A51 §6's companion paper, "Inquiry as Infrastructure", is not taken up.
 - **U4's readings** (#787): "I think both readings are valid. I mainly
   meant 'meme as value'". CLAIM-tmp4mk0t is primary and CLAIM-tmphi3mx
   stands beside it; they are no longer alternatives. The owner's further
