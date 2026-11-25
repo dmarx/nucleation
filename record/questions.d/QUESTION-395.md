@@ -85,14 +85,12 @@ tmpnblsf would sweep it.
 
 ## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
 
-<!-- inactive-ok-block: CLAIM-878 — Proposed; the mechanism by which use moves the break-even -->
 Partial, the weighing half only; the assistant's. A gap of the manuscript governance-of-possibility, §9.6 (GC4). In the manuscript's model a reserve (its regime II against I) pays when p·L > pL*(τ, p, c), the value at which c times the extra capacity held (Δcap ≈ 1.83 at p = 0.02) equals L times the fall in late contingencies per period. At c = 0.1, from the long runs: at τ = 3, 0.579, 0.630, 0.701 and 1.153 for p = 0.005, 0.01, 0.02 and 0.05; at τ = 6, 0.363, 0.394, 0.401 and 0.502; at τ = 12, 0.625, 0.571, 0.565 and 0.689. It is linear in c (at τ = 6 and p = 0.02, 0.200 at c = 0.05 and 0.802 at c = 0.2), U-shaped in the deadline, and moves with p, because under the peak rule a use is a mobilization ([CLAIM-878](../claims.d/CLAIM-878.md)). Values read with python3 -I from scratch/manuscripts/governance-of-possibility/analysis/results.json.
 
 The rule decides only if readiness is known. Computed from readiness under do(c), pL* at τ = 6 is 0.27 to 0.31 where the long runs give 0.36 to 0.50: readiness observed in operation differs from readiness under an imposed contingency, by how often the capability is used. So the weighing against cost has a model answer, and the identification half of this question, which observations tell a warranted reserve from waste, stays open. The note is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.
 
 ## Note of 2026-11-23: the study filed
 
-<!-- inactive-ok-block: CASE-412 — new; the study filed -->
 The study the note above reads its break-even from is now on the record as [CASE-412](../cases.d/CASE-412.md), which bears on this question: it gives pL* by deadline, probability and cost, and shows that readiness observed in operation differs from readiness under an imposed contingency, so the identification half stays open. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
 
 ## Note of 2026-11-23: redundancy and differentiation in a coverage model, from "Explain First Contact RL"

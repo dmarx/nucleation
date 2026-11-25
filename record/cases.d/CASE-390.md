@@ -123,7 +123,7 @@ true positions, which no arm sees. Late is the last 1,000 of 3,000 steps.
   the system did not choose" is met by construction and not tested against
   its contrary.
 
-<!-- inactive-ok-file: CLAIM-1024 CLAIM-1185 ARG-218 — Proposed; filed 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-1024 ARG-218 — Proposed; filed 2026-11-23 -->
 
 ## Note of 2026-11-23: a protected but miscalibrated beacon
 

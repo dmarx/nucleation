@@ -52,7 +52,7 @@ summary: >-
   [CASE-092](CASE-092.md) and [CASE-099](CASE-099.md). At U18 the owner pointed to [CASE-124](CASE-124.md) as the better
   core, and the exchange moved there ([CASE-156](CASE-156.md)). Not run.
 ---
-<!-- inactive-ok-file: CASE-346 CLAIM-924 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date -->
+<!-- inactive-ok-file: CLAIM-924 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date -->
 <!-- inactive-ok-file: THEORY-2016 THEORY-2029 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->

@@ -28,8 +28,6 @@ summary: 'A gap of the manuscript governance-of-possibility, §13.7 (GD8): [CASE
   it is the owner''s call.'
 ---
 
-<!-- inactive-ok-file: CLAIM-1185 — Proposed; what this would test -->
-
 # LEAD-223: Extend the four-mechanism governance model with a protected anchor placed by a party with interests in what it reads, and measure how far correction answers to the anchor's placement rather than to the world
 
 ## The idea

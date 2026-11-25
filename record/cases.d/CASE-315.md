@@ -1,16 +1,26 @@
 ---
 number: 315
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpvnozj
 title: 'A readiness simulator run under spend-matching and under carry-over: a heavy rescue squad whose budget is set to the last month''s peak is lost for good in every run within months where it is sent only on confirmation, in a fifth of runs within nine years where it is sent provisionally to each of six reports a month, and never where it drills each month or the unspent budget rolls over'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant, carrying out LEAD-080. The code,
     tests and outputs are under scratch/studies/lead-080/.
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("promote the
+    ten", under the dialectic regime; ADR-057, status-review README
+    section 2): a CASE goes Active when it is demonstrated, and its run
+    has been checked by a session other than its filer's. Rerun on
+    2026-11-24 from a copy of scratch/studies/lead-080/: sim.py
+    regenerates results.json byte for byte and results.txt unchanged,
+    and the 13 tests of test_sim.py pass (the note of that date).
 standing: documented
 kind: executed-study
 tags:
@@ -49,7 +59,7 @@ summary: >-
   model is the assistant's and its rates are invented. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-200 CLAIM-878 TERM-110 — Proposed or new; CASE-200's carry-over rule is run as filed, the claim is filed with this study, and TERM-110 is cited as CLAIM-577 cites it -->
+<!-- inactive-ok-file: CASE-200 TERM-110 — Proposed or new; CASE-200's carry-over rule is run as filed, the claim is filed with this study, and TERM-110 is cited as CLAIM-577 cites it -->
 
 # CASE-315: A readiness simulator run under spend-matching and under carry-over: a heavy rescue squad whose budget is set to the last month's peak is lost for good in every run within months where it is sent only on confirmation, in a fifth of runs within nine years where it is sent provisionally to each of six reports a month, and never where it drills each month or the unspent budget rolls over
 

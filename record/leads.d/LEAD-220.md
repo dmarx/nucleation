@@ -30,7 +30,7 @@ summary: Proposed by the assistant on 2026-11-23 to test the owner's principle
   it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-1024 CLAIM-1185 — Proposed or Open; cited in this filing of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-1024 — Proposed or Open; cited in this filing of 2026-11-23 -->
 
 # LEAD-220: Build one model that hosts the four mechanisms of the governance leads together, evidence from outside the proposals, protection of that evidence from revision and refusal, a return channel from evaluated to evaluator, and scoring apart from agreement, and test whether each is a separate requirement for self-correction or whether one entails the others; add a miscalibrated protected anchor and a slower survey of it
 

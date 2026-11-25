@@ -39,7 +39,7 @@ summary: >-
   exchange "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: TERM-164 CASE-412 — Proposed; the claim this complements, the lock-in it extends and the experiment it restates -->
+<!-- inactive-ok-file: TERM-164 — Proposed; the claim this complements, the lock-in it extends and the experiment it restates -->
 
 # CLAIM-1054: Repeated questioning from a routine family can set a query-induced capability trap: of two ecosystems equivalent under the routine queries, the one that optimized away capacities only an unasked query needs is rewarded, its success confirms the questioner's belief that the routine family suffices, and the two strategies co-adapt to exclude the distinction that would reveal the lost capacity
 

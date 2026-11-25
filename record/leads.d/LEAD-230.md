@@ -30,7 +30,7 @@ summary: 'A gap of the manuscript governance-of-possibility, §9.10 (GC7): its m
   (Claude, in this session); adopting it is the owner''s call.'
 ---
 
-<!-- inactive-ok-file: CLAIM-646 CLAIM-878 — Proposed; what this would test -->
+<!-- inactive-ok-file: CLAIM-646 — Proposed; what this would test -->
 
 # LEAD-230: Extend the readiness simulator to two capacity resources, a cumulative cost of transition and several contingencies with different deadlines, and test whether readiness stays a step function of the reserve, whether a drill still holds the budget as a reserve does, and how the ranking of reserve against redesign changes
 

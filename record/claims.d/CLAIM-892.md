@@ -1,10 +1,10 @@
 ---
 number: 892
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpn0u3a
 title: 'Erosion of the skill a store replaces costs, per demand, the skill''s price times the chance that the demand falls back on it plus the share of the skill that checking the stored result repeats: it weighs little where demand is predictable, the store rarely wrong and checking cheap, as with a cockpit''s speed bugs, and most where reuse cannot be forecast or checking re-derives, as with a filed argument'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -12,6 +12,17 @@ history:
     Filed 2026-11-22 by the assistant, carrying out LEAD-108; derived in
     the model of CASE-326 and checked by a test in
     scratch/studies/lead-108/test_costmodel.py.
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("promote the
+    ten", under the dialectic regime; ADR-057): it has no premise, no
+    objection targets it, and nothing meets its defeated_if. The
+    derivation in CASE-326's model is checked by
+    test_erosion_weight_is_chance_of_fallback_plus_checking_share in
+    scratch/studies/lead-108/test_costmodel.py, whose 7 tests were rerun
+    on 2026-11-24 by a session other than the filer's and pass (again in
+    this pass). CASE-326 is promoted in the same pass.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -47,7 +58,7 @@ summary: >-
   erosion term matters. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-326 CLAIM-891 — new; filed in this run of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-891 — new; filed in this run of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-343 — Proposed; the reading that names the term, cited as such -->
 
 # CLAIM-892: Erosion of the skill a store replaces costs, per demand, the skill's price times the chance that the demand falls back on it plus the share of the skill that checking the stored result repeats: it weighs little where demand is predictable, the store rarely wrong and checking cheap, as with a cockpit's speed bugs, and most where reuse cannot be forecast or checking re-derives, as with a filed argument

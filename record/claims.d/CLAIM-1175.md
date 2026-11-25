@@ -64,7 +64,7 @@ summary: >-
   the formulation ([CLAIM-999](CLAIM-999.md)). The wording is A's (ChatGPT, in the
   exchange of 2026-11-22); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-1044 CLAIM-1174 TERM-165 — new; the conjecture this revises, the partition claim, the correction, the technical reading of the owner's U6 and the term, filed in the same batch of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-1044 CLAIM-1174 — new; the conjecture this revises, the partition claim, the correction, the technical reading of the owner's U6 and the term, filed in the same batch of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-052 CLAIM-417 CLAIM-820 CLAIM-861 CLAIM-835 CLAIM-281 TERM-138 — Proposed; entries A15's steps map to, cited 2026-11-22 -->
 
 # CLAIM-1175: A self is a historically developing organization of overlapping dispositions and perspectival relations whose observable differentiation depends on the available tests, but whose unity, if it has one, must be established through the causal processes that coordinate, maintain and transform those dispositions; its perspectives need not be independently individuated constituents and can admit several equally adequate factorizations, and the self can acquire new distinctions and channels through their interaction, changing the structure in which later perspectives become possible

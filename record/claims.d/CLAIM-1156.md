@@ -3,8 +3,27 @@ number: 1156
 status: Proposed
 formerly:
 - CLAIM-tmpq1usu
-title: "Two organizations that give the same answers can differ in what answering does to them, so a response kernel that includes the organization's state after answering separates what an answer benchmark treats as equivalent, such as one that learns from disagreement and one that suppresses it"
-version: 1
+title: 'Two organizations that give the same answers can differ in what answering does to them, so a response kernel that includes the organization''s state after answering, observed through its later responses rather than compared as a state, separates what an answer benchmark treats as equivalent, such as one that learns from disagreement and one that suppresses it'
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Revised to concede CLAIM-1095 (ADR-059), at the owner's word of
+    2026-11-24 ("handle the fixes for the twelve ... use your best
+    judgement", under the dialectic regime), when CLAIM-1095 went Active
+    at the status pass of that date: compared directly as a state, the
+    post-state separates organizations no test could tell apart, so the
+    kernel is observational only when S′ is observed through its later
+    responses, as the bisimulation metric (THEORY-247) does; that keeps
+    the separation of a learning and a suppressing organization. The
+    title now says so. Old title: "Two organizations that give the same
+    answers can differ in what answering does to them, so a response
+    kernel that includes the organization's state after answering
+    separates what an answer benchmark treats as equivalent, such as one
+    that learns from disagreement and one that suppresses it". The
+    Standing section says the same. No status change: the claim is A's
+    and interpretive, and its ruling is left to the next status review.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,9 +56,9 @@ summary: >-
   exchange "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-1054 CLAIM-1095 TERM-165 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
+<!-- inactive-ok-file: CLAIM-1054 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
-# CLAIM-1156: Two organizations that give the same answers can differ in what answering does to them, so a response kernel that includes the organization's state after answering separates what an answer benchmark treats as equivalent, such as one that learns from disagreement and one that suppresses it
+# CLAIM-1156: Two organizations that give the same answers can differ in what answering does to them, so a response kernel that includes the organization's state after answering, observed through its later responses rather than compared as a state, separates what an answer benchmark treats as equivalent, such as one that learns from disagreement and one that suppresses it
 
 ## The claim
 
@@ -55,7 +74,7 @@ The record's dispositional address ([TERM-165](../terms.d/TERM-165.md)) is the m
 
 ## Standing
 
-Proposed, in A's voice. [CLAIM-1095](CLAIM-1095.md) objects to the formal step, not the thesis: compared directly, the post-state separates organizations no test could tell apart, so d_𝒬 is not observational as A64b intends; observing S′ through its later responses repairs it and keeps the separation the thesis needs.
+Proposed, in A's voice, revised on 2026-11-24 to concede [CLAIM-1095](CLAIM-1095.md), which objects to the formal step, not the thesis: compared directly, the post-state separates organizations no test could tell apart, so d_𝒬 is not observational as A64b intends; observing S′ through its later responses repairs it and keeps the separation the thesis needs.
 
 <!-- inactive-ok-file: CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
 

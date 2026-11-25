@@ -1,10 +1,10 @@
 ---
 number: 401
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpd80em
 title: 'Two of the built meaning–influence institutions, an evaluator and an evaluated party, coupled through the evidence and resources the party supplies and the standing the evaluator''s reading confers: with each institution stable alone, the symmetric state of the pair is unstable exactly when (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, and the loop between them captures the evaluator''s reading even when its own conferral is independent of its interpretation'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -12,6 +12,17 @@ history:
     Filed 2026-11-22 by the assistant, carrying out LEAD-015. The code,
     tests and result files are committed beside it under
     scratch/studies/lead-015/.
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("promote the
+    ten", under the dialectic regime; ADR-057, status-review README
+    section 2): a CASE goes Active when it is demonstrated, and its run
+    has been checked by a session other than its filer's. Rerun on
+    2026-11-24 from a copy of scratch/studies/lead-015/ (with
+    ../lead-090/): the 14 tests pass, and run.py regenerates every file
+    in results/ identically except the seconds timings in e4.json (the
+    note of that date).
 standing: documented
 kind: executed-study
 tags:
@@ -45,7 +56,7 @@ summary: >-
   construction; the numbers are of this model. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-1000 CLAIM-1202 CLAIM-1021 — new; the claims this study grounds, filed in the same batch -->
+<!-- inactive-ok-file: CLAIM-1021 — new; the claims this study grounds, filed in the same batch -->
 
 # CASE-401: Two of the built meaning–influence institutions, an evaluator and an evaluated party, coupled through the evidence and resources the party supplies and the standing the evaluator's reading confers: with each institution stable alone, the symmetric state of the pair is unstable exactly when (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, and the loop between them captures the evaluator's reading even when its own conferral is independent of its interpretation
 

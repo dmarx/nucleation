@@ -43,7 +43,7 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-1114 CLAIM-1157 CLAIM-1004 TERM-167 CLAIM-1115 CLAIM-1190 TERM-159 TERM-160 — Proposed; the construction this rests on, A's claim, the owner's conjecture, the viability kernel, and the joint relation and terms filed beside it -->
+<!-- inactive-ok-file: CLAIM-1114 CLAIM-1157 CLAIM-1004 TERM-167 TERM-159 TERM-160 — Proposed; the construction this rests on, A's claim, the owner's conjecture, the viability kernel, and the joint relation and terms filed beside it -->
 
 # CLAIM-1025: The questions an organization can both pose and answer by a deadline lie between an inner bound, those whose posing and answering fit the horizon and budget run one after the other, and an outer bound, those each of whose processes fits alone, and where between them depends on precedence and sharing that neither frontier records, so two organizations with the same query and answer frontiers can differ in what they can jointly do
 

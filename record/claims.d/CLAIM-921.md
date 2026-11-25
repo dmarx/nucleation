@@ -1,10 +1,10 @@
 ---
 number: 921
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp9mpn0
-title: 'Where competence decays without funded maintenance and a capability is committed only when competent enough, a budget that follows observed use has a state in which the capability is never used or funded again whenever the base budget alone sustains competence below that level, any stretch without occasions long enough for competence to decay there reaches it whatever each use was paid, so at the same expected funding a rarer capability is lost sooner, while maintenance funded apart from use, at a level that sustains the threshold, has no such state'
-version: 3
+title: 'Where competence decays without funded maintenance and a capability is committed only when competent enough, a budget that follows observed use has a state in which the capability is never used or funded again whenever the base budget alone sustains competence below that level, any stretch without occasions long enough for competence to decay there reaches it whatever each use was paid, so at the same expected funding the chance of loss within a given time has a lower bound that rises as occasions grow rarer and does not depend on the payment per use, while maintenance funded apart from use, at a level that sustains the threshold, has no such state'
+version: 5
 history:
 - version: 1
   date: '2026-11-22'
@@ -24,6 +24,39 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 3 §5; Article 10 table (ADR-tmpenzcn).
     No change of title or status.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Title narrowed at the owner's word of 2026-11-24 ("handle the fixes
+    for the twelve ... use your best judgement", under the dialectic
+    regime; ADR-057, ADR-047's narrowing rule), as A53 of the exchange
+    'Memes, Contracts, and Systemic Normativity' asked: the body derives
+    a lower bound on the chance of loss that rises with rarity (step 2,
+    "a lower bound, loose there"), while the title stated an ordering,
+    "so at the same expected funding a rarer capability is lost sooner".
+    The title now says what is derived. The dropped ordering is the
+    record's own extrapolation, observed in CASE-343 but not derived, so
+    it is filed as the Proposed interpretive claim CLAIM-tmpc3ndh,
+    resting on this one (status-review README, narrowing kind 2). Old
+    title: "Where competence decays without funded maintenance and a
+    capability is committed only when competent enough, a budget that
+    follows observed use has a state in which the capability is never
+    used or funded again whenever the base budget alone sustains
+    competence below that level, any stretch without occasions long
+    enough for competence to decay there reaches it whatever each use
+    was paid, so at the same expected funding a rarer capability is lost
+    sooner, while maintenance funded apart from use, at a level that
+    sustains the threshold, has no such state".
+- version: 5
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the same word (ADR-057): it has no premise,
+    its ground CASE-343 is promoted in this pass (rerun 2026-11-24 by a
+    session other than the filer's from scratch: results.jsonl byte for
+    byte, results.txt unchanged, 17 tests pass, including the bound of
+    step 2), no objection targets it, nothing meets its defeated_if, and
+    steps 1 to 5 were re-derived in this pass; the narrowed title claims
+    no more than they show.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -77,9 +110,8 @@ works:
 - governance-of-possibility
 - governance-of-becoming
 ---
-<!-- inactive-ok-file: CASE-343 CLAIM-878 — new or Proposed; the study this claim is drawn from, filed with it, and LEAD-080's corollary -->
 
-# CLAIM-921: Where competence decays without funded maintenance and a capability is committed only when competent enough, a budget that follows observed use has a state in which the capability is never used or funded again whenever the base budget alone sustains competence below that level, any stretch without occasions long enough for competence to decay there reaches it whatever each use was paid, so at the same expected funding a rarer capability is lost sooner, while maintenance funded apart from use, at a level that sustains the threshold, has no such state
+# CLAIM-921: Where competence decays without funded maintenance and a capability is committed only when competent enough, a budget that follows observed use has a state in which the capability is never used or funded again whenever the base budget alone sustains competence below that level, any stretch without occasions long enough for competence to decay there reaches it whatever each use was paid, so at the same expected funding the chance of loss within a given time has a lower bound that rises as occasions grow rarer and does not depend on the payment per use, while maintenance funded apart from use, at a level that sustains the threshold, has no such state
 
 ## The claim
 

@@ -22,7 +22,7 @@ summary: >-
   A30's answers are [CLAIM-tmpsf9hp](../claims.d/CLAIM-tmpsf9hp.md) and [CLAIM-tmp80ny9](../claims.d/CLAIM-tmp80ny9.md), with
   [CLAIM-tmpro73c](../claims.d/CLAIM-tmpro73c.md). Filed in the owner's voice.
 ---
-<!-- inactive-ok-file: ARG-tmpa5ped CASE-326 CLAIM-044 CLAIM-151 CLAIM-201 CLAIM-430 CLAIM-728 CLAIM-891 CLAIM-892 CLAIM-tmp80ny9 CLAIM-tmpro73c CLAIM-tmpsf9hp TERM-116 TERM-165 — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
+<!-- inactive-ok-file: ARG-tmpa5ped CLAIM-044 CLAIM-151 CLAIM-201 CLAIM-430 CLAIM-728 CLAIM-891 CLAIM-tmp80ny9 CLAIM-tmpro73c CLAIM-tmpsf9hp TERM-116 — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
 
 # QUESTION-tmpb7fx7: Do contract formation, persistence and modification need terms of their own in the record's cost model of stored work, or are they already there under other names, ambiguous invocation of a relationship among them?
 

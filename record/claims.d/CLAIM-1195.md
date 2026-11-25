@@ -35,7 +35,7 @@ summary: >-
   threshold, each checked with python3 -I. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-1148 CLAIM-921 CASE-386 — Proposed; the claim whose gap this fills, the budget rule and the case read against it -->
+<!-- inactive-ok-file: CLAIM-1148 CASE-386 — Proposed; the claim whose gap this fills, the budget rule and the case read against it -->
 
 # CLAIM-1195: In a linear model of maintained nuclei, holding a nucleus at a usable level costs its decay rate times that level over the efficiency of investment whether or not it is used, so the budget bounds how many can be held ready and restored funding always restores a nucleus; a threshold below which a funded nucleus is still lost appears only when building capability needs capability already present
 

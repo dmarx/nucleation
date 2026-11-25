@@ -27,7 +27,7 @@ summary: >-
   not modified the repository or run a new experiment." The design is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-326 CLAIM-tmp80ny9 CLAIM-tmpsf9hp — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-tmp80ny9 CLAIM-tmpsf9hp — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
 
 # LEAD-tmp14n26: Extend the stored-work cost model with a store that its own use updates, and test whether contract invocation needs new cost terms or only a richer state
 

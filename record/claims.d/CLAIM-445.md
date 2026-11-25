@@ -103,7 +103,7 @@ summary: >-
 works:
 - governance-of-possibility
 ---
-<!-- inactive-ok-file: CASE-346 CLAIM-924 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date -->
+<!-- inactive-ok-file: CLAIM-924 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed or new; the premise and LEAD-047's readings of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-677 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->

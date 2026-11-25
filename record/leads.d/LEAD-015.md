@@ -28,7 +28,7 @@ summary: >-
   been built. Named in [CLAIM-404](../claims.d/CLAIM-404.md). Filed by the backlog audit of
   2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-401 CLAIM-1000 CLAIM-1202 CLAIM-1021 — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
+<!-- inactive-ok-file: CLAIM-1021 — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-015: Derive the two-institution version of the symmetry-breaking condition, building the coupled meaning-influence model for two regulators
