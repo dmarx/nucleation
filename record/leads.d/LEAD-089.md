@@ -1,10 +1,24 @@
 ---
 number: 89
-status: Open
+status: Done
 formerly:
 - LEAD-tmpffmfr
 title: 'Model Northstar with control and metacontrol mechanisms alone and then with a will-organization over them, price the difference, and set planning, control and institutional theory beside the account'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Done, at the owner's word of 2026-11-25 ("go ahead with the
+    reruns"), whose brief took in closing the leads whose runs are
+    recorded, as housekeeping and not a change of credence. What it would do was
+    done on 2026-11-22: Northstar modelled both ways and the difference
+    priced in CASE-325, with CLAIM-889 and CLAIM-890 setting the three
+    theories beside it (the note of 2026-11-22). CASE-325 was rerun on
+    2026-11-25 by a session other than the filer's and every figure
+    matches. What that note lists as remaining (a second realizer,
+    LIT-488, QUESTION-041) is beyond this lead's run and would be a
+    lead of its own. The stage is left as it stood.
 stage: idea
 priority: high
 method:

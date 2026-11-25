@@ -90,3 +90,8 @@ With python3 -I, p(k) = 1 − e^(−k), t(k) = k, and grid search over k.
 - Not that the bimodal case is typical. It shows that the rule that more time
   warrants deeper inquiry needs a condition on the target's response dynamics, which is
   the part of A52's sentence the model had not used.
+
+## Note of 2026-11-25: rerun, and what holds it back
+
+<!-- inactive-ok-block: CLAIM-1157 CLAIM-1114 — Proposed; the premises that hold CLAIM-1008 back -->
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, at the owner's word ("go ahead with the reruns"; the owner delegated on 2026-11-24 the promotion of demonstrated claims independently recomputed). The filer's script was not kept, so the check was rebuilt from this entry alone as `scratch/formal/inquiry_depth_check.py`, with a negative control, and run with python3 -I. Every computation reproduces. Under the normal F, k* is 0.77, 1.27, 1.90, 3.35, 4.93 and 8.25 at H = 4, 5, 6, 8, 10 and 14; (log F)″ is negative over h in [0, 14), and k* never falls over H from 2 to 14 in steps of 0.05. Under the mixture, k* is 5.02 at H = 7.0 (P = 0.496), 0.90 at H = 7.05 (P = 0.502), 1.20 at 7.5 and 1.58 at 8; it rises over H from 6 to 7, first drops at H = 7.035 (the entry's "about 7.04"), and (log F)″ is positive on part of (2, 7), where the cross-partial changes sign. The normal F is the control for the mixture: the same search finds no fall. What holds it back: ADR-057's first criterion. Its one premise, CLAIM-1008, is Proposed (rerun today and reproduced, but held by CLAIM-1157 and that by CLAIM-1114). It goes Active after CLAIM-1008. The note is the assistant's (Claude, in this session). No status change.
