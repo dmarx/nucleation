@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'Registered 2026-11-25 from the audit of what was left out by the manuscript governance-of-becoming (B27), for LEAD-tmple60r; not sought or read.'
+status_note: 'Registered 2026-11-25 from the audit of what was left out by the manuscript governance-of-becoming (B27), for [LEAD-tmple60r](../leads.d/LEAD-tmple60r.md); not sought or read.'
 title: 'Transaction-Cost Economics: The Governance of Contractual Relations'
 version: 1
 history:
@@ -30,10 +30,10 @@ summary: >-
   Oliver E. Williamson (1979), The Journal of Law and Economics
   22(2):233–261. Williamson's matching of governance structures to
   transactions by frequency, uncertainty and asset specificity.
-  LEAD-tmple60r names "Williamson on transaction-cost economics and
+  [LEAD-tmple60r](../leads.d/LEAD-tmple60r.md) names "Williamson on transaction-cost economics and
   asset specificity" for Article 3's comparison (G3.3); it is also the
-  standard source beside Klein, Crawford and Alchian (LIT-tmpgcwyt) for
-  the hold-up route CLAIM-670 relays. What the work says is unverified
+  standard source beside Klein, Crawford and Alchian ([LIT-tmpgcwyt](LIT-tmpgcwyt.md)) for
+  the hold-up route [CLAIM-670](../claims.d/CLAIM-670.md) relays. What the work says is unverified
   until read; reading it is a delegated reading, the owner's call (the
   audit, C10).
 ---
@@ -50,5 +50,5 @@ Oliver E. Williamson (1979), The Journal of Law and Economics 22(2):233–261.
 
 ## Standing in the record
 
-Registered Deferred for LEAD-tmple60r, which names it in its reading list.
+Registered Deferred for [LEAD-tmple60r](../leads.d/LEAD-tmple60r.md), which names it in its reading list.
 What any source says of it is unverified until read.

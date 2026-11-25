@@ -388,23 +388,23 @@ Four readings bear on the question (each THEORY bears on it):
   kind of transition is not named.
 
 ## Note of 2026-11-25: equivalence classes and character, from the manuscript governance-of-becoming, Article 1
-<!-- inactive-ok-file: CLAIM-762 SYNTHESIS-068 CLAIM-478 — not in force; cited in the note of 2026-11-25 with their standing -->
+<!-- inactive-ok-file: CLAIM-762 SYNTHESIS-068 — not in force; cited in the note of 2026-11-25 with their standing -->
 
 The manuscript's Article 1 (G1.4) finds that this question's first clause
 has no answer for a form the record individuates by equivalence, and that
 two entries about equivalence classes are not tied (the audit of what was left out (2026-11-25), B15):
 
-- CLAIM-762 (the owner's, Proposed): "Collapsing differences that do not
+- [CLAIM-762](../claims.d/CLAIM-762.md) (the owner's, Proposed): "Collapsing differences that do not
   matter into equivalence classes is how those classes come to be reified
   as new distinctions", substantive "only where the classes are closed
   under the system's own operations and are reused". Its note of
   2026-11-20 gives the collapse a mechanism in one model, fast mixing
   within blocks of a chain whose rates are separated.
-- Character as a classifier of kinds (TERM-041, Active; SYNTHESIS-068: "a
+- Character as a classifier of kinds ([TERM-041](../terms.d/TERM-041.md), Active; [SYNTHESIS-068](../syntheses.d/SYNTHESIS-068.md): "a
   character or other invariant classifies kinds only up to isomorphism and
   only once a symmetry is anchored on the situation").
 
-A tie, not asserted. CLAIM-762 gives a route by which a distinction comes
+A tie, not asserted. [CLAIM-762](../claims.d/CLAIM-762.md) gives a route by which a distinction comes
 into being that is none of this question's four transitions (instability,
 nucleation across a barrier, bifurcation, tipping): a quotient that
 becomes closed under the system's operations and reused. Its mechanism in
@@ -415,6 +415,6 @@ coarse-graining at a separated scale, belongs beside them. A character
 then classifies the kinds such a quotient yields only up to isomorphism,
 so it can tell that a distinction is present but not date when it came
 into being, which is this question's second and third clauses. Whether
-CLAIM-762's route is a fifth kind or one of the four seen at another scale
-(CLAIM-478) is open. Filed as a note, not a claim: it adds a candidate to
+[CLAIM-762](../claims.d/CLAIM-762.md)'s route is a fifth kind or one of the four seen at another scale
+([CLAIM-478](../claims.d/CLAIM-478.md)) is open. Filed as a note, not a claim: it adds a candidate to
 the question's list and no inference. No change of status. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

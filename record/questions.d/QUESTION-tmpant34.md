@@ -13,13 +13,13 @@ line:
 - realizability
 summary: >-
   From the manuscript governance-of-becoming, Article 5's G5.2 (§5.5.4;
-  the audit of what was left out, 2026-11-25, B8). CLAIM-1016 prices
-  authorization as a cost on the shared budget; TERM-114's note of
+  the audit of what was left out, 2026-11-25, B8). [CLAIM-1016](../claims.d/CLAIM-1016.md) prices
+  authorization as a cost on the shared budget; [TERM-114](../terms.d/TERM-114.md)'s note of
   2026-11-17 adds Θ, "whose changes of architecture are authorized, as
   distinct from which are feasible and at what cost", as a condition.
-  LEAD-tmpeo8wq's step 2 combines them ("holding or able to obtain the
+  [LEAD-tmpeo8wq](../leads.d/LEAD-tmpeo8wq.md)'s step 2 combines them ("holding or able to obtain the
   grant"). Whether obtaining the grant is itself a transition in
-  TERM-114's sense is not asked. The wording is the assistant's (Claude,
+  [TERM-114](../terms.d/TERM-114.md)'s sense is not asked. The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-1016 CLAIM-tmp5ld2o — Proposed; cited in prose with their standing, whatever it is -->
@@ -31,10 +31,10 @@ summary: >-
 Two readings of authorization are on the record, each sound for its
 purpose (Article 5 §5.5.4):
 
-- **A cost.** CLAIM-1016: "authorization's cost belongs in the joint
+- **A cost.** [CLAIM-1016](../claims.d/CLAIM-1016.md): "authorization's cost belongs in the joint
   inquiry relation as a third cost on the shared budget", paid per
   question or once for a domain.
-- **A condition.** TERM-114 (Active) gives costed changes of architecture
+- **A condition.** [TERM-114](../terms.d/TERM-114.md) (Active) gives costed changes of architecture
   and the observations available, with reachability indexed by a budget;
   its note of 2026-11-17 proposes Θ, whose changes are authorized, and
   leaves adding it to the owner. Under Θ a grant one lacks is a bar, not a
@@ -48,11 +48,11 @@ a transition is reachable under Θ when the transition *to holding the
 grant* is reachable at the budget, and its cost and peak add to the
 transition it authorizes. If it is not, because a grant can be had at no
 cost by some actors and not at any cost by others, then Θ is a separate
-component, as TERM-114's note proposes, and the two readings stay two.
+component, as [TERM-114](../terms.d/TERM-114.md)'s note proposes, and the two readings stay two.
 
 ## What would count as an answer
 
-- **Yes**: a construction in TERM-114's frame in which acquiring a grant
+- **Yes**: a construction in [TERM-114](../terms.d/TERM-114.md)'s frame in which acquiring a grant
   has a cost, a peak and a failure probability, and the reachable set
   under Θ equals the reachable set of the composed transition.
 - **No**: a case in which a grant is not reachable at any budget by one
@@ -61,7 +61,7 @@ component, as TERM-114's note proposes, and the two readings stay two.
 - **In part**: some grants are transitions (applications, approvals) and
   some are not (standing, role); then the question becomes which.
 
-CLAIM-tmp5ld2o's model of the circle between evidence and permission is a
+[CLAIM-tmp5ld2o](../claims.d/CLAIM-tmp5ld2o.md)'s model of the circle between evidence and permission is a
 case of the first kind: its standing grant and its per-question review
 are both priced as probabilities of leaving a state.
 

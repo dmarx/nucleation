@@ -94,20 +94,20 @@ The refresh of Article 3 (§3.10, search by mechanism of 2026-11-25) finds
 two executed studies that bear on this lead and that its notes do not name
 (the audit of what was left out (2026-11-25), B19):
 
-- **CASE-325** (Active, rerun on 2026-11-25 by a session other than the
+- **[CASE-325](../cases.d/CASE-325.md)** (Active, rerun on 2026-11-25 by a session other than the
   filer's) does this lead's work in part. It is the record's comparative
   test of relational structure against control-only models, and its
-  relations (TERM-017's precedence, jurisdiction and suspension, with
+  relations ([TERM-017](../terms.d/TERM-017.md)'s precedence, jurisdiction and suspension, with
   override) are those the contract schema's J, Π and Σ share. It is done
   for authority in a stipulated organization, with a stated negative
   result where authority is idle or idiosyncratic, and not for contracts
   or invocation, and it does not build the four systems.
-- **CASE-161** (Active): its rule-removal and pulse interventions change a
+- **[CASE-161](../cases.d/CASE-161.md)** (Active): its rule-removal and pulse interventions change a
   governing rule while keeping the processes, which is the shape of the
-  change-of-terms probe (CLAIM-tmp7hqtl's note: "change the terms, keep
+  change-of-terms probe ([CLAIM-tmp7hqtl](../claims.d/CLAIM-tmp7hqtl.md)'s note: "change the terms, keep
   the processes, and see whether behaviour follows the terms"). They test
   what restores the rule, not whether behaviour follows changed terms, so
-  the probe is not done; CASE-161's design is the nearest held one, and
+  the probe is not done; [CASE-161](../cases.d/CASE-161.md)'s design is the nearest held one, and
   the probe's arm here can be built on it.
 
 No change of status or stage. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

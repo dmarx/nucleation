@@ -97,7 +97,7 @@ withdrawal of circulation after formation is the knockout that tells which.
 A tension the digest of Article 7's sources (d7) found, with no relation
 on the record (the audit of what was left out (2026-11-25), B25). This claim tells the two outcomes apart "by
 withdrawing the circulation once the realization has formed".
-CLAIM-tmpnws9d (Active, demonstrated), its gap fill, says that in the
+[CLAIM-tmpnws9d](CLAIM-tmpnws9d.md) (Active, demonstrated), its gap fill, says that in the
 salience–realization model a realization outlasts its representation
 "only if the realized organization has a self-maintaining loop of its own
 strong enough to have a second stable state, and the realization crossed
@@ -108,7 +108,7 @@ a bistable realization, a withdrawal before the threshold is crossed
 collapses it, though a later withdrawal would not have, and the collapse
 reads as dependence on circulation. The two outcomes are then not fixed
 properties of the realization but of its joint state at withdrawal.
-CLAIM-953 (Proposed, demonstrated, from CASE-365) says the same of a
+[CLAIM-953](CLAIM-953.md) (Proposed, demonstrated, from [CASE-365](../cases.d/CASE-365.md)) says the same of a
 nucleus that makes its own teacher: the safe withdrawal is the crossing of
 a threshold in the joint state, which "neither the number of nuclei formed
 nor the share of the constraint they make marks". A withdrawal test of

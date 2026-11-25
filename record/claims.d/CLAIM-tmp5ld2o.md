@@ -22,14 +22,14 @@ line:
 - distributed-agency
 - learning-and-inquiry
 summary: >-
-  The assistant's gap fill (ADR-137) for the manuscript
+  The assistant's gap fill ([ADR-137](../decisions.d/ADR-137.md)) for the manuscript
   governance-of-becoming, Article 5's G5.3 (the audit of what was left
   out, 2026-11-25, B9): "No model of the circle between evidence and
-  permission: no seed evidence, and no absorbing state." CLAIM-1140 (A56
-  §5) argues the circle and CLAIM-1016 says how remedies break it, by
+  permission: no seed evidence, and no absorbing state." [CLAIM-1140](CLAIM-1140.md) (A56
+  §5) argues the circle and [CLAIM-1016](CLAIM-1016.md) says how remedies break it, by
   changing the unit of authorization; neither models it. This is the
   smallest model that does, checked with python3 -I. It adds a second
-  route CLAIM-1016 does not name: evidence produced outside the circle.
+  route [CLAIM-1016](CLAIM-1016.md) does not name: evidence produced outside the circle.
   The wording is the assistant's (Claude, in this session); adopting it
   is the owner's call.
 ---
@@ -47,15 +47,15 @@ evidence this period, and whether it holds permission to investigate.
   Question-by-question authorization, the form A56 §3 states, is g = 0.
 - **Evidence is produced only under permission**: next period e = 1 with
   probability b if p = 1, and with probability s if p = 0. With s = 0,
-  evidence needs the permission it is meant to justify (CLAIM-1140).
+  evidence needs the permission it is meant to justify ([CLAIM-1140](CLAIM-1140.md)).
 
 g is a **standing grant**: permission not conditioned on this question's
-evidence, paid once for a domain (CLAIM-1016's change of the unit of
+evidence, paid once for a domain ([CLAIM-1016](CLAIM-1016.md)'s change of the unit of
 authorization: exploratory budgets, protected time, staged approval). s is
 **seed evidence**: evidence produced without permission, from slack,
 outside work, or a contributor's record elsewhere.
 
-## Admission (ADR-075): a derivation
+## Admission ([ADR-075](../decisions.d/ADR-075.md)): a derivation
 
 1. With g = s = 0, from (0, 0) next period p = 1 with probability g = 0
    and e = 1 with probability s = 0, so (0, 0) goes only to itself: it is
@@ -72,7 +72,7 @@ outside work, or a contributor's record elsewhere.
    is irreducible and the expected stay in (0, 0) is 1/(1 − (1 − g)(1 − s)).
 4. Only a = b = 1 with g = s = 0 keeps a proposal that starts with both;
    then (1, 1) is absorbing as well, and where a proposal ends is fixed by
-   where it started, which is CLAIM-277's trust loop in its sharpest form.
+   where it started, which is [CLAIM-277](CLAIM-277.md)'s trust loop in its sharpest form.
 
 ## The check
 
@@ -104,16 +104,16 @@ def T(M):  # expected periods to reach (0,0)
 
 ## What it adds
 
-- **CLAIM-1140's inference is blocked in the model**: a proposal in (0, 0)
+- **[CLAIM-1140](CLAIM-1140.md)'s inference is blocked in the model**: a proposal in (0, 0)
   fails to persuade whatever its worth, since nothing about the
   possibility behind it enters the chain. Its "failure to persuade does not
   show that the possibility behind it is worthless" holds by construction.
-- **CLAIM-1016's remedies work as it says, by the unit**: g enters only
+- **[CLAIM-1016](CLAIM-1016.md)'s remedies work as it says, by the unit**: g enters only
   through the rule's form. Raising a, a more lenient reviewer, never
   leaves (0, 0); a standing grant does.
-- **A second route CLAIM-1016 does not name**: s, evidence produced
+- **A second route [CLAIM-1016](CLAIM-1016.md) does not name**: s, evidence produced
   outside the circle. It breaks the circle without any change to
-  authorization. It is also how CLAIM-406's established contributors
+  authorization. It is also how [CLAIM-406](CLAIM-406.md)'s established contributors
   escape: their evidence comes from elsewhere, so the loop that holds a
   newcomer at (0, 0) never holds them.
 
@@ -121,9 +121,9 @@ def T(M):  # expected periods to reach (0,0)
 
 - Nothing about how large g or s must be, or what they cost: a standing
   grant has "initial establishment and continuing maintenance" costs (A18,
-  in CLAIM-1016's note of 2026-11-24) not in the model.
+  in [CLAIM-1016](CLAIM-1016.md)'s note of 2026-11-24) not in the model.
 - Nothing about a proposal's value: there is no hidden worth, so the
-  model cannot say which proposals the circle loses. CASE-388's proposed
+  model cannot say which proposals the circle loses. [CASE-388](../cases.d/CASE-388.md)'s proposed
   study, with a hidden true value, would.
 - The lag structure (each of e and p set from the other's last value) is
   the simplest closing of the circle; with evidence that persists between
