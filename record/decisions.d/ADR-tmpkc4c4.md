@@ -1,5 +1,5 @@
 ---
-status: Proposed
+status: Active
 title: 'Titles are addresses; statements hold the assertion'
 version: 1
 tags:
