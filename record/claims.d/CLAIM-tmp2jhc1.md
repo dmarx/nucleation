@@ -142,12 +142,12 @@ claim's 'changes the terms others offer' runs in both directions"
 overstates what is new. This claim's own body already holds the reverse:
 "A24 §4's model shows the reverse", specialization lowering B's
 independent capacity and moving the split to 14.75 to 11.25 in A's
-favour, as comparative statics. What CLAIM-tmp6nzs1 adds is that
+favour, as comparative statics. What [CLAIM-tmp6nzs1](CLAIM-tmp6nzs1.md) adds is that
 reverse in time, with a deadline: the fallback decays under the
 arrangement's own supply, the terms fall at each renegotiation, and
-ending the supply restores them only before CLAIM-605's deadline. Read
+ending the supply restores them only before [CLAIM-605](CLAIM-605.md)'s deadline. Read
 the sentence as "the A24 §4 reverse, now in time, with a deadline".
-Since this note, CLAIM-tmp6nzs1 has been revised (version 2) and
+Since this note, [CLAIM-tmp6nzs1](CLAIM-tmp6nzs1.md) has been revised (version 2) and
 rechecked by the review's reader from separate code. No change of
 status. The wording is the assistant's (Claude, in this session);
 adopting it is the owner's call.

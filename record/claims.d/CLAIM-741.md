@@ -188,17 +188,17 @@ been put to an independent reader under [ADR-075](../decisions.d/ADR-075.md).
 
 **Correction of 2026-11-25 (the review of Part III, Part B).** The
 second bullet above is wrong. The review's independent reader of the
-joins tested J8.1 under ADR-075 and found that it misstates this claim.
-CLAIM-723's defeat is "Foreclosure", T_foreclosure < T_opportunity: the
+joins tested J8.1 under [ADR-075](../decisions.d/ADR-075.md) and found that it misstates this claim.
+[CLAIM-723](CLAIM-723.md)'s defeat is "Foreclosure", T_foreclosure < T_opportunity: the
 act made the standing ineffective "before it could be exercised", which
 is an event in the realized history. Where "the objection would have
 failed", the arrangement that respects the standing and the one that
 defeats it reach the same endpoint by different histories, the objection
-heard and refused in one and foreclosed in the other. ARG-228 is the
+heard and refused in one and foreclosed in the other. [ARG-228](../arguments.d/ARG-228.md) is the
 same: in O₂ "the objection arrives and is filed as a non-incident", which
 is again in the history. That is this claim's *first*
 separation, between endpoint and history, which an evaluation of
-histories can represent (a standard over histories, CLAIM-523's 𝓗_N,
+histories can represent (a standard over histories, [CLAIM-523](CLAIM-523.md)'s 𝓗_N,
 can require that no act be made irreversible before an objection can take
 effect), not its second. The policy level is
 reached only on a history in which no objection is made, where the two
@@ -212,14 +212,14 @@ corrected sentence:
 > is made does the difference lie in policy alone (its second
 > separation).
 
-The third bullet follows it: CLAIM-723's "even where the objection would
+The third bullet follows it: [CLAIM-723](CLAIM-723.md)'s "even where the objection would
 have failed" is what a constraint on histories looks like when the
 endpoint is fixed, and a policy-level constraint only on the history with
-no objection. The link applies this claim to CLAIM-723 and adds no
-inference. SYNTHESIS-102's Arm B is the precedent: it tested CLAIM-745
+no objection. The link applies this claim to [CLAIM-723](CLAIM-723.md) and adds no
+inference. [SYNTHESIS-102](../syntheses.d/SYNTHESIS-102.md)'s Arm B is the precedent: it tested [CLAIM-745](CLAIM-745.md)
 with this claim (a categorical gate failing a right "at the level of
 policy") and did not file it, as "a substitution instance of CLAIM-741's
-second separation in CLAIM-745's model, an inference CLAIM-741 already
+second separation in [CLAIM-745](CLAIM-745.md)'s model, an inference CLAIM-741 already
 holds". The paragraph after the bullets stands: the claim explains why a
 defeat of standing is invisible to an evaluation of endpoints, not why it
 is a wrong. (The review's Part A, §1.3, numbers the two separations in

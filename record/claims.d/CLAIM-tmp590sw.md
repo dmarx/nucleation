@@ -95,7 +95,7 @@ produced it. Each carrier that takes it up completes it from its own
 character"), the gloss of Barthes under "Death of the author", and the
 links under "Bearing". The review of Part III (2026-11-25, Part A,
 correction 2.18) found that the manuscript's Article 7 quotes that
-mechanism as the owner's. LIT-tmpflbme registers Barthes's essay; it has
+mechanism as the owner's. [LIT-tmpflbme](../literature.d/LIT-tmpflbme.md) registers Barthes's essay; it has
 not been read, so the gloss is the filer's account of it, not a reading.
 No change of status. The wording is the assistant's (Claude, in this
 session); adopting it is the owner's call.

@@ -256,7 +256,7 @@ objectionable actions only, by timing alone.
 It measures the occasion of [CLAIM-723](../claims.d/CLAIM-723.md)'s wrong, not the wrong. The model
 has no party harmed by the act; the party with standing is the overseer,
 whose standing is its power to suspend (corrected 2026-11-25 on the
-review of Part III, Part B, J8.3, from "no affected party": CLAIM-723's
+review of Part III, Part B, J8.3, from "no affected party": [CLAIM-723](../claims.d/CLAIM-723.md)'s
 party that "has standing to authorize, suspend or contest" can be an
 overseer). It does not count objections that would have failed, which are the case
 [CLAIM-723](../claims.d/CLAIM-723.md) is distinctive for, and models neither attribution to the

@@ -302,8 +302,8 @@ before", and the body that A3 "found the nearest entries … and coined
 it". The body's own quotation shows otherwise: the owner, at U2,
 "interpret the favor as a 'perspectival invitation' in the sense that
 github.com/dmarx/nucleation has used recently". So the phrase is the
-owner's, used at U2, and A3 found the nearest entries (TERM-072,
-CLAIM-275, CLAIM-417, CLAIM-418) and gave it its content. The note of
+owner's, used at U2, and A3 found the nearest entries ([TERM-072](../terms.d/TERM-072.md),
+[CLAIM-275](CLAIM-275.md), [CLAIM-417](CLAIM-417.md), [CLAIM-418](CLAIM-418.md)) and gave it its content. The note of
 2026-11-24 above already says A32 "attributes the perspectival invitation
 correctly to the owner". Both attributions stand on the record, and
 this note says which is right: the owner's, not "coined in A3". The

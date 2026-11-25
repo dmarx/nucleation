@@ -135,16 +135,16 @@ under [ADR-075](../decisions.d/ADR-075.md). No change of status. The wording is 
 (Claude, in this session); adopting it is the owner's call.
 
 **Correction of 2026-11-25 (the review of Part III, Part B).** The
-review's independent reader of the joins tested J7.4 under ADR-075 and
+review's independent reader of the joins tested J7.4 under [ADR-075](../decisions.d/ADR-075.md) and
 found this note's carry-over a restatement that fails as a claim, and the
 note in need of revision on three points.
 
-- **It misses CASE-362's enforce arm.** CASE-362 has an arm in which "on
+- **It misses [CASE-362](../cases.d/CASE-362.md)'s enforce arm.** [CASE-362](../cases.d/CASE-362.md) has an arm in which "on
   disagreement a third member referees; the minority moves", with
-  restoration 0.031 against conformity's 0.024, and CLAIM-946's body
+  restoration 0.031 against conformity's 0.024, and [CLAIM-946](CLAIM-946.md)'s body
   states the comparison this note asks for: "Enforcement by a referee
   (0.031) and checking against the world (−0.030) also passed. The
-  condition does not separate them." So the note's reading of CLAIM-946
+  condition does not separate them." So the note's reading of [CLAIM-946](CLAIM-946.md)
   as about evaluating against copying, and its "Neither entry cites the
   other" as a gap to fill, miss the arm that is the enforced case.
 - **The carry-over has a free parameter: who does the restoring.** On a
@@ -155,28 +155,28 @@ note in need of revision on three points.
   that separates enforcement from copying by construction. Until the
   marker says which, no separating case can be stated.
 - **The candidate marker points the wrong way.** "A disposition to
-  restore that holds against a majority, of the kind CASE-362's
+  restore that holds against a majority, of the kind [CASE-362](../cases.d/CASE-362.md)'s
   evidential condition tests in direction" should be dropped. The
   evidential arm moves members toward the world, which is the descriptive
-  direction of fit, the opposite of a norm's (TERM-151); CASE-362's
+  direction of fit, the opposite of a norm's ([TERM-151](../terms.d/TERM-151.md)); [CASE-362](../cases.d/CASE-362.md)'s
   enforce arm also moves the minority; and the record's own norm model
-  has a bistable norm end "by a push past its threshold" (CLAIM-tmps8ou2),
+  has a bistable norm end "by a push past its threshold" ([CLAIM-tmps8ou2](CLAIM-tmps8ou2.md)),
   so a genuine enforced norm can fail against a majority deviation and
   the marker would misclassify it.
 
-The held principle that does the work is CLAIM-522 (Active): "Recovery
+The held principle that does the work is [CLAIM-522](CLAIM-522.md) (Active): "Recovery
 under interventions on state cannot show where maintenance is realized
 … only interventions on the production mechanisms, relative to a
 declared boundary, separate the two". The candidate test is therefore an
 intervention on the corrective mechanism, knocking out others' corrective
 activity and seeing whether the expectation still holds, not a test of
-observed restoration (LEAD-tmpiktom step 4 cites CLAIM-522 already). The
+observed restoration ([LEAD-tmpiktom](../leads.d/LEAD-tmpiktom.md) step 4 cites [CLAIM-522](CLAIM-522.md) already). The
 record also holds a marker beyond restoration in a neighbouring setting,
 which this note's "not stated by any entry" overlooked (the review's
-Part C, §7.6): CASE-101 (Active) constructs three populations with the
+Part C, §7.6): [CASE-101](../cases.d/CASE-101.md) (Active) constructs three populations with the
 same turnover and aggregate statistics, one responding alike to a common
 input, one transmitting its norms to its replacements, one held together
-by an institution, and CLAIM-926 (Proposed, demonstrated) finds that a
+by an institution, and [CLAIM-926](CLAIM-926.md) (Proposed, demonstrated) finds that a
 priced lagged block test picks out the one held by delayed transmission,
 with its lag. Whether either bears on an organization's operative norms
 is not decided here. No claim is filed; no change of status. The wording

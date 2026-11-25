@@ -205,10 +205,10 @@ Two points in the note above overstate.
   re-solved against the current fallback at each t, so the model assumes
   renegotiation: the terms change, and what is fixed is every price, the
   bargaining rule and P's choice to stay. And "Capacity-first supply …
-  moves nothing" holds because, in CLAIM-605's model, capacity-first
+  moves nothing" holds because, in [CLAIM-605](../claims.d/CLAIM-605.md)'s model, capacity-first
   supply is the unsupported dynamics: there is no decay for it to stop,
   and a party already below the threshold decays under it anyway.
 
-CLAIM-tmp6nzs1 is revised to match (version 2). No status change. The
+[CLAIM-tmp6nzs1](../claims.d/CLAIM-tmp6nzs1.md) is revised to match (version 2). No status change. The
 wording is the assistant's (Claude, in this session); adopting it is the
 owner's call.

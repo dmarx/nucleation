@@ -469,8 +469,8 @@ is attributed to the entry that states it.
    offer ([CLAIM-tmp2jhc1](../claims.d/CLAIM-tmp2jhc1.md)). Where the fallback is a capacity learned by
    doing that the arrangement's own supply erodes, the terms fall at each
    renegotiation while the party never exits and no price, rule or exit
-   changes, and ending the supply restores them only before CLAIM-605's
-   deadline (CLAIM-tmp6nzs1, a derivation checked in a model; from the
+   changes, and ending the supply restores them only before [CLAIM-605](../claims.d/CLAIM-605.md)'s
+   deadline ([CLAIM-tmp6nzs1](../claims.d/CLAIM-tmp6nzs1.md), a derivation checked in a model; from the
    joins of Part III, below).
 11. **Reliability and its dependants.** Reliability above a guarantee can
    erode the fallbacks of those who depend on it ([CLAIM-tmpb1wyc](../claims.d/CLAIM-tmpb1wyc.md)), and
@@ -641,74 +641,74 @@ readings' demands bear on different situations). The others:
 
 
 ### The joins of the manuscript governance-of-becoming, Part III
-<!-- inactive-ok-file: CLAIM-tmp6nzs1 CLAIM-tmpjitli CLAIM-tmps8ou2 CLAIM-tmpsh3og CLAIM-tmpjnly0 CLAIM-tmpdu9v6 CLAIM-954 CASE-367 CLAIM-415 CLAIM-741 CLAIM-723 ARG-228 SYNTHESIS-102 CLAIM-745 CLAIM-670 CASE-362 CASE-336 CLAIM-946 CLAIM-909 CLAIM-1184 CLAIM-913 CASE-316 TERM-124 CLAIM-742 CLAIM-717 CLAIM-603 — Proposed or new; the joins' components and the entries their verdicts name, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-tmp6nzs1 CLAIM-tmpsh3og CLAIM-954 CASE-367 CLAIM-415 CLAIM-741 CLAIM-723 ARG-228 SYNTHESIS-102 CLAIM-745 CLAIM-670 CASE-362 CASE-336 CLAIM-946 CLAIM-909 CLAIM-1184 CLAIM-913 CASE-316 TERM-124 CLAIM-742 CLAIM-717 CLAIM-603 — Proposed or new; the joins' components and the entries their verdicts name, cited with their standing -->
 
 The drafts of Articles 7 to 9 closed with 19 joins: J7.1 to J7.4, JR7.1
 and JR7.2; J8.1 to J8.5, JR8.1 and JR8.2; J9.1 to J9.6. An independent
-reader tested each under ADR-075 on 2026-11-25 (the review of that date,
+reader tested each under [ADR-075](../decisions.d/ADR-075.md) on 2026-11-25 (the review of that date,
 REVIEW-2026-11-25-part-iii.md, Part B). One passed in a corrected form
-and is integrated above: CLAIM-tmp6nzs1 (Article 9's J9.1, by derivation:
-where a party's fallback is valued from a capacity in CLAIM-605's model
+and is integrated above: [CLAIM-tmp6nzs1](../claims.d/CLAIM-tmp6nzs1.md) (Article 9's J9.1, by derivation:
+where a party's fallback is valued from a capacity in [CLAIM-605](../claims.d/CLAIM-605.md)'s model
 and its terms are bargained against it, supply that does its work lowers
 the terms while it never exits and no price, rule or exit changes, and
 ending the supply restores them before the capacity's deadline and not
 after). Its content of its own is the deadline carried into the terms;
 that the terms fall with an eroded fallback is held already as
-comparative statics (CLAIM-tmp2jhc1's A24 §4). It was revised to version
+comparative statics ([CLAIM-tmp2jhc1](../claims.d/CLAIM-tmp2jhc1.md)'s A24 §4). It was revised to version
 2 on the reader's five corrections (renegotiation stated as an
 assumption, the capacity-first clause, the derivation in the body, a
-defeater that can be met, the readings of LEAD-tmpeo8wq narrowed) and
+defeater that can be met, the readings of [LEAD-tmpeo8wq](../leads.d/LEAD-tmpeo8wq.md) narrowed) and
 rechecked by the reader from separate code. The others:
 
 - **Misstated a component** (3), each leaving a restatement: J7.3
-  (CLAIM-402's decomposition and CLAIM-415's self-sealing: CASE-367 holds
+  ([CLAIM-402](../claims.d/CLAIM-402.md)'s decomposition and [CLAIM-415](../claims.d/CLAIM-415.md)'s self-sealing: [CASE-367](../cases.d/CASE-367.md) holds
   its classes fixed, so both arms lie in the performative term and the
-  randomized probe is CLAIM-402's second separating intervention; the
-  remainder is CLAIM-954, and the residue a dated note on it); J8.1
-  (CLAIM-741: the defeat in CLAIM-723 and ARG-228 is a difference in
-  history, CLAIM-741's first separation, not a failure at the level of
-  policy; the remainder is CLAIM-741 applied, as SYNTHESIS-102's Arm B
-  found for CLAIM-745); J9.2 (in the Nash arm P's share never falls
+  randomized probe is [CLAIM-402](../claims.d/CLAIM-402.md)'s second separating intervention; the
+  remainder is [CLAIM-954](../claims.d/CLAIM-954.md), and the residue a dated note on it); J8.1
+  ([CLAIM-741](../claims.d/CLAIM-741.md): the defeat in [CLAIM-723](../claims.d/CLAIM-723.md) and [ARG-228](../arguments.d/ARG-228.md) is a difference in
+  history, [CLAIM-741](../claims.d/CLAIM-741.md)'s first separation, not a failure at the level of
+  policy; the remainder is [CLAIM-741](../claims.d/CLAIM-741.md) applied, as [SYNTHESIS-102](SYNTHESIS-102.md)'s Arm B
+  found for [CLAIM-745](../claims.d/CLAIM-745.md)); J9.2 (in the Nash arm P's share never falls
   below its fallback at the start, so P never gets terms it could earlier
   have refused; what the computation models is the falling floor of
-  CLAIM-670's note, now among CLAIM-tmp6nzs1's limits).
-- **Failed as claims** (2): J7.4's carry-over from CASE-362 to
-  CLAIM-tmphq6hp's marker (it rests on a free parameter, who does the
-  restoring; the comparison it asks for is CASE-362's enforce arm, which
-  CLAIM-946's body states, and CLAIM-522 names the intervention on the
+  [CLAIM-670](../claims.d/CLAIM-670.md)'s note, now among [CLAIM-tmp6nzs1](../claims.d/CLAIM-tmp6nzs1.md)'s limits).
+- **Failed as claims** (2): J7.4's carry-over from [CASE-362](../cases.d/CASE-362.md) to
+  [CLAIM-tmphq6hp](../claims.d/CLAIM-tmphq6hp.md)'s marker (it rests on a free parameter, who does the
+  restoring; the comparison it asks for is [CASE-362](../cases.d/CASE-362.md)'s enforce arm, which
+  [CLAIM-946](../claims.d/CLAIM-946.md)'s body states, and [CLAIM-522](../claims.d/CLAIM-522.md) names the intervention on the
   mechanism that would separate the two); J8.2 ("a candidate in the
-  other" admits no case; the shared form of ARG-228 and CASE-336's
-  variants is CLAIM-909's).
+  other" admits no case; the shared form of [ARG-228](../arguments.d/ARG-228.md) and [CASE-336](../cases.d/CASE-336.md)'s
+  variants is [CLAIM-909](../claims.d/CLAIM-909.md)'s).
 - **Correctly not made** (4): J8.4 (a conjunction of three
-  non-implications: CLAIM-749, A71's rider and CLAIM-tmpsh3og); J8.5 (A51's
-  closing sentence conflicts with CLAIM-tmpreipd's item 4 and CLAIM-547's
+  non-implications: [CLAIM-749](../claims.d/CLAIM-749.md), A71's rider and [CLAIM-tmpsh3og](../claims.d/CLAIM-tmpsh3og.md)); J8.5 (A51's
+  closing sentence conflicts with [CLAIM-tmpreipd](../claims.d/CLAIM-tmpreipd.md)'s item 4 and [CLAIM-547](../claims.d/CLAIM-547.md)'s
   third achievement); J9.5 (enshittification as domination; the right
   reason is that no standard of answerability is declared, since
-  CLAIM-tmpjnly0's optimizing institution is a holder in TERM-124's
+  [CLAIM-tmpjnly0](../claims.d/CLAIM-tmpjnly0.md)'s optimizing institution is a holder in [TERM-124](../terms.d/TERM-124.md)'s
   sense); J9.6 (contestation and exit costs in one model; nothing to
-  test, it is gap G9.3, LEAD-tmp3w42f).
-- **Restatements** (9): J7.1 (CLAIM-270's retention against drift, with
-  TERM-027, applied to CLAIM-tmpjitli's criterion); J7.2 (each entry's own
+  test, it is gap G9.3, [LEAD-tmp3w42f](../leads.d/LEAD-tmp3w42f.md)).
+- **Restatements** (9): J7.1 ([CLAIM-270](../claims.d/CLAIM-270.md)'s retention against drift, with
+  [TERM-027](../terms.d/TERM-027.md), applied to [CLAIM-tmpjitli](../claims.d/CLAIM-tmpjitli.md)'s criterion); J7.2 (each entry's own
   bistability, and JR7.2; its "a norm outlasting its baseline" misstates
-  CLAIM-tmps8ou2, under which a norm outlasts a weakening of its baseline
-  within the bistable range); JR7.1 (CLAIM-tmpnws9d's summary); JR7.2
-  (LEAD-tmpiktom's step 1); J8.3 (CASE-316 measures the occasion of
-  CLAIM-723's foreclosure, not the wrong); JR8.1 (CLAIM-725, CLAIM-075 and
-  CLAIM-060, each in its own scope); JR8.2 (CLAIM-742 and CLAIM-717); J9.3
-  (CLAIM-603's note of 2026-11-12); J9.4 (CLAIM-tmpdu9v6; the fallback
+  [CLAIM-tmps8ou2](../claims.d/CLAIM-tmps8ou2.md), under which a norm outlasts a weakening of its baseline
+  within the bistable range); JR7.1 ([CLAIM-tmpnws9d](../claims.d/CLAIM-tmpnws9d.md)'s summary); JR7.2
+  ([LEAD-tmpiktom](../leads.d/LEAD-tmpiktom.md)'s step 1); J8.3 ([CASE-316](../cases.d/CASE-316.md) measures the occasion of
+  [CLAIM-723](../claims.d/CLAIM-723.md)'s foreclosure, not the wrong); JR8.1 ([CLAIM-725](../claims.d/CLAIM-725.md), [CLAIM-075](../claims.d/CLAIM-075.md) and
+  [CLAIM-060](../claims.d/CLAIM-060.md), each in its own scope); JR8.2 ([CLAIM-742](../claims.d/CLAIM-742.md) and [CLAIM-717](../claims.d/CLAIM-717.md)); J9.3
+  ([CLAIM-603](../claims.d/CLAIM-603.md)'s note of 2026-11-12); J9.4 ([CLAIM-tmpdu9v6](../claims.d/CLAIM-tmpdu9v6.md); the fallback
   channel moves the terms by the value of the disagreement point, not by
   a price).
 
 **The notes filed from the drafts.** Before the test, the drafts' joins
-were placed as dated notes of 2026-11-25 on CLAIM-723, CASE-316,
-CLAIM-741, CLAIM-1184, CLAIM-913, CLAIM-tmpjitli, CLAIM-tmphq6hp,
-CLAIM-tmp2jhc1, LEAD-tmpiktom and LEAD-tmpeo8wq. Those notes stated joins
+were placed as dated notes of 2026-11-25 on [CLAIM-723](../claims.d/CLAIM-723.md), [CASE-316](../cases.d/CASE-316.md),
+[CLAIM-741](../claims.d/CLAIM-741.md), [CLAIM-1184](../claims.d/CLAIM-1184.md), [CLAIM-913](../claims.d/CLAIM-913.md), [CLAIM-tmpjitli](../claims.d/CLAIM-tmpjitli.md), [CLAIM-tmphq6hp](../claims.d/CLAIM-tmphq6hp.md),
+[CLAIM-tmp2jhc1](../claims.d/CLAIM-tmp2jhc1.md), [LEAD-tmpiktom](../leads.d/LEAD-tmpiktom.md) and [LEAD-tmpeo8wq](../leads.d/LEAD-tmpeo8wq.md). Those notes stated joins
 that had not been tested, and the verdicts here supersede them. Each the
 reader found wrong or overstated now carries a correction of 2026-11-25:
-the notes on CLAIM-tmphq6hp and CLAIM-741 are revised; those on
-CLAIM-tmp2jhc1 and LEAD-tmpeo8wq are corrected on one point each; those
-on CLAIM-1184 and CLAIM-913 add CLAIM-909; those on CASE-316 and
-CLAIM-723 have one wording fixed. The note on CLAIM-tmpjitli was found
+the notes on [CLAIM-tmphq6hp](../claims.d/CLAIM-tmphq6hp.md) and [CLAIM-741](../claims.d/CLAIM-741.md) are revised; those on
+[CLAIM-tmp2jhc1](../claims.d/CLAIM-tmp2jhc1.md) and [LEAD-tmpeo8wq](../leads.d/LEAD-tmpeo8wq.md) are corrected on one point each; those
+on [CLAIM-1184](../claims.d/CLAIM-1184.md) and [CLAIM-913](../claims.d/CLAIM-913.md) add [CLAIM-909](../claims.d/CLAIM-909.md); those on [CASE-316](../cases.d/CASE-316.md) and
+[CLAIM-723](../claims.d/CLAIM-723.md) have one wording fixed. The note on [CLAIM-tmpjitli](../claims.d/CLAIM-tmpjitli.md) was found
 right. The wording of this section is the assistant's (Claude, in this
 session); adopting it is the owner's call.
 
@@ -788,7 +788,7 @@ wording is the assistant's (Claude, in this session); adopting it is the
 owner's call.
 
 ## Note of 2026-11-25: two parts out of date, from the manuscript governance-of-becoming, Articles 7 and 8
-<!-- inactive-ok-file: CLAIM-tmpsh3og TERM-tmp383al TERM-tmp72sq3 CLAIM-tmp590sw — Proposed or new; the claim, the owner's correction and its terms, and the two readings of U4 with the claim the ruling adds -->
+<!-- inactive-ok-file: TERM-tmp383al TERM-tmp72sq3 CLAIM-tmp590sw — Proposed or new; the claim, the owner's correction and its terms, and the two readings of U4 with the claim the ruling adds -->
 
 The drafts of Articles 7 and 8 found two places where this account
 predates the owner's rulings of 2026-11-24. Neither is corrected here:
