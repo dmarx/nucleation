@@ -1,10 +1,10 @@
 ---
 number: 1203
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpzbytm
 title: "In the sequential model of inquiry depth the best depth never falls as the deadline lengthens when execution readiness is log-concave in the time left, but when execution takes either a fast or a slow route a longer deadline can make a much shallower inquiry best, because the time it saves buys the slow route"
-version: 1
+version: 2
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -33,8 +33,20 @@ summary: >-
   condition under which the best depth rises with the deadline, and a
   checked example in which it falls sharply instead. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Promoted to Active under the owner's delegation of 2026-11-24
+    ("handle the fixes for the twelve ... use your best judgement"),
+    as the status pass of 2026-11-24 and the reruns of 2026-11-25
+    applied it to independently recomputed demonstrated claims. It was
+    rerun by a session other than the filer's on 2026-11-25 (scratch/formal/maintained_nuclei_check.py;
+    the curation entry of 2026-11-25 02:20) and reproduced; it was then
+    held back only by CLAIM-1114, which the recomputation pass of
+    2026-11-25 promoted. ADR-057: it rests on CLAIM-1008, Active (promoted just before it); no objection targets it; and
+    nothing meets its defeated_if.
 ---
-<!-- inactive-ok-file: CLAIM-1008 — Proposed; the claim whose gap this fills -->
 
 # CLAIM-1203: In the sequential model of inquiry depth the best depth never falls as the deadline lengthens when execution readiness is log-concave in the time left, but when execution takes either a fast or a slow route a longer deadline can make a much shallower inquiry best, because the time it saves buys the slow route
 

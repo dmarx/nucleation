@@ -72,7 +72,7 @@ summary: >-
   demonstrated, by the §1 construction as checked there. The wording is A's (ChatGPT's, at A58 of the exchange "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-1009 CLAIM-754 ARG-221 CLAIM-1025 — Proposed; the owner's thesis, the neighbour, the assistant's derivation and its argument, and A58's term -->
+<!-- inactive-ok-file: CLAIM-1009 CLAIM-754 ARG-221 — Proposed; the owner's thesis, the neighbour, the assistant's derivation and its argument, and A58's term -->
 
 # CLAIM-1190: Inquiry can fail at three sites, forming queries, producing answers and their joint realizability, and the third is not reducible to the first two, because which question–answer pairs an organization can attain together is not determined by the questions it can ask and the answers it can attain taken separately
 

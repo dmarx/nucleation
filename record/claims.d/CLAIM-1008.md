@@ -1,10 +1,10 @@
 ---
 number: 1008
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp2dr12
 title: "Where inquiry of depth k must finish before execution can start within a deadline H, the chance of success p(k)F(H − t(k)) is greatest at an interior depth where the relative gain in finding a suitable response equals the time cost times the relative loss in execution readiness, so the appropriate depth of inquiry depends on the deadline and on the target's response dynamics"
-version: 1
+version: 2
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -36,8 +36,21 @@ summary: >-
   and when it can jump down, is the assistant's [CLAIM-1203](CLAIM-1203.md). The
   wording is A's (ChatGPT, at A52 of the exchange "Explain First Contact
   RL"); adopting it is the owner's call.
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Promoted to Active under the owner's delegation of 2026-11-24
+    ("handle the fixes for the twelve ... use your best judgement"),
+    as the status pass of 2026-11-24 and the reruns of 2026-11-25
+    applied it to independently recomputed demonstrated claims. It was
+    rerun by a session other than the filer's on 2026-11-25 (scratch/formal/maintained_nuclei_check.py;
+    the curation entry of 2026-11-25 02:20) and reproduced; it was then
+    held back only by CLAIM-1114, which the recomputation pass of
+    2026-11-25 promoted. ADR-057: it rests on CLAIM-475 and CLAIM-1157, both Active (CLAIM-1157 promoted just before it); it uses TERM-085, Active; no objection targets it; and
+    nothing meets its defeated_if.
 ---
-<!-- inactive-ok-file: CLAIM-1203 CLAIM-1070 — Proposed; the claim this rests on, the gap fill, the case filed with it and the claim whose phrase A uses -->
+<!-- inactive-ok-file: CLAIM-1070 — Proposed; the claim this rests on, the gap fill, the case filed with it and the claim whose phrase A uses -->
 
 # CLAIM-1008: Where inquiry of depth k must finish before execution can start within a deadline H, the chance of success p(k)F(H − t(k)) is greatest at an interior depth where the relative gain in finding a suitable response equals the time cost times the relative loss in execution readiness, so the appropriate depth of inquiry depends on the deadline and on the target's response dynamics
 

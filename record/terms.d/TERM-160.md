@@ -36,7 +36,7 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-1009 TERM-159 CLAIM-1016 CLAIM-754 CLAIM-1025 — Proposed; the owner's thesis, the other alternative and the claims filed with this -->
+<!-- inactive-ok-file: CLAIM-1009 TERM-159 CLAIM-1016 CLAIM-754 — Proposed; the owner's thesis, the other alternative and the claims filed with this -->
 
 # TERM-160: joint inquiry frontier, of an agent at a budget and horizon: the question–answer pairs it can bring about together, formulating the question and producing and evaluating an answer to a stated acceptance standard within the same resources; its question side is the inquiry frontier's investigable set, and its answer side, indexed by question, is the answer frontier
 

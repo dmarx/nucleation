@@ -21,7 +21,7 @@ summary: >-
   memory ([NOTE-1804](../notes.d/NOTE-1804.md), [NOTE-1832](../notes.d/NOTE-1832.md)). The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-1025 CASE-395 CLAIM-1117 CLAIM-1016 CLAIM-tmp2kfwd — Proposed; cited in prose with their standing, whatever it is -->
+<!-- inactive-ok-file: CASE-395 CLAIM-1117 CLAIM-1016 CLAIM-tmp2kfwd — Proposed; cited in prose with their standing, whatever it is -->
 
 # QUESTION-tmpg48pb: What is a transactive capacity of an organization, a competence usable only through what its members know of who can do what, of what is legible to whom and of who may authorize its use, and can the same competences be differently usable under different governance arrangements while the members' own capabilities are unchanged?
 
