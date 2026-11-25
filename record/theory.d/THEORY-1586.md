@@ -3,7 +3,14 @@ number: 1586
 status: Active
 formerly:
 - THEORY-tmp8vjtt
-title: 'Abramsky and Sadrzadeh model a basic discourse representation structure as a section of a presheaf of consistent literals, a choice of anaphoric resolution as a cover and a discourse''s meaning as the gluing, unique when it exists; in their linguistic examples the only obstruction to gluing is inconsistency of literals, which is not contextuality in Abramsky and Brandenburger''s sense'
+title: 'Abramsky–Sadrzadeh: discourse as gluing'
+statement: >-
+  Abramsky and Sadrzadeh model a basic discourse representation structure as
+  a section of a presheaf of consistent literals, a choice of anaphoric
+  resolution as a cover and a discourse's meaning as the gluing, unique when
+  it exists; in their linguistic examples the only obstruction to gluing is
+  inconsistency of literals, which is not contextuality in Abramsky and
+  Brandenburger's sense
 version: 3
 history:
 - version: 1
@@ -48,7 +55,7 @@ corroborates:
 - CLAIM-044
 ---
 
-# THEORY-1586: Abramsky and Sadrzadeh model a basic discourse representation structure as a section of a presheaf of consistent literals, a choice of anaphoric resolution as a cover and a discourse's meaning as the gluing, unique when it exists; in their linguistic examples the only obstruction to gluing is inconsistency of literals, which is not contextuality in Abramsky and Brandenburger's sense
+# THEORY-1586: Abramsky–Sadrzadeh: discourse as gluing
 
 ## The account
 

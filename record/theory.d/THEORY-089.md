@@ -25,7 +25,12 @@ promote_when: >-
   Psychosemantics) and of Campbell's reply (1987/8), none of them held,
   is needed before the account could be Active. More Twin Earth cases
   cannot settle it, because both sides grant the verdicts.
-title: 'The content of a mental representation has two factors, a narrow conceptual role inside the head and a referential factor relating it to the world, and a long-arm role theory that gets Twin Earth truth conditions right reduces to the same two'
+title: 'Block: two-factor conceptual-role content'
+statement: >-
+  The content of a mental representation has two factors, a narrow
+  conceptual role inside the head and a referential factor relating it to
+  the world, and a long-arm role theory that gets Twin Earth truth
+  conditions right reduces to the same two
 version: 1
 tags:
 - philosophy-of-language
@@ -53,7 +58,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-095 — Proposed; the Inverted Earth account filed alongside, named in prose, nothing here rests on it -->
 
-# THEORY-089: The content of a mental representation has two factors, a narrow conceptual role inside the head and a referential factor relating it to the world, and a long-arm role theory that gets Twin Earth truth conditions right reduces to the same two
+# THEORY-089: Block: two-factor conceptual-role content
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 2077
 status: Proposed
 formerly:
 - THEORY-tmppm9la
-title: 'Anguita and colleagues show in two-layer diagonal linear networks trained to convergence that the initialization''s absolute scale, its relative scale between layers and the readout''s scale at fine-tuning place fine-tuning in one of four regimes that trade reuse of pretrained features against a bias to learn sparse new ones; that the relative scale changes fine-tuning''s inductive bias even when the pretrained function is the same; and that which regime generalizes best depends on how the fine-tuning task''s features overlap the pretrained ones'
+title: 'Anguita et al.: four fine-tuning regimes'
+statement: >-
+  Anguita and colleagues show in two-layer diagonal linear networks trained
+  to convergence that the initialization's absolute scale, its relative
+  scale between layers and the readout's scale at fine-tuning place
+  fine-tuning in one of four regimes that trade reuse of pretrained features
+  against a bias to learn sparse new ones; that the relative scale changes
+  fine-tuning's inductive bias even when the pretrained function is the
+  same; and that which regime generalizes best depends on how the
+  fine-tuning task's features overlap the pretrained ones
 version: 1
 source:
 - LIT-2861
@@ -30,7 +39,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2077: Anguita and colleagues show in two-layer diagonal linear networks trained to convergence that the initialization's absolute scale, its relative scale between layers and the readout's scale at fine-tuning place fine-tuning in one of four regimes that trade reuse of pretrained features against a bias to learn sparse new ones; that the relative scale changes fine-tuning's inductive bias even when the pretrained function is the same; and that which regime generalizes best depends on how the fine-tuning task's features overlap the pretrained ones
+# THEORY-2077: Anguita et al.: four fine-tuning regimes
 
 ## The account
 

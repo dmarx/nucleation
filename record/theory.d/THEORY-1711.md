@@ -3,7 +3,15 @@ number: 1711
 status: Proposed
 formerly:
 - THEORY-tmpvj9k2
-title: 'Finn (2023) argues that when an organism of the gestating organism''s kind begins and whether the foster is a proper part of or merely contained by the gestating organism are independent questions, connected only by a Maximality principle that no proper part of an F is an F, which needs independent justification; without it, parthood and containment, together with overlap and an underlap view on which the foster is both part and contained, each combine with any answer about timing.'
+title: 'Finn: kind onset and parthood are independent'
+statement: >-
+  Finn (2023) argues that when an organism of the gestating organism's kind
+  begins and whether the foster is a proper part of or merely contained by
+  the gestating organism are independent questions, connected only by a
+  Maximality principle that no proper part of an F is an F, which needs
+  independent justification; without it, parthood and containment, together
+  with overlap and an underlap view on which the foster is both part and
+  contained, each combine with any answer about timing.
 version: 1
 source:
 - LIT-2358
@@ -26,7 +34,7 @@ summary: >-
   After-Pregnancy models such as Kingma's "Nine Months")?
 ---
 
-# THEORY-1711: Finn (2023) argues that when an organism of the gestating organism's kind begins and whether the foster is a proper part of or merely contained by the gestating organism are independent questions, connected only by a Maximality principle that no proper part of an F is an F, which needs independent justification; without it, parthood and containment, together with overlap and an underlap view on which the foster is both part and contained, each combine with any answer about timing.
+# THEORY-1711: Finn: kind onset and parthood are independent
 
 ## The account
 

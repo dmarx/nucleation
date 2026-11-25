@@ -3,7 +3,14 @@ number: 2021
 status: Proposed
 formerly:
 - THEORY-tmpctik9
-title: 'Jacobs and colleagues show that recurrent networks with only local encoders and local recurrence learn to propagate travelling waves that carry whole-shape information to each pixel, so that a readout of each neuron''s activity over time segments images needing global context, beating feed-forward networks of matched receptive field and, on Multi-MNIST, U-Nets of similar size'
+title: 'Jacobs et al.: travelling waves integrate shape'
+statement: >-
+  Jacobs and colleagues show that recurrent networks with only local
+  encoders and local recurrence learn to propagate travelling waves that
+  carry whole-shape information to each pixel, so that a readout of each
+  neuron's activity over time segments images needing global context,
+  beating feed-forward networks of matched receptive field and, on
+  Multi-MNIST, U-Nets of similar size
 version: 1
 source:
 - LIT-2836
@@ -37,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-647 — Unavailable; cited in this filing of 2026-11-19 -->
 
-# THEORY-2021: Jacobs and colleagues show that recurrent networks with only local encoders and local recurrence learn to propagate travelling waves that carry whole-shape information to each pixel, so that a readout of each neuron's activity over time segments images needing global context, beating feed-forward networks of matched receptive field and, on Multi-MNIST, U-Nets of similar size
+# THEORY-2021: Jacobs et al.: travelling waves integrate shape
 
 ## The account
 

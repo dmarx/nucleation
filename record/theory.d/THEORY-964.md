@@ -13,7 +13,14 @@ promote_when: >-
   a later complete source that restates the classification with its
   proofs, such as Lattimore and Szepesvári's corrected adversarial
   analysis. A citation of the classification by others does not count.
-title: 'The minimax regret of a finite partial-monitoring game takes one of four rates, decided by its loss and signal matrices: 0 when only one action is non-dominated, Θ̃(√T) when every pair of neighbouring actions is locally observable, Θ(T^2/3) when the game is globally but not locally observable, and Θ(T) when it is not globally observable; against stochastic opponents for every game, against oblivious adversaries for non-degenerate games'
+title: 'Partial monitoring: four regret rates'
+statement: >-
+  The minimax regret of a finite partial-monitoring game takes one of four
+  rates, decided by its loss and signal matrices: 0 when only one action is
+  non-dominated, Θ̃(√T) when every pair of neighbouring actions is locally
+  observable, Θ(T^2/3) when the game is globally but not locally observable,
+  and Θ(T) when it is not globally observable; against stochastic opponents
+  for every game, against oblivious adversaries for non-degenerate games
 version: 3
 history:
 - version: 1
@@ -64,7 +71,7 @@ summary: >-
   degenerate games.
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose example is classified here, nothing here rests on it -->
-# THEORY-964: The minimax regret of a finite partial-monitoring game takes one of four rates, decided by its loss and signal matrices: 0 when only one action is non-dominated, Θ̃(√T) when every pair of neighbouring actions is locally observable, Θ(T^2/3) when the game is globally but not locally observable, and Θ(T) when it is not globally observable; against stochastic opponents for every game, against oblivious adversaries for non-degenerate games
+# THEORY-964: Partial monitoring: four regret rates
 
 ## Source
 

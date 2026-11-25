@@ -3,7 +3,14 @@ number: 587
 status: Active
 formerly:
 - THEORY-tmpn5a5a
-title: "A U-turn stopping rule for Hamiltonian Monte Carlo leaves the target invariant once the trajectory is built as a random balanced doubling tree and the next state is drawn only from states that could have regenerated it; with a dual-averaged step size it matched the best hand-tuned identity-mass HMC on two of four test posteriors and beat it about threefold on the other two, and its ergodicity is not shown"
+title: 'NUTS: U-turn stopping keeps HMC exact'
+statement: >-
+  A U-turn stopping rule for Hamiltonian Monte Carlo leaves the target
+  invariant once the trajectory is built as a random balanced doubling tree
+  and the next state is drawn only from states that could have regenerated
+  it; with a dual-averaged step size it matched the best hand-tuned
+  identity-mass HMC on two of four test posteriors and beat it about
+  threefold on the other two, and its ergodicity is not shown
 version: 1
 tags:
 - probabilistic-modeling
@@ -21,7 +28,7 @@ summary: >-
   rule, U-turn criterion and adaptation.
 ---
 
-# THEORY-587: A U-turn stopping rule for Hamiltonian Monte Carlo leaves the target invariant once the trajectory is built as a random balanced doubling tree and the next state is drawn only from states that could have regenerated it; with a dual-averaged step size it matched the best hand-tuned identity-mass HMC on two of four test posteriors and beat it about threefold on the other two, and its ergodicity is not shown
+# THEORY-587: NUTS: U-turn stopping keeps HMC exact
 
 ## Source
 

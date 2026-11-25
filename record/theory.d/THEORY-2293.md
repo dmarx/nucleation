@@ -11,7 +11,13 @@ promote_when: >-
   transmission from shared genetics, environment and behaviour cannot
   easily be resolved. Or a later systematic review of the same literature
   reaches the same count of paternal-only designs and the same verdict.
-title: 'Zhou and Ryan find, in a scoping review of human studies to mid-2023, that the evidence for intergenerational epigenetic transmission of stress and trauma is small, observational and mostly maternal, with two paternal-only studies and one measure of sperm, and hold that separating it from shared genes, environment and behaviour cannot easily be resolved'
+title: 'Zhou–Ryan: thin epigenetic-trauma evidence'
+statement: >-
+  Zhou and Ryan find, in a scoping review of human studies to mid-2023, that
+  the evidence for intergenerational epigenetic transmission of stress and
+  trauma is small, observational and mostly maternal, with two paternal-only
+  studies and one measure of sperm, and hold that separating it from shared
+  genes, environment and behaviour cannot easily be resolved
 version: 1
 tags:
 - natural-sciences
@@ -33,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1017 CLAIM-644 — filed by the lead run of 2026-11-23 -->
 
-# THEORY-2293: Zhou and Ryan find, in a scoping review of human studies to mid-2023, that the evidence for intergenerational epigenetic transmission of stress and trauma is small, observational and mostly maternal, with two paternal-only studies and one measure of sperm, and hold that separating it from shared genes, environment and behaviour cannot easily be resolved
+# THEORY-2293: Zhou–Ryan: thin epigenetic-trauma evidence
 
 ## The account
 
