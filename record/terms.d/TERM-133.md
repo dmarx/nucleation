@@ -3,7 +3,12 @@ number: 133
 status: Proposed
 formerly:
 - TERM-tmp0g123
-title: 'stabilization, in the control-theoretic sense: the damping of perturbations and convergence to what is expected, an equilibrium, a set or a stationary law; contraction is a sufficient condition for it, and attraction toward a convention is one case of it'
+title: 'stabilization'
+statement: >-
+  stabilization, in the control-theoretic sense: the damping of
+  perturbations and convergence to what is expected, an equilibrium, a set
+  or a stationary law; contraction is a sufficient condition for it, and
+  attraction toward a convention is one case of it
 version: 1
 tags:
 - complex-systems
@@ -31,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2043 TERM-132 CLAIM-068 CLAIM-772 CLAIM-783 TERM-134 — Proposed; the contraction reading, the terms and claims this is stated against, and those filed with it on 2026-11-21 -->
 
-# TERM-133: stabilization, in the control-theoretic sense: the damping of perturbations and convergence to what is expected, an equilibrium, a set or a stationary law; contraction is a sufficient condition for it, and attraction toward a convention is one case of it
+# TERM-133: stabilization
 
 ## Definition
 

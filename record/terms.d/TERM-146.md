@@ -3,7 +3,13 @@ number: 146
 status: Proposed
 formerly:
 - TERM-tmpaztqn
-title: 'emergence by predictive efficiency, of one causal description from another: the first is a coarse-graining of the second and is predicted more efficiently, its excess entropy a larger share of its statistical complexity (E/Cµ); the opposite, a coarse-graining predicted less efficiently, is submergence'
+title: 'emergence (predictive efficiency)'
+statement: >-
+  emergence by predictive efficiency, of one causal description from
+  another: the first is a coarse-graining of the second and is predicted
+  more efficiently, its excess entropy a larger share of its statistical
+  complexity (E/Cµ); the opposite, a coarse-graining predicted less
+  efficiently, is submergence
 version: 1
 tags:
 - complex-systems
@@ -31,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2205 TERM-141 THEORY-257 CLAIM-861 — Proposed or new; the reading this term draws on, the term it complements, the account it is set against and the claim that uses it -->
 
-# TERM-146: emergence by predictive efficiency, of one causal description from another: the first is a coarse-graining of the second and is predicted more efficiently, its excess entropy a larger share of its statistical complexity (E/Cµ); the opposite, a coarse-graining predicted less efficiently, is submergence
+# TERM-146: emergence (predictive efficiency)
 
 ## Definition
 

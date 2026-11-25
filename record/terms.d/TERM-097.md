@@ -6,7 +6,12 @@ formerly:
 complements:
 - TERM-093
 - TERM-034
-title: 'coherence, of a family of descriptions, transports or judgements: their agreement with one another under a stated correspondence structure (on overlaps, around cycles, between routes), distinct from fidelity to a source, from integration by dynamics, and from knowledge of the world'
+title: 'coherence'
+statement: >-
+  coherence, of a family of descriptions, transports or judgements: their
+  agreement with one another under a stated correspondence structure (on
+  overlaps, around cycles, between routes), distinct from fidelity to a
+  source, from integration by dynamics, and from knowledge of the world
 version: 3
 history:
 - version: 2
@@ -48,7 +53,7 @@ draws_on:
 - THEORY-1278
 ---
 
-# TERM-097: coherence, of a family of descriptions, transports or judgements: their agreement with one another under a stated correspondence structure (on overlaps, around cycles, between routes), distinct from fidelity to a source, from integration by dynamics, and from knowledge of the world
+# TERM-097: coherence
 
 ## Definition
 

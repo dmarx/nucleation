@@ -3,7 +3,9 @@ number: 14
 status: Active
 formerly:
 - TERM-tmpbgadr
-title: 'communicative object, as an observational equivalence class'
+title: 'communicative object (equivalence class)'
+statement: >-
+  communicative object, as an observational equivalence class
 version: 1
 tags:
 - philosophy-of-language
@@ -21,7 +23,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-002 — Superseded; the neighbouring definition this entry was contrasted with, cited as history -->
 <!-- inactive-ok-file: CLAIM-142 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
-# TERM-014: communicative object, as an observational equivalence class
+# TERM-014: communicative object (equivalence class)
 
 ## Definition
 

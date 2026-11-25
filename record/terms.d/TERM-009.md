@@ -3,7 +3,9 @@ number: 9
 status: Active
 formerly:
 - TERM-tmp8j1kl
-title: 'levels, as levels at which observables exist'
+title: 'levels (of observables)'
+statement: >-
+  levels, as levels at which observables exist
 version: 2
 history:
 - version: 2
@@ -26,7 +28,7 @@ summary: >-
   ordered into one strict ontological ladder."
 ---
 
-# TERM-009: levels, as levels at which observables exist
+# TERM-009: levels (of observables)
 
 ## Definition
 

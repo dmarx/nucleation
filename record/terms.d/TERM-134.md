@@ -3,7 +3,9 @@ number: 134
 status: Proposed
 formerly:
 - TERM-tmp7m4at
-title: 'predicate (of an entry), read as a test'
+title: 'predicate'
+statement: >-
+  predicate (of an entry), read as a test
 version: 1
 tags:
 - design-rationale
@@ -26,7 +28,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: TERM-132 CLAIM-772 — Proposed; the term this complements, and the claims filed with it on 2026-11-21 -->
 
-# TERM-134: predicate (of an entry), read as a test
+# TERM-134: predicate
 
 ## Definition
 

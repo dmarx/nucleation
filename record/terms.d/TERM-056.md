@@ -3,9 +3,11 @@ number: 56
 status: Active
 formerly:
 - TERM-tmpywff6
-title: 'question drift: a provisional answer becoming part of the question an inquiry
-  is pursuing, as distinct from query drift, in which the queries move away from
-  a question that stays fixed'
+title: 'question drift'
+statement: >-
+  question drift: a provisional answer becoming part of the question an
+  inquiry is pursuing, as distinct from query drift, in which the queries
+  move away from a question that stays fixed
 version: 1
 tags:
 - epistemology
@@ -22,7 +24,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-189 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# TERM-056: question drift: a provisional answer becoming part of the question an inquiry is pursuing, as distinct from query drift, in which the queries move away from a question that stays fixed
+# TERM-056: question drift
 
 ## Definition
 

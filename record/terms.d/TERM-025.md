@@ -3,7 +3,9 @@ number: 25
 status: Active
 formerly:
 - TERM-tmporf01
-title: 'frame, as a parameterized family of contexts'
+title: 'frame (family of contexts)'
+statement: >-
+  frame, as a parameterized family of contexts
 version: 1
 tags:
 - philosophy-of-language
@@ -18,7 +20,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-029 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# TERM-025: frame, as a parameterized family of contexts
+# TERM-025: frame (family of contexts)
 
 ## Definition
 

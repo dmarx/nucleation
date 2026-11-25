@@ -3,7 +3,10 @@ number: 71
 status: Active
 formerly:
 - TERM-tmpzdpdt
-title: 'persistence, of an organization, and which sense: state, dynamical, historical, viable and reinstatable'
+title: 'persistence'
+statement: >-
+  persistence, of an organization, and which sense: state, dynamical,
+  historical, viable and reinstatable
 version: 5
 history:
 - version: 2
@@ -66,7 +69,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-327 — Proposed; the claims each sense is taken from, open -->
 <!-- inactive-ok-file: THEORY-418 THEORY-465 — Proposed; readings on reconstitution and on being reproduced, cited as open -->
 
-# TERM-071: persistence, of an organization, and which sense: state, dynamical, historical, viable and reinstatable
+# TERM-071: persistence
 
 ## Definition
 

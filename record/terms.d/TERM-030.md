@@ -3,7 +3,9 @@ number: 30
 status: Active
 formerly:
 - TERM-tmpu9tab
-title: 'frame, as a configuration of the communicative situation'
+title: 'frame (communicative situation)'
+statement: >-
+  frame, as a configuration of the communicative situation
 version: 1
 tags:
 - philosophy-of-language
@@ -17,7 +19,7 @@ summary: >-
   intervention that changes those conditions.
 ---
 
-# TERM-030: frame, as a configuration of the communicative situation
+# TERM-030: frame (communicative situation)
 
 ## Definition
 

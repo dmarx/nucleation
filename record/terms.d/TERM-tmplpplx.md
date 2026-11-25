@@ -16,7 +16,13 @@ date: '2026-11-24'
 line:
 - dependence-and-domination
 - organizational-normativity
-title: 'organizational contract: a maintained relation among the processes of an organization that governs how they interact, explicitly agreed or formed implicitly from relied-upon regularities, and that is contract-like only if it governs deviation, conflict and breach and not only the ordinary course'
+title: 'organizational contract'
+statement: >-
+  organizational contract: a maintained relation among the processes of an
+  organization that governs how they interact, explicitly agreed or formed
+  implicitly from relied-upon regularities, and that is contract-like only
+  if it governs deviation, conflict and breach and not only the ordinary
+  course
 summary: >-
   Coined at the owner's word of 2026-11-24 ("go ahead and coin the
   terms"), from the exchange 'Memes, Contracts, and Systemic Normativity':
@@ -28,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpkvzcn CLAIM-tmp0d1fq CLAIM-tmp7hqtl CLAIM-tmpersgx CLAIM-tmp80ny9 CLAIM-tmpisfi1 TERM-tmpgiy6r — Proposed; the entries the term assembles -->
 
-# TERM-tmplpplx: organizational contract: a maintained relation among the processes of an organization that governs how they interact, explicitly agreed or formed implicitly from relied-upon regularities, and that is contract-like only if it governs deviation, conflict and breach and not only the ordinary course
+# TERM-tmplpplx: organizational contract
 
 ## Definition
 

@@ -3,7 +3,11 @@ number: 154
 status: Proposed
 formerly:
 - TERM-tmp7s2aa
-title: 'witness, to a specification: a realization exhibited that passes it, showing by example that what it admits is not empty; the existence half of a proof-relevant answer, apart from the evidence that it passes'
+title: 'witness'
+statement: >-
+  witness, to a specification: a realization exhibited that passes it,
+  showing by example that what it admits is not empty; the existence half of
+  a proof-relevant answer, apart from the evidence that it passes
 version: 1
 tags:
 - logic
@@ -35,7 +39,7 @@ draws_on:
 <!-- inactive-ok-file: LIT-tmp9cdlq THEORY-tmpqj2d4 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
 <!-- inactive-ok-file: TERM-153 TERM-152 TERM-134 CLAIM-949 — Proposed; the pair filed with this and the entries it is stated against -->
 
-# TERM-154: witness, to a specification: a realization exhibited that passes it, showing by example that what it admits is not empty; the existence half of a proof-relevant answer, apart from the evidence that it passes
+# TERM-154: witness
 
 ## Definition
 

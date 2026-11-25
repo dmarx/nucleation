@@ -3,7 +3,10 @@ number: 84
 status: Active
 formerly:
 - TERM-tmpoy9w4
-title: 'descent, and which sense: provenance, lineage, common ancestry or causal descent'
+title: 'descent'
+statement: >-
+  descent, and which sense: provenance, lineage, common ancestry or causal
+  descent
 version: 3
 history:
 - version: 2
@@ -38,7 +41,7 @@ summary: >-
   common descent directions). Adopted by the owner on 2026-10-27.
 ---
 
-# TERM-084: descent, and which sense: provenance, lineage, common ancestry or causal descent
+# TERM-084: descent
 
 ## Definition
 

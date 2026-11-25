@@ -3,7 +3,9 @@ number: 15
 status: Active
 formerly:
 - TERM-tmpct68m
-title: 'fidelity, as graded, directed transport distortion'
+title: 'fidelity (directed transport distortion)'
+statement: >-
+  fidelity, as graded, directed transport distortion
 version: 1
 tags:
 - philosophy-of-language
@@ -17,7 +19,7 @@ summary: >-
   fidelity (§6, §12).
 ---
 
-# TERM-015: fidelity, as graded, directed transport distortion
+# TERM-015: fidelity (directed transport distortion)
 
 ## Definition
 

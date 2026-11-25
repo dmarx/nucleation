@@ -3,7 +3,16 @@ number: 125
 status: Proposed
 formerly:
 - TERM-tmp91lqy
-title: 'independent execution gate, of a process: a step past which the process cannot continue unless a condition holds that its executor does not control (a person''s approval, an elapsed notice period, a check another party runs or a limit another party set), whether or not the step delays it; distinct from execution impedance (added time or cost) and from an intervention opportunity (a point at which another party can bring an objection that changes the process), and not settled as a sense of procedural friction'
+title: 'independent execution gate'
+statement: >-
+  independent execution gate, of a process: a step past which the process
+  cannot continue unless a condition holds that its executor does not
+  control (a person's approval, an elapsed notice period, a check another
+  party runs or a limit another party set), whether or not the step delays
+  it; distinct from execution impedance (added time or cost) and from an
+  intervention opportunity (a point at which another party can bring an
+  objection that changes the process), and not settled as a sense of
+  procedural friction
 version: 11
 history:
 - version: 2
@@ -87,7 +96,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1609 LIT-2660 — Deferred; Herd and Moynihan, unread -->
 <!-- inactive-ok-file: CLAIM-710 CLAIM-711 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 
-# TERM-125: independent execution gate, of a process: a step past which the process cannot continue unless a condition holds that its executor does not control (a person's approval, an elapsed notice period, a check another party runs or a limit another party set), whether or not the step delays it; distinct from execution impedance (added time or cost) and from an intervention opportunity (a point at which another party can bring an objection that changes the process), and not settled as a sense of procedural friction
+# TERM-125: independent execution gate
 
 ## The definition
 

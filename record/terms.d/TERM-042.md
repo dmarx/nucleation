@@ -3,7 +3,10 @@ number: 42
 status: Active
 formerly:
 - TERM-tmpgok7x
-title: 'communicative object, as a context-indexed system of empirical constraints over a cover'
+title: 'communicative object (constraint system)'
+statement: >-
+  communicative object, as a context-indexed system of empirical constraints
+  over a cover
 version: 3
 history:
 - version: 2
@@ -42,7 +45,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-037 — Proposed; cited for its note on which version of Contextuality-by-Default to cite -->
 <!-- inactive-ok-file: TERM-002 — Superseded; replaced by this entry, and cited as the history it corrects -->
 
-# TERM-042: communicative object, as a context-indexed system of empirical constraints over a cover
+# TERM-042: communicative object (constraint system)
 
 ## Definition
 

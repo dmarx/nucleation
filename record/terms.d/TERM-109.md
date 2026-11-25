@@ -3,7 +3,11 @@ number: 109
 status: Active
 formerly:
 - TERM-tmp5t7y8
-title: 'provisional commitment: the costly allocation of a capability to a possible future need before that need is established, under a policy that permits subsequent release or redirection'
+title: 'provisional commitment'
+statement: >-
+  provisional commitment: the costly allocation of a capability to a
+  possible future need before that need is established, under a policy that
+  permits subsequent release or redirection
 version: 2
 history:
 - version: 2
@@ -33,7 +37,7 @@ summary: >-
   owner's call.
 ---
 
-# TERM-109: provisional commitment: the costly allocation of a capability to a possible future need before that need is established, under a policy that permits subsequent release or redirection
+# TERM-109: provisional commitment
 
 ## Definition
 

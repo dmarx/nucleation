@@ -3,7 +3,15 @@ number: 76
 status: Proposed
 formerly:
 - TERM-tmp8gbrt
-title: 'goal-conduciveness valence, organizational: a regime in which the negotiation among a system''s perspectives has, approximately, a potential, an ordering of the system''s own states by their bearing on its maintenance along which the moves that win its conflicts are improvements, persisting and restored after interruption; signed by whether the system runs ahead of or behind a reference course along that potential, and as intense as the negotiation''s decisions follow it rather than any rival ordering'
+title: 'goal-conduciveness valence'
+statement: >-
+  goal-conduciveness valence, organizational: a regime in which the
+  negotiation among a system's perspectives has, approximately, a potential,
+  an ordering of the system's own states by their bearing on its maintenance
+  along which the moves that win its conflicts are improvements, persisting
+  and restored after interruption; signed by whether the system runs ahead
+  of or behind a reference course along that potential, and as intense as
+  the negotiation's decisions follow it rather than any rival ordering
 version: 5
 history:
 - version: 2
@@ -77,7 +85,7 @@ draws_on:
 <!-- inactive-ok-file: LIT-1437 — Unavailable, abstract only; Fontaine et al. 2007, cited for the dimension it names -->
 <!-- inactive-ok-file: LIT-1441 — Unavailable, unread; Carver and Scheier 1990, read through Carver 2018 (LIT-1449) -->
 
-# TERM-076: goal-conduciveness valence, organizational: a regime in which the negotiation among a system's perspectives has, approximately, a potential, an ordering of the system's own states by their bearing on its maintenance along which the moves that win its conflicts are improvements, persisting and restored after interruption; signed by whether the system runs ahead of or behind a reference course along that potential, and as intense as the negotiation's decisions follow it rather than any rival ordering
+# TERM-076: goal-conduciveness valence
 
 ## Definition
 

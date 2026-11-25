@@ -3,7 +3,9 @@ number: 33
 status: Active
 formerly:
 - TERM-tmpvpzy0
-title: 'fidelity, as observational equivalence over response trajectories'
+title: 'fidelity (observational equivalence)'
+statement: >-
+  fidelity, as observational equivalence over response trajectories
 version: 1
 tags:
 - philosophy-of-language
@@ -20,7 +22,7 @@ superseded_by:
 - TERM-015
 ---
 
-# TERM-033: fidelity, as observational equivalence over response trajectories
+# TERM-033: fidelity (observational equivalence)
 
 ## Definition
 

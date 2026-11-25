@@ -3,7 +3,13 @@ number: 120
 status: Proposed
 formerly:
 - TERM-tmpexetd
-title: 'value-constituting limit: a limit on what an agent can control in a person, practice or thing that is part of what makes the agent''s relation to it worth having, so that removing the limit destroys or diminishes that good; set apart from limits that produce deprivation, to be overcome, and limits that produce domination, to be contested'
+title: 'value-constituting limit'
+statement: >-
+  value-constituting limit: a limit on what an agent can control in a
+  person, practice or thing that is part of what makes the agent's relation
+  to it worth having, so that removing the limit destroys or diminishes that
+  good; set apart from limits that produce deprivation, to be overcome, and
+  limits that produce domination, to be contested
 version: 1
 tags:
 - well-being
@@ -30,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1866 CLAIM-680 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
-# TERM-120: value-constituting limit: a limit on what an agent can control in a person, practice or thing that is part of what makes the agent's relation to it worth having, so that removing the limit destroys or diminishes that good; set apart from limits that produce deprivation, to be overcome, and limits that produce domination, to be contested
+# TERM-120: value-constituting limit
 
 ## Definition
 

@@ -3,7 +3,14 @@ number: 116
 status: Proposed
 formerly:
 - TERM-tmpvb0eg
-title: 'relational profiles of a configuration, and which: incoming, the cost of producing it from each other configuration; outgoing, the cost of turning it into each; observational, what the tests affordable at a budget can tell it from, with the minimum distinguishing budget at a threshold; and maintenance, what preserves or regenerates its enabling constraints, which Yoneda does not supply'
+title: 'relational profiles'
+statement: >-
+  relational profiles of a configuration, and which: incoming, the cost of
+  producing it from each other configuration; outgoing, the cost of turning
+  it into each; observational, what the tests affordable at a budget can
+  tell it from, with the minimum distinguishing budget at a threshold; and
+  maintenance, what preserves or regenerates its enabling constraints, which
+  Yoneda does not supply
 version: 3
 history:
 - version: 2
@@ -47,7 +54,7 @@ draws_on:
 - THEORY-032
 ---
 
-# TERM-116: relational profiles of a configuration, and which: incoming, the cost of producing it from each other configuration; outgoing, the cost of turning it into each; observational, what the tests affordable at a budget can tell it from, with the minimum distinguishing budget at a threshold; and maintenance, what preserves or regenerates its enabling constraints, which Yoneda does not supply
+# TERM-116: relational profiles
 
 ## Definition
 

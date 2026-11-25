@@ -3,7 +3,14 @@ number: 65
 status: Active
 formerly:
 - TERM-tmpdxajb
-title: 'effective-description regime: the system, query family, intervention family, resource bounds, tolerance and horizon under which a candidate description''s adequacy is assessed, ℛ = (X, 𝒬, ℐ, ℬ, ε, τ), kept apart from the description T it evaluates, so that rival descriptions are compared under one regime and whether each is adequate, Adequate(T; ℛ), is settled once the regime is stated'
+title: 'effective-description regime'
+statement: >-
+  effective-description regime: the system, query family, intervention
+  family, resource bounds, tolerance and horizon under which a candidate
+  description's adequacy is assessed, ℛ = (X, 𝒬, ℐ, ℬ, ε, τ), kept apart
+  from the description T it evaluates, so that rival descriptions are
+  compared under one regime and whether each is adequate, Adequate(T; ℛ), is
+  settled once the regime is stated
 version: 5
 history:
 - version: 2
@@ -62,7 +69,7 @@ draws_on:
 - THEORY-847
 ---
 
-# TERM-065: effective-description regime: the system, query family, intervention family, resource bounds, tolerance and horizon under which a candidate description's adequacy is assessed, ℛ = (X, 𝒬, ℐ, ℬ, ε, τ), kept apart from the description T it evaluates, so that rival descriptions are compared under one regime and whether each is adequate, Adequate(T; ℛ), is settled once the regime is stated
+# TERM-065: effective-description regime
 
 ## Definition
 

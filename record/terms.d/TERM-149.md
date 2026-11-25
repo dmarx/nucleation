@@ -3,7 +3,13 @@ number: 149
 status: Proposed
 formerly:
 - TERM-tmpsu4df
-title: 'shared perspective, of a population, as against correlated responses and socially learned norms, evidential reading: members whose interpretive structures are alike, whose interpretive states depend on one another in both directions, and whose uptake of a member''s deviation depends on whether the population''s standard of evidence warrants it'
+title: 'shared perspective (evidential)'
+statement: >-
+  shared perspective, of a population, as against correlated responses and
+  socially learned norms, evidential reading: members whose interpretive
+  structures are alike, whose interpretive states depend on one another in
+  both directions, and whose uptake of a member's deviation depends on
+  whether the population's standard of evidence warrants it
 version: 1
 rivals:
 - TERM-148
@@ -32,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-417 — Proposed; its defeater is cited as the test this term must pass -->
 <!-- inactive-ok-file: THEORY-1800 TERM-119 TERM-126 — Proposed; cited for the measurement constraint and to mark what this term is not, nothing here rests on their adoption -->
 
-# TERM-149: shared perspective, of a population, as against correlated responses and socially learned norms, evidential reading: members whose interpretive structures are alike, whose interpretive states depend on one another in both directions, and whose uptake of a member's deviation depends on whether the population's standard of evidence warrants it
+# TERM-149: shared perspective (evidential)
 
 ## Why it is needed
 

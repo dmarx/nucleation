@@ -9,7 +9,15 @@ tags:
 date: '2026-11-24'
 line:
 - organizational-normativity
-title: 'measurement naivety: governing by a measure without an adequate account of how the measure relates to what it represents and of what using it to govern does; its forms are the inferences that what is measurable exhausts what matters, that predictive accuracy establishes evaluative adequacy, that improving an indicator improves its referent, that measuring leaves the measured unchanged, that local improvement is systemic improvement, and that choosing an objective makes it legitimate'
+title: 'measurement naivety'
+statement: >-
+  measurement naivety: governing by a measure without an adequate account of
+  how the measure relates to what it represents and of what using it to
+  govern does; its forms are the inferences that what is measurable exhausts
+  what matters, that predictive accuracy establishes evaluative adequacy,
+  that improving an indicator improves its referent, that measuring leaves
+  the measured unchanged, that local improvement is systemic improvement,
+  and that choosing an objective makes it legitimate
 summary: >-
   The owner's phrase at U29 of the exchange 'Memes, Contracts, and
   Systemic Normativity', coined as a term at the owner's word of
@@ -22,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-108 TERM-tmpxr1ox TERM-tmp72sq3 CLAIM-tmpvmd97 — Proposed; the entries holding the term's forms and its neighbours -->
 
-# TERM-tmpg31ao: measurement naivety: governing by a measure without an adequate account of how the measure relates to what it represents and of what using it to govern does; its forms are the inferences that what is measurable exhausts what matters, that predictive accuracy establishes evaluative adequacy, that improving an indicator improves its referent, that measuring leaves the measured unchanged, that local improvement is systemic improvement, and that choosing an objective makes it legitimate
+# TERM-tmpg31ao: measurement naivety
 
 ## Definition
 

@@ -5,7 +5,12 @@ formerly:
 - TERM-tmpk6w4q
 complements:
 - TERM-090
-title: 'relational vocabulary, of a class of descriptions: the arities and kinds of relation it can state (pairwise or higher-order, among states or among histories, of which declared types), and so which constraints are expressible in it at all'
+title: 'relational vocabulary'
+statement: >-
+  relational vocabulary, of a class of descriptions: the arities and kinds
+  of relation it can state (pairwise or higher-order, among states or among
+  histories, of which declared types), and so which constraints are
+  expressible in it at all
 version: 4
 history:
 - version: 2
@@ -53,7 +58,7 @@ draws_on:
 - THEORY-1090
 ---
 
-# TERM-091: relational vocabulary, of a class of descriptions: the arities and kinds of relation it can state (pairwise or higher-order, among states or among histories, of which declared types), and so which constraints are expressible in it at all
+# TERM-091: relational vocabulary
 
 ## Definition
 

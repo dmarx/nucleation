@@ -3,7 +3,13 @@ number: 163
 status: Proposed
 formerly:
 - TERM-tmpqixg8
-title: "adaptive inquiry readiness, of an institution for a declared family of future epistemic demands: the condition of meeting its current epistemic obligations while keeping admissible, affordable and sufficiently reliable pathways to investigate the relevant demands within their horizons; kept up through the institution's own activity, it is a viability condition"
+title: 'adaptive inquiry readiness'
+statement: >-
+  adaptive inquiry readiness, of an institution for a declared family of
+  future epistemic demands: the condition of meeting its current epistemic
+  obligations while keeping admissible, affordable and sufficiently reliable
+  pathways to investigate the relevant demands within their horizons; kept
+  up through the institution's own activity, it is a viability condition
 version: 1
 complements:
 - TERM-167
@@ -34,7 +40,7 @@ summary: >-
 
 <!-- inactive-ok-file: TERM-167 TERM-159 CLAIM-758 CLAIM-1054 CLAIM-1003 TERM-158 CLAIM-1042 — Proposed; the viability kernel, the bounds and joint relation filed with this, and the overconsolidation and trap claims A63 §8 restates -->
 
-# TERM-163: adaptive inquiry readiness, of an institution for a declared family of future epistemic demands: the condition of meeting its current epistemic obligations while keeping admissible, affordable and sufficiently reliable pathways to investigate the relevant demands within their horizons; kept up through the institution's own activity, it is a viability condition
+# TERM-163: adaptive inquiry readiness
 
 ## Definition
 

@@ -3,7 +3,10 @@ number: 74
 status: Active
 formerly:
 - TERM-tmpmy9oq
-title: 'organization, and which sense: relational arrangement, organizational maintenance, collective institution or organizational closure'
+title: 'organization'
+statement: >-
+  organization, and which sense: relational arrangement, organizational
+  maintenance, collective institution or organizational closure
 version: 3
 history:
 - version: 2
@@ -52,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-063 — Proposed; the rival criterion of agency, cited as open -->
 
-# TERM-074: organization, and which sense: relational arrangement, organizational maintenance, collective institution or organizational closure
+# TERM-074: organization
 
 ## Definition
 

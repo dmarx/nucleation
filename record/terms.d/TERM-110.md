@@ -3,7 +3,11 @@ number: 110
 status: Proposed
 formerly:
 - TERM-tmpbxjmx
-title: "ratchet effect, in the incentive sense: a principal that cannot commit to future terms revises them on what an agent's performance reveals, so the agent distorts its performance to avoid worse terms; not Muller's ratchet"
+title: 'ratchet effect'
+statement: >-
+  ratchet effect, in the incentive sense: a principal that cannot commit to
+  future terms revises them on what an agent's performance reveals, so the
+  agent distorts its performance to avoid worse terms; not Muller's ratchet
 version: 3
 history:
 - version: 2
@@ -43,7 +47,7 @@ draws_on:
 <!-- inactive-ok-file: THEORY-1371 CASE-173 — Proposed; an account and a case cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-200 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 
-# TERM-110: ratchet effect, in the incentive sense: a principal that cannot commit to future terms revises them on what an agent's performance reveals, so the agent distorts its performance to avoid worse terms; not Muller's ratchet
+# TERM-110: ratchet effect
 
 ## Definition
 

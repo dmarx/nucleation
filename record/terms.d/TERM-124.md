@@ -3,7 +3,13 @@ number: 124
 status: Proposed
 formerly:
 - TERM-tmpc9uv8
-title: "domination, of a party within an arrangement, relative to a declared standard of answerability: an agent's or role's capacity, used or not, to set or change the terms on which the party can act, exit, contest or renegotiate, where the capacity is not answerable to the party under a standard declared with the judgment"
+title: 'domination'
+statement: >-
+  domination, of a party within an arrangement, relative to a declared
+  standard of answerability: an agent's or role's capacity, used or not, to
+  set or change the terms on which the party can act, exit, contest or
+  renegotiate, where the capacity is not answerable to the party under a
+  standard declared with the judgment
 version: 3
 history:
 - version: 2
@@ -54,7 +60,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-545 CLAIM-624 CLAIM-603 CLAIM-671 CASE-256 TERM-083 — Proposed; the record's entries this term draws its wording from or sets beside, cited with their standing -->
 <!-- inactive-ok-file: LIT-1614 until 2027-02-13 — Unavailable; Pettit, the source CLAIM-545's clause follows, unread; ask again whether a lawful copy has appeared -->
 
-# TERM-124: domination, of a party within an arrangement, relative to a declared standard of answerability: an agent's or role's capacity, used or not, to set or change the terms on which the party can act, exit, contest or renegotiate, where the capacity is not answerable to the party under a standard declared with the judgment
+# TERM-124: domination
 
 ## Definition
 

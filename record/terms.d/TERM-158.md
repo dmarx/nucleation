@@ -3,7 +3,12 @@ number: 158
 status: Proposed
 formerly:
 - TERM-tmp9lu6c
-title: 'richness, of an ecosystem: the maintained plurality of differentiated, viable ways in which it can recognize possibilities, formulate demands and realize responses, in three dimensions that come apart, the representational, the functional and the developmental'
+title: 'richness'
+statement: >-
+  richness, of an ecosystem: the maintained plurality of differentiated,
+  viable ways in which it can recognize possibilities, formulate demands and
+  realize responses, in three dimensions that come apart, the
+  representational, the functional and the developmental
 version: 1
 tags:
 - ecology
@@ -28,7 +33,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1034 CLAIM-1038 CLAIM-754 CLAIM-1042 — Proposed or new; the thesis, the claim stated in this term, the frontiers its developmental dimension draws on, and the check of its coverage model -->
 
-# TERM-158: richness, of an ecosystem: the maintained plurality of differentiated, viable ways in which it can recognize possibilities, formulate demands and realize responses, in three dimensions that come apart, the representational, the functional and the developmental
+# TERM-158: richness
 
 ## Definition
 

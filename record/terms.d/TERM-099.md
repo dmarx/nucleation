@@ -3,7 +3,12 @@ number: 99
 status: Active
 formerly:
 - TERM-tmp8cp5q
-title: 'self-formation, of an agent: the production, by the agent''s own activity on a discrepancy it cannot yet resolve, of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones'
+title: 'self-formation'
+statement: >-
+  self-formation, of an agent: the production, by the agent's own activity
+  on a discrepancy it cannot yet resolve, of a maintained capacity, a new
+  distinction it can make legible or a new channel by which it can act, that
+  outlasts the discrepancy and serves a class of later ones
 version: 2
 history:
 - version: 2
@@ -44,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1985 — Proposed, Open, Deferred or new; cited as open -->
 <!-- inactive-ok-file: THEORY-1746 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# TERM-099: self-formation, of an agent: the production, by the agent's own activity on a discrepancy it cannot yet resolve, of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones
+# TERM-099: self-formation
 
 ## Definition
 

@@ -3,7 +3,9 @@ number: 2
 status: Superseded
 formerly:
 - TERM-tmp1afp0
-title: 'communicative object, as a compatible family of local sections'
+title: 'communicative object (local sections)'
+statement: >-
+  communicative object, as a compatible family of local sections
 version: 1
 tags:
 - contextuality
@@ -20,7 +22,7 @@ superseded_by:
 ---
 <!-- inactive-ok-file: TERM-022 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# TERM-002: communicative object, as a compatible family of local sections
+# TERM-002: communicative object (local sections)
 
 ## Definition
 

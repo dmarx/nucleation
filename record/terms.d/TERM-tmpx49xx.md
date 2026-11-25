@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'feed: a view, with a memory, over data; a rule that selects, organizes and presents objects from an underlying collection, together with a history of what it contained and why, so that a hyperarticle, an editor''s record and a journal are each a feed over different data'
+title: 'feed'
+statement: >-
+  feed: a view, with a memory, over data; a rule that selects, organizes and
+  presents objects from an underlying collection, together with a history of
+  what it contained and why, so that a hyperarticle, an editor's record and
+  a journal are each a feed over different data
 version: 2
 history:
 - version: 2
@@ -32,7 +37,7 @@ summary: >-
 
 <!-- inactive-ok-file: TERM-tmpjn06u CLAIM-tmpzsuh2 CLAIM-tmpmq8lk CLAIM-tmptn64c — Proposed; the hyperarticle, the owner's journal, and A's and the assistant's claims on the memory -->
 
-# TERM-tmpx49xx: feed: a view, with a memory, over data; a rule that selects, organizes and presents objects from an underlying collection, together with a history of what it contained and why, so that a hyperarticle, an editor's record and a journal are each a feed over different data
+# TERM-tmpx49xx: feed
 
 ## The definition
 

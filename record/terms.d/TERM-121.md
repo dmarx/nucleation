@@ -3,7 +3,13 @@ number: 121
 status: Proposed
 formerly:
 - TERM-tmplqaer
-title: 'cultural reflexivity: the capacity, held by no single organization, of the many organizations that share a perspective to recognize, contest and revise the frameworks of that perspective through which their purposes are understood, as distinct from correcting violations of standards the perspective leaves unquestioned'
+title: 'cultural reflexivity'
+statement: >-
+  cultural reflexivity: the capacity, held by no single organization, of the
+  many organizations that share a perspective to recognize, contest and
+  revise the frameworks of that perspective through which their purposes are
+  understood, as distinct from correcting violations of standards the
+  perspective leaves unquestioned
 version: 2
 history:
 - version: 2
@@ -37,7 +43,7 @@ summary: >-
   The wording is A's; adopting it is the owner's call.
 ---
 
-# TERM-121: cultural reflexivity: the capacity, held by no single organization, of the many organizations that share a perspective to recognize, contest and revise the frameworks of that perspective through which their purposes are understood, as distinct from correcting violations of standards the perspective leaves unquestioned
+# TERM-121: cultural reflexivity
 
 ## Definition
 

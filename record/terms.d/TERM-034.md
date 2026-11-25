@@ -3,7 +3,10 @@ number: 34
 status: Active
 formerly:
 - TERM-tmpw9ewa
-title: 'fidelity, as selective preservation of decision-relevant observational information under a communication constraint, relative to an interpreter'
+title: 'fidelity (decision-relevant information)'
+statement: >-
+  fidelity, as selective preservation of decision-relevant observational
+  information under a communication constraint, relative to an interpreter
 version: 1
 tags:
 - information-theory
@@ -20,7 +23,7 @@ complements:
 - TERM-097
 ---
 
-# TERM-034: fidelity, as selective preservation of decision-relevant observational information under a communication constraint, relative to an interpreter
+# TERM-034: fidelity (decision-relevant information)
 
 ## Definition
 

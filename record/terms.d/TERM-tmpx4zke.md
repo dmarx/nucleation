@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'constitutional regeneration, of an organization: its capacity to maintain valuable constitutive relationships through changes in the processes that realize them, while remaining answerable to justified claims concerning those relationships'
+title: 'constitutional regeneration'
+statement: >-
+  constitutional regeneration, of an organization: its capacity to maintain
+  valuable constitutive relationships through changes in the processes that
+  realize them, while remaining answerable to justified claims concerning
+  those relationships
 version: 1
 complements:
 - TERM-163
@@ -27,7 +32,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-417 CLAIM-624 CLAIM-tmpa8tdg LIT-tmpus6zs TERM-128 TERM-163 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# TERM-tmpx4zke: constitutional regeneration, of an organization: its capacity to maintain valuable constitutive relationships through changes in the processes that realize them, while remaining answerable to justified claims concerning those relationships
+# TERM-tmpx4zke: constitutional regeneration
 
 ## Definition
 

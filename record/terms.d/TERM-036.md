@@ -3,7 +3,10 @@ number: 36
 status: Active
 formerly:
 - TERM-tmpy2t4f
-title: 'fidelity, as preservation of selected observables and structural symmetries'
+title: 'fidelity (selected observables)'
+statement: >-
+  fidelity, as preservation of selected observables and structural
+  symmetries
 version: 1
 tags:
 - philosophy-of-language
@@ -18,7 +21,7 @@ summary: >-
   §6 functional rather than in it.
 ---
 
-# TERM-036: fidelity, as preservation of selected observables and structural symmetries
+# TERM-036: fidelity (selected observables)
 
 ## Definition
 

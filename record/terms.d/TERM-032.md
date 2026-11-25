@@ -3,7 +3,9 @@ number: 32
 status: Superseded
 formerly:
 - TERM-tmpujaye
-title: 'levels, as a hierarchy of latent representations'
+title: 'levels (latent hierarchy)'
+statement: >-
+  levels, as a hierarchy of latent representations
 version: 1
 tags:
 - philosophy-of-language
@@ -19,7 +21,7 @@ summary: >-
   Replaced at U28 by levels of observables.
 ---
 
-# TERM-032: levels, as a hierarchy of latent representations
+# TERM-032: levels (latent hierarchy)
 
 ## Definition
 

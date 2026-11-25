@@ -3,7 +3,11 @@ number: 108
 status: Proposed
 formerly:
 - TERM-tmp4gc9h
-title: 'proxy objective, in an allocation model: an operational measure optimized in place of the outcome it stands for, whose optimum can differ from the outcome''s with no reaction of the measured to the measure'
+title: 'proxy objective'
+statement: >-
+  proxy objective, in an allocation model: an operational measure optimized
+  in place of the outcome it stands for, whose optimum can differ from the
+  outcome's with no reaction of the measured to the measure
 version: 2
 history:
 - version: 2
@@ -36,7 +40,7 @@ draws_on:
 <!-- inactive-ok-file: THEORY-1384 TERM-110 — Proposed; Erkut and colleagues' account and the ratchet term of the same filing, cited as filed -->
 <!-- inactive-ok-file: THEORY-1775 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# TERM-108: proxy objective, in an allocation model: an operational measure optimized in place of the outcome it stands for, whose optimum can differ from the outcome's with no reaction of the measured to the measure
+# TERM-108: proxy objective
 
 ## Definition
 

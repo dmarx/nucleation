@@ -3,7 +3,12 @@ number: 152
 status: Proposed
 formerly:
 - TERM-tmp94y6v
-title: 'specification: a set of tests that fixes which realizations count as admissible, the realizations being whatever passes them all; partial when it leaves differences that would matter undecided, and stored when it outlasts the inquiry or design that set it and constrains what follows'
+title: 'specification'
+statement: >-
+  specification: a set of tests that fixes which realizations count as
+  admissible, the realizations being whatever passes them all; partial when
+  it leaves differences that would matter undecided, and stored when it
+  outlasts the inquiry or design that set it and constrains what follows
 version: 1
 tags:
 - epistemology
@@ -31,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmptsz1u — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: TERM-151 TERM-134 CLAIM-477 CLAIM-783 CLAIM-942 SYNTHESIS-114 — Proposed; the term filed with this, and the entries it is stated against -->
 
-# TERM-152: specification: a set of tests that fixes which realizations count as admissible, the realizations being whatever passes them all; partial when it leaves differences that would matter undecided, and stored when it outlasts the inquiry or design that set it and constrains what follows
+# TERM-152: specification
 
 ## Definition
 

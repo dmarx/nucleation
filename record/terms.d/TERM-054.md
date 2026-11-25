@@ -3,7 +3,11 @@ number: 54
 status: Active
 formerly:
 - TERM-tmpzxb0m
-title: 'canvas temperature: the rate and spatial spread of placements that follow no coalition''s plan, modelled as a stochastic field on the canvas rather than as agents'
+title: 'canvas temperature'
+statement: >-
+  canvas temperature: the rate and spatial spread of placements that follow
+  no coalition's plan, modelled as a stochastic field on the canvas rather
+  than as agents
 version: 2
 history:
 - version: 2
@@ -29,7 +33,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: CLAIM-274 — Proposed; claims and readings cited as open -->
 
-# TERM-054: canvas temperature: the rate and spatial spread of placements that follow no coalition's plan, modelled as a stochastic field on the canvas rather than as agents
+# TERM-054: canvas temperature
 
 ## Definition
 

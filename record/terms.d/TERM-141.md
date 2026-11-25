@@ -3,7 +3,11 @@ number: 141
 status: Proposed
 formerly:
 - TERM-tmpxml4k
-title: 'predictive information, or excess entropy, of a process: the mutual information between a block of its past and the adjoining block of its future, read as a function of block length'
+title: 'predictive information'
+statement: >-
+  predictive information, or excess entropy, of a process: the mutual
+  information between a block of its past and the adjoining block of its
+  future, read as a function of block length
 version: 2
 history:
 - version: 2
@@ -55,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-849 — filed with this term from the same exchange, Proposed -->
 <!-- inactive-ok-file: ARG-152 CLAIM-805 THEORY-2151 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-# TERM-141: predictive information, or excess entropy, of a process: the mutual information between a block of its past and the adjoining block of its future, read as a function of block length
+# TERM-141: predictive information
 
 ## Definition
 

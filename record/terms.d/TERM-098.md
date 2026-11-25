@@ -6,7 +6,14 @@ formerly:
 complements:
 - TERM-088
 - TERM-040
-title: 'concept, as realized by an organization: a reusable, systematically consequential pattern of distinctions, applicable across a stated range of contexts with inferential or operational consequences; distinct from the feature or representation that carries it, from the organization that realizes it, and from what it is about, and distinct from conceptual corrigibility, the further capacity to find and revise its inadequacies'
+title: 'concept'
+statement: >-
+  concept, as realized by an organization: a reusable, systematically
+  consequential pattern of distinctions, applicable across a stated range of
+  contexts with inferential or operational consequences; distinct from the
+  feature or representation that carries it, from the organization that
+  realizes it, and from what it is about, and distinct from conceptual
+  corrigibility, the further capacity to find and revise its inadequacies
 version: 3
 history:
 - version: 1
@@ -55,7 +62,7 @@ draws_on:
 <!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1746 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# TERM-098: concept, as realized by an organization: a reusable, systematically consequential pattern of distinctions, applicable across a stated range of contexts with inferential or operational consequences; distinct from the feature or representation that carries it, from the organization that realizes it, and from what it is about, and distinct from conceptual corrigibility, the further capacity to find and revise its inadequacies
+# TERM-098: concept
 
 ## Definition
 

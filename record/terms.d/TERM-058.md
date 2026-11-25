@@ -3,7 +3,12 @@ number: 58
 status: Active
 formerly:
 - TERM-tmpq0ms2
-title: 'Granger causality: the past of one series improving the prediction of another''s next value beyond the past of everything else in a stated information set, a predictive relation relative to that set and its lags, and not by itself the effect of an intervention'
+title: 'Granger causality'
+statement: >-
+  Granger causality: the past of one series improving the prediction of
+  another's next value beyond the past of everything else in a stated
+  information set, a predictive relation relative to that set and its lags,
+  and not by itself the effect of an intervention
 version: 2
 history:
 - version: 2
@@ -37,7 +42,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: THEORY-2187 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# TERM-058: Granger causality: the past of one series improving the prediction of another's next value beyond the past of everything else in a stated information set, a predictive relation relative to that set and its lags, and not by itself the effect of an intervention
+# TERM-058: Granger causality
 
 ## Definition
 

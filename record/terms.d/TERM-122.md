@@ -3,7 +3,14 @@ number: 122
 status: Proposed
 formerly:
 - TERM-tmpt8p9e
-title: 'cross-scale concordance, relative to declared parties, claims and horizon: of an encompassing organization''s operation and development with the independently justified claims of those who constitute, sustain, depend on or are affected by it, together with the effective answerability of its governing arrangements to those claims; not alignment, harmony or Pareto improvement'
+title: 'cross-scale concordance (relative)'
+statement: >-
+  cross-scale concordance, relative to declared parties, claims and horizon:
+  of an encompassing organization's operation and development with the
+  independently justified claims of those who constitute, sustain, depend on
+  or are affected by it, together with the effective answerability of its
+  governing arrangements to those claims; not alignment, harmony or Pareto
+  improvement
 version: 2
 history:
 - version: 2
@@ -47,7 +54,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-012 TERM-006 — Deferred; the term this one rivals and the term that absorbed it, set aside with the authenticity line -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-511 SYNTHESIS-023 — Proposed; the record's nearest entries, cited with their standing -->
 
-# TERM-122: cross-scale concordance, relative to declared parties, claims and horizon: of an encompassing organization's operation and development with the independently justified claims of those who constitute, sustain, depend on or are affected by it, together with the effective answerability of its governing arrangements to those claims; not alignment, harmony or Pareto improvement
+# TERM-122: cross-scale concordance (relative)
 
 ## Definition
 

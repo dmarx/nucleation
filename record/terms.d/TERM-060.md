@@ -3,7 +3,11 @@ number: 60
 status: Active
 formerly:
 - TERM-tmp9lmlt
-title: 'frustration, of an organization''s demands: the failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance'
+title: 'frustration'
+statement: >-
+  frustration, of an organization's demands: the failure of the demands it
+  maintains to be jointly realizable under its admissible transformations
+  and its governance
 version: 4
 history:
 - version: 2
@@ -52,7 +56,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-147 CLAIM-187 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited in the note of 2026-10-21, nothing here rests on it -->
 
-# TERM-060: frustration, of an organization's demands: the failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance
+# TERM-060: frustration
 
 ## Definition
 

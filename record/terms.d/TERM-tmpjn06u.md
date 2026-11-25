@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'hyperarticle: a living, versioned body of a work''s claims, evidence, methods, objections and revisions, each addressable and attributed and linked by typed relations, of which a conventional article is one view; not a paper with more hyperlinks, and not a document that is simply kept editable'
+title: 'hyperarticle'
+statement: >-
+  hyperarticle: a living, versioned body of a work's claims, evidence,
+  methods, objections and revisions, each addressable and attributed and
+  linked by typed relations, of which a conventional article is one view;
+  not a paper with more hyperlinks, and not a document that is simply kept
+  editable
 version: 2
 history:
 - version: 2
@@ -32,7 +38,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-178 CLAIM-182 ADR-143 CLAIM-tmpjf44i TERM-tmpx49xx — Proposed; the claim the term names the object of, the claim on addressability, the manuscript protocol, the owner's thesis stated in it, the nearest reading, and the owner's feed -->
 
-# TERM-tmpjn06u: hyperarticle: a living, versioned body of a work's claims, evidence, methods, objections and revisions, each addressable and attributed and linked by typed relations, of which a conventional article is one view; not a paper with more hyperlinks, and not a document that is simply kept editable
+# TERM-tmpjn06u: hyperarticle
 
 ## The definition
 

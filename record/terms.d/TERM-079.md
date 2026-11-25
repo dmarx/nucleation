@@ -3,7 +3,15 @@ number: 79
 status: Proposed
 formerly:
 - TERM-tmp8gcbf
-title: 'belief, of a process: a maintained, truth-directed inferential commitment, held to the degree that the process uses a proposition as a premise in interpreting observations, generating expectations and evaluating counterfactuals across the contexts it bears on, together with the profile by which that commitment is revised; distinct from entertaining an interpretation, from asserting it, and from granting it authority over action'
+title: 'belief'
+statement: >-
+  belief, of a process: a maintained, truth-directed inferential commitment,
+  held to the degree that the process uses a proposition as a premise in
+  interpreting observations, generating expectations and evaluating
+  counterfactuals across the contexts it bears on, together with the profile
+  by which that commitment is revised; distinct from entertaining an
+  interpretation, from asserting it, and from granting it authority over
+  action
 version: 2
 history:
 - version: 2
@@ -36,7 +44,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: THEORY-536 THEORY-538 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 
-# TERM-079: belief, of a process: a maintained, truth-directed inferential commitment, held to the degree that the process uses a proposition as a premise in interpreting observations, generating expectations and evaluating counterfactuals across the contexts it bears on, together with the profile by which that commitment is revised; distinct from entertaining an interpretation, from asserting it, and from granting it authority over action
+# TERM-079: belief
 
 ## Definition
 

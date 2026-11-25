@@ -3,11 +3,14 @@ number: 167
 status: Proposed
 formerly:
 - TERM-tmpz28l1
-title: 'viability kernel of reorganization readiness, of an organization for
-  a declared family of contingencies, budget and deadline: the states from
+title: 'reorganization viability kernel'
+statement: >-
+  viability kernel of reorganization readiness, of an organization for a
+  declared family of contingencies, budget and deadline: the states from
   which it can keep operating within its core requirements while preserving,
-  at every moment, an affordable route that stays within transition safeguards
-  to some viable alternative organization after any declared contingency'
+  at every moment, an affordable route that stays within transition
+  safeguards to some viable alternative organization after any declared
+  contingency
 version: 1
 tags:
 - society-and-governance
@@ -28,7 +31,7 @@ summary: A36 of the exchange "Explain First Contact RL" (ChatGPT, second share
 
 <!-- inactive-ok-file: CLAIM-916 — Proposed; cited in this filing of 2026-11-22 (second share) -->
 
-# TERM-167: viability kernel of reorganization readiness, of an organization for a declared family of contingencies, budget and deadline: the states from which it can keep operating within its core requirements while preserving, at every moment, an affordable route that stays within transition safeguards to some viable alternative organization after any declared contingency
+# TERM-167: reorganization viability kernel
 
 ## Definition (A36)
 

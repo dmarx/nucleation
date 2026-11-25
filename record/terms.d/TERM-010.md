@@ -3,7 +3,9 @@ number: 10
 status: Active
 formerly:
 - TERM-tmp9qq3b
-title: 'fidelity, as a weighted three-term directed distortion'
+title: 'fidelity (three-term distortion)'
+statement: >-
+  fidelity, as a weighted three-term directed distortion
 version: 1
 tags:
 - philosophy-of-language
@@ -20,7 +22,7 @@ refines:
 - TERM-043
 ---
 
-# TERM-010: fidelity, as a weighted three-term directed distortion
+# TERM-010: fidelity (three-term distortion)
 
 ## Definition
 

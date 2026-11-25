@@ -3,7 +3,15 @@ number: 165
 status: Active
 formerly:
 - TERM-tmpwc4la
-title: 'dispositional address, of a perspective under a declared probe family: the map from each admissible probe or intervention q to the law of the observed response, q ↦ P(Y | p, do(q)), taken up to observational equivalence under that family, so that a perspective is located by what it is disposed to do under the tests run and not by a label or a reconstruction of its goals; relative to the family, and so to the budget that affords it'
+title: 'dispositional address'
+statement: >-
+  dispositional address, of a perspective under a declared probe family: the
+  map from each admissible probe or intervention q to the law of the
+  observed response, q ↦ P(Y | p, do(q)), taken up to observational
+  equivalence under that family, so that a perspective is located by what it
+  is disposed to do under the tests run and not by a label or a
+  reconstruction of its goals; relative to the family, and so to the budget
+  that affords it
 version: 2
 history:
 - version: 1
@@ -58,7 +66,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-118 TERM-116 CLAIM-052 — Proposed entries this definition is assembled from or sits beside, cited 2026-11-22 -->
 
-# TERM-165: dispositional address, of a perspective under a declared probe family: the map from each admissible probe or intervention q to the law of the observed response, q ↦ P(Y | p, do(q)), taken up to observational equivalence under that family, so that a perspective is located by what it is disposed to do under the tests run and not by a label or a reconstruction of its goals; relative to the family, and so to the budget that affords it
+# TERM-165: dispositional address
 
 ## Definition
 

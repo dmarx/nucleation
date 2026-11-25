@@ -3,7 +3,13 @@ number: 138
 status: Proposed
 formerly:
 - TERM-tmpol232
-title: "separation, in three senses that come apart: of scales or levels, when a gap in rates, sizes or coupling lets a coarser description close over a window; of classes, when an observer or readout under its budget can tell two states or populations apart; and spectral, when an outlier eigenvalue detaches from a noise bulk"
+title: 'separation'
+statement: >-
+  separation, in three senses that come apart: of scales or levels, when a
+  gap in rates, sizes or coupling lets a coarser description close over a
+  window; of classes, when an observer or readout under its budget can tell
+  two states or populations apart; and spectral, when an outlier eigenvalue
+  detaches from a noise bulk
 version: 1
 tags:
 - complex-systems
@@ -37,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-819 CLAIM-478 CLAIM-829 CLAIM-845 CLAIM-840 CLAIM-826 ARG-125 CLAIM-157 SYNTHESIS-054 SYNTHESIS-048 SYNTHESIS-109 SYNTHESIS-083 CLAIM-799 CLAIM-827 CLAIM-837 CASE-301 CASE-305 SYNTHESIS-119 SYNTHESIS-120 — Proposed or new; the entries each sense points to -->
 <!-- inactive-ok-file: CLAIM-1196 CLAIM-1174 — new; filed from the owner's U6 of 2026-11-22, cited in the note of that date -->
 
-# TERM-138: separation, in three senses that come apart: of scales or levels, when a gap in rates, sizes or coupling lets a coarser description close over a window; of classes, when an observer or readout under its budget can tell two states or populations apart; and spectral, when an outlier eigenvalue detaches from a noise bulk
+# TERM-138: separation
 
 ## Definition
 

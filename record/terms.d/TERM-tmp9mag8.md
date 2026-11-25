@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'agnotological character, of a perspective: a candidate invariant profile of its organized epistemic limitations, read from its responses to probes as the legibility, epistemic standing, practical efficacy and revisability it gives a distinction; not a group character'
+title: 'agnotological character'
+statement: >-
+  agnotological character, of a perspective: a candidate invariant profile
+  of its organized epistemic limitations, read from its responses to probes
+  as the legibility, epistemic standing, practical efficacy and revisability
+  it gives a distinction; not a group character
 version: 1
 complements:
 - TERM-tmpet5z8
@@ -26,7 +31,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-619 CLAIM-624 CLAIM-657 CLAIM-tmpjlxfy CLAIM-1140 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
-# TERM-tmp9mag8: agnotological character, of a perspective: a candidate invariant profile of its organized epistemic limitations, read from its responses to probes as the legibility, epistemic standing, practical efficacy and revisability it gives a distinction; not a group character
+# TERM-tmp9mag8: agnotological character
 
 ## Definition
 

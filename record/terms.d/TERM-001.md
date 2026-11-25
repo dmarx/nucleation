@@ -3,7 +3,9 @@ number: 1
 status: Superseded
 formerly:
 - TERM-tmp190ai
-title: 'fidelity, as the number of preserved constraints'
+title: 'fidelity (preserved constraints)'
+statement: >-
+  fidelity, as the number of preserved constraints
 version: 1
 tags:
 - philosophy-of-language
@@ -21,7 +23,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-020 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: TERM-013 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# TERM-001: fidelity, as the number of preserved constraints
+# TERM-001: fidelity (preserved constraints)
 
 ## Definition
 

@@ -12,7 +12,14 @@ date: '2026-11-24'
 line:
 - organizational-normativity
 - will-organization
-title: "greedy agency: agency that pursues the improvements its own evaluation rewards without due account of what they do beyond it; temporally greedy when it discounts the developmental consequences of immediate gains, jurisdictionally greedy when it gives no authority to the demands and standing of other affected processes, which no length of planning horizon cures"
+title: 'greedy agency'
+statement: >-
+  greedy agency: agency that pursues the improvements its own evaluation
+  rewards without due account of what they do beyond it; temporally greedy
+  when it discounts the developmental consequences of immediate gains,
+  jurisdictionally greedy when it gives no authority to the demands and
+  standing of other affected processes, which no length of planning horizon
+  cures
 summary: >-
   The owner's phrase at U29 of the exchange "Memes, Contracts, and Systemic
   Normativity" (2026-11-24), "greedy agency", with A46 §2's two senses; A48 §9
@@ -27,7 +34,7 @@ summary: >-
 
 <!-- inactive-ok-file: TERM-122 TERM-108 CLAIM-tmpa61rf CLAIM-tmpjnly0 LIT-tmpo2igd — Proposed or Deferred; the neighbouring terms, the claims that use it and Jensen, unread -->
 
-# TERM-tmpxr1ox: greedy agency: agency that pursues the improvements its own evaluation rewards without due account of what they do beyond it; temporally greedy when it discounts the developmental consequences of immediate gains, jurisdictionally greedy when it gives no authority to the demands and standing of other affected processes, which no length of planning horizon cures
+# TERM-tmpxr1ox: greedy agency
 
 ## Definition
 

@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: "operational standing, of a process under an organizational arrangement: its maintained eligibility to have specified claims upon another process's activity, or upon their shared governance, become consequential; distinct from the claim it asserts, the authority it effectively exercises and moral standing, and not reducible to its priority"
+title: 'operational standing'
+statement: >-
+  operational standing, of a process under an organizational arrangement:
+  its maintained eligibility to have specified claims upon another process's
+  activity, or upon their shared governance, become consequential; distinct
+  from the claim it asserts, the authority it effectively exercises and
+  moral standing, and not reducible to its priority
 version: 1
 complements:
 - TERM-083
@@ -25,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-723 CLAIM-739 CLAIM-tmp2kfwd CLAIM-tmp7hqtl CLAIM-tmpkvzcn TERM-083 — Proposed; cited as filed or held beside this entry, whatever its standing -->
 
-# TERM-tmpgiy6r: operational standing, of a process under an organizational arrangement: its maintained eligibility to have specified claims upon another process's activity, or upon their shared governance, become consequential; distinct from the claim it asserts, the authority it effectively exercises and moral standing, and not reducible to its priority
+# TERM-tmpgiy6r: operational standing
 
 ## Definition
 

@@ -5,7 +5,11 @@ formerly:
 - TERM-tmp3p5ss
 rivals:
 - TERM-044
-title: 'agent, as an individual that is the active source of modulations of its coupling with its environment and regulates them against norms its own organization sets (Barandiaran, Di Paolo and Rohde)'
+title: 'agent (Barandiaran et al.)'
+statement: >-
+  agent, as an individual that is the active source of modulations of its
+  coupling with its environment and regulates them against norms its own
+  organization sets (Barandiaran, Di Paolo and Rohde)
 version: 3
 history:
 - version: 2
@@ -47,7 +51,7 @@ draws_on:
 <!-- inactive-ok-file: THEORY-071 THEORY-583 — Proposed; the reading this definition is taken from and a rival account of the self, cited as open -->
 <!-- inactive-ok-file: CLAIM-174 CLAIM-367 — Proposed; the test TERM-044 is defined by and the claims behind the differing verdicts, open -->
 
-# TERM-063: agent, as an individual that is the active source of modulations of its coupling with its environment and regulates them against norms its own organization sets (Barandiaran, Di Paolo and Rohde)
+# TERM-063: agent (Barandiaran et al.)
 
 ## Definition
 

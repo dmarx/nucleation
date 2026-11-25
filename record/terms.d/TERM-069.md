@@ -3,7 +3,13 @@ number: 69
 status: Active
 formerly:
 - TERM-tmple6rq
-title: 'observational equivalence, under a probe family: two models, states or distributions agreeing on the outcome law of every probe in a declared admissible family; coarser than identity unless the family is rich enough, and, when probes are run one at a time, weaker on their marginals than on the joint law across them'
+title: 'observational equivalence'
+statement: >-
+  observational equivalence, under a probe family: two models, states or
+  distributions agreeing on the outcome law of every probe in a declared
+  admissible family; coarser than identity unless the family is rich enough,
+  and, when probes are run one at a time, weaker on their marginals than on
+  the joint law across them
 version: 4
 history:
 - version: 2
@@ -47,7 +53,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-142 — Proposed; the evidential reading of probe agreement, cited as open -->
 
-# TERM-069: observational equivalence, under a probe family: two models, states or distributions agreeing on the outcome law of every probe in a declared admissible family; coarser than identity unless the family is rich enough, and, when probes are run one at a time, weaker on their marginals than on the joint law across them
+# TERM-069: observational equivalence
 
 ## Definition
 

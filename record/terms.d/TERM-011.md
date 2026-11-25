@@ -3,7 +3,9 @@ number: 11
 status: Active
 formerly:
 - TERM-tmpa0fi1
-title: 'frame, as inferred from evidence'
+title: 'frame (inferred from evidence)'
+statement: >-
+  frame, as inferred from evidence
 version: 1
 tags:
 - philosophy-of-language
@@ -17,7 +19,7 @@ summary: >-
   three operations A45 said "should not be conflated".
 ---
 
-# TERM-011: frame, as inferred from evidence
+# TERM-011: frame (inferred from evidence)
 
 ## Definition
 

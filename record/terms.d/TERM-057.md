@@ -3,7 +3,13 @@ number: 57
 status: Active
 formerly:
 - TERM-tmpj9z04
-title: 'transfer entropy: how much the last l values of a source reduce uncertainty about a target''s next value beyond the target''s own last k values, I(X_{t+1}; Y_t^{(l)} | X_t^{(k)}), a directed predictive quantity that depends on k, l and any conditioning series, not a measure of information flow and not an intervention effect'
+title: 'transfer entropy'
+statement: >-
+  transfer entropy: how much the last l values of a source reduce
+  uncertainty about a target's next value beyond the target's own last k
+  values, I(X_{t+1}; Y_t^{(l)} | X_t^{(k)}), a directed predictive quantity
+  that depends on k, l and any conditioning series, not a measure of
+  information flow and not an intervention effect
 version: 3
 history:
 - version: 2
@@ -55,7 +61,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: THEORY-2187 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# TERM-057: transfer entropy: how much the last l values of a source reduce uncertainty about a target's next value beyond the target's own last k values, I(X_{t+1}; Y_t^{(l)} | X_t^{(k)}), a directed predictive quantity that depends on k, l and any conditioning series, not a measure of information flow and not an intervention effect
+# TERM-057: transfer entropy
 
 ## Definition
 

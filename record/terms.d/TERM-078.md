@@ -3,7 +3,16 @@ number: 78
 status: Active
 formerly:
 - TERM-tmpuilar
-title: 'persistent potential: an ordinal potential of a negotiation that is the same, up to its class, across successive windows of time, that decides the conflicts it bears on (priority), and towards which the dynamics climb again after a perturbation (resumption); exact when no move outside a perturbation descends it, and then a Lyapunov function of the one-move-at-a-time dynamics, and approximate when some do, and then no Lyapunov function, short of a drift condition that needs a cardinal potential and further assumptions'
+title: 'persistent potential'
+statement: >-
+  persistent potential: an ordinal potential of a negotiation that is the
+  same, up to its class, across successive windows of time, that decides the
+  conflicts it bears on (priority), and towards which the dynamics climb
+  again after a perturbation (resumption); exact when no move outside a
+  perturbation descends it, and then a Lyapunov function of the
+  one-move-at-a-time dynamics, and approximate when some do, and then no
+  Lyapunov function, short of a drift condition that needs a cardinal
+  potential and further assumptions
 version: 4
 history:
 - version: 2
@@ -52,7 +61,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: THEORY-055 — Proposed; readings this term draws on, and the decision its history note of 2026-11-12 applies -->
 
-# TERM-078: persistent potential: an ordinal potential of a negotiation that is the same, up to its class, across successive windows of time, that decides the conflicts it bears on (priority), and towards which the dynamics climb again after a perturbation (resumption); exact when no move outside a perturbation descends it, and then a Lyapunov function of the one-move-at-a-time dynamics, and approximate when some do, and then no Lyapunov function, short of a drift condition that needs a cardinal potential and further assumptions
+# TERM-078: persistent potential
 
 ## Definition
 

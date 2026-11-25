@@ -3,7 +3,9 @@ number: 38
 status: Active
 formerly:
 - TERM-tmp4ztih
-title: 'descriptive, causal and constitutive relations of a communicative act'
+title: 'relations of a communicative act'
+statement: >-
+  descriptive, causal and constitutive relations of a communicative act
 version: 1
 tags:
 - philosophy-of-science
@@ -18,7 +20,7 @@ summary: >-
   of identification. None of the three entails the next.
 ---
 
-# TERM-038: descriptive, causal and constitutive relations of a communicative act
+# TERM-038: relations of a communicative act
 
 ## Definition
 

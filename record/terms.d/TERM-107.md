@@ -3,7 +3,11 @@ number: 107
 status: Proposed
 formerly:
 - TERM-tmp46hcg
-title: 'organizational slack: resources an organization holds beyond what its current output requires, some useful and some wasteful, which the output alone does not tell apart'
+title: 'organizational slack'
+statement: >-
+  organizational slack: resources an organization holds beyond what its
+  current output requires, some useful and some wasteful, which the output
+  alone does not tell apart
 version: 3
 history:
 - version: 2
@@ -49,7 +53,7 @@ draws_on:
 <!-- inactive-ok-file: THEORY-1421 — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-200 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 
-# TERM-107: organizational slack: resources an organization holds beyond what its current output requires, some useful and some wasteful, which the output alone does not tell apart
+# TERM-107: organizational slack
 
 ## Definition
 

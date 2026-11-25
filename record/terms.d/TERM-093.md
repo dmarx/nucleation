@@ -7,7 +7,12 @@ complements:
 - TERM-089
 - TERM-090
 - TERM-097
-title: 'correspondence structure, and how it is held: the maps that say which local states or descriptions of interacting systems count as agreeing, distinct from the physical coupling between them, and held as formed, discovered or adapted'
+title: 'correspondence structure'
+statement: >-
+  correspondence structure, and how it is held: the maps that say which
+  local states or descriptions of interacting systems count as agreeing,
+  distinct from the physical coupling between them, and held as formed,
+  discovered or adapted
 version: 4
 history:
 - version: 2
@@ -57,7 +62,7 @@ draws_on:
 - THEORY-1088
 ---
 
-# TERM-093: correspondence structure, and how it is held: the maps that say which local states or descriptions of interacting systems count as agreeing, distinct from the physical coupling between them, and held as formed, discovered or adapted
+# TERM-093: correspondence structure
 
 ## Definition
 

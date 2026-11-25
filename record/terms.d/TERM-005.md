@@ -3,7 +3,9 @@ number: 5
 status: Superseded
 formerly:
 - TERM-tmp36e3d
-title: 'frame, as an interpretive lens on the original'
+title: 'frame (interpretive lens)'
+statement: >-
+  frame, as an interpretive lens on the original
 version: 1
 tags:
 - philosophy-of-language
@@ -18,7 +20,7 @@ summary: >-
   of the owner's sense, corrected at U7.
 ---
 
-# TERM-005: frame, as an interpretive lens on the original
+# TERM-005: frame (interpretive lens)
 
 ## Definition
 

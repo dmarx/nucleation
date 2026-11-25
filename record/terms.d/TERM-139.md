@@ -3,7 +3,10 @@ number: 139
 status: Proposed
 formerly:
 - TERM-tmpt3vht
-title: 'relevant, irrelevant and marginal, said of a perturbation at a fixed point of a renormalization-group map'
+title: 'relevant, irrelevant and marginal'
+statement: >-
+  relevant, irrelevant and marginal, said of a perturbation at a fixed point
+  of a renormalization-group map
 version: 1
 tags:
 - natural-sciences
@@ -36,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-777 THEORY-789 SYNTHESIS-084 — Proposed; the record's existing uses of "relevant" that this term states -->
 <!-- inactive-ok-file: TERM-142 CLAIM-850 ARG-129 — filed with this term on 2026-11-21 -->
 
-# TERM-139: relevant, irrelevant and marginal, said of a perturbation at a fixed point of a renormalization-group map
+# TERM-139: relevant, irrelevant and marginal
 
 ## Definition
 

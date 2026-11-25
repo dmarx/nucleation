@@ -3,7 +3,12 @@ number: 113
 status: Proposed
 formerly:
 - TERM-tmplh56l
-title: 'coverage, and which sense: deterministic coverage that treats a covering unit as always available, expected coverage that discounts it by its chance of being busy, and reliable coverage that requires a free unit with a stated probability'
+title: 'coverage'
+statement: >-
+  coverage, and which sense: deterministic coverage that treats a covering
+  unit as always available, expected coverage that discounts it by its
+  chance of being busy, and reliable coverage that requires a free unit with
+  a stated probability
 version: 3
 history:
 - version: 2
@@ -42,7 +47,7 @@ draws_on:
 <!-- inactive-ok-file: LIT-2098 LIT-2075 — Unavailable; cited for their published abstracts, nothing here rests on them -->
 <!-- inactive-ok-file: TERM-108 — Proposed; a term of the same filing, cited as filed -->
 
-# TERM-113: coverage, and which sense: deterministic coverage that treats a covering unit as always available, expected coverage that discounts it by its chance of being busy, and reliable coverage that requires a free unit with a stated probability
+# TERM-113: coverage
 
 ## Definition
 

@@ -3,7 +3,15 @@ number: 59
 status: Active
 formerly:
 - TERM-tmp9b3gk
-title: 'relational normative realism, as frame-, order-, scale- and perspective-relative normative realism: the position that a normative judgment indexed to a frame, an organizational or reflective order, a scale, a perspective and a standard is correct or incorrect whatever the judge prefers, and that which frames, perspectives and standards are admissible is itself constrained, the second of which the record has not established'
+title: 'relational normative realism'
+statement: >-
+  relational normative realism, as frame-, order-, scale- and
+  perspective-relative normative realism: the position that a normative
+  judgment indexed to a frame, an organizational or reflective order, a
+  scale, a perspective and a standard is correct or incorrect whatever the
+  judge prefers, and that which frames, perspectives and standards are
+  admissible is itself constrained, the second of which the record has not
+  established
 version: 2
 history:
 - version: 2
@@ -34,7 +42,7 @@ summary: >-
   [QUESTION-129](../questions.d/QUESTION-129.md)'s open question.
 ---
 
-# TERM-059: relational normative realism, as frame-, order-, scale- and perspective-relative normative realism: the position that a normative judgment indexed to a frame, an organizational or reflective order, a scale, a perspective and a standard is correct or incorrect whatever the judge prefers, and that which frames, perspectives and standards are admissible is itself constrained, the second of which the record has not established
+# TERM-059: relational normative realism
 
 ## Definition
 

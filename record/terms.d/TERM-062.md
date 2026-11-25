@@ -3,7 +3,14 @@ number: 62
 status: Active
 formerly:
 - TERM-tmp23du2
-title: 'causal state, of a process relative to a target future: a class of pasts that induce the same conditional law over a declared target future, the coarsest prescient partition of the pasts; the causal-state machine organizes those classes and the transitions they induce, and the ε-machine and the υ-machine are that machine for different choices of source pasts and target'
+title: 'causal state'
+statement: >-
+  causal state, of a process relative to a target future: a class of pasts
+  that induce the same conditional law over a declared target future, the
+  coarsest prescient partition of the pasts; the causal-state machine
+  organizes those classes and the transitions they induce, and the ε-machine
+  and the υ-machine are that machine for different choices of source pasts
+  and target
 version: 3
 history:
 - version: 2
@@ -44,7 +51,7 @@ draws_on:
 <!-- inactive-ok-file: THEORY-2028 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-2205 — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
 
-# TERM-062: causal state, of a process relative to a target future: a class of pasts that induce the same conditional law over a declared target future, the coarsest prescient partition of the pasts; the causal-state machine organizes those classes and the transitions they induce, and the ε-machine and the υ-machine are that machine for different choices of source pasts and target
+# TERM-062: causal state
 
 ## Definition
 
