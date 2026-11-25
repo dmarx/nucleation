@@ -388,14 +388,21 @@ synthesis as well.
   goes in the curation entry. A recap, a synthesis that adds nothing but
   labels to components an account already maps together, stays in the
   curation entry alone.
-- **The map goes in the scope's account.** A synthesis of a line, a part
-  of one, or a theme that crosses lines revises that scope's account (a
-  SYNTHESIS, ADR-083) as a new version, or files one where there is none:
+- **The argument goes in the scope's synthesis.** A synthesis of a line, a
+  part of one, or a theme that crosses lines revises that scope's SYNTHESIS
+  (ADR-083) as a new version, or files one where there is none, written
+  as the synthesis-review skill's stage 4 says (ADR-tmpw306d):
   - every component in `integrates`, a claim filed from it among them;
-  - each link attributed to the entry that states it;
+  - a body that states the scope's argument as one argument, citing its
+    components where it uses them, not a list of them;
   - nothing added;
   - `defeated_if` is fidelity: a component misstated, an in-force
     component left out, or a link no component states.
+- **An exchange gets no synthesis of its own** (ADR-tmpw306d). Its filing
+  ends by revising the syntheses of the lines it advanced, as new
+  versions, so that they take its progress into account: what it
+  established, revised, conceded or left open in each line. The map of
+  turns to codes stays in the curation entry, and nowhere else.
 
   The account is Proposed. The owner sets it Current once its mapping is
   reviewed.

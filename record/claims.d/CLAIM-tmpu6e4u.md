@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'Two evaluators of one research record facing the same decision can need incomparable views of it: the coarsest observations sufficient for a decision can be several and incomparable, so which view suffices depends on which acceptable action an evaluator commits to and not on the decision alone'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing: it is about evaluating and
+    publishing research over a record, and the line's first synthesis
+    (SYNTHESIS-tmpg0a57) integrates it. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -14,6 +21,7 @@ tags:
 - design-rationale
 date: '2026-11-25'
 line:
+- scholarly-publishing
 - record-as-apparatus
 - will-organization
 rests_on:

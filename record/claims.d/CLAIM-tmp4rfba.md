@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'What scholarly evaluation should recognize is contribution to a community''s maintained capacity for inquiry and not the maintenance of a body of knowledge as such: a record can grow while the community''s capacities stay the same, so rewarding maintenance without that test rewards accumulation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing: it is about evaluating and
+    publishing research over a record, and the line's first synthesis
+    (SYNTHESIS-tmpg0a57) integrates it. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -14,6 +21,7 @@ tags:
 - epistemology
 date: '2026-11-25'
 line:
+- scholarly-publishing
 - record-as-apparatus
 - learning-and-inquiry
 rests_on:
