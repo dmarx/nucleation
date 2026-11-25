@@ -76,7 +76,6 @@ summary: >-
 works:
 - governance-of-possibility
 ---
-<!-- inactive-ok-file: CLAIM-1021 — new; the study and the condition this claim rests on, and its alternative, filed in the same batch -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited as the claim CLAIM-404 is a premise of -->
 
 # CLAIM-1202: In the two-institution meaning–influence model, the loop between an evaluator and the party it evaluates can capture the evaluator's reading when each institution is stable alone, when neither has a loop inside it, and when the evaluator's conferral reads no interpretation at all; informational independence does not prevent it while a resource channel runs, and what does is a return channel too weak to close the loop, the evaluator's reading not moving the party's standing or evidence

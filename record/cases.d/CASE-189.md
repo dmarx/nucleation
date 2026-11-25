@@ -289,7 +289,6 @@ Bearing: a gap; no change to the case, its title or its status. The
 wording is the assistant's (Claude, in this session).
 
 ## Note of 2026-11-25: the supply parameter computed, closing the note of 2026-11-24
-<!-- inactive-ok-file: CLAIM-tmpv6tw7 — Proposed; the computation that closes the gap, cited with its standing -->
 
 The note of 2026-11-24 recorded that a supply parameter added to
 Construction 2's production terms would test [CLAIM-604](../claims.d/CLAIM-604.md)'s signatures, and

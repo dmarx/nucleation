@@ -641,7 +641,7 @@ readings' demands bear on different situations). The others:
 
 
 ### The joins of the manuscript governance-of-becoming, Part III
-<!-- inactive-ok-file: CLAIM-tmp6nzs1 CLAIM-tmpsh3og CLAIM-954 CASE-367 CLAIM-415 CLAIM-741 CLAIM-723 ARG-228 SYNTHESIS-102 CLAIM-745 CLAIM-670 CASE-362 CASE-336 CLAIM-946 CLAIM-909 CLAIM-1184 CLAIM-913 CASE-316 TERM-124 CLAIM-742 CLAIM-717 CLAIM-603 — Proposed or new; the joins' components and the entries their verdicts name, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-tmp6nzs1 CLAIM-tmpsh3og CLAIM-954 CASE-367 CLAIM-415 CLAIM-741 CLAIM-723 ARG-228 SYNTHESIS-102 CLAIM-745 CLAIM-670 CASE-336 CLAIM-946 CLAIM-909 CLAIM-1184 CLAIM-913 CASE-316 TERM-124 CLAIM-742 CLAIM-717 CLAIM-603 — Proposed or new; the joins' components and the entries their verdicts name, cited with their standing -->
 
 The drafts of Articles 7 to 9 closed with 19 joins: J7.1 to J7.4, JR7.1
 and JR7.2; J8.1 to J8.5, JR8.1 and JR8.2; J9.1 to J9.6. An independent

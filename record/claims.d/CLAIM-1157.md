@@ -37,7 +37,7 @@ summary: >-
   The wording is A's (ChatGPT, at A52 of the exchange "Explain First
   Contact RL"); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-1114 CLAIM-1008 CLAIM-1025 CASE-316 — Proposed; the construction this rests on and the entries filed with it -->
+<!-- inactive-ok-file: CLAIM-1008 CLAIM-1025 CASE-316 — Proposed; the construction this rests on and the entries filed with it -->
 
 # CLAIM-1157: That asking and answering are each resource-bounded does not make them compete: a common budget, a common bottleneck or a sequential dependence supplies the coupling, and a shared deadline is not a shared pool of worker-hours, since independent processes can spend the same elapsed time at once
 

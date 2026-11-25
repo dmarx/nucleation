@@ -61,7 +61,7 @@ summary: >-
 bears_on:
 - QUESTION-260
 ---
-<!-- inactive-ok-file: TERM-149 TERM-148 CASE-362 CLAIM-946 CLAIM-945 — new, filed by LEAD-087's run -->
+<!-- inactive-ok-file: TERM-149 TERM-148 CLAIM-946 CLAIM-945 — new, filed by LEAD-087's run -->
 <!-- inactive-ok-file: LIT-2330 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-1800 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 

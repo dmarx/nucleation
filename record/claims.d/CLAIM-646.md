@@ -107,3 +107,7 @@ they differ without bound.
   two types.
 - That the converse holds. Whether cumulative costs fix the peak
   thresholds is not asked here.
+
+## Note of 2026-11-25: rerun, and what holds it back
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). No script was kept here ([CASE-236](../cases.d/CASE-236.md) records A's own and an independent check of 2026-11-12, neither kept), so the check was rebuilt from this entry and [CASE-236](../cases.d/CASE-236.md) as `scratch/formal/peak_cumulative_threshold_check.py` (standard library), run with python3 -I. It computes the least-peak threshold by a minimax Dijkstra and the least spend by Dijkstra on the chain and the complete graph for n = 2, 3, 10, 40 and 100: every pair has threshold 1 in both systems and none is joined below it, and the least spend from 0 to n is n against 1. It also checks [CLAIM-581](CLAIM-581.md)'s non-equivalence of additive budgets on the chain, and a negative control (a middle configuration needing two units) that raises the chain's threshold to 2 and not the complete graph's. Everything reproduces. What holds it back: [ADR-057](../decisions.d/ADR-057.md)'s first criterion. Its one ground, [CASE-236](../cases.d/CASE-236.md), is a Proposed construction, A's, whose adoption is the owner's. The note is the assistant's (Claude, in this session). No status change.

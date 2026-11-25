@@ -49,7 +49,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-332 CASE-265 — new or Proposed; the run this claim is drawn from, and the constant outside controller it is compared with -->
+<!-- inactive-ok-file: CASE-265 — new or Proposed; the run this claim is drawn from, and the constant outside controller it is compared with -->
 <!-- ref::uses-file: TERM-100 — "where maintenance is realized", inside or outside the boundary, is TERM-100's maintenance provenance -->
 
 # CLAIM-901: In a simulation of an organization that corrects once and is then damaged, the second correction after an undisclosed lesion of evidence generation, admission or scoring is decided by whether the apparatus can find its own damage and has a producer to rebuild it, not by which of the three operations is damaged; where maintenance is realized, inside or outside, is separated only when both maintained capacities are destroyed

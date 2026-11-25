@@ -217,7 +217,6 @@ tried. The question is unchanged.
 
 ## Note of 2026-11-22: capture repeated in a simulated organization, [LEAD-048](../leads.d/LEAD-048.md)
 
-<!-- inactive-ok-block: CASE-332 — new; the run of LEAD-048 -->
 [CASE-332](../cases.d/CASE-332.md) repeats [CASE-162](../cases.d/CASE-162.md)'s crossing in [CASE-186](../cases.d/CASE-186.md)'s organization. Under
 captured scoring or selective admission the first correction succeeded in
 at most 6 of 64 worlds. Inverse-propensity weighting repaired selective

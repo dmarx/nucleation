@@ -32,7 +32,6 @@ summary: >-
   [CLAIM-616](../claims.d/CLAIM-616.md)'s defeat condition waits on it. Named in [ARG-072](../arguments.d/ARG-072.md) and
   [QUESTION-063](../questions.d/QUESTION-063.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-333 CLAIM-903 — filed from LEAD-098's run of 2026-11-22, new -->
 <!-- inactive-ok-file: ARG-072 CLAIM-616 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-098: Run the coupling, correspondence-map and revision-apparatus network study with its three added arms, including displacing a shared drive for one member only

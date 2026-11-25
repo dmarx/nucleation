@@ -47,7 +47,7 @@ summary: >-
   advance that counts against this reading. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-148 TERM-149 CASE-362 — new; filed with this claim for LEAD-087 -->
+<!-- inactive-ok-file: TERM-148 TERM-149 — new; filed with this claim for LEAD-087 -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; its defeater is what this claim bears on -->
 
 # CLAIM-946: Restoring a deviation to the shared structure does not tell a population whose members evaluate one another's interpretations from one whose members copy one another's answers: members who copy answers about a shared world, most of them agreeing, restore a minority's deviation rather than average it, so restoration cannot be the condition that distinguishes a shared perspective from coordinated feedback in general

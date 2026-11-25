@@ -57,7 +57,7 @@ summary: >-
   assistant's (Claude, in this session); adopting them is the owner's
   call.
 ---
-<!-- inactive-ok-file: ADR-115 ADR-116 ADR-141 ADR-142 CASE-333 CLAIM-510 — Proposed; the decisions this review assesses and the entries it names as examples -->
+<!-- inactive-ok-file: ADR-115 ADR-116 ADR-141 ADR-142 CLAIM-510 — Proposed; the decisions this review assesses and the entries it names as examples -->
 
 # RETRO-009: The lead backlog run: about 120 leads carried out by delegated workers, each on its own branch and pull request into staging, from 2026-11-22 to 2026-11-23; what went right was one lead per pull request with merge on green, alternatives filed instead of questions, honest negative results and each CI failure becoming a skill rule within the hour, and what went wrong was a blanket code rewrite in a merge that corrupted 28 formerly lists, a done-check that missed a finished lead, and conflicts and disk use left to pile up
 

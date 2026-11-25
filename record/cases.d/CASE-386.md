@@ -30,7 +30,7 @@ summary: >-
   permission side of it, asking leave as itself a resource-bounded inquiry,
   is the owner's U29, filed with it.
 ---
-<!-- inactive-ok-file: CLAIM-1008 TERM-129 CLAIM-721 CLAIM-1114 CLAIM-1148 — Proposed; the claim illustrated and the held entries the case is read against -->
+<!-- inactive-ok-file: CLAIM-1008 TERM-129 CLAIM-721 CLAIM-1148 — Proposed; the claim illustrated and the held entries the case is read against -->
 
 # CASE-386: An employee with an idea who must justify it to a manager before time goes to it: an opportunity open for ten days, formulated in one, justified in two, approved in two and implemented in six, is lost under that workflow and kept by preauthorized discretion that lets justification run beside a first experiment
 

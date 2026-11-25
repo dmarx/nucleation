@@ -1,7 +1,27 @@
 ---
-status: Proposed
+status: Active
 title: "With a supply multiplying its production terms, a maintained connector shows the ignition threshold, the collapse below a supply fold and the outage after which restoring the supply does not relight it, while supplied repair matched to the same state shows none of them; where the supply enters only the capacities' production, its fold is the damage fold relabelled"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Promoted to Active under the owner's delegation of 2026-11-24
+    ("handle the fixes for the twelve ... use your best judgement"),
+    as the status pass of 2026-11-24 and the reruns of 2026-11-25
+    applied it to independently recomputed demonstrated claims and
+    executed studies, in the recomputation pass of 2026-11-25
+    (LEAD-tmpc0rqa). Rerun by a session other than the filer's: the
+    filer's script
+    scratch/manuscripts/governance-of-becoming/analysis/case189_supply_parameter.py
+    prints its dated output of 2026-11-25 byte for byte, and an
+    independent check written from the claim's and CASE-189's stated
+    model, scratch/formal/case189_supply_check.py, reproduces every
+    figure (s* = 0.6491 and 0.8528, 0.5914 = 1/(1 + d*) and 0.8280,
+    outage limits 1.513 and 1.922, gaps 0.977 and 0.989, the control's
+    3.337 and 2.13). ADR-057: its one ground, CASE-189, is Active; it
+    rests on no claim; no objection targets it; nothing meets its
+    defeated_if.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -110,3 +130,7 @@ d enter arm B only as s/(1 + d) at the equilibria, not in the dynamics.
 Proposed. The computation has been run by its author and rerun once by
 the filing session; no other session has checked it.
 
+
+## Note of 2026-11-25: rerun by a session other than the filer's
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). Two checks. The filer's script, run with python3 -I, prints its dated output `case189_supply_parameter.2026-11-25.txt` byte for byte, ending "checks pass". An independent check, `scratch/formal/case189_supply_check.py` (numpy and scipy), written from this claim's and [CASE-189](../cases.d/CASE-189.md)'s stated model and not from the script, finds the folds from the symmetric equilibrium curves by bounded minimization, the outage limits by bisection and the gap as q c: kept state c = 3.3371 and saddle 0.5212 at s = 1; ignition from 1.1 and not 0.9 of the saddle in both arms; arm A's fold s* = 0.6491 (0.8528 at d = 0.4), with c = 1.466 at s* + 0.01 and extinction at s* − 0.01; arm B's 0.5914 = 1/(1 + d*) (0.8280); outage limits 1.513 and 1.922; gaps 0.9773 and 0.9894 at the folds; the control reaching 3.337 from zero, c = s K_c (2.13 at s = 0.639) and returning fully after a 30-unit outage. Everything reproduces. "Standing" above, that no other session had checked it, is out of date. Promoted in the same pass (history, version 2). The note is the assistant's (Claude, in this session).
