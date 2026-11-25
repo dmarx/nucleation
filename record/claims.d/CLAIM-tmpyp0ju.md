@@ -95,14 +95,14 @@ political institution").
 ## Note of 2026-11-25: Part II's studies
 
 The check above has a row for suppressed inquiry and self-certification
-(CASE-396, CLAIM-1064, CASE-397) and none for the other studies of Part II.
+([CASE-396](../cases.d/CASE-396.md), [CLAIM-1064](CLAIM-1064.md), [CASE-397](../cases.d/CASE-397.md)) and none for the other studies of Part II.
 The revised Part II of the manuscript governance-of-becoming sorts them:
 Article 5's §5.9 table and the README's "Part II's studies" table, revised
 on 2026-11-25 after the reruns and the review's step-3a check. Accommodation
-pricing (CASE-382), the person-level test (LEAD-141, as a reading) and
-overconsolidation (CLAIM-758's readings) are done in part; four studies are
+pricing ([CASE-382](../cases.d/CASE-382.md)), the person-level test ([LEAD-141](../leads.d/LEAD-141.md), as a reading) and
+overconsolidation ([CLAIM-758](CLAIM-758.md)'s readings) are done in part; four studies are
 not done: biases moved together, the governance-against-action-heuristic
-test (this note's companion on CLAIM-tmpn754o), the query-induced capability
-trap (LEAD-218) and the transmission of ignorance. So the thesis holds for
+test (this note's companion on [CLAIM-tmpn754o](CLAIM-tmpn754o.md)), the query-induced capability
+trap ([LEAD-218](../leads.d/LEAD-218.md)) and the transmission of ignorance. So the thesis holds for
 Part II in part, not wholly. The wording is the assistant's (Claude, in
 this session); adopting it is the owner's call.
