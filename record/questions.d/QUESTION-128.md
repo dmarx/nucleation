@@ -44,7 +44,8 @@ summary: >-
   function from the dynamics and tells it from mere contribution to
   persistence, and an account of what a standard needs beyond it.
 ---
-<!-- inactive-ok-file: LIT-2444 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: THEORY-2268 CLAIM-987 CLAIM-989 CLAIM-988 ARG-217 — Proposed; Leffler's reading and the three readings of the test, filed for LEAD-158 -->
+<!-- inactive-ok-file: THEORY-220 THEORY-071 THEORY-628 CLAIM-648 — Proposed; the record's route to self-generated norms -->
 
 <!-- inactive-ok-file: QUESTION-007 — Deferred; set aside with the authenticity line, and cited to say where the cross-agent half went -->
 
@@ -139,7 +140,7 @@ derivation." The relational form of the judgments at every rung is
 ## Note of 2026-11-12: the designer's norm in the alarm cases, from "Meaning Transmission Explained"
 
 <!-- inactive-ok-block: CASE-243 CASE-240 CLAIM-649 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-block: THEORY-220 THEORY-628 THEORY-217 — Proposed; readings cited with their standing -->
+<!-- inactive-ok-block: THEORY-217 — Proposed; readings cited with their standing -->
 The owner's smoke detector ([CASE-243](../cases.d/CASE-243.md)) and debugging test
 ([CASE-240](../cases.d/CASE-240.md)), from the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07), are the
 plainest cases on the record of a norm of function and failure that is
@@ -204,16 +205,16 @@ relationships have moral authority". The question is unchanged.
 
 ## Note of 2026-11-22: Millikan and the SEP survey, read
 
-<!-- inactive-ok-block: THEORY-tmpfugkf THEORY-tmpuzicj — Proposed; readings and objection filed for LEAD-018, and the claim the objection is to -->
+<!-- inactive-ok-block: THEORY-2234 THEORY-2235 — Proposed; readings and objection filed for LEAD-018, and the claim the objection is to -->
 The selection-based route to the third rung, representational norms,
-is now read: Millikan's biosemantics ([THEORY-tmpfugkf](../theory.d/THEORY-tmpfugkf.md)) and the SEP
-survey of teleological theories of content ([THEORY-tmpuzicj](../theory.d/THEORY-tmpuzicj.md)), both now
+is now read: Millikan's biosemantics ([THEORY-2234](../theory.d/THEORY-2234.md)) and the SEP
+survey of teleological theories of content ([THEORY-2235](../theory.d/THEORY-2235.md)), both now
 `bears_on` this question. They bear on it in three ways:
 
 - **A rival to deriving norms from present organization.** On these
   accounts the norm by which a representation is false comes from a
   history of selection, learning included, not from what an
-  organization now needs. [CLAIM-tmp974nn](../claims.d/CLAIM-tmp974nn.md) states the consequence for
+  organization now needs. [CLAIM-920](../claims.d/CLAIM-920.md) states the consequence for
   [CLAIM-648](../claims.d/CLAIM-648.md).
 - **The same separation of rungs.** The survey's authors hold that
   functional norms are descriptive and that "no ought-claim follows from
@@ -228,3 +229,95 @@ survey of teleological theories of content ([THEORY-tmpuzicj](../theory.d/THEORY
 
 Neither text bears on the practical or moral rungs. The question stays
 Open.
+
+## Note of 2026-11-22: Leffler, read, as the adversarial test
+
+Leffler's "Constitutivism's plight" ([LIT-2444](../literature.d/LIT-2444.md)) is read ([NOTE-2360](../notes.d/NOTE-2360.md);
+[THEORY-2268](../theory.d/THEORY-2268.md), which now `bears_on` this question). It is the test the
+note of 2026-11-12 flagged. Leffler shows that the one inescapability
+argument that explains why constitutive norms have force, Korsgaard's
+"plight" as he reconstructs it, makes that force relative to the
+constitution: "agents with different constitutions have different norms
+applying to them as forceful" (p. 20).
+
+The record's first two rungs take norms from an organization's own
+self-maintenance ([THEORY-220](../theory.d/THEORY-220.md), [THEORY-071](../theory.d/THEORY-071.md), [THEORY-628](../theory.d/THEORY-628.md), [CLAIM-648](../claims.d/CLAIM-648.md)), which is
+constitutivism in Leffler's broad sense; [ARG-217](../arguments.d/ARG-217.md) carries his
+argument to organizations. What that does to this question admits three
+readings, filed as alternatives for the owner:
+
+- **(a) [CLAIM-987](../claims.d/CLAIM-987.md)**: the objection "what would count" asks for. The
+  dynamics offer only a constitutive route to force, and it ends in
+  constrained relativism, so this question's "showing that it cannot have
+  it without a premise from outside the dynamics" is had for that route.
+- **(b) [CLAIM-989](../claims.d/CLAIM-989.md)**: it narrows [CLAIM-363](../claims.d/CLAIM-363.md) to the truth of verdicts,
+  leaving the force of an organization's own standard relative.
+- **(c) [CLAIM-988](../claims.d/CLAIM-988.md)**: the record never explains force by
+  constitution ([CLAIM-075](../claims.d/CLAIM-075.md); A16's separation of self-generated normativity
+  from legitimacy), so the test closes a route the record did not take.
+
+The readings agree that the organizational rungs give no authority beyond
+the organization; they differ on whether that is news. The question stays
+Open.
+
+## Note of 2026-11-22: the forager run, [LEAD-177](../leads.d/LEAD-177.md)
+
+<!-- inactive-ok-block: CLAIM-1141 CLAIM-1110 CASE-239 — new or Proposed; the run of CASE-239, the design itself, and the claims drawn from it -->
+[CASE-239](../cases.d/CASE-239.md)'s forager was run as [CASE-421](../cases.d/CASE-421.md). A learner that forms its
+warnings from its own energy account, with no feature-to-failure mapping
+supplied, revised which features count where a change needed it
+([CLAIM-1149](../claims.d/CLAIM-1149.md)). Its gains vanished when the account was replaced by a score
+equal to it in training. Two readings are filed for the owner: that this
+meets [CASE-239](../cases.d/CASE-239.md)'s second defeater, so the criteria are the designer's in
+another form ([CLAIM-1141](../claims.d/CLAIM-1141.md)), or that the defeater cannot discriminate and
+the result shows the criteria bound to the condition of dissolution, as the
+design's main threat asks ([CLAIM-1110](../claims.d/CLAIM-1110.md)). The question stays Open.
+
+## Note of 2026-11-23: at the synthesis review
+
+<!-- inactive-ok-block: CLAIM-1110 CLAIM-1141 CLAIM-920 — Proposed or new; the run and its readings -->
+The synthesis review of 2026-11-23 asked whether an integration across this
+question's answers is held in parts and stated by no entry. It is stated:
+in this question's own body (A16's verdict and ladder) and its notes, and in
+[CLAIM-648](../claims.d/CLAIM-648.md)'s note of 2026-11-22, which sets the endogenous profile against the
+etiological objection ([CLAIM-920](../claims.d/CLAIM-920.md)) and the run ([CASE-421](../cases.d/CASE-421.md)). A stronger
+sentence was tested, that once the agent and the capacity are named the only
+arbitrariness left in a norm of function is the choice of boundary
+([CLAIM-916](../claims.d/CLAIM-916.md)'s last clause, carried to this question); it failed, since the run
+leaves open whether learned warnings are the system's or the designer's in
+another form ([CLAIM-1110](../claims.d/CLAIM-1110.md) against [CLAIM-1141](../claims.d/CLAIM-1141.md)), which is not a choice
+of boundary. Nothing new is filed. [CLAIM-916](../claims.d/CLAIM-916.md) bears on this question through
+[CLAIM-648](../claims.d/CLAIM-648.md) and [CLAIM-1110](../claims.d/CLAIM-1110.md); whether it should also carry the
+organizational-normativity line is for the owner.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A22–A24
+
+<!-- inactive-ok-file: CLAIM-tmphq6hp CLAIM-tmpjg5gx CLAIM-tmpreipd CLAIM-tmp1fj5p CASE-239 — new, or Proposed; filed from U18 and A22–A24 of the exchange on 2026-11-24, and the forager study A22 names -->
+
+A22, A23 and A24 (ChatGPT, 2026-11-24) cite this question three times and
+keep it open each time; the filing adds four claims that bear on it.
+
+- **A mark of an operative norm.** A22 §2: an expectation is held as a
+  norm when a discrepancy recruits activity to restore compliance rather
+  than revising the expectation ([CLAIM-tmphq6hp](../claims.d/CLAIM-tmphq6hp.md), which ties it to the
+  record's direction of fit). That is a norm of failure an organization's
+  own dynamics can show, in the question's first sense, without a
+  represented belief.
+- **A stabilization mechanism, not a standard.** A22 §5's model of
+  compliance, reliance and maintenance is bistable ([CLAIM-tmpjg5gx](../claims.d/CLAIM-tmpjg5gx.md), checked).
+  A22 itself: "The model does not demonstrate endogenous formation of a
+  standard of correctness: its maintenance rule is supplied by the modeler.
+  It demonstrates a candidate stabilization mechanism. That distinction
+  matters particularly given the concerns already raised in QUESTION-128
+  and [CASE-239](../cases.d/CASE-239.md)".
+- **Genesis, persistence, validity.** A23 §11 separates "Evolution of
+  normative dispositions", "Stabilization of normative organization" and
+  "Normative justification", and says the account "gives that inquiry a
+  richer intermediate domain, but does not yet close the justificatory
+  gap". The owner's U18 thesis that the account clarifies morality and
+  cooperation ([CLAIM-tmp1fj5p](../claims.d/CLAIM-tmp1fj5p.md)) and A's development of it
+  ([CLAIM-tmpreipd](../claims.d/CLAIM-tmpreipd.md)) bear on the question's last part, what more moral
+  authority needs: on A's reading, an evaluation of the terms of
+  cooperation that cooperative success does not supply.
+
+The question stays Open.

@@ -9,9 +9,9 @@ history:
 - version: 2
   date: '2026-11-21'
   note: >-
-    After the reading of LIT-2979 (NOTE-tmphbnqd). Its reading,
-    THEORY-tmpt1tw7, replaces the LIT in the grounds; the method supports
-    the reduction half and leaves the learning half open (ARG-tmpmou4i).
+    After the reading of LIT-2979 (NOTE-2253). Its reading,
+    THEORY-2166, replaces the LIT in the grounds; the method supports
+    the reduction half and leaves the learning half open (ARG-161).
     The sentence calling the work unread is updated. The claim and its
     status are unchanged.
 role: supposed
@@ -25,7 +25,7 @@ line:
 complements:
 - CLAIM-808
 grounds:
-- THEORY-tmpt1tw7
+- THEORY-2166
 summary: >-
   A39 §6 of the exchange "Rich Get Richer Power Laws" (2026-11-21),
   answering the owner's U24 on Watanabe's stratification and the
@@ -40,7 +40,7 @@ summary: >-
   Get Richer Power Laws", A39); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-808 ARG-138 CLAIM-812 CLAIM-802 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, or a Deferred work registered from it and not yet read -->
-<!-- inactive-ok-file: THEORY-2154 THEORY-tmpt1tw7 ARG-tmpmou4i TERM-135 LIT-tmptm9ww — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+<!-- inactive-ok-file: THEORY-2154 THEORY-2166 ARG-161 TERM-135 LIT-3024 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CLAIM-833: Model reduction and feature differentiation may be movements in opposite directions through one stratified space of effective models: reduction moves toward the boundaries of the model manifold, where parameters stop mattering, and differentiation moves away from singular strata, where redundant features become separately usable
 
@@ -53,7 +53,7 @@ A39 §6 sets two processes side by side:
   manifold boundary." This is Transtrum and Qiu's manifold boundary
   approximation method, which "deliberately moves toward model boundaries
   to obtain simpler effective theories" ([LIT-2979](../literature.d/LIT-2979.md), read
-  on 2026-11-21 as [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md)).
+  on 2026-11-21 as [THEORY-2166](../theory.d/THEORY-2166.md)).
 - **Feature differentiation**: "Redundant mechanisms → separately
   distinguishable features. Move away from a degenerate configuration into
   a richer functional regime." A network "with two indistinguishable
@@ -118,7 +118,7 @@ connection between two accounts of it.
 ## Note of 2026-11-21: Transtrum & Qiu (2014), read
 
 - **The reduction half is supported by its primary source**
-  ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md), [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md); [ARG-tmpmou4i](../arguments.d/ARG-tmpmou4i.md)). The method is
+  ([NOTE-2253](../notes.d/NOTE-2253.md), [THEORY-2166](../theory.d/THEORY-2166.md); [ARG-161](../arguments.d/ARG-161.md)). The method is
   "Approximating the manifold by its boundary" (Fig. 2): along the path
   "the smallest eigenvalue separates from the others and approaches zero"
   (para. 11), the limit there is evaluated to remove one parameter
@@ -133,7 +133,7 @@ connection between two accounts of it.
   points only in the closure of the manifold in prediction space; only the
   merging of two terms lies at finite parameters. The compactification gap
   stands. The authors' account of the hierarchy as a topology (Transtrum,
-  Hart & Qiu, [LIT-tmptm9ww](../literature.d/LIT-tmptm9ww.md)) is registered and unread.
+  Hart & Qiu, [LIT-3024](../literature.d/LIT-3024.md)) is registered and unread.
 - **The learning half is left open.** Nothing on training, networks, or a
   move away from a singular configuration. The nearest thing is a move in
   modelling: the Ising section generalizes a two-parameter Hamiltonian to

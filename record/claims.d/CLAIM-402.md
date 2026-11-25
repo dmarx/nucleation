@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpeftzb
 title: 'Predictive success of a category across contexts warrants treating it as a real effective kind only when the evidence in those contexts does not pass through the category''s own use, or when the effect of that use is modelled: a category that speakers or institutions act on can produce the regularities that confirm it, and contexts that share its use are not independent'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -37,6 +37,12 @@ history:
     CLAIM-342, THEORY-839, THEORY-862 and CASE-103, all Active. No
     objection is on file, and nothing held meets the defeat condition.
     The claim is unchanged.
+- version: 6
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 7 illustrative case (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,6 +60,8 @@ date: '2026-10-21'
 line:
 - pragmatic-transport
 - learning-and-inquiry
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-342
 grounds:
@@ -219,10 +227,44 @@ A parallel ([NOTE-2140](../notes.d/NOTE-2140.md)): a link to a subreddit that do
 
 ## Note of 2026-11-22: Merton's Matthew effect, read
 
-**A parallel** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md)). Merton reads the Matthew effect
+**A parallel** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-2268](../notes.d/NOTE-2268.md)). Merton reads the Matthew effect
 as "a special application of the self-fulfilling prophecy" (p. 61, citing
 [LIT-1398](../literature.d/LIT-1398.md) in note 42): a scientist's standing, a category institutions act
 on, draws the attention and credit that then confirm the standing, "a
 self-confirming process" (p. 62). It is a further instance of this
 claim's category whose use produces the regularities that confirm it, in
 recognition rather than in kinds. Status unchanged; no edge.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A11
+
+<!-- inactive-ok-file: CLAIM-426 — Proposed; cited as A11 cites it -->
+
+A11 §11 cites this claim, with [CLAIM-426](CLAIM-426.md), for bias "participating in the
+production of reality", where "The attribution can become accurate while
+its original evidential grounds remain inadequate"; the citation is right.
+A11 §14 applies the same structure, without citing it, to ecological
+rationality: "A cognitive organization may appear well adapted to its
+environment partly because it has transformed that environment to
+accommodate its existing constraints." That is this claim's condition for a
+heuristic: its fit to an environment its own use helped make warrants
+little about its adaptation unless the evidence of fit does not pass
+through that use. Bearing: an extension to heuristics, held here rather
+than filed apart ([ADR-072](../decisions.d/ADR-072.md)). The claim is unchanged.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A44 §5
+
+<!-- inactive-ok-file: CLAIM-tmpefeb7 CLAIM-tmpyqjn0 — Proposed; filed from A42 and A48 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+
+A44 §5, on the owner's U28 ("the tyranny of metrics"), restates this claim
+for public rankings after Espeland and Sauder ([NOTE-1050](../notes.d/NOTE-1050.md)): "The metric can
+become more predictive because the organization has increasingly
+reorganized itself around the metric", so "**Improved correspondence
+between a measure and its object does not establish that the measure was
+originally adequate, or that the resulting transformation is
+desirable.**" It separates "predictive validity, independently grounded
+evaluative validity, and performatively produced agreement", which names
+the three things the claim's condition keeps apart. Two filings of the
+exchange apply the pattern: monitoring that produces the conformity it
+records ([CLAIM-tmpefeb7](CLAIM-tmpefeb7.md)) and a reading of fiduciary duty that produces the
+character later cited as legal necessity ([CLAIM-tmpyqjn0](CLAIM-tmpyqjn0.md)). Bearing:
+support by restatement, and two applications. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

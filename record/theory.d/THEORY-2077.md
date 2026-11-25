@@ -7,6 +7,8 @@ title: 'Anguita and colleagues show in two-layer diagonal linear networks traine
 version: 1
 source:
 - LIT-2861
+extends:
+- THEORY-2305
 tags:
 - learning-theory
 - representation-learning
@@ -50,3 +52,17 @@ regime when they are a subset.
 A theorem for the implicit bias and a non-rigorous replica calculation
 for the error, in a solvable model; qualitative experiments in ResNets
 and a one-layer Transformer. Pretraining length is never varied.
+
+## Note of 2026-11-23: Lippl and Lindsey, read
+<!-- inactive-ok-file: THEORY-2305 — Proposed or new; filed by the lead run of 2026-11-23 -->
+
+The theory this one extends is now read ([THEORY-2305](THEORY-2305.md);
+[NOTE-2415](../notes.d/NOTE-2415.md)): infinitesimal initialization with balanced layers, the
+readout scale γ the only free scale, and three of the four regimes here
+(rich, lazy, and nested feature selection, which this account's rich,
+pretraining-dependent regime resembles, both being best when the main
+task uses a subset of the pretrained features). Where this account sets the relative scale at
+initialization, Lippl and Lindsey reach a nested regime by rescaling the
+weights after pretraining. `extends` is written. The reading does not
+meet this account's promote_when: it is the earlier, narrower theory,
+not an independent derivation.

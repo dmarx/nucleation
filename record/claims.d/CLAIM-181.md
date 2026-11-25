@@ -94,6 +94,7 @@ complements:
 - CLAIM-476
 - CLAIM-479
 ---
+<!-- inactive-ok-file: CLAIM-1049 — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
 # CLAIM-181: The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it
@@ -245,3 +246,40 @@ The decision census ([CASE-300](../cases.d/CASE-300.md)) coded the form each mis
 So for the misfits that were eventually noticed, the claim's sequence holds: forced or held in prose first, the grammar amended after.
 
 What the count cannot reach is this claim's remaining test, a misfit never noticed. Only decisions were coded. The claim is unchanged.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-2262 — Proposed; filed for LEAD-215 -->
+
+A parallel from type inference (no edge). In liquid types
+([THEORY-2262](../theory.d/THEORY-2262.md); [NOTE-2353](../notes.d/NOTE-2353.md)) the vocabulary of inferable types is a
+fixed qualifier set. A property it cannot state is lost, as a weaker type
+or a failure, until the programmer notices and adds a qualifier (p. 160).
+The paper names the difficulty this claim names: a failure does not say
+whether the program is wrong or the vocabulary too small, and telling the
+two apart is future work (p. 169).
+
+## Note of 2026-11-22: synchronization as homogenization, from the exchange "Explain First Contact RL" (https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3)
+
+A qualification, from A18 §6. A treats this claim's danger as the failure
+mode of a record that synchronizes its collaborators: those who distinguish
+phenomena differently are made to translate into a fixed vocabulary, and
+"they might converge on that vocabulary because the tool makes alternatives
+expensive or impossible to express. Measured consistency rises. Internal
+disagreement becomes less visible." A's table separates productive
+stabilization (distinct claims and objections kept; revision traceable;
+failures of the vocabulary exposed; warranted disagreement kept) from
+pathological convergence (differences collapsed into one formulation;
+revision made prohibitively hard; the vocabulary treated as exhaustive;
+agreement rewarded as evidence of correctness). It adds that compiling
+norms into mechanisms ([DP-3](../../docs/design-principles.md#dp-3)) makes the risk "especially consequential".
+[CLAIM-1049](CLAIM-1049.md) (Proposed) takes this claim as the limit of its thesis that
+a governed record synchronizes without convergence, and [CLAIM-1075](CLAIM-1075.md)
+(Proposed) as the reason a record must keep the interruptions that change
+its grammar. The claim is unchanged.
+
+## Note of 2026-11-23: what holds it back
+
+Checked [CASE-300](../cases.d/CASE-300.md)'s correction of 2026-11-21 (one row reclassified, counts
+unchanged) and [NOTE-2353](../notes.d/NOTE-2353.md)'s reading (a parallel from type inference): neither
+supplies the test still unmet, a move that mattered in an exchange and that
+the record still cannot hold or holds only by distorting it.

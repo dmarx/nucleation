@@ -35,7 +35,6 @@ source:
 corroborates:
 - CLAIM-740
 ---
-<!-- inactive-ok-file: CLAIM-740 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpu63nn — removed at the reconciliation of 2026-11-18; named for provenance -->
 
 # THEORY-1941: Cerrato, Sahlgren and Heilmann find that, in a simulated hiring screen, an organization's upstream choices of label, feature measurement and model-selection metric change the counterfactual explanations given to rejected candidates more than the explanation method's own validity threshold does, and argue that counterfactual explanations used as justification or recourse therefore bracket the decision-maker's contestable choices and put the burden of a better outcome on the subject

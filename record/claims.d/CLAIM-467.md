@@ -107,9 +107,9 @@ vocabulary and not prediction, stands for this model class until one does.
 
 ## Note of 2026-11-22: a run of [CASE-158](../cases.d/CASE-158.md)'s design with the router matched
 
-<!-- inactive-ok-file: CASE-tmpkghqb CLAIM-tmpdmn0v — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-338 CLAIM-906 — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
 
-[LEAD-077](../leads.d/LEAD-077.md) ran this claim's test in numpy ([CASE-tmpkghqb](../cases.d/CASE-tmpkghqb.md)). Under full,
+[LEAD-077](../leads.d/LEAD-077.md) ran this claim's test in numpy ([CASE-338](../cases.d/CASE-338.md)). Under full,
 independent audits, with the router given the same delay and cost:
 
 - at a shared gate temperature of 0.03 governance had lower
@@ -121,7 +121,7 @@ independent audits, with the router given the same delay and cost:
   lower error on 12 of 12 at every temperature.
 
 Whether the first result meets the defeat condition is the owner's
-reading; [CLAIM-tmpdmn0v](../claims.d/CLAIM-tmpdmn0v.md) sets out both: met as worded, or not met as glossed
+reading; [CLAIM-906](../claims.d/CLAIM-906.md) sets out both: met as worded, or not met as glossed
 ("governance using something a router trained on the audits cannot"),
 since the edge was the contextual router's noisy context. The run also
 found no regime among [QUESTION-271](../questions.d/QUESTION-271.md)'s four in which the best governance

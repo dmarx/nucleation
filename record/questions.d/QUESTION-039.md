@@ -2,7 +2,7 @@
 number: 39
 status: Open
 formerly:
-- QUESTION-039
+- QUESTION-tmp0dy29
 title: 'What sets the order and the moment, in training time or in examples, at which a network acquires a structure, and is acquisition one kind of event or several?'
 version: 2
 history:
@@ -28,7 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: THEORY-279 — Proposed; partial answers filed in the last two days, cited with their limits -->
-<!-- inactive-ok-file: THEORY-tmpr9w2r — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
+<!-- inactive-ok-file: THEORY-2160 — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
 
 # QUESTION-039: What sets the order and the moment, in training time or in examples, at which a network acquires a structure, and is acquisition one kind of event or several?
 
@@ -138,24 +138,24 @@ recovery, then integration of facts. Driscoll and colleagues
 
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
-Bears on whether acquisition is one kind of event ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md),
-[THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)). The stages include acquisitions (bigrams, n-grams,
+Bears on whether acquisition is one kind of event ([NOTE-2248](../notes.d/NOTE-2248.md),
+[THEORY-2160](../theory.d/THEORY-2160.md)). The stages include acquisitions (bigrams, n-grams,
 induction heads, in-context learning), groundwork laid before any visible
 change (§6.2), and simplifications in which the estimated coefficient falls
-(LM3, LR3, LR4; [QUESTION-tmphkb1w](QUESTION-tmphkb1w.md)). So "acquisition" in this paper is
+(LM3, LR3, LR4; [QUESTION-518](QUESTION-518.md)). So "acquisition" in this paper is
 several kinds of event, timed by one scalar. Written as `bears_on` from the
 reading.
 
 
 ## Note of 2026-11-22: the optimizer swap, run ([LEAD-045](../leads.d/LEAD-045.md))
 
-<!-- inactive-ok-file: CASE-tmpd2k95 CLAIM-tmpyepkb CLAIM-tmpmop4m — new; the study and claims of LEAD-045, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-319 CLAIM-883 CLAIM-882 — new; the study and claims of LEAD-045, filed 2026-11-22 -->
 
 The test this question proposes, the same skills under gradient descent and
-under sign descent, was run ([CASE-tmpd2k95](../cases.d/CASE-tmpd2k95.md)). In the Geometry model, sign
+under sign descent, was run ([CASE-319](../cases.d/CASE-319.md)). In the Geometry model, sign
 descent re-times gradient descent's own path by the gradient norm
-([CLAIM-tmpyepkb](../claims.d/CLAIM-tmpyepkb.md)): the optimizer sets when each skill arrives, not the
-order or the path. In one small ReLU network ([CLAIM-tmpmop4m](../claims.d/CLAIM-tmpmop4m.md)), the delay
+([CLAIM-883](../claims.d/CLAIM-883.md)): the optimizer sets when each skill arrives, not the
+order or the path. In one small ReLU network ([CLAIM-882](../claims.d/CLAIM-882.md)), the delay
 from the optimizer appeared at order-one scale, and the delay from small
 initialization appeared under gradient descent at scale 0.01 and weakened
 under sign descent: two mechanisms that answer to different interventions.
@@ -164,15 +164,15 @@ question is unchanged.
 
 ## Note of 2026-11-22: the hierarchical task, by strength per level
 
-<!-- inactive-ok-file: CASE-tmp7n58t CLAIM-tmpzujm1 CLAIM-tmp0h57p — new; the study and claims of LEAD-052, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-351 CLAIM-929 CLAIM-930 — new; the study and claims of LEAD-052, filed 2026-11-22 -->
 
 [LEAD-052](../leads.d/LEAD-052.md) ran a hierarchical task in which each level's input and target
-strength is set separately ([CASE-tmp7n58t](../cases.d/CASE-tmp7n58t.md)), from small and order-one scale
+strength is set separately ([CASE-351](../cases.d/CASE-351.md)), from small and order-one scale
 and at several widths. What set the order differed by learner: the input
 strengths alone for kernel flow and for a width-2048 network, input times
-target strength for a deep linear network ([CLAIM-tmpzujm1](../claims.d/CLAIM-tmpzujm1.md)), and the same
+target strength for a deep linear network ([CLAIM-929](../claims.d/CLAIM-929.md)), and the same
 product with compressed spread for a small two-layer ReLU network from
 small scale, whose weaker levels follow the strongest soon after it is
-acquired ([CLAIM-tmp0h57p](../claims.d/CLAIM-tmp0h57p.md)). Width moved the network from the second kind
+acquired ([CLAIM-930](../claims.d/CLAIM-930.md)). Width moved the network from the second kind
 to the first between 256 and 1024 in NTK parametrization; initial scale
 did not at width 64. The question is unchanged.

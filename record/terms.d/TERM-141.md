@@ -10,7 +10,7 @@ history:
   date: '2026-11-22'
   note: >-
     Revised in place after the reading of Crutchfield and Feldman
-    (LIT-3010, NOTE-tmpe86ty; THEORY-tmpl7rgc, which the term now
+    (LIT-3010, NOTE-2286; THEORY-2200, which the term now
     draws_on). The definition gains their identities and the bound
     E′(L) ≤ E(L) ≤ E (Lemma 3), of which this term's I_pred(T) is the
     left side at L = 2T; condition 2 gains the Thue–Morse case,
@@ -33,14 +33,14 @@ draws_on:
 - THEORY-756
 - THEORY-087
 - THEORY-2151
-- THEORY-tmpl7rgc
+- THEORY-2200
 summary: >-
   For a stationary process, I_pred(T) = I(X_{1:T}; X_{T+1:2T}), and its
   limit as T grows, the excess entropy. The exchange "Rich Get Richer
   Power Laws" uses it at A13 §5 and A21 §3–4, after Bialek, Nemenman and
   Tishby (LIT-3008, read on 2026-11-21 as THEORY-2151) and
   Crutchfield and Feldman (LIT-3010, read on 2026-11-22 as
-  THEORY-tmpl7rgc). The record held causal states and statistical
+  THEORY-2200). The record held causal states and statistical
   complexity ([TERM-062](TERM-062.md), [THEORY-756](../theory.d/THEORY-756.md)) but no word for how past–future
   information grows with the window, nor A's distinction between a
   process hard to predict because it is random and one hard to predict
@@ -51,7 +51,7 @@ summary: >-
   the exchange "Rich Get Richer Power Laws", A13 and A21); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpl7rgc — Proposed or new; the reading of Crutchfield and Feldman, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2200 — Proposed or new; the reading of Crutchfield and Feldman, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-849 — filed with this term from the same exchange, Proposed -->
 <!-- inactive-ok-file: ARG-152 CLAIM-805 THEORY-2151 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
@@ -71,7 +71,7 @@ ordinary, irreducible randomness disappears from this expression" (A21
 §4). The **excess entropy** E = I(past; future) is its limit as T → ∞,
 finite or not (A13 §5).
 
-**Crutchfield and Feldman's identities and bound** ([THEORY-tmpl7rgc](../theory.d/THEORY-tmpl7rgc.md); added
+**Crutchfield and Feldman's identities and bound** ([THEORY-2200](../theory.d/THEORY-2200.md); added
 2026-11-22, version 2). With hµ(L) = H(L) − H(L−1), the excess entropy is
 E = Σ_L [hµ(L) − hµ], and they show it equals the subextensive part of the
 block entropy, E = lim [H(L) − hµL] (Prop. 7), and, when the limit exists,
@@ -175,7 +175,7 @@ session, not kept; the method is as stated).
 
 Bialek, Nemenman and Tishby 2001 ([LIT-3008](../literature.d/LIT-3008.md), read on 2026-11-21 in
 [NOTE-2243](../notes.d/NOTE-2243.md)) and Crutchfield and Feldman 2003 ([LIT-3010](../literature.d/LIT-3010.md), read on
-2026-11-22 in [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md)). The relation to
+2026-11-22 in [NOTE-2286](../notes.d/NOTE-2286.md)). The relation to
 parameter count (½ log T per parameter) is the same coefficient the record
 holds as the Bayesian Occam penalty ([THEORY-087](../theory.d/THEORY-087.md)).
 
@@ -209,7 +209,7 @@ convention.
 
 ## Note of 2026-11-22: Crutchfield and Feldman, read
 
-Read in [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md) ([THEORY-tmpl7rgc](../theory.d/THEORY-tmpl7rgc.md), which this term now `draws_on`).
+Read in [NOTE-2286](../notes.d/NOTE-2286.md) ([THEORY-2200](../theory.d/THEORY-2200.md), which this term now `draws_on`).
 It **supports the definition and its identities, adds a bound, and
 qualifies the regimes**; the revisions are made in place above
 (version 2).

@@ -75,7 +75,7 @@ corroborates:
 <!-- inactive-ok-file: LIT-591 — Unavailable; IFS, named as the contrast with ACT's self as context, not leaned on -->
 <!-- inactive-ok-file: LIT-906 — Unavailable, unread beyond abstract summaries; the direct evidence, cited as the weakest footing and as the fork the claim turns on -->
 <!-- inactive-ok-file: THEORY-044 THEORY-051 THEORY-064 THEORY-067 — Proposed; the readings this conjecture sets its mechanism beside, with their weak standing stated -->
-<!-- inactive-ok-file: THEORY-tmpbidvo ARG-tmpc8jqe — new on 2026-11-22; the LEAD-078 reading of Ge et al. and the judgement that it does not show this claim's route -->
+<!-- inactive-ok-file: THEORY-2241 ARG-206 — new on 2026-11-22; the LEAD-078 reading of Ge et al. and the judgement that it does not show this claim's route -->
 
 # CLAIM-156: Mindfulness integrates a population of interests by changing which of them may act, and not only by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and that step needs no change in the discount curves
 
@@ -199,13 +199,13 @@ Rechecked after Metzinger's [LIT-1941](../literature.d/LIT-1941.md) and [LIT-194
 
 ## Note of 2026-11-22: [LEAD-078](../leads.d/LEAD-078.md), Ge et al. read; no mediation study found
 
-- **Ge et al. ([LIT-916](../literature.d/LIT-916.md)), now read ([NOTE-tmp1yxz6](../notes.d/NOTE-tmp1yxz6.md), [THEORY-tmpbidvo](../theory.d/THEORY-tmpbidvo.md)).**
+- **Ge et al. ([LIT-916](../literature.d/LIT-916.md)), now read ([NOTE-2331](../notes.d/NOTE-2331.md), [THEORY-2241](../theory.d/THEORY-2241.md)).**
   A week of monitor-and-acceptance training shortened Stroop and Go/No-go
   reaction times at post-test, with accuracy above 95% and unchanged, and
   left delay discounting unchanged in every arm; nothing lasted two weeks.
   The dissociation is the pattern this claim predicts, but the outcomes
   that moved are response speeds, not withheld responses or choice under
-  temptation, and no mediation was tested. [ARG-tmpc8jqe](../arguments.d/ARG-tmpc8jqe.md) holds that the
+  temptation, and no mediation was tested. [ARG-206](../arguments.d/ARG-206.md) holds that the
   trial does not show this claim's route (Rejected); it takes no edge.
   The body's summary of it ("some impulsive behaviours reduced, discounting
   not improved") is accurate to the abstract.

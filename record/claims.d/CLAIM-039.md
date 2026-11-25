@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpbo7rd
 title: 'Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-23'
@@ -32,6 +32,12 @@ history:
     The summary names CLAIM-355 among the claims resting on it,
     since CLAIM-355's rests_on was written on 2026-11-11. No other
     change.
+- version: 5
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 4 abstract, §1 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -42,6 +48,8 @@ tags:
 - social-ontology
 date: '2026-10-04'
 line: organizational-affect
+works:
+- governance-of-becoming
 summary: >-
   The owner's move at U19–U20: an organization can be "angry" or "blind"
   as a system is "happy" in a stable orbit, mapped through Frijda's action
@@ -53,8 +61,9 @@ summary: >-
 uses:
 - TERM-094
 ---
+<!-- inactive-ok-file: CASE-405 CLAIM-431 CLAIM-432 — new or Proposed; the study filed by the lead run of 2026-11-23 and the claims it tests -->
 <!-- inactive-ok-file: CLAIM-527 — Proposed; Massumi's affect, and the claim that places its quantity -->
-<!-- inactive-ok-file: THEORY-tmpb3deq — Proposed; the reading of LEAD-112 cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2229 — Proposed; the reading of LEAD-112 cited in the note of 2026-11-22 -->
 
 # CLAIM-039: Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
 
@@ -175,8 +184,30 @@ Rechecked after [LIT-1905](../literature.d/LIT-1905.md) (Massumi) was filed and 
 experience". [LEAD-112](../leads.d/LEAD-112.md) searched for cases where access and experience come
 apart, kind by kind, and found none that separates them: each case read
 follows access and leaves experience undetermined ([QUESTION-048](../questions.d/QUESTION-048.md), note of
-the same date). The nearest is the split brain ([THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md)), where
+the same date). The nearest is the split brain ([THEORY-2229](../theory.d/THEORY-2229.md)), where
 response selection stays unified while perception divides and the subject's
 unity is undecided: a functional unity with experience left open, but for
 action control, not affect. No reading bears on functional affect itself,
 so no edge is written. The claim is unchanged.
+
+## Note of 2026-11-23: the sanction-lift test leaves this claim where it was
+
+[LEAD-101](../leads.d/LEAD-101.md) names this claim among those it advances. Its run on open sources
+([CASE-405](../cases.d/CASE-405.md)) bears on which functional affect a corporation has, remorse
+or only fear ([CLAIM-432](CLAIM-432.md) against [CLAIM-431](CLAIM-431.md)), not on whether affect can be
+characterized functionally. Every case and estimate in it is read as
+conduct a corporation's appraisals and readiness would produce, which this
+claim licenses; none tests the licence. No relation is written. The claim
+is unchanged.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A12
+
+A12 §13 cites this claim and [QUESTION-053](../questions.d/QUESTION-053.md) correctly and lists institutional
+candidates for functional affect: alarm as "Mobilization of resources
+toward perceived threats", frustration as "Maintained demands that cannot
+be jointly realized", ambivalence as "Competing rankings without a
+prevailing integrative ordering", relief as "Progress relative to a
+protective concern's reference course". It keeps "functional organization,
+emotional synchronization and collective phenomenal experience" apart.
+Bearing: illustration; the separation this claim needs is not advanced. No
+relation is written. The claim is unchanged.

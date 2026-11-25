@@ -10,10 +10,10 @@ history:
   date: '2026-11-22'
   note: >-
     After the reading of Lee, Smith, Adam and Hoogland (LIT-3001,
-    NOTE-tmp1sot8): the sentence calling the work unread updated, the
+    NOTE-2279): the sentence calling the work unread updated, the
     influence paragraph revised in place (the equilibrium derivative
     steps, the gradient-flow derivative peaks; the paper's peaks order by
-    strength), LIT-3001 removed from the grounds (ARG-tmpe7mqz,
+    strength), LIT-3001 removed from the grounds (ARG-191,
     Rejected), and dated notes added for Lee et al. and for Yang
     (LIT-2961). Title and thesis unchanged.
 role: thesis
@@ -58,7 +58,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: CLAIM-807 — Proposed, filed with this claim -->
-<!-- inactive-ok-file: THEORY-tmpm3ux2 THEORY-tmpu0f9k ARG-tmpe7mqz — Proposed or Rejected; the readings of Lee et al. and of Yang filed 2026-11-22, and the argument that takes Lee et al. out of the grounds -->
+<!-- inactive-ok-file: THEORY-2191 THEORY-2193 ARG-191 — Proposed or Rejected; the readings of Lee et al. and of Yang filed 2026-11-22, and the argument that takes Lee et al. out of the grounds -->
 
 # CLAIM-828: When a fine feature's factored contribution is gated by a parent feature, ŷ = g·abφ, the child switches on only when gs > λ, so acquisition follows a partial order of dependencies rather than a fixed coarse-to-fine chronology; and the time a feature becomes unstable, the time it becomes visible and the time its information was first encoded can all differ
 
@@ -138,7 +138,7 @@ threshold under gradient flow would show the same transient on top of
 the step. Lee et al.'s peaks order by signal strength: in Saxe's
 hierarchy, animal against plant before mammal against bird, the order
 [THEORY-740](../theory.d/THEORY-740.md) gives. This claim's ordering by dependency is untested by
-their work ([ARG-tmpe7mqz](../arguments.d/ARG-tmpe7mqz.md)). Whether the influence dynamics they report
+their work ([ARG-191](../arguments.d/ARG-191.md)). Whether the influence dynamics they report
 in transformers have either source is not shown.
 
 ## What it does not say
@@ -152,7 +152,7 @@ gates realize is [QUESTION-514](../questions.d/QUESTION-514.md).
 ## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
 
 Qualifies the influence step; leaves the thesis untested. Read
-([NOTE-tmp1sot8](../notes.d/NOTE-tmp1sot8.md), [THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md)), the paper's model is not this one: no
+([NOTE-2279](../notes.d/NOTE-2279.md), [THEORY-2191](../theory.d/THEORY-2191.md)), the paper's model is not this one: no
 gate and no weight decay, influence taken at a fixed training time
 through the mode strength, plus basis-rotation terms with denominators
 s_j² − s_i². Its Bayesian account puts a peak in a between-phase term
@@ -161,13 +161,13 @@ the link from that account to SGD as its "primary theoretical gap" (§5).
 Its influence peaks follow the hierarchy, "the time point of the
 branching node matches the peaks in influence" (§3), but in Saxe's
 model that order is by strength. The influence paragraph above is
-revised accordingly, and [LIT-3001](../literature.d/LIT-3001.md) leaves the grounds ([ARG-tmpe7mqz](../arguments.d/ARG-tmpe7mqz.md),
+revised accordingly, and [LIT-3001](../literature.d/LIT-3001.md) leaves the grounds ([ARG-191](../arguments.d/ARG-191.md),
 Rejected). The claim's gating, partial order and three times stand on
 its own derivation; the order by dependency awaits [LEAD-207](../leads.d/LEAD-207.md).
 
 ## Note of 2026-11-22: Yang, read
 
-A parallel. Yang's probe ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md), [NOTE-tmpg5q4t](../notes.d/NOTE-tmpg5q4t.md)) has a
+A parallel. Yang's probe ([THEORY-2193](../theory.d/THEORY-2193.md), [NOTE-2280](../notes.d/NOTE-2280.md)) has a
 secondary threshold βc⁽²⁾ = 1/λmax(Σwithin) inside each supercluster, so
 a child split comes only after its parent's: a gating of the same kind,
 on a detached probe, ordered by covariance. The paper leaves

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpp9ox0
 title: 'A self-governing organization''s robustness to compromised constituents is a property of the processes that allocate, audit and revise authority, not only of its constraints on harmful acts; safeguards against capture can also restrict the disagreement and revision that self-governance needs, and where they do security and self-governance trade off, while others, such as audits independent of the audited that protect dissent, serve both, so the two are distinct achievements and not opposed ones'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -35,6 +35,11 @@ history:
     Proposed" were written the day the fifteenth status review
     promoted the claim, and it is Active. Reported by the synthesis
     review of 2026-11-11 (seventh round). No other change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    A dated note added: LEAD-180's run of CASE-108, which
+    illustrates the claim. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -299,3 +304,18 @@ inference. The claim stays Proposed.
 The three notes of 2026-10-29 above end by saying the claim stays
 Proposed. They were written on the day the fifteenth status review
 promoted it (version 2), and are of their time: the claim is Active.
+
+## Note of 2026-11-23: both halves, in a run of the design
+<!-- inactive-ok-block: CLAIM-1091 CLAIM-1018 — new; filed by the lead run of 2026-11-23 -->
+
+[CASE-415](../cases.d/CASE-415.md) runs [CASE-108](../cases.d/CASE-108.md). Both halves appear. A safeguard serving both:
+role-limited audit by evaluators with evidence of their own, judging
+only where they hold it, cut attack success to about 0 and raised the
+minority's capability from 0.27 to 0.92 ([CLAIM-1007](CLAIM-1007.md)). Safeguards that trade
+off: reputation by validation against the majority's prior stopped the
+overt attack and left the dissenters where they were, and with
+evaluators compromised it suppressed them (0.06 of parity). The
+trade-off moved only with evidence independent of the proposals ([CLAIM-1194](CLAIM-1194.md)),
+and compromise of that evidence relocated it ([CLAIM-1077](CLAIM-1077.md)). Whether the
+adaptive arm moved it under compromise is filed as two readings, [CLAIM-1091](CLAIM-1091.md)
+and [CLAIM-1018](CLAIM-1018.md). Nothing meets the defeat condition. The claim is unchanged.

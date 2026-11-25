@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptg7io
 title: 'Processes conditioned never to object coordinate without override at the same behaviour and supervisory cost as processes that negotiate, so the two part only under intervention, when a constituent dissents, or in their history'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-22'
@@ -38,6 +38,12 @@ history:
     A dated note: A23 §1 of the exchange "Assess Depp Heard Abuse"
     gives an institutional instance of matched outcomes that part only
     under intervention. No other change.
+- version: 6
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 1 §5, Article 4 §6, method (ADR-
+    tmpenzcn). No change of title or status.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -53,6 +59,8 @@ date: '2026-10-18'
 line:
 - authenticity
 - will-organization
+works:
+- governance-of-becoming
 undercuts:
 - ARG-030
 grounds:

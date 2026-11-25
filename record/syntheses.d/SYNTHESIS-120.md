@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpsejrp
 title: "In the record, how a high-dimensional representation comes to draw a new distinction is held in parts: concentration of measure sets a null that learning has to beat; geometric separation, decodability and spectral detectability are distinct, and cone occupancy, the BBP threshold and an alignment bifurcation are three thresholds on one scale; coupled embeddings under gradient flow relax rather than act; a factored feature switches on at a threshold quiet but consequential, a parent can gate it, and sample PCA sees it only after a window; entailment and refinement are partial orders; sloppiness and singular strata meet in two places and part in one; and whether stages of learning are transitions among singular strata ordered as the semantic refinements stays open"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added QUESTION-518,
+    an in-force entry of the line no account integrated, to the components
+    filed after the coverage check. The title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here, with its scope conditions;
   an in-force entry of the learned-structure line on how a learned
@@ -72,6 +79,7 @@ integrates:
 - CLAIM-828
 - CLAIM-837
 - QUESTION-514
+- QUESTION-518
 bears_on:
 - QUESTION-515
 - QUESTION-512
@@ -81,13 +89,13 @@ bears_on:
 - QUESTION-514
 - QUESTION-510
 ---
-<!-- inactive-ok-file: LIT-2985 LIT-tmpu2kk5 LIT-tmp309tx THEORY-tmp1nvjs THEORY-tmpqma2p THEORY-tmpdfeto ARG-tmpx5evn — Unavailable, Deferred, Proposed or new; the Mermin–Wagner neighbours and their argument, 2026-11-22 -->
-<!-- inactive-ok-file: ARG-tmpbad4y THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: LIT-2985 LIT-3061 LIT-3051 THEORY-2194 THEORY-2203 THEORY-2199 ARG-200 — Unavailable, Deferred, Proposed or new; the Mermin–Wagner neighbours and their argument, 2026-11-22 -->
+<!-- inactive-ok-file: ARG-169 THEORY-2174 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: TERM-138 — Proposed; filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-802 CLAIM-823 ARG-132 CLAIM-833 ARG-126 ARG-137 ARG-130 ARG-142 — Proposed or Rejected; filed 2026-11-21 after the coverage check -->
 <!-- inactive-ok-file: CLAIM-798 CLAIM-818 CLAIM-842 CLAIM-822 CLAIM-797 CLAIM-847 CLAIM-848 TERM-136 CLAIM-838 CLAIM-799 CASE-301 CLAIM-827 CLAIM-804 CLAIM-839 CLAIM-800 CLAIM-816 ARG-153 CLAIM-834 CLAIM-808 TERM-135 CLAIM-813 CLAIM-812 CASE-302 ARG-138 CLAIM-811 CLAIM-843 CLAIM-844 CLAIM-835 TERM-137 ARG-139 CLAIM-807 CLAIM-828 CLAIM-837 — new and Proposed or Open; components filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: SYNTHESIS-034 SYNTHESIS-030 SYNTHESIS-029 — Proposed or new; accounts this one sits beside -->
-<!-- inactive-ok-file: THEORY-tmpwn1xp — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2189 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # SYNTHESIS-120: In the record, how a high-dimensional representation comes to draw a new distinction is held in parts: concentration of measure sets a null that learning has to beat; geometric separation, decodability and spectral detectability are distinct, and cone occupancy, the BBP threshold and an alignment bifurcation are three thresholds on one scale; coupled embeddings under gradient flow relax rather than act; a factored feature switches on at a threshold quiet but consequential, a parent can gate it, and sample PCA sees it only after a window; entailment and refinement are partial orders; sloppiness and singular strata meet in two places and part in one; and whether stages of learning are transitions among singular strata ordered as the semantic refinements stays open
 
@@ -161,6 +169,7 @@ bears_on:
 - [ARG-137](../arguments.d/ARG-137.md) (the assistant's, Proposed): [CLAIM-843](../claims.d/CLAIM-843.md) narrows [CLAIM-844](../claims.d/CLAIM-844.md); a power law in training relaxation does not indicate a hierarchy of singular orders.
 - [ARG-130](../arguments.d/ARG-130.md) (the assistant's, Proposed): [CLAIM-848](../claims.d/CLAIM-848.md) qualifies [CLAIM-847](../claims.d/CLAIM-847.md); A30's participation-ratio regimes separate only at very large widths.
 - [ARG-142](../arguments.d/ARG-142.md) (A's argument, Rejected by the assistant): A19 §10's analogy from sloppy models to networks fails, since sloppiness assumes a regular Fisher matrix.
+- [QUESTION-518](../questions.d/QUESTION-518.md) (the assistant's, raised by the reading of Hoogland and colleagues, [THEORY-2160](../theory.d/THEORY-2160.md); Open; added at version 2, at the synthesis review of 2026-11-23): what decreases of the local learning coefficient during training correspond to. Its body says neither reading of the owner's U23 ([CLAIM-834](../claims.d/CLAIM-834.md)) accounts for them: reading (b) ([CLAIM-823](../claims.d/CLAIM-823.md)) makes a transition a crossover to a higher-coefficient region and produces increases, and reading (a) ([CLAIM-802](../claims.d/CLAIM-802.md)) says nothing of the coefficient's direction.
 
 ## Links the components state, and where
 
@@ -190,16 +199,16 @@ Integrating sentences of A's syntheses that no entry states, tested at the audit
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)):
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-2257](../notes.d/NOTE-2257.md), [THEORY-2174](../theory.d/THEORY-2174.md)):
 **background.** The measured spectrum (exponent 1.04 over ranks 11 to 500)
 and the smoothness bound behind [CLAIM-848](../claims.d/CLAIM-848.md)'s participation-ratio table are
 now read; the bound is strict and on the tail only, and [CLAIM-848](../claims.d/CLAIM-848.md) and
-[ARG-130](../arguments.d/ARG-130.md) are corrected in place ([ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)). The synthesis's use of the
+[ARG-130](../arguments.d/ARG-130.md) are corrected in place ([ARG-169](../arguments.d/ARG-169.md)). The synthesis's use of the
 participation ratio is unaffected.
 
 ## Note of 2026-11-22: Ansuini and colleagues, read
 
-Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md), [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **qualifies
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-2278](../notes.d/NOTE-2278.md), [THEORY-2189](../theory.d/THEORY-2189.md)): **qualifies
 how "dimension" is read in this account.** In trained CNNs the
 intrinsic dimension of the representations (TwoNN, far below width) and a
 linear count of their variance (one to two orders larger) diverge, because
@@ -213,12 +222,12 @@ means. No component changes.
 The "When order survives" bullet maps [CLAIM-842](../claims.d/CLAIM-842.md) as A's supposition. Read
 through three neighbours of Mermin and Wagner ([LIT-2985](../literature.d/LIT-2985.md), Unavailable),
 the supposition's mathematics is held in the literature as Cassi's
-theorem (1992, [LIT-tmpu2kk5](../literature.d/LIT-tmpu2kk5.md), after Hattori, Hattori and Watanabe 1987,
-[LIT-tmp309tx](../literature.d/LIT-tmp309tx.md), both registered and unread, known through Gelfert and
-Nolting, [THEORY-tmp1nvjs](../theory.d/THEORY-tmp1nvjs.md)) for spin models with a continuous symmetry in
-equilibrium; its limits are Halperin's ([THEORY-tmpqma2p](../theory.d/THEORY-tmpqma2p.md)), and Toner and
-Tu's flock ([THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md)) is a case where breaking equilibrium removes
-the divergence. [CLAIM-842](../claims.d/CLAIM-842.md) now says so (version 2; [ARG-tmpx5evn](../arguments.d/ARG-tmpx5evn.md)). The
+theorem (1992, [LIT-3061](../literature.d/LIT-3061.md), after Hattori, Hattori and Watanabe 1987,
+[LIT-3051](../literature.d/LIT-3051.md), both registered and unread, known through Gelfert and
+Nolting, [THEORY-2194](../theory.d/THEORY-2194.md)) for spin models with a continuous symmetry in
+equilibrium; its limits are Halperin's ([THEORY-2203](../theory.d/THEORY-2203.md)), and Toner and
+Tu's flock ([THEORY-2199](../theory.d/THEORY-2199.md)) is a case where breaking equilibrium removes
+the divergence. [CLAIM-842](../claims.d/CLAIM-842.md) now says so (version 2; [ARG-200](../arguments.d/ARG-200.md)). The
 bullet still maps the claim faithfully; when the account is next
 revised it should say that the criterion is a theorem elsewhere and a
 supposition here. No status change.

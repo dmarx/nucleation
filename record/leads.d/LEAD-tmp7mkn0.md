@@ -12,16 +12,16 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 advances:
-- CLAIM-tmpnookt
+- CLAIM-949
 summary: >-
   Filed from the reading of Dunfield and Krishnaswami ([NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)) for
-  [LEAD-tmp3xevc](LEAD-tmp3xevc.md). [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) places the performative half of typing in
+  [LEAD-215](LEAD-215.md). [CLAIM-949](../claims.d/CLAIM-949.md) places the performative half of typing in
   elaboration or coercion; the survey only cites the elaboration
   literature, and the one change to a term it treats is the programmer's
   annotation, which changes no behaviour. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt — Proposed; the claim this lead tests -->
+<!-- inactive-ok-file: CLAIM-949 — Proposed; the claim this lead tests -->
 
 # LEAD-tmp7mkn0: Read an elaborating type system to test whether elaboration or coercion insertion is the update that moves a term to fit the type it is checked against, as the record's account of specification says
 
@@ -42,7 +42,7 @@ evaluation-order polymorphism" (ICFP 2015, arXiv 1504.07680). Ask:
 
 ## What would count
 
-[CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s elaboration clause confirmed if elaboration moves a term
+[CLAIM-949](../claims.d/CLAIM-949.md)'s elaboration clause confirmed if elaboration moves a term
 it applies to, minimally in a stated sense, to fit its type; narrowed if
 it applies only to terms that already check, so that it translates rather
 than repairs.

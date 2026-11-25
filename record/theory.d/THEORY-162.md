@@ -40,8 +40,8 @@ corroborates:
 - CLAIM-061
 - CLAIM-363
 ---
+<!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-949 — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: LIT-811 — Unavailable, no lawful full text; Stalnaker's "Assertion", named as the common origin -->
-<!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-tmpnookt — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # THEORY-162: What an utterance does to the context it is used in is part of its meaning, and its truth conditions do not fix it: sentences with the same truth conditions can differ in what they make available to later discourse, in whether they inform or only test, and in whether they describe a state of affairs or bring one about
 
@@ -134,5 +134,5 @@ A parallel, no relation written, and nothing toward promote_when. The
 checking judgment of bidirectional typing ([THEORY-tmptsz1u](THEORY-tmptsz1u.md), read in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)) is a
 test in Veltman's sense: it passes or fails against the term it meets and
 changes nothing (§1, §9.1). Where the record joins Krifka's performative
-update to typing ([CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)), the survey supplies no index-changing
+update to typing ([CLAIM-949](../claims.d/CLAIM-949.md)), the survey supplies no index-changing
 counterpart; the nearest is the programmer's annotation (§3.2).

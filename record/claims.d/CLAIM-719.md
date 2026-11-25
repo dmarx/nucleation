@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmp69o4u
 status: Proposed
 title: "An institution can be reliably responsive to reasons within its governing mechanism and unresponsive to justified reasons for revising that mechanism, and because its own actions change the mechanism, responsiveness at the first order is no evidence of responsiveness at the second; identical decisions can come from different capacities to be governed by reasons"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -13,6 +13,13 @@ history:
     measure of second-order responsiveness, the lead filer's; no reading
     supports that completion is a known weak spot. No change of status
     or title.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §4.1 uses
+    its distinction between recognized problems and revising the
+    categories. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -43,6 +50,8 @@ summary: >-
   capacities. The definitions are asserted, not derived, and ρ^(2) is
   named without being defined. The wording is A's; adopting it is the
   owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: TERM-128 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: CASE-226 CASE-229 CLAIM-624 CLAIM-685 — Proposed; the record's nearest entries, cited with their standing -->
@@ -159,8 +168,13 @@ A postmortem's action items are an organization's own statement of what it will 
 No status changes.
 
 ## Note of 2026-11-22: completion not measurable from published documents
-<!-- inactive-ok-file: CASE-tmp1ya4r — new; the pilot and its finding, filed for LEAD-119 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-335 — new; the pilot and its finding, filed for LEAD-119 on 2026-11-22 -->
 
-The pilot of postmortems run for [LEAD-119](../leads.d/LEAD-119.md) ([CASE-tmp1ya4r](../cases.d/CASE-tmp1ya4r.md)) coded action items by level but could not measure completion. None of the 30 public postmortems or the 10 CSB reports coded reports whether its items were carried out. The completion measure of this entry's note of 2026-11-18 needs data from outside the documents, such as the CSB's recommendation status records or an organization's tracker.
+The pilot of postmortems run for [LEAD-119](../leads.d/LEAD-119.md) ([CASE-335](../cases.d/CASE-335.md)) coded action items by level but could not measure completion. None of the 30 public postmortems or the 10 CSB reports coded reports whether its items were carried out. The completion measure of this entry's note of 2026-11-18 needs data from outside the documents, such as the CSB's recommendation status records or an organization's tracker.
 
 No status changes.
+
+## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: CASE-289 SYNTHESIS-104 SYNTHESIS-038 — Proposed; the candidate case and the accounts that examined it -->
+Still no case, the assistant's. A gap of the manuscript governance-of-possibility, §13.2 (GD6). No case on the record shows an institution responsive at the first order and unresponsive at the second. The one candidate examined, [CASE-289](../cases.d/CASE-289.md), was found with the court's opinion read to be a first-order failure: the statute indexes the gate, and nothing on the record says how the Department answered reasons to revise it ([SYNTHESIS-038](../syntheses.d/SYNTHESIS-038.md); [SYNTHESIS-104](../syntheses.d/SYNTHESIS-104.md)). The measure of the note of 2026-11-18 could not be applied to published postmortems (the note of 2026-11-22). The manuscript's model offers only an analogue: under the peak budget rule a review that needs capacity never starts, so a new demand is excised by default, which is a failure to revise for want of means, not of responsiveness to reasons. The note is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.

@@ -50,6 +50,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-056 THEORY-029 — Proposed; THEORY-056 is the account this one is weighed against, THEORY-029 is named to say this one does not bear on it -->
 <!-- inactive-ok-file: LIT-600 — Unavailable, unread; Norman & Shallice named as the tradition EVC formalises, not leaned on -->
 <!-- inactive-ok-file: THEORY-067 THEORY-062 THEORY-061 — new in this batch; accounts this one is set beside -->
+<!-- inactive-ok-file: CASE-382 CLAIM-981 — new on 2026-11-22; the cost-side fit and its finding, cited in the note of 2026-11-22 -->
 
 # THEORY-070: How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control
 
@@ -188,3 +189,20 @@ implementing beyond the cingulotomy half-result. [CLAIM-159](../claims.d/CLAIM-1
 2026-10-29 on [THEORY-1110](THEORY-1110.md), the proposal split off; that bears on what the
 paper proposes, not on whether it holds. The title asserts the thesis, not
 a report of it, so it keeps its condition ([ADR-065](../decisions.d/ADR-065.md) §6).
+
+## Note of 2026-11-22: a cost-side fit is now in the record (promote_when (1))
+
+Carrying out [LEAD-128](../leads.d/LEAD-128.md), the assistant fitted this account's EVC
+computation to 122 participants' cognitive-effort-discounting choices (OSF
+vnj8x, CC-BY): [CASE-382](../cases.d/CASE-382.md), with the finding stated as
+[CLAIM-981](../claims.d/CLAIM-981.md). The fitted cost of control rises with task load, the cost
+term beats a reward-only null (likelihood-ratio χ²(3) = 10.5, p = 0.015; AIC
+favours it), and control intensity rises with payoff (β > 0) and falls with
+cost — both directions of `promote_when` (1) in one fit. The caveat: it
+measures intensity by revealed choice of effort level, not by an accumulator
+parameter or conflict adaptation as `promote_when` (1) specifies, and a search
+found no published fit demonstrating the cost direction by those measures (the
+open EVC accumulator fits — Leng et al. 2021, PMC8746743; Masís Obando et al.
+2025, PMC12595486 — show the payoff direction). `promote_when` (2)'s
+dissociation is untouched. Whether this suffices to promote the account is the
+owner's call; no status changes.

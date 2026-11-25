@@ -26,6 +26,7 @@ summary: >-
   in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-477 CLAIM-478 CLAIM-134 — Proposed; the frame whose defeater this question states, and neighbours cited as open -->
+<!-- inactive-ok-file: CLAIM-1094 CLAIM-1105 CLAIM-1161 CLAIM-1037 — new; LEAD-195's rulings on symmetries, conservation laws and possibility facts, 2026-11-22 -->
 
 # QUESTION-450: Does a law that constrains without being produced by what it constrains, such as a symmetry, a conservation law or constructor theory's laws of possibility, count as a constraint realized and maintained by something, or does it individuate kinds while realized by nothing?
 
@@ -101,3 +102,25 @@ kind is realized by anything the kind's members do.
 It differs from [QUESTION-284](QUESTION-284.md), which asks when constraints constitute
 rather than characterize. This question asks, of the constraints that
 plainly individuate kinds, whether they are realized at all.
+
+## Note of 2026-11-22: answered in part, as alternatives
+
+[LEAD-195](../leads.d/LEAD-195.md) filed answers to both halves, as Proposed alternatives.
+
+- **Symmetries and conservation laws.** [CLAIM-1094](../claims.d/CLAIM-1094.md) (leaned to) takes
+  this question's second answer for effective laws, with a worked realizer
+  ([THEORY-158](../theory.d/THEORY-158.md)). It treats the third answer, realized by nothing, as a
+  condition on [CLAIM-477](../claims.d/CLAIM-477.md)'s scope, not a result, since no result shows a law
+  fundamental. It rejects the first, the thin sense, because defeater (b)
+  could then never fire. [CLAIM-1105](../claims.d/CLAIM-1105.md) takes the third answer for the
+  symmetries of current fundamental theory.
+- **Possibility facts.** [CLAIM-1161](../claims.d/CLAIM-1161.md) (leaned to): ruled with the laws
+  they are facts about, and their definition states realization and
+  maintenance modally. [CLAIM-1037](../claims.d/CLAIM-1037.md): realized by nothing, if
+  constructor theory's programme holds.
+
+Wigner's classification, the worked case named under "What would count",
+is argued in [CLAIM-1094](../claims.d/CLAIM-1094.md) and [CLAIM-1105](../claims.d/CLAIM-1105.md). The particles realize the
+kinds and not the symmetry, and the two differ only on whether that
+symmetry may be taken as fundamental. No status change; choosing is the
+owner's.

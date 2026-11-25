@@ -181,3 +181,18 @@ decision toward the granting operator in 1,772 of 2,141 trials
 ## Note of 2026-11-06: what holds it back
 
 Rechecked after the [ADR-070](../decisions.d/ADR-070.md) vocabulary revisions of [CLAIM-375](CLAIM-375.md) and [CLAIM-502](CLAIM-502.md) (2026-11-04), which change no content. Still missing: a population model in which operators bound by the two conditions delegate, and delegate to aligned others rather than at random.
+
+## Note of 2026-11-23: the population model, run
+
+The population model this claim's notes said was missing has been run as [CASE-420](../cases.d/CASE-420.md) ([CLAIM-1081](CLAIM-1081.md)). It is a grant game among 20 operators on 30 populations. Operators bound by the two conditions delegated their whole budget, all of it to their own side of the decision, against a chance share of 0.47, so the second disjunct of the defeat condition is not met in this model. Under leave-one-out delegation, the authority they placed two hops or more away, 43% of it, stayed on their side, and none returned to them. The incentive is not guaranteed for each move beyond one hop (the note of 2026-10-30), yet it sorted every grant at equilibrium. Two further results bear on the claim's wording. Within their side, operators delegated to its extremes and not its nearest members ([CLAIM-1147](CLAIM-1147.md), which sets out two readings of "aligned others" for the owner). When the same grant also set whose evidence one reads, the incentive split the population into factions that read only their own side ([CLAIM-1029](CLAIM-1029.md)). The claim is unchanged.
+
+## Note of 2026-11-23: what holds it back
+
+The population model has been run, and it reproduces ([CASE-420](../cases.d/CASE-420.md), CLAIM-
+tmpdpnid). Bound operators delegated their whole budget, all of it to their
+own side, so neither disjunct of the defeat condition is met. What remains
+is the owner's choice between [CLAIM-1147](CLAIM-1147.md)'s readings of 'aligned others'.
+On Reading A (one's own side of the decision) the claim goes Active. On
+Reading B (nearest in policy) operators chose their side's extremes and not
+its nearest members, so the claim needs a narrower decision rule or a cost
+on distance.

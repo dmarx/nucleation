@@ -4,7 +4,12 @@ status: Open
 formerly:
 - LEAD-tmpvgdvd
 title: 'Read the scaffolding and individuality works'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    A dated note saying what LEAD-176's worker did and what remains. Status and stage unchanged.
 stage: idea
 priority: medium
 method:
@@ -27,7 +32,9 @@ summary: >-
   From the record's Deferred and Unfetched works. Filed by the backlog
   audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: LIT-1926 LIT-1927 LIT-1932 LIT-1935 LIT-1937 LIT-1940 — Deferred; cited in the backlog audit of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-2270 THEORY-2271 THEORY-2269 THEORY-2273 THEORY-2275 THEORY-418 — Proposed; the readings this lead filed, and the account it notes -->
+<!-- inactive-ok-file: NOTE-2367 — Skimmed; the partial reading of the Griesemer neighbour -->
+<!-- inactive-ok-file: LIT-1926 LIT-1932 LIT-1937 LIT-1940 — Unavailable or Unfetched since the reading of 2026-11-22; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-176: Read the scaffolding and individuality works
 
@@ -53,3 +60,37 @@ Read the works, all Deferred, open access and never tried.
 ## What would count
 
 Readings that bear on imposed against produced boundaries test [CLAIM-194](../claims.d/CLAIM-194.md).
+
+## Note of 2026-11-22: what was done
+
+Carried out on branch `claude/lead-176-scaffolding-individuality`.
+
+- **Read**: [LIT-1927](../literature.d/LIT-1927.md) (Bourrat 2022, author's accepted manuscript;
+  [NOTE-2361](../notes.d/NOTE-2361.md), [THEORY-2270](../theory.d/THEORY-2270.md)) and [LIT-1935](../literature.d/LIT-1935.md) (Shavit and Sharon 2023,
+  PMC; [NOTE-2363](../notes.d/NOTE-2363.md), [THEORY-2271](../theory.d/THEORY-2271.md)). Both now Active.
+- **Unfetched**: [LIT-1940](../literature.d/LIT-1940.md) (Black, Bourrat and Rainey 2020). bioRxiv
+  returned 429 (Cloudflare), PhilArchive a Cloudflare challenge, MPG PuRe
+  403. Neighbour read: the same group's 2024 paper, [LIT-3137](../literature.d/LIT-3137.md)
+  ([NOTE-2362](../notes.d/NOTE-2362.md), [THEORY-2269](../theory.d/THEORY-2269.md)).
+- **Unavailable**: [LIT-1926](../literature.d/LIT-1926.md) (Wimsatt 2007, a closed book), with
+  Wimsatt and Schank 2004 read in its place for the definition of
+  generative entrenchment ([LIT-3138](../literature.d/LIT-3138.md), [NOTE-2365](../notes.d/NOTE-2365.md), [THEORY-2273](../theory.d/THEORY-2273.md));
+  [LIT-1932](../literature.d/LIT-1932.md) and [LIT-1937](../literature.d/LIT-1937.md) (Griesemer 2000 and 2001), with the SEP entry on
+  replication and reproduction skimmed in their place ([LIT-3140](../literature.d/LIT-3140.md),
+  [NOTE-2367](../notes.d/NOTE-2367.md), [THEORY-2275](../theory.d/THEORY-2275.md)).
+- **Dated notes** on [CLAIM-194](../claims.d/CLAIM-194.md), [CLAIM-529](../claims.d/CLAIM-529.md), [CLAIM-531](../claims.d/CLAIM-531.md), [CLAIM-522](../claims.d/CLAIM-522.md),
+  [CLAIM-184](../claims.d/CLAIM-184.md), [CLAIM-185](../claims.d/CLAIM-185.md), [QUESTION-398](../questions.d/QUESTION-398.md), [QUESTION-284](../questions.d/QUESTION-284.md), [QUESTION-093](../questions.d/QUESTION-093.md),
+  [QUESTION-277](../questions.d/QUESTION-277.md) and [THEORY-418](../theory.d/THEORY-418.md).
+
+What the readings change: imposed against produced boundaries
+([CLAIM-194](../claims.d/CLAIM-194.md)) has a biological form in Bourrat's Darwinian-like against
+Darwinian collectives, told apart by removing the scaffold, which is
+[CLAIM-529](../claims.d/CLAIM-529.md)'s release criterion as its source states it; in his model
+the release lifts one part of the scaffold only. Entrenchment as Wimsatt
+defines it does not entail closure ([CLAIM-531](../claims.d/CLAIM-531.md), corroborated).
+
+What remains: [LIT-1940](../literature.d/LIT-1940.md) can be read when bioRxiv or PhilArchive is
+reachable; [LIT-1932](../literature.d/LIT-1932.md) and [LIT-1937](../literature.d/LIT-1937.md), Griesemer's own texts, need a copy, or
+an owner's ruling on a text-mining cache of [LIT-1932](../literature.d/LIT-1932.md) (see its status
+note); the 2007 book needs a copy. The three-stage scenario of [LIT-1937](../literature.d/LIT-1937.md),
+and so the owner's question about circularity, stays unread.

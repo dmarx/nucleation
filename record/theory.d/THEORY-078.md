@@ -165,7 +165,7 @@ whether it sits above or below it ([NOTE-474](../notes.d/NOTE-474.md)).
 
 ## Note of 2026-11-21: Song, Ahn & Yun, read
 
-Background ([NOTE-tmpw0eql](../notes.d/NOTE-tmpw0eql.md)). The top C Fisher eigenvalues this account
+Background ([NOTE-2250](../notes.d/NOTE-2250.md)). The top C Fisher eigenvalues this account
 ties to class-mean logit derivatives span the dominant subspace Song, Ahn
 and Yun study, with k = C. They find that SGD's gradient aligns with it
 spuriously, through noise, and that the loss falls in its complement. No

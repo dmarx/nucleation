@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp675a9
 title: 'Where an intervention acts in a system''s constraint structure can predict whether it achieves a target better than how much intervention there is, and adding an intervention to a successful set can make it fail'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -19,6 +19,14 @@ history:
     defeater: the supplement's energy model and noise were not read, and
     nothing reports the failure disappearing. A duplicated "No status
     changes." line removed.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §10.1, §13.6. No other
+    change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -55,9 +63,13 @@ summary: >-
   Chen, Choi and Mahadevan add a structural instance. The construction is
   the filer's, from A's reading of Stern et al.; adopting it is the
   owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-215 — Proposed or new; cited from the note on A's predictions -->
 <!-- inactive-ok-file: THEORY-1368 CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-389 CLAIM-1085 CLAIM-1205 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-406 CLAIM-1160 CLAIM-1107 CLAIM-1063 THEORY-2296 — new; filed by the lead run of 2026-11-23 on equal budgets -->
 
 # CLAIM-562: Where an intervention acts in a system's constraint structure can predict whether it achieves a target better than how much intervention there is, and adding an intervention to a successful set can make it fail
 
@@ -156,3 +168,29 @@ No status changes.
 ## Note of 2026-11-07: UFI cannot register that more is worse, from the second synthesis review
 
 UFI is the fraction of creases in the union of the actuated creases' folding islands, so adding an actuator can only keep it or raise it: it is monotone in the actuator set. The paper's own result that "adding another actuator with a very small folding island" can "stop the previously successful folding" is a case where success falls while UFI does not. So UFI, however good a predictor of success across sets of one size, cannot be the predictor [QUESTION-380](../questions.d/QUESTION-380.md) asks for wherever adding a nucleus can hurt; [CLAIM-599](CLAIM-599.md) holds the general form, that a family described by minimal sets needs adding relations never to hurt. No status change.
+
+## Note of 2026-11-23: both findings recur in a kinetic constraint-growth model
+
+The lead run of 2026-11-23 ([CASE-389](../cases.d/CASE-389.md)) found both of this claim's findings in
+a system of another kind, grown stochastically with a binding threshold
+rather than by energy descent: island coverage ranks seed sets well above
+the number of seeds, and adding a seed can halve the chance of the target
+([CLAIM-1085](CLAIM-1085.md), which corroborates this claim). The mechanism differs:
+the harmful seeds there have large islands, not the small one of Fig. 5h,
+and a race reading of the paper's explanation fails as a predictor there
+([CLAIM-1205](CLAIM-1205.md)). No status change.
+
+## Note of 2026-11-23: an organizational case at equal budget
+
+The lead run of 2026-11-23 for this claim's organizational test
+([CASE-406](../cases.d/CASE-406.md)) found one open evaluation that meets a standard written
+before coding. In Andhra Pradesh's randomized evaluation of government
+primary schools, an extra contract teacher, a block grant for materials
+and an individual teacher bonus each cost about Rs 10,000 per school a
+year, and the bonus raised test scores three times as much, 0.27 SD
+against 0.09 SD ([THEORY-2296](../theory.d/THEORY-2296.md)). Read as placement, it corroborates the
+first half here in an organization ([CLAIM-1160](CLAIM-1160.md), the filer's lean);
+read as a difference of instrument, conditional pay against unconditional
+resources, it illustrates without testing ([CLAIM-1107](CLAIM-1107.md)). No case
+coded bears on the second half, that adding can hurt
+([CLAIM-1063](CLAIM-1063.md)). No status change.

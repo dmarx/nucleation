@@ -6,9 +6,9 @@ form: evidence
 grounds:
 - THEORY-tmptsz1u
 concludes:
-- CLAIM-tmpnookt
+- CLAIM-949
 uses:
-- TERM-tmp8b1yl
+- TERM-151
 tags:
 - logic
 - philosophy-of-language
@@ -18,7 +18,7 @@ line:
 - record-as-apparatus
 summary: >-
   Whether the reading of Dunfield and Krishnaswami ([THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md), in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md))
-  supports [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s correspondence between bidirectional typing
+  supports [CLAIM-949](../claims.d/CLAIM-949.md)'s correspondence between bidirectional typing
   and direction of fit. It supports it for what the type is taken as: a
   fact when synthesized, a requirement when checked, in the authors' own
   words. It does not support reading checking as an update: both modes
@@ -28,14 +28,14 @@ summary: >-
   fit is held in [CLAIM-tmpugw2q](../claims.d/CLAIM-tmpugw2q.md). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt — Proposed; the claim argued about and the term it is stated in -->
+<!-- inactive-ok-file: CLAIM-949 — Proposed; the claim argued about and the term it is stated in -->
 <!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # ARG-tmpcpo8g: Dunfield and Krishnaswami's survey, as evidence, shows synthesis reading a type off a term as a fact and checking holding a term to a type given as a requirement, which supports reading the two as the two directions of fit, and shows that neither moves the term, so that the update that moves a term to fit lies outside checking, where the survey does not go
 
 ## The inference
 
-[CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) says that bidirectional typing splits typing into
+[CLAIM-949](../claims.d/CLAIM-949.md) says that bidirectional typing splits typing into
 "inference, which reads a type off a term (the type is written to fit the
 term: word to world, a descriptor), and checking, which holds a term to a
 type given in advance (world to word, a requirement)", that "Checking only
@@ -79,7 +79,7 @@ elaboration or coercion". [THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md) repo
 
 ## Verdict
 
-Supports, narrowed, the bidirectional bullet of [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md): synthesis
+Supports, narrowed, the bidirectional bullet of [CLAIM-949](../claims.d/CLAIM-949.md): synthesis
 and checking correspond to description and requirement in what the type
 is taken as, in the standard recipe. It does not support reading the
 split as informative against performative update, and leaves the

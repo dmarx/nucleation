@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpgjdby
 title: 'A perspective''s tolerance for another process''s contribution is its criterion for conferring influence on that contribution, set by its own priorities: tolerances are directed, and the discrepancy each measures is the perspective''s own, so inside its tolerance the perspective''s interventions raise the other''s share of future influence and outside it they lower it; meeting the tolerance is necessary for that conferral where the criterion binds, and sufficient only for a grant, under a rule that grants influence on it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -25,6 +25,12 @@ history:
     measures discrepancy by its own priorities, is about which
     discrepancies count as significant, not whether a distinction can be
     recovered. No other change.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 4 formal centre (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,6 +50,8 @@ date: '2026-11-04'
 line:
 - will-organization
 - distributed-agency
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-534
 - CLAIM-347
@@ -148,3 +156,44 @@ perspective can contest it.
   frustration under the original demands."
 - **That a perspective's priorities are warranted.** The claim is about
   structure, not about which criteria are good.
+
+<!-- inactive-ok-file: CASE-239 — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
+
+A32 §6 reads the directed tolerance Q_{i→j}(y, c) = 1[d_i(y, c) ≤
+τ_{i→j}(c)] as "very close to a conditional service specification": y
+the delivered contribution, c the context, d_i the recipient's discrepancy
+measure, τ its tolerance, Q the acceptance condition, the granting rule a
+conditional commitment of support, negative conferral the consequence of
+unacceptable performance. With [TERM-101](../terms.d/TERM-101.md) and [TERM-103](../terms.d/TERM-103.md): "receiving a
+benefit is not sufficient to establish a contract", just as a positive
+effect is not a grant. It proposes letting d_i, τ and the grant conditions
+"evolve through the history of interaction", giving "endogenously
+acquired contractual terms, rather than fixed acceptance criteria supplied
+by the modeler". That extension would meet the burden [QUESTION-128](../questions.d/QUESTION-128.md) and
+[CASE-239](../cases.d/CASE-239.md) state (the standard learned rather than supplied), and A32 does
+not construct it; it is an extension proposed, not made. A32 §20 ranks
+this claim second among the points of contact. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A16 §8
+
+A16 §8 reads an error budget as tolerance made explicit in an agreement:
+"A service is not always expected to operate without any failure. Its
+tolerable deviation can be explicitly specified, allowing reliability
+concerns and development concerns to coexist", citing Google SRE policies
+"that restrict releases when a service exhausts its error budget" (the
+example policy is [LIT-tmpwfb8b](../literature.d/LIT-tmpwfb8b.md)). "A process need not continuously override
+competing processes merely because its preferred state is unrealized. A
+contract can establish a region of acceptable deviation within which other
+perspectives remain free to govern." "Escalation is determined by a
+maintained agreement, rather than by every discrepancy independently
+claiming unrestricted control." Against this claim, which makes each
+tolerance the perceiving perspective's own, set by its priorities, A16's
+tolerance is negotiated between perspectives and maintained as a contract
+([CLAIM-tmpkvzcn](CLAIM-tmpkvzcn.md), [CLAIM-tmp7hqtl](CLAIM-tmp7hqtl.md)): the threshold at which reliability work
+takes precedence is fixed jointly, not by the reliability concern alone.
+Bearing: an extension from a directed tolerance to an agreed one. The
+claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+<!-- inactive-ok-file: CLAIM-tmpkvzcn CLAIM-tmp7hqtl LIT-tmpwfb8b — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->

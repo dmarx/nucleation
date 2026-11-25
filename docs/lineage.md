@@ -2,7 +2,7 @@
 
 # Lines of work
 
-91 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+94 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -13,6 +13,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-1942](../record/literature.d/LIT-1942.md) — The myth of cognitive agency: subpersonal thinking as a cyclically recurring loss of mental autonomy *(Active)*
   - [LIT-1941](../record/literature.d/LIT-1941.md) — M-Autonomy *(Active)*
     - [LIT-1945](../record/literature.d/LIT-1945.md) — The Problem of Mental Action: Predictive Control without Sensory Sheets *(Active)*
+
+### From Increasing propensity to mind-wander with transcranial direct current stimulation
+
+- [LIT-3135](../record/literature.d/LIT-3135.md) — Increasing propensity to mind-wander with transcranial direct current stimulation *(Active)*
+  - [LIT-3134](../record/literature.d/LIT-3134.md) — Transcranial stimulation of the frontal lobes increases propensity of mind-wandering without changing meta-awareness *(Active)*
+- alongside: [LIT-3133](../record/literature.d/LIT-3133.md) — Increasing propensity to mind-wander by transcranial direct current stimulation? A registered report *(Active)*
 
 ### From The Society of Mind
 
@@ -156,6 +162,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - alongside: [LIT-660](../record/literature.d/LIT-660.md) — Mode Connectivity Beyond Classifiers: Evidence from Generative and Contrastive Models *(Proposed)*
 - alongside: [LIT-675](../record/literature.d/LIT-675.md) — TIES-Merging: Resolving Interference When Merging Models *(Active)*
 - alongside: [LIT-681](../record/literature.d/LIT-681.md) — Optimizing Mode Connectivity for Class Incremental Learning *(Active)*
+
+### From Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse
+
+- [LIT-3172](../record/literature.d/LIT-3172.md) — Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse *(Active)*
+  - [LIT-2861](../record/literature.d/LIT-2861.md) — A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning *(Active)*
 
 ### From Algebraic Geometry and Statistical Learning Theory
 
@@ -325,6 +336,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-2012](../record/literature.d/LIT-2012.md) — Cognitive control over learning: Creating, clustering, and generalizing task-set structure *(Active)*
   - [LIT-2007](../record/literature.d/LIT-2007.md) — Human EEG Uncovers Latent Generalizable Rule Structure during Learning *(Active)*
+
+### From Increasing propensity to mind-wander with transcranial direct current stimulation
+
+- [LIT-3135](../record/literature.d/LIT-3135.md) — Increasing propensity to mind-wander with transcranial direct current stimulation *(Active)*
+  - [LIT-3134](../record/literature.d/LIT-3134.md) — Transcranial stimulation of the frontal lobes increases propensity of mind-wandering without changing meta-awareness *(Active)*
+- alongside: [LIT-3133](../record/literature.d/LIT-3133.md) — Increasing propensity to mind-wander by transcranial direct current stimulation? A registered report *(Active)*
 
 ### From Psychological Predicates
 
@@ -680,6 +697,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - alongside: [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Unavailable)*
 - alongside: [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Active)*
 
+### From Efficient compression in color naming and its evolution
+
+- [LIT-810](../record/literature.d/LIT-810.md) — Efficient compression in color naming and its evolution *(Active)*
+  - [LIT-3106](../record/literature.d/LIT-3106.md) — The evolution of color naming reflects pressure for efficiency: Evidence from the recent past *(Unfetched)*
+  - [LIT-3107](../record/literature.d/LIT-3107.md) — Evolution and efficiency in color naming: The case of Nafaanra *(Active)*
+
 ### From Mutual information, neural networks and the renormalization group
 
 - [LIT-873](../record/literature.d/LIT-873.md) — Mutual information, neural networks and the renormalization group *(Active)*
@@ -727,6 +750,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-242](../record/literature.d/LIT-242.md) — On the Stepwise Nature of Self-Supervised Learning *(Active)*
   - [LIT-855](../record/literature.d/LIT-855.md) — Closed-Form Training Dynamics Reveal Learned Features and Linear Structure in Word2Vec-like Models *(Active)*
 
+### From Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse
+
+- [LIT-3172](../record/literature.d/LIT-3172.md) — Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse *(Active)*
+  - [LIT-2861](../record/literature.d/LIT-2861.md) — A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning *(Active)*
+
 ### From Algebraic Geometry and Statistical Learning Theory
 
 - [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Unavailable)*
@@ -748,6 +776,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-273](../record/literature.d/LIT-273.md) — Mathematical Foundations for a Compositional Distributional Model of Meaning *(Active)*
   - [LIT-272](../record/literature.d/LIT-272.md) — Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras *(Active)*
+
+### From Efficient compression in color naming and its evolution
+
+- [LIT-810](../record/literature.d/LIT-810.md) — Efficient compression in color naming and its evolution *(Active)*
+  - [LIT-3106](../record/literature.d/LIT-3106.md) — The evolution of color naming reflects pressure for efficiency: Evidence from the recent past *(Unfetched)*
+  - [LIT-3107](../record/literature.d/LIT-3107.md) — Evolution and efficiency in color naming: The case of Nafaanra *(Active)*
 
 ## logic
 
@@ -955,6 +989,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [LIT-733](../record/literature.d/LIT-733.md) — In Epistemic Networks, Is Less Really More? *(Active)* — also corrects LIT-724
 
 ## neuroscience
+
+### From Increasing propensity to mind-wander with transcranial direct current stimulation
+
+- [LIT-3135](../record/literature.d/LIT-3135.md) — Increasing propensity to mind-wander with transcranial direct current stimulation *(Active)*
+  - [LIT-3134](../record/literature.d/LIT-3134.md) — Transcranial stimulation of the frontal lobes increases propensity of mind-wandering without changing meta-awareness *(Active)*
+- alongside: [LIT-3133](../record/literature.d/LIT-3133.md) — Increasing propensity to mind-wander by transcranial direct current stimulation? A registered report *(Active)*
 
 ### From Being No One: The Self-Model Theory of Subjectivity
 
@@ -1189,6 +1229,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-242](../record/literature.d/LIT-242.md) — On the Stepwise Nature of Self-Supervised Learning *(Active)*
   - [LIT-855](../record/literature.d/LIT-855.md) — Closed-Form Training Dynamics Reveal Learned Features and Linear Structure in Word2Vec-like Models *(Active)*
+
+### From Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse
+
+- [LIT-3172](../record/literature.d/LIT-3172.md) — Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse *(Active)*
+  - [LIT-2861](../record/literature.d/LIT-2861.md) — A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning *(Active)*
 
 ### From Understanding image representations by measuring their equivariance and equivalence
 

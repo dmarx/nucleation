@@ -47,7 +47,7 @@ nothing counted. Nothing beyond that reading is held here.
 ## Note of 2026-11-22: Harvey, the 10 Principles, read
 
 **Confirms the premise, not the reading**, no edge ([LIT-2175](../literature.d/LIT-2175.md),
-[NOTE-tmpcr2sz](../notes.d/NOTE-tmpcr2sz.md)). The principles state the unconditional gift and make
+[NOTE-2314](../notes.d/NOTE-2314.md)). The principles state the unconditional gift and make
 participation and self-expression gifts open to everyone ("Everyone is
 invited to work"), which fits a generalized reciprocity. They say nothing
 of gratitude, of non-participation as a threat, or of how the organization

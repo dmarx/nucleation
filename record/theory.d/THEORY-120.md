@@ -238,7 +238,7 @@ The texts that settle what identification became, [LIT-575](../literature.d/LIT-
 
 ## Note of 2026-11-22: Howard, Gagné and Bureau, read
 
-**Indirect**, no edge ([LIT-1996](../literature.d/LIT-1996.md), [NOTE-tmp3k6if](../notes.d/NOTE-tmp3k6if.md)). Identified regulation, acting
+**Indirect**, no edge ([LIT-1996](../literature.d/LIT-1996.md), [NOTE-2313](../notes.d/NOTE-2313.md)). Identified regulation, acting
 "in line with personal values", is self-determination theory's nearest
 analogue of endorsement; integrated regulation adds coherence with one's
 other values. The meta-analysis finds the two indistinguishable in

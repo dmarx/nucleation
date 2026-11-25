@@ -39,10 +39,10 @@ summary: >-
 draws_on:
 - THEORY-756
 - THEORY-820
-- THEORY-tmpttfgp
+- THEORY-2205
 ---
 <!-- inactive-ok-file: THEORY-2028 — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2205 — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
 
 # TERM-062: causal state, of a process relative to a target future: a class of pasts that induce the same conditional law over a declared target future, the coarsest prescient partition of the pasts; the causal-state machine organizes those classes and the transitions they induce, and the ε-machine and the υ-machine are that machine for different choices of source pasts and target
 
@@ -98,7 +98,7 @@ No status change.
 ## Note of 2026-11-22: Shalizi and Moore, read
 
 **Supports the term's target-relativity**, as an early statement of it
-([LIT-2996](../literature.d/LIT-2996.md), read in [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md); [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md), which this term now
+([LIT-2996](../literature.d/LIT-2996.md), read in [NOTE-2294](../notes.d/NOTE-2294.md); [THEORY-2205](../theory.d/THEORY-2205.md), which this term now
 `draws_on`). Shalizi and Moore use the ε-machine case, the observed
 process's own pasts for its own future (§II), and read the causal states
 of a chosen observable as its macrostates: "A different set of initial

@@ -6760,4 +6760,3429 @@ The defect sweep requested by the owner after the synthesis reviews of 2026-11-1
 
 - Thompson's "Reflections on Trusting Trust" ([LIT-2332](record/literature.d/LIT-2332.md)) and Stute's story of the attack met in practice ([LIT-2331](record/literature.d/LIT-2331.md)), read, with their notes and readings, and [CASE-232](record/cases.d/CASE-232.md), a self-reproducing compiler Trojan horse, filed at the owner's request for [QUESTION-449](record/questions.d/QUESTION-449.md); dated notes on that question and on [CLAIM-522](record/claims.d/CLAIM-522.md).
 
+### Changed
+
+- Six decisions move to Active at the owner's ruling of 2026-11-21 on the promotion pull request: "adopt the ADRs and the candidate line, then merge". They are [ADR-135](record/decisions.d/ADR-135.md) (the work renamed), [ADR-129](record/decisions.d/ADR-129.md) (cross-line accounts), [ADR-131](record/decisions.d/ADR-131.md) (the claim test routes, not rejects), [ADR-127](record/decisions.d/ADR-127.md) (the dialectic regime, version 4), [ADR-132](record/decisions.d/ADR-132.md) (when a hold lifts) and [ADR-128](record/decisions.d/ADR-128.md) (shared descriptions). Each was applied on staging when it was proposed.
+
+### Decided
+
+At the owner's "adopt" of 2026-11-21:
+
+- **[ADR-137](record/decisions.d/ADR-137.md) is Active.** A filing fills the gaps a source leaves in its own argument, in the assistant's voice, without offering first.
+- **The retrospective [RETRO-008](record/retrospectives.d/RETRO-008.md) is Accepted.** Its five recommendations became two decisions, both Active:
+  - **[ADR-140](record/decisions.d/ADR-140.md), conduct in the dialectic regime.** It covers recommendations 1 and 5. The assistant thinks out loud while filing, relays what delegated work finds, and closes each batch with an executive summary. Every reading of an ambiguous turn is filed before asking which was meant. CLAUDE.md's dialectic paragraph carries it.
+  - **[ADR-139](record/decisions.d/ADR-139.md), parallel filing in one working tree.** It covers recommendations 2 to 4. Commit only the files a worker lists, and pull CI's repair only between workers. Sequence writers after their material. Gate each commit on its edit. The `read-and-file` skill carries it.
+
+### Added
+
+- [ADR-124](record/decisions.d/ADR-124.md) and the `adoption-review` skill, at the owner's request: Proposed
+  decisions are reviewed for adoption, with evidence derived by
+  `scratch/tools/adoption_signals.py`, sorted into adopt, adopt after a
+  look, and leave, and put to the owner as a checklist. First pass of
+  2026-11-21 in the workbench: 30 to adopt, 5 after a look, 13 left.
+
+### Added
+
+- Three alternative decisions, all Proposed, answering the owner's worry that [ADR-075](record/decisions.d/ADR-075.md)'s language discourages documenting useful syntheses. The owner chooses one:
+  - [ADR-131](record/decisions.d/ADR-131.md) (A, the assistant's lean): the test only decides whether a synthesis also yields a claim, and a synthesis that organizes held components is filed as an account either way.
+  - [ADR-134](record/decisions.d/ADR-134.md) (B): the same, for the owner's syntheses only.
+  - [ADR-133](record/decisions.d/ADR-133.md) (C): no test at filing; the synthesis review tests it.
+- The owner chose A on pull request 594. B and C are Rejected, kept as alternatives not taken. The `read-and-file` skill now files a synthesis's map as an account whether or not it yields a claim, and leaves only a recap in the curation entry. [ADR-075](record/decisions.d/ADR-075.md) and [ADR-084](record/decisions.d/ADR-084.md) take history notes.
+
+### Added
+
+- [ADR-141](record/decisions.d/ADR-141.md) and [ADR-142](record/decisions.d/ADR-142.md), two alternative decisions on making long-running and delegated work persist its progress as it goes. (a) supersedes [ADR-108](record/decisions.d/ADR-108.md) with one general rule; (b) leaves [ADR-108](record/decisions.d/ADR-108.md) standing and adds lead workers and long computations. Both were filed on the owner's request of 2026-11-22.
+- The run-lead skill (`.claude/skills/run-lead/SKILL.md`), the lead-worker brief moved out of the session's scratchpad. It now pushes the branch at once, pushes after every step, keeps a PROGRESS file, writes computed results per item, and budgets time. This is both decisions' first application.
+- A devlog note, tagged retro, on work held until the end being lost or put at risk three ways on 2026-11-22.
+
+### Added
+
+- `scratch/formal/analytics/`: an Apache Hamilton dataflow for the record's derived numbers, at the owner's suggestion of 2026-11-21. It computes record snapshot counts, the decision census tables and agreement, the term-change audit, growth snapshots and the rate studies. Each run writes one JSON dated by the commit it read. It also reports how many decisions the census has not yet coded, so staleness shows. Tests reproduce the manuscript's figures at the commits it read. No CI workflow runs it yet.
+
+<!-- inactive-ok-file: CLAIM-772 — Proposed; the claim objected to -->
+
+### Added
+
+- Two objections to [CLAIM-772](record/claims.d/CLAIM-772.md)'s account of anchoring, from the owner's exchange of 2026-11-21:
+  - [CLAIM-793](record/claims.d/CLAIM-793.md): re-reading a fixed source is conservation on the state enlarged by the source, and is the record's main route; on it an interpretation settles on a bounded offset toward the reader's prior rather than drifting.
+  - [CLAIM-789](record/claims.d/CLAIM-789.md): exact copying anchors a copy to the version copied, so it conserves staleness when the source is revised ([RETRO-004](record/retrospectives.d/RETRO-004.md)'s summary).
+- [CLAIM-790](record/claims.d/CLAIM-790.md): anchoring in inquiry generally is one mechanism, a reconstruction pulled toward a fixed reference, and what it secures is set by what the reference is tied to: the target (content), an earlier state of the inquiry (continuity), or nothing (bias). Prompted by the owner's remark that the account was myopic about the record itself.
+
+### Changed
+
+- At the owner's rulings of 2026-11-21: the two objections to [CLAIM-772](record/claims.d/CLAIM-772.md) are restated in general terms ([CLAIM-793](record/claims.d/CLAIM-793.md) and [CLAIM-789](record/claims.d/CLAIM-789.md), version 2), and the P9 account [SYNTHESIS-115](record/syntheses.d/SYNTHESIS-115.md) (version 2) integrates [CLAIM-772](record/claims.d/CLAIM-772.md), [ARG-124](record/arguments.d/ARG-124.md), [CLAIM-790](record/claims.d/CLAIM-790.md), the two objections, [CLAIM-315](record/claims.d/CLAIM-315.md) and [CLAIM-184](record/claims.d/CLAIM-184.md).
+
+### Changed
+
+- [CLAIM-791](record/claims.d/CLAIM-791.md) (version 2) and [CASE-300](record/cases.d/CASE-300.md) (version 2) are corrected at the owner's ruling of 2026-11-21. `anthology-candidate` did not change meaning when [ADR-048](record/decisions.d/ADR-048.md) reworded its blurb, and revisiting the flags is the anthology's process. The term audit therefore has no redefinition in place, and the claim's finding that entries do not follow a change of meaning alone is withdrawn. [RETRO-006](record/retrospectives.d/RETRO-006.md)'s reference to that finding is corrected to match.
+
+### Added
+
+- Two alternative decisions on how an argument is titled, at the owner's objection that a Rejected argument titled with its conclusion reads as rejecting the conclusion rather than the route. [ADR-136](record/decisions.d/ADR-136.md) (the assistant's lean) puts the route first in every title, and has each Rejected argument say where its conclusion stands. [ADR-138](record/decisions.d/ADR-138.md) instead titles a failed route "X does not show that Y" and makes it Active. Both are Proposed.
+- [CLAIM-801](record/claims.d/CLAIM-801.md), the owner's: that sloppy-model behaviour probably does carry over to overparameterized networks by another route, with candidate routes in the assistant's voice.
+
+### Changed
+
+- The five arguments filed from "Rich Get Richer Power Laws" are retitled to lead with their route, each with its conclusion's standing. Two of them now conclude [CLAIM-801](record/claims.d/CLAIM-801.md). This is the first application of [ADR-136](record/decisions.d/ADR-136.md).
+
+### Decided
+
+- [ADR-136](record/decisions.d/ADR-136.md) is Active and [ADR-138](record/decisions.d/ADR-138.md) Rejected, at the owner's ruling ("go with your lean"). The `read-and-file` skill's step 9 gains the rule. [CLAIM-819](record/claims.d/CLAIM-819.md) states, as a claim of its own, the finding that [ARG-125](record/arguments.d/ARG-125.md) used to reject a route: decay of correlation is not weak interaction. [TERM-138](record/terms.d/TERM-138.md) and the note on [SYNTHESIS-054](record/syntheses.d/SYNTHESIS-054.md), which build on that finding, now cite the claim.
+
+### Added
+
+- The exchange "Assess Depp Heard Abuse" (2026-11-15 to 2026-11-17), filed:
+  from coercive control and responsibility for another's conditions,
+  through procedural friction, capability restriction, fait accompli
+  breach and litigation as siege, to answerability, inalienable and
+  property rights, Scanlon, normative governability and accountability
+  without blame. The owner's substantive turns are filed as claims
+  ([CLAIM-718](record/claims.d/CLAIM-718.md), [CLAIM-734](record/claims.d/CLAIM-734.md), [CLAIM-723](record/claims.d/CLAIM-723.md),
+  [CLAIM-748](record/claims.d/CLAIM-748.md), [CLAIM-738](record/claims.d/CLAIM-738.md), [CLAIM-742](record/claims.d/CLAIM-742.md), [CLAIM-733](record/claims.d/CLAIM-733.md)), questions
+  ([QUESTION-478](record/questions.d/QUESTION-478.md), [QUESTION-485](record/questions.d/QUESTION-485.md), [QUESTION-480](record/questions.d/QUESTION-480.md),
+  [QUESTION-486](record/questions.d/QUESTION-486.md), [QUESTION-483](record/questions.d/QUESTION-483.md), [QUESTION-476](record/questions.d/QUESTION-476.md)) and cases
+  ([CASE-281](record/cases.d/CASE-281.md), [CASE-289](record/cases.d/CASE-289.md)). Twenty-nine of A's claims and six of its questions are filed
+  Proposed, with five terms, nine further cases and [ARG-114](record/arguments.d/ARG-114.md). There
+  are dated notes on thirty-nine held entries, and eighty-five works are
+  registered unread. The curation entry of 2026-11-17 has the map, the
+  synthesis audit and what was left.
+- Reconciled with the filing of the exchange's first share ([#510](https://github.com/dmarx/nucleation/issues/510)): where
+  both filings held the same idea, the entry from [#510](https://github.com/dmarx/nucleation/issues/510) keeps its code and
+  takes the better-developed parts of this filing's entry, which is not
+  kept. The owner's U11 friction claim ([CLAIM-710](record/claims.d/CLAIM-710.md)), A's equality of
+  wrongdoing and of power ([CLAIM-709](record/claims.d/CLAIM-709.md), [CASE-279](record/cases.d/CASE-279.md)), responsibility for
+  another's conditions ([CLAIM-708](record/claims.d/CLAIM-708.md)), normative manipulation ([CLAIM-703](record/claims.d/CLAIM-703.md)),
+  the moral subsidy ([CLAIM-713](record/claims.d/CLAIM-713.md)), the hidden-shortfall loop ([CLAIM-700](record/claims.d/CLAIM-700.md)),
+  asymmetric moral accountability ([CLAIM-707](record/claims.d/CLAIM-707.md)) and the moral cost of
+  withdrawal ([QUESTION-472](record/questions.d/QUESTION-472.md)) are revised in place; five titles change.
+  Eight of this filing's entries are kept as distinct, with relations and a
+  sentence each way. The curation entry of 2026-11-17 has the table.
+
+### Changed
+
+- The `read-and-file` skill says the share decoder needs `fire` and
+  `loguru`, and that a subagent's report may have to come back as its reply.
+
+<!-- inactive-ok-file: CLAIM-712 CASE-277 ARG-112 CLAIM-702 CASE-280 CLAIM-704 CLAIM-701 CLAIM-706 TERM-125 — the assistant's, filed 2026-11-16, Proposed -->
+<!-- inactive-ok-file: CLAIM-710 CLAIM-711 CLAIM-709 CLAIM-708 CLAIM-703 CLAIM-713 CLAIM-707 CLAIM-700 CLAIM-705 CASE-279 ARG-113 — filed in this contribution, Proposed -->
+### Added
+
+- The exchange "Assess Depp Heard Abuse" (2026-11-15) filed, with the
+  curation entry of 2026-11-15, 221646:
+  - the owner's claim that automation reduces procedural friction, while
+    friction is where an opportunity to intervene is exposed, and perhaps
+    what one consists in ([CLAIM-710](record/claims.d/CLAIM-710.md)). It is filed with A's objection
+    that standing constraints with fast enforcement keep a process
+    interruptible without friction ([CLAIM-711](record/claims.d/CLAIM-711.md));
+  - the owner's U13 cases, checked against news reports: Hains Point
+    ([CASE-278](record/cases.d/CASE-278.md)) and third-country removals ([CASE-276](record/cases.d/CASE-276.md)). The speed
+    bound the owner applied to them was already held as [CLAIM-464](record/claims.d/CLAIM-464.md);
+  - A's claims, Proposed:
+    - equality of wrongdoing and equality of power are separate questions
+      ([CLAIM-709](record/claims.d/CLAIM-709.md)), with a stipulated case ([CASE-279](record/cases.d/CASE-279.md)) and its
+      argument ([ARG-113](record/arguments.d/ARG-113.md));
+    - responsibility for one's conduct and for the conditions of another's
+      ([CLAIM-708](record/claims.d/CLAIM-708.md));
+    - a genuine obligation wrongfully created ([CLAIM-703](record/claims.d/CLAIM-703.md));
+    - moral commitments as exploitable resources ([CLAIM-713](record/claims.d/CLAIM-713.md));
+    - asymmetric moral accountability ([CLAIM-707](record/claims.d/CLAIM-707.md));
+    - the compensation-slack loop ([CLAIM-700](record/claims.d/CLAIM-700.md));
+    - corrective throughput, with a derivation ([CLAIM-705](record/claims.d/CLAIM-705.md));
+  - two questions: [QUESTION-472](record/questions.d/QUESTION-472.md), on moral obligations as control over
+    the terms of a dependence, and [QUESTION-471](record/questions.d/QUESTION-471.md), on incorporation
+    outrunning review in this record;
+  - dated notes on [CLAIM-464](record/claims.d/CLAIM-464.md), [CLAIM-462](record/claims.d/CLAIM-462.md), [CLAIM-523](record/claims.d/CLAIM-523.md), [CLAIM-404](record/claims.d/CLAIM-404.md) and [CLAIM-475](record/claims.d/CLAIM-475.md);
+  - forty-seven works registered unread (Deferred), among them Johnson,
+    Stark, Keller, Robillard and Strawser, Elish, Tronto, Rubel et al.,
+    Citron and Cuéllar.
+- The assistant's step-12 ideas from the same filing, accepted by the owner
+  on 2026-11-16, Proposed: review order under overload decides whose
+  challenges stay preventive ([CLAIM-704](record/claims.d/CLAIM-704.md)); a fait accompli as moral
+  blackmail of a reviewing institution ([CLAIM-701](record/claims.d/CLAIM-701.md)); procedural
+  friction defined by dependence rather than delay ([TERM-125](record/terms.d/TERM-125.md)), with a
+  reply to A's objection to the owner's friction claim ([CLAIM-706](record/claims.d/CLAIM-706.md)).
+- The 47 works registered from the same exchange read on 2026-11-16 in nine
+  delegated batches: 25 read, 9 Unfetched, 13 Unavailable, and 16
+  neighbours registered and read as stand-ins, each with a NOTE and a
+  THEORY, and dated notes on the entries they bear on. No status changed;
+  the curation entry of 2026-11-15, 221646 records what each reading did to
+  the filed claims and which hosts refused a lawful copy.
+- Revisions at the review of 2026-11-16 (ChatGPT's, forwarded by the
+  owner): [CLAIM-704](record/claims.d/CLAIM-704.md)'s model assumptions and feasibility condition
+  stated; [CLAIM-701](record/claims.d/CLAIM-701.md)'s wrongfulness made a condition; [TERM-125](record/terms.d/TERM-125.md)
+  renamed independent execution gate, beside execution impedance and
+  intervention opportunity, and [CLAIM-706](record/claims.d/CLAIM-706.md) rewritten to say the three
+  vary independently; [CLAIM-707](record/claims.d/CLAIM-707.md) split, the unseen-compensation
+  hypothesis becoming [CLAIM-702](record/claims.d/CLAIM-702.md); and a separating construction,
+  [CASE-280](record/cases.d/CASE-280.md), for throughput, specification lag and endogenous
+  foreclosure.
+- Corrections at the second review of 2026-11-16: [CLAIM-704](record/claims.d/CLAIM-704.md)'s
+  first-come threshold includes the service time, t* = (F − s)μ/(λ − μ);
+  [CASE-280](record/cases.d/CASE-280.md)'s reserve is floored at zero and dedicated to correction;
+  [CLAIM-701](record/claims.d/CLAIM-701.md)'s actor "can obtain" its outcome.
+- From a third review of 2026-11-16 (an audit, ChatGPT's, forwarded by the
+  owner): A19 §9's claim that traceability does not settle fair attribution
+  ([CLAIM-712](record/claims.d/CLAIM-712.md)), with a separating case of two hospitals
+  ([CASE-277](record/cases.d/CASE-277.md)) and its argument ([ARG-112](record/arguments.d/ARG-112.md)); and three open
+  questions, on authorization defaults ([QUESTION-474](record/questions.d/QUESTION-474.md)), on repair
+  without blame ([QUESTION-470](record/questions.d/QUESTION-470.md)) and on an organization's standing to
+  blame ([QUESTION-473](record/questions.d/QUESTION-473.md)).
+- After the split of organizational-normativity ([#506](https://github.com/dmarx/nucleation/issues/506)): [QUESTION-472](record/questions.d/QUESTION-472.md),
+  [CLAIM-713](record/claims.d/CLAIM-713.md), [CLAIM-709](record/claims.d/CLAIM-709.md) with [CASE-279](record/cases.d/CASE-279.md) and [ARG-113](record/arguments.d/ARG-113.md), and
+  [CLAIM-702](record/claims.d/CLAIM-702.md) move to dependence-and-domination; [CLAIM-707](record/claims.d/CLAIM-707.md) gains it
+  second; [CLAIM-708](record/claims.d/CLAIM-708.md) gains distributed-agency second ([ADR-085](record/decisions.d/ADR-085.md)).
+
+### Changed
+
+- [ADR-116](record/decisions.d/ADR-116.md), version 2: main is merged back into staging after every docs
+  run on main, not only after a Promote run, by a script shared by Docs and
+  Promote (`.github/scripts/back-merge.sh`). A promotion merged by hand, or a
+  pull request into main, no longer leaves staging behind.
+
+<!-- inactive-ok-file: ADR-109 — Proposed; cited in the backlog audit of 2026-11-19 -->
+
+### Added
+
+- 184 LEADs from the backlog audit of 2026-11-19, which read the record
+  in six slices for research opportunities it names and has not taken
+  up: 59 rated high and 125 medium, under [ADR-109](record/decisions.d/ADR-109.md). Studies held in
+  proposed-study cases name them in `operationalized_in`; prerequisites
+  are linked by `presupposes`.
+- Reading leads that group the Deferred and Unfetched works by what they
+  advance, and one that retries, through the Europe PMC REST route, the
+  works whose fetch stopped at a PMC check.
+- A curation entry with the audit's counts, the leads filed, the low tier
+  listed for the owner to promote, and what was set aside and why.
+
+<!-- inactive-ok-file: LIT-2785 LIT-2780 LIT-2781 — Unfetched or Unavailable; registered and not read -->
+<!-- inactive-ok-file: CLAIM-751 CLAIM-750 CASE-293 ARG-118 — filed in this contribution, Proposed -->
+<!-- inactive-ok-file: CLAIM-700 CLAIM-719 CLAIM-733 CLAIM-707 CLAIM-702 CLAIM-742 CASE-292 — Proposed; the entries given dated notes -->
+### Added
+
+- Blameless culture taken up as a case for [QUESTION-476](record/questions.d/QUESTION-476.md), at the owner's
+  request of 2026-11-18. Seven works registered: the SRE chapter
+  "Postmortem Culture" ([LIT-2784](record/literature.d/LIT-2784.md)), Cook's "How Complex Systems Fail"
+  ([LIT-2783](record/literature.d/LIT-2783.md)), Dekker and Nyce (2013, [LIT-2786](record/literature.d/LIT-2786.md)) and 49 U.S.C. § 1154
+  ([LIT-2782](record/literature.d/LIT-2782.md)) read, each with a NOTE and a THEORY; Allspaw (2012,
+  [LIT-2785](record/literature.d/LIT-2785.md)) Unfetched; Reason (1997, [LIT-2780](record/literature.d/LIT-2780.md)) and Dekker (2007,
+  [LIT-2781](record/literature.d/LIT-2781.md)) Unavailable.
+- The lead filer's proposals, accepted for filing by the owner:
+  [CLAIM-751](record/claims.d/CLAIM-751.md) (upstream provenance can be carried without blame, the
+  NTSB at Tempe), with [ARG-118](record/arguments.d/ARG-118.md); [CLAIM-750](record/claims.d/CLAIM-750.md) (a blameless trace
+  stops at the authority of the body that commissions the review), with
+  the proposed study [CASE-293](record/cases.d/CASE-293.md); and dated notes on [CLAIM-700](record/claims.d/CLAIM-700.md)
+  (near-miss reporting, a mechanism hypothesis) and [CLAIM-719](record/claims.d/CLAIM-719.md)
+  (action-item completion, a measurement proposal).
+
+### Changed
+
+- Dated notes on [QUESTION-476](record/questions.d/QUESTION-476.md), [CLAIM-733](record/claims.d/CLAIM-733.md), [CLAIM-707](record/claims.d/CLAIM-707.md), [CLAIM-702](record/claims.d/CLAIM-702.md), [CLAIM-742](record/claims.d/CLAIM-742.md)
+  and [CASE-292](record/cases.d/CASE-292.md) for what the readings show. The lead's recollection of
+  § 1154(b) is confirmed and narrowed: the bar covers the Board's own
+  report, in civil actions for damages.
+
+### Added
+
+- The work capability-restraint-relational-freedom ("Capability,
+  Restraint, and Relational Freedom"), for the owner's manuscript from
+  the exchange "Assess Depp Heard Abuse" (A49 and the additions A offered
+  for it), by [ADR-104](record/decisions.d/ADR-104.md): twenty-eight claims are members, seven of
+  them in the line rightful-power; the curation entry lists each with its
+  section, and the passages no entry holds.
+
+### Added
+
+- The executed study of the manuscript governance-of-possibility is filed as two Proposed cases, citing its single copy in scratch/manuscripts/governance-of-possibility/analysis/ (run at 28a3708c1, reproduced). [CASE-412](record/cases.d/CASE-412.md) is the matched-performance study (gap GC1, join JC1): output matched by construction, the exact conditions of [CLAIM-577](record/claims.d/CLAIM-577.md) and [CLAIM-1099](record/claims.d/CLAIM-1099.md), readiness curves, the cost ranking by deadline, the reserve's break-even and the step function. [CASE-397](record/cases.d/CASE-397.md), its variant, is the novel-demand arm (gap GD7, join JD4). [LEAD-226](record/leads.d/LEAD-226.md) names both in `operationalized_in`. Dated notes on [CLAIM-1099](record/claims.d/CLAIM-1099.md), [CLAIM-1093](record/claims.d/CLAIM-1093.md), [CLAIM-878](record/claims.d/CLAIM-878.md), [QUESTION-395](record/questions.d/QUESTION-395.md) and [LEAD-226](record/leads.d/LEAD-226.md) name them. [SYNTHESIS-124](record/syntheses.d/SYNTHESIS-124.md) (version 3) and [SYNTHESIS-121](record/syntheses.d/SYNTHESIS-121.md) (version 2) integrate them.
+
+### Changed
+
+- [ADR-127](record/decisions.d/ADR-127.md) version 3, at the owner's request: a scheduled check-in that finds
+  nothing doubles the next interval and stops after three empty, saying
+  nothing; an alternative reading applies the back-off to quiet event
+  turns.
+
+### Changed
+
+- [CLAIM-569](record/claims.d/CLAIM-569.md) v4: "dear" and "dearer" replaced by "costly" and "costs more"
+  in its title and four passages, at the owner's request. Wording only;
+  the claim is unchanged.
+- [CLAIM-475](record/claims.d/CLAIM-475.md) and [QUESTION-095](record/questions.d/QUESTION-095.md): "dear" and "dearer" replaced by "costly" and
+  "more costly", one sentence each, at the owner's request.
+
+### Added
+
+- The owner's principle that self-correction depends on how evidence, evaluation and authority are coupled and on what a system cannot rewrite or reject ([CLAIM-1024](record/claims.d/CLAIM-1024.md)), resting on four governance leads' results. It comes with the assistant's qualification ([CLAIM-1185](record/claims.d/CLAIM-1185.md), with [ARG-218](record/arguments.d/ARG-218.md)), from a run of [LEAD-177](record/leads.d/LEAD-177.md)'s network with a protected but miscalibrated beacon: the network adopts the anchor's error, and only a further protected survey reduces it. A lead proposes one model for all four conditions ([LEAD-220](record/leads.d/LEAD-220.md)). [SYNTHESIS-111](record/syntheses.d/SYNTHESIS-111.md) goes to version 2.
+- The owner's comparison of the anchor regress with Gödel's incompleteness ([CLAIM-1111](record/claims.d/CLAIM-1111.md), supposed), with the assistant's mechanism: a protected beacon's miscalibration is unidentifiable from inside by a symmetry ([CLAIM-1125](record/claims.d/CLAIM-1125.md), checked by script). The assistant's assessment, [ARG-233](record/arguments.d/ARG-233.md): the analogy holds in shape and not in mechanism.
+- The owner's point that mechanics has an independent witness in physical phenomena ([CLAIM-1146](record/claims.d/CLAIM-1146.md)), with the assistant's qualification ([CLAIM-1143](record/claims.d/CLAIM-1143.md), with [ARG-234](record/arguments.d/ARG-234.md)). The witness certifies every difference among the channels that read it and never their common mode, so the regress ends at a witness together with a defined standard.
+- The owner's thesis that physics is the subset of mathematics relevant to observable phenomena ([CLAIM-1170](record/claims.d/CLAIM-1170.md)), with the assistant's refinement ([CLAIM-1151](record/claims.d/CLAIM-1151.md), with [ARG-235](record/arguments.d/ARG-235.md)): a quotient of mathematics by the symmetries observation cannot break, plus a coordination with phenomena that is not itself mathematics.
+
+<!-- inactive-ok-file: CLAIM-756 CLAIM-760 CLAIM-761 CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: ADR-106 — Proposed; the decision this contribution proposes -->
+<!-- inactive-ok-file: CLAIM-478 CLAIM-184 CLAIM-576 CLAIM-295 — Proposed; members of the work, cited as members whatever their standing -->
+
+### Added
+
+- The work cost-structure-of-possibility ("The Cost Structure of
+  Possibility"), for the owner's manuscript from the exchange
+  "Topological protection explained" (A43), by [ADR-106](record/decisions.d/ADR-106.md). The
+  curation entry lists each member with its section, the questions and
+  terms the manuscript draws on, and its audit.
+
+### Changed
+
+- Sixteen claims join the work, each with a history note and a version
+  bump: [CLAIM-478](record/claims.d/CLAIM-478.md), [CLAIM-303](record/claims.d/CLAIM-303.md), [CLAIM-569](record/claims.d/CLAIM-569.md), [CLAIM-184](record/claims.d/CLAIM-184.md), [CLAIM-576](record/claims.d/CLAIM-576.md),
+  [CLAIM-567](record/claims.d/CLAIM-567.md), [CLAIM-582](record/claims.d/CLAIM-582.md), [CLAIM-475](record/claims.d/CLAIM-475.md), [CLAIM-463](record/claims.d/CLAIM-463.md), [CLAIM-407](record/claims.d/CLAIM-407.md), [CLAIM-295](record/claims.d/CLAIM-295.md),
+  [CLAIM-152](record/claims.d/CLAIM-152.md), [CLAIM-352](record/claims.d/CLAIM-352.md), [CLAIM-675](record/claims.d/CLAIM-675.md), [CLAIM-673](record/claims.d/CLAIM-673.md) and [CLAIM-455](record/claims.d/CLAIM-455.md).
+- Four claims filed from the exchange in the same pull request join the
+  work: [CLAIM-761](record/claims.d/CLAIM-761.md), [CLAIM-760](record/claims.d/CLAIM-760.md), [CLAIM-756](record/claims.d/CLAIM-756.md) and [CLAIM-762](record/claims.d/CLAIM-762.md).
+
+### Changed
+
+- Anything a course hosts counts as a lawful copy to read, whole
+  in-copyright books included ([ADR-113](record/decisions.d/ADR-113.md), the owner's ruling of 2026-11-20).
+  The read-and-file skill says so. The Biology of Moral Systems ([LIT-495](record/literature.d/LIT-495.md))
+  moves from Unavailable to Unfetched.
+
+### Added
+
+- [ADR-129](record/decisions.d/ADR-129.md) (Proposed): an account's scope may be a theme that crosses lines, and each cross-line account is audited at the synthesis review as a possible sign of a missing line. The `synthesis-review` skill gains stage 4b. [ADR-083](record/decisions.d/ADR-083.md) takes a note.
+- A curation entry of 2026-11-21 holds the first audit, of the eight principle accounts. Seven are bridges on their own; together they indicate a candidate line, `learning-and-inquiry`, put to the owner.
+
+<!-- inactive-ok-file: LEAD-002 LEAD-008 CLAIM-756 — not in force; filed or noted in this contribution of 2026-11-19 -->
+### Added
+
+- The data-scheduling readings (curation entry of 2026-11-19, 211445),
+  completing [LEAD-002](record/leads.d/LEAD-002.md): Skill-it!, Don't Stop Pretraining, Curriculum
+  learning, Midtraining, pre-pretraining on formal languages, and
+  child-directed speech, each with a NOTE and a Proposed THEORY; three
+  corroborate [CLAIM-756](record/claims.d/CLAIM-756.md). Dated notes on fifteen entries. [LEAD-008](record/leads.d/LEAD-008.md)
+  carries the owner's narrowed recollection and the code-first idea.
+
+### Changed
+
+- `scratch/tools/chatgpt_share.py` now accounts for all the assistant content on a share's branch, at the owner's request of 2026-11-21. Under each visible assistant turn it adds, as labelled blocks marked "not shown on the share page":
+  - the assistant's reasoning summaries and recaps;
+  - code it ran, and that code's output (stored in `content.text`, which the decoder used to miss);
+  - tool calls that carry text;
+  - hidden drafts that hold a line of their own.
+
+  Hidden copies whose every line appears in a visible turn, empty messages, tool calls without text and web results are counted in a closing line, so nothing is dropped without a trace. `--visible_only` reproduces the old output byte for byte. On the share "Rich Get Richer Power Laws" every one of 292 assistant messages and 95 tool messages is in the file or the count. The `read-and-file` skill's step 1 describes the new output.
+
+### Added
+
+- [CLAIM-788](record/claims.d/CLAIM-788.md) and [CLAIM-787](record/claims.d/CLAIM-787.md), relating First Contact to the record's
+  account of learning occasioned by obstruction; [QUESTION-504](record/questions.d/QUESTION-504.md); a dated
+  note on [QUESTION-404](record/questions.d/QUESTION-404.md). Filed under the dialectic regime.
+- A local reading of First Contact: [LIT-2956](record/literature.d/LIT-2956.md), [NOTE-2236](record/notes.d/NOTE-2236.md),
+  [THEORY-2147](record/theory.d/THEORY-2147.md); dated notes on [CLAIM-532](record/claims.d/CLAIM-532.md), [CLAIM-361](record/claims.d/CLAIM-361.md), [THEORY-1344](record/theory.d/THEORY-1344.md) and
+  [QUESTION-404](record/questions.d/QUESTION-404.md); the two First Contact claims corrected from the reading.
+
+<!-- inactive-ok-file: CLAIM-984 CLAIM-985 — Proposed; filed in this change -->
+### Added
+
+- [CLAIM-984](record/claims.d/CLAIM-984.md) (interpretive): whether a specification can be read off or must be
+  stated depends on whether its test vocabulary is closed; and [CLAIM-985](record/claims.d/CLAIM-985.md)
+  (interpretive): a predicate on an entry's future changes is neither
+  descriptor nor imposition, and two such can conflict. Both from the
+  Freeman–Pfenning and Davies–Pfenning readings together, under the
+  dialectic regime.
+
+<!-- inactive-ok-file: CLAIM-995 CLAIM-984 LEAD-215 — Proposed; filed or noted in this change -->
+### Added
+
+- [CLAIM-995](record/claims.d/CLAIM-995.md) (interpretive): the record's own checks are conservative, so a
+  failed check may lie in the entry, the vocabulary or the check. Under the
+  dialectic regime, from the Liquid Types reading.
+
+### Changed
+
+- [CLAIM-984](record/claims.d/CLAIM-984.md): a dated note that Liquid Types meets its discriminating
+  prediction. [LEAD-215](record/leads.d/LEAD-215.md): Flanagan's Hybrid Type Checking proposed as a further
+  reading, not started.
+
+<!-- inactive-ok-file: LEAD-215 CLAIM-949 CLAIM-965 — Proposed; the lead extended and the claims its new readings test -->
+### Changed
+
+- [LEAD-215](record/leads.d/LEAD-215.md) gains two readings at the owner's request: Liquid Types (Rondon,
+  Kawaguchi and Jhala 2008) and Davies and Pfenning (2000) on bidirectional
+  refinement checking, the tests the Freeman and Pfenning reading proposed.
+
+### Added
+
+- [CLAIM-943](record/claims.d/CLAIM-943.md) (demonstrated): a descriptor and an imposition are an
+  informative and a performative update, the two directions of fit; and
+  [CLAIM-942](record/claims.d/CLAIM-942.md) (interpretive): inquiry and engineering differ by the
+  direction of fit of their predicates, not in kind. Filed under the
+  dialectic regime.
+- [TERM-152](record/terms.d/TERM-152.md) (specification) and [TERM-151](record/terms.d/TERM-151.md) (direction of fit), Proposed, at the owner's
+  question whether a term would help.
+- [CLAIM-949](record/claims.d/CLAIM-949.md) (interpretive): specification is model-theoretic in the record and
+  proof-relevant in type theory, with the correspondences stated; [LEAD-215](record/leads.d/LEAD-215.md)
+  to read the sources.
+- [TERM-154](record/terms.d/TERM-154.md) (witness) and [TERM-153](record/terms.d/TERM-153.md) (certificate), Proposed, at the owner's
+  suggestion of a term for witness: the existence and the evidence halves
+  of a proof-relevant answer.
+
+### Added
+
+- [ADR-127](record/decisions.d/ADR-127.md), at the owner's request: a dialectic regime, switched on and
+  off by the owner, in which the assistant files the exchange's argument as
+  it goes and reverts on interjection. CLAUDE.md's working section says how.
+
+### Changed
+
+- [ADR-127](record/decisions.d/ADR-127.md) (version 3) and CLAUDE.md: the dialectic regime's state belongs to the conversation, not the worker. A restarted worker, or a resumed or summarized conversation, keeps it, and only a new conversation starts off. At the owner's ruling of 2026-11-21.
+
+### Added
+
+- [CLAIM-784](record/claims.d/CLAIM-784.md) and [CLAIM-786](record/claims.d/CLAIM-786.md), two readings of engineering as a form
+  of inquiry; [CASE-299](record/cases.d/CASE-299.md); [QUESTION-503](record/questions.d/QUESTION-503.md). Filed under the dialectic
+  regime.
+
+<!-- inactive-ok-file: CLAIM-778 CLAIM-772 CLAIM-768 CLAIM-779 TERM-132 ARG-124 LIT-2945 LIT-2953 — Proposed or Deferred; filed in this contribution of 2026-11-20 -->
+<!-- inactive-ok-file: CLAIM-635 CLAIM-180 — Proposed; held entries that took dated notes -->
+### Added
+
+- The owner's framing of an entry's life cycle as narrowing degrees of
+  freedom by constraint, related to the record's account of contraction,
+  with the curation entries of 2026-11-20, 225259 and 230350. In the
+  assistant's voice, Proposed. At the owner's challenge, that
+  stabilization and contraction may be one phenomenon, the claims were
+  rewritten before merging: forgetting a source and anchoring to it are
+  one contraction, told apart by what each step copies exactly
+  ([CLAIM-772](record/claims.d/CLAIM-772.md)); an entry's local degrees of freedom are its features
+  copied with error, and its life cycle moves them out of that part
+  ([CLAIM-778](record/claims.d/CLAIM-778.md), [TERM-132](record/terms.d/TERM-132.md)); settling alone does not show which part
+  settled an entry ([CLAIM-768](record/claims.d/CLAIM-768.md)); and, demonstrated, a feature copied
+  with error forgets its start as 1/n against a contracted one's geometric
+  rate ([CLAIM-779](record/claims.d/CLAIM-779.md)). The application of the formal results is argued in
+  [ARG-124](record/arguments.d/ARG-124.md).
+- Three leads: the revision-rate count against inbound references
+  ([LEAD-199](record/leads.d/LEAD-199.md)), retention against the originating turn ([LEAD-201](record/leads.d/LEAD-201.md)),
+  and reading two semicontraction papers registered Deferred ([LIT-2945](record/literature.d/LIT-2945.md),
+  [LIT-2953](record/literature.d/LIT-2953.md); [LEAD-205](record/leads.d/LEAD-205.md)).
+
+### Changed
+
+- Dated notes on [CLAIM-635](record/claims.d/CLAIM-635.md), [CLAIM-180](record/claims.d/CLAIM-180.md) and [QUESTION-006](record/questions.d/QUESTION-006.md).
+
+### Added
+
+- The exchange "Explain First Contact RL", fourth and fifth shares, filed
+  under the dialectic regime (curation entry of 2026-11-23 09:26):
+  - U26–U32: questions and answers as a game; shared time and the depth
+    of inquiry; permission as a resource-bounded inquiry; the joint
+    inquiry frontier, with two alternatives for [TERM-092](record/terms.d/TERM-092.md) left to the
+    owner; diversity and richness; ChatGPT's article (A63);
+  - a branch after U31 (U32b, U33b): intelligence as epistemic richness,
+    and collective identity as a governed question–answer game.
+
+  The owner's theses are in the owner's voice and ChatGPT's in its own.
+  The assistant's gap fills are checked by script. [SYNTHESIS-122](record/syntheses.d/SYNTHESIS-122.md)
+  goes to version 2.
+
+### Added
+
+- The exchange "Rich Get Richer Power Laws" (2026-11-20 to 21) is filed, at the owner's request to account for it and fill the gaps found:
+  - 51 cited works, registered Deferred;
+  - 92 entries, all Proposed, Open or Rejected: 52 claims, 13 arguments, 10 questions, 6 terms, 5 leads, 4 cases, and 2 part accounts (one of `formal-apparatus`, one of `learned-structure`);
+  - dated notes on seven held entries, with no status changed.
+
+  The owner's ideas (U4, U5, U18, U19, U21, U23, U24, U25) are filed in the owner's voice. U5 and U23 each come with two readings filed as alternatives. Gaps are filled in the assistant's voice, with every derivation checked by script, and A's numerical and attribution errors are corrected where they are used. The curation entry of 2026-11-21, 18:01, gives the full account, the coverage reread and the synthesis audit.
+- The first batch of readings of the exchange's works: eight read (three by Transtrum and colleagues, Bialek–Nemenman–Tishby, Lau et al., Mitzenmacher, Baik–Ben Arous–Péché, Dambre et al.), with three supplements the spectral entries rest on (Baik & Silverstein, Paul, Benaych-Georges & Nadakuditi). Where a work carried less than it was cited for, its place moved from `grounds` to `corroborates`, with an ARG. The terms "sloppy" and "hyper-ribbon" were revised against their sources. The curation entry of 2026-11-21, 18:45, gives the account.
+- Terms for "sloppy" ([TERM-140](record/terms.d/TERM-140.md)) and "separation" in three senses ([TERM-138](record/terms.d/TERM-138.md)), and the decision [ADR-137](record/decisions.d/ADR-137.md), which makes filling a source's gaps part of every filing, with the `read-and-file` skill's new step 9a.
+
+### Added
+
+- The exchange "Explain First Contact RL" (ChatGPT, shared 2026-11-22) is filed under the dialectic regime: the owner's smart-scroll design, sloppy self (in two alternative readings), Luria question, team thesis, measure thesis and regulation thesis; ChatGPT's six versions of a thesis about selves and its constructions on dispositional addresses, governed records and flow, pseudo-selves and singularity, harmonious integration, measures over dispositions and the representation hypotheses, and regulation; the assistant's gap fills (scroll-gain information, monotone refinement, realizable partitions, antisymmetry in singularity, the fixed-dynamics limit on regulation); five leads; dated notes on twenty-seven held entries; and an account mapping the whole (curation entry of 2026-11-22 23:10).
+- The follow-up turns of the same exchange (second share, U18 to U21) are filed: regulation as governance of possibility; a viability kernel of reorganization readiness; the owner's tension between identity stabilization and adaptability, with ChatGPT's answer, a toy bound, and the separation of a mode's persistence from its redirectability; dated notes on five held entries; the account revised.
+- The third share's turns (U22, U23) are filed: identity stabilization as temporal filtering, the governance of what counts as noise, a retuning bound, the deadline-indexed compatibility complex, and ChatGPT's last two theses on the response spectrum and on identity and adaptability as one organization's two achievements; dated notes on five entries; the account revised.
+- At the owner's request, the assistant relates the exchange to wu-wei: a direction for effortless action from the controllability Gramian, the identity and adaptability tension read as the paradox of wu-wei (supposed), a reading lead for Slingerland, and dated notes on four entries.
+
+### Changed
+
+- At the owner's ruling, computational mechanics and nonlinear dynamics take precedence over sinology in the record's account of wu-wei: [CLAIM-541](record/claims.d/CLAIM-541.md)'s defeater is narrowed (version 3), the assistant's two wu-wei claims and its reading lead are restated as glosses or checks on the name, and a computational-mechanics reading of effortless action is filed.
+- The read-and-file skill (step 9) now says that an entry's heading repeats its title word for word, and how to check only one's own files before pushing. Twenty-two entries drafted by section workers in this filing had shortened headings, which docs-check failed.
+
+### Changed
+
+- [LEAD-215](record/leads.d/LEAD-215.md) gains the `history:` its version 4 requires ([ADR-019](record/decisions.d/ADR-019.md)): one entry for each of the three dated reading notes that raised its version. Its absence failed lint on main after the Promote run of 2026-11-22 and so skipped Promote's back-merge into staging.
+
+<!-- inactive-ok-file: CLAIM-773 CLAIM-777 CLAIM-776 CLAIM-782 CLAIM-180 CLAIM-186 CLAIM-191 CLAIM-176 — Proposed; filed or noted in this contribution of 2026-11-20 -->
+### Added
+
+- A formal account of drift, at the owner's request, with the curation
+  entry of 2026-11-20, 231623. In the assistant's voice, Proposed. Two
+  demonstrated claims: drift's four kinds by the part of a restatement
+  step, with drift and retention independent and the restatements before
+  an idea passes a critical distance ([CLAIM-773](record/claims.d/CLAIM-773.md)); and drift before
+  coding under a queue, hyperbolic in the ratio of arrival to anchoring
+  ([CLAIM-777](record/claims.d/CLAIM-777.md)). Two interpretive claims: the ideas furthest from the
+  collaborators' framings are lost soonest ([CLAIM-776](record/claims.d/CLAIM-776.md)); the pace
+  rival to [CLAIM-186](record/claims.d/CLAIM-186.md) turns on whether drift accrues per restatement or per
+  unit of time ([CLAIM-782](record/claims.d/CLAIM-782.md)). A lead to test them on the record's
+  exchange history ([LEAD-204](record/leads.d/LEAD-204.md)).
+
+### Changed
+
+- Dated notes on [CLAIM-180](record/claims.d/CLAIM-180.md), [CLAIM-186](record/claims.d/CLAIM-186.md), [CLAIM-191](record/claims.d/CLAIM-191.md), [CLAIM-176](record/claims.d/CLAIM-176.md) and [CLAIM-056](record/claims.d/CLAIM-056.md).
+
+### Added
+
+- The work governance-of-possibility ([ADR-144](record/decisions.d/ADR-144.md)), "Regulation as the Governance of Possibility": the owner's manuscript from the exchange "Explain First Contact RL", drafted by ChatGPT at U24 and U25. Thirty-seven claims are members, by [ADR-104](record/decisions.d/ADR-104.md)'s rule. Filed from the manuscript: ChatGPT's [CLAIM-1093](record/claims.d/CLAIM-1093.md) (reserve and redesign as routes to readiness), [CLAIM-1198](record/claims.d/CLAIM-1198.md) (conserve a capability, not its occupant) and [TERM-164](record/terms.d/TERM-164.md) (destructive lock-in); the assistant's correction [CLAIM-1099](record/claims.d/CLAIM-1099.md) (a redesigned transition still needs a reserve, checked by script) and [LEAD-226](record/leads.d/LEAD-226.md).
+
+<!-- inactive-ok-file: LEAD-002 ARG-119 THEORY-2062 LEAD-009 THEORY-2084 CLAIM-756 TERM-131 — Proposed; filed or noted in this contribution of 2026-11-19 -->
+### Added
+
+- Brown and colleagues (GPT-3) and Howard and Ruder (ULMFiT) read at the
+  owner's request (curation entry of 2026-11-19, 202220), completing
+  [LEAD-009](record/leads.d/LEAD-009.md): ULMFiT corroborates [CLAIM-756](record/claims.d/CLAIM-756.md)'s premise in labelled-sample
+  cost; GPT-3's in-context learning bears on whether [TERM-131](record/terms.d/TERM-131.md) counts it
+  as learning. Dated notes on twenty-four entries.
+
+### Changed
+
+- [TERM-131](record/terms.d/TERM-131.md) version 2, at the owner's prompting: learning is relative to a
+  declared system and horizon, so in-context learning is episodic
+  learning of a model running in an episode, and selection is learning
+  of a population declared as the system. [ARG-119](record/arguments.d/ARG-119.md) version 3 records that
+  this settles its selection question. Brown and colleagues' reading now
+  corroborates [CLAIM-756](record/claims.d/CLAIM-756.md). A new lead ([LEAD-002](record/leads.d/LEAD-002.md)) for the data-scheduling
+  literature the owner suggested.
+
+<!-- inactive-ok-file: QUESTION-500 CLAIM-780 CLAIM-770 CLAIM-781 LIT-2951 LIT-2954 LIT-2949 CLAIM-478 CLAIM-157 CLAIM-762 THEORY-1558 — Proposed or Deferred; filed or noted in this contribution of 2026-11-20 -->
+### Added
+
+- Hierarchy and hyperbolicity, at the owner's request, with the curation
+  entry of 2026-11-20, 232905. In the assistant's voice, Proposed. Two
+  demonstrated claims: separated time scales make a chain's log
+  commute-time geometry Gromov-hyperbolic with a defect independent of the
+  separation, converging to the tree of budgeted classes ([CLAIM-780](record/claims.d/CLAIM-780.md));
+  and that tree changes only where two barriers cross ([CLAIM-770](record/claims.d/CLAIM-770.md)). An
+  interpretive claim: one rate gap both makes a level and spaces it in the
+  tree, so scale separation makes hierarchical structure ([CLAIM-781](record/claims.d/CLAIM-781.md)).
+  The converse as an open question ([QUESTION-501](record/questions.d/QUESTION-501.md)). Three works
+  registered Deferred ([LIT-2951](record/literature.d/LIT-2951.md), [LIT-2954](record/literature.d/LIT-2954.md), [LIT-2949](record/literature.d/LIT-2949.md)) and two
+  leads ([LEAD-203](record/leads.d/LEAD-203.md), [LEAD-200](record/leads.d/LEAD-200.md)).
+
+### Changed
+
+- [CLAIM-478](record/claims.d/CLAIM-478.md) version 5, at the owner's request: rate differences between
+  levels that exceed those within, in place of scale separation. The claims
+  above were restated the same way before merging, and the sharp threshold
+  is filed as [QUESTION-500](record/questions.d/QUESTION-500.md).
+- Dated notes on [CLAIM-581](record/claims.d/CLAIM-581.md), [CLAIM-478](record/claims.d/CLAIM-478.md), [CLAIM-157](record/claims.d/CLAIM-157.md), [CLAIM-386](record/claims.d/CLAIM-386.md), [THEORY-1558](record/theory.d/THEORY-1558.md),
+  [CLAIM-762](record/claims.d/CLAIM-762.md) and [QUESTION-281](record/questions.d/QUESTION-281.md).
+
+### Added
+
+- [ADR-132](record/decisions.d/ADR-132.md) (Proposed): when a hold the owner set lifts, the assistant says so, names the step it was holding, and takes it in the same turn, unless that step waits on the owner anyway. CLAUDE.md gains the sentence. At the owner's go on the retrospective of 2026-11-21.
+
+### Added
+
+- Two works read for the filings of 2026-11-15 and left unfiled: Holm and
+  Stechmann (2004), a second read neighbour of Hasimoto (1972), and Zhu,
+  Li and Cai (2026), the companion of Zhu (2026), now read. Each has a
+  LIT, a NOTE and a THEORY, with dated notes on [LIT-2611](record/literature.d/LIT-2611.md), [QUESTION-469](record/questions.d/QUESTION-469.md),
+  [THEORY-1897](record/theory.d/THEORY-1897.md) and [CASE-273](record/cases.d/CASE-273.md).
+
+### Fixed
+
+- [LIT-2629](record/literature.d/LIT-2629.md) said Zhou et al. (2024) and its companion paper were not held;
+  both are.
+
+<!-- inactive-ok-file: CLAIM-765 QUESTION-497 TERM-131 — newly filed or Proposed; this contribution of 2026-11-19 -->
+### Added
+
+- The owner's distinction between identifiability and localization of
+  what a learner retains: [CLAIM-765](record/claims.d/CLAIM-765.md) (they come apart in all four
+  combinations), [QUESTION-497](record/questions.d/QUESTION-497.md) (which of them fixes a learner's
+  boundary and its individuation by history, refining [QUESTION-035](record/questions.d/QUESTION-035.md)), and
+  a dated note on [TERM-131](record/terms.d/TERM-131.md) proposing it for a version 3.
+
+<!-- inactive-ok-file: LEAD-013 CASE-298 — newly filed in this contribution of 2026-11-19 -->
+### Added
+
+- The owner's unfinished identity projects ([LIT-2875](record/literature.d/LIT-2875.md), [LIT-2873](record/literature.d/LIT-2873.md))
+  filed as a directional experiment for accidental against reliable
+  capability: [CASE-298](record/cases.d/CASE-298.md) and [LEAD-013](record/leads.d/LEAD-013.md) (curation entry of
+  2026-11-19, 230953).
+
+<!-- inactive-ok-file: CLAIM-756 — Proposed; noted in this contribution of 2026-11-19 -->
+### Added
+
+- Kuhn, at the owner's suggestion: The Structure of Scientific
+  Revolutions, "Second Thoughts on Paradigms" and, through a stand-in,
+  "The Essential Tension", each with a NOTE and a Proposed THEORY; two
+  corroborate [CLAIM-756](record/claims.d/CLAIM-756.md) as interpretive history. Dated notes on ten
+  entries.
+
+<!-- inactive-ok-file: THEORY-2043 — Proposed; corrected in this contribution of 2026-11-19 -->
+### Added
+
+- Wang and Slotine on partial contraction, Chen and colleagues on
+  stochastic collapse, and Poole and colleagues on transient chaos, read
+  at the owner's request (curation entry of 2026-11-19, 183026), each
+  with a NOTE and a Proposed THEORY; dated notes on fifty-two entries.
+
+### Changed
+
+- [THEORY-2043](record/theory.d/THEORY-2043.md) version 2: partial contraction erases the
+  distinctions transverse to the manifold, not the reverse.
+
+### Added
+
+- Nine cases for [LEAD-001](record/leads.d/LEAD-001.md), separating stored information, belief, correct output, knowledge and understanding in a learning system, each checked against [QUESTION-493](record/questions.d/QUESTION-493.md)'s candidate answers (all Proposed, fictional or constructions): [CASE-408](record/cases.d/CASE-408.md) (a probe-decodable fact the model does not use), [CASE-400](record/cases.d/CASE-400.md) (right once in two hundred samples), [CASE-416](record/cases.d/CASE-416.md) (a classifier reliable by reading a watermark), [CASE-399](record/cases.d/CASE-399.md) (a stale source made true again by a reappointment), [CASE-413](record/cases.d/CASE-413.md) (a fact used under one cue and not the default), [CASE-409](record/cases.d/CASE-409.md) (A73's table and rule for x²), [CASE-394](record/cases.d/CASE-394.md) (the rule with a noisy multiplier), [CASE-414](record/cases.d/CASE-414.md) (a generator and an exact verifier), [CASE-403](record/cases.d/CASE-403.md) (a frozen exact rule).
+- [CLAIM-1142](record/claims.d/CLAIM-1142.md): the five come apart, eight separations shown by construction (Proposed, thesis, demonstrated).
+- [CLAIM-1100](record/claims.d/CLAIM-1100.md): whether stored information is known depends on the declared system's procedures and budget, not on decodability (Proposed, thesis, interpretive).
+- [CLAIM-1109](record/claims.d/CLAIM-1109.md): knowledge can belong to a generator-verifier composite under a budget and to neither part (Proposed, thesis, interpretive).
+- Alternatives on grounding: [CLAIM-1086](record/claims.d/CLAIM-1086.md), grounding as reliability over a family closed under interventions on the truthmaker (Proposed, thesis, the assistant's lean), and [CLAIM-1028](record/claims.d/CLAIM-1028.md), grounding as a further condition (Proposed, counter).
+- Alternatives on understanding: [CLAIM-1092](record/claims.d/CLAIM-1092.md), stable tracking, so a frozen rule understands (Proposed, thesis, the assistant's lean), and [CLAIM-1059](record/claims.d/CLAIM-1059.md), developmental value, so it does not (Proposed, counter).
+- scratch/studies/lead-001/PROGRESS.md.
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-001](record/leads.d/LEAD-001.md) (what was done and what remains), [QUESTION-493](record/questions.d/QUESTION-493.md) and [QUESTION-360](record/questions.d/QUESTION-360.md).
+
+<!-- inactive-ok-file: CASE-391 CLAIM-1123 CLAIM-1189 CLAIM-1124 CLAIM-1116 — filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-1071 — Proposed; given a dated note by the lead run of 2026-11-23 -->
+### Added
+
+- [CASE-391](record/cases.d/CASE-391.md) (Proposed, executed-study): Still, Sivak, Bell and Crooks's thermodynamics of prediction reproduced for [LEAD-005](record/leads.d/LEAD-005.md) in numpy (scratch/studies/lead-005/, 15 tests). Without feedback every identity and bound holds in 300 random driven systems. With feedback from state to drive the identities and the summed bound hold, but the nostalgia and in a few systems the dissipation go negative. A percept–action loop compares memories that keep the predictive partition, the interventional partition, both, all, or nothing.
+- [CLAIM-1123](record/claims.d/CLAIM-1123.md) (Proposed, thesis, demonstrated): under feedback the per-switch identity and the summed bound survive, and their sign does not.
+- [CLAIM-1189](record/claims.d/CLAIM-1189.md) (Proposed, thesis, demonstrated): under feedback a memory's nostalgia depends on the policy that uses it, and its heat per step need not.
+- [CLAIM-1124](record/claims.d/CLAIM-1124.md) and [CLAIM-1116](record/claims.d/CLAIM-1116.md) (Proposed, thesis, demonstrated), filed as alternatives: the cheapest memory that does the toy's task keeps the interventional partition taken relative to the outcome, or, with the partition taken relative to the whole next percept, neither.
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-005](record/leads.d/LEAD-005.md) (what was done and what remains), [QUESTION-494](record/questions.d/QUESTION-494.md), [THEORY-026](record/theory.d/THEORY-026.md) and [CLAIM-1071](record/claims.d/CLAIM-1071.md) (the checked re-derivation its note asked for).
+
+### Added
+
+- [LIT-3172](record/literature.d/LIT-3172.md) (Active): Lippl and Lindsey, "Inductive biases of
+  multi-task learning and finetuning: multiple regimes of feature reuse"
+  (arXiv 2310.02396, NeurIPS 2024), registered and read by the lead run of
+  2026-11-23 for [LEAD-007](record/leads.d/LEAD-007.md), as the precursor of Anguita and colleagues.
+- [NOTE-2415](record/notes.d/NOTE-2415.md) (Read): main text and most appendices of the arXiv HTML
+  of v4; two proofs skipped.
+- [THEORY-2305](record/theory.d/THEORY-2305.md) (Proposed): the shallow-network theory (feature reuse
+  against sparse new features, the conservation law, nested feature
+  selection reached by rescaling after pretraining).
+- [THEORY-2290](record/theory.d/THEORY-2290.md) (Proposed): rescaling before fine-tuning helps ResNets
+  and not Vision Transformers.
+- [CASE-407](record/cases.d/CASE-407.md) (executed-study, documented, Proposed): a diagonal-network
+  run, 40 seeds, code and results under scratch/studies/lead-007/.
+- [CLAIM-1043](record/claims.d/CLAIM-1043.md) (Proposed, thesis, demonstrated): a pretrained network
+  and its function-preserving rescaling learn differently under full
+  fine-tuning, alike under readout-only training, and the better of them
+  reverses with the main task.
+- [CLAIM-1013](record/claims.d/CLAIM-1013.md) (Proposed, thesis, interpretive) and [CLAIM-1089](record/claims.d/CLAIM-1089.md)
+  (Proposed, counter, interpretive, `objects_to` the former): alternative
+  readings of the check, two learners with one function (the assistant's
+  lean) or one learner under two procedures.
+- [ARG-223](record/arguments.d/ARG-223.md) (Proposed, existence): the support the first reading gives
+  [CLAIM-754](record/claims.d/CLAIM-754.md).
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-007](record/leads.d/LEAD-007.md), [CLAIM-754](record/claims.d/CLAIM-754.md), [CLAIM-675](record/claims.d/CLAIM-675.md),
+  [THEORY-2077](record/theory.d/THEORY-2077.md), [CLAIM-1011](record/claims.d/CLAIM-1011.md), [CLAIM-758](record/claims.d/CLAIM-758.md), [CLAIM-756](record/claims.d/CLAIM-756.md) and [CASE-294](record/cases.d/CASE-294.md).
+- [THEORY-2077](record/theory.d/THEORY-2077.md) gains `extends: THEORY-2305`; [LIT-2861](record/literature.d/LIT-2861.md) gains
+  `extends: LIT-3172`. No status, title or stage changed.
+
+<!-- inactive-ok-file: CLAIM-1197 CLAIM-1036 CLAIM-1130 ARG-227 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-754 — Proposed; cited by the lead run of 2026-11-23 -->
+
+### Added
+
+- [LEAD-011](record/leads.d/LEAD-011.md)'s run, on which assumptions a scalar optimum of learning needs.
+  [CLAIM-1197](record/claims.d/CLAIM-1197.md) (thesis, demonstrated): four sufficient conditions, a
+  declared task law given what has been learned, one valuation, a finite
+  value and attainment; a dependence of the tasks on what is learned,
+  once declared, breaks nothing.
+- [CLAIM-1036](record/claims.d/CLAIM-1036.md) (thesis, demonstrated): when what is learned changes what
+  is valued, the produced selves' valuations fix no optimum (two symmetric
+  constructions); the present self's valuation gives one and counts nothing
+  only a later valuation sees.
+- [CLAIM-1130](record/claims.d/CLAIM-1130.md) (thesis, demonstrated): when learnability outgrows the
+  discount (γg > 1), no learning policy is optimal though task law, costs,
+  horizon and valuation are declared; a bounded version fails attainment
+  with a finite supremum.
+- [ARG-227](record/arguments.d/ARG-227.md) (existence): the constructions show the conditions are
+  independent. Numbers checked under `scratch/studies/lead-011/`.
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-011](record/leads.d/LEAD-011.md) (what was done and what remains),
+  [QUESTION-495](record/questions.d/QUESTION-495.md) and [CLAIM-754](record/claims.d/CLAIM-754.md) (whose last clause the run qualifies). No
+  status, title or stage changed.
+
+### Added
+
+- [CASE-318](record/cases.d/CASE-318.md): a pilot of the curation-completeness study ([LEAD-014](record/leads.d/LEAD-014.md), [CASE-251](record/cases.d/CASE-251.md)) on four replayed single-work readings; 95/138 of what the filings held recovered, 0/6 of what later corrections added. Selection rule, codebook, accountings and scores under scratch/studies/lead-014/.
+- [CLAIM-881](record/claims.d/CLAIM-881.md): in the pilot, the record's corrections of single-work readings fixed accuracy by reading beyond the source, so a source-only accounting cannot be scored against them (Proposed, thesis, empirical).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-014](record/leads.d/LEAD-014.md) (what was done and what remains), [CASE-251](record/cases.d/CASE-251.md), [QUESTION-108](record/questions.d/QUESTION-108.md) and [CLAIM-266](record/claims.d/CLAIM-266.md).
+
+### Added
+
+- [CASE-401](record/cases.d/CASE-401.md) (Proposed, executed-study), the build [LEAD-015](record/leads.d/LEAD-015.md) asks for: two
+  of [CASE-363](record/cases.d/CASE-363.md)'s reduced meaning–influence institutions, an evaluator and
+  an evaluated party, coupled through the evidence and resources the party
+  supplies and the standing and evidence the evaluator's reading confers,
+  linearized at symmetry and checked against the nonlinear map and the
+  agent-level model. Code, tests, derivation and results are under
+  scratch/studies/lead-015/.
+- [CLAIM-1000](record/claims.d/CLAIM-1000.md) (Proposed, demonstrated). With each institution stable
+  alone and nonnegative channels, the pair leaves symmetry exactly when the
+  round-trip gain exceeds one: (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, each Δ_i the
+  institution's own margin; meaning rates and conferral memories cancel.
+- [CLAIM-1202](record/claims.d/CLAIM-1202.md) (Proposed, demonstrated). In that model the loop between the
+  institutions captures the evaluator's reading with no loop inside either,
+  with the evaluator in Regime B, and with its evidence independent while a
+  resource channel runs; cutting the return channel removes it. It
+  corroborates [CLAIM-404](record/claims.d/CLAIM-404.md)'s third part and meets its second defeat condition
+  in the negative, for the model.
+- [CLAIM-1021](record/claims.d/CLAIM-1021.md) (Proposed, demonstrated), the alternative reading of
+  "resources" as capacity: no linear term at symmetry, so the condition is
+  unchanged, but one-sided capture below it from a large push.
+
+### Changed
+
+- Dated notes on [LEAD-015](record/leads.d/LEAD-015.md), [CLAIM-404](record/claims.d/CLAIM-404.md), [CLAIM-330](record/claims.d/CLAIM-330.md), [CASE-092](record/cases.d/CASE-092.md), [CASE-123](record/cases.d/CASE-123.md),
+  [QUESTION-100](record/questions.d/QUESTION-100.md) and [QUESTION-071](record/questions.d/QUESTION-071.md) saying what the derivation does for each. No
+  status or stage is changed.
+
+### Added
+
+- [CASE-341](record/cases.d/CASE-341.md): an executed study ([LEAD-016](record/leads.d/LEAD-016.md)) that runs a reduced version of [CASE-117](record/cases.d/CASE-117.md) with identical linear operators, four contexts (one rare), and four influence rules: mixture-of-experts gating, gating with a balancing loss, gating with a usage bias, and a multiplicative contribution rule. Each rule was run with and without spare operators, testing recovery when rare, removal and suppression. Code, tests and results are in `scratch/studies/lead-016/`.
+- [CLAIM-918](record/claims.d/CLAIM-918.md): under softmax-gradient routing, the part of a rare operator's growth that depends on its own performance is proportional to its share, so its recovery exponent at rarity does not reflect its competence. A multiplicative contribution rule does not have this property (demonstrated, checked in [CASE-341](record/cases.d/CASE-341.md)).
+- [CLAIM-919](record/claims.d/CLAIM-919.md): whether a suppressed rare-context specialist returns is decided by spare capacity, not by whether it kept its competence. It files two readings for the owner (empirical).
+
+### Changed
+
+- Dated notes of 2026-11-22 were added to [LEAD-016](record/leads.d/LEAD-016.md), [CASE-117](record/cases.d/CASE-117.md), [QUESTION-132](record/questions.d/QUESTION-132.md), [QUESTION-134](record/questions.d/QUESTION-134.md), [QUESTION-083](record/questions.d/QUESTION-083.md), [QUESTION-135](record/questions.d/QUESTION-135.md), [QUESTION-133](record/questions.d/QUESTION-133.md) and [QUESTION-125](record/questions.d/QUESTION-125.md). [LEAD-016](record/leads.d/LEAD-016.md) gains `operationalized_in` [CASE-341](record/cases.d/CASE-341.md). No status changed.
+- The run-lead skill gains a step: on a shared machine, stop processes only by their PID, keep scratch files in a subdirectory named after the lead, and measure the pace under the real load.
+
+### Added
+
+- [CASE-355](record/cases.d/CASE-355.md): an executed study ([LEAD-017](record/leads.d/LEAD-017.md)) of three synthetic organizations matched in pursuit of an outcome that grows unpleasant, one denying uptake to a registered evaluation, one accommodating it under a tolerance revised by compensation, one never registering it, with a registration measure that perturbs the evaluation and reads the organization's record without reading the setting. Code, tests and results are in `scratch/studies/lead-017/`.
+- [CLAIM-934](record/claims.d/CLAIM-934.md): registration is measurable as the record's response to a randomized perturbation of the evaluation, with the other routes into the record held fixed; a passive reading misreads a record that carries the evaluation's cause by another route (empirical).
+
+### Changed
+
+- Dated notes of 2026-11-22 were added to [LEAD-017](record/leads.d/LEAD-017.md) and [QUESTION-270](record/questions.d/QUESTION-270.md). [LEAD-017](record/leads.d/LEAD-017.md) gains `operationalized_in` [CASE-355](record/cases.d/CASE-355.md). No status or stage changed.
+
+### Added
+
+- [LIT-3103](record/literature.d/LIT-3103.md), [NOTE-2324](record/notes.d/NOTE-2324.md), [THEORY-2234](record/theory.d/THEORY-2234.md): Millikan, "Biosemantics" (Oxford Handbook of Philosophy of Mind, 2009), read in full from her pre-print for [LEAD-018](record/leads.d/LEAD-018.md); Active, Read, Proposed. Teleology explains how a sign can be false; content is what a sign must map onto for its consumer to function in the way that explains its selection or learning; natural signs are not true or false.
+- [LIT-3104](record/literature.d/LIT-3104.md), [NOTE-2325](record/notes.d/NOTE-2325.md), [THEORY-2235](record/theory.d/THEORY-2235.md): Neander and Schulte, "Teleological Theories of Mental Content" (SEP, 2022 revision), read for [LEAD-018](record/leads.d/LEAD-018.md); Active, Read, Proposed. The survey of selection-based teleosemantics and its four objections.
+- [CLAIM-920](record/claims.d/CLAIM-920.md): the objection to [CLAIM-648](record/claims.d/CLAIM-648.md) from selection-based teleosemantics, that an anticipation is false by a system's own norm only if selection or learning stabilized it (Proposed, counter, interpretive).
+- [ARG-204](record/arguments.d/ARG-204.md): Millikan's account corroborates [CLAIM-650](record/claims.d/CLAIM-650.md)'s question (a) and qualifies its separation from question (b) (Proposed, source).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-018](record/leads.d/LEAD-018.md) (what was done and what remains), [CLAIM-650](record/claims.d/CLAIM-650.md), [CLAIM-648](record/claims.d/CLAIM-648.md), [QUESTION-128](record/questions.d/QUESTION-128.md), [THEORY-220](record/theory.d/THEORY-220.md) and [THEORY-1605](record/theory.d/THEORY-1605.md).
+
+### Added
+
+- [CASE-353](record/cases.d/CASE-353.md) (Proposed, executed-study), the run [LEAD-020](record/leads.d/LEAD-020.md) asks for.
+  [CASE-099](record/cases.d/CASE-099.md)'s loop is built inside one mind with action held fixed, so that
+  it locks in without anchors. [QUESTION-121](record/questions.d/QUESTION-121.md)'s candidates are switches,
+  each with its objection built in. With all of them, no single removal
+  makes the loop lock in. In the minimal loops, removing commitment,
+  processing signals or exogenous capture makes it lock in, and removing
+  an evidence channel leaves it blind. Code, tests and results are under
+  scratch/studies/lead-020/.
+- [CLAIM-931](record/claims.d/CLAIM-931.md) (Proposed, empirical, thesis). In that model, what keeps
+  the loop from locking in is a score or weight its own authority does not
+  set. Evidence that arrives unselected keeps the loop sighted without
+  anchoring it, and the anchors are redundant. It gives two readings of
+  what this does for [QUESTION-121](record/questions.d/QUESTION-121.md), for the owner to choose between.
+
+### Changed
+
+- Dated notes on [QUESTION-121](record/questions.d/QUESTION-121.md), [LEAD-020](record/leads.d/LEAD-020.md), [CLAIM-342](record/claims.d/CLAIM-342.md), [CLAIM-340](record/claims.d/CLAIM-340.md), [CLAIM-339](record/claims.d/CLAIM-339.md)
+  and [CASE-099](record/cases.d/CASE-099.md) saying what the run does for each.
+
+### Added
+
+- [NOTE-2335](record/notes.d/NOTE-2335.md) and [THEORY-2245](record/theory.d/THEORY-2245.md): Ko 2026 read for [LEAD-023](record/leads.d/LEAD-023.md); uncoupled groups sharing one common noise synchronize their order parameters.
+- [NOTE-2336](record/notes.d/NOTE-2336.md) and [THEORY-2246](record/theory.d/THEORY-2246.md): Ocampo-Espindola et al. 2024 read; one open-loop common input imposes a designed cluster pattern on uncoupled oscillators.
+- [NOTE-2338](record/notes.d/NOTE-2338.md) and [THEORY-2247](record/theory.d/THEORY-2247.md): Bačić et al. 2026 read; topological nonlinear Kirchhoff conditions, and nonzero winding needs boundaries of five or more cells.
+- [NOTE-2339](record/notes.d/NOTE-2339.md) and [THEORY-2248](record/theory.d/THEORY-2248.md): Manik, Timme and Witthaut 2017 read; cycle flows and winding numbers for phase locking on graphs.
+- [NOTE-2340](record/notes.d/NOTE-2340.md) and [THEORY-2249](record/theory.d/THEORY-2249.md): Widder and Schilling 2026 read; the Mori–Zwanzig memory term is a coupling term, and the formalism is rigorous only for bounded PL.
+- [NOTE-2341](record/notes.d/NOTE-2341.md) and [THEORY-2250](record/theory.d/THEORY-2250.md): Wang and Tang 2019 read; quiescent adaptive cells oscillate together through a shared signal past a density threshold.
+- [NOTE-2342](record/notes.d/NOTE-2342.md) and [THEORY-2251](record/theory.d/THEORY-2251.md): Stewart 2007 read; balanced equivalence relations form a complete lattice with a computable coarsest element.
+- [NOTE-2343](record/notes.d/NOTE-2343.md) (Skimmed) and [THEORY-2252](record/theory.d/THEORY-2252.md): Dörfler and Bullo 2014 skimmed; S¹-synchronizing graphs, the cycle-space fixed-point equations, and the cases the survey's methods do not cover.
+- [NOTE-2344](record/notes.d/NOTE-2344.md) (Skimmed) and [THEORY-2253](record/theory.d/THEORY-2253.md): Schultz, Spivak and Vasilakopoulou 2016 skimmed; machines as spans of interval sheaves, with totality and determinism preserved by every wiring.
+- [NOTE-2345](record/notes.d/NOTE-2345.md) (Skimmed) and [THEORY-2254](record/theory.d/THEORY-2254.md): Bumpus et al. 2024 skimmed; narratives as sheaves on time intervals.
+- [NOTE-2346](record/notes.d/NOTE-2346.md) (Skimmed) and [THEORY-2255](record/theory.d/THEORY-2255.md): Bosca and Ghrist 2026 skimmed; selective rigidity on discourse sheaves and rate bounds on whether beliefs or expressions change.
+- [NOTE-2347](record/notes.d/NOTE-2347.md) (Skimmed) and [THEORY-2256](record/theory.d/THEORY-2256.md): Leal et al. 2026 skimmed; temporal cellular sheaves for switching multi-agent systems.
+- [NOTE-2348](record/notes.d/NOTE-2348.md) (Skimmed) and [THEORY-2257](record/theory.d/THEORY-2257.md): Battiston et al. 2025 skimmed; effective higher-order phase interactions from pairwise coupling.
+- [NOTE-2349](record/notes.d/NOTE-2349.md) (Skimmed) and [THEORY-2258](record/theory.d/THEORY-2258.md): Schultz and Spivak 2017 skimmed; behavior types as sheaves, one that is no ODE's solution set.
+- A devlog note on the run (record/devlog.d/2026/11/22/155910.md).
+- [CLAIM-935](record/claims.d/CLAIM-935.md): on five or more contexts with zero monodromy the XY energy has twisted local minima of positive energy, so [CLAIM-153](record/claims.d/CLAIM-153.md)'s readout holds for the global minimum only (Proposed, thesis, demonstrated; check in scratch/studies/lead-023/twisted.py).
+
+### Changed
+
+- [LIT-2245](record/literature.d/LIT-2245.md), [LIT-2230](record/literature.d/LIT-2230.md), [LIT-2253](record/literature.d/LIT-2253.md), [LIT-2267](record/literature.d/LIT-2267.md), [LIT-2250](record/literature.d/LIT-2250.md), [LIT-2256](record/literature.d/LIT-2256.md), [LIT-2249](record/literature.d/LIT-2249.md), [LIT-2232](record/literature.d/LIT-2232.md), [LIT-2258](record/literature.d/LIT-2258.md), [LIT-2238](record/literature.d/LIT-2238.md), [LIT-2259](record/literature.d/LIT-2259.md), [LIT-2262](record/literature.d/LIT-2262.md), [LIT-2239](record/literature.d/LIT-2239.md) and [LIT-2235](record/literature.d/LIT-2235.md) moved to Active on their readings.
+- [LIT-2265](record/literature.d/LIT-2265.md) (Pecora and Carroll 1990) recorded Unavailable: no lawful copy found.
+- Dated notes of 2026-11-22 on [LEAD-023](record/leads.d/LEAD-023.md) (what was done and what remains), [QUESTION-143](record/questions.d/QUESTION-143.md), [QUESTION-063](record/questions.d/QUESTION-063.md), [QUESTION-147](record/questions.d/QUESTION-147.md), [CLAIM-153](record/claims.d/CLAIM-153.md), [CLAIM-167](record/claims.d/CLAIM-167.md), [CLAIM-172](record/claims.d/CLAIM-172.md), [CASE-179](record/cases.d/CASE-179.md), [THEORY-1082](record/theory.d/THEORY-1082.md), [QUESTION-282](record/questions.d/QUESTION-282.md), [QUESTION-252](record/questions.d/QUESTION-252.md), [CLAIM-480](record/claims.d/CLAIM-480.md), [THEORY-1065](record/theory.d/THEORY-1065.md), [QUESTION-379](record/questions.d/QUESTION-379.md), [CLAIM-623](record/claims.d/CLAIM-623.md) and [THEORY-1088](record/theory.d/THEORY-1088.md).
+
+### Added
+
+- [CASE-347](record/cases.d/CASE-347.md): [CASE-101](record/cases.d/CASE-101.md)'s three populations, with an institution deaf to its members as a fourth, simulated with matched turnover and aggregate statistics and run through [QUESTION-115](record/questions.d/QUESTION-115.md)'s search and a lagged block test priced by [CLAIM-154](record/claims.d/CLAIM-154.md) ([LEAD-026](record/leads.d/LEAD-026.md)). Materials under scratch/studies/lead-026/.
+- [CLAIM-926](record/claims.d/CLAIM-926.md): the priced lagged block test finds the population held together by delayed transmission, with its lag, rejects the commonly driven population only while the input is observed, and gives common input and institutional maintenance the same boundary.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [QUESTION-115](record/questions.d/QUESTION-115.md), [QUESTION-116](record/questions.d/QUESTION-116.md), [CLAIM-157](record/claims.d/CLAIM-157.md), [CLAIM-194](record/claims.d/CLAIM-194.md), [CASE-101](record/cases.d/CASE-101.md) and [LEAD-026](record/leads.d/LEAD-026.md), reporting the study. No status, title or held text changed.
+- The run-lead skill (step 5) now says to check that a saved PID names the process itself, not a wrapper.
+
+### Added
+
+- **[LEAD-029](record/leads.d/LEAD-029.md) run.** [CASE-324](record/cases.d/CASE-324.md), an executed study (scratch/studies/lead-029/): simulated data from an instance of [CLAIM-297](record/claims.d/CLAIM-297.md)'s model with three operators, four frames and governance interventions, fitted by a joint model and by three kinds of separate model of matched complexity on the same data, and scored on held-out compositions of interventions and frame changes. With the loop from interpretation to authority present, the joint model predicted two to thirty times better; with it absent, the joint model gained nothing and the BIC preferred the cut model. [CLAIM-888](record/claims.d/CLAIM-888.md), the joint prediction of the pragmatic-transport and will-organization lines that [CLAIM-336](record/claims.d/CLAIM-336.md)'s blocker asked for, derived in the model: an intervention's later effect takes the sign of the treated operator's reading under the new frame, and survives as the operators' dissent under the frames in between allows, growing where η·Δa²/2 > κ.
+
+### Changed
+
+- **Dated notes** on [LEAD-029](record/leads.d/LEAD-029.md), [CLAIM-336](record/claims.d/CLAIM-336.md), [CLAIM-286](record/claims.d/CLAIM-286.md), [QUESTION-088](record/questions.d/QUESTION-088.md) and [ARG-065](record/arguments.d/ARG-065.md). No status changes.
+
+### Added
+
+- [CASE-367](record/cases.d/CASE-367.md): [CASE-296](record/cases.d/CASE-296.md)'s laboratory of genres, run as a numpy simulation for [LEAD-030](record/leads.d/LEAD-030.md) (executed-study, documented): two worlds, genres planted in preferences and clusters made by exposure alone, and five arms, four seeds each. Code under scratch/studies/lead-030/.
+- [CLAIM-954](record/claims.d/CLAIM-954.md): in the simulated network, only engagement under randomized exposure tells classes inferred, used and reshaping apart; the classes reshape preferences only when used (Proposed, thesis, empirical).
+- [CLAIM-955](record/claims.d/CLAIM-955.md): fit to engagement data and stability favour exposure-made and used classes over planted genres, so neither warrants an engagement category as a kind; the closure test conditioned on exposure and scored on randomized exposure, with an exposure control partition, separates them (Proposed, thesis, empirical).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-030](record/leads.d/LEAD-030.md) (what was done and what remains), [CASE-296](record/cases.d/CASE-296.md), [QUESTION-028](record/questions.d/QUESTION-028.md) and [CLAIM-762](record/claims.d/CLAIM-762.md) (two readings of how the run bears on it, filed as alternatives for the owner).
+
+### Added
+
+- [LEAD-032](record/leads.d/LEAD-032.md)'s Europe PMC search for dismantling trials of safety-behaviour removal with exposure held fixed, and for individual-level hysteresis in psychopathology: script, counts and screening in scratch/studies/lead-032/. Neither the experiment [QUESTION-045](record/questions.d/QUESTION-045.md) asks for nor individual data showing hysteresis was found.
+- Three readings: Meckes et al. (2025), [LIT-3123](record/literature.d/LIT-3123.md), [NOTE-2332](record/notes.d/NOTE-2332.md), [THEORY-2242](record/theory.d/THEORY-2242.md) (exposure with a supplied safety behaviour faded, kept or absent, no difference at one month); de Jong et al. (2023), [LIT-3124](record/literature.d/LIT-3124.md), [NOTE-2333](record/notes.d/NOTE-2333.md), [THEORY-2243](record/theory.d/THEORY-2243.md) (the HysTAR test for hysteresis, no empirical psychopathology series); Smit et al. (2025), [LIT-3125](record/literature.d/LIT-3125.md), [NOTE-2334](record/notes.d/NOTE-2334.md), [THEORY-2244](record/theory.d/THEORY-2244.md) (critical slowing before about a third of depressive recurrences).
+- Registered: Meulders et al. 2016, [LIT-3120](record/literature.d/LIT-3120.md) (Unfetched), and Wells et al. 1995, [LIT-3117](record/literature.d/LIT-3117.md); Salkovskis et al. 1999, [LIT-3121](record/literature.d/LIT-3121.md); Powers et al. 2004, [LIT-3118](record/literature.d/LIT-3118.md); Blakey et al. 2019, [LIT-3122](record/literature.d/LIT-3122.md); Wichers et al. 2016, [LIT-3119](record/literature.d/LIT-3119.md) (Deferred).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-032](record/leads.d/LEAD-032.md), [QUESTION-045](record/questions.d/QUESTION-045.md), [THEORY-058](record/theory.d/THEORY-058.md), [TERM-020](record/terms.d/TERM-020.md) and [CLAIM-446](record/claims.d/CLAIM-446.md) giving the search's outcome. No status changes.
+
+### Added
+
+- [CASE-336](record/cases.d/CASE-336.md): the matched constructions [LEAD-033](record/leads.d/LEAD-033.md) names, written on one stipulated courier platform (C1 to C4: grounds withheld, review controlled by the decider, alternatives eroded, rules revisable at will), with variants C2* and C4* that stipulate away what a power's holder would do with it.
+- [CLAIM-908](record/claims.d/CLAIM-908.md), argued by [ARG-203](record/arguments.d/ARG-203.md): as stated, each construction is explained by reasonable rejection on protective personal reasons, with no principle of who holds a power imported; the supplement answer to [QUESTION-483](record/questions.d/QUESTION-483.md) is supported.
+- [CLAIM-909](record/claims.d/CLAIM-909.md): only the variants discriminate; their verdict turns on whether a reason to hold or share a power, apart from its use, is an input the test admits, and the protective explanation makes the stated verdicts depend on the decider's feasible reliability ([QUESTION-484](record/questions.d/QUESTION-484.md)).
+- Three alternatives on the variants, for the owner: [CLAIM-913](record/claims.d/CLAIM-913.md) (a, no residual wrong), [CLAIM-911](record/claims.d/CLAIM-911.md) (b, a reason of status the test admits; the assistant's lean), [CLAIM-912](record/claims.d/CLAIM-912.md) (c, the test imports a principle of standing, in Wenar's form).
+- scratch/studies/lead-033/PROGRESS.md, the lead's progress file.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [QUESTION-483](record/questions.d/QUESTION-483.md), [QUESTION-484](record/questions.d/QUESTION-484.md), [QUESTION-481](record/questions.d/QUESTION-481.md) and [LEAD-033](record/leads.d/LEAD-033.md) saying what the lead found. No status or stage changes.
+
+### Added
+
+- [CASE-352](record/cases.d/CASE-352.md): the whitened class-separation singular values of Han, Papyan and Donoho measured in small models trained by MSE without re-whitening ([LEAD-035](record/leads.d/LEAD-035.md)); the renormalized control matches (4t/N)^(1/4), nothing else does: exponential or steep growth with spreading and stalled NC1 without weight decay, growth to finite values or a late instability with it. Code, tests and per-item results under scratch/studies/lead-035/.
+- [CLAIM-933](record/claims.d/CLAIM-933.md): in small models the quarter-power law describes the renormalized flow and not gradient descent (Proposed, thesis, empirical).
+- [LIT-3126](record/literature.d/LIT-3126.md): Mixon, Parshall and Pi, Neural collapse with unconstrained features (arXiv:2011.11619), registered, Deferred.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-035](record/leads.d/LEAD-035.md) (what was done and what remains), [QUESTION-181](record/questions.d/QUESTION-181.md), [THEORY-797](record/theory.d/THEORY-797.md) and [QUESTION-051](record/questions.d/QUESTION-051.md).
+
+### Added
+
+- **[LEAD-036](record/leads.d/LEAD-036.md) run.** [CASE-343](record/cases.d/CASE-343.md), an executed study (scratch/studies/lead-036/): A's maintenance-funding model from [QUESTION-386](record/questions.d/QUESTION-386.md), with competence bought from the budget, the budget following observed use, and a capability committed only when competent enough, run at five rarities at fixed expected funding against maintenance funded apart from use, 2,000 runs of thirty years per configuration. Where the base budget alone sustains competence below the commitment threshold, the capability is lost for good only under coupling, in every run at one occasion in two and a half years and in 39 % at four a year. [CLAIM-921](record/claims.d/CLAIM-921.md): in that model the coupled rule has an absorbing defunded state when (β/δ)(B̄ − h) is below the commitment threshold, any long enough stretch without occasions reaches it whatever each use is paid, so rarer capabilities are lost sooner at the same expected funding, and decoupling at a level that sustains the threshold removes it.
+
+### Changed
+
+- **Dated notes** on [LEAD-036](record/leads.d/LEAD-036.md), [QUESTION-386](record/questions.d/QUESTION-386.md) and [CLAIM-577](record/claims.d/CLAIM-577.md) (whose floor exception the study qualifies: a floor that sustains competence below the level of use brings the loss back over a longer stretch).
+
+### Added
+
+- [CASE-310](record/cases.d/CASE-310.md) and [CASE-309](record/cases.d/CASE-309.md), the case pair [LEAD-038](record/leads.d/LEAD-038.md) asks for: a will
+  whose precedence was installed by one outside input landing on its
+  twin's exact state, the channel then withdrawn, and the twin who reached
+  the same state by his own revision; stipulated thought-experiments with
+  six variants.
+- [CLAIM-868](record/claims.d/CLAIM-868.md) (Proposed), answering [QUESTION-071](record/questions.d/QUESTION-071.md) for withdrawn
+  manipulation: no feature of will-organization differs, since maintenance,
+  transformation and the response to intervention are fixed by present
+  state, dynamics and couplings; with six things a record of formation must
+  contain, and the corollary that the more an agent can reach by its own
+  revision, the more manipulation its present can hide.
+- [CLAIM-866](record/claims.d/CLAIM-866.md) and [CLAIM-867](record/claims.d/CLAIM-867.md) (Proposed), alternatives for a
+  manipulation that keeps its channel: the channel is a feature of
+  will-organization, or a fact about the agent's situation. The owner
+  chooses.
+
+### Changed
+
+- Dated notes on [LEAD-038](record/leads.d/LEAD-038.md), [QUESTION-071](record/questions.d/QUESTION-071.md) and [CLAIM-022](record/claims.d/CLAIM-022.md) saying what the pair
+  and the claims do for each.
+
+### Added
+
+- [CLAIM-939](record/claims.d/CLAIM-939.md): information-bottleneck optima nest at every pair of budgets whenever p(Y|x) takes at most two distinct values, for any finite Y, widening [THEORY-757](record/theory.d/THEORY-757.md)'s binary case (Proposed, thesis, demonstrated; [LEAD-039](record/leads.d/LEAD-039.md)).
+- [CLAIM-940](record/claims.d/CLAIM-940.md): refinability at every pair of budgets is closed under independent products, so independent products of two-row and function pairs nest (Proposed, thesis, demonstrated).
+- [CLAIM-941](record/claims.d/CLAIM-941.md): forcing nesting costs at most the chord gap of the information curve, I(λ₁) − (λ₁/λ₂) I(λ₂) (Proposed, thesis, demonstrated).
+- [CASE-360](record/cases.d/CASE-360.md): the numerical study, by lower convex envelopes on simplex grids. Code under scratch/studies/lead-039/.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-039](record/leads.d/LEAD-039.md) (what was done and what remains) and [QUESTION-220](record/questions.d/QUESTION-220.md).
+
+### Added
+
+- [CASE-354](record/cases.d/CASE-354.md): an executed study for [LEAD-040](record/leads.d/LEAD-040.md). Small Z2-symmetric recurrent lattices are trained on a wall-dependent task, and the four candidate partitions of [QUESTION-491](record/questions.d/QUESTION-491.md) are compared on them, with walls moved by interchange and frozen random controls. Code and results are in scratch/studies/lead-040/.
+- [CLAIM-932](record/claims.d/CLAIM-932.md) (Proposed, thesis, empirical): walls, coherent structures and operative sites agree while the field runs free; local transfer entropy misses pinned walls; and intervention comes apart from the other criteria while the input is on.
+
+### Changed
+
+- [QUESTION-491](record/questions.d/QUESTION-491.md) and [LEAD-040](record/leads.d/LEAD-040.md): dated notes of 2026-11-22 on the study. No status changes.
+
+### Added
+
+- **[LEAD-041](record/leads.d/LEAD-041.md) carried out in part.** The argument [CLAIM-440](record/claims.d/CLAIM-440.md)'s consequence 4 owes, that the evaluative space model's positivity and negativity channels are perspectives in [TERM-076](record/terms.d/TERM-076.md)'s sense ([CLAIM-897](record/claims.d/CLAIM-897.md)), with the alternative reading that they are inputs to one evaluator filed beside it for the owner to choose ([CLAIM-898](record/claims.d/CLAIM-898.md)).
+- **A procedure answering [QUESTION-268](record/questions.d/QUESTION-268.md)** ([CLAIM-899](record/claims.d/CLAIM-899.md)): per-window verdicts of no contest, too few contests, indeterminate, prevails, split by context or ambivalent, with persistence, resumption and alternation across windows; contest read from rankings measured apart from the decisions, a compromise scored as a candidate, ambivalence against the record's own noise. Code and twelve synthetic cases under scratch/studies/lead-041/.
+- **Its application** ([CASE-330](record/cases.d/CASE-330.md), an executed study): the FOMC's policy-rate decisions 1966–2026 with the dual mandate's inflation and employment channels as perspectives, ranked from the Philadelphia Fed's real-time vintages. Contest in about a quarter of quarters, nearly all in stagflation; a compromise of holding prevails twice; ambivalence shown only weakly (Burns's tenure, 1980–81); no persistent potential, so no resumption; the limit is contests per window at the committee's own noise.
+
+### Changed
+
+- Dated notes on [LEAD-041](record/leads.d/LEAD-041.md), [QUESTION-268](record/questions.d/QUESTION-268.md) and [CLAIM-440](record/claims.d/CLAIM-440.md) saying what was done and what remains. No status, stage or title changed.
+
+### Added
+
+- [CASE-371](record/cases.d/CASE-371.md): a toy-scale run of [CASE-274](record/cases.d/CASE-274.md)'s forgetting study for [LEAD-043](record/leads.d/LEAD-043.md)
+  (executed-study), with its scripts, tests and results under
+  scratch/studies/lead-043/.
+- [CLAIM-966](record/claims.d/CLAIM-966.md): what the run finds, that forgetting by unlearning,
+  overwriting or a new task is mostly readdressing and interference, with
+  the update in the routing, and only gradient ascent looks like loss.
+- [CLAIM-967](record/claims.d/CLAIM-967.md): that a union of survival readers overstates retention
+  without a matched world.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-043](record/leads.d/LEAD-043.md), [CASE-274](record/cases.d/CASE-274.md), [QUESTION-010](record/questions.d/QUESTION-010.md),
+  [QUESTION-275](record/questions.d/QUESTION-275.md) and [CLAIM-697](record/claims.d/CLAIM-697.md) saying what the run shows and what it leaves.
+
+<!-- inactive-ok-file: CASE-406 CLAIM-1160 CLAIM-1107 CLAIM-1063 THEORY-2296 THEORY-2282 THEORY-2283 LIT-3186 — new; filed by the lead run of 2026-11-23 -->
+
+### Added
+
+- [LEAD-044](record/leads.d/LEAD-044.md)'s run. [CASE-406](record/cases.d/CASE-406.md) (executed study): open evaluations coded,
+  under six criteria written before the search, for interventions of
+  equal budget at different places in one organization. One meets the
+  standard: Andhra Pradesh's randomized evaluation of 500 government
+  primary schools, where an individual teacher bonus raised test scores by
+  0.27 SD against 0.09 SD for an extra contract teacher or a block grant
+  at the same yearly cost. Two come closest: Seva Mandir's immunisation
+  camps with and without incentives (nested arms, costs per outcome), and
+  Zambia's 2009/10 supply chain pilot (two tiers, costs not reached).
+  Rules, search and coding under `scratch/studies/lead-044/`.
+- [CLAIM-1160](record/claims.d/CLAIM-1160.md) (thesis, empirical): the placement reading of the school
+  case, corroborating [CLAIM-562](record/claims.d/CLAIM-562.md) in an organization; the filer's lean.
+- [CLAIM-1107](record/claims.d/CLAIM-1107.md) (counter, interpretive): the instrument reading, that
+  place and conditional pay vary together, so the case illustrates
+  without testing.
+- [CLAIM-1063](record/claims.d/CLAIM-1063.md) (disclaimed, empirical): no coded case shows that adding
+  an intervention can make an organization fail.
+- Muralidharan and Sundararaman (NBER 2009; JPE 2011), [LIT-3177](record/literature.d/LIT-3177.md), read
+  ([NOTE-2395](record/notes.d/NOTE-2395.md), [THEORY-2296](record/theory.d/THEORY-2296.md)).
+- Banerjee, Duflo, Glennerster and Kothari (BMJ 2010), [LIT-3170](record/literature.d/LIT-3170.md), read
+  ([NOTE-2418](record/notes.d/NOTE-2418.md), [THEORY-2282](record/theory.d/THEORY-2282.md)).
+- Leung, Chen, Yadav and Gallien (PLOS ONE 2016), [LIT-3155](record/literature.d/LIT-3155.md), read as a
+  stand-in ([NOTE-2401](record/notes.d/NOTE-2401.md), [THEORY-2283](record/theory.d/THEORY-2283.md)) for Vledder et al. (2019),
+  [LIT-3186](record/literature.d/LIT-3186.md), Unfetched behind Cloudflare at both copies.
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-044](record/leads.d/LEAD-044.md) (what was done and what remains),
+  [CLAIM-562](record/claims.d/CLAIM-562.md) and [QUESTION-380](record/questions.d/QUESTION-380.md). No status, title or stage changed.
+
+### Added
+
+- [CASE-319](record/cases.d/CASE-319.md) (executed-study, documented, Proposed), carrying out
+  [LEAD-045](record/leads.d/LEAD-045.md): the Geometry model of [THEORY-253](record/theory.d/THEORY-253.md) under gradient descent, sign
+  descent and Adam, set against a derived ODE, and one two-layer ReLU network
+  on four independent skills of unequal frequency under all three optimizers
+  from order-one and small initial scale. Code, tests and results under
+  scratch/studies/lead-045/.
+- [CLAIM-883](record/claims.d/CLAIM-883.md) (Proposed, thesis, demonstrated): in the mean-field limit,
+  sign descent on the Geometry model is gradient descent's path with its
+  clock divided by the gradient norm; each weaker skill accelerates while a
+  stronger remains, and t_n/t_1 → (n − ε)/(1 − ε).
+- [CLAIM-882](record/claims.d/CLAIM-882.md) (Proposed, thesis, empirical): in one small network, the
+  optimizer swap at order-one scale delays the weaker skills and compresses
+  their learning times without the clean Domino form; from small scale,
+  gradient descent alone delays them most.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [QUESTION-193](record/questions.d/QUESTION-193.md), [QUESTION-039](record/questions.d/QUESTION-039.md), [THEORY-253](record/theory.d/THEORY-253.md) and
+  [LEAD-045](record/leads.d/LEAD-045.md); [LEAD-045](record/leads.d/LEAD-045.md) gains `operationalized_in: CASE-319`. No status,
+  title or stage changed.
+
+### Added
+
+- [LEAD-047](record/leads.d/LEAD-047.md)'s literature search for a manipulation of defensive authority with threat belief held fixed: script, counts and screening table in scratch/studies/lead-047/. No study in the screened set meets the lead's criteria.
+- Two readings of the nearest designs: Sridhar, Biagi & Wake (2026), [LIT-3076](record/literature.d/LIT-3076.md), [NOTE-2299](record/notes.d/NOTE-2299.md), [THEORY-2210](record/theory.d/THEORY-2210.md); Vestring et al. (2026), [LIT-3079](record/literature.d/LIT-3079.md), [NOTE-2300](record/notes.d/NOTE-2300.md), [THEORY-2209](record/theory.d/THEORY-2209.md).
+- Five nearest designs registered as Deferred: [LIT-3074](record/literature.d/LIT-3074.md) (Vervliet & Indekeu 2015), [LIT-3077](record/literature.d/LIT-3077.md) (Pittig et al. 2021), [LIT-3075](record/literature.d/LIT-3075.md) (Pittig & Wong 2021), [LIT-3078](record/literature.d/LIT-3078.md) (Korn et al. 2017), [LIT-3073](record/literature.d/LIT-3073.md) (Leissner et al. 2026).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-047](record/leads.d/LEAD-047.md), [CLAIM-446](record/claims.d/CLAIM-446.md), [CLAIM-445](record/claims.d/CLAIM-445.md) and [QUESTION-325](record/questions.d/QUESTION-325.md) giving the search's outcome. No status changes.
+
+### Added
+
+- [CASE-332](record/cases.d/CASE-332.md): a reduced simulation of [CASE-186](record/cases.d/CASE-186.md) ([LEAD-048](record/leads.d/LEAD-048.md)). There are 1,836 cells of 64 matched worlds. After an undisclosed lesion of generate, admit or score, the second correction succeeds in 64/64 worlds for reciprocal and external maintenance and 0/64 without production when the apparatus tests itself, and in 0/64 for every arrangement when it does not. Only the double lesion separates reciprocal from external maintenance. Code (reusable by [LEAD-140](record/leads.d/LEAD-140.md)), tests and results are under scratch/studies/lead-048/.
+- [CLAIM-901](record/claims.d/CLAIM-901.md): in that construction, the second correction after a lesioned operation is decided by self-diagnosis and a producer to rebuild, not by which operation is lesioned; where maintenance is realized is separated only by destroying both capacities (Proposed, thesis, demonstrated).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-048](record/leads.d/LEAD-048.md) (what was done and what remains), [CASE-186](record/cases.d/CASE-186.md), [CLAIM-414](record/claims.d/CLAIM-414.md), [CLAIM-522](record/claims.d/CLAIM-522.md), [QUESTION-086](record/questions.d/QUESTION-086.md), [QUESTION-285](record/questions.d/QUESTION-285.md), [QUESTION-271](record/questions.d/QUESTION-271.md), [QUESTION-279](record/questions.d/QUESTION-279.md) and [QUESTION-016](record/questions.d/QUESTION-016.md).
+
+### Added
+
+- [CLAIM-885](record/claims.d/CLAIM-885.md): [LEAD-049](record/leads.d/LEAD-049.md)'s restricted theorem, demonstrated. It covers symmetric resource competition with niche traits that adapt within a box up the selection gradient, which is a gradient flow of [CLAIM-369](record/claims.d/CLAIM-369.md)'s objective. The claim gives sufficient conditions for local exponential stability of a differentiated equilibrium (A). It shows that each specialist recovers when rare against frozen residents at λ_i ≥ n*_i d_i² (B). It gives the same rate against re-adapted residents when the frozen −i community meets (A) (C).
+- [CLAIM-886](record/claims.d/CLAIM-886.md): the counterexample, demonstrated. In a two-resource trade-off, a stable specialist pair coexists with a stable lone generalist against which a removed specialist has negative growth, −c/5.
+- [CASE-322](record/cases.d/CASE-322.md): the executed study that checks both claims numerically. Code, tests and results are in `scratch/studies/lead-049/`.
+
+### Changed
+
+- Dated notes of 2026-11-22 were added to [LEAD-049](record/leads.d/LEAD-049.md), [QUESTION-132](record/questions.d/QUESTION-132.md), [QUESTION-133](record/questions.d/QUESTION-133.md), [QUESTION-135](record/questions.d/QUESTION-135.md), [CLAIM-369](record/claims.d/CLAIM-369.md) and [CASE-118](record/cases.d/CASE-118.md). [LEAD-049](record/leads.d/LEAD-049.md) gains `operationalized_in`. No status changed.
+
+<!-- LEAD-051: read Peng et al. (LIT-2462) and specify the own-cell vs
+     donor-cell tolerance comparison. -->
+
+### Added
+
+- [NOTE-2337](record/notes.d/NOTE-2337.md): a full reading of Peng et al. ([LIT-2462](record/literature.d/LIT-2462.md), *Immunity* 2025) on
+  NIMA tolerance sustained by LysM+ CD11c+ maternal microchimeric cells, from
+  the NIH Public Access author manuscript via the NCBI E-utilities interface.
+- [CASE-356](record/cases.d/CASE-356.md): a proposed-study specifying the comparison of own-maternal-cell
+  NIMA tolerance against donor-supplied matched tolerogenic cells, with the
+  interventions and what each outcome would count for (illustrates [CLAIM-530](record/claims.d/CLAIM-530.md),
+  bears_on [QUESTION-086](record/questions.d/QUESTION-086.md), draws_on [THEORY-1658](record/theory.d/THEORY-1658.md)).
+
+### Changed
+
+- [LIT-2462](record/literature.d/LIT-2462.md) moved from Unfetched to Active, read for [LEAD-051](record/leads.d/LEAD-051.md); summary, key
+  takeaways, standing and history rewritten from the reading.
+- Dated notes of 2026-11-22 added to [THEORY-1658](record/theory.d/THEORY-1658.md) (promote_when met; promotion
+  and re-sourcing left to the owner), [CLAIM-530](record/claims.d/CLAIM-530.md), [CLAIM-659](record/claims.d/CLAIM-659.md), [QUESTION-086](record/questions.d/QUESTION-086.md) and
+  [LEAD-051](record/leads.d/LEAD-051.md).
+
+### Added
+
+- [CASE-351](record/cases.d/CASE-351.md) (executed-study, documented, Proposed), carrying out
+  [LEAD-052](record/leads.d/LEAD-052.md): a depth-3 tree whose levels carry input and target strengths
+  set independently, trained by exact kernel flow, NTK-parametrized ReLU
+  networks of width 64 to 4096, deep linear networks of two and three
+  layers, and two-layer ReLU networks from small and order-one scale.
+  Code, tests and results under scratch/studies/lead-052/.
+- [CLAIM-929](record/claims.d/CLAIM-929.md) (Proposed, thesis, demonstrated): on tree-symmetric data
+  every kernel of inner products and norms commutes with the level
+  projectors, so kernel flow orders the levels by input strength alone,
+  while a decoupled deep linear network orders them by input times target
+  strength; neither order is set by tree depth.
+- [CLAIM-930](record/claims.d/CLAIM-930.md) (Proposed, thesis, empirical): a small two-layer ReLU
+  network from small scale keeps the deep linear direction with its spread
+  of acquisition times compressed; in NTK parametrization the dependence
+  on target strength vanishes between width 256 and 1024.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [QUESTION-217](record/questions.d/QUESTION-217.md), [QUESTION-039](record/questions.d/QUESTION-039.md) and [LEAD-052](record/leads.d/LEAD-052.md);
+  [LEAD-052](record/leads.d/LEAD-052.md) gains `operationalized_in: CASE-351`. No status, title or
+  stage changed.
+
+### Added
+
+- [CLAIM-916](record/claims.d/CLAIM-916.md): a rule for [ARG-007](record/arguments.d/ARG-007.md)'s mapping premise. A regulatory capacity's constraint set K holds the constraints that realize it and every constraint they depend on for their production, each at the least level at which what depends on it is still produced, with a union over substitutable routes; once the agent and the capacity are named only the agent's boundary is left to choose (Proposed, thesis, interpretive; [LEAD-053](record/leads.d/LEAD-053.md)).
+- [CLAIM-917](record/claims.d/CLAIM-917.md) and [CLAIM-915](record/claims.d/CLAIM-915.md): the narrow and wide readings of that boundary choice, filed as alternatives for the owner (Proposed, thesis, interpretive).
+- [CASE-342](record/cases.d/CASE-342.md): the rule tested on [CASE-036](record/cases.d/CASE-036.md) (a finite toy with a computed viability kernel), [CASE-111](record/cases.d/CASE-111.md), [CASE-112](record/cases.d/CASE-112.md) and [CASE-227](record/cases.d/CASE-227.md); on Northstar the operative trajectory leaves K while the regime and its criteria hold, and a stipulated K registers nothing. Script, tests and results under scratch/studies/lead-053/.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-053](record/leads.d/LEAD-053.md) (what was done and what remains), [ARG-007](record/arguments.d/ARG-007.md), [CLAIM-099](record/claims.d/CLAIM-099.md) and [CLAIM-195](record/claims.d/CLAIM-195.md).
+
+### Added
+
+- [LEAD-054](record/leads.d/LEAD-054.md)'s search for experience-sampling studies of flow with affect reported during the episode (scratch/studies/lead-054): 83 records from Europe PMC and arXiv plus 6 by Crossref, 10 qualifying, none held before.
+- [LIT-3071](record/literature.d/LIT-3071.md) (Rheinberg et al. 2007) and [LIT-3070](record/literature.d/LIT-3070.md) (Engeser and Baumann 2014), read: [NOTE-2297](record/notes.d/NOTE-2297.md), [NOTE-2298](record/notes.d/NOTE-2298.md), [THEORY-2207](record/theory.d/THEORY-2207.md), [THEORY-2208](record/theory.d/THEORY-2208.md).
+- Eight more qualifying works registered unread: [LIT-3063](record/literature.d/LIT-3063.md), [LIT-3066](record/literature.d/LIT-3066.md), [LIT-3072](record/literature.d/LIT-3072.md), [LIT-3069](record/literature.d/LIT-3069.md), [LIT-3065](record/literature.d/LIT-3065.md), [LIT-3064](record/literature.d/LIT-3064.md), [LIT-3067](record/literature.d/LIT-3067.md) (Deferred) and [LIT-3068](record/literature.d/LIT-3068.md) (Unfetched).
+- [CLAIM-872](record/claims.d/CLAIM-872.md): on the in-episode data read, flow's positivity is concurrent, not subsequent, so [CLAIM-441](record/claims.d/CLAIM-441.md)'s third exit is not supported. Proposed; the assistant's wording.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-054](record/leads.d/LEAD-054.md), [CLAIM-441](record/claims.d/CLAIM-441.md), [CLAIM-440](record/claims.d/CLAIM-440.md) and [CLAIM-162](record/claims.d/CLAIM-162.md).
+
+### Added
+
+- **[LEAD-056](record/leads.d/LEAD-056.md) run, a reading lead.** A search of the lexical-field literature (scratch/studies/lead-056/search.md) for a study that adds, loses or merges a term and measures the neighbours' use against terms outside the field found none. Three nearest works read: Karjus, Blythe, Kirby and Smith 2020 ([LIT-3105](record/literature.d/LIT-3105.md), [NOTE-2328](record/notes.d/NOTE-2328.md), [THEORY-2240](record/theory.d/THEORY-2240.md): a rising word's gain is offset by its near neighbours' frequency losses when its topic is stable); Malik-Moraleda et al. 2023 ([LIT-3108](record/literature.d/LIT-3108.md), [NOTE-2330](record/notes.d/NOTE-2330.md), [THEORY-2239](record/theory.d/THEORY-2239.md): Tsimane'-Spanish bilinguals' colour terms narrow and split green from blue); the Nafaanra CogSci abstract ([LIT-3107](record/literature.d/LIT-3107.md), [NOTE-2329](record/notes.d/NOTE-2329.md), [THEORY-2238](record/theory.d/THEORY-2238.md): three colour terms in 1978, seven in 2017, the older ones naming smaller categories), standing in for the unfetched journal paper [LIT-3106](record/literature.d/LIT-3106.md).
+- **Registered, unread:** [LIT-3109](record/literature.d/LIT-3109.md) (Ameel et al. 2005), [LIT-3110](record/literature.d/LIT-3110.md) (Athanasopoulos 2009), [LIT-3112](record/literature.d/LIT-3112.md) (Xu and Kemp 2015), [LIT-3111](record/literature.d/LIT-3111.md) (Ryskina et al. 2020).
+- **[ARG-205](record/arguments.d/ARG-205.md)**, Proposed: the two colour readings corroborate [CLAIM-082](record/claims.d/CLAIM-082.md) without testing it, for want of terms outside the field as a control.
+
+### Changed
+
+- **Dated notes** on [LEAD-056](record/leads.d/LEAD-056.md), [THEORY-159](record/theory.d/THEORY-159.md), [CLAIM-082](record/claims.d/CLAIM-082.md), [CLAIM-242](record/claims.d/CLAIM-242.md) and [THEORY-791](record/theory.d/THEORY-791.md). [THEORY-159](record/theory.d/THEORY-159.md)'s promote_when stays unmet; no status changed.
+
+### Added
+
+- **[LEAD-057](record/leads.d/LEAD-057.md) carried out on one model** ([CASE-321](record/cases.d/CASE-321.md), an executed study): a four-unit linear Gaussian VAR(1) with a beam-like apparatus, on which a fixed partition, the partition recovered from the dynamics in force and the apparatus's own partition are compared under five interventions, a gain sweep and a variant with probe states. Script, tests and results under scratch/studies/lead-057/.
+- **[CLAIM-887](record/claims.d/CLAIM-887.md)** (Proposed thesis, interpretive): the fixed and recovered partitions make different counterfactual predictions whenever the coupling moves; the apparatus-dependent partition either tracks the apparatus and is refuted where the apparatus does not dominate the coupling, or tracks the dynamics it produces and predicts what causal modification and discovery predict.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [QUESTION-284](record/questions.d/QUESTION-284.md) and [LEAD-057](record/leads.d/LEAD-057.md); [LEAD-057](record/leads.d/LEAD-057.md) gains `operationalized_in` [CASE-321](record/cases.d/CASE-321.md).
+
+### Added
+
+- Nothing new: the corollary [LEAD-059](record/leads.d/LEAD-059.md) asks for is already held as [CLAIM-629](record/claims.d/CLAIM-629.md) (Active, demonstrated), so under [ADR-072](record/decisions.d/ADR-072.md) no second code is filed.
+
+### Changed
+
+- **Dated note** on [LEAD-059](record/leads.d/LEAD-059.md): the corollary is [CLAIM-629](record/claims.d/CLAIM-629.md), its part of [QUESTION-127](record/questions.d/QUESTION-127.md) is [QUESTION-499](record/questions.d/QUESTION-499.md), the two checks re-run unchanged, and the lead's title is mislabelled. No status changes.
+- **run-lead skill**, step 1: check whether the lead's target is already held before filing it.
+
+### Added
+
+- [CASE-340](record/cases.d/CASE-340.md): the audit's construction for [QUESTION-184](record/questions.d/QUESTION-184.md) computed exactly, ⌊n/k⌋ closed groups of k = ⌈√(ln n)⌉ DeGroot averagers with Bernoulli(1/2) signals; the largest influence weight vanishes and the chance that some group's consensus misses by 1/2 tends to 1. Scripts, tests and results under scratch/studies/lead-061/.
+- [CLAIM-914](record/claims.d/CLAIM-914.md): Golub and Jackson's Proposition 2 ([LIT-999](record/literature.d/LIT-999.md)) holds in its "only if" direction, fails in its "if" direction with many small closed groups, and holds when s_1·log m → 0, in particular with boundedly many closed groups (Proposed, thesis, demonstrated; answers the narrower half of [QUESTION-184](record/questions.d/QUESTION-184.md)).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-061](record/leads.d/LEAD-061.md) (what was done and what remains), [QUESTION-184](record/questions.d/QUESTION-184.md), [NOTE-840](record/notes.d/NOTE-840.md) (a partial reread; version 2), [LIT-999](record/literature.d/LIT-999.md) (version 3) and [THEORY-321](record/theory.d/THEORY-321.md) (version 6).
+
+### Added
+
+- [LIT-3081](record/literature.d/LIT-3081.md), [NOTE-2302](record/notes.d/NOTE-2302.md) (Read) and [THEORY-2212](record/theory.d/THEORY-2212.md) (Proposed): Simić, Sacchi and Perugini 2025, read in full from the Europe PMC interface for [LEAD-062](record/leads.d/LEAD-062.md). A group's expected sameness fifty years on, separable from national attachment (r = .14), lowered fear for the group's future and, among high identifiers only, prejudice toward immigrants.
+- [LIT-3083](record/literature.d/LIT-3083.md) (Unfetched; Europe PMC full text answered HTTP 500), [LIT-3082](record/literature.d/LIT-3082.md) (Unfetched; OSF preprint outside the lead's routes) and [LIT-3084](record/literature.d/LIT-3084.md) (Deferred; abstract only): three works by Law, Syropoulos and colleagues relating felt connection across time and future-self continuity to concern for future generations, registered from the [LEAD-062](record/leads.d/LEAD-062.md) search.
+- [CASE-323](record/cases.d/CASE-323.md) (proposed-study): Chan's field design, as [NOTE-1280](record/notes.d/NOTE-1280.md) reports it, with concern for the group's welfare measured apart from self-definition, cognitive inclusion and continuity, a gift to the group's members fifty years on, and a legacy prime crossed with a credited gift against one no one will ever know of. The search log is scratch/studies/lead-062/search.md.
+
+### Changed
+
+- [LEAD-062](record/leads.d/LEAD-062.md): `operationalized_in` [CASE-323](record/cases.d/CASE-323.md), and a dated note of 2026-11-22 saying what was done and what remains. Its status and stage are unchanged.
+- Dated notes of 2026-11-22 on [CLAIM-492](record/claims.d/CLAIM-492.md), [QUESTION-299](record/questions.d/QUESTION-299.md), [QUESTION-300](record/questions.d/QUESTION-300.md), [QUESTION-301](record/questions.d/QUESTION-301.md) and [NOTE-1280](record/notes.d/NOTE-1280.md).
+
+### Added
+
+- [CASE-350](record/cases.d/CASE-350.md): autoregressive integrated information with IIT's exclusion rule, computed by one procedure for a linear modular mind and a group of three such minds ([LEAD-063](record/leads.d/LEAD-063.md)). In both the whole is the subject only above a threshold of seam coupling set by its parts' integration; one link can flip the verdict. Code, tests and results under scratch/studies/lead-063/.
+- [CLAIM-927](record/claims.d/CLAIM-927.md): in linear models this measure and rule separate tightly from loosely coupled wholes, not minds from groups (Proposed, thesis, demonstrated).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-063](record/leads.d/LEAD-063.md) (what was done and what remains), [QUESTION-046](record/questions.d/QUESTION-046.md) and [THEORY-043](record/theory.d/THEORY-043.md).
+
+### Added
+
+- [CASE-313](record/cases.d/CASE-313.md): an executed study ([LEAD-065](record/leads.d/LEAD-065.md)) that reimplements Ito and Kaneko's coupled-map network ([LIT-1842](record/literature.d/LIT-1842.md)), removes its core and finds the periphery refilling it in 12 of 12 seeds, while a core made rare in influence is regained by its own members. Code, tests and results are in `scratch/studies/lead-065/`.
+- [CLAIM-875](record/claims.d/CLAIM-875.md): the core is a regime the dynamics regenerate, not an asymmetry entrenched in its first holders. It files two readings of what this means for [QUESTION-132](record/questions.d/QUESTION-132.md), for the owner to choose between.
+
+### Changed
+
+- Dated notes of 2026-11-22 were added to [LEAD-065](record/leads.d/LEAD-065.md), [QUESTION-132](record/questions.d/QUESTION-132.md), [NOTE-1414](record/notes.d/NOTE-1414.md) and [CLAIM-279](record/claims.d/CLAIM-279.md). [LEAD-065](record/leads.d/LEAD-065.md) gains `operationalized_in`. No status changed.
+
+### Added
+
+- [CLAIM-938](record/claims.d/CLAIM-938.md) (Proposed, thesis, demonstrated), carrying out [LEAD-066](record/leads.d/LEAD-066.md):
+  for a learner whose residual obeys ė = −A e with A symmetric positive
+  semidefinite, the commutator of A with a level's projector, over the
+  level's slowest rate and its share of the target, bounds at every time
+  how far the level's residual departs from a flow without cross-level
+  coupling; acquisition-time intervals, an order criterion, a resolution
+  limit, and a moving-operator form that makes A2's ∫‖[A_t, P_ℓ]‖dt a bound.
+- [CASE-358](record/cases.d/CASE-358.md) (executed-study, documented, Proposed): the bound checked
+  on perturbed tree data with three exact kernels, a sharpness family and
+  trained two-layer ReLU networks. Code, tests and results under
+  scratch/studies/lead-066/.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [QUESTION-217](record/questions.d/QUESTION-217.md) and [LEAD-066](record/leads.d/LEAD-066.md); [LEAD-066](record/leads.d/LEAD-066.md) gains
+  `operationalized_in: CASE-358`. No status, title or stage changed.
+
+### Added
+
+- [CLAIM-907](record/claims.d/CLAIM-907.md): three evaluative contexts with transport derived by orthogonal fit on shared commitments; the null of trivial holonomy under plural frames, the gluing criterion, a planar nontrivial case, and underdetermined overlaps leaving the holonomy to the modeller ([LEAD-067](record/leads.d/LEAD-067.md)).
+- [CASE-339](record/cases.d/CASE-339.md): the numerical study of that construction, with a noise null and a curved-chart variant (scratch/studies/lead-067/).
+
+### Changed
+
+- [QUESTION-130](record/questions.d/QUESTION-130.md): note of 2026-11-22 on the construction built for [LEAD-067](record/leads.d/LEAD-067.md); the question is unchanged.
+- [LEAD-067](record/leads.d/LEAD-067.md): note of 2026-11-22 saying what was done and what remains; status and stage unchanged.
+
+### Added
+
+- **[LEAD-068](record/leads.d/LEAD-068.md)'s simulation arm carried out** ([CASE-316](record/cases.d/CASE-316.md), an executed study): [CASE-285](record/cases.d/CASE-285.md)'s design as a queueing model, the overseer's authority, information and reviewers fixed and only the time to irreversibility varied, read both without and with a proportional rise in volume; precommitted limits, automatic suspension and pauses added in turn; 20 seeds per configuration. At ten times the speed the share of objectionable actions stopped in time fell from 0.994 to 0.396 (0.043 with volume); limits won back their coverage, suspension the share detected in time, pauses only by giving up the speed and not at all with volume. Code, tests and results under scratch/studies/lead-068/.
+- **[CLAIM-879](record/claims.d/CLAIM-879.md)**: the result as a demonstrated thesis about the model, corroborating [CLAIM-462](record/claims.d/CLAIM-462.md) and [CLAIM-706](record/claims.d/CLAIM-706.md).
+
+### Changed
+
+- Dated notes on [LEAD-068](record/leads.d/LEAD-068.md), [CASE-285](record/cases.d/CASE-285.md), [CLAIM-710](record/claims.d/CLAIM-710.md), [CLAIM-730](record/claims.d/CLAIM-730.md), [CLAIM-711](record/claims.d/CLAIM-711.md), [CLAIM-464](record/claims.d/CLAIM-464.md), [CLAIM-462](record/claims.d/CLAIM-462.md) and [QUESTION-278](record/questions.d/QUESTION-278.md).
+
+### Added
+
+- [CASE-311](record/cases.d/CASE-311.md): [LEAD-069](record/leads.d/LEAD-069.md)'s study, the record's individuation criteria applied to the Game of Life block and eater by computation (code and tests in scratch/studies/lead-069/).
+- [CLAIM-869](record/claims.d/CLAIM-869.md): read as single-flip sensitivity, coupling inside a Life block is zero while its border's is not, so the gap-isolated block test does not pick it out.
+- [CLAIM-871](record/claims.d/CLAIM-871.md) and [CLAIM-870](record/claims.d/CLAIM-870.md): two alternative readings of whether the Life constructions meet the first half of [QUESTION-281](record/questions.d/QUESTION-281.md)'s answer, (a) in [TERM-088](record/terms.d/TERM-088.md)'s dynamical sense yes, (b) as [CLAIM-157](record/claims.d/CLAIM-157.md)'s one system no. The owner chooses.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-069](record/leads.d/LEAD-069.md), [QUESTION-281](record/questions.d/QUESTION-281.md), [CASE-260](record/cases.d/CASE-260.md) (its run 1's two blocks share their cells) and [CLAIM-157](record/claims.d/CLAIM-157.md) (a form that compensates and fails the test). No status or title changes.
+
+### Added
+
+- [CLAIM-937](record/claims.d/CLAIM-937.md): CbD signalling has no unbiased estimator at any finite count, but a simultaneous Clopper-Pearson interval and a Bonferroni-Fisher test of no signalling are valid at every count, and a content seen at most twice in each context can never be found signalling by a valid 5% test (Proposed, thesis, demonstrated).
+- [CASE-359](record/cases.d/CASE-359.md): the check of those estimators, interval and test by exact enumeration and simulation, and their application to the three binary systems [LIT-842](record/literature.d/LIT-842.md) prints as fractions (executed study; scratch/studies/lead-072). [LIT-851](record/literature.d/LIT-851.md) could not be used: it prints no counts and its copy was behind a Cloudflare challenge.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-072](record/leads.d/LEAD-072.md) (what was done and what remains), [CLAIM-235](record/claims.d/CLAIM-235.md) (its first request met for the estimators, not for the data), [CLAIM-105](record/claims.d/CLAIM-105.md) (a sampling error for the signalling term) and [CLAIM-125](record/claims.d/CLAIM-125.md) ([LIT-851](record/literature.d/LIT-851.md)'s counts still cannot be tested).
+
+<!-- inactive-ok-file: CASE-398 CLAIM-1020 CLAIM-1027 CLAIM-1080 — new; filed by the lead run of 2026-11-23 -->
+### Added
+
+- [CASE-398](record/cases.d/CASE-398.md) (Proposed, executed-study, documented), for [LEAD-073](record/leads.d/LEAD-073.md):
+  [NOTE-746](record/notes.d/NOTE-746.md)'s F, G, M, N, Γ and Γ_q measured in GPT-2 small and Pythia-70m
+  for three factual relations, with tolerances fixed before the run.
+  Study files under scratch/studies/lead-073/ (numpy forward passes, no
+  weights committed).
+- [CLAIM-1020](record/claims.d/CLAIM-1020.md) (Proposed, thesis, demonstrated): a final layer norm with a
+  bias gives every context representation the same component along 1/γ, so
+  the representations span the whole space exactly when that component is
+  nonzero.
+- Two alternative readings of the run: [CLAIM-1027](record/claims.d/CLAIM-1027.md) (Proposed, thesis,
+  empirical; answers [QUESTION-149](record/questions.d/QUESTION-149.md) yes, trivially, since both models meet the
+  diversity condition; the assistant's lean) and [CLAIM-1080](record/claims.d/CLAIM-1080.md) (Proposed,
+  counter, empirical; objects that the exact yes holds of every subspace, and
+  that at a stated tolerance the containments fail and the verdict turns on
+  the tolerance). The choice is the owner's.
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-073](record/leads.d/LEAD-073.md), [QUESTION-149](record/questions.d/QUESTION-149.md), [QUESTION-027](record/questions.d/QUESTION-027.md) and
+  [NOTE-746](record/notes.d/NOTE-746.md). No status or stage changed.
+
+### Added
+
+- [CASE-345](record/cases.d/CASE-345.md): A's staging experiment ([LEAD-075](record/leads.d/LEAD-075.md), [QUESTION-392](record/questions.d/QUESTION-392.md)) run on [CASE-198](record/cases.d/CASE-198.md)'s model with one capacity, a home and a staging architecture, over budget, reserve, deadline and parameters; all four of A's kinds of case occur, the staging route saves capacity and costs time, and at a deadline of 2 the architectural remedy is gone. Model, 14 tests and results under scratch/studies/lead-075/ (Proposed, documented, executed-study).
+- [CLAIM-922](record/claims.d/CLAIM-922.md): in that model admitting the staging architecture creates reachability where the home space is disconnected and only lowers the bottleneck budget where it is connected, with a closed form; a budget or reserve moves neither threshold; a short deadline removes the architectural remedy (Proposed, thesis, demonstrated).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-075](record/leads.d/LEAD-075.md) (what was done and what remains), [QUESTION-392](record/questions.d/QUESTION-392.md) and [CASE-198](record/cases.d/CASE-198.md).
+
+### Added
+
+- **[LEAD-076](record/leads.d/LEAD-076.md) carried out.** The code is in scratch/studies/lead-076/ (numpy, pytest).
+  - [CLAIM-923](record/claims.d/CLAIM-923.md) (demonstrated) gives constructions that separate structural frustration from operative thwarting in each direction, with thwarting tested by silencing a process.
+  - [CASE-346](record/cases.d/CASE-346.md), an executed study, runs [CASE-153](record/cases.d/CASE-153.md)'s self-protecting sentry in full, with hidden state, evidence restriction, the 3 × 2 × 3 factorial, [CLAIM-446](record/claims.d/CLAIM-446.md)'s four interventions and a phase diagram.
+  - [CLAIM-924](record/claims.d/CLAIM-924.md) (empirical) is its finding. Under reward by apparent success, the sentry's authority follows the law of a habit of protecting, and a matched habit reproduces every intervention it can receive. Only interventions on the evaluation tell them apart. Two readings of that result are set out for the owner.
+
+### Changed
+
+- **Dated notes** on [CASE-153](record/cases.d/CASE-153.md), [QUESTION-131](record/questions.d/QUESTION-131.md), [CLAIM-446](record/claims.d/CLAIM-446.md), [CLAIM-443](record/claims.d/CLAIM-443.md), [CLAIM-445](record/claims.d/CLAIM-445.md) and [LEAD-076](record/leads.d/LEAD-076.md).
+
+### Added
+
+- [CASE-338](record/cases.d/CASE-338.md): [CASE-158](record/cases.d/CASE-158.md)'s design built and run in numpy for [LEAD-077](record/leads.d/LEAD-077.md), with the router matched on audit delay and cost, one arm per failure [QUESTION-271](record/questions.d/QUESTION-271.md) lists and a continued-training arm. The scripts, tests and results are in `scratch/studies/lead-077/`.
+- [CLAIM-906](record/claims.d/CLAIM-906.md): what the run shows about governance against a matched router.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [CASE-158](record/cases.d/CASE-158.md), [QUESTION-271](record/questions.d/QUESTION-271.md), [CLAIM-467](record/claims.d/CLAIM-467.md), [CLAIM-277](record/claims.d/CLAIM-277.md), [CLAIM-342](record/claims.d/CLAIM-342.md), [CLAIM-286](record/claims.d/CLAIM-286.md), [QUESTION-264](record/questions.d/QUESTION-264.md), [QUESTION-089](record/questions.d/QUESTION-089.md) and [LEAD-077](record/leads.d/LEAD-077.md), reporting the run. No status, title or held text changed.
+
+### Added
+
+- **[LEAD-078](record/leads.d/LEAD-078.md) carried out in part: bundling by self-prediction, and discounting as a mediator of mindfulness's effect.** Searched both (scratch/studies/lead-078/search.md) and read three works. Khan and Dhar 2007 ([LIT-3113](record/literature.d/LIT-3113.md), [NOTE-2326](record/notes.d/NOTE-2326.md), [THEORY-2236](record/theory.d/THEORY-2236.md)): a recurring choice lowers self-control now unless it is seen as a precedent, and an asserted precedent restores it to about the isolated level, which meets [THEORY-067](record/theory.d/THEORY-067.md)'s first promotion condition in part. Schuhr 2015 ([LIT-3114](record/literature.d/LIT-3114.md), [NOTE-2327](record/notes.d/NOTE-2327.md), [THEORY-2237](record/theory.d/THEORY-2237.md)): a free series of choices made at once raises patient choice and forcing the link lowers it, bundling but not self-prediction. Ge et al. 2024 ([NOTE-2331](record/notes.d/NOTE-2331.md), [THEORY-2241](record/theory.d/THEORY-2241.md)): faster Stroop and Go/No-go responses with discounting unchanged; [ARG-206](record/arguments.d/ARG-206.md) (Rejected) holds that it does not show [CLAIM-156](record/claims.d/CLAIM-156.md)'s route. No study testing discounting as a mediator was found.
+- **Two works registered unread, Unavailable:** Kirby and Guastello 2001 ([LIT-3115](record/literature.d/LIT-3115.md)) and Hofmeyr, Ainslie, Charlton and Ross 2011 ([LIT-3116](record/literature.d/LIT-3116.md)).
+
+### Changed
+
+- **[LIT-916](record/literature.d/LIT-916.md) (Ge et al.) read:** Unavailable to Active, from the publisher's open-access PDF, with a new history version, status note and summary; [LIT-916](record/literature.d/LIT-916.md) dropped from six `inactive-ok-file` excuses it no longer needs.
+- **Dated notes** on [THEORY-067](record/theory.d/THEORY-067.md), [CLAIM-169](record/claims.d/CLAIM-169.md), [CLAIM-156](record/claims.d/CLAIM-156.md), [CLAIM-162](record/claims.d/CLAIM-162.md), [CLAIM-159](record/claims.d/CLAIM-159.md), [CLAIM-198](record/claims.d/CLAIM-198.md), [QUESTION-034](record/questions.d/QUESTION-034.md) and [LEAD-078](record/leads.d/LEAD-078.md). No status, title or warrant changed.
+
+### Added
+
+- **[LEAD-080](record/leads.d/LEAD-080.md) run.** [CASE-315](record/cases.d/CASE-315.md), an executed study (scratch/studies/lead-080/): A's readiness simulator from [QUESTION-394](record/questions.d/QUESTION-394.md), a heavy rescue squad under a budget set to the last month's peak spending and under two carry-over rules, 300 runs of ten years per configuration. [CLAIM-577](record/claims.d/CLAIM-577.md)'s prediction holds: the squad is lost for good under spend-matching and kept under full carry-over. [CLAIM-878](record/claims.d/CLAIM-878.md), a corollary of [CLAIM-577](record/claims.d/CLAIM-577.md): under spend-matching a capability stays funded exactly as long as every period mobilizes it, cancelled dispatches and drills included, so provisional dispatch keeps it far longer than dispatch on confirmation.
+
+### Changed
+
+- **Dated notes** on [LEAD-080](record/leads.d/LEAD-080.md), [CLAIM-577](record/claims.d/CLAIM-577.md), [QUESTION-394](record/questions.d/QUESTION-394.md), [QUESTION-386](record/questions.d/QUESTION-386.md) and [CASE-200](record/cases.d/CASE-200.md) (whose recursion reaches 1.3 over several periods when ρ − α > 0.5, and rations a capability used every period).
+
+### Added
+
+- [CASE-317](record/cases.d/CASE-317.md) (Proposed, executed-study), the run [LEAD-081](record/leads.d/LEAD-081.md) asks for:
+  [CASE-099](record/cases.d/CASE-099.md)'s loop built with three declared demands, an exact
+  feasible-update oracle and an allocation oracle. Only the conferral rule
+  varies, with search and information fixed. Frustration of satisfiable
+  demands is 0.95 of steps under scoring by agreement and 0.05 under
+  scoring by each demand's residual. The best fixed weighting in hindsight
+  does as well as the second rule. Code, tests and results are under
+  scratch/studies/lead-081/.
+- [CLAIM-880](record/claims.d/CLAIM-880.md) (Proposed, empirical). In that model, frustration follows
+  the allocation of influence with search and information fixed, but the
+  captured allocation acts as a fixed weighting rule. It gives two readings
+  of what this means for [CLAIM-500](record/claims.d/CLAIM-500.md), for the owner to choose between.
+
+### Changed
+
+- Dated notes on [LEAD-081](record/leads.d/LEAD-081.md), [CASE-099](record/cases.d/CASE-099.md), [CLAIM-500](record/claims.d/CLAIM-500.md), [CLAIM-357](record/claims.d/CLAIM-357.md) and [QUESTION-124](record/questions.d/QUESTION-124.md)
+  saying what the run does for each.
+
+### Added
+
+- [CASE-357](record/cases.d/CASE-357.md): the suppressed-against-removed study of [CASE-275](record/cases.d/CASE-275.md) run at toy scale ([LEAD-082](record/leads.d/LEAD-082.md)): a numpy network with a benign trigger-conditioned relabelling, fine-tuned out seven ways; expression goes to zero while gate-only retraining and one fitted vector recover the map on symbols never retrained, unlike sampling, full retraining or a never-trained control. Files two readings (masked; removed at the deployer's budget) as alternatives. Code and results under scratch/studies/lead-082/.
+- [CLAIM-936](record/claims.d/CLAIM-936.md): in that setting, whether the behaviour was suppressed or removed is settled only relative to a declared elicitation family and budget (Proposed, thesis, empirical).
+
+### Changed
+
+- Dated note of 2026-11-22 on [LEAD-082](record/leads.d/LEAD-082.md): what was run and what remains.
+
+### Added
+
+- [CASE-334](record/cases.d/CASE-334.md): [LEAD-083](record/leads.d/LEAD-083.md)'s study, compensation, entrainment and the block test measured in a φ⁴ lattice kink and a uniformly coupled Kuramoto locked cluster, beside a two-block control (code and tests in scratch/studies/lead-083/).
+- [CLAIM-904](record/claims.d/CLAIM-904.md): compensation under a sustained load does not need a block; in both modes the other members undo nearly all of a load's damage while the block test on members does not single the form out.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-083](record/leads.d/LEAD-083.md) (what was run and what remains), [QUESTION-218](record/questions.d/QUESTION-218.md) (the independent marks measured), [CLAIM-157](record/claims.d/CLAIM-157.md) (two closed modes that compensate and that member groupings miss) and [QUESTION-219](record/questions.d/QUESTION-219.md) (no flux arm was run). No status or title changes.
+
+### Added
+
+- [CLAIM-925](record/claims.d/CLAIM-925.md): in a stable linear Gaussian VAR(1) with a noiselessly observed linear coarse variable of any dimension, the Kalman filter of the eliminated variables is an exact Markovian augmentation with at most n − m coordinates; keeping p lags costs an excess error bounded by L A_clᵖ(Π − P∞)A_clᵖᵀLᵀ; the rate is the filter's closed loop, bounded by the eliminated dynamics with one eliminated variable and not in general; the augmentation leaves the transfer entropy from X unchanged (Proposed, thesis, demonstrated; [LEAD-084](record/leads.d/LEAD-084.md)).
+- [CASE-349](record/cases.d/CASE-349.md): the numerical study for it, from exact covariances, with the nilpotent counterexample and [QUESTION-222](record/questions.d/QUESTION-222.md)'s own example. Code under scratch/studies/lead-084/.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-084](record/leads.d/LEAD-084.md) (what was done and what remains) and [QUESTION-222](record/questions.d/QUESTION-222.md).
+
+### Added
+
+- [TERM-149](record/terms.d/TERM-149.md) and [TERM-148](record/terms.d/TERM-148.md): rival readings, stated in advance for [LEAD-087](record/leads.d/LEAD-087.md), of what distinguishes a population's shared perspective from correlated responses and socially learned norms: structural concordance, cross-member dependence both ways, and either evidential answerability or restoration.
+- [CASE-362](record/cases.d/CASE-362.md): an executed study ([LEAD-087](record/leads.d/LEAD-087.md)) of [CASE-145](record/cases.d/CASE-145.md)'s populations, five interaction arms crossed with a collective vote; no population shares a perspective by the criterion as stated, and the vote alone gives collective agency. Code, tests and results are in `scratch/studies/lead-087/`.
+- [CLAIM-946](record/claims.d/CLAIM-946.md): restoration does not tell evaluation from conformity on answers, so the restorative reading fails A4's test (empirical).
+- [CLAIM-945](record/claims.d/CLAIM-945.md): members who interact only through answers about a shared world move one another's interpretations little, so a dependence condition measured by the others' displacement finds no shared perspective; the coupling shows in the deviants' recovery and the others' selectivity (empirical).
+
+### Changed
+
+- Dated notes of 2026-11-22 were added to [CASE-145](record/cases.d/CASE-145.md), [CLAIM-418](record/claims.d/CLAIM-418.md), [QUESTION-260](record/questions.d/QUESTION-260.md) and [LEAD-087](record/leads.d/LEAD-087.md). [LEAD-087](record/leads.d/LEAD-087.md) gains `operationalized_in` [CASE-362](record/cases.d/CASE-362.md). No status or stage changed.
+
+### Added
+
+- **[LEAD-089](record/leads.d/LEAD-089.md) carried out** ([CASE-325](record/cases.d/CASE-325.md), an executed study): Northstar modelled with control and metacontrol mechanisms alone and with a will-organization over them, the difference priced as [CLAIM-174](record/claims.d/CLAIM-174.md)'s test 4 prices it. Three regimes, the case's three variants of authority crossed, attitudes fixed; trained on the baseline and single changes, tested on the four combinations never seen; five control-only models that see the arrangement as an input; four worlds, four sizes, twenty seeds. Where the case is as stipulated the will-organization wins by 10 to 71 nats beyond its Occam cost and alone predicts the unseen combinations, a gap unlimited data does not close; it loses where authority is idle or idiosyncratic; and training evidence alone passes a wrongly composed relation. Code, tests and results under scratch/studies/lead-089/.
+- **[CLAIM-889](record/claims.d/CLAIM-889.md)**: the result as a demonstrated thesis about the model.
+- **[CLAIM-890](record/claims.d/CLAIM-890.md)**: planning, control and institutional theory set beside the account, from held readings. Control theory's regulation and executive control give the models that miss, so against them the variables are implemented, not replaced; planning theory with the plan fixed gives no difference; institutional theory's rules-in-use write the same relations, so for an organization the difference is one an existing theory gives, and what is left of [CLAIM-487](record/claims.d/CLAIM-487.md) is the cross-realizer gain.
+
+### Changed
+
+- Dated notes on [LEAD-089](record/leads.d/LEAD-089.md), [QUESTION-056](record/questions.d/QUESTION-056.md), [CLAIM-024](record/claims.d/CLAIM-024.md), [CLAIM-487](record/claims.d/CLAIM-487.md) and [CLAIM-174](record/claims.d/CLAIM-174.md).
+
+### Added
+
+- [CASE-363](record/cases.d/CASE-363.md) (Proposed, executed-study), the build [LEAD-090](record/leads.d/LEAD-090.md) asks for:
+  [CASE-092](record/cases.d/CASE-092.md)'s model as an agent-level simulation, reduced to its mean field,
+  linearized at symmetry and compared with fixed-weight, reflected-appraisal
+  and bounded-confidence models. Code, tests and results are under
+  scratch/studies/lead-090/.
+- [CLAIM-947](record/claims.d/CLAIM-947.md) (Proposed, demonstrated). In the built model the symmetric
+  state is unstable exactly when gσ² > 2(1 − φ(1 − ε)); the conferral memory
+  and the meaning rate set the speed of capture, not whether or where.
+- [CLAIM-948](record/claims.d/CLAIM-948.md) (Proposed, demonstrated). The reduced model is exactly
+  weighted averaging with two stubborn sources and weights adapting toward
+  an agreement kernel (smooth bounded confidence on a balanced corpus), and
+  it produces authority chosen by the initial interpretation and switched by
+  the evidence with hysteresis, which fixed-weight, reflected-appraisal and
+  Gaussian bounded-confidence models cannot. It sets out two readings for
+  [QUESTION-117](record/questions.d/QUESTION-117.md), for the owner.
+
+### Changed
+
+- Dated notes on [LEAD-090](record/leads.d/LEAD-090.md), [LEAD-015](record/leads.d/LEAD-015.md), [QUESTION-117](record/questions.d/QUESTION-117.md) and [CASE-092](record/cases.d/CASE-092.md) saying what
+  the build does for each.
+
+### Added
+
+- [CASE-365](record/cases.d/CASE-365.md): an executed study of a kinetic construction in which nuclei form fast only on a teacher and, once formed, make teachers ([LEAD-093](record/leads.d/LEAD-093.md)). The loop closes below a teacher turnover set by the teaching rate; withdrawal of the outside teacher becomes safe at a separatrix crossing; material is always needed; repair without production never closes; in finite numbers closure is a lifetime growing with size. Code, tests and results under scratch/studies/lead-093/.
+- [CLAIM-953](record/claims.d/CLAIM-953.md): the moment a nucleus's loop closes is a threshold in the joint state, not a level of nuclei or of the self-made share (Proposed, thesis, demonstrated).
+- [CLAIM-952](record/claims.d/CLAIM-952.md): repair without production divides the outside supply needed by 1 + ρN/λ and never frees the constraint from it (Proposed, thesis, demonstrated).
+- [CLAIM-951](record/claims.d/CLAIM-951.md): a loop that falls short of closing can need more outside supply than no loop, where it draws on the material formation uses (Proposed, thesis, demonstrated).
+- [CLAIM-957](record/claims.d/CLAIM-957.md): students become teachers and replace every outside teacher; closure turns on the aggregate teaching gain, and populations matched in students separate on withdrawal by the share that can teach (Proposed, thesis, demonstrated).
+- [CLAIM-956](record/claims.d/CLAIM-956.md) and [CLAIM-958](record/claims.d/CLAIM-958.md): two alternative readings of the loop, organizational closure by [TERM-070](record/terms.d/TERM-070.md)'s definition (thesis) and autocatalysis rather than the closure [QUESTION-399](record/questions.d/QUESTION-399.md) distinguishes (counter), for the owner to choose (Proposed, interpretive).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-093](record/leads.d/LEAD-093.md) (what was done and what remains), [QUESTION-399](record/questions.d/QUESTION-399.md), [QUESTION-361](record/questions.d/QUESTION-361.md) and [CASE-190](record/cases.d/CASE-190.md).
+
+<!-- inactive-ok-file: ARG-220 CLAIM-157 CLAIM-327 CLAIM-478 CLAIM-626 CLAIM-1058 CLAIM-1088 CLAIM-1145 LIT-1638 LIT-1642 LIT-2254 LIT-2255 NOTE-2373 NOTE-2399 NOTE-2402 NOTE-2408 THEORY-2276 THEORY-2279 THEORY-2288 THEORY-2291 THEORY-2292 THEORY-2295 THEORY-2298 THEORY-2300 THEORY-2301 — Proposed, Skimmed, Unavailable or Unfetched; the entries this contribution filed or recorded -->
+
+### Added
+
+- The reading of Ott and Antonsen 2008 ([NOTE-2385](record/notes.d/NOTE-2385.md), [THEORY-2295](record/theory.d/THEORY-2295.md)) as
+  the candidate defeater (a) of [CLAIM-478](record/claims.d/CLAIM-478.md) named in [LEAD-094](record/leads.d/LEAD-094.md), with their 2009
+  sequel registered and read as a supplement ([LIT-3163](record/literature.d/LIT-3163.md), [NOTE-2378](record/notes.d/NOTE-2378.md),
+  [THEORY-2276](record/theory.d/THEORY-2276.md)): an exact closure on an invariant manifold, attracting
+  the order parameter whenever frequencies are spread, with no rate
+  condition.
+- A demonstrated claim ([CLAIM-1145](record/claims.d/CLAIM-1145.md)): the Ott–Antonsen family is
+  invariant only under first-harmonic coupling; a second harmonic breaks it
+  except at full locking. Script, result and pytest in
+  `scratch/studies/lead-094/`.
+- The verdict as two alternatives: [CLAIM-1058](record/claims.d/CLAIM-1058.md) (leaned to; the
+  reduction does not meet defeater (a)) and [CLAIM-1088](record/claims.d/CLAIM-1088.md) (it meets (a)
+  within its class and would narrow [CLAIM-478](record/claims.d/CLAIM-478.md)), with [ARG-220](record/arguments.d/ARG-220.md) setting
+  out the inference.
+- Readings of the rest of the batch: Caprioglio and Berthouze
+  ([NOTE-2372](record/notes.d/NOTE-2372.md), [THEORY-2291](record/theory.d/THEORY-2291.md), corroborating [CLAIM-478](record/claims.d/CLAIM-478.md), [CLAIM-157](record/claims.d/CLAIM-157.md) and
+  [CLAIM-1058](record/claims.d/CLAIM-1058.md)), Augustsson and colleagues ([NOTE-2374](record/notes.d/NOTE-2374.md),
+  [THEORY-2300](record/theory.d/THEORY-2300.md)), Schmietendorf ([NOTE-2394](record/notes.d/NOTE-2394.md), [THEORY-2292](record/theory.d/THEORY-2292.md)), and,
+  skimmed, Kaur, Jain and Berman ([NOTE-2399](record/notes.d/NOTE-2399.md), [THEORY-2301](record/theory.d/THEORY-2301.md)), Lee and
+  colleagues ([NOTE-2408](record/notes.d/NOTE-2408.md), [THEORY-2298](record/theory.d/THEORY-2298.md)), Müller ([NOTE-2402](record/notes.d/NOTE-2402.md),
+  [THEORY-2288](record/theory.d/THEORY-2288.md)) and Hancock and colleagues ([NOTE-2373](record/notes.d/NOTE-2373.md),
+  [THEORY-2279](record/theory.d/THEORY-2279.md)).
+- A curation entry for the batch, and a progress file at
+  `scratch/studies/lead-094/PROGRESS.md`.
+
+### Changed
+
+- [LIT-2248](record/literature.d/LIT-2248.md), [LIT-2241](record/literature.d/LIT-2241.md), [LIT-2244](record/literature.d/LIT-2244.md), [LIT-2231](record/literature.d/LIT-2231.md), [LIT-2257](record/literature.d/LIT-2257.md), [LIT-2268](record/literature.d/LIT-2268.md), [LIT-2252](record/literature.d/LIT-2252.md) and
+  [LIT-2266](record/literature.d/LIT-2266.md) go from Deferred to Active, read or skimmed, with new history
+  versions and summaries rewritten from the readings.
+- [LIT-2254](record/literature.d/LIT-2254.md) (Yadav and colleagues) and [LIT-2255](record/literature.d/LIT-2255.md) (Haken 1975) go from
+  Deferred to Unavailable: no open location found. [LIT-1638](record/literature.d/LIT-1638.md) (Fenichel) and
+  [LIT-1642](record/literature.d/LIT-1642.md) (Knobloch) stay Unfetched; the publisher copies refused again on
+  2026-11-22, recorded in new history versions.
+- Dated notes on [LEAD-094](record/leads.d/LEAD-094.md), [CLAIM-478](record/claims.d/CLAIM-478.md), [CLAIM-157](record/claims.d/CLAIM-157.md), [CLAIM-172](record/claims.d/CLAIM-172.md), [CLAIM-327](record/claims.d/CLAIM-327.md),
+  [CLAIM-331](record/claims.d/CLAIM-331.md), [CLAIM-388](record/claims.d/CLAIM-388.md), [CLAIM-394](record/claims.d/CLAIM-394.md), [CLAIM-405](record/claims.d/CLAIM-405.md), [CLAIM-481](record/claims.d/CLAIM-481.md), [CLAIM-526](record/claims.d/CLAIM-526.md),
+  [CLAIM-626](record/claims.d/CLAIM-626.md), [QUESTION-218](record/questions.d/QUESTION-218.md), [QUESTION-252](record/questions.d/QUESTION-252.md), [QUESTION-281](record/questions.d/QUESTION-281.md) and [QUESTION-391](record/questions.d/QUESTION-391.md). No
+  status, title or stage changed.
+- The excuses for the eight works now Active were removed from [LEAD-094](record/leads.d/LEAD-094.md)
+  and from the curation entry of 2026-11-07 (015133), where they would
+  otherwise go unused.
+
+### Added
+
+- **[LEAD-095](record/leads.d/LEAD-095.md) carried out** ([CASE-308](record/cases.d/CASE-308.md), an executed study): a small assembly chain whose scaffold forms and holds a nucleus, withdrawn at chosen states, with exact committors by linear solve. A's D(s) falls below 0.05 a quarter of the way through only where bound units stabilize the nucleus; withdrawal at a clock time shows D falling to zero in every mechanism, which is A's rival; the nucleus's state and rate effects, switched separately, are told apart only by Δk. Code, tests and outputs under scratch/studies/lead-095/.
+- **[CLAIM-865](record/claims.d/CLAIM-865.md)**: D(s) is the expected integral, along the supported path, of the support's rate changes times the unsupported committor's differences; for a held nucleus, fragility times worth, so independence before completion needs what is built to hold the nucleus or make it unneeded.
+- Dated notes on [QUESTION-398](record/questions.d/QUESTION-398.md), [QUESTION-397](record/questions.d/QUESTION-397.md) and [LEAD-095](record/leads.d/LEAD-095.md).
+
+### Added
+
+- **[LEAD-097](record/leads.d/LEAD-097.md) argued.** The wrong of reproducing the projections that make an organization's harm non-legible, stated apart from the harm: [CLAIM-1155](record/claims.d/CLAIM-1155.md) (thesis; where those affected have standing to contest the harm, the defeat of that standing, directed at the conditions of their claims' uptake, needing no intending actor), [ARG-228](record/arguments.d/ARG-228.md) (a matched-outcome construction with actual and expected harm matched, concluding it and [CLAIM-614](record/claims.d/CLAIM-614.md)), and [CLAIM-1184](record/claims.d/CLAIM-1184.md) (the instrumentalist objection, which objects to both). The gaslighting review [LIT-2532](record/literature.d/LIT-2532.md) was not read; both open copies served Cloudflare challenges.
+
+### Changed
+
+- **Dated notes** on [CLAIM-614](record/claims.d/CLAIM-614.md) (with a proposed Reframing, not applied), [CLAIM-624](record/claims.d/CLAIM-624.md), [QUESTION-441](record/questions.d/QUESTION-441.md), [LIT-2532](record/literature.d/LIT-2532.md) and [LEAD-097](record/leads.d/LEAD-097.md).
+
+### Added
+
+- **[CASE-179](record/cases.d/CASE-179.md)'s design run for the first time** ([LEAD-098](record/leads.d/LEAD-098.md); [CASE-333](record/cases.d/CASE-333.md), an executed study): eight simulated oscillators with phase-offset maps, in the design's regimes, with A12's three arms, three kinds of revision, [QUESTION-063](record/questions.d/QUESTION-063.md)'s displacement and perturbation, a holonomy sweep with plastic maps and a random-sheaf count. Under a shared drive, uncoupled and coupled networks lock and glue alike; displacing one member's drive moves the others by 0.2 per cent without coupling and 30 to 58 per cent with it. Scripts, tests and results under scratch/studies/lead-098/.
+- **[CLAIM-903](record/claims.d/CLAIM-903.md)** (Proposed, thesis, demonstrated): passive tests of timing and gluing cannot tell a shared drive from coupling, the interventions can, and revision by consistency alone gives coherence without prediction.
+
+### Changed
+
+- Dated notes on [CASE-179](record/cases.d/CASE-179.md), [QUESTION-063](record/questions.d/QUESTION-063.md), [QUESTION-035](record/questions.d/QUESTION-035.md), [QUESTION-319](record/questions.d/QUESTION-319.md), [QUESTION-282](record/questions.d/QUESTION-282.md), [QUESTION-283](record/questions.d/QUESTION-283.md), [CLAIM-474](record/claims.d/CLAIM-474.md), [CLAIM-471](record/claims.d/CLAIM-471.md), [CLAIM-616](record/claims.d/CLAIM-616.md) and [LEAD-098](record/leads.d/LEAD-098.md), reporting the run. No status changes.
+
+### Added
+
+- **[LEAD-099](record/leads.d/LEAD-099.md) run.** [CASE-392](record/cases.d/CASE-392.md), an executed study (scratch/studies/lead-099/): fourteen public statements on how the league's reported count, the Washington Nationals club and its supporters count the 2005 Nationals, coded by rules written before reading. No statement counts the Nationals the original Washington Senators continued; the franchise is counted through the Montreal Expos, and the club and supporters claim the Senators as Washington's baseball, honoured beside the Homestead Grays.
+- [CLAIM-1047](record/claims.d/CLAIM-1047.md) (Proposed, thesis, empirical): that verdict.
+- Two alternative readings of its bearing on [CLAIM-329](record/claims.d/CLAIM-329.md)'s defeater, for the owner: [CLAIM-1129](record/claims.d/CLAIM-1129.md) (Proposed, thesis, interpretive; the run's lean: the defeater is not met) and [CLAIM-1206](record/claims.d/CLAIM-1206.md) (Proposed, counter, interpretive; the city's club counted one tradition across three organizations with no transmission between them).
+- Seven sources registered and read, each a LIT (Active) with a NOTE and no THEORY, being dated documents coded as data: [LIT-3184](record/literature.d/LIT-3184.md) (NBC Sports Washington, 2020, the club president's words of 2004), [LIT-3160](record/literature.d/LIT-3160.md) (Wikipedia, the club's Ring of Honor and retired numbers), [LIT-3192](record/literature.d/LIT-3192.md) (the Hall of Fame's team page), [LIT-3158](record/literature.d/LIT-3158.md) (Baseball-Reference's franchise page), [LIT-3190](record/literature.d/LIT-3190.md) (the AP's 2019 game story), [LIT-3152](record/literature.d/LIT-3152.md) (a fan-board thread of 2004), [LIT-3156](record/literature.d/LIT-3156.md) (a supporter-writer, 2023).
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-099](record/leads.d/LEAD-099.md), [CLAIM-329](record/claims.d/CLAIM-329.md), [QUESTION-118](record/questions.d/QUESTION-118.md), [CASE-105](record/cases.d/CASE-105.md) and [CLAIM-328](record/claims.d/CLAIM-328.md), reporting the run. No status or stage changed.
+
+### Added
+
+- [TERM-150](record/terms.d/TERM-150.md): the receiver-restricted informativeness order, comparing experiments by the best risk a stated class of decision rules attains, over every bounded loss and full-support prior ([LEAD-100](record/leads.d/LEAD-100.md)).
+- [CLAIM-944](record/claims.d/CLAIM-944.md): six results for that order proved without Blackwell's garbling theorem: a preorder; decided by inclusion of achievable sets and prior-free; a garbling never hurts a receiver exactly when the receiver can apply it itself (a monoid); Blackwell's ceiling; no garbling converse, with a strict reversal; Blackwell's order, converse included, for receivers reading through one code (demonstrated).
+- [CASE-361](record/cases.d/CASE-361.md): an executed study checking those results by exact computation on small finite experiments. Code, tests and results are in `scratch/studies/lead-100/`.
+
+### Changed
+
+- Dated notes of 2026-11-22 were added to [LEAD-100](record/leads.d/LEAD-100.md), [ARG-019](record/arguments.d/ARG-019.md) (two readings of whether the order settles it, for the owner), [CLAIM-199](record/claims.d/CLAIM-199.md), [CLAIM-225](record/claims.d/CLAIM-225.md) and [CLAIM-050](record/claims.d/CLAIM-050.md). No status or stage changed.
+
+### Added
+
+- [CASE-405](record/cases.d/CASE-405.md), an executed study for [LEAD-101](record/leads.d/LEAD-101.md): corporate sanctions that ended, coded from open sources, under rules written before coding, for whether the firm kept weighing others' harms after; one quantitative study and three firm cases (Purdue Pharma, Siemens, Wells Fargo), with data, a summary script and tests under scratch/studies/lead-101/. No case meets the lead's standard.
+- [THEORY-2304](record/theory.d/THEORY-2304.md), Gallo, Lynch and Tomy's account of corporate monitors under deferred and non-prosecution agreements: fewer penalised violations only while the monitor is on site.
+- [CLAIM-1136](record/claims.d/CLAIM-1136.md) (a monitor's effect does not outlast it), [CLAIM-1169](record/claims.d/CLAIM-1169.md) (the sanction-versus-redesign test separates remorse from prudence only in the redesigned arm, with reputation and benefit fixed), and two alternative readings of the board-change result, [CLAIM-1178](record/claims.d/CLAIM-1178.md) and [CLAIM-1113](record/claims.d/CLAIM-1113.md) (leaned to).
+- [ARG-225](record/arguments.d/ARG-225.md), the monitor study as evidence for [CLAIM-432](record/claims.d/CLAIM-432.md), Proposed with the run's lean to Rejected.
+- Six sources registered and read, each a LIT with a NOTE: the monitor study ([LIT-3157](record/literature.d/LIT-3157.md)), Purdue's 2007 corporate integrity agreement ([LIT-3182](record/literature.d/LIT-3182.md)), Indiana's complaint against the Sacklers ([LIT-3193](record/literature.d/LIT-3193.md)), the Norwegian Council on Ethics on Siemens ([LIT-3150](record/literature.d/LIT-3150.md)), 100Reporters on Siemens ([LIT-3185](record/literature.d/LIT-3185.md)), and the Federal Reserve's lift of Wells Fargo's growth restriction ([LIT-3181](record/literature.d/LIT-3181.md)).
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-101](record/leads.d/LEAD-101.md), [CLAIM-431](record/claims.d/CLAIM-431.md), [CLAIM-432](record/claims.d/CLAIM-432.md), [CLAIM-039](record/claims.d/CLAIM-039.md), [QUESTION-265](record/questions.d/QUESTION-265.md) and [CASE-151](record/cases.d/CASE-151.md). No status or stage changed.
+
+### Added
+
+- [CLAIM-964](record/claims.d/CLAIM-964.md): a pragmatic rendering experiment's operational
+  equivalences (equal probe predictabilities in the four sign patterns, plus
+  one mixture equivalence among renderings) imply the generalized-
+  noncontextuality inequality |⟨X⟩| + |⟨Z⟩| ≤ 1, a preparation-contextuality
+  test separate from and invisible to the sheaf criterion. Carries out
+  [LEAD-103](record/leads.d/LEAD-103.md); bears on [QUESTION-067](record/questions.d/QUESTION-067.md) and [QUESTION-001](record/questions.d/QUESTION-001.md); complements [CLAIM-037](record/claims.d/CLAIM-037.md).
+- [CASE-370](record/cases.d/CASE-370.md): the executed study behind it (numpy/scipy) — the
+  noncontextual bound returned exactly on all four diamond faces by linear
+  program, corroborated for non-deterministic responses, the qubit orbit
+  violating it up to √2, and the mixture equivalence shown load-bearing.
+
+### Changed
+
+- [QUESTION-067](record/questions.d/QUESTION-067.md): dated note of 2026-11-22 recording that [LEAD-103](record/leads.d/LEAD-103.md) delivered
+  the first route of its "What would answer it" (the equivalences and the
+  inequality), with the realizability half left open.
+- [LEAD-103](record/leads.d/LEAD-103.md): dated note of 2026-11-22 on the work done and what remains.
+
+### Added
+
+- [CASE-364](record/cases.d/CASE-364.md) (executed study): a numpy model of the competence-restriction
+  loop — [CLAIM-605](record/claims.d/CLAIM-605.md)'s capacity dynamics with reinstatement made a threshold on
+  capacity — demonstrating the self-perpetuating trap, a recoverability
+  deadline, and the practice-vs-training escape, carrying out [LEAD-104](record/leads.d/LEAD-104.md).
+- [CLAIM-950](record/claims.d/CLAIM-950.md) (finding, warrant demonstrated): the competence-restriction
+  loop is demonstrable; it corroborates [CLAIM-721](record/claims.d/CLAIM-721.md).
+
+### Changed
+
+- Notes of 2026-11-22 on [CLAIM-721](record/claims.d/CLAIM-721.md) (the model it named is written), [CLAIM-605](record/claims.d/CLAIM-605.md)
+  (its restriction variant) and [LEAD-104](record/leads.d/LEAD-104.md) (carried out). No status changes.
+
+### Added
+
+- [CASE-404](record/cases.d/CASE-404.md) (executed-study, documented, Proposed), carrying out
+  [LEAD-105](record/leads.d/LEAD-105.md): the crossed intervention of [CASE-113](record/cases.d/CASE-113.md) on a width-32 two-layer
+  ReLU network trained by heavy ball or Adam on two tasks, twelve seeds:
+  four probe optimizers at matched pace and carried optimizer state,
+  against five learned-state disruptions. Code, tests and results under
+  scratch/studies/lead-105/.
+- [CLAIM-1030](record/claims.d/CLAIM-1030.md) (Proposed, thesis, empirical): both arms move the
+  network's response to a conflicting demand, by shares that depend on the
+  training optimizer.
+- [CLAIM-1138](record/claims.d/CLAIM-1138.md) (Proposed, thesis, interpretive) and [CLAIM-1199](record/claims.d/CLAIM-1199.md)
+  (Proposed, counter, interpretive), alternative readings of the run: it
+  corroborates [CLAIM-367](record/claims.d/CLAIM-367.md) (the assistant's lean), or it tells against
+  [CLAIM-367](record/claims.d/CLAIM-367.md)'s "most".
+- [CLAIM-1011](record/claims.d/CLAIM-1011.md) (Proposed, thesis, demonstrated): a function-preserving
+  rescaling of hidden units is exactly a change of the optimizer's
+  per-coordinate step sizes, so it does not separate the crossed design's
+  arms.
+
+### Changed
+
+- Dated notes of 2026-11-23 on [CLAIM-367](record/claims.d/CLAIM-367.md) (version 6) and [LEAD-105](record/leads.d/LEAD-105.md);
+  [LEAD-105](record/leads.d/LEAD-105.md) gains `operationalized_in: CASE-404`. No status, title or
+  stage changed.
+
+<!-- inactive-ok-file: LIT-3174 LIT-3179 NOTE-2406 NOTE-2382 THEORY-2277 THEORY-2284 CLAIM-1076 CLAIM-1069 ARG-224 THEORY-1179 — new or Proposed; the entries this contribution filed, and the wide reading it does not promote -->
+<!-- inactive-ok-file: LIT-3149 LIT-3178 LIT-3171 LIT-3168 LIT-3180 LIT-3167 LIT-3146 — Deferred; registered by this contribution, not read -->
+
+### Added
+
+- [LEAD-106](record/leads.d/LEAD-106.md)'s search for studies of context sampling after cued trauma
+  recall in PTSD, and for exposure-matched intervention contrasts: no
+  study meets the design of [QUESTION-303](record/questions.d/QUESTION-303.md), in either half.
+- The nearest study, read: Zidda and colleagues 2025 ([LIT-3174](record/literature.d/LIT-3174.md),
+  [NOTE-2406](record/notes.d/NOTE-2406.md), [THEORY-2277](record/theory.d/THEORY-2277.md)), a later first look at the neutral
+  background of a trauma cue in PTSD than in trauma-exposed controls.
+- A scoping review of eye tracking in PTSD, read as a check on the
+  absence: Diotaiuti and colleagues 2026 ([LIT-3179](record/literature.d/LIT-3179.md), [NOTE-2382](record/notes.d/NOTE-2382.md),
+  [THEORY-2284](record/theory.d/THEORY-2284.md)).
+- Seven works registered Deferred, each with what it lacks: [LIT-3149](record/literature.d/LIT-3149.md),
+  [LIT-3178](record/literature.d/LIT-3178.md), [LIT-3171](record/literature.d/LIT-3171.md), [LIT-3168](record/literature.d/LIT-3168.md), [LIT-3180](record/literature.d/LIT-3180.md), [LIT-3167](record/literature.d/LIT-3167.md),
+  [LIT-3146](record/literature.d/LIT-3146.md).
+- The verdict as two alternatives, [CLAIM-1076](record/claims.d/CLAIM-1076.md) (leaned to) and
+  [CLAIM-1069](record/claims.d/CLAIM-1069.md), with [ARG-224](record/arguments.d/ARG-224.md).
+- A curation entry, a proposed study offered to the owner and not filed,
+  and a progress file at `scratch/studies/lead-106/PROGRESS.md`.
+
+### Changed
+
+- Dated notes on [LEAD-106](record/leads.d/LEAD-106.md), [QUESTION-303](record/questions.d/QUESTION-303.md), [QUESTION-045](record/questions.d/QUESTION-045.md), [THEORY-285](record/theory.d/THEORY-285.md),
+  [THEORY-1179](record/theory.d/THEORY-1179.md) (its promote_when not met) and [THEORY-912](record/theory.d/THEORY-912.md). No status or
+  stage changed.
+
+### Added
+
+- [CASE-393](record/cases.d/CASE-393.md) (Proposed, executed-study, documented), the study [LEAD-107](record/leads.d/LEAD-107.md)
+  asks for. It codes by rule every restatement event that 48 reconstructions
+  of exchanges report, 265 under the revised rules. 76 were re-derived as
+  new, 1 was retrieved by citation, and coded content was re-derived in 20
+  reconstructions. Too few quotations pair a restatement with its original
+  to measure distance. Codebook, script, tests, results and a self-audit
+  are in scratch/studies/lead-107/.
+- [CLAIM-1056](record/claims.d/CLAIM-1056.md) (Proposed, thesis, empirical). The reconstructions report
+  a restatement almost only when it fails, so they cannot run [CLAIM-180](record/claims.d/CLAIM-180.md)'s
+  or [CLAIM-182](record/claims.d/CLAIM-182.md)'s test.
+- Two alternative readings of the same counts. Both are Proposed and
+  empirical, and the owner chooses between them:
+  - [CLAIM-1068](record/claims.d/CLAIM-1068.md) (counter), which objects to [CLAIM-180](record/claims.d/CLAIM-180.md)'s clause that a
+    code bypasses retrieval by content;
+  - [CLAIM-1023](record/claims.d/CLAIM-1023.md) (granted), which reads the counts as failures to
+    discover the code. The lead worker leans to this one.
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-107](record/leads.d/LEAD-107.md) (run, and what remains), [CLAIM-180](record/claims.d/CLAIM-180.md),
+  [CLAIM-182](record/claims.d/CLAIM-182.md) and [CLAIM-191](record/claims.d/CLAIM-191.md). No status or stage changes.
+
+### Added
+
+- [CASE-326](record/cases.d/CASE-326.md): one cost model for stored work, written as code with tests and run on the cockpit's speed bugs, a filed argument and a LEGO bin ([LEAD-108](record/leads.d/LEAD-108.md)); every case priced with the same terms, illustrative values tagged. Code and results under scratch/studies/lead-108/.
+- [CLAIM-891](record/claims.d/CLAIM-891.md): the one model prices all three once work is priced by the moment it is done and checked against each demand's budget; what carries each case differs; [QUESTION-095](record/questions.d/QUESTION-095.md)'s four strategies become its regimes; three choices that decide a filing's sign are set out as the owner's (Proposed, thesis, interpretive).
+- [CLAIM-892](record/claims.d/CLAIM-892.md): erosion of a replaced skill costs, per demand, its price times the chance of falling back on it plus the share checking repeats (Proposed, thesis, demonstrated).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-108](record/leads.d/LEAD-108.md) (what was done and what remains), [QUESTION-095](record/questions.d/QUESTION-095.md), [QUESTION-114](record/questions.d/QUESTION-114.md), [CLAIM-303](record/claims.d/CLAIM-303.md) and [CLAIM-761](record/claims.d/CLAIM-761.md).
+
+### Added
+
+- [CASE-369](record/cases.d/CASE-369.md) (executed-study): a numpy enumeration for [LEAD-109](record/leads.d/LEAD-109.md) showing
+  the self-consistent factorizations of a fixed coupling matrix are
+  single-linkage dendrogram cuts, hence a nested chain — no crosscutting
+  ties in 12000 random families, no tie forced by exact symmetry, grain the
+  only multiplicity. Study under `scratch/studies/lead-109/`.
+- [CLAIM-963](record/claims.d/CLAIM-963.md) (thesis, demonstrated, Proposed): at a fixed level and
+  target the self-consistent factorizations into agents form a nested
+  hierarchy about a unique finest partition; crosscutting disagreement is
+  impossible, so [CLAIM-170](record/claims.d/CLAIM-170.md)'s defeater is not met in the strong sense and
+  only the grain is left open — with three ways to treat that filed as the
+  owner's call.
+- [TERM-156](record/terms.d/TERM-156.md): the crosscutting-versus-nested distinction the finding
+  turns on.
+
+### Changed
+
+- [LEAD-109](record/leads.d/LEAD-109.md): a dated note recording what was done and what remains.
+
+### Added
+
+- **[CLAIM-960](record/claims.d/CLAIM-960.md)** (Proposed, thesis, interpretive): for a whole that is a bare relational arrangement ([TERM-074](record/terms.d/TERM-074.md) sense 1), being a constituent adds no obligation beyond those grounded in the constituent's vulnerability, interests, rights and exposure to power; the part-whole relation only locates where an obligation applies, and because the arrangement is not an agent ([CLAIM-418](record/claims.d/CLAIM-418.md)) the obligation falls on the agents or roles that maintain, control or benefit from it. [CASE-256](record/cases.d/CASE-256.md) worked through to its second result for the ground and its third for the bearer, for [LEAD-110](record/leads.d/LEAD-110.md). The assistant's lean.
+- **[ARG-207](record/arguments.d/ARG-207.md)** (Proposed, contrast): the matched member/non-member pair of [CASE-256](record/cases.d/CASE-256.md), with a sense-1 arrangement's not being an agent, shows the ground is not constitution and the bearer is the controlling agents; the load-bearing support for [CLAIM-960](record/claims.d/CLAIM-960.md).
+- **[CLAIM-959](record/claims.d/CLAIM-959.md)** (Proposed, supposed, interpretive): the alternative reading, filed as an alternative. For a normatively thick membership ([TERM-074](record/terms.d/TERM-074.md) sense 3, or a cooperative scheme) the case yields its first result, a genuine whole-part ground, conditional on an associative-obligation principle the record has not adopted, with the whole as bearer where it can owe.
+
+### Changed
+
+- Dated note on [LEAD-110](record/leads.d/LEAD-110.md) recording the two alternative readings filed and what remains the owner's. No status or stage change.
+
+### Added
+
+- [CASE-368](record/cases.d/CASE-368.md), a construction (stipulated): the operational cover as the
+  determinacy sub-cover of a measurement scenario, with a numpy/pytest study
+  (`scratch/studies/lead-111/`, ten tests passing) checking presheaf
+  functoriality, the down-closed induced sub-cover, model-level selection, and
+  threshold-dependence / non-injectivity.
+- [TERM-155](record/terms.d/TERM-155.md) (Proposed), "determinacy cover": the name for [CLAIM-201](record/claims.d/CLAIM-201.md)'s
+  operational notion, so an entry can say which sense of "cover" it uses.
+- [CLAIM-961](record/claims.d/CLAIM-961.md) and [CLAIM-962](record/claims.d/CLAIM-962.md) (both Proposed), the two alternative
+  readings [LEAD-111](record/leads.d/LEAD-111.md) leaves to the owner — the operational cover as a model-level
+  determinacy functional (corroborating [CLAIM-251](record/claims.d/CLAIM-251.md)) versus as a genuine
+  domain-level sub-site (objecting to [CLAIM-251](record/claims.d/CLAIM-251.md), corroborating [CLAIM-201](record/claims.d/CLAIM-201.md)).
+
+### Changed
+
+- [LEAD-111](record/leads.d/LEAD-111.md) takes a dated note of 2026-11-22 recording that both horns were met
+  and what the owner still decides; its status and stage are unchanged.
+
+### Added
+
+- **[LEAD-112](record/leads.d/LEAD-112.md) carried out in part: a search for cases where access and experience come apart, by kind of evidence.** Europe PMC and arXiv queries logged in scratch/studies/lead-112/search.md (OpenAlex refused with a rate limit). Ten works registered, Deferred: Pinto et al. 2017 ([LIT-3091](record/literature.d/LIT-3091.md)), Kapoor et al. 2022 ([LIT-3094](record/literature.d/LIT-3094.md)), Dwarakanath et al. 2023 ([LIT-3090](record/literature.d/LIT-3090.md)), Brascamp, Blake and Knapen 2015 ([LIT-3089](record/literature.d/LIT-3089.md)), Canales-Johnson et al. 2023 ([LIT-3092](record/literature.d/LIT-3092.md)), Phillips 2021 ([LIT-3097](record/literature.d/LIT-3097.md)), Persaud et al. 2011 ([LIT-3095](record/literature.d/LIT-3095.md)), Lau and Passingham 2006 ([LIT-3088](record/literature.d/LIT-3088.md)), Bayne et al. 2024 ([LIT-3096](record/literature.d/LIT-3096.md)) and Overgaard et al. 2008 ([LIT-3093](record/literature.d/LIT-3093.md)).
+- **Three readings.** Brascamp, Blake and Knapen 2015 ([NOTE-2317](record/notes.d/NOTE-2317.md), [THEORY-2227](record/theory.d/THEORY-2227.md)): unnoticed rivalry switches leave fronto-parietal switch BOLD in proportion to reportability. Kapoor et al. 2022 ([NOTE-2318](record/notes.d/NOTE-2318.md), [THEORY-2228](record/theory.d/THEORY-2228.md)): prefrontal units carry the percept in rivalry without report, with switches noticed. de Haan et al. 2020 ([LIT-3102](record/literature.d/LIT-3102.md), [NOTE-2319](record/notes.d/NOTE-2319.md), [THEORY-2229](record/theory.d/THEORY-2229.md)), registered and read as the stand-in for Pinto et al. 2017: after callosotomy access divides by field and operation, and the subject's unity is undecided.
+- **[ARG-202](record/arguments.d/ARG-202.md)**: the split-brain findings support [CLAIM-003](record/claims.d/CLAIM-003.md)'s access half, in a disconnected brain and on the one-agent reading, and not its experiential half.
+
+### Changed
+
+- [LIT-3089](record/literature.d/LIT-3089.md) and [LIT-3094](record/literature.d/LIT-3094.md) Deferred to Active on reading; [LIT-3091](record/literature.d/LIT-3091.md) Deferred to Unfetched (the publisher's free PDF behind a Cloudflare challenge).
+- Dated notes of 2026-11-22 on [QUESTION-048](record/questions.d/QUESTION-048.md), [QUESTION-061](record/questions.d/QUESTION-061.md), [CLAIM-003](record/claims.d/CLAIM-003.md), [CLAIM-039](record/claims.d/CLAIM-039.md), [THEORY-091](record/theory.d/THEORY-091.md), [THEORY-094](record/theory.d/THEORY-094.md) and [LEAD-112](record/leads.d/LEAD-112.md). No status, title or warrant of a held entry changed.
+
+### Added
+
+- [CASE-378](record/cases.d/CASE-378.md), an executed study for [LEAD-114](record/leads.d/LEAD-114.md): small numpy networks trained
+  on S3 and S4 composition with elements as one-hot indices (no matrix
+  representation imposed), with the irreducibles recovered blind from each
+  network's own computed operation against a group-supplied control.
+- [CLAIM-972](record/claims.d/CLAIM-972.md): a non-abelian group learned this way yields its irreducibles
+  to blind recovery, exactly, when the network has learned the group, and the
+  group-supplied control shows the gate is the network's competence, not the
+  method's; an offered answer to [QUESTION-058](record/questions.d/QUESTION-058.md).
+- [CLAIM-973](record/claims.d/CLAIM-973.md): the learned embedding carries the irreducibles as a
+  group-Fourier power spectrum concentrated on the faithful ones (trivial
+  component near zero, sign smallest), the dominant faithful irreducible
+  seed-dependent.
+
+### Changed
+
+- [QUESTION-058](record/questions.d/QUESTION-058.md) and [LEAD-114](record/leads.d/LEAD-114.md) take dated notes of 2026-11-22 recording the study
+  and its findings. No status or stage changed.
+
+### Added
+
+- **[LEAD-116](record/leads.d/LEAD-116.md) carried out** ([CASE-374](record/cases.d/CASE-374.md), an executed study): a stochastic assembly Markov chain with two alternative seams nucleating a shared body into two valid folds, an incompatible-seam trap and an unnucleated collapse, extending [CASE-216](record/cases.d/CASE-216.md)'s annealing toy and realising [CASE-219](record/cases.d/CASE-219.md) and [CASE-220](record/cases.d/CASE-220.md). Intermediates scored by exact committor. Each seam alone raises the chance of completing from 0.19 to 0.81, both seams together lower it to 0.04; the committor ranks a one-bond nucleus above the four-bond misfolded state; targeted stabilisation of one seam is productive and of both a trap; reallocating a fixed stock between the seams slides the realised form from one fold to the other with the attainable set unchanged. Code, tests and outputs under scratch/studies/lead-116/.
+- **[CLAIM-969](record/claims.d/CLAIM-969.md)** (Proposed, thesis, demonstrated): in a stochastic assembly process modelled as a Markov chain, the committor measures an intermediate's future and need not rise with its assembled extent, so scoring by committor can rank a small nucleus above a more assembled trap and exhibit two separately productive nuclei combining into a trap — separations a count of formed bonds cannot register. Grounds in [CASE-374](record/cases.d/CASE-374.md); corroborates [CLAIM-567](record/claims.d/CLAIM-567.md) and [CLAIM-599](record/claims.d/CLAIM-599.md).
+- Dated notes on [CASE-219](record/cases.d/CASE-219.md), [CASE-220](record/cases.d/CASE-220.md) and [LEAD-116](record/leads.d/LEAD-116.md).
+
+### Added
+
+- `scratch/studies/lead-118/`: the Europe PMC REST lookup of the 48 Unfetched works [LEAD-118](record/leads.d/LEAD-118.md) lists, with its table. None has open full text by that route; 12 hold a PMCID outside the open-access subset and the full-text route answers HTTP 500.
+
+### Changed
+
+- Dated notes on [LEAD-118](record/leads.d/LEAD-118.md) and on the 14 LITs the route refused or for which it indexes a preprint version ([LIT-180](record/literature.d/LIT-180.md), [LIT-1158](record/literature.d/LIT-1158.md), [LIT-1557](record/literature.d/LIT-1557.md), [LIT-1565](record/literature.d/LIT-1565.md), [LIT-1572](record/literature.d/LIT-1572.md), [LIT-1573](record/literature.d/LIT-1573.md), [LIT-1586](record/literature.d/LIT-1586.md), [LIT-1602](record/literature.d/LIT-1602.md), [LIT-1611](record/literature.d/LIT-1611.md), [LIT-1612](record/literature.d/LIT-1612.md), [LIT-1715](record/literature.d/LIT-1715.md), [LIT-2176](record/literature.d/LIT-2176.md), [LIT-2462](record/literature.d/LIT-2462.md), [LIT-2812](record/literature.d/LIT-2812.md)). No status changed.
+
+### Added
+
+- [CASE-335](record/cases.d/CASE-335.md): a pilot of [CASE-293](record/cases.d/CASE-293.md) for [LEAD-119](record/leads.d/LEAD-119.md), which coded 30 public postmortems (a random draw from Dan Luu's list) and the 10 most recent CSB investigations by the organizational level their causes and action items reach. Causes above the team: 2 of 30 against 7 of 10. Action items above it: 4 of 30 against 9 of 10. One coder, of the same model family as the claim tested. Codebook, sample log, coded items and scripts are under scratch/studies/lead-119/.
+- [CLAIM-905](record/claims.d/CLAIM-905.md): the pilot's finding, the direction [CLAIM-750](record/claims.d/CLAIM-750.md) predicts, with domain, severity and publication not yet separated from who reviews (Proposed, thesis, empirical).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-119](record/leads.d/LEAD-119.md) (what was done and what remains), [CLAIM-750](record/claims.d/CLAIM-750.md), [CASE-293](record/cases.d/CASE-293.md), [QUESTION-476](record/questions.d/QUESTION-476.md), [CLAIM-751](record/claims.d/CLAIM-751.md) and [CLAIM-719](record/claims.d/CLAIM-719.md).
+
+### Added
+
+- **[LEAD-121](record/leads.d/LEAD-121.md) argued.** [TERM-147](record/terms.d/TERM-147.md) separates two senses of independent scoring: of the interpretation, and of the loop's state, which also excludes share-dependent advantage. [CASE-312](record/cases.d/CASE-312.md), a construction checked by script (scratch/studies/lead-121/), is a loop on which they differ. Two readings of [CLAIM-342](record/claims.d/CLAIM-342.md) filed as alternatives: [CLAIM-873](record/claims.d/CLAIM-873.md) (the second sense; the claim stands) and [CLAIM-874](record/claims.d/CLAIM-874.md) (the first sense; the claim meets its first defeater and must be narrowed).
+
+### Changed
+
+- **Dated notes** on [CLAIM-342](record/claims.d/CLAIM-342.md) and [LEAD-121](record/leads.d/LEAD-121.md).
+
+### Added
+
+- [CASE-372](record/cases.d/CASE-372.md) (executed-study, documented), a census of filing dispositions in the workbench reconstructions, bearing on [QUESTION-072](record/questions.d/QUESTION-072.md) and run for [LEAD-122](record/leads.d/LEAD-122.md). Over the 47 of 135 entries that label their moves, owner-attributed moves are filed at a higher rate than the assistant's, and notes far above fresh claims and terms; the count makes the asymmetry visible but cannot hold content fixed. Script, test, result and README under `scratch/studies/lead-122/`.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-122](record/leads.d/LEAD-122.md) (carried out, what remains) and [CLAIM-177](record/claims.d/CLAIM-177.md) (the aggregate counterpart to its single observed case of attribution mattering). No status or stage change.
+
+### Added
+
+- [CASE-366](record/cases.d/CASE-366.md): the three-perspective agenda model of [LEAD-123](record/leads.d/LEAD-123.md), built and run in numpy (scratch/studies/lead-123, 9 pytest tests). With a latent Condorcet cycle held fixed, a chair installs any of the three options by leaving one contest off the agenda, a successive agenda elects the option introduced last, and a protected challenge channel raises recorded conflict from 0 to 1/3 as the suppressed contest's admission probability rises from 0 to 1. Executed study, documented, Proposed; illustrates [CLAIM-448](record/claims.d/CLAIM-448.md), variant_of [CASE-221](record/cases.d/CASE-221.md), bears on [QUESTION-269](record/questions.d/QUESTION-269.md). The assistant's wording.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-123](record/leads.d/LEAD-123.md), [CLAIM-448](record/claims.d/CLAIM-448.md), [CLAIM-451](record/claims.d/CLAIM-451.md) and [CLAIM-440](record/claims.d/CLAIM-440.md) recording the model and what it shows for each.
+
+### Added
+
+- [LIT-3080](record/literature.d/LIT-3080.md), the OSF project holding the coded data and R script of Tatel & Ackerman (2025), registered as a supplement to the unfetched article [LIT-2088](record/literature.d/LIT-2088.md), and read in [NOTE-2301](record/notes.d/NOTE-2301.md) ([LEAD-124](record/leads.d/LEAD-124.md)).
+- [CASE-314](record/cases.d/CASE-314.md), an executed study: the article's posted data refitted by task type with the authors' specification. It reproduces the abstract's slopes and finds accuracy declining by 0.16 SD a month on laboratory tasks against 0.04 on medical and dental tasks, with every type declining faster over short intervals. Materials are in scratch/studies/lead-124/.
+- [THEORY-2211](record/theory.d/THEORY-2211.md) (Proposed): Tatel's task-type moderator. Laboratory tasks lose accuracy about three times faster than real-world tasks, and real-world domains differ little.
+- [ARG-201](record/arguments.d/ARG-201.md) (Proposed): the task-type split qualifies [CLAIM-558](record/claims.d/CLAIM-558.md)'s disuse premise and does not defeat it.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LIT-2088](record/literature.d/LIT-2088.md) (copies sought again: Europe PMC holds no full text, and APA's DOI answered with a WAF challenge, so the article stays Unfetched), [LIT-2079](record/literature.d/LIT-2079.md), [THEORY-1424](record/theory.d/THEORY-1424.md), [QUESTION-433](record/questions.d/QUESTION-433.md), [CLAIM-558](record/claims.d/CLAIM-558.md), [CLAIM-422](record/claims.d/CLAIM-422.md) and [LEAD-124](record/leads.d/LEAD-124.md). No status changed.
+
+<!-- inactive-ok-file: LIT-1925 LIT-1931 LIT-1933 LIT-1938 — Unfetched; a second search for copies of LEAD-126's works -->
+
+### Changed
+
+- **[LEAD-126](record/leads.d/LEAD-126.md)'s works sought again, none reached** (2026-11-22). Krickel ([LIT-1925](record/literature.d/LIT-1925.md)), Craver, Glennan and Povich ([LIT-1931](record/literature.d/LIT-1931.md)), Harinen ([LIT-1938](record/literature.d/LIT-1938.md)) and Romero ([LIT-1933](record/literature.d/LIT-1933.md)) stay Unfetched: their only free copies are on PhilArchive, which answers with a Cloudflare challenge, and PhilSci-Archive, which answers with a firewall rejection; neither was pursued, and OpenAlex and the authors' pages list no other lawful copy. Each LIT and [LEAD-126](record/leads.d/LEAD-126.md) carries a dated note with the addresses and obstacles; the lead now waits on the owner for every work.
+
+### Added
+
+- **[LEAD-128](record/leads.d/LEAD-128.md) carried out.** A fit of the expected-value-of-control model in which control intensity falls with its cost. A search of open literature (Europe PMC, arXiv) found no published fit demonstrating the cost direction as its model-compared result — the closest open EVC accumulator fits (Leng et al. 2021, PMC8746743; Masís Obando et al. 2025, PMC12595486) show the payoff direction — so the fit was made, as the lead provides for.
+- **An executed study** ([CASE-382](record/cases.d/CASE-382.md)): the EVC effort-cost softmax V(n, r) = r − c(n) fitted to 122 participants' cognitive-effort-discounting choices (OSF vnj8x, CC-BY 4.0). The fitted cost of control rises with task load, the cost term is required (likelihood-ratio χ²(3) = 10.5, p = 0.015; AIC favours it), group-mean subjective value falls monotonically with intensity (0.92 → 0.60), and three-quarters of agents have a positive marginal cost of control (median 0.26 €/level); a need-for-cognition minority seek effort. Scripts, synthetic parameter-recovery and model-comparison tests under scratch/studies/lead-128/.
+- **The finding** ([CLAIM-981](record/claims.d/CLAIM-981.md), Proposed, warrant empirical): the record's first fit of the cost direction, on a revealed-choice measure of intensity; corroborates [CLAIM-358](record/claims.d/CLAIM-358.md) and [CLAIM-162](record/claims.d/CLAIM-162.md), supplying the per-encounter cost of control their grounds presuppose.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-128](record/leads.d/LEAD-128.md), [THEORY-070](record/theory.d/THEORY-070.md), [CLAIM-358](record/claims.d/CLAIM-358.md) and [CLAIM-162](record/claims.d/CLAIM-162.md) recording that a cost-side fit bearing on [THEORY-070](record/theory.d/THEORY-070.md)'s promote_when (1) is now in the record, with the caveat that it uses a revealed-choice rather than an accumulator-parameter measure of intensity. No status, stage or title changed; whether the fit promotes [THEORY-070](record/theory.d/THEORY-070.md) is the owner's call.
+
+### Added
+
+- [CASE-377](record/cases.d/CASE-377.md) (executed-study, documented): a small within-domain matched
+  comparison of public standards bodies with and without a standing
+  living-revision mechanism — WHATWG against the W3C HTML/XHTML track, the W3C
+  before against after its 2019 living-standard adoption, and the Unicode
+  Consortium against the frozen code-page regime, with the Julian calendar as an
+  unmatched extreme. Carries out [LEAD-129](record/leads.d/LEAD-129.md); illustrates [CLAIM-685](record/claims.d/CLAIM-685.md) and bears on
+  [QUESTION-128](record/questions.d/QUESTION-128.md). Illustrative, not powered; data and scripts under
+  scratch/studies/lead-129/.
+
+### Changed
+
+- [LEAD-129](record/leads.d/LEAD-129.md): a dated note recording that the comparison was carried out as
+  [CASE-377](record/cases.d/CASE-377.md), what it found, what remains, and the owner's call it leaves
+  open. Status and stage unchanged.
+
+### Added
+
+- **[LEAD-131](record/leads.d/LEAD-131.md) argued.** Who bears [CLAIM-624](record/claims.d/CLAIM-624.md)'s duty of answerability, and which sense of "organization" it uses, in two readings filed as alternatives: [CLAIM-876](record/claims.d/CLAIM-876.md) (a sense-1 arrangement as the ground of the verdict, the duty on those who control its reproduction; the assistant's lean) and [CLAIM-877](record/claims.d/CLAIM-877.md) (a sense-3 institution that is an agent, the duty its own).
+
+### Changed
+
+- **Dated notes** on [CLAIM-624](record/claims.d/CLAIM-624.md), [CLAIM-673](record/claims.d/CLAIM-673.md), [CLAIM-687](record/claims.d/CLAIM-687.md) and [LEAD-131](record/leads.d/LEAD-131.md).
+
+### Added
+
+- `ARG-210` (Rejected, form source): Grossman and Hart (`THEORY-1985`)
+  and Hart's 2016 lecture (`THEORY-1979`, the read neighbour of the
+  Unfetched Hart and Moore, `LIT-2742`) do not establish `CLAIM-728` as
+  stated — they carry the residual-control definition but locate its
+  effect ex ante, through anticipation, telling against the claim's last
+  clause. The argument the note of 2026-11-17 on `CLAIM-728` asked for
+  ([LEAD-133](record/leads.d/LEAD-133.md)).
+
+### Changed
+
+- `CLAIM-728`: dated note of 2026-11-22 recording the now-filed argument
+  and setting out two owner alternatives for revising its last clause. No
+  status or title change.
+- `LIT-2742`, `LIT-2732`, `LIT-2686`, `LIT-2682`: dated "Search of
+  2026-11-22" notes recording [LEAD-133](record/leads.d/LEAD-133.md)'s route-check; all remain
+  Unfetched (Hart and Moore's new DASH route answered HTTP 429; the two
+  SAGE articles have no repository full text; Robillard has no reachable
+  neighbour). No status change.
+- `LEAD-133`: dated note recording that it was carried out.
+
+### Added
+
+- [CASE-376](record/cases.d/CASE-376.md) (Proposed, executed-study, variant_of [CASE-114](record/cases.d/CASE-114.md)), the build
+  [LEAD-134](record/leads.d/LEAD-134.md) asks for: [CASE-114](record/cases.d/CASE-114.md)'s "imagined owner" in numpy, with an accurate
+  and a centralized self-model matched in parameter count and both
+  reconstructing the aggregate outcome exactly, so the centralized model is
+  wrong-about-control, not merely-coarser. Across 60 configurations it names
+  the wrong component as the cause of an error about four times in five (at
+  chance), spreads blame toward the owner's global command, and governs worse
+  after errors. Code, tests and results are under scratch/studies/lead-134/.
+- [CLAIM-971](record/claims.d/CLAIM-971.md) (Proposed, demonstrated). A centralized self-model matched to
+  an accurate one in parameters and reproducing behaviour exactly can still
+  systematically misattribute control, so matched capacity and equal behaviour
+  do not force the single owner a unified self-model presents to have a
+  truthmaker in the true distribution of control. It corroborates [CLAIM-355](record/claims.d/CLAIM-355.md),
+  answering the case its note of 2026-11-06 says the record lacked, and marks
+  Drayson's universal horn ([THEORY-646](record/theory.d/THEORY-646.md)) false for this model.
+
+### Changed
+
+- Dated notes on [CLAIM-355](record/claims.d/CLAIM-355.md), [CASE-114](record/cases.d/CASE-114.md), [QUESTION-061](record/questions.d/QUESTION-061.md) and [LEAD-134](record/leads.d/LEAD-134.md) recording that
+  [CASE-114](record/cases.d/CASE-114.md)'s test is now built and run, what it shows, and its limits. No
+  status, stage or title changed; promotion and the lead's stage are left for
+  the owner.
+
+### Added
+
+- An executed study ([CASE-373](record/cases.d/CASE-373.md)) running [CASE-202](record/cases.d/CASE-202.md)'s individuation-by-probing
+  component on [CLAIM-583](record/claims.d/CLAIM-583.md)'s two compatibility-equivalent three-bit mechanisms:
+  probed at rising move budgets in numpy, the distinguish-or-not verdict agrees
+  under the static family, parts at a budget of one move and stabilizes there;
+  with a reset-versus-acted-on control and a constructed family whose
+  distinguishing budget is any chosen length. Script, results and 14 pytest
+  tests in `scratch/studies/lead-135/`.
+- A finding ([CLAIM-968](record/claims.d/CLAIM-968.md)): the verdict stabilizes at a finite budget below
+  which the systems are indistinguishable, and a construction realizes any
+  chosen finite stabilization budget, so the budget at which a reachability
+  distinction first appears is a measurable threshold and not fixed.
+  Corroborates [CLAIM-583](record/claims.d/CLAIM-583.md) and [CLAIM-574](record/claims.d/CLAIM-574.md); bears on [QUESTION-382](record/questions.d/QUESTION-382.md).
+
+### Changed
+
+- [LEAD-135](record/leads.d/LEAD-135.md) carries a dated note recording the run and what remains ([CASE-202](record/cases.d/CASE-202.md)'s
+  maintenance and architecture-change readouts, and a destructive-probe
+  control). Status and stage unchanged.
+
+### Added
+
+- [CASE-375](record/cases.d/CASE-375.md): [LEAD-137](record/leads.d/LEAD-137.md)'s study, the informative-across-buffer variable versus the gap-isolated block measured across 960 non-lattice coupled-agent systems (a linear Gaussian VAR(1) on communities laid on a path; code and tests in scratch/studies/lead-137/).
+- [CLAIM-970](record/claims.d/CLAIM-970.md): off a lattice the variable most informative about the far environment across a buffer is generically not the gap-isolated block but a boundary mode, the block being the spread collective mode; they coincide only under a homogeneous boundary or one-way drive. Answers [QUESTION-065](record/questions.d/QUESTION-065.md) the divergence way and bounds [CLAIM-157](record/claims.d/CLAIM-157.md).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-137](record/leads.d/LEAD-137.md) (what was run and what remains), [QUESTION-065](record/questions.d/QUESTION-065.md) (the non-lattice case answered the divergence way) and [CLAIM-157](record/claims.d/CLAIM-157.md) (locality does not hand the block its target off a lattice). No status or title changes.
+
+### Added
+
+- [NOTE-2320](record/notes.d/NOTE-2320.md) and [THEORY-2230](record/theory.d/THEORY-2230.md): Karnkowska et al. 2016 ([LIT-1567](record/literature.d/LIT-1567.md)) read, from an author-institution copy; Monocercomonoides has no hallmark mitochondrial protein and makes Fe–S clusters with a cytosolic SUF system of bacterial origin.
+- [NOTE-2321](record/notes.d/NOTE-2321.md) and [THEORY-2231](record/theory.d/THEORY-2231.md): Łukasik et al. 2018 ([LIT-1586](record/literature.d/LIT-1586.md)) read; Hodgkinia split at least six times in Tettigades.
+- [NOTE-2322](record/notes.d/NOTE-2322.md) and [THEORY-2232](record/theory.d/THEORY-2232.md): Campbell et al. 2017 ([LIT-1602](record/literature.d/LIT-1602.md)) read; every Magicicada holds at least twenty Hodgkinia circles, with idiosyncratic structure and dosage.
+- [NOTE-2323](record/notes.d/NOTE-2323.md) and [THEORY-2233](record/theory.d/THEORY-2233.md): Strand, Coffman and Burke 2026 ([LIT-2395](record/literature.d/LIT-2395.md)) skimmed; bracoviruses as domesticated endogenized viruses (corroborates [CLAIM-661](record/claims.d/CLAIM-661.md)).
+
+### Changed
+
+- Dated notes of 2026-11-22 for [LEAD-138](record/leads.d/LEAD-138.md) on [CASE-168](record/cases.d/CASE-168.md) and [CASE-177](record/cases.d/CASE-177.md) (facts held, refined or unverified), on [CASE-171](record/cases.d/CASE-171.md), [CASE-173](record/cases.d/CASE-173.md) and [CASE-174](record/cases.d/CASE-174.md) (sources not reached), on [CLAIM-661](record/claims.d/CLAIM-661.md), on [LEAD-138](record/leads.d/LEAD-138.md), and on [LIT-1557](record/literature.d/LIT-1557.md), [LIT-1563](record/literature.d/LIT-1563.md), [LIT-1565](record/literature.d/LIT-1565.md), [LIT-1567](record/literature.d/LIT-1567.md), [LIT-1569](record/literature.d/LIT-1569.md), [LIT-1572](record/literature.d/LIT-1572.md), [LIT-1573](record/literature.d/LIT-1573.md), [LIT-1586](record/literature.d/LIT-1586.md), [LIT-1602](record/literature.d/LIT-1602.md), [LIT-1611](record/literature.d/LIT-1611.md), [LIT-1612](record/literature.d/LIT-1612.md), [LIT-1621](record/literature.d/LIT-1621.md), [LIT-2395](record/literature.d/LIT-2395.md) and [LIT-2398](record/literature.d/LIT-2398.md). No status changed.
+
+### Added
+
+- [CASE-348](record/cases.d/CASE-348.md): a reduced simulation of [CASE-255](record/cases.d/CASE-255.md) ([LEAD-140](record/leads.d/LEAD-140.md)) on [CASE-332](record/cases.d/CASE-332.md)'s organization. It runs 6 arms × 12 lineages × 60 generations, a transplant of earlier and later improvers onto the same fresh artifact at equal budget, and undisclosed lesions of the improver's suite. The later improver did better from the same start in every arm that could change it, through its settings and not through a record handed to settings that do not read it. A test of products did not catch improvers shedding their own checks. With the suite's self-test removed, a record-blind improver dropped the artifact's self-check in 10 of 12 lineages and one reading its record in none. Code, tests and results are under scratch/studies/lead-140/.
+- [CLAIM-928](record/claims.d/CLAIM-928.md): in that construction, an improved improver is carried by procedures that consult the record, a test of products does not see an improver shed its checks, and a record of past costs keeps verification when those checks are damaged (Proposed, thesis, demonstrated).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-140](record/leads.d/LEAD-140.md) (what was done and what remains), [CASE-255](record/cases.d/CASE-255.md), [CASE-186](record/cases.d/CASE-186.md), [QUESTION-457](record/questions.d/QUESTION-457.md) and [QUESTION-388](record/questions.d/QUESTION-388.md).
+
+### Added
+
+- [LIT-3135](record/literature.d/LIT-3135.md), [NOTE-2357](record/notes.d/NOTE-2357.md), [THEORY-2264](record/theory.d/THEORY-2264.md): Axelrod, Rees, Lavidor and Bar (2015), frontal tDCS raises reported mind-wandering; read in full for [LEAD-141](record/leads.d/LEAD-141.md).
+- [LIT-3134](record/literature.d/LIT-3134.md), [NOTE-2355](record/notes.d/NOTE-2355.md), [THEORY-2265](record/theory.d/THEORY-2265.md): Axelrod, Zhu and Qiu (2018), the replication that raised mind-wandering without changing meta-awareness.
+- [LIT-3133](record/literature.d/LIT-3133.md), [NOTE-2358](record/notes.d/NOTE-2358.md), [THEORY-2266](record/theory.d/THEORY-2266.md): Boayue et al. (2019/2020), the pre-registered three-lab replication that found no effect.
+- [LIT-3132](record/literature.d/LIT-3132.md), [NOTE-2356](record/notes.d/NOTE-2356.md): Fox and Christoff's letter proposing a meta-awareness reading (supplement).
+- [ARG-215](record/arguments.d/ARG-215.md) (Rejected): the frontal tDCS studies, read as Metzinger's early tests of H1, do not bear on [CLAIM-027](record/claims.d/CLAIM-027.md).
+- Curation entry of 2026-11-22 recording the copies, the search for tests of H1 and H3 (none found) and what was left.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-141](record/leads.d/LEAD-141.md) (what was done and what remains), [ARG-051](record/arguments.d/ARG-051.md), [CLAIM-027](record/claims.d/CLAIM-027.md), [THEORY-1300](record/theory.d/THEORY-1300.md), [THEORY-1296](record/theory.d/THEORY-1296.md) and [QUESTION-367](record/questions.d/QUESTION-367.md).
+
+### Added
+
+- [CASE-379](record/cases.d/CASE-379.md): an executed study ([LEAD-142](record/leads.d/LEAD-142.md)) of the directed decision signature of [QUESTION-052](record/questions.d/QUESTION-052.md). It verifies that the top-d left singular span of the conditional-expectation operator equals the top-d eigenspace of the self-adjoint two-step operator T T* (reversible), reproduces [THEORY-239](record/theory.d/THEORY-239.md)'s non-reversible three-state chain and its worst-case compatible-probe tie, and exhibits a nonlinear readout recovering a stable target outside the linear span and a direction-dependent decision served by no function of the input. Code, tests and results are in `scratch/studies/lead-142/`.
+- [CLAIM-976](record/claims.d/CLAIM-976.md): for decisions that are functions of the input, the directed signature is the eigenspace of the self-adjoint, reversible two-step operator T T*, so directedness adds no obstruction beyond the symmetric case and enters only for decisions about the transport (demonstrated, grounded in [CASE-379](record/cases.d/CASE-379.md) and [THEORY-239](record/theory.d/THEORY-239.md)).
+- [CLAIM-977](record/claims.d/CLAIM-977.md): beyond linear probes no single span is the decision-sufficient signature — a nonlinear readout recovers stable targets outside the span, sufficiency for a stated decision is span-relative, and direction-dependent decisions are served by no left span (demonstrated).
+
+### Changed
+
+- Dated notes of 2026-11-22 were added to [LEAD-142](record/leads.d/LEAD-142.md), [CLAIM-209](record/claims.d/CLAIM-209.md) and [QUESTION-052](record/questions.d/QUESTION-052.md), recording the directed signature as stated and its proof attempted. No status or stage changed.
+
+### Added
+
+- [CASE-337](record/cases.d/CASE-337.md) (executed-study): [LEAD-144](record/leads.d/LEAD-144.md)'s study. [CASE-165](record/cases.d/CASE-165.md)'s finite
+  beta-Bernoulli feature model fitted to a linear organizational simulator
+  with a shared-driver null matched on within-group correlation, beside
+  relational comparators, scored on held-out pulses and cuts. Code, tests
+  and outputs under scratch/studies/lead-144/.
+- [CLAIM-910](record/claims.d/CLAIM-910.md) (Proposed, thesis, empirical): in that family the features
+  do not tell coupling from a shared driver and do not add to the
+  communication graph in predicting interventions; the graph alone invents
+  coupling under the driver, and the features do not remove it.
+
+### Changed
+
+- [CASE-165](record/cases.d/CASE-165.md), [QUESTION-276](record/questions.d/QUESTION-276.md), [LEAD-144](record/leads.d/LEAD-144.md): dated notes of 2026-11-22 on the run.
+  [LEAD-144](record/leads.d/LEAD-144.md)'s `operationalized_in` gains [CASE-337](record/cases.d/CASE-337.md). No status changes.
+
+<!-- inactive-ok-file: THEORY-2261 THEORY-2263 — Proposed accounts filed in this contribution (LEAD-145) -->
+
+### Added
+
+- [LEAD-145](record/leads.d/LEAD-145.md) carried out: two openly posted standard treatments registered
+  and read for the shared observe-and-act budget line. Dual control —
+  [LIT-3129](record/literature.d/LIT-3129.md) (Meijer and Rantzer, 2026), read in
+  [NOTE-2352](record/notes.d/NOTE-2352.md), with account [THEORY-2261](record/theory.d/THEORY-2261.md)
+  (Proposed). Value of information — [LIT-3131](record/literature.d/LIT-3131.md)
+  (Whitmeyer, 2024), read in [NOTE-2354](record/notes.d/NOTE-2354.md), with account
+  [THEORY-2263](record/theory.d/THEORY-2263.md) (Proposed). Both accounts bear on
+  [QUESTION-374](record/questions.d/QUESTION-374.md).
+
+### Changed
+
+- [CLAIM-572](record/claims.d/CLAIM-572.md): dated notes record that the two citations its
+  "What it does not say" flags as unchecked are now checked — Feldbaum
+  (1960/1963) for dual control, Radner and Stiglitz (1984) for the
+  nonconcavity of the value of information — and that the claim's fourth
+  result (marginal reasoning fails under a committed probe order) is the
+  Radner–Stiglitz nonconcavity specialized to a fixed acquisition
+  schedule. No status change.
+- [QUESTION-374](record/questions.d/QUESTION-374.md): a dated note registers the two readings as the
+  literature its shared-budget part leans on. No status change.
+- [LEAD-145](record/leads.d/LEAD-145.md): a dated note on what was done; status and stage
+  left for the owner.
+
+### Added
+
+- A draft preregistration of the discriminating fidelity study ([CASE-055](record/cases.d/CASE-055.md)), in scratch/studies/lead-146/ with a power simulation and its tests ([LEAD-146](record/leads.d/LEAD-146.md)). It specifies:
+  - the strong contextual baseline [CLAIM-205](record/claims.d/CLAIM-205.md) asks for;
+  - named receiver populations and sampling frames ([CLAIM-226](record/claims.d/CLAIM-226.md));
+  - a language pair ([CLAIM-222](record/claims.d/CLAIM-222.md));
+  - the prevalence rates it assumes;
+  - a decision rule.
+
+  It costs three margins. At 0.05 in held-out R², 160 analysed items an arm give power 0.95; 0.02 needs 400 items. At the margin, the defeat rule's false-defeat rate is 9% at the lean, not 5%. Nothing is fixed: seventeen choices are left to the owner, each with alternatives and a lean.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [CASE-055](record/cases.d/CASE-055.md) and [LEAD-146](record/leads.d/LEAD-146.md) summarize the draft. No status, stage or held text changed.
+
+### Added
+
+- [CLAIM-902](record/claims.d/CLAIM-902.md), a derivation for [LEAD-147](record/leads.d/LEAD-147.md). Under multiplicative co-occurrence with any implication order among binary attributes, every attribute is an exact linear readout of the full-rank PMI embedding. On a balanced tree, the PMI eigenvectors are branch contrasts with eigenvalues falling strictly by depth, so a truncated embedding keeps exactly the shallow attributes and merges siblings below the cut.
+- [CASE-344](record/cases.d/CASE-344.md), an executed study for [LEAD-147](record/leads.d/LEAD-147.md) on text8 with WordNet 3.0 and the word2vec analogy set. The PMI is far from additive in every analogy family, but the families and quadruples nearer additivity complete more often. WordNet attributes carry a small, real additive part of the PMI.
+- scratch/studies/lead-147/: the scripts, tests and per-item results.
+
+### Changed
+
+- [QUESTION-025](record/questions.d/QUESTION-025.md), [QUESTION-178](record/questions.d/QUESTION-178.md) and [LEAD-147](record/leads.d/LEAD-147.md): dated notes on what the study and the derivation found.
+
+<!-- inactive-ok-file: THEORY-2267 CLAIM-710 CLAIM-711 CLAIM-715 CLAIM-731 TERM-125 LIT-2660 LIT-2676 LIT-2685 LIT-1609 — Proposed, Unfetched or Deferred; the entries LEAD-152's readings filed or bear on -->
+### Added
+
+- [LIT-3136](record/literature.d/LIT-3136.md): Frischmann and Benesch (2023), "Friction-In-Design
+  Regulation as 21st Century Time, Place, and Manner Restriction",
+  registered and read for [LEAD-152](record/leads.d/LEAD-152.md) in the journal's open PDF, with its
+  NOTE ([NOTE-2359](record/notes.d/NOTE-2359.md), Read) and THEORY ([THEORY-2267](record/theory.d/THEORY-2267.md), Proposed;
+  corroborates [CLAIM-715](record/claims.d/CLAIM-715.md), bears on [QUESTION-471](record/questions.d/QUESTION-471.md)).
+
+### Changed
+
+- Dated notes from that reading on [CLAIM-710](record/claims.d/CLAIM-710.md), [TERM-125](record/terms.d/TERM-125.md), [CLAIM-715](record/claims.d/CLAIM-715.md),
+  [QUESTION-471](record/questions.d/QUESTION-471.md), [CLAIM-731](record/claims.d/CLAIM-731.md), [CLAIM-711](record/claims.d/CLAIM-711.md) and [NOTE-2033](record/notes.d/NOTE-2033.md), and on [LEAD-152](record/leads.d/LEAD-152.md).
+- [LIT-2660](record/literature.d/LIT-2660.md), [LIT-2676](record/literature.d/LIT-2676.md) and [LIT-2685](record/literature.d/LIT-2685.md) sought again on 2026-11-22 and still
+  Unfetched; [LIT-1609](record/literature.d/LIT-1609.md) sought again and still Deferred, with no lawful copy
+  of the whole book. No status changes.
+
+<!-- LEAD-156: search for human designs that separate the germline route
+     of intergenerational trauma, and read the nearest studies. -->
+
+### Added
+
+- Five readings, each with a LIT, a NOTE and a THEORY, for [QUESTION-297](record/questions.d/QUESTION-297.md):
+  - Rice et al. 2010, the IVF "prenatal cross-fostering" design
+    ([LIT-3183](record/literature.d/LIT-3183.md), [NOTE-2409](record/notes.d/NOTE-2409.md), [THEORY-2297](record/theory.d/THEORY-2297.md));
+  - Lewis et al. 2011, parental depression in the same design
+    ([LIT-3165](record/literature.d/LIT-3165.md), [NOTE-2370](record/notes.d/NOTE-2370.md), [THEORY-2280](record/theory.d/THEORY-2280.md));
+  - Mulligan et al. 2025, three generations of Syrian refugees
+    ([LIT-3169](record/literature.d/LIT-3169.md), [NOTE-2417](record/notes.d/NOTE-2417.md), [THEORY-2299](record/theory.d/THEORY-2299.md));
+  - Tuulari et al. 2025, sperm marks of fathers' childhood maltreatment
+    ([LIT-3189](record/literature.d/LIT-3189.md), [NOTE-2413](record/notes.d/NOTE-2413.md), [THEORY-2303](record/theory.d/THEORY-2303.md));
+  - Zhou and Ryan 2023, a scoping review of the human studies
+    ([LIT-3166](record/literature.d/LIT-3166.md), [NOTE-2368](record/notes.d/NOTE-2368.md), [THEORY-2293](record/theory.d/THEORY-2293.md)).
+- [CLAIM-1017](record/claims.d/CLAIM-1017.md), the verdict: each design removes some routes and leaves
+  at least one, and no study combines them. It corroborates [CLAIM-644](record/claims.d/CLAIM-644.md).
+- [CLAIM-1182](record/claims.d/CLAIM-1182.md): a related–unrelated comparison cannot by itself divide
+  a germline mark from the genes it travels with.
+- [CLAIM-1103](record/claims.d/CLAIM-1103.md) and [ARG-229](record/arguments.d/ARG-229.md): the alternative reading of the Syrian
+  study, as a partial separation, which the run leans against.
+- A curation entry for the run, with the copies refused, what was left and
+  why, and a design offered to the owner.
+- `scratch/studies/lead-156/`: the progress file, and a checker for a
+  lead's own files (YAML, title, H1, and a narrow `ref_status` scan).
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-156](record/leads.d/LEAD-156.md), [QUESTION-297](record/questions.d/QUESTION-297.md), [QUESTION-299](record/questions.d/QUESTION-299.md),
+  [QUESTION-301](record/questions.d/QUESTION-301.md) and [CLAIM-644](record/claims.d/CLAIM-644.md).
+- Dated notes on [LIT-1715](record/literature.d/LIT-1715.md) (both documented interfaces retried and
+  refused), [LIT-1692](record/literature.d/LIT-1692.md) (no PMC copy; a second neighbour's account added)
+  and [LIT-1764](record/literature.d/LIT-1764.md) (no PMC copy). All three stay Unfetched.
+
+### Added
+
+- [CASE-385](record/cases.d/CASE-385.md), an executed study for [LEAD-157](record/leads.d/LEAD-157.md). Small numpy MLPs were aligned by permutation (and, at width 5, by an exhaustive full-group search), with barriers measured on the straight line, a trained Bezier curve and a trained polychain. It includes pairs whose shared or different mechanism a cue-reliance test fixes, an exact rescaled copy, and a load-by-temperature analogue of [THEORY-108](record/theory.d/THEORY-108.md)'s grid. Code and results are under scratch/studies/lead-157/.
+- [CLAIM-993](record/claims.d/CLAIM-993.md), the finding. In the toy, the barrier that survives alignment is set by width, by the group quotiented and by the path family, and does not sort pairs by the cue they rely on.
+- [CLAIM-994](record/claims.d/CLAIM-994.md) and [CLAIM-992](record/claims.d/CLAIM-992.md), alternative readings for the owner. Read at the grain of input attributes, [CLAIM-263](record/claims.d/CLAIM-263.md)'s defeater is met. Read at the grain of features, the protocol is narrowed to where a same-mechanism control connects and the probe separates the mechanisms.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-157](record/leads.d/LEAD-157.md), [QUESTION-069](record/questions.d/QUESTION-069.md), [CLAIM-263](record/claims.d/CLAIM-263.md), [CLAIM-187](record/claims.d/CLAIM-187.md) and [THEORY-108](record/theory.d/THEORY-108.md). No status or stage changed.
+
+### Added
+
+- The reading of Leffler's "Constitutivism's plight" ([NOTE-2360](record/notes.d/NOTE-2360.md), [THEORY-2268](record/theory.d/THEORY-2268.md)) for [LEAD-158](record/leads.d/LEAD-158.md), and the adversarial test it asks for: an analogy carrying it to self-maintaining organizations ([ARG-217](record/arguments.d/ARG-217.md)) and three alternative readings of what it does to the record's organizational account ([CLAIM-987](record/claims.d/CLAIM-987.md), [CLAIM-989](record/claims.d/CLAIM-989.md), [CLAIM-988](record/claims.d/CLAIM-988.md)), left for the owner to choose.
+- The reading of Monnier et al.'s "Beyond Base Metric" ([NOTE-2364](record/notes.d/NOTE-2364.md), [THEORY-2272](record/theory.d/THEORY-2272.md)), which corroborates [CLAIM-348](record/claims.d/CLAIM-348.md) and corrects A's statement of [QUESTION-456](record/questions.d/QUESTION-456.md)'s first failure mode.
+- Massimi's primer of Perspectival Realism ([LIT-3139](record/literature.d/LIT-3139.md), [NOTE-2366](record/notes.d/NOTE-2366.md), [THEORY-2274](record/theory.d/THEORY-2274.md)), read as a neighbour of the book.
+
+### Changed
+
+- [LIT-2444](record/literature.d/LIT-2444.md) and [LIT-2451](record/literature.d/LIT-2451.md) move from Unfetched to Active; [LIT-2451](record/literature.d/LIT-2451.md) takes the `anthology-candidate` flag. [LIT-1228](record/literature.d/LIT-1228.md) stays Unfetched, with the new attempts recorded.
+- Dated notes on [QUESTION-128](record/questions.d/QUESTION-128.md), [QUESTION-129](record/questions.d/QUESTION-129.md), [QUESTION-456](record/questions.d/QUESTION-456.md), [CLAIM-363](record/claims.d/CLAIM-363.md), [CLAIM-348](record/claims.d/CLAIM-348.md), [CLAIM-075](record/claims.d/CLAIM-075.md), [THEORY-075](record/theory.d/THEORY-075.md), [LIT-2461](record/literature.d/LIT-2461.md) and [LEAD-158](record/leads.d/LEAD-158.md).
+
+### Added
+
+- [CASE-383](record/cases.d/CASE-383.md) (Proposed, executed-study, variant of [CASE-188](record/cases.d/CASE-188.md)): [CASE-188](record/cases.d/CASE-188.md)'s
+  agents, with imposed protection and inertia added, built as a
+  two-channel choice task and ablated four ways under matched information,
+  carrying out [LEAD-159](record/leads.d/LEAD-159.md). Code, tests and results under
+  scratch/studies/lead-159/.
+- [CLAIM-982](record/claims.d/CLAIM-982.md) (Proposed, thesis, demonstrated): a matched-information
+  ablation tells resolve from mere persistence only by what it removes and
+  only in conjunction; a timescale ablation or a yoked control can read
+  resolve as inertia.
+
+### Changed
+
+- [LEAD-159](record/leads.d/LEAD-159.md), [CASE-188](record/cases.d/CASE-188.md) and [CLAIM-344](record/claims.d/CLAIM-344.md): dated notes of 2026-11-22 on the run.
+
+### Added
+
+- [CASE-384](record/cases.d/CASE-384.md) (executed study, Proposed): [CASE-187](record/cases.d/CASE-187.md) run at toy scale for [LEAD-160](record/leads.d/LEAD-160.md) on twenty 8x8 gridworld mazes, with a planner on a learned transition table, a goal-conditioned value learner and a bank of occupancy-predicting demons matched exactly in goal competence. Code, tests and results are in `scratch/studies/lead-160/`.
+- [CLAIM-991](record/claims.d/CLAIM-991.md) (Proposed, empirical): at matched competence, query answers that can be read out of the agents coincide, while those each agent can give within its own per-decision computation differ by architecture.
+- [CLAIM-990](record/claims.d/CLAIM-990.md) (Proposed, empirical): a targeted intervention discriminates implementations matched in behaviour only relative to its declared scope; a content-level edit lets the distributed predictor respond as the planner does without a transition table.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-160](record/leads.d/LEAD-160.md), [CASE-187](record/cases.d/CASE-187.md), [QUESTION-362](record/questions.d/QUESTION-362.md), [CLAIM-513](record/claims.d/CLAIM-513.md), [CLAIM-514](record/claims.d/CLAIM-514.md) and [CLAIM-519](record/claims.d/CLAIM-519.md) report the run. No status, title, warrant or stage changed.
+
+<!-- inactive-ok-file: CLAIM-983 CLAIM-986 ARG-216 — new; the readings and argument filed for LEAD-163 -->
+<!-- inactive-ok-file: CLAIM-615 CLAIM-611 — Proposed; the claim whose admission slot is filled, and its premise -->
+### Added
+
+- [CLAIM-983](record/claims.d/CLAIM-983.md) and [CLAIM-986](record/claims.d/CLAIM-986.md), two alternative readings that close
+  [CLAIM-615](record/claims.d/CLAIM-615.md)'s admission slot ([LEAD-163](record/leads.d/LEAD-163.md)): a maintainer as a channel, never
+  what is transmitted; or a maintainer's organization as transmitted
+  insofar as the individual does not carry it and a competent unrelated
+  replacement would not supply it. Both Proposed; the owner chooses.
+- [ARG-216](record/arguments.d/ARG-216.md), the step both share, by analogy with [CLAIM-329](record/claims.d/CLAIM-329.md): a
+  maintainer that restores a thing from what it finds in it transmits the
+  thing's organization through it, so a car that changes garages is a
+  continuation.
+
+### Changed
+
+- Dated notes on [CLAIM-615](record/claims.d/CLAIM-615.md), [CLAIM-611](record/claims.d/CLAIM-611.md) and [LEAD-163](record/leads.d/LEAD-163.md) saying what was filed
+  and what remains for the owner. No text or status changed.
+
+### Added
+
+- [LIT-3144](record/literature.d/LIT-3144.md), [NOTE-2371](record/notes.d/NOTE-2371.md) and [THEORY-2281](record/theory.d/THEORY-2281.md): Riedel et al. (2020), satellite clock comparisons across four European laboratories, read in part from arXiv for [LEAD-164](record/leads.d/LEAD-164.md).
+- [CASE-387](record/cases.d/CASE-387.md): remote clock frequency differences estimated over satellite links and checked against a second, independent technique and an optical-fibre comparison, a reported study for [CLAIM-510](record/claims.d/CLAIM-510.md)'s condition.
+
+### Changed
+
+- [CLAIM-510](record/claims.d/CLAIM-510.md): dated note naming three candidate cases ([CASE-390](record/cases.d/CASE-390.md), pending [#740](https://github.com/dmarx/nucleation/issues/740); [CASE-333](record/cases.d/CASE-333.md); [CASE-387](record/cases.d/CASE-387.md)) under three readings of its condition; no status change.
+- [CLAIM-471](record/claims.d/CLAIM-471.md): dated note on the case for the clause version 5 dropped; no status change.
+- [LEAD-164](record/leads.d/LEAD-164.md): dated note saying what was done and what remains; stage unchanged.
+
+### Added
+
+- **[LEAD-167](record/leads.d/LEAD-167.md) carried out** ([CASE-320](record/cases.d/CASE-320.md), an executed study; [CLAIM-884](record/claims.d/CLAIM-884.md)). Bourrat's two individuality measures, Â with C1 and C2 ([LIT-005](record/literature.d/LIT-005.md)) and δC with δC|E ([LIT-049](record/literature.d/LIT-049.md)), were computed exactly on a minimal ecological-scaffolding model. C2's variance falls as the scaffold is endogenised, while δC|E is exactly zero for the patch partition throughout. Each measure passes a counterfeit: the patch with its external scaffold passes C2, and every partition of a common-input population passes δC|E. Scripts, tests and results are under scratch/studies/lead-167/.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [QUESTION-115](record/questions.d/QUESTION-115.md), [QUESTION-118](record/questions.d/QUESTION-118.md), [LEAD-167](record/leads.d/LEAD-167.md), [LIT-005](record/literature.d/LIT-005.md), [LIT-049](record/literature.d/LIT-049.md), [THEORY-607](record/theory.d/THEORY-607.md) and [THEORY-424](record/theory.d/THEORY-424.md), from the computation. No status, title or held text is changed.
+
+### Added
+
+- **[LEAD-168](record/leads.d/LEAD-168.md) carried out** ([CASE-380](record/cases.d/CASE-380.md), an executed study): [QUESTION-278](record/questions.d/QUESTION-278.md)'s executive, reviewer and enforcer in two arrangements differing only in whether the executive's unobserved signal gates the execution of corrective orders. Every probe enumerated under fixed policies, a hold variant against a deadline, and backward induction over a payoff grid at three depths of anticipation. Code, tests and results under scratch/studies/lead-168/.
+- **[CLAIM-978](record/claims.d/CLAIM-978.md)** and **[CLAIM-979](record/claims.d/CLAIM-979.md)**, two alternative readings of the first difference, for the owner to choose between: with fixed policies the arrangements part only on an adverse order the executive withholds, first at execution after identical rulings; with anticipation the difference moves to the ruling and to the executive's act, so "alike in routine" holds only where independent enforcement would not deter the act.
+
+### Changed
+
+- Dated notes on [LEAD-168](record/leads.d/LEAD-168.md), [QUESTION-278](record/questions.d/QUESTION-278.md), [QUESTION-279](record/questions.d/QUESTION-279.md) and [CLAIM-462](record/claims.d/CLAIM-462.md).
+
+### Added
+
+- [CASE-331](record/cases.d/CASE-331.md): the modular-addition checkpoint study of [LEAD-172](record/leads.d/LEAD-172.md), run
+  (executed-study), with its scripts, tests and results under
+  scratch/studies/lead-172/.
+- [CLAIM-900](record/claims.d/CLAIM-900.md): what the study finds about selection-rule coupling as an
+  early forecast of generalization, against a null at equal edge budget.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-172](record/leads.d/LEAD-172.md), [QUESTION-275](record/questions.d/QUESTION-275.md), [QUESTION-217](record/questions.d/QUESTION-217.md),
+  [QUESTION-360](record/questions.d/QUESTION-360.md) and [CLAIM-698](record/claims.d/CLAIM-698.md) saying what the study shows and what it leaves.
+
+### Added
+
+- [CASE-327](record/cases.d/CASE-327.md): the five conditions of [QUESTION-252](record/questions.d/QUESTION-252.md) computed exactly for linear coarse-grainings of linear Gaussian VAR(1) and VAR(2) under one declared regime ([LEAD-173](record/leads.d/LEAD-173.md)); a witness for every configuration three entailments allow, and no forbidden one among 6,000 random sparse models. Code under scratch/studies/lead-173/.
+- [CLAIM-893](record/claims.d/CLAIM-893.md): under that regime the only entailments are D ⇒ M (VAR(1)), P ∧ D ∧ M ⇒ A and, at zero tolerance, A ⇒ P; leaving one out, D and C can fail alone, M only from VAR(2), P only at positive tolerance, A never (Proposed, thesis, demonstrated).
+- [CLAIM-894](record/claims.d/CLAIM-894.md): with the target declared as the coarse variable's own future, P and A are each D ∧ M, the alternative declaration (Proposed, thesis, demonstrated).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-173](record/leads.d/LEAD-173.md) (what was done and what remains) and [QUESTION-252](record/questions.d/QUESTION-252.md).
+
+### Changed
+
+- [LEAD-175](record/leads.d/LEAD-175.md)'s study scripts resume safely. `posterior.py` keeps one atomic checkpoint (block count, configuration, chains, step sizes, generator state) reconciled with its output, and fails when it cannot be. `sgd_sweep.py` counts completion per run, not per job. Both drop a final line torn by an interruption. Tests simulate each interruption. The committed SGD results are complete. The posterior outputs show no sign of a resume, though a stale resume would leave none. Found by a code review the owner forwarded.
+
+<!-- inactive-ok-file: CASE-402 CLAIM-1098 CLAIM-1057 CLAIM-1162 — Proposed; filed by LEAD-175's study -->
+### Added
+
+- [CASE-402](record/cases.d/CASE-402.md): the executed study of [LEAD-175](record/leads.d/LEAD-175.md), an SGD sweep and
+  posterior sampling across n in the toy model of superposition
+  (scratch/studies/lead-175/).
+- [CLAIM-1098](record/claims.d/CLAIM-1098.md): under plain SGD the 5-gon's dropped feature gets an
+  exactly zero gradient from every sample, so it is never revived
+  (demonstrated).
+- [CLAIM-1057](record/claims.d/CLAIM-1057.md): the 6-gon is not reached by SGD at any setting tried;
+  "inaccessible" describes the missing 5 → 6 (empirical).
+- [CLAIM-1162](record/claims.d/CLAIM-1162.md): the sampled posterior does not confirm the formula's
+  critical sizes for the training chain, and Chen et al.'s sampler and
+  formula differ by a factor ½ in n (empirical).
+
+### Changed
+
+- [QUESTION-363](record/questions.d/QUESTION-363.md), [THEORY-1275](record/theory.d/THEORY-1275.md) and [LEAD-175](record/leads.d/LEAD-175.md) gain dated notes of 2026-11-22
+  reporting the study. No status changes.
+
+<!-- inactive-ok-file: THEORY-2270 THEORY-2271 THEORY-2269 THEORY-2273 THEORY-2275 THEORY-418 — Proposed; the readings LEAD-176 filed, and an account it noted -->
+<!-- inactive-ok-file: NOTE-2367 — Skimmed; the partial reading of the Griesemer neighbour -->
+<!-- inactive-ok-file: LIT-1926 LIT-1932 LIT-1937 LIT-1940 — Unavailable or Unfetched; the works LEAD-176 could not read -->
+### Added
+
+- [LEAD-176](record/leads.d/LEAD-176.md), the scaffolding and individuality works. Readings: [NOTE-2361](record/notes.d/NOTE-2361.md) and [THEORY-2270](record/theory.d/THEORY-2270.md) (Bourrat 2022, [LIT-1927](record/literature.d/LIT-1927.md)); [NOTE-2363](record/notes.d/NOTE-2363.md) and [THEORY-2271](record/theory.d/THEORY-2271.md) (Shavit and Sharon 2023, [LIT-1935](record/literature.d/LIT-1935.md)).
+- Neighbours read in place of works with no lawful copy reached ([ADR-114](record/decisions.d/ADR-114.md)): [LIT-3137](record/literature.d/LIT-3137.md), Bourrat, Black, Rainey and colleagues 2024 ([NOTE-2362](record/notes.d/NOTE-2362.md), [THEORY-2269](record/theory.d/THEORY-2269.md)), for [LIT-1940](record/literature.d/LIT-1940.md); [LIT-3138](record/literature.d/LIT-3138.md), Wimsatt and Schank 2004 ([NOTE-2365](record/notes.d/NOTE-2365.md), [THEORY-2273](record/theory.d/THEORY-2273.md)), for [LIT-1926](record/literature.d/LIT-1926.md); [LIT-3140](record/literature.d/LIT-3140.md), the SEP entry "Replication and Reproduction" ([NOTE-2367](record/notes.d/NOTE-2367.md), Skimmed; [THEORY-2275](record/theory.d/THEORY-2275.md)), for [LIT-1932](record/literature.d/LIT-1932.md) and [LIT-1937](record/literature.d/LIT-1937.md).
+
+### Changed
+
+- [LIT-1927](record/literature.d/LIT-1927.md) and [LIT-1935](record/literature.d/LIT-1935.md) Deferred to Active, read. [LIT-1935](record/literature.d/LIT-1935.md)'s status note no longer calls it CC BY: the PMC copy says "All rights reserved".
+- [LIT-1940](record/literature.d/LIT-1940.md) Deferred to Unfetched (bioRxiv 429, PhilArchive Cloudflare challenge, MPG PuRe 403); [LIT-1926](record/literature.d/LIT-1926.md), [LIT-1932](record/literature.d/LIT-1932.md) and [LIT-1937](record/literature.d/LIT-1937.md) Deferred to Unavailable, each naming its stand-in. [LIT-1932](record/literature.d/LIT-1932.md)'s status note names a text-mining cache whose standing under [ADR-074](record/decisions.d/ADR-074.md) is left to the owner.
+- Dated notes of 2026-11-22 on [CLAIM-194](record/claims.d/CLAIM-194.md), [CLAIM-529](record/claims.d/CLAIM-529.md), [CLAIM-531](record/claims.d/CLAIM-531.md), [CLAIM-522](record/claims.d/CLAIM-522.md), [CLAIM-184](record/claims.d/CLAIM-184.md), [CLAIM-185](record/claims.d/CLAIM-185.md), [QUESTION-398](record/questions.d/QUESTION-398.md), [QUESTION-284](record/questions.d/QUESTION-284.md), [QUESTION-093](record/questions.d/QUESTION-093.md), [QUESTION-277](record/questions.d/QUESTION-277.md), [THEORY-418](record/theory.d/THEORY-418.md) and [LEAD-176](record/leads.d/LEAD-176.md). New `corroborates` edges to [CLAIM-529](record/claims.d/CLAIM-529.md) ([THEORY-2270](record/theory.d/THEORY-2270.md), [THEORY-2269](record/theory.d/THEORY-2269.md)) and [CLAIM-531](record/claims.d/CLAIM-531.md) ([THEORY-2273](record/theory.d/THEORY-2273.md)). No status changes on held claims or questions.
+- Excuses naming [LIT-1927](record/literature.d/LIT-1927.md) or [LIT-1935](record/literature.d/LIT-1935.md), now Active, removed from [LEAD-176](record/leads.d/LEAD-176.md), [NOTE-1628](record/notes.d/NOTE-1628.md), [CLAIM-529](record/claims.d/CLAIM-529.md), [CLAIM-531](record/claims.d/CLAIM-531.md), [LIT-2001](record/literature.d/LIT-2001.md) and [LIT-2003](record/literature.d/LIT-2003.md).
+
+### Added
+
+- [CASE-421](record/cases.d/CASE-421.md): [LEAD-177](record/leads.d/LEAD-177.md)'s ladder and [CASE-239](record/cases.d/CASE-239.md)'s forager, simulated. Four alarm-world rungs on one sensor channel (fail-safe relay, tester, four-probe diagnoser, a diagnoser that revises its test schedule from its record of real fires) come apart behaviour by behaviour; the forager, over 40 seeds and two learning rules, needs to revise which features count only where the warning sign is a feature it never attended to, and loses its gains when its energy account is replaced by a matched score. Code, tests and results under scratch/studies/lead-177/.
+- [CASE-390](record/cases.d/CASE-390.md): a sensor network whose drifting correspondences are revised by disagreement, against a protected anchor, against a writable anchor, or against an anchor it may refuse; only the protected, unrefusable anchor restores accuracy.
+- [CLAIM-1149](record/claims.d/CLAIM-1149.md): in the forager, criterion revision is needed for, and pays only on, a change whose warning sign is new to it (Proposed, thesis, demonstrated).
+- [CLAIM-1141](record/claims.d/CLAIM-1141.md) and [CLAIM-1110](record/claims.d/CLAIM-1110.md): two alternative readings, for the owner, of what the target-replacement control shows against [CASE-239](record/cases.d/CASE-239.md)'s second defeater (Proposed; counter and thesis, interpretive).
+- [CLAIM-1183](record/claims.d/CLAIM-1183.md): in the network, revision improves prediction on positions it did not choose only when it answers to beacons it can neither rewrite nor refuse (Proposed, thesis, demonstrated; corroborates [CLAIM-342](record/claims.d/CLAIM-342.md)).
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-177](record/leads.d/LEAD-177.md) (what was done and what remains), [CASE-239](record/cases.d/CASE-239.md), [QUESTION-285](record/questions.d/QUESTION-285.md), [QUESTION-128](record/questions.d/QUESTION-128.md) and [CLAIM-648](record/claims.d/CLAIM-648.md).
+
+### Added
+
+- [CLAIM-980](record/claims.d/CLAIM-980.md): in a stable linear Gaussian VAR(1) the dynamical dependence of a linear aggregate lies between two explicit log-determinant bounds; for a nearly decomposable system a block's sum has dependence of exact order ε² when the block has equal column sums, with a constant growing as the slow gap closes, and a floor that neither ε → 0 nor a wider fast gap removes when it does not (Proposed, thesis, demonstrated; [LEAD-178](record/leads.d/LEAD-178.md)).
+- [CASE-381](record/cases.d/CASE-381.md): the numerical study for it, from exact covariances, 600 items. Code under scratch/studies/lead-178/.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-178](record/leads.d/LEAD-178.md) (what was done and what remains), [QUESTION-221](record/questions.d/QUESTION-221.md) and [CLAIM-390](record/claims.d/CLAIM-390.md).
+
+### Added
+
+- [CASE-415](record/cases.d/CASE-415.md): a simulation of [CASE-108](record/cases.d/CASE-108.md) ([LEAD-180](record/leads.d/LEAD-180.md)) in a small federated learner: unrestricted, reliability-weighted (by agreement, by validation), role-limited and adaptive aggregation and an oracle, over cooperative, honestly dissenting and adversarial specialists, with an overt attack and one that mimics dissent, 0 to 3 of 7 evaluators compromised, a central evaluator, and an honest or compromised monitor; 30 seeds a cell. Code, tests and results are under scratch/studies/lead-180/.
+- [CLAIM-1194](record/claims.d/CLAIM-1194.md): with no evidence on a block of tasks independent of the proposals, a rule that treats members alike cannot tell dissent from an attack that pushes the same block as hard; attack success in a world and its relabelling sums to 1 (Proposed, thesis, demonstrated).
+- [CLAIM-1007](record/claims.d/CLAIM-1007.md): with honest evaluators, audit by evaluators who hold their own evidence and judge only where they hold it lowered attack success to about 0 and raised the minority's capability from 0.27 to 0.92; reputation by agreement was captured (Proposed, thesis, empirical).
+- [CLAIM-1077](record/claims.d/CLAIM-1077.md): role-limited audit tolerates compromised evaluators task by task, against the honest holders of evidence on each; two of seven let the mimic attack through on the minority's tasks (Proposed, thesis, empirical).
+- [CLAIM-1091](record/claims.d/CLAIM-1091.md) and [CLAIM-1018](record/claims.d/CLAIM-1018.md): two alternative readings of the adaptive arm under compromised evaluators, as moving the trade-off (the assistant's lean) or as relocating it onto the honest majority and the monitor (Proposed; thesis and supposed; empirical).
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-180](record/leads.d/LEAD-180.md) (what was done and what remains), [CASE-108](record/cases.d/CASE-108.md), [QUESTION-090](record/questions.d/QUESTION-090.md), [QUESTION-087](record/questions.d/QUESTION-087.md), [QUESTION-089](record/questions.d/QUESTION-089.md), [CLAIM-359](record/claims.d/CLAIM-359.md) and [CLAIM-342](record/claims.d/CLAIM-342.md).
+
+### Added
+
+- **[LEAD-181](record/leads.d/LEAD-181.md) carried out** ([CASE-396](record/cases.d/CASE-396.md), an executed study): [CASE-249](record/cases.d/CASE-249.md)'s institution, with 30 fixed requirements of which 20 are found only by inquiry, an internal and an independent evaluator, run under five governance regimes in four settings, by Monte Carlo optimum and by 16 gradient-bandit learners. Under a penalty on every recognized violation with discovery unrewarded, it makes no inquiry in any setting while its internal count ends near 0. Code, tests and results under scratch/studies/lead-181/.
+- **[CLAIM-1064](record/claims.d/CLAIM-1064.md)**: in that institution, with nothing surfacing from outside, inquiry never raises the score on any path, so an institution acting on it makes none (demonstrated).
+- **[CLAIM-1120](record/claims.d/CLAIM-1120.md)** and **[CLAIM-997](record/claims.d/CLAIM-997.md)**, two alternative readings of the lead's test, for the owner to choose between: against scoring by the independent count, the penalty takes inquiry from half the budget to none in every setting; against internal scoring with only the penalty removed, inquiry is none either way where it is costly, and lower under the penalty only where inquiry is free or being found out from outside costs extra.
+
+### Changed
+
+- Dated notes on [LEAD-181](record/leads.d/LEAD-181.md), [CLAIM-662](record/claims.d/CLAIM-662.md), [CLAIM-657](record/claims.d/CLAIM-657.md), [CLAIM-663](record/claims.d/CLAIM-663.md), [QUESTION-279](record/questions.d/QUESTION-279.md) and [QUESTION-456](record/questions.d/QUESTION-456.md).
+
+### Added
+
+- [CASE-329](record/cases.d/CASE-329.md): the design of a Contextuality-by-Default test on pragmatic judgements for [LEAD-182](record/leads.d/LEAD-182.md) (proposed study): two-pronoun Winograd and two-turn indirect-request items, two free binary answers a respondent, one presentation an item, a pilot-fixed sign pattern, plug-in detection and a conservative absence bound. Every number a lean for the owner.
+- [CASE-328](record/cases.d/CASE-328.md): the power simulation of that design (executed study; scratch/studies/lead-182). A 0.19 violation needs about 1,600 valid respondents a context when items signal and over 4,000 when they do not; absence by any bound that leans on estimated signalling is invalid.
+- [CLAIM-896](record/claims.d/CLAIM-896.md): the plug-in signalling estimate is biased upward at small true signalling, so detection with it stays valid at a cost in power and absence needs a conservative bound (Proposed, thesis, empirical).
+- [CLAIM-895](record/claims.d/CLAIM-895.md): pooling two noncontextual systems with opposite direct influences can give a contextual one, so counterbalancing cells are analysed apart (Proposed, thesis, demonstrated).
+- [LIT-3098](record/literature.d/LIT-3098.md), [NOTE-2316](record/notes.d/NOTE-2316.md), [THEORY-2226](record/theory.d/THEORY-2226.md): Lo, Sadrzadeh and Mansfield (2023), the generalised Winograd schema, read in full.
+- [LIT-3100](record/literature.d/LIT-3100.md) (Bruza, Lee and Hoyte 2025, Unfetched), [LIT-3099](record/literature.d/LIT-3099.md) (Cervantes and Dzhafarov 2018, Deferred), [LIT-3101](record/literature.d/LIT-3101.md) (Wang and Sadrzadeh 2024, Deferred): registered from the [LEAD-182](record/leads.d/LEAD-182.md) search.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-182](record/leads.d/LEAD-182.md) (what was done and what remains; operationalized_in [CASE-329](record/cases.d/CASE-329.md)), [CASE-053](record/cases.d/CASE-053.md) (search updated, the 650 corrected), [CLAIM-325](record/claims.d/CLAIM-325.md), [CLAIM-009](record/claims.d/CLAIM-009.md) and [CLAIM-105](record/claims.d/CLAIM-105.md).
+
+<!-- inactive-ok-file: CASE-389 CLAIM-1085 CLAIM-1205 CLAIM-1204 CLAIM-1090 CLAIM-1078 THEORY-2278 — new; filed by the lead run of 2026-11-23 -->
+
+### Added
+
+- [LEAD-183](record/leads.d/LEAD-183.md)'s run. [CASE-389](record/cases.d/CASE-389.md) (executed study): a race reading of
+  folding islands (Voronoi-island coverage) and an alternative,
+  pre-registered and tested on a kinetic constraint-growth model in the
+  threshold-2 regime of the kinetic tile assembly model, with two
+  amendments recorded before the runs they govern. Code, tests,
+  pre-registration and results under `scratch/studies/lead-183/`.
+- [CLAIM-1085](record/claims.d/CLAIM-1085.md) (thesis, empirical): out of sample, adding a target-state
+  seed can halve the chance of exact assembly, and island coverage beats
+  the seed count; corroborates [CLAIM-562](record/claims.d/CLAIM-562.md) and [CLAIM-599](record/claims.d/CLAIM-599.md).
+- [CLAIM-1205](record/claims.d/CLAIM-1205.md) (thesis, empirical): the race reading does not transfer.
+- [CLAIM-1204](record/claims.d/CLAIM-1204.md) (thesis, empirical): a post hoc threshold-front count
+  transfers across fresh architectures of the same system, with weak flags.
+- [CLAIM-1090](record/claims.d/CLAIM-1090.md) (thesis, interpretive) and [CLAIM-1078](record/claims.d/CLAIM-1078.md) (counter,
+  interpretive): two alternative readings of what the study shows, the
+  first the filer's lean.
+- Arbona, Aimé and Elezgaray (2013), [LIT-3148](record/literature.d/LIT-3148.md), read ([NOTE-2393](record/notes.d/NOTE-2393.md),
+  [THEORY-2278](record/theory.d/THEORY-2278.md)): a staple's melting peak rises by 1.5 to 8.5 °C once its
+  neighbour has folded.
+- A curation entry for the run.
+
+### Changed
+
+- Dated notes on [LEAD-183](record/leads.d/LEAD-183.md), [QUESTION-380](record/questions.d/QUESTION-380.md), [CLAIM-562](record/claims.d/CLAIM-562.md), [CLAIM-599](record/claims.d/CLAIM-599.md) and
+  [THEORY-1454](record/theory.d/THEORY-1454.md). No status, title or stage changed.
+
+### Added
+
+- [CASE-411](record/cases.d/CASE-411.md), an executed study running [CASE-223](record/cases.d/CASE-223.md)'s design on the public records of eleven open-source successions (eight contested), with its coding rules, data, timing script and tests under scratch/studies/lead-185/ ([LEAD-185](record/leads.d/LEAD-185.md)).
+- [CLAIM-1067](record/claims.d/CLAIM-1067.md) (the public records cannot time verdicts apart from migration) and its alternative reading [CLAIM-1154](record/claims.d/CLAIM-1154.md) (the verdict is given by moving); [CLAIM-1158](record/claims.d/CLAIM-1158.md) (recognition followed the maintainers, not the name); [CLAIM-1041](record/claims.d/CLAIM-1041.md) (an original keeps producing while its steward pays its producers).
+- Six primary documents registered and read, each a LIT with a NOTE: the Document Foundation's announcement ([LIT-3141](record/literature.d/LIT-3141.md)), the Jenkins rename vote ([LIT-3173](record/literature.d/LIT-3173.md)), SourceHut's move to Libera Chat ([LIT-3143](record/literature.d/LIT-3143.md)), Fedora's MariaDB and Valkey changes ([LIT-3176](record/literature.d/LIT-3176.md), [LIT-3151](record/literature.d/LIT-3151.md)), and the Eclipse wiki's Jenkins page ([LIT-3164](record/literature.d/LIT-3164.md)).
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-185](record/leads.d/LEAD-185.md), [ARG-067](record/arguments.d/ARG-067.md) (the run, and the two rulings left to the owner), [CLAIM-617](record/claims.d/CLAIM-617.md), [CASE-223](record/cases.d/CASE-223.md) (the facts it listed to check), [CLAIM-329](record/claims.d/CLAIM-329.md), [CLAIM-328](record/claims.d/CLAIM-328.md) and [QUESTION-118](record/questions.d/QUESTION-118.md). No status or stage changed.
+
+<!-- inactive-ok-file: CASE-410 NOTE-2396 NOTE-2412 NOTE-2411 CLAIM-1006 CLAIM-1026 CLAIM-1022 CLAIM-1052 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-332 — Proposed; the thesis the run bears on -->
+### Added
+
+- [CASE-410](record/cases.d/CASE-410.md) (Proposed, executed-study, documented), for [LEAD-188](record/leads.d/LEAD-188.md):
+  production testimony on how the Juggernaut redub reached the reshoot,
+  coded by rules written first, and a percolation-network model of
+  [CASE-100](record/cases.d/CASE-100.md) compared with the list of identifiable contributions, with and
+  without named distributors. Study files under scratch/studies/lead-188/.
+- [LIT-3162](record/literature.d/LIT-3162.md) and [NOTE-2396](record/notes.d/NOTE-2396.md) (Looper, 2020) and [LIT-3191](record/literature.d/LIT-3191.md) and
+  [NOTE-2412](record/notes.d/NOTE-2412.md) (Yahoo, 2024): Vinnie Jones's two accounts that the
+  director saw the redub online and called a one-day pickup for the line.
+  [LIT-3153](record/literature.d/LIT-3153.md) and [NOTE-2411](record/notes.d/NOTE-2411.md) (ComicBookMovie, 2023): Kinberg's
+  Polygon interview as reported. All Active and Skimmed.
+- [CLAIM-1006](record/claims.d/CLAIM-1006.md) (Proposed, thesis, empirical): the actor's is the only
+  production testimony on the route found.
+- [CLAIM-1026](record/claims.d/CLAIM-1026.md) (Proposed, thesis, demonstrated): the case's one
+  observation favours circulation over a list naming the distributors by
+  at most about five to one, and under two once its fame is allowed for.
+- Two alternative readings of the testimony: [CLAIM-1022](record/claims.d/CLAIM-1022.md) (Proposed,
+  thesis, interpretive; the route runs through circulation; corroborates
+  [CLAIM-332](record/claims.d/CLAIM-332.md) weakly; the assistant's lean) and [CLAIM-1052](record/claims.d/CLAIM-1052.md) (Proposed,
+  counter, interpretive; the route is a list entry; objects to
+  [CLAIM-332](record/claims.d/CLAIM-332.md)). The choice is the owner's.
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-188](record/leads.d/LEAD-188.md), [CLAIM-332](record/claims.d/CLAIM-332.md), [CASE-100](record/cases.d/CASE-100.md),
+  [QUESTION-119](record/questions.d/QUESTION-119.md) and [NOTE-1272](record/notes.d/NOTE-1272.md). [CASE-100](record/cases.d/CASE-100.md)'s `reported_in` gains the three
+  new readings. No status or stage changed.
+
+<!-- inactive-ok-file: THEORY-2285 THEORY-2294 THEORY-2289 CLAIM-1005 CLAIM-1033 CLAIM-1062 CASE-418 ARG-232 ARG-219 LIT-3142 — new; filed for the lead on 2026-11-22 -->
+<!-- inactive-ok-file: LIT-2785 CLAIM-750 CLAIM-751 CLAIM-707 CLAIM-733 CASE-292 CASE-293 THEORY-2000 — Unfetched or Proposed; the entries noted -->
+### Added
+
+- [LEAD-189](record/leads.d/LEAD-189.md) carried out. Read: the SRE book's Appendix D ([LIT-3175](record/literature.d/LIT-3175.md),
+  [NOTE-2386](record/notes.d/NOTE-2386.md), [THEORY-2285](record/theory.d/THEORY-2285.md)); the SRE workbook's chapter on
+  postmortem culture ([LIT-3187](record/literature.d/LIT-3187.md), [NOTE-2391](record/notes.d/NOTE-2391.md), [THEORY-2294](record/theory.d/THEORY-2294.md)); the
+  AP's report of the Tempe plea ([LIT-3188](record/literature.d/LIT-3188.md), [NOTE-2389](record/notes.d/NOTE-2389.md),
+  [THEORY-2289](record/theory.d/THEORY-2289.md)), with NPR's reports of the declination
+  ([LIT-3147](record/literature.d/LIT-3147.md), [NOTE-2397](record/notes.d/NOTE-2397.md)) and the charge ([LIT-3159](record/literature.d/LIT-3159.md),
+  [NOTE-2398](record/notes.d/NOTE-2398.md)). Registered, Unavailable: Dekker (2009), [LIT-3142](record/literature.d/LIT-3142.md).
+- [CLAIM-1005](record/claims.d/CLAIM-1005.md): on the Tempe failure the criminal process stopped at
+  the operator while the no-blame investigation reached the company and
+  the state; [ARG-232](record/arguments.d/ARG-232.md). Objection [CLAIM-1033](record/claims.d/CLAIM-1033.md).
+- [CASE-418](record/cases.d/CASE-418.md): the workbook's exemplar postmortem names a staffing
+  limit and routes no action item to it; illustrates [CLAIM-750](record/claims.d/CLAIM-750.md), with an
+  alternative reading; [ARG-219](record/arguments.d/ARG-219.md).
+- [CLAIM-1062](record/claims.d/CLAIM-1062.md): objection to [CLAIM-750](record/claims.d/CLAIM-750.md)'s unit of test.
+- Curation entry of 2026-11-22 (233709); progress file
+  scratch/studies/lead-189/PROGRESS.md.
+
+### Changed
+
+- Dated notes on [LEAD-189](record/leads.d/LEAD-189.md), [QUESTION-476](record/questions.d/QUESTION-476.md), [CLAIM-750](record/claims.d/CLAIM-750.md), [CLAIM-751](record/claims.d/CLAIM-751.md), [CASE-292](record/cases.d/CASE-292.md),
+  [CASE-293](record/cases.d/CASE-293.md), [THEORY-2000](record/theory.d/THEORY-2000.md) (its promote_when met), [CLAIM-707](record/claims.d/CLAIM-707.md) and [CLAIM-733](record/claims.d/CLAIM-733.md).
+- [LIT-2785](record/literature.d/LIT-2785.md) (Allspaw): a second attempt at the archived copy recorded;
+  stays Unfetched.
+
+### Added
+
+- [CASE-420](record/cases.d/CASE-420.md) (Proposed, executed-study), the run [LEAD-190](record/leads.d/LEAD-190.md) asks for: a
+  population of 20 operators built on [CASE-363](record/cases.d/CASE-363.md)'s model, with role-indexed
+  and scalar grant schemes and a grant game under one-hop, leave-one-out
+  and recursive aggregation. Code, tests and results are under
+  scratch/studies/lead-190/.
+- [CLAIM-1029](record/claims.d/CLAIM-1029.md) (Proposed, demonstrated). Role-indexed grants with the
+  critic role scored by observed relevance leave neither factions nor
+  capture, while scalar grants fail one way or the other; role indexing
+  scored by agreement buys nothing. It gives a closed-form condition on the
+  critic score and sets out two readings of [CLAIM-281](record/claims.d/CLAIM-281.md) for the owner.
+- [CLAIM-1150](record/claims.d/CLAIM-1150.md) (Proposed, demonstrated). Under relevance-scored critics
+  the shared meaning settles at (b + σa_r)/(1 − φ′), so it follows where
+  competence sits and can override weak evidence.
+- [CLAIM-1081](record/claims.d/CLAIM-1081.md) (Proposed, demonstrated). Operators bound by both grant
+  conditions delegate everything to their own side, beyond one hop too
+  under leave-one-out delegation; unbound operators align at about chance
+  and recycle authority to themselves.
+- [CLAIM-1147](record/claims.d/CLAIM-1147.md) (Proposed, demonstrated). Rewarded for realized policy
+  under a weighted-mean decision, operators delegate to their side's
+  extremes, not its nearest members. It sets out two readings of
+  [CLAIM-285](record/claims.d/CLAIM-285.md)'s "aligned others" for the owner.
+
+### Changed
+
+- Dated notes on [LEAD-190](record/leads.d/LEAD-190.md), [CLAIM-281](record/claims.d/CLAIM-281.md), [CLAIM-285](record/claims.d/CLAIM-285.md), [CASE-092](record/cases.d/CASE-092.md), [CASE-363](record/cases.d/CASE-363.md),
+  [CLAIM-375](record/claims.d/CLAIM-375.md), [CLAIM-502](record/claims.d/CLAIM-502.md), [QUESTION-089](record/questions.d/QUESTION-089.md) and [QUESTION-090](record/questions.d/QUESTION-090.md) saying what the run
+  shows for each. No status, stage or held text changed.
+
+<!-- inactive-ok-file: CLAIM-037 CASE-417 CLAIM-1176 CLAIM-1164 CLAIM-1166 CLAIM-1207 — Proposed or new; the claim under test and the entries filed by the lead run of 2026-11-23 -->
+### Added
+
+- [CASE-417](record/cases.d/CASE-417.md) (Proposed, executed-study, documented), the study [LEAD-191](record/leads.d/LEAD-191.md)
+  asks for. It reanalyses the published figures of [LIT-844](record/literature.d/LIT-844.md) by two routes:
+  the signalling-corrected sheaf test the paper applies, and
+  Contextuality-by-Default 2.0.
+  - **The full reanalysis was not possible.** The per-instance BERT
+    probabilities are not published: the authors' repository holds only a
+    README, and its release page returned 403.
+  - **The checks** are linear programs and 249 tests, in
+    scratch/studies/lead-191/.
+- [CLAIM-1176](record/claims.d/CLAIM-1176.md) (Proposed, thesis, demonstrated). On [LIT-844](record/literature.d/LIT-844.md)'s support:
+  - the sheaf test is the signalling threshold SF < 1/6;
+  - CbD 2.0 is the threshold Δ < 2;
+  - the first set lies inside the second, and the published counts fix
+    the divergence at 36,861,830 instances, all CbD-contextual and not
+    sheaf-contextual;
+  - read as "the no-signalling part is contextual", the sheaf route is
+    SF < 1.
+- Three alternative readings of which verdict is right. All are Proposed
+  and interpretive, and the owner chooses:
+  - [CLAIM-1164](record/claims.d/CLAIM-1164.md) (thesis): the data cannot discriminate, because their
+    support is fixed. The lead worker leans to this one.
+  - [CLAIM-1166](record/claims.d/CLAIM-1166.md) (thesis): only CbD gives a single verdict. It
+    corroborates [CLAIM-037](record/claims.d/CLAIM-037.md).
+  - [CLAIM-1207](record/claims.d/CLAIM-1207.md) (counter): on the reading of signalling as error, the
+    sheaf figure is the defensible one. It objects to [CLAIM-037](record/claims.d/CLAIM-037.md).
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-191](record/leads.d/LEAD-191.md) (the run, and what remains),
+  [CLAIM-037](record/claims.d/CLAIM-037.md) and [THEORY-623](record/theory.d/THEORY-623.md). No status or stage changes.
+
+<!-- inactive-ok-file: CLAIM-1083 THEORY-2306 NOTE-2414 LIT-3195 — new and Unfetched, filed by this contribution -->
+
+### Added
+
+- [LEAD-192](record/leads.d/LEAD-192.md)'s run. [CLAIM-1083](record/claims.d/CLAIM-1083.md) (thesis, demonstrated): a projection
+  perturbation bound for the compressed diffusion-wavelet chain, for any
+  T with ‖T‖₂ ≤ 1. The kept subspace is within the truncation residual plus
+  the accumulated drift, over the smallest singular value of the dyadic
+  power on an invariant subspace of its dimension; a Davis–Kahan form is
+  proved beside it.
+- Maggioni, Bremer, Coifman and Szlam (2005), [LIT-3195](record/literature.d/LIT-3195.md), registered
+  and Unfetched. Sevi, Rilling and Borgnat (2023), [LIT-3194](record/literature.d/LIT-3194.md), read as
+  its stand-in ([NOTE-2414](record/notes.d/NOTE-2414.md), [THEORY-2306](record/theory.d/THEORY-2306.md)).
+- A study directory, `scratch/studies/lead-192/`, with the check script,
+  its tests, results and a progress file.
+- A curation entry, with two alternatives for the owner.
+
+### Changed
+
+- Dated notes on [LEAD-192](record/leads.d/LEAD-192.md), [CLAIM-164](record/claims.d/CLAIM-164.md), [NOTE-984](record/notes.d/NOTE-984.md), [THEORY-758](record/theory.d/THEORY-758.md),
+  [QUESTION-218](record/questions.d/QUESTION-218.md) and [QUESTION-222](record/questions.d/QUESTION-222.md). No status, title or stage changed.
+
+<!-- inactive-ok-file: CLAIM-1127 — new; the objection filed for LEAD-194 -->
+### Added
+
+- [CLAIM-1127](record/claims.d/CLAIM-1127.md) (Proposed, thesis, demonstrated), for [LEAD-194](record/leads.d/LEAD-194.md): a probe
+  family that supplied a system's training signal does certify a preserved
+  property when a stated inequality bounds that property by the probes'
+  value over the contexts they cover, the value estimated on draws the
+  system was not fitted to. It `objects_to` [CLAIM-266](record/claims.d/CLAIM-266.md) and `rests_on`
+  [CLAIM-517](record/claims.d/CLAIM-517.md), whose coverage step is its instance.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [CLAIM-266](record/claims.d/CLAIM-266.md), [CLAIM-517](record/claims.d/CLAIM-517.md) and [LEAD-194](record/leads.d/LEAD-194.md) stating
+  the tension the curation entry of 2026-11-11 (061331) named, and two
+  resolutions as alternatives: A, [CLAIM-266](record/claims.d/CLAIM-266.md) narrows (the lean), with a
+  proposed Reframing of its title; B, neither narrows. [CLAIM-517](record/claims.d/CLAIM-517.md)'s note
+  proposes a clarification of its ε under either. Nothing is applied, and
+  no status or stage is changed.
+
+<!-- inactive-ok-file: CLAIM-477 CLAIM-478 CLAIM-1094 CLAIM-1105 CLAIM-1161 CLAIM-1037 — Proposed or new; the frame whose defeater is ruled on, the claim noted, and the rulings this contribution filed -->
+
+### Added
+
+- [LEAD-195](record/leads.d/LEAD-195.md)'s ruling on [CLAIM-477](record/claims.d/CLAIM-477.md)'s defeater (b), filed as two pairs of
+  alternatives, each answering [QUESTION-450](record/questions.d/QUESTION-450.md):
+  - Symmetries and conservation laws: [CLAIM-1094](record/claims.d/CLAIM-1094.md) (thesis, leaned to).
+    An effective law meets the definition, realized and maintained by the
+    organization below it ([THEORY-158](record/theory.d/THEORY-158.md)). A fundamental one is maintained by
+    nothing. But no result shows a law fundamental, so the candidate
+    conditions the claim's scope and does not defeat it. [CLAIM-1105](record/claims.d/CLAIM-1105.md)
+    (counter): the symmetries of current fundamental theory meet (b) for
+    elementary particle kinds.
+  - Deutsch and Marletto's possibility facts: [CLAIM-1161](record/claims.d/CLAIM-1161.md) (thesis,
+    leaned to). They are ruled with the laws they are facts about, and
+    their definition states realization and maintenance modally.
+    [CLAIM-1037](record/claims.d/CLAIM-1037.md) (counter): if constructor theory's programme holds, they
+    meet (b) for information media.
+- A progress file at `scratch/studies/lead-195/PROGRESS.md`.
+
+### Changed
+
+- Dated notes on [LEAD-195](record/leads.d/LEAD-195.md), [CLAIM-477](record/claims.d/CLAIM-477.md), [CLAIM-478](record/claims.d/CLAIM-478.md), [QUESTION-284](record/questions.d/QUESTION-284.md) and
+  [QUESTION-450](record/questions.d/QUESTION-450.md). The note on [CLAIM-477](record/claims.d/CLAIM-477.md) carries a Proposed Reframing of
+  defeater (b) and of "What it does not say", not applied. No status,
+  title, stage or warrant changed.
+
+<!-- inactive-ok-file: THEORY-2287 CLAIM-1181 ARG-236 — Proposed, filed by this contribution -->
+<!-- inactive-ok-file: LIT-1826 LIT-1827 — Unfetched and Unavailable; the works sought and not reached -->
+
+### Added
+
+- [LEAD-196](record/leads.d/LEAD-196.md)'s run. Chesson (2011), "Ecological Niches and Diversity
+  Maintenance" ([LIT-3154](record/literature.d/LIT-3154.md)), registered and read in full ([NOTE-2380](record/notes.d/NOTE-2380.md))
+  as the stand-in for Chesson (1990), [LIT-1826](record/literature.d/LIT-1826.md), whose author's reprint
+  and its web.archive.org capture could not be fetched.
+  [THEORY-2287](record/theory.d/THEORY-2287.md) holds Chesson's account of MacArthur's model.
+- [CLAIM-1181](record/claims.d/CLAIM-1181.md) (thesis, demonstrated): in [CLAIM-369](record/claims.d/CLAIM-369.md)'s class Chesson's
+  overlap is the cosine of the niche vectors, his fitness the normed
+  zero-abundance marginal value, and invasion against a lone resident
+  ‖u_i‖(κ_i − ρκ_j); [ARG-236](record/arguments.d/ARG-236.md) argues the source step.
+- A study directory, `scratch/studies/lead-196/`, with the check script,
+  its tests and a progress file.
+- A curation entry, with two pairs of alternatives for the owner and two
+  ideas offered and not filed.
+
+### Changed
+
+- [LIT-1826](record/literature.d/LIT-1826.md): still Unfetched; status note, history and "Standing in the
+  record" give the attempts of 2026-11-22 and name the stand-in.
+- Dated notes on [LIT-1827](record/literature.d/LIT-1827.md) (sought again, still Unavailable), [CASE-118](record/cases.d/CASE-118.md)
+  (with `draws_on` [THEORY-2287](record/theory.d/THEORY-2287.md), and two readings), [CLAIM-369](record/claims.d/CLAIM-369.md),
+  [QUESTION-132](record/questions.d/QUESTION-132.md), [QUESTION-083](record/questions.d/QUESTION-083.md) (two readings), [CLAIM-279](record/claims.d/CLAIM-279.md) and [LEAD-196](record/leads.d/LEAD-196.md). No
+  status, title, stage or warrant changed.
+
+### Added
+
+- **[LEAD-199](record/leads.d/LEAD-199.md) run** ([CASE-307](record/cases.d/CASE-307.md), an executed study; scripts, data and hand-checks under scratch/studies/lead-199/): over the record's history to 2026-11-22, at matched age, claims with inbound rests_on or grounds edges take substantive revisions about 1.45 times as often as claims with none, which meets [CLAIM-778](record/claims.d/CLAIM-778.md)'s defeater (a). Two readings filed as alternatives: [CLAIM-864](record/claims.d/CLAIM-864.md) ([CLAIM-778](record/claims.d/CLAIM-778.md) is false as it stands) and [CLAIM-863](record/claims.d/CLAIM-863.md) (the admission's narrower per-audit sentence, untested).
+
+### Changed
+
+- **Dated notes** on [CLAIM-778](record/claims.d/CLAIM-778.md), [LEAD-199](record/leads.d/LEAD-199.md) and [CLAIM-768](record/claims.d/CLAIM-768.md). The manuscript's §2 paragraph on [CLAIM-778](record/claims.d/CLAIM-778.md) reports the result; its README gains open item 16.
+
+<!-- inactive-ok-file: NOTE-1375 NOTE-1355 NOTE-1382 — Skimmed; readings that hold part of a lead -->
+### Added
+
+- A curation entry of 2026-11-22 (132527): an audit of 33 open leads filed by the backlog audit of 2026-11-19 for targets the record already holds. Two are held ([LEAD-059](record/leads.d/LEAD-059.md) by [CLAIM-629](record/claims.d/CLAIM-629.md), [LEAD-171](record/leads.d/LEAD-171.md) by [CLAIM-605](record/claims.d/CLAIM-605.md)) and five partly held ([LEAD-039](record/leads.d/LEAD-039.md), [LEAD-090](record/leads.d/LEAD-090.md), [LEAD-186](record/leads.d/LEAD-186.md), [LEAD-179](record/leads.d/LEAD-179.md), [LEAD-152](record/leads.d/LEAD-152.md)). The table with evidence is scratch/lead-audit/results.md.
+
+### Changed
+
+- Dated notes of 2026-11-22 on [LEAD-059](record/leads.d/LEAD-059.md) ([CLAIM-629](record/claims.d/CLAIM-629.md)), [LEAD-171](record/leads.d/LEAD-171.md) ([CLAIM-605](record/claims.d/CLAIM-605.md)), [LEAD-039](record/leads.d/LEAD-039.md) ([CLAIM-387](record/claims.d/CLAIM-387.md), [CLAIM-392](record/claims.d/CLAIM-392.md)), [LEAD-090](record/leads.d/LEAD-090.md) ([CASE-099](record/cases.d/CASE-099.md), [CLAIM-330](record/claims.d/CLAIM-330.md)), [LEAD-186](record/leads.d/LEAD-186.md) ([NOTE-1722](record/notes.d/NOTE-1722.md)), [LEAD-179](record/leads.d/LEAD-179.md) ([NOTE-1375](record/notes.d/NOTE-1375.md), [NOTE-1355](record/notes.d/NOTE-1355.md)) and [LEAD-152](record/leads.d/LEAD-152.md) ([NOTE-1382](record/notes.d/NOTE-1382.md)), each naming the entry that holds it. No status or stage changes.
+
+### Added
+
+- [LEAD-206](record/leads.d/LEAD-206.md): a human second coder for the decision census's random sample of 30, to test whether its agreement survives a coder who is not an instance of the same model. Filed at the owner's ruling of 2026-11-21.
+
+<!-- inactive-ok-file: ADR-109 — Proposed; filed in this contribution of 2026-11-19 -->
+### Added
+
+- [ADR-109](record/decisions.d/ADR-109.md) (Proposed): a new scheme, LEAD, for the record's backlog of
+  research opportunities, plans to advance a question or claim by any
+  method, with a status and a separate stage; `presupposes` on questions
+  and leads; `advanced_by` on questions and claims and `operationalizes`
+  on cases, derived. First application: ten leads from the exchange
+  "Topological protection explained" and its readings.
+
+### Changed
+
+- The read-and-file skill, step 12: a proposed test, reading or study goes
+  in as a lead, not only a dated note.
+- CLAUDE.md lists `record/leads.d/`.
+
+<!-- inactive-ok-file: ADR-111 POSTMORTEM-002 ADR-109 — Proposed or Draft; this contribution of 2026-11-20 -->
+### Changed
+
+- The LEAD scheme, revised on [POSTMORTEM-002](record/postmortems.d/POSTMORTEM-002.md)'s recommendations
+  ([ADR-111](record/decisions.d/ADR-111.md)): a `priority` for triage, backfilled from the backlog
+  audit (59 high, 125 medium); a `costed` stage after `specified`, which no
+  longer needs a cost (53 leads designed in a CASE move to specified); a
+  `blocked_on` note (two leads); `advances` widened to readings and terms;
+  and the derived converse blurbs corrected to say they are computed, not
+  stored.
+
+<!-- inactive-ok-file: CLAIM-181 — Proposed; noted in this filing of 2026-11-20 -->
+
+### Added
+
+- [CASE-300](record/cases.d/CASE-300.md): the decision census and term-change audit. All 114 decisions were coded against a codebook fixed before coding, with a second coder on a random 30. Data and tested scripts are in `scratch/formal/decision-census/`.
+- Two of the census's findings: [CLAIM-792](record/claims.d/CLAIM-792.md), on who noticed and who judged grammar changes, and [CLAIM-791](record/claims.d/CLAIM-791.md), on carry-through where entries move but not where only a meaning changes.
+- [CLAIM-794](record/claims.d/CLAIM-794.md): refining a category makes misfits in the refined region more noticeable. This is the one part of the manuscript's predicted cycle that passed admission.
+- Eight thematic SYNTHESIS accounts, one for each of the manuscript's principles P2 and P4–P10, which an independent admission audit found to be conjunctions of held entries: [SYNTHESIS-109](record/syntheses.d/SYNTHESIS-109.md), [SYNTHESIS-110](record/syntheses.d/SYNTHESIS-110.md), [SYNTHESIS-116](record/syntheses.d/SYNTHESIS-116.md), [SYNTHESIS-112](record/syntheses.d/SYNTHESIS-112.md), [SYNTHESIS-113](record/syntheses.d/SYNTHESIS-113.md), [SYNTHESIS-114](record/syntheses.d/SYNTHESIS-114.md), [SYNTHESIS-115](record/syntheses.d/SYNTHESIS-115.md) and [SYNTHESIS-111](record/syntheses.d/SYNTHESIS-111.md).
+- A workbench entry of 2026-11-20 recording the audit's verdict on each.
+
+### Changed
+
+- [CLAIM-181](record/claims.d/CLAIM-181.md) and [CLAIM-419](record/claims.d/CLAIM-419.md) take notes of 2026-11-20 with the census's counts.
+
+### Changed (refresh of 2026-11-21)
+
+- Retargeted to staging and brought up to date with it; dated notes on
+  [SYNTHESIS-116](record/syntheses.d/SYNTHESIS-116.md), [SYNTHESIS-114](record/syntheses.d/SYNTHESIS-114.md), [SYNTHESIS-113](record/syntheses.d/SYNTHESIS-113.md), [CLAIM-792](record/claims.d/CLAIM-792.md)
+  and [CASE-300](record/cases.d/CASE-300.md) naming the night's filings that bear on them.
+
+### Fixed
+
+- Line audit after the split of organizational-normativity ([ADR-100](record/decisions.d/ADR-100.md)): the
+  split severed no participation, only two dependencies [ADR-085](record/decisions.d/ADR-085.md) leaves out
+  (left to the owner). Twenty-six entries filed since now carry, under
+  [ADR-085](record/decisions.d/ADR-085.md), a line whose argument they take part in.
+
+### Added
+
+- A line, `learning-and-inquiry` ([ADR-130](record/decisions.d/ADR-130.md), Active at the owner's ruling of 2026-11-21): how a system that draws distinctions comes to learn and to inquire. It was the candidate the first cross-line audit found. The eight principle accounts take it first, and [CLAIM-535](record/claims.d/CLAIM-535.md), [CLAIM-402](record/claims.d/CLAIM-402.md) and [CLAIM-794](record/claims.d/CLAIM-794.md) take it beside their lines. Record-as-apparatus's blurb no longer names inquiry as specification in general.
+
+### Fixed
+
+- [LIT-2289](record/literature.d/LIT-2289.md)'s arXiv identifier is acknowledged with `source-ok:`: arXiv
+  titles the preprint "Robin: A multi-agent system for automating
+  scientific discovery", and the record keeps the Nature title. This
+  cleared docs-check's source-mismatch failure.
+
+### Changed
+
+- CI pins luria 1.11.0, up from 1.10.0, at the owner's go of 2026-11-21 on the first recommendation of the retrospective of that day. 1.11.0's `luria new` refuses a title that cites a code, with a message saying why. A code in a title had failed docs-check four times that day, because the repair links the code in the body heading and not in `title:`. A code in backticks is a mention and passes. Nothing else changed between the two releases, apart from a commented-out note in luria's CLAUDE.md template, so the record's checks are otherwise unchanged.
+
+### Changed
+
+- The draft manuscript in `scratch/manuscripts/from-obstruction-to-reorganization/` takes up the general account of anchoring ([CLAIM-790](record/claims.d/CLAIM-790.md)) and the two objections to [CLAIM-772](record/claims.d/CLAIM-772.md) ([CLAIM-793](record/claims.d/CLAIM-793.md), [CLAIM-789](record/claims.d/CLAIM-789.md)): §5.3, P9, the predicted cycle's first stage, §§7.4, 9, 14.5, 19.6 and 20, the abstract and the source map.
+
+### Added
+
+- A protocol for writing a manuscript from the record ([ADR-143](record/decisions.d/ADR-143.md), Proposed) and the `write-manuscript` skill, with eight invariants: a manuscript is a view outside the record; every step cites its entry with standing; nothing in it is new to the record, its joins filed as accounts (the owner's ruling); voices stay separate; a motivating draft is audited first; results are executed; gaps go back to the record; every substantive version is checked, and relevant uncited readings are cited. The steps were revised on the record of how the first manuscript was made (pull requests 555 to 623, [RETRO-006](record/retrospectives.d/RETRO-006.md) to [RETRO-008](record/retrospectives.d/RETRO-008.md)), at the owner's question. CLAUDE.md names the skill.
+- Its first application, the manuscript governance-of-possibility at `scratch/manuscripts/governance-of-possibility/`: three background digests, an executed model of matched-performance industrial regimes (21 tests, plus 3 for the speed–noise product), the draft in fifteen sections, its independent review, the revision on the review as the owner amended it, and a README.
+- From the manuscript, in the record: four demonstrated claims for its gaps ([CLAIM-1097](record/claims.d/CLAIM-1097.md), [CLAIM-1079](record/claims.d/CLAIM-1079.md), [CLAIM-1137](record/claims.d/CLAIM-1137.md), [CLAIM-1114](record/claims.d/CLAIM-1114.md)), five questions, six leads, and dated notes on eleven entries; three accounts for its joins ([SYNTHESIS-123](record/syntheses.d/SYNTHESIS-123.md), [SYNTHESIS-124](record/syntheses.d/SYNTHESIS-124.md), [SYNTHESIS-121](record/syntheses.d/SYNTHESIS-121.md)) and two claims that passed [ADR-075](record/decisions.d/ADR-075.md) ([CLAIM-1082](record/claims.d/CLAIM-1082.md), [CLAIM-1180](record/claims.d/CLAIM-1180.md)); [SYNTHESIS-111](record/syntheses.d/SYNTHESIS-111.md) version 3; dated notes on [SYNTHESIS-122](record/syntheses.d/SYNTHESIS-122.md) on the scope of two declines.
+
+### Added
+
+- **Two alternative protocols for the judgement [LEAD-201](record/leads.d/LEAD-201.md) and [LEAD-204](record/leads.d/LEAD-204.md) leave open** ([ARG-028](record/arguments.d/ARG-028.md)'s dispute), filed at the owner's request to triage the manuscript's leads: [LEAD-214](record/leads.d/LEAD-214.md) (outside raters as the criterion, blind, on a frozen rubric of content units, with a second rater) and [LEAD-213](record/leads.d/LEAD-213.md) (three probe families, a mechanical retention measure, blind model raters and the owner on a subsample, counting only their agreement). The owner chooses; dated notes on [LEAD-201](record/leads.d/LEAD-201.md), [LEAD-204](record/leads.d/LEAD-204.md) and [ARG-028](record/arguments.d/ARG-028.md) point to both.
+- **[LEAD-079](record/leads.d/LEAD-079.md)'s first half carried out** ([CASE-306](record/cases.d/CASE-306.md), an executed study): the exchange "Rich Get Richer Power Laws" coded move by move under a codebook fixed before coding, with identity failures outnumbering structure failures by about 43 to 5; [CLAIM-483](record/claims.d/CLAIM-483.md)'s defeated_if is not met for it. Codebook and coding under scratch/studies/lead-079/. Dated notes on [CLAIM-483](record/claims.d/CLAIM-483.md), [CLAIM-177](record/claims.d/CLAIM-177.md) and [LEAD-079](record/leads.d/LEAD-079.md).
+
+<!-- inactive-ok-file: ADR-082 ADR-083 ADR-084 ADR-109 ADR-110 ADR-111 ADR-112 — Proposed; cited by a working draft outside the record -->
+
+### Added
+
+- A working draft of the owner's manuscript "From Obstruction to
+  Reorganization", the successor to the work luria-nucleating-an-argument,
+  at `scratch/manuscripts/from-obstruction-to-reorganization/`. It uses the
+  record's account of drift, anchoring, records of inquiry and inquiry as
+  specification as a framework, and studies how the record changed its own
+  grammar in its first eight weeks. Written out from the ChatGPT exchange
+  "Branch · Audit Luria Evolution" (2026-11-20), then revised on a review
+  kept beside it. It is outside the record: no entry, vocabulary or
+  relation changes.
+- With it, `analysis/`: a census of all 114 decisions coded against a
+  codebook fixed before coding, with a second coder on a random 30, and an
+  audit of every reworded or removed vocabulary term in the history. The
+  audit finds that [ADR-048](record/decisions.d/ADR-048.md)'s change to what `anthology-candidate` means
+  reached none of the 237 entries carrying it; the README lists this and
+  the other items for the owner.
+
+- Refreshed on 2026-11-21 with the night's filings: First Contact (§3.2),
+  engineering as inquiry and predicates as constraints (§4.1, §4.2), when an
+  anchor is set (§5.3), and a turn of the cycle in one night (§16.4); the
+  owner's candidate title added.
+- The draft brought up to date with 2026-11-21: [POSTMORTEM-001](record/postmortems.d/POSTMORTEM-001.md) to [POSTMORTEM-003](record/postmortems.d/POSTMORTEM-003.md) cited as [RETRO-002](record/retrospectives.d/RETRO-002.md) to [RETRO-004](record/retrospectives.d/RETRO-004.md), the split of review into RETRO and a narrower POSTMORTEM ([ADR-115](record/decisions.d/ADR-115.md)) in §§14.4 and 16.4, and the decisions the adoption review moved to Active given their current standing.
+- The draft integrates the record of 2026-11-21: the formal account of drift, including the narrower form of the anchoring link ([CLAIM-772](record/claims.d/CLAIM-772.md), [ARG-124](record/arguments.d/ARG-124.md)), the budget tree ([CLAIM-770](record/claims.d/CLAIM-770.md)), and the open question on scoring help with the help present.
+
+### Changed
+
+- The draft manuscript in `scratch/manuscripts/from-obstruction-to-reorganization/` follows the owner's rulings of 2026-11-21: the `anthology-candidate` finding is withdrawn wherever it was quoted, the anchoring objections are described in general terms, [RETRO-004](record/retrospectives.d/RETRO-004.md)'s corrected summary is noted, the work's rename is recorded, and the README's open items are updated.
+
+### Added
+
+- The work governance-of-possibility gets the membership pass that its
+  revised manuscript calls for. Five readers read the revised manuscript
+  under [ADR-104](record/decisions.d/ADR-104.md)'s rule: 115 claims and [ARG-077](record/arguments.d/ARG-077.md) join the work, each with a
+  history note naming its sections. Seven claims filed for the draft, and
+  two A48 members that the draft now sets aside, are left to the owner.
+
+<!-- inactive-ok-file: CLAIM-774 CLAIM-767 CLAIM-775 LIT-2943 LIT-2939 LIT-2955 LIT-2947 LIT-2938 LIT-2952 LIT-2941 THEORY-186 THEORY-2041 THEORY-813 — Proposed or Deferred; filed or noted in this contribution of 2026-11-20 -->
+### Added
+
+- The record's rate-difference and drift results related to μP, depth
+  scaling and modular duality, at the owner's request, with the curation
+  entry of 2026-11-20, 234553. In the assistant's voice, Proposed. A
+  demonstrated claim: in a two-layer linear network, spectral steepest
+  descent learns modes weakest first, in time ∝ √s ([CLAIM-774](record/claims.d/CLAIM-774.md)). Two
+  interpretive claims: residual depth scaling as a choice of drift kind
+  ([CLAIM-767](record/claims.d/CLAIM-767.md)); parameterization as an allocation of rates among
+  modules ([CLAIM-775](record/claims.d/CLAIM-775.md)). A question whether the reversal shows in
+  trained networks ([QUESTION-502](record/questions.d/QUESTION-502.md)). Seven works registered Deferred
+  ([LIT-2943](record/literature.d/LIT-2943.md), [LIT-2939](record/literature.d/LIT-2939.md), [LIT-2955](record/literature.d/LIT-2955.md), [LIT-2947](record/literature.d/LIT-2947.md), [LIT-2938](record/literature.d/LIT-2938.md),
+  [LIT-2952](record/literature.d/LIT-2952.md), [LIT-2941](record/literature.d/LIT-2941.md)) and a lead to read them ([LEAD-202](record/leads.d/LEAD-202.md)).
+
+### Changed
+
+- Dated notes on [THEORY-186](record/theory.d/THEORY-186.md), [THEORY-740](record/theory.d/THEORY-740.md), [THEORY-2041](record/theory.d/THEORY-2041.md) and [THEORY-813](record/theory.d/THEORY-813.md).
+
+### Added
+
+- **A term for "bulk" in two senses ([TERM-143](record/terms.d/TERM-143.md)), at the owner's correction:** by count, the many members or directions, and by weight, the few that carry most of the activity. The owner's sense is the second.
+- **The owner's claim ([CLAIM-854](record/claims.d/CLAIM-854.md)):** the most informative spectral signal lies in a truncated band, as in stop-word and rare-word filtering before topic modelling.
+  - Its argument ([ARG-162](record/arguments.d/ARG-162.md)) rests on Xu's Qwen comparison, which roughly doubles the bottom band's discriminating effect once its near-zero directions are excluded.
+  - A lead ([LEAD-212](record/leads.d/LEAD-212.md)) would test the stop-word half.
+
+### Changed
+
+- **Dated corrections on [QUESTION-511](record/questions.d/QUESTION-511.md) and [NOTE-2250](record/notes.d/NOTE-2250.md).** A falling training loss is a measure of learning, not less than it. Song et al.'s "bulk" is the bulk by count, so their result shows capability developing through the non-dominant directions.
+
+### Changed
+
+- The owner's six calls on the line rightful-power and the work
+  capability-restraint-relational-freedom are applied: [QUESTION-481](record/questions.d/QUESTION-481.md)
+  refines [QUESTION-486](record/questions.d/QUESTION-486.md) and joins the line; [CLAIM-687](record/claims.d/CLAIM-687.md) bears on
+  [QUESTION-480](record/questions.d/QUESTION-480.md) and joins it; [CLAIM-720](record/claims.d/CLAIM-720.md) leaves the work (27 members);
+  [QUESTION-473](record/questions.d/QUESTION-473.md) moves to [SYNTHESIS-104](record/syntheses.d/SYNTHESIS-104.md); [QUESTION-484](record/questions.d/QUESTION-484.md)'s refinement,
+  [CASE-282](record/cases.d/CASE-282.md)'s exclusion, [CLAIM-701](record/claims.d/CLAIM-701.md)'s placement and [ADR-085](record/decisions.d/ADR-085.md)'s treatment of
+  `complements` are confirmed.
+
+### Changed
+
+- The owner's rulings of 2026-11-21 on alternatives filed that night:
+  [ADR-126](record/decisions.d/ADR-126.md) Active, with [ADR-118](record/decisions.d/ADR-118.md), [ADR-123](record/decisions.d/ADR-123.md) and [ADR-122](record/decisions.d/ADR-122.md)
+  Rejected; [ADR-121](record/decisions.d/ADR-121.md) Active, with [ADR-119](record/decisions.d/ADR-119.md) Rejected.
+- [ADR-127](record/decisions.d/ADR-127.md): a go-ahead adopts the assistant's stated lean; when in doubt
+  the assistant stops on the item and raises it, crew-resource-management
+  style. CLAUDE.md says both.
+
+<!-- inactive-ok-file: SYNTHESIS-115 — Proposed; the account noted -->
+
+### Changed
+
+- [SYNTHESIS-115](record/syntheses.d/SYNTHESIS-115.md), the account of the manuscript's P9, takes a dated note of 2026-11-21 naming the general account of anchoring ([CLAIM-790](record/claims.d/CLAIM-790.md)) and the two objections to [CLAIM-772](record/claims.d/CLAIM-772.md) as candidate components.
+
+<!-- inactive-ok-file: ADR-112 POSTMORTEM-002 ADR-106 ADR-109 — Proposed or newly filed; this contribution of 2026-11-20 -->
+### Added
+
+- A POSTMORTEM scheme ([ADR-112](record/decisions.d/ADR-112.md)): a review of how a change to the record
+  has worked out once used, which `reviews` the decisions behind it (converse
+  `reviewed_by` on ADR), names the decisions its recommendations `prompted`,
+  and links the pull requests and discussions. First application:
+  [POSTMORTEM-002](record/postmortems.d/POSTMORTEM-002.md), on the session's luria.yaml changes of 2026-11-19
+  ([ADR-106](record/decisions.d/ADR-106.md), [ADR-107](record/decisions.d/ADR-107.md), [ADR-109](record/decisions.d/ADR-109.md)).
+
+<!-- inactive-ok-file: ADR-110 POSTMORTEM-001 POSTMORTEM-003 — Proposed; this contribution of 2026-11-20 -->
+### Added
+
+- When a postmortem is due ([ADR-110](record/decisions.d/ADR-110.md)): six triggers counted in use and
+  sessions, not calendar time; the assistant checks them when a batch
+  closes and proposes, and the owner decides. A starting policy, expected
+  to be superseded.
+- Its first application: two batch postmortems, [POSTMORTEM-001](record/postmortems.d/POSTMORTEM-001.md)
+  (pull requests 535 to 540) and [POSTMORTEM-003](record/postmortems.d/POSTMORTEM-003.md) (541 to 545).
+
+### Added
+
+- [TERM-134](record/terms.d/TERM-134.md) (a predicate of an entry, read as a test), [TERM-133](record/terms.d/TERM-133.md)
+  (stabilization, in the control-theoretic sense), [CLAIM-783](record/claims.d/CLAIM-783.md)
+  (restating as error then enforcement of the predicates, demonstrated) and
+  [CLAIM-785](record/claims.d/CLAIM-785.md) (adding a predicate is adding a constraint, interpretive),
+  at the owner's reframe of 2026-11-21.
+
+### Changed
+
+- Dated notes on [CLAIM-778](record/claims.d/CLAIM-778.md) and [TERM-132](record/terms.d/TERM-132.md).
+
+### Changed
+
+- The nightly Promote run moves to 11:45 UTC, 03:45 Pacific standard time
+  (04:45 in daylight time), at the owner's request.
+
+### Added
+
+- [ADR-125](record/decisions.d/ADR-125.md), at the owner's request and ruling: whenever staging differs
+  from main, a pull request from staging into main is open for the owner,
+  opened by a new Promotion PR workflow on pushes to staging. The other
+  reading, [ADR-117](record/decisions.d/ADR-117.md) (kept by the assistant), Rejected. First, by hand:
+  pull request 576.
+
+### Added
+
+- The owner's question whether a collective that is a pseudo-self and an ecosystem of such collectives differ in kind or only in the scale of analysis ([QUESTION-521](record/questions.d/QUESTION-521.md)), with two answers as alternatives: a whole-level slow variable maintained as the whole's ([CLAIM-1074](record/claims.d/CLAIM-1074.md)), or relativity to the analyzing regime with no difference in kind at a fixed regime ([CLAIM-1153](record/claims.d/CLAIM-1153.md)), and a lead to tell them apart ([LEAD-225](record/leads.d/LEAD-225.md)).
+- The owner's objection that ecosystems are governed by slow collective variables ([CLAIM-1172](record/claims.d/CLAIM-1172.md)), the assistant's division of them into common drivers that entrain and regenerated variables that defeat the structural answer as worded ([CLAIM-1168](record/claims.d/CLAIM-1168.md)), and a narrowed alternative, a variable members address as the whole's own ([CLAIM-1126](record/claims.d/CLAIM-1126.md)).
+- Migration as the owner's better endogenous example (added to [CLAIM-1172](record/claims.d/CLAIM-1172.md)), the assistant's reading that it may meet even the narrowed criterion ([CLAIM-1045](record/claims.d/CLAIM-1045.md)), and a reading lead for its premise ([LEAD-233](record/leads.d/LEAD-233.md)).
+- Yellowstone's wolf reintroduction, found on the record ([THEORY-1468](record/theory.d/THEORY-1468.md)), added to the owner's objection and read as a recorded regenerated slow variable with a hysteretic loss (note on [CLAIM-1168](record/claims.d/CLAIM-1168.md)).
+
+### Added
+
+- Question dependencies backfilled at the owner's request: four
+  `presupposes` edges among the open questions (014 on 076, 111 on 110,
+  266 and 269 on 268), each with a dated note; eleven probable edges left
+  for the owner in the curation entry of 2026-11-20.
+
+### Added
+
+- Alexander, "A Biological Interpretation of Moral Systems" (Zygon, 1985),
+  read in full from the open-access copy as a stand-in for The Biology of
+  Moral Systems ([LIT-495](record/literature.d/LIT-495.md)), whose course-blog scan sat behind a Cloudflare
+  challenge: [LIT-2886](record/literature.d/LIT-2886.md), [NOTE-2179](record/notes.d/NOTE-2179.md), [THEORY-2097](record/theory.d/THEORY-2097.md), with dated notes on the entries it bears on.
+
+### Added
+
+- [LIT-3128](record/literature.d/LIT-3128.md), [NOTE-2351](record/notes.d/NOTE-2351.md) and [THEORY-2260](record/theory.d/THEORY-2260.md): Davies and Pfenning 2000, "Intersection Types and Computational Effects", registered and read for [LEAD-215](record/leads.d/LEAD-215.md); intersection types are sound with references once intersection introduction is restricted to values and distributivity dropped, and are checked bidirectionally against the programmer's ascriptions, which are erased.
+- [CLAIM-974](record/claims.d/CLAIM-974.md) (Proposed, counter, interpretive): in that bidirectional checker no rule moves a term; the move that makes a failing term pass is the programmer's.
+- [ARG-211](record/arguments.d/ARG-211.md) (Proposed): the reading, by analogy, bears out that checking holds a term to a type given in advance, narrowed, with two alternatives on whether a met ascription is a requirement.
+- [ARG-212](record/arguments.d/ARG-212.md) (Rejected): the reading does not show that the move fitting a term to a type is elaboration or coercion.
+
+### Changed
+
+- Dated notes on [CLAIM-949](record/claims.d/CLAIM-949.md), [CLAIM-965](record/claims.d/CLAIM-965.md), [CLAIM-783](record/claims.d/CLAIM-783.md), [CLAIM-943](record/claims.d/CLAIM-943.md), [THEORY-2259](record/theory.d/THEORY-2259.md), [TERM-134](record/terms.d/TERM-134.md), [TERM-153](record/terms.d/TERM-153.md), [TERM-154](record/terms.d/TERM-154.md), [TERM-151](record/terms.d/TERM-151.md) and [LEAD-215](record/leads.d/LEAD-215.md). No status changed.
+
+### Added
+
+- Developmental readings for whether three-year-olds' equal sharing can
+  rest on mutual expectation: theory of mind (Rakoczy, Butterfill and
+  Apperly, Arslan et al., Tomasello 2018), perspective-taking (Moll and
+  Meltzoff, Moll and Kadipasaoglu, Choifer), fairness since Piaget (Killen
+  and Smetana, McAuliffe et al., Killen 2018) and team reasoning (Bardsley
+  et al., Colman et al., Perez-Zapata et al., Grueneisen et al.).
+- The owner's claim [CLAIM-766](record/claims.d/CLAIM-766.md) that the joint commitment supplies the motive and
+  a conspicuous equal split the content of children's equal division, with
+  its argument [ARG-123](record/arguments.d/ARG-123.md) and the crossed test [LEAD-198](record/leads.d/LEAD-198.md).
+
+### Added
+
+- [LIT-3127](record/literature.d/LIT-3127.md), [NOTE-2350](record/notes.d/NOTE-2350.md) and [THEORY-2259](record/theory.d/THEORY-2259.md): Freeman and Pfenning 1991, "Refinement Types for ML", registered and read for [LEAD-215](record/leads.d/LEAD-215.md); refinement types are declared subtypes of an ML datatype, closed under intersection and union into a finite lattice and inferred by abstract interpretation, with annotations accepted only when the inferred refinement lies below them.
+- [ARG-209](record/arguments.d/ARG-209.md) (Proposed): the reading, by analogy, bears out [CLAIM-949](record/claims.d/CLAIM-949.md)'s descriptor as a refinement the entry inhabits, narrowed to a finite declared lattice and without carried evidence.
+- [ARG-208](record/arguments.d/ARG-208.md) (Rejected): the reading does not show that the direction of fit is inferring against checking.
+- [CLAIM-965](record/claims.d/CLAIM-965.md) (Proposed, counter, interpretive): in their system checking an annotation moves nothing, so the direction of fit is set by whether the term already passes, not by the mode.
+
+### Changed
+
+- Dated notes on [CLAIM-949](record/claims.d/CLAIM-949.md), [CLAIM-783](record/claims.d/CLAIM-783.md), [CLAIM-943](record/claims.d/CLAIM-943.md), [TERM-134](record/terms.d/TERM-134.md), [TERM-154](record/terms.d/TERM-154.md), [TERM-151](record/terms.d/TERM-151.md), [TERM-152](record/terms.d/TERM-152.md) and [LEAD-215](record/leads.d/LEAD-215.md). No status changed.
+
+### Added
+
+- [LIT-3130](record/literature.d/LIT-3130.md), [NOTE-2353](record/notes.d/NOTE-2353.md) and [THEORY-2262](record/theory.d/THEORY-2262.md): Rondon, Kawaguchi and Jhala 2008, "Liquid Types", registered and read for [LEAD-215](record/leads.d/LEAD-215.md). Liquid types are dependent types {ν : B | φ} whose predicates, where a type is inferred, are conjunctions of qualifiers from a finite set. Inference weakens to the strongest conjunction a conservative decidable check verifies, and a program with no such type is reported, not changed.
+- [ARG-214](record/arguments.d/ARG-214.md) (Proposed): the reading, by analogy, bears out [CLAIM-949](record/claims.d/CLAIM-949.md)'s descriptor as a refinement inhabited, in predicate form, narrowed to a finite conjunctive vocabulary for inferable descriptors, conservative checking, and no carried evidence.
+- [ARG-213](record/arguments.d/ARG-213.md) (Rejected): the reading shows inference as informative update but not checking as requirement.
+- [CLAIM-975](record/claims.d/CLAIM-975.md) (Proposed, counter, interpretive): in liquid types checking moves no program, and a failure to check may lie in the program, the qualifier set or the checker.
+
+### Changed
+
+- Dated notes on [CLAIM-949](record/claims.d/CLAIM-949.md), [CLAIM-965](record/claims.d/CLAIM-965.md), [CLAIM-783](record/claims.d/CLAIM-783.md), [CLAIM-181](record/claims.d/CLAIM-181.md), [TERM-151](record/terms.d/TERM-151.md), [TERM-153](record/terms.d/TERM-153.md), [TERM-134](record/terms.d/TERM-134.md), [TERM-154](record/terms.d/TERM-154.md), [THEORY-2259](record/theory.d/THEORY-2259.md), [THEORY-1094](record/theory.d/THEORY-1094.md) and [LEAD-215](record/leads.d/LEAD-215.md). No status changed.
+
+### Added
+
+- The works cited in a 2026 interview with Michael Tomasello: Tomasello
+  2020 (roles), Bohn, Kachel and Tomasello 2019, Schelling 1957, Davidson
+  1982 and Block 2026 read; Origins of Human Communication, A Natural
+  History of Human Thinking, The Strategy of Conflict, On Language Change,
+  The Irrational Decision and The Hidden Spring registered and read
+  through stand-ins; The Normative Turn (abstract) and The Agency Gap
+  (poster) registered.
+- The interview itself ("What a Squirrel Knows That Language Models Skip"),
+  read from the owner's transcript, with a NOTE, a THEORY bearing on
+  [QUESTION-009](record/questions.d/QUESTION-009.md), and dated notes on [QUESTION-009](record/questions.d/QUESTION-009.md) and the agency typology.
+
+### Added
+
+- Tomasello read at the owner's request: shared intentionality (2005,
+  [LIT-2902](record/literature.d/LIT-2902.md)), the interdependence hypothesis (2012, [LIT-2921](record/literature.d/LIT-2921.md)) and Tomasello and
+  Vaish (2013, [LIT-2929](record/literature.d/LIT-2929.md)), each with a NOTE and a THEORY; the 2016 book's précis
+  ([LIT-2904](record/literature.d/LIT-2904.md), Unfetched) and The Evolution of Agency ([LIT-2912](record/literature.d/LIT-2912.md), Unavailable)
+  registered, the latter read through two open papers ([LIT-2899](record/literature.d/LIT-2899.md), [LIT-2913](record/literature.d/LIT-2913.md)).
+
+<!-- inactive-ok-file: ADR-108 ADR-068 — Proposed; the decision filed here and the one it changes -->
+### Changed
+
+- [ADR-108](record/decisions.d/ADR-108.md) (Proposed), at the owner's request: delegated readers keep
+  running notes in `scratch/readers/`, outside the record, on branches of
+  their own that they push as they read, so a reading can be seen in
+  flight; the filer deletes the branch when filing, and no downloaded
+  text is committed. [ADR-068](record/decisions.d/ADR-068.md) version 3 (its eighth invariant), and the
+  read-and-file skill's step 6 and reader's brief, changed with it. The
+  workbench was the owner's first proposal; it is a journal whose entries
+  are never rewritten, so it is not used.
+
+### Added
+
+- The second batch of readings from "Rich Get Richer Power Laws": eight works on singular dynamics, sloppiness and small directions, all read. They are Gutenkunst et al., MBAM, Amari et al. 2006, Wei et al. 2008, Song et al., Xu, "Concepts Whisper" and Hoogland et al.
+  - **New:** a demonstrated inequality ([CLAIM-853](record/claims.d/CLAIM-853.md)), the Park-map claim resting on it, and a question on learning-coefficient decreases.
+  - **Registered Deferred:** sixteen works.
+  - **The account:** the curation entry of 2026-11-21, second batch of readings.
+
+### Changed
+
+- **The "sloppy" term ([TERM-140](record/terms.d/TERM-140.md)) is at version 3.** It gains the skew criterion, its picture of the spectrum is corrected, and its contrast with a power-law spectrum is withdrawn. It is retitled.
+- **The hyper-ribbon term ([TERM-135](record/terms.d/TERM-135.md))** now needs a hierarchy of edges.
+- **[CLAIM-835](record/claims.d/CLAIM-835.md) is corrected.** The logit metric and the predictive Fisher differ in a ratio, not by a reversal.
+- **[ARG-139](record/arguments.d/ARG-139.md)** now counts three spectra, not four.
+- **Network singularities** are placed inside the manifold, not at its edges.
+
+### Added
+
+- **Eight readings from the exchange "Rich Get Richer Power Laws"**, each with a NOTE and a Proposed THEORY, its LIT now Active: Newman 2005 ([LIT-2976](record/literature.d/LIT-2976.md)), Clauset, Shalizi and Newman 2009 ([LIT-2987](record/literature.d/LIT-2987.md)), Broido and Clauset 2019 ([LIT-2963](record/literature.d/LIT-2963.md)), Stringer et al. 2019 ([LIT-2972](record/literature.d/LIT-2972.md)), Dandi et al. 2024 ([LIT-2983](record/literature.d/LIT-2983.md)), Park et al. 2026 ([LIT-2990](record/literature.d/LIT-2990.md)), Quinn et al. 2023 ([LIT-2958](record/literature.d/LIT-2958.md)) and Azizpour et al. 2026 ([LIT-2980](record/literature.d/LIT-2980.md)).
+- **Twelve ARGs** for the support judgements, two of them Rejected (Newman for [CLAIM-815](record/claims.d/CLAIM-815.md), Broido and Clauset for [CLAIM-841](record/claims.d/CLAIM-841.md)).
+- **Two rival readings of the owner's truncated-band claim** ([CLAIM-855](record/claims.d/CLAIM-855.md), [CLAIM-856](record/claims.d/CLAIM-856.md)), and a TERM for the senses of "Gibrat" ([TERM-144](record/terms.d/TERM-144.md)), alternative to a note on [CLAIM-830](record/claims.d/CLAIM-830.md).
+- **Sixteen works registered as Deferred**, among them Voitalov et al.'s reply to Broido and Clauset and Gabaix 1999.
+
+### Changed
+
+- **Corrected in place:** [CLAIM-795](record/claims.d/CLAIM-795.md) (Newman grounds four of seven items), [CLAIM-803](record/claims.d/CLAIM-803.md), [CLAIM-841](record/claims.d/CLAIM-841.md), [ARG-141](record/arguments.d/ARG-141.md), [CLAIM-815](record/claims.d/CLAIM-815.md), [CLAIM-847](record/claims.d/CLAIM-847.md), [CLAIM-848](record/claims.d/CLAIM-848.md) (retitled: the smoothness bound is strict and tail-only), [ARG-130](record/arguments.d/ARG-130.md), [CLAIM-799](record/claims.d/CLAIM-799.md), [CLAIM-809](record/claims.d/CLAIM-809.md), [CLAIM-820](record/claims.d/CLAIM-820.md), [TERM-135](record/terms.d/TERM-135.md), [TERM-140](record/terms.d/TERM-140.md), [TERM-142](record/terms.d/TERM-142.md), [TERM-143](record/terms.d/TERM-143.md), [LEAD-212](record/leads.d/LEAD-212.md) and [QUESTION-507](record/questions.d/QUESTION-507.md); the LIT summaries of Newman and Dandi et al. corrected.
+- **Dated notes** on some sixty held entries the readings bear on.
+
+### Added
+
+- Readings of the 85 works registered from "Assess Depp Heard Abuse": 49
+  read or skimmed (NOTE and THEORY each), 15 stand-ins registered and
+  read, 13 Unfetched and 23 Unavailable with where looked and what
+  stopped it; corroborating and grounding relations, 72 dated notes,
+  [CASE-292](record/cases.d/CASE-292.md) (the Tempe crash) and three ARGs where a claim cited a
+  work for more than it carries.
+- [ADR-102](record/decisions.d/ADR-102.md): copies published with the rights holders' stated
+  permission, and replies posted by the scholar they answer beside that
+  scholar's paper, count as lawful copies to read.
+
+### Changed
+
+- The read-and-file skill's step 5 lists the two new kinds of lawful copy.
+
+<!-- inactive-ok-file: CLAIM-767 CLAIM-769 CLAIM-771 CLAIM-772 CLAIM-775 CLAIM-780 TERM-132 — Proposed; cited in the readings of 2026-11-21 -->
+### Added
+
+- Readings of 2026-11-21, with the curation entry of that date, 001254:
+  fourteen works read (semicontraction, metastability, μP and its depth
+  scaling, the spectral condition, the modular norm and modular duality,
+  lazy training, and four interpretability studies of transformer depth),
+  each with a NOTE and a Proposed THEORY; Ogielski and Stein and Sozou
+  Unfetched and read through four neighbours; [CLAIM-769](record/claims.d/CLAIM-769.md), hyperbolic
+  discounting as an average of exponentials over a spread of rates.
+
+### Changed
+
+- Revised from the readings: [CLAIM-772](record/claims.d/CLAIM-772.md) (version 3), [TERM-132](record/terms.d/TERM-132.md),
+  [CLAIM-780](record/claims.d/CLAIM-780.md) (version 3; its bounded hyperbolicity is trivial, and the
+  record does hold Freidlin–Wentzell), [QUESTION-501](record/questions.d/QUESTION-501.md), [CLAIM-767](record/claims.d/CLAIM-767.md),
+  [CLAIM-775](record/claims.d/CLAIM-775.md) and [CLAIM-771](record/claims.d/CLAIM-771.md); three leads closed; dated notes on
+  seven entries.
+
+### Added
+
+- **Nine readings on power-law mechanisms from the exchange "Rich Get Richer Power Laws"**, each with a NOTE and a Proposed THEORY, its LIT now Active: Beck and Cohen ([LIT-2962](record/literature.d/LIT-2962.md)), Corominas-Murtra et al. ([LIT-2997](record/literature.d/LIT-2997.md)), Reed and Hughes ([LIT-3007](record/literature.d/LIT-3007.md)), Krapivsky et al. ([LIT-2974](record/literature.d/LIT-2974.md)), Barabási and Albert ([LIT-3004](record/literature.d/LIT-3004.md)), Barabási's chapter 5 ([LIT-2968](record/literature.d/LIT-2968.md)), Merton ([LIT-3002](record/literature.d/LIT-3002.md)), Bak, Tang and Wiesenfeld ([LIT-2992](record/literature.d/LIT-2992.md)). Kesten ([LIT-3005](record/literature.d/LIT-3005.md)) is Unfetched, read through two stand-ins ([LIT-3043](record/literature.d/LIT-3043.md), [LIT-3045](record/literature.d/LIT-3045.md)).
+- **Ten ARGs**, one Rejected (Merton does not carry "one feedback").
+- **Three claims in the assistant's voice**, two demonstrated by computation: the mixture-tail condition ([CLAIM-857](record/claims.d/CLAIM-857.md)), the sandpile cutoff ([CLAIM-858](record/claims.d/CLAIM-858.md)), and the structured-share pattern ([CLAIM-859](record/claims.d/CLAIM-859.md)); and a TERM for the two senses of "Matthew effect" ([TERM-145](record/terms.d/TERM-145.md)).
+
+### Changed
+
+- **Corrected in place:** [CLAIM-795](record/claims.d/CLAIM-795.md), [CLAIM-817](record/claims.d/CLAIM-817.md), [CLAIM-806](record/claims.d/CLAIM-806.md), [CLAIM-830](record/claims.d/CLAIM-830.md), [CLAIM-824](record/claims.d/CLAIM-824.md), [ARG-140](record/arguments.d/ARG-140.md), [ARG-168](record/arguments.d/ARG-168.md), [QUESTION-508](record/questions.d/QUESTION-508.md), [CLAIM-841](record/claims.d/CLAIM-841.md) and [LEAD-209](record/leads.d/LEAD-209.md); [LIT-2992](record/literature.d/LIT-2992.md)'s title corrected to the printed one.
+- **Dated notes** on some forty held entries the readings bear on.
+
+### Added
+
+- **Eighteen readings from the exchange "Rich Get Richer Power Laws"**, rounds 2 and 3 of its remaining 27, each with a NOTE and a Proposed THEORY: KPZ, Takeuchi and Sano, Toner and Tu, Gingrich et al., Shalizi and Moore, Crutchfield and Feldman, Yang et al. 2023, Ansuini et al., Wang et al., Cai et al., Martínez-Sánchez et al., Yang 2026, Lee et al., Ghadimi Atigh et al. and Bui et al. read; Kosterlitz and Thouless (Unfetched), Mermin and Wagner and Bertschinger and Natschläger (Unavailable) read through registered stand-ins.
+- **Sixteen ARGs**, three Rejected; **three claims in the assistant's voice** ([CLAIM-862](record/claims.d/CLAIM-862.md), symmetry-protected scale-free phases; [CLAIM-861](record/claims.d/CLAIM-861.md), question-relativity of coarse-graining, alternative to a note on [QUESTION-517](record/questions.d/QUESTION-517.md); [CLAIM-860](record/claims.d/CLAIM-860.md), entailment cones raise norms, demonstrated); **[TERM-146](record/terms.d/TERM-146.md)**, emergence by predictive efficiency.
+
+### Changed
+
+- **Corrected in place:** [CLAIM-841](record/claims.d/CLAIM-841.md), [CLAIM-842](record/claims.d/CLAIM-842.md), [QUESTION-508](record/questions.d/QUESTION-508.md), [LEAD-209](record/leads.d/LEAD-209.md), [CLAIM-809](record/claims.d/CLAIM-809.md), [QUESTION-507](record/questions.d/QUESTION-507.md), [TERM-141](record/terms.d/TERM-141.md), [CLAIM-799](record/claims.d/CLAIM-799.md), [CLAIM-800](record/claims.d/CLAIM-800.md), [CLAIM-798](record/claims.d/CLAIM-798.md), [CLAIM-810](record/claims.d/CLAIM-810.md), [TERM-136](record/terms.d/TERM-136.md), [LEAD-210](record/leads.d/LEAD-210.md), [CLAIM-807](record/claims.d/CLAIM-807.md), [CLAIM-828](record/claims.d/CLAIM-828.md), [CLAIM-839](record/claims.d/CLAIM-839.md); LIT summaries of Shalizi and Moore, Wang et al., Ghadimi Atigh et al. and Lee et al. corrected.
+- **Dated notes** on about 150 held entries the readings bear on.
+
+### Added
+
+- Batches A and B of the Unfetched sweep's reading queue, filed from two readers' reports checked against the copies. Read in full and moved to Active, each with a NOTE and a Proposed THEORY: Martela and Ryan 2019 on beneficence and basic wellness enhancers ([LIT-1983](record/literature.d/LIT-1983.md)), Čater, Čater and Ivašković on fan identity and the Super League ([LIT-1138](record/literature.d/LIT-1138.md)), Mulgan on corporate agency and possible futures ([LIT-1874](record/literature.d/LIT-1874.md)), Dorsch, Coeckelbergh and Vierkant on engagement algorithms and epistemic agency ([LIT-2373](record/literature.d/LIT-2373.md)), and Caliari on behavioural welfare analysis ([LIT-2363](record/literature.d/LIT-2363.md)). Lubics et al. ([LIT-1980](record/literature.d/LIT-1980.md)) stays Unfetched behind Springer's bot check; Martela and Ryan 2021 is registered and read as its stand-in, in part ([LIT-3085](record/literature.d/LIT-3085.md)). Dated notes on the 37 entries the readings bear on, among them corrections to [NOTE-440](record/notes.d/NOTE-440.md) and [NOTE-1253](record/notes.d/NOTE-1253.md). The curation entry of 2026-11-22 11:34 lists what was filed and what was left.
+
+### Fixed
+
+- [LIT-1138](record/literature.d/LIT-1138.md)'s pagination, now the copy's online-first pages 1–20, and [LIT-2373](record/literature.d/LIT-2373.md)'s citation, now Synthese 208, article 164.
+
+### Added
+
+- Batch C of the Unfetched sweep's reading queue. Ivern and Carbonell's scoping review of loot-box design features ([LIT-2447](record/literature.d/LIT-2447.md)) is read in full and moved to Active, with a NOTE and a Proposed THEORY. The PNAS article on AlphaEvolve ([LIT-2328](record/literature.d/LIT-2328.md)) stays Unfetched; the further reading of its preprint's §6 is filed as dated notes on [LIT-2474](record/literature.d/LIT-2474.md) and [NOTE-1825](record/notes.d/NOTE-1825.md), with the reader's revision of [THEORY-1776](record/theory.d/THEORY-1776.md) proposed in a dated note for the owner. Biological Autonomy ([LIT-536](record/literature.d/LIT-536.md)) is unchanged; two of its authors' papers are registered and read as stand-ins, in part: Mossio and Moreno 2010 ([LIT-3086](record/literature.d/LIT-3086.md)) and Bich, Mossio, Ruiz-Mirazo and Moreno 2016 ([LIT-3087](record/literature.d/LIT-3087.md)). Dated notes on the entries the readings bear on. The curation entry of 2026-11-22 11:45 lists what was filed and what was left.
+
+### Fixed
+
+- [LIT-2447](record/literature.d/LIT-2447.md)'s citation, now Current Addiction Reports 13, article 64.
+
+### Added
+
+- Batch D of the Unfetched sweep's reading queue: four works read and moved to Active, each with a NOTE and a Proposed THEORY. Metzinger's argument for a moratorium on synthetic phenomenology until 2050 ([LIT-1947](record/literature.d/LIT-1947.md)), Howard, Gagné and Bureau's meta-analysis of the motivation continuum, read from the authors' manuscript through Figshare's API ([LIT-1996](record/literature.d/LIT-1996.md)), Burning Man's 10 Principles from the organization's own page ([LIT-2175](record/literature.d/LIT-2175.md)), and Syropoulos, Law, Coleman and Young on self-oriented prospection and concern for future generations ([LIT-3082](record/literature.d/LIT-3082.md)). Dated notes on the entries the readings bear on, among them a correction to [CLAIM-603](record/claims.d/CLAIM-603.md)'s reading of Radical Self-reliance. The curation entry of 2026-11-22 11:59 lists what was filed and what was left.
+
+### Fixed
+
+- [LIT-1947](record/literature.d/LIT-1947.md)'s licence (CC BY 4.0), [LIT-2175](record/literature.d/LIT-2175.md)'s address (/about-us/10-principles/), and [LIT-3082](record/literature.d/LIT-3082.md)'s author order and version read.
+
+<!-- inactive-ok-file: LIT-2793 LIT-2837 LIT-2842 — Deferred; registered in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CASE-294 CLAIM-757 CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
+### Added
+
+- The forty-six works registered from the exchange "Topological
+  protection explained" read on 2026-11-19 in nine delegated batches,
+  with the curation entry of 2026-11-19, 071802: thirty-seven read and
+  seven skimmed, each with a NOTE and a Proposed THEORY. Ibrahim 2006 is
+  Unavailable and Kaschube et al. 2010 Unfetched; their stand-ins,
+  Ibrahim 2013 and Kaschube, Schnabel and Wolf 2008, are registered and
+  read.
+- Dated notes on fifty entries. Among them: no reading shows
+  overconsolidation's full signature ([CLAIM-758](record/claims.d/CLAIM-758.md)); Dohare et al. read
+  against the deadline claim's antecedent ([CLAIM-757](record/claims.d/CLAIM-757.md)); Velarde et
+  al. narrow the owner's fibration question ([QUESTION-492](record/questions.d/QUESTION-492.md)); and the
+  Pythia study gains its design cautions ([CASE-294](record/cases.d/CASE-294.md)).
+
+- Three works the readings pointed to, registered Deferred at the
+  owner's request: Wang and Slotine on partial contraction ([LIT-2837](record/literature.d/LIT-2837.md)),
+  Chen et al.'s "Stochastic Collapse" ([LIT-2793](record/literature.d/LIT-2793.md)) and Poole et al. on
+  transient chaos ([LIT-2842](record/literature.d/LIT-2842.md)).
+
+### Changed
+
+- Three LITs' published dates move to the arXiv versions read, which
+  predate the journal articles ([ADR-002](record/decisions.d/ADR-002.md)).
+- [CLAIM-758](record/claims.d/CLAIM-758.md) v2 and [CLAIM-757](record/claims.d/CLAIM-757.md) v2, revised after the readings at
+  the owner's request: overconsolidation's later family lies outside the
+  training task distribution and counts collateral forgetting as cost;
+  the deadline claim now states two branches, decay with disuse and
+  depletion by use, and the evidence fits depletion.
+
+### Added
+
+- [ADR-120](record/decisions.d/ADR-120.md), at the owner's proposal: a reframe of an entry is recorded
+  in the entry's own prose, in a dated Reframings section. First applied to
+  [CLAIM-772](record/claims.d/CLAIM-772.md) and [CLAIM-778](record/claims.d/CLAIM-778.md), for the reframes of 2026-11-20.
+
+### Added
+
+- [ADR-121](record/decisions.d/ADR-121.md), at the owner's grant: with the dialectic regime on, the assistant
+  merges its pull requests into staging when green and ready; the owner
+  reviews at the promotion to main. Filed with the wider reading, [ADR-119](record/decisions.d/ADR-119.md), any
+  pull request into staging.
+
+### Changed
+
+- Fifty-six entries had lost the temporary codes in their `formerly:` lists: a code-rewriting step after a promotion wrote each entry's own concrete code there. Twenty-eight were lost on staging at the merge of pull request 746 and are restored from main. Twenty-eight were already lost on main from earlier merges and are restored from the earliest concretized version in history. After the restore no entry lists itself and no temporary code is claimed twice.
+- The run-lead skill now says how to merge staging into a branch after a promotion: rewrite cited temporary codes, never a `formerly:` list, and check the result.
+
+### Changed
+
+- [RETRO-004](record/retrospectives.d/RETRO-004.md)'s summary is corrected (version 3) at the owner's ruling of 2026-11-21. It no longer says the LEAD scheme's derived converses "are declared but never written"; it now says their blurbs wrongly claimed they were written, which is what the body found.
+
+### Added
+
+- [RETRO-005](record/retrospectives.d/RETRO-005.md), the retrospective of the night of 2026-11-21 after
+  [RETRO-001](record/retrospectives.d/RETRO-001.md): staging, the dialectic regime, First Contact and the adoption
+  review; it answers the owner's earmark and follows up [RETRO-001](record/retrospectives.d/RETRO-001.md).
+
+### Added
+
+- [ADR-126](record/decisions.d/ADR-126.md), at the owner's request: an earmark for the retrospective
+  becomes a devlog note tagged `retro` and `earmarked`, and the next
+  retrospective answers each one. Filed with its alternative readings,
+  [ADR-118](record/decisions.d/ADR-118.md) and [ADR-123](record/decisions.d/ADR-123.md) (persist and standardize as two decisions)
+  and [ADR-122](record/decisions.d/ADR-122.md) (the convention as a procedure apart from the decision),
+  for the owner to choose among.
+
+### Added
+
+- [RETRO-009](record/retrospectives.d/RETRO-009.md): a retrospective of the lead backlog run of 2026-11-22 to 23 (about 120 lead pull requests). It covers what went right and wrong, and six recommendations, at the owner's "retro".
+
+<!-- inactive-ok-file: RETRO-006 — Draft; filed in this contribution -->
+
+### Added
+
+- [RETRO-006](record/retrospectives.d/RETRO-006.md): a retrospective of the session that drafted the manuscript "From Obstruction to Reorganization" (pull request 555), filed its principles and census (557) and reopened anchoring (583). Six recommendations, none yet a decision.
+
+### Changed
+
+- [RETRO-006](record/retrospectives.d/RETRO-006.md) (version 2) records the owner's responses to its six recommendations, and what was done about each.
+
+### Added
+
+- A retrospective of the filing of "Rich Get Richer Power Laws" and the evening after ([RETRO-008](record/retrospectives.d/RETRO-008.md)). It covers pull requests 608 to 612.
+  - **Going right:** separate readers checked the drafters' work, numerical checks caught the other assistant's errors, and the owner's corrections became rules the same evening.
+  - **Going wrong:** four times the owner caught the assistant settling for one reading, one framing or one file where all were wanted. There were also faults from a shared working tree, and from writing about work still in flight.
+  - **Recommendations:** four.
+
+<!-- inactive-ok-file: RETRO-007 — Draft; filed in this contribution -->
+
+### Added
+
+- [RETRO-007](record/retrospectives.d/RETRO-007.md): a retrospective of the owner's rulings on the promotion pull request of 2026-11-21, the twelve pull requests they became, and the promotion that followed. Five recommendations, none yet a decision.
+
+<!-- inactive-ok-file: ADR-115 RETRO-003 RETRO-004 RETRO-002 RETRO-001 POSTMORTEM-004 POSTMORTEM-001 POSTMORTEM-002 POSTMORTEM-003 ADR-110 ADR-112 — Proposed, Draft or Superseded; this contribution of 2026-11-21 -->
+### Added
+
+- A RETRO scheme for retrospectives, reviews of how a change or a stretch of
+  work went, what went right as well as wrong ([ADR-115](record/decisions.d/ADR-115.md), at the owner's
+  request). The devlog is now where notes for the next retrospective are
+  taken during the work, tagged `retro`.
+- The first retrospective under it, [RETRO-001](record/retrospectives.d/RETRO-001.md), on the session of
+  2026-11-20 and 21, reading the first three devlog entries; and
+  [POSTMORTEM-004](record/postmortems.d/POSTMORTEM-004.md), on that session's unread docs-check failure.
+
+### Changed
+
+- POSTMORTEM narrowed to reviews of something that went wrong; [ADR-110](record/decisions.d/ADR-110.md)'s
+  triggers divided between the two schemes.
+- [POSTMORTEM-001](record/postmortems.d/POSTMORTEM-001.md), [POSTMORTEM-002](record/postmortems.d/POSTMORTEM-002.md) and [POSTMORTEM-003](record/postmortems.d/POSTMORTEM-003.md) converted to
+  retrospectives ([RETRO-003](record/retrospectives.d/RETRO-003.md), [RETRO-004](record/retrospectives.d/RETRO-004.md), [RETRO-002](record/retrospectives.d/RETRO-002.md)) and retired
+  by status.
+
+### Added
+
+- The line rightful-power ("Rightful power: restriction, answerability
+  and rights"), added beside dependence-and-domination and
+  organizational-normativity by [ADR-103](record/decisions.d/ADR-103.md): six root questions carry it
+  first, twenty entries take it under [ADR-085](record/decisions.d/ADR-085.md) (eight through relations
+  written where they argued a root), and [SYNTHESIS-100](record/syntheses.d/SYNTHESIS-100.md) is its account.
+
+### Changed
+
+- The run-lead skill's filing step now says that relation fields take the kinds docs/record.md names, and that `bears_on` on a CLAIM or CASE takes QUESTION codes only. [LEAD-020](record/leads.d/LEAD-020.md)'s branch of 2026-11-22 put CLAIM codes there, and docs-check failed on it.
+
+### Changed
+
+- The run-lead skill: an excuse's reason names no code other than those it
+  excuses. [LEAD-145](record/leads.d/LEAD-145.md)'s and [LEAD-106](record/leads.d/LEAD-106.md)'s runs both failed docs-check's repair
+  step (PruneChangedFindings) on excuses whose reason named the lead.
+
+### Changed
+
+- The run-lead skill's shared-machine rule now forbids deleting or overwriting anything outside a worker's own scratchpad subdirectory and worktree, naming shared device nodes in particular. A [LEAD-023](record/leads.d/LEAD-023.md) run of 2026-11-22 ran `mv <file> /dev/null` as root, replacing /dev/null for every worker on the machine for about a minute before it was restored.
+
+### Changed
+
+- The run-lead skill's step 5 now says that workers share one machine: stop only the processes you started, by PID, never by `pkill` or `killall` on a name, and keep scratch files in a subdirectory named after the lead. [LEAD-077](record/leads.d/LEAD-077.md)'s run was killed twice on 2026-11-22 by another worker's process kill.
+
+<!-- inactive-ok-file: LEAD-008 CLAIM-756 CLAIM-758 ARG-122 — not in force; filed or noted in this contribution of 2026-11-19 -->
+### Added
+
+- The scheduling follow-up readings (curation entry of 2026-11-19,
+  213652), completing [LEAD-008](record/leads.d/LEAD-008.md). Fifteen works on what early data
+  does to the cost of later learning, each with a NOTE and a Proposed
+  THEORY:
+  - code first;
+  - early general or conversational text;
+  - data order, curricula and phases;
+  - transfer measured as effective data.
+- Two of them corroborate [CLAIM-756](record/claims.d/CLAIM-756.md); one corroborates [CLAIM-758](record/claims.d/CLAIM-758.md).
+- [ARG-122](record/arguments.d/ARG-122.md) weighs the first-phase instances against a
+  compute-matched null.
+- Dated notes on twenty entries.
+
+### Changed
+
+- Docs runs on pushes to the default branch now wait for one another
+  ([ADR-105](record/decisions.d/ADR-105.md)): two merges minutes apart no longer start
+  two generate runs that race and leave main's views stale.
+
+### Added
+
+- [ADR-128](record/decisions.d/ADR-128.md) (Proposed): a pull request description with several writers is divided into marked sections, each kept by one writer. Every edit reads the description just before writing and writes only if it is unchanged, and a wrong line is corrected rather than the body rebuilt. CLAUDE.md points to it. The first application is the promotion pull request's description. At the owner's go of 2026-11-21.
+
+### Changed
+
+- Every work read for the record gets its own LIT and NOTE, stand-ins and
+  supplements included, and is filed as what it is ([ADR-114](record/decisions.d/ADR-114.md), the owner's
+  ruling of 2026-11-20). The read-and-file skill says so. First
+  application: the Stanford Encyclopedia entry on Kuhn, Matthews's 2022
+  opinion piece and three of Recht's posts, quoted in earlier NOTEs
+  without entries.
+
+<!-- inactive-ok-file: ADR-116 — Proposed; this contribution of 2026-11-21 -->
+### Added
+
+- A `staging` branch and a Promote workflow ([ADR-116](record/decisions.d/ADR-116.md), at the owner's
+  request): work merges into staging through pull requests, and Promote
+  merges staging into main nightly or on demand, concretizing the batch's
+  temporary codes at once and merging main back into staging.
+
+### Changed
+
+- [ADR-071](record/decisions.d/ADR-071.md): branches are cut from staging and pull requests target it.
+  CLAUDE.md's working section says so. The stack of pull requests 558 to 563
+  folded into staging as the first application.
+
+### Changed
+
+- Status review of 2026-11-18 ([ADR-057](record/decisions.d/ADR-057.md)): 25 entries promoted across six
+  clusters, among them [CASE-233](record/cases.d/CASE-233.md), which clears the credence inversion
+  under [CLAIM-571](record/claims.d/CLAIM-571.md). [CLAIM-285](record/claims.d/CLAIM-285.md), 336 and 375 move off the Superseded [TERM-053](record/terms.d/TERM-053.md).
+  Concessions are written into [CLAIM-687](record/claims.d/CLAIM-687.md) and [CLAIM-303](record/claims.d/CLAIM-303.md). Unneeded `uses`
+  and `grounds` edges are dropped, [QUESTION-098](record/questions.d/QUESTION-098.md)'s two partial answers
+  become `bears_on`, and every entry kept Proposed says what holds it
+  back. Three garbled filer sentences are repaired.
+- The owner's rulings on the pass are applied. [QUESTION-098](record/questions.d/QUESTION-098.md) is split, and
+  its answered part is a new Answered question. [THEORY-1836](record/theory.d/THEORY-1836.md) gets its paired
+  Proposed thesis. [CLAIM-689](record/claims.d/CLAIM-689.md) is narrowed and promoted, and the clause it
+  drops is filed as a Proposed claim. The objection to [CLAIM-729](record/claims.d/CLAIM-729.md) is filed
+  as a counter claim.
+
+### Changed
+
+- Status review of 2026-11-20 ([ADR-057](record/decisions.d/ADR-057.md)), prioritised by proximity to the
+  draft manuscript of pull request 555. Eleven entries promoted: [CLAIM-635](record/claims.d/CLAIM-635.md),
+  639, 625, 632 and 633 on re-derivations with checked scripts; [CLAIM-629](record/claims.d/CLAIM-629.md)
+  and 759 after narrowing a mis-stated clause; [THEORY-1894](record/theory.d/THEORY-1894.md) under [ADR-065](record/decisions.d/ADR-065.md),
+  with its paired thesis; and [CLAIM-329](record/claims.d/CLAIM-329.md), 761 and 760 as interpretive
+  rulings. [QUESTION-395](record/questions.d/QUESTION-395.md) and [QUESTION-127](record/questions.d/QUESTION-127.md) are split,
+  each with an Answered child. [CLAIM-697](record/claims.d/CLAIM-697.md) moves a reading from `grounds`
+  to `corroborated_by`. Nineteen entries kept Proposed say what holds them
+  back, and three syntheses that quoted a narrowed clause are corrected.
+- The status-review procedure says how a proposed study is treated: it
+  goes Active only once it is run, and a claim's `grounds` on the study
+  that would test it stays (the owner's ruling of 2026-11-20).
+
+### Changed
+
+- Status review of the promotion batch of 2026-11-23. Eight simulation CASEs were rerun and reproduced, and promoted. Four THEORYs and forty-four claims went Active, and [QUESTION-025](record/questions.d/QUESTION-025.md) was answered. Three recent claims were corrected after re-derivation. Forty-seven entries were kept with a note saying what holds each back; about a third of them wait on readings the owner holds.
+
+### Changed
+
+- The record's 35 older Rejected arguments are brought under the decision of 2026-11-21 on argument titles ([ADR-136](record/decisions.d/ADR-136.md), pull request 611). Seven are retitled to lead with their grounds and step: [ARG-002](record/arguments.d/ARG-002.md), [ARG-004](record/arguments.d/ARG-004.md), [ARG-027](record/arguments.d/ARG-027.md), [ARG-042](record/arguments.d/ARG-042.md), [ARG-052](record/arguments.d/ARG-052.md), [ARG-053](record/arguments.d/ARG-053.md) and [ARG-071](record/arguments.d/ARG-071.md). Two of these, [ARG-052](record/arguments.d/ARG-052.md) and [ARG-071](record/arguments.d/ARG-071.md), had titles that stated the verdict ("does not establish"), so their Rejected status read as rejecting the negation. All 35 gain a sentence saying where the conclusion's own standing lives. No verdict or status changed.
+
+### Added
+
+- Three entries for conclusions the sweep left without one in force, on the owner's view that they "don't look useless". Each takes the kind of entry its content calls for:
+  - [QUESTION-513](record/questions.d/QUESTION-513.md) asks whether a pragmatic frame takes part in determining meaning. [CLAIM-109](record/claims.d/CLAIM-109.md)'s thesis is held open, now that the route to it is rejected and the claim superseded.
+  - [QUESTION-509](record/questions.d/QUESTION-509.md) asks how common signalling is in language data under unbiased estimation. This is [ARG-037](record/arguments.d/ARG-037.md)'s empirical question.
+  - [CASE-304](record/cases.d/CASE-304.md) is the HKB model near its fold, an instance of [CLAIM-521](record/claims.d/CLAIM-521.md)'s dissociation. [ARG-068](record/arguments.d/ARG-068.md)'s body computed it, and the numbers were rechecked.
+- [QUESTION-506](record/questions.d/QUESTION-506.md) asks whether cumulative advantage shapes the upper tail of city sizes even where relative sizes recover after a shock. It comes from a review of all 37 Rejected arguments for undocumented questions, where it was the only one to clear the bar, and was filed on the owner's prompt. [ARG-127](record/arguments.d/ARG-127.md) is corrected: the record holds three readings on city sizes, not one.
+
+### Added
+
+- The synthesis review of 2026-11-21 (curation entry of that date).
+  - Two line accounts: [SYNTHESIS-118](record/syntheses.d/SYNTHESIS-118.md), over `learning-and-inquiry`'s eight parts and three claims, and [SYNTHESIS-117](record/syntheses.d/SYNTHESIS-117.md), the first for `flourishing-and-meaning`.
+  - [CLAIM-191](record/claims.d/CLAIM-191.md), [CLAIM-778](record/claims.d/CLAIM-778.md) and [CLAIM-772](record/claims.d/CLAIM-772.md) gain "Admission" sections recording what each adds, and dated notes on misstated premises.
+  - [CLAIM-556](record/claims.d/CLAIM-556.md) has a note that it adds nothing and that its defeater is met, with its supersession left to the owner.
+  - [CLAIM-781](record/claims.d/CLAIM-781.md) has a note scoping its defeater (b) to finite rates.
+
+### Changed
+
+- [SYNTHESIS-048](record/syntheses.d/SYNTHESIS-048.md) (version 2) integrates [CLAIM-672](record/claims.d/CLAIM-672.md), [CLAIM-770](record/claims.d/CLAIM-770.md) and [CLAIM-781](record/claims.d/CLAIM-781.md) on [QUESTION-281](record/questions.d/QUESTION-281.md). [SYNTHESIS-114](record/syntheses.d/SYNTHESIS-114.md) gives [CLAIM-761](record/claims.d/CLAIM-761.md) as Active.
+
+### Changed
+
+- Synthesis review of 2026-11-23. Twenty-two accounts were revised to integrate in-force entries of their lines that no account held. [QUESTION-476](record/questions.d/QUESTION-476.md)'s claims are mapped, and [SYNTHESIS-091](record/syntheses.d/SYNTHESIS-091.md) is refreshed. [CLAIM-556](record/claims.d/CLAIM-556.md) and [CLAIM-942](record/claims.d/CLAIM-942.md) were audited as adding nothing; whether to supersede them is left to the owner. Self-correction is put to the owner as a candidate line.
+
+### Changed
+
+- Follow-up synthesis review of dependence-and-domination and
+  organizational-normativity, after the readings of "Assess Depp Heard
+  Abuse" and the reconciliation of its two filings: eleven accounts
+  revised ([SYNTHESIS-095](record/syntheses.d/SYNTHESIS-095.md), 098, 099, 101, 103, 038, 091, 094, 102, 104 and
+  100), the first filing's uncovered entries integrated, the readings'
+  support mapped component by component, [CLAIM-700](record/claims.d/CLAIM-700.md)'s second admission
+  route replaced. No claim filed. The evidence on a new line and a work
+  is in the curation entry, for the owner.
+
+### Added
+
+- Interim synthesis review of dependence-and-domination and
+  organizational-normativity after the filing of "Assess Depp Heard
+  Abuse": six part accounts ([SYNTHESIS-099](record/syntheses.d/SYNTHESIS-099.md), [SYNTHESIS-101](record/syntheses.d/SYNTHESIS-101.md),
+  [SYNTHESIS-098](record/syntheses.d/SYNTHESIS-098.md), [SYNTHESIS-103](record/syntheses.d/SYNTHESIS-103.md), [SYNTHESIS-102](record/syntheses.d/SYNTHESIS-102.md),
+  [SYNTHESIS-104](record/syntheses.d/SYNTHESIS-104.md)), [SYNTHESIS-091](record/syntheses.d/SYNTHESIS-091.md) and [SYNTHESIS-094](record/syntheses.d/SYNTHESIS-094.md) revised, the line
+  accounts [SYNTHESIS-095](record/syntheses.d/SYNTHESIS-095.md) and [SYNTHESIS-038](record/syntheses.d/SYNTHESIS-038.md) revised over them, and, at the
+  owner's request, [SYNTHESIS-100](record/syntheses.d/SYNTHESIS-100.md): the exchange's argument mapped,
+  with how it developed from A26 to A110. No claim filed. A follow-up
+  review is due after the readings; a new line and a work are deferred
+  to it.
+
+### Added
+
+- Synthesis review of the learned-structure line (2026-11-18): two part
+  accounts for the entries filed on 2026-11-15, modes
+  ([SYNTHESIS-097](record/syntheses.d/SYNTHESIS-097.md)) and latent capability ([SYNTHESIS-096](record/syntheses.d/SYNTHESIS-096.md)); an
+  "Admission" for [CLAIM-699](record/claims.d/CLAIM-699.md), which passes [ADR-075](record/decisions.d/ADR-075.md)'s test by a separating
+  case and a discriminating prediction.
+
+### Fixed
+
+- Accounts brought up to date with their components: [SYNTHESIS-026](record/syntheses.d/SYNTHESIS-026.md),
+  [SYNTHESIS-028](record/syntheses.d/SYNTHESIS-028.md), [SYNTHESIS-029](record/syntheses.d/SYNTHESIS-029.md) and [SYNTHESIS-034](record/syntheses.d/SYNTHESIS-034.md) at version 2, and the
+  line's account [SYNTHESIS-030](record/syntheses.d/SYNTHESIS-030.md) at version 2 over eight parts, with its
+  counts redone. Links that the notes of 2026-11-11 stated are no longer
+  listed as unstated.
+- [QUESTION-217](record/questions.d/QUESTION-217.md)'s note of 2026-11-15 said the moving-basis term adds a
+  third order; the question has three, so it adds a fourth.
+
+### Fixed
+
+- Synthesis review of the realizability line (2026-11-18): the four part
+  accounts ([SYNTHESIS-040](record/syntheses.d/SYNTHESIS-040.md), [SYNTHESIS-042](record/syntheses.d/SYNTHESIS-042.md), [SYNTHESIS-045](record/syntheses.d/SYNTHESIS-045.md), [SYNTHESIS-046](record/syntheses.d/SYNTHESIS-046.md))
+  and the line's account ([SYNTHESIS-043](record/syntheses.d/SYNTHESIS-043.md)) revised to version 2. They now
+  integrate the 20 entries that joined the line after 2026-11-11, and
+  they record their components' later notes.
+
+### Added
+
+- An "Admission" for [CLAIM-532](record/claims.d/CLAIM-532.md), carrying out the follow-up the review of
+  2026-11-11 left. Its separating case is also the case its own
+  defeated_if names. [QUESTION-488](record/questions.d/QUESTION-488.md) asks whether a self-made change
+  of precedence among existing regimes counts as self-formation.
+
+### Changed
+
+- [CLAIM-532](record/claims.d/CLAIM-532.md), at the owner's direction, restated from a definition of
+  self-formation to an occasion and a sufficient condition, with a new
+  distinction and a new channel defined by the agent's policy and
+  reachable outcomes rather than by mechanism.
+
+<!-- inactive-ok-file: LEAD-006 CLAIM-756 — not in force; filed or noted in this contribution of 2026-11-19 -->
+### Added
+
+- The task-composition readings (curation entry of 2026-11-19, 221251), the
+  owner's direction on [LEAD-006](record/leads.d/LEAD-006.md) to look for prior research first. A
+  search and eight works, each with a NOTE and a Proposed THEORY. Five
+  corroborate [CLAIM-756](record/claims.d/CLAIM-756.md). No work runs the lead's full design; the lead's
+  dated note maps which parts each covers. Dated notes on fourteen
+  entries.
+
+<!-- inactive-ok-file: THEORY-2004 THEORY-2017 ADR-107 ARG-119 TERM-131 — Proposed; filed in this contribution of 2026-11-19 -->
+### Added
+
+- [ADR-107](record/decisions.d/ADR-107.md) (accepted by the owner): an ARG may conclude a TERM, in a new form,
+  `explication`, whose critical questions are Carnap's adequacy
+  conditions and the rivals a definition is judged against; the TERM's
+  `argued_by` is derived. Its first application, [ARG-119](record/arguments.d/ARG-119.md), argues
+  that the definition of learning ([TERM-131](record/terms.d/TERM-131.md)) does its job better
+  than a definition by improved performance, with two questions answered
+  only in part.
+- Carnap's *Logical Foundations of Probability* (1950), registered and
+  its chapter on explication read at the owner's request ([LIT-2818](record/literature.d/LIT-2818.md),
+  [NOTE-2110](record/notes.d/NOTE-2110.md), [THEORY-2017](record/theory.d/THEORY-2017.md)), as the provenance of the explication
+  form's critical questions. The reading adds a question, whether the
+  explicandum is clear by examples, and loosens similarity to allow
+  departures paid for by fruitfulness.
+- Carnap's *Logical Foundations of Probability* read in full at the
+  owner's request ([NOTE-2110](record/notes.d/NOTE-2110.md) version 2, [THEORY-2004](record/theory.d/THEORY-2004.md); curation
+  entry of 2026-11-19, 175403). The explication form gains Carnap's own
+  tests from later chapters; [ARG-119](record/arguments.d/ARG-119.md) version 2 finds the
+  performance definition of learning an explicatum of another
+  explicandum, not a rival; dated notes on [CLAIM-472](record/claims.d/CLAIM-472.md), [CLAIM-293](record/claims.d/CLAIM-293.md),
+  [CLAIM-294](record/claims.d/CLAIM-294.md), [CLAIM-401](record/claims.d/CLAIM-401.md), [THEORY-1239](record/theory.d/THEORY-1239.md) and [THEORY-1797](record/theory.d/THEORY-1797.md).
+- [THEORY-2017](record/theory.d/THEORY-2017.md) promoted to Active at the owner's request, with
+  bears_on [QUESTION-458](record/questions.d/QUESTION-458.md); dated notes from the Carnap reading on
+  twenty-eight further entries, each saying which kind of bearing it is.
+
+### Changed
+
+- The read-and-file skill, step 8: notes on every bearing a reader
+  reports, weaker ones included, are part of every reading, with a
+  relation only where the reading is named as evidence; and when a
+  reading meets a THEORY's promote_when, say so.
+
+<!-- inactive-ok-file: SYNTHESIS-107 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: SYNTHESIS-030 SYNTHESIS-043 SYNTHESIS-088 SYNTHESIS-105 SYNTHESIS-106 SYNTHESIS-108 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-757 CLAIM-759 CLAIM-760 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: ARG-120 ARG-121 CASE-294 CASE-295 CASE-296 CLAIM-478 CLAIM-754 CLAIM-755 CLAIM-756 CLAIM-758 CLAIM-761 CLAIM-762 SYNTHESIS-096 TERM-131 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-2787 — Unfetched; cited in this filing of 2026-11-19 -->
+### Added
+
+- The exchange "Topological protection explained" (2026-11-18 to 19)
+  filed, with the curation entry of 2026-11-19, 040025. Most of it was
+  already on the record, and the entry maps it turn by turn.
+  - The owner's: the hypothesis that collapsing irrelevant distinctions
+    into equivalence classes is how those classes are reified
+    ([CLAIM-762](record/claims.d/CLAIM-762.md)); constraints as amortized realizations
+    ([CLAIM-761](record/claims.d/CLAIM-761.md)); overconsolidation as a generalization of overfitting
+    ([CLAIM-758](record/claims.d/CLAIM-758.md)); questions on role abstraction and fibrations
+    ([QUESTION-492](record/questions.d/QUESTION-492.md)), optimal learning ([QUESTION-495](record/questions.d/QUESTION-495.md)) and what it
+    is for a learning system to know ([QUESTION-493](record/questions.d/QUESTION-493.md)); the genres and
+    audiences example ([CASE-296](record/cases.d/CASE-296.md)); the Pythia study the owner asked
+    for ([CASE-294](record/cases.d/CASE-294.md)).
+  - A's, Proposed: dynamical against economic separation of time scales
+    ([CLAIM-755](record/claims.d/CLAIM-755.md), [ARG-121](record/arguments.d/ARG-121.md)); three learning frontiers
+    ([CLAIM-754](record/claims.d/CLAIM-754.md)); an acquisition valued by its effect on later
+    acquisitions ([CLAIM-756](record/claims.d/CLAIM-756.md), with [CASE-295](record/cases.d/CASE-295.md) and [ARG-120](record/arguments.d/ARG-120.md));
+    three questions ([QUESTION-491](record/questions.d/QUESTION-491.md), [QUESTION-490](record/questions.d/QUESTION-490.md),
+    [QUESTION-494](record/questions.d/QUESTION-494.md)); a term, learning ([TERM-131](record/terms.d/TERM-131.md)).
+  - Read: Gili et al. on fibration symmetry breaking in a language network
+    ([LIT-2804](record/literature.d/LIT-2804.md)) and Li and Webb on what drives symbolic mechanisms
+    ([LIT-2830](record/literature.d/LIT-2830.md)). Iqbal and Welling's workshop paper ([LIT-2787](record/literature.d/LIT-2787.md)) is
+    Unfetched, with its authors' 2026 paper ([LIT-2840](record/literature.d/LIT-2840.md)) read as a
+    stand-in for its thesis and AKOrN ([LIT-2814](record/literature.d/LIT-2814.md)) skimmed.
+  - Forty-six works the exchange cites registered unread (Deferred).
+  - Dated notes on thirty entries.
+
+### Changed
+
+- [CLAIM-475](record/claims.d/CLAIM-475.md)'s note of 2026-11-19 corrects its summary's identification of
+  amortization with [CLAIM-478](record/claims.d/CLAIM-478.md)'s separation of time scales.
+
+### Added (after the owner's review, 2026-11-19)
+
+- Work saved against work transferred ([CLAIM-760](record/claims.d/CLAIM-760.md)), at the owner's
+  request.
+- The assistant's contributions, accepted by the owner: a deadline for
+  relief from overconsolidation ([CLAIM-757](record/claims.d/CLAIM-757.md)); a closure test for the
+  genres case ([CASE-296](record/cases.d/CASE-296.md)); and the check of the symmetry route to the
+  owner's fibration hunch ([CLAIM-759](record/claims.d/CLAIM-759.md)), which holds only where the
+  relabelling group permutes units, and corrects [QUESTION-492](record/questions.d/QUESTION-492.md).
+- Three new part accounts at the synthesis review of 2026-11-19: how an
+  equivalence becomes a unit ([SYNTHESIS-108](record/syntheses.d/SYNTHESIS-108.md), formal-apparatus);
+  stored work and the cost structure of possibility ([SYNTHESIS-106](record/syntheses.d/SYNTHESIS-106.md),
+  realizability); what learning does to what can still be learned
+  ([SYNTHESIS-105](record/syntheses.d/SYNTHESIS-105.md), learned-structure). The line accounts
+  [SYNTHESIS-088](record/syntheses.d/SYNTHESIS-088.md), [SYNTHESIS-043](record/syntheses.d/SYNTHESIS-043.md) and [SYNTHESIS-030](record/syntheses.d/SYNTHESIS-030.md) integrate them.
+- Revisions at ChatGPT's review of 2026-11-19, forwarded by the owner:
+  the learning term counts memorization as learning; the deadline claim
+  is narrowed to recovery by practice; the amortization claim's defeat
+  condition matches its quantifier; the three-frontier claim allows
+  context-dependent scalars; an intervention arm for the genres case; a
+  primary estimand for the Pythia study; and a cross-line account of the
+  five-step chain ([SYNTHESIS-107](record/syntheses.d/SYNTHESIS-107.md)).
+- The four claims and the argument stated in the exchange's sense of
+  learning now name it in `uses` ([TERM-131](record/terms.d/TERM-131.md)), so the term lists what
+  is built on it.
+
+<!-- inactive-ok-file: CASE-297 QUESTION-496 CLAIM-764 CLAIM-763 SYNTHESIS-107 — Proposed or Open; filed in this contribution of 2026-11-19 -->
+### Added
+
+- The follow-up turns of the exchange "Topological protection
+  explained" (U34 to U39), with the curation entry of 2026-11-19,
+  192325: the owner's Reddit case of communities forming subcommunities
+  ([CASE-297](record/cases.d/CASE-297.md)) and the owner's 2017 map post, read; the owner's
+  question of how to triage open questions ([QUESTION-496](record/questions.d/QUESTION-496.md)) and claim
+  that experiment is not the only way to advance them ([CLAIM-764](record/claims.d/CLAIM-764.md));
+  ChatGPT's triage procedure ([CLAIM-763](record/claims.d/CLAIM-763.md)); four works registered
+  Deferred; dated notes on eleven entries.
+
+### Changed
+
+- [SYNTHESIS-107](record/syntheses.d/SYNTHESIS-107.md) version 2: the Reddit case added as a test.
+- The four works ChatGPT cited in the follow-up turns, read (curation
+  entry of 2026-11-19, 193706): Hessel, Tan and Lee and Krohn and
+  Weninger on Reddit communities, McDermott and colleagues and Anguita
+  and colleagues on pretraining, each with a NOTE and a Proposed THEORY;
+  the Reddit case's account of the first two corrected; dated notes on
+  twenty-nine entries.
+
+<!-- inactive-ok-file: CLAIM-771 LIT-2936 LIT-2942 LIT-2946 LIT-2937 CLAIM-774 — Proposed or Deferred; filed or noted in this contribution of 2026-11-20 -->
+### Added
+
+- What transformer depth organizes, with the curation entry of 2026-11-20,
+  235959: coarse stages around an interchangeable middle, refinement rather
+  than an ascent through levels ([CLAIM-771](record/claims.d/CLAIM-771.md), Proposed). Four
+  interpretability works registered by abstract ([LIT-2936](record/literature.d/LIT-2936.md),
+  [LIT-2942](record/literature.d/LIT-2942.md), [LIT-2946](record/literature.d/LIT-2946.md), [LIT-2937](record/literature.d/LIT-2937.md)).
+
+### Changed
+
+- A dated note on [CLAIM-774](record/claims.d/CLAIM-774.md): it concerns order in training time, not
+  depth.
+
+### Added
+
+- A sweep of the 184 Unfetched works through OpenAlex, Unpaywall (sent `noreply@anthropic.com`), Europe PMC and NCBI, with one probe per candidate copy and no retries. The curation entry of 2026-11-22 10:46 gives the outcomes: 9 open copies answered, 17 repository pages to open, and 61 hosts that refused the client. The script, its tests and the results are in `scratch/studies/unfetched-api-sweep/`.
+
+### Added
+
+- The continuation of the exchange "Explain String Theory" (2026-11-15),
+  filed: 44 works registered and read or skimmed, in seven batches
+  (optics and holography; transformer memory; task arithmetic and spectral
+  merging; merge interference; concept erasure; sleeper agents, inference
+  compute and RL; neural waves and topological mechanics), each with a
+  NOTE and, for 42 of them, a Proposed THEORY. The owner's three
+  hypotheses as Proposed claims: wave mathematics applies to learning
+  ([CLAIM-698](record/claims.d/CLAIM-698.md)), dispositions are resource-conditional ([CLAIM-697](record/claims.d/CLAIM-697.md)),
+  and RL post-training can amortize search ([CLAIM-695](record/claims.d/CLAIM-695.md)). A's
+  constructions ([CASE-271](record/cases.d/CASE-271.md), [CASE-273](record/cases.d/CASE-273.md)) and proposed studies
+  ([CASE-274](record/cases.d/CASE-274.md), [CASE-272](record/cases.d/CASE-272.md), [CASE-275](record/cases.d/CASE-275.md)), with the worked numbers
+  rebuilt in scratch/formal/reconstruction_channel_checks.py. Dated notes on
+  held entries. The assistant's own ideas, filed at the owner's
+  request: an admission rule for modes, requiring invariance under a
+  network's symmetries ([CLAIM-696](record/claims.d/CLAIM-696.md), on [CASE-270](record/cases.d/CASE-270.md)), and a hypothesis
+  that RL buys economy rather than reach where its reward can verify at
+  test time ([CLAIM-699](record/claims.d/CLAIM-699.md)), with dated notes on [QUESTION-392](record/questions.d/QUESTION-392.md) and
+  [QUESTION-010](record/questions.d/QUESTION-010.md). A decision, [ADR-101](record/decisions.d/ADR-101.md), makes a repository's documented
+  machine interface to open-access full text a lawful reading route even
+  when its website shows a bot check, at the owner's ruling of 2026-11-17.
+  Europe PMC's REST API is the first route, added to the read-and-file
+  skill's step 5. Márquez et al. is its first application.
+
+### Fixed
+
+- The status-review worklist reads an argument's undercutters from the
+  claims that carry `undercuts`. It had read `undercut_by`, which is
+  derived and never stored, so a sound argument a held claim undercuts
+  ([ARG-006](record/arguments.d/ARG-006.md), undercut by [CLAIM-011](record/claims.d/CLAIM-011.md) and [CLAIM-253](record/claims.d/CLAIM-253.md)) stayed listed in a section
+  that must be empty. A test fires the case.
+
+### Changed
+
+- The work `luria-nucleating-an-argument` is renamed `from-obstruction-to-reorganization`, after the directory of its successor draft ([ADR-135](record/decisions.d/ADR-135.md), Proposed). The two manuscripts are one work. The 23 entries carrying the old value in their `works` field take the new one; membership is unchanged.
+
 <!-- luria-insert-here -->

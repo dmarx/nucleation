@@ -73,6 +73,7 @@ complements:
 <!-- inactive-ok-file: ARG-005 ARG-009 CLAIM-024 CLAIM-487 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; answered on 2026-10-27, cited as the history of this claim's objections -->
+<!-- inactive-ok-file: ARG-215 — new in this filing and Proposed or Rejected; the support verdict of LEAD-141, cited as open -->
 
 # CLAIM-027: Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them
 
@@ -239,3 +240,16 @@ are where Jennings would be a fourth. Attention changing which interests
 may act is [CLAIM-156](CLAIM-156.md) and [QUESTION-034](../questions.d/QUESTION-034.md)'s second option.
 
 The claim is unchanged.
+
+## Note of 2026-11-22: the stimulation studies Metzinger cited do not test it
+
+[LEAD-141](../leads.d/LEAD-141.md) read Axelrod et al. (2015), [LIT-3135](../literature.d/LIT-3135.md), which Metzinger cites
+for H1, the test the note of 2026-11-01 names for this claim at the scale
+of thought, together with its two replications ([LIT-3134](../literature.d/LIT-3134.md),
+[LIT-3133](../literature.d/LIT-3133.md)). Frontal tDCS changes how much off-task thought people
+report, where it changes it at all, but the competing thoughts are not
+held fixed, the agent's model of its control is not shown to change, and
+the effect is contested. [ARG-215](../arguments.d/ARG-215.md) files the verdict, Rejected: the
+readings neither support nor meet this claim's defeated_if. The claim is
+unchanged, and the intervention the note of 2026-10-28 says the record
+most owes it is still owed.

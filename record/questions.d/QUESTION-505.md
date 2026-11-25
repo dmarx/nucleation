@@ -23,9 +23,9 @@ summary: >-
   (the other assistant in the exchange "Rich Get Richer Power Laws", A5);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
+<!-- inactive-ok-file: THEORY-2169 THEORY-2172 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: CLAIM-795 CLAIM-830 CLAIM-824 CLAIM-815 CLAIM-803 CLAIM-769 THEORY-2141 THEORY-2150 — Proposed or new; claims filed from the same exchange and held claims and readings that give exponents -->
-<!-- inactive-ok-file: THEORY-tmpczldx THEORY-tmpcfn5g THEORY-tmphwf0q CLAIM-tmpf9qt9 LIT-3005 — Proposed or Unfetched; the readings of 2026-11-22, the assistant's condition on the spread, and Kesten's work, read through neighbours -->
+<!-- inactive-ok-file: THEORY-2176 THEORY-2175 THEORY-2177 CLAIM-857 LIT-3005 — Proposed or Unfetched; the readings of 2026-11-22, the assistant's condition on the spread, and Kesten's work, read through neighbours -->
 
 # QUESTION-505: What fixes the exponent a given mechanism for a power law produces: geometry, dimension, a balance of growth against loss, or the distribution of an underlying parameter?
 
@@ -98,7 +98,7 @@ this question.
 
 ## Note of 2026-11-22: Newman, read
 
-Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **bears on the question** and fits its partial pattern: each exponent
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-2261](../notes.d/NOTE-2261.md); the reading is [THEORY-2169](../theory.d/THEORY-2169.md)) **bears on the question** and fits its partial pattern: each exponent
 is a ratio. α = 1 − a/b (two rates), α = 1 + 1/γ (a power), the general
 Yule α = 2 + (k0 + c)/m (survival exponent (k0 + c + m)/m), the walk's
 3/2, and for Miller's random typing a ratio of logarithms. Candidate rows
@@ -106,32 +106,32 @@ for the table: inverse powers (1/γ) and random typing. Newman adds that
 the Yule process "can produce a wide range of exponents to match the
 observations by suitable adjustments of the parameters" (p. 19), so a
 fitted exponent alone does not pin the mechanism's parameters.
-[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md) `bears_on` this question.
+[THEORY-2169](../theory.d/THEORY-2169.md) `bears_on` this question.
 
 ## Note of 2026-11-22: Broido and Clauset, read
 
-Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)): **background data**. Across 928 network data sets the median α̂ is
+Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-2263](../notes.d/NOTE-2263.md); the reading is [THEORY-2172](../theory.d/THEORY-2172.md)): **background data**. Across 928 network data sets the median α̂ is
 "concentrated around a value of α̂ = 2", with 32% at α̂ ≥ 3, 39% in (2, 3)
-and 34% below 2, against the Barabási–Albert 3. [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)
+and 34% below 2, against the Barabási–Albert 3. [THEORY-2172](../theory.d/THEORY-2172.md)
 `bears_on` this question.
 
 ## Note of 2026-11-22: Beck and Cohen; Corominas-Murtra, Hanel and Thurner; Reed and Hughes, read
 
 Three readings **bear on the question**, and each fits the partial
 pattern as a root of a balance, though not always as a ratio.
-[THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md), [THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md) and [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md) `bear_on` it.
+[THEORY-2176](../theory.d/THEORY-2176.md), [THEORY-2175](../theory.d/THEORY-2175.md) and [THEORY-2177](../theory.d/THEORY-2177.md) `bear_on` it.
 
-- **The gamma-mixture row** (Beck and Cohen, [LIT-2962](../literature.d/LIT-2962.md), [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md)). The
+- **The gamma-mixture row** (Beck and Cohen, [LIT-2962](../literature.d/LIT-2962.md), [NOTE-2265](../notes.d/NOTE-2265.md)). The
   exponent is the gamma's shape c, which Beck reads as half the number of
   squared Gaussian degrees of freedom summed into the fluctuating parameter
   (eq. 12, p. 5), so the exponent counts the fluctuating environment's
   degrees of freedom. Averaging normalized densities instead of Boltzmann
   factors (type B) shifts it, c → c + ½ for E = ½u² (p. 9). The assistant's
-  [CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md) generalizes the row: for any mixture of exponentials the
+  [CLAIM-857](../claims.d/CLAIM-857.md) generalizes the row: for any mixture of exponentials the
   exponent is the index of the spread's weight at zero rate (f ~ β^(c−1)
   gives c), and a spread without such weight gives no exponent at all.
 - **A candidate row, noisy sample-space reduction** (Corominas-Murtra,
-  Hanel and Thurner, [LIT-2997](../literature.d/LIT-2997.md), [NOTE-tmpyqqhq](../notes.d/NOTE-tmpyqqhq.md)): rank exponent λ, frequency
+  Hanel and Thurner, [LIT-2997](../literature.d/LIT-2997.md), [NOTE-2266](../notes.d/NOTE-2266.md)): rank exponent λ, frequency
   survival exponent 1/λ, where λ is the share of nested steps among all
   steps. In ratio form, p(i + 1)/p(i) = (1 + λ/i)^(−1), a hazard λ/i in rank.
   **The assistant's observation**: this is the same formula as
@@ -141,7 +141,7 @@ pattern as a root of a balance, though not always as a ratio.
   γ = (2 − p)/(1 − p), is the same again. In all three the survival
   exponent is one over the share of the structured choice, the rest being
   uniform (checked: (2 − a)/(1 − a) − 1 = 1/(1 − a) at a = 0.2, 0.5, 0.9).
-- **The Reed row qualified** (Reed and Hughes, [LIT-3007](../literature.d/LIT-3007.md), [NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md)).
+- **The Reed row qualified** (Reed and Hughes, [LIT-3007](../literature.d/LIT-3007.md), [NOTE-2264](../notes.d/NOTE-2264.md)).
   Only deterministic growth gives the bare ratio ν/μ. With noise the upper
   exponent α is the positive root of ½σ²s² + (μ − ½σ²)s − ν = 0, √(2ν)/σ at
   zero log drift. **The assistant's reading**: the left side is the growth

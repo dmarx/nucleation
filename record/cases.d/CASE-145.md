@@ -34,8 +34,8 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: run by LEAD-087 after a criterion was
-    stated in advance (TERM-tmpsu4df, TERM-tmpo4pxh); the executed
-    study is CASE-tmpez9id. The design is unchanged. No other change.
+    stated in advance (TERM-149, TERM-148); the executed
+    study is CASE-362. The design is unchanged. No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -61,7 +61,7 @@ summary: >-
 bears_on:
 - QUESTION-260
 ---
-<!-- inactive-ok-file: TERM-tmpsu4df TERM-tmpo4pxh CASE-tmpez9id CLAIM-tmpupq89 CLAIM-tmpjmfmd — new, filed by LEAD-087's run -->
+<!-- inactive-ok-file: TERM-149 TERM-148 CASE-362 CLAIM-946 CLAIM-945 — new, filed by LEAD-087's run -->
 <!-- inactive-ok-file: LIT-2330 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-1800 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
@@ -153,11 +153,11 @@ The case is unchanged.
 terms and committed, with the study's thresholds and predicted verdicts,
 before any code: structural concordance, cross-member dependence both
 ways under a perturbation of some members, and either evidential
-answerability ([TERM-tmpsu4df](../terms.d/TERM-tmpsu4df.md): a warranted deviation is taken up more than
-an unwarranted one) or restoration ([TERM-tmpo4pxh](../terms.d/TERM-tmpo4pxh.md): a deviation is
+answerability ([TERM-149](../terms.d/TERM-149.md): a warranted deviation is taken up more than
+an unwarranted one) or restoration ([TERM-148](../terms.d/TERM-148.md): a deviation is
 corrected back rather than averaged in). The owner chooses between them.
 
-The run is [CASE-tmpez9id](CASE-tmpez9id.md): five populations on one schema (independent,
+The run is [CASE-362](CASE-362.md): five populations on one schema (independent,
 socially trained then separated, conforming, enforcing by referee,
 checking disagreements against the world), each with and without a vote.
 
@@ -167,10 +167,10 @@ checking disagreements against the world), each with and without a vote.
   unperturbed members take up at most 2% of a deviation (5% was asked).
 - **The evidential condition orders the populations as predicted**, below
   its stated size, and **plain conformity passes the restorative one**,
-  which so fails A4's test ([CLAIM-tmpupq89](../claims.d/CLAIM-tmpupq89.md)).
+  which so fails A4's test ([CLAIM-946](../claims.d/CLAIM-946.md)).
 - **The vote gives collective agency in every population, its absence
   none.** So the study shows the agent without the shared perspective,
   by construction, and not the perspective without the agent the case
-  asks about ([CLAIM-tmpjmfmd](../claims.d/CLAIM-tmpjmfmd.md)).
+  asks about ([CLAIM-945](../claims.d/CLAIM-945.md)).
 
 The design is unchanged.

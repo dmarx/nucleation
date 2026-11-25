@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpgh3v2
 status: Proposed
 title: 'Where a slowly revised governing level (a statute, an objective, a classification) constrains a fast process, the fast process can change the world before the slow level can be revised, so those it harms have no route to the rule as fast as its application reaches them, and the rule dominates them without anyone actively intervening; where the slow level is open to revision on demand, the same separation of timescales keeps the fast process accountable instead'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -13,6 +13,13 @@ history:
     halves of the claim as regulatory guidance: fast action outruns
     review, and limits set beforehand with authority kept to revise
     the mandate.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §7.2, §7.4. No other change.
 role: supposed
 warrant: interpretive
 defeated_if: >-
@@ -53,6 +60,8 @@ summary: >-
   [CLAIM-478](CLAIM-478.md)'s scale separation, a dynamical result, into institutions by
   analogy, and holds only if that carriage holds. The wording is A's;
   adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-711 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-423 TERM-124 — Proposed; the claims this rests on and the record's term for domination -->
@@ -140,6 +149,6 @@ entrenched as seemingly natural limits on what anyone may do."
 HKMA 2026, read in part ([NOTE-2018](../notes.d/NOTE-2018.md), [THEORY-1931](../theory.d/THEORY-1931.md)): it corroborates both halves of the claim independently ([THEORY-1931](../theory.d/THEORY-1931.md) carries `corroborates`). The harm: "Numerous individually minor actions may cause serious harm before review catches up"; "The last opportunity for human intervention may occur several steps before the harm becomes visible" (p. 18). The remedy: limits set beforehand in the agent harness, "velocity limits that are commensurate not only with technical constraints, but also with the demonstrated effectiveness of oversight arrangements" (p. 19), design that takes "account of detection time, decision time and stopping time" (p. 37), and human-in-command authority to "define, change, restrict, suspend or withdraw the deployment's mandate" (p. 7), the slow level kept open to revision. It is non-binding guidance, not evidence that the remedy works. No status changes.
 
 ## Note of 2026-11-22: [CASE-285](../cases.d/CASE-285.md)'s test of the two clauses, run in a model
-<!-- inactive-ok-file: CASE-tmp8riid CLAIM-tmpsaql8 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-316 CLAIM-879 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
 
-[CASE-285](../cases.d/CASE-285.md) said "If precommitted limits restore it without pauses, CLAIM-730's second clause is supported over its first." In [CASE-tmp8riid](../cases.d/CASE-tmp8riid.md)'s model they did: precommitted limits won back the share of the lost intervention capacity they covered, keeping 0.92 to 0.99 of the fast arm's benefit, where pauses won it back only by giving up the speed. The second clause is thereby shown possible in a model. The first clause is not tested: the model has no affected party and never revises a limit, so it cannot show the domination the first clause describes or its absence. And when speed also multiplied the volume of actions, the limits' escalations of benign actions saturated the fixed reviewers, with held actions waiting months: the slow level kept the fast process answerable only while it had the capacity to hear what it held. [CLAIM-tmpsaql8](CLAIM-tmpsaql8.md) states the result. No status changes.
+[CASE-285](../cases.d/CASE-285.md) said "If precommitted limits restore it without pauses, CLAIM-730's second clause is supported over its first." In [CASE-316](../cases.d/CASE-316.md)'s model they did: precommitted limits won back the share of the lost intervention capacity they covered, keeping 0.92 to 0.99 of the fast arm's benefit, where pauses won it back only by giving up the speed. The second clause is thereby shown possible in a model. The first clause is not tested: the model has no affected party and never revises a limit, so it cannot show the domination the first clause describes or its absence. And when speed also multiplied the volume of actions, the limits' escalations of benign actions saturated the fixed reviewers, with held actions waiting months: the slow level kept the fast process answerable only while it had the capacity to hear what it held. [CLAIM-879](CLAIM-879.md) states the result. No status changes.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8z857
 title: 'Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-25'
@@ -90,6 +90,12 @@ history:
     THEORY-910 and THEORY-915 (QUESTION-325) as "not excluded". The
     question's first line is already this claim's first, so no line is
     added (ADR-085). No other change.
+- version: 9
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 4 §6 (ADR-tmpenzcn). No change of
+    title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -109,6 +115,8 @@ date: '2026-10-23'
 line:
 - will-organization
 - organizational-affect
+works:
+- governance-of-becoming
 uses:
 - TERM-020
 rests_on:
@@ -139,9 +147,9 @@ summary: >-
 bears_on:
 - QUESTION-325
 ---
-<!-- inactive-ok-file: THEORY-tmpai05z — new; the reading cited in the note of 2026-11-22 (LEAD-032) -->
-<!-- inactive-ok-file: CASE-tmpxmuri CLAIM-tmpqp1h6 ARG-025 — new or Proposed; filed by LEAD-076 on 2026-11-22 and cited in its note of that date, ARG-025 for the grading -->
-<!-- inactive-ok-file: LIT-tmpgnizl LIT-tmp8xv0w LIT-tmppvr66 — new or Deferred; LEAD-047's search of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2242 — new; the reading cited in the note of 2026-11-22 (LEAD-032) -->
+<!-- inactive-ok-file: CLAIM-924 ARG-025 — new or Proposed; filed by LEAD-076 on 2026-11-22 and cited in its note of that date, ARG-025 for the grading -->
+<!-- inactive-ok-file: LIT-3074 LIT-3073 LIT-3077 — new or Deferred; LEAD-047's search of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant beside THEORY-963 (Active), which the reading of Lattimore and Szepesvári proposes supersede it; nothing here rests on it -->
 
 # CLAIM-446: Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost
@@ -445,23 +453,23 @@ that intervenes on a defensive process's authority or evidence access
 with the represented threat held fixed, so the gap the notes of
 2026-10-29 and 2026-11-06 name stands, and nothing meets or fails this
 claim's defeated_if. Two nearest designs were read. In Sridhar, Biagi &
-Wake (2026), [LIT-tmpiezdi](../literature.d/LIT-tmpiezdi.md), [NOTE-tmpexziy](../notes.d/NOTE-tmpexziy.md), an instruction to withhold
+Wake (2026), [LIT-3076](../literature.d/LIT-3076.md), [NOTE-2299](../notes.d/NOTE-2299.md), an instruction to withhold
 avoidance "to test your expectancy" left US expectancy unchanged, but
 did not significantly reduce avoidance (p = .230), so it shows neither
 authority moving with belief fixed nor its failure to. In Vestring et
-al. (2026), [LIT-tmpxug14](../literature.d/LIT-tmpxug14.md), [NOTE-tmpkouzt](../notes.d/NOTE-tmpkouzt.md), ketamine changed how strongly
+al. (2026), [LIT-3079](../literature.d/LIT-3079.md), [NOTE-2300](../notes.d/NOTE-2300.md), ketamine changed how strongly
 experimenter-set threat probability governed approach, but the learned
 probabilities were not rated, so the change cannot be placed in belief
-or in authority. Several registered works ([LIT-tmpgnizl](../literature.d/LIT-tmpgnizl.md), [LIT-tmp8xv0w](../literature.d/LIT-tmp8xv0w.md),
-[LIT-tmppvr66](../literature.d/LIT-tmppvr66.md)) show avoidance outlasting a corrected or low threat
+or in authority. Several registered works ([LIT-3074](../literature.d/LIT-3074.md), [LIT-3073](../literature.d/LIT-3073.md),
+[LIT-3077](../literature.d/LIT-3077.md)) show avoidance outlasting a corrected or low threat
 belief, which fits the claim's "the regime can outlast a corrected
 belief" without testing why. Neither reading is evidence for or against
 the claim; no relation written. No status changes.
 
 ## Note of 2026-11-22: a safety behaviour added with threat expectancy unchanged
 
-[LEAD-032](../leads.d/LEAD-032.md) read Meckes et al. (2025), [LIT-tmpds717](../literature.d/LIT-tmpds717.md), [NOTE-tmprmzur](../notes.d/NOTE-tmprmzur.md)
-([THEORY-tmpai05z](../theory.d/THEORY-tmpai05z.md)). Spider-fearful adults had one exposure with
+[LEAD-032](../leads.d/LEAD-032.md) read Meckes et al. (2025), [LIT-3123](../literature.d/LIT-3123.md), [NOTE-2332](../notes.d/NOTE-2332.md)
+([THEORY-2242](../theory.d/THEORY-2242.md)). Spider-fearful adults had one exposure with
 experimenter-supplied boots faded, kept or absent. On average the boots
 did not change threat expectancy ("there were no between-group
 differences in the level of change in threat expectancy"), raised
@@ -475,7 +483,7 @@ written. No status change.
 ## Note of 2026-11-22: the test run in a model, from [LEAD-076](../leads.d/LEAD-076.md)
 
 [LEAD-076](../leads.d/LEAD-076.md) ran this claim's four interventions in [CASE-153](../cases.d/CASE-153.md)'s sentry
-([CASE-tmpxmuri](../cases.d/CASE-tmpxmuri.md); [CLAIM-tmpqp1h6](CLAIM-tmpqp1h6.md)). In the model, the decisive case appears:
+([CASE-346](../cases.d/CASE-346.md); [CLAIM-924](CLAIM-924.md)). In the model, the decisive case appears:
 the trained defense keeps governing after belief correction (0 % of runs
 leave), and becomes revisable when evidence access is restored (78 %) or
 authority is rewarded on independent evidence (100 %).
@@ -487,7 +495,7 @@ trace. Only reinforcement correction, and an independent audit, separate
 the two. Whether that meets this claim's defeater ("a habit model with
 matched memory reproduces under every intervention the claim
 distinguishes") depends on whether an outcome-gated habit can receive
-reinforcement correction. [CLAIM-tmpqp1h6](CLAIM-tmpqp1h6.md) sets out both readings for the
+reinforcement correction. [CLAIM-924](CLAIM-924.md) sets out both readings for the
 owner.
 
 The run is a stipulated model ([ARG-025](../arguments.d/ARG-025.md)'s grades). No status change.

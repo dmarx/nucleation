@@ -43,7 +43,7 @@ summary: >-
 bears_on:
 - QUESTION-517
 ---
-<!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2174 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, the compression half -->
 <!-- inactive-ok-file: TERM-135 CLAIM-849 — filed with this claim from the same exchange, Proposed -->
 <!-- inactive-ok-file: ARG-147 THEORY-2154 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
@@ -139,7 +139,7 @@ The count above does not depend on it.
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)): **a
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-2257](../notes.d/NOTE-2257.md), [THEORY-2174](../theory.d/THEORY-2174.md)): **a
 parallel.** The resolved power-law range grows with the numbers of neurons
 and stimuli (Fig. 2g–j); "typically this range extends to approximately
 half the total number of stimuli presented" (SI §3.5), below which the

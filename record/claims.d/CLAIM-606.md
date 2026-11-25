@@ -107,7 +107,7 @@ summary: >-
   and by whether an outflow is measured. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-2969 THEORY-tmpwdka8 — Unfetched or new; Kosterlitz and Thouless and the lecture read in their place, 2026-11-22 -->
+<!-- inactive-ok-file: LIT-2969 THEORY-2206 — Unfetched or new; Kosterlitz and Thouless and the lecture read in their place, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2010 THEORY-2022 THEORY-2032 THEORY-2040 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-2051 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-2787 — Unfetched; cited in this filing of 2026-11-19 -->
@@ -242,7 +242,7 @@ No status change.
 ## Note of 2026-11-22: Kosterlitz's Nobel lecture, read
 
 A **parallel**, from the same passage as [CLAIM-694](CLAIM-694.md)'s note of this date
-([LIT-tmp3k6np](../literature.d/LIT-tmp3k6np.md), [NOTE-tmp0si2r](../notes.d/NOTE-tmp0si2r.md), [THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md); a stand-in for
+([LIT-3053](../literature.d/LIT-3053.md), [NOTE-2283](../notes.d/NOTE-2283.md), [THEORY-2206](../theory.d/THEORY-2206.md); a stand-in for
 Kosterlitz and Thouless, [LIT-2969](../literature.d/LIT-2969.md), Unfetched). The topological row's
 "what holds it", "a charge fixed by the field at its boundary", holds at
 finite temperature only where the barrier between sectors grows with

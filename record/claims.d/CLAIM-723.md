@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpazi8a
 status: Proposed
 title: 'Acting before a recognized opportunity for intervention can take effect is a wrong of its own, apart from acting without consent: where a party has standing to authorize, suspend or contest an act, an actor who without adequate justification makes the act''s consequences irreversible before that standing can be exercised defeats it, even where the objection would have failed'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-17'
@@ -17,6 +17,12 @@ history:
     Joins the work capability-restraint-relational-freedom
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A59 states its proposition. No other change.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 8 §6 (ADR-tmpenzcn). No change of
+    title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,6 +47,7 @@ line:
 - dependence-and-domination
 works:
 - capability-restraint-relational-freedom
+- governance-of-becoming
 complements:
 - CLAIM-464
 - CLAIM-624

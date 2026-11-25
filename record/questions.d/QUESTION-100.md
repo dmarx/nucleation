@@ -99,3 +99,7 @@ regime.
 
 Neither model is [CASE-092](../cases.d/CASE-092.md), and role-indexed grants are not tested.
 The question is unchanged.
+
+## Note of 2026-11-22: capture through a loop between institutions
+
+[LEAD-015](../leads.d/LEAD-015.md) ([CASE-401](../cases.d/CASE-401.md)) asks this question of two institutions, an evaluator and the party it evaluates, each a reduced [CASE-092](../cases.d/CASE-092.md). Their symmetric state is unstable exactly when the round trip of the loop between them exceeds 1, (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P ([CLAIM-1000](../claims.d/CLAIM-1000.md)): capture can come from the coupling between institutions when each, alone, would hold stable expertise. An evaluator whose conferral reads no interpretation (Regime B) is captured this way too ([CLAIM-1202](../claims.d/CLAIM-1202.md)). This is still the linearization at symmetry, with the nonlinear map checked; role-indexed grants are not tested. The question is unchanged.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpmr1t8
 title: 'Learned local accommodation can reduce the amortized cost of recurrent arbitration: where a recurring conflict among an agent''s processes admits a stable accommodation, settling it among the processes can cost less over repeated encounters than escalating each instance to a higher-level process that mediates or overrides, though local negotiation and the relations it needs are not free'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-28'
@@ -38,6 +38,12 @@ history:
     accommodation nor escalation within the agent. The demand is granted
     in another organization." The question's first line is already this
     claim's, so no line is added (ADR-085). No other change.
+- version: 6
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 4 abstract, §5 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,6 +68,8 @@ tags:
 date: '2026-10-18'
 line:
 - will-organization
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-261
 grounds:
@@ -95,6 +103,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-1283 — Open or Proposed; the outward route filed as a question, and Massumi's micropolitics set beside this claim -->
 <!-- inactive-ok-file: CLAIM-162 ARG-016 THEORY-070 THEORY-056 THEORY-062 THEORY-077 CLAIM-362 CLAIM-364 — Proposed; the claims and readings this one rests on or is set beside, open -->
 <!-- inactive-ok-file: CLAIM-163 — Superseded; the objection as first filed, now ARG-016 -->
+<!-- inactive-ok-file: CASE-382 CLAIM-981 — new on 2026-11-22; the cost-side fit and its finding, cited in the note of 2026-11-22 -->
 
 # CLAIM-358: Learned local accommodation can reduce the amortized cost of recurrent arbitration: where a recurring conflict among an agent's processes admits a stable accommodation, settling it among the processes can cost less over repeated encounters than escalating each instance to a higher-level process that mediates or overrides, though local negotiation and the relations it needs are not free
 
@@ -337,3 +346,65 @@ No status changes.
 ## Note of 2026-11-06: what holds it back
 
 Rechecked after [CLAIM-361](CLAIM-361.md) went Active (2026-11-06) and after the readings of 2026-10-31 and 2026-11-01. None is a premise or bears on what holds it. The claim is still held by its ground [THEORY-070](../theory.d/THEORY-070.md), Proposed because no fit in the record shows control intensity falling with its cost (note of 2026-10-29).
+
+## Note of 2026-11-22: the missing cost-side fit now has a candidate
+
+Carrying out [LEAD-128](../leads.d/LEAD-128.md), the assistant fitted the expected-value-of-control
+effort-cost model to cognitive-effort-discounting choices ([CASE-382](../cases.d/CASE-382.md),
+finding [CLAIM-981](CLAIM-981.md)): the fitted cost of control rises with task load,
+the cost term is required, and for the modal agent control intensity falls as
+its cost rises. That is the intrinsic cost that, on [THEORY-070](../theory.d/THEORY-070.md), gives
+escalation the price this claim says a learned accommodation saves — the
+per-encounter cost this claim's amortization presupposes, not the recurrence.
+[CLAIM-981](CLAIM-981.md) corroborates this claim. The caveat on the fit (a revealed-choice
+measure of intensity, not an accumulator parameter) is in the note of
+2026-11-22 on [THEORY-070](../theory.d/THEORY-070.md); whether it promotes that ground is the owner's
+call, so this claim's status is unchanged.
+
+## Note of 2026-11-22: a governed record as amortized arbitration, from the exchange "Explain First Contact RL" (https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3)
+
+A20 §2 carried this claim from an agent's regimes to collaborators: "the
+effort of doing the task and the effort of governing how the task gets done
+are different costs", and a governed record can move recurrent
+re-establishment of context (what a term means, whether an objection was
+answered, which version is authoritative) into identifiers, statuses and
+checks. A quoted this claim's "The achievement of governance may be to make
+its repeated exercise unnecessary" and called it the strongest connection
+to Luria. A20 §3 then qualified it: a record that settles conflicts by
+enforcement amortizes arbitration by externalizing it, which is not the
+learned local accommodation this claim describes ([CLAIM-1139](CLAIM-1139.md),
+Proposed). An analogy of a parallel case; no relation is written. The claim
+is unchanged.
+
+<!-- inactive-ok-file: CLAIM-1173 — Proposed or Open; cited in the assistant's answer of 2026-11-23 on wu-wei -->
+
+## Note of 2026-11-23: a parallel in the Daodejing
+
+The assistant, answering the owner's "relate the conversation to wuwei" (2026-11-23, this session): this claim's "The achievement of governance may be to make its
+repeated exercise unnecessary" has a classical parallel in Daodejing 17,
+on the best ruler, whom the people barely know exists, and who finishes
+the work so that the people say they did it themselves (paraphrased from
+common knowledge of the text, not checked). This is an analogy; no edge
+is written. The regulation thread of the exchange "Explain First Contact
+RL" ([CLAIM-1173](CLAIM-1173.md), generative regulation) is the same shape.
+
+## Note of 2026-11-23: what holds it back
+
+Checked after [CLAIM-361](CLAIM-361.md)'s revision of 2026-11-21, an attribution note that
+changes nothing here. The claim is still held by its ground [THEORY-070](../theory.d/THEORY-070.md):
+[CASE-382](../cases.d/CASE-382.md) and [CLAIM-981](CLAIM-981.md) (Proposed) give its promote_when (1) a candidate fit
+on a revealed-choice measure, not the accumulator parameter or conflict
+adaptation it names, and whether that suffices is left to the owner in
+[THEORY-070](../theory.d/THEORY-070.md)'s note of 2026-11-22.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
+
+A32 §8 reads flow and learned accommodation (with [CLAIM-162](CLAIM-162.md) and
+[CLAIM-1075](CLAIM-1075.md)) as cheap contractual invocation: "Flow may be enabled by a
+history of stored coordination work rather than merely an absence of
+control." It takes [CLAIM-364](CLAIM-364.md)'s objection with it, distinguishing
+"Fluency through accommodation" from "Fluency through suppression":
+"Both can make contract invocation cheap. Their counterfactual profiles
+differ when a novel, legitimate demand is introduced", and "contractual
+friction can be informative. Not every interruption should be amortized
+away." An application that keeps the held objection; no change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

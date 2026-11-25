@@ -23,7 +23,7 @@ summary: >-
   construction ([THEORY-189](../theory.d/THEORY-189.md)) but not as a lens on training.
 ---
 <!-- inactive-ok-file: CLAIM-839 CLAIM-800 CLAIM-816 CLAIM-838 ARG-153 CLAIM-827 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
-<!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2185 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # QUESTION-512: Can entailment cones help reason about progressive learning dynamics, the order in which a network comes to draw finer distinctions?
 
@@ -60,7 +60,7 @@ The thresholds the exchange relates to cones are compared in [CLAIM-827](../clai
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)): **background,
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-2276](../notes.d/NOTE-2276.md), [THEORY-2185](../theory.d/THEORY-2185.md)): **background,
 through [CLAIM-800](../claims.d/CLAIM-800.md).** No cones; its coarse-label experiments show a collapse
 measure saturating while finer distinctions stay decodable, which is why a
 cone measure needs an independent decodability check ([CLAIM-800](../claims.d/CLAIM-800.md)'s note).

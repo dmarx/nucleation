@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpwxags
 title: 'Two constructions of a maintained organization: two constraints producing each other with saturating production and turnover hold a three-unit coupling, with a box invariant under damage up to 0.4, a saddle-node at damage 0.5 and extinction above it; and a transient encounter that forms a connector enabling that reciprocal production, after which the connector is maintained by what it enables, every single-pathway knockout ends it, and the regime ends in a saddle-node at damage ≈ 0.691 where the coupling''s gap is still ≈ 0.989'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-11'
@@ -35,6 +35,12 @@ history:
     obeying local detailed balance (LIT-1892, THEORY-1265)"): the case
     uses the reading as its check on dissipation (ADR-095). No other
     change.
+- version: 5
+  date: '2026-11-24'
+  note: >-
+    A dated note from the revision of the manuscript
+    governance-of-becoming, Part I: a supply parameter in Construction 2
+    would test CLAIM-604's signatures; not computed. No other change.
 standing: fictional
 kind: construction
 tags:
@@ -250,3 +256,29 @@ produces it, which is [CLAIM-456](../claims.d/CLAIM-456.md)'s "the self-produced
 a double loss or an interruption of the work that produces it". The case
 has no outside reset beside it, so it illustrates only that dependence,
 not [CLAIM-456](../claims.d/CLAIM-456.md)'s comparison with outside reset, which rests on [CASE-161](CASE-161.md).
+
+## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
+<!-- inactive-ok-file: CLAIM-606 — Proposed; cited with its standing -->
+
+The manuscript's first draft (Article 1, §1.4) read Construction 2 as of
+[CLAIM-604](../claims.d/CLAIM-604.md)'s kind. The independent reader of its joins (J1.4) found that
+this misstates [CLAIM-604](../claims.d/CLAIM-604.md), and the revision corrected the article.
+[CLAIM-604](../claims.d/CLAIM-604.md)'s model draws repair from a supply at a rate set by the intact
+share, and Construction 2 has no supply variable: "the substrates are
+assumed available". Of [CLAIM-604](../claims.d/CLAIM-604.md)'s three signatures, Construction 2 shows
+the ignition threshold ("Without the encounter, q = 0 is invariant and the
+capacities decay"); collapse appears only in the damage parameter, at the
+fold d* ≈ 0.6908, not in a supply; and an outage after which restoring the
+supply does not relight the structure is undefined, since nothing is
+supplied.
+
+The reader named the computation that would settle it: add a supply
+parameter to Construction 2's production terms, and see whether all three
+signatures appear or not. That would test [CLAIM-604](../claims.d/CLAIM-604.md)'s signatures on a
+construction filed for another purpose. It has not been computed, and this
+note records the gap only. Even if all three appeared, [CLAIM-606](../claims.d/CLAIM-606.md) holds
+that the signatures do not identify upkeep drawn in through the
+structure's own state; withdrawing the supply does.
+
+Bearing: a gap; no change to the case, its title or its status. The
+wording is the assistant's (Claude, in this session).

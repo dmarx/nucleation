@@ -27,7 +27,7 @@ summary: >-
   when the jump comes, which drift delays and noise can advance, nor that
   observed indicators reliably reveal the exponent.
 ---
-<!-- inactive-ok-file: THEORY-tmpu0f9k — Proposed; the reading of Yang filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2193 — Proposed; the reading of Yang filed 2026-11-22 -->
 
 # THEORY-1429: Kuehn holds that a critical transition is the point where a slowly drifting system leaves an attracting, normally hyperbolic slow manifold for a fast jump, that fold, transcritical and subcritical Hopf and pitchfork bifurcations are such points while supercritical ones are not, and that the slowing down before them scales with the distance to the bifurcation with exponent ½ for the fold and 1 for the others
 
@@ -64,7 +64,7 @@ Kuehn, "A mathematical framework for critical transitions" (Physica D
 
 ## Note of 2026-11-22: Yang, read
 
-Qualifies the reading's language. Yang ([THEORY-tmpu0f9k](THEORY-tmpu0f9k.md), [NOTE-tmpg5q4t](../notes.d/NOTE-tmpg5q4t.md))
+Qualifies the reading's language. Yang ([THEORY-2193](THEORY-2193.md), [NOTE-2280](../notes.d/NOTE-2280.md))
 calls the onset of a sparse autoencoder's feature lottery "a sharp
 dynamical phase transition" (§5). Its bifurcation is a supercritical
 pitchfork of a probe's collapsed state at β = βc, with linear growth rate

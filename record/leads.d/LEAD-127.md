@@ -22,7 +22,7 @@ advances:
 summary: >-
   Named in [QUESTION-369](../questions.d/QUESTION-369.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: THEORY-tmpc2ttm THEORY-tmptzl64 — Proposed; the readings of Martela and Ryan 2019 and 2021, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2214 THEORY-2213 — Proposed; the readings of Martela and Ryan 2019 and 2021, 2026-11-22 -->
 <!-- inactive-ok-file: LIT-1954 LIT-1968 LIT-1980 — Unfetched; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-127: Search for evidence that thwarting a candidate basic need causes a functional deficit, and thwarting a matched enhancer does not, under intervention
@@ -60,11 +60,11 @@ Such a contrast answers [QUESTION-369](../questions.d/QUESTION-369.md).
 ## Note of 2026-11-22: Martela and Ryan (2019) and (2021), read
 
 Two of the works this lead names are settled. [LIT-1983](../literature.d/LIT-1983.md) is read in full
-([NOTE-tmptzkzg](../notes.d/NOTE-tmptzkzg.md); [THEORY-tmpc2ttm](../theory.d/THEORY-tmpc2ttm.md)): correlational and self-report, with no
+([NOTE-2304](../notes.d/NOTE-2304.md); [THEORY-2214](../theory.d/THEORY-2214.md)): correlational and self-report, with no
 intervention and no functional deficit, so it **does not meet "what would
 count"**. [LIT-1980](../literature.d/LIT-1980.md) stays Unfetched (a bot check on 2026-11-22); its
-stand-in, the same authors' 2021 experiments ([LIT-tmp14tuh](../literature.d/LIT-tmp14tuh.md), [NOTE-tmpqf55c](../notes.d/NOTE-tmpqf55c.md);
-[THEORY-tmptzl64](../theory.d/THEORY-tmptzl64.md)), **half-meets it**: the thwarting of beneficence is
+stand-in, the same authors' 2021 experiments ([LIT-3085](../literature.d/LIT-3085.md), [NOTE-2303](../notes.d/NOTE-2303.md);
+[THEORY-2213](../theory.d/THEORY-2213.md)), **half-meets it**: the thwarting of beneficence is
 manipulated, but the outcome is self-reported ill-being rather than a
 functional deficit, and no matched established need is thwarted for
 contrast. The lead stays open.

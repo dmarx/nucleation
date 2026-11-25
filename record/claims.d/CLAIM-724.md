@@ -4,7 +4,15 @@ formerly:
 - CLAIM-tmpbqunx
 status: Proposed
 title: 'Against a challenged party who can act on the means of correction, correctability is a robust quantity, the chance that a corrective policy reaches its objective against every strategy in a declared class of opposition, and it depends on who moves first, since a corrector that must commit before seeing the opposition can do strictly worse than one that responds to it; judged against the opposition the procedural rules permit, failure shows the institution inadequate, and failure owed to opposition outside them shows a wrong by the opponent as well'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.4. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,6 +52,8 @@ summary: >-
   wrongdoing solely through successful foreclosure." It came out of the
   siege discussion, the owner's U28 (CLAIM-748). The wording is A's;
   adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-748 — filed from the same exchange, Proposed or new -->
 

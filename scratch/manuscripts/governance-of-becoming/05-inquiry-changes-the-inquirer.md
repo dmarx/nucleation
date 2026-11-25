@@ -1,0 +1,326 @@
+<!-- scratch/manuscripts/governance-of-becoming/05-inquiry-changes-the-inquirer.md -->
+
+# Article 5. Inquiry Changes the Inquirer
+
+## Costed epistemic frontiers, stored specification, and adaptive readiness
+
+**Abstract.** What an organization can find out depends on more than what it can answer once someone hands it a question. This article sets out what the Nucleation record holds about that dependence, and with what standing. It starts from three frontiers that are said to move separately: what a learner can do now, what it can come to learn, and what questions it can formulate. That separation is a Proposed claim. The article then sets out the owner's thesis, which the record holds as Active, that inquiry is a form of specification that can revise what an answer could be. It also gives the owner's second thesis, likewise Active, that formulating a question is itself a costed realization, so that what an agent has stored decides which later questions are cheap to ask and which are hard. The formal centre is a demonstrated result, Active since the status pass of 2026-11-24. At one budget, the questions an agent can formulate and the answers it can reach once a question is supplied do not fix which question–answer pairs it can reach together. Their families over all budgets do fix them, under a declared rule for composing the two costs, except where the way a question is formulated changes what answering it costs. On this ground the article reads authorization and legibility as costs and conditions on the same budget. It reads the record's executed studies of suppressed inquiry and matched-output readiness as models of governance that changes what an organization goes on to ask. And it reads overconsolidation as a Proposed generalization of overfitting that has not been measured in any learned system. The title thesis, that inquiry changes the inquirer, is held in some senses and not in others. Where it means that inquiry is learning, no entry states it, and the article marks it as its own join (J5.1).
+
+### Standing, voices and limits
+
+**Standing.** Statuses are those in the entries' front matter on 2026-11-25, after the status pass of 2026-11-24 (dmarx/nucleation#794). Each step gives its standing: **Active** (accepted) or **Proposed** (filed and argued, not adopted), and a warrant, **demonstrated** (by construction or derivation), **empirical** or **interpretive**. Questions and leads are **Open**. Codes are bare. Codes with temporary numbers (…-tmp…) were filed on 2026-11-24 and are Proposed or Open. Every account (SYNTHESIS) cited is Proposed. Several entries the argument uses are not members of the work `governance-of-becoming`: CLAIM-1190, CLAIM-1025, CLAIM-1095, CLAIM-1016, CLAIM-996, CLAIM-1117, CLAIM-1065, CLAIM-1009, CLAIM-1004, CLAIM-1157, CLAIM-1008, CLAIM-1177, CLAIM-697, CLAIM-1034 and CLAIM-tmpyp0ju have no `works` field. CLAIM-754, CLAIM-758, CLAIM-675, CLAIM-602 and CLAIM-403 belong to `governance-of-possibility` and not to this work. Whether to add them is the owner's call.
+
+The Active footing of this article:
+
+- the owner's two theses on inquiry, CLAIM-470 and CLAIM-475 (interpretive), with the terms inquiry (TERM-095) and inquiry frontier (TERM-092);
+- the partial order of achievements (CLAIM-474, interpretive) and the separability of regime, governing organization and transformative capacity (CLAIM-025, interpretive);
+- stored work (CLAIM-761, interpretive; the owner's thesis);
+- the joint-frontier results, CLAIM-1115 and CLAIM-1190 (demonstrated);
+- the observational correction to the response kernel (CLAIM-1095, demonstrated, a counter);
+- support that does the work shrinks unaided reach (CLAIM-675, CLAIM-602, demonstrated);
+- inquiry that never raises an institution's score (CLAIM-1064, demonstrated);
+- the executed studies CASE-396, CASE-397 and CASE-412, and the record's census of its own grammar (CASE-300);
+- the separable stages of a contribution's uptake (CLAIM-403), the owner's three achievements (CLAIM-523), and the terms TERM-114 (resource-bounded constraint system) and TERM-115 (scenario-conditioned response readiness).
+
+**Who made these entries Active.** Each history says, and they differ.
+
+- *By the owner directly.* TERM-095 was asked for and adopted by the owner on 2026-10-27, and CLAIM-025 was promoted at the owner's ruling of the same day. CASE-397 and CASE-412 were promoted at the owner's word of 2026-11-24, "promote the ten".
+- *At status reviews whose rulings the owner delegated* ("at the status review's ruling (the owner delegated these rulings; ADR-057)"). This covers CLAIM-470, CLAIM-475 and TERM-092 (the fifteenth review), CLAIM-474, CLAIM-403, CLAIM-523, CLAIM-675, CLAIM-602, CLAIM-761 (2026-11-20), CLAIM-1064, CASE-396, TERM-114 and TERM-115. Their standing is the assistant's ruling under that delegation, not the owner's own.
+- *By the assistant, in the status pass of 2026-11-24, under the owner's delegated word* ("handle the fixes for the twelve ... use your best judgement"). These are **CLAIM-1115, CLAIM-1190 and CLAIM-1095**, the three entries that carry §§5.3 and 5.4. CLAIM-1115's four constructions and CLAIM-1095's table were reconstructed from the entries and rerun by a session other than the filer's. **CLAIM-1190 was promoted on CLAIM-1115's construction 1, not on its own argument.** Its summary says that A58's formal reason "shows less", and its history says that "read with the defeater, it asserts no more than construction 1 shows" (CLAIM-1190, versions 2 and 3). It is cited below for no more than that.
+- CASE-300's history records no promotion note.
+
+I reran both kept scripts for this draft, `scratch/formal/inquiry_frontier_constructions_check.py` and `scratch/formal/response_kernel_bisimulation_check.py`, with `python3 -I`. Both print the figures cited below and "checks pass". This is a third run of scripts the record already keeps, not a new check.
+
+A reader who accepts only what is Active gets the owner's account of inquiry as costed specification, the joint-frontier construction, and a handful of executed models. That reader does not get the three frontiers, overconsolidation, the authorization thread or adaptive inquiry readiness. Each of those is Proposed.
+
+**Voices.** "The owner" is the record's owner. "ChatGPT", or "A", is the other assistant in the exchanges. Its turns are A*n*. "The assistant" is Claude, which filed the exchanges and supplied some constructions. U-numbers repeat across exchanges, so each is given with its exchange. The owner's contributions here are these:
+
+- *Exchange of 2026-10-27:* inquiry as specification (U15; CLAIM-470); the cost of formulating a question (U17; CLAIM-475); and the request for a term for inquiry, then its adoption (TERM-095).
+- *"Explain String Theory", continuation (2026-11-15):* dispositions as "resource conditional" (CLAIM-697, the owner's idea in A's formalization).
+- *"Topological protection explained" (2026-11-18 and 19):* stored work (U17; CLAIM-761); overconsolidation, "a generalization of overfitting" (U22; CLAIM-758, in A's wording); the request for the Pythia study (U23; CASE-294); and the open questions QUESTION-495 and QUESTION-493.
+- *"luria experiment design" (2026-11-10):* "there's probably also an RSI angle here" (U17; QUESTION-457).
+- *"Explain First Contact RL" (2026-11-23):* the game between queries and targets (U26; CLAIM-1031); whether asking and answering compete (U27; QUESTION-520); the employee and the manager, and perspectives as "conceptual nucleation sites" (U28; CASE-386, CLAIM-1004); the resource-boundedness of asking permission (U29; CLAIM-1065); the answer frontier (U30; CLAIM-1009); diversity as a measure of richness (U31; CLAIM-1034); and the request for the synthesis A63 (U32).
+- *"Memes, Contracts, and Systemic Normativity" (2026-11-24):* that most of the series' proposed research is already done (U32; CLAIM-tmpyp0ju); and the review for promotion of entries the record treats as held (U33; LEAD-tmp0j28l).
+- *Earlier:* the three achievements of legibility, volitional efficacy and correctability (CLAIM-523, the owner's synthesis of 2026-10-31).
+
+Four choices that bear on this article are the owner's and are still open: TERM-159 against TERM-160 (§5.3), TERM-163's definition (§5.8), the narrowing of LEAD-tmpbqj9u (§5.7), and the companion paper (§5.9). Everything else is A's or the assistant's, as marked.
+
+**Limits.** The argument was developed with AI assistants: ChatGPT in the exchanges, and Claude in filing, checking and drafting. Both also study the record that holds the argument. Four consequences follow.
+
+- *The promotions this article stands on were made in this work's own process.* The pass of 2026-11-24 that set CLAIM-1115, CLAIM-1190 and CLAIM-1095 Active was driven by LEAD-tmp0j28l, which the owner asked for at U33 of the exchange that motivated this series. The assistant carried it out under a delegation. The independent reruns were by another session of the same assistant. A reader should not count these standings as a ruling the owner made.
+- *Using the record as a case is circular.* A51 §6 proposes the record as "a running constructive case" for this article. The record's grammar, its status passes and the screening of manuscript joins were designed, run and described by the same assistants, under the owner's delegated rulings, partly in this work. §5.9 cites what the record has measured about itself (CASE-300) and does not offer the record as independent evidence for its own theory.
+- *Models, not measurements.* The joint-frontier results are constructions with stipulated costs. CASE-396, CASE-397 and CASE-412 are simulations. None measures an organization. CASE-412's readiness range is "from the executed CASE-412 model, not estimates of real-world institutions", as A51's own caption says.
+- *Readings not held.* A63 sets the account beside Kitcher, Massimi and Andersen, but "The record holds no reading of these works" (SYNTHESIS-122, "Not stated on the record"). Hess's *Undone Science* is registered and unread (CLAIM-1140, note of 2026-11-24). This article makes no comparison with that literature.
+
+---
+
+## 5.1 Three frontiers that move separately
+
+ChatGPT's claim, filed from A71 §6 of "Topological protection explained", is that a learner's acquired organization "fixes three resource-indexed frontiers that move separately". These are the operational frontier ("what it can reliably do now within an operating budget"), the developmental frontier ("what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from") and the inquiry frontier ("what it can formulate and pursue"). So "no scalar measure of competence or plasticity ranks learners or learning processes independently of context, though one can once a task distribution, resource costs, horizon and evaluative preferences are declared" (CLAIM-754, Proposed, interpretive). Eighteen entries name it. Its defeater asks for a showing "that equal operational frontiers imply equal developmental frontiers, or that the inquiry frontier is a function of the operational one" (CLAIM-754).
+
+Two of its parts are held separately.
+
+- **The operational frontier is resource-conditional.** This is the owner's idea, in A's formalization: a disposition "is resource-conditional", repeated sampling raises a frozen model's chance that some attempt succeeds "from p to 1 − (1 − p)^N with no change to its parameters", and "coverage is not delivery, which needs a selector that recognizes success" (CLAIM-697, Proposed, demonstrated).
+- **Equal present capability can leave unequal later capability.** This is demonstrated, but for support, not for a learner's own training: "Two forms of support that give a party the same capabilities now can leave it different capabilities later … support that does the work shrinks what the party can reach unaided while support that covers only its shortfall does not" (CLAIM-675, Active, demonstrated).
+
+The definition of learning the three frontiers presuppose is ChatGPT's: "an experience-dependent change in the system's retained organization that alters what it can later do, at what cost and with what reliability, judged against a counterfactual in which the experience did not occur" (TERM-131, Proposed). The account that maps this line calls itself "learning as an experience-dependent change in a costed repertoire; three frontiers, operational, developmental and inquiry, that move separately" (SYNTHESIS-105, Proposed). Its central claim, CLAIM-754, is Proposed and interpretive. So A51's opening move, "Begin with the separation of the three frontiers", begins on Proposed ground. What is Active under it is the inquiry frontier (TERM-092) and CLAIM-675's result for support.
+
+## 5.2 Inquiry as specification, and stored specification
+
+### 5.2.1 The owner's two theses
+
+At U15 of the exchange of 2026-10-27 the owner wrote that "inquiry is a form of specification." The record holds it as: "a question fixes which differences would count as an answer, an inquiry adds the operations that make those differences accessible, and what it finds can stabilize into a specification that constrains later inquiry; so inquiry stands to its findings as a specification to its realizations, with one difference, that an inquiry can revise what an answer could be" (CLAIM-470, Active, interpretive). The claim "does not say that inquiry makes what it investigates" (CLAIM-470, summary). The object it is stated in is the owner's requested term: inquiry as "(Σ, A, 𝓘, 𝓞, 𝓚, 𝓑)", a language, an answer space, interventions, observations, criteria and resources, and "it is reflexive when any of these becomes what it is pursuing" (TERM-095, Active).
+
+At U17 of the same exchange the owner added: "resource constraints impact specification in exactly the same way as they impact realization. I can't interrogate a question that takes me more time than I have to even ask it." The record holds it as: "Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder" (CLAIM-475, Active, interpretive). The thesis is the owner's. The clause on stored specification is a consequence ChatGPT drew at A17 and A18 ("A17 and A18 drew a consequence … A stable specification amortizes the work that made it", CLAIM-475, summary). Its object is the inquiry frontier: "the questions it can formulate, making them determinate enough to pursue, with the concepts, records, tools, time and computation it actually has; distinct from the questions its language can express, from those it can pursue to a stated standard, and from those that have answers" (TERM-092, Active).
+
+The relationships among these achievements "form a partial order, not a nested sequence" (CLAIM-474, Active, interpretive). No step below assumes that formulating, pursuing and answering come in one order.
+
+### 5.2.2 What stored specification does
+
+CLAIM-475's last clause is two-sided, and the record keeps both sides.
+
+- **It cheapens.** The owner's thesis on stored work generalizes it: "A stabilized constraint can be stored work: by replacing later work with cheaper operations it changes which activities are realizable within a fixed per-task budget, so amortization becomes capability expansion without any added degrees of freedom or resources" (CLAIM-761, Active, interpretive; Article 3, §3.1). ChatGPT's governance reading is that "slow organizational modes arise partly as ways of amortizing inquiry and coordination costs" (CLAIM-1060, Proposed, interpretive). Its step from amortization to slow modes is ARG-238 (Proposed), "which CLAIM-755 narrows to the economic sense of slow" (CLAIM-1060, summary).
+- **It hardens.** A dated note on CLAIM-475 (A18 §8 of "Memes, Contracts") reads a contract as "a materialized answer to a historically recurring question" that "can make unfamiliar questions more expensive". Its bearing is "an instance … The claim is unchanged." A finer category also changes what is noticed: "refining a category makes misfits in the refined region more noticeable rather than fewer" (CLAIM-794, Proposed, empirical). That claim is about a record's grammar, and its test is a recode of CASE-300.
+
+The account of this line puts it in one sentence: "stored specification cheapens some questions and hardens others; and what makes reconfiguration self-governed is an open question" (SYNTHESIS-114, Proposed). The open question is QUESTION-388 (Open): "What distinguishes a programmable system from one that governs its own reconfiguration?"
+
+### 5.2.3 In what sense inquiry changes the inquirer
+
+The title can be read three ways, and they stand differently.
+
+1. **Inquiry changes which questions the inquirer can later ask, and at what cost.** That is CLAIM-475 (Active): the askable questions "are a product of what it has already realized", and stored specification moves their costs. In this sense the title restates an Active entry. A18 §18's "Inquiry as both product and mechanism of reflexive individuation" was declined for that reason: "no claim passes admission; it generalizes held claims and is an instance of CLAIM-475" (SYNTHESIS-tmp4tvbr, Proposed).
+2. **Inquiry can take its own language, answer space, criteria or resources as its object.** That is TERM-095's definition of reflexive inquiry, with CLAIM-470's "an inquiry can revise what an answer could be". It is a definition and a thesis, both Active, and the title adds nothing to them.
+3. **Inquiry is a way the inquirer learns.** On this reading, the change that stored inquiry makes is a learning in TERM-131's sense, an experience-dependent change in retained organization that alters what the inquirer can later do and at what cost. **No entry states this.** The account of the learning-and-inquiry line lists among the links it does not state "That learning and inquiry are one process, or that inquiry is a kind of learning … SYNTHESIS-116's self-formation and TERM-131's learning are not tied by any entry to CLAIM-470's specification" (SYNTHESIS-118, Proposed, "Not stated on the record"). The reading here is narrower than the one declined. It does not say that inquiry is a kind of learning. It says that an inquiry whose finding stabilizes produces a change that meets TERM-131's definition. The decline did not test that narrower form.
+
+The third reading is this article's own join (**J5.1**). It is not obviously true by definition. TERM-131 judges learning "against a counterfactual in which the experience did not occur", and sets learning apart from "a fixed controller's response". Whether formulating and pursuing a question counts as an experience in that sense is not settled by either entry. The join goes to ADR-075's test. Until it passes, the article uses the title only in senses 1 and 2. The record's nearest held statement in sense 3 concerns answering, not inquiry, and is Proposed (§5.4).
+
+## 5.3 The joint question–answer frontier
+
+### 5.3.1 The owner's U30, and the term it waits on
+
+At U30 of "Explain First Contact RL" the owner wrote: "Actually, i think we need to update "inquiry frontier" to account for the Answer Frontier as well. TERM-092 as you paraphrased it is actually just the query frontier component of the boundary about the inquiry, which includes an answer frontier" (CLAIM-1009, Proposed, interpretive). The record holds two ways to do it, and **choosing between them is the owner's**:
+
+- (a) revise TERM-092 itself to "the boundary of the question–answer processes an agent or organization can jointly realize within a declared budget, horizon and inquiry regime, with a query frontier and an answer frontier as components that do not determine it" (TERM-159, Proposed; A58 §3's wording);
+- (b) keep TERM-092 and name the joint object beside it: "the question–answer pairs it can bring about together … its question side is the inquiry frontier's investigable set, and its answer side, indexed by question, is the answer frontier" (TERM-160, Proposed; the assistant's wording).
+
+The audit of the motivating drafts flags A49's "Develop the existing joint inquiry frontier" as "Standing told as settled" for this reason (curation entry of 2026-11-24 20:56). This article uses "joint frontier" for the object both alternatives name, and does not choose between them.
+
+The owner's U27 asked the prior question: "so because both queries and responses are resource bounded, they'd be in competition for related resources? or is that resource coupling something we've already shown? I think we've demonstrated time as an influential shared resource in the dynamics here" (QUESTION-520, Open). The record's answer, in part, is ChatGPT's and checked by its filer: "That asking and answering are each resource-bounded does not make them compete: a common budget, a common bottleneck or a sequential dependence supplies the coupling, and a shared deadline is not a shared pool of worker-hours, since independent processes can spend the same elapsed time at once" (CLAIM-1157, Proposed, demonstrated).
+
+### 5.3.2 The result
+
+CLAIM-1190 is ChatGPT's thesis from A58, on the owner's U30. It says that inquiry "can fail at three sites, forming queries, producing answers and their joint realizability, and the third is not reducible to the first two" (CLAIM-1190, Active, demonstrated). A58 gave two reasons. Its §1 reason was a shared deadline: an organization "might be able to formulate a question within ten hours and, if given the question for free, produce an answer within ten hours", and it cannot thereby do both within the same ten hours. Its §2 reason was formal: two relations, 𝓕_1 and 𝓕_2, that share their projections onto questions and onto answers. That second reason "holds of any relation and its projections. It does not reach a query frontier and an answer frontier indexed by question, which A58 itself defines" (CLAIM-1190, "The two reasons"). What carries the claim is the first reason, as the assistant worked it out:
+
+> "At one budget, the questions an agent can formulate and the answers it can attain once a question is supplied do not fix which question–answer pairs it can attain together, but their budget-indexed families do when the costs of formulating and answering compose by a declared rule; what is left over is the rule, and where the way a question is formulated changes what answering it costs, not even the least costs fix it" (CLAIM-1115, Active, demonstrated; the assistant's).
+
+The four constructions, as the kept script reproduces them:
+
+1. **One budget does not fix the pairs.** Two systems both cost 10 to answer. One costs 10 to formulate and the other 2. At B = 12 both have the same askable question and the same conditional answer. Under sequential spending the first can reach no pair (20 > 12) and the second reaches (q, a) (12 ≤ 12).
+2. **The families over budgets do fix them, under a declared rule.** From the frontiers at every budget the least costs can be recovered, and with the additive rule the joint set follows. Checked over B = 0…39, the recovered set equals the true one at every budget.
+3. **The rule matters.** Formulating and answering each cost 6, and the horizon is 10. Run in sequence, 12 > 10, so the pair is out of reach. Run in parallel, 6 ≤ 10, so it is in reach.
+4. **Formulation can change the cost of answering.** One way of formulating q costs 2 and leaves an answer costing 9. Another costs 6 and leaves 3. The least costs sum to 5, but the true joint cost is 9. At B = 5 and B = 8 the least costs say the pair is reachable when it is not.
+
+The script also has a negative control, two routes whose cost of answering does not depend on the route of formulation. There the least costs give the joint set at every budget.
+
+**A51's abstract overstates this.** It says that the existing results "establish that the feasibility of question formation and the conditional feasibility of answering do not determine their joint realizability under a shared resource budget". That holds at one budget. Over the budget-indexed families, under a declared composition rule, they do determine it, except in construction 4's case. The record's account states the qualifier: "At one budget they do not fix it; over all budgets they do under a declared composition rule, except where how a question is posed changes what answering it costs" (SYNTHESIS-122, Proposed, step 13). CLAIM-1190's defeater states it too: the claim is "Not defeated … by reconstructing the joint pairs from the frontiers at every budget under a declared rule (CLAIM-1115's construction 2), which uses more than the one budget." The joint relation is a site of its own because the coupling (the rule, the schedule, and what formulating does to answering) is in neither frontier (CLAIM-1115, "What follows"). Its irreducibility is relative to one budget. It is not irreducibility outright.
+
+CLAIM-1190's title, read without its defeater, says more than this: that the pairs are "not determined by the questions it can ask and the answers it can attain taken separately". Its history concedes that it asserts no more than construction 1 shows. The title and the scope are inconsistent, and the article cites the scope.
+
+### 5.3.3 Bounds, depth and deadlines
+
+The separate frontiers do fix bounds. The pairs reachable together lie between an inner bound, posing and answering run one after the other, and an outer bound, each fitting alone, "and where between them depends on precedence and sharing that neither frontier records" (CLAIM-1025, Proposed, demonstrated; the assistant's). Its check uses three organizations with a horizon of 4 and three days each for posing and answering. They finish at 4, 6 and 6, so one meets the horizon and two do not, though the separate frontiers are the same. CLAIM-1025 gives bounds, not a characterization. Its inner bound is qualified by CLAIM-1115's construction 4. Its check was run by its filer only, and the script was not kept.
+
+Under a deadline, how deeply to inquire has an interior optimum: "the chance of success p(k)F(H − t(k)) is greatest at an interior depth where the relative gain in finding a suitable response equals the time cost times the relative loss in execution readiness" (CLAIM-1008, Proposed, demonstrated). And "when execution takes either a fast or a slow route a longer deadline can make a much shallower inquiry best, because the time it saves buys the slow route" (CLAIM-1203, Proposed, demonstrated). Both were checked by their filer.
+
+### 5.3.4 What "organizational arrangement determines" can mean
+
+A51 says that "the organizational arrangement determines which questions and answers become jointly attainable", and that "The same competence can be differently usable under different governance arrangements." The record holds the second sentence in miniature. In CLAIM-1115's construction 3, the same costs give different joint sets under sequential and parallel schedules. A dated note on CLAIM-1016 reports the A18 §3 widget: formulating takes 3, per-question authorization 4 and investigation 5, against a deadline of 10. The per-question route takes 12 and misses. A standing grant takes 8 and meets the deadline ("checked"). That widget restates the arrangement point (**J5.2**, a restatement of CLAIM-1115, "What follows", and of that note). The first sentence overstates. The arrangement is part of what fixes the joint set, together with the frontiers at every budget. It does not fix the joint set alone.
+
+A18 generalizes the widget to any term of a contract: "changing the contractual ecology can change the inquiry frontier without changing the intrinsic capabilities of any constituent process" (CLAIM-1016, note of 2026-11-24; A's words). Its bearing is recorded as "a restatement and a generalization", with no edge. No entry defines a joint relation indexed by the contractual ecology C. That is a gap (G5.6).
+
+## 5.4 Same answers, different development
+
+ChatGPT's claim, as revised to concede an objection, is that "Two organizations that give the same answers can differ in what answering does to them, so a response kernel that includes the organization's state after answering, observed through its later responses rather than compared as a state, separates what an answer benchmark treats as equivalent, such as one that learns from disagreement and one that suppresses it" (CLAIM-1156, Proposed, interpretive). This is the record's nearest statement that answering changes the answerer. It is Proposed, and it does not use TERM-131.
+
+The objection it concedes is the assistant's. A kernel that includes the post-state "is not an observational quantity: compared directly, it separates any two organizations whose post-states differ, even when no test could tell them apart". So the comparison "should observe the post-state only through its later responses, as a bisimulation pseudometric does" (CLAIM-1095, Active, demonstrated, a counter; grounds THEORY-247). The construction gives these distances:
+
+| pair | answers only | post-state compared directly | bisimulation |
+|---|---|---|---|
+| s, t: identical, distinct states | 0 | 1 | 0 |
+| u, v: same answers now; u learns, v suppresses | 0 | 1 | 5.4 |
+
+Only the bisimulation metric gets both pairs right. This is a stipulated two-query construction. It shows what a measure must do, not that any organization learns or suppresses.
+
+## 5.5 Authorization, legibility and standing
+
+### 5.5.1 The owner's U29
+
+The owner's U29 of "Explain First Contact RL" came on A54's employee who must justify time to a manager: "that's a good point, I'm not sure we ever picked up on the resource boundedness of asking permission. this connects us directly to Nucleation's legibility program." The record holds it as "Asking permission is resource bounded, and its boundedness connects the record's account of inquiry under deadlines directly to its legibility program" (CLAIM-1065, Proposed, interpretive). The case behind it is also the owner's (U28), with A54's numbers. An opportunity is open for ten days. The idea is formulated in one day, justified in two, approved in two and implemented in six. It is "lost under that workflow and kept by preauthorized discretion that lets justification run beside a first experiment" (CASE-386, Proposed, thought-experiment). The sequential route takes 11 days against a 10-day window.
+
+### 5.5.2 ChatGPT's development, and the assistant's gap fill
+
+All of the following is Proposed and interpretive, and each entry rests on the one before it.
+
+- "Permission to pursue an inquiry is a second-order query, formulated by the proponent and evaluated by the authority within their own budgets, so the questions an organization authorizes are a subset of those its members can ask, and an authorization can take so long that the opportunity it authorizes has closed, whatever the verdict" (CLAIM-996; A56 §§2–3). Seven entries name it.
+- "Where the evidence that would justify authorizing an inquiry can only be produced with resources that need the authorization, the dependency is circular, so a proposal's failure to persuade does not show that the possibility behind it is worthless" (CLAIM-1140; A56 §5). It blocks an inference. It does not show that unpersuasive proposals are worthwhile.
+- "The cost of making a proposal legible to the authority that controls its resources is not a property of the idea but of how an institution distributes interpretive labour, so an institution can steer which questions are pursued by deciding who must pay to make them legible, with no rule against any idea" (CLAIM-1117; A56 §4).
+- The assistant's gap fill for why A56's remedies work: "Authorization granted question by question puts its cost between formulating a question and investigating it, on the same budget, while a standing grant pays it once for a domain before any question in it is formulated, so the remedies for the circle between evidence and permission work by changing the unit of authorization, and authorization's cost belongs in the joint inquiry relation as a third cost on the shared budget" (CLAIM-1016). It was kept at the status pass because its premises are Proposed. A18's own limit on the widget that illustrates it applies to the claim as well: the standing grant's "initial establishment and continuing maintenance have costs not included in this per-inquiry calculation" (CLAIM-1016, note of 2026-11-24).
+
+The record has no model of the circle itself: no seed evidence, and no absorbing state from which a proposal never leaves (G5.3). CASE-388 (Proposed, proposed-study) would compare four review arrangements. It has not been run, and no lead holds it (G5.1).
+
+### 5.5.3 Four achievements, and their neighbours
+
+From A18 §4 of "Memes, Contracts", on the owner's U15 of that exchange: "Within an organization, being able to formulate a question, having standing to pursue it, having the resources to pursue it and being able to make its findings consequential are four separate achievements, and the entitlements that secure the last three make up an operational epistemic constitution" (CLAIM-tmp2kfwd, Proposed, interpretive). Its new step is that standing and resources come apart, as operational standing (TERM-tmpgiy6r, Proposed) comes apart from effective authority. It "parallels" the owner's synthesis, in which legibility, volitional efficacy and correctability are "three distinct achievements" (CLAIM-523, Active, interpretive). It sits beside a held separation of uptake: "admission … recognition … credibility … uptake … and its contributor's part in revising the standards of uptake are separable" (CLAIM-403, Active, interpretive).
+
+Each of these achievements is a necessary condition, and none is shown sufficient. A separation says that each can be had without the next. It does not say that having all of them secures a consequential inquiry.
+
+A51 also places "transactive capacities" here. **No claim on the record holds them.** The phrase occurs only in proposed studies and readings (G5.4).
+
+### 5.5.4 Authorization: a cost and a condition
+
+CLAIM-1016 prices authorization as a cost on the shared budget. Elsewhere the record treats it as a condition. A note on TERM-114 adds Θ, "whose changes of architecture are authorized, as distinct from which are feasible and at what cost", and says that "whether to add Θ is the owner's call" (TERM-114, Active, note of 2026-11-17). Both readings are sound for their purposes. A grant one lacks is a bar, and the process of seeking one takes time. One open lead combines them: a transition is authorized when "i holding or able to obtain the grant W requires" (LEAD-tmpeo8wq, step 2). The combination is therefore the lead's, not this article's (**J5.5**, a restatement). The record has not filed **whether obtaining a grant is itself a costed transition**, one with its own path, peak and failure modes. That question is what would join the two readings (G5.2).
+
+## 5.6 Reach indexed by actor and by authority
+
+This section takes over Part I's §3.7 under A51's plan. It asks what one party can reach as distinct from what the parties can reach together, and under whose authority.
+
+### 5.6.1 Four predicates on a transition, kept in three places
+
+ChatGPT set four predicates on a transformation apart: physically feasible, affordable, authorized and normatively permissible, which "need not coincide" (A30 §11, as quoted in CLAIM-tmpdu9v6). The record holds them in three places:
+
+| Predicate | Where it is held | Standing |
+|---|---|---|
+| feasible | the admissible processes P_z(q, q′) of TERM-114 | Active |
+| affordable | "q ⇝_b q′ ⟺ ∃p ∈ P_z(q, q′) : κ(p) ⪯ b" (TERM-114) | Active |
+| authorized | Θ, in a note on TERM-114, not in its definition | a note on an Active term; the owner's call |
+| permissible | Perm_N(p), "its permissibility under a declared standard" (CLAIM-tmpdu9v6) | Proposed |
+
+No single object holds the four together. This sorting is the lead's own list of what the record holds (**J5.6**, a restatement of LEAD-tmpeo8wq, "The gap").
+
+### 5.6.2 An obligation bars a transition and does not price it
+
+ChatGPT's claim (A32 §13) is that "A genuine obligation enters a cost model of exit as a condition on which transitions are permissible, not as a cost: withdrawal can be feasible and affordable yet impermissible until alternatives are arranged or the duty is transferred, so a party who controls the circumstances that keep the restriction in place controls the other's exit without raising its price" (CLAIM-tmpdu9v6, Proposed, interpretive). Read beside §5.5.4, the record has a cost reading of authorization and a bar reading of obligation, and it has not stated how the two compose on one transition.
+
+### 5.6.3 Together and alone
+
+Two results bear on what one party can reach unaided, and both are Active and demonstrated.
+
+- CLAIM-675: support that does the work "shrinks what the party can reach unaided while support that covers only its shortfall does not".
+- CLAIM-602: where capacity is learned by doing and decays with disuse, "what decides dependence is the order in which supply and capacity are used, not the amount of supply". Its model is dC/dt = λP(1 − C) − μC.
+
+Both are about a scalar capacity, not a set of reachable states over TERM-114. A note on the lead of 2026-11-24 reads them as "step 3's construction for solo reach under supply, with its negative control (shortfall support), already demonstrated" (LEAD-tmpeo8wq).
+
+In values, ChatGPT's A24 §4 model has specialization raise joint production while it lowers one party's independent capacity. At full specialization with no protection of B's fallback, "the split is 14.75 to 11.25 in A's favour; with full protection, 12.25 to 13.75" (CLAIM-tmp2jhc1, Proposed, interpretive). The bargaining step is the assistant's and was checked. Under the equal-weight Nash solution, u_B = (V − o_A + o_B)/2, so B's fallback moves the split "whether or not B ever takes the outside option". ChatGPT's caption limits the model: "Maintaining fallback capacity is not priced in this model" (CLAIM-tmp2jhc1).
+
+### 5.6.4 What is done, what is open, and the expectation
+
+That collective reach can grow while independent reach shrinks is not new. For one party's unaided reach it is demonstrated, by CLAIM-675 and CLAIM-602. The lead's note narrows what stays open to "the authority index W, the four predicates per transition, and whether solo reach's shrinkage, not a price, moves the terms the other can offer" (LEAD-tmpeo8wq, Open, stage idea). This article asserts nothing beyond that.
+
+**Expectation, before any result,** for the remainder. This is the lead's own null: "If R_i cannot shrink without some transition's price changing, the dependence is already priced by TERM-116's profiles, and the index adds notation only" (LEAD-tmpeo8wq). The note does not settle whether CLAIM-675's shrinkage, a decline in the party's own capacity, counts as a change in some transition's price. The lead must state that before it runs, or the null cannot fail.
+
+## 5.7 Governance that changes what an organization asks
+
+A51's §10 sentence "Authority transforms inquiry" has its strongest support in two executed models. In both, what changes the inquirer is the governance of its inquiry, not inquiry itself.
+
+**Suppression by score.** A simulated institution faces 10 visible and 20 hidden requirements under five regimes. "Penalized for every recognized violation and unrewarded for discovery, it learns to make no inquiry in every setting while its internal record shows almost no violations, against half its budget spent on inquiry when an independent evaluator scores it" (CASE-396, Active, executed study). The pathwise result is this: in an institution whose recognized violations are all penalized and whose discoveries earn nothing, "inquiry that only reveals requirements never raises its score when the hidden requirements do not otherwise come to light" (CLAIM-1064, Active, demonstrated). The study has its own negative result: "removing the penalty on newly recognized violations does not by itself bring inquiry back, because inquiry still earns the institution nothing" (CASE-396, result 4). What restores some inquiry is scoring by an independent count, a reward for discovery, or an outside cost of being found out large enough to outweigh the penalty. Reading CASE-396 as governance changing what an inquirer learns to ask restates the case's own "What it can show" (**J5.3**, a restatement). The learner is told only its score.
+
+**Self-certification against a narrow specification.** A demand the specification does not name is introduced mid-run. An organization that never enters it "scores zero violations against the original specification and its own while the harm runs for all 120 periods" (CASE-397, Active, executed study).
+
+**Two Proposed readings sit on these.**
+
+- ChatGPT's: an organization loses adaptability by two routes, and "the second is harder to detect, since a question nobody formulates leaves no recorded failure to answer it" (CLAIM-1003, Proposed, interpretive). "CASE-397 is the record's construction of the undetected route" (CLAIM-1003, summary).
+- ChatGPT's query-induced capability trap: of two ecosystems equivalent under routine queries, the one "that optimized away capacities only an unasked query needs is rewarded, its success confirms the questioner's belief that the routine family suffices, and the two strategies co-adapt" (CLAIM-1054, Proposed, interpretive). "A50 asserts the mechanism without a model; LEAD-218 would build one" (CLAIM-1054, summary). LEAD-218 is Open and specified, and not run. A18 §11 supplies "candidate variables … not the model" (CLAIM-1054, note of 2026-11-24).
+
+The contract-governed agent of LEAD-tmpbqj9u (Open, stage idea; ChatGPT's arms from A16 §17 and A18 §17) would test, among other things, "centralized inquiry ('Every novel question requires approval')" against "local inquiry with standing exploratory allocations". Its note of 2026-11-24 cites CASE-325, CASE-396 and CASE-397 as baselines already run. What stays open is the reflexive arm and the composition of the contract schema. Narrowing it is the owner's call.
+
+## 5.8 Overconsolidation and adaptive readiness
+
+### 5.8.1 The owner's generalization
+
+When A48 §8 named "the possibility of learning oneself into a trap", the owner answered at U22 of "Topological protection explained": "sounds like you've landed on a generalization of overfitting that I think captures the more recent notion of "over cooking" a learning process." The record holds it in ChatGPT's wording. Relative to a declared family of later acquisitions outside the training task distribution, "continued stabilization of a learner can keep improving its present objective while raising the budget it needs to acquire that family to a declared reliability with its held capabilities kept above a declared floor … it is a failure only relative to that family and horizon" (CLAIM-758, Proposed, interpretive). Twelve entries name it. Its first defeater, that it is "a subtle form of task overfitting", is pressed by the readings of Yin and Rajendran. Its own account says plainly: "That any learner is overconsolidated: nothing has been measured" (SYNTHESIS-105, "What it does not say").
+
+### 5.8.2 What is demonstrated and what is not
+
+A51 asks the article to "Distinguish the demonstrated possibility of operational improvement alongside increased developmental cost from the still-open empirical question of how broadly this occurs in actual learning systems". The record draws the line more tightly than that.
+
+- **Demonstrated for support:** CLAIM-675 and CLAIM-602 (Active), where the work is done by another party.
+- **Demonstrated for matched output against readiness:** six budget regimes "produce the same output until a contingency arrives, while readiness at a deadline of six periods ranges from 0.147 to 0.894" (CASE-412, Active, executed study). The model concerns budgets for an organization's transitions. It does not model a learner's training.
+- **For a learner's own training:** only CLAIM-758, which is Proposed and interpretive. Not even the *possibility* is demonstrated there. Its "Rests on" says CLAIM-675 is "demonstrated for support; this claim says training can be such a process for the learner itself".
+
+A63 §8 carries overconsolidation to an institution as "epistemic overconsolidation". The record's account maps that phrase to "CLAIM-758 carried to an institution, and CLAIM-1054" (SYNTHESIS-122, parts table), and no claim states it. This article does not assert it (**J5.4**, not made).
+
+**The study, not run.** CASE-294 (Proposed, proposed-study) was requested by the owner at U23, "design an experiment using pythia". Across checkpoints of one pretraining run it would measure the budget each checkpoint needs to acquire held-out task families, "to see whether later checkpoints are better now but cost more to teach new tasks". Its leads are LEAD-010 (calibrate: two task families on four checkpoints) and LEAD-012 (the study proper), both Open and specified. *Expectation, before any result, and the record's:* the design's hypothesis is that later checkpoints are better on the pretraining objective and costlier to teach. The prior result it cites is Dong's plasticity loss over Pythia training (THEORY-1353, Proposed). *Falsifier:* adaptation cost flat or falling across checkpoints with forgetting held to the floor. A null on these families would not refute CLAIM-758, which is relative to a declared family, but it would leave the claim without the instance its account lacks.
+
+### 5.8.3 Adaptive inquiry readiness
+
+ChatGPT's A63 §8, at the owner's U32 of "Explain First Contact RL", defines adaptive inquiry readiness as "the condition of meeting its current epistemic obligations while keeping admissible, affordable and sufficiently reliable pathways to investigate the relevant demands within their horizons; kept up through the institution's own activity, it is a viability condition" (TERM-163, Proposed). It is the Active readiness of TERM-115 ("the probability that an organization operating under a specified policy can deliver an effective response to a specified contingency within its deadline") with epistemic demands as the contingencies. **Its definition waits on the owner's ruling** (TERM-163, note of 2026-11-24). As written, its probability is not yet defined. The assistant's note says that "A18 does not say what the probability is over … R_C needs a declared law of those states". So the term names a condition. It does not yet measure one.
+
+What an organization would maintain, on ChatGPT's A54 reading of the owner's U28 conjecture (CLAIM-1004, Proposed: persisted perspectives "may serve as conceptual nucleation sites for pursuing inquiry in depth in parallel"), is "an ecology of partially independent inquiry-and-response capacities" (CLAIM-1177, Proposed, interpretive). A maintained nucleus differs "from an archived alternative, which keeps only a description, and from active parallel inquiry, which keeps receiving resources" (CLAIM-1148, Proposed, interpretive). In a linear model, holding one ready "costs its decay rate times that level over the efficiency of investment whether or not it is used" (CLAIM-1195, Proposed, demonstrated, checked by its filer). The owner's U31 adds that these ideas clarify "why diversity is generally an accurate measure of an ecosystem's richness" (CLAIM-1034, Proposed). What the record supports under it is narrower: the coverage model supports it only under one-at-a-time selection with no shared budget, and what should be maintained is capacity, not pursuit (SYNTHESIS-122, step 16).
+
+### 5.8.4 The matched-organization study, and what it must separate
+
+ChatGPT's A63 §9.4 proposes organizations "matched in initial expertise, technical resources and performance on familiar inquiries but differing in how inquiry is authorized and perspectives maintained", with "a difference in success on the novel ones" as the discriminating result (CASE-395, Proposed, proposed-study). **It has not been run, and no lead holds it** (G5.1). Its own text gives the obstacle: the matched-performance model "already shows the predicted pattern from a different mechanism, which the design must separate". In CASE-412 and CASE-397 the pattern is "produced by budget rules and reserves, not by authorization or perspective maintenance" (CASE-395). So a matched-on-familiar, different-on-novel result would not, by itself, discriminate authorization from budget.
+
+*Expectation, before any result (mine, with no lead to cite).* If the study ran as A63 designs it, the familiar–novel gap should track slack (a held reserve) at least as strongly as it tracks the authorization regime. *Falsifier:* with slack held fixed, as CASE-395's note proposes ("an organization that keeps a reserve and one that does not, with authorization held fixed"), the gap persists across authorization regimes. Only that arm would bear on CLAIM-1016 and CLAIM-1177 rather than on CASE-412's mechanism.
+
+## 5.9 What the record has already done, and the record as a case
+
+The owner's U32 of "Memes, Contracts" held that the series' proposed experiments are "largely already satisfied by prior work" (CLAIM-tmpyp0ju, Proposed, interpretive). The assistant's check of that thesis has no row for this article's studies, and the README's "What the record has already done" has none either (G5.5). This table is that row.
+
+| Proposed study or test | Verdict | Settled by (standing) | What stays open |
+|---|---|---|---|
+| The joint frontier (§5.3) | done in part | CLAIM-1115, CLAIM-1190 (Active, demonstrated, set Active under delegation; 1115 rerun by another session); CLAIM-1025's bounds (Proposed, filer-checked) | TERM-159 or TERM-160 (the owner's); no C-indexed relation |
+| Same answering capability, different arrangements (§5.3.4, §5.4) | done in part, formally | CLAIM-1115 constructions 1 and 3; CLAIM-1025's three organizations; CLAIM-1095 (Active); CASE-396 (Active) | CASE-395, not run, no lead, and it must separate CASE-412's mechanism; LEAD-tmpbqj9u's reflexive arm |
+| Authorization traps (§5.5) | done in part | CASE-386 (the owner's; 11 > 10); A18's widget (12 against 8; a note on CLAIM-1016); CLAIM-1140, CLAIM-1016 (Proposed); CASE-396, CLAIM-1064 (Active) | a model of the evidence–permission circle; CASE-388, not run, no lead |
+| Operational gain with developmental cost (§5.8.2) | done for support and for matched output | CLAIM-675, CLAIM-602, CASE-412 (Active) | training itself: CASE-294 via LEAD-010 and LEAD-012, not run |
+| The query-induced trap (§5.7) | not done | none: CLAIM-1054 has no model | LEAD-218 |
+| Reach by actor and authority (§5.6) | done in part | CLAIM-675, CLAIM-602 (Active); CLAIM-tmp2jhc1's values (Proposed) | LEAD-tmpeo8wq, narrowed |
+| Overconsolidation's prevalence (§5.8) | not done | none | CASE-294; A51 calls it "a genuine research opportunity" |
+
+**The record as a case.** A51 §6 proposes the record itself as "an implemented instance of resource-bounded, reflexive epistemic organization", and suggests a companion paper, "Inquiry as Infrastructure". The audit finds §6 a recap of SYNTHESIS-012, SYNTHESIS-017 and ADR-143, and the companion paper an owner's choice (curation entry of 2026-11-24 20:56). What the record has measured about itself is one census: "of its 114 decisions to 2026-11-20, 88 changed the grammar, 62 by refinement, 25 by revision and 1 by restraint … the noticing moved from filing agents to review procedures while judgment about revisions stayed with the owner" (CASE-300, Active, executed study). The record's own account of what such a record secures is guarded: "traceable change over its accountability structure, which is neither sufficiency for revision nor correctness" (SYNTHESIS-017, Proposed). And the pass that promoted §5.3's results is an instance of this article's subject, run by the assistant under delegation, with its own caution: promotion by use "would be the self-certification the record's own CLAIM-1064 and CASE-397 model" (LEAD-tmp0j28l, Open, underway). The owner's QUESTION-457 asks whether such a collective can improve its own procedures "without losing the capacity to detect failures in that apparatus". It is Open. For the reasons under "Limits", this article does not use the record as evidence for the account the record holds (**J5.7**, not made).
+
+## 5.10 What this article can rest on
+
+| Step | Entries | Standing |
+|---|---|---|
+| Inquiry is specification that can revise its answer space; reflexive inquiry | CLAIM-470 (the owner's U15), TERM-095 (the owner's request) | Active, interpretive; 470 at a delegated review, TERM-095 adopted by the owner |
+| Formulating is costed; stored specification cheapens and hardens | CLAIM-475 (the owner's U17; the stored clause A17–A18's), TERM-092 | Active, interpretive; delegated review |
+| Stored work moves a task under a budget | CLAIM-761 (the owner's thesis) | Active, interpretive; delegated review |
+| Three frontiers move separately | CLAIM-754, CLAIM-697, TERM-131 | Proposed |
+| At one budget the frontiers do not fix the joint pairs; across budgets, under a declared rule, they do, except where formulation changes answering's cost | CLAIM-1115, CLAIM-1190 (on construction 1 only) | Active, demonstrated; set Active by the assistant under delegation |
+| Bounds on the joint set; interior depth under a deadline; coupling needs a shared budget, bottleneck or dependence | CLAIM-1025, CLAIM-1008, CLAIM-1203, CLAIM-1157 | Proposed, demonstrated; filer-checked |
+| Same answers, different development, measured observationally | CLAIM-1156; CLAIM-1095 | 1156 Proposed; 1095 Active, demonstrated, under delegation |
+| Permission is a costed second-order query; the circle; legibility steers; standing grants change the unit | CLAIM-1065 (the owner's U29), CLAIM-996, CLAIM-1140, CLAIM-1117, CLAIM-1016, CASE-386 (the owner's U28) | Proposed, interpretive |
+| Four separate epistemic achievements | CLAIM-tmp2kfwd; beside CLAIM-523 (the owner's), CLAIM-403 | tmp2kfwd Proposed; 523 and 403 Active, delegated review |
+| Score-driven suppression of inquiry; self-certification | CASE-396, CLAIM-1064, CASE-397 | Active; 397 by the owner's word |
+| Unasked questions leave no failure; the query trap | CLAIM-1003, CLAIM-1054 | Proposed; no model |
+| Support that does the work shrinks unaided reach | CLAIM-675, CLAIM-602 | Active, demonstrated; delegated review |
+| Reach by authority; four predicates in one object | LEAD-tmpeo8wq | Open, stage idea |
+| Overconsolidation | CLAIM-758 (the owner's U22) | Proposed, interpretive; nothing measured |
+| Readiness for epistemic demands; an ecology of nuclei | TERM-163, CLAIM-1177, CLAIM-1148, CLAIM-1195 | Proposed; TERM-163 waits on the owner |
+
+The demonstrated core is Active, small and formal. It consists of the joint-frontier constructions, the observational correction, and the executed suppression and readiness models. The owner's theses that connect it to inquiry are Active and interpretive, ruled so at delegated reviews. Everything that would make this an account of how organizations govern their inquiry is Proposed: the three frontiers, the authorization thread, the epistemic constitution, overconsolidation and readiness. The title thesis is held only in the senses of CLAIM-475 and TERM-095.
+
+---
+
+## Joins
+
+Joins are steps this draft takes that the record keeps apart. None has yet been put to ADR-075's test by an independent reader. Each line gives the components, whether an entry states the join, and whether an account declines it.
+
+- **J5.1** (§5.2.3). *Inquiry is a way the inquirer learns.* An inquiry whose finding stabilizes produces a change that meets TERM-131's definition of learning. Components: CLAIM-475 (Active), CLAIM-470 (Active), TERM-131 (Proposed). **No entry states it.** SYNTHESIS-118's "Not stated on the record" declines the wider "inquiry is a kind of learning", and that decline did not test this narrower form. SYNTHESIS-tmp4tvbr declines A18 §18 as an instance of CLAIM-475, which is sense 1, not this one. The open point is whether formulating a question is an "experience" under TERM-131's counterfactual. This is the article's own join. It goes to the test as a candidate derivation, and the text does not assert it.
+- **J5.2** (§5.3.4). *The same competence is differently usable under different arrangements.* Restatement of CLAIM-1115's construction 3 and "What follows", with CLAIM-1016's note on A18 §3. A51's stronger "the arrangement determines" is not a join. It overstates, and the text corrects it.
+- **J5.3** (§5.7). *CASE-396 as governance changing what an inquirer learns to ask.* Restatement of CASE-396, "What it can show", with CLAIM-1064.
+- **J5.4** (§5.8.2). *Epistemic overconsolidation*, CLAIM-758 carried to an institution. A63 §8's phrase, which SYNTHESIS-122's parts table maps to CLAIM-758 and CLAIM-1054. No claim states it. **Not made.**
+- **J5.5** (§5.5.4). *Authorization as both a cost and a condition.* Restatement of LEAD-tmpeo8wq, "The gap" and step 2 (Part I's J3.12, carried over).
+- **J5.6** (§5.6.1). *The four predicates, and where each is held.* Restatement of LEAD-tmpeo8wq, "The gap", with TERM-114's note (Part I's J3.9, carried over).
+- **J5.7** (§5.9). *The record as a running case for this article's account.* **Not made**, for the circularity stated under "Limits". The audit finds A51 §6 a recap of SYNTHESIS-012, SYNTHESIS-017 and ADR-143.
+
+## Gaps
+
+- **G5.1** CASE-395 and CASE-388 are proposed studies that no lead holds. Each is a measurement, so it belongs in a LEAD with its design fixed. CASE-395's lead would carry the slack arm its own note names.
+- **G5.2** Whether obtaining a grant is itself a costed transition, with its own path, peak and failure modes. This is what would join CLAIM-1016's cost reading to Θ's condition reading. Not filed.
+- **G5.3** No model of the circle between evidence and permission: no seed evidence, and no absorbing state. CLAIM-1140 argues it and CLAIM-1016 says how remedies break it. Neither models it.
+- **G5.4** No claim on "transactive capacities", which A51 places in this article.
+- **G5.5** CLAIM-tmpyp0ju's check and the README's "What the record has already done" have no row for this article. §5.9's table is a candidate for both.
+- **G5.6** No joint relation indexed by the contractual ecology C is defined. A18's generalization in CLAIM-1016's note names it and no entry defines it.
+- **G5.7** The accounts lag. SYNTHESIS-118 predates the fourth share of "Explain First Contact RL" and integrates none of CLAIM-1115, CLAIM-1190 or TERM-160. SYNTHESIS-114 gives CLAIM-761 as Proposed, though it has been Active since 2026-11-20. Both need the synthesis-review skill's stage 4.

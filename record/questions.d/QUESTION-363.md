@@ -23,7 +23,7 @@ summary: >-
   strong" and kept a narrower one, which is this question. It refines
   [QUESTION-039](QUESTION-039.md), which asks what sets the order and moment of acquisition.
 ---
-<!-- inactive-ok-file: THEORY-tmpm3ux2 — Proposed; the reading of Lee et al. filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2191 — Proposed; the reading of Lee et al. filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: THEORY-209 — Open or Proposed; the question this refines and Kunin's sampler reading, cited as open -->
 <!-- inactive-ok-file: CLAIM-834 CLAIM-828 CLAIM-812 — Proposed; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" and cited in the note of that date -->
@@ -151,7 +151,7 @@ picture of staged learning, is [CLAIM-834](../claims.d/CLAIM-834.md). No status 
 
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
-Leaves the question open ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md)). The paper takes Bayesian
+Leaves the question open ([NOTE-2248](../notes.d/NOTE-2248.md)). The paper takes Bayesian
 singular learning as an analogy for training's stages ("While there are
 many differences between Bayesian inference and modern neural network
 training, an analogy to the singular learning process informs our
@@ -163,7 +163,7 @@ written.
 
 ## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
 
-Bears on it; leaves it open. Lee et al. ([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md), [NOTE-tmp1sot8](../notes.d/NOTE-tmp1sot8.md))
+Bears on it; leaves it open. Lee et al. ([THEORY-2191](../theory.d/THEORY-2191.md), [NOTE-2279](../notes.d/NOTE-2279.md))
 predict influence dynamics from the Bayesian posterior's transitions and
 observe them along SGD training, in a deep linear network and small
 language models. Their stated gap is this question: "The primary
@@ -172,3 +172,27 @@ of SLT and the non-equilibrium dynamics of SGD" (§5). Their influence
 estimates are local, from SGLD started at each SGD checkpoint, so the
 agreement they report is between SGD's stages and posteriors localized
 on SGD's own path, not the global Bayesian order in n.
+
+## Note of 2026-11-22: the two tests run ([LEAD-175](../leads.d/LEAD-175.md))
+
+Both tests of the note of 2026-11-06 were run in Chen et al.'s model
+([CASE-402](../cases.d/CASE-402.md); scratch/studies/lead-175/).
+
+**SGD.** None of 1,008 runs reached the 6-gon. They covered n from 300
+to 2,000, batch 1 to 100, rates 0.001 to 0.2, the paper's 4-gon start,
+the 5-gon, the 5⁺-gon and prior draws, and up to 45,000 epochs. From the
+5-gon the move is closed outright: the dropped feature gets an exactly
+zero gradient from every sample, so SGD's noise is zero in the
+coordinates the crossing needs ([CLAIM-1098](../claims.d/CLAIM-1098.md)). From the live 5⁺-gon it
+was not taken ([CLAIM-1057](../claims.d/CLAIM-1057.md)). For this model "inaccessible", not "not
+reached", is the answer. Of the title's candidates, accessibility is the
+one that acts. The noise is no temperature in those directions, in line
+with [THEORY-1353](../theory.d/THEORY-1353.md).
+
+**Posterior.** Sampling exp(−nL) puts 5 → 5⁺ near n = 780 and 5 → 6
+near 270. The formula gives 1,600–2,500 and 601. The chain's first two
+steps have no crossing above n ≈ 1 ([CLAIM-1162](../claims.d/CLAIM-1162.md)). Chen et al.'s NUTS
+likelihood has a factor ½ that their formula's nL lacks. On their scale
+the sampled 5 → 6 is at about 530–560, consistent with their Fig. 2. The
+posterior favours the 6-gon at n = 1,000 on either scale. No status
+changes.

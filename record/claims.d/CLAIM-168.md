@@ -2,7 +2,7 @@
 number: 168
 status: Proposed
 formerly:
-- CLAIM-168
+- CLAIM-tmpm5571
 title: 'Identifying agents by their will-organization is circular: will-organization is defined for an agent already given, and the agent-versus-device comparison presupposes an identified system, so neither can produce the factorization it is meant to find'
 version: 1
 role: counter

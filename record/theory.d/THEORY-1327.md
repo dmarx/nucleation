@@ -112,7 +112,7 @@ and did not find them.
 
 The meta-review's gap "none that separates integrated from identified
 regulation" is **confirmed from the primary meta-analysis** ([LIT-1996](../literature.d/LIT-1996.md),
-[NOTE-tmp3k6if](../notes.d/NOTE-tmp3k6if.md)): pooled r = .913, overlapping intervals, "practically
+[NOTE-2313](../notes.d/NOTE-2313.md)): pooled r = .913, overlapping intervals, "practically
 indistinguishable" (p. 28). One qualification of the meta-review's report:
 its "too few studies measuring integration" is not the paper's reason;
 integrated regulation has 84 to 98 samples, and the paper puts the problem

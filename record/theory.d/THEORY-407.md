@@ -20,7 +20,7 @@ summary: >-
   Karlsson–Margulis and Kaimanovich forms should be cited to their
   originals. The hypotheses are ergodic stationary sampling and N → ∞.
 ---
-<!-- inactive-ok-file: NOTE-tmpy4hcs THEORY-tmpocjqv LIT-3005 — Skimmed, Proposed or Unfetched; the reading of Alsmeyer and Mentemeier and the Kesten paper it stands in for, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: NOTE-2273 THEORY-2182 LIT-3005 — Skimmed, Proposed or Unfetched; the reading of Alsmeyer and Mentemeier and the Kesten paper it stands in for, cited in the note of 2026-11-22 -->
 
 <!-- inactive-ok-file: THEORY-325 — Proposed; named in Connections for contrast, not leaned on -->
 
@@ -93,8 +93,8 @@ A parallel ([NOTE-2099](../notes.d/NOTE-2099.md)): Poole and colleagues relate t
 
 ## Note of 2026-11-22: Alsmeyer and Mentemeier, skimmed
 
-**Background.** Alsmeyer and Mentemeier ([LIT-tmpt282z](../literature.d/LIT-tmpt282z.md), skimmed in
-[NOTE-tmpy4hcs](../notes.d/NOTE-tmpy4hcs.md); the reading is [THEORY-tmpocjqv](THEORY-tmpocjqv.md)), read as a stand-in for
+**Background.** Alsmeyer and Mentemeier ([LIT-3045](../literature.d/LIT-3045.md), skimmed in
+[NOTE-2273](../notes.d/NOTE-2273.md); the reading is [THEORY-2182](THEORY-2182.md)), read as a stand-in for
 Kesten ([LIT-3005](../literature.d/LIT-3005.md)), use the top exponent of this account for the random
 difference equation R_n = M_n R_(n−1) + Q_n: a negative Liapunov
 exponent β := lim n^(−1) log ‖Π_n‖ gives a stationary solution, and the

@@ -196,3 +196,22 @@ extension testable; it does not make its ontology so.
   condition defeats the conjunction; the ontological clause ([CLAIM-215](CLAIM-215.md)),
   statistical recovery ([CLAIM-209](CLAIM-209.md)) and receivers' recovery ([CLAIM-220](CLAIM-220.md))
   are stated apart, each with its own condition, as [CLAIM-216](CLAIM-216.md) asks.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
+
+A32 §16 applies the relational-organization account of transport to
+contracts and norms: "transferring a contract between organizations does
+not necessarily consist in reproducing its wording. The relevant question
+is whether the receiving organization reconstructs its practical
+relationships." Its fidelity failures: a written rule with "Same words,
+different consequences", a principle with the same words and different
+standing, a protocol with "Same actions, different authority", a
+guarantee with "Same stated guarantee, different readiness", a procedure
+with "Same procedure, different revision opportunities". "A meme may
+transmit a partial specification of a contract. The surrounding
+organization supplies the rest", which "would explain why apparently
+identical cultural principles can nucleate substantially different
+institutional arrangements." A32 traces this to [CLAIM-115](CLAIM-115.md)'s normative
+generalization (Superseded, so not noted there). An extension of this
+claim's object from communicative kinds to contracts, by analogy; the
+memes-as-seeds idea it draws on was introduced at U2. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

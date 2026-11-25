@@ -16,16 +16,16 @@ date: '2026-11-22'
 source:
 - LIT-tmpqagik
 corroborates:
-- CLAIM-tmpnookt
+- CLAIM-949
 summary: >-
-  From the reading of [LIT-tmpqagik](../literature.d/LIT-tmpqagik.md) in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md), for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md). The modes are
+  From the reading of [LIT-tmpqagik](../literature.d/LIT-tmpqagik.md) in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md), for [LEAD-215](../leads.d/LEAD-215.md). The modes are
   information flow (§1, §3.1, §8.4); the recipe assigns them (§4); the
   change of direction is a test, subsumption, of the synthesized "fact"
   against the checked "requirement" (§4.4). It corroborates the
-  fact-and-requirement reading of the two modes in [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md), which
+  fact-and-requirement reading of the two modes in [CLAIM-949](../claims.d/CLAIM-949.md), which
   [ARG-tmpcpo8g](../arguments.d/ARG-tmpcpo8g.md) narrows. Proposed until its promote_when is met.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt — Proposed; the claim this reading bears on -->
+<!-- inactive-ok-file: CLAIM-949 — Proposed; the claim this reading bears on -->
 <!-- inactive-ok-file: ARG-tmpcpo8g — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # THEORY-tmptsz1u: Dunfield and Krishnaswami show that bidirectional typing splits typing into checking a term against a type given as input and synthesizing a type from the term as output, a split of information flow, which part of a judgment is known, assigned rule by rule so that no type is guessed (introductions checked and eliminations synthesized in the Pfenning recipe), with the two meeting where a synthesized type is tested against a required one, and with the term an input in both

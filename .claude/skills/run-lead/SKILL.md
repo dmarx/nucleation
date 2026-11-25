@@ -1,6 +1,6 @@
 ---
 name: run-lead
-description: How a delegated worker carries out one LEAD of the record, from cutting its branch to its report, persisting its progress as it goes. Use it to brief a lead worker, or when carrying out a lead yourself. ADR-tmpvqx5l (or its alternative ADR-tmpyb409) holds the rule that work persists as it goes; this file holds the steps.
+description: How a delegated worker carries out one LEAD of the record, from cutting its branch to its report, persisting its progress as it goes. Use it to brief a lead worker, or when carrying out a lead yourself. ADR-141 (or its alternative ADR-142) holds the rule that work persists as it goes; this file holds the steps.
 ---
 <!-- .claude/skills/run-lead/SKILL.md -->
 
@@ -11,7 +11,7 @@ you names the lead and your branch. You work in an isolated git worktree
 of the repository.
 
 This file was the lead-worker brief of 2026-11-22, which lived in the
-session's scratchpad. It moved here under ADR-tmpvqx5l / ADR-tmpyb409,
+session's scratchpad. It moved here under ADR-141 / ADR-142,
 with its persistence steps (4 and 5) added. When a step here turns out
 wrong or missing, edit it in the same pull request as the work that showed
 it.
@@ -157,6 +157,11 @@ From here on, a stop at any moment must lose at most the step in hand.
     that is Unavailable or Unfetched, needs its own line:
     `<!-- inactive-ok-file: CODE until <date a few months on> — reason -->`.
   - An unused excuse fails lint.
+  - Write no code in an excuse's reason other than the codes it excuses:
+    not the lead's own code, and not the code of the file it sits in. A
+    code in the reason is read as excused, and the repair step's prune
+    then fails (PruneChangedFindings, as for LEAD-145 and LEAD-106). Say
+    "filed by the lead's run of <date>" instead.
 - **Changelog.** Add a fragment
   `record/changelog.d/<lead-code-lowercase>.md` with "### Added" and
   "### Changed" bullets.
@@ -167,6 +172,12 @@ From here on, a stop at any moment must lose at most the step in hand.
   - its H1 matches its title.
 
   Do NOT run luria lint, repair, index or link.
+- **Merging staging into the branch after a promotion.** When the Promote
+  workflow has concretized codes the branch cites, rewrite each temporary
+  code to its concrete one in the branch's prose and relation fields, but
+  never inside a `formerly:` list. That list is where the temporary code
+  is kept; rewriting it there leaves the entry listing itself. After the
+  merge, check that no entry's `formerly` contains its own code.
 - **Commits.** End each commit message with the attribution lines the
   session gives. Do not open a pull request; the lead opens it once you
   report.

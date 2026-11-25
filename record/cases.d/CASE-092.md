@@ -51,7 +51,6 @@ draws_on:
 - THEORY-257
 - THEORY-1161
 ---
-<!-- inactive-ok-file: CASE-tmpz4n6b CLAIM-tmp6f8w8 CLAIM-tmpw3bak — new; filed 2026-11-22 for LEAD-090 and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 <!-- inactive-ok-file: THEORY-257 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
@@ -154,4 +153,12 @@ unchanged.
 
 ## Note of 2026-11-22: built
 
-The model is built and run as [CASE-tmpz4n6b](CASE-tmpz4n6b.md), for [LEAD-090](../leads.d/LEAD-090.md), under three stated readings of what this case leaves open: scoring by agreement weighted by the current meaning, conferral as a moving average, and framing linear in the meaning with exploration. Its threshold is gσ² > 2(1 − φ(1 − ε)), with the conferral timescale out of it ([CLAIM-tmp6f8w8](../claims.d/CLAIM-tmp6f8w8.md)). Its reduced form is placed among known models in [CLAIM-tmpw3bak](../claims.d/CLAIM-tmpw3bak.md). The design is unchanged.
+The model is built and run as [CASE-363](CASE-363.md), for [LEAD-090](../leads.d/LEAD-090.md), under three stated readings of what this case leaves open: scoring by agreement weighted by the current meaning, conferral as a moving average, and framing linear in the meaning with exploration. Its threshold is gσ² > 2(1 − φ(1 − ε)), with the conferral timescale out of it ([CLAIM-947](../claims.d/CLAIM-947.md)). Its reduced form is placed among known models in [CLAIM-948](../claims.d/CLAIM-948.md). The design is unchanged.
+
+## Note of 2026-11-22: two institutions
+
+[LEAD-015](../leads.d/LEAD-015.md) coupled two of the reduced institutions of the build above, an evaluator and an evaluated party, as [CASE-401](CASE-401.md), and derived the pair's symmetry-breaking condition ([CLAIM-1000](../claims.d/CLAIM-1000.md)). The design is unchanged.
+
+## Note of 2026-11-23: role-indexed against scalar grants
+
+The comparison the note of 2026-10-16 lists among A14 §9's proposals, role-indexed against scalar grants, has been run in a population built on [CASE-363](CASE-363.md) as [CASE-420](CASE-420.md), for [LEAD-190](../leads.d/LEAD-190.md). This case's "independence of evaluation" became the share ζ of the critic score that reads agreement. Factions and capture stay out while gζσ²/2 < 1 − φ′ − φ_s′ ([CLAIM-1029](../claims.d/CLAIM-1029.md)). The design is unchanged.

@@ -49,10 +49,10 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2171 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-2149 THEORY-2148 THEORY-2152 ARG-151 — Proposed; the readings and argument of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-807 CLAIM-799 CASE-301 TERM-137 CLAIM-828 CLAIM-827 — new and Proposed or Open; filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
-<!-- inactive-ok-file: ARG-tmppbt1o THEORY-tmp9ltxi — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: ARG-188 THEORY-2186 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-837: In the factored-feature model a feature switches on, and its regularized loss is singular, at the same point s = λ, but sample PCA detects the feature only further on: in the hidden layer once s − λ exceeds σ²√(D/N), and in its contribution to the output once (s − λ)² does, so over a window that narrows as the sample grows the feature is active and improves the fit while it stays inside the noise bulk
 
@@ -198,7 +198,7 @@ The BBP paper ([LIT-2986](../literature.d/LIT-2986.md), read in [NOTE-2241](../n
 
 ## Note of 2026-11-22: Park and colleagues, read
 
-Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)):
+Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-2260](../notes.d/NOTE-2260.md), [THEORY-2171](../theory.d/THEORY-2171.md)):
 **independent support in kind**, written as `corroborates` on the reading.
 In their exact linear teacher–student model the teacher is in the weights
 from the first step and "the optimisation always converges to the correct
@@ -209,11 +209,11 @@ and with the weight spectrum as the estimator rather than sample PCA.
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): **a parallel.** Their Proposition 35 and Theorem 5 give the same order
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-2274](../notes.d/NOTE-2274.md), [THEORY-2186](../theory.d/THEORY-2186.md)): **a parallel.** Their Proposition 35 and Theorem 5 give the same order
 for a gradient-trained two-layer network: a rank-one weight update for any
 step size, an outlier in the weights' singular values only if θ1 >
 γ0^(1/4), and an outlier in the test-data conjugate kernel only if, in
 addition, z′(−1/λ1) > 0. That is this claim's switch-on before detection,
 with the two detections in series as here in the hidden layer and its
 readout. Another model, so a note and no relation; [CLAIM-799](CLAIM-799.md) takes it as
-evidence ([ARG-tmppbt1o](../arguments.d/ARG-tmppbt1o.md)).
+evidence ([ARG-188](../arguments.d/ARG-188.md)).

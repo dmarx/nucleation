@@ -6,8 +6,8 @@
 
 **Religion** — religion as a subject — its relation to science, religious belief and practice, and how religious practitioners are treated.
 
-0 of 211 LEAD documents. Back to the [full index](../README.md).
+1 of 234 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-231](../../../record/leads.d/LEAD-231.md) | Read Slingerland's openly available work on wu-wei, as a neighbour for his unavailable book, to check whether the name wu-wei fits the record's dynamical account of effortless action: whether the paradox concerns acquiring and keeping effortless action, and whether the cultivation and unlearning routes differ in what they conserve | A reading lead from the assistant's answer to the owner's "relate the conversation to wuwei" (2026-11-23). [LIT-1994](../../../record/literature.d/LIT-1994.md), Slingerland's Effortless Action, is Unavailable. A lawful neighbour, such as an author's article on wu-wei or a course copy of a chapter ([ADR-074](../../../record/decisions.d/ADR-074.md)), would stand in for it ([ADR-114](../../../record/decisions.d/ADR-114.md)). The wording is the assistant's (Claude, in this session); adopting it is the owner's call. At the owner's ruling of 2026-11-23 (CLAIM-1187), this reading checks the name and does not test the dynamical account, so its priority stays low. | Open |

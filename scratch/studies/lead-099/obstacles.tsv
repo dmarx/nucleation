@@ -1,0 +1,11 @@
+url	obstacle	date
+https://www.mlb.com/nationals/history/retired-numbers	HTTP 406 Not Acceptable; not retried	2026-11-23
+https://www.mlb.com/news/washington-senators-history	HTTP 406 Not Acceptable; host then treated as refusing, no further mlb.com page tried	2026-11-23
+https://www.washingtontimes.com/news/2010/aug/10/nats-celebrate-former-expo-dawsons-hall-induction/	HTTP 403	2026-11-23
+https://www.cbc.ca/sports/baseball/mlb/mlb-world-series-montreal-expos-washington-nationals-tim-raines-1.5329080	HTTP 403	2026-11-23
+http://voices.washingtonpost.com/nationalsjournal/2010/08/nationals_announce_ring_of_hon.html	HTTP 403	2026-11-23
+https://www.federalbaseball.com/2011/1/5/1916571/washington-nationals-hall-of-fame-ring-of-honor-tim-raines-next-name	HTTP 403	2026-11-23
+https://www.reddit.com/r/Nationals/comments/14ak9mk/opinion_on_expos/	the session's fetch tool refuses reddit.com; a third-party mirror was not used	2026-11-23
+https://masnsports.com/blog/washingtonnationalspaytributetohalloffamerswithringofhonor	HTTP 404	2026-11-23
+https://www.masnsports.com/masn-news-information/2010/08/-washington-nationals-pay-tribute-to-hall-of-famers-with-ring-of-honor.html	HTTP 404	2026-11-23
+https://masnsports.com/blog/howard-calls-induction-into-nats-ring-of-honor-a-real-thrill	HTTP 404	2026-11-23

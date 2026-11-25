@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmplstea
 title: 'Under what conditions does a population of heterogeneous processes develop a self-maintaining, internally differentiated governance structure that acts coherently without suppressing the plurality of processes it emerges from?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-04'
@@ -19,6 +19,11 @@ history:
     rule (2026-11-10): the entry takes part in that line's argument,
     through the first line of an entry it names: will-organization,
     since it refines QUESTION-034. No other change.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    A dated note added: LEAD-180's run of CASE-108. The
+    question is unchanged.
 tags:
 - self-governance
 - behavioral-integration
@@ -107,3 +112,20 @@ From the third synthesis on DNA origami by another assistant (A), "The productiv
 A's third synthesis asks the narrower form of this question: when does a productive nucleus become self-maintaining, its operation regenerating the constraints that make it productive ([QUESTION-399](QUESTION-399.md))? A keeps nucleation, autocatalysis, closure and regeneration apart: "These can overlap, but none is automatically equivalent to another".
 
 No status changes.
+
+## Note of 2026-11-23: a population result
+
+[CASE-420](../cases.d/CASE-420.md) bears on this question. Operators that cannot raise their own authority, and are rewarded for realized policy, built a delegation structure that sorted by side: all grants went to their own side and, within it, to its extremes ([CLAIM-1081](../claims.d/CLAIM-1081.md), [CLAIM-1147](../claims.d/CLAIM-1147.md)). With one grant per operator, that structure also set whom each read, and the population split into factions. With grants indexed by role, the plurality of policy survived while evidence crossed sides ([CLAIM-1029](../claims.d/CLAIM-1029.md)).
+
+## Note of 2026-11-23: a condition for coherence without suppression, in a governance run
+
+In [CASE-415](../cases.d/CASE-415.md), a run of [CASE-108](../cases.d/CASE-108.md), the arm that learned the shared task without
+suppressing the dissenting minority was audit by evaluators who hold
+evidence of their own and judge only the tasks they hold it for; the
+dissenters then carried their tasks at 4.4 times their head-count share
+([CLAIM-1007](../claims.d/CLAIM-1007.md)). Two conditions failed it: no evidence on the minority's tasks
+independent of the proposals, under which no architecture told dissent
+from an attack that mimics it ([CLAIM-1194](../claims.d/CLAIM-1194.md)); and compromise of the few
+evaluators holding that evidence ([CLAIM-1077](../claims.d/CLAIM-1077.md)). One model class, with the
+members' kinds and the evaluators' honesty stipulated. The question is
+unchanged.

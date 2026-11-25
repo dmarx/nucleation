@@ -1,9 +1,0 @@
-### Added
-
-- **Eighteen readings from the exchange "Rich Get Richer Power Laws"**, rounds 2 and 3 of its remaining 27, each with a NOTE and a Proposed THEORY: KPZ, Takeuchi and Sano, Toner and Tu, Gingrich et al., Shalizi and Moore, Crutchfield and Feldman, Yang et al. 2023, Ansuini et al., Wang et al., Cai et al., Martínez-Sánchez et al., Yang 2026, Lee et al., Ghadimi Atigh et al. and Bui et al. read; Kosterlitz and Thouless (Unfetched), Mermin and Wagner and Bertschinger and Natschläger (Unavailable) read through registered stand-ins.
-- **Sixteen ARGs**, three Rejected; **three claims in the assistant's voice** ([CLAIM-tmpvq33w](record/claims.d/CLAIM-tmpvq33w.md), symmetry-protected scale-free phases; [CLAIM-tmp3ima1](record/claims.d/CLAIM-tmp3ima1.md), question-relativity of coarse-graining, alternative to a note on [QUESTION-517](record/questions.d/QUESTION-517.md); [CLAIM-tmpxcy5s](record/claims.d/CLAIM-tmpxcy5s.md), entailment cones raise norms, demonstrated); **[TERM-tmpaztqn](record/terms.d/TERM-tmpaztqn.md)**, emergence by predictive efficiency.
-
-### Changed
-
-- **Corrected in place:** [CLAIM-841](record/claims.d/CLAIM-841.md), [CLAIM-842](record/claims.d/CLAIM-842.md), [QUESTION-508](record/questions.d/QUESTION-508.md), [LEAD-209](record/leads.d/LEAD-209.md), [CLAIM-809](record/claims.d/CLAIM-809.md), [QUESTION-507](record/questions.d/QUESTION-507.md), [TERM-141](record/terms.d/TERM-141.md), [CLAIM-799](record/claims.d/CLAIM-799.md), [CLAIM-800](record/claims.d/CLAIM-800.md), [CLAIM-798](record/claims.d/CLAIM-798.md), [CLAIM-810](record/claims.d/CLAIM-810.md), [TERM-136](record/terms.d/TERM-136.md), [LEAD-210](record/leads.d/LEAD-210.md), [CLAIM-807](record/claims.d/CLAIM-807.md), [CLAIM-828](record/claims.d/CLAIM-828.md), [CLAIM-839](record/claims.d/CLAIM-839.md); LIT summaries of Shalizi and Moore, Wang et al., Ghadimi Atigh et al. and Lee et al. corrected.
-- **Dated notes** on about 150 held entries the readings bear on.

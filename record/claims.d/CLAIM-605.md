@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp6t2vz
 title: "Where capacity is learned by doing, decays with disuse and needs capacity already present to grow, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -37,6 +37,14 @@ history:
     2026-11-11): it no longer carries realizability, which no
     relation to a realizability-first entry supplies (ADR-085). No
     other change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §12.4, §12.7. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -84,12 +92,14 @@ summary: >-
   Kenya exit study's success with gradual exits in which participants
   already did the work. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-756 CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-684 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; the principle the note of that date checks -->
 <!-- inactive-ok-file: CASE-262 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CASE-tmprcg71 CLAIM-tmpn5wpc CLAIM-721 — new or Proposed; the restriction variant, its finding and the claim it reaches, note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-364 CLAIM-950 CLAIM-721 — new or Proposed; the restriction variant, its finding and the claim it reaches, note of 2026-11-22 -->
 
 # CLAIM-605: Where capacity is learned by doing, decays with disuse and needs capacity already present to grow, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold
 
@@ -239,7 +249,7 @@ No status change.
 
 ## Note of 2026-11-22: the restriction variant of this model ([LEAD-104](../leads.d/LEAD-104.md))
 
-Carrying out [LEAD-104](../leads.d/LEAD-104.md), [CASE-tmprcg71](../cases.d/CASE-tmprcg71.md) rebuilds this model with the
+Carrying out [LEAD-104](../leads.d/LEAD-104.md), [CASE-364](../cases.d/CASE-364.md) rebuilds this model with the
 outside support replaced by a restriction that removes the doing, and with
 exit made a threshold on capacity: reinstatement when C ≥ C_r. It reaches
 [CLAIM-721](CLAIM-721.md)'s restriction-induced capability trap, and recovers two of this
@@ -249,4 +259,4 @@ result 1's substitution deadline) and the ignition distinction (a practice
 route that restores exercise cannot lift a party below threshold, a
 training route that adds capacity directly can, which is result 3's
 capacity-first/transfer contrast reached by restriction). The finding is
-[CLAIM-tmpn5wpc](CLAIM-tmpn5wpc.md). No status change.
+[CLAIM-950](CLAIM-950.md). No status change.

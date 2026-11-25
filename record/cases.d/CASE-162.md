@@ -173,3 +173,8 @@ and RESEARCH_HANDOFF_V13.md. The figures above are read from the stored
 results. When filed, the regime-atlas and stochastic-population test
 suites were re-run at dmarx/PerspectiveLab@11c1495 and passed; the runs
 themselves were not regenerated.
+
+## Note of 2026-11-25: no rerun, since no script is in this repository
+
+<!-- inactive-ok-block: CASE-163 CASE-164 — Proposed; the cases that wait on the same repository -->
+Attempted on 2026-11-25 by the assistant, at the owner's word ("go ahead with the reruns"), to regenerate the runs behind the figures above, which so far have only been read from stored results (version 2's history: "The runs were not regenerated"). No script for them is in this repository: the code (experiments/regime_atlas/, experiments/stochastic_population/, experiments/capture_feedback/ with verify_v10.js) lives in dmarx/PerspectiveLab@7e2edc2, which is not in this checkout, and a search of `scratch/` and the rest of the tree for those directories, their scripts or their result files found none. So nothing was rerun or compared, and the figures stand as read from the stored results. With PerspectiveLab attached, running a copy of those three experiments at 7e2edc2 is the rerun; [CASE-163](CASE-163.md) and [CASE-164](CASE-164.md) wait on the same repository. The note is the assistant's (Claude, in this session). No status change.

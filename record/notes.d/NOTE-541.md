@@ -28,7 +28,7 @@ summary: >-
   MultiCelebA 20.8 → 46.0. Layer 7 beats 8 everywhere in Figure 8.
   Intermediate features are less displaced by shift for minority groups.
 ---
-<!-- inactive-ok-file: THEORY-tmpwn1xp — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2189 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 
 # NOTE-541: Intermediate Layer Classifiers for OOD generalization
@@ -202,7 +202,7 @@ validation data, then truncate the network at that layer for inference
 
 ## Note of 2026-11-22: Ansuini and colleagues, read
 
-Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](NOTE-tmptf55k.md), [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **consistent.** This
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-2278](NOTE-2278.md), [THEORY-2189](../theory.d/THEORY-2189.md)): **consistent.** This
 reading names the paper for intrinsic dimension rising then falling with
 depth, which the reading confirms (with no early rise in a small MNIST
 network); last-layer compression there and penultimate suppression of

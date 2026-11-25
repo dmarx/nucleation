@@ -34,7 +34,7 @@ summary: >-
   systems in general, only that large deviations do not deliver it and
   that in the cycling case it has no limit.
 ---
-<!-- inactive-ok-file: THEORY-tmpu0f9k — Proposed; the reading of Yang filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2193 — Proposed; the reading of Yang filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2137 — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: NOTE-1562 — Skimmed and new; the front-matter reading of the book this survey stands in for, cited as open -->
 
@@ -81,7 +81,7 @@ This reading's promote_when names Bovier, Eckhoff, Gayrard and Klein 2004, on re
 
 ## Note of 2026-11-22: Yang, read
 
-Background. Yang ([THEORY-tmpu0f9k](THEORY-tmpu0f9k.md), App. C) compares an Eyring–Kramers
+Background. Yang ([THEORY-2193](THEORY-2193.md), App. C) compares an Eyring–Kramers
 form for grokking's escape time with a power law in weight decay and
 rejects the Kramers regime for its data (six points), reading the escape
 as drift-dominated: a tilt γU(ε) added by hand, not a small-noise exit.

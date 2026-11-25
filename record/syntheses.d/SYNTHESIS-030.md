@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpivyc1
 title: 'The learned-structure line is several inquiries into what training reaches that barely relate: whether a learner''s demands are frustrated and whose they are, when structure is acquired, whether optimal representations nest, whether trained solutions are connected, when a learned distinction is a concept, what classification leaves in the last layers, whether modes describe learned networks, and how latent capability is elicited and at what cost, with smaller families and eighteen entries linked to no other; the parts meet mostly through the acquisition questions, and the line is a candidate to split'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-18'
@@ -28,6 +28,15 @@ history:
     Integrates a new part account, SYNTHESIS-105, filed at the owner's request
     of 2026-11-19 from the exchange "Topological protection explained":
     what learning is and what it does to what can still be learned (CLAIM-754, the owner's overconsolidation, CLAIM-758, and the owner's questions on optimal learning and knowing). No other change.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: QUESTION-497,
+    QUESTION-502 and QUESTION-518, in-force entries of the line no account
+    integrated, were added to the part accounts SYNTHESIS-105,
+    SYNTHESIS-034 and SYNTHESIS-120; the descriptions of the parts say so,
+    and that SYNTHESIS-120 is not among this account's parts. Nothing is
+    added to `integrates`; the title is unchanged.
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the line that neither a part account nor this
@@ -107,7 +116,7 @@ bears_on:
   symmetry, what the compatibility complex has to do with singular
   geometry, and to which unit training's conditions belong.
 - **[SYNTHESIS-034](SYNTHESIS-034.md), acquisition** (12 questions under [QUESTION-039](../questions.d/QUESTION-039.md), with
-  [QUESTION-275](../questions.d/QUESTION-275.md), [QUESTION-363](../questions.d/QUESTION-363.md), [QUESTION-234](../questions.d/QUESTION-234.md) and [QUESTION-274](../questions.d/QUESTION-274.md), and [CLAIM-360](../claims.d/CLAIM-360.md)). When
+  [QUESTION-275](../questions.d/QUESTION-275.md), [QUESTION-363](../questions.d/QUESTION-363.md), [QUESTION-234](../questions.d/QUESTION-234.md) and [QUESTION-274](../questions.d/QUESTION-274.md), and [CLAIM-360](../claims.d/CLAIM-360.md); [QUESTION-502](../questions.d/QUESTION-502.md) added on 2026-11-23). When
   structure is acquired, whether training's order follows the
   posterior's, and whether circuits form as regimes over shared features.
 - **[SYNTHESIS-029](SYNTHESIS-029.md), nesting** ([QUESTION-217](../questions.d/QUESTION-217.md), [QUESTION-220](../questions.d/QUESTION-220.md), [QUESTION-244](../questions.d/QUESTION-244.md),
@@ -128,7 +137,8 @@ bears_on:
   readers and cues; RL as amortized search; telling loss from
   inaccessibility.
 
-- **Added 2026-11-19:** [SYNTHESIS-105](SYNTHESIS-105.md), the account of what learning is and what it does to what can still be learned ([CLAIM-754](../claims.d/CLAIM-754.md), the owner's overconsolidation, [CLAIM-758](../claims.d/CLAIM-758.md), and the owner's questions on optimal learning and knowing).
+- **Added 2026-11-19:** [SYNTHESIS-105](SYNTHESIS-105.md), the account of what learning is and what it does to what can still be learned ([CLAIM-754](../claims.d/CLAIM-754.md), the owner's overconsolidation, [CLAIM-758](../claims.d/CLAIM-758.md), and the owner's questions on optimal learning and knowing); [QUESTION-497](../questions.d/QUESTION-497.md) added on 2026-11-23.
+- **Not among the parts:** [SYNTHESIS-120](SYNTHESIS-120.md), a part account of the line filed on 2026-11-21 (how a high-dimensional representation comes to draw a new distinction), is not integrated here; [QUESTION-518](../questions.d/QUESTION-518.md), added to it on 2026-11-23, is integrated by it.
 
 ## Where the parts meet
 

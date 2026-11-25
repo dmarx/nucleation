@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvl8j0
 title: 'Relieving an incompatibility, redistributing an unavoidable mismatch and exploiting a mismatch dynamically are three design targets, which change respectively the compatibility complex, where residuals or loads concentrate, and stability, barriers or transition paths, and the last two can be achieved without the first'
-version: 4
+version: 6
 history:
 - version: 2
   date: '2026-11-06'
@@ -37,6 +37,19 @@ history:
     gives the claim's second design target, redistributing an
     unavoidable mismatch, a normative reading: a coercive relationship
     puts the whole of it on the less powerful party. No other change.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    A dated note: a regulatory illustration of the three design targets,
+    from the exchange 'Explain First Contact RL' (2026-11-22). No other
+    change.
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §2.2. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -82,6 +95,8 @@ summary: >-
   transitions stay unachievable. In [TERM-060](../terms.d/TERM-060.md)'s sense only the first
   touches frustration; the others act on its load and its consequences.
   The wording is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 
 # CLAIM-588: Relieving an incompatibility, redistributing an unavoidable mismatch and exploiting a mismatch dynamically are three design targets, which change respectively the compatibility complex, where residuals or loads concentrate, and stability, barriers or transition paths, and the last two can be achieved without the first
@@ -154,3 +169,17 @@ A39 §4 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6af
 This is the claim's redistribution without relief, with a normative test attached: where the residual is made to sit, and whether the party carrying it had any say in that. The claim keeps the design target apart from its worth ("That redistributing or exploiting a mismatch is good" is not said; [QUESTION-387](../questions.d/QUESTION-387.md) asks whether it can be), and A's reading does not touch that; it says which redistributions mark a relationship as coercive, relative to a standard on who should bear an unavoidable cost. A also ties it to the record's tolerance work: an organization "may remain quiet because unmet demands have been absorbed", which is [CLAIM-549](CLAIM-549.md)'s quiescence without satisfaction. The step from design target to verdict is A's and interpretive.
 
 No status changes.
+
+## Note of 2026-11-22: a regulatory illustration, from the exchange "Explain First Contact RL"
+
+A33 §5 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-22)
+reads the three design targets for an industrial process with a
+hazardous byproduct. "A regulation that limits exposure may redistribute
+where the hazard is borne. A requirement to adopt a genuinely cleaner
+process might eliminate a technical incompatibility. A monitoring and
+shutdown regime might instead make the hazardous system safer under
+disturbances." Its discipline: "Don't confuse making an undesirable
+arrangement more stable with changing the conditions that made it
+undesirable." The relief case needs the regulation to change the
+dynamics, which [CLAIM-1121](CLAIM-1121.md) derives. The illustration is A's. No status
+change.

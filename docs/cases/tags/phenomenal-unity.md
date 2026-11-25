@@ -6,8 +6,8 @@
 
 **Phenomenal unity** — the unity of experience — what makes simultaneous experiences one subject's, and how a self-model or a perspective binds them. One of four unities kept apart (group: philosophy; ADR-024).
 
-0 of 305 CASE documents. Back to the [full index](../README.md).
+1 of 421 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-350](../../../record/cases.d/CASE-350.md) | Autoregressive integrated information with the exclusion rule, applied by one procedure to linear models of a modular mind and of a group of such minds, makes the whole the subject only when coupling across its seams outweighs its parts' own integration, in both models alike | [LEAD-063](../../../record/leads.d/LEAD-063.md) asked for one integration measure, or an anti-nesting rule, to be applied to a modular-mind model and to a group model. The measure is Barrett and Seth's autoregressive integrated information (Phi_AR) at the minimum information bipartition, computed exactly for linear Gaussian networks; the rule is IIT's exclusion postulate, which makes the candidate of largest Phi the subject and denies it to what it contains or is contained in. The mind is three modules of three units; the group is three such minds, each unified by the rule, built the same way one level up. Sweeping the coupling between parts, the whole wins in both models once coupling across its seams passes a threshold, and its parts lose; below it, the parts win. At matched coupling the whole's Phi is nearly the same in both models (0.0047 and 0.0049 nats at 0.05 and one link); the group's threshold is higher (0.13 to 0.21 against 0.08 to 0.13) only because its members are more integrated than the mind's modules. Near a threshold one added link flips the verdict. An exhaustive search on a 12-unit group finds, at one setting, a subject made of one member and part of the other. The rule separates tightly from loosely coupled wholes, not minds from groups. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

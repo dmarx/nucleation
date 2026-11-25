@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpk5av7
 title: 'Viability does not establish what ought to persist'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-11-11'
@@ -14,6 +14,19 @@ history:
     entry is in the account of normative judgment about
     organizations. No relation supplies will-organization to it
     (ADR-085). No other change.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §12 and
+    §14 use it: viability does not fix what ought to persist. No other
+    change.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Programme (four distinctions), Article 1 §6
+    (ADR-tmpenzcn). No change of title or status.
 role: disclaimed
 warrant: interpretive
 tags:
@@ -23,7 +36,9 @@ date: '2026-10-04'
 line:
 - organizational-normativity
 works:
+- governance-of-possibility
 - organization-of-will
+- governance-of-becoming
 summary: >-
   Sections 6.10 and 7.3: "An unjust institution may be highly viable."
   Viability licenses conditional functional judgment only.
@@ -33,6 +48,7 @@ complements:
 - CLAIM-523
 - CLAIM-547
 ---
+<!-- inactive-ok-file: THEORY-2268 CLAIM-988 — Proposed; Leffler's reading and reading (c) of the constitutivism test, filed for LEAD-158 -->
 <!-- inactive-ok-file: THEORY-1819 THEORY-1814 THEORY-1822 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: LIT-1915 — Unavailable; Letiche and Moriceau, cited from its abstract as a doubt in this claim's direction -->
 
@@ -118,3 +134,37 @@ Wardrope's reading of the Land Ethic ([THEORY-1822](../theory.d/THEORY-1822.md))
 ethic in which a community's integrity is itself a value, though not
 inferred from its viability. Filed as `corroborates` from the first two.
 No status change.
+
+## Note of 2026-11-22: Leffler, read
+
+A parallel from the constitutivist side. Leffler ([THEORY-2268](../theory.d/THEORY-2268.md)) shows
+that on the best inescapability account of normative force "exercising
+their shmagency is the plight of shmagents" (p. 19): a constitution's
+standard binds whatever has that constitution and says nothing on
+whether to have it. That is this claim's viable unjust institution for
+agents. Analogy only; no edge. Reading (c) of the constitutivism test,
+[CLAIM-988](CLAIM-988.md), `rests_on` this claim: because the record already keeps
+viability apart from what ought to persist, Leffler's choice point closes
+a route the record did not take. No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A38 §3 and A40 §4.2
+
+A38 §3 cites this claim, aptly, for "The selection pressures responsible
+for institutional persistence need not track the standards governing
+institutional legitimacy", and applies it to conservatism. A38 lists seven
+mechanisms of persistence (productive accommodation, internalization,
+dependency, enforcement, exploitation, agnotology, defeated standing), and
+"The fact of persistence cannot identify which of these mechanisms
+predominates." A40 §4.2: "Persistence is evidence that an arrangement has
+been reproducible. It is not sufficient evidence of what makes its
+reproduction possible or whether its reproduction is justified." The
+extension, that structure kept is not value kept and that inaction
+transforms, is filed as [CLAIM-tmpa8tdg](CLAIM-tmpa8tdg.md); the application to conservatism is
+[CLAIM-tmplc0vv](CLAIM-tmplc0vv.md), with the objection [CLAIM-tmpdzcj6](CLAIM-tmpdzcj6.md), that conservatism's
+theorists hold a presumption under uncertainty and not the inference this
+claim disclaims. Bearing: an application; the claim is unchanged. The
+wording of this note is the assistant's (Claude, in this session),
+reporting A's (ChatGPT's) text; adopting what it reports is the owner's
+call.
+
+<!-- inactive-ok-file: CLAIM-tmpa8tdg CLAIM-tmplc0vv CLAIM-tmpdzcj6 — Proposed; filed from the exchange 'Memes, Contracts, and Systemic Normativity' and cited in its note of 2026-11-24, whatever their standing -->

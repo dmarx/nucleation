@@ -1,0 +1,66 @@
+---
+number: 231
+status: Open
+formerly:
+- LEAD-tmpsyfgj
+title: 'Read Slingerland''s openly available work on wu-wei, as a neighbour
+  for his unavailable book, to check whether the name wu-wei fits the record''s
+  dynamical account of effortless action: whether the paradox concerns acquiring
+  and keeping effortless action, and whether the cultivation and unlearning
+  routes differ in what they conserve'
+version: 1
+stage: idea
+priority: low
+method:
+- reading
+tags:
+- self-governance
+- religion
+date: '2026-11-23'
+line:
+- will-organization
+advances:
+- CLAIM-1061
+- CLAIM-541
+- CLAIM-998
+summary: A reading lead from the assistant's answer to the owner's "relate
+  the conversation to wuwei" (2026-11-23). [LIT-1994](../literature.d/LIT-1994.md),
+  Slingerland's Effortless Action, is Unavailable. A lawful neighbour, such
+  as an author's article on wu-wei or a course copy of a chapter ([ADR-074](../decisions.d/ADR-074.md)),
+  would stand in for it ([ADR-114](../decisions.d/ADR-114.md)). The wording
+  is the assistant's (Claude, in this session); adopting it is the owner's
+  call. At the owner's ruling of 2026-11-23 (CLAIM-1187), this reading
+  checks the name and does not test the dynamical account, so its priority
+  stays low.
+---
+
+<!-- inactive-ok-file: CLAIM-541 CLAIM-998 CLAIM-1061 LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->
+
+# LEAD-231: Read Slingerland's openly available work on wu-wei, as a neighbour for his unavailable book, to check whether the name wu-wei fits the record's dynamical account of effortless action: whether the paradox concerns acquiring and keeping effortless action, and whether the cultivation and unlearning routes differ in what they conserve
+
+## What to do
+
+Find a lawful copy of an openly available work of Slingerland's on
+wu-wei, such as an article or an author's manuscript (step 5 of the
+read-and-file skill, [ADR-074](../decisions.d/ADR-074.md)). File it as a neighbour of [LIT-1994](../literature.d/LIT-1994.md) with a
+LIT, a NOTE and a THEORY. Read it for three things:
+
+1. **The paradox.** How it is stated, and whether it concerns how
+   effortless action is acquired and kept ([CLAIM-1061](../claims.d/CLAIM-1061.md)).
+2. **The routes.** Whether the Confucian and Daoist routes are
+   distinguished by what they conserve and what they shed ([CLAIM-1061](../claims.d/CLAIM-1061.md)).
+3. **Effortlessness.** Whether wu-wei is described as action timed and
+   directed by the situation's own tendencies, which [CLAIM-541](../claims.d/CLAIM-541.md) and
+   [CLAIM-998](../claims.d/CLAIM-998.md) read it as, or as the absence of agency.
+
+## Its standing
+
+Under the owner's ruling ([CLAIM-1187](../claims.d/CLAIM-1187.md)) the readings it checks are
+glosses on dynamical claims. What it finds bears on the name, not on the
+account.
+
+## What would close it
+
+A NOTE on a neighbour that bears on each of the three, and dated notes on
+the three entries saying whether it supports, qualifies or leaves them
+open.

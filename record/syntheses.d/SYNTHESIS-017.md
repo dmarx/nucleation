@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpnakke
 title: 'What a record of a developing argument can secure is traceable change over its accountability structure, which is neither sufficiency for revision nor correctness: current conclusions and support topology do not fix revisions, a sufficient state makes history redundant only while its model and decisions hold, and what kept justifications can buy is a wider family of decisions and decisions a bounded agent could not otherwise make'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -14,6 +14,13 @@ history:
     CLAIM-178, where CLAIM-178's own limit already states it, and the
     count of pairs within and across the line's two candidate parts is
     redone with it. Nothing else changes.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added QUESTION-471
+    and QUESTION-496, in-force entries of the line no account of the line
+    integrated. They are set out at the end of the components; the title
+    is unchanged.
 defeated_if: >-
   A component misstated or misattributed
   here; an in-force component whose line is records-of-inquiry left out
@@ -53,6 +60,8 @@ integrates:
 - QUESTION-258
 - QUESTION-288
 - QUESTION-289
+- QUESTION-471
+- QUESTION-496
 ---
 <!-- inactive-ok-file: CLAIM-178 CLAIM-181 CLAIM-189 CLAIM-250 CLAIM-191 CLAIM-295 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as A6 cited it -->
@@ -148,6 +157,27 @@ preserve ([QUESTION-258](../questions.d/QUESTION-258.md)).
   asks about delayed Lotka–Volterra communities, and no component of the
   line cites it or is cited by it; it is listed because its `line` field
   places it here.
+
+Added at version 3, at the synthesis review of 2026-11-23: two in-force
+questions of the line, filed after this account, that no account of the
+line integrated. Neither names a component of this account; they are here
+because they ask what a record of inquiry can secure in its own working.
+
+- [QUESTION-471](../questions.d/QUESTION-471.md), A's, from A30 §7 of the exchange "Assess Depp Heard
+  Abuse" (2026-11-15); Open; integrated also by [SYNTHESIS-100](SYNTHESIS-100.md). It asks how
+  a record that automates the incorporation of new material keeps the
+  speed of incorporation from outrunning its capacity to evaluate it, and
+  which of its checks can still stop an incorporation rather than review
+  it after it has taken effect. Its body names the owner's
+  procedural-friction claim [CLAIM-710](../claims.d/CLAIM-710.md) (in [SYNTHESIS-098](SYNTHESIS-098.md)) and the
+  throughput claim [CLAIM-705](../claims.d/CLAIM-705.md) (in [SYNTHESIS-100](SYNTHESIS-100.md)).
+- [QUESTION-496](../questions.d/QUESTION-496.md), the owner's, U38 of the follow-up turns of the exchange
+  "Topological protection explained" (2026-11-19); Open. It asks how the
+  record should triage its open questions so that the questions it hopes
+  to answer choose the method, experiment being one method among others.
+  Its body names [CLAIM-763](../claims.d/CLAIM-763.md), ChatGPT's procedure, as a candidate answer,
+  and its summary names the owner's companion [CLAIM-764](../claims.d/CLAIM-764.md); both are
+  Proposed and no account integrates them.
 
 ## Links tested as claims
 

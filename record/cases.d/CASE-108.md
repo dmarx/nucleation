@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp4nzjz
 title: 'Robust governance under internal compromise: four governance architectures over cooperative, honestly dissenting and adversarial specialists, scored on attack success and on what the safeguards cost, with a variant that compromises the evaluators'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-23'
@@ -23,6 +23,11 @@ history:
     Note of 2026-10-29 (Edmondson) added: read (NOTE-1404); evidence
     for protecting honest dissent in cooperative teams, none on its cost
     or on compromised members. The design is unchanged.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    A dated note added: run in reduced form. The case is
+    unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -193,3 +198,22 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Huang, Xu, Ma et al.** ([THEORY-1801](../theory.d/THEORY-1801.md)): **supports** the arm and **qualifies** any architecture whose safeguard is a second reviewer: 44 of 56 evasions survived a non-overlapping panel. Independence of evidence, not of reviewer, is the variable the paper says matters.
 
 The case is unchanged.
+
+## Note of 2026-11-23: run in reduced form
+<!-- inactive-ok-block: CLAIM-1091 CLAIM-1018 — new; filed by the lead run of 2026-11-23 -->
+
+[CASE-415](CASE-415.md) runs this design in a small federated learner, with an oracle, an
+overt attack and one that mimics dissent. With honest evaluators,
+role-limited audit lowered attack success to about 0 and raised the
+minority's capability from 0.27 to 0.92 for 0.01 of main capability;
+reputation by agreement was captured; reputation by validation without a
+limit of jurisdiction stopped the overt attack and left the dissenters as
+unrestricted aggregation does. The compromised-evaluator variant answers
+this case's question both ways at once: role-limited audit gave
+independent scoring on the tasks every evaluator holds evidence on and
+relocated the single point of failure to the tasks two of them do, where
+two compromised evaluators of seven let the mimic through about as far
+as unrestricted aggregation ([CLAIM-1077](../claims.d/CLAIM-1077.md)). The adaptive arm moved it again, to
+its monitor ([CLAIM-1091](../claims.d/CLAIM-1091.md), [CLAIM-1018](../claims.d/CLAIM-1018.md)). With no evidence independent of the proposals
+no architecture told the attack from the dissent ([CLAIM-1194](../claims.d/CLAIM-1194.md)). The novelty
+variant was run only as the mimic's mirror. The case is unchanged.

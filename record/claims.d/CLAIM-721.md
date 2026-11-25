@@ -61,7 +61,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: TERM-129 CLAIM-714 — filed from the same exchange, Proposed or new -->
-<!-- inactive-ok-file: CASE-tmprcg71 CLAIM-tmpn5wpc — new; the model and finding of LEAD-104, note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-364 CLAIM-950 — new; the model and finding of LEAD-104, note of 2026-11-22 -->
 
 # CLAIM-721: Where competence is kept by use and lost with disuse, and a restriction is to be lifted when competence is shown, a restriction justified by a lack of competence lowers the competence it waits for, so that unless the restricting party supplies a route to practice or training, the restriction produces the evidence for its own continuation
 
@@ -152,8 +152,8 @@ it lasts.
 
 The model this claim named and said "no one has written" — [CLAIM-605](CLAIM-605.md)'s
 "with reinstatement made a threshold on capacity" — was written and run
-carrying out [LEAD-104](../leads.d/LEAD-104.md). It is [CASE-tmprcg71](../cases.d/CASE-tmprcg71.md), an executed study, and its
-finding is [CLAIM-tmpn5wpc](CLAIM-tmpn5wpc.md). Making reinstatement a threshold C_r on capacity
+carrying out [LEAD-104](../leads.d/LEAD-104.md). It is [CASE-364](../cases.d/CASE-364.md), an executed study, and its
+finding is [CLAIM-950](CLAIM-950.md). Making reinstatement a threshold C_r on capacity
 closes this claim's loop in the model: with no route a party restricted
 below C_r decays monotonically, never reaches C_r, and is never
 reinstated, so the restriction manufactures the evidence that extends it;
@@ -162,7 +162,12 @@ and it is escaped only by a practice route above a critical fraction (which
 cannot ignite a party below threshold) or a training route that adds
 capacity directly and ignites from zero, which is this claim's "route to
 practice **or training**" told apart. Each of the three conditions in the
-title is shown necessary. [CLAIM-tmpn5wpc](CLAIM-tmpn5wpc.md) corroborates this claim with a
+title is shown necessary. [CLAIM-950](CLAIM-950.md) corroborates this claim with a
 formal demonstration; it does not rest on the model, which reads no real
 institution. Whether the demonstration moves this claim's warrant from
 interpretive to demonstrated is the owner's call. No status change.
+
+## Note of 2026-11-23: the trap without decay, from "Explain First Contact RL"
+
+<!-- inactive-ok-block: CASE-386 CLAIM-1177 — new; the case and thesis filed from these turns -->
+A54 §6 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23), on the owner's employee who must justify an idea to a manager ([CASE-386](../cases.d/CASE-386.md)): "A manager who requires extensive justification before allowing any exploration may demand evidence that cannot exist until exploration occurs", a loop of no evidence, no authorization, no exploration, no evidence. It is this claim's form with nothing decaying: the evidence the restriction waits for is never produced, rather than lost. That form is held by [CLAIM-406](CLAIM-406.md) (Active), where an arrangement keeps an exclusion going "through the indicators of competence that only being sought produces". A54's remedy is this claim's "route to practice": "A small preauthorized exploration budget", "A staged process in which early experiments generate evidence before larger authorization is required", and maintained perspectives in which questions "can be developed and provisionally tested without requiring immediate endorsement by the whole organization" ([CLAIM-1177](CLAIM-1177.md)). No status change.

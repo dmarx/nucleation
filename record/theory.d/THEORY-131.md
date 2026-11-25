@@ -127,7 +127,7 @@ registered and unread, so it is unanswered.
 
 ## Note of 2026-11-22: Mulgan, read
 
-[LIT-1874](../literature.d/LIT-1874.md) ([NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md)) **bears on this account's moral-personhood half,
+[LIT-1874](../literature.d/LIT-1874.md) ([NOTE-2306](../notes.d/NOTE-2306.md)) **bears on this account's moral-personhood half,
 and does not meet the promote_when**. Mulgan counts French 1979 among those
 who "explicitly distance themselves from full moral personhood in my sense"
 (p. 904), with French 1984 as a possible exception (footnote 5). Mulgan's

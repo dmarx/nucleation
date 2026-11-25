@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpn78rt
 title: 'When a collective reproduces its organization through the replacement of all its members, what must stay causally continuous for the later organization to be the earlier one persisting, and not a similar one produced anew, and when several later collectives each continue it in a different respect, which successor relation, if any, is its persistence?'
-version: 6
+version: 8
 history:
 - version: 2
   date: '2026-10-23'
@@ -36,7 +36,16 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: a computed candidate for what must stay
-    causally continuous, from CASE-tmpgfgy2. The question is unchanged.
+    causally continuous, from CASE-320. The question is unchanged.
+- version: 7
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 added: open-source successions coded by the lead run
+    of that date. The question is unchanged.
+- version: 8
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 (later) added: how the 2005 Nationals are counted, coded by the lead run of that date. The question is unchanged.
 tags:
 - individuation
 - social-ontology
@@ -53,7 +62,8 @@ summary: >-
   that separates continuation, branching descent and independent
   reconstitution, and returns verdicts on the Senators lineages.
 ---
-<!-- inactive-ok-file: CASE-tmpgfgy2 CLAIM-tmptbxbq — new, filed 2026-11-22 from LEAD-167's computation -->
+<!-- inactive-ok-file: CLAIM-1159 — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
+<!-- inactive-ok-file: CASE-320 CLAIM-884 — new, filed 2026-11-22 from LEAD-167's computation -->
 <!-- inactive-ok-file: THEORY-1814 THEORY-1819 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: QUESTION-290 — Answered; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-617 — filed from the same exchange, Proposed -->
@@ -263,7 +273,7 @@ interests. Filed as `bears_on`. The question is unchanged.
 
 ## Note of 2026-11-22: a computed candidate for the continuity criterion
 
-The bearing of [CASE-tmpgfgy2](../cases.d/CASE-tmpgfgy2.md) on this question is slight. In its model a patch of cells
+The bearing of [CASE-320](../cases.d/CASE-320.md) on this question is slight. In its model a patch of cells
 is now and then refounded from a single cell of the other patch: a similar
 collective produced anew, not the old one continuing. Bourrat's Â counts
 only propagation from the patch's own past, so refounding lowers it. His C2
@@ -273,7 +283,46 @@ outside the patch.
 That is one computable candidate for what must stay causally continuous: the
 channel from the collective's state to its next state, held invariant under
 interventions on the rest. The computation also shows its weakness
-([CLAIM-tmptbxbq](../claims.d/CLAIM-tmptbxbq.md)). A boundary drawn to take in an external scaffold passes it
+([CLAIM-884](../claims.d/CLAIM-884.md)). A boundary drawn to take in an external scaffold passes it
 before the cells hold the collective together at all.
 
 The question is unchanged and stays Open.
+
+## Note of 2026-11-22: a test by replacing one collaborator, from the exchange "Explain First Contact RL" (https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3)
+
+A21 §5 proposed, for a team that keeps a governed record, to "replace one
+collaborator while retaining Luria" and see whether an organizational
+disposition persists beyond a particular participant, and to keep the
+collaborators while withdrawing the record. That is this question for one
+replacement at a time, with the record as a candidate for what must stay
+causally continuous ([CLAIM-1159](../claims.d/CLAIM-1159.md), Proposed). The design is
+[LEAD-221](../leads.d/LEAD-221.md). The question is unchanged.
+
+## Note of 2026-11-23: open-source successions, coded
+
+<!-- inactive-ok-block: CASE-411 CLAIM-1067 CLAIM-1154 CLAIM-1158 CLAIM-1041 — new, Proposed; the run and the claims filed from it -->
+[CASE-411](../cases.d/CASE-411.md) coded eight contested open-source successions. The
+community's recognition followed the maintainers, not the name, where the
+maintainers moved wholesale, and split where part of them moved
+([CLAIM-1158](../claims.d/CLAIM-1158.md)); an original line kept producing while its steward paid
+its producers ([CLAIM-1041](../claims.d/CLAIM-1041.md)). That is which successor participants treat
+as continuing the project, not which, if any, is its persistence. The
+public records could not time participants' verdicts apart from their
+moves ([CLAIM-1067](../claims.d/CLAIM-1067.md), with its alternative [CLAIM-1154](../claims.d/CLAIM-1154.md)). The question
+is unchanged and stays Open.
+
+## Note of 2026-11-23 (later): the Senators' successors as participants count them
+
+<!-- inactive-ok-block: CASE-392 CLAIM-1047 CLAIM-1129 CLAIM-1206 — new, Proposed; the study, the verdict and the two readings filed by the lead run of 2026-11-23 -->
+[CASE-392](../cases.d/CASE-392.md) coded how the league's reported count, the club and
+supporters count the 2005 Nationals. Participants keep two units apart: a
+franchise, traced through Montreal and never through the Senators, and the
+city's baseball, traced to 1859 or 1901, into which the club and
+supporters put both Senators clubs, the Homestead Grays and the Nationals
+([CLAIM-1047](../claims.d/CLAIM-1047.md)). That is evidence of which successor relation
+participants call continuation, not of which is persistence. Whether the
+city's baseball is itself a collective persisting without organizational
+transmission, or a place's history, is filed two ways ([CLAIM-1129](../claims.d/CLAIM-1129.md),
+the run's lean; [CLAIM-1206](../claims.d/CLAIM-1206.md)), and turns on this question's open part,
+whether supporters' memory is transmission. The question is unchanged and
+stays Open.

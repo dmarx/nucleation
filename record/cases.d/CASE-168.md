@@ -35,7 +35,7 @@ summary: >-
 bears_on:
 - QUESTION-277
 ---
-<!-- inactive-ok-file: THEORY-tmpd9ysz — new, filed for LEAD-138; the reading the note of 2026-11-22 reports -->
+<!-- inactive-ok-file: THEORY-2230 — new, filed for LEAD-138; the reading the note of 2026-11-22 reports -->
 
 # CASE-168: Monocercomonoides: a eukaryote that lost its mitochondrion entirely after the organelle's essential jobs were removed in steps, its Fe–S cluster assembly taken over by a bacterial-type SUF system that its relatives share and its glycine cleavage system lost, and kept canonical eukaryotic complexity
 
@@ -97,8 +97,8 @@ correct the previous title's "one indispensable job":
 
 ## Note of 2026-11-22: [LIT-1567](../literature.d/LIT-1567.md) read ([LEAD-138](../leads.d/LEAD-138.md))
 
-Karnkowska et al. 2016 ([LIT-1567](../literature.d/LIT-1567.md)) is now read in [NOTE-tmpzlv8e](../notes.d/NOTE-tmpzlv8e.md)
-([THEORY-tmpd9ysz](../theory.d/THEORY-tmpd9ysz.md)), from the in-press article on the first author's
+Karnkowska et al. 2016 ([LIT-1567](../literature.d/LIT-1567.md)) is now read in [NOTE-2320](../notes.d/NOTE-2320.md)
+([THEORY-2230](../theory.d/THEORY-2230.md)), from the in-press article on the first author's
 institutional site. The case took four facts from its abstract.
 
 - **Held.** The genome "lacks all hallmark mitochondrial proteins"

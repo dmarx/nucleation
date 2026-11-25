@@ -111,3 +111,23 @@ require the standards themselves to be revised.
   context, and the person's own practical organization" (A39). Others'
   attributions act through their treatment of the person whatever the
   person's response ([TERM-075](../terms.d/TERM-075.md), sense 1).
+
+## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", A8 §4 and §10
+
+
+A8 §10 restates this claim as four orientations with maxims: conformity
+("I am what you say I am"), opposition, epistemic closure ("Nothing you say
+can tell me who I am") and reflexive self-governance ("What you say may
+inform me without determining the terms of my response"), adding that
+"Absolute independence from social judgment would not necessarily
+constitute freedom. It could constitute organized ignorance." That is this claim's "neither absorbing every judgement nor
+resisting every one", with closure named as the second failure.
+
+A8 §4 gives the claim's "both let the judgements set the terms of
+response" a formal shape: under reversal of the attribution, conformity
+and opposition transform alike. The assistant's [CLAIM-tmpj4pw3](CLAIM-tmpj4pw3.md) makes it a
+measure, the size of the part of a response that reverses with the
+attribution while its grounds are held fixed, and shows that it captures
+the first clause and not the access clause (a closed response scores low).
+[LEAD-tmp0w114](../leads.d/LEAD-tmp0w114.md) is A8's test in that form. This is an operationalization,
+not evidence. The claim is unchanged.

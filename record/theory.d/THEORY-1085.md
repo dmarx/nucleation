@@ -33,7 +33,7 @@ corroborates:
 bears_on:
 - QUESTION-281
 ---
-<!-- inactive-ok-file: THEORY-tmpdfeto NOTE-tmpcjw5n ARG-tmpdc2qe — Proposed, Skimmed or new; the reading of the long paper and its argument, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2199 NOTE-2285 ARG-197 — Proposed, Skimmed or new; the reading of the long paper and its argument, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-1095 CLAIM-478 CLAIM-157 — Proposed or Open; neighbours cited as open -->
 <!-- inactive-ok-file: CLAIM-841 — filed 2026-11-21 from the exchange "Rich Get Richer Power Laws"; Deferred and Proposed -->
 
@@ -114,8 +114,8 @@ exponents remain [THEORY-1095](THEORY-1095.md)'s question.
 
 ## Note of 2026-11-22: Toner and Tu (1998), read
 
-The long paper ([LIT-2970](../literature.d/LIT-2970.md), read in [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md); the reading is
-[THEORY-tmpdfeto](THEORY-tmpdfeto.md)) **supports this reading and extends it.** The slaving of
+The long paper ([LIT-2970](../literature.d/LIT-2970.md), read in [NOTE-2285](../notes.d/NOTE-2285.md); the reading is
+[THEORY-2199](THEORY-2199.md)) **supports this reading and extends it.** The slaving of
 the speed fluctuation is derived there in full: δv∥ = −Dρ∂∥δρ, by
 neglecting ∂tδv∥ "relative to αδv∥" (eqs. 3.1–3.2, p. 19), the eliminated
 degree of freedom this entry names. The universality claim is still
@@ -139,4 +139,4 @@ which it never writes; and "some initially predicted exponents differ
 from those obtained in large-scale simulations" is not in it: it reports
 "good agreement" (p. 70). [LIT-2970](../literature.d/LIT-2970.md) is no longer unread; the formula and
 the disagreement A reported are later work the record has not read
-([ARG-tmpdc2qe](../arguments.d/ARG-tmpdc2qe.md)). No status change.
+([ARG-197](../arguments.d/ARG-197.md)). No status change.

@@ -23,8 +23,8 @@ summary: >-
   test functions; the definition is the assistant's (Claude, in this
   session), and adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-132 CLAIM-772 — Proposed; the term this complements, and the claims filed with it on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
+<!-- inactive-ok-file: TERM-132 CLAIM-772 — Proposed; the term this complements, and the claims filed with it on 2026-11-21 -->
 
 # TERM-134: predicate (of an entry), read as a test
 
@@ -81,6 +81,45 @@ convention, a reviewer's habit).
   which two objects are equivalent. An entry's predicates are one entry's
   tests, accrued over its life, and they say what versions of it are
   allowed, not when two things count as the same.
+
+## Note of 2026-11-22: Freeman and Pfenning, read
+<!-- inactive-ok-file: THEORY-2259 — Proposed; filed for LEAD-215 -->
+
+Freeman and Pfenning's refinement types ([THEORY-2259](../theory.d/THEORY-2259.md); [NOTE-2350](../notes.d/NOTE-2350.md)) have a
+descriptor and lack an imposition. An annotation is accepted only when the
+term already has a refinement below it (RESTRICT, p. 8), and nothing moves
+the term: an annotation accepted is a descriptor in this term's sense. The
+refinements available are a finite lattice the programmer declares in
+advance; what the declarations lack cannot be said of a term, and is added
+by a new declaration. That parallels the closed tag vocabulary above, kept
+a matter of descriptors by adding words by decision. The paper's motive is
+the same walk from prose to mechanism: "the programmer is encouraged to
+make explicit the distinctions which currently must remain implicit or
+informal in code comments" (p. 2). Parallels only; the definition stands.
+
+## Note of 2026-11-22: Davies and Pfenning, read
+<!-- inactive-ok-file: THEORY-2260 — Proposed; filed for LEAD-215 -->
+
+A parallel. Freeman and Pfenning's refinements ([THEORY-2259](../theory.d/THEORY-2259.md)) are a
+closed vocabulary declared in advance, and can be inferred; Davies and
+Pfenning ([THEORY-2260](../theory.d/THEORY-2260.md); [NOTE-2351](../notes.d/NOTE-2351.md)) open it to any intersection,
+inference becomes "most likely undecidable" (p. 2), and the properties
+must be stated by the programmer and checked. Read across: a predicate
+from a closed vocabulary can be read off an entry; one from an open
+vocabulary has to be written. No change.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-2262 — Proposed; filed for LEAD-215 -->
+
+A parallel (no edge). In liquid types ([THEORY-2262](../theory.d/THEORY-2262.md); [NOTE-2353](../notes.d/NOTE-2353.md))
+the descriptors that can be inferred are conjunctions from a finite set
+of qualifiers the programmer supplies. A property the set cannot state is
+not inferred, and the paper's remedy is "to manually add more qualifiers"
+(p. 160), as the record adds a missing topic by decision rather than
+using the nearest wrong one. The set is closed under conjunction and not
+disjunction (p. 164). Unlike Freeman and Pfenning's declared lattice, the
+vocabulary is of predicates, the record's own kind of test. The
+definition stands.
 
 ## Note of 2026-11-22: Dunfield and Krishnaswami, read
 

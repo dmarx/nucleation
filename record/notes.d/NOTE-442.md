@@ -244,7 +244,7 @@ satisfaction (.18).
 
 ## Note of 2026-11-22: Howard, Gagné and Bureau, read
 
-**The definition meets its measurement**, no edge ([LIT-1996](../literature.d/LIT-1996.md), [NOTE-tmp3k6if](NOTE-tmp3k6if.md)).
+**The definition meets its measurement**, no edge ([LIT-1996](../literature.d/LIT-1996.md), [NOTE-2313](NOTE-2313.md)).
 Integrated regulation, identified regulations "fully assimilated to the
 self" here, is the construct the meta-analysis finds "practically
 indistinguishable from identified regulation" (p. 28). It answers this

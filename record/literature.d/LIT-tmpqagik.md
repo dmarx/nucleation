@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read in full on 2026-11-22 for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md) ([NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)) from arXiv
+  Read in full on 2026-11-22 for [LEAD-215](../leads.d/LEAD-215.md) ([NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)) from arXiv
   1908.05839v2 (14 November 2020), the authors' preprint of the ACM
   Computing Surveys article. Worth reading as the standard account of
   bidirectional typing: checking a term against a type given as input,
@@ -14,7 +14,7 @@ history:
 - version: 1
   date: '2026-11-22'
   note: >-
-    Filed, not read, for LEAD-tmp3xevc, which names "Dunfield and
+    Filed, not read, for LEAD-215, which names "Dunfield and
     Krishnaswami (2021), a survey of bidirectional typing". Checked first:
     no LIT on staging held arXiv 1908.05839, DOI 10.1145/3450952, the
     title or the first author (grep of record/literature.d, 2026-11-22;
@@ -62,10 +62,10 @@ summary: >-
   annotation rule the other way); and surveys polymorphism, mixed and
   backwards modes, the proof-theoretic links (subformula property,
   verifications and uses, focusing) and the history. Read for
-  [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md) in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md); account [THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md). It bears on [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md),
-  [CLAIM-tmpmk056](../claims.d/CLAIM-tmpmk056.md) and [TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md).
+  [LEAD-215](../leads.d/LEAD-215.md) in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md); account [THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md). It bears on [CLAIM-949](../claims.d/CLAIM-949.md),
+  [CLAIM-943](../claims.d/CLAIM-943.md) and [TERM-151](../terms.d/TERM-151.md).
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt THEORY-tmptsz1u ARG-tmpcpo8g CLAIM-tmpugw2q CLAIM-tmpmk056 TERM-tmp8b1yl — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
+<!-- inactive-ok-file: CLAIM-949 THEORY-tmptsz1u ARG-tmpcpo8g CLAIM-tmpugw2q CLAIM-943 TERM-151 — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # LIT-tmpqagik: Bidirectional Typing
 
@@ -91,8 +91,8 @@ Computing Surveys* 54(5), pp. 1–38. arXiv 1908.05839 (2019; v2 2020).
 
 ## Standing in the record
 
-Registered and read on 2026-11-22 for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md), which tests
-[CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s correspondences against their sources. Read in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md);
+Registered and read on 2026-11-22 for [LEAD-215](../leads.d/LEAD-215.md), which tests
+[CLAIM-949](../claims.d/CLAIM-949.md)'s correspondences against their sources. Read in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md);
 its account is [THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md). The reading supports the claim's fact and
 requirement reading of synthesis and checking, shows that neither mode
 moves the term, and leaves open whether elaboration is the performative

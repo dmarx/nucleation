@@ -26,8 +26,8 @@ history:
   date: '2026-11-21'
   note: >-
     Edited in place after the readings of LIT-2979 (Transtrum & Qiu 2014,
-    NOTE-tmphbnqd), LIT-2999 (Gutenkunst et al. 2007, NOTE-tmp1feoo) and
-    LIT-2960 (Amari, Park & Ozeki 2006, NOTE-tmptlwkf). The title and the
+    NOTE-2253), LIT-2999 (Gutenkunst et al. 2007, NOTE-2252) and
+    LIT-2960 (Amari, Park & Ozeki 2006, NOTE-2255). The title and the
     definition stand. Added: the manifold boundary approximation needs a
     hierarchy of edges and corners as well as of widths, so a hyperribbon
     without corners, which the definition admits, is a case the method
@@ -39,11 +39,11 @@ history:
   date: '2026-11-22'
   note: >-
     Edited in place after the reading of LIT-2958 (Quinn, Abbott,
-    Transtrum, Machta & Sethna 2023, NOTE-tmp3keyy, THEORY-tmpx26x7). The
+    Transtrum, Machta & Sethna 2023, NOTE-2256, THEORY-2167). The
     title and the definition stand. Added: the rigorous bound for
     least-squares models smooth in their experimental control, which the
     review restates from Quinn, Wilber, Townsend & Sethna 2019
-    (LIT-tmpmksrk, Deferred), beside the 2011 ratio-test heuristic; the
+    (LIT-3029, Deferred), beside the 2011 ratio-test heuristic; the
     review's joint definition, eigenvalues and widths both hierarchical;
     and, under condition 2, the review's own singular models "that are not
     strictly boundaries, such as a the tip of a cone". The Sources line
@@ -64,8 +64,8 @@ draws_on:
 - THEORY-774
 - THEORY-777
 - THEORY-742
-- THEORY-tmpt1tw7
-- THEORY-tmpx26x7
+- THEORY-2166
+- THEORY-2167
 summary: >-
   The shape the exchange "Rich Get Richer Power Laws" gives, at A19 §4,
   to the set of predictions a sloppy model can make: long in a few
@@ -85,9 +85,9 @@ summary: >-
   A19); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, the record's evidence for the critical-Ising spectrum -->
-<!-- inactive-ok-file: THEORY-tmpx26x7 LIT-tmpmksrk — Proposed, Deferred or new; the 2023 review's reading and the 2019 paper it restates, filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2167 LIT-3029 — Proposed, Deferred or new; the 2023 review's reading and the 2019 paper it restates, filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-825 — filed with this term from the same exchange, Proposed -->
-<!-- inactive-ok-file: CASE-302 TERM-140 THEORY-2154 THEORY-2155 THEORY-2156 THEORY-tmpt1tw7 THEORY-tmpks8pd THEORY-tmpbobud — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+<!-- inactive-ok-file: CASE-302 TERM-140 THEORY-2154 THEORY-2155 THEORY-2156 THEORY-2166 THEORY-2165 THEORY-2163 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # TERM-135: hyperribbon: a model manifold whose widths across successive orthogonal directions fall roughly geometrically, the prediction-space face of a sloppy Fisher spectrum
 
@@ -142,13 +142,13 @@ convergence; a ratio-test heuristic, argued for one independent variable
 and extended "in some multidimensional sense" ([THEORY-2155](../theory.d/THEORY-2155.md),
 [THEORY-2154](../theory.d/THEORY-2154.md)). For least-squares models smooth in their experimental
 control there is now a rigorous bound, restated in the 2023 review from
-Quinn, Wilber, Townsend and Sethna 2019 ([LIT-tmpmksrk](../literature.d/LIT-tmpmksrk.md), Deferred, unread):
+Quinn, Wilber, Townsend and Sethna 2019 ([LIT-3029](../literature.d/LIT-3029.md), Deferred, unread):
 "The proof relies on the smoothness of the predictions as the
 experimental controls ... are varied"; with Taylor coefficients bounded by
 one, the manifold lies within ε_N = T^N/(1−T) of a hyper-parallelepiped
 skewed by the Vandermonde matrix, and in the Chebyshev form it "is
 constrained by a hyper-ellipsoid whose j-th largest principal axis length
-is bounded by" ρ^(−j) ([LIT-2958](../literature.d/LIT-2958.md), §3; [THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md)). The review calls
+is bounded by" ρ^(−j) ([LIT-2958](../literature.d/LIT-2958.md), §3; [THEORY-2167](../theory.d/THEORY-2167.md)). The review calls
 ρ^(−j) "a power law"; it is geometric in j, as the same paragraph's
 "geometric decay" says. The review also makes the definition joint:
 "We call a model sloppy, and the model manifold a hyperribbon, if the
@@ -189,12 +189,12 @@ y = (θ₁+θ₂)x + ε(θ₁−θ₂)z with x and z orthonormal, has Fisher eig
    neural networks the points of rank loss lie inside parameter space at
    finite values, a unit switched off or two units coinciding, and in the
    space of distributions at a cone apex, not at an edge ([LIT-2960](../literature.d/LIT-2960.md),
-   [THEORY-tmpbobud](../theory.d/THEORY-tmpbobud.md)), so a network near such a set is not a regular
+   [THEORY-2163](../theory.d/THEORY-2163.md)), so a network near such a set is not a regular
    interior between singular edges. The 2023 review loosens the condition
    itself: "model manifolds may have singular models that are not
    strictly boundaries, such as a the tip of a cone. These singularities
    often correspond to useful reduced models" ([LIT-2958](../literature.d/LIT-2958.md), §4,
-   [THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md)), so even in the sloppy-model literature a singular
+   [THEORY-2167](../theory.d/THEORY-2167.md)), so even in the sloppy-model literature a singular
    point can lie inside the manifold, as Amari's cone apex does.
 
 ## What it is not
@@ -227,7 +227,7 @@ y = (θ₁+θ₂)x + ε(θ₁−θ₂)z with x and z orthonormal, has Fisher eig
   "an ellipsoid with a hierarchy of widths but without a hierarchy of
   edges; i.e., there are no corners" ([LIT-2979](../literature.d/LIT-2979.md), para. 21). Such a manifold
   is a hyperribbon by this definition, and the method cannot use it
-  ([THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md)).
+  ([THEORY-2166](../theory.d/THEORY-2166.md)).
 - **Not a count of parameters.** Neither a hyperribbon's dimension nor
   its number of "wide" directions is fixed: how many directions a data set
   resolves grows with the data ([CLAIM-825](../claims.d/CLAIM-825.md)), and which of several
@@ -244,11 +244,11 @@ to the manifold's boundary, which A19 §4 names: Transtrum and Qiu 2014
 colleagues 2007 ([LIT-2999](../literature.d/LIT-2999.md)). The two papers and the 2015 review were
 read on 2026-11-21 ([NOTE-2240](../notes.d/NOTE-2240.md), [NOTE-2247](../notes.d/NOTE-2247.md), [NOTE-2242](../notes.d/NOTE-2242.md)) and filed
 as [THEORY-2156](../theory.d/THEORY-2156.md), [THEORY-2155](../theory.d/THEORY-2155.md) and [THEORY-2154](../theory.d/THEORY-2154.md); the reduction
-method and the survey were read the same day ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md),
-[NOTE-tmp1feoo](../notes.d/NOTE-tmp1feoo.md)) and filed as [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md) and [THEORY-tmpks8pd](../theory.d/THEORY-tmpks8pd.md); the
-2023 review was read on 2026-11-22 ([NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md)) and filed as
-[THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md), and the 2019 paper whose bound it restates is Deferred
-and unread ([LIT-tmpmksrk](../literature.d/LIT-tmpmksrk.md)). The
+method and the survey were read the same day ([NOTE-2253](../notes.d/NOTE-2253.md),
+[NOTE-2252](../notes.d/NOTE-2252.md)) and filed as [THEORY-2166](../theory.d/THEORY-2166.md) and [THEORY-2165](../theory.d/THEORY-2165.md); the
+2023 review was read on 2026-11-22 ([NOTE-2256](../notes.d/NOTE-2256.md)) and filed as
+[THEORY-2167](../theory.d/THEORY-2167.md), and the 2019 paper whose bound it restates is Deferred
+and unread ([LIT-3029](../literature.d/LIT-3029.md)). The
 definition rests on those readings, on A's wording and on the record's
 readings of [THEORY-774](../theory.d/THEORY-774.md), [THEORY-777](../theory.d/THEORY-777.md) and [THEORY-742](../theory.d/THEORY-742.md).
 
@@ -281,7 +281,7 @@ made in place above (version 2). What the readings support and qualify:
 
 ## Note of 2026-11-21: Transtrum & Qiu (2014), Gutenkunst et al. (2007) and Amari, Park & Ozeki (2006), read
 
-- **Transtrum and Qiu ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md)) support the definition**: "the
+- **Transtrum and Qiu ([NOTE-2253](../notes.d/NOTE-2253.md)) support the definition**: "the
   manifold is bounded with a hierarchy of widths, qualitatively described
   as a hyper-ribbon" (para. 8), spelt with the hyphen. **They add** that
   widths are not enough for their method, which needs nested edges and
@@ -289,17 +289,17 @@ made in place above (version 2). What the readings support and qualify:
   in place above, under "What it is not" (version 3). The reduced model
   sits at a "hypercorner", and after reduction "the lack of small
   eigenvalues" shows the reduced model is no longer sloppy.
-- **Gutenkunst and colleagues ([NOTE-tmp1feoo](../notes.d/NOTE-tmp1feoo.md)): background.** The survey
+- **Gutenkunst and colleagues ([NOTE-2252](../notes.d/NOTE-2252.md)): background.** The survey
   has no model manifold and no widths; its ellipsoids are in parameter
   space, axes ∝ 1/√λ (Fig. 1A). It is the empirical base the definition's
   sources cite, and accurately.
-- **Amari, Park and Ozeki ([NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md)) limit condition 2** to the
+- **Amari, Park and Ozeki ([NOTE-2255](../notes.d/NOTE-2255.md)) limit condition 2** to the
   sloppy-model literature's models: network singularities are interior,
   at finite parameters (made in place above).
 
 ## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
 
-Read in [NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md) ([THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md)); the additions are made in place
+Read in [NOTE-2256](../notes.d/NOTE-2256.md) ([THEORY-2167](../theory.d/THEORY-2167.md)); the additions are made in place
 above (version 4).
 
 - **Supported:** the definition, "a ribbon is much longer than it is
@@ -309,7 +309,7 @@ above (version 4).
   (§8.2), and the hopping model after one step "is not a hyper-ribbon"
   (§6.2).
 - **Added: a rigorous bound**, for least-squares models smooth in their
-  control variable, restated from the 2019 paper ([LIT-tmpmksrk](../literature.d/LIT-tmpmksrk.md), which
+  control variable, restated from the 2019 paper ([LIT-3029](../literature.d/LIT-3029.md), which
   would meet the review THEORY's promote_when once read). The 2011
   argument remains the heuristic for other models; for general
   probabilistic models the review says "we do not yet have an explanation

@@ -17,7 +17,7 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: a lagged, priced block test built and run
-    on CASE-101's populations (CASE-tmprsqvj, CLAIM-tmp2jbb1, LEAD-026).
+    on CASE-101's populations (CASE-347, CLAIM-926, LEAD-026).
     The question is unchanged.
 tags:
 - individuation
@@ -36,7 +36,7 @@ summary: >-
   networks or lagged dynamics that finds such a collective and still
   rejects mere common input.
 ---
-<!-- inactive-ok-file: CASE-tmprsqvj CLAIM-tmp2jbb1 — new, filed 2026-11-22 from LEAD-026's study -->
+<!-- inactive-ok-file: CASE-347 CLAIM-926 — new, filed 2026-11-22 from LEAD-026's study -->
 
 # QUESTION-116: What is the time-lagged form of the block criterion, for a collective whose members are weakly coupled at every instant but strongly connected through time-respecting paths of transmission, across generations and through stored artifacts?
 
@@ -84,7 +84,7 @@ related by `refines`.
 
 ## Note of 2026-11-22: a lagged block test, run on [CASE-101](../cases.d/CASE-101.md)'s populations
 
-[CASE-tmprsqvj](../cases.d/CASE-tmprsqvj.md) builds one candidate form of the criterion this question asks
+[CASE-347](../cases.d/CASE-347.md) builds one candidate form of the criterion this question asks
 for, and runs it on [CASE-101](../cases.d/CASE-101.md)'s populations ([LEAD-026](../leads.d/LEAD-026.md)). The test:
 
 - fits a linear autoregression of window W over the observed variables;
@@ -93,7 +93,7 @@ for, and runs it on [CASE-101](../cases.d/CASE-101.md)'s populations ([LEAD-026]
 - passes a candidate when every cut inside it is kept and its edge is
   pruned.
 
-[CLAIM-tmp2jbb1](../claims.d/CLAIM-tmp2jbb1.md) states the result.
+[CLAIM-926](../claims.d/CLAIM-926.md) states the result.
 
 - **It finds the collective this question describes.** The members of the
   transmitting population have no synchronous coupling, only coupling at a

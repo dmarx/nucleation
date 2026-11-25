@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp4pk8d
 title: 'In a sequential decision problem with informative reassessment, provisional activation and subsequent cancellation of a capability can both be optimal under one unchanged objective'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -14,6 +14,13 @@ history:
     grounds to illustrated_by, and rests_on gains CLAIM-561, whose
     expected-loss model supplies the first stage's ΔV(p0) > 0; both are
     Active in the same change. No objection is filed.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §9.6. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -48,6 +55,8 @@ summary: >-
   the information held when they are taken. A: "The original dispatch is
   not retrospectively refuted by later cancellation." The wording is A's;
   adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 
 # CLAIM-559: In a sequential decision problem with informative reassessment, provisional activation and subsequent cancellation of a capability can both be optimal under one unchanged objective

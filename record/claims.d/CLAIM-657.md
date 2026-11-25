@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpljkzy
 title: 'An organization can become normatively less informed without censoring anyone by two distinct routes, selective disappearance of the harmed from the population it observes and costly discovery that keeps it from investigating the questions that would reveal unmet obligations; neither needs deliberate suppression, and both differ from the counter-corrective weakening of the channels through which challenge succeeds, so that they should not be conflated in attributing responsibility'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -15,6 +15,12 @@ history:
     being filed, and by the selective survival of challenges to
     adjudication; A relays the claim as its first route only. No other
     change.
+- version: 3
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 6 abstract, §5 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,6 +39,8 @@ date: '2026-11-12'
 line:
 - organizational-normativity
 - distributed-agency
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-652
 - CLAIM-662
@@ -131,3 +139,42 @@ No status changes.
 ## Note of 2026-11-18: what holds it back
 
 Route A rests on [CLAIM-652](CLAIM-652.md), Proposed, which waits on [CLAIM-655](CLAIM-655.md) and its toy [CASE-246](../cases.d/CASE-246.md); [CLAIM-662](CLAIM-662.md), route B, went Active at this review, so [CLAIM-652](CLAIM-652.md) is now the only unheld premise. The claim goes Active when [CLAIM-652](CLAIM-652.md) does, unless the candidate third route of the note of 2026-11-17 is filed as an objection to "two distinct routes".
+
+## Note of 2026-11-23: route B produced by learning, from [LEAD-181](../leads.d/LEAD-181.md)
+<!-- inactive-ok-file: CLAIM-997 — new; filed by the lead run of 2026-11-23 -->
+
+In [CASE-396](../cases.d/CASE-396.md) an institution told only its internal score learns to
+make no inquiry, with no rule against inquiry and no act against anyone:
+route B, costly discovery, arising without deliberate suppression, as the
+claim says. [CLAIM-997](CLAIM-997.md) narrows what the route needs, in that model:
+discovery unrewarded and inquiry costly already suffice, without the
+penalty on newly recognized violations; the penalty makes inquiry a loss.
+The study models no exit, so it says nothing of route A or of whether the
+two routes are one. No status change.
+
+## Note of 2026-11-23: what holds it back
+
+Rechecked after [CASE-396](../cases.d/CASE-396.md) and [CLAIM-997](CLAIM-997.md) (2026-11-23; the CASE went
+Active at this review). Both bear on route B only and model no exit. The
+wait is unchanged: [CLAIM-652](CLAIM-652.md) (route A) is Proposed, and the candidate third
+route of the note of 2026-11-17 has not been filed as an objection.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A6 §5
+
+At the owner's U5 ("apply this framework to topics in agnatology", that
+is, agnotology), A6 §5 cites this claim accurately as "a particularly
+relevant proposed thesis" and reads its two routes as "forms of
+agnotological selection". Its example is route B: "Suppose an
+organization rewards personnel according to recorded problem incidence.
+Accurately discovering previously unrecognized problems can then be
+individually disadvantageous", so that "**Ignorance can be an
+organizational achievement without being anyone's objective.**" A6 sets
+this against Linsey McGoey's work on strategic ignorance, registered
+unread as [LIT-tmpmrlmt](../literature.d/LIT-tmpmrlmt.md), which treats nonknowledge as a resource someone
+uses. A6's account of transmitted ignorance ([CLAIM-tmpjlxfy](CLAIM-tmpjlxfy.md)) complements
+this claim. Bearing: an application and a contrast with outside
+literature, no edge; no change. The wording of this note is the
+assistant's (Claude, in this session), reporting A's (ChatGPT's) text;
+adopting what it reports is the owner's call.
+
+<!-- inactive-ok-file: CLAIM-tmpjlxfy LIT-tmpmrlmt — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

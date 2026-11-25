@@ -82,9 +82,9 @@ mentioned:
   extension is controlled.
 
 ## Note of 2026-11-22: a design that could give a yes or a no
-<!-- inactive-ok-file: CASE-tmp413kq — new; filed by LEAD-062 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-323 — new; filed by LEAD-062 on 2026-11-22 -->
 
-[CASE-tmp413kq](../cases.d/CASE-tmp413kq.md), filed by [LEAD-062](../leads.d/LEAD-062.md), measures the criteria this question
+[CASE-323](../cases.d/CASE-323.md), filed by [LEAD-062](../leads.d/LEAD-062.md), measures the criteria this question
 names as candidates (self-definition, cognitive inclusion, salience by
 instruction) apart from concern for a group's welfare, and gives money to
 the group as the outcome. Gifts that follow concern where the criteria
@@ -93,7 +93,7 @@ that vanish once the criteria are held fixed, "for a no". Not run.
 
 ## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
 
-**No direct bearing**, no edge ([LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md), [NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md)). The paper
+**No direct bearing**, no edge ([LIT-3082](../literature.d/LIT-3082.md), [NOTE-2315](../notes.d/NOTE-2315.md)). The paper
 treats identification with future generations as one route to concern but
 cannot say whether the concern is self-interested; efficacy toward future
 generations, a route with no self in it, predicts responsibility as

@@ -189,7 +189,7 @@ The works read on 2026-11-03 ([NOTE-1533](../notes.d/NOTE-1533.md), [NOTE-1510](
 
 ## Note of 2026-11-22: Martela and Ryan (2019), read
 
-[LIT-1983](../literature.d/LIT-1983.md) ([NOTE-tmptzkzg](../notes.d/NOTE-tmptzkzg.md)) **corroborates this account's premise in passing
+[LIT-1983](../literature.d/LIT-1983.md) ([NOTE-2304](../notes.d/NOTE-2304.md)) **corroborates this account's premise in passing
 and is not promotion evidence**. Of the three established needs' frustration
 the authors write that "all three of them seem to be independently
 connected" to ill-being (p. 129). But the evidence is cross-sectional MTurk

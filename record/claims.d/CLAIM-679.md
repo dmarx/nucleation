@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpfrjqq
 title: 'For a fixed architecture and one resource that must be held at each moment, cutting the resource an organization holds toward what holding its present configuration requires leaves that configuration feasible and removes exactly the transitions whose threshold lies between the old holding and the new, so that at the limit the organization can still hold where it is and can reach no configuration whose transition carries any reconfiguration slack'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-17'
@@ -32,6 +32,13 @@ history:
     condition's stipulation. No objection is on file, nothing meets the
     defeat condition, and the instance (7, 7, 13) checks. The text is
     unchanged.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §9.1
+    states it: cutting to the holding cost keeps the configuration and
+    removes the transition. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -75,6 +82,8 @@ summary: >-
   Demonstrated; the derivation is in the body. Filed on 2026-11-13 from
   the items the first filing left. The wording is A's; adopting it is the
   owner's call.
+works:
+- governance-of-possibility
 ---
 
 # CLAIM-679: For a fixed architecture and one resource that must be held at each moment, cutting the resource an organization holds toward what holding its present configuration requires leaves that configuration feasible and removes exactly the transitions whose threshold lies between the old holding and the new, so that at the limit the organization can still hold where it is and can reach no configuration whose transition carries any reconfiguration slack
@@ -149,3 +158,16 @@ A64 §6 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6af
 The structure is this claim's, with two differences. Here a cut in the resource held removes exactly the transitions whose threshold lies between the old holding and the new; there an added requirement removes exactly the objectives whose cost it pushes past the holding. And here the resource is held at each moment, while A64's is a budget spent over the dispute. Both say that what is lost is fixed by which thresholds fall in the gap, so a small change near a boundary can remove a whole option. A64 adds the adversary: "**An adversary possesses procedural foreclosure power when its available choices can move another party's justified corrective objective across a resource-feasibility boundary.**" Rechecked in [CASE-287](../cases.d/CASE-287.md); it grounds [CLAIM-748](CLAIM-748.md).
 
 No status changes.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: ADR-144 — Proposed; the work and the fill this note names -->
+Extension. In A48 §9.3 of the owner's manuscript ([ADR-144](../decisions.d/ADR-144.md)), this
+claim's zero-slack limit is what decides whether a redesigned transition can
+replace a reserve: only a redesign whose threshold is at most the holding
+cost does ([CLAIM-1099](CLAIM-1099.md)).
+
+## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: CLAIM-646 — Proposed; the cumulative-cost limit -->
+Converse, the assistant's. A gap of the manuscript governance-of-possibility, §9.7 (GC3). For one capacity held at each moment and finitely many paths, a path is affordable exactly when the budget is at least its peak ([CLAIM-571](CLAIM-571.md)). With path thresholds θ₁ < … < θ_k, the set of affordable paths is constant on each interval [θ_j, θ_{j+1}). Where readiness depends on the budget only through that set (more budget does not cross a path faster), readiness is a step function of the reserve B − r(q), with steps only at θ_j − r(q). A reserve strictly between two thresholds buys exactly what the lower one buys, and costs more. This claim is the downward half: cutting the holding removes exactly the transitions whose thresholds fall in the gap. The manuscript's study shows both in its model: R(6) = 0.269 for every reserve from 0 to 1.75 in the original architecture and 0.907 at 2; in the redesigned one, 0.151 from 0 to 0.75, 0.664 from 1 to 1.75 and 0.907 at 2 (scratch/manuscripts/governance-of-possibility/analysis/results.json, read with python3 -I). It need not hold with several resources, where the sufficient budgets form an upward-closed set with a Pareto frontier ([CLAIM-585](CLAIM-585.md)), or with cumulative costs ([CLAIM-646](CLAIM-646.md)). The note is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.

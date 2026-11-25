@@ -105,3 +105,22 @@ From the fourth synthesis on DNA origami by another assistant (A), "Predicting w
 A's fourth synthesis enlarges the design. It has three or four candidate nucleating relations and two competing finished forms, with the inventory and resources fixed. It varies which relations come first, their strengths and how long support lasts, and records trajectories. A pairs each test with the rival it excludes: placement against more resources, structure against progress count, a stabilization sweep against degradation, complementarity against additivity, timing against total exposure, withdrawal against early completion, and competing targets against a silently privileged one. A notes the gap such a model would test: Aksel et al.'s design score ([NOTE-1642](../notes.d/NOTE-1642.md)) omits kinetics and inter-staple cooperativity.
 
 No status changes.
+
+## Note of 2026-11-22: run, as the factorial committor half of [CASE-374](CASE-374.md)
+
+Carried out under [LEAD-116](../leads.d/LEAD-116.md). [CASE-374](CASE-374.md) runs this study's
+factorial design in a stochastic assembly Markov chain: two routings (two
+alternative seams) crossed with uniform or targeted early stabilisation, with
+the committor q(s) = Pr_s(tau_F < tau_K) as the main measurement and
+Delta_q_N = q(do N) - q(comparator) scoring a candidate nucleus. Targeted early
+stabilisation of the one designed seam is a productive nucleus (Delta_q_N about
++0.6); stabilising both seams locks in the incompatible pair and is a trap
+(Delta_q_N about -0.18). The committor ranks a one-bond nucleus (0.81) above the
+fully assembled but misfolded four-bond state (0.05), so a partial structure
+that appears and is advanced can still be a trap, not a productive nucleus,
+exactly as this study frames it ("progress is not completion"; DeLuca et al.'s
+run best folded at 1 s and second worst at 3.6 s, [THEORY-1398](../theory.d/THEORY-1398.md)). The failure
+set K is declared in advance, as the design requires. The model is stipulated
+with invented rates.
+
+No status changes.

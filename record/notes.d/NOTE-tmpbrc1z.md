@@ -7,7 +7,7 @@ history:
 - version: 1
   date: '2026-11-22'
   note: >-
-    Read in full on 2026-11-22 for LEAD-tmp3xevc from arXiv 1908.05839v2
+    Read in full on 2026-11-22 for LEAD-215 from arXiv 1908.05839v2
     (14 November 2020), the authors' own deposit, 37 pages, extracted with
     pdftotext -layout; lawful under ADR-074. All twelve sections and the
     notation table read; typing rules read from the extracted layout,
@@ -26,11 +26,11 @@ summary: >-
   criteria for a system, restates the Pfenning recipe (introductions
   check, eliminations synthesize, subsumption and annotation switch
   direction), and shows the modes can be mixed, combined or reversed.
-  Read for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md): it supports reading a synthesized type as a
+  Read for [LEAD-215](../leads.d/LEAD-215.md): it supports reading a synthesized type as a
   fact and a checked type as a requirement, and shows that neither mode
   changes the term.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt TERM-tmp8b1yl TERM-134 ARG-tmpcpo8g CLAIM-tmpmk056 CLAIM-tmpugw2q THEORY-162 TERM-tmp94y6v CLAIM-783 CLAIM-tmp5rv9x — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
+<!-- inactive-ok-file: CLAIM-949 TERM-151 TERM-134 ARG-tmpcpo8g CLAIM-943 CLAIM-tmpugw2q THEORY-162 TERM-152 CLAIM-783 CLAIM-942 — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # NOTE-tmpbrc1z: Dunfield and Krishnaswami — Bidirectional Typing
 
@@ -163,10 +163,10 @@ flow rather than polarity (§8).
 
 ## Bearing on the record
 
-The reading answers [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md)'s questions on bidirectional typing.
+The reading answers [LEAD-215](../leads.d/LEAD-215.md)'s questions on bidirectional typing.
 
-- **Synthesis against checking, as direction of fit ([CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md),
-  [TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md)).** Supported in the authors' own words: the synthesized
+- **Synthesis against checking, as direction of fit ([CLAIM-949](../claims.d/CLAIM-949.md),
+  [TERM-151](../terms.d/TERM-151.md)).** Supported in the authors' own words: the synthesized
   type is "a fact", the type checked against "a requirement" (§4.4);
   inference finds the behaviours a program has, annotations state those
   intended (§9.1); the type flows from the term in one mode and into it
@@ -176,7 +176,7 @@ The reading answers [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md)'s questions on 
   only answers yes or no (§9.1). Both are tests in [TERM-134](../terms.d/TERM-134.md)'s sense. So
   the correspondence holds for what the type is taken as and fails if
   checking is read as performative update. ARG [ARG-tmpcpo8g](../arguments.d/ARG-tmpcpo8g.md) judges this.
-- **Where elaboration, coercion and subsumption sit ([CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)).**
+- **Where elaboration, coercion and subsumption sit ([CLAIM-949](../claims.d/CLAIM-949.md)).**
   Subsumption sits at the change of direction, where the fact meets the
   requirement, and is itself a test, A <: B read as A ⊃ B; it moves
   nothing. What changes the term to fit is, in this survey, the
@@ -186,8 +186,8 @@ The reading answers [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md)'s questions on 
   cited titles (Dunfield 2012, 2014, 2015). The claim that the
   performative half is elaboration or coercion is neither confirmed nor
   refuted here; [LEAD-tmp7mkn0](../leads.d/LEAD-tmp7mkn0.md) plans the reading that would settle it.
-- **Where the type comes from against who must fit whom ([CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md),
-  [TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md), [CLAIM-tmpmk056](../claims.d/CLAIM-tmpmk056.md)).** Not the same distinction. Mode is
+- **Where the type comes from against who must fit whom ([CLAIM-949](../claims.d/CLAIM-949.md),
+  [TERM-151](../terms.d/TERM-151.md), [CLAIM-943](../claims.d/CLAIM-943.md)).** Not the same distinction. Mode is
   where the type comes from, and the survey shows it reversible (§6.5),
   combinable (§6.4) and finer than input and output (§6.2), and shows
   checking against a placeholder that the term then solves (§5.1.3, §10),
@@ -195,16 +195,16 @@ The reading answers [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md)'s questions on 
   every variant: a failed check is the term's error. In the standard
   recipe the two line up, since a checked type comes from an annotation
   or an earlier synthesis. And a requirement the term already meets is
-  still a requirement, while by [CLAIM-tmpmk056](../claims.d/CLAIM-tmpmk056.md)'s criterion, passing when
+  still a requirement, while by [CLAIM-943](../claims.d/CLAIM-943.md)'s criterion, passing when
   added, it is a descriptor. [CLAIM-tmpugw2q](../claims.d/CLAIM-tmpugw2q.md) files that objection.
 - **Parallels without an edge.** Checking as a test that passes or fails
   against what it meets, Veltman's test ([THEORY-162](../theory.d/THEORY-162.md)); a predicate read as
   a test returning a boolean ([TERM-134](../terms.d/TERM-134.md)); Polikarpova's strengthening,
   which checks against a required type and returns the description
   {b | ν = x} written from the variable itself, a description in
-  [TERM-tmp94y6v](../terms.d/TERM-tmp94y6v.md)'s sense; intersection introduction, where one term
+  [TERM-152](../terms.d/TERM-152.md)'s sense; intersection introduction, where one term
   witnesses both types, beside [CLAIM-783](../claims.d/CLAIM-783.md) part 6; inferring all behaviours
-  against annotating the intended ones, beside [CLAIM-tmp5rv9x](../claims.d/CLAIM-tmp5rv9x.md)'s inquiry
+  against annotating the intended ones, beside [CLAIM-942](../claims.d/CLAIM-942.md)'s inquiry
   and engineering.
 
 ## Limitations

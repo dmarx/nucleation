@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpnb4v4
 status: Active
 title: 'Rights, demands and commitments are distinct and none establishes another: a right does not depend on being demanded or on anyone''s commitment to it, a demand''s being asserted, maintained or recognized gives it no warrant, and a commitment is neither an obligation nor an authorization, while an obligation persists without commitment; each passage between them, a right generating a demand or a valid undertaking generating a right, needs its own warrant'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-17'
@@ -28,6 +28,12 @@ history:
     maintained demand the claim denies warrant to, and Stern's
     objection sides with the claim. Nothing in the record meets the
     defeat condition. The claim is unchanged.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 8 §2 (ADR-tmpenzcn). No change of
+    title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -47,6 +53,8 @@ date: '2026-11-17'
 line:
 - organizational-normativity
 - will-organization
+works:
+- governance-of-becoming
 complements:
 - CLAIM-725
 - CLAIM-743

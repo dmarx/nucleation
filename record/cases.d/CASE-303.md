@@ -29,9 +29,9 @@ summary: >-
   Power Laws", A5, A7 and A8); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-829 CLAIM-832 CLAIM-845 CLAIM-815 — Proposed or new; the claims filed with this case from the same exchange -->
-<!-- inactive-ok-file: THEORY-tmphwf0q — Proposed; the reading of Reed and Hughes, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2177 — Proposed; the reading of Reed and Hughes, 2026-11-22 -->
 
-<!-- inactive-ok-file: THEORY-tmpye6xs — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2168 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
 
 # CASE-303: Cascade sizes of a Poisson branching process below and at criticality
 
@@ -100,7 +100,7 @@ variance"), so the 37% and the 3/2 are Poisson- and mean-field-specific.
 
 ## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg and Levina, read
 
-Background ([NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md), [THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md)). The paper's network is a
+Background ([NOTE-2259](../notes.d/NOTE-2259.md), [THEORY-2168](../theory.d/THEORY-2168.md)). The paper's network is a
 branching process of this case's kind driven by Poisson input, with the
 absorbing-to-active transition at λ = 1; it uses the subcritical regime
 for computation, finding the best discrimination of inputs there for
@@ -110,7 +110,7 @@ distributions this case computes.
 ## Note of 2026-11-22: Reed and Hughes, read
 
 A **contrast**, with no edge. Reed and Hughes ([LIT-3007](../literature.d/LIT-3007.md), read in
-[NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md); [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md)) get a power law from a *supercritical*
+[NOTE-2264](../notes.d/NOTE-2264.md); [THEORY-2177](../theory.d/THEORY-2177.md)) get a power law from a *supercritical*
 branching process killed at a geometric generation, exponent 1 + κ with
 κ = ln[1/(1 − p)]/ln μ, where this case's s^(−3/2) needs the process
 exactly critical. The case is unchanged.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdhkhm
 title: 'An intervention can change what it would take to correct it: by altering the distribution of control, access, resources or enforcement before it is reviewed, it can make a specified corrective outcome costlier or unreachable while the standards that govern that outcome stay the same'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-30'
@@ -50,6 +50,14 @@ history:
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §10 uses its proposition as a step. No other
     change.
+- version: 8
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.2, §13.3. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -69,6 +77,7 @@ date: '2026-10-27'
 line:
 - distributed-agency
 works:
+- governance-of-possibility
 - capability-restraint-relational-freedom
 grounds:
 - CASE-176
@@ -333,6 +342,6 @@ study that varies only an acting institution's speed is proposed as
 No status changes.
 
 ## Note of 2026-11-22: speed alone, in [CASE-285](../cases.d/CASE-285.md)'s model
-<!-- inactive-ok-file: CASE-tmp8riid CLAIM-tmpsaql8 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-316 CLAIM-879 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
 
-[LEAD-068](../leads.d/LEAD-068.md) named this claim as one that oversight losing effect with speed, authority and resources fixed, would support. [CASE-tmp8riid](../cases.d/CASE-tmp8riid.md)'s model shows it in stipulated form: with the overseer unchanged, the share of objectionable actions stopped before they became irreversible fell from 0.994 to 0.396 at ten times the speed, and objectionable actions open only to correction after the fact rose from 0.6 to 61 per thousand. The model is the timing route this claim's body takes from A9 (t_action < t_loss < t_effective remedy), made stochastic; it adds that the loss is graded and begins before the condition fails at the means. It is about the effect, as the claim is, and says nothing of intent. [CLAIM-tmpsaql8](CLAIM-tmpsaql8.md) states the result. No status changes.
+[LEAD-068](../leads.d/LEAD-068.md) named this claim as one that oversight losing effect with speed, authority and resources fixed, would support. [CASE-316](../cases.d/CASE-316.md)'s model shows it in stipulated form: with the overseer unchanged, the share of objectionable actions stopped before they became irreversible fell from 0.994 to 0.396 at ten times the speed, and objectionable actions open only to correction after the fact rose from 0.6 to 61 per thousand. The model is the timing route this claim's body takes from A9 (t_action < t_loss < t_effective remedy), made stochastic; it adds that the loss is graded and begins before the condition fails at the means. It is about the effect, as the claim is, and says nothing of intent. [CLAIM-879](CLAIM-879.md) states the result. No status changes.

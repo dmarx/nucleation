@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpdic1g
 status: Proposed
 title: 'In an incomplete contract the party holding residual rights of control decides the contingencies the contract did not cover, so a relationship fair in every specified term can still leave one party''s terms at the other''s discretion, and that discretion is exercised, and seen, only when an uncovered contingency arises'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -16,6 +16,13 @@ history:
     (2016), read in part as the neighbour of Hart and Moore (1990),
     corroborates the claim's first clause and qualifies its worker
     example.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.1. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -52,6 +59,8 @@ summary: >-
   over the terms, not the size of a dependence, sorts it; this names a
   form that control takes in a contract. The works are not held. The
   wording is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-744 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-690 TERM-124 CLAIM-364 CLAIM-670 — Proposed; the record's nearest entries, cited with their standing -->
@@ -140,3 +149,83 @@ Hart 2016, read in part ([NOTE-2052](../notes.d/NOTE-2052.md), [THEORY-1979](../
 ## Note of 2026-11-18: what holds it back
 
 Grossman and Hart ([THEORY-1985](../theory.d/THEORY-1985.md)) and Hart's lecture ([THEORY-1979](../theory.d/THEORY-1979.md)), read, say the holder bargains rather than decides and that residual control acts ex ante, through anticipation; that stands against the last clause, "exercised, and seen, only when an uncovered contingency arises", and is unanswered, since the ARG the note of 2026-11-17 asks for is not filed. It is also stated in [TERM-124](../terms.d/TERM-124.md), which is not adopted.
+
+## Note of 2026-11-22: the argument of 2026-11-17 is now filed ([LEAD-133](../leads.d/LEAD-133.md))
+<!-- inactive-ok-file: ARG-210 — Rejected; the argument this note files -->
+
+The ARG the note of 2026-11-17 asked for, and the note of 2026-11-18 said
+was unfiled, is now filed as [ARG-210](../arguments.d/ARG-210.md) ([LEAD-133](../leads.d/LEAD-133.md)). Hart and Moore
+(1990, [LIT-2742](../literature.d/LIT-2742.md)) could not be read: its lawful copies answered rate
+limits and a bot check again on 2026-11-22, so it stays Unfetched, and it
+enters the argument through its read neighbour, Hart's Nobel lecture
+([THEORY-1979](../theory.d/THEORY-1979.md)), beside Grossman and Hart ([THEORY-1985](../theory.d/THEORY-1985.md)), both read.
+
+[ARG-210](../arguments.d/ARG-210.md) is Rejected as an inference from those readings to this
+claim as stated: they establish the residual-control definition (clause
+1, corroboration not a footing), qualify clause 2 (ownership confers
+bargaining power over the assets the other needs, not discretion at will
+over a person), and tell against clause 3, "exercised, and seen, only when
+an uncovered contingency arises", locating the effect of residual control
+*ex ante*, through anticipation, before and apart from any uncovered
+contingency. No status changes here; whether clause 3 should be revised is
+the owner's call, between two readings:
+
+- **Alternative A (widen the timing).** Revise clause 3 to say that the
+  discretion's effect is felt *ex ante*, through the other party's
+  anticipation of who will decide the uncovered contingencies, and becomes
+  most visible, but not only operative, when such a contingency arises.
+  This takes the economic readings as describing the same mechanism the
+  claim names and corrects its timing; the claim then no longer separates
+  cleanly from an ordinary account of anticipated bargaining power, which
+  is the cost.
+- **Alternative B (keep the timing, narrow the scope).** Keep clause 3 as
+  a claim specifically about the *visible exercise* of residual authority
+  at the uncovered contingency, the moment the question "who decides what
+  happens next?" is answered in act, and treat the ex ante anticipatory
+  effect the readings describe as a distinct, complementary mechanism (a
+  separate claim or a note), not part of this one. This preserves what is
+  distinctive in the claim, that a fair-looking arrangement's allocation
+  of authority shows itself at the perturbation, at the cost of conceding
+  that the readings do not ground the claim's own mechanism, only a
+  neighbouring one.
+
+The wording is the assistant's (Claude, in this session); choosing between
+the alternatives, and adopting either, is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A16 §14
+
+A16 §14 cites this claim ("asks who holds residual authority when
+circumstances arise that the existing contract does not cover") and
+carries it from contracts between persons to contracts between processes:
+"If contracts govern relationships among processes, what governs the
+contracts themselves?" It orders the governing objects (execution;
+coordination and arbitration of commitments; revision of those
+arrangements; "Distribution of authority over contract formation and
+revision"), notes that "A system might competently resolve ordinary
+disputes while being unable to revise the mechanism through which disputes
+are resolved", which it ties to [CLAIM-719](CLAIM-719.md), and concludes: "**The
+allocation of authority over unforeseen contingencies is a characteristic
+of the organization's constitution, not merely of its current behavior.**"
+Bearing: an extension of the claim's residual control to interprocess
+contracts, and a reading of it as part of an organization's character
+([CLAIM-tmpersgx](CLAIM-tmpersgx.md)). The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+<!-- inactive-ok-file: CLAIM-719 CLAIM-tmpersgx — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A48 §§7–8
+
+<!-- inactive-ok-file: LIT-tmpdaunm CLAIM-tmpa61rf — Deferred or Proposed; registered or filed from A48 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+
+A48 cites this claim for "Residual authority under incomplete contracts",
+rightly, and applies it to the corporation's non-shareholders through Blair
+and Stout's team production theory ([LIT-tmpdaunm](../literature.d/LIT-tmpdaunm.md), registered unread).
+Employees, suppliers, customers and communities make relationship-specific
+investments ("Firm-specific human capital", "Relationship-specific
+infrastructure", "Compatibility with accumulated work", "Place-specific
+economic opportunities") that "help constitute corporate capacity" and
+"also create vulnerability to subsequent changes in the relationship". It
+keeps the limit: "**Constitutive contribution does not automatically
+confer unrestricted governing authority, just as financial ownership does
+not automatically exhaust the grounds of legitimate standing.**" Bearing:
+an application of the claim to corporate governance, used in
+[CLAIM-tmpa61rf](CLAIM-tmpa61rf.md). The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

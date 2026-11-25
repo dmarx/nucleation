@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp09pjt
 title: 'Where the capacities a collective needs to govern an arrangement are learned by exercise and lost with disuse, and the arrangement does the work through which they are exercised, the arrangement can erode the capacity to govern it, so that whether a collective can correct an arrangement is not independent of the arrangement'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-15'
@@ -31,6 +31,13 @@ history:
     owner's manuscript from the exchange "Topological protection
     explained": A43 §8.1 and §9 state its proposition. No other
     change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.2. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,6 +60,7 @@ line:
 - dependence-and-domination
 - transient-support
 works:
+- governance-of-possibility
 - cost-structure-of-possibility
 rests_on:
 - CLAIM-605
@@ -142,6 +150,6 @@ not for a collective's judgment.
   transformation"; that is left with A's broader programme.
 
 ## Note of 2026-11-22: whether the erosion breaches the duty of answerability
-<!-- inactive-ok-block: CLAIM-tmp7mors CLAIM-tmp8qqi4 CLAIM-624 — new or Proposed; filed or cited for LEAD-131 -->
+<!-- inactive-ok-block: CLAIM-876 CLAIM-877 CLAIM-624 — new or Proposed; filed or cited for LEAD-131 -->
 
-For [LEAD-131](../leads.d/LEAD-131.md). "Arrangement" here declares no sense; [TERM-074](../terms.d/TERM-074.md)'s default, sense 1, fits its use, and the "collective" is the party whose governing capacity erodes, not the arrangement. Whether the erosion breaches [CLAIM-624](CLAIM-624.md)'s duty waited on that duty's bearer. On [CLAIM-tmp7mors](CLAIM-tmp7mors.md), where the duty falls on the arrangement's controllers, the integration passes [ADR-075](../decisions.d/ADR-075.md)'s test once narrowed to the capacities a justified standard's violations need, and adds a deadline to the duty: after [CLAIM-605](CLAIM-605.md)'s point of no recovery the breach is complete before any violation is recorded. On [CLAIM-tmp8qqi4](CLAIM-tmp8qqi4.md), it holds only where an agent-institution governs the arrangement. The integration itself is not filed. No status change.
+For [LEAD-131](../leads.d/LEAD-131.md). "Arrangement" here declares no sense; [TERM-074](../terms.d/TERM-074.md)'s default, sense 1, fits its use, and the "collective" is the party whose governing capacity erodes, not the arrangement. Whether the erosion breaches [CLAIM-624](CLAIM-624.md)'s duty waited on that duty's bearer. On [CLAIM-876](CLAIM-876.md), where the duty falls on the arrangement's controllers, the integration passes [ADR-075](../decisions.d/ADR-075.md)'s test once narrowed to the capacities a justified standard's violations need, and adds a deadline to the duty: after [CLAIM-605](CLAIM-605.md)'s point of no recovery the breach is complete before any violation is recorded. On [CLAIM-877](CLAIM-877.md), it holds only where an agent-institution governs the arrangement. The integration itself is not filed. No status change.

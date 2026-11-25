@@ -139,7 +139,7 @@ simply comply.
 
 ## Note of 2026-11-22: Čater, Čater and Ivašković, read
 
-A **parallel**, no edge. [LIT-1138](../literature.d/LIT-1138.md) ([NOTE-tmpu5yr1](NOTE-tmpu5yr1.md)) asks how much of fans'
+A **parallel**, no edge. [LIT-1138](../literature.d/LIT-1138.md) ([NOTE-2305](NOTE-2305.md)) asks how much of fans'
 commitment survives a club decision they oppose, which is Hirschman's
 question of loyalty under deterioration, without citing it. It measures
 imagined commitment, word-of-mouth and attendance change and no voice, so

@@ -11,7 +11,7 @@ history:
   note: >-
     A dated note records what LEAD-182 filed on 2026-11-22 toward the test
     this claim waits on: no such test found, and a design with its power
-    analysis (CASE-tmpl2va4, CASE-tmpjp6vg). The claim is unchanged.
+    analysis (CASE-329, CASE-328). The claim is unchanged.
 role: supposed
 warrant: interpretive
 tags:
@@ -30,7 +30,7 @@ summary: >-
 bears_on:
 - QUESTION-001
 ---
-<!-- inactive-ok-file: CASE-tmpl2va4 CASE-tmpjp6vg THEORY-tmpdcw35 CLAIM-tmpu482h — new; filed by LEAD-182 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-329 CASE-328 THEORY-2226 CLAIM-895 — new; filed by LEAD-182 on 2026-11-22 -->
 <!-- ref::uses-file: TERM-031 — stated in "frame, as a measurement context"; the body applies the term without naming it -->
 <!-- inactive-ok-file: THEORY-013 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
@@ -93,12 +93,12 @@ human pragmatic judgements that robustly finds or excludes contextuality.
 
 [LEAD-182](../leads.d/LEAD-182.md)'s search found no CbD analysis of human pragmatic judgements
 since the note of 2026-10-30. The nearest, Lo, Sadrzadeh and Mansfield's
-Winograd study, is now read ([THEORY-tmpdcw35](../theory.d/THEORY-tmpdcw35.md)): a violation of about one
+Winograd study, is now read ([THEORY-2226](../theory.d/THEORY-2226.md)): a violation of about one
 standard deviation, with signalling made impossible by the response
-format. The test this claim waits on is drafted as [CASE-tmpl2va4](../cases.d/CASE-tmpl2va4.md), with
-its power computed in [CASE-tmpjp6vg](../cases.d/CASE-tmpjp6vg.md). One point bears on what the test
+format. The test this claim waits on is drafted as [CASE-329](../cases.d/CASE-329.md), with
+its power computed in [CASE-328](../cases.d/CASE-328.md). One point bears on what the test
 could show: a between-subjects test measures the population's judgement
 system, and a population can be contextual through pooling when no
-respondent is ([CLAIM-tmpu482h](CLAIM-tmpu482h.md)). A positive result would support the
+respondent is ([CLAIM-895](CLAIM-895.md)). A positive result would support the
 claim about "context-relative distributions", not about any one
 interpreter.

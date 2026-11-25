@@ -2,7 +2,7 @@
 number: 397
 status: Open
 formerly:
-- QUESTION-397
+- QUESTION-tmp4jbc3
 title: 'Under what conditions does a partial organization increase the probability of subsequent organization by changing the transition dynamics, rather than merely providing a more advanced initial state?'
 version: 1
 tags:
@@ -132,9 +132,9 @@ helps only as a better initialization. Analogies to this question's
 assembly setting.
 
 ## Note of 2026-11-22: the two effects switched on separately in a model
-<!-- inactive-ok-file: CASE-tmplsvee — new; the executed study of LEAD-095, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-308 — new; the executed study of LEAD-095, filed 2026-11-22 -->
 
-[LEAD-095](../leads.d/LEAD-095.md)'s chain ([CASE-tmplsvee](../cases.d/CASE-tmplsvee.md)) has the nucleus's state effect (the target needs it) and its rate effect (it triples the binding of the other units) as separate switches.
+[LEAD-095](../leads.d/LEAD-095.md)'s chain ([CASE-308](../cases.d/CASE-308.md)) has the nucleus's state effect (the target needs it) and its rate effect (it triples the binding of the other units) as separate switches.
 
 - **Both raise the committor at matched progress.** Near completion they are close, 0.184 for the state effect alone against 0.196 for both, while Δk is 0 against 2.
 - **The interaction contrast is near zero.**

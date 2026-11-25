@@ -33,8 +33,8 @@ summary: >-
 <!-- inactive-ok-file: SYNTHESIS-084 THEORY-1558 — Proposed, cited as the open state of the RG–information correspondence and of rate-demarcated levels -->
 <!-- inactive-ok-file: THEORY-2151 THEORY-2155 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-<!-- inactive-ok-file: THEORY-tmpx26x7 CLAIM-820 TERM-140 TERM-135 — Proposed or new; the 2023 review's reading and the entries that hold the relativity it states -->
-<!-- inactive-ok-file: THEORY-tmpttfgp THEORY-tmpl7rgc CLAIM-tmp3ima1 — Proposed or new; the readings of Shalizi and Moore and of Crutchfield and Feldman, 2026-11-22, and the claim and term filed from them -->
+<!-- inactive-ok-file: THEORY-2167 CLAIM-820 TERM-140 TERM-135 — Proposed or new; the 2023 review's reading and the entries that hold the relativity it states -->
+<!-- inactive-ok-file: THEORY-2205 THEORY-2200 CLAIM-861 — Proposed or new; the readings of Shalizi and Moore and of Crutchfield and Feldman, 2026-11-22, and the claim and term filed from them -->
 
 # QUESTION-517: Do the effective dimensions of one system, the number of its stiff Fisher directions at a given resolution, the dimension of its predictive states, the number of its relevant renormalization-group directions and its fractal dimension, agree, and when do they come apart?
 
@@ -111,7 +111,7 @@ Relations are written from [THEORY-2151](../theory.d/THEORY-2151.md) and [THEORY
 
 ## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
 
-Read in [NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md) ([THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md), which `bears_on` this question).
+Read in [NOTE-2256](../notes.d/NOTE-2256.md) ([THEORY-2167](../theory.d/THEORY-2167.md), which `bears_on` this question).
 It leaves the question open and sharpens what an answer must state.
 
 - **The question asked of the system fixes the count.** §8.2: "sloppiness
@@ -149,7 +149,7 @@ assistant's (Claude, in this session).
 
 ## Note of 2026-11-22: Shalizi and Moore, read
 
-Read in [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md) ([THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md), which `bears_on` this question).
+Read in [NOTE-2294](../notes.d/NOTE-2294.md) ([THEORY-2205](../theory.d/THEORY-2205.md), which `bears_on` this question).
 It **leaves the question open and supplies one datum on the
 predictive-state side**. The paper reports entropies, not a dimension,
 and they move with the observation and the time step: argon's
@@ -163,10 +163,10 @@ renormalization-group counts is made.
 **Whether the relativity of these dimensions needs an entry of its own:
 two alternatives, filed both; the owner chooses.**
 
-- **(a) The lean: yes, as a claim.** [CLAIM-tmp3ima1](../claims.d/CLAIM-tmp3ima1.md) (Proposed, the
+- **(a) The lean: yes, as a claim.** [CLAIM-861](../claims.d/CLAIM-861.md) (Proposed, the
   assistant's): coarse-graining, sloppiness and emergence are each defined
   relative to a chosen set of observables and a demanded precision, and
-  the dynamics fix the rest, on Quinn and colleagues ([THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md): the
+  the dynamics fix the rest, on Quinn and colleagues ([THEORY-2167](../theory.d/THEORY-2167.md): the
   Ising sentence of §8.2 and ΛCDM) and Shalizi and Moore ("Nature has no
   preferred questions"). It widens what the record held for sloppiness to
   the macrostates and the emergence relation the question's
@@ -187,7 +187,7 @@ assistant's (Claude, in this session).
 
 ## Note of 2026-11-22: Crutchfield and Feldman, read
 
-Read in [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md) ([THEORY-tmpl7rgc](../theory.d/THEORY-tmpl7rgc.md)). **Background, with a caution for
+Read in [NOTE-2286](../notes.d/NOTE-2286.md) ([THEORY-2200](../theory.d/THEORY-2200.md)). **Background, with a caution for
 the predictive-state dimension.** The excess entropy and its finite-L
 estimates are defined there; "unlike in one dimension where the various
 expressions for the excess entropy are equivalent, they yield different

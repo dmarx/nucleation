@@ -162,18 +162,18 @@ Rechecked after [CLAIM-551](CLAIM-551.md) went Active (2026-11-06) and after the
 
 ## Note of 2026-11-22: what holds it back
 
-<!-- inactive-ok-block: CASE-tmp66fkd CLAIM-tmpc4gyx CLAIM-336 — new or Proposed; LEAD-029's study and its finding, and the unification it tests -->
-Rechecked after [LEAD-029](../leads.d/LEAD-029.md)'s run ([CASE-tmp66fkd](../cases.d/CASE-tmp66fkd.md), [CLAIM-tmpc4gyx](CLAIM-tmpc4gyx.md)). In a simulated organization whose operators' authority is scored against the interpretation they help make dominant, a model with that loop predicted the effects of held-out compositions of governance interventions and frame changes better than models of matched flexibility whose authority is set only from outside, the nearest the construction has to a central executive; with no loop it gained nothing and its BIC was the worse. That bears on [CLAIM-336](CLAIM-336.md)'s joint test, not on this claim's: the construction has operators, frames and interventions but no habit, akrasia, rumination, rigidity or insight, and no model built for any of them. The defeated_if and [QUESTION-088](../questions.d/QUESTION-088.md)'s test are still unanswered. No status change.
+<!-- inactive-ok-block: CASE-324 CLAIM-888 CLAIM-336 — new or Proposed; LEAD-029's study and its finding, and the unification it tests -->
+Rechecked after [LEAD-029](../leads.d/LEAD-029.md)'s run ([CASE-324](../cases.d/CASE-324.md), [CLAIM-888](CLAIM-888.md)). In a simulated organization whose operators' authority is scored against the interpretation they help make dominant, a model with that loop predicted the effects of held-out compositions of governance interventions and frame changes better than models of matched flexibility whose authority is set only from outside, the nearest the construction has to a central executive; with no loop it gained nothing and its BIC was the worse. That bears on [CLAIM-336](CLAIM-336.md)'s joint test, not on this claim's: the construction has operators, frames and interventions but no habit, akrasia, rumination, rigidity or insight, and no model built for any of them. The defeated_if and [QUESTION-088](../questions.d/QUESTION-088.md)'s test are still unanswered. No status change.
 
 ## Note of 2026-11-22: a run in which governance adds nothing over a router
 
-<!-- inactive-ok-file: CASE-tmpkghqb CLAIM-tmpdmn0v — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-338 CLAIM-906 — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
 
 <!-- inactive-ok-file: ARG-036 — Proposed; cited as the argument whose failed question the run bears on -->
 
 [LEAD-077](../leads.d/LEAD-077.md) ran [CASE-158](../cases.d/CASE-158.md)'s design, the test [ARG-036](../arguments.d/ARG-036.md) names for telling
-this claim's model apart from routing ([CASE-tmpkghqb](../cases.d/CASE-tmpkghqb.md)). In each arm built for a
+this claim's model apart from routing ([CASE-338](../cases.d/CASE-338.md)). In each arm built for a
 failure of evaluation, the best router given the same audits, delay and
-cost matched or beat the best audited governance ([CLAIM-tmpdmn0v](../claims.d/CLAIM-tmpdmn0v.md)). For that model
+cost matched or beat the best audited governance ([CLAIM-906](../claims.d/CLAIM-906.md)). For that model
 class the run answers [ARG-036](../arguments.d/ARG-036.md)'s failed question against this claim,
 not for it. The claim is unchanged.

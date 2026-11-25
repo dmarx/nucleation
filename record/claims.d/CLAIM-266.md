@@ -64,8 +64,9 @@ bears_on:
 - QUESTION-258
 ---
 <!-- inactive-ok-file: NOTE-1825 — Skimmed; named in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-1127 — new; the objection filed for LEAD-194, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-1776 — Proposed; the reading whose further passages this note cites -->
-<!-- inactive-ok-file: CASE-tmpssuha — new; the curation-completeness pilot and the claim filed from it, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-318 — new; the curation-completeness pilot and the claim filed from it, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as an application, as filed -->
 <!-- inactive-ok-file: ARG-028 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-1730 THEORY-1733 THEORY-1738 THEORY-1743 THEORY-1754 THEORY-1757 THEORY-1759 THEORY-1760 THEORY-1769 THEORY-1770 THEORY-1772 THEORY-1782 THEORY-1784 THEORY-1785 THEORY-1794 THEORY-1799 THEORY-1801 THEORY-1803 THEORY-1804 THEORY-1811 THEORY-1812 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
@@ -156,7 +157,7 @@ The claim is unchanged.
 
 ## Note of 2026-11-22: the curation-completeness pilot meets this claim's limit
 
-[CASE-tmpssuha](../cases.d/CASE-tmpssuha.md) scored replayed accountings against the record's own filings
+[CASE-318](../cases.d/CASE-318.md) scored replayed accountings against the record's own filings
 and their later corrections, which is scoring the record by its own
 probes. The replays found items that neither the filings nor any later
 pass held, checked against the sources: Wang et al.'s explanation of the
@@ -180,3 +181,60 @@ checks (p. 59), and, when an LLM was part of the evaluator, the LLM itself
 ("optimized how quickly they could trick the cheap LLM", p. 70; prompt
 injection, p. 71). Each time the remedy was a redesign of the evaluator from
 outside, by the authors. The status is unchanged.
+
+## Note of 2026-11-22: in tension with [CLAIM-517](CLAIM-517.md)'s coverage step ([LEAD-194](../leads.d/LEAD-194.md))
+
+The curation entry of 2026-11-11 (061331) found this claim and
+[CLAIM-517](CLAIM-517.md) in tension, and [LEAD-194](../leads.d/LEAD-194.md) asks which narrows. Precisely:
+this claim's title says, without qualification, that a probe family
+supplying the training signal "cannot also certify what the system
+preserves" and that preservation "must be shown under probes not used to
+train it". [CLAIM-517](CLAIM-517.md)'s coverage step trains a successor to forward KL ε
+under μ and certifies from that same family that a viable set stays
+positively invariant, once every boundary context has mass at least
+μ_min and ε < 2μ_min(γ/L)². Its second half, that fidelity in ordinary
+operation certifies nothing, is this claim's limit in coverage form; the
+two disagree only where the boundary contexts are covered.
+
+Two resolutions are filed as alternatives. The owner chooses; nothing
+here is applied.
+
+- **Alternative A, this claim narrows (the assistant's lean).**
+  [CLAIM-1127](CLAIM-1127.md) objects to this claim: training probes do certify a
+  property that a stated inequality bounds by their value over the
+  contexts they cover, the value estimated on draws the system was not
+  fitted to. Under the bound the property depends on nothing the probes
+  cannot see, so the mechanism this claim names has nothing to act on.
+  What this claim keeps is the estimate (the training-sample loss is
+  biased low, so a held-out sample is needed) and that the bound's terms
+  are shown by other means. Every case it cites ([CASE-041](../cases.d/CASE-041.md), [CASE-071](../cases.d/CASE-071.md))
+  has no such bound, so its support is unchanged.
+
+  *Proposed Reframing, not applied.* Before: "A family of probes that
+  supplies an optimized system's training signal cannot also certify
+  what the system preserves: optimization pushes toward whatever the
+  probes reward, including what they cannot see, so preservation must be
+  shown under probes not used to train it". After: "A family of probes
+  that supplies an optimized system's training signal cannot by itself
+  certify what the system preserves: optimization pushes toward whatever
+  the probes reward, including what they cannot see, so unless a stated
+  inequality bounds the preserved property by the probes' value over the
+  contexts they cover, preservation must be shown under probes not used
+  to train it". The argument, the grounds and `defeated_if` are
+  unchanged; "What it does not say" would gain a bullet naming
+  [CLAIM-517](CLAIM-517.md) as the bounded case. Adopting it would be version 4, with
+  history.
+
+- **Alternative B, neither narrows.** Read "certify" as the probe value
+  alone certifying. In [CLAIM-517](CLAIM-517.md) it does not: the certificate is the
+  value together with an inequality whose constants (γ, L, μ_min) come
+  from a model of the dynamics and the sampling. The premise "including
+  what they cannot see" already scopes the claim to cases where there is
+  something relevant they cannot see. On this reading a note suffices,
+  and [CLAIM-1127](CLAIM-1127.md) would go Rejected as answered. Its weakness, and the
+  reason for the lean to A: the title's second clause, "must be shown
+  under probes not used to train it", is contradicted outright, since
+  [CLAIM-517](CLAIM-517.md) shows preservation under the training family on fresh draws.
+
+Under either, [CLAIM-517](CLAIM-517.md) takes a clarification of its ε (its note of
+2026-11-22). No status is changed.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpupm3q
 title: 'Records kept of each capacity a response needs bound a reserve''s readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities'' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities'' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not'
-version: 4
+version: 5
 history:
 - version: 1
   date: '2026-11-08'
@@ -56,6 +56,13 @@ history:
     is pathwise and not where only the marginals fall (note of
     2026-11-20); the title speaks of records and is unaffected.
     Demonstrated. The title is unchanged.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §6.1, §9.6. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -107,6 +114,8 @@ summary: >-
   what is now [CLAIM-600](CLAIM-600.md); both returned to CLAIM on 2026-11-08 (ADR-084).
   The integration's wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-237 — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 <!-- inactive-ok-file: CASE-210 CLAIM-584 TERM-107 — Proposed; components cited with their standing -->

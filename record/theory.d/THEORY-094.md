@@ -52,7 +52,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-100 — Proposed; the accounts this methodological point bears on, named in prose, no relation claimed -->
 <!-- inactive-ok-file: THEORY-098 THEORY-103 — Proposed; filed in the same batch and named in Connections -->
-<!-- inactive-ok-file: THEORY-tmpvkp5f THEORY-tmpbu9we — Proposed; the readings of LEAD-112 cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2227 THEORY-2228 — Proposed; the readings of LEAD-112 cited in the note of 2026-11-22 -->
 
 # THEORY-094: Neither report nor no-report paradigms isolate the neural basis of consciousness, because post-perceptual cognition that tracks the percept persists without report; only a design that removes differential post-perceptual cognition does
 
@@ -179,15 +179,15 @@ reports it.
 
 [LEAD-112](../leads.d/LEAD-112.md) read the two works this account's promote_when names first.
 
-- **Brascamp, Blake and Knapen 2015** ([LIT-tmp5rny4](../literature.d/LIT-tmp5rny4.md), [NOTE-tmprcujk](../notes.d/NOTE-tmprcujk.md),
-  [THEORY-tmpvkp5f](THEORY-tmpvkp5f.md)) supports the account's diagnosis for switch-related
+- **Brascamp, Blake and Knapen 2015** ([LIT-3089](../literature.d/LIT-3089.md), [NOTE-2317](../notes.d/NOTE-2317.md),
+  [THEORY-2227](THEORY-2227.md)) supports the account's diagnosis for switch-related
   signals: with switches detected at chance, fronto-parietal switch BOLD
   matched a response proportional to reportability, "suggesting that no
   part of these assemblies' BOLD response reflects a neural cause of
   perceptual switches". It does not meet the promote_when, which asks for
   "percept-specific prefrontal content" recorded with
   "electrocorticography or microelectrode arrays".
-- **Kapoor et al. 2022** ([LIT-tmpnsyqi](../literature.d/LIT-tmpnsyqi.md), [NOTE-tmplluya](../notes.d/NOTE-tmplluya.md), [THEORY-tmpbu9we](THEORY-tmpbu9we.md)),
+- **Kapoor et al. 2022** ([LIT-3094](../literature.d/LIT-3094.md), [NOTE-2318](../notes.d/NOTE-2318.md), [THEORY-2228](THEORY-2228.md)),
   Panagiotaropoulos's group, recorded that content with microelectrode
   arrays in rivalry without report, but with switches "unreported but
   clearly occurring". So it is the kind of no-report design this account

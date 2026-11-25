@@ -23,10 +23,10 @@ summary: >-
   bulk, and overlap with the input's principal directions and ablation
   importance disagree for several matrix types.
 ---
-<!-- inactive-ok-file: THEORY-tmpcij35 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2170 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: LIT-369 THEORY-078 — Proposed; a neighbour in the random-matrix reading of trained weights, and the bulk-edge convention this account qualifies, named and not leaned on -->
-<!-- inactive-ok-file: LIT-tmpcvxug — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
-<!-- inactive-ok-file: THEORY-tmp9ltxi — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: LIT-3012 — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
+<!-- inactive-ok-file: THEORY-2186 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # THEORY-420: In trained transformers, zeroing a decile of a weight matrix's singular values does damage that falls monotonically with their size in square matrices, whose random-matrix null reaches zero, but not in rectangular ones, whose null has a positive lower edge: there the smallest decile is never the least damaging and can be among the most
 
@@ -108,7 +108,7 @@ treats it. In rectangular matrices it was not.
 
 ## Note of 2026-11-21: Xu, and Acharya, Rimal & Dhakal, read
 
-A parallel and a contrast ([NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md), [NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md)). Xu cites this
+A parallel and a contrast ([NOTE-2249](../notes.d/NOTE-2249.md), [NOTE-2251](../notes.d/NOTE-2251.md)). Xu cites this
 account's source for the same divergence of magnitude and consequence
 "inside the network", and both measure damage under removal without
 refitting against a ranking by magnitude. But Xu replaces a component of
@@ -116,12 +116,12 @@ the final hidden state along the unembedding's least-amplified
 directions, not weight singular values inside blocks, and its bottom
 singular values "decline smoothly" with no gap below a bulk, so its effect
 does not rest on an outlier mechanism. Acharya, Rimal and Dhakal also cite
-this account's source, and LASER ([LIT-tmpcvxug](../literature.d/LIT-tmpcvxug.md)), which removes small
+this account's source, and LASER ([LIT-3012](../literature.d/LIT-3012.md)), which removes small
 singular components to improve a model. No relation written.
 
 ## Note of 2026-11-22: Dandi and colleagues, read
 
-Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](THEORY-tmpcij35.md)): **a
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-2258](../notes.d/NOTE-2258.md), [THEORY-2170](THEORY-2170.md)): **a
 contrast.** Against a random-matrix null, one large step reshapes the
 feature covariance's bulk ("a wider support and longer tails") and adds
 outliers from the feature means; the paper says nothing about the bottom
@@ -129,7 +129,7 @@ of the spectrum. No relation.
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](THEORY-tmp9ltxi.md)): **background.** Their Theorems 2 and 9 are "no outliers" results for
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-2274](../notes.d/NOTE-2274.md), [THEORY-2186](THEORY-2186.md)): **background.** Their Theorems 2 and 9 are "no outliers" results for
 random-weight conjugate kernels whose input has no spikes, a random-matrix
 null for feature spectra beside this one for weight spectra. Proposition 35
 is the weights' version after a few gradient steps: one outlier, only
