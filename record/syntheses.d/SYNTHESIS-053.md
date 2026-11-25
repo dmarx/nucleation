@@ -3,7 +3,16 @@ number: 53
 status: Proposed
 formerly:
 - SYNTHESIS-tmpqnl6z
-title: 'When formerly autonomous partners come to depend on one another, which properties each route to dependence brings about, and which make the partnership a new individual, is open: the documented symbioses show dependence, reproductive cohesion, the distribution of functions across genomes and host control coming apart, dependence directional, and integration undone as well as deepened, and the record holds that gene ancestries and stem lengths alone cannot tell a partner from a donor or time its acquisition'
+title: 'When dependent partners become one is open'
+statement: >-
+  When formerly autonomous partners come to depend on one another, which
+  properties each route to dependence brings about, and which make the
+  partnership a new individual, is open: the documented symbioses show
+  dependence, reproductive cohesion, the distribution of functions across
+  genomes and host control coming apart, dependence directional, and
+  integration undone as well as deepened, and the record holds that gene
+  ancestries and stem lengths alone cannot tell a partner from a donor or
+  time its acquisition
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -33,7 +42,7 @@ integrates:
 ---
 <!-- inactive-ok-file: CASE-167 CASE-168 CASE-171 CASE-173 CASE-174 CASE-177 CLAIM-603 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-053: When formerly autonomous partners come to depend on one another, which properties each route to dependence brings about, and which make the partnership a new individual, is open: the documented symbioses show dependence, reproductive cohesion, the distribution of functions across genomes and host control coming apart, dependence directional, and integration undone as well as deepened, and the record holds that gene ancestries and stem lengths alone cannot tell a partner from a donor or time its acquisition
+# SYNTHESIS-053: When dependent partners become one is open
 
 *A part account of the distributed-agency line ("Distributed agency"): the
 part filed from the exchange of 2026-10-27 on reductive evolution and

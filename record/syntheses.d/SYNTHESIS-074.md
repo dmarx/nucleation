@@ -3,7 +3,19 @@ number: 74
 status: Proposed
 formerly:
 - SYNTHESIS-tmp68daz
-title: 'Whether demands or local descriptions can be met or agree together is decided only against a declared structure of comparison, and where it fails the failure is certified by a dual witness, a cycle or a set of multipliers, that re-centring and a change of chart leave in place, while a budgeted magnitude keeps its value only with the metric carried along; whether a compatible state can be selected depends on what the agent can read; quiet is not met, so raising a threshold relieves nothing and a third complex decides when frustration forces an unmet demand that is acted on; an input below a fold''s threshold, or conditions restored after a capacity was lost, can leave the visible regime as it was; and agreement among routes or descriptions is coherence, not fidelity'
+title: 'Joint satisfiability needs a declared comparison'
+statement: >-
+  Whether demands or local descriptions can be met or agree together is
+  decided only against a declared structure of comparison, and where it
+  fails the failure is certified by a dual witness, a cycle or a set of
+  multipliers, that re-centring and a change of chart leave in place, while
+  a budgeted magnitude keeps its value only with the metric carried along;
+  whether a compatible state can be selected depends on what the agent can
+  read; quiet is not met, so raising a threshold relieves nothing and a
+  third complex decides when frustration forces an unmet demand that is
+  acted on; an input below a fold's threshold, or conditions restored after
+  a capacity was lost, can leave the visible regime as it was; and agreement
+  among routes or descriptions is coherence, not fidelity
 version: 2
 history:
 - version: 2
@@ -59,7 +71,7 @@ integrates:
 <!-- inactive-ok-file: QUESTION-286 — Answered; cited with its standing -->
 <!-- inactive-ok-file: SYNTHESIS-075 SYNTHESIS-076 SYNTHESIS-079 SYNTHESIS-082 — Proposed; cited with its standing -->
 
-# SYNTHESIS-074: Whether demands or local descriptions can be met or agree together is decided only against a declared structure of comparison, and where it fails the failure is certified by a dual witness, a cycle or a set of multipliers, that re-centring and a change of chart leave in place, while a budgeted magnitude keeps its value only with the metric carried along; whether a compatible state can be selected depends on what the agent can read; quiet is not met, so raising a threshold relieves nothing and a third complex decides when frustration forces an unmet demand that is acted on; an input below a fold's threshold, or conditions restored after a capacity was lost, can leave the visible regime as it was; and agreement among routes or descriptions is coherence, not fidelity
+# SYNTHESIS-074: Joint satisfiability needs a declared comparison
 
 *A part account of the formal-apparatus line ("Formal apparatus": results
 that hold whatever any substantive line concludes, held as a second line by

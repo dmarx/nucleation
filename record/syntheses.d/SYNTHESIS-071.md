@@ -3,7 +3,15 @@ number: 71
 status: Proposed
 formerly:
 - SYNTHESIS-tmp002mq
-title: 'Under Markov kernels a symmetry principle can be borrowed but a conservation law has to be derived: an exactly harmonic observable conserves only its mean, only constants are harmonic on a finite irreducible chain, retaining information about the start and staying near the starting law are different properties, and exact conservation of a non-constant observable keeps information about the start at every generation while a bounded defect does not'
+title: 'Under kernels, conservation must be derived'
+statement: >-
+  Under Markov kernels a symmetry principle can be borrowed but a
+  conservation law has to be derived: an exactly harmonic observable
+  conserves only its mean, only constants are harmonic on a finite
+  irreducible chain, retaining information about the start and staying near
+  the starting law are different properties, and exact conservation of a
+  non-constant observable keeps information about the start at every
+  generation while a bounded defect does not
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -31,7 +39,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-015 — Superseded; cited as the entry of its time -->
 <!-- inactive-ok-file: SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-071: Under Markov kernels a symmetry principle can be borrowed but a conservation law has to be derived: an exactly harmonic observable conserves only its mean, only constants are harmonic on a finite irreducible chain, retaining information about the start and staying near the starting law are different properties, and exact conservation of a non-constant observable keeps information about the start at every generation while a bounded defect does not
+# SYNTHESIS-071: Under kernels, conservation must be derived
 
 *A part account of the formal-apparatus line: one of the line's eleven
 small clusters, six entries on what a Markov chain of reconstruction

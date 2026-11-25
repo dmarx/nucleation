@@ -3,7 +3,17 @@ number: 51
 status: Proposed
 formerly:
 - SYNTHESIS-tmplr2wo
-title: 'Frustration among an organization''s demands is an ordinal fact about which sets of them can be jointly met, and relief is the enlargement of that complex for the same demands, judged against a fixed reference set; the residual, governance regret and budgets refine it without identifying thwarting, quiet, thresholds and tolerances are kept apart from it, niche differentiation matters as possible relief that the open questions ask whether operators can reach by themselves, and smaller families on cycle obstructions, coexistence without cooperation, affect and roles hang from it'
+title: 'Frustration is ordinal; relief enlarges it'
+statement: >-
+  Frustration among an organization's demands is an ordinal fact about which
+  sets of them can be jointly met, and relief is the enlargement of that
+  complex for the same demands, judged against a fixed reference set; the
+  residual, governance regret and budgets refine it without identifying
+  thwarting, quiet, thresholds and tolerances are kept apart from it, niche
+  differentiation matters as possible relief that the open questions ask
+  whether operators can reach by themselves, and smaller families on cycle
+  obstructions, coexistence without cooperation, affect and roles hang from
+  it
 version: 2
 history:
 - version: 2
@@ -111,7 +121,7 @@ summary: >-
 <!-- inactive-ok-file: SYNTHESIS-008 — Superseded by CLAIM-631 (ADR-084); named as CLAIM-631's former code -->
 <!-- inactive-ok-file: QUESTION-295 — Answered; the split-off first part of QUESTION-083 -->
 
-# SYNTHESIS-051: Frustration among an organization's demands is an ordinal fact about which sets of them can be jointly met, and relief is the enlargement of that complex for the same demands, judged against a fixed reference set; the residual, governance regret and budgets refine it without identifying thwarting, quiet, thresholds and tolerances are kept apart from it, niche differentiation matters as possible relief that the open questions ask whether operators can reach by themselves, and smaller families on cycle obstructions, coexistence without cooperation, affect and roles hang from it
+# SYNTHESIS-051: Frustration is ordinal; relief enlarges it
 
 *A part account of the distributed-agency line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)): the part the community map of the line calls frustration, 52 entries. The line's account is built over it and the accounts of its six sibling parts (conferral, normative-institutional, unit-boundary, individuation, persistence, collective-stance). Most of its core came from the exchange of 2026-10-17 (U33 to U38), the reviews the owner relayed on 2026-10-18 and the synthesis relayed the same day; the rest from "Organizational Nucleation and SLT" (2026-11-04), "Individuation, Possibility, and Disposition" (2026-11-06 to 07) and readings. Twenty-five of its entries carry another line, and eleven have another line first. Several are integrated by other lines' accounts as well, listed in the section on where else they are integrated; this account integrates every member again.*
 

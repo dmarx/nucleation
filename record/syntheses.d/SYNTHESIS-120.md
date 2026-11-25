@@ -3,7 +3,19 @@ number: 120
 status: Proposed
 formerly:
 - SYNTHESIS-tmpsejrp
-title: "In the record, how a high-dimensional representation comes to draw a new distinction is held in parts: concentration of measure sets a null that learning has to beat; geometric separation, decodability and spectral detectability are distinct, and cone occupancy, the BBP threshold and an alignment bifurcation are three thresholds on one scale; coupled embeddings under gradient flow relax rather than act; a factored feature switches on at a threshold quiet but consequential, a parent can gate it, and sample PCA sees it only after a window; entailment and refinement are partial orders; sloppiness and singular strata meet in two places and part in one; and whether stages of learning are transitions among singular strata ordered as the semantic refinements stays open"
+title: 'Drawing new distinctions: parts held, stages open'
+statement: >-
+  In the record, how a high-dimensional representation comes to draw a new
+  distinction is held in parts: concentration of measure sets a null that
+  learning has to beat; geometric separation, decodability and spectral
+  detectability are distinct, and cone occupancy, the BBP threshold and an
+  alignment bifurcation are three thresholds on one scale; coupled
+  embeddings under gradient flow relax rather than act; a factored feature
+  switches on at a threshold quiet but consequential, a parent can gate it,
+  and sample PCA sees it only after a window; entailment and refinement are
+  partial orders; sloppiness and singular strata meet in two places and part
+  in one; and whether stages of learning are transitions among singular
+  strata ordered as the semantic refinements stays open
 version: 2
 history:
 - version: 2
@@ -97,7 +109,7 @@ bears_on:
 <!-- inactive-ok-file: SYNTHESIS-034 SYNTHESIS-030 SYNTHESIS-029 — Proposed or new; accounts this one sits beside -->
 <!-- inactive-ok-file: THEORY-2189 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# SYNTHESIS-120: In the record, how a high-dimensional representation comes to draw a new distinction is held in parts: concentration of measure sets a null that learning has to beat; geometric separation, decodability and spectral detectability are distinct, and cone occupancy, the BBP threshold and an alignment bifurcation are three thresholds on one scale; coupled embeddings under gradient flow relax rather than act; a factored feature switches on at a threshold quiet but consequential, a parent can gate it, and sample PCA sees it only after a window; entailment and refinement are partial orders; sloppiness and singular strata meet in two places and part in one; and whether stages of learning are transitions among singular strata ordered as the semantic refinements stays open
+# SYNTHESIS-120: Drawing new distinctions: parts held, stages open
 
 *A part account of the learned-structure line, filed from the synthesis audit of the exchange "Rich Get Richer Power Laws" (2026-11-21; [ADR-075](../decisions.d/ADR-075.md) step 5, [ADR-131](../decisions.d/ADR-131.md)). It maps A's syntheses at A29 §12, A30 §10, A32 §8 and its close, A33 §9–10, A35 §9 and its close, A37 §6 and §11, A39 §8–9 and its close, A41 §8, A42's close and A43 §17 onto the entries filed from that exchange. The thesis those syntheses build was built from the owner's turns: U18 (active matter), U19 (concentration of measure), U21 (entailment cones), U23 (singularity theory), U24 (Watanabe's stratification and the hyperribbon) and U25 (informative small-eigenvalue subspaces). Each component below says whose it is.*
 

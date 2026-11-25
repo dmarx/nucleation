@@ -3,7 +3,15 @@ number: 105
 status: Proposed
 formerly:
 - SYNTHESIS-tmpfhzxg
-title: 'What learning is and what it does to what can still be learned: learning as an experience-dependent change in a costed repertoire; three frontiers, operational, developmental and inquiry, that move separately; overconsolidation, the owner''s generalization of overfitting, better now but more costly to teach new tasks, with a supposed deadline for its relief and a proposed Pythia study; and the owner''s open questions on optimal learning and on what it is for a learning system to know'
+title: 'Learning changes what can still be learned'
+statement: >-
+  What learning is and what it does to what can still be learned: learning
+  as an experience-dependent change in a costed repertoire; three frontiers,
+  operational, developmental and inquiry, that move separately;
+  overconsolidation, the owner's generalization of overfitting, better now
+  but more costly to teach new tasks, with a supposed deadline for its
+  relief and a proposed Pythia study; and the owner's open questions on
+  optimal learning and on what it is for a learning system to know
 version: 3
 history:
 - version: 2
@@ -63,7 +71,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-294 CLAIM-695 CLAIM-697 CLAIM-754 CLAIM-757 CLAIM-758 SYNTHESIS-096 TERM-079 TERM-131 — Proposed; cited in this filing of 2026-11-19 -->
 
-# SYNTHESIS-105: What learning is and what it does to what can still be learned: learning as an experience-dependent change in a costed repertoire; three frontiers, operational, developmental and inquiry, that move separately; overconsolidation, the owner's generalization of overfitting, better now but more costly to teach new tasks, with a supposed deadline for its relief and a proposed Pythia study; and the owner's open questions on optimal learning and on what it is for a learning system to know
+# SYNTHESIS-105: Learning changes what can still be learned
 
 ## The account
 

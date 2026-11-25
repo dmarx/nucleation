@@ -3,7 +3,16 @@ number: 46
 status: Proposed
 formerly:
 - SYNTHESIS-tmprngy2
-title: 'An organized individual that persists through changes of mode persists, on the record''s proposed account, as the particular organization that keeps its repertoire realizable, inside it or outside it, and its identity over time as the causal transmission of that organization; locally realizable histories need not glue, and a coherent history can be terminal; and synchronization phenomena are offered as a laboratory that separates dependence and suppression by withdrawal, though a drive fixes where control lies and not whether it is coercive'
+title: 'Persisting through modes; histories need not glue'
+statement: >-
+  An organized individual that persists through changes of mode persists, on
+  the record's proposed account, as the particular organization that keeps
+  its repertoire realizable, inside it or outside it, and its identity over
+  time as the causal transmission of that organization; locally realizable
+  histories need not glue, and a coherent history can be terminal; and
+  synchronization phenomena are offered as a laboratory that separates
+  dependence and suppression by withdrawal, though a drive fixes where
+  control lies and not whether it is coercive
 version: 2
 history:
 - version: 2
@@ -42,7 +51,7 @@ integrates:
 <!-- inactive-ok-file: ARG-072 ARG-074 ARG-075 CASE-224 CASE-225 CLAIM-478 CLAIM-545 CLAIM-576 CLAIM-611 CLAIM-612 CLAIM-615 CLAIM-616 CLAIM-623 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-003 — Superseded; integrated or cited with their standing, as the entries their claims returned to -->
 
-# SYNTHESIS-046: An organized individual that persists through changes of mode persists, on the record's proposed account, as the particular organization that keeps its repertoire realizable, inside it or outside it, and its identity over time as the causal transmission of that organization; locally realizable histories need not glue, and a coherent history can be terminal; and synchronization phenomena are offered as a laboratory that separates dependence and suppression by withdrawal, though a drive fixes where control lies and not whether it is coercive
+# SYNTHESIS-046: Persisting through modes; histories need not glue
 
 *A part account of the realizability line: the part filed from the
 exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07),

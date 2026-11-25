@@ -3,7 +3,12 @@ number: 90
 status: Proposed
 formerly:
 - SYNTHESIS-tmpohyzz
-title: 'How the record as an apparatus would be put to the test: whether governing schema change does work, whether a shared record moves distributed evidence into judgement, and whether a collective keeping one can improve its improver without losing correctability'
+title: 'How the record as apparatus would be tested'
+statement: >-
+  How the record as an apparatus would be put to the test: whether governing
+  schema change does work, whether a shared record moves distributed
+  evidence into judgement, and whether a collective keeping one can improve
+  its improver without losing correctability
 version: 2
 history:
 - version: 1
@@ -76,7 +81,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-667 CLAIM-665 CLAIM-668 CLAIM-666 TERM-119 CASE-253 CASE-252 CASE-255 CASE-254 — filed from the exchange "luria experiment design", Proposed; components with their standing -->
 <!-- inactive-ok-file: CASE-194 — Proposed; a component with its standing -->
 
-# SYNTHESIS-090: How the record as an apparatus would be put to the test: whether governing schema change does work, whether a shared record moves distributed evidence into judgement, and whether a collective keeping one can improve its improver without losing correctability
+# SYNTHESIS-090: How the record as apparatus would be tested
 
 ## The account
 

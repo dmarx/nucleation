@@ -3,7 +3,14 @@ number: 33
 status: Proposed
 formerly:
 - SYNTHESIS-tmprtogt
-title: 'What classification training leaves in a network''s last layers, and what it costs for tasks it was not trained on, is open: collapse onto class means is measured in one protocol and derived only for squared error or as an endpoint, its cost is measured for new classes at the penultimate layer, and whether it holds beyond its first settings, under lazy training, and while the parameters keep moving are questions of their own'
+title: 'What classification leaves in last layers is open'
+statement: >-
+  What classification training leaves in a network's last layers, and what
+  it costs for tasks it was not trained on, is open: collapse onto class
+  means is measured in one protocol and derived only for squared error or as
+  an endpoint, its cost is measured for new classes at the penultimate
+  layer, and whether it holds beyond its first settings, under lazy
+  training, and while the parameters keep moving are questions of their own
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -29,7 +36,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-286 — Proposed; components, citations and the decisions this account follows, with their standing -->
 
-# SYNTHESIS-033: What classification training leaves in a network's last layers, and what it costs for tasks it was not trained on, is open: collapse onto class means is measured in one protocol and derived only for squared error or as an endpoint, its cost is measured for new classes at the penultimate layer, and whether it holds beyond its first settings, under lazy training, and while the parameters keep moving are questions of their own
+# SYNTHESIS-033: What classification leaves in last layers is open
 
 *A part account of the learned-structure line ([ADR-083](../decisions.d/ADR-083.md)); the line's account is built over it and its sibling parts. Every component is a question.*
 

@@ -3,7 +3,14 @@ number: 15
 status: Proposed
 formerly:
 - SYNTHESIS-tmp9cgig
-title: 'Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored'
+title: 'Anchoring entrenches; filing pays only on reuse'
+statement: >-
+  Anchoring has costs and a price: an early anchor can entrench its framing,
+  and iterative retrieval can turn a framing into a premise, though adaptive
+  search is not biased in itself; filing moves work across time and pays
+  only when reuse covers it, recurrence weighted by reconstruction cost is a
+  worst-case guarantee where reuse cannot be forecast, and recognizing what
+  a filed argument answers has a cost that grows with what is stored
 version: 2
 history:
 - version: 2
@@ -48,7 +55,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-179 CLAIM-182 CLAIM-184 CLAIM-301 CLAIM-298 CLAIM-314 CLAIM-315 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: THEORY-1736 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# SYNTHESIS-015: Anchoring has costs and a price: an early anchor can entrench its framing, and iterative retrieval can turn a framing into a premise, though adaptive search is not biased in itself; filing moves work across time and pays only when reuse covers it, recurrence weighted by reconstruction cost is a worst-case guarantee where reuse cannot be forecast, and recognizing what a filed argument answers has a cost that grows with what is stored
+# SYNTHESIS-015: Anchoring entrenches; filing pays only on reuse
 
 *A part account of the nucleating-argument line ([ADR-083](../decisions.d/ADR-083.md), version 2); the line's account is built over it and its two sibling parts.*
 

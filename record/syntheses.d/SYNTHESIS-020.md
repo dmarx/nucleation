@@ -3,7 +3,17 @@ number: 20
 status: Proposed
 formerly:
 - SYNTHESIS-tmpi664y
-title: 'In an organization, goal-conduciveness valence is a persistent potential of the negotiation among its perspectives that ranks its own states by their bearing on its maintenance: what a record of wins can show is a class of such orderings, read only on the contests the record admits; the concession that the regime tracks wanting places the account at goal conduciveness, with each perspective holding a valence of its own and the system''s read on what is granted; and its consequences on contest, intensity and ambivalence stand under objections that are open or written in'
+title: 'Organizational valence is a negotiated potential'
+statement: >-
+  In an organization, goal-conduciveness valence is a persistent potential
+  of the negotiation among its perspectives that ranks its own states by
+  their bearing on its maintenance: what a record of wins can show is a
+  class of such orderings, read only on the contests the record admits; the
+  concession that the regime tracks wanting places the account at goal
+  conduciveness, with each perspective holding a valence of its own and the
+  system's read on what is granted; and its consequences on contest,
+  intensity and ambivalence stand under objections that are open or written
+  in
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -50,7 +60,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-440 TERM-076 TERM-104 CLAIM-433 CLAIM-435 CLAIM-437 CLAIM-438 CLAIM-441 CLAIM-442 CLAIM-446 CLAIM-447 CLAIM-451 CLAIM-468 CLAIM-505 CLAIM-527 CASE-221 — Proposed; components of this part, with their standing -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-162 — Proposed; premises of components, in sibling parts or lines, cited as open -->
 
-# SYNTHESIS-020: In an organization, goal-conduciveness valence is a persistent potential of the negotiation among its perspectives that ranks its own states by their bearing on its maintenance: what a record of wins can show is a class of such orderings, read only on the contests the record admits; the concession that the regime tracks wanting places the account at goal conduciveness, with each perspective holding a valence of its own and the system's read on what is granted; and its consequences on contest, intensity and ambivalence stand under objections that are open or written in
+# SYNTHESIS-020: Organizational valence is a negotiated potential
 
 *A part account of the organizational-affect line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)): the potential account of valence and its tests. The line's account is built over it and its two sibling parts, [SYNTHESIS-018](SYNTHESIS-018.md) (corporate affect) and [SYNTHESIS-022](SYNTHESIS-022.md) (feeling and access).*
 

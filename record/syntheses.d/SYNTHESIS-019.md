@@ -3,7 +3,15 @@ number: 19
 status: Proposed
 formerly:
 - SYNTHESIS-tmpdckug
-title: 'The owner''s thesis that experience is constituted by interpretive organization stands with its sufficiency condition unstated: interpretation as such does not suffice, current grounding and a represented owner are kept apart from what would make an organization experiential, the line''s one candidate condition makes valence felt only in the access sense, and each test of the rest meets the limit that the record''s evidence about experience reaches it through access'
+title: 'Experience thesis: sufficiency still unstated'
+statement: >-
+  The owner's thesis that experience is constituted by interpretive
+  organization stands with its sufficiency condition unstated:
+  interpretation as such does not suffice, current grounding and a
+  represented owner are kept apart from what would make an organization
+  experiential, the line's one candidate condition makes valence felt only
+  in the access sense, and each test of the rest meets the limit that the
+  record's evidence about experience reaches it through access
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component whose
@@ -46,7 +54,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-355 CLAIM-412 CLAIM-439 TERM-082 CLAIM-440 THEORY-091 THEORY-662 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-018 — Rejected; a component, the argument from illusions and reappraisal to CLAIM-412 -->
 
-# SYNTHESIS-019: The owner's thesis that experience is constituted by interpretive organization stands with its sufficiency condition unstated: interpretation as such does not suffice, current grounding and a represented owner are kept apart from what would make an organization experiential, the line's one candidate condition makes valence felt only in the access sense, and each test of the rest meets the limit that the record's evidence about experience reaches it through access
+# SYNTHESIS-019: Experience thesis: sufficiency still unstated
 
 ## The account
 

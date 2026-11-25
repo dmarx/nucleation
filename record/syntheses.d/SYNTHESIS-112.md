@@ -3,7 +3,13 @@ number: 112
 status: Proposed
 formerly:
 - SYNTHESIS-tmpgvvtn
-title: 'Forming, keeping and moving into a capacity are separate resource requirements in the record, reaching a configuration can cost more than holding either end, feasible, reachable and reliably reached come apart, and a budget pegged to last period''s peak loses transitions that need slack'
+title: 'Forming, keeping and moving into a capacity differ'
+statement: >-
+  Forming, keeping and moving into a capacity are separate resource
+  requirements in the record, reaching a configuration can cost more than
+  holding either end, feasible, reachable and reliably reached come apart,
+  and a budget pegged to last period's peak loses transitions that need
+  slack
 version: 1
 defeated_if: >-
   A component misstated or misattributed here, with its scope conditions;
@@ -27,7 +33,7 @@ integrates:
 - CLAIM-567
 ---
 
-# SYNTHESIS-112: Forming, keeping and moving into a capacity are separate resource requirements in the record, reaching a configuration can cost more than holding either end, feasible, reachable and reliably reached come apart, and a budget pegged to last period's peak loses transitions that need slack
+# SYNTHESIS-112: Forming, keeping and moving into a capacity differ
 
 *A thematic account, across lines, of principle P6 of the owner's manuscript (scratch/manuscripts/from-obstruction-to-reorganization/, §7.1, on its own branch). Filed at the owner's direction on 2026-11-20 after an independent reader's audit found the principle to be a conjunction of entries the record holds rather than a claim with content of its own ([ADR-075](../decisions.d/ADR-075.md), step 5; workbench entry of this date). It adds nothing; its standing is its components'. Its scope is a theme, not a line or a part of one, which [ADR-083](../decisions.d/ADR-083.md)'s one account per scope does not anticipate.*
 

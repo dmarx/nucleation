@@ -19,7 +19,15 @@ history:
     work is now read. None of this part's components was folded at the
     reconciliation. Arm B is run again with the readings; no candidate
     passes. Version 1's text is otherwise kept.
-title: "Restricting capabilities, and who controls the terms of waiting and contracting: the grounds of a restriction are kept apart from the authority to impose it, a capability is decomposed into what a restriction can reach, a restriction justified by incompetence can produce the incompetence, an opposition can be free as an actor while another holds its efficacy, and control over a deferred reward or over what a contract left open is control over the other party's terms"
+title: 'Grounds for a restriction are not authority'
+statement: >-
+  Restricting capabilities, and who controls the terms of waiting and
+  contracting: the grounds of a restriction are kept apart from the
+  authority to impose it, a capability is decomposed into what a restriction
+  can reach, a restriction justified by incompetence can produce the
+  incompetence, an opposition can be free as an actor while another holds
+  its efficacy, and control over a deferred reward or over what a contract
+  left open is control over the other party's terms
 defeated_if: >-
   A component misstated or misattributed here, its voice or its status
   among what can be misstated, or a reading's relation to it told wrongly
@@ -71,7 +79,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-116 CASE-281 CASE-288 CLAIM-364 CLAIM-680 CLAIM-682 CLAIM-684 CLAIM-690 CLAIM-714 CLAIM-721 CLAIM-726 CLAIM-728 CLAIM-734 CLAIM-736 CLAIM-737 CLAIM-744 CLAIM-746 SYNTHESIS-099 TERM-110 TERM-120 TERM-124 TERM-129 THEORY-1953 THEORY-1963 THEORY-1968 THEORY-1979 THEORY-1980 THEORY-1983 THEORY-1985 THEORY-1989 — Proposed; components, citations and the readings that support them, with their standing -->
 
-# SYNTHESIS-101: Restricting capabilities, and who controls the terms of waiting and contracting: the grounds of a restriction are kept apart from the authority to impose it, a capability is decomposed into what a restriction can reach, a restriction justified by incompetence can produce the incompetence, an opposition can be free as an actor while another holds its efficacy, and control over a deferred reward or over what a contract left open is control over the other party's terms
+# SYNTHESIS-101: Grounds for a restriction are not authority
 
 *A part account of the dependence-and-domination line. Version 1 was filed at the interim synthesis review of 2026-11-17, after the filing of the exchange "Assess Depp Heard Abuse" the same day and before the readings. Version 2 is the follow-up review of 2026-11-18: it integrates the argument the readings filed and cites the readings as the support each component has, by the THEORY that carries the relation; a reading is not a component. Every component comes from the continuation's filing (pull request 512); none was folded at the reconciliation. The question is the owner's and Open; the claims and the term are A's and Proposed; the case is a reported study, now read, with A's analysis. Where a component cites another, the account says which entry does.*
 

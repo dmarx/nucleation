@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: 'Publishing over a governed record unbundles the paper: articles become views over a maintained record, editorial judgements attributable events that journals select as feeds, and hosts suppliers of access; the record shows the substrate and where its own guarantees stop, and leaves registration, signed authorship, version-resolvable citation and the advantage of the network open'
+title: 'Publishing over a record unbundles the paper'
+statement: >-
+  Publishing over a governed record unbundles the paper: articles become
+  views over a maintained record, editorial judgements attributable events
+  that journals select as feeds, and hosts suppliers of access; the record
+  shows the substrate and where its own guarantees stop, and leaves
+  registration, signed authorship, version-resolvable citation and the
+  advantage of the network open
 version: 1
 defeated_if: >-
   A component misstated or misattributed here, its scope conditions
@@ -60,7 +67,7 @@ bears_on:
 
 <!-- inactive-ok-file: CLAIM-tmp4rfba CLAIM-tmpbvvmp CLAIM-tmpotj4b CLAIM-tmpts8ee CLAIM-tmpu6e4u CLAIM-178 CLAIM-tmpjf44i TERM-tmpjn06u CLAIM-tmpkvi10 CLAIM-tmp2tzk5 CLAIM-tmpgli4k CLAIM-tmp158w7 CLAIM-tmp2timl CLAIM-tmpzsuh2 TERM-tmpx49xx CLAIM-tmpnqzvj CLAIM-tmpmq8lk CLAIM-tmptn64c CLAIM-tmpv0sv7 CLAIM-tmpk6vy2 CLAIM-tmpzz0eu CLAIM-tmp80nuw CLAIM-tmpk6kcf CLAIM-tmp48g02 CLAIM-tmp0ncly CLAIM-tmpqteki CLAIM-tmpmacjk ADR-143 ADR-tmpd3ckn ADR-tmpw306d — Proposed; the line's components filed or mapped from the exchange "Hyper article interpretation", the manuscript protocol cited as context, and the decisions that made the line and this kind of synthesis -->
 
-# SYNTHESIS-tmpg0a57: Publishing over a governed record unbundles the paper: articles become views over a maintained record, editorial judgements attributable events that journals select as feeds, and hosts suppliers of access; the record shows the substrate and where its own guarantees stop, and leaves registration, signed authorship, version-resolvable citation and the advantage of the network open
+# SYNTHESIS-tmpg0a57: Publishing over a record unbundles the paper
 
 *The first synthesis of the line scholarly-publishing (atlas scope 15, [ADR-tmpd3ckn](../decisions.d/ADR-tmpd3ckn.md)), written under [ADR-tmpw306d](../decisions.d/ADR-tmpw306d.md). It takes the exchange "Hyper article interpretation" into account; the exchange has no synthesis of its own, and its map of turns is in the curation entry of 2026-11-25. It adds nothing. Its standing is its components'.*
 

@@ -25,7 +25,17 @@ history:
     The first filing's distributed-agency neighbours of the friction
     claims, in no account, are named and not integrated. Arm B is run
     again with the readings; no candidate passes.
-title: "Remedies foreclosed before review, by faits accomplis, speed, friction and siege: acting before an opportunity to intervene can take effect is proposed as a wrong of its own, an irreversible act is proposed to convert a holder's consent into a claim to compensation, to give a reviewer genuine reasons to accommodate it, and to give the breacher leverage over its own settlement but no power over what is owed, an opponent can put a remedy out of reach by raising what pursuing it costs, the cost of imposing a decision and of contesting it can move apart, and the baseline against which terms are judged can be the actor's own product"
+title: 'Faits accomplis foreclose remedies before review'
+statement: >-
+  Remedies foreclosed before review, by faits accomplis, speed, friction and
+  siege: acting before an opportunity to intervene can take effect is
+  proposed as a wrong of its own, an irreversible act is proposed to convert
+  a holder's consent into a claim to compensation, to give a reviewer
+  genuine reasons to accommodate it, and to give the breacher leverage over
+  its own settlement but no power over what is owed, an opponent can put a
+  remedy out of reach by raising what pursuing it costs, the cost of
+  imposing a decision and of contesting it can move apart, and the baseline
+  against which terms are judged can be the actor's own product
 defeated_if: >-
   A component misstated or misattributed here, its voice (the owner's,
   A's or the assistant's), its warrant or a reading's relation to it among
@@ -90,7 +100,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-280 CASE-285 CASE-287 CLAIM-423 CLAIM-478 CLAIM-619 CLAIM-624 CLAIM-670 CLAIM-701 CLAIM-704 CLAIM-705 CLAIM-706 CLAIM-708 CLAIM-710 CLAIM-711 CLAIM-715 CLAIM-720 CLAIM-722 CLAIM-723 CLAIM-724 CLAIM-726 CLAIM-728 CLAIM-730 CLAIM-731 CLAIM-734 CLAIM-743 CLAIM-747 CLAIM-748 SYNTHESIS-095 SYNTHESIS-099 SYNTHESIS-103 TERM-124 TERM-125 THEORY-1923 THEORY-1931 THEORY-1938 THEORY-1947 THEORY-1962 THEORY-1966 THEORY-1972 THEORY-1981 THEORY-1984 — Proposed; components, citations and the readings that support them, with their standing -->
 <!-- inactive-ok-file: LIT-1592 — Unfetched; works not read, cited with their standing -->
 
-# SYNTHESIS-098: Remedies foreclosed before review, by faits accomplis, speed, friction and siege: acting before an opportunity to intervene can take effect is proposed as a wrong of its own, an irreversible act is proposed to convert a holder's consent into a claim to compensation, to give a reviewer genuine reasons to accommodate it, and to give the breacher leverage over its own settlement but no power over what is owed, an opponent can put a remedy out of reach by raising what pursuing it costs, the cost of imposing a decision and of contesting it can move apart, and the baseline against which terms are judged can be the actor's own product
+# SYNTHESIS-098: Faits accomplis foreclose remedies before review
 
 *A part account of the dependence-and-domination and distributed-agency lines, on remedies foreclosed before they can be reviewed: by acting first, by outlasting, by moving friction, and by setting the baseline. Version 1 was filed at the interim synthesis review of 2026-11-17, before the readings and the reconciliation. Version 2 is the follow-up review of 2026-11-18. It adds the first filing's [CLAIM-701](../claims.d/CLAIM-701.md), describes [CLAIM-710](../claims.d/CLAIM-710.md) as it stands after the reconciliation (the curation entry of 2026-11-17, 20:57:46, its reconciliation section), and cites the readings as the support each component has, by the THEORY that carries the relation; a reading is not a component. Most components complement or rest on [CLAIM-464](../claims.d/CLAIM-464.md) (Active, the owner's earlier observation that an intervention can make a corrective outcome costlier or unreachable before review while the standards stay the same). The account cites [CLAIM-464](../claims.d/CLAIM-464.md) and does not integrate it. The line's account is [SYNTHESIS-095](SYNTHESIS-095.md); the sibling part, on answerability and contestability, is [SYNTHESIS-103](SYNTHESIS-103.md).*
 

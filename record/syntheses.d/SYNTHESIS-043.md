@@ -3,7 +3,14 @@ number: 43
 status: Proposed
 formerly:
 - SYNTHESIS-tmpoclez
-title: 'The realizability line is four accounts, of reaching under resources, of budgeted individuation, of assembly and productive nucleation, and of persisting organized individuals, which meet at the separation of assembling, persisting and regenerating a form; the first three are densely joined, the persistence part points out and receives nothing, and no link between the parts that no part states passes the claim test'
+title: 'Realizability: four accounts, one separation'
+statement: >-
+  The realizability line is four accounts, of reaching under resources, of
+  budgeted individuation, of assembly and productive nucleation, and of
+  persisting organized individuals, which meet at the separation of
+  assembling, persisting and regenerating a form; the first three are
+  densely joined, the persistence part points out and receives nothing, and
+  no link between the parts that no part states passes the claim test
 version: 3
 history:
 - version: 2
@@ -58,7 +65,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-646 CLAIM-654 CLAIM-663 CLAIM-697 CLAIM-695 CLAIM-699 CASE-236 CLAIM-478 CASE-214 CASE-215 CASE-219 CASE-220 CASE-225 CLAIM-573 CLAIM-576 CLAIM-611 CLAIM-615 CLAIM-616 CLAIM-623 TERM-116 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-003 SYNTHESIS-010 — Superseded; cited as the entries their claims returned to, and not integrated -->
 
-# SYNTHESIS-043: The realizability line is four accounts, of reaching under resources, of budgeted individuation, of assembly and productive nucleation, and of persisting organized individuals, which meet at the separation of assembling, persisting and regenerating a form; the first three are densely joined, the persistence part points out and receives nothing, and no link between the parts that no part states passes the claim test
+# SYNTHESIS-043: Realizability: four accounts, one separation
 
 *The account of the realizability line ("Resource-bounded realizability
 and individuation", [ADR-073](../decisions.d/ADR-073.md)), over the accounts of its four parts

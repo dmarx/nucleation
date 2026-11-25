@@ -3,7 +3,17 @@ number: 38
 status: Proposed
 formerly:
 - SYNTHESIS-tmphe0p9
-title: 'The organizational-normativity line is four accounts that meet at its root questions and the older parts'' questions: what a normative judgment needs; the wrong beyond harm and becoming normatively less informed; rights, demands and commitments; and accountability without blame and normative governability; what wholes and parts owe and claim, what those who govern, restrict or answer for an arrangement owe, and responsibility for another''s conditions, are the line dependence-and-domination, whose entries that carry this line are integrated here; the line makes no claim beyond its parts'
+title: 'Organizational normativity: four accounts mapped'
+statement: >-
+  The organizational-normativity line is four accounts that meet at its root
+  questions and the older parts' questions: what a normative judgment needs;
+  the wrong beyond harm and becoming normatively less informed; rights,
+  demands and commitments; and accountability without blame and normative
+  governability; what wholes and parts owe and claim, what those who govern,
+  restrict or answer for an arrangement owe, and responsibility for
+  another's conditions, are the line dependence-and-domination, whose
+  entries that carry this line are integrated here; the line makes no claim
+  beyond its parts
 version: 9
 history:
 - version: 2
@@ -203,7 +213,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-112 ARG-117 CASE-277 CLAIM-690 CLAIM-700 CLAIM-701 CLAIM-702 CLAIM-712 CLAIM-715 TERM-110 — Proposed; components, directly integrated entries and citations at version 7, with their standing -->
 <!-- inactive-ok-file: THEORY-1914 THEORY-1917 THEORY-1928 THEORY-1932 THEORY-1933 THEORY-1946 THEORY-1952 THEORY-1954 THEORY-1959 THEORY-1971 THEORY-1975 THEORY-1976 THEORY-1984 — readings of 2026-11-16 or 2026-11-18, Proposed; cited at version 7 as the support components have -->
 
-# SYNTHESIS-038: The organizational-normativity line is four accounts that meet at its root questions and the older parts' questions: what a normative judgment needs; the wrong beyond harm and becoming normatively less informed; rights, demands and commitments; and accountability without blame and normative governability; what wholes and parts owe and claim, what those who govern, restrict or answer for an arrangement owe, and responsibility for another's conditions, are the line dependence-and-domination, whose entries that carry this line are integrated here; the line makes no claim beyond its parts
+# SYNTHESIS-038: Organizational normativity: four accounts mapped
 
 *The account of the organizational-normativity line, "Normative judgment about organizations", split from will-organization ([ADR-089](../decisions.d/ADR-089.md)), where it was a part account. Since version 4 (2026-11-15) it is the line's account over the accounts of its parts ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)); versions 1 to 3 mapped what is now the first two parts directly. At version 5 the line's third and fourth parts, [SYNTHESIS-092](SYNTHESIS-092.md) and [SYNTHESIS-093](SYNTHESIS-093.md), became the line dependence-and-domination, at the split of this line ([ADR-100](../decisions.d/ADR-100.md)), and that line's account is [SYNTHESIS-095](SYNTHESIS-095.md). Version 6 (2026-11-17) adds the two parts filed at the interim synthesis review of that day, after the filing of the exchange "Assess Depp Heard Abuse" (the curation entry of 2026-11-17, 20:57:46), and records that [SYNTHESIS-091](SYNTHESIS-091.md) and [SYNTHESIS-094](SYNTHESIS-094.md) were revised then (each to version 3). Version 7 (2026-11-18), at the follow-up review after the readings of that exchange's works (pull request 514) and the reconciliation of its two filings (the first, pull request 510, of turns U1 to U17; the continuation, of U1 to U48), records the four parts' revisions of that day, folds the readings into what the parts say, and integrates directly the entries of this line that the reconciliation left mapped only by the other line's parts. "Organization" is [TERM-074](../terms.d/TERM-074.md)'s sense 1, a relational arrangement, by default; each part account says which sense each component declares, and assigns none where a component declares none. Every link below is attributed to the part account or component that states it.*
 

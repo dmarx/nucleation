@@ -3,7 +3,14 @@ number: 65
 status: Proposed
 formerly:
 - SYNTHESIS-tmpg8qer
-title: 'Saussure''s value, as distinct from signification, is fixed by contrast with the coexisting terms of one language state and is not set against reference; whether it supports transport across languages is open, its use-level counterpart is offered as an utterance''s contrast with the alternatives its speaker could have used, and the stronger reading, that contrast replaces reference, is rejected'
+title: 'Saussurean value is contrast, not reference'
+statement: >-
+  Saussure's value, as distinct from signification, is fixed by contrast
+  with the coexisting terms of one language state and is not set against
+  reference; whether it supports transport across languages is open, its
+  use-level counterpart is offered as an utterance's contrast with the
+  alternatives its speaker could have used, and the stronger reading, that
+  contrast replaces reference, is rejected
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -42,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-775 — Unavailable; Lévi-Strauss, unread here, CLAIM-489's ground -->
 
 
-# SYNTHESIS-065: Saussure's value, as distinct from signification, is fixed by contrast with the coexisting terms of one language state and is not set against reference; whether it supports transport across languages is open, its use-level counterpart is offered as an utterance's contrast with the alternatives its speaker could have used, and the stronger reading, that contrast replaces reference, is rejected
+# SYNTHESIS-065: Saussurean value is contrast, not reference
 
 *A part account of the pragmatic-transport line: the structuralist premise
 of the manuscript "What survives translation" (§2), as the record corrected

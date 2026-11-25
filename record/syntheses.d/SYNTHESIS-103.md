@@ -22,7 +22,15 @@ history:
     answerability, Bovens's nesting) are recorded. The first filing's
     CLAIM-705, which CLAIM-740 complements, is named and not integrated.
     Arm B is run again with the readings; no candidate passes.
-title: "Answerability and contestability: answerability is proposed as a directed relation, owed on several grounds to a party with a claim and not to everyone affected, with forms and dimensions that come apart; authority over a decision is proposed not to carry authority over the conditions of its challenge; explanation, contestation and interruption, and the six achievements of an effective objection, are proposed as separable; and contestability is proposed as a maintained capability robust to opposition"
+title: 'Answerability is proposed as a directed relation'
+statement: >-
+  Answerability and contestability: answerability is proposed as a directed
+  relation, owed on several grounds to a party with a claim and not to
+  everyone affected, with forms and dimensions that come apart; authority
+  over a decision is proposed not to carry authority over the conditions of
+  its challenge; explanation, contestation and interruption, and the six
+  achievements of an effective objection, are proposed as separable; and
+  contestability is proposed as a maintained capability robust to opposition
 defeated_if: >-
   A component misstated or misattributed here, its voice (the owner's or
   A's), its role or a reading's relation to it among what can be
@@ -74,7 +82,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-114 CLAIM-619 CLAIM-624 CLAIM-705 CLAIM-710 CLAIM-723 CLAIM-724 CLAIM-732 CLAIM-734 CLAIM-739 CLAIM-746 CLAIM-748 SYNTHESIS-094 SYNTHESIS-098 TERM-083 TERM-124 TERM-126 TERM-130 THEORY-1941 THEORY-1947 THEORY-1957 THEORY-1959 THEORY-1960 THEORY-1965 THEORY-1970 THEORY-1972 THEORY-1974 THEORY-1975 THEORY-1976 — Proposed; components, citations and the readings that support them, with their standing -->
 
-# SYNTHESIS-103: Answerability and contestability: answerability is proposed as a directed relation, owed on several grounds to a party with a claim and not to everyone affected, with forms and dimensions that come apart; authority over a decision is proposed not to carry authority over the conditions of its challenge; explanation, contestation and interruption, and the six achievements of an effective objection, are proposed as separable; and contestability is proposed as a maintained capability robust to opposition
+# SYNTHESIS-103: Answerability is proposed as a directed relation
 
 *A part account of the dependence-and-domination line, on answerability and contestability: when an answer is owed and to whom, who may set the terms of challenge, and what an effective challenge needs. It was filed at the synthesis review of 2026-11-17, after the filing of the exchange "Assess Depp Heard Abuse" (the curation entry of 2026-11-17, 20:57:46), and every component is new to any account. The held claims these relate to are [CLAIM-624](../claims.d/CLAIM-624.md) (A's second-order duty of answerability; Proposed) and [CLAIM-687](../claims.d/CLAIM-687.md) (A's rule that accountability rises with indispensability; Proposed). The account cites them and does not integrate them. The part's sibling, on remedies foreclosed before review, is [SYNTHESIS-098](SYNTHESIS-098.md). Version 2 (the follow-up review of 2026-11-18) cites the readings filed that day as the support each component has, by the THEORY that carries the relation; a reading is not a component. Every component comes from the continuation's filing (pull request 512), and none was folded at the reconciliation.*
 

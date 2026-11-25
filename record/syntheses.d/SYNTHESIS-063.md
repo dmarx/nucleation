@@ -3,7 +3,20 @@ number: 63
 status: Proposed
 formerly:
 - SYNTHESIS-tmpcdg8u
-title: 'Directed transport between context-indexed judgement models keeps overlap consistency and global extendability under two sufficient conditions, but for one source–target pair a constant kernel meets them at zero distortion, so it constrains a translation only as a property of a rendering procedure with one kernel family fixed across items, where exact fit is a garbling and Le Cam deficiency a finite linear programme; fidelity as intertwining of framing operations holds as algebra, but its defects are not identified from data and the order effect is bounded on observed responses instead; what stays open is decision-relevant information across a change of cover, signalling data, and whether the restated measures are informative, with tropes and adaptation as the place where structure and function come apart'
+title: 'Kernels constrain only rendering procedures'
+statement: >-
+  Directed transport between context-indexed judgement models keeps overlap
+  consistency and global extendability under two sufficient conditions, but
+  for one source–target pair a constant kernel meets them at zero
+  distortion, so it constrains a translation only as a property of a
+  rendering procedure with one kernel family fixed across items, where exact
+  fit is a garbling and Le Cam deficiency a finite linear programme;
+  fidelity as intertwining of framing operations holds as algebra, but its
+  defects are not identified from data and the order effect is bounded on
+  observed responses instead; what stays open is decision-relevant
+  information across a change of cover, signalling data, and whether the
+  restated measures are informative, with tropes and adaptation as the place
+  where structure and function come apart
 version: 2
 history:
 - version: 2
@@ -82,7 +95,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-014 ARG-037 — Rejected; components, the verdicts on support that failed -->
 <!-- inactive-ok-file: QUESTION-240 — Answered; cited with its standing -->
 
-# SYNTHESIS-063: Directed transport between context-indexed judgement models keeps overlap consistency and global extendability under two sufficient conditions, but for one source–target pair a constant kernel meets them at zero distortion, so it constrains a translation only as a property of a rendering procedure with one kernel family fixed across items, where exact fit is a garbling and Le Cam deficiency a finite linear programme; fidelity as intertwining of framing operations holds as algebra, but its defects are not identified from data and the order effect is bounded on observed responses instead; what stays open is decision-relevant information across a change of cover, signalling data, and whether the restated measures are informative, with tropes and adaptation as the place where structure and function come apart
+# SYNTHESIS-063: Kernels constrain only rendering procedures
 
 *A part account of the pragmatic-transport line: the part a mechanical
 community map of the line's stored relations and mentions calls kernels,

@@ -33,7 +33,14 @@ history:
     says so. No component is added: none of the first filing's entries
     and none of the nine reconciled entries belongs to this part. No
     other change.
-title: "The wrong beyond harm and how an organization becomes normatively less informed: reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability, and an organization can lose sight of unmet obligations by the exit of the harmed, by discovery it is penalized for, or by weakening the channels challenge succeeds through, routes the record keeps apart"
+title: 'The wrong beyond harm and losing sight of it'
+statement: >-
+  The wrong beyond harm and how an organization becomes normatively less
+  informed: reproducing what keeps a justified standard from constraining it
+  is proposed as a breach of a bounded duty of answerability, and an
+  organization can lose sight of unmet obligations by the exit of the
+  harmed, by discovery it is penalized for, or by weakening the channels
+  challenge succeeds through, routes the record keeps apart
 defeated_if: >-
   A component misstated or misattributed here, its declared sense of
   "organization" (TERM-074) among what can be misstated; an in-force
@@ -103,7 +110,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-114 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new and Proposed; a component at version 3, and a citation -->
 <!-- inactive-ok-file: THEORY-1946 THEORY-1954 — readings of 2026-11-16 and 2026-11-18, Proposed; cited at version 4 as support for components -->
 
-# SYNTHESIS-094: The wrong beyond harm and how an organization becomes normatively less informed: reproducing what keeps a justified standard from constraining it is proposed as a breach of a bounded duty of answerability, and an organization can lose sight of unmet obligations by the exit of the harmed, by discovery it is penalized for, or by weakening the channels challenge succeeds through, routes the record keeps apart
+# SYNTHESIS-094: The wrong beyond harm and losing sight of it
 
 *A part account of the organizational-normativity line, filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and one sibling part, [SYNTHESIS-091](SYNTHESIS-091.md); the other two parts it was first built over became the line dependence-and-domination ([ADR-100](../decisions.d/ADR-100.md)). Its first twelve components were mapped in [SYNTHESIS-038](SYNTHESIS-038.md) versions 1 to 3, and that mapping is kept here unchanged; the rest were filed from 2026-11-11 to 2026-11-12 and are new to any account. Version 3, at the synthesis review of 2026-11-17, integrates [ARG-114](../arguments.d/ARG-114.md), filed from the exchange "Assess Depp Heard Abuse" that day. Version 4, at the follow-up review of 2026-11-18, records the two readings of that exchange's works that bear on components here. Most members are also in distributed-agency, and [SYNTHESIS-056](SYNTHESIS-056.md), that line's account of perspectives, legibility and correction, integrates them again. Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so; none of this part's claims declares one, and several carry readings that are about sense 3.*
 

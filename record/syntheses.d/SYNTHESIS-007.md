@@ -3,7 +3,15 @@ number: 7
 status: Superseded
 formerly:
 - SYNTHESIS-tmpsw5k6
-title: 'Freedom of will, in the operational sense, is an agent''s governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another''s interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another''s capacity to govern those same relations, used or not'
+title: 'Free will is governing one''s own governability'
+statement: >-
+  Freedom of will, in the operational sense, is an agent's governance of its
+  own governability: the extent to which its own organization makes the
+  relevant distinctions legible, gives the demands they raise practical
+  efficacy, directs its transitions, and revises the relations that govern
+  those three, including under another's interference; openness, sensitivity
+  and controllability of outcomes each fall short of it, and domination is
+  another's capacity to govern those same relations, used or not
 version: 2
 history:
 - version: 1
@@ -79,7 +87,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-624 CASE-225 CLAIM-616 TERM-083 — Proposed or Superseded; cited in dated notes carried over from CLAIM-545 -->
 <!-- inactive-ok-file: LIT-1614 TERM-086 THEORY-040 — Unavailable or Proposed; cited from the exchange "Assess SDT Coverage" as open, a work registered unread among them -->
 
-# SYNTHESIS-007: Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
+# SYNTHESIS-007: Free will is governing one's own governability
 
 *Moved from [CLAIM-545](../claims.d/CLAIM-545.md), where its development up to version 2 is recorded, at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)). Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 

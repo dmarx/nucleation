@@ -3,7 +3,16 @@ number: 22
 status: Proposed
 formerly:
 - SYNTHESIS-tmpkcch3
-title: 'Whether organizational affect is felt is held apart from whether it is functional: the binding of a distributed response can be real while the single owner it is attributed to is a self-model''s construction, a regime of valence is felt in the sense of attended and available when the system models its own potential, and access within one agent may be compartmented; whether the model that makes valence felt is the one that presents an owner, and whether a state meeting a functional characterization of affect must be felt, are open'
+title: 'Being felt is held apart from being functional'
+statement: >-
+  Whether organizational affect is felt is held apart from whether it is
+  functional: the binding of a distributed response can be real while the
+  single owner it is attributed to is a self-model's construction, a regime
+  of valence is felt in the sense of attended and available when the system
+  models its own potential, and access within one agent may be
+  compartmented; whether the model that makes valence felt is the one that
+  presents an owner, and whether a state meeting a functional
+  characterization of affect must be felt, are open
 version: 2
 history:
 - version: 2
@@ -40,7 +49,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-440 THEORY-045 THEORY-090 THEORY-093 THEORY-095 THEORY-101 THEORY-662 — Proposed; the premise of a component and the readings the components cite -->
 <!-- inactive-ok-file: CLAIM-003 — Proposed; a component of this part, reopened with its line on 2026-11-11 -->
 
-# SYNTHESIS-022: Whether organizational affect is felt is held apart from whether it is functional: the binding of a distributed response can be real while the single owner it is attributed to is a self-model's construction, a regime of valence is felt in the sense of attended and available when the system models its own potential, and access within one agent may be compartmented; whether the model that makes valence felt is the one that presents an owner, and whether a state meeting a functional characterization of affect must be felt, are open
+# SYNTHESIS-022: Being felt is held apart from being functional
 
 *A part account of the organizational-affect line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)): feeling and access. The line's account is built over it and its two sibling parts, [SYNTHESIS-020](SYNTHESIS-020.md) (the potential account of valence) and [SYNTHESIS-018](SYNTHESIS-018.md) (corporate affect). Three of its components, [CLAIM-355](../claims.d/CLAIM-355.md), [CLAIM-439](../claims.d/CLAIM-439.md) and [QUESTION-442](../questions.d/QUESTION-442.md), are also in the line evidence-for-experience, whose account integrates them too.*
 

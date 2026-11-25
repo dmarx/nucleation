@@ -3,7 +3,18 @@ number: 121
 status: Proposed
 formerly:
 - SYNTHESIS-tmp3x39i
-title: "Correcting a regulator and keeping a plurality correctable, in the record: legibility, authority, affordability and maintained capacity are separate achievements with separate remedies and no fixed order; harmony is proposed as viability, accommodation and correctability, where correctability is a constituent's access to consequential roles; answerability's normative, effective and maintained dimensions come apart from an arrangement's capacity to correct in time; an authority's own judgment that it met independent claims cannot always establish it; and what is conserved is proposed to be a capability rather than its occupant, while a protected anchor bounds correction by its own accuracy"
+title: 'Correcting a regulator: separate achievements'
+statement: >-
+  Correcting a regulator and keeping a plurality correctable, in the record:
+  legibility, authority, affordability and maintained capacity are separate
+  achievements with separate remedies and no fixed order; harmony is
+  proposed as viability, accommodation and correctability, where
+  correctability is a constituent's access to consequential roles;
+  answerability's normative, effective and maintained dimensions come apart
+  from an arrangement's capacity to correct in time; an authority's own
+  judgment that it met independent claims cannot always establish it; and
+  what is conserved is proposed to be a capability rather than its occupant,
+  while a protected anchor bounds correction by its own accuracy
 version: 2
 history:
 - version: 2
@@ -78,7 +89,7 @@ summary: >-
 
 <!-- inactive-ok-file: TERM-162 CLAIM-362 TERM-126 CLAIM-1015 TERM-161 CLAIM-1014 TERM-166 CLAIM-746 CLAIM-705 CLAIM-1198 CLAIM-1024 CLAIM-739 SYNTHESIS-122 SYNTHESIS-043 SYNTHESIS-103 SYNTHESIS-111 SYNTHESIS-123 SYNTHESIS-124 — Proposed; components and neighbouring accounts, cited with their standing -->
 
-# SYNTHESIS-121: Correcting a regulator and keeping a plurality correctable, in the record: legibility, authority, affordability and maintained capacity are separate achievements with separate remedies and no fixed order; harmony is proposed as viability, accommodation and correctability, where correctability is a constituent's access to consequential roles; answerability's normative, effective and maintained dimensions come apart from an arrangement's capacity to correct in time; an authority's own judgment that it met independent claims cannot always establish it; and what is conserved is proposed to be a capability rather than its occupant, while a protected anchor bounds correction by its own accuracy
+# SYNTHESIS-121: Correcting a regulator: separate achievements
 
 *A thematic account, across lines, of the joins of the manuscript
 governance-of-possibility (scratch/manuscripts/governance-of-possibility/,

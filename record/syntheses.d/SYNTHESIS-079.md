@@ -3,7 +3,20 @@ number: 79
 status: Proposed
 formerly:
 - SYNTHESIS-tmpe15k3
-title: 'Agreement in ordinary operation does not fix how a system responds to an intervention on its mechanism: a coarse-graining exactly closed under its ordinary dynamics can lose that response, a deficiency of sufficiency measures the loss and cannot rise under refinement while closure is ordered by refinement in neither direction, causal abstraction does not secure the sufficiency, matched trajectories can hide efficacy and maintenance, and fidelity in ordinary operation certifies nothing about viability; where maintenance is realized is shown only by intervening on the production mechanisms relative to a boundary no intervention supplies, interventions show that a capacity is produced through a mechanism and not that it consists in it, and closure needs at least two constraints as persistence needs a productive cycle'
+title: 'Operational agreement hides intervention response'
+statement: >-
+  Agreement in ordinary operation does not fix how a system responds to an
+  intervention on its mechanism: a coarse-graining exactly closed under its
+  ordinary dynamics can lose that response, a deficiency of sufficiency
+  measures the loss and cannot rise under refinement while closure is
+  ordered by refinement in neither direction, causal abstraction does not
+  secure the sufficiency, matched trajectories can hide efficacy and
+  maintenance, and fidelity in ordinary operation certifies nothing about
+  viability; where maintenance is realized is shown only by intervening on
+  the production mechanisms relative to a boundary no intervention supplies,
+  interventions show that a capacity is produced through a mechanism and not
+  that it consists in it, and closure needs at least two constraints as
+  persistence needs a productive cycle
 version: 2
 history:
 - version: 2
@@ -66,7 +79,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-244 — Answered; cited with its standing -->
 <!-- inactive-ok-file: SYNTHESIS-073 SYNTHESIS-074 SYNTHESIS-075 SYNTHESIS-076 SYNTHESIS-080 SYNTHESIS-081 SYNTHESIS-082 SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-079: Agreement in ordinary operation does not fix how a system responds to an intervention on its mechanism: a coarse-graining exactly closed under its ordinary dynamics can lose that response, a deficiency of sufficiency measures the loss and cannot rise under refinement while closure is ordered by refinement in neither direction, causal abstraction does not secure the sufficiency, matched trajectories can hide efficacy and maintenance, and fidelity in ordinary operation certifies nothing about viability; where maintenance is realized is shown only by intervening on the production mechanisms relative to a boundary no intervention supplies, interventions show that a capacity is produced through a mechanism and not that it consists in it, and closure needs at least two constraints as persistence needs a productive cycle
+# SYNTHESIS-079: Operational agreement hides intervention response
 
 *A part account of the formal-apparatus line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)). The
 line's account is built over it and over the accounts of the line's other

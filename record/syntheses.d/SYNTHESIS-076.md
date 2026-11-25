@@ -3,7 +3,19 @@ number: 76
 status: Proposed
 formerly:
 - SYNTHESIS-tmpc35sn
-title: 'Reaching under a budget is not holding, and telling apart is not turning into one another: feasible, reachable and reliably reached come apart, a transition''s threshold is the least peak over admissible paths, stable under error and a frontier rather than a total when there are several resources, a budget grows a compatibility complex and a reachability filtration that do not fix each other, observing budgets split what can be told apart while acting budgets under peak costs merge what can be reached, the category chosen decides what counts as the same, navigating and diagnosing have complexities of their own, and the same split recurs for control inputs and for synchronization demands indexed by control parameters'
+title: 'Reaching under a budget is not holding'
+statement: >-
+  Reaching under a budget is not holding, and telling apart is not turning
+  into one another: feasible, reachable and reliably reached come apart, a
+  transition's threshold is the least peak over admissible paths, stable
+  under error and a frontier rather than a total when there are several
+  resources, a budget grows a compatibility complex and a reachability
+  filtration that do not fix each other, observing budgets split what can be
+  told apart while acting budgets under peak costs merge what can be
+  reached, the category chosen decides what counts as the same, navigating
+  and diagnosing have complexities of their own, and the same split recurs
+  for control inputs and for synchronization demands indexed by control
+  parameters
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force member of this
@@ -77,7 +89,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-053 — Rejected; cited as the argument CLAIM-561 undercuts -->
 <!-- inactive-ok-file: SYNTHESIS-074 SYNTHESIS-075 SYNTHESIS-079 SYNTHESIS-080 SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-076: Reaching under a budget is not holding, and telling apart is not turning into one another: feasible, reachable and reliably reached come apart, a transition's threshold is the least peak over admissible paths, stable under error and a frontier rather than a total when there are several resources, a budget grows a compatibility complex and a reachability filtration that do not fix each other, observing budgets split what can be told apart while acting budgets under peak costs merge what can be reached, the category chosen decides what counts as the same, navigating and diagnosing have complexities of their own, and the same split recurs for control inputs and for synchronization demands indexed by control parameters
+# SYNTHESIS-076: Reaching under a budget is not holding
 
 *A part account of the formal-apparatus line ("Formal apparatus", [ADR-040](../decisions.d/ADR-040.md)):
 the part a community map of stored relations and mentions groups around

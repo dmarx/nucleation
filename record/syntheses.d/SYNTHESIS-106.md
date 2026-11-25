@@ -3,7 +3,15 @@ number: 106
 status: Proposed
 formerly:
 - SYNTHESIS-tmphvng7
-title: 'Stored work and the cost structure of possibility: a stabilized constraint that supplies cheaper operations can move a task under a per-task budget, so amortization becomes capability expansion, within the limits that persistence is not amortization and an added restriction enlarges nothing; economic and dynamical separation of time scales come apart; an acquisition can be worth making for what it does to the cost of others; and a fall in one party''s cost may be work transferred, not saved'
+title: 'Stored work can expand capability under budgets'
+statement: >-
+  Stored work and the cost structure of possibility: a stabilized constraint
+  that supplies cheaper operations can move a task under a per-task budget,
+  so amortization becomes capability expansion, within the limits that
+  persistence is not amortization and an added restriction enlarges nothing;
+  economic and dynamical separation of time scales come apart; an
+  acquisition can be worth making for what it does to the cost of others;
+  and a fall in one party's cost may be work transferred, not saved
 version: 2
 history:
 - version: 2
@@ -60,7 +68,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-120 ARG-121 CASE-295 CLAIM-478 CLAIM-755 CLAIM-756 — Proposed; cited in this filing of 2026-11-19 -->
 
-# SYNTHESIS-106: Stored work and the cost structure of possibility: a stabilized constraint that supplies cheaper operations can move a task under a per-task budget, so amortization becomes capability expansion, within the limits that persistence is not amortization and an added restriction enlarges nothing; economic and dynamical separation of time scales come apart; an acquisition can be worth making for what it does to the cost of others; and a fall in one party's cost may be work transferred, not saved
+# SYNTHESIS-106: Stored work can expand capability under budgets
 
 ## The account
 

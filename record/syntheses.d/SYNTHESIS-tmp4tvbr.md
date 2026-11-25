@@ -1,6 +1,14 @@
 ---
 status: Proposed
-title: "The argument filed from the exchange Memes, Contracts, and Systemic Normativity, mapped: from the owner's memes as nucleation sites and as characters of perspectives, through contracts between processes and implicit contracts formed by reliance, to norms stabilized by dependence, exploitation as the asymmetric use of reliance, and the exchange's applications to engineering reliability, American governance, three constitutional theories, legibility, metrics and corporate objectives"
+title: 'Memes, Contracts exchange: norms from reliance'
+statement: >-
+  The argument filed from the exchange Memes, Contracts, and Systemic
+  Normativity, mapped: from the owner's memes as nucleation sites and as
+  characters of perspectives, through contracts between processes and
+  implicit contracts formed by reliance, to norms stabilized by dependence,
+  exploitation as the asymmetric use of reliance, and the exchange's
+  applications to engineering reliability, American governance, three
+  constitutional theories, legibility, metrics and corporate objectives
 version: 5
 history:
 - version: 2
@@ -212,7 +220,7 @@ integrates:
 <!-- inactive-ok-file: ARG-tmp2dpcv ARG-tmp2kh2e ARG-tmp4er8c ARG-tmpa5ped ARG-tmpeukxb ARG-tmpmtbby ARG-tmpn6xou ARG-tmpqkfwb ARG-tmptccms ARG-tmptjsx2 ARG-tmpx1cys ARG-tmpz2gmo CASE-tmp3euq0 CASE-tmp3so1p CASE-tmp3xxqg CASE-tmpfh2in CASE-tmphtt17 CASE-tmptpna1 CLAIM-tmp05a1l CLAIM-tmp0d1fq CLAIM-tmp0gs0t CLAIM-tmp0i6c0 CLAIM-tmp158r8 CLAIM-tmp18v1o CLAIM-tmp1fj5p CLAIM-tmp1ng5k CLAIM-tmp1nubb CLAIM-tmp1wlu2 CLAIM-tmp2jhc1 CLAIM-tmp2kfwd CLAIM-tmp3cywa CLAIM-tmp4mk0t CLAIM-tmp4uj40 CLAIM-tmp4zii5 CLAIM-tmp5atd3 CLAIM-tmp5tjtg CLAIM-tmp7hqtl CLAIM-tmp7xsyj CLAIM-tmp80ny9 CLAIM-tmp8bimm CLAIM-tmp8l5s9 CLAIM-tmp9k2la CLAIM-tmp9v9yl CLAIM-tmp9xge5 CLAIM-tmpa61rf CLAIM-tmpa8tdg CLAIM-tmpawbfn CLAIM-tmpazcha CLAIM-tmpb1wyc CLAIM-tmpbucep CLAIM-tmpcet1g CLAIM-tmpdq0ah CLAIM-tmpdu9v6 CLAIM-tmpdzcj6 CLAIM-tmpe6yfm CLAIM-tmpefeb7 CLAIM-tmpei0cf CLAIM-tmpersgx CLAIM-tmpgc8vi CLAIM-tmpggu4v CLAIM-tmpgmxs0 CLAIM-tmpgvsgg CLAIM-tmpgx2ej CLAIM-tmphi3mx CLAIM-tmphq6hp CLAIM-tmpjg5gx CLAIM-tmpjitli CLAIM-tmpjlxfy CLAIM-tmpjnly0 CLAIM-tmpjoaj3 CLAIM-tmpkvzcn CLAIM-tmplc0vv CLAIM-tmplc4m8 CLAIM-tmplm3mz CLAIM-tmpm76n5 CLAIM-tmpmp2wh CLAIM-tmpn754o CLAIM-tmpp0ufw CLAIM-tmpp91oy CLAIM-tmppx64t CLAIM-tmpqhxsz CLAIM-tmpr2qzg CLAIM-tmpreipd CLAIM-tmpro73c CLAIM-tmps8ou2 CLAIM-tmpsf9hp CLAIM-tmptrn75 CLAIM-tmpuleno CLAIM-tmpupcws CLAIM-tmpvmd97 CLAIM-tmpxl4mg CLAIM-tmpyp5bu CLAIM-tmpyqjn0 CLAIM-tmpysg95 CLAIM-tmpzas6q CLAIM-tmpzuzeh TERM-tmp9mag8 TERM-tmpet5z8 TERM-tmpgiy6r TERM-tmpx4zke TERM-tmpxr1ox — Proposed or new; filed from the exchange 'Memes, Contracts, and Systemic Normativity' or the owner's sidebars, in this pull request -->
 <!-- inactive-ok-file: CASE-388 CLAIM-545 CLAIM-683 CLAIM-728 CLAIM-750 CLAIM-905 — Proposed; held entries the audited syntheses cite or drop -->
 
-# SYNTHESIS-tmp4tvbr: The argument filed from the exchange Memes, Contracts, and Systemic Normativity, mapped: from the owner's memes as nucleation sites and as characters of perspectives, through contracts between processes and implicit contracts formed by reliance, to norms stabilized by dependence, exploitation as the asymmetric use of reliance, and the exchange's applications to engineering reliability, American governance, three constitutional theories, legibility, metrics and corporate objectives
+# SYNTHESIS-tmp4tvbr: Memes, Contracts exchange: norms from reliance
 
 The exchange ran on 2026-11-24, the owner's thirty-one prompts against
 forty-nine turns of A's (ChatGPT's). A browsed this record's default

@@ -3,7 +3,13 @@ number: 85
 status: Proposed
 formerly:
 - SYNTHESIS-tmppyfkv
-title: 'The thresholds for random maps that keep distances and sparse supports share one sufficiency argument and not a necessity argument, while whether random features, superposition and expand-and-threshold maps fall under the same concentration fact, and whether the sparse-recovery transition is universal beyond Gaussian ensembles, stay open'
+title: 'Random-map thresholds: shared sufficiency only'
+statement: >-
+  The thresholds for random maps that keep distances and sparse supports
+  share one sufficiency argument and not a necessity argument, while whether
+  random features, superposition and expand-and-threshold maps fall under
+  the same concentration fact, and whether the sparse-recovery transition is
+  universal beyond Gaussian ensembles, stay open
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -26,7 +32,7 @@ integrates:
 <!-- inactive-ok-file: QUESTION-251 — Answered; cited with its standing -->
 <!-- inactive-ok-file: SYNTHESIS-082 — Proposed; cited with its standing -->
 
-# SYNTHESIS-085: The thresholds for random maps that keep distances and sparse supports share one sufficiency argument and not a necessity argument, while whether random features, superposition and expand-and-threshold maps fall under the same concentration fact, and whether the sparse-recovery transition is universal beyond Gaussian ensembles, stay open
+# SYNTHESIS-085: Random-map thresholds: shared sufficiency only
 
 *A part account of the formal-apparatus line: one of the line's eleven
 small clusters, three questions, all first in formal-apparatus, from the

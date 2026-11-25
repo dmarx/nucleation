@@ -3,7 +3,20 @@ number: 66
 status: Proposed
 formerly:
 - SYNTHESIS-tmpk0nka
-title: 'The pragmatic-transport line is twelve part accounts, of communicative kinds, of fidelity relative to receivers, of the communicative object and its obstructions, of what the line adds and how it is tested, of language models as a test bed, of composition in conditional generation, of directed transport by kernels, of the act a rendering keeps besides its proposition, of Saussure''s value, of frames and the judgement–observation loop, of reconstruction chains, and of conservation under kernels, with eleven moved promotion conditions integrated directly; the parts meet at what survives a rendering, which most of their questions refine, at the anchoring of a correspondence, at fidelity as a profile and at the frame as a configuration; four claims are filed by derivation and no link between the parts passes the claim test'
+title: 'Pragmatic transport: twelve parts around survival'
+statement: >-
+  The pragmatic-transport line is twelve part accounts, of communicative
+  kinds, of fidelity relative to receivers, of the communicative object and
+  its obstructions, of what the line adds and how it is tested, of language
+  models as a test bed, of composition in conditional generation, of
+  directed transport by kernels, of the act a rendering keeps besides its
+  proposition, of Saussure's value, of frames and the judgement–observation
+  loop, of reconstruction chains, and of conservation under kernels, with
+  eleven moved promotion conditions integrated directly; the parts meet at
+  what survives a rendering, which most of their questions refine, at the
+  anchoring of a correspondence, at fidelity as a profile and at the frame
+  as a configuration; four claims are filed by derivation and no link
+  between the parts passes the claim test
 version: 2
 history:
 - version: 2
@@ -63,7 +76,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-002 ARG-012 ARG-013 ARG-021 — Rejected; cited with its standing -->
 <!-- inactive-ok-file: SYNTHESIS-005 SYNTHESIS-011 — Superseded; named as not integrated -->
 
-# SYNTHESIS-066: The pragmatic-transport line is twelve part accounts, of communicative kinds, of fidelity relative to receivers, of the communicative object and its obstructions, of what the line adds and how it is tested, of language models as a test bed, of composition in conditional generation, of directed transport by kernels, of the act a rendering keeps besides its proposition, of Saussure's value, of frames and the judgement–observation loop, of reconstruction chains, and of conservation under kernels, with eleven moved promotion conditions integrated directly; the parts meet at what survives a rendering, which most of their questions refine, at the anchoring of a correspondence, at fidelity as a profile and at the frame as a configuration; four claims are filed by derivation and no link between the parts passes the claim test
+# SYNTHESIS-066: Pragmatic transport: twelve parts around survival
 
 *The account of the pragmatic-transport line, over the accounts of its
 parts ([ADR-083](../decisions.d/ADR-083.md)). It integrates every entry whose `line` includes

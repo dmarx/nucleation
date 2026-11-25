@@ -3,7 +3,14 @@ number: 60
 status: Proposed
 formerly:
 - SYNTHESIS-tmp48v4a
-title: 'A symmetry principle can be borrowed for reconstruction kernels but a conservation law has to be derived: under Markov kernels a harmonic observable conserves only its mean and an approximately harmonic one drifts by at most the summed defects, mean conservation does not make an observable a symmetry, on a finite irreducible chain only constants are harmonic, and which pragmatic observables real kernels conserve is open'
+title: 'Conservation laws must be derived, not borrowed'
+statement: >-
+  A symmetry principle can be borrowed for reconstruction kernels but a
+  conservation law has to be derived: under Markov kernels a harmonic
+  observable conserves only its mean and an approximately harmonic one
+  drifts by at most the summed defects, mean conservation does not make an
+  observable a symmetry, on a finite irreducible chain only constants are
+  harmonic, and which pragmatic observables real kernels conserve is open
 version: 2
 history:
 - version: 2
@@ -37,7 +44,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-059 CLAIM-068 — Proposed; the claim drafted at this review and a citation, with their standing -->
 <!-- inactive-ok-file: CLAIM-015 — Superseded; the claim CLAIM-040 objected to -->
 
-# SYNTHESIS-060: A symmetry principle can be borrowed for reconstruction kernels but a conservation law has to be derived: under Markov kernels a harmonic observable conserves only its mean and an approximately harmonic one drifts by at most the summed defects, mean conservation does not make an observable a symmetry, on a finite irreducible chain only constants are harmonic, and which pragmatic observables real kernels conserve is open
+# SYNTHESIS-060: Conservation laws must be derived, not borrowed
 
 *A part account of the pragmatic-transport line ("Contextual pragmatic
 information transport"): the inquiry into which observables reconstruction

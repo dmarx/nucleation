@@ -3,7 +3,15 @@ number: 80
 status: Proposed
 formerly:
 - SYNTHESIS-tmpemzd4
-title: 'Present stability does not show persistence: a system can hold a stable regime while it has no trajectory that keeps meeting its constraints, the statistics of survivors can be stationary and quickly reached while absorption is certain, a coupling can stay as strong as ever while the process maintaining it reaches its fold, a slow mode means different things according to which mode slows, and coupling separates time scales only where it dissipates differences'
+title: 'Present stability does not show persistence'
+statement: >-
+  Present stability does not show persistence: a system can hold a stable
+  regime while it has no trajectory that keeps meeting its constraints, the
+  statistics of survivors can be stationary and quickly reached while
+  absorption is certain, a coupling can stay as strong as ever while the
+  process maintaining it reaches its fold, a slow mode means different
+  things according to which mode slows, and coupling separates time scales
+  only where it dissipates differences
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -36,7 +44,7 @@ integrates:
 <!-- inactive-ok-file: SYNTHESIS-003 SYNTHESIS-006 — Superseded; cited as earlier accounts, not integrated -->
 <!-- inactive-ok-file: CLAIM-640 SYNTHESIS-076 SYNTHESIS-079 SYNTHESIS-082 SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-080: Present stability does not show persistence: a system can hold a stable regime while it has no trajectory that keeps meeting its constraints, the statistics of survivors can be stationary and quickly reached while absorption is certain, a coupling can stay as strong as ever while the process maintaining it reaches its fold, a slow mode means different things according to which mode slows, and coupling separates time scales only where it dissipates differences
+# SYNTHESIS-080: Present stability does not show persistence
 
 *A part account of the formal-apparatus line: the part a mechanical
 community map of the line's stored relations and mentions calls stability,

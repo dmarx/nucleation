@@ -3,7 +3,15 @@ number: 28
 status: Proposed
 formerly:
 - SYNTHESIS-tmpexmgz
-title: 'Whether the solutions training reaches are connected is asked of the solutions, the path family, the shared history and the regime: one construction shows two realizations of one function joined by a curve and separated by the straight line and by any budget below √2 times their cost; the record''s steps from pairs to many-model averages and to depth after alignment are Proposed; and whether the measured onsets, alignments and feature interpolation hold beyond the settings measured is open'
+title: 'Mode connectivity is relative to paths and regime'
+statement: >-
+  Whether the solutions training reaches are connected is asked of the
+  solutions, the path family, the shared history and the regime: one
+  construction shows two realizations of one function joined by a curve and
+  separated by the straight line and by any budget below √2 times their
+  cost; the record's steps from pairs to many-model averages and to depth
+  after alignment are Proposed; and whether the measured onsets, alignments
+  and feature interpolation hold beyond the settings measured is open
 version: 2
 history:
 - version: 2
@@ -51,7 +59,7 @@ bears_on:
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-2 rule its components were filed under -->
 <!-- inactive-ok-file: CASE-273 CLAIM-263 CLAIM-498 CLAIM-499 THEORY-107 THEORY-108 THEORY-109 THEORY-110 THEORY-209 — Proposed; components, citations and the decisions this account follows, with their standing -->
 
-# SYNTHESIS-028: Whether the solutions training reaches are connected is asked of the solutions, the path family, the shared history and the regime: one construction shows two realizations of one function joined by a curve and separated by the straight line and by any budget below √2 times their cost; the record's steps from pairs to many-model averages and to depth after alignment are Proposed; and whether the measured onsets, alignments and feature interpolation hold beyond the settings measured is open
+# SYNTHESIS-028: Mode connectivity is relative to paths and regime
 
 *A part account of the learned-structure line ([ADR-083](../decisions.d/ADR-083.md)); the line's account is built over it and its sibling parts.*
 
