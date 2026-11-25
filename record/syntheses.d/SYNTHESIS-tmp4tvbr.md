@@ -638,3 +638,59 @@ miscount. Of the 17, ten are restatements, three were rightly not made,
 and four failed as stated, of which J4.1 passed in a corrected form
 ([CLAIM-tmp7rl3d](../claims.d/CLAIM-tmp7rl3d.md)). The wording is the assistant's (Claude, in this session);
 adopting it is the owner's call.
+
+## Note of 2026-11-25: the verdicts on Part I's new joins J1.8 and J1.9
+<!-- inactive-ok-file: CLAIM-417 CLAIM-615 CLAIM-924 CASE-177 SYNTHESIS-040 SYNTHESIS-043 SYNTHESIS-046 SYNTHESIS-047 SYNTHESIS-049 SYNTHESIS-053 SYNTHESIS-077 SYNTHESIS-079 — Proposed; cited in the note of 2026-11-25 with the joins reader's verdicts -->
+
+The refresh of the manuscript governance-of-becoming to A51's order
+(2026-11-25) added two joins to Article 1, which the section "The joins of
+the manuscript governance-of-becoming, Part I" does not list. An
+independent reader tested both under ADR-075's step 5 in the refresh's
+fact-check (FACTCHECK-2026-11-25-part-i-refresh.md, Part B), against the
+three routes and the "Not stated on the record" sections of SYNTHESIS-040,
+SYNTHESIS-043, SYNTHESIS-046, SYNTHESIS-047, SYNTHESIS-049, SYNTHESIS-053,
+SYNTHESIS-077 and SYNTHESIS-079. They belong under "Not stated on the
+record" with the other Part I verdicts:
+
+- **J1.8** (Article 1 §1.11), the negative results as one table, with A51
+  §5's "what not to infer" column, read as A51's "Behavior does not
+  identify organization" and "Coordination does not establish
+  individuation", each in its stated model. **A restatement**: a
+  conjunction of its rows, each held by its own entry in its own model,
+  so no case can have every row hold and the table fail. No account
+  declines this join; SYNTHESIS-043's "Capability as not one quantity"
+  declines the same shape, and SYNTHESIS-079's "One ladder of what
+  separates" declines an ordering the table does not make. Two rows were
+  corrected to their entries' words: CASE-346's habit of matched memory
+  reproduces "the responses to belief correction, authority reset and
+  restored evidence", and "Only interventions on the evaluation tell the
+  two apart" (CLAIM-924 says the same), not every intervention; and
+  CASE-177 shows dependence growing "with no new collective function",
+  while that interdependence is not individuality is held in
+  QUESTION-277's notes, the Black Queen route, as SYNTHESIS-053's "Not
+  stated on the record" says.
+- **J1.9** (Article 1 §1.2, §1.13), A51's thesis that organizational
+  identity is "a plurality of related achievements rather than a single
+  equivalence relation", which the article maps to TERM-088, CLAIM-474,
+  CLAIM-405 and CLAIM-590 and does not assert. **Correctly not made; as a
+  claim it fails**: a recap on the weak reading, a free parameter on the
+  strong. On the weak reading, that no single equivalence relation fixes
+  identity across the senses and criteria the record keeps apart, it
+  follows trivially from TERM-088's "are not stages", CLAIM-405's
+  relativity to a criterion and CLAIM-590's relativity to a category. On
+  the strong reading, a plurality even for a fixed sense and criterion,
+  neither "organizational identity" nor "related" is fixed by any
+  component, any case in which one fixed-criterion relation decides
+  identity is absorbed as one member of the plurality, and no separating
+  case or discriminating prediction can be stated: ADR-075's third guarded
+  failure. The record's one criterion of identity over time is causal
+  transmission (CLAIM-329, Active; CLAIM-615, Proposed), and CLAIM-417
+  keeps "Numerical organizational identity" apart from resemblance and
+  descent (A40), so the weak reading is about individuation rather than
+  identity. Article 1 §1.13 now names CLAIM-329 and CLAIM-615 beside the
+  four parts.
+
+Neither verdict adds a component or a link to this account. The
+manuscript's other Part I joins and their verdicts are unchanged. The
+wording is the assistant's (Claude, in this session); adopting it is the
+owner's call.
