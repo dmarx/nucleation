@@ -112,3 +112,21 @@ the other. The join has not yet been put to an independent reader under
 [ADR-075](../decisions.d/ADR-075.md). No change of status; the rulings on [CLAIM-1184](CLAIM-1184.md) and on [CLAIM-911](CLAIM-911.md)
 to CLAIM-913 stay the owner's. The wording is the assistant's (Claude, in
 this session).
+
+**Correction of 2026-11-25 (the review of Part III, Part B).** The
+review's independent reader of the joins tested J8.2 under ADR-075. The
+parallel is accurate, and this note is right as a note, but the join
+fails as a claim: "a non-instrumental reason accepted in one is a
+candidate in the other" admits no separating case, since "candidate"
+absorbs every outcome. Its general form is held already, by CLAIM-909:
+matched constructions discriminate "only when they hold fixed what a
+power's holder would do with it", and there "the verdict turns on
+whether a reason to hold or share a power, apart from its use, is an
+input" reasonable rejection admits. ARG-228 is a construction of that
+form for standing to contest, so the shared form is CLAIM-909 applied to
+ARG-228, a restatement. One detail: of CASE-336's two variants, C2*
+(who controls review) is nearer to ARG-228's standing than C4* (who
+holds the power to revise), and this note's "standing to be heard is not
+a share of a power to revise" separates ARG-228 from C4* only. No change
+of status. The wording is the assistant's (Claude, in this session);
+adopting it is the owner's call.

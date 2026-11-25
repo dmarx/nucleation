@@ -184,6 +184,49 @@ not why it is a wrong. Whether it is one stays with [CLAIM-723](CLAIM-723.md),
 [CLAIM-1155](CLAIM-1155.md) and the owner's ruling on [CLAIM-1184](CLAIM-1184.md). The join has not yet
 been put to an independent reader under [ADR-075](../decisions.d/ADR-075.md).
 
+<!-- inactive-ok-file: CLAIM-745 SYNTHESIS-102 — Proposed; the categorical gate and the account whose Arm B declined its join with this claim, cited as precedent -->
+
+**Correction of 2026-11-25 (the review of Part III, Part B).** The
+second bullet above is wrong. The review's independent reader of the
+joins tested J8.1 under ADR-075 and found that it misstates this claim.
+CLAIM-723's defeat is "Foreclosure", T_foreclosure < T_opportunity: the
+act made the standing ineffective "before it could be exercised", which
+is an event in the realized history. Where "the objection would have
+failed", the arrangement that respects the standing and the one that
+defeats it reach the same endpoint by different histories, the objection
+heard and refused in one and foreclosed in the other. ARG-228 is the
+same: in O₂ "the objection arrives and is filed as a non-incident", which
+is again in the history. That is this claim's *first*
+separation, between endpoint and history, which an evaluation of
+histories can represent (a standard over histories, CLAIM-523's 𝓗_N,
+can require that no act be made irreversible before an objection can take
+effect), not its second. The policy level is
+reached only on a history in which no objection is made, where the two
+arrangements differ only in what they would have done with one. The
+corrected sentence:
+
+> Where the objection would have failed, respecting and defeating a
+> standing to contest reach the same endpoint by different histories
+> (CLAIM-741's first separation), so an evaluation of endpoints cannot
+> represent the defeat and one of histories can; only where no objection
+> is made does the difference lie in policy alone (its second
+> separation).
+
+The third bullet follows it: CLAIM-723's "even where the objection would
+have failed" is what a constraint on histories looks like when the
+endpoint is fixed, and a policy-level constraint only on the history with
+no objection. The link applies this claim to CLAIM-723 and adds no
+inference. SYNTHESIS-102's Arm B is the precedent: it tested CLAIM-745
+with this claim (a categorical gate failing a right "at the level of
+policy") and did not file it, as "a substitution instance of CLAIM-741's
+second separation in CLAIM-745's model, an inference CLAIM-741 already
+holds". The paragraph after the bullets stands: the claim explains why a
+defeat of standing is invisible to an evaluation of endpoints, not why it
+is a wrong. (The review's Part A, §1.3, numbers the two separations in
+the order of this claim's title; the body numbers them as here, and Part
+B follows the body.) No change of status. The wording is the assistant's
+(Claude, in this session); adopting it is the owner's call.
+
 ## Note of 2026-11-25: what holds it back
 <!-- inactive-ok-file: CLAIM-735 CLAIM-908 CLAIM-tmp9xge5 — Proposed or new; entries that use this claim, cited as evidence of reliance -->
 

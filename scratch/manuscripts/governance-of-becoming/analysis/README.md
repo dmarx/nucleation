@@ -18,8 +18,16 @@ script follows its Nash share over time. It then ends the supply before
 and after CLAIM-605's deadline, runs five controls (capacity-first
 supply; partial substitution below CLAIM-605's a*; CLAIM-602's model,
 which has no threshold; CASE-264's arm B, with no exit; take-it-or-leave-it
-with exit), and varies the discount rate. Every figure it prints is
-asserted, so a run that prints "checks pass" reproduces them.
+with exit), and varies the discount rate. It asserts the components
+(threshold, kept state, deadline, the held splits), the half-unit
+property, and the shape of the results (the steepest fall at the deadline
+for r ≤ 0.25 with a single crossing, restoration exactly before the
+deadline, the controls). Its other figures, the table's values and the
+percentages among them, are not asserted: a run that prints "checks pass"
+reproduces them only when its output is compared with the dated output
+below, which it matched byte for byte on 2026-11-25. (Corrected
+2026-11-25 on the review of Part III, Part A 2.17, which found that the
+first wording, "Every figure it prints is asserted", overclaimed.)
 Deterministic; standard library only; about ten seconds.
 
 **Run** from the repository root:
@@ -46,5 +54,7 @@ steepest (r ≤ 0.25) and failed as a step except for a patient party.
 - `fallback_decay_bargaining.2026-11-25.txt`: the run of 2026-11-25.
 
 **Held as** CLAIM-tmp6nzs1 (Proposed, demonstrated in the model), with
-dated notes of 2026-11-25 on LEAD-tmpeo8wq and CLAIM-tmp2jhc1. Not yet
-recomputed by another session.
+dated notes of 2026-11-25 on LEAD-tmpeo8wq and CLAIM-tmp2jhc1.
+Recomputed independently by the joins reader of the review of Part III
+(REVIEW-2026-11-25-part-iii.md, Part B), from separate code written from
+the claim's stated model: `../review-III-B-indep-check.py`.

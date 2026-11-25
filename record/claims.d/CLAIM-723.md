@@ -249,8 +249,11 @@ made that standing ineffective before it could be exercised", is met, for
 objectionable actions only, by timing alone.
 
 It measures the occasion of CLAIM-723's wrong, not the wrong. The model
-has no affected party (the standing is the overseer's power to suspend),
-does not count objections that would have failed, which are the case
+has no party harmed by the act; the party with standing is the overseer,
+whose standing is its power to suspend (corrected 2026-11-25 on the
+review of Part III, Part B, J8.3, from "no affected party": CLAIM-723's
+party that "has standing to authorize, suspend or contest" can be an
+overseer). It does not count objections that would have failed, which are the case
 CLAIM-723 is distinctive for, and models neither attribution to the
 actor's timing or control over execution (condition three; [CASE-316](../cases.d/CASE-316.md)
 lists among what it cannot show "Intent to outrun review") nor justification (condition

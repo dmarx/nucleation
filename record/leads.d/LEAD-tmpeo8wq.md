@@ -180,3 +180,35 @@ the authority index W, and the four predicates per transition. The
 computation is the assistant's, run by its filer only. No status change;
 whether this narrows the lead further is the owner's call. The wording is
 the assistant's (Claude, in this session).
+
+**Correction of 2026-11-25 (the review of Part III, Parts A and B).**
+Two points in the note above overstate.
+
+- **"So for a scalar capacity the shrinkage moves the terms either
+  way."** The second note's two readings are classifications of the
+  decline, not valuations of the fallback, and the computation's two
+  valuations (current output and the forward value) are both functions of
+  P's capacity, so they do not map onto the readings. On the first
+  reading (capacity is the actor's state), no transition's price changes
+  and the terms move on either valuation, so this lead's open item,
+  "whether solo reach's shrinkage, not a price, moves the terms the other
+  can offer", is answered yes, for a scalar capacity; the deadline shows
+  in the terms on the forward valuation only. On the second reading
+  (reaching a configuration includes rebuilding the capacity), the same
+  decline is a rise in i's incoming costs and this lead's null applies:
+  the terms still move, but by what the lead counts as a price, so the
+  item is not answered yes. The forward valuation is not the second
+  reading: it counts the capacity's natural recovery, not a cost of
+  rebuilding. Which reading the lead means is still to be said before
+  step 3 is counted as done.
+- **"With no transition's price changed and no exit."** The split is
+  re-solved against the current fallback at each t, so the model assumes
+  renegotiation: the terms change, and what is fixed is every price, the
+  bargaining rule and P's choice to stay. And "Capacity-first supply …
+  moves nothing" holds because, in CLAIM-605's model, capacity-first
+  supply is the unsupported dynamics: there is no decay for it to stop,
+  and a party already below the threshold decays under it anyway.
+
+CLAIM-tmp6nzs1 is revised to match (version 2). No status change. The
+wording is the assistant's (Claude, in this session); adopting it is the
+owner's call.

@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: "The argument filed from the exchange Memes, Contracts, and Systemic Normativity, mapped: from the owner's memes as nucleation sites and as characters of perspectives, through contracts between processes and implicit contracts formed by reliance, to norms stabilized by dependence, exploitation as the asymmetric use of reliance, and the exchange's applications to engineering reliability, American governance, three constitutional theories, legibility, metrics and corporate objectives"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-24'
@@ -27,6 +27,19 @@ history:
     as an independent reader tested them under ADR-075: one passed in a
     corrected form and is integrated (CLAIM-tmp7rl3d); the rest are listed
     under Not stated on the record.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Places the 19 joins of the manuscript governance-of-becoming, Part
+    III, as an independent reader tested them under ADR-075 (the review of
+    Part III, Part B): one passed in a corrected form and is integrated
+    (CLAIM-tmp6nzs1, revised to version 2), three misstated a component,
+    two failed as claims, four were correctly not made and nine are
+    restatements, listed under Not stated on the record. Records that the
+    dated notes filed from the drafts stated untested joins, which these
+    verdicts supersede. Corrects the pointer to "Article 7's list of
+    inconsistencies" in the note on two parts out of date. No other
+    change.
 defeated_if: >-
   A component misstated or misattributed here, with the owner's turns,
   A's (ChatGPT's) candidate syntheses and the assistant's gap fills and
@@ -78,6 +91,7 @@ bears_on:
 - QUESTION-128
 - QUESTION-071
 integrates:
+- CLAIM-tmp6nzs1
 - CLAIM-tmp7rl3d
 - CLAIM-tmpu77ve
 - CLAIM-tmp9ia3w
@@ -452,7 +466,12 @@ is attributed to the entry that states it.
 10. **Morality and cooperation.** On the owner's U18 ([CLAIM-tmp1fj5p](../claims.d/CLAIM-tmp1fj5p.md)),
    morality evaluates the terms of cooperation and reaches parties beyond
    it ([CLAIM-tmpreipd](../claims.d/CLAIM-tmpreipd.md)). A fallback kept unused changes the terms others
-   offer ([CLAIM-tmp2jhc1](../claims.d/CLAIM-tmp2jhc1.md)).
+   offer ([CLAIM-tmp2jhc1](../claims.d/CLAIM-tmp2jhc1.md)). Where the fallback is a capacity learned by
+   doing that the arrangement's own supply erodes, the terms fall at each
+   renegotiation while the party never exits and no price, rule or exit
+   changes, and ending the supply restores them only before CLAIM-605's
+   deadline (CLAIM-tmp6nzs1, a derivation checked in a model; from the
+   joins of Part III, below).
 11. **Reliability and its dependants.** Reliability above a guarantee can
    erode the fallbacks of those who depend on it ([CLAIM-tmpb1wyc](../claims.d/CLAIM-tmpb1wyc.md)), and
    institutions can rely on restraint the law does not guarantee
@@ -620,6 +639,79 @@ readings' demands bear on different situations). The others:
   J6.6 (conjunctions).
 - **Rightly not made:** J4.2, J5.4, J5.7.
 
+
+### The joins of the manuscript governance-of-becoming, Part III
+<!-- inactive-ok-file: CLAIM-tmp6nzs1 CLAIM-tmpjitli CLAIM-tmps8ou2 CLAIM-tmpsh3og CLAIM-tmpjnly0 CLAIM-tmpdu9v6 CLAIM-954 CASE-367 CLAIM-415 CLAIM-741 CLAIM-723 ARG-228 SYNTHESIS-102 CLAIM-745 CLAIM-670 CASE-362 CASE-336 CLAIM-946 CLAIM-909 CLAIM-1184 CLAIM-913 CASE-316 TERM-124 CLAIM-742 CLAIM-717 CLAIM-603 — Proposed or new; the joins' components and the entries their verdicts name, cited with their standing -->
+
+The drafts of Articles 7 to 9 closed with 19 joins: J7.1 to J7.4, JR7.1
+and JR7.2; J8.1 to J8.5, JR8.1 and JR8.2; J9.1 to J9.6. An independent
+reader tested each under ADR-075 on 2026-11-25 (the review of that date,
+REVIEW-2026-11-25-part-iii.md, Part B). One passed in a corrected form
+and is integrated above: CLAIM-tmp6nzs1 (Article 9's J9.1, by derivation:
+where a party's fallback is valued from a capacity in CLAIM-605's model
+and its terms are bargained against it, supply that does its work lowers
+the terms while it never exits and no price, rule or exit changes, and
+ending the supply restores them before the capacity's deadline and not
+after). Its content of its own is the deadline carried into the terms;
+that the terms fall with an eroded fallback is held already as
+comparative statics (CLAIM-tmp2jhc1's A24 §4). It was revised to version
+2 on the reader's five corrections (renegotiation stated as an
+assumption, the capacity-first clause, the derivation in the body, a
+defeater that can be met, the readings of LEAD-tmpeo8wq narrowed) and
+rechecked by the reader from separate code. The others:
+
+- **Misstated a component** (3), each leaving a restatement: J7.3
+  (CLAIM-402's decomposition and CLAIM-415's self-sealing: CASE-367 holds
+  its classes fixed, so both arms lie in the performative term and the
+  randomized probe is CLAIM-402's second separating intervention; the
+  remainder is CLAIM-954, and the residue a dated note on it); J8.1
+  (CLAIM-741: the defeat in CLAIM-723 and ARG-228 is a difference in
+  history, CLAIM-741's first separation, not a failure at the level of
+  policy; the remainder is CLAIM-741 applied, as SYNTHESIS-102's Arm B
+  found for CLAIM-745); J9.2 (in the Nash arm P's share never falls
+  below its fallback at the start, so P never gets terms it could earlier
+  have refused; what the computation models is the falling floor of
+  CLAIM-670's note, now among CLAIM-tmp6nzs1's limits).
+- **Failed as claims** (2): J7.4's carry-over from CASE-362 to
+  CLAIM-tmphq6hp's marker (it rests on a free parameter, who does the
+  restoring; the comparison it asks for is CASE-362's enforce arm, which
+  CLAIM-946's body states, and CLAIM-522 names the intervention on the
+  mechanism that would separate the two); J8.2 ("a candidate in the
+  other" admits no case; the shared form of ARG-228 and CASE-336's
+  variants is CLAIM-909's).
+- **Correctly not made** (4): J8.4 (a conjunction of three
+  non-implications: CLAIM-749, A71's rider and CLAIM-tmpsh3og); J8.5 (A51's
+  closing sentence conflicts with CLAIM-tmpreipd's item 4 and CLAIM-547's
+  third achievement); J9.5 (enshittification as domination; the right
+  reason is that no standard of answerability is declared, since
+  CLAIM-tmpjnly0's optimizing institution is a holder in TERM-124's
+  sense); J9.6 (contestation and exit costs in one model; nothing to
+  test, it is gap G9.3, LEAD-tmp3w42f).
+- **Restatements** (9): J7.1 (CLAIM-270's retention against drift, with
+  TERM-027, applied to CLAIM-tmpjitli's criterion); J7.2 (each entry's own
+  bistability, and JR7.2; its "a norm outlasting its baseline" misstates
+  CLAIM-tmps8ou2, under which a norm outlasts a weakening of its baseline
+  within the bistable range); JR7.1 (CLAIM-tmpnws9d's summary); JR7.2
+  (LEAD-tmpiktom's step 1); J8.3 (CASE-316 measures the occasion of
+  CLAIM-723's foreclosure, not the wrong); JR8.1 (CLAIM-725, CLAIM-075 and
+  CLAIM-060, each in its own scope); JR8.2 (CLAIM-742 and CLAIM-717); J9.3
+  (CLAIM-603's note of 2026-11-12); J9.4 (CLAIM-tmpdu9v6; the fallback
+  channel moves the terms by the value of the disagreement point, not by
+  a price).
+
+**The notes filed from the drafts.** Before the test, the drafts' joins
+were placed as dated notes of 2026-11-25 on CLAIM-723, CASE-316,
+CLAIM-741, CLAIM-1184, CLAIM-913, CLAIM-tmpjitli, CLAIM-tmphq6hp,
+CLAIM-tmp2jhc1, LEAD-tmpiktom and LEAD-tmpeo8wq. Those notes stated joins
+that had not been tested, and the verdicts here supersede them. Each the
+reader found wrong or overstated now carries a correction of 2026-11-25:
+the notes on CLAIM-tmphq6hp and CLAIM-741 are revised; those on
+CLAIM-tmp2jhc1 and LEAD-tmpeo8wq are corrected on one point each; those
+on CLAIM-1184 and CLAIM-913 add CLAIM-909; those on CASE-316 and
+CLAIM-723 have one wording fixed. The note on CLAIM-tmpjitli was found
+right. The wording of this section is the assistant's (Claude, in this
+session); adopting it is the owner's call.
+
 ## What it does not say
 
 It does not say that memes are characters of perspectives, which of the
@@ -644,8 +736,11 @@ adopting it is the owner's call.
 
 The drafts of Articles 7 and 8 found two places where this account
 predates the owner's rulings of 2026-11-24. Neither is corrected here:
-the next synthesis review revises the account (G8.2 of Article 8; Article
-7's list of inconsistencies).
+the next synthesis review revises the account (G8.2 of Article 8, for
+the first). The first version of this note also pointed to "Article 7's
+list of inconsistencies" for the second; Article 7 has no such list and
+does not mention the U4 item, so the pointer is withdrawn (corrected
+2026-11-25 on the review of Part III, Part A, §1.1).
 
 - **Institutional sociopathy.** The part "A46" and item 14 of the
   account gloss [CLAIM-tmptrn75](../claims.d/CLAIM-tmptrn75.md) as "Institutional sociopathy as
