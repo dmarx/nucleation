@@ -1,7 +1,21 @@
 ---
 status: Proposed
 title: 'Nucleation is a reference implementation of a governed research record and of views generated over it, not of hyperarticle publishing: it has no distributed editorial network and no archival or identifier guarantees beyond its repository'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition without
+    citing it, in §4. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -13,6 +27,7 @@ tags:
 date: '2026-11-25'
 line:
 - record-as-apparatus
+- scholarly-publishing
 complements:
 - CLAIM-178
 - CLAIM-469
@@ -28,6 +43,8 @@ summary: >-
   yet exist". One of A45's three lacks is corrected in the body. The wording
   is A's (ChatGPT's, at A45 of the exchange "Hyper article interpretation");
   adopting it is the owner's call.
+works:
+- hyperarticles
 ---
 
 <!-- inactive-ok-file: CLAIM-178 ADR-143 — Proposed; the manuscript-as-view claim and the manuscript protocol -->

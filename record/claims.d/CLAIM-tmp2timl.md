@@ -1,7 +1,21 @@
 ---
 status: Proposed
 title: 'Replacing publication count with a count taken from a maintained record, of claims, corrections, endorsements or dependencies, reproduces the proxy problem it replaces, because researchers will shape the record to the count; an accountable history of contributions is evidence for an evaluation and not a score computed from the record'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition without
+    citing it, in §8. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -15,6 +29,7 @@ tags:
 date: '2026-11-25'
 line:
 - record-as-apparatus
+- scholarly-publishing
 rests_on:
 - CLAIM-402
 - CLAIM-266
@@ -32,6 +47,8 @@ summary: >-
   evidence for evaluation, not a replacement for evaluation". The wording
   is A's (ChatGPT's, at A21 and A24 of the exchange "Hyper article
   interpretation"); adopting it is the owner's call.
+works:
+- hyperarticles
 ---
 
 # CLAIM-tmp2timl: Replacing publication count with a count taken from a maintained record, of claims, corrections, endorsements or dependencies, reproduces the proxy problem it replaces, because researchers will shape the record to the count; an accountable history of contributions is evidence for an evaluation and not a score computed from the record

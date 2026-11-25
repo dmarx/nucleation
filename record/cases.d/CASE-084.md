@@ -5,13 +5,20 @@ formerly:
 - CASE-tmp96sdo
 title: 'The perfectly accountable false theory: a community whose record traces
   every commitment and whose vocabulary leaves out the right explanation'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
   note: >-
     Line nucleating-argument replaced by records-of-inquiry, at the split of that
     line (ADR-082). No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -20,6 +27,7 @@ tags:
 date: '2026-10-15'
 line:
 - records-of-inquiry
+- scholarly-publishing
 illustrates:
 - CLAIM-181
 - CLAIM-190

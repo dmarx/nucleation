@@ -6,13 +6,19 @@ formerly:
 title: A state sufficient for a family of decisions under a model makes the rest
   of an inquiry's history worthless for those decisions, and it can stop being sufficient
   when a source is discredited, the model is revised or the decisions change
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
   note: >-
     Line nucleating-argument replaced by records-of-inquiry, at the split of that
     line (ADR-082). No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    A45 in the exchange "Hyper article interpretation" states its
+    proposition without citing it, in §3. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -41,6 +47,8 @@ summary: >-
   or test a mixture. Sufficiency was always relative to the model and the family.
   [CLAIM-152](CLAIM-152.md) says the same of individuation by target; this says it of a retained
   state over time.
+works:
+- conditions-of-correction
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: A record kept in git passes the migration test for its sources and their history, which are content-addressed and travel with any clone, but not for what lives only on its host, such as pull-request descriptions, reviews and CI logs, which keep the owner's choices before they are filed and which hundreds of its files cite by number, nor for authorship, which most of its commits do not sign
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -15,6 +23,7 @@ tags:
 date: '2026-11-25'
 line:
 - record-as-apparatus
+- scholarly-publishing
 rests_on:
 - CLAIM-tmpk6vy2
 complements:

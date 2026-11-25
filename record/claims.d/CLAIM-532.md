@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbeh2e
 title: 'An unresolved discrepancy is an occasion for self-formation, the transformation dimension of a will-organization, and not a guarantee of it; it suffices for self-formation that the agent''s own activity on such a discrepancy produce a maintained capacity, either a new distinction, its policy coming to depend on a feature of its situation it did not depend on, or a new channel, the outcomes it can reach under its own policy growing, that outlasts the discrepancy and serves a class of later ones, as shown by transfer to discrepancies of the same class after the inducing conditions are gone and by interventions on the processes that produce the capacity while it forms'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-06'
@@ -60,6 +60,12 @@ history:
     A dated note: First Contact, read locally (NOTE-2236), is a case of
     the new-channel route that runs neither of this claim's tests. No change
     of status or title.
+- version: 7
+  date: '2026-11-25'
+  note: >-
+    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    A45 in the exchange "Hyper article interpretation" states its
+    proposition or uses it as a step, in §6. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -120,6 +126,8 @@ summary: >-
   Restated on 2026-11-18 at the owner's direction as an occasion and a
   sufficient condition, with its products defined by behaviour rather
   than mechanism.
+works:
+- conditions-of-correction
 ---
 <!-- inactive-ok-file: CLAIM-788 — Proposed; the dated note of 2026-11-21 -->
 <!-- inactive-ok-file: ARG-060 — filed from the same exchange, Proposed -->

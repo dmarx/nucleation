@@ -1,7 +1,21 @@
 ---
 status: Proposed
 title: A journal can be a feed over editors, its editors being taggers who attach attributable judgements to work wherever it is published, as Bluesky's labellers attach labels to posts they do not host, so that editorial judgement is separated from publication
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition without
+    citing it, in §6. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -16,6 +30,7 @@ tags:
 date: '2026-11-25'
 line:
 - records-of-inquiry
+- scholarly-publishing
 uses:
 - TERM-tmpx49xx
 complements:
@@ -27,6 +42,8 @@ summary: >-
   editors". A10 develops it, splitting authors, editors and journals, and
   A's refinement of what a tag must carry is [CLAIM-tmpnqzvj](CLAIM-tmpnqzvj.md). Filed in the
   owner's voice.
+works:
+- hyperarticles
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpnqzvj CLAIM-tmptn64c CLAIM-tmpv0sv7 — Proposed; the owner's feed and hyperarticle, A's refinement, the assistant's gap fill, and the owner's U6 -->

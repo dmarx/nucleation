@@ -45,6 +45,8 @@ summary: >-
   its own pull request into staging.
 ---
 <!-- inactive-ok-file: LIT-tmp9cdlq THEORY-tmpqj2d4 ARG-tmp68y3c — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
+
+<!-- inactive-ok-file: THEORY-tmptsz1u ARG-tmpcpo8g CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: CLAIM-949 — Proposed; the claim this lead tests -->
 
 # LEAD-215: Read the type-theoretic sources for the account of specification, propositions as problems, realizability, refinement types and bidirectional typing, to test the correspondences the record states from memory
@@ -139,3 +141,13 @@ is left to the Martin-Löf item, and a reading of Kreisel's modified
 realizability (1959) or Troelstra's handbook chapter would serve if it is
 wanted. Kleene's paper, read, would settle the clauses. The lead's status
 and stage are the owner's.
+
+## Note of 2026-11-22: Dunfield and Krishnaswami, read
+
+Dunfield and Krishnaswami (2021) registered and read: [LIT-tmpqagik](../literature.d/LIT-tmpqagik.md), [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md),
+[THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md). On the lead's question: inference against checking matches the
+direction of fit as fact against requirement, in the authors' own words,
+but neither mode moves the term, and where the type comes from (mode) is
+not who must fit whom ([ARG-tmpcpo8g](../arguments.d/ARG-tmpcpo8g.md), [CLAIM-tmpugw2q](../claims.d/CLAIM-tmpugw2q.md)). Where elaboration sits is not
+answered by the survey; [LEAD-tmp7mkn0](LEAD-tmp7mkn0.md) plans that reading. The other four
+readings remain.

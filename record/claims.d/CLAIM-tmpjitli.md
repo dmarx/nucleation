@@ -105,3 +105,38 @@ transmitted perspective, descent and resemblance.
 - **Standing.** A5's close, "This would situate memetics within
   Nucleation's non-eliminative structural realism", tells as the record's
   position what [CLAIM-136](CLAIM-136.md) holds as a Proposed thesis.
+
+## Note of 2026-11-25: fidelity against convergence, from the manuscript governance-of-becoming, Article 7
+<!-- inactive-ok-file: CLAIM-tmp590sw — Proposed; the owner's claim the note says fits the point -->
+
+The manuscript's Article 7 (§7.2, join J7.1) reads this claim's measure of
+success against the record's transport floor. A5 §3 reads success as
+χ(P_A) ≈ χ(P_B): a source and a carrier that agree in their
+characteristic relations. But [CLAIM-270](CLAIM-270.md) (Active, demonstrated) holds that
+"convergence is not preservation", and [TERM-027](../terms.d/TERM-027.md) (Active) that an
+attractor "is where the chain goes whatever its start, so reaching it is
+evidence of forgetting the start". So agreement between source and
+carrier in characteristic relations is not, by itself, evidence that the
+relations were transmitted: they may be where reconstruction tends,
+whatever the source held. Evidence of fidelity needs the start to matter,
+either different sources leading to different endpoints under the same
+reconstruction, or a relation the chain conserves at every step, which by
+[CLAIM-635](CLAIM-635.md) (Active, demonstrated) keeps information about the start at
+every generation.
+
+This claim's defeater compares transmitted memes with transmitted
+propositions, not with convergence, so a test built on it could pass by
+attraction alone. [TERM-027](../terms.d/TERM-027.md)'s note of 2026-11-24 contrasts an attractor
+with a nucleator, not fidelity with convergence. A test of the claim
+should therefore vary the source and hold the reconstruction fixed;
+[LEAD-tmpqucxc](../leads.d/LEAD-tmpqucxc.md), which would test the claim by transferring memes between
+matched populations, needs such an arm. The owner's [CLAIM-tmp590sw](CLAIM-tmp590sw.md)
+fits the point from the other side: on it, reproduction diversifies the
+perspectives it touches rather than converging them.
+
+Filed as a note, not a claim ([ADR-072](../decisions.d/ADR-072.md)): the content is the held floor,
+[CLAIM-270](CLAIM-270.md) and [TERM-027](../terms.d/TERM-027.md), applied to this claim's success criterion, and
+has no content of its own beyond the application. The join has not yet
+been put to an independent reader under [ADR-075](../decisions.d/ADR-075.md). No change of status. The
+wording is the assistant's (Claude, in this session); adopting it is the
+owner's call.

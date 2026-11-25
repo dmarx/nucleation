@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpr4sof
 title: 'Under a fixed dynamical model an added hard constraint cannot enlarge the set of admissible trajectories, so it cannot enlarge what some admissible path reaches or lower the least cost of reaching it; what it can improve is a property required of every path a disturbance or a given process may take, such as robustness or reliability, and a constraint that does more has changed the mechanism'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-06'
@@ -39,6 +39,13 @@ history:
     manuscript from the exchange "Explain First Contact RL": A48 §2 states
     its proposition, and §9.3 uses it for the redesigned route. No other
     change.
+- version: 6
+  date: '2026-11-25'
+  note: >-
+    Gains the line governing-possibility (atlas scope 14) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -60,6 +67,7 @@ date: '2026-11-05'
 line:
 - realizability
 - formal-apparatus
+- governing-possibility
 works:
 - governance-of-possibility
 - cost-structure-of-possibility

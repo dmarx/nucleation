@@ -155,3 +155,60 @@ it concerns exist, and which they are, is not part of it.
   refusal overridden) but cannot certify it.
 - Not that all rights are of this kind. A claim-right to a delivery is an
   outcome requirement and fits an acceptance set.
+
+## Note of 2026-11-25: defeated standing, from the manuscript governance-of-becoming, Article 8
+<!-- inactive-ok-file: CLAIM-723 CLAIM-1155 CLAIM-1184 ARG-228 — Proposed; the held form of the wrong of defeated standing, the objection to it, its reply, and this claim's construction, cited with their standing -->
+
+The manuscript's Article 8 (§8.4.4, join J8.1) joins this claim to
+defeated standing, which no entry had done: none of [CLAIM-723](CLAIM-723.md), [CLAIM-1155](CLAIM-1155.md)
+or [ARG-228](../arguments.d/ARG-228.md) cites it. The link, in its limited form:
+
+- This claim's defeater counts "a right of refusal (or of appeal, or an
+  easement)" among the rights it covers. Standing to contest an act is of
+  that kind: it protects a choice, to object, not an outcome.
+- In [CLAIM-723](CLAIM-723.md)'s case where "the objection would have failed", and in
+  [ARG-228](../arguments.d/ARG-228.md)'s matched utilities, the arrangement that respects the standing
+  and the one that defeats it reach the same realized outcome. By this
+  claim's second separation, an evaluation over realized histories
+  "cannot represent" the difference.
+- So [CLAIM-723](CLAIM-723.md)'s "even where the objection would have failed" is what a
+  policy-level right looks like when the outcome is fixed, not a paradox.
+
+The join stops there. This claim is about representation, what an
+evaluation over histories can see. It does not say that failing a
+policy-level constraint wrongs anyone beyond expected harm: an
+instrumentalist can accept it and still judge policies by the harm they
+are expected to cause, which is [CLAIM-1184](CLAIM-1184.md)'s second premise. So the
+policy test explains why a defeat of standing is invisible in outcomes,
+not why it is a wrong. Whether it is one stays with [CLAIM-723](CLAIM-723.md),
+[CLAIM-1155](CLAIM-1155.md) and the owner's ruling on [CLAIM-1184](CLAIM-1184.md). The join has not yet
+been put to an independent reader under [ADR-075](../decisions.d/ADR-075.md).
+
+## Note of 2026-11-25: what holds it back
+<!-- inactive-ok-file: CLAIM-735 CLAIM-908 CLAIM-tmp9xge5 — Proposed or new; entries that use this claim, cited as evidence of reliance -->
+
+A note for the targeted promotion review (write-manuscript step 6a), from
+the same draft.
+
+- **No premise.** It rests on no claim. Its only ground is [CASE-283](../cases.d/CASE-283.md)
+  (Proposed, construction, stipulated), whose "Checked" section is its
+  filer's.
+- **No objection.** No claim objects to it and no ARG concludes or
+  undercuts it; the record has not tested it dialectically.
+- **Checked only by its filer.** No history note, case or fact-check
+  records a second session rechecking the two constructions, as the
+  promotions delegated on 2026-11-24 for independently recomputed
+  demonstrated claims require.
+- **Its defeater is open, and narrow.** It asks for a history-only
+  representation that separates the two patient arrangements on the
+  consenting history, which the construction rules out, or an argument
+  that such rights protect only outcomes. No such argument is on the
+  record.
+
+What would clear it: a recheck of [CASE-283](../cases.d/CASE-283.md) by another session, and an
+objection filed and answered (the outcome-only reading of rights of
+refusal is the natural one). Several entries use it ([CLAIM-725](CLAIM-725.md),
+[CLAIM-735](CLAIM-735.md), [CLAIM-908](CLAIM-908.md), [CLAIM-571](CLAIM-571.md)'s note, [CLAIM-tmp9xge5](CLAIM-tmp9xge5.md)), so its use is
+evidence of reliance, not of truth. A candidate for promotion, not a
+promotion: that is the owner's call. The wording is the assistant's
+(Claude, in this session); adopting it is the owner's call.

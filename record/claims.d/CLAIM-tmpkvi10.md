@@ -1,7 +1,21 @@
 ---
 status: Proposed
 title: 'A record that holds one tangle of interrelated ideas removes the reason to publish it as a flood of interrelated papers: the whole tangle can be offered for evaluation, and each party with its own interests given a view over it'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition without
+    citing it, in §5. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -18,6 +32,7 @@ date: '2026-11-25'
 line:
 - record-as-apparatus
 - records-of-inquiry
+- scholarly-publishing
 rests_on:
 - CLAIM-178
 complements:
@@ -34,6 +49,8 @@ summary: >-
   manuscript to many: the record is the one maintained object, and the
   papers a body of work would otherwise be split into become views over
   it. Filed in the owner's voice.
+works:
+- hyperarticles
 ---
 <!-- inactive-ok-file: CLAIM-178 CLAIM-tmpu6e4u CLAIM-tmpjf44i CLAIM-tmpotj4b ADR-143 — Proposed; the premise that a manuscript is a view, the assistant's reading of why audiences need different views, the owner's publishing thesis, and A's rule for when views are separate contributions -->
 

@@ -1,7 +1,21 @@
 ---
 status: Proposed
 title: An editorial tag should be an independently authored record linking an editor to a particular version of a claim, result or work with a stated meaning and reason, so that a journal composed of tags can tell a recommendation from a review and must declare what inclusion in its feed means
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition without
+    citing it, in §6. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -16,6 +30,7 @@ tags:
 date: '2026-11-25'
 line:
 - records-of-inquiry
+- scholarly-publishing
 complements:
 - CLAIM-tmpzsuh2
 summary: >-
@@ -28,6 +43,8 @@ summary: >-
   and its membership in a work ([ADR-032](../decisions.d/ADR-032.md), [ADR-104](../decisions.d/ADR-104.md)). The wording is A's
   (ChatGPT's, at A10 of the exchange "Hyper article interpretation");
   adopting it is the owner's call.
+works:
+- hyperarticles
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpzsuh2 CLAIM-tmpk6kcf — Proposed; the owner's thesis this refines, and the assistant's claim on citing a version -->

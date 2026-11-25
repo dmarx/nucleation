@@ -1,12 +1,22 @@
 ---
 status: Proposed
 title: 'hyperarticle: a living, versioned body of a work''s claims, evidence, methods, objections and revisions, each addressable and attributed and linked by typed relations, of which a conventional article is one view; not a paper with more hyperlinks, and not a document that is simply kept editable'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 tags:
 - design-rationale
 - epistemology
 date: '2026-11-25'
-line: records-of-inquiry
+line:
+- records-of-inquiry
+- scholarly-publishing
 summary: >-
   The owner's word, at U1 of the exchange "Hyper article interpretation"
   (2026-11-22): "github dmarx/nucleation as a "hyper article "", taken up
