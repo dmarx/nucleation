@@ -82,7 +82,7 @@ inference", p. 2). No change.
 <!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv CLAIM-tmpjs6hp — Proposed or Skimmed; filed for LEAD-215 -->
 
 A qualification, from Martin-Löf's Intuitionistic Type Theory
-(THEORY-tmp62cvo; NOTE-tmp60upv; CLAIM-tmpjs6hp). The book uses this
+([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md); [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md); [CLAIM-tmpjs6hp](../claims.d/CLAIM-tmpjs6hp.md)). The book uses this
 term's pair in so many words: "a is a program ... which meets the
 specification A" (p. 6), and its forms of judgement keep the two apart, a
 realization judged only against a specification already formed: "a

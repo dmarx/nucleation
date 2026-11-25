@@ -129,9 +129,9 @@ run-time checks this paper proposes, the nearest case of the elaboration
 ## Note of 2026-11-25: Martin-Löf, read
 <!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpl0sxy ARG-tmpneexr ARG-tmppv3b8 CLAIM-tmp01pyt CLAIM-tmpjs6hp ADR-108 — Proposed or Skimmed; filed from this reading, and the decision on running notes -->
 
-The third item, Martin-Löf (1984), is read, Skimmed: LIT-tmphxyqk,
-NOTE-tmp60upv, THEORY-tmp62cvo, with ARG-tmpl0sxy, ARG-tmpneexr,
-ARG-tmppv3b8, CLAIM-tmp01pyt and CLAIM-tmpjs6hp (pull request 802, "Read
+The third item, Martin-Löf (1984), is read, Skimmed: [LIT-tmphxyqk](../literature.d/LIT-tmphxyqk.md),
+[NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md), [THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md), with [ARG-tmpl0sxy](../arguments.d/ARG-tmpl0sxy.md), [ARG-tmpneexr](../arguments.d/ARG-tmpneexr.md),
+[ARG-tmppv3b8](../arguments.d/ARG-tmppv3b8.md), [CLAIM-tmp01pyt](../claims.d/CLAIM-tmp01pyt.md) and [CLAIM-tmpjs6hp](../claims.d/CLAIM-tmpjs6hp.md) (pull request 802, "Read
 Martin-Löf 1984"). The copy is a scan hosted by a Carnegie Mellon course,
 OCR'd. Types are problems and specifications in the book's own words, and
 the "such that" set carries its proofs, the first reading under this lead
@@ -139,5 +139,5 @@ that supports the proof-relevant reading itself. A specification of tests
 is a type over a kind of thing already given and a category otherwise.
 Universes handle changes among the types they code; whether they handle a
 revision of what an answer could be is left to the owner, as two readings
-in ARG-tmppv3b8. The bidirectional correspondence is not tested by this
-book. No running-notes branch was used (ADR-108 is Proposed).
+in [ARG-tmppv3b8](../arguments.d/ARG-tmppv3b8.md). The bidirectional correspondence is not tested by this
+book. No running-notes branch was used ([ADR-108](../decisions.d/ADR-108.md) is Proposed).

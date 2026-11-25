@@ -116,7 +116,7 @@ from an entry that exists, which is what this term's witness rules out.
 <!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpneexr — Proposed or Skimmed; filed for LEAD-215 -->
 
 Borne out, from the source this term's type-theoretic sense comes from
-(THEORY-tmp62cvo; NOTE-tmp60upv; ARG-tmpneexr). A canonical proof of
+([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md); [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md); [ARG-tmpneexr](../arguments.d/ARG-tmpneexr.md)). A canonical proof of
 (∃x ∈ A)B(x) "is a pair (a,b), where b is a proof of the fact that a
 satisfies B" (p. 42), and the witness is the left projection p(c) (p. 44).
 One sharpening: the witness is computed from the proof, which is why the

@@ -108,8 +108,8 @@ distinction is the claim's.
 ## Note of 2026-11-25: Martin-Löf, read
 <!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv — Proposed or Skimmed; filed for LEAD-215 -->
 
-A parallel (no edge). Martin-Löf's table of readings (THEORY-tmp62cvo;
-NOTE-tmp60upv) reads one form of judgement, a ∈ A, both as "a is an
+A parallel (no edge). Martin-Löf's table of readings ([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md);
+[NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md)) reads one form of judgement, a ∈ A, both as "a is an
 element of the set A" and as "a is a method of fulfilling (realizing) the
 intention (expectation) A" (p. 5), Heyting's reading, in which the
 judgement is world to word. The direction belongs to the reading of the

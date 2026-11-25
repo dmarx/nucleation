@@ -117,9 +117,9 @@ Condition, in both directions.
 ## Note of 2026-11-25: Martin-Löf, read
 <!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv CLAIM-949 — Proposed or Skimmed; filed for LEAD-215 -->
 
-A contrast (no edge). CLAIM-949 sets the record's model-theoretic account
+A contrast (no edge). [CLAIM-949](../claims.d/CLAIM-949.md) sets the record's model-theoretic account
 of specification, this theory's institutions, against type theory's
-proof-relevant one. Martin-Löf (THEORY-tmp62cvo; NOTE-tmp60upv) draws
+proof-relevant one. Martin-Löf ([THEORY-tmp62cvo](THEORY-tmp62cvo.md); [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md)) draws
 the same line from the other side: in standard presentations "Formulas and
 deductions are given meaning only through semantics, which is usually done
 following Tarski and assuming set theory"; "We will avoid keeping form and
