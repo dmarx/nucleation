@@ -8,7 +8,7 @@ Contracts are usually taken to be explicit agreements made by parties who exist 
 
 ### Standing, voices and limits
 
-**Standing.** Statuses are those of 2026-11-24. **Nothing in this article's own argument is Active.** Every claim, case, term and argument that states it is Proposed (questions and leads are Open). Every claim's warrant is interpretive, with two exceptions: the owner's objection CLAIM-tmp8l5s9, which is empirical, and CLAIM-1095, a correction of a formal step that §2.8 follows, which is demonstrated (role: counter). The Active footing is the vocabulary and the neighbouring claims the argument stands on:
+**Standing.** Statuses are those of 2026-11-24. **Nothing in this article's own argument is Active except CLAIM-1095, the formal correction §2.8 follows (Active since #794).** Every other claim, case, term and argument that states it is Proposed (questions and leads are Open). Every claim's warrant is interpretive, with two exceptions: the owner's objection CLAIM-tmp8l5s9, which is empirical, and CLAIM-1095, which is demonstrated (role: counter). The Active footing is the vocabulary and the neighbouring claims the argument stands on:
 
 - precedence, jurisdiction and suspension (TERM-017, Active since its filing on 2026-10-04);
 - grant and conferral (TERM-101, TERM-103, both Active, adopted at the owner's decision under ADR-070);
@@ -20,7 +20,7 @@ Contracts are usually taken to be explicit agreements made by parties who exist 
 
 Four further Active entries are cited beside the argument, not as its steps: CLAIM-716 (§2.2), CLAIM-523 (§2.4), THEORY-1474 (§2.3) and CLAIM-686 (§2.6).
 
-**Who made these entries Active.** CLAIM-283, TERM-101 and TERM-103 were made Active by the owner. CLAIM-738, CLAIM-761, CLAIM-569, CLAIM-556, CLAIM-357 and TERM-100 were promoted at status reviews "at the status review's ruling (the owner delegated these rulings)", so their standing is the assistant's ruling under the owner's delegation, not the owner's own. On 2026-11-24 seven demonstrated claims were also set Active at the assistant's discretion on an independent recomputation (curation entry of 2026-11-24 20:56, "Rulings since"). None of the entries above was made Active that way.
+**Who made these entries Active.** CLAIM-283, TERM-101 and TERM-103 were made Active by the owner. CLAIM-738, CLAIM-761, CLAIM-569, CLAIM-556, CLAIM-357 and TERM-100 were promoted at status reviews "at the status review's ruling", under rulings the owner delegated, so their standing is the assistant's ruling under the owner's delegation, not the owner's own. On 2026-11-24 seven demonstrated claims were also set Active at the assistant's discretion on an independent recomputation (curation entry of 2026-11-24 20:56, "Rulings since"). None of the entries above was made Active that way.
 
 A reader who accepts only what is Active gets the distinctions in which the argument is stated. That reader does not get the argument.
 
@@ -35,7 +35,7 @@ A reader who accepts only what is Active gets the distinctions in which the argu
 - productive misunderstanding, a sidebar (CLAIM-tmpupcws);
 - from earlier exchanges: the perspectival invitation (U2 of "Ben Franklin Effect Explained"; CLAIM-430) and learned local accommodation (U45 of the exchange of 2026-10-17; CLAIM-358).
 
-The motivating draft, A49, credits none of these, and it calls the programme "our theory" throughout (curation entry of 2026-11-24 20:56, §3). In particular it lists "relational invocation" first among the programme's contributions without crediting U21. **The idea that an act can invoke a relationship, and that which relationship it invokes can be ambiguous, is the owner's, from U21.** A30 and A32 developed it, and "relational invocation" is the name A gave it.
+The motivating draft, A49, credits none of these: it speaks of "our account" and "our conversation" and credits no owner turn (curation entry of 2026-11-24 20:56, §3, with its correction of 2026-11-25). In particular it lists "relational invocation" first among the programme's contributions without crediting U21. **The idea that an act can invoke a relationship, and that which relationship it invokes can be ambiguous, is the owner's, from U21.** A30 and A32 developed it, and "relational invocation" is the name A gave it.
 
 **Limits.** The argument was developed with AI assistants, and the same assistants file, audit and draft from the record that holds it. The record's checks on the argument are therefore checks by a party to it. Three further points follow.
 
@@ -78,7 +78,7 @@ If every stable interaction were a contract, the word would add nothing. A16 §1
 3. "Governance of circumstances in which requirements conflict."
 4. "Some mechanism sustaining or revising that relationship."
 
-**These conditions are necessary, not sufficient.** The claim's title says "contract-like only if it governs deviation, conflict or breach". A16 calls a relation that meets all four "a strong candidate", not a contract. TERM-tmplpplx's first version had read the marks as what makes a relation contract-like ("because it governs deviation"), and its version 2 corrected that to "only if" (TERM-tmplpplx, history). The term and the claim still differ in one word: the term says "deviation, conflict and breach", the claim "or". As a necessary condition, "and" is the stricter. This article follows the claim. It uses the marks only as a filter. A relation that fails one of them is not a contract. A relation that passes all four is a candidate.
+**These conditions are necessary, not sufficient.** The claim's title says "contract-like only if it governs deviation, conflict or breach". A16 calls a relation that meets all four "a strong candidate", not a contract. TERM-tmplpplx's first version had read the marks as what makes a relation contract-like, and its version 2 corrected that, since the title "read them as sufficient ("because" for "only if")" (TERM-tmplpplx, history). The term and the claim still differ in one word: the term says "deviation, conflict and breach", the claim "or". As a necessary condition, "and" is the stricter. This article follows the claim. It uses the marks only as a filter. A relation that fails one of them is not a contract. A relation that passes all four is a candidate.
 
 On breach, an Active neighbour shows why governing it is not a formality: "a breach can lower the injured party's position if it refuses to settle, so that the breaching party gains leverage over the resolution of its own breach" (CLAIM-716, Active, interpretive, A's, from another exchange). A relation whose terms say nothing about breach leaves that leverage to whoever breaches.
 
@@ -168,7 +168,7 @@ Three neighbours are looser:
 
 - **Learned local accommodation.** The owner's thesis at U45 of the exchange of 2026-10-17, in A45's conditional form: a recurring conflict that admits a stable accommodation can be settled among the processes more cheaply than by escalation, "though local negotiation and the relations it needs are not free" (CLAIM-358, Proposed, interpretive, the owner's). CLAIM-tmp7hqtl says what the settled accommodation must do to count as a contract.
 - **A heuristic as a compiled contract.** A16 §9 takes the step from such an accommodation to a contract: "A heuristic can be a compiled contract, a protocol that settles a recurring conflict among processes without renegotiating it" (CLAIM-tmpysg95, Proposed, interpretive, A's; it rests on CLAIM-358 and CLAIM-tmp7hqtl). A16 offers it as a candidate mechanism, "rather than established explanations of every instance".
-- **First Contact.** CLAIM-788 (Proposed, interpretive) reads First Contact's interface learning as forming "a new channel, a maintained capacity". The curation lists A49's use of CLAIM-788 as a loose anchor, named as a topic and not as a proposition.
+- **First Contact.** CLAIM-788 (Proposed, interpretive) reads First Contact's interface learning as forming "the record's new channel, a maintained capacity". The curation lists A49's use of CLAIM-788 as a loose anchor, named as a topic and not as a proposition.
 
 Only CLAIM-tmpysg95 says that what forms can be a contract, and it says so of a compiled protocol, not of an enacted relationship. This article does not say that enactment forms contracts.
 
@@ -272,7 +272,7 @@ A30 §7 states the difference between invoking a relationship and reusing a stor
 
   Invoke(q, C_t) → (a_t, C_{t+1}),  C_{t+1} = Φ(C_t, q_t, a_t, f_t).
 
-A32 extends the response kernel that the record holds from another exchange, K_S(q) = Law(a, τ, c, S′ | do(q), S) (CLAIM-1156, Proposed, interpretive, A's), to K_C(q) = Law(a, τ, κ, C′, S′ | do(q), C, S), where κ is "the distribution of costs among the participating processes". The comparison follows CLAIM-1095's correction (Proposed, demonstrated, counter): the post-state is observed "only through its later responses", not compared directly.
+A32 extends the response kernel that the record holds from another exchange, K_S(q) = Law(a, τ, c, S′ | do(q), S) (CLAIM-1156, Proposed, interpretive, A's), to K_C(q) = Law(a, τ, κ, C′, S′ | do(q), C, S), where κ is "the distribution of costs among the participating processes". The comparison follows CLAIM-1095's correction (Active, demonstrated, counter): the post-state is observed "only through its later responses", not compared directly.
 
 A32 §19 divides the one operation by its effect:
 
@@ -308,7 +308,7 @@ The record also holds parts of the four systems:
 - one construction for each of two of them: A20's dependency model for unilateral dependence (CLAIM-tmp18v1o), and the two arbitration rules for maintained conditional commitments (CASE-tmptpna1);
 - the assistant's two controllers, a candidate for mere coupling that passes the four marks (CLAIM-tmp7hqtl's note);
 - the probes, in CLAIM-tmpersgx;
-- the governance architectures, from fixed priority to a "Reflexive contract ecology", in LEAD-tmpbqj9u (Open, stage idea), whose note of 2026-11-24 narrows it to the reflexive arm and the composition of the contract schema, with CASE-325 and CASE-396 (both Active) and CASE-397 (Proposed) as its baselines;
+- the governance architectures, from fixed priority to a "Reflexive contract ecology", in LEAD-tmpbqj9u (Open, stage idea), whose note of 2026-11-24 narrows it to the reflexive arm and the composition of the contract schema, with CASE-325 and CASE-396 (both Active) and CASE-397 (Active) as its baselines;
 - a shared organizational state, in LEAD-tmpfq5cj (Open, stage idea), whose note of 2026-11-24 records that A51 withdraws the motivation A49 gave it.
 
 A multi-agent version, in which contracts form endogenously, is LEAD-tmp5l71z (Open, stage idea), Article 9's.
@@ -343,9 +343,9 @@ No item is Active. A49's "Primary contribution", "A theory of contracts as organ
 Joins are steps the first draft of this article took that the record kept apart. An independent reader tested each under ADR-075's step 5 on 2026-11-24 (REVIEW-2026-11-24.md, Part B). SYNTHESIS-tmp4tvbr (Proposed, version 3), "The joins of the manuscript governance-of-becoming, Part I", places the verdicts. The first draft said that no "Not stated on the record" section declines any join; that missed SYNTHESIS-tmp4tvbr's bullet on A22 §22, which is adjacent to J2.3 (below).
 
 - **J2.1 (was J1): failed, removed.** CLAIM-603's reciprocal loss read as A49's "coordinated reliance". The phrase is defined by no entry, so the reading glosses a free parameter and predicts nothing. §2.3 no longer makes it.
-- **J2.2 (was J2): failed, removed.** CLAIM-tmp7hqtl's second mark read as CLAIM-tmphq6hp's operative norm. Its component, stated as the claim's title states it, is that an expectation is a norm when a discrepancy is met by bringing the behaviour back into line, and that "which response a discrepancy gets, adaptation, enforcement, accommodation or revision, is the work of normative governance". Correction suffices for the mark trivially, and the mark does not require correction, since renegotiation also differentiates. §2.4 no longer makes the reading. The reader noted a residue, whether "violation" in the second mark already presupposes a requirement, so that a mere predictor revising on disconfirmation is excluded; that belongs in a dated note on CLAIM-tmp7hqtl, which has not been filed.
+- **J2.2 (was J2): failed, removed.** CLAIM-tmp7hqtl's second mark read as CLAIM-tmphq6hp's operative norm. Its component, stated as the claim's title states it, is that an expectation is a norm when a discrepancy is met by bringing the behaviour back into line, and that "which response a discrepancy gets, adaptation, enforcement, accommodation or revision, is the work of normative governance". Correction suffices for the mark trivially, and the mark does not require correction, since renegotiation also differentiates. §2.4 no longer makes the reading. The reader noted a residue, whether "violation" in the second mark already presupposes a requirement, so that a mere predictor revising on disconfirmation is excluded; that is filed as a dated note on CLAIM-tmp7hqtl (2026-11-24).
 - **J2.3 (was J3): passed by a separating case, narrowed, and filed as CLAIM-tmpu77ve** (Proposed, interpretive; rests on CLAIM-tmp0i6c0, CLAIM-tmpjg5gx, CLAIM-tmphq6hp). The narrowing is "where the provider cannot cheaply exit". SYNTHESIS-tmp4tvbr integrates it. Its decline of A22 §22 ("a map of CLAIM-tmp18v1o, CLAIM-tmpjg5gx, CLAIM-tmp8bimm and CLAIM-tmp4zii5", with entrenchment read as CLAIM-tmp4zii5's self-sealing) is adjacent and did not test this claim. §2.4 cites the claim.
-- **J2.4 (was J4): failed, reworded.** CASE-tmptpna1 read as an instance of TERM-tmpgiy6r's standing without effective authority. The glosses match, so the reading is a relabelling, better as an `illustrates` link or a dated note. It exposes a conflict over CLAIM-283's "granted authority" between the case and the term, which §2.6 now states. No note has been filed.
+- **J2.4 (was J4): failed, reworded.** CASE-tmptpna1 read as an instance of TERM-tmpgiy6r's standing without effective authority. The glosses match, so the reading is a relabelling, better as an `illustrates` link or a dated note. It exposes a conflict over CLAIM-283's "granted authority" between the case and the term, which §2.6 now states. It is filed as a dated note on CASE-tmptpna1 (2026-11-24).
 - **JR2.1 (was JR1): restatement.** The owner's U16 route ends in a contract only where the dependence governs the response to failure. CLAIM-tmp0d1fq, "What it does not say", states this.
 - **JR2.2 (was JR2): restatement.** The owner's perspectival invitation is mapped to constitutive indeterminacy and formative invocation. CLAIM-430's note of 2026-11-24 states this.
 - **Not made.** The bridge from operational standing (TERM-tmpgiy6r) to TERM-124's dominated party, which has moral standing (TERM-083). No entry states it, and this article does not supply it (§2.6).
