@@ -68,7 +68,6 @@ Nothing outside the record; [CASE-326](../cases.d/CASE-326.md)'s illustrative va
 model are the starting point.
 
 ## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
-<!-- inactive-ok-file: CASE-343 CLAIM-921 — Proposed; cited with their standing -->
 
 The revision of the manuscript's Article 3 (§3.3.4) sorted this lead by
 the write-manuscript skill's step 3a ("What the record has already done")

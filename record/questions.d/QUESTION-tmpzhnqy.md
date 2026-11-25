@@ -38,7 +38,6 @@ handed to another party at unchanged cost. If the two can always be
 written as one movement, the question is answered no.
 
 ## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
-<!-- inactive-ok-file: CASE-326 — Proposed; cited with its standing -->
 
 The revision of the manuscript's Article 3 (its gap G3.2) found that the
 record already holds part of what this question asks for. CLAIM-tmp8mpgs

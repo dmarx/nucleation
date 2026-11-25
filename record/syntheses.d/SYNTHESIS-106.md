@@ -133,7 +133,7 @@ That every emergent organization is such an investment
 wrongful ([CLAIM-760](../claims.d/CLAIM-760.md)'s).
 
 ## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
-<!-- inactive-ok-file: CASE-326 CLAIM-891 CLAIM-892 ARG-tmpa5ped CLAIM-tmpsf9hp — Proposed; cited with their standing -->
+<!-- inactive-ok-file: CLAIM-891 ARG-tmpa5ped CLAIM-tmpsf9hp — Proposed; cited with their standing -->
 
 The revision of the manuscript's Article 3 (its gap G3.1) found that no
 account maps the stored-work cost model as it now stands. This account is
