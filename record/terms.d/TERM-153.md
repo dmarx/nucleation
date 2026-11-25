@@ -26,6 +26,7 @@ summary: >-
   ([CLAIM-949](../claims.d/CLAIM-949.md)). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmp9cdlq THEORY-tmpqj2d4 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
 <!-- inactive-ok-file: TERM-154 TERM-152 CLAIM-949 — Proposed; the pair filed with this and the entries it is stated against -->
 
 # TERM-153: certificate, of a realization against a specification: a checkable record that it passes each test, carried with it, so relying on the realization means checking the record rather than redoing the search; the evidence half of a proof-relevant answer
@@ -86,3 +87,20 @@ iterative-weakening search, so the assignment could be rechecked cheaply
 and not rebuilt. The paper neither keeps it for that nor says so; the
 reading is the filer's. Program verification's loop invariants, which
 predicate abstraction finds, are certificates in that sense.
+
+## Note of 2026-11-22: Kleene, read through van Oosten
+
+A contrast, not support. Kleene's realizer ([THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md), read in
+[NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md) for the unread [LIT-tmp9cdlq](../literature.d/LIT-tmp9cdlq.md)) has no certificate component:
+realizability "is designed to handle “information” about formulas rather
+than proofs" (van Oosten, p. 4), and Kleene set Heyting's proof
+interpretation aside to build it. A true atomic sentence is realized by 0:
+where the test is decidable and cheap, the realizer carries nothing and the
+test is run again. That is this term's own asymmetry from the other side:
+a certificate earns its place where checking from scratch is expensive,
+not where a test can simply be rerun. The nearest counterparts in the
+realizability literature are glued realizability with P the provable
+sentences, a realizer kept with the fact of provability (p. 6), and the
+proof-to-realizer translation behind soundness. The proof-relevant pair
+(x, p) the definition cites comes from typed realizability and type
+theory, not Kleene 1945. No edge; no status changes.
