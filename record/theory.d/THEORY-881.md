@@ -20,7 +20,15 @@ promote_when: >-
   partition-minimizing ΦR reverses the contrast. More resting-state
   contrasts from the same datasets cannot settle it, nor can model
   simulations.
-title: "Across humans, macaques, marmosets and mice, loss of behavioural responsiveness under anaesthesia goes with lower whole-brain pairwise integrated information ΦR in resting fMRI, and its return goes with ΦR's return, including when central thalamic stimulation restores responsiveness during continued anaesthesia; ΦR tracks the macaque arousal score better than the original Φ, causal density, net information flow or functional connectivity"
+title: 'Anaesthesia lowers integrated information ΦR'
+statement: >-
+  Across humans, macaques, marmosets and mice, loss of behavioural
+  responsiveness under anaesthesia goes with lower whole-brain pairwise
+  integrated information ΦR in resting fMRI, and its return goes with ΦR's
+  return, including when central thalamic stimulation restores
+  responsiveness during continued anaesthesia; ΦR tracks the macaque arousal
+  score better than the original Φ, causal density, net information flow or
+  functional connectivity
 version: 1
 tags:
 - consciousness
@@ -43,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-240 THEORY-091 THEORY-063 THEORY-497 — Proposed; accounts this one is set beside, not leaned on -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the batch's claims, cited as open -->
 
-# THEORY-881: Across humans, macaques, marmosets and mice, loss of behavioural responsiveness under anaesthesia goes with lower whole-brain pairwise integrated information ΦR in resting fMRI, and its return goes with ΦR's return, including when central thalamic stimulation restores responsiveness during continued anaesthesia; ΦR tracks the macaque arousal score better than the original Φ, causal density, net information flow or functional connectivity
+# THEORY-881: Anaesthesia lowers integrated information ΦR
 
 ## Source
 

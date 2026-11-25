@@ -3,7 +3,12 @@ number: 199
 status: Active
 formerly:
 - CLAIM-tmp0jq5k
-title: 'Blackwell''s order bounds what a rendering makes possible for any receiver, and a given receiver''s access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible'
+title: 'Blackwell bounds what any receiver can use'
+statement: >-
+  Blackwell's order bounds what a rendering makes possible for any receiver,
+  and a given receiver's access is usable information relative to the rules
+  it can apply, which a garbling can raise for that receiver but never above
+  what the source makes possible
 version: 5
 history:
 - version: 2
@@ -97,7 +102,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-076 — Proposed; the blind-captioner design, cited as open -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; the manuscript's thesis, cited as it stood -->
 
-# CLAIM-199: Blackwell's order bounds what a rendering makes possible for any receiver, and a given receiver's access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible
+# CLAIM-199: Blackwell bounds what any receiver can use
 
 ## What it answers
 

@@ -3,7 +3,14 @@ number: 1017
 status: Proposed
 formerly:
 - CLAIM-tmp3qsdg
-title: 'Each human design found for isolating a germline route of inherited trauma removes some of the other routes and leaves at least one: donor gametes remove the womb and rearing but cannot divide the gamete''s marks from its genes, a father''s exposure before conception removes the womb but leaves his rearing and the group, and a pregnant grandmother''s exposure removes none; no study found combines designs so as to remove all of them'
+title: 'No design isolates germline trauma transmission'
+statement: >-
+  Each human design found for isolating a germline route of inherited trauma
+  removes some of the other routes and leaves at least one: donor gametes
+  remove the womb and rearing but cannot divide the gamete's marks from its
+  genes, a father's exposure before conception removes the womb but leaves
+  his rearing and the group, and a pregnant grandmother's exposure removes
+  none; no study found combines designs so as to remove all of them
 version: 1
 role: thesis
 warrant: interpretive
@@ -53,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2297 THEORY-2280 THEORY-2299 THEORY-2303 THEORY-2293 CLAIM-1182 CLAIM-1103 CLAIM-644 ARG-229 NOTE-2370 — filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1017: Each human design found for isolating a germline route of inherited trauma removes some of the other routes and leaves at least one: donor gametes remove the womb and rearing but cannot divide the gamete's marks from its genes, a father's exposure before conception removes the womb but leaves his rearing and the group, and a pregnant grandmother's exposure removes none; no study found combines designs so as to remove all of them
+# CLAIM-1017: No design isolates germline trauma transmission
 
 ## The claim
 

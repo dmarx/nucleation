@@ -3,7 +3,15 @@ number: 845
 status: Active
 formerly:
 - THEORY-tmpg79sv
-title: 'In Weatherall, O''Connor and Bruner''s network model a policy maker''s credence depends on the evidence it has received only through the total excess of successes over failures of the new action, so a propagandist''s effect is the excess of failures it adds; for the same pulls, running single-trial studies and publishing the failures adds at least as large an excess as any other division into studies, which is why biased production does best with the smallest studies'
+title: 'Propaganda works best via the smallest studies'
+statement: >-
+  In Weatherall, O'Connor and Bruner's network model a policy maker's
+  credence depends on the evidence it has received only through the total
+  excess of successes over failures of the new action, so a propagandist's
+  effect is the excess of failures it adds; for the same pulls, running
+  single-trial studies and publishing the failures adds at least as large an
+  excess as any other division into studies, which is why biased production
+  does best with the smallest studies
 version: 2
 history:
 - version: 1
@@ -39,7 +47,7 @@ bounds:
 - CLAIM-342
 ---
 
-# THEORY-845: In Weatherall, O'Connor and Bruner's network model a policy maker's credence depends on the evidence it has received only through the total excess of successes over failures of the new action, so a propagandist's effect is the excess of failures it adds; for the same pulls, running single-trial studies and publishing the failures adds at least as large an excess as any other division into studies, which is why biased production does best with the smallest studies
+# THEORY-845: Propaganda works best via the smallest studies
 
 ## Source
 

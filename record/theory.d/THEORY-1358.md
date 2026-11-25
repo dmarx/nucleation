@@ -13,7 +13,15 @@ promote_when: >-
   that pattern better than an exemplar model and a model without
   categories, by a stated fit measure; curve shapes matched by eye in the
   original paradigm cannot settle it.
-title: "In Kemp, Goodman and Tenenbaum's account, people learn to learn causal models by inferring a causal schema, a partition of objects into categories with category-level causal powers, characteristic features and between-category interactions, from contingency and feature data, and the schema lets a causal model for a new object be learned from one trial or from its features alone while still being overruled when the object proves unlike any category"
+title: 'Causal schemas enable one-shot causal learning'
+statement: >-
+  In Kemp, Goodman and Tenenbaum's account, people learn to learn causal
+  models by inferring a causal schema, a partition of objects into
+  categories with category-level causal powers, characteristic features and
+  between-category interactions, from contingency and feature data, and the
+  schema lets a causal model for a new object be learned from one trial or
+  from its features alone while still being overruled when the object proves
+  unlike any category
 version: 1
 history:
 - version: 1
@@ -42,7 +50,7 @@ summary: >-
   reader's; adopting it is the owner's call.
 ---
 
-# THEORY-1358: In Kemp, Goodman and Tenenbaum's account, people learn to learn causal models by inferring a causal schema, a partition of objects into categories with category-level causal powers, characteristic features and between-category interactions, from contingency and feature data, and the schema lets a causal model for a new object be learned from one trial or from its features alone while still being overruled when the object proves unlike any category
+# THEORY-1358: Causal schemas enable one-shot causal learning
 
 ## Source
 

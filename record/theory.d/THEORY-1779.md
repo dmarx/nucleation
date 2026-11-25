@@ -3,7 +3,16 @@ number: 1779
 status: Proposed
 formerly:
 - THEORY-tmpo3bsd
-title: 'Clark and Brennan propose that collective action rests on common ground that participants must update by grounding — the collective process of reaching mutual belief that what was meant has been understood well enough for current purposes, ordinarily through positive evidence such as acknowledgment, a relevant next turn or continued attention — and that the techniques and costs of grounding vary with purpose and with media constraints such as copresence, cotemporality, reviewability and revisability.'
+title: 'Grounding updates common ground, varies by medium'
+statement: >-
+  Clark and Brennan propose that collective action rests on common ground
+  that participants must update by grounding — the collective process of
+  reaching mutual belief that what was meant has been understood well enough
+  for current purposes, ordinarily through positive evidence such as
+  acknowledgment, a relevant next turn or continued attention — and that the
+  techniques and costs of grounding vary with purpose and with media
+  constraints such as copresence, cotemporality, reviewability and
+  revisability.
 version: 1
 tags:
 - pragmatics
@@ -25,7 +34,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1779: Clark and Brennan propose that collective action rests on common ground that participants must update by grounding — the collective process of reaching mutual belief that what was meant has been understood well enough for current purposes, ordinarily through positive evidence such as acknowledgment, a relevant next turn or continued attention — and that the techniques and costs of grounding vary with purpose and with media constraints such as copresence, cotemporality, reviewability and revisability.
+# THEORY-1779: Grounding updates common ground, varies by medium
 
 ## The account
 

@@ -14,7 +14,13 @@ promote_when: >-
   rivalry intensity or disidentification with reciprocity held fixed. A
   further cross-sectional survey with the same model cannot settle it,
   since the causal order is what is in question.
-title: "In team-sport fandom, perceived rivalry intensity lowers fans' sense of being respected by the rival's fans but raises their sense of in-group distinctiveness and cohesion, and these gains run through the perception that the rivalry is reciprocated, not through disidentification with the rival"
+title: 'Rivalry boosts cohesion via reciprocity'
+statement: >-
+  In team-sport fandom, perceived rivalry intensity lowers fans' sense of
+  being respected by the rival's fans but raises their sense of in-group
+  distinctiveness and cohesion, and these gains run through the perception
+  that the rivalry is reciprocated, not through disidentification with the
+  rival
 version: 2
 history:
 - version: 2
@@ -45,7 +51,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-1114 — Proposed; the self-categorization account this is compared with -->
 
-# THEORY-1113: In team-sport fandom, perceived rivalry intensity lowers fans' sense of being respected by the rival's fans but raises their sense of in-group distinctiveness and cohesion, and these gains run through the perception that the rivalry is reciprocated, not through disidentification with the rival
+# THEORY-1113: Rivalry boosts cohesion via reciprocity
 
 ## Source
 

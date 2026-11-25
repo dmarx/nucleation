@@ -3,7 +3,14 @@ number: 1346
 status: Proposed
 formerly:
 - CLAIM-tmpzz0eu
-title: Of the functions a publisher performs, as scholarly communication is commonly divided into registration, certification, awareness and archiving, hosting supplies only access, which serves awareness; the owner's split gives certification to editors and journals and archiving to custodians, and leaves registration, a date and an author for each version that its host cannot alter, to whatever makes versions verifiable
+title: 'Hosting supplies only access'
+statement: >-
+  Of the functions a publisher performs, as scholarly communication is
+  commonly divided into registration, certification, awareness and
+  archiving, hosting supplies only access, which serves awareness; the
+  owner's split gives certification to editors and journals and archiving to
+  custodians, and leaves registration, a date and an author for each version
+  that its host cannot alter, to whatever makes versions verifiable
 version: 2
 history:
 - version: 2
@@ -47,7 +54,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1330 CLAIM-1291 CLAIM-1344 CLAIM-1242 CLAIM-1304 — Proposed; the owner's U6 and U4, A's guarantees and tag, and the assistant's check on this record -->
 
-# CLAIM-1346: Of the functions a publisher performs, as scholarly communication is commonly divided into registration, certification, awareness and archiving, hosting supplies only access, which serves awareness; the owner's split gives certification to editors and journals and archiving to custodians, and leaves registration, a date and an author for each version that its host cannot alter, to whatever makes versions verifiable
+# CLAIM-1346: Hosting supplies only access
 
 ## The gap
 

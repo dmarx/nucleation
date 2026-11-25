@@ -3,7 +3,15 @@ number: 741
 formerly:
 - CLAIM-tmpol7nz
 status: Proposed
-title: 'Whether an arrangement respects a right that protects a choice is a property of its policy over the protected choices, not of any realized history: two arrangements can produce the same history whenever the right is not exercised against them and differ in respecting it, as two histories can reach the same endpoint and differ in whether a power was exercised; so an evaluation over endpoints or realized histories cannot represent such rights, which constrain policies and transition rules'
+title: 'Respecting a right is a property of policy'
+statement: >-
+  Whether an arrangement respects a right that protects a choice is a
+  property of its policy over the protected choices, not of any realized
+  history: two arrangements can produce the same history whenever the right
+  is not exercised against them and differ in respecting it, as two
+  histories can reach the same endpoint and differ in whether a power was
+  exercised; so an evaluation over endpoints or realized histories cannot
+  represent such rights, which constrain policies and transition rules
 version: 2
 history:
 - version: 2
@@ -60,7 +68,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-283 — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: TERM-124 CLAIM-545 TERM-118 — Proposed; the record's dispositional reading of domination, cited with its standing -->
 
-# CLAIM-741: Whether an arrangement respects a right that protects a choice is a property of its policy over the protected choices, not of any realized history: two arrangements can produce the same history whenever the right is not exercised against them and differ in respecting it, as two histories can reach the same endpoint and differ in whether a power was exercised; so an evaluation over endpoints or realized histories cannot represent such rights, which constrain policies and transition rules
+# CLAIM-741: Respecting a right is a property of policy
 
 ## The claim
 

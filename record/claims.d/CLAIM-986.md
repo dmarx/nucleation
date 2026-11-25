@@ -3,7 +3,15 @@ number: 986
 status: Proposed
 formerly:
 - CLAIM-tmp68okc
-title: 'In the transmission criterion of identity over time, an outside maintainer''s organization is part of what is transmitted just insofar as it holds organization the repertoire depends on that the individual does not carry and that a competent unrelated replacement, working from the individual, would not supply; a garage holds none of a car''s, so a change of garage continues the car whole, while an unrelated new maintainer can continue a project only in the respects its code carries'
+title: 'Outside maintainer counts only if irreplaceable'
+statement: >-
+  In the transmission criterion of identity over time, an outside
+  maintainer's organization is part of what is transmitted just insofar as
+  it holds organization the repertoire depends on that the individual does
+  not carry and that a competent unrelated replacement, working from the
+  individual, would not supply; a garage holds none of a car's, so a change
+  of garage continues the car whole, while an unrelated new maintainer can
+  continue a project only in the respects its code carries
 version: 2
 history:
 - version: 2
@@ -70,7 +78,7 @@ works:
 <!-- inactive-ok-file: CLAIM-615 CLAIM-611 CLAIM-617 CASE-223 — Proposed; the claim whose slot this fills, its premise kept here, the claim on community verdicts and the owner's study -->
 <!-- inactive-ok-file: CLAIM-983 ARG-216 — new; the alternative reading and the argument both share -->
 
-# CLAIM-986: In the transmission criterion of identity over time, an outside maintainer's organization is part of what is transmitted just insofar as it holds organization the repertoire depends on that the individual does not carry and that a competent unrelated replacement, working from the individual, would not supply; a garage holds none of a car's, so a change of garage continues the car whole, while an unrelated new maintainer can continue a project only in the respects its code carries
+# CLAIM-986: Outside maintainer counts only if irreplaceable
 
 **Reading (b), an alternative to [CLAIM-983](CLAIM-983.md).** Filed for [LEAD-163](../leads.d/LEAD-163.md).
 The assistant leans to this one.

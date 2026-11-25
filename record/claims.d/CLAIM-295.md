@@ -3,10 +3,12 @@ number: 295
 status: Proposed
 formerly:
 - CLAIM-tmp7t44x
-title: 'A record of an inquiry''s justifications adds nothing for decisions its
-  current state already suffices for: what it can add is a wider family of decisions
-  for which what is kept suffices, and decisions a bounded agent can make that it
-  otherwise could not'
+title: 'Records of justification widen sufficiency'
+statement: >-
+  A record of an inquiry's justifications adds nothing for decisions its
+  current state already suffices for: what it can add is a wider family of
+  decisions for which what is kept suffices, and decisions a bounded agent
+  can make that it otherwise could not
 version: 4
 history:
 - version: 2
@@ -67,7 +69,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-250 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# CLAIM-295: A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not
+# CLAIM-295: Records of justification widen sufficiency
 
 ## The claim
 

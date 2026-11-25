@@ -3,7 +3,14 @@ number: 378
 status: Active
 formerly:
 - THEORY-tmphvzb7
-title: "When items change as independent Poisson processes with known rates and a fixed total refresh rate is shared among them, refreshing every item equally keeps the copy at least as fresh and at most as old, averaged over time, as refreshing in proportion to change rate, for any spread of rates; the freshness-optimal share rises and then falls with change rate and gives nothing to items that change too fast for the budget"
+title: 'Uniform refresh beats proportional refresh'
+statement: >-
+  When items change as independent Poisson processes with known rates and a
+  fixed total refresh rate is shared among them, refreshing every item
+  equally keeps the copy at least as fresh and at most as old, averaged over
+  time, as refreshing in proportion to change rate, for any spread of rates;
+  the freshness-optimal share rises and then falls with change rate and
+  gives nothing to items that change too fast for the budget
 version: 1
 tags:
 - databases
@@ -28,7 +35,7 @@ bears_on:
 - QUESTION-114
 ---
 
-# THEORY-378: When items change as independent Poisson processes with known rates and a fixed total refresh rate is shared among them, refreshing every item equally keeps the copy at least as fresh and at most as old, averaged over time, as refreshing in proportion to change rate, for any spread of rates; the freshness-optimal share rises and then falls with change rate and gives nothing to items that change too fast for the budget
+# THEORY-378: Uniform refresh beats proportional refresh
 
 ## Source
 

@@ -3,7 +3,12 @@ number: 284
 status: Active
 formerly:
 - CLAIM-tmpspyay
-title: 'A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists'
+title: 'A self governs the conditions of its persistence'
+statement: >-
+  A self, in the self-governing sense, is a historically continuous
+  organization of processes that takes part in governing the conditions of
+  its own persistence, differentiation and transformation, not merely one
+  that persists
 version: 7
 history:
 - version: 2
@@ -122,7 +127,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-165 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-1175 CLAIM-1044 — new; A's conjecture and its revision, cited in the note of 2026-11-22 -->
 
-# CLAIM-284: A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists
+# CLAIM-284: A self governs the conditions of its persistence
 
 ## The claim
 

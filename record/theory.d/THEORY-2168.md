@@ -3,7 +3,17 @@ number: 2168
 status: Proposed
 formerly:
 - THEORY-tmpye6xs
-title: 'Azizpour, Priesemann, Zierenberg and Levina show, analytically in the limits and by simulation between them, that in a random network of stochastic spiking neurons with a branching (absorbing-to-active) transition at λ = 1, a leaky readout with finite integration time T makes both the number of ε-discriminable input rates and a fluctuation-aware dynamic range peak at a subcritical λ* < 1, at different λ* for the two measures, with λ* approaching the critical point as T grows, because critically slowed population fluctuations not averaged out within T blur the readout'
+title: 'Integration time moves optimum off criticality'
+statement: >-
+  Azizpour, Priesemann, Zierenberg and Levina show, analytically in the
+  limits and by simulation between them, that in a random network of
+  stochastic spiking neurons with a branching (absorbing-to-active)
+  transition at λ = 1, a leaky readout with finite integration time T makes
+  both the number of ε-discriminable input rates and a fluctuation-aware
+  dynamic range peak at a subcritical λ* < 1, at different λ* for the two
+  measures, with λ* approaching the critical point as T grows, because
+  critically slowed population fluctuations not averaged out within T blur
+  the readout
 promote_when: >-
   An independent study, a replication with the authors' released code or
   another model with an absorbing-to-active transition and a finite-time
@@ -34,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-3027 LIT-3028 ARG-163 CLAIM-809 CLAIM-814 — Proposed, Deferred or new; the reading, the works it names and the claims it bears on -->
 <!-- inactive-ok-file: THEORY-2204 LIT-2991 — Proposed or Unavailable; the reading of the NIPS 2004 companion and the work it stands in for, 2026-11-22 -->
 
-# THEORY-2168: Azizpour, Priesemann, Zierenberg and Levina show, analytically in the limits and by simulation between them, that in a random network of stochastic spiking neurons with a branching (absorbing-to-active) transition at λ = 1, a leaky readout with finite integration time T makes both the number of ε-discriminable input rates and a fluctuation-aware dynamic range peak at a subcritical λ* < 1, at different λ* for the two measures, with λ* approaching the critical point as T grows, because critically slowed population fluctuations not averaged out within T blur the readout
+# THEORY-2168: Integration time moves optimum off criticality
 
 ## Source
 

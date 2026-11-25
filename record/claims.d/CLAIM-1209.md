@@ -3,7 +3,12 @@ number: 1209
 status: Proposed
 formerly:
 - CLAIM-tmp05a1l
-title: 'Reliance exposes the party who relies: the expectations that implicit contracts and norms build up are relied upon, and relied-upon expectations create opportunities for asymmetric relationships, which exploitation takes up'
+title: 'Reliance exposes the party who relies'
+statement: >-
+  Reliance exposes the party who relies: the expectations that implicit
+  contracts and norms build up are relied upon, and relied-upon expectations
+  create opportunities for asymmetric relationships, which exploitation
+  takes up
 version: 1
 role: thesis
 warrant: interpretive
@@ -45,7 +50,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-669 CLAIM-670 CLAIM-713 CLAIM-1309 CLAIM-1210 TERM-123 — Proposed; the held routes to exploitation, the alternative reading, and the claims filed with this from U16–U19 -->
 
-# CLAIM-1209: Reliance exposes the party who relies: the expectations that implicit contracts and norms build up are relied upon, and relied-upon expectations create opportunities for asymmetric relationships, which exploitation takes up
+# CLAIM-1209: Reliance exposes the party who relies
 
 ## The claim
 

@@ -3,7 +3,15 @@ number: 1169
 status: Proposed
 formerly:
 - CLAIM-tmpsuj5n
-title: 'The prediction that a corporation changed only by sanction reverts when the sanction lifts, while one whose concerns were redesigned does not, separates remorse from prudence only in the redesigned arm and only with reputation and benefit held fixed: reversion of a sanction-only corporation is predicted by the reading on which every installed concern is prudence as well, and so is persistence of a redesigned one whose procedure still pays'
+title: 'Reversion test separates only in redesigned arm'
+statement: >-
+  The prediction that a corporation changed only by sanction reverts when
+  the sanction lifts, while one whose concerns were redesigned does not,
+  separates remorse from prudence only in the redesigned arm and only with
+  reputation and benefit held fixed: reversion of a sanction-only
+  corporation is predicted by the reading on which every installed concern
+  is prudence as well, and so is persistence of a redesigned one whose
+  procedure still pays
 version: 1
 history:
 - version: 1
@@ -48,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-405 CLAIM-1136 — new, Proposed; the study whose coding rules this claim was found in, and its quantitative finding -->
 <!-- inactive-ok-file: CLAIM-431 CLAIM-432 — Proposed; the two claims whose predictions this claim compares -->
 
-# CLAIM-1169: The prediction that a corporation changed only by sanction reverts when the sanction lifts, while one whose concerns were redesigned does not, separates remorse from prudence only in the redesigned arm and only with reputation and benefit held fixed: reversion of a sanction-only corporation is predicted by the reading on which every installed concern is prudence as well, and so is persistence of a redesigned one whose procedure still pays
+# CLAIM-1169: Reversion test separates only in redesigned arm
 
 ## The derivation
 

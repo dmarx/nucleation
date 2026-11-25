@@ -3,7 +3,11 @@ number: 168
 status: Active
 formerly:
 - THEORY-tmpjdnxt
-title: 'In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included'
+title: 'Contextuality depends on the representation'
+statement: >-
+  In Contextuality-by-Default, whether a fixed set of measurements is
+  contextual depends on how the system is represented: which couplings are
+  imposed, and which dichotomizations of the variables are included
 version: 4
 history:
 - version: 2
@@ -73,7 +77,7 @@ corroborates:
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; its scope is what this theory bears on -->
 
-# THEORY-168: In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included
+# THEORY-168: Contextuality depends on the representation
 
 ## Source
 

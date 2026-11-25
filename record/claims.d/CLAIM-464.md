@@ -3,7 +3,12 @@ number: 464
 status: Active
 formerly:
 - CLAIM-tmpdhkhm
-title: 'An intervention can change what it would take to correct it: by altering the distribution of control, access, resources or enforcement before it is reviewed, it can make a specified corrective outcome costlier or unreachable while the standards that govern that outcome stay the same'
+title: 'Interventions can raise the cost of correction'
+statement: >-
+  An intervention can change what it would take to correct it: by altering
+  the distribution of control, access, resources or enforcement before it is
+  reviewed, it can make a specified corrective outcome costlier or
+  unreachable while the standards that govern that outcome stay the same
 version: 8
 history:
 - version: 2
@@ -104,7 +109,7 @@ bears_on:
 - QUESTION-278
 ---
 
-# CLAIM-464: An intervention can change what it would take to correct it: by altering the distribution of control, access, resources or enforcement before it is reviewed, it can make a specified corrective outcome costlier or unreachable while the standards that govern that outcome stay the same
+# CLAIM-464: Interventions can raise the cost of correction
 
 ## The claim
 

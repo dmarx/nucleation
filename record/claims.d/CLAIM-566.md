@@ -3,7 +3,13 @@ number: 566
 status: Active
 formerly:
 - CLAIM-tmp99w2g
-title: 'That a form assembles, that it persists over a specified horizon and that the system regenerates it after turnover are three properties with separate probabilities, and a structure that assembles and persists without producing the constraints that would regenerate it does not show organizational closure'
+title: 'Assembly, persistence, regeneration differ'
+statement: >-
+  That a form assembles, that it persists over a specified horizon and that
+  the system regenerates it after turnover are three properties with
+  separate probabilities, and a structure that assembles and persists
+  without producing the constraints that would regenerate it does not show
+  organizational closure
 version: 2
 history:
 - version: 2
@@ -62,7 +68,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2008 THEORY-2024 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-2132 — Proposed, Unavailable or new; cited from the readings on correction, repair and replication -->
 
-# CLAIM-566: That a form assembles, that it persists over a specified horizon and that the system regenerates it after turnover are three properties with separate probabilities, and a structure that assembles and persists without producing the constraints that would regenerate it does not show organizational closure
+# CLAIM-566: Assembly, persistence, regeneration differ
 
 ## The claim
 

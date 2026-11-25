@@ -12,7 +12,12 @@ promote_when: >-
   with the automated operators' own assessment of their skill showing no
   matching decline. A study that finds the decrement but measures no
   self-assessment settles all but the last clause.
-title: 'When automation performs a subtask while the operator goes on doing the task, the operator''s skill at that subtask decays from disuse, the cognitive part more than the procedural part, and out of the operator''s awareness, because the task itself is still done and still succeeds'
+title: 'Automated subtask skills decay unnoticed'
+statement: >-
+  When automation performs a subtask while the operator goes on doing the
+  task, the operator's skill at that subtask decays from disuse, the
+  cognitive part more than the procedural part, and out of the operator's
+  awareness, because the task itself is still done and still succeeds
 version: 1
 tags:
 - cognition
@@ -30,7 +35,7 @@ summary: >-
   carried, word for word.
 ---
 
-# THEORY-1545: When automation performs a subtask while the operator goes on doing the task, the operator's skill at that subtask decays from disuse, the cognitive part more than the procedural part, and out of the operator's awareness, because the task itself is still done and still succeeds
+# THEORY-1545: Automated subtask skills decay unnoticed
 
 ## Source
 

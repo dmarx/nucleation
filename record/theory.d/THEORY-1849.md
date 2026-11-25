@@ -3,7 +3,13 @@ number: 1849
 status: Proposed
 formerly:
 - THEORY-tmpnydju
-title: 'Farr reads Marcuse as holding that advanced industrial society sustains a democratic unfreedom in which domination takes the form of administration and needs neither force nor an authority figure, because the society makes people think themselves freer than they are and integrates them through needs it creates'
+title: 'Industrial society breeds democratic unfreedom'
+statement: >-
+  Farr reads Marcuse as holding that advanced industrial society sustains a
+  democratic unfreedom in which domination takes the form of administration
+  and needs neither force nor an authority figure, because the society makes
+  people think themselves freer than they are and integrates them through
+  needs it creates
 version: 1
 source:
 - LIT-2589
@@ -26,7 +32,7 @@ bears_on:
 <!-- inactive-ok-file: ARG-109 CLAIM-682 THEORY-1853 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-1931 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
-# THEORY-1849: Farr reads Marcuse as holding that advanced industrial society sustains a democratic unfreedom in which domination takes the form of administration and needs neither force nor an authority figure, because the society makes people think themselves freer than they are and integrates them through needs it creates
+# THEORY-1849: Industrial society breeds democratic unfreedom
 
 ## The account
 

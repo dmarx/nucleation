@@ -3,7 +3,13 @@ number: 370
 status: Active
 formerly:
 - CLAIM-tmpu2dsm
-title: 'For a symmetric positive-pair distribution with marginal p, the conditional-expectation operator on L²(p) has the density ratio K⁺ as its kernel, and it is Hilbert–Schmidt exactly when the χ²-divergence of the pair from the product of its marginals is finite, in which case it is compact and self-adjoint with an orthonormal eigenbasis'
+title: 'Positive-pair operator is Hilbert–Schmidt iff χ²'
+statement: >-
+  For a symmetric positive-pair distribution with marginal p, the
+  conditional-expectation operator on L²(p) has the density ratio K⁺ as its
+  kernel, and it is Hilbert–Schmidt exactly when the χ²-divergence of the
+  pair from the product of its marginals is finite, in which case it is
+  compact and self-adjoint with an orthonormal eigenbasis
 version: 1
 history:
 - version: 1
@@ -45,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-005 THEORY-001 — Proposed; the reading this was split from, and the InfoNCE account, cited as open, not leaned on -->
 
-# CLAIM-370: For a symmetric positive-pair distribution with marginal p, the conditional-expectation operator on L²(p) has the density ratio K⁺ as its kernel, and it is Hilbert–Schmidt exactly when the χ²-divergence of the pair from the product of its marginals is finite, in which case it is compact and self-adjoint with an orthonormal eigenbasis
+# CLAIM-370: Positive-pair operator is Hilbert–Schmidt iff χ²
 
 ## The claim
 

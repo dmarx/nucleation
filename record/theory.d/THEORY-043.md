@@ -21,7 +21,12 @@ promote_when: >-
   same estimate made for a modular mind. Reading Lycan, Huebner, List &
   Pettit and Tollefsen, which are filed unread, could also move it, since each is reported
   to bear on exactly this seam.
-title: 'A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled'
+title: 'Nested-agent minds split on unprincipled criteria'
+statement: >-
+  A mind of mindless agents and a mind of minded agents are one
+  functionalist move run in two directions, and what separates them is an
+  anti-nesting principle or an architectural criterion, neither yet
+  principled
 version: 6
 history:
 - version: 2
@@ -115,7 +120,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-512 THEORY-596 — Proposed; accounts filed for readings this one cites, named in Connections, not leaned on -->
 <!-- inactive-ok-file: CASE-350, CLAIM-927 — new; the study and claim of the note of 2026-11-22 -->
 
-# THEORY-043: A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled
+# THEORY-043: Nested-agent minds split on unprincipled criteria
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 972
 status: Proposed
 formerly:
 - CLAIM-tmpie2v3
-title: 'A non-abelian group learned from one-hot composition with no matrix representation imposed yields its irreducibles to a blind recovery that is given only the operation the network itself computes, exactly when the network has learned the group, and a group-supplied control recovers the same irreducibles, so the gate is the network''s competence and not the method'
+title: 'Irreducible recovery is gated by competence'
+statement: >-
+  A non-abelian group learned from one-hot composition with no matrix
+  representation imposed yields its irreducibles to a blind recovery that is
+  given only the operation the network itself computes, exactly when the
+  network has learned the group, and a group-supplied control recovers the
+  same irreducibles, so the gate is the network's competence and not the
+  method
 version: 1
 role: thesis
 warrant: empirical
@@ -31,7 +38,7 @@ grounds:
 <!-- inactive-ok-file: THEORY-022 — Proposed; cited in prose for the contrast with the abelian case -->
 <!-- inactive-ok-file: CASE-378 — Proposed; the study this claim is grounded in, filed in the same batch -->
 
-# CLAIM-972: A non-abelian group learned from one-hot composition with no matrix representation imposed yields its irreducibles to a blind recovery that is given only the operation the network itself computes, exactly when the network has learned the group, and a group-supplied control recovers the same irreducibles, so the gate is the network's competence and not the method
+# CLAIM-972: Irreducible recovery is gated by competence
 
 ## The claim
 

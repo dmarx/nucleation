@@ -3,7 +3,13 @@ number: 823
 status: Proposed
 formerly:
 - CLAIM-tmpgzb8v
-title: "Alternative reading (b) of the owner's suggestion on singularities: a phase transition in learning is a change in which singular region of parameter space dominates, as the sample size grows, between regions that fit differently and have different learning coefficients, and resolution of singularities is the tool that computes those coefficients"
+title: 'Phase transition as change of dominant singularity'
+statement: >-
+  Alternative reading (b) of the owner's suggestion on singularities: a
+  phase transition in learning is a change in which singular region of
+  parameter space dominates, as the sample size grows, between regions that
+  fit differently and have different learning coefficients, and resolution
+  of singularities is the tool that computes those coefficients
 version: 2
 history:
 - version: 2
@@ -60,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-834 CLAIM-802 ARG-132 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, or a Deferred work registered from it and not yet read -->
 <!-- inactive-ok-file: CLAIM-812 THEORY-2157 THEORY-2160 ARG-156 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-# CLAIM-823: Alternative reading (b) of the owner's suggestion on singularities: a phase transition in learning is a change in which singular region of parameter space dominates, as the sample size grows, between regions that fit differently and have different learning coefficients, and resolution of singularities is the tool that computes those coefficients
+# CLAIM-823: Phase transition as change of dominant singularity
 
 **This is reading (b) of [CLAIM-834](CLAIM-834.md), the owner's U23, one of two
 alternatives.** The other, reading (a), is [CLAIM-802](CLAIM-802.md). The owner

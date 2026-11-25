@@ -3,7 +3,15 @@ number: 410
 status: Active
 formerly:
 - CLAIM-tmpyxupb
-title: 'Removing a constraint on an organization''s members does not move it along one scale of more or less governance: it changes a profile of who holds governing positions, among them rule-making, monitoring, enforcement, appeal and revision, in which the authority the constraint held can be eliminated, distributed or transferred, and the members'' first-order options and their share in revising the conditions of their action can move in opposite directions'
+title: 'Removing a constraint reshapes governance profile'
+statement: >-
+  Removing a constraint on an organization's members does not move it along
+  one scale of more or less governance: it changes a profile of who holds
+  governing positions, among them rule-making, monitoring, enforcement,
+  appeal and revision, in which the authority the constraint held can be
+  eliminated, distributed or transferred, and the members' first-order
+  options and their share in revising the conditions of their action can
+  move in opposite directions
 version: 8
 history:
 - version: 2
@@ -111,7 +119,7 @@ works:
 <!-- inactive-ok-file: CASE-253 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1787 THEORY-1809 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-410: Removing a constraint on an organization's members does not move it along one scale of more or less governance: it changes a profile of who holds governing positions, among them rule-making, monitoring, enforcement, appeal and revision, in which the authority the constraint held can be eliminated, distributed or transferred, and the members' first-order options and their share in revising the conditions of their action can move in opposite directions
+# CLAIM-410: Removing a constraint reshapes governance profile
 
 ## The claim
 

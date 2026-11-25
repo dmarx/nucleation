@@ -3,7 +3,15 @@ number: 83
 status: Proposed
 formerly:
 - SYNTHESIS-tmpk32cm
-title: 'A regularized linear readout separates exactly what the kernel separates: equal centred Gram matrices mean a translation and an orthogonal map, for positive ridge the readout kernel and the Gram matrix fix each other while the unregularized member sees only the column space, a symmetry forces degeneracy in a commuting operator but the spectrum fixes neither the group nor a basis, and so no such readout supplies a distinction beyond that freedom'
+title: 'A readout separates exactly what its kernel does'
+statement: >-
+  A regularized linear readout separates exactly what the kernel separates:
+  equal centred Gram matrices mean a translation and an orthogonal map, for
+  positive ridge the readout kernel and the Gram matrix fix each other while
+  the unregularized member sees only the column space, a symmetry forces
+  degeneracy in a commuting operator but the spectrum fixes neither the
+  group nor a basis, and so no such readout supplies a distinction beyond
+  that freedom
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -27,7 +35,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-193 CLAIM-263 SYNTHESIS-030 THEORY-002 THEORY-005 THEORY-080 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-075 SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-083: A regularized linear readout separates exactly what the kernel separates: equal centred Gram matrices mean a translation and an orthogonal map, for positive ridge the readout kernel and the Gram matrix fix each other while the unregularized member sees only the column space, a symmetry forces degeneracy in a commuting operator but the spectrum fixes neither the group nor a basis, and so no such readout supplies a distinction beyond that freedom
+# SYNTHESIS-083: A readout separates exactly what its kernel does
 
 *A part account of the formal-apparatus line: one of the line's eleven
 small clusters, four of the record's own demonstrations on what kernels

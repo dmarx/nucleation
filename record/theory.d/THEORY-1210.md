@@ -14,7 +14,12 @@ promote_when: >-
   weakened if it gains only where the truth is consistent by construction.
   A further comparison of HOT against other methods on consistent
   benchmarks does not settle it.
-title: 'When several networks are aligned, fitting one joint multi-marginal coupling finds held-out correspondences better than fitting them in pairs, and the gain comes from the joint fit itself, not from the cost or the search space that come with it'
+title: 'Joint multi-network coupling itself drives gains'
+statement: >-
+  When several networks are aligned, fitting one joint multi-marginal
+  coupling finds held-out correspondences better than fitting them in pairs,
+  and the gain comes from the joint fit itself, not from the cost or the
+  search space that come with it
 version: 1
 tags:
 - network-science
@@ -34,7 +39,7 @@ summary: >-
 ---
 
 
-# THEORY-1210: When several networks are aligned, fitting one joint multi-marginal coupling finds held-out correspondences better than fitting them in pairs, and the gain comes from the joint fit itself, not from the cost or the search space that come with it
+# THEORY-1210: Joint multi-network coupling itself drives gains
 
 ## Source
 

@@ -13,7 +13,12 @@ promote_when: >-
   whose label survives cropping worst. It is refuted if, after
   correction, no more classes lose than chance gives. More per-class
   curves for hand-picked classes cannot settle it.
-title: "How much of an ImageNet image a crop must keep for its label to survive varies widely by class, with architectures agreeing on which classes are fragile, and strengthening random crop raises mean accuracy while some classes lose 20 points or more; how many classes lose is not established"
+title: 'Crop tolerance varies by class; some classes lose'
+statement: >-
+  How much of an ImageNet image a crop must keep for its label to survive
+  varies widely by class, with architectures agreeing on which classes are
+  fragile, and strengthening random crop raises mean accuracy while some
+  classes lose 20 points or more; how many classes lose is not established
 version: 1
 tags:
 - learning-theory
@@ -33,7 +38,7 @@ summary: >-
   not counted. Theorem 1 does not reach which classes pay.
 ---
 
-# THEORY-510: How much of an ImageNet image a crop must keep for its label to survive varies widely by class, with architectures agreeing on which classes are fragile, and strengthening random crop raises mean accuracy while some classes lose 20 points or more; how many classes lose is not established
+# THEORY-510: Crop tolerance varies by class; some classes lose
 
 ## Source
 

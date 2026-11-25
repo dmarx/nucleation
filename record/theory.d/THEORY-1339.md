@@ -3,7 +3,19 @@ number: 1339
 status: Active
 formerly:
 - THEORY-tmprb3rb
-title: 'In Lu et al.''s synthetic multi-turn conversations, with frontier models playing the user (100 conversations of up to 15 turns per domain, three target and three user models), the mean position of a chat model''s responses along the Assistant Axis stays in the Assistant range in coding conversations and, apart from some drift in Gemma, in writing ones, and drifts to the non-Assistant end in therapy-like and AI-philosophy ones; ridge regression on embeddings of the latest user message predicts the next response''s position (R² 0.53–0.77) but not its change from the previous response (R² 0.10), from which the authors infer that position depends most strongly on the most recent user message rather than on where it was before, the message itself depending on the conversation'
+title: 'Assistant-axis drift follows latest user message'
+statement: >-
+  In Lu et al.'s synthetic multi-turn conversations, with frontier models
+  playing the user (100 conversations of up to 15 turns per domain, three
+  target and three user models), the mean position of a chat model's
+  responses along the Assistant Axis stays in the Assistant range in coding
+  conversations and, apart from some drift in Gemma, in writing ones, and
+  drifts to the non-Assistant end in therapy-like and AI-philosophy ones;
+  ridge regression on embeddings of the latest user message predicts the
+  next response's position (R² 0.53–0.77) but not its change from the
+  previous response (R² 0.10), from which the authors infer that position
+  depends most strongly on the most recent user message rather than on where
+  it was before, the message itself depending on the conversation
 version: 3
 history:
 - version: 2
@@ -58,7 +70,7 @@ bears_on:
 - QUESTION-443
 ---
 
-# THEORY-1339: In Lu et al.'s synthetic multi-turn conversations, with frontier models playing the user (100 conversations of up to 15 turns per domain, three target and three user models), the mean position of a chat model's responses along the Assistant Axis stays in the Assistant range in coding conversations and, apart from some drift in Gemma, in writing ones, and drifts to the non-Assistant end in therapy-like and AI-philosophy ones; ridge regression on embeddings of the latest user message predicts the next response's position (R² 0.53–0.77) but not its change from the previous response (R² 0.10), from which the authors infer that position depends most strongly on the most recent user message rather than on where it was before, the message itself depending on the conversation
+# THEORY-1339: Assistant-axis drift follows latest user message
 
 ## Source
 

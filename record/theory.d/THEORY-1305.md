@@ -3,7 +3,14 @@ number: 1305
 status: Active
 formerly:
 - THEORY-tmp49j7m
-title: 'In Kasser and Ryan''s two cross-sectional samples, holding constant how much a person aspires to overall, the relative importance of extrinsic aspirations (money, fame, image) goes with less self-actualization and vitality and more physical symptoms, and of intrinsic aspirations (growth, relationships, community, health) with the reverse; the paper does not test whether this survives the reasons for pursuing the goals'
+title: 'Relative extrinsic aspirations go with ill-being'
+statement: >-
+  In Kasser and Ryan's two cross-sectional samples, holding constant how
+  much a person aspires to overall, the relative importance of extrinsic
+  aspirations (money, fame, image) goes with less self-actualization and
+  vitality and more physical symptoms, and of intrinsic aspirations (growth,
+  relationships, community, health) with the reverse; the paper does not
+  test whether this survives the reasons for pursuing the goals
 version: 1
 tags:
 - motivation
@@ -22,7 +29,7 @@ summary: >-
   which the paper names as an open question.
 ---
 
-# THEORY-1305: In Kasser and Ryan's two cross-sectional samples, holding constant how much a person aspires to overall, the relative importance of extrinsic aspirations (money, fame, image) goes with less self-actualization and vitality and more physical symptoms, and of intrinsic aspirations (growth, relationships, community, health) with the reverse; the paper does not test whether this survives the reasons for pursuing the goals
+# THEORY-1305: Relative extrinsic aspirations go with ill-being
 
 ## Source
 

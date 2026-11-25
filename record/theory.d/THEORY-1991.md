@@ -9,7 +9,14 @@ promote_when: >-
   with low control in fear, perceived threat or harassment after the
   frequency and severity of violence are controlled. Not satisfied by a
   study that types couples by violent acts alone.
-title: 'Hardesty, Crossman, Haselschwerdt, Raffaelli, Ogolsky and Johnson find, in 190 divorcing mothers, that coercive control scored by the frequency of tactics rather than their number yields stable high- and low-control groups, and that violence with high control differs from violence with low control in fear, threat and harassment when the frequency and severity of violence are held constant'
+title: 'High-control violence differs at equal severity'
+statement: >-
+  Hardesty, Crossman, Haselschwerdt, Raffaelli, Ogolsky and Johnson find, in
+  190 divorcing mothers, that coercive control scored by the frequency of
+  tactics rather than their number yields stable high- and low-control
+  groups, and that violence with high control differs from violence with low
+  control in fear, threat and harassment when the frequency and severity of
+  violence are held constant
 version: 1
 tags:
 - social-science
@@ -29,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2715 — Unavailable; the work this stands in for -->
 <!-- inactive-ok-file: CLAIM-709 — new or Proposed; the reading and the claim it corroborates -->
 
-# THEORY-1991: Hardesty, Crossman, Haselschwerdt, Raffaelli, Ogolsky and Johnson find, in 190 divorcing mothers, that coercive control scored by the frequency of tactics rather than their number yields stable high- and low-control groups, and that violence with high control differs from violence with low control in fear, threat and harassment when the frequency and severity of violence are held constant
+# THEORY-1991: High-control violence differs at equal severity
 
 Hardesty et al. (2015), [LIT-2771](../literature.d/LIT-2771.md).
 

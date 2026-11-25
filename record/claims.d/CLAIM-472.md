@@ -3,7 +3,13 @@ number: 472
 status: Proposed
 formerly:
 - CLAIM-tmpdr90u
-title: 'Because an apparatus makes some distinctions determinate and leaves others unstatable, choosing and maintaining one is open to evaluation and not only to verification; but that a cut excludes something fixes no obligation, since every distinction excludes, and which exclusions matter is a judgment indexed to a standard, a scale and those affected'
+title: 'Apparatus choice is evaluable, not just verifiable'
+statement: >-
+  Because an apparatus makes some distinctions determinate and leaves others
+  unstatable, choosing and maintaining one is open to evaluation and not
+  only to verification; but that a cut excludes something fixes no
+  obligation, since every distinction excludes, and which exclusions matter
+  is a judgment indexed to a standard, a scale and those affected
 version: 6
 history:
 - version: 2
@@ -83,7 +89,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-1657 — Deferred; registered from the same exchange, unread -->
 <!-- inactive-ok-file: THEORY-1797 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-472: Because an apparatus makes some distinctions determinate and leaves others unstatable, choosing and maintaining one is open to evaluation and not only to verification; but that a cut excludes something fixes no obligation, since every distinction excludes, and which exclusions matter is a judgment indexed to a standard, a scale and those affected
+# CLAIM-472: Apparatus choice is evaluable, not just verifiable
 
 ## The claim
 

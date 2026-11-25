@@ -3,7 +3,13 @@ number: 1264
 status: Proposed
 formerly:
 - CLAIM-tmpdq0ah
-title: 'A meme can carry a portable specification of a governance or inquiry protocol, a precedence, a threshold or a burden of evidence, which is not a contract but one around which contracts can be organized in each organization that takes it up; so a culture of inquiry can be in part a shared repertoire of such protocols and not only of beliefs'
+title: 'Memes can carry portable protocols'
+statement: >-
+  A meme can carry a portable specification of a governance or inquiry
+  protocol, a precedence, a threshold or a burden of evidence, which is not
+  a contract but one around which contracts can be organized in each
+  organization that takes it up; so a culture of inquiry can be in part a
+  shared repertoire of such protocols and not only of beliefs
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-068 CLAIM-1293 — Proposed; cited as filed or held beside this entry, whatever its standing -->
 
-# CLAIM-1264: A meme can carry a portable specification of a governance or inquiry protocol, a precedence, a threshold or a burden of evidence, which is not a contract but one around which contracts can be organized in each organization that takes it up; so a culture of inquiry can be in part a shared repertoire of such protocols and not only of beliefs
+# CLAIM-1264: Memes can carry portable protocols
 
 ## The claim
 

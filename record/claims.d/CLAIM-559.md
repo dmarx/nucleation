@@ -3,7 +3,11 @@ number: 559
 status: Active
 formerly:
 - CLAIM-tmp4pk8d
-title: 'In a sequential decision problem with informative reassessment, provisional activation and subsequent cancellation of a capability can both be optimal under one unchanged objective'
+title: 'Activate-then-cancel can both be optimal'
+statement: >-
+  In a sequential decision problem with informative reassessment,
+  provisional activation and subsequent cancellation of a capability can
+  both be optimal under one unchanged objective
 version: 3
 history:
 - version: 2
@@ -59,7 +63,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-559: In a sequential decision problem with informative reassessment, provisional activation and subsequent cancellation of a capability can both be optimal under one unchanged objective
+# CLAIM-559: Activate-then-cancel can both be optimal
 
 ## The claim
 

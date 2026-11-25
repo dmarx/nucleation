@@ -3,7 +3,14 @@ number: 1064
 status: Active
 formerly:
 - CLAIM-tmpbbfcj
-title: 'In an institution each of whose recognized violations is penalized, newly recognized ones included, whose discovery of requirements earns nothing, and whose remediation lags recognition, inquiry that only reveals requirements never raises its score when the hidden requirements do not otherwise come to light: on every path it adds only penalized violations and spent budget, so an institution acting on that score makes no inquiry'
+title: 'Penalized discovery makes inquiry never pay'
+statement: >-
+  In an institution each of whose recognized violations is penalized, newly
+  recognized ones included, whose discovery of requirements earns nothing,
+  and whose remediation lags recognition, inquiry that only reveals
+  requirements never raises its score when the hidden requirements do not
+  otherwise come to light: on every path it adds only penalized violations
+  and spent budget, so an institution acting on that score makes no inquiry
 version: 3
 history:
 - version: 1
@@ -70,7 +77,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 
-# CLAIM-1064: In an institution each of whose recognized violations is penalized, newly recognized ones included, whose discovery of requirements earns nothing, and whose remediation lags recognition, inquiry that only reveals requirements never raises its score when the hidden requirements do not otherwise come to light: on every path it adds only penalized violations and spent budget, so an institution acting on that score makes no inquiry
+# CLAIM-1064: Penalized discovery makes inquiry never pay
 
 ## The claim
 

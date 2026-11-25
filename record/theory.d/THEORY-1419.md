@@ -11,7 +11,14 @@ promote_when: >-
   of self-stress second-order rigidity implies energetic rigidity when the
   prestress matrix is zero or positive semidefinite, while no general
   implication holds when it has negative eigenvalues.
-title: 'Damavandi, Hagh, Santangelo and Manning show that, for elastic energies quadratic in their constraints, constraint counting predicts energetic rigidity only when the system has no states of self-stress, and that when it has them the spectrum of the prestress matrix decides whether second-order rigidity implies energetic rigidity, with no general result when that matrix has negative eigenvalues'
+title: 'Self-stress decides if counting predicts rigidity'
+statement: >-
+  Damavandi, Hagh, Santangelo and Manning show that, for elastic energies
+  quadratic in their constraints, constraint counting predicts energetic
+  rigidity only when the system has no states of self-stress, and that when
+  it has them the spectrum of the prestress matrix decides whether
+  second-order rigidity implies energetic rigidity, with no general result
+  when that matrix has negative eigenvalues
 version: 2
 history:
 - version: 2
@@ -40,7 +47,7 @@ bears_on:
 - QUESTION-389
 ---
 
-# THEORY-1419: Damavandi, Hagh, Santangelo and Manning show that, for elastic energies quadratic in their constraints, constraint counting predicts energetic rigidity only when the system has no states of self-stress, and that when it has them the spectrum of the prestress matrix decides whether second-order rigidity implies energetic rigidity, with no general result when that matrix has negative eigenvalues
+# THEORY-1419: Self-stress decides if counting predicts rigidity
 
 ## Source
 

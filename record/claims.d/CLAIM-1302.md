@@ -3,7 +3,13 @@ number: 1302
 status: Proposed
 formerly:
 - CLAIM-tmpmq8lk
-title: A feed's memory is the durable provenance of the decisions and events that shaped it and not a cache of what it displayed, since a cache says what was shown and a memory says why, so a feed can be modelled as a versioned query with an append-only history of editorial actions, and curation becomes part of the record it curates
+title: 'A feed''s memory is provenance, not cache'
+statement: >-
+  A feed's memory is the durable provenance of the decisions and events that
+  shaped it and not a cache of what it displayed, since a cache says what
+  was shown and a memory says why, so a feed can be modelled as a versioned
+  query with an append-only history of editorial actions, and curation
+  becomes part of the record it curates
 version: 3
 history:
 - version: 2
@@ -54,7 +60,7 @@ works:
 
 <!-- inactive-ok-file: TERM-177 CLAIM-250 CLAIM-1321 — Proposed; the owner's feed, what a record should preserve through revision, and the assistant's refinement -->
 
-# CLAIM-1302: A feed's memory is the durable provenance of the decisions and events that shaped it and not a cache of what it displayed, since a cache says what was shown and a memory says why, so a feed can be modelled as a versioned query with an append-only history of editorial actions, and curation becomes part of the record it curates
+# CLAIM-1302: A feed's memory is provenance, not cache
 
 ## The claim
 

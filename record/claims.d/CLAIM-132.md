@@ -3,7 +3,12 @@ number: 132
 status: Active
 formerly:
 - CLAIM-tmp3sn40
-title: 'Characters classify finite-dimensional representations of a finite or compact group up to isomorphism only over a field of characteristic zero; they forget the isomorphisms, fix neither the group nor a permutation action, and classify kinds, not tokens or positions'
+title: 'Characters classify kinds only in characteristic 0'
+statement: >-
+  Characters classify finite-dimensional representations of a finite or
+  compact group up to isomorphism only over a field of characteristic zero;
+  they forget the isomorphisms, fix neither the group nor a permutation
+  action, and classify kinds, not tokens or positions
 version: 4
 history:
 - version: 2
@@ -74,7 +79,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-137 CLAIM-136 — Proposed; the owner's two theses this entry bounds, both open -->
 <!-- inactive-ok-file: CLAIM-063 — Proposed; cited as the parallel commutator bound, open -->
 
-# CLAIM-132: Characters classify finite-dimensional representations of a finite or compact group up to isomorphism only over a field of characteristic zero; they forget the isomorphisms, fix neither the group nor a permutation action, and classify kinds, not tokens or positions
+# CLAIM-132: Characters classify kinds only in characteristic 0
 
 ## The claim
 

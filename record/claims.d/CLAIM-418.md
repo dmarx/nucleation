@@ -3,7 +3,16 @@ number: 418
 status: Active
 formerly:
 - CLAIM-tmp9jg87
-title: 'Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; where a perspective contributes to an agent''s activity it can enable and constrain the exercise of agency, and that exercise can reproduce or transform it, while whether agency universally requires such a perspective stays open'
+title: 'A perspective does not make an agent'
+statement: >-
+  Possessing, enacting or being shaped by an organizational perspective does
+  not establish an independent agent, and perspectival, agential and
+  institutional boundaries need not coincide: several agents can share a
+  perspective, one agent can act through several, and a perspective can be
+  reproduced with no agent governing it; where a perspective contributes to
+  an agent's activity it can enable and constrain the exercise of agency,
+  and that exercise can reproduce or transform it, while whether agency
+  universally requires such a perspective stays open
 version: 7
 history:
 - version: 2
@@ -96,7 +105,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-945 — new, filed by LEAD-087's run -->
 <!-- inactive-ok-file: CLAIM-417 TERM-063 — Proposed; claims and terms cited as open, nothing here rests on their being settled -->
 
-# CLAIM-418: Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; where a perspective contributes to an agent's activity it can enable and constrain the exercise of agency, and that exercise can reproduce or transform it, while whether agency universally requires such a perspective stays open
+# CLAIM-418: A perspective does not make an agent
 
 ## The claim
 

@@ -13,7 +13,16 @@ promote_when: >-
   positive correlation of flow and happiness across single reports is
   confirmed there. The title asserts the authors' partial explanation of
   the paradox only as theirs, so a rival explanation does not defeat it.
-title: 'Rheinberg, Manig, Kliegl, Engeser and Vollmeyer find by experience sampling of 101 employees, with flow measured by all its components, that flow is higher at work and happiness/satisfaction higher in leisure, that across single reports the two correlate weakly positively, and that goal-directedness of the current activity raises flow in both contexts while leaving happiness unchanged at work and lowering it in leisure; they read the paradox of work as partly an effect of how often work is goal-directed'
+title: 'Flow is higher at work, happiness at leisure'
+statement: >-
+  Rheinberg, Manig, Kliegl, Engeser and Vollmeyer find by experience
+  sampling of 101 employees, with flow measured by all its components, that
+  flow is higher at work and happiness/satisfaction higher in leisure, that
+  across single reports the two correlate weakly positively, and that
+  goal-directedness of the current activity raises flow in both contexts
+  while leaving happiness unchanged at work and lowering it in leisure; they
+  read the paradox of work as partly an effect of how often work is
+  goal-directed
 version: 1
 tags:
 - emotion-and-affect
@@ -35,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2208 CLAIM-441 — new or Proposed; the work, its reading, the companion reading and the claims it bears on -->
 
-# THEORY-2207: Rheinberg, Manig, Kliegl, Engeser and Vollmeyer find by experience sampling of 101 employees, with flow measured by all its components, that flow is higher at work and happiness/satisfaction higher in leisure, that across single reports the two correlate weakly positively, and that goal-directedness of the current activity raises flow in both contexts while leaving happiness unchanged at work and lowering it in leisure; they read the paradox of work as partly an effect of how often work is goal-directed
+# THEORY-2207: Flow is higher at work, happiness at leisure
 
 ## Source
 

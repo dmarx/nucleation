@@ -3,7 +3,14 @@ number: 1815
 status: Proposed
 formerly:
 - THEORY-tmp9u7p2
-title: 'Prest argues that white performers'' imitations of slave dance in the public theatres of pre-revolutionary Saint-Domingue presented a desexualized, Europeanized and non-threatening version of it, by which colonials sought to control and defuse a power they reluctantly attributed to slave dance, and that their never imitating vodou dance shows that they feared and recognized its potency'
+title: 'Staged slave dance defused a feared power'
+statement: >-
+  Prest argues that white performers' imitations of slave dance in the
+  public theatres of pre-revolutionary Saint-Domingue presented a
+  desexualized, Europeanized and non-threatening version of it, by which
+  colonials sought to control and defuse a power they reluctantly attributed
+  to slave dance, and that their never imitating vodou dance shows that they
+  feared and recognized its potency
 version: 1
 source:
 - LIT-2527
@@ -17,7 +24,7 @@ summary: >-
   Prest (2018), read in [NOTE-1894](../notes.d/NOTE-1894.md) (Read). The colonial imitator: whitened slave dance on Saint-Domingue's stage as control; vodou dance never staged.
 ---
 
-# THEORY-1815: Prest argues that white performers' imitations of slave dance in the public theatres of pre-revolutionary Saint-Domingue presented a desexualized, Europeanized and non-threatening version of it, by which colonials sought to control and defuse a power they reluctantly attributed to slave dance, and that their never imitating vodou dance shows that they feared and recognized its potency
+# THEORY-1815: Staged slave dance defused a feared power
 
 ## The account
 

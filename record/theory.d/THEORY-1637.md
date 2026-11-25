@@ -3,7 +3,12 @@ number: 1637
 status: Proposed
 formerly:
 - THEORY-tmpk9bmo
-title: 'Kiczales and colleagues argue that some design decisions cross-cut a program''s functional decomposition and can be expressed cleanly only in separate aspect languages woven with the base program, and treat reflection and metaobject protocols as one lower-level means to that end'
+title: 'Cross-cutting concerns need woven aspect languages'
+statement: >-
+  Kiczales and colleagues argue that some design decisions cross-cut a
+  program's functional decomposition and can be expressed cleanly only in
+  separate aspect languages woven with the base program, and treat
+  reflection and metaobject protocols as one lower-level means to that end
 version: 1
 tags:
 - software-engineering
@@ -28,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1716 — Skimmed; the reading of the source -->
 
-# THEORY-1637: Kiczales and colleagues argue that some design decisions cross-cut a program's functional decomposition and can be expressed cleanly only in separate aspect languages woven with the base program, and treat reflection and metaobject protocols as one lower-level means to that end
+# THEORY-1637: Cross-cutting concerns need woven aspect languages
 
 ## The account
 

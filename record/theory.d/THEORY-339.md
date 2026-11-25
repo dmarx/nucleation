@@ -14,7 +14,15 @@ promote_when: >-
   ever found. Another correlational order study, or a further simulation of
   sample against summary reuse, cannot settle it: dependence on the earlier
   answer is already held, and what is missing is the efficiency half.
-title: "People's answers to a probability query depend on their own answers to an earlier query whose result it can use: a person's sub-answer predicts their later answer only when asked first, and a bias induced in a first judgment carries into a second only when the two share part of a hypothesis space, so reuse carries the earlier error with it; that reuse saves computation rests on one small response-time study and one secondary-task result"
+title: 'Probability judgments reuse earlier answers'
+statement: >-
+  People's answers to a probability query depend on their own answers to an
+  earlier query whose result it can use: a person's sub-answer predicts
+  their later answer only when asked first, and a bias induced in a first
+  judgment carries into a second only when the two share part of a
+  hypothesis space, so reuse carries the earlier error with it; that reuse
+  saves computation rests on one small response-time study and one
+  secondary-task result
 version: 1
 tags:
 - cognition
@@ -39,7 +47,7 @@ bears_on:
 - QUESTION-095
 ---
 
-# THEORY-339: People's answers to a probability query depend on their own answers to an earlier query whose result it can use: a person's sub-answer predicts their later answer only when asked first, and a bias induced in a first judgment carries into a second only when the two share part of a hypothesis space, so reuse carries the earlier error with it; that reuse saves computation rests on one small response-time study and one secondary-task result
+# THEORY-339: Probability judgments reuse earlier answers
 
 ## Source
 

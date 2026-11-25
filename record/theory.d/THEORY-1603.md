@@ -3,7 +3,14 @@ number: 1603
 status: Active
 formerly:
 - THEORY-tmpjhhqr
-title: 'Scheepers and Ellemers present social identity theory: social identity is the part of the self-concept that derives from group membership together with its value and emotional significance, people strive for a positive social identity through favourable comparison with out-groups, and members of low-status groups choose mobility, collective action or social creativity by permeability, legitimacy and stability'
+title: 'People seek positive identity via comparison'
+statement: >-
+  Scheepers and Ellemers present social identity theory: social identity is
+  the part of the self-concept that derives from group membership together
+  with its value and emotional significance, people strive for a positive
+  social identity through favourable comparison with out-groups, and members
+  of low-status groups choose mobility, collective action or social
+  creativity by permeability, legitimacy and stability
 version: 2
 history:
 - version: 1
@@ -35,7 +42,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1603: Scheepers and Ellemers present social identity theory: social identity is the part of the self-concept that derives from group membership together with its value and emotional significance, people strive for a positive social identity through favourable comparison with out-groups, and members of low-status groups choose mobility, collective action or social creativity by permeability, legitimacy and stability
+# THEORY-1603: People seek positive identity via comparison
 
 ## The account
 

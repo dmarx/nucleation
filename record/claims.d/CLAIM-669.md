@@ -3,7 +3,14 @@ number: 669
 status: Proposed
 formerly:
 - CLAIM-tmp16mkz
-title: 'An arrangement can exploit through the access it grants: a needed good offered on terms that leave the recipient with a lasting encumbrance, a reliance on the provider or an obligation hard to escape, that narrows later exit or renegotiation, so that exploitation can arise through inclusion that succeeds, not only through inclusion that fails, and widening access need not reduce it'
+title: 'Exploitation through successful inclusion'
+statement: >-
+  An arrangement can exploit through the access it grants: a needed good
+  offered on terms that leave the recipient with a lasting encumbrance, a
+  reliance on the provider or an obligation hard to escape, that narrows
+  later exit or renegotiation, so that exploitation can arise through
+  inclusion that succeeds, not only through inclusion that fails, and
+  widening access need not reduce it
 version: 7
 history:
 - version: 2
@@ -106,7 +113,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2522 — Unavailable; registered from the same exchange, unread -->
 <!-- inactive-ok-file: THEORY-1817 ARG-100 CLAIM-670 — filed with the readings of 2026-11-12, Proposed -->
 
-# CLAIM-669: An arrangement can exploit through the access it grants: a needed good offered on terms that leave the recipient with a lasting encumbrance, a reliance on the provider or an obligation hard to escape, that narrows later exit or renegotiation, so that exploitation can arise through inclusion that succeeds, not only through inclusion that fails, and widening access need not reduce it
+# CLAIM-669: Exploitation through successful inclusion
 
 ## The claim
 

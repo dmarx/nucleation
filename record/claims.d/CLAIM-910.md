@@ -3,7 +3,13 @@ number: 910
 status: Proposed
 formerly:
 - CLAIM-tmpp56wv
-title: 'Where a shared external driver and members'' coupling produce the same within-group correlation, features inferred from members'' activity under a finite Indian buffet prior do not tell them apart and do not add to the communication graph in predicting interventions on the coupling; the graph alone invents coupling under the driver, and the features do not remove it'
+title: 'IBP features cannot tell drive from coupling'
+statement: >-
+  Where a shared external driver and members' coupling produce the same
+  within-group correlation, features inferred from members' activity under a
+  finite Indian buffet prior do not tell them apart and do not add to the
+  communication graph in predicting interventions on the coupling; the graph
+  alone invents coupling under the driver, and the features do not remove it
 version: 1
 role: thesis
 warrant: empirical
@@ -47,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-337 — new; the study this claim rests on -->
 <!-- inactive-ok-file: CLAIM-327 — Proposed; cited as a mechanism the study did not simulate -->
 
-# CLAIM-910: Where a shared external driver and members' coupling produce the same within-group correlation, features inferred from members' activity under a finite Indian buffet prior do not tell them apart and do not add to the communication graph in predicting interventions on the coupling; the graph alone invents coupling under the driver, and the features do not remove it
+# CLAIM-910: IBP features cannot tell drive from coupling
 
 ## The claim
 

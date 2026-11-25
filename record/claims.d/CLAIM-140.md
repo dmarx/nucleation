@@ -3,7 +3,11 @@ number: 140
 status: Active
 formerly:
 - CLAIM-tmpbaexb
-title: 'The October thesis replaces what a receiver can reconstruct with what the analyst''s probe system can identify as the test of what survives, and no turn argues the change'
+title: 'October thesis swaps receivers for probes'
+statement: >-
+  The October thesis replaces what a receiver can reconstruct with what the
+  analyst's probe system can identify as the test of what survives, and no
+  turn argues the change
 version: 1
 role: granted
 warrant: interpretive
@@ -29,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as the earlier thesis that still kept the receiver -->
 <!-- inactive-ok-file: CLAIM-204 — Proposed; the record's replies of 2026-10-10, open, cited in the note -->
 
-# CLAIM-140: The October thesis replaces what a receiver can reconstruct with what the analyst's probe system can identify as the test of what survives, and no turn argues the change
+# CLAIM-140: October thesis swaps receivers for probes
 
 ## The claim
 

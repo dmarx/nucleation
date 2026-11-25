@@ -3,7 +3,16 @@ number: 1159
 status: Active
 formerly:
 - THEORY-tmpz6ryi
-title: 'Aligning three networks jointly, through one multi-marginal fused Gromov–Wasserstein coupling with an anchor-based random-walk cost and a cluster decomposition, finds held-out correspondences better than pairwise and existing multi-network methods in most cases, as the paper''s plots show, in both pairwise and whole-tuple hits, on benchmarks whose true correspondences are consistent across the three networks by construction; whether the joint coupling itself is the cause is not separated from the new cost and the clustering'
+title: 'Joint three-network FGW alignment beats pairwise'
+statement: >-
+  Aligning three networks jointly, through one multi-marginal fused
+  Gromov–Wasserstein coupling with an anchor-based random-walk cost and a
+  cluster decomposition, finds held-out correspondences better than pairwise
+  and existing multi-network methods in most cases, as the paper's plots
+  show, in both pairwise and whole-tuple hits, on benchmarks whose true
+  correspondences are consistent across the three networks by construction;
+  whether the joint coupling itself is the cause is not separated from the
+  new cost and the clustering
 version: 2
 history:
 - version: 2
@@ -54,7 +63,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-1210 — Proposed; the wider thesis split from this entry, cited as open -->
 
-# THEORY-1159: Aligning three networks jointly, through one multi-marginal fused Gromov–Wasserstein coupling with an anchor-based random-walk cost and a cluster decomposition, finds held-out correspondences better than pairwise and existing multi-network methods in most cases, as the paper's plots show, in both pairwise and whole-tuple hits, on benchmarks whose true correspondences are consistent across the three networks by construction; whether the joint coupling itself is the cause is not separated from the new cost and the clustering
+# THEORY-1159: Joint three-network FGW alignment beats pairwise
 
 ## Source
 

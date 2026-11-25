@@ -3,7 +3,13 @@ number: 303
 status: Active
 formerly:
 - CLAIM-tmpygqjz
-title: 'Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and where reuse can be forecast, recurrence is evidence of reuse, not the criterion'
+title: 'Filing is worth it only when reuse covers cost'
+statement: >-
+  Filing an argument moves work across time: it is paid for now, in filing,
+  indexing, tracking dependencies and checking it is still current, against
+  reconstruction later, so it is worth its cost only when expected reuse
+  covers it, and where reuse can be forecast, recurrence is evidence of
+  reuse, not the criterion
 version: 6
 history:
 - version: 2
@@ -99,7 +105,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-603 CLAIM-731 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# CLAIM-303: Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and where reuse can be forecast, recurrence is evidence of reuse, not the criterion
+# CLAIM-303: Filing is worth it only when reuse covers cost
 
 ## The claim
 

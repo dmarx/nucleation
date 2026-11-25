@@ -10,7 +10,16 @@ promote_when: >-
   falls short of cooperation between individuals even with no conflicting
   interests, and that costly competition toward the out-group appears only
   when interests conflict or are perceived to.
-title: 'Human cooperation is readily sustained between individuals, above all in dyads, through precise reciprocity, empathy and a partner who cannot be excluded at no cost, and is fragile between groups: categorization alone yields mistrust and in-group favouritism by bounded reciprocity, observed out-group favouritism hardens it into distrust, and chiefly negative interdependence, real or perceived, turns that into costly competition, aggression and hate, so that the processes that build in-group cooperation can fuel intergroup conflict'
+title: 'In-group cooperation can fuel intergroup conflict'
+statement: >-
+  Human cooperation is readily sustained between individuals, above all in
+  dyads, through precise reciprocity, empathy and a partner who cannot be
+  excluded at no cost, and is fragile between groups: categorization alone
+  yields mistrust and in-group favouritism by bounded reciprocity, observed
+  out-group favouritism hardens it into distrust, and chiefly negative
+  interdependence, real or perceived, turns that into costly competition,
+  aggression and hate, so that the processes that build in-group cooperation
+  can fuel intergroup conflict
 version: 1
 tags:
 - social-identity
@@ -29,7 +38,7 @@ summary: >-
   the stages are not tested together.
 ---
 
-# THEORY-1529: Human cooperation is readily sustained between individuals, above all in dyads, through precise reciprocity, empathy and a partner who cannot be excluded at no cost, and is fragile between groups: categorization alone yields mistrust and in-group favouritism by bounded reciprocity, observed out-group favouritism hardens it into distrust, and chiefly negative interdependence, real or perceived, turns that into costly competition, aggression and hate, so that the processes that build in-group cooperation can fuel intergroup conflict
+# THEORY-1529: In-group cooperation can fuel intergroup conflict
 
 ## Source
 

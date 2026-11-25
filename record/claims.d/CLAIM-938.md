@@ -3,7 +3,14 @@ number: 938
 status: Proposed
 formerly:
 - CLAIM-tmpo8cwu
-title: 'Off exact symmetry, the commutator of a learning operator with a level''s projector, over the level''s slowest rate and its share of the target, bounds at every time how far the level''s residual departs from a flow without cross-level coupling; the symmetric acquisition order survives any perturbation below a threshold set by the rate gaps, and holds only down to a resolution the commutator sets'
+title: 'Commutator bounds cross-level coupling'
+statement: >-
+  Off exact symmetry, the commutator of a learning operator with a level's
+  projector, over the level's slowest rate and its share of the target,
+  bounds at every time how far the level's residual departs from a flow
+  without cross-level coupling; the symmetric acquisition order survives any
+  perturbation below a threshold set by the rate gaps, and holds only down
+  to a resolution the commutator sets
 version: 1
 history:
 - version: 1
@@ -59,7 +66,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-358 — new; the study of LEAD-066, filed 2026-11-22 -->
 
-# CLAIM-938: Off exact symmetry, the commutator of a learning operator with a level's projector, over the level's slowest rate and its share of the target, bounds at every time how far the level's residual departs from a flow without cross-level coupling; the symmetric acquisition order survives any perturbation below a threshold set by the rate gaps, and holds only down to a resolution the commutator sets
+# CLAIM-938: Commutator bounds cross-level coupling
 
 ## The claim
 

@@ -3,7 +3,17 @@ number: 541
 status: Proposed
 formerly:
 - CLAIM-tmpp8p4i
-title: 'Wu-wei is better read as control placed and timed where a system''s own dynamics do most of the work than as the absence of control: Ott–Grebogi–Yorke control of chaos is a formal instance, in which small perturbations timed by the system''s own wandering hold it on an unstable orbit, and the control, though small, continues for as long as the orbit is held; so reported effortlessness has at least three distinct sources, no conflict to override, conflict settled cheaply by learned accommodation, and conflict met as it arises by small well-timed feedback, which may feel alike and differ in mechanism'
+title: 'Wu-wei as well-placed control'
+statement: >-
+  Wu-wei is better read as control placed and timed where a system's own
+  dynamics do most of the work than as the absence of control:
+  Ott–Grebogi–Yorke control of chaos is a formal instance, in which small
+  perturbations timed by the system's own wandering hold it on an unstable
+  orbit, and the control, though small, continues for as long as the orbit
+  is held; so reported effortlessness has at least three distinct sources,
+  no conflict to override, conflict settled cheaply by learned
+  accommodation, and conflict met as it arises by small well-timed feedback,
+  which may feel alike and differ in mechanism
 version: 3
 history:
 - version: 2
@@ -54,7 +64,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-162 CLAIM-337 CLAIM-358 LIT-910 LIT-1972 LIT-1994 LIT-1997 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
-# CLAIM-541: Wu-wei is better read as control placed and timed where a system's own dynamics do most of the work than as the absence of control: Ott–Grebogi–Yorke control of chaos is a formal instance, in which small perturbations timed by the system's own wandering hold it on an unstable orbit, and the control, though small, continues for as long as the orbit is held; so reported effortlessness has at least three distinct sources, no conflict to override, conflict settled cheaply by learned accommodation, and conflict met as it arises by small well-timed feedback, which may feel alike and differ in mechanism
+# CLAIM-541: Wu-wei as well-placed control
 
 ## The claim
 

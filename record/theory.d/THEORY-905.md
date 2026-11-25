@@ -11,7 +11,14 @@ promote_when: >-
   environment depends on a mechanism outside them. It is refuted by a pure
   imitation protocol of the kind studied that re-explores lost options
   without mutation, spontaneous commitment or heterogeneity.
-title: 'In simulations of the two imitation protocols, populations small enough to be finite often settle on a suboptimal option because pure imitation can remove a type entirely, and once settled the protocols give no way to re-explore when the environment changes; variants in which members compare quality estimates converge faster than blind weighted voting, at the cost of more communication and comparison'
+title: 'Finite imitation populations lock on a suboptimum'
+statement: >-
+  In simulations of the two imitation protocols, populations small enough to
+  be finite often settle on a suboptimal option because pure imitation can
+  remove a type entirely, and once settled the protocols give no way to
+  re-explore when the environment changes; variants in which members compare
+  quality estimates converge faster than blind weighted voting, at the cost
+  of more communication and comparison
 version: 1
 tags:
 - complex-systems
@@ -29,7 +36,7 @@ summary: >-
   Simulation-scoped, not a theorem.
 ---
 
-# THEORY-905: In simulations of the two imitation protocols, populations small enough to be finite often settle on a suboptimal option because pure imitation can remove a type entirely, and once settled the protocols give no way to re-explore when the environment changes; variants in which members compare quality estimates converge faster than blind weighted voting, at the cost of more communication and comparison
+# THEORY-905: Finite imitation populations lock on a suboptimum
 
 ## Source
 

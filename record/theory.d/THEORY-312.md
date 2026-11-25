@@ -3,7 +3,11 @@ number: 312
 status: Active
 formerly:
 - THEORY-tmpijp65
-title: 'The large-batch InfoNCE loss is the negative HSIC between representations and image identity plus a nonnegative log-mean-exp of the centred critic, so it bounds a kernel dependence loss from above'
+title: 'InfoNCE upper-bounds a kernel dependence loss'
+statement: >-
+  The large-batch InfoNCE loss is the negative HSIC between representations
+  and image identity plus a nonnegative log-mean-exp of the centred critic,
+  so it bounds a kernel dependence loss from above
 version: 2
 history:
 - version: 2
@@ -37,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; the MMD reading of the same HSIC term, and the accounts of InfoNCE's optimum and of mutual information it is set beside -->
 
-# THEORY-312: The large-batch InfoNCE loss is the negative HSIC between representations and image identity plus a nonnegative log-mean-exp of the centred critic, so it bounds a kernel dependence loss from above
+# THEORY-312: InfoNCE upper-bounds a kernel dependence loss
 
 ## Source
 

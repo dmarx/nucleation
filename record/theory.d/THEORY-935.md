@@ -14,7 +14,15 @@ promote_when: >-
   played-off policies do not give Prisoner's Dilemma payoffs in both.
   Results about real societies neither promote nor refute it; it is a
   finding about these simulations.
-title: 'In two two-player Markov games whose learned cooperative and defecting policies, played against each other, both give Prisoner''s Dilemma payoffs, independent deep Q-learners responded oppositely to capacity: more hidden units raised aggression in a fruit-gathering game, where tagging a rival is the harder policy to implement, and lowered lone hunting in a wolfpack game, where coordination is; in the gathering game, aggression was learned where apples were scarce or a tagged rival stayed out long'
+title: 'Capacity shifts deep Q-learners'' cooperation'
+statement: >-
+  In two two-player Markov games whose learned cooperative and defecting
+  policies, played against each other, both give Prisoner's Dilemma payoffs,
+  independent deep Q-learners responded oppositely to capacity: more hidden
+  units raised aggression in a fruit-gathering game, where tagging a rival
+  is the harder policy to implement, and lowered lone hunting in a wolfpack
+  game, where coordination is; in the gathering game, aggression was learned
+  where apples were scarce or a tagged rival stayed out long
 version: 1
 tags:
 - game-theory
@@ -30,7 +38,7 @@ summary: >-
   between the text's and Figure 7's settings for batch and network size.
 ---
 
-# THEORY-935: In two two-player Markov games whose learned cooperative and defecting policies, played against each other, both give Prisoner's Dilemma payoffs, independent deep Q-learners responded oppositely to capacity: more hidden units raised aggression in a fruit-gathering game, where tagging a rival is the harder policy to implement, and lowered lone hunting in a wolfpack game, where coordination is; in the gathering game, aggression was learned where apples were scarce or a tagged rival stayed out long
+# THEORY-935: Capacity shifts deep Q-learners' cooperation
 
 ## Source
 

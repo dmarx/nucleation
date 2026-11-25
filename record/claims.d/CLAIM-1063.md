@@ -3,7 +3,12 @@ number: 1063
 status: Proposed
 formerly:
 - CLAIM-tmpb125k
-title: 'That adding an intervention to a working set can make an organization''s target less likely is not shown by the open evaluations coded for equal budgets at different places: none has a larger set doing worse than a smaller one, and the one nested comparison found went the other way'
+title: 'No evidence larger intervention sets do worse'
+statement: >-
+  That adding an intervention to a working set can make an organization's
+  target less likely is not shown by the open evaluations coded for equal
+  budgets at different places: none has a larger set doing worse than a
+  smaller one, and the one nested comparison found went the other way
 version: 1
 history:
 - version: 1
@@ -38,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-406 THEORY-2282 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1063: That adding an intervention to a working set can make an organization's target less likely is not shown by the open evaluations coded for equal budgets at different places: none has a larger set doing worse than a smaller one, and the one nested comparison found went the other way
+# CLAIM-1063: No evidence larger intervention sets do worse
 
 ## What is disclaimed
 

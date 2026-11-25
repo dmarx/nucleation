@@ -3,10 +3,12 @@ number: 302
 status: Active
 formerly:
 - CLAIM-tmpvdl53
-title: 'Equivalence under feasible tests can be much coarser than statistical equivalence:
-  there are ensembles almost disjoint from uniform that no polynomial-size test
-  tells apart from it, and efficiently samplable ensembles of this kind exist if
-  pseudorandom generators do'
+title: 'Feasible tests are far coarser than statistics'
+statement: >-
+  Equivalence under feasible tests can be much coarser than statistical
+  equivalence: there are ensembles almost disjoint from uniform that no
+  polynomial-size test tells apart from it, and efficiently samplable
+  ensembles of this kind exist if pseudorandom generators do
 version: 1
 role: thesis
 warrant: demonstrated
@@ -41,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-116 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
-# CLAIM-302: Equivalence under feasible tests can be much coarser than statistical equivalence: there are ensembles almost disjoint from uniform that no polynomial-size test tells apart from it, and efficiently samplable ensembles of this kind exist if pseudorandom generators do
+# CLAIM-302: Feasible tests are far coarser than statistics
 
 ## The claim
 

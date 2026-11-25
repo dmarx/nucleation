@@ -3,7 +3,16 @@ number: 1465
 status: Active
 formerly:
 - THEORY-tmp5v6r5
-title: 'Balboni, Bandiera, Burgess, Ghatak and Heil hold that ultra-poor households in rural Bangladesh face an S-shaped asset transition with an unstable threshold near the value of a cow and a small complementary asset, so that a one-off asset transfer that lifts a household above it is followed by accumulation, a shift into self-employment and higher consumption over 11 years while one that leaves it below is followed by asset loss: a poverty trap set by initial wealth and indivisible inputs, not by lower ability or effort'
+title: 'Asset threshold creates an ultra-poor trap'
+statement: >-
+  Balboni, Bandiera, Burgess, Ghatak and Heil hold that ultra-poor
+  households in rural Bangladesh face an S-shaped asset transition with an
+  unstable threshold near the value of a cow and a small complementary
+  asset, so that a one-off asset transfer that lifts a household above it is
+  followed by accumulation, a shift into self-employment and higher
+  consumption over 11 years while one that leaves it below is followed by
+  asset loss: a poverty trap set by initial wealth and indivisible inputs,
+  not by lower ability or effort
 version: 4
 history:
 - version: 2
@@ -72,7 +81,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed; cited from the reading of Balboni et al. (2022) as open -->
 
-# THEORY-1465: Balboni, Bandiera, Burgess, Ghatak and Heil hold that ultra-poor households in rural Bangladesh face an S-shaped asset transition with an unstable threshold near the value of a cow and a small complementary asset, so that a one-off asset transfer that lifts a household above it is followed by accumulation, a shift into self-employment and higher consumption over 11 years while one that leaves it below is followed by asset loss: a poverty trap set by initial wealth and indivisible inputs, not by lower ability or effort
+# THEORY-1465: Asset threshold creates an ultra-poor trap
 
 ## Source
 

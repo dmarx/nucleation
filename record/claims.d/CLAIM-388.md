@@ -3,7 +3,13 @@ number: 388
 status: Active
 formerly:
 - CLAIM-tmpkoi6k
-title: 'Exact dynamical closure of a collective variable does not require a nearly decomposable block: in a linear Gaussian VAR(1) with uniform coupling among n units, the sum of all units is exactly dynamically independent at every stable coupling strength, while every partition of the units into two or more groups couples as strongly across its edges as within them'
+title: 'Closure needs no nearly decomposable block'
+statement: >-
+  Exact dynamical closure of a collective variable does not require a nearly
+  decomposable block: in a linear Gaussian VAR(1) with uniform coupling
+  among n units, the sum of all units is exactly dynamically independent at
+  every stable coupling strength, while every partition of the units into
+  two or more groups couples as strongly across its edges as within them
 version: 5
 history:
 - version: 2
@@ -69,7 +75,7 @@ works:
 - governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
-# CLAIM-388: Exact dynamical closure of a collective variable does not require a nearly decomposable block: in a linear Gaussian VAR(1) with uniform coupling among n units, the sum of all units is exactly dynamically independent at every stable coupling strength, while every partition of the units into two or more groups couples as strongly across its edges as within them
+# CLAIM-388: Closure needs no nearly decomposable block
 
 ## The claim
 

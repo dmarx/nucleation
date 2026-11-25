@@ -3,7 +3,13 @@ number: 1866
 status: Proposed
 formerly:
 - THEORY-tmpzibpi
-title: 'Susen reads Rosa as holding that the good life is measured not by resources or options but by the quality of a person''s relation to the world, resonance, a responsive relation in which subject and world affect and transform each other and which cannot be produced at will, against alienation'
+title: 'Good life is resonance, not resources'
+statement: >-
+  Susen reads Rosa as holding that the good life is measured not by
+  resources or options but by the quality of a person's relation to the
+  world, resonance, a responsive relation in which subject and world affect
+  and transform each other and which cannot be produced at will, against
+  alienation
 version: 1
 source:
 - LIT-2562
@@ -21,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2592 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 
-# THEORY-1866: Susen reads Rosa as holding that the good life is measured not by resources or options but by the quality of a person's relation to the world, resonance, a responsive relation in which subject and world affect and transform each other and which cannot be produced at will, against alienation
+# THEORY-1866: Good life is resonance, not resources
 
 ## The account
 

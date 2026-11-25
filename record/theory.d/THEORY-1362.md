@@ -16,7 +16,15 @@ promote_when: >-
   above it. It is not met by fits to behaviour, by parameter-recovery
   results, or by agreement with exact inversion, none of which the title
   asserts.
-title: 'Mathys and colleagues show that a hierarchy of any number of Gaussian random walks, each level setting the log-variance of the one below, inverts under a mean-field variational approximation to one-step updates of the same form at every level above the first; each mean update is a prediction error weighted by the ratio of the precision of the prediction below to the posterior precision, a value prediction error at the first level and a volatility prediction error above it'
+title: 'HGF updates take the same form at every level'
+statement: >-
+  Mathys and colleagues show that a hierarchy of any number of Gaussian
+  random walks, each level setting the log-variance of the one below,
+  inverts under a mean-field variational approximation to one-step updates
+  of the same form at every level above the first; each mean update is a
+  prediction error weighted by the ratio of the precision of the prediction
+  below to the posterior precision, a value prediction error at the first
+  level and a volatility prediction error above it
 version: 1
 history:
 - version: 1
@@ -45,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1365 — Proposed or new; cited from the reading of Mathys et al. (2014) as open -->
 
-# THEORY-1362: Mathys and colleagues show that a hierarchy of any number of Gaussian random walks, each level setting the log-variance of the one below, inverts under a mean-field variational approximation to one-step updates of the same form at every level above the first; each mean update is a prediction error weighted by the ratio of the precision of the prediction below to the posterior precision, a value prediction error at the first level and a volatility prediction error above it
+# THEORY-1362: HGF updates take the same form at every level
 
 ## Source
 

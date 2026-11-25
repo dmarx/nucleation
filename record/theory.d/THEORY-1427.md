@@ -3,7 +3,17 @@ number: 1427
 status: Active
 formerly:
 - THEORY-tmpucnpz
-title: 'Chen and Santangelo find that a flat triangulated rigid origami sits at a singular point of its configuration space, where it admits more first-order motions than its generic dimension; in numerical root-finding on random triangulations with four boundary vertices and 2 to 8 internal vertices, 2^Vi folding branches meet there with a few exceptions, two for each pair of a vertex popping pattern and its global reversal, which they prove for triangulations built by Henneberg-1 moves, and they conclude that a generic self-folding structure is likely to become trapped in a misfolded state'
+title: 'Flat triangulated origami traps misfolds'
+statement: >-
+  Chen and Santangelo find that a flat triangulated rigid origami sits at a
+  singular point of its configuration space, where it admits more
+  first-order motions than its generic dimension; in numerical root-finding
+  on random triangulations with four boundary vertices and 2 to 8 internal
+  vertices, 2^Vi folding branches meet there with a few exceptions, two for
+  each pair of a vertex popping pattern and its global reversal, which they
+  prove for triangulations built by Henneberg-1 moves, and they conclude
+  that a generic self-folding structure is likely to become trapped in a
+  misfolded state
 version: 3
 history:
 - version: 2
@@ -55,7 +65,7 @@ bears_on:
 - QUESTION-383
 ---
 
-# THEORY-1427: Chen and Santangelo find that a flat triangulated rigid origami sits at a singular point of its configuration space, where it admits more first-order motions than its generic dimension; in numerical root-finding on random triangulations with four boundary vertices and 2 to 8 internal vertices, 2^Vi folding branches meet there with a few exceptions, two for each pair of a vertex popping pattern and its global reversal, which they prove for triangulations built by Henneberg-1 moves, and they conclude that a generic self-folding structure is likely to become trapped in a misfolded state
+# THEORY-1427: Flat triangulated origami traps misfolds
 
 ## Source
 

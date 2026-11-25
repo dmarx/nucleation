@@ -13,7 +13,15 @@ promote_when: >-
   growing with context length. Refuted if a tuned baseline closes most of
   the token gap at matched scale. Wall-clock comparisons do not bear on
   the title, which is about tokens.
-title: 'In decoder-only transformers of 0.5B and 1B parameters trained on OpenWebText, normalizing all embeddings, hidden states and weight rows to the unit hypersphere and replacing each residual addition by a learned per-dimension interpolation toward the normalized block output followed by renormalization reaches the baseline GPT''s validation loss in about 4, 10 and 20 times fewer training tokens at context lengths of 1k, 4k and 8k, as Loshchilov, Hsieh, Sun and Ginsburg report'
+title: 'Hypersphere-normalized GPT trains 4–20× faster'
+statement: >-
+  In decoder-only transformers of 0.5B and 1B parameters trained on
+  OpenWebText, normalizing all embeddings, hidden states and weight rows to
+  the unit hypersphere and replacing each residual addition by a learned
+  per-dimension interpolation toward the normalized block output followed by
+  renormalization reaches the baseline GPT's validation loss in about 4, 10
+  and 20 times fewer training tokens at context lengths of 1k, 4k and 8k, as
+  Loshchilov, Hsieh, Sun and Ginsburg report
 version: 1
 history:
 - version: 1
@@ -36,7 +44,7 @@ summary: >-
   call.
 ---
 
-# THEORY-1881: In decoder-only transformers of 0.5B and 1B parameters trained on OpenWebText, normalizing all embeddings, hidden states and weight rows to the unit hypersphere and replacing each residual addition by a learned per-dimension interpolation toward the normalized block output followed by renormalization reaches the baseline GPT's validation loss in about 4, 10 and 20 times fewer training tokens at context lengths of 1k, 4k and 8k, as Loshchilov, Hsieh, Sun and Ginsburg report
+# THEORY-1881: Hypersphere-normalized GPT trains 4–20× faster
 
 ## Source
 

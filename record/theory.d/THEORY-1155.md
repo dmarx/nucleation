@@ -3,7 +3,17 @@ number: 1155
 status: Active
 formerly:
 - THEORY-tmpvn82m
-title: 'Co-optimal transport between two data matrices of equal shape with uniform weights vanishes exactly when one is the other with its rows and its columns separately permuted, and its objective is unchanged when a pair of optimal plans is composed with any joint relabelling of rows and columns that leaves a matrix unchanged; its sample and feature couplings are therefore identified at best up to that joint symmetry group, which can exchange a block of samples together with its block of features though neither exchange alone is a symmetry, and the paper proves no uniqueness beyond it'
+title: 'COOT plans fixed only up to joint symmetries'
+statement: >-
+  Co-optimal transport between two data matrices of equal shape with uniform
+  weights vanishes exactly when one is the other with its rows and its
+  columns separately permuted, and its objective is unchanged when a pair of
+  optimal plans is composed with any joint relabelling of rows and columns
+  that leaves a matrix unchanged; its sample and feature couplings are
+  therefore identified at best up to that joint symmetry group, which can
+  exchange a block of samples together with its block of features though
+  neither exchange alone is a symmetry, and the paper proves no uniqueness
+  beyond it
 version: 1
 tags:
 - mathematics
@@ -20,7 +30,7 @@ summary: >-
   near-ties, which is the practical form of the threat.
 ---
 
-# THEORY-1155: Co-optimal transport between two data matrices of equal shape with uniform weights vanishes exactly when one is the other with its rows and its columns separately permuted, and its objective is unchanged when a pair of optimal plans is composed with any joint relabelling of rows and columns that leaves a matrix unchanged; its sample and feature couplings are therefore identified at best up to that joint symmetry group, which can exchange a block of samples together with its block of features though neither exchange alone is a symmetry, and the paper proves no uniqueness beyond it
+# THEORY-1155: COOT plans fixed only up to joint symmetries
 
 ## Source
 

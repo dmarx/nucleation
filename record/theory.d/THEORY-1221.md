@@ -14,7 +14,11 @@ promote_when: >-
   first half (fake news carries more anger than true news) is refuted on
   Weibo if fake and true posts matched for author, topic and date show no
   anger gap.
-title: 'Anger makes fake news viral online: on Weibo fake news carries more anger and less joy than true news, and the anger in a post causes it to be shared more'
+title: 'Anger makes fake news viral'
+statement: >-
+  Anger makes fake news viral online: on Weibo fake news carries more anger
+  and less joy than true news, and the anger in a post causes it to be
+  shared more
 version: 1
 tags:
 - social-science
@@ -32,7 +36,7 @@ summary: >-
   observational, and the fake set is selected for having spread.
 ---
 
-# THEORY-1221: Anger makes fake news viral online: on Weibo fake news carries more anger and less joy than true news, and the anger in a post causes it to be shared more
+# THEORY-1221: Anger makes fake news viral
 
 ## Source
 

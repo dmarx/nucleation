@@ -3,7 +3,13 @@ number: 78
 status: Proposed
 formerly:
 - SYNTHESIS-tmpdtd6m
-title: 'Neither persistence nor yields nor minimal sets identify a productive or generative nucleus: the committor ignores how long a state persists, two assemblies can agree in both arms of the nucleus intervention and differ in the downstream rate, and productive sets need not be closed upward because two productive nuclei can combine into a trap'
+title: 'Nothing simple identifies a productive nucleus'
+statement: >-
+  Neither persistence nor yields nor minimal sets identify a productive or
+  generative nucleus: the committor ignores how long a state persists, two
+  assemblies can agree in both arms of the nucleus intervention and differ
+  in the downstream rate, and productive sets need not be closed upward
+  because two productive nuclei can combine into a trap
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -26,7 +32,7 @@ integrates:
 <!-- inactive-ok-file: SYNTHESIS-013 SYNTHESIS-045 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-076 — Proposed; cited with its standing -->
 
-# SYNTHESIS-078: Neither persistence nor yields nor minimal sets identify a productive or generative nucleus: the committor ignores how long a state persists, two assemblies can agree in both arms of the nucleus intervention and differ in the downstream rate, and productive sets need not be closed upward because two productive nuclei can combine into a trap
+# SYNTHESIS-078: Nothing simple identifies a productive nucleus
 
 *A part account of the formal-apparatus line: one of the line's eleven
 small clusters, three entries from the DNA origami filing of 2026-11-05,

@@ -12,7 +12,15 @@ promote_when: >-
   Measurements of how trained transformers' heads behave cannot settle it:
   the entry asserts what the update computes and what it can store, not
   what trained models do.
-title: 'For N patterns stored on a sphere in R^d, the continuous Hopfield update ξ ← X softmax(βXᵀξ) descends an energy −lse(β, Xᵀξ) + ½ξᵀξ to a stationary point, can store a number of random patterns exponential in d with high probability, and retrieves a well-separated pattern in one step with error exponentially small in its separation; through key, query and value projections at β = 1/√d_k, one such update is transformer attention, as Ramsauer et al. prove'
+title: 'Modern Hopfield update is transformer attention'
+statement: >-
+  For N patterns stored on a sphere in R^d, the continuous Hopfield update ξ
+  ← X softmax(βXᵀξ) descends an energy −lse(β, Xᵀξ) + ½ξᵀξ to a stationary
+  point, can store a number of random patterns exponential in d with high
+  probability, and retrieves a well-separated pattern in one step with error
+  exponentially small in its separation; through key, query and value
+  projections at β = 1/√d_k, one such update is transformer attention, as
+  Ramsauer et al. prove
 version: 1
 history:
 - version: 1
@@ -39,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1030 — Proposed; the FFN-memory reading, cited as open -->
 
-# THEORY-1877: For N patterns stored on a sphere in R^d, the continuous Hopfield update ξ ← X softmax(βXᵀξ) descends an energy −lse(β, Xᵀξ) + ½ξᵀξ to a stationary point, can store a number of random patterns exponential in d with high probability, and retrieves a well-separated pattern in one step with error exponentially small in its separation; through key, query and value projections at β = 1/√d_k, one such update is transformer attention, as Ramsauer et al. prove
+# THEORY-1877: Modern Hopfield update is transformer attention
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 936
 status: Proposed
 formerly:
 - CLAIM-tmp4223o
-title: 'In a small network trained with a benign trigger-conditioned behaviour, fine-tuning against the trigger that drives the behaviour''s expression to zero leaves it recoverable on items never retrained by a cheap intervention on the trigger''s pathway, to a degree that falls with longer fine-tuning and nearly vanishes under weight decay, while sampling and brief retraining of the whole network recover almost none of it; so whether the behaviour was suppressed or removed is settled only relative to a declared family of elicitation procedures and their budget'
+title: 'Suppression vs removal is elicitation-relative'
+statement: >-
+  In a small network trained with a benign trigger-conditioned behaviour,
+  fine-tuning against the trigger that drives the behaviour's expression to
+  zero leaves it recoverable on items never retrained by a cheap
+  intervention on the trigger's pathway, to a degree that falls with longer
+  fine-tuning and nearly vanishes under weight decay, while sampling and
+  brief retraining of the whole network recover almost none of it; so
+  whether the behaviour was suppressed or removed is settled only relative
+  to a declared family of elicitation procedures and their budget
 version: 1
 history:
 - version: 1
@@ -49,7 +58,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-275 CASE-357 CLAIM-697 TERM-118 — Proposed or new; the design, the study this rests on, the claim it complements and the term it uses -->
 
-# CLAIM-936: In a small network trained with a benign trigger-conditioned behaviour, fine-tuning against the trigger that drives the behaviour's expression to zero leaves it recoverable on items never retrained by a cheap intervention on the trigger's pathway, to a degree that falls with longer fine-tuning and nearly vanishes under weight decay, while sampling and brief retraining of the whole network recover almost none of it; so whether the behaviour was suppressed or removed is settled only relative to a declared family of elicitation procedures and their budget
+# CLAIM-936: Suppression vs removal is elicitation-relative
 
 ## The claim
 

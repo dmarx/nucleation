@@ -3,7 +3,14 @@ number: 1194
 status: Active
 formerly:
 - CLAIM-tmpxoxys
-title: 'Where no process holds evidence on a block of tasks that does not come from the proposals themselves, a governance rule that treats its members alike cannot tell honest dissent from an attack that pushes the same block as hard: in a world and in its relabelling, with the dissenters'' and attackers'' targets swapped, it ends in the same place, so what it gains for the dissenters in one world it gains for the attacker in the other'
+title: 'Uniform rules cannot tell dissent from attack'
+statement: >-
+  Where no process holds evidence on a block of tasks that does not come
+  from the proposals themselves, a governance rule that treats its members
+  alike cannot tell honest dissent from an attack that pushes the same block
+  as hard: in a world and in its relabelling, with the dissenters' and
+  attackers' targets swapped, it ends in the same place, so what it gains
+  for the dissenters in one world it gains for the attacker in the other
 version: 3
 history:
 - version: 1
@@ -69,7 +76,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-1194: Where no process holds evidence on a block of tasks that does not come from the proposals themselves, a governance rule that treats its members alike cannot tell honest dissent from an attack that pushes the same block as hard: in a world and in its relabelling, with the dissenters' and attackers' targets swapped, it ends in the same place, so what it gains for the dissenters in one world it gains for the attacker in the other
+# CLAIM-1194: Uniform rules cannot tell dissent from attack
 
 ## The claim
 

@@ -3,7 +3,16 @@ number: 2032
 status: Proposed
 formerly:
 - THEORY-tmpky96s
-title: 'Shankar, Souslov, Bowick, Marchetti and Vitelli review topology in active matter as two physically distinct classes of phenomena that share the mathematics of integer invariants: topological defects, whose winding number is protected under continuous deformation of the order parameter and which in active nematics self-propel and unbind through flows they themselves generate, and topologically protected edge modes, whose band invariant is protected under continuous change of the medium''s parameters while the bulk gap stays open'
+title: 'Active-matter topology is two distinct classes'
+statement: >-
+  Shankar, Souslov, Bowick, Marchetti and Vitelli review topology in active
+  matter as two physically distinct classes of phenomena that share the
+  mathematics of integer invariants: topological defects, whose winding
+  number is protected under continuous deformation of the order parameter
+  and which in active nematics self-propel and unbind through flows they
+  themselves generate, and topologically protected edge modes, whose band
+  invariant is protected under continuous change of the medium's parameters
+  while the bulk gap stays open
 version: 1
 source:
 - LIT-2789
@@ -40,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-606 CLAIM-694 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: NOTE-2134 — Skimmed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2032: Shankar, Souslov, Bowick, Marchetti and Vitelli review topology in active matter as two physically distinct classes of phenomena that share the mathematics of integer invariants: topological defects, whose winding number is protected under continuous deformation of the order parameter and which in active nematics self-propel and unbind through flows they themselves generate, and topologically protected edge modes, whose band invariant is protected under continuous change of the medium's parameters while the bulk gap stays open
+# THEORY-2032: Active-matter topology is two distinct classes
 
 ## The account
 

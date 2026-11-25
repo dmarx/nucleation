@@ -3,7 +3,16 @@ number: 2161
 status: Proposed
 formerly:
 - THEORY-tmpthmd7
-title: 'Song, Ahn and Yun find that in small-learning-rate SGD on small MLP, CNN and Transformer classifiers the stochastic gradient lies mostly in the span of the training-loss Hessian''s top-k eigenvectors, k the number of classes, yet projecting each update onto that span stops the training loss falling while projecting it onto the complement trains as fast as SGD; the alignment comes from gradient noise across a steep valley, or from self-stabilizing oscillation at the Edge of Stability, and vanishes under small-step full-batch gradient descent'
+title: 'SGD''s top-Hessian component doesn''t train'
+statement: >-
+  Song, Ahn and Yun find that in small-learning-rate SGD on small MLP, CNN
+  and Transformer classifiers the stochastic gradient lies mostly in the
+  span of the training-loss Hessian's top-k eigenvectors, k the number of
+  classes, yet projecting each update onto that span stops the training loss
+  falling while projecting it onto the complement trains as fast as SGD; the
+  alignment comes from gradient noise across a steep valley, or from
+  self-stabilizing oscillation at the Edge of Stability, and vanishes under
+  small-step full-batch gradient descent
 promote_when: >-
   An independent study, on at least one architecture or dataset not in the
   paper, finds that top-k-projected SGD stalls while complement-projected
@@ -29,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2171 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CLAIM-835 TERM-137 THEORY-078 ARG-139 — Proposed or new; the reading this account comes from and the claim it bears on -->
 
-# THEORY-2161: Song, Ahn and Yun find that in small-learning-rate SGD on small MLP, CNN and Transformer classifiers the stochastic gradient lies mostly in the span of the training-loss Hessian's top-k eigenvectors, k the number of classes, yet projecting each update onto that span stops the training loss falling while projecting it onto the complement trains as fast as SGD; the alignment comes from gradient noise across a steep valley, or from self-stabilizing oscillation at the Edge of Stability, and vanishes under small-step full-batch gradient descent
+# THEORY-2161: SGD's top-Hessian component doesn't train
 
 ## Source
 

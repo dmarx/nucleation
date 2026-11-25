@@ -3,7 +3,15 @@ number: 164
 status: Active
 formerly:
 - THEORY-tmp8h3pe
-title: 'As Raviv, Meyer and Lev-Ari report it, in a laboratory game where 12 fully connected groups of eight and 12 of four built a new communication system with total interaction held fixed, the larger groups'' languages grew more systematic faster, ended more systematic and differed less from one another, while communicative success and convergence did not differ by size; input variability, higher in the larger groups, predicted the next round''s gain in structure, an association measured and not manipulated'
+title: 'Groups of eight built more systematic languages'
+statement: >-
+  As Raviv, Meyer and Lev-Ari report it, in a laboratory game where 12 fully
+  connected groups of eight and 12 of four built a new communication system
+  with total interaction held fixed, the larger groups' languages grew more
+  systematic faster, ended more systematic and differed less from one
+  another, while communicative success and convergence did not differ by
+  size; input variability, higher in the larger groups, predicted the next
+  round's gain in structure, an association measured and not manipulated
 version: 3
 history:
 - version: 2
@@ -50,7 +58,7 @@ corroborates:
 ---
 
 
-# THEORY-164: As Raviv, Meyer and Lev-Ari report it, in a laboratory game where 12 fully connected groups of eight and 12 of four built a new communication system with total interaction held fixed, the larger groups' languages grew more systematic faster, ended more systematic and differed less from one another, while communicative success and convergence did not differ by size; input variability, higher in the larger groups, predicted the next round's gain in structure, an association measured and not manipulated
+# THEORY-164: Groups of eight built more systematic languages
 
 ## Source
 

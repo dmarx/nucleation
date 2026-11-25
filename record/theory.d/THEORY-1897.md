@@ -13,7 +13,14 @@ promote_when: >-
   non-additivity while norm-matched wrong-direction displacements do not,
   by more than seed variation. A result about behaviour, collapse or
   accuracy would not settle it either way, since the title asserts none.
-title: 'In task-arithmetic merges of two LoRA task vectors into Qwen2.5 and Llama-3.2 language models, the non-additive part of the activations at the final prompt token is mostly transport of what earlier blocks produced, amplified in late blocks and rebuilt downstream when erased early, and its causal effect on the non-additivity of the output distribution is set by its direction, not its norm'
+title: 'Merge non-additivity is mostly carried transport'
+statement: >-
+  In task-arithmetic merges of two LoRA task vectors into Qwen2.5 and
+  Llama-3.2 language models, the non-additive part of the activations at the
+  final prompt token is mostly transport of what earlier blocks produced,
+  amplified in late blocks and rebuilt downstream when erased early, and its
+  causal effect on the non-additivity of the output distribution is set by
+  its direction, not its norm
 version: 2
 history:
 - version: 2
@@ -46,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-107 — Proposed; the coordinate account this one is set beside -->
 
-# THEORY-1897: In task-arithmetic merges of two LoRA task vectors into Qwen2.5 and Llama-3.2 language models, the non-additive part of the activations at the final prompt token is mostly transport of what earlier blocks produced, amplified in late blocks and rebuilt downstream when erased early, and its causal effect on the non-additivity of the output distribution is set by its direction, not its norm
+# THEORY-1897: Merge non-additivity is mostly carried transport
 
 ## Source
 

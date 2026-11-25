@@ -15,7 +15,13 @@ promote_when: >-
   same strength. Whether the unchanged subcortical response is part of the
   experience is a separate question that this THEORY does not carry, and a
   result about it neither promotes nor refutes this one.
-title: "Instructed reappraisal lowers reported negative affect to aversive pictures while the responses of the amygdala, periaqueductal gray, hypothalamus and other subcortical regions to the same pictures show evidence of no change; the regions it reduces are cortical, mainly higher visual and parietal"
+title: 'Reappraisal leaves subcortical threat response'
+statement: >-
+  Instructed reappraisal lowers reported negative affect to aversive
+  pictures while the responses of the amygdala, periaqueductal gray,
+  hypothalamus and other subcortical regions to the same pictures show
+  evidence of no change; the regions it reduces are cortical, mainly higher
+  visual and parietal
 version: 1
 history:
 - version: 1
@@ -62,7 +68,7 @@ summary: >-
   is [THEORY-871](THEORY-871.md)'s old condition, without the version-of-record clause.
 ---
 
-# THEORY-1237: Instructed reappraisal lowers reported negative affect to aversive pictures while the responses of the amygdala, periaqueductal gray, hypothalamus and other subcortical regions to the same pictures show evidence of no change; the regions it reduces are cortical, mainly higher visual and parietal
+# THEORY-1237: Reappraisal leaves subcortical threat response
 
 ## Source
 

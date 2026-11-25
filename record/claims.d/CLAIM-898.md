@@ -3,7 +3,14 @@ number: 898
 status: Proposed
 formerly:
 - CLAIM-tmpaibxx
-title: 'The evaluative space model''s two channels are inputs to one evaluator, not perspectives: gain, offset and override parameterize a single response surface that combines them, so no channel holds an authority of its own, the model''s coactivation is one ordering with high input on both sides, and goal-conduciveness valence should cite the model only for the distinction between ambivalence and neutrality, not for split potential'
+title: 'Evaluative-space channels feed one evaluator'
+statement: >-
+  The evaluative space model's two channels are inputs to one evaluator, not
+  perspectives: gain, offset and override parameterize a single response
+  surface that combines them, so no channel holds an authority of its own,
+  the model's coactivation is one ordering with high input on both sides,
+  and goal-conduciveness valence should cite the model only for the
+  distinction between ambivalence and neutrality, not for split potential
 version: 1
 history:
 - version: 1
@@ -46,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-440 TERM-076 — Proposed; the claim and term whose reading of the model this concerns, cited as open -->
 <!-- inactive-ok-file: CLAIM-897 CLAIM-899 — new on 2026-11-22; the reading this is the alternative to, and the procedure, filed together for LEAD-041 -->
 
-# CLAIM-898: The evaluative space model's two channels are inputs to one evaluator, not perspectives: gain, offset and override parameterize a single response surface that combines them, so no channel holds an authority of its own, the model's coactivation is one ordering with high input on both sides, and goal-conduciveness valence should cite the model only for the distinction between ambivalence and neutrality, not for split potential
+# CLAIM-898: Evaluative-space channels feed one evaluator
 
 ## The claim
 

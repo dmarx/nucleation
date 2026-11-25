@@ -3,12 +3,14 @@ number: 1097
 status: Proposed
 formerly:
 - CLAIM-tmpg5p8v
-title: For demands on the configuration held at the horizon, the history complex
-  over horizon H at a capacity budget B is the configuration complex restricted
-  to the configurations reachable from the start within H at B, when holding a
-  configuration is an admissible move and the attainable histories are exactly
-  the move sequences that stay within B; without holding, or with demands met
-  at different times, the two differ
+title: 'History complex is the reachable configurations'
+statement: >-
+  For demands on the configuration held at the horizon, the history complex
+  over horizon H at a capacity budget B is the configuration complex
+  restricted to the configurations reachable from the start within H at B,
+  when holding a configuration is an admissible move and the attainable
+  histories are exactly the move sequences that stay within B; without
+  holding, or with demands met at different times, the two differ
 version: 1
 role: thesis
 warrant: demonstrated
@@ -36,7 +38,7 @@ summary: 'A gap fill: a gap of the manuscript governance-of-possibility, §2.4 (
   is the assistant''s (Claude, in this session); adopting it is the owner''s call.'
 ---
 
-# CLAIM-1097: For demands on the configuration held at the horizon, the history complex over horizon H at a capacity budget B is the configuration complex restricted to the configurations reachable from the start within H at B, when holding a configuration is an admissible move and the attainable histories are exactly the move sequences that stay within B; without holding, or with demands met at different times, the two differ
+# CLAIM-1097: History complex is the reachable configurations
 
 ## The derivation
 

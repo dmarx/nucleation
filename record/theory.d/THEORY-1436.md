@@ -8,7 +8,13 @@ promote_when: >-
   (Figs. 2, 4 and 6) show these fits with grouped actuators, and that Fig.
   4d shows error decreasing with diminishing returns as actuators are
   added.
-title: 'Liu, Zhang and Fang show that an origami spring, modelled as a chain of one-degree-of-freedom cells by adding virtual creases, can be fitted to a range of 3D curves when its cells are grouped to share a few actuators, with fitting error falling as actuators are added and each added actuator gaining less'
+title: 'Origami springs fit 3D curves with few actuators'
+statement: >-
+  Liu, Zhang and Fang show that an origami spring, modelled as a chain of
+  one-degree-of-freedom cells by adding virtual creases, can be fitted to a
+  range of 3D curves when its cells are grouped to share a few actuators,
+  with fitting error falling as actuators are added and each added actuator
+  gaining less
 version: 1
 tags:
 - control-theory
@@ -25,7 +31,7 @@ summary: >-
   optimal or unique, or anything about moving between shapes.
 ---
 
-# THEORY-1436: Liu, Zhang and Fang show that an origami spring, modelled as a chain of one-degree-of-freedom cells by adding virtual creases, can be fitted to a range of 3D curves when its cells are grouped to share a few actuators, with fitting error falling as actuators are added and each added actuator gaining less
+# THEORY-1436: Origami springs fit 3D curves with few actuators
 
 ## Source
 

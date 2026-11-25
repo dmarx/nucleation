@@ -12,7 +12,12 @@ promote_when: >-
   them one system, with transduction as the operation that does it. What
   cannot settle it: further secondary readings that quote the same few
   pages of the 1989 volume.
-title: 'In Simondon''s ontology, information is not a signal transmitted between finished entities but a disparity between two differently ordered domains of a metastable system, and its meaning is the new structure that transduction produces in resolving it'
+title: 'Information is disparity, not a signal'
+statement: >-
+  In Simondon's ontology, information is not a signal transmitted between
+  finished entities but a disparity between two differently ordered domains
+  of a metastable system, and its meaning is the new structure that
+  transduction produces in resolving it
 version: 2
 history:
 - version: 2
@@ -42,7 +47,7 @@ bounds:
 ---
 <!-- inactive-ok-file: LIT-1648 LIT-1900 — Unavailable; Simondon's own texts, whose reading would settle this -->
 
-# THEORY-1534: In Simondon's ontology, information is not a signal transmitted between finished entities but a disparity between two differently ordered domains of a metastable system, and its meaning is the new structure that transduction produces in resolving it
+# THEORY-1534: Information is disparity, not a signal
 
 ## Source
 

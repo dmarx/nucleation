@@ -3,7 +3,14 @@ number: 517
 status: Active
 formerly:
 - CLAIM-tmpekkm7
-title: 'A successor regulator keeps a viable set positively invariant if, at every boundary context, its response distribution is within γ/L in total variation of a regulator that certifies inward margin γ, the dynamics being L-Lipschitz in that distribution; an average distillation loss certifies this only through coverage of the boundary contexts, so fidelity measured in ordinary operation certifies nothing about viability'
+title: 'Close-enough successors keep the viable set'
+statement: >-
+  A successor regulator keeps a viable set positively invariant if, at every
+  boundary context, its response distribution is within γ/L in total
+  variation of a regulator that certifies inward margin γ, the dynamics
+  being L-Lipschitz in that distribution; an average distillation loss
+  certifies this only through coverage of the boundary contexts, so fidelity
+  measured in ordinary operation certifies nothing about viability
 version: 2
 history:
 - version: 2
@@ -50,7 +57,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-1127 — new; the objection filed for LEAD-194, cited in the note of 2026-11-22 -->
 
-# CLAIM-517: A successor regulator keeps a viable set positively invariant if, at every boundary context, its response distribution is within γ/L in total variation of a regulator that certifies inward margin γ, the dynamics being L-Lipschitz in that distribution; an average distillation loss certifies this only through coverage of the boundary contexts, so fidelity measured in ordinary operation certifies nothing about viability
+# CLAIM-517: Close-enough successors keep the viable set
 
 ## The claim
 

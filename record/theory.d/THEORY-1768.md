@@ -3,7 +3,14 @@ number: 1768
 status: Proposed
 formerly:
 - THEORY-tmphxh86
-title: '- **Sentence**: Tudorache, Nyulas, Noy and Musen (2013) describe WebProtégé, a web ontology editor that records every authoring change with author and time in a change-and-annotation ontology, attaches threaded discussions to ontology entities, and controls who may edit what down to single properties, and report its production use for WHO''s ICD-11 revision with over 105,000 changes and 19,000 notes recorded. -'
+title: 'WebProtégé logs every change for ICD-11'
+statement: >-
+  - **Sentence**: Tudorache, Nyulas, Noy and Musen (2013) describe
+  WebProtégé, a web ontology editor that records every authoring change with
+  author and time in a change-and-annotation ontology, attaches threaded
+  discussions to ontology entities, and controls who may edit what down to
+  single properties, and report its production use for WHO's ICD-11 revision
+  with over 105,000 changes and 19,000 notes recorded. -
 version: 1
 tags:
 - databases
@@ -22,7 +29,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1768: - **Sentence**: Tudorache, Nyulas, Noy and Musen (2013) describe WebProtégé, a web ontology editor that records every authoring change with author and time in a change-and-annotation ontology, attaches threaded discussions to ontology entities, and controls who may edit what down to single properties, and report its production use for WHO's ICD-11 revision with over 105,000 changes and 19,000 notes recorded. -
+# THEORY-1768: WebProtégé logs every change for ICD-11
 
 ## The account
 

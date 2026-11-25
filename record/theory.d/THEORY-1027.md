@@ -16,7 +16,13 @@ promote_when: >-
   with the same queries. Unblinded demonstrations on models whose
   objective is named in their data cannot settle it: that is the evidence
   it already rests on.
-title: 'In audits of language models for hidden objectives, sparse-autoencoder features add to what black-box attacks and semantic search over the training data can find, surfacing knowledge the model does not disclose even where the data that taught it is not semantically similar to the context in which it is applied, as Marks, Treutlein et al. suggest'
+title: 'SAEs add to black-box hidden-objective audits'
+statement: >-
+  In audits of language models for hidden objectives, sparse-autoencoder
+  features add to what black-box attacks and semantic search over the
+  training data can find, surfacing knowledge the model does not disclose
+  even where the data that taught it is not semantically similar to the
+  context in which it is applied, as Marks, Treutlein et al. suggest
 version: 1
 history:
 - version: 1
@@ -41,7 +47,7 @@ summary: >-
   demonstrations and from the Assistant token, where semantic search
   fails. The model's objective is named in its training data.
 ---
-# THEORY-1027: In audits of language models for hidden objectives, sparse-autoencoder features add to what black-box attacks and semantic search over the training data can find, surfacing knowledge the model does not disclose even where the data that taught it is not semantically similar to the context in which it is applied, as Marks, Treutlein et al. suggest
+# THEORY-1027: SAEs add to black-box hidden-objective audits
 
 ## Source
 

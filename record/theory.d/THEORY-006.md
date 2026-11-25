@@ -3,7 +3,10 @@ number: 6
 status: Active
 formerly:
 - THEORY-tmpl293u
-title: 'InfoNCE is a lower bound on mutual information for every critic and can never exceed the log of the batch size'
+title: 'InfoNCE bounds MI, never above log batch size'
+statement: >-
+  InfoNCE is a lower bound on mutual information for every critic and can
+  never exceed the log of the batch size
 version: 4
 history:
 - version: 2
@@ -59,7 +62,7 @@ bears_on:
 - QUESTION-052
 ---
 
-# THEORY-006: InfoNCE is a lower bound on mutual information for every critic and can never exceed the log of the batch size
+# THEORY-006: InfoNCE bounds MI, never above log batch size
 
 ## Source
 

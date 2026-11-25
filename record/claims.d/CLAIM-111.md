@@ -3,7 +3,11 @@ number: 111
 status: Proposed
 formerly:
 - CLAIM-tmpw9mi0
-title: 'A text supports a distribution over possible communicative situations, and a translation can be faithful by preserving that distribution and its response to further evidence'
+title: 'Faithfulness preserves a situation distribution'
+statement: >-
+  A text supports a distribution over possible communicative situations, and
+  a translation can be faithful by preserving that distribution and its
+  response to further evidence
 version: 1
 role: thesis
 warrant: interpretive
@@ -32,7 +36,7 @@ complements:
 ---
 <!-- ref::uses-file: TERM-011 — stated in "frame, as inferred from evidence"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 
-# CLAIM-111: A text supports a distribution over possible communicative situations, and a translation can be faithful by preserving that distribution and its response to further evidence
+# CLAIM-111: Faithfulness preserves a situation distribution
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 133
 status: Active
 formerly:
 - THEORY-tmp3fc4z
-title: "In List and Menzies's account of causes as difference-makers, a higher-level property that makes a difference to an effect is its cause, and its realizer is not, exactly when in some nearest situation without that realizer the property is realized differently and the effect still occurs; which holds depends on each causal system's counterfactual structure, not on levels a priori"
+title: 'Higher-level properties can be the real causes'
+statement: >-
+  In List and Menzies's account of causes as difference-makers, a
+  higher-level property that makes a difference to an effect is its cause,
+  and its realizer is not, exactly when in some nearest situation without
+  that realizer the property is realized differently and the effect still
+  occurs; which holds depends on each causal system's counterfactual
+  structure, not on levels a priori
 version: 3
 history:
 - version: 2
@@ -46,7 +53,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-048 — Proposed; named for a parallel, nothing here rests on it -->
 
-# THEORY-133: In List and Menzies's account of causes as difference-makers, a higher-level property that makes a difference to an effect is its cause, and its realizer is not, exactly when in some nearest situation without that realizer the property is realized differently and the effect still occurs; which holds depends on each causal system's counterfactual structure, not on levels a priori
+# THEORY-133: Higher-level properties can be the real causes
 
 ## Source
 

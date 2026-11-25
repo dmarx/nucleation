@@ -3,7 +3,12 @@ number: 710
 status: Proposed
 formerly:
 - CLAIM-tmpuiaop
-title: 'Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted'
+title: 'Removing friction can remove interruptibility'
+statement: >-
+  Automation reduces procedural friction, yet procedural friction is where
+  an opportunity to intervene in a process is exposed and perhaps what such
+  an opportunity consists in, so removing friction can remove the points at
+  which an unfolding decision can still be interrupted
 version: 14
 history:
 - version: 2
@@ -116,7 +121,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-250 — Proposed; a case that uses "friction" in another sense -->
 <!-- inactive-ok-file: LIT-2660 TERM-125 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: LIT-2676 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# CLAIM-710: Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted
+# CLAIM-710: Removing friction can remove interruptibility
 
 ## The claim
 

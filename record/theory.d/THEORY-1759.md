@@ -3,7 +3,14 @@ number: 1759
 status: Proposed
 formerly:
 - THEORY-tmpfoeer
-title: 'Liu, Huang, Hu, Zhou and Tan (2025) report that, on a benchmark that defines hypothesis generation as explaining observed data, data-driven LLM methods generate hypotheses with useful predictive power on real tasks, but on synthetic tasks with known generating rules their recovery of those rules falls sharply as noise, distractor features and interaction depth increase, the best configuration recovering 38.8% at the hardest settings'
+title: 'LLM hypotheses predict but miss true rules'
+statement: >-
+  Liu, Huang, Hu, Zhou and Tan (2025) report that, on a benchmark that
+  defines hypothesis generation as explaining observed data, data-driven LLM
+  methods generate hypotheses with useful predictive power on real tasks,
+  but on synthetic tasks with known generating rules their recovery of those
+  rules falls sharply as noise, distractor features and interaction depth
+  increase, the best configuration recovering 38.8% at the hardest settings
 version: 1
 tags:
 - philosophy-of-science
@@ -23,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1876 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# THEORY-1759: Liu, Huang, Hu, Zhou and Tan (2025) report that, on a benchmark that defines hypothesis generation as explaining observed data, data-driven LLM methods generate hypotheses with useful predictive power on real tasks, but on synthetic tasks with known generating rules their recovery of those rules falls sharply as noise, distractor features and interaction depth increase, the best configuration recovering 38.8% at the hardest settings
+# THEORY-1759: LLM hypotheses predict but miss true rules
 
 ## The account
 

@@ -10,7 +10,13 @@ promote_when: >-
   structure, without appeal to rights as basic, and that he holds it does
   not matter much which parts are called rights (pp. 403–404). Whether the
   explanation succeeds is not asserted.
-title: 'Scanlon holds that contractualism explains the Hohfeldian structure of moral rights, claims, liberties and powers including a promisee''s power to release the promisor, by the reasons people have to insist on principles with that structure, without taking rights as basic, so that it matters little which parts of the structure are called rights'
+title: 'Contractualism explains rights'' Hohfeldian form'
+statement: >-
+  Scanlon holds that contractualism explains the Hohfeldian structure of
+  moral rights, claims, liberties and powers including a promisee's power to
+  release the promisor, by the reasons people have to insist on principles
+  with that structure, without taking rights as basic, so that it matters
+  little which parts of the structure are called rights
 version: 1
 tags:
 - ethics
@@ -34,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-735 CLAIM-743 — Proposed or new; the reading and the claims it bears on -->
 
-# THEORY-1967: Scanlon holds that contractualism explains the Hohfeldian structure of moral rights, claims, liberties and powers including a promisee's power to release the promisor, by the reasons people have to insist on principles with that structure, without taking rights as basic, so that it matters little which parts of the structure are called rights
+# THEORY-1967: Contractualism explains rights' Hohfeldian form
 
 Scanlon, "Reply to Leif Wenar" (2013), [LIT-2746](../literature.d/LIT-2746.md).
 

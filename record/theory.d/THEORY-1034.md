@@ -3,7 +3,13 @@ number: 1034
 status: Active
 formerly:
 - THEORY-tmpzv1fw
-title: 'In the Markov Indian buffet process each feature''s probability of staying on is drawn independently of its probability of switching on, so how long a feature persists once on does not depend on how rare it is; the process is defined for the time steps of one sequence, not for several objects over time'
+title: 'Markov IBP persistence is independent of rarity'
+statement: >-
+  In the Markov Indian buffet process each feature's probability of staying
+  on is drawn independently of its probability of switching on, so how long
+  a feature persists once on does not depend on how rare it is; the process
+  is defined for the time steps of one sequence, not for several objects
+  over time
 version: 2
 history:
 - version: 1
@@ -43,7 +49,7 @@ bears_on:
 - QUESTION-276
 ---
 
-# THEORY-1034: In the Markov Indian buffet process each feature's probability of staying on is drawn independently of its probability of switching on, so how long a feature persists once on does not depend on how rare it is; the process is defined for the time steps of one sequence, not for several objects over time
+# THEORY-1034: Markov IBP persistence is independent of rarity
 
 ## Source
 

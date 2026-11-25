@@ -3,7 +3,12 @@ number: 4
 status: Active
 formerly:
 - THEORY-tmpcawyi
-title: 'A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels'
+title: 'Centred kernel fixes representation up to rotation'
+statement: >-
+  A representation is determined by its centred kernel up to a translation
+  and an orthogonal transformation, and the rotation-aligned distance
+  between two representations equals the Bures distance between their
+  kernels
 version: 9
 history:
 - version: 2
@@ -103,7 +108,7 @@ bounds:
 - CLAIM-290
 ---
 
-# THEORY-004: A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
+# THEORY-004: Centred kernel fixes representation up to rotation
 
 ## Source
 

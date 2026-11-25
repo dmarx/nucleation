@@ -10,7 +10,13 @@ promote_when: >-
   same rates for approachability under partial monitoring. The cited
   lower bounds are not in question here; the upper bounds are what is not
   yet checked.
-title: 'For Blackwell approachability of an approachable polytope under partial monitoring with a known signal law, there are efficient algorithms whose average vector payoff reaches the target at expected distance O(T^-1/3) for general signals and O(T^-1/2) when the signal law does not depend on the decision, the worst-case optimal rates for those two classes'
+title: 'Partial-monitoring approachability at T^-1/3'
+statement: >-
+  For Blackwell approachability of an approachable polytope under partial
+  monitoring with a known signal law, there are efficient algorithms whose
+  average vector payoff reaches the target at expected distance O(T^-1/3)
+  for general signals and O(T^-1/2) when the signal law does not depend on
+  the decision, the worst-case optimal rates for those two classes
 version: 1
 history:
 - version: 1
@@ -36,7 +42,7 @@ summary: >-
   signal law is unknown.
 ---
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the regret classification compared with, from this batch -->
-# THEORY-947: For Blackwell approachability of an approachable polytope under partial monitoring with a known signal law, there are efficient algorithms whose average vector payoff reaches the target at expected distance O(T^-1/3) for general signals and O(T^-1/2) when the signal law does not depend on the decision, the worst-case optimal rates for those two classes
+# THEORY-947: Partial-monitoring approachability at T^-1/3
 
 ## Source
 

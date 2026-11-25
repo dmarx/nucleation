@@ -12,7 +12,13 @@ promote_when: >-
   below the members' mean norm. Results on LoRA or full fine-tuning, or
   against other baselines, would not settle it, since the title is about
   the OFT case.
-title: 'Averaging the so(d) generators of models adapted by orthogonal finetuning shrinks the merged rotation as conflicting directions cancel, and rescaling the mean generator to the members'' mean norm is what lifts the merge, on five Llama-3.1-8B experts from 41.01 to 46.25, above the experts'' own 44.71'
+title: 'Rescaling mean so(d) generator lifts OFT merges'
+statement: >-
+  Averaging the so(d) generators of models adapted by orthogonal finetuning
+  shrinks the merged rotation as conflicting directions cancel, and
+  rescaling the mean generator to the members' mean norm is what lifts the
+  merge, on five Llama-3.1-8B experts from 41.01 to 46.25, above the
+  experts' own 44.71
 version: 1
 tags:
 - loss-landscapes
@@ -33,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-107 — Proposed; the other ablation in which rescaling matters most -->
 
-# THEORY-1903: Averaging the so(d) generators of models adapted by orthogonal finetuning shrinks the merged rotation as conflicting directions cancel, and rescaling the mean generator to the members' mean norm is what lifts the merge, on five Llama-3.1-8B experts from 41.01 to 46.25, above the experts' own 44.71
+# THEORY-1903: Rescaling mean so(d) generator lifts OFT merges
 
 ## Source
 

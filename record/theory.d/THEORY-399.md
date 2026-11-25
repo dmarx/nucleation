@@ -3,7 +3,16 @@ number: 399
 status: Active
 formerly:
 - THEORY-tmpup7x5
-title: 'Storing every inner product of n points of the unit ball of R^k to additive error ε takes Θ(n log n/ε²) bits once k ≥ log n/ε² and Θ(nk log(2 + log n/(ε²k))) below, for 1/n^0.49 ≤ ε ≤ 0.1, and comparing these counts across dimensions shows that some n such points cannot be mapped into fewer than Ω(min{k, log(2 + ε²n)/ε²}) dimensions with additive error ε for every ε ≥ 2/√n; this is a worst-case lower bound with unstated constants, the small-ε bit count is open for k above that dimension, and no one-family embedding that small is proved'
+title: 'Inner-product sketches need Θ(n log n/ε²) bits'
+statement: >-
+  Storing every inner product of n points of the unit ball of R^k to
+  additive error ε takes Θ(n log n/ε²) bits once k ≥ log n/ε² and Θ(nk log(2
+  + log n/(ε²k))) below, for 1/n^0.49 ≤ ε ≤ 0.1, and comparing these counts
+  across dimensions shows that some n such points cannot be mapped into
+  fewer than Ω(min{k, log(2 + ε²n)/ε²}) dimensions with additive error ε for
+  every ε ≥ 2/√n; this is a worst-case lower bound with unstated constants,
+  the small-ε bit count is open for k above that dimension, and no
+  one-family embedding that small is proved
 version: 1
 tags:
 - mathematics
@@ -28,7 +37,7 @@ summary: >-
   follows but is not stated. The matching upper bound for one set is open.
 ---
 
-# THEORY-399: Storing every inner product of n points of the unit ball of R^k to additive error ε takes Θ(n log n/ε²) bits once k ≥ log n/ε² and Θ(nk log(2 + log n/(ε²k))) below, for 1/n^0.49 ≤ ε ≤ 0.1, and comparing these counts across dimensions shows that some n such points cannot be mapped into fewer than Ω(min{k, log(2 + ε²n)/ε²}) dimensions with additive error ε for every ε ≥ 2/√n; this is a worst-case lower bound with unstated constants, the small-ε bit count is open for k above that dimension, and no one-family embedding that small is proved
+# THEORY-399: Inner-product sketches need Θ(n log n/ε²) bits
 
 ## Source
 

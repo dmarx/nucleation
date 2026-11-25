@@ -3,7 +3,14 @@ number: 243
 status: Active
 formerly:
 - THEORY-tmp6lt8x
-title: 'In the three-unit identity network x ↦ x(1, 0, 1) ↦ (0, 2, 1)·h, aligning the input with the third unit and aligning it with the direction (h₁ + h₂)/√2, two alignments related by an orthogonal change of basis, pass every interchange intervention on the input equally, so interchange interventions on that variable alone do not fix which internal direction mediates it'
+title: 'Interchange interventions don''t fix direction'
+statement: >-
+  In the three-unit identity network x ↦ x(1, 0, 1) ↦ (0, 2, 1)·h, aligning
+  the input with the third unit and aligning it with the direction (h₁ +
+  h₂)/√2, two alignments related by an orthogonal change of basis, pass
+  every interchange intervention on the input equally, so interchange
+  interventions on that variable alone do not fix which internal direction
+  mediates it
 version: 4
 history:
 - version: 2
@@ -53,7 +60,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 
-# THEORY-243: In the three-unit identity network x ↦ x(1, 0, 1) ↦ (0, 2, 1)·h, aligning the input with the third unit and aligning it with the direction (h₁ + h₂)/√2, two alignments related by an orthogonal change of basis, pass every interchange intervention on the input equally, so interchange interventions on that variable alone do not fix which internal direction mediates it
+# THEORY-243: Interchange interventions don't fix direction
 
 ## Source
 

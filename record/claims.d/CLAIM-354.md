@@ -3,7 +3,14 @@ number: 354
 status: Active
 formerly:
 - CLAIM-tmpilfhr
-title: 'Freedom of will and autonomy come in degrees along several dimensions, among them viable reachability, control cost, robustness to disturbance, governance reconfigurability, revisability and motivational integration, and agents compare by inclusion of what they can viably reach under matched conditions: a partial order with incomparable pairs, not a scalar, and a gradient only of a declared measure'
+title: 'Free will and autonomy come in degrees'
+statement: >-
+  Freedom of will and autonomy come in degrees along several dimensions,
+  among them viable reachability, control cost, robustness to disturbance,
+  governance reconfigurability, revisability and motivational integration,
+  and agents compare by inclusion of what they can viably reach under
+  matched conditions: a partial order with incomparable pairs, not a scalar,
+  and a gradient only of a declared measure
 version: 4
 history:
 - version: 2
@@ -92,7 +99,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-545 LIT-1614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency, and the claim that separates its quantity -->
 
-# CLAIM-354: Freedom of will and autonomy come in degrees along several dimensions, among them viable reachability, control cost, robustness to disturbance, governance reconfigurability, revisability and motivational integration, and agents compare by inclusion of what they can viably reach under matched conditions: a partial order with incomparable pairs, not a scalar, and a gradient only of a declared measure
+# CLAIM-354: Free will and autonomy come in degrees
 
 ## The claim
 

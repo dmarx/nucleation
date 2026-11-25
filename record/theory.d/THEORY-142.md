@@ -13,7 +13,15 @@ promote_when: >-
   knows can be measured against a known state of the world. More
   simulations, or more case histories of firms caught in competency traps,
   cannot settle it.
-title: 'Because the returns to exploitation are surer, nearer and closer to the decision than the returns to exploration, organizational learning refines exploitation faster and tends to become self-destructive in the long run; and where an organizational code learns only from members who deviate from it, slow socialization, a mix of slow and fast learners and moderate turnover raise what the organization knows, while without turnover a changing environment degrades its knowledge to chance'
+title: 'Exploitation crowds out exploration'
+statement: >-
+  Because the returns to exploitation are surer, nearer and closer to the
+  decision than the returns to exploration, organizational learning refines
+  exploitation faster and tends to become self-destructive in the long run;
+  and where an organizational code learns only from members who deviate from
+  it, slow socialization, a mix of slow and fast learners and moderate
+  turnover raise what the organization knows, while without turnover a
+  changing environment degrades its knowledge to chance
 version: 2
 history:
 - version: 2
@@ -46,7 +54,7 @@ bounds:
 <!-- inactive-ok-file: THEORY-143 — Proposed; the Zollman effect, named for a parallel -->
 <!-- inactive-ok-file: THEORY-144 — Proposed; Rasmussen, named for a contrast -->
 
-# THEORY-142: Because the returns to exploitation are surer, nearer and closer to the decision than the returns to exploration, organizational learning refines exploitation faster and tends to become self-destructive in the long run; and where an organizational code learns only from members who deviate from it, slow socialization, a mix of slow and fast learners and moderate turnover raise what the organization knows, while without turnover a changing environment degrades its knowledge to chance
+# THEORY-142: Exploitation crowds out exploration
 
 ## Source
 

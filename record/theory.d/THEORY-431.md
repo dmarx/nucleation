@@ -3,7 +3,14 @@ number: 431
 status: Active
 formerly:
 - THEORY-tmp3uu1d
-title: "For classical systems with Markovian, microscopically reversible dynamics, the entropy production of a trajectory obeys an exact finite-time symmetry against the time-reversed process, P_F(+ω)/P_R(−ω) = e^ω, wherever ω is odd under reversal; Jarzynski's work equality and the mean second law follow as corollaries, and the symmetry constrains fluctuations, not which steady state a system selects"
+title: 'Crooks symmetry holds for entropy production'
+statement: >-
+  For classical systems with Markovian, microscopically reversible dynamics,
+  the entropy production of a trajectory obeys an exact finite-time symmetry
+  against the time-reversed process, P_F(+ω)/P_R(−ω) = e^ω, wherever ω is
+  odd under reversal; Jarzynski's work equality and the mean second law
+  follow as corollaries, and the symmetry constrains fluctuations, not which
+  steady state a system selects
 version: 2
 history:
 - version: 2
@@ -37,7 +44,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-412 THEORY-671 — Proposed; named as accounts these theorems are background to or contrasted with, not leaned on -->
 <!-- inactive-ok-file: THEORY-2196 — Proposed; the reading of Gingrich and colleagues, 2026-11-22 -->
 
-# THEORY-431: For classical systems with Markovian, microscopically reversible dynamics, the entropy production of a trajectory obeys an exact finite-time symmetry against the time-reversed process, P_F(+ω)/P_R(−ω) = e^ω, wherever ω is odd under reversal; Jarzynski's work equality and the mean second law follow as corollaries, and the symmetry constrains fluctuations, not which steady state a system selects
+# THEORY-431: Crooks symmetry holds for entropy production
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 1159
 status: Proposed
 formerly:
 - CLAIM-tmpqr0tn
-title: 'A team''s historically sustained organization of differing perspectives can be partly realized in a shared governed record: the record keeps which distinctions persist, which contributions become consequential and which changes oblige revision, so the organization of the collaborators and the record, not the record alone, may be the bearer of a collective perspective, and the record becomes adaptively significant when the collaborators'' differences can revise its own distinctions'
+title: 'A governed record can partly bear a perspective'
+statement: >-
+  A team's historically sustained organization of differing perspectives can
+  be partly realized in a shared governed record: the record keeps which
+  distinctions persist, which contributions become consequential and which
+  changes oblige revision, so the organization of the collaborators and the
+  record, not the record alone, may be the bearer of a collective
+  perspective, and the record becomes adaptively significant when the
+  collaborators' differences can revise its own distinctions
 version: 1
 role: supposed
 warrant: interpretive
@@ -42,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-119 CLAIM-181 — Proposed; the term the claim is stated in and claims filed or held beside it -->
 
-# CLAIM-1159: A team's historically sustained organization of differing perspectives can be partly realized in a shared governed record: the record keeps which distinctions persist, which contributions become consequential and which changes oblige revision, so the organization of the collaborators and the record, not the record alone, may be the bearer of a collective perspective, and the record becomes adaptively significant when the collaborators' differences can revise its own distinctions
+# CLAIM-1159: A governed record can partly bear a perspective
 
 ## The supposition
 

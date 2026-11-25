@@ -9,7 +9,15 @@ promote_when: >-
   definitions of p. 1092 and the account in §V (pp. 1124–26) of criminal
   sanctions as deterring the conversion of property rules into liability
   rules. Whether the account of punishment is right is not asserted.
-title: 'Calabresi and Melamed propose that law protects an entitlement by a property rule, under which it is taken only by a purchase its holder agrees to, a liability rule, under which it may be taken on payment of a collectively determined value, or an inalienability rule, under which its transfer is forbidden, and that criminal sanctions serve partly to deter takers from converting property rules into liability rules by taking first and paying after'
+title: 'Law guards entitlements by three kinds of rule'
+statement: >-
+  Calabresi and Melamed propose that law protects an entitlement by a
+  property rule, under which it is taken only by a purchase its holder
+  agrees to, a liability rule, under which it may be taken on payment of a
+  collectively determined value, or an inalienability rule, under which its
+  transfer is forbidden, and that criminal sanctions serve partly to deter
+  takers from converting property rules into liability rules by taking first
+  and paying after
 version: 1
 tags:
 - society-and-governance
@@ -31,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-734 — Proposed or new; the reading and the claim it grounds -->
 
-# THEORY-1962: Calabresi and Melamed propose that law protects an entitlement by a property rule, under which it is taken only by a purchase its holder agrees to, a liability rule, under which it may be taken on payment of a collectively determined value, or an inalienability rule, under which its transfer is forbidden, and that criminal sanctions serve partly to deter takers from converting property rules into liability rules by taking first and paying after
+# THEORY-1962: Law guards entitlements by three kinds of rule
 
 Calabresi & Melamed (1972), [LIT-2749](../literature.d/LIT-2749.md).
 

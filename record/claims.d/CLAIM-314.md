@@ -3,7 +3,15 @@ number: 314
 status: Proposed
 formerly:
 - CLAIM-tmpze74h
-title: 'Reusing a filed argument has a recognition cost that a fixed per-use price leaves out: certifying that stored answers cover a new question is NP-complete even for conjunctive queries, grows with the number and size of the stored definitions rather than being a constant per item, and is undefined for an item filed without a statement of what it answers, so each filing raises the cost of later reuse and per-item break-even decisions are not independent'
+title: 'Reusing a filed argument has a recognition cost'
+statement: >-
+  Reusing a filed argument has a recognition cost that a fixed per-use price
+  leaves out: certifying that stored answers cover a new question is
+  NP-complete even for conjunctive queries, grows with the number and size
+  of the stored definitions rather than being a constant per item, and is
+  undefined for an item filed without a statement of what it answers, so
+  each filing raises the cost of later reuse and per-item break-even
+  decisions are not independent
 version: 3
 history:
 - version: 2
@@ -48,7 +56,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-576 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
-# CLAIM-314: Reusing a filed argument has a recognition cost that a fixed per-use price leaves out: certifying that stored answers cover a new question is NP-complete even for conjunctive queries, grows with the number and size of the stored definitions rather than being a constant per item, and is undefined for an item filed without a statement of what it answers, so each filing raises the cost of later reuse and per-item break-even decisions are not independent
+# CLAIM-314: Reusing a filed argument has a recognition cost
 
 ## The claim
 

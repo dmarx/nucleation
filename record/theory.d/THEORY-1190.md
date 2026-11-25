@@ -14,7 +14,14 @@ promote_when: >-
   values with an optimal policy, or if the bias appears where no future
   avoidance is at stake. A qualitative match of new simulations to further
   published effects cannot settle it.
-title: 'In a Markov decision process, an agent that evaluates actions as if it will fail to avoid danger at later steps, while in fact choosing optimally at each step, spreads threat value to states far from the danger and avoids early and widely, which reproduces qualitatively exaggerated threat appraisal, fear generalization and several laboratory findings associated with anxiety'
+title: 'Pessimistic future-step values mimic anxiety'
+statement: >-
+  In a Markov decision process, an agent that evaluates actions as if it
+  will fail to avoid danger at later steps, while in fact choosing optimally
+  at each step, spreads threat value to states far from the danger and
+  avoids early and widely, which reproduces qualitatively exaggerated threat
+  appraisal, fear generalization and several laboratory findings associated
+  with anxiety
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -36,7 +43,7 @@ summary: >-
   the paper leaves to future work.
 ---
 
-# THEORY-1190: In a Markov decision process, an agent that evaluates actions as if it will fail to avoid danger at later steps, while in fact choosing optimally at each step, spreads threat value to states far from the danger and avoids early and widely, which reproduces qualitatively exaggerated threat appraisal, fear generalization and several laboratory findings associated with anxiety
+# THEORY-1190: Pessimistic future-step values mimic anxiety
 
 ## Source
 

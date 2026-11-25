@@ -22,7 +22,11 @@ promote_when: >-
   account predicts, or further evidence of variability at a fine grain,
   since variable realisers are compatible with a unified variable above
   them.
-title: "Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism"
+title: 'Emotion categories are not natural kinds'
+statement: >-
+  Emotion categories are populations of variable instances grouped by the
+  perceiver's concepts, not natural kinds with a shared neural or appraisal
+  mechanism
 version: 1
 tags:
 - emotion-and-affect
@@ -55,7 +59,7 @@ answers:
 <!-- inactive-ok-file: LIT-550 — Unavailable, no lawful full text; named as the reply that could move this account, not leaned on -->
 <!-- inactive-ok-file: THEORY-055 THEORY-045 THEORY-036 — Proposed; the rival and the neighbours, stated as such -->
 
-# THEORY-057: Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism
+# THEORY-057: Emotion categories are not natural kinds
 
 ## Source
 

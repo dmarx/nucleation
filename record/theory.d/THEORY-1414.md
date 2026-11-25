@@ -3,7 +3,16 @@ number: 1414
 status: Active
 formerly:
 - THEORY-tmpo2kzn
-title: 'Rocks and Mehta show that stating Maxwell–Calladine counting in terms of elastic susceptibilities gives an index theorem that holds with prestress and heterogeneous stiffness, in which the zero-displacement tensions are the states of self-stress while the forces that excite each linear zero mode follow the joint symmetry of geometry and energy, and on two worked networks prestress breaking a geometric symmetry redirects those forces and localizes them to the prestressed bonds without changing the mechanisms'
+title: 'Prestress redirects forces exciting zero modes'
+statement: >-
+  Rocks and Mehta show that stating Maxwell–Calladine counting in terms of
+  elastic susceptibilities gives an index theorem that holds with prestress
+  and heterogeneous stiffness, in which the zero-displacement tensions are
+  the states of self-stress while the forces that excite each linear zero
+  mode follow the joint symmetry of geometry and energy, and on two worked
+  networks prestress breaking a geometric symmetry redirects those forces
+  and localizes them to the prestressed bonds without changing the
+  mechanisms
 version: 3
 history:
 - version: 2
@@ -71,7 +80,7 @@ summary: >-
   [QUESTION-423](../questions.d/QUESTION-423.md).
 ---
 
-# THEORY-1414: Rocks and Mehta show that stating Maxwell–Calladine counting in terms of elastic susceptibilities gives an index theorem that holds with prestress and heterogeneous stiffness, in which the zero-displacement tensions are the states of self-stress while the forces that excite each linear zero mode follow the joint symmetry of geometry and energy, and on two worked networks prestress breaking a geometric symmetry redirects those forces and localizes them to the prestressed bonds without changing the mechanisms
+# THEORY-1414: Prestress redirects forces exciting zero modes
 
 ## Source
 

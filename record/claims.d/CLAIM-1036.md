@@ -3,7 +3,16 @@ number: 1036
 status: Proposed
 formerly:
 - CLAIM-tmp6ppvo
-title: 'When what a learner learns changes what it values, the valuations of the selves its policies would produce fix no scalar optimum: judged by the self each policy produces, the ranking changes under rescalings that leave every self''s preferences as they were, and the policies their produced selves would choose again can be two or none; any rule that picks one optimum privileges one self, and the rule that privileges the present self, though it gives an optimum, counts nothing that only a later valuation would see'
+title: 'Self-changing values fix no scalar optimum'
+statement: >-
+  When what a learner learns changes what it values, the valuations of the
+  selves its policies would produce fix no scalar optimum: judged by the
+  self each policy produces, the ranking changes under rescalings that leave
+  every self's preferences as they were, and the policies their produced
+  selves would choose again can be two or none; any rule that picks one
+  optimum privileges one self, and the rule that privileges the present
+  self, though it gives an optimum, counts nothing that only a later
+  valuation would see
 version: 1
 role: thesis
 warrant: demonstrated
@@ -46,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1197 ARG-227 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1036: When what a learner learns changes what it values, the valuations of the selves its policies would produce fix no scalar optimum: judged by the self each policy produces, the ranking changes under rescalings that leave every self's preferences as they were, and the policies their produced selves would choose again can be two or none; any rule that picks one optimum privileges one self, and the rule that privileges the present self, though it gives an optimum, counts nothing that only a later valuation would see
+# CLAIM-1036: Self-changing values fix no scalar optimum
 
 ## The claim
 

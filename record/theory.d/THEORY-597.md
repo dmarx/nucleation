@@ -3,7 +3,14 @@ number: 597
 status: Active
 formerly:
 - THEORY-tmpo9c4c
-title: "Meditation-related experiences that Western Buddhist practitioners report as challenging span 59 kinds in seven domains, from fear and sleep change to altered self-other boundaries, and they are reported in daily practice, at under an hour a day and in the first days of practice, not only on intensive retreat; the frequencies come from a sample chosen for difficulty, and the causal link is the practitioners' own attribution"
+title: 'Meditation difficulties arise outside retreats'
+statement: >-
+  Meditation-related experiences that Western Buddhist practitioners report
+  as challenging span 59 kinds in seven domains, from fear and sleep change
+  to altered self-other boundaries, and they are reported in daily practice,
+  at under an hour a day and in the first days of practice, not only on
+  intensive retreat; the frequencies come from a sample chosen for
+  difficulty, and the causal link is the practitioners' own attribution
 version: 1
 tags:
 - consciousness
@@ -26,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-051 THEORY-458 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 
-# THEORY-597: Meditation-related experiences that Western Buddhist practitioners report as challenging span 59 kinds in seven domains, from fear and sleep change to altered self-other boundaries, and they are reported in daily practice, at under an hour a day and in the first days of practice, not only on intensive retreat; the frequencies come from a sample chosen for difficulty, and the causal link is the practitioners' own attribution
+# THEORY-597: Meditation difficulties arise outside retreats
 
 ## Source
 

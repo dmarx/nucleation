@@ -15,7 +15,15 @@ promote_when: >-
   counts or later work that assumes the theorem do not count. The
   consequence for the flux is re-derived below and needs nothing further
   once the theorem is granted.
-title: 'For every α < 1/3 there is a nonzero weak solution of the 3D incompressible Euler equations on the periodic box, with velocity Hölder-continuous of exponent α in space and time, that vanishes outside a finite time interval; its energy is not conserved, so the energy flux across a mollification scale ε does not vanish as ε → 0, and it runs in both directions, out of the vanishing scales while the energy rises and into them while it falls'
+title: 'Euler solutions below 1/3 can dissipate'
+statement: >-
+  For every α < 1/3 there is a nonzero weak solution of the 3D
+  incompressible Euler equations on the periodic box, with velocity
+  Hölder-continuous of exponent α in space and time, that vanishes outside a
+  finite time interval; its energy is not conserved, so the energy flux
+  across a mollification scale ε does not vanish as ε → 0, and it runs in
+  both directions, out of the vanishing scales while the energy rises and
+  into them while it falls
 version: 2
 history:
 - version: 1
@@ -58,7 +66,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-776 — Proposed; the admissible version, cited for contrast, nothing here rests on it -->
 <!-- inactive-ok-file: NOTE-974 — Skimmed; the partial reading this account rests on -->
-# THEORY-763: For every α < 1/3 there is a nonzero weak solution of the 3D incompressible Euler equations on the periodic box, with velocity Hölder-continuous of exponent α in space and time, that vanishes outside a finite time interval; its energy is not conserved, so the energy flux across a mollification scale ε does not vanish as ε → 0, and it runs in both directions, out of the vanishing scales while the energy rises and into them while it falls
+# THEORY-763: Euler solutions below 1/3 can dissipate
 
 ## Source
 

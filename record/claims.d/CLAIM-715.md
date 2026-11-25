@@ -3,7 +3,14 @@ number: 715
 formerly:
 - CLAIM-tmp238zy
 status: Proposed
-title: 'Friction that makes the people in a process think before accepting an output differs from friction that makes the institution answerable to their objections, so a system can make individuals think harder while leaving the institution''s authority untouched, and the added scrutiny can then serve as evidence that the individuals owned decisions whose conditions they could not change'
+title: 'Thinking-friction is not answerability'
+statement: >-
+  Friction that makes the people in a process think before accepting an
+  output differs from friction that makes the institution answerable to
+  their objections, so a system can make individuals think harder while
+  leaving the institution's authority untouched, and the added scrutiny can
+  then serve as evidence that the individuals owned decisions whose
+  conditions they could not change
 version: 3
 history:
 - version: 2
@@ -63,7 +70,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-712 CLAIM-702 CASE-277 ARG-112 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-707 CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 
-# CLAIM-715: Friction that makes the people in a process think before accepting an output differs from friction that makes the institution answerable to their objections, so a system can make individuals think harder while leaving the institution's authority untouched, and the added scrutiny can then serve as evidence that the individuals owned decisions whose conditions they could not change
+# CLAIM-715: Thinking-friction is not answerability
 
 ## The claim
 

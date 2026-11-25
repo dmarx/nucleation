@@ -15,7 +15,14 @@ promote_when: >-
   cases without the implausible storage the paper predicts. Further
   verbal analyses of single phenomena, or aphasia data cited as merely
   consistent, cannot settle it.
-title: "Lemma-based models of language production build in a lexicalist assumption, and the failure is algorithmic as well as representational: as long as retrieval of stored word-sized units and building of syntactic structure are separate stages, richer stored units cannot handle polysynthetic words, idioms whose parts syntax separates, or suppletion conditioned by an unplanned object"
+title: 'Separate lemma stage fails polysynthesis, idioms'
+statement: >-
+  Lemma-based models of language production build in a lexicalist
+  assumption, and the failure is algorithmic as well as representational: as
+  long as retrieval of stored word-sized units and building of syntactic
+  structure are separate stages, richer stored units cannot handle
+  polysynthetic words, idioms whose parts syntax separates, or suppletion
+  conditioned by an unplanned object
 version: 1
 tags:
 - linguistics
@@ -39,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-643 — Proposed; the account this one presupposes, open, so this one is Proposed too -->
 <!-- inactive-ok-file: LIT-031 — Proposed; the reading that sources this account, which is itself Proposed and says so -->
 
-# THEORY-588: Lemma-based models of language production build in a lexicalist assumption, and the failure is algorithmic as well as representational: as long as retrieval of stored word-sized units and building of syntactic structure are separate stages, richer stored units cannot handle polysynthetic words, idioms whose parts syntax separates, or suppletion conditioned by an unplanned object
+# THEORY-588: Separate lemma stage fails polysynthesis, idioms
 
 ## Source
 

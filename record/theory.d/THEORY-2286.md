@@ -3,9 +3,11 @@ number: 2286
 status: Proposed
 formerly:
 - THEORY-tmp9ropf
-title: The Tempe operator, charged with negligent homicide, pleaded guilty to endangerment
-  and was sentenced to three years of supervised probation, and prosecutors declined
-  to charge Uber as a corporation
+title: 'Uber operator got probation; Uber uncharged'
+statement: >-
+  The Tempe operator, charged with negligent homicide, pleaded guilty to
+  endangerment and was sentenced to three years of supervised probation, and
+  prosecutors declined to charge Uber as a corporation
 version: 1
 tags:
 - society-and-governance
@@ -28,7 +30,7 @@ summary: 'What [THEORY-2289](THEORY-2289.md) reports the Associated Press as rep
   asked for belongs to this wider thesis, which keeps it word for word.'
 ---
 
-# THEORY-2286: The Tempe operator, charged with negligent homicide, pleaded guilty to endangerment and was sentenced to three years of supervised probation, and prosecutors declined to charge Uber as a corporation
+# THEORY-2286: Uber operator got probation; Uber uncharged
 
 
 ## The reading

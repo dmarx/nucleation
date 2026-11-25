@@ -3,7 +3,14 @@ number: 705
 status: Proposed
 formerly:
 - CLAIM-tmpfmmkt
-title: 'When an institution produces challengeable decisions faster than its corrective process can resolve them, the formal right to challenge stays with everyone while its preventive effect cannot: if valid challenges arrive at rate λ and are resolved at rate μ < λ, at most a share μ/λ can ever be resolved in time, whatever the order of review, and under first-come review none filed after a finite time is'
+title: 'Overload caps timely challenges at μ/λ'
+statement: >-
+  When an institution produces challengeable decisions faster than its
+  corrective process can resolve them, the formal right to challenge stays
+  with everyone while its preventive effect cannot: if valid challenges
+  arrive at rate λ and are resolved at rate μ < λ, at most a share μ/λ can
+  ever be resolved in time, whatever the order of review, and under
+  first-come review none filed after a finite time is
 version: 7
 history:
 - version: 2
@@ -86,7 +93,7 @@ works:
 <!-- inactive-ok-file: THEORY-1931 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-711 — filed from the same exchange, Proposed -->
 
-# CLAIM-705: When an institution produces challengeable decisions faster than its corrective process can resolve them, the formal right to challenge stays with everyone while its preventive effect cannot: if valid challenges arrive at rate λ and are resolved at rate μ < λ, at most a share μ/λ can ever be resolved in time, whatever the order of review, and under first-come review none filed after a finite time is
+# CLAIM-705: Overload caps timely challenges at μ/λ
 
 ## The claim
 

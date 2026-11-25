@@ -3,7 +3,13 @@ number: 683
 status: Active
 formerly:
 - THEORY-tmpyh9bm
-title: "Permuting a fixed set of few-shot examples moves a GPT-family model's classification accuracy between near chance and near the supervised state of the art, at every model size tested; the good orders are specific to the model, the spread survives more examples and calibration, and bad orders mostly fail by predicting one label"
+title: 'Example order swings few-shot accuracy widely'
+statement: >-
+  Permuting a fixed set of few-shot examples moves a GPT-family model's
+  classification accuracy between near chance and near the supervised state
+  of the art, at every model size tested; the good orders are specific to
+  the model, the spread survives more examples and calibration, and bad
+  orders mostly fail by predicting one label
 version: 1
 tags:
 - representation-learning
@@ -23,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-251 — Proposed; a qualification of this measurement, named, not leaned on -->
 
-# THEORY-683: Permuting a fixed set of few-shot examples moves a GPT-family model's classification accuracy between near chance and near the supervised state of the art, at every model size tested; the good orders are specific to the model, the spread survives more examples and calibration, and bad orders mostly fail by predicting one label
+# THEORY-683: Example order swings few-shot accuracy widely
 
 ## Source
 

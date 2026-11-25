@@ -3,7 +3,12 @@ number: 274
 status: Proposed
 formerly:
 - CLAIM-tmp6phbn
-title: 'Participation on a shared canvas thins selectively: people keep coming back while art they invested in survives, so unaffiliated corruption falls over the event and the remaining participants are weighted toward maintainers, a cooling schedule the population produces for itself'
+title: 'A shared canvas sets its own cooling schedule'
+statement: >-
+  Participation on a shared canvas thins selectively: people keep coming
+  back while art they invested in survives, so unaffiliated corruption falls
+  over the event and the remaining participants are weighted toward
+  maintainers, a cooling schedule the population produces for itself
 version: 2
 history:
 - version: 2
@@ -50,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-072 — Proposed; claims and readings cited as open -->
 
-# CLAIM-274: Participation on a shared canvas thins selectively: people keep coming back while art they invested in survives, so unaffiliated corruption falls over the event and the remaining participants are weighted toward maintainers, a cooling schedule the population produces for itself
+# CLAIM-274: A shared canvas sets its own cooling schedule
 
 ## The claim
 

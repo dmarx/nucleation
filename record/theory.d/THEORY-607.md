@@ -15,7 +15,15 @@ promote_when: >-
   and known. A minimal prediction error alone cannot settle it, since the
   finest partition always minimises that, and neither can more toy
   arithmetic of operation counts.
-title: "The individuals that appear in an evolutionary transition in individuality are a summary description of lower-level processes, not a new level of fact: a partition of particles defines collectives when predicting at the coarse grain matches predicting at the fine grain across many traits, and collectives become indispensable, and so quasi-ontological, only because finite measurement and computation make the fine-grained prediction unaffordable"
+title: 'Evolved individuals are coarse-grained summaries'
+statement: >-
+  The individuals that appear in an evolutionary transition in individuality
+  are a summary description of lower-level processes, not a new level of
+  fact: a partition of particles defines collectives when predicting at the
+  coarse grain matches predicting at the fine grain across many traits, and
+  collectives become indispensable, and so quasi-ontological, only because
+  finite measurement and computation make the fine-grained prediction
+  unaffordable
 version: 2
 history:
 - version: 2
@@ -48,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-049 LIT-005 — Proposed; LIT-049 is the source this account was read from, and its NOTE places it; LIT-005 is named as its successor -->
 <!-- inactive-ok-file: THEORY-141 THEORY-257 THEORY-418 THEORY-465 — Proposed; a rival and neighbouring accounts named for comparison, nothing here rests on their being settled -->
 
-# THEORY-607: The individuals that appear in an evolutionary transition in individuality are a summary description of lower-level processes, not a new level of fact: a partition of particles defines collectives when predicting at the coarse grain matches predicting at the fine grain across many traits, and collectives become indispensable, and so quasi-ontological, only because finite measurement and computation make the fine-grained prediction unaffordable
+# THEORY-607: Evolved individuals are coarse-grained summaries
 
 ## Source
 

@@ -3,7 +3,11 @@ number: 45
 status: Active
 formerly:
 - CLAIM-tmpce4jz
-title: 'Architectural, dynamical and goal-directed accounts of distributed agency are complementary components of one account, each answering a different sub-question'
+title: 'Agency accounts are complementary components'
+statement: >-
+  Architectural, dynamical and goal-directed accounts of distributed agency
+  are complementary components of one account, each answering a different
+  sub-question
 version: 2
 history:
 - version: 2
@@ -34,7 +38,7 @@ summary: >-
   made the record want a `complements` relation.
 ---
 
-# CLAIM-045: Architectural, dynamical and goal-directed accounts of distributed agency are complementary components of one account, each answering a different sub-question
+# CLAIM-045: Agency accounts are complementary components
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 1030
 status: Proposed
 formerly:
 - CLAIM-tmp60fme
-title: 'In a small two-layer ReLU network trained conventionally on two tasks, both crossed interventions move its response to a conflicting learning demand: changing the optimizer with the network fixed changes how much of one task is lost while the other is relearned, and so does disrupting the units that carry its learned task separation with the optimizer fixed, by shares that depend on which optimizer trained it'
+title: 'Both crossed interventions move relearning'
+statement: >-
+  In a small two-layer ReLU network trained conventionally on two tasks,
+  both crossed interventions move its response to a conflicting learning
+  demand: changing the optimizer with the network fixed changes how much of
+  one task is lost while the other is relearned, and so does disrupting the
+  units that carry its learned task separation with the optimizer fixed, by
+  shares that depend on which optimizer trained it
 version: 1
 history:
 - version: 1
@@ -54,7 +61,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-404 — new; the study filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-367 — Proposed; the claim whose defeat condition the run tests -->
 
-# CLAIM-1030: In a small two-layer ReLU network trained conventionally on two tasks, both crossed interventions move its response to a conflicting learning demand: changing the optimizer with the network fixed changes how much of one task is lost while the other is relearned, and so does disrupting the units that carry its learned task separation with the optimizer fixed, by shares that depend on which optimizer trained it
+# CLAIM-1030: Both crossed interventions move relearning
 
 ## The claim
 

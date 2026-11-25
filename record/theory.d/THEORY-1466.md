@@ -3,7 +3,17 @@ number: 1466
 status: Active
 formerly:
 - THEORY-tmp5zz46
-title: "Baird, McKenzie and Özler's structured review of cash transfers in low- and middle-income countries finds that transfers made without an employment focus leave prime-age adults' work and earnings little changed, that pensioners and, in one study, refugees do reduce work, and that business start-up grants raise work and earnings while a job-search subsidy raised employment, significant only at the 10 percent level, which the authors attribute chiefly to easing liquidity and risk constraints; they expect responses to differ where transfers are dependable and permanent"
+title: 'Cash transfers barely change adult work'
+statement: >-
+  Baird, McKenzie and Özler's structured review of cash transfers in low-
+  and middle-income countries finds that transfers made without an
+  employment focus leave prime-age adults' work and earnings little changed,
+  that pensioners and, in one study, refugees do reduce work, and that
+  business start-up grants raise work and earnings while a job-search
+  subsidy raised employment, significant only at the 10 percent level, which
+  the authors attribute chiefly to easing liquidity and risk constraints;
+  they expect responses to differ where transfers are dependable and
+  permanent
 version: 4
 history:
 - version: 2
@@ -68,7 +78,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of Baird, McKenzie & Özler (2018) as open -->
 
-# THEORY-1466: Baird, McKenzie and Özler's structured review of cash transfers in low- and middle-income countries finds that transfers made without an employment focus leave prime-age adults' work and earnings little changed, that pensioners and, in one study, refugees do reduce work, and that business start-up grants raise work and earnings while a job-search subsidy raised employment, significant only at the 10 percent level, which the authors attribute chiefly to easing liquidity and risk constraints; they expect responses to differ where transfers are dependable and permanent
+# THEORY-1466: Cash transfers barely change adult work
 
 ## Source
 

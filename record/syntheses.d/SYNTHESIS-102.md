@@ -3,7 +3,17 @@ number: 102
 status: Proposed
 formerly:
 - SYNTHESIS-tmpoodbq
-title: "Rights, demands and commitments: the three are distinct and none establishes another, a demand's satisfaction condition carries no warrant so that an institution's maintained requirements cannot certify their own authority, a right that protects a choice constrains a policy and not a history, a demand ceases legitimately only by a valid normative power, inalienability limits what a holder can confer, in a form the source it cites carries on a narrower ground, rights once justified organize later justification, and a duty to help establish a needed institution is bounded by reachability"
+title: 'Rights, demands and commitments are distinct'
+statement: >-
+  Rights, demands and commitments: the three are distinct and none
+  establishes another, a demand's satisfaction condition carries no warrant
+  so that an institution's maintained requirements cannot certify their own
+  authority, a right that protects a choice constrains a policy and not a
+  history, a demand ceases legitimately only by a valid normative power,
+  inalienability limits what a holder can confer, in a form the source it
+  cites carries on a narrower ground, rights once justified organize later
+  justification, and a duty to help establish a needed institution is
+  bounded by reachability
 version: 2
 history:
 - version: 2
@@ -97,7 +107,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-2077 — Skimmed; the reading of Locke -->
 <!-- inactive-ok-file: LIT-2756 LIT-2721 — Unavailable; the works two readings stand in for -->
 
-# SYNTHESIS-102: Rights, demands and commitments: the three are distinct and none establishes another, a demand's satisfaction condition carries no warrant so that an institution's maintained requirements cannot certify their own authority, a right that protects a choice constrains a policy and not a history, a demand ceases legitimately only by a valid normative power, inalienability limits what a holder can confer, in a form the source it cites carries on a narrower ground, rights once justified organize later justification, and a duty to help establish a needed institution is bounded by reachability
+# SYNTHESIS-102: Rights, demands and commitments are distinct
 
 *A part account of the organizational-normativity line, on rights, demands and commitments. It was filed at the interim synthesis review of 2026-11-17, after the filing of the exchange "Assess Depp Heard Abuse" the same day, from which every component but one comes; none was in any account before. Version 2, at the follow-up review of 2026-11-18, folds in the readings of the exchange's works (pull request 514) and integrates [ARG-117](../arguments.d/ARG-117.md), the readings' judgement on [CLAIM-720](../claims.d/CLAIM-720.md). Every component here was filed by the continuation's filing (turns U1 to U48); the first share's filing (pull request 510, turns U1 to U17) filed nothing in this part, and none of the nine entries reconciled into the first filing's codes is here. Several components also carry dependence-and-domination, and two cases and the argument carry it and not this line (below). Its sibling on accountability without blame and normative governability is [SYNTHESIS-104](SYNTHESIS-104.md).*
 

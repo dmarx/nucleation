@@ -3,7 +3,14 @@ number: 1020
 status: Active
 formerly:
 - THEORY-tmp3gl09
-title: 'In a two-layer attention-only language model, on tokens where induction helps, the standard induction circuit (queries and values from the token embedding, keys from the previous-token head) accounts for 35% of the loss its two induction heads contribute, and a hypothesis that adds three-token matching, layer 0''s average effect and three layer-0 heads acting as if they attended to the current token accounts for 86%'
+title: 'Standard induction circuit explains only 35%'
+statement: >-
+  In a two-layer attention-only language model, on tokens where induction
+  helps, the standard induction circuit (queries and values from the token
+  embedding, keys from the previous-token head) accounts for 35% of the loss
+  its two induction heads contribute, and a hypothesis that adds three-token
+  matching, layer 0's average effect and three layer-0 heads acting as if
+  they attended to the current token accounts for 86%
 version: 2
 history:
 - version: 1
@@ -44,7 +51,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-990 — Proposed; the wider thesis this bears on, cited as open -->
 
-# THEORY-1020: In a two-layer attention-only language model, on tokens where induction helps, the standard induction circuit (queries and values from the token embedding, keys from the previous-token head) accounts for 35% of the loss its two induction heads contribute, and a hypothesis that adds three-token matching, layer 0's average effect and three layer-0 heads acting as if they attended to the current token accounts for 86%
+# THEORY-1020: Standard induction circuit explains only 35%
 
 ## Source
 

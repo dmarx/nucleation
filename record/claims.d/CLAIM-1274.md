@@ -3,7 +3,11 @@ number: 1274
 status: Proposed
 formerly:
 - CLAIM-tmpgmxs0
-title: "The record's framework positions it to characterize precisely what is wrong or deficient in originalist, unitary-executive and, more broadly, conservative theories, each in its own respect"
+title: 'Framework can diagnose conservative theories'
+statement: >-
+  The record's framework positions it to characterize precisely what is
+  wrong or deficient in originalist, unitary-executive and, more broadly,
+  conservative theories, each in its own respect
 version: 1
 role: thesis
 warrant: interpretive
@@ -33,7 +37,7 @@ summary: >-
 
 <!-- inactive-ok-file: ARG-258 ARG-259 ARG-260 CLAIM-1220 CLAIM-1250 CLAIM-1253 CLAIM-1254 CLAIM-1255 CLAIM-1266 CLAIM-1294 CLAIM-1295 CLAIM-1301 CLAIM-1313 CLAIM-1315 TERM-178 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# CLAIM-1274: The record's framework positions it to characterize precisely what is wrong or deficient in originalist, unitary-executive and, more broadly, conservative theories, each in its own respect
+# CLAIM-1274: Framework can diagnose conservative theories
 
 ## The claim
 

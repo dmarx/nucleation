@@ -3,7 +3,15 @@ number: 1746
 status: Proposed
 formerly:
 - THEORY-tmp9ispo
-title: 'Fang et al. (2025) report that AI-Newton, a system that defines physical concepts explicitly in a domain-specific language and extends a general law that fails in a new experiment by adding terms found by symbolic regression, rediscovered Newton''s second law, energy conservation and universal gravitation from simulated noisy data on 46 mechanics experiments without prior physical concepts, identifying about 90 concepts and 50 general laws per run on average.'
+title: 'AI-Newton rediscovers laws without priors'
+statement: >-
+  Fang et al. (2025) report that AI-Newton, a system that defines physical
+  concepts explicitly in a domain-specific language and extends a general
+  law that fails in a new experiment by adding terms found by symbolic
+  regression, rediscovered Newton's second law, energy conservation and
+  universal gravitation from simulated noisy data on 46 mechanics
+  experiments without prior physical concepts, identifying about 90 concepts
+  and 50 general laws per run on average.
 version: 1
 tags:
 - philosophy-of-science
@@ -22,7 +30,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1746: Fang et al. (2025) report that AI-Newton, a system that defines physical concepts explicitly in a domain-specific language and extends a general law that fails in a new experiment by adding terms found by symbolic regression, rediscovered Newton's second law, energy conservation and universal gravitation from simulated noisy data on 46 mechanics experiments without prior physical concepts, identifying about 90 concepts and 50 general laws per run on average.
+# THEORY-1746: AI-Newton rediscovers laws without priors
 
 ## The account
 

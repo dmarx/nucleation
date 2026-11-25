@@ -9,7 +9,13 @@ promote_when: >-
   distinct connections, among them moral, outcome and causal
   responsibility, benefit, capacity and community, and that it can fall
   on an agent without fault. Whether the theory is right is not asked.
-title: 'Miller, as Shaw-Young reports his 2007 statement, holds that remedial responsibility for a bad situation is assigned through several distinct connections to it, moral responsibility, outcome responsibility, causal responsibility, benefit, capacity and community, so that it need not fall on whoever caused the situation or was at fault'
+title: 'Remedial responsibility needn''t follow causation'
+statement: >-
+  Miller, as Shaw-Young reports his 2007 statement, holds that remedial
+  responsibility for a bad situation is assigned through several distinct
+  connections to it, moral responsibility, outcome responsibility, causal
+  responsibility, benefit, capacity and community, so that it need not fall
+  on whoever caused the situation or was at fault
 version: 1
 tags:
 - ethics
@@ -29,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2755 — Unavailable; the work reported -->
 <!-- inactive-ok-file: NOTE-2064 CLAIM-717 — Skimmed or Proposed; the reading and the claim it corroborates -->
 
-# THEORY-1958: Miller, as Shaw-Young reports his 2007 statement, holds that remedial responsibility for a bad situation is assigned through several distinct connections to it, moral responsibility, outcome responsibility, causal responsibility, benefit, capacity and community, so that it need not fall on whoever caused the situation or was at fault
+# THEORY-1958: Remedial responsibility needn't follow causation
 
 Shaw-Young (2008), [LIT-2773](../literature.d/LIT-2773.md), reporting Miller (2007).
 

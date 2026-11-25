@@ -3,7 +3,9 @@ number: 1335
 status: Proposed
 formerly:
 - CLAIM-tmpxkeu9
-title: 'A luria record is an atlas of charts over an inquiry'
+title: 'A luria record is an atlas of charts'
+statement: >-
+  A luria record is an atlas of charts over an inquiry
 version: 1
 role: thesis
 warrant: interpretive
@@ -28,7 +30,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1297 CLAIM-1238 — new; A's development, the assistant's gap fill and the question A49 asks the record to hold -->
 
-# CLAIM-1335: A luria record is an atlas of charts over an inquiry
+# CLAIM-1335: A luria record is an atlas of charts
 
 ## The claim
 

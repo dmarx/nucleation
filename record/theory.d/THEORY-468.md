@@ -15,7 +15,12 @@ promote_when: >-
   account of them was given in advance. More positive mentions of the seven
   cannot settle it, and neither can a cooperative story for a taboo written
   after it was found.
-title: "Morality is the set of solutions to recurrent problems of cooperation, so each of the seven cooperation problems game theory identifies yields a moral domain valued in every culture, and behaviour unrelated to cooperation is morally neutral"
+title: 'Morality is solutions to cooperation problems'
+statement: >-
+  Morality is the set of solutions to recurrent problems of cooperation, so
+  each of the seven cooperation problems game theory identifies yields a
+  moral domain valued in every culture, and behaviour unrelated to
+  cooperation is morally neutral
 version: 1
 tags:
 - moral-psychology
@@ -38,7 +43,7 @@ summary: >-
   programme's own data show them moralized.
 ---
 
-# THEORY-468: Morality is the set of solutions to recurrent problems of cooperation, so each of the seven cooperation problems game theory identifies yields a moral domain valued in every culture, and behaviour unrelated to cooperation is morally neutral
+# THEORY-468: Morality is solutions to cooperation problems
 
 ## Source
 

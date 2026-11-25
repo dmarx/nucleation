@@ -3,7 +3,12 @@ number: 14
 status: Active
 formerly:
 - THEORY-tmprs2he
-title: 'In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical'
+title: 'Only unavoidable negativity is nonclassical'
+statement: >-
+  In both formalisms of contextuality, classicality is the existence of a
+  nonnegative version of a linear representation that always exists over the
+  reals, so negativity is universal and only its unavoidability is
+  nonclassical
 version: 4
 history:
 - version: 2
@@ -52,7 +57,7 @@ bears_on:
 - QUESTION-146
 ---
 
-# THEORY-014: In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical
+# THEORY-014: Only unavoidable negativity is nonclassical
 
 ## Source
 

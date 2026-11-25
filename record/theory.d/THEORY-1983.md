@@ -7,7 +7,12 @@ promote_when: >-
   An independent study finds that preschool children wait longer for a
   delayed reward when distracted from it, overtly or by instructed
   thought, than when attending to it or thinking about it.
-title: 'Preschool children''s voluntary delay of gratification is lengthened by overt or cognitive distraction from the rewards and shortened by attention or ideation that keeps the rewards salient, so effective delay depends on suppressing attention to the rewards rather than dwelling on them'
+title: 'Distraction from rewards lengthens delay'
+statement: >-
+  Preschool children's voluntary delay of gratification is lengthened by
+  overt or cognitive distraction from the rewards and shortened by attention
+  or ideation that keeps the rewards salient, so effective delay depends on
+  suppressing attention to the rewards rather than dwelling on them
 version: 1
 tags:
 - cognition
@@ -25,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-281 — Proposed; cited with their standing, entries this reading bears on or files -->
 
-# THEORY-1983: Preschool children's voluntary delay of gratification is lengthened by overt or cognitive distraction from the rewards and shortened by attention or ideation that keeps the rewards salient, so effective delay depends on suppressing attention to the rewards rather than dwelling on them
+# THEORY-1983: Distraction from rewards lengthens delay
 
 Mischel, Ebbesen & Zeiss (1972), [LIT-2734](../literature.d/LIT-2734.md).
 

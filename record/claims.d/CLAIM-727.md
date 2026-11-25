@@ -3,7 +3,13 @@ number: 727
 formerly:
 - CLAIM-tmpcpijj
 status: Active
-title: 'Authority over a decision does not carry authority over the conditions on which it may be challenged: control of the cost, timing, evidence, forum or remedy of a challenge needs its own justification, and where an actor''s authority is meant to be constrained by independently justified claims, its own judgment that it has met them cannot always establish that it has'
+title: 'Authority over decision is not over challenge'
+statement: >-
+  Authority over a decision does not carry authority over the conditions on
+  which it may be challenged: control of the cost, timing, evidence, forum
+  or remedy of a challenge needs its own justification, and where an actor's
+  authority is meant to be constrained by independently justified claims,
+  its own judgment that it has met them cannot always establish that it has
 version: 8
 history:
 - version: 2
@@ -114,7 +120,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-624 CLAIM-619 TERM-124 — Proposed; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-739 CLAIM-724 CLAIM-748 — filed from the same exchange, Proposed or new -->
 
-# CLAIM-727: Authority over a decision does not carry authority over the conditions on which it may be challenged: control of the cost, timing, evidence, forum or remedy of a challenge needs its own justification, and where an actor's authority is meant to be constrained by independently justified claims, its own judgment that it has met them cannot always establish that it has
+# CLAIM-727: Authority over decision is not over challenge
 
 ## The claim
 

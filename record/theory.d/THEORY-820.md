@@ -3,7 +3,16 @@ number: 820
 status: Active
 formerly:
 - THEORY-tmpri29w
-title: 'For a stationary discrete-valued process X and any coarse-graining Z of its past, informational closure at every horizon is the same condition as zero one-step transfer entropy from the micro past, Barnett and Seth''s dynamical independence, and as causal closure, Z''s ε-machine coinciding with its υ-machine; for a coarse-graining of the present state it also makes Z''s causal states a coarse-graining of X''s, which does not imply closure, and the closed coarse-grainings are not closed under common refinement'
+title: 'Informational closure equals causal closure'
+statement: >-
+  For a stationary discrete-valued process X and any coarse-graining Z of
+  its past, informational closure at every horizon is the same condition as
+  zero one-step transfer entropy from the micro past, Barnett and Seth's
+  dynamical independence, and as causal closure, Z's ε-machine coinciding
+  with its υ-machine; for a coarse-graining of the present state it also
+  makes Z's causal states a coarse-graining of X's, which does not imply
+  closure, and the closed coarse-grainings are not closed under common
+  refinement
 version: 2
 history:
 - version: 1
@@ -43,7 +52,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the interpretive reading of dynamical independence this bears on, cited as open -->
 <!-- inactive-ok-file: THEORY-2205 — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
-# THEORY-820: For a stationary discrete-valued process X and any coarse-graining Z of its past, informational closure at every horizon is the same condition as zero one-step transfer entropy from the micro past, Barnett and Seth's dynamical independence, and as causal closure, Z's ε-machine coinciding with its υ-machine; for a coarse-graining of the present state it also makes Z's causal states a coarse-graining of X's, which does not imply closure, and the closed coarse-grainings are not closed under common refinement
+# THEORY-820: Informational closure equals causal closure
 
 ## Source
 

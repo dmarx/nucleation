@@ -3,7 +3,17 @@ number: 921
 status: Active
 formerly:
 - CLAIM-tmp9mpn0
-title: 'Where competence decays without funded maintenance and a capability is committed only when competent enough, a budget that follows observed use has a state in which the capability is never used or funded again whenever the base budget alone sustains competence below that level, any stretch without occasions long enough for competence to decay there reaches it whatever each use was paid, so at the same expected funding the chance of loss within a given time has a lower bound that rises as occasions grow rarer and does not depend on the payment per use, while maintenance funded apart from use, at a level that sustains the threshold, has no such state'
+title: 'Use-following budgets can lose a capability'
+statement: >-
+  Where competence decays without funded maintenance and a capability is
+  committed only when competent enough, a budget that follows observed use
+  has a state in which the capability is never used or funded again whenever
+  the base budget alone sustains competence below that level, any stretch
+  without occasions long enough for competence to decay there reaches it
+  whatever each use was paid, so at the same expected funding the chance of
+  loss within a given time has a lower bound that rises as occasions grow
+  rarer and does not depend on the payment per use, while maintenance funded
+  apart from use, at a level that sustains the threshold, has no such state
 version: 5
 history:
 - version: 1
@@ -111,7 +121,7 @@ works:
 - governance-of-becoming
 ---
 
-# CLAIM-921: Where competence decays without funded maintenance and a capability is committed only when competent enough, a budget that follows observed use has a state in which the capability is never used or funded again whenever the base budget alone sustains competence below that level, any stretch without occasions long enough for competence to decay there reaches it whatever each use was paid, so at the same expected funding the chance of loss within a given time has a lower bound that rises as occasions grow rarer and does not depend on the payment per use, while maintenance funded apart from use, at a level that sustains the threshold, has no such state
+# CLAIM-921: Use-following budgets can lose a capability
 
 ## The claim
 

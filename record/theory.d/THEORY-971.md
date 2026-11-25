@@ -3,7 +3,15 @@ number: 971
 status: Active
 formerly:
 - THEORY-tmp7rb6m
-title: 'A unit that thresholds a pre-activation equal to a term depending only on one operand plus a term depending only on the other cannot be active on exactly the pairs with a given sum when that sum has two decompositions: if it is active on (x, y) and (z, w), it is active on (x, w) or on (z, y); so a sum computed from separately represented operands needs an earlier unit that combines them, as Ameisen et al. argue for addition in language models'
+title: 'Additive units cannot detect a given sum'
+statement: >-
+  A unit that thresholds a pre-activation equal to a term depending only on
+  one operand plus a term depending only on the other cannot be active on
+  exactly the pairs with a given sum when that sum has two decompositions:
+  if it is active on (x, y) and (z, w), it is active on (x, w) or on (z, y);
+  so a sum computed from separately represented operands needs an earlier
+  unit that combines them, as Ameisen et al. argue for addition in language
+  models
 version: 1
 history:
 - version: 1
@@ -31,7 +39,7 @@ summary: >-
   the result says is required.
 ---
 <!-- inactive-ok-file: THEORY-022 — Proposed; the neighbouring account of modular addition, named, nothing here rests on it -->
-# THEORY-971: A unit that thresholds a pre-activation equal to a term depending only on one operand plus a term depending only on the other cannot be active on exactly the pairs with a given sum when that sum has two decompositions: if it is active on (x, y) and (z, w), it is active on (x, w) or on (z, y); so a sum computed from separately represented operands needs an earlier unit that combines them, as Ameisen et al. argue for addition in language models
+# THEORY-971: Additive units cannot detect a given sum
 
 ## Source
 

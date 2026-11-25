@@ -3,7 +3,13 @@ number: 1254
 status: Proposed
 formerly:
 - CLAIM-tmpawbfn
-title: 'Originalism, strong executive unitarism and preservationist conservatism locate authority in different places, the historical specification, the present center of direction and established practice, which can conflict, so they cannot be treated as expressions of one coherent philosophy of conservation and their commitments must be examined separately'
+title: 'Three authorities that conservatism conflates'
+statement: >-
+  Originalism, strong executive unitarism and preservationist conservatism
+  locate authority in different places, the historical specification, the
+  present center of direction and established practice, which can conflict,
+  so they cannot be treated as expressions of one coherent philosophy of
+  conservation and their commitments must be examined separately
 version: 1
 role: thesis
 warrant: interpretive
@@ -34,7 +40,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-614 CLAIM-624 CLAIM-1274 CLAIM-1313 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# CLAIM-1254: Originalism, strong executive unitarism and preservationist conservatism locate authority in different places, the historical specification, the present center of direction and established practice, which can conflict, so they cannot be treated as expressions of one coherent philosophy of conservation and their commitments must be examined separately
+# CLAIM-1254: Three authorities that conservatism conflates
 
 ## The claim
 

@@ -14,7 +14,14 @@ promote_when: >-
   succeed promote it. More demonstrations of Copycat in its own
   microdomain cannot settle either, since its relevant concepts were chosen
   by its designers.
-title: "A model of discovery or analogy that is given representations built with the answer in view has been given most of the answer, as BACON was with Kepler's data and SME with its solar system and atom, and representation-building cannot be postponed to a separate module, because which representation is right depends on the task and on the analogy being made"
+title: 'Hand-built representations give away the answer'
+statement: >-
+  A model of discovery or analogy that is given representations built with
+  the answer in view has been given most of the answer, as BACON was with
+  Kepler's data and SME with its solar system and atom, and
+  representation-building cannot be postponed to a separate module, because
+  which representation is right depends on the task and on the analogy being
+  made
 version: 1
 tags:
 - cognition
@@ -37,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-416 — Unavailable; Hofstadter's later essay, named as a neighbour, not leaned on -->
 <!-- inactive-ok-file: THEORY-454 — Proposed; neighbouring accounts of representation and of perception, named in Connections, not leaned on -->
 
-# THEORY-541: A model of discovery or analogy that is given representations built with the answer in view has been given most of the answer, as BACON was with Kepler's data and SME with its solar system and atom, and representation-building cannot be postponed to a separate module, because which representation is right depends on the task and on the analogy being made
+# THEORY-541: Hand-built representations give away the answer
 
 ## Source
 

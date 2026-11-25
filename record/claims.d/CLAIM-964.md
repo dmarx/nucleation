@@ -3,7 +3,14 @@ number: 964
 status: Proposed
 formerly:
 - CLAIM-tmp59ejz
-title: "A pragmatic rendering experiment's operational equivalences, equal probe predictabilities in the four sign patterns plus one mixture equivalence among renderings, imply a generalized-noncontextuality inequality bounding the sum of the two probe predictabilities by one, a preparation-contextuality test separate from and invisible to the sheaf criterion"
+title: 'Rendering equivalences imply a contextuality bound'
+statement: >-
+  A pragmatic rendering experiment's operational equivalences, equal probe
+  predictabilities in the four sign patterns plus one mixture equivalence
+  among renderings, imply a generalized-noncontextuality inequality bounding
+  the sum of the two probe predictabilities by one, a
+  preparation-contextuality test separate from and invisible to the sheaf
+  criterion
 version: 1
 role: thesis
 warrant: interpretive
@@ -40,7 +47,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-044 CLAIM-142 — Proposed; premises this claim rests on, open and cited as open -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 — Proposed; the global-extension claims this one is the preparation counterpart to, open -->
 
-# CLAIM-964: A pragmatic rendering experiment's operational equivalences, equal probe predictabilities in the four sign patterns plus one mixture equivalence among renderings, imply a generalized-noncontextuality inequality bounding the sum of the two probe predictabilities by one, a preparation-contextuality test separate from and invisible to the sheaf criterion
+# CLAIM-964: Rendering equivalences imply a contextuality bound
 
 ## The claim
 

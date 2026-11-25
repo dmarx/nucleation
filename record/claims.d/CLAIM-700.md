@@ -3,7 +3,15 @@ number: 700
 status: Proposed
 formerly:
 - CLAIM-tmp0tg7y
-title: 'Where members'' conscientious compensation covers an organization''s shortfall and the organization budgets to what it observes, the compensation and the quiet it buys are read as adequacy, resources are cut toward what the present configuration needs, and the reconfigurations that would remove the shortfall pass out of reach while the present arrangement stays feasible; and where revealing spare capacity invites its removal, the members'' own best responses feed the loop'
+title: 'Compensation read as adequacy locks in shortfall'
+statement: >-
+  Where members' conscientious compensation covers an organization's
+  shortfall and the organization budgets to what it observes, the
+  compensation and the quiet it buys are read as adequacy, resources are cut
+  toward what the present configuration needs, and the reconfigurations that
+  would remove the shortfall pass out of reach while the present arrangement
+  stays feasible; and where revealing spare capacity invites its removal,
+  the members' own best responses feed the loop
 version: 11
 history:
 - version: 2
@@ -136,7 +144,7 @@ works:
 <!-- inactive-ok-file: CLAIM-553 — Proposed; the budget cut result and the three thresholds, cited with their standing -->
 <!-- inactive-ok-file: TERM-110 CLAIM-445 CLAIM-619 — Proposed; the ratchet the claim uses and the record's nearest loops, cited with their standing -->
 
-# CLAIM-700: Where members' conscientious compensation covers an organization's shortfall and the organization budgets to what it observes, the compensation and the quiet it buys are read as adequacy, resources are cut toward what the present configuration needs, and the reconfigurations that would remove the shortfall pass out of reach while the present arrangement stays feasible; and where revealing spare capacity invites its removal, the members' own best responses feed the loop
+# CLAIM-700: Compensation read as adequacy locks in shortfall
 
 ## The claim
 

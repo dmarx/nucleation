@@ -3,7 +3,14 @@ number: 675
 status: Active
 formerly:
 - CLAIM-tmp6wuql
-title: 'Two forms of support that give a party the same capabilities now can leave it different capabilities later: where capacity is learned by doing and decays with disuse, support that does the work shrinks what the party can reach unaided while support that covers only its shortfall does not, so support, or a technology, cannot be ranked by present capability sets and has to be assessed by the capability trajectory it produces'
+title: 'Assess support by capability trajectory'
+statement: >-
+  Two forms of support that give a party the same capabilities now can leave
+  it different capabilities later: where capacity is learned by doing and
+  decays with disuse, support that does the work shrinks what the party can
+  reach unaided while support that covers only its shortfall does not, so
+  support, or a technology, cannot be ranked by present capability sets and
+  has to be assessed by the capability trajectory it produces
 version: 6
 history:
 - version: 2
@@ -106,7 +113,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-262 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: NOTE-1921 — filed from the readings of 2026-11-13, Skimmed; Illich, a two-page excerpt -->
 
-# CLAIM-675: Two forms of support that give a party the same capabilities now can leave it different capabilities later: where capacity is learned by doing and decays with disuse, support that does the work shrinks what the party can reach unaided while support that covers only its shortfall does not, so support, or a technology, cannot be ranked by present capability sets and has to be assessed by the capability trajectory it produces
+# CLAIM-675: Assess support by capability trajectory
 
 ## The claim
 

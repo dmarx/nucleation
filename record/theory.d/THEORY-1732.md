@@ -3,7 +3,12 @@ number: 1732
 status: Proposed
 formerly:
 - THEORY-tmp4cr0g
-title: 'Halpern and Moses: over a channel that can lose messages, or whose delivery times are uncertain, communication cannot make common knowledge any fact that was not common knowledge at the start, so no protocol guarantees an action that requires it'
+title: 'Unreliable channels can''t create common knowledge'
+statement: >-
+  Halpern and Moses: over a channel that can lose messages, or whose
+  delivery times are uncertain, communication cannot make common knowledge
+  any fact that was not common knowledge at the start, so no protocol
+  guarantees an action that requires it
 version: 1
 tags:
 - logic
@@ -41,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-668 ARG-097 — filed from the exchange "luria experiment design", Proposed -->
 
-# THEORY-1732: Halpern and Moses: over a channel that can lose messages, or whose delivery times are uncertain, communication cannot make common knowledge any fact that was not common knowledge at the start, so no protocol guarantees an action that requires it
+# THEORY-1732: Unreliable channels can't create common knowledge
 
 ## The account
 

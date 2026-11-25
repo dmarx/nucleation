@@ -17,7 +17,13 @@ promote_when: >-
   eigenvalues, or a bulk that is not a thresholded semicircle deformation.
   More qualitative resemblance between these spectra and those of trained
   transformers cannot settle it: that tests an analogy, not the law.
-title: 'In a tied single-head attention layer trained by ridge-penalized empirical risk minimization on high-dimensional Gaussian sequences, weight decay is a nuclear-norm penalty on the query–key map, and the learned map is a soft-thresholded noisy copy of the target: its outliers are recovered target directions and its bulk is finite-sample noise'
+title: 'Weight decay is nuclear-norm on query–key map'
+statement: >-
+  In a tied single-head attention layer trained by ridge-penalized empirical
+  risk minimization on high-dimensional Gaussian sequences, weight decay is
+  a nuclear-norm penalty on the query–key map, and the learned map is a
+  soft-thresholded noisy copy of the target: its outliers are recovered
+  target directions and its bulk is finite-sample noise
 version: 2
 history:
 - version: 2
@@ -52,7 +58,7 @@ extends:
 
 <!-- inactive-ok-file: THEORY-106 — Proposed; compared in scope below -->
 
-# THEORY-180: In a tied single-head attention layer trained by ridge-penalized empirical risk minimization on high-dimensional Gaussian sequences, weight decay is a nuclear-norm penalty on the query–key map, and the learned map is a soft-thresholded noisy copy of the target: its outliers are recovered target directions and its bulk is finite-sample noise
+# THEORY-180: Weight decay is nuclear-norm on query–key map
 
 ## Source
 

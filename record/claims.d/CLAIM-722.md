@@ -3,7 +3,13 @@ number: 722
 formerly:
 - CLAIM-tmpa0wdv
 status: Proposed
-title: 'Succeeding in making a remedy unreachable gains a wrongdoer no normative power over what is owed: a claim still valid under the standard persists while the correctability of its fitting remedy falls to zero, and an acceptance or settlement reached under the conditions the violation created does not by that fact authorize the violation'
+title: 'Unreachable remedy gains no normative power'
+statement: >-
+  Succeeding in making a remedy unreachable gains a wrongdoer no normative
+  power over what is owed: a claim still valid under the standard persists
+  while the correctability of its fitting remedy falls to zero, and an
+  acceptance or settlement reached under the conditions the violation
+  created does not by that fact authorize the violation
 version: 2
 history:
 - version: 2
@@ -59,7 +65,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-734 CLAIM-743 CLAIM-748 CLAIM-720 — filed from the same exchange, Proposed or new -->
 
-# CLAIM-722: Succeeding in making a remedy unreachable gains a wrongdoer no normative power over what is owed: a claim still valid under the standard persists while the correctability of its fitting remedy falls to zero, and an acceptance or settlement reached under the conditions the violation created does not by that fact authorize the violation
+# CLAIM-722: Unreachable remedy gains no normative power
 
 ## The claim
 

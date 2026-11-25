@@ -3,7 +3,12 @@ number: 1154
 status: Proposed
 formerly:
 - CLAIM-tmppui4z
-title: 'In contested open-source successions an outside party''s verdict on which line continues the project is given by moving to it: the statement of legitimacy and the move are one act, so the verdict is a participation that makes the succession and not a prior judgement that causes it'
+title: 'In forks, a verdict is given by moving'
+statement: >-
+  In contested open-source successions an outside party's verdict on which
+  line continues the project is given by moving to it: the statement of
+  legitimacy and the move are one act, so the verdict is a participation
+  that makes the succession and not a prior judgement that causes it
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-411 CLAIM-1067 — new, Proposed; the study and the reading this is the alternative to -->
 <!-- inactive-ok-file: CLAIM-617 — Proposed; the claim whose constitutive gloss this would make the right one -->
 
-# CLAIM-1154: In contested open-source successions an outside party's verdict on which line continues the project is given by moving to it: the statement of legitimacy and the move are one act, so the verdict is a participation that makes the succession and not a prior judgement that causes it
+# CLAIM-1154: In forks, a verdict is given by moving
 
 ## The claim
 

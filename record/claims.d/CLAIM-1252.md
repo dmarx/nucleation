@@ -37,7 +37,15 @@ complements:
 - CLAIM-1287
 - CLAIM-1286
 - CLAIM-1249
-title: "To have standing toward an agent is to have claims that can constrain what it is entitled to optimize, not only to enter its objective, so an organizational objective that admits other parties only through their contribution to it excludes their standing whatever it knows of them, and a specialized objective such as shareholder value is legitimate only so far as the outside governance it relies on to supply those constraints is adequate"
+title: 'Standing constrains what an agent may optimize'
+statement: >-
+  To have standing toward an agent is to have claims that can constrain what
+  it is entitled to optimize, not only to enter its objective, so an
+  organizational objective that admits other parties only through their
+  contribution to it excludes their standing whatever it knows of them, and
+  a specialized objective such as shareholder value is legitimate only so
+  far as the outside governance it relies on to supply those constraints is
+  adequate
 summary: >-
   A48 §§1–5 and 14–15 of the exchange "Memes, Contracts, and Systemic
   Normativity" (ChatGPT, 2026-11-24), on the owner's U30 ([CLAIM-1257](CLAIM-1257.md)). A48
@@ -54,7 +62,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1257 CLAIM-739 CLAIM-1287 TERM-179 ARG-243 CLAIM-1169 CLAIM-431 CLAIM-728 LIT-3220 LIT-3253 LIT-3217 LIT-3245 — Proposed or Deferred; the owner's thesis, the neighbours, the argument and the works A48 cites, unread -->
 
-# CLAIM-1252: To have standing toward an agent is to have claims that can constrain what it is entitled to optimize, not only to enter its objective, so an organizational objective that admits other parties only through their contribution to it excludes their standing whatever it knows of them, and a specialized objective such as shareholder value is legitimate only so far as the outside governance it relies on to supply those constraints is adequate
+# CLAIM-1252: Standing constrains what an agent may optimize
 
 ## The claim
 

@@ -13,7 +13,11 @@ promote_when: >-
   it if the pattern across conditions departs from that ideal's. Another
   review restating the logic, or a further fit of a single ideal at one
   stage, cannot settle it: the clause is about the comparison across stages.
-title: 'In early-vision tasks, human performance varies across conditions as the information available at the retinal output does, while falling well below the retinal-stage ideal, so substantial losses lie in central factors'
+title: 'Early vision tracks retinal info, losses central'
+statement: >-
+  In early-vision tasks, human performance varies across conditions as the
+  information available at the retinal output does, while falling well below
+  the retinal-stage ideal, so substantial losses lie in central factors
 version: 1
 tags:
 - cognition
@@ -32,7 +36,7 @@ summary: >-
   Banks, Geisler and Bennett 1987) is read.
 ---
 
-# THEORY-1242: In early-vision tasks, human performance varies across conditions as the information available at the retinal output does, while falling well below the retinal-stage ideal, so substantial losses lie in central factors
+# THEORY-1242: Early vision tracks retinal info, losses central
 
 ## Source
 

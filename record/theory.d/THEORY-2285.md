@@ -10,7 +10,12 @@ promote_when: >-
   no decision above those teams, and records the one human error in its
   timeline without naming who made it. Whether real postmortems look like
   this is not asserted.
-title: 'Google''s example postmortem traces a fictional outage to a latent bug and a traffic surge, assigns every action item to an engineer of the responding teams, names no decision above them, and records a human error in its timeline without naming who made it'
+title: 'Example postmortem stops blame at engineers'
+statement: >-
+  Google's example postmortem traces a fictional outage to a latent bug and
+  a traffic surge, assigns every action item to an engineer of the
+  responding teams, names no decision above them, and records a human error
+  in its timeline without naming who made it
 version: 1
 tags:
 - software-engineering
@@ -30,7 +35,7 @@ summary: >-
   filer's (Claude, in this session); adopting it is the owner's call.
 ---
 
-# THEORY-2285: Google's example postmortem traces a fictional outage to a latent bug and a traffic surge, assigns every action item to an engineer of the responding teams, names no decision above them, and records a human error in its timeline without naming who made it
+# THEORY-2285: Example postmortem stops blame at engineers
 
 Appendix D of *Site Reliability Engineering* (2016), [LIT-3175](../literature.d/LIT-3175.md), read
 in [NOTE-2386](../notes.d/NOTE-2386.md).

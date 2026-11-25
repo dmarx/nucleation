@@ -3,7 +3,16 @@ number: 2196
 status: Proposed
 formerly:
 - THEORY-tmp9t69m
-title: 'Gingrich, Horowitz, Perunov and England prove that for an ergodic Markov jump network with reversible transitions and local detailed balance, in its nonequilibrium steady state, the large-deviation rate function of any current that is a linear combination of edge currents lies below the quadratic (j_d − j^π_d)²Σ^π/(4(j^π_d)²), so current fluctuations are always at least as likely as linear response predicts, and that every such current therefore obeys the thermodynamic uncertainty relation ε²_d Σ^π ≥ 2, tightest for the dissipation current itself and in linear response'
+title: 'Every current obeys the uncertainty relation'
+statement: >-
+  Gingrich, Horowitz, Perunov and England prove that for an ergodic Markov
+  jump network with reversible transitions and local detailed balance, in
+  its nonequilibrium steady state, the large-deviation rate function of any
+  current that is a linear combination of edge currents lies below the
+  quadratic (j_d − j^π_d)²Σ^π/(4(j^π_d)²), so current fluctuations are
+  always at least as likely as linear response predicts, and that every such
+  current therefore obeys the thermodynamic uncertainty relation ε²_d Σ^π ≥
+  2, tightest for the dissipation current itself and in linear response
 promote_when: >-
   The proof in the paper's Derivation section (the level-2.5 rate
   function, the contraction bounded by evaluating at the steady-state
@@ -33,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-3052 — Deferred; Pietzonka, Barato and Seifert, the companion conjecture of the generalized-current bound -->
 
-# THEORY-2196: Gingrich, Horowitz, Perunov and England prove that for an ergodic Markov jump network with reversible transitions and local detailed balance, in its nonequilibrium steady state, the large-deviation rate function of any current that is a linear combination of edge currents lies below the quadratic (j_d − j^π_d)²Σ^π/(4(j^π_d)²), so current fluctuations are always at least as likely as linear response predicts, and that every such current therefore obeys the thermodynamic uncertainty relation ε²_d Σ^π ≥ 2, tightest for the dissipation current itself and in linear response
+# THEORY-2196: Every current obeys the uncertainty relation
 
 ## Source
 

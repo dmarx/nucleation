@@ -3,7 +3,13 @@ number: 1304
 status: Proposed
 formerly:
 - CLAIM-tmpnqzvj
-title: An editorial tag should be an independently authored record linking an editor to a particular version of a claim, result or work with a stated meaning and reason, so that a journal composed of tags can tell a recommendation from a review and must declare what inclusion in its feed means
+title: 'Editorial tags as authored, versioned records'
+statement: >-
+  An editorial tag should be an independently authored record linking an
+  editor to a particular version of a claim, result or work with a stated
+  meaning and reason, so that a journal composed of tags can tell a
+  recommendation from a review and must declare what inclusion in its feed
+  means
 version: 3
 history:
 - version: 2
@@ -52,7 +58,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-1344 CLAIM-1290 — Proposed; the owner's thesis this refines, and the assistant's claim on citing a version -->
 
-# CLAIM-1304: An editorial tag should be an independently authored record linking an editor to a particular version of a claim, result or work with a stated meaning and reason, so that a journal composed of tags can tell a recommendation from a review and must declare what inclusion in its feed means
+# CLAIM-1304: Editorial tags as authored, versioned records
 
 ## The claim
 

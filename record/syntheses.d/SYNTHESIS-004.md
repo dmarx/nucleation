@@ -3,7 +3,14 @@ number: 4
 status: Superseded
 formerly:
 - SYNTHESIS-tmpj2lnj
-title: 'If the record''s hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual''s interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next'
+title: 'Agency and autonomy organize one individuated unit'
+statement: >-
+  If the record's hypotheses held, agency and autonomy would be further
+  organizations of the same individuated unit: the relations deciding which
+  of an individual's interventions become effective would belong to that
+  individual under the criterion that individuates it, and the governance of
+  governability would act on those relations; persistence is transmission,
+  and none of the achievements implies the next
 version: 4
 history:
 - version: 1
@@ -88,7 +95,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-487 CLAIM-545 SYNTHESIS-007 — Proposed or Superseded; parts of the supposed account, cited as held -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; the owner's recasting of selves, cited for what the claim leaves out -->
 
-# SYNTHESIS-004: If the record's hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual's interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next
+# SYNTHESIS-004: Agency and autonomy organize one individuated unit
 
 *Moved from [CLAIM-610](../claims.d/CLAIM-610.md), where its development up to version 2 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 

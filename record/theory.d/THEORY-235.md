@@ -15,7 +15,12 @@ promote_when: >-
   rightly judges did her no harm in how she decided. What cannot settle
   it: more cases of harmful online influence, which bear on outcomes and
   not on the process, or the definition itself, which is stipulated.
-title: "Covert influence that exploits a person's decision-making vulnerabilities harms her autonomy in the process of deciding, by making her opaque to herself, even when it benefits her; so it carries a harm in every case without being wrong in every case"
+title: 'Covert exploitation always harms autonomy'
+statement: >-
+  Covert influence that exploits a person's decision-making vulnerabilities
+  harms her autonomy in the process of deciding, by making her opaque to
+  herself, even when it benefits her; so it carries a harm in every case
+  without being wrong in every case
 version: 1
 tags:
 - ethics
@@ -38,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-040 THEORY-047 — Open or Proposed; the questions and accounts this bears on, named and not leaned on -->
 <!-- inactive-ok-file: CLAIM-016 — Deferred; named as where the authenticity line sits, not leaned on -->
 
-# THEORY-235: Covert influence that exploits a person's decision-making vulnerabilities harms her autonomy in the process of deciding, by making her opaque to herself, even when it benefits her; so it carries a harm in every case without being wrong in every case
+# THEORY-235: Covert exploitation always harms autonomy
 
 ## Source
 

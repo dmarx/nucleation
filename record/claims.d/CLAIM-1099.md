@@ -3,11 +3,13 @@ number: 1099
 status: Active
 formerly:
 - CLAIM-tmpg8yl2
-title: Under a budget set each period to the last period's peak use, a redesigned
-  transition is lost like the original unless its threshold is at most the cost
-  of holding the present configuration, so redesign lowers the reserve a transition
-  needs by the fall in its threshold and replaces the reserve only where it leaves
-  no reconfiguration slack
+title: 'Redesign lowers the reserve, rarely replaces it'
+statement: >-
+  Under a budget set each period to the last period's peak use, a redesigned
+  transition is lost like the original unless its threshold is at most the
+  cost of holding the present configuration, so redesign lowers the reserve
+  a transition needs by the fall in its threshold and replaces the reserve
+  only where it leaves no reconfiguration slack
 version: 2
 history:
 - version: 2
@@ -50,7 +52,7 @@ summary: 'A gap fill on the manuscript governance-of-possibility (A48 §9.3–9.
 ---
 
 
-# CLAIM-1099: Under a budget set each period to the last period's peak use, a redesigned transition is lost like the original unless its threshold is at most the cost of holding the present configuration, so redesign lowers the reserve a transition needs by the fall in its threshold and replaces the reserve only where it leaves no reconfiguration slack
+# CLAIM-1099: Redesign lowers the reserve, rarely replaces it
 
 ## The derivation
 

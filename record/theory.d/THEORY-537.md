@@ -13,7 +13,12 @@ promote_when: >-
   of the study design does. It is weakened if design rank predicts standing
   when the eliminated alternatives are held fixed. The smoking and lung
   cancer case, resolved correctly and read in hindsight, cannot settle it.
-title: "Warrant for a type-level causal claim in biomedical and social science comes from eliminating the relevant alternative accounts of its support, not from the kind of study that produced the data, so a randomised trial earns its standing only by eliminating many alternatives at once"
+title: 'Causal warrant comes from eliminating rivals'
+statement: >-
+  Warrant for a type-level causal claim in biomedical and social science
+  comes from eliminating the relevant alternative accounts of its support,
+  not from the kind of study that produced the data, so a randomised trial
+  earns its standing only by eliminating many alternatives at once
 version: 1
 tags:
 - philosophy-of-science
@@ -33,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-491 THEORY-451 — Proposed; neighbouring accounts of trial evidence, named in Connections -->
 <!-- inactive-ok-file: THEORY-442 — Proposed; the parallel account of values in inquiry, filed in the same batch -->
 
-# THEORY-537: Warrant for a type-level causal claim in biomedical and social science comes from eliminating the relevant alternative accounts of its support, not from the kind of study that produced the data, so a randomised trial earns its standing only by eliminating many alternatives at once
+# THEORY-537: Causal warrant comes from eliminating rivals
 
 ## Source
 

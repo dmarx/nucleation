@@ -3,7 +3,12 @@ number: 1341
 status: Proposed
 formerly:
 - CLAIM-tmpysg95
-title: 'A heuristic can be a compiled contract, a protocol that settles a recurring conflict among processes without renegotiating it, and some biases can be such a protocol still governing where the assumptions that made it adequate no longer hold'
+title: 'A heuristic can be a compiled contract'
+statement: >-
+  A heuristic can be a compiled contract, a protocol that settles a
+  recurring conflict among processes without renegotiating it, and some
+  biases can be such a protocol still governing where the assumptions that
+  made it adequate no longer hold
 version: 1
 role: thesis
 warrant: interpretive
@@ -42,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-358 CLAIM-1239 — Proposed; cited as filed or held beside this entry, whatever its standing -->
 
-# CLAIM-1341: A heuristic can be a compiled contract, a protocol that settles a recurring conflict among processes without renegotiating it, and some biases can be such a protocol still governing where the assumptions that made it adequate no longer hold
+# CLAIM-1341: A heuristic can be a compiled contract
 
 ## The claim
 

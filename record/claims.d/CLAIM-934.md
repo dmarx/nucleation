@@ -3,7 +3,14 @@ number: 934
 status: Proposed
 formerly:
 - CLAIM-tmpphfb4
-title: 'Whether an organization registers a process''s evaluation can be measured without reading how the experimenter set it, as the response of the organization''s record to a randomized perturbation of the evaluation with the other routes into the record held fixed; reading the record passively, for whether it carries the evaluation, misreads a record that carries the evaluation''s cause by another route'
+title: 'Register evaluations by randomized perturbation'
+statement: >-
+  Whether an organization registers a process's evaluation can be measured
+  without reading how the experimenter set it, as the response of the
+  organization's record to a randomized perturbation of the evaluation with
+  the other routes into the record held fixed; reading the record passively,
+  for whether it carries the evaluation, misreads a record that carries the
+  evaluation's cause by another route
 version: 1
 history:
 - version: 1
@@ -51,7 +58,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-355 — new, filed with this claim -->
 
-# CLAIM-934: Whether an organization registers a process's evaluation can be measured without reading how the experimenter set it, as the response of the organization's record to a randomized perturbation of the evaluation with the other routes into the record held fixed; reading the record passively, for whether it carries the evaluation, misreads a record that carries the evaluation's cause by another route
+# CLAIM-934: Register evaluations by randomized perturbation
 
 ## The claim
 

@@ -15,7 +15,14 @@ promote_when: >-
   studies, however clean, cannot settle it: they bear on whether microbes
   can drive affect, which the account grants, not on whether they do in
   people.
-title: "In rodents, gut microbes can drive stress and affect-related behaviour through vagal, immune, endocrine and metabolite routes, and faecal transplant from depressed people partly transfers the phenotype; in people, probiotics have so far shown at most small reductions in subjective stress in healthy volunteers, and strains with strong preclinical records have failed in controlled trials"
+title: 'Gut–stress link strong in rodents, weak in people'
+statement: >-
+  In rodents, gut microbes can drive stress and affect-related behaviour
+  through vagal, immune, endocrine and metabolite routes, and faecal
+  transplant from depressed people partly transfers the phenotype; in
+  people, probiotics have so far shown at most small reductions in
+  subjective stress in healthy volunteers, and strains with strong
+  preclinical records have failed in controlled trials
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -39,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-166 — Proposed; the owner's claim this account grounds -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading named as the bridge, untested -->
 
-# THEORY-560: In rodents, gut microbes can drive stress and affect-related behaviour through vagal, immune, endocrine and metabolite routes, and faecal transplant from depressed people partly transfers the phenotype; in people, probiotics have so far shown at most small reductions in subjective stress in healthy volunteers, and strains with strong preclinical records have failed in controlled trials
+# THEORY-560: Gut–stress link strong in rodents, weak in people
 
 ## Source
 

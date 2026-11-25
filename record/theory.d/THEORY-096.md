@@ -34,7 +34,14 @@ promote_when: >-
   more no-report decoding in prefrontal cortex, which leaves thought about
   the percept in place, and anaesthesia or sleep data, which the review
   itself calls consistent with all four leading theories.
-title: 'Perceptual consciousness is global availability: a content becomes conscious when the activity it drives into a core of long-range hub neurons, prefrontal among them, crosses a threshold and ignites it, so that the network amplifies, sustains and broadcasts that one content to the specialised processors; below threshold it leaves a decaying wave and is not experienced'
+title: 'Consciousness is global neuronal ignition'
+statement: >-
+  Perceptual consciousness is global availability: a content becomes
+  conscious when the activity it drives into a core of long-range hub
+  neurons, prefrontal among them, crosses a threshold and ignites it, so
+  that the network amplifies, sustains and broadcasts that one content to
+  the specialised processors; below threshold it leaves a decaying wave and
+  is not experienced
 version: 1
 tags:
 - consciousness
@@ -69,7 +76,7 @@ answers:
 <!-- inactive-ok-file: THEORY-103 THEORY-098 — Proposed; the rival accounts, declared and explained in prose -->
 <!-- inactive-ok-file: THEORY-094 THEORY-093 THEORY-023 — Proposed; named in prose for their bearing, nothing here rests on them -->
 
-# THEORY-096: Perceptual consciousness is global availability: a content becomes conscious when the activity it drives into a core of long-range hub neurons, prefrontal among them, crosses a threshold and ignites it, so that the network amplifies, sustains and broadcasts that one content to the specialised processors; below threshold it leaves a decaying wave and is not experienced
+# THEORY-096: Consciousness is global neuronal ignition
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 1069
 status: Active
 formerly:
 - THEORY-tmper2kf
-title: 'In a von Neumann measurement the measuring variable''s information about the measured variable grows continuously under the unitary coupling, in Di Biagio and Rovelli''s model as I_{A:B}(t) = sin²(ωt)H_A, so the discontinuity of a quantum measurement lies only in a threshold on when information counts as a fact; with an idealized pure ready state a fact conditional on a pointer value appears at once, which they attribute to the idealization'
+title: 'Measurement information grows continuously'
+statement: >-
+  In a von Neumann measurement the measuring variable's information about
+  the measured variable grows continuously under the unitary coupling, in Di
+  Biagio and Rovelli's model as I_{A:B}(t) = sin²(ωt)H_A, so the
+  discontinuity of a quantum measurement lies only in a threshold on when
+  information counts as a fact; with an idealized pure ready state a fact
+  conditional on a pointer value appears at once, which they attribute to
+  the idealization
 version: 2
 history:
 - version: 2
@@ -34,7 +42,7 @@ bears_on:
 - QUESTION-285
 ---
 
-# THEORY-1069: In a von Neumann measurement the measuring variable's information about the measured variable grows continuously under the unitary coupling, in Di Biagio and Rovelli's model as I_{A:B}(t) = sin²(ωt)H_A, so the discontinuity of a quantum measurement lies only in a threshold on when information counts as a fact; with an idealized pure ready state a fact conditional on a pointer value appears at once, which they attribute to the idealization
+# THEORY-1069: Measurement information grows continuously
 
 ## Source
 

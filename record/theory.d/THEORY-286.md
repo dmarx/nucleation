@@ -17,7 +17,14 @@ promote_when: >-
   ETF more closely than SELI, or if trained logits stay far from a scaling
   of the SEL matrix once training error is zero. More UFM simulations
   cannot settle it, nor can single-seed runs at one weight decay.
-title: 'Under class imbalance the last-layer geometry that unregularized cross-entropy prefers is not the simplex ETF but simplex-encoded-label interpolation: the logits equal the simplex-encoded labels, the classifier and embedding Gram matrices come from that matrix''s SVD, any finite weight decay changes the geometry, and training approaches it more slowly as imbalance grows'
+title: 'Imbalance yields SELI, not simplex ETF'
+statement: >-
+  Under class imbalance the last-layer geometry that unregularized
+  cross-entropy prefers is not the simplex ETF but simplex-encoded-label
+  interpolation: the logits equal the simplex-encoded labels, the classifier
+  and embedding Gram matrices come from that matrix's SVD, any finite weight
+  decay changes the geometry, and training approaches it more slowly as
+  imbalance grows
 version: 2
 history:
 - version: 2
@@ -55,7 +62,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-209 — Proposed; the record's statement of collapse, its account of limiting dynamics, and the MSE account filed beside this one -->
 
-# THEORY-286: Under class imbalance the last-layer geometry that unregularized cross-entropy prefers is not the simplex ETF but simplex-encoded-label interpolation: the logits equal the simplex-encoded labels, the classifier and embedding Gram matrices come from that matrix's SVD, any finite weight decay changes the geometry, and training approaches it more slowly as imbalance grows
+# THEORY-286: Imbalance yields SELI, not simplex ETF
 
 ## Source
 

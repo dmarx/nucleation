@@ -3,7 +3,14 @@ number: 1625
 status: Active
 formerly:
 - THEORY-tmpx1wdw
-title: 'Branand, Mashek and Aron report that in close relationships partners experience each other''s resources, perspectives and identities as partly their own, that the inclusion-of-other-in-self circle scale is validated as a measure of subjective closeness, and that inclusion shows in cognitive signs such as slower self-judgements on traits where the partner differs and self–partner confusions in memory'
+title: 'Partners include each other in the self'
+statement: >-
+  Branand, Mashek and Aron report that in close relationships partners
+  experience each other's resources, perspectives and identities as partly
+  their own, that the inclusion-of-other-in-self circle scale is validated
+  as a measure of subjective closeness, and that inclusion shows in
+  cognitive signs such as slower self-judgements on traits where the partner
+  differs and self–partner confusions in memory
 version: 2
 history:
 - version: 1
@@ -33,7 +40,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1625: Branand, Mashek and Aron report that in close relationships partners experience each other's resources, perspectives and identities as partly their own, that the inclusion-of-other-in-self circle scale is validated as a measure of subjective closeness, and that inclusion shows in cognitive signs such as slower self-judgements on traits where the partner differs and self–partner confusions in memory
+# THEORY-1625: Partners include each other in the self
 
 ## The account
 

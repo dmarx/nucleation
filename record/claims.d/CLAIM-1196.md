@@ -3,7 +3,13 @@ number: 1196
 status: Proposed
 formerly:
 - CLAIM-tmpy4mba
-title: 'A self may be considered as a sloppy mess of connected perspectives: overlapping, partly coordinated and interfering perspectives with no clean boundaries between them and no single executive over them, and since what can separate one perspective from another is relative to the tests that can be afforded, so is the self''s apparent division into them'
+title: 'A self as a sloppy mess of perspectives'
+statement: >-
+  A self may be considered as a sloppy mess of connected perspectives:
+  overlapping, partly coordinated and interfering perspectives with no clean
+  boundaries between them and no single executive over them, and since what
+  can separate one perspective from another is relative to the tests that
+  can be afforded, so is the self's apparent division into them
 version: 1
 history:
 - version: 1
@@ -45,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1174 CLAIM-1044 CLAIM-1175 — new; the alternative reading, the term and A's conjectures, filed in the same batch of 2026-11-22 -->
 <!-- inactive-ok-file: TERM-138 TERM-116 SYNTHESIS-109 CLAIM-355 CLAIM-417 — Proposed; class separation, the observational profile, the budgeted-individuation account, binding without a single owner and the self as perspectives, cited 2026-11-22 -->
 
-# CLAIM-1196: A self may be considered as a sloppy mess of connected perspectives: overlapping, partly coordinated and interfering perspectives with no clean boundaries between them and no single executive over them, and since what can separate one perspective from another is relative to the tests that can be afforded, so is the self's apparent division into them
+# CLAIM-1196: A self as a sloppy mess of perspectives
 
 ## The claim
 

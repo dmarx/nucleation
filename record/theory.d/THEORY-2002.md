@@ -3,7 +3,13 @@ number: 2002
 status: Proposed
 formerly:
 - THEORY-tmp17fdp
-title: 'Neacsu and colleagues argue that, within active inference, structure learning is Bayesian model selection by model evidence over a supplied set of alternative models, done offline by refitting or by Bayesian model reduction or expansion, and that its open problem is not choosing among the alternatives but generating them'
+title: 'Structure learning''s problem is generating models'
+statement: >-
+  Neacsu and colleagues argue that, within active inference, structure
+  learning is Bayesian model selection by model evidence over a supplied set
+  of alternative models, done offline by refitting or by Bayesian model
+  reduction or expansion, and that its open problem is not choosing among
+  the alternatives but generating them
 version: 1
 source:
 - LIT-2835
@@ -34,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: NOTE-2092 — Skimmed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2002: Neacsu and colleagues argue that, within active inference, structure learning is Bayesian model selection by model evidence over a supplied set of alternative models, done offline by refitting or by Bayesian model reduction or expansion, and that its open problem is not choosing among the alternatives but generating them
+# THEORY-2002: Structure learning's problem is generating models
 
 ## The account
 

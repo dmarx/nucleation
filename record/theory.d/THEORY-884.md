@@ -3,7 +3,15 @@ number: 884
 status: Active
 formerly:
 - THEORY-tmp7q3ne
-title: 'A retained state supports exact answers to a declared family of questions after every finite sequence of a declared family of total deterministic revisions exactly when each of its fibres lies within one class of the coarsest revision-invariant refinement of agreement on current answers; that refinement can be strictly finer than what present answers require, and at most K* − K revision sequences, beyond the current answers, are needed to tell its K* classes apart'
+title: 'Exact answers under revision can need finer state'
+statement: >-
+  A retained state supports exact answers to a declared family of questions
+  after every finite sequence of a declared family of total deterministic
+  revisions exactly when each of its fibres lies within one class of the
+  coarsest revision-invariant refinement of agreement on current answers;
+  that refinement can be strictly finer than what present answers require,
+  and at most K* − K revision sequences, beyond the current answers, are
+  needed to tell its K* classes apart
 version: 3
 history:
 - version: 2
@@ -48,7 +56,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; the claims this account bears on, named, not leaned on -->
 
-# THEORY-884: A retained state supports exact answers to a declared family of questions after every finite sequence of a declared family of total deterministic revisions exactly when each of its fibres lies within one class of the coarsest revision-invariant refinement of agreement on current answers; that refinement can be strictly finer than what present answers require, and at most K* − K revision sequences, beyond the current answers, are needed to tell its K* classes apart
+# THEORY-884: Exact answers under revision can need finer state
 
 ## Source
 

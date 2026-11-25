@@ -3,7 +3,17 @@ number: 1121
 status: Active
 formerly:
 - THEORY-tmp0q3yi
-title: 'With the couplings fixed, the square-loss Gromov–Wasserstein barycenter of several similarity matrices is their realigned average weighted by the barycenter weights, and the KL barycenter its weighted geometric average, so PSD and infinitely divisible inputs give barycenters of the same kind; but the barycenter''s size, histogram and weights are chosen beforehand, the couplings are only stationary points of a non-convex problem, and the iteration''s convergence at the step size used is not proved, so a structure carried by one input is shrunk by its weight at best and can be lost or redistributed by those choices'
+title: 'GW barycenters can shrink or lose input structure'
+statement: >-
+  With the couplings fixed, the square-loss Gromov–Wasserstein barycenter of
+  several similarity matrices is their realigned average weighted by the
+  barycenter weights, and the KL barycenter its weighted geometric average,
+  so PSD and infinitely divisible inputs give barycenters of the same kind;
+  but the barycenter's size, histogram and weights are chosen beforehand,
+  the couplings are only stationary points of a non-convex problem, and the
+  iteration's convergence at the step size used is not proved, so a
+  structure carried by one input is shrunk by its weight at best and can be
+  lost or redistributed by those choices
 version: 1
 tags:
 - mathematics
@@ -20,7 +30,7 @@ summary: >-
   erasure.
 ---
 
-# THEORY-1121: With the couplings fixed, the square-loss Gromov–Wasserstein barycenter of several similarity matrices is their realigned average weighted by the barycenter weights, and the KL barycenter its weighted geometric average, so PSD and infinitely divisible inputs give barycenters of the same kind; but the barycenter's size, histogram and weights are chosen beforehand, the couplings are only stationary points of a non-convex problem, and the iteration's convergence at the step size used is not proved, so a structure carried by one input is shrunk by its weight at best and can be lost or redistributed by those choices
+# THEORY-1121: GW barycenters can shrink or lose input structure
 
 ## Source
 

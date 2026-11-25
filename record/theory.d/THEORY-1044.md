@@ -14,7 +14,13 @@ promote_when: >-
   sampler on persistent sequences. More charts in iterations, or visual
   co-segmentation matrices, cannot settle it: that is the evidence it
   rests on now.
-title: 'For the infinite hidden Markov model the beam sampler reaches the posterior in fewer iterations than the single-site Gibbs sampler, and is less sensitive to initialization and hyperpriors, particularly when hidden states persist and emissions are uninformative, at a cost per iteration close to the Gibbs sampler''s'
+title: 'Beam sampler beats Gibbs for the iHMM'
+statement: >-
+  For the infinite hidden Markov model the beam sampler reaches the
+  posterior in fewer iterations than the single-site Gibbs sampler, and is
+  less sensitive to initialization and hyperpriors, particularly when hidden
+  states persist and emissions are uninformative, at a cost per iteration
+  close to the Gibbs sampler's
 version: 1
 history:
 - version: 1
@@ -40,7 +46,7 @@ summary: >-
   it mixes is shown only in iterations and by eye.
 ---
 
-# THEORY-1044: For the infinite hidden Markov model the beam sampler reaches the posterior in fewer iterations than the single-site Gibbs sampler, and is less sensitive to initialization and hyperpriors, particularly when hidden states persist and emissions are uninformative, at a cost per iteration close to the Gibbs sampler's
+# THEORY-1044: Beam sampler beats Gibbs for the iHMM
 
 ## Source
 

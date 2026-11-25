@@ -3,7 +3,12 @@ number: 569
 status: Active
 formerly:
 - CLAIM-tmpancvu
-title: 'A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and costly to acquire, so having enough to sustain it is not having enough to acquire it'
+title: 'Cheap to keep is not cheap to acquire'
+statement: >-
+  A form has at least three resource requirements, to construct it, to
+  maintain it, and to move into or out of it, and none fixes another: a
+  capability can be cheap to keep and costly to acquire, so having enough to
+  sustain it is not having enough to acquire it
 version: 6
 history:
 - version: 2
@@ -98,7 +103,7 @@ complements:
 <!-- inactive-ok-file: CASE-200 CASE-210 CASE-211 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 <!-- inactive-ok-file: TERM-116 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
-# CLAIM-569: A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and costly to acquire, so having enough to sustain it is not having enough to acquire it
+# CLAIM-569: Cheap to keep is not cheap to acquire
 
 ## The claim
 

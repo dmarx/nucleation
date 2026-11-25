@@ -5,7 +5,13 @@ superseded_by:
 - CLAIM-204
 formerly:
 - CLAIM-tmpb0jfe
-title: 'A communicative kind''s identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist'
+title: 'Identity in relations; fidelity as what persists'
+statement: >-
+  A communicative kind's identity is grounded in its relational organization
+  rather than in any expression or encoding; statistical methods recover
+  aspects of that organization from restricted observations, translation
+  transports it, and fidelity is which independently identifiable,
+  decision-relevant relational distinctions persist
 version: 3
 history:
 - version: 2
@@ -89,7 +95,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-151 CLAIM-142 — Proposed; open, and cited as open: the premises are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; the manuscript's thesis, cited as it stood -->
 
-# CLAIM-139: A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist
+# CLAIM-139: Identity in relations; fidelity as what persists
 
 ## The claim
 

@@ -18,7 +18,15 @@ promote_when: >-
   character if that is held to be manifest content. More skeptical
   scenarios with matched inputs cannot settle it, since they assume the
   premise.
-title: 'Learning a generative model of sensory data extracts real patterns in Dennett''s sense, so the manifest image is a structural description of the sensory signal, constrained by its external source but silent on what realizes the structure; two subjects whose sensory streams match, one envatted, therefore have equally veridical manifest images, and what differs between them, the realizers, lies outside what perception can represent'
+title: 'Manifest image is structural; envatted alike'
+statement: >-
+  Learning a generative model of sensory data extracts real patterns in
+  Dennett's sense, so the manifest image is a structural description of the
+  sensory signal, constrained by its external source but silent on what
+  realizes the structure; two subjects whose sensory streams match, one
+  envatted, therefore have equally veridical manifest images, and what
+  differs between them, the realizers, lies outside what perception can
+  represent
 version: 1
 tags:
 - cognition
@@ -38,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-095 THEORY-036 THEORY-872 — Proposed; claims and readings cited as open, nothing here rests on them -->
 
-# THEORY-877: Learning a generative model of sensory data extracts real patterns in Dennett's sense, so the manifest image is a structural description of the sensory signal, constrained by its external source but silent on what realizes the structure; two subjects whose sensory streams match, one envatted, therefore have equally veridical manifest images, and what differs between them, the realizers, lies outside what perception can represent
+# THEORY-877: Manifest image is structural; envatted alike
 
 ## Source
 

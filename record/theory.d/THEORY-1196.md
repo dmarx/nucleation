@@ -3,7 +3,11 @@ number: 1196
 status: Proposed
 formerly:
 - THEORY-tmp1ykjb
-title: During a visual decision task, neurons within a single area of mouse cortex rarely form discrete functional types, yet the task conditions the area distinguishes are linearly separable in nearly every way
+title: 'Typeless neurons still separate nearly all splits'
+statement: >-
+  During a visual decision task, neurons within a single area of mouse
+  cortex rarely form discrete functional types, yet the task conditions the
+  area distinguishes are linearly separable in nearly every way
 version: 1
 tags:
 - neuroscience
@@ -39,7 +43,7 @@ summary: >-
   lenient separability criterion.
 ---
 
-# THEORY-1196: During a visual decision task, neurons within a single area of mouse cortex rarely form discrete functional types, yet the task conditions the area distinguishes are linearly separable in nearly every way
+# THEORY-1196: Typeless neurons still separate nearly all splits
 
 ## Source
 

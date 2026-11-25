@@ -3,7 +3,13 @@ number: 1634
 status: Active
 formerly:
 - THEORY-tmpz2zb6
-title: 'Blackiston, Silva Casey and Weiss report that tobacco hornworm caterpillars conditioned in the last larval instar to avoid an odour still avoided it as moths, that residue on the pupal case does not explain the aversion, and that an aversion learned two instars earlier survived larval molts but not metamorphosis'
+title: 'Caterpillar odour aversion survives metamorphosis'
+statement: >-
+  Blackiston, Silva Casey and Weiss report that tobacco hornworm
+  caterpillars conditioned in the last larval instar to avoid an odour still
+  avoided it as moths, that residue on the pupal case does not explain the
+  aversion, and that an aversion learned two instars earlier survived larval
+  molts but not metamorphosis
 version: 2
 history:
 - version: 1
@@ -38,7 +44,7 @@ bears_on:
 - QUESTION-302
 ---
 
-# THEORY-1634: Blackiston, Silva Casey and Weiss report that tobacco hornworm caterpillars conditioned in the last larval instar to avoid an odour still avoided it as moths, that residue on the pupal case does not explain the aversion, and that an aversion learned two instars earlier survived larval molts but not metamorphosis
+# THEORY-1634: Caterpillar odour aversion survives metamorphosis
 
 ## The account
 

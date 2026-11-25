@@ -13,7 +13,13 @@ promote_when: >-
   statistics with the model cannot settle it, because the account is about
   what the model produces, and a fit of summary statistics does not show
   the geometry is what produced them in a real network.
-title: 'In a random graph whose nodes lie in a hyperbolic disk and connect by distance, a power-law degree distribution and strong clustering follow from the geometry: the degree exponent is set by node density relative to curvature, clustering by a temperature, and removing the angular, metric part of the distance leaves the configuration model'
+title: 'Hyperbolic geometry yields power laws, clustering'
+statement: >-
+  In a random graph whose nodes lie in a hyperbolic disk and connect by
+  distance, a power-law degree distribution and strong clustering follow
+  from the geometry: the degree exponent is set by node density relative to
+  curvature, clustering by a temperature, and removing the angular, metric
+  part of the distance leaves the configuration model
 version: 2
 history:
 - version: 2
@@ -50,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2172 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: LIT-3041 — Deferred; registered and unread -->
 
-# THEORY-188: In a random graph whose nodes lie in a hyperbolic disk and connect by distance, a power-law degree distribution and strong clustering follow from the geometry: the degree exponent is set by node density relative to curvature, clustering by a temperature, and removing the angular, metric part of the distance leaves the configuration model
+# THEORY-188: Hyperbolic geometry yields power laws, clustering
 
 ## Source
 

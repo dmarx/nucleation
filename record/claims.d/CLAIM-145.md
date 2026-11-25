@@ -3,7 +3,10 @@ number: 145
 status: Active
 formerly:
 - CLAIM-tmpgp40l
-title: 'Trope analysis of the kind A155 proposes is Propp''s and Lévi-Strauss''s transformational analysis, whom the manuscript should cite as precursors'
+title: 'Trope analysis is Propp and Lévi-Strauss'
+statement: >-
+  Trope analysis of the kind A155 proposes is Propp's and Lévi-Strauss's
+  transformational analysis, whom the manuscript should cite as precursors
 version: 5
 history:
 - version: 2
@@ -85,7 +88,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-167 — Proposed; cited in the circularity half kept as moved text, for the warning its promote_when carries -->
 <!-- inactive-ok-file: ARG-014 — Rejected; the argument this claim's circularity half moved to -->
 
-# CLAIM-145: Trope analysis of the kind A155 proposes is Propp's and Lévi-Strauss's transformational analysis, whom the manuscript should cite as precursors
+# CLAIM-145: Trope analysis is Propp and Lévi-Strauss
 
 ## The claim
 

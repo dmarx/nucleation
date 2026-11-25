@@ -3,7 +3,14 @@ number: 1318
 status: Active
 formerly:
 - THEORY-tmpbkq7u
-title: 'Among 31 original self-report scales of psychological need fulfillment found by a 2023 systematic search, 21 measure satisfaction only, one measures frustration only and one thwarting only; all are self-reports of experience or of the perceived environment, the field uses satisfaction, frustration, support and thwarting interchangeably in places, and several frustration scales are negatively worded satisfaction items'
+title: 'Most need scales measure satisfaction only'
+statement: >-
+  Among 31 original self-report scales of psychological need fulfillment
+  found by a 2023 systematic search, 21 measure satisfaction only, one
+  measures frustration only and one thwarting only; all are self-reports of
+  experience or of the perceived environment, the field uses satisfaction,
+  frustration, support and thwarting interchangeably in places, and several
+  frustration scales are negatively worded satisfaction items
 version: 1
 tags:
 - psychometrics
@@ -24,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1311 LIT-1954 — Open, Proposed or Unfetched; neighbours cited as open -->
 
-# THEORY-1318: Among 31 original self-report scales of psychological need fulfillment found by a 2023 systematic search, 21 measure satisfaction only, one measures frustration only and one thwarting only; all are self-reports of experience or of the perceived environment, the field uses satisfaction, frustration, support and thwarting interchangeably in places, and several frustration scales are negatively worded satisfaction items
+# THEORY-1318: Most need scales measure satisfaction only
 
 ## Source
 

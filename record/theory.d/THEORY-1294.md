@@ -11,7 +11,15 @@ promote_when: >-
   a system whose causes can be enumerated, that sorts constituents from
   sterile effects and detached parts as the account says. Agreement of the
   account with intuitions about invented examples does not count.
-title: 'Constitution is best inferred, and only abductively, from the failure to break a coupling: a set of parts constitutes a phenomenon when every cause of the phenomenon is also a cause of some member of the set, no smaller set does as much, and no expansion of the variables studied turns up a cause of the phenomenon that spares them all, so constitutive relevance is fixed by the set a part belongs to and no finite series of experiments settles it'
+title: 'Constitution is inferred only abductively'
+statement: >-
+  Constitution is best inferred, and only abductively, from the failure to
+  break a coupling: a set of parts constitutes a phenomenon when every cause
+  of the phenomenon is also a cause of some member of the set, no smaller
+  set does as much, and no expansion of the variables studied turns up a
+  cause of the phenomenon that spares them all, so constitutive relevance is
+  fixed by the set a part belongs to and no finite series of experiments
+  settles it
 version: 1
 tags:
 - philosophy-of-science
@@ -36,7 +44,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-477 — Open or Proposed; cited as open -->
 
-# THEORY-1294: Constitution is best inferred, and only abductively, from the failure to break a coupling: a set of parts constitutes a phenomenon when every cause of the phenomenon is also a cause of some member of the set, no smaller set does as much, and no expansion of the variables studied turns up a cause of the phenomenon that spares them all, so constitutive relevance is fixed by the set a part belongs to and no finite series of experiments settles it
+# THEORY-1294: Constitution is inferred only abductively
 
 ## Source
 

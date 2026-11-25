@@ -13,7 +13,11 @@ promote_when: >-
   interior of the simplex. Whether people probability-match is a separate
   question, and experimental results about it neither promote nor refute
   this.
-title: 'Under Bush–Mosteller learning with negative payoffs, the continuous-time limit is a replicator term in benefits plus a probability-matching term, which alone drives choice probabilities to success probabilities'
+title: 'Bush–Mosteller drives probability matching'
+statement: >-
+  Under Bush–Mosteller learning with negative payoffs, the continuous-time
+  limit is a replicator term in benefits plus a probability-matching term,
+  which alone drives choice probabilities to success probabilities
 version: 1
 tags:
 - game-theory
@@ -30,7 +34,7 @@ summary: >-
   its proof omitted.
 ---
 
-# THEORY-934: Under Bush–Mosteller learning with negative payoffs, the continuous-time limit is a replicator term in benefits plus a probability-matching term, which alone drives choice probabilities to success probabilities
+# THEORY-934: Bush–Mosteller drives probability matching
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 569
 status: Active
 formerly:
 - THEORY-tmpkyq9b
-title: "Measured as the contrast between a set of explanantia's CohOG+ coherence with the explanandum and with its negation, explanatory power satisfies Roche and Sober's Two Likelihood Inequalities for single hypotheses and fails the One, and in one causal chain and one collider it ranks the richer set above the sparser over a range of priors, where no two-place TLI measure can rank a conjunction so"
+title: 'Coherence explanatory power favours richer sets'
+statement: >-
+  Measured as the contrast between a set of explanantia's CohOG+ coherence
+  with the explanandum and with its negation, explanatory power satisfies
+  Roche and Sober's Two Likelihood Inequalities for single hypotheses and
+  fails the One, and in one causal chain and one collider it ranks the
+  richer set above the sparser over a range of priors, where no two-place
+  TLI measure can rank a conjunction so
 version: 1
 tags:
 - philosophy-of-science
@@ -24,7 +31,7 @@ summary: >-
   scientific judgments" is more than the body shows.
 ---
 
-# THEORY-569: Measured as the contrast between a set of explanantia's CohOG+ coherence with the explanandum and with its negation, explanatory power satisfies Roche and Sober's Two Likelihood Inequalities for single hypotheses and fails the One, and in one causal chain and one collider it ranks the richer set above the sparser over a range of priors, where no two-place TLI measure can rank a conjunction so
+# THEORY-569: Coherence explanatory power favours richer sets
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 1116
 status: Proposed
 formerly:
 - CLAIM-tmpj5z7a
-title: 'In the same percept–action loop, if the interventional partition is taken relative to the whole next percept, the cheapest memory that does the task keeps neither partition: it is a strict coarsening of the interventional partition, and the predictive partition contains it only under a fixed action and is disjoint from it under random actions or the agent''s own loop'
+title: 'Cheapest memory keeps neither partition'
+statement: >-
+  In the same percept–action loop, if the interventional partition is taken
+  relative to the whole next percept, the cheapest memory that does the task
+  keeps neither partition: it is a strict coarsening of the interventional
+  partition, and the predictive partition contains it only under a fixed
+  action and is disjoint from it under random actions or the agent's own
+  loop
 version: 1
 role: thesis
 warrant: demonstrated
@@ -42,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-391 CLAIM-1124 — filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1116: In the same percept–action loop, if the interventional partition is taken relative to the whole next percept, the cheapest memory that does the task keeps neither partition: it is a strict coarsening of the interventional partition, and the predictive partition contains it only under a fixed action and is disjoint from it under random actions or the agent's own loop
+# CLAIM-1116: Cheapest memory keeps neither partition
 
 ## The claim
 

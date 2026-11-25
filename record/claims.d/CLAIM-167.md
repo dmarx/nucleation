@@ -3,7 +3,12 @@ number: 167
 status: Proposed
 formerly:
 - CLAIM-tmpl4ha3
-title: 'One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system''s internal architecture, not its membership'
+title: 'One-way drive still makes one system'
+statement: >-
+  One-way drive rightly passes the threshold criterion: a metronome and its
+  musician, or a nerve and its muscle, form one system relative to a target
+  that needs both, and the direction of coupling gives the system's internal
+  architecture, not its membership
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-173 — Rejected by this reply; cited as the objection answered -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the criterion this defends, the entrainment claim it revises and the owner's couple claim, open -->
 
-# CLAIM-167: One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system's internal architecture, not its membership
+# CLAIM-167: One-way drive still makes one system
 
 ## The claim
 

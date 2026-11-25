@@ -3,7 +3,14 @@ number: 649
 status: Active
 formerly:
 - THEORY-tmpv2lo3
-title: "When agents holding uniformly random consistent theories over two or three atomic sentences each average their theories once, bit by bit, with all peers within a Hamming bound of confidence, an individual agent ends up with the inconsistent theory at most 1.81% of the time, but the chance that some agent in the group does reaches 6.4% for two sentences and 16.9% for three"
+title: 'Peer averaging often leaves someone inconsistent'
+statement: >-
+  When agents holding uniformly random consistent theories over two or three
+  atomic sentences each average their theories once, bit by bit, with all
+  peers within a Hamming bound of confidence, an individual agent ends up
+  with the inconsistent theory at most 1.81% of the time, but the chance
+  that some agent in the group does reaches 6.4% for two sentences and 16.9%
+  for three
 version: 2
 history:
 - version: 2
@@ -41,7 +48,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-070 — Unavailable; a continuous-opinion model named for contrast -->
 
-# THEORY-649: When agents holding uniformly random consistent theories over two or three atomic sentences each average their theories once, bit by bit, with all peers within a Hamming bound of confidence, an individual agent ends up with the inconsistent theory at most 1.81% of the time, but the chance that some agent in the group does reaches 6.4% for two sentences and 16.9% for three
+# THEORY-649: Peer averaging often leaves someone inconsistent
 
 ## Source
 

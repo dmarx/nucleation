@@ -3,7 +3,13 @@ number: 466
 status: Active
 formerly:
 - CLAIM-tmpm0bix
-title: 'Lock-in from selectively admitted evidence and lock-in from self-scoring need different remedies: weighting admitted evidence by known, positive admission probabilities undoes the first and leaves the second, so correcting for how evidence was selected is not correcting how it is scored'
+title: 'Selection and self-scoring lock-in need two cures'
+statement: >-
+  Lock-in from selectively admitted evidence and lock-in from self-scoring
+  need different remedies: weighting admitted evidence by known, positive
+  admission probabilities undoes the first and leaves the second, so
+  correcting for how evidence was selected is not correcting how it is
+  scored
 version: 5
 history:
 - version: 2
@@ -74,7 +80,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-758 THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-466: Lock-in from selectively admitted evidence and lock-in from self-scoring need different remedies: weighting admitted evidence by known, positive admission probabilities undoes the first and leaves the second, so correcting for how evidence was selected is not correcting how it is scored
+# CLAIM-466: Selection and self-scoring lock-in need two cures
 
 ## The claim
 

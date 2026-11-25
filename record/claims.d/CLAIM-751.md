@@ -3,7 +3,13 @@ number: 751
 status: Proposed
 formerly:
 - CLAIM-tmpx4kjt
-title: 'The upstream provenance of a failure can be carried without blame: an investigator barred from assigning blame or liability traced the Tempe operator''s distraction to her company''s safety culture and the state''s oversight and addressed its recommendations to them, so blame is one carrier of upstream provenance and not its only source'
+title: 'Provenance can be carried without blame'
+statement: >-
+  The upstream provenance of a failure can be carried without blame: an
+  investigator barred from assigning blame or liability traced the Tempe
+  operator's distraction to her company's safety culture and the state's
+  oversight and addressed its recommendations to them, so blame is one
+  carrier of upstream provenance and not its only source
 version: 3
 history:
 - version: 2
@@ -72,7 +78,7 @@ works:
 <!-- inactive-ok-file: CLAIM-733 CASE-292 TERM-127 — Proposed; filed from the exchange "Assess Depp Heard Abuse" and its readings, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-750 ARG-118 THEORY-1998 — new; filed with this claim -->
 
-# CLAIM-751: The upstream provenance of a failure can be carried without blame: an investigator barred from assigning blame or liability traced the Tempe operator's distraction to her company's safety culture and the state's oversight and addressed its recommendations to them, so blame is one carrier of upstream provenance and not its only source
+# CLAIM-751: Provenance can be carried without blame
 
 ## The claim
 

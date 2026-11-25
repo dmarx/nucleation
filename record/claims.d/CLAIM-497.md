@@ -3,7 +3,13 @@ number: 497
 status: Active
 formerly:
 - CLAIM-tmpxk5cy
-title: "A system's causes are found at the coarsest description whose interventions are unambiguous: a macro description is causally proportionate where it merges only micro states that intervention cannot tell apart, and no coarse-graining carries more causal information than the micro description it supervenes on"
+title: 'Causes sit at the coarsest unambiguous level'
+statement: >-
+  A system's causes are found at the coarsest description whose
+  interventions are unambiguous: a macro description is causally
+  proportionate where it merges only micro states that intervention cannot
+  tell apart, and no coarse-graining carries more causal information than
+  the micro description it supervenes on
 version: 2
 history:
 - version: 1
@@ -74,7 +80,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-787 — Rejected; the account this claim replaces, cited as rejected -->
 
-# CLAIM-497: A system's causes are found at the coarsest description whose interventions are unambiguous: a macro description is causally proportionate where it merges only micro states that intervention cannot tell apart, and no coarse-graining carries more causal information than the micro description it supervenes on
+# CLAIM-497: Causes sit at the coarsest unambiguous level
 
 ## The claim
 

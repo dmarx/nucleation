@@ -3,7 +3,14 @@ number: 1320
 status: Proposed
 formerly:
 - CLAIM-tmpsh3og
-title: 'Lacking direct authority over an institution is not lacking standing with it: an institution can respect the standing and claims of those it affects without giving them authority to change what it does, as effective representative governance does, so legibility without direct authority is a condition for institutional sociopathy and not the thing, which is its claims carrying no weight by any route, as when representation is captured'
+title: 'Standing without authority'
+statement: >-
+  Lacking direct authority over an institution is not lacking standing with
+  it: an institution can respect the standing and claims of those it affects
+  without giving them authority to change what it does, as effective
+  representative governance does, so legibility without direct authority is
+  a condition for institutional sociopathy and not the thing, which is its
+  claims carrying no weight by any route, as when representation is captured
 version: 1
 role: thesis
 warrant: interpretive
@@ -42,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1322 TERM-169 TERM-170 TERM-124 — Proposed or new; the claim objected to and the terms and claims the owner's distinction uses -->
 
-# CLAIM-1320: Lacking direct authority over an institution is not lacking standing with it: an institution can respect the standing and claims of those it affects without giving them authority to change what it does, as effective representative governance does, so legibility without direct authority is a condition for institutional sociopathy and not the thing, which is its claims carrying no weight by any route, as when representation is captured
+# CLAIM-1320: Standing without authority
 
 ## The claim
 

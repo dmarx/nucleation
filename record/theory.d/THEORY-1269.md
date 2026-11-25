@@ -3,7 +3,15 @@ number: 1269
 status: Active
 formerly:
 - THEORY-tmpp515i
-title: 'In overparameterized linear regression, iterated self-training with fresh covariates, noiseless pseudo-labels and minimum-norm students applies a fresh random orthogonal projection to the estimate each round, so noise from the first fit decays geometrically while signal along a direction of variance s decays at the slower rate s/(s + τ); risk is U-shaped under anisotropy and monotone under isotropy, tends to the risk of predicting zero, and every student fits its teacher exactly on its own sample'
+title: 'Iterated self-training tends to predicting zero'
+statement: >-
+  In overparameterized linear regression, iterated self-training with fresh
+  covariates, noiseless pseudo-labels and minimum-norm students applies a
+  fresh random orthogonal projection to the estimate each round, so noise
+  from the first fit decays geometrically while signal along a direction of
+  variance s decays at the slower rate s/(s + τ); risk is U-shaped under
+  anisotropy and monotone under isotropy, tends to the risk of predicting
+  zero, and every student fits its teacher exactly on its own sample
 version: 2
 history:
 - version: 2
@@ -31,7 +39,7 @@ bears_on:
 - QUESTION-361
 ---
 
-# THEORY-1269: In overparameterized linear regression, iterated self-training with fresh covariates, noiseless pseudo-labels and minimum-norm students applies a fresh random orthogonal projection to the estimate each round, so noise from the first fit decays geometrically while signal along a direction of variance s decays at the slower rate s/(s + τ); risk is U-shaped under anisotropy and monotone under isotropy, tends to the risk of predicting zero, and every student fits its teacher exactly on its own sample
+# THEORY-1269: Iterated self-training tends to predicting zero
 
 ## Source
 

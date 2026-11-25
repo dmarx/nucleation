@@ -10,7 +10,15 @@ promote_when: >-
   training time that r > 0 is equivalent to fixed features and kernel
   gradient descent, r = 0 to feature learning, and that μP is unique with
   all r_l = 0 and the readout maximal.
-title: 'Yang and Hu show that in any nontrivial stable abc-parametrization of a wide MLP each layer''s update changes its output by a power of width, so that the network either learns features, when the smallest exponent is zero, or has every feature and feature kernel fixed in the infinite-width limit while its output evolves by kernel gradient descent, and that μP is the unique stable parametrization with every exponent zero and the readout updated and initialized maximally'
+title: 'μP is the unique maximal feature-learning limit'
+statement: >-
+  Yang and Hu show that in any nontrivial stable abc-parametrization of a
+  wide MLP each layer's update changes its output by a power of width, so
+  that the network either learns features, when the smallest exponent is
+  zero, or has every feature and feature kernel fixed in the infinite-width
+  limit while its output evolves by kernel gradient descent, and that μP is
+  the unique stable parametrization with every exponent zero and the readout
+  updated and initialized maximally
 version: 1
 tags:
 - learning-theory
@@ -29,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-212 THEORY-813 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-775 THEORY-2134 THEORY-2135 THEORY-2139 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
-# THEORY-2133: Yang and Hu show that in any nontrivial stable abc-parametrization of a wide MLP each layer's update changes its output by a power of width, so that the network either learns features, when the smallest exponent is zero, or has every feature and feature kernel fixed in the infinite-width limit while its output evolves by kernel gradient descent, and that μP is the unique stable parametrization with every exponent zero and the readout updated and initialized maximally
+# THEORY-2133: μP is the unique maximal feature-learning limit
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1417
 status: Active
 formerly:
 - THEORY-tmppn4nt
-title: 'Zang, Zhao, Misseroni and Paulino show that prestressing Kresling origami cells with controllable springs tunes each cell''s energy barrier and stability continuously, so that reordering the barriers of cells in an assembly makes folding sequences feasible that the unprestressed assembly cannot follow'
+title: 'Prestress tunes Kresling barriers and sequences'
+statement: >-
+  Zang, Zhao, Misseroni and Paulino show that prestressing Kresling origami
+  cells with controllable springs tunes each cell's energy barrier and
+  stability continuously, so that reordering the barriers of cells in an
+  assembly makes folding sequences feasible that the unprestressed assembly
+  cannot follow
 version: 3
 history:
 - version: 2
@@ -50,7 +56,7 @@ corroborates:
 - CLAIM-568
 ---
 
-# THEORY-1417: Zang, Zhao, Misseroni and Paulino show that prestressing Kresling origami cells with controllable springs tunes each cell's energy barrier and stability continuously, so that reordering the barriers of cells in an assembly makes folding sequences feasible that the unprestressed assembly cannot follow
+# THEORY-1417: Prestress tunes Kresling barriers and sequences
 
 ## Source
 

@@ -3,7 +3,11 @@ number: 53
 status: Superseded
 formerly:
 - CLAIM-tmpf2wmc
-title: 'The manuscript argues only that preserving the proposition is insufficient; that it is also unnecessary rests on an argument the exchange gave and the manuscript leaves out'
+title: 'Manuscript omits the unnecessity argument'
+statement: >-
+  The manuscript argues only that preserving the proposition is
+  insufficient; that it is also unnecessary rests on an argument the
+  exchange gave and the manuscript leaves out
 version: 3
 history:
 - version: 2
@@ -41,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-229 — Superseded; moved to arguments the same day, cited as the reply this claim received -->
 <!-- inactive-ok-file: CLAIM-486 — Proposed; the necessity half, cited as the conclusion of the arguments this claim moved to -->
 
-# CLAIM-053: The manuscript argues only that preserving the proposition is insufficient; that it is also unnecessary rests on an argument the exchange gave and the manuscript leaves out
+# CLAIM-053: Manuscript omits the unnecessity argument
 
 ## The claim
 

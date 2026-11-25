@@ -11,7 +11,18 @@ promote_when: >-
   sanctioned by loss of rank or debt slavery, and Mauss's reading of the hau
   is found to match the Maori text, not only Best's abridged translation.
   The modern claims are filed as Mauss's argument and need no further test.
-title: "On Mauss's comparative account, gifts in archaic societies are voluntary in form but obligatory to give, to receive and to return. In Maori law the return is compelled by the hau of the thing given, which seeks its origin through every holder. In the Northwest-coast potlatch a gift accepted without a return, or without a larger one, costs the receiver face, rank and in the limit his freedom (debt slavery). Mauss holds that the same morality survives in modern societies, where an unreturned gift still makes its acceptor inferior and charity wounds. He argues that social insurance is right as a return owed to the worker for labour already given, beside a duty to rely on oneself."
+title: 'Gifts oblige giving, receiving and returning'
+statement: >-
+  On Mauss's comparative account, gifts in archaic societies are voluntary
+  in form but obligatory to give, to receive and to return. In Maori law the
+  return is compelled by the hau of the thing given, which seeks its origin
+  through every holder. In the Northwest-coast potlatch a gift accepted
+  without a return, or without a larger one, costs the receiver face, rank
+  and in the limit his freedom (debt slavery). Mauss holds that the same
+  morality survives in modern societies, where an unreturned gift still
+  makes its acceptor inferior and charity wounds. He argues that social
+  insurance is right as a return owed to the worker for labour already
+  given, beside a duty to rely on oneself.
 version: 1
 tags:
 - social-science
@@ -31,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1658 CLAIM-603 — Proposed or new; cited from the reading of Mauss (1925) as open -->
 
-# THEORY-1475: On Mauss's comparative account, gifts in archaic societies are voluntary in form but obligatory to give, to receive and to return. In Maori law the return is compelled by the hau of the thing given, which seeks its origin through every holder. In the Northwest-coast potlatch a gift accepted without a return, or without a larger one, costs the receiver face, rank and in the limit his freedom (debt slavery). Mauss holds that the same morality survives in modern societies, where an unreturned gift still makes its acceptor inferior and charity wounds. He argues that social insurance is right as a return owed to the worker for labour already given, beside a duty to rely on oneself.
+# THEORY-1475: Gifts oblige giving, receiving and returning
 
 ## Source
 

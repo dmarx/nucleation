@@ -13,7 +13,12 @@ promote_when: >-
   multi-step chains lose such distinctions more than single steps do and
   less when context is richer. Restatements of Jakobson or Boas, and
   examples chosen to illustrate the thesis, do not count.
-title: 'Languages differ in what their grammar obliges a speaker to convey rather than in what they can convey, so interlingual translation must add some information and leave some unexpressed, and repeated translation can erode a message'
+title: 'Languages differ in what they oblige, not allow'
+statement: >-
+  Languages differ in what their grammar obliges a speaker to convey rather
+  than in what they can convey, so interlingual translation must add some
+  information and leave some unexpressed, and repeated translation can erode
+  a message
 version: 2
 history:
 - version: 2
@@ -48,7 +53,7 @@ corroborates:
 <!-- inactive-ok-file: LIT-791 — Unavailable; filed, not read, named as later work on the same question -->
 <!-- inactive-ok-file: LIT-789 — Unavailable; filed, not read, named as later work on the same question -->
 
-# THEORY-170: Languages differ in what their grammar obliges a speaker to convey rather than in what they can convey, so interlingual translation must add some information and leave some unexpressed, and repeated translation can erode a message
+# THEORY-170: Languages differ in what they oblige, not allow
 
 ## Source
 

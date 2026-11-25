@@ -3,7 +3,13 @@ number: 1311
 status: Active
 formerly:
 - CLAIM-tmpqbaic
-title: 'The character of a perspective''s representation detects the transformations it is blind to, not the states it merges: its kernel is the observational invariance subgroup when the projection is equivariant and its image spans, but a projection can merge states no transformation relates while its character shows no blindness at all'
+title: 'Character detects blindness, not merged states'
+statement: >-
+  The character of a perspective's representation detects the
+  transformations it is blind to, not the states it merges: its kernel is
+  the observational invariance subgroup when the projection is equivariant
+  and its image spans, but a projection can merge states no transformation
+  relates while its character shows no blindness at all
 version: 2
 history:
 - version: 2
@@ -49,7 +55,7 @@ summary: >-
 
 <!-- inactive-ok-file: TERM-171 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
-# CLAIM-1311: The character of a perspective's representation detects the transformations it is blind to, not the states it merges: its kernel is the observational invariance subgroup when the projection is equivariant and its image spans, but a projection can merge states no transformation relates while its character shows no blindness at all
+# CLAIM-1311: Character detects blindness, not merged states
 
 ## The gap
 

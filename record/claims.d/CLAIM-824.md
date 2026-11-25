@@ -3,7 +3,13 @@ number: 824
 status: Proposed
 formerly:
 - CLAIM-tmpiervv
-title: 'Multiplicative growth with independent, identically distributed returns gives a lognormal cross-section, not a power law, but the same growth with an additive floor gives a stationary power-law tail whose exponent κ solves E[A^κ] = 1, a condition that requires the process to contract on average in logarithm'
+title: 'Growth with a floor gives a power-law tail'
+statement: >-
+  Multiplicative growth with independent, identically distributed returns
+  gives a lognormal cross-section, not a power law, but the same growth with
+  an additive floor gives a stationary power-law tail whose exponent κ
+  solves E[A^κ] = 1, a condition that requires the process to contract on
+  average in logarithm
 version: 2
 history:
 - version: 2
@@ -66,7 +72,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-3044 — Deferred; Goldie (1991), registered and unread -->
 <!-- inactive-ok-file: CLAIM-830 CLAIM-795 CLAIM-803 THEORY-2150 ARG-140 — Proposed or new; claims filed with this one from the same exchange, and the reading and argument of 2026-11-21 -->
 
-# CLAIM-824: Multiplicative growth with independent, identically distributed returns gives a lognormal cross-section, not a power law, but the same growth with an additive floor gives a stationary power-law tail whose exponent κ solves E[A^κ] = 1, a condition that requires the process to contract on average in logarithm
+# CLAIM-824: Growth with a floor gives a power-law tail
 
 ## The claim (A3 §2)
 

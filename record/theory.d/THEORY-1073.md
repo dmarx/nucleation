@@ -14,7 +14,13 @@ promote_when: >-
   has no effect once accuracy is held fixed would defeat it. Not settled by
   more cases of slow institutions that people follow, which do not separate
   slowness from accuracy.
-title: 'An aggregate variable much slower than the behaviour producing it becomes an environment the components tune to whether or not it summarizes the underlying regularities well, which helps coordination; if it summarizes them poorly the system likely fails in the end, later the larger the separation'
+title: 'Slow aggregates become environments parts tune to'
+statement: >-
+  An aggregate variable much slower than the behaviour producing it becomes
+  an environment the components tune to whether or not it summarizes the
+  underlying regularities well, which helps coordination; if it summarizes
+  them poorly the system likely fails in the end, later the larger the
+  separation
 version: 1
 tags:
 - complex-systems
@@ -31,7 +37,7 @@ summary: >-
   components' tuning to it.
 ---
 
-# THEORY-1073: An aggregate variable much slower than the behaviour producing it becomes an environment the components tune to whether or not it summarizes the underlying regularities well, which helps coordination; if it summarizes them poorly the system likely fails in the end, later the larger the separation
+# THEORY-1073: Slow aggregates become environments parts tune to
 
 ## Source
 

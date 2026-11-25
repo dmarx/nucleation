@@ -3,7 +3,17 @@ number: 446
 status: Proposed
 formerly:
 - CLAIM-tmp8z857
-title: 'Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost'
+title: 'Anxiety may be governance-maintained'
+statement: >-
+  Some persistent anxiety may be governance-maintained rather than
+  belief-maintained: anticipated threat grants defensive processes authority
+  over action, attention and evidence acquisition; under the avoidance that
+  authority selects, the hypotheses that the situation is dangerous and that
+  it is safe predict the same observation, so repeated safety need not
+  correct the threat estimate; relief reinforces the defense without being
+  evidence of danger; and the regime can outlast a corrected belief, its
+  pathology, where present, being defensive authority insensitive to
+  corrective evidence at avoidable cost
 version: 9
 history:
 - version: 2
@@ -152,7 +162,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-3074 LIT-3073 LIT-3077 — new or Deferred; LEAD-047's search of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant beside THEORY-963 (Active), which the reading of Lattimore and Szepesvári proposes supersede it; nothing here rests on it -->
 
-# CLAIM-446: Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost
+# CLAIM-446: Anxiety may be governance-maintained
 
 ## The claim
 

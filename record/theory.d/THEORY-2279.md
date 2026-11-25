@@ -11,7 +11,16 @@ promote_when: >-
   among stable states; that symmetry breaking is a common enabler; and
   that under standard noise assumptions multistable dwell times are
   exponential. The gamma-distribution test is not required.
-title: 'Hancock and colleagues define metastability as a property of a dynamical system, not of data: an attractor landscape with regions that attract in some directions and repel in others, near which trajectories dwell and escape without noise, as against multistability, where noise drives switches between stable states; they find symmetry breaking a common enabler across its routes, from the ghost of a fixed point to cycles of saddles and chaotic itinerancy, and propose that dwell times, exponential for noise-driven multistability, may tell the two apart'
+title: 'Metastability is dynamics, not noise switching'
+statement: >-
+  Hancock and colleagues define metastability as a property of a dynamical
+  system, not of data: an attractor landscape with regions that attract in
+  some directions and repel in others, near which trajectories dwell and
+  escape without noise, as against multistability, where noise drives
+  switches between stable states; they find symmetry breaking a common
+  enabler across its routes, from the ghost of a fixed point to cycles of
+  saddles and chaotic itinerancy, and propose that dwell times, exponential
+  for noise-driven multistability, may tell the two apart
 version: 1
 tags:
 - neuroscience
@@ -34,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2373 — Skimmed; the reading this account comes from -->
 
-# THEORY-2279: Hancock and colleagues define metastability as a property of a dynamical system, not of data: an attractor landscape with regions that attract in some directions and repel in others, near which trajectories dwell and escape without noise, as against multistability, where noise drives switches between stable states; they find symmetry breaking a common enabler across its routes, from the ghost of a fixed point to cycles of saddles and chaotic itinerancy, and propose that dwell times, exponential for noise-driven multistability, may tell the two apart
+# THEORY-2279: Metastability is dynamics, not noise switching
 
 ## Source
 

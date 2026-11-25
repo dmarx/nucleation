@@ -9,7 +9,16 @@ promote_when: >-
   most token positions at near-zero divergence and intervention at under
   about 10% of tokens moving accuracy most of the way from one model's
   level to the other's in both directions.
-title: 'Meng and colleagues find that RLVR fine-tuning of Qwen2.5-32B leaves most next-token distributions nearly unchanged, over 83% of positions at near-zero Jensen–Shannon divergence under DAPO and over 98% under SimpleRL, and that sampling the RL model''s token only at the highest-divergence positions, a few percent of tokens, raises the base model to RL-level accuracy on AIME while sampling the base model''s token there drops the RL model to base level, RLVR rarely promoting tokens the base model found unlikely'
+title: 'RLVR acts through a few high-divergence tokens'
+statement: >-
+  Meng and colleagues find that RLVR fine-tuning of Qwen2.5-32B leaves most
+  next-token distributions nearly unchanged, over 83% of positions at
+  near-zero Jensen–Shannon divergence under DAPO and over 98% under
+  SimpleRL, and that sampling the RL model's token only at the
+  highest-divergence positions, a few percent of tokens, raises the base
+  model to RL-level accuracy on AIME while sampling the base model's token
+  there drops the RL model to base level, RLVR rarely promoting tokens the
+  base model found unlikely
 version: 1
 tags:
 - learning-theory
@@ -32,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1880 — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: CLAIM-576 — Proposed; the claim this account bears on indirectly -->
 
-# THEORY-1899: Meng and colleagues find that RLVR fine-tuning of Qwen2.5-32B leaves most next-token distributions nearly unchanged, over 83% of positions at near-zero Jensen–Shannon divergence under DAPO and over 98% under SimpleRL, and that sampling the RL model's token only at the highest-divergence positions, a few percent of tokens, raises the base model to RL-level accuracy on AIME while sampling the base model's token there drops the RL model to base level, RLVR rarely promoting tokens the base model found unlikely
+# THEORY-1899: RLVR acts through a few high-divergence tokens
 
 ## The result
 

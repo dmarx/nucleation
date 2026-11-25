@@ -3,13 +3,16 @@ number: 1151
 status: Proposed
 formerly:
 - CLAIM-tmppmx4w
-title: 'Physics is better read as a quotient of mathematics with a coordination
+title: 'Physics as a quotient of mathematics'
+statement: >-
+  Physics is better read as a quotient of mathematics with a coordination
   than as a subset of it: mathematically distinct models that no observation
-  can tell apart are one physical situation, so physical content is what survives
-  identification up to the symmetries observation cannot break; the same mathematics
-  describes different physics until definitions coordinate it with phenomena,
-  and those definitions are not mathematics; and what can be observed is relative
-  to the channels available, so the quotient moves as instruments do'
+  can tell apart are one physical situation, so physical content is what
+  survives identification up to the symmetries observation cannot break; the
+  same mathematics describes different physics until definitions coordinate
+  it with phenomena, and those definitions are not mathematics; and what can
+  be observed is relative to the channels available, so the quotient moves
+  as instruments do
 version: 1
 role: counter
 warrant: interpretive
@@ -46,7 +49,7 @@ summary: 'The assistant''s refinement of the owner''s thesis that physics
 
 <!-- inactive-ok-file: CLAIM-1143 — Proposed; cited in this filing of 2026-11-23 -->
 
-# CLAIM-1151: Physics is better read as a quotient of mathematics with a coordination than as a subset of it: mathematically distinct models that no observation can tell apart are one physical situation, so physical content is what survives identification up to the symmetries observation cannot break; the same mathematics describes different physics until definitions coordinate it with phenomena, and those definitions are not mathematics; and what can be observed is relative to the channels available, so the quotient moves as instruments do
+# CLAIM-1151: Physics as a quotient of mathematics
 
 ## Three amendments
 

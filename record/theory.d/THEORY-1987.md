@@ -10,7 +10,13 @@ promote_when: >-
   standing and the agent's opportunity to avoid sanction, and that
   neither notion extends to the other face. Whether the view is true is
   not asked.
-title: 'King holds that responsibility as attributability carries desert as fittingness and responsibility as accountability carries desert as fairness, which depends also on the blamer''s standing and the agent''s opportunity to avoid sanction, and that neither notion of desert extends to the other face'
+title: 'Attributability and accountability deserts differ'
+statement: >-
+  King holds that responsibility as attributability carries desert as
+  fittingness and responsibility as accountability carries desert as
+  fairness, which depends also on the blamer's standing and the agent's
+  opportunity to avoid sanction, and that neither notion of desert extends
+  to the other face
 version: 1
 tags:
 - ethics
@@ -31,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2718 — Unavailable; the work this stands in for -->
 <!-- inactive-ok-file: QUESTION-068 — new or Deferred; the reading and the question it bears on -->
 
-# THEORY-1987: King holds that responsibility as attributability carries desert as fittingness and responsibility as accountability carries desert as fairness, which depends also on the blamer's standing and the agent's opportunity to avoid sanction, and that neither notion of desert extends to the other face
+# THEORY-1987: Attributability and accountability deserts differ
 
 King (2013), [LIT-2770](../literature.d/LIT-2770.md), after Watson (1996), [LIT-2718](../literature.d/LIT-2718.md).
 

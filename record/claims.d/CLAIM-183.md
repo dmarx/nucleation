@@ -3,7 +3,11 @@ number: 183
 status: Proposed
 formerly:
 - CLAIM-tmpors2p
-title: 'Generated views of the record, fed back into the exchange, become instruments of the argument: they show where its terms evolved faster than its formalism'
+title: 'Generated views become argument instruments'
+statement: >-
+  Generated views of the record, fed back into the exchange, become
+  instruments of the argument: they show where its terms evolved faster than
+  its formalism
 version: 4
 history:
 - version: 2
@@ -57,7 +61,7 @@ complements:
 <!-- inactive-ok-file: THEORY-137 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: TERM-002 — Superseded; cited as the history of a thesis or term, whose change is the point -->
 
-# CLAIM-183: Generated views of the record, fed back into the exchange, become instruments of the argument: they show where its terms evolved faster than its formalism
+# CLAIM-183: Generated views become argument instruments
 
 ## The claim
 

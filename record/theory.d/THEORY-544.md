@@ -3,7 +3,14 @@ number: 544
 status: Active
 formerly:
 - THEORY-tmpi29l7
-title: "In homotopy type theory extended with a strict directed interval and a layer of shapes, one contractibility condition, the Segal condition, gives a type identities, associativity and three-dimensional coherence, makes every function between Segal types a functor, and yields a dependent Yoneda lemma for covariant families; that such types are (∞,1)-categories rests on a semantics only sketched"
+title: 'Segal condition makes types category-like'
+statement: >-
+  In homotopy type theory extended with a strict directed interval and a
+  layer of shapes, one contractibility condition, the Segal condition, gives
+  a type identities, associativity and three-dimensional coherence, makes
+  every function between Segal types a functor, and yields a dependent
+  Yoneda lemma for covariant families; that such types are (∞,1)-categories
+  rests on a semantics only sketched
 version: 1
 tags:
 - mathematics
@@ -23,7 +30,7 @@ summary: >-
   all dimensions is conjectured, not proved.
 ---
 
-# THEORY-544: In homotopy type theory extended with a strict directed interval and a layer of shapes, one contractibility condition, the Segal condition, gives a type identities, associativity and three-dimensional coherence, makes every function between Segal types a functor, and yields a dependent Yoneda lemma for covariant families; that such types are (∞,1)-categories rests on a semantics only sketched
+# THEORY-544: Segal condition makes types category-like
 
 ## Source
 

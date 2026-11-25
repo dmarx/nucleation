@@ -3,7 +3,14 @@ number: 1054
 status: Proposed
 formerly:
 - CLAIM-tmp9o6yv
-title: 'Repeated questioning from a routine family can set a query-induced capability trap: of two ecosystems equivalent under the routine queries, the one that optimized away capacities only an unasked query needs is rewarded, its success confirms the questioner''s belief that the routine family suffices, and the two strategies co-adapt to exclude the distinction that would reveal the lost capacity'
+title: 'Routine queries can set a capability trap'
+statement: >-
+  Repeated questioning from a routine family can set a query-induced
+  capability trap: of two ecosystems equivalent under the routine queries,
+  the one that optimized away capacities only an unasked query needs is
+  rewarded, its success confirms the questioner's belief that the routine
+  family suffices, and the two strategies co-adapt to exclude the
+  distinction that would reveal the lost capacity
 version: 1
 role: thesis
 warrant: interpretive
@@ -41,7 +48,7 @@ summary: >-
 
 <!-- inactive-ok-file: TERM-164 — Proposed; the claim this complements, the lock-in it extends and the experiment it restates -->
 
-# CLAIM-1054: Repeated questioning from a routine family can set a query-induced capability trap: of two ecosystems equivalent under the routine queries, the one that optimized away capacities only an unasked query needs is rewarded, its success confirms the questioner's belief that the routine family suffices, and the two strategies co-adapt to exclude the distinction that would reveal the lost capacity
+# CLAIM-1054: Routine queries can set a capability trap
 
 ## The claim
 

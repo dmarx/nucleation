@@ -3,7 +3,10 @@ number: 3
 status: Proposed
 formerly:
 - CLAIM-tmp0r2x7
-title: 'A global workspace need not give every subsystem the same access: access is compartmented in brains as in organizations, so "global" overstates it'
+title: 'Global workspace access is compartmented'
+statement: >-
+  A global workspace need not give every subsystem the same access: access
+  is compartmented in brains as in organizations, so "global" overstates it
 version: 3
 history:
 - version: 2
@@ -45,7 +48,7 @@ answers:
 ---
 <!-- inactive-ok-file: LIT-3091 THEORY-2229 ARG-202 — Proposed or Unfetched; the reading, registration and argument of LEAD-112, cited in the note of 2026-11-22 -->
 
-# CLAIM-003: A global workspace need not give every subsystem the same access: access is compartmented in brains as in organizations, so "global" overstates it
+# CLAIM-003: Global workspace access is compartmented
 
 ## The claim
 

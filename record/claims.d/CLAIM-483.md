@@ -3,7 +3,12 @@ number: 483
 status: Proposed
 formerly:
 - CLAIM-tmpuhp12
-title: 'An argument developed with collaborators who keep no memory fails mainly at identity and not at structure, so that coding what recurs, not argument mapping, is the remedy, and this holds beyond one owner and one assistant family'
+title: 'Memoryless collaboration fails at identity'
+statement: >-
+  An argument developed with collaborators who keep no memory fails mainly
+  at identity and not at structure, so that coding what recurs, not argument
+  mapping, is the remedy, and this holds beyond one owner and one assistant
+  family
 version: 1
 role: thesis
 warrant: empirical
@@ -39,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-176 — Proposed; the dependent whose "exactly" leans on this half -->
 <!-- inactive-ok-file: CASE-252 CASE-253 CASE-254 CASE-255 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 
-# CLAIM-483: An argument developed with collaborators who keep no memory fails mainly at identity and not at structure, so that coding what recurs, not argument mapping, is the remedy, and this holds beyond one owner and one assistant family
+# CLAIM-483: Memoryless collaboration fails at identity
 
 ## The claim
 

@@ -3,7 +3,12 @@ number: 350
 status: Active
 formerly:
 - CLAIM-tmpa1kmr
-title: 'A coarse-graining preserves a deterministic judgment exactly when the judgment is constant on its fibres: the judgment then factors through the coarse description, uniquely on its image, and otherwise two states the judgment tells apart have been merged'
+title: 'Judgment preserved iff constant on fibres'
+statement: >-
+  A coarse-graining preserves a deterministic judgment exactly when the
+  judgment is constant on its fibres: the judgment then factors through the
+  coarse description, uniquely on its image, and otherwise two states the
+  judgment tells apart have been merged
 version: 3
 history:
 - version: 2
@@ -49,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-127 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
-# CLAIM-350: A coarse-graining preserves a deterministic judgment exactly when the judgment is constant on its fibres: the judgment then factors through the coarse description, uniquely on its image, and otherwise two states the judgment tells apart have been merged
+# CLAIM-350: Judgment preserved iff constant on fibres
 
 ## The claim
 

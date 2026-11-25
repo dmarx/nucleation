@@ -23,7 +23,13 @@ promote_when: >-
   a cell or a society, since placement is what is in question;
   re-derivations of Lemma 2.1 of LIT-526, which both critiques grant; or
   the observation that blankets nest.
-title: 'A Markov blanket, in any formulation including sparse coupling at nonequilibrium steady state and time-varying blanket states, does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces'
+title: 'No Markov blanket formulation individuates'
+statement: >-
+  A Markov blanket, in any formulation including sparse coupling at
+  nonequilibrium steady state and time-varying blanket states, does not
+  individuate a system: where it falls is fixed by modelling choices made
+  before it is found, so it presupposes the boundary it is used to find, and
+  it cannot represent a boundary the system produces
 version: 1
 tags:
 - individuation
@@ -48,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded; cited for its version 4 ruling, which ADR-057 keeps -->
 
-# THEORY-1097: A Markov blanket, in any formulation including sparse coupling at nonequilibrium steady state and time-varying blanket states, does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces
+# THEORY-1097: No Markov blanket formulation individuates
 
 ## Source
 

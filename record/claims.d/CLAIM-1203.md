@@ -3,7 +3,13 @@ number: 1203
 status: Active
 formerly:
 - CLAIM-tmpzbytm
-title: "In the sequential model of inquiry depth the best depth never falls as the deadline lengthens when execution readiness is log-concave in the time left, but when execution takes either a fast or a slow route a longer deadline can make a much shallower inquiry best, because the time it saves buys the slow route"
+title: 'A longer deadline can favour shallower inquiry'
+statement: >-
+  In the sequential model of inquiry depth the best depth never falls as the
+  deadline lengthens when execution readiness is log-concave in the time
+  left, but when execution takes either a fast or a slow route a longer
+  deadline can make a much shallower inquiry best, because the time it saves
+  buys the slow route
 version: 2
 role: thesis
 warrant: demonstrated
@@ -48,7 +54,7 @@ history:
     nothing meets its defeated_if.
 ---
 
-# CLAIM-1203: In the sequential model of inquiry depth the best depth never falls as the deadline lengthens when execution readiness is log-concave in the time left, but when execution takes either a fast or a slow route a longer deadline can make a much shallower inquiry best, because the time it saves buys the slow route
+# CLAIM-1203: A longer deadline can favour shallower inquiry
 
 ## The gap
 

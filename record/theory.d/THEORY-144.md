@@ -11,7 +11,13 @@ promote_when: >-
   without detection. The account is weakened if margins in comparable
   organizations stay stable under such pressure. Further reconstructions of
   accidents cannot settle it, since they select the cases that drifted.
-title: 'Under steady cost and effort pressure, an organization''s activity migrates toward the boundary of acceptable performance, and redundant defences erode unobserved because a breach of one shows no effect, so that major accidents arise from many locally reasonable decisions rather than from coincident errors'
+title: 'Drift to the boundary causes major accidents'
+statement: >-
+  Under steady cost and effort pressure, an organization's activity migrates
+  toward the boundary of acceptable performance, and redundant defences
+  erode unobserved because a breach of one shows no effect, so that major
+  accidents arise from many locally reasonable decisions rather than from
+  coincident errors
 version: 1
 tags:
 - society-and-governance
@@ -32,7 +38,7 @@ corroborates:
 - CLAIM-030
 ---
 
-# THEORY-144: Under steady cost and effort pressure, an organization's activity migrates toward the boundary of acceptable performance, and redundant defences erode unobserved because a breach of one shows no effect, so that major accidents arise from many locally reasonable decisions rather than from coincident errors
+# THEORY-144: Drift to the boundary causes major accidents
 
 ## Source
 

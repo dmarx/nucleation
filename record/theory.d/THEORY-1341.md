@@ -3,7 +3,15 @@ number: 1341
 status: Active
 formerly:
 - THEORY-tmptunid
-title: 'In Jennings''s hybrid account, attention is prioritization of processing by a subject that is the whole collection of an organism''s fixed, formed and fluid interests, separated from filtering by whether selection answers to that collection, marked by feedback from dorsolateral prefrontal cortex; when interests are equally weighted, attention breaks the stalemate and updates the chosen option''s value, so that a fluid interest becomes a formed one'
+title: 'Attention is prioritizing by one''s interests'
+statement: >-
+  In Jennings's hybrid account, attention is prioritization of processing by
+  a subject that is the whole collection of an organism's fixed, formed and
+  fluid interests, separated from filtering by whether selection answers to
+  that collection, marked by feedback from dorsolateral prefrontal cortex;
+  when interests are equally weighted, attention breaks the stalemate and
+  updates the chosen option's value, so that a fluid interest becomes a
+  formed one
 version: 2
 history:
 - version: 2
@@ -46,7 +54,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1326 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: THEORY-1314 — Proposed; the paper's metaphysical half -->
 
-# THEORY-1341: In Jennings's hybrid account, attention is prioritization of processing by a subject that is the whole collection of an organism's fixed, formed and fluid interests, separated from filtering by whether selection answers to that collection, marked by feedback from dorsolateral prefrontal cortex; when interests are equally weighted, attention breaks the stalemate and updates the chosen option's value, so that a fluid interest becomes a formed one
+# THEORY-1341: Attention is prioritizing by one's interests
 
 ## Source
 

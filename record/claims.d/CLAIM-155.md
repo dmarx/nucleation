@@ -3,7 +3,12 @@ number: 155
 status: Proposed
 formerly:
 - CLAIM-tmp4g4je
-title: 'Willed agency is a kind between agency and selfhood: a control system whose behaviour is governed by a will-organization over several regimes is more than an agent and closer to a self, in the self-governing sense, without thereby being a subject'
+title: 'Willed agency between agency and selfhood'
+statement: >-
+  Willed agency is a kind between agency and selfhood: a control system
+  whose behaviour is governed by a will-organization over several regimes is
+  more than an agent and closer to a self, in the self-governing sense,
+  without thereby being a subject
 version: 1
 role: thesis
 warrant: interpretive
@@ -40,7 +45,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-010 — Rejected; the permissiveness objection, cited as answered here on its merits rather than set aside -->
 <!-- inactive-ok-file: CLAIM-170 CLAIM-174 — Proposed; the owner's thesis this narrows, the admission test and the drive claim, open -->
 
-# CLAIM-155: Willed agency is a kind between agency and selfhood: a control system whose behaviour is governed by a will-organization over several regimes is more than an agent and closer to a self, in the self-governing sense, without thereby being a subject
+# CLAIM-155: Willed agency between agency and selfhood
 
 ## The claim
 

@@ -3,7 +3,12 @@ number: 881
 status: Proposed
 formerly:
 - CLAIM-tmpj6pb6
-title: 'The record''s later corrections of its single-work readings, in a pilot of four, fixed accuracy by reading beyond the source rather than restoring what the source contained, so a source-only accounting cannot be scored against them'
+title: 'Corrections read beyond the source'
+statement: >-
+  The record's later corrections of its single-work readings, in a pilot of
+  four, fixed accuracy by reading beyond the source rather than restoring
+  what the source contained, so a source-only accounting cannot be scored
+  against them
 version: 1
 history:
 - version: 1
@@ -48,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-318 CASE-251 THEORY-210 — new or Proposed; the pilot this claim rests on, the study it bears on, and a reading a correction revised -->
 
-# CLAIM-881: The record's later corrections of its single-work readings, in a pilot of four, fixed accuracy by reading beyond the source rather than restoring what the source contained, so a source-only accounting cannot be scored against them
+# CLAIM-881: Corrections read beyond the source
 
 ## The claim
 

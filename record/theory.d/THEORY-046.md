@@ -3,7 +3,10 @@ number: 46
 status: Active
 formerly:
 - THEORY-tmp4rbva
-title: 'Expected tangible rewards for merely engaging in an interesting task lower later free-choice engagement with it'
+title: 'Expected engagement rewards lower later interest'
+statement: >-
+  Expected tangible rewards for merely engaging in an interesting task lower
+  later free-choice engagement with it
 version: 2
 history:
 - version: 2
@@ -44,7 +47,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-556 — Unavailable: Cameron & Pierce (1994) is unread; described from the two meta-analyses that report it -->
 <!-- inactive-ok-file: LIT-545 THEORY-049 THEORY-154 — Proposed or Unavailable; named as neighbours, nothing here rests on them -->
 
-# THEORY-046: Expected tangible rewards for merely engaging in an interesting task lower later free-choice engagement with it
+# THEORY-046: Expected engagement rewards lower later interest
 
 ## Source
 

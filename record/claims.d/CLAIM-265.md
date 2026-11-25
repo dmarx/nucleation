@@ -3,10 +3,13 @@ number: 265
 status: Active
 formerly:
 - CLAIM-tmpavkxk
-title: 'Local descriptions that disagree are not thereby incompatible: whether
-  they obstruct a joint description is decided only relative to a specified class
-  of admissible correspondences between their observations, and a correspondence
-  admitted only because it removes the disagreement decides nothing'
+title: 'Ad hoc correspondences decide nothing'
+statement: >-
+  Local descriptions that disagree are not thereby incompatible: whether
+  they obstruct a joint description is decided only relative to a specified
+  class of admissible correspondences between their observations, and a
+  correspondence admitted only because it removes the disagreement decides
+  nothing
 version: 3
 history:
 - version: 1
@@ -62,7 +65,7 @@ summary: The general content of [CLAIM-143](CLAIM-143.md), filed alone under [AD
 ---
 <!-- inactive-ok-file: CLAIM-004 — Proposed; cited for what each holds or applies, open, not settled -->
 
-# CLAIM-265: Local descriptions that disagree are not thereby incompatible: whether they obstruct a joint description is decided only relative to a specified class of admissible correspondences between their observations, and a correspondence admitted only because it removes the disagreement decides nothing
+# CLAIM-265: Ad hoc correspondences decide nothing
 
 ## The claim
 

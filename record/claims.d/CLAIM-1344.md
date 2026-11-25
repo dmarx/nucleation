@@ -3,7 +3,12 @@ number: 1344
 status: Proposed
 formerly:
 - CLAIM-tmpzsuh2
-title: A journal can be a feed over editors, its editors being taggers who attach attributable judgements to work wherever it is published, as Bluesky's labellers attach labels to posts they do not host, so that editorial judgement is separated from publication
+title: 'A journal can be a feed over editors'
+statement: >-
+  A journal can be a feed over editors, its editors being taggers who attach
+  attributable judgements to work wherever it is published, as Bluesky's
+  labellers attach labels to posts they do not host, so that editorial
+  judgement is separated from publication
 version: 3
 history:
 - version: 2
@@ -51,7 +56,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-1304 CLAIM-1321 CLAIM-1330 — Proposed; the owner's feed and hyperarticle, A's refinement, the assistant's gap fill, and the owner's U6 -->
 
-# CLAIM-1344: A journal can be a feed over editors, its editors being taggers who attach attributable judgements to work wherever it is published, as Bluesky's labellers attach labels to posts they do not host, so that editorial judgement is separated from publication
+# CLAIM-1344: A journal can be a feed over editors
 
 ## The claim
 

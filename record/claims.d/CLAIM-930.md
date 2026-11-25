@@ -3,7 +3,16 @@ number: 930
 status: Proposed
 formerly:
 - CLAIM-tmp0h57p
-title: 'In a small two-layer ReLU network trained from small initial weights on a tree whose levels carry independently set strengths, the levels are acquired in the same direction as in a deep linear network, by input strength times target strength, but with the spread of acquisition times compressed to about four-tenths of its exponent, so that many strength profiles a deep linear network separates are acquired together; in NTK parametrization the target strengths stop mattering between width 256 and 1024'
+title: 'ReLU nets compress tree-level acquisition times'
+statement: >-
+  In a small two-layer ReLU network trained from small initial weights on a
+  tree whose levels carry independently set strengths, the levels are
+  acquired in the same direction as in a deep linear network, by input
+  strength times target strength, but with the spread of acquisition times
+  compressed to about four-tenths of its exponent, so that many strength
+  profiles a deep linear network separates are acquired together; in NTK
+  parametrization the target strengths stop mattering between width 256 and
+  1024
 version: 1
 history:
 - version: 1
@@ -54,7 +63,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-351 CLAIM-929 — new; the study and the demonstrated claim of LEAD-052, filed 2026-11-22 -->
 
-# CLAIM-930: In a small two-layer ReLU network trained from small initial weights on a tree whose levels carry independently set strengths, the levels are acquired in the same direction as in a deep linear network, by input strength times target strength, but with the spread of acquisition times compressed to about four-tenths of its exponent, so that many strength profiles a deep linear network separates are acquired together; in NTK parametrization the target strengths stop mattering between width 256 and 1024
+# CLAIM-930: ReLU nets compress tree-level acquisition times
 
 ## The claim
 

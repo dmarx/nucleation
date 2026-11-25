@@ -3,7 +3,11 @@ number: 189
 status: Proposed
 formerly:
 - CLAIM-tmpkkx3m
-title: 'Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation'
+title: 'Arguments need traceability, not fidelity'
+statement: >-
+  Fidelity is the wrong measure of a developing argument: maturing drops and
+  changes things legitimately, so what a record can secure is traceability,
+  change that is announced and located, not preservation
 version: 3
 history:
 - version: 2
@@ -52,7 +56,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-250 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-034 CLAIM-178 CLAIM-191 — Proposed; open, and cited as open: under test, not settled -->
 
-# CLAIM-189: Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation
+# CLAIM-189: Arguments need traceability, not fidelity
 
 ## The claim
 

@@ -13,7 +13,12 @@ promote_when: >-
   pairs, chosen in advance and outside the conditions known to break it
   (information inserted between the questions), whose q values depart from
   zero.
-title: 'Question-order effects in surveys generally leave the probability of giving the same answer to both questions unchanged, the QQ equality that a projection model of judgment predicts, as Wang, Solloway, Shiffrin and Busemeyer propose'
+title: 'Question-order effects obey the QQ equality'
+statement: >-
+  Question-order effects in surveys generally leave the probability of
+  giving the same answer to both questions unchanged, the QQ equality that a
+  projection model of judgment predicts, as Wang, Solloway, Shiffrin and
+  Busemeyer propose
 version: 1
 tags:
 - cognition
@@ -34,7 +39,7 @@ summary: >-
   itself favour quantum probability.
 ---
 
-# THEORY-796: Question-order effects in surveys generally leave the probability of giving the same answer to both questions unchanged, the QQ equality that a projection model of judgment predicts, as Wang, Solloway, Shiffrin and Busemeyer propose
+# THEORY-796: Question-order effects obey the QQ equality
 
 ## Source
 

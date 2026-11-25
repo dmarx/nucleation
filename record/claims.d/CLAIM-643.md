@@ -3,7 +3,15 @@ number: 643
 status: Proposed
 formerly:
 - CLAIM-tmpz45xi
-title: 'No report, no-report, deficit or architectural evidence the record holds separates experience from access: each kind reaches experience through access, so on the record''s evidence it establishes access, and the record holds no case in which the two come apart and the evidence follows experience; carried to a system without cortex or biology, report evidence keeps that limit and architectural evidence adds the dispute over functionalism'
+title: 'No evidence held separates experience from access'
+statement: >-
+  No report, no-report, deficit or architectural evidence the record holds
+  separates experience from access: each kind reaches experience through
+  access, so on the record's evidence it establishes access, and the record
+  holds no case in which the two come apart and the evidence follows
+  experience; carried to a system without cortex or biology, report evidence
+  keeps that limit and architectural evidence adds the dispute over
+  functionalism
 version: 1
 role: thesis
 warrant: interpretive
@@ -52,7 +60,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-091 THEORY-094 THEORY-100 THEORY-023 THEORY-298 — Proposed; the readings that give each kind of evidence its limit, grounds of a Proposed claim -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-003 — Proposed; the claims QUESTION-048 says need the answer, named, not leaned on -->
 
-# CLAIM-643: No report, no-report, deficit or architectural evidence the record holds separates experience from access: each kind reaches experience through access, so on the record's evidence it establishes access, and the record holds no case in which the two come apart and the evidence follows experience; carried to a system without cortex or biology, report evidence keeps that limit and architectural evidence adds the dispute over functionalism
+# CLAIM-643: No evidence held separates experience from access
 
 ## The claim
 

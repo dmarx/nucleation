@@ -3,7 +3,11 @@ number: 729
 status: Active
 formerly:
 - THEORY-tmpzc8y4
-title: 'An adjunction between a category and the opposite of another restricts to a dual equivalence between the full subcategories on which its unit and counit are isomorphisms'
+title: 'Adjunctions restrict to dual equivalences'
+statement: >-
+  An adjunction between a category and the opposite of another restricts to
+  a dual equivalence between the full subcategories on which its unit and
+  counit are isomorphisms
 version: 1
 history:
 - version: 1
@@ -34,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-604 — Proposed; the breadth thesis this construction was split from and that extends it, cited as open -->
 
-# THEORY-729: An adjunction between a category and the opposite of another restricts to a dual equivalence between the full subcategories on which its unit and counit are isomorphisms
+# THEORY-729: Adjunctions restrict to dual equivalences
 
 ## Source
 

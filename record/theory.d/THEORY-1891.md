@@ -11,7 +11,12 @@ promote_when: >-
   observers. Or a direct derivation shows that, in the linear regime of a
   coupled Wilson–Cowan chain, the interference of point responses gives
   both, with no further mechanism.
-title: "Gepshtein, Pawar, Kwon, Savel'ev and Albright account for cortical spatial and temporal frequency selectivity, and for lateral effects outside the stimulated region, as the interference of standing, spatially damped neural waves intrinsic to a chain of coupled excitatory–inhibitory motifs"
+title: 'Neural standing waves explain frequency tuning'
+statement: >-
+  Gepshtein, Pawar, Kwon, Savel'ev and Albright account for cortical spatial
+  and temporal frequency selectivity, and for lateral effects outside the
+  stimulated region, as the interference of standing, spatially damped
+  neural waves intrinsic to a chain of coupled excitatory–inhibitory motifs
 version: 1
 tags:
 - neuroscience
@@ -30,7 +35,7 @@ summary: >-
   The wording is the reader's; adopting it is the owner's call.
 ---
 
-# THEORY-1891: Gepshtein, Pawar, Kwon, Savel'ev and Albright account for cortical spatial and temporal frequency selectivity, and for lateral effects outside the stimulated region, as the interference of standing, spatially damped neural waves intrinsic to a chain of coupled excitatory–inhibitory motifs
+# THEORY-1891: Neural standing waves explain frequency tuning
 
 ## Source
 

@@ -16,7 +16,14 @@ promote_when: >-
   optimisation with other constants, or another single benchmark with one
   model family, cannot settle it: those restate the accounting or repeat
   one case.
-title: "Counting the inference a model will serve as well as its training, the least-compute way to reach a fixed quality shifts toward up-front compute as expected inference volume grows: a smaller model trained on more data in Sardana et al., a larger pretrained model over test-time search in Snell et al.; test-time compute won only at low volume and on questions the small model already sometimes solved"
+title: 'High inference volume shifts compute up front'
+statement: >-
+  Counting the inference a model will serve as well as its training, the
+  least-compute way to reach a fixed quality shifts toward up-front compute
+  as expected inference volume grows: a smaller model trained on more data
+  in Sardana et al., a larger pretrained model over test-time search in
+  Snell et al.; test-time compute won only at low volume and on questions
+  the small model already sometimes solved
 version: 1
 tags:
 - learning-theory
@@ -43,7 +50,7 @@ bears_on:
 - QUESTION-095
 ---
 
-# THEORY-331: Counting the inference a model will serve as well as its training, the least-compute way to reach a fixed quality shifts toward up-front compute as expected inference volume grows: a smaller model trained on more data in Sardana et al., a larger pretrained model over test-time search in Snell et al.; test-time compute won only at low volume and on questions the small model already sometimes solved
+# THEORY-331: High inference volume shifts compute up front
 
 ## Source
 

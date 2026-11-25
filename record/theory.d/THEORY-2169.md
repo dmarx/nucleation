@@ -14,7 +14,15 @@ promote_when: >-
   process; and that he holds that different mechanisms apply to different
   cases and that most observed power laws are probably not the result of
   phase transitions.
-title: "Newman recommends measuring a power law by its cumulative distribution and a maximum-likelihood exponent rather than a least-squares fit to a log-log histogram, and holds that many mechanisms produce power laws, among them combinations of exponentials, inverses of quantities, random-walk first return times, the Yule process, critical phenomena and self-organized criticality, that different ones apply to different cases, and that most observed power laws are probably not the result of phase transitions"
+title: 'Fit power laws by MLE, not log-log regression'
+statement: >-
+  Newman recommends measuring a power law by its cumulative distribution and
+  a maximum-likelihood exponent rather than a least-squares fit to a log-log
+  histogram, and holds that many mechanisms produce power laws, among them
+  combinations of exponentials, inverses of quantities, random-walk first
+  return times, the Yule process, critical phenomena and self-organized
+  criticality, that different ones apply to different cases, and that most
+  observed power laws are probably not the result of phase transitions
 version: 1
 tags:
 - complex-systems
@@ -44,7 +52,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-795 CLAIM-815 — Proposed; the claims this reading grounds or corroborates, and the argument for the first -->
 
-# THEORY-2169: Newman recommends measuring a power law by its cumulative distribution and a maximum-likelihood exponent rather than a least-squares fit to a log-log histogram, and holds that many mechanisms produce power laws, among them combinations of exponentials, inverses of quantities, random-walk first return times, the Yule process, critical phenomena and self-organized criticality, that different ones apply to different cases, and that most observed power laws are probably not the result of phase transitions
+# THEORY-2169: Fit power laws by MLE, not log-log regression
 
 ## Source
 

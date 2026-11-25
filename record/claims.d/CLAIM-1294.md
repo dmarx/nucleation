@@ -3,7 +3,14 @@ number: 1294
 status: Proposed
 formerly:
 - CLAIM-tmplc0vv
-title: 'Strong preservationist conservatism is deficient where it treats preserving an established arrangement as preserving the capacities it realizes, or historical endurance as a general presumption of adequacy, counting the dangers of reform and not the costs of continued operation; conservatism''s valid insight, that institutions store work and knowledge no one holds explicitly, supports caution but not that conflation'
+title: 'Preservationism mistakes endurance for adequacy'
+statement: >-
+  Strong preservationist conservatism is deficient where it treats
+  preserving an established arrangement as preserving the capacities it
+  realizes, or historical endurance as a general presumption of adequacy,
+  counting the dangers of reform and not the costs of continued operation;
+  conservatism's valid insight, that institutions store work and knowledge
+  no one holds explicitly, supports caution but not that conflation
 version: 1
 role: thesis
 warrant: interpretive
@@ -37,7 +44,7 @@ summary: >-
 
 <!-- inactive-ok-file: ARG-259 CLAIM-1253 CLAIM-1266 CLAIM-1274 LIT-3255 THEORY-841 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# CLAIM-1294: Strong preservationist conservatism is deficient where it treats preserving an established arrangement as preserving the capacities it realizes, or historical endurance as a general presumption of adequacy, counting the dangers of reform and not the costs of continued operation; conservatism's valid insight, that institutions store work and knowledge no one holds explicitly, supports caution but not that conflation
+# CLAIM-1294: Preservationism mistakes endurance for adequacy
 
 ## The claim
 

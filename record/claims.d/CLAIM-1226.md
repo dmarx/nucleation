@@ -3,7 +3,12 @@ number: 1226
 status: Proposed
 formerly:
 - CLAIM-tmp48g02
-title: 'Nucleation is a reference implementation of a governed research record and of views generated over it, not of hyperarticle publishing: it has no distributed editorial network and no archival or identifier guarantees beyond its repository'
+title: 'Nucleation implements a record, not hyperarticles'
+statement: >-
+  Nucleation is a reference implementation of a governed research record and
+  of views generated over it, not of hyperarticle publishing: it has no
+  distributed editorial network and no archival or identifier guarantees
+  beyond its repository
 version: 4
 history:
 - version: 2
@@ -60,7 +65,7 @@ works:
 <!-- inactive-ok-file: CLAIM-178 ADR-143 — Proposed; the manuscript-as-view claim and the manuscript protocol -->
 <!-- inactive-ok-file: CLAIM-1283 — new; the hyperarticle thesis filed from the same exchange -->
 
-# CLAIM-1226: Nucleation is a reference implementation of a governed research record and of views generated over it, not of hyperarticle publishing: it has no distributed editorial network and no archival or identifier guarantees beyond its repository
+# CLAIM-1226: Nucleation implements a record, not hyperarticles
 
 ## The claim
 

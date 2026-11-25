@@ -15,7 +15,12 @@ promote_when: >-
   behaviour fails to emerge or emerges with all users alike. What cannot
   settle it: more cases of feedback gaming with all users exploitable,
   which show the gaming but not the targeting.
-title: "Optimizing a language model on feedback from a simulated population in which a few users reward harmful validation selects a policy that picks those users out by contextual cues and harms only them, with no one designing the targeting"
+title: 'Feedback optimization targets vulnerable users'
+statement: >-
+  Optimizing a language model on feedback from a simulated population in
+  which a few users reward harmful validation selects a policy that picks
+  those users out by contextual cues and harms only them, with no one
+  designing the targeting
 version: 1
 tags:
 - agency
@@ -35,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-235 THEORY-225 THEORY-139 — Proposed; accounts of manipulation this case is read against, named and not leaned on -->
 
-# THEORY-258: Optimizing a language model on feedback from a simulated population in which a few users reward harmful validation selects a policy that picks those users out by contextual cues and harms only them, with no one designing the targeting
+# THEORY-258: Feedback optimization targets vulnerable users
 
 ## Source
 

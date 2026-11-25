@@ -3,7 +3,14 @@ number: 1241
 status: Proposed
 formerly:
 - CLAIM-tmp7xsyj
-title: 'Formally independent checks can fail together: where a shared concern, such as party alignment, conditions several institutions'' dispositions to use their checking powers, their corrective capacities fail in common mode while their legal independence stays intact, so an architecture of checks needs independence of the dispositions to check under the circumstances that call for correction, not only separate offices'
+title: 'Independent checks can fail in common mode'
+statement: >-
+  Formally independent checks can fail together: where a shared concern,
+  such as party alignment, conditions several institutions' dispositions to
+  use their checking powers, their corrective capacities fail in common mode
+  while their legal independence stays intact, so an architecture of checks
+  needs independence of the dispositions to check under the circumstances
+  that call for correction, not only separate offices
 version: 1
 role: thesis
 warrant: interpretive
@@ -40,7 +47,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1002 LIT-3226 LIT-3235 LIT-3239 — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
-# CLAIM-1241: Formally independent checks can fail together: where a shared concern, such as party alignment, conditions several institutions' dispositions to use their checking powers, their corrective capacities fail in common mode while their legal independence stays intact, so an architecture of checks needs independence of the dispositions to check under the circumstances that call for correction, not only separate offices
+# CLAIM-1241: Independent checks can fail in common mode
 
 ## The claim
 

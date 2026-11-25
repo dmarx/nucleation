@@ -3,7 +3,13 @@ number: 1223
 status: Proposed
 formerly:
 - CLAIM-tmp2timl
-title: 'Replacing publication count with a count taken from a maintained record, of claims, corrections, endorsements or dependencies, reproduces the proxy problem it replaces, because researchers will shape the record to the count; an accountable history of contributions is evidence for an evaluation and not a score computed from the record'
+title: 'Record-based counts reproduce the proxy problem'
+statement: >-
+  Replacing publication count with a count taken from a maintained record,
+  of claims, corrections, endorsements or dependencies, reproduces the proxy
+  problem it replaces, because researchers will shape the record to the
+  count; an accountable history of contributions is evidence for an
+  evaluation and not a score computed from the record
 version: 3
 history:
 - version: 2
@@ -54,7 +60,7 @@ works:
 - hyperarticles
 ---
 
-# CLAIM-1223: Replacing publication count with a count taken from a maintained record, of claims, corrections, endorsements or dependencies, reproduces the proxy problem it replaces, because researchers will shape the record to the count; an accountable history of contributions is evidence for an evaluation and not a score computed from the record
+# CLAIM-1223: Record-based counts reproduce the proxy problem
 
 ## The claim
 

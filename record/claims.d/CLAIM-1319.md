@@ -3,7 +3,14 @@ number: 1319
 status: Proposed
 formerly:
 - CLAIM-tmpsf9hp
-title: 'Invoking a relationship differs from reusing a stored result in that the invocation can change the relationship it invokes, so one operation can reproduce, form or transform a contract, and a stored-work cost model that holds the store fixed between uses prices a contract''s lifecycle but not its invocation, which returns an act, a distribution of costs over the parties and the relationship''s next state'
+title: 'Invoking a relationship can change it'
+statement: >-
+  Invoking a relationship differs from reusing a stored result in that the
+  invocation can change the relationship it invokes, so one operation can
+  reproduce, form or transform a contract, and a stored-work cost model that
+  holds the store fixed between uses prices a contract's lifecycle but not
+  its invocation, which returns an act, a distribution of costs over the
+  parties and the relationship's next state
 version: 1
 role: thesis
 warrant: interpretive
@@ -52,7 +59,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-246 CLAIM-891 CLAIM-1156 TERM-116 — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
 
-# CLAIM-1319: Invoking a relationship differs from reusing a stored result in that the invocation can change the relationship it invokes, so one operation can reproduce, form or transform a contract, and a stored-work cost model that holds the store fixed between uses prices a contract's lifecycle but not its invocation, which returns an act, a distribution of costs over the parties and the relationship's next state
+# CLAIM-1319: Invoking a relationship can change it
 
 ## The claim
 

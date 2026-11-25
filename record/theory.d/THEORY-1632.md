@@ -3,7 +3,13 @@ number: 1632
 status: Active
 formerly:
 - THEORY-tmpys3nq
-title: 'Brewer argues that close relationships and group memberships are two distinct forms of social identification by which the individual self is extended to include others, the relational self taking in particular others and the collective self a symbolic group, and that they meet distinct needs rather than one need for belonging'
+title: 'Relational and collective selves serve two needs'
+statement: >-
+  Brewer argues that close relationships and group memberships are two
+  distinct forms of social identification by which the individual self is
+  extended to include others, the relational self taking in particular
+  others and the collective self a symbolic group, and that they meet
+  distinct needs rather than one need for belonging
 version: 2
 history:
 - version: 1
@@ -34,7 +40,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1632: Brewer argues that close relationships and group memberships are two distinct forms of social identification by which the individual self is extended to include others, the relational self taking in particular others and the collective self a symbolic group, and that they meet distinct needs rather than one need for belonging
+# THEORY-1632: Relational and collective selves serve two needs
 
 ## The account
 

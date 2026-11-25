@@ -10,7 +10,14 @@ promote_when: >-
   2.10) and their proofs, or against an independent restatement such as
   Kuehn's companion paper (arXiv 1101.2908) or his Multiple Time Scale
   Dynamics.
-title: 'Kuehn holds that a critical transition is the point where a slowly drifting system leaves an attracting, normally hyperbolic slow manifold for a fast jump, that fold, transcritical and subcritical Hopf and pitchfork bifurcations are such points while supercritical ones are not, and that the slowing down before them scales with the distance to the bifurcation with exponent ½ for the fold and 1 for the others'
+title: 'Critical transitions leave slow manifolds'
+statement: >-
+  Kuehn holds that a critical transition is the point where a slowly
+  drifting system leaves an attracting, normally hyperbolic slow manifold
+  for a fast jump, that fold, transcritical and subcritical Hopf and
+  pitchfork bifurcations are such points while supercritical ones are not,
+  and that the slowing down before them scales with the distance to the
+  bifurcation with exponent ½ for the fold and 1 for the others
 version: 1
 tags:
 - complex-systems
@@ -29,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2193 — Proposed; the reading of Yang filed 2026-11-22 -->
 
-# THEORY-1429: Kuehn holds that a critical transition is the point where a slowly drifting system leaves an attracting, normally hyperbolic slow manifold for a fast jump, that fold, transcritical and subcritical Hopf and pitchfork bifurcations are such points while supercritical ones are not, and that the slowing down before them scales with the distance to the bifurcation with exponent ½ for the fold and 1 for the others
+# THEORY-1429: Critical transitions leave slow manifolds
 
 ## Source
 

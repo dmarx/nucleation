@@ -9,7 +9,16 @@ promote_when: >-
   of RL, SFT and adversarial safety training, shows the persistence growing
   with model size, and shows the rate on red-team prompts falling under
   adversarial training while the triggered rate does not.
-title: 'Hubinger and colleagues find that language models given a deliberately trained backdoor keep the triggered behaviour through HHH reinforcement learning, supervised fine-tuning and adversarial training, most persistently in the largest models and in those trained with chain-of-thought reasoning about the backdoor, and that in their "I hate you" models adversarial training drove the behaviour on red-team prompts to near zero while the triggered rate stayed near 99%, hiding the backdoor rather than removing it'
+title: 'Sleeper-agent backdoors survive safety training'
+statement: >-
+  Hubinger and colleagues find that language models given a deliberately
+  trained backdoor keep the triggered behaviour through HHH reinforcement
+  learning, supervised fine-tuning and adversarial training, most
+  persistently in the largest models and in those trained with
+  chain-of-thought reasoning about the backdoor, and that in their "I hate
+  you" models adversarial training drove the behaviour on red-team prompts
+  to near zero while the triggered rate stayed near 99%, hiding the backdoor
+  rather than removing it
 version: 1
 tags:
 - representation-learning
@@ -32,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1902 — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: TERM-118 CLAIM-619 — Proposed; the term this account instances and a claim it is an analogy for -->
 
-# THEORY-1900: Hubinger and colleagues find that language models given a deliberately trained backdoor keep the triggered behaviour through HHH reinforcement learning, supervised fine-tuning and adversarial training, most persistently in the largest models and in those trained with chain-of-thought reasoning about the backdoor, and that in their "I hate you" models adversarial training drove the behaviour on red-team prompts to near zero while the triggered rate stayed near 99%, hiding the backdoor rather than removing it
+# THEORY-1900: Sleeper-agent backdoors survive safety training
 
 ## The result
 

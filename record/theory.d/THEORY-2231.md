@@ -11,7 +11,13 @@ promote_when: >-
   ancestral set. The authors' further reading, that splitting is
   nonadaptive and irreversible, is not part of this title and cannot
   promote or refute it.
-title: 'Łukasik and colleagues report that in the cicada genus Tettigades a single ancestral Hodgkinia lineage has split at least six independent times in about 4 million years into complexes of two to six interdependent lineages per host, in distinct cells, which differ widely in abundance and gene content and together encode nearly the ancestral gene set'
+title: 'Hodgkinia split six times in Tettigades'
+statement: >-
+  Łukasik and colleagues report that in the cicada genus Tettigades a single
+  ancestral Hodgkinia lineage has split at least six independent times in
+  about 4 million years into complexes of two to six interdependent lineages
+  per host, in distinct cells, which differ widely in abundance and gene
+  content and together encode nearly the ancestral gene set
 version: 1
 history:
 - version: 1
@@ -37,7 +43,7 @@ summary: >-
   asserts.
 ---
 
-# THEORY-2231: Łukasik and colleagues report that in the cicada genus Tettigades a single ancestral Hodgkinia lineage has split at least six independent times in about 4 million years into complexes of two to six interdependent lineages per host, in distinct cells, which differ widely in abundance and gene content and together encode nearly the ancestral gene set
+# THEORY-2231: Hodgkinia split six times in Tettigades
 
 ## Source
 

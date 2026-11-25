@@ -17,7 +17,17 @@ promote_when: >-
   the input attribution lies outside the named families. More figures of
   synthetic-curve responses or weight patterns cannot settle it: they are
   the evidence it already rests on.
-title: 'The curve units of InceptionV1''s mixed3b implement a simple algorithm that can be read off their weights and written down in a few sentences: families of Gabors, lines and early curves, each a set of rotated copies of one unit, tiled along the curve''s tangent, with negative weights against similar shapes of opposing orientation, rotational and scale equivariance reducing the circuit''s more than 50,000 parameters about fifty-fold, so that a network written from this description reimplements them and the description accurately reflects the circuit, as Cammarata, Goh, Carter, Voss, Schubert and Olah claim'
+title: 'Curve circuit is a readable, simple algorithm'
+statement: >-
+  The curve units of InceptionV1's mixed3b implement a simple algorithm that
+  can be read off their weights and written down in a few sentences:
+  families of Gabors, lines and early curves, each a set of rotated copies
+  of one unit, tiled along the curve's tangent, with negative weights
+  against similar shapes of opposing orientation, rotational and scale
+  equivariance reducing the circuit's more than 50,000 parameters about
+  fifty-fold, so that a network written from this description reimplements
+  them and the description accurately reflects the circuit, as Cammarata,
+  Goh, Carter, Voss, Schubert and Olah claim
 version: 1
 history:
 - version: 1
@@ -43,7 +53,7 @@ summary: >-
   shown by figures only.
 ---
 <!-- inactive-ok-file: THEORY-1022 — Proposed; the curve account this would serve, cited as open -->
-# THEORY-1047: The curve units of InceptionV1's mixed3b implement a simple algorithm that can be read off their weights and written down in a few sentences: families of Gabors, lines and early curves, each a set of rotated copies of one unit, tiled along the curve's tangent, with negative weights against similar shapes of opposing orientation, rotational and scale equivariance reducing the circuit's more than 50,000 parameters about fifty-fold, so that a network written from this description reimplements them and the description accurately reflects the circuit, as Cammarata, Goh, Carter, Voss, Schubert and Olah claim
+# THEORY-1047: Curve circuit is a readable, simple algorithm
 
 ## Source
 

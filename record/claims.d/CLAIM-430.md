@@ -3,7 +3,14 @@ number: 430
 status: Proposed
 formerly:
 - CLAIM-tmprti7p
-title: 'An interaction can make available a way of relating that its participants'' operative perspectives did not hold, by giving each a role to enact in it, so that taking part can come before, and help produce, the reinterpretation it later seems to express; whether the change stays with the partner, generalizes to a category, or is reproduced beyond the encounter are further questions'
+title: 'Taking part can precede reinterpretation'
+statement: >-
+  An interaction can make available a way of relating that its participants'
+  operative perspectives did not hold, by giving each a role to enact in it,
+  so that taking part can come before, and help produce, the
+  reinterpretation it later seems to express; whether the change stays with
+  the partner, generalizes to a category, or is reproduced beyond the
+  encounter are further questions
 version: 1
 role: thesis
 warrant: interpretive
@@ -52,7 +59,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-1829 — Unfetched since 2026-10-29; Cernat 2011, cited in the note of that date from its abstract as not read, nothing here rests on it -->
 
-# CLAIM-430: An interaction can make available a way of relating that its participants' operative perspectives did not hold, by giving each a role to enact in it, so that taking part can come before, and help produce, the reinterpretation it later seems to express; whether the change stays with the partner, generalizes to a category, or is reproduced beyond the encounter are further questions
+# CLAIM-430: Taking part can precede reinterpretation
 
 ## The claim
 

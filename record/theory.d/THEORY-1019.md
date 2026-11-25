@@ -3,7 +3,13 @@ number: 1019
 status: Active
 formerly:
 - THEORY-tmp29uzx
-title: 'Under the Markov Indian buffet process the expected number of features on at the first time step is α, as in the Indian buffet process, but it rises over time toward α·E[ln((2 − b)/(1 − b))] with b ~ Beta(γ, δ), which is 9.04 at γ = 10 and δ = 1, so after the first step the rows are not distributed as an Indian buffet process'
+title: 'Markov IBP rows are not IBP after step one'
+statement: >-
+  Under the Markov Indian buffet process the expected number of features on
+  at the first time step is α, as in the Indian buffet process, but it rises
+  over time toward α·E[ln((2 − b)/(1 − b))] with b ~ Beta(γ, δ), which is
+  9.04 at γ = 10 and δ = 1, so after the first step the rows are not
+  distributed as an Indian buffet process
 version: 2
 history:
 - version: 1
@@ -46,7 +52,7 @@ bears_on:
 - QUESTION-276
 ---
 
-# THEORY-1019: Under the Markov Indian buffet process the expected number of features on at the first time step is α, as in the Indian buffet process, but it rises over time toward α·E[ln((2 − b)/(1 − b))] with b ~ Beta(γ, δ), which is 9.04 at γ = 10 and δ = 1, so after the first step the rows are not distributed as an Indian buffet process
+# THEORY-1019: Markov IBP rows are not IBP after step one
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 235
 status: Active
 formerly:
 - CLAIM-tmpji66i
-title: 'The line''s proposed quantities have no finite-data estimators: plug-in signalling from one or a few occurrences per context is positive in expectation when the true marginals agree, so the contextual fraction is undefined on raw tables, and deficiency over text-valued renderings has no estimator'
+title: 'Proposed quantities have no estimators'
+statement: >-
+  The line's proposed quantities have no finite-data estimators: plug-in
+  signalling from one or a few occurrences per context is positive in
+  expectation when the true marginals agree, so the contextual fraction is
+  undefined on raw tables, and deficiency over text-valued renderings has no
+  estimator
 version: 4
 history:
 - version: 2
@@ -65,7 +71,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the record's repair that makes deficiency computable, cited as open -->
 <!-- inactive-ok-file: ARG-037 — Rejected; the argument this claim's support verdict moved to, which it undercuts -->
 
-# CLAIM-235: The line's proposed quantities have no finite-data estimators: plug-in signalling from one or a few occurrences per context is positive in expectation when the true marginals agree, so the contextual fraction is undefined on raw tables, and deficiency over text-valued renderings has no estimator
+# CLAIM-235: Proposed quantities have no estimators
 
 ## The objection
 

@@ -17,7 +17,16 @@ promote_when: >-
   horizons. Case histories in which an outcome persisted cannot settle it,
   since persistence is what both path dependence and persisting causes
   predict.
-title: 'Politics is more prone than markets to increasing returns, and so to path dependence, because it is dense with compulsory institutions and policies, rests on collective action and is opaque, so that institutions, collective action and shared interpretations of politics all feed back on themselves; and once on a path political actors leave it less readily than market actors, because competition and learning correct weakly, elected officials discount the future at the electoral cycle, and institutions are built to be hard to change'
+title: 'Politics is more path dependent than markets'
+statement: >-
+  Politics is more prone than markets to increasing returns, and so to path
+  dependence, because it is dense with compulsory institutions and policies,
+  rests on collective action and is opaque, so that institutions, collective
+  action and shared interpretations of politics all feed back on themselves;
+  and once on a path political actors leave it less readily than market
+  actors, because competition and learning correct weakly, elected officials
+  discount the future at the electoral cycle, and institutions are built to
+  be hard to change
 version: 1
 corroborates:
 - CLAIM-1253
@@ -37,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-429 CLAIM-423 CLAIM-184 — Proposed; the accounts and claims it bears on, named, not leaned on -->
 
-# THEORY-885: Politics is more prone than markets to increasing returns, and so to path dependence, because it is dense with compulsory institutions and policies, rests on collective action and is opaque, so that institutions, collective action and shared interpretations of politics all feed back on themselves; and once on a path political actors leave it less readily than market actors, because competition and learning correct weakly, elected officials discount the future at the electoral cycle, and institutions are built to be hard to change
+# THEORY-885: Politics is more path dependent than markets
 
 ## Source
 

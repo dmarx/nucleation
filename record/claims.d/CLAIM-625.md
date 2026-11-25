@@ -3,7 +3,14 @@ number: 625
 status: Active
 formerly:
 - CLAIM-tmptwm5l
-title: "Over time intervals, gluing and continuation are different properties of histories: under local dynamics and a pointwise viability constraint the viable histories form a sheaf, yet restriction from a longer interval to a shorter need not be onto, and a viable history on [0, t] extends viably to [0, T] exactly when its endpoint can stay viable for the remaining time, so a coherent history can be terminal"
+title: 'Gluing and continuation differ for histories'
+statement: >-
+  Over time intervals, gluing and continuation are different properties of
+  histories: under local dynamics and a pointwise viability constraint the
+  viable histories form a sheaf, yet restriction from a longer interval to a
+  shorter need not be onto, and a viable history on [0, t] extends viably to
+  [0, T] exactly when its endpoint can stay viable for the remaining time,
+  so a coherent history can be terminal
 version: 2
 history:
 - version: 2
@@ -68,7 +75,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-231 — filed from the same exchange, Proposed -->
 
-# CLAIM-625: Over time intervals, gluing and continuation are different properties of histories: under local dynamics and a pointwise viability constraint the viable histories form a sheaf, yet restriction from a longer interval to a shorter need not be onto, and a viable history on [0, t] extends viably to [0, T] exactly when its endpoint can stay viable for the remaining time, so a coherent history can be terminal
+# CLAIM-625: Gluing and continuation differ for histories
 
 ## The claim
 

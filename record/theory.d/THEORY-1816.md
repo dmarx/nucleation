@@ -3,7 +3,13 @@ number: 1816
 status: Proposed
 formerly:
 - THEORY-tmpf6iis
-title: 'Prest argues that the public theatre of colonial Saint-Domingue upheld the colonial racial scale, seating free people of colour apart from whites and casting whites in blackface for black roles, while offering free people of colour a modest movement within it, and that the free performer Minette''s rise on that stage in the 1780s was significant but limited'
+title: 'Saint-Domingue theatre upheld the racial scale'
+statement: >-
+  Prest argues that the public theatre of colonial Saint-Domingue upheld the
+  colonial racial scale, seating free people of colour apart from whites and
+  casting whites in blackface for black roles, while offering free people of
+  colour a modest movement within it, and that the free performer Minette's
+  rise on that stage in the 1780s was significant but limited
 version: 1
 source:
 - LIT-2517
@@ -21,7 +27,7 @@ summary: >-
   Prest (2017), read in [NOTE-1896](../notes.d/NOTE-1896.md) (Read). The theatre and the racial scale; Minette's limited rise.
 ---
 
-# THEORY-1816: Prest argues that the public theatre of colonial Saint-Domingue upheld the colonial racial scale, seating free people of colour apart from whites and casting whites in blackface for black roles, while offering free people of colour a modest movement within it, and that the free performer Minette's rise on that stage in the 1780s was significant but limited
+# THEORY-1816: Saint-Domingue theatre upheld the racial scale
 
 ## The account
 

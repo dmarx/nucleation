@@ -17,7 +17,15 @@ promote_when: >-
   by fits of the model to behaviour, or by evidence that the
   approximation is close to exact inversion, none of which the title
   asserts.
-title: 'Mathys, Daunizeau, Friston and Stephan derive, by a mean-field variational approximation with each variational energy expanded to second order at the previous posterior mean, closed-form one-step updates for a hierarchy of Gaussian random walks whose step sizes are set by the level above; the updates take the Rescorla–Wagner form, their learning rate rises with the inferred volatility, and individual differences are carried by fixed coupling parameters'
+title: 'HGF updates take Rescorla–Wagner form'
+statement: >-
+  Mathys, Daunizeau, Friston and Stephan derive, by a mean-field variational
+  approximation with each variational energy expanded to second order at the
+  previous posterior mean, closed-form one-step updates for a hierarchy of
+  Gaussian random walks whose step sizes are set by the level above; the
+  updates take the Rescorla–Wagner form, their learning rate rises with the
+  inferred volatility, and individual differences are carried by fixed
+  coupling parameters
 version: 1
 history:
 - version: 1
@@ -45,7 +53,7 @@ summary: >-
   way. The wording is the reader's; adopting it is the owner's call.
 ---
 
-# THEORY-1365: Mathys, Daunizeau, Friston and Stephan derive, by a mean-field variational approximation with each variational energy expanded to second order at the previous posterior mean, closed-form one-step updates for a hierarchy of Gaussian random walks whose step sizes are set by the level above; the updates take the Rescorla–Wagner form, their learning rate rises with the inferred volatility, and individual differences are carried by fixed coupling parameters
+# THEORY-1365: HGF updates take Rescorla–Wagner form
 
 ## Source
 

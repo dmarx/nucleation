@@ -3,7 +3,12 @@ number: 1609
 status: Active
 formerly:
 - THEORY-tmpodil0
-title: 'Hershfield reviews evidence, mostly from his own studies, that people who feel less similar to their future selves treat them more like strangers and choose less patiently, while directly reported liking and caring for the future self, answered near ceiling, did not predict choice'
+title: 'Low future-self similarity predicts impatience'
+statement: >-
+  Hershfield reviews evidence, mostly from his own studies, that people who
+  feel less similar to their future selves treat them more like strangers
+  and choose less patiently, while directly reported liking and caring for
+  the future self, answered near ceiling, did not predict choice
 version: 2
 history:
 - version: 1
@@ -38,7 +43,7 @@ bears_on:
 - QUESTION-299
 ---
 
-# THEORY-1609: Hershfield reviews evidence, mostly from his own studies, that people who feel less similar to their future selves treat them more like strangers and choose less patiently, while directly reported liking and caring for the future self, answered near ceiling, did not predict choice
+# THEORY-1609: Low future-self similarity predicts impatience
 
 ## The account
 

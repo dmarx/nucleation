@@ -3,7 +3,13 @@ number: 1585
 status: Active
 formerly:
 - THEORY-tmp8p65p
-title: 'Kruse and Schmitt, following McAdams, hold that generativity springs from cultural demand and an inner desire that includes a need for symbolic immortality, that its motives can be selfish or altruistic so that it is not altruism, and report, without statistics, that it predicted life satisfaction in older adults and rose in intergenerational projects'
+title: 'Generativity is not altruism'
+statement: >-
+  Kruse and Schmitt, following McAdams, hold that generativity springs from
+  cultural demand and an inner desire that includes a need for symbolic
+  immortality, that its motives can be selfish or altruistic so that it is
+  not altruism, and report, without statistics, that it predicted life
+  satisfaction in older adults and rose in intergenerational projects
 version: 2
 history:
 - version: 1
@@ -37,7 +43,7 @@ bears_on:
 - QUESTION-301
 ---
 
-# THEORY-1585: Kruse and Schmitt, following McAdams, hold that generativity springs from cultural demand and an inner desire that includes a need for symbolic immortality, that its motives can be selfish or altruistic so that it is not altruism, and report, without statistics, that it predicted life satisfaction in older adults and rose in intergenerational projects
+# THEORY-1585: Generativity is not altruism
 
 ## The account
 

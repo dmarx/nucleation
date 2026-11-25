@@ -3,7 +3,14 @@ number: 1659
 status: Proposed
 formerly:
 - THEORY-tmp74oc5
-title: 'Fanning and Raworth (2025) find that, measured as 35 indicators each against its own social or planetary threshold, global social shortfall fell modestly between 2000 and 2022 while ecological overshoot grew, and that disaggregating by income cluster shows the richest fifth of countries contributing over 40% of overshoot and the poorest 40% bearing over 60% of shortfall, an inequality the global aggregates mask.'
+title: 'Shortfall fell while overshoot grew, unequally'
+statement: >-
+  Fanning and Raworth (2025) find that, measured as 35 indicators each
+  against its own social or planetary threshold, global social shortfall
+  fell modestly between 2000 and 2022 while ecological overshoot grew, and
+  that disaggregating by income cluster shows the richest fifth of countries
+  contributing over 40% of overshoot and the poorest 40% bearing over 60% of
+  shortfall, an inequality the global aggregates mask.
 version: 1
 source:
 - LIT-2454
@@ -32,7 +39,7 @@ summary: >-
   share of overshoot and the poorest holds most shortfall.
 ---
 
-# THEORY-1659: Fanning and Raworth (2025) find that, measured as 35 indicators each against its own social or planetary threshold, global social shortfall fell modestly between 2000 and 2022 while ecological overshoot grew, and that disaggregating by income cluster shows the richest fifth of countries contributing over 40% of overshoot and the poorest 40% bearing over 60% of shortfall, an inequality the global aggregates mask.
+# THEORY-1659: Shortfall fell while overshoot grew, unequally
 
 ## The account
 

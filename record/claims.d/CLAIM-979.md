@@ -3,7 +3,17 @@ number: 979
 status: Proposed
 formerly:
 - CLAIM-tmpx5yyb
-title: 'In the minimal construction of an executive, a reviewer and an enforcer whose agents anticipate enforcement, the first difference between the arrangement in which the executive can condition enforcement and the one in which enforcement is independent comes before execution: at the ruling where the reviewer avoids an order it expects to go unenforced, and at the executive''s own act where the executive anticipates too; so wherever independent enforcement would deter the act, the two arrangements are not alike in routine, and alikeness in routine holds only where that deterrence does not bind'
+title: 'Anticipating agents part before execution'
+statement: >-
+  In the minimal construction of an executive, a reviewer and an enforcer
+  whose agents anticipate enforcement, the first difference between the
+  arrangement in which the executive can condition enforcement and the one
+  in which enforcement is independent comes before execution: at the ruling
+  where the reviewer avoids an order it expects to go unenforced, and at the
+  executive's own act where the executive anticipates too; so wherever
+  independent enforcement would deter the act, the two arrangements are not
+  alike in routine, and alikeness in routine holds only where that
+  deterrence does not bind
 version: 1
 history:
 - version: 1
@@ -61,7 +71,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-380 CLAIM-978 — new; the executed study and the alternative reading filed with this claim for LEAD-168 -->
 
-# CLAIM-979: In the minimal construction of an executive, a reviewer and an enforcer whose agents anticipate enforcement, the first difference between the arrangement in which the executive can condition enforcement and the one in which enforcement is independent comes before execution: at the ruling where the reviewer avoids an order it expects to go unenforced, and at the executive's own act where the executive anticipates too; so wherever independent enforcement would deter the act, the two arrangements are not alike in routine, and alikeness in routine holds only where that deterrence does not bind
+# CLAIM-979: Anticipating agents part before execution
 
 ## The claim
 

@@ -3,7 +3,16 @@ number: 2160
 status: Proposed
 formerly:
 - THEORY-tmpr9w2r
-title: 'Hoogland and colleagues find that in a two-layer attention-only language transformer of about 3.4 million parameters and a two-layer in-context linear-regression transformer of about 52 thousand, plateaus in SGLD estimates of the local learning coefficient over log training time divide training into five stages, four or five of which recur in each of five seeds, and most stages coincide with independently measured changes in behaviour or structure; the estimate rises in most stages and falls in three'
+title: 'LLC plateaus divide training into stages'
+statement: >-
+  Hoogland and colleagues find that in a two-layer attention-only language
+  transformer of about 3.4 million parameters and a two-layer in-context
+  linear-regression transformer of about 52 thousand, plateaus in SGLD
+  estimates of the local learning coefficient over log training time divide
+  training into five stages, four or five of which recur in each of five
+  seeds, and most stages coincide with independently measured changes in
+  behaviour or structure; the estimate rises in most stages and falls in
+  three
 promote_when: >-
   An independent run of either setting, with the authors' code or a
   reimplementation, recovers the coefficient-plateau boundaries of LM1–LM4
@@ -31,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2191 LIT-3049 — Proposed or Deferred; the reading of Lee et al. filed 2026-11-22, and Carroll et al., registered from it and unread -->
 
-# THEORY-2160: Hoogland and colleagues find that in a two-layer attention-only language transformer of about 3.4 million parameters and a two-layer in-context linear-regression transformer of about 52 thousand, plateaus in SGLD estimates of the local learning coefficient over log training time divide training into five stages, four or five of which recur in each of five seeds, and most stages coincide with independently measured changes in behaviour or structure; the estimate rises in most stages and falls in three
+# THEORY-2160: LLC plateaus divide training into stages
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 664
 status: Active
 formerly:
 - THEORY-tmpx4zft
-title: "In a finite-dimensional probabilistic theory with unrestricted effects and local tomography, if every system can steer each of its own states from a composite with a copy of itself, every irreducible state space is homogeneous and weakly self-dual; steering does not yet give strong self-duality, so it stops short of the Jordan-algebraic and quantum state spaces"
+title: 'Steering gives weak, not strong, self-duality'
+statement: >-
+  In a finite-dimensional probabilistic theory with unrestricted effects and
+  local tomography, if every system can steer each of its own states from a
+  composite with a copy of itself, every irreducible state space is
+  homogeneous and weakly self-dual; steering does not yet give strong
+  self-duality, so it stops short of the Jordan-algebraic and quantum state
+  spaces
 version: 1
 tags:
 - quantum-foundations
@@ -23,7 +30,7 @@ summary: >-
   derives.
 ---
 
-# THEORY-664: In a finite-dimensional probabilistic theory with unrestricted effects and local tomography, if every system can steer each of its own states from a composite with a copy of itself, every irreducible state space is homogeneous and weakly self-dual; steering does not yet give strong self-duality, so it stops short of the Jordan-algebraic and quantum state spaces
+# THEORY-664: Steering gives weak, not strong, self-duality
 
 ## Source
 

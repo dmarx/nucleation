@@ -3,7 +3,13 @@ number: 474
 status: Active
 formerly:
 - THEORY-tmp9pyej
-title: "Spekkens' toy bit theory, restricted to maximal knowledge and post-selected measurements, has a universal, sound and complete ZX-style graphical calculus whose phase-free rules and symplectic check-matrix conditions are exactly those of pure qubit stabilizer theory; the two calculi differ in the phase group, the Klein four-group against Z₄"
+title: 'Toy-bit ZX calculus mirrors stabilizer theory'
+statement: >-
+  Spekkens' toy bit theory, restricted to maximal knowledge and
+  post-selected measurements, has a universal, sound and complete ZX-style
+  graphical calculus whose phase-free rules and symplectic check-matrix
+  conditions are exactly those of pure qubit stabilizer theory; the two
+  calculi differ in the phase group, the Klein four-group against Z₄
 version: 1
 tags:
 - quantum-foundations
@@ -23,7 +29,7 @@ summary: >-
   says nothing about which operational difference the phase group carries.
 ---
 
-# THEORY-474: Spekkens' toy bit theory, restricted to maximal knowledge and post-selected measurements, has a universal, sound and complete ZX-style graphical calculus whose phase-free rules and symplectic check-matrix conditions are exactly those of pure qubit stabilizer theory; the two calculi differ in the phase group, the Klein four-group against Z₄
+# THEORY-474: Toy-bit ZX calculus mirrors stabilizer theory
 
 ## Source
 

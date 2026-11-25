@@ -3,7 +3,13 @@ number: 1823
 status: Proposed
 formerly:
 - THEORY-tmpt62g0
-title: 'Kittay holds that caring for those who cannot care for themselves makes the carer dependent in turn, that these nested relations of dependency are the basis of society, and that doulia, support for the carer, is owed by the wider society; she now doubts that the state should be its ultimate form, given the risk of domination by those who give support'
+title: 'Nested dependency grounds owed support, doulia'
+statement: >-
+  Kittay holds that caring for those who cannot care for themselves makes
+  the carer dependent in turn, that these nested relations of dependency are
+  the basis of society, and that doulia, support for the carer, is owed by
+  the wider society; she now doubts that the state should be its ultimate
+  form, given the risk of domination by those who give support
 version: 1
 source:
 - LIT-2530
@@ -20,7 +26,7 @@ summary: >-
   Kittay (2026 interview), read in [NOTE-1900](../notes.d/NOTE-1900.md). Doulia and nested dependency; non-domination by supporters.
 ---
 
-# THEORY-1823: Kittay holds that caring for those who cannot care for themselves makes the carer dependent in turn, that these nested relations of dependency are the basis of society, and that doulia, support for the carer, is owed by the wider society; she now doubts that the state should be its ultimate form, given the risk of domination by those who give support
+# THEORY-1823: Nested dependency grounds owed support, doulia
 
 ## The account
 

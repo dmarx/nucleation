@@ -3,7 +3,12 @@ number: 17
 status: Active
 formerly:
 - THEORY-tmpscxh5
-title: 'In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record''s Hilbert-space works differ in where they get it'
+title: 'Hilbert-space parts are extra data, not intrinsic'
+statement: >-
+  In a Hilbert-space model only unitarily invariant structure is intrinsic;
+  a basis or tensor factorisation, and so any parts or features, is extra
+  data supplied from outside the space, and the record's Hilbert-space works
+  differ in where they get it
 version: 7
 history:
 - version: 2
@@ -105,7 +110,7 @@ bears_on:
 ---
 
 
-# THEORY-017: In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
+# THEORY-017: Hilbert-space parts are extra data, not intrinsic
 
 ## Source
 

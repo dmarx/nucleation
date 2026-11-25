@@ -3,7 +3,13 @@ number: 334
 status: Active
 formerly:
 - CLAIM-tmpa4kr6
-title: 'Granger causation from a macro variable to the micro variables it supervenes on, Seth''s downward Granger causation, is not evidence of a macro-to-micro intervention effect, even with every micro variable measured: supervenience leaves no intervention on the macro variable that holds its micro base fixed at the same time'
+title: 'Downward Granger causation is not intervention'
+statement: >-
+  Granger causation from a macro variable to the micro variables it
+  supervenes on, Seth's downward Granger causation, is not evidence of a
+  macro-to-micro intervention effect, even with every micro variable
+  measured: supervenience leaves no intervention on the macro variable that
+  holds its micro base fixed at the same time
 version: 1
 role: disclaimed
 warrant: demonstrated
@@ -32,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1314 — Proposed, Open, Deferred or new; cited from the reading of Jennings 2026 as open -->
 <!-- inactive-ok-file: LIT-1987 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
-# CLAIM-334: Granger causation from a macro variable to the micro variables it supervenes on, Seth's downward Granger causation, is not evidence of a macro-to-micro intervention effect, even with every micro variable measured: supervenience leaves no intervention on the macro variable that holds its micro base fixed at the same time
+# CLAIM-334: Downward Granger causation is not intervention
 
 ## The claim
 

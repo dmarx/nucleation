@@ -19,7 +19,15 @@ promote_when: >-
   its contents fail to cohere, against the coherence condition.
   Redescriptions of meditative, psychedelic or sleep states, and the
   resemblances to other theories in Table 2, cannot settle it.
-title: "Consciousness in an inferring system requires three things: a unified generative model of its world; entry to that model by a precision-weighted competition that coherent inferences win; and epistemic depth, the recursive sharing of the model back through the hierarchy, carried by a hyper-model that predicts and sets precision at every level; awareness then varies with epistemic depth, not with the richness of contents, and a first-person perspective, a self-model and agency are not required"
+title: 'Consciousness requires epistemic depth'
+statement: >-
+  Consciousness in an inferring system requires three things: a unified
+  generative model of its world; entry to that model by a precision-weighted
+  competition that coherent inferences win; and epistemic depth, the
+  recursive sharing of the model back through the hierarchy, carried by a
+  hyper-model that predicts and sets precision at every level; awareness
+  then varies with epistemic depth, not with the richness of contents, and a
+  first-person perspective, a self-model and agency are not required
 version: 2
 history:
 - version: 2
@@ -49,7 +57,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-063 — Proposed; the claims, terms and accounts it bears on, named, not leaned on -->
 <!-- inactive-ok-file: THEORY-883 THEORY-876 — Proposed; filed in the same batch, named -->
 
-# THEORY-882: Consciousness in an inferring system requires three things: a unified generative model of its world; entry to that model by a precision-weighted competition that coherent inferences win; and epistemic depth, the recursive sharing of the model back through the hierarchy, carried by a hyper-model that predicts and sets precision at every level; awareness then varies with epistemic depth, not with the richness of contents, and a first-person perspective, a self-model and agency are not required
+# THEORY-882: Consciousness requires epistemic depth
 
 ## Source
 

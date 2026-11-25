@@ -3,7 +3,12 @@ number: 415
 status: Proposed
 formerly:
 - CLAIM-tmp3gvbj
-title: 'A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity, and a judgement can shape a person who rejects it, because resisting it makes it consequential'
+title: 'Organized by a judgement no collective holds'
+statement: >-
+  A person can be organized by a judgement they attribute to a collective
+  that does not hold it: the audience in a self-model can be a false unity,
+  and a judgement can shape a person who rejects it, because resisting it
+  makes it consequential
 version: 7
 history:
 - version: 2
@@ -113,7 +118,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1370 — Unavailable; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-355 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-415: A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity, and a judgement can shape a person who rejects it, because resisting it makes it consequential
+# CLAIM-415: Organized by a judgement no collective holds
 
 ## The claim
 

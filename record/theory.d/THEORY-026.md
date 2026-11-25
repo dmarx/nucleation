@@ -3,7 +3,15 @@ number: 26
 status: Active
 formerly:
 - THEORY-tmp4trgp
-title: "For a system driven without feedback through fixed kernels, the average work dissipated at each switch of the drive equals the memory that fails to predict the next input; that is nonnegative when the drive is Markov and, summed, bounds the protocol's dissipation from below when each kernel keeps its equilibrium stationary, so there only nonpredictive memory is wasteful; with feedback, in one binary channel no predictive agent is efficient"
+title: 'Only nonpredictive memory wastes driven work'
+statement: >-
+  For a system driven without feedback through fixed kernels, the average
+  work dissipated at each switch of the drive equals the memory that fails
+  to predict the next input; that is nonnegative when the drive is Markov
+  and, summed, bounds the protocol's dissipation from below when each kernel
+  keeps its equilibrium stationary, so there only nonpredictive memory is
+  wasteful; with feedback, in one binary channel no predictive agent is
+  efficient
 version: 5
 history:
 - version: 2
@@ -65,7 +73,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-817 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: CASE-391 CLAIM-1123 — filed by the lead run of 2026-11-23 -->
 
-# THEORY-026: For a system driven without feedback through fixed kernels, the average work dissipated at each switch of the drive equals the memory that fails to predict the next input; that is nonnegative when the drive is Markov and, summed, bounds the protocol's dissipation from below when each kernel keeps its equilibrium stationary, so there only nonpredictive memory is wasteful; with feedback, in one binary channel no predictive agent is efficient
+# THEORY-026: Only nonpredictive memory wastes driven work
 
 ## Source
 

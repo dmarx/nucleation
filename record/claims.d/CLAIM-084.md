@@ -3,7 +3,12 @@ number: 84
 status: Proposed
 formerly:
 - CLAIM-tmpo21gq
-title: 'Lexical similarity cannot distinguish preservation of communicative footing from a change of speech-act function, so the primary outcome of a reconstruction study is pragmatic-frame retention judged blind to condition, once a measure of footing and stance has been shown reliable'
+title: 'Measure frame retention, not lexical similarity'
+statement: >-
+  Lexical similarity cannot distinguish preservation of communicative
+  footing from a change of speech-act function, so the primary outcome of a
+  reconstruction study is pragmatic-frame retention judged blind to
+  condition, once a measure of footing and stance has been shown reliable
 version: 2
 history:
 - version: 2
@@ -44,7 +49,7 @@ summary: >-
   annotators; the blinding to condition is not stated.
 ---
 
-# CLAIM-084: Lexical similarity cannot distinguish preservation of communicative footing from a change of speech-act function, so the primary outcome of a reconstruction study is pragmatic-frame retention judged blind to condition, once a measure of footing and stance has been shown reliable
+# CLAIM-084: Measure frame retention, not lexical similarity
 
 ## The claim
 

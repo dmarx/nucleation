@@ -15,7 +15,14 @@ promote_when: >-
   scale fixed, makes no difference to the regime. The checks on the
   solvable model itself, such as simulations matching the formulas, cannot
   settle it.
-title: 'In a two-layer linear network trained by gradient flow, the relative scale of the two layers, which gradient flow conserves, sets the learning regime: balanced layers learn in sigmoidal stages and both build task-specific representations, while strongly unbalanced layers learn exponentially with a static kernel and leave the larger layer task-agnostic'
+title: 'Layer balance sets rich versus lazy learning'
+statement: >-
+  In a two-layer linear network trained by gradient flow, the relative scale
+  of the two layers, which gradient flow conserves, sets the learning
+  regime: balanced layers learn in sigmoidal stages and both build
+  task-specific representations, while strongly unbalanced layers learn
+  exponentially with a static kernel and leave the larger layer
+  task-agnostic
 version: 3
 history:
 - version: 2
@@ -58,7 +65,7 @@ bounds:
 ---
 <!-- inactive-ok-file: THEORY-186 — Proposed or Open; the readings this account generalizes or is set beside, and the question it raises, open -->
 
-# THEORY-212: In a two-layer linear network trained by gradient flow, the relative scale of the two layers, which gradient flow conserves, sets the learning regime: balanced layers learn in sigmoidal stages and both build task-specific representations, while strongly unbalanced layers learn exponentially with a static kernel and leave the larger layer task-agnostic
+# THEORY-212: Layer balance sets rich versus lazy learning
 
 ## Source
 

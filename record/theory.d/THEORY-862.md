@@ -3,7 +3,14 @@ number: 862
 status: Active
 formerly:
 - THEORY-tmpwpmt2
-title: 'In US law schools under the U.S. News ranking, administrators and faculty reported, and public sources corroborated, that schools changed what they did in order to move their rank: they moved money toward the ranking''s inputs, redefined admissions and career-services work around its indicators, and gamed its figures, so the ranking altered the things it measured'
+title: 'Law schools changed to move their U.S. News rank'
+statement: >-
+  In US law schools under the U.S. News ranking, administrators and faculty
+  reported, and public sources corroborated, that schools changed what they
+  did in order to move their rank: they moved money toward the ranking's
+  inputs, redefined admissions and career-services work around its
+  indicators, and gamed its figures, so the ranking altered the things it
+  measured
 version: 1
 history:
 - version: 1
@@ -32,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-854 — Proposed; the companion account from the same reading, named for the part this one leaves out -->
 
-# THEORY-862: In US law schools under the U.S. News ranking, administrators and faculty reported, and public sources corroborated, that schools changed what they did in order to move their rank: they moved money toward the ranking's inputs, redefined admissions and career-services work around its indicators, and gamed its figures, so the ranking altered the things it measured
+# THEORY-862: Law schools changed to move their U.S. News rank
 
 ## Source
 

@@ -19,7 +19,11 @@ promote_when: >-
   if its correlation with distress disappears once neuroticism or item
   overlap is controlled. More cross-sectional AAQ correlations, more ACT
   outcome trials, or a larger effect size in either would not settle it.
-title: 'Psychological inflexibility, in which verbal relations give private events aversive functions and make experiential avoidance a general strategy, is a transdiagnostic process in psychopathology'
+title: 'Psychological inflexibility is transdiagnostic'
+statement: >-
+  Psychological inflexibility, in which verbal relations give private events
+  aversive functions and make experiential avoidance a general strategy, is
+  a transdiagnostic process in psychopathology
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -52,7 +56,7 @@ corroborates:
 <!-- inactive-ok-file: LIT-543 LIT-551 LIT-549 — Unavailable; the 2024 meta-analysis, the 1996 avoidance paper and the RFT book, named as unread sources of the model or tests of it, none leaned on -->
 <!-- inactive-ok-file: THEORY-058 THEORY-048 THEORY-044 — Proposed; the loop account, the implementation account and the account of the self, named as neighbours -->
 
-# THEORY-050: Psychological inflexibility, in which verbal relations give private events aversive functions and make experiential avoidance a general strategy, is a transdiagnostic process in psychopathology
+# THEORY-050: Psychological inflexibility is transdiagnostic
 
 ## Source
 

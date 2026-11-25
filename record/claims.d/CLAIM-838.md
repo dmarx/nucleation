@@ -3,7 +3,15 @@ number: 838
 status: Proposed
 formerly:
 - CLAIM-tmpqqngq
-title: 'On the high-dimensional unit sphere a directional bias of strength κ acts at three scales: of order one it is negligible, of order √D it shifts each cosine by order-one standard deviations and changes the occupancy of a cone holding a fixed share of random directions, and of order D it is needed for an order-one cosine or a cone of fixed angle; so discrimination can change long before visible clustering, and occupancy curves that collapse under κ/√D or κ/D are explained by geometry alone'
+title: 'Directional bias acts at three scales'
+statement: >-
+  On the high-dimensional unit sphere a directional bias of strength κ acts
+  at three scales: of order one it is negligible, of order √D it shifts each
+  cosine by order-one standard deviations and changes the occupancy of a
+  cone holding a fixed share of random directions, and of order D it is
+  needed for an order-one cosine or a cone of fixed angle; so discrimination
+  can change long before visible clustering, and occupancy curves that
+  collapse under κ/√D or κ/D are explained by geometry alone
 version: 1
 role: thesis
 warrant: demonstrated
@@ -45,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-153 CLAIM-827 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2188 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-838: On the high-dimensional unit sphere a directional bias of strength κ acts at three scales: of order one it is negligible, of order √D it shifts each cosine by order-one standard deviations and changes the occupancy of a cone holding a fixed share of random directions, and of order D it is needed for an order-one cosine or a cone of fixed angle; so discrimination can change long before visible clustering, and occupancy curves that collapse under κ/√D or κ/D are explained by geometry alone
+# CLAIM-838: Directional bias acts at three scales
 
 ## The claim
 

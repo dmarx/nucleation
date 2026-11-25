@@ -13,7 +13,14 @@ promote_when: >-
   and needed, under the eventful description. What cannot settle it:
   examples in which continuity of action is redescribed as transduction,
   since any change can be.
-title: 'Communication can be treated as transduction, the continuity of an action through processes that it transforms, rather than as exchange between parties; meaning is then the contribution an action makes, in retrospect, to a joint individuation, coexisting meanings mark concurrent individuations, and the problem of scaling agency from individual to collective is claimed to dissolve'
+title: 'Communication is transduction, not exchange'
+statement: >-
+  Communication can be treated as transduction, the continuity of an action
+  through processes that it transforms, rather than as exchange between
+  parties; meaning is then the contribution an action makes, in retrospect,
+  to a joint individuation, coexisting meanings mark concurrent
+  individuations, and the problem of scaling agency from individual to
+  collective is claimed to dissolve
 version: 1
 tags:
 - social-ontology
@@ -33,7 +40,7 @@ summary: >-
   vocabulary and its weakness as a theory.
 ---
 
-# THEORY-1278: Communication can be treated as transduction, the continuity of an action through processes that it transforms, rather than as exchange between parties; meaning is then the contribution an action makes, in retrospect, to a joint individuation, coexisting meanings mark concurrent individuations, and the problem of scaling agency from individual to collective is claimed to dissolve
+# THEORY-1278: Communication is transduction, not exchange
 
 ## Source
 

@@ -8,7 +8,16 @@ promote_when: >-
   template with several near-degenerate folds, reproduces a shift in the
   annealed distribution of those folds under staple modifications that
   leave the folds' relative stabilities approximately unchanged.
-title: 'Dunn and colleagues show that a DNA origami template with several approximately degenerate well-folded shapes can be annealed to different distributions of those shapes by changing only which staples stabilize intermediates: weakening the cooperative long-range seam staples shifts the products strongly toward the fold that short-range staples favour, and strengthening short-range staples suppresses the fold in which one of them must bridge long range, while in their kinetic model strong early seam contacts trap about half of folding runs'
+title: 'Staple choice steers degenerate origami folds'
+statement: >-
+  Dunn and colleagues show that a DNA origami template with several
+  approximately degenerate well-folded shapes can be annealed to different
+  distributions of those shapes by changing only which staples stabilize
+  intermediates: weakening the cooperative long-range seam staples shifts
+  the products strongly toward the fold that short-range staples favour, and
+  strengthening short-range staples suppresses the fold in which one of them
+  must bridge long range, while in their kinetic model strong early seam
+  contacts trap about half of folding runs
 version: 1
 tags:
 - natural-sciences
@@ -26,7 +35,7 @@ summary: >-
   model is not thermodynamically self-consistent.
 ---
 
-# THEORY-1439: Dunn and colleagues show that a DNA origami template with several approximately degenerate well-folded shapes can be annealed to different distributions of those shapes by changing only which staples stabilize intermediates: weakening the cooperative long-range seam staples shifts the products strongly toward the fold that short-range staples favour, and strengthening short-range staples suppresses the fold in which one of them must bridge long range, while in their kinetic model strong early seam contacts trap about half of folding runs
+# THEORY-1439: Staple choice steers degenerate origami folds
 
 ## Source
 

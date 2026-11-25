@@ -3,7 +3,14 @@ number: 1328
 status: Proposed
 formerly:
 - CLAIM-tmpuleno
-title: 'Corrective policies each adequate to its own process can compose into a feedback loop that makes the demands they serve jointly unrealizable, as retries do under overload and as reciprocal escalation may among political actors, so the remedy is a relation that regulates when pursuit is appropriate, such as a retry budget or backpressure that a downstream process has standing to exert, not more effective local pursuit'
+title: 'Adequate correctives can compose into a trap'
+statement: >-
+  Corrective policies each adequate to its own process can compose into a
+  feedback loop that makes the demands they serve jointly unrealizable, as
+  retries do under overload and as reciprocal escalation may among political
+  actors, so the remedy is a relation that regulates when pursuit is
+  appropriate, such as a retry budget or backpressure that a downstream
+  process has standing to exert, not more effective local pursuit
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +50,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-3204 — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
-# CLAIM-1328: Corrective policies each adequate to its own process can compose into a feedback loop that makes the demands they serve jointly unrealizable, as retries do under overload and as reciprocal escalation may among political actors, so the remedy is a relation that regulates when pursuit is appropriate, such as a retry budget or backpressure that a downstream process has standing to exert, not more effective local pursuit
+# CLAIM-1328: Adequate correctives can compose into a trap
 
 ## The claim
 

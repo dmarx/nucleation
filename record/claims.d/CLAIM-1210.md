@@ -3,7 +3,11 @@ number: 1210
 status: Proposed
 formerly:
 - CLAIM-tmp0d1fq
-title: 'Contracts include implicit ones: an unspoken understanding can form as expectations and assumptions built on consistently observed behaviour evolve into dependencies, with no agreement ever made'
+title: 'Implicit contracts form without agreement'
+statement: >-
+  Contracts include implicit ones: an unspoken understanding can form as
+  expectations and assumptions built on consistently observed behaviour
+  evolve into dependencies, with no agreement ever made
 version: 1
 role: thesis
 warrant: interpretive
@@ -46,7 +50,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1216 CLAIM-1219 CLAIM-1212 CLAIM-603 CLAIM-728 LIT-3198 LIT-3259 LIT-473 — Proposed, Deferred or Unavailable; filed with this from U16–U19, the held claims it sits beside, and the works registered from A20 or held unread -->
 
-# CLAIM-1210: Contracts include implicit ones: an unspoken understanding can form as expectations and assumptions built on consistently observed behaviour evolve into dependencies, with no agreement ever made
+# CLAIM-1210: Implicit contracts form without agreement
 
 ## The claim
 

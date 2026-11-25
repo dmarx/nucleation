@@ -17,7 +17,11 @@ promote_when: >-
   does. Further collapses of SRHM learning curves at other s, L or s0
   cannot settle it, because in that model displaced and synonymous
   variants share their parent's statistics by construction.
-title: 'On sparse hierarchical data, deep networks become insensitive to swapping synonymous parts and to small displacements of informative features at the training-set size at which they learn the task'
+title: 'Deep nets gain synonym invariance as they learn'
+statement: >-
+  On sparse hierarchical data, deep networks become insensitive to swapping
+  synonymous parts and to small displacements of informative features at the
+  training-set size at which they learn the task
 version: 2
 history:
 - version: 2
@@ -54,7 +58,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-186 — Proposed or open; cited as the account this one extends and those it is set beside -->
 
-# THEORY-200: On sparse hierarchical data, deep networks become insensitive to swapping synonymous parts and to small displacements of informative features at the training-set size at which they learn the task
+# THEORY-200: Deep nets gain synonym invariance as they learn
 
 ## Source
 

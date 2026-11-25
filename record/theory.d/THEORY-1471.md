@@ -3,7 +3,16 @@ number: 1471
 status: Active
 formerly:
 - THEORY-tmp7qas0
-title: 'Banerjee, Hanna, Kreindler and Olken find, re-analysing seven randomized evaluations of government-run cash transfer programs in six countries, no systematic effect of the transfers on whether adults work or how many hours they work, for men or for women: pooled, a transfer worth 13.6% of household consumption changes participation by −0.4 points (90% interval −2.3 to +1.4) and weekly hours by about −5 minutes (−1.7 to +1.4 hours), ruling out moderate reductions for men while leaving a wide range for women'
+title: 'Pooled trials show no cash-transfer work effect'
+statement: >-
+  Banerjee, Hanna, Kreindler and Olken find, re-analysing seven randomized
+  evaluations of government-run cash transfer programs in six countries, no
+  systematic effect of the transfers on whether adults work or how many
+  hours they work, for men or for women: pooled, a transfer worth 13.6% of
+  household consumption changes participation by −0.4 points (90% interval
+  −2.3 to +1.4) and weekly hours by about −5 minutes (−1.7 to +1.4 hours),
+  ruling out moderate reductions for men while leaving a wide range for
+  women
 version: 4
 history:
 - version: 2
@@ -55,7 +64,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of Banerjee, Hanna, Kreindler and Olken (2017) as open -->
 
-# THEORY-1471: Banerjee, Hanna, Kreindler and Olken find, re-analysing seven randomized evaluations of government-run cash transfer programs in six countries, no systematic effect of the transfers on whether adults work or how many hours they work, for men or for women: pooled, a transfer worth 13.6% of household consumption changes participation by −0.4 points (90% interval −2.3 to +1.4) and weekly hours by about −5 minutes (−1.7 to +1.4 hours), ruling out moderate reductions for men while leaving a wide range for women
+# THEORY-1471: Pooled trials show no cash-transfer work effect
 
 ## Source
 

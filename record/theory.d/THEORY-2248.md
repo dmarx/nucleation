@@ -9,7 +9,14 @@ promote_when: >-
   differing by winding number), and the Braess example of §IV.D is
   reproduced numerically, a raised capacity on one edge removing the
   locked state.
-title: 'Manik, Timme and Witthaut show that the phase-locked states of Kuramoto and power-grid oscillator networks are the conserved edge flows that also meet the cycle condition, phase differences around every cycle summing to 2π times an integer, so locked states differing by cycle flows coexist, a ring of four or fewer nodes has only one stable such state, and raising one edge''s capacity can destroy phase locking'
+title: 'Kuramoto locked states are cycle-flow solutions'
+statement: >-
+  Manik, Timme and Witthaut show that the phase-locked states of Kuramoto
+  and power-grid oscillator networks are the conserved edge flows that also
+  meet the cycle condition, phase differences around every cycle summing to
+  2π times an integer, so locked states differing by cycle flows coexist, a
+  ring of four or fewer nodes has only one stable such state, and raising
+  one edge's capacity can destroy phase locking
 version: 1
 tags:
 - network-science
@@ -29,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2247 — Proposed; filed by LEAD-023 -->
 
-# THEORY-2248: Manik, Timme and Witthaut show that the phase-locked states of Kuramoto and power-grid oscillator networks are the conserved edge flows that also meet the cycle condition, phase differences around every cycle summing to 2π times an integer, so locked states differing by cycle flows coexist, a ring of four or fewer nodes has only one stable such state, and raising one edge's capacity can destroy phase locking
+# THEORY-2248: Kuramoto locked states are cycle-flow solutions
 
 ## Source
 

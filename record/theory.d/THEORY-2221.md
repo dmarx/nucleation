@@ -3,7 +3,13 @@ number: 2221
 status: Proposed
 formerly:
 - THEORY-tmpxypfa
-title: 'Bich, Mossio, Ruiz-Mirazo and Moreno (2016) define biological regulation as second-order control by a subsystem the organism produces but which runs at its own rate and stoichiometry, is triggered by perturbations and switches the constitutive regime between viable states; feedback, network robustness and homeostasis belong instead to the constitutive regime'
+title: 'Regulation is second-order control'
+statement: >-
+  Bich, Mossio, Ruiz-Mirazo and Moreno (2016) define biological regulation
+  as second-order control by a subsystem the organism produces but which
+  runs at its own rate and stoichiometry, is triggered by perturbations and
+  switches the constitutive regime between viable states; feedback, network
+  robustness and homeostasis belong instead to the constitutive regime
 version: 1
 source:
 - LIT-3087
@@ -28,7 +34,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-536 — Unfetched; the book this reading stands in for, in part -->
 <!-- inactive-ok-file: THEORY-072 — Proposed; the account this one bears on -->
 
-# THEORY-2221: Bich, Mossio, Ruiz-Mirazo and Moreno (2016) define biological regulation as second-order control by a subsystem the organism produces but which runs at its own rate and stoichiometry, is triggered by perturbations and switches the constitutive regime between viable states; feedback, network robustness and homeostasis belong instead to the constitutive regime
+# THEORY-2221: Regulation is second-order control
 
 ## The account
 

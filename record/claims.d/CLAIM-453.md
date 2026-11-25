@@ -3,7 +3,14 @@ number: 453
 status: Active
 formerly:
 - CLAIM-tmpfd9lk
-title: 'A population of perspectives, each advocating one of two interpretations, makes its collective choice by drift diffusion when the coordinate the decision is read from integrates independent evidence with no net leak or self-reinforcement and commitment is a bound on that coordinate; two interpretations make the reduction one-dimensional, but they do not by themselves give it'
+title: 'Collective choice by drift diffusion'
+statement: >-
+  A population of perspectives, each advocating one of two interpretations,
+  makes its collective choice by drift diffusion when the coordinate the
+  decision is read from integrates independent evidence with no net leak or
+  self-reinforcement and commitment is a bound on that coordinate; two
+  interpretations make the reduction one-dimensional, but they do not by
+  themselves give it
 version: 2
 history:
 - version: 1
@@ -62,7 +69,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-262 — Proposed; the owner's earlier statement this one corroborates in a construction, nothing here rests on it -->
 
-# CLAIM-453: A population of perspectives, each advocating one of two interpretations, makes its collective choice by drift diffusion when the coordinate the decision is read from integrates independent evidence with no net leak or self-reinforcement and commitment is a bound on that coordinate; two interpretations make the reduction one-dimensional, but they do not by themselves give it
+# CLAIM-453: Collective choice by drift diffusion
 
 ## The claim
 

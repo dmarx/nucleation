@@ -3,7 +3,11 @@ number: 256
 status: Active
 formerly:
 - CLAIM-tmpwvljf
-title: 'D_obs sums over source contexts only, so a target context outside the image of τ appears in no term: a rendering that adds a relation pays nothing, and a change of cover registers only as loss'
+title: 'D_obs charges nothing for added relations'
+statement: >-
+  D_obs sums over source contexts only, so a target context outside the
+  image of τ appears in no term: a rendering that adds a relation pays
+  nothing, and a change of cover registers only as loss
 version: 1
 role: granted
 warrant: demonstrated
@@ -34,7 +38,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-076 CLAIM-087 CLAIM-128 CLAIM-034 — Proposed; the claims on added relations, the profile and adaptive translation, cited as open -->
 
-# CLAIM-256: D_obs sums over source contexts only, so a target context outside the image of τ appears in no term: a rendering that adds a relation pays nothing, and a change of cover registers only as loss
+# CLAIM-256: D_obs charges nothing for added relations
 
 ## The objection
 

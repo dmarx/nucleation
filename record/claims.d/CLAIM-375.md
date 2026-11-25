@@ -3,7 +3,13 @@ number: 375
 status: Active
 formerly:
 - CLAIM-tmpso62d
-title: 'Under one-hop allocation within an epoch, an operator that grants influence to an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the grant scheme hold together'
+title: 'Granting influence to allies pays'
+statement: >-
+  Under one-hop allocation within an epoch, an operator that grants
+  influence to an ally whose policy is nearer its own than the collective
+  decision is raises how far its preferred policy is realized while its own
+  authority stays fixed, so the two conditions of the grant scheme hold
+  together
 version: 4
 history:
 - version: 1
@@ -82,7 +88,7 @@ complements:
 <!-- ref::uses-file: TERM-101 — the grants E_kj of the title and the one-hop rule, conferral through a maintained grant relation, are TERM-101's grant -->
 <!-- ref::uses-file: TERM-103 — a grant's effect on the ally's authority, Δ = b_i δ added to I_j and nothing else, is conferral in TERM-103's sense, of which the grant is the case -->
 
-# CLAIM-375: Under one-hop allocation within an epoch, an operator that grants influence to an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the grant scheme hold together
+# CLAIM-375: Granting influence to allies pays
 
 ## The claim
 

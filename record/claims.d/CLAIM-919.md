@@ -3,7 +3,15 @@ number: 919
 status: Proposed
 formerly:
 - CLAIM-tmp1jz5w
-title: 'In a population of adaptive operators whose training follows influence, whether a rare-context specialist that loses its influence regains it is decided by whether spare capacity can take its niche in the meantime, not by whether it keeps its competence: with spare operators its niche is refilled and it stays shut out even with its competence intact, and without them nothing refills its niche and it returns even with its competence mostly lost'
+title: 'Spare capacity, not competence, decides return'
+statement: >-
+  In a population of adaptive operators whose training follows influence,
+  whether a rare-context specialist that loses its influence regains it is
+  decided by whether spare capacity can take its niche in the meantime, not
+  by whether it keeps its competence: with spare operators its niche is
+  refilled and it stays shut out even with its competence intact, and
+  without them nothing refills its niche and it returns even with its
+  competence mostly lost
 version: 1
 history:
 - version: 1
@@ -58,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-341 — new, filed with this claim -->
 <!-- inactive-ok-file: CLAIM-875 — Proposed, filed 2026-11-22 by LEAD-065, cited for comparison; nothing here rests on it -->
 
-# CLAIM-919: In a population of adaptive operators whose training follows influence, whether a rare-context specialist that loses its influence regains it is decided by whether spare capacity can take its niche in the meantime, not by whether it keeps its competence: with spare operators its niche is refilled and it stays shut out even with its competence intact, and without them nothing refills its niche and it returns even with its competence mostly lost
+# CLAIM-919: Spare capacity, not competence, decides return
 
 ## The claim
 

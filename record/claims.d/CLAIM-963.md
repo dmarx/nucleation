@@ -3,7 +3,13 @@ number: 963
 status: Proposed
 formerly:
 - CLAIM-tmpm2589
-title: 'At a fixed level and target the self-consistent factorizations into agents form a nested hierarchy of coarsenings of a unique finest partition: two factorizations can never disagree on co-grouping strongly-coupled regimes, so the only non-uniqueness is grain, which the admission test alone does not fix'
+title: 'Agent factorizations differ only in grain'
+statement: >-
+  At a fixed level and target the self-consistent factorizations into agents
+  form a nested hierarchy of coarsenings of a unique finest partition: two
+  factorizations can never disagree on co-grouping strongly-coupled regimes,
+  so the only non-uniqueness is grain, which the admission test alone does
+  not fix
 version: 1
 role: thesis
 warrant: demonstrated
@@ -54,7 +60,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-157 CLAIM-170 CLAIM-174 CLAIM-168 — Proposed; the admission test, the owner's thesis and the objections this claim settles a part of, open -->
 <!-- inactive-ok-file: TERM-156 CASE-369 — new in this contribution; the distinction and the study this claim rests on -->
 
-# CLAIM-963: At a fixed level and target the self-consistent factorizations into agents form a nested hierarchy of coarsenings of a unique finest partition: two factorizations can never disagree on co-grouping strongly-coupled regimes, so the only non-uniqueness is grain, which the admission test alone does not fix
+# CLAIM-963: Agent factorizations differ only in grain
 
 ## The claim
 

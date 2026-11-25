@@ -3,7 +3,14 @@ number: 866
 status: Proposed
 formerly:
 - CLAIM-tmp9jo1z
-title: 'An alternative: another party''s standing channel into an agent''s governing relations is itself a relation of its will-organization, so a manipulation that keeps its channel, as Pereboom''s first case does, differs from its unmanipulated twin in present structure, testable by an intervention on the channel or by what the channel reaches, and only a manipulation that withdraws its channel is invisible to it'
+title: 'A kept channel is part of will-organization'
+statement: >-
+  An alternative: another party's standing channel into an agent's governing
+  relations is itself a relation of its will-organization, so a manipulation
+  that keeps its channel, as Pereboom's first case does, differs from its
+  unmanipulated twin in present structure, testable by an intervention on
+  the channel or by what the channel reaches, and only a manipulation that
+  withdraws its channel is invisible to it
 version: 1
 role: thesis
 warrant: interpretive
@@ -55,7 +62,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-868 CLAIM-867 CASE-310 — new; filed together for LEAD-038 -->
 <!-- inactive-ok-file: CLAIM-545 THEORY-328 — Proposed; the domination clause this alternative reads into the term, and Pereboom's cases as filed from two surveys -->
 
-# CLAIM-866: An alternative: another party's standing channel into an agent's governing relations is itself a relation of its will-organization, so a manipulation that keeps its channel, as Pereboom's first case does, differs from its unmanipulated twin in present structure, testable by an intervention on the channel or by what the channel reaches, and only a manipulation that withdraws its channel is invisible to it
+# CLAIM-866: A kept channel is part of will-organization
 
 ## The claim
 

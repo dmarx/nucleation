@@ -3,7 +3,19 @@ number: 742
 status: Active
 formerly:
 - THEORY-tmp1bqec
-title: 'For a Boltzmann distribution linear in its couplings, observed through any coarse-graining map, the Fisher information the coarse data lose about the bare couplings is the expected conditional covariance of the energy operators given the coarse state; when the renormalized Hamiltonian stays in the family, the parameter map is linear and the additive constant of the step is analytic, that loss is the constant''s Hessian, so the singular part of the metric passes unchanged to the coarse data. In the hopping model of diffusion at its Gaussian fixed point, keeping every n-th position of a trajectory of fixed duration multiplies the metric by n^(1−μ) in the μ-th Hermite coordinate: the drift''s information is kept exactly, the variance''s falls as 1/n, and higher shape parameters'' faster'
+title: 'Coarse-graining keeps the metric''s singular part'
+statement: >-
+  For a Boltzmann distribution linear in its couplings, observed through any
+  coarse-graining map, the Fisher information the coarse data lose about the
+  bare couplings is the expected conditional covariance of the energy
+  operators given the coarse state; when the renormalized Hamiltonian stays
+  in the family, the parameter map is linear and the additive constant of
+  the step is analytic, that loss is the constant's Hessian, so the singular
+  part of the metric passes unchanged to the coarse data. In the hopping
+  model of diffusion at its Gaussian fixed point, keeping every n-th
+  position of a trajectory of fixed duration multiplies the metric by
+  n^(1−μ) in the μ-th Hermite coordinate: the drift's information is kept
+  exactly, the variance's falls as 1/n, and higher shape parameters' faster
 version: 3
 history:
 - version: 1
@@ -54,7 +66,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-777 — Proposed; the numerics behind Eq. 21, cited for what they are -->
 <!-- inactive-ok-file: THEORY-2167 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
 
-# THEORY-742: For a Boltzmann distribution linear in its couplings, observed through any coarse-graining map, the Fisher information the coarse data lose about the bare couplings is the expected conditional covariance of the energy operators given the coarse state; when the renormalized Hamiltonian stays in the family, the parameter map is linear and the additive constant of the step is analytic, that loss is the constant's Hessian, so the singular part of the metric passes unchanged to the coarse data. In the hopping model of diffusion at its Gaussian fixed point, keeping every n-th position of a trajectory of fixed duration multiplies the metric by n^(1−μ) in the μ-th Hermite coordinate: the drift's information is kept exactly, the variance's falls as 1/n, and higher shape parameters' faster
+# THEORY-742: Coarse-graining keeps the metric's singular part
 
 ## Source
 

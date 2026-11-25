@@ -10,7 +10,12 @@ promote_when: >-
   gender composition or in fear or harm, and that the type a couple falls
   into cannot be read off a count of its violent acts. Not satisfied by a
   study that only counts acts, nor by one that assumes the types.
-title: 'Johnson holds that intimate partner violence divides by its control context into situational couple violence, intimate terrorism and violent resistance, and that agency data and general surveys disagree about gender because they sample different types'
+title: 'Partner violence splits into three control types'
+statement: >-
+  Johnson holds that intimate partner violence divides by its control
+  context into situational couple violence, intimate terrorism and violent
+  resistance, and that agency data and general surveys disagree about gender
+  because they sample different types
 version: 1
 tags:
 - social-science
@@ -31,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2751 LIT-2715 — Unfetched or Unavailable; the works this stands in for -->
 <!-- inactive-ok-file: CLAIM-709 — new or Proposed; the reading and the claim it corroborates -->
 
-# THEORY-1961: Johnson holds that intimate partner violence divides by its control context into situational couple violence, intimate terrorism and violent resistance, and that agency data and general surveys disagree about gender because they sample different types
+# THEORY-1961: Partner violence splits into three control types
 
 Johnson, interviewed by Ooms (2006), [LIT-2775](../literature.d/LIT-2775.md).
 

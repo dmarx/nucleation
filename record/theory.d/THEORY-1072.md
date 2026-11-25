@@ -3,7 +3,15 @@ number: 1072
 status: Active
 formerly:
 - THEORY-tmpgts50
-title: 'In Simon''s analysis, whether a problem is well structured is a relation between the problem and a bounded solver, judged by practicable rather than in-principle computability, so it comes in degrees and has no sharp boundary; on that standard even theorem proving and chess fail some of the conditions, chess is well structured in the small and ill structured in the large, and problems presented by the world become well structured only in being prepared for a solver'
+title: 'Well-structuredness is solver-relative and graded'
+statement: >-
+  In Simon's analysis, whether a problem is well structured is a relation
+  between the problem and a bounded solver, judged by practicable rather
+  than in-principle computability, so it comes in degrees and has no sharp
+  boundary; on that standard even theorem proving and chess fail some of the
+  conditions, chess is well structured in the small and ill structured in
+  the large, and problems presented by the world become well structured only
+  in being prepared for a solver
 version: 1
 tags:
 - cognition
@@ -23,7 +31,7 @@ corroborates:
 - CLAIM-475
 ---
 
-# THEORY-1072: In Simon's analysis, whether a problem is well structured is a relation between the problem and a bounded solver, judged by practicable rather than in-principle computability, so it comes in degrees and has no sharp boundary; on that standard even theorem proving and chess fail some of the conditions, chess is well structured in the small and ill structured in the large, and problems presented by the world become well structured only in being prepared for a solver
+# THEORY-1072: Well-structuredness is solver-relative and graded
 
 ## Source
 

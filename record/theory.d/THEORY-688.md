@@ -3,7 +3,13 @@ number: 688
 status: Active
 formerly:
 - THEORY-tmpyptg2
-title: "In an actor-critic learner that can choose temporally extended options as well as primitive actions, options that fit the task speed learning, while options with ill-placed subgoals slow it, and options that fit an earlier layout keep the agent from finding a newly opened shortcut, so hierarchy helps only with the right subroutines"
+title: 'Options help only with the right subgoals'
+statement: >-
+  In an actor-critic learner that can choose temporally extended options as
+  well as primitive actions, options that fit the task speed learning, while
+  options with ill-placed subgoals slow it, and options that fit an earlier
+  layout keep the agent from finding a newly opened shortcut, so hierarchy
+  helps only with the right subroutines
 version: 1
 tags:
 - behavioral-integration
@@ -23,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-062 THEORY-484 — Proposed; named in Connections, not leaned on -->
 
-# THEORY-688: In an actor-critic learner that can choose temporally extended options as well as primitive actions, options that fit the task speed learning, while options with ill-placed subgoals slow it, and options that fit an earlier layout keep the agent from finding a newly opened shortcut, so hierarchy helps only with the right subroutines
+# THEORY-688: Options help only with the right subgoals
 
 ## Source
 

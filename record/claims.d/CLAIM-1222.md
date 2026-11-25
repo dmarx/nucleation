@@ -3,7 +3,13 @@ number: 1222
 status: Proposed
 formerly:
 - CLAIM-tmp2kfwd
-title: 'Within an organization, being able to formulate a question, having standing to pursue it, having the resources to pursue it and being able to make its findings consequential are four separate achievements, and the entitlements that secure the last three make up an operational epistemic constitution'
+title: 'Four separate achievements of inquiry'
+statement: >-
+  Within an organization, being able to formulate a question, having
+  standing to pursue it, having the resources to pursue it and being able to
+  make its findings consequential are four separate achievements, and the
+  entitlements that secure the last three make up an operational epistemic
+  constitution
 version: 1
 role: thesis
 warrant: interpretive
@@ -41,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-723 CLAIM-996 CLAIM-1016 TERM-174 — Proposed; cited as filed or held beside this entry, whatever its standing -->
 
-# CLAIM-1222: Within an organization, being able to formulate a question, having standing to pursue it, having the resources to pursue it and being able to make its findings consequential are four separate achievements, and the entitlements that secure the last three make up an operational epistemic constitution
+# CLAIM-1222: Four separate achievements of inquiry
 
 ## The claim
 

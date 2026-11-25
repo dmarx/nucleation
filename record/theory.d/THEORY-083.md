@@ -3,7 +3,15 @@ number: 83
 status: Active
 formerly:
 - THEORY-tmpi6wt0
-title: 'In Papyan, Han and Donoho''s runs of VGG, ResNet and DenseNet trained with cross-entropy on seven balanced datasets without augmentation, training past zero error shrinks last-layer within-class variability against between-class variability, and moves the centred class means and the classifier toward a common simplex equiangular tight frame and the decision toward nearest class mean, nearly to completion on the four easier datasets and only partly on ImageNet'
+title: 'Neural collapse forms, only partly on ImageNet'
+statement: >-
+  In Papyan, Han and Donoho's runs of VGG, ResNet and DenseNet trained with
+  cross-entropy on seven balanced datasets without augmentation, training
+  past zero error shrinks last-layer within-class variability against
+  between-class variability, and moves the centred class means and the
+  classifier toward a common simplex equiangular tight frame and the
+  decision toward nearest class mean, nearly to completion on the four
+  easier datasets and only partly on ImageNet
 version: 4
 history:
 - version: 2
@@ -73,7 +81,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-078 THEORY-039 — Proposed; named in Connections, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-286 — Proposed; derivations in free-features models, cited for the limits they set on this account, not leaned on -->
 
-# THEORY-083: In Papyan, Han and Donoho's runs of VGG, ResNet and DenseNet trained with cross-entropy on seven balanced datasets without augmentation, training past zero error shrinks last-layer within-class variability against between-class variability, and moves the centred class means and the classifier toward a common simplex equiangular tight frame and the decision toward nearest class mean, nearly to completion on the four easier datasets and only partly on ImageNet
+# THEORY-083: Neural collapse forms, only partly on ImageNet
 
 ## Source
 

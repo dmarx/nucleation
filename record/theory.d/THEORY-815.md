@@ -27,8 +27,13 @@ promote_when: 'A proof that greedy layered search on the graph HNSW actually bui
 
 # The claim. Repeat it as the body's `# THEORY-815:` heading; the lint checks
 # that the two agree.
-title: "Layering a navigable small-world graph on nested random subsets of the data, with links separated by length scale and each layer's degree capped, makes greedy nearest-neighbour search cost grow logarithmically with the number of items on data of low intrinsic dimension, where the single-layer graph's cost grows polylogarithmically"
-
+title: 'Hierarchical NSW gives logarithmic search cost'
+statement: >-
+  Layering a navigable small-world graph on nested random subsets of the
+  data, with links separated by length scale and each layer's degree capped,
+  makes greedy nearest-neighbour search cost grow logarithmically with the
+  number of items on data of low intrinsic dimension, where the single-layer
+  graph's cost grows polylogarithmically
 version: 1
 
 # One or more topics from luria.yaml, primary first — the same table the
@@ -61,7 +66,7 @@ answers:
 ---
 
 
-# THEORY-815: Layering a navigable small-world graph on nested random subsets of the data, with links separated by length scale and each layer's degree capped, makes greedy nearest-neighbour search cost grow logarithmically with the number of items on data of low intrinsic dimension, where the single-layer graph's cost grows polylogarithmically
+# THEORY-815: Hierarchical NSW gives logarithmic search cost
 
 ## Source
 

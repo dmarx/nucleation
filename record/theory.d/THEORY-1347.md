@@ -3,7 +3,15 @@ number: 1347
 status: Active
 formerly:
 - THEORY-tmpw35bj
-title: 'In Patrick, Knee, Canevello and Lonsbary''s three correlational studies, perceiving that a romantic partner fulfils one''s needs for autonomy, competence and relatedness goes with better relationship quality, with relatedness the strongest unique predictor and the partner''s fulfilment adding to one''s own; but the measure does not separate the needs, its autonomy and competence subscales correlating .96 once corrected for unreliability'
+title: 'Partner need fulfilment predicts relation quality'
+statement: >-
+  In Patrick, Knee, Canevello and Lonsbary's three correlational studies,
+  perceiving that a romantic partner fulfils one's needs for autonomy,
+  competence and relatedness goes with better relationship quality, with
+  relatedness the strongest unique predictor and the partner's fulfilment
+  adding to one's own; but the measure does not separate the needs, its
+  autonomy and competence subscales correlating .96 once corrected for
+  unreliability
 version: 2
 history:
 - version: 2
@@ -35,7 +43,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-054 — Open or Proposed; the question this bears on and a neighbour, cited as open -->
 
-# THEORY-1347: In Patrick, Knee, Canevello and Lonsbary's three correlational studies, perceiving that a romantic partner fulfils one's needs for autonomy, competence and relatedness goes with better relationship quality, with relatedness the strongest unique predictor and the partner's fulfilment adding to one's own; but the measure does not separate the needs, its autonomy and competence subscales correlating .96 once corrected for unreliability
+# THEORY-1347: Partner need fulfilment predicts relation quality
 
 ## Source
 

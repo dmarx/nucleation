@@ -3,7 +3,17 @@ number: 2167
 status: Proposed
 formerly:
 - THEORY-tmpx26x7
-title: 'Quinn, Abbott, Transtrum, Machta and Sethna call a model sloppy, and its model manifold a hyperribbon, when its Fisher eigenvalues and geodesic widths are both hierarchical, roughly evenly spaced in log over several decades; they present the ubiquity of this shape as empirical, bound it rigorously only for least-squares models smooth in their control variables, hold that it gives a low-dimensional description only where many widths fall below the precision demanded, and say that its explanations in renormalizable physics and in least-squares fitting seem completely different'
+title: 'Hyperribbon ubiquity is empirical, not proven'
+statement: >-
+  Quinn, Abbott, Transtrum, Machta and Sethna call a model sloppy, and its
+  model manifold a hyperribbon, when its Fisher eigenvalues and geodesic
+  widths are both hierarchical, roughly evenly spaced in log over several
+  decades; they present the ubiquity of this shape as empirical, bound it
+  rigorously only for least-squares models smooth in their control
+  variables, hold that it gives a low-dimensional description only where
+  many widths fall below the precision demanded, and say that its
+  explanations in renormalizable physics and in least-squares fitting seem
+  completely different
 promote_when: >-
   Quinn, Wilber, Townsend and Sethna 2019 (LIT-3029) is read and
   confirms that the model manifold of a least-squares model meeting the
@@ -33,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-3029 ARG-164 CLAIM-820 CLAIM-813 TERM-135 TERM-140 THEORY-777 — Proposed, Deferred or new; the reading, the work it restates and the entries it bears on -->
 
-# THEORY-2167: Quinn, Abbott, Transtrum, Machta and Sethna call a model sloppy, and its model manifold a hyperribbon, when its Fisher eigenvalues and geodesic widths are both hierarchical, roughly evenly spaced in log over several decades; they present the ubiquity of this shape as empirical, bound it rigorously only for least-squares models smooth in their control variables, hold that it gives a low-dimensional description only where many widths fall below the precision demanded, and say that its explanations in renormalizable physics and in least-squares fitting seem completely different
+# THEORY-2167: Hyperribbon ubiquity is empirical, not proven
 
 ## Source
 

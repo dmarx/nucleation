@@ -3,7 +3,12 @@ number: 286
 status: Proposed
 formerly:
 - CLAIM-tmpzi3da
-title: 'Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another''s influence, with trust, specialization and higher-level agency arising from its history and not imposed'
+title: 'Habit to insight as regimes of one organization'
+statement: >-
+  Habit, akrasia, rumination, rigidity and insight can be modelled as
+  regimes of one organization, in which processes transform shared meaning
+  and allocate one another's influence, with trust, specialization and
+  higher-level agency arising from its history and not imposed
 version: 4
 history:
 - version: 2
@@ -64,7 +69,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-446 CLAIM-447 CLAIM-465 THEORY-050 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-278 CLAIM-198 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-286: Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another's influence, with trust, specialization and higher-level agency arising from its history and not imposed
+# CLAIM-286: Habit to insight as regimes of one organization
 
 ## The claim
 

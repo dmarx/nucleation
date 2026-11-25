@@ -3,7 +3,14 @@ number: 31
 status: Proposed
 formerly:
 - SYNTHESIS-tmpqw6mz
-title: 'The readiness line is two accounts, of keeping a rare capability and judging its worth and of reaching and paying for configurations under budgets, which meet at budget rules, slack and what a reserve costs; they are closed by relations and joined by mentions, and no link between them that no part states passes the claim test; when transient support can be withdrawn, once a third part, is a line of its own'
+title: 'Readiness: two accounts meeting at budget rules'
+statement: >-
+  The readiness line is two accounts, of keeping a rare capability and
+  judging its worth and of reaching and paying for configurations under
+  budgets, which meet at budget rules, slack and what a reserve costs; they
+  are closed by relations and joined by mentions, and no link between them
+  that no part states passes the claim test; when transient support can be
+  withdrawn, once a third part, is a line of its own
 version: 3
 history:
 - version: 2
@@ -59,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-053 — Rejected; a component of SYNTHESIS-027, the inference that part rejects -->
 <!-- inactive-ok-file: SYNTHESIS-009 SYNTHESIS-010 — Superseded; the readiness line's former syntheses, returned to CLAIM-632 and CLAIM-600 -->
 
-# SYNTHESIS-031: The readiness line is two accounts, of keeping a rare capability and judging its worth and of reaching and paying for configurations under budgets, which meet at budget rules, slack and what a reserve costs; they are closed by relations and joined by mentions, and no link between them that no part states passes the claim test; when transient support can be withdrawn, once a third part, is a line of its own
+# SYNTHESIS-031: Readiness: two accounts meeting at budget rules
 
 *The account of the readiness line ("Readiness and slack", [ADR-073](../decisions.d/ADR-073.md)), over
 the accounts of its two parts ([ADR-083](../decisions.d/ADR-083.md)). It integrates every entry whose

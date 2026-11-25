@@ -3,7 +3,12 @@ number: 1323
 status: Proposed
 formerly:
 - CLAIM-tmpts8ee
-title: 'A record used to evaluate research should make legible the distinctions the evaluating decision needs and not every detail: publication count is adequate to a question about throughput and inadequate to one about contribution to knowledge'
+title: 'Evaluation needs decision-relevant distinctions'
+statement: >-
+  A record used to evaluate research should make legible the distinctions
+  the evaluating decision needs and not every detail: publication count is
+  adequate to a question about throughput and inadequate to one about
+  contribution to knowledge
 version: 2
 history:
 - version: 2
@@ -48,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1325 CLAIM-1292 — Proposed; the assistant's qualification, and the owner's many-views claim -->
 
-# CLAIM-1323: A record used to evaluate research should make legible the distinctions the evaluating decision needs and not every detail: publication count is adequate to a question about throughput and inadequate to one about contribution to knowledge
+# CLAIM-1323: Evaluation needs decision-relevant distinctions
 
 ## The claim
 

@@ -18,7 +18,14 @@ promote_when: >-
   What cannot settle it: success on a multi-hop task alone, since that is
   also explained by multi-hop supervision, or results on squared-error or
   negative-sampling losses, which the claim does not cover.
-title: "Sequence models trained only on a graph's edge bigrams store it as a global embedding geometry, not as a lookup, although the lookup is expressible, found faster and no less succinct; in a wide two-layer weight-tied model the geometry is the top Laplacian eigenspace, reached by cross-entropy training without a rank bottleneck, regularization or multi-hop supervision"
+title: 'Sequence models store graphs as geometry'
+statement: >-
+  Sequence models trained only on a graph's edge bigrams store it as a
+  global embedding geometry, not as a lookup, although the lookup is
+  expressible, found faster and no less succinct; in a wide two-layer
+  weight-tied model the geometry is the top Laplacian eigenspace, reached by
+  cross-entropy training without a rank bottleneck, regularization or
+  multi-hop supervision
 version: 1
 tags:
 - representation-learning
@@ -37,7 +44,7 @@ bears_on:
 - QUESTION-060
 ---
 
-# THEORY-274: Sequence models trained only on a graph's edge bigrams store it as a global embedding geometry, not as a lookup, although the lookup is expressible, found faster and no less succinct; in a wide two-layer weight-tied model the geometry is the top Laplacian eigenspace, reached by cross-entropy training without a rank bottleneck, regularization or multi-hop supervision
+# THEORY-274: Sequence models store graphs as geometry
 
 ## Source
 

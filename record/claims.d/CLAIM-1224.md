@@ -3,7 +3,14 @@ number: 1224
 status: Proposed
 formerly:
 - CLAIM-tmp2tzk5
-title: 'The unit of scholarly contribution is not the unit of publication: a paper is a communication artifact and a contribution a change in the state of knowledge, and corrections, narrowings, newly found dependencies, integrations, maintenance and retirements become recognizable as contributions once claims and their revisions have identities apart from the manuscripts that present them'
+title: 'Contribution is not the unit of publication'
+statement: >-
+  The unit of scholarly contribution is not the unit of publication: a paper
+  is a communication artifact and a contribution a change in the state of
+  knowledge, and corrections, narrowings, newly found dependencies,
+  integrations, maintenance and retirements become recognizable as
+  contributions once claims and their revisions have identities apart from
+  the manuscripts that present them
 version: 3
 history:
 - version: 2
@@ -58,7 +65,7 @@ works:
 <!-- inactive-ok-file: CLAIM-1273 CLAIM-1223 CLAIM-1229 CLAIM-004 CLAIM-668 CLAIM-617 — Proposed; the claims it complements or defers to, and neighbours cited as open -->
 <!-- inactive-ok-file: CLAIM-006 — Superseded; cited as the record's own instance of a retired claim -->
 
-# CLAIM-1224: The unit of scholarly contribution is not the unit of publication: a paper is a communication artifact and a contribution a change in the state of knowledge, and corrections, narrowings, newly found dependencies, integrations, maintenance and retirements become recognizable as contributions once claims and their revisions have identities apart from the manuscripts that present them
+# CLAIM-1224: Contribution is not the unit of publication
 
 ## The claim
 

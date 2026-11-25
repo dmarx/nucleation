@@ -11,7 +11,16 @@ promote_when: >-
   or cryo-EM, say), reproduces both the agreement with the rigid-body
   motion path and strand-driven closing with displacement-driven reopening
   on a minute timescale, with a large majority of mechanisms switched.
-title: 'Marras, Zhou, Su and Castro show that DNA origami joints made of stiff double-stranded bundles connected only by single-stranded scaffold restrict thermal motion to one designed degree of freedom whose range and stiffness are set by connection length, that a crank–slider and a Bennett linkage assembled from such joints follow their rigid-body motion paths, and that the Bennett linkage, rarely found unaided in its higher-energy compacted state, is held there by added bridging strands and released by toehold-mediated strand displacement, each move taking about a minute'
+title: 'DNA origami joints give one designed DOF'
+statement: >-
+  Marras, Zhou, Su and Castro show that DNA origami joints made of stiff
+  double-stranded bundles connected only by single-stranded scaffold
+  restrict thermal motion to one designed degree of freedom whose range and
+  stiffness are set by connection length, that a crank–slider and a Bennett
+  linkage assembled from such joints follow their rigid-body motion paths,
+  and that the Bennett linkage, rarely found unaided in its higher-energy
+  compacted state, is held there by added bridging strands and released by
+  toehold-mediated strand displacement, each move taking about a minute
 version: 1
 tags:
 - natural-sciences
@@ -30,7 +39,7 @@ summary: >-
   grid fractions are those in solution.
 ---
 
-# THEORY-1438: Marras, Zhou, Su and Castro show that DNA origami joints made of stiff double-stranded bundles connected only by single-stranded scaffold restrict thermal motion to one designed degree of freedom whose range and stiffness are set by connection length, that a crank–slider and a Bennett linkage assembled from such joints follow their rigid-body motion paths, and that the Bennett linkage, rarely found unaided in its higher-energy compacted state, is held there by added bridging strands and released by toehold-mediated strand displacement, each move taking about a minute
+# THEORY-1438: DNA origami joints give one designed DOF
 
 ## Source
 

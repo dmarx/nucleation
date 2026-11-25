@@ -34,7 +34,14 @@ complements:
 - CLAIM-736
 grounds:
 - THEORY-857
-title: "Making a process legible to another lowers that other's cost of discriminating among the process's circumstances and intervening on it, whatever the purpose of the intervention, so an investment in observability cheapens coercion as well as cooperation, its savings can go to different parties, and an authority unchanged in law grows more consequential when monitoring cheapens its exercise"
+title: 'Legibility cheapens coercion too'
+statement: >-
+  Making a process legible to another lowers that other's cost of
+  discriminating among the process's circumstances and intervening on it,
+  whatever the purpose of the intervention, so an investment in
+  observability cheapens coercion as well as cooperation, its savings can go
+  to different parties, and an authority unchanged in law grows more
+  consequential when monitoring cheapens its exercise
 summary: >-
   A42 §§2–3 and 10–12 of the exchange "Memes, Contracts, and Systemic
   Normativity" (ChatGPT, 2026-11-24), answering the owner's U27 (CLAIM-
@@ -51,7 +58,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-682 CLAIM-736 THEORY-857 CLAIM-1117 LIT-3199 — Proposed or Deferred; the owner's thesis, the held parts and Carpenter, registered unread -->
 
-# CLAIM-1296: Making a process legible to another lowers that other's cost of discriminating among the process's circumstances and intervening on it, whatever the purpose of the intervention, so an investment in observability cheapens coercion as well as cooperation, its savings can go to different parties, and an authority unchanged in law grows more consequential when monitoring cheapens its exercise
+# CLAIM-1296: Legibility cheapens coercion too
 
 ## The claim
 

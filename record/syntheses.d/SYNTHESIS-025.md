@@ -3,7 +3,17 @@ number: 25
 status: Proposed
 formerly:
 - SYNTHESIS-tmp3crnp
-title: 'When a learned distinction becomes a concept is open, and a candidate term holds the record''s working answer: a concept is a reusable, consequential pattern of distinctions, distinct from what carries it, what realizes it, what it is about and its corrigibility; the owner''s question whether concepts individuate runs against the term''s clause that a concept is not a thing; and Proposed claims that rival uses can keep an expression circulating without one concept, and that concepts are individuated by transmission, bear on it, with a proposed study to tell agreement in a concept from agreement in how it is revised'
+title: 'When a distinction becomes a concept is open'
+statement: >-
+  When a learned distinction becomes a concept is open, and a candidate term
+  holds the record's working answer: a concept is a reusable, consequential
+  pattern of distinctions, distinct from what carries it, what realizes it,
+  what it is about and its corrigibility; the owner's question whether
+  concepts individuate runs against the term's clause that a concept is not
+  a thing; and Proposed claims that rival uses can keep an expression
+  circulating without one concept, and that concepts are individuated by
+  transmission, bear on it, with a proposed study to tell agreement in a
+  concept from agreement in how it is revised
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -32,7 +42,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CASE-226 CLAIM-336 CLAIM-615 CLAIM-620 CLAIM-621 TERM-098 — Proposed; components, citations and the decisions this account follows, with their standing -->
 
-# SYNTHESIS-025: When a learned distinction becomes a concept is open, and a candidate term holds the record's working answer: a concept is a reusable, consequential pattern of distinctions, distinct from what carries it, what realizes it, what it is about and its corrigibility; the owner's question whether concepts individuate runs against the term's clause that a concept is not a thing; and Proposed claims that rival uses can keep an expression circulating without one concept, and that concepts are individuated by transmission, bear on it, with a proposed study to tell agreement in a concept from agreement in how it is revised
+# SYNTHESIS-025: When a distinction becomes a concept is open
 
 *A part account of the learned-structure line ([ADR-083](../decisions.d/ADR-083.md)); the line's account is built over it and its sibling parts. Three of its six components have pragmatic-transport as their first line.*
 

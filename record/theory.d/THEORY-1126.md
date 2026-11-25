@@ -12,7 +12,14 @@ promote_when: >-
   trajectories occur. A schematic, an analogy with thermodynamics, or a
   report of noisy gene expression without the tissue-level comparison
   does not settle it.
-title: 'In animal development the organ-level outcome is reproducible while the trajectories of individual cells differ between embryos raised alike, so developmental regularity is imposed on variable cell behaviour rather than read out from a fixed sequence of cellular events (Weiss, as Nicholson reconstructs him), with invariant lineages such as that of C. elegans the conceded exception'
+title: 'Development imposes regularity on variable cells'
+statement: >-
+  In animal development the organ-level outcome is reproducible while the
+  trajectories of individual cells differ between embryos raised alike, so
+  developmental regularity is imposed on variable cell behaviour rather than
+  read out from a fixed sequence of cellular events (Weiss, as Nicholson
+  reconstructs him), with invariant lineages such as that of C. elegans the
+  conceded exception
 version: 1
 tags:
 - philosophy-of-biology
@@ -29,7 +36,7 @@ summary: >-
   the paper presents none of the evidence itself. Proposed.
 ---
 
-# THEORY-1126: In animal development the organ-level outcome is reproducible while the trajectories of individual cells differ between embryos raised alike, so developmental regularity is imposed on variable cell behaviour rather than read out from a fixed sequence of cellular events (Weiss, as Nicholson reconstructs him), with invariant lineages such as that of C. elegans the conceded exception
+# THEORY-1126: Development imposes regularity on variable cells
 
 ## Source
 

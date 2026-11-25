@@ -3,7 +3,12 @@ number: 173
 status: Rejected
 formerly:
 - CLAIM-tmpw0mrc
-title: 'The threshold criterion measures coupling strength, and coupling is not constitution: a metronome driving a musician, or a nerve driving a muscle, forms a strongly coupled block that clears the threshold without being one system'
+title: 'Coupling is not constitution'
+statement: >-
+  The threshold criterion measures coupling strength, and coupling is not
+  constitution: a metronome driving a musician, or a nerve driving a muscle,
+  forms a strongly coupled block that clears the threshold without being one
+  system
 version: 3
 history:
 - version: 2
@@ -44,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the reply that rejected this objection -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the target of this objection and the claim whose mutuality condition would answer it, open -->
 
-# CLAIM-173: The threshold criterion measures coupling strength, and coupling is not constitution: a metronome driving a musician, or a nerve driving a muscle, forms a strongly coupled block that clears the threshold without being one system
+# CLAIM-173: Coupling is not constitution
 
 ## The claim
 

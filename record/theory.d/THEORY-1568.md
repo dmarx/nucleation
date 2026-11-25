@@ -3,7 +3,14 @@ number: 1568
 status: Active
 formerly:
 - THEORY-tmp316ih
-title: 'Meyer argues that a threshold notion of harm lets a weakly person-affecting view state harms to future people despite the non-identity problem, best specified as weakly sufficientarian, and that such a view gives no reason to prefer a flourishing future to none, a gap he fills with concerns that rest on what present and past people value and an obligation owed to them'
+title: 'Threshold harm answers the non-identity problem'
+statement: >-
+  Meyer argues that a threshold notion of harm lets a weakly
+  person-affecting view state harms to future people despite the
+  non-identity problem, best specified as weakly sufficientarian, and that
+  such a view gives no reason to prefer a flourishing future to none, a gap
+  he fills with concerns that rest on what present and past people value and
+  an obligation owed to them
 version: 2
 history:
 - version: 1
@@ -33,7 +40,7 @@ bears_on:
 - QUESTION-299
 ---
 
-# THEORY-1568: Meyer argues that a threshold notion of harm lets a weakly person-affecting view state harms to future people despite the non-identity problem, best specified as weakly sufficientarian, and that such a view gives no reason to prefer a flourishing future to none, a gap he fills with concerns that rest on what present and past people value and an obligation owed to them
+# THEORY-1568: Threshold harm answers the non-identity problem
 
 ## The account
 

@@ -3,7 +3,14 @@ number: 2082
 status: Proposed
 formerly:
 - THEORY-tmpshgvo
-title: 'Opper, Morrison and Siddharth find that a small masked language model trained for a fixed step budget on the BabyLM strict-small corpora acquires grammar, as BLiMP measures it, no better under sequence-complexity curricula than under random sampling, better on transcribed speech alone than on text alone, and only marginally better under a simple-to-complex corpus order than under random sampling'
+title: 'Complexity curricula don''t help BabyLM grammar'
+statement: >-
+  Opper, Morrison and Siddharth find that a small masked language model
+  trained for a fixed step budget on the BabyLM strict-small corpora
+  acquires grammar, as BLiMP measures it, no better under
+  sequence-complexity curricula than under random sampling, better on
+  transcribed speech alone than on text alone, and only marginally better
+  under a simple-to-complex corpus order than under random sampling
 version: 1
 source:
 - LIT-2857
@@ -25,7 +32,7 @@ summary: >-
   THEORY-2079. Proposed until its promote_when is met.
 ---
 
-# THEORY-2082: Opper, Morrison and Siddharth find that a small masked language model trained for a fixed step budget on the BabyLM strict-small corpora acquires grammar, as BLiMP measures it, no better under sequence-complexity curricula than under random sampling, better on transcribed speech alone than on text alone, and only marginally better under a simple-to-complex corpus order than under random sampling
+# THEORY-2082: Complexity curricula don't help BabyLM grammar
 
 ## The account
 

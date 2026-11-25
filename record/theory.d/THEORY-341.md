@@ -3,7 +3,15 @@ number: 341
 status: Active
 formerly:
 - THEORY-tmpd0cwf
-title: "Inferring not-P from failure to prove P is a deduction only under two separate conditions: Clark shows that when every branch of the search for a proof of P ends in failure, not-P is a theorem of the completed database, and a search that does not finish licenses nothing; Reiter's closed-world assumption, adding the negation of every ground atom the database does not entail, keeps a consistent Horn database consistent and can make a disjunctive one inconsistent"
+title: 'Negation as failure deduces only in two cases'
+statement: >-
+  Inferring not-P from failure to prove P is a deduction only under two
+  separate conditions: Clark shows that when every branch of the search for
+  a proof of P ends in failure, not-P is a theorem of the completed
+  database, and a search that does not finish licenses nothing; Reiter's
+  closed-world assumption, adding the negation of every ground atom the
+  database does not entail, keeps a consistent Horn database consistent and
+  can make a disjunctive one inconsistent
 version: 1
 tags:
 - logic
@@ -27,7 +35,7 @@ summary: >-
   time.
 ---
 
-# THEORY-341: Inferring not-P from failure to prove P is a deduction only under two separate conditions: Clark shows that when every branch of the search for a proof of P ends in failure, not-P is a theorem of the completed database, and a search that does not finish licenses nothing; Reiter's closed-world assumption, adding the negation of every ground atom the database does not entail, keeps a consistent Horn database consistent and can make a disjunctive one inconsistent
+# THEORY-341: Negation as failure deduces only in two cases
 
 ## Source
 

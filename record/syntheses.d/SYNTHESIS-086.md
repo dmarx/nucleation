@@ -3,7 +3,15 @@ number: 86
 status: Proposed
 formerly:
 - SYNTHESIS-tmprfpxq
-title: 'In the linearized meaning–authority model, committing predictions before the evidence removes capture only when the interpretation bends the reading of the evidence no more than it bends the predictions, a maintained legibility state shifts the instability threshold as stronger couplings would and adds a slow mode they cannot, and feasibility, aggregation and epistemic coordination are separate obstructions of which a commitment protocol fixes only timing'
+title: 'Precommitment curbs capture only conditionally'
+statement: >-
+  In the linearized meaning–authority model, committing predictions before
+  the evidence removes capture only when the interpretation bends the
+  reading of the evidence no more than it bends the predictions, a
+  maintained legibility state shifts the instability threshold as stronger
+  couplings would and adds a slow mode they cannot, and feasibility,
+  aggregation and epistemic coordination are separate obstructions of which
+  a commitment protocol fixes only timing
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -27,7 +35,7 @@ integrates:
 <!-- inactive-ok-file: QUESTION-239 QUESTION-253 — Answered; cited with its standing -->
 <!-- inactive-ok-file: SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-086: In the linearized meaning–authority model, committing predictions before the evidence removes capture only when the interpretation bends the reading of the evidence no more than it bends the predictions, a maintained legibility state shifts the instability threshold as stronger couplings would and adds a slow mode they cannot, and feasibility, aggregation and epistemic coordination are separate obstructions of which a commitment protocol fixes only timing
+# SYNTHESIS-086: Precommitment curbs capture only conditionally
 
 *A part account of the formal-apparatus line: one of the line's eleven
 small clusters, three entries first in distributed-agency, where

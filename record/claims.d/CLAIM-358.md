@@ -3,7 +3,14 @@ number: 358
 status: Proposed
 formerly:
 - CLAIM-tmpmr1t8
-title: 'Learned local accommodation can reduce the amortized cost of recurrent arbitration: where a recurring conflict among an agent''s processes admits a stable accommodation, settling it among the processes can cost less over repeated encounters than escalating each instance to a higher-level process that mediates or overrides, though local negotiation and the relations it needs are not free'
+title: 'Local accommodation amortizes arbitration'
+statement: >-
+  Learned local accommodation can reduce the amortized cost of recurrent
+  arbitration: where a recurring conflict among an agent's processes admits
+  a stable accommodation, settling it among the processes can cost less over
+  repeated encounters than escalating each instance to a higher-level
+  process that mediates or overrides, though local negotiation and the
+  relations it needs are not free
 version: 6
 history:
 - version: 2
@@ -105,7 +112,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-163 — Superseded; the objection as first filed, now ARG-016 -->
 <!-- inactive-ok-file: CASE-382 CLAIM-981 — new on 2026-11-22; the cost-side fit and its finding, cited in the note of 2026-11-22 -->
 
-# CLAIM-358: Learned local accommodation can reduce the amortized cost of recurrent arbitration: where a recurring conflict among an agent's processes admits a stable accommodation, settling it among the processes can cost less over repeated encounters than escalating each instance to a higher-level process that mediates or overrides, though local negotiation and the relations it needs are not free
+# CLAIM-358: Local accommodation amortizes arbitration
 
 ## The claim
 

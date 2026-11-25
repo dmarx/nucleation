@@ -10,7 +10,15 @@ promote_when: >-
   between legal power and the physical power to perform the acts that
   exercise it (pp. 44, 52). Whether the scheme is adequate to moral rights
   is not asserted.
-title: 'Hohfeld proposes that the word right in judicial reasoning covers several distinct legal relations, which reduce to eight fundamental conceptions, claim and duty, privilege and no-right, power and liability, immunity and disability, each with a correlative held by another party and an opposite, and that a legal power, volitional control over a change in legal relations, is distinct from the physical power to perform the acts that exercise it and from the privilege of performing them'
+title: 'Legal rights reduce to eight Hohfeldian relations'
+statement: >-
+  Hohfeld proposes that the word right in judicial reasoning covers several
+  distinct legal relations, which reduce to eight fundamental conceptions,
+  claim and duty, privilege and no-right, power and liability, immunity and
+  disability, each with a correlative held by another party and an opposite,
+  and that a legal power, volitional control over a change in legal
+  relations, is distinct from the physical power to perform the acts that
+  exercise it and from the privilege of performing them
 version: 1
 tags:
 - society-and-governance
@@ -33,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-722 — Proposed or new; the reading and the claims it bears on -->
 
-# THEORY-1984: Hohfeld proposes that the word right in judicial reasoning covers several distinct legal relations, which reduce to eight fundamental conceptions, claim and duty, privilege and no-right, power and liability, immunity and disability, each with a correlative held by another party and an opposite, and that a legal power, volitional control over a change in legal relations, is distinct from the physical power to perform the acts that exercise it and from the privilege of performing them
+# THEORY-1984: Legal rights reduce to eight Hohfeldian relations
 
 Hohfeld (1913), [LIT-2762](../literature.d/LIT-2762.md).
 

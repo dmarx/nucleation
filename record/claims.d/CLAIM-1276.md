@@ -3,7 +3,12 @@ number: 1276
 status: Proposed
 formerly:
 - CLAIM-tmpgx2ej
-title: 'A misunderstanding can be productive because it is left unresolved: where each party''s reading is satisfied on every case the cooperation meets, keeping the ambiguity lets incompatible understandings cooperate, and clarifying it would force a disagreement the arrangement cannot afford'
+title: 'Unresolved misunderstanding can be productive'
+statement: >-
+  A misunderstanding can be productive because it is left unresolved: where
+  each party's reading is satisfied on every case the cooperation meets,
+  keeping the ambiguity lets incompatible understandings cooperate, and
+  clarifying it would force a disagreement the arrangement cannot afford
 version: 1
 role: counter
 warrant: interpretive
@@ -33,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1329 CLAIM-1298 CLAIM-1317 CLAIM-621 LIT-2243 — Proposed, Deferred or new; the thesis objected to and the entries the objection draws on -->
 
-# CLAIM-1276: A misunderstanding can be productive because it is left unresolved: where each party's reading is satisfied on every case the cooperation meets, keeping the ambiguity lets incompatible understandings cooperate, and clarifying it would force a disagreement the arrangement cannot afford
+# CLAIM-1276: Unresolved misunderstanding can be productive
 
 ## The objection
 

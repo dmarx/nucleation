@@ -3,7 +3,16 @@ number: 856
 status: Active
 formerly:
 - THEORY-tmpqzjvn
-title: 'In one laboratory study of a nine-period game between an infrastructure operator, two elected policymakers and three voters (59 groups), letting the first elected policymaker fix the price for all periods moved prices toward the efficient level when policymakers'' payoffs were set equal to consumers'', and moved them further above it when their payoffs were set equal to the operator''s; under period-by-period regulation voters'' pressure lowered the operator-aligned policymakers'' prices without removing the gap'
+title: 'Fixed-price commitment amplifies aligned interests'
+statement: >-
+  In one laboratory study of a nine-period game between an infrastructure
+  operator, two elected policymakers and three voters (59 groups), letting
+  the first elected policymaker fix the price for all periods moved prices
+  toward the efficient level when policymakers' payoffs were set equal to
+  consumers', and moved them further above it when their payoffs were set
+  equal to the operator's; under period-by-period regulation voters'
+  pressure lowered the operator-aligned policymakers' prices without
+  removing the gap
 version: 1
 history:
 - version: 1
@@ -30,7 +39,7 @@ summary: >-
   regulators or that independent agencies entrench it.
 ---
 <!-- inactive-ok-file: THEORY-858 — Proposed; the general account and open claims this result bears on, nothing here rests on them -->
-# THEORY-856: In one laboratory study of a nine-period game between an infrastructure operator, two elected policymakers and three voters (59 groups), letting the first elected policymaker fix the price for all periods moved prices toward the efficient level when policymakers' payoffs were set equal to consumers', and moved them further above it when their payoffs were set equal to the operator's; under period-by-period regulation voters' pressure lowered the operator-aligned policymakers' prices without removing the gap
+# THEORY-856: Fixed-price commitment amplifies aligned interests
 
 ## Source
 

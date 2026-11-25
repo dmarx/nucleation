@@ -9,7 +9,15 @@ promote_when: >-
   pass@128 before training and above it after, and a negative correlation
   across tasks between the start model's pass@128 and its gain, with the
   gain nil or negative on math.
-title: 'Liu and colleagues report that more than 2,000 steps of RL on a diverse task suite, with decoupled clipping and dynamic sampling, a KL penalty and periodic resets of the reference policy, raise DeepSeek-R1-Distill-Qwen-1.5B''s pass@k at k up to 128 on many tasks, including some where the starting model solved nothing, with the gain larger where the starting model''s pass@128 was lower and nil or negative on math'
+title: 'Prolonged RL can expand pass@k beyond base'
+statement: >-
+  Liu and colleagues report that more than 2,000 steps of RL on a diverse
+  task suite, with decoupled clipping and dynamic sampling, a KL penalty and
+  periodic resets of the reference policy, raise
+  DeepSeek-R1-Distill-Qwen-1.5B's pass@k at k up to 128 on many tasks,
+  including some where the starting model solved nothing, with the gain
+  larger where the starting model's pass@128 was lower and nil or negative
+  on math
 version: 1
 tags:
 - learning-theory
@@ -37,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1880 — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: CLAIM-576 — Proposed; the claim this account tests -->
 
-# THEORY-1908: Liu and colleagues report that more than 2,000 steps of RL on a diverse task suite, with decoupled clipping and dynamic sampling, a KL penalty and periodic resets of the reference policy, raise DeepSeek-R1-Distill-Qwen-1.5B's pass@k at k up to 128 on many tasks, including some where the starting model solved nothing, with the gain larger where the starting model's pass@128 was lower and nil or negative on math
+# THEORY-1908: Prolonged RL can expand pass@k beyond base
 
 ## The result
 

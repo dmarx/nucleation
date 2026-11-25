@@ -3,7 +3,13 @@ number: 463
 status: Active
 formerly:
 - THEORY-tmp8cur9
-title: "In classical statistical mechanics a strictly irreversible approach to equilibrium cannot come from the isolated Hamiltonian dynamics alone: the fine-grained Gibbs entropy is constant and bounded systems recur, so each account surveyed either weakens the target to typical or long-run behaviour or adds something from outside the dynamics"
+title: 'Dynamics alone can''t give strict irreversibility'
+statement: >-
+  In classical statistical mechanics a strictly irreversible approach to
+  equilibrium cannot come from the isolated Hamiltonian dynamics alone: the
+  fine-grained Gibbs entropy is constant and bounded systems recur, so each
+  account surveyed either weakens the target to typical or long-run
+  behaviour or adds something from outside the dynamics
 version: 1
 tags:
 - philosophy-of-science
@@ -21,7 +27,7 @@ summary: >-
   reports rather than settles the disputes about each repair.
 ---
 
-# THEORY-463: In classical statistical mechanics a strictly irreversible approach to equilibrium cannot come from the isolated Hamiltonian dynamics alone: the fine-grained Gibbs entropy is constant and bounded systems recur, so each account surveyed either weakens the target to typical or long-run behaviour or adds something from outside the dynamics
+# THEORY-463: Dynamics alone can't give strict irreversibility
 
 ## Source
 

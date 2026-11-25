@@ -3,7 +3,14 @@ number: 1219
 status: Superseded
 formerly:
 - CLAIM-tmp1nubb
-title: 'An implicit contract cannot be read off consistent behaviour: arrangements with the same ordinary interaction differ in how they respond to interruption, a substitute provider, competing demands, removal of an enforcer, withdrawal of a discretionary contribution and a request to renegotiate, and only those responses show whether a dependence is regulated, by what, and on whose terms'
+title: 'Implicit contracts can''t be read off behaviour'
+statement: >-
+  An implicit contract cannot be read off consistent behaviour: arrangements
+  with the same ordinary interaction differ in how they respond to
+  interruption, a substitute provider, competing demands, removal of an
+  enforcer, withdrawal of a discretionary contribution and a request to
+  renegotiate, and only those responses show whether a dependence is
+  regulated, by what, and on whose terms
 version: 3
 history:
 - version: 2
@@ -66,7 +73,7 @@ superseded_by:
 
 <!-- inactive-ok-file: CLAIM-1210 CLAIM-1309 CLAIM-364 — Proposed; the owner's theses this develops and the held equivalence claim -->
 
-# CLAIM-1219: An implicit contract cannot be read off consistent behaviour: arrangements with the same ordinary interaction differ in how they respond to interruption, a substitute provider, competing demands, removal of an enforcer, withdrawal of a discretionary contribution and a request to renegotiate, and only those responses show whether a dependence is regulated, by what, and on whose terms
+# CLAIM-1219: Implicit contracts can't be read off behaviour
 
 ## The claim
 

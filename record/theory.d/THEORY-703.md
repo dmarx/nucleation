@@ -11,7 +11,15 @@ promote_when: >-
   and keeps the order when the regression class is enlarged until the
   micro-to-macro prediction is no longer misspecified. Another hand-built
   model whose conditions are chosen to look emergent does not settle it.
-title: "Weak emergence of a macro variable from micro variables can be measured as its Granger autonomy from them times their mean Granger causation of it, which is zero if it is independent of them or fully predicted by them; in a boids model this measure, and Granger causation from the flock's centre of mass to each boid, are higher for flocking than for random or rigid motion; the measure is relative to the regression model and the variables included"
+title: 'Weak emergence measured by Granger autonomy'
+statement: >-
+  Weak emergence of a macro variable from micro variables can be measured as
+  its Granger autonomy from them times their mean Granger causation of it,
+  which is zero if it is independent of them or fully predicted by them; in
+  a boids model this measure, and Granger causation from the flock's centre
+  of mass to each boid, are higher for flocking than for random or rigid
+  motion; the measure is relative to the regression model and the variables
+  included
 version: 1
 tags:
 - complex-systems
@@ -27,7 +35,7 @@ summary: >-
   Proposed until it is tested against an independent criterion.
 ---
 
-# THEORY-703: Weak emergence of a macro variable from micro variables can be measured as its Granger autonomy from them times their mean Granger causation of it, which is zero if it is independent of them or fully predicted by them; in a boids model this measure, and Granger causation from the flock's centre of mass to each boid, are higher for flocking than for random or rigid motion; the measure is relative to the regression model and the variables included
+# THEORY-703: Weak emergence measured by Granger autonomy
 
 ## Source
 

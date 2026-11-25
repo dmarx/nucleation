@@ -3,7 +3,12 @@ number: 2122
 status: Proposed
 formerly:
 - THEORY-tmpuerfk
-title: 'Perez-Zapata, McKenzie-Smart, Charest and Apperly find that children aged four to five and six to seven, like adults, converge above chance on the same answers in pure coordination games without communication, though less than adults and sometimes on different answers from adults'
+title: 'Young children converge on focal points'
+statement: >-
+  Perez-Zapata, McKenzie-Smart, Charest and Apperly find that children aged
+  four to five and six to seven, like adults, converge above chance on the
+  same answers in pure coordination games without communication, though less
+  than adults and sometimes on different answers from adults
 version: 1
 source:
 - LIT-2922
@@ -21,7 +26,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2122: Perez-Zapata, McKenzie-Smart, Charest and Apperly find that children aged four to five and six to seven, like adults, converge above chance on the same answers in pure coordination games without communication, though less than adults and sometimes on different answers from adults
+# THEORY-2122: Young children converge on focal points
 
 ## The account
 

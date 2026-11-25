@@ -10,7 +10,17 @@ promote_when: >-
   macro-dynamics; that a causal reading needs further argument; and that
   weak emergence and downward causation through constraints both
   accommodate it, so that Synergetics alone does not decide between them.
-title: 'Schmietendorf argues that the slaving principle of synergetics, on which near a critical point a separation of time scales lets a few slow order parameters describe the macro-dynamics while the stable modes follow them almost at once, supports by itself only a descriptive reading, that few variables suffice, and that a causal reading, the order parameter determining its constituents, needs further argument; weak emergence makes enslavement reducible and diachronic, downward causation through constraints makes it irreducible, and Synergetics alone does not settle between them'
+title: 'Slaving principle alone is only descriptive'
+statement: >-
+  Schmietendorf argues that the slaving principle of synergetics, on which
+  near a critical point a separation of time scales lets a few slow order
+  parameters describe the macro-dynamics while the stable modes follow them
+  almost at once, supports by itself only a descriptive reading, that few
+  variables suffice, and that a causal reading, the order parameter
+  determining its constituents, needs further argument; weak emergence makes
+  enslavement reducible and diachronic, downward causation through
+  constraints makes it irreducible, and Synergetics alone does not settle
+  between them
 version: 1
 tags:
 - philosophy-of-science
@@ -30,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-478 — Proposed; a claim the reading bears on -->
 
-# THEORY-2292: Schmietendorf argues that the slaving principle of synergetics, on which near a critical point a separation of time scales lets a few slow order parameters describe the macro-dynamics while the stable modes follow them almost at once, supports by itself only a descriptive reading, that few variables suffice, and that a causal reading, the order parameter determining its constituents, needs further argument; weak emergence makes enslavement reducible and diachronic, downward causation through constraints makes it irreducible, and Synergetics alone does not settle between them
+# THEORY-2292: Slaving principle alone is only descriptive
 
 ## Source
 

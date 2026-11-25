@@ -3,7 +3,17 @@ number: 1664
 status: Proposed
 formerly:
 - THEORY-tmp8ypke
-title: 'Bogliacino, Pejsachowicz, Liva and Lupiáñez-Villanueva propose judging an interface by whether it raises the rate of choices that contradict a separately elicited or assigned valuation, rather than by whether it changes behaviour; in an online experiment with 7,430 Europeans, dark patterns raised such inconsistency by 6 to 12 percentage points and a confirmation-prompt remedy did not significantly reduce it, and in a market experiment the same emotionally manipulative interface raised inconsistency when it steered against data protection and lowered it when it steered toward it, which a test of behavioural change cannot tell apart'
+title: 'Judge interfaces by inconsistency, not behaviour'
+statement: >-
+  Bogliacino, Pejsachowicz, Liva and Lupiáñez-Villanueva propose judging an
+  interface by whether it raises the rate of choices that contradict a
+  separately elicited or assigned valuation, rather than by whether it
+  changes behaviour; in an online experiment with 7,430 Europeans, dark
+  patterns raised such inconsistency by 6 to 12 percentage points and a
+  confirmation-prompt remedy did not significantly reduce it, and in a
+  market experiment the same emotionally manipulative interface raised
+  inconsistency when it steered against data protection and lowered it when
+  it steered toward it, which a test of behavioural change cannot tell apart
 version: 1
 source:
 - LIT-2413
@@ -27,7 +37,7 @@ summary: >-
   | transparent]).
 ---
 
-# THEORY-1664: Bogliacino, Pejsachowicz, Liva and Lupiáñez-Villanueva propose judging an interface by whether it raises the rate of choices that contradict a separately elicited or assigned valuation, rather than by whether it changes behaviour; in an online experiment with 7,430 Europeans, dark patterns raised such inconsistency by 6 to 12 percentage points and a confirmation-prompt remedy did not significantly reduce it, and in a market experiment the same emotionally manipulative interface raised inconsistency when it steered against data protection and lowered it when it steered toward it, which a test of behavioural change cannot tell apart
+# THEORY-1664: Judge interfaces by inconsistency, not behaviour
 
 ## The account
 

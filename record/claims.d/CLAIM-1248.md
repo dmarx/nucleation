@@ -3,7 +3,14 @@ number: 1248
 status: Proposed
 formerly:
 - CLAIM-tmp9ia3w
-title: 'Conditioned and negotiated coordination share their maintenance provenance, since both persist when the supervisor is removed, so the interventions that part them test how the constituents'' own processes answer dissent, not whose process keeps the arrangement, and removing the supervisor fails to discriminate because it is the one maintenance-provenance test among them'
+title: 'Conditioned and negotiated share maintenance'
+statement: >-
+  Conditioned and negotiated coordination share their maintenance
+  provenance, since both persist when the supervisor is removed, so the
+  interventions that part them test how the constituents' own processes
+  answer dissent, not whose process keeps the arrangement, and removing the
+  supervisor fails to discriminate because it is the one
+  maintenance-provenance test among them
 version: 1
 role: thesis
 warrant: demonstrated
@@ -40,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-364 — Proposed; the component -->
 
-# CLAIM-1248: Conditioned and negotiated coordination share their maintenance provenance, since both persist when the supervisor is removed, so the interventions that part them test how the constituents' own processes answer dissent, not whose process keeps the arrangement, and removing the supervisor fails to discriminate because it is the one maintenance-provenance test among them
+# CLAIM-1248: Conditioned and negotiated share maintenance
 
 ## Admission ([ADR-075](../decisions.d/ADR-075.md)): a derivation
 

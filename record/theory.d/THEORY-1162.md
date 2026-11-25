@@ -3,7 +3,12 @@ number: 1162
 status: Active
 formerly:
 - THEORY-tmpncu1p
-title: 'In a consumer-resource model whose species-resource benefits and impacts have correlation rho, the replica-symmetric cavity fixed point loses stability where rho squared equals surviving species over non-depleted resources'
+title: 'Cavity solution destabilizes at ρ² = S*/R*'
+statement: >-
+  In a consumer-resource model whose species-resource benefits and impacts
+  have correlation rho, the replica-symmetric cavity fixed point loses
+  stability where rho squared equals surviving species over non-depleted
+  resources
 version: 3
 history:
 - version: 1
@@ -55,7 +60,7 @@ bounds:
 - CLAIM-369
 ---
 
-# THEORY-1162: In a consumer-resource model whose species-resource benefits and impacts have correlation rho, the replica-symmetric cavity fixed point loses stability where rho squared equals surviving species over non-depleted resources
+# THEORY-1162: Cavity solution destabilizes at ρ² = S*/R*
 
 ## Source
 

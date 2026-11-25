@@ -10,7 +10,18 @@ promote_when: >-
   by aggregation, promiscuity or horizontal transmission; together with a
   formal model of between-species transitions, which the authors say is
   missing, in which these modes of group formation remove conflict.
-title: 'In West, Fisher, Gardner and Kiers''s account, a transition in individuality is defined by two separable conditions, mutual dependence (parts that once replicated alone can replicate only within the larger unit) and negligible within-group conflict, and proceeds by forming a cooperative group and then transforming it, with no clear border between the steps; across transitions what explains them is an ecological benefit to cooperation together with group formation that unites the members'' interests (clonal bottlenecks, lifetime monogamy, vertical transmission of clonal symbionts), while kin discrimination and the repression of competition played relatively minor roles'
+title: 'Shared interests, not policing, drive transitions'
+statement: >-
+  In West, Fisher, Gardner and Kiers's account, a transition in
+  individuality is defined by two separable conditions, mutual dependence
+  (parts that once replicated alone can replicate only within the larger
+  unit) and negligible within-group conflict, and proceeds by forming a
+  cooperative group and then transforming it, with no clear border between
+  the steps; across transitions what explains them is an ecological benefit
+  to cooperation together with group formation that unites the members'
+  interests (clonal bottlenecks, lifetime monogamy, vertical transmission of
+  clonal symbionts), while kin discrimination and the repression of
+  competition played relatively minor roles
 version: 2
 history:
 - version: 2
@@ -39,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-141 — Proposed; the account this one differs from -->
 
-# THEORY-1351: In West, Fisher, Gardner and Kiers's account, a transition in individuality is defined by two separable conditions, mutual dependence (parts that once replicated alone can replicate only within the larger unit) and negligible within-group conflict, and proceeds by forming a cooperative group and then transforming it, with no clear border between the steps; across transitions what explains them is an ecological benefit to cooperation together with group formation that unites the members' interests (clonal bottlenecks, lifetime monogamy, vertical transmission of clonal symbionts), while kin discrimination and the repression of competition played relatively minor roles
+# THEORY-1351: Shared interests, not policing, drive transitions
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 2012
 status: Proposed
 formerly:
 - THEORY-tmp78qwh
-title: 'Bardes, Ponce and LeCun show that in a joint-embedding objective the invariance term alone collapses all inputs to one vector, a covariance (decorrelation) term cannot prevent this, and a hinge keeping each embedding variable''s batch standard deviation above a threshold does; with all three terms the method matches contemporary self-supervised methods on ImageNet without negatives, normalization, predictors or shared weights'
+title: 'A variance hinge prevents embedding collapse'
+statement: >-
+  Bardes, Ponce and LeCun show that in a joint-embedding objective the
+  invariance term alone collapses all inputs to one vector, a covariance
+  (decorrelation) term cannot prevent this, and a hinge keeping each
+  embedding variable's batch standard deviation above a threshold does; with
+  all three terms the method matches contemporary self-supervised methods on
+  ImageNet without negatives, normalization, predictors or shared weights
 version: 1
 source:
 - LIT-2813
@@ -34,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2188 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# THEORY-2012: Bardes, Ponce and LeCun show that in a joint-embedding objective the invariance term alone collapses all inputs to one vector, a covariance (decorrelation) term cannot prevent this, and a hinge keeping each embedding variable's batch standard deviation above a threshold does; with all three terms the method matches contemporary self-supervised methods on ImageNet without negatives, normalization, predictors or shared weights
+# THEORY-2012: A variance hinge prevents embedding collapse
 
 ## The account
 

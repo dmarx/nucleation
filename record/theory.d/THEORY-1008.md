@@ -13,7 +13,14 @@ promote_when: >-
   training proteins. It is refuted if the memberships do no better than
   that baseline. A further comparison against random guessing at the right
   proportions cannot settle it.
-title: 'Mixed memberships fitted by a fifteen-block MMSB to 871 yeast proteins'' curated physical interactions carry information about the proteins'' top-level MIPS functions beyond what the functions'' base rates give: after mapping blocks to functions on 87 proteins, thresholded memberships predicted the other proteins'' annotations with about 87% accuracy, against about 70% for random guessing at the right proportions'
+title: 'MMSB memberships predict protein function'
+statement: >-
+  Mixed memberships fitted by a fifteen-block MMSB to 871 yeast proteins'
+  curated physical interactions carry information about the proteins'
+  top-level MIPS functions beyond what the functions' base rates give: after
+  mapping blocks to functions on 87 proteins, thresholded memberships
+  predicted the other proteins' annotations with about 87% accuracy, against
+  about 70% for random guessing at the right proportions
 version: 1
 history:
 - version: 1
@@ -41,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-427 — Proposed; the claim whose standard for recovered modes this is set against, open -->
 
-# THEORY-1008: Mixed memberships fitted by a fifteen-block MMSB to 871 yeast proteins' curated physical interactions carry information about the proteins' top-level MIPS functions beyond what the functions' base rates give: after mapping blocks to functions on 87 proteins, thresholded memberships predicted the other proteins' annotations with about 87% accuracy, against about 70% for random guessing at the right proportions
+# THEORY-1008: MMSB memberships predict protein function
 
 ## Source
 

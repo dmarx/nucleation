@@ -3,7 +3,13 @@ number: 401
 status: Active
 formerly:
 - THEORY-tmp022k5
-title: "A fair lottery on the natural numbers has a uniform, regular probability defined on every set of tickets, by normalised numerosity with values in the hyperrationals; it is fixed only up to a choice of free ultrafilter, it is hyperfinitely and not countably additive, and its standard part is ordinary asymptotic density"
+title: 'Numerosity gives a fair lottery on ℕ'
+statement: >-
+  A fair lottery on the natural numbers has a uniform, regular probability
+  defined on every set of tickets, by normalised numerosity with values in
+  the hyperrationals; it is fixed only up to a choice of free ultrafilter,
+  it is hyperfinitely and not countably additive, and its standard part is
+  ordinary asymptotic density
 version: 1
 tags:
 - philosophy-of-mathematics
@@ -23,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-647 — Proposed; the companion account from the same thesis, named in Connections -->
 
-# THEORY-401: A fair lottery on the natural numbers has a uniform, regular probability defined on every set of tickets, by normalised numerosity with values in the hyperrationals; it is fixed only up to a choice of free ultrafilter, it is hyperfinitely and not countably additive, and its standard part is ordinary asymptotic density
+# THEORY-401: Numerosity gives a fair lottery on ℕ
 
 ## Source
 

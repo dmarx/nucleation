@@ -23,7 +23,12 @@ promote_when: >-
   lookup-table thought experiments, which repeat the argument, and the
   behaviour of trained models, which are neither Block's machine nor
   shown to be its opposite.
-title: 'Behavioural capacity does not fix intelligence: a system with the capacity to respond sensibly to every possible input can lack it, so whether behaviour is intelligent, or the mark of any mental property, depends partly on how it is produced'
+title: 'Behavioural capacity doesn''t fix intelligence'
+statement: >-
+  Behavioural capacity does not fix intelligence: a system with the capacity
+  to respond sensibly to every possible input can lack it, so whether
+  behaviour is intelligent, or the mark of any mental property, depends
+  partly on how it is produced
 version: 3
 history:
 - version: 2
@@ -72,7 +77,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-433 THEORY-538 — Proposed; the behavioural criteria filed as rivals, named where this account said it would answer them -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; the account whose mimicry clause this one bears on, named in prose, nothing here rests on it -->
 
-# THEORY-092: Behavioural capacity does not fix intelligence: a system with the capacity to respond sensibly to every possible input can lack it, so whether behaviour is intelligent, or the mark of any mental property, depends partly on how it is produced
+# THEORY-092: Behavioural capacity doesn't fix intelligence
 
 ## Source
 

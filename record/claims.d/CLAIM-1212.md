@@ -3,7 +3,13 @@ number: 1212
 status: Proposed
 formerly:
 - CLAIM-tmp0i6c0
-title: 'Repetition and reliance can turn a discretionary contribution into an operative obligation, whose withdrawal is treated as a breach, with no agreement ever made; but being expected, being relied on, being committed and owing are distinct, and reliance makes something owed only under a further principle, such as one about reliance knowingly induced'
+title: 'Reliance alone does not make something owed'
+statement: >-
+  Repetition and reliance can turn a discretionary contribution into an
+  operative obligation, whose withdrawal is treated as a breach, with no
+  agreement ever made; but being expected, being relied on, being committed
+  and owing are distinct, and reliance makes something owed only under a
+  further principle, such as one about reliance knowingly induced
 version: 1
 role: thesis
 warrant: interpretive
@@ -54,7 +60,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1210 CLAIM-671 LIT-3259 CLAIM-1244 CLAIM-1279 TERM-123 — Proposed or Deferred; the owner's thesis, the held claims on exploited commitment, compensation and vulnerability, the question and the work filed with this, and the regulatory-surplus claim -->
 
-# CLAIM-1212: Repetition and reliance can turn a discretionary contribution into an operative obligation, whose withdrawal is treated as a breach, with no agreement ever made; but being expected, being relied on, being committed and owing are distinct, and reliance makes something owed only under a further principle, such as one about reliance knowingly induced
+# CLAIM-1212: Reliance alone does not make something owed
 
 ## The claim
 

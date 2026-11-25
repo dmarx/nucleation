@@ -15,7 +15,13 @@ promote_when: >-
   understanding that says how the understanding motivates. Further
   examples of identity crises, which concern self-conception, and
   intuitions about wholeheartedness cannot settle it.
-title: "The self whose governance makes action autonomous is not the self whose persistence is personal identity: governance by an essence of volitional necessities would make action authentic, not autonomous; losing a defining care costs one's grasp of who one is, not one's existence; and wholeheartedness won by extruding a desire is a defence, not health"
+title: 'Autonomy''s self is not identity''s self'
+statement: >-
+  The self whose governance makes action autonomous is not the self whose
+  persistence is personal identity: governance by an essence of volitional
+  necessities would make action authentic, not autonomous; losing a defining
+  care costs one's grasp of who one is, not one's existence; and
+  wholeheartedness won by extruding a desire is a defence, not health
 version: 1
 tags:
 - self-governance
@@ -37,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-029 THEORY-054 THEORY-120 THEORY-464 THEORY-546 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: QUESTION-011 — Deferred; the open question this account bears on, cited as such -->
 
-# THEORY-590: The self whose governance makes action autonomous is not the self whose persistence is personal identity: governance by an essence of volitional necessities would make action authentic, not autonomous; losing a defining care costs one's grasp of who one is, not one's existence; and wholeheartedness won by extruding a desire is a defence, not health
+# THEORY-590: Autonomy's self is not identity's self
 
 ## Source
 

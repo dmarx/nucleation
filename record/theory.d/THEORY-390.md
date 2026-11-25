@@ -3,7 +3,15 @@ number: 390
 status: Active
 formerly:
 - THEORY-tmp4mezl
-title: 'Any distribution of n × N matrices whose norms concentrate as Johnson–Lindenstrauss proofs require gives the restricted isometry property of order k with probability at least 1 − 2e^{−c₂n} for k ≤ c₁n/log(N/k), by a union bound over (12/δ)^k net points on each of the (eN/k)^k sparse supports; this makes k log(N/k) measurements sufficient for Gaussian, ±1 and sparse three-valued matrices, and does not show they are necessary'
+title: 'JL concentration implies the RIP'
+statement: >-
+  Any distribution of n × N matrices whose norms concentrate as
+  Johnson–Lindenstrauss proofs require gives the restricted isometry
+  property of order k with probability at least 1 − 2e^{−c₂n} for k ≤
+  c₁n/log(N/k), by a union bound over (12/δ)^k net points on each of the
+  (eN/k)^k sparse supports; this makes k log(N/k) measurements sufficient
+  for Gaussian, ±1 and sparse three-valued matrices, and does not show they
+  are necessary
 version: 1
 tags:
 - mathematics
@@ -24,7 +32,7 @@ summary: >-
   derived from concentration, and constants are implicit.
 ---
 
-# THEORY-390: Any distribution of n × N matrices whose norms concentrate as Johnson–Lindenstrauss proofs require gives the restricted isometry property of order k with probability at least 1 − 2e^{−c₂n} for k ≤ c₁n/log(N/k), by a union bound over (12/δ)^k net points on each of the (eN/k)^k sparse supports; this makes k log(N/k) measurements sufficient for Gaussian, ±1 and sparse three-valued matrices, and does not show they are necessary
+# THEORY-390: JL concentration implies the RIP
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 638
 status: Proposed
 formerly:
 - CLAIM-tmptimdb
-title: 'Under one outcome kernel for both orders of two framings, a rendering''s observed order effect on an item exceeds the source''s by at most the sum of its two order-context distortions, so growth in the order effect bounds that distortion from below whatever kernel is used, while kernels fitted to the two orders separately bound nothing'
+title: 'Order-effect growth bounds distortion'
+statement: >-
+  Under one outcome kernel for both orders of two framings, a rendering's
+  observed order effect on an item exceeds the source's by at most the sum
+  of its two order-context distortions, so growth in the order effect bounds
+  that distortion from below whatever kernel is used, while kernels fitted
+  to the two orders separately bound nothing
 version: 1
 role: thesis
 warrant: demonstrated
@@ -40,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-063 CLAIM-117 CLAIM-228 — Proposed; the theses this bears on, the measure it cites and the decision whose test it passes, open -->
 
-# CLAIM-638: Under one outcome kernel for both orders of two framings, a rendering's observed order effect on an item exceeds the source's by at most the sum of its two order-context distortions, so growth in the order effect bounds that distortion from below whatever kernel is used, while kernels fitted to the two orders separately bound nothing
+# CLAIM-638: Order-effect growth bounds distortion
 
 ## The claim
 

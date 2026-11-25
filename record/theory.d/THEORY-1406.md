@@ -3,7 +3,14 @@ number: 1406
 status: Active
 formerly:
 - THEORY-tmpmbmox
-title: 'Hopkins (2007) holds that for a rigid stage held in parallel by ideal wire-like flexures under small motions, the motions the stage permits and the lines along which a constraint can be added without changing them determine each other uniquely as reciprocal screw spaces, and that for pure-force constraints these pairs fall into 26 types indexed by the number of non-redundant constraints'
+title: 'Flexure freedom and constraint are reciprocal'
+statement: >-
+  Hopkins (2007) holds that for a rigid stage held in parallel by ideal
+  wire-like flexures under small motions, the motions the stage permits and
+  the lines along which a constraint can be added without changing them
+  determine each other uniquely as reciprocal screw spaces, and that for
+  pure-force constraints these pairs fall into 26 types indexed by the
+  number of non-redundant constraints
 version: 3
 history:
 - version: 2
@@ -47,7 +54,7 @@ bears_on:
 - QUESTION-373
 - QUESTION-381
 ---
-# THEORY-1406: Hopkins (2007) holds that for a rigid stage held in parallel by ideal wire-like flexures under small motions, the motions the stage permits and the lines along which a constraint can be added without changing them determine each other uniquely as reciprocal screw spaces, and that for pure-force constraints these pairs fall into 26 types indexed by the number of non-redundant constraints
+# THEORY-1406: Flexure freedom and constraint are reciprocal
 
 ## Source
 

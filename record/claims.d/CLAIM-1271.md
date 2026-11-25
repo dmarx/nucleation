@@ -3,7 +3,13 @@ number: 1271
 status: Proposed
 formerly:
 - CLAIM-tmpgc8vi
-title: 'A meme''s agnotological effect is set by its position in an organization of interpretation and authority, not by its propositional content: perspectives that share a meme can differ in characteristic ignorance by applying it selectively, and perspectives with different memes can share one'
+title: 'Agnotology is set by position, not content'
+statement: >-
+  A meme's agnotological effect is set by its position in an organization of
+  interpretation and authority, not by its propositional content:
+  perspectives that share a meme can differ in characteristic ignorance by
+  applying it selectively, and perspectives with different memes can share
+  one
 version: 1
 role: thesis
 warrant: interpretive
@@ -45,7 +51,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-624 CLAIM-1227 CLAIM-1278 THEORY-615 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
-# CLAIM-1271: A meme's agnotological effect is set by its position in an organization of interpretation and authority, not by its propositional content: perspectives that share a meme can differ in characteristic ignorance by applying it selectively, and perspectives with different memes can share one
+# CLAIM-1271: Agnotology is set by position, not content
 
 ## The claim
 

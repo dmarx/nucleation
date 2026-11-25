@@ -3,7 +3,14 @@ number: 717
 formerly:
 - CLAIM-tmp4o53g
 status: Proposed
-title: "Blame and repair do not substitute for each other: assigning blame for creating a harmful condition does not discharge the remedial duties of those now responsible for it, and assigning present remedial duties does not show that those who bear them were to blame for it, so that treating one guilty official as a repair of the system is blame displacement, and loading the repair on whoever is nearest is remedial scapegoating"
+title: 'Blame and repair do not substitute'
+statement: >-
+  Blame and repair do not substitute for each other: assigning blame for
+  creating a harmful condition does not discharge the remedial duties of
+  those now responsible for it, and assigning present remedial duties does
+  not show that those who bear them were to blame for it, so that treating
+  one guilty official as a repair of the system is blame displacement, and
+  loading the repair on whoever is nearest is remedial scapegoating
 version: 3
 history:
 - version: 2
@@ -57,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-284 CLAIM-733 CLAIM-742 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: THEORY-207 — Proposed; the record's nearest entries, cited with their standing -->
 
-# CLAIM-717: Blame and repair do not substitute for each other: assigning blame for creating a harmful condition does not discharge the remedial duties of those now responsible for it, and assigning present remedial duties does not show that those who bear them were to blame for it, so that treating one guilty official as a repair of the system is blame displacement, and loading the repair on whoever is nearest is remedial scapegoating
+# CLAIM-717: Blame and repair do not substitute
 
 ## The claim
 

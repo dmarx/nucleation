@@ -3,7 +3,15 @@ number: 1789
 status: Proposed
 formerly:
 - THEORY-tmpr79u7
-title: 'He reports that, in the public Darwin Gödel Machine logs, self-modifications did not repair the randomly chosen failure they were shown more often than the parent''s other failures (12 repairs against 16.4 expected over 145 modifications), and that in controlled self-revision studies with small open models target-specific repair, when it occurred, did not reliably yield held-out gains, which appeared mainly where failures shared an identifiable, editable cause.'
+title: 'Self-modifications don''t target shown failures'
+statement: >-
+  He reports that, in the public Darwin Gödel Machine logs,
+  self-modifications did not repair the randomly chosen failure they were
+  shown more often than the parent's other failures (12 repairs against 16.4
+  expected over 145 modifications), and that in controlled self-revision
+  studies with small open models target-specific repair, when it occurred,
+  did not reliably yield held-out gains, which appeared mainly where
+  failures shared an identifiable, editable cause.
 version: 1
 tags:
 - agency
@@ -23,7 +31,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1789: He reports that, in the public Darwin Gödel Machine logs, self-modifications did not repair the randomly chosen failure they were shown more often than the parent's other failures (12 repairs against 16.4 expected over 145 modifications), and that in controlled self-revision studies with small open models target-specific repair, when it occurred, did not reliably yield held-out gains, which appeared mainly where failures shared an identifiable, editable cause.
+# THEORY-1789: Self-modifications don't target shown failures
 
 ## The account
 

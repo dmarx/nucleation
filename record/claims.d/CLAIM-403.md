@@ -3,7 +3,14 @@ number: 403
 status: Active
 formerly:
 - CLAIM-tmpj163u
-title: 'A contribution''s admission to an organization''s inquiry, its recognition in apt terms, its credibility, its uptake into judgements, and its contributor''s part in revising the standards of uptake are separable, each possible without the later ones, so an organization can widen access while every channel by which a less authoritative contribution could change the criteria of authority stays closed'
+title: 'Five separable stages of epistemic inclusion'
+statement: >-
+  A contribution's admission to an organization's inquiry, its recognition
+  in apt terms, its credibility, its uptake into judgements, and its
+  contributor's part in revising the standards of uptake are separable, each
+  possible without the later ones, so an organization can widen access while
+  every channel by which a less authoritative contribution could change the
+  criteria of authority stays closed
 version: 10
 history:
 - version: 2
@@ -116,7 +123,7 @@ works:
 <!-- inactive-ok-file: CASE-252 TERM-119 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1723 THEORY-1729 THEORY-1747 THEORY-1770 THEORY-1805 THEORY-1808 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-403: A contribution's admission to an organization's inquiry, its recognition in apt terms, its credibility, its uptake into judgements, and its contributor's part in revising the standards of uptake are separable, each possible without the later ones, so an organization can widen access while every channel by which a less authoritative contribution could change the criteria of authority stays closed
+# CLAIM-403: Five separable stages of epistemic inclusion
 
 ## The claim
 

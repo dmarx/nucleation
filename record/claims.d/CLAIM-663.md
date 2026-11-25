@@ -3,7 +3,14 @@ number: 663
 status: Proposed
 formerly:
 - CLAIM-tmpyc5md
-title: 'The distinctions of the PASS@(k,T) analysis are the record''s distinctions of resource-bounded realization: its capability boundary is reachability by a given process under a budget, its efficiency is reliable attainment, and its interaction depth is a resource index, so whether an intervention expands what an organization can do or only makes it more reliable is the record''s question of reachable against reliably reached'
+title: 'PASS@(k,T) is resource-bounded realization'
+statement: >-
+  The distinctions of the PASS@(k,T) analysis are the record's distinctions
+  of resource-bounded realization: its capability boundary is reachability
+  by a given process under a budget, its efficiency is reliable attainment,
+  and its interaction depth is a resource index, so whether an intervention
+  expands what an organization can do or only makes it more reliable is the
+  record's question of reachable against reliably reached
 version: 2
 history:
 - version: 2
@@ -53,7 +60,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1703 ARG-093 CASE-249 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-555 — Proposed; the tolerance-indexed complex the owner's "tolerance regions" names -->
 
-# CLAIM-663: The distinctions of the PASS@(k,T) analysis are the record's distinctions of resource-bounded realization: its capability boundary is reachability by a given process under a budget, its efficiency is reliable attainment, and its interaction depth is a resource index, so whether an intervention expands what an organization can do or only makes it more reliable is the record's question of reachable against reliably reached
+# CLAIM-663: PASS@(k,T) is resource-bounded realization
 
 ## The claim
 

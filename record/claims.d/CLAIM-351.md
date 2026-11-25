@@ -3,7 +3,14 @@ number: 351
 status: Active
 formerly:
 - CLAIM-tmpf67p3
-title: 'A zero aggregate gradient does not show that the demands it aggregates are reconciled: with positive weights it holds both when every demand''s own gradient vanishes and when nonzero gradients cancel, and in the second case no update improves them all to first order; even the first is only joint first-order stationarity, which a demand''s maximum or saddle also has'
+title: 'Zero aggregate gradient is not reconciliation'
+statement: >-
+  A zero aggregate gradient does not show that the demands it aggregates are
+  reconciled: with positive weights it holds both when every demand's own
+  gradient vanishes and when nonzero gradients cancel, and in the second
+  case no update improves them all to first order; even the first is only
+  joint first-order stationarity, which a demand's maximum or saddle also
+  has
 version: 3
 history:
 - version: 2
@@ -63,7 +70,7 @@ grounds:
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
-# CLAIM-351: A zero aggregate gradient does not show that the demands it aggregates are reconciled: with positive weights it holds both when every demand's own gradient vanishes and when nonzero gradients cancel, and in the second case no update improves them all to first order; even the first is only joint first-order stationarity, which a demand's maximum or saddle also has
+# CLAIM-351: Zero aggregate gradient is not reconciliation
 
 ## The claim
 

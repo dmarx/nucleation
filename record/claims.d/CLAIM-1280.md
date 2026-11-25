@@ -3,7 +3,13 @@ number: 1280
 status: Proposed
 formerly:
 - CLAIM-tmpisfi1
-title: 'Resolving an ambiguity that no arrangement yet settles forms a contract, and the same act has two outcomes: resolved jointly, it is a productive misunderstanding that reorganizes the parties around a new distinction; resolved by one party who controls when and how, it is exploitation through ambiguity where the terms it sets fail a declared standard'
+title: 'Resolving ambiguity forms a contract'
+statement: >-
+  Resolving an ambiguity that no arrangement yet settles forms a contract,
+  and the same act has two outcomes: resolved jointly, it is a productive
+  misunderstanding that reorganizes the parties around a new distinction;
+  resolved by one party who controls when and how, it is exploitation
+  through ambiguity where the terms it sets fail a declared standard
 version: 2
 history:
 - version: 2
@@ -49,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1243 CLAIM-1329 CLAIM-1317 CLAIM-1276 — Proposed; the entries joined -->
 
-# CLAIM-1280: Resolving an ambiguity that no arrangement yet settles forms a contract, and the same act has two outcomes: resolved jointly, it is a productive misunderstanding that reorganizes the parties around a new distinction; resolved by one party who controls when and how, it is exploitation through ambiguity where the terms it sets fail a declared standard
+# CLAIM-1280: Resolving ambiguity forms a contract
 
 ## The join
 

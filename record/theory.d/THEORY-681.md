@@ -16,7 +16,14 @@ promote_when: >-
   showing that the copy principle fails for this idea. More cases of how
   we speak of ships, churches and rivers cannot settle it: they show usage,
   not the source of the belief.
-title: "If every real idea derives from an impression, there is no idea of a simple self persisting through life; the mind is a bundle of perceptions, and the identity ascribed to it is produced by the imagination passing easily along resemblance and causation, as with a rebuilt ship or a growing oak, though Hume's Appendix concedes that this does not explain what unites the perceptions"
+title: 'The self is a bundle of perceptions'
+statement: >-
+  If every real idea derives from an impression, there is no idea of a
+  simple self persisting through life; the mind is a bundle of perceptions,
+  and the identity ascribed to it is produced by the imagination passing
+  easily along resemblance and causation, as with a rebuilt ship or a
+  growing oak, though Hume's Appendix concedes that this does not explain
+  what unites the perceptions
 version: 1
 tags:
 - self
@@ -37,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-043 THEORY-044 THEORY-064 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 <!-- inactive-ok-file: LIT-387 — Unavailable; named as the reading's candidate for Hume's missing connexion, not leaned on -->
 
-# THEORY-681: If every real idea derives from an impression, there is no idea of a simple self persisting through life; the mind is a bundle of perceptions, and the identity ascribed to it is produced by the imagination passing easily along resemblance and causation, as with a rebuilt ship or a growing oak, though Hume's Appendix concedes that this does not explain what unites the perceptions
+# THEORY-681: The self is a bundle of perceptions
 
 ## Source
 

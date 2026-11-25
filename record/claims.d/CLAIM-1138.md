@@ -3,7 +3,13 @@ number: 1138
 status: Proposed
 formerly:
 - CLAIM-tmpmgb7l
-title: 'The crossed intervention on a small conventionally trained network does not meet the condition that would defeat the claim that a condition of training is not thereby a condition of the network, and corroborates it: the optimizer arm moved the response in every population, and what the learned state adds the claim already allows'
+title: 'Crossed intervention corroborates, not defeats'
+statement: >-
+  The crossed intervention on a small conventionally trained network does
+  not meet the condition that would defeat the claim that a condition of
+  training is not thereby a condition of the network, and corroborates it:
+  the optimizer arm moved the response in every population, and what the
+  learned state adds the claim already allows
 version: 1
 history:
 - version: 1
@@ -49,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-367 — Proposed; the claim this reading corroborates -->
 <!-- inactive-ok-file: CLAIM-1030 CLAIM-1199 — new; the result and the alternative reading filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1138: The crossed intervention on a small conventionally trained network does not meet the condition that would defeat the claim that a condition of training is not thereby a condition of the network, and corroborates it: the optimizer arm moved the response in every population, and what the learned state adds the claim already allows
+# CLAIM-1138: Crossed intervention corroborates, not defeats
 
 ## The claim
 

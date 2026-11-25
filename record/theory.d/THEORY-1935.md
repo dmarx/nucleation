@@ -3,7 +3,13 @@ number: 1935
 status: Proposed
 formerly:
 - THEORY-tmpkd4kn
-title: 'Gaboriaud and colleagues find, in a preregistered mouse-tracking experiment, that intent, outcome and the agent''s causal role each make wrongness and blame judgments harsher, but that the two judgment types differ little: only causality weighed more in blame, and by a very small amount'
+title: 'Wrongness and blame judgments barely differ'
+statement: >-
+  Gaboriaud and colleagues find, in a preregistered mouse-tracking
+  experiment, that intent, outcome and the agent's causal role each make
+  wrongness and blame judgments harsher, but that the two judgment types
+  differ little: only causality weighed more in blame, and by a very small
+  amount
 version: 2
 history:
 - version: 2
@@ -34,7 +40,7 @@ source:
 <!-- inactive-ok-file: CLAIM-726 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpybhzw — removed at the reconciliation of 2026-11-18; named for provenance -->
 
-# THEORY-1935: Gaboriaud and colleagues find, in a preregistered mouse-tracking experiment, that intent, outcome and the agent's causal role each make wrongness and blame judgments harsher, but that the two judgment types differ little: only causality weighed more in blame, and by a very small amount
+# THEORY-1935: Wrongness and blame judgments barely differ
 
 ## Source
 

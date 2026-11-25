@@ -11,7 +11,15 @@ promote_when: >-
   are each reported by no more than a few studies, and that no study
   records gaze after the trauma is recalled or across treatment. A
   meta-analytic effect size is not required.
-title: 'Diotaiuti and colleagues'' scoping review of 17 eye-tracking studies of PTSD published from 2010 to 2025 finds longer sustained gaze on negative or trauma-related material the most recurrent difference, with initial vigilance inconsistent and reduced exploration, shorter scanpaths and delayed attention to context each resting on one to three studies; no study it includes records gaze after the trauma is recalled or across treatment'
+title: 'PTSD gaze lingers on trauma; rest is thin'
+statement: >-
+  Diotaiuti and colleagues' scoping review of 17 eye-tracking studies of
+  PTSD published from 2010 to 2025 finds longer sustained gaze on negative
+  or trauma-related material the most recurrent difference, with initial
+  vigilance inconsistent and reduced exploration, shorter scanpaths and
+  delayed attention to context each resting on one to three studies; no
+  study it includes records gaze after the trauma is recalled or across
+  treatment
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -34,7 +42,7 @@ summary: >-
   independent search agrees.
 ---
 
-# THEORY-2284: Diotaiuti and colleagues' scoping review of 17 eye-tracking studies of PTSD published from 2010 to 2025 finds longer sustained gaze on negative or trauma-related material the most recurrent difference, with initial vigilance inconsistent and reduced exploration, shorter scanpaths and delayed attention to context each resting on one to three studies; no study it includes records gaze after the trauma is recalled or across treatment
+# THEORY-2284: PTSD gaze lingers on trauma; rest is thin
 
 ## Source
 

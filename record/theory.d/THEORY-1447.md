@@ -3,7 +3,16 @@ number: 1447
 status: Active
 formerly:
 - THEORY-tmpfdm4r
-title: 'Dannenberg and colleagues show, in a thermodynamically self-consistent domain-level kinetic model of planar DNA origami, that cooperativity between staples from scaffold loop closure and coaxial stacking sharpens the folding transition and produces folding/melting hysteresis, and that the hysteresis is asymmetric, faster cooling or fewer staples lowering the annealing temperature far more than they raise or move the melting temperature, because binding rates are nearly temperature-independent while unbinding rates rise steeply with temperature'
+title: 'Staple cooperativity makes asymmetric hysteresis'
+statement: >-
+  Dannenberg and colleagues show, in a thermodynamically self-consistent
+  domain-level kinetic model of planar DNA origami, that cooperativity
+  between staples from scaffold loop closure and coaxial stacking sharpens
+  the folding transition and produces folding/melting hysteresis, and that
+  the hysteresis is asymmetric, faster cooling or fewer staples lowering the
+  annealing temperature far more than they raise or move the melting
+  temperature, because binding rates are nearly temperature-independent
+  while unbinding rates rise steeply with temperature
 version: 2
 history:
 - version: 2
@@ -41,7 +50,7 @@ corroborates:
 - CLAIM-594
 ---
 
-# THEORY-1447: Dannenberg and colleagues show, in a thermodynamically self-consistent domain-level kinetic model of planar DNA origami, that cooperativity between staples from scaffold loop closure and coaxial stacking sharpens the folding transition and produces folding/melting hysteresis, and that the hysteresis is asymmetric, faster cooling or fewer staples lowering the annealing temperature far more than they raise or move the melting temperature, because binding rates are nearly temperature-independent while unbinding rates rise steeply with temperature
+# THEORY-1447: Staple cooperativity makes asymmetric hysteresis
 
 ## Source
 

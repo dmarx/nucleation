@@ -3,7 +3,16 @@ number: 1070
 status: Active
 formerly:
 - THEORY-tmpga5mk
-title: 'For a weighted cellular sheaf of finite-dimensional vector spaces on a finite cell complex, the kernel of the degree-k Hodge Laplacian is the k-th sheaf cohomology, in degree 0 the space of global sections, and the linear flow ẋ = −Δ^k x converges exponentially to the orthogonal projection of its initial state onto that kernel, each eigencomponent decaying at its own eigenvalue; the inner products on the stalks are part of the data, so the same sections can come with different rates, and the Laplacian does not determine the sheaf'
+title: 'Sheaf heat flow projects onto cohomology'
+statement: >-
+  For a weighted cellular sheaf of finite-dimensional vector spaces on a
+  finite cell complex, the kernel of the degree-k Hodge Laplacian is the
+  k-th sheaf cohomology, in degree 0 the space of global sections, and the
+  linear flow ẋ = −Δ^k x converges exponentially to the orthogonal
+  projection of its initial state onto that kernel, each eigencomponent
+  decaying at its own eigenvalue; the inner products on the stalks are part
+  of the data, so the same sections can come with different rates, and the
+  Laplacian does not determine the sheaf
 version: 2
 history:
 - version: 2
@@ -37,7 +46,7 @@ corroborates:
 - CLAIM-481
 ---
 
-# THEORY-1070: For a weighted cellular sheaf of finite-dimensional vector spaces on a finite cell complex, the kernel of the degree-k Hodge Laplacian is the k-th sheaf cohomology, in degree 0 the space of global sections, and the linear flow ẋ = −Δ^k x converges exponentially to the orthogonal projection of its initial state onto that kernel, each eigencomponent decaying at its own eigenvalue; the inner products on the stalks are part of the data, so the same sections can come with different rates, and the Laplacian does not determine the sheaf
+# THEORY-1070: Sheaf heat flow projects onto cohomology
 
 ## Source
 

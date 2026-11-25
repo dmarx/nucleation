@@ -3,7 +3,12 @@ number: 210
 status: Active
 formerly:
 - CLAIM-tmp7qr7y
-title: 'Sharing a kind and being a rendering are different relations: kind-sharing is symmetric and says what is to be preserved, while fidelity belongs to a transport from a given source, so an utterance of the same kind made independently of the source shares its kind and has no fidelity to it'
+title: 'Kind-sharing is not rendering'
+statement: >-
+  Sharing a kind and being a rendering are different relations: kind-sharing
+  is symmetric and says what is to be preserved, while fidelity belongs to a
+  transport from a given source, so an utterance of the same kind made
+  independently of the source shares its kind and has no fidelity to it
 version: 2
 history:
 - version: 2
@@ -57,7 +62,7 @@ grounds:
 <!-- inactive-ok-file: CLAIM-204 — Proposed; the revised October thesis, cited for its transfer disjunct -->
 <!-- ref::uses-file: TERM-084 — a work individuated by "where it came from", and realizations that "descend from a common ancestor with no transport between them", are TERM-084's provenance and common-ancestry senses -->
 
-# CLAIM-210: Sharing a kind and being a rendering are different relations: kind-sharing is symmetric and says what is to be preserved, while fidelity belongs to a transport from a given source, so an utterance of the same kind made independently of the source shares its kind and has no fidelity to it
+# CLAIM-210: Kind-sharing is not rendering
 
 ## The claim
 

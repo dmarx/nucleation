@@ -3,7 +3,12 @@ number: 1573
 status: Active
 formerly:
 - THEORY-tmp4oawr
-title: 'Klein and colleagues report that in seventeen labs and 1,550 participants writing about one''s own death did not raise preference for a pro-US over an anti-US essay author (g = 0.07, 95% CI −0.03 to 0.17), whether or not the protocol was designed with the original authors'
+title: 'Mortality salience effect fails to replicate'
+statement: >-
+  Klein and colleagues report that in seventeen labs and 1,550 participants
+  writing about one's own death did not raise preference for a pro-US over
+  an anti-US essay author (g = 0.07, 95% CI −0.03 to 0.17), whether or not
+  the protocol was designed with the original authors
 version: 2
 history:
 - version: 1
@@ -37,7 +42,7 @@ bears_on:
 - QUESTION-301
 ---
 
-# THEORY-1573: Klein and colleagues report that in seventeen labs and 1,550 participants writing about one's own death did not raise preference for a pro-US over an anti-US essay author (g = 0.07, 95% CI −0.03 to 0.17), whether or not the protocol was designed with the original authors
+# THEORY-1573: Mortality salience effect fails to replicate
 
 ## The account
 

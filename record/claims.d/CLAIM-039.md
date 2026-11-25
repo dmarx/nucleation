@@ -3,7 +3,11 @@ number: 39
 status: Proposed
 formerly:
 - CLAIM-tmpbo7rd
-title: 'Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience'
+title: 'Organized systems can have affective states'
+statement: >-
+  Affective states can be properties of organized systems, characterized
+  functionally as Frijda characterizes emotions, without implying subjective
+  experience
 version: 5
 history:
 - version: 2
@@ -65,7 +69,7 @@ uses:
 <!-- inactive-ok-file: CLAIM-527 — Proposed; Massumi's affect, and the claim that places its quantity -->
 <!-- inactive-ok-file: THEORY-2229 — Proposed; the reading of LEAD-112 cited in the note of 2026-11-22 -->
 
-# CLAIM-039: Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
+# CLAIM-039: Organized systems can have affective states
 
 ## The claim
 

@@ -11,7 +11,14 @@ promote_when: >-
   above 1 + √c gives a sample eigenvalue converging almost surely to
   α + cα/(α − 1), and that otherwise the top eigenvalue tends to the edge
   (1 + √c)².
-title: "Baik and Silverstein prove that for real or complex samples with independent standardized entries of finite fourth moment and a population covariance that is the identity but for finitely many spikes, at any ratio of variables to samples c, each spike above 1 + √c gives its own sample eigenvalue converging almost surely to α + cα/(α − 1), and spikes at or below it leave the top eigenvalue at the bulk edge"
+title: 'Spikes above 1+√c give own outlier eigenvalues'
+statement: >-
+  Baik and Silverstein prove that for real or complex samples with
+  independent standardized entries of finite fourth moment and a population
+  covariance that is the identity but for finitely many spikes, at any ratio
+  of variables to samples c, each spike above 1 + √c gives its own sample
+  eigenvalue converging almost surely to α + cα/(α − 1), and spikes at or
+  below it leave the top eigenvalue at the bulk edge
 version: 1
 tags:
 - mathematics
@@ -31,7 +38,7 @@ bears_on:
 <!-- inactive-ok-file: NOTE-2245 — Skimmed; the reading this account is filed from -->
 <!-- inactive-ok-file: ARG-151 THEORY-2148 — Proposed; the argument and the neighbouring reading of 2026-11-21 -->
 
-# THEORY-2149: Baik and Silverstein prove that for real or complex samples with independent standardized entries of finite fourth moment and a population covariance that is the identity but for finitely many spikes, at any ratio of variables to samples c, each spike above 1 + √c gives its own sample eigenvalue converging almost surely to α + cα/(α − 1), and spikes at or below it leave the top eigenvalue at the bulk edge
+# THEORY-2149: Spikes above 1+√c give own outlier eigenvalues
 
 ## Source
 

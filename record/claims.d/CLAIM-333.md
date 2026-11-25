@@ -3,7 +3,14 @@ number: 333
 status: Active
 formerly:
 - CLAIM-tmp6nu4a
-title: 'Measuring every relevant variable is necessary but not sufficient for a Granger-causal analysis to say anything about interventions: the intervention must also be an isolated exogenous change and no influence may act within one sampling step, and then Granger noncausality implies no intervention effect and the effect is identified from the observational predictor, but a Granger-causal relation is still only potentially causal'
+title: 'Measuring everything is not enough for Granger'
+statement: >-
+  Measuring every relevant variable is necessary but not sufficient for a
+  Granger-causal analysis to say anything about interventions: the
+  intervention must also be an isolated exogenous change and no influence
+  may act within one sampling step, and then Granger noncausality implies no
+  intervention effect and the effect is identified from the observational
+  predictor, but a Granger-causal relation is still only potentially causal
 version: 1
 role: thesis
 warrant: demonstrated
@@ -37,7 +44,7 @@ complements:
 - CLAIM-335
 ---
 
-# CLAIM-333: Measuring every relevant variable is necessary but not sufficient for a Granger-causal analysis to say anything about interventions: the intervention must also be an isolated exogenous change and no influence may act within one sampling step, and then Granger noncausality implies no intervention effect and the effect is identified from the observational predictor, but a Granger-causal relation is still only potentially causal
+# CLAIM-333: Measuring everything is not enough for Granger
 
 ## The claim
 

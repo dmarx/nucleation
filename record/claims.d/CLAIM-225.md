@@ -3,7 +3,12 @@ number: 225
 status: Active
 formerly:
 - CLAIM-tmpdt857
-title: 'Blackwell''s order measures what an ideal decision-maker could do, not what a given receiver can reconstruct, and the line''s claims that a rendering can improve access describe garblings that real receivers do better with, which is the shape of the Blackwell thesis''s own defeat condition'
+title: 'Blackwell measures ideal, not real, receivers'
+statement: >-
+  Blackwell's order measures what an ideal decision-maker could do, not what
+  a given receiver can reconstruct, and the line's claims that a rendering
+  can improve access describe garblings that real receivers do better with,
+  which is the shape of the Blackwell thesis's own defeat condition
 version: 5
 history:
 - version: 2
@@ -74,7 +79,7 @@ rests_on:
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: ARG-019 — Proposed; the argument this claim's support verdict moved to, which it undercuts -->
 
-# CLAIM-225: Blackwell's order measures what an ideal decision-maker could do, not what a given receiver can reconstruct, and the line's claims that a rendering can improve access describe garblings that real receivers do better with, which is the shape of the Blackwell thesis's own defeat condition
+# CLAIM-225: Blackwell measures ideal, not real, receivers
 
 ## The objection
 

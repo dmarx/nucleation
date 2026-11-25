@@ -3,7 +3,15 @@ number: 1487
 status: Active
 formerly:
 - THEORY-tmpn026x
-title: 'Evans holds that state-society synergy combines complementarity, in which government dependably supplies inputs citizens cannot produce and citizens supply local knowledge and labour, with embeddedness, in which officials keep everyday ties with the communities they serve, and that small-scale synergy is constructable even in class-divided societies under disorganized, authoritarian governance, the limits seeming to be set less by prior stocks of social capital than by the difficulty of scaling up'
+title: 'State–society synergy can be constructed'
+statement: >-
+  Evans holds that state-society synergy combines complementarity, in which
+  government dependably supplies inputs citizens cannot produce and citizens
+  supply local knowledge and labour, with embeddedness, in which officials
+  keep everyday ties with the communities they serve, and that small-scale
+  synergy is constructable even in class-divided societies under
+  disorganized, authoritarian governance, the limits seeming to be set less
+  by prior stocks of social capital than by the difficulty of scaling up
 version: 3
 history:
 - version: 2
@@ -58,7 +66,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: LIT-2140 — Unavailable, Proposed or new; cited from the reading of Evans (1996) as open -->
 
-# THEORY-1487: Evans holds that state-society synergy combines complementarity, in which government dependably supplies inputs citizens cannot produce and citizens supply local knowledge and labour, with embeddedness, in which officials keep everyday ties with the communities they serve, and that small-scale synergy is constructable even in class-divided societies under disorganized, authoritarian governance, the limits seeming to be set less by prior stocks of social capital than by the difficulty of scaling up
+# THEORY-1487: State–society synergy can be constructed
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 369
 status: Active
 formerly:
 - CLAIM-tmpc36bo
-title: 'In symmetric resource-mediated competition with interaction matrix A = UᵀU and growth rates r = Uᵀb − c, Lotka–Volterra population dynamics are multiplicative gradient flow on the convex feature-selection objective ½‖b − Un‖² + cᵀn over the nonnegative orthant: the invasion fitness of an absent component is the negative partial derivative of that objective, and the uninvadable equilibria are its KKT points'
+title: 'Lotka–Volterra is gradient flow on selection'
+statement: >-
+  In symmetric resource-mediated competition with interaction matrix A = UᵀU
+  and growth rates r = Uᵀb − c, Lotka–Volterra population dynamics are
+  multiplicative gradient flow on the convex feature-selection objective ½‖b
+  − Un‖² + cᵀn over the nonnegative orthant: the invasion fitness of an
+  absent component is the negative partial derivative of that objective, and
+  the uninvadable equilibria are its KKT points
 version: 5
 history:
 - version: 2
@@ -75,7 +82,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-885 — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
-# CLAIM-369: In symmetric resource-mediated competition with interaction matrix A = UᵀU and growth rates r = Uᵀb − c, Lotka–Volterra population dynamics are multiplicative gradient flow on the convex feature-selection objective ½‖b − Un‖² + cᵀn over the nonnegative orthant: the invasion fitness of an absent component is the negative partial derivative of that objective, and the uninvadable equilibria are its KKT points
+# CLAIM-369: Lotka–Volterra is gradient flow on selection
 
 ## The claim
 

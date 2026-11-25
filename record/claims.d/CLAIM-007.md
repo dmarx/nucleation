@@ -3,7 +3,11 @@ number: 7
 status: Proposed
 formerly:
 - CLAIM-tmp1kc7j
-title: 'In a bridge or chain of progressive reconstruction the path itself is observable: which constraints survive early, which are introduced late, and which relations emerge only through refinement'
+title: 'The reconstruction path is observable'
+statement: >-
+  In a bridge or chain of progressive reconstruction the path itself is
+  observable: which constraints survive early, which are introduced late,
+  and which relations emerge only through refinement
 version: 2
 history:
 - version: 2
@@ -36,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-114 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-007: In a bridge or chain of progressive reconstruction the path itself is observable: which constraints survive early, which are introduced late, and which relations emerge only through refinement
+# CLAIM-007: The reconstruction path is observable
 
 ## The claim
 

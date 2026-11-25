@@ -3,7 +3,16 @@ number: 1493
 status: Active
 formerly:
 - THEORY-tmpv02zm
-title: "Banerjee, Duflo and Sharma find, in a randomized trial in West Bengal, that the treatment effects of a one-time Targeting the Ultra Poor package on household consumption, income and health grew for seven years after the asset transfer and persisted to year ten, although the implementer had no contact with households after eighteen months; they attribute the persistence mainly to treated households taking better advantage of wage employment and migration, and hold it consistent with, but not proof of, escape from a poverty trap"
+title: 'Ultra-poor gains grew for a decade'
+statement: >-
+  Banerjee, Duflo and Sharma find, in a randomized trial in West Bengal,
+  that the treatment effects of a one-time Targeting the Ultra Poor package
+  on household consumption, income and health grew for seven years after the
+  asset transfer and persisted to year ten, although the implementer had no
+  contact with households after eighteen months; they attribute the
+  persistence mainly to treated households taking better advantage of wage
+  employment and migration, and hold it consistent with, but not proof of,
+  escape from a poverty trap
 version: 3
 history:
 - version: 2
@@ -49,7 +58,7 @@ corroborates:
 - CLAIM-600
 ---
 
-# THEORY-1493: Banerjee, Duflo and Sharma find, in a randomized trial in West Bengal, that the treatment effects of a one-time Targeting the Ultra Poor package on household consumption, income and health grew for seven years after the asset transfer and persisted to year ten, although the implementer had no contact with households after eighteen months; they attribute the persistence mainly to treated households taking better advantage of wage employment and migration, and hold it consistent with, but not proof of, escape from a poverty trap
+# THEORY-1493: Ultra-poor gains grew for a decade
 
 ## Source
 

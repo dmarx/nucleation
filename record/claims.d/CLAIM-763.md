@@ -3,7 +3,14 @@ number: 763
 status: Proposed
 formerly:
 - CLAIM-tmpitvrh
-title: 'Open questions are best triaged by the kind of uncertainty each contains (conceptual, formal, explanatory, empirical, normative, historical), which fixes what can count as its next advance, and then compared by foundational leverage, discriminating power, tractability and generativity, with some attention kept for foundational questions that are not yet tractable'
+title: 'Triage questions by kind of uncertainty'
+statement: >-
+  Open questions are best triaged by the kind of uncertainty each contains
+  (conceptual, formal, explanatory, empirical, normative, historical), which
+  fixes what can count as its next advance, and then compared by
+  foundational leverage, discriminating power, tractability and
+  generativity, with some attention kept for foundational questions that are
+  not yet tractable
 version: 1
 role: thesis
 warrant: interpretive
@@ -32,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-764 CLAIM-758 — Proposed or newly filed; cited in this filing -->
 
-# CLAIM-763: Open questions are best triaged by the kind of uncertainty each contains (conceptual, formal, explanatory, empirical, normative, historical), which fixes what can count as its next advance, and then compared by foundational leverage, discriminating power, tractability and generativity, with some attention kept for foundational questions that are not yet tractable
+# CLAIM-763: Triage questions by kind of uncertainty
 
 ## The procedure (A84)
 

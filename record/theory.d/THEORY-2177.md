@@ -11,7 +11,12 @@ promote_when: >-
   (THEORY-2150) derives the zero-drift case, which meets it for μ = ½σ²
   only. Not met by the birth-and-death or branching results, which the
   title does not assert.
-title: 'Reed and Hughes show that a process growing exponentially in expectation and killed at a time with constant hazard has a power-law tail, a single Pareto for deterministic growth and a double Pareto set by a quadratic for geometric Brownian motion'
+title: 'Exponential growth killed at random is Pareto'
+statement: >-
+  Reed and Hughes show that a process growing exponentially in expectation
+  and killed at a time with constant hazard has a power-law tail, a single
+  Pareto for deterministic growth and a double Pareto set by a quadratic for
+  geometric Brownian motion
 version: 1
 history:
 - version: 1
@@ -36,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-795 THEORY-2150 SYNTHESIS-119 CLAIM-824 — Proposed or new; this account's reading and the entries it bears on -->
 
-# THEORY-2177: Reed and Hughes show that a process growing exponentially in expectation and killed at a time with constant hazard has a power-law tail, a single Pareto for deterministic growth and a double Pareto set by a quadratic for geometric Brownian motion
+# THEORY-2177: Exponential growth killed at random is Pareto
 
 ## Source
 

@@ -11,7 +11,11 @@ promote_when: >-
   worthy objects, or shows meaningfulness reducible to happiness or to
   morality. Refuted by such a reduction, or by an argument the record
   accepts that the needed standard cannot be had.
-title: 'Meaningfulness is a dimension of a good life distinct from happiness and morality, arising when a person loves objects worthy of love and engages with them actively'
+title: 'Meaning is active love of worthy objects'
+statement: >-
+  Meaningfulness is a dimension of a good life distinct from happiness and
+  morality, arising when a person loves objects worthy of love and engages
+  with them actively
 version: 1
 tags:
 - well-being
@@ -30,7 +34,7 @@ summary: >-
   needs and Wolf says she does not supply.
 ---
 
-# THEORY-2001: Meaningfulness is a dimension of a good life distinct from happiness and morality, arising when a person loves objects worthy of love and engages with them actively
+# THEORY-2001: Meaning is active love of worthy objects
 
 ## The account
 

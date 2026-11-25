@@ -3,7 +3,14 @@ number: 1767
 status: Proposed
 formerly:
 - THEORY-tmphrkr5
-title: 'Jiménez Gutiérrez et al. report that indexing a corpus as a schemaless entity graph extracted by an LLM and retrieving passages by Personalized PageRank seeded from query entities improves single-step multi-hop retrieval over dense retrievers on MuSiQue and 2WikiMultiHopQA, matching iterative retrieval (IRCoT) at a fraction of its cost, and that new knowledge can be integrated by adding edges rather than re-summarizing.'
+title: 'PageRank on LLM entity graph aids multi-hop'
+statement: >-
+  Jiménez Gutiérrez et al. report that indexing a corpus as a schemaless
+  entity graph extracted by an LLM and retrieving passages by Personalized
+  PageRank seeded from query entities improves single-step multi-hop
+  retrieval over dense retrievers on MuSiQue and 2WikiMultiHopQA, matching
+  iterative retrieval (IRCoT) at a fraction of its cost, and that new
+  knowledge can be integrated by adding edges rather than re-summarizing.
 version: 1
 tags:
 - information-retrieval
@@ -23,7 +30,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1767: Jiménez Gutiérrez et al. report that indexing a corpus as a schemaless entity graph extracted by an LLM and retrieving passages by Personalized PageRank seeded from query entities improves single-step multi-hop retrieval over dense retrievers on MuSiQue and 2WikiMultiHopQA, matching iterative retrieval (IRCoT) at a fraction of its cost, and that new knowledge can be integrated by adding edges rather than re-summarizing.
+# THEORY-1767: PageRank on LLM entity graph aids multi-hop
 
 ## The account
 

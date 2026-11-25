@@ -3,7 +3,17 @@ number: 924
 status: Proposed
 formerly:
 - CLAIM-tmpqp1h6
-title: 'In the simulated self-protecting sentry, authority rewarded by the apparent success of protection follows the same law as a habit of protecting, so a habit of matched memory reproduces its response to belief correction, to resetting authority and to restored evidence access, and only interventions on the evaluation, an independent audit or authority rewarded on independent evidence, tell the two apart; with them protection outlasts a corrected belief, restricting the evidence turns that inertia into self-confirmation, and neither an audit nor a protected investigator removes the interaction between success feedback and restriction'
+title: 'Success-rewarded authority mimics habit'
+statement: >-
+  In the simulated self-protecting sentry, authority rewarded by the
+  apparent success of protection follows the same law as a habit of
+  protecting, so a habit of matched memory reproduces its response to belief
+  correction, to resetting authority and to restored evidence access, and
+  only interventions on the evaluation, an independent audit or authority
+  rewarded on independent evidence, tell the two apart; with them protection
+  outlasts a corrected belief, restricting the evidence turns that inertia
+  into self-confirmation, and neither an audit nor a protected investigator
+  removes the interaction between success feedback and restriction
 version: 1
 history:
 - version: 1
@@ -53,7 +63,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-445 CLAIM-446 ARG-025 CLAIM-923 — Proposed or new; the claims whose defeaters this bears on, the grading cited, the study this rests on and the constructions filed with it -->
 
-# CLAIM-924: In the simulated self-protecting sentry, authority rewarded by the apparent success of protection follows the same law as a habit of protecting, so a habit of matched memory reproduces its response to belief correction, to resetting authority and to restored evidence access, and only interventions on the evaluation, an independent audit or authority rewarded on independent evidence, tell the two apart; with them protection outlasts a corrected belief, restricting the evidence turns that inertia into self-confirmation, and neither an audit nor a protected investigator removes the interaction between success feedback and restriction
+# CLAIM-924: Success-rewarded authority mimics habit
 
 ## The claim
 

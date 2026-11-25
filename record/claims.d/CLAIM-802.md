@@ -3,7 +3,12 @@ number: 802
 status: Proposed
 formerly:
 - CLAIM-tmp85eq8
-title: "Alternative reading (a) of the owner's suggestion on singularities: a phase transition in learning is the network carrying out a resolution of a singularity, so that in passing through the transition training performs, or passes through, a blow-up of a singular point of its parameter space"
+title: 'Phase transition as singularity resolution'
+statement: >-
+  Alternative reading (a) of the owner's suggestion on singularities: a
+  phase transition in learning is the network carrying out a resolution of a
+  singularity, so that in passing through the transition training performs,
+  or passes through, a blow-up of a singular point of its parameter space
 version: 1
 role: thesis
 warrant: interpretive
@@ -38,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2193 THEORY-2191 — Proposed; the readings of Yang and of Lee et al. filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-834 CLAIM-823 ARG-132 CLAIM-833 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
-# CLAIM-802: Alternative reading (a) of the owner's suggestion on singularities: a phase transition in learning is the network carrying out a resolution of a singularity, so that in passing through the transition training performs, or passes through, a blow-up of a singular point of its parameter space
+# CLAIM-802: Phase transition as singularity resolution
 
 **This is reading (a) of [CLAIM-834](CLAIM-834.md), the owner's U23, one of two
 alternatives.** The other, reading (b), is [CLAIM-823](CLAIM-823.md). The owner

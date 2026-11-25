@@ -3,7 +3,12 @@ number: 721
 status: Active
 formerly:
 - THEORY-tmpa07hh
-title: 'On a complex Hilbert space no orthonormal basis or tensor factorisation of given dimensions is distinguished by the space alone, and orthonormal bases correspond exactly to commutative special †-Frobenius algebras; over the reals that correspondence fails'
+title: '†-Frobenius algebras are orthonormal bases'
+statement: >-
+  On a complex Hilbert space no orthonormal basis or tensor factorisation of
+  given dimensions is distinguished by the space alone, and orthonormal
+  bases correspond exactly to commutative special †-Frobenius algebras; over
+  the reals that correspondence fails
 version: 1
 history:
 - version: 1
@@ -40,7 +45,7 @@ summary: >-
   nonzero copyable vector.
 ---
 
-# THEORY-721: On a complex Hilbert space no orthonormal basis or tensor factorisation of given dimensions is distinguished by the space alone, and orthonormal bases correspond exactly to commutative special †-Frobenius algebras; over the reals that correspondence fails
+# THEORY-721: †-Frobenius algebras are orthonormal bases
 
 ## Source
 

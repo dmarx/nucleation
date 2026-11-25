@@ -12,7 +12,13 @@ promote_when: >-
   them, measured independently, track truth better or correct error
   faster than those that do not. Agreement among philosophers, or the
   plausibility of the norms, cannot settle it.
-title: 'Scientific objectivity belongs to a community''s critical practices rather than to individual method: because evidence bears on hypotheses only through background assumptions that no evidence supports, a community is objective to the degree that its criticism has venues, uptake, public standards and tempered equality of intellectual authority'
+title: 'Objectivity lies in community criticism'
+statement: >-
+  Scientific objectivity belongs to a community's critical practices rather
+  than to individual method: because evidence bears on hypotheses only
+  through background assumptions that no evidence supports, a community is
+  objective to the degree that its criticism has venues, uptake, public
+  standards and tempered equality of intellectual authority
 version: 2
 history:
 - version: 2
@@ -48,7 +54,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-148 — Proposed; the transient-diversity account filed in this batch -->
 <!-- inactive-ok-file: LIT-717 LIT-732 — Unavailable, unread; Longino's books, named as where the argument is made -->
 
-# THEORY-151: Scientific objectivity belongs to a community's critical practices rather than to individual method: because evidence bears on hypotheses only through background assumptions that no evidence supports, a community is objective to the degree that its criticism has venues, uptake, public standards and tempered equality of intellectual authority
+# THEORY-151: Objectivity lies in community criticism
 
 ## Source
 

@@ -3,7 +3,12 @@ number: 113
 status: Active
 formerly:
 - CLAIM-tmpwnnx4
-title: 'Transformations and invariants define one another: translation preserves some structures exactly, carries some equivariantly, preserves some approximately and reorganizes others, and identity is studied through what a class of transformations leaves invariant'
+title: 'Transformations and invariants define each other'
+statement: >-
+  Transformations and invariants define one another: translation preserves
+  some structures exactly, carries some equivariantly, preserves some
+  approximately and reorganizes others, and identity is studied through what
+  a class of transformations leaves invariant
 version: 2
 history:
 - version: 2
@@ -39,7 +44,7 @@ complements:
 ---
 <!-- ref::uses-file: TERM-004 — stated in "equivariance"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 
-# CLAIM-113: Transformations and invariants define one another: translation preserves some structures exactly, carries some equivariantly, preserves some approximately and reorganizes others, and identity is studied through what a class of transformations leaves invariant
+# CLAIM-113: Transformations and invariants define each other
 
 ## The claim
 

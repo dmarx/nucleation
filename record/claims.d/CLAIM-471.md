@@ -3,7 +3,14 @@ number: 471
 status: Active
 formerly:
 - CLAIM-tmpdjt64
-title: 'Physical interconnection can generate effective constraints on joint behaviour; measurement can estimate correspondences among local descriptions; and adaptive apparatuses can revise those correspondences; gluing expresses compatibility under specified relations, but neither the relations'' physical generation nor their adequacy follows from gluing alone'
+title: 'Gluing alone yields no physical relations'
+statement: >-
+  Physical interconnection can generate effective constraints on joint
+  behaviour; measurement can estimate correspondences among local
+  descriptions; and adaptive apparatuses can revise those correspondences;
+  gluing expresses compatibility under specified relations, but neither the
+  relations' physical generation nor their adequacy follows from gluing
+  alone
 version: 5
 history:
 - version: 2
@@ -123,7 +130,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1660 LIT-1639 — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
 <!-- ref::uses-file: TERM-093 — the "correspondences among local descriptions" that measurement estimates and adaptive apparatuses revise, held apart from physical coupling, are TERM-093's correspondence structure, held as discovered or adapted -->
 
-# CLAIM-471: Physical interconnection can generate effective constraints on joint behaviour; measurement can estimate correspondences among local descriptions; and adaptive apparatuses can revise those correspondences; gluing expresses compatibility under specified relations, but neither the relations' physical generation nor their adequacy follows from gluing alone
+# CLAIM-471: Gluing alone yields no physical relations
 
 ## The claim
 

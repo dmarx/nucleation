@@ -3,7 +3,13 @@ number: 2029
 status: Proposed
 formerly:
 - THEORY-tmphnbs9
-title: 'Smith, Friston and Whyte show, in a tutorial simulation of an explore–exploit task with a costly hint, that an active-inference agent learning which option is better takes the hint early and less often as its Dirichlet counts grow, takes it less the more precisely it prefers the larger win, and returns to it after unexpected losses'
+title: 'Hint-seeking falls as the agent learns'
+statement: >-
+  Smith, Friston and Whyte show, in a tutorial simulation of an
+  explore–exploit task with a costly hint, that an active-inference agent
+  learning which option is better takes the hint early and less often as its
+  Dirichlet counts grow, takes it less the more precisely it prefers the
+  larger win, and returns to it after unexpected losses
 version: 1
 source:
 - LIT-2827
@@ -34,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2117 — Skimmed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2029: Smith, Friston and Whyte show, in a tutorial simulation of an explore–exploit task with a costly hint, that an active-inference agent learning which option is better takes the hint early and less often as its Dirichlet counts grow, takes it less the more precisely it prefers the larger win, and returns to it after unexpected losses
+# THEORY-2029: Hint-seeking falls as the agent learns
 
 ## The account
 

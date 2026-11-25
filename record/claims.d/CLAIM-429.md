@@ -3,7 +3,15 @@ number: 429
 status: Active
 formerly:
 - CLAIM-tmpm3bml
-title: 'Where interpretation decides the occasions for cooperation and cooperation''s outcomes revise interpretation, an intervention can change the loop''s state or its coupling: a favourable exception changes the state and leaves the rule that judges exceptions as it was, while a change in how far outcomes may revise the governing interpretation changes the coupling, and where the coupling does not depend on the state, only the second changes how later evidence is taken'
+title: 'Interventions change the loop''s state or coupling'
+statement: >-
+  Where interpretation decides the occasions for cooperation and
+  cooperation's outcomes revise interpretation, an intervention can change
+  the loop's state or its coupling: a favourable exception changes the state
+  and leaves the rule that judges exceptions as it was, while a change in
+  how far outcomes may revise the governing interpretation changes the
+  coupling, and where the coupling does not depend on the state, only the
+  second changes how later evidence is taken
 version: 2
 history:
 - version: 2
@@ -63,7 +71,7 @@ summary: >-
   [CLAIM-330](CLAIM-330.md)).
 ---
 
-# CLAIM-429: Where interpretation decides the occasions for cooperation and cooperation's outcomes revise interpretation, an intervention can change the loop's state or its coupling: a favourable exception changes the state and leaves the rule that judges exceptions as it was, while a change in how far outcomes may revise the governing interpretation changes the coupling, and where the coupling does not depend on the state, only the second changes how later evidence is taken
+# CLAIM-429: Interventions change the loop's state or coupling
 
 ## The claim
 

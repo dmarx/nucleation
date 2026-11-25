@@ -3,7 +3,15 @@ number: 1847
 status: Proposed
 formerly:
 - THEORY-tmpm76rc
-title: 'Vallor holds that moral virtues are habituated and presuppose repeated practice of skills of moral analysis, deliberation and action, so that automated warfare which makes those practices redundant risks a moral deskilling of the military profession even with a human on the loop, since expertise to supervise a decision requires having practised it, and that whether a technology deskills is an empirical question of its context of use'
+title: 'Automated warfare risks moral deskilling'
+statement: >-
+  Vallor holds that moral virtues are habituated and presuppose repeated
+  practice of skills of moral analysis, deliberation and action, so that
+  automated warfare which makes those practices redundant risks a moral
+  deskilling of the military profession even with a human on the loop, since
+  expertise to supervise a decision requires having practised it, and that
+  whether a technology deskills is an empirical question of its context of
+  use
 version: 1
 source:
 - LIT-2575
@@ -29,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2591 until 2027-05-13 — Unavailable; the book this paper partly stands in for -->
 <!-- inactive-ok-file: THEORY-1857 — Proposed; cited with its standing -->
 
-# THEORY-1847: Vallor holds that moral virtues are habituated and presuppose repeated practice of skills of moral analysis, deliberation and action, so that automated warfare which makes those practices redundant risks a moral deskilling of the military profession even with a human on the loop, since expertise to supervise a decision requires having practised it, and that whether a technology deskills is an empirical question of its context of use
+# THEORY-1847: Automated warfare risks moral deskilling
 
 ## The account
 

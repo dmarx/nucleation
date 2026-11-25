@@ -3,7 +3,14 @@ number: 1805
 status: Proposed
 formerly:
 - THEORY-tmpwrxy3
-title: 'Ghareeb and colleagues report that Robin, a set of LLM literature and data-analysis agents, generated and ranked therapeutic hypotheses for dry age-related macular degeneration, proposed the assay, analysed the resulting data and proposed follow-ups, leading to in vitro evidence that ripasudil and KL001 enhance retinal pigment epithelium phagocytosis, with humans selecting candidates and executing all experiments.'
+title: 'Robin agents led to an AMD drug lead in vitro'
+statement: >-
+  Ghareeb and colleagues report that Robin, a set of LLM literature and
+  data-analysis agents, generated and ranked therapeutic hypotheses for dry
+  age-related macular degeneration, proposed the assay, analysed the
+  resulting data and proposed follow-ups, leading to in vitro evidence that
+  ripasudil and KL001 enhance retinal pigment epithelium phagocytosis, with
+  humans selecting candidates and executing all experiments.
 version: 1
 tags:
 - philosophy-of-science
@@ -21,7 +28,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1805: Ghareeb and colleagues report that Robin, a set of LLM literature and data-analysis agents, generated and ranked therapeutic hypotheses for dry age-related macular degeneration, proposed the assay, analysed the resulting data and proposed follow-ups, leading to in vitro evidence that ripasudil and KL001 enhance retinal pigment epithelium phagocytosis, with humans selecting candidates and executing all experiments.
+# THEORY-1805: Robin agents led to an AMD drug lead in vitro
 
 ## The account
 

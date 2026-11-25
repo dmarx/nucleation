@@ -19,7 +19,12 @@ promote_when: >-
   features, but their Theorems 10–11 need a uniform g_max like HaoChen
   et al.'s F.1, and they have no operator or eigenfunctions; this does
   not meet it.
-title: 'The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator''s eigenfunctions, well defined when the positive-pair χ²-divergence is finite'
+title: 'Spectral features are E[·|view] eigenfunctions'
+statement: >-
+  The positive-pair density ratio is the kernel of the
+  conditional-expectation operator on L²(p), so spectral representations are
+  that operator's eigenfunctions, well defined when the positive-pair
+  χ²-divergence is finite
 version: 6
 history:
 - version: 2
@@ -98,7 +103,7 @@ bounds:
 - CLAIM-370
 ---
 
-# THEORY-005: The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite
+# THEORY-005: Spectral features are E[·|view] eigenfunctions
 
 ## Source
 

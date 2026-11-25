@@ -3,7 +3,15 @@ number: 1049
 status: Active
 formerly:
 - THEORY-tmpf67xs
-title: 'On McCutcheon and colleagues'' survey, bacterial endosymbionts lose their own cell-envelope and envelope-transport genes together below about 400 kb, and begin to lose translation genes (ribosomal proteins, tRNAs, aminoacyl-tRNA synthetases) below about 200 kb, so that the smallest-genome symbionts cannot be self-sufficient and their membranes, transport and protein synthesis are presumably supplied by the host, as for organelles'
+title: 'Tiny symbionts lose envelope, then translation'
+statement: >-
+  On McCutcheon and colleagues' survey, bacterial endosymbionts lose their
+  own cell-envelope and envelope-transport genes together below about 400
+  kb, and begin to lose translation genes (ribosomal proteins, tRNAs,
+  aminoacyl-tRNA synthetases) below about 200 kb, so that the
+  smallest-genome symbionts cannot be self-sufficient and their membranes,
+  transport and protein synthesis are presumably supplied by the host, as
+  for organelles
 version: 3
 history:
 - version: 1
@@ -63,7 +71,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1208 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: CASE-173 CASE-171 CASE-174 — Open, Proposed or Deferred; the question, cases and unread works set beside this, nothing here rests on them -->
-# THEORY-1049: On McCutcheon and colleagues' survey, bacterial endosymbionts lose their own cell-envelope and envelope-transport genes together below about 400 kb, and begin to lose translation genes (ribosomal proteins, tRNAs, aminoacyl-tRNA synthetases) below about 200 kb, so that the smallest-genome symbionts cannot be self-sufficient and their membranes, transport and protein synthesis are presumably supplied by the host, as for organelles
+# THEORY-1049: Tiny symbionts lose envelope, then translation
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 716
 status: Active
 formerly:
 - THEORY-tmpims74
-title: "Synergy can be measured as the whole minus the union of its parts, the union information being the least information the sources could jointly carry about the target with every source–target marginal held fixed; this synergy lies between WholeMinusSum and Williams and Beer's S_max, which respectively subtract redundancy and count unique information as synergy, and for two sources it is Bertschinger et al.'s synergy, so independent sources can share information about a target, as the authors' last version concedes against their first"
+title: 'Synergy as whole minus union information'
+statement: >-
+  Synergy can be measured as the whole minus the union of its parts, the
+  union information being the least information the sources could jointly
+  carry about the target with every source–target marginal held fixed; this
+  synergy lies between WholeMinusSum and Williams and Beer's S_max, which
+  respectively subtract redundancy and count unique information as synergy,
+  and for two sources it is Bertschinger et al.'s synergy, so independent
+  sources can share information about a target, as the authors' last version
+  concedes against their first
 version: 1
 tags:
 - information-theory
@@ -21,7 +30,7 @@ summary: >-
   a step the reading could not reconstruct.
 ---
 
-# THEORY-716: Synergy can be measured as the whole minus the union of its parts, the union information being the least information the sources could jointly carry about the target with every source–target marginal held fixed; this synergy lies between WholeMinusSum and Williams and Beer's S_max, which respectively subtract redundancy and count unique information as synergy, and for two sources it is Bertschinger et al.'s synergy, so independent sources can share information about a target, as the authors' last version concedes against their first
+# THEORY-716: Synergy as whole minus union information
 
 ## Source
 

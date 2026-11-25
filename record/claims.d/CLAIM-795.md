@@ -3,7 +3,13 @@ number: 795
 status: Proposed
 formerly:
 - CLAIM-tmp1dlyp
-title: 'Power laws arise from many mechanisms with no positive feedback: a branching process balanced between extinction and growth, a tuned critical point, first-passage times of a random walk, a mixture of exponential rates, sample-space reduction, steady growth with a spread of ages, and an inverse power of a uniform variable'
+title: 'Power laws without positive feedback'
+statement: >-
+  Power laws arise from many mechanisms with no positive feedback: a
+  branching process balanced between extinction and growth, a tuned critical
+  point, first-passage times of a random walk, a mixture of exponential
+  rates, sample-space reduction, steady growth with a spread of ages, and an
+  inverse power of a uniform variable
 version: 3
 history:
 - version: 2
@@ -75,7 +81,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-2176 THEORY-2175 THEORY-2177 CLAIM-857 ARG-175 ARG-177 ARG-176 THEORY-2179 — Proposed; the readings of 2026-11-22 for items 4, 5 and 6 and the sandpile, the assistant's condition on the spread, and the arguments for their support -->
 <!-- inactive-ok-file: THEORY-2131 CASE-303 CLAIM-769 CLAIM-815 CLAIM-824 CLAIM-803 THEORY-2150 — Proposed or new; held readings and claims, and entries filed with this one -->
 
-# CLAIM-795: Power laws arise from many mechanisms with no positive feedback: a branching process balanced between extinction and growth, a tuned critical point, first-passage times of a random walk, a mixture of exponential rates, sample-space reduction, steady growth with a spread of ages, and an inverse power of a uniform variable
+# CLAIM-795: Power laws without positive feedback
 
 ## The catalogue (A5), each rechecked
 

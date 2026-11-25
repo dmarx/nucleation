@@ -3,7 +3,18 @@ number: 904
 status: Active
 formerly:
 - THEORY-tmp8y1fr
-title: 'Gollwitzer and Sheeran (2006) conclude, narratively from a handful of studies that measured or manipulated the goal intention, that implementation intentions affect performance only when the goal intention they serve is strong and activated, so the planned response is not elicited mechanically by its cue; in 2024, across eight tests, plan effects were larger with strong, activated or self-concordant goal intentions than with weak, unactivated or self-discordant ones (d = .79 for the difference), and in 31 physical-activity tests split at the median of intention, planning helped with strong intentions (d = .31) and had no effect with weak ones (d ≈ 0)'
+title: 'Plans work only with strong goal intentions'
+statement: >-
+  Gollwitzer and Sheeran (2006) conclude, narratively from a handful of
+  studies that measured or manipulated the goal intention, that
+  implementation intentions affect performance only when the goal intention
+  they serve is strong and activated, so the planned response is not
+  elicited mechanically by its cue; in 2024, across eight tests, plan
+  effects were larger with strong, activated or self-concordant goal
+  intentions than with weak, unactivated or self-discordant ones (d = .79
+  for the difference), and in 31 physical-activity tests split at the median
+  of intention, planning helped with strong intentions (d = .31) and had no
+  effect with weak ones (d ≈ 0)
 version: 2
 history:
 - version: 2
@@ -48,7 +59,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: ADR-047 THEORY-1176 — ADR-047 Superseded by ADR-057, which keeps its evidence rulings; THEORY-1176 Proposed, the reading that keeps the general clause of the old title -->
 
-# THEORY-904: Gollwitzer and Sheeran (2006) conclude, narratively from a handful of studies that measured or manipulated the goal intention, that implementation intentions affect performance only when the goal intention they serve is strong and activated, so the planned response is not elicited mechanically by its cue; in 2024, across eight tests, plan effects were larger with strong, activated or self-concordant goal intentions than with weak, unactivated or self-discordant ones (d = .79 for the difference), and in 31 physical-activity tests split at the median of intention, planning helped with strong intentions (d = .31) and had no effect with weak ones (d ≈ 0)
+# THEORY-904: Plans work only with strong goal intentions
 
 ## Source
 

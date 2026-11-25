@@ -3,7 +3,13 @@ number: 629
 status: Active
 formerly:
 - THEORY-tmpryy39
-title: "Every continuous linear functional on a Hilbert space is the inner product with a unique vector of the same norm, given in any orthonormal basis by the conjugated values of the functional on the basis; completeness is what makes it so, and Riesz's 1907 statement on L² asserted only that a representing function exists"
+title: 'Hilbert-space functionals are inner products'
+statement: >-
+  Every continuous linear functional on a Hilbert space is the inner product
+  with a unique vector of the same norm, given in any orthonormal basis by
+  the conjugated values of the functional on the basis; completeness is what
+  makes it so, and Riesz's 1907 statement on L² asserted only that a
+  representing function exists
 version: 2
 history:
 - version: 2
@@ -36,7 +42,7 @@ bounds:
 - CLAIM-291
 ---
 
-# THEORY-629: Every continuous linear functional on a Hilbert space is the inner product with a unique vector of the same norm, given in any orthonormal basis by the conjugated values of the functional on the basis; completeness is what makes it so, and Riesz's 1907 statement on L² asserted only that a representing function exists
+# THEORY-629: Hilbert-space functionals are inner products
 
 ## Source
 

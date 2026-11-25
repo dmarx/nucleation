@@ -3,7 +3,14 @@ number: 1299
 status: Proposed
 formerly:
 - CLAIM-tmpmacjk
-title: "A collaboration record's attributions are only as reliable as the step that makes them: this record attributes each contribution by quotation checked against a verbatim transcript the filer did not write, and a record kept by the student alone, with no such transcript, is self-report that leaves an adopted LLM proposal indistinguishable from the student's own"
+title: 'Attributions as reliable as the attributing step'
+statement: >-
+  A collaboration record's attributions are only as reliable as the step
+  that makes them: this record attributes each contribution by quotation
+  checked against a verbatim transcript the filer did not write, and a
+  record kept by the student alone, with no such transcript, is self-report
+  that leaves an adopted LLM proposal indistinguishable from the student's
+  own
 version: 2
 history:
 - version: 2
@@ -45,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-668 — Proposed; the premise that a record can represent who contributed -->
 <!-- inactive-ok-file: CLAIM-1213 — new; filed from the same exchange -->
 
-# CLAIM-1299: A collaboration record's attributions are only as reliable as the step that makes them: this record attributes each contribution by quotation checked against a verbatim transcript the filer did not write, and a record kept by the student alone, with no such transcript, is self-report that leaves an adopted LLM proposal indistinguishable from the student's own
+# CLAIM-1299: Attributions as reliable as the attributing step
 
 ## The claim
 

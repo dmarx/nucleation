@@ -3,7 +3,10 @@ number: 17
 status: Superseded
 formerly:
 - CLAIM-tmp509ul
-title: 'What survives translation is the invariants, and approximately preserved relations, of communicative transformation'
+title: 'Communicative invariants survive translation'
+statement: >-
+  What survives translation is the invariants, and approximately preserved
+  relations, of communicative transformation
 version: 1
 role: thesis
 warrant: interpretive
@@ -28,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
-# CLAIM-017: What survives translation is the invariants, and approximately preserved relations, of communicative transformation
+# CLAIM-017: Communicative invariants survive translation
 
 ## The claim
 

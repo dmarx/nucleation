@@ -3,7 +3,11 @@ number: 840
 status: Proposed
 formerly:
 - CLAIM-tmpr9au6
-title: 'Where criticality and power laws go together, the distribution often shows, below the transition, a bulk of probability mass separated from a long tail of low mass'
+title: 'Criticality shows a bulk separated from a tail'
+statement: >-
+  Where criticality and power laws go together, the distribution often
+  shows, below the transition, a bulk of probability mass separated from a
+  long tail of low mass
 version: 1
 role: thesis
 warrant: empirical
@@ -43,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-845 CLAIM-829 CASE-303 CASE-305 ARG-136 CLAIM-832 CLAIM-769 — Proposed or new; the readings, cases and claims filed with this one from the same exchange, and a held claim cited as a contrast -->
 <!-- inactive-ok-file: THEORY-2176 — Proposed; the reading of Beck and Cohen, 2026-11-22 -->
 
-# CLAIM-840: Where criticality and power laws go together, the distribution often shows, below the transition, a bulk of probability mass separated from a long tail of low mass
+# CLAIM-840: Criticality shows a bulk separated from a tail
 
 ## The claim
 

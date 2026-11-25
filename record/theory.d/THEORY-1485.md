@@ -3,7 +3,14 @@ number: 1485
 status: Active
 formerly:
 - THEORY-tmpm618c
-title: 'On Schröder, Persson and De Roos, of 35 manipulation experiments testing for alternative stable states, 21 were conclusive over at least one turnover of the longest-lived organisms, 13 of them showing bistability and 8 its absence; positives came mostly from laboratory rather than field systems, and only 3 of 15 tests of non-recovery after a pressure was removed were positive'
+title: 'Bistability tests are rare and mostly lab-based'
+statement: >-
+  On Schröder, Persson and De Roos, of 35 manipulation experiments testing
+  for alternative stable states, 21 were conclusive over at least one
+  turnover of the longest-lived organisms, 13 of them showing bistability
+  and 8 its absence; positives came mostly from laboratory rather than field
+  systems, and only 3 of 15 tests of non-recovery after a pressure was
+  removed were positive
 version: 3
 history:
 - version: 2
@@ -54,7 +61,7 @@ bears_on:
 - QUESTION-398
 ---
 
-# THEORY-1485: On Schröder, Persson and De Roos, of 35 manipulation experiments testing for alternative stable states, 21 were conclusive over at least one turnover of the longest-lived organisms, 13 of them showing bistability and 8 its absence; positives came mostly from laboratory rather than field systems, and only 3 of 15 tests of non-recovery after a pressure was removed were positive
+# THEORY-1485: Bistability tests are rare and mostly lab-based
 
 ## Source
 

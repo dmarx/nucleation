@@ -3,7 +3,15 @@ number: 1077
 status: Active
 formerly:
 - THEORY-tmpiycpt
-title: 'On a presheaf of pseudometric spaces, the consistency radius of an assignment, the largest distance between an observation and the restriction of another, is zero exactly for assignments induced by global sections (in metric spaces) and, when the restrictions are K-Lipschitz, bounds the assignment''s sup-distance from every global section below by ε/(1 + K); so fusing data into a consistent state must move it at least that far, and the bound needs no sheaf condition'
+title: 'Consistency radius bounds distance to sections'
+statement: >-
+  On a presheaf of pseudometric spaces, the consistency radius of an
+  assignment, the largest distance between an observation and the
+  restriction of another, is zero exactly for assignments induced by global
+  sections (in metric spaces) and, when the restrictions are K-Lipschitz,
+  bounds the assignment's sup-distance from every global section below by
+  ε/(1 + K); so fusing data into a consistent state must move it at least
+  that far, and the bound needs no sheaf condition
 version: 2
 history:
 - version: 2
@@ -37,7 +45,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-1092 — Proposed; the localization finding filed beside this one, cited as open -->
 
-# THEORY-1077: On a presheaf of pseudometric spaces, the consistency radius of an assignment, the largest distance between an observation and the restriction of another, is zero exactly for assignments induced by global sections (in metric spaces) and, when the restrictions are K-Lipschitz, bounds the assignment's sup-distance from every global section below by ε/(1 + K); so fusing data into a consistent state must move it at least that far, and the bound needs no sheaf condition
+# THEORY-1077: Consistency radius bounds distance to sections
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 470
 status: Active
 formerly:
 - CLAIM-tmpalzo4
-title: 'Inquiry is a form of specification: a question fixes which differences would count as an answer, an inquiry adds the operations that make those differences accessible, and what it finds can stabilize into a specification that constrains later inquiry; so inquiry stands to its findings as a specification to its realizations, with one difference, that an inquiry can revise what an answer could be'
+title: 'Inquiry is a form of specification'
+statement: >-
+  Inquiry is a form of specification: a question fixes which differences
+  would count as an answer, an inquiry adds the operations that make those
+  differences accessible, and what it finds can stabilize into a
+  specification that constrains later inquiry; so inquiry stands to its
+  findings as a specification to its realizations, with one difference, that
+  an inquiry can revise what an answer could be
 version: 9
 history:
 - version: 2
@@ -127,7 +134,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1645 LIT-1651 LIT-1675 LIT-1641 LIT-1665 LIT-1637 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->
 <!-- inactive-ok-file: THEORY-1785 THEORY-1812 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-470: Inquiry is a form of specification: a question fixes which differences would count as an answer, an inquiry adds the operations that make those differences accessible, and what it finds can stabilize into a specification that constrains later inquiry; so inquiry stands to its findings as a specification to its realizations, with one difference, that an inquiry can revise what an answer could be
+# CLAIM-470: Inquiry is a form of specification
 
 ## The claim
 

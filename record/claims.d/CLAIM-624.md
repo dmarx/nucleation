@@ -3,7 +3,14 @@ number: 624
 status: Proposed
 formerly:
 - CLAIM-tmptfuky
-title: 'The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative'
+title: 'A second-order duty of answerability'
+statement: >-
+  The wrong beyond violation that an organization commits by reproducing
+  representations and allocations of authority that keep a justified
+  standard from constraining it is a breach of a second-order duty of
+  answerability: to maintain feasible means for relevant violations to
+  become knowable, contestable and correctable; it is a verdict only given
+  an independently justified standard and a feasible alternative
 version: 13
 history:
 - version: 2
@@ -188,7 +195,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-229 ARG-055 — filed from A's review of the pull request, Proposed; the matched-harm construction and the argument from it -->
 <!-- inactive-ok-file: CLAIM-445 CLAIM-511 CLAIM-545 CLAIM-545 CLAIM-472 THEORY-145 TERM-083 QUESTION-068 — Proposed, Deferred or Superseded; components and boundaries, cited with their standing -->
 
-# CLAIM-624: The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative
+# CLAIM-624: A second-order duty of answerability
 
 *Returned to CLAIM from [SYNTHESIS-002](../syntheses.d/SYNTHESIS-002.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 

@@ -3,7 +3,14 @@ number: 803
 status: Proposed
 formerly:
 - CLAIM-tmp8h6nt
-title: 'A power-law distribution does not identify the mechanism that produced it, nor does a shared power law show a shared mechanism or universality class; the mechanism has to be read from the dynamics, whether gain scales with size, whether there are floors or resets, whether the cutoff grows with the system, after the tail has been fitted against alternatives such as the lognormal'
+title: 'A power law does not identify its mechanism'
+statement: >-
+  A power-law distribution does not identify the mechanism that produced it,
+  nor does a shared power law show a shared mechanism or universality class;
+  the mechanism has to be read from the dynamics, whether gain scales with
+  size, whether there are floors or resets, whether the cutoff grows with
+  the system, after the tail has been fitted against alternatives such as
+  the lognormal
 version: 2
 history:
 - version: 2
@@ -57,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-824 CLAIM-830 THEORY-777 THEORY-789 THEORY-2150 ARG-141 CLAIM-795 — Proposed or new; claims and the lead filed with this one, and held readings cited as neighbours -->
 <!-- inactive-ok-file: THEORY-2176 THEORY-2175 THEORY-2177 CLAIM-857 LIT-3040 LIT-3005 — Proposed, Deferred or Unfetched; the readings of 2026-11-22, the assistant's condition on the spread, Miller's work, and Kesten's, read through neighbours -->
 
-# CLAIM-803: A power-law distribution does not identify the mechanism that produced it, nor does a shared power law show a shared mechanism or universality class; the mechanism has to be read from the dynamics, whether gain scales with size, whether there are floors or resets, whether the cutoff grows with the system, after the tail has been fitted against alternatives such as the lognormal
+# CLAIM-803: A power law does not identify its mechanism
 
 ## The claim (A1, A3)
 

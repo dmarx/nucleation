@@ -3,7 +3,13 @@ number: 329
 status: Active
 formerly:
 - THEORY-tmpzojtc
-title: "In 32,479 Weibo posts of 2011–2016 scored with an emotion lexicon, posts tagged fake by the platform's fact-checkers carry more anger and less joy than true posts from verified accounts, and a post's share of anger words goes with more retweets after controls; whether the gap is due to falsity, and whether anger causes the spread, is not shown"
+title: 'Fake Weibo posts carry more anger than true ones'
+statement: >-
+  In 32,479 Weibo posts of 2011–2016 scored with an emotion lexicon, posts
+  tagged fake by the platform's fact-checkers carry more anger and less joy
+  than true posts from verified accounts, and a post's share of anger words
+  goes with more retweets after controls; whether the gap is due to falsity,
+  and whether anger causes the spread, is not shown
 version: 2
 history:
 - version: 2
@@ -57,7 +63,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-1221 — Proposed; the paper's thesis split from this entry, cited as open -->
 
-# THEORY-329: In 32,479 Weibo posts of 2011–2016 scored with an emotion lexicon, posts tagged fake by the platform's fact-checkers carry more anger and less joy than true posts from verified accounts, and a post's share of anger words goes with more retweets after controls; whether the gap is due to falsity, and whether anger causes the spread, is not shown
+# THEORY-329: Fake Weibo posts carry more anger than true ones
 
 ## Source
 

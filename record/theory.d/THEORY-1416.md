@@ -3,7 +3,16 @@ number: 1416
 status: Active
 formerly:
 - THEORY-tmppfbrx
-title: 'van Leeuwaarden, Mathijsen and Zwart report that Halfin and Whitt showed that in a many-server queue with Poisson arrivals and exponential service the probability that an arrival waits tends to a value strictly between zero and one exactly when the number of servers exceeds the offered load by a multiple of its square root, and that the scaled number in system then tends to a diffusion that is a negative-drift Brownian motion above full occupancy and an Ornstein–Uhlenbeck process below it; they prove the limit of the waiting probability under that scaling'
+title: 'Square-root staffing gives nontrivial waiting'
+statement: >-
+  van Leeuwaarden, Mathijsen and Zwart report that Halfin and Whitt showed
+  that in a many-server queue with Poisson arrivals and exponential service
+  the probability that an arrival waits tends to a value strictly between
+  zero and one exactly when the number of servers exceeds the offered load
+  by a multiple of its square root, and that the scaled number in system
+  then tends to a diffusion that is a negative-drift Brownian motion above
+  full occupancy and an Ornstein–Uhlenbeck process below it; they prove the
+  limit of the waiting probability under that scaling
 version: 3
 history:
 - version: 1
@@ -61,7 +70,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: LIT-2085 — Unavailable; the unread original the tutorial reports, cited as open -->
 
-# THEORY-1416: van Leeuwaarden, Mathijsen and Zwart report that Halfin and Whitt showed that in a many-server queue with Poisson arrivals and exponential service the probability that an arrival waits tends to a value strictly between zero and one exactly when the number of servers exceeds the offered load by a multiple of its square root, and that the scaled number in system then tends to a diffusion that is a negative-drift Brownian motion above full occupancy and an Ornstein–Uhlenbeck process below it; they prove the limit of the waiting probability under that scaling
+# THEORY-1416: Square-root staffing gives nontrivial waiting
 
 ## Source
 

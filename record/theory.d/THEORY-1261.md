@@ -3,7 +3,16 @@ number: 1261
 status: Active
 formerly:
 - THEORY-tmph5hkv
-title: 'At stationarity a driven reaction network is confined to a thermodynamic space: each reaction''s affinity lies between zero and the largest cycle affinity per use of that reaction among the elementary flux modes containing it, and each product of concentrations lies between the effective equilibrium constants of the extremal pathways; with no driving the space collapses to the equilibrium point, so multistability, symmetry breaking and amplification above equilibrium need driving and are bounded by it'
+title: 'Driving bounds a network''s thermodynamic space'
+statement: >-
+  At stationarity a driven reaction network is confined to a thermodynamic
+  space: each reaction's affinity lies between zero and the largest cycle
+  affinity per use of that reaction among the elementary flux modes
+  containing it, and each product of concentrations lies between the
+  effective equilibrium constants of the extremal pathways; with no driving
+  the space collapses to the equilibrium point, so multistability, symmetry
+  breaking and amplification above equilibrium need driving and are bounded
+  by it
 version: 2
 history:
 - version: 2
@@ -31,7 +40,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-671 — Proposed; a candidate selection principle named for contrast -->
 
-# THEORY-1261: At stationarity a driven reaction network is confined to a thermodynamic space: each reaction's affinity lies between zero and the largest cycle affinity per use of that reaction among the elementary flux modes containing it, and each product of concentrations lies between the effective equilibrium constants of the extremal pathways; with no driving the space collapses to the equilibrium point, so multistability, symmetry breaking and amplification above equilibrium need driving and are bounded by it
+# THEORY-1261: Driving bounds a network's thermodynamic space
 
 ## Source
 

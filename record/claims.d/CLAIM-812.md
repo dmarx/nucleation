@@ -3,7 +3,15 @@ number: 812
 status: Proposed
 formerly:
 - CLAIM-tmpcg4uu
-title: 'Sloppiness and singular strata meet in two places and part in one: a sloppy eigenvalue near a stratum measures the squared distance to it, and at a finite sample size a direction too sloppy to resolve contributes to the learning coefficient no more than a flat one; they part in how the coefficient moves with sample size, rising about ½ for each direction resolved in a regular sloppy model toward d/2, and held below d/2 at every size in a singular one'
+title: 'Sloppiness and strata meet twice, part once'
+statement: >-
+  Sloppiness and singular strata meet in two places and part in one: a
+  sloppy eigenvalue near a stratum measures the squared distance to it, and
+  at a finite sample size a direction too sloppy to resolve contributes to
+  the learning coefficient no more than a flat one; they part in how the
+  coefficient moves with sample size, rising about ½ for each direction
+  resolved in a regular sloppy model toward d/2, and held below d/2 at every
+  size in a singular one
 version: 3
 history:
 - version: 2
@@ -77,7 +85,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-2167 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
 
-# CLAIM-812: Sloppiness and singular strata meet in two places and part in one: a sloppy eigenvalue near a stratum measures the squared distance to it, and at a finite sample size a direction too sloppy to resolve contributes to the learning coefficient no more than a flat one; they part in how the coefficient moves with sample size, rising about ½ for each direction resolved in a regular sloppy model toward d/2, and held below d/2 at every size in a singular one
+# CLAIM-812: Sloppiness and strata meet twice, part once
 
 ## The claim
 

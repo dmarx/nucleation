@@ -3,7 +3,15 @@ number: 960
 status: Proposed
 formerly:
 - CLAIM-tmpv1jgv
-title: 'For a whole that is a bare relational arrangement, being a constituent adds no obligation beyond those grounded in the constituent''s vulnerability, interests, rights and exposure to power: the part-whole relation locates where an obligation applies without grounding it, and because such an arrangement is not an agent the obligation falls on the agents or roles that maintain, control or benefit from it, not on the whole'
+title: 'Bare arrangements add no constituent duties'
+statement: >-
+  For a whole that is a bare relational arrangement, being a constituent
+  adds no obligation beyond those grounded in the constituent's
+  vulnerability, interests, rights and exposure to power: the part-whole
+  relation locates where an obligation applies without grounding it, and
+  because such an arrangement is not an agent the obligation falls on the
+  agents or roles that maintain, control or benefit from it, not on the
+  whole
 version: 1
 role: thesis
 warrant: interpretive
@@ -69,7 +77,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-256 — Proposed; the thought experiment this claim works through -->
 <!-- inactive-ok-file: TERM-083 CLAIM-690 CLAIM-671 CLAIM-682 CLAIM-876 CLAIM-959 ARG-207 — Proposed or new; the term, the line's neighbours, the alternative reading and this claim's argument, cited with their standing -->
 
-# CLAIM-960: For a whole that is a bare relational arrangement, being a constituent adds no obligation beyond those grounded in the constituent's vulnerability, interests, rights and exposure to power: the part-whole relation locates where an obligation applies without grounding it, and because such an arrangement is not an agent the obligation falls on the agents or roles that maintain, control or benefit from it, not on the whole
+# CLAIM-960: Bare arrangements add no constituent duties
 
 ## Which sense of "whole"
 

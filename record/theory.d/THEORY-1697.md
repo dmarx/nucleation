@@ -3,7 +3,16 @@ number: 1697
 status: Proposed
 formerly:
 - THEORY-tmpqc85l
-title: 'Davoudabadi, Makui and Rasouli (2026) propose a recommender that combines a user score built on a peak-end reference point and prospect-theory gains and losses with an organizational score based on the gap between the organization''s projected and desired operational state, weighting the organization more as the user''s purchase history is more diverse and the user more as the organization has slack, and in a simulation of one manufacturer with 100 synthetic users it reduces workshop over- and under-utilization relative to purely customer-driven recommendation.'
+title: 'Org-aware recommender cuts workshop imbalance'
+statement: >-
+  Davoudabadi, Makui and Rasouli (2026) propose a recommender that combines
+  a user score built on a peak-end reference point and prospect-theory gains
+  and losses with an organizational score based on the gap between the
+  organization's projected and desired operational state, weighting the
+  organization more as the user's purchase history is more diverse and the
+  user more as the organization has slack, and in a simulation of one
+  manufacturer with 100 synthetic users it reduces workshop over- and
+  under-utilization relative to purely customer-driven recommendation.
 version: 1
 source:
 - LIT-2429
@@ -26,7 +35,7 @@ summary: >-
   past purchases.
 ---
 
-# THEORY-1697: Davoudabadi, Makui and Rasouli (2026) propose a recommender that combines a user score built on a peak-end reference point and prospect-theory gains and losses with an organizational score based on the gap between the organization's projected and desired operational state, weighting the organization more as the user's purchase history is more diverse and the user more as the organization has slack, and in a simulation of one manufacturer with 100 synthetic users it reduces workshop over- and under-utilization relative to purely customer-driven recommendation.
+# THEORY-1697: Org-aware recommender cuts workshop imbalance
 
 ## The account
 

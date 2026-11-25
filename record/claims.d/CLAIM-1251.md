@@ -34,7 +34,13 @@ complements:
 grounds:
 - THEORY-857
 - THEORY-1842
-title: "The organizational impetus for observability and the vulnerability of legibility as a control surface for coercive domination are in tension, because what an organization makes legible so that it can coordinate and correct itself is what those able to act on it can use to dominate the observed"
+title: 'Observability is also a surface for domination'
+statement: >-
+  The organizational impetus for observability and the vulnerability of
+  legibility as a control surface for coercive domination are in tension,
+  because what an organization makes legible so that it can coordinate and
+  correct itself is what those able to act on it can use to dominate the
+  observed
 summary: >-
   The owner's thesis at U27 of the exchange "Memes, Contracts, and Systemic
   Normativity" (2026-11-24): "we should also account for the tension between
@@ -51,7 +57,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-545 CLAIM-682 CLAIM-1296 CLAIM-1268 CLAIM-1308 CLAIM-1225 CLAIM-1334 CLAIM-1322 CLAIM-1117 CLAIM-731 THEORY-857 THEORY-1842 — Proposed; the held parts and the claims filed from A42, A44 and A46 with this -->
 
-# CLAIM-1251: The organizational impetus for observability and the vulnerability of legibility as a control surface for coercive domination are in tension, because what an organization makes legible so that it can coordinate and correct itself is what those able to act on it can use to dominate the observed
+# CLAIM-1251: Observability is also a surface for domination
 
 ## The claim
 

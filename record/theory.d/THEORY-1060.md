@@ -3,7 +3,14 @@ number: 1060
 status: Active
 formerly:
 - THEORY-tmp5nb96
-title: 'Robinson''s claim that sheaves are the canonical data structure for sensor integration rests on an axiomatization, not a theorem: six axioms are posited as what an integrated sensor system must be and a sheaf is defined as whatever satisfies them, the paper calls sheaves one of many co-universal information representations, and its consistency and fusion tools need only a presheaf'
+title: 'Sheaf canonicity is axiomatic, not a theorem'
+statement: >-
+  Robinson's claim that sheaves are the canonical data structure for sensor
+  integration rests on an axiomatization, not a theorem: six axioms are
+  posited as what an integrated sensor system must be and a sheaf is defined
+  as whatever satisfies them, the paper calls sheaves one of many
+  co-universal information representations, and its consistency and fusion
+  tools need only a presheaf
 version: 2
 history:
 - version: 2
@@ -36,7 +43,7 @@ corroborates:
 - CLAIM-623
 ---
 
-# THEORY-1060: Robinson's claim that sheaves are the canonical data structure for sensor integration rests on an axiomatization, not a theorem: six axioms are posited as what an integrated sensor system must be and a sheaf is defined as whatever satisfies them, the paper calls sheaves one of many co-universal information representations, and its consistency and fusion tools need only a presheaf
+# THEORY-1060: Sheaf canonicity is axiomatic, not a theorem
 
 ## Source
 

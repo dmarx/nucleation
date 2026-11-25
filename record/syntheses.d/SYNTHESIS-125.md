@@ -3,7 +3,15 @@ number: 125
 status: Proposed
 formerly:
 - SYNTHESIS-tmp4tvbr
-title: "The argument filed from the exchange Memes, Contracts, and Systemic Normativity, mapped: from the owner's memes as nucleation sites and as characters of perspectives, through contracts between processes and implicit contracts formed by reliance, to norms stabilized by dependence, exploitation as the asymmetric use of reliance, and the exchange's applications to engineering reliability, American governance, three constitutional theories, legibility, metrics and corporate objectives"
+title: 'Memes, Contracts exchange: norms from reliance'
+statement: >-
+  The argument filed from the exchange Memes, Contracts, and Systemic
+  Normativity, mapped: from the owner's memes as nucleation sites and as
+  characters of perspectives, through contracts between processes and
+  implicit contracts formed by reliance, to norms stabilized by dependence,
+  exploitation as the asymmetric use of reliance, and the exchange's
+  applications to engineering reliability, American governance, three
+  constitutional theories, legibility, metrics and corporate objectives
 version: 5
 history:
 - version: 2
@@ -215,7 +223,7 @@ integrates:
 <!-- inactive-ok-file: ARG-241 ARG-242 ARG-243 ARG-246 ARG-248 ARG-251 ARG-252 ARG-256 ARG-257 ARG-258 ARG-259 ARG-260 CASE-422 CASE-423 CASE-424 CASE-425 CASE-426 CASE-427 CLAIM-1209 CLAIM-1210 CLAIM-1211 CLAIM-1212 CLAIM-1214 CLAIM-1216 CLAIM-1217 CLAIM-1218 CLAIM-1219 CLAIM-1220 CLAIM-1221 CLAIM-1222 CLAIM-1225 CLAIM-1227 CLAIM-1230 CLAIM-1231 CLAIM-1233 CLAIM-1236 CLAIM-1239 CLAIM-1241 CLAIM-1243 CLAIM-1244 CLAIM-1245 CLAIM-1249 CLAIM-1250 CLAIM-1251 CLAIM-1252 CLAIM-1253 CLAIM-1254 CLAIM-1255 CLAIM-1256 CLAIM-1257 CLAIM-1262 CLAIM-1264 CLAIM-1265 CLAIM-1266 CLAIM-1267 CLAIM-1268 CLAIM-1269 CLAIM-1270 CLAIM-1271 CLAIM-1272 CLAIM-1274 CLAIM-1275 CLAIM-1276 CLAIM-1278 CLAIM-1279 CLAIM-1284 CLAIM-1285 CLAIM-1286 CLAIM-1287 CLAIM-1288 CLAIM-1293 CLAIM-1294 CLAIM-1295 CLAIM-1296 CLAIM-1298 CLAIM-1301 CLAIM-1303 CLAIM-1307 CLAIM-1308 CLAIM-1309 CLAIM-1313 CLAIM-1315 CLAIM-1316 CLAIM-1317 CLAIM-1318 CLAIM-1319 CLAIM-1322 CLAIM-1328 CLAIM-1329 CLAIM-1334 CLAIM-1336 CLAIM-1339 CLAIM-1340 CLAIM-1341 CLAIM-1343 CLAIM-1345 TERM-171 TERM-172 TERM-174 TERM-178 TERM-179 — Proposed or new; filed from the exchange 'Memes, Contracts, and Systemic Normativity' or the owner's sidebars, in this pull request -->
 <!-- inactive-ok-file: CASE-388 CLAIM-545 CLAIM-683 CLAIM-728 CLAIM-750 CLAIM-905 — Proposed; held entries the audited syntheses cite or drop -->
 
-# SYNTHESIS-125: The argument filed from the exchange Memes, Contracts, and Systemic Normativity, mapped: from the owner's memes as nucleation sites and as characters of perspectives, through contracts between processes and implicit contracts formed by reliance, to norms stabilized by dependence, exploitation as the asymmetric use of reliance, and the exchange's applications to engineering reliability, American governance, three constitutional theories, legibility, metrics and corporate objectives
+# SYNTHESIS-125: Memes, Contracts exchange: norms from reliance
 
 The exchange ran on 2026-11-24, the owner's thirty-one prompts against
 forty-nine turns of A's (ChatGPT's). A browsed this record's default

@@ -3,7 +3,13 @@ number: 1856
 status: Proposed
 formerly:
 - THEORY-tmpt34ma
-title: 'Vallor holds that calling AI superhuman is an ideology that, by redefining intelligence as outperforming humans at economically valuable work, devalues human agency and autonomy and erases the difference between human minds and the tools built to mirror them, and that the poverty of such tools may instead prompt a reclamation of humane capacities'
+title: 'Superhuman AI is an ideology devaluing agency'
+statement: >-
+  Vallor holds that calling AI superhuman is an ideology that, by redefining
+  intelligence as outperforming humans at economically valuable work,
+  devalues human agency and autonomy and erases the difference between human
+  minds and the tools built to mirror them, and that the poverty of such
+  tools may instead prompt a reclamation of humane capacities
 version: 1
 source:
 - LIT-2597
@@ -25,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2591 until 2027-05-13 — Unavailable; the book this essay partly stands in for -->
 
-# THEORY-1856: Vallor holds that calling AI superhuman is an ideology that, by redefining intelligence as outperforming humans at economically valuable work, devalues human agency and autonomy and erases the difference between human minds and the tools built to mirror them, and that the poverty of such tools may instead prompt a reclamation of humane capacities
+# THEORY-1856: Superhuman AI is an ideology devaluing agency
 
 ## The account
 

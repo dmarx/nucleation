@@ -13,7 +13,14 @@ promote_when: >-
   results; it is refuted if sharing-first regimes are as diverse, or if
   diversity varies without any effect on reliability. More illustrative
   cases, or policy documents read as the sharing view, cannot settle it.
-title: "Treating openness in science as the unlimited sharing of research objects, with transparency ranked before reproducibility and inclusion, can narrow the epistemic diversity of research and entrench epistemic injustice, and this lowers the reliability of what is learned, so sharing is neither a necessary starting point nor a sufficient condition for reliable open science"
+title: 'Unlimited sharing can harm open science'
+statement: >-
+  Treating openness in science as the unlimited sharing of research objects,
+  with transparency ranked before reproducibility and inclusion, can narrow
+  the epistemic diversity of research and entrench epistemic injustice, and
+  this lowers the reliability of what is learned, so sharing is neither a
+  necessary starting point nor a sufficient condition for reliable open
+  science
 version: 1
 tags:
 - philosophy-of-science
@@ -34,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-317 THEORY-326 THEORY-451 THEORY-491 — Proposed; named as related accounts, nothing here rests on their being settled -->
 
-# THEORY-637: Treating openness in science as the unlimited sharing of research objects, with transparency ranked before reproducibility and inclusion, can narrow the epistemic diversity of research and entrench epistemic injustice, and this lowers the reliability of what is learned, so sharing is neither a necessary starting point nor a sufficient condition for reliable open science
+# THEORY-637: Unlimited sharing can harm open science
 
 ## Source
 

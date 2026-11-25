@@ -3,7 +3,12 @@ number: 1635
 status: Active
 formerly:
 - THEORY-tmpzuov4
-title: 'Zahavi argues, reconstructing Husserl, that seeing oneself as one of us requires second-person address and taking over the other''s perspective on oneself, which keeps the self–other difference while downplaying it, and that a we is not an enlarged I'
+title: 'A we is not an enlarged I'
+statement: >-
+  Zahavi argues, reconstructing Husserl, that seeing oneself as one of us
+  requires second-person address and taking over the other's perspective on
+  oneself, which keeps the self–other difference while downplaying it, and
+  that a we is not an enlarged I
 version: 2
 history:
 - version: 1
@@ -33,7 +38,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1635: Zahavi argues, reconstructing Husserl, that seeing oneself as one of us requires second-person address and taking over the other's perspective on oneself, which keeps the self–other difference while downplaying it, and that a we is not an enlarged I
+# THEORY-1635: A we is not an enlarged I
 
 ## The account
 

@@ -3,7 +3,11 @@ number: 182
 status: Proposed
 formerly:
 - CLAIM-tmpdj0qe
-title: 'Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses'
+title: 'Addressability, not storage, anchors'
+statement: >-
+  Storage is not anchoring, addressability is: a structure that is kept but
+  cannot be pointed at part by part does not stop re-derivation, and the
+  same content becomes an anchor once its parts get addresses
 version: 4
 history:
 - version: 2
@@ -65,7 +69,7 @@ complements:
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
 <!-- inactive-ok-file: CLAIM-1023 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-182: Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses
+# CLAIM-182: Addressability, not storage, anchors
 
 ## The claim
 

@@ -3,7 +3,15 @@ number: 1450
 status: Active
 formerly:
 - THEORY-tmptmlc7
-title: 'Douglas, Bachelet and Church built a DNA-origami barrel whose opening is governed by two aptamer locks forming a logical AND gate over cell-surface antigen inputs, so that the device stays closed and reconfigures to expose its payload only when both designated keys are present, shorter locks also opening spontaneously more often, with the key concentration needed to open set by the lock-duplex length, activation at about 10 pM for 16 to 23 bp against about 1 nM for 30 to 44 bp'
+title: 'Aptamer AND gate opens DNA barrel'
+statement: >-
+  Douglas, Bachelet and Church built a DNA-origami barrel whose opening is
+  governed by two aptamer locks forming a logical AND gate over cell-surface
+  antigen inputs, so that the device stays closed and reconfigures to expose
+  its payload only when both designated keys are present, shorter locks also
+  opening spontaneously more often, with the key concentration needed to
+  open set by the lock-duplex length, activation at about 10 pM for 16 to 23
+  bp against about 1 nM for 30 to 44 bp
 version: 3
 history:
 - version: 2
@@ -55,7 +63,7 @@ summary: >-
   cycling, holding costs or clinical use.
 ---
 
-# THEORY-1450: Douglas, Bachelet and Church built a DNA-origami barrel whose opening is governed by two aptamer locks forming a logical AND gate over cell-surface antigen inputs, so that the device stays closed and reconfigures to expose its payload only when both designated keys are present, shorter locks also opening spontaneously more often, with the key concentration needed to open set by the lock-duplex length, activation at about 10 pM for 16 to 23 bp against about 1 nM for 30 to 44 bp
+# THEORY-1450: Aptamer AND gate opens DNA barrel
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 2114
 status: Proposed
 formerly:
 - THEORY-tmpkc8k5
-title: 'Cheng, Gao, Tomasello and Kushnir report that in a non-verbal coordination game human–human pairs show the highest joint commitment and coordination efficiency, that both fall when the partner is an AI optimizing an objective, and that children paired with an individual-reward partner are less efficient in proportion to their reduced joint commitment'
+title: 'Joint commitment falls with AI partners'
+statement: >-
+  Cheng, Gao, Tomasello and Kushnir report that in a non-verbal coordination
+  game human–human pairs show the highest joint commitment and coordination
+  efficiency, that both fall when the partner is an AI optimizing an
+  objective, and that children paired with an individual-reward partner are
+  less efficient in proportion to their reduced joint commitment
 version: 1
 source:
 - LIT-2906
@@ -24,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2898 — Unfetched; the paper -->
 
-# THEORY-2114: Cheng, Gao, Tomasello and Kushnir report that in a non-verbal coordination game human–human pairs show the highest joint commitment and coordination efficiency, that both fall when the partner is an AI optimizing an objective, and that children paired with an individual-reward partner are less efficient in proportion to their reduced joint commitment
+# THEORY-2114: Joint commitment falls with AI partners
 
 ## The account
 

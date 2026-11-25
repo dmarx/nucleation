@@ -12,7 +12,13 @@ promote_when: >-
   predicate to the target in interpretation or inference; and a matched
   manipulation of attributes shows no such effect. Worked examples and
   ratings of interpretations already given do not settle it.
-title: 'People interpreting an analogy carry relations from base to target and drop the attributes of objects, and among the relations they prefer those bound into a system by higher-order relations, such as causal or mathematical constraints, over isolated ones (structure-mapping and its systematicity principle)'
+title: 'Analogies map related systems, not attributes'
+statement: >-
+  People interpreting an analogy carry relations from base to target and
+  drop the attributes of objects, and among the relations they prefer those
+  bound into a system by higher-order relations, such as causal or
+  mathematical constraints, over isolated ones (structure-mapping and its
+  systematicity principle)
 version: 1
 tags:
 - cognition
@@ -31,7 +37,7 @@ summary: >-
   concedes is a modelling choice. Proposed.
 ---
 
-# THEORY-1154: People interpreting an analogy carry relations from base to target and drop the attributes of objects, and among the relations they prefer those bound into a system by higher-order relations, such as causal or mathematical constraints, over isolated ones (structure-mapping and its systematicity principle)
+# THEORY-1154: Analogies map related systems, not attributes
 
 ## Source
 

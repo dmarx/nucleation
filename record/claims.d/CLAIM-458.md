@@ -3,7 +3,12 @@ number: 458
 status: Active
 formerly:
 - CLAIM-tmp4pmcv
-title: 'A reception split between populations with unequal access to the source can be partly a difference of access and not of weighting, so a comparison of their default tasks can fit weights only on the components every population compared can perceive'
+title: 'Reception splits may be access, not weighting'
+statement: >-
+  A reception split between populations with unequal access to the source
+  can be partly a difference of access and not of weighting, so a comparison
+  of their default tasks can fit weights only on the components every
+  population compared can perceive
 version: 2
 history:
 - version: 2
@@ -45,7 +50,7 @@ summary: >-
   deny it.
 ---
 
-# CLAIM-458: A reception split between populations with unequal access to the source can be partly a difference of access and not of weighting, so a comparison of their default tasks can fit weights only on the components every population compared can perceive
+# CLAIM-458: Reception splits may be access, not weighting
 
 ## The claim
 

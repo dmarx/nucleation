@@ -3,7 +3,13 @@ number: 1071
 status: Active
 formerly:
 - THEORY-tmpggk6i
-title: 'Quantum mechanics does not entail agential realism: Bohmian mechanics reproduces its predictions with an ontology of individual particles on determinate trajectories, and relational quantum mechanics, the interpretation Barad names as closest, makes values relational while keeping the systems prior to their interactions'
+title: 'Quantum mechanics doesn''t entail agential realism'
+statement: >-
+  Quantum mechanics does not entail agential realism: Bohmian mechanics
+  reproduces its predictions with an ontology of individual particles on
+  determinate trajectories, and relational quantum mechanics, the
+  interpretation Barad names as closest, makes values relational while
+  keeping the systems prior to their interactions
 version: 2
 history:
 - version: 2
@@ -33,7 +39,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-1091 — Proposed; the neighbour cited as open -->
 
-# THEORY-1071: Quantum mechanics does not entail agential realism: Bohmian mechanics reproduces its predictions with an ontology of individual particles on determinate trajectories, and relational quantum mechanics, the interpretation Barad names as closest, makes values relational while keeping the systems prior to their interactions
+# THEORY-1071: Quantum mechanics doesn't entail agential realism
 
 ## Source
 

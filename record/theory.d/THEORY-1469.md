@@ -3,7 +3,15 @@ number: 1469
 status: Active
 formerly:
 - THEORY-tmp6qwmt
-title: "In the Social Sciences Replication Project's pre-registered replication of Study 1 of Shah, Mullainathan and Shafir (2012), 619 online players given fewer guesses in a Wheel of Fortune word game did no worse than players given more on a later attention task (pooled p = 0.71, both stages' estimates in the opposite direction); the project tested no other study of the paper, and the original authors, whose own replications reproduced its over-borrowing result, call Study 1 a false positive"
+title: 'Scarcity attention effect failed to replicate'
+statement: >-
+  In the Social Sciences Replication Project's pre-registered replication of
+  Study 1 of Shah, Mullainathan and Shafir (2012), 619 online players given
+  fewer guesses in a Wheel of Fortune word game did no worse than players
+  given more on a later attention task (pooled p = 0.71, both stages'
+  estimates in the opposite direction); the project tested no other study of
+  the paper, and the original authors, whose own replications reproduced its
+  over-borrowing result, call Study 1 a false positive
 version: 3
 history:
 - version: 2
@@ -44,7 +52,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-2147 — Unavailable, Proposed or new; cited from the reading of Camerer et al. (2018) as open -->
 
-# THEORY-1469: In the Social Sciences Replication Project's pre-registered replication of Study 1 of Shah, Mullainathan and Shafir (2012), 619 online players given fewer guesses in a Wheel of Fortune word game did no worse than players given more on a later attention task (pooled p = 0.71, both stages' estimates in the opposite direction); the project tested no other study of the paper, and the original authors, whose own replications reproduced its over-borrowing result, call Study 1 a false positive
+# THEORY-1469: Scarcity attention effect failed to replicate
 
 ## Source
 

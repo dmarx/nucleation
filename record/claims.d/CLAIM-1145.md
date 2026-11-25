@@ -3,7 +3,14 @@ number: 1145
 status: Active
 formerly:
 - CLAIM-tmpo6ehq
-title: 'Ott and Antonsen''s family of oscillator distributions, with phase Fourier coefficients αⁿ, stays invariant only when the coupling carries the first harmonic of the phase alone: a second harmonic couples each coefficient to the one two places below, which for the first coefficient is the conjugate α* and for the others is a power of α, so the family is left everywhere except at full locking, |α| = 1'
+title: 'Ott–Antonsen invariance needs first harmonic only'
+statement: >-
+  Ott and Antonsen's family of oscillator distributions, with phase Fourier
+  coefficients αⁿ, stays invariant only when the coupling carries the first
+  harmonic of the phase alone: a second harmonic couples each coefficient to
+  the one two places below, which for the first coefficient is the conjugate
+  α* and for the others is a power of α, so the family is left everywhere
+  except at full locking, |α| = 1
 version: 2
 history:
 - version: 2
@@ -43,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the reading this fills a gap in and the claim the gap matters for -->
 
-# CLAIM-1145: Ott and Antonsen's family of oscillator distributions, with phase Fourier coefficients αⁿ, stays invariant only when the coupling carries the first harmonic of the phase alone: a second harmonic couples each coefficient to the one two places below, which for the first coefficient is the conjugate α* and for the others is a power of α, so the family is left everywhere except at full locking, |α| = 1
+# CLAIM-1145: Ott–Antonsen invariance needs first harmonic only
 
 ## The derivation
 

@@ -11,7 +11,15 @@ promote_when: >-
   is mode-correct, and that subsumption and annotation are the only rules
   that change direction. Restatements in other surveys or textbooks do
   not count.
-title: 'Dunfield and Krishnaswami show that bidirectional typing splits typing into checking a term against a type given as input and synthesizing a type from the term as output, a split of information flow, which part of a judgment is known, assigned rule by rule so that no type is guessed (introductions checked and eliminations synthesized in the Pfenning recipe), with the two meeting where a synthesized type is tested against a required one, and with the term an input in both'
+title: 'Bidirectional typing splits checking and synthesis'
+statement: >-
+  Dunfield and Krishnaswami show that bidirectional typing splits typing
+  into checking a term against a type given as input and synthesizing a type
+  from the term as output, a split of information flow, which part of a
+  judgment is known, assigned rule by rule so that no type is guessed
+  (introductions checked and eliminations synthesized in the Pfenning
+  recipe), with the two meeting where a synthesized type is tested against a
+  required one, and with the term an input in both
 version: 1
 tags:
 - logic
@@ -31,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-949 — Proposed; the claim this reading bears on -->
 <!-- inactive-ok-file: ARG-247 — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
-# THEORY-2310: Dunfield and Krishnaswami show that bidirectional typing splits typing into checking a term against a type given as input and synthesizing a type from the term as output, a split of information flow, which part of a judgment is known, assigned rule by rule so that no type is guessed (introductions checked and eliminations synthesized in the Pfenning recipe), with the two meeting where a synthesized type is tested against a required one, and with the term an input in both
+# THEORY-2310: Bidirectional typing splits checking and synthesis
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1613
 status: Active
 formerly:
 - THEORY-tmprq4z6
-title: 'Hirst, Cyr and Merck argue that flashbulb memories make members of a community who learned of an event at a distance into witnesses who can carry its trauma process, and report a study in which most children knew a parent''s flashbulb memory of 9/11 and knew it better the more strongly they identified as American'
+title: 'Flashbulb memories make distant witnesses'
+statement: >-
+  Hirst, Cyr and Merck argue that flashbulb memories make members of a
+  community who learned of an event at a distance into witnesses who can
+  carry its trauma process, and report a study in which most children knew a
+  parent's flashbulb memory of 9/11 and knew it better the more strongly
+  they identified as American
 version: 2
 history:
 - version: 1
@@ -36,7 +42,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1613: Hirst, Cyr and Merck argue that flashbulb memories make members of a community who learned of an event at a distance into witnesses who can carry its trauma process, and report a study in which most children knew a parent's flashbulb memory of 9/11 and knew it better the more strongly they identified as American
+# THEORY-1613: Flashbulb memories make distant witnesses
 
 ## The account
 

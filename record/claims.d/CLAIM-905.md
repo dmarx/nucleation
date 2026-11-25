@@ -3,7 +3,13 @@ number: 905
 status: Proposed
 formerly:
 - CLAIM-tmpst09o
-title: 'In a pilot coding, public postmortems of software incidents rarely trace a contributing cause to a decision above the engineering team, or target one in an action item, while Chemical Safety Board investigations of chemical accidents mostly do both: the direction a stopped blameless trace predicts, not yet separated from domain, severity or publication'
+title: 'Postmortems rarely trace causes above the team'
+statement: >-
+  In a pilot coding, public postmortems of software incidents rarely trace a
+  contributing cause to a decision above the engineering team, or target one
+  in an action item, while Chemical Safety Board investigations of chemical
+  accidents mostly do both: the direction a stopped blameless trace
+  predicts, not yet separated from domain, severity or publication
 version: 1
 role: thesis
 warrant: empirical
@@ -46,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-750 — Proposed; the claim this finding corroborates -->
 <!-- inactive-ok-file: CASE-335 — new; filed with this claim -->
 
-# CLAIM-905: In a pilot coding, public postmortems of software incidents rarely trace a contributing cause to a decision above the engineering team, or target one in an action item, while Chemical Safety Board investigations of chemical accidents mostly do both: the direction a stopped blameless trace predicts, not yet separated from domain, severity or publication
+# CLAIM-905: Postmortems rarely trace causes above the team
 
 ## The claim
 

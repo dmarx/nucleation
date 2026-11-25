@@ -15,7 +15,12 @@ promote_when: >-
   require, without stipulating that the hard cases are failed attempts.
   What cannot settle it: a disjunctive or cluster account, which concedes
   the claim, or intuitions about new cases unrelated to these.
-title: "No single-mechanism analysis of ordinary manipulation fits the clear cases: covert influence, covert intent, non-rational influence, trickery and pressure each misclassify a familiar tactic, so what unifies manipulation is unsettled"
+title: 'No single mechanism defines manipulation'
+statement: >-
+  No single-mechanism analysis of ordinary manipulation fits the clear
+  cases: covert influence, covert intent, non-rational influence, trickery
+  and pressure each misclassify a familiar tactic, so what unifies
+  manipulation is unsettled
 version: 1
 tags:
 - ethics
@@ -34,7 +39,7 @@ summary: >-
   manipulation, not the global manipulation of the free-will literature.
 ---
 
-# THEORY-225: No single-mechanism analysis of ordinary manipulation fits the clear cases: covert influence, covert intent, non-rational influence, trickery and pressure each misclassify a familiar tactic, so what unifies manipulation is unsettled
+# THEORY-225: No single mechanism defines manipulation
 
 ## Source
 

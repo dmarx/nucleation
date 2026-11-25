@@ -3,7 +3,16 @@ number: 1293
 status: Active
 formerly:
 - THEORY-tmpv5g3z
-title: 'Given that every change in a phenomenon is simultaneously realized by some constituent on every lower level, that simultaneous changes are not causally related, that co-occurrence is transitive, and that the parts and their levels are already known, a single intervention that changes a part and the phenomenon simultaneously while directly changing at most one behaviour on each lower level shows that the part is a constituent; the condition presupposes the boundary and the level hierarchy it is applied to and cannot supply them'
+title: 'One intervention shows constituency, given levels'
+statement: >-
+  Given that every change in a phenomenon is simultaneously realized by some
+  constituent on every lower level, that simultaneous changes are not
+  causally related, that co-occurrence is transitive, and that the parts and
+  their levels are already known, a single intervention that changes a part
+  and the phenomenon simultaneously while directly changing at most one
+  behaviour on each lower level shows that the part is a constituent; the
+  condition presupposes the boundary and the level hierarchy it is applied
+  to and cannot supply them
 version: 1
 tags:
 - philosophy-of-science
@@ -25,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1925 LIT-1929 — Open, Proposed, Unfetched or Unavailable; cited as open -->
 
-# THEORY-1293: Given that every change in a phenomenon is simultaneously realized by some constituent on every lower level, that simultaneous changes are not causally related, that co-occurrence is transitive, and that the parts and their levels are already known, a single intervention that changes a part and the phenomenon simultaneously while directly changing at most one behaviour on each lower level shows that the part is a constituent; the condition presupposes the boundary and the level hierarchy it is applied to and cannot supply them
+# THEORY-1293: One intervention shows constituency, given levels
 
 ## Source
 

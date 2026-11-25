@@ -3,7 +3,16 @@ number: 1754
 status: Proposed
 formerly:
 - THEORY-tmpdjm1o
-title: 'Srikanth et al. (2026) report that AIDE², an outer-loop agent that rewrites a tree-search research agent''s code and keeps a rewrite only when it improves a private held-out grade at fixed per-task budget, accepted seven rewrites in an eight-day run that raised the grade from 0.703 to 0.778, that the final agent matched or exceeded a human-engineered production agent on four external benchmarks, and that a direct test of whether a discovered agent drives the loop better than the human-engineered one was inconclusive.'
+title: 'AIDE² rewrites raised grade; loop gain unproven'
+statement: >-
+  Srikanth et al. (2026) report that AIDE², an outer-loop agent that
+  rewrites a tree-search research agent's code and keeps a rewrite only when
+  it improves a private held-out grade at fixed per-task budget, accepted
+  seven rewrites in an eight-day run that raised the grade from 0.703 to
+  0.778, that the final agent matched or exceeded a human-engineered
+  production agent on four external benchmarks, and that a direct test of
+  whether a discovered agent drives the loop better than the
+  human-engineered one was inconclusive.
 version: 1
 tags:
 - agency
@@ -23,7 +32,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1754: Srikanth et al. (2026) report that AIDE², an outer-loop agent that rewrites a tree-search research agent's code and keeps a rewrite only when it improves a private held-out grade at fixed per-task budget, accepted seven rewrites in an eight-day run that raised the grade from 0.703 to 0.778, that the final agent matched or exceeded a human-engineered production agent on four external benchmarks, and that a direct test of whether a discovered agent drives the loop better than the human-engineered one was inconclusive.
+# THEORY-1754: AIDE² rewrites raised grade; loop gain unproven
 
 ## The account
 

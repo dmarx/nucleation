@@ -3,7 +3,15 @@ number: 930
 status: Active
 formerly:
 - THEORY-tmp5k950
-title: 'In empirical games built from about a thousand sampled search agents in eight OpenSpiel board games, most on 3×3 or 4×4 boards, and in the AlphaStar league, Nash clusters taken from maximum-entropy equilibria are, read against a fitted skew-normal curve with no test, largest at intermediate transitive strength and narrower toward the strongest and the weakest strategies, while Blotto, the disc game, Kuhn poker and noisy Elo games do not show that profile'
+title: 'Nash clusters widest at intermediate strength'
+statement: >-
+  In empirical games built from about a thousand sampled search agents in
+  eight OpenSpiel board games, most on 3×3 or 4×4 boards, and in the
+  AlphaStar league, Nash clusters taken from maximum-entropy equilibria are,
+  read against a fitted skew-normal curve with no test, largest at
+  intermediate transitive strength and narrower toward the strongest and the
+  weakest strategies, while Blotto, the disc game, Kuhn poker and noisy Elo
+  games do not show that profile
 version: 2
 history:
 - version: 2
@@ -51,7 +59,7 @@ summary: >-
   qualitative profile with a fitted skew-normal curve and no test.
 ---
 
-# THEORY-930: In empirical games built from about a thousand sampled search agents in eight OpenSpiel board games, most on 3×3 or 4×4 boards, and in the AlphaStar league, Nash clusters taken from maximum-entropy equilibria are, read against a fitted skew-normal curve with no test, largest at intermediate transitive strength and narrower toward the strongest and the weakest strategies, while Blotto, the disc game, Kuhn poker and noisy Elo games do not show that profile
+# THEORY-930: Nash clusters widest at intermediate strength
 
 ## Source
 

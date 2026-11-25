@@ -3,7 +3,15 @@ number: 714
 status: Active
 formerly:
 - THEORY-tmp65fz9
-title: "Ince's I_ccs, the expected local co-information over only those events where every source, the joint source and the overlap change the target's surprisal in the same direction, under the maximum-entropy joint that preserves the source–target and joint-source marginals, is symmetric and self-redundant and satisfies the independent identity property; it fails Harder et al.'s identity and monotonicity, so its atoms can be negative, and, though its paper says otherwise, it fails subset equality"
+title: 'I_ccs fails identity, monotonicity, subsets'
+statement: >-
+  Ince's I_ccs, the expected local co-information over only those events
+  where every source, the joint source and the overlap change the target's
+  surprisal in the same direction, under the maximum-entropy joint that
+  preserves the source–target and joint-source marginals, is symmetric and
+  self-redundant and satisfies the independent identity property; it fails
+  Harder et al.'s identity and monotonicity, so its atoms can be negative,
+  and, though its paper says otherwise, it fails subset equality
 version: 4
 history:
 - version: 2
@@ -51,7 +59,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-804 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 
-# THEORY-714: Ince's I_ccs, the expected local co-information over only those events where every source, the joint source and the overlap change the target's surprisal in the same direction, under the maximum-entropy joint that preserves the source–target and joint-source marginals, is symmetric and self-redundant and satisfies the independent identity property; it fails Harder et al.'s identity and monotonicity, so its atoms can be negative, and, though its paper says otherwise, it fails subset equality
+# THEORY-714: I_ccs fails identity, monotonicity, subsets
 
 ## Source
 

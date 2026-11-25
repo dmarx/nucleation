@@ -3,7 +3,11 @@ number: 16
 status: Deferred
 formerly:
 - CLAIM-tmp4o38w
-title: 'An organized agent''s will is its own to the degree that its operative commitments arise through, remain integrated with, and are answerable to its constitutive organization'
+title: 'Own will is integrated, answerable commitment'
+statement: >-
+  An organized agent's will is its own to the degree that its operative
+  commitments arise through, remain integrated with, and are answerable to
+  its constitutive organization
 version: 2
 history:
 - version: 2
@@ -46,7 +50,7 @@ complements:
 - CLAIM-362
 ---
 <!-- inactive-ok-file: CLAIM-096 CLAIM-104 TERM-006 TERM-012 — Deferred; set aside, and cited to say what was set aside with it -->
-# CLAIM-016: An organized agent's will is its own to the degree that its operative commitments arise through, remain integrated with, and are answerable to its constitutive organization
+# CLAIM-016: Own will is integrated, answerable commitment
 
 ## The claim
 

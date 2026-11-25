@@ -3,7 +3,11 @@ number: 66
 status: Active
 formerly:
 - THEORY-tmpcv4h8
-title: 'A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system'
+title: 'Markov blankets exist around almost any set'
+statement: >-
+  A Markov-blanket partition is defined relative to a chosen internal set,
+  so a graph has one around almost any set of nodes, and the formalism alone
+  does not say which set is the system
 version: 1
 tags:
 - individuation
@@ -29,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-072 — Proposed; the wider claims this one supports or sits beside, not leaned on -->
 
-# THEORY-066: A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system
+# THEORY-066: Markov blankets exist around almost any set
 
 ## Source
 

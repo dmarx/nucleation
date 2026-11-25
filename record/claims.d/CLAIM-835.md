@@ -3,7 +3,13 @@ number: 835
 status: Proposed
 formerly:
 - CLAIM-tmppkdjz
-title: 'Whether a direction in a learned model is small depends on the metric it is measured in, and the metrics can rank directions in opposite orders: a label can sit wholly in the least-variance component, and the predictive Fisher pulled back to a hidden state, Wᵀ(diag p − ppᵀ)W, can rank a weight matrix''s smallest singular direction above its largest'
+title: 'Smallness of a direction depends on the metric'
+statement: >-
+  Whether a direction in a learned model is small depends on the metric it
+  is measured in, and the metrics can rank directions in opposite orders: a
+  label can sit wholly in the least-variance component, and the predictive
+  Fisher pulled back to a hidden state, Wᵀ(diag p − ppᵀ)W, can rank a weight
+  matrix's smallest singular direction above its largest
 version: 2
 history:
 - version: 2
@@ -62,7 +68,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-137 ARG-139 — Proposed or new -->
 <!-- inactive-ok-file: THEORY-2162 THEORY-2161 THEORY-2159 CLAIM-852 — Proposed or new; the readings of 2026-11-21 and a claim filed from them -->
 
-# CLAIM-835: Whether a direction in a learned model is small depends on the metric it is measured in, and the metrics can rank directions in opposite orders: a label can sit wholly in the least-variance component, and the predictive Fisher pulled back to a hidden state, Wᵀ(diag p − ppᵀ)W, can rank a weight matrix's smallest singular direction above its largest
+# CLAIM-835: Smallness of a direction depends on the metric
 
 ## The claim
 

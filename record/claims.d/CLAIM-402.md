@@ -3,7 +3,14 @@ number: 402
 status: Active
 formerly:
 - CLAIM-tmpeftzb
-title: 'Predictive success of a category across contexts warrants treating it as a real effective kind only when the evidence in those contexts does not pass through the category''s own use, or when the effect of that use is modelled: a category that speakers or institutions act on can produce the regularities that confirm it, and contexts that share its use are not independent'
+title: 'Predictive success not via own use warrants kinds'
+statement: >-
+  Predictive success of a category across contexts warrants treating it as a
+  real effective kind only when the evidence in those contexts does not pass
+  through the category's own use, or when the effect of that use is
+  modelled: a category that speakers or institutions act on can produce the
+  regularities that confirm it, and contexts that share its use are not
+  independent
 version: 7
 history:
 - version: 2
@@ -97,7 +104,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's validity-raising loop stated generally, cited beside the Active reading of the study as corroboration, not as a ground -->
 <!-- inactive-ok-file: THEORY-273 — Proposed; corroborates this claim, cited under what it does not say -->
 
-# CLAIM-402: Predictive success of a category across contexts warrants treating it as a real effective kind only when the evidence in those contexts does not pass through the category's own use, or when the effect of that use is modelled: a category that speakers or institutions act on can produce the regularities that confirm it, and contexts that share its use are not independent
+# CLAIM-402: Predictive success not via own use warrants kinds
 
 ## The claim
 

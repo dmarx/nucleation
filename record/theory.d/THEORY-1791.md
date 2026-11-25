@@ -3,7 +3,14 @@ number: 1791
 status: Proposed
 formerly:
 - THEORY-tmprmh1c
-title: '- **Sentence**: Bansal et al. (2021) report from studies with 1,626 crowd workers, on tasks where the AI was about as accurate as the humans, that human-AI teams outperformed both but that no form of AI explanation raised team accuracy above simply showing the AI''s confidence, because explanations increased acceptance of the AI''s recommendation whether or not it was correct. -'
+title: 'Explanations don''t beat confidence for teams'
+statement: >-
+  - **Sentence**: Bansal et al. (2021) report from studies with 1,626 crowd
+  workers, on tasks where the AI was about as accurate as the humans, that
+  human-AI teams outperformed both but that no form of AI explanation raised
+  team accuracy above simply showing the AI's confidence, because
+  explanations increased acceptance of the AI's recommendation whether or
+  not it was correct. -
 version: 1
 tags:
 - social-science
@@ -21,7 +28,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1791: - **Sentence**: Bansal et al. (2021) report from studies with 1,626 crowd workers, on tasks where the AI was about as accurate as the humans, that human-AI teams outperformed both but that no form of AI explanation raised team accuracy above simply showing the AI's confidence, because explanations increased acceptance of the AI's recommendation whether or not it was correct. -
+# THEORY-1791: Explanations don't beat confidence for teams
 
 ## The account
 

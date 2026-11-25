@@ -3,7 +3,14 @@ number: 797
 status: Proposed
 formerly:
 - CLAIM-tmp41gfr
-title: 'In a high-dimensional representation space a thin radial shell, nearly orthogonal random directions and nearly equal pairwise distances arise with no interaction at all, so they are a null baseline and not evidence of learned attraction, order or collapse; a thin annulus is not a low-dimensional manifold, and meaningful locality may be something learning has to produce'
+title: 'High-dimensional geometry is a null baseline'
+statement: >-
+  In a high-dimensional representation space a thin radial shell, nearly
+  orthogonal random directions and nearly equal pairwise distances arise
+  with no interaction at all, so they are a null baseline and not evidence
+  of learned attraction, order or collapse; a thin annulus is not a
+  low-dimensional manifold, and meaningful locality may be something
+  learning has to produce
 version: 1
 role: thesis
 warrant: demonstrated
@@ -42,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-822 TERM-136 CLAIM-847 CLAIM-838 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2188 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-797: In a high-dimensional representation space a thin radial shell, nearly orthogonal random directions and nearly equal pairwise distances arise with no interaction at all, so they are a null baseline and not evidence of learned attraction, order or collapse; a thin annulus is not a low-dimensional manifold, and meaningful locality may be something learning has to produce
+# CLAIM-797: High-dimensional geometry is a null baseline
 
 ## The claim
 

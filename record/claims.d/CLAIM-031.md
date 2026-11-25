@@ -3,7 +3,12 @@ number: 31
 status: Active
 formerly:
 - CLAIM-tmp9ras2
-title: 'A reconstruction chain reorganizes observational constraints rather than only accumulating metric error: a text can change greatly while keeping a few consequential constraints, and one changed constraint can change the act'
+title: 'Chains reorganize constraints, not just err'
+statement: >-
+  A reconstruction chain reorganizes observational constraints rather than
+  only accumulating metric error: a text can change greatly while keeping a
+  few consequential constraints, and one changed constraint can change the
+  act
 version: 2
 history:
 - version: 2
@@ -36,7 +41,7 @@ bears_on:
 - QUESTION-013
 ---
 
-# CLAIM-031: A reconstruction chain reorganizes observational constraints rather than only accumulating metric error: a text can change greatly while keeping a few consequential constraints, and one changed constraint can change the act
+# CLAIM-031: Chains reorganize constraints, not just err
 
 ## The claim
 

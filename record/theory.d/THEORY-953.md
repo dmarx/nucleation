@@ -3,7 +3,16 @@ number: 953
 status: Active
 formerly:
 - THEORY-tmpeq5py
-title: 'On Isaac''s structuralist account, the strongest evidence that a quality-space model targets phenomenal experience, and not only behaviour or neural activity, is convergence between models of the same space derived through different behavioural procedures, since experience is what those procedures share; he concedes that the convergence observed is coarse, with discrepancies that in many cases exceed each method''s own uncertainty, and that because the models average over subjects what they converge on is a standard observer'
+title: 'Converging quality-space models target experience'
+statement: >-
+  On Isaac's structuralist account, the strongest evidence that a
+  quality-space model targets phenomenal experience, and not only behaviour
+  or neural activity, is convergence between models of the same space
+  derived through different behavioural procedures, since experience is what
+  those procedures share; he concedes that the convergence observed is
+  coarse, with discrepancies that in many cases exceed each method's own
+  uncertainty, and that because the models average over subjects what they
+  converge on is a standard observer
 version: 3
 history:
 - version: 1
@@ -77,7 +86,7 @@ bears_on:
 - QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-868 THEORY-880 CLAIM-138 — Proposed; the structuralist accounts and the claim this one is set beside, nothing here rests on their being settled -->
-# THEORY-953: On Isaac's structuralist account, the strongest evidence that a quality-space model targets phenomenal experience, and not only behaviour or neural activity, is convergence between models of the same space derived through different behavioural procedures, since experience is what those procedures share; he concedes that the convergence observed is coarse, with discrepancies that in many cases exceed each method's own uncertainty, and that because the models average over subjects what they converge on is a standard observer
+# THEORY-953: Converging quality-space models target experience
 
 ## Source
 

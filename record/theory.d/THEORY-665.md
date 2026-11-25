@@ -13,7 +13,13 @@ promote_when: >-
   within the scorekeeping model. It is refuted if it needs representation
   or intention as primitive to meet them. A skim of the model's
   definitions, which is what this rests on now, cannot settle it.
-title: "Asserting is undertaking a commitment that entitles others to reassert it and carries a responsibility to show entitlement if challenged; every interlocutor keeps score of everyone's commitments and entitlements, so the score is doubly perspectival, and a speech act's significance is the change it makes to the scores, fixed by its content's inferential role"
+title: 'Assertion is commitment in deontic scorekeeping'
+statement: >-
+  Asserting is undertaking a commitment that entitles others to reassert it
+  and carries a responsibility to show entitlement if challenged; every
+  interlocutor keeps score of everyone's commitments and entitlements, so
+  the score is doubly perspectival, and a speech act's significance is the
+  change it makes to the scores, fixed by its content's inferential role
 version: 2
 history:
 - version: 2
@@ -48,7 +54,7 @@ corroborates:
 <!-- inactive-ok-file: NOTE-622 — Skimmed; the reading this account rests on, named as a skim -->
 <!-- inactive-ok-file: CLAIM-014 CLAIM-054 — Proposed; open claims this model bears on, cited as open -->
 
-# THEORY-665: Asserting is undertaking a commitment that entitles others to reassert it and carries a responsibility to show entitlement if challenged; every interlocutor keeps score of everyone's commitments and entitlements, so the score is doubly perspectival, and a speech act's significance is the change it makes to the scores, fixed by its content's inferential role
+# THEORY-665: Assertion is commitment in deontic scorekeeping
 
 ## Source
 

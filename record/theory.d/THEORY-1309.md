@@ -3,7 +3,15 @@ number: 1309
 status: Active
 formerly:
 - THEORY-tmp544fr
-title: 'For a small-noise diffusion the Freidlin–Wentzell quasi-potential equals 2 inf ∫ |b| sin²(θ/2) ds over curves, θ the angle between curve and drift, and the minimizing curve is the path a noise-driven transition follows with probability tending to one; with gradient drift and identity noise that curve runs against the drift, the time-reversed relaxation path, while a far-from-gradient drift, as in the Maier–Stein model above β = 4, makes it depart from the heteroclinic orbit'
+title: 'Quasi-potential minimizer is the escape path'
+statement: >-
+  For a small-noise diffusion the Freidlin–Wentzell quasi-potential equals 2
+  inf ∫ |b| sin²(θ/2) ds over curves, θ the angle between curve and drift,
+  and the minimizing curve is the path a noise-driven transition follows
+  with probability tending to one; with gradient drift and identity noise
+  that curve runs against the drift, the time-reversed relaxation path,
+  while a far-from-gradient drift, as in the Maier–Stein model above β = 4,
+  makes it depart from the heteroclinic orbit
 version: 2
 history:
 - version: 2
@@ -40,7 +48,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: NOTE-1504 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 
-# THEORY-1309: For a small-noise diffusion the Freidlin–Wentzell quasi-potential equals 2 inf ∫ |b| sin²(θ/2) ds over curves, θ the angle between curve and drift, and the minimizing curve is the path a noise-driven transition follows with probability tending to one; with gradient drift and identity noise that curve runs against the drift, the time-reversed relaxation path, while a far-from-gradient drift, as in the Maier–Stein model above β = 4, makes it depart from the heteroclinic orbit
+# THEORY-1309: Quasi-potential minimizer is the escape path
 
 ## Source
 

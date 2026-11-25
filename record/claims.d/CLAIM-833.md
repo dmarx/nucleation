@@ -3,7 +3,13 @@ number: 833
 status: Proposed
 formerly:
 - CLAIM-tmpnu4ar
-title: "Model reduction and feature differentiation may be movements in opposite directions through one stratified space of effective models: reduction moves toward the boundaries of the model manifold, where parameters stop mattering, and differentiation moves away from singular strata, where redundant features become separately usable"
+title: 'Reduction and differentiation move oppositely'
+statement: >-
+  Model reduction and feature differentiation may be movements in opposite
+  directions through one stratified space of effective models: reduction
+  moves toward the boundaries of the model manifold, where parameters stop
+  mattering, and differentiation moves away from singular strata, where
+  redundant features become separately usable
 version: 2
 history:
 - version: 2
@@ -42,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-808 ARG-138 CLAIM-812 CLAIM-802 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, or a Deferred work registered from it and not yet read -->
 <!-- inactive-ok-file: THEORY-2154 THEORY-2166 ARG-161 TERM-135 LIT-3024 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-# CLAIM-833: Model reduction and feature differentiation may be movements in opposite directions through one stratified space of effective models: reduction moves toward the boundaries of the model manifold, where parameters stop mattering, and differentiation moves away from singular strata, where redundant features become separately usable
+# CLAIM-833: Reduction and differentiation move oppositely
 
 ## The claim
 

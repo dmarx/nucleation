@@ -3,7 +3,15 @@ number: 245
 status: Active
 formerly:
 - THEORY-tmp7j1bc
-title: 'In a preregistered multimodal test with clearly seen images, prefrontal cortex carried a seen image''s category but not its identity, and a face''s orientation at most weakly, while posterior cortex carried category, face orientation and the identity of objects, letters and false fonts, though not of faces; no prefrontal site showed the preregistered onset-and-offset response, and one, found in an exploratory analysis, responded at offset earlier than predicted'
+title: 'Prefrontal cortex carries category, not identity'
+statement: >-
+  In a preregistered multimodal test with clearly seen images, prefrontal
+  cortex carried a seen image's category but not its identity, and a face's
+  orientation at most weakly, while posterior cortex carried category, face
+  orientation and the identity of objects, letters and false fonts, though
+  not of faces; no prefrontal site showed the preregistered onset-and-offset
+  response, and one, found in an exploratory analysis, responded at offset
+  earlier than predicted
 version: 4
 history:
 - version: 2
@@ -74,7 +82,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-096 — Proposed; the workspace account whose broadcast and ignition clauses it tests -->
 
-# THEORY-245: In a preregistered multimodal test with clearly seen images, prefrontal cortex carried a seen image's category but not its identity, and a face's orientation at most weakly, while posterior cortex carried category, face orientation and the identity of objects, letters and false fonts, though not of faces; no prefrontal site showed the preregistered onset-and-offset response, and one, found in an exploratory analysis, responded at offset earlier than predicted
+# THEORY-245: Prefrontal cortex carries category, not identity
 
 ## Source
 

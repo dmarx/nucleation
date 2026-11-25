@@ -3,7 +3,10 @@ number: 1260
 status: Proposed
 formerly:
 - CLAIM-tmpc4q8o
-title: 'A series of blog posts can be laid out as a route through the space of hyperarticles over the record, chosen as an orbit or as a geodesic'
+title: 'Blog series as a route through hyperarticles'
+statement: >-
+  A series of blog posts can be laid out as a route through the space of
+  hyperarticles over the record, chosen as an orbit or as a geodesic
 version: 1
 role: thesis
 warrant: interpretive
@@ -33,7 +36,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1335 TERM-168 TERM-175 CLAIM-178 CASE-223 — Proposed or new; the atlas thesis it extends, the term, the lead, the hyperarticle term, the manuscript-as-view claim and a proposed study A61 anchors to -->
 
-# CLAIM-1260: A series of blog posts can be laid out as a route through the space of hyperarticles over the record, chosen as an orbit or as a geodesic
+# CLAIM-1260: Blog series as a route through hyperarticles
 
 ## The claim
 

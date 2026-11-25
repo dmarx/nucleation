@@ -12,7 +12,13 @@ promote_when: >-
   the relationship, or if purity violations with no group boundary at stake
   are condemned as strongly as those with one. Illustrative cases cannot
   settle it, since the model is read off after the fact.
-title: "Moral judgments are made relative to the social relationship an act is taken to occur within: each of four relational models (communal sharing, authority ranking, equality matching, market pricing) carries a moral motive (Unity, Hierarchy, Equality, Proportionality), so the same act can be required under one and wrong under another"
+title: 'Moral judgment depends on relational model'
+statement: >-
+  Moral judgments are made relative to the social relationship an act is
+  taken to occur within: each of four relational models (communal sharing,
+  authority ranking, equality matching, market pricing) carries a moral
+  motive (Unity, Hierarchy, Equality, Proportionality), so the same act can
+  be required under one and wrong under another
 version: 1
 tags:
 - moral-psychology
@@ -30,7 +36,7 @@ summary: >-
   ingroup loyalty are assigned to one motive, Unity, by argument.
 ---
 
-# THEORY-626: Moral judgments are made relative to the social relationship an act is taken to occur within: each of four relational models (communal sharing, authority ranking, equality matching, market pricing) carries a moral motive (Unity, Hierarchy, Equality, Proportionality), so the same act can be required under one and wrong under another
+# THEORY-626: Moral judgment depends on relational model
 
 ## Source
 

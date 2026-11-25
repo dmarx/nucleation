@@ -3,7 +3,13 @@ number: 1914
 status: Proposed
 formerly:
 - THEORY-tmp3poko
-title: 'Tessman argues that non-negotiable moral requirements stay binding when they cannot be met, so that moral failure can be unavoidable, and, following Karnein, that a duty to an innocent dependent created by a third party''s wrongdoing binds the person left to meet it though it is unfair, while a dependent who is himself the wrongdoer may forfeit the care'
+title: 'Unmeetable moral requirements still bind'
+statement: >-
+  Tessman argues that non-negotiable moral requirements stay binding when
+  they cannot be met, so that moral failure can be unavoidable, and,
+  following Karnein, that a duty to an innocent dependent created by a third
+  party's wrongdoing binds the person left to meet it though it is unfair,
+  while a dependent who is himself the wrongdoer may forfeit the care
 version: 1
 tags:
 - ethics
@@ -22,7 +28,7 @@ bears_on:
 - QUESTION-472
 ---
 <!-- inactive-ok-file: CLAIM-708 LIT-2672 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1914: Tessman argues that non-negotiable moral requirements stay binding when they cannot be met, so that moral failure can be unavoidable, and, following Karnein, that a duty to an innocent dependent created by a third party's wrongdoing binds the person left to meet it though it is unfair, while a dependent who is himself the wrongdoer may forfeit the care
+# THEORY-1914: Unmeetable moral requirements still bind
 
 ## Source
 

@@ -18,7 +18,14 @@ promote_when: >-
   advantage rather than retooling cost. A case study that can be described
   in toolkit terms cannot settle it; the paper's own illustrations are of
   that kind.
-title: 'Culture shapes action less by setting its ends than by supplying a repertoire of skills, habits and styles from which people build strategies of action, so strategies outlast the ends they serve; in settled periods culture constrains through the cost of retooling, while in unsettled periods explicit ideologies govern action directly but structural opportunities decide which of the competing ideologies survive'
+title: 'Culture supplies a toolkit, not ends'
+statement: >-
+  Culture shapes action less by setting its ends than by supplying a
+  repertoire of skills, habits and styles from which people build strategies
+  of action, so strategies outlast the ends they serve; in settled periods
+  culture constrains through the cost of retooling, while in unsettled
+  periods explicit ideologies govern action directly but structural
+  opportunities decide which of the competing ideologies survive
 version: 1
 tags:
 - social-science
@@ -37,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-417 — Proposed; the claims this account bears on, named, not leaned on -->
 
-# THEORY-890: Culture shapes action less by setting its ends than by supplying a repertoire of skills, habits and styles from which people build strategies of action, so strategies outlast the ends they serve; in settled periods culture constrains through the cost of retooling, while in unsettled periods explicit ideologies govern action directly but structural opportunities decide which of the competing ideologies survive
+# THEORY-890: Culture supplies a toolkit, not ends
 
 ## Source
 

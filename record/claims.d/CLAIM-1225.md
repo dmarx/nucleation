@@ -32,7 +32,14 @@ complements:
 - CLAIM-523
 - CLAIM-1308
 - CLAIM-1251
-title: "An organization's capacity to discover and correct its deficiencies and its constituents' protection against unjustified, informationally mediated intervention are distinct achievements whose joint realizability turns on separating authority to observe from authority to act, and access for one purpose from access for another, sufficient observability under bounded authority, not on maximizing or minimizing the information available"
+title: 'Separate authority to observe from to act'
+statement: >-
+  An organization's capacity to discover and correct its deficiencies and
+  its constituents' protection against unjustified, informationally mediated
+  intervention are distinct achievements whose joint realizability turns on
+  separating authority to observe from authority to act, and access for one
+  purpose from access for another, sufficient observability under bounded
+  authority, not on maximizing or minimizing the information available
 summary: >-
   A42 §§8–9 and 13 of the exchange "Memes, Contracts, and Systemic
   Normativity" (ChatGPT, 2026-11-24), its proposition D, "Privacy-preserving
@@ -47,7 +54,7 @@ summary: >-
 ---
 
 
-# CLAIM-1225: An organization's capacity to discover and correct its deficiencies and its constituents' protection against unjustified, informationally mediated intervention are distinct achievements whose joint realizability turns on separating authority to observe from authority to act, and access for one purpose from access for another, sufficient observability under bounded authority, not on maximizing or minimizing the information available
+# CLAIM-1225: Separate authority to observe from to act
 
 ## The claim
 

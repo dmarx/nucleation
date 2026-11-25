@@ -14,7 +14,12 @@ promote_when: >-
   non-essential amino acids or its own phospholipids by unannotated or
   divergent genes, or if its essential-amino-acid output does not depend
   on host precursors.
-title: 'Buchnera''s metabolism interlocks with its aphid host''s: it makes the essential amino acids its host cannot from host-supplied glutamate and aspartate, depends on the host for the non-essential amino acids and its membrane phospholipids, and cannot live outside the bacteriocyte'
+title: 'Buchnera''s metabolism interlocks with the aphid''s'
+statement: >-
+  Buchnera's metabolism interlocks with its aphid host's: it makes the
+  essential amino acids its host cannot from host-supplied glutamate and
+  aspartate, depends on the host for the non-essential amino acids and its
+  membrane phospholipids, and cannot live outside the bacteriocyte
 version: 1
 tags:
 - endosymbiosis
@@ -35,7 +40,7 @@ summary: >-
   condition, word for word.
 ---
 
-# THEORY-1219: Buchnera's metabolism interlocks with its aphid host's: it makes the essential amino acids its host cannot from host-supplied glutamate and aspartate, depends on the host for the non-essential amino acids and its membrane phospholipids, and cannot live outside the bacteriocyte
+# THEORY-1219: Buchnera's metabolism interlocks with the aphid's
 
 ## Source
 

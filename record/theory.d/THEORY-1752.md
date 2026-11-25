@@ -3,7 +3,13 @@ number: 1752
 status: Proposed
 formerly:
 - THEORY-tmpcfp6p
-title: 'Blanchet and Michinov (2017) found, in 32 small groups trained together on a Meccano assembly task, that warning a group that one member would be replaced reduced the transactive memory coded from video of its training, specifically members'' specialization, and through it worsened assembly performance, while an unannounced replacement had no such effect'
+title: 'Announced replacement erodes transactive memory'
+statement: >-
+  Blanchet and Michinov (2017) found, in 32 small groups trained together on
+  a Meccano assembly task, that warning a group that one member would be
+  replaced reduced the transactive memory coded from video of its training,
+  specifically members' specialization, and through it worsened assembly
+  performance, while an unannounced replacement had no such effect
 version: 1
 tags:
 - social-science
@@ -22,7 +28,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1752: Blanchet and Michinov (2017) found, in 32 small groups trained together on a Meccano assembly task, that warning a group that one member would be replaced reduced the transactive memory coded from video of its training, specifically members' specialization, and through it worsened assembly performance, while an unannounced replacement had no such effect
+# THEORY-1752: Announced replacement erodes transactive memory
 
 ## The account
 

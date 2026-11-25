@@ -3,7 +3,13 @@ number: 2083
 status: Proposed
 formerly:
 - THEORY-tmpvbozh
-title: 'Yıldız and colleagues find that GPT-2 models continually pretrained through 159 domains reach lower perplexity on each than when adapted to it alone, and that a similarity-ordered sequence favours the domain just trained while a random order of the same data ends better overall and forgets less'
+title: 'Random domain order forgets less than ordered'
+statement: >-
+  Yıldız and colleagues find that GPT-2 models continually pretrained
+  through 159 domains reach lower perplexity on each than when adapted to it
+  alone, and that a similarity-ordered sequence favours the domain just
+  trained while a random order of the same data ends better overall and
+  forgets less
 version: 1
 source:
 - LIT-2858
@@ -23,7 +29,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2083: Yıldız and colleagues find that GPT-2 models continually pretrained through 159 domains reach lower perplexity on each than when adapted to it alone, and that a similarity-ordered sequence favours the domain just trained while a random order of the same data ends better overall and forgets less
+# THEORY-2083: Random domain order forgets less than ordered
 
 ## The account
 

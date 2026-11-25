@@ -14,7 +14,15 @@ promote_when: >-
   on test scores, or a reading of the authors' longer follow-up finds the
   ranking held. Not met by the same authors' restatement of these two
   years alone.
-title: 'Muralidharan and Sundararaman find, in a randomized evaluation in 500 Andhra Pradesh government primary schools, that bonuses paid to teachers on their students'' test-score gains raised scores after two years by 0.27 SD (individual) and 0.16 SD (group), against 0.09 SD for an extra contract teacher or a block grant for materials calibrated to the same yearly spending, and that the incentive worked through effort while present rather than attendance'
+title: 'Teacher performance pay raises test scores'
+statement: >-
+  Muralidharan and Sundararaman find, in a randomized evaluation in 500
+  Andhra Pradesh government primary schools, that bonuses paid to teachers
+  on their students' test-score gains raised scores after two years by 0.27
+  SD (individual) and 0.16 SD (group), against 0.09 SD for an extra contract
+  teacher or a block grant for materials calibrated to the same yearly
+  spending, and that the incentive worked through effort while present
+  rather than attendance
 version: 1
 history:
 - version: 1
@@ -43,7 +51,7 @@ summary: >-
   self-reports show more homework, extra classes and practice tests.
 ---
 
-# THEORY-2296: Muralidharan and Sundararaman find, in a randomized evaluation in 500 Andhra Pradesh government primary schools, that bonuses paid to teachers on their students' test-score gains raised scores after two years by 0.27 SD (individual) and 0.16 SD (group), against 0.09 SD for an extra contract teacher or a block grant for materials calibrated to the same yearly spending, and that the incentive worked through effort while present rather than attendance
+# THEORY-2296: Teacher performance pay raises test scores
 
 ## The account
 

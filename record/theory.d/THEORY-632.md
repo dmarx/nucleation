@@ -3,7 +3,13 @@ number: 632
 status: Active
 formerly:
 - THEORY-tmps5brs
-title: "Purity is moralized in self-report: in morality-as-cooperation's own questionnaire studies, purity items are rated about as morally relevant as loyalty and authority items, and harmless purity violations are condemned, so that theory's prediction that non-cooperative behaviour is morally neutral fails unless purity is itself cooperative"
+title: 'Purity is moralized, against cooperation theory'
+statement: >-
+  Purity is moralized in self-report: in morality-as-cooperation's own
+  questionnaire studies, purity items are rated about as morally relevant as
+  loyalty and authority items, and harmless purity violations are condemned,
+  so that theory's prediction that non-cooperative behaviour is morally
+  neutral fails unless purity is itself cooperative
 version: 1
 tags:
 - moral-psychology
@@ -24,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-496 LIT-503 THEORY-468 THEORY-539 THEORY-494 THEORY-613 THEORY-626 THEORY-558 — Proposed; the questionnaire studies this account reads results from, and the theories it sets against each other, each cited as open -->
 
-# THEORY-632: Purity is moralized in self-report: in morality-as-cooperation's own questionnaire studies, purity items are rated about as morally relevant as loyalty and authority items, and harmless purity violations are condemned, so that theory's prediction that non-cooperative behaviour is morally neutral fails unless purity is itself cooperative
+# THEORY-632: Purity is moralized, against cooperation theory
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 1242
 status: Proposed
 formerly:
 - CLAIM-tmp80nuw
-title: A record kept in git passes the migration test for its sources and their history, which are content-addressed and travel with any clone, but not for what lives only on its host, such as pull-request descriptions, reviews and CI logs, which keep the owner's choices before they are filed and which hundreds of its files cite by number, nor for authorship, which most of its commits do not sign
+title: 'Git passes migration for sources, not host data'
+statement: >-
+  A record kept in git passes the migration test for its sources and their
+  history, which are content-addressed and travel with any clone, but not
+  for what lives only on its host, such as pull-request descriptions,
+  reviews and CI logs, which keep the owner's choices before they are filed
+  and which hundreds of its files cite by number, nor for authorship, which
+  most of its commits do not sign
 version: 2
 history:
 - version: 2
@@ -45,7 +52,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1226 CLAIM-1291 CLAIM-1283 — Proposed; A45's reference-implementation claim, A's guarantees and migration test, the owner's thesis, and the assistant's claim on registration -->
 
-# CLAIM-1242: A record kept in git passes the migration test for its sources and their history, which are content-addressed and travel with any clone, but not for what lives only on its host, such as pull-request descriptions, reviews and CI logs, which keep the owner's choices before they are filed and which hundreds of its files cite by number, nor for authorship, which most of its commits do not sign
+# CLAIM-1242: Git passes migration for sources, not host data
 
 ## The gap
 

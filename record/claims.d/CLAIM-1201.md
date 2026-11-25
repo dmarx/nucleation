@@ -3,7 +3,11 @@ number: 1201
 status: Proposed
 formerly:
 - CLAIM-tmpz67ew
-title: 'Regulations are constraints that operationalize a demand specification, chosen so as to steer an industrial ecosystem optimally toward harmonious governance'
+title: 'Regulations operationalize demand specifications'
+statement: >-
+  Regulations are constraints that operationalize a demand specification,
+  chosen so as to steer an industrial ecosystem optimally toward harmonious
+  governance
 version: 2
 history:
 - version: 2
@@ -53,7 +57,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-1108 THEORY-859 TERM-162 — Proposed; filed or cited in this filing of 2026-11-22 -->
 
-# CLAIM-1201: Regulations are constraints that operationalize a demand specification, chosen so as to steer an industrial ecosystem optimally toward harmonious governance
+# CLAIM-1201: Regulations operationalize demand specifications
 
 ## The claim
 

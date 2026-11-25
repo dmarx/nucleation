@@ -3,7 +3,14 @@ number: 1113
 status: Proposed
 formerly:
 - CLAIM-tmpioexk
-title: 'That firms whose deferred or non-prosecution agreements mandated board changes keep fewer penalised violations after the agreement ends is no evidence that redesigned concerns outlast sanction: the boards were changed by the sanction, and the outcome counts penalties, so a board that has learned to avoid penalties fits the reading on which every installed concern is prudence as well'
+title: 'Mandated boards do not show lasting concern'
+statement: >-
+  That firms whose deferred or non-prosecution agreements mandated board
+  changes keep fewer penalised violations after the agreement ends is no
+  evidence that redesigned concerns outlast sanction: the boards were
+  changed by the sanction, and the outcome counts penalties, so a board that
+  has learned to avoid penalties fits the reading on which every installed
+  concern is prudence as well
 version: 1
 history:
 - version: 1
@@ -42,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2304 CLAIM-1178 CLAIM-1169 — new, Proposed; the account and study this reading rests on, the reading it objects to, and the claim whose table it uses -->
 <!-- inactive-ok-file: CLAIM-431 CLAIM-432 — Proposed; the claims it says this result does not separate -->
 
-# CLAIM-1113: That firms whose deferred or non-prosecution agreements mandated board changes keep fewer penalised violations after the agreement ends is no evidence that redesigned concerns outlast sanction: the boards were changed by the sanction, and the outcome counts penalties, so a board that has learned to avoid penalties fits the reading on which every installed concern is prudence as well
+# CLAIM-1113: Mandated boards do not show lasting concern
 
 ## The objection
 

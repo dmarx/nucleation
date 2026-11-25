@@ -3,7 +3,14 @@ number: 564
 status: Active
 formerly:
 - CLAIM-tmp7pv9x
-title: 'Restricting the demand–configuration Galois connection to the configurations affordable at a budget gives implications among demands that are antitone in the budget: an implication valid at a budget is valid at every lower one, so as the budget rises the compatibility complex grows and the valid implications shrink, and a set of demands no affordable configuration meets implies every demand'
+title: 'Budgeted demand implications are antitone'
+statement: >-
+  Restricting the demand–configuration Galois connection to the
+  configurations affordable at a budget gives implications among demands
+  that are antitone in the budget: an implication valid at a budget is valid
+  at every lower one, so as the budget rises the compatibility complex grows
+  and the valid implications shrink, and a set of demands no affordable
+  configuration meets implies every demand
 version: 4
 history:
 - version: 2
@@ -74,7 +81,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1201 — Proposed or Open; filed in the filing of the exchange 'Explain First Contact RL' of 2026-11-22 and cited in its note -->
 
-# CLAIM-564: Restricting the demand–configuration Galois connection to the configurations affordable at a budget gives implications among demands that are antitone in the budget: an implication valid at a budget is valid at every lower one, so as the budget rises the compatibility complex grows and the valid implications shrink, and a set of demands no affordable configuration meets implies every demand
+# CLAIM-564: Budgeted demand implications are antitone
 
 ## The claim
 

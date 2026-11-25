@@ -3,7 +3,11 @@ number: 1233
 status: Proposed
 formerly:
 - THEORY-tmp9386m
-title: 'For the replicator flow of a finite game, every asymptotically stable sink chain component contains at least one sink strongly connected component of the weakly-better-response graph, a Markov-Conley chain'
+title: 'Stable replicator sinks hold better-response sinks'
+statement: >-
+  For the replicator flow of a finite game, every asymptotically stable sink
+  chain component contains at least one sink strongly connected component of
+  the weakly-better-response graph, a Markov-Conley chain
 version: 1
 tags:
 - game-theory
@@ -34,7 +38,7 @@ summary: >-
   that step asserted, not carried out.
 ---
 
-# THEORY-1233: For the replicator flow of a finite game, every asymptotically stable sink chain component contains at least one sink strongly connected component of the weakly-better-response graph, a Markov-Conley chain
+# THEORY-1233: Stable replicator sinks hold better-response sinks
 
 ## Source
 

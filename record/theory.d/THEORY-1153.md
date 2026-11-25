@@ -3,7 +3,14 @@ number: 1153
 status: Active
 formerly:
 - THEORY-tmptu082
-title: 'In the PETra corpus of English-source TED and Europarl translations, the additions for the target audience that a named-entity and null-alignment filter, and a classifier trained on its finds, turned up, as labelled by one annotator with no agreement reported, are mostly system transfers, chiefly unit conversions, and entity changes, and their mix differs by target language'
+title: 'Audience additions are mostly system transfers'
+statement: >-
+  In the PETra corpus of English-source TED and Europarl translations, the
+  additions for the target audience that a named-entity and null-alignment
+  filter, and a classifier trained on its finds, turned up, as labelled by
+  one annotator with no agreement reported, are mostly system transfers,
+  chiefly unit conversions, and entity changes, and their mix differs by
+  target language
 version: 3
 history:
 - version: 2
@@ -56,7 +63,7 @@ bears_on:
 - QUESTION-339
 ---
 
-# THEORY-1153: In the PETra corpus of English-source TED and Europarl translations, the additions for the target audience that a named-entity and null-alignment filter, and a classifier trained on its finds, turned up, as labelled by one annotator with no agreement reported, are mostly system transfers, chiefly unit conversions, and entity changes, and their mix differs by target language
+# THEORY-1153: Audience additions are mostly system transfers
 
 ## Source
 

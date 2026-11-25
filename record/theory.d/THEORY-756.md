@@ -3,7 +3,14 @@ number: 756
 status: Active
 formerly:
 - THEORY-tmpkm2sk
-title: 'The growth rate of thermodynamic depth is the entropy rate of whichever macrostate process it is computed over, so the choice of macrostates sets it anywhere from zero up; among partitions of a stationary process''s past that predict every finite stretch of the future as well as the whole past does, the causal states are the coarsest, so they have the least entropy and the least entropy rate'
+title: 'Thermodynamic depth rate depends on macrostates'
+statement: >-
+  The growth rate of thermodynamic depth is the entropy rate of whichever
+  macrostate process it is computed over, so the choice of macrostates sets
+  it anywhere from zero up; among partitions of a stationary process's past
+  that predict every finite stretch of the future as well as the whole past
+  does, the causal states are the coarsest, so they have the least entropy
+  and the least entropy rate
 version: 2
 history:
 - version: 1
@@ -45,7 +52,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-157 — Proposed; named as the general sufficiency result this is an instance of, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-2205 — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
 <!-- inactive-ok-file: TERM-146 — Proposed; the term filed from the reading of Shalizi and Moore, 2026-11-22 -->
-# THEORY-756: The growth rate of thermodynamic depth is the entropy rate of whichever macrostate process it is computed over, so the choice of macrostates sets it anywhere from zero up; among partitions of a stationary process's past that predict every finite stretch of the future as well as the whole past does, the causal states are the coarsest, so they have the least entropy and the least entropy rate
+# THEORY-756: Thermodynamic depth rate depends on macrostates
 
 ## Source
 

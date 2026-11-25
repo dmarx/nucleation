@@ -11,7 +11,12 @@ promote_when: >-
   that the percept was decoded on single trials with classifiers that
   generalised between physical and rivalrous alternation. A replication in
   other animals or another laboratory would also promote it.
-title: 'In macaques viewing binocular rivalry without any trained report, ventrolateral prefrontal populations carry the perceived direction of motion, decodable on single trials and generalising from physical to rivalrous alternation, with the suppressed direction minimally represented'
+title: 'Prefrontal cortex tracks no-report rivalry'
+statement: >-
+  In macaques viewing binocular rivalry without any trained report,
+  ventrolateral prefrontal populations carry the perceived direction of
+  motion, decodable on single trials and generalising from physical to
+  rivalrous alternation, with the suppressed direction minimally represented
 version: 1
 tags:
 - consciousness
@@ -34,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-094 — Proposed; the account this reading is set against -->
 
-# THEORY-2228: In macaques viewing binocular rivalry without any trained report, ventrolateral prefrontal populations carry the perceived direction of motion, decodable on single trials and generalising from physical to rivalrous alternation, with the suppressed direction minimally represented
+# THEORY-2228: Prefrontal cortex tracks no-report rivalry
 
 Kapoor et al. (2022), [LIT-3094](../literature.d/LIT-3094.md), read in [NOTE-2318](../notes.d/NOTE-2318.md).
 

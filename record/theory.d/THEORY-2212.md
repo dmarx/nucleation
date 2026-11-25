@@ -10,7 +10,12 @@ promote_when: >-
   it, lower outgroup prejudice and anxiety, and that the mediated effects
   held for high but not low national identifiers. The title reports what
   the authors found; it does not assert that the effect replicates.
-title: 'Simić, Sacchi and Perugini report that expecting one''s national group to stay the same in the future lowers fear for its future and, through that, prejudice and anxiety toward immigrants, among those strongly attached to the group and not among the weakly attached'
+title: 'Expected group continuity lowers prejudice'
+statement: >-
+  Simić, Sacchi and Perugini report that expecting one's national group to
+  stay the same in the future lowers fear for its future and, through that,
+  prejudice and anxiety toward immigrants, among those strongly attached to
+  the group and not among the weakly attached
 version: 1
 history:
 - version: 1
@@ -35,7 +40,7 @@ summary: >-
   future people or legacy.
 ---
 
-# THEORY-2212: Simić, Sacchi and Perugini report that expecting one's national group to stay the same in the future lowers fear for its future and, through that, prejudice and anxiety toward immigrants, among those strongly attached to the group and not among the weakly attached
+# THEORY-2212: Expected group continuity lowers prejudice
 
 ## Source
 

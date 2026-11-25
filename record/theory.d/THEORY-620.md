@@ -3,7 +3,14 @@ number: 620
 status: Active
 formerly:
 - THEORY-tmpqxzxm
-title: "Walsh's 1923 functions are a closed orthonormal set on (0, 1) of ±1-valued step functions, each a parity of finitely many binary digits, whose expansions behave like Fourier series: grouped uniform convergence for continuous functions, convergence under bounded variation, localisation, Cesàro summability, and divergence at any chosen point for some continuous function"
+title: 'Walsh functions behave like Fourier series'
+statement: >-
+  Walsh's 1923 functions are a closed orthonormal set on (0, 1) of ±1-valued
+  step functions, each a parity of finitely many binary digits, whose
+  expansions behave like Fourier series: grouped uniform convergence for
+  continuous functions, convergence under bounded variation, localisation,
+  Cesàro summability, and divergence at any chosen point for some continuous
+  function
 version: 1
 tags:
 - mathematics
@@ -22,7 +29,7 @@ summary: >-
 ---
 
 
-# THEORY-620: Walsh's 1923 functions are a closed orthonormal set on (0, 1) of ±1-valued step functions, each a parity of finitely many binary digits, whose expansions behave like Fourier series: grouped uniform convergence for continuous functions, convergence under bounded variation, localisation, Cesàro summability, and divergence at any chosen point for some continuous function
+# THEORY-620: Walsh functions behave like Fourier series
 
 ## Source
 

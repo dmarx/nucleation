@@ -3,7 +3,14 @@ number: 1039
 status: Proposed
 formerly:
 - CLAIM-tmp7580l
-title: 'A team''s members are necessarily separable as carriers, but its perspectives need not be: one perspective can span members and one member can realize several, and in a model where each member''s perspective is a distribution over a shared interpretive space, the members'' carrier-tagged measures are always mutually singular while the measures they project to can coincide'
+title: 'Members separable, perspectives not'
+statement: >-
+  A team's members are necessarily separable as carriers, but its
+  perspectives need not be: one perspective can span members and one member
+  can realize several, and in a model where each member's perspective is a
+  distribution over a shared interpretive space, the members' carrier-tagged
+  measures are always mutually singular while the measures they project to
+  can coincide
 version: 1
 role: counter
 warrant: demonstrated
@@ -37,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1133 TERM-148 — Proposed; the claim objected to, the restatement filed beside this one, and neighbours -->
 
-# CLAIM-1039: A team's members are necessarily separable as carriers, but its perspectives need not be: one perspective can span members and one member can realize several, and in a model where each member's perspective is a distribution over a shared interpretive space, the members' carrier-tagged measures are always mutually singular while the measures they project to can coincide
+# CLAIM-1039: Members separable, perspectives not
 
 ## The objection
 

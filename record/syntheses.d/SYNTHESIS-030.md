@@ -3,7 +3,17 @@ number: 30
 status: Proposed
 formerly:
 - SYNTHESIS-tmpivyc1
-title: 'The learned-structure line is several inquiries into what training reaches that barely relate: whether a learner''s demands are frustrated and whose they are, when structure is acquired, whether optimal representations nest, whether trained solutions are connected, when a learned distinction is a concept, what classification leaves in the last layers, whether modes describe learned networks, and how latent capability is elicited and at what cost, with smaller families and eighteen entries linked to no other; the parts meet mostly through the acquisition questions, and the line is a candidate to split'
+title: 'Learned structure: loose inquiries, may split'
+statement: >-
+  The learned-structure line is several inquiries into what training reaches
+  that barely relate: whether a learner's demands are frustrated and whose
+  they are, when structure is acquired, whether optimal representations
+  nest, whether trained solutions are connected, when a learned distinction
+  is a concept, what classification leaves in the last layers, whether modes
+  describe learned networks, and how latent capability is elicited and at
+  what cost, with smaller families and eighteen entries linked to no other;
+  the parts meet mostly through the acquisition questions, and the line is a
+  candidate to split
 version: 4
 history:
 - version: 2
@@ -103,7 +113,7 @@ bears_on:
 <!-- inactive-ok-file: CASE-270 CASE-271 CASE-272 CASE-273 CASE-274 CASE-275 CLAIM-641 CLAIM-695 CLAIM-696 CLAIM-697 CLAIM-698 CLAIM-699 CASE-193 CASE-226 CLAIM-263 CLAIM-367 CLAIM-498 CLAIM-499 CLAIM-555 CLAIM-620 CLAIM-621 TERM-098 THEORY-196 THEORY-288 THEORY-614 — Proposed; components, citations and the decisions this account follows, with their standing -->
 <!-- inactive-ok-file: QUESTION-244 QUESTION-286 QUESTION-291 QUESTION-294 — Answered; components and citations, with their standing -->
 
-# SYNTHESIS-030: The learned-structure line is several inquiries into what training reaches that barely relate: whether a learner's demands are frustrated and whose they are, when structure is acquired, whether optimal representations nest, whether trained solutions are connected, when a learned distinction is a concept, what classification leaves in the last layers, whether modes describe learned networks, and how latent capability is elicited and at what cost, with smaller families and eighteen entries linked to no other; the parts meet mostly through the acquisition questions, and the line is a candidate to split
+# SYNTHESIS-030: Learned structure: loose inquiries, may split
 
 *The account of the learned-structure line ("How training finds structure"), over the accounts of eight parts ([ADR-083](../decisions.d/ADR-083.md)). It integrates directly the families too small for an account of their own, one claim that joins two parts, and the entries linked to no other component. Of the line's 100 entries, 58 are Open questions, 4 Answered questions, 27 claims, 10 cases and one term. Nine carry the line after another: [CLAIM-394](../claims.d/CLAIM-394.md), [CLAIM-543](../claims.d/CLAIM-543.md), [CLAIM-620](../claims.d/CLAIM-620.md), [CLAIM-621](../claims.d/CLAIM-621.md), [QUESTION-439](../questions.d/QUESTION-439.md) (as at version 1), [CLAIM-641](../claims.d/CLAIM-641.md) (formal-apparatus) and [CLAIM-695](../claims.d/CLAIM-695.md), [CLAIM-697](../claims.d/CLAIM-697.md) and [CLAIM-699](../claims.d/CLAIM-699.md) (realizability).*
 

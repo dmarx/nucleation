@@ -3,7 +3,14 @@ number: 699
 status: Proposed
 formerly:
 - CLAIM-tmpwxs2x
-title: 'Where the reward used in RL post-training is also available as a verifier at test time, the RL model''s single-sample gain is a cheaper route to what base sampling filtered by that verifier reaches at matched compute, and should not exceed it at large budgets; RL''s distinctive value lies where recognition at test time is unavailable or costly, so the substitutability of training and search is fixed by the cost of recognition'
+title: 'Recognition cost fixes the training–search trade'
+statement: >-
+  Where the reward used in RL post-training is also available as a verifier
+  at test time, the RL model's single-sample gain is a cheaper route to what
+  base sampling filtered by that verifier reaches at matched compute, and
+  should not exceed it at large budgets; RL's distinctive value lies where
+  recognition at test time is unavailable or costly, so the substitutability
+  of training and search is fixed by the cost of recognition
 version: 2
 history:
 - version: 2
@@ -51,7 +58,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1908 CLAIM-697 CLAIM-695 THEORY-331 — Proposed or new; the claims this rests on and the readings it is set against -->
 
-# CLAIM-699: Where the reward used in RL post-training is also available as a verifier at test time, the RL model's single-sample gain is a cheaper route to what base sampling filtered by that verifier reaches at matched compute, and should not exceed it at large budgets; RL's distinctive value lies where recognition at test time is unavailable or costly, so the substitutability of training and search is fixed by the cost of recognition
+# CLAIM-699: Recognition cost fixes the training–search trade
 
 ## The argument
 

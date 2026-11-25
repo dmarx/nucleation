@@ -14,7 +14,14 @@ promote_when: >-
   differently by some route other than regulation. Further intuitive
   cases (the bacterium, the cliff) cannot settle it, since they were chosen
   to illustrate it.
-title: "Self-production alone gives a system only an all-or-nothing norm, to go on or to die, and that distinction is available to an observer, not to the system; a graded norm the system itself has, by which viable states are better or worse for it, needs adaptivity, a further capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them, and sense-making and agency need adaptivity"
+title: 'Graded intrinsic norms need adaptivity'
+statement: >-
+  Self-production alone gives a system only an all-or-nothing norm, to go on
+  or to die, and that distinction is available to an observer, not to the
+  system; a graded norm the system itself has, by which viable states are
+  better or worse for it, needs adaptivity, a further capacity to detect
+  tendencies toward the boundary of its viability and to act so as to
+  reverse them, and sense-making and agency need adaptivity
 version: 2
 history:
 - version: 2
@@ -53,7 +60,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-666 — Proposed; the rival account, named as one end of the rivalry -->
 <!-- inactive-ok-file: THEORY-071 THEORY-217 THEORY-220 — Proposed; neighbouring accounts named in Connections, nothing here rests on them -->
 
-# THEORY-628: Self-production alone gives a system only an all-or-nothing norm, to go on or to die, and that distinction is available to an observer, not to the system; a graded norm the system itself has, by which viable states are better or worse for it, needs adaptivity, a further capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them, and sense-making and agency need adaptivity
+# THEORY-628: Graded intrinsic norms need adaptivity
 
 ## Source
 

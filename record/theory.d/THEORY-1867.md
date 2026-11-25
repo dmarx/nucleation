@@ -3,7 +3,13 @@ number: 1867
 status: Proposed
 formerly:
 - THEORY-tmpzuniv
-title: 'Moen argues that Kaczynski''s case against industrial technology reaches its conclusion from defensible empirical worries, that technological progress is hard to predict and as an arms race hard to restrain, only through unargued evaluative premises that count technology''s harms and not its benefits, so that counted even-handedly the case fails'
+title: 'Kaczynski''s case fails counted even-handedly'
+statement: >-
+  Moen argues that Kaczynski's case against industrial technology reaches
+  its conclusion from defensible empirical worries, that technological
+  progress is hard to predict and as an arms race hard to restrain, only
+  through unargued evaluative premises that count technology's harms and not
+  its benefits, so that counted even-handedly the case fails
 version: 1
 tags:
 - ethics
@@ -23,7 +29,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-677 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
-# THEORY-1867: Moen argues that Kaczynski's case against industrial technology reaches its conclusion from defensible empirical worries, that technological progress is hard to predict and as an arms race hard to restrain, only through unargued evaluative premises that count technology's harms and not its benefits, so that counted even-handedly the case fails
+# THEORY-1867: Kaczynski's case fails counted even-handedly
 
 ## The account
 

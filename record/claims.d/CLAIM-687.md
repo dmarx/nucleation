@@ -3,7 +3,13 @@ number: 687
 status: Active
 formerly:
 - CLAIM-tmpwgiwq
-title: 'The accountability that those who control an arrangement owe to those who depend on it should rise with how indispensable the arrangement has become to them, so that an arrangement that has become effectively compulsory owes public justification of its purposes and governing rules, and those affected owe no deference to expertise or ownership as such'
+title: 'Accountability rises with indispensability'
+statement: >-
+  The accountability that those who control an arrangement owe to those who
+  depend on it should rise with how indispensable the arrangement has become
+  to them, so that an arrangement that has become effectively compulsory
+  owes public justification of its purposes and governing rules, and those
+  affected owe no deference to expertise or ownership as such
 version: 6
 history:
 - version: 2
@@ -105,7 +111,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-682 CLAIM-684 CLAIM-677 CLAIM-683 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 TERM-108 — Proposed; the record's nearest entries, cited with their standing -->
 
-# CLAIM-687: The accountability that those who control an arrangement owe to those who depend on it should rise with how indispensable the arrangement has become to them, so that an arrangement that has become effectively compulsory owes public justification of its purposes and governing rules, and those affected owe no deference to expertise or ownership as such
+# CLAIM-687: Accountability rises with indispensability
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 867
 status: Proposed
 formerly:
 - CLAIM-tmpner6t
-title: 'An alternative: another party''s standing channel into an agent is a fact about the agent''s situation, not a relation of its will-organization, which is the organization the agent''s own processes maintain, so no feature of will-organization differs between a manipulated will and its unmanipulated twin even while the manipulator keeps its channel, and the channel belongs with formation provenance among what a record must contain'
+title: 'A manipulator''s channel is situation, not will'
+statement: >-
+  An alternative: another party's standing channel into an agent is a fact
+  about the agent's situation, not a relation of its will-organization,
+  which is the organization the agent's own processes maintain, so no
+  feature of will-organization differs between a manipulated will and its
+  unmanipulated twin even while the manipulator keeps its channel, and the
+  channel belongs with formation provenance among what a record must contain
 version: 1
 role: thesis
 warrant: interpretive
@@ -53,7 +60,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-868 CLAIM-866 CASE-310 — new; filed together for LEAD-038 -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; the domination clause this alternative reads as about the situation, and Pereboom's cases as filed from two surveys -->
 
-# CLAIM-867: An alternative: another party's standing channel into an agent is a fact about the agent's situation, not a relation of its will-organization, which is the organization the agent's own processes maintain, so no feature of will-organization differs between a manipulated will and its unmanipulated twin even while the manipulator keeps its channel, and the channel belongs with formation provenance among what a record must contain
+# CLAIM-867: A manipulator's channel is situation, not will
 
 ## The claim
 

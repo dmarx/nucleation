@@ -3,7 +3,14 @@ number: 11
 status: Superseded
 formerly:
 - SYNTHESIS-tmprnoj1
-title: 'The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another''s influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them'
+title: 'Transport and will-organization are one model'
+statement: >-
+  The pragmatic-transport and will-organization lines describe one model, an
+  organization of operators that act on a shared interpretive state under a
+  context while allocating one another's influence: a frame is the context
+  under which operators act, a judgement is the response they yield, an
+  action-generating regime is an operator or coalition, and a
+  will-organization is the dynamics that allocates influence among them
 version: 2
 history:
 - version: 1
@@ -78,7 +85,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-336 — Superseded by this entry, which it was -->
 <!-- inactive-ok-file: CLAIM-286 ARG-065 — Proposed; a premise and the argument that concludes this, cited with their standing -->
 
-# SYNTHESIS-011: The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them
+# SYNTHESIS-011: Transport and will-organization are one model
 
 *Moved from [CLAIM-336](../claims.d/CLAIM-336.md), where its development up to version 7 is recorded.*
 

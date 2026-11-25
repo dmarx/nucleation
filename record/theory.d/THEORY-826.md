@@ -27,8 +27,11 @@ promote_when: "For the clause on mood: a second experiment, with a manipulated s
 
 # The claim. Repeat it as the body's `# THEORY-826:` heading; the lint checks
 # that the two agree.
-title: "In work groups, a member's displayed mood spreads to the others, and pleasant emotional contagion improves the group's cooperation and reduces its conflict"
-
+title: 'Pleasant mood contagion improves group cooperation'
+statement: >-
+  In work groups, a member's displayed mood spreads to the others, and
+  pleasant emotional contagion improves the group's cooperation and reduces
+  its conflict
 version: 1
 
 # One or more topics from luria.yaml, primary first — the same table the
@@ -64,7 +67,7 @@ extends:
 ---
 <!-- inactive-ok-file: THEORY-126 — Proposed; the convergence account named in Connections, not leaned on -->
 
-# THEORY-826: In work groups, a member's displayed mood spreads to the others, and pleasant emotional contagion improves the group's cooperation and reduces its conflict
+# THEORY-826: Pleasant mood contagion improves group cooperation
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 733
 status: Active
 formerly:
 - THEORY-tmp7brn5
-title: 'For a stable linear Gaussian VAR(p), a linear coarse-graining is exactly dynamically independent iff its row space is invariant under the transpose of every lag matrix, so for p ≥ 2 almost no parameter set has one at any scale, while for p = 1 they are the transpose''s invariant subspaces, which exist on open sets but not generically at every scale'
+title: 'Exact dynamical independence is non-generic'
+statement: >-
+  For a stable linear Gaussian VAR(p), a linear coarse-graining is exactly
+  dynamically independent iff its row space is invariant under the transpose
+  of every lag matrix, so for p ≥ 2 almost no parameter set has one at any
+  scale, while for p = 1 they are the transpose's invariant subspaces, which
+  exist on open sets but not generically at every scale
 version: 2
 history:
 - version: 1
@@ -47,7 +53,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account this was split from and that extends it, cited as open -->
 
-# THEORY-733: For a stable linear Gaussian VAR(p), a linear coarse-graining is exactly dynamically independent iff its row space is invariant under the transpose of every lag matrix, so for p ≥ 2 almost no parameter set has one at any scale, while for p = 1 they are the transpose's invariant subspaces, which exist on open sets but not generically at every scale
+# THEORY-733: Exact dynamical independence is non-generic
 
 ## Source
 

@@ -11,7 +11,18 @@ promote_when: >-
   of the set of a ∈ A such that B(a) is a pair of such an a with a proof
   of B(a). A proof of consistency alone, by a model that does not interpret
   elements as programs, does not meet this.
-title: 'Martin-Löf holds that what is asserted is a judgement, not a proposition, in four forms (A is a set, two sets are equal, a is an element of A, two elements are equal), each explained before any rule: a set is defined by how its canonical elements are formed, an element is a program computing one, and propositions are identified with sets, so that being an element reads alike as proving a proposition, solving a problem and meeting a specification; the existential, and the set of elements such that a property holds, have as elements pairs of a witness and its proof; and universes are sets of codes closed under given set-forming operations, never a set of all sets'
+title: 'Assertion is of judgements; propositions are sets'
+statement: >-
+  Martin-Löf holds that what is asserted is a judgement, not a proposition,
+  in four forms (A is a set, two sets are equal, a is an element of A, two
+  elements are equal), each explained before any rule: a set is defined by
+  how its canonical elements are formed, an element is a program computing
+  one, and propositions are identified with sets, so that being an element
+  reads alike as proving a proposition, solving a problem and meeting a
+  specification; the existential, and the set of elements such that a
+  property holds, have as elements pairs of a witness and its proof; and
+  universes are sets of codes closed under given set-forming operations,
+  never a set of all sets
 version: 1
 tags:
 - logic
@@ -35,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-249 ARG-253 ARG-255 CLAIM-1208 CLAIM-1289 CLAIM-949 CLAIM-783 TERM-152 TERM-153 TERM-154 NOTE-2419 — Proposed or Skimmed; the reading, the arguments and claims filed from it, and the entries it bears on -->
 
-# THEORY-2307: Martin-Löf holds that what is asserted is a judgement, not a proposition, in four forms (A is a set, two sets are equal, a is an element of A, two elements are equal), each explained before any rule: a set is defined by how its canonical elements are formed, an element is a program computing one, and propositions are identified with sets, so that being an element reads alike as proving a proposition, solving a problem and meeting a specification; the existential, and the set of elements such that a property holds, have as elements pairs of a witness and its proof; and universes are sets of codes closed under given set-forming operations, never a set of all sets
+# THEORY-2307: Assertion is of judgements; propositions are sets
 
 ## Source
 

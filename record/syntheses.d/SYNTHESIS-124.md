@@ -3,7 +3,19 @@ number: 124
 status: Proposed
 formerly:
 - SYNTHESIS-tmpfxv00
-title: "Keeping a route to reorganization under a budget rule that follows use, in the record: under the peak rule a capability stays funded exactly while every period mobilizes it, so a drill each period holds the budget as a reserve does; a redesigned transition is lost like the original unless its threshold is at most the holding cost, so redesign lowers the reserve it needs without replacing it, and is proposed to serve only the transitions that can use it where a reserve of one capacity serves every one within it; a reserve pays when a contingency's probability times its loss outweighs its cost, if readiness is known; and lock-in by allocation and by consolidation are two routes with different remedies, while what justifies a lock-in and how long one stays hidden are not settled"
+title: 'Use-based budgets keep routes only if drilled'
+statement: >-
+  Keeping a route to reorganization under a budget rule that follows use, in
+  the record: under the peak rule a capability stays funded exactly while
+  every period mobilizes it, so a drill each period holds the budget as a
+  reserve does; a redesigned transition is lost like the original unless its
+  threshold is at most the holding cost, so redesign lowers the reserve it
+  needs without replacing it, and is proposed to serve only the transitions
+  that can use it where a reserve of one capacity serves every one within
+  it; a reserve pays when a contingency's probability times its loss
+  outweighs its cost, if readiness is known; and lock-in by allocation and
+  by consolidation are two routes with different remedies, while what
+  justifies a lock-in and how long one stays hidden are not settled
 version: 3
 history:
 - version: 2
@@ -82,7 +94,7 @@ summary: >-
 
 <!-- inactive-ok-file: CASE-200 CLAIM-758 TERM-131 CLAIM-757 TERM-164 CLAIM-684 CLAIM-1108 THEORY-1073 CLAIM-478 SYNTHESIS-024 SYNTHESIS-027 SYNTHESIS-031 SYNTHESIS-105 SYNTHESIS-123 SYNTHESIS-121 — Proposed; components and neighbouring accounts, cited with their standing -->
 
-# SYNTHESIS-124: Keeping a route to reorganization under a budget rule that follows use, in the record: under the peak rule a capability stays funded exactly while every period mobilizes it, so a drill each period holds the budget as a reserve does; a redesigned transition is lost like the original unless its threshold is at most the holding cost, so redesign lowers the reserve it needs without replacing it, and is proposed to serve only the transitions that can use it where a reserve of one capacity serves every one within it; a reserve pays when a contingency's probability times its loss outweighs its cost, if readiness is known; and lock-in by allocation and by consolidation are two routes with different remedies, while what justifies a lock-in and how long one stays hidden are not settled
+# SYNTHESIS-124: Use-based budgets keep routes only if drilled
 
 *A thematic account, across lines, of the joins of the manuscript
 governance-of-possibility (scratch/manuscripts/governance-of-possibility/,

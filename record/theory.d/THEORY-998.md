@@ -3,7 +3,17 @@ number: 998
 status: Active
 formerly:
 - THEORY-tmpom5gw
-title: 'In GPT-2 XL, for 1000 facts the model knows, restoring single clean hidden states into a run whose subject tokens were noised recovers the most of the correct object''s probability at two sites, middle layers at the last subject token, where MLP outputs carry most of the effect, and late layers at the last token, where attention does; and a rank-one edit of one middle MLP output matrix keyed on the last subject token inserts counterfactual facts that generalize to paraphrases and spare neighbouring subjects better than the fine-tuning, knowledge-neuron and hypernetwork editors tested, working best at that token and in middle layers'
+title: 'Mid-layer MLPs at the subject recall facts'
+statement: >-
+  In GPT-2 XL, for 1000 facts the model knows, restoring single clean hidden
+  states into a run whose subject tokens were noised recovers the most of
+  the correct object's probability at two sites, middle layers at the last
+  subject token, where MLP outputs carry most of the effect, and late layers
+  at the last token, where attention does; and a rank-one edit of one middle
+  MLP output matrix keyed on the last subject token inserts counterfactual
+  facts that generalize to paraphrases and spare neighbouring subjects
+  better than the fine-tuning, knowledge-neuron and hypernetwork editors
+  tested, working best at that token and in middle layers
 version: 3
 history:
 - version: 1
@@ -50,7 +60,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-1011 — Proposed; the storage hypothesis drawn from these results, cited as open -->
 
-# THEORY-998: In GPT-2 XL, for 1000 facts the model knows, restoring single clean hidden states into a run whose subject tokens were noised recovers the most of the correct object's probability at two sites, middle layers at the last subject token, where MLP outputs carry most of the effect, and late layers at the last token, where attention does; and a rank-one edit of one middle MLP output matrix keyed on the last subject token inserts counterfactual facts that generalize to paraphrases and spare neighbouring subjects better than the fine-tuning, knowledge-neuron and hypernetwork editors tested, working best at that token and in middle layers
+# THEORY-998: Mid-layer MLPs at the subject recall facts
 
 ## Source
 

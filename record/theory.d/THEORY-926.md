@@ -3,7 +3,12 @@ number: 926
 status: Active
 formerly:
 - THEORY-tmp2ela3
-title: 'In a game where each player can transmit n bits before a win or a loss becomes unattainable, every antisymmetric pattern of wins and losses among ⌊2ⁿ⌋ strategies, a cycle through all of them included, is realized by some set of pure strategies'
+title: 'n bits realize any antisymmetric win pattern'
+statement: >-
+  In a game where each player can transmit n bits before a win or a loss
+  becomes unattainable, every antisymmetric pattern of wins and losses among
+  ⌊2ⁿ⌋ strategies, a cycle through all of them included, is realized by some
+  set of pure strategies
 version: 3
 history:
 - version: 2
@@ -57,7 +62,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 
-# THEORY-926: In a game where each player can transmit n bits before a win or a loss becomes unattainable, every antisymmetric pattern of wins and losses among ⌊2ⁿ⌋ strategies, a cycle through all of them included, is realized by some set of pure strategies
+# THEORY-926: n bits realize any antisymmetric win pattern
 
 ## Source
 

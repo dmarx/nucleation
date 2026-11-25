@@ -3,7 +3,12 @@ number: 1230
 status: Proposed
 formerly:
 - CLAIM-tmp4uj40
-title: "A meme's virality and its generativity come apart: how often and how faithfully it is copied does not fix how much organization forms around it, so a widely copied meme can organize little and a rarely copied one much"
+title: 'Virality and generativity come apart'
+statement: >-
+  A meme's virality and its generativity come apart: how often and how
+  faithfully it is copied does not fix how much organization forms around
+  it, so a widely copied meme can organize little and a rarely copied one
+  much
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +48,7 @@ summary: >-
 
 <!-- inactive-ok-file: ARG-248 CLAIM-1218 LIT-3207 TERM-172 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
-# CLAIM-1230: A meme's virality and its generativity come apart: how often and how faithfully it is copied does not fix how much organization forms around it, so a widely copied meme can organize little and a rarely copied one much
+# CLAIM-1230: Virality and generativity come apart
 
 ## The claim
 

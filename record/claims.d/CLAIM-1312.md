@@ -3,7 +3,11 @@ number: 1312
 status: Rejected
 formerly:
 - CLAIM-tmpqhazs
-title: 'The hyperarticle atlas can be an account only as an account over accounts: a cross-line SYNTHESIS integrating each scope''s account, which needs every scope to have one first'
+title: 'The atlas as an account over accounts'
+statement: >-
+  The hyperarticle atlas can be an account only as an account over accounts:
+  a cross-line SYNTHESIS integrating each scope's account, which needs every
+  scope to have one first
 version: 2
 history:
 - version: 2
@@ -48,7 +52,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1261 ADR-146 SYNTHESIS-111 — Proposed or Open; the question, the alternative and the decision that made the lines -->
 
-# CLAIM-1312: The hyperarticle atlas can be an account only as an account over accounts: a cross-line SYNTHESIS integrating each scope's account, which needs every scope to have one first
+# CLAIM-1312: The atlas as an account over accounts
 
 Two things stop the atlas from being an account as it stands, both stated
 by A65 itself:

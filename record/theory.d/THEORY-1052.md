@@ -13,7 +13,14 @@ promote_when: >-
   against every relaxation rate. Not settled by more linear or
   normal-form examples, which the paper already gives, nor by
   simulations that bracket a critical rate.
-title: 'A quasi-static attractor describes an open system only while the drift of that attractor in state space is slow against the system''s slowest relaxation, scaled by the distance to the tipping threshold; rate-induced tipping is the failure of that time-scale separation, and it can occur while the parameter itself moves slowly, if the attractor is sensitive to it, and with no slowing of any mode'
+title: 'Rate tipping is failed time-scale separation'
+statement: >-
+  A quasi-static attractor describes an open system only while the drift of
+  that attractor in state space is slow against the system's slowest
+  relaxation, scaled by the distance to the tipping threshold; rate-induced
+  tipping is the failure of that time-scale separation, and it can occur
+  while the parameter itself moves slowly, if the attractor is sensitive to
+  it, and with no slowing of any mode
 version: 1
 tags:
 - complex-systems
@@ -33,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-478 — Proposed; neighbours cited as open -->
 
-# THEORY-1052: A quasi-static attractor describes an open system only while the drift of that attractor in state space is slow against the system's slowest relaxation, scaled by the distance to the tipping threshold; rate-induced tipping is the failure of that time-scale separation, and it can occur while the parameter itself moves slowly, if the attractor is sensitive to it, and with no slowing of any mode
+# THEORY-1052: Rate tipping is failed time-scale separation
 
 ## Source
 

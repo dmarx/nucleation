@@ -3,7 +3,16 @@ number: 1142
 status: Active
 formerly:
 - THEORY-tmpkmtoo
-title: 'A translation between two logics presented as institutions is correct, in the Satisfaction Condition''s sense, when a translated sentence holds in a model exactly when the original holds in the model''s translation; given the model translation this fixes the sentence translation up to semantic equivalence, and when every model of the target is reached it preserves and reflects entailment, so one logic''s prover can decide the other''s; but the condition alone admits collapsing translations and is relative to a model translation it does not supply'
+title: 'Satisfaction Condition lets provers be reused'
+statement: >-
+  A translation between two logics presented as institutions is correct, in
+  the Satisfaction Condition's sense, when a translated sentence holds in a
+  model exactly when the original holds in the model's translation; given
+  the model translation this fixes the sentence translation up to semantic
+  equivalence, and when every model of the target is reached it preserves
+  and reflects entailment, so one logic's prover can decide the other's; but
+  the condition alone admits collapsing translations and is relative to a
+  model translation it does not supply
 version: 2
 history:
 - version: 2
@@ -39,7 +48,7 @@ corroborates:
 - CLAIM-011
 ---
 
-# THEORY-1142: A translation between two logics presented as institutions is correct, in the Satisfaction Condition's sense, when a translated sentence holds in a model exactly when the original holds in the model's translation; given the model translation this fixes the sentence translation up to semantic equivalence, and when every model of the target is reached it preserves and reflects entailment, so one logic's prover can decide the other's; but the condition alone admits collapsing translations and is relative to a model translation it does not supply
+# THEORY-1142: Satisfaction Condition lets provers be reused
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 1685
 status: Proposed
 formerly:
 - THEORY-tmpi8udk
-title: 'Gutiérrez-Manjón, Gómez-García and Bonales-Daimiel (2026) classify monetization-oriented dark patterns in games into temporal, monetary and social kinds and, coding nine of the top-grossing games-as-a-service of 2024 by direct observation, find these patterns in nearly all of them, with none imposing a spending limit and the five mobile titles using them more densely and aggressively than the four console and PC titles.'
+title: 'Monetization dark patterns pervade top games'
+statement: >-
+  Gutiérrez-Manjón, Gómez-García and Bonales-Daimiel (2026) classify
+  monetization-oriented dark patterns in games into temporal, monetary and
+  social kinds and, coding nine of the top-grossing games-as-a-service of
+  2024 by direct observation, find these patterns in nearly all of them,
+  with none imposing a spending limit and the five mobile titles using them
+  more densely and aggressively than the four console and PC titles.
 version: 1
 source:
 - LIT-2421
@@ -30,7 +37,7 @@ summary: >-
   observable mechanics.
 ---
 
-# THEORY-1685: Gutiérrez-Manjón, Gómez-García and Bonales-Daimiel (2026) classify monetization-oriented dark patterns in games into temporal, monetary and social kinds and, coding nine of the top-grossing games-as-a-service of 2024 by direct observation, find these patterns in nearly all of them, with none imposing a spending limit and the five mobile titles using them more densely and aggressively than the four console and PC titles.
+# THEORY-1685: Monetization dark patterns pervade top games
 
 ## The account
 

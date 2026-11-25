@@ -3,7 +3,15 @@ number: 999
 status: Active
 formerly:
 - CLAIM-tmp0dyx8
-title: 'A distinction among a self''s perspectives cannot disappear as a probe regime is enriched along a nested family: it can disappear only when the regime changes otherwise, by dropping or replacing probes, coarsening what is recorded or shortening the horizon, which are changes of regime under which it is relative and not false, or when the organization itself changes, in which case it was a fact about the earlier organization and is not relative to any regime'
+title: 'Nested enrichment cannot erase a distinction'
+statement: >-
+  A distinction among a self's perspectives cannot disappear as a probe
+  regime is enriched along a nested family: it can disappear only when the
+  regime changes otherwise, by dropping or replacing probes, coarsening what
+  is recorded or shortening the horizon, which are changes of regime under
+  which it is relative and not false, or when the organization itself
+  changes, in which case it was a fact about the earlier organization and is
+  not relative to any regime
 version: 2
 history:
 - version: 1
@@ -58,7 +66,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1044 — new; the conjecture this corrects and its revision, filed in the same batch of 2026-11-22 -->
 
-# CLAIM-999: A distinction among a self's perspectives cannot disappear as a probe regime is enriched along a nested family: it can disappear only when the regime changes otherwise, by dropping or replacing probes, coarsening what is recorded or shortening the horizon, which are changes of regime under which it is relative and not false, or when the organization itself changes, in which case it was a fact about the earlier organization and is not relative to any regime
+# CLAIM-999: Nested enrichment cannot erase a distinction
 
 ## The claim
 

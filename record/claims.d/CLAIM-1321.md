@@ -3,7 +3,14 @@ number: 1321
 status: Proposed
 formerly:
 - CLAIM-tmptn64c
-title: The memory of a feed divides into the history of its data, of its definition and of its decisions; where the feed is a deterministic query, why an object was included follows from the first two as its why-provenance, so only judgements, such as an editor's tag or an owner's ruling, must be kept as events, and a luria record keeps them in its sources while its generated views keep none
+title: 'Only judgements need keeping as feed memory'
+statement: >-
+  The memory of a feed divides into the history of its data, of its
+  definition and of its decisions; where the feed is a deterministic query,
+  why an object was included follows from the first two as its
+  why-provenance, so only judgements, such as an editor's tag or an owner's
+  ruling, must be kept as events, and a luria record keeps them in its
+  sources while its generated views keep none
 version: 2
 history:
 - version: 2
@@ -48,7 +55,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1302 CLAIM-1344 CLAIM-1304 CLAIM-1242 — Proposed; the owner's feed and journal, A's claims on the memory and the tag, and the assistant's claim on what lives on the host -->
 
-# CLAIM-1321: The memory of a feed divides into the history of its data, of its definition and of its decisions; where the feed is a deterministic query, why an object was included follows from the first two as its why-provenance, so only judgements, such as an editor's tag or an owner's ruling, must be kept as events, and a luria record keeps them in its sources while its generated views keep none
+# CLAIM-1321: Only judgements need keeping as feed memory
 
 ## The gap
 

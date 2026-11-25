@@ -14,7 +14,13 @@ promote_when: >-
   because step 5 of the method lets constraints be refitted until a model
   fits; nor can a demonstration that people are not optimal, which the
   framework does not claim.
-title: "Cognitive mechanisms can be derived as the one, among those a brain can execute, that best trades the expected utility of its result against the opportunity cost of the time and resources it uses; the review shows the derivation reproducing many heuristics and biases, not that people are optimal, and the objective is per episode"
+title: 'Resource-rational analysis rederives heuristics'
+statement: >-
+  Cognitive mechanisms can be derived as the one, among those a brain can
+  execute, that best trades the expected utility of its result against the
+  opportunity cost of the time and resources it uses; the review shows the
+  derivation reproducing many heuristics and biases, not that people are
+  optimal, and the objective is per episode
 version: 1
 tags:
 - cognition
@@ -37,7 +43,7 @@ bears_on:
 - QUESTION-095
 ---
 
-# THEORY-359: Cognitive mechanisms can be derived as the one, among those a brain can execute, that best trades the expected utility of its result against the opportunity cost of the time and resources it uses; the review shows the derivation reproducing many heuristics and biases, not that people are optimal, and the objective is per episode
+# THEORY-359: Resource-rational analysis rederives heuristics
 
 ## Source
 

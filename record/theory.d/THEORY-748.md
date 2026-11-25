@@ -3,7 +3,16 @@ number: 748
 status: Active
 formerly:
 - THEORY-tmp784do
-title: 'Block entropies, and so every lag-τ entropy rate of a stationary signal, are unchanged by the reflection x → −x and by time reversal, so they cannot detect the odd-order asymmetry the 4/5 law ties to energy flux; Granero-Belinchón, Roux and Garnier''s entropy rate conditioned on the sign of the increment breaks the reflection invariance, but h⁺ ≠ h⁻ shows only that the two-point distribution lacks central symmetry, which a skewed one-point distribution produces with exactly symmetric increments, so the test does not by itself detect skewed increments or an energy cascade'
+title: 'Signed entropy rate doesn''t detect cascades'
+statement: >-
+  Block entropies, and so every lag-τ entropy rate of a stationary signal,
+  are unchanged by the reflection x → −x and by time reversal, so they
+  cannot detect the odd-order asymmetry the 4/5 law ties to energy flux;
+  Granero-Belinchón, Roux and Garnier's entropy rate conditioned on the sign
+  of the increment breaks the reflection invariance, but h⁺ ≠ h⁻ shows only
+  that the two-point distribution lacks central symmetry, which a skewed
+  one-point distribution produces with exactly symmetric increments, so the
+  test does not by itself detect skewed increments or an energy cascade
 version: 1
 history:
 - version: 1
@@ -37,7 +46,7 @@ bears_on:
 - QUESTION-219
 ---
 
-# THEORY-748: Block entropies, and so every lag-τ entropy rate of a stationary signal, are unchanged by the reflection x → −x and by time reversal, so they cannot detect the odd-order asymmetry the 4/5 law ties to energy flux; Granero-Belinchón, Roux and Garnier's entropy rate conditioned on the sign of the increment breaks the reflection invariance, but h⁺ ≠ h⁻ shows only that the two-point distribution lacks central symmetry, which a skewed one-point distribution produces with exactly symmetric increments, so the test does not by itself detect skewed increments or an energy cascade
+# THEORY-748: Signed entropy rate doesn't detect cascades
 
 ## Source
 

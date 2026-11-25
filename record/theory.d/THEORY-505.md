@@ -3,7 +3,12 @@ number: 505
 status: Active
 formerly:
 - THEORY-tmpdn4s2
-title: "Questionnaire items written for morality-as-cooperation's seven domains form seven factors when rated for relevance to moral decisions, in the UK, the US and Turkey, but not when rated as agreement with moral statements, and the two formats cannot be pooled into seven domains"
+title: 'Cooperation domains factor only by relevance'
+statement: >-
+  Questionnaire items written for morality-as-cooperation's seven domains
+  form seven factors when rated for relevance to moral decisions, in the UK,
+  the US and Turkey, but not when rated as agreement with moral statements,
+  and the two formats cannot be pooled into seven domains
 version: 1
 tags:
 - moral-psychology
@@ -23,7 +28,7 @@ summary: >-
   the instrument's structure, not about what morality contains.
 ---
 
-# THEORY-505: Questionnaire items written for morality-as-cooperation's seven domains form seven factors when rated for relevance to moral decisions, in the UK, the US and Turkey, but not when rated as agreement with moral statements, and the two formats cannot be pooled into seven domains
+# THEORY-505: Cooperation domains factor only by relevance
 
 ## Source
 

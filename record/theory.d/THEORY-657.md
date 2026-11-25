@@ -13,7 +13,13 @@ promote_when: >-
   necessary for novelty on a definition of novelty that does not build it
   in. More examples of emergent phenomena that have several marks at once
   cannot settle it.
-title: "If an emergent property is one that the parts lack, then the other marks commonly given for emergence are separate questions about each system and not consequences of it: established condensed-matter cases show novelty without a discontinuity, a discontinuity without novelty, novelty that was predicted first, and novelty with a rigorous reduction"
+title: 'Emergence marks are independent of novelty'
+statement: >-
+  If an emergent property is one that the parts lack, then the other marks
+  commonly given for emergence are separate questions about each system and
+  not consequences of it: established condensed-matter cases show novelty
+  without a discontinuity, a discontinuity without novelty, novelty that was
+  predicted first, and novelty with a rigorous reduction
 version: 1
 tags:
 - complex-systems
@@ -34,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-459 THEORY-497 — Proposed; neighbouring accounts named for comparison, nothing here rests on their being settled -->
 
-# THEORY-657: If an emergent property is one that the parts lack, then the other marks commonly given for emergence are separate questions about each system and not consequences of it: established condensed-matter cases show novelty without a discontinuity, a discontinuity without novelty, novelty that was predicted first, and novelty with a rigorous reduction
+# THEORY-657: Emergence marks are independent of novelty
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 595
 status: Active
 formerly:
 - THEORY-tmpnz4z2
-title: "A filter over a set of worlds is a finitely consistent propositional theory and an ultrafilter a negation-complete one; read so, the ultrafilter extension theorem is Lindenbaum's lemma for propositions, and Łoś's theorem builds a model that makes true exactly what an ultrafilter says, which proves first-order compactness without proof theory, given the axiom of choice"
+title: 'Ultrafilter extension is Lindenbaum''s lemma'
+statement: >-
+  A filter over a set of worlds is a finitely consistent propositional
+  theory and an ultrafilter a negation-complete one; read so, the
+  ultrafilter extension theorem is Lindenbaum's lemma for propositions, and
+  Łoś's theorem builds a model that makes true exactly what an ultrafilter
+  says, which proves first-order compactness without proof theory, given the
+  axiom of choice
 version: 1
 tags:
 - logic
@@ -21,7 +28,7 @@ summary: >-
   with Lindenbaum and Henkin are analogies, not reductions.
 ---
 
-# THEORY-595: A filter over a set of worlds is a finitely consistent propositional theory and an ultrafilter a negation-complete one; read so, the ultrafilter extension theorem is Lindenbaum's lemma for propositions, and Łoś's theorem builds a model that makes true exactly what an ultrafilter says, which proves first-order compactness without proof theory, given the axiom of choice
+# THEORY-595: Ultrafilter extension is Lindenbaum's lemma
 
 ## Source
 

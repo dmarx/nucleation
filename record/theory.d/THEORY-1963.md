@@ -9,7 +9,13 @@ promote_when: >-
   preschool children wait on the marshmallow task, in the direction
   reported here. Whether self-control matters too is not at issue: the
   title does not deny it.
-title: 'Preschool children''s wait-times on the marshmallow task depend on their evidence about whether the promised larger reward will come: children who have just seen the experimenter break promises wait about a quarter as long, so wait-times reflect a rational judgment of the environment''s reliability as well as self-control'
+title: 'Marshmallow waits track the reward''s reliability'
+statement: >-
+  Preschool children's wait-times on the marshmallow task depend on their
+  evidence about whether the promised larger reward will come: children who
+  have just seen the experimenter break promises wait about a quarter as
+  long, so wait-times reflect a rational judgment of the environment's
+  reliability as well as self-control
 version: 1
 tags:
 - cognition
@@ -27,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-281 CLAIM-744 — Proposed; cited with their standing, entries this reading bears on or files -->
 
-# THEORY-1963: Preschool children's wait-times on the marshmallow task depend on their evidence about whether the promised larger reward will come: children who have just seen the experimenter break promises wait about a quarter as long, so wait-times reflect a rational judgment of the environment's reliability as well as self-control
+# THEORY-1963: Marshmallow waits track the reward's reliability
 
 Kidd, Palmeri & Aslin (2013), [LIT-2730](../literature.d/LIT-2730.md).
 

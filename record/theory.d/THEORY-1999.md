@@ -11,7 +11,13 @@ promote_when: >-
   determinations and not investigators' factual reports, and that NTSB
   investigations are not conducted to determine rights, liabilities or
   blame. How courts apply the bar is not asserted.
-title: 'US law bars any part of an NTSB report of its determinations on an accident, probable cause included, from evidence or use in a civil action for damages arising from it, and NTSB regulation says its investigations are not conducted to determine anyone''s rights, liabilities or blame: the Board''s causal findings are fenced off from liability'
+title: 'NTSB causal findings are barred from liability'
+statement: >-
+  US law bars any part of an NTSB report of its determinations on an
+  accident, probable cause included, from evidence or use in a civil action
+  for damages arising from it, and NTSB regulation says its investigations
+  are not conducted to determine anyone's rights, liabilities or blame: the
+  Board's causal findings are fenced off from liability
 version: 1
 tags:
 - society-and-governance
@@ -32,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-751 — new; the reading and the claim it grounds -->
 
-# THEORY-1999: US law bars any part of an NTSB report of its determinations on an accident, probable cause included, from evidence or use in a civil action for damages arising from it, and NTSB regulation says its investigations are not conducted to determine anyone's rights, liabilities or blame: the Board's causal findings are fenced off from liability
+# THEORY-1999: NTSB causal findings are barred from liability
 
 49 U.S.C. § 1154(b), [LIT-2782](../literature.d/LIT-2782.md), read in [NOTE-2081](../notes.d/NOTE-2081.md).
 

@@ -3,7 +3,13 @@ number: 981
 status: Proposed
 formerly:
 - CLAIM-tmpwma3v
-title: 'An expected-value-of-control effort-cost model fits cognitive-effort-discounting choices: the fitted cost of control rises with task load and the cost term is required, so for the modal agent the control intensity elected falls as its cost rises — the record''s first fit of the cost direction, on a revealed-choice measure of intensity'
+title: 'Effort cost of control fits discounting'
+statement: >-
+  An expected-value-of-control effort-cost model fits
+  cognitive-effort-discounting choices: the fitted cost of control rises
+  with task load and the cost term is required, so for the modal agent the
+  control intensity elected falls as its cost rises — the record's first fit
+  of the cost direction, on a revealed-choice measure of intensity
 version: 1
 role: thesis
 warrant: empirical
@@ -38,7 +44,7 @@ corroborates:
 <!-- inactive-ok-file: CASE-382 — new in this batch; the executed study this claim rests on -->
 <!-- inactive-ok-file: CLAIM-358 CLAIM-162 THEORY-070 — Proposed; the claims this finding corroborates and the EVC account fitted, open -->
 
-# CLAIM-981: An expected-value-of-control effort-cost model fits cognitive-effort-discounting choices: the fitted cost of control rises with task load and the cost term is required, so for the modal agent the control intensity elected falls as its cost rises — the record's first fit of the cost direction, on a revealed-choice measure of intensity
+# CLAIM-981: Effort cost of control fits discounting
 
 ## The claim
 

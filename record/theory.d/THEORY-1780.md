@@ -3,7 +3,15 @@ number: 1780
 status: Proposed
 formerly:
 - THEORY-tmpo4vs4
-title: 'Jung and colleagues (2026) find that LLM agent memory systems which store a dependency rule and a later change to its premise still answer with the pre-change value, scoring 3% on propagating the change and 1% on recognizing that a dependent fact has become uncertain, because the change is not retrieved or not used; only a configuration that writes the consequence at the time of the change partly succeeds, at about 70 times the cost.'
+title: 'Agent memory fails to propagate premise changes'
+statement: >-
+  Jung and colleagues (2026) find that LLM agent memory systems which store
+  a dependency rule and a later change to its premise still answer with the
+  pre-change value, scoring 3% on propagating the change and 1% on
+  recognizing that a dependent fact has become uncertain, because the change
+  is not retrieved or not used; only a configuration that writes the
+  consequence at the time of the change partly succeeds, at about 70 times
+  the cost.
 version: 1
 tags:
 - learning-theory
@@ -24,7 +32,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1780: Jung and colleagues (2026) find that LLM agent memory systems which store a dependency rule and a later change to its premise still answer with the pre-change value, scoring 3% on propagating the change and 1% on recognizing that a dependent fact has become uncertain, because the change is not retrieved or not used; only a configuration that writes the consequence at the time of the change partly succeeds, at about 70 times the cost.
+# THEORY-1780: Agent memory fails to propagate premise changes
 
 ## The account
 

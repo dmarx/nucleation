@@ -3,7 +3,13 @@ number: 2118
 status: Proposed
 formerly:
 - THEORY-tmpoak8v
-title: 'Killen and Smetana hold that Piaget was right that peer relations foster concepts of fairness and that strict equality precedes equity, but wrong that early morality is heteronomous, since by about three to four children judge moral transgressions wrong independently of authority, take intentions into account and prefer equal distribution'
+title: 'Early morality is not heteronomous'
+statement: >-
+  Killen and Smetana hold that Piaget was right that peer relations foster
+  concepts of fairness and that strict equality precedes equity, but wrong
+  that early morality is heteronomous, since by about three to four children
+  judge moral transgressions wrong independently of authority, take
+  intentions into account and prefer equal distribution
 version: 1
 source:
 - LIT-2907
@@ -23,7 +29,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2118: Killen and Smetana hold that Piaget was right that peer relations foster concepts of fairness and that strict equality precedes equity, but wrong that early morality is heteronomous, since by about three to four children judge moral transgressions wrong independently of authority, take intentions into account and prefer equal distribution
+# THEORY-2118: Early morality is not heteronomous
 
 ## The account
 

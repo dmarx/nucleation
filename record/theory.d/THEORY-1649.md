@@ -3,7 +3,14 @@ number: 1649
 status: Proposed
 formerly:
 - THEORY-tmp0xlx0
-title: 'Eyal (2011/2025) surveys the justifications of informed consent — protection, autonomy, abuse-prevention, trust, self-ownership, non-domination, personal integrity — and argues that each faces serious objections, so the requirement is best understood as a resilient invasive-refusal "core" plus a weaker, more overridable "rim" that may rest on different grounds'
+title: 'Informed consent is a resilient core plus a rim'
+statement: >-
+  Eyal (2011/2025) surveys the justifications of informed consent —
+  protection, autonomy, abuse-prevention, trust, self-ownership,
+  non-domination, personal integrity — and argues that each faces serious
+  objections, so the requirement is best understood as a resilient
+  invasive-refusal "core" plus a weaker, more overridable "rim" that may
+  rest on different grounds
 version: 1
 source:
 - LIT-2449
@@ -31,7 +38,7 @@ summary: >-
   interventions) and a weaker, more overridable "rim".
 ---
 
-# THEORY-1649: Eyal (2011/2025) surveys the justifications of informed consent — protection, autonomy, abuse-prevention, trust, self-ownership, non-domination, personal integrity — and argues that each faces serious objections, so the requirement is best understood as a resilient invasive-refusal "core" plus a weaker, more overridable "rim" that may rest on different grounds
+# THEORY-1649: Informed consent is a resilient core plus a rim
 
 ## The account
 

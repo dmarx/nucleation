@@ -3,7 +3,15 @@ number: 397
 status: Active
 formerly:
 - THEORY-tmpns5kz
-title: 'A random linear map into k ≥ 4(ε²/2 − ε³/3)⁻¹ ln n dimensions keeps every pairwise squared distance of a fixed set of n points in ℓ₂ within 1 ± ε, because each difference vector''s squared length concentrates with tails exp(−(k/2)(ε²/2 − ε³/3)) and a union bound over the pairs costs only ln n; the proofs cover a random subspace, Gaussian entries and independent zero-mean ±1 or √3·{+1, 0, −1} entries, and no matrix with nonnegative entries'
+title: 'Random projections keep distances within 1 ± ε'
+statement: >-
+  A random linear map into k ≥ 4(ε²/2 − ε³/3)⁻¹ ln n dimensions keeps every
+  pairwise squared distance of a fixed set of n points in ℓ₂ within 1 ± ε,
+  because each difference vector's squared length concentrates with tails
+  exp(−(k/2)(ε²/2 − ε³/3)) and a union bound over the pairs costs only ln n;
+  the proofs cover a random subspace, Gaussian entries and independent
+  zero-mean ±1 or √3·{+1, 0, −1} entries, and no matrix with nonnegative
+  entries
 version: 1
 tags:
 - mathematics
@@ -27,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1158 — Unavailable; the fly paper, named as the case this account does not cover -->
 
-# THEORY-397: A random linear map into k ≥ 4(ε²/2 − ε³/3)⁻¹ ln n dimensions keeps every pairwise squared distance of a fixed set of n points in ℓ₂ within 1 ± ε, because each difference vector's squared length concentrates with tails exp(−(k/2)(ε²/2 − ε³/3)) and a union bound over the pairs costs only ln n; the proofs cover a random subspace, Gaussian entries and independent zero-mean ±1 or √3·{+1, 0, −1} entries, and no matrix with nonnegative entries
+# THEORY-397: Random projections keep distances within 1 ± ε
 
 ## Source
 

@@ -3,7 +3,11 @@ number: 242
 status: Active
 formerly:
 - THEORY-tmp3gjfu
-title: "A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small"
+title: 'Silence can inflate a minority''s apparent size'
+statement: >-
+  A spiral of silence can make a small, fixed minority opinion look far more
+  widespread than it is without any member changing belief, and in the model
+  that shows it the network's direct distortion of what members see is small
 version: 5
 history:
 - version: 2
@@ -71,7 +75,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-143 — Proposed; accounts of community-level epistemic mechanisms this one sits beside -->
 
-# THEORY-242: A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small
+# THEORY-242: Silence can inflate a minority's apparent size
 
 ## Source
 

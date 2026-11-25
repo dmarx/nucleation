@@ -10,7 +10,13 @@ promote_when: >-
   excitatory–inhibitory gain difference (for example of fast-spiking
   interneuron activity) abolishes the suppression, as the model's
   attribution to population gain requires.
-title: 'Di Volo and Férézou show that in anaesthetised mouse barrel cortex two colliding whisker-evoked waves sum sub-linearly, about 30% below the linear sum at peak, as their heterogeneous excitatory–inhibitory mean-field model predicted from the lower gain of populations already activated'
+title: 'Colliding cortical waves sum sub-linearly'
+statement: >-
+  Di Volo and Férézou show that in anaesthetised mouse barrel cortex two
+  colliding whisker-evoked waves sum sub-linearly, about 30% below the
+  linear sum at peak, as their heterogeneous excitatory–inhibitory
+  mean-field model predicted from the lower gain of populations already
+  activated
 version: 1
 tags:
 - neuroscience
@@ -28,7 +34,7 @@ summary: >-
   wording is the reader's; adopting it is the owner's call.
 ---
 
-# THEORY-1895: Di Volo and Férézou show that in anaesthetised mouse barrel cortex two colliding whisker-evoked waves sum sub-linearly, about 30% below the linear sum at peak, as their heterogeneous excitatory–inhibitory mean-field model predicted from the lower gain of populations already activated
+# THEORY-1895: Colliding cortical waves sum sub-linearly
 
 ## Source
 

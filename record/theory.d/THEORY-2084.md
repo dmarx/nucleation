@@ -3,7 +3,15 @@ number: 2084
 status: Proposed
 formerly:
 - THEORY-tmpw8s3h
-title: 'Howard and Ruder report that a language model pretrained on WikiText-103 and fine-tuned to text classification by their method, given 100 labelled examples, matches the error that training from scratch reaches with ten times more labelled data on IMDb and twenty times on AG, and a hundred and fifty times with unlabelled task text added; they credit general-domain pretraining, though the low-shot comparison does not separate it from their fine-tuning method'
+title: 'ULMFiT matches 10× labels with 100 examples'
+statement: >-
+  Howard and Ruder report that a language model pretrained on WikiText-103
+  and fine-tuned to text classification by their method, given 100 labelled
+  examples, matches the error that training from scratch reaches with ten
+  times more labelled data on IMDb and twenty times on AG, and a hundred and
+  fifty times with unlabelled task text added; they credit general-domain
+  pretraining, though the low-shot comparison does not separate it from
+  their fine-tuning method
 version: 1
 source:
 - LIT-2852
@@ -25,7 +33,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-2084: Howard and Ruder report that a language model pretrained on WikiText-103 and fine-tuned to text classification by their method, given 100 labelled examples, matches the error that training from scratch reaches with ten times more labelled data on IMDb and twenty times on AG, and a hundred and fifty times with unlabelled task text added; they credit general-domain pretraining, though the low-shot comparison does not separate it from their fine-tuning method
+# THEORY-2084: ULMFiT matches 10× labels with 100 examples
 
 ## The account
 

@@ -15,7 +15,12 @@ promote_when: >-
   as spreading ones, or if neither model beats persistence. What cannot
   settle it: more illustrated outputs, or SSIM scores without a persistence
   baseline.
-title: 'Objects on a crowd-built canvas are of two kinds, those that spread by a local recolouring rule and are predictable from the canvas itself, and those copied from designs coordinated off the canvas, which local canvas dynamics do not predict'
+title: 'Off-canvas designs defy local canvas dynamics'
+statement: >-
+  Objects on a crowd-built canvas are of two kinds, those that spread by a
+  local recolouring rule and are predictable from the canvas itself, and
+  those copied from designs coordinated off the canvas, which local canvas
+  dynamics do not predict
 version: 2
 history:
 - version: 2
@@ -47,7 +52,7 @@ corroborates:
 - CLAIM-273
 ---
 
-# THEORY-224: Objects on a crowd-built canvas are of two kinds, those that spread by a local recolouring rule and are predictable from the canvas itself, and those copied from designs coordinated off the canvas, which local canvas dynamics do not predict
+# THEORY-224: Off-canvas designs defy local canvas dynamics
 
 ## Source
 

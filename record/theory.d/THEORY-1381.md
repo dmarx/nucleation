@@ -3,7 +3,15 @@ number: 1381
 status: Active
 formerly:
 - THEORY-tmp960op
-title: 'Foschi, Hull and Ku give closed-form equations in the tangents of half the folding angles, one for opposite and one for adjacent folding angles, that describe the full configuration space of any degree-4 rigid origami vertex, Euclidean or non-Euclidean, as two folding modes, the two branches of a square root, which meet at the flat state of a developable vertex and cannot meet there when the sector angles do not sum to 2π; the arXiv copy prints the opposite-angle equation with two signs wrong'
+title: 'Degree-4 vertices have two closed-form modes'
+statement: >-
+  Foschi, Hull and Ku give closed-form equations in the tangents of half the
+  folding angles, one for opposite and one for adjacent folding angles, that
+  describe the full configuration space of any degree-4 rigid origami
+  vertex, Euclidean or non-Euclidean, as two folding modes, the two branches
+  of a square root, which meet at the flat state of a developable vertex and
+  cannot meet there when the sector angles do not sum to 2π; the arXiv copy
+  prints the opposite-angle equation with two signs wrong
 version: 3
 history:
 - version: 2
@@ -63,7 +71,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-1557 — Proposed; the wider clause this narrowing set aside -->
 
-# THEORY-1381: Foschi, Hull and Ku give closed-form equations in the tangents of half the folding angles, one for opposite and one for adjacent folding angles, that describe the full configuration space of any degree-4 rigid origami vertex, Euclidean or non-Euclidean, as two folding modes, the two branches of a square root, which meet at the flat state of a developable vertex and cannot meet there when the sector angles do not sum to 2π; the arXiv copy prints the opposite-angle equation with two signs wrong
+# THEORY-1381: Degree-4 vertices have two closed-form modes
 
 ## Source
 

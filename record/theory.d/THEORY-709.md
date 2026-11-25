@@ -3,7 +3,15 @@ number: 709
 status: Active
 formerly:
 - THEORY-tmpj670e
-title: "Mutual information between continuous variables can be estimated from k-nearest-neighbour statistics, with the joint k-th-neighbour distance in the maximum norm fixing the scale at which marginal neighbours are counted, so that the biases of the three entropy estimates largely cancel; the one approximation is a locally constant density, the systematic error scales with k/N, and exactness for independent variables is observed in every tested case but not proved"
+title: 'k-NN estimates continuous mutual information'
+statement: >-
+  Mutual information between continuous variables can be estimated from
+  k-nearest-neighbour statistics, with the joint k-th-neighbour distance in
+  the maximum norm fixing the scale at which marginal neighbours are
+  counted, so that the biases of the three entropy estimates largely cancel;
+  the one approximation is a locally constant density, the systematic error
+  scales with k/N, and exactness for independent variables is observed in
+  every tested case but not proved
 version: 1
 tags:
 - information-theory
@@ -18,7 +26,7 @@ summary: >-
   rest is numerical. Checked by simulation on correlated Gaussians.
 ---
 
-# THEORY-709: Mutual information between continuous variables can be estimated from k-nearest-neighbour statistics, with the joint k-th-neighbour distance in the maximum norm fixing the scale at which marginal neighbours are counted, so that the biases of the three entropy estimates largely cancel; the one approximation is a locally constant density, the systematic error scales with k/N, and exactness for independent variables is observed in every tested case but not proved
+# THEORY-709: k-NN estimates continuous mutual information
 
 ## Source
 

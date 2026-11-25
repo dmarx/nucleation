@@ -3,7 +3,14 @@ number: 1933
 status: Proposed
 formerly:
 - THEORY-tmphieqr
-title: 'Ozer, Waggoner and Kennedy find, in pre-registered vignette experiments on three US samples, that a judge whose release decision ends in a death is blamed no less for having followed an algorithm''s advice and not uniquely more for rejecting it; advice slightly raises blame, and the rise for following an algorithm is mostly mediated by the view that the judge abdicated her own judgment'
+title: 'Following algorithms doesn''t shield judges'
+statement: >-
+  Ozer, Waggoner and Kennedy find, in pre-registered vignette experiments on
+  three US samples, that a judge whose release decision ends in a death is
+  blamed no less for having followed an algorithm's advice and not uniquely
+  more for rejecting it; advice slightly raises blame, and the rise for
+  following an algorithm is mostly mediated by the view that the judge
+  abdicated her own judgment
 version: 1
 tags:
 - philosophy-of-technology
@@ -21,7 +28,7 @@ bounds:
 - CLAIM-707
 ---
 <!-- inactive-ok-file: CLAIM-707 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1933: Ozer, Waggoner and Kennedy find, in pre-registered vignette experiments on three US samples, that a judge whose release decision ends in a death is blamed no less for having followed an algorithm's advice and not uniquely more for rejecting it; advice slightly raises blame, and the rise for following an algorithm is mostly mediated by the view that the judge abdicated her own judgment
+# THEORY-1933: Following algorithms doesn't shield judges
 
 ## Source
 

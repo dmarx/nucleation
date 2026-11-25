@@ -3,7 +3,12 @@ number: 239
 status: Active
 formerly:
 - CLAIM-tmplycte
-title: 'A defeat condition that says something cannot be done is met by an argument that it cannot, not by a record of failures, so the admissibility and correspondence theses can fail by their own conditions, though no study the programme runs can make them fail'
+title: 'Impossibility is met by argument, not failures'
+statement: >-
+  A defeat condition that says something cannot be done is met by an
+  argument that it cannot, not by a record of failures, so the admissibility
+  and correspondence theses can fail by their own conditions, though no
+  study the programme runs can make them fail
 version: 1
 role: thesis
 warrant: demonstrated
@@ -31,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-137 — Proposed; open, and cited for the wording of their defeat conditions, not as settled -->
 
-# CLAIM-239: A defeat condition that says something cannot be done is met by an argument that it cannot, not by a record of failures, so the admissibility and correspondence theses can fail by their own conditions, though no study the programme runs can make them fail
+# CLAIM-239: Impossibility is met by argument, not failures
 
 ## The claim
 

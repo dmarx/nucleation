@@ -3,7 +3,20 @@ number: 1503
 status: Active
 formerly:
 - THEORY-tmp7uo3b
-title: 'Davis and Weinstein find, testing unique against multiple equilibria by threshold regression on the Allied bombing of Japanese cities, that city population, the city share of aggregate manufacturing and city-industry output pooled over eight manufacturing industries tend to return after the shock to their prior shares: the Schwarz criterion prefers a single equilibrium for manufacturing and for city-industry output; for population it slightly prefers two equilibria, but that fit, like the best two-equilibrium fit for industries, fails the requirement that larger negative shocks lead to lower equilibria; and pooled city-industry shares were still recovering in 1969, which the authors suggest may be because the hardest-hit places take longer, though without Hiroshima the persistence is indistinguishable from zero'
+title: 'Bombing data favour a single equilibrium'
+statement: >-
+  Davis and Weinstein find, testing unique against multiple equilibria by
+  threshold regression on the Allied bombing of Japanese cities, that city
+  population, the city share of aggregate manufacturing and city-industry
+  output pooled over eight manufacturing industries tend to return after the
+  shock to their prior shares: the Schwarz criterion prefers a single
+  equilibrium for manufacturing and for city-industry output; for population
+  it slightly prefers two equilibria, but that fit, like the best
+  two-equilibrium fit for industries, fails the requirement that larger
+  negative shocks lead to lower equilibria; and pooled city-industry shares
+  were still recovering in 1969, which the authors suggest may be because
+  the hardest-hit places take longer, though without Hiroshima the
+  persistence is indistinguishable from zero
 version: 2
 history:
 - version: 2
@@ -51,7 +64,7 @@ summary: >-
   on whether new support can make a place.
 ---
 
-# THEORY-1503: Davis and Weinstein find, testing unique against multiple equilibria by threshold regression on the Allied bombing of Japanese cities, that city population, the city share of aggregate manufacturing and city-industry output pooled over eight manufacturing industries tend to return after the shock to their prior shares: the Schwarz criterion prefers a single equilibrium for manufacturing and for city-industry output; for population it slightly prefers two equilibria, but that fit, like the best two-equilibrium fit for industries, fails the requirement that larger negative shocks lead to lower equilibria; and pooled city-industry shares were still recovering in 1969, which the authors suggest may be because the hardest-hit places take longer, though without Hiroshima the persistence is indistinguishable from zero
+# THEORY-1503: Bombing data favour a single equilibrium
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 240
 status: Proposed
 formerly:
 - CLAIM-tmpnttsk
-title: 'A holistic fidelity judgement is fidelity under the judges'' default task, a weighting of the profile''s components that can be estimated on some renderings and tested on others, so it is well defined and consistent with task-relativity, and a defeat condition that uses it must name the population and fix the weighting before the test, and across populations with unequal access to the source must fit the weighting only on the components each can perceive'
+title: 'Holistic judgement as default-task fidelity'
+statement: >-
+  A holistic fidelity judgement is fidelity under the judges' default task,
+  a weighting of the profile's components that can be estimated on some
+  renderings and tested on others, so it is well defined and consistent with
+  task-relativity, and a defeat condition that uses it must name the
+  population and fix the weighting before the test, and across populations
+  with unequal access to the source must fit the weighting only on the
+  components each can perceive
 version: 4
 history:
 - version: 2
@@ -72,7 +80,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-244 — Proposed; the objection this entry answers, left open until the owner decides on the revised theses -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-204 — Proposed; the record's revised theses of 2026-10-10, open -->
 
-# CLAIM-240: A holistic fidelity judgement is fidelity under the judges' default task, a weighting of the profile's components that can be estimated on some renderings and tested on others, so it is well defined and consistent with task-relativity, and a defeat condition that uses it must name the population and fix the weighting before the test, and across populations with unequal access to the source must fit the weighting only on the components each can perceive
+# CLAIM-240: Holistic judgement as default-task fidelity
 
 ## The claim
 

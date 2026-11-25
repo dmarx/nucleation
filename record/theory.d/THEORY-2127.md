@@ -3,7 +3,14 @@ number: 2127
 status: Proposed
 formerly:
 - THEORY-tmpwr5sp
-title: 'Keller holds that a natural language is a phenomenon of the third kind, the unintended causal consequence of many speakers'' intentional communicative acts under partly shared maxims such as saving effort, being understood, being noticed and being polite, so that language change is explained by an invisible-hand explanation running from individual motives through a cumulative process to the resulting structure'
+title: 'Language is an invisible-hand phenomenon'
+statement: >-
+  Keller holds that a natural language is a phenomenon of the third kind,
+  the unintended causal consequence of many speakers' intentional
+  communicative acts under partly shared maxims such as saving effort, being
+  understood, being noticed and being polite, so that language change is
+  explained by an invisible-hand explanation running from individual motives
+  through a cumulative process to the resulting structure
 version: 1
 source:
 - LIT-2888
@@ -24,7 +31,7 @@ summary: >-
   [LIT-2893](../literature.d/LIT-2893.md). Proposed until its promote_when is met.
 ---
 
-# THEORY-2127: Keller holds that a natural language is a phenomenon of the third kind, the unintended causal consequence of many speakers' intentional communicative acts under partly shared maxims such as saving effort, being understood, being noticed and being polite, so that language change is explained by an invisible-hand explanation running from individual motives through a cumulative process to the resulting structure
+# THEORY-2127: Language is an invisible-hand phenomenon
 
 ## The account
 

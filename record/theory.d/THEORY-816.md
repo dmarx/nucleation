@@ -27,8 +27,12 @@ promote_when: 'A word-learning experiment whose displays make an informative-spe
 
 # The claim. Repeat it as the body's `# THEORY-816:` heading; the lint checks
 # that the two agree.
-title: 'Learners inferring what a novel word means from its use reason about a speaker who chose the word to be informative about the referent, so the size principle in word learning is a consequence of that inference and not a separate rule of generalisation'
-
+title: 'Size principle follows from informative speakers'
+statement: >-
+  Learners inferring what a novel word means from its use reason about a
+  speaker who chose the word to be informative about the referent, so the
+  size principle in word learning is a consequence of that inference and not
+  a separate rule of generalisation
 version: 1
 
 # One or more topics from luria.yaml, primary first — the same table the
@@ -62,7 +66,7 @@ answers:
 <!-- inactive-ok-file: THEORY-785 — Proposed; the listener-side counterpart of this thesis, cited to say how the two differ -->
 
 
-# THEORY-816: Learners inferring what a novel word means from its use reason about a speaker who chose the word to be informative about the referent, so the size principle in word learning is a consequence of that inference and not a separate rule of generalisation
+# THEORY-816: Size principle follows from informative speakers
 
 ## Source
 

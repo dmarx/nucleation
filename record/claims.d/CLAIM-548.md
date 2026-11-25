@@ -3,7 +3,13 @@ number: 548
 status: Active
 formerly:
 - CLAIM-tmp6zm3v
-title: 'A motivational process can become active, and act, without any expectation that its response will succeed: its activation, the authority the organization grants it and the efficacy of what it does are separate quantities, so a threshold on expected net benefit is one special case of an activation threshold and not its general form'
+title: 'A motive can act without expecting success'
+statement: >-
+  A motivational process can become active, and act, without any expectation
+  that its response will succeed: its activation, the authority the
+  organization grants it and the efficacy of what it does are separate
+  quantities, so a threshold on expected net benefit is one special case of
+  an activation threshold and not its general form
 version: 2
 history:
 - version: 2
@@ -65,7 +71,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-156 CLAIM-440 THEORY-120 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CLAIM-548: A motivational process can become active, and act, without any expectation that its response will succeed: its activation, the authority the organization grants it and the efficacy of what it does are separate quantities, so a threshold on expected net benefit is one special case of an activation threshold and not its general form
+# CLAIM-548: A motive can act without expecting success
 
 ## The claim
 

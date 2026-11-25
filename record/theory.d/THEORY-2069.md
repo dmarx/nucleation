@@ -3,7 +3,12 @@ number: 2069
 status: Proposed
 formerly:
 - THEORY-tmpgk8nb
-title: 'Akter and colleagues find that replacing a fifth of an 8B language model''s general pretraining data with reasoning-style data raises its accuracy after the same supervised fine-tuning and after reinforcement learning, and that doubling a baseline''s fine-tuning data does not close the gap'
+title: 'Reasoning data in pretraining beats more SFT'
+statement: >-
+  Akter and colleagues find that replacing a fifth of an 8B language model's
+  general pretraining data with reasoning-style data raises its accuracy
+  after the same supervised fine-tuning and after reinforcement learning,
+  and that doubling a baseline's fine-tuning data does not close the gap
 version: 1
 source:
 - LIT-2862
@@ -23,7 +28,7 @@ summary: >-
   Proposed until its promote_when is met.
 ---
 
-# THEORY-2069: Akter and colleagues find that replacing a fifth of an 8B language model's general pretraining data with reasoning-style data raises its accuracy after the same supervised fine-tuning and after reinforcement learning, and that doubling a baseline's fine-tuning data does not close the gap
+# THEORY-2069: Reasoning data in pretraining beats more SFT
 
 ## The account
 

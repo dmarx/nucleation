@@ -1,7 +1,11 @@
 ---
 number: 161
 status: Proposed
-title: 'A system persists as the same self over an interval when a coherence measure is approximately conserved along its own trajectory, not merely matched by some map between its states'
+title: 'Selfhood as conserved coherence'
+statement: >-
+  A system persists as the same self over an interval when a coherence
+  measure is approximately conserved along its own trajectory, not merely
+  matched by some map between its states
 version: 2
 history:
 - version: 1
@@ -48,7 +52,7 @@ complements:
 ---
 <!-- inactive-ok-file: THEORY-268 — Proposed; the reading that sets the window question, open -->
 
-# CLAIM-161: A system persists as the same self over an interval when a coherence measure is approximately conserved along its own trajectory, not merely matched by some map between its states
+# CLAIM-161: Selfhood as conserved coherence
 
 ## The claim
 

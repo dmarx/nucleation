@@ -3,7 +3,14 @@ number: 220
 status: Proposed
 formerly:
 - CLAIM-tmpc1o4m
-title: 'For a named population of receivers and a stated family of tasks, what survives a translation, retelling or rendering is the set of task-relevant communicative distinctions those receivers can still recover from it, and measured preservation of the pragmatic observables predicts that recovery better than preservation of the wording or of the proposition, with or without its force'
+title: 'What survives is what receivers recover'
+statement: >-
+  For a named population of receivers and a stated family of tasks, what
+  survives a translation, retelling or rendering is the set of task-relevant
+  communicative distinctions those receivers can still recover from it, and
+  measured preservation of the pragmatic observables predicts that recovery
+  better than preservation of the wording or of the proposition, with or
+  without its force
 version: 3
 history:
 - version: 2
@@ -77,7 +84,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-202 CLAIM-242 — Proposed; the record's other replies of 2026-10-10, open, cited for the parts of the thesis they carry -->
 <!-- inactive-ok-file: CLAIM-244 — Proposed; an objection to CLAIM-115 this entry answers, cited as open -->
 
-# CLAIM-220: For a named population of receivers and a stated family of tasks, what survives a translation, retelling or rendering is the set of task-relevant communicative distinctions those receivers can still recover from it, and measured preservation of the pragmatic observables predicts that recovery better than preservation of the wording or of the proposition, with or without its force
+# CLAIM-220: What survives is what receivers recover
 
 ## The claim
 

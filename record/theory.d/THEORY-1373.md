@@ -10,7 +10,13 @@ promote_when: >-
   activation alone, with measured truth tables, and that the count of
   functions per element exceeds that of a gate array realizing the same
   functions by rewiring.
-title: 'Combinational logic built from flat-foldable origami switches can be reconfigured by moving the switching elements rather than rewiring them, by rotating the two elements of a gate between series and parallel or by permuting elements among the blocks of a Rubik''s-cube arrangement, and so reaches more functions per element than a rewired gate array'
+title: 'Moving origami switches reconfigures logic'
+statement: >-
+  Combinational logic built from flat-foldable origami switches can be
+  reconfigured by moving the switching elements rather than rewiring them,
+  by rotating the two elements of a gate between series and parallel or by
+  permuting elements among the blocks of a Rubik's-cube arrangement, and so
+  reaches more functions per element than a rewired gate array
 version: 2
 history:
 - version: 2
@@ -40,7 +46,7 @@ bears_on:
 - QUESTION-388
 ---
 
-# THEORY-1373: Combinational logic built from flat-foldable origami switches can be reconfigured by moving the switching elements rather than rewiring them, by rotating the two elements of a gate between series and parallel or by permuting elements among the blocks of a Rubik's-cube arrangement, and so reaches more functions per element than a rewired gate array
+# THEORY-1373: Moving origami switches reconfigures logic
 
 ## Source
 

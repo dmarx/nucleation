@@ -5,7 +5,13 @@ formerly:
 - THEORY-tmpc6xzg
 promote_when: >-
   A second reading confirms, from §§3, 4.2, 4.6 and 6, the single-embedding optimization of a frozen model, the roughly two-hour cost per concept, its reuse across generations and same-base downstream models, and the authors' limits on shape and identity.
-title: 'A concept can be learned from 3–5 images as one new token embedding in the text-encoder input space of a frozen text-to-image model, at about two GPU-hours per concept, and re-used without further optimization in new prompts and in downstream models built on the same base, though it keeps a concept''s gist more than its exact shape or a person''s identity'
+title: 'One token embedding learns a concept''s gist'
+statement: >-
+  A concept can be learned from 3–5 images as one new token embedding in the
+  text-encoder input space of a frozen text-to-image model, at about two
+  GPU-hours per concept, and re-used without further optimization in new
+  prompts and in downstream models built on the same base, though it keeps a
+  concept's gist more than its exact shape or a person's identity
 version: 1
 history:
 - version: 1
@@ -23,7 +29,7 @@ summary: >-
   Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik and Daniel Cohen-Or (2022), [LIT-2340](../literature.d/LIT-2340.md), read in [NOTE-1719](../notes.d/NOTE-1719.md). arXiv preprint (the PDF footer reads "Preprint. Under review."); no venue on the arXiv record.
 ---
 
-# THEORY-1641: A concept can be learned from 3–5 images as one new token embedding in the text-encoder input space of a frozen text-to-image model, at about two GPU-hours per concept, and re-used without further optimization in new prompts and in downstream models built on the same base, though it keeps a concept's gist more than its exact shape or a person's identity
+# THEORY-1641: One token embedding learns a concept's gist
 
 ## Source
 

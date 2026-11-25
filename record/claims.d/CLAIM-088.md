@@ -3,7 +3,12 @@ number: 88
 status: Active
 formerly:
 - CLAIM-tmpp8j04
-title: 'Task-sensitive information preservation is established in semantic and goal-oriented communication; what is new is applying it to sheaf-structured pragmatic observations under sequential, context-dependent reconstruction'
+title: 'Only the sheaf-structured application is new'
+statement: >-
+  Task-sensitive information preservation is established in semantic and
+  goal-oriented communication; what is new is applying it to
+  sheaf-structured pragmatic observations under sequential,
+  context-dependent reconstruction
 version: 2
 history:
 - version: 2
@@ -31,7 +36,7 @@ summary: >-
   All three are now read ([LIT-823](../literature.d/LIT-823.md), [LIT-812](../literature.d/LIT-812.md), [LIT-793](../literature.d/LIT-793.md)).
 ---
 
-# CLAIM-088: Task-sensitive information preservation is established in semantic and goal-oriented communication; what is new is applying it to sheaf-structured pragmatic observations under sequential, context-dependent reconstruction
+# CLAIM-088: Only the sheaf-structured application is new
 
 ## The claim
 

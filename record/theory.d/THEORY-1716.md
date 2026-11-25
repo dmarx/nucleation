@@ -3,7 +3,14 @@ number: 1716
 status: Proposed
 formerly:
 - THEORY-tmpyje36
-title: 'van Roosmalen and de Bekker (2024) review evidence that Ophiocordyceps changes carpenter-ant behaviour while leaving the ant''s nervous tissue intact, plausibly through secreted effectors and by disrupting and resetting the ant''s biological clock, and argue from parallels in other summit-inducing parasites that these mechanisms likely evolved convergently, while stating that the evidence so far is correlative.'
+title: 'Ophiocordyceps steers ants without neural damage'
+statement: >-
+  van Roosmalen and de Bekker (2024) review evidence that Ophiocordyceps
+  changes carpenter-ant behaviour while leaving the ant's nervous tissue
+  intact, plausibly through secreted effectors and by disrupting and
+  resetting the ant's biological clock, and argue from parallels in other
+  summit-inducing parasites that these mechanisms likely evolved
+  convergently, while stating that the evidence so far is correlative.
 version: 1
 source:
 - LIT-2460
@@ -33,7 +40,7 @@ summary: >-
   biological clock.
 ---
 
-# THEORY-1716: van Roosmalen and de Bekker (2024) review evidence that Ophiocordyceps changes carpenter-ant behaviour while leaving the ant's nervous tissue intact, plausibly through secreted effectors and by disrupting and resetting the ant's biological clock, and argue from parallels in other summit-inducing parasites that these mechanisms likely evolved convergently, while stating that the evidence so far is correlative.
+# THEORY-1716: Ophiocordyceps steers ants without neural damage
 
 ## The account
 

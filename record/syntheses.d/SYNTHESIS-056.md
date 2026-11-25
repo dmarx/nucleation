@@ -3,7 +3,17 @@ number: 56
 status: Proposed
 formerly:
 - SYNTHESIS-tmpvvtbk
-title: 'An organizational perspective is not thereby an agent, and what an organization can see, take up and correct are separate achievements that its success and coherence do not show: a description adequate for the whole can merge what its members'' claims distinguish, which distinctions must be legible is relative to a task and to a policy, an arrangement of institutions can keep its effectiveness while its correctability degrades, and the wrong of reproducing what keeps a justified standard from constraining an organization is proposed as a breach of a bounded duty of answerability'
+title: 'Seeing, taking up and correcting come apart'
+statement: >-
+  An organizational perspective is not thereby an agent, and what an
+  organization can see, take up and correct are separate achievements that
+  its success and coherence do not show: a description adequate for the
+  whole can merge what its members' claims distinguish, which distinctions
+  must be legible is relative to a task and to a policy, an arrangement of
+  institutions can keep its effectiveness while its correctability degrades,
+  and the wrong of reproducing what keeps a justified standard from
+  constraining an organization is proposed as a breach of a bounded duty of
+  answerability
 version: 5
 history:
 - version: 2
@@ -144,7 +154,7 @@ integrates:
 <!-- inactive-ok-file: ARG-047 — Rejected; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-427 — Superseded; components and citations, with their standing -->
 
-# SYNTHESIS-056: An organizational perspective is not thereby an agent, and what an organization can see, take up and correct are separate achievements that its success and coherence do not show: a description adequate for the whole can merge what its members' claims distinguish, which distinctions must be legible is relative to a task and to a policy, an arrangement of institutions can keep its effectiveness while its correctability degrades, and the wrong of reproducing what keeps a justified standard from constraining an organization is proposed as a breach of a bounded duty of answerability
+# SYNTHESIS-056: Seeing, taking up and correcting come apart
 
 *A part account of the distributed-agency line ("Distributed agency"): the
 part filed mostly from the exchanges of 2026-10-17 to 2026-10-27 (on

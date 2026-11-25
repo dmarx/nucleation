@@ -3,7 +3,15 @@ number: 2034
 status: Proposed
 formerly:
 - THEORY-tmpm09s4
-title: 'Hospedales, Antoniou, Micaelli and Storkey characterize neural-network meta-learning as end-to-end optimization of an explicitly defined meta-objective over many learning episodes, so as to improve future learning, and order the field on three axes, what is meta-learned, how it is optimized and what objective it serves; they name meta-overfitting and generalization to task distributions other than the training one as open problems'
+title: 'Meta-learning is optimizing a meta-objective'
+statement: >-
+  Hospedales, Antoniou, Micaelli and Storkey characterize neural-network
+  meta-learning as end-to-end optimization of an explicitly defined
+  meta-objective over many learning episodes, so as to improve future
+  learning, and order the field on three axes, what is meta-learned, how it
+  is optimized and what objective it serves; they name meta-overfitting and
+  generalization to task distributions other than the training one as open
+  problems
 version: 1
 source:
 - LIT-2796
@@ -35,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: NOTE-2108 — Skimmed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2034: Hospedales, Antoniou, Micaelli and Storkey characterize neural-network meta-learning as end-to-end optimization of an explicitly defined meta-objective over many learning episodes, so as to improve future learning, and order the field on three axes, what is meta-learned, how it is optimized and what objective it serves; they name meta-overfitting and generalization to task distributions other than the training one as open problems
+# THEORY-2034: Meta-learning is optimizing a meta-objective
 
 ## The account
 

@@ -3,7 +3,13 @@ number: 394
 status: Active
 formerly:
 - CLAIM-tmpho867
-title: 'In a stationary linear Gaussian VAR(1) that is time-reversible (AΠ = ΠAᵀ, Π the stationary covariance), every slow-feature direction is a left eigenvector of A, so any span of slow features is an exactly dynamically independent coarse-graining; off reversibility a slow feature is in general neither independent nor free of memory'
+title: 'Reversible VAR slow features are closed'
+statement: >-
+  In a stationary linear Gaussian VAR(1) that is time-reversible (AΠ = ΠAᵀ,
+  Π the stationary covariance), every slow-feature direction is a left
+  eigenvector of A, so any span of slow features is an exactly dynamically
+  independent coarse-graining; off reversibility a slow feature is in
+  general neither independent nor free of memory
 version: 2
 history:
 - version: 2
@@ -48,7 +54,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-478 CLAIM-1058 CLAIM-1088 — Proposed; the claim whose defeater names this one and the verdict on Ott and Antonsen, 2026-11-22 -->
 
-# CLAIM-394: In a stationary linear Gaussian VAR(1) that is time-reversible (AΠ = ΠAᵀ, Π the stationary covariance), every slow-feature direction is a left eigenvector of A, so any span of slow features is an exactly dynamically independent coarse-graining; off reversibility a slow feature is in general neither independent nor free of memory
+# CLAIM-394: Reversible VAR slow features are closed
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 459
 status: Active
 formerly:
 - CLAIM-tmp73jpm
-title: 'An input to a bistable balance of authority can be sincere and causally efficacious without changing which regime operates: below a threshold the structure of the competition sets, it moves the balance within the current basin, so a higher-order volition that changes nothing visible need not be idle'
+title: 'Sub-threshold input does not switch regime'
+statement: >-
+  An input to a bistable balance of authority can be sincere and causally
+  efficacious without changing which regime operates: below a threshold the
+  structure of the competition sets, it moves the balance within the current
+  basin, so a higher-order volition that changes nothing visible need not be
+  idle
 version: 1
 role: thesis
 warrant: demonstrated
@@ -40,7 +46,7 @@ summary: >-
   input.
 ---
 
-# CLAIM-459: An input to a bistable balance of authority can be sincere and causally efficacious without changing which regime operates: below a threshold the structure of the competition sets, it moves the balance within the current basin, so a higher-order volition that changes nothing visible need not be idle
+# CLAIM-459: Sub-threshold input does not switch regime
 
 ## The claim
 

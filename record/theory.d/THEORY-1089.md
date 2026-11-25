@@ -3,7 +3,16 @@ number: 1089
 status: Active
 formerly:
 - THEORY-tmpugh7c
-title: 'In a passive linear network, eliminating interior nodes by the principle of minimum power, which over a general field with positive elements is stationarity, takes a Dirichlet form to a Dirichlet form on the remaining nodes, linearly in their values; eliminating one node s adds c_is·c_js/Σ_k c_ks to each coupling c_ij, so two resistors in series act at their ends as one of resistance r_AB + r_BC; composing Dirichlet forms by this elimination is associative but lacks identities, because an ideal wire of zero impedance has no power functional'
+title: 'Node elimination keeps Dirichlet forms'
+statement: >-
+  In a passive linear network, eliminating interior nodes by the principle
+  of minimum power, which over a general field with positive elements is
+  stationarity, takes a Dirichlet form to a Dirichlet form on the remaining
+  nodes, linearly in their values; eliminating one node s adds c_is·c_js/Σ_k
+  c_ks to each coupling c_ij, so two resistors in series act at their ends
+  as one of resistance r_AB + r_BC; composing Dirichlet forms by this
+  elimination is associative but lacks identities, because an ideal wire of
+  zero impedance has no power functional
 version: 1
 tags:
 - mathematics
@@ -21,7 +30,7 @@ summary: >-
   otherwise.
 ---
 
-# THEORY-1089: In a passive linear network, eliminating interior nodes by the principle of minimum power, which over a general field with positive elements is stationarity, takes a Dirichlet form to a Dirichlet form on the remaining nodes, linearly in their values; eliminating one node s adds c_is·c_js/Σ_k c_ks to each coupling c_ij, so two resistors in series act at their ends as one of resistance r_AB + r_BC; composing Dirichlet forms by this elimination is associative but lacks identities, because an ideal wire of zero impedance has no power functional
+# THEORY-1089: Node elimination keeps Dirichlet forms
 
 ## Source
 

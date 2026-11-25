@@ -19,7 +19,13 @@ promote_when: >-
   analogies to network training, legal precedents for strict liability,
   or the bare assertion that distributed harm is "nobody's
   responsibility" cannot settle it.
-title: 'Responsibility for a morally loaded outcome that emerges from morally neutral interactions in a network of agents can be allocated without fault or intention, by default and overridably, in full to every causally accountable node, and a rule so allocating it, made common knowledge, works as a corrective that prevents such outcomes'
+title: 'Network harms can be allocated without fault'
+statement: >-
+  Responsibility for a morally loaded outcome that emerges from morally
+  neutral interactions in a network of agents can be allocated without fault
+  or intention, by default and overridably, in full to every causally
+  accountable node, and a rule so allocating it, made common knowledge,
+  works as a corrective that prevents such outcomes
 version: 2
 history:
 - version: 2
@@ -55,7 +61,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-139 THEORY-147 — Proposed; named as adjacent accounts of responsibility, nothing here rests on them -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited as the question this account does not answer -->
 
-# THEORY-207: Responsibility for a morally loaded outcome that emerges from morally neutral interactions in a network of agents can be allocated without fault or intention, by default and overridably, in full to every causally accountable node, and a rule so allocating it, made common knowledge, works as a corrective that prevents such outcomes
+# THEORY-207: Network harms can be allocated without fault
 
 ## Source
 

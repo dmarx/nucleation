@@ -3,7 +3,15 @@ number: 1661
 status: Proposed
 formerly:
 - THEORY-tmp7c466
-title: 'Dræbel, Sørensen and Meyrowitsch (2025) find in interviews with 20 Danish parents of Jewish background that non-therapeutic circumcision of boys is understood as an inevitable, taken-for-granted rite by which parents become a Danish-Jewish family and enrol their son in its biography and community, whether or not they are religious, and that the public debate over a ban led them to position the practice as an informed choice and a political affirmation of identity.'
+title: 'Circumcision makes a Danish-Jewish family'
+statement: >-
+  Dræbel, Sørensen and Meyrowitsch (2025) find in interviews with 20 Danish
+  parents of Jewish background that non-therapeutic circumcision of boys is
+  understood as an inevitable, taken-for-granted rite by which parents
+  become a Danish-Jewish family and enrol their son in its biography and
+  community, whether or not they are religious, and that the public debate
+  over a ban led them to position the practice as an informed choice and a
+  political affirmation of identity.
 version: 1
 source:
 - LIT-2356
@@ -30,7 +38,7 @@ summary: >-
   the family biography, whether or not they are religious.
 ---
 
-# THEORY-1661: Dræbel, Sørensen and Meyrowitsch (2025) find in interviews with 20 Danish parents of Jewish background that non-therapeutic circumcision of boys is understood as an inevitable, taken-for-granted rite by which parents become a Danish-Jewish family and enrol their son in its biography and community, whether or not they are religious, and that the public debate over a ban led them to position the practice as an informed choice and a political affirmation of identity.
+# THEORY-1661: Circumcision makes a Danish-Jewish family
 
 ## The account
 

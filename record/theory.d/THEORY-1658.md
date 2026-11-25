@@ -3,7 +3,12 @@ number: 1658
 status: Proposed
 formerly:
 - THEORY-tmp6t2l2
-title: 'In mice, offspring''s tolerance of non-inherited maternal antigens is sustained only by the small fraction of maternal microchimeric cells that co-express LysM and CD11c, and depleting that fraction removes the tolerance while most maternal microchimeric cells persist'
+title: 'LysM+CD11c+ maternal cells sustain tolerance'
+statement: >-
+  In mice, offspring's tolerance of non-inherited maternal antigens is
+  sustained only by the small fraction of maternal microchimeric cells that
+  co-express LysM and CD11c, and depleting that fraction removes the
+  tolerance while most maternal microchimeric cells persist
 version: 1
 source:
 - LIT-2428
@@ -34,7 +39,7 @@ summary: >-
 ---
 
 
-# THEORY-1658: In mice, offspring's tolerance of non-inherited maternal antigens is sustained only by the small fraction of maternal microchimeric cells that co-express LysM and CD11c, and depleting that fraction removes the tolerance while most maternal microchimeric cells persist
+# THEORY-1658: LysM+CD11c+ maternal cells sustain tolerance
 
 ## The account
 

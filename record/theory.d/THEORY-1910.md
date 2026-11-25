@@ -7,7 +7,13 @@ promote_when: >-
   An independent reproduction, or a run of the released code, on the same
   GloVe gender setup gives linear classifier accuracy near chance after
   INLP and a one-hidden-layer MLP's accuracy well above chance.
-title: 'On Ravfogel and colleagues, iterating "train a linear classifier for an attribute, then project the representations onto its nullspace" makes the attribute linearly undecodable, gender in GloVe falling from 100% to 49.3% linear accuracy, while a one-hidden-layer MLP still recovers it at 85.0%, so the method guards only against linear readers'
+title: 'INLP guards only against linear readers'
+statement: >-
+  On Ravfogel and colleagues, iterating "train a linear classifier for an
+  attribute, then project the representations onto its nullspace" makes the
+  attribute linearly undecodable, gender in GloVe falling from 100% to 49.3%
+  linear accuracy, while a one-hidden-layer MLP still recovers it at 85.0%,
+  so the method guards only against linear readers
 version: 1
 tags:
 - representation-learning
@@ -21,7 +27,7 @@ summary: >-
   leaves. The wording is the reader's; adopting it is the owner's call.
 ---
 
-# THEORY-1910: On Ravfogel and colleagues, iterating "train a linear classifier for an attribute, then project the representations onto its nullspace" makes the attribute linearly undecodable, gender in GloVe falling from 100% to 49.3% linear accuracy, while a one-hidden-layer MLP still recovers it at 85.0%, so the method guards only against linear readers
+# THEORY-1910: INLP guards only against linear readers
 
 ## Source
 

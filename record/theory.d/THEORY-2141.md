@@ -8,7 +8,15 @@ promote_when: >-
   solution, or an independent derivation, and a numerical check on a
   finite uniform tree showing a power-law window with that exponent ending
   in exponential decay.
-title: 'Bachas and Huberman show that a random walk among the leaves of an ultrametric tree, with rates set by the height of the common ancestor, relaxes by one exponential mode per branch point, so that on an infinite uniform tree with b offspring per node and per-pair rates falling by a factor g per level the autocorrelation decays as a power of time with exponent ln b/(ln(1/g) − ln b) when gb < 1, while on any finite tree it ends in exponential decay'
+title: 'Ultrametric diffusion decays as a power law'
+statement: >-
+  Bachas and Huberman show that a random walk among the leaves of an
+  ultrametric tree, with rates set by the height of the common ancestor,
+  relaxes by one exponential mode per branch point, so that on an infinite
+  uniform tree with b offspring per node and per-pair rates falling by a
+  factor g per level the autocorrelation decays as a power of time with
+  exponent ln b/(ln(1/g) − ln b) when gb < 1, while on any finite tree it
+  ends in exponential decay
 version: 1
 tags:
 - complex-systems
@@ -25,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2954 CLAIM-780 THEORY-2137 CLAIM-769 — Proposed, Deferred, Unfetched or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
-# THEORY-2141: Bachas and Huberman show that a random walk among the leaves of an ultrametric tree, with rates set by the height of the common ancestor, relaxes by one exponential mode per branch point, so that on an infinite uniform tree with b offspring per node and per-pair rates falling by a factor g per level the autocorrelation decays as a power of time with exponent ln b/(ln(1/g) − ln b) when gb < 1, while on any finite tree it ends in exponential decay
+# THEORY-2141: Ultrametric diffusion decays as a power law
 
 ## Source
 

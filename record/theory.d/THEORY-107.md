@@ -18,7 +18,12 @@ promote_when: >-
   lose little. More results in which TIES beats task arithmetic would not
   settle it. The method contains trimming, election and rescaling
   together, and the ablation finds rescaling matters most.
-title: 'Merging models fine-tuned from one pretrained start loses accuracy through interference in parameter coordinates: redundant small updates dilute the influential ones, and influential updates of different models conflict in sign'
+title: 'Merging loses accuracy through interference'
+statement: >-
+  Merging models fine-tuned from one pretrained start loses accuracy through
+  interference in parameter coordinates: redundant small updates dilute the
+  influential ones, and influential updates of different models conflict in
+  sign
 version: 1
 tags:
 - loss-landscapes
@@ -41,7 +46,7 @@ bears_on:
 - QUESTION-069
 ---
 
-# THEORY-107: Merging models fine-tuned from one pretrained start loses accuracy through interference in parameter coordinates: redundant small updates dilute the influential ones, and influential updates of different models conflict in sign
+# THEORY-107: Merging loses accuracy through interference
 
 ## Source
 

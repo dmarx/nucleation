@@ -15,7 +15,14 @@ promote_when: >-
   both. A well-identified null for the main channels, as Schmalbeck (2001)
   reports for the reputation survey among the top 50, would reject it for
   that field.
-title: 'A public ranking can raise its own validity through the reactions it provokes: where a unit''s published rank affects the inputs to its next rank, as when applicants choose by rank and their choices feed the selectivity score, or raters who know little but the last rank fill the reputation survey, rank differences that began as measurement noise can become real differences that the ranking then correctly reports'
+title: 'Rankings can make their own noise real'
+statement: >-
+  A public ranking can raise its own validity through the reactions it
+  provokes: where a unit's published rank affects the inputs to its next
+  rank, as when applicants choose by rank and their choices feed the
+  selectivity score, or raters who know little but the last rank fill the
+  reputation survey, rank differences that began as measurement noise can
+  become real differences that the ranking then correctly reports
 version: 2
 history:
 - version: 1
@@ -55,7 +62,7 @@ corroborates:
 - CLAIM-416
 ---
 
-# THEORY-854: A public ranking can raise its own validity through the reactions it provokes: where a unit's published rank affects the inputs to its next rank, as when applicants choose by rank and their choices feed the selectivity score, or raters who know little but the last rank fill the reputation survey, rank differences that began as measurement noise can become real differences that the ranking then correctly reports
+# THEORY-854: Rankings can make their own noise real
 
 ## Source
 

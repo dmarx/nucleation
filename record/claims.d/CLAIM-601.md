@@ -3,7 +3,14 @@ number: 601
 status: Active
 formerly:
 - CLAIM-tmpit7m9
-title: "A savings buffer is a stock of time: where shocks must be absorbed or a household is ruined, an investment that pays only after a delay is worth taking only above a buffer that rises with the delay, so households with the same preferences decline profitable delayed investments below it, a choice that reads as impatience and is the right policy for survival by a deadline; covering needs through the delay buys the time"
+title: 'A savings buffer is a stock of time'
+statement: >-
+  A savings buffer is a stock of time: where shocks must be absorbed or a
+  household is ruined, an investment that pays only after a delay is worth
+  taking only above a buffer that rises with the delay, so households with
+  the same preferences decline profitable delayed investments below it, a
+  choice that reads as impatience and is the right policy for survival by a
+  deadline; covering needs through the delay buys the time
 version: 4
 history:
 - version: 2
@@ -79,7 +86,7 @@ summary: >-
   the owner's call.
 ---
 
-# CLAIM-601: A savings buffer is a stock of time: where shocks must be absorbed or a household is ruined, an investment that pays only after a delay is worth taking only above a buffer that rises with the delay, so households with the same preferences decline profitable delayed investments below it, a choice that reads as impatience and is the right policy for survival by a deadline; covering needs through the delay buys the time
+# CLAIM-601: A savings buffer is a stock of time
 
 ## The model
 

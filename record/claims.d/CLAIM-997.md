@@ -3,7 +3,16 @@ number: 997
 status: Proposed
 formerly:
 - CLAIM-tmp0bqyu
-title: 'Measured against the same institution scored internally without the penalty on newly recognized violations, the penalty lowers inquiry only where inquiry has some other value to the institution: where inquiry costs output and earns nothing else, the institution makes none with or without the penalty, so the avoidance comes from discovery going unrewarded and the penalty only makes it strict; where inquiry is free, or a violation found from outside costs extra, the penalty takes inquiry to none, and a large enough outside cost erases the difference'
+title: 'Violation penalty bites only where inquiry pays'
+statement: >-
+  Measured against the same institution scored internally without the
+  penalty on newly recognized violations, the penalty lowers inquiry only
+  where inquiry has some other value to the institution: where inquiry costs
+  output and earns nothing else, the institution makes none with or without
+  the penalty, so the avoidance comes from discovery going unrewarded and
+  the penalty only makes it strict; where inquiry is free, or a violation
+  found from outside costs extra, the penalty takes inquiry to none, and a
+  large enough outside cost erases the difference
 version: 1
 history:
 - version: 1
@@ -58,7 +67,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1120 — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-657 — Proposed; the route whose requirement this narrows -->
 
-# CLAIM-997: Measured against the same institution scored internally without the penalty on newly recognized violations, the penalty lowers inquiry only where inquiry has some other value to the institution: where inquiry costs output and earns nothing else, the institution makes none with or without the penalty, so the avoidance comes from discovery going unrewarded and the penalty only makes it strict; where inquiry is free, or a violation found from outside costs extra, the penalty takes inquiry to none, and a large enough outside cost erases the difference
+# CLAIM-997: Violation penalty bites only where inquiry pays
 
 ## The claim
 

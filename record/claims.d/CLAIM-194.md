@@ -3,7 +3,12 @@ number: 194
 status: Active
 formerly:
 - CLAIM-tmprrjrd
-title: 'A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs'
+title: 'Gap test cannot tell made from imposed boundaries'
+statement: >-
+  A gap or coupling criterion cannot tell a boundary a system produces from
+  one imposed on it: a membrane the cell makes and a beam joining two
+  pendulums pass alike, so the block test cannot by itself supply the
+  individuality minimal agency needs
 version: 7
 history:
 - version: 2
@@ -87,7 +92,7 @@ complements:
 <!-- inactive-ok-file: LIT-1940 — Unfetched since 2026-11-22; the model LEAD-176's readings restate, cited in its dated note -->
 <!-- inactive-ok-file: CASE-347 CLAIM-926 — new, filed 2026-11-22 from LEAD-026's study -->
 
-# CLAIM-194: A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs
+# CLAIM-194: Gap test cannot tell made from imposed boundaries
 
 ## The claim
 

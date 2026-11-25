@@ -20,7 +20,11 @@ promote_when: >-
   pallium and NCL only relays it. More findings that birds pass or fail
   mirror tests cannot settle it, and neither can anatomy alone, since the
   claim is about where a correlate of report is carried.
-title: 'A neural correlate of conscious report does not require laminar cortex: in crows it is carried by the nidopallium caudolaterale, a nuclear pallial region whose neurons follow the reported percept rather than the stimulus'
+title: 'Conscious report correlate needs no laminar cortex'
+statement: >-
+  A neural correlate of conscious report does not require laminar cortex: in
+  crows it is carried by the nidopallium caudolaterale, a nuclear pallial
+  region whose neurons follow the reported percept rather than the stimulus
 version: 1
 tags:
 - consciousness
@@ -46,7 +50,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-023 — Proposed; named because this account is evidence of the comparative kind its promote_when asks for, with no relation claimed -->
 <!-- inactive-ok-file: THEORY-090 — Proposed; the ALARM account, named because this evidence bears on the cortical clause it leaves out -->
 
-# THEORY-100: A neural correlate of conscious report does not require laminar cortex: in crows it is carried by the nidopallium caudolaterale, a nuclear pallial region whose neurons follow the reported percept rather than the stimulus
+# THEORY-100: Conscious report correlate needs no laminar cortex
 
 ## Source
 

@@ -24,7 +24,11 @@ promote_when: >-
   that the later intention carry it out). More cases of Ulysses-style
   precommitment cannot settle it, since both accounts already say such
   self-management is not self-governance.
-title: "Diachronic self-governance is constituted by cross-temporal links of intention that are intrapersonal analogues of shared intention, not by narrative unity and not by intertemporal bargaining"
+title: 'Self-governance is intrapersonal shared intention'
+statement: >-
+  Diachronic self-governance is constituted by cross-temporal links of
+  intention that are intrapersonal analogues of shared intention, not by
+  narrative unity and not by intertemporal bargaining
 version: 1
 tags:
 - self-governance
@@ -56,7 +60,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-488 LIT-596 — Unavailable; Shared Agency and "Three Theories of Self-Governance", the works this model presupposes, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-065 THEORY-060 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
-# THEORY-076: Diachronic self-governance is constituted by cross-temporal links of intention that are intrapersonal analogues of shared intention, not by narrative unity and not by intertemporal bargaining
+# THEORY-076: Self-governance is intrapersonal shared intention
 
 ## Which unity this is about
 

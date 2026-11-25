@@ -3,13 +3,15 @@ number: 1173
 status: Proposed
 formerly:
 - CLAIM-tmptfpf7
-title: 'Regulation governs possibility: it shapes which actions, relationships,
-  capabilities and forms of coexistence are admissible, attainable, sustainable
-  and revisable, so it is generative when it makes forms of organization attainable
-  that were not, stabilizing when it keeps valuable capabilities through disturbance,
-  and reflexive when its own specifications stay correctable, and there is
-  no choice between governed and ungoverned possibility, only between organizations
-  of it'
+title: 'Regulation governs possibility'
+statement: >-
+  Regulation governs possibility: it shapes which actions, relationships,
+  capabilities and forms of coexistence are admissible, attainable,
+  sustainable and revisable, so it is generative when it makes forms of
+  organization attainable that were not, stabilizing when it keeps valuable
+  capabilities through disturbance, and reflexive when its own
+  specifications stay correctable, and there is no choice between governed
+  and ungoverned possibility, only between organizations of it
 version: 3
 history:
 - version: 2
@@ -59,7 +61,7 @@ works:
 ---
 
 
-# CLAIM-1173: Regulation governs possibility: it shapes which actions, relationships, capabilities and forms of coexistence are admissible, attainable, sustainable and revisable, so it is generative when it makes forms of organization attainable that were not, stabilizing when it keeps valuable capabilities through disturbance, and reflexive when its own specifications stay correctable, and there is no choice between governed and ungoverned possibility, only between organizations of it
+# CLAIM-1173: Regulation governs possibility
 
 ## The claim
 

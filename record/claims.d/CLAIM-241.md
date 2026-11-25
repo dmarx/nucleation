@@ -3,7 +3,14 @@ number: 241
 status: Active
 formerly:
 - CLAIM-tmpohczg
-title: "Partial constitution by uptake makes competent participants' uptake a defeasible standard of a communicative kind, not the criterion: where the act's other constituents, such as its institutional conditions, diverge from how even informed participants take it, their verdicts can be wrong, and a standard must say whose competence counts, for which class of acts, and how divided verdicts are combined, which a majority does not"
+title: 'Uptake a standard, not the criterion'
+statement: >-
+  Partial constitution by uptake makes competent participants' uptake a
+  defeasible standard of a communicative kind, not the criterion: where the
+  act's other constituents, such as its institutional conditions, diverge
+  from how even informed participants take it, their verdicts can be wrong,
+  and a standard must say whose competence counts, for which class of acts,
+  and how divided verdicts are combined, which a majority does not
 version: 2
 history:
 - version: 2
@@ -43,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-151 — Proposed; open, cited as the premise of partial constitution the inference starts from -->
 <!-- inactive-ok-file: CLAIM-206 CLAIM-204 — Proposed; the objection CLAIM-217 answers and the revised October thesis, open, cited in "Where it stands" -->
 
-# CLAIM-241: Partial constitution by uptake makes competent participants' uptake a defeasible standard of a communicative kind, not the criterion: where the act's other constituents, such as its institutional conditions, diverge from how even informed participants take it, their verdicts can be wrong, and a standard must say whose competence counts, for which class of acts, and how divided verdicts are combined, which a majority does not
+# CLAIM-241: Uptake a standard, not the criterion
 
 ## The objection
 

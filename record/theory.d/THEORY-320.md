@@ -15,7 +15,15 @@ promote_when: >-
   known class does not demote the target eigenvector. What cannot settle
   it: clustering accuracies of trained networks on benchmarks, which
   measure the method, not the population residual.
-title: "In a spectral contrastive graph that joins labelled known classes to unlabelled data, a novel labelling's linear-probe residual is exactly its part outside the top eigenspace that the labelled rows of the discarded eigenvectors cannot absorb, so which partition of the unlabelled data is discovered depends on the known classes: ones sharing the target's attribute can remove the residual, and ones sharing a rival attribute can raise it"
+title: 'Known classes steer which novel classes are found'
+statement: >-
+  In a spectral contrastive graph that joins labelled known classes to
+  unlabelled data, a novel labelling's linear-probe residual is exactly its
+  part outside the top eigenspace that the labelled rows of the discarded
+  eigenvectors cannot absorb, so which partition of the unlabelled data is
+  discovered depends on the known classes: ones sharing the target's
+  attribute can remove the residual, and ones sharing a rival attribute can
+  raise it
 version: 2
 history:
 - version: 2
@@ -51,7 +59,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-005 — Proposed; an operator account this does not restate -->
 
-# THEORY-320: In a spectral contrastive graph that joins labelled known classes to unlabelled data, a novel labelling's linear-probe residual is exactly its part outside the top eigenspace that the labelled rows of the discarded eigenvectors cannot absorb, so which partition of the unlabelled data is discovered depends on the known classes: ones sharing the target's attribute can remove the residual, and ones sharing a rival attribute can raise it
+# THEORY-320: Known classes steer which novel classes are found
 
 ## Source
 

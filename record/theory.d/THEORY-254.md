@@ -14,7 +14,11 @@ promote_when: >-
   standard methods do. What cannot settle it: more single networks
   inspected by eye, or tangle theory, which says what tangles are and not
   how they compare with communities.
-title: "Tangle-defined cohesion matches network communities only where community structure is strongly delineated, and tangles of one to three vertices recur beside the ones that do"
+title: 'Tangles match communities only when sharp'
+statement: >-
+  Tangle-defined cohesion matches network communities only where community
+  structure is strongly delineated, and tangles of one to three vertices
+  recur beside the ones that do
 version: 2
 history:
 - version: 2
@@ -47,7 +51,7 @@ bounds:
 <!-- inactive-ok-file: THEORY-268 — Proposed; the block answer and the companion reading's theory this bears on, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection, not as standing -->
 
-# THEORY-254: Tangle-defined cohesion matches network communities only where community structure is strongly delineated, and tangles of one to three vertices recur beside the ones that do
+# THEORY-254: Tangles match communities only when sharp
 
 ## Source
 

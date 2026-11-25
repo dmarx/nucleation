@@ -3,7 +3,13 @@ number: 1841
 status: Proposed
 formerly:
 - THEORY-tmpa59p3
-title: 'Feenberg argues that technology is neither neutral nor determined, that its design embodies a contingent technical code reflecting the values of dominant groups, that technological development is a field of social struggle with many feasible outcomes, and that an economic code that rewards deskilling could be replaced by one that values skill'
+title: 'Technical codes embody dominant groups'' values'
+statement: >-
+  Feenberg argues that technology is neither neutral nor determined, that
+  its design embodies a contingent technical code reflecting the values of
+  dominant groups, that technological development is a field of social
+  struggle with many feasible outcomes, and that an economic code that
+  rewards deskilling could be replaced by one that values skill
 version: 1
 source:
 - LIT-2604
@@ -27,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-685 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-1927 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
-# THEORY-1841: Feenberg argues that technology is neither neutral nor determined, that its design embodies a contingent technical code reflecting the values of dominant groups, that technological development is a field of social struggle with many feasible outcomes, and that an economic code that rewards deskilling could be replaced by one that values skill
+# THEORY-1841: Technical codes embody dominant groups' values
 
 ## The account
 

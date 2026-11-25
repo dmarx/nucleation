@@ -3,7 +3,15 @@ number: 617
 status: Active
 formerly:
 - THEORY-tmpqsz47
-title: "In additive Gaussian noise independent of an input of finite power whose law does not depend on the signal-to-noise ratio, the derivative of mutual information with respect to that ratio is half the minimum mean-square error of the optimal noncausal estimator, so mutual information is accumulated estimation error over SNR; in continuous time the causal filtering error equals the noncausal error averaged over SNR, and the identity fails with feedback"
+title: 'Mutual information''s SNR derivative is MMSE/2'
+statement: >-
+  In additive Gaussian noise independent of an input of finite power whose
+  law does not depend on the signal-to-noise ratio, the derivative of mutual
+  information with respect to that ratio is half the minimum mean-square
+  error of the optimal noncausal estimator, so mutual information is
+  accumulated estimation error over SNR; in continuous time the causal
+  filtering error equals the noncausal error averaged over SNR, and the
+  identity fails with feedback
 version: 1
 tags:
 - information-theory
@@ -20,7 +28,7 @@ summary: >-
   are stated without proof.
 ---
 
-# THEORY-617: In additive Gaussian noise independent of an input of finite power whose law does not depend on the signal-to-noise ratio, the derivative of mutual information with respect to that ratio is half the minimum mean-square error of the optimal noncausal estimator, so mutual information is accumulated estimation error over SNR; in continuous time the causal filtering error equals the noncausal error averaged over SNR, and the identity fails with feedback
+# THEORY-617: Mutual information's SNR derivative is MMSE/2
 
 ## Source
 

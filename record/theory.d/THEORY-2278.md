@@ -12,7 +12,14 @@ promote_when: >-
   temperature higher when a neighbouring staple is already bound than
   when it is absent. Not met by a model fit of large origamis alone, which
   is how the paper reaches them.
-title: 'Arbona, Aimé and Elezgaray find, by UV-absorption melting of three-strand DNA constructions, that a staple''s melting peak rises by 1.5 to 8.5 °C when a neighbouring staple is already folded and that the inner crossover position costs more than the outer, and that a local-equilibrium model with neighbour-dependent crossover penalties and no misfolds reproduces the annealing–melting hysteresis of four origamis of about 200 staples'
+title: 'Staple folding is cooperative in DNA origami'
+statement: >-
+  Arbona, Aimé and Elezgaray find, by UV-absorption melting of three-strand
+  DNA constructions, that a staple's melting peak rises by 1.5 to 8.5 °C
+  when a neighbouring staple is already folded and that the inner crossover
+  position costs more than the outer, and that a local-equilibrium model
+  with neighbour-dependent crossover penalties and no misfolds reproduces
+  the annealing–melting hysteresis of four origamis of about 200 staples
 version: 1
 history:
 - version: 1
@@ -40,7 +47,7 @@ summary: >-
   curves and the hysteresis (4 to 10 K) of four rectangular M13 origamis.
 ---
 
-# THEORY-2278: Arbona, Aimé and Elezgaray find, by UV-absorption melting of three-strand DNA constructions, that a staple's melting peak rises by 1.5 to 8.5 °C when a neighbouring staple is already folded and that the inner crossover position costs more than the outer, and that a local-equilibrium model with neighbour-dependent crossover penalties and no misfolds reproduces the annealing–melting hysteresis of four origamis of about 200 staples
+# THEORY-2278: Staple folding is cooperative in DNA origami
 
 Arbona, Aimé and Elezgaray (2013; arXiv 2011), [LIT-3148](../literature.d/LIT-3148.md), read in [NOTE-2393](../notes.d/NOTE-2393.md).
 

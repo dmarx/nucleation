@@ -3,7 +3,16 @@ number: 950
 status: Proposed
 formerly:
 - CLAIM-tmpn5wpc
-title: 'The competence-restriction loop is demonstrable: in capacity dynamics where competence is learned by doing and decays with disuse, making reinstatement a threshold on capacity turns a restriction justified by a lack of competence into a self-perpetuating trap, because the restriction causes the decay that holds capacity below the reinstatement threshold; the trap has a recoverability deadline, and it is escaped only by a route strong enough to restore practice or by training that adds capacity directly'
+title: 'The competence-restriction loop is demonstrable'
+statement: >-
+  The competence-restriction loop is demonstrable: in capacity dynamics
+  where competence is learned by doing and decays with disuse, making
+  reinstatement a threshold on capacity turns a restriction justified by a
+  lack of competence into a self-perpetuating trap, because the restriction
+  causes the decay that holds capacity below the reinstatement threshold;
+  the trap has a recoverability deadline, and it is escaped only by a route
+  strong enough to restore practice or by training that adds capacity
+  directly
 version: 1
 role: thesis
 warrant: demonstrated
@@ -63,7 +72,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-721 TERM-129 CASE-364 — Proposed or new; the claim this demonstrates, the term it is stated in, and the study that grounds it -->
 
-# CLAIM-950: The competence-restriction loop is demonstrable: in capacity dynamics where competence is learned by doing and decays with disuse, making reinstatement a threshold on capacity turns a restriction justified by a lack of competence into a self-perpetuating trap, because the restriction causes the decay that holds capacity below the reinstatement threshold; the trap has a recoverability deadline, and it is escaped only by a route strong enough to restore practice or by training that adds capacity directly
+# CLAIM-950: The competence-restriction loop is demonstrable
 
 ## The claim
 

@@ -3,7 +3,12 @@ number: 321
 status: Active
 formerly:
 - THEORY-tmprmrt9
-title: "Under repeated DeGroot averaging in a strongly connected society, the consensus converges to the truth as the society grows if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right"
+title: 'DeGroot crowds are wise iff no one dominates'
+statement: >-
+  Under repeated DeGroot averaging in a strongly connected society, the
+  consensus converges to the truth as the society grows if and only if the
+  largest influence weight vanishes, so network structure alone, not the
+  members' common updating rule, decides whether the group belief is right
 version: 6
 history:
 - version: 2
@@ -67,7 +72,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-914 CASE-340 — Proposed; filed 2026-11-22 by LEAD-061, cited in its dated note -->
 <!-- inactive-ok-file: THEORY-143 THEORY-148 — Proposed; the bandit-model accounts this one sits beside, open -->
 
-# THEORY-321: Under repeated DeGroot averaging in a strongly connected society, the consensus converges to the truth as the society grows if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right
+# THEORY-321: DeGroot crowds are wise iff no one dominates
 
 ## Source
 

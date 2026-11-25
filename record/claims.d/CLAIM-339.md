@@ -3,7 +3,13 @@ number: 339
 status: Active
 formerly:
 - CLAIM-tmpki5gp
-title: 'A judgement–observation loop cut off from action loses one route for evidence it did not select, and the free-energy principle''s reason for minimizing surprise, that a persisting system must keep its states in bounds, needs action on the world, though a loop can confirm itself with action available too'
+title: 'A loop cut off from action loses evidence'
+statement: >-
+  A judgement–observation loop cut off from action loses one route for
+  evidence it did not select, and the free-energy principle's reason for
+  minimizing surprise, that a persisting system must keep its states in
+  bounds, needs action on the world, though a loop can confirm itself with
+  action available too
 version: 3
 history:
 - version: 2
@@ -62,7 +68,7 @@ complements:
 ---
 <!-- inactive-ok-file: THEORY-628 — Proposed; named in the history as the reading the grounds moved from -->
 
-# CLAIM-339: A judgement–observation loop cut off from action loses one route for evidence it did not select, and the free-energy principle's reason for minimizing surprise, that a persisting system must keep its states in bounds, needs action on the world, though a loop can confirm itself with action available too
+# CLAIM-339: A loop cut off from action loses evidence
 
 ## The claim
 

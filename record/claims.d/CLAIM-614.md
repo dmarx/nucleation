@@ -3,7 +3,13 @@ number: 614
 status: Proposed
 formerly:
 - CLAIM-tmpagkxi
-title: 'A self-maintaining organization that harms, and also reproduces the representational projections that make its harm non-legible, commits a counter-normativity distinct from the harm and attributable to it: among what it maintains are the conditions under which the harm cannot be recognized'
+title: 'Reproducing non-legibility is a further wrong'
+statement: >-
+  A self-maintaining organization that harms, and also reproduces the
+  representational projections that make its harm non-legible, commits a
+  counter-normativity distinct from the harm and attributable to it: among
+  what it maintains are the conditions under which the harm cannot be
+  recognized
 version: 6
 history:
 - version: 2
@@ -106,7 +112,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the held reproductive form, credited as on the record -->
 <!-- inactive-ok-file: CLAIM-620 CLAIM-624 CLAIM-619 — filed from the same exchange, Proposed; the synthesis this complements and A's answers -->
 
-# CLAIM-614: A self-maintaining organization that harms, and also reproduces the representational projections that make its harm non-legible, commits a counter-normativity distinct from the harm and attributable to it: among what it maintains are the conditions under which the harm cannot be recognized
+# CLAIM-614: Reproducing non-legibility is a further wrong
 
 ## The claim
 

@@ -3,7 +3,11 @@ number: 1792
 status: Proposed
 formerly:
 - THEORY-tmpru0yr
-title: 'The OAEI 2026 campaign page sets out a yearly shared evaluation, run since 2004, of systems that align pairs of separately built ontologies and instance sets against reference alignments, across about twenty tracks'
+title: 'OAEI evaluates ontology alignment yearly'
+statement: >-
+  The OAEI 2026 campaign page sets out a yearly shared evaluation, run since
+  2004, of systems that align pairs of separately built ontologies and
+  instance sets against reference alignments, across about twenty tracks
 version: 1
 tags:
 - databases
@@ -20,7 +24,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1792: The OAEI 2026 campaign page sets out a yearly shared evaluation, run since 2004, of systems that align pairs of separately built ontologies and instance sets against reference alignments, across about twenty tracks
+# THEORY-1792: OAEI evaluates ontology alignment yearly
 
 ## The account
 

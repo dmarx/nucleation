@@ -3,7 +3,13 @@ number: 1325
 status: Proposed
 formerly:
 - CLAIM-tmpu6e4u
-title: 'Two evaluators of one research record facing the same decision can need incomparable views of it: the coarsest observations sufficient for a decision can be several and incomparable, so which view suffices depends on which acceptable action an evaluator commits to and not on the decision alone'
+title: 'Sufficient views can be incomparable'
+statement: >-
+  Two evaluators of one research record facing the same decision can need
+  incomparable views of it: the coarsest observations sufficient for a
+  decision can be several and incomparable, so which view suffices depends
+  on which acceptable action an evaluator commits to and not on the decision
+  alone
 version: 2
 history:
 - version: 2
@@ -47,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1323 CLAIM-1292 — Proposed; the claim this qualifies and the owner's claim it complements -->
 
-# CLAIM-1325: Two evaluators of one research record facing the same decision can need incomparable views of it: the coarsest observations sufficient for a decision can be several and incomparable, so which view suffices depends on which acceptable action an evaluator commits to and not on the decision alone
+# CLAIM-1325: Sufficient views can be incomparable
 
 ## The gap it fills
 

@@ -3,7 +3,15 @@ number: 1057
 status: Active
 formerly:
 - THEORY-tmp3wlcq
-title: 'Gradient descent with backpropagation, weight decay and Newton''s method are one discrete-time semantics of an operad of potential-carrying lenses, in which the state moves by subtracting the sharpened sum of three pulled-back covectors (from the output, from the input wiring and from the potential); the semantics is an operad functor, so a composite''s update is assembled from its parts'' updates, and backpropagation is that functoriality'
+title: 'Backprop is functoriality of lens semantics'
+statement: >-
+  Gradient descent with backpropagation, weight decay and Newton's method
+  are one discrete-time semantics of an operad of potential-carrying lenses,
+  in which the state moves by subtracting the sharpened sum of three
+  pulled-back covectors (from the output, from the input wiring and from the
+  potential); the semantics is an operad functor, so a composite's update is
+  assembled from its parts' updates, and backpropagation is that
+  functoriality
 version: 1
 tags:
 - compositionality
@@ -24,7 +32,7 @@ summary: >-
   explicit-Euler; Adam and momentum are conjectures.
 ---
 
-# THEORY-1057: Gradient descent with backpropagation, weight decay and Newton's method are one discrete-time semantics of an operad of potential-carrying lenses, in which the state moves by subtracting the sharpened sum of three pulled-back covectors (from the output, from the input wiring and from the potential); the semantics is an operad functor, so a composite's update is assembled from its parts' updates, and backpropagation is that functoriality
+# THEORY-1057: Backprop is functoriality of lens semantics
 
 ## Source
 

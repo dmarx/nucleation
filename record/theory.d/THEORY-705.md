@@ -3,7 +3,17 @@ number: 705
 status: Active
 formerly:
 - THEORY-tmp8ox3d
-title: "For a target and two sources with finite alphabets, if unique information is to depend only on the two source–target pair marginals, then the minimum of the conditional mutual information over all joints with those marginals is an upper bound on every non-negative decomposition's unique information, and the shared and synergistic information it implies are lower bounds; this unique information vanishes exactly when the other source is Blackwell-sufficient, and the measures are non-negative, satisfy the bivariate partial-information axioms and the identity property, and do not extend to three sources on the partial-information lattice"
+title: 'Min conditional MI bounds unique information'
+statement: >-
+  For a target and two sources with finite alphabets, if unique information
+  is to depend only on the two source–target pair marginals, then the
+  minimum of the conditional mutual information over all joints with those
+  marginals is an upper bound on every non-negative decomposition's unique
+  information, and the shared and synergistic information it implies are
+  lower bounds; this unique information vanishes exactly when the other
+  source is Blackwell-sufficient, and the measures are non-negative, satisfy
+  the bivariate partial-information axioms and the identity property, and do
+  not extend to three sources on the partial-information lattice
 version: 2
 history:
 - version: 2
@@ -26,7 +36,7 @@ summary: >-
 ---
 
 
-# THEORY-705: For a target and two sources with finite alphabets, if unique information is to depend only on the two source–target pair marginals, then the minimum of the conditional mutual information over all joints with those marginals is an upper bound on every non-negative decomposition's unique information, and the shared and synergistic information it implies are lower bounds; this unique information vanishes exactly when the other source is Blackwell-sufficient, and the measures are non-negative, satisfy the bivariate partial-information axioms and the identity property, and do not extend to three sources on the partial-information lattice
+# THEORY-705: Min conditional MI bounds unique information
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1096
 status: Active
 formerly:
 - THEORY-tmp5sao6
-title: 'Blackwell''s comparison of experiments, its easy direction: an experiment is a family of distributions indexed by a common parameter, and if one experiment is a garbling of another by a Markov kernel, every risk attainable with the garbling in any decision problem with bounded losses is attainable with the original, on any outcome spaces'
+title: 'Garbling never improves attainable risk'
+statement: >-
+  Blackwell's comparison of experiments, its easy direction: an experiment
+  is a family of distributions indexed by a common parameter, and if one
+  experiment is a garbling of another by a Markov kernel, every risk
+  attainable with the garbling in any decision problem with bounded losses
+  is attainable with the original, on any outcome spaces
 version: 1
 tags:
 - mathematical-statistics
@@ -27,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Proposed and Superseded; the account this is split from, and the decision whose re-derivation ruling ADR-057 keeps -->
 
-# THEORY-1096: Blackwell's comparison of experiments, its easy direction: an experiment is a family of distributions indexed by a common parameter, and if one experiment is a garbling of another by a Markov kernel, every risk attainable with the garbling in any decision problem with bounded losses is attainable with the original, on any outcome spaces
+# THEORY-1096: Garbling never improves attainable risk
 
 ## Source
 

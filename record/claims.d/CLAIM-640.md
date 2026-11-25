@@ -3,7 +3,14 @@ number: 640
 status: Proposed
 formerly:
 - CLAIM-tmpsh6jv
-title: 'Where viable regimes exchange symmetrically and fail into an absorbing state at small hazards, the survivors settle at the spectral gap of the exchange among the viable regimes to within the largest hazard, so the separation between settling and dying out is a dissipative coupling''s, and it depends on how the regimes are connected: for regimes in a line it shrinks as their number grows, and for regimes all connected it grows'
+title: 'Survivors settle at the viable-exchange gap'
+statement: >-
+  Where viable regimes exchange symmetrically and fail into an absorbing
+  state at small hazards, the survivors settle at the spectral gap of the
+  exchange among the viable regimes to within the largest hazard, so the
+  separation between settling and dying out is a dissipative coupling's, and
+  it depends on how the regimes are connected: for regimes in a line it
+  shrinks as their number grows, and for regimes all connected it grows
 version: 1
 role: thesis
 warrant: demonstrated
@@ -47,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-612 CASE-231 ARG-056 — Proposed; the claim this rests on, its case and its argument, and the test this claim passed -->
 
-# CLAIM-640: Where viable regimes exchange symmetrically and fail into an absorbing state at small hazards, the survivors settle at the spectral gap of the exchange among the viable regimes to within the largest hazard, so the separation between settling and dying out is a dissipative coupling's, and it depends on how the regimes are connected: for regimes in a line it shrinks as their number grows, and for regimes all connected it grows
+# CLAIM-640: Survivors settle at the viable-exchange gap
 
 ## The claim
 

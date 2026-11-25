@@ -3,7 +3,11 @@ number: 810
 status: Proposed
 formerly:
 - CLAIM-tmpbe2gh
-title: 'Scale invariance, dependence across scales and transfer across scales are three properties, any of which can occur without the others, so a hierarchy of structure is not a hierarchy of causation'
+title: 'Hierarchy of structure is not of causation'
+statement: >-
+  Scale invariance, dependence across scales and transfer across scales are
+  three properties, any of which can occur without the others, so a
+  hierarchy of structure is not a hierarchy of causation
 version: 2
 history:
 - version: 2
@@ -56,7 +60,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-846 CLAIM-850 — filed with this claim on 2026-11-21 -->
 <!-- inactive-ok-file: ARG-187 THEORY-2187 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-810: Scale invariance, dependence across scales and transfer across scales are three properties, any of which can occur without the others, so a hierarchy of structure is not a hierarchy of causation
+# CLAIM-810: Hierarchy of structure is not of causation
 
 ## A's distinction (A23 §1)
 

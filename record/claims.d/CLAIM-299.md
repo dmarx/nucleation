@@ -3,8 +3,11 @@ number: 299
 status: Active
 formerly:
 - CLAIM-tmpb7qd9
-title: Decision sufficiency, historical accountability and correctness are three
-  properties of a record of inquiry, and each can hold while the other two fail
+title: 'Sufficiency, accountability, correctness split'
+statement: >-
+  Decision sufficiency, historical accountability and correctness are three
+  properties of a record of inquiry, and each can hold while the other two
+  fail
 version: 8
 history:
 - version: 2
@@ -87,7 +90,7 @@ works:
 <!-- inactive-ok-file: CLAIM-181 CLAIM-189 CLAIM-190 CLAIM-250 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-1806 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-299: Decision sufficiency, historical accountability and correctness are three properties of a record of inquiry, and each can hold while the other two fail
+# CLAIM-299: Sufficiency, accountability, correctness split
 
 ## The claim
 

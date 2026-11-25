@@ -3,7 +3,15 @@ number: 1717
 status: Proposed
 formerly:
 - THEORY-tmpyuy3t
-title: 'Hafer-Hahmann''s phylogenetic meta-analysis of 1,635 observations on trophically transmitted helminths finds that mature parasites consistently make hosts more susceptible to predation while immature stages have little or inconsistent effect, that mature parasites dominate mixed infections, that manipulation is stronger when the correct predator is present, and that phylogeny and the ecological drivers theory proposes explain little of the variation.'
+title: 'Mature helminths make hosts easier prey'
+statement: >-
+  Hafer-Hahmann's phylogenetic meta-analysis of 1,635 observations on
+  trophically transmitted helminths finds that mature parasites consistently
+  make hosts more susceptible to predation while immature stages have little
+  or inconsistent effect, that mature parasites dominate mixed infections,
+  that manipulation is stronger when the correct predator is present, and
+  that phylogeny and the ecological drivers theory proposes explain little
+  of the variation.
 version: 1
 source:
 - LIT-2402
@@ -26,7 +34,7 @@ summary: >-
   assumed effect on predation susceptibility.
 ---
 
-# THEORY-1717: Hafer-Hahmann's phylogenetic meta-analysis of 1,635 observations on trophically transmitted helminths finds that mature parasites consistently make hosts more susceptible to predation while immature stages have little or inconsistent effect, that mature parasites dominate mixed infections, that manipulation is stronger when the correct predator is present, and that phylogeny and the ecological drivers theory proposes explain little of the variation.
+# THEORY-1717: Mature helminths make hosts easier prey
 
 ## The account
 

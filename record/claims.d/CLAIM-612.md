@@ -3,7 +3,14 @@ number: 612
 status: Proposed
 formerly:
 - CLAIM-tmp7cpzx
-title: "Statistics conditioned on survival can be stationary and quickly reached while absorption is certain: in a finite chain whose viable states all lead to an absorbing failure, the distribution of the survivors settles on the mixing time and the survivors die out on a time longer by the ratio of the spectral gap to the hazard, so a surviving organization's stable statistics are no evidence that it persists"
+title: 'Survivor statistics settle while failure is sure'
+statement: >-
+  Statistics conditioned on survival can be stationary and quickly reached
+  while absorption is certain: in a finite chain whose viable states all
+  lead to an absorbing failure, the distribution of the survivors settles on
+  the mixing time and the survivors die out on a time longer by the ratio of
+  the spectral gap to the hazard, so a surviving organization's stable
+  statistics are no evidence that it persists
 version: 1
 role: thesis
 warrant: demonstrated
@@ -44,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-056 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-231 — filed from the same exchange, Proposed -->
 
-# CLAIM-612: Statistics conditioned on survival can be stationary and quickly reached while absorption is certain: in a finite chain whose viable states all lead to an absorbing failure, the distribution of the survivors settles on the mixing time and the survivors die out on a time longer by the ratio of the spectral gap to the hazard, so a surviving organization's stable statistics are no evidence that it persists
+# CLAIM-612: Survivor statistics settle while failure is sure
 
 ## The claim
 

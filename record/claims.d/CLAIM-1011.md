@@ -3,7 +3,12 @@ number: 1011
 status: Proposed
 formerly:
 - CLAIM-tmp2k67n
-title: 'A function-preserving rescaling of a ReLU network''s hidden units, taken as a disruption of its learned state, is exactly a change of the optimizer''s per-coordinate step sizes on the original parameters, so the two arms of a crossed intervention are not separated by anything the network computes'
+title: 'ReLU rescaling equals step-size change'
+statement: >-
+  A function-preserving rescaling of a ReLU network's hidden units, taken as
+  a disruption of its learned state, is exactly a change of the optimizer's
+  per-coordinate step sizes on the original parameters, so the two arms of a
+  crossed intervention are not separated by anything the network computes
 version: 1
 history:
 - version: 1
@@ -48,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-404 — new; the study filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1011: A function-preserving rescaling of a ReLU network's hidden units, taken as a disruption of its learned state, is exactly a change of the optimizer's per-coordinate step sizes on the original parameters, so the two arms of a crossed intervention are not separated by anything the network computes
+# CLAIM-1011: ReLU rescaling equals step-size change
 
 ## The claim
 

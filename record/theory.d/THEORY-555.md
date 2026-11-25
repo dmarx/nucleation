@@ -3,7 +3,14 @@ number: 555
 status: Active
 formerly:
 - THEORY-tmpjdbth
-title: "In London in 2018, Airbnb listings that were possibly breaking the 90-night short-let cap, defined as entire homes offered for more than 180 days a year by hosts with two or more listings, were about 0.16% of the housing stock (about 5,300 homes) but 3.5–7% in a few central small areas, and across small areas they correlate weakly with flats, private renting and low dwelling-type diversity"
+title: 'Rule-breaking Airbnbs are 0.16% of London homes'
+statement: >-
+  In London in 2018, Airbnb listings that were possibly breaking the
+  90-night short-let cap, defined as entire homes offered for more than 180
+  days a year by hosts with two or more listings, were about 0.16% of the
+  housing stock (about 5,300 homes) but 3.5–7% in a few central small areas,
+  and across small areas they correlate weakly with flats, private renting
+  and low dwelling-type diversity
 version: 1
 tags:
 - social-science
@@ -21,7 +28,7 @@ summary: >-
   belong to this account and should not be cited as an effect size.
 ---
 
-# THEORY-555: In London in 2018, Airbnb listings that were possibly breaking the 90-night short-let cap, defined as entire homes offered for more than 180 days a year by hosts with two or more listings, were about 0.16% of the housing stock (about 5,300 homes) but 3.5–7% in a few central small areas, and across small areas they correlate weakly with flats, private renting and low dwelling-type diversity
+# THEORY-555: Rule-breaking Airbnbs are 0.16% of London homes
 
 ## Source
 

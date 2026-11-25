@@ -3,7 +3,16 @@ number: 8
 status: Superseded
 formerly:
 - SYNTHESIS-tmpxwffr
-title: 'Structural frustration of a set of demands forces, under every attainable arrangement, some member whose demand is unmet while it acts toward it, the precondition of operative thwarting, exactly when no attainable arrangement leaves each member either met or quiet; lying outside both the requirement complex and the quiescent complex does not suffice, the requirement complex is the test when every member acts whenever its demand is unmet, and in a minimal such conflict each member is the unmet, acting one under some arrangement and none is under all'
+title: 'Structural frustration forces an unmet actor'
+statement: >-
+  Structural frustration of a set of demands forces, under every attainable
+  arrangement, some member whose demand is unmet while it acts toward it,
+  the precondition of operative thwarting, exactly when no attainable
+  arrangement leaves each member either met or quiet; lying outside both the
+  requirement complex and the quiescent complex does not suffice, the
+  requirement complex is the test when every member acts whenever its demand
+  is unmet, and in a minimal such conflict each member is the unmet, acting
+  one under some arrangement and none is under all
 version: 2
 history:
 - version: 2
@@ -68,7 +77,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-553 — Proposed, the owner's; used only for the scalar corollary -->
 
-# SYNTHESIS-008: Structural frustration of a set of demands forces, under every attainable arrangement, some member whose demand is unmet while it acts toward it, the precondition of operative thwarting, exactly when no attainable arrangement leaves each member either met or quiet; lying outside both the requirement complex and the quiescent complex does not suffice, the requirement complex is the test when every member acts whenever its demand is unmet, and in a minimal such conflict each member is the unmet, acting one under some arrangement and none is under all
+# SYNTHESIS-008: Structural frustration forces an unmet actor
 
 *Filed at the synthesis review of 2026-11-07 ([ADR-078](../decisions.d/ADR-078.md)) as an opportunity: [QUESTION-131](../questions.d/QUESTION-131.md) had several in-force answers and no entry stating what they add up to.*
 

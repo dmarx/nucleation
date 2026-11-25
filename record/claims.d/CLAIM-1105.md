@@ -3,7 +3,15 @@ number: 1105
 status: Proposed
 formerly:
 - CLAIM-tmph783a
-title: 'A symmetry of the current fundamental theories meets the relata–realization frame''s second defeater: in Wigner''s classification the representations of the Poincaré group fix elementary particle kinds, and no particular thing realizes or maintains that symmetry, which constrains other laws rather than being produced by any process; so the frame holds only for kinds whose constraints are effective, and at the fundamental level constraints are prior to their realizations'
+title: 'Fundamental symmetries defeat relata–realization'
+statement: >-
+  A symmetry of the current fundamental theories meets the
+  relata–realization frame's second defeater: in Wigner's classification the
+  representations of the Poincaré group fix elementary particle kinds, and
+  no particular thing realizes or maintains that symmetry, which constrains
+  other laws rather than being produced by any process; so the frame holds
+  only for kinds whose constraints are effective, and at the fundamental
+  level constraints are prior to their realizations
 version: 2
 history:
 - version: 2
@@ -53,7 +61,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1094 — new; the leaned-to alternative filed with this claim for LEAD-195 -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-134 — Proposed; the frame this objects to and the Wigner discussion -->
 
-# CLAIM-1105: A symmetry of the current fundamental theories meets the relata–realization frame's second defeater: in Wigner's classification the representations of the Poincaré group fix elementary particle kinds, and no particular thing realizes or maintains that symmetry, which constrains other laws rather than being produced by any process; so the frame holds only for kinds whose constraints are effective, and at the fundamental level constraints are prior to their realizations
+# CLAIM-1105: Fundamental symmetries defeat relata–realization
 
 ## The objection
 

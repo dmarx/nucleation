@@ -3,7 +3,11 @@ number: 19
 status: Active
 formerly:
 - CLAIM-tmp5ty0h
-title: 'Lévi-Straussian transformational analysis, as Descola reads it and as it has been modelled computationally, is direct prior art for structural transport, not only a philosophical precursor'
+title: 'Lévi-Strauss is direct prior art for transport'
+statement: >-
+  Lévi-Straussian transformational analysis, as Descola reads it and as it
+  has been modelled computationally, is direct prior art for structural
+  transport, not only a philosophical precursor
 version: 2
 history:
 - version: 2
@@ -41,7 +45,7 @@ complements:
 ---
 <!-- inactive-ok-file: LIT-775 — Unavailable; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 
-# CLAIM-019: Lévi-Straussian transformational analysis, as Descola reads it and as it has been modelled computationally, is direct prior art for structural transport, not only a philosophical precursor
+# CLAIM-019: Lévi-Strauss is direct prior art for transport
 
 ## The claim
 

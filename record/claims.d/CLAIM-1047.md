@@ -3,7 +3,13 @@ number: 1047
 status: Proposed
 formerly:
 - CLAIM-tmp7z7si
-title: 'No public statement found by the league''s reported count, the club or its supporters counts the 2005 Washington Nationals as the original Washington Senators continued: the franchise is counted through the Montreal Expos, and what the club and supporters claim of the Senators is Washington''s baseball history'
+title: 'Nationals are not counted as the old Senators'
+statement: >-
+  No public statement found by the league's reported count, the club or its
+  supporters counts the 2005 Washington Nationals as the original Washington
+  Senators continued: the franchise is counted through the Montreal Expos,
+  and what the club and supporters claim of the Senators is Washington's
+  baseball history
 version: 1
 role: thesis
 warrant: empirical
@@ -44,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-392 — new, Proposed; the coding study this verdict rests on, filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1047: No public statement found by the league's reported count, the club or its supporters counts the 2005 Washington Nationals as the original Washington Senators continued: the franchise is counted through the Montreal Expos, and what the club and supporters claim of the Senators is Washington's baseball history
+# CLAIM-1047: Nationals are not counted as the old Senators
 
 ## The claim
 

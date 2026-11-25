@@ -3,7 +3,16 @@ number: 1303
 status: Active
 formerly:
 - THEORY-tmp2uvxp
-title: 'For an uncertain linear program, a decision fixed before the data are revealed must satisfy every realization at once (the robust counterpart, ∃ solution ∀ data), while a decision that may adjust after them need only have a feasible adjustment for each (the adjustable robust counterpart, ∀ data ∃ adjustment); the second is never more conservative and can be feasible where the first is not, the two coincide when each constraint''s uncertainty is its own, and decisions may be restricted between them by what part of the data they read or by the form of the rule'
+title: 'Adjustable robust LPs are never more conservative'
+statement: >-
+  For an uncertain linear program, a decision fixed before the data are
+  revealed must satisfy every realization at once (the robust counterpart, ∃
+  solution ∀ data), while a decision that may adjust after them need only
+  have a feasible adjustment for each (the adjustable robust counterpart, ∀
+  data ∃ adjustment); the second is never more conservative and can be
+  feasible where the first is not, the two coincide when each constraint's
+  uncertainty is its own, and decisions may be restricted between them by
+  what part of the data they read or by the form of the rule
 version: 2
 history:
 - version: 2
@@ -32,7 +41,7 @@ corroborates:
 - CLAIM-537
 ---
 
-# THEORY-1303: For an uncertain linear program, a decision fixed before the data are revealed must satisfy every realization at once (the robust counterpart, ∃ solution ∀ data), while a decision that may adjust after them need only have a feasible adjustment for each (the adjustable robust counterpart, ∀ data ∃ adjustment); the second is never more conservative and can be feasible where the first is not, the two coincide when each constraint's uncertainty is its own, and decisions may be restricted between them by what part of the data they read or by the form of the rule
+# THEORY-1303: Adjustable robust LPs are never more conservative
 
 ## Source
 

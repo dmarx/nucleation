@@ -3,7 +3,11 @@ number: 58
 status: Proposed
 formerly:
 - CLAIM-tmpgqdv7
-title: 'Context-conditioned language models give a controlled computational setting in which the theory''s frame, order and transport effects can be tested before human studies'
+title: 'Language models can test the theory first'
+statement: >-
+  Context-conditioned language models give a controlled computational
+  setting in which the theory's frame, order and transport effects can be
+  tested before human studies
 version: 2
 history:
 - version: 2
@@ -35,7 +39,7 @@ summary: >-
   limited by the circularity objection.
 ---
 
-# CLAIM-058: Context-conditioned language models give a controlled computational setting in which the theory's frame, order and transport effects can be tested before human studies
+# CLAIM-058: Language models can test the theory first
 
 ## The claim
 

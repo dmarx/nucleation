@@ -3,7 +3,13 @@ number: 921
 status: Active
 formerly:
 - THEORY-tmpxdq9s
-title: 'As Craske et al.''s 2014 review reports it, citing six studies and reporting no data of its own, how far fear falls during an extinction or exposure session, or across sessions, does not predict how much fear is expressed at follow-up, in animals, human laboratory samples and fearful, mostly analog, human samples'
+title: 'Within-session fear drop doesn''t predict return'
+statement: >-
+  As Craske et al.'s 2014 review reports it, citing six studies and
+  reporting no data of its own, how far fear falls during an extinction or
+  exposure session, or across sessions, does not predict how much fear is
+  expressed at follow-up, in animals, human laboratory samples and fearful,
+  mostly analog, human samples
 version: 2
 history:
 - version: 2
@@ -40,7 +46,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim this corroborates, named, nothing here rests on it -->
 
-# THEORY-921: As Craske et al.'s 2014 review reports it, citing six studies and reporting no data of its own, how far fear falls during an extinction or exposure session, or across sessions, does not predict how much fear is expressed at follow-up, in animals, human laboratory samples and fearful, mostly analog, human samples
+# THEORY-921: Within-session fear drop doesn't predict return
 
 ## Source
 

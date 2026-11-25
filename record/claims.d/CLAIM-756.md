@@ -3,7 +3,13 @@ number: 756
 status: Proposed
 formerly:
 - CLAIM-tmp5gbzr
-title: 'An acquisition can be worth making for what it does to the cost of other acquisitions: valued only by its own savings on a fixed task distribution, a learning step that lowers the cost of a later one can show a loss, and the ranking of learning policies can reverse once its effect on later acquisitions is counted'
+title: 'Acquisitions valued by effects on later ones'
+statement: >-
+  An acquisition can be worth making for what it does to the cost of other
+  acquisitions: valued only by its own savings on a fixed task distribution,
+  a learning step that lowers the cost of a later one can show a loss, and
+  the ranking of learning policies can reverse once its effect on later
+  acquisitions is counted
 version: 2
 history:
 - version: 2
@@ -59,7 +65,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2046 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ARG-120 CASE-295 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-756: An acquisition can be worth making for what it does to the cost of other acquisitions: valued only by its own savings on a fixed task distribution, a learning step that lowers the cost of a later one can show a loss, and the ranking of learning policies can reverse once its effect on later acquisitions is counted
+# CLAIM-756: Acquisitions valued by effects on later ones
 
 ## The claim
 

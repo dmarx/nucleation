@@ -3,7 +3,15 @@ number: 2165
 status: Proposed
 formerly:
 - THEORY-tmpks8pd
-title: 'Gutenkunst and colleagues find that in seventeen systems-biology models, with 9 to 234 parameters, the Hessian of a least-squares deviation of all time courses in log parameters has eigenvalues spanning many decades, all but one more than six, roughly evenly in log with no cutoff, along eigenvectors skewed from the bare parameter axes; and that in one of them a collective fit constrains a prediction that direct measurement would match only with all 24 relevant parameters measured to about 25%'
+title: 'Sloppy spectra span decades in 17 bio models'
+statement: >-
+  Gutenkunst and colleagues find that in seventeen systems-biology models,
+  with 9 to 234 parameters, the Hessian of a least-squares deviation of all
+  time courses in log parameters has eigenvalues spanning many decades, all
+  but one more than six, roughly evenly in log with no cutoff, along
+  eigenvectors skewed from the bare parameter axes; and that in one of them
+  a collective fit constrains a prediction that direct measurement would
+  match only with all 24 relevant parameters measured to about 25%
 promote_when: >-
   An independent computation, by authors outside the Sethna group, of the
   spectra of several of the seventeen models (from their published SBML
@@ -33,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-3021 — Deferred, registered 2026-11-21 from this reading, unread -->
 <!-- inactive-ok-file: TERM-140 — Proposed; filed 2026-11-21, the term this reading corrects -->
 
-# THEORY-2165: Gutenkunst and colleagues find that in seventeen systems-biology models, with 9 to 234 parameters, the Hessian of a least-squares deviation of all time courses in log parameters has eigenvalues spanning many decades, all but one more than six, roughly evenly in log with no cutoff, along eigenvectors skewed from the bare parameter axes; and that in one of them a collective fit constrains a prediction that direct measurement would match only with all 24 relevant parameters measured to about 25%
+# THEORY-2165: Sloppy spectra span decades in 17 bio models
 
 ## Source
 

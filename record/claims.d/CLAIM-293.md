@@ -3,9 +3,11 @@ number: 293
 status: Active
 formerly:
 - CLAIM-tmp2deky
-title: 'The topology of a support graph does not fix how a conclusion should be
-  revised when one of its supports fails: two records with the same edges can carry
-  evidence of different strength and call for different revisions'
+title: 'Support topology does not fix revision'
+statement: >-
+  The topology of a support graph does not fix how a conclusion should be
+  revised when one of its supports fails: two records with the same edges
+  can carry evidence of different strength and call for different revisions
 version: 4
 history:
 - version: 2
@@ -57,7 +59,7 @@ works:
 <!-- inactive-ok-file: CLAIM-250 CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-1761 THEORY-1778 THEORY-1780 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-293: The topology of a support graph does not fix how a conclusion should be revised when one of its supports fails: two records with the same edges can carry evidence of different strength and call for different revisions
+# CLAIM-293: Support topology does not fix revision
 
 ## The claim
 

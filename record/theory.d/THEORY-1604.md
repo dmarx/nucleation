@@ -3,7 +3,13 @@ number: 1604
 status: Active
 formerly:
 - THEORY-tmpjz519
-title: 'Greaves and MacAskill argue that in the most important decisions facing agents today every near-best option is near-best for the far future and delivers much larger benefits there than in the near future, on expected-value reasoning that they concede needs a zero pure rate of time preference and may fail through fanaticism'
+title: 'Best options now are best for the far future'
+statement: >-
+  Greaves and MacAskill argue that in the most important decisions facing
+  agents today every near-best option is near-best for the far future and
+  delivers much larger benefits there than in the near future, on
+  expected-value reasoning that they concede needs a zero pure rate of time
+  preference and may fail through fanaticism
 version: 2
 history:
 - version: 1
@@ -34,7 +40,7 @@ bears_on:
 - QUESTION-299
 ---
 
-# THEORY-1604: Greaves and MacAskill argue that in the most important decisions facing agents today every near-best option is near-best for the far future and delivers much larger benefits there than in the near future, on expected-value reasoning that they concede needs a zero pure rate of time preference and may fail through fanaticism
+# THEORY-1604: Best options now are best for the far future
 
 ## The account
 

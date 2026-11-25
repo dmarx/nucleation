@@ -3,7 +3,11 @@ number: 92
 status: Proposed
 formerly:
 - CLAIM-tmpqz0mv
-title: 'Translation can be posed as a context-indexed information bottleneck: compress the source while preserving information about the responses in each measurement context separately'
+title: 'Translation as context-indexed bottleneck'
+statement: >-
+  Translation can be posed as a context-indexed information bottleneck:
+  compress the source while preserving information about the responses in
+  each measurement context separately
 version: 1
 role: thesis
 warrant: interpretive
@@ -25,7 +29,7 @@ summary: >-
   in its references, but states no bottleneck anywhere in its text.
 ---
 
-# CLAIM-092: Translation can be posed as a context-indexed information bottleneck: compress the source while preserving information about the responses in each measurement context separately
+# CLAIM-092: Translation as context-indexed bottleneck
 
 ## The claim
 

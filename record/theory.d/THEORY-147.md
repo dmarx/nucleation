@@ -16,7 +16,14 @@ promote_when: >-
   psychopath as stipulated cannot settle it, and neither can empirical
   work on real psychopathy alone, since the case is avowedly a
   philosopher's construction.
-title: 'Deep responsibility is not limited to the moral, and attributability and accountability are independent kinds of it rather than two levels: accountability needs only that the agent acted as she ought not to, was in a position to know it, and that acting so was up to her, while what makes a self a fit target of the reactive attitudes is plausibly that it can perceive, understand and appreciate the world as we do'
+title: 'Attributability and accountability are independent'
+statement: >-
+  Deep responsibility is not limited to the moral, and attributability and
+  accountability are independent kinds of it rather than two levels:
+  accountability needs only that the agent acted as she ought not to, was in
+  a position to know it, and that acting so was up to her, while what makes
+  a self a fit target of the reactive attitudes is plausibly that it can
+  perceive, understand and appreciate the world as we do
 version: 3
 history:
 - version: 2
@@ -49,7 +56,7 @@ answers:
 <!-- inactive-ok-file: THEORY-122 THEORY-118 — Proposed; Wolf's Reason View, her asymmetry and Fischer and Ravizza's account, named for how this account bears on them -->
 <!-- inactive-ok-file: THEORY-139 — Proposed; Pettit on corporate responsibility, named for the essay's use -->
 
-# THEORY-147: Deep responsibility is not limited to the moral, and attributability and accountability are independent kinds of it rather than two levels: accountability needs only that the agent acted as she ought not to, was in a position to know it, and that acting so was up to her, while what makes a self a fit target of the reactive attitudes is plausibly that it can perceive, understand and appreciate the world as we do
+# THEORY-147: Attributability and accountability are independent
 
 ## Source
 

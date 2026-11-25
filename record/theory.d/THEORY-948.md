@@ -3,7 +3,16 @@ number: 948
 status: Active
 formerly:
 - THEORY-tmp5q0ny
-title: 'On Stable Diffusion 2, MultiDiffusion''s 512 × 4608 panoramas had crops closer in FID to the reference model''s own samples than two outpainting baselines (10.3 against 18.4 and 45.5, fresh reference samples scoring 6.05) at equal CLIP score, over 8 prompts; and on 1,000 COCO layouts of two to four objects, the overlap of a segmenter''s output with the target layout was 0.26 IoU against 0.16–0.17 for the baselines and 0.43 for the real images, of which region fusion alone gave 0.18 and an early phase showing each region''s denoiser only its own region gave the rest'
+title: 'MultiDiffusion beats outpainting baselines'
+statement: >-
+  On Stable Diffusion 2, MultiDiffusion's 512 × 4608 panoramas had crops
+  closer in FID to the reference model's own samples than two outpainting
+  baselines (10.3 against 18.4 and 45.5, fresh reference samples scoring
+  6.05) at equal CLIP score, over 8 prompts; and on 1,000 COCO layouts of
+  two to four objects, the overlap of a segmenter's output with the target
+  layout was 0.26 IoU against 0.16–0.17 for the baselines and 0.43 for the
+  real images, of which region fusion alone gave 0.18 and an early phase
+  showing each region's denoiser only its own region gave the rest
 version: 2
 history:
 - version: 1
@@ -37,7 +46,7 @@ bears_on:
 - QUESTION-273
 ---
 
-# THEORY-948: On Stable Diffusion 2, MultiDiffusion's 512 × 4608 panoramas had crops closer in FID to the reference model's own samples than two outpainting baselines (10.3 against 18.4 and 45.5, fresh reference samples scoring 6.05) at equal CLIP score, over 8 prompts; and on 1,000 COCO layouts of two to four objects, the overlap of a segmenter's output with the target layout was 0.26 IoU against 0.16–0.17 for the baselines and 0.43 for the real images, of which region fusion alone gave 0.18 and an early phase showing each region's denoiser only its own region gave the rest
+# THEORY-948: MultiDiffusion beats outpainting baselines
 
 ## Source
 

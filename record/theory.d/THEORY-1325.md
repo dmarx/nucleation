@@ -13,7 +13,14 @@ promote_when: >-
   unrelated, or negatively related, to well-being in some culture.
   Further cross-sectional samples of 100 to 200 students per country
   cannot settle it.
-title: 'In Chirkov et al.''s student samples from South Korea, Russia, Turkey and the USA, the more autonomous people''s reasons for engaging in practices of any cultural orientation, collectivist and vertical included, the higher their well-being, with no detectable difference across countries or genders; and vertical practices were much less internalized than horizontal ones'
+title: 'Autonomy aids well-being across cultures'
+statement: >-
+  In Chirkov et al.'s student samples from South Korea, Russia, Turkey and
+  the USA, the more autonomous people's reasons for engaging in practices of
+  any cultural orientation, collectivist and vertical included, the higher
+  their well-being, with no detectable difference across countries or
+  genders; and vertical practices were much less internalized than
+  horizontal ones
 version: 1
 tags:
 - motivation
@@ -32,7 +39,7 @@ summary: >-
   not individualism, which it supports empirically only in this form.
 ---
 
-# THEORY-1325: In Chirkov et al.'s student samples from South Korea, Russia, Turkey and the USA, the more autonomous people's reasons for engaging in practices of any cultural orientation, collectivist and vertical included, the higher their well-being, with no detectable difference across countries or genders; and vertical practices were much less internalized than horizontal ones
+# THEORY-1325: Autonomy aids well-being across cultures
 
 ## Source
 

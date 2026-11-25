@@ -3,7 +3,12 @@ number: 1728
 status: Proposed
 formerly:
 - THEORY-tmp1o5v5
-title: 'Thorne et al. (2018) built a dataset of 185,445 claims derived by altering Wikipedia sentences, with independent annotators labelling each claim against Wikipedia as supported, refuted or not verifiable and recording the evidence sentences (Fleiss κ 0.68)'
+title: '185k claims labelled against Wikipedia evidence'
+statement: >-
+  Thorne et al. (2018) built a dataset of 185,445 claims derived by altering
+  Wikipedia sentences, with independent annotators labelling each claim
+  against Wikipedia as supported, refuted or not verifiable and recording
+  the evidence sentences (Fleiss κ 0.68)
 version: 1
 tags:
 - information-retrieval
@@ -20,7 +25,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1728: Thorne et al. (2018) built a dataset of 185,445 claims derived by altering Wikipedia sentences, with independent annotators labelling each claim against Wikipedia as supported, refuted or not verifiable and recording the evidence sentences (Fleiss κ 0.68)
+# THEORY-1728: 185k claims labelled against Wikipedia evidence
 
 ## The account
 

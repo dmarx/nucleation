@@ -3,7 +3,13 @@ number: 916
 status: Proposed
 formerly:
 - CLAIM-tmpke0ap
-title: 'A regulatory capacity''s constraint set is fixed by what realizes it: K holds each constraint the capacity''s own constraints depend on for their production, at the least level at which what depends on it is still produced, so once the agent and the capacity are named only the agent''s boundary is left to choose'
+title: 'What realizes a capacity fixes its constraints'
+statement: >-
+  A regulatory capacity's constraint set is fixed by what realizes it: K
+  holds each constraint the capacity's own constraints depend on for their
+  production, at the least level at which what depends on it is still
+  produced, so once the agent and the capacity are named only the agent's
+  boundary is left to choose
 version: 2
 history:
 - version: 2
@@ -58,7 +64,7 @@ works:
 <!-- inactive-ok-file: CASE-342 CLAIM-917 CLAIM-915 — new, filed in this pull request for LEAD-053 -->
 <!-- inactive-ok-file: CASE-227 — Proposed; a case the rule is tested on, cited as open -->
 
-# CLAIM-916: A regulatory capacity's constraint set is fixed by what realizes it: K holds each constraint the capacity's own constraints depend on for their production, at the least level at which what depends on it is still produced, so once the agent and the capacity are named only the agent's boundary is left to choose
+# CLAIM-916: What realizes a capacity fixes its constraints
 
 ## The claim
 

@@ -3,7 +3,15 @@ number: 1043
 status: Proposed
 formerly:
 - CLAIM-tmp7n00e
-title: 'In Lippl and Lindsey''s pretraining and fine-tuning of a diagonal linear network, scaling the first layer by c and the auxiliary readout by 1/c after pretraining keeps the pretrained function and what readout-only training reaches from it, but changes the penalty full fine-tuning minimizes, so the rescaled and unrescaled networks learn different solutions, and which is better reverses between a main task using a sparse subset of the pretrained features and one using all of them'
+title: 'Rescaling changes what fine-tuning learns'
+statement: >-
+  In Lippl and Lindsey's pretraining and fine-tuning of a diagonal linear
+  network, scaling the first layer by c and the auxiliary readout by 1/c
+  after pretraining keeps the pretrained function and what readout-only
+  training reaches from it, but changes the penalty full fine-tuning
+  minimizes, so the rescaled and unrescaled networks learn different
+  solutions, and which is better reverses between a main task using a sparse
+  subset of the pretrained features and one using all of them
 version: 1
 history:
 - version: 1
@@ -47,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2305 CASE-407 CLAIM-1013 CLAIM-1089 — Proposed; the reading and the run this rests on, and the readings of it filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1043: In Lippl and Lindsey's pretraining and fine-tuning of a diagonal linear network, scaling the first layer by c and the auxiliary readout by 1/c after pretraining keeps the pretrained function and what readout-only training reaches from it, but changes the penalty full fine-tuning minimizes, so the rescaled and unrescaled networks learn different solutions, and which is better reverses between a main task using a sparse subset of the pretrained features and one using all of them
+# CLAIM-1043: Rescaling changes what fine-tuning learns
 
 ## The derivation
 

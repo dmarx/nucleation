@@ -3,7 +3,14 @@ number: 1005
 status: Active
 formerly:
 - THEORY-tmptjiep
-title: 'On one MLP layer each of GPT2-small, Pythia-410M and Pythia-1.4B, transcoders trained to imitate the MLP lay on or above the sparsity–loss frontier of sparse autoencoders trained on its output, at one learning rate tuned on transcoders and one seed, and in a single rater''s blind reading of 50 random features each from Pythia-410M layer 15, 41 transcoder and 38 SAE features were judged interpretable'
+title: 'Transcoders match SAEs on sparsity and clarity'
+statement: >-
+  On one MLP layer each of GPT2-small, Pythia-410M and Pythia-1.4B,
+  transcoders trained to imitate the MLP lay on or above the sparsity–loss
+  frontier of sparse autoencoders trained on its output, at one learning
+  rate tuned on transcoders and one seed, and in a single rater's blind
+  reading of 50 random features each from Pythia-410M layer 15, 41
+  transcoder and 38 SAE features were judged interpretable
 version: 1
 history:
 - version: 1
@@ -29,7 +36,7 @@ summary: >-
   Gemma 2 2B Gemma Scope found transcoders worse than MLP-output SAEs at
   fixed L0 ([LIT-611](../literature.d/LIT-611.md), [NOTE-482](../notes.d/NOTE-482.md)).
 ---
-# THEORY-1005: On one MLP layer each of GPT2-small, Pythia-410M and Pythia-1.4B, transcoders trained to imitate the MLP lay on or above the sparsity–loss frontier of sparse autoencoders trained on its output, at one learning rate tuned on transcoders and one seed, and in a single rater's blind reading of 50 random features each from Pythia-410M layer 15, 41 transcoder and 38 SAE features were judged interpretable
+# THEORY-1005: Transcoders match SAEs on sparsity and clarity
 
 ## Source
 

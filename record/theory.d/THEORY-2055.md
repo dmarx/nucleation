@@ -3,7 +3,14 @@ number: 2055
 status: Proposed
 formerly:
 - THEORY-tmpz825j
-title: 'Velarde, Parra, Hashemi and Makse show that in layered networks a covering partition of units, units with equal colour-summed input and output weights, can only coarsen under gradient descent, and report that tolerance-defined quasi-covers grow during training of an MLP, a CNN and an LSTM agent and allow compression to 17–18% of size with little loss, while exact automorphisms are never observed'
+title: 'Covering partitions only coarsen under GD'
+statement: >-
+  Velarde, Parra, Hashemi and Makse show that in layered networks a covering
+  partition of units, units with equal colour-summed input and output
+  weights, can only coarsen under gradient descent, and report that
+  tolerance-defined quasi-covers grow during training of an MLP, a CNN and
+  an LSTM agent and allow compression to 17–18% of size with little loss,
+  while exact automorphisms are never observed
 version: 1
 source:
 - LIT-2843
@@ -37,7 +44,7 @@ summary: >-
   its NOTE.
 ---
 
-# THEORY-2055: Velarde, Parra, Hashemi and Makse show that in layered networks a covering partition of units, units with equal colour-summed input and output weights, can only coarsen under gradient descent, and report that tolerance-defined quasi-covers grow during training of an MLP, a CNN and an LSTM agent and allow compression to 17–18% of size with little loss, while exact automorphisms are never observed
+# THEORY-2055: Covering partitions only coarsen under GD
 
 ## The account
 

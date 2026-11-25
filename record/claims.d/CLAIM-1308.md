@@ -30,7 +30,14 @@ complements:
 - CLAIM-359
 grounds:
 - THEORY-1119
-title: "Restrictions on others' access to a process's internal states can be a condition of its individuation, preserving the independent inquiry, experimentation, association and internal governance through which it forms capacities of its own, and they differ from illegibility that obstructs justified correction by who observes, for what purpose, with what standing and on what terms, not by how much is disclosed"
+title: 'Access restrictions can condition individuation'
+statement: >-
+  Restrictions on others' access to a process's internal states can be a
+  condition of its individuation, preserving the independent inquiry,
+  experimentation, association and internal governance through which it
+  forms capacities of its own, and they differ from illegibility that
+  obstructs justified correction by who observes, for what purpose, with
+  what standing and on what terms, not by how much is disclosed
 summary: >-
   A42 §§6–7 and 10 of the exchange "Memes, Contracts, and Systemic
   Normativity" (ChatGPT, 2026-11-24), its proposition B, "Protected
@@ -45,7 +52,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1225 LIT-3254 LIT-3251 — Proposed or Deferred; the owner's thesis, the companion claim and the works A42 cites, unread -->
 
-# CLAIM-1308: Restrictions on others' access to a process's internal states can be a condition of its individuation, preserving the independent inquiry, experimentation, association and internal governance through which it forms capacities of its own, and they differ from illegibility that obstructs justified correction by who observes, for what purpose, with what standing and on what terms, not by how much is disclosed
+# CLAIM-1308: Access restrictions can condition individuation
 
 ## The claim
 

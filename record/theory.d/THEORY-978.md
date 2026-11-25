@@ -3,7 +3,12 @@ number: 978
 status: Active
 formerly:
 - THEORY-tmpblgxz
-title: 'Causal scrubbing scores a hypothesis through the partitions of the dataset that its interpretation nodes induce, so two hypotheses that assign different features to a node but induce the same partition on the dataset, such as two features perfectly correlated on it, receive the same score'
+title: 'Causal scrubbing can''t tell correlated features'
+statement: >-
+  Causal scrubbing scores a hypothesis through the partitions of the dataset
+  that its interpretation nodes induce, so two hypotheses that assign
+  different features to a node but induce the same partition on the dataset,
+  such as two features perfectly correlated on it, receive the same score
 version: 3
 history:
 - version: 1
@@ -56,7 +61,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; the account and claim this bears on, cited as open -->
 
-# THEORY-978: Causal scrubbing scores a hypothesis through the partitions of the dataset that its interpretation nodes induce, so two hypotheses that assign different features to a node but induce the same partition on the dataset, such as two features perfectly correlated on it, receive the same score
+# THEORY-978: Causal scrubbing can't tell correlated features
 
 ## Source
 

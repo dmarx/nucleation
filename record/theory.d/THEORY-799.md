@@ -4,7 +4,12 @@ status: 'Proposed'
 formerly:
 - THEORY-tmp2r4mq
 promote_when: "An exact computation or bound of how the average degree of the S¹ model flows under geometric coarse-graining that accounts for the short-range excess of the coarse-grained link probability over the S¹ form, giving ν(γ, β, r) for general r and confirming the phase boundaries γ = 3 and β = 2 with ν = 2/(γ − 1) − 1 or 2/β − 1 in the limit. It is refuted if the excess between neighbouring supernodes moves either boundary or changes the exponent's form. Further synthetic networks whose degree roughly follows r^ν cannot settle it, since the excess is largest where most links lie."
-title: 'Under geometric coarse-graining of the S¹ hidden-metric network model the average degree flows as r^ν, with ν = 2/(γ − 1) − 1 when the degree exponent γ sets it and 2/β − 1 when β does, so the coarse-grained networks run toward a complete graph for γ < 3 or β < 2 and toward a ring otherwise'
+title: 'Geometric coarse-graining drives degree as r^ν'
+statement: >-
+  Under geometric coarse-graining of the S¹ hidden-metric network model the
+  average degree flows as r^ν, with ν = 2/(γ − 1) − 1 when the degree
+  exponent γ sets it and 2/β − 1 when β does, so the coarse-grained networks
+  run toward a complete graph for γ < 3 or β < 2 and toward a ring otherwise
 version: 1
 tags:
 - network-science
@@ -21,7 +26,7 @@ answers:
 ---
 
 
-# THEORY-799: Under geometric coarse-graining of the S¹ hidden-metric network model the average degree flows as r^ν, with ν = 2/(γ − 1) − 1 when the degree exponent γ sets it and 2/β − 1 when β does, so the coarse-grained networks run toward a complete graph for γ < 3 or β < 2 and toward a ring otherwise
+# THEORY-799: Geometric coarse-graining drives degree as r^ν
 
 ## Source
 

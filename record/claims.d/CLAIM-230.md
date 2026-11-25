@@ -3,7 +3,12 @@ number: 230
 status: Active
 formerly:
 - CLAIM-tmpflbi3
-title: 'Blackwell comparison needs the state each rendering is about, which natural texts do not supply, so a decision measure is fixed by whoever labels the state, and it orders translation procedures, not single renderings'
+title: 'Blackwell orders procedures, not renderings'
+statement: >-
+  Blackwell comparison needs the state each rendering is about, which
+  natural texts do not supply, so a decision measure is fixed by whoever
+  labels the state, and it orders translation procedures, not single
+  renderings
 version: 3
 history:
 - version: 2
@@ -50,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the record's repair that meets this objection, cited as open -->
 
-# CLAIM-230: Blackwell comparison needs the state each rendering is about, which natural texts do not supply, so a decision measure is fixed by whoever labels the state, and it orders translation procedures, not single renderings
+# CLAIM-230: Blackwell orders procedures, not renderings
 
 ## The objection
 

@@ -3,7 +3,13 @@ number: 1279
 status: Proposed
 formerly:
 - CLAIM-tmphq6hp
-title: 'An expectation is an operative norm rather than a prediction when a discrepancy is met by bringing the behaviour back into line with the expectation instead of revising the expectation to fit the behaviour; which response a discrepancy gets, adaptation, enforcement, accommodation or revision, is the work of normative governance'
+title: 'Norm, not prediction, when deviation is corrected'
+statement: >-
+  An expectation is an operative norm rather than a prediction when a
+  discrepancy is met by bringing the behaviour back into line with the
+  expectation instead of revising the expectation to fit the behaviour;
+  which response a discrepancy gets, adaptation, enforcement, accommodation
+  or revision, is the work of normative governance
 version: 1
 role: thesis
 warrant: interpretive
@@ -49,7 +55,7 @@ summary: >-
 
 <!-- inactive-ok-file: TERM-151 CLAIM-942 LIT-493 — Proposed or Unavailable; the term this is stated in, the held claim on predicates, the stabilization claim filed with this, and Bicchieri's book -->
 
-# CLAIM-1279: An expectation is an operative norm rather than a prediction when a discrepancy is met by bringing the behaviour back into line with the expectation instead of revising the expectation to fit the behaviour; which response a discrepancy gets, adaptation, enforcement, accommodation or revision, is the work of normative governance
+# CLAIM-1279: Norm, not prediction, when deviation is corrected
 
 ## The claim
 

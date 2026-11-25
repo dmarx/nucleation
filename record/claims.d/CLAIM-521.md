@@ -3,7 +3,13 @@ number: 521
 status: Active
 formerly:
 - CLAIM-tmppht9k
-title: 'An organization''s present coupling strength need not reveal the stability of the process maintaining it: in a constructed system whose maintained connector and capacities set a three-unit coupling, the recovery rate of the maintenance goes to zero at its saddle-node while the coupling''s spectral gap there stays near 0.989'
+title: 'Coupling strength hides maintenance stability'
+statement: >-
+  An organization's present coupling strength need not reveal the stability
+  of the process maintaining it: in a constructed system whose maintained
+  connector and capacities set a three-unit coupling, the recovery rate of
+  the maintenance goes to zero at its saddle-node while the coupling's
+  spectral gap there stays near 0.989
 version: 3
 history:
 - version: 2
@@ -55,7 +61,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-521: An organization's present coupling strength need not reveal the stability of the process maintaining it: in a constructed system whose maintained connector and capacities set a three-unit coupling, the recovery rate of the maintenance goes to zero at its saddle-node while the coupling's spectral gap there stays near 0.989
+# CLAIM-521: Coupling strength hides maintenance stability
 
 ## The claim
 

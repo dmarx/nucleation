@@ -3,7 +3,14 @@ number: 163
 status: Active
 formerly:
 - THEORY-tmp64mn6
-title: "In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming systems of the World Color Survey languages and English lie near the information-bottleneck bound for compressing perceptual meanings into words, at a trade-off parameter just above 1 and nearer than hue-rotated variants of themselves, with the need distribution over meanings estimated from the naming data"
+title: 'Colour naming lies near the bottleneck bound'
+statement: >-
+  In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming
+  systems of the World Color Survey languages and English lie near the
+  information-bottleneck bound for compressing perceptual meanings into
+  words, at a trade-off parameter just above 1 and nearer than hue-rotated
+  variants of themselves, with the need distribution over meanings estimated
+  from the naming data
 version: 5
 history:
 - version: 2
@@ -62,7 +69,7 @@ bounds:
 ---
 <!-- inactive-ok-file: THEORY-791 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 
-# THEORY-163: In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming systems of the World Color Survey languages and English lie near the information-bottleneck bound for compressing perceptual meanings into words, at a trade-off parameter just above 1 and nearer than hue-rotated variants of themselves, with the need distribution over meanings estimated from the naming data
+# THEORY-163: Colour naming lies near the bottleneck bound
 
 ## Source
 

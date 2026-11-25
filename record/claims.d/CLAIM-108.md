@@ -3,7 +3,11 @@ number: 108
 status: Superseded
 formerly:
 - CLAIM-tmpvim0a
-title: 'Communicative identity is characterized by the observational structures and relations invariant or equivariant under specified classes of transformation, and fidelity by their preservation, deformation or loss'
+title: 'Identity as invariance, fidelity as preservation'
+statement: >-
+  Communicative identity is characterized by the observational structures
+  and relations invariant or equivariant under specified classes of
+  transformation, and fidelity by their preservation, deformation or loss
 version: 1
 role: thesis
 warrant: interpretive
@@ -35,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-017 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
-# CLAIM-108: Communicative identity is characterized by the observational structures and relations invariant or equivariant under specified classes of transformation, and fidelity by their preservation, deformation or loss
+# CLAIM-108: Identity as invariance, fidelity as preservation
 
 ## The claim
 

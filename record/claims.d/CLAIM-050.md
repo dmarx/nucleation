@@ -3,7 +3,12 @@ number: 50
 status: Active
 formerly:
 - CLAIM-tmpek80j
-title: 'For report fidelity, fidelity is relative to the communicative decisions receivers make, and Blackwell''s order on rendering procedures, over a designed distribution of situations, makes precise the ceiling a rendering sets on those decisions'
+title: 'Blackwell order bounds report fidelity'
+statement: >-
+  For report fidelity, fidelity is relative to the communicative decisions
+  receivers make, and Blackwell's order on rendering procedures, over a
+  designed distribution of situations, makes precise the ceiling a rendering
+  sets on those decisions
 version: 7
 history:
 - version: 2
@@ -104,7 +109,7 @@ complements:
 <!-- inactive-ok-file: LIT-778 LIT-767 — Unavailable; quoted as the manuscript's steps, which moved to CLAIM-488 -->
 <!-- inactive-ok-file: CLAIM-212 — Proposed; the record's replies that scope this claim's restated condition, cited as open -->
 
-# CLAIM-050: For report fidelity, fidelity is relative to the communicative decisions receivers make, and Blackwell's order on rendering procedures, over a designed distribution of situations, makes precise the ceiling a rendering sets on those decisions
+# CLAIM-050: Blackwell order bounds report fidelity
 
 ## The claim
 

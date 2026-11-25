@@ -10,7 +10,14 @@ promote_when: >-
   equals the local count of sites and bonds plus the topological count
   from the bulk winding numbers, including floppy modes or states of
   self-stress at an interface where the local count balances.
-title: 'Kane and Lubensky show that in isostatic lattices the number of zero modes in a region equals a local count of sites and bonds plus a topological count fixed by winding numbers of the bulk equilibrium matrix, so that gapped phases of different topological polarization carry protected floppy modes or states of self-stress at their boundaries and interfaces even where degrees of freedom and constraints locally balance'
+title: 'Topological count fixes isostatic zero modes'
+statement: >-
+  Kane and Lubensky show that in isostatic lattices the number of zero modes
+  in a region equals a local count of sites and bonds plus a topological
+  count fixed by winding numbers of the bulk equilibrium matrix, so that
+  gapped phases of different topological polarization carry protected floppy
+  modes or states of self-stress at their boundaries and interfaces even
+  where degrees of freedom and constraints locally balance
 version: 1
 tags:
 - natural-sciences
@@ -30,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2010 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1369 — Proposed and new; the related account from Chen et al. (2016), cited as open -->
 
-# THEORY-1408: Kane and Lubensky show that in isostatic lattices the number of zero modes in a region equals a local count of sites and bonds plus a topological count fixed by winding numbers of the bulk equilibrium matrix, so that gapped phases of different topological polarization carry protected floppy modes or states of self-stress at their boundaries and interfaces even where degrees of freedom and constraints locally balance
+# THEORY-1408: Topological count fixes isostatic zero modes
 
 ## Source
 

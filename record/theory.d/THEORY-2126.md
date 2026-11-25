@@ -3,7 +3,13 @@ number: 2126
 status: Proposed
 formerly:
 - THEORY-tmpvst9f
-title: 'Choifer argues that Piaget''s egocentrism is an undifferentiation of self and other rather than a preference for one''s own view, that children under about four switch between vantage points without assigning them to anyone, and that only passing false belief shows the other grasped as an epistemically separate subject'
+title: 'Egocentrism is self–other undifferentiation'
+statement: >-
+  Choifer argues that Piaget's egocentrism is an undifferentiation of self
+  and other rather than a preference for one's own view, that children under
+  about four switch between vantage points without assigning them to anyone,
+  and that only passing false belief shows the other grasped as an
+  epistemically separate subject
 version: 1
 source:
 - LIT-2892
@@ -22,7 +28,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2126: Choifer argues that Piaget's egocentrism is an undifferentiation of self and other rather than a preference for one's own view, that children under about four switch between vantage points without assigning them to anyone, and that only passing false belief shows the other grasped as an epistemically separate subject
+# THEORY-2126: Egocentrism is self–other undifferentiation
 
 ## The account
 

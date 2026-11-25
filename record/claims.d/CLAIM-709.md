@@ -3,7 +3,14 @@ number: 709
 status: Proposed
 formerly:
 - CLAIM-tmpp8na7
-title: 'Equality of wrongdoing and equality of power are separate questions: two parties can each act wrongly, even as often, while only one holds control over the terms of the other''s life, so a tally of wrongful acts does not settle who is responsible for the relationship''s coercive structure, and a finding of that control does not excuse the controlled party''s own wrongful acts'
+title: 'Equal wrongdoing is not equal power'
+statement: >-
+  Equality of wrongdoing and equality of power are separate questions: two
+  parties can each act wrongly, even as often, while only one holds control
+  over the terms of the other's life, so a tally of wrongful acts does not
+  settle who is responsible for the relationship's coercive structure, and a
+  finding of that control does not excuse the controlled party's own
+  wrongful acts
 version: 14
 history:
 - version: 2
@@ -119,7 +126,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-279 CLAIM-708 ARG-113 — filed with this claim, Proposed -->
 <!-- inactive-ok-file: CLAIM-690 CLAIM-545 TERM-124 — Proposed; the organizational form, domination and self-governance, cited with their standing -->
 
-# CLAIM-709: Equality of wrongdoing and equality of power are separate questions: two parties can each act wrongly, even as often, while only one holds control over the terms of the other's life, so a tally of wrongful acts does not settle who is responsible for the relationship's coercive structure, and a finding of that control does not excuse the controlled party's own wrongful acts
+# CLAIM-709: Equal wrongdoing is not equal power
 
 ## The claim
 

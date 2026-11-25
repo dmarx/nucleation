@@ -9,7 +9,13 @@ promote_when: >-
   agents whose behaviour responds to the principal's past incentives, under
   adverse selection or moral hazard, is not solved by the economic, control
   or online-learning approaches taken singly.
-title: 'Ratliff, Dong, Sekar and Fiez hold that economics, control theory and online learning each solve only part of incentive design, so that designing incentives for returning agents whose behaviour changes with the principal''s own past incentives, under hidden types or hidden actions, remains open'
+title: 'Incentive design for returning agents is open'
+statement: >-
+  Ratliff, Dong, Sekar and Fiez hold that economics, control theory and
+  online learning each solve only part of incentive design, so that
+  designing incentives for returning agents whose behaviour changes with the
+  principal's own past incentives, under hidden types or hidden actions,
+  remains open
 version: 1
 tags:
 - game-theory
@@ -26,7 +32,7 @@ summary: >-
   commitment, which treats one case of it.
 ---
 
-# THEORY-1371: Ratliff, Dong, Sekar and Fiez hold that economics, control theory and online learning each solve only part of incentive design, so that designing incentives for returning agents whose behaviour changes with the principal's own past incentives, under hidden types or hidden actions, remains open
+# THEORY-1371: Incentive design for returning agents is open
 
 ## Source
 

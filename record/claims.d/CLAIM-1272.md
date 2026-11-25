@@ -3,7 +3,15 @@ number: 1272
 status: Proposed
 formerly:
 - CLAIM-tmpggu4v
-title: 'Beside insufficient adjustment and selective accessibility, an anchor may act by nucleation, helping a new response organization form that then maintains itself, so its influence outlasts the anchor; the mechanisms part on what follows the anchor''s removal, influence that declines with further adjustment against persistence, hysteresis or transfer, and the same contrast separates a transient framing effect from a durable change of perspective'
+title: 'Anchoring by nucleation outlasts the anchor'
+statement: >-
+  Beside insufficient adjustment and selective accessibility, an anchor may
+  act by nucleation, helping a new response organization form that then
+  maintains itself, so its influence outlasts the anchor; the mechanisms
+  part on what follows the anchor's removal, influence that declines with
+  further adjustment against persistence, hysteresis or transfer, and the
+  same contrast separates a transient framing effect from a durable change
+  of perspective
 version: 1
 role: thesis
 warrant: interpretive
@@ -44,7 +52,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-315 CLAIM-298 LIT-3210 — Proposed, Deferred or new; the held anchoring and framing claims, the framing work and the test -->
 
-# CLAIM-1272: Beside insufficient adjustment and selective accessibility, an anchor may act by nucleation, helping a new response organization form that then maintains itself, so its influence outlasts the anchor; the mechanisms part on what follows the anchor's removal, influence that declines with further adjustment against persistence, hysteresis or transfer, and the same contrast separates a transient framing effect from a durable change of perspective
+# CLAIM-1272: Anchoring by nucleation outlasts the anchor
 
 ## The claim
 

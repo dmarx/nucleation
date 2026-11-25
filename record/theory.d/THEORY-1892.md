@@ -13,7 +13,14 @@ promote_when: >-
   near chance. It is refuted if, at equal single-task accuracy,
   linearised and ordinary task vectors add equally well, since then the
   gain is single-task fit and not disentanglement.
-title: 'Ortiz-Jimenez, Favero and Frossard: task arithmetic in CLIP ViTs is not explained by fine-tuning in the linear regime, since they do not fine-tune in it, but by weight disentanglement, each task vector changing the output only on its own task''s inputs; pretraining supplies it, and fine-tuning the model''s linearisation strengthens it and improves task addition and negation'
+title: 'Task arithmetic rests on weight disentanglement'
+statement: >-
+  Ortiz-Jimenez, Favero and Frossard: task arithmetic in CLIP ViTs is not
+  explained by fine-tuning in the linear regime, since they do not fine-tune
+  in it, but by weight disentanglement, each task vector changing the output
+  only on its own task's inputs; pretraining supplies it, and fine-tuning
+  the model's linearisation strengthens it and improves task addition and
+  negation
 version: 1
 tags:
 - loss-landscapes
@@ -38,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1904 THEORY-107 THEORY-1890 — new tmp codes, or Proposed; source, reading and neighbouring accounts, named and not leaned on -->
 
-# THEORY-1892: Ortiz-Jimenez, Favero and Frossard: task arithmetic in CLIP ViTs is not explained by fine-tuning in the linear regime, since they do not fine-tune in it, but by weight disentanglement, each task vector changing the output only on its own task's inputs; pretraining supplies it, and fine-tuning the model's linearisation strengthens it and improves task addition and negation
+# THEORY-1892: Task arithmetic rests on weight disentanglement
 
 ## Source
 

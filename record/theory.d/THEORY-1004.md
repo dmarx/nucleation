@@ -16,7 +16,15 @@ promote_when: >-
   token-specificity score shows no trend, or if nearby-checkpoint nulls
   show as much redistribution as the paper's pairs. More annotated
   examples cannot settle it.
-title: 'In Pythia-1B, OLMo-1B and BLOOM-1B, the crosscoder features that most affect subject–verb agreement change over pretraining: at early checkpoints they detect particular tokens and subtokens, at later ones grammatical categories; in BLOOM, language-specific features give way to features shared across English, French, Spanish and Portuguese while Hindi and Arabic keep language-specific ones; and which features matter keeps shifting after task accuracy has stopped improving'
+title: 'Agreement features shift from tokens to grammar'
+statement: >-
+  In Pythia-1B, OLMo-1B and BLOOM-1B, the crosscoder features that most
+  affect subject–verb agreement change over pretraining: at early
+  checkpoints they detect particular tokens and subtokens, at later ones
+  grammatical categories; in BLOOM, language-specific features give way to
+  features shared across English, French, Spanish and Portuguese while Hindi
+  and Arabic keep language-specific ones; and which features matter keeps
+  shifting after task accuracy has stopped improving
 version: 1
 history:
 - version: 1
@@ -42,7 +50,7 @@ summary: >-
   feature carried forward from one re-learned in the same direction.
 ---
 <!-- inactive-ok-file: THEORY-279 — Proposed; the thesis on continuity by transmission and a neighbouring account, cited as open -->
-# THEORY-1004: In Pythia-1B, OLMo-1B and BLOOM-1B, the crosscoder features that most affect subject–verb agreement change over pretraining: at early checkpoints they detect particular tokens and subtokens, at later ones grammatical categories; in BLOOM, language-specific features give way to features shared across English, French, Spanish and Portuguese while Hindi and Arabic keep language-specific ones; and which features matter keeps shifting after task accuracy has stopped improving
+# THEORY-1004: Agreement features shift from tokens to grammar
 
 ## Source
 

@@ -16,7 +16,14 @@ promote_when: >-
   of symbiont functions by imported proteins is found before any effector
   targeting, or genetic integration is found in a horizontally acquired
   symbiosis.
-title: 'An endosymbiont becomes an organelle in steps: the host first targets effector proteins into it; an imported host protein redundant with one of its functions then lets the endosymbiont''s own gene decay, making it dependent; and a general import pathway, once evolved, brings in hundreds of proteins; this genetic integration arises only in permanent, vertically transmitted associations'
+title: 'Endosymbionts become organelles in steps'
+statement: >-
+  An endosymbiont becomes an organelle in steps: the host first targets
+  effector proteins into it; an imported host protein redundant with one of
+  its functions then lets the endosymbiont's own gene decay, making it
+  dependent; and a general import pathway, once evolved, brings in hundreds
+  of proteins; this genetic integration arises only in permanent, vertically
+  transmitted associations
 version: 1
 tags:
 - endosymbiosis
@@ -37,7 +44,7 @@ summary: >-
   its promote_when is [THEORY-1107](THEORY-1107.md)'s old condition, word for word.
 ---
 
-# THEORY-1211: An endosymbiont becomes an organelle in steps: the host first targets effector proteins into it; an imported host protein redundant with one of its functions then lets the endosymbiont's own gene decay, making it dependent; and a general import pathway, once evolved, brings in hundreds of proteins; this genetic integration arises only in permanent, vertically transmitted associations
+# THEORY-1211: Endosymbionts become organelles in steps
 
 ## Source
 

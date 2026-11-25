@@ -3,7 +3,15 @@ number: 2073
 status: Proposed
 formerly:
 - THEORY-tmplutfz
-title: 'Gururangan and colleagues show that continuing to pretrain RoBERTa on unlabelled text from a task''s domain, or from the task''s own training set, before fine-tuning raises end-task performance across four domains, most where the domain is far from the original corpus, that domain then task adaptation is the best order they tried, and that adaptation to an irrelevant domain or to another task''s text generally leaves end-task performance below no adaptation'
+title: 'Domain-adaptive pretraining raises end tasks'
+statement: >-
+  Gururangan and colleagues show that continuing to pretrain RoBERTa on
+  unlabelled text from a task's domain, or from the task's own training set,
+  before fine-tuning raises end-task performance across four domains, most
+  where the domain is far from the original corpus, that domain then task
+  adaptation is the best order they tried, and that adaptation to an
+  irrelevant domain or to another task's text generally leaves end-task
+  performance below no adaptation
 version: 1
 source:
 - LIT-2867
@@ -22,7 +30,7 @@ summary: >-
   not a cost one. Proposed until its promote_when is met.
 ---
 
-# THEORY-2073: Gururangan and colleagues show that continuing to pretrain RoBERTa on unlabelled text from a task's domain, or from the task's own training set, before fine-tuning raises end-task performance across four domains, most where the domain is far from the original corpus, that domain then task adaptation is the best order they tried, and that adaptation to an irrelevant domain or to another task's text generally leaves end-task performance below no adaptation
+# THEORY-2073: Domain-adaptive pretraining raises end tasks
 
 ## The account
 

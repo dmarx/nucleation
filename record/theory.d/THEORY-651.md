@@ -3,7 +3,16 @@ number: 651
 status: Active
 formerly:
 - THEORY-tmpvi4bd
-title: 'Disinformation incidents labelled with DISARM techniques can be carried in standard STIX 2.1 without extending it, as an intrusion set that uses attack patterns, is attributed to a threat actor and targets locations; the DISINFOX mapping that moved 118 incidents into OpenCTI this way keeps only a name, a free-text description, a first-seen date and labels beside those three relationships, with no object or property for an incident''s narratives, channels, evidence or countermeasures or for the confidence of its attribution'
+title: 'STIX holds disinformation, losing most detail'
+statement: >-
+  Disinformation incidents labelled with DISARM techniques can be carried in
+  standard STIX 2.1 without extending it, as an intrusion set that uses
+  attack patterns, is attributed to a threat actor and targets locations;
+  the DISINFOX mapping that moved 118 incidents into OpenCTI this way keeps
+  only a name, a free-text description, a first-seen date and labels beside
+  those three relationships, with no object or property for an incident's
+  narratives, channels, evidence or countermeasures or for the confidence of
+  its attribution
 version: 2
 history:
 - version: 2
@@ -55,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1238 — Proposed; filed beside this reading by the twenty-fourth status review: whether the representation survives exchange and sharing helps -->
 <!-- inactive-ok-file: LIT-083 — Proposed; the preprint this account reports, read in full in NOTE-028; its standing is the LIT's question -->
 
-# THEORY-651: Disinformation incidents labelled with DISARM techniques can be carried in standard STIX 2.1 without extending it, as an intrusion set that uses attack patterns, is attributed to a threat actor and targets locations; the DISINFOX mapping that moved 118 incidents into OpenCTI this way keeps only a name, a free-text description, a first-seen date and labels beside those three relationships, with no object or property for an incident's narratives, channels, evidence or countermeasures or for the confidence of its attribution
+# THEORY-651: STIX holds disinformation, losing most detail
 
 ## Source
 

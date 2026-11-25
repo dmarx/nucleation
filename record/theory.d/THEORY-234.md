@@ -3,7 +3,13 @@ number: 234
 status: Active
 formerly:
 - THEORY-tmpoa03p
-title: "Two softmax next-token predictors induce the same distribution exactly when their embeddings and unembeddings are related by an invertible linear map on the subspaces that enter the logits, with arbitrary distortion off them, so a linear relational property is shared by all such models or none when it lies in those subspaces, and can fail to be shared otherwise"
+title: 'Equal LM laws fix embeddings up to linear maps'
+statement: >-
+  Two softmax next-token predictors induce the same distribution exactly
+  when their embeddings and unembeddings are related by an invertible linear
+  map on the subspaces that enter the logits, with arbitrary distortion off
+  them, so a linear relational property is shared by all such models or none
+  when it lies in those subspaces, and can fail to be shared otherwise
 version: 3
 history:
 - version: 2
@@ -54,7 +60,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-193 CLAIM-209 THEORY-002 — Open or Proposed; cited for context, nothing here rests on them -->
 
-# THEORY-234: Two softmax next-token predictors induce the same distribution exactly when their embeddings and unembeddings are related by an invertible linear map on the subspaces that enter the logits, with arbitrary distortion off them, so a linear relational property is shared by all such models or none when it lies in those subspaces, and can fail to be shared otherwise
+# THEORY-234: Equal LM laws fix embeddings up to linear maps
 
 ## Source
 

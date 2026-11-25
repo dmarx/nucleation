@@ -17,7 +17,15 @@ promote_when: >-
   for a reported phenomenal property to cause its own encoding (Arrow B)
   that physics allows. Further arguments that we are certain we feel
   cannot settle it, since the account predicts that certainty.
-title: 'Claims to be conscious are produced by an automatic internal model, and since such models are schematic, the intangible, what-it-is-like essence people report is that model''s caricature of a real process, proposed to be attention, or the deep selective processing of information that attention, the global workspace and integration share; a theory that explains how neurons produce a feeling without explaining how the feeling comes to be encoded for report (Arrow B) does not explain the reports'
+title: 'Consciousness claims caricature attention'
+statement: >-
+  Claims to be conscious are produced by an automatic internal model, and
+  since such models are schematic, the intangible, what-it-is-like essence
+  people report is that model's caricature of a real process, proposed to be
+  attention, or the deep selective processing of information that attention,
+  the global workspace and integration share; a theory that explains how
+  neurons produce a feeling without explaining how the feeling comes to be
+  encoded for report (Arrow B) does not explain the reports
 version: 2
 history:
 - version: 2
@@ -47,7 +55,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-633 THEORY-577 THEORY-064 CLAIM-355 CLAIM-412 — Proposed; claims, terms and readings cited as open, nothing here rests on them -->
 
-# THEORY-873: Claims to be conscious are produced by an automatic internal model, and since such models are schematic, the intangible, what-it-is-like essence people report is that model's caricature of a real process, proposed to be attention, or the deep selective processing of information that attention, the global workspace and integration share; a theory that explains how neurons produce a feeling without explaining how the feeling comes to be encoded for report (Arrow B) does not explain the reports
+# THEORY-873: Consciousness claims caricature attention
 
 ## Source
 

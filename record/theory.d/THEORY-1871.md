@@ -12,7 +12,16 @@ promote_when: >-
   appears once the number of stored associations exceeds the key feature
   dimension d_dot. The delta-rule clause needs only Eq. 24 checked from
   Eqs. 20–23. Results on language-model perplexity cannot settle it.
-title: 'Causal self-attention with the softmax removed, or replaced by a kernel φ(k)ᵀφ(q), computes what a fast weight programmer computes, apart from the kernel''s normalisation: a fast weight matrix that is the running sum of the outer products v ⊗ φ(k) of the keys and values so far, read by the query; such a layer can store at most about d_dot associations without crosstalk, and a delta-rule write that first removes the value a key already retrieves lets the memory replace an association it holds, as Schlag, Irie and Schmidhuber derive and show on synthetic retrieval'
+title: 'Linear attention is a fast weight programmer'
+statement: >-
+  Causal self-attention with the softmax removed, or replaced by a kernel
+  φ(k)ᵀφ(q), computes what a fast weight programmer computes, apart from the
+  kernel's normalisation: a fast weight matrix that is the running sum of
+  the outer products v ⊗ φ(k) of the keys and values so far, read by the
+  query; such a layer can store at most about d_dot associations without
+  crosstalk, and a delta-rule write that first removes the value a key
+  already retrieves lets the memory replace an association it holds, as
+  Schlag, Irie and Schmidhuber derive and show on synthetic retrieval
 version: 1
 history:
 - version: 1
@@ -43,7 +52,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1030 — Proposed; the FFN-memory reading, cited as open -->
 
-# THEORY-1871: Causal self-attention with the softmax removed, or replaced by a kernel φ(k)ᵀφ(q), computes what a fast weight programmer computes, apart from the kernel's normalisation: a fast weight matrix that is the running sum of the outer products v ⊗ φ(k) of the keys and values so far, read by the query; such a layer can store at most about d_dot associations without crosstalk, and a delta-rule write that first removes the value a key already retrieves lets the memory replace an association it holds, as Schlag, Irie and Schmidhuber derive and show on synthetic retrieval
+# THEORY-1871: Linear attention is a fast weight programmer
 
 ## Source
 

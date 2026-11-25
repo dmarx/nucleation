@@ -3,9 +3,11 @@ number: 1198
 status: Proposed
 formerly:
 - CLAIM-tmpyakra
-title: What regulation should conserve in an industrial ecosystem is often a capability
-  and the conditions of its reproduction, its infrastructure, expertise and access,
-  and not the organization that now performs it
+title: 'Conserve capabilities, not current performers'
+statement: >-
+  What regulation should conserve in an industrial ecosystem is often a
+  capability and the conditions of its reproduction, its infrastructure,
+  expertise and access, and not the organization that now performs it
 version: 1
 role: thesis
 warrant: interpretive
@@ -37,7 +39,7 @@ bears_on:
 
 <!-- inactive-ok-file: CLAIM-916 — Proposed; named in its defeater -->
 
-# CLAIM-1198: What regulation should conserve in an industrial ecosystem is often a capability and the conditions of its reproduction, its infrastructure, expertise and access, and not the organization that now performs it
+# CLAIM-1198: Conserve capabilities, not current performers
 
 ## The claim
 

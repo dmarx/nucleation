@@ -3,7 +3,11 @@ number: 185
 status: Proposed
 formerly:
 - CLAIM-tmpu984q
-title: 'The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors'
+title: 'Nucleation threshold is persistence'
+statement: >-
+  The nucleation threshold of an argument is whatever makes a structure
+  persist: a persistent structure is available as an anchor, and more
+  complex structure can evolve only on anchors
 version: 4
 history:
 - version: 2
@@ -71,7 +75,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-181 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-176 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
-# CLAIM-185: The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors
+# CLAIM-185: Nucleation threshold is persistence
 
 ## The claim
 

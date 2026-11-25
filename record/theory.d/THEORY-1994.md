@@ -7,7 +7,13 @@ promote_when: >-
   A check of the second paragraph against the National Archives
   transcription, or another official text, confirms the quotations. The
   title asserts what the Declaration says, not that it is true.
-title: 'The Declaration of Independence asserts that all men are endowed with unalienable rights, that governments are instituted to secure them and derive their just powers from the consent of the governed, and that when a government becomes destructive of these ends the people have a right to alter or abolish it, though not for light and transient causes'
+title: 'Governments rest on consent and may be abolished'
+statement: >-
+  The Declaration of Independence asserts that all men are endowed with
+  unalienable rights, that governments are instituted to secure them and
+  derive their just powers from the consent of the governed, and that when a
+  government becomes destructive of these ends the people have a right to
+  alter or abolish it, though not for light and transient causes
 version: 1
 tags:
 - society-and-governance
@@ -27,7 +33,7 @@ summary: >-
   owner's call.
 ---
 
-# THEORY-1994: The Declaration of Independence asserts that all men are endowed with unalienable rights, that governments are instituted to secure them and derive their just powers from the consent of the governed, and that when a government becomes destructive of these ends the people have a right to alter or abolish it, though not for light and transient causes
+# THEORY-1994: Governments rest on consent and may be abolished
 
 The Declaration of Independence (1776), [LIT-2759](../literature.d/LIT-2759.md).
 

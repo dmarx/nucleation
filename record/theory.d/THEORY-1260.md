@@ -3,7 +3,15 @@ number: 1260
 status: Active
 formerly:
 - THEORY-tmpg84fa
-title: 'Richens et al.''s sense of "an agent contains a world model" is that the transition function can be computed from the agent''s goal-conditioned input-output map, uniquely to within the theorem''s error, so the attribution is not a stance an observer may withhold, unlike a representation-theorem fit; but it holds of every implementation of the same map, a lookup table included, and so cannot show that a predictive component is realized inside the agent'
+title: 'Extractable world models needn''t be inside agents'
+statement: >-
+  Richens et al.'s sense of "an agent contains a world model" is that the
+  transition function can be computed from the agent's goal-conditioned
+  input-output map, uniquely to within the theorem's error, so the
+  attribution is not a stance an observer may withhold, unlike a
+  representation-theorem fit; but it holds of every implementation of the
+  same map, a lookup table included, and so cannot show that a predictive
+  component is realized inside the agent
 version: 1
 tags:
 - agency
@@ -27,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-092 — Proposed; Block's argument, cited as open -->
 
-# THEORY-1260: Richens et al.'s sense of "an agent contains a world model" is that the transition function can be computed from the agent's goal-conditioned input-output map, uniquely to within the theorem's error, so the attribution is not a stance an observer may withhold, unlike a representation-theorem fit; but it holds of every implementation of the same map, a lookup table included, and so cannot show that a predictive component is realized inside the agent
+# THEORY-1260: Extractable world models needn't be inside agents
 
 ## Source
 

@@ -15,7 +15,13 @@ promote_when: >-
   metabolism is universal and stable cannot settle it, since common
   descent explains that equally well, as the authors concede; neither can
   the analogy with lightning and hurricanes.
-title: "Life was forced into existence by geochemistry: core metabolism, rooted in the reductive citric-acid cycle, formed as a channel relieving the free-energy stresses abiotic processes keep building, as lightning relieves a charge separation, so its early steps would recur on any similar planet and selection on metabolism came before replication"
+title: 'Geochemistry forced metabolism into existence'
+statement: >-
+  Life was forced into existence by geochemistry: core metabolism, rooted in
+  the reductive citric-acid cycle, formed as a channel relieving the
+  free-energy stresses abiotic processes keep building, as lightning
+  relieves a charge separation, so its early steps would recur on any
+  similar planet and selection on metabolism came before replication
 version: 1
 tags:
 - thermodynamics
@@ -36,7 +42,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-072 THEORY-532 THEORY-671 — Proposed; named as neighbouring and contrary accounts, not leaned on -->
 
-# THEORY-492: Life was forced into existence by geochemistry: core metabolism, rooted in the reductive citric-acid cycle, formed as a channel relieving the free-energy stresses abiotic processes keep building, as lightning relieves a charge separation, so its early steps would recur on any similar planet and selection on metabolism came before replication
+# THEORY-492: Geochemistry forced metabolism into existence
 
 ## Source
 

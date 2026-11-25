@@ -3,7 +3,11 @@ number: 8
 status: Active
 formerly:
 - THEORY-tmpqq4es
-title: 'On a finite set of stimuli, what a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement'
+title: 'Linear decodability is a function of the kernel'
+statement: >-
+  On a finite set of stimuli, what a regularized linear readout can decode
+  from a representation is a function of its normalized kernel, and CKA, CCA
+  and GULP are averages of readout agreement
 version: 6
 history:
 - version: 2
@@ -76,7 +80,7 @@ bears_on:
 - QUESTION-136
 ---
 
-# THEORY-008: On a finite set of stimuli, what a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
+# THEORY-008: Linear decodability is a function of the kernel
 
 ## Source
 

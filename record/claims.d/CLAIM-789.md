@@ -3,7 +3,13 @@ number: 789
 status: Proposed
 formerly:
 - CLAIM-tmp0kqq4
-title: 'In any inquiry whose sources are revised, copying exactly anchors a copy to the version it was taken from, so the copy keeps what a later revision removed: exact copying conserves staleness as faithfully as content, and what anchors a derived text to a revisable source is a tie to the source that a revision has to pass through, not exactness'
+title: 'Exact copying conserves staleness'
+statement: >-
+  In any inquiry whose sources are revised, copying exactly anchors a copy
+  to the version it was taken from, so the copy keeps what a later revision
+  removed: exact copying conserves staleness as faithfully as content, and
+  what anchors a derived text to a revisable source is a tie to the source
+  that a revision has to pass through, not exactness
 version: 2
 history:
 - version: 2
@@ -56,7 +62,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-772 RETRO-004 — Proposed or Draft; the claim objected to and the case -->
 
-# CLAIM-789: In any inquiry whose sources are revised, copying exactly anchors a copy to the version it was taken from, so the copy keeps what a later revision removed: exact copying conserves staleness as faithfully as content, and what anchors a derived text to a revisable source is a tie to the source that a revision has to pass through, not exactness
+# CLAIM-789: Exact copying conserves staleness
 
 ## The objection
 

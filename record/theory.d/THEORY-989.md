@@ -12,7 +12,13 @@ promote_when: >-
   such an estimate puts LDA level with or ahead of hLDA there. A further
   harmonic-mean comparison cannot settle it, since that is the evidence it
   already rests on.
-title: 'On the abstracts of the Journal of the ACM, the held-out likelihood of infinite-depth hierarchical LDA is higher than that of flat LDA at every fixed topic count in a range bracketing hLDA''s own posterior topic count, about 140, though the authors expect flat LDA to win once the topic count is free'
+title: 'hLDA beats flat LDA on held-out JACM abstracts'
+statement: >-
+  On the abstracts of the Journal of the ACM, the held-out likelihood of
+  infinite-depth hierarchical LDA is higher than that of flat LDA at every
+  fixed topic count in a range bracketing hLDA's own posterior topic count,
+  about 140, though the authors expect flat LDA to win once the topic count
+  is free
 version: 1
 history:
 - version: 1
@@ -38,7 +44,7 @@ summary: >-
   topic counts.
 ---
 
-# THEORY-989: On the abstracts of the Journal of the ACM, the held-out likelihood of infinite-depth hierarchical LDA is higher than that of flat LDA at every fixed topic count in a range bracketing hLDA's own posterior topic count, about 140, though the authors expect flat LDA to win once the topic count is free
+# THEORY-989: hLDA beats flat LDA on held-out JACM abstracts
 
 ## Source
 

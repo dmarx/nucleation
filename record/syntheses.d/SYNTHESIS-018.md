@@ -3,7 +3,16 @@ number: 18
 status: Proposed
 formerly:
 - SYNTHESIS-tmpa0kd0
-title: 'A corporation can bear functional affect in Frijda''s sense, without its implying experience, and so can be read as lacking remorse when others'' harms reach its decisions only as threats, a reading Wells Fargo''s sales practices document and an unanswered objection says cannot be told from prudence; the functional reading is held back by the identity of valence with a felt state, whether such affect needs a group subject or is fixed by the attributor''s concept is open, and the line''s first framing, what it is like to be a corporation, is retired'
+title: 'Corporations can bear affect without experience'
+statement: >-
+  A corporation can bear functional affect in Frijda's sense, without its
+  implying experience, and so can be read as lacking remorse when others'
+  harms reach its decisions only as threats, a reading Wells Fargo's sales
+  practices document and an unanswered objection says cannot be told from
+  prudence; the functional reading is held back by the identity of valence
+  with a felt state, whether such affect needs a group subject or is fixed
+  by the attributor's concept is open, and the line's first framing, what it
+  is like to be a corporation, is retired
 version: 2
 history:
 - version: 2
@@ -45,7 +54,7 @@ integrates:
 <!-- inactive-ok-file: QUESTION-019 — Superseded; a component, replaced by QUESTION-015 -->
 <!-- inactive-ok-file: QUESTION-015 — Answered; the question that replaced QUESTION-019 -->
 
-# SYNTHESIS-018: A corporation can bear functional affect in Frijda's sense, without its implying experience, and so can be read as lacking remorse when others' harms reach its decisions only as threats, a reading Wells Fargo's sales practices document and an unanswered objection says cannot be told from prudence; the functional reading is held back by the identity of valence with a felt state, whether such affect needs a group subject or is fixed by the attributor's concept is open, and the line's first framing, what it is like to be a corporation, is retired
+# SYNTHESIS-018: Corporations can bear affect without experience
 
 *A part account of the organizational-affect line ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)): corporate affect and responsibility. The line's account is built over it and its two sibling parts, [SYNTHESIS-020](SYNTHESIS-020.md) (the potential account of valence) and [SYNTHESIS-022](SYNTHESIS-022.md) (feeling and access).*
 

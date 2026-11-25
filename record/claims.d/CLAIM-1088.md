@@ -3,7 +3,17 @@ number: 1088
 status: Proposed
 formerly:
 - CLAIM-tmpervl4
-title: 'Within large populations of phase oscillators coupled through the first harmonic with spread frequencies, Ott and Antonsen''s reduction meets the rate-difference claim''s first defeater: the order parameter''s closed law is in place over the time scale of the dynamics it governs, the approach to it is by phase mixing with no condition that it be faster than that dynamics, and the off-manifold parts are not slower or more persistent than the process but simply averaged out; so the claim should name invariant-manifold closure reached by phase mixing as a route to effective constraint on which rate differences do no work'
+title: 'Phase mixing closes without rate differences'
+statement: >-
+  Within large populations of phase oscillators coupled through the first
+  harmonic with spread frequencies, Ott and Antonsen's reduction meets the
+  rate-difference claim's first defeater: the order parameter's closed law
+  is in place over the time scale of the dynamics it governs, the approach
+  to it is by phase mixing with no condition that it be faster than that
+  dynamics, and the off-manifold parts are not slower or more persistent
+  than the process but simply averaged out; so the claim should name
+  invariant-manifold closure reached by phase mixing as a route to effective
+  constraint on which rate differences do no work
 version: 1
 role: counter
 warrant: interpretive
@@ -45,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1058 THEORY-2276 ARG-220 — Proposed or new; filed with this claim for LEAD-094 -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim this objects to and a claim on the same oscillators -->
 
-# CLAIM-1088: Within large populations of phase oscillators coupled through the first harmonic with spread frequencies, Ott and Antonsen's reduction meets the rate-difference claim's first defeater: the order parameter's closed law is in place over the time scale of the dynamics it governs, the approach to it is by phase mixing with no condition that it be faster than that dynamics, and the off-manifold parts are not slower or more persistent than the process but simply averaged out; so the claim should name invariant-manifold closure reached by phase mixing as a route to effective constraint on which rate differences do no work
+# CLAIM-1088: Phase mixing closes without rate differences
 
 ## The objection
 

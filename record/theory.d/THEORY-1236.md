@@ -14,7 +14,12 @@ promote_when: >-
   if accidentally optimal devices come out as agents where an
   interventional test says they are not. Further toy trajectories, or the
   formalism's coherence, cannot settle it.
-title: 'Agency is relative to an observer: an identified system is an agent, for that observer, to the degree that a description of the function it optimises explains its behaviour better under the observer''s prior than any description of its input-output mapping'
+title: 'Agency is relative to an observer''s prior'
+statement: >-
+  Agency is relative to an observer: an identified system is an agent, for
+  that observer, to the degree that a description of the function it
+  optimises explains its behaviour better under the observer's prior than
+  any description of its input-output mapping
 version: 1
 tags:
 - agency
@@ -38,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-801 — Proposed or Open; the rival account and the questions this bears on, nothing here rests on them -->
 
-# THEORY-1236: Agency is relative to an observer: an identified system is an agent, for that observer, to the degree that a description of the function it optimises explains its behaviour better under the observer's prior than any description of its input-output mapping
+# THEORY-1236: Agency is relative to an observer's prior
 
 ## Source
 

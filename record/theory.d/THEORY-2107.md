@@ -3,7 +3,14 @@ number: 2107
 status: Proposed
 formerly:
 - THEORY-tmpetkqm
-title: 'Tomasello argues that a participant can understand a social role only inside cooperation structured by shared intentionality, a joint goal with individual roles, and that taking part in such dual-level collaboration, which chimpanzees do not, leads young children to perspectival and objective thinking, role-based concepts, self-other equivalence and fairness, and a normative moral identity'
+title: 'Roles are understood only in joint collaboration'
+statement: >-
+  Tomasello argues that a participant can understand a social role only
+  inside cooperation structured by shared intentionality, a joint goal with
+  individual roles, and that taking part in such dual-level collaboration,
+  which chimpanzees do not, leads young children to perspectival and
+  objective thinking, role-based concepts, self-other equivalence and
+  fairness, and a normative moral identity
 version: 1
 source:
 - LIT-2890
@@ -24,7 +31,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2107: Tomasello argues that a participant can understand a social role only inside cooperation structured by shared intentionality, a joint goal with individual roles, and that taking part in such dual-level collaboration, which chimpanzees do not, leads young children to perspectival and objective thinking, role-based concepts, self-other equivalence and fairness, and a normative moral identity
+# THEORY-2107: Roles are understood only in joint collaboration
 
 ## The account
 

@@ -3,7 +3,12 @@ number: 226
 status: Active
 formerly:
 - CLAIM-tmpdwfva
-title: 'The defeat tests pool unnamed judges and treat their disagreement as noise, though the theory makes the act partly constituted by its audience; for historical sources there is no source audience at all, and for interlingual ones population differences are read as distortion'
+title: 'Defeat tests treat audience variance as noise'
+statement: >-
+  The defeat tests pool unnamed judges and treat their disagreement as
+  noise, though the theory makes the act partly constituted by its audience;
+  for historical sources there is no source audience at all, and for
+  interlingual ones population differences are read as distortion
 version: 3
 history:
 - version: 2
@@ -55,7 +60,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-151 — Proposed; open, and cited as the line's own theses the pooled tests are inconsistent with, not as settled -->
 <!-- inactive-ok-file: CLAIM-084 — Proposed; open, cited only for its report of the manuscript's split annotators -->
 
-# CLAIM-226: The defeat tests pool unnamed judges and treat their disagreement as noise, though the theory makes the act partly constituted by its audience; for historical sources there is no source audience at all, and for interlingual ones population differences are read as distortion
+# CLAIM-226: Defeat tests treat audience variance as noise
 
 ## The objection
 

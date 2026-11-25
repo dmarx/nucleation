@@ -3,7 +3,11 @@ number: 821
 status: Proposed
 formerly:
 - CLAIM-tmpfls41
-title: "Evidence that a system has learned a distinction certifies it only when scored against what the same measure shows with no learning, a null; a measure read without its null cannot certify"
+title: 'No certification without a null'
+statement: >-
+  Evidence that a system has learned a distinction certifies it only when
+  scored against what the same measure shows with no learning, a null; a
+  measure read without its null cannot certify
 version: 1
 role: thesis
 warrant: interpretive
@@ -44,7 +48,7 @@ date: '2026-11-21'
 <!-- inactive-ok-file: CLAIM-797 CLAIM-800 CLAIM-818 CLAIM-841 CLAIM-803 CLAIM-851 CLAIM-831 — Proposed or new; filed 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2188 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-821: Evidence that a system has learned a distinction certifies it only when scored against what the same measure shows with no learning, a null; a measure read without its null cannot certify
+# CLAIM-821: No certification without a null
 
 **The claim.** A reading of a measure is evidence that a system has learned a distinction only relative to the reading the same measure gives, in the same system class, with no learning: a random initialization, a shuffled target, an untrained network of the same width, a generative process with no feedback. Where the null is not computed, the reading cannot certify, however striking it is.
 

@@ -3,7 +3,16 @@ number: 778
 status: Proposed
 formerly:
 - CLAIM-tmpvm90n
-title: 'An entry''s local degrees of freedom are the features a restatement copies with error, neither pulled onto a convention nor copied exactly, and over its life cycle they are moved out of that part: the schema puts its form in the contracting part at filing, and its code, its verbatim reading and the relations that accrue on it put its content in the conserved part, so the revisions it can still take narrow like an inductive prior; an entry that has slowed works as a constraint on faster ones, and what narrows is its text, while its identity stays open to change by status'
+title: 'An entry''s local freedoms narrow like a prior'
+statement: >-
+  An entry's local degrees of freedom are the features a restatement copies
+  with error, neither pulled onto a convention nor copied exactly, and over
+  its life cycle they are moved out of that part: the schema puts its form
+  in the contracting part at filing, and its code, its verbatim reading and
+  the relations that accrue on it put its content in the conserved part, so
+  the revisions it can still take narrow like an inductive prior; an entry
+  that has slowed works as a constraint on faster ones, and what narrows is
+  its text, while its identity stays open to change by status
 version: 3
 history:
 - version: 2
@@ -75,7 +84,7 @@ uses:
 <!-- inactive-ok-file: CLAIM-478 CLAIM-184 CLAIM-191 CLAIM-114 — Proposed; open, cited for what each holds -->
 <!-- inactive-ok-file: CLAIM-768 CLAIM-772 CLAIM-779 TERM-132 — Proposed; filed in this contribution of 2026-11-20 -->
 
-# CLAIM-778: An entry's local degrees of freedom are the features a restatement copies with error, neither pulled onto a convention nor copied exactly, and over its life cycle they are moved out of that part: the schema puts its form in the contracting part at filing, and its code, its verbatim reading and the relations that accrue on it put its content in the conserved part, so the revisions it can still take narrow like an inductive prior; an entry that has slowed works as a constraint on faster ones, and what narrows is its text, while its identity stays open to change by status
+# CLAIM-778: An entry's local freedoms narrow like a prior
 
 ## The claim
 

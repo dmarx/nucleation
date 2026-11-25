@@ -3,7 +3,14 @@ number: 344
 status: Active
 formerly:
 - THEORY-tmpipw5a
-title: "An access method's read, update and memory overheads, each a ratio to the base data alone with a floor of 1.0, are conjectured to trade so that bounding any two forces a lower bound on the third; the conjecture is unproved, its formal wording says no more than the floor already does, and the paper's extreme designs show conflicts between pairs, read against memory and update against read, not a symmetric three-way trade"
+title: 'RUM three-way trade-off conjecture is unproved'
+statement: >-
+  An access method's read, update and memory overheads, each a ratio to the
+  base data alone with a floor of 1.0, are conjectured to trade so that
+  bounding any two forces a lower bound on the third; the conjecture is
+  unproved, its formal wording says no more than the floor already does, and
+  the paper's extreme designs show conflicts between pairs, read against
+  memory and update against read, not a symmetric three-way trade
 version: 2
 history:
 - version: 2
@@ -47,7 +54,7 @@ bears_on:
 - QUESTION-114
 ---
 
-# THEORY-344: An access method's read, update and memory overheads, each a ratio to the base data alone with a floor of 1.0, are conjectured to trade so that bounding any two forces a lower bound on the third; the conjecture is unproved, its formal wording says no more than the floor already does, and the paper's extreme designs show conflicts between pairs, read against memory and update against read, not a symmetric three-way trade
+# THEORY-344: RUM three-way trade-off conjecture is unproved
 
 ## Source
 

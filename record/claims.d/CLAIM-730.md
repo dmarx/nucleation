@@ -3,7 +3,15 @@ number: 730
 formerly:
 - CLAIM-tmpgh3v2
 status: Proposed
-title: 'Where a slowly revised governing level (a statute, an objective, a classification) constrains a fast process, the fast process can change the world before the slow level can be revised, so those it harms have no route to the rule as fast as its application reaches them, and the rule dominates them without anyone actively intervening; where the slow level is open to revision on demand, the same separation of timescales keeps the fast process accountable instead'
+title: 'Slow rules can dominate fast processes'
+statement: >-
+  Where a slowly revised governing level (a statute, an objective, a
+  classification) constrains a fast process, the fast process can change the
+  world before the slow level can be revised, so those it harms have no
+  route to the rule as fast as its application reaches them, and the rule
+  dominates them without anyone actively intervening; where the slow level
+  is open to revision on demand, the same separation of timescales keeps the
+  fast process accountable instead
 version: 3
 history:
 - version: 2
@@ -68,7 +76,7 @@ works:
 <!-- inactive-ok-file: CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 <!-- inactive-ok-file: CLAIM-731 CASE-285 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
-# CLAIM-730: Where a slowly revised governing level (a statute, an objective, a classification) constrains a fast process, the fast process can change the world before the slow level can be revised, so those it harms have no route to the rule as fast as its application reaches them, and the rule dominates them without anyone actively intervening; where the slow level is open to revision on demand, the same separation of timescales keeps the fast process accountable instead
+# CLAIM-730: Slow rules can dominate fast processes
 
 ## The claim
 

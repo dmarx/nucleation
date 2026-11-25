@@ -3,7 +3,14 @@ number: 2111
 status: Proposed
 formerly:
 - THEORY-tmpitywd
-title: 'McAuliffe, Blake, Steinbeis and Warneken argue that children show the signatures of fairness in order, refusing to get less than a peer by about four, punishing unfairness to self and others at a cost by six to eight and refusing advantageous inequality by about eight, varying by culture, and that three-year-olds already state equal division as a norm but do not follow it when it costs them'
+title: 'Fairness signatures emerge in a set order'
+statement: >-
+  McAuliffe, Blake, Steinbeis and Warneken argue that children show the
+  signatures of fairness in order, refusing to get less than a peer by about
+  four, punishing unfairness to self and others at a cost by six to eight
+  and refusing advantageous inequality by about eight, varying by culture,
+  and that three-year-olds already state equal division as a norm but do not
+  follow it when it costs them
 version: 1
 source:
 - LIT-2920
@@ -20,7 +27,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2111: McAuliffe, Blake, Steinbeis and Warneken argue that children show the signatures of fairness in order, refusing to get less than a peer by about four, punishing unfairness to self and others at a cost by six to eight and refusing advantageous inequality by about eight, varying by culture, and that three-year-olds already state equal division as a norm but do not follow it when it costs them
+# THEORY-2111: Fairness signatures emerge in a set order
 
 ## The account
 

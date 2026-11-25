@@ -3,7 +3,14 @@ number: 1921
 status: Proposed
 formerly:
 - THEORY-tmp9pccc
-title: 'Tronto holds that a major source of injustice is the capability of the relatively privileged to refuse unpleasant or burdensome responsibilities, which she calls privileged irresponsibility, and that a caring democracy requires realigning the privileges that keep the unfair load of care responsibilities from being discussed, hearing everyone''s voice in reallocating them, and organizing care democratically'
+title: 'Privileged irresponsibility breeds injustice'
+statement: >-
+  Tronto holds that a major source of injustice is the capability of the
+  relatively privileged to refuse unpleasant or burdensome responsibilities,
+  which she calls privileged irresponsibility, and that a caring democracy
+  requires realigning the privileges that keep the unfair load of care
+  responsibilities from being discussed, hearing everyone's voice in
+  reallocating them, and organizing care democratically
 version: 2
 history:
 - version: 2
@@ -39,7 +46,7 @@ corroborates:
 <!-- inactive-ok-file: CLAIM-707 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpna7qd — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: LIT-2669 LIT-2708 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1921: Tronto holds that a major source of injustice is the capability of the relatively privileged to refuse unpleasant or burdensome responsibilities, which she calls privileged irresponsibility, and that a caring democracy requires realigning the privileges that keep the unfair load of care responsibilities from being discussed, hearing everyone's voice in reallocating them, and organizing care democratically
+# THEORY-1921: Privileged irresponsibility breeds injustice
 
 ## Source
 

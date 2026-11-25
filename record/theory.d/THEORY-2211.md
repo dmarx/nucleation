@@ -3,7 +3,12 @@ number: 2211
 status: Proposed
 formerly:
 - THEORY-tmppzw1a
-title: 'Tatel finds that, with infrequent use, accuracy on laboratory motor tasks declines about three times faster than on real-world tasks, and little evidence that the real-world domains differ, though in the posted data only medical and dental tasks decline measurably'
+title: 'Lab motor skills decay faster than real ones'
+statement: >-
+  Tatel finds that, with infrequent use, accuracy on laboratory motor tasks
+  declines about three times faster than on real-world tasks, and little
+  evidence that the real-world domains differ, though in the posted data
+  only medical and dental tasks decline measurably
 version: 1
 history:
 - version: 1
@@ -48,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2088 CASE-314 — Unfetched or new; the unread article and the entries filed on 2026-11-22 -->
 
-# THEORY-2211: Tatel finds that, with infrequent use, accuracy on laboratory motor tasks declines about three times faster than on real-world tasks, and little evidence that the real-world domains differ, though in the posted data only medical and dental tasks decline measurably
+# THEORY-2211: Lab motor skills decay faster than real ones
 
 ## The account
 

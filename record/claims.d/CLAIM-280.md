@@ -3,7 +3,12 @@ number: 280
 status: Active
 formerly:
 - CLAIM-tmpjhd7t
-title: 'A pattern can persist while every constituent is replaced and some constituents work against it, as a high-turnover regime of damage and repair, so the persistence of a product and the persistence of the organization producing it are separate facts'
+title: 'Product and producer persist separately'
+statement: >-
+  A pattern can persist while every constituent is replaced and some
+  constituents work against it, as a high-turnover regime of damage and
+  repair, so the persistence of a product and the persistence of the
+  organization producing it are separate facts
 version: 4
 history:
 - version: 2
@@ -72,7 +77,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-161 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-280: A pattern can persist while every constituent is replaced and some constituents work against it, as a high-turnover regime of damage and repair, so the persistence of a product and the persistence of the organization producing it are separate facts
+# CLAIM-280: Product and producer persist separately
 
 ## The claim
 

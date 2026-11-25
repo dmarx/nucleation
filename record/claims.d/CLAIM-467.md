@@ -3,7 +3,14 @@ number: 467
 status: Active
 formerly:
 - CLAIM-tmpocjxw
-title: 'Under full-information, independent audits, a learned allocation of influence among specialists is no better than a contextual router trained on the same audits, which is a mixture of experts whose experts earn responsibility by fitting better; whatever governance adds over routing has to be shown where evaluation fails, and the record has not yet found such a regime'
+title: 'Learned allocation no better than a router'
+statement: >-
+  Under full-information, independent audits, a learned allocation of
+  influence among specialists is no better than a contextual router trained
+  on the same audits, which is a mixture of experts whose experts earn
+  responsibility by fitting better; whatever governance adds over routing
+  has to be shown where evaluation fails, and the record has not yet found
+  such a regime
 version: 4
 history:
 - version: 2
@@ -67,7 +74,7 @@ summary: >-
   untested or, so far, lost.
 ---
 
-# CLAIM-467: Under full-information, independent audits, a learned allocation of influence among specialists is no better than a contextual router trained on the same audits, which is a mixture of experts whose experts earn responsibility by fitting better; whatever governance adds over routing has to be shown where evaluation fails, and the record has not yet found such a regime
+# CLAIM-467: Learned allocation no better than a router
 
 ## The claim
 

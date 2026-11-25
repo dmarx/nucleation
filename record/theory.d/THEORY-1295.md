@@ -3,7 +3,14 @@ number: 1295
 status: Active
 formerly:
 - THEORY-tmp8nd9o
-title: 'Metzinger 2024 calls consciousness without an egoic self or first-person perspective "empirically established" on the strength of retrospective, self-selected reports from meditators, while its own methods chapter grants that a remembered report of a selfless state is "highly dubious" evidence that the state was selfless when it occurred, and leaves that problem open'
+title: 'Selfless-consciousness claim outruns its evidence'
+statement: >-
+  Metzinger 2024 calls consciousness without an egoic self or first-person
+  perspective "empirically established" on the strength of retrospective,
+  self-selected reports from meditators, while its own methods chapter
+  grants that a remembered report of a selfless state is "highly dubious"
+  evidence that the state was selfless when it occurred, and leaves that
+  problem open
 version: 1
 tags:
 - consciousness
@@ -31,7 +38,7 @@ bears_on:
 <!-- inactive-ok-file: NOTE-1499 — Skimmed; the pages this reading rests on are named and were read -->
 <!-- inactive-ok-file: THEORY-063 — Proposed or Open; the readings and question this gap bears on, cited as open -->
 
-# THEORY-1295: Metzinger 2024 calls consciousness without an egoic self or first-person perspective "empirically established" on the strength of retrospective, self-selected reports from meditators, while its own methods chapter grants that a remembered report of a selfless state is "highly dubious" evidence that the state was selfless when it occurred, and leaves that problem open
+# THEORY-1295: Selfless-consciousness claim outruns its evidence
 
 ## Source
 

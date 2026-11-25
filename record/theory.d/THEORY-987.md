@@ -3,7 +3,14 @@ number: 987
 status: Active
 formerly:
 - THEORY-tmph7ceb
-title: 'In Claude 3 Sonnet''s middle-layer residual stream, on two prompts for which every active sparse-autoencoder feature was ablated, how strongly a feature was active predicted its ablation effect on the answer poorly (correlation about 0.12) while its gradient attribution predicted it well (about 0.81), and on the multi-step prompt only three of the ten most active features were among the ten with the largest ablation effect'
+title: 'Activation poorly predicts SAE ablation effect'
+statement: >-
+  In Claude 3 Sonnet's middle-layer residual stream, on two prompts for
+  which every active sparse-autoencoder feature was ablated, how strongly a
+  feature was active predicted its ablation effect on the answer poorly
+  (correlation about 0.12) while its gradient attribution predicted it well
+  (about 0.81), and on the multi-step prompt only three of the ten most
+  active features were among the ten with the largest ablation effect
 version: 2
 history:
 - version: 1
@@ -42,7 +49,7 @@ summary: >-
 corroborates:
 - CLAIM-454
 ---
-# THEORY-987: In Claude 3 Sonnet's middle-layer residual stream, on two prompts for which every active sparse-autoencoder feature was ablated, how strongly a feature was active predicted its ablation effect on the answer poorly (correlation about 0.12) while its gradient attribution predicted it well (about 0.81), and on the multi-step prompt only three of the ten most active features were among the ten with the largest ablation effect
+# THEORY-987: Activation poorly predicts SAE ablation effect
 
 ## Source
 

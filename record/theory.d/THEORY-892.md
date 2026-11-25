@@ -10,7 +10,14 @@ promote_when: >-
   hold in non-forensic samples measured without the interview's reliance
   on criminal history. A review by the instrument's author, however
   thorough, cannot settle it.
-title: 'Psychopathy as the PCL-R measures it is one dimensional construct rather than a type: its items form four correlated factors, interpersonal, affective, lifestyle and antisocial, explained by one superordinate factor, and its affective features are tied psychometrically, genetically and longitudinally to its antisocial ones, so that no one component is its essence'
+title: 'Psychopathy is one dimension, not a type'
+statement: >-
+  Psychopathy as the PCL-R measures it is one dimensional construct rather
+  than a type: its items form four correlated factors, interpersonal,
+  affective, lifestyle and antisocial, explained by one superordinate
+  factor, and its affective features are tied psychometrically, genetically
+  and longitudinally to its antisocial ones, so that no one component is its
+  essence
 version: 2
 history:
 - version: 2
@@ -44,7 +51,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-431 CLAIM-432 — Proposed; the record's own claims this reading bears on, filed in this batch -->
 <!-- inactive-ok-file: LIT-1430 LIT-1431 — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
 
-# THEORY-892: Psychopathy as the PCL-R measures it is one dimensional construct rather than a type: its items form four correlated factors, interpersonal, affective, lifestyle and antisocial, explained by one superordinate factor, and its affective features are tied psychometrically, genetically and longitudinally to its antisocial ones, so that no one component is its essence
+# THEORY-892: Psychopathy is one dimension, not a type
 
 ## Source
 

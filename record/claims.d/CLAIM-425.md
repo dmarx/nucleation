@@ -3,7 +3,14 @@ number: 425
 status: Proposed
 formerly:
 - CLAIM-tmpmxjti
-title: 'A perspective governs itself with respect to social judgement to the extent that it keeps access to others'' judgements of it while making their authority over its conduct depend on their grounds, not on their visibility, repetition or attributed plurality; neither absorbing every judgement nor resisting every one meets this, since both let the judgements set the terms of response'
+title: 'Self-governance: authority from grounds'
+statement: >-
+  A perspective governs itself with respect to social judgement to the
+  extent that it keeps access to others' judgements of it while making their
+  authority over its conduct depend on their grounds, not on their
+  visibility, repetition or attributed plurality; neither absorbing every
+  judgement nor resisting every one meets this, since both let the
+  judgements set the terms of response
 version: 2
 history:
 - version: 2
@@ -54,7 +61,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-415 — Proposed; claims, cases and terms cited as open, nothing here rests on their being settled -->
 
-# CLAIM-425: A perspective governs itself with respect to social judgement to the extent that it keeps access to others' judgements of it while making their authority over its conduct depend on their grounds, not on their visibility, repetition or attributed plurality; neither absorbing every judgement nor resisting every one meets this, since both let the judgements set the terms of response
+# CLAIM-425: Self-governance: authority from grounds
 
 ## The claim
 

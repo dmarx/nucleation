@@ -11,7 +11,17 @@ promote_when: >-
   memory length by a rule stated before the run or reports how the errors
   move as it varies. A comparison read off figures, or one whose memory
   length was tuned on the quantity scored, does not settle it.
-title: 'In Fourier–Galerkin large-eddy simulation, a first-order finite-memory Mori–Zwanzig closure tracks filtered-DNS energy decay and dissipation on the viscous Burgers equation and on the incompressible Taylor–Green vortex, isotropic turbulence and channel flow about as well as dynamic Smagorinsky where that model is at home and better than Smagorinsky and the t-model on the transitional Taylor–Green vortex; the memory length that fits it is set by the cutoff, not by the flow alone, scaling in Burgers roughly as 0.2 over the spectral radius of the resolved variables'' Jacobian'
+title: 'Finite-memory MZ closure rivals Smagorinsky'
+statement: >-
+  In Fourier–Galerkin large-eddy simulation, a first-order finite-memory
+  Mori–Zwanzig closure tracks filtered-DNS energy decay and dissipation on
+  the viscous Burgers equation and on the incompressible Taylor–Green
+  vortex, isotropic turbulence and channel flow about as well as dynamic
+  Smagorinsky where that model is at home and better than Smagorinsky and
+  the t-model on the transitional Taylor–Green vortex; the memory length
+  that fits it is set by the cutoff, not by the flow alone, scaling in
+  Burgers roughly as 0.2 over the spectral radius of the resolved variables'
+  Jacobian
 version: 1
 history:
 - version: 1
@@ -43,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2187 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# THEORY-747: In Fourier–Galerkin large-eddy simulation, a first-order finite-memory Mori–Zwanzig closure tracks filtered-DNS energy decay and dissipation on the viscous Burgers equation and on the incompressible Taylor–Green vortex, isotropic turbulence and channel flow about as well as dynamic Smagorinsky where that model is at home and better than Smagorinsky and the t-model on the transitional Taylor–Green vortex; the memory length that fits it is set by the cutoff, not by the flow alone, scaling in Burgers roughly as 0.2 over the spectral radius of the resolved variables' Jacobian
+# THEORY-747: Finite-memory MZ closure rivals Smagorinsky
 
 ## Source
 

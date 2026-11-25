@@ -3,7 +3,14 @@ number: 1317
 status: Active
 formerly:
 - THEORY-tmp9pem2
-title: 'During held covert spatial attention in human fronto-parietal and visual cortex, the amplitude of broadband high gamma (80–250 Hz) is coupled to the phase of an endogenous 2–5 Hz rhythm, more strongly for the contralateral field, and the trial-by-trial strength of that coupling correlates with faster detection; the evidence is correlational, so it shows that the coupling tracks attention, not that it improves it'
+title: 'High gamma coupling to 2–5 Hz tracks attention'
+statement: >-
+  During held covert spatial attention in human fronto-parietal and visual
+  cortex, the amplitude of broadband high gamma (80–250 Hz) is coupled to
+  the phase of an endogenous 2–5 Hz rhythm, more strongly for the
+  contralateral field, and the trial-by-trial strength of that coupling
+  correlates with faster detection; the evidence is correlational, so it
+  shows that the coupling tracks attention, not that it improves it
 version: 1
 tags:
 - neuroscience
@@ -23,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1314 — Proposed; the reading of Jennings 2026 this bears on -->
 
-# THEORY-1317: During held covert spatial attention in human fronto-parietal and visual cortex, the amplitude of broadband high gamma (80–250 Hz) is coupled to the phase of an endogenous 2–5 Hz rhythm, more strongly for the contralateral field, and the trial-by-trial strength of that coupling correlates with faster detection; the evidence is correlational, so it shows that the coupling tracks attention, not that it improves it
+# THEORY-1317: High gamma coupling to 2–5 Hz tracks attention
 
 ## Source
 

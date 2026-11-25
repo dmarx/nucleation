@@ -12,7 +12,15 @@ promote_when: >-
   and that with fading memory, N linearly independent variables and a
   complete basis they sum to N. Not met by simulations showing totals near
   N, which the paper already has.
-title: "Dambre and colleagues show that for a dynamical system driven by independent identically distributed input and read out linearly from N observed variables, the capacities to reconstruct orthogonal functions of past inputs sum to at most N, and to exactly N over a complete basis when the system has fading memory and its variables are linearly independent, so that such systems differ in how they divide a fixed capacity between memory and nonlinear computation, not in its total"
+title: 'Reservoir capacity sums to at most N'
+statement: >-
+  Dambre and colleagues show that for a dynamical system driven by
+  independent identically distributed input and read out linearly from N
+  observed variables, the capacities to reconstruct orthogonal functions of
+  past inputs sum to at most N, and to exactly N over a complete basis when
+  the system has fading memory and its variables are linearly independent,
+  so that such systems differ in how they divide a fixed capacity between
+  memory and nonlinear computation, not in its total
 version: 1
 tags:
 - complex-systems
@@ -34,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-809 CLAIM-814 ARG-128 ARG-146 — Proposed; the claims that use this reading, and the arguments of 2026-11-21 -->
 
-# THEORY-2158: Dambre and colleagues show that for a dynamical system driven by independent identically distributed input and read out linearly from N observed variables, the capacities to reconstruct orthogonal functions of past inputs sum to at most N, and to exactly N over a complete basis when the system has fading memory and its variables are linearly independent, so that such systems differ in how they divide a fixed capacity between memory and nonlinear computation, not in its total
+# THEORY-2158: Reservoir capacity sums to at most N
 
 ## Source
 

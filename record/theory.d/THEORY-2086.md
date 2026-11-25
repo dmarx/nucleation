@@ -3,7 +3,14 @@ number: 2086
 status: Proposed
 formerly:
 - THEORY-tmp442o6
-title: 'Furuta and colleagues find that in one-layer transformers learning modular arithmetic, a frozen embedding or body pre-grokked on an elementary operation lowers the training fraction needed to grok some related linear expressions, but for quadratic and cubic polynomials more often raises it or prevents grokking, including polynomials composed on that same operation'
+title: 'Pre-grokked parts can hinder polynomial grokking'
+statement: >-
+  Furuta and colleagues find that in one-layer transformers learning modular
+  arithmetic, a frozen embedding or body pre-grokked on an elementary
+  operation lowers the training fraction needed to grok some related linear
+  expressions, but for quadratic and cubic polynomials more often raises it
+  or prevents grokking, including polynomials composed on that same
+  operation
 version: 1
 source:
 - LIT-2880
@@ -27,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2193 — Proposed; the reading of Yang filed 2026-11-22 -->
 
-# THEORY-2086: Furuta and colleagues find that in one-layer transformers learning modular arithmetic, a frozen embedding or body pre-grokked on an elementary operation lowers the training fraction needed to grok some related linear expressions, but for quadratic and cubic polynomials more often raises it or prevents grokking, including polynomials composed on that same operation
+# THEORY-2086: Pre-grokked parts can hinder polynomial grokking
 
 ## The account
 

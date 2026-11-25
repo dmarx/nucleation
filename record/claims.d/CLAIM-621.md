@@ -3,7 +3,13 @@ number: 621
 status: Proposed
 formerly:
 - CLAIM-tmpnza8k
-title: 'An expression''s reproduction can come apart from agreement on the concept it carries: communities that use it against one another, and contest whom it describes, can keep it in circulation, so symbolic stability can persist while conceptual stability fails, and a durable dispute over a term shows a durable relation among its uses, not one concept'
+title: 'An expression can outlive agreement on its concept'
+statement: >-
+  An expression's reproduction can come apart from agreement on the concept
+  it carries: communities that use it against one another, and contest whom
+  it describes, can keep it in circulation, so symbolic stability can
+  persist while conceptual stability fails, and a durable dispute over a
+  term shows a durable relation among its uses, not one concept
 version: 4
 history:
 - version: 2
@@ -75,7 +81,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: TERM-098 — Proposed; the term the claim is stated in, cited as open -->
 
-# CLAIM-621: An expression's reproduction can come apart from agreement on the concept it carries: communities that use it against one another, and contest whom it describes, can keep it in circulation, so symbolic stability can persist while conceptual stability fails, and a durable dispute over a term shows a durable relation among its uses, not one concept
+# CLAIM-621: An expression can outlive agreement on its concept
 
 ## The claim
 

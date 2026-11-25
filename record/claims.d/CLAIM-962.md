@@ -3,7 +3,14 @@ number: 962
 status: Proposed
 formerly:
 - CLAIM-tmpyj388
-title: 'Reading the determinable questions as the operational domain, the operational cover is a genuine down-closed sub-cover of the scenario with inherited restriction maps, and determinacy selecting that sub-site is the sheaf-theoretic link the objection asked for, so a change of determinate-answerability is a change of operational domain and "cover" is used correctly'
+title: 'Operational cover is a genuine sub-cover'
+statement: >-
+  Reading the determinable questions as the operational domain, the
+  operational cover is a genuine down-closed sub-cover of the scenario with
+  inherited restriction maps, and determinacy selecting that sub-site is the
+  sheaf-theoretic link the objection asked for, so a change of
+  determinate-answerability is a change of operational domain and "cover" is
+  used correctly
 version: 1
 role: thesis
 warrant: interpretive
@@ -37,7 +44,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-251 CLAIM-201 — Proposed; the counter this reading objects to, the thesis it corroborates, and the measure that uses the operational sense -->
 <!-- inactive-ok-file: CLAIM-961 TERM-155 CASE-368 — new in this contribution; the alternative reading, the term this claim uses, and the construction it rests on -->
 
-# CLAIM-962: Reading the determinable questions as the operational domain, the operational cover is a genuine down-closed sub-cover of the scenario with inherited restriction maps, and determinacy selecting that sub-site is the sheaf-theoretic link the objection asked for, so a change of determinate-answerability is a change of operational domain and "cover" is used correctly
+# CLAIM-962: Operational cover is a genuine sub-cover
 
 ## The claim
 

@@ -3,7 +3,10 @@ number: 1179
 status: Proposed
 formerly:
 - CLAIM-tmpuzk5o
-title: "Collective identity may be a sloppy mess of governed perspectives, that is, a pseudo-self, playing a question–answer game"
+title: 'Collective identity as a sloppy pseudo-self'
+statement: >-
+  Collective identity may be a sloppy mess of governed perspectives, that
+  is, a pseudo-self, playing a question–answer game
 version: 1
 role: thesis
 warrant: interpretive
@@ -41,7 +44,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1031 CLAIM-1039 CLAIM-1044 CLAIM-1048 CLAIM-1165 CLAIM-1174 CLAIM-1196 TERM-166 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
-# CLAIM-1179: Collective identity may be a sloppy mess of governed perspectives, that is, a pseudo-self, playing a question–answer game
+# CLAIM-1179: Collective identity as a sloppy pseudo-self
 
 ## The claim
 

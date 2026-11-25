@@ -3,7 +3,18 @@ number: 440
 status: Proposed
 formerly:
 - CLAIM-tmpz8lli
-title: 'An organization''s appraisal is the negotiation among its perspectives, a common currency is that negotiation''s admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization''s own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes contested rankings, not frustrated demands, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation''s decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course'
+title: 'Appraisal is negotiation among perspectives'
+statement: >-
+  An organization's appraisal is the negotiation among its perspectives, a
+  common currency is that negotiation's admitting an ordering of the options
+  it faces, and goal-conduciveness valence is a regime in which an ordering
+  of the organization's own states by their bearing on its maintenance
+  prevails in the negotiation; so valence presupposes contested rankings,
+  not frustrated demands, its sign is whether the organization runs ahead of
+  or behind a reference course along the potential ordering, its intensity
+  is how far the negotiation's decisions follow that ordering, and
+  ambivalence, where no ordering prevails, differs from neutrality, where
+  one prevails and the organization keeps to its course
 version: 6
 history:
 - version: 2
@@ -125,7 +136,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-872 THEORY-2208 THEORY-2207 — new on 2026-11-22; the LEAD-054 search's readings, claim and registered works, cited in the dated note -->
 <!-- inactive-ok-file: CASE-366 — new on 2026-11-22; the executed-study agenda model bearing on part 3, cited in the note of 2026-11-22 -->
 
-# CLAIM-440: An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes contested rankings, not frustrated demands, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation's decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course
+# CLAIM-440: Appraisal is negotiation among perspectives
 
 ## The claim
 

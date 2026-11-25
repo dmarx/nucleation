@@ -3,7 +3,12 @@ number: 342
 status: Active
 formerly:
 - CLAIM-tmpt568z
-title: 'What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available'
+title: 'Unselected evidence, not action, stops lock-in'
+statement: >-
+  What keeps a judgement–observation loop from confirming itself is evidence
+  whose arrival or scoring does not pass through the interpretation it
+  tests; action is one source of such evidence, not a necessary one, and a
+  loop that selects its own evidence can lock in with action available
 version: 9
 history:
 - version: 2
@@ -115,7 +120,7 @@ works:
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's loop stated generally, cited in the note of 2026-10-21, nothing here rests on it -->
 <!-- inactive-ok-file: TERM-066 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
-# CLAIM-342: What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available
+# CLAIM-342: Unselected evidence, not action, stops lock-in
 
 ## The claim
 

@@ -3,7 +3,17 @@ number: 198
 status: Active
 formerly:
 - THEORY-tmpc8tc8
-title: 'For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information the block shares with the system beyond a buffer makes the coarse measure factorize across the block, in 1D and, in D dimensions, when capture by a hyperplane of blocks amounts to capture by each block; barring exact cancellation of existing couplings, the renormalized Hamiltonian then gains no range, and in 1D product disorder gains no correlations across the block. The coarse-grainings actually optimized fall short of that condition, and for them the link is computed only for two-spin blocks of 1D Ising chains'
+title: 'Info-preserving blocks keep couplings short-range'
+statement: >-
+  For a finite-range lattice Hamiltonian, a block coarse-graining that keeps
+  all the mutual information the block shares with the system beyond a
+  buffer makes the coarse measure factorize across the block, in 1D and, in
+  D dimensions, when capture by a hyperplane of blocks amounts to capture by
+  each block; barring exact cancellation of existing couplings, the
+  renormalized Hamiltonian then gains no range, and in 1D product disorder
+  gains no correlations across the block. The coarse-grainings actually
+  optimized fall short of that condition, and for them the link is computed
+  only for two-spin blocks of 1D Ising chains
 version: 4
 history:
 - version: 2
@@ -58,7 +68,7 @@ bears_on:
 - QUESTION-154
 ---
 
-# THEORY-198: For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information the block shares with the system beyond a buffer makes the coarse measure factorize across the block, in 1D and, in D dimensions, when capture by a hyperplane of blocks amounts to capture by each block; barring exact cancellation of existing couplings, the renormalized Hamiltonian then gains no range, and in 1D product disorder gains no correlations across the block. The coarse-grainings actually optimized fall short of that condition, and for them the link is computed only for two-spin blocks of 1D Ising chains
+# THEORY-198: Info-preserving blocks keep couplings short-range
 
 ## Source
 

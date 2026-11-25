@@ -3,7 +3,13 @@ number: 712
 status: Proposed
 formerly:
 - CLAIM-tmpxeq6j
-title: 'Traceability does not settle fair attribution: a record can identify exactly which agent approved an outcome while leaving open whether that agent had the time, information, authority and alternatives that responsibility for it requires, so two arrangements with equally complete audit trails can warrant very different attributions'
+title: 'Traceability does not settle fair attribution'
+statement: >-
+  Traceability does not settle fair attribution: a record can identify
+  exactly which agent approved an outcome while leaving open whether that
+  agent had the time, information, authority and alternatives that
+  responsibility for it requires, so two arrangements with equally complete
+  audit trails can warrant very different attributions
 version: 2
 history:
 - version: 2
@@ -58,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-715 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CASE-277 ARG-112 CLAIM-707 CLAIM-708 THEORY-1931 THEORY-1915 — filed from the exchange "Assess Depp Heard Abuse" or its reviews, Proposed -->
 
-# CLAIM-712: Traceability does not settle fair attribution: a record can identify exactly which agent approved an outcome while leaving open whether that agent had the time, information, authority and alternatives that responsibility for it requires, so two arrangements with equally complete audit trails can warrant very different attributions
+# CLAIM-712: Traceability does not settle fair attribution
 
 ## The claim
 

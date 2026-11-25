@@ -3,7 +3,12 @@ number: 736
 status: Active
 formerly:
 - THEORY-tmpnp4vw
-title: "Two ε-dropout-stable solutions of a multilayer ReLU net, under a loss convex in the output, are joined by a piecewise-linear path whose loss never exceeds the worse endpoint's by more than ε, and joined pairwise paths compose with no higher barrier than their worst"
+title: 'Dropout-stable solutions are mode connected'
+statement: >-
+  Two ε-dropout-stable solutions of a multilayer ReLU net, under a loss
+  convex in the output, are joined by a piecewise-linear path whose loss
+  never exceeds the worse endpoint's by more than ε, and joined pairwise
+  paths compose with no higher barrier than their worst
 version: 2
 history:
 - version: 1
@@ -53,7 +58,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-109 — Proposed; the synthesis this theorem was split from and that extends it, cited as open -->
 
-# THEORY-736: Two ε-dropout-stable solutions of a multilayer ReLU net, under a loss convex in the output, are joined by a piecewise-linear path whose loss never exceeds the worse endpoint's by more than ε, and joined pairwise paths compose with no higher barrier than their worst
+# THEORY-736: Dropout-stable solutions are mode connected
 
 ## Source
 

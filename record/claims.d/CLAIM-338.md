@@ -3,7 +3,14 @@ number: 338
 status: Proposed
 formerly:
 - CLAIM-tmpj10k0
-title: 'The selectivity active inference gives action, sampling what one expects to experience, is played in the coupled meaning–authority model by the authority space: influence decides which operators retrieve and so what the next judgement observes, which makes Friston''s self-confirming sampling the model''s authority-to-interpretation arrow and his agent a coupled loop run without independent scoring'
+title: 'Authority plays active inference''s selectivity'
+statement: >-
+  The selectivity active inference gives action, sampling what one expects
+  to experience, is played in the coupled meaning–authority model by the
+  authority space: influence decides which operators retrieve and so what
+  the next judgement observes, which makes Friston's self-confirming
+  sampling the model's authority-to-interpretation arrow and his agent a
+  coupled loop run without independent scoring
 version: 5
 history:
 - version: 2
@@ -77,7 +84,7 @@ summary: >-
 <!-- inactive-ok-file: SYNTHESIS-011 ADR-080 — Superseded; named in the history as the synthesis this claim rested on from 2026-11-07 to 2026-11-08, and the decision that let it -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
-# CLAIM-338: The selectivity active inference gives action, sampling what one expects to experience, is played in the coupled meaning–authority model by the authority space: influence decides which operators retrieve and so what the next judgement observes, which makes Friston's self-confirming sampling the model's authority-to-interpretation arrow and his agent a coupled loop run without independent scoring
+# CLAIM-338: Authority plays active inference's selectivity
 
 ## The claim
 

@@ -3,7 +3,17 @@ number: 1774
 status: Proposed
 formerly:
 - THEORY-tmplwnpv
-title: 'Flouris et al. (2008) define ontology change as deciding the modifications to make to an ontology in response to a need, implementing them and managing their effects on dependent elements, divide it into ten subfields (mapping, morphism, matching, articulation, translation, evolution, debugging, versioning, integration and merging), and report ontology evolution as Stojanovic et al.''s cyclic process of change capture, representation, semantics of change, implementation, propagation and validation, with the semantics-of-change phase, which determines a change''s side-effects, as the most crucial'
+title: 'Semantics of change is ontology evolution''s crux'
+statement: >-
+  Flouris et al. (2008) define ontology change as deciding the modifications
+  to make to an ontology in response to a need, implementing them and
+  managing their effects on dependent elements, divide it into ten subfields
+  (mapping, morphism, matching, articulation, translation, evolution,
+  debugging, versioning, integration and merging), and report ontology
+  evolution as Stojanovic et al.'s cyclic process of change capture,
+  representation, semantics of change, implementation, propagation and
+  validation, with the semantics-of-change phase, which determines a
+  change's side-effects, as the most crucial
 version: 1
 tags:
 - databases
@@ -24,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1854 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# THEORY-1774: Flouris et al. (2008) define ontology change as deciding the modifications to make to an ontology in response to a need, implementing them and managing their effects on dependent elements, divide it into ten subfields (mapping, morphism, matching, articulation, translation, evolution, debugging, versioning, integration and merging), and report ontology evolution as Stojanovic et al.'s cyclic process of change capture, representation, semantics of change, implementation, propagation and validation, with the semantics-of-change phase, which determines a change's side-effects, as the most crucial
+# THEORY-1774: Semantics of change is ontology evolution's crux
 
 ## The account
 

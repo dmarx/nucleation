@@ -16,7 +16,14 @@ promote_when: >-
   ordered verification costs about as much as unordered patching. More
   settings in Pythia cannot settle it, nor can comparisons in which the
   ground truth is not exhaustive patching.
-title: 'For fine-grained nodes of transformer language models generally, attribution patching corrected for attention saturation is a reliable prefilter for activation patching: nodes it ranks low rarely have large single-node patching effects, so verifying nodes in its order finds the important ones at a small multiple of the cost of an oracle, as Kramár et al. expect'
+title: 'Corrected attribution patching is a good prefilter'
+statement: >-
+  For fine-grained nodes of transformer language models generally,
+  attribution patching corrected for attention saturation is a reliable
+  prefilter for activation patching: nodes it ranks low rarely have large
+  single-node patching effects, so verifying nodes in its order finds the
+  important ones at a small multiple of the cost of an oracle, as Kramár et
+  al. expect
 version: 2
 history:
 - version: 1
@@ -49,7 +56,7 @@ summary: >-
   would let a single new setting be checked without exhaustive patching.
 ---
 <!-- inactive-ok-file: THEORY-1021 — Proposed; the method author's account, set beside this one -->
-# THEORY-1000: For fine-grained nodes of transformer language models generally, attribution patching corrected for attention saturation is a reliable prefilter for activation patching: nodes it ranks low rarely have large single-node patching effects, so verifying nodes in its order finds the important ones at a small multiple of the cost of an oracle, as Kramár et al. expect
+# THEORY-1000: Corrected attribution patching is a good prefilter
 
 ## Source
 

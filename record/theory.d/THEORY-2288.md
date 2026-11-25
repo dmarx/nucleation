@@ -11,7 +11,15 @@ promote_when: >-
   beyond it, and that coordination patterns constrain the individuals'
   dynamics while arising from them, shown by intervention rather than by
   bidirectional statistical dependence alone.
-title: 'Müller proposes that social interaction is self-organization in multilayer networks of neural, physiological and behavioral signals, in which circular causation across levels gives rise to dynamical and structural order parameters that in turn constrain the interacting individuals, and predicts that coordination emerges as coupling across layers increases, is most stable within an intermediate range of coupling, and shows bidirectional influence between order parameters and local dynamics'
+title: 'Interaction self-organizes across layers'
+statement: >-
+  Müller proposes that social interaction is self-organization in multilayer
+  networks of neural, physiological and behavioral signals, in which
+  circular causation across levels gives rise to dynamical and structural
+  order parameters that in turn constrain the interacting individuals, and
+  predicts that coordination emerges as coupling across layers increases, is
+  most stable within an intermediate range of coupling, and shows
+  bidirectional influence between order parameters and local dynamics
 version: 1
 tags:
 - social-science
@@ -31,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2292 CLAIM-327 NOTE-2402 — Proposed or Skimmed; a reading it is set against, a claim it bears on, and the reading of this work -->
 
-# THEORY-2288: Müller proposes that social interaction is self-organization in multilayer networks of neural, physiological and behavioral signals, in which circular causation across levels gives rise to dynamical and structural order parameters that in turn constrain the interacting individuals, and predicts that coordination emerges as coupling across layers increases, is most stable within an intermediate range of coupling, and shows bidirectional influence between order parameters and local dynamics
+# THEORY-2288: Interaction self-organizes across layers
 
 ## Source
 

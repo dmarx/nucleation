@@ -3,7 +3,14 @@ number: 1715
 status: Proposed
 formerly:
 - THEORY-tmpxmmhb
-title: 'Mpakosi and colleagues review evidence that maternal cells cross the placenta from the second trimester and persist in offspring into adulthood, where they appear to support immune maturation and tolerance and are associated with several autoimmune diseases, while concluding that their exact role remains unclear because microchimeric cells are rare and hard to detect.'
+title: 'Maternal cells may aid tolerance; role unclear'
+statement: >-
+  Mpakosi and colleagues review evidence that maternal cells cross the
+  placenta from the second trimester and persist in offspring into
+  adulthood, where they appear to support immune maturation and tolerance
+  and are associated with several autoimmune diseases, while concluding that
+  their exact role remains unclear because microchimeric cells are rare and
+  hard to detect.
 version: 1
 source:
 - LIT-2343
@@ -27,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1785 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1715: Mpakosi and colleagues review evidence that maternal cells cross the placenta from the second trimester and persist in offspring into adulthood, where they appear to support immune maturation and tolerance and are associated with several autoimmune diseases, while concluding that their exact role remains unclear because microchimeric cells are rare and hard to detect.
+# THEORY-1715: Maternal cells may aid tolerance; role unclear
 
 ## The account
 

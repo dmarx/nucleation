@@ -3,7 +3,15 @@ number: 1462
 status: Active
 formerly:
 - THEORY-tmp19alc
-title: "Haushofer and Fehr hold that poverty causes stress and negative affect, and that these in turn make people more present-biased and risk-averse independent of credit constraints and background risk, so that behaviour taken as the poor's own preference may partly be an effect of poverty and may help perpetuate it; they grant that the affect-to-choice link rests only on laboratory inductions, and that no nonlinearity strong enough to make a poverty trap has been shown"
+title: 'Poverty stress may bias choice; no trap shown'
+statement: >-
+  Haushofer and Fehr hold that poverty causes stress and negative affect,
+  and that these in turn make people more present-biased and risk-averse
+  independent of credit constraints and background risk, so that behaviour
+  taken as the poor's own preference may partly be an effect of poverty and
+  may help perpetuate it; they grant that the affect-to-choice link rests
+  only on laboratory inductions, and that no nonlinearity strong enough to
+  make a poverty trap has been shown
 version: 2
 history:
 - version: 2
@@ -39,7 +47,7 @@ summary: >-
   outcomes "show no strong signs of being nonlinear".
 ---
 
-# THEORY-1462: Haushofer and Fehr hold that poverty causes stress and negative affect, and that these in turn make people more present-biased and risk-averse independent of credit constraints and background risk, so that behaviour taken as the poor's own preference may partly be an effect of poverty and may help perpetuate it; they grant that the affect-to-choice link rests only on laboratory inductions, and that no nonlinearity strong enough to make a poverty trap has been shown
+# THEORY-1462: Poverty stress may bias choice; no trap shown
 
 ## Source
 

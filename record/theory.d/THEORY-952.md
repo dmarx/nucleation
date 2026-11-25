@@ -3,7 +3,16 @@ number: 952
 status: Active
 formerly:
 - THEORY-tmpeglfj
-title: 'In Wald''s sequential probability ratio test, which samples until the likelihood ratio of two simple hypotheses leaves an interval (B, A), the realized error probabilities satisfy α/(1 − β) ≤ 1/A and β/(1 − α) ≤ B whenever the test terminates with probability one, with or without independent observations; so the boundaries A = (1 − β)/α and B = β/(1 − α), set with no distribution theory, give errors α′ ≤ α/(1 − β), β′ ≤ β/(1 − α) and α′ + β′ ≤ α + β, and they would be exact only if the ratio stopped on the boundary'
+title: 'Wald''s boundaries bound SPRT error rates'
+statement: >-
+  In Wald's sequential probability ratio test, which samples until the
+  likelihood ratio of two simple hypotheses leaves an interval (B, A), the
+  realized error probabilities satisfy α/(1 − β) ≤ 1/A and β/(1 − α) ≤ B
+  whenever the test terminates with probability one, with or without
+  independent observations; so the boundaries A = (1 − β)/α and B = β/(1 −
+  α), set with no distribution theory, give errors α′ ≤ α/(1 − β), β′ ≤ β/(1
+  − α) and α′ + β′ ≤ α + β, and they would be exact only if the ratio
+  stopped on the boundary
 version: 1
 history:
 - version: 1
@@ -32,7 +41,7 @@ summary: >-
   takes or that it is optimal: that is [THEORY-951](THEORY-951.md), and it needs
   i.i.d. observations.
 ---
-# THEORY-952: In Wald's sequential probability ratio test, which samples until the likelihood ratio of two simple hypotheses leaves an interval (B, A), the realized error probabilities satisfy α/(1 − β) ≤ 1/A and β/(1 − α) ≤ B whenever the test terminates with probability one, with or without independent observations; so the boundaries A = (1 − β)/α and B = β/(1 − α), set with no distribution theory, give errors α′ ≤ α/(1 − β), β′ ≤ β/(1 − α) and α′ + β′ ≤ α + β, and they would be exact only if the ratio stopped on the boundary
+# THEORY-952: Wald's boundaries bound SPRT error rates
 
 ## Source
 

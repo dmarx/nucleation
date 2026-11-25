@@ -14,7 +14,16 @@ promote_when: >-
   ventilation; and an animal study is read that confirms kept
   spontaneous effort lessens, without abolishing, the loss of diaphragm
   force.
-title: 'Fully controlled mechanical ventilation weakens, shrinks and injures the human diaphragm as it does in animals: biopsies from brain-dead organ donors ventilated for hours to days show diaphragm fibre atrophy and injury with oxidative stress and raised proteolysis markers, not seen in the pectoralis, the changes growing with the duration of ventilation, and diaphragm twitch pressure in ventilated patients falls by about a third in six days; in animals, keeping spontaneous effort lessens the loss but leaves a residual deficit'
+title: 'Controlled ventilation atrophies human diaphragm'
+statement: >-
+  Fully controlled mechanical ventilation weakens, shrinks and injures the
+  human diaphragm as it does in animals: biopsies from brain-dead organ
+  donors ventilated for hours to days show diaphragm fibre atrophy and
+  injury with oxidative stress and raised proteolysis markers, not seen in
+  the pectoralis, the changes growing with the duration of ventilation, and
+  diaphragm twitch pressure in ventilated patients falls by about a third in
+  six days; in animals, keeping spontaneous effort lessens the loss but
+  leaves a residual deficit
 version: 1
 tags:
 - natural-sciences
@@ -31,7 +40,7 @@ summary: >-
   carried, word for word.
 ---
 
-# THEORY-1541: Fully controlled mechanical ventilation weakens, shrinks and injures the human diaphragm as it does in animals: biopsies from brain-dead organ donors ventilated for hours to days show diaphragm fibre atrophy and injury with oxidative stress and raised proteolysis markers, not seen in the pectoralis, the changes growing with the duration of ventilation, and diaphragm twitch pressure in ventilated patients falls by about a third in six days; in animals, keeping spontaneous effort lessens the loss but leaves a residual deficit
+# THEORY-1541: Controlled ventilation atrophies human diaphragm
 
 ## Source
 

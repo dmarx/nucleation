@@ -3,7 +3,14 @@ number: 275
 status: Active
 formerly:
 - THEORY-tmpo4fgq
-title: "In two optically trapped beads with a symmetric hydrodynamic coupling, one trap moved by a recorded noise drive, time-delayed mutual information and transfer entropy follow the drive's path rather than the coupling's symmetry: the flow between the beads reads two-way under moderate drive, in experiment and numerics, and one-way under strong drive, in numerics of the fitted model only"
+title: 'Information flow follows drive, not coupling'
+statement: >-
+  In two optically trapped beads with a symmetric hydrodynamic coupling, one
+  trap moved by a recorded noise drive, time-delayed mutual information and
+  transfer entropy follow the drive's path rather than the coupling's
+  symmetry: the flow between the beads reads two-way under moderate drive,
+  in experiment and numerics, and one-way under strong drive, in numerics of
+  the fitted model only
 version: 8
 history:
 - version: 2
@@ -90,7 +97,7 @@ bounds:
 <!-- inactive-ok-file: THEORY-129 — Proposed; the architecture claims this account qualifies and the shared-cue account set beside it, open -->
 <!-- inactive-ok-file: CLAIM-396 — Proposed; the record's generalization this entry's narrowing dropped, filed apart under ADR-047 v4 with this entry in its grounds -->
 
-# THEORY-275: In two optically trapped beads with a symmetric hydrodynamic coupling, one trap moved by a recorded noise drive, time-delayed mutual information and transfer entropy follow the drive's path rather than the coupling's symmetry: the flow between the beads reads two-way under moderate drive, in experiment and numerics, and one-way under strong drive, in numerics of the fitted model only
+# THEORY-275: Information flow follows drive, not coupling
 
 ## Source
 

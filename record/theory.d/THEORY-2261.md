@@ -13,7 +13,13 @@ promote_when: >-
   non-identifiable in closed loop, whereas problems whose
   non-identifiable parameters are unimportant admit log T. The review's
   statement of this does not suffice.
-title: 'Optimal control of a system with unknown dynamics must probe it to learn, trading immediate performance for information, by acting on an extended state that adjoins an information state to the physical one; whether exploration must drive the system away from the optimal policy is set by closed-loop identifiability'
+title: 'Dual control trades performance for information'
+statement: >-
+  Optimal control of a system with unknown dynamics must probe it to learn,
+  trading immediate performance for information, by acting on an extended
+  state that adjoins an information state to the physical one; whether
+  exploration must drive the system away from the optimal policy is set by
+  closed-loop identifiability
 version: 1
 history:
 - version: 1
@@ -36,7 +42,7 @@ bears_on:
 - QUESTION-374
 ---
 
-# THEORY-2261: Optimal control of a system with unknown dynamics must probe it to learn, trading immediate performance for information, by acting on an extended state that adjoins an information state to the physical one; whether exploration must drive the system away from the optimal policy is set by closed-loop identifiability
+# THEORY-2261: Dual control trades performance for information
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 469
 status: Active
 formerly:
 - THEORY-tmp8xp3z
-title: "Because persistence (mean absolute fitness at least 1) and selection (fitness differences) are logically independent, niche construction theory's evolutionary niche, read externally as the factors producing fitness differences in a population, differs in extension from the realized population ecological niche even after unit and modality are matched, so it is not a simple translation of Hutchinson's niche"
+title: 'Evolutionary niche isn''t Hutchinson''s niche'
+statement: >-
+  Because persistence (mean absolute fitness at least 1) and selection
+  (fitness differences) are logically independent, niche construction
+  theory's evolutionary niche, read externally as the factors producing
+  fitness differences in a population, differs in extension from the
+  realized population ecological niche even after unit and modality are
+  matched, so it is not a simple translation of Hutchinson's niche
 version: 1
 tags:
 - philosophy-of-science
@@ -24,7 +31,7 @@ summary: >-
   coincide to a large extent".
 ---
 
-# THEORY-469: Because persistence (mean absolute fitness at least 1) and selection (fitness differences) are logically independent, niche construction theory's evolutionary niche, read externally as the factors producing fitness differences in a population, differs in extension from the realized population ecological niche even after unit and modality are matched, so it is not a simple translation of Hutchinson's niche
+# THEORY-469: Evolutionary niche isn't Hutchinson's niche
 
 ## Source
 

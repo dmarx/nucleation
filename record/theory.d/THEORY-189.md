@@ -3,7 +3,14 @@ number: 189
 status: Active
 formerly:
 - THEORY-tmp5l4pi
-title: 'Nested angular cones in the Poincaré ball, symmetric about the outward ray with an aperture depending only on the apex''s radius, are transitive only if the aperture is at most π/2 and r sin ψ(r)/(1 − r²) does not increase outward; so no such cone can be defined near the origin, the widest admissible family is sin ψ = K(1 − r²)/r, and every point a cone contains lies farther from the origin than its apex'
+title: 'Transitive hyperbolic cones fail near origin'
+statement: >-
+  Nested angular cones in the Poincaré ball, symmetric about the outward ray
+  with an aperture depending only on the apex's radius, are transitive only
+  if the aperture is at most π/2 and r sin ψ(r)/(1 − r²) does not increase
+  outward; so no such cone can be defined near the origin, the widest
+  admissible family is sin ψ = K(1 − r²)/r, and every point a cone contains
+  lies farther from the origin than its apex
 version: 2
 history:
 - version: 2
@@ -36,7 +43,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-2190 THEORY-2192 CLAIM-860 — Proposed; the readings of Bui et al. and Ghadimi Atigh et al. filed 2026-11-22, and the assistant's claim that applies this reading -->
 <!-- inactive-ok-file: THEORY-196 CLAIM-119 — Proposed or open; cited as the accounts this one sits beside -->
 
-# THEORY-189: Nested angular cones in the Poincaré ball, symmetric about the outward ray with an aperture depending only on the apex's radius, are transitive only if the aperture is at most π/2 and r sin ψ(r)/(1 − r²) does not increase outward; so no such cone can be defined near the origin, the widest admissible family is sin ψ = K(1 − r²)/r, and every point a cone contains lies farther from the origin than its apex
+# THEORY-189: Transitive hyperbolic cones fail near origin
 
 ## Source
 

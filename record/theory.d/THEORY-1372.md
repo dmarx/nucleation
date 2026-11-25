@@ -3,7 +3,15 @@ number: 1372
 status: Active
 formerly:
 - THEORY-tmp34oop
-title: 'Eppstein shows that folding problems split by question: deciding whether a finite crease pattern folds flat is fixed-parameter tractable in ply and treewidth with an ETH-optimal dependence on treewidth, reaching one flat state from another in a hinged-square toy model is PSPACE-complete and counting its states #P-complete, and flat-foldability of self-similar crease patterns with infinitely many creases on a finite square is undecidable'
+title: 'Folding complexity ranges from FPT to undecidable'
+statement: >-
+  Eppstein shows that folding problems split by question: deciding whether a
+  finite crease pattern folds flat is fixed-parameter tractable in ply and
+  treewidth with an ETH-optimal dependence on treewidth, reaching one flat
+  state from another in a hinged-square toy model is PSPACE-complete and
+  counting its states #P-complete, and flat-foldability of self-similar
+  crease patterns with infinitely many creases on a finite square is
+  undecidable
 version: 2
 history:
 - version: 2
@@ -41,7 +49,7 @@ corroborates:
 - CLAIM-578
 ---
 
-# THEORY-1372: Eppstein shows that folding problems split by question: deciding whether a finite crease pattern folds flat is fixed-parameter tractable in ply and treewidth with an ETH-optimal dependence on treewidth, reaching one flat state from another in a hinged-square toy model is PSPACE-complete and counting its states #P-complete, and flat-foldability of self-similar crease patterns with infinitely many creases on a finite square is undecidable
+# THEORY-1372: Folding complexity ranges from FPT to undecidable
 
 ## Source
 

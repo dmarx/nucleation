@@ -3,7 +3,12 @@ number: 1763
 status: Proposed
 formerly:
 - THEORY-tmphaoty
-title: 'Wilie, Cahyawijaya et al. (2024) report that language models given a premise that should defeat an earlier conclusion mostly fail to revise it, and that models better at revising when revision is due tend to be worse at keeping the conclusion when the new premise does not defeat it'
+title: 'LLMs rarely revise defeated conclusions'
+statement: >-
+  Wilie, Cahyawijaya et al. (2024) report that language models given a
+  premise that should defeat an earlier conclusion mostly fail to revise it,
+  and that models better at revising when revision is due tend to be worse
+  at keeping the conclusion when the new premise does not defeat it
 version: 1
 tags:
 - logic
@@ -21,7 +26,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1763: Wilie, Cahyawijaya et al. (2024) report that language models given a premise that should defeat an earlier conclusion mostly fail to revise it, and that models better at revising when revision is due tend to be worse at keeping the conclusion when the new premise does not defeat it
+# THEORY-1763: LLMs rarely revise defeated conclusions
 
 ## The account
 

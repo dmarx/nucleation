@@ -3,7 +3,15 @@ number: 2005
 status: Proposed
 formerly:
 - THEORY-tmp31d9a
-title: 'DeVille and Lerman show that a graph fibration between networks of continuous-time systems, a map lifting each incoming edge uniquely, induces a map of dynamical systems in the opposite direction for every modular vector field, so a surjective fibration (the quotient by a balanced relation) embeds the quotient''s dynamics as an invariant synchrony polydiagonal and an injective fibration projects a network onto the subsystem that drives it'
+title: 'Graph fibrations induce maps of network dynamics'
+statement: >-
+  DeVille and Lerman show that a graph fibration between networks of
+  continuous-time systems, a map lifting each incoming edge uniquely,
+  induces a map of dynamical systems in the opposite direction for every
+  modular vector field, so a surjective fibration (the quotient by a
+  balanced relation) embeds the quotient's dynamics as an invariant
+  synchrony polydiagonal and an injective fibration projects a network onto
+  the subsystem that drives it
 version: 1
 source:
 - LIT-2792
@@ -33,7 +41,7 @@ summary: >-
   direction. Read in its NOTE.
 ---
 
-# THEORY-2005: DeVille and Lerman show that a graph fibration between networks of continuous-time systems, a map lifting each incoming edge uniquely, induces a map of dynamical systems in the opposite direction for every modular vector field, so a surjective fibration (the quotient by a balanced relation) embeds the quotient's dynamics as an invariant synchrony polydiagonal and an injective fibration projects a network onto the subsystem that drives it
+# THEORY-2005: Graph fibrations induce maps of network dynamics
 
 ## The account
 

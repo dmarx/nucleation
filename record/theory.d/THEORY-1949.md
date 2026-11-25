@@ -3,7 +3,12 @@ number: 1949
 status: Proposed
 formerly:
 - THEORY-tmpxn4rh
-title: 'Cunha and colleagues find that bidirectional intimate partner violence is measured mostly by the Conflict Tactics Scale and one partner''s report, with prevalence from 2% to 98.4%, by an instrument that cannot tell self-defence or retaliation from unprovoked violence'
+title: 'CTS can''t tell self-defence in bidirectional IPV'
+statement: >-
+  Cunha and colleagues find that bidirectional intimate partner violence is
+  measured mostly by the Conflict Tactics Scale and one partner's report,
+  with prevalence from 2% to 98.4%, by an instrument that cannot tell
+  self-defence or retaliation from unprovoked violence
 version: 1
 tags:
 - social-science
@@ -19,7 +24,7 @@ corroborates:
 - CLAIM-709
 ---
 <!-- inactive-ok-file: CLAIM-709 LIT-2671 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1949: Cunha and colleagues find that bidirectional intimate partner violence is measured mostly by the Conflict Tactics Scale and one partner's report, with prevalence from 2% to 98.4%, by an instrument that cannot tell self-defence or retaliation from unprovoked violence
+# THEORY-1949: CTS can't tell self-defence in bidirectional IPV
 
 ## Source
 

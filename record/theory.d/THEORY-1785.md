@@ -3,7 +3,15 @@ number: 1785
 status: Proposed
 formerly:
 - THEORY-tmpq26fh
-title: 'Bao et al. (2026) report that when 6,749 authors of recent preprints rated hypotheses that 26 LLMs generated from their own papers, non-reasoning models produced tightly clustered ideas, every model proposed null hypotheses less often than the authors had, and LLM judges, novelty metrics and existing reward models agreed with the authors'' pairwise preferences at about chance, while a reward model trained on those ratings exceeded the agreement rate between human peer reviewers.'
+title: 'Judges agree with authors on hypotheses at chance'
+statement: >-
+  Bao et al. (2026) report that when 6,749 authors of recent preprints rated
+  hypotheses that 26 LLMs generated from their own papers, non-reasoning
+  models produced tightly clustered ideas, every model proposed null
+  hypotheses less often than the authors had, and LLM judges, novelty
+  metrics and existing reward models agreed with the authors' pairwise
+  preferences at about chance, while a reward model trained on those ratings
+  exceeded the agreement rate between human peer reviewers.
 version: 1
 tags:
 - philosophy-of-science
@@ -24,7 +32,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1785: Bao et al. (2026) report that when 6,749 authors of recent preprints rated hypotheses that 26 LLMs generated from their own papers, non-reasoning models produced tightly clustered ideas, every model proposed null hypotheses less often than the authors had, and LLM judges, novelty metrics and existing reward models agreed with the authors' pairwise preferences at about chance, while a reward model trained on those ratings exceeded the agreement rate between human peer reviewers.
+# THEORY-1785: Judges agree with authors on hypotheses at chance
 
 ## The account
 

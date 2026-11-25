@@ -3,7 +3,14 @@ number: 1080
 status: Proposed
 formerly:
 - CLAIM-tmpdltg3
-title: 'Measured at the tolerance stated in advance, the containments of the all-or-none theorem fail for three factual relations in GPT-2 small and, narrowly, in Pythia-70m; since they hold exactly, the verdict turns on a tolerance the theorem does not supply, and a measurement at finite precision does not settle whether those relations are properties of the distribution'
+title: 'All-or-none containments turn on tolerance'
+statement: >-
+  Measured at the tolerance stated in advance, the containments of the
+  all-or-none theorem fail for three factual relations in GPT-2 small and,
+  narrowly, in Pythia-70m; since they hold exactly, the verdict turns on a
+  tolerance the theorem does not supply, and a measurement at finite
+  precision does not settle whether those relations are properties of the
+  distribution
 version: 1
 history:
 - version: 1
@@ -44,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1027 CLAIM-1020 CASE-398 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1080: Measured at the tolerance stated in advance, the containments of the all-or-none theorem fail for three factual relations in GPT-2 small and, narrowly, in Pythia-70m; since they hold exactly, the verdict turns on a tolerance the theorem does not supply, and a measurement at finite precision does not settle whether those relations are properties of the distribution
+# CLAIM-1080: All-or-none containments turn on tolerance
 
 ## The claim
 

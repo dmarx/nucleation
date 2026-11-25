@@ -3,7 +3,11 @@ number: 30
 status: Active
 formerly:
 - CLAIM-tmp9myih
-title: 'An organized whole''s operative intention is not the expectation of its members'' intentions; it is produced by systemic mechanisms that can evolve apart from what the members intend'
+title: 'Whole''s intention is not members'' expectation'
+statement: >-
+  An organized whole's operative intention is not the expectation of its
+  members' intentions; it is produced by systemic mechanisms that can evolve
+  apart from what the members intend
 version: 3
 history:
 - version: 2
@@ -55,7 +59,7 @@ complements:
 <!-- inactive-ok-file: THEORY-144 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what was set aside with it -->
 
-# CLAIM-030: An organized whole's operative intention is not the expectation of its members' intentions; it is produced by systemic mechanisms that can evolve apart from what the members intend
+# CLAIM-030: Whole's intention is not members' expectation
 
 ## The claim
 

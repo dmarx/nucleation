@@ -3,7 +3,16 @@ number: 442
 status: Proposed
 formerly:
 - CLAIM-tmp0jfuz
-title: 'Frijda''s emotion and the potential account''s system valence sit on opposite sides of the gap between the precedence a motive claims and the authority it is granted: an emotion, action readiness claiming control precedence, is a claim, a perspective''s valence is read on its claims, and the system''s valence is read on what the negotiation grants, so a change in grants with the claims fixed, as mindfulness is said to make, changes the system''s valence and leaves the perspectives'' emotions and valences as they were'
+title: 'Emotion claims precedence; valence is granted'
+statement: >-
+  Frijda's emotion and the potential account's system valence sit on
+  opposite sides of the gap between the precedence a motive claims and the
+  authority it is granted: an emotion, action readiness claiming control
+  precedence, is a claim, a perspective's valence is read on its claims, and
+  the system's valence is read on what the negotiation grants, so a change
+  in grants with the claims fixed, as mindfulness is said to make, changes
+  the system's valence and leaves the perspectives' emotions and valences as
+  they were
 version: 7
 history:
 - version: 2
@@ -108,7 +117,7 @@ bears_on:
 <!-- ref::uses-file: TERM-017 — noticing an impulse "suspends the step from its momentary dominance to its control of action", a change in grants with claims fixed, is TERM-017's suspension -->
 <!-- ref::uses-file: TERM-094 — the emotion of the title, "action readiness claiming control precedence", put on the claim side of the gap, is TERM-094's sense -->
 
-# CLAIM-442: Frijda's emotion and the potential account's system valence sit on opposite sides of the gap between the precedence a motive claims and the authority it is granted: an emotion, action readiness claiming control precedence, is a claim, a perspective's valence is read on its claims, and the system's valence is read on what the negotiation grants, so a change in grants with the claims fixed, as mindfulness is said to make, changes the system's valence and leaves the perspectives' emotions and valences as they were
+# CLAIM-442: Emotion claims precedence; valence is granted
 
 ## The claim
 

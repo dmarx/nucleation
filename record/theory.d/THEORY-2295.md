@@ -3,7 +3,16 @@ number: 2295
 status: Active
 formerly:
 - THEORY-tmpmvcnr
-title: 'Ott and Antonsen show that for infinitely many globally coupled phase oscillators with first-harmonic coupling, the distributions whose phase Fourier coefficients are powers of one function of frequency form an invariant manifold, on which the order parameter obeys a finite set of ordinary differential equations exactly when the frequency distribution is rational, one complex equation per pole in the lower half-plane, while the distribution on the manifold stays infinite-dimensional, with a continuous spectrum of neutral modes'
+title: 'Ott–Antonsen manifold reduces Kuramoto to ODEs'
+statement: >-
+  Ott and Antonsen show that for infinitely many globally coupled phase
+  oscillators with first-harmonic coupling, the distributions whose phase
+  Fourier coefficients are powers of one function of frequency form an
+  invariant manifold, on which the order parameter obeys a finite set of
+  ordinary differential equations exactly when the frequency distribution is
+  rational, one complex equation per pole in the lower half-plane, while the
+  distribution on the manifold stays infinite-dimensional, with a continuous
+  spectrum of neutral modes
 version: 2
 history:
 - version: 2
@@ -49,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2276 CLAIM-1058 CLAIM-1088 — Proposed or new; the sequel's reading and the verdict filed from this one -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim this reading was read against -->
 
-# THEORY-2295: Ott and Antonsen show that for infinitely many globally coupled phase oscillators with first-harmonic coupling, the distributions whose phase Fourier coefficients are powers of one function of frequency form an invariant manifold, on which the order parameter obeys a finite set of ordinary differential equations exactly when the frequency distribution is rational, one complex equation per pole in the lower half-plane, while the distribution on the manifold stays infinite-dimensional, with a continuous spectrum of neutral modes
+# THEORY-2295: Ott–Antonsen manifold reduces Kuramoto to ODEs
 
 ## Source
 

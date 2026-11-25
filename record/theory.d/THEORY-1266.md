@@ -3,7 +3,15 @@ number: 1266
 status: Active
 formerly:
 - THEORY-tmplh6oa
-title: 'In an open reaction network of reversible elementary mass-action reactions, sustained currents need an emergent cycle with nonzero affinity: each chemostatted species either breaks a conservation law or opens an emergent cycle, so one chemostat never suffices; with every emergent affinity zero the network relaxes to a unique equilibrium fixed by its unbroken conserved quantities; and a nonequilibrium steady state dissipates exactly the sum over emergent cycles of current times affinity'
+title: 'Sustained currents need emergent-cycle affinity'
+statement: >-
+  In an open reaction network of reversible elementary mass-action
+  reactions, sustained currents need an emergent cycle with nonzero
+  affinity: each chemostatted species either breaks a conservation law or
+  opens an emergent cycle, so one chemostat never suffices; with every
+  emergent affinity zero the network relaxes to a unique equilibrium fixed
+  by its unbroken conserved quantities; and a nonequilibrium steady state
+  dissipates exactly the sum over emergent cycles of current times affinity
 version: 1
 tags:
 - thermodynamics
@@ -24,7 +32,7 @@ summary: >-
   affinity it cannot be, and what it costs when it is.
 ---
 
-# THEORY-1266: In an open reaction network of reversible elementary mass-action reactions, sustained currents need an emergent cycle with nonzero affinity: each chemostatted species either breaks a conservation law or opens an emergent cycle, so one chemostat never suffices; with every emergent affinity zero the network relaxes to a unique equilibrium fixed by its unbroken conserved quantities; and a nonequilibrium steady state dissipates exactly the sum over emergent cycles of current times affinity
+# THEORY-1266: Sustained currents need emergent-cycle affinity
 
 ## Source
 

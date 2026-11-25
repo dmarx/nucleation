@@ -3,7 +3,12 @@ number: 830
 status: Proposed
 formerly:
 - CLAIM-tmply70l
-title: 'The mean-field derivation of the Barabási–Albert power law is the age mechanism in logarithmic time, so what separates linear preferential attachment from Gibrat''s lognormal growth is the continual entry of new units and not the proportionality of growth'
+title: 'New entry, not proportionality, makes BA''s law'
+statement: >-
+  The mean-field derivation of the Barabási–Albert power law is the age
+  mechanism in logarithmic time, so what separates linear preferential
+  attachment from Gibrat's lognormal growth is the continual entry of new
+  units and not the proportionality of growth
 version: 2
 history:
 - version: 2
@@ -59,7 +64,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-2180 THEORY-2184 THEORY-2181 THEORY-2178 TERM-145 ARG-182 — Proposed; the readings of 2026-11-22, the term and the argument filed with them -->
 <!-- inactive-ok-file: CLAIM-795 CLAIM-824 CLAIM-817 CLAIM-806 THEORY-2150 ARG-144 — Proposed or new; claims and the question filed with this one from the same exchange -->
 
-# CLAIM-830: The mean-field derivation of the Barabási–Albert power law is the age mechanism in logarithmic time, so what separates linear preferential attachment from Gibrat's lognormal growth is the continual entry of new units and not the proportionality of growth
+# CLAIM-830: New entry, not proportionality, makes BA's law
 
 ## The gap
 

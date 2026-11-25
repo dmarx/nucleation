@@ -3,7 +3,15 @@ number: 1653
 status: Proposed
 formerly:
 - THEORY-tmp3h2ju
-title: 'Gauthier, Hodler, Widmer and Zhuravskaya (2026) find in a seven-week field experiment on X in 2023 that switching active US users from a chronological to the algorithmic feed shifted their policy priorities and views on current political events in a conservative direction and led them to follow more conservative activist accounts, while switching users from the algorithmic to the chronological feed had no comparable effect, and neither switch changed partisanship or affective polarization.'
+title: 'Algorithmic X feed shifts users conservative'
+statement: >-
+  Gauthier, Hodler, Widmer and Zhuravskaya (2026) find in a seven-week field
+  experiment on X in 2023 that switching active US users from a
+  chronological to the algorithmic feed shifted their policy priorities and
+  views on current political events in a conservative direction and led them
+  to follow more conservative activist accounts, while switching users from
+  the algorithmic to the chronological feed had no comparable effect, and
+  neither switch changed partisanship or affective polarization.
 version: 1
 source:
 - LIT-2431
@@ -25,7 +33,7 @@ summary: >-
   4,965 the post-survey.
 ---
 
-# THEORY-1653: Gauthier, Hodler, Widmer and Zhuravskaya (2026) find in a seven-week field experiment on X in 2023 that switching active US users from a chronological to the algorithmic feed shifted their policy priorities and views on current political events in a conservative direction and led them to follow more conservative activist accounts, while switching users from the algorithmic to the chronological feed had no comparable effect, and neither switch changed partisanship or affective polarization.
+# THEORY-1653: Algorithmic X feed shifts users conservative
 
 ## The account
 

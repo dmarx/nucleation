@@ -20,7 +20,13 @@ promote_when: >-
   examples chosen to fit the definitions; statistical normality in a
   reference class, which the account rejects as the standard; or a
   verdict on a real organism asserted without the field being computed.
-title: 'A trait malfunctions when its operation does not correlate positively with the normative field, the minimum change its organization''s viability requires at each precarious state; malfunction needs no second order of regulatory norms, and regulatory traits can malfunction by the same standard'
+title: 'Malfunction needs no second-order norms'
+statement: >-
+  A trait malfunctions when its operation does not correlate positively with
+  the normative field, the minimum change its organization's viability
+  requires at each precarious state; malfunction needs no second order of
+  regulatory norms, and regulatory traits can malfunction by the same
+  standard
 version: 1
 tags:
 - philosophy-of-biology
@@ -49,7 +55,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-536 — Unavailable; Moreno & Mossio's book, the source of the definitions criticized, cited as Barandiaran quotes it -->
 
-# THEORY-217: A trait malfunctions when its operation does not correlate positively with the normative field, the minimum change its organization's viability requires at each precarious state; malfunction needs no second order of regulatory norms, and regulatory traits can malfunction by the same standard
+# THEORY-217: Malfunction needs no second-order norms
 
 ## Source
 

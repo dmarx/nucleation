@@ -3,7 +3,13 @@ number: 1412
 status: Active
 formerly:
 - THEORY-tmpnqoln
-title: 'Guigues, Kleywegt and Nascimento propose that a per-station steady-state Markov-chain preparedness metric, used inside a one-step integer program for ambulance selection and reassignment, gives a real-time EMS policy whose mean allocation cost is lower than nine published dispatch policies in most simulated Rio de Janeiro configurations'
+title: 'Preparedness-based dispatch lowers EMS cost'
+statement: >-
+  Guigues, Kleywegt and Nascimento propose that a per-station steady-state
+  Markov-chain preparedness metric, used inside a one-step integer program
+  for ambulance selection and reassignment, gives a real-time EMS policy
+  whose mean allocation cost is lower than nine published dispatch policies
+  in most simulated Rio de Janeiro configurations
 version: 2
 history:
 - version: 2
@@ -39,7 +45,7 @@ summary: >-
 bears_on:
 - QUESTION-444
 ---
-# THEORY-1412: Guigues, Kleywegt and Nascimento propose that a per-station steady-state Markov-chain preparedness metric, used inside a one-step integer program for ambulance selection and reassignment, gives a real-time EMS policy whose mean allocation cost is lower than nine published dispatch policies in most simulated Rio de Janeiro configurations
+# THEORY-1412: Preparedness-based dispatch lowers EMS cost
 
 ## Source
 

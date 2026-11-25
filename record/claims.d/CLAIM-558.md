@@ -3,7 +3,12 @@ number: 558
 status: Active
 formerly:
 - CLAIM-tmp4g8e1
-title: 'A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation'
+title: 'Rare capabilities are kept by practice'
+statement: >-
+  A procedural capability that operation seldom calls on decays with the
+  time since its last use, and practice in the interval slows the decay, so
+  a capability kept for rare events is maintained by practice outside
+  operation, not by operation
 version: 9
 history:
 - version: 2
@@ -114,7 +119,7 @@ works:
 ---
 <!-- inactive-ok-file: CASE-314 THEORY-2211 ARG-201 — new; filed for LEAD-124 on 2026-11-22 -->
 
-# CLAIM-558: A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation
+# CLAIM-558: Rare capabilities are kept by practice
 
 ## The claim
 

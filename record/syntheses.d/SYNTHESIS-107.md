@@ -3,7 +3,16 @@ number: 107
 status: Proposed
 formerly:
 - SYNTHESIS-tmpk81pz
-title: 'From equivalence to recursive capability, as a chain of separable achievements: differences cease to matter to a family of operations, the resulting classes become operative units, persistent organization replaces repeated work, operating, learning and inquiry costs change, possibly in different directions, and the new capabilities shape later experience and organization; each step is stated by its own entry, each can fail without the next, and the chain as a whole is a proposed sequence the record does not assert'
+title: 'Equivalence to capability: a proposed chain'
+statement: >-
+  From equivalence to recursive capability, as a chain of separable
+  achievements: differences cease to matter to a family of operations, the
+  resulting classes become operative units, persistent organization replaces
+  repeated work, operating, learning and inquiry costs change, possibly in
+  different directions, and the new capabilities shape later experience and
+  organization; each step is stated by its own entry, each can fail without
+  the next, and the chain as a whole is a proposed sequence the record does
+  not assert
 version: 2
 history:
 - version: 2
@@ -59,7 +68,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-297 CASE-294 CASE-296 CLAIM-754 CLAIM-755 CLAIM-756 CLAIM-758 CLAIM-762 SYNTHESIS-105 SYNTHESIS-106 SYNTHESIS-108 — Proposed; cited in this filing of 2026-11-19 -->
 
-# SYNTHESIS-107: From equivalence to recursive capability, as a chain of separable achievements: differences cease to matter to a family of operations, the resulting classes become operative units, persistent organization replaces repeated work, operating, learning and inquiry costs change, possibly in different directions, and the new capabilities shape later experience and organization; each step is stated by its own entry, each can fail without the next, and the chain as a whole is a proposed sequence the record does not assert
+# SYNTHESIS-107: Equivalence to capability: a proposed chain
 
 ## The parts
 

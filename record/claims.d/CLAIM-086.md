@@ -3,7 +3,10 @@ number: 86
 status: Active
 formerly:
 - CLAIM-tmpo4t0w
-title: 'A constraint may govern conduct without governing the conditions under which it remains authoritative'
+title: 'Constraints may not govern their own authority'
+statement: >-
+  A constraint may govern conduct without governing the conditions under
+  which it remains authoritative
 version: 3
 history:
 - version: 2
@@ -48,7 +51,7 @@ complements:
 <!-- inactive-ok-file: THEORY-1787 THEORY-1796 THEORY-1809 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 <!-- ref::uses-file: TERM-017 — stated in "precedence, jurisdiction and suspension"; the body applies the term without naming it -->
 
-# CLAIM-086: A constraint may govern conduct without governing the conditions under which it remains authoritative
+# CLAIM-086: Constraints may not govern their own authority
 
 ## The claim
 

@@ -3,7 +3,15 @@ number: 1375
 status: Active
 formerly:
 - THEORY-tmp57bxg
-title: 'Ito, Demaine, Harvey, Papadimitriou, Sideri, Uehara and Uno show that deciding whether one feasible solution can be turned into another through feasible solutions differing in one element at a time is PSPACE-complete for the reconfiguration versions of many NP-complete problems and polynomial for some problems in P such as matroid bases and matchings, and that minimising or maximising the worst intermediate objective is NP-hard to approximate in some cases and 2-approximable in others'
+title: 'NP-complete reconfiguration is PSPACE-complete'
+statement: >-
+  Ito, Demaine, Harvey, Papadimitriou, Sideri, Uehara and Uno show that
+  deciding whether one feasible solution can be turned into another through
+  feasible solutions differing in one element at a time is PSPACE-complete
+  for the reconfiguration versions of many NP-complete problems and
+  polynomial for some problems in P such as matroid bases and matchings, and
+  that minimising or maximising the worst intermediate objective is NP-hard
+  to approximate in some cases and 2-approximable in others
 version: 2
 history:
 - version: 2
@@ -36,7 +44,7 @@ summary: >-
   since the problems are decision problems about existence.
 ---
 
-# THEORY-1375: Ito, Demaine, Harvey, Papadimitriou, Sideri, Uehara and Uno show that deciding whether one feasible solution can be turned into another through feasible solutions differing in one element at a time is PSPACE-complete for the reconfiguration versions of many NP-complete problems and polynomial for some problems in P such as matroid bases and matchings, and that minimising or maximising the worst intermediate objective is NP-hard to approximate in some cases and 2-approximable in others
+# THEORY-1375: NP-complete reconfiguration is PSPACE-complete
 
 ## Source
 

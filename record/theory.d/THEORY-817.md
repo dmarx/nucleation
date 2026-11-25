@@ -27,8 +27,13 @@ promote_when: "A proof, for a stated class of percept-action channels with feedb
 
 # The claim. Repeat it as the body's `# THEORY-817:` heading; the lint checks
 # that the two agree.
-title: "Once an agent's actions affect the percepts it receives, maximal prediction of those percepts is generally not what thermodynamic efficiency requires: in percept-action loops with feedback, maximally predictive agents generally extract less work than the most efficient agent"
-
+title: 'Max prediction isn''t max work under feedback'
+statement: >-
+  Once an agent's actions affect the percepts it receives, maximal
+  prediction of those percepts is generally not what thermodynamic
+  efficiency requires: in percept-action loops with feedback, maximally
+  predictive agents generally extract less work than the most efficient
+  agent
 version: 1
 
 # One or more topics from luria.yaml, primary first — the same table the
@@ -60,7 +65,7 @@ extends:
 ---
 
 
-# THEORY-817: Once an agent's actions affect the percepts it receives, maximal prediction of those percepts is generally not what thermodynamic efficiency requires: in percept-action loops with feedback, maximally predictive agents generally extract less work than the most efficient agent
+# THEORY-817: Max prediction isn't max work under feedback
 
 ## Source
 

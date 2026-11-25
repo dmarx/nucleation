@@ -10,7 +10,13 @@ promote_when: >-
   jointly yields the CVaR-minimizing decision with the VaR as a minimizer
   in α, and reduces to a linear program for linear losses on finitely many
   scenarios.
-title: 'Rockafellar and Uryasev show that the conditional value-at-risk of a loss at level β equals the minimum over α of α + (1−β)⁻¹E[loss − α]⁺, so minimizing it over decisions is a joint minimization that also yields the value-at-risk, convex when the loss is convex in the decision and a linear program on sampled scenarios when the loss is linear'
+title: 'CVaR minimization is convex and yields VaR'
+statement: >-
+  Rockafellar and Uryasev show that the conditional value-at-risk of a loss
+  at level β equals the minimum over α of α + (1−β)⁻¹E[loss − α]⁺, so
+  minimizing it over decisions is a joint minimization that also yields the
+  value-at-risk, convex when the loss is convex in the decision and a linear
+  program on sampled scenarios when the loss is linear
 version: 1
 tags:
 - operations-research
@@ -27,7 +33,7 @@ summary: >-
   the paper's own examples show can be large.
 ---
 
-# THEORY-1391: Rockafellar and Uryasev show that the conditional value-at-risk of a loss at level β equals the minimum over α of α + (1−β)⁻¹E[loss − α]⁺, so minimizing it over decisions is a joint minimization that also yields the value-at-risk, convex when the loss is convex in the decision and a linear program on sampled scenarios when the loss is linear
+# THEORY-1391: CVaR minimization is convex and yields VaR
 
 ## Source
 

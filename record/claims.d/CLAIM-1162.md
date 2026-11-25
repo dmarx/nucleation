@@ -3,7 +3,15 @@ number: 1162
 status: Active
 formerly:
 - CLAIM-tmpraadt
-title: 'Sampling the toy model of superposition''s tempered posterior exp(−nL) under Chen et al.''s N(0, 1) prior does not confirm the critical sample sizes the free-energy formula gives for the training chain: 5 → 5⁺ falls near n = 780, not 1,600–2,500, the first two steps have no crossing above n ≈ 1, and 5 → 6 falls near 270, not 601, which matches Chen et al.''s sampled 600–700 only because their likelihood carries a factor ½ that their formula does not'
+title: 'Sampled posterior misses predicted critical sizes'
+statement: >-
+  Sampling the toy model of superposition's tempered posterior exp(−nL)
+  under Chen et al.'s N(0, 1) prior does not confirm the critical sample
+  sizes the free-energy formula gives for the training chain: 5 → 5⁺ falls
+  near n = 780, not 1,600–2,500, the first two steps have no crossing above
+  n ≈ 1, and 5 → 6 falls near 270, not 601, which matches Chen et al.'s
+  sampled 600–700 only because their likelihood carries a factor ½ that
+  their formula does not
 version: 2
 history:
 - version: 2
@@ -47,7 +55,7 @@ summary: >-
   the owner's call.
 ---
 
-# CLAIM-1162: Sampling the toy model of superposition's tempered posterior exp(−nL) under Chen et al.'s N(0, 1) prior does not confirm the critical sample sizes the free-energy formula gives for the training chain: 5 → 5⁺ falls near n = 780, not 1,600–2,500, the first two steps have no crossing above n ≈ 1, and 5 → 6 falls near 270, not 601, which matches Chen et al.'s sampled 600–700 only because their likelihood carries a factor ½ that their formula does not
+# CLAIM-1162: Sampled posterior misses predicted critical sizes
 
 ## The claim
 

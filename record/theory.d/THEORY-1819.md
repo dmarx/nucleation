@@ -3,7 +3,13 @@ number: 1819
 status: Proposed
 formerly:
 - THEORY-tmpo4ghu
-title: 'Lovett and Riedener argue that organizations, being group agents without welfare, have no moral status, and that what we seem to owe them, such as promise-keeping and gratitude, we owe to their members, whose interest in willing participation in successful group agency grounds claims that mimic the organization''s'
+title: 'Organizations lack moral status; members have it'
+statement: >-
+  Lovett and Riedener argue that organizations, being group agents without
+  welfare, have no moral status, and that what we seem to owe them, such as
+  promise-keeping and gratitude, we owe to their members, whose interest in
+  willing participation in successful group agency grounds claims that mimic
+  the organization's
 version: 1
 source:
 - LIT-2526
@@ -22,7 +28,7 @@ summary: >-
   Lovett and Riedener (2021), read in [NOTE-1891](../notes.d/NOTE-1891.md) (Read). The Group Interest View: organizations have no welfare and so no moral status; members' interest in endorsed participation in successful group agency grounds the claims organizations seem to have.
 ---
 
-# THEORY-1819: Lovett and Riedener argue that organizations, being group agents without welfare, have no moral status, and that what we seem to owe them, such as promise-keeping and gratitude, we owe to their members, whose interest in willing participation in successful group agency grounds claims that mimic the organization's
+# THEORY-1819: Organizations lack moral status; members have it
 
 ## The account
 

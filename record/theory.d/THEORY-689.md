@@ -3,7 +3,13 @@ number: 689
 status: Active
 formerly:
 - THEORY-tmpytg92
-title: "A mobile robot built from parallel layers of simple finite-state machines, each linking sensing to action by itself and combined only by one layer suppressing or inhibiting another's signals, avoids obstacles, wanders and heads for distant places with no central world model, goal list or controller; shown at insect scale, on three layers of one physical robot"
+title: 'Layered FSMs control a robot without a model'
+statement: >-
+  A mobile robot built from parallel layers of simple finite-state machines,
+  each linking sensing to action by itself and combined only by one layer
+  suppressing or inhibiting another's signals, avoids obstacles, wanders and
+  heads for distant places with no central world model, goal list or
+  controller; shown at insect scale, on three layers of one physical robot
 version: 1
 tags:
 - behavioral-integration
@@ -24,7 +30,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-043 THEORY-056 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-429 — Unavailable; a related work named by the reading, not leaned on for its content -->
 
-# THEORY-689: A mobile robot built from parallel layers of simple finite-state machines, each linking sensing to action by itself and combined only by one layer suppressing or inhibiting another's signals, avoids obstacles, wanders and heads for distant places with no central world model, goal list or controller; shown at insect scale, on three layers of one physical robot
+# THEORY-689: Layered FSMs control a robot without a model
 
 ## Source
 

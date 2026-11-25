@@ -11,7 +11,15 @@ promote_when: >-
   types as described from rectype declarations for the paper's own
   examples, singleton lists and bitstrings in standard form, without
   annotations.
-title: 'Freeman and Pfenning propose refinement types for ML: subtypes of a datatype that the programmer declares as recursive types, closed under intersection and union into a finite lattice, and inferred by abstract interpretation only for programs already well-typed in ML, which keeps inference decidable and leaves the language of programs unchanged; an annotation is accepted only when the inferred refinement lies below it, and evaluation preserves the refinement type'
+title: 'Refinement types keep ML inference decidable'
+statement: >-
+  Freeman and Pfenning propose refinement types for ML: subtypes of a
+  datatype that the programmer declares as recursive types, closed under
+  intersection and union into a finite lattice, and inferred by abstract
+  interpretation only for programs already well-typed in ML, which keeps
+  inference decidable and leaves the language of programs unchanged; an
+  annotation is accepted only when the inferred refinement lies below it,
+  and evaluation preserves the refinement type
 version: 1
 tags:
 - logic
@@ -33,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-209 ARG-208 CLAIM-965 CLAIM-949 CLAIM-783 — Proposed or Rejected; the arguments and counter filed from this reading, and the claims it bears on -->
 
-# THEORY-2259: Freeman and Pfenning propose refinement types for ML: subtypes of a datatype that the programmer declares as recursive types, closed under intersection and union into a finite lattice, and inferred by abstract interpretation only for programs already well-typed in ML, which keeps inference decidable and leaves the language of programs unchanged; an annotation is accepted only when the inferred refinement lies below it, and evaluation preserves the refinement type
+# THEORY-2259: Refinement types keep ML inference decidable
 
 ## Source
 

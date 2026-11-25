@@ -18,7 +18,13 @@ promote_when: >-
   more donors found by the same calibrated thresholds, cannot settle it.
   It is in trouble if the extra donors vanish under the stricter filter,
   or if an independent clock puts their genes after the mitochondrion's.
-title: 'Besides Asgard archaea and the alphaproteobacterial ancestor of mitochondria, Myxococcota and Planctomycetota were major donors of genes to the eukaryotic lineage before its last common ancestor, in waves: Asgard first, then Planctomycetota before the mitochondrion, then the mitochondrial ancestor and Myxococcota together'
+title: 'Myxococcota, Planctomycetota gave genes in waves'
+statement: >-
+  Besides Asgard archaea and the alphaproteobacterial ancestor of
+  mitochondria, Myxococcota and Planctomycetota were major donors of genes
+  to the eukaryotic lineage before its last common ancestor, in waves:
+  Asgard first, then Planctomycetota before the mitochondrion, then the
+  mitochondrial ancestor and Myxococcota together
 version: 1
 tags:
 - endosymbiosis
@@ -39,7 +45,7 @@ summary: >-
   [THEORY-1105](THEORY-1105.md)'s old condition, word for word.
 ---
 
-# THEORY-1215: Besides Asgard archaea and the alphaproteobacterial ancestor of mitochondria, Myxococcota and Planctomycetota were major donors of genes to the eukaryotic lineage before its last common ancestor, in waves: Asgard first, then Planctomycetota before the mitochondrion, then the mitochondrial ancestor and Myxococcota together
+# THEORY-1215: Myxococcota, Planctomycetota gave genes in waves
 
 ## Source
 

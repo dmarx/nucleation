@@ -3,7 +3,14 @@ number: 856
 status: Proposed
 formerly:
 - CLAIM-tmpufbx6
-title: 'An alternative to the floor and band of the owner''s truncated-band account: the fine end of a learned spectrum may be damped for smoothness and generalization, with discrimination growing steadily toward it, and the floor a measurement finds below it may be estimator noise rather than a class of low-signal outliers bounding a band of highly discriminating directions'
+title: 'Spectral floor may be estimator noise'
+statement: >-
+  An alternative to the floor and band of the owner's truncated-band
+  account: the fine end of a learned spectrum may be damped for smoothness
+  and generalization, with discrimination growing steadily toward it, and
+  the floor a measurement finds below it may be estimator noise rather than
+  a class of low-signal outliers bounding a band of highly discriminating
+  directions
 version: 1
 role: thesis
 warrant: interpretive
@@ -48,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-854 THEORY-2174 CLAIM-855 ARG-173 ARG-162 — Proposed or new; the owner's claim this rivals, its grounds, the other alternative and the test -->
 <!-- inactive-ok-file: THEORY-2186 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-856: An alternative to the floor and band of the owner's truncated-band account: the fine end of a learned spectrum may be damped for smoothness and generalization, with discrimination growing steadily toward it, and the floor a measurement finds below it may be estimator noise rather than a class of low-signal outliers bounding a band of highly discriminating directions
+# CLAIM-856: Spectral floor may be estimator noise
 
 **Which part it rivals.** Of the owner's [CLAIM-854](CLAIM-854.md), the second and
 third parts: the extreme bottom carries low-signal outliers, and once it

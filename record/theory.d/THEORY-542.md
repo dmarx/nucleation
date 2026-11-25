@@ -13,7 +13,14 @@ promote_when: >-
   Quantitative fits to infant data, rather than orderings, would bear on
   the behavioural half. More qualitative orderings matched to single
   experiments cannot settle it.
-title: "A word learner that infers speakers' referential intentions jointly with the lexicon, and lets words be uttered non-referentially, learns object names from child-directed video more precisely than co-occurrence and translation models, and mutual exclusivity, word-guided object individuation and intention-guided mapping follow from it without principles built in for them"
+title: 'Inferring speaker intent improves word learning'
+statement: >-
+  A word learner that infers speakers' referential intentions jointly with
+  the lexicon, and lets words be uttered non-referentially, learns object
+  names from child-directed video more precisely than co-occurrence and
+  translation models, and mutual exclusivity, word-guided object
+  individuation and intention-guided mapping follow from it without
+  principles built in for them
 version: 1
 tags:
 - cognition
@@ -33,7 +40,7 @@ summary: >-
   nothing they correct; this account is filed Proposed for that reason.
 ---
 
-# THEORY-542: A word learner that infers speakers' referential intentions jointly with the lexicon, and lets words be uttered non-referentially, learns object names from child-directed video more precisely than co-occurrence and translation models, and mutual exclusivity, word-guided object individuation and intention-guided mapping follow from it without principles built in for them
+# THEORY-542: Inferring speaker intent improves word learning
 
 ## Source
 

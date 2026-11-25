@@ -9,7 +9,12 @@ promote_when: >-
   pattern with a mountain–valley assignment folds rigidly from flat exactly
   when it contains a same-parity tripod or cross together with one crease
   of the opposite parity.
-title: 'Abel and colleagues prove that a single-vertex crease pattern with a mountain–valley assignment folds rigidly from flat exactly when it contains a bird''s foot, a same-parity tripod or cross together with one crease of the opposite parity'
+title: 'Rigid folding from flat needs a bird''s foot'
+statement: >-
+  Abel and colleagues prove that a single-vertex crease pattern with a
+  mountain–valley assignment folds rigidly from flat exactly when it
+  contains a bird's foot, a same-parity tripod or cross together with one
+  crease of the opposite parity
 version: 1
 tags:
 - mathematics
@@ -25,7 +30,7 @@ summary: >-
   the paper passes through itself.
 ---
 
-# THEORY-1393: Abel and colleagues prove that a single-vertex crease pattern with a mountain–valley assignment folds rigidly from flat exactly when it contains a bird's foot, a same-parity tripod or cross together with one crease of the opposite parity
+# THEORY-1393: Rigid folding from flat needs a bird's foot
 
 ## Source
 

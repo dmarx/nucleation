@@ -3,7 +3,18 @@ number: 1237
 status: Proposed
 formerly:
 - CLAIM-tmp6nzs1
-title: "Where a party's fallback is valued by what it could produce alone from a capacity learned by doing that needs capacity already present to grow, and its terms are bargained by a rule under which a more valuable fallback gets more, supply that does the party's own work lowers the terms it can obtain at any renegotiation while it never exits and no price, rule or exit changes; ending the supply restores them, asymptotically, if it ends before the capacity's deadline and not after; supply that covers only what the party cannot yet do leaves the capacity, and so the terms, as they would be with no supply; and where the party cannot exit, the fallback does not enter the terms"
+title: 'Supply doing one''s work lowers one''s terms'
+statement: >-
+  Where a party's fallback is valued by what it could produce alone from a
+  capacity learned by doing that needs capacity already present to grow, and
+  its terms are bargained by a rule under which a more valuable fallback
+  gets more, supply that does the party's own work lowers the terms it can
+  obtain at any renegotiation while it never exits and no price, rule or
+  exit changes; ending the supply restores them, asymptotically, if it ends
+  before the capacity's deadline and not after; supply that covers only what
+  the party cannot yet do leaves the capacity, and so the terms, as they
+  would be with no supply; and where the party cannot exit, the fallback
+  does not enter the terms
 version: 2
 history:
 - version: 2
@@ -87,7 +98,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-264 CLAIM-1221 CLAIM-670 CLAIM-690 TERM-123 TERM-124 — Proposed or new; the bargaining case, the claims this complements, and the terms a verdict of exploitation or domination would need, cited with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-032 CASE-367 CLAIM-954 CLAIM-946 — Proposed; the account that declines a neighbouring join, and two executed studies with their claims, cited for contrast -->
 
-# CLAIM-1237: Where a party's fallback is valued by what it could produce alone from a capacity learned by doing that needs capacity already present to grow, and its terms are bargained by a rule under which a more valuable fallback gets more, supply that does the party's own work lowers the terms it can obtain at any renegotiation while it never exits and no price, rule or exit changes; ending the supply restores them, asymptotically, if it ends before the capacity's deadline and not after; supply that covers only what the party cannot yet do leaves the capacity, and so the terms, as they would be with no supply; and where the party cannot exit, the fallback does not enter the terms
+# CLAIM-1237: Supply doing one's work lowers one's terms
 
 ## The gap it fills
 

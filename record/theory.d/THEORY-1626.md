@@ -3,7 +3,13 @@ number: 1626
 status: Active
 formerly:
 - THEORY-tmpxeims
-title: 'Ord argues that, with value summed over time and no pure time preference, advancing progress is worth an amount that does not grow with the future''s duration, while reducing near-term existential risk multiplies the whole future''s value like an enhancement, so pure advancements rarely rival existential risk reduction'
+title: 'Advancing progress rarely rivals risk reduction'
+statement: >-
+  Ord argues that, with value summed over time and no pure time preference,
+  advancing progress is worth an amount that does not grow with the future's
+  duration, while reducing near-term existential risk multiplies the whole
+  future's value like an enhancement, so pure advancements rarely rival
+  existential risk reduction
 version: 2
 history:
 - version: 1
@@ -34,7 +40,7 @@ bears_on:
 - QUESTION-299
 ---
 
-# THEORY-1626: Ord argues that, with value summed over time and no pure time preference, advancing progress is worth an amount that does not grow with the future's duration, while reducing near-term existential risk multiplies the whole future's value like an enhancement, so pure advancements rarely rival existential risk reduction
+# THEORY-1626: Advancing progress rarely rivals risk reduction
 
 ## The account
 

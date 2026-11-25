@@ -3,7 +3,14 @@ number: 598
 status: Active
 formerly:
 - CLAIM-tmpt0fnx
-title: 'Whether more of every resource raises, leaves or lowers the chance that an assembly reaches its target depends, at each branch point, on whether the competing steps consume further resource: a branch whose steps all consume alike is unchanged by uniform abundance, and one where the wrong step consumes and the right one does not is made worse by it, as Majikes et al. report for a single DNA origami fold that excess staples block'
+title: 'More resource can raise or lower assembly odds'
+statement: >-
+  Whether more of every resource raises, leaves or lowers the chance that an
+  assembly reaches its target depends, at each branch point, on whether the
+  competing steps consume further resource: a branch whose steps all consume
+  alike is unchanged by uniform abundance, and one where the wrong step
+  consumes and the right one does not is made worse by it, as Majikes et al.
+  report for a single DNA origami fold that excess staples block
 version: 3
 history:
 - version: 2
@@ -66,7 +73,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-215 — Proposed or new; the model, the companion claim, the question it bears on, and the slack claim it qualifies -->
 
-# CLAIM-598: Whether more of every resource raises, leaves or lowers the chance that an assembly reaches its target depends, at each branch point, on whether the competing steps consume further resource: a branch whose steps all consume alike is unchanged by uniform abundance, and one where the wrong step consumes and the right one does not is made worse by it, as Majikes et al. report for a single DNA origami fold that excess staples block
+# CLAIM-598: More resource can raise or lower assembly odds
 
 ## The claim
 

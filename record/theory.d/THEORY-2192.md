@@ -12,7 +12,15 @@ promote_when: >-
   cites this paper. Not defeated by a showing that a Euclidean or
   differently weighted variant does as well, which the title does not
   assert against.
-title: "Ghadimi Atigh and colleagues find that an image classifier with a class tree embedded as hyperbolic prototypes, trained on labels from any level of the tree with a coarse label as a uniform target over its leaves, an entailment-cone penalty toward the label's cone and a Busemann pull toward the label's boundary direction, reaches far higher leaf accuracy than one that discards the coarse labels, and recovers withheld fine labels, when most labels are coarse"
+title: 'Hyperbolic prototypes learn from coarse labels'
+statement: >-
+  Ghadimi Atigh and colleagues find that an image classifier with a class
+  tree embedded as hyperbolic prototypes, trained on labels from any level
+  of the tree with a coarse label as a uniform target over its leaves, an
+  entailment-cone penalty toward the label's cone and a Busemann pull toward
+  the label's boundary direction, reaches far higher leaf accuracy than one
+  that discards the coarse labels, and recovers withheld fine labels, when
+  most labels are coarse
 version: 1
 tags:
 - representation-learning
@@ -34,7 +42,7 @@ summary: >-
   Proposed until replicated.
 ---
 
-# THEORY-2192: Ghadimi Atigh and colleagues find that an image classifier with a class tree embedded as hyperbolic prototypes, trained on labels from any level of the tree with a coarse label as a uniform target over its leaves, an entailment-cone penalty toward the label's cone and a Busemann pull toward the label's boundary direction, reaches far higher leaf accuracy than one that discards the coarse labels, and recovers withheld fine labels, when most labels are coarse
+# THEORY-2192: Hyperbolic prototypes learn from coarse labels
 
 ## Source
 

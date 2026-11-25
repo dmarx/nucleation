@@ -3,7 +3,13 @@ number: 379
 status: Active
 formerly:
 - THEORY-tmpllt85
-title: "Fagin's Algorithm finds the top k of N objects held in m attribute-sorted lists under any monotone combining function, and when the lists' orderings are independent with at least m − 1 of them uniformly random it does so with O(N^((m−1)/m) k^(1/m)) sorted and random accesses with arbitrarily high probability; with dependent orderings the bound can fail"
+title: 'FA top-k is sublinear for independent lists'
+statement: >-
+  Fagin's Algorithm finds the top k of N objects held in m attribute-sorted
+  lists under any monotone combining function, and when the lists' orderings
+  are independent with at least m − 1 of them uniformly random it does so
+  with O(N^((m−1)/m) k^(1/m)) sorted and random accesses with arbitrarily
+  high probability; with dependent orderings the bound can fail
 version: 3
 history:
 - version: 2
@@ -51,7 +57,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-1108 — Unavailable or unread; the source of the bound, cited as reported by LIT-1115 -->
 <!-- inactive-ok-file: THEORY-832 — Proposed; the lower bound this entry dropped when it was narrowed, open -->
 
-# THEORY-379: Fagin's Algorithm finds the top k of N objects held in m attribute-sorted lists under any monotone combining function, and when the lists' orderings are independent with at least m − 1 of them uniformly random it does so with O(N^((m−1)/m) k^(1/m)) sorted and random accesses with arbitrarily high probability; with dependent orderings the bound can fail
+# THEORY-379: FA top-k is sublinear for independent lists
 
 ## Source
 

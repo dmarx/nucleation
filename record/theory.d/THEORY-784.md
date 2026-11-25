@@ -15,7 +15,13 @@ promote_when: >-
   estimated without a neural model of the same class. More collapses at
   the scale already reported, with γ read off the trained models' own
   n-gram losses, cannot settle it.
-title: 'Language models trained on limited data show a test loss falling as P^(−γ/(2β)) because P training tokens resolve token correlations only out to a horizon growing as P^(1/(2β)), so that more data mainly lengthens the context a model can use, when the model learns within that horizon faster than it grows, as Cagnetta, Raventós, Ganguli and Wyart propose'
+title: 'Data-limited loss falls as context horizon grows'
+statement: >-
+  Language models trained on limited data show a test loss falling as
+  P^(−γ/(2β)) because P training tokens resolve token correlations only out
+  to a horizon growing as P^(1/(2β)), so that more data mainly lengthens the
+  context a model can use, when the model learns within that horizon faster
+  than it grows, as Cagnetta, Raventós, Ganguli and Wyart propose
 version: 1
 tags:
 - learning-theory
@@ -40,7 +46,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-2200 — Proposed; the reading of Crutchfield and Feldman, 2026-11-22 -->
 
-# THEORY-784: Language models trained on limited data show a test loss falling as P^(−γ/(2β)) because P training tokens resolve token correlations only out to a horizon growing as P^(1/(2β)), so that more data mainly lengthens the context a model can use, when the model learns within that horizon faster than it grows, as Cagnetta, Raventós, Ganguli and Wyart propose
+# THEORY-784: Data-limited loss falls as context horizon grows
 
 ## Source
 

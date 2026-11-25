@@ -3,7 +3,14 @@ number: 482
 status: Active
 formerly:
 - THEORY-tmpagav0
-title: "For a closed quantum system that starts thermal and is measured projectively in energy before and after a unitary drive, the two-point-measurement work obeys the Jarzynski equality and the Tasaki–Crooks relation in exactly the classical form, because those energy measurements erase the coherences in which a quantum difference could appear"
+title: 'Two-point work obeys classical fluctuation laws'
+statement: >-
+  For a closed quantum system that starts thermal and is measured
+  projectively in energy before and after a unitary drive, the
+  two-point-measurement work obeys the Jarzynski equality and the
+  Tasaki–Crooks relation in exactly the classical form, because those energy
+  measurements erase the coherences in which a quantum difference could
+  appear
 version: 1
 tags:
 - quantum-foundations
@@ -26,7 +33,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-416 — Proposed; the sibling account of work notions, named, not leaned on -->
 
-# THEORY-482: For a closed quantum system that starts thermal and is measured projectively in energy before and after a unitary drive, the two-point-measurement work obeys the Jarzynski equality and the Tasaki–Crooks relation in exactly the classical form, because those energy measurements erase the coherences in which a quantum difference could appear
+# THEORY-482: Two-point work obeys classical fluctuation laws
 
 ## Source
 

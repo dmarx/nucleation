@@ -3,7 +3,16 @@ number: 45
 status: Proposed
 formerly:
 - SYNTHESIS-tmpq7bvl
-title: 'Whether an assembly reaches its target is not fixed by how much resource it has: a resource that also sets the costs it pays, as heat does, gives a window and lets a schedule beat every level, abundance helps or hurts by whether the competing steps consume it, persistence and productivity vary independently, yields cannot tell a generative nucleus from a head start, and productive nucleating sets need not be closed upward; a productive nucleus is defined by what its establishment does to later formation against a declared target, comparator and horizon'
+title: 'Resource amount does not fix assembly success'
+statement: >-
+  Whether an assembly reaches its target is not fixed by how much resource
+  it has: a resource that also sets the costs it pays, as heat does, gives a
+  window and lets a schedule beat every level, abundance helps or hurts by
+  whether the competing steps consume it, persistence and productivity vary
+  independently, yields cannot tell a generative nucleus from a head start,
+  and productive nucleating sets need not be closed upward; a productive
+  nucleus is defined by what its establishment does to later formation
+  against a declared target, comparator and horizon
 version: 2
 history:
 - version: 2
@@ -51,7 +60,7 @@ integrates:
 ---
 <!-- inactive-ok-file: CASE-269 CASE-215 CASE-218 CASE-219 CASE-220 CLAIM-185 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-045: Whether an assembly reaches its target is not fixed by how much resource it has: a resource that also sets the costs it pays, as heat does, gives a window and lets a schedule beat every level, abundance helps or hurts by whether the competing steps consume it, persistence and productivity vary independently, yields cannot tell a generative nucleus from a head start, and productive nucleating sets need not be closed upward; a productive nucleus is defined by what its establishment does to later formation against a declared target, comparator and horizon
+# SYNTHESIS-045: Resource amount does not fix assembly success
 
 *A part account of the realizability line: the part filed from the DNA
 origami readings chosen by the assistant at the owner's request of

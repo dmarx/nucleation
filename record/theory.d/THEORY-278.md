@@ -3,7 +3,15 @@ number: 278
 status: Active
 formerly:
 - THEORY-tmpqg4nq
-title: 'Under MSE loss, in Han, Papyan and Donoho''s VGG, ResNet and DenseNet runs on five balanced ten-class datasets, the trained classifier stays near the least-squares classifier for its own features from an early epoch; and on that central path, for unconstrained features continually renormalized to identity within-class covariance and without weight decay, gradient flow drives the class-separation singular values to infinity at equal rates, which in that model is neural collapse'
+title: 'MSE training follows a central path to collapse'
+statement: >-
+  Under MSE loss, in Han, Papyan and Donoho's VGG, ResNet and DenseNet runs
+  on five balanced ten-class datasets, the trained classifier stays near the
+  least-squares classifier for its own features from an early epoch; and on
+  that central path, for unconstrained features continually renormalized to
+  identity within-class covariance and without weight decay, gradient flow
+  drives the class-separation singular values to infinity at equal rates,
+  which in that model is neural collapse
 version: 5
 history:
 - version: 2
@@ -72,7 +80,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-797 — Proposed; the wider proposal this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 <!-- inactive-ok-file: THEORY-2185 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# THEORY-278: Under MSE loss, in Han, Papyan and Donoho's VGG, ResNet and DenseNet runs on five balanced ten-class datasets, the trained classifier stays near the least-squares classifier for its own features from an early epoch; and on that central path, for unconstrained features continually renormalized to identity within-class covariance and without weight decay, gradient flow drives the class-separation singular values to infinity at equal rates, which in that model is neural collapse
+# THEORY-278: MSE training follows a central path to collapse
 
 ## Source
 

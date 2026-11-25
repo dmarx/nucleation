@@ -3,7 +3,12 @@ number: 165
 status: Active
 formerly:
 - THEORY-tmp8ly9g
-title: 'Within a fixed measurement scenario, the non-contextual fraction is the value of a linear programme whose constraint vector is the empirical model''s probability table, and the contextual fraction is convex under mixing'
+title: 'Contextual fraction is a linear programme'
+statement: >-
+  Within a fixed measurement scenario, the non-contextual fraction is the
+  value of a linear programme whose constraint vector is the empirical
+  model's probability table, and the contextual fraction is convex under
+  mixing
 version: 2
 history:
 - version: 2
@@ -36,7 +41,7 @@ summary: >-
   applies to signalling data, where CF is undefined.
 ---
 
-# THEORY-165: Within a fixed measurement scenario, the non-contextual fraction is the value of a linear programme whose constraint vector is the empirical model's probability table, and the contextual fraction is convex under mixing
+# THEORY-165: Contextual fraction is a linear programme
 
 ## Source
 

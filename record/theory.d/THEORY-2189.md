@@ -3,7 +3,14 @@ number: 2189
 status: Proposed
 formerly:
 - THEORY-tmpwn1xp
-title: 'Ansuini, Laio, Macke and Zoccolan find that in trained image CNNs the TwoNN intrinsic dimension of a layer''s representations is orders of magnitude below the layer''s width, rises over the early layers and falls to about 12 to 25 in the last hidden layer, and is one to two orders below a 90 per cent variance PCA count, and that across architectures, not across seeds, its last-layer value correlates with test accuracy'
+title: 'CNN representations have low intrinsic dimension'
+statement: >-
+  Ansuini, Laio, Macke and Zoccolan find that in trained image CNNs the
+  TwoNN intrinsic dimension of a layer's representations is orders of
+  magnitude below the layer's width, rises over the early layers and falls
+  to about 12 to 25 in the last hidden layer, and is one to two orders below
+  a 90 per cent variance PCA count, and that across architectures, not
+  across seeds, its last-layer value correlates with test accuracy
 promote_when: >-
   An independent study, with an intrinsic-dimension estimator other than
   TwoNN or with TwoNN on other image networks, reproduces the rise-then-fall
@@ -25,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-136 — Proposed; the term that draws on this reading -->
 
-# THEORY-2189: Ansuini, Laio, Macke and Zoccolan find that in trained image CNNs the TwoNN intrinsic dimension of a layer's representations is orders of magnitude below the layer's width, rises over the early layers and falls to about 12 to 25 in the last hidden layer, and is one to two orders below a 90 per cent variance PCA count, and that across architectures, not across seeds, its last-layer value correlates with test accuracy
+# THEORY-2189: CNN representations have low intrinsic dimension
 
 ## Source
 

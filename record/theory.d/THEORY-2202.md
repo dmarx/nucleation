@@ -12,7 +12,15 @@ promote_when: >-
   read and filed, would do, or a reading of the higher-dimensional
   literature beyond Le Doussal's summary; Takeuchi and Sano (LIT-2982)
   already confirm the one-dimensional exponents in experiment.
-title: "Kardar, Parisi and Zhang propose ∂h/∂t = ν∇²h + (λ/2)(∇h)² + η, invariant under a shift of h and a small tilt, as the simplest local equation for a growing interface, and by a one-loop dynamic renormalization group find that any nonzero λ is relevant in one dimension and gives a class with χ = ½ and z = 3/2, exact by a fluctuation-dissipation theorem, that λ is marginally relevant in two dimensions, and that above two dimensions a small λ is irrelevant and the surface asymptotically smooth with z = 2"
+title: 'KPZ nonlinearity is relevant in one dimension'
+statement: >-
+  Kardar, Parisi and Zhang propose ∂h/∂t = ν∇²h + (λ/2)(∇h)² + η, invariant
+  under a shift of h and a small tilt, as the simplest local equation for a
+  growing interface, and by a one-loop dynamic renormalization group find
+  that any nonzero λ is relevant in one dimension and gives a class with χ =
+  ½ and z = 3/2, exact by a fluctuation-dissipation theorem, that λ is
+  marginally relevant in two dimensions, and that above two dimensions a
+  small λ is irrelevant and the surface asymptotically smooth with z = 2
 version: 1
 tags:
 - complex-systems
@@ -38,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2198 ARG-195 CLAIM-862 — new or Proposed; this reading, the retrospective read beside it, and the entries it grounds -->
 <!-- inactive-ok-file: CLAIM-841 — Proposed; the claim whose KPZ row it grounds -->
 
-# THEORY-2202: Kardar, Parisi and Zhang propose ∂h/∂t = ν∇²h + (λ/2)(∇h)² + η, invariant under a shift of h and a small tilt, as the simplest local equation for a growing interface, and by a one-loop dynamic renormalization group find that any nonzero λ is relevant in one dimension and gives a class with χ = ½ and z = 3/2, exact by a fluctuation-dissipation theorem, that λ is marginally relevant in two dimensions, and that above two dimensions a small λ is irrelevant and the surface asymptotically smooth with z = 2
+# THEORY-2202: KPZ nonlinearity is relevant in one dimension
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 737
 status: Active
 formerly:
 - THEORY-tmp9irmk
-title: 'In a spectral contrastive graph that joins labelled known classes to unlabelled data, the least-squares residual of a novel labelling on the top-k eigenspace, with the labelled entries left free, equals exactly the part of the labelling outside that eigenspace that the labelled rows of the discarded eigenvectors cannot absorb'
+title: 'Novel labels'' residual is what known rows miss'
+statement: >-
+  In a spectral contrastive graph that joins labelled known classes to
+  unlabelled data, the least-squares residual of a novel labelling on the
+  top-k eigenspace, with the labelled entries left free, equals exactly the
+  part of the labelling outside that eigenspace that the labelled rows of
+  the discarded eigenvectors cannot absorb
 version: 1
 history:
 - version: 1
@@ -32,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-320 — Proposed; the toy help-and-harm account this was split from and that extends it, cited as open -->
 
-# THEORY-737: In a spectral contrastive graph that joins labelled known classes to unlabelled data, the least-squares residual of a novel labelling on the top-k eigenspace, with the labelled entries left free, equals exactly the part of the labelling outside that eigenspace that the labelled rows of the discarded eigenvectors cannot absorb
+# THEORY-737: Novel labels' residual is what known rows miss
 
 ## Source
 

@@ -3,7 +3,11 @@ number: 236
 status: Active
 formerly:
 - THEORY-tmpuowt1
-title: "A representational similarity index that is invariant to every invertible linear map takes the same value on all representations whose rank equals the number of examples"
+title: 'Linear-invariant similarity fails at full rank'
+statement: >-
+  A representational similarity index that is invariant to every invertible
+  linear map takes the same value on all representations whose rank equals
+  the number of examples
 version: 3
 history:
 - version: 2
@@ -45,7 +49,7 @@ bounds:
 ---
 <!-- inactive-ok-file: THEORY-002 CLAIM-193 — Proposed; cited for context, nothing here rests on them -->
 
-# THEORY-236: A representational similarity index that is invariant to every invertible linear map takes the same value on all representations whose rank equals the number of examples
+# THEORY-236: Linear-invariant similarity fails at full rank
 
 ## Source
 

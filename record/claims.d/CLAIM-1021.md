@@ -3,7 +3,15 @@ number: 1021
 status: Active
 formerly:
 - CLAIM-tmp42aba
-title: 'If an evaluated party''s resources scale how strongly the evaluator''s conferral answers agreement, rather than tilting it toward one side, they enter the two-institution meaning–influence model only beyond first order at the symmetric state: they leave the linear symmetry-breaking condition unchanged, yet they capture the evaluator''s reading below that condition from a large enough push, toward the side the resources favour only, even when the evaluator''s evidence is independent of the party'
+title: 'Party resources act beyond first order'
+statement: >-
+  If an evaluated party's resources scale how strongly the evaluator's
+  conferral answers agreement, rather than tilting it toward one side, they
+  enter the two-institution meaning–influence model only beyond first order
+  at the symmetric state: they leave the linear symmetry-breaking condition
+  unchanged, yet they capture the evaluator's reading below that condition
+  from a large enough push, toward the side the resources favour only, even
+  when the evaluator's evidence is independent of the party
 version: 2
 history:
 - version: 1
@@ -64,7 +72,7 @@ summary: >-
   owner's call.
 ---
 
-# CLAIM-1021: If an evaluated party's resources scale how strongly the evaluator's conferral answers agreement, rather than tilting it toward one side, they enter the two-institution meaning–influence model only beyond first order at the symmetric state: they leave the linear symmetry-breaking condition unchanged, yet they capture the evaluator's reading below that condition from a large enough push, toward the side the resources favour only, even when the evaluator's evidence is independent of the party
+# CLAIM-1021: Party resources act beyond first order
 
 ## The claim
 

@@ -3,7 +3,12 @@ number: 561
 status: Active
 formerly:
 - CLAIM-tmp5rh3v
-title: 'When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste'
+title: 'Mobilize early though cancellation is likely'
+statement: >-
+  When early activation reduces intervention delay under uncertainty,
+  provisionally mobilizing a specialized resource can minimize expected loss
+  even when the resource is more likely to be canceled than used; a
+  cancellation rate alone therefore cannot identify waste
 version: 3
 history:
 - version: 2
@@ -64,7 +69,7 @@ works:
 ---
 <!-- inactive-ok-file: ARG-053 — Rejected; the argument this claim undercuts -->
 
-# CLAIM-561: When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste
+# CLAIM-561: Mobilize early though cancellation is likely
 
 ## The claim
 

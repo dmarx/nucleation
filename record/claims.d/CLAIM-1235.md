@@ -3,7 +3,16 @@ number: 1235
 status: Proposed
 formerly:
 - CLAIM-tmp5ld2o
-title: 'In a two-state model of one proposal, in which permission is granted only on the proposal''s own evidence and evidence is produced only under permission, the state with neither is absorbing and is reached with certainty from every state whenever review or investigation can fail; making review more lenient, even certain, never leaves it, and only permission not conditioned on the question''s evidence, as a standing grant gives, or evidence produced without permission, as seed evidence is, breaks it'
+title: 'Neither-permission-nor-evidence state absorbs'
+statement: >-
+  In a two-state model of one proposal, in which permission is granted only
+  on the proposal's own evidence and evidence is produced only under
+  permission, the state with neither is absorbing and is reached with
+  certainty from every state whenever review or investigation can fail;
+  making review more lenient, even certain, never leaves it, and only
+  permission not conditioned on the question's evidence, as a standing grant
+  gives, or evidence produced without permission, as seed evidence is,
+  breaks it
 version: 1
 role: thesis
 warrant: demonstrated
@@ -38,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1140 CLAIM-1016 CASE-388 — Proposed; cited in prose with their standing, whatever it is -->
 
-# CLAIM-1235: In a two-state model of one proposal, in which permission is granted only on the proposal's own evidence and evidence is produced only under permission, the state with neither is absorbing and is reached with certainty from every state whenever review or investigation can fail; making review more lenient, even certain, never leaves it, and only permission not conditioned on the question's evidence, as a standing grant gives, or evidence produced without permission, as seed evidence is, breaks it
+# CLAIM-1235: Neither-permission-nor-evidence state absorbs
 
 ## The model
 

@@ -3,7 +3,18 @@ number: 632
 status: Active
 formerly:
 - CLAIM-tmpupm3q
-title: 'Records kept of each capacity a response needs bound a reserve''s readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities'' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities'' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not'
+title: 'Capacity records bound reserve readiness'
+statement: >-
+  Records kept of each capacity a response needs bound a reserve's readiness
+  for a contingency between the sum of their probabilities less one less
+  their number and the weakest of them, and identify it only when the
+  capacities' dependence is known, so for any verdict that rises with
+  readiness they can refute a required readiness when the weakest capacity
+  falls below it and certify it only when the capacities' shortfalls
+  together stay within its margin, leaving the band between to joint
+  evidence such as a deadline-bound exercise; where capacities only decay
+  between record and need, a refutation outlasts the record and a
+  certification does not
 version: 5
 history:
 - version: 1
@@ -121,7 +132,7 @@ works:
 <!-- inactive-ok-file: CASE-210 CLAIM-584 TERM-107 — Proposed; components cited with their standing -->
 <!-- inactive-ok-file: ARG-053 — Rejected; the inference from use counts this replaces -->
 
-# CLAIM-632: Records kept of each capacity a response needs bound a reserve's readiness for a contingency between the sum of their probabilities less one less their number and the weakest of them, and identify it only when the capacities' dependence is known, so for any verdict that rises with readiness they can refute a required readiness when the weakest capacity falls below it and certify it only when the capacities' shortfalls together stay within its margin, leaving the band between to joint evidence such as a deadline-bound exercise; where capacities only decay between record and need, a refutation outlasts the record and a certification does not
+# CLAIM-632: Capacity records bound reserve readiness
 
 *Returned to CLAIM from [SYNTHESIS-009](../syntheses.d/SYNTHESIS-009.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 

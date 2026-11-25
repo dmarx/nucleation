@@ -3,7 +3,12 @@ number: 1687
 status: Proposed
 formerly:
 - THEORY-tmpjntfl
-title: 'Castela and colleagues (2017) show that CCL2 recruits a CCR2-high fetal microchimeric progenitor subset to injured maternal skin, where it drives angiogenesis and rescues delayed wound healing in parous but not virgin mice, grounding a "natural fetal stem cell therapy"'
+title: 'Fetal microchimeric cells heal maternal wounds'
+statement: >-
+  Castela and colleagues (2017) show that CCL2 recruits a CCR2-high fetal
+  microchimeric progenitor subset to injured maternal skin, where it drives
+  angiogenesis and rescues delayed wound healing in parous but not virgin
+  mice, grounding a "natural fetal stem cell therapy"
 version: 1
 source:
 - LIT-2465
@@ -26,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2439 — Unfetched; filed from the same exchange -->
 
-# THEORY-1687: Castela and colleagues (2017) show that CCL2 recruits a CCR2-high fetal microchimeric progenitor subset to injured maternal skin, where it drives angiogenesis and rescues delayed wound healing in parous but not virgin mice, grounding a "natural fetal stem cell therapy"
+# THEORY-1687: Fetal microchimeric cells heal maternal wounds
 
 ## The account
 

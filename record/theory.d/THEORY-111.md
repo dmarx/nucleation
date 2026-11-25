@@ -3,7 +3,14 @@ number: 111
 status: Active
 formerly:
 - THEORY-tmpj7zc1
-title: 'In image classifiers, between two networks linearly connected by spawning from a shared checkpoint or by permutation alignment (MLPs, and VGG-16, ResNet-20 and ResNet-50 on CIFAR-10 and Tiny-ImageNet), nearly every layer''s features at three points on the line were proportional to the interpolation of the endpoints'' features, and pairs that were not linearly connected were far from it'
+title: 'Linear connectivity implies feature linearity'
+statement: >-
+  In image classifiers, between two networks linearly connected by spawning
+  from a shared checkpoint or by permutation alignment (MLPs, and VGG-16,
+  ResNet-20 and ResNet-50 on CIFAR-10 and Tiny-ImageNet), nearly every
+  layer's features at three points on the line were proportional to the
+  interpolation of the endpoints' features, and pairs that were not linearly
+  connected were far from it
 version: 4
 history:
 - version: 2
@@ -72,7 +79,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-116 — Proposed; the account this one extends, and a sibling named in Connections, nothing here rests on their open parts -->
 
-# THEORY-111: In image classifiers, between two networks linearly connected by spawning from a shared checkpoint or by permutation alignment (MLPs, and VGG-16, ResNet-20 and ResNet-50 on CIFAR-10 and Tiny-ImageNet), nearly every layer's features at three points on the line were proportional to the interpolation of the endpoints' features, and pairs that were not linearly connected were far from it
+# THEORY-111: Linear connectivity implies feature linearity
 
 ## Source
 

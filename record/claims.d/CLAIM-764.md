@@ -3,7 +3,13 @@ number: 764
 status: Proposed
 formerly:
 - CLAIM-tmpkcdfh
-title: 'Experiment is not the only way this inquiry advances: a distinction previous accounts conflate, a counterexample, a formal result or a critical result advances an open question without an experiment, so the questions the inquiry hopes to answer should choose its methods, and experiments among them'
+title: 'Experiment is not the only way to advance'
+statement: >-
+  Experiment is not the only way this inquiry advances: a distinction
+  previous accounts conflate, a counterexample, a formal result or a
+  critical result advances an open question without an experiment, so the
+  questions the inquiry hopes to answer should choose its methods, and
+  experiments among them
 version: 1
 role: thesis
 warrant: interpretive
@@ -31,7 +37,7 @@ summary: >-
   its progress".
 ---
 
-# CLAIM-764: Experiment is not the only way this inquiry advances: a distinction previous accounts conflate, a counterexample, a formal result or a critical result advances an open question without an experiment, so the questions the inquiry hopes to answer should choose its methods, and experiments among them
+# CLAIM-764: Experiment is not the only way to advance
 
 ## The claim
 

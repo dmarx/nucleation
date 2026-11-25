@@ -3,7 +3,17 @@ number: 1739
 status: Proposed
 formerly:
 - THEORY-tmp6b0ul
-title: 'Chesñevar et al. (2006) propose, as a draft consensus specification, an Argument Interchange Format whose core represents arguments as directed graphs of information nodes (claims) and scheme- application nodes (inference, preference and conflict applications), forbids direct links between information nodes so that every connection between claims passes through a scheme application, treats attack, rebut, undercut and defeat as derived concepts, and expects the core to evolve by community consensus, leaving open how that community should agree on core concepts and extensions'
+title: 'Claims connect only through scheme applications'
+statement: >-
+  Chesñevar et al. (2006) propose, as a draft consensus specification, an
+  Argument Interchange Format whose core represents arguments as directed
+  graphs of information nodes (claims) and scheme- application nodes
+  (inference, preference and conflict applications), forbids direct links
+  between information nodes so that every connection between claims passes
+  through a scheme application, treats attack, rebut, undercut and defeat as
+  derived concepts, and expects the core to evolve by community consensus,
+  leaving open how that community should agree on core concepts and
+  extensions
 version: 1
 tags:
 - design-rationale
@@ -23,7 +33,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1739: Chesñevar et al. (2006) propose, as a draft consensus specification, an Argument Interchange Format whose core represents arguments as directed graphs of information nodes (claims) and scheme- application nodes (inference, preference and conflict applications), forbids direct links between information nodes so that every connection between claims passes through a scheme application, treats attack, rebut, undercut and defeat as derived concepts, and expects the core to evolve by community consensus, leaving open how that community should agree on core concepts and extensions
+# THEORY-1739: Claims connect only through scheme applications
 
 ## The account
 

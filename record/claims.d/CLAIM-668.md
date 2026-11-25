@@ -3,7 +3,12 @@ number: 668
 status: Proposed
 formerly:
 - CLAIM-tmpyp3u3
-title: 'A shared record can represent who contributed a proposition and what standing the record gives it, but not what any collaborator believes or that all of them know the current standing: access to the record is a precondition of coordinating on it, not evidence that they have'
+title: 'A shared record shows standing, not belief'
+statement: >-
+  A shared record can represent who contributed a proposition and what
+  standing the record gives it, but not what any collaborator believes or
+  that all of them know the current standing: access to the record is a
+  precondition of coordinating on it, not evidence that they have
 version: 2
 history:
 - version: 2
@@ -59,7 +64,7 @@ works:
 <!-- inactive-ok-file: TERM-119 ARG-097 THEORY-1732 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1735 THEORY-1777 THEORY-1779 THEORY-1783 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-668: A shared record can represent who contributed a proposition and what standing the record gives it, but not what any collaborator believes or that all of them know the current standing: access to the record is a precondition of coordinating on it, not evidence that they have
+# CLAIM-668: A shared record shows standing, not belief
 
 ## The claim
 

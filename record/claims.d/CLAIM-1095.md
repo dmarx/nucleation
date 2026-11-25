@@ -3,7 +3,14 @@ number: 1095
 status: Active
 formerly:
 - CLAIM-tmpfc364
-title: "A response kernel that includes the organization's state after answering is not an observational quantity: compared directly, it separates any two organizations whose post-states differ, even when no test could tell them apart, so the developmental comparison should observe the post-state only through its later responses, as a bisimulation pseudometric does, which keeps the separation of a learning and a suppressing organization"
+title: 'Observe the post-state only through responses'
+statement: >-
+  A response kernel that includes the organization's state after answering
+  is not an observational quantity: compared directly, it separates any two
+  organizations whose post-states differ, even when no test could tell them
+  apart, so the developmental comparison should observe the post-state only
+  through its later responses, as a bisimulation pseudometric does, which
+  keeps the separation of a learning and a suppressing organization
 version: 2
 history:
 - version: 2
@@ -56,7 +63,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-615 CLAIM-1156 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
-# CLAIM-1095: A response kernel that includes the organization's state after answering is not an observational quantity: compared directly, it separates any two organizations whose post-states differ, even when no test could tell them apart, so the developmental comparison should observe the post-state only through its later responses, as a bisimulation pseudometric does, which keeps the separation of a learning and a suppressing organization
+# CLAIM-1095: Observe the post-state only through responses
 
 ## The gap
 

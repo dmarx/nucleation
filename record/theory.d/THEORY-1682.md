@@ -3,7 +3,14 @@ number: 1682
 status: Proposed
 formerly:
 - THEORY-tmpeunrd
-title: 'Boem, Greslehner, Konsman and Chiu (2024) argue that embodied accounts of cognition should include the "gut complex", the enteric nervous, endocrine, immune and microbial systems with gut tissue acting together at the interface with the gut lumen, as constitutive of the whole subject''s perception and cognition, and that on a liberal criterion of minimal cognition the complex also has proto-cognition of its own.'
+title: 'The gut complex is constitutive of cognition'
+statement: >-
+  Boem, Greslehner, Konsman and Chiu (2024) argue that embodied accounts of
+  cognition should include the "gut complex", the enteric nervous,
+  endocrine, immune and microbial systems with gut tissue acting together at
+  the interface with the gut lumen, as constitutive of the whole subject's
+  perception and cognition, and that on a liberal criterion of minimal
+  cognition the complex also has proto-cognition of its own.
 version: 1
 source:
 - LIT-2347
@@ -32,7 +39,7 @@ summary: >-
   "its own forms of proto-cognition and perception".
 ---
 
-# THEORY-1682: Boem, Greslehner, Konsman and Chiu (2024) argue that embodied accounts of cognition should include the "gut complex", the enteric nervous, endocrine, immune and microbial systems with gut tissue acting together at the interface with the gut lumen, as constitutive of the whole subject's perception and cognition, and that on a liberal criterion of minimal cognition the complex also has proto-cognition of its own.
+# THEORY-1682: The gut complex is constitutive of cognition
 
 ## The account
 

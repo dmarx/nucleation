@@ -3,7 +3,11 @@ number: 796
 status: Proposed
 formerly:
 - CLAIM-tmp2k0r2
-title: 'Rich-get-richer processes and criticality reach power laws by almost opposite routes, the first by reinforcing differences and the second by removing the cutoff that had limited them'
+title: 'Rich-get-richer and criticality: opposite routes'
+statement: >-
+  Rich-get-richer processes and criticality reach power laws by almost
+  opposite routes, the first by reinforcing differences and the second by
+  removing the cutoff that had limited them
 version: 1
 role: thesis
 warrant: interpretive
@@ -31,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-806 CLAIM-817 — Proposed or new; the objection to this claim and the attachment claim, filed from the same exchange -->
 
-# CLAIM-796: Rich-get-richer processes and criticality reach power laws by almost opposite routes, the first by reinforcing differences and the second by removing the cutoff that had limited them
+# CLAIM-796: Rich-get-richer and criticality: opposite routes
 
 ## The claim (A8 §8)
 

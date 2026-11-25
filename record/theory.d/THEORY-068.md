@@ -3,7 +3,13 @@ number: 68
 status: Active
 formerly:
 - THEORY-tmpinmsm
-title: 'In a two-alternative choice made by two competing leaky accumulators, the decision is optimal only when leak and mutual inhibition balance, so that the network integrates the difference of the evidence without loss; imbalance bounds accuracy at any fixed time and weights early or late evidence'
+title: 'Leaky accumulators optimal only when balanced'
+statement: >-
+  In a two-alternative choice made by two competing leaky accumulators, the
+  decision is optimal only when leak and mutual inhibition balance, so that
+  the network integrates the difference of the evidence without loss;
+  imbalance bounds accuracy at any fixed time and weights early or late
+  evidence
 version: 2
 history:
 - version: 2
@@ -41,7 +47,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-056 — Proposed; named as the record's account of competing motive states, with no relation claimed -->
 <!-- inactive-ok-file: THEORY-061 THEORY-059 — Proposed; companion accounts in this batch, named for what they borrow from this one -->
 
-# THEORY-068: In a two-alternative choice made by two competing leaky accumulators, the decision is optimal only when leak and mutual inhibition balance, so that the network integrates the difference of the evidence without loss; imbalance bounds accuracy at any fixed time and weights early or late evidence
+# THEORY-068: Leaky accumulators optimal only when balanced
 
 ## Source
 

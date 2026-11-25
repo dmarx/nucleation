@@ -3,7 +3,15 @@ number: 1701
 status: Proposed
 formerly:
 - THEORY-tmprpct4
-title: 'Montero-Porras, Smets and Lenaerts show that in a two-population replicator model of a platform that rewards costly quality content and creators who invest in it, quality and its absence are both stable, the platform needs far more creators investing than creators need the platform to reward them, and a temporary rise in the payoff to promoting cheap content that lasts long enough moves the system into decline that restoring the original payoff does not undo.'
+title: 'Platform quality collapse can be irreversible'
+statement: >-
+  Montero-Porras, Smets and Lenaerts show that in a two-population
+  replicator model of a platform that rewards costly quality content and
+  creators who invest in it, quality and its absence are both stable, the
+  platform needs far more creators investing than creators need the platform
+  to reward them, and a temporary rise in the payoff to promoting cheap
+  content that lasts long enough moves the system into decline that
+  restoring the original payoff does not undo.
 version: 1
 source:
 - LIT-2386
@@ -30,7 +38,7 @@ summary: >-
   "vicious", separated by an interior saddle at (x*, y*) = (C/V, A/R).
 ---
 
-# THEORY-1701: Montero-Porras, Smets and Lenaerts show that in a two-population replicator model of a platform that rewards costly quality content and creators who invest in it, quality and its absence are both stable, the platform needs far more creators investing than creators need the platform to reward them, and a temporary rise in the payoff to promoting cheap content that lasts long enough moves the system into decline that restoring the original payoff does not undo.
+# THEORY-1701: Platform quality collapse can be irreversible
 
 ## The account
 

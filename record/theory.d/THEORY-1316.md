@@ -3,7 +3,14 @@ number: 1316
 status: Active
 formerly:
 - THEORY-tmp7y7fk
-title: 'In eight samples pooled to 3,692 respondents, the covariance of the BPNSFS items is organized more by item keying than by need: factors sharing a keying direction correlate .64 to .75 while satisfaction and frustration of the same need correlate .17 to .38, a higher-order model grouping the six scales by keying fits better than one grouping them by need, and the frustration items carry almost no thwarting content'
+title: 'BPNSFS items group by keying, not need'
+statement: >-
+  In eight samples pooled to 3,692 respondents, the covariance of the BPNSFS
+  items is organized more by item keying than by need: factors sharing a
+  keying direction correlate .64 to .75 while satisfaction and frustration
+  of the same need correlate .17 to .38, a higher-order model grouping the
+  six scales by keying fits better than one grouping them by need, and the
+  frustration items carry almost no thwarting content
 version: 1
 tags:
 - psychometrics
@@ -25,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1311 LIT-1954 — Proposed, Open or Unfetched; neighbours cited as open -->
 
-# THEORY-1316: In eight samples pooled to 3,692 respondents, the covariance of the BPNSFS items is organized more by item keying than by need: factors sharing a keying direction correlate .64 to .75 while satisfaction and frustration of the same need correlate .17 to .38, a higher-order model grouping the six scales by keying fits better than one grouping them by need, and the frustration items carry almost no thwarting content
+# THEORY-1316: BPNSFS items group by keying, not need
 
 ## Source
 

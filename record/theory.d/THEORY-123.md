@@ -3,7 +3,16 @@ number: 123
 status: Active
 formerly:
 - THEORY-tmp6iizp
-title: "In ad hoc groups of students negotiating a bonus, a confederate's randomly assigned pleasant or unpleasant mood spread to the other members, by their self-reports and by blind coders, and the more pleasant mood a group caught, the more cooperative and the less conflicted coders rated it, a correlation with measured contagion rather than a manipulated effect; members' moods also converged without a confederate, and members did not credit their mood for how effective they judged themselves; the numbers are from the 2001 manuscript"
+title: 'Moods spread through groups by contagion'
+statement: >-
+  In ad hoc groups of students negotiating a bonus, a confederate's randomly
+  assigned pleasant or unpleasant mood spread to the other members, by their
+  self-reports and by blind coders, and the more pleasant mood a group
+  caught, the more cooperative and the less conflicted coders rated it, a
+  correlation with measured contagion rather than a manipulated effect;
+  members' moods also converged without a confederate, and members did not
+  credit their mood for how effective they judged themselves; the numbers
+  are from the 2001 manuscript
 version: 2
 history:
 - version: 2
@@ -50,7 +59,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-126 — Proposed; filed in the same batch, the convergence account that widens this one, named for that -->
 <!-- inactive-ok-file: THEORY-055 THEORY-045 — Proposed; named in What this does not say for how contagion stands to appraisal and bodily feedback, nothing here rests on them -->
 
-# THEORY-123: In ad hoc groups of students negotiating a bonus, a confederate's randomly assigned pleasant or unpleasant mood spread to the other members, by their self-reports and by blind coders, and the more pleasant mood a group caught, the more cooperative and the less conflicted coders rated it, a correlation with measured contagion rather than a manipulated effect; members' moods also converged without a confederate, and members did not credit their mood for how effective they judged themselves; the numbers are from the 2001 manuscript
+# THEORY-123: Moods spread through groups by contagion
 
 ## Source
 

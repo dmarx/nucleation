@@ -3,7 +3,15 @@ number: 1939
 status: Proposed
 formerly:
 - THEORY-tmpo4zca
-title: 'Santoni de Sio and van den Hoven argue that an autonomous system is under meaningful human control only if it tracks the relevant moral reasons of the humans who design and deploy it, together with the relevant facts, and its behaviour traces to at least one human who understands its capabilities and that its effects will be attributed to them; presence in the loop is not sufficient, and such control is necessary but not sufficient for the system to act well'
+title: 'Meaningful control needs tracking and tracing'
+statement: >-
+  Santoni de Sio and van den Hoven argue that an autonomous system is under
+  meaningful human control only if it tracks the relevant moral reasons of
+  the humans who design and deploy it, together with the relevant facts, and
+  its behaviour traces to at least one human who understands its
+  capabilities and that its effects will be attributed to them; presence in
+  the loop is not sufficient, and such control is necessary but not
+  sufficient for the system to act well
 version: 2
 history:
 - version: 2
@@ -42,7 +50,7 @@ corroborates:
 <!-- inactive-ok-file: CLAIM-707 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpnmvsj — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: CLAIM-708 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1939: Santoni de Sio and van den Hoven argue that an autonomous system is under meaningful human control only if it tracks the relevant moral reasons of the humans who design and deploy it, together with the relevant facts, and its behaviour traces to at least one human who understands its capabilities and that its effects will be attributed to them; presence in the loop is not sufficient, and such control is necessary but not sufficient for the system to act well
+# THEORY-1939: Meaningful control needs tracking and tracing
 
 ## Source
 

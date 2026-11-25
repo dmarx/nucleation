@@ -3,7 +3,16 @@ number: 1660
 status: Proposed
 formerly:
 - THEORY-tmp76i78
-title: 'Sikder (2026) argues that a point estimate of an error-rate gap does not certify a classifier as fair, and offers FairCert, which certifies that every pairwise FPR (or TPR) gap across protected and intersectional groups is within a tolerance at a stated confidence using Clopper-Pearson intervals with a Bonferroni correction; on benchmark data the certificate passes for single sensitive attributes but fails for their intersections on Credit Default, and large-language-model classifiers'' gaps vary sharply by domain and prompt.'
+title: 'Point estimates can''t certify classifier fairness'
+statement: >-
+  Sikder (2026) argues that a point estimate of an error-rate gap does not
+  certify a classifier as fair, and offers FairCert, which certifies that
+  every pairwise FPR (or TPR) gap across protected and intersectional groups
+  is within a tolerance at a stated confidence using Clopper-Pearson
+  intervals with a Bonferroni correction; on benchmark data the certificate
+  passes for single sensitive attributes but fails for their intersections
+  on Credit Default, and large-language-model classifiers' gaps vary sharply
+  by domain and prompt.
 version: 1
 source:
 - LIT-2434
@@ -33,7 +42,7 @@ summary: >-
   a structured EU AI Act-oriented report.
 ---
 
-# THEORY-1660: Sikder (2026) argues that a point estimate of an error-rate gap does not certify a classifier as fair, and offers FairCert, which certifies that every pairwise FPR (or TPR) gap across protected and intersectional groups is within a tolerance at a stated confidence using Clopper-Pearson intervals with a Bonferroni correction; on benchmark data the certificate passes for single sensitive attributes but fails for their intersections on Credit Default, and large-language-model classifiers' gaps vary sharply by domain and prompt.
+# THEORY-1660: Point estimates can't certify classifier fairness
 
 ## The account
 

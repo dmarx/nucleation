@@ -16,7 +16,11 @@ promote_when: >-
   grafted class means and covariances. More first- and second-order
   curves at 32×32 do not settle the higher orders, which is where the
   claim is thinnest.
-title: 'Early in training, image classifiers and language models act on the low-order statistics of their inputs, first-order before second-order, and later lose that sensitivity as they come to use higher-order structure'
+title: 'Networks learn low-order statistics first'
+statement: >-
+  Early in training, image classifiers and language models act on the
+  low-order statistics of their inputs, first-order before second-order, and
+  later lose that sensitivity as they come to use higher-order structure
 version: 2
 history:
 - version: 2
@@ -48,7 +52,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-201 THEORY-039 — Proposed; accounts this one is set beside, none of them rested on -->
 
-# THEORY-279: Early in training, image classifiers and language models act on the low-order statistics of their inputs, first-order before second-order, and later lose that sensitivity as they come to use higher-order structure
+# THEORY-279: Networks learn low-order statistics first
 
 ## Source
 

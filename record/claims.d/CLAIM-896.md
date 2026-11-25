@@ -3,7 +3,13 @@ number: 896
 status: Proposed
 formerly:
 - CLAIM-tmpalxab
-title: 'In a Contextuality-by-Default test on free binary answers, estimated signalling is biased upward when true signalling is small, so a detection test that uses it stays valid at a large cost in power, and an absence verdict needs a bound that credits only the signalling a confidence bound guarantees'
+title: 'Signalling bias costs power, not validity'
+statement: >-
+  In a Contextuality-by-Default test on free binary answers, estimated
+  signalling is biased upward when true signalling is small, so a detection
+  test that uses it stays valid at a large cost in power, and an absence
+  verdict needs a bound that credits only the signalling a confidence bound
+  guarantees
 version: 1
 role: thesis
 warrant: empirical
@@ -46,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-328 LIT-3099 — new; the simulation this claim rests on and a study cited as an example -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; the claim whose defeat condition asks for this estimator -->
 
-# CLAIM-896: In a Contextuality-by-Default test on free binary answers, estimated signalling is biased upward when true signalling is small, so a detection test that uses it stays valid at a large cost in power, and an absence verdict needs a bound that credits only the signalling a confidence bound guarantees
+# CLAIM-896: Signalling bias costs power, not validity
 
 ## The claim
 

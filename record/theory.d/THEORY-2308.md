@@ -12,7 +12,16 @@ promote_when: >-
   that §2 concludes that intuitionistic logic's objects are problems rather
   than statements (pp. 58, 64–65). Whether the coincidence holds in detail
   is not asserted: Kolmogorov omits the derivations.
-title: 'Kolmogorov holds that beside the logic of theoretical statements there is a calculus of problems, whose formulas are problems to be solved and not statements to be proved, with no notion of correctness, and whose connectives are operations on problems; that it coincides in form with Heyting''s intuitionistic logic without needing intuitionist assumptions; and that intuitionistic logic''s objects are really problems, since a general statement''s negation and an existence statement have determinate sense only as a problem with its solution'
+title: 'Intuitionistic logic is a calculus of problems'
+statement: >-
+  Kolmogorov holds that beside the logic of theoretical statements there is
+  a calculus of problems, whose formulas are problems to be solved and not
+  statements to be proved, with no notion of correctness, and whose
+  connectives are operations on problems; that it coincides in form with
+  Heyting's intuitionistic logic without needing intuitionist assumptions;
+  and that intuitionistic logic's objects are really problems, since a
+  general statement's negation and an existence statement have determinate
+  sense only as a problem with its solution
 version: 1
 tags:
 - logic
@@ -38,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-949 ARG-245 — Proposed or new; the claim this reading was done for, and the argument that weighs it -->
 
-# THEORY-2308: Kolmogorov holds that beside the logic of theoretical statements there is a calculus of problems, whose formulas are problems to be solved and not statements to be proved, with no notion of correctness, and whose connectives are operations on problems; that it coincides in form with Heyting's intuitionistic logic without needing intuitionist assumptions; and that intuitionistic logic's objects are really problems, since a general statement's negation and an existence statement have determinate sense only as a problem with its solution
+# THEORY-2308: Intuitionistic logic is a calculus of problems
 
 Kolmogorov (1932), [LIT-3229](../literature.d/LIT-3229.md); read in [NOTE-2422](../notes.d/NOTE-2422.md).
 

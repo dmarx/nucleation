@@ -3,7 +3,14 @@ number: 1926
 status: Proposed
 formerly:
 - THEORY-tmpcghq5
-title: 'Harsey and Freyd find, in a vignette experiment with 235 undergraduates, that an accused perpetrator''s DARVO statement in response to a sexual-assault accusation leads observers to rate him as less abusive, less responsible and more believable, to rate the victim as less believable and more abusive, and to be less willing to punish him, while insincere apologies had little effect'
+title: 'DARVO shifts observers'' blame onto victims'
+statement: >-
+  Harsey and Freyd find, in a vignette experiment with 235 undergraduates,
+  that an accused perpetrator's DARVO statement in response to a
+  sexual-assault accusation leads observers to rate him as less abusive,
+  less responsible and more believable, to rate the victim as less
+  believable and more abusive, and to be less willing to punish him, while
+  insincere apologies had little effect
 version: 2
 history:
 - version: 2
@@ -34,7 +41,7 @@ source:
 <!-- inactive-ok-file: CLAIM-726 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmppzel6 — removed at the reconciliation of 2026-11-18; named for provenance -->
 
-# THEORY-1926: Harsey and Freyd find, in a vignette experiment with 235 undergraduates, that an accused perpetrator's DARVO statement in response to a sexual-assault accusation leads observers to rate him as less abusive, less responsible and more believable, to rate the victim as less believable and more abusive, and to be less willing to punish him, while insincere apologies had little effect
+# THEORY-1926: DARVO shifts observers' blame onto victims
 
 ## Source
 

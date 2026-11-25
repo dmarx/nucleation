@@ -3,7 +3,13 @@ number: 1621
 status: Active
 formerly:
 - THEORY-tmpuq37u
-title: 'Fridman reports that, in a registry sample, women who survived the Holocaust as young children and lost both parents showed more dissociation, less life satisfaction and higher cortisol than matched women six decades later, while their daughters did not differ on any psychological, health or cortisol measure'
+title: 'Child survivors'' daughters showed no difference'
+statement: >-
+  Fridman reports that, in a registry sample, women who survived the
+  Holocaust as young children and lost both parents showed more
+  dissociation, less life satisfaction and higher cortisol than matched
+  women six decades later, while their daughters did not differ on any
+  psychological, health or cortisol measure
 version: 2
 history:
 - version: 1
@@ -37,7 +43,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1621: Fridman reports that, in a registry sample, women who survived the Holocaust as young children and lost both parents showed more dissociation, less life satisfaction and higher cortisol than matched women six decades later, while their daughters did not differ on any psychological, health or cortisol measure
+# THEORY-1621: Child survivors' daughters showed no difference
 
 ## The account
 

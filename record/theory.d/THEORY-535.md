@@ -13,7 +13,13 @@ promote_when: >-
   projector-properties, as classical individuals. Re-reading the
   Kochen–Specker and EPR "solutions" cannot settle it, since they hold by
   the definition of a system as a bundle of determinables.
-title: "Quantum systems read as bundles of property-instances with no principle of individuality can have their kinds and their number stated in quasi-set theory, so that N indistinguishable particles get a definite quasi-cardinal without labels; the construction covers kinds and counting only, not states, actualization or dynamics"
+title: 'Quasi-sets count indistinguishable particles'
+statement: >-
+  Quantum systems read as bundles of property-instances with no principle of
+  individuality can have their kinds and their number stated in quasi-set
+  theory, so that N indistinguishable particles get a definite
+  quasi-cardinal without labels; the construction covers kinds and counting
+  only, not states, actualization or dynamics
 version: 1
 tags:
 - metaphysics
@@ -38,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-038 THEORY-453 — Proposed; the record's structural-realism accounts, named as neighbours, not leaned on -->
 
-# THEORY-535: Quantum systems read as bundles of property-instances with no principle of individuality can have their kinds and their number stated in quasi-set theory, so that N indistinguishable particles get a definite quasi-cardinal without labels; the construction covers kinds and counting only, not states, actualization or dynamics
+# THEORY-535: Quasi-sets count indistinguishable particles
 
 ## Source
 

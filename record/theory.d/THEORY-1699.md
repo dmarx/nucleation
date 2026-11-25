@@ -3,7 +3,13 @@ number: 1699
 status: Proposed
 formerly:
 - THEORY-tmpre3ob
-title: 'Kara and colleagues (2011) report that in pregnant mice given a myocardial infarction, cells of fetal origin home selectively to the injured maternal heart, not to uninjured organs, and differentiate there into cardiomyocytes, smooth muscle and endothelial cells, about 40% of them expressing the trophoblast-stem marker Cdx2.'
+title: 'Fetal cells home to injured maternal hearts'
+statement: >-
+  Kara and colleagues (2011) report that in pregnant mice given a myocardial
+  infarction, cells of fetal origin home selectively to the injured maternal
+  heart, not to uninjured organs, and differentiate there into
+  cardiomyocytes, smooth muscle and endothelial cells, about 40% of them
+  expressing the trophoblast-stem marker Cdx2.
 version: 1
 source:
 - LIT-2433
@@ -26,7 +32,7 @@ summary: >-
   co-expressed markers of cardiomyocytes, smooth muscle and endothelium.
 ---
 
-# THEORY-1699: Kara and colleagues (2011) report that in pregnant mice given a myocardial infarction, cells of fetal origin home selectively to the injured maternal heart, not to uninjured organs, and differentiate there into cardiomyocytes, smooth muscle and endothelial cells, about 40% of them expressing the trophoblast-stem marker Cdx2.
+# THEORY-1699: Fetal cells home to injured maternal hearts
 
 ## The account
 

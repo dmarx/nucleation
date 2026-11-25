@@ -3,7 +3,13 @@ number: 1265
 status: Proposed
 formerly:
 - CLAIM-tmpdu9v6
-title: 'A genuine obligation enters a cost model of exit as a condition on which transitions are permissible, not as a cost: withdrawal can be feasible and affordable yet impermissible until alternatives are arranged or the duty is transferred, so a party who controls the circumstances that keep the restriction in place controls the other''s exit without raising its price'
+title: 'Obligation constrains exit, it is not a cost'
+statement: >-
+  A genuine obligation enters a cost model of exit as a condition on which
+  transitions are permissible, not as a cost: withdrawal can be feasible and
+  affordable yet impermissible until alternatives are arranged or the duty
+  is transferred, so a party who controls the circumstances that keep the
+  restriction in place controls the other's exit without raising its price
 version: 1
 role: thesis
 warrant: interpretive
@@ -45,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-713 — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
 
-# CLAIM-1265: A genuine obligation enters a cost model of exit as a condition on which transitions are permissible, not as a cost: withdrawal can be feasible and affordable yet impermissible until alternatives are arranged or the duty is transferred, so a party who controls the circumstances that keep the restriction in place controls the other's exit without raising its price
+# CLAIM-1265: Obligation constrains exit, it is not a cost
 
 ## The claim
 

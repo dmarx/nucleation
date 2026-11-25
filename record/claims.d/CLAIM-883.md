@@ -3,7 +3,16 @@ number: 883
 status: Proposed
 formerly:
 - CLAIM-tmpyepkb
-title: 'In the Geometry model of independent skills, with task vectors generic to the coordinates and many dimensions, sign descent follows gradient descent''s own path with its clock divided by the gradient norm, so each weaker skill accelerates while a stronger one remains, has made exactly gradient descent''s progress when the stronger is learned, and is learned at a time whose ratio to the first approaches (n − ε)/(1 − ε), which is 2 for two skills as the threshold tightens; with coordinate-aligned tasks all skills are learned together'
+title: 'Sign descent is gradient descent on a new clock'
+statement: >-
+  In the Geometry model of independent skills, with task vectors generic to
+  the coordinates and many dimensions, sign descent follows gradient
+  descent's own path with its clock divided by the gradient norm, so each
+  weaker skill accelerates while a stronger one remains, has made exactly
+  gradient descent's progress when the stronger is learned, and is learned
+  at a time whose ratio to the first approaches (n − ε)/(1 − ε), which is 2
+  for two skills as the threshold tightens; with coordinate-aligned tasks
+  all skills are learned together
 version: 1
 history:
 - version: 1
@@ -53,7 +62,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-319 CLAIM-882 — new; the study this derivation was checked in, and the network claim beside it -->
 
-# CLAIM-883: In the Geometry model of independent skills, with task vectors generic to the coordinates and many dimensions, sign descent follows gradient descent's own path with its clock divided by the gradient norm, so each weaker skill accelerates while a stronger one remains, has made exactly gradient descent's progress when the stronger is learned, and is learned at a time whose ratio to the first approaches (n − ε)/(1 − ε), which is 2 for two skills as the threshold tightens; with coordinate-aligned tasks all skills are learned together
+# CLAIM-883: Sign descent is gradient descent on a new clock
 
 ## The claim
 

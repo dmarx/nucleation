@@ -3,7 +3,14 @@ number: 713
 status: Proposed
 formerly:
 - CLAIM-tmpyjzi8
-title: 'A moral commitment is exploitable as a resource: because a committed party reliably acts on it, whoever controls the circumstances that trigger it can capture what its fulfilment yields and leave its costs with that party, without deception, coercion or any unreasonable choice by the party, and an institution can come to run on what it so avoids paying, with the burden falling hardest on its most conscientious members'
+title: 'Moral commitment is an exploitable resource'
+statement: >-
+  A moral commitment is exploitable as a resource: because a committed party
+  reliably acts on it, whoever controls the circumstances that trigger it
+  can capture what its fulfilment yields and leave its costs with that
+  party, without deception, coercion or any unreasonable choice by the
+  party, and an institution can come to run on what it so avoids paying,
+  with the burden falling hardest on its most conscientious members
 version: 10
 history:
 - version: 2
@@ -126,7 +133,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-614 CLAIM-670 — Proposed; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-690 TERM-123 — Proposed; the record's dependence and exploitation entries, cited with their standing -->
 
-# CLAIM-713: A moral commitment is exploitable as a resource: because a committed party reliably acts on it, whoever controls the circumstances that trigger it can capture what its fulfilment yields and leave its costs with that party, without deception, coercion or any unreasonable choice by the party, and an institution can come to run on what it so avoids paying, with the burden falling hardest on its most conscientious members
+# CLAIM-713: Moral commitment is an exploitable resource
 
 ## The claim
 

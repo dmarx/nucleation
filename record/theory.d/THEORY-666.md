@@ -13,7 +13,15 @@ promote_when: >-
   regulation against the viability boundary. Further exegesis of Kant or
   Jonas, or phenomenological reports, cannot settle it, since the account
   already accepts them as its premises.
-title: "A system that produces itself, a network of production that regenerates the components which produce it and constitute it as a distinguishable unity, has by that fact an intrinsic purpose, the maintenance of its identity, and with it a point of view, valence and a world as distinct from an environment, so that teleology in organisms is real and not an observer's as-if; the account is stated for the cell, and a multicellular organism is not itself autopoietic"
+title: 'Autopoiesis gives organisms intrinsic purpose'
+statement: >-
+  A system that produces itself, a network of production that regenerates
+  the components which produce it and constitute it as a distinguishable
+  unity, has by that fact an intrinsic purpose, the maintenance of its
+  identity, and with it a point of view, valence and a world as distinct
+  from an environment, so that teleology in organisms is real and not an
+  observer's as-if; the account is stated for the cell, and a multicellular
+  organism is not itself autopoietic
 version: 1
 tags:
 - philosophy-of-biology
@@ -38,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-628 — Proposed; the rival account, named as one end of the rivalry -->
 <!-- inactive-ok-file: THEORY-071 THEORY-072 THEORY-221 THEORY-622 — Proposed; neighbouring accounts named in Connections, nothing here rests on them -->
 
-# THEORY-666: A system that produces itself, a network of production that regenerates the components which produce it and constitute it as a distinguishable unity, has by that fact an intrinsic purpose, the maintenance of its identity, and with it a point of view, valence and a world as distinct from an environment, so that teleology in organisms is real and not an observer's as-if; the account is stated for the cell, and a multicellular organism is not itself autopoietic
+# THEORY-666: Autopoiesis gives organisms intrinsic purpose
 
 ## Source
 

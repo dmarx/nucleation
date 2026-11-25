@@ -3,7 +3,14 @@ number: 1835
 status: Proposed
 formerly:
 - THEORY-tmp0dvpy
-title: 'Rosa holds that social acceleration has three dimensions, technological acceleration, acceleration of social change and of the pace of life, forming a closed, self-propelling cycle in which standing still means falling behind, so that modern societies must accelerate and grow merely to keep their institutional status quo, a mode he later calls dynamic stabilization'
+title: 'Societies must accelerate just to stand still'
+statement: >-
+  Rosa holds that social acceleration has three dimensions, technological
+  acceleration, acceleration of social change and of the pace of life,
+  forming a closed, self-propelling cycle in which standing still means
+  falling behind, so that modern societies must accelerate and grow merely
+  to keep their institutional status quo, a mode he later calls dynamic
+  stabilization
 version: 1
 source:
 - LIT-2557
@@ -29,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2566 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: NOTE-1918 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
-# THEORY-1835: Rosa holds that social acceleration has three dimensions, technological acceleration, acceleration of social change and of the pace of life, forming a closed, self-propelling cycle in which standing still means falling behind, so that modern societies must accelerate and grow merely to keep their institutional status quo, a mode he later calls dynamic stabilization
+# THEORY-1835: Societies must accelerate just to stand still
 
 ## The account
 

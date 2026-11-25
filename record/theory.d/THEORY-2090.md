@@ -3,7 +3,14 @@ number: 2090
 status: Proposed
 formerly:
 - THEORY-tmpmir63
-title: 'Driscoll, Shenoy and Sussillo find that recurrent networks trained on many cognitive tasks reuse shared dynamical motifs across tasks that share subtasks, carried in unit clusters whose lesion impairs only those tasks, and that a held-out task is learned quickly by training only its rule input when earlier training contained its motifs and slowly or not at all when it did not'
+title: 'RNNs reuse dynamical motifs across tasks'
+statement: >-
+  Driscoll, Shenoy and Sussillo find that recurrent networks trained on many
+  cognitive tasks reuse shared dynamical motifs across tasks that share
+  subtasks, carried in unit clusters whose lesion impairs only those tasks,
+  and that a held-out task is learned quickly by training only its rule
+  input when earlier training contained its motifs and slowly or not at all
+  when it did not
 version: 1
 source:
 - LIT-2876
@@ -27,7 +34,7 @@ summary: >-
   is not intervened on. Proposed until its promote_when is met.
 ---
 
-# THEORY-2090: Driscoll, Shenoy and Sussillo find that recurrent networks trained on many cognitive tasks reuse shared dynamical motifs across tasks that share subtasks, carried in unit clusters whose lesion impairs only those tasks, and that a held-out task is learned quickly by training only its rule input when earlier training contained its motifs and slowly or not at all when it did not
+# THEORY-2090: RNNs reuse dynamical motifs across tasks
 
 ## The account
 

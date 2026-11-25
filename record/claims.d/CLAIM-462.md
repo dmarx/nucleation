@@ -3,7 +3,12 @@ number: 462
 status: Active
 formerly:
 - CLAIM-tmpbf8uv
-title: 'An arrangement of institutions can keep, or increase, its capacity for effective action while its capacity to be effectively corrected by others degrades, because the two are maintained by different relations, so the first is no evidence of the second'
+title: 'Effectiveness can grow as correctability decays'
+statement: >-
+  An arrangement of institutions can keep, or increase, its capacity for
+  effective action while its capacity to be effectively corrected by others
+  degrades, because the two are maintained by different relations, so the
+  first is no evidence of the second
 version: 10
 history:
 - version: 2
@@ -120,7 +125,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1607 LIT-1614 LIT-1615 — Unavailable since 2026-10-29; works that may already hold the claim, cited as not reached, nothing here rests on them -->
 
-# CLAIM-462: An arrangement of institutions can keep, or increase, its capacity for effective action while its capacity to be effectively corrected by others degrades, because the two are maintained by different relations, so the first is no evidence of the second
+# CLAIM-462: Effectiveness can grow as correctability decays
 
 ## The claim
 

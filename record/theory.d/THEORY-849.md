@@ -3,7 +3,17 @@ number: 849
 status: Active
 formerly:
 - THEORY-tmpjtnjd
-title: 'For deterministic causal models with a countable set of allowed interventions, a high-level model reproduces the coarse-grained interventional law of a low-level one for every distribution on contexts exactly when some map τ_U on contexts commutes with every allowed intervention, τ(M_L(u, i)) = M_H(τ_U(u), ω(i)); exactness for one distribution is strictly weaker, since a well-chosen distribution lets unrelated models match, and τ-abstraction and strong abstraction are strictly stronger; the context map is only required to exist, so high-level exogenous variables may carry what the coarse state drops'
+title: 'Exact abstraction needs a commuting context map'
+statement: >-
+  For deterministic causal models with a countable set of allowed
+  interventions, a high-level model reproduces the coarse-grained
+  interventional law of a low-level one for every distribution on contexts
+  exactly when some map τ_U on contexts commutes with every allowed
+  intervention, τ(M_L(u, i)) = M_H(τ_U(u), ω(i)); exactness for one
+  distribution is strictly weaker, since a well-chosen distribution lets
+  unrelated models match, and τ-abstraction and strong abstraction are
+  strictly stronger; the context map is only required to exist, so
+  high-level exogenous variables may carry what the coarse state drops
 version: 1
 history:
 - version: 1
@@ -31,7 +41,7 @@ summary: >-
   would need.
 ---
 
-# THEORY-849: For deterministic causal models with a countable set of allowed interventions, a high-level model reproduces the coarse-grained interventional law of a low-level one for every distribution on contexts exactly when some map τ_U on contexts commutes with every allowed intervention, τ(M_L(u, i)) = M_H(τ_U(u), ω(i)); exactness for one distribution is strictly weaker, since a well-chosen distribution lets unrelated models match, and τ-abstraction and strong abstraction are strictly stronger; the context map is only required to exist, so high-level exogenous variables may carry what the coarse state drops
+# THEORY-849: Exact abstraction needs a commuting context map
 
 ## Source
 

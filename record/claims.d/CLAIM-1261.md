@@ -3,7 +3,11 @@ number: 1261
 status: Rejected
 formerly:
 - CLAIM-tmpcd1e0
-title: 'The hyperarticle atlas is a manuscript composed of manuscripts: a series work whose articles are works of their own, with its own members read against its outlines'
+title: 'The atlas as a manuscript of manuscripts'
+statement: >-
+  The hyperarticle atlas is a manuscript composed of manuscripts: a series
+  work whose articles are works of their own, with its own members read
+  against its outlines
 version: 2
 history:
 - version: 2
@@ -46,7 +50,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1312 ADR-147 ADR-145 — Proposed or Open; the question, the alternative and the precedents -->
 
-# CLAIM-1261: The hyperarticle atlas is a manuscript composed of manuscripts: a series work whose articles are works of their own, with its own members read against its outlines
+# CLAIM-1261: The atlas as a manuscript of manuscripts
 
 The atlas is a plan of publications. Each scope is a future manuscript with
 an audience, a boundary and an outline, and the atlas says how they connect

@@ -3,7 +3,15 @@ number: 657
 status: Proposed
 formerly:
 - CLAIM-tmpljkzy
-title: 'An organization can become normatively less informed without censoring anyone by two distinct routes, selective disappearance of the harmed from the population it observes and costly discovery that keeps it from investigating the questions that would reveal unmet obligations; neither needs deliberate suppression, and both differ from the counter-corrective weakening of the channels through which challenge succeeds, so that they should not be conflated in attributing responsibility'
+title: 'Two non-censoring routes to normative ignorance'
+statement: >-
+  An organization can become normatively less informed without censoring
+  anyone by two distinct routes, selective disappearance of the harmed from
+  the population it observes and costly discovery that keeps it from
+  investigating the questions that would reveal unmet obligations; neither
+  needs deliberate suppression, and both differ from the counter-corrective
+  weakening of the channels through which challenge succeeds, so that they
+  should not be conflated in attributing responsibility
 version: 3
 history:
 - version: 2
@@ -67,7 +75,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-652 — Proposed; the two routes, filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-619 CLAIM-624 — Proposed; the counter-corrective model and occlusion, from which the routes are distinguished -->
 
-# CLAIM-657: An organization can become normatively less informed without censoring anyone by two distinct routes, selective disappearance of the harmed from the population it observes and costly discovery that keeps it from investigating the questions that would reveal unmet obligations; neither needs deliberate suppression, and both differ from the counter-corrective weakening of the channels through which challenge succeeds, so that they should not be conflated in attributing responsibility
+# CLAIM-657: Two non-censoring routes to normative ignorance
 
 ## The claim
 

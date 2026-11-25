@@ -9,7 +9,13 @@ promote_when: >-
   showing that a large share of the 2020–21 tweets critical of Heard came
   from inauthentic accounts and that coordinated pro-Depp networks
   operated. Who organized the activity is not asserted and not asked.
-title: 'Tortoise reports that commissioned analysts judged more than half of about a million tweets critical of Amber Heard from 2020–21 to come from inauthentic accounts, and that coordinated pro-Depp networks operated, including bot networks in Thailand and Spain and accounts whose deleted Arabic posts praised the Saudi regime'
+title: 'Most anti-Heard tweets judged inauthentic'
+statement: >-
+  Tortoise reports that commissioned analysts judged more than half of about
+  a million tweets critical of Amber Heard from 2020–21 to come from
+  inauthentic accounts, and that coordinated pro-Depp networks operated,
+  including bot networks in Thailand and Spain and accounts whose deleted
+  Arabic posts praised the Saudi regime
 version: 1
 tags:
 - society-and-governance
@@ -27,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2039 — Skimmed; cited with their standing, entries this reading bears on or files -->
 
-# THEORY-1956: Tortoise reports that commissioned analysts judged more than half of about a million tweets critical of Amber Heard from 2020–21 to come from inauthentic accounts, and that coordinated pro-Depp networks operated, including bot networks in Thailand and Spain and accounts whose deleted Arabic posts praised the Saudi regime
+# THEORY-1956: Most anti-Heard tweets judged inauthentic
 
 Mostrous & Greenwood (Tortoise, 2024), [LIT-2736](../literature.d/LIT-2736.md).
 

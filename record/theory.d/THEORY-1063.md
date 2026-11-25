@@ -3,7 +3,16 @@ number: 1063
 status: Active
 formerly:
 - THEORY-tmp99qi9
-title: 'Black-boxing a passive linear circuit, which keeps only the Lagrangian relation its terminals'' potentials and currents can jointly satisfy, is a hypergraph functor from open circuits to Lagrangian relations: the external behaviour of a circuit glued from parts is the relational composite of the parts'' external behaviours, so circuits with the same behaviour are interchangeable in every composite, and the effective relation a composite presents at its boundary is fixed by its parts'' black boxes alone'
+title: 'Circuit black-boxing is a functor'
+statement: >-
+  Black-boxing a passive linear circuit, which keeps only the Lagrangian
+  relation its terminals' potentials and currents can jointly satisfy, is a
+  hypergraph functor from open circuits to Lagrangian relations: the
+  external behaviour of a circuit glued from parts is the relational
+  composite of the parts' external behaviours, so circuits with the same
+  behaviour are interchangeable in every composite, and the effective
+  relation a composite presents at its boundary is fixed by its parts' black
+  boxes alone
 version: 2
 history:
 - version: 2
@@ -33,7 +42,7 @@ bears_on:
 - QUESTION-382
 ---
 
-# THEORY-1063: Black-boxing a passive linear circuit, which keeps only the Lagrangian relation its terminals' potentials and currents can jointly satisfy, is a hypergraph functor from open circuits to Lagrangian relations: the external behaviour of a circuit glued from parts is the relational composite of the parts' external behaviours, so circuits with the same behaviour are interchangeable in every composite, and the effective relation a composite presents at its boundary is fixed by its parts' black boxes alone
+# THEORY-1063: Circuit black-boxing is a functor
 
 ## Source
 

@@ -3,7 +3,17 @@ number: 1916
 status: Proposed
 formerly:
 - THEORY-tmp52xrv
-title: 'Choroszewicz finds, from 2.5 years of ethnography of generative-AI tool trials in two Finnish public organizations, that test users were positioned as moral crumple zones: held responsible for the quality, verification and appropriate use of outputs from immature, opaque tools they could not shape, with poor outputs framed as user error, through five mechanisms: oversight and liability taken for granted, immature tools marketed as sparring buddies, trial-and-error learning offloaded to users, limited transparency, and a burden of vigilance against persuasive but fallible outputs'
+title: 'AI trial users became moral crumple zones'
+statement: >-
+  Choroszewicz finds, from 2.5 years of ethnography of generative-AI tool
+  trials in two Finnish public organizations, that test users were
+  positioned as moral crumple zones: held responsible for the quality,
+  verification and appropriate use of outputs from immature, opaque tools
+  they could not shape, with poor outputs framed as user error, through five
+  mechanisms: oversight and liability taken for granted, immature tools
+  marketed as sparring buddies, trial-and-error learning offloaded to users,
+  limited transparency, and a burden of vigilance against persuasive but
+  fallible outputs
 version: 2
 history:
 - version: 2
@@ -38,7 +48,7 @@ corroborates:
 <!-- inactive-ok-file: CLAIM-715 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpmdej3 — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: CLAIM-707 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1916: Choroszewicz finds, from 2.5 years of ethnography of generative-AI tool trials in two Finnish public organizations, that test users were positioned as moral crumple zones: held responsible for the quality, verification and appropriate use of outputs from immature, opaque tools they could not shape, with poor outputs framed as user error, through five mechanisms: oversight and liability taken for granted, immature tools marketed as sparring buddies, trial-and-error learning offloaded to users, limited transparency, and a burden of vigilance against persuasive but fallible outputs
+# THEORY-1916: AI trial users became moral crumple zones
 
 ## Source
 

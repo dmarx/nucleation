@@ -3,7 +3,15 @@ number: 1736
 status: Proposed
 formerly:
 - THEORY-tmp5rm74
-title: 'Park et al. (2023) give LLM agents a memory stream of timestamped natural-language observations, retrieved by a sum of recency, importance and relevance scores, plus periodic reflections that cite the memories they are inferred from and are stored back into the stream, and find in an ablation rated by human judges that memory, reflection and planning each add to the believability of agent behaviour, with errors coming from failed retrieval and embellishment rather than from memories being absent'
+title: 'Memory, reflection and planning add believability'
+statement: >-
+  Park et al. (2023) give LLM agents a memory stream of timestamped
+  natural-language observations, retrieved by a sum of recency, importance
+  and relevance scores, plus periodic reflections that cite the memories
+  they are inferred from and are stored back into the stream, and find in an
+  ablation rated by human judges that memory, reflection and planning each
+  add to the believability of agent behaviour, with errors coming from
+  failed retrieval and embellishment rather than from memories being absent
 version: 1
 tags:
 - information-retrieval
@@ -26,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1887 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# THEORY-1736: Park et al. (2023) give LLM agents a memory stream of timestamped natural-language observations, retrieved by a sum of recency, importance and relevance scores, plus periodic reflections that cite the memories they are inferred from and are stored back into the stream, and find in an ablation rated by human judges that memory, reflection and planning each add to the believability of agent behaviour, with errors coming from failed retrieval and embellishment rather than from memories being absent
+# THEORY-1736: Memory, reflection and planning add believability
 
 ## The account
 

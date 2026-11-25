@@ -15,7 +15,13 @@ promote_when: >-
   or constructivist criterion to fix medicine. Further thought experiments
   about a majority with other values cannot settle it, and neither can the
   attractions of the pluralist alternative.
-title: "A definition of health and disease by social justice alone cannot fix what counts as disease: with justice left undefined, a majority with other values could medicalise what the definition was meant to protect, and unless medicine is fixed from outside, the category drifts until health becomes justice"
+title: 'Justice alone can''t define disease'
+statement: >-
+  A definition of health and disease by social justice alone cannot fix what
+  counts as disease: with justice left undefined, a majority with other
+  values could medicalise what the definition was meant to protect, and
+  unless medicine is fixed from outside, the category drifts until health
+  becomes justice
 version: 1
 tags:
 - philosophy-of-science
@@ -34,7 +40,7 @@ summary: >-
   the first horn bites only without moral consensus.
 ---
 
-# THEORY-600: A definition of health and disease by social justice alone cannot fix what counts as disease: with justice left undefined, a majority with other values could medicalise what the definition was meant to protect, and unless medicine is fixed from outside, the category drifts until health becomes justice
+# THEORY-600: Justice alone can't define disease
 
 ## Source
 

@@ -14,7 +14,12 @@ promote_when: >-
   trained on the same task. Further sightings of one low-level feature
   family in another architecture cannot settle it: that is the anecdote it
   rests on now.
-title: 'Analogous features and circuits form across neural networks trained on different architectures, data and tasks, so that a feature or circuit found in one model can be expected in others, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose under the name universality'
+title: 'Similar features recur across networks'
+statement: >-
+  Analogous features and circuits form across neural networks trained on
+  different architectures, data and tasks, so that a feature or circuit
+  found in one model can be expected in others, as Olah, Cammarata,
+  Schubert, Goh, Petrov and Carter propose under the name universality
 version: 2
 history:
 - version: 1
@@ -45,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-263 THEORY-1013 — Proposed; the claims this bears on, cited as open -->
 
-# THEORY-986: Analogous features and circuits form across neural networks trained on different architectures, data and tasks, so that a feature or circuit found in one model can be expected in others, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose under the name universality
+# THEORY-986: Similar features recur across networks
 
 ## Source
 

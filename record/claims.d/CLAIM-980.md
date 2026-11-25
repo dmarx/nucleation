@@ -3,7 +3,15 @@ number: 980
 status: Proposed
 formerly:
 - CLAIM-tmpllgpb
-title: "In a stable linear Gaussian VAR(1) the dynamical dependence of a linear aggregate Y = LX lies between ½ log det(I + G⁻¹ LA Σ_|L AᵀLᵀ) and the same with the stationary Π_|L for the noise Σ_|L, so for a nearly decomposable A = A* + εC the sum over a block has dependence of exact order ε² when the block's columns have equal sums, with a constant that grows as the slow gap closes, and a floor that neither ε → 0 nor a wider fast gap removes when they do not"
+title: 'VAR(1) aggregate dependence of order ε²'
+statement: >-
+  In a stable linear Gaussian VAR(1) the dynamical dependence of a linear
+  aggregate Y = LX lies between ½ log det(I + G⁻¹ LA Σ_|L AᵀLᵀ) and the same
+  with the stationary Π_|L for the noise Σ_|L, so for a nearly decomposable
+  A = A* + εC the sum over a block has dependence of exact order ε² when the
+  block's columns have equal sums, with a constant that grows as the slow
+  gap closes, and a floor that neither ε → 0 nor a wider fast gap removes
+  when they do not
 version: 1
 role: thesis
 warrant: demonstrated
@@ -50,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-381 — new; the numerical study filed with this claim -->
 <!-- inactive-ok-file: CLAIM-925 — Proposed; the filter it describes is the one used here, nothing rests on it -->
 
-# CLAIM-980: In a stable linear Gaussian VAR(1) the dynamical dependence of a linear aggregate Y = LX lies between ½ log det(I + G⁻¹ LA Σ_|L AᵀLᵀ) and the same with the stationary Π_|L for the noise Σ_|L, so for a nearly decomposable A = A* + εC the sum over a block has dependence of exact order ε² when the block's columns have equal sums, with a constant that grows as the slow gap closes, and a floor that neither ε → 0 nor a wider fast gap removes when they do not
+# CLAIM-980: VAR(1) aggregate dependence of order ε²
 
 ## The claim
 

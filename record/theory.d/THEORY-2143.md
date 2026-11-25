@@ -9,7 +9,14 @@ promote_when: >-
   numerical run of ẋ = −Lx + b on a small digraph with a globally
   reachable node and vᵀb = 0 converging to L†b + (vᵀx₀)1 from several
   starts.
-title: 'Jafarpour, Cisneros-Velarde and Bullo show that a continuous-time system contracting in a seminorm converges to a translate of the seminorm''s kernel without fixing where on it each trajectory ends, and may diverge along it; that one also weakly contracting, with a kernel of equilibria, converges to a single equilibrium; and that in affine averaging that equilibrium is fixed by a conserved linear functional, not by the seminorm'
+title: 'Seminorm contraction leaves the kernel free'
+statement: >-
+  Jafarpour, Cisneros-Velarde and Bullo show that a continuous-time system
+  contracting in a seminorm converges to a translate of the seminorm's
+  kernel without fixing where on it each trajectory ends, and may diverge
+  along it; that one also weakly contracting, with a kernel of equilibria,
+  converges to a single equilibrium; and that in affine averaging that
+  equilibrium is fixed by a conserved linear functional, not by the seminorm
 version: 1
 tags:
 - control-theory
@@ -28,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2043 THEORY-2044 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-772 THEORY-2142 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
-# THEORY-2143: Jafarpour, Cisneros-Velarde and Bullo show that a continuous-time system contracting in a seminorm converges to a translate of the seminorm's kernel without fixing where on it each trajectory ends, and may diverge along it; that one also weakly contracting, with a kernel of equilibria, converges to a single equilibrium; and that in affine averaging that equilibrium is fixed by a conserved linear functional, not by the seminorm
+# THEORY-2143: Seminorm contraction leaves the kernel free
 
 ## Source
 

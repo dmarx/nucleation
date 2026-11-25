@@ -3,7 +3,15 @@ number: 1930
 status: Proposed
 formerly:
 - THEORY-tmpep26k
-title: 'Cameron finds, in four years of fieldwork with ride-hail drivers, that without managers or coworkers drivers make their work meaningful through two workplace games, a relational game scored by the app''s customer ratings, in which the platform appears as a facilitator, and an efficiency game tracked with their own tools and sometimes by manipulating the algorithm, in which it appears as an opponent, and that both games produce engagement'
+title: 'Ride-hail drivers make meaning through games'
+statement: >-
+  Cameron finds, in four years of fieldwork with ride-hail drivers, that
+  without managers or coworkers drivers make their work meaningful through
+  two workplace games, a relational game scored by the app's customer
+  ratings, in which the platform appears as a facilitator, and an efficiency
+  game tracked with their own tools and sometimes by manipulating the
+  algorithm, in which it appears as an opponent, and that both games produce
+  engagement
 version: 1
 tags:
 - philosophy-of-technology
@@ -19,7 +27,7 @@ bears_on:
 - QUESTION-461
 ---
 <!-- inactive-ok-file: LIT-2686 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1930: Cameron finds, in four years of fieldwork with ride-hail drivers, that without managers or coworkers drivers make their work meaningful through two workplace games, a relational game scored by the app's customer ratings, in which the platform appears as a facilitator, and an efficiency game tracked with their own tools and sometimes by manipulating the algorithm, in which it appears as an opponent, and that both games produce engagement
+# THEORY-1930: Ride-hail drivers make meaning through games
 
 ## Source
 

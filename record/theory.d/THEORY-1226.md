@@ -3,7 +3,17 @@ number: 1226
 status: Proposed
 formerly:
 - THEORY-tmpz11fs
-title: In Claude language models, a sparse set of residual-stream directions that a corpus-averaged Jacobian lens identifies as verbalizable (the J-space) is causally privileged for verbal report, for holding instructed concepts, for unspoken intermediate steps of reasoning and for passing one argument to many functions, while continuation, anomaly detection and line wrapping use the same information without routing through it; it carries workspace-like content only in a middle band of layers, holds on the order of tens of active directions and under a tenth of activation variance, and is amplified and relayed by the weights more than other directions
+title: 'A sparse J-space is privileged for verbal report'
+statement: >-
+  In Claude language models, a sparse set of residual-stream directions that
+  a corpus-averaged Jacobian lens identifies as verbalizable (the J-space)
+  is causally privileged for verbal report, for holding instructed concepts,
+  for unspoken intermediate steps of reasoning and for passing one argument
+  to many functions, while continuation, anomaly detection and line wrapping
+  use the same information without routing through it; it carries
+  workspace-like content only in a middle band of layers, holds on the order
+  of tens of active directions and under a tenth of activation variance, and
+  is amplified and relayed by the weights more than other directions
 version: 1
 tags:
 - consciousness
@@ -39,7 +49,7 @@ summary: >-
   independent replication is reported.
 ---
 
-# THEORY-1226: In Claude language models, a sparse set of residual-stream directions that a corpus-averaged Jacobian lens identifies as verbalizable (the J-space) is causally privileged for verbal report, for holding instructed concepts, for unspoken intermediate steps of reasoning and for passing one argument to many functions, while continuation, anomaly detection and line wrapping use the same information without routing through it; it carries workspace-like content only in a middle band of layers, holds on the order of tens of active directions and under a tenth of activation variance, and is amplified and relayed by the weights more than other directions
+# THEORY-1226: A sparse J-space is privileged for verbal report
 
 ## Source
 

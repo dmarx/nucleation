@@ -3,7 +3,14 @@ number: 743
 formerly:
 - CLAIM-tmpssfc1
 status: Proposed
-title: 'A demand owed to a party can cease to apply legitimately only by the exercise of a valid normative power over it, the holder''s release or waiver or an authorized revision, which changes the reference set against which relief is judged; an institution''s ceasing to count it changes only the set it recognizes, so what separates a valid release from suppression is whether a valid power was exercised, and by whom'
+title: 'Valid release needs a normative power'
+statement: >-
+  A demand owed to a party can cease to apply legitimately only by the
+  exercise of a valid normative power over it, the holder's release or
+  waiver or an authorized revision, which changes the reference set against
+  which relief is judged; an institution's ceasing to count it changes only
+  the set it recognizes, so what separates a valid release from suppression
+  is whether a valid power was exercised, and by whom
 version: 2
 history:
 - version: 2
@@ -53,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-722 CLAIM-720 — filed from the same exchange, Proposed -->
 
-# CLAIM-743: A demand owed to a party can cease to apply legitimately only by the exercise of a valid normative power over it, the holder's release or waiver or an authorized revision, which changes the reference set against which relief is judged; an institution's ceasing to count it changes only the set it recognizes, so what separates a valid release from suppression is whether a valid power was exercised, and by whom
+# CLAIM-743: Valid release needs a normative power
 
 ## The claim
 

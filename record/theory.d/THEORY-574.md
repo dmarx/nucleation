@@ -3,7 +3,14 @@ number: 574
 status: Active
 formerly:
 - THEORY-tmpljwz3
-title: "The structural width of Xin Li's learning programme is a covering number of the margin-safe region by local pieces: its lower bounds come from metric confinement through a wedge point, not from topology, labels enter only through the margin, and the error floor below width binds only learners assembled from local experts, so it does not entail routing, nor training routing apart from the task loss"
+title: 'Width bound is metric, and doesn''t entail routing'
+statement: >-
+  The structural width of Xin Li's learning programme is a covering number
+  of the margin-safe region by local pieces: its lower bounds come from
+  metric confinement through a wedge point, not from topology, labels enter
+  only through the margin, and the error floor below width binds only
+  learners assembled from local experts, so it does not entail routing, nor
+  training routing apart from the task loss
 version: 1
 tags:
 - learning-theory
@@ -29,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-373 — Rejected; the programme's informal origin, named, not leaned on -->
 <!-- inactive-ok-file: THEORY-039 — Proposed; neighbouring accounts named in Connections, not leaned on -->
 
-# THEORY-574: The structural width of Xin Li's learning programme is a covering number of the margin-safe region by local pieces: its lower bounds come from metric confinement through a wedge point, not from topology, labels enter only through the margin, and the error floor below width binds only learners assembled from local experts, so it does not entail routing, nor training routing apart from the task loss
+# THEORY-574: Width bound is metric, and doesn't entail routing
 
 ## Source
 

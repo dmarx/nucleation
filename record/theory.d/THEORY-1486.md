@@ -3,7 +3,16 @@ number: 1486
 status: Active
 formerly:
 - THEORY-tmpmcnzn
-title: "Banerjee, Duflo, Goldberg, Karlan, Osei, Parienté, Shapiro, Thuysbaert and Udry find, in six randomized trials, that a time-limited bundle of a productive asset, temporary consumption support, training and coaching raised the consumption, assets, income and working time of the poorest households, and that these gains held one year after all support ended; they read the durability as consistent with the program having unlocked a poverty trap, while noting that persistent but modest effects also fit a 'poverty flat' without one"
+title: 'Graduation programme gains outlast support'
+statement: >-
+  Banerjee, Duflo, Goldberg, Karlan, Osei, Parienté, Shapiro, Thuysbaert and
+  Udry find, in six randomized trials, that a time-limited bundle of a
+  productive asset, temporary consumption support, training and coaching
+  raised the consumption, assets, income and working time of the poorest
+  households, and that these gains held one year after all support ended;
+  they read the durability as consistent with the program having unlocked a
+  poverty trap, while noting that persistent but modest effects also fit a
+  'poverty flat' without one
 version: 3
 history:
 - version: 2
@@ -49,7 +58,7 @@ corroborates:
 - CLAIM-601
 ---
 
-# THEORY-1486: Banerjee, Duflo, Goldberg, Karlan, Osei, Parienté, Shapiro, Thuysbaert and Udry find, in six randomized trials, that a time-limited bundle of a productive asset, temporary consumption support, training and coaching raised the consumption, assets, income and working time of the poorest households, and that these gains held one year after all support ended; they read the durability as consistent with the program having unlocked a poverty trap, while noting that persistent but modest effects also fit a 'poverty flat' without one
+# THEORY-1486: Graduation programme gains outlast support
 
 ## Source
 

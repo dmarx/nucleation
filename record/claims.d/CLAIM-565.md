@@ -3,7 +3,14 @@ number: 565
 status: Active
 formerly:
 - CLAIM-tmp84a10
-title: 'For Boolean constraint languages with constants and single-variable flips, the language fixes whether deciding that one solution reaches another is polynomial or PSPACE-complete, by a boundary that cuts across the clones of polymorphisms that fix the complexity of satisfiability, so the algebra of the satisfiability dichotomy does not by itself predict the complexity of navigating a solution space'
+title: 'Reconfiguration complexity cuts across clones'
+statement: >-
+  For Boolean constraint languages with constants and single-variable flips,
+  the language fixes whether deciding that one solution reaches another is
+  polynomial or PSPACE-complete, by a boundary that cuts across the clones
+  of polymorphisms that fix the complexity of satisfiability, so the algebra
+  of the satisfiability dichotomy does not by itself predict the complexity
+  of navigating a solution space
 version: 3
 history:
 - version: 2
@@ -77,7 +84,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1555 NOTE-1572 THEORY-1380 THEORY-1382 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
-# CLAIM-565: For Boolean constraint languages with constants and single-variable flips, the language fixes whether deciding that one solution reaches another is polynomial or PSPACE-complete, by a boundary that cuts across the clones of polymorphisms that fix the complexity of satisfiability, so the algebra of the satisfiability dichotomy does not by itself predict the complexity of navigating a solution space
+# CLAIM-565: Reconfiguration complexity cuts across clones
 
 ## The claim
 

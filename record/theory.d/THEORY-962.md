@@ -3,7 +3,15 @@ number: 962
 status: Active
 formerly:
 - THEORY-tmpwtj3m
-title: 'In a finite partial-monitoring game, the signals of a set D of actions determine the expected loss difference of actions i and j under every outcome distribution iff ℓ_i − ℓ_j lies in the sum of the row spaces of their signal matrices; when it does not, two outcome distributions differing along a vector in the common kernel give every action in D the same signal law and reverse the preference between i and j, so no amount of play restricted to D can learn the comparison'
+title: 'Local observability fixes learnable comparisons'
+statement: >-
+  In a finite partial-monitoring game, the signals of a set D of actions
+  determine the expected loss difference of actions i and j under every
+  outcome distribution iff ℓ_i − ℓ_j lies in the sum of the row spaces of
+  their signal matrices; when it does not, two outcome distributions
+  differing along a vector in the common kernel give every action in D the
+  same signal law and reverse the preference between i and j, so no amount
+  of play restricted to D can learn the comparison
 version: 4
 history:
 - version: 1
@@ -62,7 +70,7 @@ bounds:
 ---
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the classification this lemma feeds, filed from the same reading -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose example is worked here, nothing here rests on it -->
-# THEORY-962: In a finite partial-monitoring game, the signals of a set D of actions determine the expected loss difference of actions i and j under every outcome distribution iff ℓ_i − ℓ_j lies in the sum of the row spaces of their signal matrices; when it does not, two outcome distributions differing along a vector in the common kernel give every action in D the same signal law and reverse the preference between i and j, so no amount of play restricted to D can learn the comparison
+# THEORY-962: Local observability fixes learnable comparisons
 
 ## Source
 

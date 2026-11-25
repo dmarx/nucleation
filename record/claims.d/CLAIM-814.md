@@ -3,7 +3,14 @@ number: 814
 status: Proposed
 formerly:
 - CLAIM-tmpd1shn
-title: 'In the scalar linear reservoir x(t+1) = a x(t) + u(t) + η(t), the gain a does not trade memory against noise: the state''s signal-to-noise ratio and its total linear memory capacity s²/(s²+σ²) do not depend on a, which only spreads that capacity over lags; recalling the input k steps back is best at a = √(k/(k+1)), and noise added at the readout makes capacity rise monotonically toward a = 1'
+title: 'Reservoir gain does not trade memory for noise'
+statement: >-
+  In the scalar linear reservoir x(t+1) = a x(t) + u(t) + η(t), the gain a
+  does not trade memory against noise: the state's signal-to-noise ratio and
+  its total linear memory capacity s²/(s²+σ²) do not depend on a, which only
+  spreads that capacity over lags; recalling the input k steps back is best
+  at a = √(k/(k+1)), and noise added at the readout makes capacity rise
+  monotonically toward a = 1
 version: 1
 role: thesis
 warrant: demonstrated
@@ -46,7 +53,7 @@ grounds:
 <!-- inactive-ok-file: THEORY-2168 CLAIM-809 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2204 LIT-2991 — Proposed or Unavailable; the reading of the NIPS 2004 companion and the work it stands in for, 2026-11-22 -->
 
-# CLAIM-814: In the scalar linear reservoir x(t+1) = a x(t) + u(t) + η(t), the gain a does not trade memory against noise: the state's signal-to-noise ratio and its total linear memory capacity s²/(s²+σ²) do not depend on a, which only spreads that capacity over lags; recalling the input k steps back is best at a = √(k/(k+1)), and noise added at the readout makes capacity rise monotonically toward a = 1
+# CLAIM-814: Reservoir gain does not trade memory for noise
 
 ## The gap it fills
 

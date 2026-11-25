@@ -3,7 +3,13 @@ number: 1317
 status: Proposed
 formerly:
 - CLAIM-tmpro73c
-title: 'Where an implicit relationship is ambiguous, who resolves the ambiguity, when, and at whose cost can matter more than how ambiguous it is: a party that may treat the same accommodation as discretionary when asked to compensate it and as owed when it is withheld takes advantage through the ambiguity without changing any term'
+title: 'Who resolves ambiguity matters more than how much'
+statement: >-
+  Where an implicit relationship is ambiguous, who resolves the ambiguity,
+  when, and at whose cost can matter more than how ambiguous it is: a party
+  that may treat the same accommodation as discretionary when asked to
+  compensate it and as owed when it is withheld takes advantage through the
+  ambiguity without changing any term
 version: 1
 role: thesis
 warrant: interpretive
@@ -50,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-713 CLAIM-728 CLAIM-731 TERM-123 — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
 
-# CLAIM-1317: Where an implicit relationship is ambiguous, who resolves the ambiguity, when, and at whose cost can matter more than how ambiguous it is: a party that may treat the same accommodation as discretionary when asked to compensate it and as owed when it is withheld takes advantage through the ambiguity without changing any term
+# CLAIM-1317: Who resolves ambiguity matters more than how much
 
 ## The claim
 

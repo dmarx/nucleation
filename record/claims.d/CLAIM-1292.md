@@ -3,7 +3,12 @@ number: 1292
 status: Proposed
 formerly:
 - CLAIM-tmpkvi10
-title: 'A record that holds one tangle of interrelated ideas removes the reason to publish it as a flood of interrelated papers: the whole tangle can be offered for evaluation, and each party with its own interests given a view over it'
+title: 'One tangle need not be a flood of papers'
+statement: >-
+  A record that holds one tangle of interrelated ideas removes the reason to
+  publish it as a flood of interrelated papers: the whole tangle can be
+  offered for evaluation, and each party with its own interests given a view
+  over it
 version: 3
 history:
 - version: 2
@@ -57,7 +62,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-178 CLAIM-1325 CLAIM-1283 CLAIM-1306 ADR-143 — Proposed; the premise that a manuscript is a view, the assistant's reading of why audiences need different views, the owner's publishing thesis, and A's rule for when views are separate contributions -->
 
-# CLAIM-1292: A record that holds one tangle of interrelated ideas removes the reason to publish it as a flood of interrelated papers: the whole tangle can be offered for evaluation, and each party with its own interests given a view over it
+# CLAIM-1292: One tangle need not be a flood of papers
 
 ## The claim
 

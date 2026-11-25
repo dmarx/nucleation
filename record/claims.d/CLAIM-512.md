@@ -3,7 +3,16 @@ number: 512
 status: Active
 formerly:
 - CLAIM-tmp1l3am
-title: 'The diachronic thesis faces two objections: a dilemma, that read narrowly it fails for judgments not about any organization''s continuation, such as that suffering is bad, and read broadly every judgment is met vacuously as a preference between continuations unless the organizational description adds causal specificity, transfer or counterfactual discrimination; and a distinction, that evaluating a history is not prescribing its continuation, so a judgment can be determinate with no future transformation fixed'
+title: 'Dilemma against the diachronic thesis'
+statement: >-
+  The diachronic thesis faces two objections: a dilemma, that read narrowly
+  it fails for judgments not about any organization's continuation, such as
+  that suffering is bad, and read broadly every judgment is met vacuously as
+  a preference between continuations unless the organizational description
+  adds causal specificity, transfer or counterfactual discrimination; and a
+  distinction, that evaluating a history is not prescribing its
+  continuation, so a judgment can be determinate with no future
+  transformation fixed
 version: 5
 history:
 - version: 2
@@ -67,7 +76,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account, cited for the standard it needs and disclaims -->
 
-# CLAIM-512: The diachronic thesis faces two objections: a dilemma, that read narrowly it fails for judgments not about any organization's continuation, such as that suffering is bad, and read broadly every judgment is met vacuously as a preference between continuations unless the organizational description adds causal specificity, transfer or counterfactual discrimination; and a distinction, that evaluating a history is not prescribing its continuation, so a judgment can be determinate with no future transformation fixed
+# CLAIM-512: Dilemma against the diachronic thesis
 
 ## The objection
 

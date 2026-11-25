@@ -9,7 +9,13 @@ promote_when: >-
   accountability, grounded respectively in quality of character, of
   judgment and of regard, with anger the response proper to
   accountability. Whether the theory is true is not asked.
-title: 'Shoemaker holds that moral responsibility comes in three independent types, attributability, answerability and accountability, grounded in the capacities for quality of character, quality of judgment and quality of regard and each answered by its own family of responses, anger belonging to accountability'
+title: 'Responsibility has three independent types'
+statement: >-
+  Shoemaker holds that moral responsibility comes in three independent
+  types, attributability, answerability and accountability, grounded in the
+  capacities for quality of character, quality of judgment and quality of
+  regard and each answered by its own family of responses, anger belonging
+  to accountability
 version: 1
 tags:
 - ethics
@@ -30,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2777 — Unavailable; the work this stands in for -->
 <!-- inactive-ok-file: NOTE-2048 — Skimmed or Open; the reading and the question it bears on -->
 
-# THEORY-1974: Shoemaker holds that moral responsibility comes in three independent types, attributability, answerability and accountability, grounded in the capacities for quality of character, quality of judgment and quality of regard and each answered by its own family of responses, anger belonging to accountability
+# THEORY-1974: Responsibility has three independent types
 
 Shoemaker (2019), [LIT-2766](../literature.d/LIT-2766.md), after Shoemaker (2011), [LIT-2777](../literature.d/LIT-2777.md).
 

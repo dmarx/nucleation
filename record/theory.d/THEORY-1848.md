@@ -3,7 +3,13 @@ number: 1848
 status: Proposed
 formerly:
 - THEORY-tmpnm1gx
-title: 'Dijkema reads Crawford as holding that distraction dissolves individuality and freedom because modern epistemology relocated truth inside the head, leaving attention open to those who monopolize it, and that the remedy is an ecology of attention found in communities of skilled practice, where competence rests on an apprehension of real features of the world'
+title: 'Skilled practice is the remedy for distraction'
+statement: >-
+  Dijkema reads Crawford as holding that distraction dissolves individuality
+  and freedom because modern epistemology relocated truth inside the head,
+  leaving attention open to those who monopolize it, and that the remedy is
+  an ecology of attention found in communities of skilled practice, where
+  competence rests on an apprehension of real features of the world
 version: 1
 source:
 - LIT-2595
@@ -24,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2574 until 2027-05-13 — Unavailable; the book this review stands in for -->
 
-# THEORY-1848: Dijkema reads Crawford as holding that distraction dissolves individuality and freedom because modern epistemology relocated truth inside the head, leaving attention open to those who monopolize it, and that the remedy is an ecology of attention found in communities of skilled practice, where competence rests on an apprehension of real features of the world
+# THEORY-1848: Skilled practice is the remedy for distraction
 
 ## The account
 

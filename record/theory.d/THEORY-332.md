@@ -3,7 +3,16 @@ number: 332
 status: Active
 formerly:
 - THEORY-tmp326zp
-title: "For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, is not three-competitive: when every statement's saving or loss is at most a fraction f of the build cost, a repeated workload makes it cost nearly 3 + 2f times the offline optimum, and one statement whose saving exceeds the build cost makes the ratio unbounded; no upper bound is shown"
+title: 'Online index tuner is not three-competitive'
+statement: >-
+  For one index with no space limit, Bruno and Chaudhuri's online tuner,
+  which builds the index once the savings it would have given have risen by
+  its build cost above their last low and drops it once they have fallen by
+  the build cost below their last high, is not three-competitive: when every
+  statement's saving or loss is at most a fraction f of the build cost, a
+  repeated workload makes it cost nearly 3 + 2f times the offline optimum,
+  and one statement whose saving exceeds the build cost makes the ratio
+  unbounded; no upper bound is shown
 version: 3
 history:
 - version: 2
@@ -45,7 +54,7 @@ bears_on:
 - QUESTION-224
 ---
 
-# THEORY-332: For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, is not three-competitive: when every statement's saving or loss is at most a fraction f of the build cost, a repeated workload makes it cost nearly 3 + 2f times the offline optimum, and one statement whose saving exceeds the build cost makes the ratio unbounded; no upper bound is shown
+# THEORY-332: Online index tuner is not three-competitive
 
 ## Source
 

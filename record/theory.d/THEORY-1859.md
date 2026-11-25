@@ -3,7 +3,14 @@ number: 1859
 status: Proposed
 formerly:
 - THEORY-tmpvlt2n
-title: 'Winner holds that artifacts can embody forms of power and authority in two ways, by a design or arrangement that settles an issue in a community and as inherently political technologies that require, or are strongly compatible with, particular political relations, and that the latitude of choice is greatest when a technology is first introduced and vanishes for practical purposes once initial commitments are made'
+title: 'Artifacts can embody power and authority'
+statement: >-
+  Winner holds that artifacts can embody forms of power and authority in two
+  ways, by a design or arrangement that settles an issue in a community and
+  as inherently political technologies that require, or are strongly
+  compatible with, particular political relations, and that the latitude of
+  choice is greatest when a technology is first introduced and vanishes for
+  practical purposes once initial commitments are made
 version: 1
 source:
 - LIT-2585
@@ -31,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2586 until 2027-05-13 — Unavailable; the book this essay partly stands in for -->
 <!-- inactive-ok-file: THEORY-1841 ARG-103 — Proposed; cited with its standing -->
 
-# THEORY-1859: Winner holds that artifacts can embody forms of power and authority in two ways, by a design or arrangement that settles an issue in a community and as inherently political technologies that require, or are strongly compatible with, particular political relations, and that the latitude of choice is greatest when a technology is first introduced and vanishes for practical purposes once initial commitments are made
+# THEORY-1859: Artifacts can embody power and authority
 
 ## The account
 

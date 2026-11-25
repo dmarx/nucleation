@@ -8,7 +8,13 @@ promote_when: >-
   derivation, confirming that μP satisfies the spectral scaling condition
   and is the unique stable abc-parametrization that does, and that the NTK
   parametrization makes updates vanish in spectral norm with width.
-title: 'Yang, Simon and Bernstein show that hidden features and their per-step changes stay of order one per entry at every width when each weight matrix and each of its updates has spectral norm of order √(fan-out/fan-in), that μP is the unique stable abc-parametrization meeting this condition, and that standard and neural-tangent parametrizations violate it'
+title: 'Spectral scaling keeps features order one'
+statement: >-
+  Yang, Simon and Bernstein show that hidden features and their per-step
+  changes stay of order one per entry at every width when each weight matrix
+  and each of its updates has spectral norm of order √(fan-out/fan-in), that
+  μP is the unique stable abc-parametrization meeting this condition, and
+  that standard and neural-tangent parametrizations violate it
 version: 1
 tags:
 - learning-theory
@@ -26,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2133 THEORY-2136 THEORY-2138 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
-# THEORY-2139: Yang, Simon and Bernstein show that hidden features and their per-step changes stay of order one per entry at every width when each weight matrix and each of its updates has spectral norm of order √(fan-out/fan-in), that μP is the unique stable abc-parametrization meeting this condition, and that standard and neural-tangent parametrizations violate it
+# THEORY-2139: Spectral scaling keeps features order one
 
 ## Source
 

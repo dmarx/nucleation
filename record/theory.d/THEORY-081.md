@@ -3,7 +3,12 @@ number: 81
 status: Active
 formerly:
 - THEORY-tmp9y0ia
-title: 'The evidence of any model formed from a full model by changing only its prior is the full evidence times the full posterior expectation of the prior ratio, so the Savage–Dickey ratio is its point-mass case and choosing which parameters to keep is evidence maximisation over the prior'
+title: 'Reduced-model evidence is a prior-ratio average'
+statement: >-
+  The evidence of any model formed from a full model by changing only its
+  prior is the full evidence times the full posterior expectation of the
+  prior ratio, so the Savage–Dickey ratio is its point-mass case and
+  choosing which parameters to keep is evidence maximisation over the prior
 version: 2
 history:
 - version: 2
@@ -44,7 +49,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-2167 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
 
-# THEORY-081: The evidence of any model formed from a full model by changing only its prior is the full evidence times the full posterior expectation of the prior ratio, so the Savage–Dickey ratio is its point-mass case and choosing which parameters to keep is evidence maximisation over the prior
+# THEORY-081: Reduced-model evidence is a prior-ratio average
 
 ## Source
 

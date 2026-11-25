@@ -3,7 +3,15 @@ number: 647
 status: Proposed
 formerly:
 - CLAIM-tmpnwq8a
-title: 'Replacing the base model a specialization was learned into can impose a compatibility or transfer cost that shortens the specialization''s useful life, though nothing it encodes has become false: in the trade between learning once and computing on demand, the reader''s turnover is a staleness term of its own, beside the world''s changing; how often the cost binds, and whether it tips the trade toward computing on demand, is empirical'
+title: 'Reader turnover is a staleness term of its own'
+statement: >-
+  Replacing the base model a specialization was learned into can impose a
+  compatibility or transfer cost that shortens the specialization's useful
+  life, though nothing it encodes has become false: in the trade between
+  learning once and computing on demand, the reader's turnover is a
+  staleness term of its own, beside the world's changing; how often the cost
+  binds, and whether it tips the trade toward computing on demand, is
+  empirical
 version: 3
 history:
 - version: 2
@@ -74,7 +82,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-235 CASE-234 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-1639 THEORY-1640 ARG-080 ARG-079 — Proposed; the readings and ARGs filed with this claim's second version -->
 
-# CLAIM-647: Replacing the base model a specialization was learned into can impose a compatibility or transfer cost that shortens the specialization's useful life, though nothing it encodes has become false: in the trade between learning once and computing on demand, the reader's turnover is a staleness term of its own, beside the world's changing; how often the cost binds, and whether it tips the trade toward computing on demand, is empirical
+# CLAIM-647: Reader turnover is a staleness term of its own
 
 ## The claim
 

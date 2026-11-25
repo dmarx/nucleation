@@ -3,7 +3,13 @@ number: 1851
 status: Proposed
 formerly:
 - THEORY-tmpo6ipc
-title: 'Benjamin argues that new technologies often reproduce and deepen existing racial hierarchies while promoted as more objective or progressive than older discriminatory systems, because designers encode social judgments into technical systems, including by default, and then treat the results as external to the design'
+title: 'New tech deepens racial hierarchies'
+statement: >-
+  Benjamin argues that new technologies often reproduce and deepen existing
+  racial hierarchies while promoted as more objective or progressive than
+  older discriminatory systems, because designers encode social judgments
+  into technical systems, including by default, and then treat the results
+  as external to the design
 version: 1
 source:
 - LIT-2603
@@ -26,7 +32,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-682 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-1940 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
-# THEORY-1851: Benjamin argues that new technologies often reproduce and deepen existing racial hierarchies while promoted as more objective or progressive than older discriminatory systems, because designers encode social judgments into technical systems, including by default, and then treat the results as external to the design
+# THEORY-1851: New tech deepens racial hierarchies
 
 ## The account
 

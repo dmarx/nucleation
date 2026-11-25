@@ -3,7 +3,13 @@ number: 592
 status: Active
 formerly:
 - THEORY-tmpnon3g
-title: "Every unital Banach *-algebra satisfying Gelfand and Naimark's norm conditions is isometrically *-isomorphic to a norm-closed algebra of operators on a Hilbert space, built from positive functionals by what is now the GNS construction, and a commutative one is the algebra of all continuous functions on its compact maximal-ideal space"
+title: 'C*-algebras embed as Hilbert-space operators'
+statement: >-
+  Every unital Banach *-algebra satisfying Gelfand and Naimark's norm
+  conditions is isometrically *-isomorphic to a norm-closed algebra of
+  operators on a Hilbert space, built from positive functionals by what is
+  now the GNS construction, and a commutative one is the algebra of all
+  continuous functions on its compact maximal-ideal space
 version: 1
 tags:
 - mathematics
@@ -22,7 +28,7 @@ summary: >-
   uniqueness or irreducibility of the representation.
 ---
 
-# THEORY-592: Every unital Banach *-algebra satisfying Gelfand and Naimark's norm conditions is isometrically *-isomorphic to a norm-closed algebra of operators on a Hilbert space, built from positive functionals by what is now the GNS construction, and a commutative one is the algebra of all continuous functions on its compact maximal-ideal space
+# THEORY-592: C*-algebras embed as Hilbert-space operators
 
 ## Source
 

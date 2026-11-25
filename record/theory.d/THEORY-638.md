@@ -16,7 +16,14 @@ promote_when: >-
   be tested, would also move it, since by its own lights neither behaviour
   nor the program can show them. More intuitions about the room cannot
   settle it, since the dispute is over whose intuition the room reports.
-title: "Instantiating a formal program is never by itself sufficient for understanding or intentionality, since a person can carry out a program for answering questions in Chinese by hand without understanding Chinese; whatever thinks does so in virtue of causal powers at least equivalent to the brain's, and the reply that the whole system understands is answered only by an asserted internalisation"
+title: 'Running a program isn''t understanding'
+statement: >-
+  Instantiating a formal program is never by itself sufficient for
+  understanding or intentionality, since a person can carry out a program
+  for answering questions in Chinese by hand without understanding Chinese;
+  whatever thinks does so in virtue of causal powers at least equivalent to
+  the brain's, and the reply that the whole system understands is answered
+  only by an asserted internalisation
 version: 1
 tags:
 - cognition
@@ -39,7 +46,7 @@ rivals:
 ---
 <!-- inactive-ok-file: THEORY-043 THEORY-092 THEORY-433 THEORY-538 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
-# THEORY-638: Instantiating a formal program is never by itself sufficient for understanding or intentionality, since a person can carry out a program for answering questions in Chinese by hand without understanding Chinese; whatever thinks does so in virtue of causal powers at least equivalent to the brain's, and the reply that the whole system understands is answered only by an asserted internalisation
+# THEORY-638: Running a program isn't understanding
 
 ## Source
 

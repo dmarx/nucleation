@@ -3,7 +3,15 @@ number: 2028
 status: Proposed
 formerly:
 - THEORY-tmpgs5bb
-title: 'Rupe and Crutchfield define local causal states as classes of past lightcones with the same distribution over future lightcones, domains as regions where the resulting state field is invariant under a group of space and time shifts, and coherent structures as localized, persistent deviations from domains, and show on elementary cellular automata that the domains match the domain-particle decomposition exactly and its particles largely'
+title: 'Local causal states recover CA domains'
+statement: >-
+  Rupe and Crutchfield define local causal states as classes of past
+  lightcones with the same distribution over future lightcones, domains as
+  regions where the resulting state field is invariant under a group of
+  space and time shifts, and coherent structures as localized, persistent
+  deviations from domains, and show on elementary cellular automata that the
+  domains match the domain-particle decomposition exactly and its particles
+  largely
 version: 1
 source:
 - LIT-2824
@@ -33,7 +41,7 @@ summary: >-
   tmpcb0bf compares. Read in its NOTE.
 ---
 
-# THEORY-2028: Rupe and Crutchfield define local causal states as classes of past lightcones with the same distribution over future lightcones, domains as regions where the resulting state field is invariant under a group of space and time shifts, and coherent structures as localized, persistent deviations from domains, and show on elementary cellular automata that the domains match the domain-particle decomposition exactly and its particles largely
+# THEORY-2028: Local causal states recover CA domains
 
 ## The account
 

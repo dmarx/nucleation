@@ -3,7 +3,14 @@ number: 55
 status: Proposed
 formerly:
 - SYNTHESIS-tmptxoa2
-title: 'Competent behaviour across a family of goals fixes the world model an observer must ascribe without identifying any mechanism inside the agent, so world-modeling is a family of query-relative, resource-bounded capabilities, of which a representational model is one realization, and producing, maintaining and revising them are further organizational achievements that a proposed study would separate'
+title: 'Competence fixes a world model, not a mechanism'
+statement: >-
+  Competent behaviour across a family of goals fixes the world model an
+  observer must ascribe without identifying any mechanism inside the agent,
+  so world-modeling is a family of query-relative, resource-bounded
+  capabilities, of which a representational model is one realization, and
+  producing, maintaining and revising them are further organizational
+  achievements that a proposed study would separate
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -28,7 +35,7 @@ integrates:
 ---
 <!-- inactive-ok-file: CLAIM-355 CLAIM-447 CLAIM-514 CLAIM-519 TERM-086 TERM-118 THEORY-092 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-055: Competent behaviour across a family of goals fixes the world model an observer must ascribe without identifying any mechanism inside the agent, so world-modeling is a family of query-relative, resource-bounded capabilities, of which a representational model is one realization, and producing, maintaining and revising them are further organizational achievements that a proposed study would separate
+# SYNTHESIS-055: Competence fixes a world model, not a mechanism
 
 *A part account of the distributed-agency line: the entries filed from the
 second review of the exchange "Analyze nucleation concepts" (2026-10-31),

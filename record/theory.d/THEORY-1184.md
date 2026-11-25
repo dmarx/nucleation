@@ -14,7 +14,13 @@ promote_when: >-
   offering and then withdrawing avoidance leaves threat expectancy for a
   safe stimulus unchanged. Studies that keep the signal cannot settle
   it.
-title: 'In three laboratory studies of healthy humans, offering a costless avoidance response for a stimulus never paired with the aversive outcome led people to use it, and withdrawing the response then raised their expectancy of the outcome for that stimulus; signalling of the response is a confound'
+title: 'Removing safe avoidance raises threat expectancy'
+statement: >-
+  In three laboratory studies of healthy humans, offering a costless
+  avoidance response for a stimulus never paired with the aversive outcome
+  led people to use it, and withdrawing the response then raised their
+  expectancy of the outcome for that stimulus; signalling of the response is
+  a confound
 version: 1
 tags:
 - learning-and-conditioning
@@ -36,7 +42,7 @@ summary: >-
   why.
 ---
 
-# THEORY-1184: In three laboratory studies of healthy humans, offering a costless avoidance response for a stimulus never paired with the aversive outcome led people to use it, and withdrawing the response then raised their expectancy of the outcome for that stimulus; signalling of the response is a confound
+# THEORY-1184: Removing safe avoidance raises threat expectancy
 
 ## Source
 

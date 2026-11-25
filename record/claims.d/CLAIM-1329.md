@@ -3,7 +3,11 @@ number: 1329
 status: Proposed
 formerly:
 - CLAIM-tmpupcws
-title: 'A misunderstanding is productive when identifying and clarifying the ambiguity it exposes is the detection of, and a reorganization around, a novel distinction that has become consequential'
+title: 'Productive misunderstanding detects a distinction'
+statement: >-
+  A misunderstanding is productive when identifying and clarifying the
+  ambiguity it exposes is the detection of, and a reorganization around, a
+  novel distinction that has become consequential
 version: 1
 role: thesis
 warrant: interpretive
@@ -40,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1298 CLAIM-1276 CLAIM-1243 CLAIM-1317 — Proposed or new; filed with this entry or in the same pull request -->
 
-# CLAIM-1329: A misunderstanding is productive when identifying and clarifying the ambiguity it exposes is the detection of, and a reorganization around, a novel distinction that has become consequential
+# CLAIM-1329: Productive misunderstanding detects a distinction
 
 ## The claim
 

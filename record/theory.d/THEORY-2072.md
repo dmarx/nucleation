@@ -3,7 +3,16 @@ number: 2072
 status: Proposed
 formerly:
 - THEORY-tmpkjzqg
-title: 'McDermott, Yap, Szolovits and Zitnik propose that pre-training helps a later per-sample task to the degree that the relational structure it induces among sample embeddings agrees with that task: a loss term aligning embeddings to a chosen pre-training graph bounds asymptotic nearest-neighbour fine-tuning accuracy by the task''s local consistency over the graph, matched or improved on language-model and supervised pre-training in fifteen real-domain comparisons, and did worse than language-model pre-training alone with a graph misaligned with the task'
+title: 'Pretraining helps as its structure fits the task'
+statement: >-
+  McDermott, Yap, Szolovits and Zitnik propose that pre-training helps a
+  later per-sample task to the degree that the relational structure it
+  induces among sample embeddings agrees with that task: a loss term
+  aligning embeddings to a chosen pre-training graph bounds asymptotic
+  nearest-neighbour fine-tuning accuracy by the task's local consistency
+  over the graph, matched or improved on language-model and supervised
+  pre-training in fifteen real-domain comparisons, and did worse than
+  language-model pre-training alone with a graph misaligned with the task
 version: 1
 source:
 - LIT-2847
@@ -29,7 +38,7 @@ summary: >-
   until its promote_when is met.
 ---
 
-# THEORY-2072: McDermott, Yap, Szolovits and Zitnik propose that pre-training helps a later per-sample task to the degree that the relational structure it induces among sample embeddings agrees with that task: a loss term aligning embeddings to a chosen pre-training graph bounds asymptotic nearest-neighbour fine-tuning accuracy by the task's local consistency over the graph, matched or improved on language-model and supervised pre-training in fifteen real-domain comparisons, and did worse than language-model pre-training alone with a graph misaligned with the task
+# THEORY-2072: Pretraining helps as its structure fits the task
 
 ## The account
 

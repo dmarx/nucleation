@@ -3,7 +3,14 @@ number: 1928
 status: Proposed
 formerly:
 - THEORY-tmpdlw9l
-title: 'Elish argues that when control over an automated system is distributed across people and machines, responsibility for its failures can be misattributed to the nearest human operator, who had limited control, so that the operator absorbs moral and legal blame while the technological system is kept faultless, and she reads the reception of Three Mile Island and Air France 447 as instances'
+title: 'Operators absorb blame as moral crumple zones'
+statement: >-
+  Elish argues that when control over an automated system is distributed
+  across people and machines, responsibility for its failures can be
+  misattributed to the nearest human operator, who had limited control, so
+  that the operator absorbs moral and legal blame while the technological
+  system is kept faultless, and she reads the reception of Three Mile Island
+  and Air France 447 as instances
 version: 2
 history:
 - version: 2
@@ -41,7 +48,7 @@ corroborates:
 ---
 <!-- unresolved-ok-file: THEORY-tmp7h69w — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: CLAIM-707 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1928: Elish argues that when control over an automated system is distributed across people and machines, responsibility for its failures can be misattributed to the nearest human operator, who had limited control, so that the operator absorbs moral and legal blame while the technological system is kept faultless, and she reads the reception of Three Mile Island and Air France 447 as instances
+# THEORY-1928: Operators absorb blame as moral crumple zones
 
 ## Source
 

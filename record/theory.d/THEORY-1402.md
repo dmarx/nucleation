@@ -7,7 +7,11 @@ promote_when: >-
   The two reductions, from Partition for foldability using all creases and
   from 1-in-3 SAT for foldability with optional creases, checked in the
   journal version or confirmed by an independent proof.
-title: 'Akitaya, Demaine, Horiyama, Hull, Ku and Tachi prove that deciding whether a crease pattern can fold rigidly from flat is NP-hard: weakly when every crease must fold, and strongly when creases are optional'
+title: 'Rigid foldability from flat is NP-hard'
+statement: >-
+  Akitaya, Demaine, Horiyama, Hull, Ku and Tachi prove that deciding whether
+  a crease pattern can fold rigidly from flat is NP-hard: weakly when every
+  crease must fold, and strongly when creases are optional
 version: 1
 tags:
 - mathematics
@@ -23,7 +27,7 @@ summary: >-
   anything about the mechanics of folding a real sheet.
 ---
 
-# THEORY-1402: Akitaya, Demaine, Horiyama, Hull, Ku and Tachi prove that deciding whether a crease pattern can fold rigidly from flat is NP-hard: weakly when every crease must fold, and strongly when creases are optional
+# THEORY-1402: Rigid foldability from flat is NP-hard
 
 ## Source
 

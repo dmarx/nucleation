@@ -13,7 +13,11 @@ promote_when: >-
   What cannot settle it: more illustrated lifecycles, or better final-canvas
   segmentation scores, which validate the recovery method and not the
   dynamics.
-title: 'On a contested shared canvas, the artworks that last are those whose coalitions keep repairing them under continual overwriting, not those left unattacked, as Wu and Silva propose from the 2017 r/place lifecycles'
+title: 'Lasting r/place art is repaired, not unattacked'
+statement: >-
+  On a contested shared canvas, the artworks that last are those whose
+  coalitions keep repairing them under continual overwriting, not those left
+  unattacked, as Wu and Silva propose from the 2017 r/place lifecycles
 version: 1
 tags:
 - social-science
@@ -31,7 +35,7 @@ summary: >-
 ---
 
 
-# THEORY-795: On a contested shared canvas, the artworks that last are those whose coalitions keep repairing them under continual overwriting, not those left unattacked, as Wu and Silva propose from the 2017 r/place lifecycles
+# THEORY-795: Lasting r/place art is repaired, not unattacked
 
 ## Source
 

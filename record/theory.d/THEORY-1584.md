@@ -3,7 +3,12 @@ number: 1584
 status: Active
 formerly:
 - THEORY-tmp8l10c
-title: 'Botzung and colleagues report that rival basketball fans recalled the same plays with valence set by their allegiance, recalled plays good for their own side more accurately and confidently, and that rated intensity, not valence, modulated amygdala and hippocampal activity at retrieval'
+title: 'Fans recall plays by allegiance'
+statement: >-
+  Botzung and colleagues report that rival basketball fans recalled the same
+  plays with valence set by their allegiance, recalled plays good for their
+  own side more accurately and confidently, and that rated intensity, not
+  valence, modulated amygdala and hippocampal activity at retrieval
 version: 2
 history:
 - version: 1
@@ -34,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1125 — Unavailable; the works, notes, questions and claims the reading cites, cited with their standing -->
 
-# THEORY-1584: Botzung and colleagues report that rival basketball fans recalled the same plays with valence set by their allegiance, recalled plays good for their own side more accurately and confidently, and that rated intensity, not valence, modulated amygdala and hippocampal activity at retrieval
+# THEORY-1584: Fans recall plays by allegiance
 
 ## The account
 

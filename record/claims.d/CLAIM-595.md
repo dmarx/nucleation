@@ -3,7 +3,14 @@ number: 595
 status: Active
 formerly:
 - CLAIM-tmpiyvk1
-title: 'Persistence and nucleating productivity in the committor sense vary independently: two intermediates of an assembly can have the same expected residence time and different chances of reaching the target before failure, since the committor depends only on where a state''s exits lead and not on how fast it leaves, and an intermediate can persist while lowering the target''s chance of forming against an admissible alternative'
+title: 'Residence and committor vary independently'
+statement: >-
+  Persistence and nucleating productivity in the committor sense vary
+  independently: two intermediates of an assembly can have the same expected
+  residence time and different chances of reaching the target before
+  failure, since the committor depends only on where a state's exits lead
+  and not on how fast it leaves, and an intermediate can persist while
+  lowering the target's chance of forming against an admissible alternative
 version: 2
 history:
 - version: 2
@@ -61,7 +68,7 @@ complements:
 <!-- inactive-ok-file: CASE-218 — Proposed or new; cited from the note on A's predictions -->
 <!-- inactive-ok-file: CLAIM-184 CLAIM-185 — Proposed, Skimmed or new; entries cited as open -->
 
-# CLAIM-595: Persistence and nucleating productivity in the committor sense vary independently: two intermediates of an assembly can have the same expected residence time and different chances of reaching the target before failure, since the committor depends only on where a state's exits lead and not on how fast it leaves, and an intermediate can persist while lowering the target's chance of forming against an admissible alternative
+# CLAIM-595: Residence and committor vary independently
 
 ## The claim
 

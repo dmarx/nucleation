@@ -13,7 +13,13 @@ promote_when: >-
   beliefs, and if no norm-free theory of the kind described can be made to
   recover ordinary ascriptions. Further intuitions about whether a given
   creature "really" believes cannot settle it.
-title: "To ascribe beliefs and desires is to predict a system by assuming it is rational and its beliefs mostly true, so a wholly false belief system has no coherent intentional description and contradictory beliefs no stable one, and the believer, like the person built on that notion, is an idealisation that real creatures only approximate"
+title: 'Believers are rational-system idealisations'
+statement: >-
+  To ascribe beliefs and desires is to predict a system by assuming it is
+  rational and its beliefs mostly true, so a wholly false belief system has
+  no coherent intentional description and contradictory beliefs no stable
+  one, and the believer, like the person built on that notion, is an
+  idealisation that real creatures only approximate
 version: 1
 tags:
 - cognition
@@ -37,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-393 — Unavailable; named as where Dennett continues the argument, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 THEORY-092 — Proposed; accounts that draw on the same papers, named in Connections, not leaned on -->
 
-# THEORY-596: To ascribe beliefs and desires is to predict a system by assuming it is rational and its beliefs mostly true, so a wholly false belief system has no coherent intentional description and contradictory beliefs no stable one, and the believer, like the person built on that notion, is an idealisation that real creatures only approximate
+# THEORY-596: Believers are rational-system idealisations
 
 ## Source
 

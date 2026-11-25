@@ -3,7 +3,11 @@ number: 504
 status: Proposed
 formerly:
 - CLAIM-tmpnw3vv
-title: 'The strongest operationalization of the functional and relevance-theoretic rivals to the transport structure is a rich contextual baseline of context-response profiles and supervised prediction'
+title: 'Strongest rival: rich contextual baseline'
+statement: >-
+  The strongest operationalization of the functional and relevance-theoretic
+  rivals to the transport structure is a rich contextual baseline of
+  context-response profiles and supervised prediction
 version: 1
 role: thesis
 warrant: interpretive
@@ -31,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-202 — Proposed; the thesis whose rival set this claim proposes to extend, open -->
 
-# CLAIM-504: The strongest operationalization of the functional and relevance-theoretic rivals to the transport structure is a rich contextual baseline of context-response profiles and supervised prediction
+# CLAIM-504: Strongest rival: rich contextual baseline
 
 ## The claim
 

@@ -18,7 +18,12 @@ promote_when: >-
   alphaproteobacterial duplications are allowed to range as far back as
   archaeal ones, or if the onset marker is shown to lag endosymbiosis by
   more than the gap between them.
-title: 'The host lineage elaborated its cytoskeleton, endomembrane system and nuclear machinery before mitochondrial endosymbiosis began, about 2.2 billion years ago: most pre-LECA duplications in eukaryotic gene families of archaeal origin predate it'
+title: 'Host complexity preceded mitochondria'
+statement: >-
+  The host lineage elaborated its cytoskeleton, endomembrane system and
+  nuclear machinery before mitochondrial endosymbiosis began, about 2.2
+  billion years ago: most pre-LECA duplications in eukaryotic gene families
+  of archaeal origin predate it
 version: 1
 tags:
 - endosymbiosis
@@ -38,7 +43,7 @@ summary: >-
   promote_when is [THEORY-1099](THEORY-1099.md)'s old condition, word for word.
 ---
 
-# THEORY-1203: The host lineage elaborated its cytoskeleton, endomembrane system and nuclear machinery before mitochondrial endosymbiosis began, about 2.2 billion years ago: most pre-LECA duplications in eukaryotic gene families of archaeal origin predate it
+# THEORY-1203: Host complexity preceded mitochondria
 
 ## Source
 

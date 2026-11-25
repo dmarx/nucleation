@@ -3,7 +3,14 @@ number: 1228
 status: Proposed
 formerly:
 - CLAIM-tmp4r1x8
-title: 'Inquiry, representation, legibility, governance and learning form a loop: inquiry yields what is to be represented, representation fixes what can be identified and attributed, legibility which differences can inform decisions, governance who can revise claims and standards, and learning the maintained capacities that feed back into the next inquiry''s questions, representations and standards'
+title: 'Inquiry, representation and governance form a loop'
+statement: >-
+  Inquiry, representation, legibility, governance and learning form a loop:
+  inquiry yields what is to be represented, representation fixes what can be
+  identified and attributed, legibility which differences can inform
+  decisions, governance who can revise claims and standards, and learning
+  the maintained capacities that feed back into the next inquiry's
+  questions, representations and standards
 version: 1
 role: thesis
 warrant: interpretive
@@ -46,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: SYNTHESIS-118 SYNTHESIS-111 SYNTHESIS-114 — Proposed; the record's accounts it adds an ordering to -->
 
-# CLAIM-1228: Inquiry, representation, legibility, governance and learning form a loop: inquiry yields what is to be represented, representation fixes what can be identified and attributed, legibility which differences can inform decisions, governance who can revise claims and standards, and learning the maintained capacities that feed back into the next inquiry's questions, representations and standards
+# CLAIM-1228: Inquiry, representation and governance form a loop
 
 ## The claim
 

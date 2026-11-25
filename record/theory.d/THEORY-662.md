@@ -13,7 +13,13 @@ promote_when: >-
   Further cases of misattributed fluency cannot settle it: the
   discrepancy-attribution hypothesis predicted them before any
   active-inference reading.
-title: "The feeling of fluency is an inference about the precision of one's own processing, triggered by a change in precision against expectation; because its cause is internal and not given to introspection, a felt discrepancy is attributed to the most salient external source, as familiarity, liking or a sense of error"
+title: 'Fluency is inferred processing precision'
+statement: >-
+  The feeling of fluency is an inference about the precision of one's own
+  processing, triggered by a change in precision against expectation;
+  because its cause is internal and not given to introspection, a felt
+  discrepancy is attributed to the most salient external source, as
+  familiarity, liking or a sense of error
 version: 1
 tags:
 - emotion-and-affect
@@ -35,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-190 — Proposed; the other fluency reading, named in Connections -->
 <!-- inactive-ok-file: THEORY-045 THEORY-057 THEORY-093 THEORY-500 — Proposed; neighbouring accounts named in Connections, not leaned on -->
 
-# THEORY-662: The feeling of fluency is an inference about the precision of one's own processing, triggered by a change in precision against expectation; because its cause is internal and not given to introspection, a felt discrepancy is attributed to the most salient external source, as familiarity, liking or a sense of error
+# THEORY-662: Fluency is inferred processing precision
 
 ## Source
 

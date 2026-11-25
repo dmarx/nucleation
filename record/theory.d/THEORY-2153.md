@@ -10,7 +10,13 @@ promote_when: >-
   squared overlap tending almost surely to
   (1 − γ/(ℓ − 1)²)/(1 + γ/(ℓ − 1)), and that at or below 1 + √γ the
   overlap tends to zero.
-title: "Paul proves that for real Gaussian samples with a spiked covariance and fewer variables than samples, the sample eigenvector of a simple spike above 1 + √γ has a squared overlap with the population eigenvector tending to (1 − γ/(ℓ − 1)²)/(1 + γ/(ℓ − 1)), and that below the threshold the overlap tends to zero"
+title: 'Spiked eigenvector overlap has a closed form'
+statement: >-
+  Paul proves that for real Gaussian samples with a spiked covariance and
+  fewer variables than samples, the sample eigenvector of a simple spike
+  above 1 + √γ has a squared overlap with the population eigenvector tending
+  to (1 − γ/(ℓ − 1)²)/(1 + γ/(ℓ − 1)), and that below the threshold the
+  overlap tends to zero
 version: 1
 tags:
 - mathematics
@@ -27,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-2238 — Skimmed; the reading this account is filed from -->
 <!-- inactive-ok-file: CLAIM-799 CASE-301 ARG-143 — Proposed; the entries this reading carries, and the argument of 2026-11-21 -->
 
-# THEORY-2153: Paul proves that for real Gaussian samples with a spiked covariance and fewer variables than samples, the sample eigenvector of a simple spike above 1 + √γ has a squared overlap with the population eigenvector tending to (1 − γ/(ℓ − 1)²)/(1 + γ/(ℓ − 1)), and that below the threshold the overlap tends to zero
+# THEORY-2153: Spiked eigenvector overlap has a closed form
 
 ## Source
 

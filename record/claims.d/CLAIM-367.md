@@ -3,7 +3,13 @@ number: 367
 status: Proposed
 formerly:
 - CLAIM-tmpw4w7a
-title: 'Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network'
+title: 'Training regulation belongs to the unit governed'
+statement: >-
+  Whether a training-time regulatory condition belongs to a network depends
+  on which unit is individuated for the training dynamics and whose
+  jurisdiction governs the updates; in conventional training most of that
+  governance falls to the optimizer–model–data system, so a condition of
+  training is not thereby a condition of the network
 version: 6
 history:
 - version: 2
@@ -98,7 +104,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-404 CLAIM-1030 CLAIM-1138 CLAIM-1199 CLAIM-1011 — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: ARG-015 — Proposed; the argument CLAIM-288 undercuts, which holds the verdict on the sufficiency tests -->
 
-# CLAIM-367: Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network
+# CLAIM-367: Training regulation belongs to the unit governed
 
 ## The claim
 

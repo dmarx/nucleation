@@ -16,7 +16,13 @@ promote_when: >-
   separating. More examples of scientists attributing representation on
   grounds of compression or linear decodability cannot settle it, since
   they were selected to fit.
-title: "A state is shown to be a representation by adaptation for transmitting information efficiently, near the optimal trade-off of rate, distortion and coder complexity under a teleofunctionally fixed distortion measure, rather than by correlation or mutual information alone, which nearly any causal link supplies and which cannot increase along a processing chain"
+title: 'Representation is efficient transmission'
+statement: >-
+  A state is shown to be a representation by adaptation for transmitting
+  information efficiently, near the optimal trade-off of rate, distortion
+  and coder complexity under a teleofunctionally fixed distortion measure,
+  rather than by correlation or mutual information alone, which nearly any
+  causal link supplies and which cannot increase along a processing chain
 version: 1
 tags:
 - cognition
@@ -39,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-036 THEORY-089 THEORY-593 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
-# THEORY-529: A state is shown to be a representation by adaptation for transmitting information efficiently, near the optimal trade-off of rate, distortion and coder complexity under a teleofunctionally fixed distortion measure, rather than by correlation or mutual information alone, which nearly any causal link supplies and which cannot increase along a processing chain
+# THEORY-529: Representation is efficient transmission
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 913
 status: Active
 formerly:
 - THEORY-tmpfp8dy
-title: 'In small fixed-effect meta-analytic pools without correction for publication bias, responses specified in if-then plans ran more immediately (d = .77, k = 7), held up under a concurrent cognitive load (d = .85, k = 7) and ran without conscious intent (d = .72, k = 3) compared with responses under a goal intention alone, and the planned cues were detected, attended to and remembered better (d = .80, k = 6); the authors read this as control of the response handed in advance to the cue'
+title: 'If-then plans hand response control to the cue'
+statement: >-
+  In small fixed-effect meta-analytic pools without correction for
+  publication bias, responses specified in if-then plans ran more
+  immediately (d = .77, k = 7), held up under a concurrent cognitive load (d
+  = .85, k = 7) and ran without conscious intent (d = .72, k = 3) compared
+  with responses under a goal intention alone, and the planned cues were
+  detected, attended to and remembered better (d = .80, k = 6); the authors
+  read this as control of the response handed in advance to the cue
 version: 2
 history:
 - version: 2
@@ -45,7 +53,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-358 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 
-# THEORY-913: In small fixed-effect meta-analytic pools without correction for publication bias, responses specified in if-then plans ran more immediately (d = .77, k = 7), held up under a concurrent cognitive load (d = .85, k = 7) and ran without conscious intent (d = .72, k = 3) compared with responses under a goal intention alone, and the planned cues were detected, attended to and remembered better (d = .80, k = 6); the authors read this as control of the response handed in advance to the cue
+# THEORY-913: If-then plans hand response control to the cue
 
 ## Source
 

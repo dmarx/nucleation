@@ -3,7 +3,11 @@ number: 46
 status: Active
 formerly:
 - CLAIM-tmpd81nk
-title: 'Different hidden-state models can produce identical observations, so pragmatic identity and fidelity should be defined on observable responses before any equivalence of internal states is assumed'
+title: 'Define fidelity on observable responses'
+statement: >-
+  Different hidden-state models can produce identical observations, so
+  pragmatic identity and fidelity should be defined on observable responses
+  before any equivalence of internal states is assumed
 version: 2
 history:
 - version: 2
@@ -42,7 +46,7 @@ complements:
 <!-- ref::uses-file: TERM-033 — stated in "fidelity, as observational equivalence over response trajectories"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-008 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# CLAIM-046: Different hidden-state models can produce identical observations, so pragmatic identity and fidelity should be defined on observable responses before any equivalence of internal states is assumed
+# CLAIM-046: Define fidelity on observable responses
 
 ## The claim
 

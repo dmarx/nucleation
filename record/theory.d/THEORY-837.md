@@ -3,7 +3,14 @@ number: 837
 status: Active
 formerly:
 - THEORY-tmp6l5uw
-title: 'In Besley and Prat''s model of an incumbent who can pay n identical outlets to suppress verifiable bad news, where one outlet''s report informs every voter, each outlet''s price for silence is what it would earn as the only one to break the story, so the media are captured exactly when n·τa < r; under capture voters, though fully rational and not deceived, learn nothing and never remove a bad incumbent'
+title: 'Media capture leaves rational voters uninformed'
+statement: >-
+  In Besley and Prat's model of an incumbent who can pay n identical outlets
+  to suppress verifiable bad news, where one outlet's report informs every
+  voter, each outlet's price for silence is what it would earn as the only
+  one to break the story, so the media are captured exactly when n·τa < r;
+  under capture voters, though fully rational and not deceived, learn
+  nothing and never remove a bad incumbent
 version: 2
 history:
 - version: 1
@@ -45,7 +52,7 @@ corroborates:
 - CLAIM-462
 ---
 
-# THEORY-837: In Besley and Prat's model of an incumbent who can pay n identical outlets to suppress verifiable bad news, where one outlet's report informs every voter, each outlet's price for silence is what it would earn as the only one to break the story, so the media are captured exactly when n·τa < r; under capture voters, though fully rational and not deceived, learn nothing and never remove a bad incumbent
+# THEORY-837: Media capture leaves rational voters uninformed
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1158
 status: Proposed
 formerly:
 - CLAIM-tmpqpfvh
-title: 'In contested open-source successions the community''s recognition followed the maintainers and not the name: where the creator or the body of core maintainers moved, the successor became the recognized line, where only part moved recognition split, and no successor took the original''s name except by reunion'
+title: 'Recognition follows maintainers, not the name'
+statement: >-
+  In contested open-source successions the community's recognition followed
+  the maintainers and not the name: where the creator or the body of core
+  maintainers moved, the successor became the recognized line, where only
+  part moved recognition split, and no successor took the original's name
+  except by reunion
 version: 1
 role: thesis
 warrant: empirical
@@ -46,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-411 — new, Proposed; the study this rests on -->
 <!-- inactive-ok-file: CASE-223 — Proposed; the design the study runs -->
 
-# CLAIM-1158: In contested open-source successions the community's recognition followed the maintainers and not the name: where the creator or the body of core maintainers moved, the successor became the recognized line, where only part moved recognition split, and no successor took the original's name except by reunion
+# CLAIM-1158: Recognition follows maintainers, not the name
 
 ## The claim
 

@@ -3,7 +3,11 @@ number: 262
 status: Proposed
 formerly:
 - CLAIM-tmp6vyef
-title: "Whether an agent's regimes are coordinated by discrete switches or by continuous reorganization depends on how the agent is constituted; both occur"
+title: 'Discrete and continuous regime change both occur'
+statement: >-
+  Whether an agent's regimes are coordinated by discrete switches or by
+  continuous reorganization depends on how the agent is constituted; both
+  occur
 version: 2
 history:
 - version: 1
@@ -52,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection whose test this claim bears on -->
 
-# CLAIM-262: Whether an agent's regimes are coordinated by discrete switches or by continuous reorganization depends on how the agent is constituted; both occur
+# CLAIM-262: Discrete and continuous regime change both occur
 
 ## The claim
 

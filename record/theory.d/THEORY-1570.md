@@ -3,7 +3,12 @@ number: 1570
 status: Active
 formerly:
 - THEORY-tmp3ebnf
-title: 'Miyazono and Inarimori argue that self–other merging is best read as group identification, so that in empathic helping the other''s welfare becomes a constituent of one''s first-person plural welfare, and the helping is altruistic at the individual level and egoistic at the group level'
+title: 'Empathic helping is group-level egoism'
+statement: >-
+  Miyazono and Inarimori argue that self–other merging is best read as group
+  identification, so that in empathic helping the other's welfare becomes a
+  constituent of one's first-person plural welfare, and the helping is
+  altruistic at the individual level and egoistic at the group level
 version: 2
 history:
 - version: 1
@@ -33,7 +38,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1570: Miyazono and Inarimori argue that self–other merging is best read as group identification, so that in empathic helping the other's welfare becomes a constituent of one's first-person plural welfare, and the helping is altruistic at the individual level and egoistic at the group level
+# THEORY-1570: Empathic helping is group-level egoism
 
 ## The account
 

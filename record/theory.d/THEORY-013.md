@@ -9,7 +9,11 @@ promote_when: >-
   behavioural data set whose Contextuality-by-Default analysis robustly finds
   contextuality. A CHSH-type violation computed without accounting for unequal
   marginals cannot settle it either way.
-title: 'Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none'
+title: 'Published behavioural contextuality data show none'
+statement: >-
+  Once context-dependent marginals are separated from contextuality, the
+  behavioural, social and word-meaning data published as contextual show
+  none
 version: 3
 history:
 - version: 2
@@ -44,7 +48,7 @@ corroborates:
 - CLAIM-041
 ---
 
-# THEORY-013: Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
+# THEORY-013: Published behavioural contextuality data show none
 
 ## Source
 

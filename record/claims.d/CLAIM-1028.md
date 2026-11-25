@@ -3,7 +3,13 @@ number: 1028
 status: Proposed
 formerly:
 - CLAIM-tmp5qk10
-title: 'Reliability over a declared family of cases does not suffice for knowledge in a learning system, since a cue that accompanies the truth throughout the family can make a system reliable there without its answers depending on what makes them true; grounding is a further condition, tested by intervening on the cue and on the truthmaker separately'
+title: 'Reliability without grounding is not knowledge'
+statement: >-
+  Reliability over a declared family of cases does not suffice for knowledge
+  in a learning system, since a cue that accompanies the truth throughout
+  the family can make a system reliable there without its answers depending
+  on what makes them true; grounding is a further condition, tested by
+  intervening on the cue and on the truthmaker separately
 version: 1
 role: counter
 warrant: interpretive
@@ -31,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-416 CASE-399 CASE-414 CLAIM-1086 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1028: Reliability over a declared family of cases does not suffice for knowledge in a learning system, since a cue that accompanies the truth throughout the family can make a system reliable there without its answers depending on what makes them true; grounding is a further condition, tested by intervening on the cue and on the truthmaker separately
+# CLAIM-1028: Reliability without grounding is not knowledge
 
 ## The claim
 

@@ -7,7 +7,15 @@ promote_when: >-
   The proofs of Corollary 2.6 with Lemma 2.5, Theorem 3.5, and Theorem 5.1
   with Lemma 5.3 checked, confirming the three statements under
   Definitions 1.1 and 1.2.
-title: 'Bovier, Eckhoff, Gayrard and Klein hold that for a reversible Markov chain with generically separated metastable points, minus the logarithm of the capacity between them is an ultrametric up to an additive ln 3, the mean time to leave a point''s valley is the valley''s mass over that capacity up to a factor 1 + o(1), and each metastable point owns one low-lying eigenvalue equal to the inverse of that time, with an eigenvector near the valley''s indicator'
+title: 'Metastable exit times are mass over capacity'
+statement: >-
+  Bovier, Eckhoff, Gayrard and Klein hold that for a reversible Markov chain
+  with generically separated metastable points, minus the logarithm of the
+  capacity between them is an ultrametric up to an additive ln 3, the mean
+  time to leave a point's valley is the valley's mass over that capacity up
+  to a factor 1 + o(1), and each metastable point owns one low-lying
+  eigenvalue equal to the inverse of that time, with an eigenvector near the
+  valley's indicator
 version: 1
 tags:
 - probabilistic-modeling
@@ -29,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1366 THEORY-1370 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-780 THEORY-2141 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
-# THEORY-2137: Bovier, Eckhoff, Gayrard and Klein hold that for a reversible Markov chain with generically separated metastable points, minus the logarithm of the capacity between them is an ultrametric up to an additive ln 3, the mean time to leave a point's valley is the valley's mass over that capacity up to a factor 1 + o(1), and each metastable point owns one low-lying eigenvalue equal to the inverse of that time, with an eigenvector near the valley's indicator
+# THEORY-2137: Metastable exit times are mass over capacity
 
 ## Source
 

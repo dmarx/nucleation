@@ -3,7 +3,15 @@ number: 961
 status: Active
 formerly:
 - THEORY-tmpwqg2f
-title: 'In a finite partial-monitoring game, an action optimal wherever two neighbouring actions tie has a loss vector on the segment between theirs, so a degenerate or duplicate action never creates a neighbouring pair or decides the trivial class, yet its signals count toward the pair''s local observability; and the T^2/3 lower bound for a pair that is not locally observable needs the separating direction in the kernel of the signal matrices of all such actions, not only of the two neighbours'
+title: 'Degenerate actions don''t create neighbour pairs'
+statement: >-
+  In a finite partial-monitoring game, an action optimal wherever two
+  neighbouring actions tie has a loss vector on the segment between theirs,
+  so a degenerate or duplicate action never creates a neighbouring pair or
+  decides the trivial class, yet its signals count toward the pair's local
+  observability; and the T^2/3 lower bound for a pair that is not locally
+  observable needs the separating direction in the kernel of the signal
+  matrices of all such actions, not only of the two neighbours
 version: 2
 history:
 - version: 1
@@ -57,7 +65,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose check variant is the boundary case here, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; its summary of the lower bound repeats the slip corrected here, nothing here rests on it -->
-# THEORY-961: In a finite partial-monitoring game, an action optimal wherever two neighbouring actions tie has a loss vector on the segment between theirs, so a degenerate or duplicate action never creates a neighbouring pair or decides the trivial class, yet its signals count toward the pair's local observability; and the T^2/3 lower bound for a pair that is not locally observable needs the separating direction in the kernel of the signal matrices of all such actions, not only of the two neighbours
+# THEORY-961: Degenerate actions don't create neighbour pairs
 
 ## Source
 

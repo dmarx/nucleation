@@ -3,7 +3,14 @@ number: 845
 status: Proposed
 formerly:
 - CLAIM-tmpvrbdt
-title: 'Read as a gap in support, a bulk separated from a sparse tail is not what a continuous transition shows from below, where the size distribution falls without a break into an exponential cutoff; a bulk beside a separate population of large sizes belongs to the far side of the transition, as a giant cluster or a major outbreak in a finite system, or to a first-order transition'
+title: 'Bulk-and-tail as support gap is not criticality'
+statement: >-
+  Read as a gap in support, a bulk separated from a sparse tail is not what
+  a continuous transition shows from below, where the size distribution
+  falls without a break into an exponential cutoff; a bulk beside a separate
+  population of large sizes belongs to the far side of the transition, as a
+  giant cluster or a major outbreak in a finite system, or to a first-order
+  transition
 version: 1
 role: thesis
 warrant: demonstrated
@@ -39,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-840 CLAIM-829 CASE-303 CASE-305 CLAIM-769 — Proposed or new; the owner's conjecture, the other reading, the cases and argument filed with it, and held entries cited as contrasts -->
 
-# CLAIM-845: Read as a gap in support, a bulk separated from a sparse tail is not what a continuous transition shows from below, where the size distribution falls without a break into an exponential cutoff; a bulk beside a separate population of large sizes belongs to the far side of the transition, as a giant cluster or a major outbreak in a finite system, or to a first-order transition
+# CLAIM-845: Bulk-and-tail as support gap is not criticality
 
 **This is reading (a) of [CLAIM-840](CLAIM-840.md), one of two alternatives.** The
 other, reading (b), is [CLAIM-829](CLAIM-829.md). The owner chooses.

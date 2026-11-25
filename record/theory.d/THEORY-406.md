@@ -14,7 +14,12 @@ promote_when: >-
   interviews in which people report that collisions are awkward, cannot
   settle it, since the account predicts those and nothing else has been
   sampled.
-title: "Self-presentations that differ by audience coexist without trouble while the audiences are kept apart by spatial, social and temporal boundaries, and collide when a medium removes the boundaries; networked publics make the collision frequent and often unseen by the person it happens to"
+title: 'Networked publics collapse audience boundaries'
+statement: >-
+  Self-presentations that differ by audience coexist without trouble while
+  the audiences are kept apart by spatial, social and temporal boundaries,
+  and collide when a medium removes the boundaries; networked publics make
+  the collision frequent and often unseen by the person it happens to
 version: 3
 history:
 - version: 2
@@ -54,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-710 NOTE-1432 — Skimmed; the readings this account rests on, which is why it is Proposed -->
 <!-- inactive-ok-file: CLAIM-196 CLAIM-317 — Proposed; the record's own claims that ground in this reading, named in Connections -->
 
-# THEORY-406: Self-presentations that differ by audience coexist without trouble while the audiences are kept apart by spatial, social and temporal boundaries, and collide when a medium removes the boundaries; networked publics make the collision frequent and often unseen by the person it happens to
+# THEORY-406: Networked publics collapse audience boundaries
 
 ## Source
 

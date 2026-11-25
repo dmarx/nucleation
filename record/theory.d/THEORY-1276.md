@@ -3,7 +3,12 @@ number: 1276
 status: Active
 formerly:
 - THEORY-tmp1g3ve
-title: 'In Simondon''s ontology, as Iliadis and Bencherki read it, information is not a signal transmitted between finished entities but a disparity between two differently ordered domains of a metastable system, and its meaning is the new structure that transduction produces in resolving it'
+title: 'Information is disparity, meaning is transduction'
+statement: >-
+  In Simondon's ontology, as Iliadis and Bencherki read it, information is
+  not a signal transmitted between finished entities but a disparity between
+  two differently ordered domains of a metastable system, and its meaning is
+  the new structure that transduction produces in resolving it
 version: 2
 history:
 - version: 2
@@ -55,7 +60,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1648 LIT-1900 — Unavailable; Simondon's own texts, whose reading would settle this -->
 <!-- inactive-ok-file: THEORY-1534 — Proposed; the wide form, whether Simondon himself holds this -->
 
-# THEORY-1276: In Simondon's ontology, as Iliadis and Bencherki read it, information is not a signal transmitted between finished entities but a disparity between two differently ordered domains of a metastable system, and its meaning is the new structure that transduction produces in resolving it
+# THEORY-1276: Information is disparity, meaning is transduction
 
 ## Source
 

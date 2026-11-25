@@ -3,7 +3,18 @@ number: 399
 status: Active
 formerly:
 - CLAIM-tmp4r4mi
-title: 'Causal abstraction in the senses of Rubenstein et al., Beckers and Halpern, and Beckers, Eberhardt and Halpern does not secure governance-response sufficiency: exact transformation, τ-abstraction and zero approximate-abstraction distance all accept the hidden-bit coarse-graining, which loses ρ(h = 1) bits of the response to h, because each lets high-level noise carry what the coarse state drops; for one outcome and the identity correspondence, sufficiency is their compatibility condition with the high-level context fixed to the coarse state, and strong abstraction rejects the case only through interventions on the hidden parameter'
+title: 'Causal abstraction misses governance response'
+statement: >-
+  Causal abstraction in the senses of Rubenstein et al., Beckers and
+  Halpern, and Beckers, Eberhardt and Halpern does not secure
+  governance-response sufficiency: exact transformation, τ-abstraction and
+  zero approximate-abstraction distance all accept the hidden-bit
+  coarse-graining, which loses ρ(h = 1) bits of the response to h, because
+  each lets high-level noise carry what the coarse state drops; for one
+  outcome and the identity correspondence, sufficiency is their
+  compatibility condition with the high-level context fixed to the coarse
+  state, and strong abstraction rejects the case only through interventions
+  on the hidden parameter
 version: 1
 role: thesis
 warrant: demonstrated
@@ -46,7 +57,7 @@ summary: >-
   causal component with the identity correspondence.
 ---
 
-# CLAIM-399: Causal abstraction in the senses of Rubenstein et al., Beckers and Halpern, and Beckers, Eberhardt and Halpern does not secure governance-response sufficiency: exact transformation, τ-abstraction and zero approximate-abstraction distance all accept the hidden-bit coarse-graining, which loses ρ(h = 1) bits of the response to h, because each lets high-level noise carry what the coarse state drops; for one outcome and the identity correspondence, sufficiency is their compatibility condition with the high-level context fixed to the coarse state, and strong abstraction rejects the case only through interventions on the hidden parameter
+# CLAIM-399: Causal abstraction misses governance response
 
 ## The claim
 

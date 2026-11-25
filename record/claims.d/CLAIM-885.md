@@ -3,7 +3,16 @@ number: 885
 status: Proposed
 formerly:
 - CLAIM-tmp6kclm
-title: 'In symmetric resource competition whose operators adapt a bounded niche trait up the selection gradient, a differentiated equilibrium is locally exponentially stable when its traits are interior and stationary or held at a bound with an outward gradient and the Hessian of the shared objective on the free coordinates is positive definite; every specialist then recovers when rare against residents whose traits are frozen, at a rate of at least its abundance times its niche vector''s squared distance from the span of the others'''
+title: 'Differentiated niche equilibria are stable'
+statement: >-
+  In symmetric resource competition whose operators adapt a bounded niche
+  trait up the selection gradient, a differentiated equilibrium is locally
+  exponentially stable when its traits are interior and stationary or held
+  at a bound with an outward gradient and the Hessian of the shared
+  objective on the free coordinates is positive definite; every specialist
+  then recovers when rare against residents whose traits are frozen, at a
+  rate of at least its abundance times its niche vector's squared distance
+  from the span of the others'
 version: 1
 history:
 - version: 1
@@ -66,7 +75,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-322 CLAIM-886 — new, filed with this claim by LEAD-049 -->
 
-# CLAIM-885: In symmetric resource competition whose operators adapt a bounded niche trait up the selection gradient, a differentiated equilibrium is locally exponentially stable when its traits are interior and stationary or held at a bound with an outward gradient and the Hessian of the shared objective on the free coordinates is positive definite; every specialist then recovers when rare against residents whose traits are frozen, at a rate of at least its abundance times its niche vector's squared distance from the span of the others'
+# CLAIM-885: Differentiated niche equilibria are stable
 
 ## The model class
 

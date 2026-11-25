@@ -11,7 +11,14 @@ promote_when: >-
   criteria detect hysteresis when the regimes differ in mean and the
   series is long; or a published version of the paper whose results stand
   as the preprint gives them.
-title: 'de Jong, Ryan, van der Maas and Hamaker propose the hysteretic threshold autoregressive model to detect hysteresis in one person''s time series, as two switching thresholds of a measured control variable against one, show by simulation that it recovers hysteresis from a depression symptom network, and report that no empirical psychological series had yet been analysed with it'
+title: 'Threshold autoregression can detect hysteresis'
+statement: >-
+  de Jong, Ryan, van der Maas and Hamaker propose the hysteretic threshold
+  autoregressive model to detect hysteresis in one person's time series, as
+  two switching thresholds of a measured control variable against one, show
+  by simulation that it recovers hysteresis from a depression symptom
+  network, and report that no empirical psychological series had yet been
+  analysed with it
 version: 1
 tags:
 - complex-systems
@@ -32,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-058 — Proposed; the account whose promote_when names hysteresis in individual data -->
 
-# THEORY-2243: de Jong, Ryan, van der Maas and Hamaker propose the hysteretic threshold autoregressive model to detect hysteresis in one person's time series, as two switching thresholds of a measured control variable against one, show by simulation that it recovers hysteresis from a depression symptom network, and report that no empirical psychological series had yet been analysed with it
+# THEORY-2243: Threshold autoregression can detect hysteresis
 
 ## Source
 

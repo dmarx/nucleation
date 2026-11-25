@@ -3,7 +3,13 @@ number: 1398
 status: Active
 formerly:
 - THEORY-tmpivh27
-title: 'In mesoscopic simulation, DeLuca et al. find that DNA origami folds hierarchically, accessible structures collapsing into a locally ordered precursor that then crystallizes, while larger structures show frequent trapping in metastable states, among them a global topological trap, and early coalescence is not a perfect predictor of their final folding'
+title: 'DNA origami folds hierarchically, sometimes traps'
+statement: >-
+  In mesoscopic simulation, DeLuca et al. find that DNA origami folds
+  hierarchically, accessible structures collapsing into a locally ordered
+  precursor that then crystallizes, while larger structures show frequent
+  trapping in metastable states, among them a global topological trap, and
+  early coalescence is not a perfect predictor of their final folding
 version: 3
 history:
 - version: 2
@@ -53,7 +59,7 @@ bears_on:
 - QUESTION-402
 ---
 
-# THEORY-1398: In mesoscopic simulation, DeLuca et al. find that DNA origami folds hierarchically, accessible structures collapsing into a locally ordered precursor that then crystallizes, while larger structures show frequent trapping in metastable states, among them a global topological trap, and early coalescence is not a perfect predictor of their final folding
+# THEORY-1398: DNA origami folds hierarchically, sometimes traps
 
 ## Source
 

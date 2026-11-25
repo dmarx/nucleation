@@ -3,7 +3,15 @@ number: 1253
 status: Proposed
 formerly:
 - CLAIM-tmpa8tdg
-title: 'Preserving an inherited arrangement''s structure does not preserve the capacities it realizes, since what an arrangement realizes depends on its environment, and keeping it is itself a choice with developmental consequences whose costs fall on particular parties: persistence shows that an arrangement has been reproducible, not what makes it reproducible or whether its reproduction is justified, and the status quo is not a zero-cost baseline'
+title: 'Preserving structure does not preserve capacities'
+statement: >-
+  Preserving an inherited arrangement's structure does not preserve the
+  capacities it realizes, since what an arrangement realizes depends on its
+  environment, and keeping it is itself a choice with developmental
+  consequences whose costs fall on particular parties: persistence shows
+  that an arrangement has been reproducible, not what makes it reproducible
+  or whether its reproduction is justified, and the status quo is not a
+  zero-cost baseline
 version: 1
 role: thesis
 warrant: interpretive
@@ -37,7 +45,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1104 THEORY-885 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# CLAIM-1253: Preserving an inherited arrangement's structure does not preserve the capacities it realizes, since what an arrangement realizes depends on its environment, and keeping it is itself a choice with developmental consequences whose costs fall on particular parties: persistence shows that an arrangement has been reproducible, not what makes it reproducible or whether its reproduction is justified, and the status quo is not a zero-cost baseline
+# CLAIM-1253: Preserving structure does not preserve capacities
 
 ## The claim
 

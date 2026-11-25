@@ -3,7 +3,14 @@ number: 217
 status: Proposed
 formerly:
 - CLAIM-tmpawn12
-title: 'For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play: a defeasible standard, overridden only where the act''s other constituents diverge from the judges'' verdicts, so a probe family is tested against it, and a kind outruns the families coarser than that standard and the judges only through those constituents'
+title: 'Competent uptake as the standard of sufficiency'
+statement: >-
+  For a communicative kind, the standard of sufficiency is the uptake of
+  competent participants who know the standings and norms in play: a
+  defeasible standard, overridden only where the act's other constituents
+  diverge from the judges' verdicts, so a probe family is tested against it,
+  and a kind outruns the families coarser than that standard and the judges
+  only through those constituents
 version: 4
 history:
 - version: 2
@@ -83,7 +90,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-206 — Proposed; the objection this entry answers, open -->
 <!-- inactive-ok-file: CLAIM-160 CLAIM-204 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# CLAIM-217: For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play: a defeasible standard, overridden only where the act's other constituents diverge from the judges' verdicts, so a probe family is tested against it, and a kind outruns the families coarser than that standard and the judges only through those constituents
+# CLAIM-217: Competent uptake as the standard of sufficiency
 
 ## The claim
 

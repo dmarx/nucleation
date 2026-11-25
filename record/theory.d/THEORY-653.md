@@ -3,7 +3,12 @@ number: 653
 status: Active
 formerly:
 - THEORY-tmpvm5mu
-title: "In the ethnographic record of the 60-society HRAF Probability Sample, seven cooperative behaviours are described as good in 961 of 962 valenced mentions, but each is recorded in between 90% and 15% of the societies, and the coding could barely have registered a negative"
+title: 'Cooperation is praised everywhere, weakly tested'
+statement: >-
+  In the ethnographic record of the 60-society HRAF Probability Sample,
+  seven cooperative behaviours are described as good in 961 of 962 valenced
+  mentions, but each is recorded in between 90% and 15% of the societies,
+  and the coding could barely have registered a negative
 version: 1
 tags:
 - moral-psychology
@@ -23,7 +28,7 @@ summary: >-
   record, not a test of whether morality is only about cooperation.
 ---
 
-# THEORY-653: In the ethnographic record of the 60-society HRAF Probability Sample, seven cooperative behaviours are described as good in 961 of 962 valenced mentions, but each is recorded in between 90% and 15% of the societies, and the coding could barely have registered a negative
+# THEORY-653: Cooperation is praised everywhere, weakly tested
 
 ## Source
 

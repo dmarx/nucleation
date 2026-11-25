@@ -3,7 +3,11 @@ number: 61
 status: Active
 formerly:
 - CLAIM-tmphg89g
-title: 'Renderings that keep the proposition can perform a different communicative act, so preserving the proposition is not sufficient for preserving the communicative event'
+title: 'Keeping the proposition is not sufficient'
+statement: >-
+  Renderings that keep the proposition can perform a different communicative
+  act, so preserving the proposition is not sufficient for preserving the
+  communicative event
 version: 4
 history:
 - version: 2
@@ -76,7 +80,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: LIT-780 LIT-785 — Unavailable; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
 
-# CLAIM-061: Renderings that keep the proposition can perform a different communicative act, so preserving the proposition is not sufficient for preserving the communicative event
+# CLAIM-061: Keeping the proposition is not sufficient
 
 ## The claim
 

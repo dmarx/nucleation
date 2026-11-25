@@ -3,7 +3,9 @@ number: 1187
 status: Active
 formerly:
 - CLAIM-tmpwjpc8
-title: In the record's account of wu-wei, the computational-mechanics and
+title: 'Wu-wei: dynamics perspectives over sinology'
+statement: >-
+  In the record's account of wu-wei, the computational-mechanics and
   nonlinear-dynamics perspectives take precedence over the sinological one
 version: 2
 history:
@@ -37,7 +39,7 @@ summary: 'The owner''s ruling of 2026-11-23, in this session, after the assistan
 
 <!-- inactive-ok-file: CLAIM-541 CLAIM-998 CLAIM-1071 CLAIM-1135 CLAIM-1061 — Proposed or Open; filed or revised at the owner's ruling of 2026-11-23 -->
 
-# CLAIM-1187: In the record's account of wu-wei, the computational-mechanics and nonlinear-dynamics perspectives take precedence over the sinological one
+# CLAIM-1187: Wu-wei: dynamics perspectives over sinology
 
 ## The ruling
 

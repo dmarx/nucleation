@@ -3,7 +3,20 @@ number: 6
 status: Superseded
 formerly:
 - SYNTHESIS-tmp6m3wy
-title: 'From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them'
+title: 'Achievements form a partial order, not a nesting'
+statement: >-
+  From interconnection to individuation, the relationships are distinct
+  achievements that form a partial order, not a nested sequence: none
+  implies the next, and a later one need not require every earlier one.
+  Interconnection fixes what joint behaviour is possible, compatibility
+  which local descriptions admit a coherent whole, dynamics which
+  organizations persist, individuation which have sufficiently robust
+  identity and boundaries, organizational autonomy which help maintain their
+  own constitutive constraints, and inquiry which can measure and revise
+  their own models and apparatuses under resource bounds, inquiry and
+  reconstruction occurring without autonomy. The research program is to find
+  the conditions for each, and their dependencies, apart from the order in
+  which an inquiry meets them
 version: 2
 history:
 - version: 1
@@ -84,7 +97,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-478 CLAIM-157 — Proposed; components and a corroborating reading, cited with their standing -->
 <!-- inactive-ok-file: ADR-077 — Proposed; the audit, the review and the decision that moved this entry -->
 
-# SYNTHESIS-006: From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them
+# SYNTHESIS-006: Achievements form a partial order, not a nesting
 
 *Moved from [CLAIM-474](../claims.d/CLAIM-474.md), where its development up to version 4 is recorded.*
 

@@ -3,7 +3,16 @@ number: 911
 status: Proposed
 formerly:
 - CLAIM-tmpn0ocj
-title: 'Alternative reading (b) of the discriminating variants: where what a power''s holder would do is fixed and known, an arrangement in which the subjects hold no share of the power to review or revise is still less legitimate, and reasonable rejection explains it by a personal reason of status, not to live under another''s sole say over the rules of an important part of one''s life, as it explains a promisee''s power of release, so contractualism explains the allocation of powers at the price of taking that reason as an input it does not derive'
+title: 'Status reasons explain the allocation of powers'
+statement: >-
+  Alternative reading (b) of the discriminating variants: where what a
+  power's holder would do is fixed and known, an arrangement in which the
+  subjects hold no share of the power to review or revise is still less
+  legitimate, and reasonable rejection explains it by a personal reason of
+  status, not to live under another's sole say over the rules of an
+  important part of one's life, as it explains a promisee's power of
+  release, so contractualism explains the allocation of powers at the price
+  of taking that reason as an input it does not derive
 version: 1
 role: thesis
 warrant: interpretive
@@ -53,7 +62,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-336 CLAIM-909 CLAIM-913 CLAIM-912 — new, filed for LEAD-033 -->
 <!-- inactive-ok-file: THEORY-1967 THEORY-1977 THEORY-1971 CLAIM-682 — Proposed; Scanlon's reply and later paper, the test's statement, and the record's test of domination -->
 
-# CLAIM-911: Alternative reading (b) of the discriminating variants: where what a power's holder would do is fixed and known, an arrangement in which the subjects hold no share of the power to review or revise is still less legitimate, and reasonable rejection explains it by a personal reason of status, not to live under another's sole say over the rules of an important part of one's life, as it explains a promisee's power of release, so contractualism explains the allocation of powers at the price of taking that reason as an input it does not derive
+# CLAIM-911: Status reasons explain the allocation of powers
 
 ## The reading
 

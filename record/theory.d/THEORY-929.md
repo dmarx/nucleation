@@ -3,7 +3,14 @@ number: 929
 status: Active
 formerly:
 - THEORY-tmp56jxv
-title: 'A joint action-value that is a non-decreasing function of per-agent values, each conditioning only on its agent''s own history, makes the profile of the agents'' individually greedy actions a greedy joint action, which suffices for decentralised greedy execution and is strictly more expressive than a sum; it cannot represent a joint value in which an agent''s best action depends on what the others do at the same step'
+title: 'Monotonic mixing allows decentralised greedy'
+statement: >-
+  A joint action-value that is a non-decreasing function of per-agent
+  values, each conditioning only on its agent's own history, makes the
+  profile of the agents' individually greedy actions a greedy joint action,
+  which suffices for decentralised greedy execution and is strictly more
+  expressive than a sum; it cannot represent a joint value in which an
+  agent's best action depends on what the others do at the same step
 version: 3
 history:
 - version: 2
@@ -56,7 +63,7 @@ bears_on:
 - QUESTION-271
 ---
 
-# THEORY-929: A joint action-value that is a non-decreasing function of per-agent values, each conditioning only on its agent's own history, makes the profile of the agents' individually greedy actions a greedy joint action, which suffices for decentralised greedy execution and is strictly more expressive than a sum; it cannot represent a joint value in which an agent's best action depends on what the others do at the same step
+# THEORY-929: Monotonic mixing allows decentralised greedy
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 726
 formerly:
 - CLAIM-tmpciy9q
 status: Proposed
-title: 'A party can arrange the conditions under which another commits a real wrong and then use the true accusation, before an audience whose judgement it anticipated, to justify further control over them; the truth of the accusation neither vindicates the party that arranged it nor excuses the one who did wrong'
+title: 'Arranged wrongs: true accusation vindicates none'
+statement: >-
+  A party can arrange the conditions under which another commits a real
+  wrong and then use the true accusation, before an audience whose judgement
+  it anticipated, to justify further control over them; the truth of the
+  accusation neither vindicates the party that arranged it nor excuses the
+  one who did wrong
 version: 2
 history:
 - version: 2
@@ -60,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-708 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 <!-- inactive-ok-file: TERM-127 CLAIM-721 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
-# CLAIM-726: A party can arrange the conditions under which another commits a real wrong and then use the true accusation, before an audience whose judgement it anticipated, to justify further control over them; the truth of the accusation neither vindicates the party that arranged it nor excuses the one who did wrong
+# CLAIM-726: Arranged wrongs: true accusation vindicates none
 
 ## The claim
 

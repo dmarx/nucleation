@@ -3,7 +3,13 @@ number: 419
 status: Active
 formerly:
 - CLAIM-tmpbgq5o
-title: 'The record''s grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has repeatedly been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown'
+title: 'Ungrammatical moves amend the grammar'
+statement: >-
+  The record's grammar is fixed at any moment but amendable by decision, and
+  in practice a move that fit no scheme or relation has repeatedly been
+  treated as a defect of the grammar and answered by amending it, so a move
+  the grammar cannot hold is not only forced or lost; whether every such
+  move is caught is not shown
 version: 6
 history:
 - version: 2
@@ -75,7 +81,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-181 CLAIM-190 — Proposed or Superseded; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-1733 THEORY-1742 THEORY-1746 THEORY-1756 THEORY-1768 THEORY-1774 THEORY-1775 THEORY-1807 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-419: The record's grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has repeatedly been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown
+# CLAIM-419: Ungrammatical moves amend the grammar
 
 ## The claim
 

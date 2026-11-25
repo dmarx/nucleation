@@ -3,7 +3,15 @@ number: 370
 status: Active
 formerly:
 - THEORY-tmpdllj7
-title: "On an n × n lattice whose nodes also get long-range links drawn with probability proportional to lattice distance to the power −r, a searcher that knows only the target's position and the links of nodes already reached delivers in expected time polylogarithmic in n only at r = 2: greedy routing then takes O((log n)²) steps, while for 0 ≤ r < 2 every such searcher needs Ω(n^((2−r)/3)) steps and for r > 2 Ω(n^((r−2)/(r−1))), even at r = 0 where short paths exist"
+title: 'Small-world search is fast only at r = 2'
+statement: >-
+  On an n × n lattice whose nodes also get long-range links drawn with
+  probability proportional to lattice distance to the power −r, a searcher
+  that knows only the target's position and the links of nodes already
+  reached delivers in expected time polylogarithmic in n only at r = 2:
+  greedy routing then takes O((log n)²) steps, while for 0 ≤ r < 2 every
+  such searcher needs Ω(n^((2−r)/3)) steps and for r > 2 Ω(n^((r−2)/(r−1))),
+  even at r = 0 where short paths exist
 version: 1
 tags:
 - network-science
@@ -25,7 +33,7 @@ summary: >-
   compute, so it does not show that no other link structure is navigable.
 ---
 
-# THEORY-370: On an n × n lattice whose nodes also get long-range links drawn with probability proportional to lattice distance to the power −r, a searcher that knows only the target's position and the links of nodes already reached delivers in expected time polylogarithmic in n only at r = 2: greedy routing then takes O((log n)²) steps, while for 0 ≤ r < 2 every such searcher needs Ω(n^((2−r)/3)) steps and for r > 2 Ω(n^((r−2)/(r−1))), even at r = 0 where short paths exist
+# THEORY-370: Small-world search is fast only at r = 2
 
 ## Source
 

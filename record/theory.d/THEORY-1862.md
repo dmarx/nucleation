@@ -3,7 +3,13 @@ number: 1862
 status: Proposed
 formerly:
 - THEORY-tmpxwo9k
-title: 'Cayley reads Illich as holding that tools, institutions included, become counterproductive past a second watershed and tend toward radical monopoly, the dominance of one kind of product that renders alternatives inaccessible or unimaginable, so that the test is whether one can still find an alternative or decently do without'
+title: 'Past a watershed, tools become counterproductive'
+statement: >-
+  Cayley reads Illich as holding that tools, institutions included, become
+  counterproductive past a second watershed and tend toward radical
+  monopoly, the dominance of one kind of product that renders alternatives
+  inaccessible or unimaginable, so that the test is whether one can still
+  find an alternative or decently do without
 version: 1
 source:
 - LIT-2571
@@ -24,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-677 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
-# THEORY-1862: Cayley reads Illich as holding that tools, institutions included, become counterproductive past a second watershed and tend toward radical monopoly, the dominance of one kind of product that renders alternatives inaccessible or unimaginable, so that the test is whether one can still find an alternative or decently do without
+# THEORY-1862: Past a watershed, tools become counterproductive
 
 ## The account
 

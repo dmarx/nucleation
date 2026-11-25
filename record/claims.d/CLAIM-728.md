@@ -3,7 +3,13 @@ number: 728
 formerly:
 - CLAIM-tmpdic1g
 status: Proposed
-title: 'In an incomplete contract the party holding residual rights of control decides the contingencies the contract did not cover, so a relationship fair in every specified term can still leave one party''s terms at the other''s discretion, and that discretion is exercised, and seen, only when an uncovered contingency arises'
+title: 'Residual control leaves terms at discretion'
+statement: >-
+  In an incomplete contract the party holding residual rights of control
+  decides the contingencies the contract did not cover, so a relationship
+  fair in every specified term can still leave one party's terms at the
+  other's discretion, and that discretion is exercised, and seen, only when
+  an uncovered contingency arises
 version: 3
 history:
 - version: 2
@@ -65,7 +71,7 @@ works:
 <!-- inactive-ok-file: CLAIM-744 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-690 TERM-124 CLAIM-364 CLAIM-670 — Proposed; the record's nearest entries, cited with their standing -->
 
-# CLAIM-728: In an incomplete contract the party holding residual rights of control decides the contingencies the contract did not cover, so a relationship fair in every specified term can still leave one party's terms at the other's discretion, and that discretion is exercised, and seen, only when an uncovered contingency arises
+# CLAIM-728: Residual control leaves terms at discretion
 
 ## The claim
 

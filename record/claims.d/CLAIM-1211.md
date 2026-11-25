@@ -3,7 +3,12 @@ number: 1211
 status: Proposed
 formerly:
 - CLAIM-tmp0gs0t
-title: 'Recruiting an emergency regime, maintaining it and dissolving it are separable capacities, and an organization that can enter exceptional authority more cheaply than it can leave it has an asymmetric transition structure in which the regime can outlast its justification'
+title: 'Emergency regimes are cheaper to enter than leave'
+statement: >-
+  Recruiting an emergency regime, maintaining it and dissolving it are
+  separable capacities, and an organization that can enter exceptional
+  authority more cheaply than it can leave it has an asymmetric transition
+  structure in which the regime can outlast its justification
 version: 1
 role: thesis
 warrant: interpretive
@@ -39,7 +44,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-731 LIT-3218 — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
-# CLAIM-1211: Recruiting an emergency regime, maintaining it and dissolving it are separable capacities, and an organization that can enter exceptional authority more cheaply than it can leave it has an asymmetric transition structure in which the regime can outlast its justification
+# CLAIM-1211: Emergency regimes are cheaper to enter than leave
 
 ## The claim
 

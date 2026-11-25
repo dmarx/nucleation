@@ -14,7 +14,13 @@ promote_when: >-
   Belot's particle-in-a-box case is part of that test. A further
   compatibility argument between events and some interpretation cannot
   settle it.
-title: "A single holistic power of the universe's configuration, carried by bare matter points, cannot ground a subsystem's effective wave function without changing the ontology, because the masses in a decoupled subsystem's Hamiltonian must belong to that subsystem's particles; dispositions intrinsic to particles or events need no such change"
+title: 'Holistic power can''t ground effective ψ'
+statement: >-
+  A single holistic power of the universe's configuration, carried by bare
+  matter points, cannot ground a subsystem's effective wave function without
+  changing the ontology, because the masses in a decoupled subsystem's
+  Hamiltonian must belong to that subsystem's particles; dispositions
+  intrinsic to particles or events need no such change
 version: 1
 tags:
 - quantum-foundations
@@ -36,7 +42,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-621 THEORY-669 — Proposed; named in Connections, not leaned on -->
 
-# THEORY-656: A single holistic power of the universe's configuration, carried by bare matter points, cannot ground a subsystem's effective wave function without changing the ontology, because the masses in a decoupled subsystem's Hamiltonian must belong to that subsystem's particles; dispositions intrinsic to particles or events need no such change
+# THEORY-656: Holistic power can't ground effective ψ
 
 ## Source
 

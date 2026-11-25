@@ -3,7 +3,16 @@ number: 704
 status: Proposed
 formerly:
 - CLAIM-tmpffmpr
-title: 'In an idealized overloaded review process (homogeneous challenges arriving at rate λ, one service time s = 1/μ each with μ < λ, a common window F ≥ s, no batch corrections), the order of review decides whose right to challenge still prevents anything: first-come review in the limit resolves none in time, while an order that serves only challenges it can still finish in time reaches the largest possible share, μ/λ, once F ≥ s + 1/λ; under insufficient review capacity, scheduling distributes preventive rights'
+title: 'Under overload, scheduling distributes rights'
+statement: >-
+  In an idealized overloaded review process (homogeneous challenges arriving
+  at rate λ, one service time s = 1/μ each with μ < λ, a common window F ≥
+  s, no batch corrections), the order of review decides whose right to
+  challenge still prevents anything: first-come review in the limit resolves
+  none in time, while an order that serves only challenges it can still
+  finish in time reaches the largest possible share, μ/λ, once F ≥ s + 1/λ;
+  under insufficient review capacity, scheduling distributes preventive
+  rights
 version: 4
 history:
 - version: 2
@@ -75,7 +84,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-705 CLAIM-710 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 
-# CLAIM-704: In an idealized overloaded review process (homogeneous challenges arriving at rate λ, one service time s = 1/μ each with μ < λ, a common window F ≥ s, no batch corrections), the order of review decides whose right to challenge still prevents anything: first-come review in the limit resolves none in time, while an order that serves only challenges it can still finish in time reaches the largest possible share, μ/λ, once F ≥ s + 1/λ; under insufficient review capacity, scheduling distributes preventive rights
+# CLAIM-704: Under overload, scheduling distributes rights
 
 ## The claim
 

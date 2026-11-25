@@ -3,7 +3,11 @@ number: 1330
 status: Proposed
 formerly:
 - CLAIM-tmpv0sv7
-title: Webhosts, various ones, can meet the demands normally met by a publisher, once editorial judgement has gone to editors and journals as feeds over them
+title: 'Webhosts can do the publisher''s job'
+statement: >-
+  Webhosts, various ones, can meet the demands normally met by a publisher,
+  once editorial judgement has gone to editors and journals as feeds over
+  them
 version: 3
 history:
 - version: 2
@@ -51,7 +55,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-1344 CLAIM-1291 CLAIM-1346 — Proposed; the owner's U4, A's development and the assistant's gap fill -->
 
-# CLAIM-1330: Webhosts, various ones, can meet the demands normally met by a publisher, once editorial judgement has gone to editors and journals as feeds over them
+# CLAIM-1330: Webhosts can do the publisher's job
 
 ## The claim
 

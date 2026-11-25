@@ -3,7 +3,14 @@ number: 760
 status: Active
 formerly:
 - CLAIM-tmpkrk41
-title: 'That an organization makes an activity cheaper for those who perform it does not show that work was saved: the work may have been transferred, to an earlier time, to upkeep, or to other parties, and the efficiency an organization appears to have depends on the boundary of the system whose costs are counted; work saved, work transferred and valuable capability expanded are three separate achievements'
+title: 'Cheaper is not work saved'
+statement: >-
+  That an organization makes an activity cheaper for those who perform it
+  does not show that work was saved: the work may have been transferred, to
+  an earlier time, to upkeep, or to other parties, and the efficiency an
+  organization appears to have depends on the boundary of the system whose
+  costs are counted; work saved, work transferred and valuable capability
+  expanded are three separate achievements
 version: 4
 history:
 - version: 2
@@ -76,7 +83,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2823 — Unavailable; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-731 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-760: That an organization makes an activity cheaper for those who perform it does not show that work was saved: the work may have been transferred, to an earlier time, to upkeep, or to other parties, and the efficiency an organization appears to have depends on the boundary of the system whose costs are counted; work saved, work transferred and valuable capability expanded are three separate achievements
+# CLAIM-760: Cheaper is not work saved
 
 ## The claim
 

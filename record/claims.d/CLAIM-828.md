@@ -3,7 +3,13 @@ number: 828
 status: Proposed
 formerly:
 - CLAIM-tmpl9zw4
-title: 'When a fine feature''s factored contribution is gated by a parent feature, ŷ = g·abφ, the child switches on only when gs > λ, so acquisition follows a partial order of dependencies rather than a fixed coarse-to-fine chronology; and the time a feature becomes unstable, the time it becomes visible and the time its information was first encoded can all differ'
+title: 'Gated features follow a partial order'
+statement: >-
+  When a fine feature's factored contribution is gated by a parent feature,
+  ŷ = g·abφ, the child switches on only when gs > λ, so acquisition follows
+  a partial order of dependencies rather than a fixed coarse-to-fine
+  chronology; and the time a feature becomes unstable, the time it becomes
+  visible and the time its information was first encoded can all differ
 version: 2
 history:
 - version: 2
@@ -60,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-807 — Proposed, filed with this claim -->
 <!-- inactive-ok-file: THEORY-2191 THEORY-2193 ARG-191 — Proposed or Rejected; the readings of Lee et al. and of Yang filed 2026-11-22, and the argument that takes Lee et al. out of the grounds -->
 
-# CLAIM-828: When a fine feature's factored contribution is gated by a parent feature, ŷ = g·abφ, the child switches on only when gs > λ, so acquisition follows a partial order of dependencies rather than a fixed coarse-to-fine chronology; and the time a feature becomes unstable, the time it becomes visible and the time its information was first encoded can all differ
+# CLAIM-828: Gated features follow a partial order
 
 ## The claim
 

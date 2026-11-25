@@ -3,7 +3,14 @@ number: 1207
 status: Proposed
 formerly:
 - THEORY-tmpe2s1g
-title: 'Russian military writers of 2015–2020 use ''hybrid war'' for a category of war marked off by its objective, reshaping a target state''s governance, geostrategic orientation and worldview, in which every action up to conventional military force is subordinate to an information campaign, and not, as in Western usage, for a set of means below the threshold of armed conflict'
+title: 'Russian ''hybrid war'' is defined by its objective'
+statement: >-
+  Russian military writers of 2015–2020 use 'hybrid war' for a category of
+  war marked off by its objective, reshaping a target state's governance,
+  geostrategic orientation and worldview, in which every action up to
+  conventional military force is subordinate to an information campaign, and
+  not, as in Western usage, for a set of means below the threshold of armed
+  conflict
 version: 1
 tags:
 - society-and-governance
@@ -32,7 +39,7 @@ summary: >-
   report predates the 2022 invasion.
 ---
 
-# THEORY-1207: Russian military writers of 2015–2020 use 'hybrid war' for a category of war marked off by its objective, reshaping a target state's governance, geostrategic orientation and worldview, in which every action up to conventional military force is subordinate to an information campaign, and not, as in Western usage, for a set of means below the threshold of armed conflict
+# THEORY-1207: Russian 'hybrid war' is defined by its objective
 
 ## Source
 

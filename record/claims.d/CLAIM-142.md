@@ -3,7 +3,12 @@ number: 142
 status: Proposed
 formerly:
 - CLAIM-tmpd1aee
-title: 'Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved'
+title: 'Only held-out probes evidence preserved structure'
+statement: >-
+  Two communicative realizations can agree on every probe in a restricted
+  family without being structurally identical, so observational equivalence
+  is relative to the probes, and only independently justified probes
+  evaluated on held-out cases are evidence that structure was preserved
 version: 3
 history:
 - version: 2
@@ -67,7 +72,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-002 — Superseded; cited as the definition the Yoneda reading restates, not as current -->
 <!-- inactive-ok-file: CLAIM-206 CLAIM-217 — Proposed; the objection that prompted version 2 and the record's reply to it, both open -->
 
-# CLAIM-142: Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved
+# CLAIM-142: Only held-out probes evidence preserved structure
 
 ## The claim
 

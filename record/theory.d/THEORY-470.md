@@ -15,7 +15,13 @@ promote_when: >-
   still decays, or if a change of management with constraints unchanged
   changes the course. Cases of platforms that decayed after a constraint
   weakened cannot settle it; the account was told from them.
-title: "Platform decay of the enshittification kind is caused not by a change in the character of those who run platforms but by the weakening of four constraints that used to discipline them, competition, regulation, interoperability and the bargaining power of tech workers, so it is reversible if those constraints are durably restored"
+title: 'Enshittification follows weakened constraints'
+statement: >-
+  Platform decay of the enshittification kind is caused not by a change in
+  the character of those who run platforms but by the weakening of four
+  constraints that used to discipline them, competition, regulation,
+  interoperability and the bargaining power of tech workers, so it is
+  reversible if those constraints are durably restored
 version: 3
 history:
 - version: 2
@@ -52,7 +58,7 @@ corroborates:
 - CLAIM-410
 ---
 
-# THEORY-470: Platform decay of the enshittification kind is caused not by a change in the character of those who run platforms but by the weakening of four constraints that used to discipline them, competition, regulation, interoperability and the bargaining power of tech workers, so it is reversible if those constraints are durably restored
+# THEORY-470: Enshittification follows weakened constraints
 
 ## Source
 

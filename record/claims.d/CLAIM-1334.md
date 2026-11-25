@@ -33,7 +33,14 @@ complements:
 - CLAIM-931
 grounds:
 - CASE-151
-title: "A metric that governs allocates two powers, to make processes legible and to decide what follows from what it makes legible, so an accurate metric can still dominate where it gives a controller unanswerable discretion over those who depend on the arrangement; bounding by role which decisions a metric may govern, and keeping the authority to define success apart from the authority to pursue it, are the corresponding safeguards"
+title: 'A governing metric allocates two powers'
+statement: >-
+  A metric that governs allocates two powers, to make processes legible and
+  to decide what follows from what it makes legible, so an accurate metric
+  can still dominate where it gives a controller unanswerable discretion
+  over those who depend on the arrangement; bounding by role which decisions
+  a metric may govern, and keeping the authority to define success apart
+  from the authority to pursue it, are the corresponding safeguards
 summary: >-
   A44 §§1, 3 and 11–13 of the exchange "Memes, Contracts, and Systemic
   Normativity" (ChatGPT, 2026-11-24), on the owner's U28 ("the tyranny of
@@ -51,7 +58,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-931 CLAIM-700 TERM-108 LIT-3264 LIT-3209 — Proposed, Deferred or new; the neighbours, held parts and works A44 cites, unread -->
 
-# CLAIM-1334: A metric that governs allocates two powers, to make processes legible and to decide what follows from what it makes legible, so an accurate metric can still dominate where it gives a controller unanswerable discretion over those who depend on the arrangement; bounding by role which decisions a metric may govern, and keeping the authority to define success apart from the authority to pursue it, are the corresponding safeguards
+# CLAIM-1334: A governing metric allocates two powers
 
 ## The claim
 

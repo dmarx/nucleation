@@ -3,7 +3,14 @@ number: 790
 status: Proposed
 formerly:
 - CLAIM-tmp1xigl
-title: 'In any inquiry, anchoring is one mechanism, a fixed reference that each reconstruction is pulled toward, and what it secures is set by what the reference is tied to: tied to the target by a channel independent of the inquirer, it gives the inquiry''s states content and makes a discrepancy register; tied to an earlier state of the inquiry, it gives continuity and not correctness; tied to nothing, it is bias'
+title: 'Anchoring secures what its reference is tied to'
+statement: >-
+  In any inquiry, anchoring is one mechanism, a fixed reference that each
+  reconstruction is pulled toward, and what it secures is set by what the
+  reference is tied to: tied to the target by a channel independent of the
+  inquirer, it gives the inquiry's states content and makes a discrepancy
+  register; tied to an earlier state of the inquiry, it gives continuity and
+  not correctness; tied to nothing, it is bias
 version: 1
 role: thesis
 warrant: interpretive
@@ -50,7 +57,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-191 CLAIM-184 CLAIM-185 CLAIM-772 THEORY-2096 THEORY-487 CLAIM-217 SYNTHESIS-066 CLAIM-315 CLAIM-793 CLAIM-789 — Proposed; the anchoring claims and readings this joins, and the objections it generalizes -->
 
-# CLAIM-790: In any inquiry, anchoring is one mechanism, a fixed reference that each reconstruction is pulled toward, and what it secures is set by what the reference is tied to: tied to the target by a channel independent of the inquirer, it gives the inquiry's states content and makes a discrepancy register; tied to an earlier state of the inquiry, it gives continuity and not correctness; tied to nothing, it is bias
+# CLAIM-790: Anchoring secures what its reference is tied to
 
 ## The claim
 

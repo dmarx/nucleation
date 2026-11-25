@@ -3,7 +3,15 @@ number: 1290
 status: Active
 formerly:
 - THEORY-tmpakm3a
-title: 'A dynamical model whose variables are properties of parts and operations already identified by experiment explores the dynamics of that mechanism, while one that posits its parts de novo and is checked only by fit to behaviour shows at most how a mechanism of that kind could produce the behaviour; fit can rule such models out but usually cannot decide between competing architectures that each fit, and what decides is independent evidence about the parts'
+title: 'Fit alone can''t choose among dynamical models'
+statement: >-
+  A dynamical model whose variables are properties of parts and operations
+  already identified by experiment explores the dynamics of that mechanism,
+  while one that posits its parts de novo and is checked only by fit to
+  behaviour shows at most how a mechanism of that kind could produce the
+  behaviour; fit can rule such models out but usually cannot decide between
+  competing architectures that each fit, and what decides is independent
+  evidence about the parts
 version: 2
 history:
 - version: 1
@@ -47,7 +55,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-519 — Proposed; the record's world-model claim and its four-question principle, cited as the claims this reading bears on -->
 
-# THEORY-1290: A dynamical model whose variables are properties of parts and operations already identified by experiment explores the dynamics of that mechanism, while one that posits its parts de novo and is checked only by fit to behaviour shows at most how a mechanism of that kind could produce the behaviour; fit can rule such models out but usually cannot decide between competing architectures that each fit, and what decides is independent evidence about the parts
+# THEORY-1290: Fit alone can't choose among dynamical models
 
 ## Source
 

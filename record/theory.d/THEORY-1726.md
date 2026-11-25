@@ -3,7 +3,15 @@ number: 1726
 status: Proposed
 formerly:
 - THEORY-tmp0xnw6
-title: 'Tempich, Pinto, Sure and Staab (2005) propose that a shared ontology be evolved by a control board that admits a change only once arguments have been exchanged and positions stated on it, and they give an OWL ontology, adapted from IBIS, that records issues, formalization ideas tied to change operations, justifications and challenges, positions and decisions with their status and line of reasoning, from human and machine participants alike.'
+title: 'Ontology changes need argued board approval'
+statement: >-
+  Tempich, Pinto, Sure and Staab (2005) propose that a shared ontology be
+  evolved by a control board that admits a change only once arguments have
+  been exchanged and positions stated on it, and they give an OWL ontology,
+  adapted from IBIS, that records issues, formalization ideas tied to change
+  operations, justifications and challenges, positions and decisions with
+  their status and line of reasoning, from human and machine participants
+  alike.
 version: 1
 tags:
 - logic
@@ -23,7 +31,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1726: Tempich, Pinto, Sure and Staab (2005) propose that a shared ontology be evolved by a control board that admits a change only once arguments have been exchanged and positions stated on it, and they give an OWL ontology, adapted from IBIS, that records issues, formalization ideas tied to change operations, justifications and challenges, positions and decisions with their status and line of reasoning, from human and machine participants alike.
+# THEORY-1726: Ontology changes need argued board approval
 
 ## The account
 

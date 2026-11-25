@@ -11,7 +11,15 @@ promote_when: >-
   readiness have low predictive power; and a cohort study of patients
   whose weaning failed is read that finds about half still on invasive
   ventilation at one year.
-title: 'Readiness to come off invasive ventilation is tested by withdrawing support for a spontaneous breathing trial of 30 to 120 minutes, since predictors of readiness have low power; patients are classed as simple, difficult or prolonged weaning by whether the first attempt succeeds and, if not, whether up to three trials or seven days suffice; and outcomes worsen across these groups, about half of patients whose weaning fails remaining on invasive ventilation at one year'
+title: 'Weaning splits into simple, difficult, prolonged'
+statement: >-
+  Readiness to come off invasive ventilation is tested by withdrawing
+  support for a spontaneous breathing trial of 30 to 120 minutes, since
+  predictors of readiness have low power; patients are classed as simple,
+  difficult or prolonged weaning by whether the first attempt succeeds and,
+  if not, whether up to three trials or seven days suffice; and outcomes
+  worsen across these groups, about half of patients whose weaning fails
+  remaining on invasive ventilation at one year
 version: 1
 tags:
 - natural-sciences
@@ -30,7 +38,7 @@ summary: >-
   carried, word for word.
 ---
 
-# THEORY-1536: Readiness to come off invasive ventilation is tested by withdrawing support for a spontaneous breathing trial of 30 to 120 minutes, since predictors of readiness have low power; patients are classed as simple, difficult or prolonged weaning by whether the first attempt succeeds and, if not, whether up to three trials or seven days suffice; and outcomes worsen across these groups, about half of patients whose weaning fails remaining on invasive ventilation at one year
+# THEORY-1536: Weaning splits into simple, difficult, prolonged
 
 ## Source
 

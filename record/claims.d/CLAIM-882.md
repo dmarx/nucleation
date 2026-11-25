@@ -3,7 +3,16 @@ number: 882
 status: Proposed
 formerly:
 - CLAIM-tmpmop4m
-title: 'In a small two-layer ReLU network trained full-batch on four independent skills of unequal frequency, changing only the optimizer from gradient descent to sign descent or Adam, at order-one initial scale, moves the weaker skills from rising fastest at the start to rising late and compresses the weakest skill''s learning time relative to the strongest''s about fourfold, without the clean frequency-ordered sequence of the Geometry model; from small initial scale gradient descent alone delays them most'
+title: 'Optimizer changes skill timing in ReLU nets'
+statement: >-
+  In a small two-layer ReLU network trained full-batch on four independent
+  skills of unequal frequency, changing only the optimizer from gradient
+  descent to sign descent or Adam, at order-one initial scale, moves the
+  weaker skills from rising fastest at the start to rising late and
+  compresses the weakest skill's learning time relative to the strongest's
+  about fourfold, without the clean frequency-ordered sequence of the
+  Geometry model; from small initial scale gradient descent alone delays
+  them most
 version: 1
 history:
 - version: 1
@@ -54,7 +63,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-319 CLAIM-883 THEORY-783 — new or Proposed; the study, the derivation beside it, and the wider reading it bears on -->
 
-# CLAIM-882: In a small two-layer ReLU network trained full-batch on four independent skills of unequal frequency, changing only the optimizer from gradient descent to sign descent or Adam, at order-one initial scale, moves the weaker skills from rising fastest at the start to rising late and compresses the weakest skill's learning time relative to the strongest's about fourfold, without the clean frequency-ordered sequence of the Geometry model; from small initial scale gradient descent alone delays them most
+# CLAIM-882: Optimizer changes skill timing in ReLU nets
 
 ## The claim
 

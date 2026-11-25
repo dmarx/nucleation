@@ -3,7 +3,13 @@ number: 1131
 status: Active
 formerly:
 - CLAIM-tmplgnjf
-title: 'A demand specification is not a regulation: regulations are constraints on conduct meant to induce constraints on outcomes, and a regime succeeds only if its conduct constraints make the demanded outcomes reliable under the participants'' responses, so a rule can be perfectly enforced and fail its purpose'
+title: 'A demand specification is not a regulation'
+statement: >-
+  A demand specification is not a regulation: regulations are constraints on
+  conduct meant to induce constraints on outcomes, and a regime succeeds
+  only if its conduct constraints make the demanded outcomes reliable under
+  the participants' responses, so a rule can be perfectly enforced and fail
+  its purpose
 version: 3
 history:
 - version: 2
@@ -62,7 +68,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-1201 CLAIM-785 — Proposed or Open; filed or cited in this filing of 2026-11-22 -->
 
-# CLAIM-1131: A demand specification is not a regulation: regulations are constraints on conduct meant to induce constraints on outcomes, and a regime succeeds only if its conduct constraints make the demanded outcomes reliable under the participants' responses, so a rule can be perfectly enforced and fail its purpose
+# CLAIM-1131: A demand specification is not a regulation
 
 ## The claim
 

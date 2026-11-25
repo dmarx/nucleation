@@ -3,7 +3,12 @@ number: 53
 status: Active
 formerly:
 - THEORY-tmphjqbg
-title: 'A treatment''s efficacy is not evidence for its theory of change: only change in the theorised process that is specific and comes before the outcome bears on it, and moving the process without moving the outcome counts against the theory'
+title: 'Efficacy is not evidence for a theory of change'
+statement: >-
+  A treatment's efficacy is not evidence for its theory of change: only
+  change in the theorised process that is specific and comes before the
+  outcome bears on it, and moving the process without moving the outcome
+  counts against the theory
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -30,7 +35,7 @@ answers:
 <!-- inactive-ok-file: LIT-543 — Unavailable, abstract only; the 2024 meta-analysis of ACT's processes as mediators, named as the test this account calls for, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 THEORY-058 THEORY-050 THEORY-048 — Proposed; a parallel case of evidence that cannot discriminate, and the batch's theories of change and of explanation, named as the accounts this standard applies to -->
 
-# THEORY-053: A treatment's efficacy is not evidence for its theory of change: only change in the theorised process that is specific and comes before the outcome bears on it, and moving the process without moving the outcome counts against the theory
+# THEORY-053: Efficacy is not evidence for a theory of change
 
 ## Source
 

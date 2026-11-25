@@ -3,7 +3,13 @@ number: 1262
 status: Proposed
 formerly:
 - CLAIM-tmpcet1g
-title: 'An organization''s corrective mobilization can be scaled by its tolerance and horizon rather than by the bare size of a discrepancy: burn-rate alerting recruits response by how fast an error budget is being spent relative to its window, so that a small sustained discrepancy and a large brief one are ranked by what they cost the allowance'
+title: 'Mobilization scaled by tolerance and horizon'
+statement: >-
+  An organization's corrective mobilization can be scaled by its tolerance
+  and horizon rather than by the bare size of a discrepancy: burn-rate
+  alerting recruits response by how fast an error budget is being spent
+  relative to its window, so that a small sustained discrepancy and a large
+  brief one are ranked by what they cost the allowance
 version: 1
 role: thesis
 warrant: interpretive
@@ -40,7 +46,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-3216 — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
-# CLAIM-1262: An organization's corrective mobilization can be scaled by its tolerance and horizon rather than by the bare size of a discrepancy: burn-rate alerting recruits response by how fast an error budget is being spent relative to its window, so that a small sustained discrepancy and a large brief one are ranked by what they cost the allowance
+# CLAIM-1262: Mobilization scaled by tolerance and horizon
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 2123
 status: Proposed
 formerly:
 - THEORY-tmpuucqv
-title: 'Bardsley, Mehta, Starmer and Sugden find in one-shot coordination experiments that focal points are sometimes reached by team reasoning, choosing the rule that is best for the pair, and sometimes by predicting others'' pre-reflective picks as cognitive hierarchy theory holds, depending on the decision context'
+title: 'Focal points come from team or level reasoning'
+statement: >-
+  Bardsley, Mehta, Starmer and Sugden find in one-shot coordination
+  experiments that focal points are sometimes reached by team reasoning,
+  choosing the rule that is best for the pair, and sometimes by predicting
+  others' pre-reflective picks as cognitive hierarchy theory holds,
+  depending on the decision context
 version: 1
 source:
 - LIT-2924
@@ -21,7 +27,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2123: Bardsley, Mehta, Starmer and Sugden find in one-shot coordination experiments that focal points are sometimes reached by team reasoning, choosing the rule that is best for the pair, and sometimes by predicting others' pre-reflective picks as cognitive hierarchy theory holds, depending on the decision context
+# THEORY-2123: Focal points come from team or level reasoning
 
 ## The account
 

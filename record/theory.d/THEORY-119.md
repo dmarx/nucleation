@@ -24,7 +24,12 @@ promote_when: >-
   2026-10-14: Pereboom's book (LIT-1006) was read only in part
   (NOTE-823), and the reading stopped at p. 10, before his buffer
   case on pp. 18–23, so that clause is not met by it.
-title: "An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false"
+title: 'The alternate possibilities principle is false'
+statement: >-
+  An agent can be morally responsible for what she did although she could
+  not have done otherwise, when what made the action unavoidable played no
+  part in bringing it about, so the principle of alternate possibilities is
+  false
 version: 2
 history:
 - version: 2
@@ -64,7 +69,7 @@ answers:
 <!-- inactive-ok-file: THEORY-118 THEORY-120 — Proposed; the rival declared here and the accounts named in prose -->
 <!-- inactive-ok-file: LIT-684 LIT-686 — Unavailable, unread; Fischer's and Wolf's primary texts and Frankfurt's 1982 essay, named as what would move this -->
 
-# THEORY-119: An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false
+# THEORY-119: The alternate possibilities principle is false
 
 ## The evidence, and what is unread
 

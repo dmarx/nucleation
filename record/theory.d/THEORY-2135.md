@@ -9,7 +9,15 @@ promote_when: >-
   under the stated assumptions, and an independent experiment finding a
   drop in test accuracy as α grows from 1 for a standard CNN with centred
   output.
-title: 'Chizat, Oyallon and Bach show that lazy training, in which a non-linear model trained by gradient methods stays close to its linearization at initialization, is produced by a choice of scale: multiplying the output by α makes the relative change of the model''s differential per step small against that of the loss, so that as α grows the parameters move by order 1/α and the model and its linearization differ by order 1/α, and their experiments find networks in this regime generalize worse'
+title: 'Lazy training is produced by output scale'
+statement: >-
+  Chizat, Oyallon and Bach show that lazy training, in which a non-linear
+  model trained by gradient methods stays close to its linearization at
+  initialization, is produced by a choice of scale: multiplying the output
+  by α makes the relative change of the model's differential per step small
+  against that of the loss, so that as α grows the parameters move by order
+  1/α and the model and its linearization differ by order 1/α, and their
+  experiments find networks in this regime generalize worse
 version: 1
 tags:
 - learning-theory
@@ -27,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-212 THEORY-813 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-775 THEORY-2133 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
-# THEORY-2135: Chizat, Oyallon and Bach show that lazy training, in which a non-linear model trained by gradient methods stays close to its linearization at initialization, is produced by a choice of scale: multiplying the output by α makes the relative change of the model's differential per step small against that of the loss, so that as α grows the parameters move by order 1/α and the model and its linearization differ by order 1/α, and their experiments find networks in this regime generalize worse
+# THEORY-2135: Lazy training is produced by output scale
 
 ## Source
 

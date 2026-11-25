@@ -3,7 +3,11 @@ number: 279
 status: Active
 formerly:
 - CLAIM-tmpgfyls
-title: 'Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator'
+title: 'Denoiser, critic, re-noiser are regimes'
+statement: >-
+  Whether an intervention stabilizes or destabilizes a pattern is relative
+  to a policy and a frame, so denoiser, critic and re-noiser are regimes an
+  operator falls into, not kinds of operator
 version: 8
 history:
 - version: 2
@@ -90,7 +94,7 @@ bears_on:
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-142 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-279: Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator
+# CLAIM-279: Denoiser, critic, re-noiser are regimes
 
 ## The claim
 

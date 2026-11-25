@@ -3,7 +3,12 @@ number: 1725
 status: Superseded
 formerly:
 - THEORY-tmp0usde
-title: 'DeChurch and Mesmer-Magnus (2010) find, across 23 studies, that similarity of team members'' mental models predicts team process only when it is measured in a way that captures the structure of their knowledge, while it predicts team performance however it is measured'
+title: 'Structure measures alone link models to process'
+statement: >-
+  DeChurch and Mesmer-Magnus (2010) find, across 23 studies, that similarity
+  of team members' mental models predicts team process only when it is
+  measured in a way that captures the structure of their knowledge, while it
+  predicts team performance however it is measured
 version: 2
 tags:
 - social-science
@@ -34,7 +39,7 @@ superseded_by:
 <!-- inactive-ok-file: THEORY-1800 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 <!-- inactive-ok-file: LIT-2330 — Unavailable; cited for what each holds, not as settled -->
 
-# THEORY-1725: DeChurch and Mesmer-Magnus (2010) find, across 23 studies, that similarity of team members' mental models predicts team process only when it is measured in a way that captures the structure of their knowledge, while it predicts team performance however it is measured
+# THEORY-1725: Structure measures alone link models to process
 
 ## The account
 

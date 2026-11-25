@@ -12,7 +12,16 @@ promote_when: >-
   Frischmann and Ohm) the line between friction that only imposes a cost
   and friction that blocks passage until a condition is shown and so opens
   a governance seam, and that it reports no evidence of its own
-title: 'Frischmann and Benesch argue that state rules requiring friction with a functional purpose in digital code, architecture and interfaces can be content-neutral time, place and manner restrictions subject to intermediate First Amendment scrutiny; they justify such friction chiefly by the time it gives individuals to deliberate, report the line between friction that only imposes a cost and friction that blocks passage until a condition is shown and so opens a governance seam, and offer a framework and examples but no evidence of their own'
+title: 'Mandated digital friction can pass scrutiny'
+statement: >-
+  Frischmann and Benesch argue that state rules requiring friction with a
+  functional purpose in digital code, architecture and interfaces can be
+  content-neutral time, place and manner restrictions subject to
+  intermediate First Amendment scrutiny; they justify such friction chiefly
+  by the time it gives individuals to deliberate, report the line between
+  friction that only imposes a cost and friction that blocks passage until a
+  condition is shown and so opens a governance seam, and offer a framework
+  and examples but no evidence of their own
 version: 1
 history:
 - version: 1
@@ -32,7 +41,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-710 CLAIM-715 TERM-125 THEORY-1937 — Proposed; the entries this account bears on -->
 
-# THEORY-2267: Frischmann and Benesch argue that state rules requiring friction with a functional purpose in digital code, architecture and interfaces can be content-neutral time, place and manner restrictions subject to intermediate First Amendment scrutiny; they justify such friction chiefly by the time it gives individuals to deliberate, report the line between friction that only imposes a cost and friction that blocks passage until a condition is shown and so opens a governance seam, and offer a framework and examples but no evidence of their own
+# THEORY-2267: Mandated digital friction can pass scrutiny
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 985
 status: Active
 formerly:
 - THEORY-tmpgy035
-title: 'The beta process BP(c, B0) is the de Finetti mixing measure of the Indian buffet process: given n objects, the next has each existing feature with probability equal to the number holding it over c + n and a Poisson(cγ/(c + n)) number of new ones, so n objects hold Poisson(γ Σ_{i<n} c/(c + i)) distinct features, which is the IBP''s αH_n at c = 1 and γ = α, and c alone sets how much objects share'
+title: 'Beta process mixes the Indian buffet process'
+statement: >-
+  The beta process BP(c, B0) is the de Finetti mixing measure of the Indian
+  buffet process: given n objects, the next has each existing feature with
+  probability equal to the number holding it over c + n and a Poisson(cγ/(c
+  + n)) number of new ones, so n objects hold Poisson(γ Σ_{i<n} c/(c + i))
+  distinct features, which is the IBP's αH_n at c = 1 and γ = α, and c alone
+  sets how much objects share
 version: 2
 history:
 - version: 1
@@ -41,7 +48,7 @@ bears_on:
 - QUESTION-276
 ---
 
-# THEORY-985: The beta process BP(c, B0) is the de Finetti mixing measure of the Indian buffet process: given n objects, the next has each existing feature with probability equal to the number holding it over c + n and a Poisson(cγ/(c + n)) number of new ones, so n objects hold Poisson(γ Σ_{i<n} c/(c + i)) distinct features, which is the IBP's αH_n at c = 1 and γ = α, and c alone sets how much objects share
+# THEORY-985: Beta process mixes the Indian buffet process
 
 ## Source
 

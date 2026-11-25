@@ -12,7 +12,13 @@ promote_when: >-
   starting conditions) relative to unconflicted choice. A model in which
   such amplification is possible does not settle it, and neither does
   behavioural variability, which noise without amplification also gives.
-title: 'On Kane''s account, self-forming actions occur under motivational conflict, when tension moves the relevant brain regions away from thermodynamic equilibrium, "a kind of stirring up of chaos" that makes them sensitive to micro-indeterminacy at the neuronal level, so that the choice is undetermined'
+title: 'Conflict stirs chaos making choices undetermined'
+statement: >-
+  On Kane's account, self-forming actions occur under motivational conflict,
+  when tension moves the relevant brain regions away from thermodynamic
+  equilibrium, "a kind of stirring up of chaos" that makes them sensitive to
+  micro-indeterminacy at the neuronal level, so that the choice is
+  undetermined
 version: 1
 tags:
 - free-will
@@ -28,7 +34,7 @@ summary: >-
   [CLAIM-533](../claims.d/CLAIM-533.md) makes to Kane, now checked against his text.
 ---
 
-# THEORY-1329: On Kane's account, self-forming actions occur under motivational conflict, when tension moves the relevant brain regions away from thermodynamic equilibrium, "a kind of stirring up of chaos" that makes them sensitive to micro-indeterminacy at the neuronal level, so that the choice is undetermined
+# THEORY-1329: Conflict stirs chaos making choices undetermined
 
 ## Source
 

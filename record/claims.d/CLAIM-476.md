@@ -3,7 +3,15 @@ number: 476
 status: Proposed
 formerly:
 - CLAIM-tmpl228b
-title: 'Beyond what it does operationally, luria is an apparatus in Barad''s constitutive sense for the objects of a record, and only for them: the record''s objects are constituted, and not only made referable and governable, by the distinctions its grammar enacts, so that the same authored material is a different set of objects under a revised apparatus, and the record''s own inquiry reconstitutes the apparatus that constitutes them'
+title: 'Luria constitutes its record''s objects'
+statement: >-
+  Beyond what it does operationally, luria is an apparatus in Barad's
+  constitutive sense for the objects of a record, and only for them: the
+  record's objects are constituted, and not only made referable and
+  governable, by the distinctions its grammar enacts, so that the same
+  authored material is a different set of objects under a revised apparatus,
+  and the record's own inquiry reconstitutes the apparatus that constitutes
+  them
 version: 5
 history:
 - version: 2
@@ -100,7 +108,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1665 — Deferred; registered unread -->
 <!-- inactive-ok-file: LIT-1653 LIT-1657 LIT-1650 — Deferred or Unavailable; registered from the same exchange, unread, cited for what they are standardly cited for -->
 
-# CLAIM-476: Beyond what it does operationally, luria is an apparatus in Barad's constitutive sense for the objects of a record, and only for them: the record's objects are constituted, and not only made referable and governable, by the distinctions its grammar enacts, so that the same authored material is a different set of objects under a revised apparatus, and the record's own inquiry reconstitutes the apparatus that constitutes them
+# CLAIM-476: Luria constitutes its record's objects
 
 ## The claim
 

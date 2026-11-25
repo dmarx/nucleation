@@ -3,7 +3,15 @@ number: 945
 status: Proposed
 formerly:
 - CLAIM-tmpjmfmd
-title: 'Where members interact only through answers about stimuli a shared world supplies, a deviation in some members'' interpretation reaches the others'' interpretations only weakly, so a criterion of shared perspective that measures dependence by how far the others move finds no shared perspective even where members evaluate one another''s answers against a common standard; the coupling shows in how fast the deviants are drawn back and in whether the others'' response follows the standard'
+title: 'Movement criterion misses shared perspective'
+statement: >-
+  Where members interact only through answers about stimuli a shared world
+  supplies, a deviation in some members' interpretation reaches the others'
+  interpretations only weakly, so a criterion of shared perspective that
+  measures dependence by how far the others move finds no shared perspective
+  even where members evaluate one another's answers against a common
+  standard; the coupling shows in how fast the deviants are drawn back and
+  in whether the others' response follows the standard
 version: 1
 history:
 - version: 1
@@ -59,7 +67,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-149 CLAIM-946 — new; filed with this claim for LEAD-087 -->
 
-# CLAIM-945: Where members interact only through answers about stimuli a shared world supplies, a deviation in some members' interpretation reaches the others' interpretations only weakly, so a criterion of shared perspective that measures dependence by how far the others move finds no shared perspective even where members evaluate one another's answers against a common standard; the coupling shows in how fast the deviants are drawn back and in whether the others' response follows the standard
+# CLAIM-945: Movement criterion misses shared perspective
 
 ## The claim
 

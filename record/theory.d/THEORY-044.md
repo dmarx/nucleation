@@ -25,7 +25,11 @@ promote_when: >-
   evidence become rivals and the account must say which fails. More
   clinical examples, metaphors or ACT outcome trials would not settle
   either half.
-title: 'In relational frame theory the self is verbal behaviour''s content, its process and its context, and the self as context is a perspective learned from deictic relations that cannot itself be found as content'
+title: 'Self as context is a learned deictic perspective'
+statement: >-
+  In relational frame theory the self is verbal behaviour's content, its
+  process and its context, and the self as context is a perspective learned
+  from deictic relations that cannot itself be found as content
 version: 2
 history:
 - version: 2
@@ -74,7 +78,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-064 — Proposed; the self-model account, named as the contrast, nothing here rests on it -->
 <!-- inactive-ok-file: NOTE-457 — Skimmed; the reading of the IFS book's first chapter, named for the IFS contrast beside the read essay -->
 
-# THEORY-044: In relational frame theory the self is verbal behaviour's content, its process and its context, and the self as context is a perspective learned from deictic relations that cannot itself be found as content
+# THEORY-044: Self as context is a learned deictic perspective
 
 ## Source
 

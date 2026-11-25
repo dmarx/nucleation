@@ -3,7 +3,14 @@ number: 368
 status: Active
 formerly:
 - CLAIM-tmpyk3it
-title: 'The primitive for an organization''s regulatory difficulty is frustration, not distress: a relation between maintained, consequential demands and the incompatibilities, constraints or countervailing processes that limit their realization, independent of strain, the burden of sustaining activity, and distinct from distress, a possible integrated response to either'
+title: 'Frustration, not distress, is the primitive'
+statement: >-
+  The primitive for an organization's regulatory difficulty is frustration,
+  not distress: a relation between maintained, consequential demands and the
+  incompatibilities, constraints or countervailing processes that limit
+  their realization, independent of strain, the burden of sustaining
+  activity, and distinct from distress, a possible integrated response to
+  either
 version: 7
 history:
 - version: 2
@@ -97,7 +104,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-052 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 
-# CLAIM-368: The primitive for an organization's regulatory difficulty is frustration, not distress: a relation between maintained, consequential demands and the incompatibilities, constraints or countervailing processes that limit their realization, independent of strain, the burden of sustaining activity, and distinct from distress, a possible integrated response to either
+# CLAIM-368: Frustration, not distress, is the primitive
 
 ## The claim
 

@@ -3,7 +3,11 @@ number: 14
 status: Proposed
 formerly:
 - CLAIM-tmp471wm
-title: 'Krifka''s performative updates fix which changes in conversational standing count, and Blackwell comparison tests whether a rendering preserves the information needed to recover them'
+title: 'Krifka fixes the updates, Blackwell tests them'
+statement: >-
+  Krifka's performative updates fix which changes in conversational standing
+  count, and Blackwell comparison tests whether a rendering preserves the
+  information needed to recover them
 version: 1
 role: thesis
 warrant: interpretive
@@ -27,7 +31,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-054 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: THEORY-1749 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-014: Krifka's performative updates fix which changes in conversational standing count, and Blackwell comparison tests whether a rendering preserves the information needed to recover them
+# CLAIM-014: Krifka fixes the updates, Blackwell tests them
 
 ## The claim
 

@@ -14,7 +14,14 @@ promote_when: >-
   untrained groups routinely produce testable, illustrated reasoning on
   threatening issues. More facilitator-reported workshop cases cannot
   settle it.
-title: 'Organizations that espouse revising their governing values characteristically fail to, because the theory-in-use people actually act on keeps premises tacit and tests self-sealing, and the resulting defensive routines make the inconsistency, and its undiscussability, undiscussable; so errors are corrected within the governing values (single-loop) while the values themselves go unexamined'
+title: 'Defensive routines block double-loop learning'
+statement: >-
+  Organizations that espouse revising their governing values
+  characteristically fail to, because the theory-in-use people actually act
+  on keeps premises tacit and tests self-sealing, and the resulting
+  defensive routines make the inconsistency, and its undiscussability,
+  undiscussable; so errors are corrected within the governing values
+  (single-loop) while the values themselves go unexamined
 version: 1
 tags:
 - social-science
@@ -34,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-144 — Proposed; Rasmussen, named for a contrast -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; Longino, named for a contrast -->
 
-# THEORY-145: Organizations that espouse revising their governing values characteristically fail to, because the theory-in-use people actually act on keeps premises tacit and tests self-sealing, and the resulting defensive routines make the inconsistency, and its undiscussability, undiscussable; so errors are corrected within the governing values (single-loop) while the values themselves go unexamined
+# THEORY-145: Defensive routines block double-loop learning
 
 ## Source
 

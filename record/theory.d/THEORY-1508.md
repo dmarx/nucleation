@@ -3,7 +3,18 @@ number: 1508
 status: Active
 formerly:
 - THEORY-tmptpq58
-title: 'Chetty, Hendren and Katz find, in the Moving to Opportunity experiment, that a housing voucher requiring a family in high-poverty public housing to move to a low-poverty tract for its first year raised the adult earnings of children who moved before age 13 by about 31% at ages 24 and over, that the gain fell by about $364 a year for each year of age at the move and was absent or negative for those who moved as teenagers, and that their parents’ earnings were unchanged however long they lived in lower-poverty areas; the authors conclude that the effect runs through the amount of childhood exposure, not through family income or exposure in adulthood'
+title: 'Early moves to low poverty raise child earnings'
+statement: >-
+  Chetty, Hendren and Katz find, in the Moving to Opportunity experiment,
+  that a housing voucher requiring a family in high-poverty public housing
+  to move to a low-poverty tract for its first year raised the adult
+  earnings of children who moved before age 13 by about 31% at ages 24 and
+  over, that the gain fell by about $364 a year for each year of age at the
+  move and was absent or negative for those who moved as teenagers, and that
+  their parents’ earnings were unchanged however long they lived in
+  lower-poverty areas; the authors conclude that the effect runs through the
+  amount of childhood exposure, not through family income or exposure in
+  adulthood
 version: 2
 history:
 - version: 2
@@ -48,7 +59,7 @@ summary: >-
   not after support was withdrawn.
 ---
 
-# THEORY-1508: Chetty, Hendren and Katz find, in the Moving to Opportunity experiment, that a housing voucher requiring a family in high-poverty public housing to move to a low-poverty tract for its first year raised the adult earnings of children who moved before age 13 by about 31% at ages 24 and over, that the gain fell by about $364 a year for each year of age at the move and was absent or negative for those who moved as teenagers, and that their parents’ earnings were unchanged however long they lived in lower-poverty areas; the authors conclude that the effect runs through the amount of childhood exposure, not through family income or exposure in adulthood
+# THEORY-1508: Early moves to low poverty raise child earnings
 
 ## Source
 

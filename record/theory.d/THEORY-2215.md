@@ -3,7 +3,15 @@ number: 2215
 status: Proposed
 formerly:
 - THEORY-tmpbo3a8
-title: 'Čater, Čater and Ivašković (2026) find, in two surveys of European football fans asked how a hypothetical Super League entry would change their commitment and loyalty, that cognitive, affective and evaluative identification each predict a smaller imagined decline in commitment, cognitive most, and that imagined commitment change carries most of the imagined change in word-of-mouth and loyalty; they report that opposition to the decision moderates every identity–commitment link'
+title: 'Identification buffers fans'' commitment loss'
+statement: >-
+  Čater, Čater and Ivašković (2026) find, in two surveys of European
+  football fans asked how a hypothetical Super League entry would change
+  their commitment and loyalty, that cognitive, affective and evaluative
+  identification each predict a smaller imagined decline in commitment,
+  cognitive most, and that imagined commitment change carries most of the
+  imagined change in word-of-mouth and loyalty; they report that opposition
+  to the decision moderates every identity–commitment link
 version: 1
 source:
 - LIT-1138
@@ -29,7 +37,7 @@ summary: >-
   signs do not plainly carry the authors' reading of it.
 ---
 
-# THEORY-2215: Čater, Čater and Ivašković (2026) find, in two surveys of European football fans asked how a hypothetical Super League entry would change their commitment and loyalty, that cognitive, affective and evaluative identification each predict a smaller imagined decline in commitment, cognitive most, and that imagined commitment change carries most of the imagined change in word-of-mouth and loyalty; they report that opposition to the decision moderates every identity–commitment link
+# THEORY-2215: Identification buffers fans' commitment loss
 
 ## The account
 

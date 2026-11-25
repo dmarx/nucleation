@@ -3,7 +3,14 @@ number: 2059
 status: Proposed
 formerly:
 - THEORY-tmp1mk7r
-title: 'Hernandez and colleagues find that, in the low-data regime, pretraining a transformer on text is worth an amount of from-scratch Python data that grows as a power law in the fine-tuning data and in model size, so that it multiplies the fine-tuning data by a factor that falls as that data grows, and that outside this regime pretraining can leave small models worse than training from scratch'
+title: 'Pretraining''s data multiplier falls with data'
+statement: >-
+  Hernandez and colleagues find that, in the low-data regime, pretraining a
+  transformer on text is worth an amount of from-scratch Python data that
+  grows as a power law in the fine-tuning data and in model size, so that it
+  multiplies the fine-tuning data by a factor that falls as that data grows,
+  and that outside this regime pretraining can leave small models worse than
+  training from scratch
 version: 1
 source:
 - LIT-2853
@@ -29,7 +36,7 @@ summary: >-
   pretraining's own cost excluded. Proposed until its promote_when is met.
 ---
 
-# THEORY-2059: Hernandez and colleagues find that, in the low-data regime, pretraining a transformer on text is worth an amount of from-scratch Python data that grows as a power law in the fine-tuning data and in model size, so that it multiplies the fine-tuning data by a factor that falls as that data grows, and that outside this regime pretraining can leave small models worse than training from scratch
+# THEORY-2059: Pretraining's data multiplier falls with data
 
 ## The account
 

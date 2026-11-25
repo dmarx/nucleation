@@ -3,7 +3,13 @@ number: 228
 status: Proposed
 formerly:
 - CLAIM-tmpeqvy4
-title: 'D_obs restated over a rendering procedure, with one kernel family fitted on some source items and scored on held-out ones and the target term the readers'' response averaged over the procedure''s output, separates rendering procedures that receivers'' task-indexed recovery separates, so restated it measures observational fidelity informatively'
+title: 'Procedure-level D_obs is informative'
+statement: >-
+  D_obs restated over a rendering procedure, with one kernel family fitted
+  on some source items and scored on held-out ones and the target term the
+  readers' response averaged over the procedure's output, separates
+  rendering procedures that receivers' task-indexed recovery separates, so
+  restated it measures observational fidelity informatively
 version: 4
 history:
 - version: 2
@@ -82,7 +88,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as the claim whose measure this restates -->
 <!-- inactive-ok-file: CLAIM-258 — Proposed; open, cited for its point that Blackwell's order needs a common parameter -->
 
-# CLAIM-228: D_obs restated over a rendering procedure, with one kernel family fitted on some source items and scored on held-out ones and the target term the readers' response averaged over the procedure's output, separates rendering procedures that receivers' task-indexed recovery separates, so restated it measures observational fidelity informatively
+# CLAIM-228: Procedure-level D_obs is informative
 
 ## What it answers
 

@@ -3,7 +3,13 @@ number: 1583
 status: Active
 formerly:
 - THEORY-tmp897s8
-title: 'Leach and colleagues report that in-group identification among Dutch students has five components on two correlated higher-order dimensions, group-level self-definition and self-investment, and that faced with their group''s misdeeds, self-definition predicted group-based guilt while self-investment predicted legitimizing the misdeed'
+title: 'Self-definition predicts guilt, investment excuses'
+statement: >-
+  Leach and colleagues report that in-group identification among Dutch
+  students has five components on two correlated higher-order dimensions,
+  group-level self-definition and self-investment, and that faced with their
+  group's misdeeds, self-definition predicted group-based guilt while
+  self-investment predicted legitimizing the misdeed
 version: 2
 history:
 - version: 1
@@ -35,7 +41,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1583: Leach and colleagues report that in-group identification among Dutch students has five components on two correlated higher-order dimensions, group-level self-definition and self-investment, and that faced with their group's misdeeds, self-definition predicted group-based guilt while self-investment predicted legitimizing the misdeed
+# THEORY-1583: Self-definition predicts guilt, investment excuses
 
 ## The account
 

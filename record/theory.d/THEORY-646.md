@@ -17,7 +17,14 @@ promote_when: >-
   The first would refute the argument against the negative motivation; the
   second, against the positive one. Further statements that functionalism
   is available cannot settle it, since that is the premise in question.
-title: "Skepticism about inner mental representations does not motivate fictionalism about folk psychology, because realism about beliefs as internal, intentional, causal states does not require the representational theory of mind; and a fictionalist who lets pretence yield genuine assertions about the overall state that causes behaviour is committed to that state"
+title: 'Rep skepticism doesn''t motivate fictionalism'
+statement: >-
+  Skepticism about inner mental representations does not motivate
+  fictionalism about folk psychology, because realism about beliefs as
+  internal, intentional, causal states does not require the representational
+  theory of mind; and a fictionalist who lets pretence yield genuine
+  assertions about the overall state that causes behaviour is committed to
+  that state
 version: 1
 tags:
 - cognition
@@ -39,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-089 THEORY-461 THEORY-538 THEORY-579 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
-# THEORY-646: Skepticism about inner mental representations does not motivate fictionalism about folk psychology, because realism about beliefs as internal, intentional, causal states does not require the representational theory of mind; and a fictionalist who lets pretence yield genuine assertions about the overall state that causes behaviour is committed to that state
+# THEORY-646: Rep skepticism doesn't motivate fictionalism
 
 ## Source
 

@@ -3,7 +3,11 @@ number: 147
 status: Proposed
 formerly:
 - CLAIM-tmpjzq22
-title: 'A trope is a family of observational profiles joined by admissible transformations around a core of preserved relations, so trope instances can separate structural preservation from pragmatic preservation'
+title: 'Trope as transforms around a preserved core'
+statement: >-
+  A trope is a family of observational profiles joined by admissible
+  transformations around a core of preserved relations, so trope instances
+  can separate structural preservation from pragmatic preservation
 version: 3
 history:
 - version: 2
@@ -66,7 +70,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-167 — Proposed; named in the history as the reading the ground moved from -->
 <!-- inactive-ok-file: ARG-014 — Rejected; the argument from the catalogue's labels to this claim, cited for its verdict -->
 
-# CLAIM-147: A trope is a family of observational profiles joined by admissible transformations around a core of preserved relations, so trope instances can separate structural preservation from pragmatic preservation
+# CLAIM-147: Trope as transforms around a preserved core
 
 ## The claim
 

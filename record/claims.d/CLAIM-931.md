@@ -3,7 +3,14 @@ number: 931
 status: Proposed
 formerly:
 - CLAIM-tmp95c61
-title: 'In a simulated judgement–observation loop with action held fixed, what keeps it from locking in is a score or weight its own authority does not set, such as commitment before evidence, processing signals or exogenous capture; evidence that arrives unselected keeps it sighted but does not anchor it while authority decides how it is attended, and the anchors are redundant, so none is necessary when the others are present'
+title: 'Unset scores keep the loop from locking in'
+statement: >-
+  In a simulated judgement–observation loop with action held fixed, what
+  keeps it from locking in is a score or weight its own authority does not
+  set, such as commitment before evidence, processing signals or exogenous
+  capture; evidence that arrives unselected keeps it sighted but does not
+  anchor it while authority decides how it is attended, and the anchors are
+  redundant, so none is necessary when the others are present
 version: 1
 history:
 - version: 1
@@ -57,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-353 — new; the study this claim grounds on, filed in the same contribution -->
 <!-- inactive-ok-file: TERM-147 — new on staging; the distinction between senses of independent scoring filed for LEAD-121 -->
 
-# CLAIM-931: In a simulated judgement–observation loop with action held fixed, what keeps it from locking in is a score or weight its own authority does not set, such as commitment before evidence, processing signals or exogenous capture; evidence that arrives unselected keeps it sighted but does not anchor it while authority decides how it is attended, and the anchors are redundant, so none is necessary when the others are present
+# CLAIM-931: Unset scores keep the loop from locking in
 
 ## The claim
 

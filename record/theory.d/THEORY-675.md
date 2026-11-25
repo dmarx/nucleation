@@ -13,7 +13,13 @@ promote_when: >-
   property, and refuted if barriers stay flat as it varies or move with
   the architecture instead. Correlations read off plots, and bounds whose
   proofs are missing or whose assumptions conflict, cannot settle it.
-title: "Without a shared stable start, the linear barrier between solutions of one objective depends on the structure of the training data: between GCNs it falls with graph density and feature separability and is highest at middling homophily, and between federated-averaging models it grows with client heterogeneity and falls with width"
+title: 'Linear barriers depend on data structure'
+statement: >-
+  Without a shared stable start, the linear barrier between solutions of one
+  objective depends on the structure of the training data: between GCNs it
+  falls with graph density and feature separability and is highest at
+  middling homophily, and between federated-averaging models it grows with
+  client heterogeneity and falls with width
 version: 1
 tags:
 - loss-landscapes
@@ -41,7 +47,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-676 — Proposed; one of the two readings this account rests on, which is why it is Proposed -->
 <!-- inactive-ok-file: THEORY-109 THEORY-115 THEORY-557 — Proposed; neighbouring connectivity accounts named in Connections, not leaned on -->
 
-# THEORY-675: Without a shared stable start, the linear barrier between solutions of one objective depends on the structure of the training data: between GCNs it falls with graph density and feature separability and is highest at middling homophily, and between federated-averaging models it grows with client heterogeneity and falls with width
+# THEORY-675: Linear barriers depend on data structure
 
 ## Source
 

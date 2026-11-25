@@ -3,7 +3,13 @@ number: 1118
 status: Proposed
 formerly:
 - CLAIM-tmpjk3nm
-title: "Under a pseudometric that compares perspectives by their probabilities of answering adequately, no two perspectives are further apart than the coverage of the ecology that holds them, so perspectives that are all consistently wrong are close under it however differently they answer, and diversity without coverage needs a metric on what is answered"
+title: 'Diversity without coverage needs another metric'
+statement: >-
+  Under a pseudometric that compares perspectives by their probabilities of
+  answering adequately, no two perspectives are further apart than the
+  coverage of the ecology that holds them, so perspectives that are all
+  consistently wrong are close under it however differently they answer, and
+  diversity without coverage needs a metric on what is answered
 version: 1
 role: thesis
 warrant: demonstrated
@@ -36,7 +42,7 @@ summary: >-
 
 <!-- inactive-ok-file: TERM-158 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
-# CLAIM-1118: Under a pseudometric that compares perspectives by their probabilities of answering adequately, no two perspectives are further apart than the coverage of the ecology that holds them, so perspectives that are all consistently wrong are close under it however differently they answer, and diversity without coverage needs a metric on what is answered
+# CLAIM-1118: Diversity without coverage needs another metric
 
 ## The gap
 

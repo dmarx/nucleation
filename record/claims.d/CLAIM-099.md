@@ -3,7 +3,10 @@ number: 99
 status: Active
 formerly:
 - CLAIM-tmpswafr
-title: 'Maintaining a regime of effective action and maintaining the capacity to govern among regimes are not the same achievement'
+title: 'Acting and governing among regimes differ'
+statement: >-
+  Maintaining a regime of effective action and maintaining the capacity to
+  govern among regimes are not the same achievement
 version: 4
 history:
 - version: 2
@@ -57,7 +60,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-916 CLAIM-917 CLAIM-915 CASE-342 — new, filed under LEAD-053 on 2026-11-22 -->
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 
-# CLAIM-099: Maintaining a regime of effective action and maintaining the capacity to govern among regimes are not the same achievement
+# CLAIM-099: Acting and governing among regimes differ
 
 ## The claim
 

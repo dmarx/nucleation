@@ -3,7 +3,14 @@ number: 886
 status: Proposed
 formerly:
 - CLAIM-tmpdsv4t
-title: 'Symmetric competition with bounded niche adaptation does not secure recovery against residents that re-adapt: in a two-resource trade-off, a stable pair of specialists, each recovering when rare against a frozen partner, coexists with a stable lone generalist against which a removed specialist has negative growth, and a lone specialist leaves its corner for the vacated niche when c/B < a''(0)/a''(1)'
+title: 'No recovery against re-adapting residents'
+statement: >-
+  Symmetric competition with bounded niche adaptation does not secure
+  recovery against residents that re-adapt: in a two-resource trade-off, a
+  stable pair of specialists, each recovering when rare against a frozen
+  partner, coexists with a stable lone generalist against which a removed
+  specialist has negative growth, and a lone specialist leaves its corner
+  for the vacated niche when c/B < a'(0)/a'(1)
 version: 1
 history:
 - version: 1
@@ -58,7 +65,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-885 CASE-322 — new, filed with this claim by LEAD-049 -->
 
-# CLAIM-886: Symmetric competition with bounded niche adaptation does not secure recovery against residents that re-adapt: in a two-resource trade-off, a stable pair of specialists, each recovering when rare against a frozen partner, coexists with a stable lone generalist against which a removed specialist has negative growth, and a lone specialist leaves its corner for the vacated niche when c/B < a'(0)/a'(1)
+# CLAIM-886: No recovery against re-adapting residents
 
 ## The claim
 

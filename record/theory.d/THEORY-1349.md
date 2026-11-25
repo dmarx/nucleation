@@ -3,7 +3,14 @@ number: 1349
 status: Active
 formerly:
 - THEORY-tmpymwd8
-title: 'In two cross-lagged panel studies of university students, a negatively worded self-report of need frustration predicted later depressive symptoms (standardized β .13 to .18 over three lags) and later negative affect, net of earlier depression and negative affect, while negative affect did not predict later depression; depression also predicted later need frustration at one lag of two'
+title: 'Need frustration predicts later depression'
+statement: >-
+  In two cross-lagged panel studies of university students, a negatively
+  worded self-report of need frustration predicted later depressive symptoms
+  (standardized β .13 to .18 over three lags) and later negative affect, net
+  of earlier depression and negative affect, while negative affect did not
+  predict later depression; depression also predicted later need frustration
+  at one lag of two
 version: 2
 history:
 - version: 2
@@ -31,7 +38,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-1311 — Proposed; neighbours cited as open -->
 
-# THEORY-1349: In two cross-lagged panel studies of university students, a negatively worded self-report of need frustration predicted later depressive symptoms (standardized β .13 to .18 over three lags) and later negative affect, net of earlier depression and negative affect, while negative affect did not predict later depression; depression also predicted later need frustration at one lag of two
+# THEORY-1349: Need frustration predicts later depression
 
 ## Source
 

@@ -3,10 +3,12 @@ number: 296
 status: Active
 formerly:
 - CLAIM-tmp9gt89
-title: What a system has, what it knows it has, and what it can deploy within a
-  task's deadline are different, and the last is a relation among the resource,
-  the agent, its environment, the task, the deadline and the cue, not a property
-  of any one of them
+title: 'Deployability is a relation, not a property'
+statement: >-
+  What a system has, what it knows it has, and what it can deploy within a
+  task's deadline are different, and the last is a relation among the
+  resource, the agent, its environment, the task, the deadline and the cue,
+  not a property of any one of them
 version: 3
 history:
 - version: 2
@@ -66,7 +68,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-1060 LIT-1065 — Unavailable; held without a reading, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: CASE-201 CASE-211 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
-# CLAIM-296: What a system has, what it knows it has, and what it can deploy within a task's deadline are different, and the last is a relation among the resource, the agent, its environment, the task, the deadline and the cue, not a property of any one of them
+# CLAIM-296: Deployability is a relation, not a property
 
 ## The claim
 

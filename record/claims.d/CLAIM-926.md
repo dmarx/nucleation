@@ -3,7 +3,13 @@ number: 926
 status: Proposed
 formerly:
 - CLAIM-tmp2jbb1
-title: 'On populations matched in turnover and aggregate statistics, a priced lagged block test finds a population held together by delayed transmission, with its lag, but rejects a commonly driven population only while the common input is observed, and gives a commonly driven population and an institutionally maintained one the same boundary'
+title: 'Lagged block test cannot see common drive'
+statement: >-
+  On populations matched in turnover and aggregate statistics, a priced
+  lagged block test finds a population held together by delayed
+  transmission, with its lag, but rejects a commonly driven population only
+  while the common input is observed, and gives a commonly driven population
+  and an institutionally maintained one the same boundary
 version: 1
 role: thesis
 warrant: demonstrated
@@ -54,7 +60,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-157 CLAIM-167 LIT-005 — Proposed; the block criterion this applies, the claim on one-way drive it is read with, and Bourrat's paper -->
 <!-- inactive-ok-file: CASE-347 — new, filed with this claim -->
 
-# CLAIM-926: On populations matched in turnover and aggregate statistics, a priced lagged block test finds a population held together by delayed transmission, with its lag, but rejects a commonly driven population only while the common input is observed, and gives a commonly driven population and an institutionally maintained one the same boundary
+# CLAIM-926: Lagged block test cannot see common drive
 
 ## The claim
 

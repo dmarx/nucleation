@@ -3,7 +3,14 @@ number: 290
 status: Active
 formerly:
 - THEORY-tmpvtupa
-title: "In a two-debater, three-proposition model of deductive debate whose payoff trades true beliefs against changes of mind, the most truth-conducive equilibrium can fall short of the truth-optimal profile because one debater free-rides on the other's belief-disrupting arguments, and in a narrow band of mixed equilibria a higher weight on truth gives lower equilibrium accuracy"
+title: 'Debate equilibria can fall short of truth'
+statement: >-
+  In a two-debater, three-proposition model of deductive debate whose payoff
+  trades true beliefs against changes of mind, the most truth-conducive
+  equilibrium can fall short of the truth-optimal profile because one
+  debater free-rides on the other's belief-disrupting arguments, and in a
+  narrow band of mixed equilibria a higher weight on truth gives lower
+  equilibrium accuracy
 version: 3
 history:
 - version: 2
@@ -48,7 +55,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-148 — Proposed; the transient-diversity account this one is set beside -->
 
-# THEORY-290: In a two-debater, three-proposition model of deductive debate whose payoff trades true beliefs against changes of mind, the most truth-conducive equilibrium can fall short of the truth-optimal profile because one debater free-rides on the other's belief-disrupting arguments, and in a narrow band of mixed equilibria a higher weight on truth gives lower equilibrium accuracy
+# THEORY-290: Debate equilibria can fall short of truth
 
 ## Source
 

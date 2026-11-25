@@ -3,7 +3,14 @@ number: 1244
 status: Proposed
 formerly:
 - CLAIM-tmp8bimm
-title: 'Cooperation yields a regulatory surplus, the monitoring, verification, contingency planning and conflict resolution that reliance makes unnecessary, and the surplus can be captured asymmetrically: as the relationship comes to rest on the party better at maintaining it, the other can divest its own regulatory capacity while the first keeps bearing the cost, under the same visible harmony as a relationship that shares it'
+title: 'Regulatory surplus can be captured asymmetrically'
+statement: >-
+  Cooperation yields a regulatory surplus, the monitoring, verification,
+  contingency planning and conflict resolution that reliance makes
+  unnecessary, and the surplus can be captured asymmetrically: as the
+  relationship comes to rest on the party better at maintaining it, the
+  other can divest its own regulatory capacity while the first keeps bearing
+  the cost, under the same visible harmony as a relationship that shares it
 version: 1
 role: thesis
 warrant: interpretive
@@ -56,7 +63,7 @@ summary: >-
 
 <!-- inactive-ok-file: TERM-123 CLAIM-713 CLAIM-700 CLAIM-744 LIT-3208 — Proposed or Deferred; the term, the held claims on exploited commitment, compensation and waiting, the claim, work and lead filed with this -->
 
-# CLAIM-1244: Cooperation yields a regulatory surplus, the monitoring, verification, contingency planning and conflict resolution that reliance makes unnecessary, and the surplus can be captured asymmetrically: as the relationship comes to rest on the party better at maintaining it, the other can divest its own regulatory capacity while the first keeps bearing the cost, under the same visible harmony as a relationship that shares it
+# CLAIM-1244: Regulatory surplus can be captured asymmetrically
 
 ## The claim
 

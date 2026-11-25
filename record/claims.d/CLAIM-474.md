@@ -3,7 +3,20 @@ number: 474
 status: Active
 formerly:
 - CLAIM-tmpgubhp
-title: 'From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them'
+title: 'Organizational achievements form a partial order'
+statement: >-
+  From interconnection to individuation, the relationships are distinct
+  achievements that form a partial order, not a nested sequence: none
+  implies the next, and a later one need not require every earlier one.
+  Interconnection fixes what joint behaviour is possible, compatibility
+  which local descriptions admit a coherent whole, dynamics which
+  organizations persist, individuation which have sufficiently robust
+  identity and boundaries, organizational autonomy which help maintain their
+  own constitutive constraints, and inquiry which can measure and revise
+  their own models and apparatuses under resource bounds, inquiry and
+  reconstruction occurring without autonomy. The research program is to find
+  the conditions for each, and their dependencies, apart from the order in
+  which an inquiry meets them
 version: 8
 history:
 - version: 2
@@ -163,7 +176,7 @@ summary: >-
 <!-- ref::uses-file: TERM-092 — "Askable without answerable", "Formulating a question is itself bounded", is TERM-092's inquiry frontier, kept apart from what the evidence can answer -->
 <!-- ref::uses-file: TERM-093 — QUESTION-282's "how correspondence structures are themselves generated", and CASE-179's correspondence maps manipulated apart from physical coupling, are TERM-093's correspondence structure -->
 
-# CLAIM-474: From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them
+# CLAIM-474: Organizational achievements form a partial order
 
 *Returned to CLAIM from [SYNTHESIS-006](../syntheses.d/SYNTHESIS-006.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 

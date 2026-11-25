@@ -3,7 +3,15 @@ number: 100
 status: Proposed
 formerly:
 - SYNTHESIS-tmpnj844
-title: "The argument filed from the exchange Assess Depp Heard Abuse, both shares, mapped: A's last thesis, the organization of rightful power, is mostly a recap of six part accounts and a thread on friction and throughput; beyond them it carries a definition filed as a term and a discriminating question against contractualism held open; it grew through A's syntheses, each prompted by an owner's turn, and through reviews the owner forwarded; the readings of its works corroborate many components and narrow three"
+title: 'Depp Heard exchange: rightful power mostly recap'
+statement: >-
+  The argument filed from the exchange Assess Depp Heard Abuse, both shares,
+  mapped: A's last thesis, the organization of rightful power, is mostly a
+  recap of six part accounts and a thread on friction and throughput; beyond
+  them it carries a definition filed as a term and a discriminating question
+  against contractualism held open; it grew through A's syntheses, each
+  prompted by an owner's turn, and through reviews the owner forwarded; the
+  readings of its works corroborate many components and narrow three
 version: 5
 history:
 - version: 2
@@ -178,7 +186,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-115 ARG-116 ARG-117 CASE-292 THEORY-1912 THEORY-1914 THEORY-1915 THEORY-1916 THEORY-1917 THEORY-1919 THEORY-1920 THEORY-1921 THEORY-1923 THEORY-1925 THEORY-1928 THEORY-1929 THEORY-1931 THEORY-1932 THEORY-1933 THEORY-1938 THEORY-1939 THEORY-1941 THEORY-1943 THEORY-1946 THEORY-1947 THEORY-1948 THEORY-1949 THEORY-1952 THEORY-1953 THEORY-1957 THEORY-1958 THEORY-1959 THEORY-1961 THEORY-1962 THEORY-1963 THEORY-1966 THEORY-1967 THEORY-1968 THEORY-1972 THEORY-1974 THEORY-1975 THEORY-1976 THEORY-1977 THEORY-1979 THEORY-1981 THEORY-1984 THEORY-1985 THEORY-1986 THEORY-1988 THEORY-1991 THEORY-1992 THEORY-1993 — the readings of 2026-11-16 and 2026-11-18 and what they filed, Proposed; cited as the support components have -->
 <!-- inactive-ok-file: CLAIM-545 CLAIM-553 CLAIM-619 CLAIM-624 CLAIM-670 CLAIM-682 CLAIM-684 TERM-083 TERM-124 — Proposed; held entries the thesis's components map to, and the test cited, with their standing -->
 
-# SYNTHESIS-100: The argument filed from the exchange Assess Depp Heard Abuse, both shares, mapped: A's last thesis, the organization of rightful power, is mostly a recap of six part accounts and a thread on friction and throughput; beyond them it carries a definition filed as a term and a discriminating question against contractualism held open; it grew through A's syntheses, each prompted by an owner's turn, and through reviews the owner forwarded; the readings of its works corroborate many components and narrow three
+# SYNTHESIS-100: Depp Heard exchange: rightful power mostly recap
 
 *An account of the argument filed from one exchange, "Assess Depp Heard Abuse", in two shares. The first share (https://chatgpt.com/share/6afa2a8d-2598-83ea-8d1a-d9ceb992a99c; turns U1 to U17 and A1 to A35, 2026-11-15) was filed on 2026-11-15 (the curation entry of 2026-11-15, 22:16:46; pull request 510), and three reviews of that filing, ChatGPT's and forwarded by the owner on 2026-11-16, added to it. The continuation (https://chatgpt.com/share/6afcb46d-83a8-83e9-9c85-4a0c3604405b; turns U1 to U48 and A1 to A110, 2026-11-15 18:15 to 2026-11-17 17:39 UTC), whose turns coincide with the first share's up to U17, was filed on 2026-11-17 (the curation entry of 2026-11-17, 20:57:46). On 2026-11-18 the two filings were reconciled: nine of the continuation's entries were folded into the first filing's, which kept their codes and took what the continuation added; "both filings" below means an entry so reconciled. This account was filed at the owner's request of 2026-11-17 for "synthesis items we ought to file as part of documenting the progress of this conversation", over the six part accounts of the interim synthesis review of that day, and revised at the follow-up review of 2026-11-18, after the readings of the exchange's works (the first filing's of 2026-11-16 and the continuation's of 2026-11-18, pull request 514). The line accounts are [SYNTHESIS-095](SYNTHESIS-095.md) (dependence-and-domination) and [SYNTHESIS-038](SYNTHESIS-038.md) (organizational-normativity). "U" turns are the owner's and "A" turns the other assistant's (ChatGPT); "the assistant" is Claude, whose own ideas the owner accepted at the first filing. The owner's turns are mostly prompts, and where a turn has content of its own the curation entries list it. Every quotation is checked against the exchange's verbatim export. The account adds nothing: what the thesis says beyond its components is listed under "Not stated on the record".*
 

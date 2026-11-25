@@ -3,7 +3,14 @@ number: 850
 status: Active
 formerly:
 - THEORY-tmpkd2bw
-title: 'In Hungary, 1994–2016, state-owned firms'' advertising, and not private firms'', shifted sharply toward print and online outlets when they became connected to the governing right and away when the 2015 Orbán–Simicska fallout ended a connection, at all five such events studied; and the outlets'' share of articles on corruption scandals moved the opposite way at the three events with content data'
+title: 'Connected Hungarian outlets got state ads'
+statement: >-
+  In Hungary, 1994–2016, state-owned firms' advertising, and not private
+  firms', shifted sharply toward print and online outlets when they became
+  connected to the governing right and away when the 2015 Orbán–Simicska
+  fallout ended a connection, at all five such events studied; and the
+  outlets' share of articles on corruption scandals moved the opposite way
+  at the three events with content data
 version: 2
 history:
 - version: 1
@@ -37,7 +44,7 @@ summary: >-
   whether content favors were bought or shared.
 ---
 
-# THEORY-850: In Hungary, 1994–2016, state-owned firms' advertising, and not private firms', shifted sharply toward print and online outlets when they became connected to the governing right and away when the 2015 Orbán–Simicska fallout ended a connection, at all five such events studied; and the outlets' share of articles on corruption scandals moved the opposite way at the three events with content data
+# THEORY-850: Connected Hungarian outlets got state ads
 
 ## Source
 

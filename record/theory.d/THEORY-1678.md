@@ -3,7 +3,15 @@ number: 1678
 status: Proposed
 formerly:
 - THEORY-tmpd4kon
-title: 'Næss argues, from a public-goods model and survey experiments in Norway, the US and the UK, that investigative journalism is underprovided by markets because its value, summed over everyone who benefits, far exceeds what any seller can collect, that making its output exclusive does not raise what people will pay, and that public funding through broadcasters wins majority support in some countries but loses it where the broadcaster is seen as politically biased.'
+title: 'Markets underprovide investigative journalism'
+statement: >-
+  Næss argues, from a public-goods model and survey experiments in Norway,
+  the US and the UK, that investigative journalism is underprovided by
+  markets because its value, summed over everyone who benefits, far exceeds
+  what any seller can collect, that making its output exclusive does not
+  raise what people will pay, and that public funding through broadcasters
+  wins majority support in some countries but loses it where the broadcaster
+  is seen as politically biased.
 version: 1
 source:
 - LIT-2394
@@ -28,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1750 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1678: Næss argues, from a public-goods model and survey experiments in Norway, the US and the UK, that investigative journalism is underprovided by markets because its value, summed over everyone who benefits, far exceeds what any seller can collect, that making its output exclusive does not raise what people will pay, and that public funding through broadcasters wins majority support in some countries but loses it where the broadcaster is seen as politically biased.
+# THEORY-1678: Markets underprovide investigative journalism
 
 ## The account
 

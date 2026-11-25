@@ -3,7 +3,13 @@ number: 983
 status: Proposed
 formerly:
 - CLAIM-tmp5koor
-title: 'In the transmission criterion of identity over time, a maintainer that restores an individual from the organization it finds in it is a channel of transmission, never part of what is transmitted, so replacing the maintainer with an unrelated one breaks no continuation and the criterion is met or failed by the path through the individual itself'
+title: 'Maintainer is channel, not content transmitted'
+statement: >-
+  In the transmission criterion of identity over time, a maintainer that
+  restores an individual from the organization it finds in it is a channel
+  of transmission, never part of what is transmitted, so replacing the
+  maintainer with an unrelated one breaks no continuation and the criterion
+  is met or failed by the path through the individual itself
 version: 2
 history:
 - version: 2
@@ -69,7 +75,7 @@ works:
 <!-- inactive-ok-file: CLAIM-615 CLAIM-611 CLAIM-617 CASE-223 — Proposed; the claim whose slot this fills, its premise read here, the claim on community verdicts and the owner's study -->
 <!-- inactive-ok-file: CLAIM-986 ARG-216 — new; the alternative reading and the argument both share -->
 
-# CLAIM-983: In the transmission criterion of identity over time, a maintainer that restores an individual from the organization it finds in it is a channel of transmission, never part of what is transmitted, so replacing the maintainer with an unrelated one breaks no continuation and the criterion is met or failed by the path through the individual itself
+# CLAIM-983: Maintainer is channel, not content transmitted
 
 **Reading (a), an alternative to [CLAIM-986](CLAIM-986.md).** Filed for [LEAD-163](../leads.d/LEAD-163.md).
 

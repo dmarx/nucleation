@@ -3,7 +3,14 @@ number: 1128
 status: Active
 formerly:
 - CLAIM-tmpl1hgv
-title: 'What a team''s separable members supply is separable sites of intervention, not separable units of perspective: they make a team an experimental model of self-like organization, since members can be questioned, given evidence, denied access, replaced or removed one at a time, while the team''s own dispositions may depend on relations among them that no member''s isolated profile records'
+title: 'Members are separable sites of intervention'
+statement: >-
+  What a team's separable members supply is separable sites of intervention,
+  not separable units of perspective: they make a team an experimental model
+  of self-like organization, since members can be questioned, given
+  evidence, denied access, replaced or removed one at a time, while the
+  team's own dispositions may depend on relations among them that no
+  member's isolated profile records
 version: 2
 history:
 - version: 2
@@ -55,7 +62,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1039 CLAIM-1159 — Proposed; claims and the term filed from the same turns -->
 
-# CLAIM-1128: What a team's separable members supply is separable sites of intervention, not separable units of perspective: they make a team an experimental model of self-like organization, since members can be questioned, given evidence, denied access, replaced or removed one at a time, while the team's own dispositions may depend on relations among them that no member's isolated profile records
+# CLAIM-1128: Members are separable sites of intervention
 
 ## The claim
 

@@ -3,7 +3,18 @@ number: 409
 status: Active
 formerly:
 - CLAIM-tmpshzxc
-title: 'For one state law, one intervention distribution and one outcome, a deficiency of sufficiency cannot increase under refinement: if T₁ = g∘T₂ then Γ(T₂) ≤ Γ(T₁); informational closure, by contrast, is monotone in neither direction, since in the three-bit chain of Rosas et al. (2024) A is closed, its refinement (A, B) is not and the full state refining that is closed again, while A⊕B, a coarsening of (A, B), is not closed either; closure fails to be monotone because refining a description changes the future it must predict as well as the evidence, so Blackwell dominance, which every deterministic refinement has over its coarsening, does not order closure'
+title: 'Sufficiency deficiency is monotone, closure isn''t'
+statement: >-
+  For one state law, one intervention distribution and one outcome, a
+  deficiency of sufficiency cannot increase under refinement: if T₁ = g∘T₂
+  then Γ(T₂) ≤ Γ(T₁); informational closure, by contrast, is monotone in
+  neither direction, since in the three-bit chain of Rosas et al. (2024) A
+  is closed, its refinement (A, B) is not and the full state refining that
+  is closed again, while A⊕B, a coarsening of (A, B), is not closed either;
+  closure fails to be monotone because refining a description changes the
+  future it must predict as well as the evidence, so Blackwell dominance,
+  which every deterministic refinement has over its coarsening, does not
+  order closure
 version: 3
 history:
 - version: 2
@@ -61,7 +72,7 @@ bears_on:
 - QUESTION-218
 ---
 
-# CLAIM-409: For one state law, one intervention distribution and one outcome, a deficiency of sufficiency cannot increase under refinement: if T₁ = g∘T₂ then Γ(T₂) ≤ Γ(T₁); informational closure, by contrast, is monotone in neither direction, since in the three-bit chain of Rosas et al. (2024) A is closed, its refinement (A, B) is not and the full state refining that is closed again, while A⊕B, a coarsening of (A, B), is not closed either; closure fails to be monotone because refining a description changes the future it must predict as well as the evidence, so Blackwell dominance, which every deterministic refinement has over its coarsening, does not order closure
+# CLAIM-409: Sufficiency deficiency is monotone, closure isn't
 
 ## The claim
 

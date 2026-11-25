@@ -10,7 +10,14 @@ promote_when: >-
   independent reimplementation or a later benchmark paper, under the same
   filtered protocol, reports HolE ahead of TransE, TransR, ER-MLP and
   RESCAL on filtered MRR on WN18 and FB15k.
-title: 'Nickel, Rosasco and Poggio score a knowledge-graph triple by σ(r_pᵀ(e_s ⋆ e_o)) with circular correlation ⋆, an operator that compresses the subject–object tensor product into d components at O(d) memory and O(d log d) time and is non-commutative, so it can model asymmetric relations; with all models reimplemented under one loss and optimizer it gave the highest filtered MRR on WN18 and FB15k against TransE, TransR, ER-MLP and RESCAL'
+title: 'Circular correlation scores asymmetric relations'
+statement: >-
+  Nickel, Rosasco and Poggio score a knowledge-graph triple by σ(r_pᵀ(e_s ⋆
+  e_o)) with circular correlation ⋆, an operator that compresses the
+  subject–object tensor product into d components at O(d) memory and O(d log
+  d) time and is non-commutative, so it can model asymmetric relations; with
+  all models reimplemented under one loss and optimizer it gave the highest
+  filtered MRR on WN18 and FB15k against TransE, TransR, ER-MLP and RESCAL
 version: 1
 tags:
 - representation-learning
@@ -28,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1876 — Proposed or Skimmed entries of this filing -->
 
-# THEORY-1883: Nickel, Rosasco and Poggio score a knowledge-graph triple by σ(r_pᵀ(e_s ⋆ e_o)) with circular correlation ⋆, an operator that compresses the subject–object tensor product into d components at O(d) memory and O(d log d) time and is non-commutative, so it can model asymmetric relations; with all models reimplemented under one loss and optimizer it gave the highest filtered MRR on WN18 and FB15k against TransE, TransR, ER-MLP and RESCAL
+# THEORY-1883: Circular correlation scores asymmetric relations
 
 Nickel, Rosasco & Poggio (2016), [LIT-2624](../literature.d/LIT-2624.md); read in [NOTE-1977](../notes.d/NOTE-1977.md).
 

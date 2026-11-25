@@ -3,7 +3,12 @@ number: 27
 status: Active
 formerly:
 - CLAIM-tmp8swu5
-title: 'Which of an agent''s available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them'
+title: 'Effective regime set by maintained relations'
+statement: >-
+  Which of an agent's available regimes becomes effective depends on
+  maintained relations — accessibility, precedence, persistence,
+  jurisdiction, suspension and transformation — that are not reducible to
+  the contents of the competing regimes, whatever mechanisms realize them
 version: 5
 history:
 - version: 2
@@ -82,7 +87,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-089 — Rejected; answered on 2026-10-27, cited as the history of this claim's objections -->
 <!-- inactive-ok-file: ARG-215 — new in this filing and Proposed or Rejected; the support verdict of LEAD-141, cited as open -->
 
-# CLAIM-027: Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them
+# CLAIM-027: Effective regime set by maintained relations
 
 ## The claim
 

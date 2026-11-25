@@ -3,7 +3,12 @@ number: 933
 status: Proposed
 formerly:
 - CLAIM-tmpcpr7t
-title: 'In small models trained by gradient descent on MSE without continual re-whitening, the whitened class-separation singular values neither grow as (4t/N)^(1/4) nor tend to equality, so the quarter-power law describes the renormalized flow and not gradient descent'
+title: 'Quarter-power law is not gradient descent'
+statement: >-
+  In small models trained by gradient descent on MSE without continual
+  re-whitening, the whitened class-separation singular values neither grow
+  as (4t/N)^(1/4) nor tend to equality, so the quarter-power law describes
+  the renormalized flow and not gradient descent
 version: 1
 history:
 - version: 1
@@ -55,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-797 CASE-352 — Proposed or new; the proposal this claim bears against and the study it rests on -->
 
-# CLAIM-933: In small models trained by gradient descent on MSE without continual re-whitening, the whitened class-separation singular values neither grow as (4t/N)^(1/4) nor tend to equality, so the quarter-power law describes the renormalized flow and not gradient descent
+# CLAIM-933: Quarter-power law is not gradient descent
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 903
 status: Active
 formerly:
 - CLAIM-tmpo7igy
-title: 'In a network of oscillators, passive tests of timing and of gluing cannot tell a shared drive from coupling among the members, while displacing the drive for one member only, perturbing one member, or withdrawing the drive can; and a revision of the correspondence maps that only restores consistency makes an apparatus coherent without making it predict interventions it did not choose'
+title: 'Passive tests cannot tell drive from coupling'
+statement: >-
+  In a network of oscillators, passive tests of timing and of gluing cannot
+  tell a shared drive from coupling among the members, while displacing the
+  drive for one member only, perturbing one member, or withdrawing the drive
+  can; and a revision of the correspondence maps that only restores
+  consistency makes an apparatus coherent without making it predict
+  interventions it did not choose
 version: 2
 history:
 - version: 2
@@ -64,7 +71,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-616 — Proposed; the laboratory claim this result bears on -->
 
-# CLAIM-903: In a network of oscillators, passive tests of timing and of gluing cannot tell a shared drive from coupling among the members, while displacing the drive for one member only, perturbing one member, or withdrawing the drive can; and a revision of the correspondence maps that only restores consistency makes an apparatus coherent without making it predict interventions it did not choose
+# CLAIM-903: Passive tests cannot tell drive from coupling
 
 ## The claim
 

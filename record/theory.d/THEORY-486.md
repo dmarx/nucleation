@@ -14,7 +14,13 @@ promote_when: >-
   be part of it. A gap found in either step would refute the account as
   stated. More worked examples, and figures matching flowlines to
   augmentation terms, cannot settle it.
-title: "For exact Betti Lagrangians in the cotangent bundle of a punctured surface, a finite creative spectral network exists, a point lies on its active walls exactly when a pseudo-holomorphic strip survives the adiabatic limit, and the Family Floer functor equals Gaiotto–Moore–Neitzke non-abelianization there"
+title: 'Family Floer equals GMN non-abelianization'
+statement: >-
+  For exact Betti Lagrangians in the cotangent bundle of a punctured
+  surface, a finite creative spectral network exists, a point lies on its
+  active walls exactly when a pseudo-holomorphic strip survives the
+  adiabatic limit, and the Family Floer functor equals Gaiotto–Moore–Neitzke
+  non-abelianization there
 version: 1
 tags:
 - mathematics
@@ -35,7 +41,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-017 — Proposed; the account is filed Proposed for the same reason the reading placed the paper there -->
 
-# THEORY-486: For exact Betti Lagrangians in the cotangent bundle of a punctured surface, a finite creative spectral network exists, a point lies on its active walls exactly when a pseudo-holomorphic strip survives the adiabatic limit, and the Family Floer functor equals Gaiotto–Moore–Neitzke non-abelianization there
+# THEORY-486: Family Floer equals GMN non-abelianization
 
 ## Source
 

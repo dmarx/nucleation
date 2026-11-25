@@ -3,7 +3,13 @@ number: 1521
 status: Active
 formerly:
 - THEORY-tmpv1dwq
-title: 'Macnamara and colleagues argue that when automation performs a subtask while the operator goes on doing the task, the operator''s skill at that subtask decays from disuse, the cognitive part more than the procedural part, and may do so out of the operator''s awareness, because the task itself is still done and still succeeds'
+title: 'Automated subtasks'' skills decay unnoticed'
+statement: >-
+  Macnamara and colleagues argue that when automation performs a subtask
+  while the operator goes on doing the task, the operator's skill at that
+  subtask decays from disuse, the cognitive part more than the procedural
+  part, and may do so out of the operator's awareness, because the task
+  itself is still done and still succeeds
 version: 4
 history:
 - version: 2
@@ -67,7 +73,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1545 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2225 — Unavailable; the unread original this reading stands in for -->
 
-# THEORY-1521: Macnamara and colleagues argue that when automation performs a subtask while the operator goes on doing the task, the operator's skill at that subtask decays from disuse, the cognitive part more than the procedural part, and may do so out of the operator's awareness, because the task itself is still done and still succeeds
+# THEORY-1521: Automated subtasks' skills decay unnoticed
 
 ## Source
 

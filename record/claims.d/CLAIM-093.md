@@ -3,7 +3,11 @@ number: 93
 status: Active
 formerly:
 - CLAIM-tmprdod5
-title: 'Not every invariance of a stochastic or communicative process implies a Noether conservation law: the symmetry principle can be borrowed, a conservation analogue has to be derived'
+title: 'Not every invariance gives a Noether law'
+statement: >-
+  Not every invariance of a stochastic or communicative process implies a
+  Noether conservation law: the symmetry principle can be borrowed, a
+  conservation analogue has to be derived
 version: 2
 history:
 - version: 2
@@ -38,7 +42,7 @@ bears_on:
 - QUESTION-006
 ---
 
-# CLAIM-093: Not every invariance of a stochastic or communicative process implies a Noether conservation law: the symmetry principle can be borrowed, a conservation analogue has to be derived
+# CLAIM-093: Not every invariance gives a Noether law
 
 ## The claim
 

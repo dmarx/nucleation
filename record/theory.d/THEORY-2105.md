@@ -3,7 +3,14 @@ number: 2105
 status: Proposed
 formerly:
 - THEORY-tmpeicz2
-title: 'Tomasello argues that human communication is cooperative at base, pointing and pantomime working without conventions through an overt communicative intention, motives of requesting, informing and sharing, and common ground, on an infrastructure of shared intentionality evolved for collaboration, and that arbitrary conventions were built later on such natural gestures, which great apes lack'
+title: 'Human communication is cooperative at base'
+statement: >-
+  Tomasello argues that human communication is cooperative at base, pointing
+  and pantomime working without conventions through an overt communicative
+  intention, motives of requesting, informing and sharing, and common
+  ground, on an infrastructure of shared intentionality evolved for
+  collaboration, and that arbitrary conventions were built later on such
+  natural gestures, which great apes lack
 version: 1
 source:
 - LIT-2910
@@ -23,7 +30,7 @@ summary: >-
   [LIT-2903](../literature.d/LIT-2903.md). Proposed until its promote_when is met.
 ---
 
-# THEORY-2105: Tomasello argues that human communication is cooperative at base, pointing and pantomime working without conventions through an overt communicative intention, motives of requesting, informing and sharing, and common ground, on an infrastructure of shared intentionality evolved for collaboration, and that arbitrary conventions were built later on such natural gestures, which great apes lack
+# THEORY-2105: Human communication is cooperative at base
 
 ## The account
 

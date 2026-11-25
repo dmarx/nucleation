@@ -3,7 +3,11 @@ number: 96
 status: Deferred
 formerly:
 - CLAIM-tmps8d1r
-title: 'Where several agents share an environment, the realization of one agent''s will changes the conditions under which others can realize theirs, and that interaction is itself a normative object'
+title: 'Interacting wills are a normative object'
+statement: >-
+  Where several agents share an environment, the realization of one agent's
+  will changes the conditions under which others can realize theirs, and
+  that interaction is itself a normative object
 version: 1
 role: thesis
 warrant: interpretive
@@ -25,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-016 QUESTION-007 — Deferred; set aside, and cited to say what was set aside with it -->
 
-# CLAIM-096: Where several agents share an environment, the realization of one agent's will changes the conditions under which others can realize theirs, and that interaction is itself a normative object
+# CLAIM-096: Interacting wills are a normative object
 
 ## The claim
 

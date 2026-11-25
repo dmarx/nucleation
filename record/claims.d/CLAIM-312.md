@@ -3,7 +3,14 @@ number: 312
 status: Active
 formerly:
 - CLAIM-tmpfpvgq
-title: '"If I can''t find it, it isn''t there" asserts operational unavailability, that the item will not be put to use before the deadline, not absence: a search that fails by the deadline establishes unavailability outright, and licenses absence only with a certificate that the unsearched remainder cannot hold the item, from exhaustion, from an invariant of the arrangement, or from a closed-world default'
+title: 'Not found by the deadline means unavailable'
+statement: >-
+  "If I can't find it, it isn't there" asserts operational unavailability,
+  that the item will not be put to use before the deadline, not absence: a
+  search that fails by the deadline establishes unavailability outright, and
+  licenses absence only with a certificate that the unsearched remainder
+  cannot hold the item, from exhaustion, from an invariant of the
+  arrangement, or from a closed-world default
 version: 3
 history:
 - version: 2
@@ -65,7 +72,7 @@ bears_on:
 - QUESTION-279
 ---
 
-# CLAIM-312: "If I can't find it, it isn't there" asserts operational unavailability, that the item will not be put to use before the deadline, not absence: a search that fails by the deadline establishes unavailability outright, and licenses absence only with a certificate that the unsearched remainder cannot hold the item, from exhaustion, from an invariant of the arrangement, or from a closed-world default
+# CLAIM-312: Not found by the deadline means unavailable
 
 ## The claim
 

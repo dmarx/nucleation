@@ -35,7 +35,14 @@ complements:
 grounds:
 - THEORY-470
 - THEORY-150
-title: "Where the losses that discipline an institution's extraction from those who depend on it, their exit, challenge, regulation and internal resistance, depend on a state its own actions change, an institution optimizing a narrow objective over time values weakening those constraints for their own sake, so their erosion can be produced by the optimization itself, with no change in the character of those who run it"
+title: 'Narrow optimizers value weakening constraints'
+statement: >-
+  Where the losses that discipline an institution's extraction from those
+  who depend on it, their exit, challenge, regulation and internal
+  resistance, depend on a state its own actions change, an institution
+  optimizing a narrow objective over time values weakening those constraints
+  for their own sake, so their erosion can be produced by the optimization
+  itself, with no change in the character of those who run it
 summary: >-
   A46 §10 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24), restated for shareholder value at A48 §6 ("Regulatory
@@ -51,7 +58,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-619 CLAIM-624 THEORY-470 THEORY-150 — Proposed; the held neighbours, Doctorow's accounts and the term -->
 
-# CLAIM-1287: Where the losses that discipline an institution's extraction from those who depend on it, their exit, challenge, regulation and internal resistance, depend on a state its own actions change, an institution optimizing a narrow objective over time values weakening those constraints for their own sake, so their erosion can be produced by the optimization itself, with no change in the character of those who run it
+# CLAIM-1287: Narrow optimizers value weakening constraints
 
 ## The claim
 

@@ -5,7 +5,11 @@ superseded_by:
 - ARG-011
 formerly:
 - CLAIM-tmp3lv11
-title: 'The only design for the October thesis builds its outcome in: the act is fixed by whoever writes the items, and the topic-only baseline is built to fail on the critical cells'
+title: 'October design builds its outcome in'
+statement: >-
+  The only design for the October thesis builds its outcome in: the act is
+  fixed by whoever writes the items, and the topic-only baseline is built to
+  fail on the critical cells
 version: 4
 history:
 - version: 2
@@ -62,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-127 CLAIM-078 — Proposed; open, cited as the claims the design is meant to bear on, those its own limits name, and the success criterion that quotes A218, not as settled -->
 <!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
 
-# CLAIM-203: The only design for the October thesis builds its outcome in: the act is fixed by whoever writes the items, and the topic-only baseline is built to fail on the critical cells
+# CLAIM-203: October design builds its outcome in
 
 ## The objection
 

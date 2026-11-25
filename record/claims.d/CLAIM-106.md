@@ -3,7 +3,11 @@ number: 106
 status: Active
 formerly:
 - CLAIM-tmpumy4f
-title: 'Pragmatic fidelity is a graded, potentially asymmetric property of transport, not an equivalence relation; equivalence is its zero-distortion limit'
+title: 'Pragmatic fidelity is graded, not equivalence'
+statement: >-
+  Pragmatic fidelity is a graded, potentially asymmetric property of
+  transport, not an equivalence relation; equivalence is its zero-distortion
+  limit
 version: 3
 history:
 - version: 2
@@ -52,7 +56,7 @@ complements:
 ---
 <!-- ref::uses-file: TERM-015 — stated in "fidelity, as graded, directed transport distortion"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 
-# CLAIM-106: Pragmatic fidelity is a graded, potentially asymmetric property of transport, not an equivalence relation; equivalence is its zero-distortion limit
+# CLAIM-106: Pragmatic fidelity is graded, not equivalence
 
 ## The claim
 

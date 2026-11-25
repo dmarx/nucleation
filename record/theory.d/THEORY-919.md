@@ -15,7 +15,13 @@ promote_when: >-
   north–south gradient is shown to drive both the 1812 expansion and its
   persistence. Whether protection maintained itself politically is a
   separate question this THEORY does not carry.
-title: 'Departments of the French Empire more shielded from British trade by the Napoleonic blockade added more mechanized cotton-spinning capacity during it and kept a larger industry through 1887, with more productive spinning firms in 1840 and higher industrial value added per capita in 1860 but not detectably from 1896'
+title: 'Blockade-shielded French regions industrialized'
+statement: >-
+  Departments of the French Empire more shielded from British trade by the
+  Napoleonic blockade added more mechanized cotton-spinning capacity during
+  it and kept a larger industry through 1887, with more productive spinning
+  firms in 1840 and higher industrial value added per capita in 1860 but not
+  detectably from 1896
 version: 2
 history:
 - version: 2
@@ -42,7 +48,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-445 THEORY-885 — Proposed; the claim and account this bears on, named, nothing here rests on them -->
 
-# THEORY-919: Departments of the French Empire more shielded from British trade by the Napoleonic blockade added more mechanized cotton-spinning capacity during it and kept a larger industry through 1887, with more productive spinning firms in 1840 and higher industrial value added per capita in 1860 but not detectably from 1896
+# THEORY-919: Blockade-shielded French regions industrialized
 
 ## Source
 

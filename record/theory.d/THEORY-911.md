@@ -3,7 +3,14 @@ number: 911
 status: Active
 formerly:
 - THEORY-tmpfian9
-title: 'Of 853 national states of emergency declared from 1949 to 2017, 115 were reported as unlawful in declaration, conduct or duration; 97 of those followed political turmoil and 14 natural disasters, democracies were less likely than autocracies to run one, and those so coded lasted 321 days on average against 115, a gap the coding of overlong emergencies as unlawful builds in part'
+title: 'Unlawful emergencies ran ~3× longer'
+statement: >-
+  Of 853 national states of emergency declared from 1949 to 2017, 115 were
+  reported as unlawful in declaration, conduct or duration; 97 of those
+  followed political turmoil and 14 natural disasters, democracies were less
+  likely than autocracies to run one, and those so coded lasted 321 days on
+  average against 115, a gap the coding of overlong emergencies as unlawful
+  builds in part
 version: 2
 history:
 - version: 2
@@ -54,7 +61,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-1198 — Proposed; the thesis split from this entry, cited as open -->
 
-# THEORY-911: Of 853 national states of emergency declared from 1949 to 2017, 115 were reported as unlawful in declaration, conduct or duration; 97 of those followed political turmoil and 14 natural disasters, democracies were less likely than autocracies to run one, and those so coded lasted 321 days on average against 115, a gap the coding of overlong emergencies as unlawful builds in part
+# THEORY-911: Unlawful emergencies ran ~3× longer
 
 ## Source
 

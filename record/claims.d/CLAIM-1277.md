@@ -3,7 +3,15 @@ number: 1277
 status: Proposed
 formerly:
 - CLAIM-tmph11zb
-title: 'A distinction advances an inquiry by stabilizing the classification of its objects across changes of context, representation or use: operations that had been conflated can then be evaluated apart, and conclusions and maintenance obligations carried across contexts without silently changing what they refer to; stabilizing a class does not show that the class is correct, that its boundaries are adequate or that keeping it is worth its cost'
+title: 'Stable classification lets conflations split'
+statement: >-
+  A distinction advances an inquiry by stabilizing the classification of its
+  objects across changes of context, representation or use: operations that
+  had been conflated can then be evaluated apart, and conclusions and
+  maintenance obligations carried across contexts without silently changing
+  what they refer to; stabilizing a class does not show that the class is
+  correct, that its boundaries are adequate or that keeping it is worth its
+  cost
 version: 1
 role: thesis
 warrant: interpretive
@@ -31,7 +39,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1337 CLAIM-1247 CLAIM-1292 TERM-177 CLAIM-1344 CLAIM-1330 CLAIM-1213 CLAIM-668 CLAIM-472 CLAIM-666 — Proposed or new; the owner's thesis it develops, its test, and the held entries its examples map to -->
 
-# CLAIM-1277: A distinction advances an inquiry by stabilizing the classification of its objects across changes of context, representation or use: operations that had been conflated can then be evaluated apart, and conclusions and maintenance obligations carried across contexts without silently changing what they refer to; stabilizing a class does not show that the class is correct, that its boundaries are adequate or that keeping it is worth its cost
+# CLAIM-1277: Stable classification lets conflations split
 
 ## The claim
 

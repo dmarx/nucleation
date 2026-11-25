@@ -14,7 +14,15 @@ promote_when: >-
   does not settle it, and neither do measured exponents near z = 6/5,
   ζ = 3/5, χ = −1/5, since the order does not depend on those values being
   exact.
-title: 'In Toner and Tu''s hydrodynamic model of a flock, true long-range orientational order survives in two dimensions, where the Mermin–Wagner theorem forbids it at equilibrium and the model''s own linearized theory loses it, because the convective coupling of the velocity field to its own transport, relevant below four dimensions, keeps the transverse velocity fluctuations bounded; the authors'' heuristic is that motion keeps changing each member''s neighbours, so originally distant members come to interact'
+title: 'Flocks keep long-range order in 2D'
+statement: >-
+  In Toner and Tu's hydrodynamic model of a flock, true long-range
+  orientational order survives in two dimensions, where the Mermin–Wagner
+  theorem forbids it at equilibrium and the model's own linearized theory
+  loses it, because the convective coupling of the velocity field to its own
+  transport, relevant below four dimensions, keeps the transverse velocity
+  fluctuations bounded; the authors' heuristic is that motion keeps changing
+  each member's neighbours, so originally distant members come to interact
 version: 1
 tags:
 - complex-systems
@@ -33,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2199 NOTE-2285 — Proposed or Skimmed; the reading of the long paper, 2026-11-22 -->
 
-# THEORY-1095: In Toner and Tu's hydrodynamic model of a flock, true long-range orientational order survives in two dimensions, where the Mermin–Wagner theorem forbids it at equilibrium and the model's own linearized theory loses it, because the convective coupling of the velocity field to its own transport, relevant below four dimensions, keeps the transverse velocity fluctuations bounded; the authors' heuristic is that motion keeps changing each member's neighbours, so originally distant members come to interact
+# THEORY-1095: Flocks keep long-range order in 2D
 
 ## Source
 

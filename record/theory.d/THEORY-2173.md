@@ -13,7 +13,16 @@ promote_when: >-
   word frequencies rated good, the lognormal excluded only for HTTP
   sizes); and the sentence of §6 deferring inconclusive cases to "a
   mechanistic or other nonstatistical argument".
-title: "Clauset, Shalizi and Newman hold that a straight line on a log-log plot is necessary but not sufficient for a power law, replace least-squares fits with a maximum-likelihood exponent above a lower bound chosen by minimum Kolmogorov-Smirnov distance, a bootstrap goodness-of-fit test and likelihood-ratio tests against alternatives, and, applying them to 24 data sets, reject 7, find only word frequencies convincing and exclude the lognormal for only one, so that where the tests cannot decide the choice must rest on mechanism"
+title: 'Log-log lines don''t establish power laws'
+statement: >-
+  Clauset, Shalizi and Newman hold that a straight line on a log-log plot is
+  necessary but not sufficient for a power law, replace least-squares fits
+  with a maximum-likelihood exponent above a lower bound chosen by minimum
+  Kolmogorov-Smirnov distance, a bootstrap goodness-of-fit test and
+  likelihood-ratio tests against alternatives, and, applying them to 24 data
+  sets, reject 7, find only word frequencies convincing and exclude the
+  lognormal for only one, so that where the tests cannot decide the choice
+  must rest on mechanism
 version: 1
 tags:
 - mathematical-statistics
@@ -34,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-803 — Proposed; the claim this reading grounds -->
 
-# THEORY-2173: Clauset, Shalizi and Newman hold that a straight line on a log-log plot is necessary but not sufficient for a power law, replace least-squares fits with a maximum-likelihood exponent above a lower bound chosen by minimum Kolmogorov-Smirnov distance, a bootstrap goodness-of-fit test and likelihood-ratio tests against alternatives, and, applying them to 24 data sets, reject 7, find only word frequencies convincing and exclude the lognormal for only one, so that where the tests cannot decide the choice must rest on mechanism
+# THEORY-2173: Log-log lines don't establish power laws
 
 ## Source
 

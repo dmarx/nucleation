@@ -3,7 +3,15 @@ number: 750
 status: Proposed
 formerly:
 - CLAIM-tmp5g7xc
-title: 'Blameless post-incident review can stop its trace at "the system", which names no decision-maker, so that those who set budgets, staffing and deadlines drop out of the account along with the operator it shields: where the body that commissions a review also governs it, its contributing causes and action items stop at or below that body''s own decisions, and the review keeps upstream provenance only when its tracing crosses that body''s authority'
+title: 'Blameless review''s trace stops at its governor'
+statement: >-
+  Blameless post-incident review can stop its trace at "the system", which
+  names no decision-maker, so that those who set budgets, staffing and
+  deadlines drop out of the account along with the operator it shields:
+  where the body that commissions a review also governs it, its contributing
+  causes and action items stop at or below that body's own decisions, and
+  the review keeps upstream provenance only when its tracing crosses that
+  body's authority
 version: 2
 history:
 - version: 2
@@ -58,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-707 CASE-292 — Proposed; filed from the exchange "Assess Depp Heard Abuse" and its readings, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-751 CASE-293 THEORY-2000 THEORY-1997 THEORY-1998 — new; filed with this claim -->
 
-# CLAIM-750: Blameless post-incident review can stop its trace at "the system", which names no decision-maker, so that those who set budgets, staffing and deadlines drop out of the account along with the operator it shields: where the body that commissions a review also governs it, its contributing causes and action items stop at or below that body's own decisions, and the review keeps upstream provenance only when its tracing crosses that body's authority
+# CLAIM-750: Blameless review's trace stops at its governor
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 1332
 status: Active
 formerly:
 - CLAIM-tmpv6tw7
-title: "With a supply multiplying its production terms, a maintained connector shows the ignition threshold, the collapse below a supply fold and the outage after which restoring the supply does not relight it, while supplied repair matched to the same state shows none of them; where the supply enters only the capacities' production, its fold is the damage fold relabelled"
+title: 'Maintained connector shows ignition and collapse'
+statement: >-
+  With a supply multiplying its production terms, a maintained connector
+  shows the ignition threshold, the collapse below a supply fold and the
+  outage after which restoring the supply does not relight it, while
+  supplied repair matched to the same state shows none of them; where the
+  supply enters only the capacities' production, its fold is the damage fold
+  relabelled
 version: 2
 history:
 - version: 2
@@ -73,7 +80,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-606 CASE-265 — cited with their standing; the claim it corroborates, the split it extends, the limits on what the signatures identify, and the nearest held construction -->
 
-# CLAIM-1332: With a supply multiplying its production terms, a maintained connector shows the ignition threshold, the collapse below a supply fold and the outage after which restoring the supply does not relight it, while supplied repair matched to the same state shows none of them; where the supply enters only the capacities' production, its fold is the damage fold relabelled
+# CLAIM-1332: Maintained connector shows ignition and collapse
 
 ## The gap it fills
 

@@ -3,7 +3,15 @@ number: 1233
 status: Proposed
 formerly:
 - CLAIM-tmp5atd3
-title: 'Several conventionally distinct cognitive biases can be observable marks of one organizational constraint, such as a protective regime that governs attention, recall, evidence thresholds and avoidance together, so the catalogue of biases is not a catalogue of mechanisms; the thesis earns standing only if one intervention on such a constraint, measured independently and with the information held fixed, moves several bias measures together'
+title: 'Many biases, one organizational constraint'
+statement: >-
+  Several conventionally distinct cognitive biases can be observable marks
+  of one organizational constraint, such as a protective regime that governs
+  attention, recall, evidence thresholds and avoidance together, so the
+  catalogue of biases is not a catalogue of mechanisms; the thesis earns
+  standing only if one intervention on such a constraint, measured
+  independently and with the information held fixed, moves several bias
+  measures together
 version: 1
 role: thesis
 warrant: interpretive
@@ -45,7 +53,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-446 CLAIM-417 CLAIM-437 CLAIM-440 CLAIM-527 TERM-104 LIT-3244 CLAIM-427 CLAIM-924 THEORY-359 ARG-036 CLAIM-278 — Proposed, Superseded, Deferred or new; the components and the test this claim is filed with -->
 
-# CLAIM-1233: Several conventionally distinct cognitive biases can be observable marks of one organizational constraint, such as a protective regime that governs attention, recall, evidence thresholds and avoidance together, so the catalogue of biases is not a catalogue of mechanisms; the thesis earns standing only if one intervention on such a constraint, measured independently and with the information held fixed, moves several bias measures together
+# CLAIM-1233: Many biases, one organizational constraint
 
 ## The claim
 

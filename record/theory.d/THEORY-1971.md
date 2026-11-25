@@ -9,7 +9,14 @@ promote_when: >-
   Ashford and Mulgan quote them. The title asserts only what the entry
   reports of Scanlon's 1998 view, not that the view is right or that
   Scanlon still holds it in this form.
-title: 'Ashford and Mulgan report Scanlon''s contractualism as holding an act wrong when it would be disallowed by any set of principles that no one could reasonably reject as a basis for informed, unforced general agreement, judged only by individuals'' reasons for objecting to a principle and its alternatives, without aggregating lesser complaints against a weightier one, and covering only what we owe to one another'
+title: 'Wrongness is what unrejectable principles forbid'
+statement: >-
+  Ashford and Mulgan report Scanlon's contractualism as holding an act wrong
+  when it would be disallowed by any set of principles that no one could
+  reasonably reject as a basis for informed, unforced general agreement,
+  judged only by individuals' reasons for objecting to a principle and its
+  alternatives, without aggregating lesser complaints against a weightier
+  one, and covering only what we owe to one another
 version: 1
 tags:
 - ethics
@@ -33,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2721 — new or Unavailable; the neighbour, its reading, and the book it stands in for -->
 
-# THEORY-1971: Ashford and Mulgan report Scanlon's contractualism as holding an act wrong when it would be disallowed by any set of principles that no one could reasonably reject as a basis for informed, unforced general agreement, judged only by individuals' reasons for objecting to a principle and its alternatives, without aggregating lesser complaints against a weightier one, and covering only what we owe to one another
+# THEORY-1971: Wrongness is what unrejectable principles forbid
 
 Ashford & Mulgan, "Contractualism" (SEP, 2018 revision), [LIT-2768](../literature.d/LIT-2768.md).
 

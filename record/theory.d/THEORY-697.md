@@ -3,7 +3,16 @@ number: 697
 status: Active
 formerly:
 - THEORY-tmpzar1j
-title: "Sparse distributed memory's read weights each stored pattern by the number of hard locations within the read radius of both query and pattern, a ball-intersection count that falls roughly exponentially in Hamming distance over a local window, so softmax attention over cosine similarity of unit-norm queries and keys, with a fitted inverse temperature, approximates the SDM read there; the approximation cannot hold globally, since the binary count vanishes beyond twice the radius, and its inverse temperature comes from a regression, not from the paper's analytic bound"
+title: 'Attention approximates SDM reads only locally'
+statement: >-
+  Sparse distributed memory's read weights each stored pattern by the number
+  of hard locations within the read radius of both query and pattern, a
+  ball-intersection count that falls roughly exponentially in Hamming
+  distance over a local window, so softmax attention over cosine similarity
+  of unit-norm queries and keys, with a fitted inverse temperature,
+  approximates the SDM read there; the approximation cannot hold globally,
+  since the binary count vanishes beyond twice the radius, and its inverse
+  temperature comes from a regression, not from the paper's analytic bound
 version: 1
 tags:
 - neuroscience
@@ -27,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-180 CLAIM-298 — Proposed; the record's own claims that use this reading, named in Connections -->
 <!-- inactive-ok-file: LIT-928 — Unavailable; Kanerva's book, named as the source of the critical distance, unread -->
 
-# THEORY-697: Sparse distributed memory's read weights each stored pattern by the number of hard locations within the read radius of both query and pattern, a ball-intersection count that falls roughly exponentially in Hamming distance over a local window, so softmax attention over cosine similarity of unit-norm queries and keys, with a fitted inverse temperature, approximates the SDM read there; the approximation cannot hold globally, since the binary count vanishes beyond twice the radius, and its inverse temperature comes from a regression, not from the paper's analytic bound
+# THEORY-697: Attention approximates SDM reads only locally
 
 ## Source
 

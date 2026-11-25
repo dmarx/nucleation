@@ -3,7 +3,17 @@ number: 1158
 status: Active
 formerly:
 - THEORY-tmpy1s8c
-title: 'On synchronization of S4 relations with outliers, an untrained mechanism that composes relations through third vertices gains 26–45 points over the single direct path, and weighting the candidate paths by the Wilson loops of squares that avoid the missing edge adds 0.6–7.8 points, most where clean two-hop paths become a minority; it stays below spectral synchronization with one reweighting pass on every setting and within 2.2 points of plain spectral synchronization either way; its 0.99 AUC for corrupted triangles is the ceiling that exactly flat clean data set, not a measure of detection power'
+title: 'Holonomy path synchronization trails spectral'
+statement: >-
+  On synchronization of S4 relations with outliers, an untrained mechanism
+  that composes relations through third vertices gains 26–45 points over the
+  single direct path, and weighting the candidate paths by the Wilson loops
+  of squares that avoid the missing edge adds 0.6–7.8 points, most where
+  clean two-hop paths become a minority; it stays below spectral
+  synchronization with one reweighting pass on every setting and within 2.2
+  points of plain spectral synchronization either way; its 0.99 AUC for
+  corrupted triangles is the ceiling that exactly flat clean data set, not a
+  measure of detection power
 version: 5
 history:
 - version: 2
@@ -78,7 +88,7 @@ bounds:
 - CLAIM-496
 ---
 
-# THEORY-1158: On synchronization of S4 relations with outliers, an untrained mechanism that composes relations through third vertices gains 26–45 points over the single direct path, and weighting the candidate paths by the Wilson loops of squares that avoid the missing edge adds 0.6–7.8 points, most where clean two-hop paths become a minority; it stays below spectral synchronization with one reweighting pass on every setting and within 2.2 points of plain spectral synchronization either way; its 0.99 AUC for corrupted triangles is the ceiling that exactly flat clean data set, not a measure of detection power
+# THEORY-1158: Holonomy path synchronization trails spectral
 
 ## Source
 

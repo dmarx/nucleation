@@ -3,7 +3,13 @@ number: 568
 status: Active
 formerly:
 - CLAIM-tmpal9mc
-title: 'A transition can fail in four ways that call for different remedies: a feasible path exceeds a resource ceiling, no path exists in the fixed configuration space, a path exists that no available input can execute, or a path exists that cannot be reliably followed; added actuation can overcome an energy barrier and cannot join disconnected configurations'
+title: 'Four ways a transition can fail'
+statement: >-
+  A transition can fail in four ways that call for different remedies: a
+  feasible path exceeds a resource ceiling, no path exists in the fixed
+  configuration space, a path exists that no available input can execute, or
+  a path exists that cannot be reliably followed; added actuation can
+  overcome an energy barrier and cannot join disconnected configurations
 version: 3
 history:
 - version: 2
@@ -81,7 +87,7 @@ works:
 ---
 <!-- inactive-ok-file: CASE-205 THEORY-1383 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
 
-# CLAIM-568: A transition can fail in four ways that call for different remedies: a feasible path exceeds a resource ceiling, no path exists in the fixed configuration space, a path exists that no available input can execute, or a path exists that cannot be reliably followed; added actuation can overcome an energy barrier and cannot join disconnected configurations
+# CLAIM-568: Four ways a transition can fail
 
 ## The claim
 

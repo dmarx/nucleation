@@ -3,7 +3,14 @@ number: 649
 status: Proposed
 formerly:
 - CLAIM-tmpkr3ti
-title: 'An absence of response under an inserted intervention with an expected response profile is diagnostic evidence about the mechanism under test, carried with nothing emitted: under a probabilistic response model it shifts support toward fault by its likelihood ratio, and in the limiting case of a deterministic, independently validated response guarantee it entails that the guarantee was violated'
+title: 'Absent response is diagnostic evidence'
+statement: >-
+  An absence of response under an inserted intervention with an expected
+  response profile is diagnostic evidence about the mechanism under test,
+  carried with nothing emitted: under a probabilistic response model it
+  shifts support toward fault by its likelihood ratio, and in the limiting
+  case of a deterministic, independently validated response guarantee it
+  entails that the guarantee was violated
 version: 3
 history:
 - version: 2
@@ -78,7 +85,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-243 CLAIM-651 CASE-242 ARG-085 ARG-084 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-444 THEORY-220 — Proposed; readings cited with their standing -->
 
-# CLAIM-649: An absence of response under an inserted intervention with an expected response profile is diagnostic evidence about the mechanism under test, carried with nothing emitted: under a probabilistic response model it shifts support toward fault by its likelihood ratio, and in the limiting case of a deterministic, independently validated response guarantee it entails that the guarantee was violated
+# CLAIM-649: Absent response is diagnostic evidence
 
 ## The claim
 

@@ -3,7 +3,12 @@ number: 18
 status: Active
 formerly:
 - THEORY-tmp053xo
-title: 'Softmax training identifies a language model''s final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch''s causal inner product is fixed by a stipulation'
+title: 'LM final-layer inner product is not intrinsic'
+statement: >-
+  Softmax training identifies a language model's final-layer representation
+  only up to an invertible linear map, so no inner product on it is
+  intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a
+  stipulation
 version: 4
 history:
 - version: 2
@@ -53,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1016 — Proposed; the sparse-autoencoder resolution account, cited as open -->
 <!-- inactive-ok-file: CLAIM-852 — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
 
-# THEORY-018: Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation
+# THEORY-018: LM final-layer inner product is not intrinsic
 
 ## Source
 

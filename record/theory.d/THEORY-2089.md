@@ -3,7 +3,13 @@ number: 2089
 status: Proposed
 formerly:
 - THEORY-tmpezk6j
-title: 'Thomm and colleagues find that transformer language models trained from scratch on algorithmic composition tasks, with the sub-tasks mixed into the same training, need more composed-task samples than the sub-task sets together contain and gain little from the sub-tasks, while pretraining on a composition lowers the cost of later learning one of its sub-tasks'
+title: 'Sub-tasks barely help learn compositions'
+statement: >-
+  Thomm and colleagues find that transformer language models trained from
+  scratch on algorithmic composition tasks, with the sub-tasks mixed into
+  the same training, need more composed-task samples than the sub-task sets
+  together contain and gain little from the sub-tasks, while pretraining on
+  a composition lowers the cost of later learning one of its sub-tasks
 version: 1
 source:
 - LIT-2874
@@ -24,7 +30,7 @@ summary: >-
   Proposed until its promote_when is met.
 ---
 
-# THEORY-2089: Thomm and colleagues find that transformer language models trained from scratch on algorithmic composition tasks, with the sub-tasks mixed into the same training, need more composed-task samples than the sub-task sets together contain and gain little from the sub-tasks, while pretraining on a composition lowers the cost of later learning one of its sub-tasks
+# THEORY-2089: Sub-tasks barely help learn compositions
 
 ## The account
 

@@ -3,7 +3,10 @@ number: 82
 status: Proposed
 formerly:
 - CLAIM-tmpnt2nd
-title: 'A term''s value, as distinct from its signification, is fixed by its contrasts with the coexisting terms of its system'
+title: 'Value is fixed by contrasts within the system'
+statement: >-
+  A term's value, as distinct from its signification, is fixed by its
+  contrasts with the coexisting terms of its system
 version: 4
 history:
 - version: 2
@@ -73,7 +76,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-489 — Rejected; the first title, kept as its own entry and rejected on its own condition -->
 <!-- inactive-ok-file: THEORY-182 — Proposed; cited as a reading that bears on this claim, not as settled -->
 
-# CLAIM-082: A term's value, as distinct from its signification, is fixed by its contrasts with the coexisting terms of its system
+# CLAIM-082: Value is fixed by contrasts within the system
 
 ## The claim
 

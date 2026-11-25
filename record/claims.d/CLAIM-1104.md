@@ -3,13 +3,15 @@ number: 1104
 status: Proposed
 formerly:
 - CLAIM-tmph25dl
-title: 'Identity stabilization and adaptability are not two ends of one scale:
+title: 'Revisable constraints matched to demand timescales'
+statement: >-
+  Identity stabilization and adaptability are not two ends of one scale:
   constraints that conserve selected relations across time make coordinated
-  response possible and can make alternatives slow or costly to reach, so
-  a constraint''s adequacy depends on the timescales of the demands it governs
-  and on how fast it can be revised, and adaptive governance maintains a hierarchy
-  of revisable constraints whose response times suit their demands, conserving
-  selectively what enables later transformation'
+  response possible and can make alternatives slow or costly to reach, so a
+  constraint's adequacy depends on the timescales of the demands it governs
+  and on how fast it can be revised, and adaptive governance maintains a
+  hierarchy of revisable constraints whose response times suit their
+  demands, conserving selectively what enables later transformation
 version: 3
 history:
 - version: 2
@@ -61,7 +63,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-184 CLAIM-423 CLAIM-478 CLAIM-758 TERM-167 — Proposed; cited in this filing of 2026-11-22 (second share) -->
 
-# CLAIM-1104: Identity stabilization and adaptability are not two ends of one scale: constraints that conserve selected relations across time make coordinated response possible and can make alternatives slow or costly to reach, so a constraint's adequacy depends on the timescales of the demands it governs and on how fast it can be revised, and adaptive governance maintains a hierarchy of revisable constraints whose response times suit their demands, conserving selectively what enables later transformation
+# CLAIM-1104: Revisable constraints matched to demand timescales
 
 ## The claim
 

@@ -3,7 +3,15 @@ number: 1731
 status: Proposed
 formerly:
 - THEORY-tmp42g4m
-title: 'Zhang and colleagues report that agents whose improvement procedure is itself editable (DGM-H) improved both task performance and their ability to generate improvements, measured by holding a meta agent fixed from a fixed starting agent and budget (imp@k), and that meta agents evolved in paper review and robotics transferred to Olympiad math grading with imp@50 of 0.630 against 0.0 for the initial meta agent, while the evaluator and parent selection were kept fixed.'
+title: 'Editable improvers improve at improving'
+statement: >-
+  Zhang and colleagues report that agents whose improvement procedure is
+  itself editable (DGM-H) improved both task performance and their ability
+  to generate improvements, measured by holding a meta agent fixed from a
+  fixed starting agent and budget (imp@k), and that meta agents evolved in
+  paper review and robotics transferred to Olympiad math grading with imp@50
+  of 0.630 against 0.0 for the initial meta agent, while the evaluator and
+  parent selection were kept fixed.
 version: 1
 tags:
 - agency
@@ -24,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1871 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# THEORY-1731: Zhang and colleagues report that agents whose improvement procedure is itself editable (DGM-H) improved both task performance and their ability to generate improvements, measured by holding a meta agent fixed from a fixed starting agent and budget (imp@k), and that meta agents evolved in paper review and robotics transferred to Olympiad math grading with imp@50 of 0.630 against 0.0 for the initial meta agent, while the evaluator and parent selection were kept fixed.
+# THEORY-1731: Editable improvers improve at improving
 
 ## The account
 

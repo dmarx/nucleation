@@ -19,7 +19,13 @@ promote_when: >-
   sensorimotor coupling first. Arguments for or against organicism itself
   cannot settle it; the account is about where views sit, not which is
   right.
-title: 'Whether a view of mind is organicist or informationalist is a dimension orthogonal to whether it is cognitivist or embodied, and the enactive approach of The Embodied Mind is set apart from other embodied views by organicism with experiential primacy and reciprocity, not by sensorimotor emphasis'
+title: 'Organicism is orthogonal to embodiment'
+statement: >-
+  Whether a view of mind is organicist or informationalist is a dimension
+  orthogonal to whether it is cognitivist or embodied, and the enactive
+  approach of The Embodied Mind is set apart from other embodied views by
+  organicism with experiential primacy and reciprocity, not by sensorimotor
+  emphasis
 version: 1
 tags:
 - embodied-cognition
@@ -42,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-412 THEORY-767 — Proposed or Open; the claims, terms, question and account this one bears on, named and not leaned on -->
 
-# THEORY-874: Whether a view of mind is organicist or informationalist is a dimension orthogonal to whether it is cognitivist or embodied, and the enactive approach of The Embodied Mind is set apart from other embodied views by organicism with experiential primacy and reciprocity, not by sensorimotor emphasis
+# THEORY-874: Organicism is orthogonal to embodiment
 
 ## Source
 

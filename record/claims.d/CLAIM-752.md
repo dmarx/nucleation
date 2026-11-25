@@ -3,7 +3,11 @@ number: 752
 status: Proposed
 formerly:
 - CLAIM-tmpabj0z
-title: 'The duties to comply with a justified rule and to support the institution that administers it may be one duty, as Rawls''s natural duty treats them, and are not shown distinct until a case separates them'
+title: 'Comply and support may be one duty'
+statement: >-
+  The duties to comply with a justified rule and to support the institution
+  that administers it may be one duty, as Rawls's natural duty treats them,
+  and are not shown distinct until a case separates them
 version: 1
 role: counter
 warrant: interpretive
@@ -32,7 +36,7 @@ summary: >-
   Justice is not read on the record.
 ---
 
-# CLAIM-752: The duties to comply with a justified rule and to support the institution that administers it may be one duty, as Rawls's natural duty treats them, and are not shown distinct until a case separates them
+# CLAIM-752: Comply and support may be one duty
 
 ## The objection
 

@@ -8,7 +8,12 @@ promote_when: >-
   preschool delay-of-gratification performance and later achievement is
   modest and shrinks substantially once family background, the early home
   environment and early cognitive ability are controlled.
-title: 'In a larger and more diverse sample than the original studies, preschool marshmallow-test wait-time predicts adolescent achievement only modestly, and the association is largely explained by family background, the early home environment and concurrent cognitive and behavioral measures'
+title: 'Marshmallow wait weakly predicts later achievement'
+statement: >-
+  In a larger and more diverse sample than the original studies, preschool
+  marshmallow-test wait-time predicts adolescent achievement only modestly,
+  and the association is largely explained by family background, the early
+  home environment and concurrent cognitive and behavioral measures
 version: 1
 tags:
 - cognition
@@ -25,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-281 — Proposed; cited with their standing, entries this reading bears on or files -->
 
-# THEORY-1980: In a larger and more diverse sample than the original studies, preschool marshmallow-test wait-time predicts adolescent achievement only modestly, and the association is largely explained by family background, the early home environment and concurrent cognitive and behavioral measures
+# THEORY-1980: Marshmallow wait weakly predicts later achievement
 
 Watts, Duncan & Quan (2018), [LIT-2752](../literature.d/LIT-2752.md).
 

@@ -3,7 +3,14 @@ number: 849
 status: Proposed
 formerly:
 - CLAIM-tmpyxiwv
-title: 'When past and future are independent given a shared parameter, the shape of the Fisher spectrum fixes how predictive information grows: in a linear-Gaussian model it grows as (d/2) ln T with d resolved directions, as T^(1/p) when the spectrum falls as j^(−p), and as (ln T)²/(4a) when it falls as e^(−aj), so the power-law regime of Bialek, Nemenman and Tishby follows from a power-law spectrum'
+title: 'Fisher spectrum sets predictive information'
+statement: >-
+  When past and future are independent given a shared parameter, the shape
+  of the Fisher spectrum fixes how predictive information grows: in a
+  linear-Gaussian model it grows as (d/2) ln T with d resolved directions,
+  as T^(1/p) when the spectrum falls as j^(−p), and as (ln T)²/(4a) when it
+  falls as e^(−aj), so the power-law regime of Bialek, Nemenman and Tishby
+  follows from a power-law spectrum
 version: 1
 role: thesis
 warrant: demonstrated
@@ -50,7 +57,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-825 TERM-141 — filed with this claim from the same exchange, Proposed -->
 <!-- inactive-ok-file: ARG-154 THEORY-2151 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-# CLAIM-849: When past and future are independent given a shared parameter, the shape of the Fisher spectrum fixes how predictive information grows: in a linear-Gaussian model it grows as (d/2) ln T with d resolved directions, as T^(1/p) when the spectrum falls as j^(−p), and as (ln T)²/(4a) when it falls as e^(−aj), so the power-law regime of Bialek, Nemenman and Tishby follows from a power-law spectrum
+# CLAIM-849: Fisher spectrum sets predictive information
 
 ## The gap it fills
 

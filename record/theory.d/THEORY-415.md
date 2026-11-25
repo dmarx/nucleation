@@ -13,7 +13,13 @@ promote_when: >-
   would refute it. A further intuition pump, for or against qualia, cannot
   settle it, since the account's own step from introspective
   indistinguishability is stipulated in the same way.
-title: "Nothing has all four marks that qualia are said to have, being ineffable, intrinsic, private and directly apprehensible, because neither the subject nor an outside tester can tell a change in a quale from a change in the subject's reactions to it; what is real in their place is the practical ineffability and idiosyncrasy of information-rich property detection"
+title: 'Nothing has all the marks of qualia'
+statement: >-
+  Nothing has all four marks that qualia are said to have, being ineffable,
+  intrinsic, private and directly apprehensible, because neither the subject
+  nor an outside tester can tell a change in a quale from a change in the
+  subject's reactions to it; what is real in their place is the practical
+  ineffability and idiosyncrasy of information-rich property detection
 version: 1
 tags:
 - consciousness
@@ -34,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-043 THEORY-095 THEORY-103 THEORY-507 THEORY-563 THEORY-633 THEORY-694 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 
-# THEORY-415: Nothing has all four marks that qualia are said to have, being ineffable, intrinsic, private and directly apprehensible, because neither the subject nor an outside tester can tell a change in a quale from a change in the subject's reactions to it; what is real in their place is the practical ineffability and idiosyncrasy of information-rich property detection
+# THEORY-415: Nothing has all the marks of qualia
 
 ## Source
 

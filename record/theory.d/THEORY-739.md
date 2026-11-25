@@ -3,7 +3,14 @@ number: 739
 status: Active
 formerly:
 - THEORY-tmpppb1u
-title: 'For the quartic proxy of word2vec with tied weights, symmetric reweighting and constant weights, the rank-d minimisers are the top d eigenvectors of the relative deviation-from-independence matrix M*, scaled by the square roots of their eigenvalues, up to rotation; and from an initialisation aligned with those eigenvectors, gradient flow acquires each one in an independent logistic rise, in order of eigenvalue'
+title: 'word2vec proxy learns eigenvectors in sequence'
+statement: >-
+  For the quartic proxy of word2vec with tied weights, symmetric reweighting
+  and constant weights, the rank-d minimisers are the top d eigenvectors of
+  the relative deviation-from-independence matrix M*, scaled by the square
+  roots of their eigenvalues, up to rotation; and from an initialisation
+  aligned with those eigenvectors, gradient flow acquires each one in an
+  independent logistic rise, in order of eigenvalue
 version: 2
 history:
 - version: 1
@@ -48,7 +55,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-182 — Proposed; the account this core was split from and that extends it, cited as open -->
 
-# THEORY-739: For the quartic proxy of word2vec with tied weights, symmetric reweighting and constant weights, the rank-d minimisers are the top d eigenvectors of the relative deviation-from-independence matrix M*, scaled by the square roots of their eigenvalues, up to rotation; and from an initialisation aligned with those eigenvectors, gradient flow acquires each one in an independent logistic rise, in order of eigenvalue
+# THEORY-739: word2vec proxy learns eigenvectors in sequence
 
 ## Source
 

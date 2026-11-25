@@ -3,7 +3,12 @@ number: 247
 status: Active
 formerly:
 - THEORY-tmp7x3wf
-title: 'For finite action-free labelled Markov chains, the discounted bisimulation metric, defined as the unique fixed point of Ferns et al.''s equation, is a bicausal optimal-transport distance, and it equals the value of a finite linear program over occupancy couplings'
+title: 'Bisimulation metric is optimal transport'
+statement: >-
+  For finite action-free labelled Markov chains, the discounted bisimulation
+  metric, defined as the unique fixed point of Ferns et al.'s equation, is a
+  bicausal optimal-transport distance, and it equals the value of a finite
+  linear program over occupancy couplings
 version: 3
 history:
 - version: 2
@@ -49,7 +54,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: QUESTION-008 CLAIM-034 — Deferred or Proposed; the set-aside question this bears on, its surviving one-way claim, and the companion account filed the same day, cited as open -->
 
-# THEORY-247: For finite action-free labelled Markov chains, the discounted bisimulation metric, defined as the unique fixed point of Ferns et al.'s equation, is a bicausal optimal-transport distance, and it equals the value of a finite linear program over occupancy couplings
+# THEORY-247: Bisimulation metric is optimal transport
 
 ## Source
 

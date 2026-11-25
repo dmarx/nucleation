@@ -3,7 +3,16 @@ number: 603
 status: Proposed
 formerly:
 - CLAIM-tmpqa0qu
-title: "A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity"
+title: 'The supply, not the loss, decides dependency'
+statement: >-
+  A capability lost because another reliably supplies it is the Black
+  Queen's loss, favoured to the one who loses it, and whether it is
+  dependency or division of labour is decided by the supply, not the loss:
+  one-way supply set from outside, as aid is, leaves a dependence that
+  nothing in the dependent's dynamics limits and that withdrawal punishes,
+  while reciprocal loss, each partner supplying what the other gave up,
+  leaves interdependence, so the aim framed as self-sufficiency is better
+  framed as reciprocity
 version: 8
 history:
 - version: 2
@@ -123,7 +132,7 @@ works:
 <!-- inactive-ok-file: CLAIM-669 CLAIM-671 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: NOTE-1658 THEORY-1351 — Skimmed, Proposed or Unavailable; readings cited as open -->
 
-# CLAIM-603: A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity
+# CLAIM-603: The supply, not the loss, decides dependency
 
 ## The same loss in three places
 

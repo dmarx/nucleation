@@ -3,7 +3,15 @@ number: 695
 status: Proposed
 formerly:
 - CLAIM-tmp36o5i
-title: 'Reinforcement learning on verifiable rewards can make a disposition the base model already had cheaper to realize, by moving probability toward successful trajectories the base reaches under enough sampling, which amortizes part of a search into the policy without enlarging what the base reaches at large budgets; whether a given run sharpened or expanded is an empirical question per run, settled by matched-budget coverage curves and causal tests on the tokens where the two models diverge'
+title: 'RLVR can sharpen without expanding'
+statement: >-
+  Reinforcement learning on verifiable rewards can make a disposition the
+  base model already had cheaper to realize, by moving probability toward
+  successful trajectories the base reaches under enough sampling, which
+  amortizes part of a search into the policy without enlarging what the base
+  reaches at large budgets; whether a given run sharpened or expanded is an
+  empirical question per run, settled by matched-budget coverage curves and
+  causal tests on the tokens where the two models diverge
 version: 1
 role: thesis
 warrant: empirical
@@ -46,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-697 CLAIM-663 ARG-093 THEORY-1880 THEORY-1899 THEORY-1896 THEORY-1908 — Proposed or new; the claim this rests on and the held entries on the same dispute -->
 
-# CLAIM-695: Reinforcement learning on verifiable rewards can make a disposition the base model already had cheaper to realize, by moving probability toward successful trajectories the base reaches under enough sampling, which amortizes part of a search into the policy without enlarging what the base reaches at large budgets; whether a given run sharpened or expanded is an empirical question per run, settled by matched-budget coverage curves and causal tests on the tokens where the two models diverge
+# CLAIM-695: RLVR can sharpen without expanding
 
 ## The claim
 

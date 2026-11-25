@@ -3,7 +3,13 @@ number: 1704
 status: Proposed
 formerly:
 - THEORY-tmpskf4o
-title: 'Boddy and colleagues (2015) argue that fetal microchimerism''s paradoxical effects on maternal health reflect a mix of aligned and conflicting mother-offspring fitness interests, so fetal cells are a selected extension of the placenta "beyond the womb" that can both maintain and manipulate maternal tissues, provoking maternal immune countermeasures'
+title: 'Fetal cells extend the placenta beyond the womb'
+statement: >-
+  Boddy and colleagues (2015) argue that fetal microchimerism's paradoxical
+  effects on maternal health reflect a mix of aligned and conflicting
+  mother-offspring fitness interests, so fetal cells are a selected
+  extension of the placenta "beyond the womb" that can both maintain and
+  manipulate maternal tissues, provoking maternal immune countermeasures
 version: 1
 source:
 - LIT-2450
@@ -24,7 +30,7 @@ summary: >-
   and harmful).
 ---
 
-# THEORY-1704: Boddy and colleagues (2015) argue that fetal microchimerism's paradoxical effects on maternal health reflect a mix of aligned and conflicting mother-offspring fitness interests, so fetal cells are a selected extension of the placenta "beyond the womb" that can both maintain and manipulate maternal tissues, provoking maternal immune countermeasures
+# THEORY-1704: Fetal cells extend the placenta beyond the womb
 
 ## The account
 

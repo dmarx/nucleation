@@ -3,7 +3,14 @@ number: 572
 status: Active
 formerly:
 - CLAIM-tmpcyj43
-title: 'When observing and acting draw on one budget, the cheapest readiness always buys a whole prefix of the probes and stops where a probe lowers the response budget, the splits a fixed budget affords can be disconnected, so shifting resources gradually from response to observation can pass through splits that are not ready, and stopping when the next probe does not pay can miss the optimum'
+title: 'Shared budgets give disconnected splits'
+statement: >-
+  When observing and acting draw on one budget, the cheapest readiness
+  always buys a whole prefix of the probes and stops where a probe lowers
+  the response budget, the splits a fixed budget affords can be
+  disconnected, so shifting resources gradually from response to observation
+  can pass through splits that are not ready, and stopping when the next
+  probe does not pay can miss the optimum
 version: 3
 history:
 - version: 2
@@ -73,7 +80,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2045 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-572: When observing and acting draw on one budget, the cheapest readiness always buys a whole prefix of the probes and stops where a probe lowers the response budget, the splits a fixed budget affords can be disconnected, so shifting resources gradually from response to observation can pass through splits that are not ready, and stopping when the next probe does not pay can miss the optimum
+# CLAIM-572: Shared budgets give disconnected splits
 
 ## The model
 

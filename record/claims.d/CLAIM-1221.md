@@ -3,7 +3,15 @@ number: 1221
 status: Proposed
 formerly:
 - CLAIM-tmp2jhc1
-title: 'A fallback capacity can matter without being used: it keeps a party able to refuse, and so changes the terms others offer, so redundancy that keeps credible alternatives within a governing relationship (constitutional redundancy) differs from redundancy that keeps performance when a component fails (operational redundancy), and optimizing away capacity that ordinary operation never exercises can remove a condition of non-domination'
+title: 'Unused fallbacks change the terms offered'
+statement: >-
+  A fallback capacity can matter without being used: it keeps a party able
+  to refuse, and so changes the terms others offer, so redundancy that keeps
+  credible alternatives within a governing relationship (constitutional
+  redundancy) differs from redundancy that keeps performance when a
+  component fails (operational redundancy), and optimizing away capacity
+  that ordinary operation never exercises can remove a condition of
+  non-domination
 version: 1
 role: thesis
 warrant: interpretive
@@ -53,7 +61,7 @@ summary: >-
 
 <!-- inactive-ok-file: TERM-124 CLAIM-690 CLAIM-682 — Proposed; the term this is stated in and the held claims on control over terms, domination and produced dependence -->
 
-# CLAIM-1221: A fallback capacity can matter without being used: it keeps a party able to refuse, and so changes the terms others offer, so redundancy that keeps credible alternatives within a governing relationship (constitutional redundancy) differs from redundancy that keeps performance when a component fails (operational redundancy), and optimizing away capacity that ordinary operation never exercises can remove a condition of non-domination
+# CLAIM-1221: Unused fallbacks change the terms offered
 
 ## The claim
 

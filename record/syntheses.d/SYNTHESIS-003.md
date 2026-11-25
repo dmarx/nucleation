@@ -3,7 +3,13 @@ number: 3
 status: Superseded
 formerly:
 - SYNTHESIS-tmpg2eh2
-title: 'When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it'
+title: 'What persists is the organization, not repertoire'
+statement: >-
+  When an organized individual persists through changes of state and mode,
+  in the dynamical and historical senses of persistence, what persists is
+  the particular organization that keeps its repertoire realizable, not the
+  repertoire it keeps, nor any state, mode or boundary; that organization
+  may lie inside the individual or outside it
 version: 2
 history:
 - version: 1
@@ -85,7 +91,7 @@ summary: >-
 <!-- inactive-ok-file: SYNTHESIS-001 — filed from the same exchange, Superseded by CLAIM-615; the later thesis that rested on this one -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-576 — Proposed; components, cited with their standing -->
 
-# SYNTHESIS-003: When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it
+# SYNTHESIS-003: What persists is the organization, not repertoire
 
 *Moved from [CLAIM-611](../claims.d/CLAIM-611.md), where its development up to version 2 is recorded. Admitted as an independent hypothesis ([ADR-075](../decisions.d/ADR-075.md)).*
 

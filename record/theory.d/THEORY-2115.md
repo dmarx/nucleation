@@ -3,7 +3,14 @@ number: 2115
 status: Proposed
 formerly:
 - THEORY-tmplxowv
-title: 'Block argues that because we can attribute consciousness to other systems only by extrapolating from ourselves, and our consciousness may depend on our computational roles, on their subcomputational biological realizers, or on both, the major theories of consciousness are meat-neutral, and choosing roles favours conscious AI while choosing realizers favours conscious simple animals'
+title: 'Consciousness theories are meat-neutral'
+statement: >-
+  Block argues that because we can attribute consciousness to other systems
+  only by extrapolating from ourselves, and our consciousness may depend on
+  our computational roles, on their subcomputational biological realizers,
+  or on both, the major theories of consciousness are meat-neutral, and
+  choosing roles favours conscious AI while choosing realizers favours
+  conscious simple animals
 version: 1
 source:
 - LIT-2925
@@ -22,7 +29,7 @@ summary: >-
   Proposed until its promote_when is met.
 ---
 
-# THEORY-2115: Block argues that because we can attribute consciousness to other systems only by extrapolating from ourselves, and our consciousness may depend on our computational roles, on their subcomputational biological realizers, or on both, the major theories of consciousness are meat-neutral, and choosing roles favours conscious AI while choosing realizers favours conscious simple animals
+# THEORY-2115: Consciousness theories are meat-neutral
 
 ## The account
 

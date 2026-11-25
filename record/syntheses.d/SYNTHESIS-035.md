@@ -3,7 +3,15 @@ number: 35
 status: Proposed
 formerly:
 - SYNTHESIS-tmp4u1pa
-title: 'The will-organization line is five accounts that meet at its central thesis, that maintained relations of efficacy decide which of an agent''s regimes becomes effective: what decides it, how a population of interests acts as one, frustration among demands, maintaining the capacity to govern, and freedom of will and self-formation; the line makes no claim beyond its parts, one of them is mostly closed, and normative judgment about organizations, once a sixth part, is a line of its own'
+title: 'Will-organization: five accounts, one thesis'
+statement: >-
+  The will-organization line is five accounts that meet at its central
+  thesis, that maintained relations of efficacy decide which of an agent's
+  regimes becomes effective: what decides it, how a population of interests
+  acts as one, frustration among demands, maintaining the capacity to
+  govern, and freedom of will and self-formation; the line makes no claim
+  beyond its parts, one of them is mostly closed, and normative judgment
+  about organizations, once a sixth part, is a line of its own
 version: 5
 history:
 - version: 2
@@ -87,7 +95,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-015 QUESTION-304 — Answered; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-036 SYNTHESIS-037 SYNTHESIS-044 SYNTHESIS-039 SYNTHESIS-041 SYNTHESIS-038 — placeholders for the codes of this review's part accounts -->
 
-# SYNTHESIS-035: The will-organization line is five accounts that meet at its central thesis, that maintained relations of efficacy decide which of an agent's regimes becomes effective: what decides it, how a population of interests acts as one, frustration among demands, maintaining the capacity to govern, and freedom of will and self-formation; the line makes no claim beyond its parts, one of them is mostly closed, and normative judgment about organizations, once a sixth part, is a line of its own
+# SYNTHESIS-035: Will-organization: five accounts, one thesis
 
 *The account of the will-organization line, over the accounts of its five parts ([ADR-083](../decisions.d/ADR-083.md), [ADR-084](../decisions.d/ADR-084.md)). A sixth part, normative judgment about organizations, became the line organizational-normativity at the split of will-organization ([ADR-089](../decisions.d/ADR-089.md)), and its 23 entries left this line. No account of the line was in force: the six syntheses that carry the line are Superseded, their content returned to claims ([ADR-084](../decisions.d/ADR-084.md)), and those claims are integrated here through the parts.*
 

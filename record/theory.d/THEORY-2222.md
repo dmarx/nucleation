@@ -3,7 +3,17 @@ number: 2222
 status: Proposed
 formerly:
 - THEORY-tmpxzn3p
-title: 'Metzinger (2021) argues that, since there is no theory of consciousness or of suffering, the risk of creating artificial suffering is incalculable and research that knowingly risks synthetic phenomenology should be banned until 2050; he holds that suffering requires four jointly necessary conditions, consciousness, a phenomenal self-model, negatively valenced states integrated into it and phenomenal transparency, so that a conscious system lacking a self-model, or identifying only with minimal phenomenal experience, could not suffer, which he offers as a route to ethics by design'
+title: 'Risk of artificial suffering warrants a ban'
+statement: >-
+  Metzinger (2021) argues that, since there is no theory of consciousness or
+  of suffering, the risk of creating artificial suffering is incalculable
+  and research that knowingly risks synthetic phenomenology should be banned
+  until 2050; he holds that suffering requires four jointly necessary
+  conditions, consciousness, a phenomenal self-model, negatively valenced
+  states integrated into it and phenomenal transparency, so that a conscious
+  system lacking a self-model, or identifying only with minimal phenomenal
+  experience, could not suffer, which he offers as a route to ethics by
+  design
 version: 1
 source:
 - LIT-1947
@@ -30,7 +40,7 @@ summary: >-
   theory, not shown.
 ---
 
-# THEORY-2222: Metzinger (2021) argues that, since there is no theory of consciousness or of suffering, the risk of creating artificial suffering is incalculable and research that knowingly risks synthetic phenomenology should be banned until 2050; he holds that suffering requires four jointly necessary conditions, consciousness, a phenomenal self-model, negatively valenced states integrated into it and phenomenal transparency, so that a conscious system lacking a self-model, or identifying only with minimal phenomenal experience, could not suffer, which he offers as a route to ethics by design
+# THEORY-2222: Risk of artificial suffering warrants a ban
 
 ## The account
 

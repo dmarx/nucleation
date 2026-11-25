@@ -3,7 +3,11 @@ number: 254
 status: Superseded
 formerly:
 - CLAIM-tmpwevyr
-title: 'Read as the Saussure correction has it, the structuralist premise argues against transport: value is internal to one language state, so what can cross between languages is signification, the aspect the premise demotes'
+title: 'Saussure''s value argues against transport'
+statement: >-
+  Read as the Saussure correction has it, the structuralist premise argues
+  against transport: value is internal to one language state, so what can
+  cross between languages is signification, the aspect the premise demotes
 version: 2
 history:
 - version: 2
@@ -41,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-033 — Proposed; the argument this claim moved to -->
 <!-- inactive-ok-file: CLAIM-072 — Superseded; moved to arguments the same day, cited as the claim whose last paragraph this objected to -->
 
-# CLAIM-254: Read as the Saussure correction has it, the structuralist premise argues against transport: value is internal to one language state, so what can cross between languages is signification, the aspect the premise demotes
+# CLAIM-254: Saussure's value argues against transport
 
 ## The objection
 

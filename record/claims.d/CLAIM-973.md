@@ -3,7 +3,13 @@ number: 973
 status: Proposed
 formerly:
 - CLAIM-tmpkgzd8
-title: 'The embedding of a network that has learned a non-abelian group carries the group''s irreducibles as a group-Fourier power spectrum concentrated on the faithful ones, with the trivial component near zero and the sign representation smallest, the dominant faithful irreducible varying with the seed'
+title: 'Embeddings concentrate on faithful irreducibles'
+statement: >-
+  The embedding of a network that has learned a non-abelian group carries
+  the group's irreducibles as a group-Fourier power spectrum concentrated on
+  the faithful ones, with the trivial component near zero and the sign
+  representation smallest, the dominant faithful irreducible varying with
+  the seed
 version: 1
 role: thesis
 warrant: empirical
@@ -31,7 +37,7 @@ grounds:
 
 <!-- inactive-ok-file: CLAIM-972, CASE-378 — Proposed; the sibling finding this one complements and the study, filed in the same batch -->
 
-# CLAIM-973: The embedding of a network that has learned a non-abelian group carries the group's irreducibles as a group-Fourier power spectrum concentrated on the faithful ones, with the trivial component near zero and the sign representation smallest, the dominant faithful irreducible varying with the seed
+# CLAIM-973: Embeddings concentrate on faithful irreducibles
 
 ## The claim
 

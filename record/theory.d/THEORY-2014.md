@@ -3,7 +3,15 @@ number: 2014
 status: Proposed
 formerly:
 - THEORY-tmp8my3p
-title: 'Gili and colleagues infer, for a literature-based eleven-region language connectome, the subnetworks whose coarsest balanced colourings equal the group-average fMRI synchrony clusters at rest (four fibres) and in two speech tasks (five, one partition for both); the inferred networks have only the identity automorphism and their rest and task partitions cross, so the reported fibration symmetry breaking is a change of balanced partition imposed by the observed clusters, not predicted from structure'
+title: 'Fibration breaking is imposed, not predicted'
+statement: >-
+  Gili and colleagues infer, for a literature-based eleven-region language
+  connectome, the subnetworks whose coarsest balanced colourings equal the
+  group-average fMRI synchrony clusters at rest (four fibres) and in two
+  speech tasks (five, one partition for both); the inferred networks have
+  only the identity automorphism and their rest and task partitions cross,
+  so the reported fibration symmetry breaking is a change of balanced
+  partition imposed by the observed clusters, not predicted from structure
 version: 1
 source:
 - LIT-2804
@@ -36,7 +44,7 @@ summary: >-
   synchronous", and it predicts no partition.
 ---
 
-# THEORY-2014: Gili and colleagues infer, for a literature-based eleven-region language connectome, the subnetworks whose coarsest balanced colourings equal the group-average fMRI synchrony clusters at rest (four fibres) and in two speech tasks (five, one partition for both); the inferred networks have only the identity automorphism and their rest and task partitions cross, so the reported fibration symmetry breaking is a change of balanced partition imposed by the observed clusters, not predicted from structure
+# THEORY-2014: Fibration breaking is imposed, not predicted
 
 ## The account
 

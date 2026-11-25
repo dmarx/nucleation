@@ -3,7 +3,12 @@ number: 1231
 status: Proposed
 formerly:
 - CLAIM-tmp4zii5
-title: 'An asymmetric arrangement can come to supply the standard by which complaints against it are judged, so that a party objecting to its terms is counted as the party violating them; this normative capture is self-sealing, since the objection is heard only in the terms it contests'
+title: 'Normative capture is self-sealing'
+statement: >-
+  An asymmetric arrangement can come to supply the standard by which
+  complaints against it are judged, so that a party objecting to its terms
+  is counted as the party violating them; this normative capture is
+  self-sealing, since the objection is heard only in the terms it contests
 version: 1
 role: thesis
 warrant: interpretive
@@ -47,7 +52,7 @@ summary: >-
 
 <!-- inactive-ok-file: TERM-066 CLAIM-624 CLAIM-1212 CLAIM-1279 THEORY-145 — Proposed; the term this extends, the held claim on occlusion, the claims filed with this from A22, and Argyris's account of self-sealing -->
 
-# CLAIM-1231: An asymmetric arrangement can come to supply the standard by which complaints against it are judged, so that a party objecting to its terms is counted as the party violating them; this normative capture is self-sealing, since the objection is heard only in the terms it contests
+# CLAIM-1231: Normative capture is self-sealing
 
 ## The claim
 

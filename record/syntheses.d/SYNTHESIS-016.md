@@ -3,7 +3,13 @@ number: 16
 status: Proposed
 formerly:
 - SYNTHESIS-tmpllsy7
-title: 'The nucleating-argument line is three accounts that meet at the rule for when to code an argument: what fails when an argument is restated, how coding at the second occurrence stops it, and when filing pays; the one claim the line makes beyond its parts is that the rule''s drift-catching and cost-competitive justifications part when filing is dear'
+title: 'Nucleating-argument: three accounts, one rule'
+statement: >-
+  The nucleating-argument line is three accounts that meet at the rule for
+  when to code an argument: what fails when an argument is restated, how
+  coding at the second occurrence stops it, and when filing pays; the one
+  claim the line makes beyond its parts is that the rule's drift-catching
+  and cost-competitive justifications part when filing is dear
 version: 3
 history:
 - version: 2
@@ -62,7 +68,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-176 CLAIM-185 CLAIM-186 CLAIM-191 CLAIM-192 CLAIM-301 CLAIM-630 SYNTHESIS-012 SYNTHESIS-013 SYNTHESIS-014 SYNTHESIS-015 SYNTHESIS-017 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-016: The nucleating-argument line is three accounts that meet at the rule for when to code an argument: what fails when an argument is restated, how coding at the second occurrence stops it, and when filing pays; the one claim the line makes beyond its parts is that the rule's drift-catching and cost-competitive justifications part when filing is dear
+# SYNTHESIS-016: Nucleating-argument: three accounts, one rule
 
 *The account of the nucleating-argument line, over the accounts of its three parts ([ADR-083](../decisions.d/ADR-083.md)). Version 1 was the account of the whole line before it was split ([ADR-082](../decisions.d/ADR-082.md)). Version 2 was a derivation filed as the line's synthesis; it is now [CLAIM-630](../claims.d/CLAIM-630.md) ([ADR-084](../decisions.d/ADR-084.md)).*
 

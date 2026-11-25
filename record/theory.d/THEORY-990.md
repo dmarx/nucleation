@@ -16,7 +16,12 @@ promote_when: >-
   Further co-occurrence across sizes, or more examples of abstract
   induction heads, cannot settle it: that is the evidence it already rests
   on.
-title: 'In transformer language models of every size, including large ones with MLPs, induction heads, extended to fuzzy matching of similar tokens and abstract patterns, are the mechanism of most in-context learning, as Olsson et al. propose'
+title: 'Induction heads drive most in-context learning'
+statement: >-
+  In transformer language models of every size, including large ones with
+  MLPs, induction heads, extended to fuzzy matching of similar tokens and
+  abstract patterns, are the mechanism of most in-context learning, as
+  Olsson et al. propose
 version: 2
 history:
 - version: 1
@@ -51,7 +56,7 @@ summary: >-
   size.
 ---
 <!-- inactive-ok-file: THEORY-2042 — Proposed; cited in this filing of 2026-11-19 -->
-# THEORY-990: In transformer language models of every size, including large ones with MLPs, induction heads, extended to fuzzy matching of similar tokens and abstract patterns, are the mechanism of most in-context learning, as Olsson et al. propose
+# THEORY-990: Induction heads drive most in-context learning
 
 ## Source
 

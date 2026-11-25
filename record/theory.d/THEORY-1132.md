@@ -3,7 +3,16 @@ number: 1132
 status: Active
 formerly:
 - THEORY-tmp9mvg2
-title: 'For K networks compared under square loss, the multi-marginal fused Gromov–Wasserstein objective of a joint coupling tensor is exactly the sum of the pairwise fused GW objectives of its two-way marginals, so the joint optimum is at least the sum of the pairwise optima, with equality exactly when some choice of pairwise optimal couplings is jointly realizable as the marginals of one tensor; a joint alignment is consistent in that sense by construction, which for deterministic couplings means the pairwise maps compose and for soft ones does not'
+title: 'Multi-marginal FGW is sum of pairwise objectives'
+statement: >-
+  For K networks compared under square loss, the multi-marginal fused
+  Gromov–Wasserstein objective of a joint coupling tensor is exactly the sum
+  of the pairwise fused GW objectives of its two-way marginals, so the joint
+  optimum is at least the sum of the pairwise optima, with equality exactly
+  when some choice of pairwise optimal couplings is jointly realizable as
+  the marginals of one tensor; a joint alignment is consistent in that sense
+  by construction, which for deterministic couplings means the pairwise maps
+  compose and for soft ones does not
 version: 1
 tags:
 - network-science
@@ -21,7 +30,7 @@ summary: >-
   independent pairwise optima are from joint realizability.
 ---
 
-# THEORY-1132: For K networks compared under square loss, the multi-marginal fused Gromov–Wasserstein objective of a joint coupling tensor is exactly the sum of the pairwise fused GW objectives of its two-way marginals, so the joint optimum is at least the sum of the pairwise optima, with equality exactly when some choice of pairwise optimal couplings is jointly realizable as the marginals of one tensor; a joint alignment is consistent in that sense by construction, which for deterministic couplings means the pairwise maps compose and for soft ones does not
+# THEORY-1132: Multi-marginal FGW is sum of pairwise objectives
 
 ## Source
 

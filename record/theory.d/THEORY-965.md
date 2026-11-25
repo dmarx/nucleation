@@ -17,7 +17,13 @@ promote_when: >-
   steering.
   Further steering transcripts of selected features cannot settle it: that
   is the evidence it rests on.
-title: 'Sparse-autoencoder features of a large language model''s residual stream are units the model computes with: they track abstract concepts across languages, modalities and concrete or abstract instances, and intervening on one changes the model''s behaviour in the way its label predicts, better than directions found from a few labelled examples'
+title: 'SAE features are units the model computes with'
+statement: >-
+  Sparse-autoencoder features of a large language model's residual stream
+  are units the model computes with: they track abstract concepts across
+  languages, modalities and concrete or abstract instances, and intervening
+  on one changes the model's behaviour in the way its label predicts, better
+  than directions found from a few labelled examples
 version: 1
 history:
 - version: 1
@@ -49,7 +55,7 @@ summary: >-
   ([THEORY-968](THEORY-968.md)).
 ---
 <!-- inactive-ok-file: THEORY-1016 — Proposed; the claim and the account this bears on, cited as open -->
-# THEORY-965: Sparse-autoencoder features of a large language model's residual stream are units the model computes with: they track abstract concepts across languages, modalities and concrete or abstract instances, and intervening on one changes the model's behaviour in the way its label predicts, better than directions found from a few labelled examples
+# THEORY-965: SAE features are units the model computes with
 
 ## Source
 

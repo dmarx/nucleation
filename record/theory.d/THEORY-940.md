@@ -3,7 +3,12 @@ number: 940
 status: Active
 formerly:
 - THEORY-tmpq0hjk
-title: 'In a finite symmetric zero-sum game, successive Nash clusters are weakly ordered by relative population performance, and a strategy that beats every member of a population containing a whole cluster lies in a strictly earlier cluster'
+title: 'Nash clusters order by population performance'
+statement: >-
+  In a finite symmetric zero-sum game, successive Nash clusters are weakly
+  ordered by relative population performance, and a strategy that beats
+  every member of a population containing a whole cluster lies in a strictly
+  earlier cluster
 version: 3
 history:
 - version: 2
@@ -55,7 +60,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 
-# THEORY-940: In a finite symmetric zero-sum game, successive Nash clusters are weakly ordered by relative population performance, and a strategy that beats every member of a population containing a whole cluster lies in a strictly earlier cluster
+# THEORY-940: Nash clusters order by population performance
 
 ## Source
 

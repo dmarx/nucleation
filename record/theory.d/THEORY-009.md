@@ -3,7 +3,13 @@ number: 9
 status: Active
 formerly:
 - THEORY-tmpwf2pt
-title: 'In the positive-pair spectral self-supervised papers, self-adjointness comes from the symmetry of the positive-pair distribution, not from the Riesz representation theorem; elsewhere in the family it comes from a symmetrized loss, a precondition on the kernel, or composing the conditional-expectation operator with its adjoint'
+title: 'Self-adjointness is from pair symmetry, not Riesz'
+statement: >-
+  In the positive-pair spectral self-supervised papers, self-adjointness
+  comes from the symmetry of the positive-pair distribution, not from the
+  Riesz representation theorem; elsewhere in the family it comes from a
+  symmetrized loss, a precondition on the kernel, or composing the
+  conditional-expectation operator with its adjoint
 version: 10
 history:
 - version: 2
@@ -120,7 +126,7 @@ bounds:
 - CLAIM-291
 ---
 
-# THEORY-009: In the positive-pair spectral self-supervised papers, self-adjointness comes from the symmetry of the positive-pair distribution, not from the Riesz representation theorem; elsewhere in the family it comes from a symmetrized loss, a precondition on the kernel, or composing the conditional-expectation operator with its adjoint
+# THEORY-009: Self-adjointness is from pair symmetry, not Riesz
 
 ## Source
 

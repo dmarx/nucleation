@@ -3,7 +3,14 @@ number: 1057
 status: Active
 formerly:
 - CLAIM-tmp9zqvq
-title: 'In the toy model of superposition, Chen et al.''s missing transition 5 → 6 is not reached by plain SGD at any of the sample sizes, batch sizes, learning rates, initialisations and training lengths tried, on both sides of n ≈ 600; from the 5-gon it is closed outright, and from the live 5⁺-gon it was not reached, so for this model "inaccessible" describes SGD better than "not reached in 4,500 epochs at one setting"'
+title: 'SGD does not reach the 5 → 6 transition'
+statement: >-
+  In the toy model of superposition, Chen et al.'s missing transition 5 → 6
+  is not reached by plain SGD at any of the sample sizes, batch sizes,
+  learning rates, initialisations and training lengths tried, on both sides
+  of n ≈ 600; from the 5-gon it is closed outright, and from the live 5⁺-gon
+  it was not reached, so for this model "inaccessible" describes SGD better
+  than "not reached in 4,500 epochs at one setting"
 version: 2
 history:
 - version: 2
@@ -46,7 +53,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
-# CLAIM-1057: In the toy model of superposition, Chen et al.'s missing transition 5 → 6 is not reached by plain SGD at any of the sample sizes, batch sizes, learning rates, initialisations and training lengths tried, on both sides of n ≈ 600; from the 5-gon it is closed outright, and from the live 5⁺-gon it was not reached, so for this model "inaccessible" describes SGD better than "not reached in 4,500 epochs at one setting"
+# CLAIM-1057: SGD does not reach the 5 → 6 transition
 
 ## The claim
 

@@ -3,7 +3,17 @@ number: 785
 status: Proposed
 formerly:
 - CLAIM-tmpj4fzn
-title: 'Adding a predicate to an entry is adding a constraint on its revisions: each field filled, relation drawn, status set, defeater stated and passage quoted is a test its later versions must pass, so as they accrue the revisions still open to it are an intersection that only shrinks, toward what the predicates say, which its filers chose; the inductive prior an entry develops is that intersection weighted by how hard each predicate is enforced, from prose convention to lint rule; accruing predicates stabilizes an entry, in the control-theoretic sense, in the dimensions they constrain, and narrowing it is not good in itself'
+title: 'Each predicate constrains later revisions'
+statement: >-
+  Adding a predicate to an entry is adding a constraint on its revisions:
+  each field filled, relation drawn, status set, defeater stated and passage
+  quoted is a test its later versions must pass, so as they accrue the
+  revisions still open to it are an intersection that only shrinks, toward
+  what the predicates say, which its filers chose; the inductive prior an
+  entry develops is that intersection weighted by how hard each predicate is
+  enforced, from prose convention to lint rule; accruing predicates
+  stabilizes an entry, in the control-theoretic sense, in the dimensions
+  they constrain, and narrowing it is not good in itself
 version: 2
 history:
 - version: 2
@@ -54,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-778 CLAIM-772 CLAIM-184 CLAIM-068 CLAIM-119 TERM-132 — Proposed; the claims this restates in terms of predicates, and the risks it keeps -->
 <!-- inactive-ok-file: CLAIM-783 TERM-134 TERM-133 — Proposed; filed in this contribution of 2026-11-21 -->
 
-# CLAIM-785: Adding a predicate to an entry is adding a constraint on its revisions: each field filled, relation drawn, status set, defeater stated and passage quoted is a test its later versions must pass, so as they accrue the revisions still open to it are an intersection that only shrinks, toward what the predicates say, which its filers chose; the inductive prior an entry develops is that intersection weighted by how hard each predicate is enforced, from prose convention to lint rule; accruing predicates stabilizes an entry, in the control-theoretic sense, in the dimensions they constrain, and narrowing it is not good in itself
+# CLAIM-785: Each predicate constrains later revisions
 
 ## The claim
 

@@ -15,7 +15,15 @@ promote_when: >-
   statisticalism and individual-level causalism. A further argument that
   composition is not causation cannot settle it, since that premise is not
   what reciprocal-causation advocates dispute.
-title: "Natural selection cannot be both a cause and an effect of a process such as niche construction: if selection is an emergent population-level process, niche construction partly composes it, and a whole and its parts are not independently fixable and so not causally related; if selection is not emergent, it is either no cause at all or incoherently individual-level. Niche construction can still cause the product of selection"
+title: 'Niche construction can''t cause selection itself'
+statement: >-
+  Natural selection cannot be both a cause and an effect of a process such
+  as niche construction: if selection is an emergent population-level
+  process, niche construction partly composes it, and a whole and its parts
+  are not independently fixable and so not causally related; if selection is
+  not emergent, it is either no cause at all or incoherently
+  individual-level. Niche construction can still cause the product of
+  selection
 version: 1
 tags:
 - metaphysics
@@ -44,7 +52,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-446 — Proposed; the unrolled model named under what this account does not say, not leaned on -->
 <!-- inactive-ok-file: THEORY-048 THEORY-058 — Proposed; accounts that cite this paper or answer the same interlevel question, named as neighbours, not leaned on -->
 
-# THEORY-612: Natural selection cannot be both a cause and an effect of a process such as niche construction: if selection is an emergent population-level process, niche construction partly composes it, and a whole and its parts are not independently fixable and so not causally related; if selection is not emergent, it is either no cause at all or incoherently individual-level. Niche construction can still cause the product of selection
+# THEORY-612: Niche construction can't cause selection itself
 
 ## Source
 

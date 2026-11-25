@@ -9,7 +9,11 @@ promote_when: >-
   Cam's deficiency theory specialised to deficiency zero, or the 1953 proof
   is checked together with the 1951 proofs of the two results it quotes.
   Restatements in surveys do not count.
-title: 'For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation'
+title: 'Informativeness equals simulability by garbling'
+statement: >-
+  For experiments on a finite parameter set, being at least as informative
+  for every decision problem is the same as being able to simulate the other
+  by a randomisation
 version: 1
 tags:
 - mathematical-statistics
@@ -32,7 +36,7 @@ summary: >-
   its last step needs a regular conditional distribution.
 ---
 
-# THEORY-1177: For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
+# THEORY-1177: Informativeness equals simulability by garbling
 
 ## Source
 

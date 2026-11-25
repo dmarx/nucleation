@@ -3,7 +3,15 @@ number: 27
 status: Proposed
 formerly:
 - SYNTHESIS-tmp78y0i
-title: 'Readiness for a rare contingency is a probability of effective response under an imposed contingency, which a record of use does not measure, so neither low use nor frequent cancellation shows a reserve to be waste; a capacity is worth what the capacities it works with let it deliver, records kept per capacity bound readiness and do not identify it, and a capability kept for rare events decays unless it is practised outside operation'
+title: 'Low use does not show a reserve is waste'
+statement: >-
+  Readiness for a rare contingency is a probability of effective response
+  under an imposed contingency, which a record of use does not measure, so
+  neither low use nor frequent cancellation shows a reserve to be waste; a
+  capacity is worth what the capacities it works with let it deliver,
+  records kept per capacity bound readiness and do not identify it, and a
+  capability kept for rare events decays unless it is practised outside
+  operation
 version: 2
 history:
 - version: 2
@@ -56,7 +64,7 @@ integrates:
 <!-- inactive-ok-file: ARG-053 — Rejected; a component, the inference the part rejects -->
 <!-- inactive-ok-file: SYNTHESIS-009 — Superseded; cited as the entry CLAIM-632 returned from -->
 
-# SYNTHESIS-027: Readiness for a rare contingency is a probability of effective response under an imposed contingency, which a record of use does not measure, so neither low use nor frequent cancellation shows a reserve to be waste; a capacity is worth what the capacities it works with let it deliver, records kept per capacity bound readiness and do not identify it, and a capability kept for rare events decays unless it is practised outside operation
+# SYNTHESIS-027: Low use does not show a reserve is waste
 
 *A part account of the readiness line: the part filed from the exchange on
 emergency readiness and its bibliography (2026-11-04), with what later

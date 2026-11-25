@@ -3,7 +3,15 @@ number: 676
 status: Active
 formerly:
 - THEORY-tmpy0c02
-title: "Dewar's information-theoretic derivation of maximum entropy production does not reach the far-from-equilibrium regime where the principle is applied: the 2003 route needs a mean-field step and an unargued assumption about path counts, the 2005 route's orthogonality condition, which yields both maximum and minimum dissipation, holds only with linear constitutive relations, and the 2003 self-organized-criticality corollary is an artefact of a quadratic expansion"
+title: 'Dewar''s MaxEP derivations don''t reach far regime'
+statement: >-
+  Dewar's information-theoretic derivation of maximum entropy production
+  does not reach the far-from-equilibrium regime where the principle is
+  applied: the 2003 route needs a mean-field step and an unargued assumption
+  about path counts, the 2005 route's orthogonality condition, which yields
+  both maximum and minimum dissipation, holds only with linear constitutive
+  relations, and the 2003 self-organized-criticality corollary is an
+  artefact of a quadratic expansion
 version: 1
 tags:
 - thermodynamics
@@ -25,7 +33,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-671 — Proposed; named as the account whose derivation this finding examines, not leaned on -->
 
-# THEORY-676: Dewar's information-theoretic derivation of maximum entropy production does not reach the far-from-equilibrium regime where the principle is applied: the 2003 route needs a mean-field step and an unargued assumption about path counts, the 2005 route's orthogonality condition, which yields both maximum and minimum dissipation, holds only with linear constitutive relations, and the 2003 self-organized-criticality corollary is an artefact of a quadratic expansion
+# THEORY-676: Dewar's MaxEP derivations don't reach far regime
 
 ## Source
 

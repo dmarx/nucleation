@@ -3,11 +3,13 @@ number: 1153
 status: Proposed
 formerly:
 - CLAIM-tmpptr3w
-title: 'Whether a plurality of collectives is a pseudo-self or an ecosystem of pseudo-selves
-  is relative to the regime it is analyzed under: the integration condition is indexed
-  by a probe family and a horizon, so the same firms can be merely coupled at a
-  short horizon and integrated at a long one, and at a fixed regime there is no
-  further difference in kind'
+title: 'Pseudo-self or ecosystem is regime-relative'
+statement: >-
+  Whether a plurality of collectives is a pseudo-self or an ecosystem of
+  pseudo-selves is relative to the regime it is analyzed under: the
+  integration condition is indexed by a probe family and a horizon, so the
+  same firms can be merely coupled at a short horizon and integrated at a
+  long one, and at a fixed regime there is no further difference in kind
 version: 1
 role: thesis
 warrant: interpretive
@@ -37,7 +39,7 @@ summary: 'One of two answers to the owner''s question of 2026-11-23 ([QUESTION-5
 
 <!-- inactive-ok-file: CLAIM-157 TERM-166 CLAIM-1074 — Proposed; the premise, the term and the alternative -->
 
-# CLAIM-1153: Whether a plurality of collectives is a pseudo-self or an ecosystem of pseudo-selves is relative to the regime it is analyzed under: the integration condition is indexed by a probe family and a horizon, so the same firms can be merely coupled at a short horizon and integrated at a long one, and at a fixed regime there is no further difference in kind
+# CLAIM-1153: Pseudo-self or ecosystem is regime-relative
 
 ## The claim
 

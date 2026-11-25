@@ -3,7 +3,14 @@ number: 984
 status: Proposed
 formerly:
 - CLAIM-tmpmp7w2
-title: 'Whether a specification can be read off what it specifies or must be stated in advance depends on whether its vocabulary of tests is closed: over a finite declared vocabulary the strongest description an object passes is computable, so describing can be left to inference, while over an open one no strongest description need exist and what the object is to satisfy must be written down'
+title: 'Closed vocabulary lets description be inferred'
+statement: >-
+  Whether a specification can be read off what it specifies or must be
+  stated in advance depends on whether its vocabulary of tests is closed:
+  over a finite declared vocabulary the strongest description an object
+  passes is computable, so describing can be left to inference, while over
+  an open one no strongest description need exist and what the object is to
+  satisfy must be written down
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2259 THEORY-2260 — Proposed; the readings and claims this is stated against -->
 
-# CLAIM-984: Whether a specification can be read off what it specifies or must be stated in advance depends on whether its vocabulary of tests is closed: over a finite declared vocabulary the strongest description an object passes is computable, so describing can be left to inference, while over an open one no strongest description need exist and what the object is to satisfy must be written down
+# CLAIM-984: Closed vocabulary lets description be inferred
 
 ## The claim
 

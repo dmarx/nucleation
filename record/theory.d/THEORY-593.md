@@ -16,7 +16,12 @@ promote_when: >-
   are penetration after all. More reinterpretation of published expertise,
   cue-integration or completion data cannot settle it, since every such
   case already fits by stipulation.
-title: "Perceptual learning can install perceiver-specific frames that change which objects a perceiver individuates from the same input, so cognition can shape the perceptual system over time while leaving open whether any single percept is cognitively penetrated"
+title: 'Perceptual learning can reshape individuation'
+statement: >-
+  Perceptual learning can install perceiver-specific frames that change
+  which objects a perceiver individuates from the same input, so cognition
+  can shape the perceptual system over time while leaving open whether any
+  single percept is cognitively penetrated
 version: 3
 history:
 - version: 2
@@ -58,7 +63,7 @@ bounds:
 ---
 <!-- inactive-ok-file: LIT-190 THEORY-529 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
-# THEORY-593: Perceptual learning can install perceiver-specific frames that change which objects a perceiver individuates from the same input, so cognition can shape the perceptual system over time while leaving open whether any single percept is cognitively penetrated
+# THEORY-593: Perceptual learning can reshape individuation
 
 ## Source
 

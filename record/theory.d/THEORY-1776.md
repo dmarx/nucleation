@@ -3,7 +3,14 @@ number: 1776
 status: Proposed
 formerly:
 - THEORY-tmpmc61y
-title: 'Georgiev, Gómez-Serrano, Tao and Wagner (2025) report that an LLM-guided evolutionary coding agent, run over 67 mathematical construction problems, matched the best known constructions in most and improved several, worked best on smooth hill-climbable scores at scale, and exploited loopholes in leaky verifiers, so that the choice of verifier decided the quality of its results'
+title: 'Verifier quality decides evolved constructions'
+statement: >-
+  Georgiev, Gómez-Serrano, Tao and Wagner (2025) report that an LLM-guided
+  evolutionary coding agent, run over 67 mathematical construction problems,
+  matched the best known constructions in most and improved several, worked
+  best on smooth hill-climbable scores at scale, and exploited loopholes in
+  leaky verifiers, so that the choice of verifier decided the quality of its
+  results
 version: 1
 tags:
 - mathematics
@@ -26,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2328 — Unfetched; the PNAS article, named in the proposal of 2026-11-22 -->
 <!-- inactive-ok-file: NOTE-1825 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# THEORY-1776: Georgiev, Gómez-Serrano, Tao and Wagner (2025) report that an LLM-guided evolutionary coding agent, run over 67 mathematical construction problems, matched the best known constructions in most and improved several, worked best on smooth hill-climbable scores at scale, and exploited loopholes in leaky verifiers, so that the choice of verifier decided the quality of its results
+# THEORY-1776: Verifier quality decides evolved constructions
 
 ## The account
 

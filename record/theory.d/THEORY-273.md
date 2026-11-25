@@ -14,7 +14,11 @@ promote_when: >-
   separates natural from conventional kinds without counterexample.
   Further cases of useful classifications that are natural cannot settle
   it.
-title: 'Inductive and explanatory usefulness is necessary but not sufficient for a natural kind: it holds of classes that share any natural property, and on its own it cannot tell a natural kind from a conventional or pragmatic one'
+title: 'Usefulness doesn''t suffice for natural kinds'
+statement: >-
+  Inductive and explanatory usefulness is necessary but not sufficient for a
+  natural kind: it holds of classes that share any natural property, and on
+  its own it cannot tell a natural kind from a conventional or pragmatic one
 version: 2
 history:
 - version: 2
@@ -45,7 +49,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-036 THEORY-057 — Proposed; cited as parallel accounts, not as settled -->
 
-# THEORY-273: Inductive and explanatory usefulness is necessary but not sufficient for a natural kind: it holds of classes that share any natural property, and on its own it cannot tell a natural kind from a conventional or pragmatic one
+# THEORY-273: Usefulness doesn't suffice for natural kinds
 
 ## Source
 

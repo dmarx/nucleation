@@ -3,7 +3,15 @@ number: 682
 status: Proposed
 formerly:
 - CLAIM-tmpkjv7u
-title: 'A dependence becomes presumptively dominating by those who control it when three conditions coincide: participation in an important sphere of life rests on the arrangement, those who control it hold consequential discretion over the dependent, and the dependent lacks effective means of protection, influence, challenge or justified withdrawal; this is a test for domination by an arrangement''s controllers, not for every unfreedom, and impersonal constraint that no one holds is outside it'
+title: 'Three-condition test for dominating dependence'
+statement: >-
+  A dependence becomes presumptively dominating by those who control it when
+  three conditions coincide: participation in an important sphere of life
+  rests on the arrangement, those who control it hold consequential
+  discretion over the dependent, and the dependent lacks effective means of
+  protection, influence, challenge or justified withdrawal; this is a test
+  for domination by an arrangement's controllers, not for every unfreedom,
+  and impersonal constraint that no one holds is outside it
 version: 6
 history:
 - version: 2
@@ -99,7 +107,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-677 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: NOTE-1921 — filed from the readings of 2026-11-13, Skimmed; Illich, a two-page excerpt -->
 
-# CLAIM-682: A dependence becomes presumptively dominating by those who control it when three conditions coincide: participation in an important sphere of life rests on the arrangement, those who control it hold consequential discretion over the dependent, and the dependent lacks effective means of protection, influence, challenge or justified withdrawal; this is a test for domination by an arrangement's controllers, not for every unfreedom, and impersonal constraint that no one holds is outside it
+# CLAIM-682: Three-condition test for dominating dependence
 
 ## The claim
 

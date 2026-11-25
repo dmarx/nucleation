@@ -3,7 +3,16 @@ number: 1451
 status: Active
 formerly:
 - THEORY-tmpxgxmn
-title: 'Winfree and Bekbolatov show, in kinetic Tile Assembly Model simulation and kinetic-trap theory, that replacing each tile of a tile set with a K×K block whose internal bonds are unique keeps the logical assembly unchanged but forces any mismatch to stall until it dissociates, raising the optimal speed for a target error ε from r ≈ βε² to r ≈ βε at K = 2; their thermodynamic argument predicts an error rate exponential in K, and the simulated gain beyond K = 2 falls short of it, which they attribute to facet-roughening errors that proofreading does not correct'
+title: 'Block proofreading cuts tile assembly errors'
+statement: >-
+  Winfree and Bekbolatov show, in kinetic Tile Assembly Model simulation and
+  kinetic-trap theory, that replacing each tile of a tile set with a K×K
+  block whose internal bonds are unique keeps the logical assembly unchanged
+  but forces any mismatch to stall until it dissociates, raising the optimal
+  speed for a target error ε from r ≈ βε² to r ≈ βε at K = 2; their
+  thermodynamic argument predicts an error rate exponential in K, and the
+  simulated gain beyond K = 2 falls short of it, which they attribute to
+  facet-roughening errors that proofreading does not correct
 version: 2
 history:
 - version: 2
@@ -37,7 +46,7 @@ summary: >-
   practice, or that it corrects every error: growth on facets, nucleation
   of boundaries and implementation errors are outside it.
 ---
-# THEORY-1451: Winfree and Bekbolatov show, in kinetic Tile Assembly Model simulation and kinetic-trap theory, that replacing each tile of a tile set with a K×K block whose internal bonds are unique keeps the logical assembly unchanged but forces any mismatch to stall until it dissociates, raising the optimal speed for a target error ε from r ≈ βε² to r ≈ βε at K = 2; their thermodynamic argument predicts an error rate exponential in K, and the simulated gain beyond K = 2 falls short of it, which they attribute to facet-roughening errors that proofreading does not correct
+# THEORY-1451: Block proofreading cuts tile assembly errors
 
 ## Source
 

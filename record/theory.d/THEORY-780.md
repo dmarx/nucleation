@@ -19,7 +19,14 @@ promote_when: >-
   a temporary disturbance; and environmentally induced bistable switches
   such as the lac operon, which were known before and are not
   perturbations of regulation alone.
-title: 'Transcriptional regulation alone can give a bacterium''s gene expression a memory: in E. coli, a transient knockdown or overexpression of one regulator, with the environment held fixed, can leave other genes in a different self-maintaining expression state after it is released, as Zhao, Wytock, Reynolds and Motter predict from a Boolean-network model of its regulatory core'
+title: 'Transcriptional regulation alone can store memory'
+statement: >-
+  Transcriptional regulation alone can give a bacterium's gene expression a
+  memory: in E. coli, a transient knockdown or overexpression of one
+  regulator, with the environment held fixed, can leave other genes in a
+  different self-maintaining expression state after it is released, as Zhao,
+  Wytock, Reynolds and Motter predict from a Boolean-network model of its
+  regulatory core
 version: 1
 tags:
 - complex-systems
@@ -42,7 +49,7 @@ answers:
 - QUESTION-172
 ---
 
-# THEORY-780: Transcriptional regulation alone can give a bacterium's gene expression a memory: in E. coli, a transient knockdown or overexpression of one regulator, with the environment held fixed, can leave other genes in a different self-maintaining expression state after it is released, as Zhao, Wytock, Reynolds and Motter predict from a Boolean-network model of its regulatory core
+# THEORY-780: Transcriptional regulation alone can store memory
 
 ## Source
 

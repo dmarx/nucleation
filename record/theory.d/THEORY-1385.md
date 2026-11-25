@@ -9,7 +9,13 @@ promote_when: >-
   positive effect of spacing on post-intervention knowledge, and an
   independent synthesis of trials finds spaced online education improves
   clinical behaviour more than massed education or none.
-title: 'Martinengo and colleagues find that spaced digital education for health professionals improves post-intervention knowledge more than massed digital education does, with a small effect, and promotes clinical behaviour change, while the evidence for spaced over massed digital simulation for skills rests on two studies of low certainty'
+title: 'Spaced digital education modestly beats massed'
+statement: >-
+  Martinengo and colleagues find that spaced digital education for health
+  professionals improves post-intervention knowledge more than massed
+  digital education does, with a small effect, and promotes clinical
+  behaviour change, while the evidence for spaced over massed digital
+  simulation for skills rests on two studies of low certainty
 version: 1
 tags:
 - learning-and-conditioning
@@ -26,7 +32,7 @@ summary: >-
   meta-analysis over studies mostly at unclear or high risk of bias.
 ---
 
-# THEORY-1385: Martinengo and colleagues find that spaced digital education for health professionals improves post-intervention knowledge more than massed digital education does, with a small effect, and promotes clinical behaviour change, while the evidence for spaced over massed digital simulation for skills rests on two studies of low certainty
+# THEORY-1385: Spaced digital education modestly beats massed
 
 ## Source
 

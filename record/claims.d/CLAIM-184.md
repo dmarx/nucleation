@@ -3,7 +3,12 @@ number: 184
 status: Proposed
 formerly:
 - CLAIM-tmptw11r
-title: 'Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record''s remedy only if superseded anchors stop attracting new structure'
+title: 'Anchors entrench early framings'
+statement: >-
+  Anchors entrench: a structure that persists early can lock in its framing,
+  so that later structure grows on it and alternatives become hard to reach,
+  and retirement by status is the record's remedy only if superseded anchors
+  stop attracting new structure
 version: 6
 history:
 - version: 2
@@ -80,7 +85,7 @@ complements:
 <!-- inactive-ok-file: SYNTHESIS-012 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-1736 THEORY-1771 THEORY-1791 THEORY-1802 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-184: Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
+# CLAIM-184: Anchors entrench early framings
 
 ## The claim
 

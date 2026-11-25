@@ -3,7 +3,14 @@ number: 422
 status: Active
 formerly:
 - THEORY-tmp2psod
-title: "In the standard formal models of group learning, no communication network is best for every epistemic problem: costly transmission favours minimally connected or star networks, pooling of estimates by averaging favours regular networks, and learning by trying in bandit problems can favour sparse ones, so a group's network cannot be judged until its learning problem is known"
+title: 'No network is best for every group-learning task'
+statement: >-
+  In the standard formal models of group learning, no communication network
+  is best for every epistemic problem: costly transmission favours minimally
+  connected or star networks, pooling of estimates by averaging favours
+  regular networks, and learning by trying in bandit problems can favour
+  sparse ones, so a group's network cannot be judged until its learning
+  problem is known
 version: 2
 history:
 - version: 2
@@ -44,7 +51,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-143 THEORY-148 — Proposed; the bandit result this account widens and its mechanism, named as the narrower case -->
 
-# THEORY-422: In the standard formal models of group learning, no communication network is best for every epistemic problem: costly transmission favours minimally connected or star networks, pooling of estimates by averaging favours regular networks, and learning by trying in bandit problems can favour sparse ones, so a group's network cannot be judged until its learning problem is known
+# THEORY-422: No network is best for every group-learning task
 
 ## Source
 

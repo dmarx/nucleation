@@ -3,7 +3,14 @@ number: 556
 status: Active
 formerly:
 - CLAIM-tmp06538
-title: 'Before the four obstructions to a transition stands a failure of compatibility, no configuration meeting the demands, repaired by changing the constraints, since dropping a demand is not relief; and after them a failure of regeneration, the capability not surviving turnover, repaired by maintenance or reproduction; so a diagnosis runs through six levels, each with its own repair'
+title: 'Compatibility precedes, regeneration follows'
+statement: >-
+  Before the four obstructions to a transition stands a failure of
+  compatibility, no configuration meeting the demands, repaired by changing
+  the constraints, since dropping a demand is not relief; and after them a
+  failure of regeneration, the capability not surviving turnover, repaired
+  by maintenance or reproduction; so a diagnosis runs through six levels,
+  each with its own repair
 version: 3
 history:
 - version: 2
@@ -74,7 +81,7 @@ works:
 ---
 <!-- inactive-ok-file: CASE-194 CASE-207 CLAIM-573 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
-# CLAIM-556: Before the four obstructions to a transition stands a failure of compatibility, no configuration meeting the demands, repaired by changing the constraints, since dropping a demand is not relief; and after them a failure of regeneration, the capability not surviving turnover, repaired by maintenance or reproduction; so a diagnosis runs through six levels, each with its own repair
+# CLAIM-556: Compatibility precedes, regeneration follows
 
 ## The claim
 

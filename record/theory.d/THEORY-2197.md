@@ -10,7 +10,15 @@ promote_when: >-
   every low temperature, a flow to a line of fixed points with the vortex
   fugacity irrelevant below T_KT, and an essential singularity of the
   correlation length at T_KT.
-title: "Drouin-Touchette's notes derive that the two-dimensional XY model's spin waves give correlations falling as r^(−k_BT/2πJ) at every low temperature, that below the Kosterlitz–Thouless temperature the vortex fugacity flows to zero on a line of fixed points, so the whole low-temperature phase has an infinite correlation length with nothing tuned, and that at the transition the correlation length diverges as an essential singularity, not a power"
+title: '2D XY low-T phase is critical throughout'
+statement: >-
+  Drouin-Touchette's notes derive that the two-dimensional XY model's spin
+  waves give correlations falling as r^(−k_BT/2πJ) at every low temperature,
+  that below the Kosterlitz–Thouless temperature the vortex fugacity flows
+  to zero on a line of fixed points, so the whole low-temperature phase has
+  an infinite correlation length with nothing tuned, and that at the
+  transition the correlation length diverges as an essential singularity,
+  not a power
 version: 1
 tags:
 - natural-sciences
@@ -32,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2969 LIT-3059 — Unfetched or Deferred -->
 <!-- inactive-ok-file: CLAIM-841 — Proposed -->
 
-# THEORY-2197: Drouin-Touchette's notes derive that the two-dimensional XY model's spin waves give correlations falling as r^(−k_BT/2πJ) at every low temperature, that below the Kosterlitz–Thouless temperature the vortex fugacity flows to zero on a line of fixed points, so the whole low-temperature phase has an infinite correlation length with nothing tuned, and that at the transition the correlation length diverges as an essential singularity, not a power
+# THEORY-2197: 2D XY low-T phase is critical throughout
 
 ## Source
 

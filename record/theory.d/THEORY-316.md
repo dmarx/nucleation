@@ -15,7 +15,11 @@ promote_when: >-
   responsibility only because it secures alternative possibilities, which
   is the leeway position. More statements of the origination intuition
   cannot settle it.
-title: "Frankfurt-style cases defeat alternative-possibilities conditions on moral responsibility but leave standing the incompatibilist condition on an action's causal history, which is the more fundamental one"
+title: 'Frankfurt cases spare causal-history conditions'
+statement: >-
+  Frankfurt-style cases defeat alternative-possibilities conditions on moral
+  responsibility but leave standing the incompatibilist condition on an
+  action's causal history, which is the more fundamental one
 version: 2
 history:
 - version: 2
@@ -48,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-823 — Skimmed; the partial reading this account rests on -->
 <!-- inactive-ok-file: THEORY-119 THEORY-040 — Proposed; the accounts this one stands beside, open -->
 
-# THEORY-316: Frankfurt-style cases defeat alternative-possibilities conditions on moral responsibility but leave standing the incompatibilist condition on an action's causal history, which is the more fundamental one
+# THEORY-316: Frankfurt cases spare causal-history conditions
 
 ## Source
 

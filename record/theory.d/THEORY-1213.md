@@ -3,7 +3,13 @@ number: 1213
 status: Proposed
 formerly:
 - THEORY-tmpp0j0p
-title: 'In relational quantum mechanics as Di Biagio and Rovelli reformulate it, classical subsystems whose variables couple properly, so as to get correlated, come to agree, so that the merging of perspectives answers the combination problem and the facts held relative to different outside systems never conflict about the same variables'
+title: 'Coupled RQM perspectives agree and combine'
+statement: >-
+  In relational quantum mechanics as Di Biagio and Rovelli reformulate it,
+  classical subsystems whose variables couple properly, so as to get
+  correlated, come to agree, so that the merging of perspectives answers the
+  combination problem and the facts held relative to different outside
+  systems never conflict about the same variables
 version: 1
 tags:
 - quantum-foundations
@@ -30,7 +36,7 @@ summary: >-
   Asserted, not proved. [THEORY-621](THEORY-621.md) and [THEORY-1080](THEORY-1080.md) leave the same gap open.
 ---
 
-# THEORY-1213: In relational quantum mechanics as Di Biagio and Rovelli reformulate it, classical subsystems whose variables couple properly, so as to get correlated, come to agree, so that the merging of perspectives answers the combination problem and the facts held relative to different outside systems never conflict about the same variables
+# THEORY-1213: Coupled RQM perspectives agree and combine
 
 ## Source
 

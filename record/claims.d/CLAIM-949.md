@@ -3,7 +3,17 @@ number: 949
 status: Proposed
 formerly:
 - CLAIM-tmpnookt
-title: 'The record''s account of specification is model-theoretic, a set of tests and the versions that pass them all, as an institution pairs sentences with the models that satisfy them; type theory is its proof-relevant counterpart, in which a specification is a type, a question a problem, a realization an inhabitant carried with the evidence that it passes, adding a descriptor a refinement the entry provably inhabits, which is why descriptors cannot conflict, and the direction of fit is bidirectional typing''s split between inferring a type from a term and checking a term against a type given'
+title: 'Specification, model-theoretic and typed'
+statement: >-
+  The record's account of specification is model-theoretic, a set of tests
+  and the versions that pass them all, as an institution pairs sentences
+  with the models that satisfy them; type theory is its proof-relevant
+  counterpart, in which a specification is a type, a question a problem, a
+  realization an inhabitant carried with the evidence that it passes, adding
+  a descriptor a refinement the entry provably inhabits, which is why
+  descriptors cannot conflict, and the direction of fit is bidirectional
+  typing's split between inferring a type from a term and checking a term
+  against a type given
 version: 1
 role: thesis
 warrant: interpretive
@@ -49,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2310 ARG-247 CLAIM-1327 — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: CLAIM-783 CLAIM-943 TERM-152 — Proposed or Open; the claims, terms and lead this joins -->
 
-# CLAIM-949: The record's account of specification is model-theoretic, a set of tests and the versions that pass them all, as an institution pairs sentences with the models that satisfy them; type theory is its proof-relevant counterpart, in which a specification is a type, a question a problem, a realization an inhabitant carried with the evidence that it passes, adding a descriptor a refinement the entry provably inhabits, which is why descriptors cannot conflict, and the direction of fit is bidirectional typing's split between inferring a type from a term and checking a term against a type given
+# CLAIM-949: Specification, model-theoretic and typed
 
 ## Two ways to say what a specification is
 

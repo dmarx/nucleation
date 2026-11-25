@@ -3,7 +3,14 @@ number: 1289
 status: Proposed
 formerly:
 - CLAIM-tmpjs6hp
-title: 'In Martin-Löf''s type theory a set is given by how its canonical elements are formed, not by tests on candidates; a specification made of tests is there the set of elements of a base set such that a property holds, whose elements carry their proofs, or, with no base set given, a category, which is not a set; so reading a specification as a type holds for tests on a kind of thing already given, and not for tests on anything whatever'
+title: 'Specs made of tests are not sets in type theory'
+statement: >-
+  In Martin-Löf's type theory a set is given by how its canonical elements
+  are formed, not by tests on candidates; a specification made of tests is
+  there the set of elements of a base set such that a property holds, whose
+  elements carry their proofs, or, with no base set given, a category, which
+  is not a set; so reading a specification as a type holds for tests on a
+  kind of thing already given, and not for tests on anything whatever
 version: 1
 role: counter
 warrant: interpretive
@@ -40,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2307 NOTE-2419 CLAIM-949 CLAIM-984 TERM-152 CLAIM-783 ARG-255 — Proposed or Skimmed; the reading this rests on, the claims it narrows or sits beside, and the term it is stated against -->
 
-# CLAIM-1289: In Martin-Löf's type theory a set is given by how its canonical elements are formed, not by tests on candidates; a specification made of tests is there the set of elements of a base set such that a property holds, whose elements carry their proofs, or, with no base set given, a category, which is not a set; so reading a specification as a type holds for tests on a kind of thing already given, and not for tests on anything whatever
+# CLAIM-1289: Specs made of tests are not sets in type theory
 
 ## The claim
 

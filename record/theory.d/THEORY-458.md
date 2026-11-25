@@ -20,7 +20,15 @@ promote_when: >-
   dissociation gone would reopen it. More reviews cannot settle it, and neither can the argument
   from the immunity principle, which is conditional on thought insertion
   being a real exception, a question the review leaves open.
-title: "Within the minimal self, the sense that a movement or a thought is mine and the sense that I am its source are distinct and come apart, as in involuntary movement and thought insertion; on Frith's comparator model the sense of agency depends on a forward model that precedes action and ownership on sensory feedback, so failed forward monitoring would explain thought insertion and, by the same mechanism, why first-person reference ordinarily cannot misidentify its subject"
+title: 'Sense of ownership and agency come apart'
+statement: >-
+  Within the minimal self, the sense that a movement or a thought is mine
+  and the sense that I am its source are distinct and come apart, as in
+  involuntary movement and thought insertion; on Frith's comparator model
+  the sense of agency depends on a forward model that precedes action and
+  ownership on sensory feedback, so failed forward monitoring would explain
+  thought insertion and, by the same mechanism, why first-person reference
+  ordinarily cannot misidentify its subject
 version: 2
 history:
 - version: 2
@@ -53,7 +61,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-768 — Proposed; the rubber hand finding and minimal-selfhood account named in the addition, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 THEORY-044 THEORY-064 THEORY-300 THEORY-322 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 
-# THEORY-458: Within the minimal self, the sense that a movement or a thought is mine and the sense that I am its source are distinct and come apart, as in involuntary movement and thought insertion; on Frith's comparator model the sense of agency depends on a forward model that precedes action and ownership on sensory feedback, so failed forward monitoring would explain thought insertion and, by the same mechanism, why first-person reference ordinarily cannot misidentify its subject
+# THEORY-458: Sense of ownership and agency come apart
 
 ## Source
 

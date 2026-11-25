@@ -9,7 +9,14 @@ promote_when: >-
   operation, feedback included, and confirms with the paper's example that
   valid behaviours under a history-dependent safety contract form a
   presheaf that is not a sheaf.
-title: 'Schultz, Spivak and Vasilakopoulou model open dynamical systems as spans of sheaves on time intervals, so that any wiring of such machines, feedback included, is again one, with totality, determinism and inertia each preserved by every wiring, while behaviour contracts that depend on history form presheaves that are not sheaves, since two valid behaviours can glue to an invalid one'
+title: 'Wired sheaf machines are again machines'
+statement: >-
+  Schultz, Spivak and Vasilakopoulou model open dynamical systems as spans
+  of sheaves on time intervals, so that any wiring of such machines,
+  feedback included, is again one, with totality, determinism and inertia
+  each preserved by every wiring, while behaviour contracts that depend on
+  history form presheaves that are not sheaves, since two valid behaviours
+  can glue to an invalid one
 version: 1
 tags:
 - mathematics
@@ -28,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2344 — Skimmed; the reading this account comes from -->
 
-# THEORY-2253: Schultz, Spivak and Vasilakopoulou model open dynamical systems as spans of sheaves on time intervals, so that any wiring of such machines, feedback included, is again one, with totality, determinism and inertia each preserved by every wiring, while behaviour contracts that depend on history form presheaves that are not sheaves, since two valid behaviours can glue to an invalid one
+# THEORY-2253: Wired sheaf machines are again machines
 
 ## Source
 

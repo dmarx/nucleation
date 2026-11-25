@@ -15,7 +15,14 @@ promote_when: >-
   state-funded venues, which would fit Kremlin direction. Textual
   parallels between theorists and doctrine cannot settle it; they fit
   either direction.
-title: "The Russian narrative of a Western information war waged against Russia since the Cold War was politicised by academics, politicians and the public each for their own reasons, scholars promoting their ideas, politicians consolidating power and a public wanting its lost national pride explained, and not directed from the Kremlin; once adopted into rhetoric, doctrine and law, it drives behaviour whatever its origin"
+title: 'Russian info-war narrative isn''t Kremlin-made'
+statement: >-
+  The Russian narrative of a Western information war waged against Russia
+  since the Cold War was politicised by academics, politicians and the
+  public each for their own reasons, scholars promoting their ideas,
+  politicians consolidating power and a public wanting its lost national
+  pride explained, and not directed from the Kremlin; once adopted into
+  rhetoric, doctrine and law, it drives behaviour whatever its origin
 version: 1
 tags:
 - society-and-governance
@@ -35,7 +42,7 @@ summary: >-
   merely-cynical reading. The two share no evidence.
 ---
 
-# THEORY-551: The Russian narrative of a Western information war waged against Russia since the Cold War was politicised by academics, politicians and the public each for their own reasons, scholars promoting their ideas, politicians consolidating power and a public wanting its lost national pride explained, and not directed from the Kremlin; once adopted into rhetoric, doctrine and law, it drives behaviour whatever its origin
+# THEORY-551: Russian info-war narrative isn't Kremlin-made
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 1167
 status: Active
 formerly:
 - THEORY-tmphfpe7
-title: 'When one intervention distribution over micro states is used at both levels, the effective information of a coarse-graining of a discrete mechanism, with each macro intervention realized by that distribution within its block, cannot exceed the micro effective information; so a positive causal emergence of effective information, scored with a uniform distribution at each level, equals the micro gain from changing the distribution minus a non-negative loss, and is a gain from the change of distribution'
+title: 'EI emergence is a change of distribution'
+statement: >-
+  When one intervention distribution over micro states is used at both
+  levels, the effective information of a coarse-graining of a discrete
+  mechanism, with each macro intervention realized by that distribution
+  within its block, cannot exceed the micro effective information; so a
+  positive causal emergence of effective information, scored with a uniform
+  distribution at each level, equals the micro gain from changing the
+  distribution minus a non-negative loss, and is a gain from the change of
+  distribution
 version: 2
 history:
 - version: 1
@@ -56,7 +65,7 @@ corrects:
 ---
 <!-- inactive-ok-file: THEORY-787 — Rejected on 2026-10-30; the causal thesis whose "in trouble if" clause this meets for EI, and which this corrects -->
 
-# THEORY-1167: When one intervention distribution over micro states is used at both levels, the effective information of a coarse-graining of a discrete mechanism, with each macro intervention realized by that distribution within its block, cannot exceed the micro effective information; so a positive causal emergence of effective information, scored with a uniform distribution at each level, equals the micro gain from changing the distribution minus a non-negative loss, and is a gain from the change of distribution
+# THEORY-1167: EI emergence is a change of distribution
 
 ## Source
 

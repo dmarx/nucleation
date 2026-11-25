@@ -10,7 +10,14 @@ promote_when: >-
   orders are of the same kind but whose combination laws differ (sum and
   maximum), and which differ in whether catalysis is possible; the proofs
   of Theorem 3.12 (Appendix A) and of Lemmas 3.11 and 3.19 are checked.
-title: 'Coecke, Fritz and Spekkens propose that a resource theory is a symmetric monoidal category of resources and free transformations, that partitioning a process theory into free and costly processes generates such theories of states and of processes, and that the questions usually asked of a resource theory depend only on its preordered commutative monoid of convertibility, whose combination law can vary independently of its order'
+title: 'Resource theories are monoidal categories'
+statement: >-
+  Coecke, Fritz and Spekkens propose that a resource theory is a symmetric
+  monoidal category of resources and free transformations, that partitioning
+  a process theory into free and costly processes generates such theories of
+  states and of processes, and that the questions usually asked of a
+  resource theory depend only on its preordered commutative monoid of
+  convertibility, whose combination law can vary independently of its order
 version: 1
 tags:
 - mathematics
@@ -28,7 +35,7 @@ summary: >-
   that changes.
 ---
 
-# THEORY-1397: Coecke, Fritz and Spekkens propose that a resource theory is a symmetric monoidal category of resources and free transformations, that partitioning a process theory into free and costly processes generates such theories of states and of processes, and that the questions usually asked of a resource theory depend only on its preordered commutative monoid of convertibility, whose combination law can vary independently of its order
+# THEORY-1397: Resource theories are monoidal categories
 
 ## Source
 

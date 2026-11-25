@@ -15,7 +15,12 @@ promote_when: >-
   positive probability. Results about which correlated equilibrium is
   reached, or about players who do not observe one another, are wider than
   this and neither promote nor refute it.
-title: 'If every player of a finite game switches from its last action to each other action with probability proportional to its positive conditional regret, the empirical distribution of play converges almost surely to the set of correlated equilibria'
+title: 'Regret matching reaches correlated equilibria'
+statement: >-
+  If every player of a finite game switches from its last action to each
+  other action with probability proportional to its positive conditional
+  regret, the empirical distribution of play converges almost surely to the
+  set of correlated equilibria
 version: 1
 tags:
 - game-theory
@@ -32,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-414 — Proposed or new; the source and the accounts this bears on, named -->
 
-# THEORY-941: If every player of a finite game switches from its last action to each other action with probability proportional to its positive conditional regret, the empirical distribution of play converges almost surely to the set of correlated equilibria
+# THEORY-941: Regret matching reaches correlated equilibria
 
 ## Source
 

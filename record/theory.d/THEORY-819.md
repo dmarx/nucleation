@@ -3,7 +3,17 @@ number: 819
 status: Active
 formerly:
 - THEORY-tmpgukcy
-title: 'For an invertible map with an invariant measure, projecting onto the closed span of the whole past of chosen functions of the resolved variables (a Wiener projection) turns the exact discrete Mori–Zwanzig equation into one with no memory term: the next resolved value is a causal linear filter of those past functions plus a residual orthogonal to all of them, so the memory is carried by the coarse variable''s own history; a finite NARMAX form follows only by a rational approximation of the filter, uncontrolled in general but exact for a scalar coarse variable of a stable linear Gaussian VAR(1)'
+title: 'Wiener projection removes Mori–Zwanzig memory'
+statement: >-
+  For an invertible map with an invariant measure, projecting onto the
+  closed span of the whole past of chosen functions of the resolved
+  variables (a Wiener projection) turns the exact discrete Mori–Zwanzig
+  equation into one with no memory term: the next resolved value is a causal
+  linear filter of those past functions plus a residual orthogonal to all of
+  them, so the memory is carried by the coarse variable's own history; a
+  finite NARMAX form follows only by a rational approximation of the filter,
+  uncontrolled in general but exact for a scalar coarse variable of a stable
+  linear Gaussian VAR(1)
 version: 1
 history:
 - version: 1
@@ -38,7 +48,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the criterion whose conditioning set this matches, nothing here rests on its being settled -->
 
-# THEORY-819: For an invertible map with an invariant measure, projecting onto the closed span of the whole past of chosen functions of the resolved variables (a Wiener projection) turns the exact discrete Mori–Zwanzig equation into one with no memory term: the next resolved value is a causal linear filter of those past functions plus a residual orthogonal to all of them, so the memory is carried by the coarse variable's own history; a finite NARMAX form follows only by a rational approximation of the filter, uncontrolled in general but exact for a scalar coarse variable of a stable linear Gaussian VAR(1)
+# THEORY-819: Wiener projection removes Mori–Zwanzig memory
 
 ## Source
 

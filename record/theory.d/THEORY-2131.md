@@ -8,7 +8,14 @@ promote_when: >-
   survival with a constant but uncertain hazard, that an exponential prior
   gives 1/(1 + kt), and that other priors give non-hyperbolic discount
   functions.
-title: 'Fedus and colleagues restate Sozou''s result that an agent discounting future reward by its probability of surviving to collect it, with a constant but unknown hazard rate, discounts by the Laplace transform of its prior over the hazard, so that an exponential prior gives exactly the hyperbola 1/(1 + kt), a gamma prior 1/(1 + bt)^c and a uniform prior (1 − e^(−kt))/(kt)'
+title: 'Hazard uncertainty yields hyperbolic discounting'
+statement: >-
+  Fedus and colleagues restate Sozou's result that an agent discounting
+  future reward by its probability of surviving to collect it, with a
+  constant but unknown hazard rate, discounts by the Laplace transform of
+  its prior over the hazard, so that an exponential prior gives exactly the
+  hyperbola 1/(1 + kt), a gamma prior 1/(1 + bt)^c and a uniform prior (1 −
+  e^(−kt))/(kt)
 version: 1
 tags:
 - motivation
@@ -27,7 +34,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2949 CLAIM-777 CLAIM-769 THEORY-067 CLAIM-198 — Proposed, Deferred, Unfetched or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 <!-- inactive-ok-file: THEORY-2176 CLAIM-857 — Proposed; the reading of Beck and Cohen and the assistant's condition on the spread, 2026-11-22 -->
 
-# THEORY-2131: Fedus and colleagues restate Sozou's result that an agent discounting future reward by its probability of surviving to collect it, with a constant but unknown hazard rate, discounts by the Laplace transform of its prior over the hazard, so that an exponential prior gives exactly the hyperbola 1/(1 + kt), a gamma prior 1/(1 + bt)^c and a uniform prior (1 − e^(−kt))/(kt)
+# THEORY-2131: Hazard uncertainty yields hyperbolic discounting
 
 ## Source
 

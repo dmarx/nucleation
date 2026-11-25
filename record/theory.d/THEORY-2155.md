@@ -3,7 +3,17 @@ number: 2155
 status: Proposed
 formerly:
 - THEORY-tmpgsgka
-title: "Transtrum, Machta and Sethna (2011) argue from the interpolation error of analytic functions that a multiparameter nonlinear least-squares model's manifold is a bounded hyper-ribbon whose geodesic widths fall by a roughly constant factor; in natural or log units and from a central point the widths match the Jacobian's singular values for a sum of exponentials and a small tanh network, though not in magnitude for the PC12 model; and the manifold's boundaries are where the metric JᵀJ is singular, usually at parameters running to 0 or ∞ but also on finite fold lines such as equal rates"
+title: 'Hyperribbon widths track Jacobian singular values'
+statement: >-
+  Transtrum, Machta and Sethna (2011) argue from the interpolation error of
+  analytic functions that a multiparameter nonlinear least-squares model's
+  manifold is a bounded hyper-ribbon whose geodesic widths fall by a roughly
+  constant factor; in natural or log units and from a central point the
+  widths match the Jacobian's singular values for a sum of exponentials and
+  a small tanh network, though not in magnitude for the PC12 model; and the
+  manifold's boundaries are where the metric JᵀJ is singular, usually at
+  parameters running to 0 or ∞ but also on finite fold lines such as equal
+  rates
 promote_when: >-
   On a model neither reducible to a linear one nor computed by the authors,
   an independent computation that finds the geodesic widths, from a
@@ -36,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-135 TERM-140 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-# THEORY-2155: Transtrum, Machta and Sethna (2011) argue from the interpolation error of analytic functions that a multiparameter nonlinear least-squares model's manifold is a bounded hyper-ribbon whose geodesic widths fall by a roughly constant factor; in natural or log units and from a central point the widths match the Jacobian's singular values for a sum of exponentials and a small tanh network, though not in magnitude for the PC12 model; and the manifold's boundaries are where the metric JᵀJ is singular, usually at parameters running to 0 or ∞ but also on finite fold lines such as equal rates
+# THEORY-2155: Hyperribbon widths track Jacobian singular values
 
 ## Source
 

@@ -3,7 +3,12 @@ number: 1577
 status: Active
 formerly:
 - THEORY-tmp6zxqe
-title: 'Scheffler argues that the survival of other people after one''s death is a condition of much of what matters to us mattering, and matters to us in its own right, and reads this as our dependence on future people rather than altruism toward them'
+title: 'What matters depends on others surviving us'
+statement: >-
+  Scheffler argues that the survival of other people after one's death is a
+  condition of much of what matters to us mattering, and matters to us in
+  its own right, and reads this as our dependence on future people rather
+  than altruism toward them
 version: 2
 history:
 - version: 1
@@ -36,7 +41,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-1754 — Unavailable; the works, notes, questions and claims the reading cites, cited with their standing -->
 
-# THEORY-1577: Scheffler argues that the survival of other people after one's death is a condition of much of what matters to us mattering, and matters to us in its own right, and reads this as our dependence on future people rather than altruism toward them
+# THEORY-1577: What matters depends on others surviving us
 
 ## The account
 

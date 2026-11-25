@@ -10,7 +10,15 @@ promote_when: >-
   whenever the frequency spread is nonzero, with no further condition on
   rates, and that the distribution itself need not converge. A sharper
   rate than the bound Δ is not required.
-title: 'Ott and Antonsen show that for infinitely many phase oscillators whose phase velocity carries only the first harmonic of the phase, with a Lorentzian frequency distribution of nonzero width Δ, the order parameter is attracted at long times to the dynamics on their reduced manifold, by phase mixing at a rate of at least Δ and with no condition on any other rate, though the distribution itself need not converge; with Δ = 0, motion off the manifold can persist'
+title: 'Ott–Antonsen manifold attracts when Δ > 0'
+statement: >-
+  Ott and Antonsen show that for infinitely many phase oscillators whose
+  phase velocity carries only the first harmonic of the phase, with a
+  Lorentzian frequency distribution of nonzero width Δ, the order parameter
+  is attracted at long times to the dynamics on their reduced manifold, by
+  phase mixing at a rate of at least Δ and with no condition on any other
+  rate, though the distribution itself need not converge; with Δ = 0, motion
+  off the manifold can persist
 version: 1
 tags:
 - complex-systems
@@ -35,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1058 CLAIM-1088 — Proposed or new; the 2008 reading and the verdict filed from these -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim this reading was read against -->
 
-# THEORY-2276: Ott and Antonsen show that for infinitely many phase oscillators whose phase velocity carries only the first harmonic of the phase, with a Lorentzian frequency distribution of nonzero width Δ, the order parameter is attracted at long times to the dynamics on their reduced manifold, by phase mixing at a rate of at least Δ and with no condition on any other rate, though the distribution itself need not converge; with Δ = 0, motion off the manifold can persist
+# THEORY-2276: Ott–Antonsen manifold attracts when Δ > 0
 
 ## Source
 

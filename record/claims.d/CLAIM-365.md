@@ -3,7 +3,13 @@ number: 365
 status: Active
 formerly:
 - CLAIM-tmpue67e
-title: 'On a norm-ball update set the local frustration residual Φ_r = min over ‖d‖ ≤ r of max_i(ε_i + g_iᵀd) equals the maximum over the simplex of Σλ_iε_i − r‖Σλ_ig_i‖_*, so infeasibility of the declared improvements has a certificate, and any admissible actual update exceeds Φ_r by a nonnegative governance regret'
+title: 'Frustration residual has a simplex dual'
+statement: >-
+  On a norm-ball update set the local frustration residual Φ_r = min over
+  ‖d‖ ≤ r of max_i(ε_i + g_iᵀd) equals the maximum over the simplex of
+  Σλ_iε_i − r‖Σλ_ig_i‖_*, so infeasibility of the declared improvements has
+  a certificate, and any admissible actual update exceeds Φ_r by a
+  nonnegative governance regret
 version: 4
 history:
 - version: 2
@@ -67,7 +73,7 @@ grounds:
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
-# CLAIM-365: On a norm-ball update set the local frustration residual Φ_r = min over ‖d‖ ≤ r of max_i(ε_i + g_iᵀd) equals the maximum over the simplex of Σλ_iε_i − r‖Σλ_ig_i‖_*, so infeasibility of the declared improvements has a certificate, and any admissible actual update exceeds Φ_r by a nonnegative governance regret
+# CLAIM-365: Frustration residual has a simplex dual
 
 <!-- ref::uses-file: TERM-060 — the residual is the cardinal refinement of frustration in the term's sense -->
 

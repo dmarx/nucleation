@@ -3,7 +3,14 @@ number: 904
 status: Proposed
 formerly:
 - CLAIM-tmpjwc0h
-title: 'Compensation under a sustained load does not need a block: in a phi4 lattice kink and in the locked cluster of a uniformly coupled Kuramoto population the other members undo nearly all of a load''s damage to the form, as in a two-block control, while the block test on members gives the kink a ratio that falls as the square of the lattice spacing and gives the cluster, on its coupling constants, the score of every set of its size'
+title: 'Compensation does not need a block'
+statement: >-
+  Compensation under a sustained load does not need a block: in a phi4
+  lattice kink and in the locked cluster of a uniformly coupled Kuramoto
+  population the other members undo nearly all of a load's damage to the
+  form, as in a two-block control, while the block test on members gives the
+  kink a ratio that falls as the square of the lattice spacing and gives the
+  cluster, on its coupling constants, the score of every set of its size
 version: 1
 role: thesis
 warrant: demonstrated
@@ -47,7 +54,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the criterion the study tests -->
 <!-- inactive-ok-file: CASE-334 — new; the study this claim states -->
 
-# CLAIM-904: Compensation under a sustained load does not need a block: in a phi4 lattice kink and in the locked cluster of a uniformly coupled Kuramoto population the other members undo nearly all of a load's damage to the form, as in a two-block control, while the block test on members gives the kink a ratio that falls as the square of the lattice spacing and gives the cluster, on its coupling constants, the score of every set of its size
+# CLAIM-904: Compensation does not need a block
 
 ## The claim
 

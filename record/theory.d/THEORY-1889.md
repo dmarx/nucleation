@@ -10,7 +10,13 @@ promote_when: >-
   zero-width eigenvalue at the stated parameters. And the collapse of the
   Fano resonance at the BIC point is shown in the same source or
   calculation.
-title: 'Sadreev reviews that a wave stays perfectly confined in an open cavity at a frequency inside the continuum exactly when its coupling to every continuum channel vanishes, by symmetry, by Friedrich–Wintgen destructive interference of two resonances, by Fabry–Pérot trapping or by accidental deformation, with the Fano resonance collapsing at that point'
+title: 'Bound states in continuum need zero coupling'
+statement: >-
+  Sadreev reviews that a wave stays perfectly confined in an open cavity at
+  a frequency inside the continuum exactly when its coupling to every
+  continuum channel vanishes, by symmetry, by Friedrich–Wintgen destructive
+  interference of two resonances, by Fabry–Pérot trapping or by accidental
+  deformation, with the Fano resonance collapsing at that point
 version: 1
 tags:
 - natural-sciences
@@ -30,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2625 NOTE-1983 — Unfetched or Skimmed; the unread original and the skimmed reading -->
 
-# THEORY-1889: Sadreev reviews that a wave stays perfectly confined in an open cavity at a frequency inside the continuum exactly when its coupling to every continuum channel vanishes, by symmetry, by Friedrich–Wintgen destructive interference of two resonances, by Fabry–Pérot trapping or by accidental deformation, with the Fano resonance collapsing at that point
+# THEORY-1889: Bound states in continuum need zero coupling
 
 ## Source
 

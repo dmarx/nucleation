@@ -3,7 +3,15 @@ number: 1239
 status: Proposed
 formerly:
 - CLAIM-tmp7hqtl
-title: "A relation between processes is contract-like only if it governs deviation, conflict or breach and not only the ordinary course: it maintains reciprocal requirements, responds differently to their satisfaction and violation, settles which prevails when they conflict, and is sustained or revised by some mechanism; its formation, which need not be explicit or agreed, nucleates a constraint on the processes' later interaction"
+title: 'Contract-like relations govern deviation'
+statement: >-
+  A relation between processes is contract-like only if it governs
+  deviation, conflict or breach and not only the ordinary course: it
+  maintains reciprocal requirements, responds differently to their
+  satisfaction and violation, settles which prevails when they conflict, and
+  is sustained or revised by some mechanism; its formation, which need not
+  be explicit or agreed, nucleates a constraint on the processes' later
+  interaction
 version: 1
 role: thesis
 warrant: interpretive
@@ -49,7 +57,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-358 CLAIM-364 CLAIM-728 CLAIM-1293 — Proposed; cited as filed or held beside this entry, whatever its standing -->
 <!-- inactive-ok-file: LIT-3241 — Deferred; cited as filed or held beside this entry, whatever its standing -->
 
-# CLAIM-1239: A relation between processes is contract-like only if it governs deviation, conflict or breach and not only the ordinary course: it maintains reciprocal requirements, responds differently to their satisfaction and violation, settles which prevails when they conflict, and is sustained or revised by some mechanism; its formation, which need not be explicit or agreed, nucleates a constraint on the processes' later interaction
+# CLAIM-1239: Contract-like relations govern deviation
 
 ## The claim
 

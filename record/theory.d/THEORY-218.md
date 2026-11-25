@@ -3,7 +3,16 @@ number: 218
 status: Active
 formerly:
 - THEORY-tmpbrxww
-title: 'In one case study of the 2017 r/place Mona Lisa, what was added to or removed from the image was, once its forum opened, decided off the canvas, in a forum of 161 accounts negotiating through linked design images, where a few central members admitted or refused additions, and the forum''s changes then appeared in a region where about 77,000 accounts placed tiles, most of whom never posted; how many placers followed the designs is not measured, and the authors argue that the placement record alone cannot show who directed the image or who cooperated'
+title: 'Mona Lisa on r/place was decided in a forum'
+statement: >-
+  In one case study of the 2017 r/place Mona Lisa, what was added to or
+  removed from the image was, once its forum opened, decided off the canvas,
+  in a forum of 161 accounts negotiating through linked design images, where
+  a few central members admitted or refused additions, and the forum's
+  changes then appeared in a region where about 77,000 accounts placed
+  tiles, most of whom never posted; how many placers followed the designs is
+  not measured, and the authors argue that the placement record alone cannot
+  show who directed the image or who cooperated
 version: 2
 history:
 - version: 2
@@ -49,7 +58,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-224 — Proposed; open claims and sister readings, cited as what this bears on, nothing here rests on their being settled -->
 
-# THEORY-218: In one case study of the 2017 r/place Mona Lisa, what was added to or removed from the image was, once its forum opened, decided off the canvas, in a forum of 161 accounts negotiating through linked design images, where a few central members admitted or refused additions, and the forum's changes then appeared in a region where about 77,000 accounts placed tiles, most of whom never posted; how many placers followed the designs is not measured, and the authors argue that the placement record alone cannot show who directed the image or who cooperated
+# THEORY-218: Mona Lisa on r/place was decided in a forum
 
 ## Source
 

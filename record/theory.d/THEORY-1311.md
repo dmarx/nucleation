@@ -15,7 +15,13 @@ promote_when: >-
   predicts ill-being beyond satisfaction. More six-factor CFAs, more
   differences in correlates between the existing scales, or a frustration
   scale that is all negatively worded cannot settle it either way.
-title: 'The BPNSFS frustration scales measure low need satisfaction in negatively keyed form, not need frustration in the sense of active thwarting, so the separation of frustration from low satisfaction in BPNSFS data, and frustration''s stronger link to ill-being there, is largely a keying artefact'
+title: 'BPNSFS frustration is a keying artefact'
+statement: >-
+  The BPNSFS frustration scales measure low need satisfaction in negatively
+  keyed form, not need frustration in the sense of active thwarting, so the
+  separation of frustration from low satisfaction in BPNSFS data, and
+  frustration's stronger link to ill-being there, is largely a keying
+  artefact
 version: 1
 tags:
 - psychometrics
@@ -37,7 +43,7 @@ summary: >-
   confounded. Proposed for that step.
 ---
 
-# THEORY-1311: The BPNSFS frustration scales measure low need satisfaction in negatively keyed form, not need frustration in the sense of active thwarting, so the separation of frustration from low satisfaction in BPNSFS data, and frustration's stronger link to ill-being there, is largely a keying artefact
+# THEORY-1311: BPNSFS frustration is a keying artefact
 
 ## Source
 

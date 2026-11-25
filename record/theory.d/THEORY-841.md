@@ -13,7 +13,14 @@ promote_when: >-
   local knowledge is held outperform the same decisions taken centrally on
   aggregated statistics, with the knowledge held fixed. An argument from
   examples, however apt, does not meet it.
-title: 'Knowledge of the particular circumstances of time and place is held dispersed among many people and cannot be conveyed to a central authority in statistical form, so decisions that depend on it are better taken by those who hold it, and a price system lets them fit their decisions together by conveying the relative scarcities each needs without the causes behind them'
+title: 'Prices convey dispersed local knowledge'
+statement: >-
+  Knowledge of the particular circumstances of time and place is held
+  dispersed among many people and cannot be conveyed to a central authority
+  in statistical form, so decisions that depend on it are better taken by
+  those who hold it, and a price system lets them fit their decisions
+  together by conveying the relative scarcities each needs without the
+  causes behind them
 version: 1
 history:
 - version: 1
@@ -38,7 +45,7 @@ summary: >-
   removing any particular public constraint decentralizes decisions.
 ---
 <!-- inactive-ok-file: THEORY-429 — Proposed; open entries this account bears on, cited as open -->
-# THEORY-841: Knowledge of the particular circumstances of time and place is held dispersed among many people and cannot be conveyed to a central authority in statistical form, so decisions that depend on it are better taken by those who hold it, and a price system lets them fit their decisions together by conveying the relative scarcities each needs without the causes behind them
+# THEORY-841: Prices convey dispersed local knowledge
 
 ## Source
 

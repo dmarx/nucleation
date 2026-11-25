@@ -11,7 +11,14 @@ promote_when: >-
   tuned into one network at once, and that each bond's removal effect is
   computed from the self-stress and compatible-stress basis without
   re-solving the network.
-title: 'Rocks and colleagues show that in disordered spring networks a chosen linear strain response between a distant pair of target nodes and a pair of source nodes, and several such responses at once, can be produced with near-total success by removing about one percent of the bonds, chosen greedily with an analytic update built from the network''s states of self-stress and compatible stress'
+title: 'Pruning ~1% of bonds tunes network response'
+statement: >-
+  Rocks and colleagues show that in disordered spring networks a chosen
+  linear strain response between a distant pair of target nodes and a pair
+  of source nodes, and several such responses at once, can be produced with
+  near-total success by removing about one percent of the bonds, chosen
+  greedily with an analytic update built from the network's states of
+  self-stress and compatible stress
 version: 1
 tags:
 - natural-sciences
@@ -30,7 +37,7 @@ summary: >-
   in proteins works this way.
 ---
 
-# THEORY-1425: Rocks and colleagues show that in disordered spring networks a chosen linear strain response between a distant pair of target nodes and a pair of source nodes, and several such responses at once, can be produced with near-total success by removing about one percent of the bonds, chosen greedily with an analytic update built from the network's states of self-stress and compatible stress
+# THEORY-1425: Pruning ~1% of bonds tunes network response
 
 ## Source
 

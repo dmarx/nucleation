@@ -12,7 +12,17 @@ promote_when: >-
   fast modes is large and fails when it is small; and module coherence
   lost once the gap between the lowest two layers falls below a threshold.
   The threshold's value near 2 is not required.
-title: 'Caprioglio and Berthouze report that in simulations of identical phase-frustrated oscillators on three-layer hierarchically modular networks, mesoscale structure alone yields chimera and metastable states; the states of the upper layers follow the network Laplacian''s slow modes, which reduce the network to the two-population model only when their gap to the fast modes is large, and the lowest-layer modules stay coherent, each acting as a single macro-oscillator, only while the spectral gap between the lowest two layers exceeds a threshold, below which they desynchronize and resynchronize metastably'
+title: 'Hierarchical modularity alone yields chimeras'
+statement: >-
+  Caprioglio and Berthouze report that in simulations of identical
+  phase-frustrated oscillators on three-layer hierarchically modular
+  networks, mesoscale structure alone yields chimera and metastable states;
+  the states of the upper layers follow the network Laplacian's slow modes,
+  which reduce the network to the two-population model only when their gap
+  to the fast modes is large, and the lowest-layer modules stay coherent,
+  each acting as a single macro-oscillator, only while the spectral gap
+  between the lowest two layers exceeds a threshold, below which they
+  desynchronize and resynchronize metastably
 version: 1
 tags:
 - network-science
@@ -40,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1058 — Proposed; the verdict of LEAD-094 this reading supports -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-157 — Proposed; the claims this reading corroborates -->
 
-# THEORY-2291: Caprioglio and Berthouze report that in simulations of identical phase-frustrated oscillators on three-layer hierarchically modular networks, mesoscale structure alone yields chimera and metastable states; the states of the upper layers follow the network Laplacian's slow modes, which reduce the network to the two-population model only when their gap to the fast modes is large, and the lowest-layer modules stay coherent, each acting as a single macro-oscillator, only while the spectral gap between the lowest two layers exceeds a threshold, below which they desynchronize and resynchronize metastably
+# THEORY-2291: Hierarchical modularity alone yields chimeras
 
 ## Source
 

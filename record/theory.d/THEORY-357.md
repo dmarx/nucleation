@@ -3,7 +3,15 @@ number: 357
 status: Active
 formerly:
 - THEORY-tmpxr7yk
-title: "Computational indistinguishability is strictly coarser than statistical closeness: without any assumption there are ensembles on at most 2^(n/2) strings that no circuit of size 2^(n/8) tells from uniform, though none of them is efficiently samplable, and an efficiently samplable pair of this kind exists if a pseudorandom generator does, since its output covers at most 2^n of the 2^l(n) strings; all of it is about ensembles indexed by n, not single pairs of distributions"
+title: 'Indistinguishable needn''t mean statistically close'
+statement: >-
+  Computational indistinguishability is strictly coarser than statistical
+  closeness: without any assumption there are ensembles on at most 2^(n/2)
+  strings that no circuit of size 2^(n/8) tells from uniform, though none of
+  them is efficiently samplable, and an efficiently samplable pair of this
+  kind exists if a pseudorandom generator does, since its output covers at
+  most 2^n of the 2^l(n) strings; all of it is about ensembles indexed by n,
+  not single pairs of distributions
 version: 1
 tags:
 - mathematics
@@ -26,7 +34,7 @@ bears_on:
 - QUESTION-103
 ---
 
-# THEORY-357: Computational indistinguishability is strictly coarser than statistical closeness: without any assumption there are ensembles on at most 2^(n/2) strings that no circuit of size 2^(n/8) tells from uniform, though none of them is efficiently samplable, and an efficiently samplable pair of this kind exists if a pseudorandom generator does, since its output covers at most 2^n of the 2^l(n) strings; all of it is about ensembles indexed by n, not single pairs of distributions
+# THEORY-357: Indistinguishable needn't mean statistically close
 
 ## Source
 

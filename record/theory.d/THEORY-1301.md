@@ -3,7 +3,16 @@ number: 1301
 status: Active
 formerly:
 - THEORY-tmp100uk
-title: 'In the Haken–Kelso–Bunz potential V(φ) = −a cos φ − b cos 2φ, switching the parameters in time from no landscape (a = b = 0) to two wells (a = b = 1) to one well (a = 1, b = 0) makes the spread of the relative phase across trials rise while both wells are open and fall after one is removed, the pattern Sánchez-Cañizares compares qualitatively with post-stimulus quenching of trial-to-trial variability in decision tasks; under Gaussian white noise of the stated strength q = 1 the spread of cos φ settles near 0.40, not at 0'
+title: 'HKB switching raises then lowers phase spread'
+statement: >-
+  In the Haken–Kelso–Bunz potential V(φ) = −a cos φ − b cos 2φ, switching
+  the parameters in time from no landscape (a = b = 0) to two wells (a = b =
+  1) to one well (a = 1, b = 0) makes the spread of the relative phase
+  across trials rise while both wells are open and fall after one is
+  removed, the pattern Sánchez-Cañizares compares qualitatively with
+  post-stimulus quenching of trial-to-trial variability in decision tasks;
+  under Gaussian white noise of the stated strength q = 1 the spread of cos
+  φ settles near 0.40, not at 0
 version: 1
 tags:
 - complex-systems
@@ -24,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1302 — Proposed; the interpretation filed beside this, cited as open -->
 
-# THEORY-1301: In the Haken–Kelso–Bunz potential V(φ) = −a cos φ − b cos 2φ, switching the parameters in time from no landscape (a = b = 0) to two wells (a = b = 1) to one well (a = 1, b = 0) makes the spread of the relative phase across trials rise while both wells are open and fall after one is removed, the pattern Sánchez-Cañizares compares qualitatively with post-stimulus quenching of trial-to-trial variability in decision tasks; under Gaussian white noise of the stated strength q = 1 the spread of cos φ settles near 0.40, not at 0
+# THEORY-1301: HKB switching raises then lowers phase spread
 
 ## Source
 

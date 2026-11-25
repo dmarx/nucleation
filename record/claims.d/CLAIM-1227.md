@@ -3,7 +3,11 @@ number: 1227
 status: Proposed
 formerly:
 - CLAIM-tmp4mk0t
-title: 'Memes are characteristic values of perspectives: each records how a perspective responds to one kind of transformation of a situation, so a family of memes samples a perspective''s character without being it'
+title: 'Memes are characteristic values of perspectives'
+statement: >-
+  Memes are characteristic values of perspectives: each records how a
+  perspective responds to one kind of transformation of a situation, so a
+  family of memes samples a perspective's character without being it
 version: 2
 history:
 - version: 2
@@ -50,7 +54,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-142 CLAIM-1271 CLAIM-1278 CLAIM-1285 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
-# CLAIM-1227: Memes are characteristic values of perspectives: each records how a perspective responds to one kind of transformation of a situation, so a family of memes samples a perspective's character without being it
+# CLAIM-1227: Memes are characteristic values of perspectives
 
 ## The claim
 

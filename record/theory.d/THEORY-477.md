@@ -3,7 +3,12 @@ number: 477
 status: Active
 formerly:
 - THEORY-tmp9vso8
-title: "None of the ten morphosyntactic criteria linguists use to identify words is necessary and sufficient for the orthographic word across languages, and the test batteries that combine them pick criteria opportunistically, so no cross-linguistically valid definition of the word is yet available"
+title: 'No cross-linguistic definition of word yet'
+statement: >-
+  None of the ten morphosyntactic criteria linguists use to identify words
+  is necessary and sufficient for the orthographic word across languages,
+  and the test batteries that combine them pick criteria opportunistically,
+  so no cross-linguistically valid definition of the word is yet available
 version: 1
 tags:
 - linguistics
@@ -24,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-031 THEORY-588 THEORY-643 — Proposed; the readings and accounts that take up this finding, cited as open -->
 
-# THEORY-477: None of the ten morphosyntactic criteria linguists use to identify words is necessary and sufficient for the orthographic word across languages, and the test batteries that combine them pick criteria opportunistically, so no cross-linguistically valid definition of the word is yet available
+# THEORY-477: No cross-linguistic definition of word yet
 
 ## Source
 

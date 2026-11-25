@@ -3,7 +3,16 @@ number: 902
 status: Active
 formerly:
 - THEORY-tmp6h1sd
-title: 'In Friedkin, Jia and Bullo''s study of 30 four-person student groups discussing 15 choice dilemmas, a member''s self-reported closure to influence on the next issue rose with their influence centrality on the previous issue, an effect constant along the sequence, and with their average centrality over all prior issues, an effect that grew along it; influence networks thinned and discussions shortened while the rate of consensus did not change. Closure and centrality both come from the members'' own chip allocations, and prior closure is not controlled'
+title: 'Past centrality raises closure to influence'
+statement: >-
+  In Friedkin, Jia and Bullo's study of 30 four-person student groups
+  discussing 15 choice dilemmas, a member's self-reported closure to
+  influence on the next issue rose with their influence centrality on the
+  previous issue, an effect constant along the sequence, and with their
+  average centrality over all prior issues, an effect that grew along it;
+  influence networks thinned and discussions shortened while the rate of
+  consensus did not change. Closure and centrality both come from the
+  members' own chip allocations, and prior closure is not controlled
 version: 3
 history:
 - version: 2
@@ -64,7 +73,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-1212 — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 <!-- inactive-ok-file: THEORY-916 — Proposed or Deferred; the claim, account and companion work this bears on, named, nothing here rests on them -->
 
-# THEORY-902: In Friedkin, Jia and Bullo's study of 30 four-person student groups discussing 15 choice dilemmas, a member's self-reported closure to influence on the next issue rose with their influence centrality on the previous issue, an effect constant along the sequence, and with their average centrality over all prior issues, an effect that grew along it; influence networks thinned and discussions shortened while the rate of consensus did not change. Closure and centrality both come from the members' own chip allocations, and prior closure is not controlled
+# THEORY-902: Past centrality raises closure to influence
 
 ## Source
 

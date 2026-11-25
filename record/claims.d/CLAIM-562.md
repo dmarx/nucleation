@@ -3,7 +3,11 @@ number: 562
 status: Active
 formerly:
 - CLAIM-tmp675a9
-title: 'Where an intervention acts in a system''s constraint structure can predict whether it achieves a target better than how much intervention there is, and adding an intervention to a successful set can make it fail'
+title: 'Where intervention acts beats how much'
+statement: >-
+  Where an intervention acts in a system's constraint structure can predict
+  whether it achieves a target better than how much intervention there is,
+  and adding an intervention to a successful set can make it fail
 version: 3
 history:
 - version: 2
@@ -71,7 +75,7 @@ works:
 <!-- inactive-ok-file: CASE-389 CLAIM-1085 CLAIM-1205 — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CASE-406 CLAIM-1160 CLAIM-1107 CLAIM-1063 THEORY-2296 — new; filed by the lead run of 2026-11-23 on equal budgets -->
 
-# CLAIM-562: Where an intervention acts in a system's constraint structure can predict whether it achieves a target better than how much intervention there is, and adding an intervention to a successful set can make it fail
+# CLAIM-562: Where intervention acts beats how much
 
 ## The claim
 

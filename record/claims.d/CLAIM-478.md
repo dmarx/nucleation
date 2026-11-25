@@ -3,7 +3,16 @@ number: 478
 status: Proposed
 formerly:
 - CLAIM-tmpmx2ql
-title: 'Rate differences help make structure and not only mark it: where some degrees of freedom settle faster than others by more than the rates vary among them, the relation they settle into is a constraint on the system over the window between the two rates, so what is a realization at one rate works as a constraint at another; and organization can make new rate differences in turn, as when modes slow near an instability and become order parameters, so hierarchies of rates and constraints can produce one another'
+title: 'Rate differences make structure'
+statement: >-
+  Rate differences help make structure and not only mark it: where some
+  degrees of freedom settle faster than others by more than the rates vary
+  among them, the relation they settle into is a constraint on the system
+  over the window between the two rates, so what is a realization at one
+  rate works as a constraint at another; and organization can make new rate
+  differences in turn, as when modes slow near an instability and become
+  order parameters, so hierarchies of rates and constraints can produce one
+  another
 version: 6
 history:
 - version: 2
@@ -127,7 +136,7 @@ bears_on:
 <!-- inactive-ok-file: ARG-125 CLAIM-826 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-1094 — new; LEAD-195's rulings on symmetries, conservation laws and possibility facts, 2026-11-22 -->
 
-# CLAIM-478: Rate differences help make structure and not only mark it: where some degrees of freedom settle faster than others by more than the rates vary among them, the relation they settle into is a constraint on the system over the window between the two rates, so what is a realization at one rate works as a constraint at another; and organization can make new rate differences in turn, as when modes slow near an instability and become order parameters, so hierarchies of rates and constraints can produce one another
+# CLAIM-478: Rate differences make structure
 
 ## What version 5 changes
 

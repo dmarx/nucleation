@@ -3,7 +3,14 @@ number: 204
 status: Proposed
 formerly:
 - CLAIM-tmp3wo5j
-title: 'A communicative kind''s identity is grounded in its relational organization, for which competent participants'' uptake is the standard; statistical methods recover aspects of it from restricted observations; translation transports it; and what persists is what the receivers can still recover, of which the analyst can certify the independently identifiable part'
+title: 'Uptake-grounded kind, receiver-recovered fidelity'
+statement: >-
+  A communicative kind's identity is grounded in its relational
+  organization, for which competent participants' uptake is the standard;
+  statistical methods recover aspects of it from restricted observations;
+  translation transports it; and what persists is what the receivers can
+  still recover, of which the analyst can certify the independently
+  identifiable part
 version: 5
 history:
 - version: 2
@@ -110,7 +117,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-246 — Rejected; the objection on descent, cited as answered -->
 <!-- ref::uses-file: TERM-084 — CLAIM-246's objection that kind-sharing is "blind to descent", and direction "fixed by the design, as a fact of provenance", are descent in TERM-084's provenance sense -->
 
-# CLAIM-204: A communicative kind's identity is grounded in its relational organization, for which competent participants' uptake is the standard; statistical methods recover aspects of it from restricted observations; translation transports it; and what persists is what the receivers can still recover, of which the analyst can certify the independently identifiable part
+# CLAIM-204: Uptake-grounded kind, receiver-recovered fidelity
 
 ## The claim
 

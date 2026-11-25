@@ -3,7 +3,16 @@ number: 1807
 status: Proposed
 formerly:
 - THEORY-tmpxbva2
-title: 'Orzechowski, Tawfiq and Kosciolek (2026) find, in pre-registered comparisons on UniProt, that checks derived from a curated ontology flag more correct LLM-agent SPARQL answers than checks from a data-derived or masked LLM-generated ontology, that on real answers the curated check''s flags are barely more precise than random flags, that none of the ontology checks catches changes of meaning, and that acting on a checker''s flags can corrupt correct answers, as an LLM judge''s did more often than it fixed wrong ones'
+title: 'Ontology checks of agent SPARQL barely beat random'
+statement: >-
+  Orzechowski, Tawfiq and Kosciolek (2026) find, in pre-registered
+  comparisons on UniProt, that checks derived from a curated ontology flag
+  more correct LLM-agent SPARQL answers than checks from a data-derived or
+  masked LLM-generated ontology, that on real answers the curated check's
+  flags are barely more precise than random flags, that none of the ontology
+  checks catches changes of meaning, and that acting on a checker's flags
+  can corrupt correct answers, as an LLM judge's did more often than it
+  fixed wrong ones
 version: 1
 tags:
 - databases
@@ -26,7 +35,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1807: Orzechowski, Tawfiq and Kosciolek (2026) find, in pre-registered comparisons on UniProt, that checks derived from a curated ontology flag more correct LLM-agent SPARQL answers than checks from a data-derived or masked LLM-generated ontology, that on real answers the curated check's flags are barely more precise than random flags, that none of the ontology checks catches changes of meaning, and that acting on a checker's flags can corrupt correct answers, as an LLM judge's did more often than it fixed wrong ones
+# THEORY-1807: Ontology checks of agent SPARQL barely beat random
 
 ## The account
 

@@ -3,7 +3,11 @@ number: 152
 status: Active
 formerly:
 - CLAIM-tmp3qyzh
-title: 'Any individuation built on sufficiency is relative to the target it is sufficient for: fix the outcomes differently and a different partition wins, so no boundary drawn this way is universal'
+title: 'Sufficiency-based boundaries are target-relative'
+statement: >-
+  Any individuation built on sufficiency is relative to the target it is
+  sufficient for: fix the outcomes differently and a different partition
+  wins, so no boundary drawn this way is universal
 version: 7
 history:
 - version: 1
@@ -95,7 +99,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-161 — Proposed; the boundary claims this caution disciplines, open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-204 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# CLAIM-152: Any individuation built on sufficiency is relative to the target it is sufficient for: fix the outcomes differently and a different partition wins, so no boundary drawn this way is universal
+# CLAIM-152: Sufficiency-based boundaries are target-relative
 
 ## The claim
 

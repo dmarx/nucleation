@@ -3,7 +3,17 @@ number: 697
 status: Proposed
 formerly:
 - CLAIM-tmps7g72
-title: 'A learned system''s disposition to succeed at a task is resource-conditional: the admissible ways of eliciting it are largely the affordable compositions of declared operations, so its best success probability is a nondecreasing function of the budget over nested procedure classes; repeated sampling raises a frozen model''s chance that some attempt succeeds from p to 1 − (1 − p)^N with no change to its parameters; and that coverage is not delivery, which needs a selector that recognizes success, so generation, recognition and selection are separate capacities with separate costs'
+title: 'Resource-bound success; coverage is not delivery'
+statement: >-
+  A learned system's disposition to succeed at a task is
+  resource-conditional: the admissible ways of eliciting it are largely the
+  affordable compositions of declared operations, so its best success
+  probability is a nondecreasing function of the budget over nested
+  procedure classes; repeated sampling raises a frozen model's chance that
+  some attempt succeeds from p to 1 − (1 − p)^N with no change to its
+  parameters; and that coverage is not delivery, which needs a selector that
+  recognizes success, so generation, recognition and selection are separate
+  capacities with separate costs
 version: 2
 history:
 - version: 2
@@ -64,7 +74,7 @@ grounds:
 <!-- inactive-ok-file: CLAIM-754 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-576 TERM-118 — Proposed or new; the claim this extends, the term it uses, and the claim filed beside it -->
 
-# CLAIM-697: A learned system's disposition to succeed at a task is resource-conditional: the admissible ways of eliciting it are largely the affordable compositions of declared operations, so its best success probability is a nondecreasing function of the budget over nested procedure classes; repeated sampling raises a frozen model's chance that some attempt succeeds from p to 1 − (1 − p)^N with no change to its parameters; and that coverage is not delivery, which needs a selector that recognizes success, so generation, recognition and selection are separate capacities with separate costs
+# CLAIM-697: Resource-bound success; coverage is not delivery
 
 ## The claim and its demonstration
 

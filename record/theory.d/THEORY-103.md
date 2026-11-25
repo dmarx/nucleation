@@ -23,7 +23,11 @@ promote_when: >-
   demonstrations of partial-report superiority cannot settle it, and
   neither can more reports that subjects see everything, since both sides
   accept those data and dispute only whether the surplus is experienced.
-title: 'Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued'
+title: 'Phenomenal experience overflows access'
+statement: >-
+  Perceptual consciousness overflows cognitive access: in partial-report
+  tasks more items are experienced than the roughly four that working memory
+  holds, though any one of them can be accessed when cued
 version: 3
 history:
 - version: 2
@@ -73,7 +77,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-098 THEORY-094 — Proposed; filed in the same batch and named in Connections, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-096 — Proposed; the rival account, the relation declared on its file -->
 
-# THEORY-103: Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued
+# THEORY-103: Phenomenal experience overflows access
 
 ## Source
 

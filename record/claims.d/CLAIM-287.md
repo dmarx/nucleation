@@ -3,7 +3,11 @@ number: 287
 status: Active
 formerly:
 - CLAIM-tmpzkkx2
-title: 'What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation'
+title: 'Persistence is capacity to reinstate'
+statement: >-
+  What persists when a self persists through inactivity is the capacity to
+  reinstate an organization, not its continuous running, and continuity of
+  that kind can branch and merge, so it is not an identity relation
 version: 6
 history:
 - version: 2
@@ -95,7 +99,7 @@ bears_on:
 <!-- ref::uses-file: TERM-045 — the self that "persists through inactivity" in the title is TERM-045's persisting sense -->
 <!-- ref::uses-file: TERM-084 — A10's "causal-organizational continuity", "a relation of historical descent", and the requirement of descent that excludes the independent duplicate, are TERM-084's causal descent -->
 
-# CLAIM-287: What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation
+# CLAIM-287: Persistence is capacity to reinstate
 
 ## The claim
 

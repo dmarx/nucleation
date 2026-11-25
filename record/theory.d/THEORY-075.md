@@ -21,7 +21,11 @@ promote_when: >-
   source of reasons. Restating the argument, or more examples of
   "I couldn't live with myself", cannot settle it: the lectures already
   say the argument is "sketchy, and sketchily argued".
-title: "Obligation is the reflective rejection of what would violate the agent's practical identity, and moral obligation follows only because valuing any practical identity commits the agent to valuing her humanity"
+title: 'Moral obligation follows from valuing humanity'
+statement: >-
+  Obligation is the reflective rejection of what would violate the agent's
+  practical identity, and moral obligation follows only because valuing any
+  practical identity commits the agent to valuing her humanity
 version: 1
 tags:
 - ethics
@@ -53,7 +57,7 @@ answers:
 <!-- inactive-ok-file: LIT-599 — Unavailable; the book version of the lectures, named as the unread work that would move this -->
 <!-- inactive-ok-file: THEORY-029 THEORY-047 THEORY-054 THEORY-065 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
-# THEORY-075: Obligation is the reflective rejection of what would violate the agent's practical identity, and moral obligation follows only because valuing any practical identity commits the agent to valuing her humanity
+# THEORY-075: Moral obligation follows from valuing humanity
 
 ## Which unity, and which word
 

@@ -3,7 +3,14 @@ number: 982
 status: Proposed
 formerly:
 - CLAIM-tmpprgb1
-title: 'Under matched information and capacity, ablating an agent''s slow structure tells resolve from mere persistence only by what the ablation removes and only in conjunction: a reset rules out inertia but not imposed protection, recovery from a reset rules out imposed protection, revision under a defeater as the commitment ages rules out entrenchment, and ablating the timescale or yoking the values can read resolve as inertia'
+title: 'Ablations tell resolve only in conjunction'
+statement: >-
+  Under matched information and capacity, ablating an agent's slow structure
+  tells resolve from mere persistence only by what the ablation removes and
+  only in conjunction: a reset rules out inertia but not imposed protection,
+  recovery from a reset rules out imposed protection, revision under a
+  defeater as the commitment ages rules out entrenchment, and ablating the
+  timescale or yoking the values can read resolve as inertia
 version: 2
 history:
 - version: 1
@@ -62,7 +69,7 @@ works:
 ---
 <!-- inactive-ok-file: CASE-383 — new, the study this claim rests on, filed in the same batch -->
 
-# CLAIM-982: Under matched information and capacity, ablating an agent's slow structure tells resolve from mere persistence only by what the ablation removes and only in conjunction: a reset rules out inertia but not imposed protection, recovery from a reset rules out imposed protection, revision under a defeater as the commitment ages rules out entrenchment, and ablating the timescale or yoking the values can read resolve as inertia
+# CLAIM-982: Ablations tell resolve only in conjunction
 
 ## The claim
 

@@ -3,7 +3,16 @@ number: 1297
 status: Proposed
 formerly:
 - CLAIM-tmplz7ng
-title: 'An evolving inquiry can be understood as an atlas of partial representations whose objects and relations must stay identifiable across changes of perspective, purpose and grammar; progress can consist in finding distinctions or transformations that improve compatibility among the representations, and since their adequacy is itself under inquiry the atlas must be governed rather than assumed fixed, so class stability is a relation across representations and not a demand that one classification stay unchanged'
+title: 'Inquiry as an atlas of partial representations'
+statement: >-
+  An evolving inquiry can be understood as an atlas of partial
+  representations whose objects and relations must stay identifiable across
+  changes of perspective, purpose and grammar; progress can consist in
+  finding distinctions or transformations that improve compatibility among
+  the representations, and since their adequacy is itself under inquiry the
+  atlas must be governed rather than assumed fixed, so class stability is a
+  relation across representations and not a demand that one classification
+  stay unchanged
 version: 1
 role: thesis
 warrant: interpretive
@@ -39,7 +48,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1335 CLAIM-1277 ARG-250 CLAIM-1238 CLAIM-666 CLAIM-137 — Proposed, Open or new; the owner's thesis, A47's account, the argument from the case, the gap fill and question, and held entries it maps to -->
 
-# CLAIM-1297: An evolving inquiry can be understood as an atlas of partial representations whose objects and relations must stay identifiable across changes of perspective, purpose and grammar; progress can consist in finding distinctions or transformations that improve compatibility among the representations, and since their adequacy is itself under inquiry the atlas must be governed rather than assumed fixed, so class stability is a relation across representations and not a demand that one classification stay unchanged
+# CLAIM-1297: Inquiry as an atlas of partial representations
 
 ## The claim
 

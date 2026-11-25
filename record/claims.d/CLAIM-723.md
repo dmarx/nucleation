@@ -3,7 +3,14 @@ number: 723
 formerly:
 - CLAIM-tmpazi8a
 status: Proposed
-title: 'Acting before a recognized opportunity for intervention can take effect is a wrong of its own, apart from acting without consent: where a party has standing to authorize, suspend or contest an act, an actor who without adequate justification makes the act''s consequences irreversible before that standing can be exercised defeats it, even where the objection would have failed'
+title: 'Preempting intervention is a wrong of its own'
+statement: >-
+  Acting before a recognized opportunity for intervention can take effect is
+  a wrong of its own, apart from acting without consent: where a party has
+  standing to authorize, suspend or contest an act, an actor who without
+  adequate justification makes the act's consequences irreversible before
+  that standing can be exercised defeats it, even where the objection would
+  have failed
 version: 5
 history:
 - version: 2
@@ -81,7 +88,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-748 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 CLAIM-619 TERM-124 CASE-229 — Proposed; the record's nearest entries, cited with their standing -->
 
-# CLAIM-723: Acting before a recognized opportunity for intervention can take effect is a wrong of its own, apart from acting without consent: where a party has standing to authorize, suspend or contest an act, an actor who without adequate justification makes the act's consequences irreversible before that standing can be exercised defeats it, even where the objection would have failed
+# CLAIM-723: Preempting intervention is a wrong of its own
 
 ## The claim
 

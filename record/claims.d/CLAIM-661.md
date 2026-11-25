@@ -3,7 +3,15 @@ number: 661
 status: Proposed
 formerly:
 - CLAIM-tmpu69tn
-title: 'Where an influence on an organism came from, what governs its practical efficacy, and whose interests its effects serve are three separate questions, so neither an origin outside the organism nor one inside it settles whether the influence belongs to the organism''s self-governance: authorized external regulation, parasitic capture, cancer arising from the host''s own cells and foreign-origin cells serving the host realize the combinations'
+title: 'Origin does not settle self-governance'
+statement: >-
+  Where an influence on an organism came from, what governs its practical
+  efficacy, and whose interests its effects serve are three separate
+  questions, so neither an origin outside the organism nor one inside it
+  settles whether the influence belongs to the organism's self-governance:
+  authorized external regulation, parasitic capture, cancer arising from the
+  host's own cells and foreign-origin cells serving the host realize the
+  combinations
 version: 1
 role: thesis
 warrant: interpretive
@@ -54,7 +62,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-2323 THEORY-2233 — new, filed for LEAD-138; the reading the note of 2026-11-22 reports -->
 <!-- inactive-ok-file: LIT-2364 until 2027-02-12 — Unavailable; a premise this entry depends on (`grounds`): no lawful copy was found when it was read on 2026-11-12; ask again whether a copy has appeared -->
 
-# CLAIM-661: Where an influence on an organism came from, what governs its practical efficacy, and whose interests its effects serve are three separate questions, so neither an origin outside the organism nor one inside it settles whether the influence belongs to the organism's self-governance: authorized external regulation, parasitic capture, cancer arising from the host's own cells and foreign-origin cells serving the host realize the combinations
+# CLAIM-661: Origin does not settle self-governance
 
 ## The claim
 

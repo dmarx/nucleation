@@ -3,7 +3,13 @@ number: 1229
 status: Proposed
 formerly:
 - CLAIM-tmp4rfba
-title: 'What scholarly evaluation should recognize is contribution to a community''s maintained capacity for inquiry and not the maintenance of a body of knowledge as such: a record can grow while the community''s capacities stay the same, so rewarding maintenance without that test rewards accumulation'
+title: 'Reward capacity for inquiry, not accumulation'
+statement: >-
+  What scholarly evaluation should recognize is contribution to a
+  community's maintained capacity for inquiry and not the maintenance of a
+  body of knowledge as such: a record can grow while the community's
+  capacities stay the same, so rewarding maintenance without that test
+  rewards accumulation
 version: 2
 history:
 - version: 2
@@ -48,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1223 CLAIM-668 — Proposed; the premise about proxies, and a neighbour -->
 
-# CLAIM-1229: What scholarly evaluation should recognize is contribution to a community's maintained capacity for inquiry and not the maintenance of a body of knowledge as such: a record can grow while the community's capacities stay the same, so rewarding maintenance without that test rewards accumulation
+# CLAIM-1229: Reward capacity for inquiry, not accumulation
 
 ## The claim
 

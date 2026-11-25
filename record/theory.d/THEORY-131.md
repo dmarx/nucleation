@@ -12,7 +12,15 @@ promote_when: >-
   paper does not give, that intentional agency of this kind suffices for
   it. More appeals to how incorporation law treats corporations cannot
   settle either; French himself holds legal personhood irrelevant.
-title: 'A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members'' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person'
+title: 'CID structures make corporations agents'
+statement: >-
+  A corporation whose Corporate Internal Decision (CID) Structure, an
+  organizational chart of stations plus recognition rules embedded in
+  corporate policy, licenses redescribing its members' acts as done for
+  corporate reasons is a non-eliminable intentional agent, unlike a mob; and
+  if intentional agency suffices for moral personhood, which French asserts
+  but here says he cannot further argue, such a corporation is a
+  full-fledged moral person
 version: 2
 history:
 - version: 2
@@ -43,7 +51,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-139 — Proposed; Pettit's account, named for comparison -->
 
-# THEORY-131: A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person
+# THEORY-131: CID structures make corporations agents
 
 ## Source
 

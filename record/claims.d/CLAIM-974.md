@@ -3,7 +3,14 @@ number: 974
 status: Proposed
 formerly:
 - CLAIM-tmpvq4ru
-title: "In Davies and Pfenning's bidirectional refinement checking no rule moves a term: checking against a type given accepts or rejects, ascriptions are erased, and subtyping is inclusion, so no coercion is inserted; the change that makes a failing term pass is the programmer's and can change what the program does, so where checking is a mode of its own the performative update still lies outside the checker"
+title: 'Davies–Pfenning checking leaves update outside'
+statement: >-
+  In Davies and Pfenning's bidirectional refinement checking no rule moves a
+  term: checking against a type given accepts or rejects, ascriptions are
+  erased, and subtyping is inclusion, so no coercion is inserted; the change
+  that makes a failing term pass is the programmer's and can change what the
+  program does, so where checking is a mode of its own the performative
+  update still lies outside the checker
 version: 1
 role: counter
 warrant: interpretive
@@ -45,7 +52,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2260 CLAIM-949 CLAIM-965 TERM-151 CLAIM-943 — Proposed; the reading this rests on, the claim it objects to, the claim it complements, and the term and claim it is stated against -->
 
-# CLAIM-974: In Davies and Pfenning's bidirectional refinement checking no rule moves a term: checking against a type given accepts or rejects, ascriptions are erased, and subtyping is inclusion, so no coercion is inserted; the change that makes a failing term pass is the programmer's and can change what the program does, so where checking is a mode of its own the performative update still lies outside the checker
+# CLAIM-974: Davies–Pfenning checking leaves update outside
 
 ## The claim
 

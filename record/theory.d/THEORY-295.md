@@ -3,7 +3,12 @@ number: 295
 status: Active
 formerly:
 - THEORY-tmpz5itv
-title: "In a community whose consensus model is replaced whenever a single sound pairwise model comparison favours the challenger, which models get proposed can hold the consensus on a false model while results reproduce almost perfectly, so reproducibility need not track convergence to truth"
+title: 'Reproducibility need not track truth'
+statement: >-
+  In a community whose consensus model is replaced whenever a single sound
+  pairwise model comparison favours the challenger, which models get
+  proposed can hold the consensus on a false model while results reproduce
+  almost perfectly, so reproducibility need not track convergence to truth
 version: 4
 history:
 - version: 2
@@ -56,7 +61,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-814 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-148 — Proposed; accounts of community-level epistemic mechanisms this one sits beside -->
 
-# THEORY-295: In a community whose consensus model is replaced whenever a single sound pairwise model comparison favours the challenger, which models get proposed can hold the consensus on a false model while results reproduce almost perfectly, so reproducibility need not track convergence to truth
+# THEORY-295: Reproducibility need not track truth
 
 ## Source
 

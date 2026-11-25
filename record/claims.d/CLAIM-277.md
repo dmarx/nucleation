@@ -3,7 +3,12 @@ number: 277
 status: Active
 formerly:
 - CLAIM-tmpf1063
-title: 'Durable authority among an organization''s processes need not be a primitive: trust can be the temporal regularity of grants that policies earn by being right often, and the same loop entrenches whatever gained influence early'
+title: 'Trust as a regularity of earned grants'
+statement: >-
+  Durable authority among an organization's processes need not be a
+  primitive: trust can be the temporal regularity of grants that policies
+  earn by being right often, and the same loop entrenches whatever gained
+  influence early
 version: 8
 history:
 - version: 2
@@ -88,7 +93,7 @@ answers:
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
-# CLAIM-277: Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of grants that policies earn by being right often, and the same loop entrenches whatever gained influence early
+# CLAIM-277: Trust as a regularity of earned grants
 
 ## The claim
 

@@ -3,7 +3,11 @@ number: 184
 status: Active
 formerly:
 - THEORY-tmpmh1ao
-title: 'Under a permutation-equivariant update whose map is K-Lipschitz, coincident neurons stay coincident at every step size, and at step size below 1/K distinct neurons cannot merge in finitely many steps'
+title: 'Equivariant updates keep coincident neurons'
+statement: >-
+  Under a permutation-equivariant update whose map is K-Lipschitz,
+  coincident neurons stay coincident at every step size, and at step size
+  below 1/K distinct neurons cannot merge in finitely many steps
 version: 2
 history:
 - version: 2
@@ -41,7 +45,7 @@ bears_on:
 
 <!-- inactive-ok-file: THEORY-039 — Proposed; the record's account of later training phases, named for what this does not settle -->
 
-# THEORY-184: Under a permutation-equivariant update whose map is K-Lipschitz, coincident neurons stay coincident at every step size, and at step size below 1/K distinct neurons cannot merge in finitely many steps
+# THEORY-184: Equivariant updates keep coincident neurons
 
 ## Source
 

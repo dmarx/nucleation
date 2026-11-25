@@ -3,7 +3,14 @@ number: 502
 status: Active
 formerly:
 - THEORY-tmpdk0fo
-title: "Forman–Ricci curvature of a graph edge, taken with no cells above the edges, depends only on the weights of the edge, its two endpoints and the edges adjacent to it, and with unit weights reduces to 4 − deg(v₁) − deg(v₂); it is a local, closed-form degree-and-weight statistic that sees no triangles or cycles, unlike Ollivier's curvature, which needs a transport problem per edge"
+title: 'Forman curvature is a local degree statistic'
+statement: >-
+  Forman–Ricci curvature of a graph edge, taken with no cells above the
+  edges, depends only on the weights of the edge, its two endpoints and the
+  edges adjacent to it, and with unit weights reduces to 4 − deg(v₁) −
+  deg(v₂); it is a local, closed-form degree-and-weight statistic that sees
+  no triangles or cycles, unlike Ollivier's curvature, which needs a
+  transport problem per edge
 version: 1
 tags:
 - network-science
@@ -24,7 +31,7 @@ summary: >-
   definition only.
 ---
 
-# THEORY-502: Forman–Ricci curvature of a graph edge, taken with no cells above the edges, depends only on the weights of the edge, its two endpoints and the edges adjacent to it, and with unit weights reduces to 4 − deg(v₁) − deg(v₂); it is a local, closed-form degree-and-weight statistic that sees no triangles or cycles, unlike Ollivier's curvature, which needs a transport problem per edge
+# THEORY-502: Forman curvature is a local degree statistic
 
 ## Source
 

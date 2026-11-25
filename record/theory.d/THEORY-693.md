@@ -15,7 +15,13 @@ promote_when: >-
   unmarked resonant follows are common. More analysed excerpts cannot
   settle it, since the chapter's excerpts were chosen to show the
   aspects together.
-title: "In conversation, evaluating an object, positioning oneself and aligning with another speaker are three aspects of one stance act rather than three kinds of stance, because a stance takes a shared object and answers a prior stance, which are usually supplied by earlier turns; a resonant follow must mark its relation to the lead, with too or either in English"
+title: 'Evaluation, positioning, alignment: one stance'
+statement: >-
+  In conversation, evaluating an object, positioning oneself and aligning
+  with another speaker are three aspects of one stance act rather than three
+  kinds of stance, because a stance takes a shared object and answers a
+  prior stance, which are usually supplied by earlier turns; a resonant
+  follow must mark its relation to the lead, with too or either in English
 version: 1
 tags:
 - pragmatics
@@ -36,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-504 LIT-477 — Unavailable; Tomasello and Gilbert, unread, named as the reader's connection and not leaned on -->
 <!-- inactive-ok-file: LIT-780 — Unavailable; Goffman's Forms of Talk, unread, named as what the chapter sets aside -->
 
-# THEORY-693: In conversation, evaluating an object, positioning oneself and aligning with another speaker are three aspects of one stance act rather than three kinds of stance, because a stance takes a shared object and answers a prior stance, which are usually supplied by earlier turns; a resonant follow must mark its relation to the lead, with too or either in English
+# THEORY-693: Evaluation, positioning, alignment: one stance
 
 ## Source
 

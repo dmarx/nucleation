@@ -3,7 +3,13 @@ number: 1101
 status: Active
 formerly:
 - CLAIM-tmpgnozg
-title: 'Linear tests are not closed under pointwise minimum or maximum, so a lattice whose concepts each have a linear test cannot in general give its meets and joins linear tests; this does not tell against Xiong''s lattice representation hypothesis as stated, whose meet is already an intersection of half-spaces and not a direction'
+title: 'Linear tests are not closed under min and max'
+statement: >-
+  Linear tests are not closed under pointwise minimum or maximum, so a
+  lattice whose concepts each have a linear test cannot in general give its
+  meets and joins linear tests; this does not tell against Xiong's lattice
+  representation hypothesis as stated, whose meet is already an intersection
+  of half-spaces and not a direction
 version: 2
 history:
 - version: 1
@@ -58,7 +64,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-267 — Proposed; the paper this checks, and the lattice claim this rests on, filed 2026-11-22 -->
 
-# CLAIM-1101: Linear tests are not closed under pointwise minimum or maximum, so a lattice whose concepts each have a linear test cannot in general give its meets and joins linear tests; this does not tell against Xiong's lattice representation hypothesis as stated, whose meet is already an intersection of half-spaces and not a direction
+# CLAIM-1101: Linear tests are not closed under min and max
 
 ## The claim
 

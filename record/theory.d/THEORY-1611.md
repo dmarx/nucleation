@@ -3,7 +3,14 @@ number: 1611
 status: Active
 formerly:
 - THEORY-tmppvd83
-title: 'Dovidio, Gaertner, Shnabel, Saguy and Johnson report that recategorizing two groups as one removed in-group bias in helping, that White students helped a Black student more when he expressed a common university identity, partly through empathic concern, and that they helped him no more when he expressed a dual identity than when he expressed only his subgroup identity'
+title: 'Common identity removes helping bias'
+statement: >-
+  Dovidio, Gaertner, Shnabel, Saguy and Johnson report that recategorizing
+  two groups as one removed in-group bias in helping, that White students
+  helped a Black student more when he expressed a common university
+  identity, partly through empathic concern, and that they helped him no
+  more when he expressed a dual identity than when he expressed only his
+  subgroup identity
 version: 2
 history:
 - version: 1
@@ -42,7 +49,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1611: Dovidio, Gaertner, Shnabel, Saguy and Johnson report that recategorizing two groups as one removed in-group bias in helping, that White students helped a Black student more when he expressed a common university identity, partly through empathic concern, and that they helped him no more when he expressed a dual identity than when he expressed only his subgroup identity
+# THEORY-1611: Common identity removes helping bias
 
 ## The account
 

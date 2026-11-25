@@ -14,7 +14,13 @@ promote_when: >-
   a correct algorithm is exhibited that beats N^((m−1)/m) k^(1/m) under
   them. Further secondary statements of the bound, including more of
   Fagin, Lotem and Naor, cannot settle it: the record already holds one.
-title: "For strict combining functions and m attribute-sorted lists of N objects whose orderings are probabilistically independent, no correct top-k algorithm does essentially better than Fagin's Algorithm in the worst case with high probability: every one needs on the order of N^((m−1)/m) k^(1/m) accesses"
+title: 'Fagin''s Algorithm is optimal for independent lists'
+statement: >-
+  For strict combining functions and m attribute-sorted lists of N objects
+  whose orderings are probabilistically independent, no correct top-k
+  algorithm does essentially better than Fagin's Algorithm in the worst case
+  with high probability: every one needs on the order of N^((m−1)/m) k^(1/m)
+  accesses
 version: 1
 history:
 - version: 1
@@ -47,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1108 — Unavailable; the source of the bound, cited as reported by LIT-1115 -->
 
-# THEORY-832: For strict combining functions and m attribute-sorted lists of N objects whose orderings are probabilistically independent, no correct top-k algorithm does essentially better than Fagin's Algorithm in the worst case with high probability: every one needs on the order of N^((m−1)/m) k^(1/m) accesses
+# THEORY-832: Fagin's Algorithm is optimal for independent lists
 
 ## Source
 

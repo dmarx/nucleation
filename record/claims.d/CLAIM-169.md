@@ -3,7 +3,12 @@ number: 169
 status: Proposed
 formerly:
 - CLAIM-tmpmf12z
-title: 'On Ainslie''s account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice''s horizon'
+title: 'Desynchronized valuation produces interests'
+statement: >-
+  On Ainslie's account the population of interests is produced by
+  desynchronized valuation, not given by a fixed architecture: an agent is
+  many interests over a choice only as far as its valuations of that choice
+  cross within the choice's horizon
 version: 2
 history:
 - version: 2
@@ -48,7 +53,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-591 — Unavailable; IFS, named as simultaneous parts, not leaned on -->
 <!-- inactive-ok-file: THEORY-067 — Proposed; the reading this claim is drawn from, with its untested mechanism stated -->
 
-# CLAIM-169: On Ainslie's account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice's horizon
+# CLAIM-169: Desynchronized valuation produces interests
 
 ## The claim
 

@@ -3,7 +3,15 @@ number: 1676
 status: Proposed
 formerly:
 - THEORY-tmpciv40
-title: 'Close and colleagues, pooling six open-access surveys of 7,771 loot-box purchasers, find that self-reported loot-box spending is heavily concentrated, the top 5% of spenders (over $100 a month) accounting for over half of it, and that spending correlates with problem-gambling severity (ρ = .33) but not with earnings (ρ = .02), so that the high spenders the industry calls whales are disproportionately at-risk gamblers rather than wealthy players'
+title: 'Loot-box whales are at-risk gamblers, not rich'
+statement: >-
+  Close and colleagues, pooling six open-access surveys of 7,771 loot-box
+  purchasers, find that self-reported loot-box spending is heavily
+  concentrated, the top 5% of spenders (over $100 a month) accounting for
+  over half of it, and that spending correlates with problem-gambling
+  severity (ρ = .33) but not with earnings (ρ = .02), so that the high
+  spenders the industry calls whales are disproportionately at-risk gamblers
+  rather than wealthy players
 version: 1
 source:
 - LIT-2418
@@ -29,7 +37,7 @@ summary: >-
   earnings).
 ---
 
-# THEORY-1676: Close and colleagues, pooling six open-access surveys of 7,771 loot-box purchasers, find that self-reported loot-box spending is heavily concentrated, the top 5% of spenders (over $100 a month) accounting for over half of it, and that spending correlates with problem-gambling severity (ρ = .33) but not with earnings (ρ = .02), so that the high spenders the industry calls whales are disproportionately at-risk gamblers rather than wealthy players
+# THEORY-1676: Loot-box whales are at-risk gamblers, not rich
 
 ## The account
 

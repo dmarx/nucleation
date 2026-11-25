@@ -3,7 +3,13 @@ number: 332
 status: Proposed
 formerly:
 - CLAIM-tmpuk7tx
-title: 'A loosely organized population can change what an outside institution does through its members'' separately motivated acts of making, selecting and passing things on, without forming a collective intention or judgment, when the organized pattern of those acts, and not only the acts of identifiable individuals, earns its place in explaining the change'
+title: 'Populations can steer institutions unintended'
+statement: >-
+  A loosely organized population can change what an outside institution does
+  through its members' separately motivated acts of making, selecting and
+  passing things on, without forming a collective intention or judgment,
+  when the organized pattern of those acts, and not only the acts of
+  identifiable individuals, earns its place in explaining the change
 version: 2
 history:
 - version: 2
@@ -47,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-410 CLAIM-1006 CLAIM-1026 CLAIM-1022 CLAIM-1052 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-332: A loosely organized population can change what an outside institution does through its members' separately motivated acts of making, selecting and passing things on, without forming a collective intention or judgment, when the organized pattern of those acts, and not only the acts of identifiable individuals, earns its place in explaining the change
+# CLAIM-332: Populations can steer institutions unintended
 
 ## The claim
 

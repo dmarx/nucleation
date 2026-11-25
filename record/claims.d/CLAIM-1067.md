@@ -3,7 +3,12 @@ number: 1067
 status: Proposed
 formerly:
 - CLAIM-tmpc47v8
-title: 'In the public records of contested open-source successions, a verdict by an independent party on which line continues the project appears only as the stated reason for that party''s own move, made in the same act, so the records cannot time verdicts apart from migration'
+title: 'Verdicts cannot be timed apart from migration'
+statement: >-
+  In the public records of contested open-source successions, a verdict by
+  an independent party on which line continues the project appears only as
+  the stated reason for that party's own move, made in the same act, so the
+  records cannot time verdicts apart from migration
 version: 1
 role: thesis
 warrant: empirical
@@ -46,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-411 CLAIM-1154 — new, Proposed; the study this rests on and the alternative reading of it -->
 <!-- inactive-ok-file: ARG-067 CLAIM-617 CASE-223 — Proposed; the argument whose critical question this answers, the claim it would test and the design -->
 
-# CLAIM-1067: In the public records of contested open-source successions, a verdict by an independent party on which line continues the project appears only as the stated reason for that party's own move, made in the same act, so the records cannot time verdicts apart from migration
+# CLAIM-1067: Verdicts cannot be timed apart from migration
 
 ## The claim
 

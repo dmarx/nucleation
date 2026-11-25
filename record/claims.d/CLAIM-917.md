@@ -3,7 +3,12 @@ number: 917
 status: Proposed
 formerly:
 - CLAIM-tmpnhrot
-title: 'On the narrow reading of the dependence rule, a constraint the capacity depends on but the agent does not produce is a condition, not a member of K, so a capacity whose realizing constraints all lie outside the agent is not the agent''s to maintain'
+title: 'Narrow reading: outside constraints are conditions'
+statement: >-
+  On the narrow reading of the dependence rule, a constraint the capacity
+  depends on but the agent does not produce is a condition, not a member of
+  K, so a capacity whose realizing constraints all lie outside the agent is
+  not the agent's to maintain
 version: 1
 role: thesis
 warrant: interpretive
@@ -38,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-916 CLAIM-915 CASE-342 — new, filed in this pull request for LEAD-053 -->
 <!-- inactive-ok-file: CLAIM-367 CASE-227 — Proposed; the cases on which the two readings part, cited as open -->
 
-# CLAIM-917: On the narrow reading of the dependence rule, a constraint the capacity depends on but the agent does not produce is a condition, not a member of K, so a capacity whose realizing constraints all lie outside the agent is not the agent's to maintain
+# CLAIM-917: Narrow reading: outside constraints are conditions
 
 ## The claim
 

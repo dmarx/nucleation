@@ -13,7 +13,13 @@ promote_when: >-
   theories deliver dynamical and not causal structure, is argued rather
   than asserted. Sorting further interpretations into the scheme cannot
   settle it, since the scheme fits any of them by construction.
-title: "Wave-function realism falsifies causal closure restricted to spacetime but is compatible with closure relative to fundamental physics, so quantum ontology opens no causal gap for non-physical causes; what it forces on the physicalist is a criterion of the physical and a bridge from dynamical to causal completeness"
+title: 'Wave-function realism leaves physics closed'
+statement: >-
+  Wave-function realism falsifies causal closure restricted to spacetime but
+  is compatible with closure relative to fundamental physics, so quantum
+  ontology opens no causal gap for non-physical causes; what it forces on
+  the physicalist is a criterion of the physical and a bridge from dynamical
+  to causal completeness
 version: 1
 tags:
 - metaphysics
@@ -38,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-144 — Unavailable; named as the held work this paper adjoins, not leaned on -->
 <!-- inactive-ok-file: LIT-200 — Proposed; named as a reading the paper's point applies to, not leaned on -->
 
-# THEORY-485: Wave-function realism falsifies causal closure restricted to spacetime but is compatible with closure relative to fundamental physics, so quantum ontology opens no causal gap for non-physical causes; what it forces on the physicalist is a criterion of the physical and a bridge from dynamical to causal completeness
+# THEORY-485: Wave-function realism leaves physics closed
 
 ## Source
 

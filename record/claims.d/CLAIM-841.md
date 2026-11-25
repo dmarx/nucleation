@@ -3,7 +3,12 @@ number: 841
 status: Proposed
 formerly:
 - CLAIM-tmpsr8r4
-title: 'A power law or a scale-invariant law does not by itself indicate criticality: symmetry, flux, growth, coarsening, geometry and broad relaxation spectra each remove a characteristic scale without a tuned transition'
+title: 'A power law alone does not indicate criticality'
+statement: >-
+  A power law or a scale-invariant law does not by itself indicate
+  criticality: symmetry, flux, growth, coarsening, geometry and broad
+  relaxation spectra each remove a characteristic scale without a tuned
+  transition
 version: 4
 history:
 - version: 2
@@ -102,7 +107,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-769 — Proposed; power-law relaxation from a spread of rates -->
 <!-- inactive-ok-file: CLAIM-803 CLAIM-795 — filed from the same exchange on 2026-11-21, Proposed -->
 
-# CLAIM-841: A power law or a scale-invariant law does not by itself indicate criticality: symmetry, flux, growth, coarsening, geometry and broad relaxation spectra each remove a characteristic scale without a tuned transition
+# CLAIM-841: A power law alone does not indicate criticality
 
 ## The routes
 

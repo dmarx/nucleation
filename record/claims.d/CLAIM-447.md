@@ -3,7 +3,15 @@ number: 447
 status: Proposed
 formerly:
 - CLAIM-tmp9ry8f
-title: 'Model-based wanting is a pursuit process''s ranking of the futures it predicts under candidate interventions, P(S | do(a)) against P(S | do(a₀)), while cue-triggered wanting is learned salience that need not compute those futures; a process''s causal model, its wanting and its practical efficacy are separable, so learning to want differently, learning that a want will not pay, and learning not to act on it are three different changes'
+title: 'Model-based wanting ranks predicted futures'
+statement: >-
+  Model-based wanting is a pursuit process's ranking of the futures it
+  predicts under candidate interventions, P(S | do(a)) against P(S |
+  do(a₀)), while cue-triggered wanting is learned salience that need not
+  compute those futures; a process's causal model, its wanting and its
+  practical efficacy are separable, so learning to want differently,
+  learning that a want will not pay, and learning not to act on it are three
+  different changes
 version: 2
 history:
 - version: 2
@@ -53,7 +61,7 @@ summary: >-
   change what is wanted through what it lets be represented.
 ---
 
-# CLAIM-447: Model-based wanting is a pursuit process's ranking of the futures it predicts under candidate interventions, P(S | do(a)) against P(S | do(a₀)), while cue-triggered wanting is learned salience that need not compute those futures; a process's causal model, its wanting and its practical efficacy are separable, so learning to want differently, learning that a want will not pay, and learning not to act on it are three different changes
+# CLAIM-447: Model-based wanting ranks predicted futures
 
 ## The claim
 

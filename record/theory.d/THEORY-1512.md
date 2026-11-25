@@ -5,7 +5,17 @@ formerly:
 - THEORY-tmp6pn8h
 bears_on:
 - QUESTION-398
-title: 'Alía and Esteban hold, from the randomized weaning trials of the 1990s, that ventilation can be withdrawn abruptly in about three quarters of patients whose cause of respiratory failure has improved, readiness being tested by a trial of unassisted breathing on T-tube or low pressure support, for 30 or 120 minutes alike, and immediate extubation after a passed trial shortening ventilation compared with gradual withdrawal; and that the patients who fail need gradual withdrawal while the causes are corrected, where SIMV was the least efficient method in both trials and once-daily T-tube trials or reductions of pressure support did better'
+title: 'Most patients can stop ventilation abruptly'
+statement: >-
+  Alía and Esteban hold, from the randomized weaning trials of the 1990s,
+  that ventilation can be withdrawn abruptly in about three quarters of
+  patients whose cause of respiratory failure has improved, readiness being
+  tested by a trial of unassisted breathing on T-tube or low pressure
+  support, for 30 or 120 minutes alike, and immediate extubation after a
+  passed trial shortening ventilation compared with gradual withdrawal; and
+  that the patients who fail need gradual withdrawal while the causes are
+  corrected, where SIMV was the least efficient method in both trials and
+  once-daily T-tube trials or reductions of pressure support did better
 version: 2
 history:
 - version: 2
@@ -49,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1552 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2213 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
 
-# THEORY-1512: Alía and Esteban hold, from the randomized weaning trials of the 1990s, that ventilation can be withdrawn abruptly in about three quarters of patients whose cause of respiratory failure has improved, readiness being tested by a trial of unassisted breathing on T-tube or low pressure support, for 30 or 120 minutes alike, and immediate extubation after a passed trial shortening ventilation compared with gradual withdrawal; and that the patients who fail need gradual withdrawal while the causes are corrected, where SIMV was the least efficient method in both trials and once-daily T-tube trials or reductions of pressure support did better
+# THEORY-1512: Most patients can stop ventilation abruptly
 
 ## Source
 

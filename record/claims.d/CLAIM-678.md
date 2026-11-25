@@ -3,7 +3,14 @@ number: 678
 status: Active
 formerly:
 - CLAIM-tmpdp56s
-title: 'Power over a technological arrangement has at least three dimensions that can be held and distributed separately: operational power, over how it works; economic power, over who owns it and takes its benefits; and epistemic power, over the knowledge needed to understand, evaluate and challenge it; so widening one, by public ownership, consumer choice or technical literacy, does not of itself widen the others'
+title: 'Three separable dimensions of technological power'
+statement: >-
+  Power over a technological arrangement has at least three dimensions that
+  can be held and distributed separately: operational power, over how it
+  works; economic power, over who owns it and takes its benefits; and
+  epistemic power, over the knowledge needed to understand, evaluate and
+  challenge it; so widening one, by public ownership, consumer choice or
+  technical literacy, does not of itself widen the others
 version: 5
 history:
 - version: 2
@@ -82,7 +89,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-707 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: THEORY-1859 THEORY-1841 THEORY-1842 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
-# CLAIM-678: Power over a technological arrangement has at least three dimensions that can be held and distributed separately: operational power, over how it works; economic power, over who owns it and takes its benefits; and epistemic power, over the knowledge needed to understand, evaluate and challenge it; so widening one, by public ownership, consumer choice or technical literacy, does not of itself widen the others
+# CLAIM-678: Three separable dimensions of technological power
 
 ## The claim
 

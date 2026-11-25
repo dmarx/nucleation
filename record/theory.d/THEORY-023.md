@@ -16,7 +16,12 @@ promote_when: >-
   immune to training on human output. Another indicator checklist, or
   another credence assigned under an assumed theory, cannot settle it,
   because both are conditional on the premise in dispute.
-title: 'Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer'
+title: 'Evidence cannot settle AI consciousness'
+statement: >-
+  Current evidence cannot settle whether an AI system is conscious: mimicry
+  undercuts behavioural evidence and architectural indicators presuppose the
+  disputed computational functionalism, so the dispute is over what counts
+  as evidence as well as the answer
 version: 4
 history:
 - version: 2
@@ -82,7 +87,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-045 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-298 — Proposed; the account filed from LIT-982, named in Connections and not leaned on -->
 
-# THEORY-023: Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer
+# THEORY-023: Evidence cannot settle AI consciousness
 
 ## Source
 

@@ -3,7 +3,12 @@ number: 1388
 status: Active
 formerly:
 - THEORY-tmpegbva
-title: "De Oliveira, de Sá and Martins give multi-period forms of the FLEET and local-reliability expected covering models, letting ambulances move among bases between periods, and trade the number of bases against coverage as a bi-objective problem, for Belo Horizonte's emergency medical service"
+title: 'Multi-period covering lets ambulances relocate'
+statement: >-
+  De Oliveira, de Sá and Martins give multi-period forms of the FLEET and
+  local-reliability expected covering models, letting ambulances move among
+  bases between periods, and trade the number of bases against coverage as a
+  bi-objective problem, for Belo Horizonte's emergency medical service
 version: 3
 history:
 - version: 2
@@ -51,7 +56,7 @@ corroborates:
 - CLAIM-296
 - CLAIM-312
 ---
-# THEORY-1388: De Oliveira, de Sá and Martins give multi-period forms of the FLEET and local-reliability expected covering models, letting ambulances move among bases between periods, and trade the number of bases against coverage as a bi-objective problem, for Belo Horizonte's emergency medical service
+# THEORY-1388: Multi-period covering lets ambulances relocate
 
 ## Source
 

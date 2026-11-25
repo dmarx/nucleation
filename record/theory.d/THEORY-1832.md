@@ -14,7 +14,14 @@ promote_when: >-
   drift, against a layer- and norm-matched residual baseline. Gains under
   one judge, single-turn benchmarks, or the authors' own configuration on
   further traits do not settle it.
-title: 'On Kang and colleagues, residual-stream persona steering loses coherence over multi-turn dialogue partly because steered token states written to the KV cache are reused by later tokens, and steering vectors taken from the system prompt''s contribution to self-attention, applied per token through a query–key gate, keep trait expression while largely avoiding that loss'
+title: 'KV cache reuse erodes multi-turn steering'
+statement: >-
+  On Kang and colleagues, residual-stream persona steering loses coherence
+  over multi-turn dialogue partly because steered token states written to
+  the KV cache are reused by later tokens, and steering vectors taken from
+  the system prompt's contribution to self-attention, applied per token
+  through a query–key gate, keep trait expression while largely avoiding
+  that loss
 version: 1
 tags:
 - representation-learning
@@ -33,7 +40,7 @@ summary: >-
   a result.
 ---
 
-# THEORY-1832: On Kang and colleagues, residual-stream persona steering loses coherence over multi-turn dialogue partly because steered token states written to the KV cache are reused by later tokens, and steering vectors taken from the system prompt's contribution to self-attention, applied per token through a query–key gate, keep trait expression while largely avoiding that loss
+# THEORY-1832: KV cache reuse erodes multi-turn steering
 
 ## Source
 

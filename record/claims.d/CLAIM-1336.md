@@ -3,7 +3,14 @@ number: 1336
 status: Proposed
 formerly:
 - CLAIM-tmpxl4mg
-title: 'A performance tolerance and a normative constraint do different work: an error budget permits a specified rate of service variation and allocates corrective effort by it, while a right determines what conduct is permissible toward each holder and may require remedy for an isolated violation, so a statistical tolerance for failures does not make any failure within it acceptable'
+title: 'Tolerances are not normative constraints'
+statement: >-
+  A performance tolerance and a normative constraint do different work: an
+  error budget permits a specified rate of service variation and allocates
+  corrective effort by it, while a right determines what conduct is
+  permissible toward each holder and may require remedy for an isolated
+  violation, so a statistical tolerance for failures does not make any
+  failure within it acceptable
 version: 1
 role: thesis
 warrant: interpretive
@@ -39,7 +46,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-3256 — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
-# CLAIM-1336: A performance tolerance and a normative constraint do different work: an error budget permits a specified rate of service variation and allocates corrective effort by it, while a right determines what conduct is permissible toward each holder and may require remedy for an isolated violation, so a statistical tolerance for failures does not make any failure within it acceptable
+# CLAIM-1336: Tolerances are not normative constraints
 
 ## The claim
 

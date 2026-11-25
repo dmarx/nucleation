@@ -3,7 +3,12 @@ number: 684
 status: Proposed
 formerly:
 - CLAIM-tmpsmg1c
-title: 'When a choice about a technology or an institution could substantially and durably narrow the possibilities later open to those it affects, the burden of justifying it should rise with the size and the irreversibility of the narrowing'
+title: 'Burden rises with durable narrowing'
+statement: >-
+  When a choice about a technology or an institution could substantially and
+  durably narrow the possibilities later open to those it affects, the
+  burden of justifying it should rise with the size and the irreversibility
+  of the narrowing
 version: 3
 history:
 - version: 2
@@ -68,7 +73,7 @@ works:
 <!-- inactive-ok-file: THEORY-1853 THEORY-1861 — filed from the readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-1921 — filed from the readings of 2026-11-13, Skimmed; Illich, a two-page excerpt -->
 
-# CLAIM-684: When a choice about a technology or an institution could substantially and durably narrow the possibilities later open to those it affects, the burden of justifying it should rise with the size and the irreversibility of the narrowing
+# CLAIM-684: Burden rises with durable narrowing
 
 ## The claim
 

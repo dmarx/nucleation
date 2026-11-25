@@ -11,7 +11,16 @@ promote_when: >-
   converges to it with old-mean drift bounded by overlap terms decaying
   exponentially in separation, and the tilt of a frozen reference keeps its
   components and only reweights them.
-title: 'Balasubramanian and Kasiviswanathan prove, in a two-mode equal-covariance Gaussian mixture with the old component already correct, that forward-KL fine-tuning on new data alone drives the old mode''s weight to zero, while KL-regularized reinforcement learning toward a target that keeps the old mode converges to that target and moves the old mean only through overlap terms that decay exponentially with mode separation, and that an exponential tilt of a frozen reference can reweight its modes but not create or recover one'
+title: 'Forward-KL tuning forgets; KL-regularized RL keeps'
+statement: >-
+  Balasubramanian and Kasiviswanathan prove, in a two-mode equal-covariance
+  Gaussian mixture with the old component already correct, that forward-KL
+  fine-tuning on new data alone drives the old mode's weight to zero, while
+  KL-regularized reinforcement learning toward a target that keeps the old
+  mode converges to that target and moves the old mean only through overlap
+  terms that decay exponentially with mode separation, and that an
+  exponential tilt of a frozen reference can reweight its modes but not
+  create or recover one
 version: 1
 tags:
 - learning-theory
@@ -35,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1880 THEORY-1908 — Proposed; new entries filed in the same contribution -->
 <!-- inactive-ok-file: CLAIM-576 — Proposed; the claim this account bears on -->
 
-# THEORY-1896: Balasubramanian and Kasiviswanathan prove, in a two-mode equal-covariance Gaussian mixture with the old component already correct, that forward-KL fine-tuning on new data alone drives the old mode's weight to zero, while KL-regularized reinforcement learning toward a target that keeps the old mode converges to that target and moves the old mean only through overlap terms that decay exponentially with mode separation, and that an exponential tilt of a frozen reference can reweight its modes but not create or recover one
+# THEORY-1896: Forward-KL tuning forgets; KL-regularized RL keeps
 
 ## The result
 

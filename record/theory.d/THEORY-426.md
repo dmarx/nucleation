@@ -3,7 +3,15 @@ number: 426
 status: Active
 formerly:
 - THEORY-tmp38ky3
-title: "Evaluating expected free energy recursively over the beliefs an agent would hold after each plausible outcome makes active inference a pruned tree search over belief states, formally analogous to Bellman recursion; in single deterministic runs on a T-maze and an 8 × 8 maze it planned through short-term costs that agents with a shorter horizon did not; that the pruning keeps deep search tractable beyond toy problems is argued, not shown"
+title: 'Recursive EFE prunes plans as a tree search'
+statement: >-
+  Evaluating expected free energy recursively over the beliefs an agent
+  would hold after each plausible outcome makes active inference a pruned
+  tree search over belief states, formally analogous to Bellman recursion;
+  in single deterministic runs on a T-maze and an 8 × 8 maze it planned
+  through short-term costs that agents with a shorter horizon did not; that
+  the pruning keeps deep search tractable beyond toy problems is argued, not
+  shown
 version: 2
 history:
 - version: 2
@@ -47,7 +55,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-045 — Proposed; named as the record's other active-inference accounts, nothing here rests on them -->
 
-# THEORY-426: Evaluating expected free energy recursively over the beliefs an agent would hold after each plausible outcome makes active inference a pruned tree search over belief states, formally analogous to Bellman recursion; in single deterministic runs on a T-maze and an 8 × 8 maze it planned through short-term costs that agents with a shorter horizon did not; that the pruning keeps deep search tractable beyond toy problems is argued, not shown
+# THEORY-426: Recursive EFE prunes plans as a tree search
 
 ## Source
 

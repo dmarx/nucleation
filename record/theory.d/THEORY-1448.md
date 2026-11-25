@@ -3,7 +3,17 @@ number: 1448
 status: Active
 formerly:
 - THEORY-tmpnu25d
-title: 'Ni and colleagues show that, in DNA origami cross-tile self-replication, binding a monomer tile to a template raises the effective concentration of its tethered sticky ends from about 1 nM to about 0.8 mM by their estimate, about 0.2 mM by a FRET fit, and shifts their melting temperature by about 50 °C, that a two-state model with three entropy terms, fitted once, predicts the melting temperatures of 1- to 4-tile assemblies to about 2 °C, and that with externally supplied tiles, a thermal cycle and UV crosslinking the per-cycle replication rate falls from about 1.9 for dimers to 1.6 for tetramers'
+title: 'Templating raises tile sticky-end concentration'
+statement: >-
+  Ni and colleagues show that, in DNA origami cross-tile self-replication,
+  binding a monomer tile to a template raises the effective concentration of
+  its tethered sticky ends from about 1 nM to about 0.8 mM by their
+  estimate, about 0.2 mM by a FRET fit, and shifts their melting temperature
+  by about 50 °C, that a two-state model with three entropy terms, fitted
+  once, predicts the melting temperatures of 1- to 4-tile assemblies to
+  about 2 °C, and that with externally supplied tiles, a thermal cycle and
+  UV crosslinking the per-cycle replication rate falls from about 1.9 for
+  dimers to 1.6 for tetramers
 version: 2
 history:
 - version: 2
@@ -51,7 +61,7 @@ summary: >-
   in experiment tetramers barely separated before the tiles unravelled.
 ---
 
-# THEORY-1448: Ni and colleagues show that, in DNA origami cross-tile self-replication, binding a monomer tile to a template raises the effective concentration of its tethered sticky ends from about 1 nM to about 0.8 mM by their estimate, about 0.2 mM by a FRET fit, and shifts their melting temperature by about 50 °C, that a two-state model with three entropy terms, fitted once, predicts the melting temperatures of 1- to 4-tile assemblies to about 2 °C, and that with externally supplied tiles, a thermal cycle and UV crosslinking the per-cycle replication rate falls from about 1.9 for dimers to 1.6 for tetramers
+# THEORY-1448: Templating raises tile sticky-end concentration
 
 ## Source
 

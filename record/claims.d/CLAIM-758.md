@@ -3,7 +3,17 @@ number: 758
 status: Proposed
 formerly:
 - CLAIM-tmp8ljvp
-title: 'Overconsolidation, a generalization of overfitting: relative to a declared family of later acquisitions lying outside the training task distribution, continued stabilization of a learner can keep improving its present objective while raising the budget it needs to acquire that family to a declared reliability with its held capabilities kept above a declared floor, so collateral forgetting counts as part of the cost; it is not overfitting to a data distribution, nor task-level overfitting within a training task distribution, and it is a failure only relative to that family and horizon'
+title: 'Overconsolidation, a generalization of overfitting'
+statement: >-
+  Overconsolidation, a generalization of overfitting: relative to a declared
+  family of later acquisitions lying outside the training task distribution,
+  continued stabilization of a learner can keep improving its present
+  objective while raising the budget it needs to acquire that family to a
+  declared reliability with its held capabilities kept above a declared
+  floor, so collateral forgetting counts as part of the cost; it is not
+  overfitting to a data distribution, nor task-level overfitting within a
+  training task distribution, and it is a failure only relative to that
+  family and horizon
 version: 3
 role: thesis
 warrant: interpretive
@@ -81,7 +91,7 @@ works:
 <!-- inactive-ok-file: THEORY-2006 THEORY-2015 THEORY-2019 THEORY-2025 THEORY-2027 THEORY-2034 THEORY-2053 THEORY-2056 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-294 CLAIM-695 CLAIM-754 THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-758: Overconsolidation, a generalization of overfitting: relative to a declared family of later acquisitions lying outside the training task distribution, continued stabilization of a learner can keep improving its present objective while raising the budget it needs to acquire that family to a declared reliability with its held capabilities kept above a declared floor, so collateral forgetting counts as part of the cost; it is not overfitting to a data distribution, nor task-level overfitting within a training task distribution, and it is a failure only relative to that family and horizon
+# CLAIM-758: Overconsolidation, a generalization of overfitting
 
 ## Version 2, after the readings
 

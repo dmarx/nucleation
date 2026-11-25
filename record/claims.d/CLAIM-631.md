@@ -3,7 +3,16 @@ number: 631
 status: Proposed
 formerly:
 - CLAIM-tmpt8x7l
-title: 'Structural frustration of a set of demands forces, under every attainable arrangement, some member whose demand is unmet while it acts toward it, the precondition of operative thwarting, exactly when no attainable arrangement leaves each member either met or quiet; lying outside both the requirement complex and the quiescent complex does not suffice, the requirement complex is the test when every member acts whenever its demand is unmet, and in a minimal such conflict each member is the unmet, acting one under some arrangement and none is under all'
+title: 'When frustration forces operative thwarting'
+statement: >-
+  Structural frustration of a set of demands forces, under every attainable
+  arrangement, some member whose demand is unmet while it acts toward it,
+  the precondition of operative thwarting, exactly when no attainable
+  arrangement leaves each member either met or quiet; lying outside both the
+  requirement complex and the quiescent complex does not suffice, the
+  requirement complex is the test when every member acts whenever its demand
+  is unmet, and in a minimal such conflict each member is the unmet, acting
+  one under some arrangement and none is under all
 version: 1
 history:
 - version: 1
@@ -62,7 +71,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-553 — Proposed, the owner's; used only for the scalar corollary -->
 
-# CLAIM-631: Structural frustration of a set of demands forces, under every attainable arrangement, some member whose demand is unmet while it acts toward it, the precondition of operative thwarting, exactly when no attainable arrangement leaves each member either met or quiet; lying outside both the requirement complex and the quiescent complex does not suffice, the requirement complex is the test when every member acts whenever its demand is unmet, and in a minimal such conflict each member is the unmet, acting one under some arrangement and none is under all
+# CLAIM-631: When frustration forces operative thwarting
 
 *Returned to CLAIM from [SYNTHESIS-008](../syntheses.d/SYNTHESIS-008.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 

@@ -10,7 +10,11 @@ promote_when: >-
   TWSTFT, GPS PPP and fibre estimates of one clock pair's frequency
   difference agree, and that their stated uncertainties are each
   evaluated from their own channel.
-title: 'Frequency differences between remote clocks estimated by two satellite techniques agree with each other and with a simultaneous optical-fibre comparison within their combined uncertainties'
+title: 'Satellite clock comparisons agree with fibre'
+statement: >-
+  Frequency differences between remote clocks estimated by two satellite
+  techniques agree with each other and with a simultaneous optical-fibre
+  comparison within their combined uncertainties
 version: 1
 history:
 - version: 1
@@ -42,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-510 — Proposed; the claim this account corroborates -->
 <!-- inactive-ok-file: NOTE-2371 CASE-387 — new; the reading and the case taken from it -->
 
-# THEORY-2281: Frequency differences between remote clocks estimated by two satellite techniques agree with each other and with a simultaneous optical-fibre comparison within their combined uncertainties
+# THEORY-2281: Satellite clock comparisons agree with fibre
 
 ## The account
 

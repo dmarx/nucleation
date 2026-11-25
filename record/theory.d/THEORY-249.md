@@ -14,7 +14,12 @@ promote_when: >-
   principle that is independently motivated and fixes the frame. What
   cannot settle it: more examples of a boundary, a goal or an adaptation
   that can be read two ways, which is the evidence it already has.
-title: "Whether a system has agency can be settled only relative to a reference frame: each of four conditions of agency (a boundary, being the source of action, meaningful goal-directedness and adaptivity) needs a commitment outside the system before it can be decided"
+title: 'Agency is decidable only to a reference frame'
+statement: >-
+  Whether a system has agency can be settled only relative to a reference
+  frame: each of four conditions of agency (a boundary, being the source of
+  action, meaningful goal-directedness and adaptivity) needs a commitment
+  outside the system before it can be decided
 version: 2
 history:
 - version: 2
@@ -45,7 +50,7 @@ bounds:
 <!-- inactive-ok-file: CLAIM-174 — Proposed; the claim whose scope this reading bounds, cited in the history note of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-170 THEORY-071 THEORY-232 — Proposed; the claims and accounts this bears on, open -->
 
-# THEORY-249: Whether a system has agency can be settled only relative to a reference frame: each of four conditions of agency (a boundary, being the source of action, meaningful goal-directedness and adaptivity) needs a commitment outside the system before it can be decided
+# THEORY-249: Agency is decidable only to a reference frame
 
 ## Source
 

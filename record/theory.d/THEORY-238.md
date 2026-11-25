@@ -3,7 +3,13 @@ number: 238
 status: Active
 formerly:
 - THEORY-tmpxydgv
-title: "The expected generalization error of an encoder–decoder learner is bounded by the encoder alone, through the KL divergence of its train-and-ghost latents to a prior symmetric under label-preserving permutations, for any decoder; and under lossy compression the bound can stay finite for deterministic continuous encoders, whose lossless bound is infinite"
+title: 'Encoder alone bounds generalization error'
+statement: >-
+  The expected generalization error of an encoder–decoder learner is bounded
+  by the encoder alone, through the KL divergence of its train-and-ghost
+  latents to a prior symmetric under label-preserving permutations, for any
+  decoder; and under lossy compression the bound can stay finite for
+  deterministic continuous encoders, whose lossless bound is infinite
 version: 4
 history:
 - version: 2
@@ -59,7 +65,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-035 LIT-240 — Rejected or Unavailable; the account this one sits beside, and the IB bound it argues against, cited for context -->
 
-# THEORY-238: The expected generalization error of an encoder–decoder learner is bounded by the encoder alone, through the KL divergence of its train-and-ghost latents to a prior symmetric under label-preserving permutations, for any decoder; and under lossy compression the bound can stay finite for deterministic continuous encoders, whose lossless bound is infinite
+# THEORY-238: Encoder alone bounds generalization error
 
 ## Source
 

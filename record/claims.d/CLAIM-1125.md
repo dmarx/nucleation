@@ -3,12 +3,14 @@ number: 1125
 status: Active
 formerly:
 - CLAIM-tmpklggb
-title: 'A protected beacon''s miscalibration is unidentifiable from inside
-  the sensor network by a symmetry: a world whose beacon reports z* + d and
-  a world whose beacon is correct, with the target, the beacon placements
-  and every sensor bias shifted (z + d, z* + d, b_i - A_i d), give every report
-  identically, so no revision that uses only the network''s reports can find
-  d, and correcting it needs evidence that breaks the symmetry from outside'
+title: 'Beacon miscalibration unidentifiable from inside'
+statement: >-
+  A protected beacon's miscalibration is unidentifiable from inside the
+  sensor network by a symmetry: a world whose beacon reports z* + d and a
+  world whose beacon is correct, with the target, the beacon placements and
+  every sensor bias shifted (z + d, z* + d, b_i - A_i d), give every report
+  identically, so no revision that uses only the network's reports can find
+  d, and correcting it needs evidence that breaks the symmetry from outside
 version: 3
 history:
 - version: 2
@@ -57,7 +59,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-1125: A protected beacon's miscalibration is unidentifiable from inside the sensor network by a symmetry: a world whose beacon reports z* + d and a world whose beacon is correct, with the target, the beacon placements and every sensor bias shifted (z + d, z* + d, b_i - A_i d), give every report identically, so no revision that uses only the network's reports can find d, and correcting it needs evidence that breaks the symmetry from outside
+# CLAIM-1125: Beacon miscalibration unidentifiable from inside
 
 ## The identity
 

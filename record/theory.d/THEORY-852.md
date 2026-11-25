@@ -3,7 +3,16 @@ number: 852
 status: Active
 formerly:
 - THEORY-tmplydnj
-title: 'Under Szeidl and Szucs''s structural model and its identifying assumptions (an owner''s ideology fixed across episodes; the government''s online advertising budget not driven by the outlets'' slant), both owner ideology and favor exchange drove the Hungarian portal Origo''s reduced coverage of corruption in 2013–2016: favor exchange alone cut it by 29–44%, the new owner''s ideology alone by 63% after 2016, and the two together by 74%, so they are substitutes; and a ban on targeted government advertising would have raised it by 41–79%'
+title: 'Ideology and favors both cut Origo''s coverage'
+statement: >-
+  Under Szeidl and Szucs's structural model and its identifying assumptions
+  (an owner's ideology fixed across episodes; the government's online
+  advertising budget not driven by the outlets' slant), both owner ideology
+  and favor exchange drove the Hungarian portal Origo's reduced coverage of
+  corruption in 2013–2016: favor exchange alone cut it by 29–44%, the new
+  owner's ideology alone by 63% after 2016, and the two together by 74%, so
+  they are substitutes; and a ban on targeted government advertising would
+  have raised it by 41–79%
 version: 3
 history:
 - version: 1
@@ -64,7 +73,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: QUESTION-253 — Proposed or Answered; cited in the reading review's history note of 2026-11-11 -->
 
-# THEORY-852: Under Szeidl and Szucs's structural model and its identifying assumptions (an owner's ideology fixed across episodes; the government's online advertising budget not driven by the outlets' slant), both owner ideology and favor exchange drove the Hungarian portal Origo's reduced coverage of corruption in 2013–2016: favor exchange alone cut it by 29–44%, the new owner's ideology alone by 63% after 2016, and the two together by 74%, so they are substitutes; and a ban on targeted government advertising would have raised it by 41–79%
+# THEORY-852: Ideology and favors both cut Origo's coverage
 
 ## Source
 

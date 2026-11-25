@@ -3,7 +3,18 @@ number: 760
 status: Active
 formerly:
 - THEORY-tmpswb4h
-title: 'The finite-memory Mori–Zwanzig closure that Parish and Duraisamy take from Stinis, truncated at order m with one trapezoidal sub-interval and constant memory lengths, is a finite-dimensional Markovian augmentation: m + 1 auxiliary variables per resolved mode, each relaxing at rate 2/τ; at first order it replaces the memory integral by the kernel 2e^{−2s/τ₀} acting on the first-order term, which tends to τ₀ times that term, the t-model with t replaced by τ₀, when τ₀ is short against the resolved dynamics; its kernel is twice the true one at zero lag for every τ₀, so it is not exact even where the true memory is a single exponential, and nothing in the construction bounds its error'
+title: 'Finite-memory MZ closure is Markovian, inexact'
+statement: >-
+  The finite-memory Mori–Zwanzig closure that Parish and Duraisamy take from
+  Stinis, truncated at order m with one trapezoidal sub-interval and
+  constant memory lengths, is a finite-dimensional Markovian augmentation: m
+  + 1 auxiliary variables per resolved mode, each relaxing at rate 2/τ; at
+  first order it replaces the memory integral by the kernel 2e^{−2s/τ₀}
+  acting on the first-order term, which tends to τ₀ times that term, the
+  t-model with t replaced by τ₀, when τ₀ is short against the resolved
+  dynamics; its kernel is twice the true one at zero lag for every τ₀, so it
+  is not exact even where the true memory is a single exponential, and
+  nothing in the construction bounds its error
 version: 1
 history:
 - version: 1
@@ -38,7 +49,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-747 — Proposed; the empirical companion account from the same reading -->
 <!-- inactive-ok-file: THEORY-257 — Proposed; the record's criteria this account is set beside, nothing here rests on their being settled -->
 
-# THEORY-760: The finite-memory Mori–Zwanzig closure that Parish and Duraisamy take from Stinis, truncated at order m with one trapezoidal sub-interval and constant memory lengths, is a finite-dimensional Markovian augmentation: m + 1 auxiliary variables per resolved mode, each relaxing at rate 2/τ; at first order it replaces the memory integral by the kernel 2e^{−2s/τ₀} acting on the first-order term, which tends to τ₀ times that term, the t-model with t replaced by τ₀, when τ₀ is short against the resolved dynamics; its kernel is twice the true one at zero lag for every τ₀, so it is not exact even where the true memory is a single exponential, and nothing in the construction bounds its error
+# THEORY-760: Finite-memory MZ closure is Markovian, inexact
 
 ## Source
 

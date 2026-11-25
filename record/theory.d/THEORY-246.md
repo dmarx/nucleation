@@ -3,7 +3,17 @@ number: 246
 status: Active
 formerly:
 - THEORY-tmp7kkpe
-title: 'Among ResNet-50s trained on ImageNet with nine objectives and stopped early, seven of which beat softmax cross-entropy''s top-1 by up to 0.9 points, fixed penultimate features with more class separation transfer worse by linear probe to datasets whose classes are mostly not ImageNet''s (Spearman ρ = −0.93 across the nine; mean accuracy 75.9% for softmax to 48.3% for squared error), and within cosine softmax a higher temperature raises separation and lowers that accuracy; the objectives'' representations differ mainly in the last third of the network, and full fine-tuning brings mean transfer to within 1.3 points across them'
+title: 'Class separation hurts linear transfer'
+statement: >-
+  Among ResNet-50s trained on ImageNet with nine objectives and stopped
+  early, seven of which beat softmax cross-entropy's top-1 by up to 0.9
+  points, fixed penultimate features with more class separation transfer
+  worse by linear probe to datasets whose classes are mostly not ImageNet's
+  (Spearman ρ = −0.93 across the nine; mean accuracy 75.9% for softmax to
+  48.3% for squared error), and within cosine softmax a higher temperature
+  raises separation and lowers that accuracy; the objectives'
+  representations differ mainly in the last third of the network, and full
+  fine-tuning brings mean transfer to within 1.3 points across them
 version: 3
 history:
 - version: 2
@@ -51,7 +61,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-104 — Proposed; the statement of collapse it measures short of, the layer-wise account it is set against, and the MSE derivation it touches -->
 <!-- inactive-ok-file: THEORY-2185 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# THEORY-246: Among ResNet-50s trained on ImageNet with nine objectives and stopped early, seven of which beat softmax cross-entropy's top-1 by up to 0.9 points, fixed penultimate features with more class separation transfer worse by linear probe to datasets whose classes are mostly not ImageNet's (Spearman ρ = −0.93 across the nine; mean accuracy 75.9% for softmax to 48.3% for squared error), and within cosine softmax a higher temperature raises separation and lowers that accuracy; the objectives' representations differ mainly in the last third of the network, and full fine-tuning brings mean transfer to within 1.3 points across them
+# THEORY-246: Class separation hurts linear transfer
 
 ## Source
 

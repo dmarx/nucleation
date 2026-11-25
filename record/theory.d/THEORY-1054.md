@@ -3,7 +3,14 @@ number: 1054
 status: Active
 formerly:
 - THEORY-tmp09707
-title: 'One arrangement of harmonic particles on a finite graph, with the same wiring, potential and inverse-mass response, gives the discrete wave equation when the integrator stores position and momentum and the discrete heat equation when it stores position alone; both are governed by the symmetrized graph Laplacian, and the coupling data do not decide between them'
+title: 'Integrator, not coupling, picks wave vs heat'
+statement: >-
+  One arrangement of harmonic particles on a finite graph, with the same
+  wiring, potential and inverse-mass response, gives the discrete wave
+  equation when the integrator stores position and momentum and the discrete
+  heat equation when it stores position alone; both are governed by the
+  symmetrized graph Laplacian, and the coupling data do not decide between
+  them
 version: 2
 history:
 - version: 2
@@ -35,7 +42,7 @@ summary: >-
 corroborates:
 - CLAIM-481
 ---
-# THEORY-1054: One arrangement of harmonic particles on a finite graph, with the same wiring, potential and inverse-mass response, gives the discrete wave equation when the integrator stores position and momentum and the discrete heat equation when it stores position alone; both are governed by the symmetrized graph Laplacian, and the coupling data do not decide between them
+# THEORY-1054: Integrator, not coupling, picks wave vs heat
 
 ## Source
 

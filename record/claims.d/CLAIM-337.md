@@ -3,7 +3,13 @@ number: 337
 status: Proposed
 formerly:
 - CLAIM-tmp9cjyo
-title: 'Active inference already runs an internal loop: mental action selects among higher-level cognitive states and sets the precision of lower-level observations, structure learning reshapes the generative model without action, and a judgement is behaviour, so a judgement–observation loop may be action and perception one Markov blanket inward'
+title: 'Active inference already runs an inner loop'
+statement: >-
+  Active inference already runs an internal loop: mental action selects
+  among higher-level cognitive states and sets the precision of lower-level
+  observations, structure learning reshapes the generative model without
+  action, and a judgement is behaviour, so a judgement–observation loop may
+  be action and perception one Markov blanket inward
 version: 2
 history:
 - version: 2
@@ -47,7 +53,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-162 CLAIM-358 CLAIM-541 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
-# CLAIM-337: Active inference already runs an internal loop: mental action selects among higher-level cognitive states and sets the precision of lower-level observations, structure learning reshapes the generative model without action, and a judgement is behaviour, so a judgement–observation loop may be action and perception one Markov blanket inward
+# CLAIM-337: Active inference already runs an inner loop
 
 ## The claim
 

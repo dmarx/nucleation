@@ -3,7 +3,13 @@ number: 348
 status: Active
 formerly:
 - CLAIM-tmp679hm
-title: 'No coarse-graining is normatively adequate in general because it preserves stability, prediction or aggregate performance: a description adequate for an institution''s performance can merge states its members'' claims must distinguish, so adequacy is fixed by the evaluative target, and the target cannot be justified solely by the description that preserves it'
+title: 'No coarse-graining is normatively adequate per se'
+statement: >-
+  No coarse-graining is normatively adequate in general because it preserves
+  stability, prediction or aggregate performance: a description adequate for
+  an institution's performance can merge states its members' claims must
+  distinguish, so adequacy is fixed by the evaluative target, and the target
+  cannot be justified solely by the description that preserves it
 version: 6
 history:
 - version: 2
@@ -102,7 +108,7 @@ complements:
 <!-- inactive-ok-file: LIT-1328 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-2205 — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
 
-# CLAIM-348: No coarse-graining is normatively adequate in general because it preserves stability, prediction or aggregate performance: a description adequate for an institution's performance can merge states its members' claims must distinguish, so adequacy is fixed by the evaluative target, and the target cannot be justified solely by the description that preserves it
+# CLAIM-348: No coarse-graining is normatively adequate per se
 
 ## The claim
 

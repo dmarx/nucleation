@@ -3,7 +3,12 @@ number: 309
 status: Active
 formerly:
 - THEORY-tmpbf74l
-title: 'If contexts are defined by joint measurability alone, every nondisturbing correlation, maximally contextual ones included, is realized by trivial measurements on a one-dimensional quantum system, so Kochen–Specker contextuality needs a stronger operational notion of context'
+title: 'Joint measurability alone trivializes KS'
+statement: >-
+  If contexts are defined by joint measurability alone, every nondisturbing
+  correlation, maximally contextual ones included, is realized by trivial
+  measurements on a one-dimensional quantum system, so Kochen–Specker
+  contextuality needs a stronger operational notion of context
 version: 3
 history:
 - version: 2
@@ -50,7 +55,7 @@ bears_on:
 <!-- inactive-ok-file: QUESTION-246 — Proposed or Answered; the decisions and the question named in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: THEORY-303 — Proposed; the companion account filed from the same reading, named in Connections -->
 
-# THEORY-309: If contexts are defined by joint measurability alone, every nondisturbing correlation, maximally contextual ones included, is realized by trivial measurements on a one-dimensional quantum system, so Kochen–Specker contextuality needs a stronger operational notion of context
+# THEORY-309: Joint measurability alone trivializes KS
 
 ## Source
 

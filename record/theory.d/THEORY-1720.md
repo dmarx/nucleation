@@ -3,7 +3,16 @@ number: 1720
 status: Proposed
 formerly:
 - THEORY-tmpzg8u7
-title: 'Naudts, Helberger, Veale and Sax (2025) argue that because recommender systems on very large online platforms perform a public function, their optimization goals should not be left to the platform: people should have a right to constructive optimization, a participatory say in those goals directed at self-development and self-determination, with publicly reasoned refusals and the burden of proof on the platform, whereas the Digital Services Act treats recommenders as proprietary and fundamental rights only as a limit.'
+title: 'Users deserve a say in recommender goals'
+statement: >-
+  Naudts, Helberger, Veale and Sax (2025) argue that because recommender
+  systems on very large online platforms perform a public function, their
+  optimization goals should not be left to the platform: people should have
+  a right to constructive optimization, a participatory say in those goals
+  directed at self-development and self-determination, with publicly
+  reasoned refusals and the burden of proof on the platform, whereas the
+  Digital Services Act treats recommenders as proprietary and fundamental
+  rights only as a limit.
 version: 1
 source:
 - LIT-2362
@@ -26,7 +35,7 @@ summary: >-
   conditions: inclusivity, political equality, reasonableness and publicity.
 ---
 
-# THEORY-1720: Naudts, Helberger, Veale and Sax (2025) argue that because recommender systems on very large online platforms perform a public function, their optimization goals should not be left to the platform: people should have a right to constructive optimization, a participatory say in those goals directed at self-development and self-determination, with publicly reasoned refusals and the burden of proof on the platform, whereas the Digital Services Act treats recommenders as proprietary and fundamental rights only as a limit.
+# THEORY-1720: Users deserve a say in recommender goals
 
 ## The account
 

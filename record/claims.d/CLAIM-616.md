@@ -3,7 +3,14 @@ number: 616
 status: Proposed
 formerly:
 - CLAIM-tmpg7aqc
-title: 'Synchronization phenomena can serve as a laboratory for the record''s organizational distinctions: locking regions for compatibility, external forcing for support and dependence, the driven and suppressed oscillator for autonomy against coercion, and entrainment and phase locking for individuation transitions; a drive fixes where control lies, not whether it is legitimate'
+title: 'Synchronization as organizational laboratory'
+statement: >-
+  Synchronization phenomena can serve as a laboratory for the record's
+  organizational distinctions: locking regions for compatibility, external
+  forcing for support and dependence, the driven and suppressed oscillator
+  for autonomy against coercion, and entrainment and phase locking for
+  individuation transitions; a drive fixes where control lies, not whether
+  it is legitimate
 version: 1
 role: thesis
 warrant: interpretive
@@ -56,7 +63,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited for its domination clause, as A12's qualification parallels it -->
 <!-- inactive-ok-file: CLAIM-618 CASE-225 — filed from the same exchange, Proposed -->
 
-# CLAIM-616: Synchronization phenomena can serve as a laboratory for the record's organizational distinctions: locking regions for compatibility, external forcing for support and dependence, the driven and suppressed oscillator for autonomy against coercion, and entrainment and phase locking for individuation transitions; a drive fixes where control lies, not whether it is legitimate
+# CLAIM-616: Synchronization as organizational laboratory
 
 ## The claim
 

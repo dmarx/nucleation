@@ -3,7 +3,13 @@ number: 477
 status: Proposed
 formerly:
 - CLAIM-tmpmand1
-title: 'Relata stand to relations as realizations stand to specifications: what an entity is, is partly fixed by the constraints on the configurations of entities and relations it can enter, and those constraints are themselves realized and maintained by something, so neither relata nor relations, nor specifications nor realizations, are prior without qualification'
+title: 'Relata are to relations as realizations to specs'
+statement: >-
+  Relata stand to relations as realizations stand to specifications: what an
+  entity is, is partly fixed by the constraints on the configurations of
+  entities and relations it can enter, and those constraints are themselves
+  realized and maintained by something, so neither relata nor relations, nor
+  specifications nor realizations, are prior without qualification
 version: 3
 history:
 - version: 2
@@ -82,7 +88,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-136 CLAIM-151 — Proposed; the domain cases, neighbours and objection this frame sits beside, cited as open -->
 <!-- inactive-ok-file: CLAIM-1094 CLAIM-1105 CLAIM-1161 CLAIM-1037 — new; LEAD-195's rulings on symmetries, conservation laws and possibility facts, 2026-11-22 -->
 
-# CLAIM-477: Relata stand to relations as realizations stand to specifications: what an entity is, is partly fixed by the constraints on the configurations of entities and relations it can enter, and those constraints are themselves realized and maintained by something, so neither relata nor relations, nor specifications nor realizations, are prior without qualification
+# CLAIM-477: Relata are to relations as realizations to specs
 
 ## The claim
 

@@ -14,7 +14,14 @@ promote_when: >-
   stays the same. The cited bioelectric experiments cannot settle it alone:
   they show that coupling changes outcomes, and that this is a change in the
   boundary of a self is the paper's reading of them.
-title: "An agent is the set of parts that pursue a goal together, bounded by the farthest events it can sense and try to regulate; cells joined by bioelectric coupling share measurements and so form larger agents with larger goals without ceasing to be agents, so a living system is many nested agents, not one, and cancer is the larger agent shrinking back to the cell"
+title: 'Living systems are many nested agents'
+statement: >-
+  An agent is the set of parts that pursue a goal together, bounded by the
+  farthest events it can sense and try to regulate; cells joined by
+  bioelectric coupling share measurements and so form larger agents with
+  larger goals without ceasing to be agents, so a living system is many
+  nested agents, not one, and cancer is the larger agent shrinking back to
+  the cell
 version: 1
 tags:
 - mereology
@@ -43,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-043 THEORY-071 THEORY-232 — Proposed; accounts of agency named as rival or neighbouring, not leaned on -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this account partly answers -->
 
-# THEORY-583: An agent is the set of parts that pursue a goal together, bounded by the farthest events it can sense and try to regulate; cells joined by bioelectric coupling share measurements and so form larger agents with larger goals without ceasing to be agents, so a living system is many nested agents, not one, and cancer is the larger agent shrinking back to the cell
+# THEORY-583: Living systems are many nested agents
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1124
 status: Proposed
 formerly:
 - CLAIM-tmpk8zw2
-title: 'In a percept–action loop whose context matters only to what the action does and whose sticky nuisance matters only to prediction, the cheapest memory that does the task keeps exactly the interventional partition taken relative to the task''s outcome, which is disjoint from the predictive partition, by nostalgia, heat per step and overwrite entropy alike'
+title: 'Cheapest memory keeps the interventional partition'
+statement: >-
+  In a percept–action loop whose context matters only to what the action
+  does and whose sticky nuisance matters only to prediction, the cheapest
+  memory that does the task keeps exactly the interventional partition taken
+  relative to the task's outcome, which is disjoint from the predictive
+  partition, by nostalgia, heat per step and overwrite entropy alike
 version: 1
 role: thesis
 warrant: demonstrated
@@ -45,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-391 CLAIM-1116 — filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1124: In a percept–action loop whose context matters only to what the action does and whose sticky nuisance matters only to prediction, the cheapest memory that does the task keeps exactly the interventional partition taken relative to the task's outcome, which is disjoint from the predictive partition, by nostalgia, heat per step and overwrite entropy alike
+# CLAIM-1124: Cheapest memory keeps the interventional partition
 
 ## The claim
 

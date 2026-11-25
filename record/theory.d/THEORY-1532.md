@@ -9,7 +9,12 @@ promote_when: >-
   meeting at the flat state of a four-boundary-vertex triangulated rigid
   origami is 2^Vi, and that the branches pair with the patterns of vertex
   popping states up to global sign.
-title: 'A flat triangulated rigid origami sits at a singular point of its configuration space where generically 2^Vi folding branches meet, one pair for each pattern of vertex popping states, so folding from flat is exponentially ambiguous'
+title: 'Folding from flat is exponentially ambiguous'
+statement: >-
+  A flat triangulated rigid origami sits at a singular point of its
+  configuration space where generically 2^Vi folding branches meet, one pair
+  for each pattern of vertex popping states, so folding from flat is
+  exponentially ambiguous
 version: 1
 tags:
 - mathematics
@@ -27,7 +32,7 @@ summary: >-
   of all.
 ---
 
-# THEORY-1532: A flat triangulated rigid origami sits at a singular point of its configuration space where generically 2^Vi folding branches meet, one pair for each pattern of vertex popping states, so folding from flat is exponentially ambiguous
+# THEORY-1532: Folding from flat is exponentially ambiguous
 
 ## Source
 

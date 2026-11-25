@@ -3,7 +3,14 @@ number: 1304
 status: Active
 formerly:
 - THEORY-tmp37m50
-title: 'In latent Dirichlet allocation each document draws its own topic mixture from a Dirichlet shared across the corpus and draws a topic afresh for every word, a three-level model of conditionally independent assignments; the mixture of unigrams, which draws one topic per document, is its two-level comparison, and the Dirichlet is a distribution over mixtures, not over topics'
+title: 'LDA draws a topic per word, a mixture per doc'
+statement: >-
+  In latent Dirichlet allocation each document draws its own topic mixture
+  from a Dirichlet shared across the corpus and draws a topic afresh for
+  every word, a three-level model of conditionally independent assignments;
+  the mixture of unigrams, which draws one topic per document, is its
+  two-level comparison, and the Dirichlet is a distribution over mixtures,
+  not over topics
 version: 1
 tags:
 - probabilistic-modeling
@@ -20,7 +27,7 @@ summary: >-
   authors disclaim.
 ---
 
-# THEORY-1304: In latent Dirichlet allocation each document draws its own topic mixture from a Dirichlet shared across the corpus and draws a topic afresh for every word, a three-level model of conditionally independent assignments; the mixture of unigrams, which draws one topic per document, is its two-level comparison, and the Dirichlet is a distribution over mixtures, not over topics
+# THEORY-1304: LDA draws a topic per word, a mixture per doc
 
 ## Source
 

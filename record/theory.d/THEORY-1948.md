@@ -3,7 +3,15 @@ number: 1948
 status: Proposed
 formerly:
 - THEORY-tmpv314m
-title: 'Liedo, Van Grunsven and Marin argue that paid care workers'' emotional labor is prone to exploitation because care duties are allocated by what Tronto calls privileged irresponsibility, that workers'' satisfaction in caring can mask the exploitation, and that care robots assessed only by design, as Care-Centred Value-Sensitive Design assesses them, can sustain or newly enable that irresponsibility, letting employers and governments avoid reallocating care responsibilities'
+title: 'Care robots may sustain care-work exploitation'
+statement: >-
+  Liedo, Van Grunsven and Marin argue that paid care workers' emotional
+  labor is prone to exploitation because care duties are allocated by what
+  Tronto calls privileged irresponsibility, that workers' satisfaction in
+  caring can mask the exploitation, and that care robots assessed only by
+  design, as Care-Centred Value-Sensitive Design assesses them, can sustain
+  or newly enable that irresponsibility, letting employers and governments
+  avoid reallocating care responsibilities
 version: 1
 tags:
 - ethics
@@ -24,7 +32,7 @@ bears_on:
 - QUESTION-461
 ---
 <!-- inactive-ok-file: CLAIM-713 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1948: Liedo, Van Grunsven and Marin argue that paid care workers' emotional labor is prone to exploitation because care duties are allocated by what Tronto calls privileged irresponsibility, that workers' satisfaction in caring can mask the exploitation, and that care robots assessed only by design, as Care-Centred Value-Sensitive Design assesses them, can sustain or newly enable that irresponsibility, letting employers and governments avoid reallocating care responsibilities
+# THEORY-1948: Care robots may sustain care-work exploitation
 
 ## Source
 

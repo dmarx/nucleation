@@ -3,7 +3,12 @@ number: 1258
 status: Active
 formerly:
 - THEORY-tmpe0idn
-title: "The steady state of Hennick and De Baerdemacker's fractional Fokker–Planck model of SGD is a tempered posterior only within a region of constant effective diffusion; the weights between regions, where accessibility would act, are not derived"
+title: 'Fractional SGD model is tempered only regionally'
+statement: >-
+  The steady state of Hennick and De Baerdemacker's fractional Fokker–Planck
+  model of SGD is a tempered posterior only within a region of constant
+  effective diffusion; the weights between regions, where accessibility
+  would act, are not derived
 version: 2
 history:
 - version: 2
@@ -36,7 +41,7 @@ bears_on:
 - QUESTION-363
 ---
 
-# THEORY-1258: The steady state of Hennick and De Baerdemacker's fractional Fokker–Planck model of SGD is a tempered posterior only within a region of constant effective diffusion; the weights between regions, where accessibility would act, are not derived
+# THEORY-1258: Fractional SGD model is tempered only regionally
 
 ## Source
 

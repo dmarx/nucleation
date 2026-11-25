@@ -3,7 +3,13 @@ number: 211
 status: Active
 formerly:
 - CLAIM-tmp867uz
-title: 'Read as worded, the manuscript''s thesis and the October thesis give rival answers to what survives, which come apart in both directions on the cases of the receiver objection, yet the record links them by `complements` and scopes the October thesis to a question its fidelity clause does not stay inside'
+title: 'Two theses that answer what survives'
+statement: >-
+  Read as worded, the manuscript's thesis and the October thesis give rival
+  answers to what survives, which come apart in both directions on the cases
+  of the receiver objection, yet the record links them by `complements` and
+  scopes the October thesis to a question its fidelity clause does not stay
+  inside
 version: 2
 history:
 - version: 2
@@ -41,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded; the two theses compared, as worded -->
 
-# CLAIM-211: Read as worded, the manuscript's thesis and the October thesis give rival answers to what survives, which come apart in both directions on the cases of the receiver objection, yet the record links them by `complements` and scopes the October thesis to a question its fidelity clause does not stay inside
+# CLAIM-211: Two theses that answer what survives
 
 ## The objection
 

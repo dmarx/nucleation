@@ -3,7 +3,13 @@ number: 577
 status: Active
 formerly:
 - CLAIM-tmplo4ca
-title: 'A budget set each period to the peak resource spent the period before never rises, so the configurations an organization can reach shrink monotonically, and any transition whose threshold exceeds the cost of holding the current configuration is lost after one period spent holding it, unless the budget is raised from outside by at least the difference'
+title: 'Last-peak budgeting shrinks what is reachable'
+statement: >-
+  A budget set each period to the peak resource spent the period before
+  never rises, so the configurations an organization can reach shrink
+  monotonically, and any transition whose threshold exceeds the cost of
+  holding the current configuration is lost after one period spent holding
+  it, unless the budget is raised from outside by at least the difference
 version: 8
 history:
 - version: 2
@@ -121,7 +127,7 @@ works:
 ---
 <!-- inactive-ok-file: CASE-200 CASE-203 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 
-# CLAIM-577: A budget set each period to the peak resource spent the period before never rises, so the configurations an organization can reach shrink monotonically, and any transition whose threshold exceeds the cost of holding the current configuration is lost after one period spent holding it, unless the budget is raised from outside by at least the difference
+# CLAIM-577: Last-peak budgeting shrinks what is reachable
 
 ## The claim
 

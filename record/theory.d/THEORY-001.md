@@ -11,7 +11,10 @@ promote_when: >-
   from van den Oord et al. and minimize over symmetric functions only, and
   Poole et al. cite it from Ma & Collins; a close reading of either original
   proof, with its conditions on the negatives, would settle it.
-title: 'On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio'
+title: 'Contrastive losses share one population optimum'
+statement: >-
+  On a finite augmentation space, InfoNCE, logistic and spectral contrastive
+  losses share one population optimum: the positive-pair density ratio
 version: 5
 history:
 - version: 2
@@ -78,7 +81,7 @@ bounds:
 - CLAIM-370
 ---
 
-# THEORY-001: On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio
+# THEORY-001: Contrastive losses share one population optimum
 
 ## Source
 

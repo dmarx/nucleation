@@ -15,7 +15,15 @@ promote_when: >-
   re-estimation with better controls, or with the displaced tracked, that
   removes the persistent density and rent effects or the city-wide rent
   rise.
-title: 'LaVoice finds that, among similarly blighted census tracts in 28 large US cities, black neighbourhoods were two to three times as likely to be cleared under Title I of the Housing Act of 1949, that cleared tracts kept about 12–13% lower population and housing density and a 16% lower black share for decades with rents up about a quarter, and, because rents in uncleared low-income tracts rose with them, reads a spatial-equilibrium model as showing the lowest-income households city-wide made worse off'
+title: 'Urban renewal targeted black neighbourhoods'
+statement: >-
+  LaVoice finds that, among similarly blighted census tracts in 28 large US
+  cities, black neighbourhoods were two to three times as likely to be
+  cleared under Title I of the Housing Act of 1949, that cleared tracts kept
+  about 12–13% lower population and housing density and a 16% lower black
+  share for decades with rents up about a quarter, and, because rents in
+  uncleared low-income tracts rose with them, reads a spatial-equilibrium
+  model as showing the lowest-income households city-wide made worse off
 version: 1
 tags:
 - social-science
@@ -35,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1680 — Skimmed, Proposed or new; cited from the reading of LaVoice (2024) as open -->
 
-# THEORY-1476: LaVoice finds that, among similarly blighted census tracts in 28 large US cities, black neighbourhoods were two to three times as likely to be cleared under Title I of the Housing Act of 1949, that cleared tracts kept about 12–13% lower population and housing density and a 16% lower black share for decades with rents up about a quarter, and, because rents in uncleared low-income tracts rose with them, reads a spatial-equilibrium model as showing the lowest-income households city-wide made worse off
+# THEORY-1476: Urban renewal targeted black neighbourhoods
 
 ## Source
 

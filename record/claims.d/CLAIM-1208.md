@@ -3,7 +3,12 @@ number: 1208
 status: Proposed
 formerly:
 - CLAIM-tmp01pyt
-title: 'In Martin-Löf''s type theory a proof may be dropped, writing "A true" for "a ∈ A for some a", only where nothing that follows depends on it; so whether a record of findings is proof-relevant is settled by whether some later step uses a finding''s evidence, and not only the fact that it passes'
+title: 'Proof relevance turns on later use of evidence'
+statement: >-
+  In Martin-Löf's type theory a proof may be dropped, writing "A true" for
+  "a ∈ A for some a", only where nothing that follows depends on it; so
+  whether a record of findings is proof-relevant is settled by whether some
+  later step uses a finding's evidence, and not only the fact that it passes
 version: 1
 role: thesis
 warrant: interpretive
@@ -41,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2307 NOTE-2419 CLAIM-949 — Proposed or Skimmed; the reading this rests on and the entries it is stated against -->
 
-# CLAIM-1208: In Martin-Löf's type theory a proof may be dropped, writing "A true" for "a ∈ A for some a", only where nothing that follows depends on it; so whether a record of findings is proof-relevant is settled by whether some later step uses a finding's evidence, and not only the fact that it passes
+# CLAIM-1208: Proof relevance turns on later use of evidence
 
 ## The claim
 

@@ -20,7 +20,15 @@ promote_when: >-
   inequality fails in measured data; or if no definition of restriction
   makes the gluing condition more than matching trials by label. More
   formal elaboration without measurement cannot settle it.
-title: 'Phenomenal binding of the parts of an experience can be modelled as agreement, on overlaps, of measured similarity structures assigned to the parts by a presheaf, and the broad quale is fixed by its parts exactly when that presheaf is a sheaf; a sheaf failure may mark disunity, as proposed for binocular rivalry, or context dependence within one unified experience, as in the Ebbinghaus illusion, and the framework does not yet say which'
+title: 'Phenomenal binding modelled as a sheaf condition'
+statement: >-
+  Phenomenal binding of the parts of an experience can be modelled as
+  agreement, on overlaps, of measured similarity structures assigned to the
+  parts by a presheaf, and the broad quale is fixed by its parts exactly
+  when that presheaf is a sheaf; a sheaf failure may mark disunity, as
+  proposed for binocular rivalry, or context dependence within one unified
+  experience, as in the Ebbinghaus illusion, and the framework does not yet
+  say which
 version: 1
 tags:
 - phenomenal-unity
@@ -46,7 +54,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-412 CLAIM-198 THEORY-063 — Proposed; claims and readings cited as open, nothing here rests on them -->
 
-# THEORY-875: Phenomenal binding of the parts of an experience can be modelled as agreement, on overlaps, of measured similarity structures assigned to the parts by a presheaf, and the broad quale is fixed by its parts exactly when that presheaf is a sheaf; a sheaf failure may mark disunity, as proposed for binocular rivalry, or context dependence within one unified experience, as in the Ebbinghaus illusion, and the framework does not yet say which
+# THEORY-875: Phenomenal binding modelled as a sheaf condition
 
 ## Source
 

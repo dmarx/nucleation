@@ -3,7 +3,12 @@ number: 455
 status: Active
 formerly:
 - CLAIM-tmp23fhq
-title: 'For one bounded observer, a transformation of a representation can make one task''s distinction legible and another''s illegible at once, so legibility regimes are ordered only relative to a task, and a regime that improves one perspective''s competence can disable another''s'
+title: 'Legibility regimes ordered only per task'
+statement: >-
+  For one bounded observer, a transformation of a representation can make
+  one task's distinction legible and another's illegible at once, so
+  legibility regimes are ordered only relative to a task, and a regime that
+  improves one perspective's competence can disable another's
 version: 2
 history:
 - version: 2
@@ -50,7 +55,7 @@ summary: >-
   matters.
 ---
 
-# CLAIM-455: For one bounded observer, a transformation of a representation can make one task's distinction legible and another's illegible at once, so legibility regimes are ordered only relative to a task, and a regime that improves one perspective's competence can disable another's
+# CLAIM-455: Legibility regimes ordered only per task
 
 ## The claim
 

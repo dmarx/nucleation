@@ -3,7 +3,14 @@ number: 126
 status: Proposed
 formerly:
 - SYNTHESIS-tmpg0a57
-title: 'Publishing over a governed record unbundles the paper: articles become views over a maintained record, editorial judgements attributable events that journals select as feeds, and hosts suppliers of access; the record shows the substrate and where its own guarantees stop, and leaves registration, signed authorship, version-resolvable citation and the advantage of the network open'
+title: 'Publishing over a record unbundles the paper'
+statement: >-
+  Publishing over a governed record unbundles the paper: articles become
+  views over a maintained record, editorial judgements attributable events
+  that journals select as feeds, and hosts suppliers of access; the record
+  shows the substrate and where its own guarantees stop, and leaves
+  registration, signed authorship, version-resolvable citation and the
+  advantage of the network open
 version: 1
 defeated_if: >-
   A component misstated or misattributed here, its scope conditions
@@ -63,7 +70,7 @@ bears_on:
 
 <!-- inactive-ok-file: CLAIM-1229 CLAIM-1258 CLAIM-1306 CLAIM-1323 CLAIM-1325 CLAIM-178 CLAIM-1283 TERM-175 CLAIM-1292 CLAIM-1224 CLAIM-1273 CLAIM-1215 CLAIM-1223 CLAIM-1344 TERM-177 CLAIM-1304 CLAIM-1302 CLAIM-1321 CLAIM-1330 CLAIM-1291 CLAIM-1346 CLAIM-1242 CLAIM-1290 CLAIM-1226 CLAIM-1213 CLAIM-1314 CLAIM-1299 ADR-143 ADR-146 ADR-151 — Proposed; the line's components filed or mapped from the exchange "Hyper article interpretation", the manuscript protocol cited as context, and the decisions that made the line and this kind of synthesis -->
 
-# SYNTHESIS-126: Publishing over a governed record unbundles the paper: articles become views over a maintained record, editorial judgements attributable events that journals select as feeds, and hosts suppliers of access; the record shows the substrate and where its own guarantees stop, and leaves registration, signed authorship, version-resolvable citation and the advantage of the network open
+# SYNTHESIS-126: Publishing over a record unbundles the paper
 
 *The first synthesis of the line scholarly-publishing (atlas scope 15, [ADR-146](../decisions.d/ADR-146.md)), written under [ADR-151](../decisions.d/ADR-151.md). It takes the exchange "Hyper article interpretation" into account; the exchange has no synthesis of its own, and its map of turns is in the curation entry of 2026-11-25. It adds nothing. Its standing is its components'.*
 

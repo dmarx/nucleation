@@ -13,7 +13,11 @@ promote_when: >-
   brings the ordering close to complete. Benchmark gains from an
   outward-push loss cannot settle it, since the paper's own largest gains
   are on its least tree-like graphs.
-title: "Hyperbolic graph embedding models trained on task losses that never mention the hierarchy do not place a tree's root nearest the origin, and their distance from the origin orders hierarchical levels only partly"
+title: 'Hyperbolic embeddings don''t put roots at origin'
+statement: >-
+  Hyperbolic graph embedding models trained on task losses that never
+  mention the hierarchy do not place a tree's root nearest the origin, and
+  their distance from the origin orders hierarchical levels only partly
 version: 1
 tags:
 - representation-learning
@@ -34,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-196 — Proposed; the tree-embedding result this is set beside, named, not leaned on -->
 
-# THEORY-825: Hyperbolic graph embedding models trained on task losses that never mention the hierarchy do not place a tree's root nearest the origin, and their distance from the origin orders hierarchical levels only partly
+# THEORY-825: Hyperbolic embeddings don't put roots at origin
 
 ## Source
 

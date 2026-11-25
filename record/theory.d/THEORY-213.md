@@ -3,7 +3,14 @@ number: 213
 status: Active
 formerly:
 - THEORY-tmppei8o
-title: 'Every mirror symmetry of a network''s per-sample loss makes its symmetric subspace invariant under gradient descent and SGD, and when the loss''s Hessian is bounded below by −c, weight decay γ‖θ‖² with γ > c/2 puts every minimum in that subspace; rescaling symmetries that hold at λ = −1, rotation symmetries and permutation symmetries contain such mirrors, whose subspaces are zeroed weights, reduced rank and identical neurons'
+title: 'Weight decay puts minima on mirror subspaces'
+statement: >-
+  Every mirror symmetry of a network's per-sample loss makes its symmetric
+  subspace invariant under gradient descent and SGD, and when the loss's
+  Hessian is bounded below by −c, weight decay γ‖θ‖² with γ > c/2 puts every
+  minimum in that subspace; rescaling symmetries that hold at λ = −1,
+  rotation symmetries and permutation symmetries contain such mirrors, whose
+  subspaces are zeroed weights, reduced rank and identical neurons
 version: 4
 history:
 - version: 2
@@ -63,7 +70,7 @@ rivals:
 <!-- inactive-ok-file: THEORY-2015 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-781 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 
-# THEORY-213: Every mirror symmetry of a network's per-sample loss makes its symmetric subspace invariant under gradient descent and SGD, and when the loss's Hessian is bounded below by −c, weight decay γ‖θ‖² with γ > c/2 puts every minimum in that subspace; rescaling symmetries that hold at λ = −1, rotation symmetries and permutation symmetries contain such mirrors, whose subspaces are zeroed weights, reduced rank and identical neurons
+# THEORY-213: Weight decay puts minima on mirror subspaces
 
 ## Source
 

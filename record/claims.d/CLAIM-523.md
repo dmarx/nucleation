@@ -3,7 +3,17 @@ number: 523
 status: Active
 formerly:
 - CLAIM-tmpvr0mx
-title: 'For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed'
+title: 'Discrepancy to action needs three achievements'
+statement: >-
+  For a normatively relevant discrepancy to change what an organization
+  does, three distinct achievements are needed and any can fail while the
+  others hold: legibility, by which the discrepancy becomes recognizable;
+  volitional efficacy, by which a corresponding demand can move action; and
+  correctability, by which a fitting revision can be carried out within
+  deadline and resources; none establishes that the demand or the revision
+  is justified, and whether the norm-satisfying histories the agent can
+  still realize are empty depends partly on what its earlier actions
+  destroyed
 version: 13
 history:
 - version: 2
@@ -140,7 +150,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's pre-individual account of organizational action, cited for its unsupplied standard -->
 
-# CLAIM-523: For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed
+# CLAIM-523: Discrepancy to action needs three achievements
 
 ## The claim
 

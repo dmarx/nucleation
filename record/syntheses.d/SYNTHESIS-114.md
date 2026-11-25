@@ -3,7 +3,14 @@ number: 114
 status: Proposed
 formerly:
 - SYNTHESIS-tmpkaje4
-title: 'Inquiry in the record is a form of specification that can revise what an answer could be, reflexive when its language, answer space, interventions, observations, criteria or resources become its object; specifying is resource-bounded and stored specification cheapens some questions and hardens others; and what makes reconfiguration self-governed is an open question'
+title: 'Inquiry is specification that can revise answers'
+statement: >-
+  Inquiry in the record is a form of specification that can revise what an
+  answer could be, reflexive when its language, answer space, interventions,
+  observations, criteria or resources become its object; specifying is
+  resource-bounded and stored specification cheapens some questions and
+  hardens others; and what makes reconfiguration self-governed is an open
+  question
 version: 2
 history:
 - version: 2
@@ -53,7 +60,7 @@ integrates:
 ---
 <!-- inactive-ok-file: CLAIM-784 CLAIM-786 CLAIM-785 CLAIM-783 TERM-134 TERM-133 ADR-151 — Proposed; two components, the claim named under "Not stated on the record", the candidates the history note declines, and the decision it applies -->
 
-# SYNTHESIS-114: Inquiry in the record is a form of specification that can revise what an answer could be, reflexive when its language, answer space, interventions, observations, criteria or resources become its object; specifying is resource-bounded and stored specification cheapens some questions and hardens others; and what makes reconfiguration self-governed is an open question
+# SYNTHESIS-114: Inquiry is specification that can revise answers
 
 *A synthesis of a theme that crosses the lines learning-and-inquiry, record-as-apparatus and distributed-agency: principle P8 of the owner's manuscript from-obstruction-to-reorganization (§7.1). An independent reader's audit of 2026-11-20 found P8 to be a conjunction of entries the record holds rather than a claim of its own ([ADR-075](../decisions.d/ADR-075.md), step 5), so it is stated here from them and adds nothing to them.*
 

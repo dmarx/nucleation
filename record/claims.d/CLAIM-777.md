@@ -3,7 +3,15 @@ number: 777
 status: Proposed
 formerly:
 - CLAIM-tmpve51e
-title: 'If ideas arrive at rate λ, are coded by one first-come coder at rate κ > λ, and are restated once per unit of time while they wait, an idea''s expected drift before it is coded is σ²/(κ − λ) in mean square for features copied with error and (c − x₀)·ln(1/a)/(κ − λ + ln(1/a)) in mean for contracted ones, so drift tracks the ratio of arrival to anchoring hyperbolically and grows without bound as the ratio reaches one; coding at a fixed occurrence caps it at that many restatements'' worth'
+title: 'Drift grows hyperbolically with arrival/anchoring'
+statement: >-
+  If ideas arrive at rate λ, are coded by one first-come coder at rate κ >
+  λ, and are restated once per unit of time while they wait, an idea's
+  expected drift before it is coded is σ²/(κ − λ) in mean square for
+  features copied with error and (c − x₀)·ln(1/a)/(κ − λ + ln(1/a)) in mean
+  for contracted ones, so drift tracks the ratio of arrival to anchoring
+  hyperbolically and grows without bound as the ratio reaches one; coding at
+  a fixed occurrence caps it at that many restatements' worth
 version: 1
 role: thesis
 warrant: demonstrated
@@ -38,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-773 CLAIM-186 CLAIM-176 CLAIM-705 CLAIM-782 — Proposed; the model this extends, and the claims it bears on -->
 
-# CLAIM-777: If ideas arrive at rate λ, are coded by one first-come coder at rate κ > λ, and are restated once per unit of time while they wait, an idea's expected drift before it is coded is σ²/(κ − λ) in mean square for features copied with error and (c − x₀)·ln(1/a)/(κ − λ + ln(1/a)) in mean for contracted ones, so drift tracks the ratio of arrival to anchoring hyperbolically and grows without bound as the ratio reaches one; coding at a fixed occurrence caps it at that many restatements' worth
+# CLAIM-777: Drift grows hyperbolically with arrival/anchoring
 
 ## The model
 

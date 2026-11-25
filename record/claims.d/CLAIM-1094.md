@@ -3,7 +3,16 @@ number: 1094
 status: Proposed
 formerly:
 - CLAIM-tmpfbofs
-title: 'An effective symmetry or conservation law meets the relata–realization frame''s definition of a constraint, realized by the organization of the level below it and maintained only while that organization holds; a symmetry taken as fundamental is realized only as a specification is, by the processes that obey it, and is maintained by nothing, so it is a candidate for the frame''s second defeater that no physical result can supply, since no result shows a law fundamental, and the frame should say that its recursion is claimed for constraints effective at some level'
+title: 'Fundamental symmetries are maintained by nothing'
+statement: >-
+  An effective symmetry or conservation law meets the relata–realization
+  frame's definition of a constraint, realized by the organization of the
+  level below it and maintained only while that organization holds; a
+  symmetry taken as fundamental is realized only as a specification is, by
+  the processes that obey it, and is maintained by nothing, so it is a
+  candidate for the frame's second defeater that no physical result can
+  supply, since no result shows a law fundamental, and the frame should say
+  that its recursion is claimed for constraints effective at some level
 version: 1
 role: thesis
 warrant: interpretive
@@ -58,7 +67,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1105 CLAIM-1161 CLAIM-1037 — new; the alternatives and the possibility-fact rulings filed with this claim for LEAD-195 -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-478 CLAIM-134 — Proposed; the frame whose definition is at issue, the rate-difference claim's ruling on conservation, and the Wigner discussion -->
 
-# CLAIM-1094: An effective symmetry or conservation law meets the relata–realization frame's definition of a constraint, realized by the organization of the level below it and maintained only while that organization holds; a symmetry taken as fundamental is realized only as a specification is, by the processes that obey it, and is maintained by nothing, so it is a candidate for the frame's second defeater that no physical result can supply, since no result shows a law fundamental, and the frame should say that its recursion is claimed for constraints effective at some level
+# CLAIM-1094: Fundamental symmetries are maintained by nothing
 
 ## The question
 

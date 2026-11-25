@@ -13,7 +13,15 @@ promote_when: >-
   learned landscape. A self-optimization run with arbitrary resets does not
   settle it, since its resets are noise by construction; neither does
   evidence that neural entropy rises with task engagement.
-title: 'Froese proposes that irruptions combined with attunement, modelled on Watson et al.''s self-optimization of a Hopfield network by occasional resets to arbitrary states plus Hebbian learning, answer the libertarian''s randomness challenge, how behaviour can be effective though underdetermined; but in the model offered the resets are arbitrary, so what makes the behaviour effective is the learned attractor landscape, and nothing in it distinguishes a motivated irruption from noise'
+title: 'Irruption model can''t tell motivation from noise'
+statement: >-
+  Froese proposes that irruptions combined with attunement, modelled on
+  Watson et al.'s self-optimization of a Hopfield network by occasional
+  resets to arbitrary states plus Hebbian learning, answer the libertarian's
+  randomness challenge, how behaviour can be effective though
+  underdetermined; but in the model offered the resets are arbitrary, so
+  what makes the behaviour effective is the learned attractor landscape, and
+  nothing in it distinguishes a motivated irruption from noise
 version: 1
 tags:
 - free-will
@@ -33,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-328 THEORY-040 — Proposed; the claim and the objection this bears on, cited as open -->
 
-# THEORY-1321: Froese proposes that irruptions combined with attunement, modelled on Watson et al.'s self-optimization of a Hopfield network by occasional resets to arbitrary states plus Hebbian learning, answer the libertarian's randomness challenge, how behaviour can be effective though underdetermined; but in the model offered the resets are arbitrary, so what makes the behaviour effective is the learned attractor landscape, and nothing in it distinguishes a motivated irruption from noise
+# THEORY-1321: Irruption model can't tell motivation from noise
 
 ## Source
 

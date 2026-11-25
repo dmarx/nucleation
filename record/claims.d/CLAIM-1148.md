@@ -3,7 +3,14 @@ number: 1148
 status: Proposed
 formerly:
 - CLAIM-tmpoexcl
-title: 'A perspective kept as a maintained nucleus, with usable methods, knowledge and relationships, differs from an archived alternative, which keeps only a description, and from active parallel inquiry, which keeps receiving resources, so an organization can hold many nuclei while developing a few and by holding them shorten its time to an effective response when an unfamiliar question arrives'
+title: 'Maintained nuclei shorten time to response'
+statement: >-
+  A perspective kept as a maintained nucleus, with usable methods, knowledge
+  and relationships, differs from an archived alternative, which keeps only
+  a description, and from active parallel inquiry, which keeps receiving
+  resources, so an organization can hold many nuclei while developing a few
+  and by holding them shorten its time to an effective response when an
+  unfamiliar question arrives
 version: 1
 role: thesis
 warrant: interpretive
@@ -38,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1004 CLAIM-1195 CLAIM-182 — Proposed; the owner's conjecture, the gap fill and the held claims read against it -->
 
-# CLAIM-1148: A perspective kept as a maintained nucleus, with usable methods, knowledge and relationships, differs from an archived alternative, which keeps only a description, and from active parallel inquiry, which keeps receiving resources, so an organization can hold many nuclei while developing a few and by holding them shorten its time to an effective response when an unfamiliar question arrives
+# CLAIM-1148: Maintained nuclei shorten time to response
 
 ## The claim
 

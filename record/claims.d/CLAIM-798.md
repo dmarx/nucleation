@@ -3,7 +3,16 @@ number: 798
 status: Proposed
 formerly:
 - CLAIM-tmp526xr
-title: "Reading a network's representations as active matter splits into a weak analogy, that embeddings move collectively under optimization and noise through a shared-parameter kernel, and a strong model, that their dynamics carry sustained nonequilibrium currents or persistent orientation-like degrees of freedom not reducible to gradient relaxation; the weak reading follows from gradient flow, the strong one has to be shown, and its flocking observable is alignment of velocities, not clustering of positions"
+title: 'Active matter: weak analogy vs strong model'
+statement: >-
+  Reading a network's representations as active matter splits into a weak
+  analogy, that embeddings move collectively under optimization and noise
+  through a shared-parameter kernel, and a strong model, that their dynamics
+  carry sustained nonequilibrium currents or persistent orientation-like
+  degrees of freedom not reducible to gradient relaxation; the weak reading
+  follows from gradient flow, the strong one has to be shown, and its
+  flocking observable is alignment of velocities, not clustering of
+  positions
 version: 2
 history:
 - version: 2
@@ -54,7 +63,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-126 THEORY-209 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: ARG-189 THEORY-2188 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-798: Reading a network's representations as active matter splits into a weak analogy, that embeddings move collectively under optimization and noise through a shared-parameter kernel, and a strong model, that their dynamics carry sustained nonequilibrium currents or persistent orientation-like degrees of freedom not reducible to gradient relaxation; the weak reading follows from gradient flow, the strong one has to be shown, and its flocking observable is alignment of velocities, not clustering of positions
+# CLAIM-798: Active matter: weak analogy vs strong model
 
 ## The claim
 

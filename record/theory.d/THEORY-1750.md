@@ -3,7 +3,14 @@ number: 1750
 status: Proposed
 formerly:
 - THEORY-tmpbzy1i
-title: 'Moerman and colleagues report that in the failed Fyra V250 rolling-stock introduction most of the patterns predicted by Woods''s ten proto-theorems of graceful extensibility were found in the documentary record, while the theory''s central quantity, capacity for maneuver, and the distinction between base and extended adaptive capacity were not recognised by the actors.'
+title: 'Graceful extensibility patterns found in Fyra'
+statement: >-
+  Moerman and colleagues report that in the failed Fyra V250 rolling-stock
+  introduction most of the patterns predicted by Woods's ten proto-theorems
+  of graceful extensibility were found in the documentary record, while the
+  theory's central quantity, capacity for maneuver, and the distinction
+  between base and extended adaptive capacity were not recognised by the
+  actors.
 version: 1
 tags:
 - complex-systems
@@ -21,7 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1885 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# THEORY-1750: Moerman and colleagues report that in the failed Fyra V250 rolling-stock introduction most of the patterns predicted by Woods's ten proto-theorems of graceful extensibility were found in the documentary record, while the theory's central quantity, capacity for maneuver, and the distinction between base and extended adaptive capacity were not recognised by the actors.
+# THEORY-1750: Graceful extensibility patterns found in Fyra
 
 ## The account
 

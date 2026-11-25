@@ -3,7 +3,18 @@ number: 932
 status: Active
 formerly:
 - THEORY-tmpar5jw
-title: 'The replicator-plus-entropy model of Boltzmann Q-learning in two-player stateless games is, in the small-step limit, the expected dynamics of a learner that updates every action''s value each step, and so of frequency-adjusted Q-learning wherever every action''s probability is at least its adjustment parameter; it is not that of Q-learning, whose expected update carries an extra factor of each action''s selection probability, so that its policy dynamics depend on the Q-values; in Kaisers and Tuyls''s three 2×2 games at one temperature, compared by eye, Q-learning''s trajectories departed from the model depending on initialization and the frequency-adjusted learner''s followed it'
+title: 'Frequency-adjusted Q-learning follows replicator'
+statement: >-
+  The replicator-plus-entropy model of Boltzmann Q-learning in two-player
+  stateless games is, in the small-step limit, the expected dynamics of a
+  learner that updates every action's value each step, and so of
+  frequency-adjusted Q-learning wherever every action's probability is at
+  least its adjustment parameter; it is not that of Q-learning, whose
+  expected update carries an extra factor of each action's selection
+  probability, so that its policy dynamics depend on the Q-values; in
+  Kaisers and Tuyls's three 2×2 games at one temperature, compared by eye,
+  Q-learning's trajectories departed from the model depending on
+  initialization and the frequency-adjusted learner's followed it
 version: 3
 history:
 - version: 2
@@ -56,7 +67,7 @@ bears_on:
 
 <!-- inactive-ok-file: THEORY-1234 — Proposed; the wide form this entry was narrowed from, which extends it -->
 
-# THEORY-932: The replicator-plus-entropy model of Boltzmann Q-learning in two-player stateless games is, in the small-step limit, the expected dynamics of a learner that updates every action's value each step, and so of frequency-adjusted Q-learning wherever every action's probability is at least its adjustment parameter; it is not that of Q-learning, whose expected update carries an extra factor of each action's selection probability, so that its policy dynamics depend on the Q-values; in Kaisers and Tuyls's three 2×2 games at one temperature, compared by eye, Q-learning's trajectories departed from the model depending on initialization and the frequency-adjusted learner's followed it
+# THEORY-932: Frequency-adjusted Q-learning follows replicator
 
 ## Source
 

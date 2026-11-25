@@ -16,7 +16,12 @@ promote_when: >-
   Examples of things that "are and are not" the same, Theseus's ship or the
   hospital that became a school, cannot settle it, since those are cases
   where the relativity to purpose is already agreed.
-title: "Whether a self at one time is the same as a self at another has an answer only relative to a level of abstraction fixed by the purpose of asking, and asked at no such level it has none; the question with a substantive answer is what makes a self one thing at a time"
+title: 'Diachronic self-identity is level-relative'
+statement: >-
+  Whether a self at one time is the same as a self at another has an answer
+  only relative to a level of abstraction fixed by the purpose of asking,
+  and asked at no such level it has none; the question with a substantive
+  answer is what makes a self one thing at a time
 version: 1
 tags:
 - personhood
@@ -39,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-447 THEORY-490 THEORY-531 THEORY-546 THEORY-681 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed; named as a parallel the reading draws, not leaned on -->
 
-# THEORY-650: Whether a self at one time is the same as a self at another has an answer only relative to a level of abstraction fixed by the purpose of asking, and asked at no such level it has none; the question with a substantive answer is what makes a self one thing at a time
+# THEORY-650: Diachronic self-identity is level-relative
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1303
 status: Proposed
 formerly:
 - CLAIM-tmpn754o
-title: 'Beside heuristics that select what to do there are governance heuristics, learned priors over which perspective or procedure determines what to do; intuitive expertise and entrenched bias can then be one learned allocation of authority, efficient where the conditions it was learned under still hold and a source of systematic error where they no longer do'
+title: 'Governance heuristics allocate authority'
+statement: >-
+  Beside heuristics that select what to do there are governance heuristics,
+  learned priors over which perspective or procedure determines what to do;
+  intuitive expertise and entrenched bias can then be one learned allocation
+  of authority, efficient where the conditions it was learned under still
+  hold and a source of systematic error where they no longer do
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +49,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-3263 — Deferred; the work A11 cites for the conditions of valid intuition -->
 
-# CLAIM-1303: Beside heuristics that select what to do there are governance heuristics, learned priors over which perspective or procedure determines what to do; intuitive expertise and entrenched bias can then be one learned allocation of authority, efficient where the conditions it was learned under still hold and a source of systematic error where they no longer do
+# CLAIM-1303: Governance heuristics allocate authority
 
 ## The claim
 

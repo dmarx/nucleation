@@ -3,7 +3,13 @@ number: 1594
 status: Active
 formerly:
 - THEORY-tmpdfele
-title: 'Costa, Yetter and DeSomer report that sons born after the Civil War to Union soldiers held as prisoners when exchanges had stopped had about 1.11 times the older-age mortality hazard of non-prisoners'' sons, with no effect on daughters, and favour an epigenetic route by elimination without measuring one'
+title: 'POW fathers'' sons died earlier in old age'
+statement: >-
+  Costa, Yetter and DeSomer report that sons born after the Civil War to
+  Union soldiers held as prisoners when exchanges had stopped had about 1.11
+  times the older-age mortality hazard of non-prisoners' sons, with no
+  effect on daughters, and favour an epigenetic route by elimination without
+  measuring one
 version: 2
 history:
 - version: 1
@@ -34,7 +40,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1594: Costa, Yetter and DeSomer report that sons born after the Civil War to Union soldiers held as prisoners when exchanges had stopped had about 1.11 times the older-age mortality hazard of non-prisoners' sons, with no effect on daughters, and favour an epigenetic route by elimination without measuring one
+# THEORY-1594: POW fathers' sons died earlier in old age
 
 ## The account
 

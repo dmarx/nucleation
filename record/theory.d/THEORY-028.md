@@ -3,7 +3,12 @@ number: 28
 status: Active
 formerly:
 - THEORY-tmp6r1ax
-title: 'The expected bias of any data-dependent choice, and the expected generalisation error of any learning algorithm, is at most √(2σ²·I) for σ-subgaussian losses, where I is the information the output carries about the data'
+title: 'Generalisation error ≤ √(2σ²·I)'
+statement: >-
+  The expected bias of any data-dependent choice, and the expected
+  generalisation error of any learning algorithm, is at most √(2σ²·I) for
+  σ-subgaussian losses, where I is the information the output carries about
+  the data
 version: 2
 history:
 - version: 2
@@ -35,7 +40,7 @@ bears_on:
 - QUESTION-040
 ---
 
-# THEORY-028: The expected bias of any data-dependent choice, and the expected generalisation error of any learning algorithm, is at most √(2σ²·I) for σ-subgaussian losses, where I is the information the output carries about the data
+# THEORY-028: Generalisation error ≤ √(2σ²·I)
 
 ## Source
 

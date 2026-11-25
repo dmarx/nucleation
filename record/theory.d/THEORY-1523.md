@@ -3,7 +3,15 @@ number: 1523
 status: Active
 formerly:
 - THEORY-tmpwegr1
-title: 'Griffith, Redding and Van Reenen find, in a panel of manufacturing industries in twelve OECD countries over 1974–1990, that industries further behind their industry''s productivity frontier grow faster the more R&D they do, so that R&D raises the rate at which frontier technology is absorbed as well as the rate of own innovation, and that for a country at about half the frontier''s productivity over half of R&D''s estimated return comes through this absorption'
+title: 'R&D also speeds frontier technology absorption'
+statement: >-
+  Griffith, Redding and Van Reenen find, in a panel of manufacturing
+  industries in twelve OECD countries over 1974–1990, that industries
+  further behind their industry's productivity frontier grow faster the more
+  R&D they do, so that R&D raises the rate at which frontier technology is
+  absorbed as well as the rate of own innovation, and that for a country at
+  about half the frontier's productivity over half of R&D's estimated return
+  comes through this absorption
 version: 2
 history:
 - version: 2
@@ -38,7 +46,7 @@ summary: >-
   happens when own R&D stops.
 ---
 
-# THEORY-1523: Griffith, Redding and Van Reenen find, in a panel of manufacturing industries in twelve OECD countries over 1974–1990, that industries further behind their industry's productivity frontier grow faster the more R&D they do, so that R&D raises the rate at which frontier technology is absorbed as well as the rate of own innovation, and that for a country at about half the frontier's productivity over half of R&D's estimated return comes through this absorption
+# THEORY-1523: R&D also speeds frontier technology absorption
 
 ## Source
 

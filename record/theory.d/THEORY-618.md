@@ -15,7 +15,14 @@ promote_when: >-
   multiscale sampling fits as well. Further Zipf-like rank distributions,
   or more Betti-curve matches against uniform Euclidean cubes alone,
   cannot settle it.
-title: "Neural circuits that must represent hierarchically organised states in few dimensions use a hyperbolic geometry, three-dimensional where it has been measured, because hyperbolic space holds exponentially many well-separated states within a small radius; the argument from Zipf's law to this geometry does not hold, and the evidence is two Betti-curve studies tested only against uniform Euclidean nulls"
+title: 'Hyperbolic neural geometry evidence is thin'
+statement: >-
+  Neural circuits that must represent hierarchically organised states in few
+  dimensions use a hyperbolic geometry, three-dimensional where it has been
+  measured, because hyperbolic space holds exponentially many well-separated
+  states within a small radius; the argument from Zipf's law to this
+  geometry does not hold, and the evidence is two Betti-curve studies tested
+  only against uniform Euclidean nulls
 version: 1
 tags:
 - neuroscience
@@ -43,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-188 — Proposed; the hyperbolic random-graph account, named in Connections and not leaned on -->
 <!-- inactive-ok-file: LIT-270 — Rejected; named as the reading that shows Zipf curves arise without meaning, not leaned on -->
 
-# THEORY-618: Neural circuits that must represent hierarchically organised states in few dimensions use a hyperbolic geometry, three-dimensional where it has been measured, because hyperbolic space holds exponentially many well-separated states within a small radius; the argument from Zipf's law to this geometry does not hold, and the evidence is two Betti-curve studies tested only against uniform Euclidean nulls
+# THEORY-618: Hyperbolic neural geometry evidence is thin
 
 ## Source
 

@@ -17,7 +17,12 @@ promote_when: >-
   testimonial kind, and fails both conditions: a deliberate, non-prejudiced
   discrediting that is no different in its wrong from the ingenuous one.
   More secondary summaries cannot settle it.
-title: "Testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, not a deliberate manipulation of it, and it can be structural and pre-emptive, when a speaker's word is never sought because of a structural prejudice that is no one's fault"
+title: 'Testimonial injustice is unwitting prejudice'
+statement: >-
+  Testimonial injustice is an ingenuous misjudgement of a speaker's
+  credibility caused by prejudice, not a deliberate manipulation of it, and
+  it can be structural and pre-emptive, when a speaker's word is never
+  sought because of a structural prejudice that is no one's fault
 version: 1
 tags:
 - epistemology
@@ -41,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, named in the inherited promote_when as what would settle this -->
 
-# THEORY-1173: Testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, not a deliberate manipulation of it, and it can be structural and pre-emptive, when a speaker's word is never sought because of a structural prejudice that is no one's fault
+# THEORY-1173: Testimonial injustice is unwitting prejudice
 
 ## Source
 

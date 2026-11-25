@@ -3,7 +3,9 @@ number: 57
 status: Active
 formerly:
 - CLAIM-tmpgnnj0
-title: 'Precedence, jurisdiction and suspension can vary independently'
+title: 'Precedence, jurisdiction, suspension vary apart'
+statement: >-
+  Precedence, jurisdiction and suspension can vary independently
 version: 2
 history:
 - version: 2
@@ -34,7 +36,7 @@ summary: >-
 ---
 <!-- ref::uses-file: TERM-017 — stated in "precedence, jurisdiction and suspension"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 
-# CLAIM-057: Precedence, jurisdiction and suspension can vary independently
+# CLAIM-057: Precedence, jurisdiction, suspension vary apart
 
 ## The claim
 

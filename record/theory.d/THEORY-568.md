@@ -3,7 +3,14 @@ number: 568
 status: Active
 formerly:
 - THEORY-tmpkqoc2
-title: "Whatever redundancy measure a partial information decomposition uses, provided its atoms satisfy the consistency equation, the average number of single sources an atom can be read from is Σᵢ I(Xᵢ;Y)/I(X;Y) and the average number of sources it cannot do without is Σⱼ I(Xⱼ;Y|X₋ⱼ)/I(X;Y); so the redundancy–synergy index equals (r̄ − 1)·I(X;Y), and for three or more sources it counts a k-way redundancy k − 1 times but synergy once"
+title: 'RSI counts k-way redundancy k−1 times'
+statement: >-
+  Whatever redundancy measure a partial information decomposition uses,
+  provided its atoms satisfy the consistency equation, the average number of
+  single sources an atom can be read from is Σᵢ I(Xᵢ;Y)/I(X;Y) and the
+  average number of sources it cannot do without is Σⱼ I(Xⱼ;Y|X₋ⱼ)/I(X;Y);
+  so the redundancy–synergy index equals (r̄ − 1)·I(X;Y), and for three or
+  more sources it counts a k-way redundancy k − 1 times but synergy once
 version: 2
 history:
 - version: 2
@@ -37,7 +44,7 @@ bears_on:
 - QUESTION-243
 ---
 
-# THEORY-568: Whatever redundancy measure a partial information decomposition uses, provided its atoms satisfy the consistency equation, the average number of single sources an atom can be read from is Σᵢ I(Xᵢ;Y)/I(X;Y) and the average number of sources it cannot do without is Σⱼ I(Xⱼ;Y|X₋ⱼ)/I(X;Y); so the redundancy–synergy index equals (r̄ − 1)·I(X;Y), and for three or more sources it counts a k-way redundancy k − 1 times but synergy once
+# THEORY-568: RSI counts k-way redundancy k−1 times
 
 ## Source
 

@@ -17,7 +17,15 @@ promote_when: >-
   and cannot promote it alone; a defence of metaphysical structuralism
   that answers them while accepting holism is a refutation of this
   THEORY's verdict only if it also meets the result above.
-title: "The structuralist methods and evidence in consciousness science support only that experiences have structure or stand in relations to other experiences, not that an experience is nothing but its relations; the stronger, metaphysical thesis implies that relational knowledge fixes what an experience is like, that every new experience changes all the others, and that a system with a single experience is impossible, and each consequence is doubtful"
+title: 'Structuralist evidence supports only weak thesis'
+statement: >-
+  The structuralist methods and evidence in consciousness science support
+  only that experiences have structure or stand in relations to other
+  experiences, not that an experience is nothing but its relations; the
+  stronger, metaphysical thesis implies that relational knowledge fixes what
+  an experience is like, that every new experience changes all the others,
+  and that a system with a single experience is impossible, and each
+  consequence is doubtful
 version: 2
 history:
 - version: 2
@@ -46,7 +54,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-880 THEORY-867 — Proposed; the account this objects to and the other objection filed in the same batch, named -->
 <!-- inactive-ok-file: CLAIM-412 CLAIM-136 THEORY-633 — Proposed; the record's claims this account bears on, not leaned on -->
 
-# THEORY-868: The structuralist methods and evidence in consciousness science support only that experiences have structure or stand in relations to other experiences, not that an experience is nothing but its relations; the stronger, metaphysical thesis implies that relational knowledge fixes what an experience is like, that every new experience changes all the others, and that a system with a single experience is impossible, and each consequence is doubtful
+# THEORY-868: Structuralist evidence supports only weak thesis
 
 ## Source
 

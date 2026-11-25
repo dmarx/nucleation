@@ -3,7 +3,14 @@ number: 1345
 status: Proposed
 formerly:
 - CLAIM-tmpzuzeh
-title: 'The coordination pathologies of distributed computing, among them deadlock, livelock, starvation, priority inversion, races, thrashing, split brain, retry storms and silent failure, are candidate structural correspondences for pathologies of organizations and of inquiry, each with its own mechanism and remedy, so that the remedy for one, more resources, higher priority or more information, need not relieve another'
+title: 'Distributed pathologies map onto organizations'
+statement: >-
+  The coordination pathologies of distributed computing, among them
+  deadlock, livelock, starvation, priority inversion, races, thrashing,
+  split brain, retry storms and silent failure, are candidate structural
+  correspondences for pathologies of organizations and of inquiry, each with
+  its own mechanism and remedy, so that the remedy for one, more resources,
+  higher priority or more information, need not relieve another
 version: 1
 role: thesis
 warrant: interpretive
@@ -45,7 +52,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-427 CLAIM-451 CLAIM-1003 CLAIM-1267 CLAIM-1140 — Proposed; cited as filed or held beside this entry, whatever its standing -->
 
-# CLAIM-1345: The coordination pathologies of distributed computing, among them deadlock, livelock, starvation, priority inversion, races, thrashing, split brain, retry storms and silent failure, are candidate structural correspondences for pathologies of organizations and of inquiry, each with its own mechanism and remedy, so that the remedy for one, more resources, higher priority or more information, need not relieve another
+# CLAIM-1345: Distributed pathologies map onto organizations
 
 ## The claim
 

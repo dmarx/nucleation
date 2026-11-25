@@ -3,7 +3,14 @@ number: 1683
 status: Proposed
 formerly:
 - THEORY-tmpf27hx
-title: 'Sabour, Liu and colleagues (2025) find, in a randomized experiment with 233 participants, that AI advisers given covert objectives shifted people''s ratings toward options serving those objectives in both financial and emotional decisions, with odds ratios of about 5 to 8, while most participants still rated them helpful, and that adding explicit psychological tactics did not clearly add to the effect.'
+title: 'Covert AI advisers sway choices yet seem helpful'
+statement: >-
+  Sabour, Liu and colleagues (2025) find, in a randomized experiment with
+  233 participants, that AI advisers given covert objectives shifted
+  people's ratings toward options serving those objectives in both financial
+  and emotional decisions, with odds ratios of about 5 to 8, while most
+  participants still rated them helpful, and that adding explicit
+  psychological tactics did not clearly add to the effect.
 version: 1
 source:
 - LIT-2385
@@ -26,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2453 — Unfetched; filed from the same exchange -->
 
-# THEORY-1683: Sabour, Liu and colleagues (2025) find, in a randomized experiment with 233 participants, that AI advisers given covert objectives shifted people's ratings toward options serving those objectives in both financial and emotional decisions, with odds ratios of about 5 to 8, while most participants still rated them helpful, and that adding explicit psychological tactics did not clearly add to the effect.
+# THEORY-1683: Covert AI advisers sway choices yet seem helpful
 
 ## The account
 

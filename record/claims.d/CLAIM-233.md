@@ -3,7 +3,13 @@ number: 233
 status: Active
 formerly:
 - CLAIM-tmphn6za
-title: 'The central theses'' defeat conditions pit them only against embedding, propositional or surface similarity, and two rivals the record holds, functional equivalence as Nida states it and a proposition with its illocutionary force, also predict that judged pragmatic observables beat text similarity'
+title: 'Defeat tests ignore rivals that predict the same'
+statement: >-
+  The central theses' defeat conditions pit them only against embedding,
+  propositional or surface similarity, and two rivals the record holds,
+  functional equivalence as Nida states it and a proposition with its
+  illocutionary force, also predict that judged pragmatic observables beat
+  text similarity
 version: 5
 history:
 - version: 2
@@ -90,7 +96,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-083 — Superseded; cited as the earlier fidelity thesis whose body first noticed the weak baseline -->
 <!-- inactive-ok-file: LIT-784 — Unavailable; unread here, cited as the rival CLAIM-023 names and not leaned on -->
 
-# CLAIM-233: The central theses' defeat conditions pit them only against embedding, propositional or surface similarity, and two rivals the record holds, functional equivalence as Nida states it and a proposition with its illocutionary force, also predict that judged pragmatic observables beat text similarity
+# CLAIM-233: Defeat tests ignore rivals that predict the same
 
 ## The objection
 

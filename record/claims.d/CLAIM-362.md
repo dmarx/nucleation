@@ -3,7 +3,14 @@ number: 362
 status: Proposed
 formerly:
 - CLAIM-tmpqofon
-title: 'Non-domination of an agent''s subcomponents is a candidate constituent of authenticity as an organizational achievement, not a sufficient criterion of ownership: higher-level processes need not impose the outcome because the lower-level ones already support it or settle their disagreement among themselves, and a process that rarely decides keeps access to the roles in which it is consequential'
+title: 'Non-domination is part of authenticity, not all'
+statement: >-
+  Non-domination of an agent's subcomponents is a candidate constituent of
+  authenticity as an organizational achievement, not a sufficient criterion
+  of ownership: higher-level processes need not impose the outcome because
+  the lower-level ones already support it or settle their disagreement among
+  themselves, and a process that rarely decides keeps access to the roles in
+  which it is consequential
 version: 1
 role: thesis
 warrant: interpretive
@@ -48,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-016 TERM-006 QUESTION-011 — Deferred; the set-aside authenticity line this claim is a candidate repair for, cited to say what it would repair -->
 <!-- inactive-ok-file: THEORY-040 THEORY-054 CLAIM-358 CLAIM-364 — Proposed; the claims and readings set beside this one, open -->
 
-# CLAIM-362: Non-domination of an agent's subcomponents is a candidate constituent of authenticity as an organizational achievement, not a sufficient criterion of ownership: higher-level processes need not impose the outcome because the lower-level ones already support it or settle their disagreement among themselves, and a process that rarely decides keeps access to the roles in which it is consequential
+# CLAIM-362: Non-domination is part of authenticity, not all
 
 ## The claim
 

@@ -9,7 +9,15 @@ promote_when: >-
   starting at the density and frequency eq. 4 predicts from the measured
   single-cell and signal response functions, where cells that do not adapt
   (no phase lead) do not oscillate at any density.
-title: 'Wang and Tang show that cells coupled through a shared dissipative signal begin a collective oscillation when loop gain and phase match, Nα₁R̃ₐ(ω)R̃ₛ(ω) = 1, and that because the medium lags the cells must lead in phase, which cells that adapt to a constant stimulus do in an active frequency window where energy flows from cell to signal, so quiescent adaptive cells oscillate together past a density where none oscillates alone'
+title: 'Adaptive cells oscillate via a shared signal'
+statement: >-
+  Wang and Tang show that cells coupled through a shared dissipative signal
+  begin a collective oscillation when loop gain and phase match,
+  Nα₁R̃ₐ(ω)R̃ₛ(ω) = 1, and that because the medium lags the cells must lead
+  in phase, which cells that adapt to a constant stimulus do in an active
+  frequency window where energy flows from cell to signal, so quiescent
+  adaptive cells oscillate together past a density where none oscillates
+  alone
 version: 1
 tags:
 - complex-systems
@@ -23,7 +31,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-2250: Wang and Tang show that cells coupled through a shared dissipative signal begin a collective oscillation when loop gain and phase match, Nα₁R̃ₐ(ω)R̃ₛ(ω) = 1, and that because the medium lags the cells must lead in phase, which cells that adapt to a constant stimulus do in an active frequency window where energy flows from cell to signal, so quiescent adaptive cells oscillate together past a density where none oscillates alone
+# THEORY-2250: Adaptive cells oscillate via a shared signal
 
 ## Source
 

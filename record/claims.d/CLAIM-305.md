@@ -3,11 +3,13 @@ number: 305
 status: Active
 formerly:
 - CLAIM-tmp0pdrg
-title: 'Resolving a singularity by blow-up reparametrizes the states and adds no
-  observation, so it cannot make indistinguishable states distinguishable: every
-  point over a singular point gives the same distribution, and the Fisher information
-  can stay degenerate there; what the resolution buys is a normal form for the divergence,
-  and so the learning coefficient'
+title: 'Blow-up adds no observation, only a normal form'
+statement: >-
+  Resolving a singularity by blow-up reparametrizes the states and adds no
+  observation, so it cannot make indistinguishable states distinguishable:
+  every point over a singular point gives the same distribution, and the
+  Fisher information can stay degenerate there; what the resolution buys is
+  a normal form for the divergence, and so the learning coefficient
 version: 1
 role: thesis
 warrant: demonstrated
@@ -39,7 +41,7 @@ grounds:
 - CASE-152
 ---
 
-# CLAIM-305: Resolving a singularity by blow-up reparametrizes the states and adds no observation, so it cannot make indistinguishable states distinguishable: every point over a singular point gives the same distribution, and the Fisher information can stay degenerate there; what the resolution buys is a normal form for the divergence, and so the learning coefficient
+# CLAIM-305: Blow-up adds no observation, only a normal form
 
 ## The claim
 

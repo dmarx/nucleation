@@ -12,7 +12,13 @@ promote_when: >-
   announced without that link. The title asserts the authors' mechanism,
   optimism and lowered anticipated guilt, only as theirs, so a rival
   mechanism for the same pattern does not defeat it.
-title: 'Khan and Dhar find that knowing the same choice will recur lowers self-control in the present choice, which they explain by optimism about the next choice lowering the anticipated guilt of the present one, and that telling choosers the present choice is the best indicator of the next takes most of the effect away'
+title: 'Expecting repeat choices weakens self-control'
+statement: >-
+  Khan and Dhar find that knowing the same choice will recur lowers
+  self-control in the present choice, which they explain by optimism about
+  the next choice lowering the anticipated guilt of the present one, and
+  that telling choosers the present choice is the best indicator of the next
+  takes most of the effect away
 version: 1
 tags:
 - behavioral-integration
@@ -34,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-067 — Proposed; the account whose promotion condition this reading partly meets -->
 
-# THEORY-2236: Khan and Dhar find that knowing the same choice will recur lowers self-control in the present choice, which they explain by optimism about the next choice lowering the anticipated guilt of the present one, and that telling choosers the present choice is the best indicator of the next takes most of the effect away
+# THEORY-2236: Expecting repeat choices weakens self-control
 
 ## Source
 

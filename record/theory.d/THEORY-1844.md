@@ -3,7 +3,13 @@ number: 1844
 status: Proposed
 formerly:
 - THEORY-tmpiihve
-title: 'Crawford argues that skilled manual work is cognitively demanding and a ground of agency, and that work is degraded cognitively, by moving judgment out of the job into management or a system so that skilled workers can be replaced by cheaper ones, a method competition spreads across an industry and expert systems now carry into office work'
+title: 'Work is degraded by removing judgment'
+statement: >-
+  Crawford argues that skilled manual work is cognitively demanding and a
+  ground of agency, and that work is degraded cognitively, by moving
+  judgment out of the job into management or a system so that skilled
+  workers can be replaced by cheaper ones, a method competition spreads
+  across an industry and expert systems now carry into office work
 version: 1
 source:
 - LIT-2580
@@ -27,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-677 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-2608 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 
-# THEORY-1844: Crawford argues that skilled manual work is cognitively demanding and a ground of agency, and that work is degraded cognitively, by moving judgment out of the job into management or a system so that skilled workers can be replaced by cheaper ones, a method competition spreads across an industry and expert systems now carry into office work
+# THEORY-1844: Work is degraded by removing judgment
 
 ## The account
 

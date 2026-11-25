@@ -11,7 +11,12 @@ promote_when: >-
   emergency rhetoric) present in the eroding cases and absent or checked in
   the others. It is refuted as a distinguishing pattern if the same channels
   are as common in emergencies that left democracy intact.
-title: 'Formal emergency powers, extraordinary powers functionally equivalent to them and emergency rhetoric are linked to the accelerated erosion or dismantling of democracy and to the consolidation of autocratic rule, though the convergence is not inevitable'
+title: 'Emergency powers go with democratic erosion'
+statement: >-
+  Formal emergency powers, extraordinary powers functionally equivalent to
+  them and emergency rhetoric are linked to the accelerated erosion or
+  dismantling of democracy and to the consolidation of autocratic rule,
+  though the convergence is not inevitable
 version: 1
 tags:
 - society-and-governance
@@ -29,7 +34,7 @@ summary: >-
   promote_when is [THEORY-906](THEORY-906.md)'s old condition, word for word.
 ---
 
-# THEORY-1229: Formal emergency powers, extraordinary powers functionally equivalent to them and emergency rhetoric are linked to the accelerated erosion or dismantling of democracy and to the consolidation of autocratic rule, though the convergence is not inevitable
+# THEORY-1229: Emergency powers go with democratic erosion
 
 ## Source
 

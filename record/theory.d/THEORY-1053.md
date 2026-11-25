@@ -3,7 +3,13 @@ number: 1053
 status: Active
 formerly:
 - THEORY-tmp08c0w
-title: 'Under unitary evolution, two states of a quantum system can each leave a record in another system while themselves staying undisturbed only if they are orthogonal or the record does not distinguish them; so the outcomes that can be recorded repeatably form an orthogonal set, a result that uses only unitarity and repeatability and not the Born rule'
+title: 'Repeatable records require orthogonal states'
+statement: >-
+  Under unitary evolution, two states of a quantum system can each leave a
+  record in another system while themselves staying undisturbed only if they
+  are orthogonal or the record does not distinguish them; so the outcomes
+  that can be recorded repeatably form an orthogonal set, a result that uses
+  only unitarity and repeatability and not the Born rule
 version: 2
 history:
 - version: 2
@@ -31,7 +37,7 @@ summary: >-
 bears_on:
 - QUESTION-285
 ---
-# THEORY-1053: Under unitary evolution, two states of a quantum system can each leave a record in another system while themselves staying undisturbed only if they are orthogonal or the record does not distinguish them; so the outcomes that can be recorded repeatably form an orthogonal set, a result that uses only unitarity and repeatability and not the Born rule
+# THEORY-1053: Repeatable records require orthogonal states
 
 ## Source
 

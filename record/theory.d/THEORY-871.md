@@ -3,7 +3,15 @@ number: 871
 status: Active
 formerly:
 - THEORY-tmpak7ax
-title: 'In two midlife community samples (n = 182 and 176), instructed reappraisal of aversive pictures, mostly by reinterpretation, lowered reported negative affect, while the BOLD responses of the amygdala, periaqueductal gray, hypothalamus and the other subcortical regions that responded to the pictures showed evidence of no change (Bayes factors below 1/10); the emotion-responsive regions it reduced were all cortical, mainly higher visual and parietal'
+title: 'Reappraisal leaves subcortical responses unchanged'
+statement: >-
+  In two midlife community samples (n = 182 and 176), instructed reappraisal
+  of aversive pictures, mostly by reinterpretation, lowered reported
+  negative affect, while the BOLD responses of the amygdala, periaqueductal
+  gray, hypothalamus and the other subcortical regions that responded to the
+  pictures showed evidence of no change (Bayes factors below 1/10); the
+  emotion-responsive regions it reduced were all cortical, mainly higher
+  visual and parietal
 version: 3
 history:
 - version: 2
@@ -74,7 +82,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-412 THEORY-056 THEORY-680 THEORY-057 THEORY-878 — Proposed; the claim and accounts this bears on, named, nothing here rests on them -->
 
-# THEORY-871: In two midlife community samples (n = 182 and 176), instructed reappraisal of aversive pictures, mostly by reinterpretation, lowered reported negative affect, while the BOLD responses of the amygdala, periaqueductal gray, hypothalamus and the other subcortical regions that responded to the pictures showed evidence of no change (Bayes factors below 1/10); the emotion-responsive regions it reduced were all cortical, mainly higher visual and parietal
+# THEORY-871: Reappraisal leaves subcortical responses unchanged
 
 ## Source
 

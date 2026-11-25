@@ -3,7 +3,16 @@ number: 1017
 status: Active
 formerly:
 - THEORY-tmpz8eh5
-title: 'In Claude 3.5 Haiku, writing the second line of a rhyming couplet whose first line ends "grab it", features for the candidate rhymes "rabbit" and "habit" are active on the newline token before the line, steering them changes the line''s final word only when applied at that token, and suppressing "rabbit" turns the line towards "habit"; injecting a "rabbit" or "green" word feature at that point in 25 other poems ended the line with the injected word in 70% of cases, and such planned-word features were found in about half of the poems the authors examined'
+title: 'Haiku plans rhymes before writing the line'
+statement: >-
+  In Claude 3.5 Haiku, writing the second line of a rhyming couplet whose
+  first line ends "grab it", features for the candidate rhymes "rabbit" and
+  "habit" are active on the newline token before the line, steering them
+  changes the line's final word only when applied at that token, and
+  suppressing "rabbit" turns the line towards "habit"; injecting a "rabbit"
+  or "green" word feature at that point in 25 other poems ended the line
+  with the injected word in 70% of cases, and such planned-word features
+  were found in about half of the poems the authors examined
 version: 1
 history:
 - version: 1
@@ -30,7 +39,7 @@ summary: >-
   "success cases" does not end in the injected word.
 ---
 <!-- inactive-ok-file: THEORY-982 — Proposed; the wider thesis, cited as open -->
-# THEORY-1017: In Claude 3.5 Haiku, writing the second line of a rhyming couplet whose first line ends "grab it", features for the candidate rhymes "rabbit" and "habit" are active on the newline token before the line, steering them changes the line's final word only when applied at that token, and suppressing "rabbit" turns the line towards "habit"; injecting a "rabbit" or "green" word feature at that point in 25 other poems ended the line with the injected word in 70% of cases, and such planned-word features were found in about half of the poems the authors examined
+# THEORY-1017: Haiku plans rhymes before writing the line
 
 ## Source
 

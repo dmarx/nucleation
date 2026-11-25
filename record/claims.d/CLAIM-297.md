@@ -3,10 +3,12 @@ number: 297
 status: Active
 formerly:
 - CLAIM-tmp9muwf
-title: When an operator's authority is updated by how well it performs on the interpretation
-  it helped make dominant, the coupled meaning and influence of an organization
-  can amplify an initial interpretive advantage without any gain in fidelity to
-  independent evidence
+title: 'Authority feedback amplifies early advantage'
+statement: >-
+  When an operator's authority is updated by how well it performs on the
+  interpretation it helped make dominant, the coupled meaning and influence
+  of an organization can amplify an initial interpretive advantage without
+  any gain in fidelity to independent evidence
 version: 8
 history:
 - version: 2
@@ -112,7 +114,7 @@ works:
 <!-- inactive-ok-file: CLAIM-276 CLAIM-278 CLAIM-281 CLAIM-285 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1825 — Unavailable since 2026-10-29; DeMarzo, Vayanos and Zwiebel 2001, cited in the note of that date as not reached, nothing here rests on it -->
 
-# CLAIM-297: When an operator's authority is updated by how well it performs on the interpretation it helped make dominant, the coupled meaning and influence of an organization can amplify an initial interpretive advantage without any gain in fidelity to independent evidence
+# CLAIM-297: Authority feedback amplifies early advantage
 
 ## The claim
 

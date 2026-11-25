@@ -3,7 +3,11 @@ number: 1004
 status: Proposed
 formerly:
 - CLAIM-tmp1m3ba
-title: 'Parallel processing may complicate the joint boundary of inquiry and response, and persisted alternative perspectives may serve as conceptual nucleation sites for pursuing inquiry in depth in parallel'
+title: 'Persisted perspectives as nucleation sites'
+statement: >-
+  Parallel processing may complicate the joint boundary of inquiry and
+  response, and persisted alternative perspectives may serve as conceptual
+  nucleation sites for pursuing inquiry in depth in parallel
 version: 1
 role: thesis
 warrant: interpretive
@@ -35,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1148 CLAIM-1002 CLAIM-1177 CLAIM-185 CLAIM-182 CLAIM-1001 — Proposed; A's development, the gap fill, and the held claims the conjecture is read against -->
 
-# CLAIM-1004: Parallel processing may complicate the joint boundary of inquiry and response, and persisted alternative perspectives may serve as conceptual nucleation sites for pursuing inquiry in depth in parallel
+# CLAIM-1004: Persisted perspectives as nucleation sites
 
 ## The claim
 

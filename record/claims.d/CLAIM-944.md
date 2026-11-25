@@ -3,7 +3,15 @@ number: 944
 status: Proposed
 formerly:
 - CLAIM-tmp03h8w
-title: 'The receiver-restricted informativeness order has results of its own without Blackwell''s garbling theorem: it is decided by inclusion of the receiver''s achievable sets and is the same under every full-support prior, a garbling can never hurt a receiver exactly when the receiver can apply it itself, so the garblings it respects form a monoid, no receiver does better with a garbling than the unrestricted one does with the source, and the order neither implies nor follows from garbling'
+title: 'Receiver-restricted order stands without Blackwell'
+statement: >-
+  The receiver-restricted informativeness order has results of its own
+  without Blackwell's garbling theorem: it is decided by inclusion of the
+  receiver's achievable sets and is the same under every full-support prior,
+  a garbling can never hurt a receiver exactly when the receiver can apply
+  it itself, so the garblings it respects form a monoid, no receiver does
+  better with a garbling than the unrestricted one does with the source, and
+  the order neither implies nor follows from garbling
 version: 1
 history:
 - version: 1
@@ -52,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-150 CASE-361 ARG-019 CLAIM-087 — Proposed or new; the term this is stated in, its checks, the argument it bears on and the improvement claim it formalises -->
 
-# CLAIM-944: The receiver-restricted informativeness order has results of its own without Blackwell's garbling theorem: it is decided by inclusion of the receiver's achievable sets and is the same under every full-support prior, a garbling can never hurt a receiver exactly when the receiver can apply it itself, so the garblings it respects form a monoid, no receiver does better with a garbling than the unrestricted one does with the source, and the order neither implies nor follows from garbling
+# CLAIM-944: Receiver-restricted order stands without Blackwell
 
 ## Setting
 

@@ -3,7 +3,12 @@ number: 329
 status: Active
 formerly:
 - CLAIM-tmpdhfze
-title: 'A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it'
+title: 'Persistence by transmission, not resemblance'
+statement: >-
+  A collective that replaces all its members persists, when it does, by
+  causal transmission of the organization that produces it, not by
+  resemblance: an organization of the same kind that arises independently is
+  not its continuation, and a lapse in its coherence need not end it
 version: 12
 history:
 - version: 2
@@ -143,7 +148,7 @@ summary: >-
 <!-- ref::uses-file: TERM-084 — persistence "by causal transmission of the organization that produces it", as against being merely "any causal descendant" ("Causal descent ⇏ Perspectival inheritance"), is stated against TERM-084's causal descent -->
 <!-- ref::uses-file: TERM-100 — the transmission of "the processes responsible for producing the organization", not resemblance, turns on whose processes produce and keep the collective, TERM-100's formation and maintenance provenance -->
 
-# CLAIM-329: A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it
+# CLAIM-329: Persistence by transmission, not resemblance
 
 ## The claim
 

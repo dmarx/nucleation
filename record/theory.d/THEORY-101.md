@@ -22,7 +22,11 @@ promote_when: >-
   with low pathological complexity. Further arguments that consciousness
   is an adaptation, or that its subcortical structures are old, cannot
   settle it: the rival account agrees with both.
-title: 'Consciousness began as hedonic valence, which evolved as a common currency for trading off competing options in action selection among animals with many degrees of freedom'
+title: 'Consciousness began as hedonic valence'
+statement: >-
+  Consciousness began as hedonic valence, which evolved as a common currency
+  for trading off competing options in action selection among animals with
+  many degrees of freedom
 version: 2
 history:
 - version: 2
@@ -60,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-045 — Proposed; the record's account of felt affect, named for comparison, with no relation claimed -->
 <!-- inactive-ok-file: THEORY-252 — Proposed; the counterfactual-eraser account, named in the note of 2026-10-14 as the dilemma this identity inherits -->
 
-# THEORY-101: Consciousness began as hedonic valence, which evolved as a common currency for trading off competing options in action selection among animals with many degrees of freedom
+# THEORY-101: Consciousness began as hedonic valence
 
 ## Source
 

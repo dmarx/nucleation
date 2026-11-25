@@ -3,7 +3,14 @@ number: 1310
 status: Active
 formerly:
 - CLAIM-tmpq1lyz
-title: 'In the seeded fold model, a transient seed leaves a maintained organization only inside the bistable window and only by carrying the state past the unstable threshold, a brief seed needing exactly that threshold and a slower one more; the meme enters only as a scalar forcing, so the model expresses the environment''s receptivity but not which organization a seed nucleates'
+title: 'Seeds persist only past the unstable threshold'
+statement: >-
+  In the seeded fold model, a transient seed leaves a maintained
+  organization only inside the bistable window and only by carrying the
+  state past the unstable threshold, a brief seed needing exactly that
+  threshold and a slower one more; the meme enters only as a scalar forcing,
+  so the model expresses the environment's receptivity but not which
+  organization a seed nucleates
 version: 2
 history:
 - version: 2
@@ -49,7 +56,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1230 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
-# CLAIM-1310: In the seeded fold model, a transient seed leaves a maintained organization only inside the bistable window and only by carrying the state past the unstable threshold, a brief seed needing exactly that threshold and a slower one more; the meme enters only as a scalar forcing, so the model expresses the environment's receptivity but not which organization a seed nucleates
+# CLAIM-1310: Seeds persist only past the unstable threshold
 
 ## The gap
 

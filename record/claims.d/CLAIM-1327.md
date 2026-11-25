@@ -3,7 +3,14 @@ number: 1327
 status: Proposed
 formerly:
 - CLAIM-tmpugw2q
-title: 'A requirement can already be met: checking a term against a type given holds the term to the type, world to word, and moves nothing whether it passes or fails, so whether a predicate requires or describes is a separate question from whether the entry passes it when it is added, and the record''s descriptor and imposition are the two directions of fit only for predicates that are enforced'
+title: 'A requirement can already be met'
+statement: >-
+  A requirement can already be met: checking a term against a type given
+  holds the term to the type, world to word, and moves nothing whether it
+  passes or fails, so whether a predicate requires or describes is a
+  separate question from whether the entry passes it when it is added, and
+  the record's descriptor and imposition are the two directions of fit only
+  for predicates that are enforced
 version: 1
 role: counter
 warrant: interpretive
@@ -44,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-943 TERM-151 — Proposed; the claim objected to and the terms it is stated in -->
 <!-- inactive-ok-file: THEORY-2310 — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
-# CLAIM-1327: A requirement can already be met: checking a term against a type given holds the term to the type, world to word, and moves nothing whether it passes or fails, so whether a predicate requires or describes is a separate question from whether the entry passes it when it is added, and the record's descriptor and imposition are the two directions of fit only for predicates that are enforced
+# CLAIM-1327: A requirement can already be met
 
 ## The objection
 

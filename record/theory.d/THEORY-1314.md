@@ -13,7 +13,17 @@ promote_when: >-
   intervention on the macro-level pattern that holds its micro base
   fixed. Phase-amplitude coupling, ephaptic coupling or 1/f scaling do not
   settle it, since weakly emergent models produce them.
-title: 'Contextual emergence, on which an emergent phenomenon''s parts are necessary but not sufficient, needs a functional boundary between the phenomenon and its context, without which the context could be folded into the base and the account collapse into weak emergence or global supervenience; and the subject of attention is contextually emergent in this sense, its boundary being the skull, meninges and brain stem, so that its macro-level patterns constrain micro-level activity with a power that is not reducible to the parts and needs neither downward nor circular causation'
+title: 'Contextual emergence needs a functional boundary'
+statement: >-
+  Contextual emergence, on which an emergent phenomenon's parts are
+  necessary but not sufficient, needs a functional boundary between the
+  phenomenon and its context, without which the context could be folded into
+  the base and the account collapse into weak emergence or global
+  supervenience; and the subject of attention is contextually emergent in
+  this sense, its boundary being the skull, meninges and brain stem, so that
+  its macro-level patterns constrain micro-level activity with a power that
+  is not reducible to the parts and needs neither downward nor circular
+  causation
 version: 1
 tags:
 - metaphysics
@@ -36,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1987 LIT-1993 — Deferred; the source of contextual emergence, registered unread -->
 
-# THEORY-1314: Contextual emergence, on which an emergent phenomenon's parts are necessary but not sufficient, needs a functional boundary between the phenomenon and its context, without which the context could be folded into the base and the account collapse into weak emergence or global supervenience; and the subject of attention is contextually emergent in this sense, its boundary being the skull, meninges and brain stem, so that its macro-level patterns constrain micro-level activity with a power that is not reducible to the parts and needs neither downward nor circular causation
+# THEORY-1314: Contextual emergence needs a functional boundary
 
 ## Source
 

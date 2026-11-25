@@ -9,7 +9,15 @@ promote_when: >-
   concept decodable while lowering main-task accuracy, and INLP driving a
   classifier that does not use the concept to chance when task and
   concept labels are correlated.
-title: 'On Kumar, Tan and Sharma, for frozen disentangled representations under max-margin training a probe for a concept puts nonzero weight on correlated main-task features even when the concept''s own features separate it perfectly, so removal guided by such a probe can leave concept features in place while corrupting task features, and on a classifier that never used the concept, iterative nullspace projection drove main-task accuracy to chance'
+title: 'Concept probes weight correlated task features'
+statement: >-
+  On Kumar, Tan and Sharma, for frozen disentangled representations under
+  max-margin training a probe for a concept puts nonzero weight on
+  correlated main-task features even when the concept's own features
+  separate it perfectly, so removal guided by such a probe can leave concept
+  features in place while corrupting task features, and on a classifier that
+  never used the concept, iterative nullspace projection drove main-task
+  accuracy to chance
 version: 1
 tags:
 - representation-learning
@@ -27,7 +35,7 @@ summary: >-
   owner's call.
 ---
 
-# THEORY-1886: On Kumar, Tan and Sharma, for frozen disentangled representations under max-margin training a probe for a concept puts nonzero weight on correlated main-task features even when the concept's own features separate it perfectly, so removal guided by such a probe can leave concept features in place while corrupting task features, and on a classifier that never used the concept, iterative nullspace projection drove main-task accuracy to chance
+# THEORY-1886: Concept probes weight correlated task features
 
 ## Source
 

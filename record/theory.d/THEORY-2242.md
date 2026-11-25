@@ -11,7 +11,13 @@ promote_when: >-
   a month or more, while the safety-behaviour arms again approach more in
   the first exposure trial and rate the treatment more acceptable after
   it.
-title: 'Meckes, Cole, Gee and Lancaster report that, in one session of exposure for spider fear, an experimenter-supplied safety behaviour faded, kept or never offered made no detectable difference to outcome at post-treatment or one month, while it raised approach during exposure and acceptability after it'
+title: 'Safety behaviours didn''t hurt spider exposure'
+statement: >-
+  Meckes, Cole, Gee and Lancaster report that, in one session of exposure
+  for spider fear, an experimenter-supplied safety behaviour faded, kept or
+  never offered made no detectable difference to outcome at post-treatment
+  or one month, while it raised approach during exposure and acceptability
+  after it
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -31,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-3122 LIT-3121 THEORY-058 — Deferred or Proposed; the earlier null trial, the trial that cut patients' own safety behaviours, and the account whose promote_when this reading does not meet -->
 
-# THEORY-2242: Meckes, Cole, Gee and Lancaster report that, in one session of exposure for spider fear, an experimenter-supplied safety behaviour faded, kept or never offered made no detectable difference to outcome at post-treatment or one month, while it raised approach during exposure and acceptability after it
+# THEORY-2242: Safety behaviours didn't hurt spider exposure
 
 ## Source
 

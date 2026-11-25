@@ -3,7 +3,12 @@ number: 271
 status: Active
 formerly:
 - THEORY-tmpkwsi6
-title: "In a toy subject–verb–object corpus whose eight subjects carry every combination of three binary aspects, the subjects' raw co-occurrence rows form a parallelepiped if and only if, for each object, its four sentences are equally probable; any other sentence distribution breaks it"
+title: 'Parallelepipeds need equiprobable sentences'
+statement: >-
+  In a toy subject–verb–object corpus whose eight subjects carry every
+  combination of three binary aspects, the subjects' raw co-occurrence rows
+  form a parallelepiped if and only if, for each object, its four sentences
+  are equally probable; any other sentence distribution breaks it
 version: 3
 history:
 - version: 2
@@ -43,7 +48,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-183 — Proposed; the accounts this one is set beside -->
 
-# THEORY-271: In a toy subject–verb–object corpus whose eight subjects carry every combination of three binary aspects, the subjects' raw co-occurrence rows form a parallelepiped if and only if, for each object, its four sentences are equally probable; any other sentence distribution breaks it
+# THEORY-271: Parallelepipeds need equiprobable sentences
 
 ## Source
 

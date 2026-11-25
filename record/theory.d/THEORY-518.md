@@ -13,7 +13,14 @@ promote_when: >-
   refuted if frequent words' neighbourhoods turn over as much as rare
   words' once seeds are controlled. More before-and-after tables for
   hand-picked words cannot settle it.
-title: "If a word's meaning in a distributional model is read differentially, as its relations to its nearest neighbours rather than its coordinates, then adding text moves every similarity value slightly but leaves the neighbourhoods of frequent, consistently used words intact and shifts those of rare words that the new text uses heavily, so the instability that holism implies is local and graded rather than total"
+title: 'Holism''s meaning instability is local and graded'
+statement: >-
+  If a word's meaning in a distributional model is read differentially, as
+  its relations to its nearest neighbours rather than its coordinates, then
+  adding text moves every similarity value slightly but leaves the
+  neighbourhoods of frequent, consistently used words intact and shifts
+  those of rare words that the new text uses heavily, so the instability
+  that holism implies is local and graded rather than total
 version: 1
 tags:
 - philosophy-of-language
@@ -35,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-106 — Unavailable; Marabini on Brandom, a seeded skim, named and not leaned on -->
 <!-- inactive-ok-file: LIT-208 — Proposed; the reading that sources this account, which is itself Proposed and says so -->
 
-# THEORY-518: If a word's meaning in a distributional model is read differentially, as its relations to its nearest neighbours rather than its coordinates, then adding text moves every similarity value slightly but leaves the neighbourhoods of frequent, consistently used words intact and shifts those of rare words that the new text uses heavily, so the instability that holism implies is local and graded rather than total
+# THEORY-518: Holism's meaning instability is local and graded
 
 ## Source
 

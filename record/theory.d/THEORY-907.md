@@ -3,7 +3,14 @@ number: 907
 status: Active
 formerly:
 - THEORY-tmpapk2z
-title: 'As Chou, Wilson and Smith review them, in about six foraging studies, mostly sub-clinical, higher stress or anxiety went with less exploration, and in one task with a predator to check for (Trier et al. 2023), people higher in trait somatic anxiety checked less and did worse, a reduction the study''s further analyses associated with greater aversion to detecting the predator'
+title: 'Anxiety goes with less exploration in foraging'
+statement: >-
+  As Chou, Wilson and Smith review them, in about six foraging studies,
+  mostly sub-clinical, higher stress or anxiety went with less exploration,
+  and in one task with a predator to check for (Trier et al. 2023), people
+  higher in trait somatic anxiety checked less and did worse, a reduction
+  the study's further analyses associated with greater aversion to detecting
+  the predator
 version: 2
 history:
 - version: 2
@@ -41,7 +48,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and readings this bears on, named -->
 
-# THEORY-907: As Chou, Wilson and Smith review them, in about six foraging studies, mostly sub-clinical, higher stress or anxiety went with less exploration, and in one task with a predator to check for (Trier et al. 2023), people higher in trait somatic anxiety checked less and did worse, a reduction the study's further analyses associated with greater aversion to detecting the predator
+# THEORY-907: Anxiety goes with less exploration in foraging
 
 ## Source
 

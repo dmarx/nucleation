@@ -3,7 +3,15 @@ number: 641
 status: Active
 formerly:
 - THEORY-tmptk080
-title: "Under a well-specified, identifiable parametric Markov model of the target given the joint past, with ergodic lagged states, transfer entropy is the limit of the normalised log-likelihood ratio for the null of no dependence on the source's past, so it is Granger-sense predictive improvement; for finite-state chains the plug-in estimator is exactly that statistic, and under the null and the usual regularity it is asymptotically χ² with the difference in parameter counts as degrees of freedom"
+title: 'Transfer entropy is a likelihood-ratio statistic'
+statement: >-
+  Under a well-specified, identifiable parametric Markov model of the target
+  given the joint past, with ergodic lagged states, transfer entropy is the
+  limit of the normalised log-likelihood ratio for the null of no dependence
+  on the source's past, so it is Granger-sense predictive improvement; for
+  finite-state chains the plug-in estimator is exactly that statistic, and
+  under the null and the usual regularity it is asymptotically χ² with the
+  difference in parameter counts as degrees of freedom
 version: 3
 history:
 - version: 2
@@ -41,7 +49,7 @@ corroborates:
 ---
 
 
-# THEORY-641: Under a well-specified, identifiable parametric Markov model of the target given the joint past, with ergodic lagged states, transfer entropy is the limit of the normalised log-likelihood ratio for the null of no dependence on the source's past, so it is Granger-sense predictive improvement; for finite-state chains the plug-in estimator is exactly that statistic, and under the null and the usual regularity it is asymptotically χ² with the difference in parameter counts as degrees of freedom
+# THEORY-641: Transfer entropy is a likelihood-ratio statistic
 
 ## Source
 

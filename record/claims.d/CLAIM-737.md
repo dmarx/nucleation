@@ -3,7 +3,13 @@ number: 737
 formerly:
 - CLAIM-tmpmeabu
 status: Proposed
-title: 'That a capability''s exercise should be limited and that a given party may limit it are separate conclusions on separate grounds, neither entailing the other; the power to restrict is itself a capability, whose legitimacy turns on how it is bounded and answerable and not on whether the limit it imposes is right'
+title: 'Limiting rightly and who may limit are separate'
+statement: >-
+  That a capability's exercise should be limited and that a given party may
+  limit it are separate conclusions on separate grounds, neither entailing
+  the other; the power to restrict is itself a capability, whose legitimacy
+  turns on how it is bounded and answerable and not on whether the limit it
+  imposes is right
 version: 3
 history:
 - version: 2
@@ -66,7 +72,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-746 — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: CLAIM-680 CLAIM-682 ARG-058 TERM-124 — Proposed; the record's nearest entries, cited with their standing -->
 
-# CLAIM-737: That a capability's exercise should be limited and that a given party may limit it are separate conclusions on separate grounds, neither entailing the other; the power to restrict is itself a capability, whose legitimacy turns on how it is bounded and answerable and not on whether the limit it imposes is right
+# CLAIM-737: Limiting rightly and who may limit are separate
 
 ## The claim
 

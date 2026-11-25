@@ -3,7 +3,14 @@ number: 438
 status: Proposed
 formerly:
 - CLAIM-tmpe0iew
-title: 'An ordering serving as the negotiation''s potential, as the potential account of valence defines it, tracks ''wanting'', not ''liking'': sensitized incentive salience wins a system''s conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere'
+title: 'The potential tracks wanting, not liking'
+statement: >-
+  An ordering serving as the negotiation's potential, as the potential
+  account of valence defines it, tracks 'wanting', not 'liking': sensitized
+  incentive salience wins a system's conflicts, persists and resumes while
+  hedonic impact measured by taste reactivity stays flat or falls, so the
+  regime the account calls hedonic valence is motivational valence, and
+  hedonic valence, if it is anywhere in the account, is elsewhere
 version: 5
 history:
 - version: 2
@@ -64,7 +71,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-440 THEORY-893 TERM-076 CLAIM-439 — Proposed; the claim this objects to, the reading it rests on, and the term and candidate it bears on, cited as open -->
 
 
-# CLAIM-438: An ordering serving as the negotiation's potential, as the potential account of valence defines it, tracks 'wanting', not 'liking': sensitized incentive salience wins a system's conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere
+# CLAIM-438: The potential tracks wanting, not liking
 
 ## The objection
 

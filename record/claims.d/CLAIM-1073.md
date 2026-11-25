@@ -3,7 +3,12 @@ number: 1073
 status: Proposed
 formerly:
 - CLAIM-tmpchkck
-title: "Within a collective, questioning and answering are roles that perspectives take up and exchange, not two fixed players, so the question–answer game a collective plays is not a two-player game between a questioner and a respondent"
+title: 'Questioning and answering are exchanged roles'
+statement: >-
+  Within a collective, questioning and answering are roles that perspectives
+  take up and exchange, not two fixed players, so the question–answer game a
+  collective plays is not a two-player game between a questioner and a
+  respondent
 version: 1
 role: thesis
 warrant: interpretive
@@ -36,7 +41,7 @@ summary: >-
 
 <!-- inactive-ok-file: CASE-386 CLAIM-1031 CLAIM-1032 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
-# CLAIM-1073: Within a collective, questioning and answering are roles that perspectives take up and exchange, not two fixed players, so the question–answer game a collective plays is not a two-player game between a questioner and a respondent
+# CLAIM-1073: Questioning and answering are exchanged roles
 
 ## The claim
 

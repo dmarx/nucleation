@@ -3,7 +3,15 @@ number: 778
 status: Active
 formerly:
 - THEORY-tmpnxcxo
-title: 'In the Random Hierarchy Model with v symbols per level, m rules per symbol and s-tuples, the covariance between two tokens whose lowest common ancestor is ℓ levels up has zero mean over grammars and root-mean-square size about ((1 − m/v^(s−1))/(v³ m^(2ℓ−1)))^(1/2), falling by a factor m per level, while its estimate from P sequences carries noise of about (v²P)^(−1/2), so the two meet at P_ℓ ≈ v m^(2ℓ−1)/(1 − m/v^(s−1)); all to leading order in large v and m'
+title: 'Level-ℓ correlations need P ≈ v m^(2ℓ−1) samples'
+statement: >-
+  In the Random Hierarchy Model with v symbols per level, m rules per symbol
+  and s-tuples, the covariance between two tokens whose lowest common
+  ancestor is ℓ levels up has zero mean over grammars and root-mean-square
+  size about ((1 − m/v^(s−1))/(v³ m^(2ℓ−1)))^(1/2), falling by a factor m
+  per level, while its estimate from P sequences carries noise of about
+  (v²P)^(−1/2), so the two meet at P_ℓ ≈ v m^(2ℓ−1)/(1 − m/v^(s−1)); all to
+  leading order in large v and m
 version: 2
 history:
 - version: 1
@@ -41,7 +49,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-201 THEORY-673 — Proposed; the account that extends this one, and the split this one follows -->
 
-# THEORY-778: In the Random Hierarchy Model with v symbols per level, m rules per symbol and s-tuples, the covariance between two tokens whose lowest common ancestor is ℓ levels up has zero mean over grammars and root-mean-square size about ((1 − m/v^(s−1))/(v³ m^(2ℓ−1)))^(1/2), falling by a factor m per level, while its estimate from P sequences carries noise of about (v²P)^(−1/2), so the two meet at P_ℓ ≈ v m^(2ℓ−1)/(1 − m/v^(s−1)); all to leading order in large v and m
+# THEORY-778: Level-ℓ correlations need P ≈ v m^(2ℓ−1) samples
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 1619
 status: Active
 formerly:
 - THEORY-tmpu2krj
-title: 'Otten reports that minimal-group categorization, with no personal stake in the allocations, reliably produces in-group favouritism alongside a strong pull towards fairness, that projecting the positive personal self onto the new group is a crucial route to it, and that people allowed to pay themselves take the most for themselves and favour the in-group with the rest'
+title: 'Minimal groups yield favouritism with fairness'
+statement: >-
+  Otten reports that minimal-group categorization, with no personal stake in
+  the allocations, reliably produces in-group favouritism alongside a strong
+  pull towards fairness, that projecting the positive personal self onto the
+  new group is a crucial route to it, and that people allowed to pay
+  themselves take the most for themselves and favour the in-group with the
+  rest
 version: 2
 history:
 - version: 1
@@ -33,7 +40,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1619: Otten reports that minimal-group categorization, with no personal stake in the allocations, reliably produces in-group favouritism alongside a strong pull towards fairness, that projecting the positive personal self onto the new group is a crucial route to it, and that people allowed to pay themselves take the most for themselves and favour the in-group with the rest
+# THEORY-1619: Minimal groups yield favouritism with fairness
 
 ## The account
 

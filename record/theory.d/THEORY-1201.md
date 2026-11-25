@@ -17,7 +17,12 @@ promote_when: >-
   other than time dominates. It is refuted if co-acquired genes, after
   correction for the identified factors, cluster tightly in stem length,
   or if stem-length orderings match an independent clock across donors.
-title: 'Normalized stem length is not a clock of gene acquisition time: it is set mainly by factors other than when a gene was acquired, such as adaptation to the new cell after acquisition, so relative timings of eukaryogenesis drawn from stem lengths alone are not supported'
+title: 'Stem length is not a clock of acquisition'
+statement: >-
+  Normalized stem length is not a clock of gene acquisition time: it is set
+  mainly by factors other than when a gene was acquired, such as adaptation
+  to the new cell after acquisition, so relative timings of eukaryogenesis
+  drawn from stem lengths alone are not supported
 version: 1
 tags:
 - endosymbiosis
@@ -37,7 +42,7 @@ summary: >-
   promote_when is [THEORY-1101](THEORY-1101.md)'s old condition, word for word.
 ---
 
-# THEORY-1201: Normalized stem length is not a clock of gene acquisition time: it is set mainly by factors other than when a gene was acquired, such as adaptation to the new cell after acquisition, so relative timings of eukaryogenesis drawn from stem lengths alone are not supported
+# THEORY-1201: Stem length is not a clock of acquisition
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 315
 status: Proposed
 formerly:
 - CLAIM-tmp3bdbx
-title: 'In comparative anchoring tasks, considering an anchor shifts the later numerical estimate without adding evidence about the target, and the shift is carried by anchor-consistent knowledge made more accessible; the shift is established, the accessibility step is inferred and has not been measured'
+title: 'Anchoring shifts estimates without evidence'
+statement: >-
+  In comparative anchoring tasks, considering an anchor shifts the later
+  numerical estimate without adding evidence about the target, and the shift
+  is carried by anchor-consistent knowledge made more accessible; the shift
+  is established, the accessibility step is inferred and has not been
+  measured
 version: 3
 history:
 - version: 2
@@ -55,7 +61,7 @@ bears_on:
 - QUESTION-323
 ---
 
-# CLAIM-315: In comparative anchoring tasks, considering an anchor shifts the later numerical estimate without adding evidence about the target, and the shift is carried by anchor-consistent knowledge made more accessible; the shift is established, the accessibility step is inferred and has not been measured
+# CLAIM-315: Anchoring shifts estimates without evidence
 
 ## The claim
 

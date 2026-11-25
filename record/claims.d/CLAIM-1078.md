@@ -3,7 +3,14 @@ number: 1078
 status: Proposed
 formerly:
 - CLAIM-tmpddl2d
-title: 'The failure of a race reading of folding islands in a single-target constraint-growth system does not tell against it where it was built, since that system has no coherent alternative branch for a small-island seed''s territory to fall into, which is how the self-folding sheets misfold; the result bounds the reading''s reach and leaves its home case and any system with competing self-consistent folds untested'
+title: 'Race reading''s failure does not reach its home'
+statement: >-
+  The failure of a race reading of folding islands in a single-target
+  constraint-growth system does not tell against it where it was built,
+  since that system has no coherent alternative branch for a small-island
+  seed's territory to fall into, which is how the self-folding sheets
+  misfold; the result bounds the reading's reach and leaves its home case
+  and any system with competing self-consistent folds untested
 version: 1
 history:
 - version: 1
@@ -40,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-389 CLAIM-1090 CLAIM-1205 CLAIM-1204 — new; the study, the reading this objects to and the claims it grants, filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CASE-374 — Proposed; the earlier assembly study, cited as a design to adapt -->
 
-# CLAIM-1078: The failure of a race reading of folding islands in a single-target constraint-growth system does not tell against it where it was built, since that system has no coherent alternative branch for a small-island seed's territory to fall into, which is how the self-folding sheets misfold; the result bounds the reading's reach and leaves its home case and any system with competing self-consistent folds untested
+# CLAIM-1078: Race reading's failure does not reach its home
 
 ## The objection
 

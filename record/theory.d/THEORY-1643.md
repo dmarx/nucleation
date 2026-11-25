@@ -5,7 +5,14 @@ formerly:
 - THEORY-tmpgxdpz
 promote_when: >-
   A second reading confirms, from §§1–4 and Figs. 5–6, the architecture, the single-image tuning-free use, the figure-only comparison with character LoRAs, and the same-base compatibility claim.
-title: 'A plug-in for a frozen SDXL, trained once by its makers, that injects a face-recognition embedding by decoupled cross-attention and adds a keypoint-conditioned ControlNet keeps a face''s identity from one reference photo without test-time tuning, is shown by figures alone to be competitive with community character LoRAs, and is claimed compatible with models fine-tuned from the same base'
+title: 'Face embedding plug-in keeps identity untuned'
+statement: >-
+  A plug-in for a frozen SDXL, trained once by its makers, that injects a
+  face-recognition embedding by decoupled cross-attention and adds a
+  keypoint-conditioned ControlNet keeps a face's identity from one reference
+  photo without test-time tuning, is shown by figures alone to be
+  competitive with community character LoRAs, and is claimed compatible with
+  models fine-tuned from the same base
 version: 1
 history:
 - version: 1
@@ -25,7 +32,7 @@ summary: >-
   Qixun Wang, Xu Bai, Haofan Wang, Zekui Qin, Anthony Chen, Huaxia Li, Xu Tang and Yao Hu (2024), [LIT-2341](../literature.d/LIT-2341.md), read in [NOTE-1723](../notes.d/NOTE-1723.md). technical report (arXiv comment: "Technical Report").
 ---
 
-# THEORY-1643: A plug-in for a frozen SDXL, trained once by its makers, that injects a face-recognition embedding by decoupled cross-attention and adds a keypoint-conditioned ControlNet keeps a face's identity from one reference photo without test-time tuning, is shown by figures alone to be competitive with community character LoRAs, and is claimed compatible with models fine-tuned from the same base
+# THEORY-1643: Face embedding plug-in keeps identity untuned
 
 ## Source
 

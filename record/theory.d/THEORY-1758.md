@@ -3,7 +3,12 @@ number: 1758
 status: Proposed
 formerly:
 - THEORY-tmpes8q7
-title: 'Clark, Ciccarese and Goble propose that a scientific publication be represented as a micropublication: a principal claim with its attribution and, at its fullest, a graph of supporting and challenging statements, data and methods that can quote elements of other micropublications'
+title: 'Publications as claim-and-support graphs'
+statement: >-
+  Clark, Ciccarese and Goble propose that a scientific publication be
+  represented as a micropublication: a principal claim with its attribution
+  and, at its fullest, a graph of supporting and challenging statements,
+  data and methods that can quote elements of other micropublications
 version: 1
 tags:
 - design-rationale
@@ -24,7 +29,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1758: Clark, Ciccarese and Goble propose that a scientific publication be represented as a micropublication: a principal claim with its attribution and, at its fullest, a graph of supporting and challenging statements, data and methods that can quote elements of other micropublications
+# THEORY-1758: Publications as claim-and-support graphs
 
 ## The account
 

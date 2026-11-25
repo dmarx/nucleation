@@ -3,7 +3,18 @@ number: 1504
 status: Active
 formerly:
 - THEORY-tmphrwgv
-title: 'Grelu and Akhmediev hold that a dissipative soliton differs from a conservative one in being a single attractor rather than a member of a continuous family: a conservative soliton balances nonlinearity against dispersion alone, with its parameters selected by the initial data, whereas a dissipative soliton also needs an exact balance of gain and loss, kept by a continuous energy exchange with the environment and an internal flow from regions that gain energy to regions that lose it, so that its energy, profile and chirp are fixed by the system''s parameters, not by its initial conditions; such solitons can bind into robust molecules whose energy scales with the number of constituents'
+title: 'Dissipative solitons are single attractors'
+statement: >-
+  Grelu and Akhmediev hold that a dissipative soliton differs from a
+  conservative one in being a single attractor rather than a member of a
+  continuous family: a conservative soliton balances nonlinearity against
+  dispersion alone, with its parameters selected by the initial data,
+  whereas a dissipative soliton also needs an exact balance of gain and
+  loss, kept by a continuous energy exchange with the environment and an
+  internal flow from regions that gain energy to regions that lose it, so
+  that its energy, profile and chirp are fixed by the system's parameters,
+  not by its initial conditions; such solitons can bind into robust
+  molecules whose energy scales with the number of constituents
 version: 2
 history:
 - version: 2
@@ -48,7 +59,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1548 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 
-# THEORY-1504: Grelu and Akhmediev hold that a dissipative soliton differs from a conservative one in being a single attractor rather than a member of a continuous family: a conservative soliton balances nonlinearity against dispersion alone, with its parameters selected by the initial data, whereas a dissipative soliton also needs an exact balance of gain and loss, kept by a continuous energy exchange with the environment and an internal flow from regions that gain energy to regions that lose it, so that its energy, profile and chirp are fixed by the system's parameters, not by its initial conditions; such solitons can bind into robust molecules whose energy scales with the number of constituents
+# THEORY-1504: Dissipative solitons are single attractors
 
 ## Source
 

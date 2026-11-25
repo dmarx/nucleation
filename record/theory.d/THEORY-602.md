@@ -3,7 +3,15 @@ number: 602
 status: Active
 formerly:
 - THEORY-tmpotoox
-title: "An ergodic source's entropy is the least average rate at which it can be encoded, a noisy channel has a capacity below which any rate can be sent with arbitrarily small error and above which the equivocation cannot fall below the excess, and a source can be reproduced at a given fidelity over a channel exactly when its rate for that fidelity does not exceed the capacity; Shannon rests the justification of entropy on these theorems, not on the axioms that single out −Σ p log p"
+title: 'Coding theorems, not axioms, justify entropy'
+statement: >-
+  An ergodic source's entropy is the least average rate at which it can be
+  encoded, a noisy channel has a capacity below which any rate can be sent
+  with arbitrarily small error and above which the equivocation cannot fall
+  below the excess, and a source can be reproduced at a given fidelity over
+  a channel exactly when its rate for that fidelity does not exceed the
+  capacity; Shannon rests the justification of entropy on these theorems,
+  not on the axioms that single out −Σ p log p
 version: 1
 tags:
 - information-theory
@@ -23,7 +31,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-317 — Unavailable; named for what it adds to this paper, not leaned on -->
 
-# THEORY-602: An ergodic source's entropy is the least average rate at which it can be encoded, a noisy channel has a capacity below which any rate can be sent with arbitrarily small error and above which the equivocation cannot fall below the excess, and a source can be reproduced at a given fidelity over a channel exactly when its rate for that fidelity does not exceed the capacity; Shannon rests the justification of entropy on these theorems, not on the axioms that single out −Σ p log p
+# THEORY-602: Coding theorems, not axioms, justify entropy
 
 ## Source
 

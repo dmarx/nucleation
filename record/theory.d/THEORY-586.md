@@ -11,7 +11,13 @@ promote_when: >-
   cannot settle it, because it amounts to predictive incompleteness of ψ
   and so counts Bohmian mechanics as epistemic. Another informal example
   of a term both ontic and epistemic cannot settle it either.
-title: "The ψ-ontology theorems exclude only overlap of the distributions that distinct quantum states induce over ontic states; overlap is sufficient but not necessary for reading ψ as knowledge, so a model in which the state is ψ-ontic in Harrigan and Spekkens' sense can still have ψ represent partial knowledge"
+title: 'ψ-ontic states can still represent knowledge'
+statement: >-
+  The ψ-ontology theorems exclude only overlap of the distributions that
+  distinct quantum states induce over ontic states; overlap is sufficient
+  but not necessary for reading ψ as knowledge, so a model in which the
+  state is ψ-ontic in Harrigan and Spekkens' sense can still have ψ
+  represent partial knowledge
 version: 1
 tags:
 - quantum-foundations
@@ -35,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-200 — Proposed; read in full in NOTE-154 and named in Connections -->
 <!-- inactive-ok-file: THEORY-631 THEORY-669 — Proposed; named in Connections, not leaned on -->
 
-# THEORY-586: The ψ-ontology theorems exclude only overlap of the distributions that distinct quantum states induce over ontic states; overlap is sufficient but not necessary for reading ψ as knowledge, so a model in which the state is ψ-ontic in Harrigan and Spekkens' sense can still have ψ represent partial knowledge
+# THEORY-586: ψ-ontic states can still represent knowledge
 
 ## Source
 

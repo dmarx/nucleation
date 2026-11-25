@@ -3,7 +3,13 @@ number: 1001
 status: Proposed
 formerly:
 - CLAIM-tmp0ww8w
-title: 'A shared governed record can construct the niches in which different epistemic dispositions stay useful, keeping objections addressable for a critic and relations inspectable for a synthesizer; it keeps an ecology of perspectives rather than a monoculture only if the perspectives it organizes can revise its structure'
+title: 'A governed record can build epistemic niches'
+statement: >-
+  A shared governed record can construct the niches in which different
+  epistemic dispositions stay useful, keeping objections addressable for a
+  critic and relations inspectable for a synthesizer; it keeps an ecology of
+  perspectives rather than a monoculture only if the perspectives it
+  organizes can revise its structure
 version: 1
 history:
 - version: 1
@@ -52,7 +58,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-119 CLAIM-181 THEORY-446 THEORY-612 TERM-162 — Proposed; the shared epistemic state this is stated in, the grammar claim it complements, the readings on niche construction, and the term filed with it on 2026-11-22 -->
 
-# CLAIM-1001: A shared governed record can construct the niches in which different epistemic dispositions stay useful, keeping objections addressable for a critic and relations inspectable for a synthesizer; it keeps an ecology of perspectives rather than a monoculture only if the perspectives it organizes can revise its structure
+# CLAIM-1001: A governed record can build epistemic niches
 
 ## The claim
 

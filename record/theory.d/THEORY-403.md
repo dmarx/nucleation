@@ -3,7 +3,14 @@ number: 403
 status: Active
 formerly:
 - THEORY-tmp065ii
-title: "The single-photon Mach–Zehnder phenomenology with balanced beamsplitters and phases 0 or π, including which-way detection, the bomb tester, delayed choice and the quantum eraser, is reproduced exactly by a local, deterministic classical field model with an epistemic restriction, so that slice of interference forces neither complementarity, nor observer-dependent reality, nor nonlocality"
+title: 'Classical toy field reproduces Mach–Zehnder'
+statement: >-
+  The single-photon Mach–Zehnder phenomenology with balanced beamsplitters
+  and phases 0 or π, including which-way detection, the bomb tester, delayed
+  choice and the quantum eraser, is reproduced exactly by a local,
+  deterministic classical field model with an epistemic restriction, so that
+  slice of interference forces neither complementarity, nor
+  observer-dependent reality, nor nonlocality
 version: 1
 tags:
 - quantum-foundations
@@ -25,7 +32,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-010 THEORY-586 — Proposed; named in Connections as related accounts, not leaned on -->
 
-# THEORY-403: The single-photon Mach–Zehnder phenomenology with balanced beamsplitters and phases 0 or π, including which-way detection, the bomb tester, delayed choice and the quantum eraser, is reproduced exactly by a local, deterministic classical field model with an epistemic restriction, so that slice of interference forces neither complementarity, nor observer-dependent reality, nor nonlocality
+# THEORY-403: Classical toy field reproduces Mach–Zehnder
 
 ## Source
 

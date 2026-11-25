@@ -11,7 +11,14 @@ promote_when: >-
   that holding corporations responsible, as distinct from their members,
   changes corporate conduct in the way a regulative practice should. A
   philosophical consensus for or against would not settle either.
-title: 'A corporation that forms its judgments through authorised avowal and corrects the inconsistency any mechanical aggregation of its members'' views produces has a mind of its own, and as a conversable agent it meets the conditions for being fit to be held responsible: a significant choice, the capacity to judge its options normatively, and control over acting on that judgment'
+title: 'Corporations can be responsible agents'
+statement: >-
+  A corporation that forms its judgments through authorised avowal and
+  corrects the inconsistency any mechanical aggregation of its members'
+  views produces has a mind of its own, and as a conversable agent it meets
+  the conditions for being fit to be held responsible: a significant choice,
+  the capacity to judge its options normatively, and control over acting on
+  that judgment
 version: 4
 history:
 - version: 2
@@ -60,7 +67,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-536 — Proposed; the authors' replies and the realization-insensitivity account, named in Connections, not leaned on -->
 <!-- inactive-ok-file: LIT-742 — Unavailable, unread; Responsibility Incorporated, named as the paper the 2017 chapter restates -->
 
-# THEORY-139: A corporation that forms its judgments through authorised avowal and corrects the inconsistency any mechanical aggregation of its members' views produces has a mind of its own, and as a conversable agent it meets the conditions for being fit to be held responsible: a significant choice, the capacity to judge its options normatively, and control over acting on that judgment
+# THEORY-139: Corporations can be responsible agents
 
 ## Source
 

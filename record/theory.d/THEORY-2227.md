@@ -10,7 +10,12 @@ promote_when: >-
   an eighth of the conspicuous rate, and that fronto-parietal switch BOLD
   matched a response proportional to that reportability. A replication of
   the proportionality in another sample would also promote it.
-title: 'When binocular rivalry switches are made so inconspicuous that observers rarely detect them, fronto-parietal BOLD responses to the switches shrink in proportion to their reportability, so those responses reflect noticing a switch rather than causing it'
+title: 'Frontoparietal rivalry activity tracks report'
+statement: >-
+  When binocular rivalry switches are made so inconspicuous that observers
+  rarely detect them, fronto-parietal BOLD responses to the switches shrink
+  in proportion to their reportability, so those responses reflect noticing
+  a switch rather than causing it
 version: 1
 tags:
 - consciousness
@@ -35,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-094 — Proposed; the account this reading tests -->
 
-# THEORY-2227: When binocular rivalry switches are made so inconspicuous that observers rarely detect them, fronto-parietal BOLD responses to the switches shrink in proportion to their reportability, so those responses reflect noticing a switch rather than causing it
+# THEORY-2227: Frontoparietal rivalry activity tracks report
 
 Brascamp, Blake and Knapen (2015), [LIT-3089](../literature.d/LIT-3089.md), read in [NOTE-2317](../notes.d/NOTE-2317.md).
 

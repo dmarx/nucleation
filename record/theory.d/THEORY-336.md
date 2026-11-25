@@ -3,7 +3,14 @@ number: 336
 status: Active
 formerly:
 - THEORY-tmpabyf2
-title: 'An ideal observer is optimal relative to the information it is given, so a constrained ideal is the optimal decoder of a degraded input, not a restricted decoder of the full one; comparing real observers with ideals taken at successive stages of the visual system places losses by stage, and in early-vision tasks human performance is reported often to parallel the retinal-stage ideal across conditions while falling well below it'
+title: 'Ideal-observer stages locate perceptual losses'
+statement: >-
+  An ideal observer is optimal relative to the information it is given, so a
+  constrained ideal is the optimal decoder of a degraded input, not a
+  restricted decoder of the full one; comparing real observers with ideals
+  taken at successive stages of the visual system places losses by stage,
+  and in early-vision tasks human performance is reported often to parallel
+  the retinal-stage ideal across conditions while falling well below it
 version: 2
 history:
 - version: 2
@@ -56,7 +63,7 @@ bears_on:
 - QUESTION-103
 ---
 
-# THEORY-336: An ideal observer is optimal relative to the information it is given, so a constrained ideal is the optimal decoder of a degraded input, not a restricted decoder of the full one; comparing real observers with ideals taken at successive stages of the visual system places losses by stage, and in early-vision tasks human performance is reported often to parallel the retinal-stage ideal across conditions while falling well below it
+# THEORY-336: Ideal-observer stages locate perceptual losses
 
 ## Source
 

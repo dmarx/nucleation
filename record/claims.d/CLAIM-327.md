@@ -3,7 +3,12 @@ number: 327
 status: Proposed
 formerly:
 - CLAIM-tmp11auq
-title: 'A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective''s dynamics and not only an observer''s average when its members read it, condition what they do on it, and by doing so regenerate it'
+title: 'Collective variables are dynamics when read'
+statement: >-
+  A slowly changing collective variable, such as a reputation, a rivalry or
+  a standing, is part of a collective's dynamics and not only an observer's
+  average when its members read it, condition what they do on it, and by
+  doing so regenerate it
 version: 3
 history:
 - version: 2
@@ -57,7 +62,7 @@ works:
 <!-- inactive-ok-file: THEORY-2288 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1840 LIT-1828 — Unavailable since 2026-10-29; the two Flack 2006 papers, cited in the note of that date as not reached, nothing here rests on them -->
-# CLAIM-327: A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it
+# CLAIM-327: Collective variables are dynamics when read
 
 ## The claim
 

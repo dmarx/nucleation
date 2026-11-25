@@ -3,7 +3,15 @@ number: 1932
 status: Proposed
 formerly:
 - THEORY-tmpesp6v
-title: 'The NTSB found that the probable cause of the 2018 Tempe crash of an Uber ATG test vehicle was its operator''s failure to monitor the road because she was distracted by her phone, that the automated driving system was designed to rely on the operator to avoid collisions, and that Uber ATG''s inadequate safety culture, through poor risk assessment, rarely exercised oversight and no countermeasures to automation complacency, contributed to the crash and to the operator''s distraction itself'
+title: 'Uber safety culture contributed to Tempe crash'
+statement: >-
+  The NTSB found that the probable cause of the 2018 Tempe crash of an Uber
+  ATG test vehicle was its operator's failure to monitor the road because
+  she was distracted by her phone, that the automated driving system was
+  designed to rely on the operator to avoid collisions, and that Uber ATG's
+  inadequate safety culture, through poor risk assessment, rarely exercised
+  oversight and no countermeasures to automation complacency, contributed to
+  the crash and to the operator's distraction itself
 version: 2
 history:
 - version: 2
@@ -41,7 +49,7 @@ corroborates:
 <!-- inactive-ok-file: CASE-292 CLAIM-707 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmp4utz4 — removed at the reconciliation of 2026-11-18; named for provenance -->
 
-# THEORY-1932: The NTSB found that the probable cause of the 2018 Tempe crash of an Uber ATG test vehicle was its operator's failure to monitor the road because she was distracted by her phone, that the automated driving system was designed to rely on the operator to avoid collisions, and that Uber ATG's inadequate safety culture, through poor risk assessment, rarely exercised oversight and no countermeasures to automation complacency, contributed to the crash and to the operator's distraction itself
+# THEORY-1932: Uber safety culture contributed to Tempe crash
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 920
 status: Active
 formerly:
 - THEORY-tmpmfnl0
-title: 'As Mancinelli and Bach''s systematic review reports it, rating it B, in three laboratory studies of healthy humans a signalled, costless avoidance response offered for a stimulus never paired with the aversive outcome was used, and withdrawing it raised expectancy of the outcome for that stimulus, though Xia et al. (2019) found no change in skin conductance or startle; every study signalled the response''s availability, which may itself have read as a danger cue'
+title: 'Avoidance of safe stimuli raises expectancy'
+statement: >-
+  As Mancinelli and Bach's systematic review reports it, rating it B, in
+  three laboratory studies of healthy humans a signalled, costless avoidance
+  response offered for a stimulus never paired with the aversive outcome was
+  used, and withdrawing it raised expectancy of the outcome for that
+  stimulus, though Xia et al. (2019) found no change in skin conductance or
+  startle; every study signalled the response's availability, which may
+  itself have read as a danger cue
 version: 2
 history:
 - version: 2
@@ -40,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and companion reading this bears on, named -->
 <!-- inactive-ok-file: LIT-1498 — Deferred; the work on danger inferred from safety behaviour, named for comparison -->
 
-# THEORY-920: As Mancinelli and Bach's systematic review reports it, rating it B, in three laboratory studies of healthy humans a signalled, costless avoidance response offered for a stimulus never paired with the aversive outcome was used, and withdrawing it raised expectancy of the outcome for that stimulus, though Xia et al. (2019) found no change in skin conductance or startle; every study signalled the response's availability, which may itself have read as a danger cue
+# THEORY-920: Avoidance of safe stimuli raises expectancy
 
 ## Source
 

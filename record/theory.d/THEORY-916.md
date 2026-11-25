@@ -10,7 +10,18 @@ promote_when: >-
   a published independent proof or extension that restates Theorem 4.1
   and Proposition 4.2. The theorems are refuted only by an error in the
   proofs. Simulations of the model cannot settle it.
-title: "In the DeGroot–Friedkin model, where a group reaches DeGroot consensus on each issue and each member's self-weight on the next issue equals their control over the last, with fixed relative interpersonal weights that form a strongly connected network, self-weights converge from every non-autocratic start to one equilibrium ordered by the eigenvector centralities of those weights: power accumulates above a centrality threshold, is autocratic exactly when the network is a star and democratic exactly when it is doubly stochastic; and in the networks that are not strongly connected that the authors treat, members to whom some other member does not listen, even indirectly, end with none"
+title: 'Influence power accumulates by centrality'
+statement: >-
+  In the DeGroot–Friedkin model, where a group reaches DeGroot consensus on
+  each issue and each member's self-weight on the next issue equals their
+  control over the last, with fixed relative interpersonal weights that form
+  a strongly connected network, self-weights converge from every
+  non-autocratic start to one equilibrium ordered by the eigenvector
+  centralities of those weights: power accumulates above a centrality
+  threshold, is autocratic exactly when the network is a star and democratic
+  exactly when it is doubly stochastic; and in the networks that are not
+  strongly connected that the authors treat, members to whom some other
+  member does not listen, even indirectly, end with none
 version: 2
 history:
 - version: 2
@@ -69,7 +80,7 @@ bears_on:
 - QUESTION-348
 ---
 
-# THEORY-916: In the DeGroot–Friedkin model, where a group reaches DeGroot consensus on each issue and each member's self-weight on the next issue equals their control over the last, with fixed relative interpersonal weights that form a strongly connected network, self-weights converge from every non-autocratic start to one equilibrium ordered by the eigenvector centralities of those weights: power accumulates above a centrality threshold, is autocratic exactly when the network is a star and democratic exactly when it is doubly stochastic; and in the networks that are not strongly connected that the authors treat, members to whom some other member does not listen, even indirectly, end with none
+# THEORY-916: Influence power accumulates by centrality
 
 ## Source
 

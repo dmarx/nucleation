@@ -3,7 +3,14 @@ number: 2087
 status: Proposed
 formerly:
 - THEORY-tmp51mqd
-title: 'Zhang, Lepori and Pavlick find that a frozen subnetwork computing a shared arithmetic subtask, isolated by a weight mask in a small transformer and transplanted into a fresh one, lets it learn a target containing that subtask from about a thousand disambiguating samples, at least as efficiently as transferring the whole trained model, while a same-size random subnetwork of the trained model needs about six times as much data'
+title: 'Transplanted subnetworks speed subtask learning'
+statement: >-
+  Zhang, Lepori and Pavlick find that a frozen subnetwork computing a shared
+  arithmetic subtask, isolated by a weight mask in a small transformer and
+  transplanted into a fresh one, lets it learn a target containing that
+  subtask from about a thousand disambiguating samples, at least as
+  efficiently as transferring the whole trained model, while a same-size
+  random subnetwork of the trained model needs about six times as much data
 version: 1
 source:
 - LIT-2879
@@ -29,7 +36,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2087: Zhang, Lepori and Pavlick find that a frozen subnetwork computing a shared arithmetic subtask, isolated by a weight mask in a small transformer and transplanted into a fresh one, lets it learn a target containing that subtask from about a thousand disambiguating samples, at least as efficiently as transferring the whole trained model, while a same-size random subnetwork of the trained model needs about six times as much data
+# THEORY-2087: Transplanted subnetworks speed subtask learning
 
 ## The account
 

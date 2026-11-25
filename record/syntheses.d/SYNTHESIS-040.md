@@ -3,7 +3,15 @@ number: 40
 status: Proposed
 formerly:
 - SYNTHESIS-tmpj2fl0
-title: 'A system''s budgeted individuation is indexed by two budgets that run in opposite directions, observing splitting what can be told apart and acting under peak costs merging what can be turned into one another, so the two partitions agree only on levels common to both chains, which the order of probe costs decides; which category and enrichment is chosen fixes what counts as the same, and neither isomorphism nor a profile settles persistence'
+title: 'Two budgets index individuation, run opposite'
+statement: >-
+  A system's budgeted individuation is indexed by two budgets that run in
+  opposite directions, observing splitting what can be told apart and acting
+  under peak costs merging what can be turned into one another, so the two
+  partitions agree only on levels common to both chains, which the order of
+  probe costs decides; which category and enrichment is chosen fixes what
+  counts as the same, and neither isomorphism nor a profile settles
+  persistence
 version: 2
 history:
 - version: 2
@@ -47,7 +55,7 @@ integrates:
 ---
 <!-- inactive-ok-file: CASE-236 CLAIM-646 CASE-240 CASE-220 CLAIM-615 TERM-116 — Proposed; components and citations, with their standing -->
 
-# SYNTHESIS-040: A system's budgeted individuation is indexed by two budgets that run in opposite directions, observing splitting what can be told apart and acting under peak costs merging what can be turned into one another, so the two partitions agree only on levels common to both chains, which the order of probe costs decides; which category and enrichment is chosen fixes what counts as the same, and neither isomorphism nor a profile settles persistence
+# SYNTHESIS-040: Two budgets index individuation, run opposite
 
 *A part account of the realizability line: the part filed from A's pastes
 on Yoneda, individuation and resource-bounded objects (2026-11-05) and the

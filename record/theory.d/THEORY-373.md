@@ -3,7 +3,15 @@ number: 373
 status: Active
 formerly:
 - THEORY-tmpeqxfa
-title: "For positive relational algebra on relations whose tuples are annotated from a commutative semiring, every query's annotated answer equals its answer over provenance polynomials N[X] in the input tuple ids, evaluated at the input annotations, so set, bag, c-table and event-table semantics all factor through the polynomials; revaluing inputs can remove output tuples but never add them, and nothing is shown for negation, difference or aggregation"
+title: 'Semiring provenance factors through polynomials'
+statement: >-
+  For positive relational algebra on relations whose tuples are annotated
+  from a commutative semiring, every query's annotated answer equals its
+  answer over provenance polynomials N[X] in the input tuple ids, evaluated
+  at the input annotations, so set, bag, c-table and event-table semantics
+  all factor through the polynomials; revaluing inputs can remove output
+  tuples but never add them, and nothing is shown for negation, difference
+  or aggregation
 version: 1
 tags:
 - databases
@@ -26,7 +34,7 @@ bears_on:
 - QUESTION-105
 ---
 
-# THEORY-373: For positive relational algebra on relations whose tuples are annotated from a commutative semiring, every query's annotated answer equals its answer over provenance polynomials N[X] in the input tuple ids, evaluated at the input annotations, so set, bag, c-table and event-table semantics all factor through the polynomials; revaluing inputs can remove output tuples but never add them, and nothing is shown for negation, difference or aggregation
+# THEORY-373: Semiring provenance factors through polynomials
 
 ## Source
 

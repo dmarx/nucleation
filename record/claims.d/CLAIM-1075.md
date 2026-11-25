@@ -3,7 +3,14 @@ number: 1075
 status: Active
 formerly:
 - CLAIM-tmpcsh5p
-title: 'For an adaptive inquiry the achievement is not flow as a state but flow-regulation as an organizational capability: to enter, sustain, interrupt and recover fluent coordination without losing the history of what was learned, so that a coordination system should remove the interruptions that rediscover what was settled while keeping those that expose an unaddressed objection or an inadequate premise'
+title: 'Flow-regulation, not flow, is the achievement'
+statement: >-
+  For an adaptive inquiry the achievement is not flow as a state but
+  flow-regulation as an organizational capability: to enter, sustain,
+  interrupt and recover fluent coordination without losing the history of
+  what was learned, so that a coordination system should remove the
+  interruptions that rediscover what was settled while keeping those that
+  expose an unaddressed objection or an inadequate premise
 version: 2
 history:
 - version: 2
@@ -60,7 +67,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-710 CLAIM-711 CLAIM-162 CLAIM-181 — Proposed; neighbours and the claim filed beside this one -->
 
-# CLAIM-1075: For an adaptive inquiry the achievement is not flow as a state but flow-regulation as an organizational capability: to enter, sustain, interrupt and recover fluent coordination without losing the history of what was learned, so that a coordination system should remove the interruptions that rediscover what was settled while keeping those that expose an unaddressed objection or an inadequate premise
+# CLAIM-1075: Flow-regulation, not flow, is the achievement
 
 ## The claim
 

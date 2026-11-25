@@ -3,7 +3,13 @@ number: 2060
 status: Proposed
 formerly:
 - THEORY-tmp5jrhv
-title: 'Nishida and colleagues find that if a pretraining example''s influence is measured as how much its update shortens the parameter distance to the run''s final weights, then in Pythia runs literature-classified examples are relatively prominent among the most influential early and STEM examples later, and high-perplexity text is most influential mid-training'
+title: 'Influential data shift from literature to STEM'
+statement: >-
+  Nishida and colleagues find that if a pretraining example's influence is
+  measured as how much its update shortens the parameter distance to the
+  run's final weights, then in Pythia runs literature-classified examples
+  are relatively prominent among the most influential early and STEM
+  examples later, and high-perplexity text is most influential mid-training
 version: 1
 source:
 - LIT-2851
@@ -23,7 +29,7 @@ summary: >-
   order. Proposed until its promote_when is met.
 ---
 
-# THEORY-2060: Nishida and colleagues find that if a pretraining example's influence is measured as how much its update shortens the parameter distance to the run's final weights, then in Pythia runs literature-classified examples are relatively prominent among the most influential early and STEM examples later, and high-perplexity text is most influential mid-training
+# THEORY-2060: Influential data shift from literature to STEM
 
 ## The account
 

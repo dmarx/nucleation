@@ -3,7 +3,15 @@ number: 2159
 status: Proposed
 formerly:
 - THEORY-tmpklef6
-title: 'Acharya, Rimal and Dhakal find that in 17 decoder-only language models, word-level concept directions taken from final-layer activations put less of their Euclidean energy in the top eigendirections of the unembedding''s regularized second moment, the unembedding''s right singular basis, than a uniform-in-variance baseline, and more in its tail than norm-matched random directions in 13 of the 17, while differences of the same concepts'' unembedding rows lean toward the top eigendirections'
+title: 'Concept directions avoid top unembedding modes'
+statement: >-
+  Acharya, Rimal and Dhakal find that in 17 decoder-only language models,
+  word-level concept directions taken from final-layer activations put less
+  of their Euclidean energy in the top eigendirections of the unembedding's
+  regularized second moment, the unembedding's right singular basis, than a
+  uniform-in-variance baseline, and more in its tail than norm-matched
+  random directions in 13 of the 17, while differences of the same concepts'
+  unembedding rows lean toward the top eigendirections
 promote_when: >-
   An independent replication, or the authors' released code run on at
   least the four models of Table 10, reproduces both the activation-side
@@ -27,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-852 — Proposed or new; the reading this account comes from and the claim filed on its sign flip -->
 
-# THEORY-2159: Acharya, Rimal and Dhakal find that in 17 decoder-only language models, word-level concept directions taken from final-layer activations put less of their Euclidean energy in the top eigendirections of the unembedding's regularized second moment, the unembedding's right singular basis, than a uniform-in-variance baseline, and more in its tail than norm-matched random directions in 13 of the 17, while differences of the same concepts' unembedding rows lean toward the top eigendirections
+# THEORY-2159: Concept directions avoid top unembedding modes
 
 ## Source
 

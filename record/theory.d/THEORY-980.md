@@ -3,7 +3,16 @@ number: 980
 status: Active
 formerly:
 - THEORY-tmpccb5u
-title: 'In GPT-2 small on fifteen templates of indirect object identification, a circuit of 26 attention heads in seven classes, found by path patching, keeps 87% of the model''s mean logit difference when every other head is mean-ablated; knocking out its three main name mover heads costs only 5%, because other heads take over, and knockout sets found by greedy search make the circuit and the full model differ by up to 87% of the logit difference, so the circuit is faithful on average and incomplete under knockouts'
+title: 'IOI circuit faithful on average, not complete'
+statement: >-
+  In GPT-2 small on fifteen templates of indirect object identification, a
+  circuit of 26 attention heads in seven classes, found by path patching,
+  keeps 87% of the model's mean logit difference when every other head is
+  mean-ablated; knocking out its three main name mover heads costs only 5%,
+  because other heads take over, and knockout sets found by greedy search
+  make the circuit and the full model differ by up to 87% of the logit
+  difference, so the circuit is faithful on average and incomplete under
+  knockouts
 version: 2
 history:
 - version: 1
@@ -45,7 +54,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-995 — Proposed; the hypothesis for the backups, cited as open -->
 
-# THEORY-980: In GPT-2 small on fifteen templates of indirect object identification, a circuit of 26 attention heads in seven classes, found by path patching, keeps 87% of the model's mean logit difference when every other head is mean-ablated; knocking out its three main name mover heads costs only 5%, because other heads take over, and knockout sets found by greedy search make the circuit and the full model differ by up to 87% of the logit difference, so the circuit is faithful on average and incomplete under knockouts
+# THEORY-980: IOI circuit faithful on average, not complete
 
 ## Source
 

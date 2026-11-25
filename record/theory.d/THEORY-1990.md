@@ -9,7 +9,13 @@ promote_when: >-
   of chapter 2 (pp. 35–63) confirms that Shue's correlative duties are of
   avoidance, protection and aid. Whether subsistence is a basic right is
   not asserted.
-title: 'Shue argues that rights to subsistence, security and liberty are basic rights, so that subsistence rights share the highest priority with security and liberty, that defending them chiefly means answering the objection that their correlative duties ask too much of others, and that those duties are of avoidance, protection and aid'
+title: 'Subsistence is a basic right like security'
+statement: >-
+  Shue argues that rights to subsistence, security and liberty are basic
+  rights, so that subsistence rights share the highest priority with
+  security and liberty, that defending them chiefly means answering the
+  objection that their correlative duties ask too much of others, and that
+  those duties are of avoidance, protection and aid
 version: 1
 tags:
 - ethics
@@ -28,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2076 — Skimmed; the reading -->
 
-# THEORY-1990: Shue argues that rights to subsistence, security and liberty are basic rights, so that subsistence rights share the highest priority with security and liberty, that defending them chiefly means answering the objection that their correlative duties ask too much of others, and that those duties are of avoidance, protection and aid
+# THEORY-1990: Subsistence is a basic right like security
 
 Shue, *Basic Rights* (1980; 2020), [LIT-2750](../literature.d/LIT-2750.md).
 

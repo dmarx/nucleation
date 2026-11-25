@@ -3,7 +3,15 @@ number: 313
 status: Active
 formerly:
 - THEORY-tmpiu6h1
-title: "With a kernel normalised to k(x,x) = 1, the covariance operator of a distribution is a density operator, and its quantum relative entropy is a lower bound on the Kullback–Leibler divergence that is tight for every pair of distributions only for an orthonormal, hence discrete, embedding, lies above the KL of the kernel-smoothed distributions, and on the torus, with Fourier coefficients proportional to e^(−σ‖ω‖₁) and strictly positive Lipschitz densities, is within O(σ²) of KL as the bandwidth σ shrinks"
+title: 'Kernel quantum relative entropy lower-bounds KL'
+statement: >-
+  With a kernel normalised to k(x,x) = 1, the covariance operator of a
+  distribution is a density operator, and its quantum relative entropy is a
+  lower bound on the Kullback–Leibler divergence that is tight for every
+  pair of distributions only for an orthonormal, hence discrete, embedding,
+  lies above the KL of the kernel-smoothed distributions, and on the torus,
+  with Fourier coefficients proportional to e^(−σ‖ω‖₁) and strictly positive
+  Lipschitz densities, is within O(σ²) of KL as the bandwidth σ shrinks
 version: 4
 history:
 - version: 2
@@ -58,7 +66,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-811 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-001 THEORY-005 — Proposed; accounts this one is set beside and does not rest on -->
 
-# THEORY-313: With a kernel normalised to k(x,x) = 1, the covariance operator of a distribution is a density operator, and its quantum relative entropy is a lower bound on the Kullback–Leibler divergence that is tight for every pair of distributions only for an orthonormal, hence discrete, embedding, lies above the KL of the kernel-smoothed distributions, and on the torus, with Fourier coefficients proportional to e^(−σ‖ω‖₁) and strictly positive Lipschitz densities, is within O(σ²) of KL as the bandwidth σ shrinks
+# THEORY-313: Kernel quantum relative entropy lower-bounds KL
 
 ## Source
 

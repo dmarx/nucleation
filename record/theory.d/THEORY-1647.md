@@ -3,7 +3,14 @@ number: 1647
 status: Proposed
 formerly:
 - THEORY-tmp0m6ek
-title: 'Liang, Li, Aroles and Granter, reviewing 47 management-journal studies of content creators and platform algorithms, argue that platforms control nominally autonomous creators chiefly by allocating visibility through opaque algorithms, and that creators'' metric-driven self-management and their folk theories of the algorithm, which platforms can dismiss as its authoritative interpreter, sustain that control rather than challenge it.'
+title: 'Platforms control creators by visibility'
+statement: >-
+  Liang, Li, Aroles and Granter, reviewing 47 management-journal studies of
+  content creators and platform algorithms, argue that platforms control
+  nominally autonomous creators chiefly by allocating visibility through
+  opaque algorithms, and that creators' metric-driven self-management and
+  their folk theories of the algorithm, which platforms can dismiss as its
+  authoritative interpreter, sustain that control rather than challenge it.
 version: 1
 source:
 - LIT-2390
@@ -29,7 +36,7 @@ summary: >-
   e.g.
 ---
 
-# THEORY-1647: Liang, Li, Aroles and Granter, reviewing 47 management-journal studies of content creators and platform algorithms, argue that platforms control nominally autonomous creators chiefly by allocating visibility through opaque algorithms, and that creators' metric-driven self-management and their folk theories of the algorithm, which platforms can dismiss as its authoritative interpreter, sustain that control rather than challenge it.
+# THEORY-1647: Platforms control creators by visibility
 
 ## The account
 

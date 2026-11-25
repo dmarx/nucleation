@@ -3,7 +3,12 @@ number: 144
 status: Active
 formerly:
 - CLAIM-tmpersh3
-title: 'Inertial observers who disagree about temporal order differ in coordinates, not in a failure to glue: only spacelike-separated events change order between frames, and frames are global charts related by a group action'
+title: 'Frame-relative order is coordinates, not gluing'
+statement: >-
+  Inertial observers who disagree about temporal order differ in
+  coordinates, not in a failure to glue: only spacelike-separated events
+  change order between frames, and frames are global charts related by a
+  group action
 version: 1
 role: granted
 warrant: demonstrated
@@ -32,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-010 — Rejected; cited as the inference this claim undercuts -->
 
-# CLAIM-144: Inertial observers who disagree about temporal order differ in coordinates, not in a failure to glue: only spacelike-separated events change order between frames, and frames are global charts related by a group action
+# CLAIM-144: Frame-relative order is coordinates, not gluing
 
 ## The claim
 

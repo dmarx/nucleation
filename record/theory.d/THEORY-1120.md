@@ -3,7 +3,16 @@ number: 1120
 status: Active
 formerly:
 - THEORY-tmp0k3ls
-title: 'On 416 translations into English by four LLMs of 104 culturally loaded utterances in Hindi, Punjabi, Tamil and Malayalam, each scored for pragmatic adequacy by one native rater per language, the reference-based COMET metric correlates with the ratings at Pearson r = 0.813 and Spearman ρ = 0.860, against r 0.80 and ρ 0.79 for XCOMET and r 0.73 and ρ 0.79 for MetricX, with no test of the differences; four outputs picked after the fact that invert or misplace the source''s meaning get COMET scores of 0.65–0.86 against the rater''s 1 or 2'
+title: 'COMET tracks pragmatic adequacy at r = 0.81'
+statement: >-
+  On 416 translations into English by four LLMs of 104 culturally loaded
+  utterances in Hindi, Punjabi, Tamil and Malayalam, each scored for
+  pragmatic adequacy by one native rater per language, the reference-based
+  COMET metric correlates with the ratings at Pearson r = 0.813 and Spearman
+  ρ = 0.860, against r 0.80 and ρ 0.79 for XCOMET and r 0.73 and ρ 0.79 for
+  MetricX, with no test of the differences; four outputs picked after the
+  fact that invert or misplace the source's meaning get COMET scores of
+  0.65–0.86 against the rater's 1 or 2
 version: 3
 history:
 - version: 2
@@ -56,7 +65,7 @@ bears_on:
 - QUESTION-355
 ---
 
-# THEORY-1120: On 416 translations into English by four LLMs of 104 culturally loaded utterances in Hindi, Punjabi, Tamil and Malayalam, each scored for pragmatic adequacy by one native rater per language, the reference-based COMET metric correlates with the ratings at Pearson r = 0.813 and Spearman ρ = 0.860, against r 0.80 and ρ 0.79 for XCOMET and r 0.73 and ρ 0.79 for MetricX, with no test of the differences; four outputs picked after the fact that invert or misplace the source's meaning get COMET scores of 0.65–0.86 against the rater's 1 or 2
+# THEORY-1120: COMET tracks pragmatic adequacy at r = 0.81
 
 ## Source
 

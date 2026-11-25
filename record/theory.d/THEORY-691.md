@@ -16,7 +16,13 @@ promote_when: >-
   making a self more determinate. More split-brain and dissociative-identity
   cases cannot settle it: the essay reads them through Gazzaniga, and they
   fit a self that is found as well as one that is posited.
-title: "A self is an abstractum like a centre of gravity, posited by interpreting a person's behaviour and talk, the brain's own autobiography included; it is as determinate as that story, it can be authored by a process with no self in it, and a body holds as many selves as the points the best story coheres around"
+title: 'The self is a narrative centre of gravity'
+statement: >-
+  A self is an abstractum like a centre of gravity, posited by interpreting
+  a person's behaviour and talk, the brain's own autobiography included; it
+  is as determinate as that story, it can be authored by a process with no
+  self in it, and a body holds as many selves as the points the best story
+  coheres around
 version: 1
 tags:
 - self
@@ -37,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-458 THEORY-490 THEORY-681 THEORY-684 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 THEORY-043 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 
-# THEORY-691: A self is an abstractum like a centre of gravity, posited by interpreting a person's behaviour and talk, the brain's own autobiography included; it is as determinate as that story, it can be authored by a process with no self in it, and a body holds as many selves as the points the best story coheres around
+# THEORY-691: The self is a narrative centre of gravity
 
 ## Source
 

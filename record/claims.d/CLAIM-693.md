@@ -3,7 +3,15 @@ number: 693
 status: Proposed
 formerly:
 - CLAIM-tmpicwgd
-title: 'The interventions needed to find that a structure''s maintenance comes from outside grow with how much of the internal production law the outside maintainer reproduces: a supply that ignores the structure''s state is exposed by perturbing the state, one that runs the law on a delayed reading of the state is exposed only by perturbations faster than its delay, and one that runs the exact law on the present state is exposed only by intervening on the production mechanism'
+title: 'Detecting outside maintenance scales with mimicry'
+statement: >-
+  The interventions needed to find that a structure's maintenance comes from
+  outside grow with how much of the internal production law the outside
+  maintainer reproduces: a supply that ignores the structure's state is
+  exposed by perturbing the state, one that runs the law on a delayed
+  reading of the state is exposed only by perturbations faster than its
+  delay, and one that runs the exact law on the present state is exposed
+  only by intervening on the production mechanism
 version: 1
 role: thesis
 warrant: demonstrated
@@ -40,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-268 CASE-265 — Proposed or new; the constructions the claim rests on -->
 
-# CLAIM-693: The interventions needed to find that a structure's maintenance comes from outside grow with how much of the internal production law the outside maintainer reproduces: a supply that ignores the structure's state is exposed by perturbing the state, one that runs the law on a delayed reading of the state is exposed only by perturbations faster than its delay, and one that runs the exact law on the present state is exposed only by intervening on the production mechanism
+# CLAIM-693: Detecting outside maintenance scales with mimicry
 
 ## The demonstration
 

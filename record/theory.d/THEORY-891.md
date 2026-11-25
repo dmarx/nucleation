@@ -3,7 +3,15 @@ number: 891
 status: Active
 formerly:
 - THEORY-tmpcd7cz
-title: 'In dyads of untrained dancers facing each other, shared music and visual contact each raised interpersonal movement synchrony, with no interaction detected, in different movement components: lateral and hand movements synchronized through seeing the partner, anteroposterior movements such as head bobs through the shared music, and vertical bounce through both; which factor drove a component''s synchrony was classified from its spatial direction and not from the periodicity of the synchrony'
+title: 'Music and sight sync different dance movements'
+statement: >-
+  In dyads of untrained dancers facing each other, shared music and visual
+  contact each raised interpersonal movement synchrony, with no interaction
+  detected, in different movement components: lateral and hand movements
+  synchronized through seeing the partner, anteroposterior movements such as
+  head bobs through the shared music, and vertical bounce through both;
+  which factor drove a component's synchrony was classified from its spatial
+  direction and not from the periodicity of the synchrony
 version: 3
 history:
 - version: 2
@@ -68,7 +76,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-167 THEORY-129 — Proposed or Open; the question it bears on and the accounts it sits beside, named, not leaned on -->
 
-# THEORY-891: In dyads of untrained dancers facing each other, shared music and visual contact each raised interpersonal movement synchrony, with no interaction detected, in different movement components: lateral and hand movements synchronized through seeing the partner, anteroposterior movements such as head bobs through the shared music, and vertical bounce through both; which factor drove a component's synchrony was classified from its spatial direction and not from the periodicity of the synchrony
+# THEORY-891: Music and sight sync different dance movements
 
 ## Source
 

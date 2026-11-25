@@ -3,7 +3,15 @@ number: 380
 status: Active
 formerly:
 - THEORY-tmplwy86
-title: "For datalog over a finite input instance annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when one of its derivation trees contains a tuple lying on a cycle of unit rules"
+title: 'Datalog provenance is formal power series'
+statement: >-
+  For datalog over a finite input instance annotated from a commutative
+  ω-continuous semiring, with an answer's tag defined as the sum over its
+  derivation trees of the product of its leaves' tags, the tags are the
+  least fixed point of a finite polynomial system and factor through formal
+  power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an
+  infinite coefficient exactly when one of its derivation trees contains a
+  tuple lying on a cycle of unit rules
 version: 3
 history:
 - version: 2
@@ -51,7 +59,7 @@ bears_on:
 - QUESTION-105
 ---
 
-# THEORY-380: For datalog over a finite input instance annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when one of its derivation trees contains a tuple lying on a cycle of unit rules
+# THEORY-380: Datalog provenance is formal power series
 
 ## Source
 

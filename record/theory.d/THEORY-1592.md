@@ -3,7 +3,13 @@ number: 1592
 status: Active
 formerly:
 - THEORY-tmpcrfd3
-title: 'Smith and Mackie hold that identifying with a group makes it an aspect of the self through self-categorization, so that events are appraised for what they mean to the group and emotions are felt on its behalf, with the emotion shifting with the salient membership and identification moderating it'
+title: 'Group identification yields group-based emotion'
+statement: >-
+  Smith and Mackie hold that identifying with a group makes it an aspect of
+  the self through self-categorization, so that events are appraised for
+  what they mean to the group and emotions are felt on its behalf, with the
+  emotion shifting with the salient membership and identification moderating
+  it
 version: 3
 history:
 - version: 1
@@ -48,7 +54,7 @@ corroborates:
 - CLAIM-492
 ---
 
-# THEORY-1592: Smith and Mackie hold that identifying with a group makes it an aspect of the self through self-categorization, so that events are appraised for what they mean to the group and emotions are felt on its behalf, with the emotion shifting with the salient membership and identification moderating it
+# THEORY-1592: Group identification yields group-based emotion
 
 ## The account
 

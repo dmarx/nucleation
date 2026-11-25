@@ -3,7 +3,13 @@ number: 21
 status: Active
 formerly:
 - THEORY-tmp3i3z1
-title: 'In the exact configurations of uniform superposition (regular polygons, the tetrahedron, antipodal pairs, and tegum products of these that span the hidden space, with equal norms within each factor) the features form a rank-one POVM compressed from the n-feature basis: their dimensionality-weighted projectors sum to the identity'
+title: 'Uniform superposition features form a POVM'
+statement: >-
+  In the exact configurations of uniform superposition (regular polygons,
+  the tetrahedron, antipodal pairs, and tegum products of these that span
+  the hidden space, with equal norms within each factor) the features form a
+  rank-one POVM compressed from the n-feature basis: their
+  dimensionality-weighted projectors sum to the identity
 version: 3
 history:
 - version: 2
@@ -52,7 +58,7 @@ bears_on:
 - QUESTION-145
 ---
 
-# THEORY-021: In the exact configurations of uniform superposition (regular polygons, the tetrahedron, antipodal pairs, and tegum products of these that span the hidden space, with equal norms within each factor) the features form a rank-one POVM compressed from the n-feature basis: their dimensionality-weighted projectors sum to the identity
+# THEORY-021: Uniform superposition features form a POVM
 
 ## Source
 

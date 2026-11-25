@@ -3,7 +3,11 @@ number: 1168
 status: Active
 formerly:
 - THEORY-tmplmes0
-title: 'In a Lotka–Volterra community with a symmetric interaction matrix, the growth-weighted biomass rᵀx strictly increases along every edge of the invasion graph, so the invasion graph has no cycles'
+title: 'Symmetric LV invasion graphs have no cycles'
+statement: >-
+  In a Lotka–Volterra community with a symmetric interaction matrix, the
+  growth-weighted biomass rᵀx strictly increases along every edge of the
+  invasion graph, so the invasion graph has no cycles
 version: 2
 history:
 - version: 1
@@ -51,7 +55,7 @@ bears_on:
 - QUESTION-132
 ---
 
-# THEORY-1168: In a Lotka–Volterra community with a symmetric interaction matrix, the growth-weighted biomass rᵀx strictly increases along every edge of the invasion graph, so the invasion graph has no cycles
+# THEORY-1168: Symmetric LV invasion graphs have no cycles
 
 ## Source
 

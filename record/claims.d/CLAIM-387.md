@@ -3,7 +3,13 @@ number: 387
 status: Active
 formerly:
 - CLAIM-tmphan8l
-title: 'Optimal deterministic information-bottleneck partitions at two budgets need not be nested: with X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the optimum is {0,1,2 | 3} for 6.91 < β < 9.26 and {0,1 | 2,3} for 9.26 < β < 16.06, two partitions neither of which refines the other'
+title: 'Deterministic IB optima need not nest'
+statement: >-
+  Optimal deterministic information-bottleneck partitions at two budgets
+  need not be nested: with X uniform on four states and binary Y with
+  P(Y=1|x) = (0, 0, 1/8, 3/8), the optimum is {0,1,2 | 3} for 6.91 < β <
+  9.26 and {0,1 | 2,3} for 9.26 < β < 16.06, two partitions neither of which
+  refines the other
 version: 3
 history:
 - version: 2
@@ -52,7 +58,7 @@ corroborates:
 works:
 - atlas
 ---
-# CLAIM-387: Optimal deterministic information-bottleneck partitions at two budgets need not be nested: with X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the optimum is {0,1,2 | 3} for 6.91 < β < 9.26 and {0,1 | 2,3} for 9.26 < β < 16.06, two partitions neither of which refines the other
+# CLAIM-387: Deterministic IB optima need not nest
 
 ## The claim
 

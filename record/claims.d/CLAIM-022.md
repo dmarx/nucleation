@@ -3,7 +3,9 @@ number: 22
 status: Active
 formerly:
 - CLAIM-tmp64xks
-title: 'Explaining practical efficacy does not settle whose the will is'
+title: 'Efficacy does not settle whose the will is'
+statement: >-
+  Explaining practical efficacy does not settle whose the will is
 version: 4
 history:
 - version: 2
@@ -44,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account of authorship, a second instance of this limit -->
 <!-- inactive-ok-file: QUESTION-011 — Deferred; set aside, and cited to say what was set aside with it -->
 
-# CLAIM-022: Explaining practical efficacy does not settle whose the will is
+# CLAIM-022: Efficacy does not settle whose the will is
 
 ## The claim
 

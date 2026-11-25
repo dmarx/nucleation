@@ -3,7 +3,14 @@ number: 582
 status: Active
 formerly:
 - CLAIM-tmpr4sof
-title: 'Under a fixed dynamical model an added hard constraint cannot enlarge the set of admissible trajectories, so it cannot enlarge what some admissible path reaches or lower the least cost of reaching it; what it can improve is a property required of every path a disturbance or a given process may take, such as robustness or reliability, and a constraint that does more has changed the mechanism'
+title: 'Hard constraints cannot enlarge reach'
+statement: >-
+  Under a fixed dynamical model an added hard constraint cannot enlarge the
+  set of admissible trajectories, so it cannot enlarge what some admissible
+  path reaches or lower the least cost of reaching it; what it can improve
+  is a property required of every path a disturbance or a given process may
+  take, such as robustness or reliability, and a constraint that does more
+  has changed the mechanism
 version: 6
 history:
 - version: 2
@@ -94,7 +101,7 @@ summary: >-
   owner's call.
 ---
 
-# CLAIM-582: Under a fixed dynamical model an added hard constraint cannot enlarge the set of admissible trajectories, so it cannot enlarge what some admissible path reaches or lower the least cost of reaching it; what it can improve is a property required of every path a disturbance or a given process may take, such as robustness or reliability, and a constraint that does more has changed the mechanism
+# CLAIM-582: Hard constraints cannot enlarge reach
 
 ## The claim
 

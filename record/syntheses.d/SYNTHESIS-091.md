@@ -50,7 +50,16 @@ history:
     some judgments of continuity, reform and obligation need histories,
     and a self-maintaining system's failure norm is proposed to be set by
     its own upkeep, while what fixes a signal's content is left open; whether such a norm is the system's own is pressed by an etiological objection, a constitutivism test and a run of the learning forager, each held in alternative readings"
-title: "What a normative judgment about an organization needs: viability does not establish what ought to persist, a judgment is well-defined only once its relata are fixed and can then be false, some judgments of continuity, reform and obligation need histories, and a self-maintaining system's failure norm is proposed to be set by its own upkeep, while what fixes a signal's content is left open; whether such a norm is the system's own is pressed by an etiological objection, a constitutivism test and a run of the learning forager, each held in alternative readings"
+title: 'Viability does not settle what ought to persist'
+statement: >-
+  What a normative judgment about an organization needs: viability does not
+  establish what ought to persist, a judgment is well-defined only once its
+  relata are fixed and can then be false, some judgments of continuity,
+  reform and obligation need histories, and a self-maintaining system's
+  failure norm is proposed to be set by its own upkeep, while what fixes a
+  signal's content is left open; whether such a norm is the system's own is
+  pressed by an etiological objection, a constitutivism test and a run of
+  the learning forager, each held in alternative readings
 defeated_if: >-
   A component misstated or misattributed here, its declared sense of
   "organization" (TERM-074) among what can be misstated; an in-force
@@ -132,7 +141,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-624 — Proposed; a citation, with its standing -->
 <!-- inactive-ok-file: LIT-2721 — Unavailable; the work the reading stands in for -->
 
-# SYNTHESIS-091: What a normative judgment about an organization needs: viability does not establish what ought to persist, a judgment is well-defined only once its relata are fixed and can then be false, some judgments of continuity, reform and obligation need histories, and a self-maintaining system's failure norm is proposed to be set by its own upkeep, while what fixes a signal's content is left open; whether such a norm is the system's own is pressed by an etiological objection, a constitutivism test and a run of the learning forager, each held in alternative readings
+# SYNTHESIS-091: Viability does not settle what ought to persist
 
 *A part account of the organizational-normativity line ("Normative judgment about organizations"), filed at the synthesis review of the line on 2026-11-15. The line's account, [SYNTHESIS-038](SYNTHESIS-038.md), is built over it and one sibling part, [SYNTHESIS-094](SYNTHESIS-094.md); the other two parts it was first built over became the line dependence-and-domination ([ADR-100](../decisions.d/ADR-100.md)). Its first nine components were mapped in [SYNTHESIS-038](SYNTHESIS-038.md) versions 1 to 3, and that mapping is kept here unchanged; the rest were filed from 2026-11-07 to 2026-11-12 and are new to any account. Version 3, at the synthesis review of 2026-11-17, integrates three more, filed from the exchange "Assess Depp Heard Abuse" that day. Version 4, at the follow-up review of 2026-11-18, records the one reading of that exchange's works that bears on a component here. Where a component declares which sense of "organization" it means ([TERM-074](../terms.d/TERM-074.md)), the account says so; where it declares none, the account says that, and assigns none.*
 

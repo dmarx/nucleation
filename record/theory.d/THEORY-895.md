@@ -18,7 +18,14 @@ promote_when: >-
   sensitization-like cue reactivity produced by a non-drug reinforcement
   schedule in a prospective design, not cross-sectional cue reactivity in
   people already diagnosed.
-title: 'Incentive sensitization: repeated drug exposure can make the mesolimbic ''wanting'' system lastingly hyper-reactive to drug cues and contexts, so that cue-triggered incentive salience grows, persists for years and even increases during abstinence, while ''liking'' need not rise and may fall; sensitized ''wanting'' can oppose the person''s cognitive desire, and incentive salience can run without any reportable change in feeling'
+title: 'Drugs sensitize wanting, not liking'
+statement: >-
+  Incentive sensitization: repeated drug exposure can make the mesolimbic
+  'wanting' system lastingly hyper-reactive to drug cues and contexts, so
+  that cue-triggered incentive salience grows, persists for years and even
+  increases during abstinence, while 'liking' need not rise and may fall;
+  sensitized 'wanting' can oppose the person's cognitive desire, and
+  incentive salience can run without any reportable change in feeling
 version: 2
 history:
 - version: 2
@@ -63,7 +70,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-893 CLAIM-433 CLAIM-439 TERM-076 — Proposed; the earlier reading and the claims and term this account bears on, cited as open -->
 
-# THEORY-895: Incentive sensitization: repeated drug exposure can make the mesolimbic 'wanting' system lastingly hyper-reactive to drug cues and contexts, so that cue-triggered incentive salience grows, persists for years and even increases during abstinence, while 'liking' need not rise and may fall; sensitized 'wanting' can oppose the person's cognitive desire, and incentive salience can run without any reportable change in feeling
+# THEORY-895: Drugs sensitize wanting, not liking
 
 ## Source
 

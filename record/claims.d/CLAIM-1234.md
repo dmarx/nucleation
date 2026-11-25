@@ -3,7 +3,13 @@ number: 1234
 status: Proposed
 formerly:
 - CLAIM-tmp5fv9h
-title: "Luria's own decision record shows Nucleation's transfer forcing changes to luria, answered as configurable mechanisms rather than code for one record: of the 22 decisions dated from Nucleation's first decision on, 17 name Nucleation, so the evidence of generality is that its misfits were answered by generalizing, not that none arose"
+title: 'Nucleation''s misfits were answered by generalizing'
+statement: >-
+  Luria's own decision record shows Nucleation's transfer forcing changes to
+  luria, answered as configurable mechanisms rather than code for one
+  record: of the 22 decisions dated from Nucleation's first decision on, 17
+  name Nucleation, so the evidence of generality is that its misfits were
+  answered by generalizing, not that none arose
 version: 1
 role: thesis
 warrant: interpretive
@@ -36,7 +42,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1247 CLAIM-1300 — Proposed or new; filed from the same exchange -->
 
-# CLAIM-1234: Luria's own decision record shows Nucleation's transfer forcing changes to luria, answered as configurable mechanisms rather than code for one record: of the 22 decisions dated from Nucleation's first decision on, 17 name Nucleation, so the evidence of generality is that its misfits were answered by generalizing, not that none arose
+# CLAIM-1234: Nucleation's misfits were answered by generalizing
 
 ## The claim
 

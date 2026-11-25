@@ -3,7 +3,15 @@ number: 89
 status: Proposed
 formerly:
 - SYNTHESIS-tmpy0g7w
-title: 'A potential is how the record tests whether some ordering prevails: on a finite set it exists exactly when winning moves never cycle and is fixed only up to a class, a least-squares gradient is a cardinal object that can reverse what the wins settle, an ordering is a currency on a finite set and not on a continuum, and in symmetric resource-mediated competition population dynamics descend a convex objective whose split into gradient and remainder depends on a chosen metric'
+title: 'A potential tests whether an ordering prevails'
+statement: >-
+  A potential is how the record tests whether some ordering prevails: on a
+  finite set it exists exactly when winning moves never cycle and is fixed
+  only up to a class, a least-squares gradient is a cardinal object that can
+  reverse what the wins settle, an ordering is a currency on a finite set
+  and not on a continuum, and in symmetric resource-mediated competition
+  population dynamics descend a convex objective whose split into gradient
+  and remainder depends on a chosen metric
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -27,7 +35,7 @@ integrates:
 <!-- inactive-ok-file: CLAIM-435 CLAIM-440 SYNTHESIS-020 SYNTHESIS-051 TERM-076 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-088 — Proposed; cited with its standing -->
 
-# SYNTHESIS-089: A potential is how the record tests whether some ordering prevails: on a finite set it exists exactly when winning moves never cycle and is fixed only up to a class, a least-squares gradient is a cardinal object that can reverse what the wins settle, an ordering is a currency on a finite set and not on a continuum, and in symmetric resource-mediated competition population dynamics descend a convex objective whose split into gradient and remainder depends on a chosen metric
+# SYNTHESIS-089: A potential tests whether an ordering prevails
 
 *A part account of the formal-apparatus line: one of the line's eleven
 small clusters, four entries on when a process has a potential and what

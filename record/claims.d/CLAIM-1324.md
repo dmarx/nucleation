@@ -3,7 +3,14 @@ number: 1324
 status: Active
 formerly:
 - CLAIM-tmpu5cap
-title: 'In A11''s model of confirmation feedback, where an agent adds each observation''s log-likelihood ratio a·y to its log odds ℓ while ℓ tilts which observations it samples, q(y | ℓ) ∝ p(y)exp(κℓy), and never corrects for the tilt, the unbiased state is unstable for every κ > 0; the threshold κ > 2/3 shown with it comes from the illustration''s decay factor 0.92, and a decay λ puts the threshold at κ = λ/a'
+title: 'Confirmation feedback: unbiased state unstable'
+statement: >-
+  In A11's model of confirmation feedback, where an agent adds each
+  observation's log-likelihood ratio a·y to its log odds ℓ while ℓ tilts
+  which observations it samples, q(y | ℓ) ∝ p(y)exp(κℓy), and never corrects
+  for the tilt, the unbiased state is unstable for every κ > 0; the
+  threshold κ > 2/3 shown with it comes from the illustration's decay factor
+  0.92, and a decay λ puts the threshold at κ = λ/a
 version: 2
 history:
 - version: 2
@@ -40,7 +47,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 
-# CLAIM-1324: In A11's model of confirmation feedback, where an agent adds each observation's log-likelihood ratio a·y to its log odds ℓ while ℓ tilts which observations it samples, q(y | ℓ) ∝ p(y)exp(κℓy), and never corrects for the tilt, the unbiased state is unstable for every κ > 0; the threshold κ > 2/3 shown with it comes from the illustration's decay factor 0.92, and a decay λ puts the threshold at κ = λ/a
+# CLAIM-1324: Confirmation feedback: unbiased state unstable
 
 ## What A11 says
 

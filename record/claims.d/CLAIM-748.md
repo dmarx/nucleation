@@ -3,7 +3,13 @@ number: 748
 formerly:
 - CLAIM-tmpyo35b
 status: Proposed
-title: 'Litigation as siege: an actor can make a legally recognized corrective objective unreachable for another party, with the merits, the law and that party''s preferences unchanged, by raising what pursuing the objective costs, in spending or in time, above what that party can sustain until relief arrives'
+title: 'Litigation as siege'
+statement: >-
+  Litigation as siege: an actor can make a legally recognized corrective
+  objective unreachable for another party, with the merits, the law and that
+  party's preferences unchanged, by raising what pursuing the objective
+  costs, in spending or in time, above what that party can sustain until
+  relief arrives
 version: 2
 history:
 - version: 2
@@ -71,7 +77,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-287 CLAIM-723 CLAIM-722 CLAIM-731 — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: CLAIM-619 CLAIM-657 — Proposed; the record's nearest entries, cited with their standing -->
 
-# CLAIM-748: Litigation as siege: an actor can make a legally recognized corrective objective unreachable for another party, with the merits, the law and that party's preferences unchanged, by raising what pursuing the objective costs, in spending or in time, above what that party can sustain until relief arrives
+# CLAIM-748: Litigation as siege
 
 ## The claim
 

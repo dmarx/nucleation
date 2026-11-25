@@ -15,7 +15,13 @@ promote_when: >-
   proved in THEORY-733 and no longer part of this condition. What
   cannot settle it: further toy models built from a planted causal graph,
   which the authors call privileged by construction.
-title: "Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many"
+title: 'VAR models rarely have exact emergent macros'
+statement: >-
+  Dynamical independence, zero information flow from the microscopic history
+  into a coarse-graining given its own history, fixes emergent macroscopic
+  variables by the dynamics rather than by a chosen query, but for linear
+  VAR models of order above 1 generically none is exact, and the optima are
+  many
 version: 4
 history:
 - version: 2
@@ -71,7 +77,7 @@ bounds:
 <!-- inactive-ok-file: THEORY-2205 — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-861 — Proposed; alternative (a), filed 2026-11-22 from the readings of Quinn and colleagues and of Shalizi and Moore -->
 
-# THEORY-257: Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many
+# THEORY-257: VAR models rarely have exact emergent macros
 
 ## Source
 

@@ -3,7 +3,11 @@ number: 1034
 status: Proposed
 formerly:
 - CLAIM-tmp6ik2v
-title: "Diversity is generally an accurate measure of an ecosystem's richness, and the account of querying and answering as resource-bounded, jointly feasible activities explains why"
+title: 'Diversity accurately measures richness'
+statement: >-
+  Diversity is generally an accurate measure of an ecosystem's richness, and
+  the account of querying and answering as resource-bounded, jointly
+  feasible activities explains why
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +47,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1038 CLAIM-1042 TERM-158 ARG-222 — new; filed with this from U31 and A60 -->
 
-# CLAIM-1034: Diversity is generally an accurate measure of an ecosystem's richness, and the account of querying and answering as resource-bounded, jointly feasible activities explains why
+# CLAIM-1034: Diversity accurately measures richness
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 1580
 status: Active
 formerly:
 - THEORY-tmp7zlqh
-title: 'Spears and Postmes state the SIDE model: anonymity and immersion in a group do not remove the self but make the salient identity more salient, so behaviour follows the group''s norms more closely under a salient group identity and moves away from them under a salient personal one, and anonymity to a powerful out-group frees in-group-normative behaviour it would punish'
+title: 'Anonymity heightens the salient identity'
+statement: >-
+  Spears and Postmes state the SIDE model: anonymity and immersion in a
+  group do not remove the self but make the salient identity more salient,
+  so behaviour follows the group's norms more closely under a salient group
+  identity and moves away from them under a salient personal one, and
+  anonymity to a powerful out-group frees in-group-normative behaviour it
+  would punish
 version: 2
 history:
 - version: 1
@@ -32,7 +39,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1580: Spears and Postmes state the SIDE model: anonymity and immersion in a group do not remove the self but make the salient identity more salient, so behaviour follows the group's norms more closely under a salient group identity and moves away from them under a salient personal one, and anonymity to a powerful out-group frees in-group-normative behaviour it would punish
+# THEORY-1580: Anonymity heightens the salient identity
 
 ## The account
 

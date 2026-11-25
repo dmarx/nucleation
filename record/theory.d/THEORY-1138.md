@@ -3,7 +3,15 @@ number: 1138
 status: Active
 formerly:
 - THEORY-tmpdtrq6
-title: 'Optimal transport whose cost is the Lovász extension of a submodular set function on source–target assignments stays a convex problem, a zero-sum game in which an adversary picks the cost matrix from the function''s base polytope, and reduces to ordinary optimal transport exactly when the set function is modular; the convexity needs submodularity, so the paper''s own threshold cost, which is not concave at its threshold, falls outside it, and the induced discrepancy is symmetric only when the set function is'
+title: 'Lovász-cost OT stays convex if submodular'
+statement: >-
+  Optimal transport whose cost is the Lovász extension of a submodular set
+  function on source–target assignments stays a convex problem, a zero-sum
+  game in which an adversary picks the cost matrix from the function's base
+  polytope, and reduces to ordinary optimal transport exactly when the set
+  function is modular; the convexity needs submodularity, so the paper's own
+  threshold cost, which is not concave at its threshold, falls outside it,
+  and the induced discrepancy is symmetric only when the set function is
 version: 1
 tags:
 - mathematics
@@ -18,7 +26,7 @@ summary: >-
   predict better; the experiments are single runs on 100 samples.
 ---
 
-# THEORY-1138: Optimal transport whose cost is the Lovász extension of a submodular set function on source–target assignments stays a convex problem, a zero-sum game in which an adversary picks the cost matrix from the function's base polytope, and reduces to ordinary optimal transport exactly when the set function is modular; the convexity needs submodularity, so the paper's own threshold cost, which is not concave at its threshold, falls outside it, and the induced discrepancy is symmetric only when the set function is
+# THEORY-1138: Lovász-cost OT stays convex if submodular
 
 ## Source
 

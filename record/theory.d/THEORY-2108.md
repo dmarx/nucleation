@@ -3,7 +3,14 @@ number: 2108
 status: Proposed
 formerly:
 - THEORY-tmpf3zwk
-title: 'Tomasello argues that infants and great apes pass implicit false-belief tasks by tracking what others see and know, a capacity evolved for competition, whereas children come to understand false belief at about four to five by coordinating conflicting perspectives, including an objective one, in the cooperative interaction and communication of shared intentionality'
+title: 'Real false-belief grasp needs shared perspectives'
+statement: >-
+  Tomasello argues that infants and great apes pass implicit false-belief
+  tasks by tracking what others see and know, a capacity evolved for
+  competition, whereas children come to understand false belief at about
+  four to five by coordinating conflicting perspectives, including an
+  objective one, in the cooperative interaction and communication of shared
+  intentionality
 version: 1
 source:
 - LIT-2915
@@ -22,7 +29,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2108: Tomasello argues that infants and great apes pass implicit false-belief tasks by tracking what others see and know, a capacity evolved for competition, whereas children come to understand false belief at about four to five by coordinating conflicting perspectives, including an objective one, in the cooperative interaction and communication of shared intentionality
+# THEORY-2108: Real false-belief grasp needs shared perspectives
 
 ## The account
 

@@ -3,7 +3,13 @@ number: 1318
 status: Proposed
 formerly:
 - CLAIM-tmps8ou2
-title: 'A norm''s original justification and its baseline support come apart: the justification can vanish while the norm keeps support from replacement rationales and from the interests it serves, so a norm that outlasts its justification need not have outlasted its support, and a bistable norm ends by a push past its threshold rather than by fading'
+title: 'Justification and support of a norm come apart'
+statement: >-
+  A norm's original justification and its baseline support come apart: the
+  justification can vanish while the norm keeps support from replacement
+  rationales and from the interests it serves, so a norm that outlasts its
+  justification need not have outlasted its support, and a bistable norm
+  ends by a push past its threshold rather than by fading
 version: 1
 role: thesis
 warrant: interpretive
@@ -37,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1284 CLAIM-1245 CASE-422 ARG-256 — Proposed or new; the model claim corrected, the owner's claim and case, and the argument on what the case supports -->
 
-# CLAIM-1318: A norm's original justification and its baseline support come apart: the justification can vanish while the norm keeps support from replacement rationales and from the interests it serves, so a norm that outlasts its justification need not have outlasted its support, and a bistable norm ends by a push past its threshold rather than by fading
+# CLAIM-1318: Justification and support of a norm come apart
 
 ## What the earlier note said, and what was wrong with it
 

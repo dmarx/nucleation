@@ -14,7 +14,14 @@ promote_when: >-
   ones systematically do better. Comparisons against historically
   controlled trials with patently mismatched controls cannot settle it,
   and neither can further appeals to the evidence hierarchy's standing.
-title: "Of the five standard arguments that randomisation gives a clinical trial special evidential weight, only the selection-bias argument is sound, and it supports only taking allocation out of the experimenters' hands; given balance on plausible confounders, a placebo or active control and blinding, randomisation is argued to add nothing, since balance on unknown confounders is not even probable in the one division a trial makes"
+title: 'Randomisation adds only selection-bias control'
+statement: >-
+  Of the five standard arguments that randomisation gives a clinical trial
+  special evidential weight, only the selection-bias argument is sound, and
+  it supports only taking allocation out of the experimenters' hands; given
+  balance on plausible confounders, a placebo or active control and
+  blinding, randomisation is argued to add nothing, since balance on unknown
+  confounders is not even probable in the one division a trial makes
 version: 1
 tags:
 - philosophy-of-science
@@ -35,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-451 THEORY-637 — Proposed; named as neighbouring accounts, not leaned on -->
 
-# THEORY-491: Of the five standard arguments that randomisation gives a clinical trial special evidential weight, only the selection-bias argument is sound, and it supports only taking allocation out of the experimenters' hands; given balance on plausible confounders, a placebo or active control and blinding, randomisation is argued to add nothing, since balance on unknown confounders is not even probable in the one division a trial makes
+# THEORY-491: Randomisation adds only selection-bias control
 
 ## Source
 

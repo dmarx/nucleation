@@ -3,7 +3,14 @@ number: 913
 status: Proposed
 formerly:
 - CLAIM-tmpz92ao
-title: 'Alternative reading (a) of the discriminating variants: where what a power''s holder would do is fixed and known, an arrangement in which the subjects hold no share of the power to review or revise is no less legitimate than its match, the sense that it is defective is a residue of protective reasons that no longer apply, and reasonable rejection is right to find nothing to reject'
+title: 'Sole say is no less legitimate when use is fixed'
+statement: >-
+  Alternative reading (a) of the discriminating variants: where what a
+  power's holder would do is fixed and known, an arrangement in which the
+  subjects hold no share of the power to review or revise is no less
+  legitimate than its match, the sense that it is defective is a residue of
+  protective reasons that no longer apply, and reasonable rejection is right
+  to find nothing to reject
 version: 1
 role: thesis
 warrant: interpretive
@@ -48,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-336 CLAIM-909 CLAIM-911 CLAIM-912 — new, filed for LEAD-033 -->
 <!-- inactive-ok-file: CLAIM-682 THEORY-1971 — Proposed; the record's test of domination, which this reading must answer, and the test's statement -->
 
-# CLAIM-913: Alternative reading (a) of the discriminating variants: where what a power's holder would do is fixed and known, an arrangement in which the subjects hold no share of the power to review or revise is no less legitimate than its match, the sense that it is defective is a residue of protective reasons that no longer apply, and reasonable rejection is right to find nothing to reject
+# CLAIM-913: Sole say is no less legitimate when use is fixed
 
 ## The reading
 

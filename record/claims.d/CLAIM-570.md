@@ -3,7 +3,15 @@ number: 570
 status: Active
 formerly:
 - CLAIM-tmpatpn9
-title: 'With observational indistinguishability refining as the observing budget grows and peak-cost mutual reachability coarsening as the acting budget grows, the budget pairs at which everything indistinguishable is mutually reachable form an up-set and those at which everything mutually reachable is indistinguishable form a down-set, with boundaries given by the largest peak distance within an observational class and the least observing budget that separates two mutually reachable states'
+title: 'Budgets where indistinct is reachable: an up-set'
+statement: >-
+  With observational indistinguishability refining as the observing budget
+  grows and peak-cost mutual reachability coarsening as the acting budget
+  grows, the budget pairs at which everything indistinguishable is mutually
+  reachable form an up-set and those at which everything mutually reachable
+  is indistinguishable form a down-set, with boundaries given by the largest
+  peak distance within an observational class and the least observing budget
+  that separates two mutually reachable states
 version: 2
 history:
 - version: 2
@@ -69,7 +77,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-220 — Proposed; A's committor study, cited from the note on A's second synthesis -->
 
-# CLAIM-570: With observational indistinguishability refining as the observing budget grows and peak-cost mutual reachability coarsening as the acting budget grows, the budget pairs at which everything indistinguishable is mutually reachable form an up-set and those at which everything mutually reachable is indistinguishable form a down-set, with boundaries given by the largest peak distance within an observational class and the least observing budget that separates two mutually reachable states
+# CLAIM-570: Budgets where indistinct is reachable: an up-set
 
 ## The claim
 

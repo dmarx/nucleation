@@ -10,7 +10,14 @@ promote_when: >-
   autocorrelation precedes transitions in a larger share of those who
   have one than appear in those who do not, with the group difference in
   the trend in variance significant.
-title: 'Smit, Helmich, Bringmann, Oldehinkel, Wichers and Snippe report that in 37 formerly depressed people tapering antidepressants, rising autocorrelation and variance in momentary affect preceded recurrence in about a third of those who relapsed and appeared in about a sixth of those who did not, so that critical slowing down is detectable within persons before some transitions into depression, with low sensitivity'
+title: 'Critical slowing precedes some relapses, weakly'
+statement: >-
+  Smit, Helmich, Bringmann, Oldehinkel, Wichers and Snippe report that in 37
+  formerly depressed people tapering antidepressants, rising autocorrelation
+  and variance in momentary affect preceded recurrence in about a third of
+  those who relapsed and appeared in about a sixth of those who did not, so
+  that critical slowing down is detectable within persons before some
+  transitions into depression, with low sensitivity
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -30,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-058 LIT-3119 — Proposed or Deferred; the account whose promote_when it bears on, and the single-patient study it replicates -->
 
-# THEORY-2244: Smit, Helmich, Bringmann, Oldehinkel, Wichers and Snippe report that in 37 formerly depressed people tapering antidepressants, rising autocorrelation and variance in momentary affect preceded recurrence in about a third of those who relapsed and appeared in about a sixth of those who did not, so that critical slowing down is detectable within persons before some transitions into depression, with low sensitivity
+# THEORY-2244: Critical slowing precedes some relapses, weakly
 
 ## Source
 

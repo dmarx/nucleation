@@ -8,7 +8,13 @@ promote_when: >-
   pullbacks and pushouts is read and checked, so that temporal cellular
   sheaves are well defined as narratives with persistent and cumulative
   components.
-title: 'Leal and colleagues model a multi-agent system with switching communication topology as a narrative valued in cellular sheaves, which records how agents'' communication structure and sensing maps persist and accumulate across topology changes rather than as a sequence of graphs, with dynamics on such temporal sheaves left to work in progress'
+title: 'Switching agent networks form sheaf narratives'
+statement: >-
+  Leal and colleagues model a multi-agent system with switching
+  communication topology as a narrative valued in cellular sheaves, which
+  records how agents' communication structure and sensing maps persist and
+  accumulate across topology changes rather than as a sequence of graphs,
+  with dynamics on such temporal sheaves left to work in progress
 version: 1
 tags:
 - mathematics
@@ -25,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2347 — Skimmed; the reading this account comes from -->
 
-# THEORY-2256: Leal and colleagues model a multi-agent system with switching communication topology as a narrative valued in cellular sheaves, which records how agents' communication structure and sensing maps persist and accumulate across topology changes rather than as a sequence of graphs, with dynamics on such temporal sheaves left to work in progress
+# THEORY-2256: Switching agent networks form sheaf narratives
 
 ## Source
 

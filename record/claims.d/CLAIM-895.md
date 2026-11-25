@@ -3,7 +3,12 @@ number: 895
 status: Proposed
 formerly:
 - CLAIM-tmpu482h
-title: 'Under Contextuality-by-Default, pooling two noncontextual systems whose direct influences point opposite ways can give a contextual system, because pooling averages the correlations but cancels the signalling, so a test must analyse each counterbalancing cell as its own system'
+title: 'Pooling noncontextual systems can be contextual'
+statement: >-
+  Under Contextuality-by-Default, pooling two noncontextual systems whose
+  direct influences point opposite ways can give a contextual system,
+  because pooling averages the correlations but cancels the signalling, so a
+  test must analyse each counterbalancing cell as its own system
 version: 1
 role: thesis
 warrant: demonstrated
@@ -41,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-329 — new; the design that applies this claim -->
 
-# CLAIM-895: Under Contextuality-by-Default, pooling two noncontextual systems whose direct influences point opposite ways can give a contextual system, because pooling averages the correlations but cancels the signalling, so a test must analyse each counterbalancing cell as its own system
+# CLAIM-895: Pooling noncontextual systems can be contextual
 
 ## The claim
 

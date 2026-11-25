@@ -10,7 +10,13 @@ promote_when: >-
   inequality by about 0.19 with a standard deviation of about 0.18, and
   that its no-signalling comes from the A/B-symmetric story and the
   two-of-four response format rather than from a test.
-title: 'Two Winograd schemas joined in one story make a Bell-CHSH scenario over pronoun-and-word observables, and the one instance judged by crowd workers violates the inequality by about one standard deviation, with no-signalling imposed by an A/B-symmetric story and a response format that never elicits the pronouns'' marginals'
+title: 'Winograd pair weakly violates CHSH'
+statement: >-
+  Two Winograd schemas joined in one story make a Bell-CHSH scenario over
+  pronoun-and-word observables, and the one instance judged by crowd workers
+  violates the inequality by about one standard deviation, with
+  no-signalling imposed by an A/B-symmetric story and a response format that
+  never elicits the pronouns' marginals
 version: 1
 tags:
 - contextuality
@@ -30,7 +36,7 @@ summary: >-
   The violation and its spread were recomputed from the paper's Table 1.
 ---
 
-# THEORY-2226: Two Winograd schemas joined in one story make a Bell-CHSH scenario over pronoun-and-word observables, and the one instance judged by crowd workers violates the inequality by about one standard deviation, with no-signalling imposed by an A/B-symmetric story and a response format that never elicits the pronouns' marginals
+# THEORY-2226: Winograd pair weakly violates CHSH
 
 Lo, Sadrzadeh and Mansfield (2023), [LIT-3098](../literature.d/LIT-3098.md), read in [NOTE-2316](../notes.d/NOTE-2316.md).
 

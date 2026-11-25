@@ -3,7 +3,17 @@ number: 104
 status: Proposed
 formerly:
 - SYNTHESIS-tmpzqep9
-title: 'Accountability without blame and normative governability: blame and accountability are proposed to come apart, so that correction does not wait on culpability and an organization may owe repair where no one is to blame, blame traced upstream supplies the provenance of an incapacity, an incapacity an institution brought about in breach of a duty does not excuse it, blame and repair do not substitute for each other, a complete record of who approved an outcome does not settle whether it can fairly be attributed to them, and an institution responsive within its governing mechanism need not be responsive to reasons for revising it'
+title: 'Accountability without blame is proposed'
+statement: >-
+  Accountability without blame and normative governability: blame and
+  accountability are proposed to come apart, so that correction does not
+  wait on culpability and an organization may owe repair where no one is to
+  blame, blame traced upstream supplies the provenance of an incapacity, an
+  incapacity an institution brought about in breach of a duty does not
+  excuse it, blame and repair do not substitute for each other, a complete
+  record of who approved an outcome does not settle whether it can fairly be
+  attributed to them, and an institution responsive within its governing
+  mechanism need not be responsive to reasons for revising it
 version: 4
 history:
 - version: 2
@@ -122,7 +132,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1912 THEORY-1942 THEORY-1915 THEORY-1931 THEORY-1946 THEORY-1958 THEORY-1974 THEORY-1987 THEORY-1932 THEORY-1928 THEORY-1952 — readings of 2026-11-16 or 2026-11-18, Proposed; cited as the support each component has -->
 <!-- inactive-ok-file: NOTE-2048 NOTE-2064 — Skimmed; readings through neighbours -->
 
-# SYNTHESIS-104: Accountability without blame and normative governability: blame and accountability are proposed to come apart, so that correction does not wait on culpability and an organization may owe repair where no one is to blame, blame traced upstream supplies the provenance of an incapacity, an incapacity an institution brought about in breach of a duty does not excuse it, blame and repair do not substitute for each other, a complete record of who approved an outcome does not settle whether it can fairly be attributed to them, and an institution responsive within its governing mechanism need not be responsive to reasons for revising it
+# SYNTHESIS-104: Accountability without blame is proposed
 
 *A part account of the organizational-normativity line, on accountability without blame and on normative governability. It was filed at the interim synthesis review of 2026-11-17, over ten components from the continuation's filing of the exchange "Assess Depp Heard Abuse" (turns U1 to U48, filed 2026-11-17). Version 2, at the follow-up review of 2026-11-18, integrates four entries the first share's filing made (turns U1 to U17, pull request 510, filed 2026-11-15 and 2026-11-16), which were in no account, and folds in the readings of the exchange's works (pull request 514). The first filing's entries here come from A's turns and from reviews of that filing which the owner forwarded on 2026-11-16, whose voice is ChatGPT's (the first filing's curation entry, "Review of 2026-11-16"). None of the nine entries reconciled into the first filing's codes is in this part; they are in dependence-and-domination's parts. Most components also carry distributed-agency. Its sibling on rights, demands and commitments is [SYNTHESIS-102](SYNTHESIS-102.md); the organizational wrong beyond harm and [CLAIM-624](../claims.d/CLAIM-624.md)'s duty, which several components here cite, are mapped in [SYNTHESIS-094](SYNTHESIS-094.md).*
 

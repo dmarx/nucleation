@@ -12,7 +12,13 @@ promote_when: >-
   busy probabilities than in the deterministic ones, as the paper's
   tables report; or a rerun on the published Edmonton data reproduces
   both.
-title: 'Erkut, Ingolfsson and Erdoğan show that locating ambulances to maximize expected cardiac-arrest survivors, rather than coverage within a time standard or average response time, saves more lives in deterministic models, with the advantage shrinking once random response times or ambulance busy probabilities enter the coverage model'
+title: 'Maximizing survival saves more than coverage'
+statement: >-
+  Erkut, Ingolfsson and Erdoğan show that locating ambulances to maximize
+  expected cardiac-arrest survivors, rather than coverage within a time
+  standard or average response time, saves more lives in deterministic
+  models, with the advantage shrinking once random response times or
+  ambulance busy probabilities enter the coverage model
 version: 1
 tags:
 - operations-research
@@ -30,7 +36,7 @@ summary: >-
   coverage with either source of uncertainty reaches the best-known value.
 ---
 
-# THEORY-1384: Erkut, Ingolfsson and Erdoğan show that locating ambulances to maximize expected cardiac-arrest survivors, rather than coverage within a time standard or average response time, saves more lives in deterministic models, with the advantage shrinking once random response times or ambulance busy probabilities enter the coverage model
+# THEORY-1384: Maximizing survival saves more than coverage
 
 ## Source
 

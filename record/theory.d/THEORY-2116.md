@@ -3,7 +3,14 @@ number: 2116
 status: Proposed
 formerly:
 - THEORY-tmpm38wl
-title: 'Tomasello and colleagues propose that what is uniquely human in cognition is shared intentionality, an evolved motivation and capacity to take part in activities with shared goals and joint intentions, which emerges by about 14 months from a primate-general understanding of intentional action plus a uniquely human motivation to share, is absent in great apes, and from which language, belief–desire psychology and social norms derive'
+title: 'Shared intentionality is uniquely human'
+statement: >-
+  Tomasello and colleagues propose that what is uniquely human in cognition
+  is shared intentionality, an evolved motivation and capacity to take part
+  in activities with shared goals and joint intentions, which emerges by
+  about 14 months from a primate-general understanding of intentional action
+  plus a uniquely human motivation to share, is absent in great apes, and
+  from which language, belief–desire psychology and social norms derive
 version: 1
 source:
 - LIT-2902
@@ -24,7 +31,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2116: Tomasello and colleagues propose that what is uniquely human in cognition is shared intentionality, an evolved motivation and capacity to take part in activities with shared goals and joint intentions, which emerges by about 14 months from a primate-general understanding of intentional action plus a uniquely human motivation to share, is absent in great apes, and from which language, belief–desire psychology and social norms derive
+# THEORY-2116: Shared intentionality is uniquely human
 
 ## The account
 

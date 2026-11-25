@@ -3,7 +3,14 @@ number: 1089
 status: Proposed
 formerly:
 - CLAIM-tmpew899
-title: 'A function-preserving rescaling before fine-tuning is a change of the fine-tuning procedure and not of the learner, since gradient descent on the rescaled weights is gradient descent on the original weights with changed step sizes; so Lippl and Lindsey''s case shows one learner whose developmental frontier depends on the procedure admitted, not two learners of equal present capability whose developmental frontiers differ'
+title: 'Rescaling changes the procedure, not the learner'
+statement: >-
+  A function-preserving rescaling before fine-tuning is a change of the
+  fine-tuning procedure and not of the learner, since gradient descent on
+  the rescaled weights is gradient descent on the original weights with
+  changed step sizes; so Lippl and Lindsey's case shows one learner whose
+  developmental frontier depends on the procedure admitted, not two learners
+  of equal present capability whose developmental frontiers differ
 version: 1
 history:
 - version: 1
@@ -48,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1013 CLAIM-1043 CLAIM-754 CLAIM-1011 THEORY-2290 THEORY-2077 — Proposed; the verdict this objects to, the claims it rests on, the claim the dispute concerns, and the readings it cites -->
 
-# CLAIM-1089: A function-preserving rescaling before fine-tuning is a change of the fine-tuning procedure and not of the learner, since gradient descent on the rescaled weights is gradient descent on the original weights with changed step sizes; so Lippl and Lindsey's case shows one learner whose developmental frontier depends on the procedure admitted, not two learners of equal present capability whose developmental frontiers differ
+# CLAIM-1089: Rescaling changes the procedure, not the learner
 
 ## The objection
 

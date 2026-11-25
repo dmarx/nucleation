@@ -26,7 +26,13 @@ complements:
 - CLAIM-1257
 - CLAIM-1252
 - CLAIM-1264
-title: "The belief that fiduciary duty requires maximizing shareholder value can bind a corporation more tightly than the applicable law does, gaining authority through management education, pay and investor expectation, and so help produce the organizational character later presented as a legal necessity"
+title: 'Shareholder-value belief binds beyond the law'
+statement: >-
+  The belief that fiduciary duty requires maximizing shareholder value can
+  bind a corporation more tightly than the applicable law does, gaining
+  authority through management education, pay and investor expectation, and
+  so help produce the organizational character later presented as a legal
+  necessity
 summary: >-
   A48 §11 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24), on the owner's U30: "shareholder primacy as a legal
@@ -43,7 +49,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-3250 LIT-3248 LIT-3243 — Proposed or Deferred; the owner's thesis, the companion claim and the legal sources, unread -->
 
-# CLAIM-1340: The belief that fiduciary duty requires maximizing shareholder value can bind a corporation more tightly than the applicable law does, gaining authority through management education, pay and investor expectation, and so help produce the organizational character later presented as a legal necessity
+# CLAIM-1340: Shareholder-value belief binds beyond the law
 
 ## The claim
 

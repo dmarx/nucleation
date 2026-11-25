@@ -3,7 +3,21 @@ number: 75
 status: Proposed
 formerly:
 - SYNTHESIS-tmpa7ef9
-title: 'An effective description is adequate only relative to a declared regime: sufficiency holds for a target, a model and a family of decisions and can lapse when they change, equivalence under probes or feasible tests is coarser than identity and is evidence of shared structure only to the degree the probes were chosen independently of the comparison, and a coarse-graining keeps a judgment exactly when the judgment is constant on its fibres; the conditions asked of such a description are of different kinds, and which can fail while the others hold is open; in linear Gaussian dynamics memory is a functional of the coarse variable''s own law and cannot register the dependence that coupling into it bounds; and a system''s causes are at the coarsest description whose interventions are unambiguous, never at one that carries more causal information than the micro'
+title: 'An effective description is adequate per regime'
+statement: >-
+  An effective description is adequate only relative to a declared regime:
+  sufficiency holds for a target, a model and a family of decisions and can
+  lapse when they change, equivalence under probes or feasible tests is
+  coarser than identity and is evidence of shared structure only to the
+  degree the probes were chosen independently of the comparison, and a
+  coarse-graining keeps a judgment exactly when the judgment is constant on
+  its fibres; the conditions asked of such a description are of different
+  kinds, and which can fail while the others hold is open; in linear
+  Gaussian dynamics memory is a functional of the coarse variable's own law
+  and cannot register the dependence that coupling into it bounds; and a
+  system's causes are at the coarsest description whose interventions are
+  unambiguous, never at one that carries more causal information than the
+  micro
 version: 1
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
@@ -55,7 +69,7 @@ integrates:
 <!-- inactive-ok-file: SYNTHESIS-073 SYNTHESIS-088 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: THEORY-2205 — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
 
-# SYNTHESIS-075: An effective description is adequate only relative to a declared regime: sufficiency holds for a target, a model and a family of decisions and can lapse when they change, equivalence under probes or feasible tests is coarser than identity and is evidence of shared structure only to the degree the probes were chosen independently of the comparison, and a coarse-graining keeps a judgment exactly when the judgment is constant on its fibres; the conditions asked of such a description are of different kinds, and which can fail while the others hold is open; in linear Gaussian dynamics memory is a functional of the coarse variable's own law and cannot register the dependence that coupling into it bounds; and a system's causes are at the coarsest description whose interventions are unambiguous, never at one that carries more causal information than the micro
+# SYNTHESIS-075: An effective description is adequate per regime
 
 *A part account of the formal-apparatus line: the part on effective
 descriptions, the regime under which their adequacy is assessed, the

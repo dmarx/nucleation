@@ -3,7 +3,12 @@ number: 1282
 status: Proposed
 formerly:
 - CLAIM-tmpjdml5
-title: 'Correction is relative to the anchors it answers to: an anchor a system can neither rewrite nor reject imports its own errors whole, and the system can correct them only through a further protected channel, an anchor of their own'
+title: 'Correction is relative to its anchors'
+statement: >-
+  Correction is relative to the anchors it answers to: an anchor a system
+  can neither rewrite nor reject imports its own errors whole, and the
+  system can correct them only through a further protected channel, an
+  anchor of their own
 version: 1
 history:
 - version: 1
@@ -50,7 +55,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1024 CLAIM-184 — Proposed; the owner's claim this qualifies, and the entrenchment it warns of -->
 
-# CLAIM-1282: Correction is relative to the anchors it answers to: an anchor a system can neither rewrite nor reject imports its own errors whole, and the system can correct them only through a further protected channel, an anchor of their own
+# CLAIM-1282: Correction is relative to its anchors
 
 ## The claim
 

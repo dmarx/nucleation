@@ -3,7 +3,15 @@ number: 788
 status: Proposed
 formerly:
 - CLAIM-tmpydua7
-title: 'First Contact''s interface learning is learning occasioned by an obstruction whose product is a new channel: the interface cannot know the user''s task, a failure of information, and it repairs that not by acquiring the information but by forming a channel through which the party who has it, the user, can steer; command-to-outcome mutual information measures that channel without passing through the task, and maximizing it pursues the record''s new channel, a maintained capacity, directly'
+title: 'First Contact forms a channel, not information'
+statement: >-
+  First Contact's interface learning is learning occasioned by an
+  obstruction whose product is a new channel: the interface cannot know the
+  user's task, a failure of information, and it repairs that not by
+  acquiring the information but by forming a channel through which the party
+  who has it, the user, can steer; command-to-outcome mutual information
+  measures that channel without passing through the task, and maximizing it
+  pursues the record's new channel, a maintained capacity, directly
 version: 1
 role: thesis
 warrant: interpretive
@@ -45,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-787 — Proposed or Open; filed with this on 2026-11-21 -->
 
-# CLAIM-788: First Contact's interface learning is learning occasioned by an obstruction whose product is a new channel: the interface cannot know the user's task, a failure of information, and it repairs that not by acquiring the information but by forming a channel through which the party who has it, the user, can steer; command-to-outcome mutual information measures that channel without passing through the task, and maximizing it pursues the record's new channel, a maintained capacity, directly
+# CLAIM-788: First Contact forms a channel, not information
 
 ## The paper
 

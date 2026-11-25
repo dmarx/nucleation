@@ -3,7 +3,10 @@ number: 121
 status: Active
 formerly:
 - CLAIM-tmpze62b
-title: 'A transport whose local kernels commute with restriction maps overlap-consistent source models to overlap-consistent target models'
+title: 'Commuting kernels preserve overlap consistency'
+statement: >-
+  A transport whose local kernels commute with restriction maps
+  overlap-consistent source models to overlap-consistent target models
 version: 3
 history:
 - version: 2
@@ -57,7 +60,7 @@ complements:
 ---
 <!-- ref::uses-file: TERM-008 — stated in "transport"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 
-# CLAIM-121: A transport whose local kernels commute with restriction maps overlap-consistent source models to overlap-consistent target models
+# CLAIM-121: Commuting kernels preserve overlap consistency
 
 ## The claim
 

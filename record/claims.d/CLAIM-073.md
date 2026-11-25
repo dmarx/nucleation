@@ -3,7 +3,11 @@ number: 73
 status: Rejected
 formerly:
 - CLAIM-tmpjwomz
-title: 'Demonstrating that interpretive framings do not commute establishes that the judgements cannot be described by one ordinary joint probability distribution'
+title: 'Non-commutation rules out one joint distribution'
+statement: >-
+  Demonstrating that interpretive framings do not commute establishes that
+  the judgements cannot be described by one ordinary joint probability
+  distribution
 version: 1
 role: thesis
 warrant: interpretive
@@ -28,7 +32,7 @@ summary: >-
 <!-- ref::uses-file: TERM-024 — stated in "noncommutativity, of events and of operations"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-052 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-073: Demonstrating that interpretive framings do not commute establishes that the judgements cannot be described by one ordinary joint probability distribution
+# CLAIM-073: Non-commutation rules out one joint distribution
 
 ## The claim
 

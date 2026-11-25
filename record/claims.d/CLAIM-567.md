@@ -3,7 +3,12 @@ number: 567
 status: Active
 formerly:
 - CLAIM-tmp9jvpb
-title: 'That a target configuration is feasible, that it is reachable from the start under the admissible transformations, and that the process reliably reaches it are three properties, each implied by the next and none implying it'
+title: 'Feasible, reachable and reliable are three'
+statement: >-
+  That a target configuration is feasible, that it is reachable from the
+  start under the admissible transformations, and that the process reliably
+  reaches it are three properties, each implied by the next and none
+  implying it
 version: 5
 history:
 - version: 2
@@ -97,7 +102,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-207 CASE-209 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 <!-- inactive-ok-file: NOTE-1572 NOTE-1555 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
-# CLAIM-567: That a target configuration is feasible, that it is reachable from the start under the admissible transformations, and that the process reliably reaches it are three properties, each implied by the next and none implying it
+# CLAIM-567: Feasible, reachable and reliable are three
 
 ## The claim
 

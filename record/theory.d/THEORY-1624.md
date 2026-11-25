@@ -3,7 +3,14 @@ number: 1624
 status: Active
 formerly:
 - THEORY-tmpwho4w
-title: 'Doris, Stich, Walmsley and Schulz report that Batson''s experiments tell against the social-punishment and aversive-arousal versions of egoism, argue that self–other merging would make helping egoistic only as perceived numerical identity, which none of the four merging measures in the 1997 exchange tests, and hold that psychological altruism is not yet established'
+title: 'Psychological altruism is not yet established'
+statement: >-
+  Doris, Stich, Walmsley and Schulz report that Batson's experiments tell
+  against the social-punishment and aversive-arousal versions of egoism,
+  argue that self–other merging would make helping egoistic only as
+  perceived numerical identity, which none of the four merging measures in
+  the 1997 exchange tests, and hold that psychological altruism is not yet
+  established
 version: 2
 history:
 - version: 1
@@ -36,7 +43,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-494 — Proposed or Unavailable; the claims and works this reading bears on or cites, named, not leaned on -->
 
-# THEORY-1624: Doris, Stich, Walmsley and Schulz report that Batson's experiments tell against the social-punishment and aversive-arousal versions of egoism, argue that self–other merging would make helping egoistic only as perceived numerical identity, which none of the four merging measures in the 1997 exchange tests, and hold that psychological altruism is not yet established
+# THEORY-1624: Psychological altruism is not yet established
 
 ## The account
 

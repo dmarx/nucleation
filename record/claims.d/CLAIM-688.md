@@ -3,7 +3,14 @@ number: 688
 status: Active
 formerly:
 - CLAIM-tmpwvg2o
-title: 'A collective''s capacity to decline a feasible technology, which is part of its self-direction over that technology, can depend more on the competition it is in than on its own organization: where forgoing the technology leaves a collective dependent on rivals that adopt it, none of the competitors can decline it alone, and the capacity exists, if anywhere, in coordination among them'
+title: 'Declining a technology may need coordination'
+statement: >-
+  A collective's capacity to decline a feasible technology, which is part of
+  its self-direction over that technology, can depend more on the
+  competition it is in than on its own organization: where forgoing the
+  technology leaves a collective dependent on rivals that adopt it, none of
+  the competitors can decline it alone, and the capacity exists, if
+  anywhere, in coordination among them
 version: 4
 history:
 - version: 2
@@ -76,7 +83,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-677 CLAIM-685 CLAIM-684 TERM-120 ARG-104 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; the record's account of self-direction, cited with its standing -->
 
-# CLAIM-688: A collective's capacity to decline a feasible technology, which is part of its self-direction over that technology, can depend more on the competition it is in than on its own organization: where forgoing the technology leaves a collective dependent on rivals that adopt it, none of the competitors can decline it alone, and the capacity exists, if anywhere, in coordination among them
+# CLAIM-688: Declining a technology may need coordination
 
 ## The claim
 

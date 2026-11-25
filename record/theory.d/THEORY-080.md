@@ -18,7 +18,12 @@ promote_when: >-
   than that approximation error, or if γ grows at a clearly different
   rate. Evidence computed for networks outside the kernel regime cannot
   settle it, since the account is about the linearised model.
-title: "In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies"
+title: 'NTK eigenvalues schedule the Occam penalty'
+statement: >-
+  In a linearised network with a Gaussian prior on its parameters, the Occam
+  factor is a sum over the NTK's eigenvalues, so on spherical data each
+  harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay
+  schedules the complexity penalty across frequencies
 version: 4
 history:
 - version: 2
@@ -79,7 +84,7 @@ bounds:
 ---
 <!-- inactive-ok-file: THEORY-084 — Proposed; THEORY-087 is extended in its regular half, which is derived, and THEORY-084 is named in Connections -->
 
-# THEORY-080: In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies
+# THEORY-080: NTK eigenvalues schedule the Occam penalty
 
 ## Source
 

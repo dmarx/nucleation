@@ -15,7 +15,13 @@ promote_when: >-
   attributes cannot settle it: they show only that the illusion is
   possible. Even if promoted it would be a claim about what nodes can
   observe of their neighbours, not about what people come to believe or do.
-title: "When an attribute is concentrated on well-connected nodes, many nodes can see it in a majority of their neighbours though it is globally rare, and the share that do grows with the correlation between degree and attribute, as the network becomes more disassortative and as its degree distribution becomes heavier-tailed"
+title: 'Rare attributes can look majority locally'
+statement: >-
+  When an attribute is concentrated on well-connected nodes, many nodes can
+  see it in a majority of their neighbours though it is globally rare, and
+  the share that do grows with the correlation between degree and attribute,
+  as the network becomes more disassortative and as its degree distribution
+  becomes heavier-tailed
 version: 2
 history:
 - version: 2
@@ -48,7 +54,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-415 — Proposed; the claim and account this one bears on, named, not leaned on -->
 <!-- inactive-ok-file: LIT-1370 — Deferred or Unavailable; cited as a work the source names, not leaned on -->
 
-# THEORY-887: When an attribute is concentrated on well-connected nodes, many nodes can see it in a majority of their neighbours though it is globally rare, and the share that do grows with the correlation between degree and attribute, as the network becomes more disassortative and as its degree distribution becomes heavier-tailed
+# THEORY-887: Rare attributes can look majority locally
 
 ## Source
 

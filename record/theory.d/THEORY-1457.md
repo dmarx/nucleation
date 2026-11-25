@@ -3,7 +3,20 @@ number: 1457
 status: Active
 formerly:
 - THEORY-tmpzi9gz
-title: 'Majikes, Patrone, Kearsley, Zwolak and Liddle find, in a single-fold DNA origami model with a topology-reporting fluorophore and quencher, that the folded-state yield after annealing rises with staple excess to a turnover between about 1x and 5x and then falls, below 50 % at high excess for fold distances of 131, 1187 and 3407 bases, independent of staple motif at the one fold distance where motif was tested and, by the authors'' report of a supplementary control, unchanged by a twofold slower anneal, as an equilibrium model predicts when each fold domain can be occupied by a separate staple, the blocked state, with folded over blocked equal to the fold''s j-factor over the free staple concentration; they propose, without testing it, that whole origami escapes this through cooperativity and strand displacement along a nucleation front'
+title: 'Excess staples block folds past a turnover'
+statement: >-
+  Majikes, Patrone, Kearsley, Zwolak and Liddle find, in a single-fold DNA
+  origami model with a topology-reporting fluorophore and quencher, that the
+  folded-state yield after annealing rises with staple excess to a turnover
+  between about 1x and 5x and then falls, below 50 % at high excess for fold
+  distances of 131, 1187 and 3407 bases, independent of staple motif at the
+  one fold distance where motif was tested and, by the authors' report of a
+  supplementary control, unchanged by a twofold slower anneal, as an
+  equilibrium model predicts when each fold domain can be occupied by a
+  separate staple, the blocked state, with folded over blocked equal to the
+  fold's j-factor over the free staple concentration; they propose, without
+  testing it, that whole origami escapes this through cooperativity and
+  strand displacement along a nucleation front
 version: 2
 history:
 - version: 2
@@ -57,7 +70,7 @@ summary: >-
   blocked state is a kinetic trap.
 ---
 
-# THEORY-1457: Majikes, Patrone, Kearsley, Zwolak and Liddle find, in a single-fold DNA origami model with a topology-reporting fluorophore and quencher, that the folded-state yield after annealing rises with staple excess to a turnover between about 1x and 5x and then falls, below 50 % at high excess for fold distances of 131, 1187 and 3407 bases, independent of staple motif at the one fold distance where motif was tested and, by the authors' report of a supplementary control, unchanged by a twofold slower anneal, as an equilibrium model predicts when each fold domain can be occupied by a separate staple, the blocked state, with folded over blocked equal to the fold's j-factor over the free staple concentration; they propose, without testing it, that whole origami escapes this through cooperativity and strand displacement along a nucleation front
+# THEORY-1457: Excess staples block folds past a turnover
 
 ## Source
 

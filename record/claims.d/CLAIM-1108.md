@@ -3,7 +3,14 @@ number: 1108
 status: Proposed
 formerly:
 - CLAIM-tmphjm0q
-title: 'There is no optimal regulation until the demand specification, the instruments, the horizon and the trade-offs among demands are declared, and a regime is better judged by a profile of possibility, realization, resilience, accountability and cost than by a scalar, so steering an industrial ecosystem optimally is relative to commitments the mathematics does not select'
+title: 'No optimum until commitments are declared'
+statement: >-
+  There is no optimal regulation until the demand specification, the
+  instruments, the horizon and the trade-offs among demands are declared,
+  and a regime is better judged by a profile of possibility, realization,
+  resilience, accountability and cost than by a scalar, so steering an
+  industrial ecosystem optimally is relative to commitments the mathematics
+  does not select
 version: 2
 history:
 - version: 2
@@ -55,7 +62,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-1201 — Proposed; filed in this filing of 2026-11-22 -->
 
-# CLAIM-1108: There is no optimal regulation until the demand specification, the instruments, the horizon and the trade-offs among demands are declared, and a regime is better judged by a profile of possibility, realization, resilience, accountability and cost than by a scalar, so steering an industrial ecosystem optimally is relative to commitments the mathematics does not select
+# CLAIM-1108: No optimum until commitments are declared
 
 ## The objection
 

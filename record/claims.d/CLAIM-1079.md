@@ -3,12 +3,14 @@ number: 1079
 status: Proposed
 formerly:
 - CLAIM-tmpdhfpb
-title: In the linear tangent–transverse model with a coupling C x∥ in the transverse
-  equation, the deviation from the defining relations is at most ‖C‖X/κ + ‖B⊥‖‖u‖₂/√(2κ),
-  for κ the least restoring rate and X the largest tangential excursion, so strong
-  stabilization leaves tangential adaptation possible only where the demanded move
-  is actuated and affordable and the restoring rate grows with the excursion it
-  must carry
+title: 'Strong stabilization bounds tangential adaptation'
+statement: >-
+  In the linear tangent–transverse model with a coupling C x∥ in the
+  transverse equation, the deviation from the defining relations is at most
+  ‖C‖X/κ + ‖B⊥‖‖u‖₂/√(2κ), for κ the least restoring rate and X the largest
+  tangential excursion, so strong stabilization leaves tangential adaptation
+  possible only where the demanded move is actuated and affordable and the
+  restoring rate grows with the excursion it must carry
 version: 1
 role: thesis
 warrant: demonstrated
@@ -34,7 +36,7 @@ summary: 'A gap fill: a gap of the manuscript governance-of-possibility, §5.3 (
   (Claude, in this session); adopting it is the owner''s call.'
 ---
 
-# CLAIM-1079: In the linear tangent–transverse model with a coupling C x∥ in the transverse equation, the deviation from the defining relations is at most ‖C‖X/κ + ‖B⊥‖‖u‖₂/√(2κ), for κ the least restoring rate and X the largest tangential excursion, so strong stabilization leaves tangential adaptation possible only where the demanded move is actuated and affordable and the restoring rate grows with the excursion it must carry
+# CLAIM-1079: Strong stabilization bounds tangential adaptation
 
 ## The derivation
 

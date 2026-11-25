@@ -3,7 +3,13 @@ number: 1820
 status: Proposed
 formerly:
 - THEORY-tmpp9650
-title: 'Prest, restating her book in the H-France Forum, argues that the story of public theatre in colonial Saint-Domingue is inseparable from that of its enslaved people, whose labour the theatre relied on and its records nearly hid, and whose presence she recovers from sources beside the theatre''s own, such as runaway advertisements in the same newspapers'
+title: 'Colonial theatre''s story includes its enslaved'
+statement: >-
+  Prest, restating her book in the H-France Forum, argues that the story of
+  public theatre in colonial Saint-Domingue is inseparable from that of its
+  enslaved people, whose labour the theatre relied on and its records nearly
+  hid, and whose presence she recovers from sources beside the theatre's
+  own, such as runaway advertisements in the same newspapers
 version: 1
 source:
 - LIT-2521
@@ -21,7 +27,7 @@ summary: >-
   H-France Forum 19(5) (2024), read in [NOTE-1897](../notes.d/NOTE-1897.md) (Read). The theatre was reliant on enslaved people and nearly hid them; runaway advertisements recover them.
 ---
 
-# THEORY-1820: Prest, restating her book in the H-France Forum, argues that the story of public theatre in colonial Saint-Domingue is inseparable from that of its enslaved people, whose labour the theatre relied on and its records nearly hid, and whose presence she recovers from sources beside the theatre's own, such as runaway advertisements in the same newspapers
+# THEORY-1820: Colonial theatre's story includes its enslaved
 
 ## The account
 

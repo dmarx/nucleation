@@ -12,7 +12,14 @@ promote_when: >-
   risk ambiguous and practitioners at the sharp end resolve it, and that
   practitioners' defending work is acknowledged chiefly after accidents.
   Whether these are true is not asked.
-title: 'Cook holds that accidents in complex systems have several contributors and no isolable root cause, that attributing them to one reflects a social need to blame localized forces, that organizations leave the trade-off between production and risk ambiguous for practitioners at the sharp end to resolve, and that the practitioners'' continuous defence against failure is seen chiefly after it lapses'
+title: 'Complex-system accidents have no root cause'
+statement: >-
+  Cook holds that accidents in complex systems have several contributors and
+  no isolable root cause, that attributing them to one reflects a social
+  need to blame localized forces, that organizations leave the trade-off
+  between production and risk ambiguous for practitioners at the sharp end
+  to resolve, and that the practitioners' continuous defence against failure
+  is seen chiefly after it lapses
 version: 1
 tags:
 - complex-systems
@@ -37,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-707 CLAIM-702 — Proposed; the claims this corroborates -->
 
-# THEORY-1998: Cook holds that accidents in complex systems have several contributors and no isolable root cause, that attributing them to one reflects a social need to blame localized forces, that organizations leave the trade-off between production and risk ambiguous for practitioners at the sharp end to resolve, and that the practitioners' continuous defence against failure is seen chiefly after it lapses
+# THEORY-1998: Complex-system accidents have no root cause
 
 Cook (1998; Revision D, 2000), [LIT-2783](../literature.d/LIT-2783.md), read in [NOTE-2083](../notes.d/NOTE-2083.md).
 

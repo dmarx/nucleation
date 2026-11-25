@@ -3,7 +3,11 @@ number: 665
 status: Proposed
 formerly:
 - CLAIM-tmpbszhs
-title: 'On routine tasks, where no schema change is warranted, explicit change governance adds cost and no benefit: it raises neither justified correction nor the quality of source verification, provenance or review'
+title: 'On routine tasks governance only adds cost'
+statement: >-
+  On routine tasks, where no schema change is warranted, explicit change
+  governance adds cost and no benefit: it raises neither justified
+  correction nor the quality of source verification, provenance or review
 version: 1
 history:
 - version: 1
@@ -53,7 +57,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-667 CASE-253 — filed from the exchange "luria experiment design", Proposed or Open -->
 
-# CLAIM-665: On routine tasks, where no schema change is warranted, explicit change governance adds cost and no benefit: it raises neither justified correction nor the quality of source verification, provenance or review
+# CLAIM-665: On routine tasks governance only adds cost
 
 ## The claim
 

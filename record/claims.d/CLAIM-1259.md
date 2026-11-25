@@ -3,7 +3,13 @@ number: 1259
 status: Proposed
 formerly:
 - CLAIM-tmpc3ndh
-title: 'Where competence decays without funded maintenance, a capability is committed only when competent enough and its budget follows observed use, a rarer capability is lost sooner at the same expected funding: its time to loss is stochastically shorter, not only the lower bound on its chance of loss higher'
+title: 'Rarer capabilities are lost sooner'
+statement: >-
+  Where competence decays without funded maintenance, a capability is
+  committed only when competent enough and its budget follows observed use,
+  a rarer capability is lost sooner at the same expected funding: its time
+  to loss is stochastically shorter, not only the lower bound on its chance
+  of loss higher
 version: 1
 history:
 - version: 1
@@ -51,7 +57,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 
-# CLAIM-1259: Where competence decays without funded maintenance, a capability is committed only when competent enough and its budget follows observed use, a rarer capability is lost sooner at the same expected funding: its time to loss is stochastically shorter, not only the lower bound on its chance of loss higher
+# CLAIM-1259: Rarer capabilities are lost sooner
 
 ## The claim
 

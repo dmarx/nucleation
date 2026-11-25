@@ -14,7 +14,13 @@ promote_when: >-
   declared aims, or if the kneeling case comes out as defiance under it.
   More endorsements of the reading, the gesture's spread, or further
   Confucian passages licensing remonstrance of rulers cannot settle it.
-title: "A protest performed bodily inside a civic ritual can contest the ritual in its own grammar, keeping the ritual's reverence for its ideal while rebuking its present object, which is incivility in the Confucian sense of disruption aimed at harmonization; the reading of the gesture and the claim that its uptake makes it sagely are asserted"
+title: 'Ritual protest can be harmonizing incivility'
+statement: >-
+  A protest performed bodily inside a civic ritual can contest the ritual in
+  its own grammar, keeping the ritual's reverence for its ideal while
+  rebuking its present object, which is incivility in the Confucian sense of
+  disruption aimed at harmonization; the reading of the gesture and the
+  claim that its uptake makes it sagely are asserted
 version: 1
 tags:
 - ethics
@@ -35,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-525 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-174 — Unavailable; a related work named by the reading, not leaned on for its content -->
 
-# THEORY-428: A protest performed bodily inside a civic ritual can contest the ritual in its own grammar, keeping the ritual's reverence for its ideal while rebuking its present object, which is incivility in the Confucian sense of disruption aimed at harmonization; the reading of the gesture and the claim that its uptake makes it sagely are asserted
+# THEORY-428: Ritual protest can be harmonizing incivility
 
 ## Source
 

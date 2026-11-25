@@ -8,7 +8,13 @@ promote_when: >-
   partitions enumerated by computer form a lattice under refinement with a
   unique coarsest element, and a pair of balanced partitions whose
   intersection is not balanced is exhibited (Example 5·5 or another).
-title: 'Stewart shows that on any coupled cell network of finite type the balanced equivalence relations, the patterns of synchrony invariant under every dynamics the architecture admits, form a complete lattice under refinement whose join is that of equivalence relations but whose meet is not intersection, with a unique coarsest element computable from input trees'
+title: 'Balanced synchrony patterns form a lattice'
+statement: >-
+  Stewart shows that on any coupled cell network of finite type the balanced
+  equivalence relations, the patterns of synchrony invariant under every
+  dynamics the architecture admits, form a complete lattice under refinement
+  whose join is that of equivalence relations but whose meet is not
+  intersection, with a unique coarsest element computable from input trees
 version: 1
 tags:
 - mathematics
@@ -26,7 +32,7 @@ summary: >-
   Proposed until its promote_when is met.
 ---
 
-# THEORY-2251: Stewart shows that on any coupled cell network of finite type the balanced equivalence relations, the patterns of synchrony invariant under every dynamics the architecture admits, form a complete lattice under refinement whose join is that of equivalence relations but whose meet is not intersection, with a unique coarsest element computable from input trees
+# THEORY-2251: Balanced synchrony patterns form a lattice
 
 ## Source
 

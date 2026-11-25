@@ -3,7 +3,12 @@ number: 151
 status: Proposed
 formerly:
 - CLAIM-tmpw83rc
-title: 'Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization'
+title: 'Changing relations can change the act'
+statement: >-
+  Which communicative act an utterance performs is partly constituted by its
+  relations to participant roles, norms and expected uptake, so a
+  transformation that changes those relations can change the act and not
+  only its realization
 version: 6
 history:
 - version: 2
@@ -112,7 +117,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-055 — Superseded; cited as the earlier appearance of the wording "partly constituted" -->
 
-# CLAIM-151: Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization
+# CLAIM-151: Changing relations can change the act
 
 ## The claim
 

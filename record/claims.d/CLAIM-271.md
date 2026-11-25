@@ -3,7 +3,11 @@ number: 271
 status: Proposed
 formerly:
 - CLAIM-tmp09i1b
-title: 'A collective''s reasons need not be any of its members'' reasons, so aggregating members'' conclusions, as polling does, can yield verdicts the collective''s own reasons do not support'
+title: 'Polling can contradict the collective''s reasons'
+statement: >-
+  A collective's reasons need not be any of its members' reasons, so
+  aggregating members' conclusions, as polling does, can yield verdicts the
+  collective's own reasons do not support
 version: 2
 history:
 - version: 2
@@ -55,7 +59,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-2216 — Proposed; the reading of Mulgan, 2026-11-22 -->
 
-# CLAIM-271: A collective's reasons need not be any of its members' reasons, so aggregating members' conclusions, as polling does, can yield verdicts the collective's own reasons do not support
+# CLAIM-271: Polling can contradict the collective's reasons
 
 ## The claim
 

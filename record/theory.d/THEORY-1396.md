@@ -3,7 +3,14 @@ number: 1396
 status: Active
 formerly:
 - THEORY-tmphqo3c
-title: 'Mukhopadhyay and colleagues present static coverage models for emergency response as moving from deterministic models that treat a facility as always available, through multiple coverage as a partial hedge against busy stations, to probabilistic models that represent station availability explicitly, beginning with the maximum expected covering and maximum availability models'
+title: 'Coverage models moved toward explicit availability'
+statement: >-
+  Mukhopadhyay and colleagues present static coverage models for emergency
+  response as moving from deterministic models that treat a facility as
+  always available, through multiple coverage as a partial hedge against
+  busy stations, to probabilistic models that represent station availability
+  explicitly, beginning with the maximum expected covering and maximum
+  availability models
 version: 3
 history:
 - version: 1
@@ -53,7 +60,7 @@ corroborates:
 - CLAIM-312
 ---
 
-# THEORY-1396: Mukhopadhyay and colleagues present static coverage models for emergency response as moving from deterministic models that treat a facility as always available, through multiple coverage as a partial hedge against busy stations, to probabilistic models that represent station availability explicitly, beginning with the maximum expected covering and maximum availability models
+# THEORY-1396: Coverage models moved toward explicit availability
 
 ## Source
 

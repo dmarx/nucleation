@@ -18,7 +18,11 @@ promote_when: >-
   direction shared across essays, models and prompts, but no dispersion
   of the outputs against the human revisions was measured, so narrowing
   is not shown. More historical analogies cannot settle it.
-title: 'Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale'
+title: 'Large models are cultural technologies, not agents'
+statement: >-
+  Large models are a cultural and social technology rather than agents:
+  lossy, uninvertible summaries of human-produced information that, like
+  prices and bureaucratic categories, let it be reorganized at scale
 version: 2
 history:
 - version: 2
@@ -51,7 +55,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as an adjacent account, not leaned on -->
 <!-- inactive-ok-file: THEORY-226 — Proposed; named in promote_when as partial evidence, not leaned on -->
 
-# THEORY-173: Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale
+# THEORY-173: Large models are cultural technologies, not agents
 
 ## Source
 

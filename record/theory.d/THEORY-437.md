@@ -3,7 +3,13 @@ number: 437
 status: Active
 formerly:
 - THEORY-tmp4l1it
-title: "When each agent's feasible actions depend on the others' actions, an equilibrium exists if every action set is a contractible polyhedron, every constraint correspondence has a closed graph with non-empty compact values, payoffs and the maximum-value functions are continuous, and every best-response set is contractible; convexity is not needed"
+title: 'Constrained-game equilibria need no convexity'
+statement: >-
+  When each agent's feasible actions depend on the others' actions, an
+  equilibrium exists if every action set is a contractible polyhedron, every
+  constraint correspondence has a closed graph with non-empty compact
+  values, payoffs and the maximum-value functions are continuous, and every
+  best-response set is contractible; convexity is not needed
 version: 1
 tags:
 - mathematics
@@ -22,7 +28,7 @@ summary: >-
   not in the paper.
 ---
 
-# THEORY-437: When each agent's feasible actions depend on the others' actions, an equilibrium exists if every action set is a contractible polyhedron, every constraint correspondence has a closed graph with non-empty compact values, payoffs and the maximum-value functions are continuous, and every best-response set is contractible; convexity is not needed
+# THEORY-437: Constrained-game equilibria need no convexity
 
 ## Source
 

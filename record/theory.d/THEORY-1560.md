@@ -10,7 +10,13 @@ promote_when: >-
   source cleaned of it, and the moral that source-level scrutiny cannot
   protect against such a binary. Whether the attack is practical, or how
   it is detected, is not asked.
-title: 'Thompson describes a compiler binary that miscompiles the login command to accept a known password and reinserts that Trojan horse, and itself, whenever the compiler is compiled, so that it persists after every source has been cleaned, and concludes that no source-level verification protects a user from code they did not create'
+title: 'Source verification can''t stop compiler Trojans'
+statement: >-
+  Thompson describes a compiler binary that miscompiles the login command to
+  accept a known password and reinserts that Trojan horse, and itself,
+  whenever the compiler is compiled, so that it persists after every source
+  has been cleaned, and concludes that no source-level verification protects
+  a user from code they did not create
 version: 1
 tags:
 - epistemology
@@ -27,7 +33,7 @@ summary: >-
   people who wrote the software").
 ---
 
-# THEORY-1560: Thompson describes a compiler binary that miscompiles the login command to accept a known password and reinserts that Trojan horse, and itself, whenever the compiler is compiled, so that it persists after every source has been cleaned, and concludes that no source-level verification protects a user from code they did not create
+# THEORY-1560: Source verification can't stop compiler Trojans
 
 ## The account
 

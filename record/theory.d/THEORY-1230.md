@@ -15,7 +15,13 @@ promote_when: >-
   cannot promote it, since other views also deny absoluteness; a scenario
   in which facts relative to different systems, compared by a physical
   interaction, disagree would refute it.
-title: 'In relational quantum mechanics, with facts fixed by interaction and the classical sum rule used only within one context or where facts are stable, facts relative to different systems never yield contradictory predictions in extended Wigner''s-friend scenarios, and a superobserver''s later facts agree with his friend''s'
+title: 'RQM facts never conflict in Wigner''s-friend cases'
+statement: >-
+  In relational quantum mechanics, with facts fixed by interaction and the
+  classical sum rule used only within one context or where facts are stable,
+  facts relative to different systems never yield contradictory predictions
+  in extended Wigner's-friend scenarios, and a superobserver's later facts
+  agree with his friend's
 version: 1
 tags:
 - quantum-foundations
@@ -34,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-621 — Proposed; the sibling account from another source, cited as open -->
 
-# THEORY-1230: In relational quantum mechanics, with facts fixed by interaction and the classical sum rule used only within one context or where facts are stable, facts relative to different systems never yield contradictory predictions in extended Wigner's-friend scenarios, and a superobserver's later facts agree with his friend's
+# THEORY-1230: RQM facts never conflict in Wigner's-friend cases
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1010
 status: Active
 formerly:
 - THEORY-tmpvs18m
-title: 'On ten corpora simulated from three-level hierarchical LDA itself (100 documents of 250 words, a vocabulary of 100, sparse topics with η = 0.005, γ = 1), the highest-probability state of the collapsed Gibbs sampler recovered the generating tree exactly in eight; in one of the other two a wrong tree had higher posterior probability than the true one'
+title: 'hLDA sampler recovers the true tree in 8 of 10'
+statement: >-
+  On ten corpora simulated from three-level hierarchical LDA itself (100
+  documents of 250 words, a vocabulary of 100, sparse topics with η = 0.005,
+  γ = 1), the highest-probability state of the collapsed Gibbs sampler
+  recovered the generating tree exactly in eight; in one of the other two a
+  wrong tree had higher posterior probability than the true one
 version: 2
 history:
 - version: 1
@@ -40,7 +46,7 @@ corroborates:
 - CLAIM-135
 ---
 
-# THEORY-1010: On ten corpora simulated from three-level hierarchical LDA itself (100 documents of 250 words, a vocabulary of 100, sparse topics with η = 0.005, γ = 1), the highest-probability state of the collapsed Gibbs sampler recovered the generating tree exactly in eight; in one of the other two a wrong tree had higher posterior probability than the true one
+# THEORY-1010: hLDA sampler recovers the true tree in 8 of 10
 
 ## Source
 

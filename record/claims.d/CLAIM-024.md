@@ -3,7 +3,14 @@ number: 24
 status: Proposed
 formerly:
 - CLAIM-tmp7j8hl
-title: 'Nothing here is new but a question: planning theory, control theory, executive control and institutional theory already study every mechanism the account names, and where the account has been set beside the expected value of control and Ainslie''s interests it differs only in asking what governs how the driver changes rather than who drives, a question those mechanisms may answer without it'
+title: 'Nothing here is new but a question'
+statement: >-
+  Nothing here is new but a question: planning theory, control theory,
+  executive control and institutional theory already study every mechanism
+  the account names, and where the account has been set beside the expected
+  value of control and Ainslie's interests it differs only in asking what
+  governs how the driver changes rather than who drives, a question those
+  mechanisms may answer without it
 version: 4
 history:
 - version: 2
@@ -61,7 +68,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-889 CLAIM-890 — new; LEAD-089's study, finding and reading -->
 <!-- inactive-ok-file: CLAIM-487 — Proposed; the gain claim this objects to, open -->
 
-# CLAIM-024: Nothing here is new but a question: planning theory, control theory, executive control and institutional theory already study every mechanism the account names, and where the account has been set beside the expected value of control and Ainslie's interests it differs only in asking what governs how the driver changes rather than who drives, a question those mechanisms may answer without it
+# CLAIM-024: Nothing here is new but a question
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 1273
 status: Proposed
 formerly:
 - CLAIM-tmpgli4k
-title: Credit should attach to the work that was done, at the level where the contribution occurred, so that a claim, method, critique or revision held as an identifiable object carries its own provenance and a citation can name the inference and the version it relied on rather than the paper that contained it
+title: 'Credit attaches where the contribution occurred'
+statement: >-
+  Credit should attach to the work that was done, at the level where the
+  contribution occurred, so that a claim, method, critique or revision held
+  as an identifiable object carries its own provenance and a citation can
+  name the inference and the version it relied on rather than the paper that
+  contained it
 version: 3
 history:
 - version: 2
@@ -58,7 +64,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-668 THEORY-1758 CLAIM-1290 — Proposed; the owner's thesis, the claim on what a record represents, the reading and the assistant's gap fill -->
 
-# CLAIM-1273: Credit should attach to the work that was done, at the level where the contribution occurred, so that a claim, method, critique or revision held as an identifiable object carries its own provenance and a citation can name the inference and the version it relied on rather than the paper that contained it
+# CLAIM-1273: Credit attaches where the contribution occurred
 
 ## The claim
 

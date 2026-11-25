@@ -3,7 +3,12 @@ number: 252
 status: Active
 formerly:
 - CLAIM-tmpvh0gc
-title: 'The account does not say which distinctions a translation ought to keep: it says how to tell which ones a rendering kept for stated tasks and receivers, and what ought to be kept is set by the purpose the translation serves'
+title: 'Says what was kept, not what ought to be'
+statement: >-
+  The account does not say which distinctions a translation ought to keep:
+  it says how to tell which ones a rendering kept for stated tasks and
+  receivers, and what ought to be kept is set by the purpose the translation
+  serves
 version: 1
 role: disclaimed
 warrant: interpretive
@@ -34,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-220 — Proposed; the record's revised thesis of 2026-10-10, open, which this disclaimer bounds -->
 <!-- inactive-ok-file: CLAIM-189 CLAIM-191 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# CLAIM-252: The account does not say which distinctions a translation ought to keep: it says how to tell which ones a rendering kept for stated tasks and receivers, and what ought to be kept is set by the purpose the translation serves
+# CLAIM-252: Says what was kept, not what ought to be
 
 ## The claim
 

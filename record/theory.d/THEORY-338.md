@@ -3,7 +3,15 @@ number: 338
 status: Active
 formerly:
 - THEORY-tmpb49hk
-title: "For a list searched from the front, where reaching the i-th item costs i, moving each found item to the front costs at most twice what any rule costs on the same sequence, including rules that know the future (four times counting its own moves), a fixed order by access frequency is within no constant factor, and paying to rearrange ahead of need never helps; for paging, no online rule beats the offline optimum by less than n/(n − n_MIN + 1), and LRU meets that bound"
+title: 'Move-to-front is 2-competitive; LRU is optimal'
+statement: >-
+  For a list searched from the front, where reaching the i-th item costs i,
+  moving each found item to the front costs at most twice what any rule
+  costs on the same sequence, including rules that know the future (four
+  times counting its own moves), a fixed order by access frequency is within
+  no constant factor, and paying to rearrange ahead of need never helps; for
+  paging, no online rule beats the offline optimum by less than n/(n − n_MIN
+  + 1), and LRU meets that bound
 version: 1
 tags:
 - databases
@@ -27,7 +35,7 @@ bears_on:
 - QUESTION-114
 ---
 
-# THEORY-338: For a list searched from the front, where reaching the i-th item costs i, moving each found item to the front costs at most twice what any rule costs on the same sequence, including rules that know the future (four times counting its own moves), a fixed order by access frequency is within no constant factor, and paying to rearrange ahead of need never helps; for paging, no online rule beats the offline optimum by less than n/(n − n_MIN + 1), and LRU meets that bound
+# THEORY-338: Move-to-front is 2-competitive; LRU is optimal
 
 ## Source
 

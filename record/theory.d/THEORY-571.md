@@ -15,7 +15,14 @@ promote_when: >-
   one state with its own method, cannot settle it, and neither can a
   model that fits functional connectivity without predicting a
   perturbation's effect out of sample.
-title: "A brain state is better characterised by how its activity moves among a repertoire of weakly coupled metastable substates on a landscape constrained by the structural connectome, their occupancy, dwell times and transitions, than by static connectivity; health is a metastable balance, depression a landscape of over-deep attractors and psychedelic states a flattened one, at opposite ends of one spectrum"
+title: 'Brain states are metastable landscape dynamics'
+statement: >-
+  A brain state is better characterised by how its activity moves among a
+  repertoire of weakly coupled metastable substates on a landscape
+  constrained by the structural connectome, their occupancy, dwell times and
+  transitions, than by static connectivity; health is a metastable balance,
+  depression a landscape of over-deep attractors and psychedelic states a
+  flattened one, at opposite ends of one spectrum
 version: 1
 tags:
 - neuroscience
@@ -39,7 +46,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-088 — Proposed; the continuous description weighed against this one, not leaned on -->
 
-# THEORY-571: A brain state is better characterised by how its activity moves among a repertoire of weakly coupled metastable substates on a landscape constrained by the structural connectome, their occupancy, dwell times and transitions, than by static connectivity; health is a metastable balance, depression a landscape of over-deep attractors and psychedelic states a flattened one, at opposite ends of one spectrum
+# THEORY-571: Brain states are metastable landscape dynamics
 
 ## Source
 

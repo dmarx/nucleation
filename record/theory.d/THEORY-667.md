@@ -15,7 +15,15 @@ promote_when: >-
   and marker come apart. The ameliorative half cannot be settled by
   evidence at all, since the definitions are chosen for a purpose; agreeing
   with that purpose is not support for the descriptive claim.
-title: "Gender and race, defined as a feminist and antiracist theory needs them, are hierarchical social positions: a woman is someone subordinated in part because she is taken to have bodily features presumed to show a female's reproductive role, a racialized group is one subordinated or privileged in part because its members are taken to have features presumed to show ancestry from a region, and on these definitions both are real, social and contingent"
+title: 'Gender and race are hierarchical positions'
+statement: >-
+  Gender and race, defined as a feminist and antiracist theory needs them,
+  are hierarchical social positions: a woman is someone subordinated in part
+  because she is taken to have bodily features presumed to show a female's
+  reproductive role, a racialized group is one subordinated or privileged in
+  part because its members are taken to have features presumed to show
+  ancestry from a region, and on these definitions both are real, social and
+  contingent
 version: 1
 tags:
 - social-ontology
@@ -37,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-575 THEORY-487 THEORY-648 — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
 <!-- inactive-ok-file: LIT-491 — Unavailable, no lawful full text; Ásta's Categories We Live By, named as the rival account of the same categories, not leaned on -->
 
-# THEORY-667: Gender and race, defined as a feminist and antiracist theory needs them, are hierarchical social positions: a woman is someone subordinated in part because she is taken to have bodily features presumed to show a female's reproductive role, a racialized group is one subordinated or privileged in part because its members are taken to have features presumed to show ancestry from a region, and on these definitions both are real, social and contingent
+# THEORY-667: Gender and race are hierarchical positions
 
 ## Source
 

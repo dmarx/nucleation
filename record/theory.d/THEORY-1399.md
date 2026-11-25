@@ -8,7 +8,12 @@ promote_when: >-
   that folding proceeds by facet bending, and finds a critical plane angle
   separating monostable from bistable response that shifts with the ratio
   of bending to crease stiffness.
-title: 'Silverberg and colleagues show that the square-twist origami, whose crease pattern admits no rigid folding motion, folds by bending its facets, and that the ratio of bending to crease stiffness, together with the plane angle, sets a critical transition between monostable and bistable folding'
+title: 'Square-twist folds by bending, can be bistable'
+statement: >-
+  Silverberg and colleagues show that the square-twist origami, whose crease
+  pattern admits no rigid folding motion, folds by bending its facets, and
+  that the ratio of bending to crease stiffness, together with the plane
+  angle, sets a critical transition between monostable and bistable folding
 version: 2
 history:
 - version: 2
@@ -37,7 +42,7 @@ bears_on:
 - QUESTION-391
 ---
 
-# THEORY-1399: Silverberg and colleagues show that the square-twist origami, whose crease pattern admits no rigid folding motion, folds by bending its facets, and that the ratio of bending to crease stiffness, together with the plane angle, sets a critical transition between monostable and bistable folding
+# THEORY-1399: Square-twist folds by bending, can be bistable
 
 ## Source
 

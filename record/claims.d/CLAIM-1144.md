@@ -3,9 +3,11 @@ number: 1144
 status: Proposed
 formerly:
 - CLAIM-tmpntzjo
-title: There is an inherent tension between stabilizing an organization's
-  identity and keeping it adaptable, and the appropriate response to a demand
-  depends on the timescale of that demand
+title: 'Identity stability and adaptability are in tension'
+statement: >-
+  There is an inherent tension between stabilizing an organization's
+  identity and keeping it adaptable, and the appropriate response to a
+  demand depends on the timescale of that demand
 version: 2
 history:
 - version: 2
@@ -43,7 +45,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-184 CLAIM-478 CLAIM-758 CLAIM-1066 CLAIM-1104 SYNTHESIS-046 TERM-167 — Proposed; cited in this filing of 2026-11-22 (second share) -->
 
-# CLAIM-1144: There is an inherent tension between stabilizing an organization's identity and keeping it adaptable, and the appropriate response to a demand depends on the timescale of that demand
+# CLAIM-1144: Identity stability and adaptability are in tension
 
 ## The claim
 

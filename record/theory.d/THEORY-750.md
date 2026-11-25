@@ -3,7 +3,16 @@ number: 750
 status: Active
 formerly:
 - THEORY-tmpe0x90
-title: 'For a stationary Gaussian signal the lag-τ entropy rate with one-point embedding is h_τ = H(X) + ½ log(1 − c(τ)²), so where the normalized second-order structure function 1 − c(τ) is small and scales as τ^ζ₂, h_τ = (ζ₂/2) log τ + constant; the "scaling of information" that Granero-Belinchón, Roux and Garnier measure in near-Gaussian wind-tunnel turbulence, slope 1/3 in the inertial range and 1 in the dissipative range, is the scaling of the second-order structure function written in nats'
+title: 'Information scaling is structure-function scaling'
+statement: >-
+  For a stationary Gaussian signal the lag-τ entropy rate with one-point
+  embedding is h_τ = H(X) + ½ log(1 − c(τ)²), so where the normalized
+  second-order structure function 1 − c(τ) is small and scales as τ^ζ₂, h_τ
+  = (ζ₂/2) log τ + constant; the "scaling of information" that
+  Granero-Belinchón, Roux and Garnier measure in near-Gaussian wind-tunnel
+  turbulence, slope 1/3 in the inertial range and 1 in the dissipative
+  range, is the scaling of the second-order structure function written in
+  nats
 version: 1
 history:
 - version: 1
@@ -38,7 +47,7 @@ bears_on:
 - QUESTION-219
 ---
 
-# THEORY-750: For a stationary Gaussian signal the lag-τ entropy rate with one-point embedding is h_τ = H(X) + ½ log(1 − c(τ)²), so where the normalized second-order structure function 1 − c(τ) is small and scales as τ^ζ₂, h_τ = (ζ₂/2) log τ + constant; the "scaling of information" that Granero-Belinchón, Roux and Garnier measure in near-Gaussian wind-tunnel turbulence, slope 1/3 in the inertial range and 1 in the dissipative range, is the scaling of the second-order structure function written in nats
+# THEORY-750: Information scaling is structure-function scaling
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1285
 status: Proposed
 formerly:
 - CLAIM-tmpjitli
-title: 'Memes can express characteristic aspects of a perspective''s relational organization independently of its realization and, through uptake, take part in nucleating and reconstituting perspectives in other carriers, so memetic fidelity can be the preservation of characteristic relations rather than the copying of content'
+title: 'Memetic fidelity as preserved relations'
+statement: >-
+  Memes can express characteristic aspects of a perspective's relational
+  organization independently of its realization and, through uptake, take
+  part in nucleating and reconstituting perspectives in other carriers, so
+  memetic fidelity can be the preservation of characteristic relations
+  rather than the copying of content
 version: 1
 role: thesis
 warrant: interpretive
@@ -54,7 +60,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-136 CLAIM-137 CLAIM-142 CLAIM-417 CLAIM-1227 CLAIM-1278 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
-# CLAIM-1285: Memes can express characteristic aspects of a perspective's relational organization independently of its realization and, through uptake, take part in nucleating and reconstituting perspectives in other carriers, so memetic fidelity can be the preservation of characteristic relations rather than the copying of content
+# CLAIM-1285: Memetic fidelity as preserved relations
 
 ## The claim
 

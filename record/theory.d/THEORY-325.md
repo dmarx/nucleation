@@ -16,7 +16,10 @@ promote_when: >-
   examples, and is THEORY-724 (Active) since 2026-10-19. What cannot
   settle it: more simulations of particular systems, which add instances,
   not generality.
-title: 'Random variation of a linear operator destabilizes it generically, needing less variation the more non-normal and less damped the mean operator'
+title: 'Noise destabilizes operators, more if non-normal'
+statement: >-
+  Random variation of a linear operator destabilizes it generically, needing
+  less variation the more non-normal and less damped the mean operator
 version: 3
 history:
 - version: 2
@@ -62,7 +65,7 @@ bounds:
 <!-- inactive-ok-file: CLAIM-186 — Proposed; the claim this account bears on, open -->
 <!-- inactive-ok-file: THEORY-323 — Proposed; the autonomous account this one extends -->
 
-# THEORY-325: Random variation of a linear operator destabilizes it generically, needing less variation the more non-normal and less damped the mean operator
+# THEORY-325: Noise destabilizes operators, more if non-normal
 
 ## Source
 

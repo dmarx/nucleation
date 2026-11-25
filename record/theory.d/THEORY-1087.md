@@ -3,7 +3,16 @@ number: 1087
 status: Active
 formerly:
 - THEORY-tmprsknh
-title: 'In the symmetric Sakaguchi–Kuramoto model on a triangle and a pentagon sharing one vertex, the lag α gives each ℓ-cycle a phase-independent path mismatch (ℓ − 2)α, and the remote-synchronized locked branch passes through an exact two-group state at α = π/3, where the pentagon''s mismatch reaches π; but that branch has already lost transverse stability, in the pentagonal symmetry sector, at αc ≃ 1.0164, so the point of maximal cycle frustration marks the geometry of the phase relations, not the end of the synchronized pattern'
+title: 'Maximal frustration isn''t where sync breaks'
+statement: >-
+  In the symmetric Sakaguchi–Kuramoto model on a triangle and a pentagon
+  sharing one vertex, the lag α gives each ℓ-cycle a phase-independent path
+  mismatch (ℓ − 2)α, and the remote-synchronized locked branch passes
+  through an exact two-group state at α = π/3, where the pentagon's mismatch
+  reaches π; but that branch has already lost transverse stability, in the
+  pentagonal symmetry sector, at αc ≃ 1.0164, so the point of maximal cycle
+  frustration marks the geometry of the phase relations, not the end of the
+  synchronized pattern
 version: 1
 tags:
 - network-science
@@ -22,7 +31,7 @@ summary: >-
   what this says.
 ---
 
-# THEORY-1087: In the symmetric Sakaguchi–Kuramoto model on a triangle and a pentagon sharing one vertex, the lag α gives each ℓ-cycle a phase-independent path mismatch (ℓ − 2)α, and the remote-synchronized locked branch passes through an exact two-group state at α = π/3, where the pentagon's mismatch reaches π; but that branch has already lost transverse stability, in the pentagonal symmetry sector, at αc ≃ 1.0164, so the point of maximal cycle frustration marks the geometry of the phase relations, not the end of the synchronized pattern
+# THEORY-1087: Maximal frustration isn't where sync breaks
 
 ## Source
 

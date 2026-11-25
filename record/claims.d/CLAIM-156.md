@@ -3,7 +3,12 @@ number: 156
 status: Proposed
 formerly:
 - CLAIM-tmp7lzto
-title: 'Mindfulness integrates a population of interests by changing which of them may act, and not only by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and that step needs no change in the discount curves'
+title: 'Mindfulness changes which interests may act'
+statement: >-
+  Mindfulness integrates a population of interests by changing which of them
+  may act, and not only by changing what they value: noticing an impulse as
+  an impulse suspends the step from its momentary dominance to its control
+  of action, and that step needs no change in the discount curves
 version: 3
 history:
 - version: 2
@@ -77,7 +82,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-044 THEORY-051 THEORY-064 THEORY-067 — Proposed; the readings this conjecture sets its mechanism beside, with their weak standing stated -->
 <!-- inactive-ok-file: THEORY-2241 ARG-206 — new on 2026-11-22; the LEAD-078 reading of Ge et al. and the judgement that it does not show this claim's route -->
 
-# CLAIM-156: Mindfulness integrates a population of interests by changing which of them may act, and not only by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and that step needs no change in the discount curves
+# CLAIM-156: Mindfulness changes which interests may act
 
 ## The claim
 

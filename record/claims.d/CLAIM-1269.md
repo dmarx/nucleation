@@ -3,7 +3,15 @@ number: 1269
 status: Proposed
 formerly:
 - CLAIM-tmpei0cf
-title: 'Relative to a separately justified standard, many cognitive biases are spurious sensitivity, a response that varies under a transformation of the situation that the standard treats as irrelevant, or spurious invariance, a response that does not vary under one the standard treats as relevant, so a family of response contrasts under controlled transformations is a candidate signature of a perspective, not yet a character in the representation-theoretic sense'
+title: 'Biases as spurious sensitivity or invariance'
+statement: >-
+  Relative to a separately justified standard, many cognitive biases are
+  spurious sensitivity, a response that varies under a transformation of the
+  situation that the standard treats as irrelevant, or spurious invariance,
+  a response that does not vary under one the standard treats as relevant,
+  so a family of response contrasts under controlled transformations is a
+  candidate signature of a perspective, not yet a character in the
+  representation-theoretic sense
 version: 1
 role: thesis
 warrant: interpretive
@@ -46,7 +54,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-298 LIT-3238 — Proposed or Deferred; the held frame claim and the unread work A11 cites -->
 
-# CLAIM-1269: Relative to a separately justified standard, many cognitive biases are spurious sensitivity, a response that varies under a transformation of the situation that the standard treats as irrelevant, or spurious invariance, a response that does not vary under one the standard treats as relevant, so a family of response contrasts under controlled transformations is a candidate signature of a perspective, not yet a character in the representation-theoretic sense
+# CLAIM-1269: Biases as spurious sensitivity or invariance
 
 ## The claim
 

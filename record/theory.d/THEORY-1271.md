@@ -15,7 +15,15 @@ promote_when: >-
   is shown to pass from a local perturbation to a different persistent
   global regime. Examples from organisms, which the paper already gives,
   cannot settle it.
-title: 'Mossio, Montévil and Longo argue that closure of constraints both stabilizes and propagates variation: it regenerates each constraint beyond the time scale at which it is conserved, and removes a variation only if the variation does not reach the constraints that regenerate the varied one; when it does reach them, the variation propagates and the system either loses closure and disintegrates or comes to realize a new closure, which they say a rock, a flame or a table cannot do'
+title: 'Closure both stabilizes and propagates variation'
+statement: >-
+  Mossio, Montévil and Longo argue that closure of constraints both
+  stabilizes and propagates variation: it regenerates each constraint beyond
+  the time scale at which it is conserved, and removes a variation only if
+  the variation does not reach the constraints that regenerate the varied
+  one; when it does reach them, the variation propagates and the system
+  either loses closure and disintegrates or comes to realize a new closure,
+  which they say a rock, a flame or a table cannot do
 version: 1
 tags:
 - philosophy-of-biology
@@ -33,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-514 — Proposed; Baedke's demarcation and the flame contrast, cited as open -->
 
-# THEORY-1271: Mossio, Montévil and Longo argue that closure of constraints both stabilizes and propagates variation: it regenerates each constraint beyond the time scale at which it is conserved, and removes a variation only if the variation does not reach the constraints that regenerate the varied one; when it does reach them, the variation propagates and the system either loses closure and disintegrates or comes to realize a new closure, which they say a rock, a flame or a table cannot do
+# THEORY-1271: Closure both stabilizes and propagates variation
 
 ## Source
 

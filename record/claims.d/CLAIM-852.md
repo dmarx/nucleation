@@ -3,7 +3,16 @@ number: 852
 status: Proposed
 formerly:
 - CLAIM-tmpqy8mq
-title: 'The sign flip that Acharya, Rimal and Dhakal call the dual geometry of transformer representations is what Park, Choe and Veitch''s map from unembedding to embedding representations predicts: the map multiplies a concept''s unembedding contrast by the inverse of the unembedding covariance, which divides each eigencomponent by its eigenvalue and so moves the vector''s energy toward the spectral tail, a rescaling in a fixed eigenbasis rather than a rotation of concept information by the forward pass'
+title: 'Dual geometry is inverse-covariance rescaling'
+statement: >-
+  The sign flip that Acharya, Rimal and Dhakal call the dual geometry of
+  transformer representations is what Park, Choe and Veitch's map from
+  unembedding to embedding representations predicts: the map multiplies a
+  concept's unembedding contrast by the inverse of the unembedding
+  covariance, which divides each eigencomponent by its eigenvalue and so
+  moves the vector's energy toward the spectral tail, a rescaling in a fixed
+  eigenbasis rather than a rotation of concept information by the forward
+  pass
 version: 2
 history:
 - version: 2
@@ -49,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-853 — Proposed; the inequality this rests on -->
 <!-- inactive-ok-file: THEORY-2159 ARG-155 — Proposed or new; the reading this claim explains and the argument filed with it -->
 
-# CLAIM-852: The sign flip that Acharya, Rimal and Dhakal call the dual geometry of transformer representations is what Park, Choe and Veitch's map from unembedding to embedding representations predicts: the map multiplies a concept's unembedding contrast by the inverse of the unembedding covariance, which divides each eigencomponent by its eigenvalue and so moves the vector's energy toward the spectral tail, a rescaling in a fixed eigenbasis rather than a rotation of concept information by the forward pass
+# CLAIM-852: Dual geometry is inverse-covariance rescaling
 
 ## The claim
 

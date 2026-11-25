@@ -11,7 +11,13 @@ promote_when: >-
   symptoms, and the ADHD association confined to related pairs. Or an
   independent donor-gamete sample reproduces that pattern. A study of
   naturally conceived children cannot meet it.
-title: 'Rice and colleagues report that, in children conceived by IVF, a mother''s late-pregnancy stress went with lower birth weight, shorter gestation and more antisocial behaviour whether or not she was the child''s genetic mother, while its link with ADHD symptoms appeared only when she was, and read the first as prenatal environmental and the second as inherited'
+title: 'Prenatal stress effects mostly environmental'
+statement: >-
+  Rice and colleagues report that, in children conceived by IVF, a mother's
+  late-pregnancy stress went with lower birth weight, shorter gestation and
+  more antisocial behaviour whether or not she was the child's genetic
+  mother, while its link with ADHD symptoms appeared only when she was, and
+  read the first as prenatal environmental and the second as inherited
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -32,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1182 CLAIM-1017 — filed by the lead run of 2026-11-23 -->
 
-# THEORY-2297: Rice and colleagues report that, in children conceived by IVF, a mother's late-pregnancy stress went with lower birth weight, shorter gestation and more antisocial behaviour whether or not she was the child's genetic mother, while its link with ADHD symptoms appeared only when she was, and read the first as prenatal environmental and the second as inherited
+# THEORY-2297: Prenatal stress effects mostly environmental
 
 ## The account
 

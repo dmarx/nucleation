@@ -3,7 +3,14 @@ number: 1068
 status: Active
 formerly:
 - THEORY-tmpduhhr
-title: 'In the founding statement of relational quantum mechanics the states and values of systems are relative to other systems, but the systems are not: the world is assumed decomposed, possibly in several ways, into systems each characterized by the questions that can be asked of it and a finite information capacity, so the relata precede the relations, as an assumption and without an ontology of events'
+title: 'RQM''s relata precede the relations'
+statement: >-
+  In the founding statement of relational quantum mechanics the states and
+  values of systems are relative to other systems, but the systems are not:
+  the world is assumed decomposed, possibly in several ways, into systems
+  each characterized by the questions that can be asked of it and a finite
+  information capacity, so the relata precede the relations, as an
+  assumption and without an ontology of events
 version: 2
 history:
 - version: 2
@@ -35,7 +42,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-136 CLAIM-477 — Proposed; neighbours cited as open -->
 
-# THEORY-1068: In the founding statement of relational quantum mechanics the states and values of systems are relative to other systems, but the systems are not: the world is assumed decomposed, possibly in several ways, into systems each characterized by the questions that can be asked of it and a finite information capacity, so the relata precede the relations, as an assumption and without an ontology of events
+# THEORY-1068: RQM's relata precede the relations
 
 ## Source
 

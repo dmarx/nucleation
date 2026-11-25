@@ -3,7 +3,15 @@ number: 975
 status: Active
 formerly:
 - THEORY-tmp9uzkw
-title: 'In a two-layer attention-only transformer trained on the Pile, the weight-refined local learning coefficients of individual attention heads start alike and diverge over training, and clustering the curves groups the heads by the functional types that ablation assigns them at the end of training, previous-token, current-token, induction and n-gram-memorizing; among layer-1 heads, those running simple algorithms end with the lowest values and those memorizing the most n-grams with the highest'
+title: 'Head learning coefficients cluster by function'
+statement: >-
+  In a two-layer attention-only transformer trained on the Pile, the
+  weight-refined local learning coefficients of individual attention heads
+  start alike and diverge over training, and clustering the curves groups
+  the heads by the functional types that ablation assigns them at the end of
+  training, previous-token, current-token, induction and n-gram-memorizing;
+  among layer-1 heads, those running simple algorithms end with the lowest
+  values and those memorizing the most n-grams with the highest
 version: 2
 history:
 - version: 1
@@ -49,7 +57,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-967 — Proposed; the companion account from the same reading, cited as open -->
 <!-- inactive-ok-file: THEORY-2160 CLAIM-812 — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
-# THEORY-975: In a two-layer attention-only transformer trained on the Pile, the weight-refined local learning coefficients of individual attention heads start alike and diverge over training, and clustering the curves groups the heads by the functional types that ablation assigns them at the end of training, previous-token, current-token, induction and n-gram-memorizing; among layer-1 heads, those running simple algorithms end with the lowest values and those memorizing the most n-grams with the highest
+# THEORY-975: Head learning coefficients cluster by function
 
 ## Source
 

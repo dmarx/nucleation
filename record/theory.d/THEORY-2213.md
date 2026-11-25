@@ -3,7 +3,13 @@ number: 2213
 status: Proposed
 formerly:
 - THEORY-tmptzl64
-title: 'Martela and Ryan (2021) find in three preregistered experiments that a small, instructed negative impact on a charity raises felt beneficence frustration but not self-reported ill-being, while an equal positive impact raises well-being, an asymmetry consistent with beneficence enhancing wellness without its frustration harming it'
+title: 'Negative impact frustrates without ill-being'
+statement: >-
+  Martela and Ryan (2021) find in three preregistered experiments that a
+  small, instructed negative impact on a charity raises felt beneficence
+  frustration but not self-reported ill-being, while an equal positive
+  impact raises well-being, an asymmetry consistent with beneficence
+  enhancing wellness without its frustration harming it
 version: 1
 source:
 - LIT-3085
@@ -30,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1980 — Unfetched; the work this reading stands in for, in part -->
 
-# THEORY-2213: Martela and Ryan (2021) find in three preregistered experiments that a small, instructed negative impact on a charity raises felt beneficence frustration but not self-reported ill-being, while an equal positive impact raises well-being, an asymmetry consistent with beneficence enhancing wellness without its frustration harming it
+# THEORY-2213: Negative impact frustrates without ill-being
 
 ## The account
 

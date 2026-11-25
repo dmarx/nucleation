@@ -3,7 +3,16 @@ number: 1050
 status: Active
 formerly:
 - THEORY-tmpmjn0i
-title: 'In Athreya, Czuppon and Gokhale''s adaptive-dynamics model of an incipient endosymbiosis, mutual dependence (the product of the partners'' obligacies) evolves ahead of reproductive cohesion (the product of their adhesions) early on, but only under the mapping in which each partner''s free-living growth depends on its own obligacy alone while dissociation depends on both partners'' adhesions; the authors'' own appendix shows the bias vanishing under matched mappings and reversing under the opposite one, and their survey of real symbioses cannot test it'
+title: 'Dependence-first bias rests on one mapping'
+statement: >-
+  In Athreya, Czuppon and Gokhale's adaptive-dynamics model of an incipient
+  endosymbiosis, mutual dependence (the product of the partners' obligacies)
+  evolves ahead of reproductive cohesion (the product of their adhesions)
+  early on, but only under the mapping in which each partner's free-living
+  growth depends on its own obligacy alone while dissociation depends on
+  both partners' adhesions; the authors' own appendix shows the bias
+  vanishing under matched mappings and reversing under the opposite one, and
+  their survey of real symbioses cannot test it
 version: 2
 history:
 - version: 1
@@ -66,7 +75,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1243 — Proposed; filed beside this reading by the twenty-fourth status review: the inference the authors draw for nature -->
 <!-- inactive-ok-file: LIT-1605 — Open or Deferred; the question this bears on, and an unread model of host control set beside it -->
-# THEORY-1050: In Athreya, Czuppon and Gokhale's adaptive-dynamics model of an incipient endosymbiosis, mutual dependence (the product of the partners' obligacies) evolves ahead of reproductive cohesion (the product of their adhesions) early on, but only under the mapping in which each partner's free-living growth depends on its own obligacy alone while dissociation depends on both partners' adhesions; the authors' own appendix shows the bias vanishing under matched mappings and reversing under the opposite one, and their survey of real symbioses cannot test it
+# THEORY-1050: Dependence-first bias rests on one mapping
 
 ## Source
 

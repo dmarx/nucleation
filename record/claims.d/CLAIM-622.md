@@ -3,7 +3,13 @@ number: 622
 status: Active
 formerly:
 - CLAIM-tmpo48w1
-title: 'Two organizations facing the same circumstances with the same acceptable actions can each be minimally adequate while telling apart different and incomparable sets of circumstances, so a difference in the distinctions two perspectives draw is not by itself evidence that either is deficient; which is deficient can be judged only against the policy each commits to'
+title: 'Equally adequate, incomparably discerning'
+statement: >-
+  Two organizations facing the same circumstances with the same acceptable
+  actions can each be minimally adequate while telling apart different and
+  incomparable sets of circumstances, so a difference in the distinctions
+  two perspectives draw is not by itself evidence that either is deficient;
+  which is deficient can be judged only against the policy each commits to
 version: 3
 history:
 - version: 2
@@ -72,7 +78,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-226 — filed from the same exchange, Proposed; the comparative study this claim bears on -->
 <!-- ref::uses-file: TERM-072 — the "different perspectives on the same circumstances" two organizations develop, the distinctions each draws under its policy, are TERM-072's organizational perspectives -->
 
-# CLAIM-622: Two organizations facing the same circumstances with the same acceptable actions can each be minimally adequate while telling apart different and incomparable sets of circumstances, so a difference in the distinctions two perspectives draw is not by itself evidence that either is deficient; which is deficient can be judged only against the policy each commits to
+# CLAIM-622: Equally adequate, incomparably discerning
 
 ## The claim
 

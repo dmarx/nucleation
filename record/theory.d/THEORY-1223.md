@@ -15,7 +15,12 @@ promote_when: >-
   refuted if a reduced mitosome is found, or if genes that compensate for
   the organelle's absence turn up once the hypothetical proteins are
   characterized.
-title: 'Monocercomonoides exilis lost its mitochondrion only after the organelle''s essential functions had been removed in steps, Fe–S cluster assembly to a cytosolic SUF system and then the glycine cleavage system by loss, and the loss required no compensating change elsewhere in the cell'
+title: 'Monocercomonoides lost mitochondria in steps'
+statement: >-
+  Monocercomonoides exilis lost its mitochondrion only after the organelle's
+  essential functions had been removed in steps, Fe–S cluster assembly to a
+  cytosolic SUF system and then the glycine cleavage system by loss, and the
+  loss required no compensating change elsewhere in the cell
 version: 1
 tags:
 - endosymbiosis
@@ -36,7 +41,7 @@ summary: >-
   word.
 ---
 
-# THEORY-1223: Monocercomonoides exilis lost its mitochondrion only after the organelle's essential functions had been removed in steps, Fe–S cluster assembly to a cytosolic SUF system and then the glycine cleavage system by loss, and the loss required no compensating change elsewhere in the cell
+# THEORY-1223: Monocercomonoides lost mitochondria in steps
 
 ## Source
 

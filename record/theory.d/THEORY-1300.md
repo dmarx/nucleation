@@ -17,7 +17,13 @@ promote_when: >-
   representation lapses, which would mean the ability itself lapsed. More
   reports that one felt one could have stopped cannot settle it, since
   the account says such reports are reconstructions.
-title: "In mind-wandering the capacity for veto over one's own mental processes is kept and its representation in the self-model is lost, and on Metzinger's principle a capacity can be deliberately exercised only while it is so represented; the loss of M-autonomy is then the loss of a condition of the capacity's efficacy, not of the capacity"
+title: 'Mind-wandering hides veto, doesn''t remove it'
+statement: >-
+  In mind-wandering the capacity for veto over one's own mental processes is
+  kept and its representation in the self-model is lost, and on Metzinger's
+  principle a capacity can be deliberately exercised only while it is so
+  represented; the loss of M-autonomy is then the loss of a condition of the
+  capacity's efficacy, not of the capacity
 version: 1
 tags:
 - agency
@@ -45,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-051 CLAIM-355 THEORY-064 — Proposed or Open; the question, inference and neighbours this reading bears on, cited as open -->
 <!-- inactive-ok-file: THEORY-2264 THEORY-2265 THEORY-2266 — new in this filing and Proposed or Rejected; the readings of LEAD-141, cited as open -->
 
-# THEORY-1300: In mind-wandering the capacity for veto over one's own mental processes is kept and its representation in the self-model is lost, and on Metzinger's principle a capacity can be deliberately exercised only while it is so represented; the loss of M-autonomy is then the loss of a condition of the capacity's efficacy, not of the capacity
+# THEORY-1300: Mind-wandering hides veto, doesn't remove it
 
 ## Source
 

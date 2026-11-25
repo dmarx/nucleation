@@ -3,7 +3,13 @@ number: 1578
 status: Active
 formerly:
 - THEORY-tmp72vte
-title: 'Stich argues that Sober and Wilson''s evolutionary arguments from parental care give no evidence for psychological altruism, the strongest of them failing if hedonism rests on sticky sub-doxastic beliefs, which would make it as reliable as an ultimate desire for the child''s welfare, and holds that evolutionary and psychological altruism are logically independent'
+title: 'Parental care gives no evidence for altruism'
+statement: >-
+  Stich argues that Sober and Wilson's evolutionary arguments from parental
+  care give no evidence for psychological altruism, the strongest of them
+  failing if hedonism rests on sticky sub-doxastic beliefs, which would make
+  it as reliable as an ultimate desire for the child's welfare, and holds
+  that evolutionary and psychological altruism are logically independent
 version: 2
 history:
 - version: 1
@@ -44,7 +50,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1578: Stich argues that Sober and Wilson's evolutionary arguments from parental care give no evidence for psychological altruism, the strongest of them failing if hedonism rests on sticky sub-doxastic beliefs, which would make it as reliable as an ultimate desire for the child's welfare, and holds that evolutionary and psychological altruism are logically independent
+# THEORY-1578: Parental care gives no evidence for altruism
 
 ## The account
 

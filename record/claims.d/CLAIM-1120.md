@@ -3,13 +3,15 @@ number: 1120
 status: Proposed
 formerly:
 - CLAIM-tmpjz94s
-title: 'Measured against the same institution scored by an independent count of
-  all its violations, a penalty on newly recognized violations without reward for
-  their discovery produces avoidance of inquiry in an adaptive institution: in the
-  simulated institution, learned inquiry falls from about half its budget to nearly
-  none in every setting, and at the optimum the violations left at the end rise
-  from none to between a third and two thirds of those it began with, while its
-  internal count shows almost none'
+title: 'Penalty without discovery reward deters inquiry'
+statement: >-
+  Measured against the same institution scored by an independent count of
+  all its violations, a penalty on newly recognized violations without
+  reward for their discovery produces avoidance of inquiry in an adaptive
+  institution: in the simulated institution, learned inquiry falls from
+  about half its budget to nearly none in every setting, and at the optimum
+  the violations left at the end rise from none to between a third and two
+  thirds of those it began with, while its internal count shows almost none
 version: 2
 history:
 - version: 1
@@ -78,7 +80,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-997 — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CASE-249 CLAIM-657 — Proposed; the design carried out and the route it instantiates -->
 
-# CLAIM-1120: Measured against the same institution scored by an independent count of all its violations, a penalty on newly recognized violations without reward for their discovery produces avoidance of inquiry in an adaptive institution: in the simulated institution, learned inquiry falls from about half its budget to nearly none in every setting, and at the optimum the violations left at the end rise from none to between a third and two thirds of those it began with, while its internal count shows almost none
+# CLAIM-1120: Penalty without discovery reward deters inquiry
 
 ## The claim
 

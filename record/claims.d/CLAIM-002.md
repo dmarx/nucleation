@@ -3,7 +3,12 @@ number: 2
 status: Active
 formerly:
 - CLAIM-tmp08yg5
-title: 'A text''s identity across retellings is a family of relations, namely identity of the artifact, continuity of transmission and similarity of communicative function, which is why a distant retelling can be recognizably descended from an original it no longer resembles'
+title: 'Textual identity is a family of relations'
+statement: >-
+  A text's identity across retellings is a family of relations, namely
+  identity of the artifact, continuity of transmission and similarity of
+  communicative function, which is why a distant retelling can be
+  recognizably descended from an original it no longer resembles
 version: 2
 history:
 - version: 2
@@ -46,7 +51,7 @@ complements:
 ---
 <!-- ref::uses-file: TERM-084 — a retelling "recognizably descended" from an original it no longer resembles, and "This claim's continuity is causal descent", are TERM-084's causal descent, kept apart from similarity -->
 
-# CLAIM-002: A text's identity across retellings is a family of relations, namely identity of the artifact, continuity of transmission and similarity of communicative function, which is why a distant retelling can be recognizably descended from an original it no longer resembles
+# CLAIM-002: Textual identity is a family of relations
 
 ## The claim
 

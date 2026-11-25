@@ -3,7 +3,12 @@ number: 1924
 status: Proposed
 formerly:
 - THEORY-tmpc426e
-title: 'Tronto, interviewed by Parra Jounou, describes privileged irresponsibility as a kind of bad care whose danger is to cut off one''s reaction to others, and presents her work on care as concerned throughout with judging and repairing bad care rather than proposing an ideal'
+title: 'Care theory judges and repairs bad care'
+statement: >-
+  Tronto, interviewed by Parra Jounou, describes privileged irresponsibility
+  as a kind of bad care whose danger is to cut off one's reaction to others,
+  and presents her work on care as concerned throughout with judging and
+  repairing bad care rather than proposing an ideal
 version: 2
 history:
 - version: 2
@@ -30,7 +35,7 @@ source:
 ---
 <!-- unresolved-ok-file: THEORY-tmprxeh7 — removed at the reconciliation of 2026-11-18; named for provenance -->
 
-# THEORY-1924: Tronto, interviewed by Parra Jounou, describes privileged irresponsibility as a kind of bad care whose danger is to cut off one's reaction to others, and presents her work on care as concerned throughout with judging and repairing bad care rather than proposing an ideal
+# THEORY-1924: Care theory judges and repairs bad care
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 1135
 status: Active
 formerly:
 - THEORY-tmpai3ho
-title: 'Optimal transport between two point sets related by one unknown global linear map from a Schatten ℓp ball reduces, when every admissible map preserves angles or the target is whitened, to choosing the coupling Γ that maximises the dual Schatten-q norm of the transported cross-covariance XΓYᵀ: the nuclear norm when the maps are orthogonal, and the Frobenius norm when they lie on a Frobenius sphere, which is exactly the Gromov–Wasserstein problem with cosine similarity and squared loss; in every case one transformation acts on the whole space'
+title: 'OT under a global linear map is a GW problem'
+statement: >-
+  Optimal transport between two point sets related by one unknown global
+  linear map from a Schatten ℓp ball reduces, when every admissible map
+  preserves angles or the target is whitened, to choosing the coupling Γ
+  that maximises the dual Schatten-q norm of the transported
+  cross-covariance XΓYᵀ: the nuclear norm when the maps are orthogonal, and
+  the Frobenius norm when they lie on a Frobenius sphere, which is exactly
+  the Gromov–Wasserstein problem with cosine similarity and squared loss; in
+  every case one transformation acts on the whole space
 version: 1
 tags:
 - mathematics
@@ -21,7 +30,7 @@ summary: >-
   class the right one for given data, and nothing in it is local.
 ---
 
-# THEORY-1135: Optimal transport between two point sets related by one unknown global linear map from a Schatten ℓp ball reduces, when every admissible map preserves angles or the target is whitened, to choosing the coupling Γ that maximises the dual Schatten-q norm of the transported cross-covariance XΓYᵀ: the nuclear norm when the maps are orthogonal, and the Frobenius norm when they lie on a Frobenius sphere, which is exactly the Gromov–Wasserstein problem with cosine similarity and squared loss; in every case one transformation acts on the whole space
+# THEORY-1135: OT under a global linear map is a GW problem
 
 ## Source
 

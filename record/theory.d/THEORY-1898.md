@@ -13,7 +13,15 @@ promote_when: >-
   It is refuted if rescaling the same singular values by a uniform factor,
   ignoring the measured overlap, recovers as much, since then the gain is
   a norm correction and not the over-counting of shared directions.
-title: 'Li et al.: when the layer updates of tasks fine-tuned from one pretrained start share singular directions in the layer''s output space, adding them counts the shared component more than once and inflates the merged update''s leading singular values; rescaling those values by the measured overlap, leaving directions and signs unchanged, raised task arithmetic''s accuracy by 7 to 19 points on CLIP ViT benchmarks and improved other merging methods on vision and language benchmarks'
+title: 'Shared directions inflate merged singular values'
+statement: >-
+  Li et al.: when the layer updates of tasks fine-tuned from one pretrained
+  start share singular directions in the layer's output space, adding them
+  counts the shared component more than once and inflates the merged
+  update's leading singular values; rescaling those values by the measured
+  overlap, leaving directions and signs unchanged, raised task arithmetic's
+  accuracy by 7 to 19 points on CLIP ViT benchmarks and improved other
+  merging methods on vision and language benchmarks
 version: 1
 tags:
 - loss-landscapes
@@ -34,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-107 THEORY-1874 — new tmp codes, or Proposed; source, reading and neighbouring accounts, named and not leaned on -->
 
-# THEORY-1898: Li et al.: when the layer updates of tasks fine-tuned from one pretrained start share singular directions in the layer's output space, adding them counts the shared component more than once and inflates the merged update's leading singular values; rescaling those values by the measured overlap, leaving directions and signs unchanged, raised task arithmetic's accuracy by 7 to 19 points on CLIP ViT benchmarks and improved other merging methods on vision and language benchmarks
+# THEORY-1898: Shared directions inflate merged singular values
 
 ## Source
 

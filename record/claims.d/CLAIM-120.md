@@ -3,7 +3,12 @@ number: 120
 status: Superseded
 formerly:
 - CLAIM-tmpzaee6
-title: 'Conditional generative systems realize stochastic transports between constrained distributions, and their compositional fidelity depends on preserving the compatibility and relational structure of constraints across media'
+title: 'Generators as stochastic constraint transports'
+statement: >-
+  Conditional generative systems realize stochastic transports between
+  constrained distributions, and their compositional fidelity depends on
+  preserving the compatibility and relational structure of constraints
+  across media
 version: 1
 role: thesis
 warrant: interpretive
@@ -26,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-048 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# CLAIM-120: Conditional generative systems realize stochastic transports between constrained distributions, and their compositional fidelity depends on preserving the compatibility and relational structure of constraints across media
+# CLAIM-120: Generators as stochastic constraint transports
 
 ## The claim
 

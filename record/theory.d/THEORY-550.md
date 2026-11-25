@@ -3,7 +3,13 @@ number: 550
 status: Active
 formerly:
 - THEORY-tmpiqm1r
-title: "Unsupervised clustering is not made epistemically superior to supervised classification by the absence of labels: it is sensitive to sample bias, highly sensitive to how inputs are represented, and overfits, with the number of clusters acting as a capacity control just as parametric complexity does in supervised learning"
+title: 'Clustering is not epistemically superior'
+statement: >-
+  Unsupervised clustering is not made epistemically superior to supervised
+  classification by the absence of labels: it is sensitive to sample bias,
+  highly sensitive to how inputs are represented, and overfits, with the
+  number of clusters acting as a capacity control just as parametric
+  complexity does in supervised learning
 version: 1
 tags:
 - philosophy-of-science
@@ -22,7 +28,7 @@ summary: >-
   part of this account.
 ---
 
-# THEORY-550: Unsupervised clustering is not made epistemically superior to supervised classification by the absence of labels: it is sensitive to sample bias, highly sensitive to how inputs are represented, and overfits, with the number of clusters acting as a capacity control just as parametric complexity does in supervised learning
+# THEORY-550: Clustering is not epistemically superior
 
 ## Source
 

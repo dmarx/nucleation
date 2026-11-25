@@ -3,7 +3,16 @@ number: 740
 status: Active
 formerly:
 - THEORY-tmpyyddn
-title: 'A two-layer linear network trained by gradient flow on white inputs from a decoupled, balanced start learns each singular mode of its input–output correlation in a logistic rise that waits a time of order its inverse strength times the log of the inverse initial scale, so the modes arrive one at a time in order of strength; a single-layer network on the same data learns every mode on one timescale with no plateau, so under these conditions the stages come from the product of layers and the data''s spectrum'
+title: 'Deep linear nets learn modes one at a time'
+statement: >-
+  A two-layer linear network trained by gradient flow on white inputs from a
+  decoupled, balanced start learns each singular mode of its input–output
+  correlation in a logistic rise that waits a time of order its inverse
+  strength times the log of the inverse initial scale, so the modes arrive
+  one at a time in order of strength; a single-layer network on the same
+  data learns every mode on one timescale with no plateau, so under these
+  conditions the stages come from the product of layers and the data's
+  spectrum
 version: 2
 history:
 - version: 1
@@ -44,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-186 — Proposed; the account this core was split from and that extends it, and the depth account set beside it, cited as open -->
 <!-- inactive-ok-file: THEORY-2164 — Proposed or Rejected; filed 2026-11-21 from the readings of Gutenkunst et al., Transtrum & Qiu, Amari, Park & Ozeki and Wei et al. -->
 
-# THEORY-740: A two-layer linear network trained by gradient flow on white inputs from a decoupled, balanced start learns each singular mode of its input–output correlation in a logistic rise that waits a time of order its inverse strength times the log of the inverse initial scale, so the modes arrive one at a time in order of strength; a single-layer network on the same data learns every mode on one timescale with no plateau, so under these conditions the stages come from the product of layers and the data's spectrum
+# THEORY-740: Deep linear nets learn modes one at a time
 
 ## Source
 

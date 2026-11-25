@@ -3,7 +3,13 @@ number: 611
 status: Proposed
 formerly:
 - CLAIM-tmp6xhn3
-title: 'When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it'
+title: 'The organization persists, not its repertoire'
+statement: >-
+  When an organized individual persists through changes of state and mode,
+  in the dynamical and historical senses of persistence, what persists is
+  the particular organization that keeps its repertoire realizable, not the
+  repertoire it keeps, nor any state, mode or boundary; that organization
+  may lie inside the individual or outside it
 version: 8
 history:
 - version: 2
@@ -141,7 +147,7 @@ works:
 <!-- inactive-ok-file: CLAIM-478 CLAIM-576 — Proposed; components, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-983 CLAIM-986 — new; the two readings of CLAIM-615's admission slot, which read this claim's last clause differently (LEAD-163) -->
 
-# CLAIM-611: When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it
+# CLAIM-611: The organization persists, not its repertoire
 
 *Returned to CLAIM from [SYNTHESIS-003](../syntheses.d/SYNTHESIS-003.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 

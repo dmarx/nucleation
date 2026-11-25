@@ -3,7 +3,11 @@ number: 875
 status: Proposed
 formerly:
 - CLAIM-tmpf11gs
-title: 'Ito and Kaneko''s core is a regime the dynamics regenerate, not an asymmetry entrenched in its first holders: removed, it is refilled from the periphery, and made rare, it is recovered by its own members'
+title: 'Ito–Kaneko''s core is regenerated, not entrenched'
+statement: >-
+  Ito and Kaneko's core is a regime the dynamics regenerate, not an
+  asymmetry entrenched in its first holders: removed, it is refilled from
+  the periphery, and made rare, it is recovered by its own members
 version: 2
 history:
 - version: 1
@@ -59,7 +63,7 @@ works:
 ---
 <!-- inactive-ok-file: CASE-313 — new, filed with this claim -->
 
-# CLAIM-875: Ito and Kaneko's core is a regime the dynamics regenerate, not an asymmetry entrenched in its first holders: removed, it is refilled from the periphery, and made rare, it is recovered by its own members
+# CLAIM-875: Ito–Kaneko's core is regenerated, not entrenched
 
 ## The claim
 

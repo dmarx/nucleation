@@ -3,7 +3,12 @@ number: 2036
 status: Proposed
 formerly:
 - THEORY-tmpn978s
-title: 'Miyato and colleagues build network layers from unit vectors on a sphere updated by a generalised Kuramoto rule with a data-dependent symmetry-breaking bias, and report that the bias and norm-based readouts are needed for stable training'
+title: 'Kuramoto layers need symmetry-breaking bias'
+statement: >-
+  Miyato and colleagues build network layers from unit vectors on a sphere
+  updated by a generalised Kuramoto rule with a data-dependent
+  symmetry-breaking bias, and report that the bias and norm-based readouts
+  are needed for stable training
 version: 1
 source:
 - LIT-2814
@@ -23,7 +28,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-2107 — Skimmed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-2787 — Unfetched; cited in this filing of 2026-11-19 -->
 
-# THEORY-2036: Miyato and colleagues build network layers from unit vectors on a sphere updated by a generalised Kuramoto rule with a data-dependent symmetry-breaking bias, and report that the bias and norm-based readouts are needed for stable training
+# THEORY-2036: Kuramoto layers need symmetry-breaking bias
 
 ## The account
 

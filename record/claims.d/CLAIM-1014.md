@@ -3,7 +3,12 @@ number: 1014
 status: Proposed
 formerly:
 - CLAIM-tmp31b3v
-title: 'Harmonious integration and organizational singularity are independent: a correctable plurality with no overarching perspective is harmonious and not singular, and a unified organization that silences its internal differences is singular and not harmonious'
+title: 'Harmony and singularity are independent'
+statement: >-
+  Harmonious integration and organizational singularity are independent: a
+  correctable plurality with no overarching perspective is harmonious and
+  not singular, and a unified organization that silences its internal
+  differences is singular and not harmonious
 version: 2
 history:
 - version: 1
@@ -61,7 +66,7 @@ works:
 ---
 <!-- inactive-ok-file: TERM-162 TERM-161 CLAIM-1019 — Proposed; the term this is stated in and the claim it rests on, filed with it on 2026-11-22 -->
 
-# CLAIM-1014: Harmonious integration and organizational singularity are independent: a correctable plurality with no overarching perspective is harmonious and not singular, and a unified organization that silences its internal differences is singular and not harmonious
+# CLAIM-1014: Harmony and singularity are independent
 
 ## The claim
 

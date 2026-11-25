@@ -15,7 +15,12 @@ promote_when: >-
   claim is about the return of mental control, and more first-person
   reports of having noticed oneself cannot settle it, since they are what
   is in question.
-title: "When mental control returns after mind-wandering, the self-model represents the return as the person's own act whether or not the person's control system caused it, because it must bridge to earlier control to keep the autobiographical self-model continuous"
+title: 'Self-model claims control''s return as one''s act'
+statement: >-
+  When mental control returns after mind-wandering, the self-model
+  represents the return as the person's own act whether or not the person's
+  control system caused it, because it must bridge to earlier control to
+  keep the autobiographical self-model continuous
 version: 2
 history:
 - version: 2
@@ -49,7 +54,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-1300 — Proposed; companion reading, cited as open -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-156 — Proposed; claims this one bears on, cited as open -->
 
-# THEORY-1298: When mental control returns after mind-wandering, the self-model represents the return as the person's own act whether or not the person's control system caused it, because it must bridge to earlier control to keep the autobiographical self-model continuous
+# THEORY-1298: Self-model claims control's return as one's act
 
 ## Source
 

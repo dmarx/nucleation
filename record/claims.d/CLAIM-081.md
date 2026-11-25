@@ -3,7 +3,12 @@ number: 81
 status: Active
 formerly:
 - CLAIM-tmpn361s
-title: 'Retaining information about the ancestor and drifting in the population''s distribution are different profiles: a chain can forget where it started while staying far from the original, so convergence is not preservation and transmission is not degradation'
+title: 'Convergence is not preservation'
+statement: >-
+  Retaining information about the ancestor and drifting in the population's
+  distribution are different profiles: a chain can forget where it started
+  while staying far from the original, so convergence is not preservation
+  and transmission is not degradation
 version: 4
 history:
 - version: 2
@@ -66,7 +71,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-081: Retaining information about the ancestor and drifting in the population's distribution are different profiles: a chain can forget where it started while staying far from the original, so convergence is not preservation and transmission is not degradation
+# CLAIM-081: Convergence is not preservation
 
 ## The claim
 

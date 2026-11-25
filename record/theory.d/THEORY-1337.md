@@ -3,7 +3,14 @@ number: 1337
 status: Active
 formerly:
 - THEORY-tmpqlync
-title: 'Neural field recordings carry aperiodic 1/f-like activity with power at every frequency, whose exponent varies with age, state and task; so power in a band, correlated power changes across bands, and ratios of band power can arise from the aperiodic component with no oscillation changing, and 1/f structure is a ubiquitous background of field data rather than a mark of any particular organization'
+title: 'Band-power effects can be aperiodic 1/f artefacts'
+statement: >-
+  Neural field recordings carry aperiodic 1/f-like activity with power at
+  every frequency, whose exponent varies with age, state and task; so power
+  in a band, correlated power changes across bands, and ratios of band power
+  can arise from the aperiodic component with no oscillation changing, and
+  1/f structure is a ubiquitous background of field data rather than a mark
+  of any particular organization
 version: 1
 tags:
 - neuroscience
@@ -22,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1314 — Proposed; the reading of Jennings 2026 this bears on -->
 
-# THEORY-1337: Neural field recordings carry aperiodic 1/f-like activity with power at every frequency, whose exponent varies with age, state and task; so power in a band, correlated power changes across bands, and ratios of band power can arise from the aperiodic component with no oscillation changing, and 1/f structure is a ubiquitous background of field data rather than a mark of any particular organization
+# THEORY-1337: Band-power effects can be aperiodic 1/f artefacts
 
 ## Source
 

@@ -3,7 +3,17 @@ number: 2157
 status: Proposed
 formerly:
 - THEORY-tmpousrw
-title: 'Lau and colleagues define the local learning coefficient of a local minimum as the volume-scaling exponent of its low-loss set and estimate it as nβ*(E[Lₙ] − Lₙ(w*)) under a posterior tempered at β* = 1/log n and tied to w* by a Gaussian of precision γ, sampled by SGLD; that the estimate converges to the coefficient is conjectured, with the conditions on γ left open, and it is calibrated only in noiseless deep linear networks of 10² to 10⁸ parameters, where it tracks the exact values with relative errors mostly between 0 and 0.8, underestimates; elsewhere the authors claim only relative comparisons at fixed sampler settings'
+title: 'LLC estimator is only calibrated in linear nets'
+statement: >-
+  Lau and colleagues define the local learning coefficient of a local
+  minimum as the volume-scaling exponent of its low-loss set and estimate it
+  as nβ*(E[Lₙ] − Lₙ(w*)) under a posterior tempered at β* = 1/log n and tied
+  to w* by a Gaussian of precision γ, sampled by SGLD; that the estimate
+  converges to the coefficient is conjectured, with the conditions on γ left
+  open, and it is calibrated only in noiseless deep linear networks of 10²
+  to 10⁸ parameters, where it tracks the exact values with relative errors
+  mostly between 0 and 0.8, underestimates; elsewhere the authors claim only
+  relative comparisons at fixed sampler settings
 promote_when: >-
   The relative errors read off Fig. J.2 confirmed against the authors'
   released data or a reproduction of the deep-linear-network calibration
@@ -29,7 +39,7 @@ summary: >-
   deep linear networks.
 ---
 
-# THEORY-2157: Lau and colleagues define the local learning coefficient of a local minimum as the volume-scaling exponent of its low-loss set and estimate it as nβ*(E[Lₙ] − Lₙ(w*)) under a posterior tempered at β* = 1/log n and tied to w* by a Gaussian of precision γ, sampled by SGLD; that the estimate converges to the coefficient is conjectured, with the conditions on γ left open, and it is calibrated only in noiseless deep linear networks of 10² to 10⁸ parameters, where it tracks the exact values with relative errors mostly between 0 and 0.8, underestimates; elsewhere the authors claim only relative comparisons at fixed sampler settings
+# THEORY-2157: LLC estimator is only calibrated in linear nets
 
 ## Source
 

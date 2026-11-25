@@ -3,7 +3,14 @@ number: 2040
 status: Proposed
 formerly:
 - THEORY-tmpq7rwx
-title: 'Rudner, Lindner, Berg and Levin show that in periodically driven, non-interacting two-dimensional lattice systems the Chern numbers of the Floquet bands do not determine the chiral edge modes, which can exist when every band''s Chern number is zero, and that a winding number of the bulk evolution operator over the whole driving period gives the net number of chiral edge modes in each quasi-energy gap'
+title: 'Zero Chern numbers can host Floquet edge modes'
+statement: >-
+  Rudner, Lindner, Berg and Levin show that in periodically driven,
+  non-interacting two-dimensional lattice systems the Chern numbers of the
+  Floquet bands do not determine the chiral edge modes, which can exist when
+  every band's Chern number is zero, and that a winding number of the bulk
+  evolution operator over the whole driving period gives the net number of
+  chiral edge modes in each quasi-energy gap
 version: 1
 source:
 - LIT-2790
@@ -35,7 +42,7 @@ summary: >-
   between two driven regions. Read in its NOTE.
 ---
 
-# THEORY-2040: Rudner, Lindner, Berg and Levin show that in periodically driven, non-interacting two-dimensional lattice systems the Chern numbers of the Floquet bands do not determine the chiral edge modes, which can exist when every band's Chern number is zero, and that a winding number of the bulk evolution operator over the whole driving period gives the net number of chiral edge modes in each quasi-energy gap
+# THEORY-2040: Zero Chern numbers can host Floquet edge modes
 
 ## The account
 

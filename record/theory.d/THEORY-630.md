@@ -12,7 +12,14 @@ promote_when: >-
   Leifer and Pusey propose, refutes the argument as stated. Further ideal
   Zeno or adiabatic derivations cannot settle it, since they assume ψ is a
   nondegenerate eigenstate of something the experimenter chose.
-title: "A protective measurement yields the expectation value ⟨A⟩ on a single system in the ideal limit, and with enough observables ψ up to a global phase; this shows ψ to be ontic only if the protection procedure carries no information about ψ, a premise that Zeno and adiabatic protection, which select ψ from a discrete eigenbasis the experimenter chose, do not meet"
+title: 'Protective measurement needn''t show ψ ontic'
+statement: >-
+  A protective measurement yields the expectation value ⟨A⟩ on a single
+  system in the ideal limit, and with enough observables ψ up to a global
+  phase; this shows ψ to be ontic only if the protection procedure carries
+  no information about ψ, a premise that Zeno and adiabatic protection,
+  which select ψ from a discrete eigenbasis the experimenter chose, do not
+  meet
 version: 1
 tags:
 - quantum-foundations
@@ -35,7 +42,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-485 THEORY-586 THEORY-621 THEORY-669 — Proposed; the rival and related accounts, named, not leaned on -->
 
-# THEORY-630: A protective measurement yields the expectation value ⟨A⟩ on a single system in the ideal limit, and with enough observables ψ up to a global phase; this shows ψ to be ontic only if the protection procedure carries no information about ψ, a premise that Zeno and adiabatic protection, which select ψ from a discrete eigenbasis the experimenter chose, do not meet
+# THEORY-630: Protective measurement needn't show ψ ontic
 
 ## Source
 

@@ -3,7 +3,11 @@ number: 41
 status: Active
 formerly:
 - CLAIM-tmpbwst7
-title: 'Context-sensitive interpretation, order effects and noncommuting framing operations do not by themselves establish nonclassical probability or quantum contextuality'
+title: 'Order effects do not prove nonclassicality'
+statement: >-
+  Context-sensitive interpretation, order effects and noncommuting framing
+  operations do not by themselves establish nonclassical probability or
+  quantum contextuality
 version: 4
 history:
 - version: 2
@@ -66,7 +70,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-073 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: LIT-316 — Unavailable; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
 
-# CLAIM-041: Context-sensitive interpretation, order effects and noncommuting framing operations do not by themselves establish nonclassical probability or quantum contextuality
+# CLAIM-041: Order effects do not prove nonclassicality
 
 ## The claim
 

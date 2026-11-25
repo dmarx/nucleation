@@ -3,7 +3,14 @@ number: 1853
 status: Proposed
 formerly:
 - THEORY-tmpoxssh
-title: 'Marcuse holds that advanced industrial society contains qualitative change by satisfying needs it has itself produced, false needs superimposed by particular social interests, so that domination takes the form of a comfortable administration in which technology rather than terror integrates people, the apparatus''s apparent impersonality veils the interests that organize it, and its administrators are enclosed by it too'
+title: 'False needs let administration contain change'
+statement: >-
+  Marcuse holds that advanced industrial society contains qualitative change
+  by satisfying needs it has itself produced, false needs superimposed by
+  particular social interests, so that domination takes the form of a
+  comfortable administration in which technology rather than terror
+  integrates people, the apparatus's apparent impersonality veils the
+  interests that organize it, and its administrators are enclosed by it too
 version: 1
 source:
 - LIT-2560
@@ -41,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-108 ARG-109 CLAIM-677 CLAIM-682 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: QUESTION-057 — Deferred; the set-aside authenticity line, cited for the bearing this reading gives it -->
 
-# THEORY-1853: Marcuse holds that advanced industrial society contains qualitative change by satisfying needs it has itself produced, false needs superimposed by particular social interests, so that domination takes the form of a comfortable administration in which technology rather than terror integrates people, the apparatus's apparent impersonality veils the interests that organize it, and its administrators are enclosed by it too
+# THEORY-1853: False needs let administration contain change
 
 ## The account
 

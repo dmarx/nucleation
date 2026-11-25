@@ -3,7 +3,15 @@ number: 1723
 status: Proposed
 formerly:
 - THEORY-tmp0t4ni
-title: 'Falbo (2022) argues that hermeneutical injustice need not come from a gap in shared interpretive resources: a needed concept can be available and understood yet be crowded out, defeated or preempted in application by distorting concepts, a positive hermeneutical injustice whose primary harm is a failure of conceptual aptness that diminishes the speaker''s credibility, so filling hermeneutical gaps is not enough for hermeneutical justice'
+title: 'Hermeneutical injustice needn''t be a gap'
+statement: >-
+  Falbo (2022) argues that hermeneutical injustice need not come from a gap
+  in shared interpretive resources: a needed concept can be available and
+  understood yet be crowded out, defeated or preempted in application by
+  distorting concepts, a positive hermeneutical injustice whose primary harm
+  is a failure of conceptual aptness that diminishes the speaker's
+  credibility, so filling hermeneutical gaps is not enough for hermeneutical
+  justice
 version: 1
 tags:
 - epistemology
@@ -24,7 +32,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1723: Falbo (2022) argues that hermeneutical injustice need not come from a gap in shared interpretive resources: a needed concept can be available and understood yet be crowded out, defeated or preempted in application by distorting concepts, a positive hermeneutical injustice whose primary harm is a failure of conceptual aptness that diminishes the speaker's credibility, so filling hermeneutical gaps is not enough for hermeneutical justice
+# THEORY-1723: Hermeneutical injustice needn't be a gap
 
 ## The account
 

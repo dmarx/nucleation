@@ -10,7 +10,14 @@ promote_when: >-
   consultation arrangements give voice without power to ensure it is
   heeded, while partnership and delegated arrangements give a share in
   decisions.
-title: 'Citizen participation is meaningful to the degree that it redistributes power over outcomes: an eight-rung ladder runs from non-participation (manipulation, therapy) through tokenism (informing, consultation, placation), where citizens may hear and be heard without power to ensure they are heeded, to citizen power (partnership, delegated power, citizen control)'
+title: 'Participation is meaningful as it shifts power'
+statement: >-
+  Citizen participation is meaningful to the degree that it redistributes
+  power over outcomes: an eight-rung ladder runs from non-participation
+  (manipulation, therapy) through tokenism (informing, consultation,
+  placation), where citizens may hear and be heard without power to ensure
+  they are heeded, to citizen power (partnership, delegated power, citizen
+  control)
 version: 1
 tags:
 - society-and-governance
@@ -32,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-736 — Proposed; cited with their standing, entries this reading bears on or files -->
 
-# THEORY-1968: Citizen participation is meaningful to the degree that it redistributes power over outcomes: an eight-rung ladder runs from non-participation (manipulation, therapy) through tokenism (informing, consultation, placation), where citizens may hear and be heard without power to ensure they are heeded, to citizen power (partnership, delegated power, citizen control)
+# THEORY-1968: Participation is meaningful as it shifts power
 
 Arnstein (1969), [LIT-2740](../literature.d/LIT-2740.md).
 

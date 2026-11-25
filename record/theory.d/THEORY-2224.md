@@ -3,7 +3,13 @@ number: 2224
 status: Proposed
 formerly:
 - THEORY-tmpzrqm9
-title: 'Burning Man''s 10 Principles, written by Larry Harvey in 2004 and offered as an ethos rather than rules, state gifting as unconditional, ground decommodification in preserving the spirit of gifting, and state radical self-reliance only as reliance on one''s inner resources, so that the ethos draws no line between what is self-provided and what is given'
+title: 'Burning Man principles don''t split self from gift'
+statement: >-
+  Burning Man's 10 Principles, written by Larry Harvey in 2004 and offered
+  as an ethos rather than rules, state gifting as unconditional, ground
+  decommodification in preserving the spirit of gifting, and state radical
+  self-reliance only as reliance on one's inner resources, so that the ethos
+  draws no line between what is self-provided and what is given
 version: 1
 source:
 - LIT-2175
@@ -25,7 +31,7 @@ summary: >-
   date.
 ---
 
-# THEORY-2224: Burning Man's 10 Principles, written by Larry Harvey in 2004 and offered as an ethos rather than rules, state gifting as unconditional, ground decommodification in preserving the spirit of gifting, and state radical self-reliance only as reliance on one's inner resources, so that the ethos draws no line between what is self-provided and what is given
+# THEORY-2224: Burning Man principles don't split self from gift
 
 ## The account
 

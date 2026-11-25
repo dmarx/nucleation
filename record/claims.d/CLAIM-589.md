@@ -3,7 +3,14 @@ number: 589
 status: Active
 formerly:
 - CLAIM-tmpx3v84
-title: 'A motion the constraints permit need not be one the available inputs can drive, and a motion the inputs can drive need not be cheap, reliable or sustainable: permitted directions, actuated directions and transitions achievable at acceptable cost are three objects, the second contained in the first at each instant, while over a horizon what is reachable can exceed what either spans at an instant'
+title: 'Permitted, actuated and affordable motions differ'
+statement: >-
+  A motion the constraints permit need not be one the available inputs can
+  drive, and a motion the inputs can drive need not be cheap, reliable or
+  sustainable: permitted directions, actuated directions and transitions
+  achievable at acceptable cost are three objects, the second contained in
+  the first at each instant, while over a horizon what is reachable can
+  exceed what either spans at an instant
 version: 3
 history:
 - version: 2
@@ -73,7 +80,7 @@ works:
 ---
 <!-- inactive-ok-file: CASE-194 — Proposed; an entry of 2026-11-05 from the same paste, the shared-actuator case and the readings' accounts, cited as filed, nothing here rests on their being settled -->
 
-# CLAIM-589: A motion the constraints permit need not be one the available inputs can drive, and a motion the inputs can drive need not be cheap, reliable or sustainable: permitted directions, actuated directions and transitions achievable at acceptable cost are three objects, the second contained in the first at each instant, while over a horizon what is reachable can exceed what either spans at an instant
+# CLAIM-589: Permitted, actuated and affordable motions differ
 
 ## The claim
 

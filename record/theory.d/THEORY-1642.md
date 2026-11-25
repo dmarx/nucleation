@@ -5,7 +5,14 @@ formerly:
 - THEORY-tmpdzbq1
 promote_when: >-
   A second reading confirms, from §§1, 3 and 4, the training-free character-reference capability, the reported latency, and the authors' character-reference results on KontextBench.
-title: 'A flow-matching transformer fine-tuned from FLUX.1 to condition on a context image by sequence concatenation renders a character or object from that image in new scenes and across successive edits without per-subject fine-tuning or LoRA training, at 3–5 s per 1024² image, and on its authors'' benchmark preserves characters better than the competing systems they evaluated'
+title: 'In-context FLUX keeps characters without tuning'
+statement: >-
+  A flow-matching transformer fine-tuned from FLUX.1 to condition on a
+  context image by sequence concatenation renders a character or object from
+  that image in new scenes and across successive edits without per-subject
+  fine-tuning or LoRA training, at 3–5 s per 1024² image, and on its
+  authors' benchmark preserves characters better than the competing systems
+  they evaluated
 version: 1
 history:
 - version: 1
@@ -23,7 +30,7 @@ summary: >-
   Black Forest Labs, with Stephen Batifol and 22 others (2025), [LIT-2337](../literature.d/LIT-2337.md), read in [NOTE-1721](../notes.d/NOTE-1721.md). company report on arXiv (cs.GR); no venue.
 ---
 
-# THEORY-1642: A flow-matching transformer fine-tuned from FLUX.1 to condition on a context image by sequence concatenation renders a character or object from that image in new scenes and across successive edits without per-subject fine-tuning or LoRA training, at 3–5 s per 1024² image, and on its authors' benchmark preserves characters better than the competing systems they evaluated
+# THEORY-1642: In-context FLUX keeps characters without tuning
 
 ## Source
 
