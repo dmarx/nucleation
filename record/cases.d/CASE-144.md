@@ -3,7 +3,13 @@ number: 144
 status: Active
 formerly:
 - CASE-tmp4ozxp
-title: 'The evaluator that stops tracking: two populations of specialists with identical capabilities and task streams, one scored against independent outcomes and one by an evaluator that weights evidence agreeing with its previously favoured specialists, after a shift that makes a marginalized specialist uniquely competent'
+title: 'The evaluator that stops tracking'
+statement: >-
+  The evaluator that stops tracking: two populations of specialists with
+  identical capabilities and task streams, one scored against independent
+  outcomes and one by an evaluator that weights evidence agreeing with its
+  previously favoured specialists, after a shift that makes a marginalized
+  specialist uniquely competent
 version: 5
 history:
 - version: 2
@@ -66,7 +72,7 @@ draws_on:
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 <!-- inactive-ok-file: THEORY-1738 THEORY-1743 THEORY-1772 THEORY-1784 THEORY-1801 THEORY-1805 THEORY-1808 THEORY-1812 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CASE-144: The evaluator that stops tracking: two populations of specialists with identical capabilities and task streams, one scored against independent outcomes and one by an evaluator that weights evidence agreeing with its previously favoured specialists, after a shift that makes a marginalized specialist uniquely competent
+# CASE-144: The evaluator that stops tracking
 
 ## The design
 

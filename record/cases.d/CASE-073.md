@@ -3,7 +3,10 @@ number: 73
 status: Active
 formerly:
 - CASE-tmpzxkyj
-title: 'The Kia Provo: one concept-car name, a blank coinage to the motor press and taken as honouring the IRA in Northern Ireland'
+title: 'The Kia Provo name'
+statement: >-
+  The Kia Provo: one concept-car name, a blank coinage to the motor press
+  and taken as honouring the IRA in Northern Ireland
 version: 1
 standing: documented
 kind: specimen
@@ -30,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-224 CLAIM-221 — Proposed; the objection this case illustrates, and the intention-based objection whose reply it tests, open -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the thesis the objection is to, and the do(S)/do(I) distinction, cited as open -->
 
-# CASE-073: The Kia Provo: one concept-car name, a blank coinage to the motor press and taken as honouring the IRA in Northern Ireland
+# CASE-073: The Kia Provo name
 
 Found on 2026-10-10 by a search the owner asked for. [CASE-061](CASE-061.md) has
 identical wording, but its speaker designed both readings, so an

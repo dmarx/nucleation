@@ -3,7 +3,13 @@ number: 312
 status: Proposed
 formerly:
 - CASE-tmp7zt9v
-title: 'Share-dependent advantage under interpretation-independent scoring: in the replicator walk for two processes with a separate interpretation field that authority shapes and the authority score never reads, an incumbent the evidence disfavours keeps its authority above the threshold, and the interpretation follows it against the evidence'
+title: 'Incumbent authority against evidence'
+statement: >-
+  Share-dependent advantage under interpretation-independent scoring: in the
+  replicator walk for two processes with a separate interpretation field
+  that authority shapes and the authority score never reads, an incumbent
+  the evidence disfavours keeps its authority above the threshold, and the
+  interpretation follows it against the evidence
 version: 1
 standing: stipulated
 kind: construction
@@ -33,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-147 CLAIM-874 CLAIM-873 — new; filed with this case for LEAD-121 -->
 
-# CASE-312: Share-dependent advantage under interpretation-independent scoring: in the replicator walk for two processes with a separate interpretation field that authority shapes and the authority score never reads, an incumbent the evidence disfavours keeps its authority above the threshold, and the interpretation follows it against the evidence
+# CASE-312: Incumbent authority against evidence
 
 ## The case
 

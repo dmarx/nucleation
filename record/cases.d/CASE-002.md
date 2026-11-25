@@ -3,7 +3,9 @@ number: 2
 status: Active
 formerly:
 - CASE-tmp2knax
-title: 'Northstar classification: who decides an incident is severe'
+title: 'Northstar classification'
+statement: >-
+  Northstar classification: who decides an incident is severe
 version: 1
 standing: fictional
 kind: thought-experiment
@@ -21,7 +23,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-627 — filed from the same exchange, Proposed -->
 
-# CASE-002: Northstar classification: who decides an incident is severe
+# CASE-002: Northstar classification
 
 ## The case
 

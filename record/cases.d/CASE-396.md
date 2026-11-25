@@ -3,7 +3,15 @@ number: 396
 status: Active
 formerly:
 - CASE-tmp8mk6w
-title: 'A simulated institution with visible and hidden requirements, run under five governance regimes: penalized for every recognized violation and unrewarded for discovery, it learns to make no inquiry in every setting while its internal record shows almost no violations, against half its budget spent on inquiry when an independent evaluator scores it; scored internally without the penalty, it inquires more only where inquiry is otherwise free or being found out from outside is costly'
+title: 'Inquiry under five governance regimes'
+statement: >-
+  A simulated institution with visible and hidden requirements, run under
+  five governance regimes: penalized for every recognized violation and
+  unrewarded for discovery, it learns to make no inquiry in every setting
+  while its internal record shows almost no violations, against half its
+  budget spent on inquiry when an independent evaluator scores it; scored
+  internally without the penalty, it inquires more only where inquiry is
+  otherwise free or being found out from outside is costly
 version: 2
 history:
 - version: 1
@@ -57,7 +65,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1120 CLAIM-997 — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-657 — Proposed; the second route the result instantiates -->
 
-# CASE-396: A simulated institution with visible and hidden requirements, run under five governance regimes: penalized for every recognized violation and unrewarded for discovery, it learns to make no inquiry in every setting while its internal record shows almost no violations, against half its budget spent on inquiry when an independent evaluator scores it; scored internally without the penalty, it inquires more only where inquiry is otherwise free or being found out from outside is costly
+# CASE-396: Inquiry under five governance regimes
 
 ## The case
 

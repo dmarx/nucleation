@@ -3,7 +3,12 @@ number: 200
 status: Proposed
 formerly:
 - CASE-tmp0g3pa
-title: 'A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it'
+title: 'A transition reached by carry-over'
+statement: >-
+  A transition that a budget reaches only by carry-over: a per-period budget
+  of 1.0 holds either configuration at 0.7, the transition needs 1.3, and
+  rolling over the 0.3 left unspent reaches it, while a rule that cuts or
+  expires unspent funds forecloses it
 version: 5
 history:
 - version: 2
@@ -68,7 +73,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: TERM-107 TERM-110 THEORY-1421 THEORY-1410 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
 
-# CASE-200: A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it
+# CASE-200: A transition reached by carry-over
 
 ## The case
 

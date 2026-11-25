@@ -3,7 +3,14 @@ number: 382
 status: Proposed
 formerly:
 - CASE-tmprt0hl
-title: 'Fitting the expected-value-of-control effort-cost model to 122 participants'' cognitive-effort-discounting choices: a softmax over net value r − c(n) recovers an increasing cost of control and beats a reward-only model, so for about three-quarters of agents the control intensity elected falls as its cost rises, while a need-for-cognition minority seek effort'
+title: 'Effort-cost model of control'
+statement: >-
+  Fitting the expected-value-of-control effort-cost model to 122
+  participants' cognitive-effort-discounting choices: a softmax over net
+  value r − c(n) recovers an increasing cost of control and beats a
+  reward-only model, so for about three-quarters of agents the control
+  intensity elected falls as its cost rises, while a need-for-cognition
+  minority seek effort
 version: 1
 standing: documented
 kind: executed-study
@@ -24,7 +31,7 @@ illustrates:
 <!-- inactive-ok-file: CLAIM-358 CLAIM-162 THEORY-070 — Proposed; the claims this study illustrates and the EVC account it fits, all open -->
 <!-- inactive-ok-file: CLAIM-981 — new in this batch; the finding this study grounds -->
 
-# CASE-382: Fitting the expected-value-of-control effort-cost model to 122 participants' cognitive-effort-discounting choices: a softmax over net value r − c(n) recovers an increasing cost of control and beats a reward-only model, so for about three-quarters of agents the control intensity elected falls as its cost rises, while a need-for-cognition minority seek effort
+# CASE-382: Effort-cost model of control
 
 ## Why this study
 

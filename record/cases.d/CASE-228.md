@@ -3,7 +3,13 @@ number: 228
 status: Proposed
 formerly:
 - CASE-tmpnlf5c
-title: 'Reporting by total output against reporting that also records breaches of the hours cap: under self-scored regime selection the aggregate regime is always kept and records no violation while one occurs, and the adequate regime keeps itself only when the penalty on a recorded breach exceeds the convenience of breaching plus the cost of reporting'
+title: 'Reporting breaches of an hours cap'
+statement: >-
+  Reporting by total output against reporting that also records breaches of
+  the hours cap: under self-scored regime selection the aggregate regime is
+  always kept and records no violation while one occurs, and the adequate
+  regime keeps itself only when the penalty on a recorded breach exceeds the
+  convenience of breaching plus the cost of reporting
 version: 3
 history:
 - version: 2
@@ -49,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed; the thesis this case illustrates -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the held reproductive form -->
 
-# CASE-228: Reporting by total output against reporting that also records breaches of the hours cap: under self-scored regime selection the aggregate regime is always kept and records no violation while one occurs, and the adequate regime keeps itself only when the penalty on a recorded breach exceeds the convenience of breaching plus the cost of reporting
+# CASE-228: Reporting breaches of an hours cap
 
 ## The case
 
