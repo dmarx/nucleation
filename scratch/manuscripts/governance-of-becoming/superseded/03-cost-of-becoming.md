@@ -1,4 +1,15 @@
-<!-- scratch/manuscripts/governance-of-becoming/03-cost-of-becoming.md -->
+<!-- scratch/manuscripts/governance-of-becoming/superseded/03-cost-of-becoming.md -->
+
+> **Superseded, 2026-11-25.** This is A49's Article 3, "The Cost of Becoming", as reviewed (REVIEW-2026-11-24.md), revised and fact-checked (FACTCHECK-2026-11-25.md). A51's order, which the owner took on 2026-11-25 (ADR-tmpenzcn version 2), gives it no article of its own, so its parts went elsewhere at the Part I refresh of 2026-11-25. Below this note the file is unchanged: it is the record of what was reviewed and fact-checked, and its section, join and gap numbers are the ones the review, the fact-check and SYNTHESIS-tmp4tvbr ("The joins of the manuscript governance-of-becoming, Part I") cite. Where each section went:
+>
+> - **§3.1 Organization as stored work, §3.2 The general cost model, §3.3 Contracts as stateful stored work, §3.4 Distributed accounting**: condensed into A51's Article 3, "The Contracts We Become" (`03-contracts-we-become.md`), §3.8 (stored work, the three requirements, the cost model and its contractual reading, distributed accounting) and §3.10 (an invocation that changes the store; LEAD-tmp14n26).
+> - **§3.5 Timescale separation and readiness**: to A51's Article 2, "Regulation as the Governance of Possibility", the manuscript of the separate work governance-of-possibility (`scratch/manuscripts/governance-of-possibility/`), by its own refresh. Article 3 keeps only the pointer from contractual lock-in to renegotiation readiness (§3.9).
+> - **§3.6 Reachability and transition asymmetry**: condensed into Article 3 §3.9 (lock-in and exit), with §3.6.3 in full.
+> - **§3.7 Authority-sensitive cost landscapes**: §3.7.2 (an obligation is a bar, not a price) to Article 3 §3.9; §3.7.1, §3.7.3 and §3.7.4 (four predicates, authorization as predicate and cost, costed reach indexed by actor and authority) were already in A51's Article 5, §5.5.4 and §5.6 (`05-inquiry-changes-the-inquirer.md`).
+> - **§3.8 Neighbouring theories**: condensed into Article 3 §3.1, beside the other unread literature.
+> - **§3.9 What this article can rest on**: its rows for the folded steps are in Article 3 §3.13.
+> - **Joins** (old J3.n → new): J3.1 → Article 3's J3.5, J3.2 → J3.6, J3.3 → J3.7, J3.4 → J3.8, J3.5 → J3.9, J3.6 → J3.10, J3.11 → J3.11; J3.9 and J3.12 are Article 5's J5.6 and J5.5; J3.10 went with §3.7.4 to Article 5 §5.6.3, which carries CLAIM-tmp2jhc1's model but not the label; J3.7 (the unused constitutional reserve) and J3.8 (a capability regained at its construction cost) went with readiness, §3.5, to Article 2. Verdicts unchanged.
+> - **Gaps**: G3.1, G3.2 and G3.3 keep their numbers in Article 3.
 
 # Article 3. The Cost of Becoming
 
