@@ -36,7 +36,7 @@ U27) and asked for an outline and the record items behind each scope
 fifteen scopes in four regions; A65, the v0.3 atlas, gave each scope an
 outline and a "core fiber", the record entries it would be built from.
 The record's `lines` vocabulary names its own argument's lines; `works`
-names manuscripts, with membership found by reading a text (ADR-104).
+names manuscripts, with membership found by reading a text ([ADR-104](ADR-104.md)).
 
 ## Decision
 
@@ -83,7 +83,7 @@ names manuscripts, with membership found by reading a text (ADR-104).
   5 learning-and-inquiry, 3 rightful-power, and one each in
   records-of-inquiry and organizational-normativity.
 - The four new lines have no account; the current-account view lists them.
-  A synthesis review would give each one, and SYNTHESIS-111 is already a
+  A synthesis review would give each one, and [SYNTHESIS-111](../syntheses.d/SYNTHESIS-111.md) is already a
   candidate for self-correction.
 - A fiber is a starting set, not a closure (A65 §VI): entries a scope needs
   and A65 did not list stay without its line until a review adds them.
