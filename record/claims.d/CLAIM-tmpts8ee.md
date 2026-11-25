@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'A record used to evaluate research should make legible the distinctions the evaluating decision needs and not every detail: publication count is adequate to a question about throughput and inadequate to one about contribution to knowledge'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing: it is about evaluating and
+    publishing research over a record, and the line's first synthesis
+    (SYNTHESIS-tmpg0a57) integrates it. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -14,6 +21,7 @@ tags:
 - philosophy-of-science
 date: '2026-11-25'
 line:
+- scholarly-publishing
 - record-as-apparatus
 - will-organization
 rests_on:

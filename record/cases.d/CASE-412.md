@@ -343,3 +343,33 @@ break-even, not charged up front as the lead's design has it.
 
 <!-- inactive-ok-block: CLAIM-1054 — Proposed, filed from A50 of the exchange "Explain First Contact RL" on 2026-11-23 -->
 A50 §7 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) restates this study's matched performance as equivalence under a routine query family Q₀ ([TERM-069](../terms.d/TERM-069.md)), broken by a new query q⋆, reorganization after a supplier failure within a deadline. It adds a query side: a regulator that samples only Q₀ rewards the system that optimized away the capacities q⋆ needs, and its success confirms the regulator's tests, a "query-induced capability trap" ([CLAIM-1054](../claims.d/CLAIM-1054.md)). This study holds the query family fixed, so it shows the divergence and not the trap; [LEAD-218](../leads.d/LEAD-218.md) would add the questioner. The case is unchanged.
+
+## Note of 2026-11-25: half of [CLAIM-700](../claims.d/CLAIM-700.md)'s study, run, from the review of the manuscript governance-of-becoming, Part III
+<!-- inactive-ok-file: CLAIM-700 — Proposed; the hidden-subsidy claim whose study this case runs in part, cited with its standing -->
+
+The review of Part III (2026-11-25, Part A, §1.2) found that this study
+runs, in part, the study [CLAIM-700](../claims.d/CLAIM-700.md) proposes, and that neither entry cites
+the other. [CLAIM-700](../claims.d/CLAIM-700.md) (Proposed) holds the hidden-subsidy loop: members'
+conscientious compensation covers a shortfall, the organization "budgets
+to what it observes", resources are cut toward what the present
+configuration needs, and the reconfigurations that would remove the
+shortfall "pass out of reach while the present arrangement stays
+feasible". Its study, from A33 §10A: "Construct two institutions with
+identical obligations and equivalent present performance", one with
+reconfiguration slack and one with exactly enough for the present
+configuration, and introduce a failure that needs a transition.
+
+This case is that design without the compensator: output matched by
+construction under six budget regimes until a contingency arrives,
+readiness at a deadline of six periods from 0.147 to 0.894, and a
+redesigned route lost under the peak rule unless a reserve is held. With
+[CASE-343](CASE-343.md) and [CLAIM-921](../claims.d/CLAIM-921.md) (a budget that follows observed use loses a
+rarely used capability), [CLAIM-1099](../claims.d/CLAIM-1099.md) and [CLAIM-1180](../claims.d/CLAIM-1180.md) (the peak rule and the
+reserve), and [CLAIM-679](../claims.d/CLAIM-679.md), which is in [CLAIM-700](../claims.d/CLAIM-700.md)'s own `rests_on`, it runs
+the budget-to-observed-use half of the loop and the matched-performance
+contrast. What it does not run is the coupling: compensation masking the
+shortfall, so that the budget rule reads it as adequacy. So [CLAIM-700](../claims.d/CLAIM-700.md)'s
+study is done in part. [LEAD-022](../leads.d/LEAD-022.md) (Open) also advances [CLAIM-700](../claims.d/CLAIM-700.md), by the
+study of a fall in complaints with working conditions fixed. The
+case is unchanged; no change of status. The wording is the assistant's
+(Claude, in this session); adopting it is the owner's call.

@@ -6,11 +6,17 @@ description: A periodic review of the record's accounts - that each line, or par
 
 # Synthesis review
 
-A SYNTHESIS is an account of a scope of the record's argument: a line, a
-part of one, or a theme that crosses lines (ADR-129). It names every component, attributes each link to the entry
-that states it, and adds nothing. Whatever adds to its components is a CLAIM
-(ADR-084). A synthesis review looks across the record and asks three
-questions:
+A SYNTHESIS states one scope of the record's argument as one argument: a
+line, a part of one, or a theme that crosses lines (ADR-129). It says, in
+prose, how its components together answer the scope's question, citing each
+where it uses it, and adds nothing: whatever adds to its components is a
+CLAIM (ADR-084). It is a synthesis in the sense of an integration, not an
+inventory (ADR-tmpw306d). The list of its components is its `integrates`
+field; their statuses and voices are in their own entries and the
+generated views, and its body does not restate them. Where this skill
+says "account", read "synthesis": an account in the sense of an
+explanation, never a ledger. A synthesis review looks across the record and
+asks three questions:
 
 - **Coverage.** Does each line, or each major part of one, have an account?
   Is each account faithful to its components as they now stand?
@@ -95,11 +101,17 @@ out, and it does not ask for strictness or leniency. Then:
 - **The scope's account comes first.** For each scope the shortlist
   touches, file its account, or revise the one there is as a new version.
   There is one account per scope (ADR-083). The account is a
-  SYNTHESIS, Proposed:
-  - every component in `integrates`, with its voice and status in the body;
-  - each link it states attributed to the entry that states it;
-  - nothing added. A link no component states goes under "Not stated on
-    the record";
+  SYNTHESIS, Proposed (ADR-tmpw306d):
+  - every component in `integrates`;
+  - a body that states the argument, not a list: the scope's question;
+    the argument that answers it, in the order its steps depend on each
+    other, each step citing in parentheses the entry that holds it; where
+    it is firm and where open, said where it matters; and a voice named
+    only where the argument turns on whose a step is. No per-component
+    entries of status, voice, role or quotation;
+  - nothing added. A link no component states is filed as a claim when
+    it passes the test below, and is otherwise named, in prose, under
+    "Not stated on the record" (a heading other tools search for);
   - `defeated_if` is fidelity: a component misstated or misattributed, an
     in-force component of the scope left out, or a link no component
     states.

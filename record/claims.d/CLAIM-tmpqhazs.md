@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Rejected
 title: 'The hyperarticle atlas can be an account only as an account over accounts: a cross-line SYNTHESIS integrating each scope''s account, which needs every scope to have one first'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Misfiled: a decision about the record's procedure (how to file the
+    atlas), asserted as if it were part of the inquiry. The owner's ruling
+    of 2026-11-25. Its content is in ADR-tmpm72rh.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -19,6 +26,9 @@ line:
 - record-as-apparatus
 bears_on:
 - QUESTION-tmptcvtu
+status_note: >-
+  Retired 2026-11-25: misfiled as part of the inquiry; a procedural
+  decision, held in ADR-tmpm72rh.
 summary: >-
   An answer to [QUESTION-tmptcvtu](../questions.d/QUESTION-tmptcvtu.md): the atlas cannot be filed as an account now. An account
   adds nothing ([ADR-084](../decisions.d/ADR-084.md)), and A65 says its outlines "may propose transitions

@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Rejected
 title: 'The hyperarticle atlas is a manuscript composed of manuscripts: a series work whose articles are works of their own, with its own members read against its outlines'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Misfiled: a decision about the record's procedure (how to file the
+    atlas), asserted as if it were part of the inquiry. The owner's ruling
+    of 2026-11-25. Its content is in ADR-tmpm72rh.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -17,6 +24,9 @@ line:
 - record-as-apparatus
 bears_on:
 - QUESTION-tmptcvtu
+status_note: >-
+  Retired 2026-11-25: misfiled as part of the inquiry; a procedural
+  decision, held in ADR-tmpm72rh.
 summary: >-
   An answer to [QUESTION-tmptcvtu](../questions.d/QUESTION-tmptcvtu.md): what the atlas is, a plan of fifteen views over the
   record, is a series work. The record has the pattern already:

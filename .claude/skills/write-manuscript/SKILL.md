@@ -132,6 +132,15 @@ work.
   already done", with each study's verdict and the entry that settles it,
   and put a dated note on any LEAD filed earlier that the search finds
   redundant.
+- **Run the search as its own job, before drafting, by readers who are
+  not drafting.** Give each searcher one region of the record (the
+  article's mechanisms, its neighbouring lines, the process history), the
+  list of proposed studies and no draft. A digester searching from what it
+  expects the article to need missed held results twice in the series
+  governance-of-becoming, the second time when told to search by
+  mechanism; the review's region searchers found them (devlog notes of
+  2026-11-25 03:30 and 07:25). The digests then cite the searchers' sort,
+  and the drafters use it.
 - **Do it again after drafting.** Drafters and digesters list gaps; each is
   checked the same way before it is filed as a LEAD or a QUESTION.
 
@@ -171,9 +180,13 @@ manuscript's census came from its review.
 
 - **Files by part**, each under about 500 lines, in reading order, each
   beginning with its path as a comment.
-- **Every step cites the entry that holds it, with its standing**: Active
-  or Proposed, and demonstrated, empirical or interpretive. Write codes
-  bare, and give statuses as of the draft's date.
+- **It is a manuscript, written for a reader outside the record**
+  (ADR-tmpw306d). It argues for its thesis. Each step cites the entry that
+  holds it, in parentheses, with the code bare. Standings, voices,
+  provenance, the reviews and the record's process go in the README and a
+  short note on method; the argument does not narrate them. Where a step's
+  firmness matters to the argument (a conjecture, a model, a contested
+  premise), the text says so in its own words.
 - **Quote where a paraphrase would move scope.** Keep an entry's scope
   conditions (its "only", "unless", "when"). Never turn a sufficient
   condition into a definition, or a conjunction into an identity. These
@@ -227,6 +240,14 @@ inside the manuscript, and is not thrown away either.
   as it now stands. A decline made against another predicate, or before a
   distinction the record has since drawn, gets a dated note on the account
   saying so, and the join is filed as above.
+
+- **Not as notes before the test.** A join is not filed as a dated note on
+  its components before an independent reader has put it to ADR-075. A
+  note stating the drafter's join makes the reader's question "does an
+  entry state it?" circular, and in Part III of governance-of-becoming two
+  such notes were wrong (devlog note of 2026-11-25 07:25). Gaps may be
+  filed at drafting; joins wait for their verdicts, then go to the account
+  as above.
 
 - **A missing step with content of its own** is filed as a Proposed CLAIM,
   a QUESTION or a LEAD, in the drafting assistant's voice, in the
