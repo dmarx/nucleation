@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: "A record of a student's collaboration with an LLM is not proof of understanding but a better basis for questioning it: who first proposed a step, how it was evaluated and whether it was adopted are different pieces of information, and the submission becomes a view over a learning process"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-25'
@@ -10,6 +10,12 @@ history:
     tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
     atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
     documented as a line. No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition without
+    citing it, in §9. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,6 +45,8 @@ summary: >-
   better basis for asking questions." "The final submission becomes a view
   over a learning process." The wording is A's (ChatGPT's, at A35 of the
   exchange "Hyper article interpretation"); adopting it is the owner's call.
+works:
+- hyperarticles
 ---
 
 <!-- inactive-ok-file: CLAIM-668 — Proposed; the premise that a record can represent who contributed -->

@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: Scientific publishing should publish the work and not only the paper, as a hyperarticle, a living, versioned body of the work attributed at the level of each contribution, of which any article is one view, and Nucleation can be read as one
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-25'
@@ -10,6 +10,12 @@ history:
     tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
     atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
     documented as a line. No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition without
+    citing it, in §3. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -42,6 +48,8 @@ summary: >-
   A5's essay states it at length; its separable ideas are [CLAIM-tmpgli4k](CLAIM-tmpgli4k.md)
   (credit at the level of the contribution) and [TERM-tmpjn06u](../terms.d/TERM-tmpjn06u.md) (the word).
   Filed in the owner's voice.
+works:
+- hyperarticles
 ---
 
 <!-- inactive-ok-file: CLAIM-178 ADR-143 CLAIM-tmpgli4k TERM-tmpjn06u THEORY-1758 CLAIM-179 CLAIM-tmpk6kcf CLAIM-tmpzsuh2 TERM-tmpx49xx CLAIM-tmpv0sv7 — Proposed; the claim generalized and its procedure, A's separable ideas, the reading and claims it meets, the assistant's gap fill on citing a version, and the owner's U4 to U6 -->

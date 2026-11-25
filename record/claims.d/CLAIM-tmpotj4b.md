@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: "Two views of the record should be separate scholarly contributions only when they have different central claims needing different evidence; that audiences want different presentations is a reason for different views, not different contributions, so an atlas of the record is organized around a few primary arguments with focused, cross-cutting and frontier views beside them rather than as a list of paper titles"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition without
+    citing it, in §3, §5. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -31,6 +38,8 @@ summary: >-
   applies. It sharpens the owner's U10 ([CLAIM-tmpkvi10](CLAIM-tmpkvi10.md)). The wording is
   A's (ChatGPT's, at A56 and A57 of the exchange "Hyper article
   interpretation"); adopting it is the owner's call.
+works:
+- hyperarticles
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpkvi10 CLAIM-tmp2tzk5 — Proposed or new; the owner's thesis it sharpens, the claim it complements and the identity question -->

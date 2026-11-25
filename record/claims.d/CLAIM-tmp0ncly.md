@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: "Just show your work is also a proposal for educators: students will use LLMs anyway, and a record of the collaboration that keeps which contributions were the student's and which the LLM's lets them use LLMs while their own contribution stays assessable"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-25'
@@ -10,6 +10,12 @@ history:
     tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
     atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
     documented as a line. No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition without
+    citing it, in §9. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -38,6 +44,8 @@ summary: >-
   second use of a governed record beside publishing: assessment in teaching.
   It rests on [CLAIM-668](CLAIM-668.md), that a shared record can represent who contributed a
   proposition.
+works:
+- hyperarticles
 ---
 
 <!-- inactive-ok-file: CLAIM-668 — Proposed; the premise that a record can represent who contributed -->

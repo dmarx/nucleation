@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpwkbsy
 title: 'In the What Survives Translation? exchange, the manuscript drafted straight from the crystallized argument changed the thesis with no turn arguing the move and dropped 24 of that argument''s items, none on request, and the second crystallized argument announced its change of question but left items out without saying which had dissolved and which were lost'
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -23,6 +23,18 @@ history:
     tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
     atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
     documented as a line. No other change.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Joins the work luria-beyond-software (ADR-tmp85hdc): Article 2 of A45
+    in the exchange "Hyper article interpretation" states its proposition
+    or uses it as a step, in §6. No other change.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition or uses
+    it as a step, in §2. No other change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -38,6 +50,8 @@ line:
 - nucleating-argument
 - scholarly-publishing
 works:
+- hyperarticles
+- luria-beyond-software
 - from-obstruction-to-reorganization
 uses:
 - TERM-052

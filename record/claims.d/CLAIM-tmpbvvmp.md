@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'The form in which knowledge becomes institutionally legible is separated from the form in which it is productively developed, so a researcher who can sustain an inquiry and not its conversion into manuscripts meets a design choice of the publishing apparatus and not only a personal obstacle, and a record from which manuscripts are drawn as views reduces the separation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition without
+    citing it, in §1. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -34,6 +41,8 @@ summary: >-
   a natural consequence of maintaining the research". The wording is A's
   (ChatGPT's, at A18 and A24 of the exchange "Hyper article
   interpretation"); adopting it is the owner's call.
+works:
+- hyperarticles
 ---
 <!-- inactive-ok-file: CLAIM-178 CLAIM-tmpkvi10 CLAIM-1200 CLAIM-tmp97pg4 ADR-143 — Proposed; the premises and the supposition it complements -->
 

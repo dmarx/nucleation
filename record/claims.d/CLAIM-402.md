@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpeftzb
 title: 'Predictive success of a category across contexts warrants treating it as a real effective kind only when the evidence in those contexts does not pass through the category''s own use, or when the effect of that use is modelled: a category that speakers or institutions act on can produce the regularities that confirm it, and contexts that share its use are not independent'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -43,6 +43,12 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 7 illustrative case (ADR-tmpenzcn). No
     change of title or status.
+- version: 7
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition or uses
+    it as a step, in §8. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -61,6 +67,7 @@ line:
 - pragmatic-transport
 - learning-and-inquiry
 works:
+- hyperarticles
 - governance-of-becoming
 rests_on:
 - CLAIM-342
