@@ -36,8 +36,8 @@ summary: >-
   The assistant's computation for the manuscript governance-of-becoming,
   Article 9 §9.4 (gap G9.1, join J9.1), filed under write-manuscript step
   6. The record held a capacity that decays under substitutive supply
-  (CLAIM-605) and a Nash split that moves with an outside option set by
-  hand (CASE-264's arm A; CLAIM-tmp2jhc1), and no model joining them.
+  ([CLAIM-605](CLAIM-605.md)) and a Nash split that moves with an outside option set by
+  hand ([CASE-264](../cases.d/CASE-264.md)'s arm A; [CLAIM-tmp2jhc1](CLAIM-tmp2jhc1.md)), and no model joining them.
   Here P's outside option is valued from its decaying capacity: over six
   time units of full substitution P's share falls from 6.000 to 4.199
   with no exit and no term rewritten; supply ended before the deadline
@@ -45,7 +45,7 @@ summary: >-
   0.003; capacity-first supply and the no-exit arm move nothing. Checked
   with python3 -I; the script asserts its figures and prints "checks
   pass". It answers, for a scalar capacity under both of its readings,
-  the item LEAD-tmpeo8wq left open. The wording is the assistant's
+  the item [LEAD-tmpeo8wq](../leads.d/LEAD-tmpeo8wq.md) left open. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
 
@@ -55,17 +55,17 @@ summary: >-
 
 ## The gap it fills
 
-CLAIM-605 (Active, demonstrated) holds capacity learned by doing,
+[CLAIM-605](CLAIM-605.md) (Active, demonstrated) holds capacity learned by doing,
 dC/dt = λPC(1 − C) − μC, under substitutive support P = min(τC, 1 − A)
 or capacity-first support P = min(τC, 1), with a deadline after which
-withdrawal no longer restores capacity. CASE-264's arm A and
-CLAIM-tmp2jhc1 hold the symmetric Nash split, u_P = o_P + (S − o_P − o_R)/2,
+withdrawal no longer restores capacity. [CASE-264](../cases.d/CASE-264.md)'s arm A and
+[CLAIM-tmp2jhc1](CLAIM-tmp2jhc1.md) hold the symmetric Nash split, u_P = o_P + (S − o_P − o_R)/2,
 in which each unit of outside option moves half a unit of the split
 whether or not it is used. In both, the outside option is a number set
 by hand. No entry put the first under the second, so the record had no
 model of terms moving as the fallback decays. The manuscript's digest
 searched by mechanism and found the joint dynamics "not done"; no
-account declines the join. LEAD-tmpeo8wq, in its first note of
+account declines the join. [LEAD-tmpeo8wq](../leads.d/LEAD-tmpeo8wq.md), in its first note of
 2026-11-24, keeps open "whether solo reach's shrinkage, not a price,
 moves the terms the other can offer".
 
@@ -77,18 +77,18 @@ with its README beside it; its output of 2026-11-25 is
 `analysis/fallback_decay_bargaining.2026-11-25.txt`. Run with
 `python3 -I`; deterministic.
 
-- **Capacity**: CLAIM-605's model and parameters, λ = 1, μ = 0.3,
+- **Capacity**: [CLAIM-605](CLAIM-605.md)'s model and parameters, λ = 1, μ = 0.3,
   τ = 1.5. Under full substitution C(t) = 0.7e^(−0.3t). The script
   recovers the threshold 0.2764, the kept state 0.7 and the deadline
   3.098.
-- **Bargain**: CASE-264's arm A, S = 10, o_R = 2. The script recovers
-  CASE-264's 4 and 6 at o_P = 0 and CLAIM-tmp2jhc1's 8, 9 and 10.
+- **Bargain**: [CASE-264](../cases.d/CASE-264.md)'s arm A, S = 10, o_R = 2. The script recovers
+  [CASE-264](../cases.d/CASE-264.md)'s 4 and 6 at o_P = 0 and [CLAIM-tmp2jhc1](CLAIM-tmp2jhc1.md)'s 8, 9 and 10.
 - **Fallback**: o_P(t) is w times the annuitized, discounted value of P's
   stand-alone output min(τC_s, 1), with C_s following the unsupported
   dynamics from C(t). Added, and invented: w = 4, r = 0.25 and a horizon
   of 80, fixed before the run. A second valuation, current output only,
   w·min(τC, 1), is reported beside it. They answer the two readings
-  LEAD-tmpeo8wq's second note of 2026-11-24 leaves open: current output
+  [LEAD-tmpeo8wq](../leads.d/LEAD-tmpeo8wq.md)'s second note of 2026-11-24 leaves open: current output
   to capacity as the actor's state, the forward value, nearer, to a
   cost of reaching that includes rebuilding the capacity.
 
@@ -109,15 +109,15 @@ with its README beside it; its output of 2026-11-25 is
    T = 2.0 or 3.0, then 20 units unsupported: o_P = 4.000 and 3.916.
    Ended at T = 3.5 or 5.0: o_P = 0.041 and 0.003, P's share near 4.
 3. **Controls.** Capacity-first supply: the share stays 6.000. Partial
-   substitution at A = 0.5, below CLAIM-605's a* = 0.585: capacity
-   settles at 0.400 and the share at 5.535, no cliff. CASE-264's arm B
+   substitution at A = 0.5, below [CLAIM-605](CLAIM-605.md)'s a* = 0.585: capacity
+   settles at 0.400 and the share at 5.535, no cliff. [CASE-264](../cases.d/CASE-264.md)'s arm B
    (no exit): P gets 1 whatever its fallback is worth, by construction.
-   CLAIM-602's model, without a threshold, run through the same
+   [CLAIM-602](CLAIM-602.md)'s model, without a threshold, run through the same
    pipeline: a smooth fall to 5.547, largest fall per 0.05 of 0.005
    against 0.042.
 4. **Under both readings.** On the current-output valuation the terms
    still move (6.000 to 4.347), so the claim's first clause holds on
-   either of LEAD-tmpeo8wq's readings. Its second clause, reversibility,
+   either of [LEAD-tmpeo8wq](../leads.d/LEAD-tmpeo8wq.md)'s readings. Its second clause, reversibility,
    concerns the capacity, which is the same under both; but only the
    forward valuation shows the deadline in the terms.
 
@@ -131,23 +131,23 @@ with its README beside it; its output of 2026-11-25 is
   deadline: it holds for where the fall is steepest and fails as a step
   except for a patient party. On the current-output valuation the fall
   is steepest at t = 0.225 and the deadline does not show in the terms.
-- **Not the world's numbers.** Every parameter is CLAIM-605's,
-  CASE-264's, or invented here (w, r, the horizon).
+- **Not the world's numbers.** Every parameter is [CLAIM-605](CLAIM-605.md)'s,
+  [CASE-264](../cases.d/CASE-264.md)'s, or invented here (w, r, the horizon).
 - **Not intent or gain.** Supply is exogenous. R's cost of supplying,
   and so whether R would choose to supply past the deadline, is not
   modelled.
 - **Not exploitation or domination.** No standard is declared, as
-  TERM-123 and TERM-124 require; CLAIM-670's step to exploitation stays
+  [TERM-123](../terms.d/TERM-123.md) and [TERM-124](../terms.d/TERM-124.md) require; [CLAIM-670](CLAIM-670.md)'s step to exploitation stays
   interpretive. What is shown is a bargaining vulnerability produced by
-  supply. That exit is what lets the decay matter at all is CLAIM-690's
+  supply. That exit is what lets the decay matter at all is [CLAIM-690](CLAIM-690.md)'s
   point, which the no-exit control shows in the dynamic case.
-- **Not reach over TERM-114**, the authority index or the four
-  predicates LEAD-tmpeo8wq asks for: a scalar capacity and a scalar
+- **Not reach over [TERM-114](../terms.d/TERM-114.md)**, the authority index or the four
+  predicates [LEAD-tmpeo8wq](../leads.d/LEAD-tmpeo8wq.md) asks for: a scalar capacity and a scalar
   split.
 
 ## Standing
 
 Proposed. Run by its filer only, on 2026-11-25; recomputation by
 another session is the check before any promotion. A candidate member
-of governance-of-becoming under ADR-104's rule (it is stated in §9.4);
+of governance-of-becoming under [ADR-104](../decisions.d/ADR-104.md)'s rule (it is stated in §9.4);
 adding it is the owner's call.

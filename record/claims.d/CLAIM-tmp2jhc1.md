@@ -121,15 +121,15 @@ is why efficiency measured on use will tend to remove it.
 ## Note of 2026-11-25: the threat point run on a fallback the supply erodes, from the manuscript governance-of-becoming, Article 9
 <!-- inactive-ok-file: CLAIM-tmp6nzs1 CASE-264 — Proposed or new; the computation and the bargaining case it uses -->
 
-The bargaining step above holds the outside option fixed. CLAIM-tmp6nzs1
-lets it decay: B's (there, P's) fallback is a capacity in CLAIM-605's model,
-eroded by substitutive supply, and the split is CASE-264's arm A. The
+The bargaining step above holds the outside option fixed. [CLAIM-tmp6nzs1](CLAIM-tmp6nzs1.md)
+lets it decay: B's (there, P's) fallback is a capacity in [CLAIM-605](CLAIM-605.md)'s model,
+eroded by substitutive supply, and the split is [CASE-264](../cases.d/CASE-264.md)'s arm A. The
 half-unit property holds at every step of the decay (checked), and the
 share falls from 6.000 to 4.199 over six time units while P never exits.
 So the claim's "changes the terms others offer" runs in both directions:
 a reserve kept raises the terms, and one that the arrangement's own
 supply lets decay lowers them, unnoticed by any measure of use. Past
-CLAIM-605's deadline ending the supply no longer restores the reserve, so
+[CLAIM-605](CLAIM-605.md)'s deadline ending the supply no longer restores the reserve, so
 the claim's warning about "optimizing away capacity that ordinary
 operation never exercises" has a timing in that model. The script and its
 output of 2026-11-25 are under

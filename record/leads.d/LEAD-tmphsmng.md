@@ -20,15 +20,15 @@ advances:
 - CLAIM-671
 summary: >-
   From the manuscript governance-of-becoming, Article 8 §8.7 (gap G8.3,
-  filed under write-manuscript step 6). CLAIM-959 holds that a thick
+  filed under write-manuscript step 6). [CLAIM-959](../claims.d/CLAIM-959.md) holds that a thick
   membership can ground obligation "under an independently justified
-  principle of associative obligation", and CLAIM-671 rests on Goodin's
-  vulnerability principle (LIT-2531, Unavailable); the record reads no
+  principle of associative obligation", and [CLAIM-671](../claims.d/CLAIM-671.md) rests on Goodin's
+  vulnerability principle ([LIT-2531](../literature.d/LIT-2531.md), Unavailable); the record reads no
   theory of associative or special obligation and no principle of fair
   play. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-959 CLAIM-960 CLAIM-671 LIT-2531 LEAD-110 — Proposed or Unavailable; the alternatives that need the principle, the claim resting on Goodin's, Goodin's work, and the lead whose result is conditional on the principle -->
+<!-- inactive-ok-file: CLAIM-959 CLAIM-960 CLAIM-671 LIT-2531 — Proposed or Unavailable; the alternatives that need the principle, the claim resting on Goodin's, Goodin's work, and the lead whose result is conditional on the principle -->
 
 # LEAD-tmphsmng: Read the works on associative obligation and fair play, for whether membership in a cooperative scheme grounds obligations of its own
 
@@ -37,10 +37,10 @@ summary: >-
 Article 8 §8.7: "By search on 2026-11-25, the record reads no theory of
 associative or special obligation. The Scheffler entries it holds are on
 the collective afterlife, not on associative duties. It also holds no
-principle of fair play of the kind Hart and Rawls stated." CLAIM-959 and
-CLAIM-960 are the two readings of LEAD-110's part-whole case; the first
+principle of fair play of the kind Hart and Rawls stated." [CLAIM-959](../claims.d/CLAIM-959.md) and
+[CLAIM-960](../claims.d/CLAIM-960.md) are the two readings of [LEAD-110](LEAD-110.md)'s part-whole case; the first
 is "conditional on an associative-obligation principle the record has not
-adopted" (LEAD-110), and whether to adopt one is the owner's. LEAD-031
+adopted" ([LEAD-110](LEAD-110.md)), and whether to adopt one is the owner's. [LEAD-031](LEAD-031.md)
 reads Young, Mellor, Pettit and Williams, not these.
 
 ## What it would do
@@ -55,27 +55,27 @@ reads Young, Mellor, Pettit and Williams, not these.
      Responsibilities" (1997), and Ronald Dworkin's associative
      obligations in *Law's Empire* (1986), ch. 6;
    - and a lawful copy of Goodin's *Protecting the Vulnerable* (1985),
-     LIT-2531, if one can be found.
+     [LIT-2531](../literature.d/LIT-2531.md), if one can be found.
 2. **For each, file** a THEORY saying what grounds the obligation
    (accepting a scheme's benefits; a valued relationship; membership in
    a practice), who bears it, and to whom it is owed.
-3. **Answer QUESTION-460's ground clause** with them: whether
+3. **Answer [QUESTION-460](../questions.d/QUESTION-460.md)'s ground clause** with them: whether
    contribution to a cooperative scheme, membership as such, or
    vulnerability grounds obligations of the whole or of those who
-   control it, and so which of CLAIM-959 and CLAIM-960 has a principle to
+   control it, and so which of [CLAIM-959](../claims.d/CLAIM-959.md) and [CLAIM-960](../claims.d/CLAIM-960.md) has a principle to
    stand on.
 
 ## What would count
 
 A defensible fair-play or associative principle that applies to
-organizational membership gives CLAIM-959 the principle it is
+organizational membership gives [CLAIM-959](../claims.d/CLAIM-959.md) the principle it is
 conditional on. Simmons's objection that benefits merely received do not
 bind, or Scheffler's own limits on associative duties, would count
-toward CLAIM-960. Either way the owner's choice between them gets the
+toward [CLAIM-960](../claims.d/CLAIM-960.md). Either way the owner's choice between them gets the
 literature it lacks.
 
 ## Standing
 
 Open, at stage idea. Checked first: no held lead reads these works
-(LEAD-031 and LEAD-133 read others); LEAD-110 states the dependence on
+([LEAD-031](LEAD-031.md) and [LEAD-133](LEAD-133.md) read others); [LEAD-110](LEAD-110.md) states the dependence on
 an associative principle without planning to read one.

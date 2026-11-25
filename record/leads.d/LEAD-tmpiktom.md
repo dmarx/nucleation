@@ -93,12 +93,12 @@ defeater.
 A51 Article 7: "The transport and reconstruction theory does not need to be recreated"; "The memetic and hyperstitional synthesis itself needs careful integration." A51 names no executed memetic study, and the record holds none. Formal precedents exist for three of A4's interventions: seed dispensability, a transient encounter that forms a connector then maintained by what it enables, every single-pathway knockout ending it ([CASE-189](../cases.d/CASE-189.md), Active); formation provenance told apart only by a knockout during formation ([CASE-191](../cases.d/CASE-191.md), Active); carrier against concept, transplanting interpretive rules between populations matched in behaviour ([CASE-148](../cases.d/CASE-148.md), Active). The empirical study stays open; these give its step 4 its constructions. The owner's U32 holds that the series' proposed experiments are "largely already satisfied by prior work" ([CLAIM-tmpyp0ju](../claims.d/CLAIM-tmpyp0ju.md)). The note is the assistant's (Claude, in this session); whether to narrow, lower or close the lead is the owner's call. No status change.
 
 ## Note of 2026-11-25: the first site was run, from the manuscript governance-of-becoming, Article 7
-<!-- inactive-ok-file: CASE-410 CLAIM-1026 CASE-367 CASE-347 CASE-362 CLAIM-946 — Proposed; the executed studies the note above leaves out, cited with their standing -->
+<!-- inactive-ok-file: CASE-367 CASE-347 CASE-362 CLAIM-946 — Proposed; the executed studies the note above leaves out, cited with their standing -->
 
 The note of 2026-11-24 says that A51 names no executed memetic study "and
 the record holds none". That is not consistent with step 5, which names
-CASE-410, and CASE-410 is an executed study (kind executed-study,
-standing documented) of step 5's own site: it ran LEAD-188 on the
+[CASE-410](../cases.d/CASE-410.md), and [CASE-410](../cases.d/CASE-410.md) is an executed study (kind executed-study,
+standing documented) of step 5's own site: it ran [LEAD-188](LEAD-188.md) on the
 Juggernaut line, with production testimony and a circulation-network
 model, and found the one observation favouring circulation over the list
 "by at most about five to one". So step 5's site has been run in part.
@@ -110,9 +110,9 @@ relations among participants", cannot be read from it. Step 5's check
 answered for the model: they do not.
 
 The manuscript's digest also lists other executed studies that bear on
-the lead's interventions and the note leaves out: CASE-367 (a changed
-referent against apparent confirmation), CASE-347 (turnover, for "Replace
-participants") and CASE-362 with CLAIM-946 (restoration). None varies the
+the lead's interventions and the note leaves out: [CASE-367](../cases.d/CASE-367.md) (a changed
+referent against apparent confirmation), [CASE-347](../cases.d/CASE-347.md) (turnover, for "Replace
+participants") and [CASE-362](../cases.d/CASE-362.md) with [CLAIM-946](../claims.d/CLAIM-946.md) (restoration). None varies the
 seed or measures tie formation, so the lead's empirical core stays open;
 "holds none" should read "holds none that varies the seed or measures new
 relations". The correction is the assistant's (Claude, in this session).

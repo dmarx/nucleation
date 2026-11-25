@@ -25,13 +25,13 @@ summary: >-
   reviewer of its memetic theses would press first: complex contagion
   (Centola and Macy's threshold models of adoption), Sperber's
   epidemiology of representations and cultural attraction, and Boyd and
-  Richerson's dual-inheritance theory. LEAD-tmpiktom's baseline and
-  CLAIM-tmpgvsgg's defeater both turn on threshold models, and TERM-027's
+  Richerson's dual-inheritance theory. [LEAD-tmpiktom](LEAD-tmpiktom.md)'s baseline and
+  [CLAIM-tmpgvsgg](../claims.d/CLAIM-tmpgvsgg.md)'s defeater both turn on threshold models, and [TERM-027](../terms.d/TERM-027.md)'s
   definition is taken from an assistant's turn, not from Sperber. The
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpgvsgg CLAIM-tmpjitli CLAIM-tmp1ng5k CLAIM-tmpnws9d LEAD-tmpiktom — Proposed or new; the theses the readings would test and the study whose baseline they supply -->
+<!-- inactive-ok-file: CLAIM-tmpgvsgg CLAIM-tmpjitli — Proposed or new; the theses the readings would test and the study whose baseline they supply -->
 
 # LEAD-tmplsxtr: Read the published rivals of memetic nucleation, complex contagion, cultural attraction and dual-inheritance cultural evolution, for the threshold baseline a nucleation study must beat and the transmission models a seed thesis must exclude
 
@@ -40,12 +40,12 @@ summary: >-
 Article 7 §7.8 of the manuscript governance-of-becoming: the record has
 read iterated learning, performativity, Merton, Land and Soros, and not
 "Sperber's cultural attraction …, Boyd and Richerson, complex contagion".
-"The baseline in LEAD-tmpiktom and the defeater of CLAIM-tmpgvsgg both
+"The baseline in [LEAD-tmpiktom](LEAD-tmpiktom.md) and the defeater of [CLAIM-tmpgvsgg](../claims.d/CLAIM-tmpgvsgg.md) both
 turn on complex contagion, so its absence is the gap that matters most.
 Until it is read, the nucleation reading has no published rival on the
 record to beat." By search of 2026-11-25 no LIT names Centola, Boyd or
 Richerson, and no work of Sperber's on cultural transmission is
-registered (TERM-027's note: "Sperber's works stay unregistered").
+registered ([TERM-027](../terms.d/TERM-027.md)'s note: "Sperber's works stay unregistered").
 
 ## What it would do
 
@@ -61,20 +61,20 @@ registered (TERM-027's note: "Sperber's works stay unregistered").
 2. **For each, file** a THEORY with what its models produce: whether
    threshold adoption yields critical masses and hysteresis, so that "a
    lasting regime after withdrawal is not by itself evidence of
-   nucleation" (LEAD-tmpiktom, step 1); whether attraction explains
+   nucleation" ([LEAD-tmpiktom](LEAD-tmpiktom.md), step 1); whether attraction explains
    agreement between source and carrier without transmission, which
-   bears on CLAIM-tmpjitli's measure of fidelity (its note of
+   bears on [CLAIM-tmpjitli](../claims.d/CLAIM-tmpjitli.md)'s measure of fidelity (its note of
    2026-11-25); and which biases of transmission dual inheritance
    separates.
-3. **Say what each rules out.** For CLAIM-tmpgvsgg's defeater, which
+3. **Say what each rules out.** For [CLAIM-tmpgvsgg](../claims.d/CLAIM-tmpgvsgg.md)'s defeater, which
    rival models already produce the seed's effects, and what measure
-   (LEAD-tmpiktom's new persistent relations) none of them produces.
+   ([LEAD-tmpiktom](LEAD-tmpiktom.md)'s new persistent relations) none of them produces.
 
 ## What would count
 
 A reading that shows threshold models produce persistence after
-withdrawal with no relational excess meets CLAIM-tmpgvsgg's defeater for
-those data, and fixes LEAD-tmpiktom's baseline. A reading that finds a
+withdrawal with no relational excess meets [CLAIM-tmpgvsgg](../claims.d/CLAIM-tmpgvsgg.md)'s defeater for
+those data, and fixes [LEAD-tmpiktom](LEAD-tmpiktom.md)'s baseline. A reading that finds a
 measure the rival models cannot produce gives the nucleation thesis its
 discriminating prediction. Either way the record gains the published
 rival it lacks.
@@ -82,5 +82,5 @@ rival it lacks.
 ## Standing
 
 Open, at stage idea. Checked first: no held lead reads these works;
-LEAD-tmpiktom fits threshold models as its baseline and does not read
+[LEAD-tmpiktom](LEAD-tmpiktom.md) fits threshold models as its baseline and does not read
 them.

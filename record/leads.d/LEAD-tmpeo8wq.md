@@ -156,12 +156,12 @@ this session).
 
 The first note above leaves open "whether solo reach's shrinkage, not a
 price, moves the terms the other can offer". The manuscript's Article 9
-§9.4 computes it for a scalar capacity, filed as CLAIM-tmp6nzs1 with its
+§9.4 computes it for a scalar capacity, filed as [CLAIM-tmp6nzs1](../claims.d/CLAIM-tmp6nzs1.md) with its
 script under scratch/manuscripts/governance-of-becoming/analysis/. P's
-capacity follows CLAIM-605's model under full substitution, and its outside
-option in CASE-264's Nash split is valued from that capacity. With no
+capacity follows [CLAIM-605](../claims.d/CLAIM-605.md)'s model under full substitution, and its outside
+option in [CASE-264](../cases.d/CASE-264.md)'s Nash split is valued from that capacity. With no
 transition's price changed and no exit, P's share falls from 6.000 to
-4.199 over six time units; ended before CLAIM-605's deadline the supply
+4.199 over six time units; ended before [CLAIM-605](../claims.d/CLAIM-605.md)'s deadline the supply
 leaves the fallback restorable (o_P back to 4.000 or 3.916), after it not
 (0.041, 0.003). Capacity-first supply, the lead's step 4 control, moves
 nothing.
@@ -175,7 +175,7 @@ t = 6), so for a scalar capacity the shrinkage moves the terms either
 way. They differ in where: the forward valuation's fall is steepest at
 the deadline (for r ≤ 0.25), the current-output one's at the start, so
 the deadline shows in the terms only on the second reading. What stays open is
-what the lead asks beyond that: reach over TERM-114 indexed by actor,
+what the lead asks beyond that: reach over [TERM-114](../terms.d/TERM-114.md) indexed by actor,
 the authority index W, and the four predicates per transition. The
 computation is the assistant's, run by its filer only. No status change;
 whether this narrows the lead further is the owner's call. The wording is

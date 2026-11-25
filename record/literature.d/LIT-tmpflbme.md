@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'Registered 2026-11-25 for CLAIM-tmp590sw, the owner''s "death of the author" claim, from the manuscript governance-of-becoming, Article 7; not sought or read. UbuWeb hosts the Aspen issue''s text.'
+status_note: 'Registered 2026-11-25 for [CLAIM-tmp590sw](../claims.d/CLAIM-tmp590sw.md), the owner''s "death of the author" claim, from the manuscript governance-of-becoming, Article 7; not sought or read. UbuWeb hosts the Aspen issue''s text.'
 title: 'The Death of the Author'
 version: 1
 history:
@@ -28,13 +28,13 @@ implementations: []
 summary: >-
   Roland Barthes, "The Death of the Author", Aspen nos. 5–6 (1967), trans.
   Richard Howard; in French as "La mort de l'auteur", Manteia no. 5
-  (1968). Registered because the owner's CLAIM-tmp590sw names "'death of
+  (1968). Registered because the owner's [CLAIM-tmp590sw](../claims.d/CLAIM-tmp590sw.md) names "'death of
   the author' type phenomena" as its example: a meme reproduced apart
   from the perspective that produced it nucleates different perspectives
-  in the carriers that complete it. CLAIM-tmp590sw's gloss, that a text
+  in the carriers that complete it. [CLAIM-tmp590sw](../claims.d/CLAIM-tmp590sw.md)'s gloss, that a text
   once published is no longer governed by its author's intentions and
   that its unity lies in its destination, the reader, is unverified until
-  read. It bears also on CLAIM-171 (an unread text has possible meanings
+  read. It bears also on [CLAIM-171](../claims.d/CLAIM-171.md) (an unread text has possible meanings
   and no fixed one).
 ---
 

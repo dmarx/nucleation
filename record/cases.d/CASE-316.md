@@ -243,20 +243,20 @@ much real limits foresee.
 <!-- inactive-ok-file: CLAIM-879 CLAIM-723 — Proposed; the executed study, its finding and the held form of the wrong, cited with their standing -->
 
 The manuscript's Article 8 (§8.4.2, join J8.3) links two entries that do
-not cite each other. CASE-316 (Proposed, executed study; CLAIM-879 states
+not cite each other. CASE-316 (Proposed, executed study; [CLAIM-879](../claims.d/CLAIM-879.md) states
 its finding) is a queueing model in which an overseer with "the same
 authority, information and reviewers at every speed" can suspend an act
 until it becomes irreversible. What it counts, the share of objectionable
 actions made irreversible before an objection can take effect (0.994
 stopped in time at the base speed, 0.396 at ten times, 0.043 with volume
-multiplied as well), is how often CLAIM-723's second condition, "the act
+multiplied as well), is how often [CLAIM-723](../claims.d/CLAIM-723.md)'s second condition, "the act
 made that standing ineffective before it could be exercised", is met, for
 objectionable actions only, by timing alone.
 
-It measures the occasion of CLAIM-723's wrong, not the wrong. The model
+It measures the occasion of [CLAIM-723](../claims.d/CLAIM-723.md)'s wrong, not the wrong. The model
 has no affected party (the standing is the overseer's power to suspend),
 does not count objections that would have failed, which are the case
-CLAIM-723 is distinctive for, and models neither attribution to the
+[CLAIM-723](../claims.d/CLAIM-723.md) is distinctive for, and models neither attribution to the
 actor's timing or control over execution (condition three; CASE-316
 lists among what it cannot show "Intent to outrun review") nor justification (condition
 four). So it says how often the occasion arises as speed rises, and which
