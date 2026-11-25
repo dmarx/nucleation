@@ -10,4 +10,4 @@
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-023](../../../record/syntheses.d/SYNTHESIS-023.md) | The authenticity line holds, set aside, that a will is the agent's own to the degree its commitments arise through, remain integrated with and are answerable to its constitutive organization, and that this grounds normativity from a whole to its constituents but not between peers; it was deferred because its ownership criteria do not survive manipulation, and what it has gained since is a candidate content for "integrated", non-domination of the processes that carry a commitment, with the objection that non-domination cannot be read from low supervisory cost, or from override alone, but only under intervention, when a constituent dissents, or from history |  | Proposed |
+| [SYNTHESIS-023](../../../record/syntheses.d/SYNTHESIS-023.md) | Authenticity, deferred, gains non-domination |  | Proposed |

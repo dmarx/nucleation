@@ -4,665 +4,665 @@
 
 111 lines, walked from `objects_to:` and `undercuts_support_of` (`(u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
-## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
-
-- [CLAIM-100](../record/claims.d/CLAIM-100.md) — Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem *(thesis, Superseded)*
-  - [CLAIM-001](../record/claims.d/CLAIM-001.md) — The conditional-diffusion literature already covers directed transport between observational scenarios, including changing covers *(counter, Proposed)*
-    - [CLAIM-071](../record/claims.d/CLAIM-071.md) — Conditional generation shares a mathematical vocabulary with translation, not a mechanism: denoising time is not telephone-game time, and a generative failure is not a proof of sheaf contextuality *(disclaimed, Active)*
-
-## From What fundamentally distinguishes variations of a translation is the frame from which it is delivered
-
-- [CLAIM-006](../record/claims.d/CLAIM-006.md) — What fundamentally distinguishes variations of a translation is the frame from which it is delivered *(thesis, Superseded)*
-  - [CLAIM-004](../record/claims.d/CLAIM-004.md) — Not every difference between translations is a difference of frame: some change the act being framed *(thesis, Proposed)* — also undercuts support of CLAIM-102
-- [CLAIM-102](../record/claims.d/CLAIM-102.md) — Variations in translation are transformations between pragmatic frames of reference that preserve selected invariants of the communicative act *(thesis, Superseded)*
-  - [CLAIM-035](../record/claims.d/CLAIM-035.md) — Translation operations are generally not invertible, need not compose by a fixed rule, and preserve no structure given in advance; which communicative properties are invariant must be discovered or negotiated *(granted, Active)* — through [ARG-004](../record/arguments.d/ARG-004.md)
-
-## From Pragmatic fidelity is the match between distributions of context-indexed communicative judgements across a correspondence of source and target contexts, not the similarity of one canonical meaning vector; the match constrains a translation only once one outcome correspondence is fixed across many items, and summed over source contexts alone it charges for loss and not for addition
-
-- [CLAIM-005](../record/claims.d/CLAIM-005.md) — Pragmatic fidelity is the match between distributions of context-indexed communicative judgements across a correspondence of source and target contexts, not the similarity of one canonical meaning vector; the match constrains a translation only once one outcome correspondence is fixed across many items, and summed over source contexts alone it charges for loss and not for addition *(thesis, Proposed)*
-  - [CLAIM-207](../record/claims.d/CLAIM-207.md) — The transports of Propositions 1–2 and of D_obs act on judgement outcomes, not texts, and for any one source–target pair a constant kernel transports any overlap-consistent target, so they constrain a translation only once one kernel family is fixed across many utterances and derived from the text channel *(granted, Active)* — also objects to CLAIM-125
-  - [CLAIM-226](../record/claims.d/CLAIM-226.md) — The defeat tests pool unnamed judges and treat their disagreement as noise, though the theory makes the act partly constituted by its audience; for historical sources there is no source audience at all, and for interlingual ones population differences are read as distortion *(counter, Active)* — also objects to CLAIM-115
-  - [CLAIM-232](../record/claims.d/CLAIM-232.md) — Human ratings of stance or footing and human ratings of fidelity of the same renderings share rater construal, scale use and a general impression, which a machine similarity score shares with neither *(counter, Active)* — through [ARG-026](../record/arguments.d/ARG-026.md) — also undercuts support of CLAIM-078, CLAIM-115, CLAIM-139
-  - [CLAIM-233](../record/claims.d/CLAIM-233.md) — The central theses' defeat conditions pit them only against embedding, propositional or surface similarity, and two rivals the record holds, functional equivalence as Nida states it and a proposition with its illocutionary force, also predict that judged pragmatic observables beat text similarity *(granted, Active)* — through [ARG-026](../record/arguments.d/ARG-026.md) — also undercuts support of CLAIM-078, CLAIM-115, CLAIM-139
-  - [CLAIM-244](../record/claims.d/CLAIM-244.md) — The defeat tests take one holistic, task-free judgement of fidelity as ground truth, though the line's own theses say fidelity is task-relative, interpreter-relative and not a single ranking *(counter, Proposed)* — also objects to CLAIM-078, CLAIM-115, CLAIM-139
-    - [CLAIM-240](../record/claims.d/CLAIM-240.md) — A holistic fidelity judgement is fidelity under the judges' default task, a weighting of the profile's components that can be estimated on some renderings and tested on others, so it is well defined and consistent with task-relativity, and a defeat condition that uses it must name the population and fix the weighting before the test, and across populations with unequal access to the source must fit the weighting only on the components each can perceive *(thesis, Proposed)*
-      - [CLAIM-458](../record/claims.d/CLAIM-458.md) — A reception split between populations with unequal access to the source can be partly a difference of access and not of weighting, so a comparison of their default tasks can fit weights only on the components every population compared can perceive *(counter, Active)*
-  - [CLAIM-256](../record/claims.d/CLAIM-256.md) — D_obs sums over source contexts only, so a target context outside the image of τ appears in no term: a rendering that adds a relation pays nothing, and a change of cover registers only as loss *(granted, Active)*
-- [CLAIM-033](../record/claims.d/CLAIM-033.md) — In published translations, renderings that lose distinctions along one dimension commonly gain specificity along another, so loss is not one-dimensional *(thesis, Proposed)*
-  - [CLAIM-238](../record/claims.d/CLAIM-238.md) — Many of the line's defeat conditions cannot in practice be met: the comparative ones are null results with no margin over an observable set the thesis may re-choose, and the possibility theses' are universal negatives that no finite study establishes *(granted, Active)* — also objects to CLAIM-077, CLAIM-087, CLAIM-105, CLAIM-115, CLAIM-139, CLAIM-143
-    - [CLAIM-239](../record/claims.d/CLAIM-239.md) — A defeat condition that says something cannot be done is met by an argument that it cannot, not by a record of failures, so the admissibility and correspondence theses can fail by their own conditions, though no study the programme runs can make them fail *(thesis, Active)*
-- [CLAIM-056](../record/claims.d/CLAIM-056.md) — Local transport errors in a reconstruction chain are bounded by the per-step discrepancies weighted by the sensitivity of the later reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift; the bound measures departure from a reference transport, not whether the act survives *(thesis, Active)*
-  - [CLAIM-031](../record/claims.d/CLAIM-031.md) — A reconstruction chain reorganizes observational constraints rather than only accumulating metric error: a text can change greatly while keeping a few consequential constraints, and one changed constraint can change the act *(granted, Active)*
-  - [CLAIM-208](../record/claims.d/CLAIM-208.md) — The compositional predictions are upper bounds whose constants cannot be estimated from serial-reproduction data in a metric fixed beforehand, so the compositional half of the success criterion cannot fail *(counter, Active)* — also objects to CLAIM-059, CLAIM-078
-- [CLAIM-059](../record/claims.d/CLAIM-059.md) — Repeated reconstruction chains fall into different regimes under conditions assigned in advance, contracting toward conventions, accumulating neutrally or amplifying, and amplification needs a metric other than total variation, an enlarged state or state-dependent dynamics *(thesis, Proposed)*
-- [CLAIM-077](../record/claims.d/CLAIM-077.md) — A transport is admissible only if it keeps specified observable distinctions apart, which excludes trivial collapse by construction *(thesis, Active)*
-- [CLAIM-078](../record/claims.d/CLAIM-078.md) — The theory succeeds if its observational and decision measures predict changes of communicative identity that text similarity misses and follow its compositional predictions across reconstructions; it needs neither quantum contextuality nor exact Noether laws *(thesis, Proposed)*
-- [CLAIM-087](../record/claims.d/CLAIM-087.md) — Cross-modal reconstruction often improves a receiver's access to an implicit communicative relation beyond the text-only baseline, as when posture or expression conveys solidarity better than the source text's literal content, though a rendering made without the situation is a garbling and cannot improve what an ideal receiver could do *(thesis, Proposed)*
-- [CLAIM-105](../record/claims.d/CLAIM-105.md) — In documented reconstruction chains, steps that keep most local judgements commonly change their global compatibility: translation preserves local meanings while changing the global structure of meaning *(thesis, Proposed)*
-  - [CLAIM-219](../record/claims.d/CLAIM-219.md) — A change in the global compatibility of a fixed scenario is either a change in contextuality proper, which the behavioural data read show none of, or a change in overlap consistency, which is ordinary context dependence and moves by at most 2ε when each context moves by ε *(counter, Active)* — through [ARG-032](../record/arguments.d/ARG-032.md)
-  - [CLAIM-235](../record/claims.d/CLAIM-235.md) — The line's proposed quantities have no finite-data estimators: plug-in signalling from one or a few occurrences per context is positive in expectation when the true marginals agree, so the contextual fraction is undefined on raw tables, and deficiency over text-valued renderings has no estimator *(counter, Active)* — also undercuts support of CLAIM-125
-- [CLAIM-115](../record/claims.d/CLAIM-115.md) — What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition *(thesis, Superseded)*
-  - [CLAIM-222](../record/claims.d/CLAIM-222.md) — No design in the programme includes an interlingual translation, and the defeat conditions are disjunctive, so English retellings and model chains could settle a thesis about what survives translation *(counter, Active)* — also objects to CLAIM-139
-  - [CLAIM-243](../record/claims.d/CLAIM-243.md) — Read as description, the manuscript's thesis is close to true by definition; read as a criterion, it is a schema until the decision family Q is fixed, and its descriptive defeat condition can test neither reading *(counter, Active)*
-    - [CLAIM-252](../record/claims.d/CLAIM-252.md) — The account does not say which distinctions a translation ought to keep: it says how to tell which ones a rendering kept for stated tasks and receivers, and what ought to be kept is set by the purpose the translation serves *(disclaimed, Active)*
-- [CLAIM-125](../record/claims.d/CLAIM-125.md) — Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data *(thesis, Active)*
-  - [CLAIM-237](../record/claims.d/CLAIM-237.md) — The first open problem of directed transport is not yet posed: a contextual model is a menu of incompatible experiments, and under the natural order on menus any state-independent classical simulation is dominated automatically, so what is open is only the converse or a deficiency bound *(granted, Active)*
-  - [CLAIM-245](../record/claims.d/CLAIM-245.md) — Under Contextuality-by-Default, a deterministic context-wise recoding can make a noncontextual signalling source maximally contextual, or turn a contextual source into pure signalling, so per-content signalling is not monotone under such maps and the quantity to bound is joint overlap discrepancy *(granted, Active)*
-- [CLAIM-137](../record/claims.d/CLAIM-137.md) — A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, once one symmetry group is identified across the realizations by its action on the situation and not by labels of a medium, so that invariant has classificatory priority over any particular realization *(thesis, Proposed)*
-  - [CLAIM-132](../record/claims.d/CLAIM-132.md) — Characters classify finite-dimensional representations of a finite or compact group up to isomorphism only over a field of characteristic zero; they forget the isomorphisms, fix neither the group nor a permutation action, and classify kinds, not tokens or positions *(granted, Active)*
-  - [CLAIM-246](../record/claims.d/CLAIM-246.md) — Sharing a kind is symmetric and blind to which work is the source, so the October thesis cannot say a translation is of its original, against the line's own directed, graded fidelity and identity through descent *(counter, Rejected)* — also objects to CLAIM-139
-    - [CLAIM-210](../record/claims.d/CLAIM-210.md) — Sharing a kind and being a rendering are different relations: kind-sharing is symmetric and says what is to be preserved, while fidelity belongs to a transport from a given source, so an utterance of the same kind made independently of the source shares its kind and has no fidelity to it *(thesis, Active)*
-  - [CLAIM-249](../record/claims.d/CLAIM-249.md) — Comparing characters across realizations needs one group identified on both, which is fixed only up to automorphism, and automorphisms permute the irreducible characters, so "the same character" is relative to a chosen correspondence: the collapse problem again, at the level of the symmetry group *(granted, Active)*
-- [CLAIM-139](../record/claims.d/CLAIM-139.md) — A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist *(thesis, Superseded)*
-  - [CLAIM-140](../record/claims.d/CLAIM-140.md) — The October thesis replaces what a receiver can reconstruct with what the analyst's probe system can identify as the test of what survives, and no turn argues the change *(granted, Active)*
-  - [CLAIM-206](../record/claims.d/CLAIM-206.md) — If a communicative kind can outrun every probe, human same-kind judgements, themselves one probe family, can neither confirm nor defeat the October thesis; if it cannot, the kind does in the tests only what an observational class does, which the record's term for a kind says it is not *(counter, Proposed)* — also objects to CLAIM-142
-    - [CLAIM-217](../record/claims.d/CLAIM-217.md) — For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play: a defeasible standard, overridden only where the act's other constituents diverge from the judges' verdicts, so a probe family is tested against it, and a kind outruns the families coarser than that standard and the judges only through those constituents *(thesis, Proposed)*
-      - [CLAIM-241](../record/claims.d/CLAIM-241.md) — Partial constitution by uptake makes competent participants' uptake a defeasible standard of a communicative kind, not the criterion: where the act's other constituents, such as its institutional conditions, diverge from how even informed participants take it, their verdicts can be wrong, and a standard must say whose competence counts, for which class of acts, and how divided verdicts are combined, which a majority does not *(counter, Active)*
-  - [CLAIM-211](../record/claims.d/CLAIM-211.md) — Read as worded, the manuscript's thesis and the October thesis give rival answers to what survives, which come apart in both directions on the cases of the receiver objection, yet the record links them by `complements` and scopes the October thesis to a question its fidelity clause does not stay inside *(granted, Active)*
-    - [CLAIM-223](../record/claims.d/CLAIM-223.md) — Whether a distinction survived is fixed by what the receivers can recover, and whether it can be shown to have survived is fixed by what the analyst's probes can identify, so the manuscript's thesis and the October fidelity clause, read so, answer different parts of one question *(thesis, Active)*
-  - [CLAIM-216](../record/claims.d/CLAIM-216.md) — A thesis that conjoins relational constitution, statistical recovery, transport and receivers' recovery is defeated whole by any one of its empirical findings, though its clauses can hold or fail apart, so the line is better put as separate theses, each with its own defeat condition, resting on one another only where one is a premise of another *(counter, Active)* — also objects to CLAIM-204
-- [CLAIM-142](../record/claims.d/CLAIM-142.md) — Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved *(thesis, Proposed)*
-- [CLAIM-143](../record/claims.d/CLAIM-143.md) — Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only relative to a specified class of admissible correspondences between their observations, independently validated and not admitted because they remove the disagreement *(thesis, Active)*
-- [CLAIM-204](../record/claims.d/CLAIM-204.md) — A communicative kind's identity is grounded in its relational organization, for which competent participants' uptake is the standard; statistical methods recover aspects of it from restricted observations; translation transports it; and what persists is what the receivers can still recover, of which the analyst can certify the independently identifiable part *(thesis, Proposed)*
-
-## From The abstract similarity between renderings is similarity of higher-order latents, which can survive large differences in lower-order ones
-
-- [CLAIM-008](../record/claims.d/CLAIM-008.md) — The abstract similarity between renderings is similarity of higher-order latents, which can survive large differences in lower-order ones *(thesis, Superseded)*
-  - [CLAIM-042](../record/claims.d/CLAIM-042.md) — The levels at which communicative observables exist organize observables, not objects: a communicative object is identified jointly by constraints from observables at several levels, which, where those observables share one state space, is the intersection of the regions they pick out *(thesis, Active)*
-
-## From Will is a second- or higher-order attractor in an agent's dynamics
-
-- [CLAIM-012](../record/claims.d/CLAIM-012.md) — Will is a second- or higher-order attractor in an agent's dynamics *(thesis, Superseded)*
-  - [CLAIM-010](../record/claims.d/CLAIM-010.md) — On this account every control system has a will *(counter, Rejected)* — also objects to CLAIM-027
-    - [CLAIM-062](../record/claims.d/CLAIM-062.md) — That every regulator with a higher-order attractor counts as having a will is acceptable once agency is kept apart from phenomenal experience *(thesis, Superseded)*
-    - [CLAIM-116](../record/claims.d/CLAIM-116.md) — Regulation, even higher-order regulation, does not establish a will *(disclaimed, Active)*
-- [CLAIM-027](../record/claims.d/CLAIM-027.md) — Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them *(thesis, Active)*
-  - [CLAIM-089](../record/claims.d/CLAIM-089.md) — Northstar simply prefers speed: the governing relations are revealed preferences of the organization, not a separate organization of efficacy *(counter, Rejected)*
-    - [CLAIM-122](../record/claims.d/CLAIM-122.md) — Will-organization is not one more higher-order preference: changing the conditions of efficacy changes behaviour while the competing preferences stay fixed *(thesis, Active)*
-    - [CLAIM-482](../record/claims.d/CLAIM-482.md) — An organization's aggregate revealed preference exists exactly when its record of winning moves never cycles, and where it exists it is fitted to one regime of authority, so an intervention on authority that changes the winning moves changes the fitted preference and the preference does not predict the change *(counter, Active)*
-
-## From A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves; on observed responses that degree is the order effect, which the intertwining defects bound only with a readout defect added and which the data identify only through observational distortion
-
-- [CLAIM-063](../record/claims.d/CLAIM-063.md) — A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves; on observed responses that degree is the order effect, which the intertwining defects bound only with a readout defect added and which the data identify only through observational distortion *(thesis, Proposed)*
-  - [CLAIM-011](../record/claims.d/CLAIM-011.md) — Intertwining with an uninformative correspondence is vacuous or lossy, so the source–target correspondence must be anchored to independently measured distinctions and evaluated on tasks other than those it was estimated on *(granted, Active)* — through [ARG-006](../record/arguments.d/ARG-006.md) — also objects to CLAIM-117
-  - [CLAIM-253](../record/claims.d/CLAIM-253.md) — The intertwining defects are defined on unobservable interpretive-state spaces, so they are not identified from judgement data, and the commutator identity bounds observed order effects only with a further, unstated readout-intertwining defect *(counter, Active)* — through [ARG-006](../record/arguments.d/ARG-006.md) — also objects to CLAIM-117
-- [CLAIM-117](../record/claims.d/CLAIM-117.md) — Pragmatic fidelity requires preserving the dynamics of interpretation, not only final judgements: a good transport approximately intertwines source and target framing operations under a correspondence anchored to independently measured distinctions *(thesis, Proposed)*
-
-## From Existing text-to-image benchmarks evaluate object presence, attributes and whether spatial or interactive relations are depicted, not the stance, social alignment or uptake an image conveys, and need extending to pragmatically consequential relations and social uptake
-
-- [CLAIM-013](../record/claims.d/CLAIM-013.md) — Existing text-to-image benchmarks evaluate object presence, attributes and whether spatial or interactive relations are depicted, not the stance, social alignment or uptake an image conveys, and need extending to pragmatically consequential relations and social uptake *(thesis, Proposed)*
-  - [CLAIM-097](../record/claims.d/CLAIM-097.md) — T2I-CompBench is not purely object-centered: its non-spatial relation category already probes interactions, but scores them with CLIPScore and near human ceiling *(granted, Active)*
+## From Changing-cover transport is the open problem
+
+- [CLAIM-100](../record/claims.d/CLAIM-100.md) — Changing-cover transport is the open problem *(thesis, Superseded)*
+  - [CLAIM-001](../record/claims.d/CLAIM-001.md) — Conditional diffusion already covers transport *(counter, Proposed)*
+    - [CLAIM-071](../record/claims.d/CLAIM-071.md) — Generation shares vocabulary, not mechanism *(disclaimed, Active)*
+
+## From Translations differ by delivery frame
+
+- [CLAIM-006](../record/claims.d/CLAIM-006.md) — Translations differ by delivery frame *(thesis, Superseded)*
+  - [CLAIM-004](../record/claims.d/CLAIM-004.md) — Some translation differences change the act *(thesis, Proposed)* — also undercuts support of CLAIM-102
+- [CLAIM-102](../record/claims.d/CLAIM-102.md) — Translation variants as frame transformations *(thesis, Superseded)*
+  - [CLAIM-035](../record/claims.d/CLAIM-035.md) — Non-invertible translation, negotiated invariants *(granted, Active)* — through [ARG-004](../record/arguments.d/ARG-004.md)
+
+## From Fidelity as matched judgement distributions
+
+- [CLAIM-005](../record/claims.d/CLAIM-005.md) — Fidelity as matched judgement distributions *(thesis, Proposed)*
+  - [CLAIM-207](../record/claims.d/CLAIM-207.md) — Transports constrain only with one kernel family *(granted, Active)* — also objects to CLAIM-125
+  - [CLAIM-226](../record/claims.d/CLAIM-226.md) — Defeat tests treat audience variance as noise *(counter, Active)* — also objects to CLAIM-115
+  - [CLAIM-232](../record/claims.d/CLAIM-232.md) — Human stance and fidelity ratings share construal *(counter, Active)* — through [ARG-026](../record/arguments.d/ARG-026.md) — also undercuts support of CLAIM-078, CLAIM-115, CLAIM-139
+  - [CLAIM-233](../record/claims.d/CLAIM-233.md) — Defeat tests ignore rivals that predict the same *(granted, Active)* — through [ARG-026](../record/arguments.d/ARG-026.md) — also undercuts support of CLAIM-078, CLAIM-115, CLAIM-139
+  - [CLAIM-244](../record/claims.d/CLAIM-244.md) — Defeat tests take holistic fidelity as truth *(counter, Proposed)* — also objects to CLAIM-078, CLAIM-115, CLAIM-139
+    - [CLAIM-240](../record/claims.d/CLAIM-240.md) — Holistic judgement as default-task fidelity *(thesis, Proposed)*
+      - [CLAIM-458](../record/claims.d/CLAIM-458.md) — Reception splits may be access, not weighting *(counter, Active)*
+  - [CLAIM-256](../record/claims.d/CLAIM-256.md) — D_obs charges nothing for added relations *(granted, Active)*
+- [CLAIM-033](../record/claims.d/CLAIM-033.md) — Translation loss is not one-dimensional *(thesis, Proposed)*
+  - [CLAIM-238](../record/claims.d/CLAIM-238.md) — Defeat conditions that cannot be met *(granted, Active)* — also objects to CLAIM-077, CLAIM-087, CLAIM-105, CLAIM-115, CLAIM-139, CLAIM-143
+    - [CLAIM-239](../record/claims.d/CLAIM-239.md) — Impossibility is met by argument, not failures *(thesis, Active)*
+- [CLAIM-056](../record/claims.d/CLAIM-056.md) — Sensitivity-weighted bound on chain drift *(thesis, Active)*
+  - [CLAIM-031](../record/claims.d/CLAIM-031.md) — Chains reorganize constraints, not just err *(granted, Active)*
+  - [CLAIM-208](../record/claims.d/CLAIM-208.md) — Compositional criterion cannot fail *(counter, Active)* — also objects to CLAIM-059, CLAIM-078
+- [CLAIM-059](../record/claims.d/CLAIM-059.md) — Reconstruction chains fall into three regimes *(thesis, Proposed)*
+- [CLAIM-077](../record/claims.d/CLAIM-077.md) — Admissible transport keeps distinctions apart *(thesis, Active)*
+- [CLAIM-078](../record/claims.d/CLAIM-078.md) — Success: predicting what text similarity misses *(thesis, Proposed)*
+- [CLAIM-087](../record/claims.d/CLAIM-087.md) — Cross-modal renderings can improve access *(thesis, Proposed)*
+- [CLAIM-105](../record/claims.d/CLAIM-105.md) — Local meanings kept, global structure changed *(thesis, Proposed)*
+  - [CLAIM-219](../record/claims.d/CLAIM-219.md) — Overlap consistency moves by at most 2ε *(counter, Active)* — through [ARG-032](../record/arguments.d/ARG-032.md)
+  - [CLAIM-235](../record/claims.d/CLAIM-235.md) — Proposed quantities have no estimators *(counter, Active)* — also undercuts support of CLAIM-125
+- [CLAIM-115](../record/claims.d/CLAIM-115.md) — What survives is reconstructible distinctions *(thesis, Superseded)*
+  - [CLAIM-222](../record/claims.d/CLAIM-222.md) — No design tests interlingual translation *(counter, Active)* — also objects to CLAIM-139
+  - [CLAIM-243](../record/claims.d/CLAIM-243.md) — Thesis is near-definitional or a mere schema *(counter, Active)*
+    - [CLAIM-252](../record/claims.d/CLAIM-252.md) — Says what was kept, not what ought to be *(disclaimed, Active)*
+- [CLAIM-125](../record/claims.d/CLAIM-125.md) — Two open problems for cover-changing transport *(thesis, Active)*
+  - [CLAIM-237](../record/claims.d/CLAIM-237.md) — First open problem of directed transport unposed *(granted, Active)*
+  - [CLAIM-245](../record/claims.d/CLAIM-245.md) — Recoding can create or erase contextuality *(granted, Active)*
+- [CLAIM-137](../record/claims.d/CLAIM-137.md) — Kinds identified by a realization-free invariant *(thesis, Proposed)*
+  - [CLAIM-132](../record/claims.d/CLAIM-132.md) — Characters classify kinds only in characteristic 0 *(granted, Active)*
+  - [CLAIM-246](../record/claims.d/CLAIM-246.md) — Kind-sharing is blind to which is the source *(counter, Rejected)* — also objects to CLAIM-139
+    - [CLAIM-210](../record/claims.d/CLAIM-210.md) — Kind-sharing is not rendering *(thesis, Active)*
+  - [CLAIM-249](../record/claims.d/CLAIM-249.md) — Same character is relative to correspondence *(granted, Active)*
+- [CLAIM-139](../record/claims.d/CLAIM-139.md) — Identity in relations; fidelity as what persists *(thesis, Superseded)*
+  - [CLAIM-140](../record/claims.d/CLAIM-140.md) — October thesis swaps receivers for probes *(granted, Active)*
+  - [CLAIM-206](../record/claims.d/CLAIM-206.md) — Human judges cannot test a probe-outrunning kind *(counter, Proposed)* — also objects to CLAIM-142
+    - [CLAIM-217](../record/claims.d/CLAIM-217.md) — Competent uptake as the standard of sufficiency *(thesis, Proposed)*
+      - [CLAIM-241](../record/claims.d/CLAIM-241.md) — Uptake a standard, not the criterion *(counter, Active)*
+  - [CLAIM-211](../record/claims.d/CLAIM-211.md) — Two theses that answer what survives *(granted, Active)*
+    - [CLAIM-223](../record/claims.d/CLAIM-223.md) — Survival is recovery; showing it is probing *(thesis, Active)*
+  - [CLAIM-216](../record/claims.d/CLAIM-216.md) — Split the conjoined thesis *(counter, Active)* — also objects to CLAIM-204
+- [CLAIM-142](../record/claims.d/CLAIM-142.md) — Only held-out probes evidence preserved structure *(thesis, Proposed)*
+- [CLAIM-143](../record/claims.d/CLAIM-143.md) — Disagreeing locals are not thereby incompatible *(thesis, Active)*
+- [CLAIM-204](../record/claims.d/CLAIM-204.md) — Uptake-grounded kind, receiver-recovered fidelity *(thesis, Proposed)*
+
+## From Abstract similarity is higher-order latents
+
+- [CLAIM-008](../record/claims.d/CLAIM-008.md) — Abstract similarity is higher-order latents *(thesis, Superseded)*
+  - [CLAIM-042](../record/claims.d/CLAIM-042.md) — Levels organize observables, not objects *(thesis, Active)*
+
+## From Will is a higher-order attractor
+
+- [CLAIM-012](../record/claims.d/CLAIM-012.md) — Will is a higher-order attractor *(thesis, Superseded)*
+  - [CLAIM-010](../record/claims.d/CLAIM-010.md) — Every control system has a will *(counter, Rejected)* — also objects to CLAIM-027
+    - [CLAIM-062](../record/claims.d/CLAIM-062.md) — Will in every regulator is acceptable *(thesis, Superseded)*
+    - [CLAIM-116](../record/claims.d/CLAIM-116.md) — Regulation does not establish a will *(disclaimed, Active)*
+- [CLAIM-027](../record/claims.d/CLAIM-027.md) — Effective regime set by maintained relations *(thesis, Active)*
+  - [CLAIM-089](../record/claims.d/CLAIM-089.md) — Northstar simply prefers speed *(counter, Rejected)*
+    - [CLAIM-122](../record/claims.d/CLAIM-122.md) — Will-organization is no higher-order preference *(thesis, Active)*
+    - [CLAIM-482](../record/claims.d/CLAIM-482.md) — Revealed preference is fitted to authority *(counter, Active)*
+
+## From Intertwining transports preserve commutators
+
+- [CLAIM-063](../record/claims.d/CLAIM-063.md) — Intertwining transports preserve commutators *(thesis, Proposed)*
+  - [CLAIM-011](../record/claims.d/CLAIM-011.md) — Correspondence must be independently anchored *(granted, Active)* — through [ARG-006](../record/arguments.d/ARG-006.md) — also objects to CLAIM-117
+  - [CLAIM-253](../record/claims.d/CLAIM-253.md) — Intertwining defects are unidentified *(counter, Active)* — through [ARG-006](../record/arguments.d/ARG-006.md) — also objects to CLAIM-117
+- [CLAIM-117](../record/claims.d/CLAIM-117.md) — Fidelity preserves interpretation dynamics *(thesis, Proposed)*
+
+## From T2I benchmarks miss stance and uptake
+
+- [CLAIM-013](../record/claims.d/CLAIM-013.md) — T2I benchmarks miss stance and uptake *(thesis, Proposed)*
+  - [CLAIM-097](../record/claims.d/CLAIM-097.md) — T2I-CompBench is not purely object-centered *(granted, Active)*
 
-## From Classical structuralism studies relations within a system, whereas this theory makes the transport of relational systems its object and does not require structure to remain invariant
+## From Transport, not invariant structure, as object
 
-- [CLAIM-015](../record/claims.d/CLAIM-015.md) — Classical structuralism studies relations within a system, whereas this theory makes the transport of relational systems its object and does not require structure to remain invariant *(thesis, Superseded)*
-  - [CLAIM-040](../record/claims.d/CLAIM-040.md) — Symmetry is a kind of invariance, and Noether's theorem is the point: invariance under transformation yields conservation *(counter, Active)*
+- [CLAIM-015](../record/claims.d/CLAIM-015.md) — Transport, not invariant structure, as object *(thesis, Superseded)*
+  - [CLAIM-040](../record/claims.d/CLAIM-040.md) — Symmetry is invariance; Noether is the point *(counter, Active)*
 
-## From Describing the relations that decide which regime becomes effective as one will-organization, across realizers, explains something that planning theory, control theory, executive-control research and institutional theory each describing their own realizer does not
+## From Will-organization unifies four realizer theories
 
-- [CLAIM-487](../record/claims.d/CLAIM-487.md) — Describing the relations that decide which regime becomes effective as one will-organization, across realizers, explains something that planning theory, control theory, executive-control research and institutional theory each describing their own realizer does not *(thesis, Proposed)*
-  - [CLAIM-024](../record/claims.d/CLAIM-024.md) — Nothing here is new but a question: planning theory, control theory, executive control and institutional theory already study every mechanism the account names, and where the account has been set beside the expected value of control and Ainslie's interests it differs only in asking what governs how the driver changes rather than who drives, a question those mechanisms may answer without it *(counter, Proposed)*
-    - [CLAIM-159](../record/claims.d/CLAIM-159.md) — The record's rival accounts of will are claims about drive profiles in different cells: Ainslie's interests are aggregate or emergent, the expected value of control is top-down, and will-organization is the maintained organization that governs how the drive profile changes *(thesis, Active)*
+- [CLAIM-487](../record/claims.d/CLAIM-487.md) — Will-organization unifies four realizer theories *(thesis, Proposed)*
+  - [CLAIM-024](../record/claims.d/CLAIM-024.md) — Nothing here is new but a question *(counter, Proposed)*
+    - [CLAIM-159](../record/claims.d/CLAIM-159.md) — Rival will accounts are drive-profile cells *(thesis, Active)*
 
-## From A constraint may govern conduct without governing the conditions under which it remains authoritative
+## From Constraints may not govern their own authority
 
-- [CLAIM-086](../record/claims.d/CLAIM-086.md) — A constraint may govern conduct without governing the conditions under which it remains authoritative *(thesis, Active)*
-  - [CLAIM-032](../record/claims.d/CLAIM-032.md) — Northstar's internal procedures are not morally or historically analogous to the regime Fraenkel described *(granted, Active)* — through [ARG-003](../record/arguments.d/ARG-003.md)
+- [CLAIM-086](../record/claims.d/CLAIM-086.md) — Constraints may not govern their own authority *(thesis, Active)*
+  - [CLAIM-032](../record/claims.d/CLAIM-032.md) — Northstar is not analogous to Fraenkel's regime *(granted, Active)* — through [ARG-003](../record/arguments.d/ARG-003.md)
 
-## From Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context
+## From Contextuality is failure of global extension
 
-- [CLAIM-037](../record/claims.d/CLAIM-037.md) — Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context *(thesis, Proposed)*
-  - [CLAIM-1207](../record/claims.d/CLAIM-1207.md) — If contextuality in signalling data means contextuality that survives treating the signalling as error, the sheaf test's 0.148% is the more defensible figure for the BERT anaphora data and the 71.1% of Contextuality-by-Default 2.0 over-counts, since CbD calls contextual a model that is 99 parts a deterministic signalling model to one part PR box; the two routes then answer different questions, and formal contextuality on such data does not need Contextuality-by-Default *(counter, Proposed)*
+- [CLAIM-037](../record/claims.d/CLAIM-037.md) — Contextuality is failure of global extension *(thesis, Proposed)*
+  - [CLAIM-1207](../record/claims.d/CLAIM-1207.md) — Sheaf's 0.148% is the more defensible figure *(counter, Proposed)*
 
-## From A communicative object is a context-indexed system of empirical constraints over a cover of contexts, and these need not extend to one globally realizable interpretation
+## From Communicative objects need no global reading
 
-- [CLAIM-038](../record/claims.d/CLAIM-038.md) — A communicative object is a context-indexed system of empirical constraints over a cover of contexts, and these need not extend to one globally realizable interpretation *(thesis, Active)*
-  - [CLAIM-141](../record/claims.d/CLAIM-141.md) — Causal-loop consistency and sheaf contextuality are both local-to-global problems, but passing to distributions affects them oppositely: a loop with no deterministic solution has a distributional fixed point, while a model with no global section in its supports has no global distribution either *(granted, Active)* — through [ARG-010](../record/arguments.d/ARG-010.md)
-  - [CLAIM-144](../record/claims.d/CLAIM-144.md) — Inertial observers who disagree about temporal order differ in coordinates, not in a failure to glue: only spacelike-separated events change order between frames, and frames are global charts related by a group action *(granted, Active)* — through [ARG-010](../record/arguments.d/ARG-010.md)
+- [CLAIM-038](../record/claims.d/CLAIM-038.md) — Communicative objects need no global reading *(thesis, Active)*
+  - [CLAIM-141](../record/claims.d/CLAIM-141.md) — Distributions help loops, not contextuality *(granted, Active)* — through [ARG-010](../record/arguments.d/ARG-010.md)
+  - [CLAIM-144](../record/claims.d/CLAIM-144.md) — Frame-relative order is coordinates, not gluing *(granted, Active)* — through [ARG-010](../record/arguments.d/ARG-010.md)
 
-## From Demonstrating that interpretive framings do not commute establishes that the judgements cannot be described by one ordinary joint probability distribution
+## From Non-commutation rules out one joint distribution
 
-- [CLAIM-073](../record/claims.d/CLAIM-073.md) — Demonstrating that interpretive framings do not commute establishes that the judgements cannot be described by one ordinary joint probability distribution *(thesis, Rejected)*
-  - [CLAIM-041](../record/claims.d/CLAIM-041.md) — Context-sensitive interpretation, order effects and noncommuting framing operations do not by themselves establish nonclassical probability or quantum contextuality *(granted, Active)* — also undercuts support of CLAIM-109
-- [CLAIM-109](../record/claims.d/CLAIM-109.md) — In translation the pragmatic frame does not merely select a description of meaning but participates in determining which meaning becomes actual *(thesis, Superseded)*
+- [CLAIM-073](../record/claims.d/CLAIM-073.md) — Non-commutation rules out one joint distribution *(thesis, Rejected)*
+  - [CLAIM-041](../record/claims.d/CLAIM-041.md) — Order effects do not prove nonclassicality *(granted, Active)* — also undercuts support of CLAIM-109
+- [CLAIM-109](../record/claims.d/CLAIM-109.md) — Pragmatic frame helps determine actual meaning *(thesis, Superseded)*
 
-## From Brooks's architecture, Kelso's coordination dynamics and Levin's bioelectric selves are three different ways of understanding what an organized whole is
+## From Brooks, Kelso and Levin: three views of wholes
 
-- [CLAIM-110](../record/claims.d/CLAIM-110.md) — Brooks's architecture, Kelso's coordination dynamics and Levin's bioelectric selves are three different ways of understanding what an organized whole is *(counter, Rejected)*
-  - [CLAIM-045](../record/claims.d/CLAIM-045.md) — Architectural, dynamical and goal-directed accounts of distributed agency are complementary components of one account, each answering a different sub-question *(thesis, Active)*
+- [CLAIM-110](../record/claims.d/CLAIM-110.md) — Brooks, Kelso and Levin: three views of wholes *(counter, Rejected)*
+  - [CLAIM-045](../record/claims.d/CLAIM-045.md) — Agency accounts are complementary components *(thesis, Active)*
 
-## From For report fidelity, fidelity is relative to the communicative decisions receivers make, and Blackwell's order on rendering procedures, over a designed distribution of situations, makes precise the ceiling a rendering sets on those decisions
+## From Blackwell order bounds report fidelity
 
-- [CLAIM-050](../record/claims.d/CLAIM-050.md) — For report fidelity, fidelity is relative to the communicative decisions receivers make, and Blackwell's order on rendering procedures, over a designed distribution of situations, makes precise the ceiling a rendering sets on those decisions *(thesis, Active)*
-  - [CLAIM-225](../record/claims.d/CLAIM-225.md) — Blackwell's order measures what an ideal decision-maker could do, not what a given receiver can reconstruct, and the line's claims that a rendering can improve access describe garblings that real receivers do better with, which is the shape of the Blackwell thesis's own defeat condition *(counter, Active)* — also undercuts support of CLAIM-220
-  - [CLAIM-230](../record/claims.d/CLAIM-230.md) — Blackwell comparison needs the state each rendering is about, which natural texts do not supply, so a decision measure is fixed by whoever labels the state, and it orders translation procedures, not single renderings *(counter, Active)*
-  - [CLAIM-258](../record/claims.d/CLAIM-258.md) — Blackwell's order compares experiments about one parameter, so it does not reach the normal translation case: source and target readers decide about situations with changed coordinates, and where the state is common a translator with context knowledge yields a rendering that is not a garbling of the source, which the order typically leaves incomparable with it and about which the direction the manuscript uses is silent *(counter, Proposed)*
-    - [CLAIM-212](../record/claims.d/CLAIM-212.md) — Fidelity as a report and fidelity as a re-performance are different decision targets: Blackwell's order compares a rendering with its source as evidence about the source's situation, which both readers decide about, while a rendering that re-performs the act in the target's situation is compared only through a correspondence of situations *(thesis, Proposed)*
-      - [CLAIM-461](../record/claims.d/CLAIM-461.md) — Compensation is not only a re-performance notion: for a reader whose code gives the literal word a meaning the source lacked, the compensating rendering can be the more faithful report, so assigning compensation to re-performance alone needs narrowing *(counter, Proposed)*
-- [CLAIM-067](../record/claims.d/CLAIM-067.md) — If a transport exactly intertwines a generating set of communicative operations, it preserves every trajectory composed from them *(thesis, Superseded)*
-  - [CLAIM-106](../record/claims.d/CLAIM-106.md) — Pragmatic fidelity is a graded, potentially asymmetric property of transport, not an equivalence relation; equivalence is its zero-distortion limit *(thesis, Active)*
-    - [CLAIM-218](../record/claims.d/CLAIM-218.md) — The task-paired risk difference the record uses in place of Blackwell's order, D_Q = sup_q |R_q(U) − R_τ(q)(V)|, is a different quantity: it reduces each risk set to one number, needs the losses of paired tasks on one scale, and its absolute value counts improvement as distortion *(granted, Active)* — also objects to CLAIM-050
-- [CLAIM-220](../record/claims.d/CLAIM-220.md) — For a named population of receivers and a stated family of tasks, what survives a translation, retelling or rendering is the set of task-relevant communicative distinctions those receivers can still recover from it, and measured preservation of the pragmatic observables predicts that recovery better than preservation of the wording or of the proposition, with or without its force *(thesis, Proposed)*
+- [CLAIM-050](../record/claims.d/CLAIM-050.md) — Blackwell order bounds report fidelity *(thesis, Active)*
+  - [CLAIM-225](../record/claims.d/CLAIM-225.md) — Blackwell measures ideal, not real, receivers *(counter, Active)* — also undercuts support of CLAIM-220
+  - [CLAIM-230](../record/claims.d/CLAIM-230.md) — Blackwell orders procedures, not renderings *(counter, Active)*
+  - [CLAIM-258](../record/claims.d/CLAIM-258.md) — Blackwell misses the normal translation case *(counter, Proposed)*
+    - [CLAIM-212](../record/claims.d/CLAIM-212.md) — Report and re-performance are different targets *(thesis, Proposed)*
+      - [CLAIM-461](../record/claims.d/CLAIM-461.md) — Compensation can be the more faithful report *(counter, Proposed)*
+- [CLAIM-067](../record/claims.d/CLAIM-067.md) — Exact intertwining preserves all trajectories *(thesis, Superseded)*
+  - [CLAIM-106](../record/claims.d/CLAIM-106.md) — Pragmatic fidelity is graded, not equivalence *(thesis, Active)*
+    - [CLAIM-218](../record/claims.d/CLAIM-218.md) — Task-paired D_Q is not Blackwell's order *(granted, Active)* — also objects to CLAIM-050
+- [CLAIM-220](../record/claims.d/CLAIM-220.md) — What survives is what receivers recover *(thesis, Proposed)*
 
-## From Renderings that keep the proposition can perform a different communicative act, so preserving the proposition is not sufficient for preserving the communicative event
+## From Keeping the proposition is not sufficient
 
-- [CLAIM-061](../record/claims.d/CLAIM-061.md) — Renderings that keep the proposition can perform a different communicative act, so preserving the proposition is not sufficient for preserving the communicative event *(thesis, Active)*
-  - [CLAIM-053](../record/claims.d/CLAIM-053.md) — The manuscript argues only that preserving the proposition is insufficient; that it is also unnecessary rests on an argument the exchange gave and the manuscript leaves out *(granted, Superseded)*
-  - [CLAIM-227](../record/claims.d/CLAIM-227.md) — No validated measure of footing or stance exists in the record, and the one repeated assignment of footing, the analyst's own, changed between passes *(granted, Active)* — also objects to CLAIM-084
-  - [CLAIM-229](../record/claims.d/CLAIM-229.md) — The footing, compensation and constitution theses ground on invented cases whose readings the assistant assigned, and the case filed for the proposition's non-necessity holds the words fixed, so it shows only insufficiency *(granted, Superseded)*
-- [CLAIM-084](../record/claims.d/CLAIM-084.md) — Lexical similarity cannot distinguish preservation of communicative footing from a change of speech-act function, so the primary outcome of a reconstruction study is pragmatic-frame retention judged blind to condition, once a measure of footing and stance has been shown reliable *(thesis, Proposed)*
+- [CLAIM-061](../record/claims.d/CLAIM-061.md) — Keeping the proposition is not sufficient *(thesis, Active)*
+  - [CLAIM-053](../record/claims.d/CLAIM-053.md) — Manuscript omits the unnecessity argument *(granted, Superseded)*
+  - [CLAIM-227](../record/claims.d/CLAIM-227.md) — No validated measure of footing or stance *(granted, Active)* — also objects to CLAIM-084
+  - [CLAIM-229](../record/claims.d/CLAIM-229.md) — Invented cases show only insufficiency *(granted, Superseded)*
+- [CLAIM-084](../record/claims.d/CLAIM-084.md) — Measure frame retention, not lexical similarity *(thesis, Proposed)*
 
-## From Context-conditioned language models give a controlled computational setting in which the theory's frame, order and transport effects can be tested before human studies
+## From Language models can test the theory first
 
-- [CLAIM-058](../record/claims.d/CLAIM-058.md) — Context-conditioned language models give a controlled computational setting in which the theory's frame, order and transport effects can be tested before human studies *(thesis, Proposed)*
-  - [CLAIM-085](../record/claims.d/CLAIM-085.md) — A framing effect in a language model is a property of that model under those prompts, and what a translation ought to preserve is a normative question that model response distributions, being descriptive, cannot settle *(granted, Active)* — through [ARG-008](../record/arguments.d/ARG-008.md)
-  - [CLAIM-248](../record/claims.d/CLAIM-248.md) — The founding stimuli (Villon, Henley's Villon, Hofstadter's Marot) and commentary on them are likely in language models' training data, and what a context does to one model need not be what it does to another, so a model's reading of their footing may be recall, and a directional match in one model may not hold in the next *(counter, Active)* — through [ARG-008](../record/arguments.d/ARG-008.md)
+- [CLAIM-058](../record/claims.d/CLAIM-058.md) — Language models can test the theory first *(thesis, Proposed)*
+  - [CLAIM-085](../record/claims.d/CLAIM-085.md) — Model framing effects cannot settle the norm *(granted, Active)* — through [ARG-008](../record/arguments.d/ARG-008.md)
+  - [CLAIM-248](../record/claims.d/CLAIM-248.md) — Founding stimuli may be in training data *(counter, Active)* — through [ARG-008](../record/arguments.d/ARG-008.md)
 
-## From Under Markov reconstruction kernels, an observable's expectation is invariant when the observable is harmonic (K f = f), and drifts by at most Σ ε_i when ‖K_i f − f‖∞ ≤ ε_i; on a finite irreducible chain only constants are harmonic
+## From Harmonic observables keep their expectation
 
-- [CLAIM-107](../record/claims.d/CLAIM-107.md) — Under Markov reconstruction kernels, an observable's expectation is invariant when the observable is harmonic (K f = f), and drifts by at most Σ ε_i when ‖K_i f − f‖∞ ≤ ε_i; on a finite irreducible chain only constants are harmonic *(thesis, Active)*
-  - [CLAIM-094](../record/claims.d/CLAIM-094.md) — A harmonic observable conserves only its mean, and Baez and Fong show that mean conservation for every initial state does not make an observable a symmetry *(granted, Active)*
+- [CLAIM-107](../record/claims.d/CLAIM-107.md) — Harmonic observables keep their expectation *(thesis, Active)*
+  - [CLAIM-094](../record/claims.d/CLAIM-094.md) — A harmonic observable conserves only its mean *(granted, Active)*
 
-## From Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases
+## From Translations need not be group actions
 
-- [CLAIM-098](../record/claims.d/CLAIM-098.md) — Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases *(thesis, Active)*
-  - [CLAIM-260](../record/claims.d/CLAIM-260.md) — Approximate transports compose into a category only if the distortion obeys a triangle inequality and later kernels are nonexpansive, so the semigroup claim's "category or semigroup" holds for exact kernels, and for approximate ones only under those conditions *(granted, Active)*
+- [CLAIM-098](../record/claims.d/CLAIM-098.md) — Translations need not be group actions *(thesis, Active)*
+  - [CLAIM-260](../record/claims.d/CLAIM-260.md) — Approximate transports compose only conditionally *(granted, Active)*
 
-## From On the Tempe failure the criminal process, the process built to assign blame, charged and convicted only the operator and declined to charge the company, while the investigation barred from assigning blame named the company's safety culture and the state's oversight and addressed its recommendations to them
+## From Tempe: criminal law convicted only the operator
 
-- [CLAIM-1005](../record/claims.d/CLAIM-1005.md) — On the Tempe failure the criminal process, the process built to assign blame, charged and convicted only the operator and declined to charge the company, while the investigation barred from assigning blame named the company's safety culture and the state's oversight and addressed its recommendations to them *(thesis, Proposed)*
-  - [CLAIM-1033](../record/claims.d/CLAIM-1033.md) — The Tempe contrast is between the criminal law and a safety investigation, not between blame and its absence: a company's criminal liability turns on elements an individual's negligence does not need, and processes outside the criminal law that carry liability or sanction did reach the company, a settlement with the victim's family and the state's suspension of its testing *(counter, Active)*
+- [CLAIM-1005](../record/claims.d/CLAIM-1005.md) — Tempe: criminal law convicted only the operator *(thesis, Proposed)*
+  - [CLAIM-1033](../record/claims.d/CLAIM-1033.md) — Tempe contrast is criminal law vs investigation *(counter, Active)*
 
-## From For a network trained by gradient descent, how its parameters are scaled belongs to the organization it has acquired: two networks computing the same function, and alike in what a linear readout can reach from them, can differ in what fine-tuning makes them learn, so the function a learner computes now does not fix what it can come to learn
+## From Current function does not fix learnability
 
-- [CLAIM-1013](../record/claims.d/CLAIM-1013.md) — For a network trained by gradient descent, how its parameters are scaled belongs to the organization it has acquired: two networks computing the same function, and alike in what a linear readout can reach from them, can differ in what fine-tuning makes them learn, so the function a learner computes now does not fix what it can come to learn *(thesis, Proposed)*
-  - [CLAIM-1089](../record/claims.d/CLAIM-1089.md) — A function-preserving rescaling before fine-tuning is a change of the fine-tuning procedure and not of the learner, since gradient descent on the rescaled weights is gradient descent on the original weights with changed step sizes; so Lippl and Lindsey's case shows one learner whose developmental frontier depends on the procedure admitted, not two learners of equal present capability whose developmental frontiers differ *(counter, Proposed)*
+- [CLAIM-1013](../record/claims.d/CLAIM-1013.md) — Current function does not fix learnability *(thesis, Proposed)*
+  - [CLAIM-1089](../record/claims.d/CLAIM-1089.md) — Rescaling changes the procedure, not the learner *(counter, Proposed)*
 
-## From Each human design found for isolating a germline route of inherited trauma removes some of the other routes and leaves at least one: donor gametes remove the womb and rearing but cannot divide the gamete's marks from its genes, a father's exposure before conception removes the womb but leaves his rearing and the group, and a pregnant grandmother's exposure removes none; no study found combines designs so as to remove all of them
+## From No design isolates germline trauma transmission
 
-- [CLAIM-1017](../record/claims.d/CLAIM-1017.md) — Each human design found for isolating a germline route of inherited trauma removes some of the other routes and leaves at least one: donor gametes remove the womb and rearing but cannot divide the gamete's marks from its genes, a father's exposure before conception removes the womb but leaves his rearing and the group, and a pregnant grandmother's exposure removes none; no study found combines designs so as to remove all of them *(thesis, Proposed)*
-  - [CLAIM-1103](../record/claims.d/CLAIM-1103.md) — The Syrian three-generation study separates the germline route from one route the other designs leave open, the care of a parent who lived through the trauma, because the germline-exposed grandchildren's mothers were exposed only in utero, so their methylation difference is evidence for a route that does not pass through an exposed parent's experience *(counter, Proposed)*
+- [CLAIM-1017](../record/claims.d/CLAIM-1017.md) — No design isolates germline trauma transmission *(thesis, Proposed)*
+  - [CLAIM-1103](../record/claims.d/CLAIM-1103.md) — Syrian study isolates the germline route *(counter, Proposed)*
 
-## From In a simulated federated learner with two of seven evaluators compromised, revisable safeguards with an honest monitor moved the trade-off between attack and dissent further than fixed role-limited audit: they cut the success of an attack that mimics dissent from 0.27 to 0.10 and raised the minority's capability from 0.59 to 0.77, suspending attackers far more often than dissenters; their suspension of the honest majority's mistaken pull is the safeguard working, not suppression of dissent
+## From Revisable safeguards beat fixed role-limited audit
 
-- [CLAIM-1091](../record/claims.d/CLAIM-1091.md) — In a simulated federated learner with two of seven evaluators compromised, revisable safeguards with an honest monitor moved the trade-off between attack and dissent further than fixed role-limited audit: they cut the success of an attack that mimics dissent from 0.27 to 0.10 and raised the minority's capability from 0.59 to 0.77, suspending attackers far more often than dissenters; their suspension of the honest majority's mistaken pull is the safeguard working, not suppression of dissent *(thesis, Proposed)*
-  - [CLAIM-1018](../record/claims.d/CLAIM-1018.md) — In a simulated federated learner with two of seven evaluators compromised, revisable safeguards relocated the trade-off between attack and dissent rather than moving it: they lowered the success of an attack that mimics dissent only by suspending most of the honest majority and a third of the dissenters, and only through a monitor that, compromised, suspended every dissenter and no attacker; counting honest members suspended for honest error as suppressed, no architecture of the study lowered attack success under compromised evaluators without suppressing honest members *(supposed, Proposed)*
+- [CLAIM-1091](../record/claims.d/CLAIM-1091.md) — Revisable safeguards beat fixed role-limited audit *(thesis, Proposed)*
+  - [CLAIM-1018](../record/claims.d/CLAIM-1018.md) — Revisable safeguards relocate the trade-off *(supposed, Proposed)*
 
-## From A system's ability to correct itself depends not simply on having critics or feedback but on how evidence, evaluation and authority are coupled, and on what the system is prevented from rewriting or rejecting
+## From Self-correction depends on coupling
 
-- [CLAIM-1024](../record/claims.d/CLAIM-1024.md) — A system's ability to correct itself depends not simply on having critics or feedback but on how evidence, evaluation and authority are coupled, and on what the system is prevented from rewriting or rejecting *(thesis, Proposed)*
-  - [CLAIM-1185](../record/claims.d/CLAIM-1185.md) — What a system is prevented from rewriting or rejecting can bound what it can correct as well as enable correction: in the record's simulated sensor network a protected beacon that is itself miscalibrated drives the network's error to the beacon's own error while keeping it internally consistent, the network's own revision does not lower it, and in the runs it fell only when a further, rarer protected channel revised the beacon's calibration, at that channel's rate *(counter, Active)*
-  - [CLAIM-1282](../record/claims.d/CLAIM-1282.md) — Correction is relative to the anchors it answers to: an anchor a system can neither rewrite nor reject imports its own errors whole, and the system can correct them only through a further protected channel, an anchor of their own *(counter, Proposed)*
+- [CLAIM-1024](../record/claims.d/CLAIM-1024.md) — Self-correction depends on coupling *(thesis, Proposed)*
+  - [CLAIM-1185](../record/claims.d/CLAIM-1185.md) — A miscalibrated protected beacon bounds correction *(counter, Active)*
+  - [CLAIM-1282](../record/claims.d/CLAIM-1282.md) — Correction is relative to its anchors *(counter, Proposed)*
 
-## From In GPT-2 small and Pythia-70m the context representations and the pivoted unembeddings each span the whole space, so the containments of the all-or-none theorem hold for every relation, and whatever relational linearity these models have is shared by every model that induces exactly the same distribution
+## From Relational linearity in GPT-2 and Pythia
 
-- [CLAIM-1027](../record/claims.d/CLAIM-1027.md) — In GPT-2 small and Pythia-70m the context representations and the pivoted unembeddings each span the whole space, so the containments of the all-or-none theorem hold for every relation, and whatever relational linearity these models have is shared by every model that induces exactly the same distribution *(thesis, Proposed)*
-  - [CLAIM-1080](../record/claims.d/CLAIM-1080.md) — Measured at the tolerance stated in advance, the containments of the all-or-none theorem fail for three factual relations in GPT-2 small and, narrowly, in Pythia-70m; since they hold exactly, the verdict turns on a tolerance the theorem does not supply, and a measurement at finite precision does not settle whether those relations are properties of the distribution *(counter, Proposed)*
+- [CLAIM-1027](../record/claims.d/CLAIM-1027.md) — Relational linearity in GPT-2 and Pythia *(thesis, Proposed)*
+  - [CLAIM-1080](../record/claims.d/CLAIM-1080.md) — All-or-none containments turn on tolerance *(counter, Proposed)*
 
-## From Grounding in a learning system is reliability over a family of cases closed under interventions that separate what makes an answer true from what accompanies it, so the cue-reading and stale-source cases fail reliability rather than a separate condition, and the work of the account lies in declaring the family
+## From Grounding as reliability under interventions
 
-- [CLAIM-1086](../record/claims.d/CLAIM-1086.md) — Grounding in a learning system is reliability over a family of cases closed under interventions that separate what makes an answer true from what accompanies it, so the cue-reading and stale-source cases fail reliability rather than a separate condition, and the work of the account lies in declaring the family *(thesis, Proposed)*
-  - [CLAIM-1028](../record/claims.d/CLAIM-1028.md) — Reliability over a declared family of cases does not suffice for knowledge in a learning system, since a cue that accompanies the truth throughout the family can make a system reliable there without its answers depending on what makes them true; grounding is a further condition, tested by intervening on the cue and on the truthmaker separately *(counter, Proposed)*
+- [CLAIM-1086](../record/claims.d/CLAIM-1086.md) — Grounding as reliability under interventions *(thesis, Proposed)*
+  - [CLAIM-1028](../record/claims.d/CLAIM-1028.md) — Reliability without grounding is not knowledge *(counter, Proposed)*
 
-## From Relata stand to relations as realizations stand to specifications: what an entity is, is partly fixed by the constraints on the configurations of entities and relations it can enter, and those constraints are themselves realized and maintained by something, so neither relata nor relations, nor specifications nor realizations, are prior without qualification
+## From Relata are to relations as realizations to specs
 
-- [CLAIM-477](../record/claims.d/CLAIM-477.md) — Relata stand to relations as realizations stand to specifications: what an entity is, is partly fixed by the constraints on the configurations of entities and relations it can enter, and those constraints are themselves realized and maintained by something, so neither relata nor relations, nor specifications nor realizations, are prior without qualification *(thesis, Proposed)*
-                  - [CLAIM-1037](../record/claims.d/CLAIM-1037.md) — If constructor theory's programme holds, Deutsch and Marletto's possibility facts meet the relata–realization frame's second defeater: being an information medium is an exact property of a substrate fixed by which tasks are possible, every constructor that could perform them is approximate and none need exist, and the laws are themselves statements of possibility that mention no constructor, so an exact individuating constraint is realized by no actual thing, and reading it as modal maintenance concedes that what individuates is the modal fact and not its realizers *(counter, Proposed)* — also objects to CLAIM-477
-                  - [CLAIM-1094](../record/claims.d/CLAIM-1094.md) — An effective symmetry or conservation law meets the relata–realization frame's definition of a constraint, realized by the organization of the level below it and maintained only while that organization holds; a symmetry taken as fundamental is realized only as a specification is, by the processes that obey it, and is maintained by nothing, so it is a candidate for the frame's second defeater that no physical result can supply, since no result shows a law fundamental, and the frame should say that its recursion is claimed for constraints effective at some level *(thesis, Proposed)*
-                    - [CLAIM-1105](../record/claims.d/CLAIM-1105.md) — A symmetry of the current fundamental theories meets the relata–realization frame's second defeater: in Wigner's classification the representations of the Poincaré group fix elementary particle kinds, and no particular thing realizes or maintains that symmetry, which constrains other laws rather than being produced by any process; so the frame holds only for kinds whose constraints are effective, and at the fundamental level constraints are prior to their realizations *(counter, Proposed)* — also objects to CLAIM-477
-                    - [CLAIM-1161](../record/claims.d/CLAIM-1161.md) — A possibility fact in Deutsch and Marletto's sense is not a further candidate for the relata–realization frame's second defeater: it is a fact about the laws, so it meets the frame's definition exactly as far as the laws it is a fact about do; and its own definition, that the laws set no limit short of perfection on how well a task could be performed and the ability to perform it retained, states the frame's realized and maintained constraint in modal form, as the admissibility of realizations, not as a constraint realized by nothing *(thesis, Proposed)*
+- [CLAIM-477](../record/claims.d/CLAIM-477.md) — Relata are to relations as realizations to specs *(thesis, Proposed)*
+                  - [CLAIM-1037](../record/claims.d/CLAIM-1037.md) — Constructor theory meets the second defeater *(counter, Proposed)* — also objects to CLAIM-477
+                  - [CLAIM-1094](../record/claims.d/CLAIM-1094.md) — Fundamental symmetries are maintained by nothing *(thesis, Proposed)*
+                    - [CLAIM-1105](../record/claims.d/CLAIM-1105.md) — Fundamental symmetries defeat relata–realization *(counter, Proposed)* — also objects to CLAIM-477
+                    - [CLAIM-1161](../record/claims.d/CLAIM-1161.md) — Possibility facts are not a second defeater *(thesis, Proposed)*
 
-## From A team is a pseudo-self whose perspectives are necessarily separable
+## From A team: pseudo-self with separable perspectives
 
-- [CLAIM-1133](../record/claims.d/CLAIM-1133.md) — A team is a pseudo-self whose perspectives are necessarily separable *(thesis, Proposed)*
-  - [CLAIM-1039](../record/claims.d/CLAIM-1039.md) — A team's members are necessarily separable as carriers, but its perspectives need not be: one perspective can span members and one member can realize several, and in a model where each member's perspective is a distribution over a shared interpretive space, the members' carrier-tagged measures are always mutually singular while the measures they project to can coincide *(counter, Proposed)*
+- [CLAIM-1133](../record/claims.d/CLAIM-1133.md) — A team: pseudo-self with separable perspectives *(thesis, Proposed)*
+  - [CLAIM-1039](../record/claims.d/CLAIM-1039.md) — Members separable, perspectives not *(counter, Proposed)*
 
-## From A self is not necessarily a singular perspective, nor a collection of independently identifiable perspectives, but a historically sustained organization of coupled dispositions, whose apparent decomposition into perspectives is relative to a declared family of interventions, observation horizons and resource bounds, so that distinctions drawn under one such regime may disappear or reorganize under another without thereby becoming unreal or false
+## From A self is coupled dispositions, not perspectives
 
-- [CLAIM-1044](../record/claims.d/CLAIM-1044.md) — A self is not necessarily a singular perspective, nor a collection of independently identifiable perspectives, but a historically sustained organization of coupled dispositions, whose apparent decomposition into perspectives is relative to a declared family of interventions, observation horizons and resource bounds, so that distinctions drawn under one such regime may disappear or reorganize under another without thereby becoming unreal or false *(thesis, Proposed)*
-  - [CLAIM-999](../record/claims.d/CLAIM-999.md) — A distinction among a self's perspectives cannot disappear as a probe regime is enriched along a nested family: it can disappear only when the regime changes otherwise, by dropping or replacing probes, coarsening what is recorded or shortening the horizon, which are changes of regime under which it is relative and not false, or when the organization itself changes, in which case it was a fact about the earlier organization and is not relative to any regime *(counter, Active)*
+- [CLAIM-1044](../record/claims.d/CLAIM-1044.md) — A self is coupled dispositions, not perspectives *(thesis, Proposed)*
+  - [CLAIM-999](../record/claims.d/CLAIM-999.md) — Nested enrichment cannot erase a distinction *(counter, Active)*
 
-## From A loosely organized population can change what an outside institution does through its members' separately motivated acts of making, selecting and passing things on, without forming a collective intention or judgment, when the organized pattern of those acts, and not only the acts of identifiable individuals, earns its place in explaining the change
+## From Populations can steer institutions unintended
 
-- [CLAIM-332](../record/claims.d/CLAIM-332.md) — A loosely organized population can change what an outside institution does through its members' separately motivated acts of making, selecting and passing things on, without forming a collective intention or judgment, when the organized pattern of those acts, and not only the acts of identifiable individuals, earns its place in explaining the change *(thesis, Proposed)*
-  - [CLAIM-1052](../record/claims.d/CLAIM-1052.md) — Reading B of the Juggernaut testimony: the line reached the film through one identifiable contributor, the director, who saw a video its makers posted, so on the evidence the case is explained by the list of identifiable contributions and does not show a population's effect *(counter, Proposed)*
+- [CLAIM-332](../record/claims.d/CLAIM-332.md) — Populations can steer institutions unintended *(thesis, Proposed)*
+  - [CLAIM-1052](../record/claims.d/CLAIM-1052.md) — Reading B: one contributor, the director *(counter, Proposed)*
 
-## From Rate differences help make structure and not only mark it: where some degrees of freedom settle faster than others by more than the rates vary among them, the relation they settle into is a constraint on the system over the window between the two rates, so what is a realization at one rate works as a constraint at another; and organization can make new rate differences in turn, as when modes slow near an instability and become order parameters, so hierarchies of rates and constraints can produce one another
+## From Rate differences make structure
 
-- [CLAIM-478](../record/claims.d/CLAIM-478.md) — Rate differences help make structure and not only mark it: where some degrees of freedom settle faster than others by more than the rates vary among them, the relation they settle into is a constraint on the system over the window between the two rates, so what is a realization at one rate works as a constraint at another; and organization can make new rate differences in turn, as when modes slow near an instability and become order parameters, so hierarchies of rates and constraints can produce one another *(thesis, Proposed)*
-  - [CLAIM-1088](../record/claims.d/CLAIM-1088.md) — Within large populations of phase oscillators coupled through the first harmonic with spread frequencies, Ott and Antonsen's reduction meets the rate-difference claim's first defeater: the order parameter's closed law is in place over the time scale of the dynamics it governs, the approach to it is by phase mixing with no condition that it be faster than that dynamics, and the off-manifold parts are not slower or more persistent than the process but simply averaged out; so the claim should name invariant-manifold closure reached by phase mixing as a route to effective constraint on which rate differences do no work *(counter, Proposed)*
-    - [CLAIM-1058](../record/claims.d/CLAIM-1058.md) — Ott and Antonsen's reduction does not meet the rate-difference claim's first defeater: its closed order-parameter law holds on a manifold that is exactly invariant, so the relation that constrains is maximally persistent rather than free of persistence, the limit of slowness as an exact conservation law is; and it holds only in a narrow class, infinitely many oscillators coupled through the first harmonic alone with spread frequencies, so it is an exception of the kind the defeater sets aside, an instance of the non-necessity the claim already concedes *(thesis, Proposed)*
+- [CLAIM-478](../record/claims.d/CLAIM-478.md) — Rate differences make structure *(thesis, Proposed)*
+  - [CLAIM-1088](../record/claims.d/CLAIM-1088.md) — Phase mixing closes without rate differences *(counter, Proposed)*
+    - [CLAIM-1058](../record/claims.d/CLAIM-1058.md) — Ott–Antonsen does not meet the first defeater *(thesis, Proposed)*
 
-## From Understanding in a learning system is stable tracking of a structure under the changes that preserve it, so a frozen exact rule understands, and greater future learnability is the usual sign of understanding in a learner rather than a condition of it
+## From Understanding as stable tracking under change
 
-- [CLAIM-1092](../record/claims.d/CLAIM-1092.md) — Understanding in a learning system is stable tracking of a structure under the changes that preserve it, so a frozen exact rule understands, and greater future learnability is the usual sign of understanding in a learner rather than a condition of it *(thesis, Proposed)*
-  - [CLAIM-1059](../record/claims.d/CLAIM-1059.md) — Understanding in a learning system is the developmental value of its acquired organization, what it makes cheap to learn next, so a frozen exact rule knows every value of its function without understanding it, and understanding entails greater future learnability *(counter, Proposed)*
+- [CLAIM-1092](../record/claims.d/CLAIM-1092.md) — Understanding as stable tracking under change *(thesis, Proposed)*
+  - [CLAIM-1059](../record/claims.d/CLAIM-1059.md) — Understanding is developmental value *(counter, Proposed)*
 
-## From Blameless post-incident review can stop its trace at "the system", which names no decision-maker, so that those who set budgets, staffing and deadlines drop out of the account along with the operator it shields: where the body that commissions a review also governs it, its contributing causes and action items stop at or below that body's own decisions, and the review keeps upstream provenance only when its tracing crosses that body's authority
+## From Blameless review's trace stops at its governor
 
-- [CLAIM-750](../record/claims.d/CLAIM-750.md) — Blameless post-incident review can stop its trace at "the system", which names no decision-maker, so that those who set budgets, staffing and deadlines drop out of the account along with the operator it shields: where the body that commissions a review also governs it, its contributing causes and action items stop at or below that body's own decisions, and the review keeps upstream provenance only when its tracing crosses that body's authority *(thesis, Proposed)*
-  - [CLAIM-1062](../record/claims.d/CLAIM-1062.md) — A single postmortem's causes and action items are the wrong unit for testing where a blameless practice's trace stops: Google's practice routes questions about priorities set above the team to reviews of repeated incidents, to a cross-functional review with organizational leaders and to a vice-president's review, so an organization could keep upstream provenance across incidents while each postmortem stops at the team *(counter, Proposed)*
+- [CLAIM-750](../record/claims.d/CLAIM-750.md) — Blameless review's trace stops at its governor *(thesis, Proposed)*
+  - [CLAIM-1062](../record/claims.d/CLAIM-1062.md) — One postmortem is the wrong unit *(counter, Proposed)*
 
-## From Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether
+## From Drift is retrieval failure beyond a distance
 
-- [CLAIM-180](../record/claims.d/CLAIM-180.md) — Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether *(thesis, Proposed)*
-  - [CLAIM-1068](../record/claims.d/CLAIM-1068.md) — In the record's exchanges a code did not bypass retrieval by content: content the record held under codes was re-derived without them in 20 of 48 reconstructed exchanges, because the collaborator had to find the code by what the content said *(counter, Proposed)*
+- [CLAIM-180](../record/claims.d/CLAIM-180.md) — Drift is retrieval failure beyond a distance *(thesis, Proposed)*
+  - [CLAIM-1068](../record/claims.d/CLAIM-1068.md) — Codes did not bypass retrieval by content *(counter, Proposed)*
 
-## From No study found tests whether people with persistent PTSD sample disambiguating context less after cued trauma recall than trauma-exposed controls, but the nearest, in which people with PTSD first looked at the neutral background of their own trauma cue later than trauma-exposed controls did, gives weak and indirect support to the direction the sampling account predicts
+## From PTSD and context sampling: weak support
 
-- [CLAIM-1076](../record/claims.d/CLAIM-1076.md) — No study found tests whether people with persistent PTSD sample disambiguating context less after cued trauma recall than trauma-exposed controls, but the nearest, in which people with PTSD first looked at the neutral background of their own trauma cue later than trauma-exposed controls did, gives weak and indirect support to the direction the sampling account predicts *(thesis, Proposed)*
-  - [CLAIM-1069](../record/claims.d/CLAIM-1069.md) — A later first look at a background that says nothing about whether a trauma cue is dangerous withholds no evidence, so the nearest study gives the sampling account of persistent PTSD no support, and the gaze studies that measure how widely people scan point both ways *(counter, Proposed)*
+- [CLAIM-1076](../record/claims.d/CLAIM-1076.md) — PTSD and context sampling: weak support *(thesis, Proposed)*
+  - [CLAIM-1069](../record/claims.d/CLAIM-1069.md) — PTSD sampling account gets no support *(counter, Proposed)*
 
-## From A plurality of pseudo-selves can be ecologically unified without being a pseudo-self, and what marks the difference is whether some whole-level slow variable is maintained as the whole's: members that read it, condition on it and regenerate it make the plurality integrated, while members coupled only through each other's conditions of existence make it an ecosystem
+## From Integration is a regenerated whole-level variable
 
-- [CLAIM-1074](../record/claims.d/CLAIM-1074.md) — A plurality of pseudo-selves can be ecologically unified without being a pseudo-self, and what marks the difference is whether some whole-level slow variable is maintained as the whole's: members that read it, condition on it and regenerate it make the plurality integrated, while members coupled only through each other's conditions of existence make it an ecosystem *(thesis, Proposed)*
-  - [CLAIM-1168](../record/claims.d/CLAIM-1168.md) — Slow collective variables that govern an ecosystem divide into common drivers its members read and condition on but do not regenerate, such as tides, day and night, lunar cycles, seasons and imposed human cadences, which entrain them without integrating them, and variables their interactions regenerate, such as predator–prey oscillations, which meet the criterion of a constitutive collective variable, so the structural answer as worded is defeated by the second kind *(thesis, Proposed)*
-  - [CLAIM-1172](../record/claims.d/CLAIM-1172.md) — Ecosystems are governed by slow collective variables, such as tides, day and night, lunar cycles, seasons, predator–prey oscillations, boundary effects at interfaces with other ecologies and cadences set by human activity, so having a whole-level slow variable cannot be what separates a pseudo-self from an ecosystem of pseudo-selves *(counter, Proposed)*
+- [CLAIM-1074](../record/claims.d/CLAIM-1074.md) — Integration is a regenerated whole-level variable *(thesis, Proposed)*
+  - [CLAIM-1168](../record/claims.d/CLAIM-1168.md) — Regenerated variables defeat the structural answer *(thesis, Proposed)*
+  - [CLAIM-1172](../record/claims.d/CLAIM-1172.md) — Ecosystems have slow variables too *(counter, Proposed)*
 
-## From Whether a seed set helps or hurts is decided by what is forced when each component first becomes bound, not by what the constraints force in the end, so a predictor of productive nuclei cannot be computed from the constraint architecture alone: it must take the order and threshold of growth as conditions, since a static closure can be constant where the chance of assembly varies most
+## From Seeds are decided by what is forced at binding
 
-- [CLAIM-1090](../record/claims.d/CLAIM-1090.md) — Whether a seed set helps or hurts is decided by what is forced when each component first becomes bound, not by what the constraints force in the end, so a predictor of productive nuclei cannot be computed from the constraint architecture alone: it must take the order and threshold of growth as conditions, since a static closure can be constant where the chance of assembly varies most *(thesis, Proposed)*
-  - [CLAIM-1078](../record/claims.d/CLAIM-1078.md) — The failure of a race reading of folding islands in a single-target constraint-growth system does not tell against it where it was built, since that system has no coherent alternative branch for a small-island seed's territory to fall into, which is how the self-folding sheets misfold; the result bounds the reading's reach and leaves its home case and any system with competing self-consistent folds untested *(counter, Proposed)*
+- [CLAIM-1090](../record/claims.d/CLAIM-1090.md) — Seeds are decided by what is forced at binding *(thesis, Proposed)*
+  - [CLAIM-1078](../record/claims.d/CLAIM-1078.md) — Race reading's failure does not reach its home *(counter, Proposed)*
 
-## From Maintaining a reserve and redesigning a transition change different components of readiness, one keeping enough capacity to cross an existing transition barrier and the other lowering the barrier itself, and under a budget that follows peak use they are complementary requirements rather than independently sufficient alternatives, unless the redesigned barrier is no higher than the cost of holding
+## From Reserve and redesign are complementary
 
-- [CLAIM-1093](../record/claims.d/CLAIM-1093.md) — Maintaining a reserve and redesigning a transition change different components of readiness, one keeping enough capacity to cross an existing transition barrier and the other lowering the barrier itself, and under a budget that follows peak use they are complementary requirements rather than independently sufficient alternatives, unless the redesigned barrier is no higher than the cost of holding *(thesis, Active)*
-  - [CLAIM-1099](../record/claims.d/CLAIM-1099.md) — Under a budget set each period to the last period's peak use, a redesigned transition is lost like the original unless its threshold is at most the cost of holding the present configuration, so redesign lowers the reserve a transition needs by the fall in its threshold and replaces the reserve only where it leaves no reconfiguration slack *(counter, Active)*
+- [CLAIM-1093](../record/claims.d/CLAIM-1093.md) — Reserve and redesign are complementary *(thesis, Active)*
+  - [CLAIM-1099](../record/claims.d/CLAIM-1099.md) — Redesign lowers the reserve, rarely replaces it *(counter, Active)*
 
-## From Two organizations that give the same answers can differ in what answering does to them, so a response kernel that includes the organization's state after answering, observed through its later responses rather than compared as a state, separates what an answer benchmark treats as equivalent, such as one that learns from disagreement and one that suppresses it
+## From Same answers, different effects of answering
 
-- [CLAIM-1156](../record/claims.d/CLAIM-1156.md) — Two organizations that give the same answers can differ in what answering does to them, so a response kernel that includes the organization's state after answering, observed through its later responses rather than compared as a state, separates what an answer benchmark treats as equivalent, such as one that learns from disagreement and one that suppresses it *(thesis, Proposed)*
-  - [CLAIM-1095](../record/claims.d/CLAIM-1095.md) — A response kernel that includes the organization's state after answering is not an observational quantity: compared directly, it separates any two organizations whose post-states differ, even when no test could tell them apart, so the developmental comparison should observe the post-state only through its later responses, as a bisimulation pseudometric does, which keeps the separation of a learning and a suppressing organization *(counter, Active)*
+- [CLAIM-1156](../record/claims.d/CLAIM-1156.md) — Same answers, different effects of answering *(thesis, Proposed)*
+  - [CLAIM-1095](../record/claims.d/CLAIM-1095.md) — Observe the post-state only through responses *(counter, Active)*
 
-## From Intelligence is epistemic richness, the ecological richness of an organization's ways of asking and answering
+## From Intelligence is epistemic richness
 
-- [CLAIM-1134](../record/claims.d/CLAIM-1134.md) — Intelligence is epistemic richness, the ecological richness of an organization's ways of asking and answering *(thesis, Proposed)*
-  - [CLAIM-1106](../record/claims.d/CLAIM-1106.md) — Intelligence may be understood as the adaptive organization of epistemic ecological richness: richness is what an ecology of differentiated perspectives makes available or can develop, intelligence is the capacity to mobilize, coordinate, evaluate and expand it under resource-bounded demands, so diversity contributes to intelligence without being a synonym for it, and two systems equally competent today can be unequally intelligent for the demands they may meet tomorrow *(thesis, Proposed)*
+- [CLAIM-1134](../record/claims.d/CLAIM-1134.md) — Intelligence is epistemic richness *(thesis, Proposed)*
+  - [CLAIM-1106](../record/claims.d/CLAIM-1106.md) — Intelligence organizes ecological richness *(thesis, Proposed)*
 
-## From In one school system, interventions of equal yearly cost that acted at different points of how schools produce learning differed threefold in effect: bonuses acting on the effort of teachers already present did more than an extra teacher or materials, so where an equal budget enters an organization can matter more than its size
+## From Where a budget enters matters more than its size
 
-- [CLAIM-1160](../record/claims.d/CLAIM-1160.md) — In one school system, interventions of equal yearly cost that acted at different points of how schools produce learning differed threefold in effect: bonuses acting on the effort of teachers already present did more than an extra teacher or materials, so where an equal budget enters an organization can matter more than its size *(thesis, Proposed)*
-  - [CLAIM-1107](../record/claims.d/CLAIM-1107.md) — The school-system case does not separate where an equal budget acts from what kind of instrument it buys: the arms acting on teachers' effort are the only ones paid conditionally on outcomes, so the threefold difference gives the placement thesis an example and not a test *(counter, Proposed)*
+- [CLAIM-1160](../record/claims.d/CLAIM-1160.md) — Where a budget enters matters more than its size *(thesis, Proposed)*
+  - [CLAIM-1107](../record/claims.d/CLAIM-1107.md) — School case is an example, not a test *(counter, Proposed)*
 
-## From Regulations are constraints that operationalize a demand specification, chosen so as to steer an industrial ecosystem optimally toward harmonious governance
+## From Regulations operationalize demand specifications
 
-- [CLAIM-1201](../record/claims.d/CLAIM-1201.md) — Regulations are constraints that operationalize a demand specification, chosen so as to steer an industrial ecosystem optimally toward harmonious governance *(thesis, Proposed)*
-  - [CLAIM-1108](../record/claims.d/CLAIM-1108.md) — There is no optimal regulation until the demand specification, the instruments, the horizon and the trade-offs among demands are declared, and a regime is better judged by a profile of possibility, realization, resilience, accountability and cost than by a scalar, so steering an industrial ecosystem optimally is relative to commitments the mathematics does not select *(counter, Proposed)*
+- [CLAIM-1201](../record/claims.d/CLAIM-1201.md) — Regulations operationalize demand specifications *(thesis, Proposed)*
+  - [CLAIM-1108](../record/claims.d/CLAIM-1108.md) — No optimum until commitments are declared *(counter, Proposed)*
 
-## From A text supports a distribution over possible communicative situations, and a translation can be faithful by preserving that distribution and its response to further evidence
+## From Faithfulness preserves a situation distribution
 
-- [CLAIM-111](../record/claims.d/CLAIM-111.md) — A text supports a distribution over possible communicative situations, and a translation can be faithful by preserving that distribution and its response to further evidence *(thesis, Proposed)*
-  - [CLAIM-236](../record/claims.d/CLAIM-236.md) — Under the rational-speech-act model the distribution-over-situations thesis grounds on, a form's interpretation depends on what else the speaker could have said, so matching source and target posteriors needs a correspondence of alternative sets that translation changes and no entry names *(granted, Rejected)*
-    - [CLAIM-214](../record/claims.d/CLAIM-214.md) — The distribution-over-situations criterion compares each language's own listener posterior, so it needs no correspondence of alternative sets; that a literal rendering can fail it is the criterion detecting a lost implicature, and a target language may admit no rendering that passes *(thesis, Active)*
+- [CLAIM-111](../record/claims.d/CLAIM-111.md) — Faithfulness preserves a situation distribution *(thesis, Proposed)*
+  - [CLAIM-236](../record/claims.d/CLAIM-236.md) — Matching posteriors needs matched alternatives *(granted, Rejected)*
+    - [CLAIM-214](../record/claims.d/CLAIM-214.md) — Posterior criterion needs no alternative sets *(thesis, Active)*
 
-## From That the forager's gains vanish when its energy account is replaced by a matched score does not count against endogenous revision: it shows the learned warnings bound to the condition of the forager's own dissolution, which is what the proposed study's main threat asks for, and the study's second defeater as worded is met by every learner and so cannot tell endogenous criteria from supplied ones
+## From Matched-score loss supports endogenous revision
 
-- [CLAIM-1110](../record/claims.d/CLAIM-1110.md) — That the forager's gains vanish when its energy account is replaced by a matched score does not count against endogenous revision: it shows the learned warnings bound to the condition of the forager's own dissolution, which is what the proposed study's main threat asks for, and the study's second defeater as worded is met by every learner and so cannot tell endogenous criteria from supplied ones *(thesis, Proposed)*
-  - [CLAIM-1141](../record/claims.d/CLAIM-1141.md) — Read as the proposed forager study words its second defeater, the run counts against endogenous revision of criteria: the learner's gains vanish when its energy account is replaced by a score the designer could have chosen, so what its warnings track is the variable it was told to keep *(counter, Proposed)*
+- [CLAIM-1110](../record/claims.d/CLAIM-1110.md) — Matched-score loss supports endogenous revision *(thesis, Proposed)*
+  - [CLAIM-1141](../record/claims.d/CLAIM-1141.md) — Forager's gains track a supplied variable *(counter, Proposed)*
 
-## From That firms whose deferred or non-prosecution agreements mandated board changes keep fewer penalised violations after the agreement ends, while a monitor's effect fades, is evidence for the redesign half of the sanction-versus-redesign prediction: a change in who holds authority over decisions outlasts the sanction, a change in conduct under watch does not
+## From Board changes outlast sanctions
 
-- [CLAIM-1178](../record/claims.d/CLAIM-1178.md) — That firms whose deferred or non-prosecution agreements mandated board changes keep fewer penalised violations after the agreement ends, while a monitor's effect fades, is evidence for the redesign half of the sanction-versus-redesign prediction: a change in who holds authority over decisions outlasts the sanction, a change in conduct under watch does not *(thesis, Proposed)*
-  - [CLAIM-1113](../record/claims.d/CLAIM-1113.md) — That firms whose deferred or non-prosecution agreements mandated board changes keep fewer penalised violations after the agreement ends is no evidence that redesigned concerns outlast sanction: the boards were changed by the sanction, and the outcome counts penalties, so a board that has learned to avoid penalties fits the reading on which every installed concern is prudence as well *(counter, Proposed)*
+- [CLAIM-1178](../record/claims.d/CLAIM-1178.md) — Board changes outlast sanctions *(thesis, Proposed)*
+  - [CLAIM-1113](../record/claims.d/CLAIM-1113.md) — Mandated boards do not show lasting concern *(counter, Proposed)*
 
-## From A family of probes that supplies an optimized system's training signal cannot also certify what the system preserves: optimization pushes toward whatever the probes reward, including what they cannot see, so preservation must be shown under probes not used to train it
+## From Optimization games the probes that train it
 
-- [CLAIM-266](../record/claims.d/CLAIM-266.md) — A family of probes that supplies an optimized system's training signal cannot also certify what the system preserves: optimization pushes toward whatever the probes reward, including what they cannot see, so preservation must be shown under probes not used to train it *(thesis, Active)*
-  - [CLAIM-1127](../record/claims.d/CLAIM-1127.md) — A probe family that supplied a system's training signal does certify a preserved property when that property is bounded, by a stated inequality, by the probes' value over contexts they cover, and that value is estimated on draws the system was not fitted to; optimizing against the probes then tightens the bound, the property depends on nothing they cannot see, and the training-signal limit holds only where the property outruns the probes or their coverage *(thesis, Proposed)*
+- [CLAIM-266](../record/claims.d/CLAIM-266.md) — Optimization games the probes that train it *(thesis, Active)*
+  - [CLAIM-1127](../record/claims.d/CLAIM-1127.md) — Training probes certify a property they bound *(thesis, Proposed)*
 
-## From Mechanics is grounded in physical phenomena, so the regress of anchors has an independent witness to certify from
+## From Physical phenomena witness the regress of anchors
 
-- [CLAIM-1146](../record/claims.d/CLAIM-1146.md) — Mechanics is grounded in physical phenomena, so the regress of anchors has an independent witness to certify from *(thesis, Proposed)*
-  - [CLAIM-1143](../record/claims.d/CLAIM-1143.md) — An independent physical witness certifies every difference among the channels that read it and never their common mode: if k channels each read the same placed points with an offset of their own, their reports identify every difference between offsets and leave one shift of all offsets and points together unidentified, however many channels there are; so the regress of anchors ends at a witness only together with a standard fixed by definition, which is how measurement ends it, and an error every channel shares stays invisible *(counter, Proposed)*
+- [CLAIM-1146](../record/claims.d/CLAIM-1146.md) — Physical phenomena witness the regress of anchors *(thesis, Proposed)*
+  - [CLAIM-1143](../record/claims.d/CLAIM-1143.md) — A witness never certifies the common mode *(counter, Proposed)*
 
-## From Physics is the subset of mathematics relevant to phenomena it is possible to observe
+## From Physics is the observable subset of mathematics
 
-- [CLAIM-1170](../record/claims.d/CLAIM-1170.md) — Physics is the subset of mathematics relevant to phenomena it is possible to observe *(thesis, Proposed)*
-  - [CLAIM-1151](../record/claims.d/CLAIM-1151.md) — Physics is better read as a quotient of mathematics with a coordination than as a subset of it: mathematically distinct models that no observation can tell apart are one physical situation, so physical content is what survives identification up to the symmetries observation cannot break; the same mathematics describes different physics until definitions coordinate it with phenomena, and those definitions are not mathematics; and what can be observed is relative to the channels available, so the quotient moves as instruments do *(counter, Proposed)*
+- [CLAIM-1170](../record/claims.d/CLAIM-1170.md) — Physics is the observable subset of mathematics *(thesis, Proposed)*
+  - [CLAIM-1151](../record/claims.d/CLAIM-1151.md) — Physics as a quotient of mathematics *(counter, Proposed)*
 
-## From Where those an organization harms have standing to contest the harm with it, reproducing the projections that keep their claims from registering wrongs them beyond the harm, in that standing: the wrong is directed at the conditions under which their claims can count against the organization, not at the interests the harm sets back, so it holds where contesting would not have changed the harm's course, and it needs neither an intending actor nor their ignorance of the harm
+## From Suppressing standing wrongs beyond the harm
 
-- [CLAIM-1155](../record/claims.d/CLAIM-1155.md) — Where those an organization harms have standing to contest the harm with it, reproducing the projections that keep their claims from registering wrongs them beyond the harm, in that standing: the wrong is directed at the conditions under which their claims can count against the organization, not at the interests the harm sets back, so it holds where contesting would not have changed the harm's course, and it needs neither an intending actor nor their ignorance of the harm *(thesis, Proposed)*
-  - [CLAIM-1184](../record/claims.d/CLAIM-1184.md) — Standing to contest a harm matters only as a means of preventing or remedying harm, so defeating it wrongs those affected only through the harm it lets continue or risks, and where the harm's course is fixed by causes contest could not touch, reproducing the projections that defeat it adds no wrong beyond the harm *(counter, Proposed)* — also objects to CLAIM-614
-- [CLAIM-614](../record/claims.d/CLAIM-614.md) — A self-maintaining organization that harms, and also reproduces the representational projections that make its harm non-legible, commits a counter-normativity distinct from the harm and attributable to it: among what it maintains are the conditions under which the harm cannot be recognized *(thesis, Proposed)*
+- [CLAIM-1155](../record/claims.d/CLAIM-1155.md) — Suppressing standing wrongs beyond the harm *(thesis, Proposed)*
+  - [CLAIM-1184](../record/claims.d/CLAIM-1184.md) — Standing matters only through harm *(counter, Proposed)* — also objects to CLAIM-614
+- [CLAIM-614](../record/claims.d/CLAIM-614.md) — Reproducing non-legibility is a further wrong *(thesis, Proposed)*
 
-## From Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network
+## From Training regulation belongs to the unit governed
 
-- [CLAIM-367](../record/claims.d/CLAIM-367.md) — Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network *(thesis, Proposed)*
-  - [CLAIM-1199](../record/claims.d/CLAIM-1199.md) — The crossed intervention on a small conventionally trained network shows the regulation of conflict shared between the network's learned state and the optimizer, in proportions that the training optimizer sets, so that in conventional training most of that governance does not fall outside the network as a rule *(counter, Proposed)*
+- [CLAIM-367](../record/claims.d/CLAIM-367.md) — Training regulation belongs to the unit governed *(thesis, Proposed)*
+  - [CLAIM-1199](../record/claims.d/CLAIM-1199.md) — Optimizer and network share conflict regulation *(counter, Proposed)*
 
-## From A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it
+## From Persistence by transmission, not resemblance
 
-- [CLAIM-329](../record/claims.d/CLAIM-329.md) — A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it *(thesis, Active)*
-  - [CLAIM-1206](../record/claims.d/CLAIM-1206.md) — Washington's major-league club, as the Nationals' club and supporters count it, is one tradition from 1901 through two departures and a club brought from Montreal, persisting by place and name with no transmission between the organizations that produced it *(counter, Proposed)*
+- [CLAIM-329](../record/claims.d/CLAIM-329.md) — Persistence by transmission, not resemblance *(thesis, Active)*
+  - [CLAIM-1206](../record/claims.d/CLAIM-1206.md) — Washington's club is one tradition since 1901 *(counter, Proposed)*
 
-## From A norm can be stabilized by the reliance it attracts: compliance makes a practice predictable, others specialize around it, and their stake in its continuation funds its maintenance, which raises compliance, so a practice established past a threshold can persist where a weakly established one would not, and can outlast a weakening of the reasons that first supported it
+## From Reliance can stabilize a norm
 
-- [CLAIM-1284](../record/claims.d/CLAIM-1284.md) — A norm can be stabilized by the reliance it attracts: compliance makes a practice predictable, others specialize around it, and their stake in its continuation funds its maintenance, which raises compliance, so a practice established past a threshold can persist where a weakly established one would not, and can outlast a weakening of the reasons that first supported it *(thesis, Proposed)*
-  - [CLAIM-1245](../record/claims.d/CLAIM-1245.md) — Norms can persist long after their original justification disappears: in the United States a race-based difference in power outlived the chattel-slavery theories of property and rights that first justified it, and was ended in law only by overturning precedent and by constitutional amendment and statute *(thesis, Proposed)*
+- [CLAIM-1284](../record/claims.d/CLAIM-1284.md) — Reliance can stabilize a norm *(thesis, Proposed)*
+  - [CLAIM-1245](../record/claims.d/CLAIM-1245.md) — Norms can outlast their justification *(thesis, Proposed)*
 
-## From Strong preservationist conservatism is deficient where it treats preserving an established arrangement as preserving the capacities it realizes, or historical endurance as a general presumption of adequacy, counting the dangers of reform and not the costs of continued operation; conservatism's valid insight, that institutions store work and knowledge no one holds explicitly, supports caution but not that conflation
+## From Preservationism mistakes endurance for adequacy
 
-- [CLAIM-1294](../record/claims.d/CLAIM-1294.md) — Strong preservationist conservatism is deficient where it treats preserving an established arrangement as preserving the capacities it realizes, or historical endurance as a general presumption of adequacy, counting the dangers of reform and not the costs of continued operation; conservatism's valid insight, that institutions store work and knowledge no one holds explicitly, supports caution but not that conflation *(thesis, Proposed)*
-  - [CLAIM-1266](../record/claims.d/CLAIM-1266.md) — Conservatism as its theorists state it is a presumption under uncertainty, not a conflation of persistence with value: it rests on premises the critique itself grants, that an inherited arrangement's dependencies are only partly legible and that destroying them can be irreversible, and it places the burden of proof on change while conceding that conservation requires correction; what survives of the critique is who bears the cost of waiting, and that keeping a structure is not keeping its goods *(counter, Proposed)*
+- [CLAIM-1294](../record/claims.d/CLAIM-1294.md) — Preservationism mistakes endurance for adequacy *(thesis, Proposed)*
+  - [CLAIM-1266](../record/claims.d/CLAIM-1266.md) — Conservatism is a presumption under uncertainty *(counter, Proposed)*
 
-## From A misunderstanding is productive when identifying and clarifying the ambiguity it exposes is the detection of, and a reorganization around, a novel distinction that has become consequential
+## From Productive misunderstanding detects a distinction
 
-- [CLAIM-1329](../record/claims.d/CLAIM-1329.md) — A misunderstanding is productive when identifying and clarifying the ambiguity it exposes is the detection of, and a reorganization around, a novel distinction that has become consequential *(thesis, Proposed)*
-  - [CLAIM-1276](../record/claims.d/CLAIM-1276.md) — A misunderstanding can be productive because it is left unresolved: where each party's reading is satisfied on every case the cooperation meets, keeping the ambiguity lets incompatible understandings cooperate, and clarifying it would force a disagreement the arrangement cannot afford *(counter, Proposed)*
+- [CLAIM-1329](../record/claims.d/CLAIM-1329.md) — Productive misunderstanding detects a distinction *(thesis, Proposed)*
+  - [CLAIM-1276](../record/claims.d/CLAIM-1276.md) — Unresolved misunderstanding can be productive *(counter, Proposed)*
 
-## From The record's account of specification is model-theoretic, a set of tests and the versions that pass them all, as an institution pairs sentences with the models that satisfy them; type theory is its proof-relevant counterpart, in which a specification is a type, a question a problem, a realization an inhabitant carried with the evidence that it passes, adding a descriptor a refinement the entry provably inhabits, which is why descriptors cannot conflict, and the direction of fit is bidirectional typing's split between inferring a type from a term and checking a term against a type given
+## From Specification, model-theoretic and typed
 
-- [CLAIM-949](../record/claims.d/CLAIM-949.md) — The record's account of specification is model-theoretic, a set of tests and the versions that pass them all, as an institution pairs sentences with the models that satisfy them; type theory is its proof-relevant counterpart, in which a specification is a type, a question a problem, a realization an inhabitant carried with the evidence that it passes, adding a descriptor a refinement the entry provably inhabits, which is why descriptors cannot conflict, and the direction of fit is bidirectional typing's split between inferring a type from a term and checking a term against a type given *(thesis, Proposed)*
-  - [CLAIM-1289](../record/claims.d/CLAIM-1289.md) — In Martin-Löf's type theory a set is given by how its canonical elements are formed, not by tests on candidates; a specification made of tests is there the set of elements of a base set such that a property holds, whose elements carry their proofs, or, with no base set given, a category, which is not a set; so reading a specification as a type holds for tests on a kind of thing already given, and not for tests on anything whatever *(counter, Proposed)*
-  - [CLAIM-965](../record/claims.d/CLAIM-965.md) — In Freeman and Pfenning's refinement types, checking a term against a type given in advance moves nothing: an annotation is accepted only when the refinement inferred for the term already lies below it, and a term that fails it is not given that type and is left for the programmer to change; so whether an annotation describes the term or requires something of it is settled by whether the term already passes, not by whether its type was inferred or checked *(counter, Proposed)*
-  - [CLAIM-974](../record/claims.d/CLAIM-974.md) — In Davies and Pfenning's bidirectional refinement checking no rule moves a term: checking against a type given accepts or rejects, ascriptions are erased, and subtyping is inclusion, so no coercion is inserted; the change that makes a failing term pass is the programmer's and can change what the program does, so where checking is a mode of its own the performative update still lies outside the checker *(counter, Proposed)*
-  - [CLAIM-975](../record/claims.d/CLAIM-975.md) — In liquid types, as in Freeman and Pfenning's refinement types, checking moves no program, and a refinement that fails to check does not show that the program fails it: inference returns Failure whenever no conjunction of the given qualifiers can be verified by a conservative check, so the failure may lie in the program, in the qualifier set or in the checker, and every remedy the paper names, adding a qualifier, inserting a run-time check or changing the program, lies outside the checker *(counter, Proposed)*
+- [CLAIM-949](../record/claims.d/CLAIM-949.md) — Specification, model-theoretic and typed *(thesis, Proposed)*
+  - [CLAIM-1289](../record/claims.d/CLAIM-1289.md) — Specs made of tests are not sets in type theory *(counter, Proposed)*
+  - [CLAIM-965](../record/claims.d/CLAIM-965.md) — Freeman–Pfenning annotations move nothing *(counter, Proposed)*
+  - [CLAIM-974](../record/claims.d/CLAIM-974.md) — Davies–Pfenning checking leaves update outside *(counter, Proposed)*
+  - [CLAIM-975](../record/claims.d/CLAIM-975.md) — Failed refinement check doesn't convict program *(counter, Proposed)*
 
-## From Strong unitary executive theory is deficient where it infers, from the executive's responsibility for executing the laws, an entitlement to govern every process that contributes to, evaluates or constrains that execution: authority over the conditions of correction can leave every corrective function formally in place while their failures become correlated, so the capacity to coordinate correction is not the capacity to remain independently correctable
+## From Unitarism overreaches to conditions of correction
 
-- [CLAIM-1295](../record/claims.d/CLAIM-1295.md) — Strong unitary executive theory is deficient where it infers, from the executive's responsibility for executing the laws, an entitlement to govern every process that contributes to, evaluates or constrains that execution: authority over the conditions of correction can leave every corrective function formally in place while their failures become correlated, so the capacity to coordinate correction is not the capacity to remain independently correctable *(thesis, Proposed)*
-  - [CLAIM-1313](../record/claims.d/CLAIM-1313.md) — Strong unitary executive theory, as its defenders state it, rests on the constitutional vesting of the executive power in one officer and on an accountability argument, that unity makes responsibility traceable to an officer the electorate can judge, not on a claim that effective unity requires hierarchy; and the correctives of the executive that matter most, Congress, the courts and elections, lie outside the executive it unifies, so the common-mode charge holds only for correctives inside the executive or dependent on its resources, case by case *(counter, Proposed)*
+- [CLAIM-1295](../record/claims.d/CLAIM-1295.md) — Unitarism overreaches to conditions of correction *(thesis, Proposed)*
+  - [CLAIM-1313](../record/claims.d/CLAIM-1313.md) — Unitarism rests on vesting and accountability *(counter, Proposed)*
 
-## From Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization
+## From Changing relations can change the act
 
-- [CLAIM-151](../record/claims.d/CLAIM-151.md) — Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization *(thesis, Proposed)*
-  - [CLAIM-130](../record/claims.d/CLAIM-130.md) — Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s): only a do(S) intervenes on the relations that would constitute an act, and in a vignette or rating study every manipulation is a do(I) *(thesis, Active)* — through [ARG-012](../record/arguments.d/ARG-012.md)
-  - [CLAIM-150](../record/claims.d/CLAIM-150.md) — An ontology of intrinsically individuated objects with relational properties can reproduce the categorical and operational identifications, and the predictions, of a relational one, so identification underdetermines constitution *(disclaimed, Active)* — through [ARG-023](../record/arguments.d/ARG-023.md), [ARG-038](../record/arguments.d/ARG-038.md)
-  - [CLAIM-221](../record/claims.d/CLAIM-221.md) — The relational-constitution thesis's defeat condition describes a standard rival the record holds no counter for, intention-based accounts of illocution, which plausibly meet it for every act in the four-speakers case except the institutional one *(counter, Proposed)*
-  - [CLAIM-224](../record/claims.d/CLAIM-224.md) — Under partial relational constitution, a translation always changes the participants, audience and norms that the relational-constitution thesis makes constituents of the act, so whether the act survives turns on a correspondence of relations the structure cannot supply from inside *(counter, Proposed)*
+- [CLAIM-151](../record/claims.d/CLAIM-151.md) — Changing relations can change the act *(thesis, Proposed)*
+  - [CLAIM-130](../record/claims.d/CLAIM-130.md) — Telling is not changing the situation *(thesis, Active)* — through [ARG-012](../record/arguments.d/ARG-012.md)
+  - [CLAIM-150](../record/claims.d/CLAIM-150.md) — Identification underdetermines constitution *(disclaimed, Active)* — through [ARG-023](../record/arguments.d/ARG-023.md), [ARG-038](../record/arguments.d/ARG-038.md)
+  - [CLAIM-221](../record/claims.d/CLAIM-221.md) — Intention-based rivals meet the defeat condition *(counter, Proposed)*
+  - [CLAIM-224](../record/claims.d/CLAIM-224.md) — Translation always changes the act's relations *(counter, Proposed)*
 
-## From Strong originalism is deficient where it assumes specification exhaustiveness, that recovering a constitution's formative specification suffices to settle the consequential questions about its developed realization: the deficiency is not in originalism's theory of meaning but in the passage from historical meaning to legitimate governance
+## From Originalism errs in assuming exhaustiveness
 
-- [CLAIM-1315](../record/claims.d/CLAIM-1315.md) — Strong originalism is deficient where it assumes specification exhaustiveness, that recovering a constitution's formative specification suffices to settle the consequential questions about its developed realization: the deficiency is not in originalism's theory of meaning but in the passage from historical meaning to legitimate governance *(thesis, Proposed)*
-  - [CLAIM-1301](../record/claims.d/CLAIM-1301.md) — Originalism as its defenders state it does not assume specification exhaustiveness: it separates meaning from construction, grounds the original meaning's authority in arguments of its own, and makes a claim about who may change the constitution and by what route; what survives of the critique is a design question, whether formal amendment is too costly for the timescales of the inadequacies an organization meets, which the exchange states but does not argue *(counter, Proposed)*
+- [CLAIM-1315](../record/claims.d/CLAIM-1315.md) — Originalism errs in assuming exhaustiveness *(thesis, Proposed)*
+  - [CLAIM-1301](../record/claims.d/CLAIM-1301.md) — Originalism does not assume exhaustiveness *(counter, Proposed)*
 
-## From An institution can make others' circumstances highly legible to itself, recognizing and predicting their needs and vulnerabilities, and use that legibility for its own objective while their justified claims gain no authority over what it does, so the functional profile the word sociopathy points at is legibility without volitional efficacy for others' claims, not a failure to understand them
+## From Sociopathy: legibility without standing
 
-- [CLAIM-1322](../record/claims.d/CLAIM-1322.md) — An institution can make others' circumstances highly legible to itself, recognizing and predicting their needs and vulnerabilities, and use that legibility for its own objective while their justified claims gain no authority over what it does, so the functional profile the word sociopathy points at is legibility without volitional efficacy for others' claims, not a failure to understand them *(thesis, Proposed)*
-  - [CLAIM-1320](../record/claims.d/CLAIM-1320.md) — Lacking direct authority over an institution is not lacking standing with it: an institution can respect the standing and claims of those it affects without giving them authority to change what it does, as effective representative governance does, so legibility without direct authority is a condition for institutional sociopathy and not the thing, which is its claims carrying no weight by any route, as when representation is captured *(thesis, Proposed)*
+- [CLAIM-1322](../record/claims.d/CLAIM-1322.md) — Sociopathy: legibility without standing *(thesis, Proposed)*
+  - [CLAIM-1320](../record/claims.d/CLAIM-1320.md) — Standing without authority *(thesis, Proposed)*
 
-## From A descriptor and an imposition are an informative and a performative update: adding a predicate an entry already passes restricts the admissible versions to those where it holds, which is informative update, and enforcing one it fails moves each version to a nearest version where it holds, which is performative update when minimal change is read as nearness in a metric; so the record's two kinds of predicate are the two directions of fit
+## From Descriptors inform, impositions perform
 
-- [CLAIM-943](../record/claims.d/CLAIM-943.md) — A descriptor and an imposition are an informative and a performative update: adding a predicate an entry already passes restricts the admissible versions to those where it holds, which is informative update, and enforcing one it fails moves each version to a nearest version where it holds, which is performative update when minimal change is read as nearness in a metric; so the record's two kinds of predicate are the two directions of fit *(thesis, Proposed)*
-  - [CLAIM-1327](../record/claims.d/CLAIM-1327.md) — A requirement can already be met: checking a term against a type given holds the term to the type, world to word, and moves nothing whether it passes or fails, so whether a predicate requires or describes is a separate question from whether the entry passes it when it is added, and the record's descriptor and imposition are the two directions of fit only for predicates that are enforced *(counter, Proposed)*
+- [CLAIM-943](../record/claims.d/CLAIM-943.md) — Descriptors inform, impositions perform *(thesis, Proposed)*
+  - [CLAIM-1327](../record/claims.d/CLAIM-1327.md) — A requirement can already be met *(counter, Proposed)*
 
-## From Communicative acts and their participants exist as relata but have no identity beyond what their relations differentiate: non-eliminative structural realism without primitive identity
+## From Structural realism without primitive identity
 
-- [CLAIM-136](../record/claims.d/CLAIM-136.md) — Communicative acts and their participants exist as relata but have no identity beyond what their relations differentiate: non-eliminative structural realism without primitive identity *(thesis, Proposed)*
-  - [CLAIM-134](../record/claims.d/CLAIM-134.md) — A non-eliminative structural realism that keeps relata but denies them any intrinsic identity-fixing feature is the position Chakravartty's dilemma targets, and granting numerical plurality without relational differentiation, as A194 and A198 do, concedes a non-relational ground of identity *(counter, Proposed)*
-  - [CLAIM-138](../record/claims.d/CLAIM-138.md) — The Newman objection is the collapse objection at the level of ontology, and the remedy offered for both, independently specified relations, concedes that relational structure alone does not fix communicative identity *(counter, Proposed)*
+- [CLAIM-136](../record/claims.d/CLAIM-136.md) — Structural realism without primitive identity *(thesis, Proposed)*
+  - [CLAIM-134](../record/claims.d/CLAIM-134.md) — Bare relata fall to Chakravartty's dilemma *(counter, Proposed)*
+  - [CLAIM-138](../record/claims.d/CLAIM-138.md) — Newman objection is the collapse objection *(counter, Proposed)*
 
-## From A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log prior-to-posterior variance ratio, where the model with the candidate stays regular at the parameters that switch it off
+## From Reify when effect-to-noise beats Occam cost
 
-- [CLAIM-154](../record/claims.d/CLAIM-154.md) — A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log prior-to-posterior variance ratio, where the model with the candidate stays regular at the parameters that switch it off *(thesis, Active)*
-  - [CLAIM-188](../record/claims.d/CLAIM-188.md) — Where the model with a candidate structure is singular at the parameters that switch the candidate off, with real log canonical threshold λ below d/2 and multiplicity m, the reification rule's Gaussian Occam term overcharges keeping the candidate by (d/2 − λ) log n + (m − 1) log log n to leading order, so near the threshold the rule prunes candidates the Bayes factor keeps, and its derivation holds only where that model stays regular *(counter, Active)*
+- [CLAIM-154](../record/claims.d/CLAIM-154.md) — Reify when effect-to-noise beats Occam cost *(thesis, Active)*
+  - [CLAIM-188](../record/claims.d/CLAIM-188.md) — Reification rule overcharges singular models *(counter, Active)*
 
-## From Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
+## From A combined form is a gap-isolated block
 
-- [CLAIM-157](../record/claims.d/CLAIM-157.md) — Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member *(thesis, Proposed)*
-  - [CLAIM-173](../record/claims.d/CLAIM-173.md) — The threshold criterion measures coupling strength, and coupling is not constitution: a metronome driving a musician, or a nerve driving a muscle, forms a strongly coupled block that clears the threshold without being one system *(counter, Rejected)*
-    - [CLAIM-167](../record/claims.d/CLAIM-167.md) — One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system's internal architecture, not its membership *(thesis, Proposed)*
-- [CLAIM-170](../record/claims.d/CLAIM-170.md) — The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization *(thesis, Proposed)*
-  - [CLAIM-168](../record/claims.d/CLAIM-168.md) — Identifying agents by their will-organization is circular: will-organization is defined for an agent already given, and the agent-versus-device comparison presupposes an identified system, so neither can produce the factorization it is meant to find *(counter, Proposed)*
-    - [CLAIM-174](../record/claims.d/CLAIM-174.md) — A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization *(thesis, Proposed)*
-      - [CLAIM-194](../record/claims.d/CLAIM-194.md) — A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs *(counter, Active)* — also objects to CLAIM-157
-      - [CLAIM-393](../record/claims.d/CLAIM-393.md) — Ordinary and legal attributions of agency to an artifact cannot serve as the independent marks that would defeat the record's agency test, because they turn on whether its mechanism is understood: a known mechanism invites "This is all just programmed!", an inscrutable one invites fear, whatever the description lengths *(counter, Proposed)*
+- [CLAIM-157](../record/claims.d/CLAIM-157.md) — A combined form is a gap-isolated block *(thesis, Proposed)*
+  - [CLAIM-173](../record/claims.d/CLAIM-173.md) — Coupling is not constitution *(counter, Rejected)*
+    - [CLAIM-167](../record/claims.d/CLAIM-167.md) — One-way drive still makes one system *(thesis, Proposed)*
+- [CLAIM-170](../record/claims.d/CLAIM-170.md) — Agents are factorizations relative to a target *(thesis, Proposed)*
+  - [CLAIM-168](../record/claims.d/CLAIM-168.md) — Will-organization identification is circular *(counter, Proposed)*
+    - [CLAIM-174](../record/claims.d/CLAIM-174.md) — Three tests for agency, a fourth for will *(thesis, Proposed)*
+      - [CLAIM-194](../record/claims.d/CLAIM-194.md) — Gap test cannot tell made from imposed boundaries *(counter, Active)* — also objects to CLAIM-157
+      - [CLAIM-393](../record/claims.d/CLAIM-393.md) — Folk agency attributions cannot defeat the test *(counter, Proposed)*
 
-## From Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored
+## From Intended meaning is fixed at the write
 
-- [CLAIM-160](../record/claims.d/CLAIM-160.md) — Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored *(thesis, Proposed)*
-  - [CLAIM-171](../record/claims.d/CLAIM-171.md) — A stored text means only what its readings make of it: the writer's projected receiver is one more reading, so an unread text has possible meanings and no fixed one *(counter, Proposed)*
+- [CLAIM-160](../record/claims.d/CLAIM-160.md) — Intended meaning is fixed at the write *(thesis, Proposed)*
+  - [CLAIM-171](../record/claims.d/CLAIM-171.md) — An unread text has no fixed meaning *(counter, Proposed)*
 
-## From "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross"
+## From "Synchronization" lacks a mechanism
 
-- [CLAIM-163](../record/claims.d/CLAIM-163.md) — "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross" *(counter, Superseded)*
-  - [CLAIM-198](../record/claims.d/CLAIM-198.md) — Preference reversal is not yet disunity: interests that govern a choice at disjoint times glue, and a self is divided over a choice only on an overlap, which the agent's prediction of its own later valuation creates *(thesis, Proposed)*
+- [CLAIM-163](../record/claims.d/CLAIM-163.md) — "Synchronization" lacks a mechanism *(counter, Superseded)*
+  - [CLAIM-198](../record/claims.d/CLAIM-198.md) — Preference reversal is not yet disunity *(thesis, Proposed)*
 
-## From Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture
+## From Mutual entrainment marks a combined form of peers
 
-- [CLAIM-172](../record/claims.d/CLAIM-172.md) — Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture *(thesis, Active)*
-  - [CLAIM-165](../record/claims.d/CLAIM-165.md) — A combined form constituted by mutual entrainment is not thereby a self in the subject sense: two dancers in phase are one coordination, an autonomous process, and still two subjects *(counter, Proposed)*
-    - [CLAIM-175](../record/claims.d/CLAIM-175.md) — A partner-dancing couple, while dancing, is one combined cognitive form on the extended-mind thesis's own terms, more clearly than Otto and his notebook, and merits a name of its own *(thesis, Active)*
+- [CLAIM-172](../record/claims.d/CLAIM-172.md) — Mutual entrainment marks a combined form of peers *(thesis, Active)*
+  - [CLAIM-165](../record/claims.d/CLAIM-165.md) — Entrained dancers are still two subjects *(counter, Proposed)*
+    - [CLAIM-175](../record/claims.d/CLAIM-175.md) — A dancing couple is one combined cognitive form *(thesis, Active)*
 
-## From Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record
+## From Recurrence triggers persistence
 
-- [CLAIM-176](../record/claims.d/CLAIM-176.md) — Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record *(thesis, Proposed)*
-  - [CLAIM-181](../record/claims.d/CLAIM-181.md) — The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it *(counter, Proposed)* — also objects to CLAIM-178
-    - [CLAIM-419](../record/claims.d/CLAIM-419.md) — The record's grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has repeatedly been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown *(counter, Active)*
-- [CLAIM-178](../record/claims.d/CLAIM-178.md) — A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately *(thesis, Proposed)*
+- [CLAIM-176](../record/claims.d/CLAIM-176.md) — Recurrence triggers persistence *(thesis, Proposed)*
+  - [CLAIM-181](../record/claims.d/CLAIM-181.md) — Record fixes the grammar, not the shape *(counter, Proposed)* — also objects to CLAIM-178
+    - [CLAIM-419](../record/claims.d/CLAIM-419.md) — Ungrammatical moves amend the grammar *(counter, Active)*
+- [CLAIM-178](../record/claims.d/CLAIM-178.md) — A manuscript is a view over the argument *(thesis, Proposed)*
 
-## From Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators' own framings rather than at random, and a code restores continuity of transmission
+## From Restatements drift toward collaborators' framings
 
-- [CLAIM-191](../record/claims.d/CLAIM-191.md) — Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators' own framings rather than at random, and a code restores continuity of transmission *(thesis, Proposed)*
-  - [CLAIM-189](../record/claims.d/CLAIM-189.md) — Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation *(counter, Proposed)*
+- [CLAIM-191](../record/claims.d/CLAIM-191.md) — Restatements drift toward collaborators' framings *(thesis, Proposed)*
+  - [CLAIM-189](../record/claims.d/CLAIM-189.md) — Arguments need traceability, not fidelity *(counter, Proposed)*
 
-## From Over a fixed scenario, a change of global compatibility at small local distortion needs contextual judgements, which the behavioural data read so far lack; the form of the headline those data leave open is a change of cover, in which a rendering makes some of the source's questions undecidable for its readers and decides others the source left open
+## From Data leave open only a change of cover
 
-- [CLAIM-201](../record/claims.d/CLAIM-201.md) — Over a fixed scenario, a change of global compatibility at small local distortion needs contextual judgements, which the behavioural data read so far lack; the form of the headline those data leave open is a change of cover, in which a rendering makes some of the source's questions undecidable for its readers and decides others the source left open *(thesis, Proposed)*
-  - [CLAIM-251](../record/claims.d/CLAIM-251.md) — A change in which questions a receiver population can answer determinately is not by itself a change of cover in the sheaf sense: the cover belongs to the measurement scenario and the responses are an empirical model on it, so such a change is a change of empirical model, which can create or remove a gluing obstruction on a fixed cover but does not change what the cover is, and the operational notion needs its own name until a functorial link is shown *(counter, Proposed)*
-    - [CLAIM-962](../record/claims.d/CLAIM-962.md) — Reading the determinable questions as the operational domain, the operational cover is a genuine down-closed sub-cover of the scenario with inherited restriction maps, and determinacy selecting that sub-site is the sheaf-theoretic link the objection asked for, so a change of determinate-answerability is a change of operational domain and "cover" is used correctly *(thesis, Proposed)*
+- [CLAIM-201](../record/claims.d/CLAIM-201.md) — Data leave open only a change of cover *(thesis, Proposed)*
+  - [CLAIM-251](../record/claims.d/CLAIM-251.md) — Answerability change is not a change of cover *(counter, Proposed)*
+    - [CLAIM-962](../record/claims.d/CLAIM-962.md) — Operational cover is a genuine sub-cover *(thesis, Proposed)*
 
-## From What the line adds to functional and relevance-theoretic accounts of translation is measured structure beyond a static pragmatic profile: the context-indexed profile, its response to later framings and its decision relevance predict receivers' recovery beyond the similarity of static stance and footing ratings
+## From Context-indexed profile beats static pragmatics
 
-- [CLAIM-202](../record/claims.d/CLAIM-202.md) — What the line adds to functional and relevance-theoretic accounts of translation is measured structure beyond a static pragmatic profile: the context-indexed profile, its response to later framings and its decision relevance predict receivers' recovery beyond the similarity of static stance and footing ratings *(thesis, Proposed)*
-  - [CLAIM-205](../record/claims.d/CLAIM-205.md) — Functional and relevance-theoretic accounts of translation, as Nida, Nord and Gutt state them, need not fix one context or a static stance profile of the rendering *(counter, Active)* — through [ARG-031](../record/arguments.d/ARG-031.md)
+- [CLAIM-202](../record/claims.d/CLAIM-202.md) — Context-indexed profile beats static pragmatics *(thesis, Proposed)*
+  - [CLAIM-205](../record/claims.d/CLAIM-205.md) — Nida, Nord and Gutt need not fix one context *(counter, Active)* — through [ARG-031](../record/arguments.d/ARG-031.md)
 
-## From Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart
+## From Barrier after alignment marks another mechanism
 
-- [CLAIM-263](../record/claims.d/CLAIM-263.md) — Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart *(thesis, Proposed)*
-  - [CLAIM-994](../record/claims.d/CLAIM-994.md) — Read at the grain of the input cue relied on, the toy study meets both clauses of the defeater of the claim that a barrier surviving alignment marks a different mechanism *(counter, Proposed)*
+- [CLAIM-263](../record/claims.d/CLAIM-263.md) — Barrier after alignment marks another mechanism *(thesis, Proposed)*
+  - [CLAIM-994](../record/claims.d/CLAIM-994.md) — Cue grain meets both clauses of the defeater *(counter, Proposed)*
 
-## From Forbidding self-granting does not stop an operator from amplifying its own authority: under damped recursive delegation, reciprocal and cyclic grants recycle authority, so an operator's authority depends on its own grants, while one-hop allocation within an epoch, from budgets and baselines fixed independently of outgoing grants, makes it exactly independent of them
+## From Self-grant bans do not stop self-amplification
 
-- [CLAIM-282](../record/claims.d/CLAIM-282.md) — Forbidding self-granting does not stop an operator from amplifying its own authority: under damped recursive delegation, reciprocal and cyclic grants recycle authority, so an operator's authority depends on its own grants, while one-hop allocation within an epoch, from budgets and baselines fixed independently of outgoing grants, makes it exactly independent of them *(granted, Active)*
-  - [CLAIM-502](../record/claims.d/CLAIM-502.md) — Multi-hop delegation can keep an operator's authority exactly independent of its own grants: under leave-one-out damped delegation, which counts the authority reaching each operator only along paths that have not already passed through it, an operator's grants raise the authority of every operator its grantee reaches and leave its own unchanged *(thesis, Active)*
+- [CLAIM-282](../record/claims.d/CLAIM-282.md) — Self-grant bans do not stop self-amplification *(granted, Active)*
+  - [CLAIM-502](../record/claims.d/CLAIM-502.md) — Leave-one-out delegation ignores own grants *(thesis, Active)*
 
-## From A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists
+## From A self governs the conditions of its persistence
 
-- [CLAIM-284](../record/claims.d/CLAIM-284.md) — A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists *(thesis, Active)*
-  - [CLAIM-288](../record/claims.d/CLAIM-288.md) — In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are set by the modeller, not by the organization: they can become its goals through their role in selecting what persists, but it does not produce or revise them *(counter, Active)* — through [ARG-015](../record/arguments.d/ARG-015.md)
-    - [CLAIM-356](../record/claims.d/CLAIM-356.md) — An objective that originates outside a learning system can become a goal of the training organization, through its causal role in selecting, stabilizing and reproducing the learned structure it rewards; exogenous origin does not disqualify a goal, but it does not show that the network governs or endorses the objective, and what is selected is performance on the updating distribution, not generalization *(thesis, Active)*
+- [CLAIM-284](../record/claims.d/CLAIM-284.md) — A self governs the conditions of its persistence *(thesis, Active)*
+  - [CLAIM-288](../record/claims.d/CLAIM-288.md) — Modeller-fixed objectives set the norms *(counter, Active)* — through [ARG-015](../record/arguments.d/ARG-015.md)
+    - [CLAIM-356](../record/claims.d/CLAIM-356.md) — Exogenous objectives can become own goals *(thesis, Active)*
 
-## From Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another's influence, with trust, specialization and higher-level agency arising from its history and not imposed
+## From Habit to insight as regimes of one organization
 
-- [CLAIM-286](../record/claims.d/CLAIM-286.md) — Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another's influence, with trust, specialization and higher-level agency arising from its history and not imposed *(thesis, Proposed)*
-  - [CLAIM-467](../record/claims.d/CLAIM-467.md) — Under full-information, independent audits, a learned allocation of influence among specialists is no better than a contextual router trained on the same audits, which is a mixture of experts whose experts earn responsibility by fitting better; whatever governance adds over routing has to be shown where evaluation fails, and the record has not yet found such a regime *(thesis, Active)* — through [ARG-036](../record/arguments.d/ARG-036.md)
+- [CLAIM-286](../record/claims.d/CLAIM-286.md) — Habit to insight as regimes of one organization *(thesis, Proposed)*
+  - [CLAIM-467](../record/claims.d/CLAIM-467.md) — Learned allocation no better than a router *(thesis, Active)* — through [ARG-036](../record/arguments.d/ARG-036.md)
 
-## From Iterative retrieval can turn a provisional interpretation into a premise: a framing selects what is encountered, what is encountered reinforces the framing, and the question being investigated drifts as well as the queries
+## From Retrieval can turn framings into premises
 
-- [CLAIM-301](../record/claims.d/CLAIM-301.md) — Iterative retrieval can turn a provisional interpretation into a premise: a framing selects what is encountered, what is encountered reinforces the framing, and the question being investigated drifts as well as the queries *(thesis, Proposed)*
-  - [CLAIM-292](../record/claims.d/CLAIM-292.md) — Retrieval that depends on current belief is not a bias in itself: adaptive search can be rational when inference accounts for how the evidence was selected, and calling a search biased needs a standard outside the search *(granted, Active)*
+- [CLAIM-301](../record/claims.d/CLAIM-301.md) — Retrieval can turn framings into premises *(thesis, Proposed)*
+  - [CLAIM-292](../record/claims.d/CLAIM-292.md) — Belief-dependent retrieval is not itself bias *(granted, Active)*
 
-## From A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not
+## From Records of justification widen sufficiency
 
-- [CLAIM-295](../record/claims.d/CLAIM-295.md) — A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not *(thesis, Proposed)*
-  - [CLAIM-293](../record/claims.d/CLAIM-293.md) — The topology of a support graph does not fix how a conclusion should be revised when one of its supports fails: two records with the same edges can carry evidence of different strength and call for different revisions *(granted, Active)*
+- [CLAIM-295](../record/claims.d/CLAIM-295.md) — Records of justification widen sufficiency *(thesis, Proposed)*
+  - [CLAIM-293](../record/claims.d/CLAIM-293.md) — Support topology does not fix revision *(granted, Active)*
 
-## From Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and where reuse can be forecast, recurrence is evidence of reuse, not the criterion
+## From Filing is worth it only when reuse covers cost
 
-- [CLAIM-303](../record/claims.d/CLAIM-303.md) — Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and where reuse can be forecast, recurrence is evidence of reuse, not the criterion *(thesis, Active)*
-  - [CLAIM-308](../record/claims.d/CLAIM-308.md) — Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing at the first use at which reconstructing again would take the overpayment past the cost of filing is within 2 − (c_a + u)/c_r of the hindsight optimum on every sequence of uses, at most twice, and no deterministic rule without foresight guarantees materially better, under fixed known costs, with staleness left out and the cost of recognizing what a filed argument answers taken as fixed *(counter, Active)*
-    - [CLAIM-314](../record/claims.d/CLAIM-314.md) — Reusing a filed argument has a recognition cost that a fixed per-use price leaves out: certifying that stored answers cover a new question is NP-complete even for conjunctive queries, grows with the number and size of the stored definitions rather than being a constant per item, and is undefined for an item filed without a statement of what it answers, so each filing raises the cost of later reuse and per-item break-even decisions are not independent *(counter, Proposed)*
+- [CLAIM-303](../record/claims.d/CLAIM-303.md) — Filing is worth it only when reuse covers cost *(thesis, Active)*
+  - [CLAIM-308](../record/claims.d/CLAIM-308.md) — Cost-weighted recurrence is the filing rule *(counter, Active)*
+    - [CLAIM-314](../record/claims.d/CLAIM-314.md) — Reusing a filed argument has a recognition cost *(counter, Proposed)*
 
-## From Under a deadline, search can establish presence by finding one item but absence only by exhausting the collection, so "If I can't find it, it isn't there" acts on an unfinished search as negation as failure acts on a finished one: a default stronger than either the closed-world assumption or negation as failure, safe only when the arrangement makes the full search finish within the deadline
+## From "If I can't find it, it isn't there"
 
-- [CLAIM-306](../record/claims.d/CLAIM-306.md) — Under a deadline, search can establish presence by finding one item but absence only by exhausting the collection, so "If I can't find it, it isn't there" acts on an unfinished search as negation as failure acts on a finished one: a default stronger than either the closed-world assumption or negation as failure, safe only when the arrangement makes the full search finish within the deadline *(thesis, Superseded)*
-  - [CLAIM-311](../record/claims.d/CLAIM-311.md) — A search cut off before an exhaustive pass can establish absence when the arrangement certifies that the unsearched remainder cannot hold the item: a sorted table answers non-membership in a logarithmic number of probes, and the Threshold Algorithm stops early with its answer proved, so absence needs a certificate about the remainder, not exhaustion; similarity search in high dimension is where no such certificate exists *(counter, Active)*
+- [CLAIM-306](../record/claims.d/CLAIM-306.md) — "If I can't find it, it isn't there" *(thesis, Superseded)*
+  - [CLAIM-311](../record/claims.d/CLAIM-311.md) — A cut-off search can establish absence *(counter, Active)*
 
-## From Sorting schemes over objects with determinate properties never conflict as descriptions, since the product of any sortings refines them all; they conflict as arrangements, since a fixed number of bins realizes one partition when each item is stored once, and which costs least depends on what is searched for and on what stands out within a bin
+## From Sortings conflict as arrangements, not facts
 
-- [CLAIM-310](../record/claims.d/CLAIM-310.md) — Sorting schemes over objects with determinate properties never conflict as descriptions, since the product of any sortings refines them all; they conflict as arrangements, since a fixed number of bins realizes one partition when each item is stored once, and which costs least depends on what is searched for and on what stands out within a bin *(thesis, Active)*
-  - [CLAIM-313](../record/claims.d/CLAIM-313.md) — A fixed number of bins realizes one partition only when each item is stored once: with copies, overlapping partitions coexist, as hashing-based similarity search stores each item in many partitions and pays for it in space, so sortings conflict as arrangements only under a one-copy constraint, which binds bricks but not index entries *(counter, Active)*
+- [CLAIM-310](../record/claims.d/CLAIM-310.md) — Sortings conflict as arrangements, not facts *(thesis, Active)*
+  - [CLAIM-313](../record/claims.d/CLAIM-313.md) — With copies, overlapping partitions coexist *(counter, Active)*
 
-## From The loop that keeps a lucid agent's model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference's action–perception cycle misplaces where the agent is active
+## From The lucid loop runs judgement to observation
 
-- [CLAIM-341](../record/claims.d/CLAIM-341.md) — The loop that keeps a lucid agent's model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference's action–perception cycle misplaces where the agent is active *(thesis, Active)*
-  - [CLAIM-337](../record/claims.d/CLAIM-337.md) — Active inference already runs an internal loop: mental action selects among higher-level cognitive states and sets the precision of lower-level observations, structure learning reshapes the generative model without action, and a judgement is behaviour, so a judgement–observation loop may be action and perception one Markov blanket inward *(counter, Proposed)*
-  - [CLAIM-339](../record/claims.d/CLAIM-339.md) — A judgement–observation loop cut off from action loses one route for evidence it did not select, and the free-energy principle's reason for minimizing surprise, that a persisting system must keep its states in bounds, needs action on the world, though a loop can confirm itself with action available too *(counter, Active)*
-    - [CLAIM-342](../record/claims.d/CLAIM-342.md) — What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available *(thesis, Active)*
+- [CLAIM-341](../record/claims.d/CLAIM-341.md) — The lucid loop runs judgement to observation *(thesis, Active)*
+  - [CLAIM-337](../record/claims.d/CLAIM-337.md) — Active inference already runs an inner loop *(counter, Proposed)*
+  - [CLAIM-339](../record/claims.d/CLAIM-339.md) — A loop cut off from action loses evidence *(counter, Active)*
+    - [CLAIM-342](../record/claims.d/CLAIM-342.md) — Unselected evidence, not action, stops lock-in *(thesis, Active)*
 
-## From Non-domination of an agent's subcomponents is a candidate constituent of authenticity as an organizational achievement, not a sufficient criterion of ownership: higher-level processes need not impose the outcome because the lower-level ones already support it or settle their disagreement among themselves, and a process that rarely decides keeps access to the roles in which it is consequential
+## From Non-domination is part of authenticity, not all
 
-- [CLAIM-362](../record/claims.d/CLAIM-362.md) — Non-domination of an agent's subcomponents is a candidate constituent of authenticity as an organizational achievement, not a sufficient criterion of ownership: higher-level processes need not impose the outcome because the lower-level ones already support it or settle their disagreement among themselves, and a process that rarely decides keeps access to the roles in which it is consequential *(thesis, Proposed)*
-  - [CLAIM-364](../record/claims.d/CLAIM-364.md) — Processes conditioned never to object coordinate without override at the same behaviour and supervisory cost as processes that negotiate, so the two part only under intervention, when a constituent dissents, or in their history *(counter, Proposed)* — through [ARG-030](../record/arguments.d/ARG-030.md)
+- [CLAIM-362](../record/claims.d/CLAIM-362.md) — Non-domination is part of authenticity, not all *(thesis, Proposed)*
+  - [CLAIM-364](../record/claims.d/CLAIM-364.md) — Silenced and negotiating processes look alike *(counter, Proposed)* — through [ARG-030](../record/arguments.d/ARG-030.md)
 
-## From A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false
+## From Fixed relata make judgments definite, not relative
 
-- [CLAIM-363](../record/claims.d/CLAIM-363.md) — A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false *(thesis, Active)*
-  - [CLAIM-989](../record/claims.d/CLAIM-989.md) — Alternative reading (b) of the constitutivism test: where an organization's own constitution fixes the standard a judgment about it is indexed to, fixing the relata leaves the verdict's truth non-relative but not the standard's force, which Leffler's argument makes relative to that constitution, so the claim that indexing does not by itself make a judgment relative holds for truth and not for force *(counter, Proposed)*
+- [CLAIM-363](../record/claims.d/CLAIM-363.md) — Fixed relata make judgments definite, not relative *(thesis, Active)*
+  - [CLAIM-989](../record/claims.d/CLAIM-989.md) — Fixed relata leave the standard's force relative *(counter, Proposed)*
 
-## From Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization
+## From Experience is constituted by interpretation
 
-- [CLAIM-412](../record/claims.d/CLAIM-412.md) — Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization *(thesis, Proposed)*
-  - [CLAIM-411](../record/claims.d/CLAIM-411.md) — Under the broad, nonphenomenal definition of interpretation the constitutive thesis uses, substantial processing that is not independently shown to be experiential meets the definition, blindsight's apparently unconscious visual discrimination among it, so interpretation alone does not establish experience, and the thesis must say which further organizational properties, if any, make an interpretation experiential *(counter, Active)*
+- [CLAIM-412](../record/claims.d/CLAIM-412.md) — Experience is constituted by interpretation *(thesis, Proposed)*
+  - [CLAIM-411](../record/claims.d/CLAIM-411.md) — Broad interpretation admits unconscious processing *(counter, Active)*
 
-## From A perspective governs itself with respect to social judgement to the extent that it keeps access to others' judgements of it while making their authority over its conduct depend on their grounds, not on their visibility, repetition or attributed plurality; neither absorbing every judgement nor resisting every one meets this, since both let the judgements set the terms of response
+## From Self-governance: authority from grounds
 
-- [CLAIM-425](../record/claims.d/CLAIM-425.md) — A perspective governs itself with respect to social judgement to the extent that it keeps access to others' judgements of it while making their authority over its conduct depend on their grounds, not on their visibility, repetition or attributed plurality; neither absorbing every judgement nor resisting every one meets this, since both let the judgements set the terms of response *(thesis, Proposed)*
-  - [CLAIM-426](../record/claims.d/CLAIM-426.md) — Where a judgement's circulation helps bring about what it says, its visibility, repetition and attributed plurality are evidence about what it will bring about, so the rule that a judgement's authority should come from its grounds and not its visibility holds for judgements of what already is, and not without qualification for judgements of what someone or something will become *(counter, Proposed)*
+- [CLAIM-425](../record/claims.d/CLAIM-425.md) — Self-governance: authority from grounds *(thesis, Proposed)*
+  - [CLAIM-426](../record/claims.d/CLAIM-426.md) — Self-fulfilling judgements: visibility is evidence *(counter, Proposed)*
 
-## From A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda's sense, so psychopathy's affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation's concerns; that profile, threat without remorse, is the construct's, and it is changed by redesigning the corporation's concerns, not its members' characters
+## From A corporation can lack remorse functionally
 
-- [CLAIM-432](../record/claims.d/CLAIM-432.md) — A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda's sense, so psychopathy's affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation's concerns; that profile, threat without remorse, is the construct's, and it is changed by redesigning the corporation's concerns, not its members' characters *(thesis, Proposed)*
-  - [CLAIM-431](../record/claims.d/CLAIM-431.md) — A corporation's functional remorse cannot be told from prudence: any procedure or role duty that makes others' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives *(counter, Proposed)*
+- [CLAIM-432](../record/claims.d/CLAIM-432.md) — A corporation can lack remorse functionally *(thesis, Proposed)*
+  - [CLAIM-431](../record/claims.d/CLAIM-431.md) — Corporate remorse cannot be told from prudence *(counter, Proposed)*
 
-## From An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes contested rankings, not frustrated demands, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation's decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course
+## From Appraisal is negotiation among perspectives
 
-- [CLAIM-440](../record/claims.d/CLAIM-440.md) — An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes contested rankings, not frustrated demands, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation's decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course *(thesis, Proposed)*
-  - [CLAIM-438](../record/claims.d/CLAIM-438.md) — An ordering serving as the negotiation's potential, as the potential account of valence defines it, tracks 'wanting', not 'liking': sensitized incentive salience wins a system's conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere *(counter, Proposed)*
-  - [CLAIM-441](../record/claims.d/CLAIM-441.md) — Flow tells against the potential account's condition that valence is undefined where no pair is contested: on the record's own account of flow nothing is overridden because an activity's immediate reward and its longer-run value coincide, yet flow is reported as positive, so either flow's positivity is intrinsic pleasantness and not goal-conduciveness valence, or flow keeps contested pairs its processes settle among themselves, or the positivity comes after the episode and not during it, or the condition is wrong *(counter, Proposed)*
-  - [CLAIM-448](../record/claims.d/CLAIM-448.md) — An ordinal potential describes only the winning-move relation it is computed on; where an organization's legibility regime selects which contests are admitted or recorded, an acyclic record, even a persistent potential, can be the product of selective contestation, so observed coherence is not evidence that the organization's perspectives are integrated, and an intervention that improves its self-governance may at first increase the disagreement observed *(counter, Active)*
-  - [CLAIM-449](../record/claims.d/CLAIM-449.md) — The potential account of valence's first consequence, no frustration, no valence, runs together two relations: perspectives' contested rankings, which a record of winning moves registers, and demands that are jointly infeasible, which the compatibility complex registers; rankings can contest while every demand is satisfiable, and demands can be infeasible before any contest is recorded, so the consequence needs one of them named, and the absorbed writer, reported as positive with nothing contested, tests whichever is chosen *(counter, Active)*
-  - [CLAIM-468](../record/claims.d/CLAIM-468.md) — Valence intensity need not be the strength of the prevailing ordering's potential: in Hesp et al.'s model negative valence is a weakening of the preference ordering's precision with a fall back to habit, and positive affect is reported to lower a goal's priority, so for either sign stronger valence can go with a weaker hold of the ordering *(counter, Proposed)*
-    - [CLAIM-505](../record/claims.d/CLAIM-505.md) — A goal's lowered priority under positive affect need not be a weaker hold of the prevailing ordering: on Carver's satisficing account the effort released goes to the goal furthest behind, which the prevailing ordering of the system's states may itself direct *(counter, Proposed)*
+- [CLAIM-440](../record/claims.d/CLAIM-440.md) — Appraisal is negotiation among perspectives *(thesis, Proposed)*
+  - [CLAIM-438](../record/claims.d/CLAIM-438.md) — The potential tracks wanting, not liking *(counter, Proposed)*
+  - [CLAIM-441](../record/claims.d/CLAIM-441.md) — Flow tells against no-contest, no-valence *(counter, Proposed)*
+  - [CLAIM-448](../record/claims.d/CLAIM-448.md) — An acyclic record can be legibility's artifact *(counter, Active)*
+  - [CLAIM-449](../record/claims.d/CLAIM-449.md) — No frustration, no valence conflates two *(counter, Active)*
+  - [CLAIM-468](../record/claims.d/CLAIM-468.md) — Valence intensity need not be potential strength *(counter, Proposed)*
+    - [CLAIM-505](../record/claims.d/CLAIM-505.md) — Lowered priority need not weaken the ordering *(counter, Proposed)*
 
-## From Coupling locally described systems necessarily induces a separation of time scales between their collective behaviour and their relative behaviour
+## From Coupling induces time-scale separation
 
-- [CLAIM-473](../record/claims.d/CLAIM-473.md) — Coupling locally described systems necessarily induces a separation of time scales between their collective behaviour and their relative behaviour *(thesis, Rejected)*
-  - [CLAIM-481](../record/claims.d/CLAIM-481.md) — Coupling does not by itself separate time scales: two identical undamped oscillators coupled with stiffness k have normal modes at ω₀ and √(ω₀² + 2k), nearly equal when k ≪ ω₀², and neither decays; separation comes where the coupling dissipates relative differences faster than collective ones, as in ẋ = −ax − k(x − y), ẏ = −ay − k(y − x), whose collective and relative modes relax at rates a and a + 2k, and in a Laplacian flow ẋ = −κLx, where the spectrum of L sets the rates *(counter, Active)*
+- [CLAIM-473](../record/claims.d/CLAIM-473.md) — Coupling induces time-scale separation *(thesis, Rejected)*
+  - [CLAIM-481](../record/claims.d/CLAIM-481.md) — Coupling alone does not separate time scales *(counter, Active)*
 
-## From No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity
+## From No action is selfless
 
-- [CLAIM-491](../record/claims.d/CLAIM-491.md) — No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity *(thesis, Proposed)*
-  - [CLAIM-492](../record/claims.d/CLAIM-492.md) — If the self is defined to include whatever an agent cares about, the claim that all motivation serves the self is true by definition and rules nothing out; the thesis has content only with a criterion of the self's extent that can come apart from what the agent cares about *(counter, Active)*
-  - [CLAIM-494](../record/claims.d/CLAIM-494.md) — Empathic concern for another produces motivation whose ultimate goal is the other's welfare, and it does so when perceived self–other merging is controlled, so not all helping is concern for an extended self *(counter, Proposed)*
+- [CLAIM-491](../record/claims.d/CLAIM-491.md) — No action is selfless *(thesis, Proposed)*
+  - [CLAIM-492](../record/claims.d/CLAIM-492.md) — Self-interest by definition rules nothing out *(counter, Active)*
+  - [CLAIM-494](../record/claims.d/CLAIM-494.md) — Empathic concern aims at the other's welfare *(counter, Proposed)*
 
-## From A self-maintaining organization ought to preserve its corrigibility
+## From Self-maintainers ought to keep corrigibility
 
-- [CLAIM-511](../record/claims.d/CLAIM-511.md) — A self-maintaining organization ought to preserve its corrigibility *(disclaimed, Proposed)*
-  - [CLAIM-520](../record/claims.d/CLAIM-520.md) — The value of keeping a corrective capacity is conditional on objectives, uncertainty and cost: a free, optional audit cannot lower a single time-consistent decision-maker's expected performance, but an audit that costs C to maintain and bears on k decisions with error rate ε is worth k(0.25 − 0.5ε) − C in the exchange's model, negative when C is large or k small, and where no hypothesis fits the world, correction gains no reward and improves only calibration *(thesis, Active)* — through [ARG-042](../record/arguments.d/ARG-042.md)
+- [CLAIM-511](../record/claims.d/CLAIM-511.md) — Self-maintainers ought to keep corrigibility *(disclaimed, Proposed)*
+  - [CLAIM-520](../record/claims.d/CLAIM-520.md) — Corrective capacity's value is conditional *(thesis, Active)* — through [ARG-042](../record/arguments.d/ARG-042.md)
 
-## From Normative judgments about an organization's continuity, reform or obligations can depend on diachronic relations that descriptions of present states or terminal outcomes do not show, so specifying the relevant relations and histories can be necessary to apply them adequately; which continuations ought to follow is a further normative question, not a prerequisite of every normative judgment
+## From Normative judgments can depend on histories
 
-- [CLAIM-518](../record/claims.d/CLAIM-518.md) — Normative judgments about an organization's continuity, reform or obligations can depend on diachronic relations that descriptions of present states or terminal outcomes do not show, so specifying the relevant relations and histories can be necessary to apply them adequately; which continuations ought to follow is a further normative question, not a prerequisite of every normative judgment *(thesis, Active)*
-  - [CLAIM-512](../record/claims.d/CLAIM-512.md) — The diachronic thesis faces two objections: a dilemma, that read narrowly it fails for judgments not about any organization's continuation, such as that suffering is bad, and read broadly every judgment is met vacuously as a preference between continuations unless the organizational description adds causal specificity, transfer or counterfactual discrimination; and a distinction, that evaluating a history is not prescribing its continuation, so a judgment can be determinate with no future transformation fixed *(counter, Active)* — also objects to CLAIM-608
-- [CLAIM-608](../record/claims.d/CLAIM-608.md) — The histories that judgments about an organization's continuity, reform or obligations depend on add a relatum to the judgment beside its standpoint, standard, scale and context, if the organizational description's contribution is shown by counterfactual discrimination, transfer or causal specificity, which the broad horn of the dilemma against the diachronic thesis denies is shown *(thesis, Proposed)*
+- [CLAIM-518](../record/claims.d/CLAIM-518.md) — Normative judgments can depend on histories *(thesis, Active)*
+  - [CLAIM-512](../record/claims.d/CLAIM-512.md) — Dilemma against the diachronic thesis *(counter, Active)* — also objects to CLAIM-608
+- [CLAIM-608](../record/claims.d/CLAIM-608.md) — History is a further relatum of judgment *(thesis, Proposed)*
 
-## From Competent behaviour does not establish an internal world model: over a fixed interface and a finite horizon, an agent with no model, whose actions are looked up from the history so far, reproduces the interaction distribution of an agent that has one exactly; a policy can identify predictive structure without any particular internal component realizing it, so compression and generalization support comparing candidate architectures, and establishing an internal mechanism needs evidence that discriminates candidate implementations, such as targeted interventions
+## From Competence does not establish a world model
 
-- [CLAIM-519](../record/claims.d/CLAIM-519.md) — Competent behaviour does not establish an internal world model: over a fixed interface and a finite horizon, an agent with no model, whose actions are looked up from the history so far, reproduces the interaction distribution of an agent that has one exactly; a policy can identify predictive structure without any particular internal component realizing it, so compression and generalization support comparing candidate architectures, and establishing an internal mechanism needs evidence that discriminates candidate implementations, such as targeted interventions *(thesis, Proposed)*
-  - [CLAIM-513](../record/claims.d/CLAIM-513.md) — Across a family of goals, a world model is not an optional explanation of competent behaviour: in a fully observed, finite, communicating, stationary environment, a goal-conditioned policy within a factor 1 − δ of optimal on every composite goal of depth n fixes every transition probability to within √(2P(1 − P)/((n − 1)(1 − δ))), so observers reading the same policy must ascribe the same world model; what it leaves open is whether a predictive component is realized inside the agent, since a lookup table over histories and goals has the same policy *(counter, Active)*
+- [CLAIM-519](../record/claims.d/CLAIM-519.md) — Competence does not establish a world model *(thesis, Proposed)*
+  - [CLAIM-513](../record/claims.d/CLAIM-513.md) — Competence across goals requires a world model *(counter, Active)*
 
-## From Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful
+## From Unused specialized capability is wasteful
 
-- [CLAIM-584](../record/claims.d/CLAIM-584.md) — Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful *(disclaimed, Proposed)*
-  - [CLAIM-561](../record/claims.d/CLAIM-561.md) — When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste *(thesis, Active)* — through [ARG-053](../record/arguments.d/ARG-053.md)
+- [CLAIM-584](../record/claims.d/CLAIM-584.md) — Unused specialized capability is wasteful *(disclaimed, Proposed)*
+  - [CLAIM-561](../record/claims.d/CLAIM-561.md) — Mobilize early though cancellation is likely *(thesis, Active)* — through [ARG-053](../record/arguments.d/ARG-053.md)
 
-## From On Bickhard's account the owner's debugging case has an endogenous form: a self-maintaining system that anticipates an interaction will sustain it holds an expected response profile set by its own upkeep, the absence or shortfall of the response means by its own lights that the interaction failed, and that norm and a designer's profile come apart where the system's persistence is at stake
+## From Bickhard gives debugging an endogenous norm
 
-- [CLAIM-648](../record/claims.d/CLAIM-648.md) — On Bickhard's account the owner's debugging case has an endogenous form: a self-maintaining system that anticipates an interaction will sustain it holds an expected response profile set by its own upkeep, the absence or shortfall of the response means by its own lights that the interaction failed, and that norm and a designer's profile come apart where the system's persistence is at stake *(thesis, Proposed)*
-  - [CLAIM-920](../record/claims.d/CLAIM-920.md) — On selection-based teleosemantics, a self-maintaining system's anticipation can be false by a norm of its own only if selection or learning stabilized it; upkeep in the present, with no such history, sets no norm, so the endogenous profile of the owner's debugging case is a norm only for a system whose own past upkeep shaped it *(counter, Proposed)*
+- [CLAIM-648](../record/claims.d/CLAIM-648.md) — Bickhard gives debugging an endogenous norm *(thesis, Proposed)*
+  - [CLAIM-920](../record/claims.d/CLAIM-920.md) — Present upkeep alone sets no norm *(counter, Proposed)*
 
-## From The accountability that those who control an arrangement owe to those who depend on it should rise with how indispensable the arrangement has become to them, so that an arrangement that has become effectively compulsory owes public justification of its purposes and governing rules, and those affected owe no deference to expertise or ownership as such
+## From Accountability rises with indispensability
 
-- [CLAIM-687](../record/claims.d/CLAIM-687.md) — The accountability that those who control an arrangement owe to those who depend on it should rise with how indispensable the arrangement has become to them, so that an arrangement that has become effectively compulsory owes public justification of its purposes and governing rules, and those affected owe no deference to expertise or ownership as such *(thesis, Active)*
-  - [CLAIM-749](../record/claims.d/CLAIM-749.md) — Influence over others does not by itself ground a duty to answer to them: a legitimate right can assign a decision to its holder, so that an owner may decline to explain choices within a protected sphere however much they affect others, and answerability is owed where the justified structure of a relationship requires it, not wherever an action has effects *(counter, Active)*
+- [CLAIM-687](../record/claims.d/CLAIM-687.md) — Accountability rises with indispensability *(thesis, Active)*
+  - [CLAIM-749](../record/claims.d/CLAIM-749.md) — Influence alone grounds no duty to answer *(counter, Active)*
 
-## From Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted
+## From Removing friction can remove interruptibility
 
-- [CLAIM-710](../record/claims.d/CLAIM-710.md) — Automation reduces procedural friction, yet procedural friction is where an opportunity to intervene in a process is exposed and perhaps what such an opportunity consists in, so removing friction can remove the points at which an unfolding decision can still be interrupted *(thesis, Proposed)*
-  - [CLAIM-711](../record/claims.d/CLAIM-711.md) — A process with no procedural friction can still be interruptible: standing constraints set slowly in advance and enforced by mechanisms faster than the process can foreclose alternatives keep it open to intervention without delaying it, so an opportunity to intervene does not consist in friction *(counter, Proposed)*
+- [CLAIM-710](../record/claims.d/CLAIM-710.md) — Removing friction can remove interruptibility *(thesis, Proposed)*
+  - [CLAIM-711](../record/claims.d/CLAIM-711.md) — Frictionless processes can be interruptible *(counter, Proposed)*
 
-## From The duties to comply with a justified rule, to support a justified institution and to help establish a needed one are distinct and none follows from another, and the third is bounded by whether the needed arrangement can be reached from the present one by permissible, resource-bounded transitions and by whose part it is to contribute
+## From Comply, support, establish: three duties
 
-- [CLAIM-729](../record/claims.d/CLAIM-729.md) — The duties to comply with a justified rule, to support a justified institution and to help establish a needed one are distinct and none follows from another, and the third is bounded by whether the needed arrangement can be reached from the present one by permissible, resource-bounded transitions and by whose part it is to contribute *(thesis, Proposed)*
-  - [CLAIM-752](../record/claims.d/CLAIM-752.md) — The duties to comply with a justified rule and to support the institution that administers it may be one duty, as Rawls's natural duty treats them, and are not shown distinct until a case separates them *(counter, Proposed)*
+- [CLAIM-729](../record/claims.d/CLAIM-729.md) — Comply, support, establish: three duties *(thesis, Proposed)*
+  - [CLAIM-752](../record/claims.d/CLAIM-752.md) — Comply and support may be one duty *(counter, Proposed)*
 
-## From Forgetting a source and anchoring to it are one contraction, told apart by what each restatement step conserves exactly: a chain that contracts everywhere except on what its steps copy without error ends keeping exactly the start's value on that conserved part, so it is anchored where the source's features lie in the part and forgets them where they do not; the record copies content exactly, by code and verbatim reading, and leaves form to contract onto its schema
+## From Forgetting and anchoring are one contraction
 
-- [CLAIM-772](../record/claims.d/CLAIM-772.md) — Forgetting a source and anchoring to it are one contraction, told apart by what each restatement step conserves exactly: a chain that contracts everywhere except on what its steps copy without error ends keeping exactly the start's value on that conserved part, so it is anchored where the source's features lie in the part and forgets them where they do not; the record copies content exactly, by code and verbatim reading, and leaves form to contract onto its schema *(thesis, Proposed)*
-  - [CLAIM-789](../record/claims.d/CLAIM-789.md) — In any inquiry whose sources are revised, copying exactly anchors a copy to the version it was taken from, so the copy keeps what a later revision removed: exact copying conserves staleness as faithfully as content, and what anchors a derived text to a revisable source is a tie to the source that a revision has to pass through, not exactness *(counter, Proposed)*
-  - [CLAIM-793](../record/claims.d/CLAIM-793.md) — Where an inquiry keeps its sources and each step reads the stored source rather than the last restatement of it, re-reading is not a second route beside conservation but conservation on the state enlarged by the source; on that structure an interpretation does not drift but settles on a fixed offset from the source toward the reader's prior, the same at every reading, which no reader sharing that prior can see, and drift is confined to the chains of derived texts *(counter, Proposed)*
+- [CLAIM-772](../record/claims.d/CLAIM-772.md) — Forgetting and anchoring are one contraction *(thesis, Proposed)*
+  - [CLAIM-789](../record/claims.d/CLAIM-789.md) — Exact copying conserves staleness *(counter, Proposed)*
+  - [CLAIM-793](../record/claims.d/CLAIM-793.md) — Re-reading settles at a fixed offset *(counter, Proposed)*
 
-## From An entry's local degrees of freedom are the features a restatement copies with error, neither pulled onto a convention nor copied exactly, and over its life cycle they are moved out of that part: the schema puts its form in the contracting part at filing, and its code, its verbatim reading and the relations that accrue on it put its content in the conserved part, so the revisions it can still take narrow like an inductive prior; an entry that has slowed works as a constraint on faster ones, and what narrows is its text, while its identity stays open to change by status
+## From An entry's local freedoms narrow like a prior
 
-- [CLAIM-778](../record/claims.d/CLAIM-778.md) — An entry's local degrees of freedom are the features a restatement copies with error, neither pulled onto a convention nor copied exactly, and over its life cycle they are moved out of that part: the schema puts its form in the contracting part at filing, and its code, its verbatim reading and the relations that accrue on it put its content in the conserved part, so the revisions it can still take narrow like an inductive prior; an entry that has slowed works as a constraint on faster ones, and what narrows is its text, while its identity stays open to change by status *(thesis, Proposed)*
-  - [CLAIM-864](../record/claims.d/CLAIM-864.md) — Inbound rests_on and grounds edges do not move a claim's text out of the part still open to revision: at matched age, cited claims are revised more often than uncited ones, so the settling claim's defeater (a) is met and that claim is false as it stands *(counter, Proposed)*
+- [CLAIM-778](../record/claims.d/CLAIM-778.md) — An entry's local freedoms narrow like a prior *(thesis, Proposed)*
+  - [CLAIM-864](../record/claims.d/CLAIM-864.md) — Cited claims are revised more, not less *(counter, Proposed)*
 
-## From Rich-get-richer processes and criticality reach power laws by almost opposite routes, the first by reinforcing differences and the second by removing the cutoff that had limited them
+## From Rich-get-richer and criticality: opposite routes
 
-- [CLAIM-796](../record/claims.d/CLAIM-796.md) — Rich-get-richer processes and criticality reach power laws by almost opposite routes, the first by reinforcing differences and the second by removing the cutoff that had limited them *(thesis, Proposed)*
-  - [CLAIM-806](../record/claims.d/CLAIM-806.md) — Linear preferential attachment is itself balanced at a boundary, between the stretched-exponential tails of weaker attachment and the condensation of stronger, so rich-get-richer processes and criticality are not opposite routes to a power law: both reach one at a marginal point, and differ in what is balanced *(thesis, Proposed)*
+- [CLAIM-796](../record/claims.d/CLAIM-796.md) — Rich-get-richer and criticality: opposite routes *(thesis, Proposed)*
+  - [CLAIM-806](../record/claims.d/CLAIM-806.md) — Linear attachment is balanced at a boundary *(thesis, Proposed)*
 
-## From Scoring against a null is a case of certifying categories by a model of the effect of using them, the model being the null's account of what the measure shows without the effect
+## From Null scoring is certification by effect model
 
-      - [CLAIM-831](../record/claims.d/CLAIM-831.md) — Scoring against a null is a case of certifying categories by a model of the effect of using them, the model being the null's account of what the measure shows without the effect *(supposed, Proposed)*
-        - [CLAIM-851](../record/claims.d/CLAIM-851.md) — Scoring against a null is a fourth route to certifying categories, beside evidence that does not pass through them, a model of the effect of using them, and an intervention *(supposed, Proposed)*
+      - [CLAIM-831](../record/claims.d/CLAIM-831.md) — Null scoring is certification by effect model *(supposed, Proposed)*
+        - [CLAIM-851](../record/claims.d/CLAIM-851.md) — Scoring against a null certifies categories *(supposed, Proposed)*
 
-## From The most informative signal in a learned spectrum lies in a truncated band: the top directions carry common, weakly discriminating structure, as stop words do in a corpus, the extreme bottom carries low-signal outliers, as rare words do, and once both are cut, the bottom of the retained band holds the most discriminating directions
+## From Discrimination peaks in a truncated band
 
-- [CLAIM-854](../record/claims.d/CLAIM-854.md) — The most informative signal in a learned spectrum lies in a truncated band: the top directions carry common, weakly discriminating structure, as stop words do in a corpus, the extreme bottom carries low-signal outliers, as rare words do, and once both are cut, the bottom of the retained band holds the most discriminating directions *(thesis, Proposed)*
-  - [CLAIM-855](../record/claims.d/CLAIM-855.md) — An alternative to the stop-word half of the owner's truncated-band account: top spectral directions that track the data's leading principal components, its common high-variance structure, may be a mark of under-trained or large-step regimes that learning reorganizes away from, rather than a standing feature of a learned spectrum *(thesis, Proposed)*
-  - [CLAIM-856](../record/claims.d/CLAIM-856.md) — An alternative to the floor and band of the owner's truncated-band account: the fine end of a learned spectrum may be damped for smoothness and generalization, with discrimination growing steadily toward it, and the floor a measurement finds below it may be estimator noise rather than a class of low-signal outliers bounding a band of highly discriminating directions *(thesis, Proposed)*
+- [CLAIM-854](../record/claims.d/CLAIM-854.md) — Discrimination peaks in a truncated band *(thesis, Proposed)*
+  - [CLAIM-855](../record/claims.d/CLAIM-855.md) — Top directions may mark under-training *(thesis, Proposed)*
+  - [CLAIM-856](../record/claims.d/CLAIM-856.md) — Spectral floor may be estimator noise *(thesis, Proposed)*
 
-## From An alternative: another party's standing channel into an agent's governing relations is itself a relation of its will-organization, so a manipulation that keeps its channel, as Pereboom's first case does, differs from its unmanipulated twin in present structure, testable by an intervention on the channel or by what the channel reaches, and only a manipulation that withdraws its channel is invisible to it
+## From A kept channel is part of will-organization
 
-      - [CLAIM-866](../record/claims.d/CLAIM-866.md) — An alternative: another party's standing channel into an agent's governing relations is itself a relation of its will-organization, so a manipulation that keeps its channel, as Pereboom's first case does, differs from its unmanipulated twin in present structure, testable by an intervention on the channel or by what the channel reaches, and only a manipulation that withdraws its channel is invisible to it *(thesis, Proposed)*
-        - [CLAIM-867](../record/claims.d/CLAIM-867.md) — An alternative: another party's standing channel into an agent is a fact about the agent's situation, not a relation of its will-organization, which is the organization the agent's own processes maintain, so no feature of will-organization differs between a manipulated will and its unmanipulated twin even while the manipulator keeps its channel, and the channel belongs with formation provenance among what a record must contain *(thesis, Proposed)*
+      - [CLAIM-866](../record/claims.d/CLAIM-866.md) — A kept channel is part of will-organization *(thesis, Proposed)*
+        - [CLAIM-867](../record/claims.d/CLAIM-867.md) — A manipulator's channel is situation, not will *(thesis, Proposed)*
 
-## From Taken as one system by the gap-isolated block test, the record does not individuate the Game of Life block, and the eater only at a one-generation horizon below a threshold Life does not set, so the Life constructions do not meet the first half of what would answer the achievement question and need another substrate or another criterion
+## From Life constructions fail the individuation half
 
-      - [CLAIM-870](../record/claims.d/CLAIM-870.md) — Taken as one system by the gap-isolated block test, the record does not individuate the Game of Life block, and the eater only at a one-generation horizon below a threshold Life does not set, so the Life constructions do not meet the first half of what would answer the achievement question and need another substrate or another criterion *(supposed, Proposed)*
-        - [CLAIM-871](../record/claims.d/CLAIM-871.md) — Taken in the descriptive and dynamical senses of individuation, relative to stated perturbations, the record individuates the Game of Life block and eater, so the Life constructions meet the first half of what would answer the achievement question for a formal system, provided a transient block is counted by the continuity of its cells *(supposed, Proposed)*
+      - [CLAIM-870](../record/claims.d/CLAIM-870.md) — Life constructions fail the individuation half *(supposed, Proposed)*
+        - [CLAIM-871](../record/claims.d/CLAIM-871.md) — Life constructions meet the individuation half *(supposed, Proposed)*
 
-## From The independent scoring that keeps a judgement–observation loop from confirming itself is scoring that reads nothing of the loop's state, so share-dependent advantage is scoring that passes through what the loop tests, and authority that reinforces itself against independent evidence too weak to overturn it does not meet the defeater of the claim that such evidence is the anchor
+## From Share-dependent advantage is not independent
 
-      - [CLAIM-873](../record/claims.d/CLAIM-873.md) — The independent scoring that keeps a judgement–observation loop from confirming itself is scoring that reads nothing of the loop's state, so share-dependent advantage is scoring that passes through what the loop tests, and authority that reinforces itself against independent evidence too weak to overturn it does not meet the defeater of the claim that such evidence is the anchor *(supposed, Proposed)*
-        - [CLAIM-874](../record/claims.d/CLAIM-874.md) — Read by its wording and its formal anchor, the independent scoring that keeps a judgement–observation loop from confirming itself is scoring that does not read the interpretation, so share-dependent advantage counts as independent scoring, a loop whose authority reinforces itself against weak independent evidence meets the defeater of the claim that such evidence is the anchor, and that claim holds only for loops whose authority does not reinforce itself apart from the interpretation *(supposed, Proposed)*
+      - [CLAIM-873](../record/claims.d/CLAIM-873.md) — Share-dependent advantage is not independent *(supposed, Proposed)*
+        - [CLAIM-874](../record/claims.d/CLAIM-874.md) — Share-dependent advantage counts as independent *(supposed, Proposed)*
 
-## From The organization whose reproduction of occluding representations and allocations of authority breaches the second-order duty of answerability is a relational arrangement, the ground and object of the verdict and not its bearer; the duty falls on the agents or roles that control that reproduction, inside the arrangement or outside it, each as far as its control reaches, so that where no one controls it the duty is breached by no one
+## From Answerability duty falls on controllers
 
-      - [CLAIM-876](../record/claims.d/CLAIM-876.md) — The organization whose reproduction of occluding representations and allocations of authority breaches the second-order duty of answerability is a relational arrangement, the ground and object of the verdict and not its bearer; the duty falls on the agents or roles that control that reproduction, inside the arrangement or outside it, each as far as its control reaches, so that where no one controls it the duty is breached by no one *(thesis, Proposed)*
-        - [CLAIM-877](../record/claims.d/CLAIM-877.md) — The organization that breaches the second-order duty of answerability is a collective institution that is an agent under a stated criterion, and the duty is its own: its obligations, capabilities and reasonable alternatives are the ones the verdict weighs, and those who control its arrangements bear the duty only derivatively, as its officers, so that an arrangement no such institution governs falls outside the claim *(thesis, Proposed)*
+      - [CLAIM-876](../record/claims.d/CLAIM-876.md) — Answerability duty falls on controllers *(thesis, Proposed)*
+        - [CLAIM-877](../record/claims.d/CLAIM-877.md) — Answerability duty is the institution's own *(thesis, Proposed)*
 
-## From The evaluative space model's positivity and negativity channels are perspectives in the thin sense goal-conduciveness valence uses: each ranks the options by its own activation, the two rankings contest exactly the approach–avoidance pairs, and each holds an authority over action apart from its activation, in its gain, its offset and the override of higher levels; so the model's neutral point, both channels low, is no contest, where valence is undefined, not neutrality, and its coactivation is contest, which a record of conduct shows as ambivalence only when no candidate ordering, a stable compromise included, accounts for the decisions
+## From Evaluative-space channels are perspectives
 
-- [CLAIM-897](../record/claims.d/CLAIM-897.md) — The evaluative space model's positivity and negativity channels are perspectives in the thin sense goal-conduciveness valence uses: each ranks the options by its own activation, the two rankings contest exactly the approach–avoidance pairs, and each holds an authority over action apart from its activation, in its gain, its offset and the override of higher levels; so the model's neutral point, both channels low, is no contest, where valence is undefined, not neutrality, and its coactivation is contest, which a record of conduct shows as ambivalence only when no candidate ordering, a stable compromise included, accounts for the decisions *(thesis, Proposed)*
-  - [CLAIM-898](../record/claims.d/CLAIM-898.md) — The evaluative space model's two channels are inputs to one evaluator, not perspectives: gain, offset and override parameterize a single response surface that combines them, so no channel holds an authority of its own, the model's coactivation is one ordering with high input on both sides, and goal-conduciveness valence should cite the model only for the distinction between ambivalence and neutrality, not for split potential *(counter, Proposed)*
+- [CLAIM-897](../record/claims.d/CLAIM-897.md) — Evaluative-space channels are perspectives *(thesis, Proposed)*
+  - [CLAIM-898](../record/claims.d/CLAIM-898.md) — Evaluative-space channels feed one evaluator *(counter, Proposed)*
 
-## From Alternative reading (a) of the discriminating variants: where what a power's holder would do is fixed and known, an arrangement in which the subjects hold no share of the power to review or revise is no less legitimate than its match, the sense that it is defective is a residue of protective reasons that no longer apply, and reasonable rejection is right to find nothing to reject
+## From Sole say is no less legitimate when use is fixed
 
-- [CLAIM-913](../record/claims.d/CLAIM-913.md) — Alternative reading (a) of the discriminating variants: where what a power's holder would do is fixed and known, an arrangement in which the subjects hold no share of the power to review or revise is no less legitimate than its match, the sense that it is defective is a residue of protective reasons that no longer apply, and reasonable rejection is right to find nothing to reject *(thesis, Proposed)*
-  - [CLAIM-911](../record/claims.d/CLAIM-911.md) — Alternative reading (b) of the discriminating variants: where what a power's holder would do is fixed and known, an arrangement in which the subjects hold no share of the power to review or revise is still less legitimate, and reasonable rejection explains it by a personal reason of status, not to live under another's sole say over the rules of an important part of one's life, as it explains a promisee's power of release, so contractualism explains the allocation of powers at the price of taking that reason as an input it does not derive *(thesis, Proposed)*
-    - [CLAIM-912](../record/claims.d/CLAIM-912.md) — Alternative reading (c) of the discriminating variants: where what a power's holder would do is fixed and known, an arrangement in which the subjects hold no share of the power to review or revise is still less legitimate, and reasonable rejection reaches that verdict only by importing a principle of standing, because a reason to insist on a share of a power is a reason only for one already owed that share, so an account that fixes who holds powers over review and revision does work the test cannot *(thesis, Proposed)* — also objects to CLAIM-913
+- [CLAIM-913](../record/claims.d/CLAIM-913.md) — Sole say is no less legitimate when use is fixed *(thesis, Proposed)*
+  - [CLAIM-911](../record/claims.d/CLAIM-911.md) — Status reasons explain the allocation of powers *(thesis, Proposed)*
+    - [CLAIM-912](../record/claims.d/CLAIM-912.md) — Rejection needs an imported standing principle *(thesis, Proposed)* — also objects to CLAIM-913
 
-## From Read by its definition, the closing-nucleus loop is organizational closure of two constraints: the teacher constrains, without being consumed, the formation that produces nuclei, and the nucleus constrains, without being consumed, the production of teachers, so each depends directly on the other and is depended on
+## From Closing-nucleus loop is organizational closure
 
-- [CLAIM-956](../record/claims.d/CLAIM-956.md) — Read by its definition, the closing-nucleus loop is organizational closure of two constraints: the teacher constrains, without being consumed, the formation that produces nuclei, and the nucleus constrains, without being consumed, the production of teachers, so each depends directly on the other and is depended on *(thesis, Proposed)*
-  - [CLAIM-958](../record/claims.d/CLAIM-958.md) — The closing-nucleus loop is autocatalysis, not organizational closure in the sense the question on self-maintaining nuclei distinguishes: the nucleus speeds its own production by way of the teacher, on a single material flux, and reading any two catalysts that make each other as a closed set of constraints would erase the line the question draws between a product that enhances its own production and constraints that maintain one another *(counter, Proposed)*
+- [CLAIM-956](../record/claims.d/CLAIM-956.md) — Closing-nucleus loop is organizational closure *(thesis, Proposed)*
+  - [CLAIM-958](../record/claims.d/CLAIM-958.md) — Closing-nucleus loop is autocatalysis *(counter, Proposed)*
 
-## From For a whole that is a bare relational arrangement, being a constituent adds no obligation beyond those grounded in the constituent's vulnerability, interests, rights and exposure to power: the part-whole relation locates where an obligation applies without grounding it, and because such an arrangement is not an agent the obligation falls on the agents or roles that maintain, control or benefit from it, not on the whole
+## From Bare arrangements add no constituent duties
 
-- [CLAIM-960](../record/claims.d/CLAIM-960.md) — For a whole that is a bare relational arrangement, being a constituent adds no obligation beyond those grounded in the constituent's vulnerability, interests, rights and exposure to power: the part-whole relation locates where an obligation applies without grounding it, and because such an arrangement is not an agent the obligation falls on the agents or roles that maintain, control or benefit from it, not on the whole *(thesis, Proposed)*
-  - [CLAIM-959](../record/claims.d/CLAIM-959.md) — Where membership in a whole is normatively thick, a collective institution that is an agent or a cooperative scheme its constituents belong to, constitution can ground an obligation the whole owes a constituent that it owes no outsider, under an independently justified principle of associative obligation, with the whole, where it can owe, as the bearer *(supposed, Proposed)*
+- [CLAIM-960](../record/claims.d/CLAIM-960.md) — Bare arrangements add no constituent duties *(thesis, Proposed)*
+  - [CLAIM-959](../record/claims.d/CLAIM-959.md) — Thick membership can ground associative duties *(supposed, Proposed)*
 
-## From In the transmission criterion of identity over time, a maintainer that restores an individual from the organization it finds in it is a channel of transmission, never part of what is transmitted, so replacing the maintainer with an unrelated one breaks no continuation and the criterion is met or failed by the path through the individual itself
+## From Maintainer is channel, not content transmitted
 
-      - [CLAIM-983](../record/claims.d/CLAIM-983.md) — In the transmission criterion of identity over time, a maintainer that restores an individual from the organization it finds in it is a channel of transmission, never part of what is transmitted, so replacing the maintainer with an unrelated one breaks no continuation and the criterion is met or failed by the path through the individual itself *(thesis, Proposed)*
-        - [CLAIM-986](../record/claims.d/CLAIM-986.md) — In the transmission criterion of identity over time, an outside maintainer's organization is part of what is transmitted just insofar as it holds organization the repertoire depends on that the individual does not carry and that a competent unrelated replacement, working from the individual, would not supply; a garage holds none of a car's, so a change of garage continues the car whole, while an unrelated new maintainer can continue a project only in the respects its code carries *(thesis, Proposed)*
+      - [CLAIM-983](../record/claims.d/CLAIM-983.md) — Maintainer is channel, not content transmitted *(thesis, Proposed)*
+        - [CLAIM-986](../record/claims.d/CLAIM-986.md) — Outside maintainer counts only if irreplaceable *(thesis, Proposed)*
 
-## From Alternative reading (a) of the constitutivism test: applied to the record's organizational account, Leffler's choice point cannot be passed from an organization's dynamics alone, since if the force of its self-generated norms is explained by its being continuously positioned to maintain itself, that force is relative to its constitution, and the account cannot by that route rule between an institution's norms and its members' without a premise from outside the dynamics
+## From Choice point unpassable from dynamics alone
 
-- [CLAIM-987](../record/claims.d/CLAIM-987.md) — Alternative reading (a) of the constitutivism test: applied to the record's organizational account, Leffler's choice point cannot be passed from an organization's dynamics alone, since if the force of its self-generated norms is explained by its being continuously positioned to maintain itself, that force is relative to its constitution, and the account cannot by that route rule between an institution's norms and its members' without a premise from outside the dynamics *(counter, Proposed)*
-  - [CLAIM-988](../record/claims.d/CLAIM-988.md) — Alternative reading (c) of the constitutivism test: the record's organizational account is not exposed to Leffler's choice point, because it never explains the force of an organization's norms by the organization's constitution; it keeps norms of function and failure apart from their authority, so the test closes a route the record has not taken rather than refuting a position it holds *(thesis, Proposed)*
+- [CLAIM-987](../record/claims.d/CLAIM-987.md) — Choice point unpassable from dynamics alone *(counter, Proposed)*
+  - [CLAIM-988](../record/claims.d/CLAIM-988.md) — Organizational account not exposed to choice point *(thesis, Proposed)*

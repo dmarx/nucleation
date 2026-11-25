@@ -10,4 +10,4 @@
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-057](../../../record/syntheses.d/SYNTHESIS-057.md) | What a system can deploy before a deadline is not what it has or knows it has: a search that fails by the deadline shows that the item is unavailable and shows absence only with a certificate about the unsearched remainder, retrieval and evidence pull in opposite directions when a category is carved, sortings that never conflict as descriptions conflict as arrangements only when each item is stored once, and whether leaving results where they can be read back is one trade with amortized computation stays open |  | Proposed |
+| [SYNTHESIS-057](../../../record/syntheses.d/SYNTHESIS-057.md) | Deployable by a deadline is not what is held |  | Proposed |

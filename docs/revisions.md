@@ -4,93 +4,93 @@
 
 16 lines, walked from `supersedes_claim` (`(c:CLAIM)-[:supersedes]->(p:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
-## From What fundamentally distinguishes variations of a translation is the frame from which it is delivered
+## From Translations differ by delivery frame
 
-- [CLAIM-006](../record/claims.d/CLAIM-006.md) — What fundamentally distinguishes variations of a translation is the frame from which it is delivered *(Superseded)*
-  - [CLAIM-061](../record/claims.d/CLAIM-061.md) — Renderings that keep the proposition can perform a different communicative act, so preserving the proposition is not sufficient for preserving the communicative event *(Active)*
+- [CLAIM-006](../record/claims.d/CLAIM-006.md) — Translations differ by delivery frame *(Superseded)*
+  - [CLAIM-061](../record/claims.d/CLAIM-061.md) — Keeping the proposition is not sufficient *(Active)*
 
-## From The abstract similarity between renderings is similarity of higher-order latents, which can survive large differences in lower-order ones
+## From Abstract similarity is higher-order latents
 
-- [CLAIM-008](../record/claims.d/CLAIM-008.md) — The abstract similarity between renderings is similarity of higher-order latents, which can survive large differences in lower-order ones *(Superseded)*
-  - [CLAIM-042](../record/claims.d/CLAIM-042.md) — The levels at which communicative observables exist organize observables, not objects: a communicative object is identified jointly by constraints from observables at several levels, which, where those observables share one state space, is the intersection of the regions they pick out *(Active)*
+- [CLAIM-008](../record/claims.d/CLAIM-008.md) — Abstract similarity is higher-order latents *(Superseded)*
+  - [CLAIM-042](../record/claims.d/CLAIM-042.md) — Levels organize observables, not objects *(Active)*
 
-## From In translation the pragmatic frame does not merely select a description of meaning but participates in determining which meaning becomes actual
+## From Pragmatic frame helps determine actual meaning
 
-- [CLAIM-109](../record/claims.d/CLAIM-109.md) — In translation the pragmatic frame does not merely select a description of meaning but participates in determining which meaning becomes actual *(Superseded)*
-  - [CLAIM-009](../record/claims.d/CLAIM-009.md) — Pragmatic judgements may be formally contextual: their context-relative distributions may admit no global extension once direct context effects are accounted for *(Proposed)*
+- [CLAIM-109](../record/claims.d/CLAIM-109.md) — Pragmatic frame helps determine actual meaning *(Superseded)*
+  - [CLAIM-009](../record/claims.d/CLAIM-009.md) — Pragmatic judgements may be contextual *(Proposed)*
 
-## From Will is a second- or higher-order attractor in an agent's dynamics
+## From Will is a higher-order attractor
 
-- [CLAIM-012](../record/claims.d/CLAIM-012.md) — Will is a second- or higher-order attractor in an agent's dynamics *(Superseded)*
-  - [CLAIM-027](../record/claims.d/CLAIM-027.md) — Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them *(Active)*
+- [CLAIM-012](../record/claims.d/CLAIM-012.md) — Will is a higher-order attractor *(Superseded)*
+  - [CLAIM-027](../record/claims.d/CLAIM-027.md) — Effective regime set by maintained relations *(Active)*
 
-## From Classical structuralism studies relations within a system, whereas this theory makes the transport of relational systems its object and does not require structure to remain invariant
+## From Transport, not invariant structure, as object
 
-- [CLAIM-015](../record/claims.d/CLAIM-015.md) — Classical structuralism studies relations within a system, whereas this theory makes the transport of relational systems its object and does not require structure to remain invariant *(Superseded)*
-  - [CLAIM-113](../record/claims.d/CLAIM-113.md) — Transformations and invariants define one another: translation preserves some structures exactly, carries some equivariantly, preserves some approximately and reorganizes others, and identity is studied through what a class of transformations leaves invariant *(Active)*
+- [CLAIM-015](../record/claims.d/CLAIM-015.md) — Transport, not invariant structure, as object *(Superseded)*
+  - [CLAIM-113](../record/claims.d/CLAIM-113.md) — Transformations and invariants define each other *(Active)*
 
-## From The pragmatic identity of an utterance is partly constituted by the context-dependent transformations it induces, so pragmatic fidelity is an approximate structure-preserving correspondence between source and target dynamics
+## From Pragmatic fidelity as dynamics correspondence
 
-- [CLAIM-055](../record/claims.d/CLAIM-055.md) — The pragmatic identity of an utterance is partly constituted by the context-dependent transformations it induces, so pragmatic fidelity is an approximate structure-preserving correspondence between source and target dynamics *(Superseded)*
-  - [CLAIM-083](../record/claims.d/CLAIM-083.md) — Pragmatic translation fidelity is the preservation, under corresponding communicative conditions, of the ways an utterance transforms interpretation, interpersonal alignment and the possibilities for subsequent interaction *(Superseded)*
-    - [CLAIM-065](../record/claims.d/CLAIM-065.md) — Pragmatic fidelity is approximate preservation of the ways an utterance conditions, transforms and constrains later interpretation and interaction, across transient framing and learned interpretive dispositions *(Superseded)*
-      - [CLAIM-101](../record/claims.d/CLAIM-101.md) — Translation is a context-conditioned transport process that preserves selected structures of communicative meaning to varying degrees while introducing distortions that may accumulate, attenuate or amplify under composition *(Superseded)*
-        - [CLAIM-124](../record/claims.d/CLAIM-124.md) — Communicative objects are characterized through overlapping constraints on observables at partially ordered levels; translation transports these locally constrained structures, and repeated reconstruction changes both local interpretations and their global compatibility *(Superseded)*
-          - [CLAIM-026](../record/claims.d/CLAIM-026.md) — Translation is not the transmission of an invariant semantic object but the selective preservation of decision-relevant information across changing observational and interpretive structures *(Superseded)*
-            - [CLAIM-048](../record/claims.d/CLAIM-048.md) — Communication transports structures of observational constraints rather than invariant semantic objects, and translation, language-model reconstruction and conditional image generation are realizations of one process *(Superseded)*
-              - [CLAIM-036](../record/claims.d/CLAIM-036.md) — Communicative meaning is constituted through systems of distinctions and relations, and translation transports these systems, selectively preserving or transforming their differential, probabilistic and interactional structure *(Superseded)*
-                - [CLAIM-108](../record/claims.d/CLAIM-108.md) — Communicative identity is characterized by the observational structures and relations invariant or equivariant under specified classes of transformation, and fidelity by their preservation, deformation or loss *(Superseded)*
-                  - [CLAIM-017](../record/claims.d/CLAIM-017.md) — What survives translation is the invariants, and approximately preserved relations, of communicative transformation *(Superseded)*
-                    - [CLAIM-115](../record/claims.d/CLAIM-115.md) — What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition *(Superseded)*
-                      - [CLAIM-220](../record/claims.d/CLAIM-220.md) — For a named population of receivers and a stated family of tasks, what survives a translation, retelling or rendering is the set of task-relevant communicative distinctions those receivers can still recover from it, and measured preservation of the pragmatic observables predicts that recovery better than preservation of the wording or of the proposition, with or without its force *(Proposed)*
+- [CLAIM-055](../record/claims.d/CLAIM-055.md) — Pragmatic fidelity as dynamics correspondence *(Superseded)*
+  - [CLAIM-083](../record/claims.d/CLAIM-083.md) — Fidelity preserves interaction possibilities *(Superseded)*
+    - [CLAIM-065](../record/claims.d/CLAIM-065.md) — Pragmatic fidelity preserves later conditioning *(Superseded)*
+      - [CLAIM-101](../record/claims.d/CLAIM-101.md) — Translation as context-conditioned transport *(Superseded)*
+        - [CLAIM-124](../record/claims.d/CLAIM-124.md) — Translation transports local constraint structures *(Superseded)*
+          - [CLAIM-026](../record/claims.d/CLAIM-026.md) — Translation preserves what decisions need *(Superseded)*
+            - [CLAIM-048](../record/claims.d/CLAIM-048.md) — Translation, LMs and T2I are one process *(Superseded)*
+              - [CLAIM-036](../record/claims.d/CLAIM-036.md) — Translation transports systems of distinctions *(Superseded)*
+                - [CLAIM-108](../record/claims.d/CLAIM-108.md) — Identity as invariance, fidelity as preservation *(Superseded)*
+                  - [CLAIM-017](../record/claims.d/CLAIM-017.md) — Communicative invariants survive translation *(Superseded)*
+                    - [CLAIM-115](../record/claims.d/CLAIM-115.md) — What survives is reconstructible distinctions *(Superseded)*
+                      - [CLAIM-220](../record/claims.d/CLAIM-220.md) — What survives is what receivers recover *(Proposed)*
 
-## From Fidelity is always fidelity with respect to some selected structure: a specified family of communicative observations, interventions and permitted continuations
+## From Fidelity is always to a selected structure
 
-- [CLAIM-051](../record/claims.d/CLAIM-051.md) — Fidelity is always fidelity with respect to some selected structure: a specified family of communicative observations, interventions and permitted continuations *(Superseded)*
-  - [CLAIM-050](../record/claims.d/CLAIM-050.md) — For report fidelity, fidelity is relative to the communicative decisions receivers make, and Blackwell's order on rendering procedures, over a designed distribution of situations, makes precise the ceiling a rendering sets on those decisions *(Active)*
+- [CLAIM-051](../record/claims.d/CLAIM-051.md) — Fidelity is always to a selected structure *(Superseded)*
+  - [CLAIM-050](../record/claims.d/CLAIM-050.md) — Blackwell order bounds report fidelity *(Active)*
 
-## From Demonstrating that interpretive framings do not commute establishes that the judgements cannot be described by one ordinary joint probability distribution
+## From Non-commutation rules out one joint distribution
 
-- [CLAIM-073](../record/claims.d/CLAIM-073.md) — Demonstrating that interpretive framings do not commute establishes that the judgements cannot be described by one ordinary joint probability distribution *(Rejected)*
-  - [CLAIM-052](../record/claims.d/CLAIM-052.md) — Interpretive framing operations generally do not commute, and this can be investigated without committing to quantum probability *(Proposed)*
+- [CLAIM-073](../record/claims.d/CLAIM-073.md) — Non-commutation rules out one joint distribution *(Rejected)*
+  - [CLAIM-052](../record/claims.d/CLAIM-052.md) — Framing operations generally do not commute *(Proposed)*
 
-## From That every regulator with a higher-order attractor counts as having a will is acceptable once agency is kept apart from phenomenal experience
+## From Will in every regulator is acceptable
 
-- [CLAIM-062](../record/claims.d/CLAIM-062.md) — That every regulator with a higher-order attractor counts as having a will is acceptable once agency is kept apart from phenomenal experience *(Superseded)*
-  - [CLAIM-080](../record/claims.d/CLAIM-080.md) — The agent is independently warranted: the account asks how a given agent's practical efficacy is organized, not what makes something an agent *(Active)*
+- [CLAIM-062](../record/claims.d/CLAIM-062.md) — Will in every regulator is acceptable *(Superseded)*
+  - [CLAIM-080](../record/claims.d/CLAIM-080.md) — The agent is independently warranted *(Active)*
 
-## From If a transport exactly intertwines a generating set of communicative operations, it preserves every trajectory composed from them
+## From Exact intertwining preserves all trajectories
 
-- [CLAIM-067](../record/claims.d/CLAIM-067.md) — If a transport exactly intertwines a generating set of communicative operations, it preserves every trajectory composed from them *(Superseded)*
-  - [CLAIM-106](../record/claims.d/CLAIM-106.md) — Pragmatic fidelity is a graded, potentially asymmetric property of transport, not an equivalence relation; equivalence is its zero-distortion limit *(Active)*
+- [CLAIM-067](../record/claims.d/CLAIM-067.md) — Exact intertwining preserves all trajectories *(Superseded)*
+  - [CLAIM-106](../record/claims.d/CLAIM-106.md) — Pragmatic fidelity is graded, not equivalence *(Active)*
 
-## From Conditional generative systems realize stochastic transports between constrained distributions, and their compositional fidelity depends on preserving the compatibility and relational structure of constraints across media
+## From Generators as stochastic constraint transports
 
-- [CLAIM-120](../record/claims.d/CLAIM-120.md) — Conditional generative systems realize stochastic transports between constrained distributions, and their compositional fidelity depends on preserving the compatibility and relational structure of constraints across media *(Superseded)*
-  - [CLAIM-071](../record/claims.d/CLAIM-071.md) — Conditional generation shares a mathematical vocabulary with translation, not a mechanism: denoising time is not telephone-game time, and a generative failure is not a proof of sheaf contextuality *(Active)*
+- [CLAIM-120](../record/claims.d/CLAIM-120.md) — Generators as stochastic constraint transports *(Superseded)*
+  - [CLAIM-071](../record/claims.d/CLAIM-071.md) — Generation shares vocabulary, not mechanism *(Active)*
 
-## From Variations in translation are transformations between pragmatic frames of reference that preserve selected invariants of the communicative act
+## From Translation variants as frame transformations
 
-- [CLAIM-102](../record/claims.d/CLAIM-102.md) — Variations in translation are transformations between pragmatic frames of reference that preserve selected invariants of the communicative act *(Superseded)*
-  - [CLAIM-098](../record/claims.d/CLAIM-098.md) — Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases *(Active)*
+- [CLAIM-102](../record/claims.d/CLAIM-102.md) — Translation variants as frame transformations *(Superseded)*
+  - [CLAIM-098](../record/claims.d/CLAIM-098.md) — Translations need not be group actions *(Active)*
 
-## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
+## From Changing-cover transport is the open problem
 
-- [CLAIM-100](../record/claims.d/CLAIM-100.md) — Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem *(Superseded)*
-  - [CLAIM-125](../record/claims.d/CLAIM-125.md) — Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data *(Active)*
+- [CLAIM-100](../record/claims.d/CLAIM-100.md) — Changing-cover transport is the open problem *(Superseded)*
+  - [CLAIM-125](../record/claims.d/CLAIM-125.md) — Two open problems for cover-changing transport *(Active)*
 
-## From An implicit contract cannot be read off consistent behaviour: arrangements with the same ordinary interaction differ in how they respond to interruption, a substitute provider, competing demands, removal of an enforcer, withdrawal of a discretionary contribution and a request to renegotiate, and only those responses show whether a dependence is regulated, by what, and on whose terms
+## From Implicit contracts can't be read off behaviour
 
-- [CLAIM-1219](../record/claims.d/CLAIM-1219.md) — An implicit contract cannot be read off consistent behaviour: arrangements with the same ordinary interaction differ in how they respond to interruption, a substitute provider, competing demands, removal of an enforcer, withdrawal of a discretionary contribution and a request to renegotiate, and only those responses show whether a dependence is regulated, by what, and on whose terms *(Superseded)*
-  - [CLAIM-1270](../record/claims.d/CLAIM-1270.md) — An organization's characteristic structure can include the contracts maintained among its processes, which its ordinary behaviour does not reveal: two arrangements alike on the ordinary course can part when a contract is breached, an assumption fails or a process invokes its standing *(Proposed)*
+- [CLAIM-1219](../record/claims.d/CLAIM-1219.md) — Implicit contracts can't be read off behaviour *(Superseded)*
+  - [CLAIM-1270](../record/claims.d/CLAIM-1270.md) — Process contracts hide in ordinary behaviour *(Proposed)*
 
-## From Communicative identity is relational continuity under admissible transformation: translation transports relationally organized observational structure, correspondence fixes what can be compared, admissibility which transformations count, and fidelity which communicatively consequential distinctions remain recoverable
+## From Identity as relational continuity
 
-- [CLAIM-133](../record/claims.d/CLAIM-133.md) — Communicative identity is relational continuity under admissible transformation: translation transports relationally organized observational structure, correspondence fixes what can be compared, admissibility which transformations count, and fidelity which communicatively consequential distinctions remain recoverable *(Superseded)*
-  - [CLAIM-139](../record/claims.d/CLAIM-139.md) — A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist *(Superseded)*
-    - [CLAIM-204](../record/claims.d/CLAIM-204.md) — A communicative kind's identity is grounded in its relational organization, for which competent participants' uptake is the standard; statistical methods recover aspects of it from restricted observations; translation transports it; and what persists is what the receivers can still recover, of which the analyst can certify the independently identifiable part *(Proposed)*
+- [CLAIM-133](../record/claims.d/CLAIM-133.md) — Identity as relational continuity *(Superseded)*
+  - [CLAIM-139](../record/claims.d/CLAIM-139.md) — Identity in relations; fidelity as what persists *(Superseded)*
+    - [CLAIM-204](../record/claims.d/CLAIM-204.md) — Uptake-grounded kind, receiver-recovered fidelity *(Proposed)*
 
-## From Under a deadline, search can establish presence by finding one item but absence only by exhausting the collection, so "If I can't find it, it isn't there" acts on an unfinished search as negation as failure acts on a finished one: a default stronger than either the closed-world assumption or negation as failure, safe only when the arrangement makes the full search finish within the deadline
+## From "If I can't find it, it isn't there"
 
-- [CLAIM-306](../record/claims.d/CLAIM-306.md) — Under a deadline, search can establish presence by finding one item but absence only by exhausting the collection, so "If I can't find it, it isn't there" acts on an unfinished search as negation as failure acts on a finished one: a default stronger than either the closed-world assumption or negation as failure, safe only when the arrangement makes the full search finish within the deadline *(Superseded)*
-  - [CLAIM-312](../record/claims.d/CLAIM-312.md) — "If I can't find it, it isn't there" asserts operational unavailability, that the item will not be put to use before the deadline, not absence: a search that fails by the deadline establishes unavailability outright, and licenses absence only with a certificate that the unsearched remainder cannot hold the item, from exhaustion, from an invariant of the arrangement, or from a closed-world default *(Active)*
+- [CLAIM-306](../record/claims.d/CLAIM-306.md) — "If I can't find it, it isn't there" *(Superseded)*
+  - [CLAIM-312](../record/claims.d/CLAIM-312.md) — Not found by the deadline means unavailable *(Active)*

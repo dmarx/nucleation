@@ -10,4 +10,4 @@
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-019](../../../record/syntheses.d/SYNTHESIS-019.md) | The owner's thesis that experience is constituted by interpretive organization stands with its sufficiency condition unstated: interpretation as such does not suffice, current grounding and a represented owner are kept apart from what would make an organization experiential, the line's one candidate condition makes valence felt only in the access sense, and each test of the rest meets the limit that the record's evidence about experience reaches it through access |  | Proposed |
+| [SYNTHESIS-019](../../../record/syntheses.d/SYNTHESIS-019.md) | Experience thesis: sufficiency still unstated |  | Proposed |

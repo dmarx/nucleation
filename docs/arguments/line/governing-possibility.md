@@ -10,4 +10,4 @@
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [ARG-077](../../../record/arguments.d/ARG-077.md) v5 | The barrier at 1.3 between two configurations that each cost 0.7 shows that the threshold for reaching a configuration need not equal its requirement | Filed with [ADR-096](../../../record/decisions.d/ADR-096.md)'s first application: the construction case now grounds [CLAIM-571](../../../record/claims.d/CLAIM-571.md)'s existence clause, so the support is load-bearing and is argued here. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Active |
+| [ARG-077](../../../record/arguments.d/ARG-077.md) v5 | Capacity barrier → reaching costs more | Filed with [ADR-096](../../../record/decisions.d/ADR-096.md)'s first application: the construction case now grounds [CLAIM-571](../../../record/claims.d/CLAIM-571.md)'s existence clause, so the support is load-bearing and is argued here. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Active |

@@ -10,4 +10,4 @@
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-053](../../../record/syntheses.d/SYNTHESIS-053.md) | When formerly autonomous partners come to depend on one another, which properties each route to dependence brings about, and which make the partnership a new individual, is open: the documented symbioses show dependence, reproductive cohesion, the distribution of functions across genomes and host control coming apart, dependence directional, and integration undone as well as deepened, and the record holds that gene ancestries and stem lengths alone cannot tell a partner from a donor or time its acquisition |  | Proposed |
+| [SYNTHESIS-053](../../../record/syntheses.d/SYNTHESIS-053.md) | When dependent partners become one is open |  | Proposed |

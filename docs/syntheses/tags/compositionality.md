@@ -10,4 +10,4 @@
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-061](../../../record/syntheses.d/SYNTHESIS-061.md) | Conditional generation is a case for the pragmatic-transport theory and not a realization of it: adding scores composes two conditions exactly when a likelihood ratio does not vary with the noisy state, benchmarks show conjunctions and spatial and attribute bindings failing where single conditions are met, no benchmark the record has read measures the stance or uptake an image conveys, and what explains a given relational failure, and whether the path of a reconstruction is informative, are open |  | Proposed |
+| [SYNTHESIS-061](../../../record/syntheses.d/SYNTHESIS-061.md) | Diffusion is a test case for pragmatic transport |  | Proposed |

@@ -10,4 +10,4 @@
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-126](../../../record/syntheses.d/SYNTHESIS-126.md) | Publishing over a governed record unbundles the paper: articles become views over a maintained record, editorial judgements attributable events that journals select as feeds, and hosts suppliers of access; the record shows the substrate and where its own guarantees stop, and leaves registration, signed authorship, version-resolvable citation and the advantage of the network open |  | Proposed |
+| [SYNTHESIS-126](../../../record/syntheses.d/SYNTHESIS-126.md) | Publishing over a record unbundles the paper |  | Proposed |
