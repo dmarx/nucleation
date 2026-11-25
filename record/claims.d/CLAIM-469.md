@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp0yhlm
 title: 'Luria is an apparatus for a record''s objects in the operational sense: through its schemes, vocabularies, validators and generated views it realizes a system of distinctions that fixes what counts as a referable and governable object within the record, so that a split scheme makes one object two and a promoted vocabulary makes a value an entity; it keeps, enforces and propagates those distinctions; and its distinctions are revised through the record''s own use'
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -28,6 +28,19 @@ history:
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
     line (ADR-082). No other change.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 03, scope 15. No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -46,6 +59,7 @@ tags:
 date: '2026-10-27'
 line:
 - record-as-apparatus
+- scholarly-publishing
 rests_on:
 - CLAIM-479
 - CLAIM-419
@@ -67,6 +81,8 @@ summary: >-
   sense stays in [CLAIM-476](CLAIM-476.md), which now rests on this one. Split so
   that luria's evidential role does not depend on accepting Barad's
   ontology.
+works:
+- atlas
 ---
 <!-- inactive-ok-file: CLAIM-476 — Proposed; the claim this was split from and the claim it complements -->
 <!-- inactive-ok-file: THEORY-1758 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

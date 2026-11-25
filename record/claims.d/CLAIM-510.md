@@ -33,7 +33,6 @@ summary: >-
   it to be possible, since the order asks for correspondences that are
   independently validated. No held case meets it yet.
 ---
-<!-- inactive-ok-file: CASE-333 — Proposed; filed from LEAD-098's run of 2026-11-22, cited as a partial case -->
 <!-- inactive-ok-file: CASE-387 NOTE-2371 THEORY-2281 — new; the case LEAD-164 filed and its reading -->
 
 # CLAIM-510: Measurement can establish, and not only estimate, a correspondence among local descriptions: some correspondences that measurement estimates can be checked against evidence the measurement did not itself produce

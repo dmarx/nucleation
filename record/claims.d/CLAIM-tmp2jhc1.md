@@ -117,3 +117,37 @@ is why efficiency measured on use will tend to remove it.
 - Not that a party with a fallback is undominated: [CLAIM-690](CLAIM-690.md) holds that
   what sorts dependence is control over exit, renegotiation and the
   conditions of supply, of which a fallback secures only the first.
+
+## Note of 2026-11-25: the threat point run on a fallback the supply erodes, from the manuscript governance-of-becoming, Article 9
+<!-- inactive-ok-file: CLAIM-tmp6nzs1 CASE-264 — Proposed or new; the computation and the bargaining case it uses -->
+
+The bargaining step above holds the outside option fixed. [CLAIM-tmp6nzs1](CLAIM-tmp6nzs1.md)
+lets it decay: B's (there, P's) fallback is a capacity in [CLAIM-605](CLAIM-605.md)'s model,
+eroded by substitutive supply, and the split is [CASE-264](../cases.d/CASE-264.md)'s arm A. The
+half-unit property holds at every step of the decay (checked), and the
+share falls from 6.000 to 4.199 over six time units while P never exits.
+So the claim's "changes the terms others offer" runs in both directions:
+a reserve kept raises the terms, and one that the arrangement's own
+supply lets decay lowers them, unnoticed by any measure of use. Past
+[CLAIM-605](CLAIM-605.md)'s deadline ending the supply no longer restores the reserve, so
+the claim's warning about "optimizing away capacity that ordinary
+operation never exercises" has a timing in that model. The script and its
+output of 2026-11-25 are under
+scratch/manuscripts/governance-of-becoming/analysis/. The computation is
+the assistant's, run by its filer only; no change of status. The wording
+is the assistant's (Claude, in this session).
+
+**Correction of 2026-11-25 (the review of Part III, Part B).** "So the
+claim's 'changes the terms others offer' runs in both directions"
+overstates what is new. This claim's own body already holds the reverse:
+"A24 §4's model shows the reverse", specialization lowering B's
+independent capacity and moving the split to 14.75 to 11.25 in A's
+favour, as comparative statics. What [CLAIM-tmp6nzs1](CLAIM-tmp6nzs1.md) adds is that
+reverse in time, with a deadline: the fallback decays under the
+arrangement's own supply, the terms fall at each renegotiation, and
+ending the supply restores them only before [CLAIM-605](CLAIM-605.md)'s deadline. Read
+the sentence as "the A24 §4 reverse, now in time, with a deadline".
+Since this note, [CLAIM-tmp6nzs1](CLAIM-tmp6nzs1.md) has been revised (version 2) and
+rechecked by the review's reader from separate code. No change of
+status. The wording is the assistant's (Claude, in this session);
+adopting it is the owner's call.

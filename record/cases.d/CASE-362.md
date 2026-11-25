@@ -1,10 +1,10 @@
 ---
 number: 362
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpez9id
 title: 'Five simulated populations trained on one structured schema, independent, socially trained then separated, conforming, enforcing by referee, and checking disagreements against the world, each with and without a collective vote: a criterion of shared perspective stated in advance finds none of them sharing one, since unperturbed members take up under three per cent of a deviation some members carry; the evidential condition orders the populations as predicted below its stated size, and the restorative condition is passed by plain conformity'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -14,6 +14,21 @@ history:
     and the study's thresholds and predictions were committed before
     any code (commit 5d1f1b83f). Model, tests, scripts, results and a
     README are under scratch/studies/lead-087/.
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Promoted to Active under the owner's delegation of 2026-11-24
+    ("handle the fixes for the twelve ... use your best judgement"),
+    as the status pass of 2026-11-24 and the reruns of 2026-11-25
+    applied it to independently recomputed demonstrated claims and
+    executed studies, in the recomputation pass of 2026-11-25
+    (LEAD-tmpc0rqa). Rerun by a session other than the filer's from a
+    copy of scratch/studies/lead-087/: results.jsonl, summary.txt,
+    diagnostics.jsonl and summary_diag.txt are byte for byte the
+    stored ones, and the 6 tests pass; every figure in the body was
+    compared and matches, the paired contrast 0.021 [0.015, 0.028]
+    recomputed from the results. An executed study, with no premise of
+    its own; nothing targets it.
 standing: documented
 kind: executed-study
 tags:
@@ -205,3 +220,7 @@ rescored here.
 `python3 -I summarize.py`; the post-hoc variants with `diagnostics.py`
 and `summarize_diag.py`; tests with `python3 -I -m pytest test_model.py`.
 About a minute on one core.
+
+## Note of 2026-11-25: rerun by a session other than the filer's
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). From a copy of `scratch/studies/lead-087/` in the session's scratch space, with its results and summaries set aside: `study.py 20`, `summarize.py`, `diagnostics.py 20` and `summarize_diag.py`, run with python3 -I. The 6 tests pass. `results.jsonl`, `summary.txt`, `diagnostics.jsonl` and `summary_diag.txt` are byte for byte the stored ones. Every figure above was compared and matches: the results table row by row (concordance 0.985 to 0.989, agreement about 96 %, margin 0.545 to 0.549; spillover, recovery, σ with its intervals, ρ and agency); the paired contrast of σ, evidential against conformity, 0.021 [0.015, 0.028], and enforcement against conformity 0.002 [−0.002, 0.006], both recomputed here from the per-seed results with summarize.py's interval; and the post-hoc settings (spillover under 0.03 throughout, evidential σ 0.013 to 0.037 and ahead of conformity's in every setting, conformity's ρ 0.024 to 0.034). Nothing failed to reproduce. Promoted in the same pass (history, version 2). The note is the assistant's (Claude, in this session).

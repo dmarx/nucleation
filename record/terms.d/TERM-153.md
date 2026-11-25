@@ -105,6 +105,16 @@ proof-to-realizer translation behind soundness. The proof-relevant pair
 (x, p) the definition cites comes from typed realizability and type
 theory, not Kleene 1945. No edge; no status changes.
 
+## Note of 2026-11-22: Kolmogorov, read
+<!-- inactive-ok-block: THEORY-tmpdsft8 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
+
+Kolmogorov 1932 ([THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md), read in [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md)): a parallel, no edge. Logical
+and mathematical problems have "die spezielle Eigenschaft der
+Allgemeingültigkeit ihrer Lösungen" (p. 61): a solution can be presented
+so that it must be recognized as correct by any able hearer. That is what a
+certificate is for, but Kolmogorov makes it a property of the domain, of "einigermaßen idealen Charakter",
+not a record kept with the solution. Unchanged.
+
 ## Note of 2026-11-25: Martin-Löf, read
 <!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpneexr CLAIM-tmp01pyt — Proposed or Skimmed; filed for LEAD-215 -->
 

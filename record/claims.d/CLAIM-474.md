@@ -157,7 +157,6 @@ summary: >-
   owner delegated, and returned to CLAIM under its own code on 2026-11-08
   (ADR-084).
 ---
-<!-- inactive-ok-file: CASE-333 — filed from LEAD-098's run of 2026-11-22, new -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-157 THEORY-1351 — Proposed; components and a corroborating reading, cited with their standing -->
 <!-- inactive-ok-file: ADR-077 — Proposed; the audit, the review and the decision that moved this entry -->
 <!-- ref::uses-file: TERM-090 — "Effective constraint without a new law", composition yielding "boundary constraints that no part has", is TERM-090's effective boundary constraint -->

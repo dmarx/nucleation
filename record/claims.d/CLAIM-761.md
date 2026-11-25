@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpqpd2p
 title: 'A stabilized constraint can be stored work: by replacing later work with cheaper operations it changes which activities are realizable within a fixed per-task budget, so amortization becomes capability expansion without any added degrees of freedom or resources; the expansion is conditional on the costs of constructing, keeping, retrieving, verifying and revising the constraint and on the distribution of later demands, and the persistence that buys it can entrench'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-20'
@@ -40,6 +40,12 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 3 abstract, §1 (ADR-tmpenzcn). No
     change of title or status.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 05. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -67,6 +73,7 @@ line:
 - realizability
 - learned-structure
 works:
+- atlas
 - governance-of-possibility
 - cost-structure-of-possibility
 - governance-of-becoming

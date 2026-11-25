@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpk5av7
 title: 'Viability does not establish what ought to persist'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-11'
@@ -27,6 +27,12 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Programme (four distinctions), Article 1 §6
     (ADR-tmpenzcn). No change of title or status.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 11. No other
+    change.
 role: disclaimed
 warrant: interpretive
 tags:
@@ -36,6 +42,7 @@ date: '2026-10-04'
 line:
 - organizational-normativity
 works:
+- atlas
 - governance-of-possibility
 - organization-of-will
 - governance-of-becoming

@@ -94,3 +94,16 @@ What it would test:
 
 <!-- inactive-ok-block: CLAIM-700 CLAIM-tmpyp0ju — Proposed or new; the executed studies and claims this note checks the lead against, and the owner's thesis it answers -->
 Much of what the lead says it needs first is held. A capacity dynamics: [CLAIM-602](../claims.d/CLAIM-602.md) and [CLAIM-675](../claims.d/CLAIM-675.md) (Active, demonstrated; capacity learned by doing and lost to supply that does the work first) and [CASE-343](../cases.d/CASE-343.md)'s decay and rebuilding under funding. Matched-behaviour designs with a perturbation schedule fixed in advance: [CASE-161](../cases.d/CASE-161.md) and [CASE-412](../cases.d/CASE-412.md). A22's control, "genuine accommodation against suppression of conflicting demands": [CASE-397](../cases.d/CASE-397.md) (excision scores perfectly on two scorecards of three). The unaccounted-subsidy regime: [CLAIM-700](../claims.d/CLAIM-700.md), argued, not run. What is not held is the lead's centre, implicit contracts forming endogenously among agents and then governing them, which A51 §7 lists as open. Reframe the lead around that, built from the held capacity dynamics, not a new one. The owner's U32 holds that the series' proposed experiments are "largely already satisfied by prior work" ([CLAIM-tmpyp0ju](../claims.d/CLAIM-tmpyp0ju.md)). The note is the assistant's (Claude, in this session); whether to narrow, lower or close the lead is the owner's call. No status change.
+
+## Note of 2026-11-25: one directed edge of the environment, from the manuscript governance-of-becoming
+
+The manuscript's Article 3 (G3.5) and Article 4 (G4.3, last item) find one
+gap with two numbers: A32 §6's directed tolerances and grant conditions
+that "evolve through the history of interaction", which [CLAIM-552](../claims.d/CLAIM-552.md)'s note of
+2026-11-24 records as proposed and not constructed (the audit of what was left out (2026-11-25), B2). That is one
+directed edge of the environment this lead asks for, in which implicit
+contracts form without "pre-specifying who owes what to whom". It is held
+as [LEAD-tmpobng3](LEAD-tmpobng3.md), which extends [CASE-421](../cases.d/CASE-421.md)'s forager to learned tolerances
+with a fixed-threshold control. Done first, it would give this lead's
+environment one component whose terms are learned and not supplied. No
+change of status or stage. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

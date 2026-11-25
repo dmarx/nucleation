@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpalzo4
 title: 'Inquiry is a form of specification: a question fixes which differences would count as an answer, an inquiry adds the operations that make those differences accessible, and what it finds can stabilize into a specification that constrains later inquiry; so inquiry stands to its findings as a specification to its realizations, with one difference, that an inquiry can revise what an answer could be'
-version: 6
+version: 9
 history:
 - version: 2
   date: '2026-10-29'
@@ -57,6 +57,25 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 5 abstract, §5 (ADR-tmpenzcn). No
     change of title or status.
+- version: 7
+  date: '2026-11-25'
+  note: >-
+    Gains the line learning-and-inquiry (atlas scope 01) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
+- version: 8
+  date: '2026-11-25'
+  note: >-
+    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    A45 in the exchange "Hyper article interpretation" states its
+    proposition or uses it as a step, in §1. No other change.
+- version: 9
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 01, section V.
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -77,7 +96,10 @@ tags:
 date: '2026-10-27'
 line:
 - record-as-apparatus
+- learning-and-inquiry
 works:
+- atlas
+- conditions-of-correction
 - governance-of-becoming
 complements:
 - CLAIM-476
@@ -271,6 +293,23 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Bao et al.** ([THEORY-1785](../theory.d/THEORY-1785.md)): The Discussion's claim that novelty, feasibility and probability are "functions of an evolving disciplinary horizon" is the authors' view, consistent with CLAIM-470; not evidence for it.
 
 The claim is unchanged.
+
+## Note of 2026-11-22: Kolmogorov, read
+<!-- inactive-ok-block: THEORY-tmpdsft8 ARG-tmp6sdu6 CLAIM-949 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
+
+Kolmogorov 1932 ([THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md), read in [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md)): a parallel and a contrast, cited
+as neither ground nor corroboration. **Parallel**: a problem, like this
+claim's question, asserts nothing and fixes what would count as solving it;
+and "Um ganz präzis zu sein, sollte man natürlich bei der Formulierung
+dieser Aufgabe die erlaubten Konstruktionsmittel angeben" (p. 59, n. 2),
+which puts in the problem what this claim and [TERM-095](../terms.d/TERM-095.md) put in the inquiry.
+**Contrast**: the problem of finding an element "hat wirklich einen
+bestimmten, von dem Zustand unserer Kenntnisse unabhängigen Sinn" (p. 65),
+and a problem whose supposition is impossible counts as solved by the proof
+of that (p. 59). The calculus has no counterpart of the last clause: where
+the bifurcation example replaces a question with no adequate answer,
+Kolmogorov closes the case as a solution. Weighed for [CLAIM-949](CLAIM-949.md) in
+[ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md). The claim is unchanged.
 
 ## Note of 2026-11-25: Martin-Löf, read
 <!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmppv3b8 CLAIM-949 — Proposed or Skimmed; filed for LEAD-215 -->

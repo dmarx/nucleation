@@ -1,10 +1,25 @@
 ---
 number: 30
-status: Open
+status: Done
 formerly:
 - LEAD-tmp3983g
 title: 'Run the laboratory of genres, which separates classes inferred, classes used and classes that reshape preferences'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Done, at the owner's go-ahead of 2026-11-25 ("go ahead with the
+    reruns"), whose brief for the recomputation pass of LEAD-tmpc0rqa
+    took in closing the leads whose runs are recorded and meet their
+    own "What would count", as housekeeping and not a change of
+    credence. Its run, CASE-367, was rerun on 2026-11-25 by a session
+    other than the filer's and reproduces exactly; what would count is
+    met: in that model the classes reshape preferences only when used
+    (the random-exposure gap 0.35 to 0.36 used over fixed preferences,
+    0.48 used with adaptation, 0.23 adapting without use). The items
+    under "What remains" are further work, not this lead's test. The
+    stage is left as it stood.
 stage: specified
 priority: medium
 method:
@@ -64,3 +79,7 @@ registered use, not reshaping, and favoured the exposure-made clusters.
 What remains: re-inference of the classes during the run, the choice of
 K, A27 §5's self-supervised arm, a longer run of the creation outcome,
 and any run on real engagement data, which this lead does not reach.
+
+## Note of 2026-11-25: closed
+
+Closed as Done in the recomputation pass of [LEAD-tmpc0rqa](LEAD-tmpc0rqa.md) (history, version 2). [CASE-367](../cases.d/CASE-367.md) was regenerated from nothing by a session other than the filer's: all 40 runs identical but timings, `results.md` byte for byte. What would count, classes that reshape preferences only when used, is what the run found, and it reproduces. [CASE-367](../cases.d/CASE-367.md) itself stays Proposed for one misstated sentence about the closure defect (its note of this date), which does not touch this lead's test. The remaining items (re-inference during the run, the choice of K, A27 §5's self-supervised arm, a longer creation run, real data) are open for a new lead if wanted. The note is the assistant's (Claude, in this session).

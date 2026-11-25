@@ -165,7 +165,6 @@ works:
 - governance-of-possibility
 - governance-of-becoming
 ---
-<!-- inactive-ok-file: CLAIM-1021 — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
 <!-- inactive-ok-file: LIT-2453 — Unfetched; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-244 CLAIM-656 CLAIM-660 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; open claims and readings this claim rests on or cites, and it is Proposed with them -->

@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CLAIM-tmpgnnj0
 title: 'Precedence, jurisdiction and suspension can vary independently'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 08. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -16,6 +23,7 @@ tags:
 date: '2026-10-04'
 line: will-organization
 works:
+- atlas
 - organization-of-will
 uses:
 - TERM-017

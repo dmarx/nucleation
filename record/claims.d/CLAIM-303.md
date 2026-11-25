@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpygqjz
 title: 'Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and where reuse can be forecast, recurrence is evidence of reuse, not the criterion'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-18'
@@ -55,6 +55,12 @@ history:
     owner's manuscript from the exchange "Topological protection
     explained": A43 §3.1 states its proposition in general form, with
     §3.3 the costs of keeping. No other change.
+- version: 6
+  date: '2026-11-25'
+  note: >-
+    Joins the work luria-beyond-software (ADR-tmp85hdc): Article 2 of A45
+    in the exchange "Hyper article interpretation" states its proposition
+    without citing it, in §7. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -69,6 +75,7 @@ tags:
 date: '2026-10-15'
 line: nucleating-argument
 works:
+- luria-beyond-software
 - cost-structure-of-possibility
 answers:
 - QUESTION-489

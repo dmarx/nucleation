@@ -1,10 +1,10 @@
 ---
 number: 333
-status: Proposed
+status: Active
 formerly:
 - CASE-tmp69rk8
 title: 'A simulated network of eight coupled oscillators carrying correspondence maps: a shared drive and coupling give the same phase locking and gluing, but displacing the drive for one member moves the others by 0.2 per cent of its shift without coupling and by 30 to 58 per cent with it; compatibility, attraction, persistence after the drive is withdrawn and revision that predicts interventions come apart across arms'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -13,6 +13,20 @@ history:
     run of CASE-179's design, with A12's three arms and QUESTION-063's
     two interventions. Scripts, tests and results are committed under
     scratch/studies/lead-098/.
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Promoted to Active under the owner's delegation of 2026-11-24
+    ("handle the fixes for the twelve ... use your best judgement"),
+    as the status pass of 2026-11-24 and the reruns of 2026-11-25
+    applied it to independently recomputed demonstrated claims and
+    executed studies, in the recomputation pass of 2026-11-25
+    (LEAD-tmpc0rqa). Rerun by a session other than the filer's from a
+    copy of scratch/studies/lead-098/ with its results file set aside:
+    every item of results.jsonl agrees with the stored one in every
+    field but the timings, and the 8 tests pass; every figure quoted
+    in the body was compared and matches. An executed study, with no
+    premise of its own; nothing targets it.
 standing: documented
 kind: executed-study
 tags:
@@ -55,7 +69,6 @@ summary: >-
   run once per setting.
 ---
 <!-- inactive-ok-file: CASE-225 — Proposed; the claim and construction this study tests, and the argument that names it -->
-<!-- inactive-ok-file: CLAIM-903 — filed from this study, new -->
 
 # CASE-333: A simulated network of eight coupled oscillators carrying correspondence maps: a shared drive and coupling give the same phase locking and gluing, but displacing the drive for one member moves the others by 0.2 per cent of its shift without coupling and by 30 to 58 per cent with it; compatibility, attraction, persistence after the drive is withdrawn and revision that predicts interventions come apart across arms
 
@@ -297,3 +310,7 @@ resource limits.
 
 The wording is the assistant's (Claude, in this session); adopting it is
 the owner's call.
+
+## Note of 2026-11-25: rerun by a session other than the filer's
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). From a copy of `scratch/studies/lead-098/` in the session's scratch space, with `results.jsonl` set aside, run with python3 -I (scipy 1.18.1 and numpy 2.5.3 in a virtual environment of the session's scratch space; scipy was not installed on the system). The 8 tests pass. All 347 items the runner writes now agree with the stored ones in every field but `secs`; the stored file also keeps the 300 superseded `sheaf:` lines of the first pass, which the runner no longer writes. Every figure above was compared and matches, among them: phase-locking values 0.9985 and 0.9996; holonomy 3 × 10⁻⁵ and 4 × 10⁻⁶; the displaced drive followed by 0.002, 0.30 and 0.58, with others' mean shifts 0.003, 0.12 and 0.13; kicks reaching the others at 0.010, 0.12, 0.14 and 0.14; withdrawal orders 0.996 and 0.47, amplitudes 0.70, 0.002, 0.71 and 0.003; the suppression arm's 0.33, 0.001 and 0.996; μ ≈ 1.06, 0.75, −0.2 and 0.86; fitted gains 0.068, 0.356, −0.001 and 0.272; the revision errors (1.06, 1.42, 1.81, 0.25 unrevised; 0.80, 1.41, 1.81, 0.25 by consistency; 0.34, 0.17, 0.14 checked, the last candidate rejected); the holonomy table's residuals 0.007, 0.027, 0.063, 0.41 and 0, and the gauge pair 0.06299 against 0.06300; the sheaves' 1/1, 2/3 and 3/3 in 100 of 100. Nothing failed to reproduce. Promoted in the same pass (history, version 2). The note is the assistant's (Claude, in this session).

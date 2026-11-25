@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpwln61
 title: 'A transition with a barrier: on configurations [0, 1] with a holding requirement r(q) = 0.7 + 2.4q(1 − q), both ends cost 0.7, every path between them passes 1.3 at q = 1/2, and at a budget of 1.0 the feasible set falls into two components, each end feasible and neither reachable from the other'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -26,6 +26,13 @@ history:
     ADR-096, under which the case was filed, stays Proposed; the case's
     status is credence in the construction, not in that decision.
     Standing fictional is kept. The text is unchanged.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Gains the line governing-possibility (atlas scope 14) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 standing: fictional
 kind: construction
 tags:
@@ -35,6 +42,7 @@ date: '2026-11-12'
 line:
 - realizability
 - readiness
+- governing-possibility
 summary: >-
   [CLAIM-571](../claims.d/CLAIM-571.md)'s own construction, A's example from the pasted synthesis on
   resource-bounded realizability, checked there by the claim's filer and

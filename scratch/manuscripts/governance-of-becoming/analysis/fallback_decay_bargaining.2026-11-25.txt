@@ -1,0 +1,43 @@
+Fallback decay and the Nash split (illustrative parameters; the assistant's computation)
+CLAIM-605 threshold 0.2764, kept state 0.70, deadline 3.10; S = 10, o_R = 2, w = 4, r = 0.25
+
+1. Full substitution, CLAIM-605's model. t, C(t), o_P(t), P's Nash share; myopic o_P and share
+   t =  0.0  C = 0.700  o_P = 4.000  u_P = 6.000   | myopic o_P = 4.000  u_P = 6.000
+   t =  0.5  C = 0.602  o_P = 3.917  u_P = 5.959   | myopic o_P = 3.615  u_P = 5.807
+   t =  1.0  C = 0.519  o_P = 3.675  u_P = 5.838   | myopic o_P = 3.111  u_P = 5.556
+   t =  1.5  C = 0.446  o_P = 3.354  u_P = 5.677   | myopic o_P = 2.678  u_P = 5.339
+   t =  2.0  C = 0.384  o_P = 2.954  u_P = 5.477   | myopic o_P = 2.305  u_P = 5.153
+   t =  2.5  C = 0.331  o_P = 2.457  u_P = 5.229   | myopic o_P = 1.984  u_P = 4.992
+   t =  3.0  C = 0.285  o_P = 1.817  u_P = 4.908   | myopic o_P = 1.708  u_P = 4.854
+   t =  3.5  C = 0.245  o_P = 1.242  u_P = 4.621   | myopic o_P = 1.470  u_P = 4.735
+   t =  4.0  C = 0.211  o_P = 0.942  u_P = 4.471   | myopic o_P = 1.265  u_P = 4.633
+   t =  4.5  C = 0.181  o_P = 0.741  u_P = 4.370   | myopic o_P = 1.089  u_P = 4.544
+   t =  5.0  C = 0.156  o_P = 0.594  u_P = 4.297   | myopic o_P = 0.937  u_P = 4.469
+   t =  5.5  C = 0.134  o_P = 0.484  u_P = 4.242   | myopic o_P = 0.807  u_P = 4.403
+   t =  6.0  C = 0.116  o_P = 0.399  u_P = 4.199   | myopic o_P = 0.694  u_P = 4.347
+   steepest fall per 0.05 at t = 3.075 (deadline 3.098): 0.042
+   u_P: 6.000 at t = 0, 5.172 at 2.6, 4.585 at 3.6, 4.199 at 6; 33 % of the fall by t = 6 lies in [2.6, 3.6]
+   forward-looking o_P exceeds current-output o_P until t in (3.05, 3.1), and is below it after
+   the current-output valuation falls fastest at t = 0.225 (0.029 per 0.05), not at the deadline
+
+2. Supply ended at T; P's fallback after 20 further units with no support
+   T = 2.0: C = 0.700, o_P = 4.000, u_P = 6.000
+   T = 3.0: C = 0.602, o_P = 3.916, u_P = 5.958
+   T = 3.5: C = 0.015, o_P = 0.041, u_P = 4.021
+   T = 5.0: C = 0.001, o_P = 0.003, u_P = 4.002
+
+3. Controls
+   3a capacity-first support: u_P stays 6.000 for t in [0, 6]
+   3b substitution at A = 0.5 (below a* = 0.585): C settles at 0.400, o_P = 3.070, u_P = 5.535; largest fall per 0.5 = 0.033
+   3c CLAIM-602's model, full substitution: u_P 6.000 -> 5.547 over [0, 6]; largest fall per 0.05 = 0.005 (CLAIM-605's model: 0.042)
+   3d CASE-264 arm B (no exit; by construction): u_P = 1 at every t; the fallback's decay changes nothing
+   3e take-it-or-leave-it with exit: u_P = o_P, 4.000 -> 0.399; Nash 6.000 -> 4.199
+
+4. Discount rate r: where the fall is steepest, and how much of it lies within 0.5 of the deadline
+   r = 0.02: u_P 6.000 -> 4.038; steepest at t = 3.075, 1.008 per 0.05; 85 % of the fall by t = 6 in [2.6, 3.6]
+   r = 0.05: u_P 6.000 -> 4.070; steepest at t = 3.075, 0.587 per 0.05; 73 % of the fall by t = 6 in [2.6, 3.6]
+   r = 0.10: u_P 6.000 -> 4.117; steepest at t = 3.075, 0.236 per 0.05; 56 % of the fall by t = 6 in [2.6, 3.6]
+   r = 0.25: u_P 6.000 -> 4.199; steepest at t = 3.075, 0.042 per 0.05; 33 % of the fall by t = 6 in [2.6, 3.6]
+   r = 0.50: u_P 6.000 -> 4.258; steepest at t = 2.275, 0.023 per 0.05; 22 % of the fall by t = 6 in [2.6, 3.6]
+
+checks pass

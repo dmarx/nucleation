@@ -155,3 +155,107 @@ it concerns exist, and which they are, is not part of it.
   refusal overridden) but cannot certify it.
 - Not that all rights are of this kind. A claim-right to a delivery is an
   outcome requirement and fits an acceptance set.
+
+## Note of 2026-11-25: defeated standing, from the manuscript governance-of-becoming, Article 8
+<!-- inactive-ok-file: CLAIM-723 CLAIM-1155 CLAIM-1184 ARG-228 — Proposed; the held form of the wrong of defeated standing, the objection to it, its reply, and this claim's construction, cited with their standing -->
+
+The manuscript's Article 8 (§8.4.4, join J8.1) joins this claim to
+defeated standing, which no entry had done: none of [CLAIM-723](CLAIM-723.md), [CLAIM-1155](CLAIM-1155.md)
+or [ARG-228](../arguments.d/ARG-228.md) cites it. The link, in its limited form:
+
+- This claim's defeater counts "a right of refusal (or of appeal, or an
+  easement)" among the rights it covers. Standing to contest an act is of
+  that kind: it protects a choice, to object, not an outcome.
+- In [CLAIM-723](CLAIM-723.md)'s case where "the objection would have failed", and in
+  [ARG-228](../arguments.d/ARG-228.md)'s matched utilities, the arrangement that respects the standing
+  and the one that defeats it reach the same realized outcome. By this
+  claim's second separation, an evaluation over realized histories
+  "cannot represent" the difference.
+- So [CLAIM-723](CLAIM-723.md)'s "even where the objection would have failed" is what a
+  policy-level right looks like when the outcome is fixed, not a paradox.
+
+The join stops there. This claim is about representation, what an
+evaluation over histories can see. It does not say that failing a
+policy-level constraint wrongs anyone beyond expected harm: an
+instrumentalist can accept it and still judge policies by the harm they
+are expected to cause, which is [CLAIM-1184](CLAIM-1184.md)'s second premise. So the
+policy test explains why a defeat of standing is invisible in outcomes,
+not why it is a wrong. Whether it is one stays with [CLAIM-723](CLAIM-723.md),
+[CLAIM-1155](CLAIM-1155.md) and the owner's ruling on [CLAIM-1184](CLAIM-1184.md). The join has not yet
+been put to an independent reader under [ADR-075](../decisions.d/ADR-075.md).
+
+<!-- inactive-ok-file: CLAIM-745 SYNTHESIS-102 — Proposed; the categorical gate and the account whose Arm B declined its join with this claim, cited as precedent -->
+
+**Correction of 2026-11-25 (the review of Part III, Part B).** The
+second bullet above is wrong. The review's independent reader of the
+joins tested J8.1 under [ADR-075](../decisions.d/ADR-075.md) and found that it misstates this claim.
+[CLAIM-723](CLAIM-723.md)'s defeat is "Foreclosure", T_foreclosure < T_opportunity: the
+act made the standing ineffective "before it could be exercised", which
+is an event in the realized history. Where "the objection would have
+failed", the arrangement that respects the standing and the one that
+defeats it reach the same endpoint by different histories, the objection
+heard and refused in one and foreclosed in the other. [ARG-228](../arguments.d/ARG-228.md) is the
+same: in O₂ "the objection arrives and is filed as a non-incident", which
+is again in the history. That is this claim's *first*
+separation, between endpoint and history, which an evaluation of
+histories can represent (a standard over histories, [CLAIM-523](CLAIM-523.md)'s 𝓗_N,
+can require that no act be made irreversible before an objection can take
+effect), not its second. The policy level is
+reached only on a history in which no objection is made, where the two
+arrangements differ only in what they would have done with one. The
+corrected sentence:
+
+> Where the objection would have failed, respecting and defeating a
+> standing to contest reach the same endpoint by different histories
+> (CLAIM-741's first separation), so an evaluation of endpoints cannot
+> represent the defeat and one of histories can; only where no objection
+> is made does the difference lie in policy alone (its second
+> separation).
+
+The third bullet follows it: [CLAIM-723](CLAIM-723.md)'s "even where the objection would
+have failed" is what a constraint on histories looks like when the
+endpoint is fixed, and a policy-level constraint only on the history with
+no objection. The link applies this claim to [CLAIM-723](CLAIM-723.md) and adds no
+inference. [SYNTHESIS-102](../syntheses.d/SYNTHESIS-102.md)'s Arm B is the precedent: it tested [CLAIM-745](CLAIM-745.md)
+with this claim (a categorical gate failing a right "at the level of
+policy") and did not file it, as "a substitution instance of CLAIM-741's
+second separation in [CLAIM-745](CLAIM-745.md)'s model, an inference CLAIM-741 already
+holds". The paragraph after the bullets stands: the claim explains why a
+defeat of standing is invisible to an evaluation of endpoints, not why it
+is a wrong. (The review's Part A, §1.3, numbers the two separations in
+the order of this claim's title; the body numbers them as here, and Part
+B follows the body.) No change of status. The wording is the assistant's
+(Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-25: what holds it back
+<!-- inactive-ok-file: CLAIM-735 CLAIM-908 CLAIM-tmp9xge5 — Proposed or new; entries that use this claim, cited as evidence of reliance -->
+
+A note for the targeted promotion review (write-manuscript step 6a), from
+the same draft.
+
+- **No premise.** It rests on no claim. Its only ground is [CASE-283](../cases.d/CASE-283.md)
+  (Proposed, construction, stipulated), whose "Checked" section is its
+  filer's.
+- **No objection.** No claim objects to it and no ARG concludes or
+  undercuts it; the record has not tested it dialectically.
+- **Checked only by its filer.** No history note, case or fact-check
+  records a second session rechecking the two constructions, as the
+  promotions delegated on 2026-11-24 for independently recomputed
+  demonstrated claims require.
+- **Its defeater is open, and narrow.** It asks for a history-only
+  representation that separates the two patient arrangements on the
+  consenting history, which the construction rules out, or an argument
+  that such rights protect only outcomes. No such argument is on the
+  record.
+
+What would clear it: a recheck of [CASE-283](../cases.d/CASE-283.md) by another session, and an
+objection filed and answered (the outcome-only reading of rights of
+refusal is the natural one). Several entries use it ([CLAIM-725](CLAIM-725.md),
+[CLAIM-735](CLAIM-735.md), [CLAIM-908](CLAIM-908.md), [CLAIM-571](CLAIM-571.md)'s note, [CLAIM-tmp9xge5](CLAIM-tmp9xge5.md)), so its use is
+evidence of reliance, not of truth. A candidate for promotion, not a
+promotion: that is the owner's call. The wording is the assistant's
+(Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-25: rerun of the constructions, and what still holds it back
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). The filer's check of [CASE-283](../cases.d/CASE-283.md) was not kept, so both separations were rebuilt from this entry and the case as `scratch/formal/patient_arrangements_check.py` (standard library), run with python3 -I. With π_A(c) = c, π_B(c) = 1 and the right of refusal Resp(1) = {treat, refrain}, Resp(0) = {refrain}: both give (1, 1) on the consenting history; A meets the test for both protected exercises and B fails it at c = 0; every one of the 16 verdict functions of the realized history (c, a) gives A and B the same verdict on the consenting occasion; and two histories to one endpoint, one through an authorization and one not, agree under every endpoint test and differ under a history test. A negative control, an evaluation of the policy's response to both choices, separates A and B. Everything reproduces. This is the second-session recheck the note of 2026-11-25 above asks for. What still holds it back: [ADR-057](../decisions.d/ADR-057.md)'s first criterion, its ground [CASE-283](../cases.d/CASE-283.md) being a Proposed construction; and the untested objection that note names (the outcome-only reading of rights of refusal), which is for the owner or a filed counter. The note is the assistant's (Claude, in this session). No status change.

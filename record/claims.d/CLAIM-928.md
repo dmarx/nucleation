@@ -55,7 +55,7 @@ summary: >-
   in 2. The wording is the assistant's (Claude, in this session); adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-348 CASE-332 CASE-255 CLAIM-901 — new or Proposed; the run this claim is drawn from, the run it builds on, the design it runs, and that run's claim -->
+<!-- inactive-ok-file: CASE-348 CASE-255 CLAIM-901 — new or Proposed; the run this claim is drawn from, the run it builds on, the design it runs, and that run's claim -->
 <!-- ref::uses-file: TERM-089 — the improver's suite and canary are apparatus in TERM-089's sense, which differentiates and revises, and the claim separates its revising from its keeping its own checks -->
 
 # CLAIM-928: In a simulation of a collective that improves its own improver, a later improver does better than an earlier one from the same starting state at the same budget through procedures that consult its record, not through the record alone; a test of the improver's products does not see it shed its own checks; and when those checks are damaged, a record of what past moves cost keeps verification that an improver blind to it loses

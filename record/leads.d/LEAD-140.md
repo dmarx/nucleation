@@ -26,7 +26,7 @@ summary: >-
   The study [QUESTION-457](../questions.d/QUESTION-457.md) names as its answer. Named in [QUESTION-457](../questions.d/QUESTION-457.md) and
   [QUESTION-388](../questions.d/QUESTION-388.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-348 CLAIM-928 CASE-332 — new or Proposed; LEAD-140's run and claim, and the run it builds on, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-348 CLAIM-928 — new or Proposed; LEAD-140's run and claim, and the run it builds on, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CASE-255 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-140: Compare an earlier and a later improver of a record-keeping collective from the same fresh state at the same budget, then damage its diagnostic machinery

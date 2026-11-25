@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpek80j
 title: 'For report fidelity, fidelity is relative to the communicative decisions receivers make, and Blackwell''s order on rendering procedures, over a designed distribution of situations, makes precise the ceiling a rendering sets on those decisions'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-10'
@@ -54,6 +54,12 @@ history:
   note: >-
     CLAIM-488 was promoted at the twenty-first status review (ADR-057), so
     the body's "are CLAIM-488, Proposed" now reads Active. No other change.
+- version: 7
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 07. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -70,6 +76,7 @@ tags:
 date: '2026-10-09'
 line: pragmatic-transport
 works:
+- atlas
 - what-survives-translation
 grounds:
 - THEORY-1096

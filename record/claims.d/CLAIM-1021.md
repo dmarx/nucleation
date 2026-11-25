@@ -1,10 +1,10 @@
 ---
 number: 1021
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp42aba
 title: 'If an evaluated party''s resources scale how strongly the evaluator''s conferral answers agreement, rather than tilting it toward one side, they enter the two-institution meaning–influence model only beyond first order at the symmetric state: they leave the linear symmetry-breaking condition unchanged, yet they capture the evaluator''s reading below that condition from a large enough push, toward the side the resources favour only, even when the evaluator''s evidence is independent of the party'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -12,6 +12,23 @@ history:
     Filed 2026-11-22 by the assistant, carrying out LEAD-015, from the
     executed study CASE-401, as the alternative reading of resources
     to CLAIM-1202's.
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Promoted to Active under the owner's delegation of 2026-11-24
+    ("handle the fixes for the twelve ... use your best judgement"),
+    as the status pass of 2026-11-24 and the reruns of 2026-11-25
+    applied it to independently recomputed demonstrated claims and
+    executed studies, in the recomputation pass of 2026-11-25
+    (LEAD-tmpc0rqa). Rerun by a session other than the filer's from
+    copies of scratch/studies/lead-015/ and lead-090/: e1, e2, e3 and
+    e5 are byte for byte the stored results and e4 differs only in
+    timings; the 14 tests pass; every figure in the claim matches.
+    ADR-057: its premise CLAIM-1000 and its ground CASE-401 are
+    Active; no objection targets it; nothing meets its defeated_if. It
+    is filed as the alternative reading to CLAIM-1202, Active since
+    2026-11-24; both are true of their models, and which reading
+    CLAIM-404's "resources" means stays the owner's call.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -74,3 +91,7 @@ The two are not rival results: each is true of its model. They differ in what [C
 - Where the captured states below threshold begin; no basin boundary was mapped.
 - That capacity is how resources work in any institution.
 - Anything about a capacity channel into the party.
+
+## Note of 2026-11-25: rerun by a session other than the filer's
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). From copies of `scratch/studies/lead-015/` and `lead-090/` (which its model loads by path) in the session's scratch space, with `results/` set aside: the 14 tests pass, and `run.py` regenerates e1, e2, e3 and e5 byte for byte and e4 identical but its `seconds` fields. Every figure above matches e5: the spectral radius 1.0048 at ω = 0, 0.5, 1 and 2; the captured reading 0.385, 0.498, 0.609 and 0.754 on the favoured side; 0.996 and 0.987 below threshold with captures from +0.9 only; and at θ = 0 (0.958) captures from +0.9 at ω = 5, ψ = 2 and ω = 10, ψ = 1 or 2, none from −0.9. Promoted in the same pass (history, version 2); the choice between this reading and [CLAIM-1202](CLAIM-1202.md)'s stays the owner's. The note is the assistant's (Claude, in this session).

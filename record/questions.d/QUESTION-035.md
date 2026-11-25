@@ -36,7 +36,6 @@ summary: >-
   constitutes one system, and makes the target explicit, as
   [CLAIM-152](../claims.d/CLAIM-152.md) requires.
 ---
-<!-- inactive-ok-file: CASE-333 CLAIM-903 — filed from LEAD-098's run of 2026-11-22, new -->
 <!-- inactive-ok-file: CLAIM-659 THEORY-1654 THEORY-1658 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-902 — Unavailable, unread; named as the source of the compensation test -->
 <!-- inactive-ok-file: CLAIM-161 — Proposed; one of the candidate tests, open -->

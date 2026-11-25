@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpj163u
 title: 'A contribution''s admission to an organization''s inquiry, its recognition in apt terms, its credibility, its uptake into judgements, and its contributor''s part in revising the standards of uptake are separable, each possible without the later ones, so an organization can widen access while every channel by which a less authoritative contribution could change the criteria of authority stays closed'
-version: 7
+version: 10
 history:
 - version: 2
   date: '2026-10-21'
@@ -51,6 +51,25 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §4.1. No other change.
+- version: 8
+  date: '2026-11-25'
+  note: >-
+    Gains the line self-correction (atlas scope 10) under ADR-tmpd3ckn:
+    the entry is in that scope's core fiber in the hyperarticle atlas v0.3
+    (scratch/atlas/atlas-v0.3.md), and each atlas scope is documented as a
+    line. No other change.
+- version: 9
+  date: '2026-11-25'
+  note: >-
+    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    A45 in the exchange "Hyper article interpretation" states its
+    proposition or uses it as a step, in §5. No other change.
+- version: 10
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 10. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -68,6 +87,7 @@ tags:
 date: '2026-10-21'
 line:
 - distributed-agency
+- self-correction
 rests_on:
 - CLAIM-349
 grounds:
@@ -84,6 +104,8 @@ summary: >-
 complements:
 - CLAIM-448
 works:
+- atlas
+- conditions-of-correction
 - governance-of-possibility
 ---
 <!-- inactive-ok-file: SYNTHESIS-058 — Proposed; cited in the note of 2026-11-13 with its standing -->

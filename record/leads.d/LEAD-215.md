@@ -152,6 +152,17 @@ not who must fit whom ([ARG-tmpcpo8g](../arguments.d/ARG-tmpcpo8g.md), [CLAIM-tm
 answered by the survey; [LEAD-tmp7mkn0](LEAD-tmp7mkn0.md) plans that reading. The other four
 readings remain.
 
+## Note of 2026-11-22: Kolmogorov, read
+<!-- inactive-ok-block: THEORY-tmpdsft8 ARG-tmp6sdu6 — Proposed; the reading of 2026-11-22 and its argument -->
+
+The first item is done: Kolmogorov 1932 read in full from the GDZ scan
+([LIT-tmpgnf38](../literature.d/LIT-tmpgnf38.md), [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md), [THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md)), and its bearing on [CLAIM-949](../claims.d/CLAIM-949.md)'s question as
+problem argued in [ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md): confirmed in what it asserts, narrowed (a question
+with an answer space is a disjunction of problems; nothing in the calculus
+revises a problem), widened (a problem carries its permitted means), and
+one attribution corrected. The other four readings remain. Status and
+stage unchanged.
+
 ## Note of 2026-11-25: Martin-Löf, read
 <!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpl0sxy ARG-tmpneexr ARG-tmppv3b8 CLAIM-tmp01pyt CLAIM-tmpjs6hp ADR-108 — Proposed or Skimmed; filed from this reading, and the decision on running notes -->
 

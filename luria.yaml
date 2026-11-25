@@ -777,6 +777,30 @@ vocabularies:
           a will is stays with authenticity, what organizes efficacy with will-organization, judging an
           organization with organizational-normativity, and a whole's success against its members' good with
           distributed-agency (ADR-099)
+      organization-of-perspective:
+        label: The organization of perspective
+        blurb: how a perspective is organized, held and changed by an individual or a collective, and how
+          an organization of perspectives keeps or loses its identity; atlas scope 09 (ADR-tmpd3ckn). What an
+          organized whole is stays with distributed-agency
+      self-correction:
+        label: How an organization can know and fail to correct
+        blurb: the separable achievements of recognizing, making legible, acting on and correcting an error,
+          and how the coupling of evidence, evaluation and authority decides whether a system can correct
+          itself; atlas scope 10 (ADR-tmpd3ckn), first named as a candidate line at the synthesis review of
+          2026-11-23
+      governing-possibility:
+        label: Governing possibility
+        blurb: regulation as the governance of which organizations a system can attain, sustain and revise,
+          not only of conduct within one; readiness under matched present performance, and identity
+          stabilization as filtering indexed to the timescales of demands; atlas scope 14 (ADR-tmpd3ckn).
+          The cost structure of what is realizable stays with realizability, slack with readiness
+      scholarly-publishing:
+        label: Scholarly publishing over governed records
+        blurb: what a research record keeps when publishing separates communication, attribution,
+          preservation, assessment and evaluation — articles as views over a maintained record, editorial
+          assessments as attributable judgements, journals as feeds over editors, and what a host does not
+          supply; atlas scope 15 (ADR-tmpd3ckn). What a record of inquiry keeps stays with records-of-inquiry,
+          the record's own machinery with record-as-apparatus
   works:
     label: Works
     blurb: A manuscript the record's claims are marshalled into. Membership says a claim is in the work;
@@ -884,6 +908,40 @@ vocabularies:
           including the capacity to discover and correct them, and constitutional regeneration is its political
           form. Its argument is held mainly in the lines distributed-agency, dependence-and-domination,
           organizational-normativity and will-organization'
+      conditions-of-correction:
+        label: 'Representation, Legibility, Learning, and the Conditions of Correction'
+        blurb: 'Article 1 of three drafted by ChatGPT on 2026-11-25 (A45 of the exchange "Hyper article
+          interpretation", at the owner''s U21), the hyperarticle atlas''s first entry point: the record''s theory
+          of inquiry in the abstract. Inquiry is resource-bounded specification; a representation makes some
+          differences consequential; legibility is relative to a decision; recognizing an error is not
+          correcting it; learning needs more than retention; and inquiry must be able to reconsider its own
+          apparatus. Its argument is held mainly in the lines learning-and-inquiry, records-of-inquiry and
+          self-correction (ADR-tmp85hdc)'
+      luria-beyond-software:
+        label: 'Nucleation as a Case Study in Applying Luria beyond Software Development'
+        blurb: 'Article 2 of A45 of the exchange "Hyper article interpretation" (2026-11-25), the atlas''s
+          second entry point: the record as the operational demonstration of the theory through luria. Why a
+          transcript is not enough, what luria maintains, the grammar Nucleation needed, the graph that
+          invented a dependency, the record''s history of revising its representation, sources against views,
+          and what the added structure costs. Its argument is held mainly in record-as-apparatus and
+          records-of-inquiry, beside the manuscript from-obstruction-to-reorganization (ADR-tmp85hdc)'
+      hyperarticles:
+        label: 'Hyperarticles, Editorial Feeds, and Scientific Publishing over Governed Research Records'
+        blurb: 'Article 3 of A45 of the exchange "Hyper article interpretation" (2026-11-25), the atlas''s
+          third entry point: an article is already a view; a hyperarticle is a versioned view over a
+          maintained record, with the record as a reference implementation; one body of research as many
+          views; a journal as a feed over editors; the publisher need not own the judgement; maintenance in
+          place of publish-or-perish; and provenance for educators. Its argument is held mainly in the line
+          scholarly-publishing (ADR-tmp85hdc)'
+      atlas:
+        label: 'Nucleation Hyperarticle Atlas'
+        blurb: 'the series of hyperarticles the owner asked for in the exchange "Hyper article interpretation"
+          (U25 to U29, 2026-11-25), drafted by ChatGPT as an atlas (A56, revised at A59 and given outlines and
+          core fibers at A65, v0.3, kept verbatim in scratch/atlas/atlas-v0.3.md): fifteen scopes in four
+          regions, from inquiry and its records to publishing the atlas, each a future article, with three
+          entry points (the theory, the implementation, the publication). Its articles that are works keep
+          their own membership; its own members are the claims its prose states. Each scope is a line
+          (ADR-tmpd3ckn); its account, an account over the fifteen lines'' accounts, waits on those (ADR-tmpm72rh)'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 # The pending report's age horizon, at the record's own pace: the default 90
 # could not name a stale document in a record a month old (ADR-057).
@@ -2277,10 +2335,11 @@ schemes:
   SYNTHESIS:
     title: Syntheses
     blurb: >-
-      An account of a scope of the record's own argument, a line or a part of one: every
-      component it puts together, each link between them attributed to the entry that states it,
-      and nothing added. Whatever adds to its components is a CLAIM (the decision making SYNTHESIS an account). Its components
-      keep their own status and voice; the current-account view derives them.
+      A scope of the record's own argument, a line or a part of one, stated as one argument: how
+      its components together answer the scope's question, each cited where it is used, and
+      nothing added. Whatever adds to its components is a CLAIM (ADR-084). A synthesis is an
+      integration, not an inventory: its components keep their own status and voice, which
+      `integrates` and the generated views give, and its body does not restate them (ADR-tmpw306d).
     dir: record/syntheses.d
     output: docs/syntheses
     active: Current

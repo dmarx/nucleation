@@ -26,6 +26,9 @@ rests_on:
 - CLAIM-tmpm76n5
 grounds:
 - CASE-191
+complements:
+- CLAIM-tmpupcws
+- CLAIM-tmpisfi1
 summary: >-
   A join of the manuscript governance-of-becoming (Article 4, J4.1), in the
   corrected form an independent reader gave it on 2026-11-25, which passes
@@ -69,3 +72,19 @@ branch.
   [CLAIM-tmpisfi1](CLAIM-tmpisfi1.md) count it as productive.
 - Not that every misunderstanding is a pair of demands: step 1 is the
   claim's condition.
+
+## Note of 2026-11-25: the complements field added
+
+The manuscript's Article 4 (J4.1) noted that this claim "carries no
+`complements` field" to [CLAIM-tmpupcws](CLAIM-tmpupcws.md) and [CLAIM-tmpisfi1](CLAIM-tmpisfi1.md), which its body
+cites as counting a joint settlement on one reading as productive, and
+left adding it "for the next pass" (the audit of what was left out,
+2026-11-25, B24). The field is added: this claim says when clarifying is
+relief, and the two say when it is productive, which are different parts
+of what a clarification of a misunderstanding does. The title, the
+derivation and the status are unchanged. The wording is the assistant's
+(Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-25: re-derived, and what holds it back
+
+Re-derived on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). No script was kept, so steps 1 to 5 were built into a finite model, `scratch/formal/clarification_relief_check.py` (standard library), run with python3 -I: situations conflated by the expression are a finite set, a joint policy assigns one outcome per cell of the current partition, each reading is a demand (the situations it bears on, the outcomes it accepts), relief is a policy meeting both as declared, and a distinction refines the partition. By exhaustion over up to four situations and three outcomes, 3,976 consequential conflicts: the 896 whose demands bear on disjoint situations are each relieved by some distinction, and the 3,080 whose demands share a situation are relieved by none, their accepted outcomes being disjoint; rewording a demand can make a pair realizable without relieving the declared one. A negative control admits the distinction the defeated_if excludes, splitting each situation by who is asking, and it relieves the overlapping demands, so the check can fail. Each step follows, given step 1, which the claim already states as its condition; the partial case (demands that share some situations and not others) falls under step 5 on the shared part. What holds it back: [ADR-057](../decisions.d/ADR-057.md)'s first criterion, its Proposed premise [CLAIM-tmpm76n5](CLAIM-tmpm76n5.md), as the lead already said. The note is the assistant's (Claude, in this session). No status change.

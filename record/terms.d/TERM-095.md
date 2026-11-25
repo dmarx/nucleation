@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmppwzer
 title: 'inquiry: a process that pursues a question, written (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑): a language in which it is posed, an answer space that says which differences would count as an answer, the interventions and observations that make those differences accessible, criteria for judging candidate answers, and the resources it runs on; it is reflexive when any of these becomes what it is pursuing'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -22,12 +22,20 @@ history:
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
     line (ADR-082). No other change.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Gains the line learning-and-inquiry (atlas scope 01) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 tags:
 - epistemology
 - cognition
 date: '2026-10-27'
 line:
 - record-as-apparatus
+- learning-and-inquiry
 complements:
 - TERM-092
 - TERM-065
@@ -107,3 +115,13 @@ What would settle it:
 - **Revision** if one of them needs a component the tuple lacks. One
   candidate is a record of past findings, which [CLAIM-470](../claims.d/CLAIM-470.md)'s stabilizing
   clause may need apart from Σ.
+
+## Note of 2026-11-22: Kolmogorov, read
+<!-- inactive-ok-block: THEORY-tmpdsft8 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
+
+Kolmogorov 1932 ([THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md), read in [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md)) puts the permitted means of
+construction in the formulation of a problem (p. 59, n. 2), where this term
+keeps the admissible interventions 𝓘 apart from the answer space A. A
+problem fully stated is nearer to (A, 𝓘) than to A alone. A contrast in
+where the means are placed, not an objection: the term's split is what
+lets one question be pursued by inquiries with different means. Unchanged.

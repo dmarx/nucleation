@@ -20,7 +20,6 @@ summary: >-
   their holonomy followed under perturbation, and a test against matched
   systems whose holonomy differs.
 ---
-<!-- inactive-ok-file: CASE-333 — filed from LEAD-098's run of 2026-11-22, new -->
 
 # QUESTION-319: Where an organization's parts are related by transports established independently of the analysis, and those transports have nontrivial holonomy, is the holonomy an error the organization tends to remove, or a persistent feature it maintains, and does its pattern predict the organization's response to intervention beyond what its pairwise relations and its dynamics predict?
 
