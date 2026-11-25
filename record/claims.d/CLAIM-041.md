@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbwst7
 title: 'Context-sensitive interpretation, order effects and noncommuting framing operations do not by themselves establish nonclassical probability or quantum contextuality'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-16'
@@ -23,6 +23,12 @@ history:
     a corroborating reading and names what demonstrates the claim,
     CASE-001 and THEORY-545, as the note of 2026-10-27 does. No
     other change.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 07. No other
+    change.
 role: granted
 warrant: demonstrated
 tags:
@@ -34,6 +40,7 @@ line:
 - pragmatic-transport
 - formal-apparatus
 works:
+- atlas
 - what-survives-translation
 grounds:
 - CASE-001

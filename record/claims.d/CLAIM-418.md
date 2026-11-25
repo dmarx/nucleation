@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp9jg87
 title: 'Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; where a perspective contributes to an agent''s activity it can enable and constrain the exercise of agency, and that exercise can reproduce or transform it, while whether agency universally requires such a perspective stays open'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-27'
@@ -46,6 +46,12 @@ history:
     tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
     atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
     documented as a line. No other change.
+- version: 7
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 09, scope 04. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -71,6 +77,7 @@ complements:
 - CLAIM-432
 - CLAIM-457
 works:
+- atlas
 - organization-of-perspective
 - self-without-a-sovereign
 summary: >-
