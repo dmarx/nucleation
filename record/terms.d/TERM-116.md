@@ -194,26 +194,26 @@ with that extension; [CLAIM-tmpsf9hp](../claims.d/CLAIM-tmpsf9hp.md). The wordin
 The note above records A30 §8's "A relationship may be easy to enter,
 inexpensive to maintain and extremely expensive to leave" as an
 application of the incoming and outgoing profiles. The manuscript's first
-draft read a contract's exit as CLAIM-591's directed thresholds, and
+draft read a contract's exit as [CLAIM-591](../claims.d/CLAIM-591.md)'s directed thresholds, and
 called this term's costs "additive distances" (its join J3.5). The
 independent reader of the joins found that the join failed
-(SYNTHESIS-tmp4tvbr, "The joins of the manuscript governance-of-becoming,
+([SYNTHESIS-tmp4tvbr](../syntheses.d/SYNTHESIS-tmp4tvbr.md), "The joins of the manuscript governance-of-becoming,
 Part I"), and that the term is not additive by definition: "Under
 additive costs either profile recovers d". What stays open is which cost
 a contract's exit is.
 
 - **A profile entry**, d(x, y) = inf over processes p from x to y of
   κ(p), which under additive κ is a cumulative cost along the path.
-- **A peak along a path**, as CLAIM-571 makes the threshold for reaching
-  a configuration, and as CLAIM-571's note of 2026-11-24 reads A30 §8's
+- **A peak along a path**, as [CLAIM-571](../claims.d/CLAIM-571.md) makes the threshold for reaching
+  a configuration, and as [CLAIM-571](../claims.d/CLAIM-571.md)'s note of 2026-11-24 reads A30 §8's
   replacement of a critical provider, with two providers kept at once.
 
-CLAIM-646 shows that the two can differ "by any factor" with the same
-thresholds, and TERM-105 says which applies depends on which resource
+[CLAIM-646](../claims.d/CLAIM-646.md) shows that the two can differ "by any factor" with the same
+thresholds, and [TERM-105](TERM-105.md) says which applies depends on which resource
 binds: an instantaneous capacity bounds a path's peak, a cumulative
 expenditure its sum. No entry fixes which binds for a contract's exit,
 and this term leaves κ general. Once it is fixed, "easy to enter,
-expensive to leave" follows from CLAIM-591's "can differ" for peaks, or
+expensive to leave" follows from [CLAIM-591](../claims.d/CLAIM-591.md)'s "can differ" for peaks, or
 from an asymmetric d for sums, and adds nothing to either. Neither is
 decided here.
 

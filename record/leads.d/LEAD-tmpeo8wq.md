@@ -115,8 +115,8 @@ Two points from the revision of the manuscript's Article 3 (§3.7.4).
 **The A24 §4 model already has this lead's shape, in values.** The first
 draft joined it to the lead (J3.10). The independent reader of the joins
 found the observation accurate and no claim in it, and suggested a dated
-note here (SYNTHESIS-tmp4tvbr, "The joins of the manuscript
-governance-of-becoming, Part I"). CLAIM-tmp2jhc1 records A24 §4's model:
+note here ([SYNTHESIS-tmp4tvbr](../syntheses.d/SYNTHESIS-tmp4tvbr.md), "The joins of the manuscript
+governance-of-becoming, Part I"). [CLAIM-tmp2jhc1](../claims.d/CLAIM-tmp2jhc1.md) records A24 §4's model:
 specialization s raises joint production, 10 + 16s, while it lowers B's
 independent capacity, 5(1 − s(1 − p)), where p is the protection of B's
 fallback. At full specialization "the split is 14.75 to 11.25 in A's
@@ -125,16 +125,16 @@ solution the claim fills in. That is step 3's pattern: collective output
 up, one party's independent capacity down. And at s = 1 joint production
 is 26 whatever p is, while B's share moves from 11.25 to 13.75 with p
 alone, so the size of B's fallback, with collective output fixed, moves
-the terms. It is in values and scalars, not reach over TERM-114, and
+the terms. It is in values and scalars, not reach over [TERM-114](../terms.d/TERM-114.md), and
 A24's caption limits it: "Maintaining fallback capacity is not priced in
 this model". Step 3 can cite it for the threat-point half, already
 computed in values.
 
-**Does CLAIM-675's decline count as "no change in any single transition's
+**Does [CLAIM-675](../claims.d/CLAIM-675.md)'s decline count as "no change in any single transition's
 cost"?** This lead counts R_N growing and R_i shrinking "with no change in
 any single transition's cost" as success, and its null is that "R_i
 cannot shrink without some transition's price changing". The note above
-reads CLAIM-675 as step 3's construction for solo reach. In CLAIM-675
+reads [CLAIM-675](../claims.d/CLAIM-675.md) as step 3's construction for solo reach. In [CLAIM-675](../claims.d/CLAIM-675.md)
 what shrinks is the party's own capacity C, decaying under substitutive
 support, so that its unaided output falls from 1 to 0.23 by t = 5. Two
 readings are open.
@@ -143,7 +143,7 @@ readings are open.
   functions of it, no price has changed, and the decline meets the
   success condition.
 - *What it costs i to reach a configuration includes rebuilding the
-  capacity.* The decline is then a rise in i's incoming costs, TERM-116's
+  capacity.* The decline is then a rise in i's incoming costs, [TERM-116](../terms.d/TERM-116.md)'s
   profiles indexed by party, and the null applies.
 
 The lead should say which it means before step 3 is counted as done.

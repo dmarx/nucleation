@@ -74,15 +74,15 @@ the write-manuscript skill's step 3a ("What the record has already done")
 and found it done in part. Held work plays part of its role:
 
 - erosion that depends on how long a supply has done the work, for a
-  capacity learned by doing: CLAIM-602 (Active, demonstrated), "what
+  capacity learned by doing: [CLAIM-602](../claims.d/CLAIM-602.md) (Active, demonstrated), "what
   decides dependence is the order in which supply and capacity are used,
   not the amount of supply";
-- step 1's matched pair, for a capacity rather than a contract: CLAIM-675
+- step 1's matched pair, for a capacity rather than a contract: [CLAIM-675](../claims.d/CLAIM-675.md)
   (Active, demonstrated), "Two forms of support that give a party the same
   capabilities now can leave it different capabilities later";
-- a state whose funding follows its own use: CASE-343, run, with
-  CLAIM-921 deriving the loss;
-- CLAIM-921's note of 2026-11-24, which carries that loss to rarely
+- a state whose funding follows its own use: [CASE-343](../cases.d/CASE-343.md), run, with
+  [CLAIM-921](../claims.d/CLAIM-921.md) deriving the loss;
+- [CLAIM-921](../claims.d/CLAIM-921.md)'s note of 2026-11-24, which carries that loss to rarely
   invoked guarantees (A32 §9): "The contract might remain formally
   recognized while its guarantee becomes unrealizable."
 

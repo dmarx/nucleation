@@ -137,13 +137,13 @@ wrongful ([CLAIM-760](../claims.d/CLAIM-760.md)'s).
 
 The revision of the manuscript's Article 3 (its gap G3.1) found that no
 account maps the stored-work cost model as it now stands. This account is
-dated 2026-11-19. It predates CASE-326 (2026-11-22), the cost model run on
-three cases, with CLAIM-891 and CLAIM-892 filed from it, and the entries
-of 2026-11-24 that apply the model to contracts (ARG-tmpa5ped,
-CLAIM-tmpsf9hp). It also gives CLAIM-761 and CLAIM-760 as Proposed, in
+dated 2026-11-19. It predates [CASE-326](../cases.d/CASE-326.md) (2026-11-22), the cost model run on
+three cases, with [CLAIM-891](../claims.d/CLAIM-891.md) and [CLAIM-892](../claims.d/CLAIM-892.md) filed from it, and the entries
+of 2026-11-24 that apply the model to contracts ([ARG-tmpa5ped](../arguments.d/ARG-tmpa5ped.md),
+[CLAIM-tmpsf9hp](../claims.d/CLAIM-tmpsf9hp.md)). It also gives [CLAIM-761](../claims.d/CLAIM-761.md) and [CLAIM-760](../claims.d/CLAIM-760.md) as Proposed, in
 the account and in its list of components. Both have been Active since
 2026-11-20, promoted at a status review whose rulings the owner delegated
-(ADR-057).
+([ADR-057](../decisions.d/ADR-057.md)).
 
 So the account is stale on two components' standing and silent on the
 part's later entries, which its own defeater ("an in-force component of
