@@ -76,8 +76,25 @@ holds it as a claim (below, "The joins").
 9. **Part II's first drafts** (2026-11-25), A51's Articles 4 to 6, one
    drafter per article from its digest: `04-architecture-of-will.md`,
    `05-inquiry-changes-the-inquirer.md`, `06-organization-of-ignorance.md`.
-   Each closes with its joins and gaps. None has been reviewed or
-   fact-checked, and no join of theirs has been put to ADR-075's test.
+   Each closes with its joins and gaps. They predate the reruns of
+   2026-11-25 (curation entry `record/curation.d/2026/11/25/022031.md`,
+   commit 974a1f2b, #797), at the owner's "go ahead with the reruns".
+10. **The review of Part II**, `REVIEW-2026-11-25.md` (skill step 7),
+    committed with the drafts unchanged (#798). Part A is the main review:
+    a verdict, seven structural problems, fourteen confirmed corrections
+    and a nine-item plan. Part B is an independent reader's verdicts on
+    the 17 joins of Articles 4 to 6 under ADR-075 (Part B's own tally
+    says 19; see "Part II's joins"), placed on the record in
+    the same pull request ("The joins", below). Part C is the search for
+    points of contact the drafts do not cite.
+11. **The revision of Part II** (skill step 8), on the review's plan, at
+    the owner's word of 2026-11-25: "go ahead with the revision plan".
+    One reviser per article, and one for this README and the overview;
+    what each took is under "The review's plan, item by item".
+12. **The fact-check of Part II's revision** (plan item 9),
+    `FACTCHECK-2026-11-25-part-ii.md`, by a reader who did not revise the
+    text: 17 problems found, none changing an argument, all fixed on
+    2026-11-25 ("The review's plan, item by item", item 9).
 
 ## Status
 
@@ -91,11 +108,24 @@ into staging after this branch was cut); the fact-check of 2026-11-25
 brought the drafts' standings up to date with it ("Standing review",
 below).
 
-Part II's first drafts, Articles 4 to 6 in A51's order, were written on
-2026-11-25 with standings as of that day. They are unreviewed: skill step
-7 (review), the test of their joins and step 8 (revision) are still to
-come. Their drafters' step-3a and step-6a findings are below ("What the
-record has already done", "Part II's own premises").
+Part II's drafts, Articles 4 to 6 in A51's order, were written on
+2026-11-25, reviewed the same day (`REVIEW-2026-11-25.md`), with their
+joins tested under ADR-075, and revised on the review's plan at the
+owner's "go ahead with the revision plan" (2026-11-25). Standings are
+as of 2026-11-25, after the reruns of that day (commit 974a1f2b). The
+fact-check of the revision ran on 2026-11-25, and its 17 problems are
+fixed (open item 23). The step-3a
+and step-6a findings are below ("What the record has already done",
+"Part II's own premises").
+
+**A method caution for the toy readings.** CLAIM-tmpyxemn (Proposed,
+interpretive; devlog of 2026-11-24 20:58) holds that a toy model's verbal
+conclusion often "reads a parameter as the concept it was introduced to
+stand for", so checking a model's numbers is not enough; read-and-file
+step 9a now checks each parameter's reading. It bears on every toy
+reading Article 6 cites (CLAIM-tmpu5cap, CLAIM-tmpei0cf) and on
+CLAIM-1195's figure that did not reproduce (review, Part C, process
+history).
 
 ## Plan
 
@@ -108,9 +138,9 @@ article's question, lines and standing.
 | I. Organization, possibility, and interdependence | 1 The Identity of Organization | drafted, reviewed and revised, fact-checked (file 01, under A49's title "Becoming Through Relations") |
 | | 2 Regulation as the Governance of Possibility | the manuscript of the work governance-of-possibility (`scratch/manuscripts/governance-of-possibility/`), kept a work of its own; not part of this directory |
 | | 3 The Contracts We Become | drafted, reviewed and revised, fact-checked (file 02, as A49's Article 2); part of file 03 to fold in |
-| II. Agency, inquiry, and epistemic organization | 4 The Architecture of Will | first draft (file 04), unreviewed |
-| | 5 Inquiry Changes the Inquirer | first draft (file 05), unreviewed |
-| | 6 The Organization of Ignorance | first draft (file 06), unreviewed |
+| II. Agency, inquiry, and epistemic organization | 4 The Architecture of Will | drafted, reviewed and revised, fact-checked (file 04) |
+| | 5 Inquiry Changes the Inquirer | drafted, reviewed and revised, fact-checked (file 05) |
+| | 6 The Organization of Ignorance | drafted, reviewed and revised, fact-checked (file 06) |
 | III. Culture, normativity, and dependence | 7 Memes That Make Worlds; 8 What We Owe Through Cooperation; 9 The Political Economy of Dependence | not started |
 | IV. Institutional efficacy and pathology | 10 Reliability Beyond Uptime; 11 The Politics of Legibility; 12 Agency Without Answerability | not started |
 | V. Constitutional governance | 13 The Operative Constitution; 14 The Constitution of Becoming | not started |
@@ -129,13 +159,15 @@ its three streams, formal (1 to 5), normative (7 to 9) and applied (6,
 |---|---|
 | [00-overview.md](00-overview.md) | The series: abstract, limits, voices, the fourteen articles and their state |
 | [01-becoming-through-relations.md](01-becoming-through-relations.md) | Article 1, with the verdicts on its joins J1.1 to J1.7 |
-| [02-contracts-we-become.md](02-contracts-we-become.md) | Article 2, with the verdicts on its joins J2.1 to J2.4 and JR2.1 to JR2.2 |
+| [02-contracts-we-become.md](02-contracts-we-become.md) | Article 3 (drafted as A49's Article 2), with the verdicts on its joins J2.1 to J2.4 and JR2.1 to JR2.2 |
 | [03-cost-of-becoming.md](03-cost-of-becoming.md) | A49's Article 3, with the verdicts on its joins J3.1 to J3.12; to be folded into Articles 2, 3 and 5 |
-| [04-architecture-of-will.md](04-architecture-of-will.md) | Article 4, first draft, unreviewed; joins J4.1, J4.2 (not made), JR4.1, JR4.2; gaps G4.1 to G4.3 |
-| [05-inquiry-changes-the-inquirer.md](05-inquiry-changes-the-inquirer.md) | Article 5, first draft, unreviewed; joins J5.1 to J5.7; gaps G5.1 to G5.7 |
-| [06-organization-of-ignorance.md](06-organization-of-ignorance.md) | Article 6, first draft, unreviewed; joins J6.1 to J6.6; gaps G6.1 to G6.5 |
+| [04-architecture-of-will.md](04-architecture-of-will.md) | Article 4, reviewed and revised; joins J4.1 (passed, corrected, as CLAIM-tmp7rl3d), J4.2 (not made), JR4.1, JR4.2; gaps G4.1 to G4.4 |
+| [05-inquiry-changes-the-inquirer.md](05-inquiry-changes-the-inquirer.md) | Article 5, reviewed and revised; joins J5.1 to J5.7; gaps G5.1 onward |
+| [06-organization-of-ignorance.md](06-organization-of-ignorance.md) | Article 6, reviewed and revised; joins J6.1 to J6.6; gaps G6.1 onward |
 | [REVIEW-2026-11-24.md](REVIEW-2026-11-24.md) | The review of Part I's first draft: Parts A to C |
 | [FACTCHECK-2026-11-25.md](FACTCHECK-2026-11-25.md) | The fact-check of Part I's revision |
+| [REVIEW-2026-11-25.md](REVIEW-2026-11-25.md) | The review of Part II's first drafts: Parts A to C |
+| [FACTCHECK-2026-11-25-part-ii.md](FACTCHECK-2026-11-25-part-ii.md) | The fact-check of Part II's revision |
 | [background/affect-and-authority.md](background/affect-and-authority.md) | Article 4's digest |
 | [background/inquiry-and-the-inquirer.md](background/inquiry-and-the-inquirer.md) | Article 5's digest |
 | [background/judgment-control-and-ignorance.md](background/judgment-control-and-ignorance.md) | Article 6's digest |
@@ -143,8 +175,11 @@ its three streams, formal (1 to 5), normative (7 to 9) and applied (6,
 | `motivating/` | A49, A51 and the precursor manuscript, verbatim |
 
 Joins are numbered by file in Part I (J1.x, J2.x, J3.x) and by A51's
-article in Part II (J4.x, J5.x, J6.x). The first draft labelled
-Article 2's joins J1 to J4 and JR1 to JR2. They are now J2.1 to J2.4 and
+article in Part II (J4.x, J5.x, J6.x). In Part I's numbering, "Article 2"
+is file 02 (A51's Article 3) and "Article 3" is file 03 (no article in
+A51's order); Part II cites them as "Article 3 (file 02)" and "file 03"
+(review of 2026-11-25, 1.5). The first draft labelled
+file 02's joins J1 to J4 and JR1 to JR2. They are now J2.1 to J2.4 and
 JR2.1 to JR2.2 (review 1.5). Article 3's gaps are G3.1 to G3.3.
 
 Sections are numbered by article too (review 1.5): §1.1 to §1.9 in
@@ -180,7 +215,7 @@ QUESTION-tmpzhnqy (G3.2) done in part, and the reach study done in part
 | Mere coupling, unilateral dependence, coordinated adaptation and maintained commitment, probed by deviation (Art. 2) | done in part, as method: the method, not the systems (§2.10) | the method of CASE-161 and CASE-163; parts of the systems in CLAIM-tmp18v1o, CASE-tmptpna1, CLAIM-tmp7hqtl's note and CLAIM-tmpersgx's probes | The four systems: LEAD-tmpl9349, reframed as CASE-163's design run on them (note of 2026-11-24), with §2.10's expectations stated before any run; LEAD-tmp5l71z for contracts formed endogenously |
 | Reach indexed by actor and authority; collective reach growing while a participant's shrinks (Art. 3; experiment family 2) | done in part (§3.7.4) | CLAIM-675 and CLAIM-602 (Active, demonstrated): support that does the work shrinks what a party can reach unaided, and support that covers its shortfall does not; CLAIM-tmp2jhc1's A24 §4 model has the shape in values (LEAD-tmpeo8wq's second note of 2026-11-24) | The authority index, the four predicates per transition, and whether the shrinkage moves the terms: LEAD-tmpeo8wq, narrowed (notes of 2026-11-24). Whether CLAIM-675's decline counts as "no change in any single transition's cost" is for the lead to state |
 | Comparison against transaction-cost economics, incomplete-contract theory, dynamic optimization and resource-bounded planning (Art. 3) | not done (§3.8, G3.3) | none: the record holds no reading of Williamson or Coase; its readings of incomplete contracts, path dependence and lock-out cover part of the ground (§3.8) | LEAD-tmple60r, a reading lead filed from the first draft |
-| Authority against control baselines (Art. 4) | done | CASE-325 (Active, executed-study): a relational model against five control-only models over twenty seeds, with held-out combinations and stated losses. No check by a second session is recorded (Article 4's digest; open item 19) | Reflexive revision of the arrangement: LEAD-tmpbqj9u, narrowed |
+| Authority against control baselines (Art. 4) | done | CASE-325 (Active, executed-study): a relational model against five control-only models over twenty seeds, with held-out combinations and stated losses; rerun on 2026-11-25 by a session other than its filer's, every figure matching (its note of that date) | Reflexive revision of the arrangement: LEAD-tmpbqj9u, narrowed |
 | Readiness under matched ordinary performance (Arts. 10, 13, 14) | done, for the model | CASE-412 and CASE-315 (Active, executed-study); CLAIM-577 (Active, demonstrated); CLAIM-1099 (Active, demonstrated) | Institutional application; LEAD-tmpnvrld would extend CASE-412's model |
 | Recovery funded by utilization (Art. 10) | done | CASE-343 (Active, executed-study); CLAIM-921 (Active, demonstrated) | Nothing for the model. LEAD-tmpmmfxt is narrowed to retry amplification and error-budget precedence |
 | Inquiry suppressed by its own score; self-certification (Arts. 6, 11, 12) | done, for the models | CASE-396 (Active, executed-study); CLAIM-1064 (Active, demonstrated); CASE-397 (Active, executed-study) | Real institutions |
@@ -198,8 +233,8 @@ skill's sort, two of the seven (individuation, and capability lost to
 supply) are done in part, since each leaves an extension of its own. Of the executed studies the series leans on, all are
 Active after #794 except CASE-163, and CASE-332 and CASE-333 in Article 1. Each of
 CASE-315, CASE-326, CASE-343, CASE-346 and CASE-401 reproduced on a rerun
-of 2026-11-24, and CASE-412 and CASE-397 on the fact-check of
-governance-of-possibility. The revision cites the held work wherever a
+of 2026-11-24, CASE-412 and CASE-397 on the fact-check of
+governance-of-possibility, and CASE-325 on the reruns of 2026-11-25. The revision cites the held work wherever a
 draft proposed a study (§1.5.5, §2.10, §3.3.4, §3.5, §3.7.4, G3.2), and
 proposes nothing the record has done; the fact-check is to confirm it.
 After the second pass, of what Part I proposes, only the comparison with
@@ -218,37 +253,61 @@ against control), Article 5's on actor-indexed reach (moved from file
 
 | Study proposed (A51 or A49; A51's article) | Verdict | Settled by | What stays open |
 |---|---|---|---|
-| Will-organization against control and metacontrol models (A51's lead; A49 §4) (Art. 4) | done, for one stipulated organization | CASE-325 (Active; no recorded rerun); CLAIM-889 (Proposed, demonstrated); CLAIM-890 (Proposed) | Across realizers, and a person (QUESTION-056). CLAIM-890 says that for an organization institutional theory already gives the difference |
+| Will-organization against control and metacontrol models (A51's lead; A49 §4) (Art. 4) | done, for one stipulated organization | CASE-325 (Active; rerun 2026-11-25 by a session other than its filer's, every figure matching); CLAIM-889 (Proposed, demonstrated); CLAIM-890 (Proposed); LEAD-089 Done (2026-11-25) | Across realizers, and a person (QUESTION-056, Open): done in part as a reading by LEAD-141 (Open; ARG-215 Rejected, "The literature does not supply it"), which is CLAIM-027's test for a person, not CLAIM-487's with the same variables. CLAIM-890 says that for an organization institutional theory already gives the difference, as CLAIM-021 (Active, granted: "The mechanisms composing a will-organization are not novel") held before CASE-325 (review, Part C, item 5) |
 | Self-grants and recursive delegation (A51; SYNTHESIS-087) (Art. 4) | done | CLAIM-282, CLAIM-375, CLAIM-502 (Active, demonstrated); CASE-420 (Active, executed-study) | none named |
-| Directed tolerance Q_{i→j} = 1[d_i ≤ τ_{i→j}] (A49's formal centre) (Art. 4) | done in part | CLAIM-552 (Active, interpretive) holds directedness; CLAIM-550 (Active, demonstrated) derives a tolerance from a threshold; CLAIM-538 and CLAIM-537 (Active, demonstrated) give compatibility, on symmetric edge bounds | Tolerances and authority that both evolve in one model (G4.3) |
+| Directed tolerance Q_{i→j} = 1[d_i ≤ τ_{i→j}] (A49's formal centre) (Art. 4) | done in part | CLAIM-552 (Active, interpretive) holds directedness; CLAIM-550 (Active, demonstrated) derives a tolerance from a threshold; CLAIM-538 and CLAIM-537 (Active, demonstrated) give compatibility, on symmetric edge bounds | Tolerances and authority that both evolve in one model (G4.3). Proposed, not made: CLAIM-552's note of 2026-11-24 (A32 §6) would let d_i, τ and the grant conditions "evolve through the history of interaction", meeting the burden QUESTION-128 (Open) and CASE-239 (Proposed, proposed-study) state; CASE-239's design was run for a forager's criteria of failure as CASE-421 (Active), not for tolerances |
 | Architectures compared: fixed priority, learned accommodation, protected dissent, reflexive revision (A49) (Art. 4) | done in part | fixed relations: CASE-325; dissent and a revisable safeguard: CASE-415 (Active); fixed priority against inheritance: CASE-tmptpna1 (Proposed); suppression against revision: CASE-397 (Active) | The reflexive arm: LEAD-tmpbqj9u, narrowed by its note |
-| Learned accommodation lowers recurrent arbitration cost (A49 §5; A51) (Art. 4) | not done | none: CLAIM-358 is Proposed and interpretive, and no executed study prices it; CASE-346 bears against reading persistence as amortization (CLAIM-443) | No lead exists (G4.3) |
+| Learned accommodation lowers recurrent arbitration cost (A49 Article 4's abstract; A51) (Art. 4) | done in part (corrected 2026-11-25; the first sort had it not done) | the per-encounter cost of escalation: CASE-382 (Proposed, executed-study), a fit of the expected-value-of-control model to 122 participants' effort-discounting choices, with CLAIM-981 (Proposed, empirical), which corroborates CLAIM-358 (Proposed, interpretive, the owner's), as CLAIM-358's note of 2026-11-22 says; LEAD-128 (Open), carried out on 2026-11-22; CASE-109 (Active, thought experiment), the matched pair "used for CLAIM-358"; CLAIM-1139 (Active, interpretive), three ways repeated arbitration falls away. CASE-346 bears against reading persistence as amortization (CLAIM-443) | The recurrence: CASE-382 is "Not amortised supervisory cost … not the recurrence". No lead holds the recurrent study (G4.3) |
 | Low conflict does not show adequate accommodation (A51; A49 §7) (Art. 4) | done in part | CLAIM-364 (Proposed, counter); CASE-355 (Proposed, executed-study) | A record not stipulated |
 | Anxiety-maintaining avoidance (A49 §6) (Art. 4) | done, for the model | CASE-346 (Active, executed-study); CLAIM-924 (Proposed) | Patients: "nothing here measures authority in patients" (CLAIM-446) |
 | Reading which ordering prevails from conduct (A51's "potentials") (Art. 4) | done in part | CASE-330 (Proposed, executed-study), FOMC: almost nothing shown | Other records |
 | Remorse against threat: reversion after sanction (A51 §3) (Art. 4) | done in part, inconclusive | CLAIM-432's note of 2026-11-23 (LEAD-101): "No case meets the lead's standard"; CASE-405 (Proposed); CLAIM-1178 and CLAIM-1113 as alternatives | Wells Fargo (CASE-151) after 2025-06-03 |
 | Biases moved together by one intervention (Art. 4) | not done | none | LEAD-tmpr4xwc (Open) |
 | Governance against action heuristic (Art. 4) | not done | the test exists only as a note on CLAIM-tmpn754o | No lead (G4.3; G6.3) |
-| The joint question–answer frontier (A49) (Art. 5) | done in part | CLAIM-1115 and CLAIM-1190 (Active, demonstrated; 1115 rerun by another session); CLAIM-1025 (Proposed, filer-checked) | The owner's choice between TERM-159 and TERM-160; no C-indexed relation is defined (G5.6) |
+| The joint question–answer frontier (A49) (Art. 5) | done in part | CLAIM-1115 and CLAIM-1190 (Active, demonstrated; 1115 rerun by another session); CLAIM-1025 (Proposed, demonstrated; reproduced 2026-11-25 by another session in a kept script, and held back by its Proposed premises CLAIM-1114 and CLAIM-1157) | The owner's choice between TERM-159 and TERM-160; no C-indexed relation is defined (G5.6) |
 | Identical answer capability with different authority, formulation and budgets (A49) (Art. 5) | done in part, formally | CLAIM-1115 construction 1; CLAIM-1025; CLAIM-1095 (Active); CASE-396 (Active) | An empirical comparison, CASE-395, not run (G5.1); the reflexive arm, LEAD-tmpbqj9u |
 | Authorization traps (A49) (Art. 5) | done in part | CASE-386 (the owner's) and the A18 widget, worked deadlines; CLAIM-1140 and CLAIM-1016 (Proposed, interpretive); CASE-396 and CLAIM-1064 (Active) | No model of the evidence–permission circle (G5.3); CASE-388 not run |
 | Operational improvement alongside increased developmental cost (A51) (Art. 5) | done in part | for support, CLAIM-675 and CLAIM-602 (Active, demonstrated); matched output against readiness, CASE-412 (Active); for a learner's own training only CLAIM-758 (Proposed, interpretive) | A demonstration for training itself; CASE-294 not run, as A51 says |
 | Query-induced capability trap (A51, A49) (Art. 5) | not done | none: CLAIM-1054 has "no model" | LEAD-218 |
 | The record as a running case (A51 §6) (Art. 5) | done, as recap | CASE-300 (Active, executed-study); SYNTHESIS-012 and SYNTHESIS-017 (Proposed); LEAD-tmp0j28l and #794 | The companion paper, the owner's choice; QUESTION-457. Article 5 does not offer the record as evidence for itself (J5.7) |
 | Actor- and authority-indexed reach (from file 03 §3.7.4) (Art. 5) | done in part | CLAIM-675 and CLAIM-602 (Active, demonstrated); CLAIM-tmp2jhc1's values | LEAD-tmpeo8wq, narrowed |
-| Overconsolidation's prevalence in learned systems (A51) (Art. 5) | not done | none | CASE-294; A51 calls it "a genuine research opportunity" |
-| Selective admission against self-scoring, with different remedies (A51's first centre) (Art. 6) | done, for the models | CASE-162 (Active; stored results, runs not regenerated); CLAIM-466 (Active, demonstrated) | A procedure for unknown propensities; a rerun of PerspectiveLab by another session |
+| Overconsolidation's prevalence in learned systems (A51) (Art. 5) | done in part, by reading (corrected 2026-11-25; the first sort had it not done) | CLAIM-758 (Proposed, interpretive), revised to version 2 "after the readings of 2026-11-19": THEORY-2006, THEORY-2056, THEORY-2053, THEORY-2015, THEORY-2027 and THEORY-2025 (all Proposed); Springer and colleagues (THEORY-2006) are "the claim's prime case, and they qualify it", and no reading "showed version 1's signature with held capabilities kept" | The measurement, CASE-294 (Proposed, proposed-study), not a first look at the literature; A51 calls it "a genuine research opportunity" |
+| Selective admission against self-scoring, with different remedies (A51's first centre) (Art. 6) | done, for the models | CASE-162 (Active; stored results, runs not regenerated); CLAIM-466 (Active, demonstrated) | A procedure for unknown propensities; a rerun, which the reruns of 2026-11-25 could not make because the code is in dmarx/PerspectiveLab, not in this repository (CASE-162's note of that date; open item 24) |
 | Belief correction against practical correction (A51's second centre) (Art. 6) | done, for the model | CASE-346 (Active; rerun 2026-11-24 by a session other than its filer's) | The habit rival outside the model; CLAIM-446's defeater reading (CLAIM-924, the owner's choice) |
 | Coupling of evidence, evaluation and authority (A51's third centre) (Art. 6) | done in part | the four components (CLAIM-1183, CLAIM-1202, CLAIM-1029, CLAIM-1194) Active and demonstrated for their models; CLAIM-1024 itself Proposed, interpretive and the owner's, under the Active objection CLAIM-1185 | The owner's concession on CLAIM-1024; LEAD-220 |
-| Inquiry suppressed by its own score (A51 §3) (Art. 6) | done, for the model | CASE-396 (Active); CLAIM-1064 (Active, demonstrated); CLAIM-1120 or CLAIM-997 (Proposed alternatives) for which comparison counts | Real institutions |
+| Inquiry suppressed by its own score (A51 §3) (Art. 6) | done, for the model | CASE-396 (Active), the run of LEAD-181 (Done, 2026-11-25); CLAIM-1064 (Active, demonstrated); CLAIM-1120 or CLAIM-997 (Proposed alternatives) for which comparison counts, the owner's choice | Real institutions |
 | Self-certification against an impoverished specification (A51 §3) (Art. 6) | done in part | CASE-397 (Active): the excision is stipulated, not learned | A run where the excision is learned (G6.1) |
 | Two-institution capture loop (Art. 6) | done, for the model | CASE-401, CLAIM-1000, CLAIM-1202 (Active) | A documented loop: CLAIM-404 says every reading is static |
 | Persistence after the inducing context is removed (A49's formal centre) (Art. 6) | done in part | CASE-191; CASE-346; CASE-123 (stipulated); CLAIM-463 and CASE-111 | Human judgement: LEAD-tmp3nqe0; the cultural carrier: ARG-tmp2kh2e says "nothing built" |
 | Mechanisms for confirmation bias, anchoring, avoidance, status quo bias, motivated skepticism (A49's formal centre) (Art. 6) | done in part, by mechanism | confirmation: CLAIM-tmpu5cap (toy) and CASE-162; avoidance: CASE-346; anchoring: CLAIM-315 and THEORY-335 | Anchoring by nucleation (LEAD-tmp3nqe0); co-variation (LEAD-tmpr4xwc); status quo bias and motivated skepticism have no entry (G6.4) |
-| Connecting human cognitive findings to mechanisms (A51's "Actual remaining work") (Art. 6) | not done | none: the only read human-data entries are THEORY-335 and THEORY-337 | Reading leads, LEAD-tmp3nqe0 and LEAD-tmpr4xwc |
+| Connecting human cognitive findings to mechanisms (A51's "Actual remaining work") (Art. 6) | done in part, by reading, for avoidance (corrected 2026-11-25; the first sort had it not done) | THEORY-335 and THEORY-337; for avoidance and safety behaviour, THEORY-900, THEORY-903 and THEORY-912 (Active), which ground or corroborate CLAIM-446, and THEORY-914 (Proposed), a rival reading of "the belief corrected, the practice persists" (review, Part C, item 3) | The human tests, QUESTION-325, QUESTION-326, QUESTION-327 and QUESTION-331 (Open); for anchoring and co-variation, LEAD-tmp3nqe0 and LEAD-tmpr4xwc |
 | Transmission of ignorance across realizations (A49 §5) (Art. 6) | not done | none built | LEAD-tmpqucxc, LEAD-tmpuxizu |
 
-## Standing review, 2026-11-24
+**Note of 2026-11-25: what the Part II digest missed.** The review of
+2026-11-25 (1.2) found that the step-3a search behind Article 4's digest,
+`background/affect-and-authority.md`, missed held work, and with it the
+draft and the first sort above. It missed CASE-382, CLAIM-981, LEAD-128
+and CLAIM-358's note of 2026-11-22 (the per-encounter price of
+escalation), CASE-109 and CLAIM-1139 (§4.8.1); LEAD-141 on the second
+realizer, and QUESTION-015 as Answered, not Open (§4.1.3, G4.3); and
+CLAIM-552's note of 2026-11-24 with QUESTION-128 and CASE-239 on
+tolerances that evolve (§4.4). From Article 5's region it missed the
+CLAIM-758 readings (THEORY-2006 and five others; §5.8.2, §5.9), and the
+contact search added the avoidance readings to Article 6's last rows.
+The rows above are corrected: learned accommodation and overconsolidation
+are done in part, not "not done". The digest is a dated snapshot and is
+left as written. The contact search's process history names further held
+results for the articles to cite: CASE-366 (Proposed, executed-study;
+§4.6.3), CLAIM-880 with CASE-317 (Proposed; §4.5.2), CASE-353 (Proposed,
+executed-study; §6.3), CLAIM-950 (Proposed, demonstrated; §5.6.3) and
+CASE-036 (Active, thought experiment; §4.8.3). After the correction, four
+of this table's studies are not done: biases moved together, the
+governance-against-action-heuristic test, the query-induced capability
+trap and the transmission of ignorance. The miss is the one the devlog
+of 2026-11-24 22:29 names: the search should run over executed CASEs
+and demonstrated claims by mechanism, not only over leads.
+
+## Standing review, 2026-11-24, with Part II's rows updated 2026-11-25
 
 Skill step 6a. The candidates are the Proposed entries the record
 functionally treats as held, from A53's six clusters and keep list and the
@@ -354,8 +413,8 @@ owner; none is a promotion.
 |---|---|---|---|---|---|
 | CLAIM-039 | 4 (§4.6, §4.7) | Proposed, interpretive (the owner's) | CLAIM-432, CLAIM-440, CLAIM-355; through CLAIM-440, CLAIM-437, CLAIM-442, CLAIM-439, CLAIM-527 | No. THEORY-101's felt-valence objection is unanswered | keep (as in the table above) |
 | CLAIM-440 | 4 (§4.6) | Proposed, interpretive (the owner's) | CLAIM-437, CLAIM-439, CLAIM-527; CLAIM-442 via 437 | No; its premise CLAIM-039 is held by THEORY-101's identification, which no claim answers | keep |
-| CLAIM-889, with CASE-325 (Active) | 4 (§4.1) | Proposed, demonstrated (the assistant's) | CLAIM-890; A51's lead | No: CASE-325 has a README and tests in scratch/studies/lead-089/, and no rerun is recorded; the drafter could not rerun it (no scipy) | rerun CASE-325 by another session (open item 19); then CLAIM-889 with it |
-| CLAIM-358 | 4 (§4.8.1) | Proposed, interpretive (the owner's, U45) | CLAIM-tmpysg95; A49 §5 | No: argued, not shown | keep: unpriced (G4.3) |
+| CLAIM-889, with CASE-325 (Active) | 4 (§4.1) | Proposed, demonstrated (the assistant's) | CLAIM-890; A51's lead | Its ground, CASE-325, was rerun on 2026-11-25 by a session other than its filer's from a copy of scratch/studies/lead-089/, and every figure matched (CASE-325's note of that date); CLAIM-889 carries no note of its own on it | a candidate for the delegated rule (demonstrated, independently recomputed): its edges are a ground (CASE-325) and a use (TERM-046), both Active, so no Proposed premise holds it back. Not promoted here |
+| CLAIM-358 | 4 (§4.8.1) | Proposed, interpretive (the owner's, U45) | 18 (recounted 2026-11-25), among them CLAIM-tmpysg95; A49 Article 4's abstract | Argued. Its per-encounter cost has a candidate fit to human choices, CASE-382 with CLAIM-981 (both Proposed), which corroborates it (its note of 2026-11-22) | keep: the recurrence, which the claim is about, is unpriced (G4.3) |
 | CLAIM-432, CLAIM-431 | 4 (§4.7) | Proposed, interpretive | A51's corporate-affect section | LEAD-101 ran the test; inconclusive. CLAIM-431 unanswered | keep (as above, for CLAIM-432) |
 | CLAIM-446 | 4 (§4.8.3), 6 (§6.5) | Proposed, interpretive (the owner's) | 21; CLAIM-445 | Its model run, CASE-346, rerun by another session; the claim about persons is not checked | keep: defeater reading open (CLAIM-924); a ruling on "may be" is the owner's |
 | CLAIM-tmpn754o | 4 (§4.8.3), 6 (§6.7) | Proposed, interpretive (A's), filed 2026-11-24 | CLAIM-tmpysg95 | No; its test is unrun | keep |
@@ -363,8 +422,9 @@ owner; none is a promotion.
 | TERM-104, TERM-076 | 4 | Proposed, terms | TERM-104 used by CLAIM-tmp5atd3 | No | keep |
 | TERM-160, TERM-159 | 5 (§5.3) | Proposed, terms (the assistant's, A's) | 2, 2 | n/a | the owner's choice, open since U30 |
 | TERM-163 | 5 (§5.8) | Proposed, term (A's) | 4 | n/a | kept at #794 for the owner's definitional ruling |
-| CLAIM-1025 | 5 (§5.3.3) | Proposed, demonstrated (the assistant's) | 4 | No: filer only, script not kept | a candidate for the delegated rerun rule |
-| CLAIM-1157, CLAIM-1008, CLAIM-1203, CLAIM-1195 | 5 (§5.3.3, §5.8) | Proposed, demonstrated (A's, checked by the assistant who filed them) | 3, 3, 1, 1 | No independent rerun recorded | the delegated rerun rule |
+| CLAIM-1025 | 5 (§5.3.3) | Proposed, demonstrated (the assistant's) | 4 | Yes: reproduced on 2026-11-25 by a session other than the filer's, rebuilt from the entry alone as the kept `scratch/formal/inquiry_coupling_bounds_check.py`, with a negative control | keep: ADR-057's first criterion fails, its premises CLAIM-1114 and CLAIM-1157 being Proposed (its note of 2026-11-25) |
+| CLAIM-1157, CLAIM-1008, CLAIM-1203, CLAIM-1195 | 5 (§5.3.3, §5.8) | Proposed, demonstrated (CLAIM-1157 and CLAIM-1008 A's; CLAIM-1203 and CLAIM-1195 the assistant's gap fills of A52 §3 and A54 §4) | 3, 3, 1, 1 | Yes: each reproduced on 2026-11-25 by a session other than the filer's, in kept scripts (`inquiry_coupling_bounds_check.py`, `inquiry_depth_check.py`, `maintained_nuclei_check.py`), except CLAIM-1195's figure 1.61, which the rerun puts at 1.74 to 1.84 | keep: held back by Proposed premises (ADR-057's first criterion). CLAIM-1157 rests on CLAIM-1114, CLAIM-1008 on CLAIM-1157, CLAIM-1203 on CLAIM-1008; CLAIM-1195 on CLAIM-1148 (Proposed, interpretive), whose promotion needs the owner's assent. CLAIM-1195's 1.61 to be restated or dropped (open item 24) |
+| CLAIM-1114 | 5, through CLAIM-1157, CLAIM-1025, CLAIM-1008 and CLAIM-1203 | Proposed, demonstrated (the assistant's gap fill for governance-of-possibility) | 3 | No: the reruns of 2026-11-25 did not recheck it; its stated check (2,037 of 20,000 random routes) gives no seed | the bottom of Article 5's demonstrated chain, with no premise of its own: rechecked and promoted under the delegated rule, it frees CLAIM-1157, then CLAIM-1025 and CLAIM-1008, then CLAIM-1203 (curation of 2026-11-25 02:20). A rerun would reproduce the rule, not the count (open item 24) |
 | CLAIM-996 | 5 (§5.5) | Proposed, interpretive (A's) | 7 | n/a | keep: the base of CLAIM-1140, 1016, 1117, 1119, 1132 |
 | CLAIM-1140, CLAIM-1016 | 5 (§5.5) | Proposed, interpretive | 5, 1 | n/a | keep (CLAIM-1016 as in the table above) |
 | CLAIM-1003, CLAIM-1054 | 5 (§5.7) | Proposed, interpretive (A's) | 3, 4 | n/a | keep: CLAIM-1054 has no model |
@@ -374,15 +434,16 @@ owner; none is a promotion.
 | CLAIM-1177, CLAIM-1148, CLAIM-1004 | 5 (§5.8.3) | Proposed, interpretive (CLAIM-1004 the owner's conjecture) | 2, 5, 5 | n/a | keep |
 | CLAIM-tmp2kfwd | 5 (§5.5.3) | Proposed, interpretive (A's), filed 2026-11-24 | 2 | n/a | keep: defeater untested |
 | CLAIM-1156 | 5 (§5.4) | Proposed, interpretive (A's), version 2 | 5 | its formal step corrected by CLAIM-1095, rerun | keep (as above) |
-| CLAIM-tmpyp0ju | 5 (§5.9) | Proposed, interpretive (the owner's) | 0 | its check is the assistant's | keep; its check has no row for Article 5 (G5.5) |
+| CLAIM-tmpyp0ju | 5 (§5.9) | Proposed, interpretive (the owner's) | 0 | its check is the assistant's | keep; its own table has no row for Article 5, though this README's "Part II's studies" now has eight (review correction 2.13) |
 | CLAIM-1024 | 6 (§6.6) | Proposed, interpretive (the owner's) | 5; none rests on it | its four components are checked; the claim is not a computation | keep (as above) until the owner writes CLAIM-1185's concession |
 | CLAIM-445 | 6 (§6.5) | Proposed, interpretive (the owner's) | 21; CLAIM-624, CLAIM-726, ARG-064 | Not a computation | keep: a candidate by reliance |
 | CLAIM-657 | 6 (§6.4) | Proposed, interpretive (the owner's) | 6 | Route B modelled by CASE-396 (rerun) | keep: waits on CLAIM-652 (Proposed, demonstrated) and the unfiled third route |
-| CLAIM-624 | 6 | Proposed, interpretive (A's) | 34; CLAIM-876, CLAIM-877 | Not a computation | keep: a candidate by reliance; its use is evidence of reliance, not truth |
+| CLAIM-624 | 6 | Proposed, interpretive (A's) | 35 (recounted 2026-11-25); CLAIM-876, CLAIM-877 | Not a computation | keep: a candidate by reliance; its use is evidence of reliance, not truth |
 | CLAIM-619 | 6 | Proposed, interpretive (A's) | 18 | Not a computation | keep: TERM-118 not adopted |
-| CLAIM-545 | 6 | Proposed, interpretive (A's integration of the owner's premises) | 13 | Not a computation | keep |
+| CLAIM-545 | 6 | Proposed, interpretive (A's integration of the owner's premises) | 14 (recounted 2026-11-25) | Not a computation | keep |
 | CLAIM-1120, CLAIM-997 | 6 (§6.4) | Proposed, empirical (the assistant's alternatives) | 1 each | CASE-396 rerun | the owner chooses between them |
 | CLAIM-tmpp0ufw, tmpggu4v, tmpei0cf, tmpn754o, tmpysg95, tmp5atd3, tmpjlxfy, tmpgc8vi, tmp9k2la; TERM-tmp9mag8 | 6 (§6.2, §6.7, §6.8) | Proposed, interpretive or a term (A's), filed 2026-11-24 | 3, 2, 1, 2, 1, 2, 6, 3, 2; 6 | Only the assistant's algebra notes (tmpei0cf by hand) | keep: defeaters untested; no promotion |
+| CLAIM-tmp7rl3d | 4 (§4.11; J4.1) | Proposed, demonstrated conditional on its first step, reading each party's reading as a demand (the joins reader's wording, filed by the assistant, 2026-11-25) | 1 (SYNTHESIS-tmp4tvbr) | Its derivation is the independent joins reader's, not a drafter's; not yet fact-checked | keep: its premise CLAIM-tmpm76n5 is Proposed (ADR-057's first criterion); CLAIM-347, CLAIM-361 and CLAIM-532 are Active. A candidate member (open item 10) |
 | CLAIM-tmpqbaic, CLAIM-tmpu5cap | 6 (§6.7) | Active, demonstrated (the assistant's) | 1 or 2 | An independent checker reproduced every computation; set Active at the assistant's discretion the day each was filed | the article says so (review 1.3) |
 
 The drafters' replies, in the drafts' closing sections: Articles 4 and 6
@@ -390,9 +451,13 @@ find their formal and computational floors Active and every step that
 carries them to organizations or persons Proposed (§4.12, §6.11); Article
 5 finds its demonstrated core Active, small and formal, with the three
 frontiers, authorization, overconsolidation and readiness Proposed
-(§5.10). Article 5 adds that CLAIM-1115, CLAIM-1190 and CLAIM-1095 were
-set Active by the assistant under delegation, in the pass LEAD-tmp0j28l
-drove, so they are not to be read as the owner's rulings.
+(§5.10). On who made CLAIM-1115, CLAIM-1190 and CLAIM-1095 (Article 5)
+and CLAIM-1202 and CLAIM-1185 (Article 6) Active, the drafts disagreed
+(review 1.5). The revision reads them one way, as their histories do:
+promoted at the owner's word of 2026-11-24, whose "handle the fixes for
+the twelve ... use your best judgement" is the owner's ruling on each of
+the twelve to fix, then promote, with the fix, and the judgement that it
+was met, left to the assistant (overview, "Who made the standings").
 
 ## The joins
 
@@ -432,14 +497,67 @@ the section the join was in.
 The two filed claims are candidate members of the work under ADR-104
 (open items 10 and 14).
 
-**Part II's joins** are listed in each draft's closing section and have
-not been put to ADR-075's test. Most are restatements, and three are not
-made (J4.2, J5.4, J5.7). The candidates for the test are J4.1
-(misunderstanding read as a frustrated pair of demands, §4.11), J5.1
-(inquiry as a way the inquirer learns, under TERM-131, §5.2.3) and J6.3
-(CASE-346 as a case where two of CLAIM-1024's conditions come apart,
-§6.6); J6.4 also goes to the test, as a likely restatement (open item
-22).
+**Part II's joins.** An independent reader with a neutral brief tested
+all 17 of Articles 4 to 6 under ADR-075 on 2026-11-25 (review of that
+date, Part B), and the verdicts were placed in SYNTHESIS-tmp4tvbr
+(version 4), section "The joins of the manuscript governance-of-becoming,
+Part II" (#798). The revised articles state each verdict in their
+closing sections. The count is 17, from the J-labels in the articles'
+closing sections: J4.1, J4.2, JR4.1, JR4.2, J5.1 to J5.7 and J6.1 to
+J6.6. The review's Part B and SYNTHESIS-tmp4tvbr's tally (its version-4
+history note and its Part II section) said 19, with eleven restatements;
+Part B's table has 17 rows and ten restatements, and its categories
+counted J4.1 twice and the two fidelity corrections as well (fact-check
+of 2026-11-25, item 9). A dated note on SYNTHESIS-tmp4tvbr records the
+correction.
+
+- **Passed, in a corrected form, and filed as a Proposed claim** that the
+  account integrates: J4.1 (§4.11). As drafted ("a misunderstanding is
+  productive in the owner's sense exactly when its clarification is a
+  relief") it fails: a joint settlement on one reading is productive by
+  CLAIM-tmpupcws and not relief by CLAIM-347 and CLAIM-361, and the
+  refine bullet misapplied CASE-191. The corrected sentence is
+  CLAIM-tmp7rl3d (Proposed, demonstrated conditional on its first step):
+  clarifying relieves by a new distinction only where the readings'
+  demands bear on different situations the expression conflated; where
+  they demand different joint outcomes in the same situation, only an
+  outcome that meets both relieves, and settling or rewording is not
+  relief. The drafters' discriminating consequence does not pass as
+  stated.
+- **Failed**, and removed from the text or reworded:
+  - J5.1 (§5.2.3), inquiry as learning under TERM-131: trivial once the
+    declared system is fixed, a free parameter while it is open, and
+    CLAIM-475's sense 1 relabelled. Its residue, whether formulating a
+    question with no observation counts as an experience, is a dated
+    note on TERM-131 (2026-11-25).
+  - J6.4 (§6.7), CASE-346's identification limit carried to
+    CLAIM-tmpn754o: CLAIM-924's "same law" needs the protecting posture
+    to mask the outcome, and the test in CLAIM-tmpn754o's note gives
+    clear feedback, so the limit does not carry there. The qualification is
+    filed as a dated note of 2026-11-25 on CLAIM-tmpn754o (open item
+    26).
+- **Misstated a component**: J6.3 (§6.6) put CASE-346's
+  independent-reinforcement result, run in the success-and-restricted
+  cell with no inspection floor, inside the floor condition. The
+  corrected remainder fails as a claim (its mapping into CLAIM-1024's
+  conditions is a free parameter). It is a dated note on LEAD-220,
+  mirrored on CLAIM-1024 (2026-11-25), with the converse cell and the
+  h = 0.002 sensitivity.
+- **Restatements**, which cite the entry that holds them: JR4.1
+  (CLAIM-364, CLAIM-448, CLAIM-549), JR4.2 (CLAIM-923, with its
+  "authority or preference" restored), J5.2 (CLAIM-1115, CLAIM-1016's
+  note), J5.3 (CASE-396, CLAIM-1064; the learner learns "whether and how
+  much" to inquire, not what to ask), J5.5 and J5.6 (LEAD-tmpeo8wq), J6.1
+  (CLAIM-tmpp0ufw), J6.2 (CASE-397), J6.5 and J6.6 (conjunctions of their
+  entries).
+- **Rightly not made**, and would fail if made: J4.2, J5.4, J5.7.
+
+In all, 17: one passes as a corrected replacement (J4.1, counted once,
+as passed in its corrected form; it failed as drafted), two fail as made
+(J5.1, J6.4), one misstates a component and its corrected remainder
+fails (J6.3), three are rightly not made and ten are restatements. The miscount of routes in CLAIM-404's
+note of 2026-11-24 (J6.1) is corrected by its note of 2026-11-25.
+CLAIM-tmp7rl3d is a candidate member of the work (open item 10).
 
 ## Gaps and corrections fed back to the record
 
@@ -485,6 +603,21 @@ made (J4.2, J5.4, J5.7). The candidates for the test are J4.1
   - SYNTHESIS-106: it predates CASE-326 and gives CLAIM-760 and CLAIM-761
     as Proposed, though Active since 2026-11-20; revising it is a
     synthesis review (G3.1).
+
+- **With the reruns of 2026-11-25 (#797)**, at the owner's "go ahead
+  with the reruns", after Part II was drafted: dated notes on CASE-325
+  (rerun, every figure matching), CASE-162 (no rerun: its code is in
+  dmarx/PerspectiveLab) and the five demonstrated claims CLAIM-1157,
+  CLAIM-1025, CLAIM-1008, CLAIM-1203 and CLAIM-1195 ("rerun, and what
+  holds it back"); LEAD-089 and LEAD-181 closed as Done.
+- **With the review of Part II (#798)**, in the assistant's voice:
+  CLAIM-tmp7rl3d (J4.1, corrected) filed and integrated in
+  SYNTHESIS-tmp4tvbr (version 4), with the other Part II verdicts under
+  its "Not stated on the record"; dated notes of 2026-11-25 on TERM-131
+  (J5.1's residue), LEAD-220 and CLAIM-1024 (J6.3's remainder), and on
+  CLAIM-404, correcting its note's "three routes".
+- **Not yet filed**: the qualification of J6.4 on CLAIM-tmpn754o (open
+  item 26).
 
 The record and the manuscript are not independent where this drafting
 corrected the record's wording. The overview's limits say so.
@@ -576,6 +709,120 @@ three.
   - step 3a: LEAD-tmp14n26 (§3.3.4), QUESTION-tmpzhnqy (G3.2) and the
     reach study (§3.7.4) found done in part, with the held results cited.
 
+**Part II, on the review of 2026-11-25.** The owner, 2026-11-25: "go
+ahead with the revision plan". The items for this README and the
+overview, each re-checked against its entry:
+
+- **Item 1** (sync with the reruns, 1.1, corrections 2.1 to 2.3): CASE-325
+  rerun by a session other than its filer's, every figure matching, in
+  both step-3a tables, the standing review and the overview's limits;
+  LEAD-089 and LEAD-181 Done; the five demonstrated claims reproduced and
+  held back by Proposed premises, with CLAIM-1114 named as the bottom of
+  Article 5's chain and given its own row; CLAIM-1195's 1.61 and CASE-162's
+  missing code stated; open items 19 and 20 closed; correction 2.12 (the
+  voices of CLAIM-1203 and CLAIM-1195) in the standing review.
+- **Item 2** (step 3a again, 1.2): the rows for learned accommodation
+  and for overconsolidation changed to done in part; LEAD-141,
+  CLAIM-552's note, QUESTION-128 and CASE-239 cited in their rows; the
+  human-data row corrected from the contact search; a dated note of
+  2026-11-25 on what the digest missed.
+- **Item 5** (consistency, 1.5): the overview's "a lead named for each
+  study still open" and "three not done" corrected; Article 6 added
+  beside Article 1 among the articles citing same-day promotions at the
+  assistant's discretion; "handle the fixes for the twelve" classified
+  one way, as the histories give it (overview, "Who made the
+  standings"; standing review); CLAIM-442 moved to the entries in no
+  work (correction 2.9, open item 18); Part I's file numbers glossed for
+  Part II's references.
+- **Item 6** (the joins): "The joins" and open item 22 carry Part B's
+  verdicts and the entries filed for them.
+- Items 3, 4, 7 and 8 touch the articles only. Item 7's point on
+  CLAIM-1190 is for the owner as well (open item 25).
+
+The articles' items, from the revision's commits (88cb93af, 725ba896,
+9d5a8123) and checked against the articles as they stand after the
+fact-check's fixes. No item that touches an article was left out.
+
+- **Article 4** (items 1 to 6 and 8; item 7 does not touch it):
+  - item 1: CASE-325's rerun of 2026-11-25 and LEAD-089 Done, in the
+    abstract, "Standing", §4.1, §4.10 and G4.2 (closed);
+  - item 2: CASE-382, CLAIM-981, LEAD-128, CLAIM-358's note of
+    2026-11-22, CASE-109 and CLAIM-1139 in §4.8.1, with the verdict done
+    in part and the recurrence open, carried to §4.10; LEAD-141 in §4.1.3
+    and G4.3, with QUESTION-015 Answered; CLAIM-552's note, QUESTION-128
+    and CASE-239 at §4.4, and, after the fact-check, CASE-239's run as
+    CASE-421; CLAIM-569 cited in §4.8.1's expectation;
+  - item 3: "need not be" (§4.8.2, §4.12 item 4); only item 5's first
+    sentence counted Active (§4.12); the abstract's "not a gain" limited
+    to institutional theory, and its accommodation claim given in parts of
+    different standing;
+  - item 4: QUESTION-056's criterion before §4.1.2's results, LEAD-128's
+    "What would count" before CASE-382's fit, and CASE-153's check before
+    CASE-346 (§4.8.3);
+  - item 5: Part I's files cited as "Article 3 (file 02, §2.n)"; how each
+    cited run was checked, in "Standing" and G4.2;
+  - item 6: J4.1 restated in the "when" form, with its verdict and
+    CLAIM-tmp7rl3d (Joins), and its relations as front matter holds them;
+  - item 8: corrections 2.5 (three of A51's four affective elements
+    Active, §4.6), 2.6 (A49 Article 4's abstract, §4.8.1) and 2.14
+    (medians with the range over seeds, §4.1.2; QUESTION-015 Answered).
+- **Article 5** (items 1, 2, 4, 5, 7 and 8; items 3 and 6 do not touch
+  it):
+  - item 1: the reruns of 2026-11-25 of CLAIM-1157, CLAIM-1025,
+    CLAIM-1008, CLAIM-1203 and CLAIM-1195 ("Standing", §5.3.3, §5.8.3,
+    §5.9, §5.10), CLAIM-1195's unreproduced 1.61, and CLAIM-1114 named as
+    the bottom of the chain (G5.9);
+  - item 2: CLAIM-758's readings (THEORY-2006 and the others) in §5.8 and
+    the §5.9 table, with the verdict done in part, by reading;
+  - item 4: LEAD-181's "What would count" before CASE-396's results
+    (§5.7);
+  - item 5: "handle the fixes for the twelve" read one way ("Who made
+    these entries Active"; "Limits", brought into line after the
+    fact-check); file 03, §3.1, for CLAIM-761; CLAIM-470 at the thirteenth
+    review (correction 2.10);
+  - item 7: G5.8, CLAIM-1190's title against its scope;
+  - item 8: corrections 2.7 (the abstract's stored-specification clause
+    credited to A), 2.8 (CLAIM-754's defeater with its scope), 2.11 (the
+    `rests_on` of §5.5.2), 2.13 (G5.5) and 2.14 ("produces").
+- **Article 6** (items 1 to 6 and 8; item 7 does not touch it):
+  - item 1: LEAD-181 Done (§6.4, G6.5); CASE-162 not rerunnable here,
+    its code being in dmarx/PerspectiveLab (§6.3, §6.10);
+  - item 2: the human avoidance readings THEORY-900, THEORY-901,
+    THEORY-903, THEORY-912, THEORY-920 and THEORY-914 ("Limits", §6.5,
+    §6.7's table), and the held work Part C found, CLAIM-342 and CASE-353
+    among it (§6.3);
+  - item 3: "unrewarded for discovering requirements" in the abstract,
+    and both conditions in §6.4 and §6.11's table;
+  - item 4: no criterion before CASE-162's run, said (§6.3); LEAD-181's
+    before CASE-396 (§6.4); CASE-153's before CASE-346 (§6.5);
+  - item 5: the twelve read one way ("Who made the standing"); the
+    reruns divided by who ran them ("Limits"); why CLAIM-442 is not used
+    (departure 4);
+  - item 6: the verdicts on J6.1 to J6.6 (Joins), with J6.3's correction
+    in §6.6 and J6.4's limit restricted in §6.7;
+  - item 8: corrections 2.4 ("Most of the leads named here have not been
+    run"), 2.9 (CLAIM-442 in no work), 2.10 (TERM-100 and CLAIM-532 on
+    2026-11-06, THEORY-335 with no delegation, CLAIM-1000 a claim) and
+    2.14.
+- **Item 9** (the fact-check), `FACTCHECK-2026-11-25-part-ii.md`, by a
+  reader who did not revise the text: 17 problems, all fixed on
+  2026-11-25 after each was re-checked against its entry. Who made an
+  entry Active: CLAIM-436 taken out of the delegated promotions and the
+  Active entries the revision added classed (Article 4). Statements the
+  record does not hold: CLAIM-tmp7rl3d's `complements` dropped (J4.1);
+  CASE-239's run as CASE-421 (§4.4, §4.10, G4.3); CLAIM-1024's notes of
+  2026-11-23 and 2026-11-24 (§6.6, G6.5, open item 21). Voices: Article
+  5's "Limits" read the twelve as the series does; CLAIM-tmpbucep quoted
+  from U30, not from its title (§6.8). A pointer to the curation entry's
+  section (§4.8.1). The joins counted as 17, with ten restatements
+  ("Part II's joins"). The Files table's G4.1 to G4.4, these items, and
+  open item 27. Contacts: the status pass's curation entry cited where
+  the articles describe its promotions, with its flags (overview;
+  Articles 5 and 6; open item 27); CLAIM-340 (§6.3, §6.7), CLAIM-294
+  (§5.4), CASE-186 (§6.6, §6.10) and CLAIM-1180 (§5.8.4) cited; and
+  "Points of contact not cited" lists added to Articles 5 and 6. The
+  points-of-contact search was run only lightly (open item 23).
+
 ## Open items for the owner
 
 1. Whether the series and the precursor manuscript are one work or two
@@ -600,8 +847,9 @@ three.
    SYNTHESIS-124, SYNTHESIS-111 and SYNTHESIS-106, Current after a review
    of their maps; and SYNTHESIS-tmp4tvbr, Current once its mapping is
    reviewed.
-10. **Membership of the two joins filed as claims**, CLAIM-tmp9ia3w and
-    CLAIM-tmpu77ve: candidate members under ADR-104.
+10. **Membership of the joins filed as claims**, CLAIM-tmp9ia3w and
+    CLAIM-tmpu77ve (Part I) and CLAIM-tmp7rl3d (Part II's J4.1, filed
+    2026-11-25): candidate members under ADR-104.
 11. **The leads the A51 audit found done or done in part**: whether to
     narrow, lower or close LEAD-tmpu1jj5, LEAD-tmpl9349, LEAD-tmpeo8wq,
     LEAD-tmpfq5cj, LEAD-tmpbqj9u and LEAD-tmpmmfxt, as their notes of
@@ -656,40 +904,107 @@ three.
     CLAIM-1016, CLAIM-996 and others, with CLAIM-754, CLAIM-758,
     CLAIM-675, CLAIM-602 and CLAIM-403 in governance-of-possibility only.
     Article 6's capture entries (CLAIM-466, CLAIM-1024, CLAIM-1183,
-    CLAIM-1202, CLAIM-1029, CLAIM-1194, with CLAIM-1185 and CLAIM-442)
-    belong to governance-of-possibility. Articles 1 and 3 are re-mapped,
+    CLAIM-1202, CLAIM-1029, CLAIM-1194, with CLAIM-1185) belong to
+    governance-of-possibility. CLAIM-442, in A51's backbone for Article 6,
+    has no `works` field and is in no work (review correction 2.9). Articles 1 and 3 are re-mapped,
     and the overview's standing counts for Articles 1 to 6 wait on the
     pass. Whether to run it, and whether an entry may be a member of both
     works, is the owner's call. Items 5, 10 and 14 would be settled with
     it.
-19. **CASE-325's missing check.** CASE-325, Active since it was filed on
-    2026-11-22, has no recorded check by a session other than its
-    filer's, the rule the owner applied to CASE-346 on 2026-11-24, and
-    Article 4 rests on it (G4.2). Its drafter could not rerun it (no
-    scipy). The reruns of 2026-11-25 are in progress, in a separate pull
-    request.
-20. **Stale statuses**, which only the owner can change: LEAD-089, Open
-    (idea) though CASE-325 reports its run (its note of 2026-11-22);
-    LEAD-101, Open (idea) though run, inconclusively (CLAIM-432's note of
-    2026-11-23; CASE-405); LEAD-181, Open at *specified* though CASE-396
-    ran it (G6.5).
+19. *Closed: CASE-325 rerun on 2026-11-25 by a session other than its
+    filer's (see below).*
+20. *Closed: LEAD-089 and LEAD-181 Done on 2026-11-25; LEAD-101 left Open
+    (see below).*
 21. **Stale accounts**, for the next synthesis review: SYNTHESIS-018 and
     SYNTHESIS-020 predate LEAD-101's run and CASE-330; SYNTHESIS-036
     maps none of CASE-325, CLAIM-889 or CLAIM-890 and still calls the
     explanatory-gain question open (G4.1); SYNTHESIS-114 gives CLAIM-761
     as Proposed, though Active since 2026-11-20; SYNTHESIS-118 predates
     the fourth share of "Explain First Contact RL" and integrates none of
-    CLAIM-1115, CLAIM-1190 or TERM-160 (G5.7). Article 6 names two
-    wording slips for dated notes: CLAIM-404's note of 2026-11-24 says
-    "three routes", and CLAIM-1024's summary still calls its components
-    "all Proposed" (G6.5).
-22. **Part II's joins awaiting ADR-075's test**, by a reader who did not
-    draft them: J4.1, J5.1 and J6.3 are the candidates, with J6.4 as a
-    likely restatement. The test belongs with Part II's review (skill
-    step 7).
+    CLAIM-1115, CLAIM-1190 or TERM-160 (G5.7). Article 6 named two
+    wording slips: CLAIM-404's note of 2026-11-24 says "three routes",
+    now corrected by its note of 2026-11-25; and CLAIM-1024's summary
+    still calls its components "all Proposed", which its notes of
+    2026-11-23 and 2026-11-24 record, the text being the owner's to
+    revise (G6.5).
+22. *Closed: Part II's joins tested under ADR-075 on 2026-11-25 (see
+    below).*
+23. **The fact-check of Part II's revision** (review plan item 9; skill
+    step 8): by a reader who did not revise the text, checking every
+    quotation, standing and figure against its entry and reproducing
+    every figure; rerunning the quotation and standing scripts, since
+    the record moved during the review; and running the points-of-contact
+    search region by region, with the process history as one region,
+    which the review did not run in full. Run on 2026-11-25
+    (`FACTCHECK-2026-11-25-part-ii.md`), and its 17 problems fixed. What
+    stays open is the full region-by-region contact search, which the
+    fact-check ran only lightly.
+24. **The reruns' choices** (curation of 2026-11-25 02:20, "For the
+    owner"): whether to recheck and promote CLAIM-1114, which frees
+    CLAIM-1157, CLAIM-1025, CLAIM-1008 and CLAIM-1203, or to read
+    CLAIM-1008's edge to CLAIM-1157 as a borrowed framing (ADR-057, "An
+    inversion"); whether CLAIM-1195's 1.61 is restated with its process
+    and seed or replaced by the rerun's range (1.74 to 1.84), with
+    CLAIM-1148 needing the owner's assent in any case; and whether to
+    attach dmarx/PerspectiveLab, so that CASE-162's runs can be
+    regenerated and CASE-163 and CASE-164 re-read.
+25. **CLAIM-1190's title against its scope** (review 1.7, plan item 7):
+    Article 5 finds "The title and the scope are inconsistent", and the
+    history concedes that it asserts no more than construction 1 shows.
+    A dated note, or a narrowed title, is the owner's call (Article 5's
+    gaps).
+26. *Closed: J6.4's qualification is filed as a dated note of 2026-11-25
+    on CLAIM-tmpn754o: CASE-346's identification limit holds only for a
+    procedure that masks its own outcome, and the test in
+    CLAIM-tmpn754o's note of 2026-11-24 gives clear feedback. With it,
+    notes of 2026-11-25 on CLAIM-tmpp0ufw (its summary's "by a procedure
+    that stays what it was" does not fit the criteria route; G6.5) and
+    on CLAIM-tmpyp0ju (citing Article 5's §5.9 table; G5.5).*
+27. **Part II's owner choices.** Each is named as the owner's in the
+    articles; some predate Part II and are in the status pass's "For
+    the owner" (curation entry of 2026-11-24 23:11), but none was
+    routed from this manuscript until now:
+    - TERM-159 against TERM-160 (Article 5 §5.3.1);
+    - TERM-163's definition, and the assent CLAIM-1148 needs (§5.8.3);
+    - CLAIM-1120 against CLAIM-997, the reading of "without penalties"
+      that decides LEAD-181's test, which its history says "stays the
+      owner's" (§6.4);
+    - CLAIM-1185's concession on CLAIM-1024, "the owner's to write"
+      (§6.6), with A53's wording as a candidate;
+    - the reading of CLAIM-446's defeater against CLAIM-924, whether an
+      outcome-gated habit can receive reinforcement correction (§6.5,
+      §4.8.3);
+    - whether CLAIM-1202 moves CLAIM-404's warrant (§6.6);
+    - whether to file LEAD-141's intervention as a proposed study
+      (§4.1.3);
+    - whether CASE-382's fit meets LEAD-128's criterion for CLAIM-358,
+      which would promote it on the cost direction alone (§4.8.1);
+    - the narrowing of LEAD-tmpbqj9u (§4.10, §5.7);
+    - the companion paper, "Inquiry as Infrastructure" (§5.9);
+    - the three promotions the status pass itself put to the owner's
+      review: the interpretive promotion of CLAIM-1093 (§5.8.4), and
+      the demonstrated promotions of CLAIM-1190 (§5.3.2, G5.8; with open
+      item 25) and of the counter CLAIM-1185 (§6.6) (curation entry of
+      2026-11-24 23:11, "For the owner").
 
 ## Closed since the last list
 
+- **Part II's revision** (2026-11-25, open item 22 and the review's
+  plan): "go ahead with the revision plan". Part II was reviewed
+  (#798) and revised on the plan, item by item ("The review's plan, item
+  by item"). Part II's joins were tested under ADR-075 in the review's
+  pull request: J4.1 passed in a corrected form and is CLAIM-tmp7rl3d
+  (Proposed, demonstrated conditional on its first step); J5.1 and J6.4
+  failed; J6.3 misstated CASE-346, and its remainder fails as a claim;
+  the rest are restatements or rightly not made ("The joins"). J5.1's
+  residue is a note on TERM-131, and J6.3's remainder notes on LEAD-220
+  and CLAIM-1024; J6.4's a note of 2026-11-25 on CLAIM-tmpn754o (open
+  item 26).
+- **The reruns** (2026-11-25, #797, open items 19 and 20): "go ahead with
+  the reruns". CASE-325 rerun by a session other than its filer's, every
+  figure matching (its note of 2026-11-25). LEAD-089 and LEAD-181 closed
+  as Done, "housekeeping and not a change of credence"; LEAD-101 left
+  Open, since its test "is still unrun in the form this lead sets".
 - **A51's order** (2026-11-25). The owner first said "keep A49's order; continue with Part II", then, on seeing what that meant, "my bad let's do a51". The series takes A51's order (ADR-tmpenzcn version 2): 1 The Identity of Organization; 2 Regulation as the Governance of Possibility, the existing manuscript of the work governance-of-possibility, kept a work of its own; 3 The Contracts We Become; 4 The Architecture of Will; 5 Inquiry Changes the Inquirer; 6 The Organization of Ignorance; 7 to 14 as A49, under A51's titles. The Part I drafts map onto it: 01 is Article 1; 02 is Article 3; 03, "The Cost of Becoming", has no article of its own, and its parts go to Article 3 (the cost model), Article 2 (readiness) and Article 5 (costed frontiers), at the next refresh. A51 §6's companion paper, "Inquiry as Infrastructure", is not taken up.
 - **U4's readings** (#787): "I think both readings are valid. I mainly
   meant 'meme as value'". CLAIM-tmp4mk0t is primary and CLAIM-tmphi3mx
