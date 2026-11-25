@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpas8q0
 title: 'The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-29'
@@ -65,6 +65,12 @@ history:
     Note of 2026-11-20: the decision census (CASE-300) finds the
     claim's mechanism in the misfits that were noticed. No change to the
     claim.
+- version: 9
+  date: '2026-11-25'
+  note: >-
+    Joins the work luria-beyond-software (ADR-tmp85hdc): Article 2 of A45
+    in the exchange "Hyper article interpretation" states its proposition
+    or uses it as a step, in §4. No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -76,6 +82,7 @@ line:
 - nucleating-argument
 - records-of-inquiry
 works:
+- luria-beyond-software
 - from-obstruction-to-reorganization
 objects_to:
 - CLAIM-176

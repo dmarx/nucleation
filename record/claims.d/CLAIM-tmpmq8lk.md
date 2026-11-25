@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: A feed's memory is the durable provenance of the decisions and events that shaped it and not a cache of what it displayed, since a cache says what was shown and a memory says why, so a feed can be modelled as a versioned query with an append-only history of editorial actions, and curation becomes part of the record it curates
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-25'
@@ -10,6 +10,12 @@ history:
     tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
     atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
     documented as a line. No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition without
+    citing it, in §6. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,6 +45,8 @@ summary: >-
   becomes part of the scientific record." The wording is A's (ChatGPT's,
   at A11 of the exchange "Hyper article interpretation"); adopting it is
   the owner's call.
+works:
+- hyperarticles
 ---
 
 <!-- inactive-ok-file: TERM-tmpx49xx CLAIM-250 CLAIM-tmptn64c — Proposed; the owner's feed, what a record should preserve through revision, and the assistant's refinement -->

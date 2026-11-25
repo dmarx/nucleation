@@ -8,7 +8,7 @@ title: Sorting schemes over objects with determinate properties never conflict a
   as arrangements, since a fixed number of bins realizes one partition when each
   item is stored once, and which costs least depends on what is searched for and on
   what stands out within a bin
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -20,6 +20,12 @@ history:
     that cannot be copied, such as bricks. It fails for index entries, which
     can be stored in several bins at once. The description clause, the LEGO
     case and the defeat condition are unchanged. The status stays Active.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    A45 in the exchange "Hyper article interpretation" states its
+    proposition without citing it, in §4. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -62,6 +68,8 @@ summary: >-
   of features into a search for one feature within each bin, which Treisman and Gelade
   (LIT-1082, read) show is the difference between a serial scan and one found
   at a glance.
+works:
+- conditions-of-correction
 ---
 <!-- inactive-ok-file: LIT-1081 — Unavailable; held without a reading, cited as such -->
 <!-- inactive-ok-file: CLAIM-037 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->

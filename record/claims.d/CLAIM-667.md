@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmppk8g6
 title: 'Governance raises the value of a modifiable schema on tasks whose inherited categories are inadequate: with review, rationale and migration, letting a collective change its schema improves justified correction more than it does without them'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-12'
@@ -21,6 +21,12 @@ history:
     schema change is needed. Such an improvement would not invalidate the
     hypothesized interaction". It is now CLAIM-665, secondary and
     tested on its own; neither claim rests on the other.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work luria-beyond-software (ADR-tmp85hdc): Article 2 of A45
+    in the exchange "Hyper article interpretation" states its proposition
+    or uses it as a step, in §8. No other change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -60,6 +66,8 @@ summary: >-
   can come out against. A states it as a hypothesis to test; filed
   Proposed with an empirical warrant that no result yet supplies. The
   wording is A's; adopting it is the owner's call.
+works:
+- luria-beyond-software
 ---
 <!-- inactive-ok-file: CLAIM-685 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: CASE-253 CLAIM-665 — filed from the same exchange, Proposed -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpi1bjh
 title: 'Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder'
-version: 11
+version: 12
 history:
 - version: 2
   date: '2026-10-29'
@@ -81,6 +81,12 @@ history:
     tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
     atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
     documented as a line. No other change.
+- version: 12
+  date: '2026-11-25'
+  note: >-
+    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    A45 in the exchange "Hyper article interpretation" states its
+    proposition or uses it as a step, in §2. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -102,6 +108,7 @@ line:
 - record-as-apparatus
 - learning-and-inquiry
 works:
+- conditions-of-correction
 - cost-structure-of-possibility
 - governance-of-becoming
 rests_on:

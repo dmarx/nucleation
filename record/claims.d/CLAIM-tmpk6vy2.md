@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: Publishing is a set of separable guarantees, persistent access, stable identifiers, versioned records, metadata, attribution, discoverability and preservation, which different providers can give, so the identity of a scholarly object must be independent of the identity of its host, and keeping it online is distinct from keeping it after the host fails
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-25'
@@ -10,6 +10,12 @@ history:
     tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
     atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
     documented as a line. No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition without
+    citing it, in §7. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,6 +43,8 @@ summary: >-
   assistant's check of the migration test on this record is
   [CLAIM-tmp80nuw](CLAIM-tmp80nuw.md). The wording is A's (ChatGPT's, at A13 of the exchange
   "Hyper article interpretation"); adopting it is the owner's call.
+works:
+- hyperarticles
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpv0sv7 CLAIM-tmp80nuw CLAIM-tmpzz0eu — Proposed; the owner's thesis, and the assistant's gap fills -->

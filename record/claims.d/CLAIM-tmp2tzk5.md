@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'The unit of scholarly contribution is not the unit of publication: a paper is a communication artifact and a contribution a change in the state of knowledge, and corrections, narrowings, newly found dependencies, integrations, maintenance and retirements become recognizable as contributions once claims and their revisions have identities apart from the manuscripts that present them'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-25'
@@ -10,6 +10,12 @@ history:
     tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
     atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
     documented as a line. No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition without
+    citing it, in §8. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -43,6 +49,8 @@ summary: >-
   correction and closure must be rewarded as well as expansion. The
   wording is A's (ChatGPT's, at A21 of the exchange "Hyper article
   interpretation"); adopting it is the owner's call.
+works:
+- hyperarticles
 ---
 <!-- inactive-ok-file: CLAIM-tmpgli4k CLAIM-tmp2timl CLAIM-tmp4rfba CLAIM-004 CLAIM-668 CLAIM-617 — Proposed; the claims it complements or defers to, and neighbours cited as open -->
 <!-- inactive-ok-file: CLAIM-006 — Superseded; cited as the record's own instance of a retired claim -->

@@ -6,7 +6,7 @@ formerly:
 title: Two inquiry histories can agree on every current conclusion and still call
   for different revisions of it, so a current marginal belief is not a sufficient
   state for updating on evidence about what it depended on
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -38,6 +38,12 @@ history:
     (CLAIM-294)", the narrow answer, revision only. It gains
     record-as-apparatus, the question's first line, after its own
     (ADR-085). No other change.
+- version: 6
+  date: '2026-11-25'
+  note: >-
+    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    A45 in the exchange "Hyper article interpretation" states its
+    proposition or uses it as a step, in §3. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -67,6 +73,8 @@ summary: >-
   ([CLAIM-293](CLAIM-293.md)).
 bears_on:
 - QUESTION-366
+works:
+- conditions-of-correction
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-1736 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
