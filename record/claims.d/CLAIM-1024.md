@@ -122,3 +122,14 @@ A53 proposes a joint ruling on this claim and its objection [CLAIM-1185](CLAIM-1
 
 <!-- inactive-ok-block: CLAIM-tmpjdml5 — Proposed; filed at the status pass of 2026-11-24 -->
 At the status pass of 2026-11-24, at the owner's word ("handle the fixes for the twelve ... use your best judgement"), [CLAIM-1202](CLAIM-1202.md), the last of the four components, went Active with [CLAIM-1000](CLAIM-1000.md) and [CASE-401](../cases.d/CASE-401.md), and the objection [CLAIM-1185](CLAIM-1185.md) went Active after its title was narrowed to its model. Its concession on this claim is now due ([ADR-059](../decisions.d/ADR-059.md)) and is the owner's to write, since the claim is the owner's; A53's wording in the note above is a candidate. The general form of the objection, beyond that model, is the Proposed [CLAIM-tmpjdml5](CLAIM-tmpjdml5.md). The note is the assistant's (Claude, in this session). No status change.
+
+## Note of 2026-11-25: from the review of the manuscript governance-of-becoming, Part II
+
+
+A manuscript's join (Article 6, J6.3) read [CASE-346](../cases.d/CASE-346.md) as separating two of
+this claim's conditions. An independent reader found that it misstated the
+case, and that [CASE-346](../cases.d/CASE-346.md)'s results, independent evaluation ending protection
+in every run, point to the conditions narrowing, not separating. The
+detail is in [LEAD-220](../leads.d/LEAD-220.md)'s note of this date. No change to this claim; the
+concession [CLAIM-1185](CLAIM-1185.md) asks of it is still the owner's to write. The wording
+is the assistant's (Claude, in this session).
