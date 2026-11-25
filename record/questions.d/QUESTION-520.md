@@ -62,9 +62,9 @@ goes to it, is [CASE-386](../cases.d/CASE-386.md).
 [CLAIM-1157](../claims.d/CLAIM-1157.md), A52's answer, went Active on 2026-11-25 under the owner's
 delegation of 2026-11-24, after a rerun by a second session reproduced it
 and [CLAIM-1114](../claims.d/CLAIM-1114.md), its premise, was promoted (dmarx/nucleation#813 and
-#814). Under [ADR-049](../decisions.d/ADR-049.md) a question with an Active answer is Answered, or is
+[#814](https://github.com/dmarx/nucleation/issues/814)). Under [ADR-049](../decisions.d/ADR-049.md) a question with an Active answer is Answered, or is
 split if part of it is still open. The question is the owner's, so its
 status is left Open for the owner to set: Answered, or split if the owner
 holds that "time as an influential shared resource" asks more than
-CLAIM-1157 settles. The wording is the assistant's (Claude, in this
+[CLAIM-1157](../claims.d/CLAIM-1157.md) settles. The wording is the assistant's (Claude, in this
 session); adopting it is the owner's call.
