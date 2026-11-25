@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: "geodesic and orbit, of a route through the record's views: a geodesic takes a reader from an accessible problem to a deeper result in few conceptual transitions; an orbit returns to its starting question with the reader equipped to understand it differently"
+title: 'geodesic and orbit'
+statement: >-
+  geodesic and orbit, of a route through the record's views: a geodesic
+  takes a reader from an accessible problem to a deeper result in few
+  conceptual transitions; an orbit returns to its starting question with the
+  reader equipped to understand it differently
 version: 1
 tags:
 - design-rationale
@@ -17,7 +22,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmpc4q8o CLAIM-tmp6xzjy TERM-tmpjn06u — new; the owner's thesis, the lead that would make geodesic exact, the cycle claim and the hyperarticle term -->
 
-# TERM-tmp1bef0: geodesic and orbit, of a route through the record's views: a geodesic takes a reader from an accessible problem to a deeper result in few conceptual transitions; an orbit returns to its starting question with the reader equipped to understand it differently
+# TERM-tmp1bef0: geodesic and orbit
 
 ## The definition
 

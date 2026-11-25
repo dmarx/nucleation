@@ -3,7 +3,9 @@ number: 46
 status: Active
 formerly:
 - TERM-tmpgthc0
-title: 'notation for the threshold, drive and unity criteria'
+title: 'threshold, drive and unity notation'
+statement: >-
+  notation for the threshold, drive and unity criteria
 version: 1
 tags:
 - mathematics
@@ -19,7 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-161 CLAIM-158 — claims whose symbols this term fixes, cited for their notation -->
 
-# TERM-046: notation for the threshold, drive and unity criteria
+# TERM-046: threshold, drive and unity notation
 
 ## Definition
 

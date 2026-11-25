@@ -3,7 +3,13 @@ number: 128
 formerly:
 - TERM-tmphum9r
 status: Proposed
-title: 'normative governability, of an organized agent or relationship: its maintained, role-appropriate capacity to recognize and respond to justified normative considerations, including considerations that require revising its own governing mechanisms; relational, and not corrigibility, compliance or obedience to challengers'
+title: 'normative governability'
+statement: >-
+  normative governability, of an organized agent or relationship: its
+  maintained, role-appropriate capacity to recognize and respond to
+  justified normative considerations, including considerations that require
+  revising its own governing mechanisms; relational, and not corrigibility,
+  compliance or obedience to challengers
 version: 1
 tags:
 - self-governance
@@ -30,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-714 CLAIM-719 CLAIM-742 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: ARG-058 CLAIM-511 CLAIM-545 THEORY-122 — Proposed; the record's nearest entries, cited with their standing -->
 
-# TERM-128: normative governability, of an organized agent or relationship: its maintained, role-appropriate capacity to recognize and respond to justified normative considerations, including considerations that require revising its own governing mechanisms; relational, and not corrigibility, compliance or obedience to challengers
+# TERM-128: normative governability
 
 ## Definition
 

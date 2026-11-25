@@ -3,7 +3,10 @@ number: 81
 status: Proposed
 formerly:
 - TERM-tmphg3oi
-title: 'moral worth, and which sense: intrinsic moral value, status-based dignity, or moral merit'
+title: 'moral worth'
+statement: >-
+  moral worth, and which sense: intrinsic moral value, status-based dignity,
+  or moral merit
 version: 1
 tags:
 - ethics
@@ -21,7 +24,7 @@ summary: >-
   a person's standing. Standing itself is [TERM-083](TERM-083.md). Proposed.
 ---
 
-# TERM-081: moral worth, and which sense: intrinsic moral value, status-based dignity, or moral merit
+# TERM-081: moral worth
 
 ## Definition
 

@@ -3,7 +3,13 @@ number: 85
 status: Active
 formerly:
 - TERM-tmpsuzzj
-title: 'correctability, of an institutional arrangement for a corrective objective: the chance that the arrangement, starting from the description of the problem it actually has, finds, authorizes, coordinates and carries out a plan achieving the objective before the deadline and within its resources'
+title: 'correctability'
+statement: >-
+  correctability, of an institutional arrangement for a corrective
+  objective: the chance that the arrangement, starting from the description
+  of the problem it actually has, finds, authorizes, coordinates and carries
+  out a plan achieving the objective before the deadline and within its
+  resources
 version: 4
 history:
 - version: 2
@@ -56,7 +62,7 @@ summary: >-
 
 ---
 
-# TERM-085: correctability, of an institutional arrangement for a corrective objective: the chance that the arrangement, starting from the description of the problem it actually has, finds, authorizes, coordinates and carries out a plan achieving the objective before the deadline and within its resources
+# TERM-085: correctability
 
 ## Definition
 

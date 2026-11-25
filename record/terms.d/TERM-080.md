@@ -3,7 +3,10 @@ number: 80
 status: Proposed
 formerly:
 - TERM-tmpfkv5u
-title: 'collective intention, and which sense: participatory shared intention, institutionally constituted intention, or attributed collective intention'
+title: 'collective intention'
+statement: >-
+  collective intention, and which sense: participatory shared intention,
+  institutionally constituted intention, or attributed collective intention
 version: 1
 tags:
 - social-ontology
@@ -21,7 +24,7 @@ summary: >-
   Proposed.
 ---
 
-# TERM-080: collective intention, and which sense: participatory shared intention, institutionally constituted intention, or attributed collective intention
+# TERM-080: collective intention
 
 ## Definition
 

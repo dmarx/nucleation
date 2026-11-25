@@ -3,7 +3,13 @@ number: 67
 status: Active
 formerly:
 - TERM-tmpf5k7x
-title: 'governance-response profile, of a state for a declared family of interventions on the mechanisms that govern efficacy: the tuple of its response kernels, J_I(s) = (K_i(· | s))_{i∈I} with K_i(y | s) = P(Y^(i) = y | S = s); a description is governance-response sufficient for (I, Y) when the profile factors through it'
+title: 'governance-response profile'
+statement: >-
+  governance-response profile, of a state for a declared family of
+  interventions on the mechanisms that govern efficacy: the tuple of its
+  response kernels, J_I(s) = (K_i(· | s))_{i∈I} with K_i(y | s) = P(Y^(i) =
+  y | S = s); a description is governance-response sufficient for (I, Y)
+  when the profile factors through it
 version: 5
 history:
 - version: 2
@@ -58,7 +64,7 @@ draws_on:
 - THEORY-849
 ---
 
-# TERM-067: governance-response profile, of a state for a declared family of interventions on the mechanisms that govern efficacy: the tuple of its response kernels, J_I(s) = (K_i(· | s))_{i∈I} with K_i(y | s) = P(Y^(i) = y | S = s); a description is governance-response sufficient for (I, Y) when the profile factors through it
+# TERM-067: governance-response profile
 
 ## Definition
 

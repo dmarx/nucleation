@@ -3,7 +3,13 @@ number: 148
 status: Proposed
 formerly:
 - TERM-tmpo4pxh
-title: 'shared perspective, of a population, as against correlated responses and socially learned norms, restorative reading: members whose interpretive structures are alike, whose interpretive states depend on one another in both directions, and who restore a member''s deviation to the shared structure rather than average it into the population'
+title: 'shared perspective (restorative)'
+statement: >-
+  shared perspective, of a population, as against correlated responses and
+  socially learned norms, restorative reading: members whose interpretive
+  structures are alike, whose interpretive states depend on one another in
+  both directions, and who restore a member's deviation to the shared
+  structure rather than average it into the population
 version: 1
 rivals:
 - TERM-149
@@ -28,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-149 — new; the rival reading, filed with this term for LEAD-087 -->
 
-# TERM-148: shared perspective, of a population, as against correlated responses and socially learned norms, restorative reading: members whose interpretive structures are alike, whose interpretive states depend on one another in both directions, and who restore a member's deviation to the shared structure rather than average it into the population
+# TERM-148: shared perspective (restorative)
 
 ## Definition
 

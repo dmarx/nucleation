@@ -3,7 +3,10 @@ number: 136
 status: Proposed
 formerly:
 - TERM-tmplplcf
-title: 'ambient, intrinsic, effective and spectral dimension (of a learned representation)'
+title: 'dimension (of a representation)'
+statement: >-
+  ambient, intrinsic, effective and spectral dimension (of a learned
+  representation)
 version: 2
 history:
 - version: 2
@@ -43,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-847 CLAIM-848 CLAIM-842 CLAIM-797 THEORY-1272 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
 <!-- inactive-ok-file: THEORY-2189 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# TERM-136: ambient, intrinsic, effective and spectral dimension (of a learned representation)
+# TERM-136: dimension (of a representation)
 
 ## Definition
 

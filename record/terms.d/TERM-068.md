@@ -3,7 +3,9 @@ number: 68
 status: Active
 formerly:
 - TERM-tmpfezzd
-title: 'closure, and which sense'
+title: 'closure'
+statement: >-
+  closure, and which sense
 version: 3
 history:
 - version: 2
@@ -45,7 +47,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-119 — Proposed; named only for the homonym or the sense they use, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; the demarcation and agency readings that use organizational closure, cited as open -->
 
-# TERM-068: closure, and which sense
+# TERM-068: closure
 
 ## Definition
 

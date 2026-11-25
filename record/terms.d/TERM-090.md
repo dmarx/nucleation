@@ -6,7 +6,13 @@ formerly:
 complements:
 - TERM-093
 - TERM-091
-title: 'effective boundary constraint, of a composite: the relation its interconnected parts impose on the variables an outside system can reach, once the interior is eliminated; approximately instantaneous or history-dependent, and, independently, possibly of a kind the parts'' relations could not state'
+title: 'effective boundary constraint'
+statement: >-
+  effective boundary constraint, of a composite: the relation its
+  interconnected parts impose on the variables an outside system can reach,
+  once the interior is eliminated; approximately instantaneous or
+  history-dependent, and, independently, possibly of a kind the parts'
+  relations could not state
 version: 4
 history:
 - version: 2
@@ -64,7 +70,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: LIT-1660 — Unavailable; the work whose term the definition borrows, unread -->
 
-# TERM-090: effective boundary constraint, of a composite: the relation its interconnected parts impose on the variables an outside system can reach, once the interior is eliminated; approximately instantaneous or history-dependent, and, independently, possibly of a kind the parts' relations could not state
+# TERM-090: effective boundary constraint
 
 ## Definition
 

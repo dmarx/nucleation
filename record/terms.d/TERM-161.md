@@ -3,7 +3,13 @@ number: 161
 status: Proposed
 formerly:
 - TERM-tmpm0s7g
-title: 'singularity, of a candidate self, in three senses that come apart: carrier singularity, one carrier at the declared level of description; organizational singularity, one overarching organizational perspective within which every perspective that makes a difference is integrated; phenomenal singularity, all its experience belonging to one subject'
+title: 'singularity'
+statement: >-
+  singularity, of a candidate self, in three senses that come apart: carrier
+  singularity, one carrier at the declared level of description;
+  organizational singularity, one overarching organizational perspective
+  within which every perspective that makes a difference is integrated;
+  phenomenal singularity, all its experience belonging to one subject
 version: 1
 tags:
 - self
@@ -31,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-166 CLAIM-1019 CLAIM-355 CLAIM-417 — Proposed; the term and claim filed beside this one, and neighbours -->
 
-# TERM-161: singularity, of a candidate self, in three senses that come apart: carrier singularity, one carrier at the declared level of description; organizational singularity, one overarching organizational perspective within which every perspective that makes a difference is integrated; phenomenal singularity, all its experience belonging to one subject
+# TERM-161: singularity
 
 ## Definition
 

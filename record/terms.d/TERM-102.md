@@ -3,7 +3,13 @@ number: 102
 status: Active
 formerly:
 - TERM-tmp0evbm
-title: 'higher-order volition: an attitude that a given first-order motive or regime should be the one that moves to action, Frankfurt''s second-order volition, the reflective sense of "endorse", kept apart from conferral between processes, from the machinery that makes a motive effective, and from identification'
+title: 'higher-order volition'
+statement: >-
+  higher-order volition: an attitude that a given first-order motive or
+  regime should be the one that moves to action, Frankfurt's second-order
+  volition, the reflective sense of "endorse", kept apart from conferral
+  between processes, from the machinery that makes a motive effective, and
+  from identification
 version: 3
 history:
 - version: 2
@@ -48,7 +54,7 @@ draws_on:
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070; named as the former word for conferral -->
 <!-- inactive-ok-file: ADR-056 THEORY-029 THEORY-120 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# TERM-102: higher-order volition: an attitude that a given first-order motive or regime should be the one that moves to action, Frankfurt's second-order volition, the reflective sense of "endorse", kept apart from conferral between processes, from the machinery that makes a motive effective, and from identification
+# TERM-102: higher-order volition
 
 ## Definition
 

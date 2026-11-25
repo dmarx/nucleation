@@ -3,7 +3,9 @@ number: 29
 status: Superseded
 formerly:
 - TERM-tmptzu1i
-title: 'frame, as the position a rendering is delivered from'
+title: 'frame (delivery position)'
+statement: >-
+  frame, as the position a rendering is delivered from
 version: 1
 tags:
 - philosophy-of-language
@@ -18,7 +20,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-006 TERM-005 TERM-035 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# TERM-029: frame, as the position a rendering is delivered from
+# TERM-029: frame (delivery position)
 
 ## Definition
 

@@ -3,7 +3,10 @@ number: 87
 status: Proposed
 formerly:
 - TERM-tmp0est4
-title: 'cut, and which sense: a Cartesian cut, Pattee''s epistemic cut, or Barad''s agential cut, enacted by an apparatus'
+title: 'cut'
+statement: >-
+  cut, and which sense: a Cartesian cut, Pattee's epistemic cut, or Barad's
+  agential cut, enacted by an apparatus
 version: 5
 history:
 - version: 2
@@ -59,7 +62,7 @@ draws_on:
 <!-- inactive-ok-file: LIT-1653 LIT-1657 — Unavailable or Deferred; Barad's texts, unread; the agential sense is the exchange's account of her and the readings' quotations -->
 <!-- inactive-ok-file: CLAIM-476 — Proposed; the claim stated in the agential sense -->
 
-# TERM-087: cut, and which sense: a Cartesian cut, Pattee's epistemic cut, or Barad's agential cut, enacted by an apparatus
+# TERM-087: cut
 
 ## Definition
 

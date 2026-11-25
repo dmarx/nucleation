@@ -3,7 +3,12 @@ number: 153
 status: Proposed
 formerly:
 - TERM-tmp3mop8
-title: 'certificate, of a realization against a specification: a checkable record that it passes each test, carried with it, so relying on the realization means checking the record rather than redoing the search; the evidence half of a proof-relevant answer'
+title: 'certificate'
+statement: >-
+  certificate, of a realization against a specification: a checkable record
+  that it passes each test, carried with it, so relying on the realization
+  means checking the record rather than redoing the search; the evidence
+  half of a proof-relevant answer
 version: 1
 tags:
 - logic
@@ -29,7 +34,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-tmp9cdlq THEORY-tmpqj2d4 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
 <!-- inactive-ok-file: TERM-154 TERM-152 CLAIM-949 — Proposed; the pair filed with this and the entries it is stated against -->
 
-# TERM-153: certificate, of a realization against a specification: a checkable record that it passes each test, carried with it, so relying on the realization means checking the record rather than redoing the search; the evidence half of a proof-relevant answer
+# TERM-153: certificate
 
 ## Definition
 

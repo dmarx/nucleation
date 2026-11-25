@@ -13,7 +13,14 @@ complements:
 - TERM-tmp383al
 - TERM-124
 - TERM-066
-title: 'institutional sociopathy, relative to a declared standard of standing: the condition of an institution to which the needs and claims of those it affects are legible, yet those claims carry no effective weight in what it does by any route, direct or representative; typically arising where legibility is asymmetric and the processes meant to carry the claims are captured'
+title: 'institutional sociopathy'
+statement: >-
+  institutional sociopathy, relative to a declared standard of standing: the
+  condition of an institution to which the needs and claims of those it
+  affects are legible, yet those claims carry no effective weight in what it
+  does by any route, direct or representative; typically arising where
+  legibility is asymmetric and the processes meant to carry the claims are
+  captured
 summary: >-
   The owner's phrase at U29 of the exchange 'Memes, Contracts, and
   Systemic Normativity', in the sense the owner fixed on 2026-11-24 when
@@ -28,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-tmp383al TERM-124 TERM-066 CLAIM-tmpsh3og CLAIM-624 CLAIM-431 CLAIM-432 TERM-tmpg31ao TERM-tmpxr1ox CLAIM-tmpbucep — Proposed, Open or new; the terms and claims this term rests on and sits among -->
 
-# TERM-tmp72sq3: institutional sociopathy, relative to a declared standard of standing: the condition of an institution to which the needs and claims of those it affects are legible, yet those claims carry no effective weight in what it does by any route, direct or representative; typically arising where legibility is asymmetric and the processes meant to carry the claims are captured
+# TERM-tmp72sq3: institutional sociopathy
 
 ## Definition
 

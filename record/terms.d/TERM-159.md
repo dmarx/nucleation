@@ -3,7 +3,12 @@ number: 159
 status: Deferred
 formerly:
 - TERM-tmpace0k
-title: 'inquiry frontier, as the boundary of the question–answer processes an agent or organization can jointly realize within a declared budget, horizon and inquiry regime, with a query frontier and an answer frontier as components that do not determine it'
+title: 'inquiry frontier (question–answer)'
+statement: >-
+  inquiry frontier, as the boundary of the question–answer processes an
+  agent or organization can jointly realize within a declared budget,
+  horizon and inquiry regime, with a query frontier and an answer frontier
+  as components that do not determine it
 version: 2
 history:
 - version: 2
@@ -38,7 +43,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1009 CLAIM-754 CLAIM-732 CLAIM-1036 — Proposed; the owner's thesis, the other alternative, the claims filed with this, and claims stated in the term it would revise -->
 
-# TERM-159: inquiry frontier, as the boundary of the question–answer processes an agent or organization can jointly realize within a declared budget, horizon and inquiry regime, with a query frontier and an answer frontier as components that do not determine it
+# TERM-159: inquiry frontier (question–answer)
 
 ## Definition
 

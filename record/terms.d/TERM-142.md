@@ -3,7 +3,10 @@ number: 142
 status: Proposed
 formerly:
 - TERM-tmpyi882
-title: 'scale-free, said of an observable: a heavy-tailed marginal, a scale-covariant law of correlation or dynamics, or a power-law spectrum'
+title: 'scale-free'
+statement: >-
+  scale-free, said of an observable: a heavy-tailed marginal, a
+  scale-covariant law of correlation or dynamics, or a power-law spectrum
 version: 2
 history:
 - version: 2
@@ -45,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-846 CLAIM-841 CLAIM-850 CLAIM-810 — filed with this term on 2026-11-21, Proposed -->
 <!-- inactive-ok-file: THEORY-803 — Proposed; the record's one reading of statistical self-similarity, named as an instance -->
 
-# TERM-142: scale-free, said of an observable: a heavy-tailed marginal, a scale-covariant law of correlation or dynamics, or a power-law spectrum
+# TERM-142: scale-free
 
 ## Definition
 

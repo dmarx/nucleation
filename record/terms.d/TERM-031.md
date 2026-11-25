@@ -3,7 +3,9 @@ number: 31
 status: Active
 formerly:
 - TERM-tmpuhia8
-title: 'frame, as a measurement context'
+title: 'frame (measurement context)'
+statement: >-
+  frame, as a measurement context
 version: 1
 tags:
 - contextuality
@@ -19,7 +21,7 @@ superseded_by:
 - TERM-030
 ---
 
-# TERM-031: frame, as a measurement context
+# TERM-031: frame (measurement context)
 
 ## Definition
 

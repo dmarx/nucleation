@@ -3,7 +3,14 @@ number: 160
 status: Active
 formerly:
 - TERM-tmpdk711
-title: "joint inquiry frontier, of an agent at a budget and horizon: the question–answer pairs it can bring about together, formulating the question and producing and evaluating an answer to a stated acceptance standard within the same resources; its question side is the inquiry frontier's investigable set, and its answer side, indexed by question, is the answer frontier"
+title: 'joint inquiry frontier'
+statement: >-
+  joint inquiry frontier, of an agent at a budget and horizon: the
+  question–answer pairs it can bring about together, formulating the
+  question and producing and evaluating an answer to a stated acceptance
+  standard within the same resources; its question side is the inquiry
+  frontier's investigable set, and its answer side, indexed by question, is
+  the answer frontier
 version: 2
 history:
 - version: 2
@@ -38,7 +45,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1009 TERM-159 CLAIM-1016 CLAIM-754 — Proposed; the owner's thesis, the other alternative and the claims filed with this -->
 
-# TERM-160: joint inquiry frontier, of an agent at a budget and horizon: the question–answer pairs it can bring about together, formulating the question and producing and evaluating an answer to a stated acceptance standard within the same resources; its question side is the inquiry frontier's investigable set, and its answer side, indexed by question, is the answer frontier
+# TERM-160: joint inquiry frontier
 
 ## Definition
 

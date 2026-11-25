@@ -3,7 +3,13 @@ number: 127
 formerly:
 - TERM-tmp8pnnr
 status: Proposed
-title: 'responsibility, and which sense: causal (whose conduct contributed), attributability (whose action or process it was), culpability (who is to blame), remedial (who owes prevention, relief or repair) or constitutive (who established or maintained the conditions that produced it); a verdict in one sense does not settle another'
+title: 'responsibility'
+statement: >-
+  responsibility, and which sense: causal (whose conduct contributed),
+  attributability (whose action or process it was), culpability (who is to
+  blame), remedial (who owes prevention, relief or repair) or constitutive
+  (who established or maintained the conditions that produced it); a verdict
+  in one sense does not settle another
 version: 3
 history:
 - version: 2
@@ -52,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2246 — Deferred; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: THEORY-122 THEORY-147 THEORY-207 — Proposed; the record's nearest entries, cited with their standing -->
 
-# TERM-127: responsibility, and which sense: causal (whose conduct contributed), attributability (whose action or process it was), culpability (who is to blame), remedial (who owes prevention, relief or repair) or constitutive (who established or maintained the conditions that produced it); a verdict in one sense does not settle another
+# TERM-127: responsibility
 
 ## Definition
 

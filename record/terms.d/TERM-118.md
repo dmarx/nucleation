@@ -3,7 +3,14 @@ number: 118
 status: Proposed
 formerly:
 - TERM-tmp6ersv
-title: 'disposition, of a declared bearer within a declared boundary, and which sense: an ability held across a declared family of conditions whether or not it is exercised, a tendency to manifest a response across relevant circumstances, or the standing repertoire of a self or perspective; not an action-generating regime, the sense the record retired; and the three ways an attribution from behaviour fails: masked, mimicked and finked'
+title: 'disposition'
+statement: >-
+  disposition, of a declared bearer within a declared boundary, and which
+  sense: an ability held across a declared family of conditions whether or
+  not it is exercised, a tendency to manifest a response across relevant
+  circumstances, or the standing repertoire of a self or perspective; not an
+  action-generating regime, the sense the record retired; and the three ways
+  an attribution from behaviour fails: masked, mimicked and finked
 version: 5
 history:
 - version: 2
@@ -72,7 +79,7 @@ draws_on:
 <!-- inactive-ok-file: TERM-086 TERM-104 CLAIM-553 CLAIM-417 THEORY-670 CLAIM-445 TERM-098 — Proposed; the entries whose uses of the word this term sorts, cited as open -->
 <!-- inactive-ok-file: CLAIM-052 — new, or Proposed; the dispositional address, the correction and non-commuting framings, cited in the note of 2026-11-22 -->
 
-# TERM-118: disposition, of a declared bearer within a declared boundary, and which sense: an ability held across a declared family of conditions whether or not it is exercised, a tendency to manifest a response across relevant circumstances, or the standing repertoire of a self or perspective; not an action-generating regime, the sense the record retired; and the three ways an attribution from behaviour fails: masked, mimicked and finked
+# TERM-118: disposition
 
 ## Definition
 

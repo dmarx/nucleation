@@ -3,7 +3,10 @@ number: 39
 status: Active
 formerly:
 - TERM-tmp6ohuk
-title: 'measurement context, as the elicitation protocol that enters the response and not the situation'
+title: 'measurement context'
+statement: >-
+  measurement context, as the elicitation protocol that enters the response
+  and not the situation
 version: 1
 tags:
 - causality
@@ -20,7 +23,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-127 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
-# TERM-039: measurement context, as the elicitation protocol that enters the response and not the situation
+# TERM-039: measurement context
 
 ## Definition
 

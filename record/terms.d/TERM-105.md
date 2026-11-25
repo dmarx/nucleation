@@ -3,7 +3,11 @@ number: 105
 status: Active
 formerly:
 - TERM-tmp26wo4
-title: 'resource constraint, by type: a fixed stock, an instantaneous capacity, a rate limit, a cumulative expenditure, a replenishable reserve and a deadline, which bound different functions of a path and are not one budget'
+title: 'resource constraint'
+statement: >-
+  resource constraint, by type: a fixed stock, an instantaneous capacity, a
+  rate limit, a cumulative expenditure, a replenishable reserve and a
+  deadline, which bound different functions of a path and are not one budget
 version: 2
 history:
 - version: 2
@@ -40,7 +44,7 @@ complements:
 ---
 <!-- inactive-ok-file: TERM-107 CASE-211 CASE-200 CASE-205 CASE-201 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 
-# TERM-105: resource constraint, by type: a fixed stock, an instantaneous capacity, a rate limit, a cumulative expenditure, a replenishable reserve and a deadline, which bound different functions of a path and are not one budget
+# TERM-105: resource constraint
 
 ## Definition
 

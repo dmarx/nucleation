@@ -3,7 +3,9 @@ number: 35
 status: Superseded
 formerly:
 - TERM-tmpx0l4b
-title: 'frame, as the delivery frame: interpretive, enunciative and performative'
+title: 'frame (delivery frame)'
+statement: >-
+  frame, as the delivery frame: interpretive, enunciative and performative
 version: 1
 tags:
 - philosophy-of-language
@@ -19,7 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# TERM-035: frame, as the delivery frame: interpretive, enunciative and performative
+# TERM-035: frame (delivery frame)
 
 ## Definition
 

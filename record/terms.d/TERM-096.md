@@ -3,7 +3,9 @@ number: 96
 status: Proposed
 formerly:
 - TERM-tmpko4rw
-title: group entity, as distinct from a category of members
+title: 'group entity'
+statement: >-
+  group entity, as distinct from a category of members
 version: 2
 history:
 - version: 2
@@ -31,7 +33,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: THEORY-1112 THEORY-1115 CLAIM-490 CLAIM-493 — Proposed or Open; the accounts, claims and question the term would let the record state precisely -->
 
-# TERM-096: group entity, as distinct from a category of members
+# TERM-096: group entity
 
 ## Definition
 

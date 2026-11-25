@@ -3,7 +3,9 @@ number: 13
 status: Superseded
 formerly:
 - TERM-tmpb27jo
-title: 'fidelity, as matching pragmatic signatures'
+title: 'fidelity (pragmatic signatures)'
+statement: >-
+  fidelity, as matching pragmatic signatures
 version: 1
 tags:
 - philosophy-of-language
@@ -19,7 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# TERM-013: fidelity, as matching pragmatic signatures
+# TERM-013: fidelity (pragmatic signatures)
 
 ## Definition
 

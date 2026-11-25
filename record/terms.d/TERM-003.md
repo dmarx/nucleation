@@ -3,7 +3,9 @@ number: 3
 status: Superseded
 formerly:
 - TERM-tmp1at0k
-title: 'will, as a second- or higher-order attractor'
+title: 'will (higher-order attractor)'
+statement: >-
+  will, as a second- or higher-order attractor
 version: 1
 tags:
 - agency
@@ -21,7 +23,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-062 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# TERM-003: will, as a second- or higher-order attractor
+# TERM-003: will (higher-order attractor)
 
 ## Definition
 

@@ -3,7 +3,14 @@ number: 95
 status: Active
 formerly:
 - TERM-tmppwzer
-title: 'inquiry: a process that pursues a question, written (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑): a language in which it is posed, an answer space that says which differences would count as an answer, the interventions and observations that make those differences accessible, criteria for judging candidate answers, and the resources it runs on; it is reflexive when any of these becomes what it is pursuing'
+title: 'inquiry'
+statement: >-
+  inquiry: a process that pursues a question, written (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑): a
+  language in which it is posed, an answer space that says which differences
+  would count as an answer, the interventions and observations that make
+  those differences accessible, criteria for judging candidate answers, and
+  the resources it runs on; it is reflexive when any of these becomes what
+  it is pursuing
 version: 5
 history:
 - version: 2
@@ -53,7 +60,7 @@ summary: >-
   not built into it.
 ---
 
-# TERM-095: inquiry: a process that pursues a question, written (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑): a language in which it is posed, an answer space that says which differences would count as an answer, the interventions and observations that make those differences accessible, criteria for judging candidate answers, and the resources it runs on; it is reflexive when any of these becomes what it is pursuing
+# TERM-095: inquiry
 
 ## Definition
 

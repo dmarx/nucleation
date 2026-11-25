@@ -19,7 +19,13 @@ date: '2026-11-24'
 line:
 - organizational-normativity
 - dependence-and-domination
-title: 'asymmetric legibility, of an institution and those it affects: the institution makes their circumstances legible to itself, recognizing and predicting their needs and vulnerabilities, while they hold no direct authority over what it does; a structural condition that makes institutional sociopathy possible and does not constitute it'
+title: 'asymmetric legibility'
+statement: >-
+  asymmetric legibility, of an institution and those it affects: the
+  institution makes their circumstances legible to itself, recognizing and
+  predicting their needs and vulnerabilities, while they hold no direct
+  authority over what it does; a structural condition that makes
+  institutional sociopathy possible and does not constitute it
 summary: >-
   The owner's correction of 2026-11-24 to the first version of this term:
   "the structural situation you describe can create the conditions
@@ -32,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-tmp72sq3 CLAIM-tmpsh3og TERM-124 — Proposed or new; the corrected term, the owner's claim, the claim this term came from, and its neighbours -->
 
-# TERM-tmp383al: asymmetric legibility, of an institution and those it affects: the institution makes their circumstances legible to itself, recognizing and predicting their needs and vulnerabilities, while they hold no direct authority over what it does; a structural condition that makes institutional sociopathy possible and does not constitute it
+# TERM-tmp383al: asymmetric legibility
 
 ## Definition
 

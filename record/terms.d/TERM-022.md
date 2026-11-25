@@ -3,7 +3,9 @@ number: 22
 status: Superseded
 formerly:
 - TERM-tmpn0h5z
-title: 'communicative object, as an intersection of constraint regions'
+title: 'communicative object (constraint regions)'
+statement: >-
+  communicative object, as an intersection of constraint regions
 version: 1
 tags:
 - philosophy-of-language
@@ -21,7 +23,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-002 — Superseded; the term that replaced this one, itself since superseded, cited as history -->
 
-# TERM-022: communicative object, as an intersection of constraint regions
+# TERM-022: communicative object (constraint regions)
 
 ## Definition
 

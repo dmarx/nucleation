@@ -3,7 +3,14 @@ number: 166
 status: Proposed
 formerly:
 - TERM-tmpxwa7g
-title: 'pseudo-self: a multi-perspectival organization with more than one independently addressable carrier that is causally integrated relative to a declared probe family and history, reproducing some of the integration, persistence and adaptive governance associated with selves, while leaving open whether it has one overarching perspective or one subject of experience'
+title: 'pseudo-self'
+statement: >-
+  pseudo-self: a multi-perspectival organization with more than one
+  independently addressable carrier that is causally integrated relative to
+  a declared probe family and history, reproducing some of the integration,
+  persistence and adaptive governance associated with selves, while leaving
+  open whether it has one overarching perspective or one subject of
+  experience
 version: 1
 tags:
 - self
@@ -29,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-161 CLAIM-1133 CLAIM-1039 — Proposed; the term, claims and the owner's claim filed from the same turns -->
 
-# TERM-166: pseudo-self: a multi-perspectival organization with more than one independently addressable carrier that is causally integrated relative to a declared probe family and history, reproducing some of the integration, persistence and adaptive governance associated with selves, while leaving open whether it has one overarching perspective or one subject of experience
+# TERM-166: pseudo-self
 
 ## Definition
 

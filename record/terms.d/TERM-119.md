@@ -3,7 +3,14 @@ number: 119
 status: Proposed
 formerly:
 - TERM-tmp8deza
-title: 'shared epistemic state, of a record kept by several collaborators: the publicly inspectable structure of what is on the table in an inquiry, what standing each item has, what supports or challenges it, who contributed it, and what would have to be reconsidered if it changed, together with the rules for changing that structure; not the collaborators'' shared beliefs, not shared memory, and not common knowledge'
+title: 'shared epistemic state'
+statement: >-
+  shared epistemic state, of a record kept by several collaborators: the
+  publicly inspectable structure of what is on the table in an inquiry, what
+  standing each item has, what supports or challenges it, who contributed
+  it, and what would have to be reconsidered if it changed, together with
+  the rules for changing that structure; not the collaborators' shared
+  beliefs, not shared memory, and not common knowledge
 version: 1
 tags:
 - epistemology
@@ -33,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1060 LIT-2243 — not in force (Deferred or Unavailable); cited as the predecessors A named -->
 <!-- inactive-ok-file: THEORY-1739 THEORY-1749 THEORY-1779 THEORY-1783 THEORY-1800 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# TERM-119: shared epistemic state, of a record kept by several collaborators: the publicly inspectable structure of what is on the table in an inquiry, what standing each item has, what supports or challenges it, who contributed it, and what would have to be reconsidered if it changed, together with the rules for changing that structure; not the collaborators' shared beliefs, not shared memory, and not common knowledge
+# TERM-119: shared epistemic state
 
 ## Definition
 

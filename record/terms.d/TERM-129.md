@@ -3,7 +3,14 @@ number: 129
 formerly:
 - TERM-tmprcm2c
 status: Proposed
-title: 'capability, decomposed for restriction: competence (the skill, knowledge, equipment or capacity to act), exercise (whether the act can be performed here and now), authority (who is entitled to decide whether it proceeds) and governance (who can set and revise the relations fixing the other three), which vary independently, so that a restriction on one is not a restriction on another'
+title: 'capability'
+statement: >-
+  capability, decomposed for restriction: competence (the skill, knowledge,
+  equipment or capacity to act), exercise (whether the act can be performed
+  here and now), authority (who is entitled to decide whether it proceeds)
+  and governance (who can set and revise the relations fixing the other
+  three), which vary independently, so that a restriction on one is not a
+  restriction on another
 version: 1
 tags:
 - agency
@@ -25,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-737 CLAIM-721 — filed from the same exchange, Proposed or new -->
 
-# TERM-129: capability, decomposed for restriction: competence (the skill, knowledge, equipment or capacity to act), exercise (whether the act can be performed here and now), authority (who is entitled to decide whether it proceeds) and governance (who can set and revise the relations fixing the other three), which vary independently, so that a restriction on one is not a restriction on another
+# TERM-129: capability
 
 ## Definition
 

@@ -3,7 +3,11 @@ number: 112
 status: Proposed
 formerly:
 - TERM-tmpexd3x
-title: 'unit of last resort: a response unit kept out of routine assignment and dispatched only when every regular unit is busy, so its record of use measures congestion, not its worth'
+title: 'unit of last resort'
+statement: >-
+  unit of last resort: a response unit kept out of routine assignment and
+  dispatched only when every regular unit is busy, so its record of use
+  measures congestion, not its worth
 version: 4
 history:
 - version: 2
@@ -45,7 +49,7 @@ draws_on:
 <!-- inactive-ok-file: LIT-2105 — Unavailable; the paper the book stands in for, nothing here rests on it -->
 <!-- inactive-ok-file: TERM-107 — Proposed; a term of the same filing, cited as filed -->
 
-# TERM-112: unit of last resort: a response unit kept out of routine assignment and dispatched only when every regular unit is busy, so its record of use measures congestion, not its worth
+# TERM-112: unit of last resort
 
 ## Definition
 

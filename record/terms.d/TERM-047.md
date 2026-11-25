@@ -3,7 +3,9 @@ number: 47
 status: Active
 formerly:
 - TERM-tmpl89dv
-title: 'jurisdiction of a will-organization'
+title: 'jurisdiction'
+statement: >-
+  jurisdiction of a will-organization
 version: 2
 history:
 - version: 2
@@ -26,7 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-170 — Proposed; the owner's thesis this term is stated for, open -->
 
-# TERM-047: jurisdiction of a will-organization
+# TERM-047: jurisdiction
 
 ## Definition
 

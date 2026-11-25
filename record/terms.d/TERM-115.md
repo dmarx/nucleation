@@ -3,7 +3,11 @@ number: 115
 status: Active
 formerly:
 - TERM-tmpuc919
-title: 'scenario-conditioned response readiness: the probability that an organization operating under a specified policy can deliver an effective response to a specified contingency within its deadline'
+title: 'scenario-conditioned readiness'
+statement: >-
+  scenario-conditioned response readiness: the probability that an
+  organization operating under a specified policy can deliver an effective
+  response to a specified contingency within its deadline
 version: 3
 history:
 - version: 2
@@ -45,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-198 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
-# TERM-115: scenario-conditioned response readiness: the probability that an organization operating under a specified policy can deliver an effective response to a specified contingency within its deadline
+# TERM-115: scenario-conditioned readiness
 
 ## Definition
 

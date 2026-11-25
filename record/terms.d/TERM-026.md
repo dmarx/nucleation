@@ -3,7 +3,9 @@ number: 26
 status: Active
 formerly:
 - TERM-tmppital
-title: 'frame, as an operation on an interpretive state'
+title: 'frame (operation on a state)'
+statement: >-
+  frame, as an operation on an interpretive state
 version: 1
 tags:
 - contextuality
@@ -22,7 +24,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-127 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-052 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# TERM-026: frame, as an operation on an interpretive state
+# TERM-026: frame (operation on a state)
 
 ## Definition
 

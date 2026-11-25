@@ -5,7 +5,11 @@ formerly:
 - TERM-tmpqfgw9
 complements:
 - TERM-042
-title: 'determinacy cover, of a receiver population at a threshold: the questions it answers determinately, as a thresholded functional of the empirical model'
+title: 'determinacy cover'
+statement: >-
+  determinacy cover, of a receiver population at a threshold: the questions
+  it answers determinately, as a thresholded functional of the empirical
+  model
 version: 1
 tags:
 - contextuality
@@ -18,7 +22,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: CLAIM-201 CLAIM-251 — Proposed; the entries that use "cover" in this operational sense, and the counter that asked for a separate name -->
 
-# TERM-155: determinacy cover, of a receiver population at a threshold: the questions it answers determinately, as a thresholded functional of the empirical model
+# TERM-155: determinacy cover
 
 ## Definition
 

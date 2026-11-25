@@ -3,7 +3,9 @@ number: 45
 status: Active
 formerly:
 - TERM-tmpg0hhr
-title: 'self, and which sense'
+title: 'self'
+statement: >-
+  self, and which sense
 version: 8
 history:
 - version: 2
@@ -79,7 +81,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-169 — Proposed; the claim whose sense of self prompted sense 6, open -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-161 CLAIM-155 CLAIM-196 — Proposed; claims named as using particular senses, open -->
 
-# TERM-045: self, and which sense
+# TERM-045: self
 
 ## Definition
 

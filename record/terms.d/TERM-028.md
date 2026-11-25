@@ -3,7 +3,9 @@ number: 28
 status: Active
 formerly:
 - TERM-tmpsjjot
-title: 'fidelity, as inferential sufficiency'
+title: 'fidelity (inferential sufficiency)'
+statement: >-
+  fidelity, as inferential sufficiency
 version: 1
 tags:
 - information-theory
@@ -18,7 +20,7 @@ summary: >-
   decision term (§5, §6).
 ---
 
-# TERM-028: fidelity, as inferential sufficiency
+# TERM-028: fidelity (inferential sufficiency)
 
 ## Definition
 

@@ -8,7 +8,14 @@ complements:
 - TERM-071
 - TERM-074
 - TERM-098
-title: 'individuation, and which sense: descriptive (an inquiry can distinguish and track it), dynamical (its organization persists under specified dynamics and perturbation, with robust identity and boundaries), constitutive (its relational organization helps fix its identity and boundary), and organizational autonomy, the further achievement of contributing to the maintenance of its own constitutive constraints'
+title: 'individuation'
+statement: >-
+  individuation, and which sense: descriptive (an inquiry can distinguish
+  and track it), dynamical (its organization persists under specified
+  dynamics and perturbation, with robust identity and boundaries),
+  constitutive (its relational organization helps fix its identity and
+  boundary), and organizational autonomy, the further achievement of
+  contributing to the maintenance of its own constitutive constraints
 version: 4
 history:
 - version: 2
@@ -71,7 +78,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-157 — Proposed, Open or new; the entries this term serves -->
 <!-- inactive-ok-file: CLAIM-1175 — new; A15's revised account of the self, cited in the note of 2026-11-22 -->
 
-# TERM-088: individuation, and which sense: descriptive (an inquiry can distinguish and track it), dynamical (its organization persists under specified dynamics and perturbation, with robust identity and boundaries), constitutive (its relational organization helps fix its identity and boundary), and organizational autonomy, the further achievement of contributing to the maintenance of its own constitutive constraints
+# TERM-088: individuation
 
 ## Definition
 

@@ -3,7 +3,9 @@ number: 137
 status: Proposed
 formerly:
 - TERM-tmpnxjq4
-title: 'weak direction (in a learned model), in six senses that come apart'
+title: 'weak direction'
+statement: >-
+  weak direction (in a learned model), in six senses that come apart
 version: 1
 tags:
 - information-geometry
@@ -33,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-140 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 <!-- inactive-ok-file: THEORY-2161 — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
 
-# TERM-137: weak direction (in a learned model), in six senses that come apart
+# TERM-137: weak direction
 
 ## Definition
 

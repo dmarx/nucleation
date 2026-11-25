@@ -3,7 +3,9 @@ number: 21
 status: Active
 formerly:
 - TERM-tmpmvvf2
-title: 'fidelity, as context-indexed distribution matching'
+title: 'fidelity (context-indexed matching)'
+statement: >-
+  fidelity, as context-indexed distribution matching
 version: 1
 tags:
 - philosophy-of-language
@@ -16,7 +18,7 @@ summary: >-
   The origin of the manuscript's L_obs (§6).
 ---
 
-# TERM-021: fidelity, as context-indexed distribution matching
+# TERM-021: fidelity (context-indexed matching)
 
 ## Definition
 

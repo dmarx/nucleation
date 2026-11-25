@@ -3,11 +3,13 @@ number: 164
 status: Proposed
 formerly:
 - TERM-tmpu5k0o
-title: 'destructive lock-in, of an industrial ecosystem against a declared family
-  of future demands: specialization that removes or makes unaffordable the pathways
-  to alternatives those demands need while current operation stays successful, and
-  whose loss the benefits of consolidation do not justify; its opposite is productive
-  specialization'
+title: 'destructive lock-in'
+statement: >-
+  destructive lock-in, of an industrial ecosystem against a declared family
+  of future demands: specialization that removes or makes unaffordable the
+  pathways to alternatives those demands need while current operation stays
+  successful, and whose loss the benefits of consolidation do not justify;
+  its opposite is productive specialization
 version: 1
 tags:
 - society-and-governance
@@ -25,7 +27,7 @@ summary: 'A48 §11 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-
 
 <!-- inactive-ok-file: CLAIM-758 CLAIM-684 — Proposed; the claims it carries and the one it is near -->
 
-# TERM-164: destructive lock-in, of an industrial ecosystem against a declared family of future demands: specialization that removes or makes unaffordable the pathways to alternatives those demands need while current operation stays successful, and whose loss the benefits of consolidation do not justify; its opposite is productive specialization
+# TERM-164: destructive lock-in
 
 ## The sense
 

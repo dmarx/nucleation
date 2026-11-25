@@ -3,7 +3,14 @@ number: 117
 status: Active
 formerly:
 - TERM-tmp3awsy
-title: 'productive nucleus: a partial organization whose establishment, relative to a declared target, context, horizon and comparator, causally improves the probability, timeliness, robustness or resource-feasible accessibility of forming the target by changing later interaction opportunities, constraints or transition rates; distinct from a structural seed and a kinetic nucleus'
+title: 'productive nucleus'
+statement: >-
+  productive nucleus: a partial organization whose establishment, relative
+  to a declared target, context, horizon and comparator, causally improves
+  the probability, timeliness, robustness or resource-feasible accessibility
+  of forming the target by changing later interaction opportunities,
+  constraints or transition rates; distinct from a structural seed and a
+  kinetic nucleus
 version: 2
 history:
 - version: 2
@@ -41,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-185 — Proposed, Skimmed or new; entries cited as open -->
 
-# TERM-117: productive nucleus: a partial organization whose establishment, relative to a declared target, context, horizon and comparator, causally improves the probability, timeliness, robustness or resource-feasible accessibility of forming the target by changing later interaction opportunities, constraints or transition rates; distinct from a structural seed and a kinetic nucleus
+# TERM-117: productive nucleus
 
 ## Definition
 

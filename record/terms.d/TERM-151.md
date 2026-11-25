@@ -3,7 +3,12 @@ number: 151
 status: Proposed
 formerly:
 - TERM-tmp8b1yl
-title: 'direction of fit, of a test or predicate: whether it is written to fit what it is applied to, describing it, or what it is applied to must be made to fit it, requiring it; formally, informative against performative update'
+title: 'direction of fit'
+statement: >-
+  direction of fit, of a test or predicate: whether it is written to fit
+  what it is applied to, describing it, or what it is applied to must be
+  made to fit it, requiring it; formally, informative against performative
+  update
 version: 1
 tags:
 - philosophy-of-language
@@ -29,7 +34,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: TERM-152 TERM-134 THEORY-162 CLAIM-943 CLAIM-942 — Proposed; the term filed with this, and the entries it is stated against -->
 
-# TERM-151: direction of fit, of a test or predicate: whether it is written to fit what it is applied to, describing it, or what it is applied to must be made to fit it, requiring it; formally, informative against performative update
+# TERM-151: direction of fit
 
 ## Definition
 

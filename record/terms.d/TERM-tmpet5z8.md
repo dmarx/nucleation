@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: "meme, and which sense: a replicator copied between carriers, a seed around which organization forms, or a transmissible expression of a perspective's characteristic organization; and which role it plays: seed, scaffold, constraint, product, carrier or probe"
+title: 'meme'
+statement: >-
+  meme, and which sense: a replicator copied between carriers, a seed around
+  which organization forms, or a transmissible expression of a perspective's
+  characteristic organization; and which role it plays: seed, scaffold,
+  constraint, product, carrier or probe
 version: 1
 complements:
 - TERM-027
@@ -27,7 +32,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-142 CLAIM-621 CLAIM-tmp1ng5k CLAIM-tmp4mk0t CLAIM-tmpgvsgg CLAIM-tmphi3mx CLAIM-tmpjitli CLAIM-tmpjlxfy LIT-tmpjl855 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
-# TERM-tmpet5z8: meme, and which sense: a replicator copied between carriers, a seed around which organization forms, or a transmissible expression of a perspective's characteristic organization; and which role it plays: seed, scaffold, constraint, product, carrier or probe
+# TERM-tmpet5z8: meme
 
 ## Definition
 
