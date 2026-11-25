@@ -13,11 +13,11 @@ summary: >-
   "Hyper article interpretation" at the owner's U21, which the hyperarticle
   atlas keeps as its three entry points (the theory, the implementation,
   the publication). A45 is kept verbatim in scratch/atlas/. Membership is
-  ADR-104's rule, applied to each article: 13, 7 and 20 claims join, three
-  claims (CLAIM-178, CLAIM-299, CLAIM-324) in two works. Rejected:
+  [ADR-104](ADR-104.md)'s rule, applied to each article: 13, 7 and 20 claims join, three
+  claims ([CLAIM-178](../claims.d/CLAIM-178.md), [CLAIM-299](../claims.d/CLAIM-299.md), [CLAIM-324](../claims.d/CLAIM-324.md)) in two works. Rejected:
   registering the atlas's other scopes as works now, since a work's
   membership needs a text to read and the atlas gives only outlines
-  (ADR-tmpd3ckn documents them as lines); and folding Article 2 into
+  ([ADR-tmpd3ckn](ADR-tmpd3ckn.md) documents them as lines); and folding Article 2 into
   from-obstruction-to-reorganization, which treats the same demonstration
   but is a different text, a choice left to the owner.
 ---
@@ -42,25 +42,25 @@ three entry points. On 2026-11-25 the owner said "add the works".
   and hyperarticles (Article 3).
 - **The work is the article as A45 drafts it**, kept verbatim in
   scratch/atlas/a45-three-articles.md.
-- **Membership is ADR-104's rule**: a CLAIM or ARG is a member when the
+- **Membership is [ADR-104](ADR-104.md)'s rule**: a CLAIM or ARG is a member when the
   article states its proposition, in any wording, or uses it as a step;
   a citation alone, or the use of only a proviso, does not count. Three
   readers, one per article, read each passage and each entry. Claims the
   article states without citing them count, and are noted so.
-- **Gap fills are not members** unless the owner adds them, as in ADR-144.
+- **Gap fills are not members** unless the owner adds them, as in [ADR-144](ADR-144.md).
 
 ## Consequences
 
-- conditions-of-correction: 13 members, among them CLAIM-470, CLAIM-475,
-  CLAIM-535 and CLAIM-523; CLAIM-300, CLAIM-310 and CLAIM-297 are stated
+- conditions-of-correction: 13 members, among them [CLAIM-470](../claims.d/CLAIM-470.md), [CLAIM-475](../claims.d/CLAIM-475.md),
+  [CLAIM-535](../claims.d/CLAIM-535.md) and [CLAIM-523](../claims.d/CLAIM-523.md); [CLAIM-300](../claims.d/CLAIM-300.md), [CLAIM-310](../claims.d/CLAIM-310.md) and [CLAIM-297](../claims.d/CLAIM-297.md) are stated
   without citation.
-- luria-beyond-software: 7 members, among them CLAIM-419 and CLAIM-181;
-  CLAIM-303 is stated without citation, and CLAIM-667 only as the
+- luria-beyond-software: 7 members, among them [CLAIM-419](../claims.d/CLAIM-419.md) and [CLAIM-181](../claims.d/CLAIM-181.md);
+  [CLAIM-303](../claims.d/CLAIM-303.md) is stated without citation, and [CLAIM-667](../claims.d/CLAIM-667.md) only as the
   hypothesis of a proposed test (a borderline the owner may rule).
 - hyperarticles: 20 members, 15 of them filed on 2026-11-25 from the same
   exchange.
-- Borderlines and exclusions: CLAIM-466 is used for a proviso only in
-  Article 3; CLAIM-469 and CLAIM-523 are cited, not stated, there.
+- Borderlines and exclusions: [CLAIM-466](../claims.d/CLAIM-466.md) is used for a proviso only in
+  Article 3; [CLAIM-469](../claims.d/CLAIM-469.md) and [CLAIM-523](../claims.d/CLAIM-523.md) are cited, not stated, there.
   Article 2's §5 states that a record's own measurements cannot certify
   its representation; no held claim states it.
 - The first application is in this decision's pull request: the
