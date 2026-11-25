@@ -3,7 +3,15 @@ number: 900
 status: Proposed
 formerly:
 - CLAIM-tmp6rhuv
-title: 'In small networks trained on addition modulo a prime, the share of the network''s input-output Fourier energy on the couplings the group''s selection rule names, measured early in training, forecasts when the network generalizes under a training intervention it was not fitted on, better than Fourier sparsity, test-set performance and the training kernel, and better than the same number of couplings chosen at random; it does not foresee whether the network generalizes at all'
+title: 'Selection-rule energy forecasts generalization'
+statement: >-
+  In small networks trained on addition modulo a prime, the share of the
+  network's input-output Fourier energy on the couplings the group's
+  selection rule names, measured early in training, forecasts when the
+  network generalizes under a training intervention it was not fitted on,
+  better than Fourier sparsity, test-set performance and the training
+  kernel, and better than the same number of couplings chosen at random; it
+  does not foresee whether the network generalizes at all
 version: 1
 history:
 - version: 1
@@ -52,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-331 CLAIM-698 CASE-272 — new or Proposed; the run this claim reports, the thesis it bears on and the design it reduces -->
 
-# CLAIM-900: In small networks trained on addition modulo a prime, the share of the network's input-output Fourier energy on the couplings the group's selection rule names, measured early in training, forecasts when the network generalizes under a training intervention it was not fitted on, better than Fourier sparsity, test-set performance and the training kernel, and better than the same number of couplings chosen at random; it does not foresee whether the network generalizes at all
+# CLAIM-900: Selection-rule energy forecasts generalization
 
 ## The claim
 

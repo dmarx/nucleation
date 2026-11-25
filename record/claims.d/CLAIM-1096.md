@@ -3,7 +3,14 @@ number: 1096
 status: Active
 formerly:
 - CLAIM-tmpfza2h
-title: 'Graded predicates on a measure space, identified almost everywhere and ordered pointwise, form a distributive lattice under minimum and maximum whose L¹ distance is the metric of the valuation p ↦ ∫p dμ, while the concept lattice of a thresholded incidence can be any complete lattice and need not be distributive, so the two lattices a theory of overlapping perspectives might use are different objects'
+title: 'Graded predicates against concept lattices'
+statement: >-
+  Graded predicates on a measure space, identified almost everywhere and
+  ordered pointwise, form a distributive lattice under minimum and maximum
+  whose L¹ distance is the metric of the valuation p ↦ ∫p dμ, while the
+  concept lattice of a thresholded incidence can be any complete lattice and
+  need not be distributive, so the two lattices a theory of overlapping
+  perspectives might use are different objects
 version: 2
 history:
 - version: 1
@@ -54,7 +61,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-267 — Proposed; the graded perspectives this lattice orders, filed with it on 2026-11-22, and the paper whose lattice it is compared with -->
 
-# CLAIM-1096: Graded predicates on a measure space, identified almost everywhere and ordered pointwise, form a distributive lattice under minimum and maximum whose L¹ distance is the metric of the valuation p ↦ ∫p dμ, while the concept lattice of a thresholded incidence can be any complete lattice and need not be distributive, so the two lattices a theory of overlapping perspectives might use are different objects
+# CLAIM-1096: Graded predicates against concept lattices
 
 ## The claim
 

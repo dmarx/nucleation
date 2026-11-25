@@ -3,7 +3,13 @@ number: 843
 status: Proposed
 formerly:
 - CLAIM-tmpuc8ro
-title: 'A population of independent factored modes q = ab with zero target, started small and at random, relaxes on average as a power law with a logarithmic correction, though almost every mode relaxes exponentially: each mode''s rate is set by its conserved imbalance a² − b², and those rates reach down to zero with a density that does not vanish there'
+title: 'Power-law relaxation of factored modes'
+statement: >-
+  A population of independent factored modes q = ab with zero target,
+  started small and at random, relaxes on average as a power law with a
+  logarithmic correction, though almost every mode relaxes exponentially:
+  each mode's rate is set by its conserved imbalance a² − b², and those
+  rates reach down to zero with a density that does not vanish there
 version: 1
 role: thesis
 warrant: demonstrated
@@ -37,7 +43,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-811 CLAIM-844 CLAIM-807 — Proposed; filed with this claim -->
 
-# CLAIM-843: A population of independent factored modes q = ab with zero target, started small and at random, relaxes on average as a power law with a logarithmic correction, though almost every mode relaxes exponentially: each mode's rate is set by its conserved imbalance a² − b², and those rates reach down to zero with a density that does not vanish there
+# CLAIM-843: Power-law relaxation of factored modes
 
 ## The claim
 

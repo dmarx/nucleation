@@ -3,7 +3,12 @@ number: 1015
 status: Proposed
 formerly:
 - CLAIM-tmp37le7
-title: 'A self-like organization need not be unified by convergence on a single perspective: it can be unified ecologically, by a historically maintained regime in which differentiated perspectives stay viable, mutually consequential and able to reorganize their relations'
+title: 'Ecological unity of a self-like organization'
+statement: >-
+  A self-like organization need not be unified by convergence on a single
+  perspective: it can be unified ecologically, by a historically maintained
+  regime in which differentiated perspectives stay viable, mutually
+  consequential and able to reorganize their relations
 version: 2
 history:
 - version: 1
@@ -63,7 +68,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-362 — Proposed; the term this claim is stated in, filed with it on 2026-11-22, and the non-domination criterion it cites -->
 
-# CLAIM-1015: A self-like organization need not be unified by convergence on a single perspective: it can be unified ecologically, by a historically maintained regime in which differentiated perspectives stay viable, mutually consequential and able to reorganize their relations
+# CLAIM-1015: Ecological unity of a self-like organization
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 644
 status: Proposed
 formerly:
 - CLAIM-tmphi4so
-title: 'No human study the record has read separates a germline route of inherited trauma from the womb, parenting and cultural inheritance, and none of the designs now in use can: so which route inherited trauma travels by cannot now be settled in humans, and that no clean separation is achievable holds as a statement about present methods'
+title: 'Inherited trauma''s route unsettled in humans'
+statement: >-
+  No human study the record has read separates a germline route of inherited
+  trauma from the womb, parenting and cultural inheritance, and none of the
+  designs now in use can: so which route inherited trauma travels by cannot
+  now be settled in humans, and that no clean separation is achievable holds
+  as a statement about present methods
 version: 1
 role: thesis
 warrant: interpretive
@@ -48,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2293 CLAIM-1017 CLAIM-1182 THEORY-2299 CLAIM-1103 — filed by the lead run of 2026-11-23 -->
 
-# CLAIM-644: No human study the record has read separates a germline route of inherited trauma from the womb, parenting and cultural inheritance, and none of the designs now in use can: so which route inherited trauma travels by cannot now be settled in humans, and that no clean separation is achievable holds as a statement about present methods
+# CLAIM-644: Inherited trauma's route unsettled in humans
 
 ## The claim
 

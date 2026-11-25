@@ -3,7 +3,11 @@ number: 15
 status: Superseded
 formerly:
 - CLAIM-tmp4fgys
-title: 'Classical structuralism studies relations within a system, whereas this theory makes the transport of relational systems its object and does not require structure to remain invariant'
+title: 'Transport, not invariant structure, as object'
+statement: >-
+  Classical structuralism studies relations within a system, whereas this
+  theory makes the transport of relational systems its object and does not
+  require structure to remain invariant
 version: 1
 role: thesis
 warrant: interpretive
@@ -25,7 +29,7 @@ summary: >-
   too sharp."
 ---
 
-# CLAIM-015: Classical structuralism studies relations within a system, whereas this theory makes the transport of relational systems its object and does not require structure to remain invariant
+# CLAIM-015: Transport, not invariant structure, as object
 
 ## The claim
 
