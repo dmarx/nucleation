@@ -91,3 +91,19 @@ ones the record noted as dropped ([CLAIM-389](../claims.d/CLAIM-389.md), [CLAIM-
 controls. The selection rules, schemas and scores the exchange produced
 are tooling, not the record's argument, and are not filed ([CLAIM-301](../claims.d/CLAIM-301.md)
 records an earlier exchange making the same turn).
+
+## Note of 2026-11-25: when two manuscripts are one contribution, from "Hyper article interpretation"
+
+<!-- inactive-ok-block: CLAIM-tmpotj4b CLAIM-tmpkvi10 CLAIM-tmp6xzjy — new; A57's criterion, the owner's thesis it sharpens and the cycle check -->
+Asked for a decomposition of the whole record into hyperarticles (U25),
+ChatGPT drafted thirty and then judged its own draft "a lot like the paper
+proliferation we're trying to avoid" (A57). Its criterion, filed as
+CLAIM-tmpotj4b, answers a part of this question the question does not
+ask: not which subgraph to choose but when two candidates are one
+contribution, namely when they share a central claim and its evidence,
+whatever their audiences. It sharpens the owner's U10 (CLAIM-tmpkvi10).
+A59's second draft also gives each scope "a question and a boundary",
+which is this question's "what else must the choice preserve" stated per
+manuscript, and lists the overlaps between scopes whose consistency must
+be checked, on cycles and not only pairs (CLAIM-tmp6xzjy). The note is the
+assistant's (Claude, in this session). No status change.
