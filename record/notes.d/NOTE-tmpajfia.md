@@ -1,0 +1,160 @@
+---
+status: Read
+paper: 'LIT-tmpegqz0'
+title: 'van Oosten — Realizability: a historical essay'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read in full from the author's copy,
+    webspace.science.uu.nl/~ooste110/realizability/history.pdf (26 pages,
+    "January 20, 2000; Revised October, 2000"), a manuscript on the
+    author's Utrecht page, not the typeset MSCS article; pages are the
+    manuscript's. Text extracted with `pdftotext -layout`; because the
+    layer drops symbols, pp. 4–5 were rendered with `pdftoppm` and read as
+    images, and the quotes below were checked against them. Read: the
+    introduction, §1 (1.1–1.8) and §2 (2.1–2.6) in full, and the
+    references [51], [58], [60], [79], [93]. The topos-theoretic
+    constructions of §2.1–2.5 were read for what they say about
+    Kleene's realizability, not checked. Read as the stand-in for Kleene
+    1945 (LIT-tmp9cdlq), which is Unavailable (ADR-114), for
+    LEAD-215.
+date: '2026-11-22'
+summary: >-
+  A personal history of realizability in two periods, 1940–1980 (Kleene's
+  definition and its syntactic variants) and 1980–2000 (the effective topos
+  and its relatives). For this record it gives Kleene's 1945 definition
+  exactly, and what bears on [CLAIM-949](../claims.d/CLAIM-949.md): a Kleene realizer is a
+  witness kept with computational information, not with a proof; a true
+  atomic sentence's realizer is 0, so passing a decidable test carries
+  nothing; realizability is a classical relation between numbers and
+  sentences, a truth definition in the effective topos; and the typed,
+  proof-relevant form came with Kreisel in 1959.
+---
+<!-- inactive-ok-file: CLAIM-949 CLAIM-783 CLAIM-487 TERM-154 TERM-153 TERM-152 LIT-tmp9cdlq ARG-tmp68y3c — Proposed, Open or Unavailable; the entries this reading bears on, its account, the argument filed from it, and the work it stands in for -->
+
+# NOTE-tmpajfia: van Oosten — Realizability: a historical essay
+
+## Contribution
+
+A short history of realizability by a student of Troelstra's, organized
+around three landmarks: Kleene 1945, Troelstra's *Metamathematical
+Investigation* (1973) and Hyland's effective topos (1981). It restates
+Kleene's definition, its variants (glued, formalized, q-, function,
+modified, extensional realizability), the results they give for Heyting
+arithmetic (HA), and the topos-theoretic account in which realizability
+becomes a model. It is a survey: results are stated, with sources, and not
+proved.
+
+## Key results
+
+- **Kleene's definition** (p. 5, §1.2). "n realizes F, where F is an atomic
+  sentence, if and only if n = 0 and F is true"; a conjunction by a pair; a
+  disjunction by ⟨0, m⟩ or ⟨1, m⟩; an implication by "the Gödel number of a
+  partial recursive function F such that for each m which realizes φ, F(m)
+  is defined and realizes ψ"; "n realizes an existential statement ∃xφ(x)
+  if and only if n = ⟨m, k⟩ and k realizes φ(m̄)"; a universal by the index
+  of a total recursive function.
+- **Soundness, glued** (p. 6). For a set P of sentences containing HA's
+  theorems and closed under modus ponens: "If HA ⊢ φ then there is a
+  number n such that n realizes-P φ. Moreover, if there is a number n such
+  that n realizes-P φ, then φ ∈ P." With P the theorems of HA, Kleene got
+  the weak Church's rule; the existence and disjunction properties are not
+  in the 1945 paper, "contrary to what Kleene later said" (p. 6, n. 9).
+- **Information, not proofs** (p. 4). "Realizability, as it is designed to
+  handle “information” about formulas rather than proofs, already hints at
+  the role Intuitionism would come to play in theoretical Computer Science
+  … it foreshadows the view of intuitionistic formulas as datatypes". Kleene
+  (1973, as quoted): "Heyting's proof-interpretation failed to help me to
+  my goal". Realizability is not from the BHK interpretation (p. 3), but
+  from Hilbert and Bernays's existential statements as "incomplete
+  communications".
+- **Classical, checkable** (p. 4). Kleene gave "an interpretation which can
+  be read and checked by the classical mathematician", the intuitionistic
+  connectives in terms of the classical ones. Troelstra, quoted: "negative
+  formulae are essentially interpreted by themselves".
+- **Almost negative formulas carry nothing** (p. 9, §1.5). For an almost
+  negative A there is a term t_A with "A ↔ t_A↓ ∧ t_A realizes A" provable
+  in HA: when A holds, a realizer can be computed from A alone.
+- **Incompleteness** (p. 8). Rose (1953) and Ceitin found propositional
+  formulas that are realizable and not intuitionistically provable.
+- **Typed realizability** (p. 11, §1.6). In Kreisel's modified realizability
+  (1959) "the type of the variable x is determined by the logical form of
+  A"; it "predates the slogan “formulae as types” (Howard …) by 10 years"
+  and was later used to interpret Martin-Löf's type theory. A footnote (18)
+  finds it "reminiscent of Kolmogorov's interpretation of intuitionism by
+  “problems”".
+- **Realizability as truth** (p. 15, §2.1; p. 19, §2.4). "In Eff, the
+  standard truth definition for first-order arithmetic … is equivalent to
+  Kleene's 1945-realizability"; "in Eff, a sentence is equivalent to its
+  own realizability".
+
+## Assumptions
+
+Realizers are natural numbers (in 1945) or elements of a partial
+combinatory algebra (later); atomic sentences of arithmetic are decidable,
+so "F is true" in the atomic clause is a check, not a search. The essay's
+selection is, by its author's statement, "my own personal taste" (p. 1).
+
+## Concepts
+
+- **realizer**: a number that realizes a sentence under Kleene's clauses.
+  It is information about how the sentence holds (a witness, a choice of
+  disjunct, a program), not a derivation of it.
+- **glued realizability**: realizability with a side condition that the
+  sentence (at implications and universals) lies in a set P, such as the
+  provable sentences: a realizer kept together with membership in P.
+- **modified (typed) realizability**: realizers typed by the formula's
+  logical form; the typed form is the proof-relevant one later used for
+  type theory.
+- **effective topos**: the model in which realizability is truth.
+
+## Bearing on the record
+
+- **[CLAIM-949](../claims.d/CLAIM-949.md)** (the type-theoretic counterpart of specification).
+  Its sentence on Kleene, "the record's realization, with the witness
+  kept", holds for the existential clause: a realizer of ∃xφ(x) is the
+  pair ⟨m, k⟩, the witness m kept with a realizer of φ(m). It holds less
+  well for "an inhabitant carried with the evidence that it passes": k is
+  not evidence that m passes; for a decidable test (an atomic sentence)
+  k is 0, and passing is a fact checked, not carried. Kleene's realizer is
+  a witness with computational content, built against the proof
+  interpretation. And realizability qualifies the claim's two-sided
+  picture: it is itself a classical relation between realizers and
+  sentences, the same shape as an institution's satisfaction ([THEORY-1142](../theory.d/THEORY-1142.md)),
+  and in the effective topos it is truth. It sits between the
+  model-theoretic and the proof-relevant sides rather than on the second.
+  The proof-relevant reading the claim wants is Kreisel's typed
+  realizability and Martin-Löf's types, not Kleene 1945. Filed as
+  [ARG-tmp68y3c](../arguments.d/ARG-tmp68y3c.md), with `corroborates` for the witness correspondence.
+- **[TERM-154](../terms.d/TERM-154.md)** (witness). The existential clause is the term's
+  logician's sense exactly: the first component m of the realizer.
+- **[TERM-153](../terms.d/TERM-153.md)** (certificate). No analogue in Kleene's realizer, which
+  was designed to carry information rather than proofs. The nearest is
+  glued realizability with P the provable sentences, a realizer kept with
+  the fact of provability, and the proof-to-realizer translation behind
+  the soundness theorem. The atomic clause gives the term's own condition a
+  sharp form: where checking is decidable, nothing need be carried.
+- **[TERM-152](../terms.d/TERM-152.md)** (specification, realization). The word "realizer" is
+  Kleene's and attaches to a sentence; the record's "realization" attaches
+  to a set of tests. The set of realizers of a sentence is a set of
+  admissible realizations in the term's sense; a realizer is not the
+  object a specification describes but information about how it is met.
+  The record also uses "realizer" in the functionalist sense ([CLAIM-487](../claims.d/CLAIM-487.md))
+  and has a `realizability` line in a third sense. An analogy and a word
+  collision; no edge.
+- **[CLAIM-783](../claims.d/CLAIM-783.md)** (part 6: descriptors never conflict, the entry witnessing
+  them). The existential clause is the formal shape of that argument: the
+  entry with trivial realizers of its passed tests realizes "some version
+  passes them all". A parallel; no edge.
+
+## Limitations
+
+- A survey, not the 1945 paper. Kleene's own wording appears once (n. 7,
+  §2 of 1945); his motivation is quoted from his 1973 retrospective.
+- Results are stated without proof, including the soundness theorem.
+  Van Oosten's guess at Kleene's first, failed implication clause is
+  conjecture, and he says so (p. 4).
+- The selection is personal and leaves out most of the proof-theoretic
+  literature, for which it points to Troelstra's handbook chapter.
