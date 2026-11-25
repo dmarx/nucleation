@@ -72,6 +72,7 @@ summary: >-
   Read in NOTE-tmp60upv for LEAD-215's test of CLAIM-949; the reading is
   THEORY-tmp62cvo.
 ---
+<!-- inactive-ok-file: CLAIM-949 TERM-152 TERM-153 TERM-154 THEORY-tmp62cvo NOTE-tmp60upv — Proposed or Skimmed; this work's reading and the entries it tests -->
 
 # LIT-tmphxyqk: Intuitionistic Type Theory
 
