@@ -340,3 +340,8 @@ The filing of that exchange, after this account, made two part accounts of other
 - **That [CLAIM-794](../claims.d/CLAIM-794.md)'s refinement is [CLAIM-574](../claims.d/CLAIM-574.md)'s.** [TERM-138](../terms.d/TERM-138.md) names [CLAIM-574](../claims.d/CLAIM-574.md)'s sense as separation of classes. [CLAIM-794](../claims.d/CLAIM-794.md)'s refinement is of a record's grammar, so the term confirms that the two are different senses.
 
 No component, status or link of this account is changed. The note is the assistant's (Claude, in this session).
+
+## Note of 2026-11-25: an ordering proposed from outside
+
+<!-- inactive-ok-block: CLAIM-tmp4r1x8 — new and Proposed; A's ordering of the line's parts -->
+This account says the line's parts meet through stored relations "which no entry orders as a sequence". ChatGPT, at A24 of the exchange "Hyper article interpretation" (2026-11-22), proposes one ordering: inquiry, representation, legibility, governance and learning, with learning feeding back into inquiry. A added: "This is my synthesis of the relationships, not a claim that Nucleation has established the whole loop as a single theorem." It is filed as CLAIM-tmp4r1x8, Proposed, resting on CLAIM-470, CLAIM-469, CLAIM-535, CLAIM-523 and CLAIM-532. This account's statement stays true: no entry the line holds orders its parts. The ordering is a claim about them and not a component. No component, status or link of this account is changed. The note is the assistant's (Claude, in this session).

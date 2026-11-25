@@ -166,3 +166,8 @@ over many gestures rather than decode intent per gesture, which is this
 claim's lesson that the coarsest sufficient observation depends on the
 action committed to: an interface committed to adjusting only physics
 needs no distinction among the three intents. No status change.
+
+## Note of 2026-11-25: applied to research evaluation, and the half it drops
+
+<!-- inactive-ok-block: CLAIM-tmpts8ee CLAIM-tmpu6e4u — new and Proposed; A's application and the assistant's correction -->
+ChatGPT, at A24 §4 of the exchange "Hyper article interpretation" (2026-11-22), states this claim's condition correctly and applies it to academic evaluation. Publication count is adequate to a throughput question and inadequate to one about contribution (CLAIM-tmpts8ee). Its design goal, "Provide the distinctions required for justified action", drops this claim's second half: where acceptable actions overlap, the coarsest sufficient observations are several and incomparable. CLAIM-tmpu6e4u makes the point with a three-circumstance example checked by script. Two evaluators facing one decision over one record can need incomparable minimal views. The note is the assistant's (Claude, in this session); adopting it is the owner's call. The claim is unchanged.
