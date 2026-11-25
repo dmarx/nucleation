@@ -11,12 +11,12 @@ history:
   note: >-
     Edited in place on 2026-11-22 after Kesten (LIT-3005) was found
     Unfetched and two neighbours were read in its place, Kevei
-    (LIT-tmpk12vu, THEORY-tmpsmrhx) and Alsmeyer and Mentemeier
-    (LIT-tmpt282z, THEORY-tmpocjqv). `defeated_if` now carries the
+    (LIT-3043, THEORY-2183) and Alsmeyer and Mentemeier
+    (LIT-3045, THEORY-2182). `defeated_if` now carries the
     theorem's conditions as Kevei states them; the title's "even when the
     process contracts on average" becomes "a condition that requires" it,
     since E[A^κ] = 1 forces E log A < 0; `grounds` swaps the unread
-    LIT-3005 for THEORY-tmpsmrhx (ARG-tmpn6ufb). The thesis and status
+    LIT-3005 for THEORY-2183 (ARG-183). The thesis and status
     are unchanged.
 role: thesis
 warrant: demonstrated
@@ -39,14 +39,14 @@ date: '2026-11-21'
 line:
 - formal-apparatus
 grounds:
-- THEORY-tmpsmrhx
+- THEORY-2183
 - THEORY-696
 summary: >-
   A's, from A3 §2 and §4 of the exchange "Rich Get Richer Power Laws"
   (2026-11-20). W_{t+1} = A_t W_t gives log W as a sum, hence a lognormal
   by the central limit theorem, with every unit facing the same returns.
   Adding B_t (W_{t+1} = A_t W_t + B_t, Kesten, [LIT-3005](../literature.d/LIT-3005.md), known through
-  Kevei's restatement, [THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md)) gives P(W > x) ∝ x^(−κ) with
+  Kevei's restatement, [THEORY-2183](../theory.d/THEORY-2183.md)) gives P(W > x) ∝ x^(−κ) with
   E[A^κ] = 1, which forces E[log A] < 0, so "a process with an overall
   stabilizing tendency can still generate extreme outcomes". Checked by
   simulation in this session: with log A ~ N(−0.05, 0.3²), κ = 1.111 and
@@ -59,11 +59,11 @@ summary: >-
 bears_on:
 - QUESTION-505
 ---
-<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
-<!-- inactive-ok-file: TERM-tmpg1vx2 — Proposed; the term filed on the name Gibrat -->
+<!-- inactive-ok-file: THEORY-2169 THEORY-2173 THEORY-2172 — Proposed; the readings of 2026-11-22 cited in the notes -->
+<!-- inactive-ok-file: TERM-144 — Proposed; the term filed on the name Gibrat -->
 <!-- inactive-ok-file: LIT-3005 — Unfetched; Kesten, located and not read -->
-<!-- inactive-ok-file: THEORY-tmpsmrhx THEORY-tmpocjqv NOTE-tmpv02cb NOTE-tmpy4hcs ARG-tmpn6ufb — Proposed, Skimmed or new; the neighbours' readings of 2026-11-22 and the argument on them -->
-<!-- inactive-ok-file: LIT-tmpn76uh — Deferred; Goldie (1991), registered and unread -->
+<!-- inactive-ok-file: THEORY-2183 THEORY-2182 NOTE-2271 NOTE-2273 ARG-183 — Proposed, Skimmed or new; the neighbours' readings of 2026-11-22 and the argument on them -->
+<!-- inactive-ok-file: LIT-3044 — Deferred; Goldie (1991), registered and unread -->
 <!-- inactive-ok-file: CLAIM-830 CLAIM-795 CLAIM-803 THEORY-2150 ARG-140 — Proposed or new; claims filed with this one from the same exchange, and the reading and argument of 2026-11-21 -->
 
 # CLAIM-824: Multiplicative growth with independent, identically distributed returns gives a lognormal cross-section, not a power law, but the same growth with an additive floor gives a stationary power-law tail whose exponent κ solves E[A^κ] = 1, a condition that requires the process to contract on average in logarithm
@@ -82,7 +82,7 @@ With an additive term, W_{t+1} = A_t W_t + B_t, "Under suitable conditions,
 including an overall tendency toward contraction but occasional growth
 multipliers greater than one", the stationary law has P(W > x) ∝ x^(−κ)
 with "**E[A^κ] = 1**" (Kesten, [LIT-3005](../literature.d/LIT-3005.md); the theorem as Kevei restates it is
-[THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md)). "Rare sequences of favorable
+[THEORY-2183](../theory.d/THEORY-2183.md)). "Rare sequences of favorable
 multipliers compound into exceptionally large values."
 
 The record holds geometric Brownian motion and its time-average growth
@@ -173,19 +173,19 @@ conditions stands. Status unchanged.
 
 ## Note of 2026-11-22: Newman, read
 
-Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **supports both halves qualitatively**. Products of random numbers
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-2261](../notes.d/NOTE-2261.md); the reading is [THEORY-2169](../theory.d/THEORY-2169.md)) **supports both halves qualitatively**. Products of random numbers
 give a lognormal that can look straight on log scales over orders of
 magnitude, and "random multiplication processes can also generate perfect
 power-law distributions with only a slight modification: if there is a
 lower bound on the value that the product of a set of numbers is allowed
 to take" (§IV.G, p. 24, citing Sornette and Cont, Sornette, and Gabaix).
-It gives no exponent condition (no E[A^κ] = 1). [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)
-`corroborates` the claim. On the name, see [TERM-tmpg1vx2](../terms.d/TERM-tmpg1vx2.md) and the note of
+It gives no exponent condition (no E[A^κ] = 1). [THEORY-2169](../theory.d/THEORY-2169.md)
+`corroborates` the claim. On the name, see [TERM-144](../terms.d/TERM-144.md) and the note of
 this date on [CLAIM-830](CLAIM-830.md).
 
 ## Note of 2026-11-22: Clauset, Shalizi and Newman, read
 
-Clauset, Shalizi and Newman ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md); the reading is [THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)) **qualifies the claim's empirical reach**. At realistic n the
+Clauset, Shalizi and Newman ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-2262](../notes.d/NOTE-2262.md); the reading is [THEORY-2173](../theory.d/THEORY-2173.md)) **qualifies the claim's empirical reach**. At realistic n the
 lognormal and the power-law tail are "very closely equal" (p. 26) and the
 lognormal is excluded for one data set of 24, so a floor has to be read
 from the dynamics, not from the fitted cross-section; this is [CLAIM-803](CLAIM-803.md)'s
@@ -194,14 +194,14 @@ demand for dynamics. The US-cities row is in the note of this date on
 
 ## Note of 2026-11-22: Broido and Clauset, read
 
-Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)): **a parallel**. Lognormal-like degree tails are common, and the paper
+Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-2263](../notes.d/NOTE-2263.md); the reading is [THEORY-2172](../theory.d/THEORY-2172.md)): **a parallel**. Lognormal-like degree tails are common, and the paper
 names neither Gibrat nor multiplicative growth. No edge. Status
 unchanged.
 
 ## Change of 2026-11-22
 
-After Kesten ([LIT-3005](../literature.d/LIT-3005.md)) was found Unfetched and Kevei ([LIT-tmpk12vu](../literature.d/LIT-tmpk12vu.md)) and
-Alsmeyer and Mentemeier ([LIT-tmpt282z](../literature.d/LIT-tmpt282z.md)) were read in its place:
+After Kesten ([LIT-3005](../literature.d/LIT-3005.md)) was found Unfetched and Kevei ([LIT-3043](../literature.d/LIT-3043.md)) and
+Alsmeyer and Mentemeier ([LIT-3045](../literature.d/LIT-3045.md)) were read in its place:
 
 - **`defeated_if`** now carries the theorem's conditions as Kevei states
   them (p. 1): E|B|^κ rather than E[B^κ], since B may be signed;
@@ -217,15 +217,15 @@ Alsmeyer and Mentemeier ([LIT-tmpt282z](../literature.d/LIT-tmpt282z.md)) were r
   logarithm". E[A] itself is at least one whenever κ ≤ 1 (by Jensen,
   E[A] ≥ E[A^κ]^(1/κ) = 1); in the checked example above κ = 1.111 and
   E[A] = e^(−0.05 + 0.045) = 0.995.
-- **`grounds`** swaps [LIT-3005](../literature.d/LIT-3005.md), unread, for [THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md), Kevei's
-  restatement ([ARG-tmpn6ufb](../arguments.d/ARG-tmpn6ufb.md)). Version 2. The thesis and status are
+- **`grounds`** swaps [LIT-3005](../literature.d/LIT-3005.md), unread, for [THEORY-2183](../theory.d/THEORY-2183.md), Kevei's
+  restatement ([ARG-183](../arguments.d/ARG-183.md)). Version 2. The thesis and status are
   unchanged.
 
 ## Note of 2026-11-22: Kevei; Alsmeyer and Mentemeier, read in Kesten's place
 
-Kevei ([LIT-tmpk12vu](../literature.d/LIT-tmpk12vu.md), skimmed in [NOTE-tmpv02cb](../notes.d/NOTE-tmpv02cb.md); the reading is
-[THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md)) and Alsmeyer and Mentemeier ([LIT-tmpt282z](../literature.d/LIT-tmpt282z.md), [NOTE-tmpy4hcs](../notes.d/NOTE-tmpy4hcs.md),
-[THEORY-tmpocjqv](../theory.d/THEORY-tmpocjqv.md)) were read because Kesten's paper is behind a WAF
+Kevei ([LIT-3043](../literature.d/LIT-3043.md), skimmed in [NOTE-2271](../notes.d/NOTE-2271.md); the reading is
+[THEORY-2183](../theory.d/THEORY-2183.md)) and Alsmeyer and Mentemeier ([LIT-3045](../literature.d/LIT-3045.md), [NOTE-2273](../notes.d/NOTE-2273.md),
+[THEORY-2182](../theory.d/THEORY-2182.md)) were read because Kesten's paper is behind a WAF
 challenge.
 
 - **Supports the Kesten half, at second hand.** Kesten "proved that if
@@ -238,7 +238,7 @@ challenge.
 - **Joins the two floors under one exponent equation.** The note of
   2026-11-21 above separates an additive floor (Kesten's B) from a
   reflecting minimum (Mitzenmacher's). The reflecting form X = AX ∨ B
-  has its own theorem, Goldie's Theorem 5.2 ([LIT-tmpn76uh](../literature.d/LIT-tmpn76uh.md)), with the same
+  has its own theorem, Goldie's Theorem 5.2 ([LIT-3044](../literature.d/LIT-3044.md)), with the same
   conditions and the same κ: "P{X > x} ∼ cx−κ with some c ≥ 0, and c > 0
   if and only if P{B > 0} > 0" (Kevei, p. 4). So the claim's two kinds of
   floor give the same exponent; what differs is only the construction.
@@ -248,5 +248,5 @@ challenge.
   for dynamics: the stationary tail does not name its source.
 - **Leaves the lognormal half untouched.**
 
-[THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md) is added to `grounds` and [LIT-3005](../literature.d/LIT-3005.md) removed
-([ARG-tmpn6ufb](../arguments.d/ARG-tmpn6ufb.md)). Status unchanged.
+[THEORY-2183](../theory.d/THEORY-2183.md) is added to `grounds` and [LIT-3005](../literature.d/LIT-3005.md) removed
+([ARG-183](../arguments.d/ARG-183.md)). Status unchanged.

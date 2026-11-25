@@ -12,7 +12,7 @@ history:
 - version: 1
   date: '2026-11-22'
   note: >-
-    Filed, not read, for LEAD-tmp3xevc, at the owner's request. Checked on
+    Filed, not read, for LEAD-215, at the owner's request. Checked on
     2026-11-22: not held in record/literature.d by DOI, title or author
     (Kolmogorov, Kolmogoroff), and no reading of the BHK interpretation,
     of Heyting or of a logic of problems is held. Crossref gives
@@ -59,10 +59,10 @@ summary: >-
   and "nach der Form" coincides with Heyting's intuitionistic logic. In §2
   he argues that the objects of intuitionistic logic are really problems,
   not statements. Problems, unlike proved statements, have no notion of
-  correctness. The reading tests [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s correspondence of a
+  correctness. The reading tests [CLAIM-949](../claims.d/CLAIM-949.md)'s correspondence of a
   question with a problem ([THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md), [ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md)).
 ---
-<!-- inactive-ok-file: THEORY-tmpdsft8 ARG-tmp6sdu6 CLAIM-tmpnookt — new or Proposed; the reading of 2026-11-22, its theory and argument, and the claim and lead it was read for -->
+<!-- inactive-ok-file: THEORY-tmpdsft8 ARG-tmp6sdu6 CLAIM-949 — new or Proposed; the reading of 2026-11-22, its theory and argument, and the claim and lead it was read for -->
 
 # LIT-tmpgnf38: Zur Deutung der intuitionistischen Logik
 
@@ -89,6 +89,6 @@ Works of A. N. Kolmogorov*, Vol. I (1991), not consulted here.
 
 ## Standing in the record
 
-Registered and read for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md), to test [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s reading of
+Registered and read for [LEAD-215](../leads.d/LEAD-215.md), to test [CLAIM-949](../claims.d/CLAIM-949.md)'s reading of
 a question ([CLAIM-470](../claims.d/CLAIM-470.md)) as a problem. The record held no reading of the BHK
 interpretation before this one.

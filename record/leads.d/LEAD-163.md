@@ -23,6 +23,7 @@ summary: >-
   audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-615 — Proposed; cited in the backlog audit of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-983 CLAIM-986 ARG-216 — new; the readings and argument filed for this lead -->
 
 # LEAD-163: Close the open slot in the admission case that would otherwise defeat its claim
 
@@ -37,3 +38,18 @@ Where the record names it:
 ## What would count
 
 A closed slot keeps [CLAIM-615](../claims.d/CLAIM-615.md); an open one defeats it.
+
+## Note of 2026-11-22: done in two readings
+
+The slot is which organization [CLAIM-615](../claims.d/CLAIM-615.md)'s `defeated_if` means by "that
+organization": the relations kept realizable, or the maintainer that keeps
+them. Filed: [ARG-216](../arguments.d/ARG-216.md), the step both readings share (restoration from
+the thing is transmission through it, by analogy with [CLAIM-329](../claims.d/CLAIM-329.md)), which
+makes the car that changes garages a continuation; and two alternatives
+for organization held only by a maintainer, [CLAIM-983](../claims.d/CLAIM-983.md) (a channel,
+never what is transmitted) and [CLAIM-986](../claims.d/CLAIM-986.md) (transmitted insofar as the
+individual does not carry it and a competent replacement would not supply
+it; the assistant's lean). The slot is closed on either. What remains for
+the owner: choosing a reading, and whether [CLAIM-615](../claims.d/CLAIM-615.md)'s admission section
+takes the stipulated replica case in place of the garage, as its note of
+this date proposes.

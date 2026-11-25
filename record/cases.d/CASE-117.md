@@ -45,7 +45,7 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: a reduced run of this design
-    (CASE-tmpnti0m, by LEAD-016). The design is unchanged.
+    (CASE-341, by LEAD-016). The design is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -76,7 +76,7 @@ draws_on:
 - THEORY-239
 - THEORY-132
 ---
-<!-- inactive-ok-file: CASE-tmpnti0m CLAIM-tmp1u4m3 CLAIM-tmp1jz5w — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
+<!-- inactive-ok-file: CASE-341 CLAIM-918 CLAIM-919 — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-367 THEORY-514 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
@@ -267,7 +267,7 @@ The design is unchanged.
 
 ## Note of 2026-11-22: a reduced run, by [LEAD-016](../leads.d/LEAD-016.md)
 
-[LEAD-016](../leads.d/LEAD-016.md) ran part of this design as [CASE-tmpnti0m](CASE-tmpnti0m.md).
+[LEAD-016](../leads.d/LEAD-016.md) ran part of this design as [CASE-341](CASE-341.md).
 
 **Dimensions run:**
 
@@ -292,7 +292,7 @@ The design is unchanged.
   dynamics:
   - the multiplicative rule's recovery rate does not depend on how rare
     the specialist was made;
-  - the gating rules' rate shrinks with the share, as [CLAIM-tmp1u4m3](../claims.d/CLAIM-tmp1u4m3.md)
+  - the gating rules' rate shrinks with the share, as [CLAIM-918](../claims.d/CLAIM-918.md)
     derives;
   - a usage bias recovers rare operators whether or not they are
     competent.
@@ -304,7 +304,7 @@ The design is unchanged.
 - **Active, dormant and reconstructed.** Frozen and trainable recovery
   did not differ. What returned was the retained capability.
 - **Coupled against decoupled exposure.** Spare capacity decided the
-  outcome, not exposure ([CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md)).
+  outcome, not exposure ([CLAIM-919](../claims.d/CLAIM-919.md)).
 
 The study does not show self-constitution ([CLAIM-288](../claims.d/CLAIM-288.md)). The design is
 unchanged.

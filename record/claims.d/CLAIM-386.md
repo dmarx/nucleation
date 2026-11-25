@@ -4,13 +4,20 @@ status: Active
 formerly:
 - CLAIM-tmp614wx
 title: 'For x(t+1) = (A* + εC)x with A* block-diagonal, the Simon–Ando aggregate Â = QAV has one-step closure defect exactly QA − ÂQ = QA(I − VQ); the part from the blocks'' own dynamics vanishes iff every block has equal column sums, and then the whole defect is ε·QC(I − VQ)'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-20'
   note: >-
     A dated note: CLAIM-781 identifies this claim's
     coupling ratio with the spacing of a level in a tree-like time geometry. No change of status or title.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §5.3. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -39,6 +46,8 @@ summary: >-
   numerical, not part of the claim.
 bears_on:
 - QUESTION-221
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 

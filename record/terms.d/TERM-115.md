@@ -80,3 +80,20 @@ ready for some contingencies than the other.
 ## Note of 2026-11-05: A's resource models and further distinctions
 
 The pasted synthesis on constraint architectures reads readiness as a resource-constrained transition capability: the probability, under policy, budget and architecture, of reaching a response configuration before the deadline without breaking constraints, with a planning problem that minimizes maintenance and expected operating cost subject to a floor on it. A: "Maintaining a specialized rescue unit is analogous to maintaining a mechanism that can be activated to reach an otherwise unavailable configuration before a deadline." See [CASE-198](../cases.d/CASE-198.md) and [QUESTION-392](../questions.d/QUESTION-392.md). The term is unchanged. No status changes.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: ADR-144 — Proposed; the work -->
+Extension. A48 §6 of the owner's manuscript ([ADR-144](../decisions.d/ADR-144.md)) makes this term a
+curve over the deadline, R_i(S, t), and says organizations "need not admit a
+universal ranking" without saying when one exists. Since R_i(S, ·) is the
+distribution function of the response time, two organizations are ranked the
+same way at every deadline exactly when one curve lies at or above the other
+at every time (first-order dominance); where the curves cross, which is more
+ready is fixed only by the deadline. The condition is the assistant's
+(Claude, in this session).
+
+## Note of 2026-11-23: indexed by query and budget, from "Explain First Contact RL"
+
+<!-- inactive-ok-block: CLAIM-1012 CLAIM-1003 CLAIM-1032 — Proposed, filed from A50 of the exchange "Explain First Contact RL" on 2026-11-23 -->
+A50 §1 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) writes R_S(q; H, B), the probability that "an acceptable answer to q is realized by H within budget B" under the organization's actual policy, and calls it "a demand-relative extension" of this term: the contingency becomes a practical query, and a budget is added ([CLAIM-1012](../claims.d/CLAIM-1012.md)). Its §8 takes the superlevel set 𝓔(S) = {(q, H, B): R_S(q; H, B) ≥ 1 − η_q} as the organization's answer frontier, beside the inquiry frontier of [TERM-092](TERM-092.md) ([CLAIM-1003](../claims.d/CLAIM-1003.md)). The assistant's analysis of A50's interrogation game ([CLAIM-1032](../claims.d/CLAIM-1032.md)) finds that its strategic content is this term's setting, preparation chosen before the contingency is known. The term is unchanged.

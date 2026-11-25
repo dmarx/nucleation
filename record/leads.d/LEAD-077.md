@@ -67,9 +67,9 @@ adds something. The router matching or beating it in every arm supports
 
 ## Note of 2026-11-22: run, and what remains
 
-<!-- inactive-ok-file: CASE-tmpkghqb CLAIM-tmpdmn0v — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-338 CLAIM-906 — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
 
-Run on 2026-11-22 by a delegated worker ([CASE-tmpkghqb](../cases.d/CASE-tmpkghqb.md), [CLAIM-tmpdmn0v](../claims.d/CLAIM-tmpdmn0v.md);
+Run on 2026-11-22 by a delegated worker ([CASE-338](../cases.d/CASE-338.md), [CLAIM-906](../claims.d/CLAIM-906.md);
 scratch/studies/lead-077/). [CASE-158](../cases.d/CASE-158.md)'s design was built in numpy with
 the router matched on audit records, delay and cost, and run with one arm
 per failure of [QUESTION-271](../questions.d/QUESTION-271.md) and one with continued training: 8 arms,
@@ -84,7 +84,7 @@ held-out error than the matched router in some arm", two comparisons
 qualify: full information at shared low temperatures, and bandit feedback
 with a 10% audit floor imposed on both (12 of 12), where the router
 without the floor did as well as governance with it. Whether that defeats or supports [CLAIM-467](../claims.d/CLAIM-467.md)
-is set out as two readings in [CLAIM-tmpdmn0v](../claims.d/CLAIM-tmpdmn0v.md), for the owner.
+is set out as two readings in [CLAIM-906](../claims.d/CLAIM-906.md), for the owner.
 
 What remains: α-Rank or Nash averaging as governance's procedure under
 cycles and duplication; unknown or zero audit propensities; an

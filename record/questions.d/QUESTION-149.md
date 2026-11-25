@@ -18,6 +18,7 @@ summary: >-
   it lies in N with Γ_q ⊆ M. Whether the linearities reported in trained
   models meet that condition has not been measured.
 ---
+<!-- inactive-ok-file: CASE-398 CLAIM-1027 CLAIM-1080 — new; filed by the lead run of 2026-11-23 -->
 
 # QUESTION-149: In released language models, do the relational linear properties reported so far lie in the subspaces that enter the logits, with Γ ⊆ N and Γ_q ⊆ M, so that they are properties of the distribution and not of one fitted model?
 
@@ -51,3 +52,19 @@ properties to be properties of the distribution if the containments
 hold. It would show them to be possibly artefacts of one fitted model if
 Γ_q has a substantial component in F outside M. Further reports of linear
 structure in single models cannot settle it.
+
+## Note of 2026-11-23: a measurement in two small released models
+
+[LEAD-073](../leads.d/LEAD-073.md) ran the measurement this question asks for, in GPT-2 small and
+Pythia-70m, for three factual relations ([CASE-398](../cases.d/CASE-398.md)), with a tolerance
+committed before the run. Exactly, both models meet the diversity
+condition, so M = N = ℝᵈ and Γ ⊆ N and Γ_q ⊆ M hold for any relation.
+"Γ_q has a substantial component in F outside M" cannot occur there,
+because F outside M is empty. At the stated tolerance the containments
+fail, for all three relations in GPT-2 small and narrowly in Pythia-70m,
+and the verdict moves with the tolerance.
+
+Two readings are filed as alternatives. [CLAIM-1027](../claims.d/CLAIM-1027.md) offers a yes for
+these models, trivially. [CLAIM-1080](../claims.d/CLAIM-1080.md) holds that the question's content
+lies in approximate equivalence, where the measurement does not settle it.
+The question stays open; no status was changed.

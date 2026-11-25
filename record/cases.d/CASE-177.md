@@ -33,7 +33,7 @@ reported_in:
 summary: >-
   In some Tettigades cicadas, the endosymbiont Hodgkinia split into two cell lineages with almost perfectly complementary gene sets, the functionality of one ([LIT-1563](../literature.d/LIT-1563.md)), and it has done so at least six times in the genus ([LIT-1586](../literature.d/LIT-1586.md)). In Magicicada it fragmented into twenty or more genomic circles per species ([LIT-1612](../literature.d/LIT-1612.md), [LIT-1602](../literature.d/LIT-1602.md)). Hosts compensate by transmitting more cells to each egg ([LIT-1590](../literature.d/LIT-1590.md)). Used as the case where dependence and the number of parts grow with no new collective function, and the host pays.
 ---
-<!-- inactive-ok-file: THEORY-tmp4pf2m THEORY-tmpjqe6l — new, filed for LEAD-138; the readings the note of 2026-11-22 reports -->
+<!-- inactive-ok-file: THEORY-2231 THEORY-2232 — new, filed for LEAD-138; the readings the note of 2026-11-22 reports -->
 <!-- inactive-ok-file: LIT-1563 LIT-1612 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 
 # CASE-177: Hodgkinia in cicadas: one endosymbiont splitting into two to dozens of interdependent lineages, with near-complementary gene sets, idiosyncratic fragmentation in Magicicada, and hosts transmitting up to six times as many cells to keep every lineage
@@ -108,8 +108,8 @@ Corrections to "The host's cost" and "What it can show":
 
 ## Note of 2026-11-22: [LIT-1586](../literature.d/LIT-1586.md) and [LIT-1602](../literature.d/LIT-1602.md) read ([LEAD-138](../leads.d/LEAD-138.md))
 
-Łukasik et al. ([LIT-1586](../literature.d/LIT-1586.md), read in [NOTE-tmp8zw3r](../notes.d/NOTE-tmp8zw3r.md), [THEORY-tmp4pf2m](../theory.d/THEORY-tmp4pf2m.md)) and
-Campbell et al. 2017 ([LIT-1602](../literature.d/LIT-1602.md), read in [NOTE-tmpzfvzz](../notes.d/NOTE-tmpzfvzz.md), [THEORY-tmpjqe6l](../theory.d/THEORY-tmpjqe6l.md))
+Łukasik et al. ([LIT-1586](../literature.d/LIT-1586.md), read in [NOTE-2321](../notes.d/NOTE-2321.md), [THEORY-2231](../theory.d/THEORY-2231.md)) and
+Campbell et al. 2017 ([LIT-1602](../literature.d/LIT-1602.md), read in [NOTE-2322](../notes.d/NOTE-2322.md), [THEORY-2232](../theory.d/THEORY-2232.md))
 are now read, from the versions of record on the Łukasik group's page at
 Jagiellonian University. What the case takes from them:
 

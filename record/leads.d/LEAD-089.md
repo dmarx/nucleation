@@ -1,10 +1,24 @@
 ---
 number: 89
-status: Open
+status: Done
 formerly:
 - LEAD-tmpffmfr
 title: 'Model Northstar with control and metacontrol mechanisms alone and then with a will-organization over them, price the difference, and set planning, control and institutional theory beside the account'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Done, at the owner's word of 2026-11-25 ("go ahead with the
+    reruns"), whose brief took in closing the leads whose runs are
+    recorded, as housekeeping and not a change of credence. What it would do was
+    done on 2026-11-22: Northstar modelled both ways and the difference
+    priced in CASE-325, with CLAIM-889 and CLAIM-890 setting the three
+    theories beside it (the note of 2026-11-22). CASE-325 was rerun on
+    2026-11-25 by a session other than the filer's and every figure
+    matches. What that note lists as remaining (a second realizer,
+    LIT-488, QUESTION-041) is beyond this lead's run and would be a
+    lead of its own. The stage is left as it stood.
 stage: idea
 priority: high
 method:
@@ -29,7 +43,7 @@ summary: >-
   Named in [QUESTION-056](../questions.d/QUESTION-056.md) and [CLAIM-024](../claims.d/CLAIM-024.md). Filed by the backlog audit of
   2026-11-19.
 ---
-<!-- inactive-ok-file: CLAIM-tmp92xul CLAIM-tmp773u9 — new; this lead's study, finding and reading -->
+<!-- inactive-ok-file: CLAIM-889 CLAIM-890 — new; this lead's study, finding and reading -->
 <!-- inactive-ok-file: LIT-488 — Unavailable; the reading that could change the planning verdict -->
 <!-- inactive-ok-file: CLAIM-024 CLAIM-174 CLAIM-487 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
@@ -58,8 +72,8 @@ defeats [CLAIM-024](../claims.d/CLAIM-024.md).
 ## Note of 2026-11-22: run, and what remains
 
 Carried out by a delegated worker on 2026-11-22 (scratch/studies/lead-089/).
-Northstar was modelled both ways and the difference priced: [CASE-tmpokq28](../cases.d/CASE-tmpokq28.md)
-(the executed study), [CLAIM-tmp92xul](../claims.d/CLAIM-tmp92xul.md) (the finding) and [CLAIM-tmp773u9](../claims.d/CLAIM-tmp773u9.md) (planning,
+Northstar was modelled both ways and the difference priced: [CASE-325](../cases.d/CASE-325.md)
+(the executed study), [CLAIM-889](../claims.d/CLAIM-889.md) (the finding) and [CLAIM-890](../claims.d/CLAIM-890.md) (planning,
 control and institutional theory set beside it, from readings the record
 already holds; nothing was fetched).
 
@@ -78,7 +92,7 @@ already holds; nothing was fetched).
   the models that miss. Planning theory, with the plan fixed, gives none.
   Institutional theory writes the same relations. "What would count" above
   reads as if inverted: a difference an existing theory already gives
-  supports [CLAIM-024](../claims.d/CLAIM-024.md) on that front rather than defeating it. [CLAIM-tmp773u9](../claims.d/CLAIM-tmp773u9.md)
+  supports [CLAIM-024](../claims.d/CLAIM-024.md) on that front rather than defeating it. [CLAIM-890](../claims.d/CLAIM-890.md)
   reads it so.
 
 What remains:

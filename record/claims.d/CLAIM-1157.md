@@ -1,0 +1,95 @@
+---
+number: 1157
+status: Proposed
+formerly:
+- CLAIM-tmpq4crr
+title: 'That asking and answering are each resource-bounded does not make them compete: a common budget, a common bottleneck or a sequential dependence supplies the coupling, and a shared deadline is not a shared pool of worker-hours, since independent processes can spend the same elapsed time at once'
+version: 1
+role: thesis
+warrant: demonstrated
+defeated_if: >-
+  An architecture in which asking and answering draw on separate pools,
+  neither waits on the other and they share no bottleneck, yet more of one
+  still leaves less for the other; or a showing that boundedness alone
+  already entails one of the three couplings.
+tags:
+- operations-research
+- epistemology
+date: '2026-11-23'
+line:
+- readiness
+- learning-and-inquiry
+answers:
+- QUESTION-520
+rests_on:
+- CLAIM-475
+- CLAIM-1114
+uses:
+- TERM-085
+summary: >-
+  A52 (intro, §4 and §8) of the exchange "Explain First Contact RL"
+  (ChatGPT, 2026-11-23), answering the owner's U27 ([QUESTION-520](../questions.d/QUESTION-520.md)).
+  A52 separates resource boundedness, resource coupling and resource
+  competition: the first is held ([CLAIM-475](CLAIM-475.md)), the second follows in
+  particular architectures, and the third "requires additional
+  conditions". Its table marks "Any query and target necessarily compete
+  for the same scarce capacity" as "Not established; false in general".
+  The wording is A's (ChatGPT, at A52 of the exchange "Explain First
+  Contact RL"); adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-1114 CLAIM-1008 CLAIM-1025 CASE-316 — Proposed; the construction this rests on and the entries filed with it -->
+
+# CLAIM-1157: That asking and answering are each resource-bounded does not make them compete: a common budget, a common bottleneck or a sequential dependence supplies the coupling, and a shared deadline is not a shared pool of worker-hours, since independent processes can spend the same elapsed time at once
+
+## The claim
+
+A52 distinguishes three things:
+
+> 1. **Resource boundedness:** Formulating a query and realizing an answer each require finite resources.
+> 2. **Resource coupling:** The resources consumed by one process affect what remains available to the other.
+> 3. **Resource competition:** Under a binding shared constraint, allocating more resources to one process reduces what can be allocated to the other.
+
+and three architectures (§4): sequential dependence, where "Time spent
+querying reduces the horizon remaining for answering, even with separate
+resources"; concurrent activity with a shared bottleneck, where the two
+"directly compete for limited capacities while running"; and concurrent
+activity with independent resources, where "their resource consumption
+need not directly compete". With vector-valued costs, a shared pool is
+C_Q(q) + C_A(q, π) ⪯ B, and separate pools are C_Q(q) ⪯ B_Q and
+C_A(q, π) ⪯ B_A, "plus whatever timing and communication dependencies
+connect them". So "resource-boundedness alone does not imply competitive
+coupling. **A common budget, a common bottleneck, or a sequential
+dependency supplies the coupling.**"
+
+On the deadline: "a shared deadline is not identical to a shared pool of
+worker-hours. Two independent activities can each use five minutes during
+the same five-minute interval. They consume elapsed time simultaneously,
+not ten minutes of calendar time."
+
+## Why it is demonstrated
+
+It follows from the constraint forms. Under separate pools with no
+dependence the feasible set is a product, so raising one process's spend
+leaves the other's feasible set unchanged. Under a shared pool or a
+precedence it is not. [CLAIM-1114](CLAIM-1114.md)'s construction is the time case:
+overlapping stages that do not compete contribute the longest of their
+durations, not the sum.
+
+## What it does not say
+
+- Not that time is not shared. A sequential dependence couples asking and
+  answering through the deadline even with separate personnel, which is
+  A52 §2's T_Q(q) + T_A(q, π) ≤ H and [TERM-085](../terms.d/TERM-085.md)'s "Planning is not free".
+- Not that separate pools leave the two independent. Their outputs still
+  interact: a better question can make the answer cheaper (A52 §2). That
+  interaction is a coupling of the outputs, not competition for inputs.
+
+## Where it goes next
+
+A52 §3's depth of inquiry under a shared deadline is [CLAIM-1008](CLAIM-1008.md), and
+the set of questions both posable and answerable under a joint schedule is
+[CLAIM-1025](CLAIM-1025.md). Competition among stages sharing reviewers is [CASE-316](../cases.d/CASE-316.md)'s.
+
+## Note of 2026-11-25: rerun, and what holds it back
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, at the owner's word ("go ahead with the reruns"; the owner delegated on 2026-11-24 the promotion of demonstrated claims independently recomputed). The filer's script was not kept, so the check was rebuilt from this entry alone as `scratch/formal/inquiry_coupling_bounds_check.py`, with a negative control, and run with python3 -I. Every computation reproduces. With separate pools and no dependence the feasible spends form a product: as asking spends 0 to 5, answering's feasible set does not change. A shared budget, a sequential dependence through a deadline and a shared server each shrink it with every unit asking spends, and a control that plants a hidden transfer between the separate pools is detected as coupling. Two five-minute activities in the same interval take five minutes, not ten. What holds it back: [ADR-057](../decisions.d/ADR-057.md)'s first criterion. Its premise [CLAIM-1114](CLAIM-1114.md) is Proposed ([CLAIM-475](CLAIM-475.md) is Active), and this rerun did not recheck [CLAIM-1114](CLAIM-1114.md), whose stated check (2,037 of 20,000 random routes) gives no seed. It goes Active when [CLAIM-1114](CLAIM-1114.md) does, or when a pass changes the edge. The note is the assistant's (Claude, in this session). No status change.

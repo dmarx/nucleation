@@ -249,3 +249,15 @@ The paper is a formal case of the claim's structure with places in place of pers
 Ensign et al. 2017, read ([NOTE-2025](../notes.d/NOTE-2025.md), [THEORY-1927](../theory.d/THEORY-1927.md), corroborates). The claim's loop form, an early exclusion kept going because the indicators only being sought produces never arrive from those not sought, is proved in the policing model. With equal rates, "the prior belief coupled with the lack of feedback about the unobserved region prevents the system from learning that the two areas are in fact identical with respect to crime rates" (Lemma 2); with unequal rates, a small advantage takes all (Lemma 4). The model contains no prejudice term, which is consistent with the claim's second half: the dynamics alone cannot tell a frozen prior from a merited difference. The domain is policing, not testimony; the reading supports the form, not the claim's application to testimonial injustice.
 
 No status changes.
+
+## Note of 2026-11-23: the loop at the level of a proposal
+
+<!-- inactive-ok-block: CLAIM-1140 CLAIM-1016 — Proposed; filed from the exchange "Explain First Contact RL" -->
+A56 §5 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23)
+cites this claim and [CLAIM-277](CLAIM-277.md) for a circle at the level of one proposal:
+evidence is needed for permission to inquire, and permission for the
+evidence ([CLAIM-1140](CLAIM-1140.md)). This claim's caution carries over: the circle
+alone cannot tell a neglected possibility from a worthless one.
+[CLAIM-1016](CLAIM-1016.md) (the assistant's) says what breaks it: authorizing a domain
+before its questions are formulated. No status change. The note is the
+assistant's (Claude, in this session); adopting it is the owner's call.

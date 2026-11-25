@@ -10,7 +10,7 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: carried out on a minimal scaffolding model
-    (CASE-tmpgfgy2, CLAIM-tmptbxbq); what remains is listed. Status and
+    (CASE-320, CLAIM-884); what remains is listed. Status and
     stage unchanged.
 stage: idea
 priority: high
@@ -30,7 +30,7 @@ summary: >-
   in the curation entry of 2026-09-26 (063703). Filed by the backlog audit
   of 2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-tmpgfgy2 CLAIM-tmptbxbq LIT-005 LIT-049 THEORY-607 — new, filed 2026-11-22 from LEAD-167's computation, and the Proposed papers and reading it bears on -->
+<!-- inactive-ok-file: CASE-320 CLAIM-884 LIT-005 LIT-049 THEORY-607 — new, filed 2026-11-22 from LEAD-167's computation, and the Proposed papers and reading it bears on -->
 <!-- inactive-ok-file: LIT-1940 — Deferred; Black et al.'s own model, named as not reproduced -->
 
 # LEAD-167: Compute Bourrat's individuality measures on a model of an evolutionary transition
@@ -60,7 +60,7 @@ minimal ecological-scaffolding model of 256 states, with pytest tests:
 - Bourrat 2023's δC and δC|E over all 203 partitions of the cells
   ([LIT-049](../literature.d/LIT-049.md)).
 
-The study is [CASE-tmpgfgy2](../cases.d/CASE-tmpgfgy2.md), and the finding is [CLAIM-tmptbxbq](../claims.d/CLAIM-tmptbxbq.md). Materials are under
+The study is [CASE-320](../cases.d/CASE-320.md), and the finding is [CLAIM-884](../claims.d/CLAIM-884.md). Materials are under
 scratch/studies/lead-167/.
 
 **Why this model.** The scaffolding scenario is the one [LIT-005](../literature.d/LIT-005.md) names. Black

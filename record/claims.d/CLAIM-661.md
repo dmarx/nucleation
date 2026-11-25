@@ -51,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-1755 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-660 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-244 THEORY-1658 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: NOTE-tmpqvc1g THEORY-tmp15tfp — new, filed for LEAD-138; the reading the note of 2026-11-22 reports -->
+<!-- inactive-ok-file: NOTE-2323 THEORY-2233 — new, filed for LEAD-138; the reading the note of 2026-11-22 reports -->
 <!-- inactive-ok-file: LIT-2364 until 2027-02-12 — Unavailable; a premise this entry depends on (`grounds`): no lawful copy was found when it was read on 2026-11-12; ask again whether a copy has appeared -->
 
 # CLAIM-661: Where an influence on an organism came from, what governs its practical efficacy, and whose interests its effects serve are three separate questions, so neither an origin outside the organism nor one inside it settles whether the influence belongs to the organism's self-governance: authorized external regulation, parasitic capture, cancer arising from the host's own cells and foreign-origin cells serving the host realize the combinations
@@ -204,7 +204,7 @@ three questions; it neither supports nor qualifies it beyond that.
 
 [LIT-2395](../literature.d/LIT-2395.md), which the claim cites for wasps "whose domesticated viral
 genes, once a separate lineage, now let them alter a third organism", is
-now skimmed in [NOTE-tmpqvc1g](../notes.d/NOTE-tmpqvc1g.md) ([THEORY-tmp15tfp](../theory.d/THEORY-tmp15tfp.md), which `corroborates` this
+now skimmed in [NOTE-2323](../notes.d/NOTE-2323.md) ([THEORY-2233](../theory.d/THEORY-2233.md), which `corroborates` this
 claim) from the NSF Public Access Repository copy of the Review in
 Advance. The example holds: bracoviruses "evolved ∼100 million years ago
 from a nudivirus that integrated into a braconid wasp", are inherited in

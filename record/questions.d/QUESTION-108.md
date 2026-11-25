@@ -35,7 +35,7 @@ summary: >-
   findings, and a comparison that does not separate them cannot say which one [CLAIM-295](../claims.d/CLAIM-295.md)
   rests on.
 ---
-<!-- inactive-ok-file: CASE-tmpssuha CLAIM-tmpj6pb6 — new; the curation-completeness pilot and the claim filed from it, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-318 CLAIM-881 — new; the curation-completeness pilot and the claim filed from it, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-184 CLAIM-190 CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: SYNTHESIS-015 — Deferred, Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: CASE-251 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
@@ -128,13 +128,13 @@ The question is unchanged.
 
 ## Note of 2026-11-22: a pilot of the curation-completeness study
 
-[CASE-tmpssuha](../cases.d/CASE-tmpssuha.md) piloted [CASE-251](../cases.d/CASE-251.md) on four corrected single-work readings.
+[CASE-318](../cases.d/CASE-318.md) piloted [CASE-251](../cases.d/CASE-251.md) on four corrected single-work readings.
 A replay given the source and the record as it stood recovered about
 two-thirds of each filing (0.61 to 0.75) and none of the six items later
 corrections added; five of those came from reading works the source cites
 or that answer it. On the third mechanism, the operations a reviser needs:
 the operation those corrections needed was reading the cited work, and
-nothing in the record prompted it at filing time ([CLAIM-tmpj6pb6](../claims.d/CLAIM-tmpj6pb6.md)). It does
+nothing in the record prompted it at filing time ([CLAIM-881](../claims.d/CLAIM-881.md)). It does
 not yet measure curation's losses, since the omission episodes [CASE-251](../cases.d/CASE-251.md)
 names are exchanges whose texts are not held. Not independent: one model
 family filed, replayed and scored. The question is unchanged.

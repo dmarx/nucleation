@@ -6,7 +6,7 @@
 
 **Philosophy of language** — meaning, content and reference as philosophy poses them — theories of meaning, meaning holism, assertion and whether machines assert, and conceptual change (group: philosophy).
 
-17 of 211 LEAD documents. Back to the [full index](../README.md).
+17 of 234 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -24,6 +24,6 @@
 | [LEAD-169](../../../record/leads.d/LEAD-169.md) | Run the reader test with Russian readers as the reference for Dolly's slip into the familiar form, against the English versions | Named in [CLAIM-091](../../../record/claims.d/CLAIM-091.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-170](../../../record/leads.d/LEAD-170.md) | Run repeated reconstruction chains, cross-modal (text, image, caption, image) against text-only of the same length, scored with an overlapping-context design at each stage | Named in [QUESTION-004](../../../record/questions.d/QUESTION-004.md), [QUESTION-014](../../../record/questions.d/QUESTION-014.md) and [CLAIM-087](../../../record/claims.d/CLAIM-087.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-174](../../../record/leads.d/LEAD-174.md) | Estimate per-step kernels from several independent retellers per generation on held-out and perturbed inputs, in a metric fixed beforehand, and predict end-to-end drift | Named in [CLAIM-208](../../../record/claims.d/CLAIM-208.md) and [CLAIM-059](../../../record/claims.d/CLAIM-059.md). Filed by the backlog audit of 2026-11-19. | Open |
-| [LEAD-182](../../../record/leads.d/LEAD-182.md) | Find or run an adequately powered Contextuality-by-Default test on human pragmatic judgements, with signalling accounted for and outcome coding fixed in advance | It decides the contextuality strand of the pragmatic-transport line. Named in [CLAIM-009](../../../record/claims.d/CLAIM-009.md) and [CLAIM-105](../../../record/claims.d/CLAIM-105.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-182](../../../record/leads.d/LEAD-182.md) v2 | Find or run an adequately powered Contextuality-by-Default test on human pragmatic judgements, with signalling accounted for and outcome coding fixed in advance | It decides the contextuality strand of the pragmatic-transport line. Named in [CLAIM-009](../../../record/claims.d/CLAIM-009.md) and [CLAIM-105](../../../record/claims.d/CLAIM-105.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-187](../../../record/leads.d/LEAD-187.md) | Find or run a transmission chain whose endpoint is compared with a prior measured on its own transmitters before transmission, and chains started from different stances | [CLAIM-090](../../../record/claims.d/CLAIM-090.md) is the premise of [CLAIM-068](../../../record/claims.d/CLAIM-068.md), which is the premise of [CLAIM-059](../../../record/claims.d/CLAIM-059.md). Named in [CLAIM-090](../../../record/claims.d/CLAIM-090.md) and [CLAIM-068](../../../record/claims.d/CLAIM-068.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-191](../../../record/leads.d/LEAD-191.md) | Compare a sheaf route that allows signalling with Contextuality-by-Default 2.0 on one signalling data set, where their verdicts diverge | Named in [CLAIM-037](../../../record/claims.d/CLAIM-037.md). Filed by the backlog audit of 2026-11-19. | Open |

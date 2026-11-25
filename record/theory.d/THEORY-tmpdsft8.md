@@ -19,7 +19,7 @@ date: '2026-11-22'
 source:
 - 'LIT-tmpgnf38'
 corroborates:
-- CLAIM-tmpnookt
+- CLAIM-949
 summary: >-
   Kolmogorov (1932), [LIT-tmpgnf38](../literature.d/LIT-tmpgnf38.md), read in [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md) from the GDZ scan. A problem is
   explained by examples (p. 59), is solved and not true (p. 61, n. 8), and,
@@ -28,12 +28,12 @@ summary: >-
   of a. The calculus coincides in form with Heyting's (pp. 58, 63) and does
   not solve a ∨ ¬a. §2: an existence statement is a problem plus its
   solution, and a problem's sense is independent of the state of our
-  knowledge (p. 65). It corroborates [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s correspondence of a
+  knowledge (p. 65). It corroborates [CLAIM-949](../claims.d/CLAIM-949.md)'s correspondence of a
   question with a problem, narrowed ([ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md)), and corrects its attribution:
   Kolmogorov keeps statements and problems apart. The wording is the
   filer's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt ARG-tmp6sdu6 — Proposed or new; the claim this reading was done for, and the argument that weighs it -->
+<!-- inactive-ok-file: CLAIM-949 ARG-tmp6sdu6 — Proposed or new; the claim this reading was done for, and the argument that weighs it -->
 
 # THEORY-tmpdsft8: Kolmogorov holds that beside the logic of theoretical statements there is a calculus of problems, whose formulas are problems to be solved and not statements to be proved, with no notion of correctness, and whose connectives are operations on problems; that it coincides in form with Heyting's intuitionistic logic without needing intuitionist assumptions; and that intuitionistic logic's objects are really problems, since a general statement's negation and an existence statement have determinate sense only as a problem with its solution
 

@@ -63,13 +63,13 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: Bourrat's two measures computed on one
-    scaffolding model (CASE-tmpgfgy2, CLAIM-tmptbxbq). The question is
+    scaffolding model (CASE-320, CLAIM-884). The question is
     unchanged.
 - version: 10
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: CASE-101's populations run through the
-    search (CASE-tmprsqvj, CLAIM-tmp2jbb1, LEAD-026). The question is
+    search (CASE-347, CLAIM-926, LEAD-026). The question is
     unchanged.
 tags:
 - individuation
@@ -92,8 +92,8 @@ summary: >-
   and timescales in controlled models and reports where the criteria
   part.
 ---
-<!-- inactive-ok-file: CASE-tmpgfgy2 CLAIM-tmptbxbq LIT-005 LIT-049 — new, filed 2026-11-22 from LEAD-167's computation, and the Proposed papers and reading it bears on -->
-<!-- inactive-ok-file: CASE-tmprsqvj CLAIM-tmp2jbb1 — new, filed 2026-11-22 from LEAD-026's study -->
+<!-- inactive-ok-file: CASE-320 CLAIM-884 LIT-005 LIT-049 — new, filed 2026-11-22 from LEAD-167's computation, and the Proposed papers and reading it bears on -->
+<!-- inactive-ok-file: CASE-347 CLAIM-926 — new, filed 2026-11-22 from LEAD-026's study -->
 
 # QUESTION-115: Beyond what retention, dynamical independence and Ψ are known to track, can a collective's boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?
 
@@ -290,9 +290,9 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-11-22: Bourrat's two measures computed on one system
 
-[CASE-tmpgfgy2](../cases.d/CASE-tmpgfgy2.md) computes Bourrat's interventional measure (Â, with C1 and C2;
+[CASE-320](../cases.d/CASE-320.md) computes Bourrat's interventional measure (Â, with C1 and C2;
 [LIT-005](../literature.d/LIT-005.md)) and his coarse-graining measure (δC, with δC|E; [LIT-049](../literature.d/LIT-049.md)) exactly
-on one minimal ecological-scaffolding model. [CLAIM-tmptbxbq](../claims.d/CLAIM-tmptbxbq.md) states the result.
+on one minimal ecological-scaffolding model. [CLAIM-884](../claims.d/CLAIM-884.md) states the result.
 
 - **Where they part.** They part on the transition itself. C2's variance
   takes the patch from the least invariant candidate to the most as the
@@ -314,12 +314,12 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-11-22: [CASE-101](../cases.d/CASE-101.md)'s populations run through the search
 
-[CASE-tmprsqvj](../cases.d/CASE-tmprsqvj.md) carries out [LEAD-026](../leads.d/LEAD-026.md). It simulates [CASE-101](../cases.d/CASE-101.md)'s three
+[CASE-347](../cases.d/CASE-347.md) carries out [LEAD-026](../leads.d/LEAD-026.md). It simulates [CASE-101](../cases.d/CASE-101.md)'s three
 populations, and a fourth in which the institution does not answer to its
 members (C0). All four are matched in turnover and three aggregate
 statistics. They are run through this question's search: information
 measures propose candidates, a block test priced by [CLAIM-154](../claims.d/CLAIM-154.md) decides, and
-the result is reported as a profile. [CLAIM-tmp2jbb1](../claims.d/CLAIM-tmp2jbb1.md) states the finding.
+the result is reported as a profile. [CLAIM-926](../claims.d/CLAIM-926.md) states the finding.
 
 - **Boundary.**
   - The search finds the transmitting population (B) as its members alone.

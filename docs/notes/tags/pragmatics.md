@@ -4,7 +4,7 @@
 
 **pragmatics**.
 
-31 of 2247 NOTE documents. Back to the [full index](../README.md).
+32 of 2418 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -39,3 +39,4 @@
 | [NOTE-2198](../../../record/notes.d/NOTE-2198.md) | Tomasello — Why Don't Apes Point? | Apes gesture flexibly but never point for each other: they lack communicative-intention understanding, common ground, helping and sharing motives, and bidirectional conventions; all trace to shared intentionality; pointing already has language's collaborative structure. | Read |
 | [NOTE-2210](../../../record/notes.d/NOTE-2210.md) | Tomasello — Communicating Without Conventions: The Co-operation Model | Pragmatics as the foundation: natural gestures show communication's cooperative structure in the raw; apes lack it; three motives, common ground, an overt Gricean intention and the norms it creates; collaborative foraging; conventions from iconic gestures grown opaque. | Read |
 | [NOTE-2212](../../../record/notes.d/NOTE-2212.md) | Bohn, Kachel and Tomasello — Young children spontaneously recreate core properties of language in a new modality | Children aged 3–8 in pairs create iconic gestures to communicate when sound is cut; signs converge within pairs, drift slightly toward arbitrariness with reduced effort, and combine compositionally for complex relations, not in German word order. N = 198. | Read |
+| [NOTE-2316](../../../record/notes.d/NOTE-2316.md) | Generalised Winograd Schema and its Contextuality | Joining two Winograd schemas in one story makes a Bell-CHSH scenario over (pronoun, word) observables. One such story, judged by 348 valid Mechanical Turk respondents, violates the inequality by 0.192 with a standard deviation of 0.176. No-signalling holds because the response format enforces A/B symmetry, so the test cannot see the direct influences that free answers would show. | Read |

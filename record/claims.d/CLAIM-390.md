@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CLAIM-tmpymy0a
 title: 'For a block of coordinates in a stable linear Gaussian VAR(1), dynamical dependence is at most ½ log det(I + Σ_YY⁻¹ A_YR C A_YRᵀ), with A_YR the coupling into the block and C the covariance of the rest given the block''s present state, so it is of second order in the coupling into the block, whatever the coupling out of it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §5.3. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -31,6 +39,8 @@ summary: >-
   ([CLAIM-386](CLAIM-386.md)).
 bears_on:
 - QUESTION-221
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account whose dependence this bounds, open -->
 # CLAIM-390: For a block of coordinates in a stable linear Gaussian VAR(1), dynamical dependence is at most ½ log det(I + Σ_YY⁻¹ A_YR C A_YRᵀ), with A_YR the coupling into the block and C the covariance of the rest given the block's present state, so it is of second order in the coupling into the block, whatever the coupling out of it
@@ -75,3 +85,14 @@ covariances. The bound held in all 80 cases. The ratio T/ε² stayed between
   both directions is sufficient for a small bound, not necessary.
 - **Not beyond linear Gaussian VAR(1).** For VAR(p) the same argument
   applies lag by lag and was not written out.
+
+## Note of 2026-11-22: a lower bound, and the aggregate
+<!-- inactive-ok-file: CLAIM-980 — new; filed from LEAD-178 -->
+
+[CLAIM-980](CLAIM-980.md) extends this bound to any linear aggregate Y = LX and adds
+a lower bound: T lies between ½ log det(I + G⁻¹ LA Σ_|L AᵀLᵀ) and
+½ log det(I + G⁻¹ LA Π_|L AᵀLᵀ), with G = LΣLᵀ. With L the projection
+onto a block the upper half is this claim's bound, since
+LA Π_|L AᵀLᵀ = A_YR C A_YRᵀ; a test in scratch/studies/lead-178/ checks
+the identity. The lower half shows the order ε² here is exact for generic
+coupling into the block. No change to this claim.

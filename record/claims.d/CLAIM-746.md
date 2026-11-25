@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpx1g4r
 status: Proposed
 title: 'Four judgments about an authority are distinct: the warrant of the obligations it is to serve, its jurisdiction over the matter, its arrangement''s capacity to realize those obligations together, and its capacity to reach compliant arrangements and correct failures by permitted means; neither of the first two follows from any of the others, and of the last two only the dynamic one implies the static one, for what it reaches'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-18'
@@ -18,6 +18,14 @@ history:
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A71 §12 and A76's concise thesis for the
     manuscript state its proposition. No other change.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.1, §13.4, §14.4. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,6 +47,7 @@ line:
 - realizability
 - rightful-power
 works:
+- governance-of-possibility
 - capability-restraint-relational-freedom
 rests_on:
 - CLAIM-560

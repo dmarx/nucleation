@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpuwro4
 paper: 'LIT-1256'
 title: 'Coifman and Maggioni — Diffusion wavelets'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -25,6 +25,13 @@ history:
     and the errors listed under Limitations were re-checked by hand and
     with numpy scripts in the scratchpad (the circle example of §8.1 at
     n = 256 and 512, and a three-cluster example like §8.4).
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 added, from the lead run of that date: the error
+    bound asked for under Open questions is proved (CLAIM-1083), and
+    the biorthogonal report is Unfetched, with a neighbour read. The
+    reading is unchanged.
 date: '2026-10-20'
 summary: >-
   A self-adjoint diffusion operator T with spectrum in [0, 1] defines a
@@ -40,6 +47,7 @@ summary: >-
   the near-linear complexity are argued or observed, not proved for the
   compressed algorithm.
 ---
+<!-- inactive-ok-file: LIT-3195 NOTE-2414 — new and Unfetched, filed by the lead run of 2026-11-23 and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; open claims and accounts this reading bears on, nothing here rests on their being settled -->
 
 # NOTE-984: Coifman and Maggioni — Diffusion wavelets
@@ -468,3 +476,25 @@ distance used in [NOTE-675](NOTE-675.md) takes its dyadic times from here.
 - Does an externally given hierarchy (a tree of clusters) agree with the
   diffusion levels when T nearly commutes with its projectors? This is
   [QUESTION-217](../questions.d/QUESTION-217.md)'s open half. The paper treats only the commuting case.
+
+## Note of 2026-11-23: two open questions taken up
+
+The lead run of 2026-11-23 took up the first and third open questions above.
+
+- **The error bound.** Proved, as [CLAIM-1083](../claims.d/CLAIM-1083.md) (Proposed). In the form
+  asked for, ‖P_{Ṽ_{j+1}} − P_{V_{j+1}}‖ ≤ (d_j + f_j)/λ_k^{2^j}: the column
+  residual the truncation leaves at level j, plus the drift f_j the earlier
+  levels left in the compressed operator, over the smallest kept eigenvalue
+  of T^{2^j}. The drift is at most Σ_{i<j} 2^{j−i}d_i. With rank-revealing QR
+  the bound is a relative gap (λ_{k+1}/λ_k)^{2^j} at the cut plus drift. The
+  pattern this note's check found, invariance under T^{2^j} near ε and under
+  T only near 10⁻² on the gapless circle, is the bound's Corollary 5: closure
+  at the level's own time step needs no gap, closure under T needs a definite
+  subspace.
+- **Non-reversible operators.** The biorthogonal report ([LIT-3195](../literature.d/LIT-3195.md)) is
+  Unfetched. Sevi, Rilling and Borgnat ([NOTE-2414](NOTE-2414.md)), who say they
+  restate its scaling functions, build a nested chain for a directed walk
+  by column selection and pseudo-inverse compression, and do not read the
+  levels as bands. The bound extends to any T with ‖T‖₂ ≤ 1, with a row
+  residual and σ_min of the power on the invariant subspace in place of
+  λ_k^{2^j}. The band reading stays open.

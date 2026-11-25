@@ -10,13 +10,13 @@ history:
   date: '2026-11-22'
   note: >-
     Revised in place after the readings of 2026-11-22 of Krapivsky, Redner
-    and Leyvraz (NOTE-tmp2z733), Barabási and Albert (NOTE-tmpwgw8e),
-    Barabási's chapter (NOTE-tmpnpqc8) and Merton (NOTE-tmp4eogg). Grounds
-    move from the unread works to the readings THEORY-tmpmsncg,
-    THEORY-tmpfrz0k and THEORY-tmpzmy66 (ARG-tmpqxprw, ARG-tmp3q9cy);
-    Merton's essay leaves the grounds (ARG-tmpaf6km). The naming clause is
+    and Leyvraz (NOTE-2267), Barabási and Albert (NOTE-2272),
+    Barabási's chapter (NOTE-2270) and Merton (NOTE-2268). Grounds
+    move from the unread works to the readings THEORY-2181,
+    THEORY-2180 and THEORY-2184 (ARG-184, ARG-179);
+    Merton's essay leaves the grounds (ARG-180). The naming clause is
     corrected: the four names do not name one feedback, and Merton grounds
-    the name only (TERM-tmpeguzj). Added: the tunable exponent
+    the name only (TERM-145). Added: the tunable exponent
     ν = 1 + μ/a∞ for asymptotically linear kernels; Barabási and Albert as
     the source of A3's "both ingredients" sentence; the chapter's rival
     framing of the aside on hyperbolic geometry, as a contrast. Title and
@@ -38,11 +38,11 @@ date: '2026-11-21'
 line:
 - formal-apparatus
 grounds:
-- THEORY-tmpmsncg
-- THEORY-tmpfrz0k
-- THEORY-tmpzmy66
+- THEORY-2181
+- THEORY-2180
+- THEORY-2184
 uses:
-- TERM-tmpeguzj
+- TERM-145
 summary: >-
   A's, from A1 §1 to §4 and §7 and A3 §1 of the exchange "Rich Get Richer
   Power Laws" (2026-11-20), answering the owner's U1 and U2. In the
@@ -57,11 +57,11 @@ summary: >-
   the four names, the Matthew effect among them, name one feedback; read,
   Merton's Matthew effect is credit allotted by rank, not linear
   attachment, so that holds only in the formal sense (corrected
-  2026-11-22, [TERM-tmpeguzj](../terms.d/TERM-tmpeguzj.md)). The wording is A's (the other assistant in
+  2026-11-22, [TERM-145](../terms.d/TERM-145.md)). The wording is A's (the other assistant in
   the exchange "Rich Get Richer Power Laws", A1 and A3); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmphcnj3 THEORY-tmpmsncg THEORY-tmpfrz0k THEORY-tmpzmy66 THEORY-tmp7rz62 TERM-tmpeguzj ARG-tmpqxprw ARG-tmp3q9cy ARG-tmpaf6km — Proposed or Rejected; the readings of 2026-11-22 cited in the notes, the term and the arguments filed with them -->
+<!-- inactive-ok-file: THEORY-2169 THEORY-2172 THEORY-2181 THEORY-2180 THEORY-2184 THEORY-2178 TERM-145 ARG-184 ARG-179 ARG-180 — Proposed or Rejected; the readings of 2026-11-22 cited in the notes, the term and the arguments filed with them -->
 <!-- inactive-ok-file: CLAIM-830 CLAIM-806 CLAIM-803 CLAIM-184 CLAIM-677 THEORY-1927 THEORY-188 — Proposed or new; claims filed from the same exchange and held entries cited as neighbours -->
 <!-- inactive-ok-file: ARG-127 ARG-149 THEORY-2150 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
@@ -77,7 +77,7 @@ the *Matthew effect*, after sociologist Robert K. Merton" (A1 §1;
 description … **Rich-get-richer:** a dynamic mechanism … **Preferential
 attachment:** a mathematical implementation of cumulative advantage."
 
-*Correction of 2026-11-22.* Read ([NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md)), Merton grounds the name
+*Correction of 2026-11-22.* Read ([NOTE-2268](../notes.d/NOTE-2268.md)), Merton grounds the name
 and its link to cumulative advantage, and nothing more here. His Matthew
 effect is credit for a given contribution allotted by the contributor's
 rank, with a fixed number of top places and a ratchet among its
@@ -85,12 +85,12 @@ mechanisms, and cumulative advantage is "one institutional version" of it
 (p. 62); he states no rule of growth in proportion to size. So the four
 names do not name one feedback. They do in the formal sense, growth in
 proportion to current size, the sense in which Newman lists "Matthew
-effect" among the Yule process's names ([NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md)); [TERM-tmpeguzj](../terms.d/TERM-tmpeguzj.md)
-keeps the senses apart, and this claim uses the formal one ([ARG-tmpaf6km](../arguments.d/ARG-tmpaf6km.md)).
+effect" among the Yule process's names ([NOTE-2261](../notes.d/NOTE-2261.md)); [TERM-145](../terms.d/TERM-145.md)
+keeps the senses apart, and this claim uses the formal one ([ARG-180](../arguments.d/ARG-180.md)).
 
 **The base case** (A1 §3; Barabási and Albert, [LIT-3004](../literature.d/LIT-3004.md), read in
-[NOTE-tmpwgw8e](../notes.d/NOTE-tmpwgw8e.md), and the *Network Science* chapter, [LIT-2968](../literature.d/LIT-2968.md), read in
-[NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md)). A new node links to node i with probability k_i/Σk_j.
+[NOTE-2272](../notes.d/NOTE-2272.md), and the *Network Science* chapter, [LIT-2968](../literature.d/LIT-2968.md), read in
+[NOTE-2270](../notes.d/NOTE-2270.md)). A new node links to node i with probability k_i/Σk_j.
 Then dk_i/dt = k_i/2t, so k_i(t) ≈ (t/t_i)^(1/2). Uniform birth times give
 P(K ≥ k) ∝ k^(−2) and P(K = k) ∝ k^(−3). (With m links per node the
 mean-field law is 2m²/k³; the simulated exponent is 2.9 ± 0.1, and the
@@ -107,7 +107,7 @@ that date below). Barabási and Albert do: "both ingredients, namely growth
 and preferential attachment, are needed for the development of the
 stationary power-law distribution", and "simulations indicate that
 scaling is present only for α = 1" ([LIT-3004](../literature.d/LIT-3004.md), preprint pp. 6 to 7;
-[ARG-tmp3q9cy](../arguments.d/ARG-tmp3q9cy.md)). Without growth their Model B shows power-law scaling only
+[ARG-179](../arguments.d/ARG-179.md)). Without growth their Model B shows power-law scaling only
 transiently, so "needed" is for a *stationary* power law. A3's
 Alice and Bob make the point that under linear attachment the leader
 gains more in absolute terms and not in percentage terms.
@@ -116,7 +116,7 @@ gains more in absolute terms and not in percentage terms.
 gives "Exponential-type", 0 < α < 1 "Stretched-exponential tail", α = 1
 "Power-law", α > 1 "Strong concentration; potentially winner-take-all". A
 does not name the source. It is Krapivsky, Redner and Leyvraz
-([LIT-2974](../literature.d/LIT-2974.md), read in [NOTE-tmp2z733](../notes.d/NOTE-tmp2z733.md); [ARG-tmpqxprw](../arguments.d/ARG-tmpqxprw.md)): "A power law distribution
+([LIT-2974](../literature.d/LIT-2974.md), read in [NOTE-2267](../notes.d/NOTE-2267.md); [ARG-184](../arguments.d/ARG-184.md)): "A power law distribution
 N_k ∼ k^−ν arises only for γ = 1" (p. 1). Within the linear case the
 exponent is not fixed at 3: an asymptotically linear kernel A_k → a∞k gives
 "ν = 1 + µ/a∞" (p. 2), and with A_1 = 1, A_k = a∞k it is
@@ -166,7 +166,7 @@ points, γ = (m+1)/m with m = 2.
   preferential attachment", citing Papadopoulos and others' "Popularity
   versus similarity in growing networks") and says "To date all known
   models and real systems that are scale-free have been found to have
-  preferential attachment" ([NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md), §§5.9, 5.11). The aside is
+  preferential attachment" ([NOTE-2270](../notes.d/NOTE-2270.md), §§5.9, 5.11). The aside is
   about the rule a model is given; the chapter's claim is about the
   attachment a model produces. A contrast, not a refutation.
 
@@ -207,16 +207,16 @@ unchanged.
 
 ## Note of 2026-11-22: Newman, read
 
-Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **supports the linear-plus-entry half**. His Yule process founds a new
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-2261](../notes.d/NOTE-2261.md); the reading is [THEORY-2169](../theory.d/THEORY-2169.md)) **supports the linear-plus-entry half**. His Yule process founds a new
 unit each step and attaches in proportion to k, or k + c, giving
 α = 2 + (k0 + c)/m (§IV.D, pp. 17–19); Barabási and Albert's c = m gives
 3, "but again there doesn't seem to be a good reason for this assumption"
 (p. 19). It **leaves open** the sublinear and superlinear kernels.
-[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md) `corroborates` the claim.
+[THEORY-2169](../theory.d/THEORY-2169.md) `corroborates` the claim.
 
 ## Note of 2026-11-22: Broido and Clauset, read
 
-Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)): **a parallel**. The claim's "Not that any real system's heavy tail
+Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-2263](../notes.d/NOTE-2263.md); the reading is [THEORY-2172](../theory.d/THEORY-2172.md)): **a parallel**. The claim's "Not that any real system's heavy tail
 comes from cumulative advantage" agrees with the paper's "generally
 limited role for any mechanism that necessarily produces power-law degree
 distributions", and its "some variations of preferential attachment do
@@ -226,24 +226,24 @@ citation networks. No edge. Status unchanged.
 
 ## Note of 2026-11-22: Krapivsky, Redner and Leyvraz, read
 
-Krapivsky, Redner and Leyvraz ([LIT-2974](../literature.d/LIT-2974.md), read in [NOTE-tmp2z733](../notes.d/NOTE-tmp2z733.md); the
-reading is [THEORY-tmpmsncg](../theory.d/THEORY-tmpmsncg.md)) **support the kernel half** and leave the
+Krapivsky, Redner and Leyvraz ([LIT-2974](../literature.d/LIT-2974.md), read in [NOTE-2267](../notes.d/NOTE-2267.md); the
+reading is [THEORY-2181](../theory.d/THEORY-2181.md)) **support the kernel half** and leave the
 entry half open. The four regimes are theirs, derived exactly; the last
 row is "winner take all", a single "gel" site, with a cascade of
 transitions at γ = (m+1)/m. The power law is the borderline case and its
 exponent is tunable, ν = 1 + μ/a∞. Their rate equation always has entry
 ("the continuous introduction of new sites"), so the need for entry rests
-on [CLAIM-830](CLAIM-830.md). [THEORY-tmpmsncg](../theory.d/THEORY-tmpmsncg.md) replaces [LIT-2974](../literature.d/LIT-2974.md) in the grounds
-([ARG-tmpqxprw](../arguments.d/ARG-tmpqxprw.md)), as [ARG-149](../arguments.d/ARG-149.md) expected. Their warning that for 0.8 ≲ γ ≲ 1 a
+on [CLAIM-830](CLAIM-830.md). [THEORY-2181](../theory.d/THEORY-2181.md) replaces [LIT-2974](../literature.d/LIT-2974.md) in the grounds
+([ARG-184](../arguments.d/ARG-184.md)), as [ARG-149](../arguments.d/ARG-149.md) expected. Their warning that for 0.8 ≲ γ ≲ 1 a
 stretched exponential and a power law are hard to tell apart up to
 k = 1000 bears on reading the claim off data, not on the model.
 
 ## Note of 2026-11-22: Barabási and Albert, and Barabási's chapter, read
 
-Barabási and Albert ([LIT-3004](../literature.d/LIT-3004.md), [NOTE-tmpwgw8e](../notes.d/NOTE-tmpwgw8e.md), [THEORY-tmpfrz0k](../theory.d/THEORY-tmpfrz0k.md)) and the
-chapter ([LIT-2968](../literature.d/LIT-2968.md), [NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md), [THEORY-tmpzmy66](../theory.d/THEORY-tmpzmy66.md)) **support** the base
+Barabási and Albert ([LIT-3004](../literature.d/LIT-3004.md), [NOTE-2272](../notes.d/NOTE-2272.md), [THEORY-2180](../theory.d/THEORY-2180.md)) and the
+chapter ([LIT-2968](../literature.d/LIT-2968.md), [NOTE-2270](../notes.d/NOTE-2270.md), [THEORY-2184](../theory.d/THEORY-2184.md)) **support** the base
 case, the need for both ingredients and the kernel's linearity
-([ARG-tmp3q9cy](../arguments.d/ARG-tmp3q9cy.md)); both replace the unread works in the grounds. Barabási
+([ARG-179](../arguments.d/ARG-179.md)); both replace the unread works in the grounds. Barabási
 and Albert's "irrespective of the nature and the origin of this
 visibility" supports "unequal outcomes need no unequal ability". The
 chapter adds measured attachment exponents (α ≈ 1 for citations and the
@@ -252,9 +252,9 @@ recorded under the aside on hyperbolic geometry.
 
 ## Note of 2026-11-22: Merton, read
 
-Merton ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md), [THEORY-tmp7rz62](../theory.d/THEORY-tmp7rz62.md)) **qualifies the naming
+Merton ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-2268](../notes.d/NOTE-2268.md), [THEORY-2178](../theory.d/THEORY-2178.md)) **qualifies the naming
 clause**, corrected in place above; it grounds the name only, which takes
-no edge, and it leaves the grounds ([ARG-tmpaf6km](../arguments.d/ARG-tmpaf6km.md)). It leaves open
+no edge, and it leaves the grounds ([ARG-180](../arguments.d/ARG-180.md)). It leaves open
 everything the claim asserts formally.
 
 ## Note of 2026-11-22: Reed and Hughes, read

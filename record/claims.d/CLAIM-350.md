@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpa1kmr
 title: 'A coarse-graining preserves a deterministic judgment exactly when the judgment is constant on its fibres: the judgment then factors through the coarse description, uniquely on its image, and otherwise two states the judgment tells apart have been merged'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -14,6 +14,12 @@ history:
     identifiability relative to an observational regime and for
     target-preserving coarse-graining; both are this claim's condition, so
     no TERM is filed. Extended the same day: the causal-abstraction readings give the distributional criterion beside this claim's fibre-wise one. The claim is unchanged.
+- version: 3
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 11 abstract, §3 (ADR-tmpenzcn). No
+    change of title or status.
 role: granted
 warrant: demonstrated
 tags:
@@ -23,6 +29,8 @@ date: '2026-10-18'
 line:
 - pragmatic-transport
 - formal-apparatus
+works:
+- governance-of-becoming
 complements:
 - CLAIM-152
 summary: >-

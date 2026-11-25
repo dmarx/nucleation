@@ -9,16 +9,16 @@ history:
 - version: 2
   date: '2026-11-21'
   note: >-
-    After the readings of LIT-2999 (NOTE-tmp1feoo) and LIT-2979
-    (NOTE-tmphbnqd). The survey's reading, THEORY-tmpks8pd, replaces the
-    unread LIT in the grounds (ARG-tmpddl7x); the reduction method's
+    After the readings of LIT-2999 (NOTE-2252) and LIT-2979
+    (NOTE-2253). The survey's reading, THEORY-2165, replaces the
+    unread LIT in the grounds (ARG-159); the reduction method's
     reading corroborates. The claim and its status are unchanged.
 - version: 3
   date: '2026-11-22'
   note: >-
     After the reading of LIT-2958 (Quinn, Abbott, Transtrum, Machta &
-    Sethna 2023, NOTE-tmp3keyy). Its reading, THEORY-tmpx26x7, replaces the
-    unread LIT in the grounds (ARG-tmp6xwk9). Added, under "What it does
+    Sethna 2023, NOTE-2256). Its reading, THEORY-2167, replaces the
+    unread LIT in the grounds (ARG-164). Added, under "What it does
     not say": the review's qualification that sloppiness gives a
     low-dimensional description only relative to the precision demanded
     (ΛCDM). The sentence calling the survey and the 2023 review unread is
@@ -50,9 +50,9 @@ grounds:
 - THEORY-774
 - THEORY-777
 - THEORY-742
-- THEORY-tmpks8pd
+- THEORY-2165
 - THEORY-2154
-- THEORY-tmpx26x7
+- THEORY-2167
 - LIT-1299
 uses:
 - TERM-135
@@ -71,13 +71,13 @@ summary: >-
   Richer Power Laws", A19); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, one of the two worked cases -->
-<!-- inactive-ok-file: THEORY-tmpx26x7 ARG-tmp6xwk9 — Proposed or new; the 2023 review's reading and its argument, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2167 ARG-164 — Proposed or new; the 2023 review's reading and its argument, 2026-11-22 -->
 <!-- inactive-ok-file: TERM-135 — filed with this claim from the same exchange, Proposed -->
 <!-- inactive-ok-file: SYNTHESIS-075 — Proposed account, cited for the target-relativity this claim sits beside -->
 <!-- inactive-ok-file: ARG-142 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
-<!-- inactive-ok-file: ARG-150 THEORY-2154 THEORY-2155 THEORY-2156 THEORY-tmpks8pd THEORY-tmpt1tw7 ARG-tmpddl7x — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
-<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
-<!-- inactive-ok-file: CLAIM-tmp3ima1 — Proposed; alternative (a), filed 2026-11-22 from the readings of Quinn and colleagues and of Shalizi and Moore -->
+<!-- inactive-ok-file: ARG-150 THEORY-2154 THEORY-2155 THEORY-2156 THEORY-2165 THEORY-2166 ARG-159 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+<!-- inactive-ok-file: THEORY-2205 — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-861 — Proposed; alternative (a), filed 2026-11-22 from the readings of Quinn and colleagues and of Shalizi and Moore -->
 
 # CLAIM-820: A model's parameter complexity and its behavioural complexity come apart: when its predictions depend on a few stiff combinations of parameters and barely on the rest, it can be hard to fit and still predictive, so simplicity can belong to how a system responds to observation rather than to its mechanism
 
@@ -124,7 +124,7 @@ systems biology models, rests on Gutenkunst and colleagues
 ([LIT-2999](../literature.d/LIT-2999.md)) and the reviews ([LIT-2994](../literature.d/LIT-2994.md), [LIT-2958](../literature.d/LIT-2958.md)). The 2015
 review was read on 2026-11-21 and grounds the claim through
 [THEORY-2154](../theory.d/THEORY-2154.md) (see the note below); the survey was read the same day
-([THEORY-tmpks8pd](../theory.d/THEORY-tmpks8pd.md)) and the 2023 review on 2026-11-22 ([THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md)).
+([THEORY-2165](../theory.d/THEORY-2165.md)) and the 2023 review on 2026-11-22 ([THEORY-2167](../theory.d/THEORY-2167.md)).
 The claim stays interpretive and Proposed.
 
 It sits beside [CLAIM-401](CLAIM-401.md) and [SYNTHESIS-075](../syntheses.d/SYNTHESIS-075.md): adequacy relative to a
@@ -140,7 +140,7 @@ which directions are stiff depends on which observables are fitted.
   This need not be the case"; the ΛCDM model of the cosmic microwave
   background "is sloppy ... because the experiments are so precise that
   all parameters are well determined from the data" ([LIT-2958](../literature.d/LIT-2958.md), §2;
-  [THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md); [ARG-tmp6xwk9](../arguments.d/ARG-tmp6xwk9.md)). So the two complexities come apart
+  [THEORY-2167](../theory.d/THEORY-2167.md); [ARG-164](../arguments.d/ARG-164.md)). So the two complexities come apart
   relative to the observables fitted and to the precision demanded of
   them, not under sloppiness as such. Added 2026-11-22 (version 3).
 
@@ -215,7 +215,7 @@ Read in [NOTE-2240](../notes.d/NOTE-2240.md), [NOTE-2247](../notes.d/NOTE-2247.m
 ## Note of 2026-11-21: Gutenkunst et al. (2007) and Transtrum & Qiu (2014), read
 
 - **The survey supports the claim for systems-biology models, in one
-  model for predictions** ([NOTE-tmp1feoo](../notes.d/NOTE-tmp1feoo.md), [THEORY-tmpks8pd](../theory.d/THEORY-tmpks8pd.md); [ARG-tmpddl7x](../arguments.d/ARG-tmpddl7x.md)).
+  model for predictions** ([NOTE-2252](../notes.d/NOTE-2252.md), [THEORY-2165](../theory.d/THEORY-2165.md); [ARG-159](../arguments.d/ARG-159.md)).
   Across seventeen models the spectra "span many decades" with "no
   well-defined cutoff", and an idealized fit "leaves many parameters with
   greater than 100% uncertainty" in most. In the PC12 model, after a fit in
@@ -234,15 +234,15 @@ Read in [NOTE-2240](../notes.d/NOTE-2240.md), [NOTE-2247](../notes.d/NOTE-2247.m
   with every rate and concentration set to 1 "remains sloppy". That tells
   against an artefact of scales, not against reparametrization in
   general, which the widths answer (the note above).
-- **Transtrum and Qiu corroborate** ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md), [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md)), in
+- **Transtrum and Qiu corroborate** ([NOTE-2253](../notes.d/NOTE-2253.md), [THEORY-2166](../theory.d/THEORY-2166.md)), in
   the claim's own terms: "such models have more complexity in their
   description than in their predictions" (para. 6), and the EGFR model's
   48 parameters reduce to 12 with nearly the same predictions.
 
 ## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
 
-Read in [NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md) ([THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md)). **Supports the claim, with one
-qualification** ([ARG-tmp6xwk9](../arguments.d/ARG-tmp6xwk9.md)); the reading replaces [LIT-2958](../literature.d/LIT-2958.md) in the
+Read in [NOTE-2256](../notes.d/NOTE-2256.md) ([THEORY-2167](../theory.d/THEORY-2167.md)). **Supports the claim, with one
+qualification** ([ARG-164](../arguments.d/ARG-164.md)); the reading replaces [LIT-2958](../literature.d/LIT-2958.md) in the
 grounds.
 
 - **Consequence 1:** "predictions are independent of all but a few
@@ -274,12 +274,12 @@ grounds.
 
 ## Note of 2026-11-22: Shalizi and Moore, read
 
-**A parallel, in information terms**, no edge ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md),
-[THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)). Argon's microstate has Cµ = 6.6·10²⁰ bits against a
+**A parallel, in information terms**, no edge ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-2294](../notes.d/NOTE-2294.md),
+[THEORY-2205](../theory.d/THEORY-2205.md)). Argon's microstate has Cµ = 6.6·10²⁰ bits against a
 33.3-bit macrostate that is predicted more efficiently (0.87 against
 0.5, §IV.A), and "Nature has no preferred questions" (§VI). That supports
 clause 3, simplicity as a response to observation, by another mechanism:
 coarse-graining of states rather than stiff combinations of parameters.
-No bearing on clause 1 (fitting). [CLAIM-tmp3ima1](CLAIM-tmp3ima1.md) (alternative a, Proposed)
+No bearing on clause 1 (fitting). [CLAIM-861](CLAIM-861.md) (alternative a, Proposed)
 widens this claim's relativity to coarse-graining and emergence. Status
 unchanged.

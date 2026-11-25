@@ -23,7 +23,7 @@ advances:
 summary: >-
   Named in [ARG-019](../arguments.d/ARG-019.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CLAIM-tmp03h8w TERM-tmpjv1xh CASE-tmphabte — new, filed by LEAD-100 on 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-944 TERM-150 CASE-361 — new, filed by LEAD-100 on 2026-11-22 -->
 <!-- inactive-ok-file: ARG-019 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-100: Build a receiver-restricted informativeness order with its own results, or argue that judged access tracks ideal informativeness
@@ -44,15 +44,15 @@ An order with results settles [ARG-019](../arguments.d/ARG-019.md).
 ## Note of 2026-11-22: the order defined and its results proved
 
 Carried out by a delegated worker on branch claude/lead-100-receiver-order.
-The first of the lead's two routes was taken. [TERM-tmpjv1xh](../terms.d/TERM-tmpjv1xh.md) defines the
+The first of the lead's two routes was taken. [TERM-150](../terms.d/TERM-150.md) defines the
 receiver-restricted order (usable risk over a stated rule class, every
-bounded loss, every full-support prior). [CLAIM-tmp03h8w](../claims.d/CLAIM-tmp03h8w.md) proves six results
+bounded loss, every full-support prior). [CLAIM-944](../claims.d/CLAIM-944.md) proves six results
 without the garbling theorem: a preorder; decided by inclusion of
 achievable sets and prior-free; a garbling never hurts a receiver exactly
 when the receiver can apply it itself, so the respected garblings form a
 monoid; Blackwell's ceiling; no garbling converse in general, with a strict
 reversal; and Blackwell's order, converse included, for receivers that read
-through one code. [CASE-tmphabte](../cases.d/CASE-tmphabte.md) checks them numerically
+through one code. [CASE-361](../cases.d/CASE-361.md) checks them numerically
 (scratch/studies/lead-100/).
 
 What remains: the second route (an argument that judged access tracks

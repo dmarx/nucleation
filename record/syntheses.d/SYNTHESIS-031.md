@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpqw6mz
 title: 'The readiness line is two accounts, of keeping a rare capability and judging its worth and of reaching and paying for configurations under budgets, which meet at budget rules, slack and what a reserve costs; they are closed by relations and joined by mentions, and no link between them that no part states passes the claim test; when transient support can be withdrawn, once a third part, is a line of its own'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -16,6 +16,15 @@ history:
     the former third part are kept as links across lines, and the counts
     that grounded the split are kept as its record. Version 1 integrated
     all three parts and reported the split as a candidate.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: CLAIM-679, an in-
+    force entry of the line no account integrated, was added to the part
+    account SYNTHESIS-024, whose count under the parts changes from 24 to
+    25; its complement CLAIM-587 is in SYNTHESIS-027, a link between the
+    parts that CLAIM-679 states, and the section on where they meet says
+    so. Nothing is added to `integrates`; the title is unchanged.
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the readiness line that neither a part account
@@ -55,7 +64,7 @@ summary: >-
 *The account of the readiness line ("Readiness and slack", [ADR-073](../decisions.d/ADR-073.md)), over
 the accounts of its two parts ([ADR-083](../decisions.d/ADR-083.md)). It integrates every entry whose
 `line` includes readiness after the split of 2026-11-10 ([ADR-087](../decisions.d/ADR-087.md)):
-49 entries through the parts, and [CLAIM-602](../claims.d/CLAIM-602.md) directly. [SYNTHESIS-009](SYNTHESIS-009.md) and
+49 entries through the parts (50 since [CLAIM-679](../claims.d/CLAIM-679.md) was added on 2026-11-23), and [CLAIM-602](../claims.d/CLAIM-602.md) directly. [SYNTHESIS-009](SYNTHESIS-009.md) and
 [SYNTHESIS-010](SYNTHESIS-010.md) also carry the line; both are Superseded by the claims they
 returned to ([CLAIM-632](../claims.d/CLAIM-632.md) and [CLAIM-600](../claims.d/CLAIM-600.md), [ADR-084](../decisions.d/ADR-084.md)), and they are not
 integrated again. [CLAIM-600](../claims.d/CLAIM-600.md) is now in transient-support.*
@@ -69,7 +78,7 @@ integrated again. [CLAIM-600](../claims.d/CLAIM-600.md) is now in transient-supp
   with ([CLAIM-587](../claims.d/CLAIM-587.md)); records per capacity bound readiness and do not
   identify it ([CLAIM-632](../claims.d/CLAIM-632.md), Proposed); and a capability kept for rare
   events decays without practice outside operation ([CLAIM-558](../claims.d/CLAIM-558.md)).
-- **Reaching and paying ([SYNTHESIS-024](SYNTHESIS-024.md)), 24 entries.** A transition has a
+- **Reaching and paying ([SYNTHESIS-024](SYNTHESIS-024.md)), 25 entries.** A transition has a
   threshold of its own ([CLAIM-571](../claims.d/CLAIM-571.md)); feasible, reachable and reliably
   reached come apart ([CLAIM-567](../claims.d/CLAIM-567.md)); obstructions have distinct remedies
   ([CLAIM-568](../claims.d/CLAIM-568.md), [CLAIM-556](../claims.d/CLAIM-556.md)); a form costs separately to build, keep and move
@@ -101,6 +110,12 @@ with its words.
   bears on [QUESTION-395](../questions.d/QUESTION-395.md) and [QUESTION-386](../questions.d/QUESTION-386.md), and [CLAIM-632](../claims.d/CLAIM-632.md) cites it for the
   construction cost a waste verdict must not overlook. [CLAIM-572](../claims.d/CLAIM-572.md)
   complements [CLAIM-561](../claims.d/CLAIM-561.md): provisional dispatch is its hedge at o = 0.
+- **Cutting the reserve to what holding needs ([SYNTHESIS-024](SYNTHESIS-024.md) with
+  [SYNTHESIS-027](SYNTHESIS-027.md); added 2026-11-23).** [CLAIM-679](../claims.d/CLAIM-679.md) (A's, demonstrated,
+  Active) rests on [CLAIM-571](../claims.d/CLAIM-571.md) and complements [CLAIM-587](../claims.d/CLAIM-587.md) (in
+  [SYNTHESIS-027](SYNTHESIS-027.md)): cutting the resource held toward what holding the
+  present configuration requires removes exactly the transitions whose
+  threshold lies between the old holding and the new.
 Across to transient-support:
 
 - **Disuse and rebuilding ([SYNTHESIS-027](SYNTHESIS-027.md) with [SYNTHESIS-032](SYNTHESIS-032.md)).** [CLAIM-558](../claims.d/CLAIM-558.md) complements

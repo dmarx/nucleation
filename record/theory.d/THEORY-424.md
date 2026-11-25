@@ -17,7 +17,7 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: Â in a common-input control with cell
-    heredity, from CASE-tmpgfgy2. The reading is unchanged.
+    heredity, from CASE-320. The reading is unchanged.
 tags:
 - complex-systems
 - individuation
@@ -38,7 +38,7 @@ summary: >-
   paper leaves open, and neither it nor the paper's two ETI criteria is
   computed on any system.
 ---
-<!-- inactive-ok-file: CASE-tmpgfgy2 — new, filed 2026-11-22 from LEAD-167's computation -->
+<!-- inactive-ok-file: CASE-320 — new, filed 2026-11-22 from LEAD-167's computation -->
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed; LIT-005 is the source this account was read from, and its NOTE places it; LIT-049 is named as its ancestor -->
 <!-- inactive-ok-file: THEORY-497 THEORY-607 — Proposed; neighbouring accounts named for comparison, nothing here rests on their being settled -->
 
@@ -141,7 +141,7 @@ intervention family is one component of [TERM-065](../terms.d/TERM-065.md).
 
 ## Note of 2026-11-22: Â under a shared cause, computed
 
-[CASE-tmpgfgy2](../cases.d/CASE-tmpgfgy2.md)'s common-input control has six cells in two patches. Each cell copies
+[CASE-320](../cases.d/CASE-320.md)'s common-input control has six cells in two patches. Each cell copies
 its patch's environment and otherwise keeps its own trait, with
 probability 0.3, and there is no interaction.
 

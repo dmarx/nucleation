@@ -1,0 +1,9 @@
+{"key": "remove_T", "removed": "T", "x_crit": 0.999969482421875}
+{"key": "remove_N", "removed": "N", "x_crit": 0.999969482421875}
+{"key": "remove_both", "removed": "both", "x_crit": 0.914459228515625}
+{"key": "pulse_kT=0.15", "k2": 0.15, "tau_crit": null, "note": "survives any duration"}
+{"key": "pulse_kT=0.2", "k2": 0.2, "tau_crit": 204.45632934570312}
+{"key": "pulse_kT=0.3", "k2": 0.3, "tau_crit": 50.853729248046875}
+{"key": "pulse_kT=0.5", "k2": 0.5, "tau_crit": 32.657623291015625}
+{"key": "pulse_kT=1.0", "k2": 1.0, "tau_crit": 26.561737060546875}
+{"key": "pulse_kT=3.0", "k2": 3.0, "tau_crit": 24.349212646484375}

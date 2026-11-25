@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbi4ca
 title: 'For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two'
-version: 6
+version: 8
 history:
 - version: 2
   date: '2026-11-06'
@@ -59,6 +59,18 @@ history:
     A dated note: A74 §3 of the exchange "Assess Depp Heard Abuse"
     indexes the threshold by a normatively permitted set of paths,
     which can only raise it. No other change.
+- version: 7
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §9 uses
+    its threshold, the least peak over paths. No other change.
+- version: 8
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 3 abstract, §6 (ADR-tmpenzcn). No
+    change of title or status.
 grounds:
 - CASE-233
 role: thesis
@@ -96,6 +108,9 @@ complements:
 - CLAIM-563
 - CLAIM-575
 - CLAIM-591
+works:
+- governance-of-possibility
+- governance-of-becoming
 ---
 <!-- inactive-ok-file: CLAIM-584 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: THEORY-1420 CASE-198 CASE-200 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
@@ -289,3 +304,14 @@ A74 §3 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6af
 What follows, though A does not state it: Γ_N ⊆ Γ, so b*_N ≥ b*. A normative restriction on the path can raise this claim's threshold and never lower it, as [CLAIM-582](CLAIM-582.md) says of any added hard constraint. [TERM-106](../terms.d/TERM-106.md)'s reconfiguration slack already keeps "specified commitments" along the path; Γ_N is that clause with the commitments read as obligations to others. That the same endpoint reached by a permitted and an unpermitted path differs normatively is filed as [CLAIM-741](CLAIM-741.md)'s first separation.
 
 No status changes.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A30
+
+A30 §8 ("Reconfiguration slack") applies this claim to contracts:
+replacing a critical service provider can require keeping two providers at
+once, rebuilding internal expertise and moving data, so "The new contract
+would be cheaper to maintain, but the organization cannot afford the
+transition. This produces contractual lock-in without requiring any
+preference for the existing arrangement", and "renegotiation readiness
+might itself need to be maintained as an organizational capacity." An
+application that supports the claim's reading; no change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

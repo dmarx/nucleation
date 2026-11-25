@@ -152,3 +152,7 @@ not the party the newsroom evaluates, but "the platform or advertising
 market through which the newsroom obtains resources". The newsroom "can
 remain formally independent while gradually adopting the platform's criteria
 of success" ([CLAIM-656](../claims.d/CLAIM-656.md)).
+
+## Note of 2026-11-22: the two-institution loop, derived for one model
+
+"the two-institution loop has not been derived" (What it cannot show) now has one derivation: [LEAD-015](../leads.d/LEAD-015.md)'s [CASE-401](CASE-401.md) couples two reduced [CASE-092](CASE-092.md) institutions through this case's informational channel (the evaluated party's lean tilting the evidence the evaluator reads) and A21's return channel (the evaluator's reading redistributing resources and authority in the party). [CLAIM-1202](../claims.d/CLAIM-1202.md) states what follows for this case's two routes: the evidence route and a resource route each close the loop without the other, and an evaluator independent in its procedure is captured all the same. The case is unchanged.

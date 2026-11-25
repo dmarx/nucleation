@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpsmg1c
 title: 'When a choice about a technology or an institution could substantially and durably narrow the possibilities later open to those it affects, the burden of justifying it should rise with the size and the irreversibility of the narrowing'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-15'
@@ -15,6 +15,13 @@ history:
     is in the part of the line on what those who govern an arrangement
     others depend on owe. No relation supplies
     organizational-normativity to it (ADR-085). No other change.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §11.4. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -51,6 +58,8 @@ summary: >-
   and that anchors entrench ([CLAIM-184](CLAIM-184.md)); it holds no principle for the
   burden of justification. Interpretive. The wording is A's; adopting it
   is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: THEORY-1859 THEORY-1863 THEORY-1847 THEORY-1856 THEORY-1846 ARG-103 — filed from the stand-ins of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-1835 THEORY-1840 THEORY-1867 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->

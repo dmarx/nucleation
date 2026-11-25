@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpj163u
 title: 'A contribution''s admission to an organization''s inquiry, its recognition in apt terms, its credibility, its uptake into judgements, and its contributor''s part in revising the standards of uptake are separable, each possible without the later ones, so an organization can widen access while every channel by which a less authoritative contribution could change the criteria of authority stays closed'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -44,6 +44,13 @@ history:
     Arnstein (1969) read; tokenism is admission without uptake, and
     partnership's fixed ground rules are a part in the standards of
     uptake, which corroborates the claim.
+- version: 7
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §4.1. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -76,6 +83,8 @@ summary: >-
   that every contribution is owed uptake.
 complements:
 - CLAIM-448
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: SYNTHESIS-058 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: THEORY-1820 THEORY-1816 — Proposed, filed 2026-11-12 -->

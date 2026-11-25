@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpnfjln
 title: 'An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it'
-version: 17
+version: 18
 history:
 - version: 2
   date: '2026-11-16'
@@ -104,6 +104,11 @@ history:
     A dated note added: Cook (LIT-2783) read, corroborates; Dekker
     and Nyce (LIT-2786) read; the blame-the-system hypothesis
     (CLAIM-750) filed as a complement. No change of status or title.
+- version: 18
+  date: '2026-11-22'
+  note: >-
+    A dated note added: the Tempe prosecution read for LEAD-189; a claim
+    filed from it corroborates this one. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -447,9 +452,21 @@ No status changes.
 
 ## Note of 2026-11-22: Merton's Matthew effect, read
 
-**A contrast** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md)). Merton's Matthew effect
+**A contrast** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-2268](../notes.d/NOTE-2268.md)). Merton's Matthew effect
 allocates credit upward, to those already visible and eminent, for a
 given contribution (p. 58). This claim allocates blame to where failure
 becomes visible, often to those with least control. Both misallocate by
 position rather than by contribution; they run in opposite directions,
 credit to the top and blame to the bottom. No edge.
+
+## Note of 2026-11-22: the Tempe prosecution, read
+<!-- inactive-ok-file: CLAIM-1005 — new or Proposed; filed by the lead run on 2026-11-22, and the case whose gap it fills -->
+
+[CASE-292](../cases.d/CASE-292.md) left open whether blame landed on the Tempe operator. In the criminal law it did: she alone was charged and convicted, and prosecutors found "no basis for criminal liability for the Uber corporation" ([THEORY-2289](../theory.d/THEORY-2289.md)). [CLAIM-1005](CLAIM-1005.md), filed for [LEAD-189](../leads.d/LEAD-189.md), `corroborates` this claim: control over the conditions of action lay with the company ([CASE-292](../cases.d/CASE-292.md)), and the criminal law's blame lay where the failure became visible. The operator's own fault, which the NTSB found and this claim allows, does not change that. A civil settlement and the state's suspension of Uber's testing reached the company by other routes ([CLAIM-1033](CLAIM-1033.md)). No status changes.
+
+## Note of 2026-11-23: what holds it back
+
+Three premises are not held: [CLAIM-708](CLAIM-708.md) and [TERM-127](../terms.d/TERM-127.md), each with a blocker
+note of 2026-11-18, and [THEORY-1928](../theory.d/THEORY-1928.md), Elish's argument, which has been read
+in full and is Proposed. The claim goes Active when they do; [CLAIM-715](CLAIM-715.md) waits
+on it.

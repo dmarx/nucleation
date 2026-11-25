@@ -33,7 +33,7 @@ summary: >-
 corroborates:
 - CLAIM-533
 ---
-<!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2179 — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-1321 — Proposed; the companion THEORY and the claim this bears on, cited as open -->
 
 # THEORY-1348: In Froese's Irruption Theory an agent's motivations make a difference to behaviour only as an increase in its material underdetermination, measurable at best indirectly as neural or behavioural entropy, and such irruptions are by the theory's own terms undirected: scaled up by chaos, 1/f noise or criticality, they loosen the current organization but "cannot force the formation of the behavior that is to come", so the theory places behaviour's direction in the body's attunement and not in the irruption
@@ -87,7 +87,7 @@ explicitly does not.
 
 **Background.** Self-organized criticality is one of the paper's
 candidate amplifiers of irruptions (§5.2.2). Its founding letter
-([LIT-2992](../literature.d/LIT-2992.md), read in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md); the reading is [THEORY-tmpehudh](THEORY-tmpehudh.md)) says
+([LIT-2992](../literature.d/LIT-2992.md), read in [NOTE-2269](../notes.d/NOTE-2269.md); the reading is [THEORY-2179](THEORY-2179.md)) says
 how such a state amplifies: "A perturbation can lead to anything from a
 shift of a single pendulum to an avalanche, depending on where the
 perturbation is applied" (p. 382). The amplification is undirected,

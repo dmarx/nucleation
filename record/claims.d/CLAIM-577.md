@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmplo4ca
 title: 'A budget set each period to the peak resource spent the period before never rises, so the configurations an organization can reach shrink monotonically, and any transition whose threshold exceeds the cost of holding the current configuration is lost after one period spent holding it, unless the budget is raised from outside by at least the difference'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-06'
@@ -50,6 +50,13 @@ history:
     condition it needs: a budget rule that does not pin the reserve to the
     holding cost." Carries realizability, QUESTION-373's first line, after
     its own (ADR-085). No other change.
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §9.1
+    states its mechanism, the utilization-matched budget that loses the
+    transition. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -94,6 +101,8 @@ summary: >-
 bears_on:
 - QUESTION-386
 - QUESTION-373
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-200 CASE-203 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 
@@ -184,10 +193,29 @@ No status changes.
 
 ## Note of 2026-11-22: its first organizational test
 
-<!-- inactive-ok-block: CASE-tmpvnozj CLAIM-tmpocsw4 — new or Proposed; LEAD-080's study and its corollary, and CASE-200's rule as run there -->
-[LEAD-080](../leads.d/LEAD-080.md) ran A's readiness simulator under this rule and under carry-over ([CASE-tmpvnozj](../cases.d/CASE-tmpvnozj.md)). The prediction [QUESTION-394](../questions.d/QUESTION-394.md) drew from the claim holds there: a heavy rescue squad priced out after a month in which nothing mobilized it never came back, and under full carry-over it was never lost. A quiet period in an organization turned out to be a month without any mobilization, whether a rescue, a drill, a false alarm or a cancelled provisional dispatch, so the dispatch policy sets how long the capability survives the rule ([CLAIM-tmpocsw4](CLAIM-tmpocsw4.md), which rests on this claim). The run also bears on the scope stated under "What it does not say": the peak rule with a partial rollover, B_{t+1} = s_t + ρ(B_t − s_t) with ρ < 1, behaved exactly as the pure rule, since one held period leaves the budget below the threshold and nothing above it can be spent again; and [CASE-200](../cases.d/CASE-200.md)'s carry-over rule kept the transition but, used every period, allowed it only in every other period. No status changes.
+[LEAD-080](../leads.d/LEAD-080.md) ran A's readiness simulator under this rule and under carry-over ([CASE-315](../cases.d/CASE-315.md)). The prediction [QUESTION-394](../questions.d/QUESTION-394.md) drew from the claim holds there: a heavy rescue squad priced out after a month in which nothing mobilized it never came back, and under full carry-over it was never lost. A quiet period in an organization turned out to be a month without any mobilization, whether a rescue, a drill, a false alarm or a cancelled provisional dispatch, so the dispatch policy sets how long the capability survives the rule ([CLAIM-878](CLAIM-878.md), which rests on this claim). The run also bears on the scope stated under "What it does not say": the peak rule with a partial rollover, B_{t+1} = s_t + ρ(B_t − s_t) with ρ < 1, behaved exactly as the pure rule, since one held period leaves the budget below the threshold and nothing above it can be spent again; and [CASE-200](../cases.d/CASE-200.md)'s carry-over rule kept the transition but, used every period, allowed it only in every other period. No status changes.
 
 ## Note of 2026-11-22: a rule with a base and a payment per use
 
-<!-- inactive-ok-block: CASE-tmpuqpww CLAIM-tmp9mpn0 — new; LEAD-036's study and the claim drawn from it -->
-[LEAD-036](../leads.d/LEAD-036.md) ran [QUESTION-386](../questions.d/QUESTION-386.md)'s funding loop under A's rule B_{t+1} = B̄ + ηM_t, with competence bought from the budget and a capability committed only when competent enough ([CASE-tmpuqpww](../cases.d/CASE-tmpuqpww.md)). It bears on the scope stated under "What it does not say": a floor B̄ breaks this claim's argument, but where the floor alone sustains competence below the level at which the capability is used, the same loss returns, after a stretch without use set by the decay rate rather than after one held period, and only funding maintenance apart from use prevents it ([CLAIM-tmp9mpn0](CLAIM-tmp9mpn0.md)). No status changes.
+[LEAD-036](../leads.d/LEAD-036.md) ran [QUESTION-386](../questions.d/QUESTION-386.md)'s funding loop under A's rule B_{t+1} = B̄ + ηM_t, with competence bought from the budget and a capability committed only when competent enough ([CASE-343](../cases.d/CASE-343.md)). It bears on the scope stated under "What it does not say": a floor B̄ breaks this claim's argument, but where the floor alone sustains competence below the level at which the capability is used, the same loss returns, after a stretch without use set by the decay rate rather than after one held period, and only funding maintenance apart from use prevents it ([CLAIM-921](CLAIM-921.md)). No status changes.
+
+<!-- inactive-ok-file: TERM-167 — Proposed; filed in this filing of 2026-11-22 (second share) -->
+
+## Note of 2026-11-22: the industrial reading
+
+A36 of the exchange "Explain First Contact RL" (second share, ChatGPT,
+2026-11-22) uses this claim's budget rule verbatim, configurations A and
+B costing 1 and the route through M costing 3, as the industrial case of
+lost reorganization capacity: "Utilization-based optimization can
+destroy capacity whose value appears only under counterfactual future
+conditions." A36 names three remedies: reserves, carry-over, and a
+cheaper transition architecture. Each acts through a different mechanism.
+[TERM-167](../terms.d/TERM-167.md) cites it.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+Restatement and an objection. A48 §9.1 of the owner's manuscript (ADR-
+tmpsfjxu) restates A36's case of this claim. Its §9.3 redesigned route, with
+a staging path of peak 2, is lost under this claim's own rule after one
+period unless a reserve is also held, which [CLAIM-1099](CLAIM-1099.md) derives and
+scratch/formal/redesign_reserve_check.py checks.

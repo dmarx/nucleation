@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpu984q
 title: 'The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -25,6 +25,10 @@ history:
     instead of resting on it, so the supports entry for CLAIM-195 is
     removed, and CLAIM-195 leaves the inactive-ok directive, since it is
     Active. The claim is unchanged.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,6 +66,7 @@ complements:
 - CLAIM-195
 - CLAIM-182
 ---
+<!-- inactive-ok-file: LIT-1926 — Unavailable since 2026-11-22; the book LEAD-176's neighbour stands in for, cited in its dated note -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the second account filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-181 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-176 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
@@ -265,7 +270,7 @@ at is [CLAIM-184](CLAIM-184.md)'s question, and the readings do not answer it. N
 title or warrant changes.
 
 ## Note of 2026-11-01: the same shape in Griesemer and Shavit's entrenchment
-<!-- inactive-ok-block: LIT-188 LIT-1926 — Deferred, unread; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+<!-- inactive-ok-block: LIT-188 — Deferred, unread; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
 
 Griesemer and Shavit ([LIT-188](../literature.d/LIT-188.md), §2; [NOTE-173](../notes.d/NOTE-173.md)) describe the step from a
 connected collection to a community in this claim's terms, for social
@@ -321,3 +326,36 @@ Rechecked after [CLAIM-595](CLAIM-595.md) went Active and [TERM-117](../terms.d/
 ## Note of 2026-11-20: what holds it back
 
 Rechecked after [CASE-183](../cases.d/CASE-183.md)'s revision of 2026-11-07, which writes into that case the count of inbound references per code reported in the note of 2026-11-06 and changes nothing else; the second defeater stays unmet on that count. The first defeater still needs structure formed on content that persisted set beside structure formed on content restated afresh, which no count of codes can supply, and [ARG-028](../arguments.d/ARG-028.md)'s question, whether the record's own grammar can show anchoring, is still open.
+
+## Note of 2026-11-22: generative entrenchment, background
+
+Read for [LEAD-176](../leads.d/LEAD-176.md): Wimsatt and Schank 2004 ([LIT-3138](../literature.d/LIT-3138.md), [NOTE-2365](../notes.d/NOTE-2365.md)),
+standing in for Wimsatt's book ([LIT-1926](../literature.d/LIT-1926.md), Unavailable). Background; no
+edge. Entrenchment explains persistence by dependence: a structure that
+much depends on is kept because changing it is costly. The claim runs
+the other way, from persistence to availability as an anchor. The two
+fit together (a persistent structure is grown on, and what is grown on
+persists), but the reading tests neither direction. No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', U2 and A4 §9
+
+The owner's U2, "memes as nucleation sites" ([CLAIM-tmp1ng5k](CLAIM-tmp1ng5k.md)), carries this
+claim's figure to transmitted cultural items. A4 §9 ("Nucleation as its
+own case study") then turns it back on the record without citing this
+claim or its line: "The inquiry itself repeatedly introduces terms,
+distinctions, mathematical constructions and examples that reorganize
+how subsequent material is interpreted", and "It might be possible to
+measure the generativity of a concept by examining the organizational
+changes following its introduction, rather than merely counting
+references to it", allowing that "increased connectivity reflects
+editorial decisions rather than genuine intellectual reorganization".
+That proposal is held in [LEAD-028](../leads.d/LEAD-028.md) (inbound references and turns per
+anchor against drift) and [LEAD-199](../leads.d/LEAD-199.md) (revisions before and after an entry's
+first inbound edge), so no lead is filed. A4 quotes the repository's
+description, "A space for ideas to crystalize amidst an ongoing
+philosophical inquiry." Bearing: a restatement, uncited, no change. The
+wording of this note is the assistant's (Claude, in this session),
+reporting A's (ChatGPT's) text; adopting what it reports is the owner's
+call.
+
+<!-- inactive-ok-file: CLAIM-tmp1ng5k — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

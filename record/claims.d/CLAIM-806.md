@@ -10,9 +10,9 @@ history:
   date: '2026-11-22'
   note: >-
     Revised in place after the readings of 2026-11-22 of Krapivsky, Redner
-    and Leyvraz (NOTE-tmp2z733) and Barabási's chapter (NOTE-tmpnpqc8).
+    and Leyvraz (NOTE-2267) and Barabási's chapter (NOTE-2270).
     The ground moves from the unread LIT-2974 to the reading
-    THEORY-tmpmsncg (ARG-tmpqxprw). The boundary exponent k^(−3) is
+    THEORY-2181 (ARG-184). The boundary exponent k^(−3) is
     restricted to A_k = k; the aside on shifted kernels, "not checked
     here", is checked (ν = 1 + μ/a∞); the superlinear side is a cascade of
     transitions; the chapter's measured attachment exponents are added as
@@ -40,7 +40,7 @@ rests_on:
 - CLAIM-817
 - CLAIM-830
 grounds:
-- THEORY-tmpmsncg
+- THEORY-2181
 - CASE-303
 summary: >-
   An objection to A's A8 §8 contrast ([CLAIM-796](CLAIM-796.md)), filling a gap the
@@ -57,9 +57,9 @@ bears_on:
 - QUESTION-505
 ---
 <!-- inactive-ok-file: CLAIM-803 — Proposed; the claim on the confound of the attachment test -->
-<!-- inactive-ok-file: THEORY-tmpw4qgu THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
+<!-- inactive-ok-file: THEORY-2173 THEORY-2172 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: CLAIM-796 CLAIM-817 CLAIM-830 CASE-303 — Proposed or new; the claim objected to and the claims and case this rests on, filed from the same exchange -->
-<!-- inactive-ok-file: THEORY-tmpmsncg THEORY-tmpzmy66 ARG-tmpqxprw — Proposed; the readings of 2026-11-22 and the argument that says how they bear -->
+<!-- inactive-ok-file: THEORY-2181 THEORY-2184 ARG-184 — Proposed; the readings of 2026-11-22 and the argument that says how they bear -->
 
 # CLAIM-806: Linear preferential attachment is itself balanced at a boundary, between the stretched-exponential tails of weaker attachment and the condensation of stronger, so rich-get-richer processes and criticality are not opposite routes to a power law: both reach one at a marginal point, and differ in what is balanced
 
@@ -71,7 +71,7 @@ regimes". But A's own table at A1 §4 puts rich-get-richer at such a
 boundary. With attachment ∝ k^α, α < 1 gives a stretched-exponential
 tail, α > 1 condensation onto one unit, and only α = 1 a power law
 (Krapivsky, Redner and Leyvraz, [LIT-2974](../literature.d/LIT-2974.md), read on 2026-11-22 in
-[NOTE-tmp2z733](../notes.d/NOTE-tmp2z733.md), who call γ = 1 "the borderline case"). The assistant's
+[NOTE-2267](../notes.d/NOTE-2267.md), who call γ = 1 "the borderline case"). The assistant's
 simulations ([CLAIM-817](CLAIM-817.md)) show both sides. At α = 0.5 the largest of
 100,000 nodes has degree 42. At α = 1.5 one node holds 99,354 links and the
 next 12. A power law appears only at the boundary, just as a cascade's
@@ -92,7 +92,7 @@ parallel runs further:
 Barabási's chapter reports attachment exponents measured from network
 snapshots: "For the Internet and citation networks we have α ≈ 1", and
 "For the co-authorship and the actor network the best fit provides
-α=0.9±0.1" ([NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md), §5.7). By that measure real systems sit at or
+α=0.9±0.1" ([NOTE-2270](../notes.d/NOTE-2270.md), §5.7). By that measure real systems sit at or
 just below the boundary. The measurement conditions on degree alone, so
 fitness and age are confounded ([CLAIM-803](CLAIM-803.md)), and below the boundary
 Krapivsky, Redner and Leyvraz warn that for 0.8 ≲ γ ≲ 1 a stretched
@@ -128,7 +128,7 @@ difference in how the scale is removed.
 
 ## Note of 2026-11-22: Clauset, Shalizi and Newman, read
 
-Clauset, Shalizi and Newman ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md); the reading is [THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)) **qualifies the claim's empirical use**. The stretched exponential is
+Clauset, Shalizi and Newman ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-2262](../notes.d/NOTE-2262.md); the reading is [THEORY-2173](../theory.d/THEORY-2173.md)) **qualifies the claim's empirical use**. The stretched exponential is
 plausible beside the power law for nine of their data sets, and they
 note "the indistinguishability of power laws and stretched exponentials"
 (p. 26). The sublinear-against-linear distinction the claim draws is a
@@ -136,26 +136,26 @@ model distinction that a finite cross-section often cannot make. No edge.
 
 ## Note of 2026-11-22: Broido and Clauset, read
 
-Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)): **background**. The Weibull (stretched exponential) is favoured over
+Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-2263](../notes.d/NOTE-2263.md); the reading is [THEORY-2172](../theory.d/THEORY-2172.md)): **background**. The Weibull (stretched exponential) is favoured over
 the power law for 47% of network data sets (Table 1), though the paper
 does not tie this to sublinear attachment. No edge. Status unchanged.
 
 ## Note of 2026-11-22: Krapivsky, Redner and Leyvraz, read
 
-Krapivsky, Redner and Leyvraz ([LIT-2974](../literature.d/LIT-2974.md), [NOTE-tmp2z733](../notes.d/NOTE-tmp2z733.md); the reading is
-[THEORY-tmpmsncg](../theory.d/THEORY-tmpmsncg.md)) **support the marginality** and qualify the table, as
+Krapivsky, Redner and Leyvraz ([LIT-2974](../literature.d/LIT-2974.md), [NOTE-2267](../notes.d/NOTE-2267.md); the reading is
+[THEORY-2181](../theory.d/THEORY-2181.md)) **support the marginality** and qualify the table, as
 corrected in place above. γ = 1 is "the borderline case", γ > 1 "akin to
 gelation", and no γ ≠ 1 tail is a power law, so the `defeated_if` is not
-met. [THEORY-tmpmsncg](../theory.d/THEORY-tmpmsncg.md) replaces [LIT-2974](../literature.d/LIT-2974.md) in the grounds ([ARG-tmpqxprw](../arguments.d/ARG-tmpqxprw.md)).
+met. [THEORY-2181](../theory.d/THEORY-2181.md) replaces [LIT-2974](../literature.d/LIT-2974.md) in the grounds ([ARG-184](../arguments.d/ARG-184.md)).
 
 ## Note of 2026-11-22: Barabási and Albert, and Barabási's chapter, read
 
-**Support** ([LIT-3004](../literature.d/LIT-3004.md), [NOTE-tmpwgw8e](../notes.d/NOTE-tmpwgw8e.md); [LIT-2968](../literature.d/LIT-2968.md), [NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md)). Barabási
+**Support** ([LIT-3004](../literature.d/LIT-3004.md), [NOTE-2272](../notes.d/NOTE-2272.md); [LIT-2968](../literature.d/LIT-2968.md), [NOTE-2270](../notes.d/NOTE-2270.md)). Barabási
 and Albert: "scaling is present only for α = 1" (preprint p. 7). The
 chapter gives the regimes on both sides and "Π(k) needs to depend strictly
 linearly on the degrees for the resulting network to have a pure power
 law" (§5.8), and the measured exponents above. Neither draws the analogy
-to criticality. [THEORY-tmpzmy66](../theory.d/THEORY-tmpzmy66.md) corroborates the claim.
+to criticality. [THEORY-2184](../theory.d/THEORY-2184.md) corroborates the claim.
 
 ## Note of 2026-11-22: Reed and Hughes, read
 

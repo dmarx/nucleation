@@ -28,6 +28,8 @@ summary: >-
   and whether they reduce to time-scale conditions. The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-2291 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2276 CLAIM-1058 CLAIM-1088 — Proposed; the reading of Ott and Antonsen 2009 and the verdict filed from it, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the record's claim on scale separation, cited as the held time-scale form -->
 <!-- inactive-ok-file: QUESTION-287 — Answered; cited as the part of the question the record has settled -->
 <!-- inactive-ok-file: THEORY-1399 — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
@@ -88,3 +90,26 @@ suppressed degree of freedom became important and why.
 The pasted synthesis on resource-bounded realizability reads the square twist ([CASE-207](../cases.d/CASE-207.md)) as a case of this question. In a rigid-facet model, admitting facet bending enlarges the admissible process class; in an elastic model the bending was always there, at a high energy cost. A: "These descriptions are compatible if the first is understood as a low-energy effective model of the second." A proposes "a hierarchy of effective constraint theories indexed by resource scale", in which what acts as a hard constraint at low resources becomes a penetrable barrier or a further mode at higher ones, and asks a resource-bounded theory to say "which impossibilities are structural within the declared model and which are effective exclusions at a given scale".
 
 That bears on [CLAIM-586](../claims.d/CLAIM-586.md): its structurally frustrated sets are frustrated relative to the declared configurations, and a change of scale that admits new ones is, in its terms, a change of architecture. A's hierarchy is a proposal; it gives no conditions of the kind the question asks for. No status changes.
+
+## Note of 2026-11-22: Ott and Antonsen 2009, read
+
+A sharp case ([NOTE-2378](../notes.d/NOTE-2378.md), [THEORY-2276](../theory.d/THEORY-2276.md)). The reduced order-parameter
+law of Ott and Antonsen attracts whenever the oscillators' frequency
+spread Δ is positive, by phase mixing, and fails at Δ = 0, where motion off
+the manifold persists, chaotic in Josephson arrays (the paper's note 16).
+The suppressed degrees of freedom, the distribution's higher harmonics,
+become dynamically important when the mechanism hiding them from the order
+parameter, dephasing, stops, not because their rates change.
+[THEORY-2276](../theory.d/THEORY-2276.md) bears on this question; [CLAIM-1058](../claims.d/CLAIM-1058.md) and [CLAIM-1088](../claims.d/CLAIM-1088.md)
+bear on it through [CLAIM-478](../claims.d/CLAIM-478.md)'s defeater (a).
+
+## Note of 2026-11-22 (later): Caprioglio and Berthouze, read
+
+A second case ([THEORY-2291](../theory.d/THEORY-2291.md)). Coarse-graining a hierarchically modular
+oscillator network to its slow Laplacian modes reproduced the
+two-population model only while the gap to the fast modes was large; as
+the gap closed "the contribution from the fast modes should not be
+discarded", and the lowest-layer modules lost coherence. Here the
+suppressed degrees of freedom return as the rate gap closes, unlike Ott and
+Antonsen's case above, where they return when dephasing stops.
+[THEORY-2291](../theory.d/THEORY-2291.md) bears on this question.

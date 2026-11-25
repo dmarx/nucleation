@@ -45,3 +45,30 @@ Where the record names it:
 ## What would count
 
 An argument that survives the boundary test supports [CLAIM-614](../claims.d/CLAIM-614.md).
+
+## Note of 2026-11-22: argued; the review not read
+<!-- inactive-ok-block: CLAIM-1155 CLAIM-1184 ARG-228 CLAIM-723 CLAIM-624 — new or Proposed; filed for this lead, the held form of the wrong it argues from, and the answer it complements -->
+
+The argument is written. [CLAIM-1155](../claims.d/CLAIM-1155.md) states the wrong apart from the
+harm: where those affected have standing to contest the harm with the
+organization, reproducing the projections that keep their claims from
+registering defeats that standing, a wrong directed at the conditions of
+their claims' uptake and not at the interests the harm sets back; it needs
+no intending actor and no ignorance on their part. [ARG-228](../arguments.d/ARG-228.md) argues it,
+and [CLAIM-614](../claims.d/CLAIM-614.md), from a constructed pair of water utilities with the harm,
+its continuation and its expected continuation matched, differing only in a
+reproduced complaint taxonomy; it carries [CLAIM-723](../claims.d/CLAIM-723.md)'s form of wrong from
+timing to representation. [CLAIM-1184](../claims.d/CLAIM-1184.md) is the instrumentalist objection
+it answers. Dated notes on [CLAIM-614](../claims.d/CLAIM-614.md) (with a proposed Reframing, not
+applied: the thesis conditioned on standing), [CLAIM-624](../claims.d/CLAIM-624.md), [QUESTION-441](../questions.d/QUESTION-441.md) and
+[LIT-2532](../literature.d/LIT-2532.md).
+
+The reading half is not done: [LIT-2532](../literature.d/LIT-2532.md)'s two open copies (Wiley, UT Tyler
+ScholarWorks) served Cloudflare challenges, so the boundary test was run
+against the readings the record holds, and passed there. The lead's "what
+would count", an argument that survives the boundary test, is met as far as
+the record can go without the review. What remains for the owner: whether
+[CLAIM-1155](../claims.d/CLAIM-1155.md) is a thesis of its own or restates [CLAIM-624](../claims.d/CLAIM-624.md) from the other
+side (the alternative is set out in its body; the assistant leans to
+keeping it); the Reframing of [CLAIM-614](../claims.d/CLAIM-614.md); whether [CLAIM-1184](../claims.d/CLAIM-1184.md) is
+answered; and a copy of [LIT-2532](../literature.d/LIT-2532.md). The lead stays Open.

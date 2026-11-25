@@ -6,7 +6,7 @@ form: analogy
 grounds:
 - 'THEORY-tmpdsft8'
 concludes:
-- CLAIM-tmpnookt
+- CLAIM-949
 uses:
 - TERM-095
 tags:
@@ -17,15 +17,15 @@ line:
 - formal-apparatus
 - record-as-apparatus
 summary: >-
-  Whether Kolmogorov 1932 bears out the first of [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s
+  Whether Kolmogorov 1932 bears out the first of [CLAIM-949](../claims.d/CLAIM-949.md)'s
   correspondences, a question ([CLAIM-470](../claims.d/CLAIM-470.md)) as a problem. It does in what
   the correspondence asserts, and it narrows it in two respects and widens
   it in one; it bears on that correspondence only, not on the claim's
   others (realizer, refinement, bidirectional typing, library). The
-  conclusion's standing is [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s own. The wording is the
+  conclusion's standing is [CLAIM-949](../claims.d/CLAIM-949.md)'s own. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpdsft8 CLAIM-tmpnookt — new or Proposed; the reading and the claim it weighs -->
+<!-- inactive-ok-file: THEORY-tmpdsft8 CLAIM-949 — new or Proposed; the reading and the claim it weighs -->
 
 # ARG-tmp6sdu6: Kolmogorov's calculus of problems, by analogy from his problem to the record's question, supports reading a question as a problem, since both demand rather than assert, have no truth value and fix what counts as solving them; but narrowed, since a question with several admissible answers is a disjunction of problems and nothing in the calculus revises a problem, and widened, since a problem fully stated carries the means the record assigns to the inquiry
 
@@ -38,7 +38,7 @@ what would count as its solution (four integers satisfying a relation, a
 circle through three points), and a problem may admit many solutions.
 [CLAIM-470](../claims.d/CLAIM-470.md)'s question likewise asserts nothing and "fixes which differences
 would count as an answer". By analogy, a question in the record's sense is
-a problem in Kolmogorov's, as [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) says.
+a problem in Kolmogorov's, as [CLAIM-949](../claims.d/CLAIM-949.md) says.
 
 ## Critical questions
 
@@ -87,7 +87,7 @@ a problem in Kolmogorov's, as [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) sa
 A sound analogy for the first correspondence, narrowed: a question is a
 problem in Kolmogorov's sense when its answer space is read as a
 disjunction of problems, and the calculus has nothing for a question's
-revision. This does not meet [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s defeater (b), a
+revision. This does not meet [CLAIM-949](../claims.d/CLAIM-949.md)'s defeater (b), a
 correspondence failing on its own terms; it changes the correspondence's
 statement. The claim's sentence "Kolmogorov read a proposition as a
 problem" misattributes (p. 65, n. 17); that is a correction of wording,

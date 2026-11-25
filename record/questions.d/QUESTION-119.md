@@ -23,6 +23,7 @@ summary: >-
   orientation" is weaker than [CLAIM-030](../claims.d/CLAIM-030.md)'s operative intention.
 ---
 
+<!-- inactive-ok-file: CASE-410 CLAIM-1006 CLAIM-1026 CLAIM-1022 CLAIM-1052 — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-192 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # QUESTION-119: When a diffusely organized population with no procedure for collective judgment is credited with a stance, or with an effect on an outside institution, when is the credit due to the population as organized, and when is it a biased sample of what some members said or did?
 
@@ -75,9 +76,24 @@ list of the identifiable creators, distributors and deciders.
 
 ## Note of 2026-11-22: Čater, Čater and Ivašković, read
 
-An **instance, indirect**, no edge ([LIT-1138](../literature.d/LIT-1138.md), [NOTE-tmpu5yr1](../notes.d/NOTE-tmpu5yr1.md)). Its two
+An **instance, indirect**, no edge ([LIT-1138](../literature.d/LIT-1138.md), [NOTE-2305](../notes.d/NOTE-2305.md)). Its two
 surveys of football fans were recruited through 395 fan clubs and club
 representatives (p. 7), which reaches the more organised fans, the biased
 sample of a diffuse population this question worries about. The paper
 does not discuss it, and it credits no stance to a fanbase, so it is not
 evidence on when the credit is due.
+
+## Note of 2026-11-23: the Juggernaut route, testified and modelled
+
+The run of [LEAD-188](../leads.d/LEAD-188.md) ([CASE-410](../cases.d/CASE-410.md)) found that the effect in [CASE-100](../cases.d/CASE-100.md)
+passed through one decision-maker who, the actor says, saw the redub
+online ([CLAIM-1006](../claims.d/CLAIM-1006.md)). Whether the credit is due to the population's
+circulation or to a short list of identifiable contributors is not
+settled by one case: a model of it favours circulation over a list
+naming the distributors by at most about five to one, and under two once
+the case's fame is allowed for ([CLAIM-1026](../claims.d/CLAIM-1026.md)). The two readings are
+filed as alternatives, [CLAIM-1022](../claims.d/CLAIM-1022.md) and [CLAIM-1052](../claims.d/CLAIM-1052.md). The case also
+shows where this question's "biased sample" worry enters an effect:
+the record knows of the case because the video was famous, and allowing
+for that ascertainment takes the observation's factor for circulation
+over a bare list from about ten or more to under two.

@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp449rr
 title: 'Dynamical separation of time scales (fast deviations relax, leaving a slow collective variable) and economic separation (costly formation, cheap repeated use) are different and come apart both ways: a slow variable can save no work, and a result reused cheaply need not be an attractor of any dynamics; so amortization is not in general a separation of time scales in the sense of the owner''s scale-separation claim, and a constraint that is both is a further fact'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.1. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -41,6 +49,8 @@ summary: >-
   for each direction. A's conjecture that productive constraints often
   have both is not part of the claim. The wording is A's; adopting it is
   the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: ARG-121 CLAIM-478 CLAIM-756 — Proposed; cited in this filing of 2026-11-19 -->
 

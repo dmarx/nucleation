@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpuz3py
 title: 'Which of predictive autonomy, interventional autonomy, organizational closure and self-individuation must a coalition of processes have before it is a higher-level agent and not a convenient aggregate, and, beyond an effective-information advantage without closure or self-individuation, which of them can it have without the others?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -28,6 +28,10 @@ history:
     systematically, and A8–A9 restated the ladder with a fifth, normative
     step; the first step's failure is now shown twice (THEORY-820,
     CLAIM-409). The question is unchanged.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
 tags:
 - individuation
 - agency
@@ -44,6 +48,7 @@ summary: >-
   necessary, and whether the others come apart, is open, and r/place
   ([CASE-079](../cases.d/CASE-079.md)) offers coalitions on which to test it.
 ---
+<!-- inactive-ok-file: THEORY-2273 THEORY-2275 — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-174 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 <!-- inactive-ok-file: CLAIM-170 QUESTION-009 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
@@ -134,3 +139,16 @@ a mechanism's components only relative to a boundary drawn beforehand
 ([CLAIM-530](../claims.d/CLAIM-530.md)), so they cannot supply self-individuation.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-22: entrenchment and reproducers, read
+
+Read for [LEAD-176](../leads.d/LEAD-176.md). Wimsatt and Schank 2004 ([LIT-3138](../literature.d/LIT-3138.md),
+[THEORY-2273](../theory.d/THEORY-2273.md)) define generative entrenchment as downstream reach in a
+causal graph that may contain cycles, so entrenchment can hold without
+organizational closure, which supports [CLAIM-531](../claims.d/CLAIM-531.md)'s answer to the closure
+part of this question. Wilkins and Bourrat's SEP entry ([LIT-3140](../literature.d/LIT-3140.md),
+[THEORY-2275](../theory.d/THEORY-2275.md)) reports Griesemer's reproducer as fixing no level in
+advance, a unit picked out by development and material overlap rather
+than by individuality, which bears on whether a coalition can be
+identified as a candidate before it is an individual. Both are written
+as `bears_on`. No status change.

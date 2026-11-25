@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpjw473
 title: 'When a project''s continuities part at a change of steward, participants'' judgements of which successor continues it are causally productive of that succession: those who judge one successor illegitimate move their work to another, and the move transfers the productive organization the judgement was about'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.0. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,6 +49,8 @@ summary: >-
   producers moves the persistence. The defeat condition is the reader's.
   Proposed and untested; the study that would test it is filed from the
   same exchange. The wording is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-426 — Proposed; the reflexive mechanism this claim combines -->
 <!-- inactive-ok-file: ARG-067 — Proposed; the argument from the study to this claim, cited as open -->
@@ -96,3 +106,17 @@ A parallel ([NOTE-2140](../notes.d/NOTE-2140.md)): participants' acts of referen
 ## Note of 2026-11-20: what holds it back
 
 The claim is causal, and its ground [CASE-223](../cases.d/CASE-223.md) is a proposed study that has not been run ([LEAD-185](../leads.d/LEAD-185.md)): verdicts measured apart from the move and timed against it, with cost and incentive controlled. Its instances are A's reports, unverified. Until it is run, [ARG-067](../arguments.d/ARG-067.md)'s finding stands that the Freenode move is expected under [CLAIM-329](CLAIM-329.md)'s criterion alone, with no causal work done by the verdicts, which is the restatement half of the defeat condition.
+
+## Note of 2026-11-23: the study run on public records
+
+<!-- inactive-ok-block: CASE-411 CLAIM-1067 CLAIM-1154 — new, Proposed; the run and its two readings -->
+[CASE-411](../cases.d/CASE-411.md) ran the study on public records. Its result on this claim
+is neutral: the records cannot time verdicts apart from migration,
+because independent verdicts appear in them only as the stated reasons for
+the speaker's own move ([CLAIM-1067](CLAIM-1067.md)). One instance bears on the
+defeat condition's rival: Fedora replaced Redis with Valkey for the
+licence alone, a migration with no verdict on identity expressed. An
+alternative reading of the result ([CLAIM-1154](CLAIM-1154.md)) takes the one-act
+pattern to favour this claim's constitutive gloss, "Through coordinated
+participation, it can help constitute a new one", over its causal title.
+What holds it back is unchanged in kind: the survey arm is unrun.

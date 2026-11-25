@@ -2,9 +2,17 @@
 number: 756
 status: Proposed
 formerly:
-- CLAIM-756
+- CLAIM-tmp5gbzr
 title: 'An acquisition can be worth making for what it does to the cost of other acquisitions: valued only by its own savings on a fixed task distribution, a learning step that lowers the cost of a later one can show a loss, and the ranking of learning policies can reverse once its effect on later acquisitions is counted'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §11.2. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -20,6 +28,7 @@ line:
 - realizability
 - learned-structure
 works:
+- governance-of-possibility
 - cost-structure-of-possibility
 grounds:
 - CASE-295
@@ -176,4 +185,12 @@ leaving "only manipulative difficulties". This is evidence of a different
 kind from the record's measured instances: history of the physical
 sciences read interpretively, with no cost accounting. It does not touch
 the claim's own content, valuation by effect on later acquisitions. No
+status change.
+
+## Note of 2026-11-23: Lippl and Lindsey, read
+<!-- inactive-ok-file: THEORY-2305 — Proposed or new; filed by the lead run of 2026-11-23 -->
+
+An instance of the premise, nothing on valuation ([THEORY-2305](../theory.d/THEORY-2305.md);
+[NOTE-2415](../notes.d/NOTE-2415.md)): features learned on an auxiliary task lower the samples a
+main task needs where the two share features (its Fig. 2c-f). No
 status change.

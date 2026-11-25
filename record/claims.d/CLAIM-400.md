@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp4v4na
 title: 'In the meaning–authority model linearized at symmetry, a third, maintained legibility state that authority moves (ε) and that moves interpretation (ν) or conferral (μ), with persistence λ < 1 and nonnegative couplings, destabilizes the symmetric state exactly when the two-variable condition holds with β + νε/(1 − λ) in place of β and δ + με/(1 − λ) in place of δ: at the threshold the regime is indistinguishable from stronger two-variable couplings, and the slower it is the more it adds, while away from the threshold it adds a mode that no two-variable model has, so a lean in the regime can outlast the advantages it was built from'
-version: 5
+version: 6
 history:
 - version: 1
   date: '2026-10-21'
@@ -45,6 +45,13 @@ history:
     so it moves no linear threshold at all'. Both carry
     distributed-agency first, so the step crosses no line. No
     other change.
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §5.2. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -82,6 +89,8 @@ summary: >-
   third mode: a lean in the regime can hold interpretation and authority
   off symmetry after they would have relaxed, which no two-variable
   parameters reproduce.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-936 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
@@ -184,3 +193,33 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07)
 ## Note of 2026-11-07: cited as a mechanism of institutional memory, from the second share of "Individuation, Possibility, and Disposition"
 
 A58 §4 cites this claim for a third state that "can alter the stability threshold of the meaning–authority feedback loop", and as "a possible mechanism for institutional memory, conceptual entrenchment, and path-dependent interpretation". At the threshold this claim says the regime reduces to stronger two-variable couplings. The part that does not reduce is the slow mode away from it, which A also states. The mechanism reading has no case in the record, as this claim's "What it does not say" warns. The reader rechecked the threshold condition on 20,000 random draws, with no mismatch. No status changes.
+
+<!-- inactive-ok-file: CLAIM-1070 — Proposed; filed in this filing of 2026-11-23 (third share) -->
+
+## Note of 2026-11-23: an industrial reading
+
+A42 §5 of the exchange "Explain First Contact RL" (third share, ChatGPT,
+2026-11-22) reads this claim's slowly maintained legibility state as the
+mechanism by which "an initially useful standard can become
+path-dependent governance architecture": the terms in 1/(1 − λ) grow as
+the state's persistence approaches one. A42: "A system can become better
+at governing the problems it already recognizes while becoming worse at
+recognizing and governing new ones." This is a faithful application. The
+thesis using it is [CLAIM-1070](CLAIM-1070.md); no edge is written from here.
+
+## Note of 2026-11-23: a grammar of permission, from "Explain First Contact RL"
+
+<!-- inactive-ok-block: CLAIM-1119 CLAIM-996 — Proposed; filed from the exchange -->
+A56 §7 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23)
+describes this claim's mechanism in an organization's authorization of
+inquiry, without citing it: "Over time, a particular grammar of permission
+becomes established", lowering the cost of evaluating familiar proposals and
+raising the relative cost of unfamiliar ones, so that "identity
+stabilization becomes the stabilization of an authority-dependent legibility
+regime". That is the maintained legibility state that authority moves, with
+the lean that can outlast its causes, read in the setting of
+[CLAIM-996](CLAIM-996.md). A56's remedy, revising "the standards governing those
+decisions", is [CLAIM-403](CLAIM-403.md)'s last stage. Not filed as a claim of its own; the
+related claims are [CLAIM-996](CLAIM-996.md) and [CLAIM-1119](CLAIM-1119.md). No status change. The
+note is the assistant's (Claude, in this session); adopting it is the
+owner's call.

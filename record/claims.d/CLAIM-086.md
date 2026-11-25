@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpo4t0w
 title: 'A constraint may govern conduct without governing the conditions under which it remains authoritative'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -14,6 +14,13 @@ history:
     from second-order self-governance under deregulation, this claim's
     distinction carried to removing a constraint (CLAIM-410). The claim
     is unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.2. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -26,6 +33,7 @@ tags:
 date: '2026-10-04'
 line: will-organization
 works:
+- governance-of-possibility
 - organization-of-will
 - self-as-recursive-ecology
 uses:

@@ -4,13 +4,20 @@ formerly:
 - CLAIM-tmpi68s2
 status: Proposed
 title: 'A protected objection is effective only if six achievements hold together, its becoming formulable, legible, taken up by an authorized channel, sustainable by the objector, corrected and maintained, so an objection can fail at any of them while its formal standing is unchanged, its chance of success is no greater than that of its weakest stage, and a reform that raises one stage''s success can lower the whole'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
   note: >-
     Carries rightful-power after its own line(s) under ADR-085, taking
     part in its argument: bears_on QUESTION-480. No other change.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.3. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -55,6 +62,8 @@ summary: >-
   "Adversarial control over contestability" is [TERM-124](../terms.d/TERM-124.md) restricted to
   contest and is not filed apart. The wording is A's; adopting it is the
   owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: TERM-124 TERM-086 — Proposed; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-724 TERM-130 — filed from the same exchange, Proposed or new -->

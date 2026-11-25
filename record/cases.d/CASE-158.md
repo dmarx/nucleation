@@ -187,9 +187,9 @@ is c54617e, v2.9). The case is unchanged.
 
 ## Note of 2026-11-22: the design built and run, with the router matched
 
-<!-- inactive-ok-file: CASE-tmpkghqb CLAIM-tmpdmn0v — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-338 CLAIM-906 — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
 
-This case's design was built in numpy and run for [LEAD-077](../leads.d/LEAD-077.md) ([CASE-tmpkghqb](../cases.d/CASE-tmpkghqb.md);
+This case's design was built in numpy and run for [LEAD-077](../leads.d/LEAD-077.md) ([CASE-338](../cases.d/CASE-338.md);
 scratch/studies/lead-077/). It does not reproduce A47's software, which is
 not held. The router saw the same audit records, with the same
 one-episode delay and the same number of probes, so the first caveat
@@ -212,5 +212,5 @@ were run, 12 paired seeds each, at three gate temperatures.
   feedback governance with an audit floor tied the router without one.
 
 So "If it never does, the objection stands for this model class" is what
-the run found, with the qualifications [CLAIM-tmpdmn0v](../claims.d/CLAIM-tmpdmn0v.md) sets out. The grant-reset
+the run found, with the qualifications [CLAIM-906](../claims.d/CLAIM-906.md) sets out. The grant-reset
 counterfactual was not run. The case is unchanged.

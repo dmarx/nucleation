@@ -106,7 +106,7 @@ A parallel ([NOTE-2157](../notes.d/NOTE-2157.md)): here bracket-matching heads a
 
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
-A parallel, weak support at most ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md)): in the same run, the
+A parallel, weak support at most ([NOTE-2248](../notes.d/NOTE-2248.md)): in the same run, the
 heads that later form the induction circuit begin to compose in LM2, and
 "the foundations for the induction circuit are laid in advance of any
 measurable change in model outputs or attention patterns" (§6.2). That is

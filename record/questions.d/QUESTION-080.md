@@ -25,7 +25,7 @@ summary: >-
   reading of Kunin et al., and filed at the owner's request.
 ---
 <!-- inactive-ok-file: THEORY-209 THEORY-085 THEORY-210 THEORY-286 — Proposed; the two pictures of the end of training and the readings that bear on relating them, open -->
-<!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2185 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # QUESTION-080: When a trained network's parameters keep moving after its loss has converged, what about the network stays fixed, and is the last-layer geometry of neural collapse among the things that do?
 
@@ -95,7 +95,7 @@ Chen and colleagues ([THEORY-2009](../theory.d/THEORY-2009.md), bears_on; [NOTE-
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)): **a
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-2276](../notes.d/NOTE-2276.md), [THEORY-2185](../theory.d/THEORY-2185.md)): **a
 parallel.** The fine-class structure persists "even after a very long
 training period (e.g. 1,000 epochs)", lighter but present, while the coarse
 collapse holds: one thing about the last layer that stays fixed long after

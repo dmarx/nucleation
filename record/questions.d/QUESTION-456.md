@@ -41,12 +41,12 @@ summary: >-
   as input. The owner's U21 answered with resource-bounded identification
   ([CLAIM-663](../claims.d/CLAIM-663.md), [CLAIM-662](../claims.d/CLAIM-662.md)).
 ---
-<!-- inactive-ok-file: THEORY-tmpam6lh THEORY-1693 — Proposed; the reading of Caliari, 2026-11-22, and Freer and Nosratabadi's beside it -->
+<!-- inactive-ok-file: THEORY-2272 — Proposed; the reading of Monnier et al., 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2218 THEORY-1693 — Proposed; the reading of Caliari, 2026-11-22, and Freer and Nosratabadi's beside it -->
 <!-- inactive-ok-file: NOTE-1747 NOTE-1793 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1746 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-663 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-627 — Proposed; jurisdiction over a concept's contexts, which A42 cites as held -->
-<!-- inactive-ok-file: LIT-2451 — Deferred; registered from the same exchange, unread -->
 
 # QUESTION-456: How can the set of demands an organization's compatibility is judged against be established defensibly, when who counts as a claimant, what each demand is inferred to require and what it is taken to mean are themselves shaped by the organization's own governance?
 
@@ -225,8 +225,8 @@ No status changes.
 
 ## Note of 2026-11-22: Caliari, read
 
-[LIT-2363](../literature.d/LIT-2363.md), cited here for failure mode 2, is now read ([NOTE-tmphq6zm](../notes.d/NOTE-tmphq6zm.md);
-[THEORY-tmpam6lh](../theory.d/THEORY-tmpam6lh.md), which `bears_on` this question). It **supports failure
+[LIT-2363](../literature.d/LIT-2363.md), cited here for failure mode 2, is now read ([NOTE-2308](../notes.d/NOTE-2308.md);
+[THEORY-2218](../theory.d/THEORY-2218.md), which `bears_on` this question). It **supports failure
 mode 2 and sharpens it**, and leaves the question open.
 
 - **Inference imports a model.** Every welfare method is "implicitly
@@ -250,3 +250,40 @@ mode 2 and sharpens it**, and leaves the question open.
   this question's concern about governance would also call into question.
 
 Its stand-in, [LIT-2458](../literature.d/LIT-2458.md), is superseded in that role.
+
+## Note of 2026-11-22: Monnier et al., read
+
+[LIT-2451](../literature.d/LIT-2451.md) is read ([NOTE-2364](../notes.d/NOTE-2364.md); [THEORY-2272](../theory.d/THEORY-2272.md), which now `bears_on`
+this question) and now Active. It bears on failure mode 1, and corrects
+A's statement of it. A said "a small statistically underrepresented group
+can disappear inside" an aggregate. The paper shows something broader:
+any single score over intersectional subgroups needs a meta-metric
+(comparison, aggregation, weighting), the meta-metrics agree only when
+there is no disparity, and they can reverse rankings otherwise; the
+default worst-gap rule scores an isolated victim and a pervasive spread
+alike (§4.1.1). Whether a small group disappears depends on a weighting
+the paper treats as one more normative choice: by sample size it damps
+small groups, inversely it emphasizes them (§3.4.1).
+
+The paper takes the subgroups as given: "The designation of an attribute
+as sensitive is assumed to result from prior normative and societal
+deliberation" (§3.1). So it bears on how identified demands are weighed
+against one another, which the compatibility complex also needs, and not
+on who counts as a claimant. Its guidelines are the second half of A42's
+procedure, justifying the resolution, for one measurement practice. The
+question stays Open.
+
+## Note of 2026-11-23: governance that keeps the demand set small, from [LEAD-181](../leads.d/LEAD-181.md)
+<!-- inactive-ok-file: CLAIM-1120 CLAIM-997 — new; filed by the lead run of 2026-11-23 -->
+
+[CASE-396](../cases.d/CASE-396.md) models the demand set as fixed and independently specified,
+with the recognized part of it set by the institution's inquiry. Under
+governance that penalizes recognized violations and does not reward
+discovery, the recognized set stays the visible one, and the internal count
+ends near 0 against about 3.4 to 6.1 true violations. Scoring by an
+independent count of the whole set, or a reward for discovery, brings
+inquiry back ([CLAIM-1120](../claims.d/CLAIM-1120.md), [CLAIM-997](../claims.d/CLAIM-997.md)); an amnesty on newly
+recognized violations alone does not where inquiry is costly. That bears on
+the question's demand that the set be checked against "a reference set the
+organization did not choose": in the model, nothing else restores the
+search. The question stays Open.

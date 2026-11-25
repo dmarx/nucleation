@@ -32,7 +32,7 @@ draws_on:
 - THEORY-2153
 ---
 <!-- inactive-ok-file: THEORY-2152 THEORY-2153 THEORY-2148 ARG-135 ARG-143 — Proposed; the readings and arguments of 2026-11-21 -->
-<!-- inactive-ok-file: THEORY-tmp9ltxi — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2186 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CASE-301: A two-class Gaussian mixture along a hidden direction, whose same-class cosines vanish with dimension while a readout along the direction stays 84 per cent accurate and PCA recovers the direction only above the BBP threshold
 
@@ -112,7 +112,7 @@ updated.
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): **extends the
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-2274](../notes.d/NOTE-2274.md), [THEORY-2186](../theory.d/THEORY-2186.md)): **extends the
 construction through L random layers.** Their Corollary 4 takes a
 signal-plus-noise input X = Σθᵢaᵢbᵢᵀ + Z, this case's mixture when the
 bᵢ are class-label vectors, and pushes it through a network with random

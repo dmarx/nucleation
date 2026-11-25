@@ -68,7 +68,7 @@ draws_on:
 - THEORY-1088
 - THEORY-1090
 ---
-<!-- inactive-ok-file: CASE-tmp69rk8 CLAIM-tmpo7igy — filed from LEAD-098's run of 2026-11-22, new -->
+<!-- inactive-ok-file: CASE-333 CLAIM-903 — filed from LEAD-098's run of 2026-11-22, new -->
 <!-- inactive-ok-file: THEORY-2014 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
@@ -203,9 +203,9 @@ The study is still proposed. No status change.
 
 ## Note of 2026-11-22: the design run, for [LEAD-098](../leads.d/LEAD-098.md)
 
-[LEAD-098](../leads.d/LEAD-098.md) ran this design for the first time, in eight Stuart–Landau units on a ring with one chord, with phase-offset maps on the edges; the result is [CASE-tmp69rk8](CASE-tmp69rk8.md) (executed study) and [CLAIM-tmpo7igy](../claims.d/CLAIM-tmpo7igy.md). Run: the regimes of the table above, with higher-dimensional stalks run as linear sheaves rather than in the oscillators; A12's three arms (forcing withdrawal, suppression, adaptive capacity with knockouts); revision none, by consistency, and checked against held-out interventions; [QUESTION-063](../questions.d/QUESTION-063.md)'s displacement and perturbation; and a plastic-maps arm, the variant above in which revision feeds back into the coupling. The regimes come apart as the table says they would isolate: maps that glue in the weak and conservative regimes without attraction; strong coupling enforcing other relations, locked and far from the apparatus's sections; a frustrated network locked into one compromise state; a shared drive bringing uncoupled units near the sections. Revision by consistency reached coherence without changing prediction. Not run: the arms of the notes of 2026-11-03 and 2026-11-19, except one maintenance knockout. This proposed study keeps its standing and kind; the run is the new case.
+[LEAD-098](../leads.d/LEAD-098.md) ran this design for the first time, in eight Stuart–Landau units on a ring with one chord, with phase-offset maps on the edges; the result is [CASE-333](CASE-333.md) (executed study) and [CLAIM-903](../claims.d/CLAIM-903.md). Run: the regimes of the table above, with higher-dimensional stalks run as linear sheaves rather than in the oscillators; A12's three arms (forcing withdrawal, suppression, adaptive capacity with knockouts); revision none, by consistency, and checked against held-out interventions; [QUESTION-063](../questions.d/QUESTION-063.md)'s displacement and perturbation; and a plastic-maps arm, the variant above in which revision feeds back into the coupling. The regimes come apart as the table says they would isolate: maps that glue in the weak and conservative regimes without attraction; strong coupling enforcing other relations, locked and far from the apparatus's sections; a frustrated network locked into one compromise state; a shared drive bringing uncoupled units near the sections. Revision by consistency reached coherence without changing prediction. Not run: the arms of the notes of 2026-11-03 and 2026-11-19, except one maintenance knockout. This proposed study keeps its standing and kind; the run is the new case.
 
 ## Note of 2026-11-22: Ko, read
-<!-- inactive-ok-file: THEORY-tmp8cdhs — Proposed; filed by LEAD-023 -->
+<!-- inactive-ok-file: THEORY-2245 — Proposed; filed by LEAD-023 -->
 
-Ko ([THEORY-tmp8cdhs](../theory.d/THEORY-tmp8cdhs.md); [NOTE-tmpw116e](../notes.d/NOTE-tmpw116e.md)) gives this design's row "common drive, no reciprocal coupling" at the level of groups: uncoupled groups sharing one common noise synchronize their order parameters, and coupling within each group weakens that. A reference model for the row, not a change to the design.
+Ko ([THEORY-2245](../theory.d/THEORY-2245.md); [NOTE-2335](../notes.d/NOTE-2335.md)) gives this design's row "common drive, no reciprocal coupling" at the level of groups: uncoupled groups sharing one common noise synchronize their order parameters, and coupling within each group weakens that. A reference model for the row, not a change to the design.

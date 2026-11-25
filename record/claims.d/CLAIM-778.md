@@ -70,7 +70,7 @@ grounds:
 uses:
 - TERM-132
 ---
-<!-- inactive-ok-file: CASE-tmpdcoyb CLAIM-tmpylhdj CLAIM-tmpdsiv5 — Proposed; LEAD-199's study of 2026-11-22 and its two readings -->
+<!-- inactive-ok-file: CASE-307 CLAIM-864 CLAIM-863 — Proposed; LEAD-199's study of 2026-11-22 and its two readings -->
 <!-- inactive-ok-file: CLAIM-785 CLAIM-783 TERM-134 — Proposed; filed on 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-184 CLAIM-191 CLAIM-114 — Proposed; open, cited for what each holds -->
 <!-- inactive-ok-file: CLAIM-768 CLAIM-772 CLAIM-779 TERM-132 — Proposed; filed in this contribution of 2026-11-20 -->
@@ -219,4 +219,4 @@ Two smaller ones: [CLAIM-195](CLAIM-195.md) names codes, versions and supersessi
 
 ## Note of 2026-11-22: [LEAD-199](../leads.d/LEAD-199.md)'s count meets defeater (a)
 
-[LEAD-199](../leads.d/LEAD-199.md) was run ([CASE-tmpdcoyb](../cases.d/CASE-tmpdcoyb.md)): over the record's history to 2026-11-22, at matched age, claims with inbound rests_on or grounds edges take substantive revisions about 1.45 times as often as claims with none (Mantel-Haenszel by age, 1.47 [1.22, 1.77]; risk-set matched, 1.62 [1.33, 1.94]), title changes rise too, and the fall in revision rate over a claim's life tracks its age, not its edges. That meets defeater (a) as worded, by the route the admission above foresaw. Two readings are filed, for the owner to choose between: [CLAIM-tmpylhdj](CLAIM-tmpylhdj.md) (this claim is false as it stands) and [CLAIM-tmpdsiv5](CLAIM-tmpdsiv5.md) (the admission's narrower sentence, per audit, which the count cannot test). The status of this claim is left for the owner.
+[LEAD-199](../leads.d/LEAD-199.md) was run ([CASE-307](../cases.d/CASE-307.md)): over the record's history to 2026-11-22, at matched age, claims with inbound rests_on or grounds edges take substantive revisions about 1.45 times as often as claims with none (Mantel-Haenszel by age, 1.47 [1.22, 1.77]; risk-set matched, 1.62 [1.33, 1.94]), title changes rise too, and the fall in revision rate over a claim's life tracks its age, not its edges. That meets defeater (a) as worded, by the route the admission above foresaw. Two readings are filed, for the owner to choose between: [CLAIM-864](CLAIM-864.md) (this claim is false as it stands) and [CLAIM-863](CLAIM-863.md) (the admission's narrower sentence, per audit, which the count cannot test). The status of this claim is left for the owner.

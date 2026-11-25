@@ -6,11 +6,11 @@
 
 **Rightful power: restriction, answerability and rights** — what makes power over others' capabilities rightful and keeps it so — when a capability should be restricted and by whom, where legitimacy and adequacy come from, when answerability is owed and to whom, which rights no institution creates or extinguishes, how remedies can be foreclosed before review, and accountability for correction without blame; the argument filed from the exchange "Assess Depp Heard Abuse", carried beside dependence-and-domination and organizational-normativity, which its entries keep (the decision adding this line).
 
-4 of 211 LEAD documents. Back to the [full index](../README.md).
+4 of 234 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [LEAD-033](../../../record/leads.d/LEAD-033.md) | Work the matched constructions of A102 to test whether reasonable rejection explains them without importing principles of standing | Named in [QUESTION-483](../../../record/questions.d/QUESTION-483.md) and [QUESTION-481](../../../record/questions.d/QUESTION-481.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-104](../../../record/leads.d/LEAD-104.md) | Write the model of the competence-restriction loop, with reinstatement made a threshold on capacity | Named in [CLAIM-721](../../../record/claims.d/CLAIM-721.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-119](../../../record/leads.d/LEAD-119.md) | Code a corpus of public postmortems for the highest organizational level named among contributing causes and for action items above the reviewing team's authority, internal reviews against independent ones | Owner-accepted, and public corpora make it doable now. Named in [CLAIM-750](../../../record/claims.d/CLAIM-750.md) and [QUESTION-476](../../../record/questions.d/QUESTION-476.md). Filed by the backlog audit of 2026-11-19. | Open |
-| [LEAD-189](../../../record/leads.d/LEAD-189.md) | Read the blameless post-incident practice and check the Tempe prosecution | Named in the curation entry of 2026-11-18 (062004). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-189](../../../record/leads.d/LEAD-189.md) v2 | Read the blameless post-incident practice and check the Tempe prosecution | Named in the curation entry of 2026-11-18 (062004). Filed by the backlog audit of 2026-11-19. | Open |

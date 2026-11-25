@@ -85,6 +85,7 @@ complements:
 bears_on:
 - QUESTION-069
 ---
+<!-- inactive-ok-file: CASE-385 CLAIM-993 CLAIM-994 CLAIM-992 — new; LEAD-157's executed study, its finding and the two alternative readings, filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-986 — Proposed; Zoom In's universality hypothesis, cited as what the test would probe -->
 <!-- inactive-ok-file: THEORY-115 THEORY-116 THEORY-108 CLAIM-187 — Proposed; the readings the protocol is assembled from, a case for it, and the claim that carries it further, open -->
 
@@ -159,3 +160,19 @@ networks trained on the same data: the evidence is co-occurrence in one
 synthetic-cue protocol and a one-layer proof of the converse. Step 4's
 "only when the objectives share structure" is [THEORY-115](../theory.d/THEORY-115.md)'s, whose breaking
 cases plot raw loss that the endpoint's forgetting largely explains.
+
+## Note of 2026-11-22: a toy test of the defeater
+
+[LEAD-157](../leads.d/LEAD-157.md)'s toy study ([CASE-385](../cases.d/CASE-385.md), numpy MLPs) built pairs whose shared
+or different mechanism is known by a cue-reliance test that uses no
+barrier. At width 5, pairs that rely on the same cue stay separated after
+an exhaustive search over permutations and rescalings. At widths 64 and
+256, pairs relying on different cues connect after activation matching
+([CLAIM-993](CLAIM-993.md)). Step 1 is borne out in miniature: an exact copy rescaled
+per unit is separated under permutations and joined once rescaling is
+quotiented. Whether the rest meets this claim's defeater depends on reading
+"share a mechanism" at the grain of input attributes or at the grain of
+features. The two readings are filed as alternatives for the owner:
+[CLAIM-994](CLAIM-994.md) objects to this claim, and [CLAIM-992](CLAIM-992.md) narrows it to
+where a same-mechanism control connects and the probe separates the
+mechanisms. The claim is unchanged.

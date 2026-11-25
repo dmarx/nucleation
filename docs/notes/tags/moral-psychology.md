@@ -4,7 +4,7 @@
 
 **moral-psychology**.
 
-60 of 2247 NOTE documents. Back to the [full index](../README.md).
+61 of 2418 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -68,3 +68,4 @@
 | [NOTE-2194](../../../record/notes.d/NOTE-2194.md) | Moll and Kadipasaoglu — The primacy of social over visual perspective-taking | Social perspective-taking precedes visual by a year or more; common ground comes from shared history with a partner, not from co-presence; level 2 arrives together at 4–5. | Read |
 | [NOTE-2203](../../../record/notes.d/NOTE-2203.md) | Killen — The origins of morality: Social equality, fairness, and justice | A commentary in the précis symposium: cooperation is not morality; interdependence coexists with autonomy; objective morality shows in challenging groups, not conforming; Piaget's peer conflict kept, his ages revised downward. | Read |
 | [NOTE-2206](../../../record/notes.d/NOTE-2206.md) | McAuliffe et al. — The developmental foundations of human fairness | Four signatures of fairness in development; at 3 the equality norm is stated but not followed when costly; following comes at 6–8 with behavioural control. All tasks divide windfalls. | Read |
+| [NOTE-2315](../../../record/notes.d/NOTE-2315.md) | Syropoulos, Law, Coleman and Young — A Future Beyond Ourselves | Ten US online studies ask whether self-oriented prospection, future self-continuity (FSC) and consideration of future consequences (CFC), goes with responsibility for future generations (RFG) and their moral value. Correlational studies find positive links, with identification with and efficacy toward future generations as proposed mediators. Two pre-registered writing-task experiments raise FSC; responsibility rises in the first (d = 0.24) and not in its replication (d = 0.06), and identification with future generations never rises. | Read |

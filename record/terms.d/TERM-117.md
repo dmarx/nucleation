@@ -2,7 +2,7 @@
 number: 117
 status: Active
 formerly:
-- TERM-117
+- TERM-tmp3awsy
 title: 'productive nucleus: a partial organization whose establishment, relative to a declared target, context, horizon and comparator, causally improves the probability, timeliness, robustness or resource-feasible accessibility of forming the target by changing later interaction opportunities, constraints or transition rates; distinct from a structural seed and a kinetic nucleus'
 version: 2
 history:

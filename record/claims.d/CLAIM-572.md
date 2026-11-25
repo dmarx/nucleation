@@ -210,3 +210,45 @@ No status change.
 Settles ([THEORY-2045](../theory.d/THEORY-2045.md)), skimmed, reports that stopping rules in active learning are intrinsic stability heuristics, and that greedy selection carries a guarantee only for submodular objectives, which active-learning criteria generally are not (§§6.7, 7.3). That is the general setting of this claim's fourth result, that a probe's worth depends on the probes after it, so stopping when the next does not pay can miss the optimum. It is context for the claim, not independent evidence: the claim's result is proved in its own model.
 
 No status change.
+
+## Note of 2026-11-22: dual control read (Meijer and Rantzer), for [LEAD-145](../leads.d/LEAD-145.md)
+
+[LEAD-145](../leads.d/LEAD-145.md) registered and read a standard treatment of dual control,
+[LIT-3129](../literature.d/LIT-3129.md) (Meijer and Rantzer, 2026), read in
+[NOTE-2352](../notes.d/NOTE-2352.md). This checks the citation this claim's "What it does
+not say" flags as unchecked ("In dual control (Feldbaum) an action also
+observes; that case is excluded"). Checked: Feldbaum, A. A. (1960/1963),
+"Dual control theory", is correctly the origin of the term and of the
+probing/caution duality; the review states it in full generality. The
+dual-control case is where observing and acting are not two draws on one
+budget but the *same* action — probing is acting — so it is the complement
+of this claim's separated-budget model, not a rival. The review's
+closed-loop identifiability lesson (being optimal can make the informative
+directions vanish, forcing exploration away from optimality) is a mechanism
+cognate to this claim's: there too, a system must sometimes spend
+performance to learn. Context and a checked citation, not evidence; the
+claim's theorem stands in its own model. No status change.
+
+## Note of 2026-11-22: value of information read (Whitmeyer), for [LEAD-145](../leads.d/LEAD-145.md)
+
+[LEAD-145](../leads.d/LEAD-145.md) also registered and read a standard treatment of the value of
+information, [LIT-3131](../literature.d/LIT-3131.md) (Whitmeyer, 2024), read in
+[NOTE-2354](../notes.d/NOTE-2354.md). This checks the other unchecked citation: the
+nonconcavity "is usually credited to Radner and Stiglitz". Checked: Radner,
+R. and Stiglitz, J. (1984), "A nonconcavity in the value of information",
+Bayesian Models in Economic Theory, 5:33–52; Whitmeyer confirms the
+attribution and the content. It also locates this claim's fourth result.
+Whitmeyer shows the Radner–Stiglitz nonconcavity to depend on how the
+amount of information is measured: under a convex-divergence measure and
+*efficient* acquisition the value of information is concave with strictly
+positive marginal value at zero, while under the *worst* (or a fixed,
+committed) acquisition of each amount it is almost never concave and its
+marginal value at zero is zero. This claim buys probes in a fixed order at
+fixed cumulative costs — a committed, inefficient quantification of the
+amount observed — so its "marginal reasoning fails" (point 4) is the
+Radner–Stiglitz nonconcavity specialized to a fixed probe schedule. That
+marks a limit of the claim's generality — the nonconcavity is a feature of
+committing to a probe order, not of the observe/act budget as such — rather
+than contradicting it; the claim's own theorem stands. This is the
+assistant's reading across (Claude, in this session); adopting it is the
+owner's call. No status change.

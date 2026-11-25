@@ -32,6 +32,7 @@ summary: >-
   iterated reconstruction preserves task-relative sufficiency, by adding
   who runs the reconstruction and whether the successor can carry it on.
 ---
+<!-- inactive-ok-file: CASE-365 CLAIM-957 — new, filed under LEAD-093 on 2026-11-22 -->
 
 # QUESTION-361: Is an organization's recursive production usefully understood as self-distillation, each realization generating a specification of its own effective organization that constrains how its successor is built, and if so, what makes the distillation the organization's own rather than run by an outside optimizer, and what makes a successor a good teacher as well as a faithful student?
 
@@ -105,3 +106,27 @@ of the exchange ([CASE-190](../cases.d/CASE-190.md)) go part of the way: a copyi
 organization keeps regenerated, with a student whose memory is erased and
 rebuilt. Its student never becomes a teacher, so the succession of
 realizations is not yet there.
+
+## Note of 2026-11-22: a construction in which the student becomes a teacher
+
+[CASE-365](../cases.d/CASE-365.md) ([LEAD-093](../leads.d/LEAD-093.md)) supplies the succession that [CASE-190](../cases.d/CASE-190.md) lacks.
+Each nucleus formed by a teacher makes teachers.
+
+- **Replacement.** After an outside founding, every outside teacher is
+  replaced.
+- **The generation rate.** The generations advance one per teacher
+  lifetime plus student lifetime.
+- **What decides it.** Whether the succession sustains itself turns on
+  the aggregate teaching gain.
+- **Matched populations.** Populations matched in the number and turnover
+  of their students separate on withdrawal by the share that can teach.
+  Before withdrawal they differ only in the supply, material and teachers
+  each needs ([CLAIM-957](../claims.d/CLAIM-957.md)).
+
+Two limits:
+
+- **Individual successors.** The model cannot tell which individual
+  successor teaches, which is the distinction this question draws.
+- **Inherited error.** It has no error inherited down the generations.
+
+No status changes.

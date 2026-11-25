@@ -6,8 +6,8 @@
 
 **Quantum foundations** — what quantum theory says about the world — contextuality, epistemic restrictions, interference, reconstructions and toy theories, quantum thermodynamics.
 
-0 of 305 CASE documents. Back to the [full index](../README.md).
+1 of 421 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-370](../../../record/cases.d/CASE-370.md) | A noncontextual inequality for a pragmatic rendering experiment, derived from its operational equivalences and verified numerically |  | Active |

@@ -59,7 +59,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-548 LIT-552 — Unavailable; Engel and Kendler 2005 named as the unread background, not leaned on -->
 <!-- inactive-ok-file: THEORY-050 THEORY-048 — Proposed; the inflexibility account, named to say the two are compatible, and the implementation account, named for the cross-level loops -->
-<!-- inactive-ok-file: THEORY-tmpai05z THEORY-tmpan7c6 THEORY-tmp6agnf LIT-tmpw8nym LIT-tmplsgie LIT-tmp62x8i — new, Proposed or Deferred; the works and readings of LEAD-032 cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2242 THEORY-2243 THEORY-2244 LIT-3122 LIT-3121 LIT-3117 — new, Proposed or Deferred; the works and readings of LEAD-032 cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; named as the record's measured case of a transition with hysteresis and critical slowing, not leaned on -->
 
 # THEORY-058: Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers
@@ -192,8 +192,8 @@ patient is why it is Proposed.
 kinds of result this account's promote_when names. Three works were read.
 
 - **Route 1, individual time series: critical slowing, in part; no
-  hysteresis.** Smit et al. (2025), [LIT-tmpuur53](../literature.d/LIT-tmpuur53.md), [NOTE-tmpptg2p](../notes.d/NOTE-tmpptg2p.md)
-  ([THEORY-tmp6agnf](THEORY-tmp6agnf.md)), is individual data of the kind the route names: 37
+  hysteresis.** Smit et al. (2025), [LIT-3125](../literature.d/LIT-3125.md), [NOTE-2334](../notes.d/NOTE-2334.md)
+  ([THEORY-2244](THEORY-2244.md)), is individual data of the kind the route names: 37
   people in remission tapering antidepressants, five affect ratings a day
   for four months, with a preregistered within-person test. Rising
   variance or autocorrelation preceded recurrence in 32.9% of those who
@@ -206,19 +206,19 @@ kinds of result this account's promote_when names. Three works were read.
   transition, not on the persistence after it that this account's title
   is about. Whether it meets the route is the owner's call; the reading
   is independent of the works that filed this account. For hysteresis,
-  de Jong et al. (2023), [LIT-tmpzu3i3](../literature.d/LIT-tmpzu3i3.md), [NOTE-tmpmrw49](../notes.d/NOTE-tmpmrw49.md) ([THEORY-tmpan7c6](THEORY-tmpan7c6.md)),
+  de Jong et al. (2023), [LIT-3124](../literature.d/LIT-3124.md), [NOTE-2333](../notes.d/NOTE-2333.md) ([THEORY-2243](THEORY-2243.md)),
   supply the test the route describes, a measured trigger whose upward
   and downward switching thresholds differ, and report that it "has not
   been used to investigate hysteresis in empirical psychological time
   series, so far". Their depression case is simulated from Cramer et
   al.'s network, which the route says would not settle it.
 - **Route 2, cutting a maintaining link with exposure fixed: not met.**
-  Meckes et al. (2025), [LIT-tmpds717](../literature.d/LIT-tmpds717.md), [NOTE-tmprmzur](../notes.d/NOTE-tmprmzur.md) ([THEORY-tmpai05z](THEORY-tmpai05z.md)):
+  Meckes et al. (2025), [LIT-3123](../literature.d/LIT-3123.md), [NOTE-2332](../notes.d/NOTE-2332.md) ([THEORY-2242](THEORY-2242.md)):
   the same exposure with an experimenter-supplied safety behaviour faded,
   kept or absent made no detectable difference at one month. Blakey et
-  al. (2019), [LIT-tmpw8nym](../literature.d/LIT-tmpw8nym.md), registered, reports the same over four
+  al. (2019), [LIT-3122](../literature.d/LIT-3122.md), registered, reports the same over four
   sessions. Neither cuts the person's own maintaining link, so neither
   refutes the route; the trials that did (Salkovskis et al. 1999,
-  [LIT-tmplsgie](../literature.d/LIT-tmplsgie.md); Wells et al. 1995, [LIT-tmp62x8i](../literature.d/LIT-tmp62x8i.md)) measured over days.
+  [LIT-3121](../literature.d/LIT-3121.md); Wells et al. 1995, [LIT-3117](../literature.d/LIT-3117.md)) measured over days.
 
 No status change.

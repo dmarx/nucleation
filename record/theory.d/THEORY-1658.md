@@ -71,7 +71,7 @@ al. are the review context for it.
 
 Peng et al. ([LIT-2462](../literature.d/LIT-2462.md)) was read in full for [LEAD-051](../leads.d/LEAD-051.md), from the NIH Public
 Access author manuscript via the NCBI E-utilities efetch interface
-([NOTE-tmpeyhkz](../notes.d/NOTE-tmpeyhkz.md)). The reading confirms both halves of this account's
+([NOTE-2337](../notes.d/NOTE-2337.md)). The reading confirms both halves of this account's
 promote_when verbatim: depletion of LysM+ CD11c+ (Vav1+) maternal
 microchimeric cells abolishes NIMA-specific tolerance (the paper's Figures
 3-5), and conditional depletion of that subset "does not diminish overall MMc

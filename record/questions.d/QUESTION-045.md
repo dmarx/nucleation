@@ -37,7 +37,7 @@ summary: >-
   and [CLAIM-018](../claims.d/CLAIM-018.md). [THEORY-058](../theory.d/THEORY-058.md), [THEORY-050](../theory.d/THEORY-050.md), [THEORY-052](../theory.d/THEORY-052.md) and [THEORY-053](../theory.d/THEORY-053.md) answer
   it in part; the body gives each one's limit.
 ---
-<!-- inactive-ok-file: THEORY-tmpai05z THEORY-tmpan7c6 THEORY-tmp6agnf LIT-tmpgjzit LIT-tmpw8nym LIT-tmp83n75 LIT-tmplsgie LIT-tmp62x8i — new, Proposed, Deferred or Unfetched; the works and readings of LEAD-032 cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2242 THEORY-2243 THEORY-2244 LIT-3120 LIT-3122 LIT-3118 LIT-3121 LIT-3117 — new, Proposed, Deferred or Unfetched; the works and readings of LEAD-032 cited in the note of 2026-11-22 -->
 
 # QUESTION-045: Is a mental disorder that outlasts its trigger a protective lock-in at the individual scale, a regime kept stable by behaviour that blocks its own disconfirmation while the capacity to leave it degrades, and does cutting the maintaining link, with the regime's content held fixed, produce lasting change?
 
@@ -150,17 +150,17 @@ asked for; what was found narrows both.
 **The experiment.** Trials that hold exposure fixed and vary only a
 safety behaviour exist, and the record now holds the main ones. The two
 with a follow-up, read or registered, found no lasting difference.
-Meckes et al. (2025), [LIT-tmpds717](../literature.d/LIT-tmpds717.md), read in [NOTE-tmprmzur](../notes.d/NOTE-tmprmzur.md)
-([THEORY-tmpai05z](../theory.d/THEORY-tmpai05z.md)): one 30-minute exposure for spider fear with
+Meckes et al. (2025), [LIT-3123](../literature.d/LIT-3123.md), read in [NOTE-2332](../notes.d/NOTE-2332.md)
+([THEORY-2242](../theory.d/THEORY-2242.md)): one 30-minute exposure for spider fear with
 experimenter-supplied boots faded, kept or never worn; "no significant
 time × SB condition interactions across phobia-related outcomes" at
-post-treatment or one month. Blakey et al. (2019), [LIT-tmpw8nym](../literature.d/LIT-tmpw8nym.md), four
+post-treatment or one month. Blakey et al. (2019), [LIT-3122](../literature.d/LIT-3122.md), four
 sessions, the same null by its abstract. The meta-analysis, Meulders et
-al. (2016), [LIT-tmpgjzit](../literature.d/LIT-tmpgjzit.md), is Unfetched; as Meckes et al. report it,
+al. (2016), [LIT-3120](../literature.d/LIT-3120.md), is Unfetched; as Meckes et al. report it,
 effects in 20 experiments favoured fewer safety behaviours and were not
-significant. On the other side, Powers et al. (2004), [LIT-tmp83n75](../literature.d/LIT-tmp83n75.md),
+significant. On the other side, Powers et al. (2004), [LIT-3118](../literature.d/LIT-3118.md),
 reports a large post-treatment advantage for exposure without a safety
-aid, and Salkovskis et al. (1999), [LIT-tmplsgie](../literature.d/LIT-tmplsgie.md), a two-day advantage for
+aid, and Salkovskis et al. (1999), [LIT-3121](../literature.d/LIT-3121.md), a two-day advantage for
 patients who dropped their own safety behaviours.
 
 The limit is the one this question turns on. In every trial with a
@@ -168,13 +168,13 @@ follow-up the safety behaviour was supplied by the experimenter and new
 to the participant, so they test whether adding a safety behaviour
 blunts exposure, not whether cutting the person's own maintaining link
 frees them. The trials that cut patients' own safety behaviours
-(Salkovskis et al. 1999; Wells et al. 1995, [LIT-tmp62x8i](../literature.d/LIT-tmp62x8i.md)) measured over
+(Salkovskis et al. 1999; Wells et al. 1995, [LIT-3117](../literature.d/LIT-3117.md)) measured over
 days, not lasting change. The experiment asked for, the person's own
 safety behaviour cut with exposure fixed and a follow-up of months,
 was not found.
 
 **Individual data showing hysteresis.** None was found. De Jong et al.
-(2023), [LIT-tmpzu3i3](../literature.d/LIT-tmpzu3i3.md), read in [NOTE-tmpmrw49](../notes.d/NOTE-tmpmrw49.md) ([THEORY-tmpan7c6](../theory.d/THEORY-tmpan7c6.md)), give the
+(2023), [LIT-3124](../literature.d/LIT-3124.md), read in [NOTE-2333](../notes.d/NOTE-2333.md) ([THEORY-2243](../theory.d/THEORY-2243.md)), give the
 test: two switching thresholds of a measured driver, one for each
 direction, estimated from one person's series. Their depression case is
 simulated, and they report the model "has not been used to investigate
@@ -182,8 +182,8 @@ hysteresis in empirical psychological time series, so far". The test
 needs the trigger measured, and seen to fall back past the level that
 brought the disorder on; that is what "outlasts its trigger" would mean
 in data. The nearest individual data are of the other signature, the
-approach to a tipping point. Smit et al. (2025), [LIT-tmpuur53](../literature.d/LIT-tmpuur53.md), read in
-[NOTE-tmpptg2p](../notes.d/NOTE-tmpptg2p.md) ([THEORY-tmp6agnf](../theory.d/THEORY-tmp6agnf.md)): in 37 people tapering antidepressants,
+approach to a tipping point. Smit et al. (2025), [LIT-3125](../literature.d/LIT-3125.md), read in
+[NOTE-2334](../notes.d/NOTE-2334.md) ([THEORY-2244](../theory.d/THEORY-2244.md)): in 37 people tapering antidepressants,
 rising variance or autocorrelation in momentary affect preceded
 recurrence in about a third of those who relapsed and appeared in about
 a sixth of those who did not. That bears on entry into the regime, not
@@ -191,3 +191,15 @@ on its persistence, and the design has no return path.
 
 The question is unchanged and stays Open. Both its routes are now
 specified more exactly, and neither has been run.
+
+## Note of 2026-11-22: Zidda and colleagues, read for [LEAD-106](../leads.d/LEAD-106.md)
+<!-- inactive-ok-block: THEORY-2277 — new; the reading filed by the lead search of 2026-11-22 -->
+
+Background, not evidence for the lock-in. [THEORY-2277](../theory.d/THEORY-2277.md) reports a gaze
+bias in PTSD, against trauma-exposed controls, toward a trauma cue and
+away from its present surround, tied to poorer memory for how cue and
+context were paired. That is compatible with a trauma cue kept unbound
+from its present context, the kind of state a lock-in would keep up. It
+does not show that the bias blocks disconfirmation, or that it outlasts
+anything: the context was uninformative and the design cross-sectional.
+The question is unchanged.

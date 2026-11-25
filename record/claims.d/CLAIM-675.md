@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp6wuql
 title: 'Two forms of support that give a party the same capabilities now can leave it different capabilities later: where capacity is learned by doing and decays with disuse, support that does the work shrinks what the party can reach unaided while support that covers only its shortfall does not, so support, or a technology, cannot be ranked by present capability sets and has to be assessed by the capability trajectory it produces'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-13'
@@ -40,6 +40,13 @@ history:
     owner's manuscript from the exchange "Topological protection
     explained": A43 §8.1 states its proposition, and §10's Hypothesis
     4 restates it. No other change.
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §11.1. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -65,6 +72,7 @@ line:
 - will-organization
 - flourishing-and-meaning
 works:
+- governance-of-possibility
 - capability-restraint-relational-freedom
 - cost-structure-of-possibility
 rests_on:
@@ -221,3 +229,13 @@ No status change.
 <!-- inactive-ok-file: THEORY-2077 — Proposed; cited from the readings of 2026-11-19 -->
 
 Anguita and colleagues ([THEORY-2077](../theory.d/THEORY-2077.md), corroborates; [NOTE-2159](../notes.d/NOTE-2159.md)): an analytical case of the same capabilities now with different later learning. With pretraining exact, networks differing only in the relative scale of their layers compute the same function and fine-tune differently. It supports the claim's evaluative consequence with independent evidence; it does not bear on the derivation, which rests on the model of learning by use and disuse.
+
+## Note of 2026-11-23: Lippl and Lindsey, read
+<!-- inactive-ok-file: THEORY-2305 CLAIM-1043 — Proposed or new; filed by the lead run of 2026-11-23 -->
+
+A parallel in learning theory, not evidence for this claim's
+derivation ([THEORY-2305](../theory.d/THEORY-2305.md); [NOTE-2415](../notes.d/NOTE-2415.md)): a pretrained network and a
+function-preserving rescaling of it give the same capabilities now and
+different later learning under fine-tuning ([CLAIM-1043](CLAIM-1043.md)). It concerns
+a learner's own training, not support given to a party, so no edge is
+written. No status change.

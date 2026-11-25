@@ -6,8 +6,8 @@
 
 **Mereology** — parts and wholes — composition, individuation of systems and collectives (group: philosophy).
 
-0 of 154 ARG documents. Back to the [full index](../README.md).
+1 of 240 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-207](../../../record/arguments.d/ARG-207.md) | The matched member and non-member pair of the part-whole case, by contrast, together with a bare relational arrangement's not being an agent, shows that for such a whole constitution grounds no further obligation and that the bearer is the controlling agents, not the whole | The assistant's, filed with [CLAIM-960](../../../record/claims.d/CLAIM-960.md) for [LEAD-110](../../../record/leads.d/LEAD-110.md). The support is load-bearing: the claim's ground half is a matched-pair contrast, [CASE-256](../../../record/cases.d/CASE-256.md), and its bearer half leans on [CLAIM-418](../../../record/claims.d/CLAIM-418.md), that a sense-1 arrangement is not an agent. The contrast holds a person's vulnerability, interests, rights and exposure fixed and varies only constitution of a bare relational arrangement; nothing owed moves with the variation, so constitution grounds no obligation of its own. Because the arrangement cannot owe, the bearer is the controlling, maintaining or benefiting agents. Proposed: the contrast settles the ground for the wholes in which the pair can be built, not for every whole, and the bearer half holds only where some agent controls the arrangement. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

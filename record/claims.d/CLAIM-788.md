@@ -119,3 +119,44 @@ defeater (a) is excluded by design, not tested. User adaptation is assumed
   information flowing from the state to the user (the perception term),
   which ties the channel to the user's adaptation as well as the
   interface's.
+
+## Note of 2026-11-22: a scroll interface as a second testbed, from the exchange "Explain First Contact RL"
+<!-- inactive-ok-file: CASE-419 CLAIM-1191 CLAIM-1072 — Proposed or Open; filed 2026-11-22 from the exchange "Explain First Contact RL" -->
+
+The owner proposed (U2, U3) a smart touch-scroll interface that would use
+First Contact's co-adaptation to learn the user's expected gain, momentum
+and braking without knowing what they are looking for, under the
+constraint that inference add no perceptual latency; it is filed as a
+proposed study, [CASE-419](../cases.d/CASE-419.md), which illustrates this claim. A8 of that
+exchange found this claim and [CLAIM-787](CLAIM-787.md) and treated them as "the starting
+point, not as new discoveries". What the exchange adds for this claim:
+
+- **A transfer test in a cheap setting.** A mapping learned on one
+  document should help on unfamiliar documents ([LEAD-217](../leads.d/LEAD-217.md)). That is
+  this claim's defeater (a) run where it can be run, which First Contact
+  does not ([NOTE-2236](../notes.d/NOTE-2236.md)).
+- **What the measure can and cannot see.** At fixed commands, command-to-
+  displacement information does not prefer a comfortable gain and, with
+  pixel quantization, rises with gain ([CLAIM-1191](CLAIM-1191.md), the assistant's
+  gap fill). So the channel reading's measure picks out a usable channel
+  only through the user's behaviour, which is the paper's premise and
+  which a scroll study can test ([LEAD-224](../leads.d/LEAD-224.md)). And the score is
+  information under realized commands, bounded by the capacity empowerment
+  measures ([CLAIM-1072](CLAIM-1072.md), A's): a channel the user cannot drive scores
+  low however much it could carry.
+
+No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
+
+A32 §5 reads First Contact as "a concrete analogue of implicit contract
+formation": the interface does not acquire the user's task but learns a
+channel through which the user can steer, while the user adapts to it,
+so "The contract is potentially realized in the learned coupling itself.
+Neither participant needs to contain a complete specification of the
+interface." It distinguishes contracts that convey a specification from
+contracts that "realize a specification through complementary
+adaptation", and bounds the analogy: "First Contact does not establish
+contractual normativity or breach-response mechanisms." An analogy,
+supporting nothing about this claim; recorded as a candidate substrate for
+the implicit contracts introduced at U16. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

@@ -154,3 +154,23 @@ the question's second half stays open. Relation: bears_on ([THEORY-1917](../theo
 Keller 2016, read ([NOTE-2005](../notes.d/NOTE-2005.md), [THEORY-1917](../theory.d/THEORY-1917.md), bears_on). Evidence toward yes, for fiduciaries. Whoever can influence a fiduciary's circumstances "will be able to influence the facts about what special obligations you have" (p. 22), and the exposure makes it "more difficult, morally, to keep control over her time and energy, and to bargain for better conditions at work" (p. 26). His teachers case uses the moral cost of withdrawal as leverage in bargaining over pay and conditions: their "sense of obligation to their students ... will make it very difficult for them to exercise" the right to strike (p. 24). That is the question's moral cost of withdrawing doing the work of control over exit. Keller does not frame it as dependence, and his cases are deliberate.
 
 Robillard's dissertation ([LIT-2682](../literature.d/LIT-2682.md), Unfetched) and Robillard and Strawser's book ([LIT-2692](../literature.d/LIT-2692.md), Unavailable), registered for this question, were not read.
+
+<!-- inactive-ok-file: CLAIM-tmpdu9v6 — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
+
+A32 §13 calls this question "almost tailor-made for the expanded cost
+model". Its answer is filed as [CLAIM-tmpdu9v6](../claims.d/CLAIM-tmpdu9v6.md) (bears_on): a genuine
+obligation "may constrain the admissibility of a transition rather than
+merely raise its numerical cost", so the model needs a cost κ_i(p) and a
+permissibility Perm_N(p) apart; a participant may be able to withdraw
+physically and institutionally while "lacking a morally permissible route
+to do so without first arranging alternative care, transferring
+responsibilities or fulfilling an outstanding duty", and "Another
+participant might benefit from controlling the circumstances that sustain
+that restriction." That is a yes to the first half, with the controlled
+term located in the cost of the permissible route, and it denies the
+premise of the third answer listed above (that a triggered obligation is a
+cost the person bears). The second half, what separates this from
+ordinary reliance on conscientiousness, A32 leaves open; the question
+stays open. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

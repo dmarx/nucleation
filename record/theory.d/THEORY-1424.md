@@ -51,7 +51,7 @@ summary: >-
   about organizations. Active as a report of one meta-analysis; whether an
   independent synthesis agrees is open.
 ---
-<!-- inactive-ok-file: CASE-tmp4f2jr THEORY-tmppzw1a — new; filed for LEAD-124 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-314 THEORY-2211 — new; filed for LEAD-124 on 2026-11-22 -->
 <!-- inactive-ok-file: LIT-2088 — Unfetched; the article the dissertation stands in for -->
 
 # THEORY-1424: Tatel finds that procedural skills with motor components decline roughly linearly with months of infrequent use, by about 0.06 to 0.08 standard deviations a month on average, losing about half of training gains within six to fifteen months, and that accuracy declines more slowly when a performance opportunity, most often an earlier retention test, falls in the interval
@@ -118,4 +118,4 @@ synthesis agrees is [QUESTION-433](../questions.d/QUESTION-433.md).
 
 ## Note of 2026-11-22: the pooled rate by task type
 
-Narrowed by [THEORY-tmppzw1a](THEORY-tmppzw1a.md) (Proposed). The pooled accuracy rate of 0.08 SD a month averages laboratory tasks (0.16) and real-world tasks (about 0.05); among the latter, medical and dental tasks decline by 0.04, and sports and military or transport tasks show no measurable decline in the article's posted data ([CASE-tmp4f2jr](../cases.d/CASE-tmp4f2jr.md)). The refit also finds every type declining faster over short intervals, so the linear slopes depend on each type's mix of intervals. That bears on this reading's "roughly linearly", which is Tatel's and stays as Tatel's. No status change.
+Narrowed by [THEORY-2211](THEORY-2211.md) (Proposed). The pooled accuracy rate of 0.08 SD a month averages laboratory tasks (0.16) and real-world tasks (about 0.05); among the latter, medical and dental tasks decline by 0.04, and sports and military or transport tasks show no measurable decline in the article's posted data ([CASE-314](../cases.d/CASE-314.md)). The refit also finds every type declining faster over short intervals, so the linear slopes depend on each type's mix of intervals. That bears on this reading's "roughly linearly", which is Tatel's and stays as Tatel's. No status change.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjnqe9
 title: 'Cooperation within groups and the coexistence of groups are distinct targets that can trade off: in the group-selection rule of Nowak''s five, b/c > 1 + n/m, cooperation spreads because a group that grows to size n splits and another group is driven extinct, so the mechanism that stabilizes cooperation inside groups works by removing groups; cooperation local to a group, the persistence of several groups whose interests are opposed, and concern for those outside one''s group are three achievements, and none of them secures the next'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -19,6 +19,13 @@ history:
     ARG-052 rejects an inference to this claim from Van Lange and
     Bergmann and is not an objection to it. Nothing in the record
     meets the defeat condition. The claim is unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §12.1. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -55,6 +62,8 @@ summary: >-
   ([THEORY-567](../theory.d/THEORY-567.md)), turns out to be an exact instance: there, cooperation
   within groups is bought by group extinction. The wording is the
   reader's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-545 THEORY-468 ARG-052 — Proposed, Rejected or new; cited as open, or as the verdict on a reading -->
 

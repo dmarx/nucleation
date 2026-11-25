@@ -144,7 +144,7 @@ Tollefsen argues, keeping the wide form as a Proposed THEORY under
 
 ## Note of 2026-11-22: Mulgan, read
 
-A **parallel**, no edge ([LIT-1874](../literature.d/LIT-1874.md), [NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md)). Mulgan's pragmatist
+A **parallel**, no edge ([LIT-1874](../literature.d/LIT-1874.md), [NOTE-2306](../notes.d/NOTE-2306.md)). Mulgan's pragmatist
 method, on which recognising a corporate group as a moral agent is decided
 by what the recognition does (pp. 906–907), and his requirement that a new
 corporate group "must first demonstrate that it will be morally reliable"

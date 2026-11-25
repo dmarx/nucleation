@@ -1,0 +1,672 @@
+[
+ {
+  "part": "coverage",
+  "arch": "unrestricted",
+  "n_Em": 0,
+  "MC_M": [
+   0.9988,
+   0.0009
+  ],
+  "MC_m": [
+   0.3864,
+   0.1694
+  ],
+  "AS": [
+   0.2999,
+   0.0534
+  ],
+  "dshare": [
+   1.0,
+   0.0
+  ],
+  "evals_per_round": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "rel-agree",
+  "n_Em": 0,
+  "MC_M": [
+   0.9963,
+   0.0029
+  ],
+  "MC_m": [
+   -1.0207,
+   0.4571
+  ],
+  "AS": [
+   0.3862,
+   0.0641
+  ],
+  "dshare": [
+   0.892,
+   0.0932
+  ],
+  "evals_per_round": [
+   20.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "rel-val",
+  "n_Em": 0,
+  "MC_M": [
+   0.9984,
+   0.0012
+  ],
+  "MC_m": [
+   0.1731,
+   0.0238
+  ],
+  "AS": [
+   -0.0406,
+   0.0941
+  ],
+  "dshare": [
+   0.3726,
+   0.053
+  ],
+  "evals_per_round": [
+   140.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "role",
+  "n_Em": 0,
+  "MC_M": [
+   0.988,
+   0.0094
+  ],
+  "MC_m": [
+   0.0,
+   0.0
+  ],
+  "AS": [
+   -0.0853,
+   0.0995
+  ],
+  "dshare": [
+   null,
+   null
+  ],
+  "evals_per_round": [
+   120.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "adaptive",
+  "n_Em": 0,
+  "MC_M": [
+   0.9783,
+   0.0179
+  ],
+  "MC_m": [
+   0.0,
+   0.0
+  ],
+  "AS": [
+   -0.0853,
+   0.0995
+  ],
+  "dshare": [
+   null,
+   null
+  ],
+  "evals_per_round": [
+   140.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "unrestricted",
+  "n_Em": 1,
+  "MC_M": [
+   0.9988,
+   0.0009
+  ],
+  "MC_m": [
+   0.3864,
+   0.1694
+  ],
+  "AS": [
+   0.2999,
+   0.0534
+  ],
+  "dshare": [
+   1.0,
+   0.0
+  ],
+  "evals_per_round": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "rel-agree",
+  "n_Em": 1,
+  "MC_M": [
+   0.9963,
+   0.0029
+  ],
+  "MC_m": [
+   -1.0207,
+   0.4571
+  ],
+  "AS": [
+   0.3862,
+   0.0641
+  ],
+  "dshare": [
+   0.892,
+   0.0932
+  ],
+  "evals_per_round": [
+   20.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "rel-val",
+  "n_Em": 1,
+  "MC_M": [
+   0.9985,
+   0.0011
+  ],
+  "MC_m": [
+   0.2467,
+   0.0273
+  ],
+  "AS": [
+   -0.0268,
+   0.0897
+  ],
+  "dshare": [
+   0.5383,
+   0.0576
+  ],
+  "evals_per_round": [
+   140.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "role",
+  "n_Em": 1,
+  "MC_M": [
+   0.988,
+   0.0094
+  ],
+  "MC_m": [
+   0.7435,
+   0.1296
+  ],
+  "AS": [
+   -0.0202,
+   0.0355
+  ],
+  "dshare": [
+   4.5389,
+   0.4833
+  ],
+  "evals_per_round": [
+   120.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "adaptive",
+  "n_Em": 1,
+  "MC_M": [
+   0.9034,
+   0.1062
+  ],
+  "MC_m": [
+   0.7343,
+   0.1323
+  ],
+  "AS": [
+   -0.0208,
+   0.036
+  ],
+  "dshare": [
+   4.61,
+   0.4892
+  ],
+  "evals_per_round": [
+   140.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "unrestricted",
+  "n_Em": 2,
+  "MC_M": [
+   0.9988,
+   0.0009
+  ],
+  "MC_m": [
+   0.3864,
+   0.1694
+  ],
+  "AS": [
+   0.2999,
+   0.0534
+  ],
+  "dshare": [
+   1.0,
+   0.0
+  ],
+  "evals_per_round": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "rel-agree",
+  "n_Em": 2,
+  "MC_M": [
+   0.9963,
+   0.0029
+  ],
+  "MC_m": [
+   -1.0207,
+   0.4571
+  ],
+  "AS": [
+   0.3862,
+   0.0641
+  ],
+  "dshare": [
+   0.892,
+   0.0932
+  ],
+  "evals_per_round": [
+   20.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "rel-val",
+  "n_Em": 2,
+  "MC_M": [
+   0.9985,
+   0.001
+  ],
+  "MC_m": [
+   0.3457,
+   0.0298
+  ],
+  "AS": [
+   -0.009,
+   0.0833
+  ],
+  "dshare": [
+   0.7984,
+   0.0668
+  ],
+  "evals_per_round": [
+   140.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "role",
+  "n_Em": 2,
+  "MC_M": [
+   0.988,
+   0.0094
+  ],
+  "MC_m": [
+   0.9097,
+   0.0435
+  ],
+  "AS": [
+   -0.0151,
+   0.0209
+  ],
+  "dshare": [
+   4.2262,
+   0.4892
+  ],
+  "evals_per_round": [
+   120.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "adaptive",
+  "n_Em": 2,
+  "MC_M": [
+   0.9787,
+   0.0184
+  ],
+  "MC_m": [
+   0.9048,
+   0.0538
+  ],
+  "AS": [
+   -0.0106,
+   0.0209
+  ],
+  "dshare": [
+   4.566,
+   0.4824
+  ],
+  "evals_per_round": [
+   140.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "unrestricted",
+  "n_Em": 3,
+  "MC_M": [
+   0.9988,
+   0.0009
+  ],
+  "MC_m": [
+   0.3864,
+   0.1694
+  ],
+  "AS": [
+   0.2999,
+   0.0534
+  ],
+  "dshare": [
+   1.0,
+   0.0
+  ],
+  "evals_per_round": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "rel-agree",
+  "n_Em": 3,
+  "MC_M": [
+   0.9963,
+   0.0029
+  ],
+  "MC_m": [
+   -1.0207,
+   0.4571
+  ],
+  "AS": [
+   0.3862,
+   0.0641
+  ],
+  "dshare": [
+   0.892,
+   0.0932
+  ],
+  "evals_per_round": [
+   20.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "rel-val",
+  "n_Em": 3,
+  "MC_M": [
+   0.9986,
+   0.0009
+  ],
+  "MC_m": [
+   0.4845,
+   0.0303
+  ],
+  "AS": [
+   0.0146,
+   0.0727
+  ],
+  "dshare": [
+   1.2441,
+   0.0809
+  ],
+  "evals_per_round": [
+   140.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "role",
+  "n_Em": 3,
+  "MC_M": [
+   0.988,
+   0.0094
+  ],
+  "MC_m": [
+   0.9235,
+   0.0324
+  ],
+  "AS": [
+   -0.0194,
+   0.0204
+  ],
+  "dshare": [
+   4.2866,
+   0.4507
+  ],
+  "evals_per_round": [
+   120.0,
+   0.0
+  ]
+ },
+ {
+  "part": "coverage",
+  "arch": "adaptive",
+  "n_Em": 3,
+  "MC_M": [
+   0.9763,
+   0.0237
+  ],
+  "MC_m": [
+   0.9249,
+   0.0332
+  ],
+  "AS": [
+   -0.013,
+   0.0198
+  ],
+  "dshare": [
+   4.5902,
+   0.4367
+  ],
+  "evals_per_round": [
+   140.0,
+   0.0
+  ]
+ },
+ {
+  "part": "relabelling",
+  "arch": "unrestricted",
+  "n_Em": 0,
+  "AS_world": [
+   0.0899,
+   0.0694
+  ],
+  "AS_relabelled": [
+   0.9101,
+   0.0694
+  ],
+  "AS_sum": [
+   1.0,
+   0.0
+  ]
+ },
+ {
+  "part": "relabelling",
+  "arch": "rel-agree",
+  "n_Em": 0,
+  "AS_world": [
+   0.4666,
+   0.0809
+  ],
+  "AS_relabelled": [
+   0.4917,
+   0.0704
+  ],
+  "AS_sum": [
+   0.9583,
+   0.0562
+  ]
+ },
+ {
+  "part": "relabelling",
+  "arch": "rel-val",
+  "n_Em": 0,
+  "AS_world": [
+   -0.0528,
+   0.0943
+  ],
+  "AS_relabelled": [
+   1.0526,
+   0.0944
+  ],
+  "AS_sum": [
+   0.9998,
+   0.0003
+  ]
+ },
+ {
+  "part": "relabelling",
+  "arch": "role",
+  "n_Em": 0,
+  "AS_world": [
+   -0.0853,
+   0.0995
+  ],
+  "AS_relabelled": [
+   1.0853,
+   0.0995
+  ],
+  "AS_sum": [
+   1.0,
+   0.0
+  ]
+ },
+ {
+  "part": "relabelling",
+  "arch": "adaptive",
+  "n_Em": 0,
+  "AS_world": [
+   -0.0853,
+   0.0995
+  ],
+  "AS_relabelled": [
+   1.0853,
+   0.0995
+  ],
+  "AS_sum": [
+   1.0,
+   0.0
+  ]
+ },
+ {
+  "part": "relabelling",
+  "arch": "unrestricted",
+  "n_Em": 2,
+  "AS_world": [
+   0.0899,
+   0.0694
+  ],
+  "AS_relabelled": [
+   0.9101,
+   0.0694
+  ],
+  "AS_sum": [
+   1.0,
+   0.0
+  ]
+ },
+ {
+  "part": "relabelling",
+  "arch": "rel-agree",
+  "n_Em": 2,
+  "AS_world": [
+   0.4666,
+   0.0809
+  ],
+  "AS_relabelled": [
+   0.4917,
+   0.0704
+  ],
+  "AS_sum": [
+   0.9583,
+   0.0562
+  ]
+ },
+ {
+  "part": "relabelling",
+  "arch": "rel-val",
+  "n_Em": 2,
+  "AS_world": [
+   -0.0282,
+   0.0841
+  ],
+  "AS_relabelled": [
+   0.9818,
+   0.0889
+  ],
+  "AS_sum": [
+   0.9537,
+   0.0072
+  ]
+ },
+ {
+  "part": "relabelling",
+  "arch": "role",
+  "n_Em": 2,
+  "AS_world": [
+   0.0153,
+   0.0219
+  ],
+  "AS_relabelled": [
+   0.0626,
+   0.0199
+  ],
+  "AS_sum": [
+   0.0779,
+   0.02
+  ]
+ },
+ {
+  "part": "relabelling",
+  "arch": "adaptive",
+  "n_Em": 2,
+  "AS_world": [
+   0.0139,
+   0.0206
+  ],
+  "AS_relabelled": [
+   0.0534,
+   0.0182
+  ],
+  "AS_sum": [
+   0.0672,
+   0.0177
+  ]
+ }
+]

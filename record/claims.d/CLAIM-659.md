@@ -203,7 +203,7 @@ host, so it counts against that defeater for mice only.
 ## Note of 2026-11-22: Peng et al. ([LIT-2462](../literature.d/LIT-2462.md)) read in full for [LEAD-051](../leads.d/LEAD-051.md)
 
 The paper behind [THEORY-1658](../theory.d/THEORY-1658.md) (already a ground of this claim) was read from
-the author manuscript via NCBI E-utilities ([NOTE-tmpeyhkz](../notes.d/NOTE-tmpeyhkz.md)). It supports the
+the author manuscript via NCBI E-utilities ([NOTE-2337](../notes.d/NOTE-2337.md)). It supports the
 premise this claim leans on -- foreign-origin cells doing regulatory work in a
 host, established by intervention rather than coexistence -- now from the full
 text, not a press post: a defined maternal-cell subset is necessary for the

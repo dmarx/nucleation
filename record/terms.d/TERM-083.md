@@ -146,7 +146,7 @@ argues what follows for others' authority.
 ## Note of 2026-11-22: Metzinger, read
 
 **Supports the term's demand that a ground be named** ([LIT-1947](../literature.d/LIT-1947.md),
-[NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md)). Metzinger names his: sentience, by the "Principle of
+[NOTE-2312](../notes.d/NOTE-2312.md)). Metzinger names his: sentience, by the "Principle of
 Pathocentrism", "All and only sentient beings have moral standing, because
 only sentient individuals have rights and/or interests that must be
 considered" (p. 44, footnote a). For the precautionary class, systems able

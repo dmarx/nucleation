@@ -65,11 +65,13 @@ summary: >-
   in flow there is nothing for will to do. It does not say flow is the
   best or the normal way to act as one.
 ---
+<!-- inactive-ok-file: CLAIM-1200 ARG-237 — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-169 ARG-016 — Proposed; the premise and the open objection, cited as open -->
 <!-- inactive-ok-file: CLAIM-163 — Superseded; the objection as first filed, now ARG-016 -->
 <!-- inactive-ok-file: LIT-914 LIT-910 LIT-912 — Unavailable, unread; the flow literature, cited without a reading and named as the weakest footing -->
 <!-- inactive-ok-file: THEORY-067 THEORY-070 — Proposed; the readings this conjecture is set against, with their untested standing stated -->
-<!-- inactive-ok-file: THEORY-tmpto8hu THEORY-tmp8q7t4 LIT-tmpptux6 — new on 2026-11-22; the LEAD-054 search's readings, claim and registered works, cited in the dated note -->
+<!-- inactive-ok-file: CASE-382 CLAIM-981 — new on 2026-11-22; the cost-side fit and its finding, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2208 THEORY-2207 LIT-3068 — new on 2026-11-22; the LEAD-054 search's readings, claim and registered works, cited in the dated note -->
 
 # CLAIM-162: In flow an activity's immediate reward and its longer-run value coincide, so no interest has to be overridden (synchronization as non-crossing valuations, with no dynamical mechanism claimed), and that is why focused action in flow is reported as effortless
 
@@ -141,21 +143,61 @@ so [THEORY-1110](../theory.d/THEORY-1110.md)'s proposal would not carry it. No c
 measure taken during a flow episode, which its defeat condition asks for,
 is in the record.
 
+## Note of 2026-11-22: the cost-side fit of promote_when (1) now has a candidate
+
+The second of the two premises above — a fit in which control intensity falls
+with its cost — now has a candidate. Carrying out [LEAD-128](../leads.d/LEAD-128.md), the assistant
+fitted the EVC effort-cost model to cognitive-effort-discounting choices
+([CASE-382](../cases.d/CASE-382.md), finding [CLAIM-981](CLAIM-981.md)): the cost of control rises with
+task load and the cost term is required. That intrinsic cost is the one this
+claim says goes unpaid in flow. [CLAIM-981](CLAIM-981.md) corroborates this claim. The
+fit uses a revealed-choice measure of intensity, not the accumulator
+parameter promote_when (1) names (caveat in the note of 2026-11-22 on
+[THEORY-070](../theory.d/THEORY-070.md)); whether it promotes that ground is the owner's call, and this
+claim's other premise ([CLAIM-169](CLAIM-169.md)) and its own defeat condition (a choice
+probe within a flow episode) are untouched, so the status is unchanged.
+
 ## Note of 2026-11-22: experience-sampling studies of flow ([LEAD-054](../leads.d/LEAD-054.md)), background
 
 Two experience-sampling studies read for [LEAD-054](../leads.d/LEAD-054.md) bear on this claim only
 as background. Flow is highest where the activity is clearly
-goal-directed ([THEORY-tmp8q7t4](../theory.d/THEORY-tmp8q7t4.md)) and where an outcome matters
-([THEORY-tmpto8hu](../theory.d/THEORY-tmpto8hu.md), outcome importance raising flow at work), which fits an
+goal-directed ([THEORY-2207](../theory.d/THEORY-2207.md)) and where an outcome matters
+([THEORY-2208](../theory.d/THEORY-2208.md), outcome importance raising flow at work), which fits an
 activity's immediate reward and its longer-run value coinciding in flow;
 neither measures whether any interest is overridden. Tavares et al.
-([LIT-tmpptux6](../literature.d/LIT-tmpptux6.md), Unfetched) report effortless attention mediating between
+([LIT-3068](../literature.d/LIT-3068.md), Unfetched) report effortless attention mediating between
 momentary states and optimal experience, by its abstract. No choice probe
 or reversal measure taken during a flow episode was found.
 
 ## Note of 2026-11-22: [LEAD-078](../leads.d/LEAD-078.md), nothing new for flow
 
 [LEAD-078](../leads.d/LEAD-078.md) named this claim because it rests on [CLAIM-169](CLAIM-169.md). The readings it
-filed (Khan and Dhar, [LIT-tmpgi12m](../literature.d/LIT-tmpgi12m.md); Schuhr, [LIT-tmpj7m62](../literature.d/LIT-tmpj7m62.md); Ge et al.,
+filed (Khan and Dhar, [LIT-3113](../literature.d/LIT-3113.md); Schuhr, [LIT-3114](../literature.d/LIT-3114.md); Ge et al.,
 [LIT-916](../literature.d/LIT-916.md)) bear on bundling and on mindfulness, not on flow, and leave
 [CLAIM-169](CLAIM-169.md)'s hold as it was. No bearing beyond that; no status change.
+
+## Note of 2026-11-22: flow in collaborative inquiry, from the exchange "Explain First Contact RL" (https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3)
+
+A20 related this conjecture to a governed record by two routes. On this
+claim's own (A20 §4, which A called "more speculative"), a record that makes
+the inquiry's longer-run structure consequential at the moment of
+contribution brings a contributor's immediate reward and the inquiry's
+longer-run value closer, a condition for flow, unless filing is tedious or
+the grammar distorts the idea: [CLAIM-1200](CLAIM-1200.md) (Proposed), argued by
+[ARG-237](../arguments.d/ARG-237.md) (Proposed, by analogy, with this claim's warrant and [ARG-016](../arguments.d/ARG-016.md)'s
+objection carried along). On the other, practical synchronization
+([TERM-061](../terms.d/TERM-061.md)), collaborators coordinate without agreeing: [CLAIM-1139](CLAIM-1139.md).
+A20 §7 kept the phenomenological limit: uninterrupted coordination does not
+show that anyone experiences flow. And A20's closing proposition says what
+this claim does not describe: flow-regulation, the capacity to enter,
+sustain, interrupt and recover fluent coordination ([CLAIM-1075](CLAIM-1075.md),
+Proposed). The claim is unchanged.
+
+## Note of 2026-11-23: what holds it back
+
+The wait of 2026-10-29 stands. The works read since for [LEAD-078](../leads.d/LEAD-078.md) ([LIT-3113](../literature.d/LIT-3113.md),
+[LIT-3114](../literature.d/LIT-3114.md), [LIT-916](../literature.d/LIT-916.md)) bear on bundling and mindfulness and leave [CLAIM-169](CLAIM-169.md)
+Proposed; [THEORY-070](../theory.d/THEORY-070.md) is still Proposed, its promote_when (1) having only a
+candidate fit ([CASE-382](../cases.d/CASE-382.md), [CLAIM-981](CLAIM-981.md)) on a revealed-choice measure, not the
+accumulator parameter it names. No choice probe within a flow episode is in
+the record.

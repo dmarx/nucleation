@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-22'
   note: >-
-    After the reading of LIT-2972 (NOTE-tmp923nm, THEORY-tmpwtoad). Corrected
+    After the reading of LIT-2972 (NOTE-2257, THEORY-2174). Corrected
     in place: Stringer's bound is strict for smooth codes (λ_n =
     o(n^(−1−2/d)), Supplementary Theorem 5), so a spectrum exactly at
     α = 1 + 2/m is the limit of smooth codes, not a smooth code; and it
@@ -17,7 +17,7 @@ history:
     1, not every code the bound allows. Title and the derivation's
     paragraph changed to say so; the table's numbers rechecked and
     unchanged; LIT-2972 replaced in the grounds by its reading
-    (ARG-tmpbad4y). The status is unchanged.
+    (ARG-169). The status is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -41,7 +41,7 @@ bears_on:
 uses:
 - TERM-136
 grounds:
-- THEORY-tmpwtoad
+- THEORY-2174
 summary: >-
   Fills a gap the ledger of the exchange "Rich Get Richer Power Laws"
   flagged (A30 §5, answering the owner's U19): how the participation
@@ -49,15 +49,15 @@ summary: >-
   where the power-law thread meets concentration. A30's regimes are right
   asymptotically, but near α = 1 they separate only at astronomical widths;
   pure power laws at the limit of Stringer's smoothness bound, which is
-  strict and on the tail only ([ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)), show for high-dimensional
+  strict and on the tail only ([ARG-169](../arguments.d/ARG-169.md)), show for high-dimensional
   manifolds a participation ratio of a few tens at real widths.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-847 TERM-136 CLAIM-822 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
-<!-- inactive-ok-file: THEORY-tmpwtoad ARG-tmpbad4y — Proposed or new; the reading of Stringer and colleagues and the argument for its support, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2174 ARG-169 — Proposed or new; the reading of Stringer and colleagues and the argument for its support, 2026-11-22 -->
 <!-- inactive-ok-file: ARG-130 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
-<!-- inactive-ok-file: THEORY-tmpwn1xp — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2189 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-848: A rank power-law spectrum with exponent just above 1, at the limit that Stringer's smoothness bound, α > 1 + 2/m on the tail of a smooth code of an m-dimensional stimulus manifold, allows, bounds the participation ratio as width grows, but the bound is approached only at widths exponential in m, so at realistic widths such a code has a participation ratio of about 13 to 29 for m from 10 to 100, and neither the participation ratio nor its growth with width tracks intrinsic dimension or separates the regimes either side of α = 1
 
@@ -82,7 +82,7 @@ is real but unreachable, and just below it the D^(2(1−α)) growth is too slow
 to see; both look like the (log D)² of α = 1.
 
 **With Stringer's bound.** A29 §7 cites Stringer and colleagues
-([LIT-2972](../literature.d/LIT-2972.md), read 2026-11-22 as [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)) for a smoothness bound. As
+([LIT-2972](../literature.d/LIT-2972.md), read 2026-11-22 as [THEORY-2174](../theory.d/THEORY-2174.md)) for a smoothness bound. As
 the supplement proves it (Theorem 5), a code with finite expected
 derivative on an m-dimensional stimulus manifold has eigenvalues
 λ_n = o(n^(−1−2/m)): strictly, and only in the tail. A pure power law at
@@ -138,17 +138,17 @@ out how this qualifies [CLAIM-847](CLAIM-847.md).
   tail at α_c and the top ten eigenvalues set equal to the tenth, the ratio
   at width 768 is 89, 112 and 137 for m = 10, 20 and 100; with the top
   eigenvalue ten times larger it is 1.8 to 2.5 (`python3 -I`,
-  [ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)).
+  [ARG-169](../arguments.d/ARG-169.md)).
 
 *Changed 2026-11-22, version 2:* the bound is stated as the reading gives
 it, strict and on the tail; the sentence that called it unverified is
-replaced by the reading; [LIT-2972](../literature.d/LIT-2972.md) leaves the grounds for [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md).
+replaced by the reading; [LIT-2972](../literature.d/LIT-2972.md) leaves the grounds for [THEORY-2174](../theory.d/THEORY-2174.md).
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md)) were read ([NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md); the reading
-is [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)). The reading **supports the premise in corrected
-form** ([ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)):
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md)) were read ([NOTE-2257](../notes.d/NOTE-2257.md); the reading
+is [THEORY-2174](../theory.d/THEORY-2174.md)). The reading **supports the premise in corrected
+form** ([ARG-169](../arguments.d/ARG-169.md)):
 
 - **Strict.** Supplementary Theorem 5: "If the expected derivative
   magnitude of φ is finite ... then λn = o(n−1−2/d)". "α ≥" is the
@@ -171,7 +171,7 @@ form** ([ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)):
 
 ## Note of 2026-11-22: Ansuini and colleagues, read
 
-Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md), [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **a parallel;
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-2278](../notes.d/NOTE-2278.md), [THEORY-2189](../theory.d/THEORY-2189.md)): **a parallel;
 supports the claim's last clause and runs the other way.** This claim has
 the participation ratio failing to track intrinsic dimension from below:
 smooth codes of m = 20 to 100 all give D_PR near 20 to 29 at width 768.

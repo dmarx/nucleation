@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmphigw4
 title: 'Engineering is a form of inquiry: an inquiry in the record''s sense whose answer space is the realizations of a specification, whose interventions are builds and whose observations are tests; it is reflexive, and so more than search, when building revises the specification, and it differs from inquiry into a given object in that its interventions make the object its observations judge'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    A dated note: public regulation as a case of engineering as inquiry,
+    from the exchange 'Explain First Contact RL' (2026-11-22). No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -110,3 +117,22 @@ its first promotion, a requirement nobody had stated ([CASE-299](../cases.d/CASE
 - Not read: Simon's *The Sciences of the Artificial*, Vincenti's *What
   Engineers Know and How They Know It*, Schön's *The Reflective
   Practitioner*. They are the obvious sources and none is registered.
+
+## Note of 2026-11-22: regulation as a case, from the exchange "Explain First Contact RL"
+
+A33 §1 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-22)
+maps public regulation onto the inquiry tuple of [TERM-095](../terms.d/TERM-095.md). The language
+is legal categories, technical standards and accounting definitions. The
+answer space is the acceptable industrial arrangements. The interventions
+are rules, incentives, enforcement and infrastructure changes. The
+observations are inspections, market outcomes, and environmental and
+safety data. The evaluation is public-demand satisfaction and risk
+criteria. The resources are administrative capacity, information and
+enforcement budgets. It turns on this claim's distinguishing clause: "Its
+interventions partly create the industrial arrangements that will
+subsequently be evaluated." Regulation becomes reflexive "when experience
+leads to revision of the categories, standards, or demands being used",
+and specifying is itself bounded ([CLAIM-475](CLAIM-475.md)). On A's reading, regulation
+is engineering whose realizations are an ecosystem's arrangements rather
+than an artefact. This is a case of the claim, offered by A, and not
+evidence for it. No status change.

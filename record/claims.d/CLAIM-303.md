@@ -154,11 +154,39 @@ No status change.
 An analogy ([NOTE-2141](../notes.d/NOTE-2141.md)): Howard and Ruder's pretraining "only needs to be performed once" and serves many tasks, stored work repaid by reuse, though they do no accounting.
 
 ## Note of 2026-11-22: a general model this claim is a case of
-<!-- inactive-ok-file: CASE-tmpo2iur CLAIM-tmpeklli — new; filed by LEAD-108's run of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-891 — new; filed by LEAD-108's run of 2026-11-22 -->
 
-[LEAD-108](../leads.d/LEAD-108.md)'s cost model ([CASE-tmpo2iur](../cases.d/CASE-tmpo2iur.md)) reduces to this claim's inequality,
+[LEAD-108](../leads.d/LEAD-108.md)'s cost model ([CASE-326](../cases.d/CASE-326.md)) reduces to this claim's inequality,
 and to [CASE-088](../cases.d/CASE-088.md)'s 45 against 34, when predictability is 1, staleness,
 erosion and spill are 0, work has one price throughout and one party pays.
 Each of those, at illustrative values, can take [CASE-088](../cases.d/CASE-088.md)'s saving to
-nothing, and whose costs count decides its sign ([CLAIM-tmpeklli](CLAIM-tmpeklli.md)). No status
+nothing, and whose costs count decides its sign ([CLAIM-891](CLAIM-891.md)). No status
 change.
+
+## Note of 2026-11-23: the work transferred to claimants, filed
+
+<!-- inactive-ok-block: CLAIM-1117 CLAIM-1065 — Proposed; filed from the exchange "Explain First Contact RL" -->
+The point in (b) of the note of 2026-11-19, a bureaucracy cheap for
+administrators because claimants do the work of fitting its categories,
+left unfiled as close to definitional, came back at A56 §4 of the exchange
+"Explain First Contact RL" (2026-11-23) with content of its own: who must
+pay to make a proposal legible steers which questions an institution
+pursues. It is filed as [CLAIM-1117](CLAIM-1117.md), in A's voice, on the owner's U29
+([CLAIM-1065](CLAIM-1065.md)). No status change. The note is the assistant's (Claude, in
+this session); adopting it is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A34 §7, a miscitation
+
+A34 §7 gives an amortization condition for automating a manual recovery,
+F + TU + nρ < nc (construction F, upkeep U per period over T periods, ρ
+per automated invocation against c per manual one), and says: "This is
+directly captured by Nucleation's CLAIM-303, [CLAIM-569](CLAIM-569.md) and [CLAIM-761](CLAIM-761.md)." The
+condition has this claim's form, work paid now against work saved later,
+but this claim is about filing an argument in the record, not about
+automation; [CLAIM-569](CLAIM-569.md) (construction, maintenance and transition costs)
+and [CLAIM-761](CLAIM-761.md) (a stabilized constraint as stored work) are the entries
+that state it in general. "Directly captured" overstates this claim's
+scope. A34's next sentences, that automation "can also introduce new
+dependencies, obscure underlying failure mechanisms and reduce human
+recovery competence", are the costs the note of 2026-11-22 on this claim
+lists as staleness, erosion and spill. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

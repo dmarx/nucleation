@@ -35,6 +35,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-819 CLAIM-478 CLAIM-829 CLAIM-845 CLAIM-840 CLAIM-826 ARG-125 CLAIM-157 SYNTHESIS-054 SYNTHESIS-048 SYNTHESIS-109 SYNTHESIS-083 CLAIM-799 CLAIM-827 CLAIM-837 CASE-301 CASE-305 SYNTHESIS-119 SYNTHESIS-120 — Proposed or new; the entries each sense points to -->
+<!-- inactive-ok-file: CLAIM-1196 CLAIM-1174 — new; filed from the owner's U6 of 2026-11-22, cited in the note of that date -->
 
 # TERM-138: separation, in three senses that come apart: of scales or levels, when a gap in rates, sizes or coupling lets a coarser description close over a window; of classes, when an observer or readout under its budget can tell two states or populations apart; and spectral, when an outlier eigenvalue detaches from a noise bulk
 
@@ -73,7 +74,7 @@ The three senses are the assistant's sorting of the exchange's uses (A7, A13 §9
 
 ## Note of 2026-11-21: Acharya, Rimal & Dhakal, read
 
-A sense the term does not list ([NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md)). The paper uses Park, Choe
+A sense the term does not list ([NOTE-2251](../notes.d/NOTE-2251.md)). The paper uses Park, Choe
 and Veitch's "causally separable" concepts (p. 1; [LIT-304](../literature.d/LIT-304.md)): concepts that
 "can be varied freely and in isolation", the joint counterfactual
 Y(W = w, Z = z) being well-defined for every pair of values; Park et al.'s
@@ -85,3 +86,7 @@ a linear readout; its head-against-tail POS probes are sense 2 restricted
 to a subspace. Nothing in it is sense 3. Its "anti-concentration" is not a
 separation in any sense: it places a direction relative to a spectrum. No
 relation written.
+
+## Note of 2026-11-22: the owner's "separating", for perspectives
+
+In the exchange "Explain First Contact RL" (ChatGPT, shared 2026-11-22), the owner asked at U6 whether "separating" is the record's sense for telling perspectives apart, after A11's "The address of a perspective is thus relative to the tests we can afford to perform". It is this term's separation of classes, applied to perspectives as the classes: what an observer under its budget can tell apart. A13 §1 used all three senses for a self ("Class separation", "Scale separation", "Spectral separation") and said "none entails the others", as this term does. The entries filed from that turn are [CLAIM-1196](../claims.d/CLAIM-1196.md) and [CLAIM-1174](../claims.d/CLAIM-1174.md) (the owner's proposal, in two readings) and the term [TERM-165](TERM-165.md). A use of the term, not evidence about it. No change.

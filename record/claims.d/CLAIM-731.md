@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmph28l6
 status: Proposed
 title: 'The cost of imposing a decision and the cost of questioning, suspending or reversing it are separate, so an institution can lower the first while the second stays the same or rises, gaining power over those its decisions affect with no change in its formal authority: friction moves from the exercise of power to its contestation'
-version: 2
+version: 5
 history:
 - version: 2
   date: '2026-11-17'
@@ -12,6 +12,23 @@ history:
     Citron (2008) read; automation lowers the cost of deciding while
     challenge comes to need costly decoding of the system, which
     corroborates the claim.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    A dated note added: Frischmann and Benesch (LIT-3136) registered and read on 2026-11-22 for LEAD-152, NOTE-2359. No change of status or title.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.3. No other change.
+- version: 5
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 9 abstract (ADR-tmpenzcn). No change
+    of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -51,6 +68,9 @@ summary: >-
   capacity to be corrected are kept by different relations; this names
   the costs per decision and per challenge that separate them. Restated at
   A26 §VI. The wording is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
+- governance-of-becoming
 ---
 <!-- inactive-ok-file: CLAIM-706 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
@@ -137,3 +157,55 @@ just distribution of friction.**"
 <!-- inactive-ok-file: THEORY-1947 — new theory of 2026-11-18, Proposed -->
 
 Citron 2008, read ([NOTE-2003](../notes.d/NOTE-2003.md), [THEORY-1947](../theory.d/THEORY-1947.md)): it corroborates the claim independently ([THEORY-1947](../theory.d/THEORY-1947.md) carries `corroborates`). Automated systems make deciding cheap while challenging a decision comes to need "the high fixed cost of deciphering a computer system's logic" (abstract), and the procedural calculus undervalues the challenge: "any Mathews analysis that focuses on a single adjudication will capture all of the costs of improved process but only a tiny fraction of its benefits" (p. 1285). Review is weakened too: "encoded policy tends to receive even more powerful deference than that provided under Chevron" (p. 1299). US administrative law, 2008 rules engines. No status changes.
+
+## Note of 2026-11-22: Frischmann and Benesch, read
+
+A parallel in consumer design, not evidence ([LIT-3136](../literature.d/LIT-3136.md), [NOTE-2359](../notes.d/NOTE-2359.md)). Frischmann and Benesch describe friction placed only on the path away from what a company wants: the iPhone location setting is "A slippery slide in one direction and a steep climb in the other" (p. 410, quoting Frischmann 2021), and "Friction-in-design can be used strategically to fatigue consumers and raise impediments to behaviors that challenge business models" (p. 412). That is this claim's asymmetry, cheap to impose and costly to undo, in an interface rather than in an institution's decisions. Relation: none (an analogy). No status changes.
+
+## Note of 2026-11-23: the cost of asking as power, from "Explain First Contact RL"
+
+A52 §6 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23), in answer to [QUESTION-520](../questions.d/QUESTION-520.md), reaches this claim from the side of inquiry: "the querying side may also seek to exhaust the respondent's limited time. An audit, appeal, or investigation can impose substantial response costs", and "powerful respondents can make querying prohibitively expensive by withholding evidence, complicating standards, or raising the costs of obtaining meaningful review", so "the allocation of inquiry costs is itself a dimension of power. **Who must spend time to make a demand legible, and who must spend time to answer it, are institutional design choices.**" That is this claim with contestation read as a query and its friction as the cost of asking; A52 adds the direction this claim does not state, that a challenger can also impose costs on an institution. A52 also sorts repeated queries as extractive, productive or transformative of the respondent's resources, a passing taxonomy left here. [TERM-085](../terms.d/TERM-085.md)'s practical contestability is the other held entry it uses. No new entry; no status change.
+
+<!-- inactive-ok-file: CLAIM-tmpro73c CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A30 and A32, applied to contracts
+
+A32 §11, citing this claim: "Imagine that one party can expand the
+practical scope of a relationship through ordinary invocation, while the
+other must undertake substantial effort to prevent that expansion from
+becoming established. One party possesses cheap contractual modification.
+The other faces expensive contractual defense." It divides the friction
+into invocation, expansion, contestation, suspension, remedial and exit
+friction, and concludes that a participant "might gain practical control
+over a relationship without acquiring any new formally recognized
+authority, simply because its preferred modifications become easier to
+realize". A30 §9's table of per-party transition costs makes the same
+point. This extends the claim from decisions to the terms of an implicit
+relationship, through the stateful invocation of [CLAIM-tmpsf9hp](CLAIM-tmpsf9hp.md): an
+ordinary use can be a modification, so the friction of imposing it can be
+near zero. A related mechanism, control over which relationship an act
+invokes, is [CLAIM-tmpro73c](CLAIM-tmpro73c.md). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A36 §7
+
+A36 §7 adds a fourth cost to this claim's pair: "The costs of imposing,
+contesting, suspending and resolving a decision need not be symmetric",
+written κ_impose, κ_contest, κ_suspend and κ_resolve. "An institution can
+provide robust powers to prevent action without providing equally
+effective pathways for resolving the disagreement that motivated
+prevention." Its example is Senate cloture, where ending debate
+"generally requires three-fifths of senators duly chosen and sworn, with
+exceptions and different procedures for certain matters" (A36's
+statement, which agrees with Senate Rule XXII as the assistant knows it).
+In SRE terms: "A lock whose holders cannot reliably resolve contention can
+produce starvation or deadlock."
+
+<!-- inactive-ok-block: CLAIM-711 — Proposed; cited for A36's gloss -->
+Bearing: an extension. This claim separates the cost of imposing from the
+cost of questioning, suspending or reversing; A36 adds that a cheap power
+to suspend can coexist with a costly path to resolution, so that the
+second gap can open on the side of those who contest as well as those who
+impose. A36's table of "Productive friction" against "Pathological
+friction" ("Prevents irreversible mistakes" against "Prevents correction
+of acknowledged deficiencies") is its gloss on [CLAIM-710](CLAIM-710.md) and [CLAIM-711](CLAIM-711.md).
+No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

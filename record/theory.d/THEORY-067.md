@@ -57,7 +57,7 @@ corroborates:
 <!-- inactive-ok-file: LIT-583 LIT-573 — Unavailable; the book behind the précis and Schelling's 1984 lecture, named as unread originals, not leaned on -->
 <!-- inactive-ok-file: THEORY-056 THEORY-029 THEORY-047 — Proposed; accounts this one bears on, with the bearing stated and nothing resting on them -->
 <!-- inactive-ok-file: THEORY-070 THEORY-062 — new in this batch; accounts this one is set against or beside -->
-<!-- inactive-ok-file: THEORY-tmp353ez THEORY-tmpx5wbu LIT-tmpk7imr LIT-tmpqbo3w — new or Unavailable; the LEAD-078 readings and the two works it registered unread, cited in the dated note -->
+<!-- inactive-ok-file: THEORY-2236 THEORY-2237 LIT-3115 LIT-3116 — new or Unavailable; the LEAD-078 readings and the two works it registered unread, cited in the dated note -->
 
 # THEORY-067: Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one
 
@@ -244,7 +244,7 @@ the rewards and the choice set unchanged
 (scratch/studies/lead-078/search.md). Two works were read and two
 registered unread.
 
-- **Khan and Dhar ([LIT-tmpgi12m](../literature.d/LIT-tmpgi12m.md), [THEORY-tmp353ez](THEORY-tmp353ez.md)), read: meets (1) in
+- **Khan and Dhar ([LIT-3113](../literature.d/LIT-3113.md), [THEORY-2236](THEORY-2236.md)), read: meets (1) in
   part.** Knowing that the same choice recurs, with nothing said about how
   the choices relate, *raised* the vice share (70-90% against 46.6-57.5%
   in isolation) and the share taking smaller sooner money (64.5% against
@@ -263,7 +263,7 @@ registered unread.
   the précis says short-range interests look for ([NOTE-443](../notes.d/NOTE-443.md), §6.1). So
   the account needs the precedent to be perceived; the series alone is
   not enough, and can cut the other way.
-- **Schuhr ([LIT-tmpj7m62](../literature.d/LIT-tmpj7m62.md), [THEORY-tmpx5wbu](THEORY-tmpx5wbu.md)), read in part: bundling,
+- **Schuhr ([LIT-3114](../literature.d/LIT-3114.md), [THEORY-2237](THEORY-2237.md)), read in part: bundling,
   not self-prediction.** In a real-money experiment designed with Ainslie,
   a free series of paired decisions, chosen at once, made first choices
   more patient and raised the mixture weight on exponential discounting by
@@ -278,8 +278,8 @@ registered unread.
   what matters is whether the present choice is taken to predict the
   later ones. It is the assistant's reading across two studies, not a
   result of either.
-- **Registered, unread.** Kirby and Guastello ([LIT-tmpk7imr](../literature.d/LIT-tmpk7imr.md)), the study
-  (1) names, and Hofmeyr, Ainslie, Charlton and Ross ([LIT-tmpqbo3w](../literature.d/LIT-tmpqbo3w.md)), whose
+- **Registered, unread.** Kirby and Guastello ([LIT-3115](../literature.d/LIT-3115.md)), the study
+  (1) names, and Hofmeyr, Ainslie, Charlton and Ross ([LIT-3116](../literature.d/LIT-3116.md)), whose
   suggested-series condition is the closest design with money found, are
   both Unavailable: no lawful copy was found.
 

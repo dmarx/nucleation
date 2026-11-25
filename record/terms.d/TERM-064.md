@@ -318,3 +318,25 @@ Seven readings on concept erasure, from the continuation of "Explain String Theo
 - In diffusion models, concepts hidden from text attacks come back under inpainting, noise or classifier guidance (Lu et al. 2025, [LIT-2641](../literature.d/LIT-2641.md), [THEORY-1909](../theory.d/THEORY-1909.md)). A trigger planted before erasure is illegible to the erasure's own bounded search (Braun et al. 2026, [LIT-2637](../literature.d/LIT-2637.md), [THEORY-1911](../theory.d/THEORY-1911.md)).
 
 Two qualifications go beyond what the term says. First, the observer's errors also shape what is erased, not only its class: a concept probe leans on correlated task features, so removal guided by it damages the task and leaves the concept (Kumar, Tan & Sharma 2022, [LIT-2653](../literature.d/LIT-2653.md), [THEORY-1886](../theory.d/THEORY-1886.md)). Second, a strong enough observer may supply a distinction rather than recover it. Lu et al. name this limit, and it applies to Reisizadeh et al.'s forget-trained probes. The term has no place for an observer that induces the distinction it reports. The readings leave open whether that belongs to legibility or to a separate notion. None of them changes the definition. No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', U27 and A42
+
+<!-- inactive-ok-file: CLAIM-tmp9xge5 CLAIM-tmplm3mz CLAIM-tmpefeb7 CLAIM-tmp3cywa — Proposed; filed from U27 and A42 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+
+The owner's U27 asks the record to account for "the vulnerability of
+legibility as a control surface for imposing coercive domination"
+([CLAIM-tmp9xge5](../claims.d/CLAIM-tmp9xge5.md)). A42 §1 starts from this term's direction ("It explicitly
+recognizes that the two can vary independently") and crosses the two
+directions into four regimes, from "Protected autonomy" to "Surveillance
+asymmetry"; the grid is a labelling of the direction, not filed apart. It
+reads the term rightly, including that Scott "remains unavailable there".
+Three uses follow. A42 §2's control surface, "the set of distinctions about
+a process that another process can use to make consequential interventions
+upon it", is this term's legibility to a governor for the task of
+intervening ([CLAIM-tmplm3mz](../claims.d/CLAIM-tmplm3mz.md)). A42 §9 applies the term's score to two task
+families, justified and unjustified, L₊(M) and L₋(M) ([CLAIM-tmp3cywa](../claims.d/CLAIM-tmp3cywa.md)).
+And A42 §5's monitoring that produces the conformity it records
+([CLAIM-tmpefeb7](../claims.d/CLAIM-tmpefeb7.md)) is a case of the observer this term, by its note of
+2026-11-15, "has no place for": one that induces the distinction it
+reports. Bearing: applications and one instance of the open point. The
+term is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

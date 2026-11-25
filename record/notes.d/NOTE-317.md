@@ -39,7 +39,7 @@ summary: >-
   both layers, *without* a collapse (Fig. 6, Table 2). That undercuts its
   headline claim that α < 2 "invariably" heralds collapse.
 ---
-<!-- inactive-ok-file: THEORY-tmpw4qgu — Proposed; the readings of 2026-11-22 cited in the notes -->
+<!-- inactive-ok-file: THEORY-2173 — Proposed; the readings of 2026-11-22 cited in the notes -->
 
 # NOTE-317: Grokking and Generalization Collapse: Insights from HTSR theory
 
@@ -182,8 +182,8 @@ Measure each layer by the tail exponent of its weight-matrix eigenvalue density.
 
 ## Note of 2026-11-22: Clauset, Shalizi and Newman, read
 
-**Method source** ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-tmphbwdu](NOTE-tmphbwdu.md); the reading is
-[THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)). The spectral-tail fit this note describes, MLE with
+**Method source** ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-2262](NOTE-2262.md); the reading is
+[THEORY-2173](../theory.d/THEORY-2173.md)). The spectral-tail fit this note describes, MLE with
 λ_min chosen to minimise the KS distance, is that paper's procedure. Its
 warnings bear on the α the note reports: "a large p-value does not
 necessarily mean the power law is the correct distribution for the data"

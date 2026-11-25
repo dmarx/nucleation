@@ -47,3 +47,24 @@ Where the record names it:
 
 Behaviours that appear only with a given feature answer [QUESTION-285](../questions.d/QUESTION-285.md) rung
 by rung.
+
+## Note of 2026-11-22: built and run
+
+<!-- inactive-ok-block: CLAIM-1141 CLAIM-1110 — new; the runs and claims filed from this lead -->
+Carried out by a delegated lead worker; code, tests and results under
+scratch/studies/lead-177/. Two executed studies:
+- [CASE-421](../cases.d/CASE-421.md): the alarm-world rungs on one sensor channel (the fail-safe
+  relay, the tester, the four-probe diagnoser, and a diagnoser that revises
+  its test schedule from its record of real fires), and [CASE-239](../cases.d/CASE-239.md)'s forager
+  with its five arms, a features-only freeze, two learning rules and two
+  replacements of its target. Claims: [CLAIM-1149](../claims.d/CLAIM-1149.md) (revising which features
+  count is needed only where the warning sign is new to the forager), and
+  two alternative readings of the target-replacement control for the owner,
+  [CLAIM-1141](../claims.d/CLAIM-1141.md) and [CLAIM-1110](../claims.d/CLAIM-1110.md).
+- [CASE-390](../cases.d/CASE-390.md): the sensor network revising its correspondences. Claim:
+  [CLAIM-1183](../claims.d/CLAIM-1183.md) (an anchor the revision can neither rewrite nor refuse).
+
+What remains: a learner that can make a probe or a variable it lacks (both
+constructions choose among features they already sense); a network that
+places its own beacons; changes of other sizes. Choosing between
+[CLAIM-1141](../claims.d/CLAIM-1141.md) and [CLAIM-1110](../claims.d/CLAIM-1110.md) is the owner's.

@@ -55,21 +55,21 @@ case it cannot price without a new term is a counterexample to the single
 trade.
 
 ## Note of 2026-11-22: what was done, and what remains
-<!-- inactive-ok-file: CASE-tmpo2iur CLAIM-tmpeklli CLAIM-tmpn0u3a — new; filed by this lead's run of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-891 — new; filed by this lead's run of 2026-11-22 -->
 
 The model was written with the four terms named here, [CLAIM-303](../claims.d/CLAIM-303.md)'s,
 [CLAIM-761](../claims.d/CLAIM-761.md)'s per-demand budget and revision, and [CLAIM-760](../claims.d/CLAIM-760.md)'s parties, as code
 with tests (scratch/studies/lead-108/), and the three cases were priced with
-it ([CASE-tmpo2iur](../cases.d/CASE-tmpo2iur.md)). No case needed a term the others lack, so the single
-trade survives this test ([CLAIM-tmpeklli](../claims.d/CLAIM-tmpeklli.md)). The four terms alone would not
+it ([CASE-326](../cases.d/CASE-326.md)). No case needed a term the others lack, so the single
+trade survives this test ([CLAIM-891](../claims.d/CLAIM-891.md)). The four terms alone would not
 have priced the cockpit: it is carried by the price of work at the moment it
 is done, and by the budget on final approach. Erosion's weight follows from
-the model ([CLAIM-tmpn0u3a](../claims.d/CLAIM-tmpn0u3a.md)).
+the model ([CLAIM-892](../claims.d/CLAIM-892.md)).
 
 What remains: every cockpit value and part of the filing values are
 illustrative, so the verdicts are about which terms carry each case, not
 about savings. Two strains could still need a term (correlated staleness
 across an approach; a bug's prompting of the demand). Three choices that
-decide the sign of a filing's saving are the owner's ([CLAIM-tmpeklli](../claims.d/CLAIM-tmpeklli.md), "Choices
+decide the sign of a filing's saving are the owner's ([CLAIM-891](../claims.d/CLAIM-891.md), "Choices
 that are the owner's"). The LEGO case needs use counts and how the owner's
 bins are found. Stage and status are unchanged.

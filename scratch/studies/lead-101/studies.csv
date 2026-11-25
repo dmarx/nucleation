@@ -1,0 +1,9 @@
+study,sample,outcome_measure,measures_harm_weighing,post_window_estimated,reputation_fixed,benefit_fixed,term,panel,beta,t,source
+gallo2023,"193 N/DPAs with listed firms, 2001-2019; about a third with a monitor",log count of penalised violations (Violation Tracker),no (detected and penalised violations),yes,no,no,Treat x During Probation,5A col 1,-0.267,-2.610,"Table 5, panel A"
+gallo2023,,,,,,,Treat x Post Probation,5A col 1,-0.091,-0.870,"Table 5, panel A"
+gallo2023,,,,,,,Treat x During Probation,5B col 1 (CEM),-0.284,-2.148,"Table 5, panel B"
+gallo2023,,,,,,,Treat x Post Probation,5B col 1 (CEM),-0.145,-1.072,"Table 5, panel B"
+gallo2023,,,,,,,Treat x During Probation,5C col 1 (entropy),-0.313,-2.234,"Table 5, panel C"
+gallo2023,,,,,,,Treat x Post Probation,5C col 1 (entropy),-0.022,-0.168,"Table 5, panel C"
+gallo2023,,,,,,,Board Changes x Post Probation,5A col 2,-0.168,-1.709,"Table 5, panel A"
+gallo2023,,,,,,,Board Changes x Post Probation,5B col 2 (CEM),-0.280,-2.298,"Table 5, panel B"

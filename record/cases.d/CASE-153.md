@@ -52,7 +52,7 @@ summary: >-
   [CASE-092](CASE-092.md) and [CASE-099](CASE-099.md). At U18 the owner pointed to [CASE-124](CASE-124.md) as the better
   core, and the exchange moved there ([CASE-156](CASE-156.md)). Not run.
 ---
-<!-- inactive-ok-file: CASE-tmpxmuri CLAIM-tmpqp1h6 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date -->
+<!-- inactive-ok-file: CLAIM-924 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date -->
 <!-- inactive-ok-file: THEORY-2016 THEORY-2029 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
@@ -212,7 +212,7 @@ No status change.
 ## Note of 2026-11-22: run in full
 
 [LEAD-076](../leads.d/LEAD-076.md) ran the design with hidden state and the sentry's restriction of
-evidence. The run is [CASE-tmpxmuri](CASE-tmpxmuri.md), with code in
+evidence. The run is [CASE-346](CASE-346.md), with code in
 scratch/studies/lead-076/. It covers the five-condition first experiment
 and the factorial, with both correction rights and fixed authority as a
 third feedback level. It also runs the four interventions of [CLAIM-446](../claims.d/CLAIM-446.md)'s
@@ -229,8 +229,8 @@ test, a phase diagram over κ and η, and checks of sensitivity.
   the extra authority state has not earned its place." Under success
   feedback the authority update is the habit trace, and the matched habit
   reproduces every intervention it can receive. Only the audit and
-  reinforcement made independent tell them apart. [CLAIM-tmpqp1h6](../claims.d/CLAIM-tmpqp1h6.md) states
+  reinforcement made independent tell them apart. [CLAIM-924](../claims.d/CLAIM-924.md) states
   this and sets out two readings for the owner.
 
 The design left the reward structure open. The run adds a posture decision
-(protect or engage), as [CASE-tmpxmuri](CASE-tmpxmuri.md) says. The case is unchanged.
+(protect or engage), as [CASE-346](CASE-346.md) says. The case is unchanged.

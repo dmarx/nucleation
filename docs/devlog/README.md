@@ -6,6 +6,18 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## Currently — [November 2026](2026-11.md)
 
+- [24 Nov 20:19 — A red docs-lint on main silently skips the back-merge into staging](2026-11.md#a-red-docs-lint-on-main-silently-skips-the-back-merge-into-staging)
+- [23 Nov 03:45 — The write-manuscript protocol was first written from one manuscript's README, not from the record of how that manuscript was made](2026-11.md#the-write-manuscript-protocol-was-first-written-from-one-manuscripts-readme-not-from-the-record-of-how-that-manuscript-was-made)
+- [23 Nov 03:20 — An owner's request to file a manuscript as a work was read as a LIT, when the record has a works vocabulary for it](2026-11.md#an-owners-request-to-file-a-manuscript-as-a-work-was-read-as-a-lit-when-the-record-has-a-works-vocabulary-for-it)
+- [23 Nov 01:05 — Resumable study scripts that were resumable only when nothing went wrong](2026-11.md#resumable-study-scripts-that-were-resumable-only-when-nothing-went-wrong)
+- [23 Nov 00:53 — A code-rewriting merge step overwrote the temporary codes in formerly lists, on fifty-six entries](2026-11.md#a-code-rewriting-merge-step-overwrote-the-temporary-codes-in-formerly-lists-on-fifty-six-entries)
+- [22 Nov 22:55 — Filing a seventeen-turn exchange: five section workers in one tree, with the thesis that runs across their sections kept for the lead](2026-11.md#filing-a-seventeen-turn-exchange-five-section-workers-in-one-tree-with-the-thesis-that-runs-across-their-sections-kept-for-the-lead)
+- [22 Nov 15:59 — A dynamics reading lead: per-work commits held a fifteen-work reading batch together, and one careless shell command broke /dev/null for every worker on the machine](2026-11.md#a-dynamics-reading-lead-per-work-commits-held-a-fifteen-work-reading-batch-together-and-one-careless-shell-command-broke-devnull-for-every-worker-on-the-machine)
+- [22 Nov 10:40 — Going wrong: work held until the end was lost or put at risk three ways in one day, though the morning's note had already drawn the lesson](2026-11.md#going-wrong-work-held-until-the-end-was-lost-or-put-at-risk-three-ways-in-one-day-though-the-mornings-note-had-already-drawn-the-lesson)
+- [22 Nov 07:35 — Going right: a claim of the record's own was run against the defeater it stated in advance, and failed it; the admission written a day earlier had named the route and the sentence that would survive it](2026-11.md#going-right-a-claim-of-the-records-own-was-run-against-the-defeater-it-stated-in-advance-and-failed-it-the-admission-written-a-day-earlier-had-named-the-route-and-the-sentence-that-would-survive-it)
+- [22 Nov 04:15 — Going right: relaying each reading as it returned caught overreaching support judgements before they were filed; going wrong: a usage limit stopped all three filers at once, and the branch took work-in-progress commits](2026-11.md#going-right-relaying-each-reading-as-it-returned-caught-overreaching-support-judgements-before-they-were-filed-going-wrong-a-usage-limit-stopped-all-three-filers-at-once-and-the-branch-took-work-in-progress-commits)
+- [22 Nov 00:44 — Going wrong, caught by the owner: read the owner's bulk as the many directions when the owner meant the dominant ones, and treated a falling training loss as less than learning](2026-11.md#going-wrong-caught-by-the-owner-read-the-owners-bulk-as-the-many-directions-when-the-owner-meant-the-dominant-ones-and-treated-a-falling-training-loss-as-less-than-learning)
+- [21 Nov 22:58 — Going wrong, caught by CI: merging a pull request into staging while a promotion's docs-generate was running made the back-merge conflict on the two files both had changed](2026-11.md#going-wrong-caught-by-ci-merging-a-pull-request-into-staging-while-a-promotions-docs-generate-was-running-made-the-back-merge-conflict-on-the-two-files-both-had-changed)
 - [21 Nov 22:30 — Earmarked for the retro: in the dialectic regime the owner wants to follow the filing in the chat, by thinking out loud and periodic executive summaries, not only through the staging pull request](2026-11.md#earmarked-for-the-retro-in-the-dialectic-regime-the-owner-wants-to-follow-the-filing-in-the-chat-by-thinking-out-loud-and-periodic-executive-summaries-not-only-through-the-staging-pull-request)
 - [21 Nov 21:27 — Going wrong, caught by the owner: Rejected arguments titled with their conclusions, so that rejecting a route read as rejecting a conclusion the owner thinks probably true](2026-11.md#going-wrong-caught-by-the-owner-rejected-arguments-titled-with-their-conclusions-so-that-rejecting-a-route-read-as-rejecting-a-conclusion-the-owner-thinks-probably-true)
 - [21 Nov 18:29 — Going wrong, caught by the owner: asked the owner which of three senses of separability was meant instead of filing all three, against the dialectic regime's rule on readings](2026-11.md#going-wrong-caught-by-the-owner-asked-the-owner-which-of-three-senses-of-separability-was-meant-instead-of-filing-all-three-against-the-dialectic-regimes-rule-on-readings)
@@ -21,8 +33,8 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## All books
 
-12 entries across 1 book, newest first.
+24 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 12 | 2026-11-21 | 2026-11-21 |
+| [2026-11](2026-11.md) | 24 | 2026-11-21 | 2026-11-24 |

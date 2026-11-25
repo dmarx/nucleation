@@ -52,7 +52,7 @@ bears_on:
 - QUESTION-507
 ---
 <!-- inactive-ok-file: THEORY-1314 — Proposed; Jennings's account, which this claim is about -->
-<!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2179 — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
 
 # CLAIM-692: The neural signature Jennings offers for an emergent subject's constraint on its parts, 1/f scaling and phase-amplitude coupling tied to attention, does not discriminate a macro-level constraint from micro-level mechanism: 1/f structure is present in every field recording, a coupling measure can be met by one non-sinusoidal rhythm, and the attention coupling it cites is a correlation with no control of waveform shape
 
@@ -106,7 +106,7 @@ contextual emergence, by denying supervenience, owes.
 ## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
 
 **A contrast, and background.** Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), read
-in full in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md); the reading is [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)), the founding
+in full in [NOTE-2269](../notes.d/NOTE-2269.md); the reading is [THEORY-2179](../theory.d/THEORY-2179.md)), the founding
 letter of self-organized criticality, offer 1/f noise as that
 mechanism's signature: "Our picture of 1/f spectra is that it reflects
 the dynamics of a self-organized critical state of minimally stable

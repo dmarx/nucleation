@@ -29,10 +29,10 @@ summary: >-
   positive fact and the relation between signs opposition. The support is
   argument by example.
 ---
-<!-- inactive-ok-file: THEORY-tmp7i21v, THEORY-tmplzcav, THEORY-tmpqveji — Proposed; readings filed by LEAD-056, cited for what they show -->
-<!-- inactive-ok-file: LIT-tmpntsdw — Unfetched; the Nafaanra paper, not reached -->
-<!-- inactive-ok-file: LIT-tmp7ifjq, LIT-tmpvrfq6, LIT-tmpzl83q, LIT-tmpzfual — Deferred; registered by LEAD-056, unread -->
-<!-- inactive-ok-file: ARG-tmpcpvnb — Proposed; the support judgement filed by LEAD-056 -->
+<!-- inactive-ok-file: THEORY-2238, THEORY-2239, THEORY-2240 — Proposed; readings filed by LEAD-056, cited for what they show -->
+<!-- inactive-ok-file: LIT-3106 — Unfetched; the Nafaanra paper, not reached -->
+<!-- inactive-ok-file: LIT-3109, LIT-3110, LIT-3112, LIT-3111 — Deferred; registered by LEAD-056, unread -->
+<!-- inactive-ok-file: ARG-205 — Proposed; the support judgement filed by LEAD-056 -->
 
 # THEORY-159: In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value
 
@@ -121,29 +121,29 @@ scratch/studies/lead-056/search.md). None was found that changes a
 language's inventory and measures the neighbours' use against terms
 outside the field. Three readings come nearest, and none meets it.
 
-- **Nafaanra** ([THEORY-tmp7i21v](THEORY-tmp7i21v.md), from the abstract [LIT-tmpom3sr](../literature.d/LIT-tmpom3sr.md); the
-  journal paper [LIT-tmpntsdw](../literature.d/LIT-tmpntsdw.md) was not reached): colour terms added between
+- **Nafaanra** ([THEORY-2238](THEORY-2238.md), from the abstract [LIT-3107](../literature.d/LIT-3107.md); the
+  journal paper [LIT-3106](../literature.d/LIT-3106.md) was not reached): colour terms added between
   1978 and 2017, and the three older terms "now name smaller categories".
   An addition with the neighbours yielding, stated without figures and
   with no outside-field control; contact with English is a rival cause.
-- **Tsimane' bilinguals** ([THEORY-tmplzcav](THEORY-tmplzcav.md), [LIT-tmpyky5z](../literature.d/LIT-tmpyky5z.md)): with the colour
+- **Tsimane' bilinguals** ([THEORY-2239](THEORY-2239.md), [LIT-3108](../literature.d/LIT-3108.md)): with the colour
   field's contrasts multiplied, every studied term but purple narrows and
   neighbouring terms overlap less. A split of a shared category rather
   than an addition of a word, measured against monolingual speakers, not
   against terms outside the field, and driven from outside the language
   state (Spanish, or culture).
-- **Karjus et al.** ([THEORY-tmpqveji](THEORY-tmpqveji.md), [LIT-tmpfcwau](../literature.d/LIT-tmpfcwau.md)): across five corpora a
+- **Karjus et al.** ([THEORY-2240](THEORY-2240.md), [LIT-3105](../literature.d/LIT-3105.md)): across five corpora a
   rising word's frequency gain is offset by its near neighbours' losses
   when its topic is stable, by distant words' when its topic is rising.
   The near-against-far comparison is the outside-field control the
   promote_when wants, but the response is frequency, not use or
   interpretation.
 
-The first two show the shape this account predicts ([ARG-tmpcpvnb](../arguments.d/ARG-tmpcpvnb.md)), but in
+The first two show the shape this account predicts ([ARG-205](../arguments.d/ARG-205.md)), but in
 colour a new term must take its region from the old ones on almost any
 account, so without terms outside the field they do not discriminate.
-Registered unread as further candidates: [LIT-tmp7ifjq](../literature.d/LIT-tmp7ifjq.md) (bilingual container
-naming converging), [LIT-tmpvrfq6](../literature.d/LIT-tmpvrfq6.md) (Greek blues), [LIT-tmpzl83q](../literature.d/LIT-tmpzl83q.md) (near-synonyms
+Registered unread as further candidates: [LIT-3109](../literature.d/LIT-3109.md) (bilingual container
+naming converging), [LIT-3110](../literature.d/LIT-3110.md) (Greek blues), [LIT-3112](../literature.d/LIT-3112.md) (near-synonyms
 differentiating or changing in parallel, against control pairs) and
-[LIT-tmpzfual](../literature.d/LIT-tmpzfual.md) (where neologisms arise). The promote_when stays unmet; the
+[LIT-3111](../literature.d/LIT-3111.md) (where neologisms arise). The promote_when stays unmet; the
 status is unchanged.

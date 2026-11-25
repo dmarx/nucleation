@@ -24,7 +24,7 @@ summary: >-
   both halves. Named in [QUESTION-025](../questions.d/QUESTION-025.md) and [QUESTION-178](../questions.d/QUESTION-178.md). Filed by the
   backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CLAIM-tmpe87cm CASE-tmpby7xp — new, filed today by this lead's run -->
+<!-- inactive-ok-file: CASE-344 — new, filed today by this lead's run -->
 
 # LEAD-147: Derive the PMI spectrum of a co-occurrence model with implication among binary attributes, and measure PMI additivity across a known hierarchy and across analogy families
 
@@ -55,13 +55,13 @@ answers [QUESTION-025](../questions.d/QUESTION-025.md); a measured departure fro
 Both halves were done on the branch claude/lead-147-pmi-spectrum. The
 scripts, tests and per-item results are in scratch/studies/lead-147/.
 
-- **Derivation.** [CLAIM-tmpe87cm](../claims.d/CLAIM-tmpe87cm.md) (demonstrated). Under multiplicative
+- **Derivation.** [CLAIM-902](../claims.d/CLAIM-902.md) (demonstrated). Under multiplicative
   co-occurrence with any implication order and positive strengths, every
   attribute is an exact readout of the full-rank PMI embedding. On a
   balanced tree, the spectrum is branch contrasts with eigenvalues
   ordered by depth, so truncation keeps exactly the shallow attributes.
   Along a tree, additivity reduces to group constancy.
-- **Measurement.** [CASE-tmpby7xp](../cases.d/CASE-tmpby7xp.md), on text8 with WordNet 3.0 and the
+- **Measurement.** [CASE-344](../cases.d/CASE-344.md), on text8 with WordNet 3.0 and the
   word2vec analogy set. In every analogy family the PMI is far from
   additive (interaction share 0.21–0.30 against 0.33 for random
   quadruples). The families and quadruples nearer additivity complete

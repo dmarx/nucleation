@@ -48,13 +48,13 @@ summary: >-
   record had no claim relating them. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2179 — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: TERM-142 TERM-139 CLAIM-810 CLAIM-846 ARG-129 — filed with this claim on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2041 — Proposed; the order-to-chaos transition in random deep networks -->
 <!-- inactive-ok-file: THEORY-2158 CLAIM-809 — Proposed; the reading of 2026-11-21 and the claim it bears on -->
 
-<!-- inactive-ok-file: THEORY-tmps8t83 LIT-2991 — Proposed or Unavailable; the reading of the NIPS 2004 companion and the work it stands in for, 2026-11-22 -->
-<!-- inactive-ok-file: THEORY-tmpye6xs LIT-tmpfn6b8 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22, and the Deferred work it names -->
+<!-- inactive-ok-file: THEORY-2204 LIT-2991 — Proposed or Unavailable; the reading of the NIPS 2004 companion and the work it stands in for, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2168 LIT-3028 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22, and the Deferred work it names -->
 
 # CLAIM-850: Chaos, criticality and a cascade through scales are distinct properties, and each can occur without either of the others; they meet only through particular mechanisms, such as the period-doubling accumulation point, which is critical in the renormalization-group sense and not chaotic
 
@@ -163,17 +163,17 @@ reading's bearing on computation is filed on [CLAIM-809](CLAIM-809.md).
 
 ## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg and Levina, read
 
-Weak support, by statement ([NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md), [THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md)). The paper
+Weak support, by statement ([NOTE-2259](../notes.d/NOTE-2259.md), [THEORY-2168](../theory.d/THEORY-2168.md)). The paper
 distinguishes "absorbing-to-active, transition to chaos, or a
 bifurcation" as transitions whose optimal side can differ, citing
-Toyoizumi and Abbott ([LIT-tmpfn6b8](../literature.d/LIT-tmpfn6b8.md), registered, Deferred) for the chaos
+Toyoizumi and Abbott ([LIT-3028](../literature.d/LIT-3028.md), registered, Deferred) for the chaos
 side. It treats branching criticality only, and does not show that the
 three are distinct properties; no relation is written.
 
 ## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
 
-**Background.** Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md),
-[THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)) call their critical state one of "minimally stable"
+**Background.** Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), [NOTE-2269](../notes.d/NOTE-2269.md),
+[THEORY-2179](../theory.d/THEORY-2179.md)) call their critical state one of "minimally stable"
 clusters that have stopped percolating (p. 382). That is not the
 "marginal stability" of the note above, the loss of linear stability of
 one fixed point: theirs is spatially extended and is, on their account,
@@ -185,8 +185,8 @@ edge. Status unchanged.
 ## Note of 2026-11-22: Natschläger, Bertschinger and Legenstein, read
 
 **Qualifies "Where they meet": a further mechanism**, no edge. In driven
-random threshold networks ([LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md), read in [NOTE-tmpi5t3r](../notes.d/NOTE-tmpi5t3r.md) in place
-of Bertschinger and Natschläger, [LIT-2991](../literature.d/LIT-2991.md); [THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md)), the
+random threshold networks ([LIT-3058](../literature.d/LIT-3058.md), read in [NOTE-2288](../notes.d/NOTE-2288.md) in place
+of Bertschinger and Natschläger, [LIT-2991](../literature.d/LIT-2991.md); [THEORY-2204](../theory.d/THEORY-2204.md)), the
 order-to-chaos line is K·P_bf = 1: one flipped node flips on average one
 node at the next step. The onset of chaos there is a branching ratio of
 one, of perturbations, not of activity, which "can vary considerably"

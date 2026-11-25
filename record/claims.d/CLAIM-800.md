@@ -9,10 +9,10 @@ history:
 - version: 2
   date: '2026-11-22'
   note: >-
-    After the reading of LIT-2957 (NOTE-tmpl260d, THEORY-tmp8sxta). The
+    After the reading of LIT-2957 (NOTE-2276, THEORY-2185). The
     parenthesis calling the work unread is updated in place, with what the
     reading found "recoverable by clustering" to mean; LIT-2957 is replaced
-    in the grounds by its reading (ARG-tmp96ygx). The thesis and status are
+    in the grounds by its reading (ARG-186). The thesis and status are
     unchanged.
 role: thesis
 warrant: demonstrated
@@ -34,7 +34,7 @@ bears_on:
 - QUESTION-512
 - QUESTION-217
 grounds:
-- THEORY-tmp8sxta
+- THEORY-2185
 - THEORY-846
 summary: >-
   A35 §4–§6 of the exchange "Rich Get Richer Power Laws" (2026-11-21),
@@ -48,7 +48,7 @@ summary: >-
   across levels. The wording is A's (the other assistant in the exchange
   "Rich Get Richer Power Laws", A35); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ARG-tmp96ygx THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: ARG-186 THEORY-2185 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-800: Occupancy of entailment cones is not a measure of learning: it rises when cone boundaries move as well as when representations flow, it rises under collapse, and nested cones make a coarse concept's cone entered no later than a fine one's by construction, so coarse-to-fine learning needs an independent measure of when each level's distinction becomes decodable
 
@@ -85,7 +85,7 @@ coarse-to-fine learning predicts the first term saturating before the
 second rises. But fine structure can sit latent under coarse labels:
 representations trained on coarse labels keep finer structure recoverable
 by clustering (Yang, Steinhardt and Hu, [LIT-2957](../literature.d/LIT-2957.md), read 2026-11-22 as
-[THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md): label-free clustering followed by a linear probe, so the
+[THEORY-2185](../theory.d/THEORY-2185.md): label-free clustering followed by a linear probe, so the
 fine structure is linearly decodable, in ResNet and DenseNet and not in
 VGG; changed in place, version 2), so both the information present and the information accessible
 to restricted decoders should be measured. And a matched null: A35 §9's
@@ -109,9 +109,9 @@ information and the usable version measured level by level instead.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md)) were read ([NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md); the reading
-is [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)). **Supports, and qualifies the direction of §6's
-prediction** ([ARG-tmp96ygx](../arguments.d/ARG-tmp96ygx.md)).
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md)) were read ([NOTE-2276](../notes.d/NOTE-2276.md); the reading
+is [THEORY-2185](../theory.d/THEORY-2185.md)). **Supports, and qualifies the direction of §6's
+prediction** ([ARG-186](../arguments.d/ARG-186.md)).
 
 - **Supports.** On five coarse labels "Neural Collapse does happen", NC1
   going to zero, while label-free clustering plus a linear probe recovers

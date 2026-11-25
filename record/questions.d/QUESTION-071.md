@@ -333,16 +333,16 @@ The question stays Open.
 
 ## Note of 2026-11-22: a case pair, and an answer offered for each part
 
-<!-- inactive-ok-file: CASE-tmpj29sq CASE-tmp06m60 CLAIM-tmpz9dqf CLAIM-tmp9jo1z CLAIM-tmpner6t — new; filed for LEAD-038 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-310 CASE-309 CLAIM-868 CLAIM-866 CLAIM-867 — new; filed for LEAD-038 on 2026-11-22 -->
 
-[LEAD-038](../leads.d/LEAD-038.md) wrote the pair this question asks for: [CASE-tmpj29sq](../cases.d/CASE-tmpj29sq.md), a will
+[LEAD-038](../leads.d/LEAD-038.md) wrote the pair this question asks for: [CASE-310](../cases.d/CASE-310.md), a will
 whose precedence was installed by one outside input that lands on exactly
-its twin's state, and [CASE-tmp06m60](../cases.d/CASE-tmp06m60.md), the twin, who reached it by his own
+its twin's state, and [CASE-309](../cases.d/CASE-309.md), the twin, who reached it by his own
 revision. What is stipulated is one state at one time, not that the two
 organizations are identical, so the pair is not the indistinguishability
 by definition that the note of 2026-10-21 set aside.
 
-- **Part 1.** [CLAIM-tmpz9dqf](../claims.d/CLAIM-tmpz9dqf.md) (Proposed) answers that, for a manipulation
+- **Part 1.** [CLAIM-868](../claims.d/CLAIM-868.md) (Proposed) answers that, for a manipulation
   that withdraws its channel, the will line's notion of organization is
   one more structural condition: maintenance, transformation and the
   response to intervention are all fixed by present state, dynamics and
@@ -352,8 +352,8 @@ by definition that the note of 2026-10-21 set aside.
   match.
 - **A standing channel.** Whether a manipulator's retained channel, as in
   Pereboom's Case 1, is a feature of will-organization is filed as two
-  alternatives, [CLAIM-tmp9jo1z](../claims.d/CLAIM-tmp9jo1z.md) (yes) and [CLAIM-tmpner6t](../claims.d/CLAIM-tmpner6t.md) (no).
-- **Part 2.** [CLAIM-tmpz9dqf](../claims.d/CLAIM-tmpz9dqf.md) lists what a record of formation must
+  alternatives, [CLAIM-866](../claims.d/CLAIM-866.md) (yes) and [CLAIM-867](../claims.d/CLAIM-867.md) (no).
+- **Part 2.** [CLAIM-868](../claims.d/CLAIM-868.md) lists what a record of formation must
   contain: which channel (own, another agent's, none) carried each
   governing relation, the transformation relation included, across its
   threshold; kept while it ran and outside the state a manipulator could
@@ -362,3 +362,36 @@ by definition that the note of 2026-10-21 set aside.
   with the awareness test of [THEORY-235](../theory.d/THEORY-235.md).
 
 The question stays Open; whether these answer it is the owner's call.
+
+## Note of 2026-11-22: an evaluator captured with nothing in its own structure showing it
+
+In [LEAD-015](../leads.d/LEAD-015.md)'s two-institution model ([CASE-401](../cases.d/CASE-401.md)), an evaluator whose conferral reads no interpretation keeps its authority exactly balanced while its reading is held by a loop through the party it evaluates ([CLAIM-1202](../claims.d/CLAIM-1202.md)). Its present structure, procedure and allocation of authority, shows nothing; what shows it is the state of the pair. A model case of an organization governed without its present structure showing it, in which telling it apart needs a record of the other institution's state as well as its own. The question is unchanged.
+
+## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", A7–A10
+
+<!-- inactive-ok-file: CLAIM-tmpp0ufw CLAIM-tmp5tjtg — Proposed or Open; filed from the exchange of 2026-11-24 -->
+
+A7 §6 restates this question's premise for the character of a perspective:
+"χ_{P_A} = χ_{P_B} does not imply that the perspectives share formation
+provenance", and "Even a complete characterization of present organization
+could fail to establish whether it arose through autonomous development,
+ordinary cultural inheritance or an externally directed intervention." That
+is [CLAIM-132](../claims.d/CLAIM-132.md) (a character classifies kinds) with [CASE-191](../cases.d/CASE-191.md)'s result, and
+adds no answer. Two further points bear on the question.
+
+- **A cultural route to manipulation without a present trace.** A7's
+  formation route of reflexive control, [CLAIM-tmpp0ufw](../claims.d/CLAIM-tmpp0ufw.md) (A's, Proposed),
+  is a manipulated will whose installing influence was an expression the
+  target took up and then maintained. [LEAD-tmpuxizu](../leads.d/LEAD-tmpuxizu.md) would build one.
+- **What the history must hold.** A7 §6: "the historical conditions
+  through which a perspective was formed may themselves be unavailable to
+  that perspective. This makes preservation of provenance a potential
+  epistemic resource for reflexive self-governance." A9 §VII: a
+  characterization "might become increasingly accurate as a description of
+  the present while becoming increasingly misleading as an explanation of
+  how the present arose." Both say the record the question asks for is a
+  record of formation, which [TERM-100](../terms.d/TERM-100.md) already names.
+
+A8–A10 propose that the capacity to revise one's own governing relations
+can itself be seeded from outside ([CLAIM-tmp5tjtg](../claims.d/CLAIM-tmp5tjtg.md)), which raises this
+question for that capacity too. The question stays Open.

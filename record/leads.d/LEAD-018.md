@@ -43,20 +43,20 @@ distinction is cited; one that conflicts is filed as an objection.
 
 ## Note of 2026-11-22: read, by a delegated worker
 
-<!-- inactive-ok-block: THEORY-tmpfugkf THEORY-tmpuzicj — Proposed; filed for this lead, and the claims it advances -->
+<!-- inactive-ok-block: THEORY-2234 THEORY-2235 — Proposed; filed for this lead, and the claims it advances -->
 Two works were registered and read from lawful copies: Millikan's own
 statement, "Biosemantics" (Oxford Handbook of Philosophy of Mind, 2009),
-from her pre-print on her faculty page ([LIT-tmpu3jv7](../literature.d/LIT-tmpu3jv7.md), [NOTE-tmpqexrv](../notes.d/NOTE-tmpqexrv.md),
-[THEORY-tmpfugkf](../theory.d/THEORY-tmpfugkf.md)); and the SEP entry "Teleological Theories of Mental
-Content" by Neander and Schulte (2022 revision; [LIT-tmpppa43](../literature.d/LIT-tmpppa43.md),
-[NOTE-tmp60j0q](../notes.d/NOTE-tmp60j0q.md), [THEORY-tmpuzicj](../theory.d/THEORY-tmpuzicj.md)). The 1989 paper was not read: her CV
+from her pre-print on her faculty page ([LIT-3103](../literature.d/LIT-3103.md), [NOTE-2324](../notes.d/NOTE-2324.md),
+[THEORY-2234](../theory.d/THEORY-2234.md)); and the SEP entry "Teleological Theories of Mental
+Content" by Neander and Schulte (2022 revision; [LIT-3104](../literature.d/LIT-3104.md),
+[NOTE-2325](../notes.d/NOTE-2325.md), [THEORY-2235](../theory.d/THEORY-2235.md)). The 1989 paper was not read: her CV
 links only JSTOR for it. Against "What would count":
 
 - **Cited where it gives the distinction.** For [CLAIM-650](../claims.d/CLAIM-650.md) it
   corroborates question (a), with a qualification of the (a)/(b) split
-  ([ARG-tmps4eez](../arguments.d/ARG-tmps4eez.md)).
+  ([ARG-204](../arguments.d/ARG-204.md)).
 - **Filed as an objection where it conflicts.** For [CLAIM-648](../claims.d/CLAIM-648.md) it is
-  [CLAIM-tmp974nn](../claims.d/CLAIM-tmp974nn.md): a norm of the system's own needs a history of
+  [CLAIM-920](../claims.d/CLAIM-920.md): a norm of the system's own needs a history of
   selection or learning.
 
 What remains: Neander's own theory (2017) and Millikan's account of

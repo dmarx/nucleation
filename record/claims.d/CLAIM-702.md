@@ -129,7 +129,7 @@ Cook ([THEORY-1998](../theory.d/THEORY-1998.md)) corroborates the first half, th
 
 ## Note of 2026-11-22: Merton's Matthew effect, read
 
-**A parallel** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md)). Merton documents credit
+**A parallel** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-2268](../notes.d/NOTE-2268.md)). Merton documents credit
 allocated by standing rather than by contribution: "eminent scientists get
 disproportionately great credit for their contributions to science while
 relatively unknown scientists tend to get disproportionately little credit

@@ -136,3 +136,13 @@ A69 §4 and A71 §4 set sophisticated active inference ([THEORY-426](../theory.d
 A's proposal (A69 §4) is to judge an epistemic planner "by the resource-bounded repertoire of successful trajectories it actually produces", and to tell better selection among existing trajectories from expansion of the repertoire. That is this claim's question of reachable against reliably reached, asked of a planner. Nothing was run.
 
 No status change.
+
+## Note of 2026-11-23: the internal evaluator's errors are chosen, from [LEAD-181](../leads.d/LEAD-181.md)
+
+The claim's second qualification separates "Oracle-assessed availability"
+from "Operational success", the evaluator being part of the organization.
+[CASE-396](../cases.d/CASE-396.md) shows the gap made by the organization's own choice: under a
+penalty on recognized violations the institution's internal count ends
+near 0 while the independent count is about 3.4 to 6.1, because it learns
+not to inquire. The study did not use the tolerance axis or the breadth and
+depth budgets of [CASE-249](../cases.d/CASE-249.md)'s pass rate. No status change.

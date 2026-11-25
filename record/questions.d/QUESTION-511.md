@@ -23,11 +23,11 @@ summary: >-
   question it raises. The ordering of the three events and the sorting of
   "weak" by spectrum are A41's, set out in the body as A's.
 ---
-<!-- inactive-ok-file: THEORY-tmpu0f9k THEORY-tmpm3ux2 — Proposed; the readings of Yang and of Lee et al. filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2193 THEORY-2191 — Proposed; the readings of Yang and of Lee et al. filed 2026-11-22 -->
 
-<!-- inactive-ok-file: TERM-tmpf5ymd — Proposed; filed 2026-11-22 -->
+<!-- inactive-ok-file: TERM-143 — Proposed; filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-835 CLAIM-807 CLAIM-828 CLAIM-812 TERM-137 — Proposed or new, filed with this question -->
-<!-- inactive-ok-file: THEORY-tmpthmd7 THEORY-tmpu3iio THEORY-tmpklef6 THEORY-tmpr9w2r LIT-tmp9yy1o LIT-tmpgptvp — Proposed or Deferred; the readings of 2026-11-21, and works registered from them -->
+<!-- inactive-ok-file: THEORY-2161 THEORY-2162 THEORY-2159 THEORY-2160 LIT-3011 LIT-3013 — Proposed or Deferred; the readings of 2026-11-21, and works registered from them -->
 <!-- inactive-ok-file: THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # QUESTION-511: Does recent work on the informativeness of small-eigenvalue subspaces during learning bear on the signature of a transition the exchange proposed, in which a previously weak direction becomes informative, a local degeneracy changes and a new distinction becomes independently decodable?
@@ -118,12 +118,12 @@ itself has no dynamical content beyond its Outlook.
 The four readings leave the question open, and one tells against A41's
 candidate answer.
 
-- **None tracks a direction through training.** Xu ([THEORY-tmpu3iio](../theory.d/THEORY-tmpu3iio.md)) and
-  Acharya et al. ([THEORY-tmpklef6](../theory.d/THEORY-tmpklef6.md)) use final checkpoints; Acharya et al.'s
+- **None tracks a direction through training.** Xu ([THEORY-2162](../theory.d/THEORY-2162.md)) and
+  Acharya et al. ([THEORY-2159](../theory.d/THEORY-2159.md)) use final checkpoints; Acharya et al.'s
   only trajectory is through depth ("Our layer-wise analysis is
-  descriptive"). Song et al. ([THEORY-tmpthmd7](../theory.d/THEORY-tmpthmd7.md)) measure only training-loss
+  descriptive"). Song et al. ([THEORY-2161](../theory.d/THEORY-2161.md)) measure only training-loss
   descent and recompute the subspace at every step, so no direction is
-  followed. Hoogland et al. ([THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)) date stages by the local
+  followed. Hoogland et al. ([THEORY-2160](../theory.d/THEORY-2160.md)) date stages by the local
   learning coefficient, a scalar, not by any direction; they do date event
   2's kind of change against behaviour, at fixed sampler settings.
 - **Quiet in one metric, loud in another.** Xu's bottom band is quiet in
@@ -135,7 +135,7 @@ candidate answer.
   which. "Concepts Whisper" uses the phrase itself ("word-level semantics
   occupy the spectrally quiet subspace"), in that logit-metric sense.
 - **A test the record could run.** Xu's suggested training origin, after
-  Thrampoulidis ([LIT-tmp9yy1o](../literature.d/LIT-tmp9yy1o.md)) and Zhao et al. ([LIT-tmpgptvp](../literature.d/LIT-tmpgptvp.md)), places the
+  Thrampoulidis ([LIT-3011](../literature.d/LIT-3011.md)) and Zhao et al. ([LIT-3013](../literature.d/LIT-3013.md)), places the
   distinctions among plausible candidates at the bottom of the spectrum as
   training proceeds; "Testing this origin would require tracking the
   organization during training" (§7). Pythia's public checkpoints, among
@@ -156,16 +156,16 @@ change.
 
 ## Note of 2026-11-22: a correction, at the owner's word
 
-An earlier note here says Song, Ahn and Yun "measure only training-loss descent", and the relay behind it treated that as less than learning. The owner corrected both: "training loss falling is evidence that learning is happening. the capabilities are being measurably developed. … that's a measure of the learning that is happening, which is concretely the changes that are happening within the organization of the model's representational space". The relay also read the paper's "bulk subspace" in the owner's sense of "bulk". It is the paper's term for the many low-curvature directions, the bulk by count, where the owner's "bulk" is the dominant directions, the bulk by weight ([TERM-tmpf5ymd](../terms.d/TERM-tmpf5ymd.md)).
+An earlier note here says Song, Ahn and Yun "measure only training-loss descent", and the relay behind it treated that as less than learning. The owner corrected both: "training loss falling is evidence that learning is happening. the capabilities are being measurably developed. … that's a measure of the learning that is happening, which is concretely the changes that are happening within the organization of the model's representational space". The relay also read the paper's "bulk subspace" in the owner's sense of "bulk". It is the paper's term for the many low-curvature directions, the bulk by count, where the owner's "bulk" is the dominant directions, the bulk by weight ([TERM-143](../terms.d/TERM-143.md)).
 
 Read so, Song et al. bear on the owner's question more than the earlier note said. Projecting each update onto the dominant directions, the bulk by weight, stops training. Projecting onto the rest, the low-curvature directions that carry little of the operator's activity, trains as fast as SGD. So capability develops through the non-dominant directions. What the paper still does not do is follow one direction through training or say which distinctions it comes to carry. The note is the assistant's (Claude, in this session).
 
 ## Note of 2026-11-22: Yang, and Lee, Smith, Adam and Hoogland, read
 
-- **Yang ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md)): a contrast.** The direction that becomes
+- **Yang ([THEORY-2193](../theory.d/THEORY-2193.md)): a contrast.** The direction that becomes
   unstable is the *largest* covariance direction, at β = 1/λmax(Cov z),
   not a weak one becoming informative.
-- **Lee et al. ([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md)): a parallel.** The between-phase part of
+- **Lee et al. ([THEORY-2191](../theory.d/THEORY-2191.md)): a parallel.** The between-phase part of
   their influence, πUπV(µi,U − µi,V)(µj,U − µj,V), picks out the samples
   on which two phases disagree, which may be samples a weak direction
   carries; the paper does not connect it to small eigenvalues.

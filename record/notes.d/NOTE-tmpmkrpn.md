@@ -35,7 +35,7 @@ summary: >-
   general statement's negation and an existence statement have
   determinate sense only as problems with their solutions.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt TERM-tmp7s2aa TERM-tmp3mop8 TERM-tmp94y6v ARG-tmp6sdu6 — Proposed or new; the entries the reading was done for and bears on -->
+<!-- inactive-ok-file: CLAIM-949 TERM-154 TERM-153 TERM-152 ARG-tmp6sdu6 — Proposed or new; the entries the reading was done for and bears on -->
 
 # NOTE-tmpmkrpn: Kolmogorov — Zur Deutung der intuitionistischen Logik
 
@@ -173,7 +173,7 @@ Wirklichkeit keine theoretischen Aussagen, sondern vielmehr Aufgaben"
 
 ## Bearing on the record
 
-- **[CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md), its correspondence of a question with a problem.** The
+- **[CLAIM-949](../claims.d/CLAIM-949.md), its correspondence of a question with a problem.** The
   claim says "Kolmogorov read a proposition as a problem and its proof as
   a solution". The paper keeps statements and problems apart and faults
   Heyting for not doing so (n. 17); proofs and solutions run parallel, but
@@ -183,7 +183,7 @@ Wirklichkeit keine theoretischen Aussagen, sondern vielmehr Aufgaben"
   with problems is the later BHK and propositions-as-types gloss, not this
   paper's. The correspondence itself, a question in [CLAIM-470](../claims.d/CLAIM-470.md)'s sense as a
   problem, fits in what it asserts and is narrower in two respects and
-  wider in one; the dated note on [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) gives the verdict, and
+  wider in one; the dated note on [CLAIM-949](../claims.d/CLAIM-949.md) gives the verdict, and
   [ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md) argues it.
 - **[CLAIM-470](../claims.d/CLAIM-470.md)**: a parallel and a contrast. A problem, like the record's
   question, demands rather than asserts and fixes what counts as solving
@@ -193,13 +193,13 @@ Wirklichkeit keine theoretischen Aussagen, sondern vielmehr Aufgaben"
 - **[TERM-095](../terms.d/TERM-095.md)**: footnote 2 puts the permitted means of construction in the
   problem's formulation, where the term puts the admissible interventions
   𝓘 in the inquiry beside the answer space.
-- **[TERM-tmp7s2aa](../terms.d/TERM-tmp7s2aa.md)** (witness): the existence statement as a problem of
+- **[TERM-154](../terms.d/TERM-154.md)** (witness): the existence statement as a problem of
   finding an element plus its solution (p. 65) is the witness's sense.
-- **[TERM-tmp3mop8](../terms.d/TERM-tmp3mop8.md)** (certificate): a parallel. The general validity of a
+- **[TERM-153](../terms.d/TERM-153.md)** (certificate): a parallel. The general validity of a
   mathematical solution (p. 61), presentable so that any competent hearer
   must recognize it, is what a certificate is for; Kolmogorov makes it a
   property of the domain, not a record kept.
-- **[TERM-tmp94y6v](../terms.d/TERM-tmp94y6v.md)** (specification): a problem with many solutions is a
+- **[TERM-152](../terms.d/TERM-152.md)** (specification): a problem with many solutions is a
   partial specification; a contentless problem is one no realization
   passes.
 

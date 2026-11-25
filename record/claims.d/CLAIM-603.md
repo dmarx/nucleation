@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpqa0qu
 title: "A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity"
-version: 6
+version: 8
 history:
 - version: 2
   date: '2026-11-07'
@@ -38,6 +38,19 @@ history:
     of realizability; it no longer carries realizability, which no
     relation to a realizability-first entry supplies (ADR-085). No
     other change.
+- version: 7
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §12.4. No other change.
+- version: 8
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 2 abstract; Article 9 abstract (ADR-
+    tmpenzcn). No change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -100,8 +113,11 @@ summary: >-
   session); adopting it is the owner's call.
 corroborates:
 - CLAIM-600
+works:
+- governance-of-possibility
+- governance-of-becoming
 ---
-<!-- inactive-ok-file: THEORY-tmpzrqm9 — Proposed; the reading of the 10 Principles, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2224 — Proposed; the reading of the 10 Principles, 2026-11-22 -->
 <!-- inactive-ok-file: CASE-262 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; cited in the proposed test -->
 <!-- inactive-ok-file: CLAIM-428 — Proposed; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-671 — filed from the exchange of 2026-11-12, Proposed -->
@@ -371,8 +387,8 @@ owner's call.
 
 ## Note of 2026-11-22: Harvey, the 10 Principles, read
 
-[LIT-2175](../literature.d/LIT-2175.md) is now read from the organization's own page ([NOTE-tmpcr2sz](../notes.d/NOTE-tmpcr2sz.md);
-[THEORY-tmpzrqm9](../theory.d/THEORY-tmpzrqm9.md)). Two things above change, recorded here rather than in the
+[LIT-2175](../literature.d/LIT-2175.md) is now read from the organization's own page ([NOTE-2314](../notes.d/NOTE-2314.md);
+[THEORY-2224](../theory.d/THEORY-2224.md)). Two things above change, recorded here rather than in the
 text.
 
 - **"Unavailable" is stale.** The "Generalized" bullet cites [LIT-2175](../literature.d/LIT-2175.md) as
@@ -400,3 +416,17 @@ text.
 
 The status is unchanged; whether to revise the bullet in a new version is
 the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A34 §2
+
+<!-- inactive-ok-block: CASE-tmp3xxqg CLAIM-tmpb1wyc CLAIM-677 — new or Proposed; filed from A34, and the claim A34 cites beside this one -->
+A34 §2 cites this claim, with [CLAIM-600](CLAIM-600.md) and [CLAIM-677](CLAIM-677.md), for the SRE book's
+global Chubby planned outage ([CASE-tmp3xxqg](../cases.d/CASE-tmp3xxqg.md)): services dropped tolerance
+of the lock service's absence because "true global Chubby outages are so
+infrequent", and its rare outages reached users. Bearing: an
+illustration. The loss is this claim's, by one-way supply set from
+outside. What the case adds is a supply-side remedy this claim does not
+have: the provider holds realized reliability at its declared objective,
+synthesizing outages when true failures have not used the budget, so that
+the loss is exposed as it forms. That is filed in A's voice as
+[CLAIM-tmpb1wyc](CLAIM-tmpb1wyc.md), which complements this one. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

@@ -105,3 +105,19 @@ ISQL data at several Δ would tell.
   lander with an assistant was not modelled.
 - Whether stabilizing help erodes the user's own capacity is a separate
   question, [QUESTION-504](../questions.d/QUESTION-504.md).
+
+## Note of 2026-11-22: two latencies and a horizon, from the exchange "Explain First Contact RL"
+<!-- inactive-ok-file: CASE-419 CLAIM-1122 — Proposed; filed 2026-11-22 from the exchange "Explain First Contact RL" -->
+
+A8 of that exchange, applying this claim to the owner's smart-scroll
+proposal ([CASE-419](../cases.d/CASE-419.md)), separates two questions the owner's latency
+concern (U3) runs together: the computational latency of evaluating an
+adaptive policy, and the evaluative horizon, "how long after a command
+must we observe before knowing whether it helped". The second is this
+claim's Δ. [CLAIM-1122](CLAIM-1122.md) (A's) adds the first and a third, the response
+per frame, and holds that the three need not coincide. A8 also gives the
+scroll analogue of the lander inversion: strong inertial braking shortens
+a flick yet may make precise positioning easier, so "less immediate
+movement ⇏ less effective control", with A's caveat that too much braking
+frustrates. This is a parallel, not evidence for the claim. No status
+change.

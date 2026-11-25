@@ -1,0 +1,7 @@
+|alpha|  defect(first harmonic only)  defect(with second harmonic)
+0.60     1.14e-16                     1.24e-01
+0.60     4.00e-16                     1.20e-01
+0.60     2.29e-16                     1.21e-01
+0.60     1.67e-16                     1.44e-01
+0.60     2.48e-16                     9.75e-02
+defect with second harmonic at |alpha|=1: 1.99e-15

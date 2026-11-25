@@ -37,7 +37,7 @@ corroborates:
 - CLAIM-731
 - CLAIM-410
 ---
-<!-- inactive-ok-file: CLAIM-731 CLAIM-740 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-731 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpa89iy — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: CLAIM-705 CLAIM-710 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 # THEORY-1947: Citron argues that automated administrative decision systems merge adjudication and rulemaking while observing the procedures of neither: programmers make unreviewed rules when they translate policy into code, and opacity, missing notice and audit trails and automation bias in human reviewers leave individuals without a meaningful hearing, which she proposes to restore by technological due process

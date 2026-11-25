@@ -2,7 +2,7 @@
 number: 596
 status: Active
 formerly:
-- CLAIM-596
+- CLAIM-tmpqlcgm
 title: 'Yields cannot tell a generative nucleus from one that only gives a head start: two assemblies can have the same chance of success with the nucleus established and without it, one because the nucleus speeds a later step among other components and one because it does not, so the route is identified by the rate of that later step, compared with and without the nucleus, and not by the yields'
 version: 2
 history:

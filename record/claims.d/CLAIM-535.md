@@ -151,3 +151,18 @@ A106 §7 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6a
 Two additions. First, A's moral reading, which the claim's text does not draw: "**no amount of sincere commitment to those requirements can guarantee appropriate conduct under those informational constraints**", so "better institutional motivation is not always an adequate remedy". With A's qualification: "Not every failure of discrimination is wrongful", and "The independent normative question is which distinctions an institution has sufficient responsibility to acquire and preserve." Second, a bound A does not state, which supports A105's "reliably": a randomized policy assigns one distribution p over actions to the shared observation, so its success probabilities in the two states are p(R_N(s₀)) and p(R_N(s₁)); the sets are disjoint, so the two sum to at most 1 and the worse is at most 1/2, attained by a fair mixture of one action from each set. The claim's "acceptable in every circumstance" is the deterministic case; for randomized policies the disjoint case caps worst-case reliability at 1/2. Checked by the filer (Claude, in this session).
 
 No status changes.
+
+## Note of 2026-11-22: the reverse swipe, from the exchange "Explain First Contact RL"
+<!-- inactive-ok-file: CASE-419 — Proposed; filed 2026-11-22 from the exchange "Explain First Contact RL" -->
+
+A8 §3A of that exchange applies this claim to an adaptive scroll interface
+([CASE-419](../cases.d/CASE-419.md), which illustrates it): a quick reverse swipe can mean
+overshoot, deliberate rereading or searching back, circumstances the
+interface cannot tell apart from the gesture and that call for different
+adjustments (more friction, or none). "The system cannot solve missing
+information merely by making its classifier more sophisticated." A's
+conclusion is to keep the interface task-agnostic and learn from patterns
+over many gestures rather than decode intent per gesture, which is this
+claim's lesson that the coarsest sufficient observation depends on the
+action committed to: an interface committed to adjusting only physics
+needs no distinction among the three intents. No status change.

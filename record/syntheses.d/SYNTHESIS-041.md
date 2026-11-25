@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpjze56
 title: 'Freedom of will comes in degrees along separable dimensions, compared by inclusion of what an agent can viably reach, and in the operational sense the record proposes it is an agent''s governance of its own governability; sensitivity and controllability fall short of it, self-formation is the production of a new distinction or channel that outlasts its occasion, and explaining efficacy does not settle whose the will is'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-15'
@@ -24,6 +24,13 @@ history:
     2026-11-15): CLAIM-686 now have dependence-and-domination as their
     first line, and the account says so where it states their lines.
     No other change.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added QUESTION-467
+    and QUESTION-504, in-force entries of the line no account of the line
+    integrated. They are set out at the end of the components; the title
+    is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the part of the will-organization line on freedom of will, self-formation
@@ -62,6 +69,8 @@ integrates:
 - QUESTION-364
 - CLAIM-686
 - QUESTION-454
+- QUESTION-467
+- QUESTION-504
 bears_on:
 - QUESTION-071
 - QUESTION-364
@@ -199,6 +208,29 @@ cases by [TERM-100](../terms.d/TERM-100.md)'s formation and maintenance provenan
 - [CASE-191](../cases.d/CASE-191.md), built at the owner's request, Active. [ARG-060](../arguments.d/ARG-060.md), Proposed.
 - [QUESTION-071](../questions.d/QUESTION-071.md), Open. [QUESTION-364](../questions.d/QUESTION-364.md), A29's, Open.
 - [CLAIM-686](../claims.d/CLAIM-686.md), the assistant's; thesis, demonstrated, Proposed; first line dependence-and-domination. [QUESTION-454](../questions.d/QUESTION-454.md), A's, Open; first line organizational-normativity. Added at version 2.
+
+Added at version 4, at the synthesis review of 2026-11-23: two in-force
+questions of the line, filed after this account, that fall in its scope
+and that no account of the line integrated. The account now integrates 26
+entries.
+
+- [QUESTION-467](../questions.d/QUESTION-467.md), the assistant's, raised by the reading review of
+  2026-11-14; Open. It asks, when an organization that must act
+  acceptably in every circumstance it cannot yet exclude learns which
+  holds only from what its own committing actions reveal, how much it
+  must observe before it commits, and whether what only commitment would
+  reveal is lost to it. Its summary says [CLAIM-535](../claims.d/CLAIM-535.md)'s one-step condition
+  and [CLAIM-572](../claims.d/CLAIM-572.md)'s split of one budget between observing and acting (in
+  [SYNTHESIS-024](SYNTHESIS-024.md) and [SYNTHESIS-076](SYNTHESIS-076.md)) both exclude the case where acting is
+  itself observing.
+- [QUESTION-504](../questions.d/QUESTION-504.md), raised by [CLAIM-787](../claims.d/CLAIM-787.md) (Proposed; no account integrates it);
+  Open; also distributed-agency. It asks whether help that maximizes a
+  user's long-horizon influence erodes the user's unassisted capacity,
+  and whether information taken with the assistance present can show it.
+  Its body cites [CLAIM-675](../claims.d/CLAIM-675.md) (integrated by [SYNTHESIS-105](SYNTHESIS-105.md), [SYNTHESIS-113](SYNTHESIS-113.md)
+  and [SYNTHESIS-117](SYNTHESIS-117.md)) for erosion of a capacity learned by doing, and names
+  [CLAIM-532](../claims.d/CLAIM-532.md)'s test, removing the inducing conditions and presenting a new
+  case of the same class, as the one that would tell.
 
 Elsewhere: [CLAIM-620](../claims.d/CLAIM-620.md) is also integrated by learned-structure's account
 ([SYNTHESIS-025](SYNTHESIS-025.md)), and [CLAIM-356](../claims.d/CLAIM-356.md) by [SYNTHESIS-026](SYNTHESIS-026.md).
