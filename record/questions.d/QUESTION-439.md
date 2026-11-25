@@ -126,16 +126,16 @@ that would measure the profiles is [CASE-230](../cases.d/CASE-230.md).
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A4
 
 A4 cites this question, accurately, as what its memetic nucleation
-hypothesis ([CLAIM-tmpgvsgg](../claims.d/CLAIM-tmpgvsgg.md)) bears on, and its §1 asks of memes the
+hypothesis ([CLAIM-1275](../claims.d/CLAIM-1275.md)) bears on, and its §1 asks of memes the
 question asked here of expressions: "what, precisely, has individuated?",
 listing symbol, concept, perspective, community, lineage and memeplex as
 "potentially distinct organizations with different boundaries, dynamics
 and conditions of persistence". Its §4 "organization of disagreement" is
 this question's third option, an organization of the rivalry among the
-uses, stated for memes. The senses of "meme" are [TERM-tmpet5z8](../terms.d/TERM-tmpet5z8.md); the
-question of how memes take part in organizations is [QUESTION-tmprvnp0](QUESTION-tmprvnp0.md).
+uses, stated for memes. The senses of "meme" are [TERM-172](../terms.d/TERM-172.md); the
+question of how memes take part in organizations is [QUESTION-539](QUESTION-539.md).
 Bearing: an application, no change. The wording of this note is the
 assistant's (Claude, in this session), reporting A's (ChatGPT's) text;
 adopting what it reports is the owner's call.
 
-<!-- inactive-ok-file: CLAIM-tmpgvsgg TERM-tmpet5z8 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->
+<!-- inactive-ok-file: CLAIM-1275 TERM-172 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

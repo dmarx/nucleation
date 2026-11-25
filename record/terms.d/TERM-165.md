@@ -33,7 +33,7 @@ history:
     CLAIM-1118 (a distance between the laws of the answers given),
     CLAIM-1175 (the address of probe sequences, the definition's second
     paragraph), CLAIM-1046, CLAIM-1196, SYNTHESIS-122, TERM-118,
-    TERM-138 and QUESTION-tmpb7fx7: all mean the one sense defined, the
+    TERM-138 and QUESTION-531: all mean the one sense defined, the
     map from probes in a declared family to response laws, up to
     observational equivalence under that family. No change of wording;
     the definition has stood unrevised since 2026-11-22.

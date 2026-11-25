@@ -44,7 +44,7 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 1 abstract, §4 (ADR-tmpenzcn). No
+    stated or used in A49 Article 1 abstract, §4 (ADR-147). No
     change of title or status.
 role: thesis
 warrant: interpretive
@@ -222,10 +222,10 @@ construction.
 The owner's U4, "memes as characteristics  (qua representation theory) of
 perspectives", puts memes where this claim puts the invariant, and
 perspectives where it puts communicative kinds; filed in two readings,
-the meme as the character ([CLAIM-tmphi3mx](CLAIM-tmphi3mx.md)) or as one of its values
-([CLAIM-tmp4mk0t](CLAIM-tmp4mk0t.md)). A5 cites this claim accurately, "character-like
+the meme as the character ([CLAIM-1278](CLAIM-1278.md)) or as one of its values
+([CLAIM-1227](CLAIM-1227.md)). A5 cites this claim accurately, "character-like
 invariants possess classificatory priority over particular realizations",
-and builds on it ([CLAIM-tmpjitli](CLAIM-tmpjitli.md), A's), naming [CLAIM-249](CLAIM-249.md) as what it "Must
+and builds on it ([CLAIM-1285](CLAIM-1285.md), A's), naming [CLAIM-249](CLAIM-249.md) as what it "Must
 answer". The extension from communicative kinds to perspectives is the
 one [CLAIM-417](CLAIM-417.md) calls "new territory". Bearing: an extension that depends
 on this claim's condition (one group identified across realizations),
@@ -233,4 +233,4 @@ which is still unmet; no change. The wording of this note is the
 assistant's (Claude, in this session), reporting A's (ChatGPT's) text;
 adopting what it reports is the owner's call.
 
-<!-- inactive-ok-file: CLAIM-417 CLAIM-tmp4mk0t CLAIM-tmphi3mx CLAIM-tmpjitli — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->
+<!-- inactive-ok-file: CLAIM-417 CLAIM-1227 CLAIM-1278 CLAIM-1285 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

@@ -6,7 +6,7 @@
 
 **Contextuality** — whether outcomes can be explained without reference to the context of measurement — Kochen–Specker and Bell contextuality and their sheaf-theoretic form, generalized (Spekkens) contextuality, noncontextual models and their limits, and contextuality outside physics.
 
-49 of 3195 LIT documents. Back to the [full index](../README.md).
+49 of 3265 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

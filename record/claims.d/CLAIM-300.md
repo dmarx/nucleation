@@ -19,7 +19,7 @@ history:
 - version: 3
   date: '2026-11-25'
   note: >-
-    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    Joins the work conditions-of-correction (ADR-145): Article 1 of
     A45 in the exchange "Hyper article interpretation" states its
     proposition without citing it, in §3. No other change.
 role: thesis

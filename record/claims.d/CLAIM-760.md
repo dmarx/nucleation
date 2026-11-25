@@ -37,7 +37,7 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 3 abstract, §4 (ADR-tmpenzcn). No
+    stated or used in A49 Article 3 abstract, §4 (ADR-147). No
     change of title or status.
 role: thesis
 warrant: interpretive
@@ -135,14 +135,14 @@ No status change.
 A40 cites this claim twice. At §2.4, for originalism: "This is an
 application of CLAIM-760's broader lesson. Work and discretion can be
 transferred without disappearing." The claim holds this for work; for
-discretion it is A's extension, untested ([LEAD-tmp2x04m](../leads.d/LEAD-tmp2x04m.md)). At §4.4, for the
+discretion it is A's extension, untested ([LEAD-238](../leads.d/LEAD-238.md)). At §4.4, for the
 cost of institutional caution: deferring reform for a time T imposes on
 participant i the cost ∫₀ᵀ L_i(t) dt, "substantial even if the
 decision-making institution incurs little immediate expenditure", which
-"is another application of transferred regulatory work" ([CLAIM-tmpa8tdg](CLAIM-tmpa8tdg.md)).
+"is another application of transferred regulatory work" ([CLAIM-1253](CLAIM-1253.md)).
 Bearing: two applications, the first a slight overreach of the claim's
 scope; the claim is unchanged. The wording of this note is the assistant's
 (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it
 reports is the owner's call.
 
-<!-- inactive-ok-file: CLAIM-tmpa8tdg — Proposed; filed from the exchange 'Memes, Contracts, and Systemic Normativity' and cited in its note of 2026-11-24, whatever its standing -->
+<!-- inactive-ok-file: CLAIM-1253 — Proposed; filed from the exchange 'Memes, Contracts, and Systemic Normativity' and cited in its note of 2026-11-24, whatever its standing -->

@@ -45,7 +45,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
+<!-- inactive-ok-file: THEORY-2310 CLAIM-1327 — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: CLAIM-783 TERM-134 THEORY-162 — Proposed; the claims, term and reading this joins, and the claim filed with it -->
 
 # CLAIM-943: Descriptors inform, impositions perform
@@ -111,12 +111,12 @@ say it does then. No change.
 
 ## Note of 2026-11-22: Dunfield and Krishnaswami, read
 
-A qualification, from a contrast case. In bidirectional typing ([THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md),
-read in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)) checking a term against a type given is a requirement in
+A qualification, from a contrast case. In bidirectional typing ([THEORY-2310](../theory.d/THEORY-2310.md),
+read in [NOTE-2421](../notes.d/NOTE-2421.md)) checking a term against a type given is a requirement in
 the authors' word (§4.4) and a test that moves nothing whether the term
 passes or fails (§1, §9.1). By this claim's criterion a requirement the
 term already meets is a descriptor; by Searle's it is still world to
 word. So the closing clause, "the record's two kinds of predicate are the
 two directions of fit", holds for enforced predicates and not for a
-requirement already met. [CLAIM-tmpugw2q](CLAIM-tmpugw2q.md) files the objection. The two
+requirement already met. [CLAIM-1327](CLAIM-1327.md) files the objection. The two
 identifications with Krifka's updates are untouched.

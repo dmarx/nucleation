@@ -173,7 +173,7 @@ A parallel, close to evidence in form ([NOTE-2140](../notes.d/NOTE-2140.md)): th
 
 ## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", A8 §8 and U9/A10
 
-<!-- inactive-ok-file: CLAIM-tmpyp5bu — Proposed; filed from the exchange of 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-1339 — Proposed; filed from the exchange of 2026-11-24 -->
 
 A8 §8 and the owner's U9 ("relate to hyperstition") brought this claim
 into the exchange. A10 reads it and its sources accurately: Land's
@@ -186,12 +186,12 @@ MacKenzie) is the claim's own grounds.
   helps make them true". A10 §4 gives one for a linear model of salience
   and realization: the loop amplifies exactly when αβ > μν, so the
   property belongs to the coupling and not to the judgement
-  ([CLAIM-tmpvic6m](CLAIM-tmpvic6m.md), A's, checked). It names what would have to be measured;
+  ([CLAIM-1333](CLAIM-1333.md), A's, checked). It names what would have to be measured;
   it does not tell, in a case, which judgements are of this kind. The
   open item is narrowed, not closed.
 - **Realization that outlasts its judgement.** A10 §9 separates a
   realization that comes to maintain itself from one that needs continued
-  circulation ([CLAIM-tmpyp5bu](CLAIM-tmpyp5bu.md), A's); the assistant's [CLAIM-tmpnws9d](CLAIM-tmpnws9d.md) gives
+  circulation ([CLAIM-1339](CLAIM-1339.md), A's); the assistant's [CLAIM-1305](CLAIM-1305.md) gives
   the condition in the model. This bears on the claim's reading of
   visibility as evidence about the future: once realization maintains
   itself, further circulation is no longer evidence of what it will bring

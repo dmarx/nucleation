@@ -181,7 +181,7 @@ manuscript's census came from its review.
 - **Files by part**, each under about 500 lines, in reading order, each
   beginning with its path as a comment.
 - **It is a manuscript, written for a reader outside the record**
-  (ADR-tmpw306d). It argues for its thesis. Each step cites the entry that
+  (ADR-151). It argues for its thesis. Each step cites the entry that
   holds it, in parentheses, with the code bare. Standings, voices,
   provenance, the reviews and the record's process go in the README and a
   short note on method; the argument does not narrate them. Where a step's

@@ -48,7 +48,7 @@ summary: >-
   ([CLAIM-785](CLAIM-785.md)) through the direction of fit. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmptsz1u — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
+<!-- inactive-ok-file: THEORY-2310 — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: CLAIM-784 CLAIM-785 CLAIM-943 SYNTHESIS-114 — Proposed; the claims, reading and account this joins, and the claim filed with it -->
 
 # CLAIM-942: Inquiry and engineering differ by direction of fit
@@ -115,8 +115,8 @@ the reversal is put to the owner rather than made.
 A parallel, no relation written. SML-CIDRE chose bidirectional typing
 over inference because "type inference finds all behaviours, not only the
 intended behaviours", while annotations "force programmers to write down
-the behaviours they intend" (§9.1 of their survey; [THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md), read in
-[NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)). Inference describes what a program does; annotation requires
+the behaviours they intend" (§9.1 of their survey; [THEORY-2310](../theory.d/THEORY-2310.md), read in
+[NOTE-2421](../notes.d/NOTE-2421.md)). Inference describes what a program does; annotation requires
 what it should do, the claim's inquiry and engineering inside one type
 checker. The rewriting of a requirement into a description has no
 counterpart there: a failed check is repaired in the program, not the

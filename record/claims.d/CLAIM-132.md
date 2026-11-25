@@ -259,9 +259,9 @@ semisimplifications. Applied to A5 §5's "memeplex" as a decomposition
 often, and could not tell a perspective whose modes drive one another (a
 non-split extension, as in the ℤ example) from one where they are
 independent. That is the part A5 assigns to "organizational dynamics".
-Recorded in [CLAIM-tmpjitli](CLAIM-tmpjitli.md). Bearing: this claim bounds A5's; no change.
+Recorded in [CLAIM-1285](CLAIM-1285.md). Bearing: this claim bounds A5's; no change.
 The wording of this note is the assistant's (Claude, in this session),
 reporting A's (ChatGPT's) text; adopting what it reports is the owner's
 call.
 
-<!-- inactive-ok-file: CLAIM-tmpjitli — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->
+<!-- inactive-ok-file: CLAIM-1285 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

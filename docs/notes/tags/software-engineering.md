@@ -4,7 +4,7 @@
 
 **software-engineering**.
 
-18 of 2418 NOTE documents. Back to the [full index](../README.md).
+19 of 2422 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -26,3 +26,4 @@
 | [NOTE-2387](../../../record/notes.d/NOTE-2387.md) | Bayer — Jenkins! | The result of the Hudson community's vote to rename the project Jenkins, and the plan to move its infrastructure. Coded as data in [CASE-411](../../../record/cases.d/CASE-411.md). | Read |
 | [NOTE-2391](../../../record/notes.d/NOTE-2391.md) | Rogers, Suriar, Lueder, Deo and Sudhakar — Postmortem Culture: Learning from Failure (workbook) | Google's practical chapter on postmortem culture. A real outage (satellite machines sent to diskerase, 2014) is written up twice, badly and well; the good version blames "No individual or team", names a staffing limit among what went poorly, and assigns fourteen technical action items to engineers. Leaders are to model blamelessness; blameful questions to a manager and from a vice-president are redirected into questions about process. Repeated incidents prompt asking whether "feature velocity" is "trumping reliability fixes". | Read |
 | [NOTE-2404](../../../record/notes.d/NOTE-2404.md) | DeVault — SourceHut is leaving Freenode | A project's statement that freenode's new leaders are illegitimate, made in the post announcing its own move to Libera Chat the same day. Coded as data in [CASE-411](../../../record/cases.d/CASE-411.md). | Read |
+| [NOTE-2419](../../../record/notes.d/NOTE-2419.md) | Martin-Löf — Intuitionistic Type Theory | A judgement is not a proposition: A set, A = B, a ∈ A and a = b ∈ A are the four forms, each read as set and element, proposition and proof, intention and fulfilment, or problem and solution, the last "a program ... which meets the specification A". A set is defined by how its canonical elements are formed, an element is a method yielding one, and propositions are identified with sets. Σ's elements are pairs of a witness and its proof; the set of a ∈ A such that B(a) is Σ, carrying "the witnessing information". Proofs may be suppressed, writing A true, only where nothing depends on them. Universes are sets of codes closed under the set-forming operations, never all sets. | Skimmed |

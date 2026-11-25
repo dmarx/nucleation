@@ -28,11 +28,11 @@ history:
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Programme (four distinctions), Article 1 §6
-    (ADR-tmpenzcn). No change of title or status.
+    (ADR-147). No change of title or status.
 - version: 5
   date: '2026-11-25'
   note: >-
-    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition or uses it as a step, in scope 11. No other
     change.
 role: disclaimed
@@ -168,12 +168,12 @@ predominates." A40 §4.2: "Persistence is evidence that an arrangement has
 been reproducible. It is not sufficient evidence of what makes its
 reproduction possible or whether its reproduction is justified." The
 extension, that structure kept is not value kept and that inaction
-transforms, is filed as [CLAIM-tmpa8tdg](CLAIM-tmpa8tdg.md); the application to conservatism is
-[CLAIM-tmplc0vv](CLAIM-tmplc0vv.md), with the objection [CLAIM-tmpdzcj6](CLAIM-tmpdzcj6.md), that conservatism's
+transforms, is filed as [CLAIM-1253](CLAIM-1253.md); the application to conservatism is
+[CLAIM-1294](CLAIM-1294.md), with the objection [CLAIM-1266](CLAIM-1266.md), that conservatism's
 theorists hold a presumption under uncertainty and not the inference this
 claim disclaims. Bearing: an application; the claim is unchanged. The
 wording of this note is the assistant's (Claude, in this session),
 reporting A's (ChatGPT's) text; adopting what it reports is the owner's
 call.
 
-<!-- inactive-ok-file: CLAIM-tmpa8tdg CLAIM-tmplc0vv CLAIM-tmpdzcj6 — Proposed; filed from the exchange 'Memes, Contracts, and Systemic Normativity' and cited in its note of 2026-11-24, whatever their standing -->
+<!-- inactive-ok-file: CLAIM-1253 CLAIM-1294 CLAIM-1266 — Proposed; filed from the exchange 'Memes, Contracts, and Systemic Normativity' and cited in its note of 2026-11-24, whatever their standing -->

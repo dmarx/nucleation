@@ -292,19 +292,19 @@ organizational-normativity line is for the owner.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A22–A24
 
-<!-- inactive-ok-file: CLAIM-tmphq6hp CLAIM-tmpjg5gx CLAIM-tmpreipd CLAIM-tmp1fj5p CASE-239 — new, or Proposed; filed from U18 and A22–A24 of the exchange on 2026-11-24, and the forager study A22 names -->
+<!-- inactive-ok-file: CLAIM-1279 CLAIM-1284 CLAIM-1316 CLAIM-1217 CASE-239 — new, or Proposed; filed from U18 and A22–A24 of the exchange on 2026-11-24, and the forager study A22 names -->
 
 A22, A23 and A24 (ChatGPT, 2026-11-24) cite this question three times and
 keep it open each time; the filing adds four claims that bear on it.
 
 - **A mark of an operative norm.** A22 §2: an expectation is held as a
   norm when a discrepancy recruits activity to restore compliance rather
-  than revising the expectation ([CLAIM-tmphq6hp](../claims.d/CLAIM-tmphq6hp.md), which ties it to the
+  than revising the expectation ([CLAIM-1279](../claims.d/CLAIM-1279.md), which ties it to the
   record's direction of fit). That is a norm of failure an organization's
   own dynamics can show, in the question's first sense, without a
   represented belief.
 - **A stabilization mechanism, not a standard.** A22 §5's model of
-  compliance, reliance and maintenance is bistable ([CLAIM-tmpjg5gx](../claims.d/CLAIM-tmpjg5gx.md), checked).
+  compliance, reliance and maintenance is bistable ([CLAIM-1284](../claims.d/CLAIM-1284.md), checked).
   A22 itself: "The model does not demonstrate endogenous formation of a
   standard of correctness: its maintenance rule is supplied by the modeler.
   It demonstrates a candidate stabilization mechanism. That distinction
@@ -315,8 +315,8 @@ keep it open each time; the filing adds four claims that bear on it.
   "Normative justification", and says the account "gives that inquiry a
   richer intermediate domain, but does not yet close the justificatory
   gap". The owner's U18 thesis that the account clarifies morality and
-  cooperation ([CLAIM-tmp1fj5p](../claims.d/CLAIM-tmp1fj5p.md)) and A's development of it
-  ([CLAIM-tmpreipd](../claims.d/CLAIM-tmpreipd.md)) bear on the question's last part, what more moral
+  cooperation ([CLAIM-1217](../claims.d/CLAIM-1217.md)) and A's development of it
+  ([CLAIM-1316](../claims.d/CLAIM-1316.md)) bear on the question's last part, what more moral
   authority needs: on A's reading, an evaluation of the terms of
   cooperation that cooperative success does not supply.
 

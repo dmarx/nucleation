@@ -343,7 +343,7 @@ persists), but the reading tests neither direction. No status change.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', U2 and A4 §9
 
-The owner's U2, "memes as nucleation sites" ([CLAIM-tmp1ng5k](CLAIM-tmp1ng5k.md)), carries this
+The owner's U2, "memes as nucleation sites" ([CLAIM-1218](CLAIM-1218.md)), carries this
 claim's figure to transmitted cultural items. A4 §9 ("Nucleation as its
 own case study") then turns it back on the record without citing this
 claim or its line: "The inquiry itself repeatedly introduces terms,
@@ -362,4 +362,4 @@ wording of this note is the assistant's (Claude, in this session),
 reporting A's (ChatGPT's) text; adopting what it reports is the owner's
 call.
 
-<!-- inactive-ok-file: CLAIM-tmp1ng5k — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->
+<!-- inactive-ok-file: CLAIM-1218 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

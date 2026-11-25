@@ -6,8 +6,8 @@
 
 **Dissolved** — the question rested on a mistake, and the body says which.
 
-0 of 529 QUESTION documents. Back to the [full index](../README.md).
+1 of 543 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-540](../../../record/questions.d/QUESTION-540.md) v2 | Should the hyperarticle atlas be filed as an account of the record's argument, or as a manuscript composed of manuscripts | The owner's question of 2026-11-25, after the atlas's fifteen scopes were documented as lines ([ADR-146](../../../record/decisions.d/ADR-146.md)) and three of its articles registered as works ([ADR-145](../../../record/decisions.d/ADR-145.md)): "the atlas should probably be filed as a synthesis? or maybe a manuscript comprised of manuscripts?" Two answers are filed as alternatives in the assistant's voice: [CLAIM-1261](../../../record/claims.d/CLAIM-1261.md) (a series work) and [CLAIM-1312](../../../record/claims.d/CLAIM-1312.md) (an account over accounts, later). The owner chooses. | Dissolved — Retired 2026-11-25: misfiled as part of the inquiry; a procedural decision, held in ADR-149. |

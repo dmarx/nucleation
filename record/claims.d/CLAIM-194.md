@@ -52,7 +52,7 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 1 §2 (ADR-tmpenzcn). No change of
+    stated or used in A49 Article 1 §2 (ADR-147). No change of
     title or status.
 role: counter
 warrant: interpretive
@@ -230,7 +230,7 @@ No status change.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A42 §7, a miscitation
 
-<!-- inactive-ok-file: CLAIM-tmpp91oy — Proposed; filed from A42 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+<!-- inactive-ok-file: CLAIM-1308 — Proposed; filed from A42 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
 
 A42 §7 cites this claim as distinguishing "a boundary produced and
 maintained by an organization from a boundary merely identified or imposed
@@ -242,5 +242,5 @@ distinction. What A42 builds on, "A meaningful organizational boundary may
 involve the capacity to regulate exchange across it, including
 informational exchange", is [THEORY-1119](../theory.d/THEORY-1119.md)'s interactional asymmetry, which
 this claim's note of 2026-10-21 names; the informational extension is A42's
-own and is filed in [CLAIM-tmpp91oy](CLAIM-tmpp91oy.md). Bearing: miscitation; the claim is
+own and is filed in [CLAIM-1308](CLAIM-1308.md). Bearing: miscitation; the claim is
 unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

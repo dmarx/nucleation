@@ -1,0 +1,148 @@
+---
+number: 235
+status: Open
+formerly:
+- LEAD-tmp0j28l
+title: 'Review for promotion the Proposed entries the record functionally treats as held, found from executed studies that reproduce, demonstrated claims whose premises are held, terms in settled use and entries that Active entries and manuscripts rely on, with reliance as a reason to review and never as warrant'
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Stage specified to underway: the status pass of 2026-11-24, at the
+    owner's word ("promote the ten, handle the fixes for the twelve ...
+    use your best judgement"), ruled on the first worklist's ten and
+    twelve; see the note of that date. Status stays Open: the syntheses,
+    the kept entries and the discovery signals remain.
+stage: underway
+priority: high
+method:
+- formal
+- operationalization
+tags:
+- philosophy-of-science
+- epistemology
+date: '2026-11-24'
+line:
+- record-as-apparatus
+advances:
+- CLAIM-1099
+- CLAIM-1093
+- CLAIM-1180
+- CLAIM-878
+- CLAIM-921
+- CLAIM-1115
+- CLAIM-1190
+- CLAIM-1000
+- CLAIM-1202
+- CLAIM-1185
+- CLAIM-1095
+- CLAIM-892
+- TERM-165
+- TERM-163
+summary: >-
+  The owner's proposal at U33 of the exchange "Memes, Contracts, and
+  Systemic Normativity" (2026-11-24), quoting A51 ("Their status is not a
+  reason to overlook the Active and demonstrated claims they integrate"):
+  "we can probably also use this as an exercise to identify content on the
+  record that is still in a proposed state but which the record
+  functionally treats as Active and should probably be promoted." It is
+  the owner's [ADR-124](../decisions.d/ADR-124.md) move of 2026-11-21 ("promote some ADRs that are
+  functionally already adopted") carried from decisions to the argument,
+  where a status is credence and not adoption, so reliance can start a
+  review and cannot settle one. A53's candidate clusters, checked, are its
+  first worklist; A53's discovery signals are its operationalization. The
+  proposal is the owner's; the worklist, the checks and the signals' fit
+  to the status-review worklist are the assistant's (Claude, in this
+  session); adopting either is the owner's call.
+---
+
+<!-- inactive-ok-file: ADR-124 CLAIM-478 — Proposed; the candidates and the decision this lead extends, cited whatever their standing -->
+
+# LEAD-235: Review for promotion the Proposed entries the record functionally treats as held, found from executed studies that reproduce, demonstrated claims whose premises are held, terms in settled use and entries that Active entries and manuscripts rely on, with reliance as a reason to review and never as warrant
+
+## The proposal
+
+The owner, at U33, on A51's remark that the syntheses' Proposed status "is
+not a reason to overlook the Active and demonstrated claims they
+integrate": "we can probably also use this as an exercise to identify
+content on the record that is still in a proposed state but which the
+record functionally treats as Active and should probably be promoted."
+
+## What already covers part of it
+
+- **Decisions**: [ADR-124](../decisions.d/ADR-124.md) and the adoption-review skill, at the owner's
+  2026-11-21 "we're probably overdue to promote some ADRs that are
+  functionally already adopted". It covers ADRs only, and its test, a
+  decision in force, is adoption. U33 is the same move for claims, cases
+  and terms, where a status is credence ([ADR-059](../decisions.d/ADR-059.md)) and the test is [ADR-057](../decisions.d/ADR-057.md)'s.
+- **Claims**: [ADR-057](../decisions.d/ADR-057.md)'s status review and its worklist
+  (`record/status-review/worklist.py`). Run on this branch on 2026-11-24 it
+  lists 178 claims "Ready for a ruling", [CLAIM-1099](../claims.d/CLAIM-1099.md), [CLAIM-1115](../claims.d/CLAIM-1115.md) and
+  [CLAIM-1190](../claims.d/CLAIM-1190.md) among them, and ranks 484 Proposed entries by reach, the
+  highest relied on by 21 entries ([CLAIM-478](../claims.d/CLAIM-478.md)). So A53's figure from
+  [ADR-057](../decisions.d/ADR-057.md), that by 2026-10-30 "the largest measured reliance on a Proposed
+  entry had fallen to one", is a month stale: reliance has grown back, and
+  the ready group has not been worked since.
+
+## What it adds
+
+The worklist reads typed relations among claims. It does not read four
+signals A53 §7 lists, each of which this filing found candidates by:
+
+1. **An executed-study CASE that reproduces.** The status-review README
+   (§2) promotes a CASE when it is demonstrated, as [CASE-396](../cases.d/CASE-396.md) and
+   [CASE-390](../cases.d/CASE-390.md) were on a rerun. Five Proposed executed studies were rerun on
+   2026-11-24 and reproduce exactly ([CASE-315](../cases.d/CASE-315.md), [CASE-326](../cases.d/CASE-326.md), [CASE-343](../cases.d/CASE-343.md), [CASE-346](../cases.d/CASE-346.md),
+   [CASE-401](../cases.d/CASE-401.md)); two more were reproduced by the manuscript's fact-check
+   ([CASE-412](../cases.d/CASE-412.md), [CASE-397](../cases.d/CASE-397.md)).
+2. **A TERM in settled use**: [TERM-165](../terms.d/TERM-165.md) is the sole blocker of two claims.
+3. **Manuscript membership** (the `works` field) and citation in the body
+   of Active entries ([CLAIM-577](../claims.d/CLAIM-577.md) and [CLAIM-679](../claims.d/CLAIM-679.md) discuss [CLAIM-1099](../claims.d/CLAIM-1099.md)), the
+   evidence [ADR-124](../decisions.d/ADR-124.md)'s script reads for decisions as `inactive-ok`
+   directives.
+4. **A SYNTHESIS used as its scope's account.** None of the record's 125
+   syntheses is Current; setting one Current is the owner's review of its
+   map ([ADR-084](../decisions.d/ADR-084.md)), not a ruling on its components.
+
+## The caution
+
+A53: "functional reliance should trigger a review, not automatically
+establish warrant", or promotion by use would be the self-certification
+the record's own [CLAIM-1064](../claims.d/CLAIM-1064.md) and [CASE-397](../cases.d/CASE-397.md) model. Each candidate goes
+through [ADR-057](../decisions.d/ADR-057.md)'s four criteria; reliance only puts it on the list. And a
+mismatch can be fixed other than by promotion: narrowing a title, writing
+a concession, moving a ground to `corroborated_by`, or a blocker note.
+
+## The first worklist
+
+The checked table of A53's 35 candidates, and one it missed ([CASE-346](../cases.d/CASE-346.md)), is
+in the curation entry of 2026-11-24 20:56, section "U32 to U33". In
+short: ten promotable now (seven executed studies whose runs reproduce,
+[CLAIM-1099](../claims.d/CLAIM-1099.md) with its concession on [CLAIM-1093](../claims.d/CLAIM-1093.md) written, [CLAIM-1000](../claims.d/CLAIM-1000.md) and
+[CLAIM-892](../claims.d/CLAIM-892.md) with their studies); twelve after a stated fix (a narrowed
+title, a concession, an independent re-derivation, a re-read of stored
+results); three syntheses for the owner's map review; eleven kept, each
+for a reason its own entry states.
+
+## What would count
+
+Done when a status-review pass has ruled on the worklist, each entry
+promoted, narrowed or kept with a blocker note, and the discovery signals
+either join the worklist script or are judged not worth it. Whether they
+join it is a change to [ADR-057](../decisions.d/ADR-057.md)'s procedure, and waits on the owner.
+
+## Note of 2026-11-24: the first worklist's ten and twelve ruled
+
+The status pass of 2026-11-24 promoted the ten and ten of the twelve: 20 entries went Active (seven cases, twelve
+claims, [TERM-165](../terms.d/TERM-165.md)), with titles narrowed on [CLAIM-1180](../claims.d/CLAIM-1180.md), [CLAIM-878](../claims.d/CLAIM-878.md),
+[CLAIM-921](../claims.d/CLAIM-921.md) and [CLAIM-1185](../claims.d/CLAIM-1185.md), [CLAIM-1093](../claims.d/CLAIM-1093.md) revised to concede [CLAIM-1099](../claims.d/CLAIM-1099.md),
+[CLAIM-1190](../claims.d/CLAIM-1190.md)'s defeater restated, and the checks of [CLAIM-1115](../claims.d/CLAIM-1115.md), [CLAIM-1095](../claims.d/CLAIM-1095.md)
+and [CLAIM-1180](../claims.d/CLAIM-1180.md), which their filers had not kept, reconstructed and rerun.
+[CLAIM-1156](../claims.d/CLAIM-1156.md) was revised to concede [CLAIM-1095](../claims.d/CLAIM-1095.md). Two clauses dropped by
+narrowing are filed as Proposed claims, [CLAIM-1259](../claims.d/CLAIM-1259.md) and [CLAIM-1282](../claims.d/CLAIM-1282.md).
+[CASE-163](../cases.d/CASE-163.md) and [CASE-164](../cases.d/CASE-164.md) stay Proposed: the re-read of PerspectiveLab's
+stored results needs that repository, which is not in this checkout. The
+concession of [CLAIM-1185](../claims.d/CLAIM-1185.md) on [CLAIM-1024](../claims.d/CLAIM-1024.md) is due and is the owner's. The pass
+is described in the curation entry of that date. The note is the
+assistant's (Claude, in this session).

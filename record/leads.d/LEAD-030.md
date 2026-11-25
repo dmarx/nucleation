@@ -10,7 +10,7 @@ history:
   date: '2026-11-25'
   note: >-
     Done, at the owner's go-ahead of 2026-11-25 ("go ahead with the
-    reruns"), whose brief for the recomputation pass of LEAD-tmpc0rqa
+    reruns"), whose brief for the recomputation pass of LEAD-252
     took in closing the leads whose runs are recorded and meet their
     own "What would count", as housekeeping and not a change of
     credence. Its run, CASE-367, was rerun on 2026-11-25 by a session
@@ -82,4 +82,4 @@ and any run on real engagement data, which this lead does not reach.
 
 ## Note of 2026-11-25: closed
 
-Closed as Done in the recomputation pass of [LEAD-tmpc0rqa](LEAD-tmpc0rqa.md) (history, version 2). [CASE-367](../cases.d/CASE-367.md) was regenerated from nothing by a session other than the filer's: all 40 runs identical but timings, `results.md` byte for byte. What would count, classes that reshape preferences only when used, is what the run found, and it reproduces. [CASE-367](../cases.d/CASE-367.md) itself stays Proposed for one misstated sentence about the closure defect (its note of this date), which does not touch this lead's test. The remaining items (re-inference during the run, the choice of K, A27 §5's self-supervised arm, a longer creation run, real data) are open for a new lead if wanted. The note is the assistant's (Claude, in this session).
+Closed as Done in the recomputation pass of [LEAD-252](LEAD-252.md) (history, version 2). [CASE-367](../cases.d/CASE-367.md) was regenerated from nothing by a session other than the filer's: all 40 runs identical but timings, `results.md` byte for byte. What would count, classes that reshape preferences only when used, is what the run found, and it reproduces. [CASE-367](../cases.d/CASE-367.md) itself stays Proposed for one misstated sentence about the closure defect (its note of this date), which does not touch this lead's test. The remaining items (re-inference during the run, the choice of K, A27 §5's self-supervised arm, a longer creation run, real data) are open for a new lead if wanted. The note is the assistant's (Claude, in this session).

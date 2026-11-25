@@ -180,7 +180,7 @@ example breaking it at one threshold, ε = 0.15, was found.
 Adoption by the owner, or a claim of the record's own that names which
 profile it means.
 
-<!-- inactive-ok-file: CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+<!-- inactive-ok-file: CLAIM-1319 — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A30
 
@@ -193,10 +193,10 @@ extremely expensive to leave." A30 §9 indexes the profile by party,
 R_i(C, C′), so the same transition can cost one party 1 and the other 8
 (illustrative). The party index is an extension the term does not carry:
 a configuration's profiles here are one organization's. An application,
-with that extension; [CLAIM-tmpsf9hp](../claims.d/CLAIM-tmpsf9hp.md). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+with that extension; [CLAIM-1319](../claims.d/CLAIM-1319.md). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
 ## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
-<!-- inactive-ok-file: CLAIM-646 SYNTHESIS-tmp4tvbr — Proposed; cited with their standing -->
+<!-- inactive-ok-file: CLAIM-646 SYNTHESIS-125 — Proposed; cited with their standing -->
 
 The note above records A30 §8's "A relationship may be easy to enter,
 inexpensive to maintain and extremely expensive to leave" as an
@@ -204,7 +204,7 @@ application of the incoming and outgoing profiles. The manuscript's first
 draft read a contract's exit as [CLAIM-591](../claims.d/CLAIM-591.md)'s directed thresholds, and
 called this term's costs "additive distances" (its join J3.5). The
 independent reader of the joins found that the join failed
-([SYNTHESIS-tmp4tvbr](../syntheses.d/SYNTHESIS-tmp4tvbr.md), "The joins of the manuscript governance-of-becoming,
+([SYNTHESIS-125](../syntheses.d/SYNTHESIS-125.md), "The joins of the manuscript governance-of-becoming,
 Part I"), and that the term is not additive by definition: "Under
 additive costs either profile recovers d". What stays open is which cost
 a contract's exit is.

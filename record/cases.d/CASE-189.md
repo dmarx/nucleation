@@ -54,7 +54,7 @@ history:
   date: '2026-11-25'
   note: >-
     A dated note closing the gap note of 2026-11-24: the supply parameter
-    was computed, and CLAIM-tmpv6tw7 holds the result. No other change.
+    was computed, and CLAIM-1332 holds the result. No other change.
 standing: fictional
 kind: construction
 tags:
@@ -306,7 +306,7 @@ governance-of-becoming, Article 1's G1.2, in
 `scratch/manuscripts/governance-of-becoming/analysis/case189_supply_parameter.py`
 (output of 2026-11-25 beside it; the script first reproduces this case's
 own figures, the fold at d* = 0.6908 among them, and prints "checks pass").
-The result is [CLAIM-tmpv6tw7](../claims.d/CLAIM-tmpv6tw7.md) (Proposed, demonstrated, the assistant's):
+The result is [CLAIM-1332](../claims.d/CLAIM-1332.md) (Proposed, demonstrated, the assistant's):
 
 - with a supply multiplying the production terms, Construction 2 shows all
   three of [CLAIM-604](../claims.d/CLAIM-604.md)'s signatures: an ignition threshold with the supply
@@ -323,7 +323,7 @@ So the gap is closed: the signatures appear once a supply is put in, and
 the misreading the note of 2026-11-24 corrected stays corrected, since
 the case as filed has no supply. [CLAIM-606](../claims.d/CLAIM-606.md)'s limit still holds: the
 signatures do not identify upkeep drawn in through the structure's own
-state; withdrawing the supply does. [CLAIM-tmpv6tw7](../claims.d/CLAIM-tmpv6tw7.md) has been checked by its
+state; withdrawing the supply does. [CLAIM-1332](../claims.d/CLAIM-1332.md) has been checked by its
 filer only. Bearing: no change to the case, its title or its status. The
 wording is the assistant's (Claude, in this session); adopting it is the
 owner's call.

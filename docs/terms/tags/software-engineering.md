@@ -6,8 +6,8 @@
 
 **Software engineering** — how software is specified, built, tested and changed — test oracles and metamorphic testing, verification against specifications, reflective and metaobject architectures, self-adaptive systems and models kept at run time, model-driven engineering and the coupled evolution of metamodels and their instances, and version control and change management; read for itself, not as ML practice, which belongs to the anthology (ADR-048); ontology and schema change as data organization stays with databases (ADR-097).
 
-0 of 167 TERM documents. Back to the [full index](../README.md).
+1 of 179 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-174](../../../record/terms.d/TERM-174.md) | operational standing | A16 §3 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24), defining the standing the owner's U14 said contracts can operationalize ([CLAIM-1293](../../../record/claims.d/CLAIM-1293.md)). It sets four quantities apart, asserted claim, operational standing, effective authority and moral standing, and denies that standing is a place in a queue. The wording is A's (ChatGPT, in the exchange 'Memes, Contracts, and Systemic Normativity'); adopting it is the owner's call. | Proposed |

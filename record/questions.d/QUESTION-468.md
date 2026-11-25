@@ -213,7 +213,7 @@ The question stays Open.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A22
 
-<!-- inactive-ok-file: CLAIM-tmp05a1l CLAIM-tmppx64t CLAIM-tmp1nubb CLAIM-tmp8bimm — new; the claims filed on 2026-11-24 that bear on this question -->
+<!-- inactive-ok-file: CLAIM-1209 CLAIM-1309 CLAIM-1219 CLAIM-1244 — new; the claims filed on 2026-11-24 that bear on this question -->
 
 A22 §19 (ChatGPT, 2026-11-24) answers the first part of the question, what
 separates exploitation from dependence, with three levels, keeping the
@@ -235,8 +235,8 @@ attributing moral duties or moral patienthood to their constituents."
 This is a sorting of the question's terms, not an answer to its second and
 third parts, which standard and who answers. The filing of 2026-11-24 adds
 four claims that bear on the question: the owner's U17, filed as two
-readings ([CLAIM-tmp05a1l](../claims.d/CLAIM-tmp05a1l.md), reliance as exposure; [CLAIM-tmppx64t](../claims.d/CLAIM-tmppx64t.md), exploitation
+readings ([CLAIM-1209](../claims.d/CLAIM-1209.md), reliance as exposure; [CLAIM-1309](../claims.d/CLAIM-1309.md), exploitation
 as revelation); identification of an implicit contract by perturbation
-rather than routine behaviour ([CLAIM-tmp1nubb](../claims.d/CLAIM-tmp1nubb.md)); and the regulatory surplus
-whose capture is a candidate mechanism of exploitation ([CLAIM-tmp8bimm](../claims.d/CLAIM-tmp8bimm.md)).
+rather than routine behaviour ([CLAIM-1219](../claims.d/CLAIM-1219.md)); and the regulatory surplus
+whose capture is a candidate mechanism of exploitation ([CLAIM-1244](../claims.d/CLAIM-1244.md)).
 The question stays Open.

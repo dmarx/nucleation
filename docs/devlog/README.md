@@ -6,6 +6,14 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## Currently — [November 2026](2026-11.md)
 
+- [25 Nov 17:29 — An optional prose field cannot be declared in luria.yaml](2026-11.md#an-optional-prose-field-cannot-be-declared-in-luriayaml)
+- [25 Nov 14:43 — Reader branches stranded by a usage limit and then by a promotion, and carried onto the permanent codes by script](2026-11.md#reader-branches-stranded-by-a-usage-limit-and-then-by-a-promotion-and-carried-onto-the-permanent-codes-by-script)
+- [25 Nov 07:46 — A procedural choice was filed as an inquiry question with claims as answers, and the owner caught it](2026-11.md#a-procedural-choice-was-filed-as-an-inquiry-question-with-claims-as-answers-and-the-owner-caught-it)
+- [25 Nov 07:25 — Searching by mechanism still missed held work in Part III, and filing the drafter's joins as notes made the join test circular](2026-11.md#searching-by-mechanism-still-missed-held-work-in-part-iii-and-filing-the-drafters-joins-as-notes-made-the-join-test-circular)
+- [25 Nov 07:20 — Under the dialectic regime the assistant held a works registration for the owner, who corrected it: the regime is meant to be largely hands free](2026-11.md#under-the-dialectic-regime-the-assistant-held-a-works-registration-for-the-owner-who-corrected-it-the-regime-is-meant-to-be-largely-hands-free)
+- [25 Nov 03:30 — Step 3a ran on Part II's drafts and still missed held work, which the review then caught](2026-11.md#step-3a-ran-on-part-iis-drafts-and-still-missed-held-work-which-the-review-then-caught)
+- [24 Nov 22:29 — The audit of the article series filed new leads for experiments the record had already run](2026-11.md#the-audit-of-the-article-series-filed-new-leads-for-experiments-the-record-had-already-run)
+- [24 Nov 20:58 — Filing a 31-turn exchange with nine parallel filers: what held, and the drift a stale staging caused](2026-11.md#filing-a-31-turn-exchange-with-nine-parallel-filers-what-held-and-the-drift-a-stale-staging-caused)
 - [24 Nov 20:19 — A red docs-lint on main silently skips the back-merge into staging](2026-11.md#a-red-docs-lint-on-main-silently-skips-the-back-merge-into-staging)
 - [23 Nov 03:45 — The write-manuscript protocol was first written from one manuscript's README, not from the record of how that manuscript was made](2026-11.md#the-write-manuscript-protocol-was-first-written-from-one-manuscripts-readme-not-from-the-record-of-how-that-manuscript-was-made)
 - [23 Nov 03:20 — An owner's request to file a manuscript as a work was read as a LIT, when the record has a works vocabulary for it](2026-11.md#an-owners-request-to-file-a-manuscript-as-a-work-was-read-as-a-lit-when-the-record-has-a-works-vocabulary-for-it)
@@ -33,8 +41,8 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## All books
 
-24 entries across 1 book, newest first.
+32 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 24 | 2026-11-21 | 2026-11-24 |
+| [2026-11](2026-11.md) | 32 | 2026-11-21 | 2026-11-25 |

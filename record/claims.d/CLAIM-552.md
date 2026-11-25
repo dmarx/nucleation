@@ -38,7 +38,7 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 4 formal centre (ADR-tmpenzcn). No
+    stated or used in A49 Article 4 formal centre (ADR-147). No
     change of title or status.
 role: thesis
 warrant: interpretive
@@ -192,7 +192,7 @@ A16 §8 reads an error budget as tolerance made explicit in an agreement:
 tolerable deviation can be explicitly specified, allowing reliability
 concerns and development concerns to coexist", citing Google SRE policies
 "that restrict releases when a service exhausts its error budget" (the
-example policy is [LIT-tmpwfb8b](../literature.d/LIT-tmpwfb8b.md)). "A process need not continuously override
+example policy is [LIT-3260](../literature.d/LIT-3260.md)). "A process need not continuously override
 competing processes merely because its preferred state is unrealized. A
 contract can establish a region of acceptable deviation within which other
 perspectives remain free to govern." "Escalation is determined by a
@@ -200,9 +200,9 @@ maintained agreement, rather than by every discrepancy independently
 claiming unrestricted control." Against this claim, which makes each
 tolerance the perceiving perspective's own, set by its priorities, A16's
 tolerance is negotiated between perspectives and maintained as a contract
-([CLAIM-tmpkvzcn](CLAIM-tmpkvzcn.md), [CLAIM-tmp7hqtl](CLAIM-tmp7hqtl.md)): the threshold at which reliability work
+([CLAIM-1293](CLAIM-1293.md), [CLAIM-1239](CLAIM-1239.md)): the threshold at which reliability work
 takes precedence is fixed jointly, not by the reliability concern alone.
 Bearing: an extension from a directed tolerance to an agreed one. The
 claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
-<!-- inactive-ok-file: CLAIM-tmpkvzcn CLAIM-tmp7hqtl LIT-tmpwfb8b — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->
+<!-- inactive-ok-file: CLAIM-1293 CLAIM-1239 LIT-3260 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->

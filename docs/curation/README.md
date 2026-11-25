@@ -6,6 +6,12 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [25 Nov 14:13 — Recomputation pass of 2026-11-25 at the owner's word](2026-11.md#recomputation-pass-of-2026-11-25-at-the-owners-word)
+- [25 Nov 03:44 — Martin-Löf 1984, Intuitionistic Type Theory, read and filed for the type-theory readings lead](2026-11.md#martin-löf-1984-intuitionistic-type-theory-read-and-filed-for-the-type-theory-readings-lead)
+- [25 Nov 03:27 — The exchange Hyper article interpretation: the record as a hyperarticle, feeds and journals, maintenance as the incentive, provenance, and the record as an atlas of views](2026-11.md#the-exchange-hyper-article-interpretation-the-record-as-a-hyperarticle-feeds-and-journals-maintenance-as-the-incentive-provenance-and-the-record-as-an-atlas-of-views)
+- [25 Nov 02:20 — Reruns of 2026-11-25 at the owner's word](2026-11.md#reruns-of-2026-11-25-at-the-owners-word)
+- [24 Nov 23:11 — Status pass of 2026-11-24 at the owner's word](2026-11.md#status-pass-of-2026-11-24-at-the-owners-word)
+- [24 Nov 20:56 — The exchange Memes, Contracts, and Systemic Normativity, U1 to U31: memes, contracts between processes, implicit contracts and norms, SRE and American governance, legibility and metrics, and the article series added as the work governance-of-becoming; with the owner's sidebars on productive misunderstanding and on norms that outlast their justification](2026-11.md#the-exchange-memes-contracts-and-systemic-normativity-u1-to-u31-memes-contracts-between-processes-implicit-contracts-and-norms-sre-and-american-governance-legibility-and-metrics-and-the-article-series-added-as-the-work-governance-of-becoming-with-the-owners-sidebars-on-productive-misunderstanding-and-on-norms-that-outlast-their-justification)
 - [23 Nov 09:26 — Explain First Contact RL, the fourth and fifth shares: U26 to U32 and a branch, on questions and answers, permission, the joint inquiry frontier, diversity, intelligence and collective identity](2026-11.md#explain-first-contact-rl-the-fourth-and-fifth-shares-u26-to-u32-and-a-branch-on-questions-and-answers-permission-the-joint-inquiry-frontier-diversity-intelligence-and-collective-identity)
 - [23 Nov 08:21 — Membership pass of 2026-11-23 for the work governance-of-possibility: 115 claims and one argument join from the revised manuscript, with seven filed for it left to the owner](2026-11.md#membership-pass-of-2026-11-23-for-the-work-governance-of-possibility-115-claims-and-one-argument-join-from-the-revised-manuscript-with-seven-filed-for-it-left-to-the-owner)
 - [23 Nov 07:58 — Lead run of 2026-11-23 on separating the germline route of inherited trauma: five works read, the designs mapped by what each removes and leaves, and two readings of the Syrian three-generation study filed for the owner's choice](2026-11.md#lead-run-of-2026-11-23-on-separating-the-germline-route-of-inherited-trauma-five-works-read-the-designs-mapped-by-what-each-removes-and-leaves-and-two-readings-of-the-syrian-three-generation-study-filed-for-the-owners-choice)
@@ -28,7 +34,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 - [22 Nov 17:05 — Axelrod and colleagues read for the will line, with both replications, and a search for tests of Metzinger's H1 and H3 that found none](2026-11.md#axelrod-and-colleagues-read-for-the-will-line-with-both-replications-and-a-search-for-tests-of-metzingers-h1-and-h3-that-found-none)
 - [22 Nov 17:04 — Rondon, Kawaguchi and Jhala 2008, Liquid Types, read and filed for the type-theory readings lead](2026-11.md#rondon-kawaguchi-and-jhala-2008-liquid-types-read-and-filed-for-the-type-theory-readings-lead)
 - [22 Nov 17:03 — Davies and Pfenning 2000, Intersection Types and Computational Effects, read and filed for the type-theory readings lead](2026-11.md#davies-and-pfenning-2000-intersection-types-and-computational-effects-read-and-filed-for-the-type-theory-readings-lead)
+- [22 Nov 16:19 — Kolmogorov 1932 read: is a question a problem?](2026-11.md#kolmogorov-1932-read-is-a-question-a-problem)
+- [22 Nov 16:18 — Dunfield and Krishnaswami 2021, Bidirectional Typing, read and filed for the lead on type-theoretic sources](2026-11.md#dunfield-and-krishnaswami-2021-bidirectional-typing-read-and-filed-for-the-lead-on-type-theoretic-sources)
 - [22 Nov 16:16 — Freeman and Pfenning 1991, Refinement Types for ML, read and filed for the type-theory readings lead](2026-11.md#freeman-and-pfenning-1991-refinement-types-for-ml-read-and-filed-for-the-type-theory-readings-lead)
+- [22 Nov 16:16 — Kleene 1945 on realizability: no lawful copy, read through van Oosten's historical essay; the realizer keeps the witness and not the evidence](2026-11.md#kleene-1945-on-realizability-no-lawful-copy-read-through-van-oostens-historical-essay-the-realizer-keeps-the-witness-and-not-the-evidence)
 - [22 Nov 13:38 — LEAD-032: search for dismantling trials of safety behaviour with exposure held fixed, and for individual data showing hysteresis; three readings filed](2026-11.md#lead-032-search-for-dismantling-trials-of-safety-behaviour-with-exposure-held-fixed-and-for-individual-data-showing-hysteresis-three-readings-filed)
 - [22 Nov 13:25 — Audit of open leads from the backlog audit of 2026-11-19 for targets the record already holds: thirty-three checked, two held and five partly held](2026-11.md#audit-of-open-leads-from-the-backlog-audit-of-2026-11-19-for-targets-the-record-already-holds-thirty-three-checked-two-held-and-five-partly-held)
 - [22 Nov 11:59 — Batch D of the Unfetched sweep read: four works read and moved to Active, Metzinger on artificial suffering, Howard, Gagné and Bureau's motivation meta-analysis, Burning Man's 10 Principles, and Syropoulos and Law on prospection and future generations](2026-11.md#batch-d-of-the-unfetched-sweep-read-four-works-read-and-moved-to-active-metzinger-on-artificial-suffering-howard-gagné-and-bureaus-motivation-meta-analysis-burning-mans-10-principles-and-syropoulos-and-law-on-prospection-and-future-generations)
@@ -160,10 +169,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-348 entries across 3 books, newest first.
+357 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 151 | 2026-11-01 | 2026-11-23 |
+| [2026-11](2026-11.md) | 160 | 2026-11-01 | 2026-11-25 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

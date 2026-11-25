@@ -31,9 +31,9 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpqj2d4 CLAIM-487 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
+<!-- inactive-ok-file: THEORY-2309 CLAIM-487 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
 
-<!-- inactive-ok-file: THEORY-tmptsz1u — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
+<!-- inactive-ok-file: THEORY-2310 — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: TERM-151 TERM-134 CLAIM-477 CLAIM-783 CLAIM-942 SYNTHESIS-114 — Proposed; the term filed with this, and the entries it is stated against -->
 
 # TERM-152: specification
@@ -89,7 +89,7 @@ inference", p. 2). No change.
 ## Note of 2026-11-22: Kleene, read through van Oosten
 
 An analogy and a word collision, no edge. Kleene's "realizer" (as van
-Oosten states it, [THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md)) attaches to a sentence and is
+Oosten states it, [THEORY-2309](../theory.d/THEORY-2309.md)) attaches to a sentence and is
 information about how it holds; this term's "realization" attaches to a
 set of tests and is the object tested. The set of realizers of a sentence
 is a set of admissible realizations in this term's sense, so the shapes
@@ -102,8 +102,8 @@ system that realizes a function, as in [CLAIM-487](../claims.d/CLAIM-487.md)), a
 
 ## Note of 2026-11-22: Dunfield and Krishnaswami, read
 
-Two parallels from their survey of bidirectional typing ([THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md), read
-in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)); analogies, no relation written. Polikarpova's strengthening
+Two parallels from their survey of bidirectional typing ([THEORY-2310](../theory.d/THEORY-2310.md), read
+in [NOTE-2421](../notes.d/NOTE-2421.md)); analogies, no relation written. Polikarpova's strengthening
 checks a variable against a required type and returns the refinement
 {b | ν = x}, a type written from the variable itself and stronger than the
 requirement (§6.4): a **description** in this term's sense, read off one
@@ -113,19 +113,19 @@ A ⊃ B" (§4.6): one specification tested against another by containment,
 not by a realization.
 
 ## Note of 2026-11-22: Kolmogorov, read
-<!-- inactive-ok-block: THEORY-tmpdsft8 ARG-tmp6sdu6 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
+<!-- inactive-ok-block: THEORY-2308 ARG-245 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
 
-Kolmogorov 1932 ([THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md), read in [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md)): a parallel, no edge. A problem
+Kolmogorov 1932 ([THEORY-2308](../theory.d/THEORY-2308.md), read in [NOTE-2422](../notes.d/NOTE-2422.md)): a parallel, no edge. A problem
 with many solutions is a partial specification of them, and a problem
 whose supposition is impossible, "inhaltslos" (p. 59), is one no
 realization passes; Kolmogorov counts the proof of that as its solution.
-How far a question is such a problem is weighed in [ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md). Unchanged.
+How far a question is such a problem is weighed in [ARG-245](../arguments.d/ARG-245.md). Unchanged.
 
 ## Note of 2026-11-25: Martin-Löf, read
-<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv CLAIM-tmpjs6hp — Proposed or Skimmed; filed for LEAD-215 -->
+<!-- inactive-ok-file: THEORY-2307 NOTE-2419 CLAIM-1289 — Proposed or Skimmed; filed for LEAD-215 -->
 
 A qualification, from Martin-Löf's Intuitionistic Type Theory
-([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md); [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md); [CLAIM-tmpjs6hp](../claims.d/CLAIM-tmpjs6hp.md)). The book uses this
+([THEORY-2307](../theory.d/THEORY-2307.md); [NOTE-2419](../notes.d/NOTE-2419.md); [CLAIM-1289](../claims.d/CLAIM-1289.md)). The book uses this
 term's pair in so many words: "a is a program ... which meets the
 specification A" (p. 6), and its forms of judgement keep the two apart, a
 realization judged only against a specification already formed: "a

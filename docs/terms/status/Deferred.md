@@ -4,9 +4,10 @@
 
 **Deferred** — not in force and not being worked on; the question is real and the answer is waiting on something.
 
-2 of 167 TERM documents. Back to the [full index](../README.md).
+3 of 179 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-006](../../../record/terms.d/TERM-006.md) | organizational authenticity | A graded property: how far an agent's operative commitments arise through, remain integrated with, and are answerable to its own constitutive organization (A252). Set aside with its line on 2026-10-05. | Deferred |
 | [TERM-012](../../../record/terms.d/TERM-012.md) | cross-scale concordance | A graded relational property of how an encompassing agent's governing organization stands to the capacities of its constituents and dependencies (A249). Defined at least five ways in the exchange; set aside as future work. | Deferred |
+| [TERM-159](../../../record/terms.d/TERM-159.md) v2 | inquiry frontier (question–answer) | Alternative (a) for the owner's U30 ([CLAIM-1009](../../../record/claims.d/CLAIM-1009.md)): [TERM-092](../../../record/terms.d/TERM-092.md) revised to the joint object. The definition is A58 §3's "Proposed revision to [TERM-092](../../../record/terms.d/TERM-092.md)" in the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23), which A58 called "a substantive versioned revision of [TERM-092](../../../record/terms.d/TERM-092.md), not just a clarification of its existing wording". Adopted, it would replace [TERM-092](../../../record/terms.d/TERM-092.md)'s definition and the five claims stated in [TERM-092](../../../record/terms.d/TERM-092.md) would each need to say which set they use. [TERM-160](../../../record/terms.d/TERM-160.md) is alternative (b). The note of 2026-11-23 is the assistant's: what this wording drops from [TERM-092](../../../record/terms.d/TERM-092.md). The wording is A's (ChatGPT's, at A58 of the exchange "Explain First Contact RL"); adopting it is the owner's call. | Deferred |

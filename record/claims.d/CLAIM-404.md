@@ -108,7 +108,7 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 6 abstract, §4 (ADR-tmpenzcn). No
+    stated or used in A49 Article 6 abstract, §4 (ADR-147). No
     change of title or status.
 role: thesis
 warrant: interpretive
@@ -604,7 +604,7 @@ For this claim's second defeat condition, the showing that the loop between the 
 
 ## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", U6/A7
 
-<!-- inactive-ok-file: CLAIM-tmpp0ufw ARG-tmp2kh2e — Proposed; filed from or read against the exchange of 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-1307 ARG-242 — Proposed; filed from or read against the exchange of 2026-11-24 -->
 
 At U6 the owner asked to "relate this to Nucleation's account of reflexive
 control", after earlier turns on memes as nucleation sites and as
@@ -616,9 +616,9 @@ correctly, and [CLAIM-703](CLAIM-703.md) as a third.
 
 What A7 adds is an influence on how the target's organization forms,
 carried by a transmissible expression and then maintained by the target,
-filed as [CLAIM-tmpp0ufw](CLAIM-tmpp0ufw.md) (A's, Proposed). This claim's three routes act on
+filed as [CLAIM-1307](CLAIM-1307.md) (A's, Proposed). This claim's three routes act on
 a decision's conditions; that one predicts effects that outlast the source
-and reach circumstances never presented. [ARG-tmp2kh2e](../arguments.d/ARG-tmp2kh2e.md) finds [CASE-191](../cases.d/CASE-191.md) and
+and reach circumstances never presented. [ARG-242](../arguments.d/ARG-242.md) finds [CASE-191](../cases.d/CASE-191.md) and
 [CASE-123](../cases.d/CASE-123.md) carry its possibility half and nothing built carries its
 cultural carrier. A7 §7's "governance character", the relations deciding
 whose perspective becomes effective, is a label for the governing
@@ -636,6 +636,6 @@ capture, and says nothing of the kind; the point is [TERM-066](../terms.d/TERM-0
 
 The note of 2026-11-24 above says "This claim's three routes". This claim
 holds two routes (evidence and criteria); [CLAIM-703](CLAIM-703.md) holds the third
-(circumstances), and [CLAIM-tmpp0ufw](CLAIM-tmpp0ufw.md) proposes a fourth (formation). Found by
+(circumstances), and [CLAIM-1307](CLAIM-1307.md) proposes a fourth (formation). Found by
 the Part II drafter and confirmed by the independent join reader. The
 wording is the assistant's (Claude, in this session).

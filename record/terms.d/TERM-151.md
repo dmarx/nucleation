@@ -31,7 +31,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
+<!-- inactive-ok-file: THEORY-2310 CLAIM-1327 — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: TERM-152 TERM-134 THEORY-162 CLAIM-943 CLAIM-942 — Proposed; the term filed with this, and the entries it is stated against -->
 
 # TERM-151: direction of fit
@@ -115,7 +115,7 @@ distinction is the claim's.
 
 A qualification of the sentence "Which direction a test has is settled
 by the thing as it stands when the test is applied". Bidirectional typing
-([THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md), read in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)) separates three things this definition joins:
+([THEORY-2310](../theory.d/THEORY-2310.md), read in [NOTE-2421](../notes.d/NOTE-2421.md)) separates three things this definition joins:
 
 - **where the type comes from**, its mode: given as input (checking) or
   computed from the term (synthesis) (§1);
@@ -125,17 +125,17 @@ by the thing as it stands when the test is applied". Bidirectional typing
 - **whether the term passes**, which does not change either.
 
 A requirement the term already meets is world to word by Searle's
-reading and a descriptor by this term's. [CLAIM-tmpugw2q](../claims.d/CLAIM-tmpugw2q.md) files the objection;
+reading and a descriptor by this term's. [CLAIM-1327](../claims.d/CLAIM-1327.md) files the objection;
 whether the term should say which reading it means is the owner's call.
 The mode distinction parallels, and does not replace, this term's two
 directions: the survey's modes can be reversed without changing who must
 fit (§6.5).
 
 ## Note of 2026-11-25: Martin-Löf, read
-<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv — Proposed or Skimmed; filed for LEAD-215 -->
+<!-- inactive-ok-file: THEORY-2307 NOTE-2419 — Proposed or Skimmed; filed for LEAD-215 -->
 
-A parallel (no edge). Martin-Löf's table of readings ([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md);
-[NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md)) reads one form of judgement, a ∈ A, both as "a is an
+A parallel (no edge). Martin-Löf's table of readings ([THEORY-2307](../theory.d/THEORY-2307.md);
+[NOTE-2419](../notes.d/NOTE-2419.md)) reads one form of judgement, a ∈ A, both as "a is an
 element of the set A" and as "a is a method of fulfilling (realizing) the
 intention (expectation) A" (p. 5), Heyting's reading, in which the
 judgement is world to word. The direction belongs to the reading of the
