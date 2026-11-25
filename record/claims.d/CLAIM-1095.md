@@ -1,10 +1,25 @@
 ---
 number: 1095
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpfc364
 title: "A response kernel that includes the organization's state after answering is not an observational quantity: compared directly, it separates any two organizations whose post-states differ, even when no test could tell them apart, so the developmental comparison should observe the post-state only through its later responses, as a bisimulation pseudometric does, which keeps the separation of a learning and a suppressing organization"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("handle the
+    fixes for the twelve ... use your best judgement", under the
+    dialectic regime; ADR-057). Its stated fix was that TERM-165 go
+    first: TERM-165 is adopted in this pass, its ground THEORY-247 is
+    Active, no objection targets it, and nothing meets its defeated_if.
+    The construction's script was not kept, so a session other than the
+    filer's reconstructed it from the entry as
+    scratch/formal/response_kernel_bisimulation_check.py and ran it with
+    python3 -I: the table reproduces (s, t: 0, 1, 0; u, v: 0, 1, 5.4). A
+    counter: its concession is written on CLAIM-1156 in the same pass
+    (ADR-059).
 role: counter
 warrant: demonstrated
 defeated_if: >-
@@ -39,7 +54,7 @@ summary: >-
   owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-615 CLAIM-1156 TERM-165 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
+<!-- inactive-ok-file: CLAIM-615 CLAIM-1156 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
 # CLAIM-1095: A response kernel that includes the organization's state after answering is not an observational quantity: compared directly, it separates any two organizations whose post-states differ, even when no test could tell them apart, so the developmental comparison should observe the post-state only through its later responses, as a bisimulation pseudometric does, which keeps the separation of a learning and a suppressing organization
 
@@ -54,7 +69,7 @@ Two queries: a familiar q0 and a novel q1. Each state answers each query adequat
 - **s and t.** Both answer q0 with 0.9 and q1 with 0.2 and move to s1 and t1. These are distinct states that answer as s and t do and stay where they are. No test can tell s from t, at any depth.
 - **u and v.** Both answer as s does now. u moves to u1, which answers q1 with 0.7 (it learned); v moves to v1, which answers q1 with 0.1 (it suppressed).
 
-Distances, in this session's script (python3 -I), with the answer term the total-variation distance between the adequacy laws:
+Distances, in this session's script (python3 -I), with the answer term the total-variation distance between the adequacy laws. That script was not kept; at the status pass of 2026-11-24 a session other than the filer's reconstructed it from this entry as `scratch/formal/response_kernel_bisimulation_check.py`, which reproduces the table and prints "checks pass":
 
 | pair | answers only | S′ compared directly (discrete metric) | bisimulation, γ = 0.9 |
 |---|---|---|---|

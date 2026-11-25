@@ -3,7 +3,14 @@ number: 360
 status: Proposed
 formerly:
 - CASE-tmpo9u3y
-title: 'Information-bottleneck nesting computed by lower convex envelopes on simplex grids: decoder intervals widened with β on all 300 random sources with two distinct rows of p(Y|x) and up to six outputs, consecutive optima of random three-row sources failed the hull test for 28 of 150 at an L1 distance above 0.05, and grid envelopes of twelve products never fell below the sum of their factors'' envelopes'
+title: 'Information-bottleneck nesting on simplex grids'
+statement: >-
+  Information-bottleneck nesting computed by lower convex envelopes on
+  simplex grids: decoder intervals widened with β on all 300 random sources
+  with two distinct rows of p(Y|x) and up to six outputs, consecutive optima
+  of random three-row sources failed the hull test for 28 of 150 at an L1
+  distance above 0.05, and grid envelopes of twelve products never fell
+  below the sum of their factors' envelopes
 version: 1
 standing: documented
 kind: executed-study
@@ -34,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-939 CLAIM-940 CLAIM-941 — new; the claims this study checks or cites, filed with it from LEAD-039 -->
 
-# CASE-360: Information-bottleneck nesting computed by lower convex envelopes on simplex grids: decoder intervals widened with β on all 300 random sources with two distinct rows of p(Y|x) and up to six outputs, consecutive optima of random three-row sources failed the hull test for 28 of 150 at an L1 distance above 0.05, and grid envelopes of twelve products never fell below the sum of their factors' envelopes
+# CASE-360: Information-bottleneck nesting on simplex grids
 
 ## The case
 

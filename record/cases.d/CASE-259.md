@@ -3,7 +3,13 @@ number: 259
 status: Proposed
 formerly:
 - CASE-tmpjucsj
-title: 'The eater in Conway''s Game of Life: alone it is a fixed point; struck by a glider in one lane it loses a cell and regrows it by its own neighbour counts, where a block in its place is annihilated; set across a glider gun''s stream it repairs itself every 30 generations and makes gun and eater one bounded period-30 whole'
+title: 'The eater in Conway''s Game of Life'
+statement: >-
+  The eater in Conway's Game of Life: alone it is a fixed point; struck by a
+  glider in one lane it loses a cell and regrows it by its own neighbour
+  counts, where a block in its place is annihilated; set across a glider
+  gun's stream it repairs itself every 30 generations and makes gun and
+  eater one bounded period-30 whole
 version: 1
 standing: documented
 kind: construction
@@ -36,7 +42,7 @@ summary: >-
 
 <!-- inactive-ok-file: CASE-260 — Proposed; the block construction this case varies, filed with it -->
 
-# CASE-259: The eater in Conway's Game of Life: alone it is a fixed point; struck by a glider in one lane it loses a cell and regrows it by its own neighbour counts, where a block in its place is annihilated; set across a glider gun's stream it repairs itself every 30 generations and makes gun and eater one bounded period-30 whole
+# CASE-259: The eater in Conway's Game of Life
 
 ## The case
 

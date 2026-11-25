@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpg1n2c
 title: 'An organization that acts on what it observes has a policy acceptable in every circumstance exactly when, for each observation, the circumstances it cannot tell apart share an acceptable action; so every circumstance having an acceptable action does not give a policy, a finer observation never removes one, and where acceptable actions overlap the coarsest observations that suffice are several and incomparable, so which distinctions must be made legible depends on which acceptable action the organization commits to'
-version: 5
+version: 7
 history:
 - version: 2
   date: '2026-11-10'
@@ -39,6 +39,19 @@ history:
     re-derives the claim's disjoint case as a "formal obstruction"
     without citing it, and the filer adds the bound for randomized
     policies, checked. No other change.
+- version: 6
+  date: '2026-11-25'
+  note: >-
+    Gains the line self-correction (atlas scope 10) under ADR-tmpd3ckn:
+    the entry is in that scope's core fiber in the hyperarticle atlas v0.3
+    (scratch/atlas/atlas-v0.3.md), and each atlas scope is documented as a
+    line. No other change.
+- version: 7
+  date: '2026-11-25'
+  note: >-
+    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    A45 in the exchange "Hyper article interpretation" states its
+    proposition or uses it as a step, in §4. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -55,6 +68,7 @@ line:
 - formal-apparatus
 - distributed-agency
 - learning-and-inquiry
+- self-correction
 rests_on:
 - CLAIM-350
 grounds:
@@ -80,6 +94,8 @@ summary: >-
   case, is found by the reader of U32–U33: with overlapping acceptable
   sets, legibility is relative to policy. A positive characterization of
   what legibility must supply for action.
+works:
+- conditions-of-correction
 ---
 <!-- inactive-ok-file: ARG-060 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-620 — filed from the same exchange, Proposed -->
@@ -166,3 +182,8 @@ over many gestures rather than decode intent per gesture, which is this
 claim's lesson that the coarsest sufficient observation depends on the
 action committed to: an interface committed to adjusting only physics
 needs no distinction among the three intents. No status change.
+
+## Note of 2026-11-25: applied to research evaluation, and the half it drops
+
+<!-- inactive-ok-block: CLAIM-tmpts8ee CLAIM-tmpu6e4u — new and Proposed; A's application and the assistant's correction -->
+ChatGPT, at A24 §4 of the exchange "Hyper article interpretation" (2026-11-22), states this claim's condition correctly and applies it to academic evaluation. Publication count is adequate to a throughput question and inadequate to one about contribution ([CLAIM-tmpts8ee](CLAIM-tmpts8ee.md)). Its design goal, "Provide the distinctions required for justified action", drops this claim's second half: where acceptable actions overlap, the coarsest sufficient observations are several and incomparable. [CLAIM-tmpu6e4u](CLAIM-tmpu6e4u.md) makes the point with a three-circumstance example checked by script. Two evaluators facing one decision over one record can need incomparable minimal views. The note is the assistant's (Claude, in this session); adopting it is the owner's call. The claim is unchanged.

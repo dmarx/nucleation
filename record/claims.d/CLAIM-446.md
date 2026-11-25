@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8z857
 title: 'Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-25'
@@ -90,6 +90,12 @@ history:
     THEORY-910 and THEORY-915 (QUESTION-325) as "not excluded". The
     question's first line is already this claim's first, so no line is
     added (ADR-085). No other change.
+- version: 9
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 4 §6 (ADR-tmpenzcn). No change of
+    title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -109,6 +115,8 @@ date: '2026-10-23'
 line:
 - will-organization
 - organizational-affect
+works:
+- governance-of-becoming
 uses:
 - TERM-020
 rests_on:
@@ -140,7 +148,7 @@ bears_on:
 - QUESTION-325
 ---
 <!-- inactive-ok-file: THEORY-2242 — new; the reading cited in the note of 2026-11-22 (LEAD-032) -->
-<!-- inactive-ok-file: CASE-346 CLAIM-924 ARG-025 — new or Proposed; filed by LEAD-076 on 2026-11-22 and cited in its note of that date, ARG-025 for the grading -->
+<!-- inactive-ok-file: CLAIM-924 ARG-025 — new or Proposed; filed by LEAD-076 on 2026-11-22 and cited in its note of that date, ARG-025 for the grading -->
 <!-- inactive-ok-file: LIT-3074 LIT-3073 LIT-3077 — new or Deferred; LEAD-047's search of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant beside THEORY-963 (Active), which the reading of Lattimore and Szepesvári proposes supersede it; nothing here rests on it -->
 

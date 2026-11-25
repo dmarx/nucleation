@@ -88,3 +88,48 @@ The argument that answers it, [ARG-228](../arguments.d/ARG-228.md), is Proposed,
 neither answered by a held argument nor shown sound. Whether the matched-
 outcome construction defeats premise 1, and so whether this objection goes
 Rejected, is the owner's call.
+
+## Note of 2026-11-25: a parallel instrumentalism, from the manuscript governance-of-becoming, Article 8
+<!-- inactive-ok-file: CASE-336 CLAIM-909 CLAIM-911 CLAIM-913 — Proposed; the two constructions, their instrumentalist readings and the alternatives the owner has not ruled on, cited with their standing -->
+
+The manuscript's Article 8 (§8.5, join J8.2) sets two constructions side
+by side that the record has not linked. [ARG-228](../arguments.d/ARG-228.md)'s matched utilities,
+which answer CLAIM-1184, fix expected harm and vary only whether those
+affected can contest it. [CASE-336](../cases.d/CASE-336.md)'s variants C2* and C4* ([CLAIM-909](CLAIM-909.md)),
+which [CLAIM-913](CLAIM-913.md) reads, fix what a power's holder would do and vary only
+who holds a share of the power to review or revise. Both fix the
+instrumental difference and vary only standing or the allocation of a
+power, and CLAIM-1184 and [CLAIM-913](CLAIM-913.md) are the instrumentalist reading of
+each: what is left once the instrumental difference is matched is a
+residue, "no wrong beyond the harm" in one and "a residue of protective
+reasons that no longer apply" in the other.
+
+The parallel routes; it does not bind. Standing to be heard on a harm is
+not a share of a power to revise rules, so one can reject CLAIM-1184 and
+accept [CLAIM-913](CLAIM-913.md), or the reverse, without inconsistency; the stronger
+form, that the two stand or fall together, fails on that reading. What
+carries over is a candidate, not an entailment: a non-instrumental reason
+the owner accepts in one ([CLAIM-911](CLAIM-911.md)'s "personal reason of status", or
+[ARG-228](../arguments.d/ARG-228.md)'s carried-over judgement from [CLAIM-723](CLAIM-723.md)) is a reason to test in
+the other. The join has not yet been put to an independent reader under
+[ADR-075](../decisions.d/ADR-075.md). No change of status; the rulings on CLAIM-1184 and on [CLAIM-911](CLAIM-911.md)
+to [CLAIM-913](CLAIM-913.md) stay the owner's. The wording is the assistant's (Claude, in
+this session).
+
+**Correction of 2026-11-25 (the review of Part III, Part B).** The
+review's independent reader of the joins tested J8.2 under [ADR-075](../decisions.d/ADR-075.md). The
+parallel is accurate, and this note is right as a note, but the join
+fails as a claim: "a non-instrumental reason accepted in one is a
+candidate in the other" admits no separating case, since "candidate"
+absorbs every outcome. Its general form is held already, by [CLAIM-909](CLAIM-909.md):
+matched constructions discriminate "only when they hold fixed what a
+power's holder would do with it", and there "the verdict turns on
+whether a reason to hold or share a power, apart from its use, is an
+input" reasonable rejection admits. [ARG-228](../arguments.d/ARG-228.md) is a construction of that
+form for standing to contest, so the shared form is [CLAIM-909](CLAIM-909.md) applied to
+[ARG-228](../arguments.d/ARG-228.md), a restatement. One detail: of [CASE-336](../cases.d/CASE-336.md)'s two variants, C2*
+(who controls review) is nearer to [ARG-228](../arguments.d/ARG-228.md)'s standing than C4* (who
+holds the power to revise), and this note's "standing to be heard is not
+a share of a power to revise" separates [ARG-228](../arguments.d/ARG-228.md) from C4* only. No change
+of status. The wording is the assistant's (Claude, in this session);
+adopting it is the owner's call.

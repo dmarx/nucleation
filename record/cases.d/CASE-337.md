@@ -3,7 +3,16 @@ number: 337
 status: Proposed
 formerly:
 - CASE-tmpshw39
-title: 'A dynamic beta–Bernoulli feature model fitted to a linear organizational simulator against a shared-driver null matched on within-group correlation: it finds more overlapping features, better aligned with the groups, when the members never interact; neither of its intervention readings is right in both worlds; the communication graph alone predicts cuts and pulses where the coupling is real and invents coupling where a driver is; adding the features does not remove the invented coupling, and observing the driver does'
+title: 'Beta–Bernoulli features vs shared-driver null'
+statement: >-
+  A dynamic beta–Bernoulli feature model fitted to a linear organizational
+  simulator against a shared-driver null matched on within-group
+  correlation: it finds more overlapping features, better aligned with the
+  groups, when the members never interact; neither of its intervention
+  readings is right in both worlds; the communication graph alone predicts
+  cuts and pulses where the coupling is real and invents coupling where a
+  driver is; adding the features does not remove the invented coupling, and
+  observing the driver does
 version: 1
 standing: documented
 kind: executed-study
@@ -41,7 +50,7 @@ summary: >-
   the owner's call.
 ---
 
-# CASE-337: A dynamic beta–Bernoulli feature model fitted to a linear organizational simulator against a shared-driver null matched on within-group correlation: it finds more overlapping features, better aligned with the groups, when the members never interact; neither of its intervention readings is right in both worlds; the communication graph alone predicts cuts and pulses where the coupling is real and invents coupling where a driver is; adding the features does not remove the invented coupling, and observing the driver does
+# CASE-337: Beta–Bernoulli features vs shared-driver null
 
 ## What was asked
 

@@ -3,7 +3,9 @@ number: 134
 status: Proposed
 formerly:
 - TERM-tmp7m4at
-title: 'predicate (of an entry), read as a test'
+title: 'predicate'
+statement: >-
+  predicate (of an entry), read as a test
 version: 1
 tags:
 - design-rationale
@@ -23,9 +25,10 @@ summary: >-
   test functions; the definition is the assistant's (Claude, in this
   session), and adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: TERM-132 CLAIM-772 — Proposed; the term this complements, and the claims filed with it on 2026-11-21 -->
 
-# TERM-134: predicate (of an entry), read as a test
+# TERM-134: predicate
 
 ## Definition
 
@@ -119,3 +122,14 @@ using the nearest wrong one. The set is closed under conjunction and not
 disjunction (p. 164). Unlike Freeman and Pfenning's declared lattice, the
 vocabulary is of predicates, the record's own kind of test. The
 definition stands.
+
+## Note of 2026-11-22: Dunfield and Krishnaswami, read
+
+A parallel, no relation written. A type checker is a predicate read as a
+test in this term's sense: Coquand's checkExp "returns a boolean" (§9.1
+of their survey of bidirectional typing; [THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md), read in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)), and
+in both of the survey's modes the term is an input that the judgment does
+not change (§1). The survey's checked type, which it calls "a
+requirement" (§4.4), can be passed or failed without moving anything:
+[CLAIM-tmpugw2q](../claims.d/CLAIM-tmpugw2q.md) argues that this separates requiring from failing, which this
+term's descriptor and imposition join.

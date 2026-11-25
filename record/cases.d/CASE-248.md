@@ -3,7 +3,13 @@ number: 248
 status: Proposed
 formerly:
 - CASE-tmpmw3hc
-title: 'A proposed study: loot-box economies as a measurable test of whether a minority''s spending selects the design of a shared product, tracking the real-money cost of a standardized reward across a game''s releases against the economic weight of its high spenders, and the spread of designs across games'
+title: 'Loot-box economies and minority spending'
+statement: >-
+  A proposed study: loot-box economies as a measurable test of whether a
+  minority's spending selects the design of a shared product, tracking the
+  real-money cost of a standardized reward across a game's releases against
+  the economic weight of its high spenders, and the spread of designs across
+  games
 version: 2
 history:
 - version: 2
@@ -50,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-653 CLAIM-655 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-2452 LIT-2370 LIT-2381 — Deferred; registered from the same exchange, unread -->
 
-# CASE-248: A proposed study: loot-box economies as a measurable test of whether a minority's spending selects the design of a shared product, tracking the real-money cost of a standardized reward across a game's releases against the economic weight of its high spenders, and the spread of designs across games
+# CASE-248: Loot-box economies and minority spending
 
 ## The case
 

@@ -3,7 +3,12 @@ number: 111
 status: Active
 formerly:
 - CASE-tmpi1bt1
-title: 'A fold in boundary maintenance: in ḃ = μb + κb² − b³ with cooperative repair (κ > 0), an unmaintained and a maintained state are both stable for −κ²/4 < μ < 0, so maintenance lost past the fold is not restored by returning the parameter, and recovery slows to zero as the fold nears'
+title: 'A fold in boundary maintenance'
+statement: >-
+  A fold in boundary maintenance: in ḃ = μb + κb² − b³ with cooperative
+  repair (κ > 0), an unmaintained and a maintained state are both stable for
+  −κ²/4 < μ < 0, so maintenance lost past the fold is not restored by
+  returning the parameter, and recovery slows to zero as the fold nears
 version: 2
 history:
 - version: 2
@@ -39,7 +44,7 @@ draws_on:
 - THEORY-214
 ---
 
-# CASE-111: A fold in boundary maintenance: in ḃ = μb + κb² − b³ with cooperative repair (κ > 0), an unmaintained and a maintained state are both stable for −κ²/4 < μ < 0, so maintenance lost past the fold is not restored by returning the parameter, and recovery slows to zero as the fold nears
+# CASE-111: A fold in boundary maintenance
 
 ## The construction
 

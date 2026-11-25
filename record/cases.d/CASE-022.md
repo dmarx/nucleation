@@ -3,7 +3,10 @@ number: 22
 status: Active
 formerly:
 - CASE-tmpnaqgj
-title: 'A rendering that keeps the solidarity–criticism ambiguity open, and one that settles it'
+title: 'Renderings that keep or settle an ambiguity'
+statement: >-
+  A rendering that keeps the solidarity–criticism ambiguity open, and one
+  that settles it
 version: 1
 standing: stipulated
 kind: thought-experiment
@@ -23,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CASE-022: A rendering that keeps the solidarity–criticism ambiguity open, and one that settles it
+# CASE-022: Renderings that keep or settle an ambiguity
 
 ## The case
 

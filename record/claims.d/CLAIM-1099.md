@@ -1,6 +1,6 @@
 ---
 number: 1099
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpg8yl2
 title: Under a budget set each period to the last period's peak use, a redesigned
@@ -8,7 +8,20 @@ title: Under a budget set each period to the last period's peak use, a redesigne
   of holding the present configuration, so redesign lowers the reserve a transition
   needs by the fall in its threshold and replaces the reserve only where it leaves
   no reconfiguration slack
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("promote the
+    ten", under the dialectic regime; ADR-057): its premises CLAIM-577,
+    CLAIM-679 and CLAIM-571 are Active and demonstrated, no objection
+    targets it, and nothing meets its defeated_if.
+    scratch/formal/redesign_reserve_check.py, rerun on 2026-11-24 by a
+    session other than the filer's, prints "checks pass", and CASE-412,
+    promoted in the same pass, reproduces the kept-exactly-when
+    condition in its tests. Its concession is written on CLAIM-1093 in
+    the same pass (ADR-059).
 role: counter
 warrant: demonstrated
 defeated_if: An error in the derivation or in scratch/formal/redesign_reserve_check.py;
@@ -73,10 +86,12 @@ A48 §9.3–9.4: the unstated reserve in Regime III's row of the table.
 
 ## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
 
-<!-- inactive-ok-block: CLAIM-878 — Proposed; the drill already held -->
 Extension, the assistant's. A gap of the manuscript governance-of-possibility, §9.5 (GC5). In the manuscript's model the redesign without a reserve (III-a) does worse than no redesign (I): at p = 0.02, R(6) is 0.147 against 0.267, mean response 14.83 against 12.76 periods, output 0.758 against 0.787. Outside money raises the budget to the least threshold ([CLAIM-577](CLAIM-577.md)'s step 4), and the redesign makes the cheapest route the slower staged one. With each edge crossed with chance 0.5 a period, three edges take 6 periods on average against the original's 4, a difference of 2 against the 2.07 observed. That rests on two of the modeller's choices that the record does not hold: outside money buys the cheapest route, not the fastest, and the staged route is longer. If it bought the fastest, III-a would match I. So "Not that redesign is worthless" holds with a reserve; without one, redesign can do worse than none. The "third mechanism" of "What it does not say", a drill each period at the transition's peak, is [CLAIM-878](CLAIM-878.md)'s, already held: "A drill each period holds the budget". The note is the assistant's (Claude, in this session); adopting it is the owner's call.
 
 ## Note of 2026-11-23: the study filed
 
-<!-- inactive-ok-block: CASE-412 CASE-397 — new; the study filed -->
 The manuscript's study is now on the record as [CASE-412](../cases.d/CASE-412.md), which illustrates this claim: its tests check that a redesigned route is kept under the peak rule exactly when θ′ ≤ 1, and its regime without a reserve (III-a) loses the route and falls below no redesign at all. Its novel-demand variant, [CASE-397](../cases.d/CASE-397.md), shows the reserve this claim says redesign does not replace serving a route the specification did not name. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A53
+
+A53 lists this claim as "a strong promotion candidate": its premises [CLAIM-577](CLAIM-577.md), [CLAIM-679](CLAIM-679.md) and [CLAIM-571](CLAIM-571.md) are Active and demonstrated, and [CASE-412](../cases.d/CASE-412.md) reproduces the phenomenon. Checked: `scratch/formal/redesign_reserve_check.py`, rerun on 2026-11-24 with `python3 -I`, prints "checks pass"; the status-review worklist of that date lists the claim as ready for a ruling. Promoting it makes its concession due on [CLAIM-1093](CLAIM-1093.md) ([ADR-059](../decisions.d/ADR-059.md)), whose Standing already grants it (the note of this date there gives A53's wording). The note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting either is the owner's call. No status change.

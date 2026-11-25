@@ -3,7 +3,14 @@ number: 123
 status: Active
 formerly:
 - CASE-tmp3uarw
-title: 'The regulator and two accounts: a formally independent regulator weighs two parties'' accounts of a risk, one party comes to supply more of the evidence it reads and the experts it trusts, and the credibility that party gains decides whose evidence is read next; with variants for a one-time perturbation, a press as the evaluator, and an objective that gives one property no weight'
+title: 'The regulator and two accounts'
+statement: >-
+  The regulator and two accounts: a formally independent regulator weighs
+  two parties' accounts of a risk, one party comes to supply more of the
+  evidence it reads and the experts it trusts, and the credibility that
+  party gains decides whose evidence is read next; with variants for a
+  one-time perturbation, a press as the evaluator, and an objective that
+  gives one property no weight
 version: 3
 history:
 - version: 2
@@ -48,11 +55,10 @@ draws_on:
 - THEORY-850
 - THEORY-837
 ---
-<!-- inactive-ok-file: CASE-401 CLAIM-1202 — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-656 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-1324 — Unavailable; Stigler, named as a source the replies cited that no lawful copy reached -->
 
-# CASE-123: The regulator and two accounts: a formally independent regulator weighs two parties' accounts of a risk, one party comes to supply more of the evidence it reads and the experts it trusts, and the credibility that party gains decides whose evidence is read next; with variants for a one-time perturbation, a press as the evaluator, and an objective that gives one property no weight
+# CASE-123: The regulator and two accounts
 
 ## The case
 

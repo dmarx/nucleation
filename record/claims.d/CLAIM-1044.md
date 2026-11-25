@@ -58,7 +58,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-417 CLAIM-820 CLAIM-861 TERM-116 TERM-138 — Proposed; the record's account of the self's senses as organizational perspectives, sloppiness relative to observables, the observational profile and class separation, cited 2026-11-22 -->
-<!-- inactive-ok-file: CLAIM-1196 CLAIM-1174 CLAIM-1175 TERM-165 — new; filed in the same batch of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-1196 CLAIM-1174 CLAIM-1175 — new; filed in the same batch of 2026-11-22 -->
 
 # CLAIM-1044: A self is not necessarily a singular perspective, nor a collection of independently identifiable perspectives, but a historically sustained organization of coupled dispositions, whose apparent decomposition into perspectives is relative to a declared family of interventions, observation horizons and resource bounds, so that distinctions drawn under one such regime may disappear or reorganize under another without thereby becoming unreal or false
 

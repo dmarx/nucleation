@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpaedgb
 title: 'A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, once one symmetry group is identified across the realizations by its action on the situation and not by labels of a medium, so that invariant has classificatory priority over any particular realization'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -33,6 +33,12 @@ history:
     stands." Its directive is corrected to match. The note of 2026-10-29
     on what holds it back is replaced by one of 2026-10-30, since
     CLAIM-151 was revised on that date. The claim is unchanged.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 1 abstract, §4 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -65,6 +71,8 @@ complements:
 uses:
 - TERM-041
 - TERM-040
+works:
+- governance-of-becoming
 summary: >-
   The owner's own position at U54, its first part: "Character's are "more
   essential" than the representations that are comprised of them." It is
@@ -201,3 +209,21 @@ the content of the speaker's intention is a relation in [CLAIM-151](CLAIM-151.md
 sense. No communicative invariant has been built ([TERM-041](../terms.d/TERM-041.md)), and
 [CASE-057](../cases.d/CASE-057.md) meets the condition of one act realized in two media only by
 construction.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', U4 and A5
+
+The owner's U4, "memes as characteristics  (qua representation theory) of
+perspectives", puts memes where this claim puts the invariant, and
+perspectives where it puts communicative kinds; filed in two readings,
+the meme as the character ([CLAIM-tmphi3mx](CLAIM-tmphi3mx.md)) or as one of its values
+([CLAIM-tmp4mk0t](CLAIM-tmp4mk0t.md)). A5 cites this claim accurately, "character-like
+invariants possess classificatory priority over particular realizations",
+and builds on it ([CLAIM-tmpjitli](CLAIM-tmpjitli.md), A's), naming [CLAIM-249](CLAIM-249.md) as what it "Must
+answer". The extension from communicative kinds to perspectives is the
+one [CLAIM-417](CLAIM-417.md) calls "new territory". Bearing: an extension that depends
+on this claim's condition (one group identified across realizations),
+which is still unmet; no change. The wording of this note is the
+assistant's (Claude, in this session), reporting A's (ChatGPT's) text;
+adopting what it reports is the owner's call.
+
+<!-- inactive-ok-file: CLAIM-417 CLAIM-tmp4mk0t CLAIM-tmphi3mx CLAIM-tmpjitli — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

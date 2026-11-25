@@ -3,7 +3,10 @@ number: 59
 status: Active
 formerly:
 - CASE-tmp6whdw
-title: 'Tatiana''s letter in Eugene Onegin III: вы to ты and back, lost in Kline and half kept in Spalding'
+title: 'Tatiana''s letter: вы and ты'
+statement: >-
+  Tatiana's letter in Eugene Onegin III: вы to ты and back, lost in Kline
+  and half kept in Spalding
 version: 1
 standing: documented
 kind: specimen
@@ -25,7 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing this case is filed for, open, and cited as open -->
 
-# CASE-059: Tatiana's letter in Eugene Onegin III: вы to ты and back, lost in Kline and half kept in Spalding
+# CASE-059: Tatiana's letter: вы and ты
 
 Found on 2026-10-10 by a search the owner asked for: a documented case of
 the half of a change of cover that [CASE-072](CASE-072.md) lacks, a question the

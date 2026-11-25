@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmphg89g
 title: 'Renderings that keep the proposition can perform a different communicative act, so preserving the proposition is not sufficient for preserving the communicative event'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-28'
@@ -28,6 +28,12 @@ history:
     "communicative act" is TERM-030's; the claim stands on CASE-056,
     CASE-027 and CASE-018. The supports entries for this claim on LIT-785
     and LIT-780 are removed. The claim is unchanged.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 07. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,6 +47,7 @@ tags:
 date: '2026-10-08'
 line: pragmatic-transport
 works:
+- atlas
 - what-survives-translation
 grounds:
 - CASE-027

@@ -3,7 +3,15 @@ number: 395
 status: Proposed
 formerly:
 - CASE-tmp5b6rr
-title: 'A proposed study: research organizations matched in initial expertise, technical resources and performance on familiar inquiries but differing in how inquiry is authorized and perspectives maintained, given opportunities graded by novelty, conceptual distance and time sensitivity; the discriminating result is a difference in success on the novel ones, and a stronger design intervenes separately on concepts, authorization and answer production'
+title: 'Research organizations facing novel inquiries'
+statement: >-
+  A proposed study: research organizations matched in initial expertise,
+  technical resources and performance on familiar inquiries but differing in
+  how inquiry is authorized and perspectives maintained, given opportunities
+  graded by novelty, conceptual distance and time sensitivity; the
+  discriminating result is a difference in success on the novel ones, and a
+  stronger design intervenes separately on concepts, authorization and
+  answer production
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -35,9 +43,9 @@ summary: >-
   adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-1190 CLAIM-1025 CASE-388 CASE-412 CASE-397 CLAIM-1054 CLAIM-1016 — Proposed; the claims it would bear on, the studies it is set beside, and the trap and authorization claims -->
+<!-- inactive-ok-file: CASE-388 CLAIM-1054 CLAIM-1016 — Proposed; the claims it would bear on, the studies it is set beside, and the trap and authorization claims -->
 
-# CASE-395: A proposed study: research organizations matched in initial expertise, technical resources and performance on familiar inquiries but differing in how inquiry is authorized and perspectives maintained, given opportunities graded by novelty, conceptual distance and time sensitivity; the discriminating result is a difference in success on the novel ones, and a stronger design intervenes separately on concepts, authorization and answer production
+# CASE-395: Research organizations facing novel inquiries
 
 ## The design
 

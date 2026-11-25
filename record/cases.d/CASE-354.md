@@ -3,7 +3,13 @@ number: 354
 status: Proposed
 formerly:
 - CASE-tmp2e2a5
-title: 'Small Z2-symmetric recurrent lattices trained to report a quantity set by where the walls in their input are: walls, coherent structures and operative sites agree once the input is off, local transfer entropy misses the pinned walls, and a boundary-forced wall erased by intervention reappears at the boundary or not at all'
+title: 'Walls in Z2-symmetric lattices'
+statement: >-
+  Small Z2-symmetric recurrent lattices trained to report a quantity set by
+  where the walls in their input are: walls, coherent structures and
+  operative sites agree once the input is off, local transfer entropy misses
+  the pinned walls, and a boundary-forced wall erased by intervention
+  reappears at the boundary or not at all
 version: 1
 history:
 - version: 1
@@ -55,7 +61,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2003 THEORY-2028 CLAIM-694 THEORY-1507 CLAIM-932 — Proposed or new; cited in this filing of 2026-11-22 -->
 
-# CASE-354: Small Z2-symmetric recurrent lattices trained to report a quantity set by where the walls in their input are: walls, coherent structures and operative sites agree once the input is off, local transfer entropy misses the pinned walls, and a boundary-forced wall erased by intervention reappears at the boundary or not at all
+# CASE-354: Walls in Z2-symmetric lattices
 
 ## What was done
 

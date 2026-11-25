@@ -197,3 +197,8 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Falbo** ([THEORY-1723](../theory.d/THEORY-1723.md)): **qualifies**, by adding a second mechanism. The question is lacuna-shaped (a move without a code is lost); Falbo shows the other path: a move can have a scheme available and still be filed under a dominant scheme that preempts the apt one, with the credibility loss she describes ("the denial of Miller’s credibility and thus diminished her status as a knower"). Leaves the question open; widens what an answer must check (misfiling, not only non-filing)
 
 The question is unchanged.
+
+## Note of 2026-11-25: the exchange "Hyper article interpretation", A5
+
+<!-- inactive-ok-block: CLAIM-tmpgli4k — new and Proposed; A's claim on credit at the level of the contribution -->
+ChatGPT's A5 proposes that credit attach "at the level where the contribution occurred" ([CLAIM-tmpgli4k](../claims.d/CLAIM-tmpgli4k.md)), which this record does at the level of the entry: each is filed in the voice of whoever put it forward. The question bears on that proposal directly. Credit at the level of the contribution reaches only contributions that are filed, so what decides who is credited is what gets a code, which is this question's part 1. The note is the assistant's (Claude, in this session); adopting it is the owner's call. The question is unchanged.

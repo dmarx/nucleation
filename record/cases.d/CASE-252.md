@@ -3,7 +3,12 @@ number: 252
 status: Proposed
 formerly:
 - CASE-tmpiocs1
-title: 'A proposed study of distributed evidence integration through a record: the hidden-profile tasks of HiddenBench run with conversation, the benchmark''s structured protocol, its Secretary summary, shared notes, a typed record and a governed one, with each clue traced from admission to uptake'
+title: 'Evidence integration on HiddenBench'
+statement: >-
+  A proposed study of distributed evidence integration through a record: the
+  hidden-profile tasks of HiddenBench run with conversation, the benchmark's
+  structured protocol, its Secretary summary, shared notes, a typed record
+  and a governed one, with each clue traced from admission to uptake
 version: 2
 history:
 - version: 1
@@ -55,7 +60,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1399 — Unavailable; cited for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-1735 THEORY-1747 THEORY-1790 THEORY-1808 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CASE-252: A proposed study of distributed evidence integration through a record: the hidden-profile tasks of HiddenBench run with conversation, the benchmark's structured protocol, its Secretary summary, shared notes, a typed record and a governed one, with each clue traced from admission to uptake
+# CASE-252: Evidence integration on HiddenBench
 
 ## The case
 

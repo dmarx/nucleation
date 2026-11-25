@@ -3,7 +3,11 @@ number: 400
 status: Proposed
 formerly:
 - CASE-tmpd1jgy
-title: 'A model that answers a question correctly once in two hundred samples and otherwise scatters its answers with no stable preference: a correct output that is generative reach, neither believed nor known'
+title: 'Correct once in two hundred samples'
+statement: >-
+  A model that answers a question correctly once in two hundred samples and
+  otherwise scatters its answers with no stable preference: a correct output
+  that is generative reach, neither believed nor known
 version: 1
 standing: fictional
 kind: thought-experiment
@@ -29,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-697 TERM-079 — Proposed; cited as the criteria applied, not relied on -->
 <!-- inactive-ok-file: CASE-414 CLAIM-1109 CLAIM-1142 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CASE-400: A model that answers a question correctly once in two hundred samples and otherwise scatters its answers with no stable preference: a correct output that is generative reach, neither believed nor known
+# CASE-400: Correct once in two hundred samples
 
 ## The case
 

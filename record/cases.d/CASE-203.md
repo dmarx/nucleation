@@ -3,7 +3,12 @@ number: 203
 status: Proposed
 formerly:
 - CASE-tmp4op8y
-title: 'The U.S. fire incident reporting guidance on cancelled dispatches, 2023: units assigned, arrived and turned back are recorded, while a call a department could not answer for lack of resources is not an incident at all, so the data omit the failures that most concern readiness'
+title: 'US fire reporting of cancelled dispatches'
+statement: >-
+  The U.S. fire incident reporting guidance on cancelled dispatches, 2023:
+  units assigned, arrived and turned back are recorded, while a call a
+  department could not answer for lack of resources is not an incident at
+  all, so the data omit the failures that most concern readiness
 version: 1
 standing: documented
 kind: specimen
@@ -33,7 +38,7 @@ reported_in:
 - NOTE-1573
 ---
 
-# CASE-203: The U.S. fire incident reporting guidance on cancelled dispatches, 2023: units assigned, arrived and turned back are recorded, while a call a department could not answer for lack of resources is not an incident at all, so the data omit the failures that most concern readiness
+# CASE-203: US fire reporting of cancelled dispatches
 
 ## The case
 

@@ -3,7 +3,9 @@ number: 16
 status: Superseded
 formerly:
 - TERM-tmpdb2i3
-title: 'frame, as a pragmatic frame of reference'
+title: 'frame (pragmatic reference)'
+statement: >-
+  frame, as a pragmatic frame of reference
 version: 1
 tags:
 - philosophy-of-language
@@ -22,7 +24,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-004 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 
-# TERM-016: frame, as a pragmatic frame of reference
+# TERM-016: frame (pragmatic reference)
 
 ## Definition
 

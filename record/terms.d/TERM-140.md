@@ -3,7 +3,14 @@ number: 140
 status: Proposed
 formerly:
 - TERM-tmptiim0
-title: 'sloppy, of a parametric model at a point and for an observation design: its Fisher information spectrum, in a declared chart, spreads evenly over many decades with no gap that separates the parameter combinations that matter from those that do not, along eigenvectors skewed from the bare parameter axes; a graded property, distinct from ill-conditioning and from singularity'
+title: 'sloppy'
+statement: >-
+  sloppy, of a parametric model at a point and for an observation design:
+  its Fisher information spectrum, in a declared chart, spreads evenly over
+  many decades with no gap that separates the parameter combinations that
+  matter from those that do not, along eigenvectors skewed from the bare
+  parameter axes; a graded property, distinct from ill-conditioning and from
+  singularity
 version: 4
 history:
 - version: 2
@@ -107,7 +114,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2205 — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-861 — Proposed; alternative (a), filed 2026-11-22 from the readings of Quinn and colleagues and of Shalizi and Moore -->
 
-# TERM-140: sloppy, of a parametric model at a point and for an observation design: its Fisher information spectrum, in a declared chart, spreads evenly over many decades with no gap that separates the parameter combinations that matter from those that do not, along eigenvectors skewed from the bare parameter axes; a graded property, distinct from ill-conditioning and from singularity
+# TERM-140: sloppy
 
 ## Definition
 

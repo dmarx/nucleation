@@ -3,7 +3,12 @@ number: 153
 status: Proposed
 formerly:
 - TERM-tmp3mop8
-title: 'certificate, of a realization against a specification: a checkable record that it passes each test, carried with it, so relying on the realization means checking the record rather than redoing the search; the evidence half of a proof-relevant answer'
+title: 'certificate'
+statement: >-
+  certificate, of a realization against a specification: a checkable record
+  that it passes each test, carried with it, so relying on the realization
+  means checking the record rather than redoing the search; the evidence
+  half of a proof-relevant answer
 version: 1
 tags:
 - logic
@@ -26,9 +31,10 @@ summary: >-
   ([CLAIM-949](../claims.d/CLAIM-949.md)). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmp9cdlq THEORY-tmpqj2d4 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
 <!-- inactive-ok-file: TERM-154 TERM-152 CLAIM-949 — Proposed; the pair filed with this and the entries it is stated against -->
 
-# TERM-153: certificate, of a realization against a specification: a checkable record that it passes each test, carried with it, so relying on the realization means checking the record rather than redoing the search; the evidence half of a proof-relevant answer
+# TERM-153: certificate
 
 ## Definition
 
@@ -86,3 +92,52 @@ iterative-weakening search, so the assignment could be rechecked cheaply
 and not rebuilt. The paper neither keeps it for that nor says so; the
 reading is the filer's. Program verification's loop invariants, which
 predicate abstraction finds, are certificates in that sense.
+
+## Note of 2026-11-22: Kleene, read through van Oosten
+
+A contrast, not support. Kleene's realizer ([THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md), read in
+[NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md) for the unread [LIT-tmp9cdlq](../literature.d/LIT-tmp9cdlq.md)) has no certificate component:
+realizability "is designed to handle “information” about formulas rather
+than proofs" (van Oosten, p. 4), and Kleene set Heyting's proof
+interpretation aside to build it. A true atomic sentence is realized by 0:
+where the test is decidable and cheap, the realizer carries nothing and the
+test is run again. That is this term's own asymmetry from the other side:
+a certificate earns its place where checking from scratch is expensive,
+not where a test can simply be rerun. The nearest counterparts in the
+realizability literature are glued realizability with P the provable
+sentences, a realizer kept with the fact of provability (p. 6), and the
+proof-to-realizer translation behind soundness. The proof-relevant pair
+(x, p) the definition cites comes from typed realizability and type
+theory, not Kleene 1945. No edge; no status changes.
+
+## Note of 2026-11-22: Kolmogorov, read
+<!-- inactive-ok-block: THEORY-tmpdsft8 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
+
+Kolmogorov 1932 ([THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md), read in [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md)): a parallel, no edge. Logical
+and mathematical problems have "die spezielle Eigenschaft der
+Allgemeingültigkeit ihrer Lösungen" (p. 61): a solution can be presented
+so that it must be recognized as correct by any able hearer. That is what a
+certificate is for, but Kolmogorov makes it a property of the domain, of "einigermaßen idealen Charakter",
+not a record kept with the solution. Unchanged.
+
+## Note of 2026-11-25: Martin-Löf, read
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpneexr CLAIM-tmp01pyt — Proposed or Skimmed; filed for LEAD-215 -->
+
+Borne out, with two refinements, from Martin-Löf ([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md);
+[NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md); [ARG-tmpneexr](../arguments.d/ARG-tmpneexr.md)). The second component of a Σ pair is the
+certificate, and in the set of a ∈ A such that B(a) it is carried with
+every element, "the witnessing information" (p. 53): the first reading
+under [LEAD-215](../leads.d/LEAD-215.md) that keeps it.
+
+- **Construction against derivation.** The book reserves "construction"
+  for a proof of a proposition, the element b, and keeps it apart from a
+  proof of the judgement b ∈ B(a), a derivation (p. 6). This term's
+  definition calls the certificate "the derivation that x satisfies φ",
+  which is the second; the pair's component is the first. Which one the
+  record's certificates are (a claim's grounds look like the first, a
+  lint pass like the second) is for the owner; the definition is not
+  changed here.
+- **Used, not only checked.** The book's certificate does work beyond
+  being checked: "Only by means of the proof q(c) do we know how far to go
+  for the approximation desired" (p. 54). Where the certificate is used,
+  it cannot be dropped ([CLAIM-tmp01pyt](../claims.d/CLAIM-tmp01pyt.md)).

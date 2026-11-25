@@ -3,7 +3,12 @@ number: 281
 formerly:
 - CASE-tmp07hx9
 status: Proposed
-title: 'The marshmallow task under a reliable and an unreliable experimenter: children who had seen an adult break a promise waited about a quarter as long, so the same refusal to wait can be impulsivity or sound judgment about the adult, and the same waiting can be self-government or obedience'
+title: 'Marshmallow task, reliable and unreliable adult'
+statement: >-
+  The marshmallow task under a reliable and an unreliable experimenter:
+  children who had seen an adult break a promise waited about a quarter as
+  long, so the same refusal to wait can be impulsivity or sound judgment
+  about the adult, and the same waiting can be self-government or obedience
 version: 2
 history:
 - version: 2
@@ -41,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-744 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-232 CLAIM-364 — Proposed; the record's nearest entries, cited with their standing -->
 
-# CASE-281: The marshmallow task under a reliable and an unreliable experimenter: children who had seen an adult break a promise waited about a quarter as long, so the same refusal to wait can be impulsivity or sound judgment about the adult, and the same waiting can be self-government or obedience
+# CASE-281: Marshmallow task, reliable and unreliable adult
 
 ## The case
 

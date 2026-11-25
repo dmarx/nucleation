@@ -1,16 +1,39 @@
 ---
 number: 346
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpxmuri
-title: 'The self-protecting sentry run: in a hidden world trained in danger and then safe, a sentry whose authority is rewarded by the apparent success of protection keeps protection on through 400 safe steps wherever it is strong enough, while still protecting when danger returns; restricting inspection turns protection that outlasts a corrected belief into protection that keeps the belief from being corrected; an independent audit shifts the boundary and a protected investigator corrects the belief without ending protection; and a habit of matched memory reproduces every intervention it can receive'
-version: 1
+title: 'The self-protecting sentry, run'
+statement: >-
+  The self-protecting sentry run: in a hidden world trained in danger and
+  then safe, a sentry whose authority is rewarded by the apparent success of
+  protection keeps protection on through 400 safe steps wherever it is
+  strong enough, while still protecting when danger returns; restricting
+  inspection turns protection that outlasts a corrected belief into
+  protection that keeps the belief from being corrected; an independent
+  audit shifts the boundary and a protected investigator corrects the belief
+  without ending protection; and a habit of matched memory reproduces every
+  intervention it can receive
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant, carrying out LEAD-076. The code,
     tests and outputs are under scratch/studies/lead-076/.
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("promote the
+    ten", under the dialectic regime; ADR-057, status-review README
+    section 2): a CASE goes Active when it is demonstrated, and its run
+    has been checked by a session other than its filer's. Rerun on
+    2026-11-24 from a copy of scratch/studies/lead-076/: the 24 tests
+    pass, and with the .jsonl results deleted run_sentry.py and
+    analyze.py regenerate every file in results/, summary.md included,
+    byte for byte (the note of that date). A53 of the exchange 'Memes,
+    Contracts, and Systemic Normativity' missed it; the promotion table
+    of that date added it to the ten.
 standing: documented
 kind: executed-study
 tags:
@@ -58,7 +81,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-445 CLAIM-446 ARG-025 CLAIM-923 CLAIM-924 — Proposed or new; the claims this run bears on, the grading of evidence it cites, and the claims filed with it -->
 
-# CASE-346: The self-protecting sentry run: in a hidden world trained in danger and then safe, a sentry whose authority is rewarded by the apparent success of protection keeps protection on through 400 safe steps wherever it is strong enough, while still protecting when danger returns; restricting inspection turns protection that outlasts a corrected belief into protection that keeps the belief from being corrected; an independent audit shifts the boundary and a protected investigator corrects the belief without ending protection; and a habit of matched memory reproduces every intervention it can receive
+# CASE-346: The self-protecting sentry, run
 
 ## The study
 
@@ -253,3 +276,7 @@ fully corrected belief (b = 0) that needs κ ≥ 1.83. At b = 0.05 it needs
 - The second version of [CASE-153](CASE-153.md), where inspection itself is risky. There
   the sentry's and investigator's demands would be structurally frustrated
   in danger. It was not run.
+
+## Note of 2026-11-24: rerun, for the promotion review the owner proposed at U33 of the exchange 'Memes, Contracts, and Systemic Normativity'
+
+Rerun on 2026-11-24 by the assistant, from a copy of `scratch/studies/lead-076/` as on this branch: the 24 tests pass, and with the `.jsonl` results deleted `run_sentry.py` and `analyze.py` regenerate every file in `results/`, `summary.md` included, byte for byte. A53 did not name this case among its candidates, though A51 makes it a centre of its Article 6 and its result (a protected investigator corrects the belief and protection outlasts it in 87 per cent of runs) is its own; it belongs on the same list. The run is now checked by a session other than the one that filed it, which the status-review README (section 2) asks of a demonstrated case; the ruling is the status review's ([LEAD-tmp0j28l](../leads.d/LEAD-tmp0j28l.md)). The note is the assistant's (Claude, in this session). No status change.

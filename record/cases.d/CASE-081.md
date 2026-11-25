@@ -3,7 +3,11 @@ number: 81
 status: Active
 formerly:
 - CASE-tmpxtzj0
-title: 'Self-maintenance learned for a designer''s reward: a system that maintains itself because it was trained to, and later revises the policy and keeps maintaining itself without further instruction'
+title: 'Self-maintenance learned for a designer''s reward'
+statement: >-
+  Self-maintenance learned for a designer's reward: a system that maintains
+  itself because it was trained to, and later revises the policy and keeps
+  maintaining itself without further instruction
 version: 2
 history:
 - version: 2
@@ -32,7 +36,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CASE-081: Self-maintenance learned for a designer's reward: a system that maintains itself because it was trained to, and later revises the policy and keeps maintaining itself without further instruction
+# CASE-081: Self-maintenance learned for a designer's reward
 
 ## The case
 

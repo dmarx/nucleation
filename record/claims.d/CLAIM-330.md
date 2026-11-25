@@ -54,7 +54,6 @@ summary: >-
 bears_on:
 - QUESTION-124
 ---
-<!-- inactive-ok-file: CASE-401 CLAIM-1000 — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 
@@ -97,3 +96,17 @@ A45 §VII restates the condition as "Under nonnegative coupling, with \(\alpha,\
 ## Note of 2026-11-22: the same form, one level up
 
 [LEAD-015](../leads.d/LEAD-015.md) derived the two-institution version ([CASE-401](../cases.d/CASE-401.md), [CLAIM-1000](CLAIM-1000.md)). Coupling two of the built institutions, each stable alone, through nonnegative channels gives a 4×4 Jacobian whose symmetric state is unstable exactly when the round-trip gain of the loop between them exceeds 1: (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, the product of the cross-channel strengths against the product of the institutions' own margins, as βγ > (1 − α)(1 − δ) is the cross product against the fields' margins here. The general form, for nonnegative blocks of any size, is ρ(G_P C_PE G_E C_EP) > 1 with G_i = (I − J_i)⁻¹. The claim is unchanged.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A11
+
+
+A11 §6 cites this claim, with [CLAIM-340](CLAIM-340.md) and [CASE-123](../cases.d/CASE-123.md), for a model of
+confirmation bias in which belief tilts which evidence is sampled, q(y | ℓ)
+∝ p(y)exp(κℓy), and illustrates it with a map whose symmetry "becomes
+unstable when κ exceeds 2/3". The assistant's derivation ([CLAIM-tmpu5cap](CLAIM-tmpu5cap.md),
+demonstrated, Proposed) shows that the threshold comes from the map's decay
+factor, which plays the part of this claim's condition that each field be
+stable alone; the stated model, an accumulator that does not correct for
+its selection, has no threshold. So A11's model is an instance of this claim
+only with that condition added. Bearing: an application, qualified. The
+claim is unchanged.

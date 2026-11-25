@@ -57,7 +57,7 @@ summary: >-
   restatement must be made in advance and run again. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-149 CASE-362 CLAIM-946 — new; filed with this claim for LEAD-087 -->
+<!-- inactive-ok-file: TERM-149 CLAIM-946 — new; filed with this claim for LEAD-087 -->
 
 # CLAIM-945: Where members interact only through answers about stimuli a shared world supplies, a deviation in some members' interpretation reaches the others' interpretations only weakly, so a criterion of shared perspective that measures dependence by how far the others move finds no shared perspective even where members evaluate one another's answers against a common standard; the coupling shows in how fast the deviants are drawn back and in whether the others' response follows the standard
 

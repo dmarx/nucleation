@@ -1,10 +1,18 @@
 ---
 number: 397
-status: Proposed
+status: Active
 formerly:
 - CASE-tmp95f8e
-title: 'A demand the specification does not name, introduced into the matched-performance model mid-run: an organization that never enters it scores zero violations against the original specification and its own while the harm runs for all 120 periods, so only the true demand set ranks excision below revision; under the peak rule a review that needs capacity can never start; and a reserve of 2 reaches the harm-free configuration while a redesign that let the reserve fall to 1 does not'
-version: 1
+title: 'Unnamed demand in the matched-performance model'
+statement: >-
+  A demand the specification does not name, introduced into the
+  matched-performance model mid-run: an organization that never enters it
+  scores zero violations against the original specification and its own
+  while the harm runs for all 120 periods, so only the true demand set ranks
+  excision below revision; under the peak rule a review that needs capacity
+  can never start; and a reserve of 2 reaches the harm-free configuration
+  while a redesign that let the reserve fall to 1 does not
+version: 2
 history:
 - version: 1
   date: '2026-11-23'
@@ -14,6 +22,22 @@ history:
     the same code as its parent study, under
     scratch/manuscripts/governance-of-possibility/analysis/, the single
     copy, run at commit 28a3708c1 and reproduced.
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("promote the
+    ten", under the dialectic regime; ADR-057, status-review README
+    section 2): a CASE goes Active when it is demonstrated, and its run
+    has been checked by a session other than its filer's. The study was
+    run and reproduced at filing; the fact-check of the manuscript
+    governance-of-possibility, by a reader who did not write it
+    (2026-11-23), reran study.py in a copy (results.json reproduced in
+    every field but runtime_s, results.md identical) and its 24 tests
+    (all pass); this pass reran it again on 2026-11-24 from a copy, with
+    the same result. This arm runs in the same code and the same run as
+    CASE-412. The wording is unchanged but for the summary's sentence on
+    its standing, which said it "stays Proposed until a status review
+    rules that it is demonstrated".
 standing: documented
 kind: executed-study
 tags:
@@ -44,14 +68,13 @@ summary: >-
   against the original specification, the organization's own and the true
   demands. Excision scores clean on the first two; the peak rule blocks
   the review; a reserve covers the new route and a redesign does not. It
-  was run and reproduced; it stays Proposed until a status review rules
-  that it is demonstrated. The wording is the assistant's (Claude, in this
+  was run and reproduced; a status review ruled it demonstrated on 2026-11-24. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CASE-412 CLAIM-1180 CLAIM-878 SYNTHESIS-121 SYNTHESIS-049 — Proposed or new; the parent study, the claims this arm illustrates or bears on, and the accounts that map or decline its readings -->
+<!-- inactive-ok-file: SYNTHESIS-121 SYNTHESIS-049 — Proposed or new; the parent study, the claims this arm illustrates or bears on, and the accounts that map or decline its readings -->
 
-# CASE-397: A demand the specification does not name, introduced into the matched-performance model mid-run: an organization that never enters it scores zero violations against the original specification and its own while the harm runs for all 120 periods, so only the true demand set ranks excision below revision; under the peak rule a review that needs capacity can never start; and a reserve of 2 reaches the harm-free configuration while a redesign that let the reserve fall to 1 does not
+# CASE-397: Unnamed demand in the matched-performance model
 
 ## Why a case of its own
 

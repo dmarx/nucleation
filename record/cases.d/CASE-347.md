@@ -3,7 +3,13 @@ number: 347
 status: Proposed
 formerly:
 - CASE-tmprsqvj
-title: 'Three simulated populations with matched turnover and aggregate statistics, run through a priced lagged block test and an information profile: the transmitting population is found with its lag, the commonly driven and the institutional populations are each joined to their external variable alike, and the common input is rejected only while it is observed'
+title: 'Priced lagged block test on three populations'
+statement: >-
+  Three simulated populations with matched turnover and aggregate
+  statistics, run through a priced lagged block test and an information
+  profile: the transmitting population is found with its lag, the commonly
+  driven and the institutional populations are each joined to their external
+  variable alike, and the common input is rejected only while it is observed
 version: 1
 history:
 - version: 1
@@ -52,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-157 CLAIM-167 THEORY-257 LIT-005 — Proposed; the block criterion tested, the claim on one-way drive it is read with, the dynamical-independence reading, and Bourrat's paper -->
 <!-- inactive-ok-file: CLAIM-926 — new, filed with this case -->
 
-# CASE-347: Three simulated populations with matched turnover and aggregate statistics, run through a priced lagged block test and an information profile: the transmitting population is found with its lag, the commonly driven and the institutional populations are each joined to their external variable alike, and the common input is rejected only while it is observed
+# CASE-347: Priced lagged block test on three populations
 
 ## What was done
 
@@ -204,3 +210,12 @@ imposes it.
 
 Results, scripts and tests: scratch/studies/lead-026/ (summary.txt).
 [CLAIM-926](../claims.d/CLAIM-926.md) states the finding.
+
+## Note of 2026-11-25: rerun, one statement corrected, and what holds it back
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). From a copy of `scratch/studies/lead-026/` in the session's scratch space: the 11 tests pass, `calibrate.py` regenerates `calibration.json` byte for byte, and `run.py` then `summarise.py`, from an empty results file, regenerate all 84 items of `results.jsonl` identical to the stored ones in content (the stored file lists them in another order) and `summary.txt` byte for byte. The figures above were compared against it. All match but one statement:
+
+- **Matches.** The verdict table; the internal ln BF of B's block 10,909, 18,290 and 14,603 at W = 7, 8 and 16; A's −107 and 39,531, and 10,256 with the driver hidden; C's feedback 373, 85 and −50; the information profile; the lag-32 autocorrelations 0.17, 0.68, 0.38 and 0.17.
+- **Does not match.** The three statistics are said to match "to three decimals in the simulated runs". The calibration matches them to about 10⁻⁵, but the simulated runs give member variance 0.997, 0.978, 1.000 and 1.000, member correlation 0.397, 0.387, 0.401 and 0.401, and lag-1 autocorrelation 0.899, 0.895, 0.900 and 0.900 in A, B, C and C0: within 0.022, not three decimals, in B.
+
+What holds it back: the misstated sentence. The run reproduces; the case's text does not at that place. Whether this note suffices or the sentence is to be revised first is left to the owner or the next status pass. The note is the assistant's (Claude, in this session). No status change.

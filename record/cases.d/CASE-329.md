@@ -3,7 +3,13 @@ number: 329
 status: Proposed
 formerly:
 - CASE-tmpl2va4
-title: 'A Contextuality-by-Default test of pragmatic judgements: two-pronoun Winograd and two-turn indirect-request items with named characters, two free binary answers from each respondent in one of four contexts, every counterbalancing cell analysed apart, and the statistic, sign pattern, coding and verdicts fixed before the data'
+title: 'Contextuality-by-default test, pragmatics'
+statement: >-
+  A Contextuality-by-Default test of pragmatic judgements: two-pronoun
+  Winograd and two-turn indirect-request items with named characters, two
+  free binary answers from each respondent in one of four contexts, every
+  counterbalancing cell analysed apart, and the statistic, sign pattern,
+  coding and verdicts fixed before the data
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -39,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2226 CLAIM-895 CLAIM-896 CASE-328 — new; the reading, findings and simulation this design rests on -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-105 — Proposed; the claims this study would test, open -->
 
-# CASE-329: A Contextuality-by-Default test of pragmatic judgements: two-pronoun Winograd and two-turn indirect-request items with named characters, two free binary answers from each respondent in one of four contexts, every counterbalancing cell analysed apart, and the statistic, sign pattern, coding and verdicts fixed before the data
+# CASE-329: Contextuality-by-default test, pragmatics
 
 ## What it would test
 

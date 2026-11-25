@@ -3,7 +3,12 @@ number: 283
 formerly:
 - CASE-tmpaasso
 status: Proposed
-title: 'Two patient arrangements: under a right of refusal, Arrangement A treats on consent and refrains on refusal, Arrangement B treats either way; on every occasion the patient consents their histories are identical, and only A respects the right'
+title: 'Two patient arrangements under refusal'
+statement: >-
+  Two patient arrangements: under a right of refusal, Arrangement A treats
+  on consent and refrains on refusal, Arrangement B treats either way; on
+  every occasion the patient consents their histories are identical, and
+  only A respects the right
 version: 1
 standing: stipulated
 kind: construction
@@ -28,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-741 — filed from the same exchange, Proposed -->
 
-# CASE-283: Two patient arrangements: under a right of refusal, Arrangement A treats on consent and refrains on refusal, Arrangement B treats either way; on every occasion the patient consents their histories are identical, and only A respects the right
+# CASE-283: Two patient arrangements under refusal
 
 ## The case
 

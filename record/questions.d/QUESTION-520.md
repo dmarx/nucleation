@@ -1,10 +1,10 @@
 ---
 number: 520
-status: Open
+status: Answered
 formerly:
 - QUESTION-tmp3cft4
 title: 'Since asking a question and answering it are each resource-bounded, do the two compete for related resources, or is the coupling between them, through time as a shared resource, already shown?'
-version: 1
+version: 2
 tags:
 - operations-research
 - epistemology
@@ -22,8 +22,22 @@ summary: >-
   pieces: [CLAIM-475](../claims.d/CLAIM-475.md) (specifying is a resource-bounded realization) and
   [TERM-085](../terms.d/TERM-085.md) (finding and carrying out a correction share one deadline).
   A52's answer is [CLAIM-1157](../claims.d/CLAIM-1157.md). Filed in the owner's voice.
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Answered under ADR-049: both parts are settled by Active entries.
+    Whether boundedness makes asking and answering compete: no, by
+    CLAIM-1157 (Active, demonstrated since 2026-11-25), on which a common
+    budget, a common bottleneck or a sequential dependence supplies the
+    coupling. Whether the coupling through time is already shown: yes,
+    by TERM-085 (Active), with CLAIM-1157's qualification that a shared
+    deadline is not a shared pool of worker-hours. Set by the assistant
+    at the owner's word of 2026-11-25 ("if you think it's legitimately
+    answered, mark it answered. whether or not a question has been
+    satisfactorily answered shouldn't be a matter of opinion").
 ---
-<!-- inactive-ok-file: CLAIM-1157 CLAIM-1008 CLAIM-1025 CLAIM-1114 CASE-386 — Proposed; the answer and the entries filed with this question on 2026-11-23 -->
+<!-- inactive-ok-file: CASE-386 — Proposed; the answer and the entries filed with this question on 2026-11-23 -->
 
 # QUESTION-520: Since asking a question and answering it are each resource-bounded, do the two compete for related resources, or is the coupling between them, through time as a shared resource, already shown?
 
@@ -55,3 +69,19 @@ inquiry should go is [CLAIM-1008](../claims.d/CLAIM-1008.md), and what it does t
 questions an organization can both pose and answer is [CLAIM-1025](../claims.d/CLAIM-1025.md). The
 owner's example at U28, a proponent who must justify an idea before time
 goes to it, is [CASE-386](../cases.d/CASE-386.md).
+
+## Note of 2026-11-25: answered
+
+[CLAIM-1157](../claims.d/CLAIM-1157.md), A52's answer, went Active on 2026-11-25 under the owner's
+delegation of 2026-11-24, after a rerun by a second session reproduced it
+and its premise [CLAIM-1114](../claims.d/CLAIM-1114.md) was promoted (dmarx/nucleation#813, [#814](https://github.com/dmarx/nucleation/issues/814)). It
+settles the first part: boundedness does not make asking and answering
+compete; a common budget, a common bottleneck or a sequential dependence
+supplies the coupling. [TERM-085](../terms.d/TERM-085.md), Active, settles the second: time is a
+shared resource, and [CLAIM-1157](../claims.d/CLAIM-1157.md) adds that a shared deadline is not a
+shared pool of worker-hours, since independent processes can spend the
+same elapsed time at once. Both parts having Active answers, the question
+is Answered ([ADR-049](../decisions.d/ADR-049.md)), at the owner's word of 2026-11-25 that whether a
+question is answered "shouldn't be a matter of opinion". The wording is
+the assistant's (Claude, in this session); adopting it is the owner's
+call.

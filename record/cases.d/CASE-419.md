@@ -3,7 +3,16 @@ number: 419
 status: Proposed
 formerly:
 - CASE-tmptzhse
-title: 'A smart touch-scroll interface as a testbed for First Contact''s co-adaptation: the owner''s proposal that a scroll interface learn the user''s expected gain, momentum and braking from how they scroll, without knowing what they are looking for, under the owner''s constraint that inference latency not add to perceptual latency; with A''s designs, a fast deterministic scrolling loop beside a slow learning loop, one adaptive parameter first, and a staged comparison of correction statistics against the mutual-information score'
+title: 'Smart touch-scroll interface'
+statement: >-
+  A smart touch-scroll interface as a testbed for First Contact's
+  co-adaptation: the owner's proposal that a scroll interface learn the
+  user's expected gain, momentum and braking from how they scroll, without
+  knowing what they are looking for, under the owner's constraint that
+  inference latency not add to perceptual latency; with A's designs, a fast
+  deterministic scrolling loop beside a slow learning loop, one adaptive
+  parameter first, and a staged comparison of correction statistics against
+  the mutual-information score
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -37,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-788 CLAIM-787 CLAIM-1191 — Proposed or Open; the First Contact entries and rate claims this case uses -->
 
-# CASE-419: A smart touch-scroll interface as a testbed for First Contact's co-adaptation: the owner's proposal that a scroll interface learn the user's expected gain, momentum and braking from how they scroll, without knowing what they are looking for, under the owner's constraint that inference latency not add to perceptual latency; with A's designs, a fast deterministic scrolling loop beside a slow learning loop, one adaptive parameter first, and a staged comparison of correction statistics against the mutual-information score
+# CASE-419: Smart touch-scroll interface
 
 ## The case
 

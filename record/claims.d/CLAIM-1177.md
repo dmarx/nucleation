@@ -40,7 +40,7 @@ summary: >-
   it up. The wording is A's (ChatGPT, at A54 of the exchange "Explain
   First Contact RL"); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-1004 CLAIM-1001 CLAIM-1015 CLAIM-1025 CLAIM-721 TERM-167 CLAIM-1038 TERM-158 — Proposed; the claims this rests on, complements or is read against -->
+<!-- inactive-ok-file: CLAIM-1004 CLAIM-1001 CLAIM-1015 CLAIM-721 TERM-167 CLAIM-1038 TERM-158 — Proposed; the claims this rests on, complements or is read against -->
 
 # CLAIM-1177: Adaptive governance is the maintenance of an ecology of partially independent inquiry-and-response capacities, differentiated enough for parallel exploration and integrated enough for coordinated action, in which persisted perspectives keep problem formulations and paths of development that the prevailing organization's demands for resources and authority would otherwise extinguish, so their value lies in keeping different capacities to discover which questions are worth asking
 

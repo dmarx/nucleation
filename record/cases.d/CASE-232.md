@@ -3,7 +3,12 @@ number: 232
 status: Active
 formerly:
 - CASE-tmp4xp5m
-title: 'A former graduate student''s self-reproducing compiler Trojan horse, which kept a lab''s program flashing hateful messages by restoring its source on every compile and restored itself when the compiler was rebuilt from clean source'
+title: 'The self-reproducing compiler Trojan horse'
+statement: >-
+  A former graduate student's self-reproducing compiler Trojan horse, which
+  kept a lab's program flashing hateful messages by restoring its source on
+  every compile and restored itself when the compiler was rebuilt from clean
+  source
 version: 2
 history:
 - version: 2
@@ -38,7 +43,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-1560 THEORY-1561 — Proposed; the readings filed with this entry, cited with their standing -->
 
-# CASE-232: A former graduate student's self-reproducing compiler Trojan horse, which kept a lab's program flashing hateful messages by restoring its source on every compile and restored itself when the compiler was rebuilt from clean source
+# CASE-232: The self-reproducing compiler Trojan horse
 
 ## The case
 

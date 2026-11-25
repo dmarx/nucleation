@@ -3,8 +3,17 @@ number: 126
 formerly:
 - TERM-tmp4zjar
 status: Proposed
-title: 'answerability, of an actor to a party concerning an action or governing power, under a declared standard, and which dimension: the normative relation in which the actor owes the party some form of answer, an account, reasons, responsiveness, an effective opportunity to contest, or judgment and redress; normative (whether it is owed), institutional (who may demand, assess and act on it), effective (whether it can become consequential) or maintained (whether it stays so); not the accountability mechanisms that realize it'
-version: 2
+title: 'answerability'
+statement: >-
+  answerability, of an actor to a party concerning an action or governing
+  power, under a declared standard, and which dimension: the normative
+  relation in which the actor owes the party some form of answer, an
+  account, reasons, responsiveness, an effective opportunity to contest, or
+  judgment and redress; normative (whether it is owed), institutional (who
+  may demand, assess and act on it), effective (whether it can become
+  consequential) or maintained (whether it stays so); not the accountability
+  mechanisms that realize it
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -15,11 +24,20 @@ history:
     (2007) read; his accountability is the term's mechanism side, but
     he nests answerability inside accountability, so the term's
     nesting is the record's own.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Gains the line rightful-power (atlas scope 13) under ADR-tmpd3ckn: the
+    entry is in that scope's core fiber in the hyperarticle atlas v0.3
+    (scratch/atlas/atlas-v0.3.md), and each atlas scope is documented as a
+    line. No other change.
 tags:
 - ethics
 - society-and-governance
 date: '2026-11-17'
-line: dependence-and-domination
+line:
+- dependence-and-domination
+- rightful-power
 summary: >-
   A's, from the exchange "Assess Depp Heard Abuse" (2026-11-17): A83 §1,
   at the owner's U36, "For our purposes, I'd reserve **answerability** for
@@ -35,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-624 TERM-124 CLAIM-739 CLAIM-746 TERM-130 — Proposed or new; the entries that use the word, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-016 — Deferred; the record's other use of "answerable", set aside -->
 
-# TERM-126: answerability, of an actor to a party concerning an action or governing power, under a declared standard, and which dimension: the normative relation in which the actor owes the party some form of answer, an account, reasons, responsiveness, an effective opportunity to contest, or judgment and redress; normative (whether it is owed), institutional (who may demand, assess and act on it), effective (whether it can become consequential) or maintained (whether it stays so); not the accountability mechanisms that realize it
+# TERM-126: answerability
 
 ## Definition
 

@@ -3,7 +3,11 @@ number: 162
 status: Proposed
 formerly:
 - TERM-tmppvlfi
-title: 'harmonious integration, of a plurality of constituents over a horizon: viability, accommodation and correctability together, as distinct from coexistence, stability or agreement'
+title: 'harmonious integration'
+statement: >-
+  harmonious integration, of a plurality of constituents over a horizon:
+  viability, accommodation and correctability together, as distinct from
+  coexistence, stability or agreement
 version: 1
 history:
 - version: 1
@@ -37,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-362 — Proposed; the non-domination criterion correctability restates -->
 
-# TERM-162: harmonious integration, of a plurality of constituents over a horizon: viability, accommodation and correctability together, as distinct from coexistence, stability or agreement
+# TERM-162: harmonious integration
 
 ## Definition
 

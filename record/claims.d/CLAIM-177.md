@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp4qgbo
 title: 'In the record''s exchanges with collaborators who keep no memory, the argument repeatedly loses identity: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change'
-version: 3
+version: 6
 history:
 - version: 2
   date: '2026-10-27'
@@ -21,6 +21,25 @@ history:
     At the nucleating-argument line account of 2026-11-07, which read every entry of the line:
     the summary still called the claim Proposed on two exchanges. It has
     been Active since version 2 (2026-10-27), on six. No other change.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Gains the line records-of-inquiry (atlas scope 02) under ADR-tmpd3ckn:
+    the entry is in that scope's core fiber in the hyperarticle atlas v0.3
+    (scratch/atlas/atlas-v0.3.md), and each atlas scope is documented as a
+    line. No other change.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Joins the work luria-beyond-software (ADR-tmp85hdc): Article 2 of A45
+    in the exchange "Hyper article interpretation" states its proposition
+    or uses it as a step, in §3. No other change.
+- version: 6
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 02. No other
+    change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -31,8 +50,12 @@ tags:
 - design-rationale
 - epistemology
 date: '2026-10-11'
-line: nucleating-argument
+line:
+- nucleating-argument
+- records-of-inquiry
 works:
+- atlas
+- luria-beyond-software
 - from-obstruction-to-reorganization
 summary: >-
   Stated as a finding in [ADR-032](../decisions.d/ADR-032.md), from seven readers coding the will

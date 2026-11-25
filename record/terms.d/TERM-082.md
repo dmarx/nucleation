@@ -3,7 +3,10 @@ number: 82
 status: Proposed
 formerly:
 - TERM-tmpi9ctf
-title: 'consciousness, and which sense: phenomenal, access, self-consciousness or wakefulness'
+title: 'consciousness'
+statement: >-
+  consciousness, and which sense: phenomenal, access, self-consciousness or
+  wakefulness
 version: 3
 history:
 - version: 2
@@ -41,7 +44,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: THEORY-091 THEORY-103 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 
-# TERM-082: consciousness, and which sense: phenomenal, access, self-consciousness or wakefulness
+# TERM-082: consciousness
 
 ## Definition
 

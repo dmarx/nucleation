@@ -3,7 +3,10 @@ number: 351
 status: Proposed
 formerly:
 - CASE-tmp7n58t
-title: 'Acquisition order on a known tree with each level''s strength set independently, in kernel, deep linear and small ReLU learners'
+title: 'Acquisition order on a known tree'
+statement: >-
+  Acquisition order on a known tree with each level's strength set
+  independently, in kernel, deep linear and small ReLU learners
 version: 1
 history:
 - version: 1
@@ -46,7 +49,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
-# CASE-351: Acquisition order on a known tree with each level's strength set independently, in kernel, deep linear and small ReLU learners
+# CASE-351: Acquisition order on a known tree
 
 ## What was done
 

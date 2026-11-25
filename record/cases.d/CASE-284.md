@@ -3,7 +3,14 @@ number: 284
 formerly:
 - CASE-tmpd0hyp
 status: Proposed
-title: 'Identical harm, different remedial assignments: two institutions produce the same wrongful outcome through the same defective procedure with blameless decision-makers, and one can remedy it while the other cannot and a separate public authority with jurisdiction and resources can; the duty to address the wrong is the same and the corrective paths differ, assigned without inventing blame'
+title: 'Identical harm, different remedies'
+statement: >-
+  Identical harm, different remedial assignments: two institutions produce
+  the same wrongful outcome through the same defective procedure with
+  blameless decision-makers, and one can remedy it while the other cannot
+  and a separate public authority with jurisdiction and resources can; the
+  duty to address the wrong is the same and the corrective paths differ,
+  assigned without inventing blame
 version: 2
 history:
 - version: 2
@@ -35,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-717 CLAIM-742 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 
-# CASE-284: Identical harm, different remedial assignments: two institutions produce the same wrongful outcome through the same defective procedure with blameless decision-makers, and one can remedy it while the other cannot and a separate public authority with jurisdiction and resources can; the duty to address the wrong is the same and the corrective paths differ, assigned without inventing blame
+# CASE-284: Identical harm, different remedies
 
 ## The case
 

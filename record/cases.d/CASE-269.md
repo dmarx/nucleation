@@ -3,7 +3,14 @@ number: 269
 status: Proposed
 formerly:
 - CASE-tmpubkrl
-title: 'A proposed study: a common testbed of continuous fields, a φ⁴ kink, abelian Higgs vortices and a coupled field in which a localized nucleus makes a diffusing mediator, to measure separately whether a localized structure exists, is reachable, is attracting, persists, regenerates and changes downstream transition rates, and to find configurations that look alike in persistence and differ under intervention'
+title: 'Field testbed: kink, vortices and mediator'
+statement: >-
+  A proposed study: a common testbed of continuous fields, a φ⁴ kink,
+  abelian Higgs vortices and a coupled field in which a localized nucleus
+  makes a diffusing mediator, to measure separately whether a localized
+  structure exists, is reachable, is attracting, persists, regenerates and
+  changes downstream transition rates, and to find configurations that look
+  alike in persistence and differ under intervention
 version: 2
 history:
 - version: 2
@@ -51,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-266 CASE-267 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1869 CLAIM-694 CLAIM-618 — Proposed or new; the readings and claims the design draws on or maps to -->
 
-# CASE-269: A proposed study: a common testbed of continuous fields, a φ⁴ kink, abelian Higgs vortices and a coupled field in which a localized nucleus makes a diffusing mediator, to measure separately whether a localized structure exists, is reachable, is attracting, persists, regenerates and changes downstream transition rates, and to find configurations that look alike in persistence and differ under intervention
+# CASE-269: Field testbed: kink, vortices and mediator
 
 ## The design
 

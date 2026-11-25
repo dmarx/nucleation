@@ -3,7 +3,16 @@ number: 191
 status: Active
 formerly:
 - CASE-tmph9iwi
-title: 'A construction of self-formation: an agent''s own frustration at two demands one shared output cannot meet drives production of a sensor and a differentiating channel that then maintain each other; past a threshold of discrepancy (D ≈ 0.645 at unit drive) the capacity forms, outlasts the conflict, meets later conflicts of the same class up to D ≈ 1.047 with no frustration, and is lost at damage 0.5; a capacity upheld from outside is told apart by knockouts afterwards, but one installed by an outside pulse and then self-maintained is told apart only by a knockout during formation'
+title: 'A construction of self-formation'
+statement: >-
+  A construction of self-formation: an agent's own frustration at two
+  demands one shared output cannot meet drives production of a sensor and a
+  differentiating channel that then maintain each other; past a threshold of
+  discrepancy (D ≈ 0.645 at unit drive) the capacity forms, outlasts the
+  conflict, meets later conflicts of the same class up to D ≈ 1.047 with no
+  frustration, and is lost at damage 0.5; a capacity upheld from outside is
+  told apart by knockouts afterwards, but one installed by an outside pulse
+  and then self-maintained is told apart only by a knockout during formation
 version: 2
 history:
 - version: 2
@@ -48,7 +57,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: THEORY-040 THEORY-328 THEORY-047 THEORY-054 QUESTION-011 TERM-066 CLAIM-545 — Proposed, Open or Deferred; the entries on which provenance matters, cited as open -->
 
-# CASE-191: A construction of self-formation: an agent's own frustration at two demands one shared output cannot meet drives production of a sensor and a differentiating channel that then maintain each other; past a threshold of discrepancy (D ≈ 0.645 at unit drive) the capacity forms, outlasts the conflict, meets later conflicts of the same class up to D ≈ 1.047 with no frustration, and is lost at damage 0.5; a capacity upheld from outside is told apart by knockouts afterwards, but one installed by an outside pulse and then self-maintained is told apart only by a knockout during formation
+# CASE-191: A construction of self-formation
 
 ## The construction
 

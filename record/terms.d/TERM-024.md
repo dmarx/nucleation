@@ -3,7 +3,9 @@ number: 24
 status: Active
 formerly:
 - TERM-tmpnvqh8
-title: 'noncommutativity, of events and of operations'
+title: 'noncommutativity'
+statement: >-
+  noncommutativity, of events and of operations
 version: 3
 history:
 - version: 2
@@ -33,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-073 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 
-# TERM-024: noncommutativity, of events and of operations
+# TERM-024: noncommutativity
 
 ## Definition
 

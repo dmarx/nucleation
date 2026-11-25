@@ -1,10 +1,10 @@
 ---
 number: 878
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpocsw4
-title: 'Under a budget set each period to the last period''s peak spending, a capability stays funded exactly as long as every period contains a mobilization at its cost, whether a use, a drill, a false alarm or a cancelled dispatch, so dispatching it provisionally to every report keeps it funded far longer than dispatching it only on confirmation of need'
-version: 2
+title: 'Under a budget set each period to the last period''s peak spending, a capability stays funded exactly as long as every period occupies capacity at its cost, which a mobilization of it does whether a use, a drill, a false alarm or a cancelled dispatch, so where nothing else occupies that much, dispatching it provisionally to every report keeps it funded far longer than dispatching it only on confirmation of need'
+version: 4
 history:
 - version: 1
   date: '2026-11-22'
@@ -19,6 +19,38 @@ history:
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §8.5, §9.4, §15.3. No other
     change.
+- version: 3
+  date: '2026-11-24'
+  note: >-
+    Title reworded at the owner's word of 2026-11-24 ("handle the fixes
+    for the twelve ... use your best judgement", under the dialectic
+    regime; ADR-057), as A53 of the exchange 'Memes, Contracts, and
+    Systemic Normativity' asked: under the pure rule any occupation
+    costing at least B* holds the budget, as the defeated_if already
+    said ("an occupation costing at least B*"), so "exactly as long as
+    every period contains a mobilization at its cost" was too strong in
+    its only-if half. The title now names the occupation, with a
+    mobilization as one instance, and limits its policy comparison to
+    where nothing else occupies that much; step 1, step 4 and the
+    summary say the same. The derivation is unchanged. Old title: "Under
+    a budget set each period to the last period's peak spending, a
+    capability stays funded exactly as long as every period contains a
+    mobilization at its cost, whether a use, a drill, a false alarm or a
+    cancelled dispatch, so dispatching it provisionally to every report
+    keeps it funded far longer than dispatching it only on confirmation
+    of need". The dropped clause was a mis-statement, a note only
+    (README, narrowing kind 3).
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the same word (ADR-057): its premise CLAIM-577
+    is Active, its ground CASE-315 is promoted in this pass (rerun
+    2026-11-24 by a session other than the filer's: results reproduce
+    byte for byte and its 13 tests pass, among them
+    test_loss_probability_formula, which checks step 2's 1 − ∏(1 − q_t)
+    within sampling error), the term it uses, TERM-109, is Active, no
+    objection targets it, and nothing meets its defeated_if. Steps 1 to
+    4 re-derived from the rule in this pass.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -53,9 +85,7 @@ bears_on:
 summary: >-
   A corollary of [CLAIM-577](CLAIM-577.md), found in running [LEAD-080](../leads.d/LEAD-080.md)'s study
   ([CASE-315](../cases.d/CASE-315.md)). Under spend-matching the next budget is this period's
-  peak, so a capability costing B* to mobilize stays affordable exactly as
-  long as every period has something that mobilizes it, and its first
-  period with nothing loses it for good. If q_t is the chance that period
+  peak, so a capability costing B* to mobilize stays affordable exactly as long as every period occupies capacity at that cost, as anything that mobilizes it does, and its first period with no such occupation loses it for good. If q_t is the chance that period
   t has nothing, the chance of losing it within n periods is
   1 − ∏(1 − q_t). Whatever mobilizes counts: a use, a drill, a false alarm
   or a provisional dispatch ([TERM-109](../terms.d/TERM-109.md)) cancelled minutes later. So the
@@ -70,9 +100,8 @@ summary: >-
 works:
 - governance-of-possibility
 ---
-<!-- inactive-ok-file: CASE-315 — new; the study this claim is drawn from, filed with it -->
 
-# CLAIM-878: Under a budget set each period to the last period's peak spending, a capability stays funded exactly as long as every period contains a mobilization at its cost, whether a use, a drill, a false alarm or a cancelled dispatch, so dispatching it provisionally to every report keeps it funded far longer than dispatching it only on confirmation of need
+# CLAIM-878: Under a budget set each period to the last period's peak spending, a capability stays funded exactly as long as every period occupies capacity at its cost, which a mobilization of it does whether a use, a drill, a false alarm or a cancelled dispatch, so where nothing else occupies that much, dispatching it provisionally to every report keeps it funded far longer than dispatching it only on confirmation of need
 
 ## The claim
 
@@ -80,12 +109,12 @@ Take [CLAIM-577](CLAIM-577.md)'s rule, B_{t+1} = s_t, with s_t the peak capacity
 in period t, and a capability whose mobilization costs B* above holding
 cost h < B*. Start at B_0 ≥ B*.
 
-1. **Funded exactly while every period mobilizes it.** B_{t+1} ≥ B* if and
-   only if period t occupied something costing at least B*. If every
-   period has a mobilization, the budget stays at least B*; the first
+1. **Funded exactly while every period occupies its cost.** B_{t+1} ≥ B* if and
+   only if period t occupied something costing at least B*, a mobilization
+   of this capability or any other occupation as costly. If every
+   period has one, the budget stays at least B*; the first
    period with none sets it below B*, and by [CLAIM-577](CLAIM-577.md) it never returns.
-2. **The chance of loss.** If period t has no mobilization with chance
-   q_t, independently, the chance the capability is still funded after n
+2. **The chance of loss.** If period t has no occupation at that cost with chance q_t, independently, the chance the capability is still funded after n
    periods is ∏(1 − q_t), and the chance it has been lost is
    1 − ∏(1 − q_t).
 3. **Anything that mobilizes counts.** The rule sees the peak, not its
@@ -95,7 +124,9 @@ cost h < B*. Start at B_0 ≥ B*.
 4. **So the dispatch policy sets q_t.** A policy that mobilizes on every
    report of a possible need has q_t equal to the chance of no report; one
    that mobilizes only on confirmed need has q_t equal to the chance of no
-   confirmed need, which is far larger when need is rare.
+   confirmed need, which is far larger when need is rare. Where some other
+   activity occupies capacity at B* in a period, it holds the budget too,
+   and q_t is the chance that nothing at that cost occupies the period.
 
 Steps 1 to 4 follow from the rule. [CASE-315](../cases.d/CASE-315.md) shows their size in a
 model of [CASE-213](../cases.d/CASE-213.md)'s squad: at six reports a month, a tenth needing
@@ -140,5 +171,8 @@ It adds two differences. The drill needs no commitment from whoever sets the bud
 
 ## Note of 2026-11-23: the study filed
 
-<!-- inactive-ok-block: CASE-412 CASE-397 — new; the study filed -->
 The model the note above reports is now on the record as [CASE-412](../cases.d/CASE-412.md), which illustrates this claim: a drill each period (IV) costs what a reserve at the same level costs and has the same readiness curve, and drilling every second period loses the route. Its variant [CASE-397](../cases.d/CASE-397.md) holds the second way the drill breaks, a review that crowds it out. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A53
+
+A53: "it is expenditure reaching the threshold that preserves the budget, not necessarily mobilization of the particular capability whose affordability is at issue. Another sufficiently costly activity could preserve the same budget under the pure rule." Checked: the defeater speaks of "an occupation costing at least B*", the title of "a mobilization at its cost". Under the pure rule any occupation at that cost keeps the budget, so the title's "exactly as long as every period contains a mobilization" is too strong in its "only if" half. The rewording, to any occupation at that cost of which a use, a drill, a false alarm or a cancelled dispatch are instances, is due before a ruling, with [CASE-315](../cases.d/CASE-315.md) (rerun the same day). The note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting either is the owner's call. No status change.

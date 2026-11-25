@@ -3,7 +3,12 @@ number: 143
 status: Proposed
 formerly:
 - TERM-tmpf5ymd
-title: "bulk, in two senses that come apart: by count, the many members or directions that make up most of a population or spectrum, and by weight, the few that carry most of its mass, density or activity; in a skewed distribution or spectrum the two sit at opposite ends"
+title: 'bulk'
+statement: >-
+  bulk, in two senses that come apart: by count, the many members or
+  directions that make up most of a population or spectrum, and by weight,
+  the few that carry most of its mass, density or activity; in a skewed
+  distribution or spectrum the two sit at opposite ends
 version: 2
 history:
 - version: 2
@@ -38,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-138 CLAIM-832 — Proposed or new; the senses this term separates and the claim that uses it -->
 <!-- inactive-ok-file: LIT-3047 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# TERM-143: bulk, in two senses that come apart: by count, the many members or directions that make up most of a population or spectrum, and by weight, the few that carry most of its mass, density or activity; in a skewed distribution or spectrum the two sit at opposite ends
+# TERM-143: bulk
 
 ## Definition
 

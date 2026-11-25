@@ -3,9 +3,11 @@ number: 91
 status: Active
 formerly:
 - CASE-tmpy6hv9
-title: 'A memory ablation for revision: synthetic inquiries with known ground truth,
-  run under six kinds of persistent memory, with information and token budget controlled
-  separately'
+title: 'A memory ablation for revision'
+statement: >-
+  A memory ablation for revision: synthetic inquiries with known ground
+  truth, run under six kinds of persistent memory, with information and
+  token budget controlled separately
 version: 2
 history:
 - version: 2
@@ -35,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2272 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-1736 THEORY-1737 THEORY-1748 THEORY-1752 THEORY-1780 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CASE-091: A memory ablation for revision: synthetic inquiries with known ground truth, run under six kinds of persistent memory, with information and token budget controlled separately
+# CASE-091: A memory ablation for revision
 
 ## The case
 

@@ -3,7 +3,10 @@ number: 43
 status: Active
 formerly:
 - TERM-tmpz8i47
-title: 'fidelity, as a profile of directed distortions compared component by component'
+title: 'fidelity (distortion profile)'
+statement: >-
+  fidelity, as a profile of directed distortions compared component by
+  component
 version: 3
 history:
 - version: 2
@@ -43,7 +46,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-127 CLAIM-128 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the restatements of the components, cited as open -->
 
-# TERM-043: fidelity, as a profile of directed distortions compared component by component
+# TERM-043: fidelity (distortion profile)
 
 ## Definition
 

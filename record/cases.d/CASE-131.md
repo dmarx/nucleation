@@ -3,14 +3,25 @@ number: 131
 status: Active
 formerly:
 - CASE-tmp8jhbm
-title: 'The graph that asserted an inference nobody made: filing one claim as supporting another made the record''s link fixer write that the other rested on it, and the record answered by adding a relation'
-version: 2
+title: 'The graph that asserted an unmade inference'
+statement: >-
+  The graph that asserted an inference nobody made: filing one claim as
+  supporting another made the record's link fixer write that the other
+  rested on it, and the record answered by adding a relation
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
     line (ADR-082). No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -19,6 +30,7 @@ tags:
 date: '2026-10-22'
 line:
 - record-as-apparatus
+- scholarly-publishing
 illustrates:
 - CLAIM-181
 summary: >-
@@ -31,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-181 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: ARG-096 CASE-253 CLAIM-666 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 
-# CASE-131: The graph that asserted an inference nobody made: filing one claim as supporting another made the record's link fixer write that the other rested on it, and the record answered by adding a relation
+# CASE-131: The graph that asserted an unmade inference
 
 ## The case
 
@@ -82,3 +94,19 @@ would preserve the false dependency in CASE-131." That is filed as
 [CLAIM-666](../claims.d/CLAIM-666.md), with [ARG-096](../arguments.d/ARG-096.md). This case's "What it does not show" is
 also A25's methodological point: a schema history "cannot tell us how many
 contributions were misclassified or abandoned because they did not fit".
+
+## Note of 2026-11-25: read as an atlas's failed transition, from "Hyper article interpretation"
+
+<!-- inactive-ok-block: CLAIM-tmplz7ng ARG-tmpmj7av CLAIM-tmpyaro8 — new; the atlas thesis, the argument from this case, the owner's class-stability thesis and the route lead -->
+ChatGPT, at A49 of the exchange "Hyper article interpretation"
+(2026-11-25), takes this case as "an unusually good persisted example" of
+its atlas thesis ([CLAIM-tmplz7ng](../claims.d/CLAIM-tmplz7ng.md)): two views of one argument, the
+supporting claim's and the supported claim's, described one relation
+incompatibly until `corroborates` was added. A's account of the case is
+accurate. [ARG-tmpmj7av](../arguments.d/ARG-tmpmj7av.md) holds what the case shows for that thesis, an
+existence result for progress by a distinction that restores
+compatibility, and not more. A47 counts it among the distinctions that
+keep a class stable ([CLAIM-tmpyaro8](../claims.d/CLAIM-tmpyaro8.md)), and A61 makes it the first post of
+its first blog series, "The Knowledge Graph That Lied" ([LEAD-tmpx9p54](../leads.d/LEAD-tmpx9p54.md)
+checks that route against the record's edges). The note is the
+assistant's (Claude, in this session). No status change.

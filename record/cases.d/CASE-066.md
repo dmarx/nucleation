@@ -3,7 +3,10 @@ number: 66
 status: Active
 formerly:
 - CASE-tmpmsyg7
-title: 'Dolly''s slip into ты in Anna Karenina I.4, and three English translations that carry it three ways'
+title: 'Dolly''s slip into ты in Anna Karenina'
+statement: >-
+  Dolly's slip into ты in Anna Karenina I.4, and three English translations
+  that carry it three ways
 version: 1
 standing: documented
 kind: specimen
@@ -25,7 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-091 — Proposed; open, and cited as the claim this case is filed for, not as settled -->
 
-# CASE-066: Dolly's slip into ты in Anna Karenina I.4, and three English translations that carry it three ways
+# CASE-066: Dolly's slip into ты in Anna Karenina
 
 Found on 2026-10-10 by a search the owner asked for: documented cases for
 [CLAIM-091](../claims.d/CLAIM-091.md), against [CLAIM-229](../claims.d/CLAIM-229.md)'s objection that it grounds only on

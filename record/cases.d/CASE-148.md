@@ -3,7 +3,13 @@ number: 148
 status: Active
 formerly:
 - CASE-tmpbyihf
-title: 'Perspective transplantation: two populations matched in behaviour exchange different combinations of learned interpretive rules, specialist parameters, training histories, institutional rules and shared memory, and are then set where the transferred parts disagree with their new surroundings'
+title: 'Perspective transplantation'
+statement: >-
+  Perspective transplantation: two populations matched in behaviour exchange
+  different combinations of learned interpretive rules, specialist
+  parameters, training histories, institutional rules and shared memory, and
+  are then set where the transferred parts disagree with their new
+  surroundings
 version: 3
 history:
 - version: 2
@@ -46,7 +52,7 @@ bears_on:
 - QUESTION-118
 ---
 
-# CASE-148: Perspective transplantation: two populations matched in behaviour exchange different combinations of learned interpretive rules, specialist parameters, training histories, institutional rules and shared memory, and are then set where the transferred parts disagree with their new surroundings
+# CASE-148: Perspective transplantation
 
 ## The design
 
@@ -77,3 +83,42 @@ the old environment to keep being enacted; and which is reabsorbed.
   ([LIT-1423](../literature.d/LIT-1423.md), not reached) is reported to show a norm surviving the
   replacement of everyone who set it ([QUESTION-118](../questions.d/QUESTION-118.md)); this design asks which
   parts of what survives did the work.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A27, the manuscript's Study D
+
+The manuscript ChatGPT drafted at U20 ("Becoming Through One Another",
+§11, Study D, "Character transport and corrective autonomy") proposes a
+neighbour of this design: expose carriers to cultural expressions or
+protocol specifications "with matched informational content but
+different governance implications", test whether they acquire similar
+responses to controlled changes in evidence, concerns, authority and
+opportunities for contestation, and "Separate activation of preexisting
+organization from formation of new capacities by intervening during
+learning and after withdrawal", against ordinary transmission,
+reinforcement learning and resource-rational baselines. "If a common group
+action can be independently identified, strict representation-theoretic
+invariants may be investigated; otherwise use explicitly probe-relative
+profiles." It differs from this case in what is transferred (an
+expression, not learned components) and shares its question of which
+transfer reproduces a characteristic organization; the memes-as-characters
+idea it tests is the owner's (U4), filed as two alternative readings,
+[CLAIM-tmphi3mx](../claims.d/CLAIM-tmphi3mx.md) and [CLAIM-tmp4mk0t](../claims.d/CLAIM-tmp4mk0t.md). A neighbour design, proposed and not
+run; [LEAD-113](../leads.d/LEAD-113.md) is this case's run. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A5 §8 and A6 §9
+
+Earlier in the same exchange, A5 and A6 cite this case accurately as "an
+existing proposed experimental design that asks which transferred
+components reproduce characteristic organization in new carriers", and
+name it as the experimental extension of their theses ([CLAIM-tmpjitli](../claims.d/CLAIM-tmpjitli.md),
+[CLAIM-tmpjlxfy](../claims.d/CLAIM-tmpjlxfy.md)). A6 §9: "The crucial test would be whether transferring
+particular memes reproduces these characteristic response profiles,
+including their limitations, in another organization", holding evidence
+fixed while varying "its source, implications, medium or relationship to
+existing commitments". The extension, with a control that transfers the
+memes' propositions alone, is [LEAD-tmpqucxc](../leads.d/LEAD-tmpqucxc.md). Bearing: a proposed variant,
+no change. The wording of this note is the assistant's (Claude, in this
+session), reporting A's (ChatGPT's) text; adopting what it reports is the
+owner's call.
+
+<!-- inactive-ok-file: CLAIM-tmpjitli CLAIM-tmpjlxfy CLAIM-tmphi3mx CLAIM-tmp4mk0t — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

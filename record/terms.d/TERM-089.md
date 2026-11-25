@@ -6,7 +6,12 @@ formerly:
 complements:
 - TERM-087
 - TERM-093
-title: 'apparatus, in the operational sense: a realized organization that selectively couples differences in one system to distinguishable outcomes in another; by function it may differentiate, retain, enforce and revise, and the four come apart'
+title: 'apparatus'
+statement: >-
+  apparatus, in the operational sense: a realized organization that
+  selectively couples differences in one system to distinguishable outcomes
+  in another; by function it may differentiate, retain, enforce and revise,
+  and the four come apart
 version: 5
 history:
 - version: 2
@@ -59,7 +64,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: TERM-087 CLAIM-476 — Proposed, Open or new; the term, claims and question this sense serves -->
 
-# TERM-089: apparatus, in the operational sense: a realized organization that selectively couples differences in one system to distinguishable outcomes in another; by function it may differentiate, retain, enforce and revise, and the four come apart
+# TERM-089: apparatus
 
 ## Definition
 

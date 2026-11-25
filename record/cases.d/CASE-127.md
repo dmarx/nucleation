@@ -3,7 +3,11 @@ number: 127
 status: Active
 formerly:
 - CASE-tmp2jk3n
-title: 'United 173 and Crew Resource Management: a crew whose concern about the fuel did not reach the captain as a demand to act, and the training that followed, which asked for participative captains and assertive crews'
+title: 'United 173 and Crew Resource Management'
+statement: >-
+  United 173 and Crew Resource Management: a crew whose concern about the
+  fuel did not reach the captain as a demand to act, and the training that
+  followed, which asked for participative captains and assertive crews
 version: 2
 history:
 - version: 2
@@ -38,7 +42,7 @@ reported_in:
 - NOTE-1087
 ---
 
-# CASE-127: United 173 and Crew Resource Management: a crew whose concern about the fuel did not reach the captain as a demand to act, and the training that followed, which asked for participative captains and assertive crews
+# CASE-127: United 173 and Crew Resource Management
 
 ## The case
 

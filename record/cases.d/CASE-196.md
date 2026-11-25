@@ -3,7 +3,15 @@ number: 196
 status: Proposed
 formerly:
 - CASE-tmpqzzui
-title: 'Three species whose every pair coexists identically for every strength b of a three-way term that vanishes on pairs: above b = 0.96 a missing species cannot invade a resident pair, above b = 1.76 the triple cannot persist from any start, and between them it persists from some starts and not others, so whether the triangle of the compatibility complex is filled depends on whether compatibility is declared as robust permanence or as a stable positive equilibrium'
+title: 'Three species with a three-way term'
+statement: >-
+  Three species whose every pair coexists identically for every strength b
+  of a three-way term that vanishes on pairs: above b = 0.96 a missing
+  species cannot invade a resident pair, above b = 1.76 the triple cannot
+  persist from any start, and between them it persists from some starts and
+  not others, so whether the triangle of the compatibility complex is filled
+  depends on whether compatibility is declared as robust permanence or as a
+  stable positive equilibrium
 version: 2
 history:
 - version: 2
@@ -40,7 +48,7 @@ draws_on:
 - THEORY-598
 ---
 
-# CASE-196: Three species whose every pair coexists identically for every strength b of a three-way term that vanishes on pairs: above b = 0.96 a missing species cannot invade a resident pair, above b = 1.76 the triple cannot persist from any start, and between them it persists from some starts and not others, so whether the triangle of the compatibility complex is filled depends on whether compatibility is declared as robust permanence or as a stable positive equilibrium
+# CASE-196: Three species with a three-way term
 
 ## The construction
 

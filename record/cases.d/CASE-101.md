@@ -3,7 +3,12 @@ number: 101
 status: Active
 formerly:
 - CASE-tmpl1tu6
-title: 'Three simulated populations with the same turnover and the same aggregate statistics: one whose members respond alike to a common input, one that transmits its norms to its replacements, and one held together by an institution that selects and trains its members'
+title: 'Three populations, same turnover'
+statement: >-
+  Three simulated populations with the same turnover and the same aggregate
+  statistics: one whose members respond alike to a common input, one that
+  transmits its norms to its replacements, and one held together by an
+  institution that selects and trains its members
 version: 5
 history:
 - version: 2
@@ -53,7 +58,7 @@ draws_on:
 <!-- inactive-ok-file: THEORY-257 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 <!-- inactive-ok-file: CASE-347 CLAIM-926 — new, filed 2026-11-22 from LEAD-026's study -->
 
-# CASE-101: Three simulated populations with the same turnover and the same aggregate statistics: one whose members respond alike to a common input, one that transmits its norms to its replacements, and one held together by an institution that selects and trains its members
+# CASE-101: Three populations, same turnover
 
 ## The case
 

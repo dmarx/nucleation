@@ -3,7 +3,11 @@ number: 54
 status: Active
 formerly:
 - CASE-tmp15jvz
-title: 'Joking relationships: one kind among the Crow and in Africa with no route between them, descended between Crow and Hidatsa, and a transported tale beside them'
+title: 'Joking relationships: Crow, Hidatsa and Africa'
+statement: >-
+  Joking relationships: one kind among the Crow and in Africa with no route
+  between them, descended between Crow and Hidatsa, and a transported tale
+  beside them
 version: 2
 history:
 - version: 2
@@ -35,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-137 CLAIM-217 — Proposed; the work-identity claim, the kind thesis and the uptake standard this case sits beside, open -->
 
-# CASE-054: Joking relationships: one kind among the Crow and in Africa with no route between them, descended between Crow and Hidatsa, and a transported tale beside them
+# CASE-054: Joking relationships: Crow, Hidatsa and Africa
 
 Found on 2026-10-10 by a search the owner asked for: a documented case for
 the three relations [CLAIM-210](../claims.d/CLAIM-210.md) separates. Two instances share a kind with

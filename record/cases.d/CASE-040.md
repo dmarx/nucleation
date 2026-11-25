@@ -3,7 +3,10 @@ number: 40
 status: Active
 formerly:
 - CASE-tmpmv9pi
-title: 'Topic and act crossed: a factorial design that decorrelates what a text is about from what it does'
+title: 'Topic and act crossed: a factorial design'
+statement: >-
+  Topic and act crossed: a factorial design that decorrelates what a text is
+  about from what it does
 version: 2
 history:
 - version: 2
@@ -36,7 +39,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: CLAIM-129 CLAIM-127 — Proposed; open, and cited as claims and a reading the case bears on, not as settled -->
 
-# CASE-040: Topic and act crossed: a factorial design that decorrelates what a text is about from what it does
+# CASE-040: Topic and act crossed: a factorial design
 
 ## The case
 

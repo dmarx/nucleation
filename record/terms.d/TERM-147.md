@@ -3,7 +3,12 @@ number: 147
 status: Proposed
 formerly:
 - TERM-tmp4iqiv
-title: "independent scoring, of a loop's evidence, in two senses that come apart: scoring that does not read the content of the interpretation under test, and scoring that reads nothing of the loop's current state, neither the interpretation nor the share of authority it holds"
+title: 'independent scoring'
+statement: >-
+  independent scoring, of a loop's evidence, in two senses that come apart:
+  scoring that does not read the content of the interpretation under test,
+  and scoring that reads nothing of the loop's current state, neither the
+  interpretation nor the share of authority it holds
 version: 1
 tags:
 - epistemology
@@ -30,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-821 CLAIM-851 CLAIM-831 — Proposed; null scoring, a different sense of scoring, named so as not to be confused with this one -->
 <!-- inactive-ok-file: THEORY-1927 — Proposed; Ensign et al., cited for independent arrival -->
 
-# TERM-147: independent scoring, of a loop's evidence, in two senses that come apart: scoring that does not read the content of the interpretation under test, and scoring that reads nothing of the loop's current state, neither the interpretation nor the share of authority it holds
+# TERM-147: independent scoring
 
 ## Definition
 

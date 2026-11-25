@@ -3,7 +3,12 @@ number: 110
 status: Active
 formerly:
 - CASE-tmpfusdm
-title: 'Two members, one total: a coarse-graining by total output preserves an institution''s performance, its survival and every prediction it makes, and still merges a state in which a member works within the agreed cap with one in which that member works far past it'
+title: 'Two members, one total'
+statement: >-
+  Two members, one total: a coarse-graining by total output preserves an
+  institution's performance, its survival and every prediction it makes, and
+  still merges a state in which a member works within the agreed cap with
+  one in which that member works far past it
 version: 1
 standing: fictional
 kind: construction
@@ -26,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-228 — filed from the same exchange, Proposed -->
 
-# CASE-110: Two members, one total: a coarse-graining by total output preserves an institution's performance, its survival and every prediction it makes, and still merges a state in which a member works within the agreed cap with one in which that member works far past it
+# CASE-110: Two members, one total
 
 ## The construction
 

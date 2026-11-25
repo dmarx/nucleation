@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpxpdqi
 title: 'Freedom of will, in the operational sense, is an agent''s governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another''s interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another''s capacity to govern those same relations, used or not'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-06'
@@ -58,6 +58,12 @@ history:
     the claim with claims that persist without the holder's
     competence, and A93 §2 presents its phrase as shared coinage. No
     other change.
+- version: 8
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 6 §7; closing (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -80,6 +86,8 @@ tags:
 date: '2026-11-02'
 line:
 - will-organization
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-354
 - CLAIM-523
@@ -385,3 +393,21 @@ A90 XV of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6afc
 A93 §2 calls Schlager and Ostrom's split of operational from collective-choice property rights "a concrete version of what we have called **the governance of governability**". "We have called" presents the phrase as coined jointly with the owner; this claim's summary records it as A's, from "Assess SDT Coverage".
 
 No status changes.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A42 §16
+
+<!-- inactive-ok-file: CLAIM-tmp9xge5 CLAIM-tmpp91oy — Proposed; filed from U27 and A42 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+
+A42 §16, on the owner's U27 ([CLAIM-tmp9xge5](CLAIM-tmp9xge5.md)), carries this claim outward:
+"**Freedom can involve effective participation in determining the
+conditions under which one's activity becomes legible and consequential to
+others.**" The claim's legibility is the agent's own organization making
+distinctions legible to itself; A42 adds the legibility of the agent to
+others, and "Cooperation requires some mutual legibility. Individuation can
+require protected opacity" ([CLAIM-tmpp91oy](CLAIM-tmpp91oy.md)). The claim's last clause,
+"domination is another's capacity to govern those same relations, used or
+not", already covers another's hold on the outward relation where it
+governs the inward ones; A42's addition is the outward relation in its own
+right. A42 §4 restates the "used or not" ("An authority has not established
+non-domination merely because it has not abused every power available to
+it"). Bearing: an extension. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

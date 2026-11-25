@@ -3,7 +3,10 @@ number: 39
 status: Active
 formerly:
 - CASE-tmplyfo2
-title: 'Who crosses the meeting point first? Two craft near light speed, and the relativity of simultaneity'
+title: 'Two craft near light speed: who crosses first'
+statement: >-
+  Who crosses the meeting point first? Two craft near light speed, and the
+  relativity of simultaneity
 version: 1
 standing: documented
 kind: thought-experiment
@@ -27,7 +30,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-010 — Rejected; cited as the inference this case was offered for, which two claims undercut -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as the earlier use of the relativity analogy, which this case does not revive -->
 
-# CASE-039: Who crosses the meeting point first? Two craft near light speed, and the relativity of simultaneity
+# CASE-039: Two craft near light speed: who crosses first
 
 ## The case
 

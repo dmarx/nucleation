@@ -3,7 +3,15 @@ number: 131
 status: Proposed
 formerly:
 - TERM-tmp1ix99
-title: 'learning, of a declared system over a declared horizon: an experience-dependent change in the system''s retained organization that alters what it can later do, at what cost and with what reliability, judged against a counterfactual in which the experience did not occur; distinct from successful learning, which is relative to a declared criterion, and from relaxation, selection among systems and a fixed controller''s response'
+title: 'learning'
+statement: >-
+  learning, of a declared system over a declared horizon: an
+  experience-dependent change in the system's retained organization that
+  alters what it can later do, at what cost and with what reliability,
+  judged against a counterfactual in which the experience did not occur;
+  distinct from successful learning, which is relative to a declared
+  criterion, and from relaxation, selection among systems and a fixed
+  controller's response
 version: 2
 history:
 - version: 2
@@ -39,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-519 CLAIM-754 CLAIM-756 CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
 
-# TERM-131: learning, of a declared system over a declared horizon: an experience-dependent change in the system's retained organization that alters what it can later do, at what cost and with what reliability, judged against a counterfactual in which the experience did not occur; distinct from successful learning, which is relative to a declared criterion, and from relaxation, selection among systems and a fixed controller's response
+# TERM-131: learning
 
 ## Definition
 
@@ -154,3 +162,13 @@ uses the term to say whether the retention it means is localized or
 identified but distributed (the owner's proposal of 2026-11-19, in this
 entry's note of that date), waits on the owner's ruling. [CLAIM-758](../claims.d/CLAIM-758.md) waits on
 it.
+
+## Note of 2026-11-25: from the review of the manuscript governance-of-becoming, Part II
+
+Article 5's join J5.1 read inquiry as a way the inquirer learns, in this
+term's sense. An independent reader found it a relabelling of [CLAIM-475](../claims.d/CLAIM-475.md)'s
+sense: trivial once one says which system learned. What it leaves is a
+definitional question for this term: interventions and observations count
+as "experience", but does formulating a question, with no observation,
+count as an experience that can change the learner? The term does not say.
+The wording is the assistant's (Claude, in this session).

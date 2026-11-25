@@ -28,7 +28,7 @@ summary: >-
   Named in [QUESTION-131](../questions.d/QUESTION-131.md) and [CASE-153](../cases.d/CASE-153.md). Filed by the backlog audit of
   2026-11-19.
 ---
-<!-- inactive-ok-file: CLAIM-923 CASE-346 CLAIM-924 CLAIM-631 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date; CLAIM-631 Proposed -->
+<!-- inactive-ok-file: CLAIM-923 CLAIM-924 CLAIM-631 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date; CLAIM-631 Proposed -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-076: Separate structural frustration from operative thwarting in each direction, and run the self-protecting sentry in full with hidden state and evidence restriction

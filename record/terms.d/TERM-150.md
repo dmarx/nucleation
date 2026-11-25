@@ -3,7 +3,9 @@ number: 150
 status: Proposed
 formerly:
 - TERM-tmpjv1xh
-title: 'Receiver-restricted informativeness order'
+title: 'receiver-restricted informativeness order'
+statement: >-
+  Receiver-restricted informativeness order
 version: 1
 history:
 - version: 1
@@ -33,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-944 CASE-361 — new, filed with this term -->
 
-# TERM-150: Receiver-restricted informativeness order
+# TERM-150: receiver-restricted informativeness order
 
 ## Definition
 

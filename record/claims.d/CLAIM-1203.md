@@ -1,10 +1,10 @@
 ---
 number: 1203
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpzbytm
 title: "In the sequential model of inquiry depth the best depth never falls as the deadline lengthens when execution readiness is log-concave in the time left, but when execution takes either a fast or a slow route a longer deadline can make a much shallower inquiry best, because the time it saves buys the slow route"
-version: 1
+version: 2
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -33,8 +33,20 @@ summary: >-
   condition under which the best depth rises with the deadline, and a
   checked example in which it falls sharply instead. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Promoted to Active under the owner's delegation of 2026-11-24
+    ("handle the fixes for the twelve ... use your best judgement"),
+    as the status pass of 2026-11-24 and the reruns of 2026-11-25
+    applied it to independently recomputed demonstrated claims. It was
+    rerun by a session other than the filer's on 2026-11-25 (scratch/formal/maintained_nuclei_check.py;
+    the curation entry of 2026-11-25 02:20) and reproduced; it was then
+    held back only by CLAIM-1114, which the recomputation pass of
+    2026-11-25 promoted. ADR-057: it rests on CLAIM-1008, Active (promoted just before it); no objection targets it; and
+    nothing meets its defeated_if.
 ---
-<!-- inactive-ok-file: CLAIM-1008 — Proposed; the claim whose gap this fills -->
 
 # CLAIM-1203: In the sequential model of inquiry depth the best depth never falls as the deadline lengthens when execution readiness is log-concave in the time left, but when execution takes either a fast or a slow route a longer deadline can make a much shallower inquiry best, because the time it saves buys the slow route
 
@@ -90,3 +102,7 @@ With python3 -I, p(k) = 1 − e^(−k), t(k) = k, and grid search over k.
 - Not that the bimodal case is typical. It shows that the rule that more time
   warrants deeper inquiry needs a condition on the target's response dynamics, which is
   the part of A52's sentence the model had not used.
+
+## Note of 2026-11-25: rerun, and what holds it back
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, at the owner's word ("go ahead with the reruns"; the owner delegated on 2026-11-24 the promotion of demonstrated claims independently recomputed). The filer's script was not kept, so the check was rebuilt from this entry alone as `scratch/formal/inquiry_depth_check.py`, with a negative control, and run with python3 -I. Every computation reproduces. Under the normal F, k* is 0.77, 1.27, 1.90, 3.35, 4.93 and 8.25 at H = 4, 5, 6, 8, 10 and 14; (log F)″ is negative over h in [0, 14), and k* never falls over H from 2 to 14 in steps of 0.05. Under the mixture, k* is 5.02 at H = 7.0 (P = 0.496), 0.90 at H = 7.05 (P = 0.502), 1.20 at 7.5 and 1.58 at 8; it rises over H from 6 to 7, first drops at H = 7.035 (the entry's "about 7.04"), and (log F)″ is positive on part of (2, 7), where the cross-partial changes sign. The normal F is the control for the mixture: the same search finds no fall. What holds it back: [ADR-057](../decisions.d/ADR-057.md)'s first criterion. Its one premise, [CLAIM-1008](CLAIM-1008.md), is Proposed (rerun today and reproduced, but held by [CLAIM-1157](CLAIM-1157.md) and that by [CLAIM-1114](CLAIM-1114.md)). It goes Active after [CLAIM-1008](CLAIM-1008.md). The note is the assistant's (Claude, in this session). No status change.

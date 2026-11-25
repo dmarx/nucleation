@@ -3,7 +3,12 @@ number: 100
 status: Active
 formerly:
 - TERM-tmp8spbn
-title: 'provenance, of a capacity or an organization, and which sense: formation provenance (whose process produced it), maintenance provenance (whose process keeps it), or source provenance (what it was made from, the sense the descent term holds)'
+title: 'provenance'
+statement: >-
+  provenance, of a capacity or an organization, and which sense: formation
+  provenance (whose process produced it), maintenance provenance (whose
+  process keeps it), or source provenance (what it was made from, the sense
+  the descent term holds)
 version: 2
 history:
 - version: 2
@@ -43,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-1799 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: TERM-066 CLAIM-544 CLAIM-545 THEORY-040 THEORY-328 THEORY-047 THEORY-054 QUESTION-011 — Proposed, Open, Deferred or new; cited as open -->
 
-# TERM-100: provenance, of a capacity or an organization, and which sense: formation provenance (whose process produced it), maintenance provenance (whose process keeps it), or source provenance (what it was made from, the sense the descent term holds)
+# TERM-100: provenance
 
 ## Definition
 
@@ -132,3 +137,24 @@ From the reading in [NOTE-1729](../notes.d/NOTE-1729.md) ([LIT-2356](../literatu
 checked by the filer: the parents' account is of an authorization formed by
 others (parents, community) in order to form the child's membership, the
 case the question's note calls formation by another.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A13
+
+<!-- inactive-ok-file: CLAIM-736 — Proposed; cited as separating two of the dimensions -->
+
+A13 §XI widens this term's provenance into five "dimensions of
+organizational independence": decisional ("Who determines particular
+actions?"), formative ("Whose processes produced the governing
+organization?"), maintenance ("Whose processes sustain its constraints?"),
+epistemic ("What determines the evidence and standards it uses?") and
+reflexive ("Who can examine and revise those relationships?"), with "No
+single dimension guarantees the others", and it calls "the distinction
+between formation provenance and maintenance provenance indispensable". The
+formative and maintenance dimensions are this term's senses; the epistemic
+is [CLAIM-404](../claims.d/CLAIM-404.md)'s route to outside governance; the reflexive is [CLAIM-545](../claims.d/CLAIM-545.md)'s
+governance of one's own governability. The independence of the five is
+asserted without separating cases. The record holds some pairs: [CLAIM-404](../claims.d/CLAIM-404.md)
+separates decisional independence from epistemic, [CLAIM-736](../claims.d/CLAIM-736.md) an
+opposition's independence as an actor from its capacity to change what it
+opposes, and this term separates formation from maintenance. Bearing: an
+extension, with no entry filed. The term is unchanged.

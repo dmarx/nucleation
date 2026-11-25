@@ -1,10 +1,10 @@
 ---
 number: 1025
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp4u0mj
 title: "The questions an organization can both pose and answer by a deadline lie between an inner bound, those whose posing and answering fit the horizon and budget run one after the other, and an outer bound, those each of whose processes fits alone, and where between them depends on precedence and sharing that neither frontier records, so two organizations with the same query and answer frontiers can differ in what they can jointly do"
-version: 1
+version: 2
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -42,8 +42,21 @@ summary: >-
   checked pair of organizations that they cannot tell apart. The wording is
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Promoted to Active under the owner's delegation of 2026-11-24
+    ("handle the fixes for the twelve ... use your best judgement"),
+    as the status pass of 2026-11-24 and the reruns of 2026-11-25
+    applied it to independently recomputed demonstrated claims. It was
+    rerun by a session other than the filer's on 2026-11-25 (scratch/formal/inquiry_depth_check.py;
+    the curation entry of 2026-11-25 02:20) and reproduced; it was then
+    held back only by CLAIM-1114, which the recomputation pass of
+    2026-11-25 promoted. ADR-057: it rests on CLAIM-1114, CLAIM-1084 and CLAIM-1157, all Active (CLAIM-1157 promoted just before it); it uses TERM-092, Active; no objection targets it; and
+    nothing meets its defeated_if.
 ---
-<!-- inactive-ok-file: CLAIM-1114 CLAIM-1157 CLAIM-1004 TERM-167 CLAIM-1115 CLAIM-1190 TERM-159 TERM-160 — Proposed; the construction this rests on, A's claim, the owner's conjecture, the viability kernel, and the joint relation and terms filed beside it -->
+<!-- inactive-ok-file: CLAIM-1004 TERM-167 TERM-159 — Proposed; the construction this rests on, A's claim, the owner's conjecture, the viability kernel, and the joint relation and terms filed beside it -->
 
 # CLAIM-1025: The questions an organization can both pose and answer by a deadline lie between an inner bound, those whose posing and answering fit the horizon and budget run one after the other, and an outer bound, those each of whose processes fits alone, and where between them depends on precedence and sharing that neither frontier records, so two organizations with the same query and answer frontiers can differ in what they can jointly do
 
@@ -146,3 +159,7 @@ be read from: a question outside the outer bound fails at the first or
 second site, and one between the bounds fails, if at all, at the third. The
 note is the assistant's (Claude, in this session); adopting it is the
 owner's call.
+
+## Note of 2026-11-25: rerun, and what holds it back
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, at the owner's word ("go ahead with the reruns"; the owner delegated on 2026-11-24 the promotion of demonstrated claims independently recomputed). The filer's script was not kept, so the check was rebuilt from this entry alone as `scratch/formal/inquiry_coupling_bounds_check.py`, with a negative control, and run with python3 -I. Every computation reproduces. X, Y and Z at H = 4 finish at 4, 6 and 6 with the same separate frontiers; X and Y share F_Q and F_A at every horizon and budget tried and differ in 𝒥, so 𝒥 is not a function of the two. Over 4,000 random organizations of up to three routes per question, at every H and B in 0 to 10 (484,000 cases), the joint set lies inside F_Q ∩ F_A and contains every question one of whose routes fits run one after the other. Construction 4's least costs sum to 5 against a joint cost of 9, so the bound read off the frontiers is wrong at B = 5 and 8; the control, an answering cost that does not depend on the route of posing, makes it exact, and a second control, an inadmissible negative lead, shows the outer-bound test can fire. Shared preliminary work gives 4, not 6. What holds it back: [ADR-057](../decisions.d/ADR-057.md)'s first criterion. Two of its premises are Proposed, [CLAIM-1114](CLAIM-1114.md) (the route construction, which this rerun did not recheck) and [CLAIM-1157](CLAIM-1157.md) (rerun today and reproduced, but itself held by [CLAIM-1114](CLAIM-1114.md)); [CLAIM-1084](CLAIM-1084.md) is Active. It goes Active when they do, or when a pass changes the edge. The note is the assistant's (Claude, in this session). No status change.

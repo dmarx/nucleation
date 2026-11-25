@@ -1,10 +1,18 @@
 ---
 number: 401
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpd80em
-title: 'Two of the built meaning–influence institutions, an evaluator and an evaluated party, coupled through the evidence and resources the party supplies and the standing the evaluator''s reading confers: with each institution stable alone, the symmetric state of the pair is unstable exactly when (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, and the loop between them captures the evaluator''s reading even when its own conferral is independent of its interpretation'
-version: 1
+title: 'Evaluator and evaluated party, coupled'
+statement: >-
+  Two of the built meaning–influence institutions, an evaluator and an
+  evaluated party, coupled through the evidence and resources the party
+  supplies and the standing the evaluator's reading confers: with each
+  institution stable alone, the symmetric state of the pair is unstable
+  exactly when (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, and the loop between them
+  captures the evaluator's reading even when its own conferral is
+  independent of its interpretation
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -12,6 +20,17 @@ history:
     Filed 2026-11-22 by the assistant, carrying out LEAD-015. The code,
     tests and result files are committed beside it under
     scratch/studies/lead-015/.
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("promote the
+    ten", under the dialectic regime; ADR-057, status-review README
+    section 2): a CASE goes Active when it is demonstrated, and its run
+    has been checked by a session other than its filer's. Rerun on
+    2026-11-24 from a copy of scratch/studies/lead-015/ (with
+    ../lead-090/): the 14 tests pass, and run.py regenerates every file
+    in results/ identically except the seconds timings in e4.json (the
+    note of that date).
 standing: documented
 kind: executed-study
 tags:
@@ -45,9 +64,8 @@ summary: >-
   construction; the numbers are of this model. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-1000 CLAIM-1202 CLAIM-1021 — new; the claims this study grounds, filed in the same batch -->
 
-# CASE-401: Two of the built meaning–influence institutions, an evaluator and an evaluated party, coupled through the evidence and resources the party supplies and the standing the evaluator's reading confers: with each institution stable alone, the symmetric state of the pair is unstable exactly when (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, and the loop between them captures the evaluator's reading even when its own conferral is independent of its interpretation
+# CASE-401: Evaluator and evaluated party, coupled
 
 ## What was done
 
@@ -114,3 +132,7 @@ That the interpretation–authority loop can close between two institutions, eac
 - Anything about corrective channels beyond the count above; no condition for the oscillatory instability was derived.
 - That the two institutions should share one meaning axis. If the party's interest fixes its corpus bias, the pair has no symmetric state, and what survives is the amplification 1/(1 − L_E L_P).
 - That the numbers bear on any regulator or newsroom. The model is the assistant's reading of [CASE-092](CASE-092.md) and [CLAIM-404](../claims.d/CLAIM-404.md), and its parameters are illustrative.
+
+## Note of 2026-11-24: rerun, for the promotion review the owner proposed at U33 of the exchange 'Memes, Contracts, and Systemic Normativity'
+
+Rerun on 2026-11-24 by the assistant, from a copy of `scratch/studies/lead-015/` (with `../lead-090/`) as on this branch, one thread: the 14 tests pass, and `run.py` regenerates every file in `results/` identically except the `seconds` timings in `e4.json`. A53 of the exchange names this case as a promotion candidate, a study "executed" and awaiting review. The run is now checked by a session other than the one that filed it, which the status-review README (section 2) asks of a demonstrated case; the ruling is the status review's ([LEAD-tmp0j28l](../leads.d/LEAD-tmp0j28l.md)). The note is the assistant's (Claude, in this session). No status change.

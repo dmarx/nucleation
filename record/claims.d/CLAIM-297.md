@@ -7,7 +7,7 @@ title: When an operator's authority is updated by how well it performs on the in
   it helped make dominant, the coupled meaning and influence of an organization
   can amplify an initial interpretive advantage without any gain in fidelity to
   independent evidence
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-26'
@@ -62,6 +62,12 @@ history:
     on the interpretation it helped make dominant amplifies without
     fidelity, so the 'something else' may be the dominant
     interpretation itself". No other change.
+- version: 8
+  date: '2026-11-25'
+  note: >-
+    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    A45 in the exchange "Hyper article interpretation" states its
+    proposition without citing it, in §5. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -99,6 +105,8 @@ summary: >-
 bears_on:
 - QUESTION-100
 - QUESTION-126
+works:
+- conditions-of-correction
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-276 CLAIM-278 CLAIM-281 CLAIM-285 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->

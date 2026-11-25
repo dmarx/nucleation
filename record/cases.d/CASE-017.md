@@ -3,7 +3,9 @@ number: 17
 status: Active
 formerly:
 - CASE-tmpiueso
-title: 'E1: synthetic three-state stochastic computations (C2–C3)'
+title: 'E1: synthetic three-state computations'
+statement: >-
+  E1: synthetic three-state stochastic computations (C2–C3)
 version: 1
 standing: stipulated
 kind: executed-study
@@ -24,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CASE-017: E1: synthetic three-state stochastic computations (C2–C3)
+# CASE-017: E1: synthetic three-state computations
 
 ## The case
 

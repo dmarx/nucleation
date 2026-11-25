@@ -3,7 +3,13 @@ number: 86
 status: Proposed
 formerly:
 - TERM-tmpzgft9
-title: 'organizational achievement, of a specified target: its attainment or maintenance, under declared conditions, where an identifiable arrangement of relations among components makes an explanatory difference that a comparison with admissible alternatives can show, as an episode, a maintained capacity or the reproduction of what sustains that capacity'
+title: 'organizational achievement'
+statement: >-
+  organizational achievement, of a specified target: its attainment or
+  maintenance, under declared conditions, where an identifiable arrangement
+  of relations among components makes an explanatory difference that a
+  comparison with admissible alternatives can show, as an episode, a
+  maintained capacity or the reproduction of what sustains that capacity
 version: 3
 history:
 - version: 2
@@ -40,7 +46,7 @@ draws_on:
 - THEORY-1280
 ---
 
-# TERM-086: organizational achievement, of a specified target: its attainment or maintenance, under declared conditions, where an identifiable arrangement of relations among components makes an explanatory difference that a comparison with admissible alternatives can show, as an episode, a maintained capacity or the reproduction of what sustains that capacity
+# TERM-086: organizational achievement
 
 ## Definition
 

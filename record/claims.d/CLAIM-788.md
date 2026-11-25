@@ -146,3 +146,17 @@ point, not as new discoveries". What the exchange adds for this claim:
   low however much it could carry.
 
 No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
+
+A32 §5 reads First Contact as "a concrete analogue of implicit contract
+formation": the interface does not acquire the user's task but learns a
+channel through which the user can steer, while the user adapts to it,
+so "The contract is potentially realized in the learned coupling itself.
+Neither participant needs to contain a complete specification of the
+interface." It distinguishes contracts that convey a specification from
+contracts that "realize a specification through complementary
+adaptation", and bounds the analogy: "First Contact does not establish
+contractual normativity or breach-response mechanisms." An analogy,
+supporting nothing about this claim; recorded as a candidate substrate for
+the implicit contracts introduced at U16. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

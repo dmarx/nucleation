@@ -3,7 +3,14 @@ number: 410
 status: Proposed
 formerly:
 - CASE-tmpktyr7
-title: 'The Juggernaut line''s route to the reshoot, from production testimony and a circulation-network model: the actor says the director saw the redub online and called a one-line pickup, and the one observation the case gives favours circulation over a list that names the distributors by at most about five to one, and by under two if the case is known for the video''s fame'
+title: 'The Juggernaut line''s route to the reshoot'
+statement: >-
+  The Juggernaut line's route to the reshoot, from production testimony and
+  a circulation-network model: the actor says the director saw the redub
+  online and called a one-line pickup, and the one observation the case
+  gives favours circulation over a list that names the distributors by at
+  most about five to one, and by under two if the case is known for the
+  video's fame
 version: 1
 history:
 - version: 1
@@ -52,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-332 — Proposed; the thesis whose defeater this tests -->
 <!-- inactive-ok-file: CLAIM-1006 CLAIM-1026 CLAIM-1022 CLAIM-1052 NOTE-2396 NOTE-2412 NOTE-2411 — new; filed by the lead run of 2026-11-23 -->
 
-# CASE-410: The Juggernaut line's route to the reshoot, from production testimony and a circulation-network model: the actor says the director saw the redub online and called a one-line pickup, and the one observation the case gives favours circulation over a list that names the distributors by at most about five to one, and by under two if the case is known for the video's fame
+# CASE-410: The Juggernaut line's route to the reshoot
 
 ## What was done
 
@@ -167,3 +174,7 @@ two readings, filed as alternatives: [CLAIM-1022](../claims.d/CLAIM-1022.md) (th
 through circulation; the lean) and [CLAIM-1052](../claims.d/CLAIM-1052.md) (the route is a list
 entry). The findings are [CLAIM-1006](../claims.d/CLAIM-1006.md) (the testimony) and
 [CLAIM-1026](../claims.d/CLAIM-1026.md) (the model).
+
+## Note of 2026-11-25: the model rerun, and what holds it back
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). From a copy of `scratch/studies/lead-188/`: the 8 tests pass, and `model.py` and `sensitivity.py`, run with python3 -I, regenerate `results.json` and `sensitivity.jsonl` byte for byte. Every figure of the model was compared and matches: at the top 1 %, 10.8, 3.8 and 2.8 with no ascertainment, 2.0, 1.1 and 1.8 partial, 1.6, 1.0 and 1.6 full; across the 36 settings MC over M0 10.3 to 31.6 and MC over MH 2.26 to 4.72 with none, 1.465 to 1.635 and 1.333 to 1.602 with full ascertainment (the body's 10 to 32, 2.3 to 4.7, 1.47 to 1.64 and 1.33 to 1.60). The testimony half was not rechecked: its sources are outside pages, two of which the filer could not reach, and fetching them is an outside service that waits for the owner. What holds it back: that half, which a rerun of the model does not touch; the case's title states the testimony as well as the model. The note is the assistant's (Claude, in this session). No status change.

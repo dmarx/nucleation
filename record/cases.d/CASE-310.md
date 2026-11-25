@@ -3,7 +3,14 @@ number: 310
 status: Proposed
 formerly:
 - CASE-tmpj29sq
-title: 'A manipulated will: one outside input carries an agent''s precedence of an egoistic regime over a considerate one across the threshold of its own maintaining cycle, landing on exactly the state its own revision would have reached, the input''s channel is then removed, and from then on the agent''s own processes keep, endorse and stand ready to revise the new precedence'
+title: 'A manipulated will'
+statement: >-
+  A manipulated will: one outside input carries an agent's precedence of an
+  egoistic regime over a considerate one across the threshold of its own
+  maintaining cycle, landing on exactly the state its own revision would
+  have reached, the input's channel is then removed, and from then on the
+  agent's own processes keep, endorse and stand ready to revise the new
+  precedence
 version: 1
 standing: stipulated
 kind: thought-experiment
@@ -40,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-309 CLAIM-868 CLAIM-866 CLAIM-867 — new; filed with this case for LEAD-038 -->
 <!-- inactive-ok-file: THEORY-328 THEORY-047 CLAIM-545 — Proposed; Pereboom's cases as filed, self-determination theory's internalization, the manipulation argument, and the domination clause, each cited for what the variants use -->
 
-# CASE-310: A manipulated will: one outside input carries an agent's precedence of an egoistic regime over a considerate one across the threshold of its own maintaining cycle, landing on exactly the state its own revision would have reached, the input's channel is then removed, and from then on the agent's own processes keep, endorse and stand ready to revise the new precedence
+# CASE-310: A manipulated will
 
 ## The agent
 

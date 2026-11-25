@@ -7,7 +7,9 @@ complements:
 - TERM-073
 - TERM-074
 - TERM-082
-title: 'perspective, and which sense: organizational, represented or phenomenal'
+title: 'perspective'
+statement: >-
+  perspective, and which sense: organizational, represented or phenomenal
 version: 7
 history:
 - version: 2
@@ -89,7 +91,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-137 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 
-# TERM-072: perspective, and which sense: organizational, represented or phenomenal
+# TERM-072: perspective
 
 ## Definition
 

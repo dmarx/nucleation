@@ -1,10 +1,19 @@
 ---
 number: 412
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpo8bsc
-title: 'A matched-performance model of regulation run under six budget regimes: every regime produces the same output until a contingency arrives, while readiness at a deadline of six periods ranges from 0.147 to 0.894; a redesigned route is lost under the peak rule unless a reserve is also held, a drill each period holds the budget as a reserve does, readiness is a step function of the reserve, the reserve is most ready at every deadline but cheapest only at some, and it pays above a break-even that moves with the deadline and with how often the capability is used'
-version: 1
+title: 'Regulation model under six budget regimes'
+statement: >-
+  A matched-performance model of regulation run under six budget regimes:
+  every regime produces the same output until a contingency arrives, while
+  readiness at a deadline of six periods ranges from 0.147 to 0.894; a
+  redesigned route is lost under the peak rule unless a reserve is also
+  held, a drill each period holds the budget as a reserve does, readiness is
+  a step function of the reserve, the reserve is most ready at every
+  deadline but cheapest only at some, and it pays above a break-even that
+  moves with the deadline and with how often the capability is used
+version: 3
 history:
 - version: 1
   date: '2026-11-23'
@@ -14,6 +23,28 @@ history:
     sweep, tests and outputs are under
     scratch/manuscripts/governance-of-possibility/analysis/, the single
     copy, run at commit 28a3708c1 and reproduced.
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("promote the
+    ten", under the dialectic regime; ADR-057, status-review README
+    section 2): a CASE goes Active when it is demonstrated, and its run
+    has been checked by a session other than its filer's. The study was
+    run and reproduced at filing; the fact-check of the manuscript
+    governance-of-possibility, by a reader who did not write it
+    (2026-11-23), reran study.py in a copy (results.json reproduced in
+    every field but runtime_s, results.md identical) and its 24 tests
+    (all pass); this pass reran it again on 2026-11-24 from a copy, with
+    the same result. The wording is unchanged but for the summary's
+    sentence on its standing, which said it "stays Proposed until a
+    status review rules that it is demonstrated".
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Gains the line governing-possibility (atlas scope 14) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 standing: documented
 kind: executed-study
 tags:
@@ -34,6 +65,7 @@ line:
 - readiness
 - formal-apparatus
 - realizability
+- governing-possibility
 summary: >-
   The executed study behind §9 of the manuscript governance-of-possibility,
   carrying out the design of [LEAD-226](../leads.d/LEAD-226.md) on [CASE-315](CASE-315.md)'s simulator idea.
@@ -45,14 +77,13 @@ summary: >-
   is matched by construction, [CLAIM-577](../claims.d/CLAIM-577.md)'s and [CLAIM-1099](../claims.d/CLAIM-1099.md)'s conditions
   hold exactly, and readiness, cost ranking, the reserve's break-even and
   the step function come out as stated here, on choices the body names.
-  It was run and reproduced; it stays Proposed until a status review rules
-  that it is demonstrated. The wording is the assistant's (Claude, in this
+  It was run and reproduced; a status review ruled it demonstrated on 2026-11-24. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-1099 CLAIM-878 CLAIM-1180 CLAIM-1093 CLAIM-922 CLAIM-584 CLAIM-654 CLAIM-646 CLAIM-1137 CASE-315 CASE-200 CASE-343 CASE-345 CASE-397 — Proposed or new; the claims this study illustrates or bears on, the simulator it extends, its novel-demand variant and the account that maps it -->
+<!-- inactive-ok-file: CLAIM-922 CLAIM-584 CLAIM-654 CLAIM-646 CLAIM-1137 CASE-200 CASE-345 — Proposed or new; the claims this study illustrates or bears on, the simulator it extends, its novel-demand variant and the account that maps it -->
 
-# CASE-412: A matched-performance model of regulation run under six budget regimes: every regime produces the same output until a contingency arrives, while readiness at a deadline of six periods ranges from 0.147 to 0.894; a redesigned route is lost under the peak rule unless a reserve is also held, a drill each period holds the budget as a reserve does, readiness is a step function of the reserve, the reserve is most ready at every deadline but cheapest only at some, and it pays above a break-even that moves with the deadline and with how often the capability is used
+# CASE-412: Regulation model under six budget regimes
 
 ## The study
 
@@ -321,3 +352,33 @@ break-even, not charged up front as the lead's design has it.
 
 <!-- inactive-ok-block: CLAIM-1054 — Proposed, filed from A50 of the exchange "Explain First Contact RL" on 2026-11-23 -->
 A50 §7 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) restates this study's matched performance as equivalence under a routine query family Q₀ ([TERM-069](../terms.d/TERM-069.md)), broken by a new query q⋆, reorganization after a supplier failure within a deadline. It adds a query side: a regulator that samples only Q₀ rewards the system that optimized away the capacities q⋆ needs, and its success confirms the regulator's tests, a "query-induced capability trap" ([CLAIM-1054](../claims.d/CLAIM-1054.md)). This study holds the query family fixed, so it shows the divergence and not the trap; [LEAD-218](../leads.d/LEAD-218.md) would add the questioner. The case is unchanged.
+
+## Note of 2026-11-25: half of [CLAIM-700](../claims.d/CLAIM-700.md)'s study, run, from the review of the manuscript governance-of-becoming, Part III
+<!-- inactive-ok-file: CLAIM-700 — Proposed; the hidden-subsidy claim whose study this case runs in part, cited with its standing -->
+
+The review of Part III (2026-11-25, Part A, §1.2) found that this study
+runs, in part, the study [CLAIM-700](../claims.d/CLAIM-700.md) proposes, and that neither entry cites
+the other. [CLAIM-700](../claims.d/CLAIM-700.md) (Proposed) holds the hidden-subsidy loop: members'
+conscientious compensation covers a shortfall, the organization "budgets
+to what it observes", resources are cut toward what the present
+configuration needs, and the reconfigurations that would remove the
+shortfall "pass out of reach while the present arrangement stays
+feasible". Its study, from A33 §10A: "Construct two institutions with
+identical obligations and equivalent present performance", one with
+reconfiguration slack and one with exactly enough for the present
+configuration, and introduce a failure that needs a transition.
+
+This case is that design without the compensator: output matched by
+construction under six budget regimes until a contingency arrives,
+readiness at a deadline of six periods from 0.147 to 0.894, and a
+redesigned route lost under the peak rule unless a reserve is held. With
+[CASE-343](CASE-343.md) and [CLAIM-921](../claims.d/CLAIM-921.md) (a budget that follows observed use loses a
+rarely used capability), [CLAIM-1099](../claims.d/CLAIM-1099.md) and [CLAIM-1180](../claims.d/CLAIM-1180.md) (the peak rule and the
+reserve), and [CLAIM-679](../claims.d/CLAIM-679.md), which is in [CLAIM-700](../claims.d/CLAIM-700.md)'s own `rests_on`, it runs
+the budget-to-observed-use half of the loop and the matched-performance
+contrast. What it does not run is the coupling: compensation masking the
+shortfall, so that the budget rule reads it as adequacy. So [CLAIM-700](../claims.d/CLAIM-700.md)'s
+study is done in part. [LEAD-022](../leads.d/LEAD-022.md) (Open) also advances [CLAIM-700](../claims.d/CLAIM-700.md), by the
+study of a fall in complaints with working conditions fixed. The
+case is unchanged; no change of status. The wording is the assistant's
+(Claude, in this session); adopting it is the owner's call.

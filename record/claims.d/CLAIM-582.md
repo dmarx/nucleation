@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpr4sof
 title: 'Under a fixed dynamical model an added hard constraint cannot enlarge the set of admissible trajectories, so it cannot enlarge what some admissible path reaches or lower the least cost of reaching it; what it can improve is a property required of every path a disturbance or a given process may take, such as robustness or reliability, and a constraint that does more has changed the mechanism'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-06'
@@ -39,6 +39,13 @@ history:
     manuscript from the exchange "Explain First Contact RL": A48 §2 states
     its proposition, and §9.3 uses it for the redesigned route. No other
     change.
+- version: 6
+  date: '2026-11-25'
+  note: >-
+    Gains the line governing-possibility (atlas scope 14) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -60,6 +67,7 @@ date: '2026-11-05'
 line:
 - realizability
 - formal-apparatus
+- governing-possibility
 works:
 - governance-of-possibility
 - cost-structure-of-possibility
@@ -201,3 +209,23 @@ often changes the dynamics. [CLAIM-1121](CLAIM-1121.md) rests on this claim and 
 the consequence for the compatibility complex of public demands. A pure
 hard constraint on fixed dynamics can only shrink the complex, so relief
 of the original demands needs a change of model. No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A11 and A13
+
+<!-- inactive-ok-file: LIT-tmpa3t7o — Deferred; registered from the exchange of 2026-11-24, unread -->
+
+The exchange's integrating principle comes in two wordings. A11 §18: "A
+constraint does not merely prevent something from occurring. By
+restricting possible activity, it can enable organization that would
+otherwise be unrealizable." A13 §II: "A constraint eliminates certain
+trajectories while making other trajectories more reliably realizable."
+Under this claim A13's wording holds as stated, since reliability is what
+an added constraint can improve. A11's "would otherwise be unrealizable" holds only
+where the constraint has changed the mechanism, and the exchange's own
+examples are of that kind: a heuristic frees resources a bounded agent
+spends elsewhere (A11 §9, "A heuristic makes some cognitive trajectories
+more realizable by making others less available"), and natural frequencies
+change the representation in which an inference is computed ("The
+representational conditions under which the inference becomes realizable
+have changed", A11 §9; [LIT-tmpa3t7o](../literature.d/LIT-tmpa3t7o.md)). Bearing: this claim qualifies the
+principle; no entry is filed for the principle. The claim is unchanged.

@@ -3,7 +3,15 @@ number: 261
 status: Proposed
 formerly:
 - CASE-tmpbjaiq
-title: 'A hospital network, stipulated, adopts an AI coordination system that improves diagnosis, cuts administrative cost and treats more patients, while patients cannot contest automated decisions, clinicians lose discretion, support workers are watched and contractors have no influence; the test is whether a justified objection to a hard-to-measure safety problem becomes effective in the organization, and whether it would if it came from patients or low-status workers'
+title: 'The stipulated AI hospital network'
+statement: >-
+  A hospital network, stipulated, adopts an AI coordination system that
+  improves diagnosis, cuts administrative cost and treats more patients,
+  while patients cannot contest automated decisions, clinicians lose
+  discretion, support workers are watched and contractors have no influence;
+  the test is whether a justified objection to a hard-to-measure safety
+  problem becomes effective in the organization, and whether it would if it
+  came from patients or low-status workers
 version: 4
 history:
 - version: 2
@@ -56,7 +64,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-122 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
-# CASE-261: A hospital network, stipulated, adopts an AI coordination system that improves diagnosis, cuts administrative cost and treats more patients, while patients cannot contest automated decisions, clinicians lose discretion, support workers are watched and contractors have no influence; the test is whether a justified objection to a hard-to-measure safety problem becomes effective in the organization, and whether it would if it came from patients or low-status workers
+# CASE-261: The stipulated AI hospital network
 
 ## The case
 

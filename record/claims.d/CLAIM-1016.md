@@ -39,7 +39,7 @@ summary: >-
   formulating and answering ([CLAIM-1115](CLAIM-1115.md)). The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-1140 CLAIM-1115 CLAIM-1190 CASE-388 CLAIM-1119 CASE-386 — Proposed; the premises, the composition this joins and A58's joint relation -->
+<!-- inactive-ok-file: CLAIM-1140 CASE-388 CLAIM-1119 CASE-386 — Proposed; the premises, the composition this joins and A58's joint relation -->
 
 # CLAIM-1016: Authorization granted question by question puts its cost between formulating a question and investigating it, on the same budget, while a standing grant pays it once for a domain before any question in it is formulated, so the remedies for the circle between evidence and permission work by changing the unit of authorization, and authorization's cost belongs in the joint inquiry relation as a third cost on the shared budget
 
@@ -87,3 +87,22 @@ consequential action. The claim is about where the circle opens.
 ## Standing
 
 Proposed, the assistant's.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A18 §3
+
+A18 §3 calls its "Contract-dependent inquiry frontier" widget "a simple
+contractual realization of" this claim (cited by its code on main):
+"standing authorization changes the unit of authorization from an
+individual question to a domain of inquiry." With formulation 3 hours,
+per-question authorization 4 and investigation 5 against a deadline of
+10, individual authorization takes 12 and misses, a standing grant takes
+8 and meets it (checked). It generalizes the claim's point to any term of
+the processes' contracts: writing the joint relation of [TERM-160](../terms.d/TERM-160.md) as
+indexed by the contractual ecology C, "changing the contractual ecology
+can change the inquiry frontier without changing the intrinsic
+capabilities of any constituent process." A18 states the widget's own
+limit: "Its initial establishment and continuing maintenance have costs
+not included in this per-inquiry calculation." Bearing: a restatement and
+a generalization from authorization to contract terms. The claim is
+unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+

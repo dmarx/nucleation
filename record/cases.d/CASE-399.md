@@ -3,7 +3,12 @@ number: 399
 status: Proposed
 formerly:
 - CASE-tmpcz1jq
-title: 'A model trained while one chief executive held office answers with that name after a successor has left and the first is reappointed: a true belief, reliably produced from its source, whose truth does not depend on what now makes it true'
+title: 'The reappointed chief executive'
+statement: >-
+  A model trained while one chief executive held office answers with that
+  name after a successor has left and the first is reappointed: a true
+  belief, reliably produced from its source, whose truth does not depend on
+  what now makes it true
 version: 1
 standing: fictional
 kind: thought-experiment
@@ -30,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-079 THEORY-1737 — Proposed; cited as the criterion applied and as a reading the case draws on, not relied on -->
 <!-- inactive-ok-file: CASE-416 CLAIM-1028 CLAIM-1086 CLAIM-1142 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CASE-399: A model trained while one chief executive held office answers with that name after a successor has left and the first is reappointed: a true belief, reliably produced from its source, whose truth does not depend on what now makes it true
+# CASE-399: The reappointed chief executive
 
 ## The case
 

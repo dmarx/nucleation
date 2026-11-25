@@ -3,7 +3,10 @@ number: 53
 status: Active
 formerly:
 - CASE-tmp0st1e
-title: 'Contextuality tests on human meaning and judgement data: a held null, and positive results that miss pragmatic content or power'
+title: 'Contextuality tests on human judgement data'
+statement: >-
+  Contextuality tests on human meaning and judgement data: a held null, and
+  positive results that miss pragmatic content or power
 version: 2
 history:
 - version: 2
@@ -39,7 +42,7 @@ reported_in:
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing this case is filed for, open, and cited as open -->
 <!-- inactive-ok-file: CLAIM-105 CLAIM-037 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
-# CASE-053: Contextuality tests on human meaning and judgement data: a held null, and positive results that miss pragmatic content or power
+# CASE-053: Contextuality tests on human judgement data
 
 Found on 2026-10-10 by a search the owner asked for: documented tests of
 contextuality proper on elicited pragmatic or meaning judgements, for

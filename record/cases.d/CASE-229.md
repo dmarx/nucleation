@@ -3,7 +3,15 @@ number: 229
 status: Proposed
 formerly:
 - CASE-tmppdl5x
-title: 'Two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy: Institution A keeps its challenge procedure, Institution B has disabled it and an outside intervention supplies the remedy, and B''s governance reinstates the defective procedure whenever outside oversight ends; with the first-order harm held fixed, the breach of the procedural duty and the reproductive organization sustaining it remain'
+title: 'Institutions A and B under a review duty'
+statement: >-
+  Two institutions under a stipulated duty to maintain independent review
+  cause the same harm and reach the same remedy: Institution A keeps its
+  challenge procedure, Institution B has disabled it and an outside
+  intervention supplies the remedy, and B's governance reinstates the
+  defective procedure whenever outside oversight ends; with the first-order
+  harm held fixed, the breach of the procedural duty and the reproductive
+  organization sustaining it remain
 version: 3
 history:
 - version: 2
@@ -50,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-614 — filed from the same exchange, Proposed; the owner's thesis whose defeater the case meets -->
 <!-- inactive-ok-file: CLAIM-511 CLAIM-545 — Proposed; the unconditional duty the record disclaims, and the relational wrong's home, cited with their standing -->
 
-# CASE-229: Two institutions under a stipulated duty to maintain independent review cause the same harm and reach the same remedy: Institution A keeps its challenge procedure, Institution B has disabled it and an outside intervention supplies the remedy, and B's governance reinstates the defective procedure whenever outside oversight ends; with the first-order harm held fixed, the breach of the procedural duty and the reproductive organization sustaining it remain
+# CASE-229: Institutions A and B under a review duty
 
 ## The case
 

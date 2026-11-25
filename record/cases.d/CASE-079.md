@@ -3,7 +3,11 @@ number: 79
 status: Active
 formerly:
 - CASE-tmpd83bj
-title: 'r/place: a shared pixel canvas on which each Reddit user could place one pixel at a time under a cooldown, and communities built, defended and overwrote images, coordinating through the canvas itself as well as off it'
+title: 'r/place'
+statement: >-
+  r/place: a shared pixel canvas on which each Reddit user could place one
+  pixel at a time under a cooldown, and communities built, defended and
+  overwrote images, coordinating through the canvas itself as well as off it
 version: 4
 history:
 - version: 2
@@ -57,7 +61,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-224 — Proposed; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CASE-079: r/place: a shared pixel canvas on which each Reddit user could place one pixel at a time under a cooldown, and communities built, defended and overwrote images, coordinating through the canvas itself as well as off it
+# CASE-079: r/place
 
 ## The case
 

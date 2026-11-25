@@ -3,7 +3,10 @@ number: 72
 status: Active
 formerly:
 - CASE-tmpxnd3y
-title: 'Hafez''s "Shirazi Turk" in English: one ungendered beloved rendered as a maid, as God and as a boy'
+title: 'Hafez''s "Shirazi Turk" in English'
+statement: >-
+  Hafez's "Shirazi Turk" in English: one ungendered beloved rendered as a
+  maid, as God and as a boy
 version: 1
 standing: documented
 kind: specimen
@@ -25,7 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing this case is filed for, open, and cited as open -->
 
-# CASE-072: Hafez's "Shirazi Turk" in English: one ungendered beloved rendered as a maid, as God and as a boy
+# CASE-072: Hafez's "Shirazi Turk" in English
 
 Found on 2026-10-10 by a search the owner asked for: documented cases of a
 change of cover, for [CLAIM-201](../claims.d/CLAIM-201.md), whose own illustrations are invented

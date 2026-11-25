@@ -3,7 +3,12 @@ number: 105
 status: Active
 formerly:
 - CASE-tmpzotci
-title: 'The Washington Senators: the original club became the Minnesota Twins in 1961, an expansion club took its name in Washington and became the Texas Rangers in 1972, and the Montreal Expos became the Washington Nationals in 2005, so franchise, city and supporters each have a different successor'
+title: 'The Washington Senators and their successors'
+statement: >-
+  The Washington Senators: the original club became the Minnesota Twins in
+  1961, an expansion club took its name in Washington and became the Texas
+  Rangers in 1972, and the Montreal Expos became the Washington Nationals in
+  2005, so franchise, city and supporters each have a different successor
 version: 2
 history:
 - version: 2
@@ -28,7 +33,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-1140 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
-# CASE-105: The Washington Senators: the original club became the Minnesota Twins in 1961, an expansion club took its name in Washington and became the Texas Rangers in 1972, and the Montreal Expos became the Washington Nationals in 2005, so franchise, city and supporters each have a different successor
+# CASE-105: The Washington Senators and their successors
 
 ## The case
 

@@ -3,7 +3,11 @@ number: 145
 status: Proposed
 formerly:
 - TERM-tmpeguzj
-title: "Matthew effect: Merton's sense, recognition for a given contribution allotted by the contributor's standing, kept apart from the formal sense, growth in proportion to current size"
+title: 'Matthew effect'
+statement: >-
+  Matthew effect: Merton's sense, recognition for a given contribution
+  allotted by the contributor's standing, kept apart from the formal sense,
+  growth in proportion to current size
 version: 1
 tags:
 - social-science
@@ -28,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-144 CLAIM-817 — Proposed; the term this one parallels, the claim that uses the name and the readings its senses come from -->
 
-# TERM-145: Matthew effect: Merton's sense, recognition for a given contribution allotted by the contributor's standing, kept apart from the formal sense, growth in proportion to current size
+# TERM-145: Matthew effect
 
 ## Definition
 

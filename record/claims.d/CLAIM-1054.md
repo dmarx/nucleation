@@ -21,6 +21,8 @@ tags:
 date: '2026-11-23'
 line:
 - readiness
+works:
+- governance-of-becoming
 complements:
 - CLAIM-1003
 uses:
@@ -37,7 +39,7 @@ summary: >-
   exchange "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: TERM-164 CASE-412 — Proposed; the claim this complements, the lock-in it extends and the experiment it restates -->
+<!-- inactive-ok-file: TERM-164 — Proposed; the claim this complements, the lock-in it extends and the experiment it restates -->
 
 # CLAIM-1054: Repeated questioning from a routine family can set a query-induced capability trap: of two ecosystems equivalent under the routine queries, the one that optimized away capacities only an unasked query needs is rewarded, its success confirms the questioner's belief that the routine family suffices, and the two strategies co-adapt to exclude the distinction that would reveal the lost capacity
 
@@ -75,3 +77,17 @@ utilization-driven loss; the claim's own content is the narrowing.
 ## Standing
 
 Proposed, in A's voice.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A18 §11
+
+A18 §11 cites this claim, by its code on main, and says "The record
+correctly notes that the full co-adaptation mechanism remains to be
+demonstrated", which is what the claim's summary says of A50. It offers
+"candidate variables for doing so: renewal criteria, performance
+incentives, the cost of introducing new questions, authority over test
+selection, and resource allocations to alternative inquiry pathways", and
+describes the loop as questioners and answerers adapting to each other
+(Q_t to R_t to Q_{t+1}), with the caution that "apparent validation
+through restricted questioning remains distinct from genuine realization."
+Bearing: variables for the model the claim lacks, not the model;
+[LEAD-tmpbqj9u](../leads.d/LEAD-tmpbqj9u.md) is where it would be built. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

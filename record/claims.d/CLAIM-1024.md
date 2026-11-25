@@ -49,8 +49,6 @@ works:
 - governance-of-possibility
 ---
 
-<!-- inactive-ok-file: CLAIM-1185 CLAIM-1202 — Proposed or Open; cited in this filing of 2026-11-23 -->
-
 # CLAIM-1024: A system's ability to correct itself depends not simply on having critics or feedback but on how evidence, evaluation and authority are coupled, and on what the system is prevented from rewriting or rejecting
 
 ## The claim
@@ -115,3 +113,23 @@ generalization is the owner's interpretive step.
 ## Note of 2026-11-23: three of the four components now Active
 
 Standing out of date; the assistant's (Claude, in this session). The summary's "All four are Proposed" and the body's "in four different models, all Proposed" no longer hold. At the status review of 2026-11-23 three of the four components went Active at version 2: [CLAIM-1183](CLAIM-1183.md), [CLAIM-1029](CLAIM-1029.md) and [CLAIM-1194](CLAIM-1194.md). [CLAIM-1202](CLAIM-1202.md) is Proposed. The claim's text is the owner's and is left as written; whether to revise it is the owner's call. Found in drafting the manuscript governance-of-possibility, whose §13.8 counts three of the four as demonstrated in models. No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A53
+
+A53 proposes a joint ruling on this claim and its objection [CLAIM-1185](CLAIM-1185.md), and gives the principle it would yield: "Corrective governance depends upon protected relationships among evidence, evaluation and authority. Those protections can preserve the independence necessary for correction, while also limiting correction to the adequacy of the protected standards and evidence. The revision of those standards is a distinct governance problem." The claim is the owner's, so writing [CLAIM-1185](CLAIM-1185.md)'s concession is the owner's ([CLAIM-1185](CLAIM-1185.md)'s note of 2026-11-23); A53's wording is a candidate. Its other open premise, [CLAIM-1202](CLAIM-1202.md), rests on [CLAIM-1000](CLAIM-1000.md) and [CASE-401](../cases.d/CASE-401.md), which reproduces on a rerun of 2026-11-24 (its note). The note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting either is the owner's call. No status change.
+
+## Note of 2026-11-24: [CLAIM-1185](CLAIM-1185.md) and [CLAIM-1202](CLAIM-1202.md) Active
+
+<!-- inactive-ok-block: CLAIM-tmpjdml5 — Proposed; filed at the status pass of 2026-11-24 -->
+At the status pass of 2026-11-24, at the owner's word ("handle the fixes for the twelve ... use your best judgement"), [CLAIM-1202](CLAIM-1202.md), the last of the four components, went Active with [CLAIM-1000](CLAIM-1000.md) and [CASE-401](../cases.d/CASE-401.md), and the objection [CLAIM-1185](CLAIM-1185.md) went Active after its title was narrowed to its model. Its concession on this claim is now due ([ADR-059](../decisions.d/ADR-059.md)) and is the owner's to write, since the claim is the owner's; A53's wording in the note above is a candidate. The general form of the objection, beyond that model, is the Proposed [CLAIM-tmpjdml5](CLAIM-tmpjdml5.md). The note is the assistant's (Claude, in this session). No status change.
+
+## Note of 2026-11-25: from the review of the manuscript governance-of-becoming, Part II
+
+
+A manuscript's join (Article 6, J6.3) read [CASE-346](../cases.d/CASE-346.md) as separating two of
+this claim's conditions. An independent reader found that it misstated the
+case, and that [CASE-346](../cases.d/CASE-346.md)'s results, independent evaluation ending protection
+in every run, point to the conditions narrowing, not separating. The
+detail is in [LEAD-220](../leads.d/LEAD-220.md)'s note of this date. No change to this claim; the
+concession [CLAIM-1185](CLAIM-1185.md) asks of it is still the owner's to write. The wording
+is the assistant's (Claude, in this session).

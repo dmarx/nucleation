@@ -3,7 +3,15 @@ number: 265
 status: Proposed
 formerly:
 - CASE-tmp3ioyf
-title: 'A mutual-maintenance construction: an intact share c repaired through a capacity r that c itself produces, both turning over on a standing supply s, is bistable at s = 1 with a saddle at (0.0955, 0.2764), so its survival threshold is a separatrix in the joint state and not a level of c; a constant outside controller holding r at its maintained value gives the same equilibrium but recovers from c = 0.01, where the mutual system collapses; a founding pulse can be withdrawn and the supply cannot'
+title: 'Mutual-maintenance construction'
+statement: >-
+  A mutual-maintenance construction: an intact share c repaired through a
+  capacity r that c itself produces, both turning over on a standing supply
+  s, is bistable at s = 1 with a saddle at (0.0955, 0.2764), so its survival
+  threshold is a separatrix in the joint state and not a level of c; a
+  constant outside controller holding r at its maintained value gives the
+  same equilibrium but recovers from c = 0.01, where the mutual system
+  collapses; a founding pulse can be withdrawn and the supply cannot
 version: 1
 standing: fictional
 kind: construction
@@ -37,7 +45,7 @@ summary: >-
   owner's call.
 ---
 
-# CASE-265: A mutual-maintenance construction: an intact share c repaired through a capacity r that c itself produces, both turning over on a standing supply s, is bistable at s = 1 with a saddle at (0.0955, 0.2764), so its survival threshold is a separatrix in the joint state and not a level of c; a constant outside controller holding r at its maintained value gives the same equilibrium but recovers from c = 0.01, where the mutual system collapses; a founding pulse can be withdrawn and the supply cannot
+# CASE-265: Mutual-maintenance construction
 
 ## The model
 
@@ -100,3 +108,7 @@ The positive equilibria come from r = 4c/(1 + 4c) and 16c² − 12c + 1 = 0.
 Whether r is a constitutive constraint in [TERM-088](../terms.d/TERM-088.md)'s sense. A: "Mutual
 positive feedback alone is not sufficient to establish every philosophical
 or biological meaning of autonomy." The parameters are illustrative.
+
+## Note of 2026-11-25: rerun by a session other than the filer's
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). `scratch/formal/soliton_testbed_checks.py`, run unchanged with python3 -I, prints "soliton testbed checks: all passed": it asserts every number above (the equilibria (3 ∓ √5)/8 with r = 4c/(1 + 4c), the eigenvalues 0.443 and −1.930 at the saddle and −1.436 and −4.076 at the maintained state, the collapse from (0.12, 0) and the recovery from (0.12, 0.3), the constant controller's recovery from c = 0.01 against the mutual system's collapse, the pathway knockout, the founding pulse on [0, 5) and the end at s = 0). The Jacobian's eigenvalues were also recomputed separately with numpy, and match. Nothing failed to reproduce. No status change: this is a construction, A's, and adopting it is the owner's call, which a rerun does not make. The note is the assistant's (Claude, in this session).

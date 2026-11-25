@@ -3,7 +3,10 @@ number: 378
 status: Proposed
 formerly:
 - CASE-tmpjgjtj
-title: 'Blind irreducible recovery from a group-composition network trained on S3 and S4'
+title: 'Blind irreducible recovery on S3 and S4'
+statement: >-
+  Blind irreducible recovery from a group-composition network trained on S3
+  and S4
 version: 1
 standing: documented
 kind: executed-study
@@ -20,7 +23,7 @@ line:
 - learned-structure
 ---
 
-# CASE-378: Blind irreducible recovery from a group-composition network trained on S3 and S4
+# CASE-378: Blind irreducible recovery on S3 and S4
 
 ## The case
 

@@ -3,7 +3,16 @@ number: 178
 status: Active
 formerly:
 - CASE-tmp0zvle
-title: 'How the record''s grammar grows: after its scaffold, this record filed documents on all 32 days, added vocabulary terms on 18, fields or relations to schemes on 8, whole vocabularies on 3, schemes on 1 and a remote project on 1, so the owner''s ordering of levels holds by frequency; but each refinement came in the same pull request as the documents that needed it and, nine times in ten, an ADR, so the levels are rarer events of one loop of work, not slower processes of their own, and the grammar''s rates fell while filing rose'
+title: 'How the record''s grammar grows'
+statement: >-
+  How the record's grammar grows: after its scaffold, this record filed
+  documents on all 32 days, added vocabulary terms on 18, fields or
+  relations to schemes on 8, whole vocabularies on 3, schemes on 1 and a
+  remote project on 1, so the owner's ordering of levels holds by frequency;
+  but each refinement came in the same pull request as the documents that
+  needed it and, nine times in ten, an ADR, so the levels are rarer events
+  of one loop of work, not slower processes of their own, and the grammar's
+  rates fell while filing rose
 version: 5
 history:
 - version: 2
@@ -58,7 +67,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claims the measurement bears on -->
 <!-- inactive-ok-file: THEORY-1742 THEORY-1768 THEORY-1775 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CASE-178: How the record's grammar grows: after its scaffold, this record filed documents on all 32 days, added vocabulary terms on 18, fields or relations to schemes on 8, whole vocabularies on 3, schemes on 1 and a remote project on 1, so the owner's ordering of levels holds by frequency; but each refinement came in the same pull request as the documents that needed it and, nine times in ten, an ADR, so the levels are rarer events of one loop of work, not slower processes of their own, and the grammar's rates fell while filing rose
+# CASE-178: How the record's grammar grows
 
 ## The case
 

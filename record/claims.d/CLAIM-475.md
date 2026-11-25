@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpi1bjh
 title: 'Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder'
-version: 9
+version: 13
 history:
 - version: 2
   date: '2026-10-29'
@@ -68,6 +68,31 @@ history:
   note: >-
     Wording only, at the owner's request (review of dmarx/nucleation#528,
     2026-11-19): "dear" replaced by "costly" in one sentence. No other change.
+- version: 10
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 5 abstract (ADR-tmpenzcn). No change
+    of title or status.
+- version: 11
+  date: '2026-11-25'
+  note: >-
+    Gains the line learning-and-inquiry (atlas scope 01) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
+- version: 12
+  date: '2026-11-25'
+  note: >-
+    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    A45 in the exchange "Hyper article interpretation" states its
+    proposition or uses it as a step, in §2. No other change.
+- version: 13
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 01, section V.
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -87,8 +112,12 @@ tags:
 date: '2026-10-27'
 line:
 - record-as-apparatus
+- learning-and-inquiry
 works:
+- atlas
+- conditions-of-correction
 - cost-structure-of-possibility
+- governance-of-becoming
 rests_on:
 - CLAIM-470
 complements:
@@ -360,5 +389,25 @@ scientist acquires theory, methods and standards together.
 
 ## Note of 2026-11-23: "Explain First Contact RL", U27 to A54
 
-<!-- inactive-ok-block: CLAIM-1157 CLAIM-1008 CLAIM-1060 ARG-238 — new or Proposed; the entries filed from these turns and the claim that narrows one of them -->
+<!-- inactive-ok-block: CLAIM-1060 ARG-238 — new or Proposed; the entries filed from these turns and the claim that narrows one of them -->
 The owner asked at U27 whether asking and answering, both resource-bounded, compete for related resources ([QUESTION-520](../questions.d/QUESTION-520.md)). A52 §1 cites this claim as establishing that "Formulating a question takes time, concepts, memory, and computation", which it does. A52's three-way split of boundedness, coupling and competition is [CLAIM-1157](CLAIM-1157.md); its model of how deep an inquiry should go before execution under a shared deadline is [CLAIM-1008](CLAIM-1008.md); and its thesis that slow organizational modes arise partly to amortize inquiry costs, built on this claim's "stabilized specification is past inquiry stored", is [CLAIM-1060](CLAIM-1060.md), by the inference [ARG-238](../arguments.d/ARG-238.md), which [CLAIM-755](CLAIM-755.md) narrows to the economic sense of slow. No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A16 §9 and A18 §8
+
+A18 §8 calls this claim "the strongest connection to your existing theory"
+(the owner's line on inquiry as specification) and applies it to contracts
+between processes: repeated conflicts are first settled by inquiry ("What
+does each process need? Are the requirements compatible?"), then "a
+maintained protocol can embody the results of these investigations".
+"**A contract can be a materialized answer to a historically recurring
+question about how processes should interact.**" And the cost, as in
+[SYNTHESIS-114](../syntheses.d/SYNTHESIS-114.md): "Once stabilized, the contract makes familiar coordination
+cheaper. But it can make unfamiliar questions more expensive", since a
+challenger must "overcome its established jurisdiction, translate its
+objections into the accepted language, obtain permission to investigate,
+and mobilize resources for revision." A16 §9 makes the same move for
+heuristics ([CLAIM-tmpysg95](CLAIM-tmpysg95.md)). Bearing: an instance, a contract as a stored
+specification, with [CLAIM-761](CLAIM-761.md)'s stored work and [CLAIM-358](CLAIM-358.md)'s amortized
+accommodation. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+<!-- inactive-ok-file: SYNTHESIS-114 CLAIM-358 CLAIM-tmpysg95 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->

@@ -3,7 +3,11 @@ number: 237
 status: Proposed
 formerly:
 - CASE-tmpmjn9t
-title: 'Two complementary capacities whose success probabilities each rise from 0.8 to 0.85 while the probability that both hold falls from 0.8 to 0.7, because they went from failing together to failing apart'
+title: 'Complementary capacities that decorrelate'
+statement: >-
+  Two complementary capacities whose success probabilities each rise from
+  0.8 to 0.85 while the probability that both hold falls from 0.8 to 0.7,
+  because they went from failing together to failing apart
 version: 1
 standing: fictional
 kind: construction
@@ -32,7 +36,7 @@ summary: >-
   not filed. The wording is A's; adopting it is the owner's call.
 ---
 
-# CASE-237: Two complementary capacities whose success probabilities each rise from 0.8 to 0.85 while the probability that both hold falls from 0.8 to 0.7, because they went from failing together to failing apart
+# CASE-237: Complementary capacities that decorrelate
 
 ## The case
 

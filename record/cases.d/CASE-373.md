@@ -3,7 +3,12 @@ number: 373
 status: Proposed
 formerly:
 - CASE-tmpxkvpz
-title: 'An executed study: two compatibility-equivalent three-bit mechanisms probed at rising move budgets in numpy, with the distinguish-or-not verdict recorded at each budget, a reset-versus-acted-on control, and a constructed family whose distinguishing budget is any chosen length'
+title: 'Compatibility-equivalent mechanisms by budget'
+statement: >-
+  An executed study: two compatibility-equivalent three-bit mechanisms
+  probed at rising move budgets in numpy, with the distinguish-or-not
+  verdict recorded at each budget, a reset-versus-acted-on control, and a
+  constructed family whose distinguishing budget is any chosen length
 version: 1
 standing: documented
 kind: executed-study
@@ -24,7 +29,7 @@ line:
 ---
 <!-- inactive-ok-file: CASE-202 CLAIM-968 — CASE-202 is the Proposed design this executes; CLAIM-968 is the finding filed beside it in this batch, grounded in this study -->
 
-# CASE-373: An executed study: two compatibility-equivalent three-bit mechanisms probed at rising move budgets in numpy, with the distinguish-or-not verdict recorded at each budget, a reset-versus-acted-on control, and a constructed family whose distinguishing budget is any chosen length
+# CASE-373: Compatibility-equivalent mechanisms by budget
 
 ## The case
 

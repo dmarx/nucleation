@@ -3,8 +3,11 @@ number: 71
 status: Active
 formerly:
 - TERM-tmpzdpdt
-title: 'persistence, of an organization, and which sense: state, dynamical, historical, viable and reinstatable'
-version: 4
+title: 'persistence'
+statement: >-
+  persistence, of an organization, and which sense: state, dynamical,
+  historical, viable and reinstatable
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -27,12 +30,21 @@ history:
     continuation") and THEORY-465 ("being reproduced as against
     reproducing"). First application of draws_on (ADR-095).
     No other change.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Gains the line organization-of-perspective (atlas scope 09) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 tags:
 - individuation
 - complex-systems
 - social-ontology
 date: '2026-10-21'
-line: distributed-agency
+line:
+- distributed-agency
+- organization-of-perspective
 summary: >-
   [CLAIM-329](../claims.d/CLAIM-329.md) recorded three persistences from A9 of 2026-10-16. They return
   in the exchange of 2026-10-20 as A10's five "continuities" (§10), A12's
@@ -57,7 +69,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-327 — Proposed; the claims each sense is taken from, open -->
 <!-- inactive-ok-file: THEORY-418 THEORY-465 — Proposed; readings on reconstitution and on being reproduced, cited as open -->
 
-# TERM-071: persistence, of an organization, and which sense: state, dynamical, historical, viable and reinstatable
+# TERM-071: persistence
 
 ## Definition
 

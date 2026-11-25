@@ -3,7 +3,10 @@ number: 50
 status: Active
 formerly:
 - CASE-tmpk52n6
-title: 'The all-hands: a corporate event as a synchronization mechanism for the firm'
+title: 'The all-hands as a synchronization mechanism'
+statement: >-
+  The all-hands: a corporate event as a synchronization mechanism for the
+  firm
 version: 2
 history:
 - version: 2
@@ -42,7 +45,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-165 CLAIM-160 CLAIM-162 — Proposed; the claims this case illustrates or is set beside, open -->
 <!-- inactive-ok-file: THEORY-126 THEORY-043 — Proposed; the readings the case draws on, with their standing as it is -->
 
-# CASE-050: The all-hands: a corporate event as a synchronization mechanism for the firm
+# CASE-050: The all-hands as a synchronization mechanism
 
 ## The case
 

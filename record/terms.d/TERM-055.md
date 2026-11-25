@@ -3,9 +3,11 @@ number: 55
 status: Active
 formerly:
 - TERM-tmp5f7cu
-title: 'operational availability, of a resource for an action: the chance that an
-  agent–environment system, given the cue it actually has, deploys the resource
-  for the task before the deadline'
+title: 'operational availability'
+statement: >-
+  operational availability, of a resource for an action: the chance that an
+  agent–environment system, given the cue it actually has, deploys the
+  resource for the task before the deadline
 version: 2
 history:
 - version: 2
@@ -31,7 +33,7 @@ complements:
 <!-- inactive-ok-file: LIT-1609 — Deferred; its introduction read on 2026-10-29 and cited in the note of that date for that part, nothing here rests on it -->
 <!-- inactive-ok-file: TERM-113 TERM-112 CASE-203 — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->
 
-# TERM-055: operational availability, of a resource for an action: the chance that an agent–environment system, given the cue it actually has, deploys the resource for the task before the deadline
+# TERM-055: operational availability
 
 ## Definition
 

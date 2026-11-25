@@ -3,7 +3,12 @@ number: 391
 status: Proposed
 formerly:
 - CASE-tmp3axlj
-title: 'Still, Sivak, Bell and Crooks''s thermodynamics of prediction reproduced on small driven Markov systems, then with feedback from system to drive, and in a percept–action loop where the predictive and interventional partitions differ'
+title: 'Thermodynamics of prediction reproduced'
+statement: >-
+  Still, Sivak, Bell and Crooks's thermodynamics of prediction reproduced on
+  small driven Markov systems, then with feedback from system to drive, and
+  in a percept–action loop where the predictive and interventional
+  partitions differ
 version: 1
 standing: documented
 kind: executed-study
@@ -44,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1123 CLAIM-1189 CLAIM-1124 CLAIM-1116 — filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-1071 — Proposed; cited for what the run bears on -->
 
-# CASE-391: Still, Sivak, Bell and Crooks's thermodynamics of prediction reproduced on small driven Markov systems, then with feedback from system to drive, and in a percept–action loop where the predictive and interventional partitions differ
+# CASE-391: Thermodynamics of prediction reproduced
 
 ## What was done
 

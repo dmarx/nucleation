@@ -3,9 +3,11 @@ number: 87
 status: Active
 formerly:
 - CASE-tmph4ds5
-title: 'The discredited instrument and the second population: two pairs of readings
-  with the same mean that the mean cannot tell apart once one instrument is discredited
-  or a mixture is considered'
+title: 'Discredited instrument, same mean'
+statement: >-
+  The discredited instrument and the second population: two pairs of
+  readings with the same mean that the mean cannot tell apart once one
+  instrument is discredited or a mixture is considered
 version: 1
 standing: stipulated
 kind: construction
@@ -20,7 +22,7 @@ summary: >-
   to see"). It grounds the relativity half of [CLAIM-300](../claims.d/CLAIM-300.md).
 ---
 
-# CASE-087: The discredited instrument and the second population: two pairs of readings with the same mean that the mean cannot tell apart once one instrument is discredited or a mixture is considered
+# CASE-087: Discredited instrument, same mean
 
 ## The case
 

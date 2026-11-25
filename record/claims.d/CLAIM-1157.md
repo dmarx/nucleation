@@ -1,10 +1,10 @@
 ---
 number: 1157
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpq4crr
 title: 'That asking and answering are each resource-bounded does not make them compete: a common budget, a common bottleneck or a sequential dependence supplies the coupling, and a shared deadline is not a shared pool of worker-hours, since independent processes can spend the same elapsed time at once'
-version: 1
+version: 2
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -36,8 +36,21 @@ summary: >-
   for the same scarce capacity" as "Not established; false in general".
   The wording is A's (ChatGPT, at A52 of the exchange "Explain First
   Contact RL"); adopting it is the owner's call.
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Promoted to Active under the owner's delegation of 2026-11-24
+    ("handle the fixes for the twelve ... use your best judgement"),
+    as the status pass of 2026-11-24 and the reruns of 2026-11-25
+    applied it to independently recomputed demonstrated claims. It was
+    rerun by a session other than the filer's on 2026-11-25 (scratch/formal/inquiry_depth_check.py;
+    the curation entry of 2026-11-25 02:20) and reproduced; it was then
+    held back only by CLAIM-1114, which the recomputation pass of
+    2026-11-25 promoted. ADR-057: it rests on CLAIM-475 and CLAIM-1114, both Active (CLAIM-1114 promoted in the recomputation pass, dmarx/nucleation#813); it uses TERM-085, Active; no objection targets it; and
+    nothing meets its defeated_if.
 ---
-<!-- inactive-ok-file: CLAIM-1114 CLAIM-1008 CLAIM-1025 CASE-316 — Proposed; the construction this rests on and the entries filed with it -->
+<!-- inactive-ok-file: CASE-316 — Proposed; the construction this rests on and the entries filed with it -->
 
 # CLAIM-1157: That asking and answering are each resource-bounded does not make them compete: a common budget, a common bottleneck or a sequential dependence supplies the coupling, and a shared deadline is not a shared pool of worker-hours, since independent processes can spend the same elapsed time at once
 
@@ -89,3 +102,7 @@ durations, not the sum.
 A52 §3's depth of inquiry under a shared deadline is [CLAIM-1008](CLAIM-1008.md), and
 the set of questions both posable and answerable under a joint schedule is
 [CLAIM-1025](CLAIM-1025.md). Competition among stages sharing reviewers is [CASE-316](../cases.d/CASE-316.md)'s.
+
+## Note of 2026-11-25: rerun, and what holds it back
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, at the owner's word ("go ahead with the reruns"; the owner delegated on 2026-11-24 the promotion of demonstrated claims independently recomputed). The filer's script was not kept, so the check was rebuilt from this entry alone as `scratch/formal/inquiry_coupling_bounds_check.py`, with a negative control, and run with python3 -I. Every computation reproduces. With separate pools and no dependence the feasible spends form a product: as asking spends 0 to 5, answering's feasible set does not change. A shared budget, a sequential dependence through a deadline and a shared server each shrink it with every unit asking spends, and a control that plants a hidden transfer between the separate pools is detected as coupling. Two five-minute activities in the same interval take five minutes, not ten. What holds it back: [ADR-057](../decisions.d/ADR-057.md)'s first criterion. Its premise [CLAIM-1114](CLAIM-1114.md) is Proposed ([CLAIM-475](CLAIM-475.md) is Active), and this rerun did not recheck [CLAIM-1114](CLAIM-1114.md), whose stated check (2,037 of 20,000 random routes) gives no seed. It goes Active when [CLAIM-1114](CLAIM-1114.md) does, or when a pass changes the edge. The note is the assistant's (Claude, in this session). No status change.

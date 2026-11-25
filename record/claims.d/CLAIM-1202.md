@@ -1,10 +1,10 @@
 ---
 number: 1202
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpz8q70
 title: 'In the two-institution meaning–influence model, the loop between an evaluator and the party it evaluates can capture the evaluator''s reading when each institution is stable alone, when neither has a loop inside it, and when the evaluator''s conferral reads no interpretation at all; informational independence does not prevent it while a resource channel runs, and what does is a return channel too weak to close the loop, the evaluator''s reading not moving the party''s standing or evidence'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-22'
@@ -18,6 +18,18 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §13.6. No other change.
+- version: 3
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("handle the
+    fixes for the twelve ... use your best judgement", under the
+    dialectic regime; ADR-057). Its stated fix was only that CLAIM-1000
+    go first: its premise CLAIM-1000 and its ground CASE-401 are
+    promoted in this pass (CASE-401 rerun 2026-11-24 by a session other
+    than the filer's: 14 tests pass, every results file identical but
+    timings), no objection targets it, and nothing meets its
+    defeated_if, which asks only for a rerun of CASE-401's code that
+    contradicts the four cases. No change of title.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -64,7 +76,6 @@ summary: >-
 works:
 - governance-of-possibility
 ---
-<!-- inactive-ok-file: CASE-401 CLAIM-1000 CLAIM-1021 — new; the study and the condition this claim rests on, and its alternative, filed in the same batch -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited as the claim CLAIM-404 is a premise of -->
 
 # CLAIM-1202: In the two-institution meaning–influence model, the loop between an evaluator and the party it evaluates can capture the evaluator's reading when each institution is stable alone, when neither has a loop inside it, and when the evaluator's conferral reads no interpretation at all; informational independence does not prevent it while a resource channel runs, and what does is a return channel too weak to close the loop, the evaluator's reading not moving the party's standing or evidence

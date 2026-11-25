@@ -7,8 +7,14 @@ complements:
 - TERM-065
 - TERM-064
 - TERM-095
-title: 'inquiry frontier, of an agent at a budget: the questions it can formulate, making them determinate enough to pursue, with the concepts, records, tools, time and computation it actually has; distinct from the questions its language can express, from those it can pursue to a stated standard, and from those that have answers'
-version: 4
+title: 'inquiry frontier (formulable questions)'
+statement: >-
+  inquiry frontier, of an agent at a budget: the questions it can formulate,
+  making them determinate enough to pursue, with the concepts, records,
+  tools, time and computation it actually has; distinct from the questions
+  its language can express, from those it can pursue to a stated standard,
+  and from those that have answers
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -40,12 +46,20 @@ history:
   note: >-
     Line nucleating-argument replaced by record-as-apparatus, at the split of that
     line (ADR-082). No other change.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Gains the line learning-and-inquiry (atlas scope 01) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 tags:
 - epistemology
 - cognition
 date: '2026-10-27'
 line:
 - record-as-apparatus
+- learning-and-inquiry
 summary: >-
   The object of [CLAIM-475](../claims.d/CLAIM-475.md), from A17 §§2 and 7 of the exchange of
   2026-10-27. A question is on an agent's frontier if some procedure
@@ -59,7 +73,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-253 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1812 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# TERM-092: inquiry frontier, of an agent at a budget: the questions it can formulate, making them determinate enough to pursue, with the concepts, records, tools, time and computation it actually has; distinct from the questions its language can express, from those it can pursue to a stated standard, and from those that have answers
+# TERM-092: inquiry frontier (formulable questions)
 
 ## Definition
 
@@ -142,7 +156,7 @@ A50 §2 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) cites t
 
 ## Note of 2026-11-23: the answer frontier, from "Explain First Contact RL"
 
-<!-- inactive-ok-block: CLAIM-1009 TERM-159 CLAIM-1190 — Proposed; filed from the exchange -->
+<!-- inactive-ok-block: CLAIM-1009 TERM-159 — Proposed; filed from the exchange -->
 The owner, at U30 of the exchange "Explain First Contact RL" (2026-11-23):
 this term "is actually just the query frontier component of the boundary
 about the inquiry, which includes an answer frontier" ([CLAIM-1009](../claims.d/CLAIM-1009.md)). A58
@@ -158,13 +172,13 @@ What the term lacks is which answers, at what standard, are attainable for a
 question within that budget, and the pairs. Two alternatives are filed for
 the owner, both Proposed:
 
-<!-- inactive-ok-block: TERM-159 TERM-160 — Proposed; the two alternatives -->
+<!-- inactive-ok-block: TERM-159 — Proposed; the two alternatives -->
 - (a) [TERM-159](TERM-159.md): this term revised to the joint object, the name going
   with it (A58's wording, with the assistant's note on what it drops);
 - (b) [TERM-160](TERM-160.md): this term kept, a joint inquiry frontier beside it whose
   question side is the investigable set (the assistant's wording).
 
-<!-- inactive-ok-block: CLAIM-754 CLAIM-1115 CLAIM-996 CLAIM-1016 — Proposed; a claim using this term's earlier sense, and claims filed from the exchange -->
+<!-- inactive-ok-block: CLAIM-754 CLAIM-996 CLAIM-1016 — Proposed; a claim using this term's earlier sense, and claims filed from the exchange -->
 Under (a) the five claims stated in this term would each say which set they
 use; under (b) none changes. [CLAIM-754](../claims.d/CLAIM-754.md) uses the term's version-1 sense,
 "formulate and pursue", which version 2 split (its note of 2026-11-23). Why
@@ -172,3 +186,13 @@ the joint object is not the two frontiers listed side by side is
 [CLAIM-1115](../claims.d/CLAIM-1115.md) (the assistant's derivation, checked). Authorization as a
 further cost on the same budget is [CLAIM-996](../claims.d/CLAIM-996.md) and [CLAIM-1016](../claims.d/CLAIM-1016.md). The
 definition is unchanged; the choice is the owner's.
+
+## Note of 2026-11-25: the joint term beside it
+
+<!-- inactive-ok-block: CLAIM-1009 TERM-159 — the owner's thesis and the deferred alternative -->
+At the owner's ruling of 2026-11-25, "keep TERM-092 and add the joint term
+beside it for now", this term is kept as it stands and [TERM-160](TERM-160.md), the joint
+inquiry frontier, is Active beside it. [TERM-159](TERM-159.md), which would have revised
+this term to the joint object, is Deferred. The owner's U30 ([CLAIM-1009](../claims.d/CLAIM-1009.md))
+wanted "inquiry frontier" for the joint object; for now the name stays here,
+with the askable set.

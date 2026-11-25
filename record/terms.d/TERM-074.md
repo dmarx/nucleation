@@ -3,8 +3,11 @@ number: 74
 status: Active
 formerly:
 - TERM-tmpmy9oq
-title: 'organization, and which sense: relational arrangement, organizational maintenance, collective institution or organizational closure'
-version: 2
+title: 'organization'
+statement: >-
+  organization, and which sense: relational arrangement, organizational
+  maintenance, collective institution or organizational closure
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -21,12 +24,21 @@ history:
     its uses (TERM-072, TERM-086, CLAIM-454, CLAIM-456) each say which
     sense they mean. CLAIM-278 is Superseded, so the test is stated
     without it. The definition is unchanged.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Gains the line organizational-normativity (atlas scope 11) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 tags:
 - individuation
 - social-ontology
 - agency
 date: '2026-10-22'
-line: distributed-agency
+line:
+- distributed-agency
+- organizational-normativity
 complements:
 - TERM-071
 - TERM-072
@@ -43,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-063 — Proposed; the rival criterion of agency, cited as open -->
 
-# TERM-074: organization, and which sense: relational arrangement, organizational maintenance, collective institution or organizational closure
+# TERM-074: organization
 
 ## Definition
 

@@ -3,7 +3,12 @@ number: 143
 status: Active
 formerly:
 - CASE-tmp0b3lc
-title: 'Franklin''s borrowed book: Benjamin Franklin, opposed by a new member of the Pennsylvania Assembly when he stood again as its clerk, asked to borrow a rare book from him rather than courting him, returned it with thanks, and found the man civil and later a friend'
+title: 'Franklin''s borrowed book'
+statement: >-
+  Franklin's borrowed book: Benjamin Franklin, opposed by a new member of
+  the Pennsylvania Assembly when he stood again as its clerk, asked to
+  borrow a rare book from him rather than courting him, returned it with
+  thanks, and found the man civil and later a friend
 version: 2
 history:
 - version: 2
@@ -33,7 +38,7 @@ reported_in:
 - LIT-1402
 ---
 
-# CASE-143: Franklin's borrowed book: Benjamin Franklin, opposed by a new member of the Pennsylvania Assembly when he stood again as its clerk, asked to borrow a rare book from him rather than courting him, returned it with thanks, and found the man civil and later a friend
+# CASE-143: Franklin's borrowed book
 
 ## The case
 

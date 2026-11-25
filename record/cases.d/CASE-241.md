@@ -3,7 +3,12 @@ number: 241
 status: Proposed
 formerly:
 - CASE-tmpfobkh
-title: "A forager whose expected profile is set by its own upkeep against one whose profile is a designer's stored yield: they flag the same silent patch, and come apart when the yield falls but still pays and when the upkeep rises past an unchanged yield"
+title: 'Upkeep-set forager against stored-yield forager'
+statement: >-
+  A forager whose expected profile is set by its own upkeep against one
+  whose profile is a designer's stored yield: they flag the same silent
+  patch, and come apart when the yield falls but still pays and when the
+  upkeep rises past an unchanged yield
 version: 1
 standing: fictional
 kind: construction
@@ -39,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-240 CLAIM-649 — filed in this pull request, Proposed -->
 <!-- inactive-ok-file: THEORY-220 THEORY-628 THEORY-1646 — Proposed; readings cited with their standing -->
 
-# CASE-241: A forager whose expected profile is set by its own upkeep against one whose profile is a designer's stored yield: they flag the same silent patch, and come apart when the yield falls but still pays and when the upkeep rises past an unchanged yield
+# CASE-241: Upkeep-set forager against stored-yield forager
 
 ## The construction
 

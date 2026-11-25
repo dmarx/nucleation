@@ -3,7 +3,15 @@ number: 271
 status: Proposed
 formerly:
 - CASE-tmp6214r
-title: 'Reconstruction channels in a phase-coded associative memory: readdressing, readout suppression and deletion of a stored association all read zero at its original query, and further queries tell them apart; suppressing the readout at one of 64 canonical queries drops the measurement rank to 63, and one half-step query restores it; but two internal pathways that cancel at the output are indistinguishable from none under every query until one is silenced'
+title: 'Reconstruction channels in associative memory'
+statement: >-
+  Reconstruction channels in a phase-coded associative memory: readdressing,
+  readout suppression and deletion of a stored association all read zero at
+  its original query, and further queries tell them apart; suppressing the
+  readout at one of 64 canonical queries drops the measurement rank to 63,
+  and one half-step query restores it; but two internal pathways that cancel
+  at the output are indistinguishable from none under every query until one
+  is silenced
 version: 1
 standing: stipulated
 kind: construction
@@ -40,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-182 THEORY-1876 THEORY-1871 THEORY-1877 — Proposed; the claim the construction illustrates -->
 
-# CASE-271: Reconstruction channels in a phase-coded associative memory: readdressing, readout suppression and deletion of a stored association all read zero at its original query, and further queries tell them apart; suppressing the readout at one of 64 canonical queries drops the measurement rank to 63, and one half-step query restores it; but two internal pathways that cancel at the output are indistinguishable from none under every query until one is silenced
+# CASE-271: Reconstruction channels in associative memory
 
 ## The construction
 

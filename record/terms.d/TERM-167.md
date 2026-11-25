@@ -3,11 +3,14 @@ number: 167
 status: Proposed
 formerly:
 - TERM-tmpz28l1
-title: 'viability kernel of reorganization readiness, of an organization for
-  a declared family of contingencies, budget and deadline: the states from
+title: 'reorganization viability kernel'
+statement: >-
+  viability kernel of reorganization readiness, of an organization for a
+  declared family of contingencies, budget and deadline: the states from
   which it can keep operating within its core requirements while preserving,
-  at every moment, an affordable route that stays within transition safeguards
-  to some viable alternative organization after any declared contingency'
+  at every moment, an affordable route that stays within transition
+  safeguards to some viable alternative organization after any declared
+  contingency
 version: 1
 tags:
 - society-and-governance
@@ -28,7 +31,7 @@ summary: A36 of the exchange "Explain First Contact RL" (ChatGPT, second share
 
 <!-- inactive-ok-file: CLAIM-916 — Proposed; cited in this filing of 2026-11-22 (second share) -->
 
-# TERM-167: viability kernel of reorganization readiness, of an organization for a declared family of contingencies, budget and deadline: the states from which it can keep operating within its core requirements while preserving, at every moment, an affordable route that stays within transition safeguards to some viable alternative organization after any declared contingency
+# TERM-167: reorganization viability kernel
 
 ## Definition (A36)
 
@@ -110,7 +113,6 @@ retuning, which the manuscript leaves unstated.
 
 ## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
 
-<!-- inactive-ok-file: CLAIM-878 — Proposed; the drill a note names -->
 Qualification, the assistant's. A gap of the manuscript governance-of-possibility, §8.5 (GA2). The second-order kernel of the note "a second-order version" above can be read with two sets of evolutions. Its M_D is taken under "actual policies", while Viab_{F_aug} asks whether some evolution stays in M_adaptive ([THEORY-134](../theory.d/THEORY-134.md)). Write V_π for the kernel of the closed loop under the policy the regime follows, and V_adm for the kernel when F_aug admits every evolution an admissible revision of policy produces. A viability kernel can only grow when more evolutions are admitted, so V_π ⊆ V_adm ⊆ M_adaptive.
 
 The manuscript's separating case holds for V_π only. Under the peak budget rule, (A, budget 3) leaves M_adaptive after one period of holding ([CLAIM-577](../claims.d/CLAIM-577.md)), so it is outside V_π. If F_aug admits a drill each period at the transition's threshold, the budget stays at 3 ([CLAIM-878](../claims.d/CLAIM-878.md): "A drill each period holds the budget"); if it admits a revision of the budget rule to a floor at 3, the budget stays at 3 as well. Either way (A, 3) is in V_adm, provided the drill leaves D met while it runs. If revising the budget rule is admissible from (A, budget 1) and takes effect within H, that state is in T_{D→D′} on the same reading, and the manuscript's state separating M_D from M_adaptive fails too; a drill at 3 is not affordable from it ([CLAIM-577](../claims.d/CLAIM-577.md)).

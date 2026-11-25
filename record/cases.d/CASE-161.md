@@ -3,7 +3,15 @@ number: 161
 status: Active
 formerly:
 - CASE-tmpfmdj6
-title: 'Reciprocally produced, externally reset and feedback-only governing rules in a 32-member population: with ordinary trajectories identical, reciprocal production repairs the loss of one rule and not of both and fails after producer outages of 36 updates for audit and 40 for admission, after an audit-rule pulse the next audit integrity is 1.00, 0.18 and 0.00 in the three arrangements, and a self-dependent production graph does not regenerate a zeroed rule'
+title: 'Reciprocal, reset and feedback-only rules'
+statement: >-
+  Reciprocally produced, externally reset and feedback-only governing rules
+  in a 32-member population: with ordinary trajectories identical,
+  reciprocal production repairs the loss of one rule and not of both and
+  fails after producer outages of 36 updates for audit and 40 for admission,
+  after an audit-rule pulse the next audit integrity is 1.00, 0.18 and 0.00
+  in the three arrangements, and a self-dependent production graph does not
+  regenerate a zeroed rule
 version: 3
 history:
 - version: 1
@@ -61,7 +69,7 @@ bears_on:
 - QUESTION-361
 ---
 
-# CASE-161: Reciprocally produced, externally reset and feedback-only governing rules in a 32-member population: with ordinary trajectories identical, reciprocal production repairs the loss of one rule and not of both and fails after producer outages of 36 updates for audit and 40 for admission, after an audit-rule pulse the next audit integrity is 1.00, 0.18 and 0.00 in the three arrangements, and a self-dependent production graph does not regenerate a zeroed rule
+# CASE-161: Reciprocal, reset and feedback-only rules
 
 ## The case
 

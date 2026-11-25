@@ -1,0 +1,93 @@
+---
+status: Proposed
+title: 'Kleene''s realizer as van Oosten states it, by analogy, shows that the record''s realization kept with its witness is a realizer, but not that a realization is carried with the evidence that it passes, nor that realizability sits on the proof-relevant side of specification rather than between the two'
+version: 1
+form: analogy
+grounds:
+- 'THEORY-tmpqj2d4'
+concludes:
+- CLAIM-949
+uses:
+- TERM-152
+- TERM-154
+- TERM-153
+tags:
+- logic
+- epistemology
+date: '2026-11-22'
+line:
+- formal-apparatus
+- record-as-apparatus
+summary: >-
+  Filed from the reading of van Oosten ([LIT-tmpegqz0](../literature.d/LIT-tmpegqz0.md)) as the stand-in for
+  Kleene 1945 ([LIT-tmp9cdlq](../literature.d/LIT-tmp9cdlq.md)), for [LEAD-215](../leads.d/LEAD-215.md). [CLAIM-949](../claims.d/CLAIM-949.md) cites
+  Kleene's realizer as "the record's realization, with the witness kept".
+  The analogy holds for that: an existential's realizer is the pair of a
+  witness and a realizer of its instance. It carries less than the claim's
+  title around it, "a realization an inhabitant carried with the evidence
+  that it passes": a Kleene realizer is information, not proof, and at a
+  decidable test it is 0. That half of the claim has no ground in Kleene;
+  it is held only in [CLAIM-949](../claims.d/CLAIM-949.md), from the assistant's knowledge, and
+  waits on the Martin-Löf reading of the same lead. The claim's status is
+  the owner's. The wording is the assistant's (Claude, in this session);
+  adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-949 CLAIM-783 TERM-152 TERM-154 TERM-153 LIT-tmp9cdlq THEORY-tmpqj2d4 — Proposed, Open or Unavailable; the claim this weighs, the terms it is stated in, the lead, and the unread work -->
+
+# ARG-tmp68y3c: Kleene's realizer as van Oosten states it, by analogy, shows that the record's realization kept with its witness is a realizer, but not that a realization is carried with the evidence that it passes, nor that realizability sits on the proof-relevant side of specification rather than between the two
+
+## The inference
+
+[CLAIM-949](../claims.d/CLAIM-949.md) reads the record's account of specification ([TERM-152](../terms.d/TERM-152.md))
+type-theoretically, and among its correspondences says: "Kleene's
+realizability calls the program that witnesses a proposition its realizer:
+the record's realization, with the witness kept." The premise is
+[THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md): in Kleene 1945, "n realizes an existential statement ∃xφ(x)
+if and only if n = ⟨m, k⟩ and k realizes φ(m̄)", "n realizes F, where F is
+an atomic sentence, if and only if n = 0 and F is true", and realizability
+"is designed to handle “information” about formulas rather than proofs"
+(van Oosten, pp. 4–5).
+
+Take a specification as the existential "some version passes every test",
+its tests decidable predicates of a version. Kleene's realizer of it is
+⟨x, k⟩ with x a version that passes (a witness, [TERM-154](../terms.d/TERM-154.md)) and k a
+realizer of the conjunction of atomic tests at x: a tuple of 0s. So the
+realizer is the realization with its witness kept, as the claim says, and
+with nothing else.
+
+## Critical questions
+
+- **In what respect are they alike, and is it the one the conclusion
+  needs?** Both pick out, for a statement of what is required, the set of
+  things that meet it, and in both an existential is met by exhibiting an
+  instance. That is the respect the sentence on Kleene needs, and it
+  transfers.
+- **What relevant difference is there?** Two. First, a realizer attaches
+  to a sentence and carries information about how it holds; the record's
+  realization attaches to a set of tests and is the object tested. Second,
+  the evidence half does not transfer. At a decidable test Kleene's
+  realizer is 0: the test is rechecked, not carried. The certificate
+  ([TERM-153](../terms.d/TERM-153.md)), a checkable record of why it passes, has no counterpart
+  in the realizer; Kleene built realizability against Heyting's proof
+  interpretation (p. 4, quoting Kleene 1973). The nearest counterparts are
+  glued realizability with P the provable sentences, and the
+  proof-to-realizer translation behind soundness, neither of which is in
+  the realizer.
+- **What transfers, and what does not?** The witness transfers, so the
+  sentence on Kleene and the use of the witness in [CLAIM-783](../claims.d/CLAIM-783.md) part 6 have a
+  formal source. "Carried with the evidence that it passes" does not
+  transfer from Kleene; it belongs to proof-relevant type theory (Kreisel's
+  typed realizability, p. 11; Martin-Löf), which the same lead reads
+  separately. And the claim's two sides do not sort realizability: it is a
+  classical relation between realizers and sentences, of the same shape as
+  an institution's satisfaction ([THEORY-1142](../theory.d/THEORY-1142.md)), and in the effective topos
+  it is the truth definition (p. 15). It stands between the model-theoretic
+  and proof-relevant readings rather than on the second.
+
+## Verdict
+
+Proposed: the analogy supports the sentence on Kleene as written, and does
+not support reading Kleene as the source of the evidence half or as
+proof-relevant. Whether [CLAIM-949](../claims.d/CLAIM-949.md) should be narrowed, by its
+defeated_if (b) or otherwise, is the owner's call. The evidence rests on a
+survey; [LIT-tmp9cdlq](../literature.d/LIT-tmp9cdlq.md) read would settle the clauses.

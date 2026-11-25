@@ -3,7 +3,15 @@ number: 352
 status: Proposed
 formerly:
 - CASE-tmpjn6f4
-title: 'In small models trained by gradient descent on MSE without re-whitening, the whitened class-separation singular values do not grow as (4t/N)^(1/4): without weight decay they grow exponentially or as a steep power and spread apart while NC1 stalls, and with weight decay they grow, stall, regrow and settle at finite values, or collapse in a late instability; Han, Papyan and Donoho''s renormalized flow, run as a control, matches the law to five digits'
+title: 'Class-separation growth without re-whitening'
+statement: >-
+  In small models trained by gradient descent on MSE without re-whitening,
+  the whitened class-separation singular values do not grow as (4t/N)^(1/4):
+  without weight decay they grow exponentially or as a steep power and
+  spread apart while NC1 stalls, and with weight decay they grow, stall,
+  regrow and settle at finite values, or collapse in a late instability;
+  Han, Papyan and Donoho's renormalized flow, run as a control, matches the
+  law to five digits
 version: 1
 history:
 - version: 1
@@ -48,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-797 CLAIM-933 LIT-3126 — Proposed, Deferred or new; the proposal this study tests, the claim filed from it, and the work registered beside it -->
 
-# CASE-352: In small models trained by gradient descent on MSE without re-whitening, the whitened class-separation singular values do not grow as (4t/N)^(1/4): without weight decay they grow exponentially or as a steep power and spread apart while NC1 stalls, and with weight decay they grow, stall, regrow and settle at finite values, or collapse in a late instability; Han, Papyan and Donoho's renormalized flow, run as a control, matches the law to five digits
+# CASE-352: Class-separation growth without re-whitening
 
 ## What was asked
 

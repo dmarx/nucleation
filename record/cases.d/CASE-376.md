@@ -3,7 +3,16 @@ number: 376
 status: Proposed
 formerly:
 - CASE-tmpdv5tm
-title: 'The imagined owner, built and run: a distributed-control plant whose self-model is either accurate about the division of labour or attributes control to one centralized owner; with the two self-models matched in parameters and reconstructing the aggregate outcome exactly, the centralized one still names the wrong component as the cause on about four errors in five, spreads blame toward the owner''s global command, and, driving governance, strips more legitimate gain from innocent components to cut the same errors'
+title: 'The imagined owner, built and run'
+statement: >-
+  The imagined owner, built and run: a distributed-control plant whose
+  self-model is either accurate about the division of labour or attributes
+  control to one centralized owner; with the two self-models matched in
+  parameters and reconstructing the aggregate outcome exactly, the
+  centralized one still names the wrong component as the cause on about four
+  errors in five, spreads blame toward the owner's global command, and,
+  driving governance, strips more legitimate gain from innocent components
+  to cut the same errors
 version: 1
 history:
 - version: 1
@@ -31,7 +40,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-355 THEORY-646 — Proposed; the claim this build tests and Drayson's objection its result is set against, both cited as open -->
 <!-- inactive-ok-file: CLAIM-971 — the finding filed from this build (new, Proposed) -->
 
-# CASE-376: The imagined owner, built and run: a distributed-control plant whose self-model is either accurate about the division of labour or attributes control to one centralized owner; with the two self-models matched in parameters and reconstructing the aggregate outcome exactly, the centralized one still names the wrong component as the cause on about four errors in five, spreads blame toward the owner's global command, and, driving governance, strips more legitimate gain from innocent components to cut the same errors
+# CASE-376: The imagined owner, built and run
 
 ## What was built
 

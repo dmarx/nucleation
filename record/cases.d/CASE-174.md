@@ -3,7 +3,13 @@ number: 174
 status: Proposed
 formerly:
 - CASE-tmpowpq1
-title: 'Paulinella chromatophora: a photosynthetic organelle in the making, from an endosymbiosis independent of the plastids'', its genome reduced to about a third of its coding capacity, and hundreds of host proteins imported into it, most encoded by the host''s own genes rather than transferred from the symbiont'
+title: 'Paulinella chromatophora'
+statement: >-
+  Paulinella chromatophora: a photosynthetic organelle in the making, from
+  an endosymbiosis independent of the plastids', its genome reduced to about
+  a third of its coding capacity, and hundreds of host proteins imported
+  into it, most encoded by the host's own genes rather than transferred from
+  the symbiont
 version: 5
 history:
 - version: 2
@@ -49,7 +55,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-1621 LIT-1557 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 
-# CASE-174: Paulinella chromatophora: a photosynthetic organelle in the making, from an endosymbiosis independent of the plastids', its genome reduced to about a third of its coding capacity, and hundreds of host proteins imported into it, most encoded by the host's own genes rather than transferred from the symbiont
+# CASE-174: Paulinella chromatophora
 
 ## The case
 

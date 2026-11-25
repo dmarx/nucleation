@@ -3,7 +3,9 @@ number: 7
 status: Active
 formerly:
 - TERM-tmp6p5t2
-title: 'fidelity, as preserving the dynamics of interpretation'
+title: 'fidelity (interpretive dynamics)'
+statement: >-
+  fidelity, as preserving the dynamics of interpretation
 version: 1
 tags:
 - philosophy-of-language
@@ -17,7 +19,7 @@ summary: >-
   intertwining defects (§9).
 ---
 
-# TERM-007: fidelity, as preserving the dynamics of interpretation
+# TERM-007: fidelity (interpretive dynamics)
 
 ## Definition
 

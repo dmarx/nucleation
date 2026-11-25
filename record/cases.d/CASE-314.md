@@ -3,7 +3,13 @@ number: 314
 status: Proposed
 formerly:
 - CASE-tmp4f2jr
-title: 'Refitting Tatel and Ackerman''s posted data by task type reproduces their headline slopes and finds accuracy declining by 0.16 SD a month on laboratory tasks against 0.04 on medical and dental tasks, and not measurably on sports or military and transport tasks, with every type declining faster over short intervals'
+title: 'Refitting Tatel and Ackerman''s data by task'
+statement: >-
+  Refitting Tatel and Ackerman's posted data by task type reproduces their
+  headline slopes and finds accuracy declining by 0.16 SD a month on
+  laboratory tasks against 0.04 on medical and dental tasks, and not
+  measurably on sports or military and transport tasks, with every type
+  declining faster over short intervals
 version: 1
 history:
 - version: 1
@@ -42,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2088 — Unfetched or new; the unread article and its OSF project, filed on 2026-11-22 -->
 
-# CASE-314: Refitting Tatel and Ackerman's posted data by task type reproduces their headline slopes and finds accuracy declining by 0.16 SD a month on laboratory tasks against 0.04 on medical and dental tasks, and not measurably on sports or military and transport tasks, with every type declining faster over short intervals
+# CASE-314: Refitting Tatel and Ackerman's data by task
 
 ## What was done
 

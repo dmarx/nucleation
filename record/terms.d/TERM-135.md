@@ -3,7 +3,11 @@ number: 135
 status: Proposed
 formerly:
 - TERM-tmp5z2du
-title: 'hyperribbon: a model manifold whose widths across successive orthogonal directions fall roughly geometrically, the prediction-space face of a sloppy Fisher spectrum'
+title: 'hyperribbon'
+statement: >-
+  hyperribbon: a model manifold whose widths across successive orthogonal
+  directions fall roughly geometrically, the prediction-space face of a
+  sloppy Fisher spectrum
 version: 4
 history:
 - version: 2
@@ -89,7 +93,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-825 — filed with this term from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-302 TERM-140 THEORY-2154 THEORY-2155 THEORY-2156 THEORY-2166 THEORY-2165 THEORY-2163 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-# TERM-135: hyperribbon: a model manifold whose widths across successive orthogonal directions fall roughly geometrically, the prediction-space face of a sloppy Fisher spectrum
+# TERM-135: hyperribbon
 
 ## Definition
 

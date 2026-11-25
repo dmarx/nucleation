@@ -3,7 +3,10 @@ number: 38
 status: Active
 formerly:
 - CASE-tmpibrot
-title: 'TV Tropes: a community-curated catalogue of narrative tropes and their instances, such as the Gilligan Cut'
+title: 'TV Tropes'
+statement: >-
+  TV Tropes: a community-curated catalogue of narrative tropes and their
+  instances, such as the Gilligan Cut
 version: 2
 history:
 - version: 2
@@ -38,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-014 — Rejected; the verdict that labels written to fit their examples cannot validate the account -->
 <!-- inactive-ok-file: THEORY-167 — Proposed; cited as the reading of Propp this case's analysis repeats, not as settled -->
 
-# CASE-038: TV Tropes: a community-curated catalogue of narrative tropes and their instances, such as the Gilligan Cut
+# CASE-038: TV Tropes
 
 ## The case
 

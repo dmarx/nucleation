@@ -3,7 +3,11 @@ number: 154
 status: Proposed
 formerly:
 - TERM-tmp7s2aa
-title: 'witness, to a specification: a realization exhibited that passes it, showing by example that what it admits is not empty; the existence half of a proof-relevant answer, apart from the evidence that it passes'
+title: 'witness'
+statement: >-
+  witness, to a specification: a realization exhibited that passes it,
+  showing by example that what it admits is not empty; the existence half of
+  a proof-relevant answer, apart from the evidence that it passes
 version: 1
 tags:
 - logic
@@ -28,10 +32,14 @@ summary: >-
   term with two senses is the alternative, and the owner chooses. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
+draws_on:
+- THEORY-tmpqj2d4
+- THEORY-tmpdsft8
 ---
+<!-- inactive-ok-file: LIT-tmp9cdlq THEORY-tmpqj2d4 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
 <!-- inactive-ok-file: TERM-153 TERM-152 TERM-134 CLAIM-949 — Proposed; the pair filed with this and the entries it is stated against -->
 
-# TERM-154: witness, to a specification: a realization exhibited that passes it, showing by example that what it admits is not empty; the existence half of a proof-relevant answer, apart from the evidence that it passes
+# TERM-154: witness
 
 ## Definition
 
@@ -111,3 +119,40 @@ sound" (p. 167): the strongest description the qualifiers state, true of
 no argument ever given. A description with nothing to witness it can be
 as strong as the vocabulary allows. The record's descriptors are written
 from an entry that exists, which is what this term's witness rules out.
+
+## Note of 2026-11-22: Kleene, read through van Oosten
+
+The sense this term takes from logic has its formal source in Kleene's
+existential clause, as van Oosten states it ([THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md), read in
+[NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md) for the unread [LIT-tmp9cdlq](../literature.d/LIT-tmp9cdlq.md)): "n realizes an existential
+statement ∃xφ(x) if and only if n = ⟨m, k⟩ and k realizes φ(m̄)" (p. 5).
+The witness is m, the first component, kept in the realizer. The clause
+also fixes the term's "witness without certificate": for decidable tests
+k is 0, so a Kleene realizer of "some version passes them all" is the
+witness and nothing else. Recorded as `draws_on`. No status changes.
+
+## Note of 2026-11-22: Kolmogorov, read
+<!-- inactive-ok-block: THEORY-tmpdsft8 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
+
+Kolmogorov 1932 ([THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md), read in [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md)) gives the witness's sense for
+existence. Brouwer's existence statement splits into "das objektive Element
+(die Aufgabe) und das subjektive (ihre Lösung)" (p. 65): the problem "in
+der Menge K ein Element mit der Eigenschaft A zu finden", and its solution,
+the element found. Nothing is left over to be an existence statement
+proper. The witness is that element; Kolmogorov adds that its having been
+found is a subjective fact (p. 61), which the term's "exhibited" keeps. The
+term now `draws_on` the reading. Unchanged otherwise.
+
+## Note of 2026-11-25: Martin-Löf, read
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpneexr — Proposed or Skimmed; filed for LEAD-215 -->
+
+Borne out, from the source this term's type-theoretic sense comes from
+([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md); [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md); [ARG-tmpneexr](../arguments.d/ARG-tmpneexr.md)). A canonical proof of
+(∃x ∈ A)B(x) "is a pair (a,b), where b is a proof of the fact that a
+satisfies B" (p. 42), and the witness is the left projection p(c) (p. 44).
+One sharpening: the witness is computed from the proof, which is why the
+book needs no choice operator: "The difficulty with an epsilon term
+(εx)B(x) is that it is construed as a function of the property B(x) itself
+and not of the proof of (∃x)B(x)" (p. 45). So constructively there is no
+certificate without a witness, as this term's "Certificate without
+witness" already marks as classical. No change.

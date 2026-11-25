@@ -3,7 +3,11 @@ number: 53
 status: Superseded
 formerly:
 - TERM-tmpij1jr
-title: 'endorsement, between an organization''s processes: any effect one process has on another''s share of future influence, of which an explicit vote is one case'
+title: 'endorsement'
+statement: >-
+  endorsement, between an organization's processes: any effect one process
+  has on another's share of future influence, of which an explicit vote is
+  one case
 version: 2
 history:
 - version: 2
@@ -36,7 +40,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-553 TERM-006 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-285 THEORY-120 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# TERM-053: endorsement, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case
+# TERM-053: endorsement
 
 ## Definition
 

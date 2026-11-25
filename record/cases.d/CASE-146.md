@@ -3,7 +3,13 @@ number: 146
 status: Active
 formerly:
 - CASE-tmp6z1ew
-title: 'Two friendships across a group line: in one, the friend becomes an exception and the person''s view of the friend''s group is unchanged; in the other, what happens with the friend changes how the person takes other members of the group, though the friendships are alike in warmth and in what each learns'
+title: 'Two friendships across a group line'
+statement: >-
+  Two friendships across a group line: in one, the friend becomes an
+  exception and the person's view of the friend's group is unchanged; in the
+  other, what happens with the friend changes how the person takes other
+  members of the group, though the friendships are alike in warmth and in
+  what each learns
 version: 3
 history:
 - version: 2
@@ -45,7 +51,7 @@ draws_on:
 <!-- inactive-ok-file: CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: THEORY-044 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
 
-# CASE-146: Two friendships across a group line: in one, the friend becomes an exception and the person's view of the friend's group is unchanged; in the other, what happens with the friend changes how the person takes other members of the group, though the friendships are alike in warmth and in what each learns
+# CASE-146: Two friendships across a group line
 
 ## The case
 

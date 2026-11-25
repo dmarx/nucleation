@@ -3,7 +3,9 @@ number: 243
 status: Proposed
 formerly:
 - CASE-tmpv6i22
-title: 'A smoke detector that sets off sprinklers in a building no one is in'
+title: 'Smoke detector in an empty building'
+statement: >-
+  A smoke detector that sets off sprinklers in a building no one is in
 version: 2
 history:
 - version: 2
@@ -46,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-444 THEORY-220 THEORY-628 THEORY-217 — Proposed; readings cited for what they hold, with their standing -->
 <!-- inactive-ok-file: CASE-240 — filed from the same exchange, Proposed -->
 
-# CASE-243: A smoke detector that sets off sprinklers in a building no one is in
+# CASE-243: Smoke detector in an empty building
 
 ## The case
 

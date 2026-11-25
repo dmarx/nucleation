@@ -3,7 +3,12 @@ number: 101
 status: Active
 formerly:
 - TERM-tmp08c21
-title: 'grant, between an organization''s processes: a conferral that runs through a maintained relation of granting, delegation, eligibility or support, so that the effect on another''s future influence is mediated by a relation the organization keeps; withdrawing it is revocation'
+title: 'grant'
+statement: >-
+  grant, between an organization's processes: a conferral that runs through
+  a maintained relation of granting, delegation, eligibility or support, so
+  that the effect on another's future influence is mediated by a relation
+  the organization keeps; withdrawing it is revocation
 version: 1
 tags:
 - self-governance
@@ -22,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070; named as the former word for conferral -->
 
-# TERM-101: grant, between an organization's processes: a conferral that runs through a maintained relation of granting, delegation, eligibility or support, so that the effect on another's future influence is mediated by a relation the organization keeps; withdrawing it is revocation
+# TERM-101: grant
 
 ## Definition
 

@@ -3,7 +3,12 @@ number: 130
 status: Active
 formerly:
 - CASE-tmp859e4
-title: 'Gracie jiu-jitsu against luta livre: two Brazilian grappling traditions whose contests were fought over the rules as well as under them, and whose matches placed them in a racial hierarchy as well as ranking them by results'
+title: 'Gracie jiu-jitsu against luta livre'
+statement: >-
+  Gracie jiu-jitsu against luta livre: two Brazilian grappling traditions
+  whose contests were fought over the rules as well as under them, and whose
+  matches placed them in a racial hierarchy as well as ranking them by
+  results
 version: 3
 history:
 - version: 2
@@ -46,7 +51,7 @@ reported_in:
 ---
 <!-- inactive-ok-file: CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CASE-130: Gracie jiu-jitsu against luta livre: two Brazilian grappling traditions whose contests were fought over the rules as well as under them, and whose matches placed them in a racial hierarchy as well as ranking them by results
+# CASE-130: Gracie jiu-jitsu against luta livre
 
 ## The case
 

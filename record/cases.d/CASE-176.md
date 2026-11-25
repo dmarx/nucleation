@@ -3,7 +3,13 @@ number: 176
 status: Active
 formerly:
 - CASE-tmps5qp3
-title: 'The United States Institute of Peace, 2025–2026: its board removed and its building entered by DOGE staff with police assistance before any court ruled, nearly all staff dismissed, a district court''s judgment that the takeover was unlawful stayed on appeal, and the institution renamed while its legal identity continued'
+title: 'The US Institute of Peace, 2025–2026'
+statement: >-
+  The United States Institute of Peace, 2025–2026: its board removed and its
+  building entered by DOGE staff with police assistance before any court
+  ruled, nearly all staff dismissed, a district court's judgment that the
+  takeover was unlawful stayed on appeal, and the institution renamed while
+  its legal identity continued
 version: 2
 history:
 - version: 2
@@ -37,7 +43,7 @@ summary: >-
   good, or the legal outcome, which is pending.
 ---
 
-# CASE-176: The United States Institute of Peace, 2025–2026: its board removed and its building entered by DOGE staff with police assistance before any court ruled, nearly all staff dismissed, a district court's judgment that the takeover was unlawful stayed on appeal, and the institution renamed while its legal identity continued
+# CASE-176: The US Institute of Peace, 2025–2026
 
 ## The case
 

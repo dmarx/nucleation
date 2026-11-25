@@ -3,7 +3,11 @@ number: 264
 status: Proposed
 formerly:
 - CASE-tmpzh595
-title: 'Two workshops with the same dependence and the same integration, the part able to withdraw and renegotiate in one and its terms set at the controlling agent''s discretion in the other'
+title: 'Two workshops: withdrawal versus discretion'
+statement: >-
+  Two workshops with the same dependence and the same integration, the part
+  able to withdraw and renegotiate in one and its terms set at the
+  controlling agent's discretion in the other
 version: 3
 history:
 - version: 2
@@ -54,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-690 TERM-123 TERM-124 — filed with this case, Proposed -->
 <!-- inactive-ok-file: CLAIM-671 CLAIM-428 CLAIM-603 CASE-256 CASE-257 TERM-083 — Proposed; the record's entries this case is built against, cited with their standing -->
 
-# CASE-264: Two workshops with the same dependence and the same integration, the part able to withdraw and renegotiate in one and its terms set at the controlling agent's discretion in the other
+# CASE-264: Two workshops: withdrawal versus discretion
 
 ## Which sense of "organization"
 

@@ -4,8 +4,13 @@ status: Active
 formerly:
 - CASE-tmp4niuz
 
-title: 'Coding the restatements the workbench reconstructions report finds them recorded almost only when they fail: 76 re-derived as new against one retrieved by its code, coded content re-derived in 20 of 48 reconstructions, and too few quoted pairs to measure a restatement''s distance from its original'
-
+title: 'Coding restatements in workbench reconstructions'
+statement: >-
+  Coding the restatements the workbench reconstructions report finds them
+  recorded almost only when they fail: 76 re-derived as new against one
+  retrieved by its code, coded content re-derived in 20 of 48
+  reconstructions, and too few quoted pairs to measure a restatement's
+  distance from its original
 version: 2
 history:
 - version: 2
@@ -47,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-306 CASE-372 — Proposed; earlier studies of the same reconstructions, cited for comparison, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-1068 CLAIM-1023 — new; filed by the lead run of 2026-11-23 -->
 
-# CASE-393: Coding the restatements the workbench reconstructions report finds them recorded almost only when they fail: 76 re-derived as new against one retrieved by its code, coded content re-derived in 20 of 48 reconstructions, and too few quoted pairs to measure a restatement's distance from its original
+# CASE-393: Coding restatements in workbench reconstructions
 
 ## What was done
 

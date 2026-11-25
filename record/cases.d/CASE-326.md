@@ -1,10 +1,17 @@
 ---
 number: 326
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpo2iur
-title: 'One cost model for stored work, run on the cockpit''s speed bugs, a filed argument and a LEGO bin: every case is priced with the same terms; at illustrative values the bugs lose at a flat price of work on their four flap calls and win once the approach is at least twice as busy as the moment they are set, and the bin is made at once except for a brick that stands out'
-version: 1
+title: 'One cost model for stored work'
+statement: >-
+  One cost model for stored work, run on the cockpit's speed bugs, a filed
+  argument and a LEGO bin: every case is priced with the same terms; at
+  illustrative values the bugs lose at a flat price of work on their four
+  flap calls and win once the approach is at least twice as busy as the
+  moment they are set, and the bin is made at once except for a brick that
+  stands out
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -12,6 +19,16 @@ history:
     Filed 2026-11-22 by the assistant, carrying out LEAD-108. The model,
     its tests and the pricing script are committed under
     scratch/studies/lead-108/, with results.json and results.md.
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("promote the
+    ten", under the dialectic regime; ADR-057, status-review README
+    section 2): a CASE goes Active when it is demonstrated, and its run
+    has been checked by a session other than its filer's. Rerun on
+    2026-11-24 from a copy of scratch/studies/lead-108/: the 7 tests of
+    test_costmodel.py pass, and price_cases.py regenerates results.json
+    and results.md byte for byte (the note of that date).
 standing: documented
 kind: executed-study
 tags:
@@ -46,9 +63,9 @@ summary: >-
   case differs, and that is the result [CLAIM-891](../claims.d/CLAIM-891.md) states. The wording is
   the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-891 CLAIM-892 CLAIM-314 THEORY-351 — Proposed or new; filed or cited in this run of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-891 CLAIM-314 THEORY-351 — Proposed or new; filed or cited in this run of 2026-11-22 -->
 
-# CASE-326: One cost model for stored work, run on the cockpit's speed bugs, a filed argument and a LEGO bin: every case is priced with the same terms; at illustrative values the bugs lose at a flat price of work on their four flap calls and win once the approach is at least twice as busy as the moment they are set, and the bin is made at once except for a brick that stands out
+# CASE-326: One cost model for stored work
 
 ## The model
 
@@ -167,3 +184,24 @@ moment of a demand (the found brick) and a construction at a quiet moment
   only as a lower chance of error on the bug route.
 - Anything about the record's own filings. The filing numbers are A11's
   construction and illustrative values. [CLAIM-303](../claims.d/CLAIM-303.md)'s caveat stands.
+
+<!-- inactive-ok-file: ARG-tmpa5ped CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A30, a contract reading and its limit
+
+A30 §2 reads this case's terms as a contract's lifecycle (F formation, U
+upkeep of expectations, ρ identifying and invoking the contract, v and δ
+checking applicability and compliance, σ inadequacy of inherited
+arrangements, R renegotiation, ε loss of independent capability through
+reliance) and quotes the served-demand formula exactly. "A contract
+amortizes the work of establishing mutually intelligible expectations and
+coordinating interdependent activity." Its limit, A30 §15: "the current
+CASE-326 implementation uses fixed erosion and does not establish the full
+endogenous contractual dynamics described here." A qualification of
+scope, not of the case: for a store whose use changes it, σ and ε are not
+fixed. [ARG-tmpa5ped](../arguments.d/ARG-tmpa5ped.md) holds the judgement, [CLAIM-tmpsf9hp](../claims.d/CLAIM-tmpsf9hp.md) the claim, and
+[LEAD-tmp14n26](../leads.d/LEAD-tmp14n26.md) the extension that would test it. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-24: rerun, for the promotion review the owner proposed at U33 of the exchange 'Memes, Contracts, and Systemic Normativity'
+
+Rerun on 2026-11-24 by the assistant, from a copy of `scratch/studies/lead-108/` as on this branch: the 7 tests of `test_costmodel.py` pass, and `price_cases.py` regenerates `results.json` and `results.md` byte for byte. A53 of the exchange names this case as a promotion candidate, a study "executed" and awaiting review. The run is now checked by a session other than the one that filed it, which the status-review README (section 2) asks of a demonstrated case; the ruling is the status review's ([LEAD-tmp0j28l](../leads.d/LEAD-tmp0j28l.md)). The note is the assistant's (Claude, in this session). No status change.

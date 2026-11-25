@@ -34,7 +34,7 @@ operationalized_in:
 summary: >-
   Named in [CASE-145](../cases.d/CASE-145.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: TERM-149 TERM-148 CASE-362 CLAIM-945 CLAIM-946 — new, filed by LEAD-087's run -->
+<!-- inactive-ok-file: TERM-149 TERM-148 CLAIM-945 CLAIM-946 — new, filed by LEAD-087's run -->
 
 # LEAD-087: Run the study of perspective without collective agency, after saying in advance what distinguishes a shared perspective from correlated responses
 
@@ -81,3 +81,7 @@ What remains, for the owner:
 - Populations that exchange states, rules or reasons rather than
   answers, and a vote that feeds back into members' interpretations,
   were not run.
+
+## Note of 2026-11-25: run reproduced, lead narrowed and left Open
+
+In the recomputation pass of [LEAD-tmpc0rqa](LEAD-tmpc0rqa.md), [CASE-362](../cases.d/CASE-362.md) was regenerated from nothing by a session other than the filer's, byte for byte (its note of this date), and promoted. The run is done and recorded, but what would count, a group with a shared perspective by the stated criterion and no collective agency, was not found: no population passed the criterion. So the lead is not closed. What it is narrowed to: state again, in advance, a dependence condition read from the deviants' recovery and the selectivity of the others' response ([CLAIM-945](../claims.d/CLAIM-945.md)'s suggestion after the fact), with populations that exchange states, rules or reasons rather than answers, and run it; and the owner's choice between [TERM-149](../terms.d/TERM-149.md) and [TERM-148](../terms.d/TERM-148.md), on which the run tells against the second. The note is the assistant's (Claude, in this session). No status change.

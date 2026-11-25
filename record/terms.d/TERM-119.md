@@ -3,7 +3,14 @@ number: 119
 status: Proposed
 formerly:
 - TERM-tmp8deza
-title: 'shared epistemic state, of a record kept by several collaborators: the publicly inspectable structure of what is on the table in an inquiry, what standing each item has, what supports or challenges it, who contributed it, and what would have to be reconsidered if it changed, together with the rules for changing that structure; not the collaborators'' shared beliefs, not shared memory, and not common knowledge'
+title: 'shared epistemic state'
+statement: >-
+  shared epistemic state, of a record kept by several collaborators: the
+  publicly inspectable structure of what is on the table in an inquiry, what
+  standing each item has, what supports or challenges it, who contributed
+  it, and what would have to be reconsidered if it changed, together with
+  the rules for changing that structure; not the collaborators' shared
+  beliefs, not shared memory, and not common knowledge
 version: 1
 tags:
 - epistemology
@@ -33,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1060 LIT-2243 — not in force (Deferred or Unavailable); cited as the predecessors A named -->
 <!-- inactive-ok-file: THEORY-1739 THEORY-1749 THEORY-1779 THEORY-1783 THEORY-1800 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# TERM-119: shared epistemic state, of a record kept by several collaborators: the publicly inspectable structure of what is on the table in an inquiry, what standing each item has, what supports or challenges it, who contributed it, and what would have to be reconsidered if it changed, together with the rules for changing that structure; not the collaborators' shared beliefs, not shared memory, and not common knowledge
+# TERM-119: shared epistemic state
 
 ## Definition
 
@@ -136,3 +143,26 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
   ([THEORY-1783](../theory.d/THEORY-1783.md)) attributes each statement to its contributor.
 
 The term is unchanged.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A18 §15
+
+A18 §15 applies the exchange's contracts to the record itself, citing
+this term: entry identifiers as "Stable interface for addressing an
+epistemic object", statuses as "Recognized epistemic standing", rests_on
+as "Declared dependency", defeated_if as "Conditions warranting
+reevaluation", decision records as "Governance of specification and
+revision", open questions as "Maintained unresolved epistemic demands",
+schema revisions as "Reflexive inquiry into the record's apparatus". With
+[SYNTHESIS-114](../syntheses.d/SYNTHESIS-114.md) it says the record "faces a contractual design problem of
+its own" and asks three questions: "Can a question that does not fit its
+current schema obtain sufficient standing to initiate revision of that
+schema? Can evidence against an Active claim become consequential without
+first being assimilated into the claim's existing conceptual
+architecture? Can the inquiry preserve alternative perspectives that it
+does not currently endorse?" The first is near [QUESTION-458](../questions.d/QUESTION-458.md) (schema change
+coupled to recorded decision); the third is held by the record's
+alternatives practice. Bearing: an application of the term, with
+questions about the record's own operational standing ([TERM-tmpgiy6r](TERM-tmpgiy6r.md)).
+The term is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+<!-- inactive-ok-file: SYNTHESIS-114 TERM-tmpgiy6r — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->

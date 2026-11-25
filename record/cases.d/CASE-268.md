@@ -3,7 +3,15 @@ number: 268
 status: Proposed
 formerly:
 - CASE-tmpqruw9
-title: 'A ladder of outside maintainers for the mutual-maintenance model: a constant supply of the capacity, a supply running the same production law on a delayed reading of the structure, and the same law on its present reading; a brief knock to the structure separates the first two from internal production, the second by less as its delay shrinks, and no intervention on state separates the third until the internal pathway is cut'
+title: 'Outside maintainers for mutual maintenance'
+statement: >-
+  A ladder of outside maintainers for the mutual-maintenance model: a
+  constant supply of the capacity, a supply running the same production law
+  on a delayed reading of the structure, and the same law on its present
+  reading; a brief knock to the structure separates the first two from
+  internal production, the second by less as its delay shrinks, and no
+  intervention on state separates the third until the internal pathway is
+  cut
 version: 1
 standing: fictional
 kind: construction
@@ -29,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-265 — Proposed or new; the construction this varies and the claim it grounds -->
 
-# CASE-268: A ladder of outside maintainers for the mutual-maintenance model: a constant supply of the capacity, a supply running the same production law on a delayed reading of the structure, and the same law on its present reading; a brief knock to the structure separates the first two from internal production, the second by less as its delay shrinks, and no intervention on state separates the third until the internal pathway is cut
+# CASE-268: Outside maintainers for mutual maintenance
 
 ## The construction
 
@@ -72,3 +80,7 @@ copy is not exposed by any intervention on state, only by one on mechanism.
 That the separation shrinks monotonically for every family of imperfect
 controllers. Only this delay family was run. Nor does it show that the
 margin in a real system would be measurable above noise.
+
+## Note of 2026-11-25: rerun by a session other than the filer's
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). `scratch/formal/maintainer_ladder_check.py`, run unchanged with python3 -I, prints "maintainer ladder check: all passed", with the largest gaps 0.1458 (constant), 0.1458, 0.0834, 0.0327 and 0.0104 (delays 1, 0.3, 0.1 and 0.03), the table's 0.146, 0.146, 0.083, 0.033 and 0.010; it asserts the exact controller's gap below 10⁻⁹ under every knock and start tried and a gap above 0.3 once the internal pathway is cut. A separate integration in the session's scratch space (RK4 at step 2 × 10⁻⁴, its own delay buffer, the same knock and the same L1 gap) gives 0.1457, 0.1457, 0.0834, 0.0327 and 0.0104. Nothing failed to reproduce. The gap is |Δc| + |Δr|, which "the largest gap in (c, r)" leaves unstated. No status change: a construction, the assistant's, whose adoption is the owner's call. The note is the assistant's (Claude, in this session).

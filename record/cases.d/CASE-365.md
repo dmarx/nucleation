@@ -3,7 +3,16 @@ number: 365
 status: Proposed
 formerly:
 - CASE-tmpy4orj
-title: 'A kinetic construction in which nuclei form fast only on a teacher and, once formed, make teachers from material: the loop closes, keeping its teacher with no outside supply of it, only below a teacher turnover set by the teaching rate; withdrawal becomes safe on crossing a separatrix, while nuclei are 0.02 % to 30 % of their maintained number; material supply is still needed; nuclei that only repair teachers cut the supply needed but never to zero; and in finite numbers closure is a lifetime that grows with size'
+title: 'Nuclei that make their own teachers'
+statement: >-
+  A kinetic construction in which nuclei form fast only on a teacher and,
+  once formed, make teachers from material: the loop closes, keeping its
+  teacher with no outside supply of it, only below a teacher turnover set by
+  the teaching rate; withdrawal becomes safe on crossing a separatrix, while
+  nuclei are 0.02 % to 30 % of their maintained number; material supply is
+  still needed; nuclei that only repair teachers cut the supply needed but
+  never to zero; and in finite numbers closure is a lifetime that grows with
+  size
 version: 1
 history:
 - version: 1
@@ -52,7 +61,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-953 CLAIM-952 CLAIM-951 CLAIM-957 CLAIM-956 CLAIM-958 CASE-265 CASE-308 CASE-311 — new or Proposed; the claims filed from this run, and the neighbouring constructions it is compared with -->
 
-# CASE-365: A kinetic construction in which nuclei form fast only on a teacher and, once formed, make teachers from material: the loop closes, keeping its teacher with no outside supply of it, only below a teacher turnover set by the teaching rate; withdrawal becomes safe on crossing a separatrix, while nuclei are 0.02 % to 30 % of their maintained number; material supply is still needed; nuclei that only repair teachers cut the supply needed but never to zero; and in finite numbers closure is a lifetime that grows with size
+# CASE-365: Nuclei that make their own teachers
 
 ## Why this construction
 
@@ -290,3 +299,14 @@ a few hundred time units at these sizes.
   beyond its amount. The neighbouring constructions are [CASE-265](CASE-265.md), whose
   mutual maintenance runs on a standing supply, and [CASE-308](CASE-308.md), whose
   scaffold is withdrawn at states.
+
+## Note of 2026-11-25: rerun, one figure corrected, and what holds it back
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). From a copy of `scratch/studies/lead-093/` in the session's scratch space, with `results/` set aside and every experiment regenerated as the README directs (e1 to e9; scipy 1.18.1 and numpy 2.5.3). The 11 tests pass. Every line of all ten results files agrees with the stored one in every field but the wall times, e9's 400 stochastic runs included.
+
+The figures above were compared. All match but one:
+
+- **Matches.** The three steady states; 55, 252 and 318 of the 25 × 25 grid; k_T* = 0.061, 0.111, 0.191, 0.312 and 0.483, and 0.111 at ε = 0.5; the base-point limits ε < 0.560, β > 0.0088 and J > 0.692; the material thresholds 0.29, 0.69 and 1.00; the teacher supplies 0.138 against 0.289, 0.358 against 0.462 and 1.239 against 1.154, and the crossover near 0.73; the founding table row by row (t_w 61.0, 7.77, 1.18, 1.34 and 30.8, with their T, N and shares); the halving after withdrawal, 122 to 275 over the eleven schedules run; e4b's 120 and 15.8; the disturbances (91 %; 204, 51 and 24); the repair arm (0.0385, 0.0128, 0.0028 by the formula and 0.0027 run, 0.0004; halvings 13, 25, 48, 163 and 735); the matched populations and their supplies 0.033 and 0.096; succession by t = 46 and one generation every 20; and the finite-number table (70, 215, 1,066, 21 and 39 censored; 31, 71, 115, 339 and 658).
+- **Does not match.** "With the supply kept on it takes 8 to 39." Over e4's eleven schedules, the time for N to reach half its maintained value with the supply kept on runs from 8.4 to 105.6: it is 105.6 at σ = 0.01 and 55.7 at σ = 0.02, both at k_T = 0.1, and the first of these is the table's first row. The range 8 to 39 holds for σ ≥ 0.05. The point the sentence serves stands, since in every schedule the supply kept on is faster than withdrawal (105.6 against 189.0 at σ = 0.01).
+
+What holds it back: the one misstated figure. The run reproduces; the case's text does not, at that sentence. The correction is this note; whether that suffices for the case to go Active, or the sentence is to be revised first, is left to the owner or the next status pass. No status change. The note is the assistant's (Claude, in this session).

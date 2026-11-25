@@ -3,7 +3,10 @@ number: 16
 status: Active
 formerly:
 - CASE-tmpee7eo
-title: 'The Dual State: normative and prerogative authority in National Socialist Germany'
+title: 'The Dual State'
+statement: >-
+  The Dual State: normative and prerogative authority in National Socialist
+  Germany
 version: 1
 standing: documented
 kind: specimen
@@ -20,7 +23,7 @@ reported_in:
 ---
 <!-- inactive-ok-file: LIT-805 — Unavailable; set aside, and cited to say what was set aside with it -->
 
-# CASE-016: The Dual State: normative and prerogative authority in National Socialist Germany
+# CASE-016: The Dual State
 
 ## The case
 

@@ -44,6 +44,9 @@ summary: >-
   assistant's knowledge and wait on [LEAD-215](../leads.d/LEAD-215.md). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmp9cdlq THEORY-tmpqj2d4 ARG-tmp68y3c — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
+
+<!-- inactive-ok-file: THEORY-tmptsz1u ARG-tmpcpo8g CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: CLAIM-783 CLAIM-943 TERM-152 — Proposed or Open; the claims, terms and lead this joins -->
 
 # CLAIM-949: The record's account of specification is model-theoretic, a set of tests and the versions that pass them all, as an institution pairs sentences with the models that satisfy them; type theory is its proof-relevant counterpart, in which a specification is a type, a question a problem, a realization an inhabitant carried with the evidence that it passes, adding a descriptor a refinement the entry provably inhabits, which is why descriptors cannot conflict, and the direction of fit is bidirectional typing's split between inferring a type from a term and checking a term against a type given
@@ -205,3 +208,148 @@ read after Freeman and Pfenning's turned out to be a declared lattice.
 Neither reaches this claim's `defeated_if` (b): the first correspondence
 holds narrowed, and the second is still untested on a bidirectional
 system. No change to the claim's status.
+
+## Note of 2026-11-22: Kleene, read through van Oosten
+
+Kleene 1945 ([LIT-tmp9cdlq](../literature.d/LIT-tmp9cdlq.md)) has no lawful copy; van Oosten's historical
+essay ([LIT-tmpegqz0](../literature.d/LIT-tmpegqz0.md), read in [NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md)) stands in for it, and its account
+is [THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md). It bears on the bullet "A finding is an inhabitant":
+
+- **Confirmed, as written.** A realizer of an existential is the witness
+  kept with a realizer of its instance: "n realizes an existential
+  statement ∃xφ(x) if and only if n = ⟨m, k⟩ and k realizes φ(m̄)" (p. 5).
+  So "the record's realization, with the witness kept" holds.
+- **Narrowed.** A Kleene realizer is not carried with the evidence that it
+  passes. Realizability "is designed to handle “information” about
+  formulas rather than proofs" (p. 4), and "n realizes F, where F is an
+  atomic sentence, if and only if n = 0 and F is true" (p. 5): at a
+  decidable test nothing is carried and the test is rechecked. The title's
+  "an inhabitant carried with the evidence that it passes" gets no support
+  from Kleene; its source would be proof-relevant type theory, Kreisel's
+  typed realizability (1959, p. 11) or Martin-Löf, which this lead reads
+  separately.
+- **Qualified.** Realizability does not sit on the proof-relevant side of
+  the claim's two. It is a classical relation between realizers and
+  sentences, "read and checked by the classical mathematician" (p. 4), of
+  the same shape as an institution's satisfaction ([THEORY-1142](../theory.d/THEORY-1142.md)), and in
+  the effective topos it is the truth definition for arithmetic (p. 15). It
+  is a model-theoretic semantics whose points are information, between the
+  two readings.
+
+The support judgement is [ARG-tmp68y3c](../arguments.d/ARG-tmp68y3c.md) (analogy, Proposed); [THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md)
+`corroborates` this claim for the witness correspondence. Neither the
+defeated_if (a) nor (b) is met: the correspondences (b) names are not the
+one Kleene bears on. No status changes; narrowing the claim is the owner's
+call.
+
+## Note of 2026-11-22: Dunfield and Krishnaswami, read
+
+Their survey of bidirectional typing ([LIT-tmpqagik](../literature.d/LIT-tmpqagik.md), read in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md), account
+[THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md)) tests the bullet "The direction of fit is bidirectional
+typing". It supports, and narrows (evidence; [ARG-tmpcpo8g](../arguments.d/ARG-tmpcpo8g.md)):
+
+- **Supported.** The authors call a synthesized type "a fact" and a
+  checked one "a requirement" (§4.4), and argue for checking because
+  inference "finds all behaviours, not only the intended behaviours"
+  (§9.1). Synthesis as description and checking as requirement is their
+  reading too. "Checking only accepts or rejects" is borne out: the term
+  is an input in both modes (§1), and Coquand's checkExp "returns a
+  boolean" (§9.1).
+- **Narrowed.** The modes are information flow, "the management of
+  information flow" (§8.4): which part of a judgment is known. They can
+  be reversed, combined or refined (§6) while the term still answers for
+  a mismatch, so where the type comes from is not who must fit whom.
+  The two coincide in the standard Pfenning recipe. [CLAIM-tmpugw2q](CLAIM-tmpugw2q.md) files the
+  objection this makes to [CLAIM-943](CLAIM-943.md).
+- **Left open.** Elaboration and coercion are only cited (§1, references).
+  The one change to a term the survey treats is the programmer's
+  annotation, which under type erasure changes no behaviour (§2, §3.2).
+  [LEAD-tmp7mkn0](../leads.d/LEAD-tmp7mkn0.md) plans the reading that would settle the elaboration clause.
+
+Defeat condition (b) is not met: the correspondence holds, more narrowly
+than stated. The status is the owner's.
+
+## Note of 2026-11-22: Kolmogorov, read
+<!-- inactive-ok-block: THEORY-tmpdsft8 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
+
+Kolmogorov, "Zur Deutung der intuitionistischen Logik" (1932), read in full
+for [LEAD-215](../leads.d/LEAD-215.md) ([LIT-tmpgnf38](../literature.d/LIT-tmpgnf38.md), [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md), [THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md)). It bears on the first
+correspondence, a question as a problem, and on nothing else here.
+
+**The correspondence is confirmed in what it asserts, and narrowed.** A
+Kolmogorov problem, like [CLAIM-470](CLAIM-470.md)'s question, demands rather than asserts,
+has no truth value ("für die Aufgaben hat man keinen dieser Richtigkeit
+entsprechenden Begriff", p. 61, n. 8), fixes what counts as solving it and
+may have many solutions; his conditional problems match questions under a
+presupposition. It is narrower in two respects: a problem is solved or not
+and has no answer space, so a question with several admissible answers is
+a disjunction of problems, not one; and a problem's sense is "von dem
+Zustand unserer Kenntnisse unabhängig" (p. 65), with a failed supposition
+counted as solved (p. 59), so nothing in the calculus revises a problem as
+[CLAIM-470](CLAIM-470.md)'s last clause revises a question. It is wider in one: fully
+stated, a problem carries "die erlaubten Konstruktionsmittel" (p. 59,
+n. 2), which the record puts in the inquiry ([TERM-095](../terms.d/TERM-095.md)), not the question.
+[ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md) argues this and does not find defeater (b) met.
+
+**A correction of attribution.** The body's "Kolmogorov read a proposition
+as a problem and its proof as a solution" is not this paper's. Kolmogorov
+keeps statements and problems apart and faults Heyting because "bei Heyting
+fehlt allerdings eine klare Unterscheidung zwischen Aussagen und Aufgaben"
+(p. 65, n. 17). What he reads as problems are the formulas of intuitionistic
+logic, whose objects "sind in Wirklichkeit keine theoretischen Aussagen,
+sondern vielmehr Aufgaben" (p. 58). Identifying propositions with problems
+is the later BHK and propositions-as-types gloss. A wording that fits the
+reading: "Kolmogorov read the formulas of intuitionistic logic as problems,
+kept apart from statements, and their proofs as solutions". The text and
+status are unchanged; revising them is the owner's call.
+
+## Note of 2026-11-25: Martin-Löf, read
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpl0sxy ARG-tmpneexr ARG-tmppv3b8 CLAIM-tmp01pyt CLAIM-tmpjs6hp — Proposed or Skimmed; filed from the reading for LEAD-215 -->
+
+Martin-Löf 1984, Intuitionistic Type Theory ([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md),
+corroborates; [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md), Skimmed; [LIT-tmphxyqk](../literature.d/LIT-tmphxyqk.md)), the source this
+claim names for "Martin-Löf's types are the same reading" and for
+universes.
+
+- **A question is a problem, a realization an inhabitant: borne out,
+  narrowed** ([ARG-tmpl0sxy](../arguments.d/ARG-tmpl0sxy.md)). The book reads a ∈ A as "a method of solving
+  the problem (doing the task) A" and as "a program ... which meets the
+  specification A" (pp. 5–6), and makes the problem one reading of the
+  same form of judgement as the set, which Kolmogorov, as the reading in
+  pull request 708 reports, did not. Narrowed by [CLAIM-tmpjs6hp](CLAIM-tmpjs6hp.md): a
+  Martin-Löf set is given by how its elements are formed, so a
+  specification of tests is a type only over a kind of thing already
+  given (the "such that" set, p. 53); over whatever might be proposed it
+  is a category, which is not a set (p. 21).
+- **A realization carried with the evidence that it passes, and a
+  descriptor as a refinement inhabited: borne out, with the evidence
+  kept** ([ARG-tmpneexr](../arguments.d/ARG-tmpneexr.md)). The elements of {x ∈ A : B(x)} "are pairs (a,b)
+  with b ∈ B(a)", "the witnessing information" (p. 53). This is the first
+  reading under [LEAD-215](../leads.d/LEAD-215.md) that supports the proof-relevant reading itself;
+  the refinement systems kept no evidence.
+- **Defeater (a) gets its test** ([CLAIM-tmp01pyt](CLAIM-tmp01pyt.md)). Martin-Löf drops a
+  proof, writing "A true", only where nothing depends on it (pp. 33, 47);
+  so the record is proof-relevant wherever a later step depends on an
+  entry's evidence, as the status reviews do when they take a work out of
+  a claim's grounds.
+- **A question's revision as a change of type handled by universes:
+  narrowed** ([ARG-tmppv3b8](../arguments.d/ARG-tmppv3b8.md)). A function into a universe computes a type
+  from an earlier result (p. 91), but only among types the universe codes,
+  which is the choice among answer spaces already admitted. A new form of
+  set is outside every universe given, "because we are not able to
+  exhibit once and for all all possible set forming operations" (p. 87).
+  Whether the next universe meets it (reading A) or only an extension of
+  the theory does (reading B, the filer's lean) is filed as alternatives
+  in [ARG-tmppv3b8](../arguments.d/ARG-tmppv3b8.md).
+- **The direction of fit as inference against checking: not tested.** The
+  book gives rules, not an algorithm. **Stored specification as a
+  library: not tested.**
+- **Model-theoretic against proof-relevant.** The book sets itself
+  against meaning given "only through semantics, which is usually done
+  following Tarski and assuming set theory" (p. 3), the route
+  [THEORY-1142](../theory.d/THEORY-1142.md)'s institutions take; so the claim's framing of the two
+  accounts is the book's own.
+
+Defeater (b) is not met: one correspondence holds with the evidence
+carried, two hold narrowed, and the one on bidirectional typing was not
+tested. No change to the claim's status.

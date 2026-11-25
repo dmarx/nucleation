@@ -3,7 +3,11 @@ number: 41
 status: Active
 formerly:
 - TERM-tmpc64yu
-title: 'character-like structural signature, as a realization-independent invariant of a communicative kind, called a character only when it is the trace of a specified representation'
+title: 'character-like signature'
+statement: >-
+  character-like structural signature, as a realization-independent
+  invariant of a communicative kind, called a character only when it is the
+  trace of a specified representation
 version: 1
 tags:
 - individuation
@@ -20,7 +24,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-167 — Proposed; cited only to rule out a name clash -->
 
-# TERM-041: character-like structural signature, as a realization-independent invariant of a communicative kind, called a character only when it is the trace of a specified representation
+# TERM-041: character-like signature
 
 ## Definition
 

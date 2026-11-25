@@ -1,0 +1,91 @@
+---
+status: Proposed
+title: 'The fifteen scopes of the hyperarticle atlas are documented as lines: ten map to lines the record has, and four new lines are added for the organization of perspective, self-correction, governing possibility and scholarly publishing'
+version: 1
+tags:
+- record
+date: '2026-11-25'
+summary: >-
+  At the owner's word of 2026-11-25 ("the microabstracts … comprise a
+  decomposition of the record into future works, all of which we should
+  make an effort to document as lines at least"; "A59 is probably the
+  better decomposition. use the last message … as your map"), the fifteen
+  scopes of ChatGPT's hyperarticle atlas v0.3 (A65 of the exchange "Hyper
+  article interpretation", saved verbatim in scratch/atlas/atlas-v0.3.md)
+  are each documented as a line. Ten map to lines the record has, by the
+  lines their core fibers already carry. Four are new:
+  organization-of-perspective, self-correction (the synthesis review's
+  candidate line of 2026-11-23), governing-possibility and
+  scholarly-publishing. Each scope's fiber entries gain its line, ADRs and
+  accounts excepted. Rejected: registering the fifteen as works now, which
+  A65 itself advises against, since a work's membership needs a text to
+  read; and the first draft's thirty microabstracts, which the owner set
+  aside for A59's fifteen.
+---
+
+# ADR-tmpd3ckn: The fifteen scopes of the hyperarticle atlas are documented as lines: ten map to lines the record has, and four new lines are added for the organization of perspective, self-correction, governing possibility and scholarly publishing
+
+<!-- inactive-ok-file: SYNTHESIS-111 — Proposed; the account that is already a candidate for the new self-correction line -->
+
+## Context
+
+In the exchange "Hyper article interpretation" the owner asked ChatGPT for
+a decomposition of the record into hyperarticles (U25), revised it (U26,
+U27) and asked for an outline and the record items behind each scope
+(U29). A56 proposed thirty microabstracts; A59 consolidated them to
+fifteen scopes in four regions; A65, the v0.3 atlas, gave each scope an
+outline and a "core fiber", the record entries it would be built from.
+The record's `lines` vocabulary names its own argument's lines; `works`
+names manuscripts, with membership found by reading a text ([ADR-104](ADR-104.md)).
+
+## Decision
+
+- **Each of the atlas's fifteen scopes is documented as a line.** The
+  scope's line is the one its fiber's entries already carry, where one
+  does:
+
+  | Scope | Line |
+  |---|---|
+  | 01 Inquiry Can Change the Question | learning-and-inquiry |
+  | 02 What Does a Research Record Keep? | records-of-inquiry |
+  | 03 From Obstruction to Reorganization | record-as-apparatus |
+  | 04 What Makes an Organized Whole? | distributed-agency |
+  | 05 The Cost Structure of Possibility | realizability |
+  | 06 How Training Finds Structure | learned-structure |
+  | 07 What Survives Translation? | pragmatic-transport |
+  | 08 The Organization of Will | will-organization |
+  | 09 The Organization of Perspective | organization-of-perspective (new) |
+  | 10 How an Organization Can Know and Fail to Correct | self-correction (new) |
+  | 11 Can an Organization's Viability Ground a Norm? | organizational-normativity |
+  | 12 Dependence, Domination, and the Terms of Participation | dependence-and-domination |
+  | 13 Capability, Restraint, and Relational Freedom | rightful-power |
+  | 14 Regulation as the Governance of Possibility | governing-possibility (new) |
+  | 15 Just Show Your Work | scholarly-publishing (new) |
+
+- **Four lines are added**, with labels and blurbs in luria.yaml. Scope 04
+  maps to distributed-agency, whose blurb begins "what an organized whole
+  is". Scopes 09 and 10 have fibers mostly in distributed-agency, and 14
+  in realizability and readiness, but each asks a question no line's blurb
+  names. Scope 15 has no line; the filing of "Hyper article
+  interpretation" had used the nearest ones and left a topic or line for
+  publishing to the owner.
+- **Each scope's fiber entries gain its line** beside the lines they have,
+  each with a history note. ADRs carry no line, and an account's line is
+  its scope, so neither is changed. Scope 15's fiber is A65's list plus
+  the entries filed on 2026-11-25 from the same exchange about publishing.
+- **The atlas is kept verbatim** as the map, in scratch/atlas/, with its
+  words ChatGPT's.
+
+## Consequences
+
+- 65 entries gain a line: 33 scholarly-publishing, 9
+  organization-of-perspective, 8 governing-possibility, 8 self-correction,
+  5 learning-and-inquiry, 3 rightful-power, and one each in
+  records-of-inquiry and organizational-normativity.
+- The four new lines have no account; the current-account view lists them.
+  A synthesis review would give each one, and [SYNTHESIS-111](../syntheses.d/SYNTHESIS-111.md) is already a
+  candidate for self-correction.
+- A fiber is a starting set, not a closure (A65 §VI): entries a scope needs
+  and A65 did not list stay without its line until a review adds them.
+- Works for the scopes wait until each has a text; the three articles of
+  A45 are registered as works in a pull request of their own.

@@ -3,7 +3,12 @@ number: 135
 status: Active
 formerly:
 - CASE-tmpqq6jz
-title: 'The Brookhollow Apartments fire, Wichita, 2023: a mayday after a stair roof collapses on two companies opens a second emergency inside a search for a trapped resident, and an independent review finds an unorganized rescue effort without finding that it changed the outcome'
+title: 'The Brookhollow Apartments fire, Wichita'
+statement: >-
+  The Brookhollow Apartments fire, Wichita, 2023: a mayday after a stair
+  roof collapses on two companies opens a second emergency inside a search
+  for a trapped resident, and an independent review finds an unorganized
+  rescue effort without finding that it changed the outcome
 version: 2
 history:
 - version: 2
@@ -38,7 +43,7 @@ reported_in:
 ---
 <!-- inactive-ok-file: CASE-203 — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->
 
-# CASE-135: The Brookhollow Apartments fire, Wichita, 2023: a mayday after a stair roof collapses on two companies opens a second emergency inside a search for a trapped resident, and an independent review finds an unorganized rescue effort without finding that it changed the outcome
+# CASE-135: The Brookhollow Apartments fire, Wichita
 
 ## The case
 

@@ -3,7 +3,13 @@ number: 201
 status: Proposed
 formerly:
 - CASE-tmp0s6cg
-title: 'Fixed material, variable usable capacity: one sheet of area 8 folded into k accordion panels fits a stowage footprint of 2 only when k is at least 4, supplies the required functional area of 6 only when unfolded, and carries the required load only when k is at most 8, so packing, deployment and load capacity select different designs from the same inventory'
+title: 'Fixed material, variable usable capacity'
+statement: >-
+  Fixed material, variable usable capacity: one sheet of area 8 folded into
+  k accordion panels fits a stowage footprint of 2 only when k is at least
+  4, supplies the required functional area of 6 only when unfolded, and
+  carries the required load only when k is at most 8, so packing, deployment
+  and load capacity select different designs from the same inventory
 version: 1
 standing: fictional
 kind: construction
@@ -36,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2025 — Unfetched; the 2026 study A cites for the packing–load trade-off, unread and its identification unconfirmed, named only as A's citation -->
 
-# CASE-201: Fixed material, variable usable capacity: one sheet of area 8 folded into k accordion panels fits a stowage footprint of 2 only when k is at least 4, supplies the required functional area of 6 only when unfolded, and carries the required load only when k is at most 8, so packing, deployment and load capacity select different designs from the same inventory
+# CASE-201: Fixed material, variable usable capacity
 
 ## The case
 

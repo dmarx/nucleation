@@ -161,7 +161,7 @@ No status changes.
 
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
-<!-- inactive-ok-block: ADR-144 CLAIM-1099 — Proposed; the work and the fill this note names -->
+<!-- inactive-ok-block: ADR-144 — Proposed; the work and the fill this note names -->
 Extension. In A48 §9.3 of the owner's manuscript ([ADR-144](../decisions.d/ADR-144.md)), this
 claim's zero-slack limit is what decides whether a redesigned transition can
 replace a reserve: only a redesign whose threshold is at most the holding

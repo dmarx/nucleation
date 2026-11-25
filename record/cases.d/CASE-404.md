@@ -3,7 +3,9 @@ number: 404
 status: Proposed
 formerly:
 - CASE-tmphp4pt
-title: 'The crossed intervention run on a small conventionally trained network'
+title: 'Crossed intervention on a small network'
+statement: >-
+  The crossed intervention run on a small conventionally trained network
 version: 1
 history:
 - version: 1
@@ -49,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-367 CLAIM-1030 CLAIM-1011 CLAIM-1138 CLAIM-1199 — Proposed or new; the claim the run tests, and the claims filed by the lead run of 2026-11-23 -->
 
-# CASE-404: The crossed intervention run on a small conventionally trained network
+# CASE-404: Crossed intervention on a small network
 
 ## What was done
 

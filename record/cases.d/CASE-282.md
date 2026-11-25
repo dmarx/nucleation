@@ -3,7 +3,16 @@ number: 282
 formerly:
 - CASE-tmp9vd9x
 status: Proposed
-title: 'The aquifer with privately owned recycling: two households each need four units of water service from an aquifer that sustains six units of extraction, so every pair of the three demands can be met and the three cannot; recycling that adds one unit of service each meets all three at three units of extraction apiece; with the recycler owned by one household, which can cut the other off and threatens to unless it yields voting authority, the physical conflict is solved and a dependence is turned into a claim to govern'
+title: 'The aquifer with private recycling'
+statement: >-
+  The aquifer with privately owned recycling: two households each need four
+  units of water service from an aquifer that sustains six units of
+  extraction, so every pair of the three demands can be met and the three
+  cannot; recycling that adds one unit of service each meets all three at
+  three units of extraction apiece; with the recycler owned by one
+  household, which can cut the other off and threatens to unless it yields
+  voting authority, the physical conflict is solved and a dependence is
+  turned into a claim to govern
 version: 2
 history:
 - version: 2
@@ -46,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-746 — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: CLAIM-690 CLAIM-682 CLAIM-669 — Proposed; the record's entries on control of the terms of a dependence -->
 
-# CASE-282: The aquifer with privately owned recycling: two households each need four units of water service from an aquifer that sustains six units of extraction, so every pair of the three demands can be met and the three cannot; recycling that adds one unit of service each meets all three at three units of extraction apiece; with the recycler owned by one household, which can cut the other off and threatens to unless it yields voting authority, the physical conflict is solved and a dependence is turned into a claim to govern
+# CASE-282: The aquifer with private recycling
 
 ## The case
 

@@ -3,7 +3,13 @@ number: 217
 status: Active
 formerly:
 - CASE-tmpj3cmd
-title: 'A four-state branching model of assembly, unassembled, productive nucleus, trap and folded, in which three designs with the same target yield 59.3, 76.2 and 29.6 %, and scaling every supply by the same factor leaves the yield unchanged only while the competing exits from each state have the same molecularity'
+title: 'Four-state branching model of assembly'
+statement: >-
+  A four-state branching model of assembly, unassembled, productive nucleus,
+  trap and folded, in which three designs with the same target yield 59.3,
+  76.2 and 29.6 %, and scaling every supply by the same factor leaves the
+  yield unchanged only while the competing exits from each state have the
+  same molecularity
 version: 2
 history:
 - version: 2
@@ -42,7 +48,7 @@ summary: >-
   the owner's call.
 ---
 
-# CASE-217: A four-state branching model of assembly, unassembled, productive nucleus, trap and folded, in which three designs with the same target yield 59.3, 76.2 and 29.6 %, and scaling every supply by the same factor leaves the yield unchanged only while the competing exits from each state have the same molecularity
+# CASE-217: Four-state branching model of assembly
 
 ## The case
 

@@ -3,7 +3,10 @@ number: 56
 status: Active
 formerly:
 - CASE-tmp25bmx
-title: 'J. B. Phillips''s "hearty handshake all round" for Paul''s "holy kiss", and Nida''s judgement that it keeps the greeting'
+title: 'Phillips''s "hearty handshake" for "holy kiss"'
+statement: >-
+  J. B. Phillips's "hearty handshake all round" for Paul's "holy kiss", and
+  Nida's judgement that it keeps the greeting
 version: 3
 history:
 - version: 2
@@ -47,7 +50,7 @@ reported_in:
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: LIT-791 — Unavailable; Nida, unread here, cited through Marlowe's transcription and Munday, and not leaned on beyond the quoted page -->
 
-# CASE-056: J. B. Phillips's "hearty handshake all round" for Paul's "holy kiss", and Nida's judgement that it keeps the greeting
+# CASE-056: Phillips's "hearty handshake" for "holy kiss"
 
 Found on 2026-10-10 by a search the owner asked for: a documented case for
 the half of [CLAIM-061](../claims.d/CLAIM-061.md) that [CLAIM-053](../claims.d/CLAIM-053.md) and [CLAIM-229](../claims.d/CLAIM-229.md) record as having

@@ -3,7 +3,10 @@ number: 69
 status: Active
 formerly:
 - CASE-tmpq8ynx
-title: 'Labov''s recorded sounding sessions: ritual insult turning personal, with the same exchange shape and a different act'
+title: 'Labov''s recorded sounding sessions'
+statement: >-
+  Labov's recorded sounding sessions: ritual insult turning personal, with
+  the same exchange shape and a different act
 version: 2
 history:
 - version: 2
@@ -39,7 +42,7 @@ illustrates:
 <!-- inactive-ok-file: CLAIM-221 — Proposed; the objection to CLAIM-151 this case bears on, open -->
 <!-- inactive-ok-file: CLAIM-136 — Proposed; cited for the do(S)/do(I) distinction and as the thesis CLAIM-138 presses, not as settled -->
 
-# CASE-069: Labov's recorded sounding sessions: ritual insult turning personal, with the same exchange shape and a different act
+# CASE-069: Labov's recorded sounding sessions
 
 Found on 2026-10-10 by a search the owner asked for: a documented case in
 which the speaker's intention is held fixed, or nearly, and the act verdicts

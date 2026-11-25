@@ -1,16 +1,28 @@
 ---
 number: 1000
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp0v3wu
 title: 'In two coupled meaning–influence institutions, each stable alone, with nonnegative channels by which each one''s meaning moves the other''s evidence or conferral, the symmetric state of the pair is unstable exactly when the round-trip gain exceeds one, which for the built institutions is (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P with Δ_i each institution''s own margin; the meaning rates and the conferral memories cancel, and each institution''s inner loop enters only through its margin'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant, carrying out LEAD-015, from the
     executed study CASE-401.
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("promote the
+    ten", under the dialectic regime; ADR-057): its premise CLAIM-947 is
+    Active, no objection targets it, and nothing meets its defeated_if.
+    The derivation is in CASE-401, whose code
+    (scratch/studies/lead-015/) was rerun on 2026-11-24 by a session
+    other than the filer's: the 14 tests pass and every results file
+    reproduces except timings, including the 1,802 of 1,802 random
+    parameter sets on which the condition agrees with the nonlinear map.
+    CASE-401 is promoted in the same pass.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -51,7 +63,6 @@ summary: >-
   ([CASE-401](../cases.d/CASE-401.md)). The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-401 CLAIM-1202 CLAIM-1021 — new; the study this claim rests on and its companions, filed in the same batch -->
 
 # CLAIM-1000: In two coupled meaning–influence institutions, each stable alone, with nonnegative channels by which each one's meaning moves the other's evidence or conferral, the symmetric state of the pair is unstable exactly when the round-trip gain exceeds one, which for the built institutions is (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P with Δ_i each institution's own margin; the meaning rates and the conferral memories cancel, and each institution's inner loop enters only through its margin
 

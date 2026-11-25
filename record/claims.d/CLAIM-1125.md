@@ -57,8 +57,6 @@ works:
 - governance-of-possibility
 ---
 
-<!-- inactive-ok-file: CLAIM-1185 — Proposed; cited in this filing of 2026-11-23 -->
-
 # CLAIM-1125: A protected beacon's miscalibration is unidentifiable from inside the sensor network by a symmetry: a world whose beacon reports z* + d and a world whose beacon is correct, with the target, the beacon placements and every sensor bias shifted (z + d, z* + d, b_i - A_i d), give every report identically, so no revision that uses only the network's reports can find d, and correcting it needs evidence that breaks the symmetry from outside
 
 ## The identity

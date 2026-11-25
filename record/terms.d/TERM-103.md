@@ -3,7 +3,11 @@ number: 103
 status: Active
 formerly:
 - TERM-tmplu4ih
-title: 'conferral, between an organization''s processes: any effect one process has on another''s share of future influence, of which an explicit vote is one case; negative conferral withdraws influence'
+title: 'conferral'
+statement: >-
+  conferral, between an organization's processes: any effect one process has
+  on another's share of future influence, of which an explicit vote is one
+  case; negative conferral withdraws influence
 version: 1
 tags:
 - self-governance
@@ -23,7 +27,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070; named as the former word for conferral -->
 <!-- inactive-ok-file: CLAIM-285 CLAIM-367 — Proposed or new; cited as open -->
 
-# TERM-103: conferral, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case; negative conferral withdraws influence
+# TERM-103: conferral
 
 ## Definition
 

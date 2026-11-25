@@ -3,7 +3,14 @@ number: 292
 status: Proposed
 formerly:
 - CASE-tmpnrxpi
-title: 'Tempe, Arizona, 18 March 2018: an Uber test vehicle whose developmental automated driving system relied on its sole operator to brake killed a pedestrian while the operator streamed video; the NTSB made her distraction the probable cause and the company''s safety culture, which had removed the second operator and left automation complacency unaddressed, a contributing one'
+title: 'Uber automated-vehicle crash, Tempe 2018'
+statement: >-
+  Tempe, Arizona, 18 March 2018: an Uber test vehicle whose developmental
+  automated driving system relied on its sole operator to brake killed a
+  pedestrian while the operator streamed video; the NTSB made her
+  distraction the probable cause and the company's safety culture, which had
+  removed the second operator and left automation complacency unaddressed, a
+  contributing one
 version: 5
 history:
 - version: 2
@@ -64,7 +71,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-707 — new, Proposed or Open; the report, its reading, the earlier account and the entries this bears on -->
 
-# CASE-292: Tempe, Arizona, 18 March 2018: an Uber test vehicle whose developmental automated driving system relied on its sole operator to brake killed a pedestrian while the operator streamed video; the NTSB made her distraction the probable cause and the company's safety culture, which had removed the second operator and left automation complacency unaddressed, a contributing one
+# CASE-292: Uber automated-vehicle crash, Tempe 2018
 
 ## The case
 

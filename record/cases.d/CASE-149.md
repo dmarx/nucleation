@@ -3,7 +3,11 @@ number: 149
 status: Active
 formerly:
 - CASE-tmpg5qs0
-title: 'Dancing to the same or different music, seen or unseen: in dyads facing each other, shared music and visual contact were removed independently, and each synchronized different movements of the pair'
+title: 'Dancing to the same or different music'
+statement: >-
+  Dancing to the same or different music, seen or unseen: in dyads facing
+  each other, shared music and visual contact were removed independently,
+  and each synchronized different movements of the pair
 version: 1
 standing: documented
 kind: reported-study
@@ -29,7 +33,7 @@ reported_in:
 ---
 <!-- inactive-ok-file: CLAIM-167 CLAIM-157 — Proposed or Open; the questions, proposed study and claims it bears on, cited as open -->
 
-# CASE-149: Dancing to the same or different music, seen or unseen: in dyads facing each other, shared music and visual contact were removed independently, and each synchronized different movements of the pair
+# CASE-149: Dancing to the same or different music
 
 ## The case
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpk5av7
 title: 'Viability does not establish what ought to persist'
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-11-11'
@@ -21,6 +21,18 @@ history:
     manuscript from the exchange "Explain First Contact RL": A48 §12 and
     §14 use it: viability does not fix what ought to persist. No other
     change.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Programme (four distinctions), Article 1 §6
+    (ADR-tmpenzcn). No change of title or status.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 11. No other
+    change.
 role: disclaimed
 warrant: interpretive
 tags:
@@ -30,8 +42,10 @@ date: '2026-10-04'
 line:
 - organizational-normativity
 works:
+- atlas
 - governance-of-possibility
 - organization-of-will
+- governance-of-becoming
 summary: >-
   Sections 6.10 and 7.3: "An unjust institution may be highly viable."
   Viability licenses conditional functional judgment only.
@@ -139,3 +153,25 @@ agents. Analogy only; no edge. Reading (c) of the constitutivism test,
 [CLAIM-988](CLAIM-988.md), `rests_on` this claim: because the record already keeps
 viability apart from what ought to persist, Leffler's choice point closes
 a route the record did not take. No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A38 §3 and A40 §4.2
+
+A38 §3 cites this claim, aptly, for "The selection pressures responsible
+for institutional persistence need not track the standards governing
+institutional legitimacy", and applies it to conservatism. A38 lists seven
+mechanisms of persistence (productive accommodation, internalization,
+dependency, enforcement, exploitation, agnotology, defeated standing), and
+"The fact of persistence cannot identify which of these mechanisms
+predominates." A40 §4.2: "Persistence is evidence that an arrangement has
+been reproducible. It is not sufficient evidence of what makes its
+reproduction possible or whether its reproduction is justified." The
+extension, that structure kept is not value kept and that inaction
+transforms, is filed as [CLAIM-tmpa8tdg](CLAIM-tmpa8tdg.md); the application to conservatism is
+[CLAIM-tmplc0vv](CLAIM-tmplc0vv.md), with the objection [CLAIM-tmpdzcj6](CLAIM-tmpdzcj6.md), that conservatism's
+theorists hold a presumption under uncertainty and not the inference this
+claim disclaims. Bearing: an application; the claim is unchanged. The
+wording of this note is the assistant's (Claude, in this session),
+reporting A's (ChatGPT's) text; adopting what it reports is the owner's
+call.
+
+<!-- inactive-ok-file: CLAIM-tmpa8tdg CLAIM-tmplc0vv CLAIM-tmpdzcj6 — Proposed; filed from the exchange 'Memes, Contracts, and Systemic Normativity' and cited in its note of 2026-11-24, whatever their standing -->

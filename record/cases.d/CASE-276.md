@@ -3,7 +3,13 @@ number: 276
 status: Active
 formerly:
 - CASE-tmp4gbo6
-title: 'Third-country removals, 2025–2026: a district court held that people must get meaningful notice and a meaningful opportunity to raise a fear of torture before removal to a country not named in their orders, and the Supreme Court twice stayed that relief pending review, so removals continued while the right to be heard first was litigated'
+title: 'Third-country removals, 2025–2026'
+statement: >-
+  Third-country removals, 2025–2026: a district court held that people must
+  get meaningful notice and a meaningful opportunity to raise a fear of
+  torture before removal to a country not named in their orders, and the
+  Supreme Court twice stayed that relief pending review, so removals
+  continued while the right to be heard first was litigated
 version: 1
 standing: documented
 kind: specimen
@@ -33,7 +39,7 @@ summary: >-
   intent.
 ---
 
-# CASE-276: Third-country removals, 2025–2026: a district court held that people must get meaningful notice and a meaningful opportunity to raise a fear of torture before removal to a country not named in their orders, and the Supreme Court twice stayed that relief pending review, so removals continued while the right to be heard first was litigated
+# CASE-276: Third-country removals, 2025–2026
 
 ## The case
 

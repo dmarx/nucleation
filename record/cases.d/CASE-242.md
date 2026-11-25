@@ -3,7 +3,12 @@ number: 242
 status: Proposed
 formerly:
 - CASE-tmpl4kyp
-title: 'A fire-alarm chain probed at four points: one silent test detects a fault without locating it, four probes locate any single fault, and matched recovery rates hide different repair organizations until the outside service is withdrawn'
+title: 'Fire-alarm chain probed at four points'
+statement: >-
+  A fire-alarm chain probed at four points: one silent test detects a fault
+  without locating it, four probes locate any single fault, and matched
+  recovery rates hide different repair organizations until the outside
+  service is withdrawn
 version: 3
 history:
 - version: 2
@@ -57,7 +62,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-243 CASE-240 CLAIM-649 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-163 CASE-202 THEORY-1092 — Proposed; the held cases and reading the construction restates, with their standing -->
 
-# CASE-242: A fire-alarm chain probed at four points: one silent test detects a fault without locating it, four probes locate any single fault, and matched recovery rates hide different repair organizations until the outside service is withdrawn
+# CASE-242: Fire-alarm chain probed at four points
 
 ## The construction
 

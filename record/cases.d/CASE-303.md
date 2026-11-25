@@ -3,7 +3,9 @@ number: 303
 status: Proposed
 formerly:
 - CASE-tmpi5vfh
-title: 'Cascade sizes of a Poisson branching process below and at criticality'
+title: 'Cascade sizes of a Poisson branching process'
+statement: >-
+  Cascade sizes of a Poisson branching process below and at criticality
 version: 1
 standing: stipulated
 kind: construction
@@ -33,7 +35,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-2168 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
 
-# CASE-303: Cascade sizes of a Poisson branching process below and at criticality
+# CASE-303: Cascade sizes of a Poisson branching process
 
 ## The model
 

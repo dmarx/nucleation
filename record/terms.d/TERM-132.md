@@ -3,7 +3,9 @@ number: 132
 status: Proposed
 formerly:
 - TERM-tmp7i7ed
-title: 'local degrees of freedom (of an entry)'
+title: 'local degrees of freedom'
+statement: >-
+  local degrees of freedom (of an entry)
 version: 3
 history:
 - version: 2
@@ -43,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2044 CLAIM-189 — Proposed; the partial-contraction reading the term's "conserved part" is fixed against, and the claim on legitimate change -->
 <!-- inactive-ok-file: CLAIM-772 CLAIM-779 CLAIM-778 — Proposed or Deferred; filed in this contribution of 2026-11-20 -->
 
-# TERM-132: local degrees of freedom (of an entry)
+# TERM-132: local degrees of freedom
 
 ## Definition
 

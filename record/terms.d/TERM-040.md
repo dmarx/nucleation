@@ -3,7 +3,11 @@ number: 40
 status: Active
 formerly:
 - TERM-tmp7encb
-title: 'communicative kind, as a repeatable relational organization that numerically distinct events realize, distinct from a token and from a structural position'
+title: 'communicative kind'
+statement: >-
+  communicative kind, as a repeatable relational organization that
+  numerically distinct events realize, distinct from a token and from a
+  structural position
 version: 2
 history:
 - version: 2
@@ -35,7 +39,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-255 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-217 CLAIM-206 — Proposed; the record's reply of 2026-10-10 that this version points to, and the objection that prompted it, both open -->
 
-# TERM-040: communicative kind, as a repeatable relational organization that numerically distinct events realize, distinct from a token and from a structural position
+# TERM-040: communicative kind
 
 ## Definition
 

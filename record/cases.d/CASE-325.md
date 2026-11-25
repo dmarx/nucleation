@@ -3,7 +3,18 @@ number: 325
 status: Active
 formerly:
 - CASE-tmpokq28
-title: 'Northstar modelled twice in a simulation over twenty seeds, once by control models that see the arrangement of authority only as an input and once by a will-organization whose relations of precedence, jurisdiction, suspension and override decide which regime becomes effective: where the case is as stipulated the will-organization wins by 10 to 71 nats beyond its Occam cost and alone predicts combined changes of authority never seen together, a gap more data does not close; it loses heavily where authority is idle or idiosyncratic, and it wins the training evidence even where a relation composes otherwise than it says, which only the unseen combinations expose'
+title: 'Northstar as a will-organization, simulated'
+statement: >-
+  Northstar modelled twice in a simulation over twenty seeds, once by
+  control models that see the arrangement of authority only as an input and
+  once by a will-organization whose relations of precedence, jurisdiction,
+  suspension and override decide which regime becomes effective: where the
+  case is as stipulated the will-organization wins by 10 to 71 nats beyond
+  its Occam cost and alone predicts combined changes of authority never seen
+  together, a gap more data does not close; it loses heavily where authority
+  is idle or idiosyncratic, and it wins the training evidence even where a
+  relation composes otherwise than it says, which only the unseen
+  combinations expose
 version: 1
 history:
 - version: 1
@@ -46,7 +57,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-166 — Proposed; the earlier Northstar simulation, reported and not reproduced, set beside this one -->
 <!-- inactive-ok-file: CLAIM-889 CLAIM-890 — new; the finding and the reading filed from this study -->
 
-# CASE-325: Northstar modelled twice in a simulation over twenty seeds, once by control models that see the arrangement of authority only as an input and once by a will-organization whose relations of precedence, jurisdiction, suspension and override decide which regime becomes effective: where the case is as stipulated the will-organization wins by 10 to 71 nats beyond its Occam cost and alone predicts combined changes of authority never seen together, a gap more data does not close; it loses heavily where authority is idle or idiosyncratic, and it wins the training evidence even where a relation composes otherwise than it says, which only the unseen combinations expose
+# CASE-325: Northstar as a will-organization, simulated
 
 ## The study
 
@@ -193,3 +204,7 @@ seeds.
   standard ones. A gate with products of authority bits can represent the
   composition. It cannot learn those products from single changes without
   a prior that is the relations again.
+
+## Note of 2026-11-25: rerun by a session other than the filer's
+
+Rerun on 2026-11-25 by the assistant, at the owner's word ("go ahead with the reruns"), from a copy of `scratch/studies/lead-089/` as on this branch, with its stored `results/` set aside and every file regenerated from nothing as its README directs (`study.py`, `study.py c4`, `asymptote.py`, `analyze.py`; scipy 1.18.1 and numpy 2.5.5 installed for the run). The 8 tests in `test_model.py` pass. `runs.jsonl` and `runs_c4.jsonl` agree with the stored ones in all 320 items each except the `seconds` timings; `summary.json` and `asymptote.json` are byte for byte the stored ones; the printed table is the stored `summary_table.txt` byte for byte. Every figure above was compared and matches: the ten rows of the results table; WO ahead of the best control-only model on 80 of 80 governed seeds, by 10.0 to 70.7 nats (the title's 10 to 71), with C3 the runner-up on 72; WO losing on all 80 idle and all 80 idiosyncratic seeds, by 0.9 to 2,550.8; the governed regrets on the unseen combinations, WO at most 0.015 and the gates 0.032 to 0.264; at 10⁶ episodes, C2 0.082 to 0.106, C3 0.022 to 0.034, C4 0.009 to 0.018 and WO 0.0003 to 0.0009 over five seeds; in the interacting world WO ahead in training on every seed by 10.3 to 81.6 nats and its mean regret 0.26 to 0.32 against C2's 0.16 to 0.20. Nothing failed to reproduce. The case was Active from its filing without a recorded check; it now has one. The note is the assistant's (Claude, in this session). No status change.

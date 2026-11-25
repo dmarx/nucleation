@@ -6,7 +6,12 @@ formerly:
 complements:
 - TERM-026
 - TERM-072
-title: 'interpretation, as a context-dependent determination of significance: a transformation that differentiates information and establishes or revises its consequences within an operative organization, defined without experience'
+title: 'interpretation'
+statement: >-
+  interpretation, as a context-dependent determination of significance: a
+  transformation that differentiates information and establishes or revises
+  its consequences within an operative organization, defined without
+  experience
 version: 4
 history:
 - version: 2
@@ -46,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 
-# TERM-073: interpretation, as a context-dependent determination of significance: a transformation that differentiates information and establishes or revises its consequences within an operative organization, defined without experience
+# TERM-073: interpretation
 
 ## Definition
 

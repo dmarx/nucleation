@@ -3,7 +3,13 @@ number: 85
 status: Active
 formerly:
 - TERM-tmpsuzzj
-title: 'correctability, of an institutional arrangement for a corrective objective: the chance that the arrangement, starting from the description of the problem it actually has, finds, authorizes, coordinates and carries out a plan achieving the objective before the deadline and within its resources'
+title: 'correctability'
+statement: >-
+  correctability, of an institutional arrangement for a corrective
+  objective: the chance that the arrangement, starting from the description
+  of the problem it actually has, finds, authorizes, coordinates and carries
+  out a plan achieving the objective before the deadline and within its
+  resources
 version: 4
 history:
 - version: 2
@@ -56,7 +62,7 @@ summary: >-
 
 ---
 
-# TERM-085: correctability, of an institutional arrangement for a corrective objective: the chance that the arrangement, starting from the description of the problem it actually has, finds, authorizes, coordinates and carries out a plan achieving the objective before the deadline and within its resources
+# TERM-085: correctability
 
 ## Definition
 
@@ -187,5 +193,5 @@ Shue, Basic Rights, skimmed ([NOTE-2076](../notes.d/NOTE-2076.md), [THEORY-1990]
 
 ## Note of 2026-11-23: the depth of a search, modelled
 
-<!-- inactive-ok-block: CLAIM-1008 CLAIM-1203 CASE-386 CLAIM-1157 — new; the entries filed from "Explain First Contact RL", U27 to A54 -->
+<!-- inactive-ok-block: CASE-386 — new; the entries filed from "Explain First Contact RL", U27 to A54 -->
 A52 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) cites this term as "Explicitly established" for the proposition that discovery, verification, coordination and execution can compete for a common deadline, which the definition's "overlap and compete" does. A52 §3 models the term's "further search can have negative value": with p(k) the chance an inquiry of depth k finds a plan, t(k) its time and F the chance of carrying the plan out in the time left, the best depth meets p′/p = t′F′/F ([CLAIM-1008](../claims.d/CLAIM-1008.md)). When that depth rises with the deadline, and when a longer deadline makes a shallower search best, is the assistant's [CLAIM-1203](../claims.d/CLAIM-1203.md). The authorization stage, a proponent justifying an idea to a manager inside the window, is [CASE-386](../cases.d/CASE-386.md). That a shared deadline is not a shared pool of resources is [CLAIM-1157](../claims.d/CLAIM-1157.md). No status change.

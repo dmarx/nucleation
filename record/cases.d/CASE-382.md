@@ -3,7 +3,14 @@ number: 382
 status: Proposed
 formerly:
 - CASE-tmprt0hl
-title: 'Fitting the expected-value-of-control effort-cost model to 122 participants'' cognitive-effort-discounting choices: a softmax over net value r − c(n) recovers an increasing cost of control and beats a reward-only model, so for about three-quarters of agents the control intensity elected falls as its cost rises, while a need-for-cognition minority seek effort'
+title: 'Effort-cost model of control'
+statement: >-
+  Fitting the expected-value-of-control effort-cost model to 122
+  participants' cognitive-effort-discounting choices: a softmax over net
+  value r − c(n) recovers an increasing cost of control and beats a
+  reward-only model, so for about three-quarters of agents the control
+  intensity elected falls as its cost rises, while a need-for-cognition
+  minority seek effort
 version: 1
 standing: documented
 kind: executed-study
@@ -24,7 +31,7 @@ illustrates:
 <!-- inactive-ok-file: CLAIM-358 CLAIM-162 THEORY-070 — Proposed; the claims this study illustrates and the EVC account it fits, all open -->
 <!-- inactive-ok-file: CLAIM-981 — new in this batch; the finding this study grounds -->
 
-# CASE-382: Fitting the expected-value-of-control effort-cost model to 122 participants' cognitive-effort-discounting choices: a softmax over net value r − c(n) recovers an increasing cost of control and beats a reward-only model, so for about three-quarters of agents the control intensity elected falls as its cost rises, while a need-for-cognition minority seek effort
+# CASE-382: Effort-cost model of control
 
 ## Why this study
 
@@ -127,3 +134,7 @@ finding is stated as [CLAIM-981](../claims.d/CLAIM-981.md), which this study gro
 - **Not amortised supervisory cost.** [CLAIM-358](../claims.d/CLAIM-358.md)'s amortization is over
   recurring conflicts; this is single-shot effort pricing. It supplies the
   per-encounter cost that claim's accounting presupposes, not the recurrence.
+
+## Note of 2026-11-25: partly rerun, and what holds it back
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). The 6 tests in `scratch/studies/lead-128/test_evc_fit.py` (parameter recovery and model comparison on synthetic data) pass, run with python3 -I. The fit itself was not rerun: its data, the COG-ED choices of OSF project vnj8x, were fetched by the filer to a scratchpad and not committed, and no copy remains on this machine. Fetching them again is a call to an outside service, which under the dialectic regime waits for the owner; it was not made. So none of the figures under "What it found" was recomputed. What holds it back: the rerun of `evc_fit.py` on a fresh download of the 122 `*_ED.csv` files (README, steps 1 to 3). The note is the assistant's (Claude, in this session). No status change.

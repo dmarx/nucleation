@@ -3,7 +3,10 @@ number: 64
 status: Active
 formerly:
 - CASE-tmpgdy8a
-title: 'Lindsey Stone''s Arlington photograph: one post, taken by friends as a tasteless in-joke and by strangers as contempt'
+title: 'Lindsey Stone''s Arlington photograph'
+statement: >-
+  Lindsey Stone's Arlington photograph: one post, taken by friends as a
+  tasteless in-joke and by strangers as contempt
 version: 1
 standing: documented
 kind: specimen
@@ -27,7 +30,7 @@ illustrates:
 <!-- inactive-ok-file: CLAIM-224 CLAIM-221 — Proposed; the objection this case illustrates, and the intention-based objection whose reply it meets, open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-091 — Proposed; the thesis the objection is to, the do(S)/do(I) distinction, and the model that holds the audience fixed, cited as open -->
 
-# CASE-064: Lindsey Stone's Arlington photograph: one post, taken by friends as a tasteless in-joke and by strangers as contempt
+# CASE-064: Lindsey Stone's Arlington photograph
 
 Found on 2026-10-10 by a search the owner asked for: a documented case of a
 change of audience without translation, with uptake documented in both

@@ -3,7 +3,10 @@ number: 183
 status: Active
 formerly:
 - CASE-tmp4hpm7
-title: 'The anchoring measures: inbound references per code and turns per filed entry, counted in the record''s own grammar'
+title: 'The anchoring measures'
+statement: >-
+  The anchoring measures: inbound references per code and turns per filed
+  entry, counted in the record's own grammar
 version: 2
 history:
 - version: 2
@@ -34,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-190 — Superseded; the claim about these measures, moved to an ARG under ADR-061 -->
 <!-- inactive-ok-file: ARG-028 — Proposed; the argument from these measures, open -->
 
-# CASE-183: The anchoring measures: inbound references per code and turns per filed entry, counted in the record's own grammar
+# CASE-183: The anchoring measures
 
 ## The case
 

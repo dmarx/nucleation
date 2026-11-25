@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpygqjz
 title: 'Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and where reuse can be forecast, recurrence is evidence of reuse, not the criterion'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-18'
@@ -55,6 +55,12 @@ history:
     owner's manuscript from the exchange "Topological protection
     explained": A43 §3.1 states its proposition in general form, with
     §3.3 the costs of keeping. No other change.
+- version: 6
+  date: '2026-11-25'
+  note: >-
+    Joins the work luria-beyond-software (ADR-tmp85hdc): Article 2 of A45
+    in the exchange "Hyper article interpretation" states its proposition
+    without citing it, in §7. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -69,6 +75,7 @@ tags:
 date: '2026-10-15'
 line: nucleating-argument
 works:
+- luria-beyond-software
 - cost-structure-of-possibility
 answers:
 - QUESTION-489
@@ -154,7 +161,7 @@ No status change.
 An analogy ([NOTE-2141](../notes.d/NOTE-2141.md)): Howard and Ruder's pretraining "only needs to be performed once" and serves many tasks, stored work repaid by reuse, though they do no accounting.
 
 ## Note of 2026-11-22: a general model this claim is a case of
-<!-- inactive-ok-file: CASE-326 CLAIM-891 — new; filed by LEAD-108's run of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-891 — new; filed by LEAD-108's run of 2026-11-22 -->
 
 [LEAD-108](../leads.d/LEAD-108.md)'s cost model ([CASE-326](../cases.d/CASE-326.md)) reduces to this claim's inequality,
 and to [CASE-088](../cases.d/CASE-088.md)'s 45 against 34, when predictability is 1, staleness,
@@ -174,3 +181,19 @@ pay to make a proposal legible steers which questions an institution
 pursues. It is filed as [CLAIM-1117](CLAIM-1117.md), in A's voice, on the owner's U29
 ([CLAIM-1065](CLAIM-1065.md)). No status change. The note is the assistant's (Claude, in
 this session); adopting it is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A34 §7, a miscitation
+
+A34 §7 gives an amortization condition for automating a manual recovery,
+F + TU + nρ < nc (construction F, upkeep U per period over T periods, ρ
+per automated invocation against c per manual one), and says: "This is
+directly captured by Nucleation's CLAIM-303, [CLAIM-569](CLAIM-569.md) and [CLAIM-761](CLAIM-761.md)." The
+condition has this claim's form, work paid now against work saved later,
+but this claim is about filing an argument in the record, not about
+automation; [CLAIM-569](CLAIM-569.md) (construction, maintenance and transition costs)
+and [CLAIM-761](CLAIM-761.md) (a stabilized constraint as stored work) are the entries
+that state it in general. "Directly captured" overstates this claim's
+scope. A34's next sentences, that automation "can also introduce new
+dependencies, obscure underlying failure mechanisms and reduce human
+recovery competence", are the costs the note of 2026-11-22 on this claim
+lists as staleness, erosion and spill. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

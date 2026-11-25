@@ -3,7 +3,12 @@ number: 99
 status: Active
 formerly:
 - CASE-tmp8tn9v
-title: 'The two-hypothesis coupled meaning–influence model linearized at its symmetric state: a meaning bias m and an authority bias a, each stable alone, coupled by authority shaping interpretation (β) and interpretation shaping conferral (γ)'
+title: 'Coupled model linearized at its symmetric state'
+statement: >-
+  The two-hypothesis coupled meaning–influence model linearized at its
+  symmetric state: a meaning bias m and an authority bias a, each stable
+  alone, coupled by authority shaping interpretation (β) and interpretation
+  shaping conferral (γ)
 version: 3
 history:
 - version: 2
@@ -44,7 +49,7 @@ bears_on:
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 
-# CASE-099: The two-hypothesis coupled meaning–influence model linearized at its symmetric state: a meaning bias m and an authority bias a, each stable alone, coupled by authority shaping interpretation (β) and interpretation shaping conferral (γ)
+# CASE-099: Coupled model linearized at its symmetric state
 
 ## The construction
 

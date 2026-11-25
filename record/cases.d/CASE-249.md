@@ -3,7 +3,13 @@ number: 249
 status: Proposed
 formerly:
 - CASE-tmpz1l6r
-title: 'A tolerance-indexed pass rate for a set of demands, the probability that one of k sampled courses of action of at most T steps meets every demand in the set within its tolerance, with a simulated institution whose internal evaluator sees only the demands it has discovered and an independent evaluator sees them all'
+title: 'Tolerance-indexed pass rate for demands'
+statement: >-
+  A tolerance-indexed pass rate for a set of demands, the probability that
+  one of k sampled courses of action of at most T steps meets every demand
+  in the set within its tolerance, with a simulated institution whose
+  internal evaluator sees only the demands it has discovered and an
+  independent evaluator sees them all
 version: 2
 history:
 - version: 2
@@ -43,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-555 — Proposed; the tolerance-indexed acceptance sets the construction uses -->
 
-# CASE-249: A tolerance-indexed pass rate for a set of demands, the probability that one of k sampled courses of action of at most T steps meets every demand in the set within its tolerance, with a simulated institution whose internal evaluator sees only the demands it has discovered and an independent evaluator sees them all
+# CASE-249: Tolerance-indexed pass rate for demands
 
 ## The case
 

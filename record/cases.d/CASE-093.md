@@ -3,8 +3,11 @@ number: 93
 status: Active
 formerly:
 - CASE-tmpziral
-title: 'Same marginal, different updates: two joint distributions over a hypothesis
-  and a condition that agree on the hypothesis and disagree on how to revise it'
+title: 'Same marginal, different updates'
+statement: >-
+  Same marginal, different updates: two joint distributions over a
+  hypothesis and a condition that agree on the hypothesis and disagree on
+  how to revise it
 version: 2
 history:
 - version: 2
@@ -24,7 +27,7 @@ summary: >-
   A6's first case, made exact at A8. It grounds [CLAIM-294](../claims.d/CLAIM-294.md).
 ---
 
-# CASE-093: Same marginal, different updates: two joint distributions over a hypothesis and a condition that agree on the hypothesis and disagree on how to revise it
+# CASE-093: Same marginal, different updates
 
 ## The case
 

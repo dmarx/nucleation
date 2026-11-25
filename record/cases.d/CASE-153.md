@@ -3,7 +3,15 @@ number: 153
 status: Active
 formerly:
 - CASE-tmpo8uso
-title: 'The self-protecting sentry: a hidden world, safe or dangerous, a sentry process that favours sheltering and can block inspection with weight κg, an investigator that favours inspecting, which reveals the state with 90% accuracy at a small cost; train in danger, switch to safety, and compare a Bayesian baseline, a habit baseline, the learned-authority model, an independent audit and a protected investigator, then cross governance feedback, evidence restriction and correction rights in a 2×2×2 design'
+title: 'The self-protecting sentry'
+statement: >-
+  The self-protecting sentry: a hidden world, safe or dangerous, a sentry
+  process that favours sheltering and can block inspection with weight κg,
+  an investigator that favours inspecting, which reveals the state with 90%
+  accuracy at a small cost; train in danger, switch to safety, and compare a
+  Bayesian baseline, a habit baseline, the learned-authority model, an
+  independent audit and a protected investigator, then cross governance
+  feedback, evidence restriction and correction rights in a 2×2×2 design
 version: 5
 history:
 - version: 2
@@ -52,7 +60,7 @@ summary: >-
   [CASE-092](CASE-092.md) and [CASE-099](CASE-099.md). At U18 the owner pointed to [CASE-124](CASE-124.md) as the better
   core, and the exchange moved there ([CASE-156](CASE-156.md)). Not run.
 ---
-<!-- inactive-ok-file: CASE-346 CLAIM-924 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date -->
+<!-- inactive-ok-file: CLAIM-924 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date -->
 <!-- inactive-ok-file: THEORY-2016 THEORY-2029 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
@@ -60,7 +68,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-445 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
-# CASE-153: The self-protecting sentry: a hidden world, safe or dangerous, a sentry process that favours sheltering and can block inspection with weight κg, an investigator that favours inspecting, which reveals the state with 90% accuracy at a small cost; train in danger, switch to safety, and compare a Bayesian baseline, a habit baseline, the learned-authority model, an independent audit and a protected investigator, then cross governance feedback, evidence restriction and correction rights in a 2×2×2 design
+# CASE-153: The self-protecting sentry
 
 ## The case
 

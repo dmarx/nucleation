@@ -3,7 +3,13 @@ number: 123
 status: Proposed
 formerly:
 - TERM-tmp169d8
-title: "exploitation, relative to a declared standard: one party's benefiting from an arrangement on terms that, as they bear on another party's labour, resources or standing, violate a standard declared with the judgment, so that with the arrangement, the beneficiary, the party exploited and the standard fixed the verdict can be false"
+title: 'exploitation'
+statement: >-
+  exploitation, relative to a declared standard: one party's benefiting from
+  an arrangement on terms that, as they bear on another party's labour,
+  resources or standing, violate a standard declared with the judgment, so
+  that with the arrangement, the beneficiary, the party exploited and the
+  standard fixed the verdict can be false
 version: 2
 history:
 - version: 2
@@ -41,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-669 CLAIM-670 TERM-083 CLAIM-624 CASE-256 — Proposed; the record's entries that use the word, or that this term relies on, cited with their standing -->
 <!-- inactive-ok-file: LIT-2264 — Deferred; Berenstain, the record's one work on exploitation by name, unread -->
 
-# TERM-123: exploitation, relative to a declared standard: one party's benefiting from an arrangement on terms that, as they bear on another party's labour, resources or standing, violate a standard declared with the judgment, so that with the arrangement, the beneficiary, the party exploited and the standard fixed the verdict can be false
+# TERM-123: exploitation
 
 ## Definition
 

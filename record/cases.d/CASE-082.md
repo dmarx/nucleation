@@ -3,9 +3,11 @@ number: 82
 status: Active
 formerly:
 - CASE-tmp390tl
-title: 'The sufficient posterior without its history: a Bayesian agent that keeps
-  only its current posterior updates as well as one that keeps everything, and cannot
-  say how it got there'
+title: 'The sufficient posterior without its history'
+statement: >-
+  The sufficient posterior without its history: a Bayesian agent that keeps
+  only its current posterior updates as well as one that keeps everything,
+  and cannot say how it got there
 version: 2
 history:
 - version: 2
@@ -28,7 +30,7 @@ summary: >-
   and [CASE-087](CASE-087.md) is that case.
 ---
 
-# CASE-082: The sufficient posterior without its history: a Bayesian agent that keeps only its current posterior updates as well as one that keeps everything, and cannot say how it got there
+# CASE-082: The sufficient posterior without its history
 
 ## The case
 

@@ -1,16 +1,40 @@
 ---
 number: 315
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpvnozj
-title: 'A readiness simulator run under spend-matching and under carry-over: a heavy rescue squad whose budget is set to the last month''s peak is lost for good in every run within months where it is sent only on confirmation, in a fifth of runs within nine years where it is sent provisionally to each of six reports a month, and never where it drills each month or the unspent budget rolls over'
-version: 1
+title: 'Readiness simulator: spend-matching, carry-over'
+statement: >-
+  A readiness simulator run under spend-matching and under carry-over: a
+  heavy rescue squad whose budget is set to the last month's peak is lost
+  for good in every run within months where it is sent only on confirmation,
+  in a fifth of runs within nine years where it is sent provisionally to
+  each of six reports a month, and never where it drills each month or the
+  unspent budget rolls over
+version: 3
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant, carrying out LEAD-080. The code,
     tests and outputs are under scratch/studies/lead-080/.
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the owner's word of 2026-11-24 ("promote the
+    ten", under the dialectic regime; ADR-057, status-review README
+    section 2): a CASE goes Active when it is demonstrated, and its run
+    has been checked by a session other than its filer's. Rerun on
+    2026-11-24 from a copy of scratch/studies/lead-080/: sim.py
+    regenerates results.json byte for byte and results.txt unchanged,
+    and the 13 tests of test_sim.py pass (the note of that date).
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Gains the line governing-possibility (atlas scope 14) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 standing: documented
 kind: executed-study
 tags:
@@ -27,6 +51,7 @@ line:
 - readiness
 - formal-apparatus
 - realizability
+- governing-possibility
 summary: >-
   [LEAD-080](../leads.d/LEAD-080.md) asked for A's simulator of [QUESTION-394](../questions.d/QUESTION-394.md) to be run twice, once
   with each month's budget set to the last month's peak spending
@@ -49,9 +74,9 @@ summary: >-
   model is the assistant's and its rates are invented. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-200 CLAIM-878 TERM-110 — Proposed or new; CASE-200's carry-over rule is run as filed, the claim is filed with this study, and TERM-110 is cited as CLAIM-577 cites it -->
+<!-- inactive-ok-file: CASE-200 TERM-110 — Proposed or new; CASE-200's carry-over rule is run as filed, the claim is filed with this study, and TERM-110 is cited as CLAIM-577 cites it -->
 
-# CASE-315: A readiness simulator run under spend-matching and under carry-over: a heavy rescue squad whose budget is set to the last month's peak is lost for good in every run within months where it is sent only on confirmation, in a fifth of runs within nine years where it is sent provisionally to each of six reports a month, and never where it drills each month or the unspent budget rolls over
+# CASE-315: Readiness simulator: spend-matching, carry-over
 
 ## The study
 
@@ -199,3 +224,7 @@ says.
 
 Code: `scratch/studies/lead-080/` (`sim.py`, `test_sim.py`, outputs in
 `results.txt` and `results.json`; how to rerun in its README).
+
+## Note of 2026-11-24: rerun, for the promotion review the owner proposed at U33 of the exchange 'Memes, Contracts, and Systemic Normativity'
+
+Rerun on 2026-11-24 by the assistant, from a copy of `scratch/studies/lead-080/` as on this branch: `sim.py` regenerates `results.json` byte for byte and `results.txt` unchanged, and the 13 tests of `test_sim.py` pass. A53 of the exchange names this case as a promotion candidate, a study "executed" and awaiting review. The run is now checked by a session other than the one that filed it, which the status-review README (section 2) asks of a demonstrated case; the ruling is the status review's ([LEAD-tmp0j28l](../leads.d/LEAD-tmp0j28l.md)). The note is the assistant's (Claude, in this session). No status change.

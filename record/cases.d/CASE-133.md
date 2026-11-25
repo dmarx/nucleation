@@ -3,8 +3,13 @@ number: 133
 status: Active
 formerly:
 - CASE-tmpd12oz
-title: 'American party realignment: each major party kept its name and organizational continuity across the twentieth century while its coalition and its stance on civil rights changed, and the change began in state parties, unions and constituencies before it reached national leaders'
-version: 2
+title: 'American party realignment'
+statement: >-
+  American party realignment: each major party kept its name and
+  organizational continuity across the twentieth century while its coalition
+  and its stance on civil rights changed, and the change began in state
+  parties, unions and constituencies before it reached national leaders
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -12,6 +17,13 @@ history:
     Note of 2026-10-22 added after the readings: Schickler and Taylor
     were not reached, Acharya et al. were read, and the start date the
     case gives is unconfirmed. The case is unchanged.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Gains the line organization-of-perspective (atlas scope 09) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -19,7 +31,9 @@ tags:
 - social-science
 - individuation
 date: '2026-10-22'
-line: distributed-agency
+line:
+- distributed-agency
+- organization-of-perspective
 illustrates:
 - CLAIM-417
 - CLAIM-329
@@ -37,7 +51,7 @@ reported_in:
 <!-- inactive-ok-file: LIT-1380 LIT-1381 — Unavailable; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-417 CLAIM-423 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CASE-133: American party realignment: each major party kept its name and organizational continuity across the twentieth century while its coalition and its stance on civil rights changed, and the change began in state parties, unions and constituencies before it reached national leaders
+# CASE-133: American party realignment
 
 ## The case
 

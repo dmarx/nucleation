@@ -107,8 +107,6 @@ an estimate it does not control.
   exceeds what the apparatus will admit.
 - Anything about beacons the network places itself; that arm was not run.
 
-<!-- inactive-ok-file: CLAIM-1185 — Proposed; filed 2026-11-23 -->
-
 ## Note of 2026-11-23: the beacon arm not run, now run
 
 This claim's beacons are placed by the world, so they are correct by

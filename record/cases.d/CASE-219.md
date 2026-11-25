@@ -3,7 +3,13 @@ number: 219
 status: Proposed
 formerly:
 - CASE-tmpu0s44
-title: 'A proposed stochastic assembly study: hold a target organization fixed, vary the relative availability and the strength or arrangement of components at fixed total expenditure, and measure feasibility, the probability and time of assembly, kinetic traps, early intermediates and persistence'
+title: 'Stochastic assembly at fixed expenditure'
+statement: >-
+  A proposed stochastic assembly study: hold a target organization fixed,
+  vary the relative availability and the strength or arrangement of
+  components at fixed total expenditure, and measure feasibility, the
+  probability and time of assembly, kinetic traps, early intermediates and
+  persistence
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -33,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-184 — Proposed or new; entries this study would test, cited as open -->
 
-# CASE-219: A proposed stochastic assembly study: hold a target organization fixed, vary the relative availability and the strength or arrangement of components at fixed total expenditure, and measure feasibility, the probability and time of assembly, kinetic traps, early intermediates and persistence
+# CASE-219: Stochastic assembly at fixed expenditure
 
 ## The case
 

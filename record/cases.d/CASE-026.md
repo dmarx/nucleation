@@ -3,7 +3,10 @@ number: 26
 status: Active
 formerly:
 - CASE-tmpr705l
-title: 'Modern slang that makes the insider sound like an outsider imitating the subculture'
+title: 'Insider slang read as imitation'
+statement: >-
+  Modern slang that makes the insider sound like an outsider imitating the
+  subculture
 version: 1
 standing: stipulated
 kind: thought-experiment
@@ -22,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-054 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CASE-026: Modern slang that makes the insider sound like an outsider imitating the subculture
+# CASE-026: Insider slang read as imitation
 
 ## The case
 

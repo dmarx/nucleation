@@ -277,7 +277,6 @@ intervention or dissent. A23 §8's "collective feasibility" against
 
 ## Note of 2026-11-22: the matched ordinary trajectories of a damaged organization
 
-<!-- inactive-ok-block: CASE-332 — new; the run of LEAD-048 -->
 [CASE-332](../cases.d/CASE-332.md), a reduced run of [CASE-186](../cases.d/CASE-186.md), illustrates this claim in a
 larger system. Under a sham injury, reciprocal, external and absent
 maintenance all corrected two regime changes in 63 or 64 of 64 matched

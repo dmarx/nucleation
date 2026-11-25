@@ -3,7 +3,13 @@ number: 342
 status: Proposed
 formerly:
 - CASE-tmp6mcpv
-title: 'The dependence rule tested on the record''s cases: on Northstar the operative trajectory leaves K while the regime and its criteria hold and a stipulated K sees nothing; on the fold, the tilt and the decaying capacity K comes from what the capacity maintains and its kernel from the capacity''s own dynamics'
+title: 'The dependence rule on the record''s cases'
+statement: >-
+  The dependence rule tested on the record's cases: on Northstar the
+  operative trajectory leaves K while the regime and its criteria hold and a
+  stipulated K sees nothing; on the fold, the tilt and the decaying capacity
+  K comes from what the capacity maintains and its kernel from the
+  capacity's own dynamics
 version: 1
 history:
 - version: 1
@@ -41,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-916 CLAIM-917 CLAIM-915 — new, filed in this pull request for LEAD-053 -->
 <!-- inactive-ok-file: CASE-227 CLAIM-367 — Proposed; cases the rule is tested on, cited as open -->
 
-# CASE-342: The dependence rule tested on the record's cases: on Northstar the operative trajectory leaves K while the regime and its criteria hold and a stipulated K sees nothing; on the fold, the tilt and the decaying capacity K comes from what the capacity maintains and its kernel from the capacity's own dynamics
+# CASE-342: The dependence rule on the record's cases
 
 ## The study
 

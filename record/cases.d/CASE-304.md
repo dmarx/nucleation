@@ -3,7 +3,13 @@ number: 304
 status: Proposed
 formerly:
 - CASE-tmpqo06u
-title: "A coordination mode kept by a capacity near its fold: in the HKB model whose coupling c is produced at αc²/(1 + c²) against unit decay, as α falls toward 2 the capacity's recovery rate at its stable level goes to zero while anti-phase coordination stays stable, its relaxation time near 1"
+title: 'HKB coordination mode near a capacity fold'
+statement: >-
+  A coordination mode kept by a capacity near its fold: in the HKB model
+  whose coupling c is produced at αc²/(1 + c²) against unit decay, as α
+  falls toward 2 the capacity's recovery rate at its stable level goes to
+  zero while anti-phase coordination stays stable, its relaxation time near
+  1
 version: 1
 standing: stipulated
 kind: construction
@@ -34,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-227 ARG-068 — Proposed, Rejected or new; the case this varies, the argument whose body held it, and the decision -->
 
-# CASE-304: A coordination mode kept by a capacity near its fold: in the HKB model whose coupling c is produced at αc²/(1 + c²) against unit decay, as α falls toward 2 the capacity's recovery rate at its stable level goes to zero while anti-phase coordination stays stable, its relaxation time near 1
+# CASE-304: HKB coordination mode near a capacity fold
 
 **The construction.** The relative phase follows φ̇ = −sin φ − c sin 2φ, and anti-phase (φ = π) is stable when c > ½, with relaxation time 1/(2c − 1) and escape barrier (2c − 1)²/(4c) ([CASE-227](CASE-227.md)). The capacity c is produced at αc²/(1 + c²) and decays at unit rate, on the slow scale ε: ċ = ε(αc²/(1 + c²) − c). For α > 2 it has two positive levels, c± = (α ± √(α² − 4))/2: c₋ unstable, the ignition threshold, and c₊ stable. Its eigenvalue at an equilibrium is ε(1 − c²)/(1 + c²).
 

@@ -3,7 +3,16 @@ number: 188
 status: Active
 formerly:
 - CASE-tmpm4ah0
-title: 'A proposed study: two agents keep the same long-term commitment and decide alike under ordinary conditions, one protecting it from irrelevant fluctuation while letting specified defeaters revise it, the other growing ever more efficient at enforcing it while evidence against it loses its way in; varying the environment, the legitimacy of the original commitment and what the evaluative mechanisms can see, to tell corrigible resolve from entrenchment without building the answer into the diagnostic or the score'
+title: 'Corrigible resolve versus entrenchment'
+statement: >-
+  A proposed study: two agents keep the same long-term commitment and decide
+  alike under ordinary conditions, one protecting it from irrelevant
+  fluctuation while letting specified defeaters revise it, the other growing
+  ever more efficient at enforcing it while evidence against it loses its
+  way in; varying the environment, the legitimacy of the original commitment
+  and what the evaluative mechanisms can see, to tell corrigible resolve
+  from entrenchment without building the answer into the diagnostic or the
+  score
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -32,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1751 THEORY-1763 THEORY-1765 THEORY-1777 THEORY-1791 THEORY-1795 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CASE-188: A proposed study: two agents keep the same long-term commitment and decide alike under ordinary conditions, one protecting it from irrelevant fluctuation while letting specified defeaters revise it, the other growing ever more efficient at enforcing it while evidence against it loses its way in; varying the environment, the legitimacy of the original commitment and what the evaluative mechanisms can see, to tell corrigible resolve from entrenchment without building the answer into the diagnostic or the score
+# CASE-188: Corrigible resolve versus entrenchment
 
 ## What it tests
 

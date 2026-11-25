@@ -3,7 +3,12 @@ number: 350
 status: Proposed
 formerly:
 - CASE-tmp5fglr
-title: 'Autoregressive integrated information with the exclusion rule, applied by one procedure to linear models of a modular mind and of a group of such minds, makes the whole the subject only when coupling across its seams outweighs its parts'' own integration, in both models alike'
+title: 'Integrated information for a mind and a group'
+statement: >-
+  Autoregressive integrated information with the exclusion rule, applied by
+  one procedure to linear models of a modular mind and of a group of such
+  minds, makes the whole the subject only when coupling across its seams
+  outweighs its parts' own integration, in both models alike
 version: 1
 history:
 - version: 1
@@ -50,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-043, CLAIM-927 — Proposed or new; the accounts the study tests and the claim it grounds -->
 
-# CASE-350: Autoregressive integrated information with the exclusion rule, applied by one procedure to linear models of a modular mind and of a group of such minds, makes the whole the subject only when coupling across its seams outweighs its parts' own integration, in both models alike
+# CASE-350: Integrated information for a mind and a group
 
 ## What was done
 

@@ -3,7 +3,9 @@ number: 44
 status: Active
 formerly:
 - TERM-tmp1913d
-title: 'agent (at a level of description)'
+title: 'agent (level of description)'
+statement: >-
+  agent (at a level of description)
 version: 4
 history:
 - version: 2
@@ -48,7 +50,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-157 CLAIM-174 — Proposed; the criteria this term is defined by, open -->
 <!-- inactive-ok-file: CLAIM-155 CLAIM-170 TERM-063 THEORY-071 THEORY-583 THEORY-801 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
-# TERM-044: agent (at a level of description)
+# TERM-044: agent (level of description)
 
 ## Definition
 

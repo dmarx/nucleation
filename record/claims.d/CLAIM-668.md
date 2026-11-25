@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpyp3u3
 title: 'A shared record can represent who contributed a proposition and what standing the record gives it, but not what any collaborator believes or that all of them know the current standing: access to the record is a precondition of coordinating on it, not evidence that they have'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition or uses
+    it as a step, in §9. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,6 +53,8 @@ summary: >-
   [ARG-097](../arguments.d/ARG-097.md) argues that Halpern and Moses's result reaches a record
   read asynchronously. The wording is A's; adopting it is the owner's
   call.
+works:
+- hyperarticles
 ---
 <!-- inactive-ok-file: TERM-119 ARG-097 THEORY-1732 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1735 THEORY-1777 THEORY-1779 THEORY-1783 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
@@ -130,3 +139,8 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
   half of the claim, in a shared graph.
 
 The claim is unchanged.
+
+## Note of 2026-11-25: the exchange "Hyper article interpretation", U17 and A35
+
+<!-- inactive-ok-block: CLAIM-tmp0ncly CLAIM-tmpqteki CLAIM-tmpmacjk — new; filed from the same exchange -->
+The owner's U17 makes this claim's first half the premise of a use in teaching: a record of a student's collaboration with an LLM that keeps "which contributions were theirs vs the LLM's" ([CLAIM-tmp0ncly](CLAIM-tmp0ncly.md)). A35 cites this claim for that, correctly: it "distinguishes what a shared record says from what any individual collaborator actually believes", and builds on it the point that provenance is a basis for questioning understanding, not proof of it ([CLAIM-tmpqteki](CLAIM-tmpqteki.md)). The use exposes a condition this claim leaves implicit: a record represents who contributed reliably only when its attributions are checked against an account the contributor did not write ([CLAIM-tmpmacjk](CLAIM-tmpmacjk.md)). The note is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.

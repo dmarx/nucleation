@@ -3,8 +3,13 @@ number: 138
 status: Active
 formerly:
 - CASE-tmpv2pte
-title: 'Challenger to Columbia: NASA corrected its launch decisions and its safety organization after 1986, and the Columbia board found in 2003 that related organizational failure mechanisms had recurred, while its lessons-learned system was little used in between'
-version: 3
+title: 'Challenger to Columbia'
+statement: >-
+  Challenger to Columbia: NASA corrected its launch decisions and its safety
+  organization after 1986, and the Columbia board found in 2003 that related
+  organizational failure mechanisms had recurred, while its lessons-learned
+  system was little used in between
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -21,6 +26,14 @@ history:
     documented case" of interpretation, authority and persistence
     coming apart in one organization. It gains distributed-agency, the
     question's first line, after its own (ADR-085). No other change.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Gains the lines organization-of-perspective (atlas scope 09); self-
+    correction (atlas scope 10) under ADR-tmpd3ckn: the entry is in that
+    scope's core fiber in the hyperarticle atlas v0.3
+    (scratch/atlas/atlas-v0.3.md), and each atlas scope is documented as a
+    line. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -31,6 +44,8 @@ date: '2026-10-22'
 line:
 - will-organization
 - distributed-agency
+- organization-of-perspective
+- self-correction
 illustrates:
 - CLAIM-403
 summary: >-
@@ -53,7 +68,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-715 — Unavailable; works sought and not reached, cited as unread -->
 
-# CASE-138: Challenger to Columbia: NASA corrected its launch decisions and its safety organization after 1986, and the Columbia board found in 2003 that related organizational failure mechanisms had recurred, while its lessons-learned system was little used in between
+# CASE-138: Challenger to Columbia
 
 ## The case
 

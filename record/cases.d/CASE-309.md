@@ -3,7 +3,13 @@ number: 309
 status: Proposed
 formerly:
 - CASE-tmp06m60
-title: 'The manipulated will''s unmanipulated twin: the same agent, from the same state, reaches the very same organization by its own revision under a discrepancy its considerate precedence cannot meet, and from then on receives the same inputs; the two differ only in which channel carried the precedence across its threshold while it moved'
+title: 'The manipulated will''s unmanipulated twin'
+statement: >-
+  The manipulated will's unmanipulated twin: the same agent, from the same
+  state, reaches the very same organization by its own revision under a
+  discrepancy its considerate precedence cannot meet, and from then on
+  receives the same inputs; the two differ only in which channel carried the
+  precedence across its threshold while it moved
 version: 1
 standing: stipulated
 kind: thought-experiment
@@ -33,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-310 CLAIM-868 — new; filed with this case for LEAD-038 -->
 
-# CASE-309: The manipulated will's unmanipulated twin: the same agent, from the same state, reaches the very same organization by its own revision under a discrepancy its considerate precedence cannot meet, and from then on receives the same inputs; the two differ only in which channel carried the precedence across its threshold while it moved
+# CASE-309: The manipulated will's unmanipulated twin
 
 ## The case
 

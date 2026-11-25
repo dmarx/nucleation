@@ -40,6 +40,7 @@ summary: >-
   ([CLAIM-785](CLAIM-785.md)) through the direction of fit. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmptsz1u — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: CLAIM-784 CLAIM-785 CLAIM-943 SYNTHESIS-114 — Proposed; the claims, reading and account this joins, and the claim filed with it -->
 
 # CLAIM-942: Inquiry and engineering differ by the direction of fit of their predicates, not in kind: inquiry adds predicates its object already passes and engineering imposes predicates its object must be made to pass, so the one difference the record draws between inquiry and specification, that inquiry can revise what an answer could be, recurs inside engineering whenever building shows an imposed requirement cannot be met and it is rewritten to describe what can
@@ -100,3 +101,15 @@ rests on it to its premises ([CLAIM-943](CLAIM-943.md) names it under `complemen
 skill would do this itself for a Proposed claim, but this one was filed the
 day before under the dialectic regime with adopting it left to the owner, so
 the reversal is put to the owner rather than made.
+
+## Note of 2026-11-22: Dunfield and Krishnaswami, read
+
+A parallel, no relation written. SML-CIDRE chose bidirectional typing
+over inference because "type inference finds all behaviours, not only the
+intended behaviours", while annotations "force programmers to write down
+the behaviours they intend" (§9.1 of their survey; [THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md), read in
+[NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)). Inference describes what a program does; annotation requires
+what it should do, the claim's inquiry and engineering inside one type
+checker. The rewriting of a requirement into a description has no
+counterpart there: a failed check is repaired in the program, not the
+annotation, unless the programmer decides otherwise.

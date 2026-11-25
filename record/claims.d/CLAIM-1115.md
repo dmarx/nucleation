@@ -1,10 +1,33 @@
 ---
 number: 1115
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpj15c6
 title: "At one budget, the questions an agent can formulate and the answers it can attain once a question is supplied do not fix which question–answer pairs it can attain together, but their budget-indexed families do when the costs of formulating and answering compose by a declared rule; what is left over is the rule, and where the way a question is formulated changes what answering it costs, not even the least costs fix it"
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    The check kept and rerun, at the owner's word of 2026-11-24 ("handle
+    the fixes for the twelve ... use your best judgement", under the
+    dialectic regime; ADR-057, status-review README section 2, which
+    asks that a computation behind a ruling be in a script with controls
+    that someone else reruns): the filer's script of 2026-11-23 was not
+    kept, so a session other than the filer's reconstructed the four
+    constructions and the check on A58's two relations from the entry
+    alone, as scratch/formal/inquiry_frontier_constructions_check.py
+    with a negative control, and ran it with python3 -I: every
+    construction reproduces and it prints "checks pass". The derivation
+    section says so. No change of title.
+- version: 3
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the same word (ADR-057): it has no premise,
+    the term it uses, TERM-092, is Active, no objection targets it,
+    nothing meets its defeated_if (the rerun of the four constructions
+    reproduces them), and the constructions were re-derived and checked
+    by a session other than the filer's. The Standing section says so.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -20,6 +43,8 @@ date: '2026-11-23'
 line:
 - learning-and-inquiry
 - realizability
+works:
+- governance-of-becoming
 uses:
 - TERM-092
 complements:
@@ -37,7 +62,7 @@ summary: >-
   least costs overstate what is jointly attainable. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-1016 CLAIM-1025 — Proposed; the claim this supports, its argument, the authorization fill and the bounds filed from A52 and A54 -->
+<!-- inactive-ok-file: CLAIM-1016 — Proposed; the claim this supports, its argument, the authorization fill and the bounds filed from A52 and A54 -->
 
 # CLAIM-1115: At one budget, the questions an agent can formulate and the answers it can attain once a question is supplied do not fix which question–answer pairs it can attain together, but their budget-indexed families do when the costs of formulating and answering compose by a declared rule; what is left over is the rule, and where the way a question is formulated changes what answering it costs, not even the least costs fix it
 
@@ -82,7 +107,13 @@ cost of producing and evaluating a when q is supplied, Q_ask(B) =
 
 The check is a short script run with `python3 -I` on 2026-11-23; it printed
 each result above, and that the indexed answer frontiers of A58's 𝓕_1 and
-𝓕_2 differ.
+𝓕_2 differ. That script was not kept. At the status pass of 2026-11-24 a
+session other than the filer's reconstructed it from this entry alone as
+`scratch/formal/inquiry_frontier_constructions_check.py`, with a negative
+control (two routes whose cost of answering does not depend on the route of
+formulation, where least costs give the joint set at every budget), and ran
+it with `python3 -I`: it reproduces all four constructions and A58's pair,
+and prints "checks pass".
 
 ## Beside the bounds from A52 and A54
 
@@ -108,4 +139,8 @@ stage is one more cost in the same composition ([CLAIM-1016](CLAIM-1016.md)).
 
 ## Standing
 
-Proposed, the assistant's.
+The assistant's; Active since the status pass of 2026-11-24.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A53
+
+A53 calls this "one of the strongest mathematical promotion opportunities" and says "The constructions have already been computationally checked." They were, by the filer, with a script the entry reports and the record does not keep. The status-review README asks that a computation behind a ruling be "in a script with controls that someone else re-runs before the ruling". Before one: keep the four constructions as a script under `scratch/formal/` and have it rerun by a session that did not write it. The status-review worklist of 2026-11-24 lists the claim as ready for a ruling; A53's description of its four results is accurate. The note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting either is the owner's call. No status change.

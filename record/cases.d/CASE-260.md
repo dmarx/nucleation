@@ -3,7 +3,14 @@ number: 260
 status: Proposed
 formerly:
 - CASE-tmpnqx8e
-title: 'The block in Conway''s Game of Life: one two-glider collision makes a block that is destroyed the next generation and later a block that lasts, the difference set by a cell outside the form; a lone block is a fixed point that nothing depends on, while each block of Gosper''s glider gun is broken and rebuilt by the gun every 30 generations and the gun stops emitting without it'
+title: 'The block in Conway''s Game of Life'
+statement: >-
+  The block in Conway's Game of Life: one two-glider collision makes a block
+  that is destroyed the next generation and later a block that lasts, the
+  difference set by a cell outside the form; a lone block is a fixed point
+  that nothing depends on, while each block of Gosper's glider gun is broken
+  and rebuilt by the gun every 30 generations and the gun stops emitting
+  without it
 version: 1
 standing: documented
 kind: construction
@@ -34,7 +41,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-157 — Proposed; named as the record's individuation claim the case does not apply -->
 
-# CASE-260: The block in Conway's Game of Life: one two-glider collision makes a block that is destroyed the next generation and later a block that lasts, the difference set by a cell outside the form; a lone block is a fixed point that nothing depends on, while each block of Gosper's glider gun is broken and rebuilt by the gun every 30 generations and the gun stops emitting without it
+# CASE-260: The block in Conway's Game of Life
 
 ## The case
 

@@ -3,7 +3,11 @@ number: 198
 status: Proposed
 formerly:
 - CASE-tmp06sg5
-title: 'An architecture-mediated transition: moving between two configurations by first switching to a staging architecture under which the path is cheaper, moving, then switching back, lowers the peak resource need from 1.3 to 1.0'
+title: 'An architecture-mediated transition'
+statement: >-
+  An architecture-mediated transition: moving between two configurations by
+  first switching to a staging architecture under which the path is cheaper,
+  moving, then switching back, lowers the peak resource need from 1.3 to 1.0
 version: 2
 history:
 - version: 2
@@ -40,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-208 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
-# CASE-198: An architecture-mediated transition: moving between two configurations by first switching to a staging architecture under which the path is cheaper, moving, then switching back, lowers the peak resource need from 1.3 to 1.0
+# CASE-198: An architecture-mediated transition
 
 ## The case
 

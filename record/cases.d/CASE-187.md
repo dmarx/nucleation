@@ -3,7 +3,16 @@ number: 187
 status: Active
 formerly:
 - CASE-tmp1a9u5
-title: 'A proposed study: agents matched on competence over a declared family of goals, one planning with an explicit transition model, one a directly learned goal-conditioned policy, one a distributed predictive-state controller, compared on the original goals, on on-demand predictive and interventional queries, under targeted internal interventions, and after environmental change and damage to their predictive machinery, to find which world-modeling achievements are linked and which come apart under matched resources'
+title: 'Three world-modeling agents matched on competence'
+statement: >-
+  A proposed study: agents matched on competence over a declared family of
+  goals, one planning with an explicit transition model, one a directly
+  learned goal-conditioned policy, one a distributed predictive-state
+  controller, compared on the original goals, on on-demand predictive and
+  interventional queries, under targeted internal interventions, and after
+  environmental change and damage to their predictive machinery, to find
+  which world-modeling achievements are linked and which come apart under
+  matched resources
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -26,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-384 CLAIM-991 CLAIM-990 — new or Proposed; the LEAD-160 study and claims cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-514 CLAIM-519 — Proposed or Open; the claims it would test and the question it serves, cited as open -->
 
-# CASE-187: A proposed study: agents matched on competence over a declared family of goals, one planning with an explicit transition model, one a directly learned goal-conditioned policy, one a distributed predictive-state controller, compared on the original goals, on on-demand predictive and interventional queries, under targeted internal interventions, and after environmental change and damage to their predictive machinery, to find which world-modeling achievements are linked and which come apart under matched resources
+# CASE-187: Three world-modeling agents matched on competence
 
 ## The design
 

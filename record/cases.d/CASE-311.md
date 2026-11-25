@@ -3,7 +3,14 @@ number: 311
 status: Proposed
 formerly:
 - CASE-tmpfktyl
-title: 'The record''s individuation criteria applied to the Game of Life block and eater, by computation: the block repairs any one lost cell and nothing else, the eater only the glider strike it is shaped for, single-flip coupling inside the block is zero while a birth on its border kills it, and the two blocks of the earlier two-glider collision share two cells throughout'
+title: 'Block and eater against individuation criteria'
+statement: >-
+  The record's individuation criteria applied to the Game of Life block and
+  eater, by computation: the block repairs any one lost cell and nothing
+  else, the eater only the glider strike it is shaped for, single-flip
+  coupling inside the block is zero while a birth on its border kills it,
+  and the two blocks of the earlier two-glider collision share two cells
+  throughout
 version: 1
 standing: documented
 kind: executed-study
@@ -36,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-259 CASE-260 CLAIM-157 CLAIM-615 CLAIM-694 — Proposed; the constructions studied and the claims whose criteria are applied -->
 
-# CASE-311: The record's individuation criteria applied to the Game of Life block and eater, by computation: the block repairs any one lost cell and nothing else, the eater only the glider strike it is shaped for, single-flip coupling inside the block is zero while a birth on its border kills it, and the two blocks of the earlier two-glider collision share two cells throughout
+# CASE-311: Block and eater against individuation criteria
 
 ## The case
 

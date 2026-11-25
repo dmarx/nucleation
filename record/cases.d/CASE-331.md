@@ -3,7 +3,15 @@ number: 331
 status: Proposed
 formerly:
 - CASE-tmpb4hg0
-title: 'A modular-addition checkpoint study run on CPU: in 25 small attention-free networks trained on addition mod 37, the share of the logits'' Fourier energy on the selection-rule triads at step 250 or 500 forecasts when held-out-weight-decay runs generalize better than Fourier energy, test accuracy, test loss and kernel alignment, and better than every random edge set of the same size, but foresaw none of the runs that failed to generalize'
+title: 'Modular-addition checkpoints, Fourier triads'
+statement: >-
+  A modular-addition checkpoint study run on CPU: in 25 small attention-free
+  networks trained on addition mod 37, the share of the logits' Fourier
+  energy on the selection-rule triads at step 250 or 500 forecasts when
+  held-out-weight-decay runs generalize better than Fourier energy, test
+  accuracy, test loss and kernel alignment, and better than every random
+  edge set of the same size, but foresaw none of the runs that failed to
+  generalize
 version: 1
 history:
 - version: 1
@@ -50,7 +58,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-272 CLAIM-698 THEORY-022 CLAIM-900 — Proposed or new; the design this run reduces, the thesis it tests, the held mechanism and the claim filed from it -->
 
-# CASE-331: A modular-addition checkpoint study run on CPU: in 25 small attention-free networks trained on addition mod 37, the share of the logits' Fourier energy on the selection-rule triads at step 250 or 500 forecasts when held-out-weight-decay runs generalize better than Fourier energy, test accuracy, test loss and kernel alignment, and better than every random edge set of the same size, but foresaw none of the runs that failed to generalize
+# CASE-331: Modular-addition checkpoints, Fourier triads
 
 ## What was run
 

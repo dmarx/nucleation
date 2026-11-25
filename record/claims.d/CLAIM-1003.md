@@ -20,6 +20,8 @@ date: '2026-11-23'
 line:
 - readiness
 - learning-and-inquiry
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-475
 complements:
@@ -38,8 +40,6 @@ summary: >-
   (ChatGPT, at A50 of the exchange "Explain First Contact RL"); adopting it
   is the owner's call.
 ---
-
-<!-- inactive-ok-file: CASE-397 — Proposed; the construction of an unnamed demand -->
 
 # CLAIM-1003: An organization can lose adaptability by two routes, becoming less able to answer new questions or its institutions becoming less able to ask them; the second is harder to detect, since a question nobody formulates leaves no recorded failure to answer it, so an ecosystem can grow better at its established questions while becoming less able to answer unfamiliar ones and to discover which of them matter
 

@@ -3,8 +3,17 @@ number: 189
 status: Active
 formerly:
 - CASE-tmpwxags
-title: 'Two constructions of a maintained organization: two constraints producing each other with saturating production and turnover hold a three-unit coupling, with a box invariant under damage up to 0.4, a saddle-node at damage 0.5 and extinction above it; and a transient encounter that forms a connector enabling that reciprocal production, after which the connector is maintained by what it enables, every single-pathway knockout ends it, and the regime ends in a saddle-node at damage ≈ 0.691 where the coupling''s gap is still ≈ 0.989'
-version: 4
+title: 'Two constructions of a maintained organization'
+statement: >-
+  Two constructions of a maintained organization: two constraints producing
+  each other with saturating production and turnover hold a three-unit
+  coupling, with a box invariant under damage up to 0.4, a saddle-node at
+  damage 0.5 and extinction above it; and a transient encounter that forms a
+  connector enabling that reciprocal production, after which the connector
+  is maintained by what it enables, every single-pathway knockout ends it,
+  and the regime ends in a saddle-node at damage ≈ 0.691 where the
+  coupling's gap is still ≈ 0.989
+version: 6
 history:
 - version: 2
   date: '2026-11-11'
@@ -35,6 +44,17 @@ history:
     obeying local detailed balance (LIT-1892, THEORY-1265)"): the case
     uses the reading as its check on dissipation (ADR-095). No other
     change.
+- version: 5
+  date: '2026-11-24'
+  note: >-
+    A dated note from the revision of the manuscript
+    governance-of-becoming, Part I: a supply parameter in Construction 2
+    would test CLAIM-604's signatures; not computed. No other change.
+- version: 6
+  date: '2026-11-25'
+  note: >-
+    A dated note closing the gap note of 2026-11-24: the supply parameter
+    was computed, and CLAIM-tmpv6tw7 holds the result. No other change.
 standing: fictional
 kind: construction
 tags:
@@ -70,7 +90,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: NOTE-1562 — Skimmed; Freidlin and Wentzell's front matter, cited from the reading of 2026-11-04 as open -->
 
-# CASE-189: Two constructions of a maintained organization: two constraints producing each other with saturating production and turnover hold a three-unit coupling, with a box invariant under damage up to 0.4, a saddle-node at damage 0.5 and extinction above it; and a transient encounter that forms a connector enabling that reciprocal production, after which the connector is maintained by what it enables, every single-pathway knockout ends it, and the regime ends in a saddle-node at damage ≈ 0.691 where the coupling's gap is still ≈ 0.989
+# CASE-189: Two constructions of a maintained organization
 
 ## Construction 1: reciprocal production holding a coupling (A9, A10)
 
@@ -250,3 +270,60 @@ produces it, which is [CLAIM-456](../claims.d/CLAIM-456.md)'s "the self-produced
 a double loss or an interruption of the work that produces it". The case
 has no outside reset beside it, so it illustrates only that dependence,
 not [CLAIM-456](../claims.d/CLAIM-456.md)'s comparison with outside reset, which rests on [CASE-161](CASE-161.md).
+
+## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
+<!-- inactive-ok-file: CLAIM-606 — Proposed; cited with its standing -->
+
+The manuscript's first draft (Article 1, §1.4) read Construction 2 as of
+[CLAIM-604](../claims.d/CLAIM-604.md)'s kind. The independent reader of its joins (J1.4) found that
+this misstates [CLAIM-604](../claims.d/CLAIM-604.md), and the revision corrected the article.
+[CLAIM-604](../claims.d/CLAIM-604.md)'s model draws repair from a supply at a rate set by the intact
+share, and Construction 2 has no supply variable: "the substrates are
+assumed available". Of [CLAIM-604](../claims.d/CLAIM-604.md)'s three signatures, Construction 2 shows
+the ignition threshold ("Without the encounter, q = 0 is invariant and the
+capacities decay"); collapse appears only in the damage parameter, at the
+fold d* ≈ 0.6908, not in a supply; and an outage after which restoring the
+supply does not relight the structure is undefined, since nothing is
+supplied.
+
+The reader named the computation that would settle it: add a supply
+parameter to Construction 2's production terms, and see whether all three
+signatures appear or not. That would test [CLAIM-604](../claims.d/CLAIM-604.md)'s signatures on a
+construction filed for another purpose. It has not been computed, and this
+note records the gap only. Even if all three appeared, [CLAIM-606](../claims.d/CLAIM-606.md) holds
+that the signatures do not identify upkeep drawn in through the
+structure's own state; withdrawing the supply does.
+
+Bearing: a gap; no change to the case, its title or its status. The
+wording is the assistant's (Claude, in this session).
+
+## Note of 2026-11-25: the supply parameter computed, closing the note of 2026-11-24
+
+The note of 2026-11-24 recorded that a supply parameter added to
+Construction 2's production terms would test [CLAIM-604](../claims.d/CLAIM-604.md)'s signatures, and
+that it had not been computed. It has been, for the manuscript
+governance-of-becoming, Article 1's G1.2, in
+`scratch/manuscripts/governance-of-becoming/analysis/case189_supply_parameter.py`
+(output of 2026-11-25 beside it; the script first reproduces this case's
+own figures, the fold at d* = 0.6908 among them, and prints "checks pass").
+The result is [CLAIM-tmpv6tw7](../claims.d/CLAIM-tmpv6tw7.md) (Proposed, demonstrated, the assistant's):
+
+- with a supply multiplying the production terms, Construction 2 shows all
+  three of [CLAIM-604](../claims.d/CLAIM-604.md)'s signatures: an ignition threshold with the supply
+  on, a supply fold below which the connector goes out rather than
+  declines (s* = 0.649 at d = 0 when the supply also feeds the connector),
+  and an outage limit (about 1.5 time units) after which restoring the
+  supply does not relight it;
+- supplied repair matched to the same kept state shows none of them;
+- where the supply enters only the capacities' production, its fold is
+  this case's damage fold relabelled, s* = (1 + d)/(1 + d*) = 0.5914 at
+  d = 0.
+
+So the gap is closed: the signatures appear once a supply is put in, and
+the misreading the note of 2026-11-24 corrected stays corrected, since
+the case as filed has no supply. [CLAIM-606](../claims.d/CLAIM-606.md)'s limit still holds: the
+signatures do not identify upkeep drawn in through the structure's own
+state; withdrawing the supply does. [CLAIM-tmpv6tw7](../claims.d/CLAIM-tmpv6tw7.md) has been checked by its
+filer only. Bearing: no change to the case, its title or its status. The
+wording is the assistant's (Claude, in this session); adopting it is the
+owner's call.

@@ -3,7 +3,9 @@ number: 48
 status: Active
 formerly:
 - CASE-tmpifi9m
-title: 'The same film joke, seen as a child and again as an adult'
+title: 'A film joke seen as a child and as an adult'
+statement: >-
+  The same film joke, seen as a child and again as an adult
 version: 3
 history:
 - version: 2
@@ -45,7 +47,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-198 — Proposed; the parallel the case draws, not leaned on -->
 <!-- inactive-ok-file: CLAIM-201 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# CASE-048: The same film joke, seen as a child and again as an adult
+# CASE-048: A film joke seen as a child and as an adult
 
 ## The case
 

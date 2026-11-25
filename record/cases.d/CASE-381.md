@@ -3,7 +3,13 @@ number: 381
 status: Proposed
 formerly:
 - CASE-tmp2l6id
-title: "Dynamical dependence of block aggregates in nearly decomposable linear Gaussian VAR(1) models, computed exactly: the two-sided bound held on 600 items, a block sum with equal column sums had dependence of order ε², one with unequal sums kept a floor as ε → 0 and as the fast eigenvalues went to zero, and with the slow gap proportional to ε the order fell to first"
+title: 'Block aggregates in nearly decomposable VAR'
+statement: >-
+  Dynamical dependence of block aggregates in nearly decomposable linear
+  Gaussian VAR(1) models, computed exactly: the two-sided bound held on 600
+  items, a block sum with equal column sums had dependence of order ε², one
+  with unequal sums kept a floor as ε → 0 and as the fast eigenvalues went
+  to zero, and with the slow gap proportional to ε the order fell to first
 version: 1
 standing: documented
 kind: executed-study
@@ -30,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-980 — new; the claim this study checks -->
 
-# CASE-381: Dynamical dependence of block aggregates in nearly decomposable linear Gaussian VAR(1) models, computed exactly: the two-sided bound held on 600 items, a block sum with equal column sums had dependence of order ε², one with unequal sums kept a floor as ε → 0 and as the fast eigenvalues went to zero, and with the slow gap proportional to ε the order fell to first
+# CASE-381: Block aggregates in nearly decomposable VAR
 
 ## The case
 

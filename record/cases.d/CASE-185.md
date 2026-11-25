@@ -3,7 +3,14 @@ number: 185
 status: Active
 formerly:
 - CASE-tmph0fxi
-title: 'A proposed study: direct and relay translations of one set of source utterances through three languages, to find whether agreement between the routes, the task-relative loss on each route, and the preservation of response to later framing come apart, and whether correspondences fitted between the communities'' response structures on some items predict receivers'' judgements on held-out items, translators and situations'
+title: 'Direct and relay translations, three languages'
+statement: >-
+  A proposed study: direct and relay translations of one set of source
+  utterances through three languages, to find whether agreement between the
+  routes, the task-relative loss on each route, and the preservation of
+  response to later framing come apart, and whether correspondences fitted
+  between the communities' response structures on some items predict
+  receivers' judgements on held-out items, translators and situations
 version: 3
 history:
 - version: 2
@@ -59,7 +66,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: CLAIM-202 — Proposed; the record's theses and measures this design would test, cited as open -->
 
-# CASE-185: A proposed study: direct and relay translations of one set of source utterances through three languages, to find whether agreement between the routes, the task-relative loss on each route, and the preservation of response to later framing come apart, and whether correspondences fitted between the communities' response structures on some items predict receivers' judgements on held-out items, translators and situations
+# CASE-185: Direct and relay translations, three languages
 
 ## The design
 

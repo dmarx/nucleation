@@ -3,7 +3,11 @@ number: 63
 status: Active
 formerly:
 - CASE-tmpbwzkh
-title: 'The English localization of Ace Attorney: a Japanese courtroom game moved to an alternate Los Angeles, with "textually accurate" set against "emotionally accurate" by its localizer'
+title: 'The English localization of Ace Attorney'
+statement: >-
+  The English localization of Ace Attorney: a Japanese courtroom game moved
+  to an alternate Los Angeles, with "textually accurate" set against
+  "emotionally accurate" by its localizer
 version: 2
 history:
 - version: 2
@@ -34,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-091 CLAIM-240 CLAIM-201 — Proposed; the compensation claim, the weighting claim and the change-of-cover claim, cited as open -->
 <!-- inactive-ok-file: LIT-789 LIT-791 — Unavailable; House and Nida, unread here, named as context and not leaned on -->
 
-# CASE-063: The English localization of Ace Attorney: a Japanese courtroom game moved to an alternate Los Angeles, with "textually accurate" set against "emotionally accurate" by its localizer
+# CASE-063: The English localization of Ace Attorney
 
 Found on 2026-10-10 by a search the owner asked for: a documented
 adaptation that moves an act into a new situation, with the correspondence

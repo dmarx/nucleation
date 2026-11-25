@@ -3,7 +3,14 @@ number: 388
 status: Proposed
 formerly:
 - CASE-tmp1ptqp
-title: 'A proposed study: project proposals of independently rated promise and matched requirements, run through centralized review, translation support, protected exploration and distributed evaluation, comparing the cost and time to a meaningful evaluation, approval, implementation, and whether unfamiliar but valuable classes of proposal survive long enough to produce evidence'
+title: 'Proposal review regimes compared'
+statement: >-
+  A proposed study: project proposals of independently rated promise and
+  matched requirements, run through centralized review, translation support,
+  protected exploration and distributed evaluation, comparing the cost and
+  time to a meaningful evaluation, approval, implementation, and whether
+  unfamiliar but valuable classes of proposal survive long enough to produce
+  evidence
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -30,7 +37,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1117 CLAIM-1140 CLAIM-1132 CLAIM-1119 — Proposed; the claims the study bears on -->
 
-# CASE-388: A proposed study: project proposals of independently rated promise and matched requirements, run through centralized review, translation support, protected exploration and distributed evaluation, comparing the cost and time to a meaningful evaluation, approval, implementation, and whether unfamiliar but valuable classes of proposal survive long enough to produce evidence
+# CASE-388: Proposal review regimes compared
 
 ## The design
 
@@ -84,3 +91,17 @@ assistant's (Claude, in this session); adopting it is the owner's call.
 ## Standing
 
 Proposed, in A's voice; the note is the assistant's.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A27, the manuscript's Study C
+
+The manuscript ChatGPT drafted at U20 ("Becoming Through One Another",
+§11, Study C, "Inquiry under contractual constraints") says it extends
+this case, which it cites by its code on main. It adds four design conditions this
+case does not state: match "the cost of maintaining standing grants" in
+the compared budgets; measure "ability to recognize independently
+specified novel discrepancies"; "Include tasks in which novel inquiries
+are genuinely unhelpful, so that indiscriminate authorization is not
+rewarded"; and "Independently evaluate the adequacy of answers and
+consequential action". The third is a control the case needs: without it,
+a regime that authorizes everything wins by construction. An extension of
+the design, proposed and not run. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

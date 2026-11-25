@@ -3,7 +3,13 @@ number: 130
 formerly:
 - TERM-tmpsit04
 status: Proposed
-title: 'protected contestability, of an arrangement, for those with standing under a declared standard: the maintained, resource-bounded capability of those parties to formulate and present objections and obtain an appropriately consequential assessment of them, robust to a declared class of opposition; not a guarantee of success, a veto or costless adjudication'
+title: 'protected contestability'
+statement: >-
+  protected contestability, of an arrangement, for those with standing under
+  a declared standard: the maintained, resource-bounded capability of those
+  parties to formulate and present objections and obtain an appropriately
+  consequential assessment of them, robust to a declared class of
+  opposition; not a guarantee of success, a veto or costless adjudication
 version: 1
 tags:
 - society-and-governance
@@ -28,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-724 CLAIM-732 TERM-126 — filed from the same exchange, Proposed or new -->
 
-# TERM-130: protected contestability, of an arrangement, for those with standing under a declared standard: the maintained, resource-bounded capability of those parties to formulate and present objections and obtain an appropriately consequential assessment of them, robust to a declared class of opposition; not a guarantee of success, a veto or costless adjudication
+# TERM-130: protected contestability
 
 ## Definition
 

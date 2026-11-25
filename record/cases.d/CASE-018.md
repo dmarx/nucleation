@@ -3,7 +3,10 @@ number: 18
 status: Active
 formerly:
 - CASE-tmpj5tw0
-title: '"You blow it all on sex and booze", said by a friend, a parent, a judge, a comedian'
+title: '"You blow it all on sex and booze", four speakers'
+statement: >-
+  "You blow it all on sex and booze", said by a friend, a parent, a judge, a
+  comedian
 version: 1
 standing: fictional
 kind: thought-experiment
@@ -25,7 +28,7 @@ illustrates:
 <!-- inactive-ok-file: CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; a claim this case illustrates, open -->
 
-# CASE-018: "You blow it all on sex and booze", said by a friend, a parent, a judge, a comedian
+# CASE-018: "You blow it all on sex and booze", four speakers
 
 ## The case
 

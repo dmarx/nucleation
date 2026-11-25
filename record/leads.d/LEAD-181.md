@@ -1,10 +1,22 @@
 ---
 number: 181
-status: Open
+status: Done
 formerly:
 - LEAD-tmpweaab
 title: 'Use the tolerance-indexed simulation to test whether penalizing newly recognized violations produces avoidance of inquiry'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Done, at the owner's word of 2026-11-25 ("go ahead with the
+    reruns"), whose brief took in closing the leads whose runs are
+    recorded, as housekeeping and not a change of credence. What it would do was
+    done on 2026-11-23: CASE-249's simulation run with and without the
+    penalty and inquiry measured, in CASE-396 (scratch/studies/lead-181/;
+    the note of 2026-11-23). Which reading of "without penalties"
+    decides the test, CLAIM-1120 or CLAIM-997, stays the owner's; the
+    closing does not choose. The stage is left as it stood.
 stage: specified
 priority: medium
 method:

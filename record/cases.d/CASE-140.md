@@ -3,7 +3,12 @@ number: 140
 status: Active
 formerly:
 - CASE-tmp5rsen
-title: 'The attributed self: two people with similar dispositions hear the same negative characterization, one told it comes from a few critics and the other believing it speaks for nearly everyone who matters to them, so that the words are fixed and only their attributed breadth differs'
+title: 'The attributed self'
+statement: >-
+  The attributed self: two people with similar dispositions hear the same
+  negative characterization, one told it comes from a few critics and the
+  other believing it speaks for nearly everyone who matters to them, so that
+  the words are fixed and only their attributed breadth differs
 version: 2
 history:
 - version: 2
@@ -34,7 +39,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-415 LIT-1370 — Proposed or Unavailable; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CASE-140: The attributed self: two people with similar dispositions hear the same negative characterization, one told it comes from a few critics and the other believing it speaks for nearly everyone who matters to them, so that the words are fixed and only their attributed breadth differs
+# CASE-140: The attributed self
 
 ## The case
 

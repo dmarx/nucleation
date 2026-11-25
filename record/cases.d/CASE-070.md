@@ -3,7 +3,10 @@ number: 70
 status: Active
 formerly:
 - CASE-tmpt7tsv
-title: 'Voita, Sennrich and Titov''s BLEU-tied translation systems that differ on keeping ты or вы across sentences'
+title: 'BLEU-tied systems differing on ты and вы'
+statement: >-
+  Voita, Sennrich and Titov's BLEU-tied translation systems that differ on
+  keeping ты or вы across sentences
 version: 2
 history:
 - version: 2
@@ -35,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-217 — Proposed; the competent-uptake standard, cited as open -->
 <!-- inactive-ok-file: CLAIM-142 — Proposed; the claim this case supports, open -->
 
-# CASE-070: Voita, Sennrich and Titov's BLEU-tied translation systems that differ on keeping ты or вы across sentences
+# CASE-070: BLEU-tied systems differing on ты and вы
 
 Found on 2026-10-10 by a search the owner asked for: a documented case for
 the first half of [CLAIM-142](../claims.d/CLAIM-142.md), that two realizations can agree on every probe

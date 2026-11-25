@@ -3,7 +3,12 @@ number: 121
 status: Active
 formerly:
 - CASE-tmplyf2a
-title: 'One melody from a 1951 gospel record to a 2005 Katrina protest song: "I''ve Got a Savior", "I Got a Woman", "Gold Digger" and "George Bush Doesn''t Care About Black People", each link a different relation, the message turned at every step'
+title: 'One melody, 1951 gospel to 2005 protest'
+statement: >-
+  One melody from a 1951 gospel record to a 2005 Katrina protest song: "I've
+  Got a Savior", "I Got a Woman", "Gold Digger" and "George Bush Doesn't
+  Care About Black People", each link a different relation, the message
+  turned at every step
 version: 1
 standing: documented
 kind: specimen
@@ -31,7 +36,7 @@ reported_in:
 - NOTE-1021
 ---
 
-# CASE-121: One melody from a 1951 gospel record to a 2005 Katrina protest song: "I've Got a Savior", "I Got a Woman", "Gold Digger" and "George Bush Doesn't Care About Black People", each link a different relation, the message turned at every step
+# CASE-121: One melody, 1951 gospel to 2005 protest
 
 ## The case
 

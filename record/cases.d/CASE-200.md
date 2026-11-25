@@ -3,7 +3,12 @@ number: 200
 status: Proposed
 formerly:
 - CASE-tmp0g3pa
-title: 'A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it'
+title: 'A transition reached by carry-over'
+statement: >-
+  A transition that a budget reaches only by carry-over: a per-period budget
+  of 1.0 holds either configuration at 0.7, the transition needs 1.3, and
+  rolling over the 0.3 left unspent reaches it, while a rule that cuts or
+  expires unspent funds forecloses it
 version: 5
 history:
 - version: 2
@@ -68,7 +73,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: TERM-107 TERM-110 THEORY-1421 THEORY-1410 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
 
-# CASE-200: A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it
+# CASE-200: A transition reached by carry-over
 
 ## The case
 
@@ -133,5 +138,4 @@ period. A: "money cannot always be converted into the resource needed on the rel
 
 ## Note of 2026-11-22: the recursion over several periods, and in repeated use
 
-<!-- inactive-ok-block: CASE-315 — new; LEAD-080's study -->
 Run in [LEAD-080](../leads.d/LEAD-080.md)'s study ([CASE-315](CASE-315.md)). Two points about the recursion, both checked by script there. First, "the transition is possible after one period of saving exactly when ... ρ − α ≥ 1" holds for one period; over several, holding at 0.7 from B = 1.0, the budget tends to (1 − 0.7(ρ − α))/(1 − (ρ − α)), which exceeds 1.3 exactly when ρ − α > 0.5. With a rollover of 0.6 and no cut it reaches 1.3 in three periods (1.18, 1.29, 1.35); with ρ = 1 and α = 0.5 it tends to 1.3 and never reaches it. Second, a period spent at the transition's peak spends the whole carried balance and leaves B̄ = 1.0 for the next, so under this rule a capability used every period is affordable only every other period; in the study, a heavy rescue squad sent every month was allowed in half the months and met about half the needs it met under a budget held at 1.3. No status changes.

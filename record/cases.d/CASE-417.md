@@ -4,8 +4,13 @@ status: Proposed
 formerly:
 - CASE-tmpskejj
 
-title: 'The BERT anaphora study''s published figures, reanalysed by its signalling-corrected sheaf test and by Contextuality-by-Default 2.0: the per-instance probabilities are not published, the two verdicts are thresholds on signalling alone, and every instance on which they differ is CbD-contextual and not sheaf-contextual'
-
+title: 'BERT anaphora study reanalysed'
+statement: >-
+  The BERT anaphora study's published figures, reanalysed by its
+  signalling-corrected sheaf test and by Contextuality-by-Default 2.0: the
+  per-instance probabilities are not published, the two verdicts are
+  thresholds on signalling alone, and every instance on which they differ is
+  CbD-contextual and not sheaf-contextual
 version: 1
 
 standing: documented
@@ -48,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-037 — Proposed; the claim whose promotion condition this study was run for, cited as under test -->
 <!-- inactive-ok-file: CLAIM-1176 CLAIM-1164 CLAIM-1166 CLAIM-1207 — new; filed by the lead run of 2026-11-23 -->
 
-# CASE-417: The BERT anaphora study's published figures, reanalysed by its signalling-corrected sheaf test and by Contextuality-by-Default 2.0: the per-instance probabilities are not published, the two verdicts are thresholds on signalling alone, and every instance on which they differ is CbD-contextual and not sheaf-contextual
+# CASE-417: BERT anaphora study reanalysed
 
 ## What was done
 

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmplgp4k
 title: 'An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the later absence of challenges reads as success; the test is whether a credible challenge causally lowers the chance of effective future challenge against a control, and the test alone does not say whether the response finks the disposition to be corrected, masks it, or changes only the challengers'' access and incentives'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-07'
@@ -51,6 +51,12 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §4.1, §13.3. No other change.
+- version: 7
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 9 §7; Part IV figure (ADR-tmpenzcn).
+    No change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -102,6 +108,7 @@ summary: >-
   adopting it is the owner's call.
 works:
 - governance-of-possibility
+- governance-of-becoming
 ---
 <!-- inactive-ok-file: NOTE-1901 — Skimmed; filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1824 — Proposed, filed 2026-11-12 -->

@@ -3,7 +3,16 @@ number: 330
 status: Proposed
 formerly:
 - CASE-tmpjw1l1
-title: 'The Federal Open Market Committee''s policy-rate decisions, 1966–2026, read with the dual mandate''s inflation and employment channels as perspectives ranking cut, hold and hike from what was known at the time: the channels contest about a quarter of quarters, nearly all in stagflation; a channel''s lead is shown in one window only, on four contests, a compromise of holding prevails in two, ambivalence is shown only for Burns''s tenure and 1980–81 and only under some readings, and no persistence or resumption can be read'
+title: 'Fed rate decisions as two perspectives'
+statement: >-
+  The Federal Open Market Committee's policy-rate decisions, 1966–2026, read
+  with the dual mandate's inflation and employment channels as perspectives
+  ranking cut, hold and hike from what was known at the time: the channels
+  contest about a quarter of quarters, nearly all in stagflation; a
+  channel's lead is shown in one window only, on four contests, a compromise
+  of holding prevails in two, ambivalence is shown only for Burns's tenure
+  and 1980–81 and only under some readings, and no persistence or resumption
+  can be read
 version: 1
 history:
 - version: 1
@@ -48,7 +57,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-897 CLAIM-899 CLAIM-898 — new on 2026-11-22; the argument, the procedure and the alternative reading filed with this case for LEAD-041 -->
 
-# CASE-330: The Federal Open Market Committee's policy-rate decisions, 1966–2026, read with the dual mandate's inflation and employment channels as perspectives ranking cut, hold and hike from what was known at the time: the channels contest about a quarter of quarters, nearly all in stagflation; a channel's lead is shown in one window only, on four contests, a compromise of holding prevails in two, ambivalence is shown only for Burns's tenure and 1980–81 and only under some readings, and no persistence or resumption can be read
+# CASE-330: Fed rate decisions as two perspectives
 
 ## Why this record
 

@@ -192,7 +192,7 @@ A linear model can only afford orthogonal features, so it keeps the m most impor
   - *Neurons:* do not assume neurons are features in superposed layers.
   - *Regularisation:* L1 on activations removes superposition in toys, at a loss cost.
   - *Sparse coding:* recover an overcomplete basis by sparse coding. The practice itself, sparse autoencoders, is sourced by later work, and the Sharkey et al. comment in the HTML is its first toy test.
-  - *Anthology context:* [ANTH-LIT-544](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-544.md) (Chen et al.) is held. This paper, its trunk, is not, which is DP-007's "refinement filed before the thing it refines".
+  - *Anthology context:* [ANTH-LIT-544](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-544.md) (Chen et al.) is held. This paper, its trunk, is not, which is [DP-007](../../docs/design-principles.md#dp-7)'s "refinement filed before the thing it refines".
 - **For filing.**
   - *Tags:* `representation-learning` first, `anthology-candidate` second, as seeded. Also defensible: `mathematics`, for the polytope correspondence and the compressed-sensing bound.
   - *URL:* the seed has no `url:`. Adding transformer-circuits.pub/2022/toy_model/index.html would record the canonical, updated version, since the arXiv print lacks later comments.

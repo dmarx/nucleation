@@ -3,7 +3,15 @@ number: 180
 status: Active
 formerly:
 - CASE-tmpqou64
-title: 'The record''s own rates: over its first fifty days, measured from git, an entry''s prose is revised about once in 22 days once drafting is over, its status once in 128, an authored relation gained or lost once in 132 and an authored relation retracted once in about 600, while no relation type has been redeclared; the layers'' event rates are ordered as the exchange guessed, but only after the first day, when all of them change together, and the grammar is slow to revise without being slow to grow'
+title: 'The record''s own rates'
+statement: >-
+  The record's own rates: over its first fifty days, measured from git, an
+  entry's prose is revised about once in 22 days once drafting is over, its
+  status once in 128, an authored relation gained or lost once in 132 and an
+  authored relation retracted once in about 600, while no relation type has
+  been redeclared; the layers' event rates are ordered as the exchange
+  guessed, but only after the first day, when all of them change together,
+  and the grammar is slow to revise without being slow to grow
 version: 3
 history:
 - version: 2
@@ -44,7 +52,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-478 CLAIM-476 — Proposed or new; the claims the measurement bears on -->
 
-# CASE-180: The record's own rates: over its first fifty days, measured from git, an entry's prose is revised about once in 22 days once drafting is over, its status once in 128, an authored relation gained or lost once in 132 and an authored relation retracted once in about 600, while no relation type has been redeclared; the layers' event rates are ordered as the exchange guessed, but only after the first day, when all of them change together, and the grammar is slow to revise without being slow to grow
+# CASE-180: The record's own rates
 
 ## The case
 

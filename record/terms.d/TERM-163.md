@@ -3,7 +3,13 @@ number: 163
 status: Proposed
 formerly:
 - TERM-tmpqixg8
-title: "adaptive inquiry readiness, of an institution for a declared family of future epistemic demands: the condition of meeting its current epistemic obligations while keeping admissible, affordable and sufficiently reliable pathways to investigate the relevant demands within their horizons; kept up through the institution's own activity, it is a viability condition"
+title: 'adaptive inquiry readiness'
+statement: >-
+  adaptive inquiry readiness, of an institution for a declared family of
+  future epistemic demands: the condition of meeting its current epistemic
+  obligations while keeping admissible, affordable and sufficiently reliable
+  pathways to investigate the relevant demands within their horizons; kept
+  up through the institution's own activity, it is a viability condition
 version: 1
 complements:
 - TERM-167
@@ -32,9 +38,9 @@ summary: >-
   "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: TERM-167 CLAIM-1025 TERM-160 TERM-159 CLAIM-1190 CLAIM-758 CLAIM-1054 CLAIM-1003 TERM-158 CLAIM-1042 — Proposed; the viability kernel, the bounds and joint relation filed with this, and the overconsolidation and trap claims A63 §8 restates -->
+<!-- inactive-ok-file: TERM-167 TERM-159 CLAIM-758 CLAIM-1054 CLAIM-1003 TERM-158 CLAIM-1042 — Proposed; the viability kernel, the bounds and joint relation filed with this, and the overconsolidation and trap claims A63 §8 restates -->
 
-# TERM-163: adaptive inquiry readiness, of an institution for a declared family of future epistemic demands: the condition of meeting its current epistemic obligations while keeping admissible, affordable and sufficiently reliable pathways to investigate the relevant demands within their horizons; kept up through the institution's own activity, it is a viability condition
+# TERM-163: adaptive inquiry readiness
 
 ## Definition
 
@@ -96,3 +102,65 @@ assistant's (Claude, in this session).
 Proposed, A's. It has content of its own only as an instantiation: the
 condition is [TERM-115](TERM-115.md)'s and [TERM-167](TERM-167.md)'s; what is new is the object, the
 joint inquiry relation, and the declared family in place of A52's "rich".
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A30
+
+A30 §14 reads this term contractually: an organization can invest in
+"Coordination investment", which makes current interactions cheaper, or
+"Reconfiguration investment", which makes future contractual changes
+cheaper or more accessible (provenance, explicit interfaces, alternative
+expertise, dispute-resolution channels, records of exceptions), and
+"Overconsolidation may occur when an organization continually invests in
+cheap invocation while allowing its ability to understand or revise the
+invoked relationships to decay ... This is a contractual interpretation of
+adaptive inquiry readiness. The organization becomes very good at
+exercising relationships it has become increasingly unable to
+interrogate." An application of the term to the relationships an
+institution relies on; no change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A18 §14
+
+A18 §14 reads the term as a higher-order service guarantee. For a
+declared family D of future epistemic demands it writes R_C(d; B_d, H_d),
+"the probability that an available policy under contractual ecology C can
+formulate and adequately investigate demand d within its resources and
+deadline", and the requirement R_C(d; B_d, H_d) ≥ 1 − δ_d for d in D:
+"not a guarantee that the organization already possesses all the answers"
+but "a requirement to preserve sufficiently reliable pathways". Its
+contrast of first-order with higher-order guarantees ("Follow the current
+contract" against "Maintain the capacity to evaluate and revise the
+contract") ends: "A system may satisfy every first-order guarantee while
+violating the higher-order conditions of its adaptability."
+
+A gap, filled here: A18 does not say what the probability is over. Over
+policies it cannot be, since one available policy suffices. It must be
+over the states the organization may be in when d arrives (which
+processes are present, what is committed, what resources remain), so R_C
+needs a declared law of those states, as the term's "sufficiently
+reliable" already presupposes; without it the inequality has no content.
+Bearing: a formalization with that condition added; the term is
+unchanged. The gap fill's wording is the assistant's (Claude, in this
+session); adopting it is the owner's call. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A40 §7
+
+A40 §7 applies the term to a governance architecture 𝒢 = (C, W, K, M, B)
+as "constitutional inquiry readiness": R_𝒢(d; B, H) = sup over admissible
+policies π of Pr_π(adequate response to d within B, H), for a declared
+family of discrepancies, with admissible policies those that respect "the
+applicable legal and normative constraints", so as to avoid "equating
+maximum corrective capacity with unrestricted power to alter the
+constitution". Unlike A18's version above, the supremum is over policies
+and the probability under each policy, so it is well formed once a law of
+the organization's states and of d is declared, which A40 leaves open with
+the family and the acceptance criteria: "a proposed formalization, not a
+validated measurement instrument". Its comparative experiment is
+[LEAD-tmpnvrld](../leads.d/LEAD-tmpnvrld.md). A40 §10 D's "Constitutional persistence does not entail
+constitutional readiness" is [CLAIM-025](../claims.d/CLAIM-025.md)'s, noted there. Bearing: an application with an admissibility
+condition added; the term is unchanged. The wording of this note is the
+assistant's (Claude, in this session), reporting A's (ChatGPT's) text;
+adopting what it reports is the owner's call.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A53
+
+A53 agrees with "What it leaves open" above and proposes a ruling: "define adaptive inquiry readiness as an indexed profile over declared demand families, budgets, deadlines and acceptance thresholds. Universal readiness and weighted coverage could then be distinct derived evaluations of the profile." The two derived evaluations are the record's: the worst case is [TERM-167](TERM-167.md)'s kind of condition, weighted coverage [CLAIM-1042](../claims.d/CLAIM-1042.md)'s. Who declares the family stays open, as A53 says ("without prematurely settling whose demands ought to determine institutional readiness"). The term is not overdue for adoption; it waits on that definitional ruling, the owner's. The note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting either is the owner's call. No status change.

@@ -3,7 +3,14 @@ number: 327
 status: Proposed
 formerly:
 - CASE-tmpo5jhq
-title: 'The five conditions on an effective description, computed exactly for linear coarse-grainings of linear Gaussian VAR(1) and VAR(2) models under one declared regime: a construction for every presence-absence configuration that three proved entailments allow, sixteen of thirty-two in VAR(1) and twenty-two in VAR(2) at zero tolerance, and none of the forbidden ones among 6,000 random sparse models'
+title: 'Effective-description conditions in linear VAR'
+statement: >-
+  The five conditions on an effective description, computed exactly for
+  linear coarse-grainings of linear Gaussian VAR(1) and VAR(2) models under
+  one declared regime: a construction for every presence-absence
+  configuration that three proved entailments allow, sixteen of thirty-two
+  in VAR(1) and twenty-two in VAR(2) at zero tolerance, and none of the
+  forbidden ones among 6,000 random sparse models
 version: 1
 standing: documented
 kind: executed-study
@@ -31,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-893 CLAIM-894 — new; the claims filed from this study -->
 
-# CASE-327: The five conditions on an effective description, computed exactly for linear coarse-grainings of linear Gaussian VAR(1) and VAR(2) models under one declared regime: a construction for every presence-absence configuration that three proved entailments allow, sixteen of thirty-two in VAR(1) and twenty-two in VAR(2) at zero tolerance, and none of the forbidden ones among 6,000 random sparse models
+# CASE-327: Effective-description conditions in linear VAR
 
 ## The case
 

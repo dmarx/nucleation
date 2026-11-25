@@ -3,7 +3,12 @@ number: 108
 status: Active
 formerly:
 - CASE-tmp4nzjz
-title: 'Robust governance under internal compromise: four governance architectures over cooperative, honestly dissenting and adversarial specialists, scored on attack success and on what the safeguards cost, with a variant that compromises the evaluators'
+title: 'Robust governance under internal compromise'
+statement: >-
+  Robust governance under internal compromise: four governance architectures
+  over cooperative, honestly dissenting and adversarial specialists, scored
+  on attack success and on what the safeguards cost, with a variant that
+  compromises the evaluators
 version: 5
 history:
 - version: 2
@@ -57,7 +62,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-255 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1738 THEORY-1801 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CASE-108: Robust governance under internal compromise: four governance architectures over cooperative, honestly dissenting and adversarial specialists, scored on attack success and on what the safeguards cost, with a variant that compromises the evaluators
+# CASE-108: Robust governance under internal compromise
 
 ## The case
 

@@ -1,10 +1,43 @@
 ---
 number: 1180
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpv0azx
-title: "With one capacity that can be brought to bear at every configuration, a reserve held at budget B keeps every transition whose threshold is at most B, while a redesign lowers only the thresholds whose least-peak path can use the redesigned route, so a redesign that lets the reserve fall from θ − h to θ′ − h keeps the redesigned transition and loses every other transition whose threshold lies above θ′ and whose least-peak path does not use the redesign"
-version: 1
+title: 'With one capacity that can be brought to bear at every configuration, a reserve held at budget B keeps every transition whose threshold is at most B, while a redesign lowers only the thresholds whose least-peak path can use the redesigned route, so a redesign that lets the reserve fall from θ − h to θ′ − h keeps the redesigned transition and loses every other transition the larger reserve kept whose threshold lies above θ′ and whose least-peak path does not use the redesign, that is, those with threshold in (θ′, θ]'
+version: 3
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    Title narrowed at the owner's word of 2026-11-24 ("handle the fixes
+    for the twelve ... use your best judgement", under the dialectic
+    regime; ADR-057, ADR-047's narrowing rule), as A53 of the exchange
+    'Memes, Contracts, and Systemic Normativity' asked: the old title's
+    last clause, "loses every other transition whose threshold lies
+    above θ′ and whose least-peak path does not use the redesign", took
+    in thresholds above θ, which the larger reserve never kept either;
+    the derivation's step 3 is about (θ′, θ] only. A correction of
+    wording, so the dropped clause takes a note only (README, narrowing
+    kind 3). The old title in full: "With one capacity that can be
+    brought to bear at every configuration, a reserve held at budget B
+    keeps every transition whose threshold is at most B, while a
+    redesign lowers only the thresholds whose least-peak path can use
+    the redesigned route, so a redesign that lets the reserve fall from
+    θ − h to θ′ − h keeps the redesigned transition and loses every
+    other transition whose threshold lies above θ′ and whose least-peak
+    path does not use the redesign". The check, not kept by the filer,
+    is now scratch/formal/reserve_redesign_scope_check.py, written and
+    run by a session other than the filer's (section The check).
+- version: 3
+  date: '2026-11-24'
+  note: >-
+    Promoted to Active at the same word (ADR-057): its premises
+    CLAIM-571, CLAIM-577 and CLAIM-1099 are Active (CLAIM-1099 promoted
+    in this pass), no objection targets it, nothing meets its
+    defeated_if, and the derivation was re-derived step by step and its
+    check rerun by a session other than the filer's (ADR-047: a checked
+    step-by-step re-derivation meets a request for a proof). CASE-397,
+    promoted in this pass, reports its discriminating prediction.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -36,9 +69,9 @@ summary: >-
   owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-1099 CLAIM-1093 CLAIM-878 SYNTHESIS-124 — Proposed; the premise, the claim it qualifies, the drill, and the account filed with this claim -->
+<!-- inactive-ok-file: SYNTHESIS-124 — Proposed; the premise, the claim it qualifies, the drill, and the account filed with this claim -->
 
-# CLAIM-1180: With one capacity that can be brought to bear at every configuration, a reserve held at budget B keeps every transition whose threshold is at most B, while a redesign lowers only the thresholds whose least-peak path can use the redesigned route, so a redesign that lets the reserve fall from θ − h to θ′ − h keeps the redesigned transition and loses every other transition whose threshold lies above θ′ and whose least-peak path does not use the redesign
+# CLAIM-1180: With one capacity that can be brought to bear at every configuration, a reserve held at budget B keeps every transition whose threshold is at most B, while a redesign lowers only the thresholds whose least-peak path can use the redesigned route, so a redesign that lets the reserve fall from θ − h to θ′ − h keeps the redesigned transition and loses every other transition the larger reserve kept whose threshold lies above θ′ and whose least-peak path does not use the redesign, that is, those with threshold in (θ′, θ]
 
 ## The derivation
 
@@ -81,6 +114,17 @@ With python3 -I, on the configurations of the manuscript's §9:
   at 2 or a floor at 2 holds 2, and C is lost. A floor at 3 holds 3, and C
   is kept.
 
+The filer's check was not kept. At the status pass of 2026-11-24 a session
+other than the filer's re-derived steps 1 to 3 and wrote the check as
+`scratch/formal/reserve_redesign_scope_check.py`: least peaks as bottleneck
+paths on the configurations above, plus a control D reached only through a
+configuration at 3.5, above θ = 3, which neither reserve keeps; and 5,000
+random architectures with up to three added configurations, in each of the
+2,810 where a redesign lowers a threshold asserting that no threshold rises,
+that among the transitions whose threshold the redesign leaves unchanged
+the lost ones are exactly those in (θ′, θ], and that none above θ is lost.
+With `python3 -I` it prints "checks pass".
+
 ## Admission ([ADR-075](../decisions.d/ADR-075.md), step 5)
 
 **Route: a derivation, with a discriminating prediction.**
@@ -120,3 +164,7 @@ With python3 -I, on the configurations of the manuscript's §9:
 The manuscript governance-of-possibility, §9.4 and §9.8, join JC5. Filed
 at the owner's ruling of 2026-11-23. The account [SYNTHESIS-124](../syntheses.d/SYNTHESIS-124.md)
 integrates it.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A53
+
+A53: "The claim's derivation concerns previously affordable transitions whose thresholds lie between the reduced and original reserve limits. The title should explicitly preserve that restriction rather than imply that reducing a reserve newly eliminates transitions that were never affordable in the first place." Checked against the title: a reserve falling from θ − h to θ′ − h "loses every other transition whose threshold lies above θ′", which takes in thresholds above θ, never kept at the old reserve either. The narrowing is to thresholds above θ′ and at most θ. It is a correction of wording, not of the derivation, and is due before a ruling. The note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting either is the owner's call. No status change.

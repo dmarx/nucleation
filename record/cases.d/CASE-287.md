@@ -3,7 +3,16 @@ number: 287
 formerly:
 - CASE-tmphljcr
 status: Proposed
-title: 'Same claim, two procedural paths: a claimant certain to win 100 at judgment, with 50 to spend at 10 a month, nets 60 if judgment takes four months and nothing if the defendant can stretch it to seven, so an offer it would refuse becomes one it accepts with its preferences and the merits unchanged; with relief arriving at a constant hazard, halving the claimant''s runway from eight months to four cuts its chance of relief from 86 to 63 per cent, and a cost that moves the cheapest route to relief past the claimant''s budget removes the whole remedy'
+title: 'Same claim, two procedural paths'
+statement: >-
+  Same claim, two procedural paths: a claimant certain to win 100 at
+  judgment, with 50 to spend at 10 a month, nets 60 if judgment takes four
+  months and nothing if the defendant can stretch it to seven, so an offer
+  it would refuse becomes one it accepts with its preferences and the merits
+  unchanged; with relief arriving at a constant hazard, halving the
+  claimant's runway from eight months to four cuts its chance of relief from
+  86 to 63 per cent, and a cost that moves the cheapest route to relief past
+  the claimant's budget removes the whole remedy
 version: 1
 standing: fictional
 kind: construction
@@ -32,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-748 CLAIM-724 — filed from the same exchange, Proposed or new -->
 
-# CASE-287: Same claim, two procedural paths: a claimant certain to win 100 at judgment, with 50 to spend at 10 a month, nets 60 if judgment takes four months and nothing if the defendant can stretch it to seven, so an offer it would refuse becomes one it accepts with its preferences and the merits unchanged; with relief arriving at a constant hazard, halving the claimant's runway from eight months to four cuts its chance of relief from 86 to 63 per cent, and a cost that moves the cheapest route to relief past the claimant's budget removes the whole remedy
+# CASE-287: Same claim, two procedural paths
 
 ## The model
 

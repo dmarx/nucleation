@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp7wkss
 title: 'An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-21'
@@ -53,6 +53,12 @@ history:
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §1.2, §2.8, §7.1, §8.2,
     §15.3. No other change.
+- version: 8
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 10 abstract; Article 13 §10 (ADR-
+    tmpenzcn). No change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -68,6 +74,7 @@ line:
 works:
 - governance-of-possibility
 - organization-of-will
+- governance-of-becoming
 grounds:
 - CASE-036
 - CASE-111
@@ -223,3 +230,41 @@ A85 §8 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6af
 What A adds is a historical statement of the third capacity as a right of the governed: the Virginia Declaration of Rights §3, in the National Archives transcription, "a majority of the community has an indubitable, inalienable, and indefeasible right to reform, alter, or abolish it". A85 §1 gives the right to "the community"; the text gives it to a majority. "**The creation of a governing institution need not alienate the community's ultimate normative authority to judge whether that institution remains fit to govern.**" Who may exercise the third capacity, and what it may not remove ("A majority's legitimate authority to reform government cannot by itself justify extinguishing the underlying rights of a minority"), is filed as [QUESTION-481](../questions.d/QUESTION-481.md).
 
 No status changes.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A40 §10 D
+
+A40 §10's fourth candidate claim, "Constitutional persistence does not
+entail constitutional readiness: An organization can successfully maintain
+its operative constraints while diminishing its capacity to discover,
+evaluate and correct their inadequacies", is this claim applied to
+constitutions, with adaptive inquiry readiness ([TERM-163](../terms.d/TERM-163.md)) as the third
+capacity. A38 §5 states it as reliability at different reflective orders:
+originalism, executive unity and conservatism each protect one, "But none
+of these achievements alone guarantees the continuing reliability of the
+organization's capacity to investigate and correct itself." Not filed again.
+A's positive term for the capacity to keep valuable relationships through
+transformation is [TERM-tmpx4zke](../terms.d/TERM-tmpx4zke.md). Bearing: a restatement; the claim is
+unchanged. The wording of this note is the assistant's (Claude, in this
+session), reporting A's (ChatGPT's) text; adopting what it reports is the
+owner's call.
+
+<!-- inactive-ok-file: TERM-163 TERM-tmpx4zke — Proposed; cited in the note of 2026-11-24 on A40 §10 D from the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A34 §18 and A36 §19
+
+<!-- inactive-ok-block: TERM-128 — Proposed; the term A36 names among its dimensions -->
+A34 §18 distinguishes "Operational reliability", "Regulatory
+reliability", "Developmental reliability" and "Constitutional
+reliability" ("Can it maintain appropriate mechanisms for revising how it
+is governed?"), adding: "These differences are not captured by a single
+uptime measure." A36 §19 extends the list to seven dimensions of "civic
+reliability", adding contractual, epistemic and corrective reliability and
+"Normative governability" ([TERM-128](../terms.d/TERM-128.md)), and holds that "These dimensions
+should remain separate."
+
+Bearing: a restatement. That an operative regime, the organization
+governing regimes and the capacity to transform it persist or fail
+separately is this claim; the reliability vocabulary relabels its three
+levels and splits the middle one. The split itself is [CLAIM-523](CLAIM-523.md)'s three
+achievements and [CLAIM-422](CLAIM-422.md)'s correction, procedure and maintained
+capacity. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

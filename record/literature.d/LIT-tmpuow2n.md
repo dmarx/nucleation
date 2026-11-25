@@ -1,0 +1,35 @@
+---
+status: Deferred
+status_note: 'Registered 2026-11-24 from A42 §6 of the exchange "Memes, Contracts, and Systemic Normativity"; not sought or read.'
+title: 'Privacy as Contextual Integrity'
+version: 1
+history:
+- version: 1
+  date: '2026-11-24'
+  note: >-
+    Filed, not read. The record was searched by title and first author and
+    holds no entry for it. Nissenbaum (2004), Washington Law Review 79(1):119. No DOI; the repository page's citation metadata (journal, volume, issue, first page, year) checked 2026-11-24; the first of the month because no source gives a day. A lawful copy is linked from that page and was not fetched.
+tags:
+- privacy
+- ethics
+- society-and-governance
+- philosophy-of-technology
+date: '2026-11-24'
+published: '2004-01-01'
+url: 'https://digitalcommons.law.uw.edu/wlr/vol79/iss1/10/'
+first_author: 'Nissenbaum'
+summary: >-
+  Cited by A42 §6 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) as the precedent for privacy as "appropriate information flows within particular social contexts, rather than simply ... the absence of disclosure". It bears on [CLAIM-tmpp91oy](../claims.d/CLAIM-tmpp91oy.md), protected illegibility as an enabling constraint. What A42 says of it is unverified until read.
+---
+
+<!-- inactive-ok-file: CLAIM-tmpp91oy — Proposed or new; the entries this registration bears on -->
+
+# LIT-tmpuow2n: Privacy as Contextual Integrity
+
+## Key takeaways
+
+- Not read.
+
+## Standing in the record
+
+Deferred. Cited by A42 §6 of the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) as the precedent for privacy as "appropriate information flows within particular social contexts, rather than simply ... the absence of disclosure". It bears on [CLAIM-tmpp91oy](../claims.d/CLAIM-tmpp91oy.md), protected illegibility as an enabling constraint. What A42 says of it is unverified until read.

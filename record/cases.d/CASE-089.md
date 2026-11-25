@@ -3,8 +3,10 @@ number: 89
 status: Active
 formerly:
 - CASE-tmpnz3p8
-title: 'The compensating evidence problem: two records with the same support graph
-  in which discounting one support leaves odds of 20:1 or of 1.1:1'
+title: 'The compensating evidence problem'
+statement: >-
+  The compensating evidence problem: two records with the same support graph
+  in which discounting one support leaves odds of 20:1 or of 1.1:1
 version: 2
 history:
 - version: 2
@@ -25,7 +27,7 @@ summary: >-
   Bayes factors for E₂, different revisions when E₁ fails.
 ---
 
-# CASE-089: The compensating evidence problem: two records with the same support graph in which discounting one support leaves odds of 20:1 or of 1.1:1
+# CASE-089: The compensating evidence problem
 
 ## The case
 

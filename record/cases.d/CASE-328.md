@@ -3,7 +3,14 @@ number: 328
 status: Proposed
 formerly:
 - CASE-tmpjp6vg
-title: 'A power simulation of a Contextuality-by-Default test on a four-context cyclic system with free binary answers: the plug-in signalling estimate keeps detection valid but costs most power when true signalling is small, a violation the size of Lo et al.''s then needs over 2,500 respondents a context, and no absence verdict that leans on estimated signalling is valid'
+title: 'Contextuality-by-default power, four contexts'
+statement: >-
+  A power simulation of a Contextuality-by-Default test on a four-context
+  cyclic system with free binary answers: the plug-in signalling estimate
+  keeps detection valid but costs most power when true signalling is small,
+  a violation the size of Lo et al.'s then needs over 2,500 respondents a
+  context, and no absence verdict that leans on estimated signalling is
+  valid
 version: 1
 standing: documented
 kind: executed-study
@@ -33,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2226 CLAIM-896 CASE-329 — new; the reading, the finding and the design this run belongs to -->
 
-# CASE-328: A power simulation of a Contextuality-by-Default test on a four-context cyclic system with free binary answers: the plug-in signalling estimate keeps detection valid but costs most power when true signalling is small, a violation the size of Lo et al.'s then needs over 2,500 respondents a context, and no absence verdict that leans on estimated signalling is valid
+# CASE-328: Contextuality-by-default power, four contexts
 
 ## What was run
 

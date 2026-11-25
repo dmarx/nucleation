@@ -3,7 +3,16 @@ number: 316
 status: Proposed
 formerly:
 - CASE-tmp8riid
-title: 'Same oversight, the acting institution''s speed varied, in a queueing model run over twenty seeds: at ten times the speed the share of objectionable actions stopped before they became irreversible fell from 0.99 to 0.40, and to 0.04 when speed also multiplied the volume of actions; precommitted limits brought back about the share they foresaw and automatic suspension up to the share detected in time, each keeping most of the speed''s benefit, while pauses brought it back only by giving up the speed, and not at all when volume rose'
+title: 'Oversight against acting speed, queueing run'
+statement: >-
+  Same oversight, the acting institution's speed varied, in a queueing model
+  run over twenty seeds: at ten times the speed the share of objectionable
+  actions stopped before they became irreversible fell from 0.99 to 0.40,
+  and to 0.04 when speed also multiplied the volume of actions; precommitted
+  limits brought back about the share they foresaw and automatic suspension
+  up to the share detected in time, each keeping most of the speed's
+  benefit, while pauses brought it back only by giving up the speed, and not
+  at all when volume rose
 version: 1
 history:
 - version: 1
@@ -56,7 +65,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-285 CASE-280 CLAIM-710 CLAIM-711 CLAIM-730 CLAIM-706 TERM-125 — Proposed; the design this study carries out and the entries it bears on -->
 
-# CASE-316: Same oversight, the acting institution's speed varied, in a queueing model run over twenty seeds: at ten times the speed the share of objectionable actions stopped before they became irreversible fell from 0.99 to 0.40, and to 0.04 when speed also multiplied the volume of actions; precommitted limits brought back about the share they foresaw and automatic suspension up to the share detected in time, each keeping most of the speed's benefit, while pauses brought it back only by giving up the speed, and not at all when volume rose
+# CASE-316: Oversight against acting speed, queueing run
 
 ## The study
 
@@ -238,3 +247,32 @@ much real limits foresee.
 - The historical arm of [LEAD-068](../leads.d/LEAD-068.md), which is not attempted.
 
 [CASE-280](CASE-280.md) varies endogenous foreclosure at a fixed speed and is distinct.
+
+## Note of 2026-11-25: the timing of defeated standing, modelled, from the manuscript governance-of-becoming, Article 8
+<!-- inactive-ok-file: CLAIM-879 CLAIM-723 — Proposed; the executed study, its finding and the held form of the wrong, cited with their standing -->
+
+The manuscript's Article 8 (§8.4.2, join J8.3) links two entries that do
+not cite each other. CASE-316 (Proposed, executed study; [CLAIM-879](../claims.d/CLAIM-879.md) states
+its finding) is a queueing model in which an overseer with "the same
+authority, information and reviewers at every speed" can suspend an act
+until it becomes irreversible. What it counts, the share of objectionable
+actions made irreversible before an objection can take effect (0.994
+stopped in time at the base speed, 0.396 at ten times, 0.043 with volume
+multiplied as well), is how often [CLAIM-723](../claims.d/CLAIM-723.md)'s second condition, "the act
+made that standing ineffective before it could be exercised", is met, for
+objectionable actions only, by timing alone.
+
+It measures the occasion of [CLAIM-723](../claims.d/CLAIM-723.md)'s wrong, not the wrong. The model
+has no party harmed by the act; the party with standing is the overseer,
+whose standing is its power to suspend (corrected 2026-11-25 on the
+review of Part III, Part B, J8.3, from "no affected party": [CLAIM-723](../claims.d/CLAIM-723.md)'s
+party that "has standing to authorize, suspend or contest" can be an
+overseer). It does not count objections that would have failed, which are the case
+[CLAIM-723](../claims.d/CLAIM-723.md) is distinctive for, and models neither attribution to the
+actor's timing or control over execution (condition three; CASE-316
+lists among what it cannot show "Intent to outrun review") nor justification (condition
+four). So it says how often the occasion arises as speed rises, and which
+remedies (precommitted limits, automatic suspension) win it back, under
+invented rates. A dated note, not a claim: the link adds no inference
+beyond the two entries. No change of status. The wording is the
+assistant's (Claude, in this session).

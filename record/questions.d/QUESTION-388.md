@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmpqlcf4
 title: 'What distinguishes a programmable system from one that governs its own reconfiguration?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line learning-and-inquiry (atlas scope 01) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 tags:
 - complex-systems
 - self-governance
@@ -13,6 +21,7 @@ date: '2026-11-05'
 line:
 - realizability
 - distributed-agency
+- learning-and-inquiry
 summary: >-
   A's proposal, from the pasted synthesis on constraint architectures
   (pasted by the owner on 2026-11-04, continuing the exchange on emergency

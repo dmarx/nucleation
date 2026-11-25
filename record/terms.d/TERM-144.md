@@ -3,7 +3,11 @@ number: 144
 status: Proposed
 formerly:
 - TERM-tmpg1vx2
-title: "Gibrat's law, or the Gibrat principle: growth in proportion to current size, the rule, kept apart from the lognormal it gives without entry or a floor and from the Yule–Simon power law it gives with entry"
+title: 'Gibrat''s law'
+statement: >-
+  Gibrat's law, or the Gibrat principle: growth in proportion to current
+  size, the rule, kept apart from the lognormal it gives without entry or a
+  floor and from the Yule–Simon power law it gives with entry
 version: 1
 tags:
 - probabilistic-modeling
@@ -31,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-824 CLAIM-830 THEORY-2150 — Proposed; the claims that use the name and the readings its senses come from -->
 <!-- inactive-ok-file: LIT-3033 — Deferred; Simon (1955), registered and unread -->
 
-# TERM-144: Gibrat's law, or the Gibrat principle: growth in proportion to current size, the rule, kept apart from the lognormal it gives without entry or a floor and from the Yule–Simon power law it gives with entry
+# TERM-144: Gibrat's law
 
 This is **alternative (a)**, the lean. Alternative (b) is the note of
 2026-11-22 on [CLAIM-830](../claims.d/CLAIM-830.md), which records the clash without a term.

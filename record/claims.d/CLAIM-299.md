@@ -5,7 +5,7 @@ formerly:
 - CLAIM-tmpb7qd9
 title: Decision sufficiency, historical accountability and correctness are three
   properties of a record of inquiry, and each can hold while the other two fail
-version: 4
+version: 8
 history:
 - version: 2
   date: '2026-11-07'
@@ -25,6 +25,31 @@ history:
     Reading review of 2026-11-11, by question: bears_on QUESTION-258
     added. The question's text, against a connected, well-supported
     subgraph: "CLAIM-299 separates the properties." No other change.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing (atlas scope 15) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
+- version: 6
+  date: '2026-11-25'
+  note: >-
+    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    A45 in the exchange "Hyper article interpretation" states its
+    proposition or uses it as a step, in §3. No other change.
+- version: 7
+  date: '2026-11-25'
+  note: >-
+    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    exchange "Hyper article interpretation" states its proposition or uses
+    it as a step, in §4. No other change.
+- version: 8
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 02, scope 15. No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -36,6 +61,7 @@ tags:
 date: '2026-10-15'
 line:
 - records-of-inquiry
+- scholarly-publishing
 grounds:
 - CASE-093
 - CASE-084
@@ -52,6 +78,10 @@ summary: >-
   This names the three predicates so the others can say which they mean.
 bears_on:
 - QUESTION-258
+works:
+- atlas
+- hyperarticles
+- conditions-of-correction
 ---
 <!-- inactive-ok-file: ARG-028 — Proposed or Superseded; cited in the correction of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-181 CLAIM-189 CLAIM-190 CLAIM-250 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->

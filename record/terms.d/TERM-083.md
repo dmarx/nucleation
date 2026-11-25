@@ -3,7 +3,10 @@ number: 83
 status: Proposed
 formerly:
 - TERM-tmpiiy3n
-title: 'moral standing: being owed moral consideration directly, for one''s own sake, and not only for one''s effects on others'
+title: 'moral standing'
+statement: >-
+  moral standing: being owed moral consideration directly, for one's own
+  sake, and not only for one's effects on others
 version: 3
 history:
 - version: 2
@@ -49,7 +52,7 @@ draws_on:
 <!-- inactive-ok-file: NOTE-1733 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-449 THEORY-554 THEORY-699 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 
-# TERM-083: moral standing: being owed moral consideration directly, for one's own sake, and not only for one's effects on others
+# TERM-083: moral standing
 
 ## Definition
 

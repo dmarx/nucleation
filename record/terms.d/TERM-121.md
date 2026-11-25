@@ -3,8 +3,22 @@ number: 121
 status: Proposed
 formerly:
 - TERM-tmplqaer
-title: 'cultural reflexivity: the capacity, held by no single organization, of the many organizations that share a perspective to recognize, contest and revise the frameworks of that perspective through which their purposes are understood, as distinct from correcting violations of standards the perspective leaves unquestioned'
-version: 1
+title: 'cultural reflexivity'
+statement: >-
+  cultural reflexivity: the capacity, held by no single organization, of the
+  many organizations that share a perspective to recognize, contest and
+  revise the frameworks of that perspective through which their purposes are
+  understood, as distinct from correcting violations of standards the
+  perspective leaves unquestioned
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Gains the line organization-of-perspective (atlas scope 09) under ADR-
+    tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
+    atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
+    documented as a line. No other change.
 tags:
 - social-ontology
 - self-governance
@@ -12,6 +26,7 @@ tags:
 date: '2026-11-13'
 line:
 - distributed-agency
+- organization-of-perspective
 summary: >-
   A's, from A20 §III of the exchange "Analyze technological civilization
   trap" (2026-11-13): "Cultural reflexivity is the collective capacity to
@@ -28,7 +43,7 @@ summary: >-
   The wording is A's; adopting it is the owner's call.
 ---
 
-# TERM-121: cultural reflexivity: the capacity, held by no single organization, of the many organizations that share a perspective to recognize, contest and revise the frameworks of that perspective through which their purposes are understood, as distinct from correcting violations of standards the perspective leaves unquestioned
+# TERM-121: cultural reflexivity
 
 ## Definition
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpqpd2p
 title: 'A stabilized constraint can be stored work: by replacing later work with cheaper operations it changes which activities are realizable within a fixed per-task budget, so amortization becomes capability expansion without any added degrees of freedom or resources; the expansion is conditional on the costs of constructing, keeping, retrieving, verifying and revising the constraint and on the distribution of later demands, and the persistence that buys it can entrench'
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-11-20'
@@ -34,6 +34,18 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §11.1. No other change.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 3 abstract, §1 (ADR-tmpenzcn). No
+    change of title or status.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 05. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -61,8 +73,10 @@ line:
 - realizability
 - learned-structure
 works:
+- atlas
 - governance-of-possibility
 - cost-structure-of-possibility
+- governance-of-becoming
 rests_on:
 - CLAIM-303
 - CLAIM-475
@@ -160,7 +174,7 @@ operations widen substantive freedom, and for whom, is [CLAIM-352](CLAIM-352.md)
 question, and A37 itself kept it open.
 
 ## Note of 2026-11-22: the separation, applied to three cases
-<!-- inactive-ok-file: CASE-326 CLAIM-891 — new; filed by LEAD-108's run of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-891 — new; filed by LEAD-108's run of 2026-11-22 -->
 
 [LEAD-108](../leads.d/LEAD-108.md)'s model keeps feasibility, lifetime cost and who pays apart, as
 this claim does, and the three cases show them parting ([CASE-326](../cases.d/CASE-326.md)). A

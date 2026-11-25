@@ -1,10 +1,19 @@
 ---
 number: 332
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpl0ccq
-title: 'A simulation of the organization of the study of maintained inquiry under damage, with evidence generation, admission and scoring lesionable one at a time: a second correction after an undisclosed lesion of any one operation succeeds only where the apparatus tests itself and a producer rebuilds it, in 64 of 64 worlds for reciprocal and external maintenance and 0 of 64 without production, and in no arrangement without the self-test; only destroying both capacities separates reciprocal from external maintenance'
-version: 1
+title: 'Maintained inquiry under lesioned operations'
+statement: >-
+  A simulation of the organization of the study of maintained inquiry under
+  damage, with evidence generation, admission and scoring lesionable one at
+  a time: a second correction after an undisclosed lesion of any one
+  operation succeeds only where the apparatus tests itself and a producer
+  rebuilds it, in 64 of 64 worlds for reciprocal and external maintenance
+  and 0 of 64 without production, and in no arrangement without the
+  self-test; only destroying both capacities separates reciprocal from
+  external maintenance
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -12,6 +21,21 @@ history:
     Filed 2026-11-22 by the assistant, carrying out LEAD-048 as a delegated
     lead worker. The code, its tests and the results are committed under
     scratch/studies/lead-048/.
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Promoted to Active under the owner's delegation of 2026-11-24
+    ("handle the fixes for the twelve ... use your best judgement"),
+    as the status pass of 2026-11-24 and the reruns of 2026-11-25
+    applied it to independently recomputed demonstrated claims and
+    executed studies, in the recomputation pass of 2026-11-25
+    (LEAD-tmpc0rqa). Rerun by a session other than the filer's from a
+    copy of scratch/studies/lead-048/ with its results set aside: all
+    1,836 cells in core1, core2, core3 and baselines are identical to
+    the stored ones but for timings, results/tables.md is byte for
+    byte the stored one, and the 7 tests pass; every count quoted in
+    the body was compared and matches. An executed study, with no
+    premise of its own; nothing targets it.
 standing: documented
 kind: executed-study
 tags:
@@ -56,7 +80,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-265 CLAIM-901 — Proposed or new; CASE-265 cited for its constant outside controller, CLAIM-901 as the claim filed from this run -->
 
-# CASE-332: A simulation of the organization of the study of maintained inquiry under damage, with evidence generation, admission and scoring lesionable one at a time: a second correction after an undisclosed lesion of any one operation succeeds only where the apparatus tests itself and a producer rebuilds it, in 64 of 64 worlds for reciprocal and external maintenance and 0 of 64 without production, and in no arrangement without the self-test; only destroying both capacities separates reciprocal from external maintenance
+# CASE-332: Maintained inquiry under lesioned operations
 
 ## What was done
 
@@ -243,3 +267,7 @@ expose differences that the matched ordinary trajectories conceal.
 [LEAD-140](../leads.d/LEAD-140.md) can run these on the same code.
 
 The claim drawn from the run is [CLAIM-901](../claims.d/CLAIM-901.md).
+
+## Note of 2026-11-25: rerun by a session other than the filer's
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). From a copy of `scratch/studies/lead-048/` in the session's scratch space, with `results/` set aside and every part regenerated as the README directs (`study.py core1`, `core2`, `core3`, `baselines`, then `analyze.py`). The 7 tests in `test_model.py` pass. All 1,836 cells (432, 1,080, 216 and 108) agree with the stored `results/*.jsonl` in every field but the timings, and `results/tables.md` is the stored one byte for byte. Every figure above was compared and matches: the reference table row by row (sham 63/53 and 64/63 without production; the component and partial lesions 64 against 0; the producer stopped 64/64 and 64/63 reciprocal, 63/56 and 64/60 unmaintained; the internal producer destroyed 64/63 and 64/63, and 64/57 and 64/61; the double lesion 0 reciprocal, 64 external), 0 of 64 for the component lesions without the self-test, out-of-family detection 53 to 57 of 64 without production, and the tight-fuel shortfall of the maintained arrangements in all 64 worlds of the natural branch. Nothing failed to reproduce. Promoted in the same pass (history, version 2). The note is the assistant's (Claude, in this session).

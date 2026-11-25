@@ -3,7 +3,13 @@ number: 278
 status: Active
 formerly:
 - CASE-tmproiqs
-title: 'East Potomac Golf Links at Hains Point, 2026: about 430 trees cut with less than a day''s notice while the government told the court no final renovation plan existed, then a preliminary injunction finding the plan final and its environmental review likely segmented, and requiring notice before any irreversible change'
+title: 'East Potomac Golf Links tree cutting, 2026'
+statement: >-
+  East Potomac Golf Links at Hains Point, 2026: about 430 trees cut with
+  less than a day's notice while the government told the court no final
+  renovation plan existed, then a preliminary injunction finding the plan
+  final and its environmental review likely segmented, and requiring notice
+  before any irreversible change
 version: 2
 history:
 - version: 2
@@ -40,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-710 — filed from the same exchange, Proposed -->
 
-# CASE-278: East Potomac Golf Links at Hains Point, 2026: about 430 trees cut with less than a day's notice while the government told the court no final renovation plan existed, then a preliminary injunction finding the plan final and its environmental review likely segmented, and requiring notice before any irreversible change
+# CASE-278: East Potomac Golf Links tree cutting, 2026
 
 ## The case
 

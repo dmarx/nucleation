@@ -3,7 +3,10 @@ number: 75
 status: Active
 formerly:
 - TERM-tmpo92fy
-title: 'attributed self, and which sense: held, imagined, imagined audience or appropriated'
+title: 'attributed self'
+statement: >-
+  attributed self, and which sense: held, imagined, imagined audience or
+  appropriated
 version: 2
 history:
 - version: 2
@@ -45,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1370 LIT-1394 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-278 CLAIM-355 CLAIM-415 — Proposed; claims, cases, questions and terms cited as open, nothing here rests on their being settled -->
 
-# TERM-075: attributed self, and which sense: held, imagined, imagined audience or appropriated
+# TERM-075: attributed self
 
 ## Definition
 

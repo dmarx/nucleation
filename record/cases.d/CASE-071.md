@@ -3,7 +3,11 @@ number: 71
 status: Active
 formerly:
 - CASE-tmpt860v
-title: 'Kovacs, Deutsch and Freitag''s metric bias in MBR decoding: translations a metric selects, that the metric and its neighbours rate better and human raters do not'
+title: 'Metric bias in MBR decoding'
+statement: >-
+  Kovacs, Deutsch and Freitag's metric bias in MBR decoding: translations a
+  metric selects, that the metric and its neighbours rate better and human
+  raters do not
 version: 2
 history:
 - version: 2
@@ -41,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-142 — Proposed; cited for what the stipulated variant would test, not as settled -->
 <!-- inactive-ok-file: THEORY-1784 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CASE-071: Kovacs, Deutsch and Freitag's metric bias in MBR decoding: translations a metric selects, that the metric and its neighbours rate better and human raters do not
+# CASE-071: Metric bias in MBR decoding
 
 Found on 2026-10-10 by a search the owner asked for: a textual analogue of
 [CASE-041](CASE-041.md), in which the score that selects a translation is also the score

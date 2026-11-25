@@ -3,7 +3,11 @@ number: 234
 status: Proposed
 formerly:
 - CASE-tmp3isyl
-title: 'A proposed study: for each generation of image model, the number of generations of one character at which training a character LoRA becomes cheaper than conditioning on references, at matched identity fidelity'
+title: 'Character LoRA break-even across model generations'
+statement: >-
+  A proposed study: for each generation of image model, the number of
+  generations of one character at which training a character LoRA becomes
+  cheaper than conditioning on references, at matched identity fidelity
 version: 2
 history:
 - version: 2
@@ -44,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-331 — Proposed; the lifetime-compute objective the design borrows -->
 <!-- inactive-ok-file: SYNTHESIS-015 — Proposed; the account A proposed to revise -->
 
-# CASE-234: A proposed study: for each generation of image model, the number of generations of one character at which training a character LoRA becomes cheaper than conditioning on references, at matched identity fidelity
+# CASE-234: Character LoRA break-even across model generations
 
 ## What would be measured
 
