@@ -476,3 +476,12 @@ reason the reading supplies.
   their own premises, and a THEORY that corroborates is support from
   outside them ([ADR-058](../decisions.d/ADR-058.md)).
 - Anything with standing of its own.
+
+## Note of 2026-11-25: two components are now Active
+
+This account's "The account" says: "Every component is Proposed, or Open
+for a question." Checked on 2026-11-25: CLAIM-738 and CLAIM-725 are
+Active; every other component is Proposed or Open (the audit of what was left out (2026-11-25), B21, from the
+digest d8 of Part III). The sentence is out of date, not the map; the two
+claims' links are stated as before. Rewording it is for the next synthesis
+review. No change of status. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

@@ -138,3 +138,33 @@ suppression, and "These mechanisms can coexist". That is why the ordinary
 course does not reveal the contract: the probes above are what tell the
 mechanisms apart. The wording is the assistant's (Claude, in this session).
 
+
+## Note of 2026-11-25: which "character" is meant, from the manuscript governance-of-becoming, Article 1
+<!-- inactive-ok-file: TERM-tmp9mag8 TERM-tmpet5z8 — not in force; cited in the note of 2026-11-25 with their standing -->
+
+The manuscript's Article 1 (G1.3) and its README's open item 17 note that
+no term separates this claim's "characteristic structure" from TERM-041's
+reserved "character" (the audit of what was left out (2026-11-25), B14). This claim's body also says the
+difference "belongs to the organization's character, its characteristic
+structure".
+
+Which is meant: the plain sense, not TERM-041's. TERM-041 (Active) is a
+realization-independent invariant of a communicative kind, "called a
+character only when it is the trace of a specified representation", and
+none has been constructed. This claim names no representation, no group
+and no trace. What it asserts is that an organization's maintained
+contracts are part of what distinguishes it, read from how it answers a
+breach, a failed assumption or an invocation of standing. The held term
+nearest that reading is TERM-067's governance-response profile (Active),
+the tuple of response kernels "for a declared family of interventions on
+the mechanisms that govern efficacy", with the probes in this claim's
+notes as the family. On that reading the claim says the profile over a
+family that includes contract probes can part two arrangements the
+ordinary course does not. TERM-tmp9mag8's "agnotological character" and
+the third sense of TERM-tmpet5z8 use the word in the same plain sense.
+
+The alternative is an extension of TERM-041 to organizations, under which
+"character" would need a specified representation of the organization's
+transformations. That is a term revision and the owner's, if taken. Until
+then, this claim's "character" is read as "characteristic structure", in
+the sense above. The claim is unchanged; no change of status. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

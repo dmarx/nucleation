@@ -630,3 +630,20 @@ Links across the components that no entry states, tested by [ADR-075](../decisio
   standard, and the [CLAIM-152](../claims.d/CLAIM-152.md) circularity charge in its note is open.
 - Which version of [CLAIM-136](../claims.d/CLAIM-136.md) the owner holds.
 - Anything with standing of its own.
+
+## Note of 2026-11-25: invocation, from the manuscript governance-of-becoming, Article 3
+<!-- inactive-ok-file: SYNTHESIS-066 CLAIM-tmp80ny9 CLAIM-044 CLAIM-151 — not in force; cited in the note of 2026-11-25 with their standing -->
+
+The manuscript's Article 3 builds its third section, after A51, on this
+account and SYNTHESIS-066, and neither mentions contracts or the
+invocation of a relationship (gap G3.4; the audit of what was left out (2026-11-25), B1). The record's only links
+run through CLAIM-tmp80ny9's "Where the record stands" to CLAIM-044 and
+CLAIM-151. CLAIM-tmp80ny9's request that could invoke friendship,
+employment or an emergency has the shape this account gives a
+communicative kind: one act, several candidate relational organizations
+behind it, fixed by roles, norms and uptake. Whether the relationship an
+act invokes *is* a communicative kind in this account's sense, so that its
+results (identification underdetermines constitution; sharing a kind is
+neither transport nor descent) carry over to invocation, is now held as
+QUESTION-tmpp8ue3. The account is not revised here: integrating the
+question is for the next synthesis review. No change of status. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

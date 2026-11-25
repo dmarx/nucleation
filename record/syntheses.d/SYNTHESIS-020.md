@@ -309,3 +309,22 @@ Three candidates within the part were tried against [ADR-075](../decisions.d/ADR
 - That a potential must exist. [CLAIM-451](../claims.d/CLAIM-451.md): "That a potential is the
   default and a cycle a pathology. They are regimes."
 - Anything with standing of its own.
+
+## Note of 2026-11-25: a record of wins has been read
+<!-- inactive-ok-file: CASE-330 CLAIM-899 — not in force; cited in the note of 2026-11-25 with their standing -->
+
+This account's "What it does not say" holds: "No record of wins has been
+read by QUESTION-268's procedure." Since 2026-11-22 one has: CASE-330
+(Proposed), LEAD-041's run, reads the FOMC's policy-rate decisions,
+1966–2026, with the dual mandate's inflation and employment channels as
+perspectives. Its verdicts: the channels contest in about a quarter of
+quarters, nearly all in stagflation; "a channel's lead is shown in one
+window only, on four contests, a compromise of holding prevails in two";
+ambivalence is shown only for Burns's tenure and 1980–81 and only under
+some readings; "no persistence or resumption can be read". CLAIM-899
+(Proposed) states the procedure's six verdicts. So the sentence is out of
+date: a record has been read, and what it shows is a class of orderings on
+a few windows, as this account's title says a record of wins can (Article
+4 G4.1; the audit of what was left out (2026-11-25), B21). A revision on the synthesis-review skill's stage 4
+would integrate CASE-330 and CLAIM-899; this note does not make it. No
+change of status. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

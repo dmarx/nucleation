@@ -26,6 +26,9 @@ rests_on:
 - CLAIM-tmpm76n5
 grounds:
 - CASE-191
+complements:
+- CLAIM-tmpupcws
+- CLAIM-tmpisfi1
 summary: >-
   A join of the manuscript governance-of-becoming (Article 4, J4.1), in the
   corrected form an independent reader gave it on 2026-11-25, which passes
@@ -69,3 +72,15 @@ branch.
   [CLAIM-tmpisfi1](CLAIM-tmpisfi1.md) count it as productive.
 - Not that every misunderstanding is a pair of demands: step 1 is the
   claim's condition.
+
+## Note of 2026-11-25: the complements field added
+
+The manuscript's Article 4 (J4.1) noted that this claim "carries no
+`complements` field" to CLAIM-tmpupcws and CLAIM-tmpisfi1, which its body
+cites as counting a joint settlement on one reading as productive, and
+left adding it "for the next pass" (the audit of what was left out,
+2026-11-25, B24). The field is added: this claim says when clarifying is
+relief, and the two say when it is productive, which are different parts
+of what a clarification of a misunderstanding does. The title, the
+derivation and the status are unchanged. The wording is the assistant's
+(Claude, in this session); adopting it is the owner's call.

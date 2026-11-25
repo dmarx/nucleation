@@ -90,3 +90,28 @@ withdrawal of circulation after formation is the knockout that tells which.
   much was put earlier in the exchange (U1–U5); the claim adds the
   hyperstitional case, where what is realized is what the representation
   says.
+
+## Note of 2026-11-25: when the withdrawal reads provenance, from the manuscript governance-of-becoming
+<!-- inactive-ok-file: CLAIM-953 CASE-365 — not in force; cited in the note of 2026-11-25 with their standing -->
+
+A tension the digest of Article 7's sources (d7) found, with no relation
+on the record (the audit of what was left out (2026-11-25), B25). This claim tells the two outcomes apart "by
+withdrawing the circulation once the realization has formed".
+CLAIM-tmpnws9d (Active, demonstrated), its gap fill, says that in the
+salience–realization model a realization outlasts its representation
+"only if the realized organization has a self-maintaining loop of its own
+strong enough to have a second stable state, and the realization crossed
+that loop's threshold while the representation still circulated".
+
+So "once the realization has formed" is not the moment the test needs. In
+a bistable realization, a withdrawal before the threshold is crossed
+collapses it, though a later withdrawal would not have, and the collapse
+reads as dependence on circulation. The two outcomes are then not fixed
+properties of the realization but of its joint state at withdrawal.
+CLAIM-953 (Proposed, demonstrated, from CASE-365) says the same of a
+nucleus that makes its own teacher: the safe withdrawal is the crossing of
+a threshold in the joint state, which "neither the number of nuclei formed
+nor the share of the constraint they make marks". A withdrawal test of
+this claim therefore reads maintenance provenance only after the
+crossing, and a collapse after an early withdrawal shows nothing about
+provenance. The claim is unchanged; no change of status. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
