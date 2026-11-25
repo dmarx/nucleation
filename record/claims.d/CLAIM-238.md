@@ -3,7 +3,12 @@ number: 238
 status: Active
 formerly:
 - CLAIM-tmplkh2i
-title: 'Many of the line''s defeat conditions cannot in practice be met: the comparative ones are null results with no margin over an observable set the thesis may re-choose, and the possibility theses'' are universal negatives that no finite study establishes'
+title: 'Defeat conditions that cannot be met'
+statement: >-
+  Many of the line's defeat conditions cannot in practice be met: the
+  comparative ones are null results with no margin over an observable set
+  the thesis may re-choose, and the possibility theses' are universal
+  negatives that no finite study establishes
 version: 3
 history:
 - version: 2
@@ -61,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-005 CLAIM-147 CLAIM-128 CLAIM-117 CLAIM-044 CLAIM-054 CLAIM-137 CLAIM-095 — Proposed; open, cited for the wording of their defeat conditions or their place in the chain, not as settled -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-202 CLAIM-204 — Proposed; the record's revised theses of 2026-10-10, open, cited in the history for their margins -->
 
-# CLAIM-238: Many of the line's defeat conditions cannot in practice be met: the comparative ones are null results with no margin over an observable set the thesis may re-choose, and the possibility theses' are universal negatives that no finite study establishes
+# CLAIM-238: Defeat conditions that cannot be met
 
 ## The objection
 

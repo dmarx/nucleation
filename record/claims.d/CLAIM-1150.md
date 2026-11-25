@@ -3,11 +3,14 @@ number: 1150
 status: Active
 formerly:
 - CLAIM-tmppm30v
-title: When critics are scored by observed relevance alone and sources' items lean
-  by their side and not by their own meanings, a population's shared meaning settles
-  exactly where the competence-weighted side of its specialists puts it, so grants
-  indexed by role trade factions for a meaning that follows where competence happens
-  to sit and can override a weak imbalance in the evidence
+title: 'Role-indexed grants follow competence'
+statement: >-
+  When critics are scored by observed relevance alone and sources' items
+  lean by their side and not by their own meanings, a population's shared
+  meaning settles exactly where the competence-weighted side of its
+  specialists puts it, so grants indexed by role trade factions for a
+  meaning that follows where competence happens to sit and can override a
+  weak imbalance in the evidence
 version: 2
 history:
 - version: 2
@@ -61,7 +64,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 
-# CLAIM-1150: When critics are scored by observed relevance alone and sources' items lean by their side and not by their own meanings, a population's shared meaning settles exactly where the competence-weighted side of its specialists puts it, so grants indexed by role trade factions for a meaning that follows where competence happens to sit and can override a weak imbalance in the evidence
+# CLAIM-1150: Role-indexed grants follow competence
 
 ## The claim
 

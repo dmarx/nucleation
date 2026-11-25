@@ -3,7 +3,14 @@ number: 1062
 status: Proposed
 formerly:
 - CLAIM-tmpauu5r
-title: 'A single postmortem''s causes and action items are the wrong unit for testing where a blameless practice''s trace stops: Google''s practice routes questions about priorities set above the team to reviews of repeated incidents, to a cross-functional review with organizational leaders and to a vice-president''s review, so an organization could keep upstream provenance across incidents while each postmortem stops at the team'
+title: 'One postmortem is the wrong unit'
+statement: >-
+  A single postmortem's causes and action items are the wrong unit for
+  testing where a blameless practice's trace stops: Google's practice routes
+  questions about priorities set above the team to reviews of repeated
+  incidents, to a cross-functional review with organizational leaders and to
+  a vice-president's review, so an organization could keep upstream
+  provenance across incidents while each postmortem stops at the team
 version: 1
 role: counter
 warrant: interpretive
@@ -37,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-418 — new; the reading the objection draws on and the specimen beside it -->
 <!-- inactive-ok-file: CLAIM-750 CASE-293 CASE-335 CLAIM-905 — Proposed; the claim objected to and the studies whose unit it questions -->
 
-# CLAIM-1062: A single postmortem's causes and action items are the wrong unit for testing where a blameless practice's trace stops: Google's practice routes questions about priorities set above the team to reviews of repeated incidents, to a cross-functional review with organizational leaders and to a vice-president's review, so an organization could keep upstream provenance across incidents while each postmortem stops at the team
+# CLAIM-1062: One postmortem is the wrong unit
 
 ## The objection
 

@@ -3,7 +3,13 @@ number: 1027
 status: Proposed
 formerly:
 - CLAIM-tmp58rtz
-title: 'In GPT-2 small and Pythia-70m the context representations and the pivoted unembeddings each span the whole space, so the containments of the all-or-none theorem hold for every relation, and whatever relational linearity these models have is shared by every model that induces exactly the same distribution'
+title: 'Relational linearity in GPT-2 and Pythia'
+statement: >-
+  In GPT-2 small and Pythia-70m the context representations and the pivoted
+  unembeddings each span the whole space, so the containments of the
+  all-or-none theorem hold for every relation, and whatever relational
+  linearity these models have is shared by every model that induces exactly
+  the same distribution
 version: 1
 history:
 - version: 1
@@ -53,7 +59,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1020 CLAIM-1080 CASE-398 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1027: In GPT-2 small and Pythia-70m the context representations and the pivoted unembeddings each span the whole space, so the containments of the all-or-none theorem hold for every relation, and whatever relational linearity these models have is shared by every model that induces exactly the same distribution
+# CLAIM-1027: Relational linearity in GPT-2 and Pythia
 
 ## The claim
 

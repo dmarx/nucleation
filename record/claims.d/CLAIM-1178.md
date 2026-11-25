@@ -3,7 +3,13 @@ number: 1178
 status: Proposed
 formerly:
 - CLAIM-tmpuvgxw
-title: 'That firms whose deferred or non-prosecution agreements mandated board changes keep fewer penalised violations after the agreement ends, while a monitor''s effect fades, is evidence for the redesign half of the sanction-versus-redesign prediction: a change in who holds authority over decisions outlasts the sanction, a change in conduct under watch does not'
+title: 'Board changes outlast sanctions'
+statement: >-
+  That firms whose deferred or non-prosecution agreements mandated board
+  changes keep fewer penalised violations after the agreement ends, while a
+  monitor's effect fades, is evidence for the redesign half of the
+  sanction-versus-redesign prediction: a change in who holds authority over
+  decisions outlasts the sanction, a change in conduct under watch does not
 version: 1
 history:
 - version: 1
@@ -47,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2304 CLAIM-1113 CLAIM-1169 — new, Proposed; the account and study this reading rests on, the alternative reading, and the claim on what the test can show -->
 <!-- inactive-ok-file: CLAIM-432 — Proposed; the claim whose prediction this reading supports -->
 
-# CLAIM-1178: That firms whose deferred or non-prosecution agreements mandated board changes keep fewer penalised violations after the agreement ends, while a monitor's effect fades, is evidence for the redesign half of the sanction-versus-redesign prediction: a change in who holds authority over decisions outlasts the sanction, a change in conduct under watch does not
+# CLAIM-1178: Board changes outlast sanctions
 
 ## The reading
 

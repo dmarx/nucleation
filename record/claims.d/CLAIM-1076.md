@@ -3,7 +3,14 @@ number: 1076
 status: Proposed
 formerly:
 - CLAIM-tmpcug8h
-title: 'No study found tests whether people with persistent PTSD sample disambiguating context less after cued trauma recall than trauma-exposed controls, but the nearest, in which people with PTSD first looked at the neutral background of their own trauma cue later than trauma-exposed controls did, gives weak and indirect support to the direction the sampling account predicts'
+title: 'PTSD and context sampling: weak support'
+statement: >-
+  No study found tests whether people with persistent PTSD sample
+  disambiguating context less after cued trauma recall than trauma-exposed
+  controls, but the nearest, in which people with PTSD first looked at the
+  neutral background of their own trauma cue later than trauma-exposed
+  controls did, gives weak and indirect support to the direction the
+  sampling account predicts
 version: 1
 role: thesis
 warrant: empirical
@@ -43,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2277 THEORY-2284 ARG-224 CLAIM-1069 — new; the readings this rests on, its argument and its alternative -->
 <!-- inactive-ok-file: LIT-3149 LIT-3178 LIT-3171 LIT-3168 LIT-3146 LIT-3167 — Deferred; studies registered for the same lead, cited unread -->
 
-# CLAIM-1076: No study found tests whether people with persistent PTSD sample disambiguating context less after cued trauma recall than trauma-exposed controls, but the nearest, in which people with PTSD first looked at the neutral background of their own trauma cue later than trauma-exposed controls did, gives weak and indirect support to the direction the sampling account predicts
+# CLAIM-1076: PTSD and context sampling: weak support
 
 ## The claim
 

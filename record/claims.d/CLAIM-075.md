@@ -3,7 +3,9 @@ number: 75
 status: Active
 formerly:
 - CLAIM-tmpk5av7
-title: 'Viability does not establish what ought to persist'
+title: 'Viability does not settle what ought to persist'
+statement: >-
+  Viability does not establish what ought to persist
 version: 5
 history:
 - version: 2
@@ -59,7 +61,7 @@ complements:
 <!-- inactive-ok-file: THEORY-1819 THEORY-1814 THEORY-1822 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: LIT-1915 — Unavailable; Letiche and Moriceau, cited from its abstract as a doubt in this claim's direction -->
 
-# CLAIM-075: Viability does not establish what ought to persist
+# CLAIM-075: Viability does not settle what ought to persist
 
 ## The claim
 

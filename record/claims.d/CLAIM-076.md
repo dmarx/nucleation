@@ -3,7 +3,11 @@ number: 76
 status: Proposed
 formerly:
 - CLAIM-tmplwgbk
-title: 'Cross-modal chains expose reconstruction because media differ in expressive affordances, and each interpreter, such as a captioner, may add motives and relations that were not present'
+title: 'Cross-modal chains expose reconstruction'
+statement: >-
+  Cross-modal chains expose reconstruction because media differ in
+  expressive affordances, and each interpreter, such as a captioner, may add
+  motives and relations that were not present
 version: 2
 history:
 - version: 2
@@ -36,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-087 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-076: Cross-modal chains expose reconstruction because media differ in expressive affordances, and each interpreter, such as a captioner, may add motives and relations that were not present
+# CLAIM-076: Cross-modal chains expose reconstruction
 
 ## The claim
 
