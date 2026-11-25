@@ -2,7 +2,7 @@
 
 - ADR-tmpkc4c4: an entry's title is a short address (30 to 50 characters as a
   target, no code), and its full assertion lives in a new `statement:`
-  field, declared for CLAIM, THEORY, ARG, SYNTHESIS, CASE and TERM.
+  field on CLAIM, THEORY, ARG, SYNTHESIS, CASE and TERM.
 
 ### Changed
 

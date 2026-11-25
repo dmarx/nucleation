@@ -9,8 +9,7 @@ summary: >-
   An entry's title is a short label that addresses it, 30 to 50 characters
   as a target, with no code in it. It is an address first and a distillation
   second. The full assertion the title used to carry moves, verbatim, to a
-  new `statement:` field, declared for CLAIM, THEORY, ARG, SYNTHESIS, CASE
-  and TERM. The rules that said a title must assert something (ADR-065,
+  new `statement:` field on CLAIM, THEORY, ARG, SYNTHESIS, CASE and TERM. The rules that said a title must assert something (ADR-065,
   ADR-075, ADR-136, ADR-138) now apply to the statement. Moving a title into
   `statement:` changes no claim, so it takes no version bump under ADR-120.
   TERMs are retitled first. Rejected: keeping sentence titles and deriving
@@ -50,7 +49,7 @@ here.
   identifies the entry. It contains no code. It may distil the entry, but
   only as far as the length allows.
 - **The assertion moves to `statement:`.** CLAIM, THEORY, ARG, SYNTHESIS,
-  CASE and TERM carry an optional `statement:` field. When an entry is
+  CASE and TERM may carry a `statement:` field. When an entry is
   retitled under this decision, its old title is moved to `statement:`
   verbatim. A new entry states its assertion there and gives a short title.
 - **Rules about what a title asserts now apply to the statement.** Where
@@ -93,3 +92,9 @@ here.
   sweep is its own pull request.
 - `luria new` does not yet scaffold `statement:`. A filer adds it by hand
   until it does.
+- `statement:` is not declared in `luria.yaml`. Luria 1.11 refuses a field
+  declared without a constraint (a vocabulary, `required`, `many`, `unique`
+  and the like), and an optional prose field has none. So, like `summary:`,
+  it is an undeclared key, and `docs/record.md` does not list it. Letting
+  luria declare a field for its label and blurb alone is an upstream
+  question.
