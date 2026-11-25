@@ -202,3 +202,17 @@ A22 §9 relays hold-up a second time, now with a source and a model.
 
 The same computation, read the other way, is why an unexercised fallback
 keeps a party's terms: [CLAIM-tmp2jhc1](CLAIM-tmp2jhc1.md). The claim is unchanged.
+
+## Note of 2026-11-25: the hold-up sources are now read
+
+The note of 2026-11-17 above says of the standard hold-up sources
+(Grossman and Hart 1986; Hart and Moore 1990) that "none is held". Since
+2026-11-18 the record reads incomplete-contract theory in two readings:
+Grossman and Hart's residual rights of control ([THEORY-1985](../theory.d/THEORY-1985.md)) and Hart's
+statement of the same theory ([THEORY-1979](../theory.d/THEORY-1979.md)), both Proposed. They supply
+the property-rights account of why a relationship-specific investment can
+be held up; they do not supply this claim's own route, in which the
+provider's supply, not the party's investment, produces the reliance. The
+rewrite of the manuscript governance-of-becoming, Article 9 (2026-11-25),
+found the stale sentence. The wording is the assistant's (Claude, in this
+session); adopting it is the owner's call.
