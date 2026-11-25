@@ -3,7 +3,14 @@ number: 298
 status: Proposed
 formerly:
 - CASE-tmpoqr8p
-title: 'A proposed study: track a newly learned identity in a text-to-image model across training checkpoints, measuring the best-of-N success of a face-match verifier against the single-sample rigidity of the identity, and probe for an identity-specific direction at the transition, to see when a capability reachable by sampling becomes reliable and whether reliability coincides with localization'
+title: 'Identity learning across checkpoints'
+statement: >-
+  A proposed study: track a newly learned identity in a text-to-image model
+  across training checkpoints, measuring the best-of-N success of a
+  face-match verifier against the single-sample rigidity of the identity,
+  and probe for an identity-specific direction at the transition, to see
+  when a capability reachable by sampling becomes reliable and whether
+  reliability coincides with localization
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -29,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-697 CLAIM-695 CLAIM-765 THEORY-2085 — Proposed or newly filed; cited in this filing -->
 
-# CASE-298: A proposed study: track a newly learned identity in a text-to-image model across training checkpoints, measuring the best-of-N success of a face-match verifier against the single-sample rigidity of the identity, and probe for an identity-specific direction at the transition, to see when a capability reachable by sampling becomes reliable and whether reliability coincides with localization
+# CASE-298: Identity learning across checkpoints
 
 ## Design
 

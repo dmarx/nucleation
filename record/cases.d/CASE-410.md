@@ -3,7 +3,14 @@ number: 410
 status: Proposed
 formerly:
 - CASE-tmpktyr7
-title: 'The Juggernaut line''s route to the reshoot, from production testimony and a circulation-network model: the actor says the director saw the redub online and called a one-line pickup, and the one observation the case gives favours circulation over a list that names the distributors by at most about five to one, and by under two if the case is known for the video''s fame'
+title: 'The Juggernaut line''s route to the reshoot'
+statement: >-
+  The Juggernaut line's route to the reshoot, from production testimony and
+  a circulation-network model: the actor says the director saw the redub
+  online and called a one-line pickup, and the one observation the case
+  gives favours circulation over a list that names the distributors by at
+  most about five to one, and by under two if the case is known for the
+  video's fame
 version: 1
 history:
 - version: 1
@@ -52,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-332 — Proposed; the thesis whose defeater this tests -->
 <!-- inactive-ok-file: CLAIM-1006 CLAIM-1026 CLAIM-1022 CLAIM-1052 NOTE-2396 NOTE-2412 NOTE-2411 — new; filed by the lead run of 2026-11-23 -->
 
-# CASE-410: The Juggernaut line's route to the reshoot, from production testimony and a circulation-network model: the actor says the director saw the redub online and called a one-line pickup, and the one observation the case gives favours circulation over a list that names the distributors by at most about five to one, and by under two if the case is known for the video's fame
+# CASE-410: The Juggernaut line's route to the reshoot
 
 ## What was done
 

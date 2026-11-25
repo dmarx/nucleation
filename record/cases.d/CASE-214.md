@@ -3,7 +3,12 @@ number: 214
 status: Proposed
 formerly:
 - CASE-tmpzms3l
-title: 'A one-degree-of-freedom precision stage: five independent constraints leave one usable motion, and two designs with the same freedom space, one with every constraint doubled, differ in disturbance error and in drive force'
+title: 'One-degree-of-freedom precision stage'
+statement: >-
+  A one-degree-of-freedom precision stage: five independent constraints
+  leave one usable motion, and two designs with the same freedom space, one
+  with every constraint doubled, differ in disturbance error and in drive
+  force
 version: 2
 history:
 - version: 2
@@ -43,7 +48,7 @@ draws_on:
 - THEORY-1390
 ---
 
-# CASE-214: A one-degree-of-freedom precision stage: five independent constraints leave one usable motion, and two designs with the same freedom space, one with every constraint doubled, differ in disturbance error and in drive force
+# CASE-214: One-degree-of-freedom precision stage
 
 ## The case
 

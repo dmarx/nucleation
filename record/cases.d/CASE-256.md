@@ -3,7 +3,13 @@ number: 256
 status: Proposed
 formerly:
 - CASE-tmpo7zlu
-title: 'Member and non-member under one arrangement: a person''s vulnerability, the controlling actors'' capacities and the institutional consequences held fixed, with the person a constituent of the organization in one case and affected by the same arrangement without being a constituent in the other, to test whether membership adds an obligation'
+title: 'Member and non-member, same harm'
+statement: >-
+  Member and non-member under one arrangement: a person's vulnerability, the
+  controlling actors' capacities and the institutional consequences held
+  fixed, with the person a constituent of the organization in one case and
+  affected by the same arrangement without being a constituent in the other,
+  to test whether membership adds an obligation
 version: 2
 history:
 - version: 2
@@ -37,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-671 — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 
-# CASE-256: Member and non-member under one arrangement: a person's vulnerability, the controlling actors' capacities and the institutional consequences held fixed, with the person a constituent of the organization in one case and affected by the same arrangement without being a constituent in the other, to test whether membership adds an obligation
+# CASE-256: Member and non-member, same harm
 
 ## The case
 

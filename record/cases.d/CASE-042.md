@@ -3,7 +3,11 @@ number: 42
 status: Active
 formerly:
 - CASE-tmptm6yt
-title: 'Collaborative filtering and topic models: latent relational structure recovered from interaction matrices, up to gauge, or uniquely under anchor conditions'
+title: 'Latent structure in collaborative filtering'
+statement: >-
+  Collaborative filtering and topic models: latent relational structure
+  recovered from interaction matrices, up to gauge, or uniquely under anchor
+  conditions
 version: 3
 history:
 - version: 2
@@ -44,7 +48,7 @@ draws_on:
 <!-- inactive-ok-file: CLAIM-127 — Proposed; open, and cited as claims this case bears on, not as settled -->
 <!-- inactive-ok-file: LIT-677 THEORY-182 — Proposed; cited as readings the record already held that bear on the case -->
 
-# CASE-042: Collaborative filtering and topic models: latent relational structure recovered from interaction matrices, up to gauge, or uniquely under anchor conditions
+# CASE-042: Latent structure in collaborative filtering
 
 ## The case
 

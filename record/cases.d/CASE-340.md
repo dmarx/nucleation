@@ -3,7 +3,11 @@ number: 340
 status: Proposed
 formerly:
 - CASE-tmpczld2
-title: "Many small closed groups of DeGroot averagers, each of size near the square root of log n, have a largest influence weight that vanishes while the chance that some group settles on a wrong consensus tends to one"
+title: 'Small DeGroot groups, wrong consensus'
+statement: >-
+  Many small closed groups of DeGroot averagers, each of size near the
+  square root of log n, have a largest influence weight that vanishes while
+  the chance that some group settles on a wrong consensus tends to one
 version: 1
 history:
 - version: 1
@@ -45,7 +49,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 
-# CASE-340: Many small closed groups of DeGroot averagers, each of size near the square root of log n, have a largest influence weight that vanishes while the chance that some group settles on a wrong consensus tends to one
+# CASE-340: Small DeGroot groups, wrong consensus
 
 ## The case
 

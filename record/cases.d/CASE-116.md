@@ -3,7 +3,13 @@ number: 116
 status: Active
 formerly:
 - CASE-tmpxqgai
-title: 'Three finite-state systems that dissociate slowness, member regeneration and transmission: a slow flip register no member reads (second eigenvalue 0.98), a register members read and rewrite that forgets fast (second eigenvalue 0.2, nonzero intervention effect), and a rule passed through an archive between two episodes that never run together'
+title: 'Slow register, regeneration, archive'
+statement: >-
+  Three finite-state systems that dissociate slowness, member regeneration
+  and transmission: a slow flip register no member reads (second eigenvalue
+  0.98), a register members read and rewrite that forgets fast (second
+  eigenvalue 0.2, nonzero intervention effect), and a rule passed through an
+  archive between two episodes that never run together
 version: 2
 history:
 - version: 2
@@ -41,7 +47,7 @@ bears_on:
 - QUESTION-440
 ---
 
-# CASE-116: Three finite-state systems that dissociate slowness, member regeneration and transmission: a slow flip register no member reads (second eigenvalue 0.98), a register members read and rewrite that forgets fast (second eigenvalue 0.2, nonzero intervention effect), and a rule passed through an archive between two episodes that never run together
+# CASE-116: Slow register, regeneration, archive
 
 ## The construction
 

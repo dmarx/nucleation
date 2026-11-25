@@ -3,7 +3,12 @@ number: 172
 status: Active
 formerly:
 - CASE-tmpn75cv
-title: 'Federal science and education in the United States, 2025–2026: grants cancelled, frozen and in part reinstated, staff departures, advisory committees ended and research programs suspended, so that funding, organization and scientific capacity could be restored, or not, separately'
+title: 'US federal science cuts, 2025–2026'
+statement: >-
+  Federal science and education in the United States, 2025–2026: grants
+  cancelled, frozen and in part reinstated, staff departures, advisory
+  committees ended and research programs suspended, so that funding,
+  organization and scientific capacity could be restored, or not, separately
 version: 3
 history:
 - version: 2
@@ -47,7 +52,7 @@ draws_on:
 <!-- inactive-ok-file: THEORY-151 — Proposed; the decision this entry's draws_on first applies and the readings it draws on, cited as open; nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1609 — Deferred; its introduction read on 2026-10-29 and cited in the note of that date for that part, nothing here rests on it -->
 
-# CASE-172: Federal science and education in the United States, 2025–2026: grants cancelled, frozen and in part reinstated, staff departures, advisory committees ended and research programs suspended, so that funding, organization and scientific capacity could be restored, or not, separately
+# CASE-172: US federal science cuts, 2025–2026
 
 ## The case
 

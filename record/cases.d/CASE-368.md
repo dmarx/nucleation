@@ -3,7 +3,10 @@ number: 368
 status: Proposed
 formerly:
 - CASE-tmpqg5fa
-title: 'The operational cover as the determinacy sub-cover of a measurement scenario'
+title: 'Operational cover as determinacy sub-cover'
+statement: >-
+  The operational cover as the determinacy sub-cover of a measurement
+  scenario
 version: 1
 standing: stipulated
 kind: construction
@@ -22,7 +25,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-201 CLAIM-251 — Proposed; the thesis and its counter this construction is built to adjudicate -->
 <!-- inactive-ok-file: CLAIM-961 CLAIM-962 — new in this contribution; the two alternative readings this case grounds and the term it uses -->
 
-# CASE-368: The operational cover as the determinacy sub-cover of a measurement scenario
+# CASE-368: Operational cover as determinacy sub-cover
 
 ## The case
 

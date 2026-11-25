@@ -3,7 +3,14 @@ number: 326
 status: Active
 formerly:
 - CASE-tmpo2iur
-title: 'One cost model for stored work, run on the cockpit''s speed bugs, a filed argument and a LEGO bin: every case is priced with the same terms; at illustrative values the bugs lose at a flat price of work on their four flap calls and win once the approach is at least twice as busy as the moment they are set, and the bin is made at once except for a brick that stands out'
+title: 'One cost model for stored work'
+statement: >-
+  One cost model for stored work, run on the cockpit's speed bugs, a filed
+  argument and a LEGO bin: every case is priced with the same terms; at
+  illustrative values the bugs lose at a flat price of work on their four
+  flap calls and win once the approach is at least twice as busy as the
+  moment they are set, and the bin is made at once except for a brick that
+  stands out
 version: 2
 history:
 - version: 1
@@ -58,7 +65,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-891 CLAIM-314 THEORY-351 — Proposed or new; filed or cited in this run of 2026-11-22 -->
 
-# CASE-326: One cost model for stored work, run on the cockpit's speed bugs, a filed argument and a LEGO bin: every case is priced with the same terms; at illustrative values the bugs lose at a flat price of work on their four flap calls and win once the approach is at least twice as busy as the moment they are set, and the bin is made at once except for a brick that stands out
+# CASE-326: One cost model for stored work
 
 ## The model
 

@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: 'The global Chubby planned outage: services at Google added dependencies on the global instance of its lock service on the assumption that it would never go down, so its rare outages reached users, and SRE now holds it to meet but not significantly exceed its service level objective, synthesizing a controlled outage in any quarter in which true failures have not brought availability below target'
+title: 'The Chubby planned outage'
+statement: >-
+  The global Chubby planned outage: services at Google added dependencies on
+  the global instance of its lock service on the assumption that it would
+  never go down, so its rare outages reached users, and SRE now holds it to
+  meet but not significantly exceed its service level objective,
+  synthesizing a controlled outage in any quarter in which true failures
+  have not brought availability below target
 version: 1
 standing: documented
 kind: specimen
@@ -27,7 +34,7 @@ summary: >-
 
 <!-- inactive-ok-file: ARG-tmptccms CLAIM-603 CLAIM-tmpb1wyc CLAIM-tmpzas6q LIT-tmpihhfs — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
-# CASE-tmp3xxqg: The global Chubby planned outage: services at Google added dependencies on the global instance of its lock service on the assumption that it would never go down, so its rare outages reached users, and SRE now holds it to meet but not significantly exceed its service level objective, synthesizing a controlled outage in any quarter in which true failures have not brought availability below target
+# CASE-tmp3xxqg: The Chubby planned outage
 
 ## The case
 
