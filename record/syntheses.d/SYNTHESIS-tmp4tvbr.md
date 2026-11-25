@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: "The argument filed from the exchange Memes, Contracts, and Systemic Normativity, mapped: from the owner's memes as nucleation sites and as characters of perspectives, through contracts between processes and implicit contracts formed by reliance, to norms stabilized by dependence, exploitation as the asymmetric use of reliance, and the exchange's applications to engineering reliability, American governance, three constitutional theories, legibility, metrics and corporate objectives"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-24'
@@ -20,6 +20,13 @@ history:
     as an independent reader tested them under ADR-075: two passed and are
     integrated (CLAIM-tmpu77ve, CLAIM-tmp9ia3w), the rest are listed under
     Not stated on the record with their verdicts. No other change.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Places the 19 joins of the manuscript governance-of-becoming, Part II,
+    as an independent reader tested them under ADR-075: one passed in a
+    corrected form and is integrated (CLAIM-tmp7rl3d); the rest are listed
+    under Not stated on the record.
 defeated_if: >-
   A component misstated or misattributed here, with the owner's turns,
   A's (ChatGPT's) candidate syntheses and the assistant's gap fills and
@@ -71,6 +78,7 @@ bears_on:
 - QUESTION-128
 - QUESTION-071
 integrates:
+- CLAIM-tmp7rl3d
 - CLAIM-tmpu77ve
 - CLAIM-tmp9ia3w
 - CLAIM-tmp1ng5k
@@ -590,6 +598,27 @@ conditioned from negotiated coordination). The others:
   sense; corrected and filed as [CLAIM-tmp9ia3w](../claims.d/CLAIM-tmp9ia3w.md)) and J1.4 ([CLAIM-604](../claims.d/CLAIM-604.md) excludes
   other kinds of state-dependent uptake; [CASE-189](../cases.d/CASE-189.md)'s construction has no
   supply variable).
+
+
+### The joins of the manuscript governance-of-becoming, Part II
+
+The drafts of Articles 4 to 6 closed with 19 joins, tested by an
+independent reader on 2026-11-25 (the review of that date, Part B). One
+passed in a corrected form and is integrated above: CLAIM-tmp7rl3d
+(Article 4's J4.1: clarifying relieves by a distinction only where the
+readings' demands bear on different situations). The others:
+
+- **Failed as stated:** J4.1 as drafted ("productive exactly when relief");
+  J5.1 (inquiry as learning, a relabelling of CLAIM-475's sense; its
+  residue is a definitional question, noted on TERM-131); J6.4 (CLAIM-924's
+  limit does not carry over to a test with clear feedback).
+- **Misstated a component:** J6.3 (CASE-346; the remainder is a note on
+  LEAD-220 and CLAIM-1024, not a claim).
+- **Restatements:** JR4.1 (CLAIM-364, CLAIM-448, CLAIM-549), JR4.2
+  (CLAIM-923), J5.2 (CLAIM-1115), J5.3 (CASE-396, CLAIM-1064), J5.5 and
+  J5.6 (LEAD-tmpeo8wq), J6.1 (CLAIM-tmpp0ufw), J6.2 (CASE-397), J6.5 and
+  J6.6 (conjunctions).
+- **Rightly not made:** J4.2, J5.4, J5.7.
 
 ## What it does not say
 

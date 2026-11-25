@@ -621,3 +621,13 @@ legitimately acquire authority through similar dynamics." [CLAIM-340](CLAIM-340.
 about whether scoring predictions committed before the evidence removes
 capture, and says nothing of the kind; the point is [TERM-066](../terms.d/TERM-066.md)'s clause
 "without a gain in fidelity". The claim is unchanged.
+
+## Note of 2026-11-25: from the review of the manuscript governance-of-becoming, Part II: a correction
+
+<!-- inactive-ok-file: CLAIM-tmpp0ufw — Proposed; the fourth route -->
+
+The note of 2026-11-24 above says "This claim's three routes". This claim
+holds two routes (evidence and criteria); CLAIM-703 holds the third
+(circumstances), and CLAIM-tmpp0ufw proposes a fourth (formation). Found by
+the Part II drafter and confirmed by the independent join reader. The
+wording is the assistant's (Claude, in this session).

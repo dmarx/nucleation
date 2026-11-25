@@ -60,3 +60,18 @@ honest minority's standing, as [LEAD-180](LEAD-180.md) does.
   narrows to fewer conditions.
 - Also, a miscalibrated protected anchor with and without a slower
   survey, to test [CLAIM-1185](../claims.d/CLAIM-1185.md) in a second model.
+
+## Note of 2026-11-25: from the review of the manuscript governance-of-becoming, Part II
+
+Article 6's join J6.3 read CASE-346 as showing two of CLAIM-1024's
+conditions coming apart: protected evidence held while authority stayed
+coupled to apparent success. An independent reader found it misstated the
+case. CASE-346 ran the independent-reinforcement intervention in the
+success-and-restricted run, which has no inspection floor, and two of its
+results point the other way: with independent evaluation every run leaves
+protection, restricted runs included, which suggests CLAIM-1024's
+conditions narrowing rather than separating; and at the lower hazard rate
+(h = 0.002) the inspection floor alone ends protection in 99.5% of runs.
+Which part of the model counts as which condition is a free choice. This
+lead, which would test the conditions separately, should fix that mapping
+in advance. The wording is the assistant's (Claude, in this session).
