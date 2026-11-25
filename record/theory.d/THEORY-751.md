@@ -3,7 +3,14 @@ number: 751
 status: Active
 formerly:
 - THEORY-tmpe422n
-title: 'For a memoryless source with finite alphabets and a per-letter distortion, a description at rate R(D₁) can be refined to distortion D₂ < D₁ at total rate R(D₂) iff some pair of rate–distortion-optimal test channels forms a Markov chain X → X̂₂ → X̂₁; the condition holds for every discrete source under Hamming distortion and fails for some three-letter sources under absolute error'
+title: 'Refinability needs a Markov chain of channels'
+statement: >-
+  For a memoryless source with finite alphabets and a per-letter distortion,
+  a description at rate R(D₁) can be refined to distortion D₂ < D₁ at total
+  rate R(D₂) iff some pair of rate–distortion-optimal test channels forms a
+  Markov chain X → X̂₂ → X̂₁; the condition holds for every discrete source
+  under Hamming distortion and fails for some three-letter sources under
+  absolute error
 version: 2
 history:
 - version: 1
@@ -45,7 +52,7 @@ summary: >-
 bears_on:
 - QUESTION-220
 ---
-# THEORY-751: For a memoryless source with finite alphabets and a per-letter distortion, a description at rate R(D₁) can be refined to distortion D₂ < D₁ at total rate R(D₂) iff some pair of rate–distortion-optimal test channels forms a Markov chain X → X̂₂ → X̂₁; the condition holds for every discrete source under Hamming distortion and fails for some three-letter sources under absolute error
+# THEORY-751: Refinability needs a Markov chain of channels
 
 ## Source
 

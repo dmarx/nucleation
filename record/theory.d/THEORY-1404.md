@@ -3,7 +3,13 @@ number: 1404
 status: Active
 formerly:
 - THEORY-tmpkplf4
-title: 'Oskar and colleagues find that the evidence on procedural skill decay among emergency physicians cannot yet say how long a procedural skill lasts after competence: few studies make decay the primary outcome, almost none follow skills beyond a year, most rely on simulation and checklist scores and study trainees, and many required procedures are unstudied'
+title: 'Procedural skill decay span is still unknown'
+statement: >-
+  Oskar and colleagues find that the evidence on procedural skill decay
+  among emergency physicians cannot yet say how long a procedural skill
+  lasts after competence: few studies make decay the primary outcome, almost
+  none follow skills beyond a year, most rely on simulation and checklist
+  scores and study trainees, and many required procedures are unstudied
 version: 3
 history:
 - version: 2
@@ -44,7 +50,7 @@ bears_on:
 - QUESTION-403
 ---
 
-# THEORY-1404: Oskar and colleagues find that the evidence on procedural skill decay among emergency physicians cannot yet say how long a procedural skill lasts after competence: few studies make decay the primary outcome, almost none follow skills beyond a year, most rely on simulation and checklist scores and study trainees, and many required procedures are unstudied
+# THEORY-1404: Procedural skill decay span is still unknown
 
 ## Source
 

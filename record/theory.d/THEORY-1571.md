@@ -3,7 +3,14 @@ number: 1571
 status: Active
 formerly:
 - THEORY-tmp3g7jd
-title: 'Ramsey argues that a community that lives for ever and does not discount later enjoyments should save at the rate at which saving times the marginal utility of consumption equals the shortfall of present net enjoyment from Bliss, a rule independent of the interest rate, and he calls discounting later enjoyments ethically indefensible, a product of the weakness of the imagination'
+title: 'Undiscounted saving closes the gap to Bliss'
+statement: >-
+  Ramsey argues that a community that lives for ever and does not discount
+  later enjoyments should save at the rate at which saving times the
+  marginal utility of consumption equals the shortfall of present net
+  enjoyment from Bliss, a rule independent of the interest rate, and he
+  calls discounting later enjoyments ethically indefensible, a product of
+  the weakness of the imagination
 version: 2
 history:
 - version: 1
@@ -34,7 +41,7 @@ bears_on:
 - QUESTION-299
 ---
 
-# THEORY-1571: Ramsey argues that a community that lives for ever and does not discount later enjoyments should save at the rate at which saving times the marginal utility of consumption equals the shortfall of present net enjoyment from Bliss, a rule independent of the interest rate, and he calls discounting later enjoyments ethically indefensible, a product of the weakness of the imagination
+# THEORY-1571: Undiscounted saving closes the gap to Bliss
 
 ## The account
 

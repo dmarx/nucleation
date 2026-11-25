@@ -3,7 +3,16 @@ number: 1698
 status: Proposed
 formerly:
 - THEORY-tmpqixf6
-title: 'Strand and Burke argue that bracoviruses, descended from a nudivirus that infected the ancestor of microgastrine wasps about 100 million years ago, have become obligate beneficial symbionts: their replication genes persist only as an inherited provirus in the wasp genome, separate from the packaged virulence genes, and the virions they make in the female wasp''s ovary deliver genes into caterpillar hosts that suppress host immunity and alter host growth for the wasp''s offspring, without the virus ever replicating in the host.'
+title: 'Bracoviruses are obligate wasp symbionts'
+statement: >-
+  Strand and Burke argue that bracoviruses, descended from a nudivirus that
+  infected the ancestor of microgastrine wasps about 100 million years ago,
+  have become obligate beneficial symbionts: their replication genes persist
+  only as an inherited provirus in the wasp genome, separate from the
+  packaged virulence genes, and the virions they make in the female wasp's
+  ovary deliver genes into caterpillar hosts that suppress host immunity and
+  alter host growth for the wasp's offspring, without the virus ever
+  replicating in the host.
 version: 1
 source:
 - LIT-2379
@@ -28,7 +37,7 @@ summary: >-
   genes are expressed but never replicate.
 ---
 
-# THEORY-1698: Strand and Burke argue that bracoviruses, descended from a nudivirus that infected the ancestor of microgastrine wasps about 100 million years ago, have become obligate beneficial symbionts: their replication genes persist only as an inherited provirus in the wasp genome, separate from the packaged virulence genes, and the virions they make in the female wasp's ovary deliver genes into caterpillar hosts that suppress host immunity and alter host growth for the wasp's offspring, without the virus ever replicating in the host.
+# THEORY-1698: Bracoviruses are obligate wasp symbionts
 
 ## The account
 

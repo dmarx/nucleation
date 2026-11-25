@@ -27,8 +27,12 @@ promote_when: "Three results, none of which the source supplies. First, end-to-e
 
 # The claim. Repeat it as the body's `# THEORY-828:` heading; the lint checks
 # that the two agree.
-title: 'Fine-tuning from one pretrained model typically lands near the edge of a task-specific low-loss region in weight space that contains the convex hull of the fine-tuned models, and averaging their weights, as model soups and stochastic weight averaging do, works by moving inward'
-
+title: 'Weight averaging moves fine-tunes inward'
+statement: >-
+  Fine-tuning from one pretrained model typically lands near the edge of a
+  task-specific low-loss region in weight space that contains the convex
+  hull of the fine-tuned models, and averaging their weights, as model soups
+  and stochastic weight averaging do, works by moving inward
 version: 1
 
 # One or more topics from luria.yaml, primary first — the same table the
@@ -66,7 +70,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-107 — Proposed; the merging result this thesis would have to explain, named in What this does not say -->
 
-# THEORY-828: Fine-tuning from one pretrained model typically lands near the edge of a task-specific low-loss region in weight space that contains the convex hull of the fine-tuned models, and averaging their weights, as model soups and stochastic weight averaging do, works by moving inward
+# THEORY-828: Weight averaging moves fine-tunes inward
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1843
 status: Proposed
 formerly:
 - THEORY-tmpclnon
-title: 'Han argues that the power maintaining the neoliberal system is seductive rather than repressive, exploiting freedom instead of suppressing it, making people dependent and each a self-exploiting entrepreneur, so that there is no one to resist and the subjugated do not experience themselves as subjugated'
+title: 'Neoliberal power seduces rather than represses'
+statement: >-
+  Han argues that the power maintaining the neoliberal system is seductive
+  rather than repressive, exploiting freedom instead of suppressing it,
+  making people dependent and each a self-exploiting entrepreneur, so that
+  there is no one to resist and the subjugated do not experience themselves
+  as subjugated
 version: 1
 source:
 - LIT-2573
@@ -26,7 +32,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-682 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-2567 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 
-# THEORY-1843: Han argues that the power maintaining the neoliberal system is seductive rather than repressive, exploiting freedom instead of suppressing it, making people dependent and each a self-exploiting entrepreneur, so that there is no one to resist and the subjugated do not experience themselves as subjugated
+# THEORY-1843: Neoliberal power seduces rather than represses
 
 ## The account
 

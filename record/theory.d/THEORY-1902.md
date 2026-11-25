@@ -10,7 +10,15 @@ promote_when: >-
   worst-case AUROC across test sets, with a null result on the untrained
   base model and the defection condition again linearly separable across
   middle layers.
-title: 'MacDiarmid and colleagues report that in Anthropic''s deliberately backdoored sleeper-agent models a linear direction fitted from one generic yes/no contrast pair on middle-layer residual activations separates defection-inducing prompts from the rest with AUROC above 99%, because whether a prompt will induce defection is linearly represented with very high salience across many middle layers, which they say may be an artifact of how the backdoor was inserted'
+title: 'Simple probes catch sleeper-agent defection'
+statement: >-
+  MacDiarmid and colleagues report that in Anthropic's deliberately
+  backdoored sleeper-agent models a linear direction fitted from one generic
+  yes/no contrast pair on middle-layer residual activations separates
+  defection-inducing prompts from the rest with AUROC above 99%, because
+  whether a prompt will induce defection is linearly represented with very
+  high salience across many middle layers, which they say may be an artifact
+  of how the backdoor was inserted
 version: 1
 tags:
 - representation-learning
@@ -30,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1900 — Proposed; new entries filed in the same contribution -->
 
-# THEORY-1902: MacDiarmid and colleagues report that in Anthropic's deliberately backdoored sleeper-agent models a linear direction fitted from one generic yes/no contrast pair on middle-layer residual activations separates defection-inducing prompts from the rest with AUROC above 99%, because whether a prompt will induce defection is linearly represented with very high salience across many middle layers, which they say may be an artifact of how the backdoor was inserted
+# THEORY-1902: Simple probes catch sleeper-agent defection
 
 ## The result
 

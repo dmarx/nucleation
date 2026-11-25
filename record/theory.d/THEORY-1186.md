@@ -14,7 +14,12 @@ promote_when: >-
   if, in such a study, the facets do not differ in direction, or if the
   directions reverse between tasks. Further single studies with one task
   and one measure cannot settle it.
-title: 'Across computational studies of exploration in reward-based bandit tasks, mostly in sub-clinical samples and not yet replicated, directed exploration tends to rise with trait or cognitive anxiety and to fall with state or somatic anxiety'
+title: 'Directed exploration splits by anxiety type'
+statement: >-
+  Across computational studies of exploration in reward-based bandit tasks,
+  mostly in sub-clinical samples and not yet replicated, directed
+  exploration tends to rise with trait or cognitive anxiety and to fall with
+  state or somatic anxiety
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -36,7 +41,7 @@ summary: >-
   study links them, and [THEORY-917](THEORY-917.md)'s note of 2026-10-30 says why.
 ---
 
-# THEORY-1186: Across computational studies of exploration in reward-based bandit tasks, mostly in sub-clinical samples and not yet replicated, directed exploration tends to rise with trait or cognitive anxiety and to fall with state or somatic anxiety
+# THEORY-1186: Directed exploration splits by anxiety type
 
 ## Source
 

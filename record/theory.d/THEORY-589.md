@@ -14,7 +14,13 @@ promote_when: >-
   literature. A further survey listing the counterexamples cannot settle
   it, and neither can the formal results about which axioms yield which
   theory, which hold whatever "part" means.
-title: "No principle of mereology is merely a fixing of what 'part' means: even reflexivity, transitivity and antisymmetry face counterexamples that do not rest on equivocation, and every principle beyond them is contested, so classical mereology is one substantive theory among several and not a neutral default"
+title: 'No mereological principle is merely definitional'
+statement: >-
+  No principle of mereology is merely a fixing of what 'part' means: even
+  reflexivity, transitivity and antisymmetry face counterexamples that do
+  not rest on equivocation, and every principle beyond them is contested, so
+  classical mereology is one substantive theory among several and not a
+  neutral default
 version: 1
 tags:
 - mereology
@@ -37,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-005 LIT-049 LIT-188 — Proposed; biological-individuality readings named as what the distinction bears on, not leaned on -->
 <!-- inactive-ok-file: THEORY-452 THEORY-540 — Proposed; accounts from the same batch named as instances, not leaned on -->
 
-# THEORY-589: No principle of mereology is merely a fixing of what 'part' means: even reflexivity, transitivity and antisymmetry face counterexamples that do not rest on equivocation, and every principle beyond them is contested, so classical mereology is one substantive theory among several and not a neutral default
+# THEORY-589: No mereological principle is merely definitional
 
 ## Source
 

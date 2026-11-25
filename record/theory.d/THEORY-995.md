@@ -13,7 +13,13 @@ promote_when: >-
   compensate as much. Finding backup heads in more models trained with
   dropout cannot settle it, since that is the observation it would
   explain.
-title: 'The attention heads in GPT-2 small that take over the indirect-object prediction when its main name mover heads are knocked out exist because the model was trained with dropout, which optimized it to be robust to disabled components, as Wang, Variengien, Conmy, Shlegeris and Steinhardt hypothesize'
+title: 'Backup name movers arise from dropout'
+statement: >-
+  The attention heads in GPT-2 small that take over the indirect-object
+  prediction when its main name mover heads are knocked out exist because
+  the model was trained with dropout, which optimized it to be robust to
+  disabled components, as Wang, Variengien, Conmy, Shlegeris and Steinhardt
+  hypothesize
 version: 1
 history:
 - version: 1
@@ -40,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-367 — Proposed; the claim about training-time conditions this bears on, cited as open -->
 
-# THEORY-995: The attention heads in GPT-2 small that take over the indirect-object prediction when its main name mover heads are knocked out exist because the model was trained with dropout, which optimized it to be robust to disabled components, as Wang, Variengien, Conmy, Shlegeris and Steinhardt hypothesize
+# THEORY-995: Backup name movers arise from dropout
 
 ## Source
 

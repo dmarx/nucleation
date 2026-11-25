@@ -13,7 +13,16 @@ promote_when: >-
   intermediate from the original, with the information in that
   component estimated, not shown by example. A demonstration on one model
   by pictures does not settle it.
-title: 'A CycleGAN trained to translate aerial photographs to maps and back satisfies its cycle-consistency loss by encoding details of the photograph in a low-amplitude, high-frequency signal in the generated map: the reconstruction recovers details the visible map lacks, is destroyed by noise of three 8-bit levels or by JPEG compression and survives low-frequency change, and the same sensitivity lets an imperceptible perturbation of almost any map make the reverse generator output any chosen photograph'
+title: 'CycleGAN hides photo detail in faint map signals'
+statement: >-
+  A CycleGAN trained to translate aerial photographs to maps and back
+  satisfies its cycle-consistency loss by encoding details of the photograph
+  in a low-amplitude, high-frequency signal in the generated map: the
+  reconstruction recovers details the visible map lacks, is destroyed by
+  noise of three 8-bit levels or by JPEG compression and survives
+  low-frequency change, and the same sensitivity lets an imperceptible
+  perturbation of almost any map make the reverse generator output any
+  chosen photograph
 version: 1
 tags:
 - representation-learning
@@ -30,7 +39,7 @@ summary: >-
   recur on other datasets, not shown.
 ---
 
-# THEORY-1127: A CycleGAN trained to translate aerial photographs to maps and back satisfies its cycle-consistency loss by encoding details of the photograph in a low-amplitude, high-frequency signal in the generated map: the reconstruction recovers details the visible map lacks, is destroyed by noise of three 8-bit levels or by JPEG compression and survives low-frequency change, and the same sensitivity lets an imperceptible perturbation of almost any map make the reverse generator output any chosen photograph
+# THEORY-1127: CycleGAN hides photo detail in faint map signals
 
 ## Source
 

@@ -17,7 +17,13 @@ promote_when: >-
   single-size runs, or pictures of structured embeddings in larger models,
   are the wrong kind of evidence: they show structure, not that the
   training set's equations are what fix it.
-title: 'In networks that learn addition from summed embeddings, the critical training fraction of grokking is the fraction at which the training set''s same-answer pairs come to fix the generalising representation up to translation and scale, at every group size, as Liu, Kitouni, Nolte, Michaud, Tegmark and Williams propose'
+title: 'Grokking onset: pairs fix the representation'
+statement: >-
+  In networks that learn addition from summed embeddings, the critical
+  training fraction of grokking is the fraction at which the training set's
+  same-answer pairs come to fix the generalising representation up to
+  translation and scale, at every group size, as Liu, Kitouni, Nolte,
+  Michaud, Tegmark and Williams propose
 version: 1
 tags:
 - representation-learning
@@ -42,7 +48,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-2193 — Proposed; the reading of Yang filed 2026-11-22 -->
 
-# THEORY-782: In networks that learn addition from summed embeddings, the critical training fraction of grokking is the fraction at which the training set's same-answer pairs come to fix the generalising representation up to translation and scale, at every group size, as Liu, Kitouni, Nolte, Michaud, Tegmark and Williams propose
+# THEORY-782: Grokking onset: pairs fix the representation
 
 ## Source
 

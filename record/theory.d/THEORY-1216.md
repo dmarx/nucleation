@@ -3,7 +3,15 @@ number: 1216
 status: Proposed
 formerly:
 - THEORY-tmpstm9o
-title: 'Ill structured problems can be handled by an alternation between a solver working on a problem that is well structured at each moment and a recognition and retrieval system that keeps modifying the problem space from memory or the environment, a serial solver gains nothing by assembling the problem space at the outset, and nothing but the size of the knowledge base may separate ill from well structured problems, so that no qualitatively new mechanisms are needed'
+title: 'Ill-structured problems need no new mechanisms'
+statement: >-
+  Ill structured problems can be handled by an alternation between a solver
+  working on a problem that is well structured at each moment and a
+  recognition and retrieval system that keeps modifying the problem space
+  from memory or the environment, a serial solver gains nothing by
+  assembling the problem space at the outset, and nothing but the size of
+  the knowledge base may separate ill from well structured problems, so that
+  no qualitatively new mechanisms are needed
 version: 1
 tags:
 - cognition
@@ -35,7 +43,7 @@ summary: >-
   and Simon states the last part as what his analysis "suggests".
 ---
 
-# THEORY-1216: Ill structured problems can be handled by an alternation between a solver working on a problem that is well structured at each moment and a recognition and retrieval system that keeps modifying the problem space from memory or the environment, a serial solver gains nothing by assembling the problem space at the outset, and nothing but the size of the knowledge base may separate ill from well structured problems, so that no qualitatively new mechanisms are needed
+# THEORY-1216: Ill-structured problems need no new mechanisms
 
 ## Source
 

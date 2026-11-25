@@ -3,7 +3,14 @@ number: 2007
 status: Proposed
 formerly:
 - THEORY-tmp3hfjg
-title: 'Sun and colleagues show that fine-tuning a jointly trained network''s shared features on a self-supervised task formed from each unlabeled test image, before predicting, improves image classification under distribution shift without hurting the original distribution, that keeping the update across a stream of test images improves it further, and that the gain tracks the alignment of the self-supervised and main-task gradients'
+title: 'Test-time training improves robustness to shift'
+statement: >-
+  Sun and colleagues show that fine-tuning a jointly trained network's
+  shared features on a self-supervised task formed from each unlabeled test
+  image, before predicting, improves image classification under distribution
+  shift without hurting the original distribution, that keeping the update
+  across a stream of test images improves it further, and that the gain
+  tracks the alignment of the self-supervised and main-task gradients
 version: 1
 source:
 - LIT-2821
@@ -35,7 +42,7 @@ summary: >-
   work moved to test time ([QUESTION-095](../questions.d/QUESTION-095.md)). Read in its NOTE.
 ---
 
-# THEORY-2007: Sun and colleagues show that fine-tuning a jointly trained network's shared features on a self-supervised task formed from each unlabeled test image, before predicting, improves image classification under distribution shift without hurting the original distribution, that keeping the update across a stream of test images improves it further, and that the gain tracks the alignment of the self-supervised and main-task gradients
+# THEORY-2007: Test-time training improves robustness to shift
 
 ## The account
 

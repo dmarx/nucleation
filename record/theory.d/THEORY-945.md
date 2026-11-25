@@ -3,7 +3,20 @@ number: 945
 status: Active
 formerly:
 - THEORY-tmpy4yji
-title: 'When each agent''s Q-function is approximated as an average of pairwise terms and expanded about the mean action of its neighbours, the first-order term vanishes and the approximation error is a second-order remainder bounded by the curvature of the pairwise Q-function, leaving a two-body problem between an agent and its neighbours'' average; Yang et al. state that with homogeneous agents mean field Q-learning converges to the Nash Q-value under three assumptions, one of which they call a strong constraint, by a proof whose contraction step needs a temperature above K/2 while its greedy-in-the-limit assumption needs the temperature to fall to zero; in their Gaussian Squeeze runs with 500 and 1000 agents, mean field Q-learning and actor-critic learned the optimal allocation where independent learners, FMQ, Rec-FMQ and a MADDPG variant failed'
+title: 'Mean field Q reduces many agents to two bodies'
+statement: >-
+  When each agent's Q-function is approximated as an average of pairwise
+  terms and expanded about the mean action of its neighbours, the
+  first-order term vanishes and the approximation error is a second-order
+  remainder bounded by the curvature of the pairwise Q-function, leaving a
+  two-body problem between an agent and its neighbours' average; Yang et al.
+  state that with homogeneous agents mean field Q-learning converges to the
+  Nash Q-value under three assumptions, one of which they call a strong
+  constraint, by a proof whose contraction step needs a temperature above
+  K/2 while its greedy-in-the-limit assumption needs the temperature to fall
+  to zero; in their Gaussian Squeeze runs with 500 and 1000 agents, mean
+  field Q-learning and actor-critic learned the optimal allocation where
+  independent learners, FMQ, Rec-FMQ and a MADDPG variant failed
 version: 2
 history:
 - version: 2
@@ -44,7 +57,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-1231 — Proposed; the wide form this entry was narrowed from, which extends it -->
 
-# THEORY-945: When each agent's Q-function is approximated as an average of pairwise terms and expanded about the mean action of its neighbours, the first-order term vanishes and the approximation error is a second-order remainder bounded by the curvature of the pairwise Q-function, leaving a two-body problem between an agent and its neighbours' average; Yang et al. state that with homogeneous agents mean field Q-learning converges to the Nash Q-value under three assumptions, one of which they call a strong constraint, by a proof whose contraction step needs a temperature above K/2 while its greedy-in-the-limit assumption needs the temperature to fall to zero; in their Gaussian Squeeze runs with 500 and 1000 agents, mean field Q-learning and actor-critic learned the optimal allocation where independent learners, FMQ, Rec-FMQ and a MADDPG variant failed
+# THEORY-945: Mean field Q reduces many agents to two bodies
 
 ## Source
 

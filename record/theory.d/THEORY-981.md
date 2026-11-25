@@ -3,7 +3,17 @@ number: 981
 status: Active
 formerly:
 - THEORY-tmpdxhxm
-title: 'When a data distribution is unchanged by a group of orthogonal transformations under which a network is equivariant, the weights fixed by that group form a subspace that population gradient descent never leaves; for attention-only transformers on block-list inductive tasks, with fixed orthogonal write maps, Musat, Pimentel, Zucchet and Hofmann compute this subspace as the span of a few elementary token and position actions composed through the heads, and an elementwise optimizer such as sign descent keeps it only when those actions are aligned with the parameter coordinates'
+title: 'Symmetry fixes a subspace gradient descent keeps'
+statement: >-
+  When a data distribution is unchanged by a group of orthogonal
+  transformations under which a network is equivariant, the weights fixed by
+  that group form a subspace that population gradient descent never leaves;
+  for attention-only transformers on block-list inductive tasks, with fixed
+  orthogonal write maps, Musat, Pimentel, Zucchet and Hofmann compute this
+  subspace as the span of a few elementary token and position actions
+  composed through the heads, and an elementwise optimizer such as sign
+  descent keeps it only when those actions are aligned with the parameter
+  coordinates
 version: 2
 history:
 - version: 1
@@ -59,7 +69,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-783 THEORY-802 CLAIM-263 — Proposed; accounts and claims this one is set beside, cited as open -->
 <!-- inactive-ok-file: CLAIM-367 — Proposed; the claim this reading corroborates, nothing here rests on it -->
 
-# THEORY-981: When a data distribution is unchanged by a group of orthogonal transformations under which a network is equivariant, the weights fixed by that group form a subspace that population gradient descent never leaves; for attention-only transformers on block-list inductive tasks, with fixed orthogonal write maps, Musat, Pimentel, Zucchet and Hofmann compute this subspace as the span of a few elementary token and position actions composed through the heads, and an elementwise optimizer such as sign descent keeps it only when those actions are aligned with the parameter coordinates
+# THEORY-981: Symmetry fixes a subspace gradient descent keeps
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 480
 status: Active
 formerly:
 - THEORY-tmpa54f5
-title: "Where a general-search monopoly was kept by exclusive distribution deals, the court in United States v. Google treated the user-interaction data that scale produced as a fruit of the violation and ordered the raw data and index metadata shared with qualified competitors, but not the engineered signals and models built from them, as a behavioural remedy while rejecting divestiture; that the sharing will let rivals compete is the court's expectation, not a finding"
+title: 'Google must share search data, not models'
+statement: >-
+  Where a general-search monopoly was kept by exclusive distribution deals,
+  the court in United States v. Google treated the user-interaction data
+  that scale produced as a fruit of the violation and ordered the raw data
+  and index metadata shared with qualified competitors, but not the
+  engineered signals and models built from them, as a behavioural remedy
+  while rejecting divestiture; that the sharing will let rivals compete is
+  the court's expectation, not a finding
 version: 2
 history:
 - version: 2
@@ -54,7 +62,7 @@ summary: >-
   proof, not a finding that there is none.
 ---
 
-# THEORY-480: Where a general-search monopoly was kept by exclusive distribution deals, the court in United States v. Google treated the user-interaction data that scale produced as a fruit of the violation and ordered the raw data and index metadata shared with qualified competitors, but not the engineered signals and models built from them, as a behavioural remedy while rejecting divestiture; that the sharing will let rivals compete is the court's expectation, not a finding
+# THEORY-480: Google must share search data, not models
 
 ## Source
 

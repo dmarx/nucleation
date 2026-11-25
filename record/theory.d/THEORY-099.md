@@ -23,7 +23,11 @@ promote_when: >-
   simulations of the same Hamiltonian, cannot settle it. Nothing in this
   field bears on consciousness or Orch OR, and no result about them
   should be counted here.
-title: 'Tryptophan networks in microtubule architectures support collective superradiant excitonic states, and their thermal quantum yield rises with network size and survives static disorder of room-temperature size'
+title: 'Tryptophan networks support superradiance'
+statement: >-
+  Tryptophan networks in microtubule architectures support collective
+  superradiant excitonic states, and their thermal quantum yield rises with
+  network size and survives static disorder of room-temperature size
 version: 1
 tags:
 - natural-sciences
@@ -45,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-627 — Unavailable; Derakhshani et al., unread, named only as the collapse-side test of Orch OR this account does not touch -->
 
-# THEORY-099: Tryptophan networks in microtubule architectures support collective superradiant excitonic states, and their thermal quantum yield rises with network size and survives static disorder of room-temperature size
+# THEORY-099: Tryptophan networks support superradiance
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 2035
 status: Proposed
 formerly:
 - THEORY-tmpmtmq7
-title: 'Li and Webb report that in small transformers and attention-free MLPs trained from scratch on in-context ABA/ABB completion with arbitrary tokens, a swappable token-invariant rule representation develops according to training-data diversity (vocabulary, rules, examples, role-token bias), not according to the architectural features tested, and that at small vocabularies it arrives well after the task is solved'
+title: 'Abstract rules follow data diversity, not design'
+statement: >-
+  Li and Webb report that in small transformers and attention-free MLPs
+  trained from scratch on in-context ABA/ABB completion with arbitrary
+  tokens, a swappable token-invariant rule representation develops according
+  to training-data diversity (vocabulary, rules, examples, role-token bias),
+  not according to the architectural features tested, and that at small
+  vocabularies it arrives well after the task is solved
 version: 1
 source:
 - LIT-2830
@@ -33,7 +40,7 @@ summary: >-
   is no random-network control.
 ---
 
-# THEORY-2035: Li and Webb report that in small transformers and attention-free MLPs trained from scratch on in-context ABA/ABB completion with arbitrary tokens, a swappable token-invariant rule representation develops according to training-data diversity (vocabulary, rules, examples, role-token bias), not according to the architectural features tested, and that at small vocabularies it arrives well after the task is solved
+# THEORY-2035: Abstract rules follow data diversity, not design
 
 ## The account
 

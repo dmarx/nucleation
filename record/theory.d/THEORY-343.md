@@ -15,7 +15,13 @@ promote_when: >-
   or correlations between confidence and offloading, cannot settle it: those
   are already held, and they do not separate belief from ability. The memory
   cost needs a preregistered replication of the saved-versus-erased effect.
-title: "In laboratory choice tasks, people offload cognition more as a task's internal demand rises, but the choice follows their evaluation of the demand rather than its benefit: they offload where it gives no gain and more when less confident at equal ability, and offloading can lower memory for what was offloaded"
+title: 'Offloading tracks felt demand, not benefit'
+statement: >-
+  In laboratory choice tasks, people offload cognition more as a task's
+  internal demand rises, but the choice follows their evaluation of the
+  demand rather than its benefit: they offload where it gives no gain and
+  more when less confident at equal ability, and offloading can lower memory
+  for what was offloaded
 version: 1
 tags:
 - cognition
@@ -38,7 +44,7 @@ bears_on:
 - QUESTION-095
 ---
 
-# THEORY-343: In laboratory choice tasks, people offload cognition more as a task's internal demand rises, but the choice follows their evaluation of the demand rather than its benefit: they offload where it gives no gain and more when less confident at equal ability, and offloading can lower memory for what was offloaded
+# THEORY-343: Offloading tracks felt demand, not benefit
 
 ## Source
 

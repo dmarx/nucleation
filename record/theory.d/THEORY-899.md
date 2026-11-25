@@ -3,7 +3,16 @@ number: 899
 status: Active
 formerly:
 - THEORY-tmp3oyxw
-title: 'In an infinite, well-mixed population whose members each sample the quality of their own type, imitation of success has the expected update of a single Cross Learning bandit agent (the Taylor replicator dynamic), and the weighted voter model, in which members broadcast their type in proportion to their sample and adopt the first type they perceive, has the expected update of Maynard-Cross Learning, π_a ← π_a + (r_k / v^π)(1[a = k] − π_a), the Maynard-Smith replicator dynamic; the population vector is the policy and no member learns'
+title: 'Imitating populations run replicator learning'
+statement: >-
+  In an infinite, well-mixed population whose members each sample the
+  quality of their own type, imitation of success has the expected update of
+  a single Cross Learning bandit agent (the Taylor replicator dynamic), and
+  the weighted voter model, in which members broadcast their type in
+  proportion to their sample and adopt the first type they perceive, has the
+  expected update of Maynard-Cross Learning, π_a ← π_a + (r_k / v^π)(1[a =
+  k] − π_a), the Maynard-Smith replicator dynamic; the population vector is
+  the policy and no member learns
 version: 2
 history:
 - version: 2
@@ -43,7 +52,7 @@ summary: >-
   bandit policy over the members' types.
 ---
 
-# THEORY-899: In an infinite, well-mixed population whose members each sample the quality of their own type, imitation of success has the expected update of a single Cross Learning bandit agent (the Taylor replicator dynamic), and the weighted voter model, in which members broadcast their type in proportion to their sample and adopt the first type they perceive, has the expected update of Maynard-Cross Learning, π_a ← π_a + (r_k / v^π)(1[a = k] − π_a), the Maynard-Smith replicator dynamic; the population vector is the policy and no member learns
+# THEORY-899: Imitating populations run replicator learning
 
 ## Source
 

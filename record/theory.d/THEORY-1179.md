@@ -3,7 +3,14 @@ number: 1179
 status: Proposed
 formerly:
 - THEORY-tmpdw1un
-title: 'In an active-inference model of post-traumatic context inference, an overly precise prior that one is in a harmful context makes exploratory sampling look uninformative, so the agent attenuates the periphery, never receives the evidence that would correct the prior, and the belief sustains itself; lowering precision removes the symptoms without correcting the prior'
+title: 'Over-precise harm prior blocks its own correction'
+statement: >-
+  In an active-inference model of post-traumatic context inference, an
+  overly precise prior that one is in a harmful context makes exploratory
+  sampling look uninformative, so the agent attenuates the periphery, never
+  receives the evidence that would correct the prior, and the belief
+  sustains itself; lowering precision removes the symptoms without
+  correcting the prior
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -41,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-1 rule this entry is filed under -->
 
-# THEORY-1179: In an active-inference model of post-traumatic context inference, an overly precise prior that one is in a harmful context makes exploratory sampling look uninformative, so the agent attenuates the periphery, never receives the evidence that would correct the prior, and the belief sustains itself; lowering precision removes the symptoms without correcting the prior
+# THEORY-1179: Over-precise harm prior blocks its own correction
 
 ## Source
 

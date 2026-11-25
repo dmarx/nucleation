@@ -3,7 +3,13 @@ number: 2119
 status: Proposed
 formerly:
 - THEORY-tmpqv5vx
-title: 'Butterfill and Apperly construct a minimal theory of mind in which encountering and registration stand in for perception and belief, and argue that it suffices for systematic success on false-belief tasks about location but cannot track beliefs involving identity or quantification, because registration lacks representational content and embedding'
+title: 'Minimal theory of mind can''t track identity'
+statement: >-
+  Butterfill and Apperly construct a minimal theory of mind in which
+  encountering and registration stand in for perception and belief, and
+  argue that it suffices for systematic success on false-belief tasks about
+  location but cannot track beliefs involving identity or quantification,
+  because registration lacks representational content and embedding
 version: 1
 source:
 - LIT-2896
@@ -20,7 +26,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2119: Butterfill and Apperly construct a minimal theory of mind in which encountering and registration stand in for perception and belief, and argue that it suffices for systematic success on false-belief tasks about location but cannot track beliefs involving identity or quantification, because registration lacks representational content and embedding
+# THEORY-2119: Minimal theory of mind can't track identity
 
 ## The account
 

@@ -3,7 +3,12 @@ number: 1922
 status: Proposed
 formerly:
 - THEORY-tmpajv4l
-title: 'Lohmann and colleagues'' meta-analysis finds exposure to coercive control moderately associated with PTSD and depression symptoms, comparably to broader psychological intimate partner violence in the same studies and not, as they predicted, more strongly'
+title: 'Coercive control''s PTSD link matches psych IPV''s'
+statement: >-
+  Lohmann and colleagues' meta-analysis finds exposure to coercive control
+  moderately associated with PTSD and depression symptoms, comparably to
+  broader psychological intimate partner violence in the same studies and
+  not, as they predicted, more strongly
 version: 2
 history:
 - version: 2
@@ -34,7 +39,7 @@ source:
 <!-- inactive-ok-file: CLAIM-709 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmp0cj7p — removed at the reconciliation of 2026-11-18; named for provenance -->
 
-# THEORY-1922: Lohmann and colleagues' meta-analysis finds exposure to coercive control moderately associated with PTSD and depression symptoms, comparably to broader psychological intimate partner violence in the same studies and not, as they predicted, more strongly
+# THEORY-1922: Coercive control's PTSD link matches psych IPV's
 
 ## Source
 

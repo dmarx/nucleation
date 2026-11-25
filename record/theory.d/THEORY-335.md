@@ -3,7 +3,17 @@ number: 335
 status: Active
 formerly:
 - THEORY-tmp9h2k0
-title: "Selective accessibility, the account that comparing a target with a plausible anchor makes anchor-consistent knowledge more accessible and that this knowledge carries anchoring, fits the moderations of the effect by applicability, representativeness and plausibility that Strack and Mussweiler found, but its accessibility step is inferred, not measured: Harris et al.'s repetition of the recognition test of it, four times by lexical decision and once by continuous identification, found nothing in five preregistered experiments, with tasks that also missed direct picture priming"
+title: 'Selective accessibility''s key step is unmeasured'
+statement: >-
+  Selective accessibility, the account that comparing a target with a
+  plausible anchor makes anchor-consistent knowledge more accessible and
+  that this knowledge carries anchoring, fits the moderations of the effect
+  by applicability, representativeness and plausibility that Strack and
+  Mussweiler found, but its accessibility step is inferred, not measured:
+  Harris et al.'s repetition of the recognition test of it, four times by
+  lexical decision and once by continuous identification, found nothing in
+  five preregistered experiments, with tasks that also missed direct picture
+  priming
 version: 2
 history:
 - version: 2
@@ -51,7 +61,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-1078 — Unavailable; held without a reading, cited as such -->
 <!-- inactive-ok-file: CLAIM-298 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# THEORY-335: Selective accessibility, the account that comparing a target with a plausible anchor makes anchor-consistent knowledge more accessible and that this knowledge carries anchoring, fits the moderations of the effect by applicability, representativeness and plausibility that Strack and Mussweiler found, but its accessibility step is inferred, not measured: Harris et al.'s repetition of the recognition test of it, four times by lexical decision and once by continuous identification, found nothing in five preregistered experiments, with tasks that also missed direct picture priming
+# THEORY-335: Selective accessibility's key step is unmeasured
 
 ## Source
 

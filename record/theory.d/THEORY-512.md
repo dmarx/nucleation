@@ -17,7 +17,13 @@ promote_when: >-
   either half: more paradigm cases that fit the sensorimotor statement
   (Otto, Tetris, the phone), or intuitions that a phone is or is not part
   of one's mind.
-title: "The extended-mind thesis worth disputing is that external entities partly constitute a subject's mental states in virtue of the subject's sensorimotor interaction with them; so stated it can reach standing belief but not consciousness, if consciousness needs information directly available for global control, since perception makes availability indirect"
+title: 'Extended mind can reach belief, not consciousness'
+statement: >-
+  The extended-mind thesis worth disputing is that external entities partly
+  constitute a subject's mental states in virtue of the subject's
+  sensorimotor interaction with them; so stated it can reach standing belief
+  but not consciousness, if consciousness needs information directly
+  available for global control, since perception makes availability indirect
 version: 1
 tags:
 - cognition
@@ -49,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-412 — Unavailable; Clark's book, which the foreword introduces, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-528 THEORY-591 THEORY-540 — Proposed; the rival accounts and a neighbouring account of implants, named in Connections, not leaned on -->
 
-# THEORY-512: The extended-mind thesis worth disputing is that external entities partly constitute a subject's mental states in virtue of the subject's sensorimotor interaction with them; so stated it can reach standing belief but not consciousness, if consciousness needs information directly available for global control, since perception makes availability indirect
+# THEORY-512: Extended mind can reach belief, not consciousness
 
 ## Source
 

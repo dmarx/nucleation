@@ -15,7 +15,10 @@ promote_when: >-
   experimenter's presence is matched across conditions. More reports of
   defendants' claims to have obeyed orders cannot settle it: the review
   calls them open to "secondary gain".
-title: "Acting on a coercive instruction reduces the implicit sense of agency over the outcome, compared with freely choosing the same action"
+title: 'Coercion reduces the sense of agency'
+statement: >-
+  Acting on a coercive instruction reduces the implicit sense of agency over
+  the outcome, compared with freely choosing the same action
 version: 1
 tags:
 - agency
@@ -36,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-235 THEORY-040 — Proposed; manipulation accounts this one is set beside, not leaned on -->
 <!-- inactive-ok-file: THEORY-322 — Proposed; filed from the same reading, named -->
 
-# THEORY-300: Acting on a coercive instruction reduces the implicit sense of agency over the outcome, compared with freely choosing the same action
+# THEORY-300: Coercion reduces the sense of agency
 
 ## Source
 

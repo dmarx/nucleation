@@ -13,7 +13,13 @@ promote_when: >-
   ones. What cannot settle it: more selected neuron maps or sweeps, or
   behavioural anecdotes from large models, which are the kind of evidence
   the paper already has.
-title: "Fitting the same function in the same architecture does not fix the internal decomposition: SGD reproduces three Picbreeder images from random weights without the reuse and factoring of the evolved networks, and perturbing its weights breaks the regularities that perturbing the evolved networks' weights preserves"
+title: 'Same function, different internal decomposition'
+statement: >-
+  Fitting the same function in the same architecture does not fix the
+  internal decomposition: SGD reproduces three Picbreeder images from random
+  weights without the reuse and factoring of the evolved networks, and
+  perturbing its weights breaks the regularities that perturbing the evolved
+  networks' weights preserves
 version: 1
 tags:
 - representation-learning
@@ -35,7 +41,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-210 — Proposed; accounts this one bears on -->
 
-# THEORY-241: Fitting the same function in the same architecture does not fix the internal decomposition: SGD reproduces three Picbreeder images from random weights without the reuse and factoring of the evolved networks, and perturbing its weights breaks the regularities that perturbing the evolved networks' weights preserves
+# THEORY-241: Same function, different internal decomposition
 
 ## Source
 

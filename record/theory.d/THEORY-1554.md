@@ -8,7 +8,14 @@ promote_when: >-
   for ideal pure-force wrenches confirms that a rigid stage's freedom space
   and its constraint space determine each other one to one, and that the
   pairs fall into 26 types across one to six non-redundant constraints.
-title: 'For a rigid stage held in parallel by ideal wire-like flexures under small motions, the motions the stage permits and the lines along which a constraint can be added without changing them determine each other uniquely as reciprocal screw spaces, and for pure-force constraints these pairs fall into 26 types indexed by the number of non-redundant constraints'
+title: 'Flexure permitted motions and constraints are dual'
+statement: >-
+  For a rigid stage held in parallel by ideal wire-like flexures under small
+  motions, the motions the stage permits and the lines along which a
+  constraint can be added without changing them determine each other
+  uniquely as reciprocal screw spaces, and for pure-force constraints these
+  pairs fall into 26 types indexed by the number of non-redundant
+  constraints
 version: 1
 history:
 - version: 1
@@ -38,7 +45,7 @@ summary: >-
   demonstrated, if a reviewer writes it out.
 ---
 
-# THEORY-1554: For a rigid stage held in parallel by ideal wire-like flexures under small motions, the motions the stage permits and the lines along which a constraint can be added without changing them determine each other uniquely as reciprocal screw spaces, and for pure-force constraints these pairs fall into 26 types indexed by the number of non-redundant constraints
+# THEORY-1554: Flexure permitted motions and constraints are dual
 
 ## Source
 

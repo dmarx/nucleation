@@ -3,7 +3,16 @@ number: 1809
 status: Proposed
 formerly:
 - THEORY-tmpymq8w
-title: 'Polski and Ostrom present the Institutional Analysis and Development framework as a procedure for policy analysis that attends to rules-in-use rather than rules merely articulated, classifies them into position, boundary, authority, aggregation, scope, information and payoff rules, and distinguishes nested operational, collective-choice and constitutional levels, in which collective-choice rules fix who may change operating rules and how, and constitutional rules fix who may craft collective-choice rules and how.'
+title: 'IAD analyses rules-in-use at nested levels'
+statement: >-
+  Polski and Ostrom present the Institutional Analysis and Development
+  framework as a procedure for policy analysis that attends to rules-in-use
+  rather than rules merely articulated, classifies them into position,
+  boundary, authority, aggregation, scope, information and payoff rules, and
+  distinguishes nested operational, collective-choice and constitutional
+  levels, in which collective-choice rules fix who may change operating
+  rules and how, and constitutional rules fix who may craft
+  collective-choice rules and how.
 version: 1
 tags:
 - society-and-governance
@@ -25,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1842 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# THEORY-1809: Polski and Ostrom present the Institutional Analysis and Development framework as a procedure for policy analysis that attends to rules-in-use rather than rules merely articulated, classifies them into position, boundary, authority, aggregation, scope, information and payoff rules, and distinguishes nested operational, collective-choice and constitutional levels, in which collective-choice rules fix who may change operating rules and how, and constitutional rules fix who may craft collective-choice rules and how.
+# THEORY-1809: IAD analyses rules-in-use at nested levels
 
 ## The account
 

@@ -15,7 +15,14 @@ promote_when: >-
   assessment moves nothing. A recalculation of credences under assumed
   theories cannot settle it, since that is the method whose inputs are in
   dispute.
-title: "Every leading reason to deny consciousness to current large language models except biology names a missing feature, recurrent processing, a global workspace, unified agency, world and self models or senses and embodiment, that engineering could add, so the case against current models is much stronger than the case against their extended successors; the one possibly permanent objection, biology, is the one the argument sets aside"
+title: 'LLM consciousness barriers are mostly removable'
+statement: >-
+  Every leading reason to deny consciousness to current large language
+  models except biology names a missing feature, recurrent processing, a
+  global workspace, unified agency, world and self models or senses and
+  embodiment, that engineering could add, so the case against current models
+  is much stronger than the case against their extended successors; the one
+  possibly permanent objection, biology, is the one the argument sets aside
 version: 1
 tags:
 - consciousness
@@ -36,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-043 THEORY-490 THEORY-606 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 
-# THEORY-460: Every leading reason to deny consciousness to current large language models except biology names a missing feature, recurrent processing, a global workspace, unified agency, world and self models or senses and embodiment, that engineering could add, so the case against current models is much stronger than the case against their extended successors; the one possibly permanent objection, biology, is the one the argument sets aside
+# THEORY-460: LLM consciousness barriers are mostly removable
 
 ## Source
 

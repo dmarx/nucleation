@@ -13,7 +13,15 @@ promote_when: >-
   fixed, or the reverse, would settle it. Further qualitative fits to the
   same published data cannot, since the authors concede that a flat model
   with the right prior would mimic them.
-title: "In Kemp, Perfors and Tenenbaum's account, abstract inductive constraints such as the shape bias are higher-level parameters of a hierarchical Bayesian model, here the within-category variability and population feature distribution of a Dirichlet-multinomial, learned from a few labelled exemplars per category at the same time as the categories' own feature distributions, and once learned they let a single exemplar of a new category license generalization by shape"
+title: 'Shape bias is a learned hyperparameter'
+statement: >-
+  In Kemp, Perfors and Tenenbaum's account, abstract inductive constraints
+  such as the shape bias are higher-level parameters of a hierarchical
+  Bayesian model, here the within-category variability and population
+  feature distribution of a Dirichlet-multinomial, learned from a few
+  labelled exemplars per category at the same time as the categories' own
+  feature distributions, and once learned they let a single exemplar of a
+  new category license generalization by shape
 version: 1
 history:
 - version: 1
@@ -41,7 +49,7 @@ summary: >-
   no-name condition. Computational level; the structure and top prior are
   given. The wording is the reader's; adopting it is the owner's call.
 ---
-# THEORY-1363: In Kemp, Perfors and Tenenbaum's account, abstract inductive constraints such as the shape bias are higher-level parameters of a hierarchical Bayesian model, here the within-category variability and population feature distribution of a Dirichlet-multinomial, learned from a few labelled exemplars per category at the same time as the categories' own feature distributions, and once learned they let a single exemplar of a new category license generalization by shape
+# THEORY-1363: Shape bias is a learned hyperparameter
 
 ## Source
 

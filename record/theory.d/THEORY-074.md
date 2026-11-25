@@ -23,7 +23,11 @@ promote_when: >-
   whether the implicit measure measures anything stable. More studies
   correlating one self-report of authenticity with one of autonomy cannot
   settle it.
-title: "Implicit accessibility of the true self-concept is not what self-report scales of authenticity or of need satisfaction measure, though those two self-reports are not shown to be separate constructs"
+title: 'Self-reports miss implicit true-self accessibility'
+statement: >-
+  Implicit accessibility of the true self-concept is not what self-report
+  scales of authenticity or of need satisfaction measure, though those two
+  self-reports are not shown to be separate constructs
 version: 1
 tags:
 - psychometrics
@@ -53,7 +57,7 @@ answers:
 <!-- inactive-ok-file: LIT-574 LIT-592 LIT-594 — Unavailable; Kernis and Goldman, Wood et al. and Taylor, named as the unread works on authenticity, none leaned on -->
 <!-- inactive-ok-file: THEORY-054 THEORY-029 THEORY-077 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
-# THEORY-074: Implicit accessibility of the true self-concept is not what self-report scales of authenticity or of need satisfaction measure, though those two self-reports are not shown to be separate constructs
+# THEORY-074: Self-reports miss implicit true-self accessibility
 
 ## What was asked, and why the claim is narrower
 

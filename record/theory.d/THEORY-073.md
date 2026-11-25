@@ -3,7 +3,14 @@ number: 73
 status: Active
 formerly:
 - THEORY-tmpnd5gh
-title: 'In Friston''s 2013 formulation and the applications the record holds, a Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is traced (the coupling graph, the internal set and the time at which steady state is assumed), and a blanket read from a fixed graph is the same whether the system produced the boundary or it was imposed'
+title: 'Blanket placement is fixed by prior modelling'
+statement: >-
+  In Friston's 2013 formulation and the applications the record holds, a
+  Markov blanket does not individuate a system: where it falls is fixed by
+  modelling choices made before it is traced (the coupling graph, the
+  internal set and the time at which steady state is assumed), and a blanket
+  read from a fixed graph is the same whether the system produced the
+  boundary or it was imposed
 version: 3
 history:
 - version: 2
@@ -58,7 +65,7 @@ bounds:
 <!-- inactive-ok-file: CLAIM-337 — Proposed; the claim this reading bounds, cited in the history note, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-072 THEORY-071 THEORY-043 — Proposed; named as the accounts this one bears on, not leaned on -->
 
-# THEORY-073: In Friston's 2013 formulation and the applications the record holds, a Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is traced (the coupling graph, the internal set and the time at which steady state is assumed), and a blanket read from a fixed graph is the same whether the system produced the boundary or it was imposed
+# THEORY-073: Blanket placement is fixed by prior modelling
 
 ## Note of 2026-10-27: narrowed and promoted
 

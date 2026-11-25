@@ -17,7 +17,11 @@ promote_when: >-
   its exercises add nothing to defusion alone. What would not settle it:
   ACT outcome trials, more defusion studies, or AAQ correlations, none of
   which isolates this process.
-title: 'Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering'
+title: 'Self as context is how ACT reduces suffering'
+statement: >-
+  Strengthening the self as context, a perspective from which thoughts about
+  oneself are held as thoughts, is a process by which acceptance and
+  commitment therapy reduces suffering
 version: 4
 history:
 - version: 2
@@ -69,7 +73,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-064 — Proposed; the self-model account, named in Connections, nothing here rests on it -->
 <!-- inactive-ok-file: NOTE-457 — Skimmed; the reading of the IFS book's first chapter, named for the IFS contrast -->
 
-# THEORY-051: Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering
+# THEORY-051: Self as context is how ACT reduces suffering
 
 ## Source
 

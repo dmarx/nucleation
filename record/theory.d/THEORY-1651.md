@@ -3,7 +3,15 @@ number: 1651
 status: Proposed
 formerly:
 - THEORY-tmp2v3ym
-title: 'Liang and colleagues estimate, with a corpus-level maximum-likelihood method, that after ChatGPT''s release between 6.5% and 16.9% of peer-review text at major ML conferences was substantially modified by LLMs, with no significant rise in Nature-portfolio reviews, and that such text is more common in reviews written near the deadline, with low confidence, without citations, by reviewers who do not answer rebuttals, and in reviews most similar to the paper''s other reviews.'
+title: 'Up to 17% of ML reviews were LLM-modified'
+statement: >-
+  Liang and colleagues estimate, with a corpus-level maximum-likelihood
+  method, that after ChatGPT's release between 6.5% and 16.9% of peer-review
+  text at major ML conferences was substantially modified by LLMs, with no
+  significant rise in Nature-portfolio reviews, and that such text is more
+  common in reviews written near the deadline, with low confidence, without
+  citations, by reviewers who do not answer rebuttals, and in reviews most
+  similar to the paper's other reviews.
 version: 1
 source:
 - LIT-2368
@@ -30,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1757 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1651: Liang and colleagues estimate, with a corpus-level maximum-likelihood method, that after ChatGPT's release between 6.5% and 16.9% of peer-review text at major ML conferences was substantially modified by LLMs, with no significant rise in Nature-portfolio reviews, and that such text is more common in reviews written near the deadline, with low confidence, without citations, by reviewers who do not answer rebuttals, and in reviews most similar to the paper's other reviews.
+# THEORY-1651: Up to 17% of ML reviews were LLM-modified
 
 ## The account
 

@@ -3,7 +3,15 @@ number: 715
 status: Active
 formerly:
 - THEORY-tmp7uuzn
-title: "The information about a target carried by the Gács–Körner common random variable of the sources is a redundancy defined for any number of sources that is nonnegative, target-monotone and no larger than I_min, and is a lower bound on any reasonable redundancy; but it counts only deterministic shared structure, so it is zero whenever the sources' joint distribution has full support, fails the identity property and continuity, and gives negative synergy already for two sources"
+title: 'Gács–Körner redundancy misses stochastic sharing'
+statement: >-
+  The information about a target carried by the Gács–Körner common random
+  variable of the sources is a redundancy defined for any number of sources
+  that is nonnegative, target-monotone and no larger than I_min, and is a
+  lower bound on any reasonable redundancy; but it counts only deterministic
+  shared structure, so it is zero whenever the sources' joint distribution
+  has full support, fails the identity property and continuity, and gives
+  negative synergy already for two sources
 version: 2
 history:
 - version: 2
@@ -30,7 +38,7 @@ corroborates:
 - CLAIM-343
 ---
 
-# THEORY-715: The information about a target carried by the Gács–Körner common random variable of the sources is a redundancy defined for any number of sources that is nonnegative, target-monotone and no larger than I_min, and is a lower bound on any reasonable redundancy; but it counts only deterministic shared structure, so it is zero whenever the sources' joint distribution has full support, fails the identity property and continuity, and gives negative synergy already for two sources
+# THEORY-715: Gács–Körner redundancy misses stochastic sharing
 
 ## Source
 

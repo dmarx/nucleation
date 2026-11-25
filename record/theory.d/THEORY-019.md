@@ -3,7 +3,12 @@ number: 19
 status: Active
 formerly:
 - THEORY-tmp1jea9
-title: 'Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet'
+title: 'Spectral degeneracy doesn''t identify a symmetry'
+statement: >-
+  Symmetry forces spectral degeneracy but degeneracy does not identify a
+  symmetry: an operator commuting with a group has eigenspaces built from
+  its real irreducibles, so abelian rotation groups force pairs over ℝ, and
+  the spectrum fixes neither the group nor a basis inside a multiplet
 version: 5
 history:
 - version: 2
@@ -78,7 +83,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-193 — Proposed; cited in the history note of 2026-11-11 for what it says of QUESTION-036 -->
 
-# THEORY-019: Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
+# THEORY-019: Spectral degeneracy doesn't identify a symmetry
 
 ## Source
 

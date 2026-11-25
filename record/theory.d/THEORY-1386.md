@@ -10,7 +10,13 @@ promote_when: >-
   inverse-designed geometries reach the specified stable heights and
   barrier within stated error; and that a stack designed with ascending
   barriers folds in that order in a physical prototype.
-title: 'A neural network trained only on the equilibrium and energy conditions of a truss model of conical Kresling origami recovers its energy curve and inverts it to geometries with prescribed stable heights and barrier, and stacks of such cells with ascending barriers fold in the designed order under compression'
+title: 'Neural net inverse-designs Kresling energy curves'
+statement: >-
+  A neural network trained only on the equilibrium and energy conditions of
+  a truss model of conical Kresling origami recovers its energy curve and
+  inverts it to geometries with prescribed stable heights and barrier, and
+  stacks of such cells with ascending barriers fold in the designed order
+  under compression
 version: 1
 tags:
 - natural-sciences
@@ -27,7 +33,7 @@ summary: >-
   truss model captures the mechanics of real cells.
 ---
 
-# THEORY-1386: A neural network trained only on the equilibrium and energy conditions of a truss model of conical Kresling origami recovers its energy curve and inverts it to geometries with prescribed stable heights and barrier, and stacks of such cells with ascending barriers fold in the designed order under compression
+# THEORY-1386: Neural net inverse-designs Kresling energy curves
 
 ## Source
 

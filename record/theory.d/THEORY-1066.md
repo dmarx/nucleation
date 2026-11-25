@@ -3,7 +3,16 @@ number: 1066
 status: Active
 formerly:
 - THEORY-tmpc8ml4
-title: 'In constructor theory, a set of attributes is an information variable when every permutation of it and its cloning are possible tasks, and distinguishability is defined afterwards, as the possibility of mapping a variable onto an information variable; so information is fixed by counterfactual properties of a substrate without presupposing distinguishability, and instantiating it is stated as an intrinsic property of the substrate in the sense of referring to no other specific substrate'
+title: 'Information defined without distinguishability'
+statement: >-
+  In constructor theory, a set of attributes is an information variable when
+  every permutation of it and its cloning are possible tasks, and
+  distinguishability is defined afterwards, as the possibility of mapping a
+  variable onto an information variable; so information is fixed by
+  counterfactual properties of a substrate without presupposing
+  distinguishability, and instantiating it is stated as an intrinsic
+  property of the substrate in the sense of referring to no other specific
+  substrate
 version: 2
 history:
 - version: 2
@@ -36,7 +45,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-477 — Proposed; the claim whose defeater the question tests, cited as open -->
 
-# THEORY-1066: In constructor theory, a set of attributes is an information variable when every permutation of it and its cloning are possible tasks, and distinguishability is defined afterwards, as the possibility of mapping a variable onto an information variable; so information is fixed by counterfactual properties of a substrate without presupposing distinguishability, and instantiating it is stated as an intrinsic property of the substrate in the sense of referring to no other specific substrate
+# THEORY-1066: Information defined without distinguishability
 
 ## Source
 

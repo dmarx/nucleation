@@ -3,7 +3,15 @@ number: 1783
 status: Proposed
 formerly:
 - THEORY-tmpoy2np
-title: '- **Sentence**: Jaradeh et al. (2019) present the Open Research Knowledge Graph, which represents a paper''s research contribution as a graph relating its research problem, method and results with unconstrained user-chosen properties so that contributions can be compared across papers, and report from twelve authors'' sessions that authors are willing to describe their contributions in structured form, leaving versioning, discussion and the representation of knowledge evolution to future work. -'
+title: 'Authors will describe contributions structurally'
+statement: >-
+  - **Sentence**: Jaradeh et al. (2019) present the Open Research Knowledge
+  Graph, which represents a paper's research contribution as a graph
+  relating its research problem, method and results with unconstrained
+  user-chosen properties so that contributions can be compared across
+  papers, and report from twelve authors' sessions that authors are willing
+  to describe their contributions in structured form, leaving versioning,
+  discussion and the representation of knowledge evolution to future work. -
 version: 1
 tags:
 - information-retrieval
@@ -23,7 +31,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1783: - **Sentence**: Jaradeh et al. (2019) present the Open Research Knowledge Graph, which represents a paper's research contribution as a graph relating its research problem, method and results with unconstrained user-chosen properties so that contributions can be compared across papers, and report from twelve authors' sessions that authors are willing to describe their contributions in structured form, leaving versioning, discussion and the representation of knowledge evolution to future work. -
+# THEORY-1783: Authors will describe contributions structurally
 
 ## The account
 

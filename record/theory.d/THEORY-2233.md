@@ -11,7 +11,14 @@ promote_when: >-
   females inject into hosts to deliver genes that suppress host immunity
   and alter host development. It is refuted by evidence that bracovirus
   particles are produced by an independently replicating virus.
-title: 'Strand, Coffman and Burke review how parasitoid wasps transmit large DNA viruses to their hosts, from mechanical carriage to domesticated endogenized viruses integrated in the wasp germline; bracoviruses, which arose from a nudivirus about 100 million years ago, cannot replicate alone and produce particles that deliver virulence genes, some of wasp origin, which suppress the host''s immunity and alter its development'
+title: 'Wasps deliver domesticated viruses to hosts'
+statement: >-
+  Strand, Coffman and Burke review how parasitoid wasps transmit large DNA
+  viruses to their hosts, from mechanical carriage to domesticated
+  endogenized viruses integrated in the wasp germline; bracoviruses, which
+  arose from a nudivirus about 100 million years ago, cannot replicate alone
+  and produce particles that deliver virulence genes, some of wasp origin,
+  which suppress the host's immunity and alter its development
 version: 1
 history:
 - version: 1
@@ -36,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2323 — Unfetched or new; the work and its reading -->
 
-# THEORY-2233: Strand, Coffman and Burke review how parasitoid wasps transmit large DNA viruses to their hosts, from mechanical carriage to domesticated endogenized viruses integrated in the wasp germline; bracoviruses, which arose from a nudivirus about 100 million years ago, cannot replicate alone and produce particles that deliver virulence genes, some of wasp origin, which suppress the host's immunity and alter its development
+# THEORY-2233: Wasps deliver domesticated viruses to hosts
 
 ## Source
 

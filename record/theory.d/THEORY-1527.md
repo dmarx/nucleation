@@ -10,7 +10,11 @@ promote_when: >-
   interval and multiplicative quantales as examples, and that every
   endomorphism generates a free internal monad by reflexive–transitive
   closure (Proposition 37, Corollary 38).
-title: 'Every endomorphism in Marsden and Zwart''s categories of quantale-enriched profunctors generates a free internal monad, its reflexive–transitive closure (Proposition 37, Corollary 38)'
+title: 'Profunctor endomorphisms generate free monads'
+statement: >-
+  Every endomorphism in Marsden and Zwart's categories of quantale-enriched
+  profunctors generates a free internal monad, its reflexive–transitive
+  closure (Proposition 37, Corollary 38)
 version: 2
 history:
 - version: 2
@@ -42,7 +46,7 @@ summary: >-
   38's wider scope is not re-derived.
 ---
 
-# THEORY-1527: Every endomorphism in Marsden and Zwart's categories of quantale-enriched profunctors generates a free internal monad, its reflexive–transitive closure (Proposition 37, Corollary 38)
+# THEORY-1527: Profunctor endomorphisms generate free monads
 
 ## Source
 

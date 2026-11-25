@@ -3,7 +3,12 @@ number: 1590
 status: Active
 formerly:
 - THEORY-tmpb0q93
-title: 'Markus and Kitayama propose that cultures construe the self as independent or interdependent, that for the interdependent self others are included within the self''s boundaries without a merging of self and other, and that the construal shapes cognition, emotion and motivation'
+title: 'Self is construed independent or interdependent'
+statement: >-
+  Markus and Kitayama propose that cultures construe the self as independent
+  or interdependent, that for the interdependent self others are included
+  within the self's boundaries without a merging of self and other, and that
+  the construal shapes cognition, emotion and motivation
 version: 3
 history:
 - version: 1
@@ -47,7 +52,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-491 — Proposed or Unavailable; the claims and works this reading bears on or cites, named, not leaned on -->
 
-# THEORY-1590: Markus and Kitayama propose that cultures construe the self as independent or interdependent, that for the interdependent self others are included within the self's boundaries without a merging of self and other, and that the construal shapes cognition, emotion and motivation
+# THEORY-1590: Self is construed independent or interdependent
 
 ## The account
 

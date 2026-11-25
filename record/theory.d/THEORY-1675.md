@@ -3,7 +3,13 @@ number: 1675
 status: Proposed
 formerly:
 - THEORY-tmpc1lto
-title: 'Geddes (2022) argues that Kingma''s case that the foster is part of the gravida fails, because her four organism-delineation criteria are either blind to the difference between parthood and proper overlap or, in the immunological case, point to proper overlap, and that the philosophy of biology currently gives no grounds to rule proper overlap out.'
+title: 'The foster is not shown to be part of the gravida'
+statement: >-
+  Geddes (2022) argues that Kingma's case that the foster is part of the
+  gravida fails, because her four organism-delineation criteria are either
+  blind to the difference between parthood and proper overlap or, in the
+  immunological case, point to proper overlap, and that the philosophy of
+  biology currently gives no grounds to rule proper overlap out.
 version: 1
 source:
 - LIT-2456
@@ -27,7 +33,7 @@ summary: >-
   parts).
 ---
 
-# THEORY-1675: Geddes (2022) argues that Kingma's case that the foster is part of the gravida fails, because her four organism-delineation criteria are either blind to the difference between parthood and proper overlap or, in the immunological case, point to proper overlap, and that the philosophy of biology currently gives no grounds to rule proper overlap out.
+# THEORY-1675: The foster is not shown to be part of the gravida
 
 ## The account
 

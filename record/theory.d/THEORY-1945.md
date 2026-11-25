@@ -3,7 +3,13 @@ number: 1945
 status: Proposed
 formerly:
 - THEORY-tmptlu7a
-title: 'Tessman argues that oppression burdens the moral goodness of the oppressed both by preventing some virtues from developing and by requiring others, burdened virtues, that enable survival of or resistance to oppression while detracting from their bearer''s own flourishing, so that eudaimonism must allow virtues disjoined from their bearer''s well-being'
+title: 'Oppression burdens the virtue of the oppressed'
+statement: >-
+  Tessman argues that oppression burdens the moral goodness of the oppressed
+  both by preventing some virtues from developing and by requiring others,
+  burdened virtues, that enable survival of or resistance to oppression
+  while detracting from their bearer's own flourishing, so that eudaimonism
+  must allow virtues disjoined from their bearer's well-being
 version: 1
 tags:
 - ethics
@@ -17,7 +23,7 @@ source:
 - LIT-2700
 ---
 <!-- inactive-ok-file: LIT-2698 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1945: Tessman argues that oppression burdens the moral goodness of the oppressed both by preventing some virtues from developing and by requiring others, burdened virtues, that enable survival of or resistance to oppression while detracting from their bearer's own flourishing, so that eudaimonism must allow virtues disjoined from their bearer's well-being
+# THEORY-1945: Oppression burdens the virtue of the oppressed
 
 ## Source
 

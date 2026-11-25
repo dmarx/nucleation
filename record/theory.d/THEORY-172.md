@@ -3,7 +3,14 @@ number: 172
 status: Active
 formerly:
 - THEORY-tmprknoj
-title: 'In Frank and Goodman''s one-shot reference games, listeners'' mean bets matched a parameter-free listener inverting a speaker who chooses among true utterances by informativeness, with a separately measured salience prior, and not salience alone; and in Bergen, Goodman and Levy''s signalling games with novel symbols, listeners read a signal as excluding what the available alternative would have conveyed'
+title: 'Listeners infer speakers choose by informativeness'
+statement: >-
+  In Frank and Goodman's one-shot reference games, listeners' mean bets
+  matched a parameter-free listener inverting a speaker who chooses among
+  true utterances by informativeness, with a separately measured salience
+  prior, and not salience alone; and in Bergen, Goodman and Levy's
+  signalling games with novel symbols, listeners read a signal as excluding
+  what the available alternative would have conveyed
 version: 5
 history:
 - version: 2
@@ -70,7 +77,7 @@ bears_on:
 ---
 
 <!-- inactive-ok-file: THEORY-785 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
-# THEORY-172: In Frank and Goodman's one-shot reference games, listeners' mean bets matched a parameter-free listener inverting a speaker who chooses among true utterances by informativeness, with a separately measured salience prior, and not salience alone; and in Bergen, Goodman and Levy's signalling games with novel symbols, listeners read a signal as excluding what the available alternative would have conveyed
+# THEORY-172: Listeners infer speakers choose by informativeness
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 354
 status: Active
 formerly:
 - THEORY-tmpsavjk
-title: "An observer's power to refute a predictor depends on its access to the predictor as well as on its budget: against tests that see only the sampled prediction a predictor of size O(s/ε²) always passes, but if fine-grained clique counting is hard, or BPP ≠ PSPACE, some cheap tests that may query the predictor adaptively pass only predictors about as costly as nature's own"
+title: 'Refutation power depends on access to predictor'
+statement: >-
+  An observer's power to refute a predictor depends on its access to the
+  predictor as well as on its budget: against tests that see only the
+  sampled prediction a predictor of size O(s/ε²) always passes, but if
+  fine-grained clique counting is hard, or BPP ≠ PSPACE, some cheap tests
+  that may query the predictor adaptively pass only predictors about as
+  costly as nature's own
 version: 2
 history:
 - version: 2
@@ -39,7 +46,7 @@ corroborates:
 - CLAIM-574
 ---
 
-# THEORY-354: An observer's power to refute a predictor depends on its access to the predictor as well as on its budget: against tests that see only the sampled prediction a predictor of size O(s/ε²) always passes, but if fine-grained clique counting is hard, or BPP ≠ PSPACE, some cheap tests that may query the predictor adaptively pass only predictors about as costly as nature's own
+# THEORY-354: Refutation power depends on access to predictor
 
 ## Source
 

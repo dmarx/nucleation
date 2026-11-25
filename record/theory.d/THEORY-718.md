@@ -3,7 +3,12 @@ number: 718
 status: Active
 formerly:
 - THEORY-tmp60l2i
-title: 'In a linear-in-parameters model with Gaussian noise and a Gaussian prior, the evidence is exactly the best-fit likelihood times an Occam factor set by the posterior curvature, and when the design grows linearly with n that factor costs (k/2) log n'
+title: 'Evidence is likelihood times an Occam factor'
+statement: >-
+  In a linear-in-parameters model with Gaussian noise and a Gaussian prior,
+  the evidence is exactly the best-fit likelihood times an Occam factor set
+  by the posterior curvature, and when the design grows linearly with n that
+  factor costs (k/2) log n
 version: 1
 history:
 - version: 1
@@ -39,7 +44,7 @@ summary: >-
   regular case and the singular case are [THEORY-087](THEORY-087.md), which is Proposed.
 ---
 
-# THEORY-718: In a linear-in-parameters model with Gaussian noise and a Gaussian prior, the evidence is exactly the best-fit likelihood times an Occam factor set by the posterior curvature, and when the design grows linearly with n that factor costs (k/2) log n
+# THEORY-718: Evidence is likelihood times an Occam factor
 
 ## Source
 

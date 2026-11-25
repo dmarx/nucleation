@@ -14,7 +14,13 @@ promote_when: >-
   not settle it, and neither does post-hoc steering lowering the trait,
   since both are consistent with the vector being a correlate of a change
   carried elsewhere.
-title: 'Persona shifts induced by prompting and by finetuning are mediated by the same linear trait directions, so finetuning on data that implies a trait moves the model along the trait''s persona vector as a system prompt would; Chen et al. suspect personas are latent factors that persist across many tokens'
+title: 'Prompts and finetuning share persona directions'
+statement: >-
+  Persona shifts induced by prompting and by finetuning are mediated by the
+  same linear trait directions, so finetuning on data that implies a trait
+  moves the model along the trait's persona vector as a system prompt would;
+  Chen et al. suspect personas are latent factors that persist across many
+  tokens
 version: 1
 tags:
 - representation-learning
@@ -32,7 +38,7 @@ summary: >-
   the carrier. Proposed for that gap.
 ---
 
-# THEORY-1334: Persona shifts induced by prompting and by finetuning are mediated by the same linear trait directions, so finetuning on data that implies a trait moves the model along the trait's persona vector as a system prompt would; Chen et al. suspect personas are latent factors that persist across many tokens
+# THEORY-1334: Prompts and finetuning share persona directions
 
 ## Source
 

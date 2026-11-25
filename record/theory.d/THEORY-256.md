@@ -3,7 +3,16 @@ number: 256
 status: Active
 formerly:
 - THEORY-tmpbx1ck
-title: "When a sequence generator's latent dynamics factor as a tensor product, its predictive state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n − 1); 4-layer GPT-2-style transformers trained by next-token prediction on five Mess3 and Bloch Walk factors settle near that dimension, in per-factor subspaces that are linearly independent and approximately orthogonal in their leading components, and under the token noise tested reach it first even when noise makes it lossy"
+title: 'Transformers embed factored states orthogonally'
+statement: >-
+  When a sequence generator's latent dynamics factor as a tensor product,
+  its predictive state embeds losslessly and linearly in orthogonal
+  per-factor subspaces of total dimension Σ(d_n − 1); 4-layer GPT-2-style
+  transformers trained by next-token prediction on five Mess3 and Bloch Walk
+  factors settle near that dimension, in per-factor subspaces that are
+  linearly independent and approximately orthogonal in their leading
+  components, and under the token noise tested reach it first even when
+  noise makes it lossy
 version: 4
 history:
 - version: 2
@@ -58,7 +67,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-808 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-274 — Proposed; accounts on the same question, open -->
 
-# THEORY-256: When a sequence generator's latent dynamics factor as a tensor product, its predictive state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n − 1); 4-layer GPT-2-style transformers trained by next-token prediction on five Mess3 and Bloch Walk factors settle near that dimension, in per-factor subspaces that are linearly independent and approximately orthogonal in their leading components, and under the token noise tested reach it first even when noise makes it lossy
+# THEORY-256: Transformers embed factored states orthogonally
 
 ## Source
 

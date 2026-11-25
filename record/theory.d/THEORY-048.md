@@ -20,7 +20,10 @@ promote_when: >-
   reading of it. What would not settle it: another argument from Marr's
   levels, more cases from vision or memory, or a therapy that works without
   a mechanism, which Kendler himself grants can happen on either side.
-title: 'In explaining psychiatric disorder, biological findings implement psychological functions rather than replacing them'
+title: 'Biology implements psychological functions'
+statement: >-
+  In explaining psychiatric disorder, biological findings implement
+  psychological functions rather than replacing them
 version: 1
 tags:
 - philosophy-of-science
@@ -46,7 +49,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-552 — Unavailable, no lawful full text; Kendler 2005, named as the paper Kendler 2008 develops, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 THEORY-036 THEORY-058 — Proposed; named as neighbouring accounts, no relation declared -->
 
-# THEORY-048: In explaining psychiatric disorder, biological findings implement psychological functions rather than replacing them
+# THEORY-048: Biology implements psychological functions
 
 ## Source
 

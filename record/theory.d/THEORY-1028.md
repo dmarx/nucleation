@@ -3,7 +3,15 @@ number: 1028
 status: Active
 formerly:
 - THEORY-tmpmazgg
-title: 'In InceptionV1 trained on ImageNet, the ten curve units of layer mixed3b each respond most to curves of one orientation, with responses invariant to fill and colour and jointly spanning all orientations under rotation of real images; for one of them, 3b:379, which fires on about 11% of dataset positions, activation level separated one author''s blind four-class labels of over 800 activation-binned images, and curves and imperfect curves made up 55% of its contribution to expected value'
+title: 'mixed3b curve units are orientation-tuned'
+statement: >-
+  In InceptionV1 trained on ImageNet, the ten curve units of layer mixed3b
+  each respond most to curves of one orientation, with responses invariant
+  to fill and colour and jointly spanning all orientations under rotation of
+  real images; for one of them, 3b:379, which fires on about 11% of dataset
+  positions, activation level separated one author's blind four-class labels
+  of over 800 activation-binned images, and curves and imperfect curves made
+  up 55% of its contribution to expected value
 version: 2
 history:
 - version: 1
@@ -36,7 +44,7 @@ summary: >-
   understood.
 ---
 <!-- inactive-ok-file: THEORY-1022 THEORY-1013 — Proposed; the authors' full claim and the Zoom In account this example serves, cited as open -->
-# THEORY-1028: In InceptionV1 trained on ImageNet, the ten curve units of layer mixed3b each respond most to curves of one orientation, with responses invariant to fill and colour and jointly spanning all orientations under rotation of real images; for one of them, 3b:379, which fires on about 11% of dataset positions, activation level separated one author's blind four-class labels of over 800 activation-binned images, and curves and imperfect curves made up 55% of its contribution to expected value
+# THEORY-1028: mixed3b curve units are orientation-tuned
 
 ## Source
 

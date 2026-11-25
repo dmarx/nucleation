@@ -9,7 +9,13 @@ promote_when: >-
   finds that opposition majorities reduce ruling-party officials' reported
   returns from office and shift procurement toward competitive auctions
   and spending downward.
-title: 'After the 2017 Moscow municipal elections, ruling-party deputies serving on opposition-majority councils reported about 22% less income, and those councils procured more by electronic auction and cut expenditures, so an opposition that controls, rather than merely joins, autocratic institutions can remove rent-seeking opportunities in them'
+title: 'Opposition control cuts rent-seeking'
+statement: >-
+  After the 2017 Moscow municipal elections, ruling-party deputies serving
+  on opposition-majority councils reported about 22% less income, and those
+  councils procured more by electronic auction and cut expenditures, so an
+  opposition that controls, rather than merely joins, autocratic
+  institutions can remove rent-seeking opportunities in them
 version: 1
 tags:
 - society-and-governance
@@ -29,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-736 — Proposed; cited with their standing, entries this reading bears on or files -->
 
-# THEORY-1953: After the 2017 Moscow municipal elections, ruling-party deputies serving on opposition-majority councils reported about 22% less income, and those councils procured more by electronic auction and cut expenditures, so an opposition that controls, rather than merely joins, autocratic institutions can remove rent-seeking opportunities in them
+# THEORY-1953: Opposition control cuts rent-seeking
 
 Szakonyi (2025), [LIT-2737](../literature.d/LIT-2737.md).
 

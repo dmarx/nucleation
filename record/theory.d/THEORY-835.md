@@ -3,7 +3,15 @@ number: 835
 status: Active
 formerly:
 - THEORY-tmp3qyox
-title: 'When two firms each hire the best available candidate by a noisy ranking, and the ranking model makes an independent re-ranking worth more to the second mover than its own next choice and makes a weaker first mover better for it, then for every accuracy of the private rankings there is a more accurate shared algorithmic ranking that each firm strictly prefers to use whatever the other does, and with which both firms, and total welfare, do worse than if neither used it'
+title: 'Firms adopt a shared ranking that hurts both'
+statement: >-
+  When two firms each hire the best available candidate by a noisy ranking,
+  and the ranking model makes an independent re-ranking worth more to the
+  second mover than its own next choice and makes a weaker first mover
+  better for it, then for every accuracy of the private rankings there is a
+  more accurate shared algorithmic ranking that each firm strictly prefers
+  to use whatever the other does, and with which both firms, and total
+  welfare, do worse than if neither used it
 version: 1
 history:
 - version: 1
@@ -32,7 +40,7 @@ summary: >-
   shocks, dynamics or market responses.
 ---
 
-# THEORY-835: When two firms each hire the best available candidate by a noisy ranking, and the ranking model makes an independent re-ranking worth more to the second mover than its own next choice and makes a weaker first mover better for it, then for every accuracy of the private rankings there is a more accurate shared algorithmic ranking that each firm strictly prefers to use whatever the other does, and with which both firms, and total welfare, do worse than if neither used it
+# THEORY-835: Firms adopt a shared ranking that hurts both
 
 ## Source
 

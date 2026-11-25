@@ -3,7 +3,13 @@ number: 917
 status: Active
 formerly:
 - THEORY-tmphx93a
-title: 'Chou, Wilson and Smith read about eight computational studies of exploration in reward-based bandit tasks, mostly in sub-clinical samples, with mixed results and none replicated, as suggesting that directed exploration rises with trait or cognitive anxiety and falls with state or somatic anxiety; none they review links random exploration to anxiety'
+title: 'Anxiety types split directed exploration, weakly'
+statement: >-
+  Chou, Wilson and Smith read about eight computational studies of
+  exploration in reward-based bandit tasks, mostly in sub-clinical samples,
+  with mixed results and none replicated, as suggesting that directed
+  exploration rises with trait or cognitive anxiety and falls with state or
+  somatic anxiety; none they review links random exploration to anxiety
 version: 2
 history:
 - version: 2
@@ -42,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and companion reading this bears on, named -->
 
-# THEORY-917: Chou, Wilson and Smith read about eight computational studies of exploration in reward-based bandit tasks, mostly in sub-clinical samples, with mixed results and none replicated, as suggesting that directed exploration rises with trait or cognitive anxiety and falls with state or somatic anxiety; none they review links random exploration to anxiety
+# THEORY-917: Anxiety types split directed exploration, weakly
 
 ## Source
 

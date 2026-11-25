@@ -9,7 +9,14 @@ promote_when: >-
   parameters converging (|Z₁ − Z₂| → 0) from different initial states at a
   within-group noise correlation well below 1, and diverging when the
   common noises differ.
-title: 'Ko shows that two groups of phase oscillators with no coupling between them, each driven by a common noise plus independent local noise, synchronize their collective order parameters when the common noise is the same for both, from any initial state and down to a within-group noise correlation near 0.1, proved for uncoupled groups at large N and seen numerically with coupling inside the groups, which can weaken it'
+title: 'Common noise syncs uncoupled oscillator groups'
+statement: >-
+  Ko shows that two groups of phase oscillators with no coupling between
+  them, each driven by a common noise plus independent local noise,
+  synchronize their collective order parameters when the common noise is the
+  same for both, from any initial state and down to a within-group noise
+  correlation near 0.1, proved for uncoupled groups at large N and seen
+  numerically with coupling inside the groups, which can weaken it
 version: 1
 tags:
 - complex-systems
@@ -26,7 +33,7 @@ summary: >-
   data. Proposed until its promote_when is met.
 ---
 
-# THEORY-2245: Ko shows that two groups of phase oscillators with no coupling between them, each driven by a common noise plus independent local noise, synchronize their collective order parameters when the common noise is the same for both, from any initial state and down to a within-group noise correlation near 0.1, proved for uncoupled groups at large N and seen numerically with coupling inside the groups, which can weaken it
+# THEORY-2245: Common noise syncs uncoupled oscillator groups
 
 ## Source
 

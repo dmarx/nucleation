@@ -3,7 +3,17 @@ number: 1109
 status: Active
 formerly:
 - THEORY-tmpyr6q4
-title: 'Santana-Molina, Williams, Snel and Spang find that the last eukaryotic common ancestor''s central carbon metabolism was chimeric: a few Asgard-archaeal enzymes in cytosolic glycolysis and the pentose phosphate pathway, four placed with Asgard archaea at bootstrap 39–97% and two ambiguously, most alphaproteobacterial ones in the mitochondrial TCA cycle and pyruvate conversion, and others from various bacteria with no third dominant donor, since remodelled by loss, horizontal replacement and retargeting so that compartment no longer follows origin; the authors take the cytosol–mitochondrion split as support for syntrophy'
+title: 'LECA central carbon metabolism was chimeric'
+statement: >-
+  Santana-Molina, Williams, Snel and Spang find that the last eukaryotic
+  common ancestor's central carbon metabolism was chimeric: a few
+  Asgard-archaeal enzymes in cytosolic glycolysis and the pentose phosphate
+  pathway, four placed with Asgard archaea at bootstrap 39–97% and two
+  ambiguously, most alphaproteobacterial ones in the mitochondrial TCA cycle
+  and pyruvate conversion, and others from various bacteria with no third
+  dominant donor, since remodelled by loss, horizontal replacement and
+  retargeting so that compartment no longer follows origin; the authors take
+  the cytosol–mitochondrion split as support for syntrophy
 version: 3
 history:
 - version: 1
@@ -82,7 +92,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1205 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: LIT-1597 — Open or Unavailable; the question this bears on and an unavailable work it is set beside, nothing here rests on them -->
-# THEORY-1109: Santana-Molina, Williams, Snel and Spang find that the last eukaryotic common ancestor's central carbon metabolism was chimeric: a few Asgard-archaeal enzymes in cytosolic glycolysis and the pentose phosphate pathway, four placed with Asgard archaea at bootstrap 39–97% and two ambiguously, most alphaproteobacterial ones in the mitochondrial TCA cycle and pyruvate conversion, and others from various bacteria with no third dominant donor, since remodelled by loss, horizontal replacement and retargeting so that compartment no longer follows origin; the authors take the cytosol–mitochondrion split as support for syntrophy
+# THEORY-1109: LECA central carbon metabolism was chimeric
 
 ## Source
 

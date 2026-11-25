@@ -16,7 +16,12 @@ promote_when: >-
   come apart at the individual level once the measurement is held fixed.
   The cross-country table in Drèze & Sen 2013, cited second-hand in
   LIT-287, is not that comparison.
-title: 'Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation'
+title: 'Neither utility nor resources track capabilities'
+statement: >-
+  Neither utility information nor resource holdings, alone or together, can
+  register claims that arise from how differently people convert resources
+  into what they can do and be: equal resources leave unequal capabilities,
+  and utility adapts to deprivation
 version: 2
 history:
 - version: 2
@@ -55,7 +60,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-1845 THEORY-1849 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-411 — Proposed; named in Connections as the positive structure, nothing here rests on it -->
 
-# THEORY-025: Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation
+# THEORY-025: Neither utility nor resources track capabilities
 
 ## Source
 

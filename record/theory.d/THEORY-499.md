@@ -3,7 +3,14 @@ number: 499
 status: Active
 formerly:
 - THEORY-tmpd9dko
-title: "The breakup of the Eulalia parent body beside the Jupiter 3:1 resonance, 785–965 Myr ago, can plausibly have supplied the cluster of large lunar craters dated near 800 Ma, but shown only for the most favourable of five model solutions, the one carried through, with an average largest lunar impactor too small for Copernicus, and with the cluster's absolute date inherited from Copernicus alone"
+title: 'Eulalia breakup may have made 800 Ma craters'
+statement: >-
+  The breakup of the Eulalia parent body beside the Jupiter 3:1 resonance,
+  785–965 Myr ago, can plausibly have supplied the cluster of large lunar
+  craters dated near 800 Ma, but shown only for the most favourable of five
+  model solutions, the one carried through, with an average largest lunar
+  impactor too small for Copernicus, and with the cluster's absolute date
+  inherited from Copernicus alone
 version: 2
 history:
 - version: 2
@@ -57,7 +64,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-1195 — Proposed; the thesis split from this entry, cited as open -->
 
-# THEORY-499: The breakup of the Eulalia parent body beside the Jupiter 3:1 resonance, 785–965 Myr ago, can plausibly have supplied the cluster of large lunar craters dated near 800 Ma, but shown only for the most favourable of five model solutions, the one carried through, with an average largest lunar impactor too small for Copernicus, and with the cluster's absolute date inherited from Copernicus alone
+# THEORY-499: Eulalia breakup may have made 800 Ma craters
 
 ## Source
 

@@ -12,7 +12,12 @@ promote_when: >-
   that finds the increase. A positive unregistered study, however large
   its effect, cannot refute it alone, since a large effect from a small
   sample is what the account expects of noise.
-title: 'Anodal transcranial direct current stimulation over the left dorsolateral prefrontal cortex, with the montage of the original study, does not raise reported mind-wandering in a sustained-attention task, and the original positive result was most likely a false positive'
+title: 'Frontal tDCS fails to raise mind-wandering'
+statement: >-
+  Anodal transcranial direct current stimulation over the left dorsolateral
+  prefrontal cortex, with the montage of the original study, does not raise
+  reported mind-wandering in a sustained-attention task, and the original
+  positive result was most likely a false positive
 version: 1
 tags:
 - neuroscience
@@ -35,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2264 THEORY-2265 — new in this filing and Proposed; the readings and the support verdict, cited as open -->
 
-# THEORY-2266: Anodal transcranial direct current stimulation over the left dorsolateral prefrontal cortex, with the montage of the original study, does not raise reported mind-wandering in a sustained-attention task, and the original positive result was most likely a false positive
+# THEORY-2266: Frontal tDCS fails to raise mind-wandering
 
 ## Source
 

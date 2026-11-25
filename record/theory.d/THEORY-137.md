@@ -17,7 +17,15 @@ promote_when: >-
   attribution. An argument about whether institutions really have minds
   cannot settle it either way: the claim is stated to hold whichever
   answer is right.
-title: 'Attributions of mental states to institutions, such as the knowledge that the collective knowledge doctrine of corporate criminal law attributes to a corporation no member of which held it, work largely by shaping the institutions to which they are made rather than by describing states they already had: the attribution holds the institution to a norm, the institution builds structures to meet it, and it becomes more predictable from the intentional stance, whether or not institutions really have minds'
+title: 'Mind attributions shape the institutions'
+statement: >-
+  Attributions of mental states to institutions, such as the knowledge that
+  the collective knowledge doctrine of corporate criminal law attributes to
+  a corporation no member of which held it, work largely by shaping the
+  institutions to which they are made rather than by describing states they
+  already had: the attribution holds the institution to a norm, the
+  institution builds structures to meet it, and it becomes more predictable
+  from the intentional stance, whether or not institutions really have minds
 version: 3
 history:
 - version: 2
@@ -61,7 +69,7 @@ bounds:
 <!-- inactive-ok-file: LIT-483 — Unavailable, unread; Groups as Agents, named as unread -->
 <!-- inactive-ok-file: THEORY-139 — Proposed; the group-judgment and corporate-responsibility accounts, named for contrasts -->
 
-# THEORY-137: Attributions of mental states to institutions, such as the knowledge that the collective knowledge doctrine of corporate criminal law attributes to a corporation no member of which held it, work largely by shaping the institutions to which they are made rather than by describing states they already had: the attribution holds the institution to a norm, the institution builds structures to meet it, and it becomes more predictable from the intentional stance, whether or not institutions really have minds
+# THEORY-137: Mind attributions shape the institutions
 
 ## Source
 

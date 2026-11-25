@@ -11,7 +11,12 @@ promote_when: >-
   accuracy on matched items and (b) wrong answers concentrated on the
   literal reading beyond chance. A result on the same 578 items, or one
   whose gold answers come from the item authors alone, does not settle it.
-title: 'On native-authored pragmatic items in Hindi, Punjabi, Tamil and Malayalam, current multilingual LLMs pick the right reading from four options more often than they label it unaided, and when wrong they lean toward the literal reading'
+title: 'LLMs choose Indic pragmatic readings, lean literal'
+statement: >-
+  On native-authored pragmatic items in Hindi, Punjabi, Tamil and Malayalam,
+  current multilingual LLMs pick the right reading from four options more
+  often than they label it unaided, and when wrong they lean toward the
+  literal reading
 version: 1
 tags:
 - pragmatics
@@ -30,7 +35,7 @@ summary: >-
   are distinct competencies" is the authors' gloss, not a finding.
 ---
 
-# THEORY-1131: On native-authored pragmatic items in Hindi, Punjabi, Tamil and Malayalam, current multilingual LLMs pick the right reading from four options more often than they label it unaided, and when wrong they lean toward the literal reading
+# THEORY-1131: LLMs choose Indic pragmatic readings, lean literal
 
 ## Source
 

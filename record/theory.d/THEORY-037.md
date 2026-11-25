@@ -3,7 +3,11 @@ number: 37
 status: Active
 formerly:
 - THEORY-tmpfaknx
-title: 'In the topos programme quantum propositions form a distributive Heyting algebra, not an orthocomplemented lattice, and its negation is a pseudo-complement under which excluded middle can fail'
+title: 'Topos quantum logic is Heyting, not orthomodular'
+statement: >-
+  In the topos programme quantum propositions form a distributive Heyting
+  algebra, not an orthocomplemented lattice, and its negation is a
+  pseudo-complement under which excluded middle can fail
 version: 3
 history:
 - version: 2
@@ -57,7 +61,7 @@ presupposes:
 ---
 <!-- inactive-ok-file: LIT-276 — Rejected; named in Connections as the claim this group rejects, not leaned on -->
 
-# THEORY-037: In the topos programme quantum propositions form a distributive Heyting algebra, not an orthocomplemented lattice, and its negation is a pseudo-complement under which excluded middle can fail
+# THEORY-037: Topos quantum logic is Heyting, not orthomodular
 
 ## Source
 

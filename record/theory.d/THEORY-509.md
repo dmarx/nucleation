@@ -3,7 +3,13 @@ number: 509
 status: Active
 formerly:
 - THEORY-tmpe5k4b
-title: "Under genericity conditions, two dense or top-k (k ≥ 2) mixture-of-experts layers compute the same function only if they differ by a permutation of the experts with their gates and a common translation of the gate weights, and the translation leaves every interpolation barrier unchanged, so expert order is the only gate symmetry alignment must undo"
+title: 'MoE gate symmetry is only expert permutation'
+statement: >-
+  Under genericity conditions, two dense or top-k (k ≥ 2) mixture-of-experts
+  layers compute the same function only if they differ by a permutation of
+  the experts with their gates and a common translation of the gate weights,
+  and the translation leaves every interpolation barrier unchanged, so
+  expert order is the only gate symmetry alignment must undo
 version: 1
 tags:
 - loss-landscapes
@@ -27,7 +33,7 @@ bears_on:
 - QUESTION-069
 ---
 
-# THEORY-509: Under genericity conditions, two dense or top-k (k ≥ 2) mixture-of-experts layers compute the same function only if they differ by a permutation of the experts with their gates and a common translation of the gate weights, and the translation leaves every interpolation barrier unchanged, so expert order is the only gate symmetry alignment must undo
+# THEORY-509: MoE gate symmetry is only expert permutation
 
 ## Source
 

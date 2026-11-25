@@ -3,7 +3,15 @@ number: 2051
 status: Proposed
 formerly:
 - THEORY-tmpvtafk
-title: 'Iqbal and colleagues show, at initialisation and large width and in experiments, that a deep network with U(1)- or O(k)-equivariant middle layers has a transition at σ_W = 1 above which a symmetry-broken phase conserves the relative phase of two inputs across layers and keeps one Jacobian component O(1) at any depth, so very deep networks train without normalisation over the whole phase, while the same order parameter in non-equivariant networks brings no gain'
+title: 'Equivariant symmetry-broken phase trains deep'
+statement: >-
+  Iqbal and colleagues show, at initialisation and large width and in
+  experiments, that a deep network with U(1)- or O(k)-equivariant middle
+  layers has a transition at σ_W = 1 above which a symmetry-broken phase
+  conserves the relative phase of two inputs across layers and keeps one
+  Jacobian component O(1) at any depth, so very deep networks train without
+  normalisation over the whole phase, while the same order parameter in
+  non-equivariant networks brings no gain
 version: 1
 source:
 - LIT-2840
@@ -31,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2041 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-2787 — Unfetched; cited in this filing of 2026-11-19 -->
 
-# THEORY-2051: Iqbal and colleagues show, at initialisation and large width and in experiments, that a deep network with U(1)- or O(k)-equivariant middle layers has a transition at σ_W = 1 above which a symmetry-broken phase conserves the relative phase of two inputs across layers and keeps one Jacobian component O(1) at any depth, so very deep networks train without normalisation over the whole phase, while the same order parameter in non-equivariant networks brings no gain
+# THEORY-2051: Equivariant symmetry-broken phase trains deep
 
 ## The account
 

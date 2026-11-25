@@ -3,7 +3,14 @@ number: 1937
 status: Proposed
 formerly:
 - THEORY-tmpmyusz
-title: 'Natali, Naiseh, Cabitza and Frischmann propose that AI decision support be designed with friction, deliberate inefficiencies at critical points of the interaction such as pauses before AI output, cognitive forcing functions and seamful design, to counter automation bias and preserve users'' judgement, agency and accountability, and set an agenda for calibrating it, reporting no evidence of their own'
+title: 'Designed friction should counter automation bias'
+statement: >-
+  Natali, Naiseh, Cabitza and Frischmann propose that AI decision support be
+  designed with friction, deliberate inefficiencies at critical points of
+  the interaction such as pauses before AI output, cognitive forcing
+  functions and seamful design, to counter automation bias and preserve
+  users' judgement, agency and accountability, and set an agenda for
+  calibrating it, reporting no evidence of their own
 version: 2
 history:
 - version: 2
@@ -37,7 +44,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-715 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpiwzpj — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: THEORY-1765 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1937: Natali, Naiseh, Cabitza and Frischmann propose that AI decision support be designed with friction, deliberate inefficiencies at critical points of the interaction such as pauses before AI output, cognitive forcing functions and seamful design, to counter automation bias and preserve users' judgement, agency and accountability, and set an agenda for calibrating it, reporting no evidence of their own
+# THEORY-1937: Designed friction should counter automation bias
 
 ## Source
 

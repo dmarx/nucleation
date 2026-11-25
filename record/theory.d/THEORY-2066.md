@@ -3,7 +3,15 @@ number: 2066
 status: Proposed
 formerly:
 - THEORY-tmpd6smn
-title: 'Liu, Neubig and Xiong find in Pythia-architecture models of 70M to 1B parameters pretrained on C4 that replacing part of the later pretraining data with specialized data, at matched total tokens, lowers loss after a fixed fine-tuning budget on distant target domains and little on close ones, and that a heavy code mix helps most when introduced early and, introduced late, ends worse than none, which they read as a plasticity window inferred from timing'
+title: 'Specialized late data helps distant domains'
+statement: >-
+  Liu, Neubig and Xiong find in Pythia-architecture models of 70M to 1B
+  parameters pretrained on C4 that replacing part of the later pretraining
+  data with specialized data, at matched total tokens, lowers loss after a
+  fixed fine-tuning budget on distant target domains and little on close
+  ones, and that a heavy code mix helps most when introduced early and,
+  introduced late, ends worse than none, which they read as a plasticity
+  window inferred from timing
 version: 1
 source:
 - LIT-2870
@@ -23,7 +31,7 @@ summary: >-
   Proposed until its promote_when is met.
 ---
 
-# THEORY-2066: Liu, Neubig and Xiong find in Pythia-architecture models of 70M to 1B parameters pretrained on C4 that replacing part of the later pretraining data with specialized data, at matched total tokens, lowers loss after a fixed fine-tuning budget on distant target domains and little on close ones, and that a heavy code mix helps most when introduced early and, introduced late, ends worse than none, which they read as a plasticity window inferred from timing
+# THEORY-2066: Specialized late data helps distant domains
 
 ## The account
 

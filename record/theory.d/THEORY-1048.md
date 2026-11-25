@@ -3,7 +3,14 @@ number: 1048
 status: Active
 formerly:
 - THEORY-tmp20e6b
-title: 'On the Black Queen Hypothesis of Morris, Lenski and Zinser, losing a costly function whose product leaks to neighbours is favoured by ordinary individual selection in large free-living microbial populations, and the loss proceeds until the remaining producers just supply the community, so that most cells come to depend on a rare few with no relatedness, cooperation or collective required'
+title: 'Leaky functions are lost by individual selection'
+statement: >-
+  On the Black Queen Hypothesis of Morris, Lenski and Zinser, losing a
+  costly function whose product leaks to neighbours is favoured by ordinary
+  individual selection in large free-living microbial populations, and the
+  loss proceeds until the remaining producers just supply the community, so
+  that most cells come to depend on a rare few with no relatedness,
+  cooperation or collective required
 version: 2
 history:
 - version: 1
@@ -60,7 +67,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1235 — Proposed; filed beside this reading by the twenty-fourth status review: the hypothesis itself, whether it is true -->
 <!-- inactive-ok-file: THEORY-141 — Open, Deferred or Proposed; the question this bears on and the accounts set beside it, nothing here rests on them -->
-# THEORY-1048: On the Black Queen Hypothesis of Morris, Lenski and Zinser, losing a costly function whose product leaks to neighbours is favoured by ordinary individual selection in large free-living microbial populations, and the loss proceeds until the remaining producers just supply the community, so that most cells come to depend on a rare few with no relatedness, cooperation or collective required
+# THEORY-1048: Leaky functions are lost by individual selection
 
 ## Source
 

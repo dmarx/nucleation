@@ -14,7 +14,13 @@ promote_when: >-
   three without giving sentences context-change meanings, the claim is
   refuted. If it fails on one, the claim stands. Restatements of the
   dynamic view in surveys do not count.
-title: 'What an utterance does to the context it is used in is part of its meaning, and its truth conditions do not fix it: sentences with the same truth conditions can differ in what they make available to later discourse, in whether they inform or only test, and in whether they describe a state of affairs or bring one about'
+title: 'Context change is part of meaning'
+statement: >-
+  What an utterance does to the context it is used in is part of its
+  meaning, and its truth conditions do not fix it: sentences with the same
+  truth conditions can differ in what they make available to later
+  discourse, in whether they inform or only test, and in whether they
+  describe a state of affairs or bring one about
 version: 1
 tags:
 - pragmatics
@@ -43,7 +49,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-949 — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: LIT-811 — Unavailable, no lawful full text; Stalnaker's "Assertion", named as the common origin -->
 
-# THEORY-162: What an utterance does to the context it is used in is part of its meaning, and its truth conditions do not fix it: sentences with the same truth conditions can differ in what they make available to later discourse, in whether they inform or only test, and in whether they describe a state of affairs or bring one about
+# THEORY-162: Context change is part of meaning
 
 ## Source
 

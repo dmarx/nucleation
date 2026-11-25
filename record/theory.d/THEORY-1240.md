@@ -15,7 +15,12 @@ promote_when: >-
   idealization itself is a definition and needs no test. Transcripts in
   which a model confabulates or is talked past a refusal cannot settle it,
   since both accounts predict that they happen.
-title: 'Trained, instruction-tuned and preference-tuned chat models keep the nature of the idealized fiction machine: what they assert follows the narrative coherence of the frame, role or story the conversation sets up, not a representation of truth that stays fixed across frames'
+title: 'Chat models follow narrative, not fixed truth'
+statement: >-
+  Trained, instruction-tuned and preference-tuned chat models keep the
+  nature of the idealized fiction machine: what they assert follows the
+  narrative coherence of the frame, role or story the conversation sets up,
+  not a representation of truth that stays fixed across frames
 version: 1
 tags:
 - cognition
@@ -33,7 +38,7 @@ summary: >-
   promote_when is [THEORY-547](THEORY-547.md)'s old condition, word for word.
 ---
 
-# THEORY-1240: Trained, instruction-tuned and preference-tuned chat models keep the nature of the idealized fiction machine: what they assert follows the narrative coherence of the frame, role or story the conversation sets up, not a representation of truth that stays fixed across frames
+# THEORY-1240: Chat models follow narrative, not fixed truth
 
 ## Source
 

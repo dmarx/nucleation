@@ -17,7 +17,18 @@ promote_when: >-
   evidence should come from the numerical work the review cites
   (Soto-Crespo, Akhmediev and co-workers) or from a direct simulation,
   not from the review's own statements.
-title: 'A dissipative soliton differs from a conservative one in being a single attractor rather than a member of a continuous family: a conservative soliton balances nonlinearity against dispersion alone, with its parameters selected by the initial data, whereas a dissipative soliton also needs an exact balance of gain and loss, kept by a continuous energy exchange with the environment and an internal flow from regions that gain energy to regions that lose it, so that its energy, profile and chirp are fixed by the system''s parameters, not by its initial conditions; such solitons can bind into robust molecules whose energy scales with the number of constituents'
+title: 'Dissipative solitons are attractors, not families'
+statement: >-
+  A dissipative soliton differs from a conservative one in being a single
+  attractor rather than a member of a continuous family: a conservative
+  soliton balances nonlinearity against dispersion alone, with its
+  parameters selected by the initial data, whereas a dissipative soliton
+  also needs an exact balance of gain and loss, kept by a continuous energy
+  exchange with the environment and an internal flow from regions that gain
+  energy to regions that lose it, so that its energy, profile and chirp are
+  fixed by the system's parameters, not by its initial conditions; such
+  solitons can bind into robust molecules whose energy scales with the
+  number of constituents
 version: 1
 tags:
 - natural-sciences
@@ -35,7 +46,7 @@ summary: >-
   carried, word for word.
 ---
 
-# THEORY-1548: A dissipative soliton differs from a conservative one in being a single attractor rather than a member of a continuous family: a conservative soliton balances nonlinearity against dispersion alone, with its parameters selected by the initial data, whereas a dissipative soliton also needs an exact balance of gain and loss, kept by a continuous energy exchange with the environment and an internal flow from regions that gain energy to regions that lose it, so that its energy, profile and chirp are fixed by the system's parameters, not by its initial conditions; such solitons can bind into robust molecules whose energy scales with the number of constituents
+# THEORY-1548: Dissipative solitons are attractors, not families
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 2109
 status: Proposed
 formerly:
 - THEORY-tmpgq14u
-title: 'Tomasello and Vaish hold that human morality is a form of cooperation that arose in two steps, repeated in child development, first collaboration with particular partners giving a second-personal morality of helping, equal sharing and commitment, then group life giving an agent-neutral morality of mutually known norms enforced on others and, through guilt and shame, on oneself'
+title: 'Human morality arose in two cooperative steps'
+statement: >-
+  Tomasello and Vaish hold that human morality is a form of cooperation that
+  arose in two steps, repeated in child development, first collaboration
+  with particular partners giving a second-personal morality of helping,
+  equal sharing and commitment, then group life giving an agent-neutral
+  morality of mutually known norms enforced on others and, through guilt and
+  shame, on oneself
 version: 1
 source:
 - LIT-2929
@@ -23,7 +30,7 @@ summary: >-
   2016 book. A review. Proposed until its promote_when is met.
 ---
 
-# THEORY-2109: Tomasello and Vaish hold that human morality is a form of cooperation that arose in two steps, repeated in child development, first collaboration with particular partners giving a second-personal morality of helping, equal sharing and commitment, then group life giving an agent-neutral morality of mutually known norms enforced on others and, through guilt and shame, on oneself
+# THEORY-2109: Human morality arose in two cooperative steps
 
 ## The account
 

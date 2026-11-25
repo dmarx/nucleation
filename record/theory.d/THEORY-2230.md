@@ -11,7 +11,14 @@ promote_when: >-
   together with a localization of the SUF proteins in the organism itself.
   It is refuted by a mitochondrial hallmark protein, an ISC component or an
   organelle with a mitochondrial import system found in the organism.
-title: 'Karnkowska and colleagues report that the genome of the oxymonad Monocercomonoides sp. PA203 encodes no hallmark mitochondrial protein, that its iron–sulfur clusters are made in the cytosol by a SUF system an ancestor shared with Paratrimastix took from bacteria by lateral transfer, and that the loss of the organelle is secondary, making it the first eukaryote known to lack any form of mitochondrion'
+title: 'A eukaryote can lack mitochondria entirely'
+statement: >-
+  Karnkowska and colleagues report that the genome of the oxymonad
+  Monocercomonoides sp. PA203 encodes no hallmark mitochondrial protein,
+  that its iron–sulfur clusters are made in the cytosol by a SUF system an
+  ancestor shared with Paratrimastix took from bacteria by lateral transfer,
+  and that the loss of the organelle is secondary, making it the first
+  eukaryote known to lack any form of mitochondrion
 version: 1
 history:
 - version: 1
@@ -38,7 +45,7 @@ summary: >-
   composition exists, which the authors say they cannot exclude.
 ---
 
-# THEORY-2230: Karnkowska and colleagues report that the genome of the oxymonad Monocercomonoides sp. PA203 encodes no hallmark mitochondrial protein, that its iron–sulfur clusters are made in the cytosol by a SUF system an ancestor shared with Paratrimastix took from bacteria by lateral transfer, and that the loss of the organelle is secondary, making it the first eukaryote known to lack any form of mitochondrion
+# THEORY-2230: A eukaryote can lack mitochondria entirely
 
 ## Source
 

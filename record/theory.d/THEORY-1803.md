@@ -3,7 +3,14 @@ number: 1803
 status: Proposed
 formerly:
 - THEORY-tmpw88x9
-title: 'Romera-Paredes and colleagues report that FunSearch, an evolutionary loop pairing a frozen code-generating LLM with a fixed programmatic evaluator, found a cap set of size 512 in dimension 8, larger than previously known, and new online bin-packing heuristics, and that it works best where an efficient evaluator with graded scores and a program skeleton are available.'
+title: 'FunSearch found a larger cap set'
+statement: >-
+  Romera-Paredes and colleagues report that FunSearch, an evolutionary loop
+  pairing a frozen code-generating LLM with a fixed programmatic evaluator,
+  found a cap set of size 512 in dimension 8, larger than previously known,
+  and new online bin-packing heuristics, and that it works best where an
+  efficient evaluator with graded scores and a program skeleton are
+  available.
 version: 1
 tags:
 - mathematics
@@ -22,7 +29,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1803: Romera-Paredes and colleagues report that FunSearch, an evolutionary loop pairing a frozen code-generating LLM with a fixed programmatic evaluator, found a cap set of size 512 in dimension 8, larger than previously known, and new online bin-packing heuristics, and that it works best where an efficient evaluator with graded scores and a program skeleton are available.
+# THEORY-1803: FunSearch found a larger cap set
 
 ## The account
 

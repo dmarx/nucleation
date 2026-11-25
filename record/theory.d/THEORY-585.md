@@ -3,7 +3,15 @@ number: 585
 status: Active
 formerly:
 - THEORY-tmpmp87h
-title: "In the Döring–Isham scheme for realising collections of systems in topoi, disjoint sums of quantum systems compose exactly; along a tensor product of finite-dimensional systems, the pull-back of a constituent's quantity agrees with the composite's own quantity at a context exactly when every projection in it with proper support on the first factor has the form P⊗1, so it fails for every non-scalar quantity and no operator on the composite realises the pull-back"
+title: 'Topos pull-backs fail for tensor composites'
+statement: >-
+  In the Döring–Isham scheme for realising collections of systems in topoi,
+  disjoint sums of quantum systems compose exactly; along a tensor product
+  of finite-dimensional systems, the pull-back of a constituent's quantity
+  agrees with the composite's own quantity at a context exactly when every
+  projection in it with proper support on the first factor has the form P⊗1,
+  so it fails for every non-scalar quantity and no operator on the composite
+  realises the pull-back
 version: 3
 history:
 - version: 2
@@ -53,7 +61,7 @@ bears_on:
 
 <!-- inactive-ok-file: LIT-310 — Proposed; read in full in NOTE-285 and cited as the source of the composite construction whose failure this account proves -->
 
-# THEORY-585: In the Döring–Isham scheme for realising collections of systems in topoi, disjoint sums of quantum systems compose exactly; along a tensor product of finite-dimensional systems, the pull-back of a constituent's quantity agrees with the composite's own quantity at a context exactly when every projection in it with proper support on the first factor has the form P⊗1, so it fails for every non-scalar quantity and no operator on the composite realises the pull-back
+# THEORY-585: Topos pull-backs fail for tensor composites
 
 ## Source
 

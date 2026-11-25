@@ -16,7 +16,14 @@ promote_when: >-
   standard's adoption is shown to have been driven by industry lobbying,
   or if agencies are shown to weigh the excluded values in practice. More
   surveys of the same cleavage cannot settle it.
-title: 'Regulatory capture can operate through the evaluative framework a regulator adopts rather than through its decisions: when experts design a standard from an ideologically motivated view of the public interest that consistently marginalizes important public values, outcomes can favour an interest with no lobbying or improper exchange; US antitrust''s consumer welfare standard is offered as a strong case'
+title: 'Capture can work through evaluative frameworks'
+statement: >-
+  Regulatory capture can operate through the evaluative framework a
+  regulator adopts rather than through its decisions: when experts design a
+  standard from an ideologically motivated view of the public interest that
+  consistently marginalizes important public values, outcomes can favour an
+  interest with no lobbying or improper exchange; US antitrust's consumer
+  welfare standard is offered as a strong case
 version: 1
 tags:
 - society-and-governance
@@ -34,7 +41,7 @@ summary: >-
   a self-reinforcing loop.
 ---
 <!-- inactive-ok-file: TERM-066 — Proposed; the claim and term this account bears on, nothing here rests on them -->
-# THEORY-859: Regulatory capture can operate through the evaluative framework a regulator adopts rather than through its decisions: when experts design a standard from an ideologically motivated view of the public interest that consistently marginalizes important public values, outcomes can favour an interest with no lobbying or improper exchange; US antitrust's consumer welfare standard is offered as a strong case
+# THEORY-859: Capture can work through evaluative frameworks
 
 ## Source
 

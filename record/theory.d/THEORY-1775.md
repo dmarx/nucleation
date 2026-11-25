@@ -3,7 +3,14 @@ number: 1775
 status: Proposed
 formerly:
 - THEORY-tmpm8l7x
-title: 'Jackson et al. (2021) report that the OBO Foundry turned its originally imprecise, subjectively interpreted principles into operational rules with automated checks shown on a public dashboard, kept both principles and checks under continuing community revision, and saw reported errors fall after the dashboard was announced, while some principles (collaboration, scope, plurality of users) still need human review'
+title: 'Automated checks made OBO principles operational'
+statement: >-
+  Jackson et al. (2021) report that the OBO Foundry turned its originally
+  imprecise, subjectively interpreted principles into operational rules with
+  automated checks shown on a public dashboard, kept both principles and
+  checks under continuing community revision, and saw reported errors fall
+  after the dashboard was announced, while some principles (collaboration,
+  scope, plurality of users) still need human review
 version: 1
 tags:
 - databases
@@ -24,7 +31,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1775: Jackson et al. (2021) report that the OBO Foundry turned its originally imprecise, subjectively interpreted principles into operational rules with automated checks shown on a public dashboard, kept both principles and checks under continuing community revision, and saw reported errors fall after the dashboard was announced, while some principles (collaboration, scope, plurality of users) still need human review
+# THEORY-1775: Automated checks made OBO principles operational
 
 ## The account
 

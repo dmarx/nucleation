@@ -3,7 +3,14 @@ number: 1745
 status: Proposed
 formerly:
 - THEORY-tmp8r2a9
-title: '- **Sentence**: Song, Cheng, Zhou and Wang (2022) model the argumentation of scientific papers as a knowledge graph of typed argumentation units (claim, warrant, backing, rebuttal and others) linked by intra-article relations and citation-based inter-article relations, build one by hand from twelve papers on technology acceptance, and use it to display how claims evolved from TAM to TAM2 and TAM3, without evaluating that use. -'
+title: 'Paper arguments can be modelled as a graph'
+statement: >-
+  - **Sentence**: Song, Cheng, Zhou and Wang (2022) model the argumentation
+  of scientific papers as a knowledge graph of typed argumentation units
+  (claim, warrant, backing, rebuttal and others) linked by intra-article
+  relations and citation-based inter-article relations, build one by hand
+  from twelve papers on technology acceptance, and use it to display how
+  claims evolved from TAM to TAM2 and TAM3, without evaluating that use. -
 version: 1
 tags:
 - information-retrieval
@@ -23,7 +30,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1745: - **Sentence**: Song, Cheng, Zhou and Wang (2022) model the argumentation of scientific papers as a knowledge graph of typed argumentation units (claim, warrant, backing, rebuttal and others) linked by intra-article relations and citation-based inter-article relations, build one by hand from twelve papers on technology acceptance, and use it to display how claims evolved from TAM to TAM2 and TAM3, without evaluating that use. -
+# THEORY-1745: Paper arguments can be modelled as a graph
 
 ## The account
 

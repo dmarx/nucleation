@@ -17,7 +17,13 @@ promote_when: >-
   refuted if such losses in large free-living populations prove
   effectively neutral, or if beneficiaries spread until the function is
   lost from the community.
-title: 'Losing a costly function whose product leaks to neighbours is favoured by ordinary individual selection in large free-living microbial populations, and the loss proceeds until the remaining producers just supply the community, so that most cells come to depend on a rare few with no relatedness, cooperation or collective required'
+title: 'Leaky-function loss evolves by plain selection'
+statement: >-
+  Losing a costly function whose product leaks to neighbours is favoured by
+  ordinary individual selection in large free-living microbial populations,
+  and the loss proceeds until the remaining producers just supply the
+  community, so that most cells come to depend on a rare few with no
+  relatedness, cooperation or collective required
 version: 1
 tags:
 - endosymbiosis
@@ -36,7 +42,7 @@ summary: >-
   entry's question, with [THEORY-1048](THEORY-1048.md)'s old condition word for word.
 ---
 
-# THEORY-1235: Losing a costly function whose product leaks to neighbours is favoured by ordinary individual selection in large free-living microbial populations, and the loss proceeds until the remaining producers just supply the community, so that most cells come to depend on a rare few with no relatedness, cooperation or collective required
+# THEORY-1235: Leaky-function loss evolves by plain selection
 
 ## Source
 

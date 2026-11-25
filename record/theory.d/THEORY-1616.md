@@ -3,7 +3,13 @@ number: 1616
 status: Active
 formerly:
 - THEORY-tmpspmaz
-title: 'Hurlstone et al. report that in a threshold climate game 9 of 10 groups reached the target when the saved endowment paid the players the next day, 2 of 10 when it paid for trees for future generations, and 7 of 10 when messages meant to activate the legacy motive were added, with no control message and no manipulation check'
+title: 'Payoff to future generations cut cooperation'
+statement: >-
+  Hurlstone et al. report that in a threshold climate game 9 of 10 groups
+  reached the target when the saved endowment paid the players the next day,
+  2 of 10 when it paid for trees for future generations, and 7 of 10 when
+  messages meant to activate the legacy motive were added, with no control
+  message and no manipulation check
 version: 2
 history:
 - version: 1
@@ -35,7 +41,7 @@ bears_on:
 - QUESTION-301
 ---
 
-# THEORY-1616: Hurlstone et al. report that in a threshold climate game 9 of 10 groups reached the target when the saved endowment paid the players the next day, 2 of 10 when it paid for trees for future generations, and 7 of 10 when messages meant to activate the legacy motive were added, with no control message and no manipulation check
+# THEORY-1616: Payoff to future generations cut cooperation
 
 ## The account
 

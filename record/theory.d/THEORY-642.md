@@ -3,7 +3,13 @@ number: 642
 status: Active
 formerly:
 - THEORY-tmptpqtg
-title: "Basic two-level type theory, an inner homotopy type theory with an outer level of strict equality, is conservative over homotopy type theory, so an inner type it proves inhabited is already inhabited in HoTT, but a fibrant-replacement type former would force uniqueness of identity proofs on the inner level"
+title: 'Two-level type theory is conservative over HoTT'
+statement: >-
+  Basic two-level type theory, an inner homotopy type theory with an outer
+  level of strict equality, is conservative over homotopy type theory, so an
+  inner type it proves inhabited is already inhabited in HoTT, but a
+  fibrant-replacement type former would force uniqueness of identity proofs
+  on the inner level
 version: 1
 tags:
 - mathematics
@@ -24,7 +30,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-040 — Superseded by LIT-095; its NOTE is where LIT-095 was read, named for that -->
 
-# THEORY-642: Basic two-level type theory, an inner homotopy type theory with an outer level of strict equality, is conservative over homotopy type theory, so an inner type it proves inhabited is already inhabited in HoTT, but a fibrant-replacement type former would force uniqueness of identity proofs on the inner level
+# THEORY-642: Two-level type theory is conservative over HoTT
 
 ## Source
 

@@ -3,7 +3,17 @@ number: 942
 status: Active
 formerly:
 - THEORY-tmpwc2nk
-title: "The α-Rank chain over pure strategy profiles, built from Fermi-imitation fixation probabilities in finite populations with rare mutation, has a unique stationary distribution at every finite ranking intensity; as the intensity grows without bound its transition matrix converges to that of a chain that moves only along weakly better unilateral deviations, whose closed classes are the sink strongly connected components of the game's weakly-better-response graph, on each of which it is a Markov-Conley chain, and each of which lies inside a single chain component of the replicator flow"
+title: 'Infinite-intensity α-Rank tracks sink components'
+statement: >-
+  The α-Rank chain over pure strategy profiles, built from Fermi-imitation
+  fixation probabilities in finite populations with rare mutation, has a
+  unique stationary distribution at every finite ranking intensity; as the
+  intensity grows without bound its transition matrix converges to that of a
+  chain that moves only along weakly better unilateral deviations, whose
+  closed classes are the sink strongly connected components of the game's
+  weakly-better-response graph, on each of which it is a Markov-Conley
+  chain, and each of which lies inside a single chain component of the
+  replicator flow
 version: 3
 history:
 - version: 2
@@ -60,7 +70,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-1233 — Proposed; the converse half of Theorem 2.4.24, which extends this entry -->
 
-# THEORY-942: The α-Rank chain over pure strategy profiles, built from Fermi-imitation fixation probabilities in finite populations with rare mutation, has a unique stationary distribution at every finite ranking intensity; as the intensity grows without bound its transition matrix converges to that of a chain that moves only along weakly better unilateral deviations, whose closed classes are the sink strongly connected components of the game's weakly-better-response graph, on each of which it is a Markov-Conley chain, and each of which lies inside a single chain component of the replicator flow
+# THEORY-942: Infinite-intensity α-Rank tracks sink components
 
 ## Source
 

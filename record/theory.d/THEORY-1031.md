@@ -3,7 +3,16 @@ number: 1031
 status: Active
 formerly:
 - THEORY-tmpukwxl
-title: 'In GPT-J, inserting 10,000 CounterFact counterfactuals at once by a closed-form least-squares update of the MLP output matrices of layers 3 to 8, spread so that each layer writes a share of each fact''s required change to the subject''s hidden state, gives an editing score of 85.8 (efficacy 98.9, paraphrase 88.6, neighbourhood 73.7) with fluency kept, against 67.6 for weight-decayed fine-tuning, which breaks generation, 50.3 for ROME applied one fact at a time and 23.1 for MEND; GPT-NeoX scores 82.0, and editing late MLPs or attention instead does worse'
+title: 'Spread MLP edits insert 10,000 facts at once'
+statement: >-
+  In GPT-J, inserting 10,000 CounterFact counterfactuals at once by a
+  closed-form least-squares update of the MLP output matrices of layers 3 to
+  8, spread so that each layer writes a share of each fact's required change
+  to the subject's hidden state, gives an editing score of 85.8 (efficacy
+  98.9, paraphrase 88.6, neighbourhood 73.7) with fluency kept, against 67.6
+  for weight-decayed fine-tuning, which breaks generation, 50.3 for ROME
+  applied one fact at a time and 23.1 for MEND; GPT-NeoX scores 82.0, and
+  editing late MLPs or attention instead does worse
 version: 1
 history:
 - version: 1
@@ -31,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1011 — Proposed; the storage hypothesis this result is offered for and does not support, cited as open -->
 
-# THEORY-1031: In GPT-J, inserting 10,000 CounterFact counterfactuals at once by a closed-form least-squares update of the MLP output matrices of layers 3 to 8, spread so that each layer writes a share of each fact's required change to the subject's hidden state, gives an editing score of 85.8 (efficacy 98.9, paraphrase 88.6, neighbourhood 73.7) with fluency kept, against 67.6 for weight-decayed fine-tuning, which breaks generation, 50.3 for ROME applied one fact at a time and 23.1 for MEND; GPT-NeoX scores 82.0, and editing late MLPs or attention instead does worse
+# THEORY-1031: Spread MLP edits insert 10,000 facts at once
 
 ## Source
 

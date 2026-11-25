@@ -3,7 +3,16 @@ number: 994
 status: Active
 formerly:
 - THEORY-tmpm4ifd
-title: 'In Ameisen et al.''s evaluations, the local replacement model of their 18-layer language model, built from a 10-million-feature cross-layer transcoder, responded to small perturbations much as the model did one layer after the intervention and increasingly differently over later layers, more in the size of the effect than its direction and slightly more for larger dictionaries, and over 20 prompts the graph''s influence of one feature on another ranked the effect of ablating the first on the second with a Spearman correlation of 0.72'
+title: 'Replacement model diverges over later layers'
+statement: >-
+  In Ameisen et al.'s evaluations, the local replacement model of their
+  18-layer language model, built from a 10-million-feature cross-layer
+  transcoder, responded to small perturbations much as the model did one
+  layer after the intervention and increasingly differently over later
+  layers, more in the size of the effect than its direction and slightly
+  more for larger dictionaries, and over 20 prompts the graph's influence of
+  one feature on another ranked the effect of ablating the first on the
+  second with a Spearman correlation of 0.72
 version: 2
 history:
 - version: 1
@@ -45,7 +54,7 @@ bears_on:
 corroborates:
 - CLAIM-454
 ---
-# THEORY-994: In Ameisen et al.'s evaluations, the local replacement model of their 18-layer language model, built from a 10-million-feature cross-layer transcoder, responded to small perturbations much as the model did one layer after the intervention and increasingly differently over later layers, more in the size of the effect than its direction and slightly more for larger dictionaries, and over 20 prompts the graph's influence of one feature on another ranked the effect of ablating the first on the second with a Spearman correlation of 0.72
+# THEORY-994: Replacement model diverges over later layers
 
 ## Source
 

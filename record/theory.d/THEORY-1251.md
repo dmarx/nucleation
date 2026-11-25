@@ -12,7 +12,15 @@ promote_when: >-
   constraint networks. More statements of the principle, or more
   examples of closure in organisms, cannot settle it, since the principle
   holds of organisms by definition.
-title: 'Mossio, Montévil and Longo take organization, as closure of constraints, to be a theoretical principle of biology, posited a priori as physics posits its phase space and defining the domain together with variation, so that every system meeting both is biological by definition and organisms are one class of such systems; on this reading "organisms are organized" is constitutive, not an empirical finding, and the principle is to be judged by what it makes intelligible'
+title: 'Organization is posited a priori, not found'
+statement: >-
+  Mossio, Montévil and Longo take organization, as closure of constraints,
+  to be a theoretical principle of biology, posited a priori as physics
+  posits its phase space and defining the domain together with variation, so
+  that every system meeting both is biological by definition and organisms
+  are one class of such systems; on this reading "organisms are organized"
+  is constitutive, not an empirical finding, and the principle is to be
+  judged by what it makes intelligible
 version: 1
 tags:
 - philosophy-of-biology
@@ -33,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-514 — Proposed; Baedke's demarcation, cited as open -->
 
-# THEORY-1251: Mossio, Montévil and Longo take organization, as closure of constraints, to be a theoretical principle of biology, posited a priori as physics posits its phase space and defining the domain together with variation, so that every system meeting both is biological by definition and organisms are one class of such systems; on this reading "organisms are organized" is constitutive, not an empirical finding, and the principle is to be judged by what it makes intelligible
+# THEORY-1251: Organization is posited a priori, not found
 
 ## Source
 

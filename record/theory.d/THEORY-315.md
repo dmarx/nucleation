@@ -3,7 +3,12 @@ number: 315
 status: Active
 formerly:
 - THEORY-tmpkfnig
-title: 'For a state whose four-state reflection orbit is realizable, generalized noncontextuality bounds two binary predictabilities by |⟨X⟩| + |⟨Z⟩| ≤ 1, so the form of a predictability trade-off, not its existence, can witness contextuality'
+title: 'Trade-off form can witness contextuality'
+statement: >-
+  For a state whose four-state reflection orbit is realizable, generalized
+  noncontextuality bounds two binary predictabilities by |⟨X⟩| + |⟨Z⟩| ≤ 1,
+  so the form of a predictability trade-off, not its existence, can witness
+  contextuality
 version: 2
 history:
 - version: 2
@@ -39,7 +44,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-010 CLAIM-009 CLAIM-037 CLAIM-044 CLAIM-142 — Proposed; theories and claims this account bears on, open -->
 
-# THEORY-315: For a state whose four-state reflection orbit is realizable, generalized noncontextuality bounds two binary predictabilities by |⟨X⟩| + |⟨Z⟩| ≤ 1, so the form of a predictability trade-off, not its existence, can witness contextuality
+# THEORY-315: Trade-off form can witness contextuality
 
 ## Source
 

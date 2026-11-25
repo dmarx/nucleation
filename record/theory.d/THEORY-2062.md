@@ -3,7 +3,15 @@ number: 2062
 status: Proposed
 formerly:
 - THEORY-tmp8cm7r
-title: 'Brown and colleagues show that in autoregressive language models from 125M to 175B parameters, each pretrained on 300B tokens, performance with task demonstrations given in the context and no weight update rises with the number of demonstrations and with model size, the gain over zero-shot growing with size, so that larger models reach a given accuracy with fewer in-context examples; they leave open whether this learns new tasks or recognizes tasks acquired in pretraining'
+title: 'In-context few-shot gains grow with model size'
+statement: >-
+  Brown and colleagues show that in autoregressive language models from 125M
+  to 175B parameters, each pretrained on 300B tokens, performance with task
+  demonstrations given in the context and no weight update rises with the
+  number of demonstrations and with model size, the gain over zero-shot
+  growing with size, so that larger models reach a given accuracy with fewer
+  in-context examples; they leave open whether this learns new tasks or
+  recognizes tasks acquired in pretraining
 version: 1
 source:
 - LIT-2859
@@ -26,7 +34,7 @@ summary: >-
   (TERM-131, version 2). Proposed until its promote_when is met.
 ---
 
-# THEORY-2062: Brown and colleagues show that in autoregressive language models from 125M to 175B parameters, each pretrained on 300B tokens, performance with task demonstrations given in the context and no weight update rises with the number of demonstrations and with model size, the gain over zero-shot growing with size, so that larger models reach a given accuracy with fewer in-context examples; they leave open whether this learns new tasks or recognizes tasks acquired in pretraining
+# THEORY-2062: In-context few-shot gains grow with model size
 
 ## The account
 

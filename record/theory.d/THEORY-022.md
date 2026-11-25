@@ -15,7 +15,12 @@ promote_when: >-
   tests the basis the analyst chose, not the pairing. Clearly unequal or
   non-orthogonal cos and sin components would refute the character-product
   reading while leaving the Fourier-sparsity finding intact.
-title: 'The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network'
+title: 'Grokked modular addition multiplies characters'
+statement: >-
+  The reverse-engineered grokking network computes modular addition by
+  multiplying characters of ℤ/p at a few frequencies, the same real
+  two-dimensional irreducibles later found as circles in language models; in
+  both the group comes from the task, not the network
 version: 4
 history:
 - version: 2
@@ -72,7 +77,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-183 — Proposed; cited as the data-side mechanism, not as settled -->
 <!-- inactive-ok-file: THEORY-288 — Proposed; cited as the qualification of "not the network", not leaned on -->
 
-# THEORY-022: The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network
+# THEORY-022: Grokked modular addition multiplies characters
 
 ## Source
 

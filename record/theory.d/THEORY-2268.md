@@ -12,7 +12,15 @@ promote_when: >-
   all four. The second: no reply shows that plight inescapability yields
   force independent of constitution, or that the constitutions of actual
   agents, corporate agents included, do not vary in their commitments.
-title: "Leffler (2024) argues that of four inescapability proposals only Korsgaard's plight inescapability, reinterpreted as an agent's being continuously positioned to exercise its agency fully absent external limits, captures four necessary features of normative force, and that it then makes force relative to each agent's constitution, so that agents constituted differently, corporate agents included, are bound by different norms"
+title: 'Normative force is relative to constitution'
+statement: >-
+  Leffler (2024) argues that of four inescapability proposals only
+  Korsgaard's plight inescapability, reinterpreted as an agent's being
+  continuously positioned to exercise its agency fully absent external
+  limits, captures four necessary features of normative force, and that it
+  then makes force relative to each agent's constitution, so that agents
+  constituted differently, corporate agents included, are bound by different
+  norms
 version: 1
 tags:
 - ethics
@@ -36,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-217 — filed from this reading, Proposed or new -->
 
-# THEORY-2268: Leffler (2024) argues that of four inescapability proposals only Korsgaard's plight inescapability, reinterpreted as an agent's being continuously positioned to exercise its agency fully absent external limits, captures four necessary features of normative force, and that it then makes force relative to each agent's constitution, so that agents constituted differently, corporate agents included, are bound by different norms
+# THEORY-2268: Normative force is relative to constitution
 
 ## Source
 

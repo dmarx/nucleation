@@ -3,7 +3,15 @@ number: 696
 status: Active
 formerly:
 - THEORY-tmpzaqyd
-title: "Under multiplicative noise, members that pool their resources and split them equally every step each grow faster in the long run than they would alone, with no complementarity, relatedness or reciprocity: N independent geometric Brownian motions that share keep their drift μ and cut their volatility to σ/√N, raising each one's time-average growth rate from μ − σ²/2 to μ − σ²/(2N); the gain vanishes as their noise becomes perfectly correlated, and a sufficiently superior member does better alone"
+title: 'Pooling under multiplicative noise boosts growth'
+statement: >-
+  Under multiplicative noise, members that pool their resources and split
+  them equally every step each grow faster in the long run than they would
+  alone, with no complementarity, relatedness or reciprocity: N independent
+  geometric Brownian motions that share keep their drift μ and cut their
+  volatility to σ/√N, raising each one's time-average growth rate from μ −
+  σ²/2 to μ − σ²/(2N); the gain vanishes as their noise becomes perfectly
+  correlated, and a sufficiently superior member does better alone
 version: 2
 history:
 - version: 2
@@ -39,7 +47,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-141 THEORY-468 — Proposed; accounts of cooperation named for contrast, nothing here rests on their being settled -->
 
-# THEORY-696: Under multiplicative noise, members that pool their resources and split them equally every step each grow faster in the long run than they would alone, with no complementarity, relatedness or reciprocity: N independent geometric Brownian motions that share keep their drift μ and cut their volatility to σ/√N, raising each one's time-average growth rate from μ − σ²/2 to μ − σ²/(2N); the gain vanishes as their noise becomes perfectly correlated, and a sufficiently superior member does better alone
+# THEORY-696: Pooling under multiplicative noise boosts growth
 
 ## Source
 

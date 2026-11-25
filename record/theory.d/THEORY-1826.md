@@ -14,7 +14,14 @@ promote_when: >-
   accumulated update's singular values near the original matrix's
   largest keeps general ability and edit success above unrestrained
   sequential editing.
-title: 'On Ma and colleagues, in sequential single-fact editing of a transformer MLP output matrix, the growth of the edited matrix''s condition number with the number of edits, driven by the top singular values of the accumulated edit update, is what degrades the model''s general abilities, and capping the accumulated update''s singular values near the original matrix''s largest preserves those abilities while keeping the edits'
+title: 'Edit condition-number growth degrades models'
+statement: >-
+  On Ma and colleagues, in sequential single-fact editing of a transformer
+  MLP output matrix, the growth of the edited matrix's condition number with
+  the number of edits, driven by the top singular values of the accumulated
+  edit update, is what degrades the model's general abilities, and capping
+  the accumulated update's singular values near the original matrix's
+  largest preserves those abilities while keeping the edits
 version: 1
 tags:
 - representation-learning
@@ -33,7 +40,7 @@ summary: >-
   provably bound the condition number.
 ---
 
-# THEORY-1826: On Ma and colleagues, in sequential single-fact editing of a transformer MLP output matrix, the growth of the edited matrix's condition number with the number of edits, driven by the top singular values of the accumulated edit update, is what degrades the model's general abilities, and capping the accumulated update's singular values near the original matrix's largest preserves those abilities while keeping the edits
+# THEORY-1826: Edit condition-number growth degrades models
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 1065
 status: Active
 formerly:
 - THEORY-tmpbgffi
-title: 'In a coupled cell network, a pattern of synchrony is invariant under every dynamics the network''s architecture admits if and only if its partition of the cells is balanced, each cell of a class receiving, through each kind of arrow, the same number of inputs from each class; symmetry is one way to get balance and not the only one, so robust synchrony occurs in networks with no symmetry and among cells with no coupling between them, and the invariance says nothing about whether the pattern attracts'
+title: 'Robust synchrony iff balanced partition'
+statement: >-
+  In a coupled cell network, a pattern of synchrony is invariant under every
+  dynamics the network's architecture admits if and only if its partition of
+  the cells is balanced, each cell of a class receiving, through each kind
+  of arrow, the same number of inputs from each class; symmetry is one way
+  to get balance and not the only one, so robust synchrony occurs in
+  networks with no symmetry and among cells with no coupling between them,
+  and the invariance says nothing about whether the pattern attracts
 version: 1
 tags:
 - network-science
@@ -22,7 +30,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-296 THEORY-2005 THEORY-2054 THEORY-2055 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-2014 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-1065: In a coupled cell network, a pattern of synchrony is invariant under every dynamics the network's architecture admits if and only if its partition of the cells is balanced, each cell of a class receiving, through each kind of arrow, the same number of inputs from each class; symmetry is one way to get balance and not the only one, so robust synchrony occurs in networks with no symmetry and among cells with no coupling between them, and the invariance says nothing about whether the pattern attracts
+# THEORY-1065: Robust synchrony iff balanced partition
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 1612
 status: Active
 formerly:
 - THEORY-tmpqpejd
-title: 'Youssef and colleagues review two small parent–child studies and three of stress in pregnancy, report that Holocaust survivors had higher FKBP5 methylation and their offspring lower, and read the studies as accumulating evidence that trauma-related methylation changes pass from parent to child, while naming small samples, cross-sectional designs and unmeasured confounds as weaknesses'
+title: 'Evidence accumulates for inherited trauma marks'
+statement: >-
+  Youssef and colleagues review two small parent–child studies and three of
+  stress in pregnancy, report that Holocaust survivors had higher FKBP5
+  methylation and their offspring lower, and read the studies as
+  accumulating evidence that trauma-related methylation changes pass from
+  parent to child, while naming small samples, cross-sectional designs and
+  unmeasured confounds as weaknesses
 version: 2
 history:
 - version: 1
@@ -44,7 +51,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1612: Youssef and colleagues review two small parent–child studies and three of stress in pregnancy, report that Holocaust survivors had higher FKBP5 methylation and their offspring lower, and read the studies as accumulating evidence that trauma-related methylation changes pass from parent to child, while naming small samples, cross-sectional designs and unmeasured confounds as weaknesses
+# THEORY-1612: Evidence accumulates for inherited trauma marks
 
 ## The account
 

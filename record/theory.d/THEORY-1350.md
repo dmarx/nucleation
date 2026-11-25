@@ -3,7 +3,15 @@ number: 1350
 status: Active
 formerly:
 - THEORY-tmpzxpp8
-title: 'The Persona Selection Model holds that pre-training gives a language model a distribution over personas, that post-training updates it into a posterior over Assistant personas which runtime context keeps conditioning, and that the Assistant''s traits are a key determiner of behaviour; it disowns a single coherent persona and exhaustiveness, and names as open a router that selects personas and could carry goals no persona has'
+title: 'Post-training conditions a persona posterior'
+statement: >-
+  The Persona Selection Model holds that pre-training gives a language model
+  a distribution over personas, that post-training updates it into a
+  posterior over Assistant personas which runtime context keeps
+  conditioning, and that the Assistant's traits are a key determiner of
+  behaviour; it disowns a single coherent persona and exhaustiveness, and
+  names as open a router that selects personas and could carry goals no
+  persona has
 version: 2
 history:
 - version: 2
@@ -33,7 +41,7 @@ bears_on:
 - QUESTION-370
 ---
 
-# THEORY-1350: The Persona Selection Model holds that pre-training gives a language model a distribution over personas, that post-training updates it into a posterior over Assistant personas which runtime context keeps conditioning, and that the Assistant's traits are a key determiner of behaviour; it disowns a single coherent persona and exhaustiveness, and names as open a router that selects personas and could carry goals no persona has
+# THEORY-1350: Post-training conditions a persona posterior
 
 ## Source
 

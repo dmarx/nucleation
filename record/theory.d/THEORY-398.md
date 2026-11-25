@@ -3,7 +3,13 @@ number: 398
 status: Active
 formerly:
 - THEORY-tmpub08y
-title: 'A Lipschitz map from a subset of a metric space whose points are at least ε apart and whose diameter is D extends to the whole space into Hilbert space with Lipschitz constant at most 6D/ε times its own, and, by Benyamini''s argument in the same paper, into any Banach space with at most 4D/ε, with no dependence on the number of points'
+title: 'Separated sets extend Lipschitz maps at O(D/ε)'
+statement: >-
+  A Lipschitz map from a subset of a metric space whose points are at least
+  ε apart and whose diameter is D extends to the whole space into Hilbert
+  space with Lipschitz constant at most 6D/ε times its own, and, by
+  Benyamini's argument in the same paper, into any Banach space with at most
+  4D/ε, with no dependence on the number of points
 version: 2
 history:
 - version: 2
@@ -24,7 +30,7 @@ summary: >-
   either constant is best possible is not discussed.
 ---
 
-# THEORY-398: A Lipschitz map from a subset of a metric space whose points are at least ε apart and whose diameter is D extends to the whole space into Hilbert space with Lipschitz constant at most 6D/ε times its own, and, by Benyamini's argument in the same paper, into any Banach space with at most 4D/ε, with no dependence on the number of points
+# THEORY-398: Separated sets extend Lipschitz maps at O(D/ε)
 
 ## Source
 

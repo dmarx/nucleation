@@ -3,7 +3,14 @@ number: 1742
 status: Proposed
 formerly:
 - THEORY-tmp706lw
-title: '- **Sentence**: Halilaj, Grangel-González, Coskun and Auer (2016) argue that collaborative vocabulary development needs version control at its core and propose Git4Voc, which develops vocabularies in Git with discussion in issues, provenance in commit history, role checks in hooks, and syntax and best-practice validation that cancels a commit that fails. -'
+title: 'Vocabulary development needs version control'
+statement: >-
+  - **Sentence**: Halilaj, Grangel-González, Coskun and Auer (2016) argue
+  that collaborative vocabulary development needs version control at its
+  core and propose Git4Voc, which develops vocabularies in Git with
+  discussion in issues, provenance in commit history, role checks in hooks,
+  and syntax and best-practice validation that cancels a commit that fails.
+  -
 version: 1
 tags:
 - databases
@@ -22,7 +29,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1742: - **Sentence**: Halilaj, Grangel-González, Coskun and Auer (2016) argue that collaborative vocabulary development needs version control at its core and propose Git4Voc, which develops vocabularies in Git with discussion in issues, provenance in commit history, role checks in hooks, and syntax and best-practice validation that cancels a commit that fails. -
+# THEORY-1742: Vocabulary development needs version control
 
 ## The account
 

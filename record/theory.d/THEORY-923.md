@@ -3,7 +3,14 @@ number: 923
 status: Active
 formerly:
 - THEORY-tmpydeuq
-title: 'In one simulated T-maze task with hand-set parameters, run once per condition, an active inference agent''s habit, learned by counting its own state transitions and policy choices, emerged from goal-directed behaviour, and once acquired it persisted, and reinforced itself, after the reward was devalued, while an agent devalued before acquisition switched at once'
+title: 'One T-maze run: habits persist after devaluation'
+statement: >-
+  In one simulated T-maze task with hand-set parameters, run once per
+  condition, an active inference agent's habit, learned by counting its own
+  state transitions and policy choices, emerged from goal-directed
+  behaviour, and once acquired it persisted, and reinforced itself, after
+  the reward was devalued, while an agent devalued before acquisition
+  switched at once
 version: 2
 history:
 - version: 2
@@ -44,7 +51,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-062 — Proposed; the claim and account this bears on, named, nothing here rests on them -->
 
-# THEORY-923: In one simulated T-maze task with hand-set parameters, run once per condition, an active inference agent's habit, learned by counting its own state transitions and policy choices, emerged from goal-directed behaviour, and once acquired it persisted, and reinforced itself, after the reward was devalued, while an agent devalued before acquisition switched at once
+# THEORY-923: One T-maze run: habits persist after devaluation
 
 ## Source
 

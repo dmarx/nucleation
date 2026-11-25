@@ -3,7 +3,15 @@ number: 372
 status: Active
 formerly:
 - THEORY-tmpehk94
-title: "For c-approximate near-neighbour search over n points in Euclidean space, space n^{1+ρu+o(1)} and query time n^{ρq+o(1)} are achievable on any data set whenever c²√ρq + (c²−1)√ρu ≥ √(2c²−1) (c√ρq + (c−1)√ρu ≥ √(2c−1) in Hamming space), and no list-of-points structure, the model of known data-independent hashing, does better on random instances; without that model the curve is matched only at query time n^{o(1)} by one or two cell probes"
+title: 'ANN space–time trade-off is optimal for hashing'
+statement: >-
+  For c-approximate near-neighbour search over n points in Euclidean space,
+  space n^{1+ρu+o(1)} and query time n^{ρq+o(1)} are achievable on any data
+  set whenever c²√ρq + (c²−1)√ρu ≥ √(2c²−1) (c√ρq + (c−1)√ρu ≥ √(2c−1) in
+  Hamming space), and no list-of-points structure, the model of known
+  data-independent hashing, does better on random instances; without that
+  model the curve is matched only at query time n^{o(1)} by one or two cell
+  probes
 version: 1
 tags:
 - databases
@@ -32,7 +40,7 @@ bears_on:
 - QUESTION-114
 ---
 
-# THEORY-372: For c-approximate near-neighbour search over n points in Euclidean space, space n^{1+ρu+o(1)} and query time n^{ρq+o(1)} are achievable on any data set whenever c²√ρq + (c²−1)√ρu ≥ √(2c²−1) (c√ρq + (c−1)√ρu ≥ √(2c−1) in Hamming space), and no list-of-points structure, the model of known data-independent hashing, does better on random instances; without that model the curve is matched only at query time n^{o(1)} by one or two cell probes
+# THEORY-372: ANN space–time trade-off is optimal for hashing
 
 ## Source
 

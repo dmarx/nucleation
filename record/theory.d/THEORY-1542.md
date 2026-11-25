@@ -11,7 +11,14 @@ promote_when: >-
   attributed to a reinforcing legacy of the degraded phase, followed
   by recovery after the stated biotic manipulation. It does not need a
   test of alternative stable states, which the title does not assert.
-title: 'Restoring the pressure-free conditions of a degraded ecosystem can fail because the degraded phase leaves a reinforcing legacy of its own, such as hardwoods that stop fire spreading, sludge that favours a floating competitor, or eroded beaver sites, so recovery needs direct biotic manipulation, by removal or by reintroduction in the right order, besides abiotic restoration'
+title: 'Degraded-phase legacies need biotic manipulation'
+statement: >-
+  Restoring the pressure-free conditions of a degraded ecosystem can fail
+  because the degraded phase leaves a reinforcing legacy of its own, such as
+  hardwoods that stop fire spreading, sludge that favours a floating
+  competitor, or eroded beaver sites, so recovery needs direct biotic
+  manipulation, by removal or by reintroduction in the right order, besides
+  abiotic restoration
 version: 1
 tags:
 - ecology
@@ -30,7 +37,7 @@ summary: >-
   for word.
 ---
 
-# THEORY-1542: Restoring the pressure-free conditions of a degraded ecosystem can fail because the degraded phase leaves a reinforcing legacy of its own, such as hardwoods that stop fire spreading, sludge that favours a floating competitor, or eroded beaver sites, so recovery needs direct biotic manipulation, by removal or by reintroduction in the right order, besides abiotic restoration
+# THEORY-1542: Degraded-phase legacies need biotic manipulation
 
 ## Source
 

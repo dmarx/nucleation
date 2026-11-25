@@ -3,7 +3,15 @@ number: 2004
 status: Proposed
 formerly:
 - THEORY-tmp1kxhj
-title: 'Carnap (1950) holds that logical probability is degree of confirmation, a relation between evidence and hypothesis whose statements are analytic, measured as partial entailment between ranges of state-descriptions relative to a language; that what holds for every admissible measure leaves every non-trivial value open, so one must be chosen by adequacy, provisionally; and that relevance under any such measure is symmetric but not transitive, with evidence positive singly able to be negative together'
+title: 'Logical probability is analytic confirmation'
+statement: >-
+  Carnap (1950) holds that logical probability is degree of confirmation, a
+  relation between evidence and hypothesis whose statements are analytic,
+  measured as partial entailment between ranges of state-descriptions
+  relative to a language; that what holds for every admissible measure
+  leaves every non-trivial value open, so one must be chosen by adequacy,
+  provisionally; and that relevance under any such measure is symmetric but
+  not transitive, with evidence positive singly able to be negative together
 version: 1
 source:
 - LIT-2818
@@ -30,7 +38,7 @@ summary: >-
   Proposed until its promote_when is met.
 ---
 
-# THEORY-2004: Carnap (1950) holds that logical probability is degree of confirmation, a relation between evidence and hypothesis whose statements are analytic, measured as partial entailment between ranges of state-descriptions relative to a language; that what holds for every admissible measure leaves every non-trivial value open, so one must be chosen by adequacy, provisionally; and that relevance under any such measure is symmetric but not transitive, with evidence positive singly able to be negative together
+# THEORY-2004: Logical probability is analytic confirmation
 
 ## The account
 

@@ -3,7 +3,17 @@ number: 1133
 status: Active
 formerly:
 - THEORY-tmpa43ta
-title: 'The Gromov–Wasserstein objective between two spaces depends on each only through its within-space similarity matrix and weights, so every transformation of a space that preserves them, a single orthogonal map or per-vector rescaling under cosine similarity, leaves every coupling''s cost unchanged, and any coupling composed with a symmetry of either structure costs exactly what it did; GW can therefore identify a correspondence only up to the automorphisms of the two similarity structures, and on symmetric data it cannot choose between branches or categories that the symmetry exchanges'
+title: 'GW identifies matches only up to automorphisms'
+statement: >-
+  The Gromov–Wasserstein objective between two spaces depends on each only
+  through its within-space similarity matrix and weights, so every
+  transformation of a space that preserves them, a single orthogonal map or
+  per-vector rescaling under cosine similarity, leaves every coupling's cost
+  unchanged, and any coupling composed with a symmetry of either structure
+  costs exactly what it did; GW can therefore identify a correspondence only
+  up to the automorphisms of the two similarity structures, and on symmetric
+  data it cannot choose between branches or categories that the symmetry
+  exchanges
 version: 1
 tags:
 - mathematics
@@ -23,7 +33,7 @@ summary: >-
   are rare in noisy data; near-symmetries give near-ties instead.
 ---
 
-# THEORY-1133: The Gromov–Wasserstein objective between two spaces depends on each only through its within-space similarity matrix and weights, so every transformation of a space that preserves them, a single orthogonal map or per-vector rescaling under cosine similarity, leaves every coupling's cost unchanged, and any coupling composed with a symmetry of either structure costs exactly what it did; GW can therefore identify a correspondence only up to the automorphisms of the two similarity structures, and on symmetric data it cannot choose between branches or categories that the symmetry exchanges
+# THEORY-1133: GW identifies matches only up to automorphisms
 
 ## Source
 

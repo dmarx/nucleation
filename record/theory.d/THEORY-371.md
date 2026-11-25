@@ -3,7 +3,13 @@ number: 371
 status: Active
 formerly:
 - THEORY-tmpe404c
-title: "For conjunctive queries without equality or comparisons, two queries are equivalent exactly when homomorphisms run both ways between the queries read as small databases, every such query has a minimal equivalent query unique up to isomorphism obtained by deleting atoms, and evaluating one against a database is NP-complete when the query is part of the input"
+title: 'CQ equivalence is homomorphism both ways'
+statement: >-
+  For conjunctive queries without equality or comparisons, two queries are
+  equivalent exactly when homomorphisms run both ways between the queries
+  read as small databases, every such query has a minimal equivalent query
+  unique up to isomorphism obtained by deleting atoms, and evaluating one
+  against a database is NP-complete when the query is part of the input
 version: 1
 tags:
 - databases
@@ -24,7 +30,7 @@ summary: >-
   with equality, comparisons, negation or union.
 ---
 
-# THEORY-371: For conjunctive queries without equality or comparisons, two queries are equivalent exactly when homomorphisms run both ways between the queries read as small databases, every such query has a minimal equivalent query unique up to isomorphism obtained by deleting atoms, and evaluating one against a database is NP-complete when the query is part of the input
+# THEORY-371: CQ equivalence is homomorphism both ways
 
 ## Source
 

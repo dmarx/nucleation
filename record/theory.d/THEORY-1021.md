@@ -16,7 +16,16 @@ promote_when: >-
   as well as head-level ones, or if the main disagreements lie elsewhere.
   More single-task demonstrations in GPT-2 Small cannot settle it, nor can
   comparisons that test only fine-grained nodes.
-title: 'In transformer language models, attribution patching agrees well with activation patching for small patches of single heads and their queries, keys, values and attention patterns, for nodes late in a circuit relative to the metric, and for circuits that route information through attention, and agrees badly for large patches such as whole residual streams, for the first MLP layer and the early layers of deep circuits, where nonlinearities move out of saturation, and where an effect needs several features at once, as Nanda proposes'
+title: 'Attribution patching fails on large, early patches'
+statement: >-
+  In transformer language models, attribution patching agrees well with
+  activation patching for small patches of single heads and their queries,
+  keys, values and attention patterns, for nodes late in a circuit relative
+  to the metric, and for circuits that route information through attention,
+  and agrees badly for large patches such as whole residual streams, for the
+  first MLP layer and the early layers of deep circuits, where
+  nonlinearities move out of saturation, and where an effect needs several
+  features at once, as Nanda proposes
 version: 1
 history:
 - version: 1
@@ -43,7 +52,7 @@ summary: >-
   ([THEORY-996](THEORY-996.md)), which found misses behind saturated attention, as this
   predicts, and tested no residual-stream nodes.
 ---
-# THEORY-1021: In transformer language models, attribution patching agrees well with activation patching for small patches of single heads and their queries, keys, values and attention patterns, for nodes late in a circuit relative to the metric, and for circuits that route information through attention, and agrees badly for large patches such as whole residual streams, for the first MLP layer and the early layers of deep circuits, where nonlinearities move out of saturation, and where an effect needs several features at once, as Nanda proposes
+# THEORY-1021: Attribution patching fails on large, early patches
 
 ## Source
 

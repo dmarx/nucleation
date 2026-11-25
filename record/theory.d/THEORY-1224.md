@@ -3,7 +3,15 @@ number: 1224
 status: Proposed
 formerly:
 - THEORY-tmpw9z0q
-title: In Claude language models, projecting out the most active J-space directions in early workspace layers lowers the rate of felt, first-person, sensory language in the models' narrations of their own processing and in their descriptions of another person's experience, while norm-matched perturbations along other directions do not and the text stays coherent; so in these models the experiential register of report depends on the access-like workspace and is not specific to self-report
+title: 'Ablating J-space mutes experiential register'
+statement: >-
+  In Claude language models, projecting out the most active J-space
+  directions in early workspace layers lowers the rate of felt,
+  first-person, sensory language in the models' narrations of their own
+  processing and in their descriptions of another person's experience, while
+  norm-matched perturbations along other directions do not and the text
+  stays coherent; so in these models the experiential register of report
+  depends on the access-like workspace and is not specific to self-report
 version: 1
 tags:
 - consciousness
@@ -39,7 +47,7 @@ summary: >-
   company's models, with no register control and no blind human rating.
 ---
 
-# THEORY-1224: In Claude language models, projecting out the most active J-space directions in early workspace layers lowers the rate of felt, first-person, sensory language in the models' narrations of their own processing and in their descriptions of another person's experience, while norm-matched perturbations along other directions do not and the text stays coherent; so in these models the experiential register of report depends on the access-like workspace and is not specific to self-report
+# THEORY-1224: Ablating J-space mutes experiential register
 
 ## Source
 

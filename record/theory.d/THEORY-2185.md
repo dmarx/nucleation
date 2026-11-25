@@ -3,7 +3,15 @@ number: 2185
 status: Proposed
 formerly:
 - THEORY-tmp8sxta
-title: 'Yang, Steinhardt and Hu find that ResNet-18 trained on CIFAR-10 with labels merged into five two-class super-classes meets neural collapse on the coarse labels yet keeps the original classes as sub-clusters, recoverable without labels well enough that a linear probe on the recovered labels reaches over 93 per cent on the ten-class test set, and that the sub-clusters form before the label-driven merging, persist to 1,000 epochs and are absent in VGG'
+title: 'Neural collapse hides fine-class sub-clusters'
+statement: >-
+  Yang, Steinhardt and Hu find that ResNet-18 trained on CIFAR-10 with
+  labels merged into five two-class super-classes meets neural collapse on
+  the coarse labels yet keeps the original classes as sub-clusters,
+  recoverable without labels well enough that a linear probe on the
+  recovered labels reaches over 93 per cent on the ten-class test set, and
+  that the sub-clusters form before the label-driven merging, persist to
+  1,000 epochs and are absent in VGG
 promote_when: >-
   An independent replication with several seeds, on CIFAR-10 coarsened to
   five super-classes and a ResNet trained to zero training error, reports
@@ -29,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-800 ARG-186 THEORY-788 — Proposed or new; the claim this reading grounds, the argument for it and the reading it qualifies -->
 
-# THEORY-2185: Yang, Steinhardt and Hu find that ResNet-18 trained on CIFAR-10 with labels merged into five two-class super-classes meets neural collapse on the coarse labels yet keeps the original classes as sub-clusters, recoverable without labels well enough that a linear probe on the recovered labels reaches over 93 per cent on the ten-class test set, and that the sub-clusters form before the label-driven merging, persist to 1,000 epochs and are absent in VGG
+# THEORY-2185: Neural collapse hides fine-class sub-clusters
 
 ## Source
 

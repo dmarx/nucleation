@@ -3,7 +3,17 @@ number: 1672
 status: Proposed
 formerly:
 - THEORY-tmpb7699
-title: 'Zhu and colleagues find, evaluating multi-turn agentic RL by Pass@(K, T) on four interactive benchmarks, that RL lifts success above the base model''s empirical Pass@K boundary only when the interaction budget is ample, the advantage shrinking or reversing under tight budgets; at matched states the RL policy does not choose better single steps but recovers better from errors and composes locally plausible steps into successful long trajectories far more reliably; and training with randomized, announced budgets (BudgetMix) recovers performance at tight budgets'
+title: 'Agentic RL helps only with ample turn budgets'
+statement: >-
+  Zhu and colleagues find, evaluating multi-turn agentic RL by Pass@(K, T)
+  on four interactive benchmarks, that RL lifts success above the base
+  model's empirical Pass@K boundary only when the interaction budget is
+  ample, the advantage shrinking or reversing under tight budgets; at
+  matched states the RL policy does not choose better single steps but
+  recovers better from errors and composes locally plausible steps into
+  successful long trajectories far more reliably; and training with
+  randomized, announced budgets (BudgetMix) recovers performance at tight
+  budgets
 version: 1
 source:
 - LIT-2414
@@ -32,7 +42,7 @@ summary: >-
   single-turn results).
 ---
 
-# THEORY-1672: Zhu and colleagues find, evaluating multi-turn agentic RL by Pass@(K, T) on four interactive benchmarks, that RL lifts success above the base model's empirical Pass@K boundary only when the interaction budget is ample, the advantage shrinking or reversing under tight budgets; at matched states the RL policy does not choose better single steps but recovers better from errors and composes locally plausible steps into successful long trajectories far more reliably; and training with randomized, announced budgets (BudgetMix) recovers performance at tight budgets
+# THEORY-1672: Agentic RL helps only with ample turn budgets
 
 ## The account
 

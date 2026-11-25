@@ -3,7 +3,14 @@ number: 1721
 status: Proposed
 formerly:
 - THEORY-tmpzgklq
-title: 'Muñoz and colleagues (2020) report that researchers running adaptive deep brain stimulation trials most often raise data privacy, safety and consent, and that over half raise patient autonomy and control because stimulation changes automatically and may go unnoticed, while some hold that a patient override or clinician-managed settings largely meet the concern.'
+title: 'Adaptive DBS raises autonomy concerns'
+statement: >-
+  Muñoz and colleagues (2020) report that researchers running adaptive deep
+  brain stimulation trials most often raise data privacy, safety and
+  consent, and that over half raise patient autonomy and control because
+  stimulation changes automatically and may go unnoticed, while some hold
+  that a patient override or clinician-managed settings largely meet the
+  concern.
 version: 1
 source:
 - LIT-2419
@@ -26,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1755 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1721: Muñoz and colleagues (2020) report that researchers running adaptive deep brain stimulation trials most often raise data privacy, safety and consent, and that over half raise patient autonomy and control because stimulation changes automatically and may go unnoticed, while some hold that a patient override or clinician-managed settings largely meet the concern.
+# THEORY-1721: Adaptive DBS raises autonomy concerns
 
 ## The account
 

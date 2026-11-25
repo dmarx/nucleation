@@ -7,7 +7,12 @@ promote_when: >-
   An independent preregistered study finds that preschool
   delay-of-gratification performance does not reliably predict adult
   achievement, health or behavior once early background is controlled.
-title: 'In a preregistered analysis of a non-elite US cohort, preschool marshmallow-test performance does not reliably predict age-26 achievement, health or behavior, its few bivariate associations being largely explained by demographics and the early home environment'
+title: 'Marshmallow test doesn''t predict age-26 outcomes'
+statement: >-
+  In a preregistered analysis of a non-elite US cohort, preschool
+  marshmallow-test performance does not reliably predict age-26 achievement,
+  health or behavior, its few bivariate associations being largely explained
+  by demographics and the early home environment
 version: 1
 tags:
 - cognition
@@ -23,7 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-281 — Proposed; cited with their standing, entries this reading bears on or files -->
 
-# THEORY-1989: In a preregistered analysis of a non-elite US cohort, preschool marshmallow-test performance does not reliably predict age-26 achievement, health or behavior, its few bivariate associations being largely explained by demographics and the early home environment
+# THEORY-1989: Marshmallow test doesn't predict age-26 outcomes
 
 Sperber, Vandell, Duncan & Watts (2024), [LIT-2723](../literature.d/LIT-2723.md).
 

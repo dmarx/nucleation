@@ -16,7 +16,13 @@ promote_when: >-
   rotated quadratic that learns all directions together. Further fits of
   the Resource ODE cannot settle it, since that model was fitted to the
   behaviour it would be confirming.
-title: 'In neural-network training, sign-descent-like optimizers such as Adam make independent skills of unequal frequency compete for coordinate signs, so that they are learned one after another where gradient descent would learn them together; this is one source of sequential skill onset, beside dependence between skills, as Liu, Liu, Michaud, Gore and Tegmark propose'
+title: 'Adam makes skills compete and emerge in sequence'
+statement: >-
+  In neural-network training, sign-descent-like optimizers such as Adam make
+  independent skills of unequal frequency compete for coordinate signs, so
+  that they are learned one after another where gradient descent would learn
+  them together; this is one source of sequential skill onset, beside
+  dependence between skills, as Liu, Liu, Michaud, Gore and Tegmark propose
 version: 2
 history:
 - version: 2
@@ -46,7 +52,7 @@ answers:
 - QUESTION-193
 ---
 
-# THEORY-783: In neural-network training, sign-descent-like optimizers such as Adam make independent skills of unequal frequency compete for coordinate signs, so that they are learned one after another where gradient descent would learn them together; this is one source of sequential skill onset, beside dependence between skills, as Liu, Liu, Michaud, Gore and Tegmark propose
+# THEORY-783: Adam makes skills compete and emerge in sequence
 
 ## Source
 

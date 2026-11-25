@@ -15,7 +15,11 @@ promote_when: >-
   a report bias that leaves no trace in implicit or neural measures. More
   reviews cannot settle it, and neither can explicit judgements alone,
   which the source shows are biased.
-title: "The sense of agency over an action's outcome draws on prospective signals from action selection and outcome prediction, not only on retrospective comparison of outcome with prediction"
+title: 'Agency draws on prospective signals too'
+statement: >-
+  The sense of agency over an action's outcome draws on prospective signals
+  from action selection and outcome prediction, not only on retrospective
+  comparison of outcome with prediction
 version: 1
 tags:
 - agency
@@ -36,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-300 — Proposed; filed from the same reading, named -->
 
-# THEORY-322: The sense of agency over an action's outcome draws on prospective signals from action selection and outcome prediction, not only on retrospective comparison of outcome with prediction
+# THEORY-322: Agency draws on prospective signals too
 
 ## Source
 

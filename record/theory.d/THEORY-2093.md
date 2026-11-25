@@ -3,7 +3,14 @@ number: 2093
 status: Proposed
 formerly:
 - THEORY-tmpw5877
-title: 'Maennel and colleagues find that convolutional networks pretrained on images with random labels, rescaled and given a fresh head, usually learn a new labelling of fresh images faster than from scratch, a gain reproduced by first-layer filters sampled from the learned weight covariance, which aligns with the data covariance, while in other settings the same pretraining slows later learning as later-layer units go inactive'
+title: 'Random-label pretraining can speed learning'
+statement: >-
+  Maennel and colleagues find that convolutional networks pretrained on
+  images with random labels, rescaled and given a fresh head, usually learn
+  a new labelling of fresh images faster than from scratch, a gain
+  reproduced by first-layer filters sampled from the learned weight
+  covariance, which aligns with the data covariance, while in other settings
+  the same pretraining slows later learning as later-layer units go inactive
 version: 1
 source:
 - LIT-2878
@@ -27,7 +34,7 @@ summary: >-
   reverse. Proposed until its promote_when is met.
 ---
 
-# THEORY-2093: Maennel and colleagues find that convolutional networks pretrained on images with random labels, rescaled and given a fresh head, usually learn a new labelling of fresh images faster than from scratch, a gain reproduced by first-layer filters sampled from the learned weight covariance, which aligns with the data covariance, while in other settings the same pretraining slows later learning as later-layer units go inactive
+# THEORY-2093: Random-label pretraining can speed learning
 
 ## The account
 

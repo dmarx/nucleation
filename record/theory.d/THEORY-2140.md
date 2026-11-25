@@ -10,7 +10,15 @@ promote_when: >-
   residual updates have negative cosine with the loss gradient at most
   layers, and that hidden-state covariance similarity decreases with layer
   separation.
-title: 'Belrose and colleagues show that in pre-LayerNorm transformer language models each layer''s hidden state can be decoded by an affine translator into a next-token distribution whose perplexity falls smoothly with depth, that residual updates align with the negative loss gradient at every layer, as iterative inference predicts, and that decoding needs a separate translator per layer because hidden-state covariance drifts apart with layer separation'
+title: 'Tuned lens decodes every layer''s prediction'
+statement: >-
+  Belrose and colleagues show that in pre-LayerNorm transformer language
+  models each layer's hidden state can be decoded by an affine translator
+  into a next-token distribution whose perplexity falls smoothly with depth,
+  that residual updates align with the negative loss gradient at every
+  layer, as iterative inference predicts, and that decoding needs a separate
+  translator per layer because hidden-state covariance drifts apart with
+  layer separation
 version: 1
 tags:
 - representation-learning
@@ -30,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-104 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-767 CLAIM-771 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
-# THEORY-2140: Belrose and colleagues show that in pre-LayerNorm transformer language models each layer's hidden state can be decoded by an affine translator into a next-token distribution whose perplexity falls smoothly with depth, that residual updates align with the negative loss gradient at every layer, as iterative inference predicts, and that decoding needs a separate translator per layer because hidden-state covariance drifts apart with layer separation
+# THEORY-2140: Tuned lens decodes every layer's prediction
 
 ## Source
 

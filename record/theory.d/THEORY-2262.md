@@ -12,7 +12,15 @@ promote_when: >-
   with the unique strongest solution it relies on; together with a run of
   DSOLVE or a later liquid-type checker that infers, from the qualifiers
   given, the types the paper's Section 2 reports for max, sum and foldn.
-title: 'Rondon, Kawaguchi and Jhala''s liquid types are dependent types {ν : B | φ} whose predicates, wherever a type must be inferred, are conjunctions of qualifiers from a finite set the programmer supplies; inference refines Hindley-Milner types by weakening an assignment of every qualifier to the strongest conjunction that a conservative check in a decidable logic verifies, which keeps checking and inference decidable; the program is never changed, and one with no such type is reported, not repaired'
+title: 'Liquid types make inference decidable'
+statement: >-
+  Rondon, Kawaguchi and Jhala's liquid types are dependent types {ν : B | φ}
+  whose predicates, wherever a type must be inferred, are conjunctions of
+  qualifiers from a finite set the programmer supplies; inference refines
+  Hindley-Milner types by weakening an assignment of every qualifier to the
+  strongest conjunction that a conservative check in a decidable logic
+  verifies, which keeps checking and inference decidable; the program is
+  never changed, and one with no such type is reported, not repaired
 version: 1
 tags:
 - logic
@@ -36,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-949 ARG-214 ARG-213 CLAIM-975 THEORY-2259 CLAIM-965 — Proposed or Rejected; the claim this corroborates, the arguments and claim filed from this reading, and the entries it is read against -->
 
-# THEORY-2262: Rondon, Kawaguchi and Jhala's liquid types are dependent types {ν : B | φ} whose predicates, wherever a type must be inferred, are conjunctions of qualifiers from a finite set the programmer supplies; inference refines Hindley-Milner types by weakening an assignment of every qualifier to the strongest conjunction that a conservative check in a decidable logic verifies, which keeps checking and inference decidable; the program is never changed, and one with no such type is reported, not repaired
+# THEORY-2262: Liquid types make inference decidable
 
 ## Source
 

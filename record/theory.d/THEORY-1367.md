@@ -8,7 +8,13 @@ promote_when: >-
   grid and the camera-guided sphere trials) report successful grasps under
   positioning errors of the stated size with one actuator and feed-forward
   control, as titled.
-title: 'Dollar and Howe report that a four-fingered hand with compliant polymer joints and an adaptive tendon transmission, driven by one actuator under open-loop control, grasped household and test objects despite positioning errors comparable to the object''s size, so that passive mechanics did work usually assigned to sensing and control'
+title: 'Compliant underactuated hand grasps open-loop'
+statement: >-
+  Dollar and Howe report that a four-fingered hand with compliant polymer
+  joints and an adaptive tendon transmission, driven by one actuator under
+  open-loop control, grasped household and test objects despite positioning
+  errors comparable to the object's size, so that passive mechanics did work
+  usually assigned to sensing and control
 version: 1
 tags:
 - control-theory
@@ -24,7 +30,7 @@ summary: >-
   or has goals, or that one actuator suffices for dexterous manipulation.
 ---
 
-# THEORY-1367: Dollar and Howe report that a four-fingered hand with compliant polymer joints and an adaptive tendon transmission, driven by one actuator under open-loop control, grasped household and test objects despite positioning errors comparable to the object's size, so that passive mechanics did work usually assigned to sensing and control
+# THEORY-1367: Compliant underactuated hand grasps open-loop
 
 ## Source
 

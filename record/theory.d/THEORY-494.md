@@ -14,7 +14,12 @@ promote_when: >-
   condemnation of indulgence stays the same when the indulger is shown to be
   self-controlled and cooperative. More vignette mediation cannot settle it,
   since it measures perceptions of a hypothetical target.
-title: "Puritanical norms against harmless bodily pleasures are cooperative morality: people believe cooperation needs self-control, which indulgence erodes and discipline trains, and condemn indulgence as an indirect threat to cooperation"
+title: 'Puritanism is cooperative morality'
+statement: >-
+  Puritanical norms against harmless bodily pleasures are cooperative
+  morality: people believe cooperation needs self-control, which indulgence
+  erodes and discipline trains, and condemn indulgence as an indirect threat
+  to cooperation
 version: 1
 tags:
 - moral-psychology
@@ -35,7 +40,7 @@ summary: >-
   that people hold the belief, not that the belief made the norms.
 ---
 
-# THEORY-494: Puritanical norms against harmless bodily pleasures are cooperative morality: people believe cooperation needs self-control, which indulgence erodes and discipline trains, and condemn indulgence as an indirect threat to cooperation
+# THEORY-494: Puritanism is cooperative morality
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 1442
 status: Active
 formerly:
 - THEORY-tmp7qfc2
-title: 'Lee Tin Wah and colleagues show, from AFM snapshots of Rothemund''s tall rectangle adsorbed out of solution along a slow cooling ramp, that with 52 nM of each staple folding nucleates at the top and bottom ends between about 65 and 55 °C and grows toward the centre, and that raising the central staples to 670 nM while lowering the outermost edge-row staples to 1.2 nM makes folding nucleate at the centre instead, which they attribute to the concentration dependence of staple melting temperatures under thermodynamic rather than kinetic control'
+title: 'Staple concentration moves nucleation site'
+statement: >-
+  Lee Tin Wah and colleagues show, from AFM snapshots of Rothemund's tall
+  rectangle adsorbed out of solution along a slow cooling ramp, that with 52
+  nM of each staple folding nucleates at the top and bottom ends between
+  about 65 and 55 °C and grows toward the centre, and that raising the
+  central staples to 670 nM while lowering the outermost edge-row staples to
+  1.2 nM makes folding nucleate at the centre instead, which they attribute
+  to the concentration dependence of staple melting temperatures under
+  thermodynamic rather than kinetic control
 version: 2
 history:
 - version: 2
@@ -40,7 +49,7 @@ summary: >-
   reallocated, or that the mechanism is established.
 ---
 
-# THEORY-1442: Lee Tin Wah and colleagues show, from AFM snapshots of Rothemund's tall rectangle adsorbed out of solution along a slow cooling ramp, that with 52 nM of each staple folding nucleates at the top and bottom ends between about 65 and 55 °C and grows toward the centre, and that raising the central staples to 670 nM while lowering the outermost edge-row staples to 1.2 nM makes folding nucleate at the centre instead, which they attribute to the concentration dependence of staple melting temperatures under thermodynamic rather than kinetic control
+# THEORY-1442: Staple concentration moves nucleation site
 
 ## Source
 

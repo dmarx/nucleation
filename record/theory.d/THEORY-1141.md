@@ -3,7 +3,16 @@ number: 1141
 status: Active
 formerly:
 - THEORY-tmpfzykx
-title: 'In the time limit, sheaf diffusion on a graph projects node features onto the harmonic space of its sheaf Laplacian, and which labellings that space can linearly separate depends on the class of restriction maps: a weighted graph Laplacian cannot separate the sides of a balanced bipartite graph, signed one-dimensional maps separate any two classes and no one-dimensional sheaf separates three, while diagonal maps with d ≥ C and orthogonal bundles with C ≤ 2d (d = 2, 4 and, against the paper, 8) separate any labelling; every separating sheaf is built from the labels'
+title: 'Sheaf class sets which labellings diffusion splits'
+statement: >-
+  In the time limit, sheaf diffusion on a graph projects node features onto
+  the harmonic space of its sheaf Laplacian, and which labellings that space
+  can linearly separate depends on the class of restriction maps: a weighted
+  graph Laplacian cannot separate the sides of a balanced bipartite graph,
+  signed one-dimensional maps separate any two classes and no
+  one-dimensional sheaf separates three, while diagonal maps with d ≥ C and
+  orthogonal bundles with C ≤ 2d (d = 2, 4 and, against the paper, 8)
+  separate any labelling; every separating sheaf is built from the labels
 version: 2
 history:
 - version: 2
@@ -35,7 +44,7 @@ corroborates:
 - CLAIM-538
 ---
 
-# THEORY-1141: In the time limit, sheaf diffusion on a graph projects node features onto the harmonic space of its sheaf Laplacian, and which labellings that space can linearly separate depends on the class of restriction maps: a weighted graph Laplacian cannot separate the sides of a balanced bipartite graph, signed one-dimensional maps separate any two classes and no one-dimensional sheaf separates three, while diagonal maps with d ≥ C and orthogonal bundles with C ≤ 2d (d = 2, 4 and, against the paper, 8) separate any labelling; every separating sheaf is built from the labels
+# THEORY-1141: Sheaf class sets which labellings diffusion splits
 
 ## Source
 

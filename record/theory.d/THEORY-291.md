@@ -14,7 +14,11 @@ promote_when: >-
   choice, or that the overlap with the named networks disappears under a
   different parcellation. Further reviews by the same group cannot settle
   it.
-title: "The brain's visceromotor and interoceptive regions form one intrinsic system that reproduces their tract-traced anatomy and contains the hubs of the default-mode and salience networks"
+title: 'Visceromotor regions form one intrinsic system'
+statement: >-
+  The brain's visceromotor and interoceptive regions form one intrinsic
+  system that reproduces their tract-traced anatomy and contains the hubs of
+  the default-mode and salience networks
 version: 1
 tags:
 - neuroscience
@@ -34,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-045 THEORY-057 THEORY-090 THEORY-093 — Proposed; the accounts this anatomy bears on, open -->
 
-# THEORY-291: The brain's visceromotor and interoceptive regions form one intrinsic system that reproduces their tract-traced anatomy and contains the hubs of the default-mode and salience networks
+# THEORY-291: Visceromotor regions form one intrinsic system
 
 ## Source
 

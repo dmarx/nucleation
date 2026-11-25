@@ -3,7 +3,16 @@ number: 1825
 status: Active
 formerly:
 - THEORY-tmplznge
-title: 'On Sun and colleagues, a cellular automaton in which shrubs deplete resources weakly over a wide radius and grasses strongly over a narrow one gives, as resource supply rises, patterned shrubland, then an interval where either type excludes the other depending on the initial configuration, then patterned grassland; the authors read this as a first-order phase transition and match it to the shrub-to-grass shift they observe within 180 to 250 mm of annual rainfall at the desert margin of northern China'
+title: 'Shrub–grass shift is a first-order transition'
+statement: >-
+  On Sun and colleagues, a cellular automaton in which shrubs deplete
+  resources weakly over a wide radius and grasses strongly over a narrow one
+  gives, as resource supply rises, patterned shrubland, then an interval
+  where either type excludes the other depending on the initial
+  configuration, then patterned grassland; the authors read this as a
+  first-order phase transition and match it to the shrub-to-grass shift they
+  observe within 180 to 250 mm of annual rainfall at the desert margin of
+  northern China
 version: 2
 history:
 - version: 2
@@ -52,7 +61,7 @@ summary: >-
   desert-edge results come from scenarios set by hand.
 ---
 
-# THEORY-1825: On Sun and colleagues, a cellular automaton in which shrubs deplete resources weakly over a wide radius and grasses strongly over a narrow one gives, as resource supply rises, patterned shrubland, then an interval where either type excludes the other depending on the initial configuration, then patterned grassland; the authors read this as a first-order phase transition and match it to the shrub-to-grass shift they observe within 180 to 250 mm of annual rainfall at the desert margin of northern China
+# THEORY-1825: Shrub–grass shift is a first-order transition
 
 ## Source
 

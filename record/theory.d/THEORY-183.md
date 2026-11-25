@@ -14,7 +14,12 @@ promote_when: >-
   degrades in step with the broken symmetry. Further PCA pictures of
   unedited models, and further fits of the kernel to unedited corpora,
   cannot settle it, because they are what the account was built to match.
-title: 'When the co-occurrence of words on a latent continuum depends only on their separation, a spectral word embedding places them on the Fourier modes of that continuum, so the circles and rippled curves of months, years and places come from a symmetry of the corpus statistics'
+title: 'Translation symmetry puts words on Fourier modes'
+statement: >-
+  When the co-occurrence of words on a latent continuum depends only on
+  their separation, a spectral word embedding places them on the Fourier
+  modes of that continuum, so the circles and rippled curves of months,
+  years and places come from a symmetry of the corpus statistics
 version: 2
 history:
 - version: 2
@@ -53,7 +58,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-182 THEORY-022 — Proposed; cited as the premise and the accounts this one bears on -->
 
-# THEORY-183: When the co-occurrence of words on a latent continuum depends only on their separation, a spectral word embedding places them on the Fourier modes of that continuum, so the circles and rippled curves of months, years and places come from a symmetry of the corpus statistics
+# THEORY-183: Translation symmetry puts words on Fourier modes
 
 ## Source
 

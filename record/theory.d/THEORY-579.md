@@ -16,7 +16,13 @@ promote_when: >-
   outside or admits every reliably used tool. More imagined parity cases
   cannot settle it, since their force is the parity premise's, and neither
   can evidence that people rely on external stores, which no side disputes.
-title: "If belief is individuated by functional role, an external store that is constantly consulted, directly available and automatically endorsed can carry a standing belief, so the material vehicles of some mental states extend beyond the skin; the step from coupling to parthood rests on that premise and a parity principle the authors state rather than argue"
+title: 'Constantly used external stores can hold beliefs'
+statement: >-
+  If belief is individuated by functional role, an external store that is
+  constantly consulted, directly available and automatically endorsed can
+  carry a standing belief, so the material vehicles of some mental states
+  extend beyond the skin; the step from coupling to parthood rests on that
+  premise and a parity principle the authors state rather than argue
 version: 2
 history:
 - version: 2
@@ -57,7 +63,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-157 THEORY-343 THEORY-646 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
-# THEORY-579: If belief is individuated by functional role, an external store that is constantly consulted, directly available and automatically endorsed can carry a standing belief, so the material vehicles of some mental states extend beyond the skin; the step from coupling to parthood rests on that premise and a parity principle the authors state rather than argue
+# THEORY-579: Constantly used external stores can hold beliefs
 
 ## Source
 

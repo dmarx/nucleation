@@ -3,7 +3,16 @@ number: 456
 status: Active
 formerly:
 - THEORY-tmp6xq6t
-title: "Iterating Ollivier–Ricci flow on edge weights lengthens edges between communities relative to edges within them, so a weight threshold can separate the communities; but the separation is proved only on symmetric clique graphs under the uniform neighbour measure, and there only by a constant factor for gateway edges, and on a two-block stochastic block model the method fails at an inter/intra ratio near 0.55, where other methods still recover the blocks and well short of the detectability threshold near 0.78"
+title: 'Ricci flow separates communities, but weakly'
+statement: >-
+  Iterating Ollivier–Ricci flow on edge weights lengthens edges between
+  communities relative to edges within them, so a weight threshold can
+  separate the communities; but the separation is proved only on symmetric
+  clique graphs under the uniform neighbour measure, and there only by a
+  constant factor for gateway edges, and on a two-block stochastic block
+  model the method fails at an inter/intra ratio near 0.55, where other
+  methods still recover the blocks and well short of the detectability
+  threshold near 0.78
 version: 1
 tags:
 - network-science
@@ -23,7 +32,7 @@ summary: >-
   covers. The Kesten–Stigum figure is [NOTE-006](../notes.d/NOTE-006.md)'s calculation.
 ---
 
-# THEORY-456: Iterating Ollivier–Ricci flow on edge weights lengthens edges between communities relative to edges within them, so a weight threshold can separate the communities; but the separation is proved only on symmetric clique graphs under the uniform neighbour measure, and there only by a constant factor for gateway edges, and on a two-block stochastic block model the method fails at an inter/intra ratio near 0.55, where other methods still recover the blocks and well short of the detectability threshold near 0.78
+# THEORY-456: Ricci flow separates communities, but weakly
 
 ## Source
 

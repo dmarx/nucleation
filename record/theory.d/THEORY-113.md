@@ -3,7 +3,15 @@ number: 113
 status: Active
 formerly:
 - THEORY-tmpm7dzo
-title: 'Merging ResNets trained from different initialisations on disjoint halves of a label set by permuting one onto the other and averaging fell far short of the ensemble; their cross-model feature correlation fell with depth, merging only the early layers recovered most of the ensemble''s accuracy, and merging features within each model as well as across both helped at 4× width and above; Stoica et al. attribute the failure to features with no counterpart in the other model'
+title: 'Merging disjoint-task ResNets trails the ensemble'
+statement: >-
+  Merging ResNets trained from different initialisations on disjoint halves
+  of a label set by permuting one onto the other and averaging fell far
+  short of the ensemble; their cross-model feature correlation fell with
+  depth, merging only the early layers recovered most of the ensemble's
+  accuracy, and merging features within each model as well as across both
+  helped at 4× width and above; Stoica et al. attribute the failure to
+  features with no counterpart in the other model
 version: 2
 history:
 - version: 2
@@ -42,7 +50,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-116 THEORY-107 — Proposed; accounts named in Connections, nothing here rests on them -->
 
-# THEORY-113: Merging ResNets trained from different initialisations on disjoint halves of a label set by permuting one onto the other and averaging fell far short of the ensemble; their cross-model feature correlation fell with depth, merging only the early layers recovered most of the ensemble's accuracy, and merging features within each model as well as across both helped at 4× width and above; Stoica et al. attribute the failure to features with no counterpart in the other model
+# THEORY-113: Merging disjoint-task ResNets trails the ensemble
 
 ## Source
 

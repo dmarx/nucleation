@@ -16,7 +16,13 @@ promote_when: >-
   not separate on these two axes. The trend is refuted if the supporter
   share is stable. Illustrations and further conceptual argument cannot
   settle either.
-title: "Spectators' identification with football clubs varies on two independent axes, how central the club is to the self (hot or cool) and whether the tie rests on local tradition or on market consumption, giving supporters, followers, fans and flâneurs; and commodification since the late 1980s has shifted identification from supporters towards flâneurs"
+title: 'Commodification shifts fans to flâneurs'
+statement: >-
+  Spectators' identification with football clubs varies on two independent
+  axes, how central the club is to the self (hot or cool) and whether the
+  tie rests on local tradition or on market consumption, giving supporters,
+  followers, fans and flâneurs; and commodification since the late 1980s has
+  shifted identification from supporters towards flâneurs
 version: 1
 tags:
 - social-science
@@ -37,7 +43,7 @@ summary: >-
   measured.
 ---
 
-# THEORY-1111: Spectators' identification with football clubs varies on two independent axes, how central the club is to the self (hot or cool) and whether the tie rests on local tradition or on market consumption, giving supporters, followers, fans and flâneurs; and commodification since the late 1980s has shifted identification from supporters towards flâneurs
+# THEORY-1111: Commodification shifts fans to flâneurs
 
 ## Source
 

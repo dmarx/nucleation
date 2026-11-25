@@ -3,7 +3,13 @@ number: 1188
 status: Proposed
 formerly:
 - THEORY-tmpsjqto
-title: 'Once the architecture''s symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width'
+title: 'Full symmetry alignment removes most LMC barrier'
+statement: >-
+  Once the architecture's symmetries are factored out, most of the linear
+  barrier between independently trained solutions disappears; the group that
+  matters is the full one, permutations for MLPs and CNNs but for
+  transformers also an orthogonal map on the residual stream, without which
+  a barrier remains; and the barrier left after alignment falls with width
 version: 1
 tags:
 - loss-landscapes
@@ -45,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-1 rule this entry is filed under -->
 
-# THEORY-1188: Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width
+# THEORY-1188: Full symmetry alignment removes most LMC barrier
 
 ## Source
 

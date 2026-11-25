@@ -3,7 +3,13 @@ number: 2068
 status: Proposed
 formerly:
 - THEORY-tmpfvaag
-title: 'Blakeney and colleagues find that a 7B language model trained for one trillion tokens scores higher on knowledge, math and code benchmarks when the last fifth or so of training replaces large-scale web text with domain-specific and code data, at the same total tokens, with general benchmarks best at an intermediate duration and math and code still rising'
+title: 'Domain data at the end lifts knowledge and math'
+statement: >-
+  Blakeney and colleagues find that a 7B language model trained for one
+  trillion tokens scores higher on knowledge, math and code benchmarks when
+  the last fifth or so of training replaces large-scale web text with
+  domain-specific and code data, at the same total tokens, with general
+  benchmarks best at an intermediate duration and math and code still rising
 version: 1
 source:
 - LIT-2866
@@ -23,7 +29,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2068: Blakeney and colleagues find that a 7B language model trained for one trillion tokens scores higher on knowledge, math and code benchmarks when the last fifth or so of training replaces large-scale web text with domain-specific and code data, at the same total tokens, with general benchmarks best at an intermediate duration and math and code still rising
+# THEORY-2068: Domain data at the end lifts knowledge and math
 
 ## The account
 

@@ -11,7 +11,13 @@ promote_when: >-
   exponent and the stated conditions, there is a unique κ with
   lim n^(−1) log E‖Π_n‖^κ = 0 and lim t^κ P(xR > t) = K(x) with K
   positive and continuous, and that Kesten stated such a result in 1973.
-title: "Alsmeyer and Mentemeier prove that the stationary solution of a random difference equation with invertible random matrices and a negative Liapunov exponent has a power-law tail in every direction, with index κ fixed by lim n^(−1) log E‖Π_n‖^κ = 0, a result they say Kesten stated in 1973 and Le Page proved"
+title: 'Matrix random recursions have power-law tails'
+statement: >-
+  Alsmeyer and Mentemeier prove that the stationary solution of a random
+  difference equation with invertible random matrices and a negative
+  Liapunov exponent has a power-law tail in every direction, with index κ
+  fixed by lim n^(−1) log E‖Π_n‖^κ = 0, a result they say Kesten stated in
+  1973 and Le Page proved
 version: 1
 tags:
 - probabilistic-modeling
@@ -30,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-2273 — Skimmed; the reading this THEORY records -->
 <!-- inactive-ok-file: LIT-3005 — Unfetched; the original this reading stands in for -->
 
-# THEORY-2182: Alsmeyer and Mentemeier prove that the stationary solution of a random difference equation with invertible random matrices and a negative Liapunov exponent has a power-law tail in every direction, with index κ fixed by lim n^(−1) log E‖Π_n‖^κ = 0, a result they say Kesten stated in 1973 and Le Page proved
+# THEORY-2182: Matrix random recursions have power-law tails
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 1003
 status: Active
 formerly:
 - THEORY-tmpt1q8m
-title: 'On NIPS papers (1,557 training and 183 test documents, 100 topics, fixed hyperparameters), the author–topic model gave test documents lower perplexity than LDA while sixteen or fewer of their words had been observed and higher perplexity beyond that; one fictitious author per document improved on the author–topic model throughout and lost to LDA after about 64 words, and an author model without topics did worst'
+title: 'Author–topic beats LDA only on short documents'
+statement: >-
+  On NIPS papers (1,557 training and 183 test documents, 100 topics, fixed
+  hyperparameters), the author–topic model gave test documents lower
+  perplexity than LDA while sixteen or fewer of their words had been
+  observed and higher perplexity beyond that; one fictitious author per
+  document improved on the author–topic model throughout and lost to LDA
+  after about 64 words, and an author model without topics did worst
 version: 1
 history:
 - version: 1
@@ -28,7 +35,7 @@ summary: >-
   is real, only that it predicts in a regime of sparse evidence.
 ---
 
-# THEORY-1003: On NIPS papers (1,557 training and 183 test documents, 100 topics, fixed hyperparameters), the author–topic model gave test documents lower perplexity than LDA while sixteen or fewer of their words had been observed and higher perplexity beyond that; one fictitious author per document improved on the author–topic model throughout and lost to LDA after about 64 words, and an author model without topics did worst
+# THEORY-1003: Author–topic beats LDA only on short documents
 
 ## Source
 

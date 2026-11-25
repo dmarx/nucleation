@@ -3,7 +3,15 @@ number: 400
 status: Active
 formerly:
 - THEORY-tmpvy222
-title: 'A metric space that admits, at every scale, random partitions into small pieces with each point padded away from piece boundaries with constant probability is absolutely Lipschitz extendable: maps from it into any Banach space extend to any containing space at O(1/padding), which gives C log λ for doubling constant λ, C r² for K_r-minor-free graph metrics, C(g+1) on genus-g surfaces and C√d from ℓ₂ᵈ; the bounds are upper bounds only, and the method needs a decomposition the domain may not have'
+title: 'Padded decompositions give Lipschitz extension'
+statement: >-
+  A metric space that admits, at every scale, random partitions into small
+  pieces with each point padded away from piece boundaries with constant
+  probability is absolutely Lipschitz extendable: maps from it into any
+  Banach space extend to any containing space at O(1/padding), which gives C
+  log λ for doubling constant λ, C r² for K_r-minor-free graph metrics,
+  C(g+1) on genus-g surfaces and C√d from ℓ₂ᵈ; the bounds are upper bounds
+  only, and the method needs a decomposition the domain may not have
 version: 1
 tags:
 - mathematics
@@ -22,7 +30,7 @@ summary: >-
   tight.
 ---
 
-# THEORY-400: A metric space that admits, at every scale, random partitions into small pieces with each point padded away from piece boundaries with constant probability is absolutely Lipschitz extendable: maps from it into any Banach space extend to any containing space at O(1/padding), which gives C log λ for doubling constant λ, C r² for K_r-minor-free graph metrics, C(g+1) on genus-g surfaces and C√d from ℓ₂ᵈ; the bounds are upper bounds only, and the method needs a decomposition the domain may not have
+# THEORY-400: Padded decompositions give Lipschitz extension
 
 ## Source
 

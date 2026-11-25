@@ -3,7 +3,16 @@ number: 112
 status: Active
 formerly:
 - THEORY-tmpkd2ju
-title: 'Aligning independently trained solutions over the architecture''s symmetries removed the linear barrier between them for MNIST MLPs and 32×-wide ResNet-20s on CIFAR-10, two-thirds of it for an ImageNet ResNet-50, and not all of it for VGG-16 or ResNet-20 at 1× width, the barrier after weight matching falling with width; for 6- to 8-layer ViTs and GPT-2s, permutations alone removed 63–90% of it, and adding an orthogonal map on the residual stream, learned against the loss at the path''s midpoint, took it to zero or near zero except on BookCorpus (0.42)'
+title: 'Symmetry alignment removes barriers with width'
+statement: >-
+  Aligning independently trained solutions over the architecture's
+  symmetries removed the linear barrier between them for MNIST MLPs and
+  32×-wide ResNet-20s on CIFAR-10, two-thirds of it for an ImageNet
+  ResNet-50, and not all of it for VGG-16 or ResNet-20 at 1× width, the
+  barrier after weight matching falling with width; for 6- to 8-layer ViTs
+  and GPT-2s, permutations alone removed 63–90% of it, and adding an
+  orthogonal map on the residual stream, learned against the loss at the
+  path's midpoint, took it to zero or near zero except on BookCorpus (0.42)
 version: 4
 history:
 - version: 2
@@ -74,7 +83,7 @@ bounds:
 ---
 <!-- inactive-ok-file: THEORY-109 THEORY-110 — Proposed; the account this extends and one filed with it, named in the body -->
 
-# THEORY-112: Aligning independently trained solutions over the architecture's symmetries removed the linear barrier between them for MNIST MLPs and 32×-wide ResNet-20s on CIFAR-10, two-thirds of it for an ImageNet ResNet-50, and not all of it for VGG-16 or ResNet-20 at 1× width, the barrier after weight matching falling with width; for 6- to 8-layer ViTs and GPT-2s, permutations alone removed 63–90% of it, and adding an orthogonal map on the residual stream, learned against the loss at the path's midpoint, took it to zero or near zero except on BookCorpus (0.42)
+# THEORY-112: Symmetry alignment removes barriers with width
 
 ## Source
 

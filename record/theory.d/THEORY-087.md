@@ -3,7 +3,14 @@ number: 87
 status: Active
 formerly:
 - THEORY-tmpzelk0
-title: 'The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold; with the prior positive on the optimal set, λ falls below d/2 when that set is infinite or has a point of degenerate curvature, and equals d/2 when it is finitely many points of non-degenerate curvature'
+title: 'Singular models pay λ log n, below d/2'
+statement: >-
+  The Bayesian complexity penalty grows as (d/2) log n in a regular model,
+  where the curvature at the optimum sets the Occam factor, and as λ log n
+  in a singular one, where λ is the real log canonical threshold; with the
+  prior positive on the optimal set, λ falls below d/2 when that set is
+  infinite or has a point of degenerate curvature, and equals d/2 when it is
+  finitely many points of non-degenerate curvature
 version: 4
 history:
 - version: 2
@@ -88,7 +95,7 @@ bears_on:
 
 <!-- inactive-ok-file: THEORY-2167 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
 
-# THEORY-087: The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold; with the prior positive on the optimal set, λ falls below d/2 when that set is infinite or has a point of degenerate curvature, and equals d/2 when it is finitely many points of non-degenerate curvature
+# THEORY-087: Singular models pay λ log n, below d/2
 
 ## Source
 

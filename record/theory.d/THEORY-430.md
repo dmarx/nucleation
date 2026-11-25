@@ -3,7 +3,12 @@ number: 430
 status: Active
 formerly:
 - THEORY-tmp3t9ds
-title: "A real hyperplane arrangement in ℝⁿ has (−1)ⁿχ(−1) regions and (−1)^rank χ(1) bounded regions, where χ is the characteristic polynomial of its intersection poset, so these counts depend only on which hyperplanes meet and in what dimension, not on the shapes of the regions"
+title: 'Arrangement region counts depend only on poset'
+statement: >-
+  A real hyperplane arrangement in ℝⁿ has (−1)ⁿχ(−1) regions and (−1)^rank
+  χ(1) bounded regions, where χ is the characteristic polynomial of its
+  intersection poset, so these counts depend only on which hyperplanes meet
+  and in what dimension, not on the shapes of the regions
 version: 1
 tags:
 - mathematics
@@ -23,7 +28,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-332 LIT-359 — Unavailable; Zaslavsky's own texts, named as what the notes do not cite -->
 
-# THEORY-430: A real hyperplane arrangement in ℝⁿ has (−1)ⁿχ(−1) regions and (−1)^rank χ(1) bounded regions, where χ is the characteristic polynomial of its intersection poset, so these counts depend only on which hyperplanes meet and in what dimension, not on the shapes of the regions
+# THEORY-430: Arrangement region counts depend only on poset
 
 ## Source
 

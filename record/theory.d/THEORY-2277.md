@@ -11,7 +11,15 @@ promote_when: >-
   a group by region interaction. A replication of the memory result is not
   required for the gaze sentence, and evidence about sampling after
   recall or of disambiguating context is not what this title asserts.
-title: 'Zidda and colleagues found that, freely viewing pictures in which a cue specific to their own trauma was set in a neutral background, 19 unmedicated people with PTSD made their first fixation on the background later than 18 trauma-exposed controls without PTSD, though they reached the cue as fast, and that latency to the background, with the earliest visual potential, predicted recognition of rearranged cue–background pairs the next day'
+title: 'PTSD delays first gaze to background context'
+statement: >-
+  Zidda and colleagues found that, freely viewing pictures in which a cue
+  specific to their own trauma was set in a neutral background, 19
+  unmedicated people with PTSD made their first fixation on the background
+  later than 18 trauma-exposed controls without PTSD, though they reached
+  the cue as fast, and that latency to the background, with the earliest
+  visual potential, predicted recognition of rearranged cue–background pairs
+  the next day
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -35,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1076 CLAIM-1069 ARG-224 — new; this reading's work and note, and the verdict filed from it -->
 <!-- inactive-ok-file: THEORY-1179 — Proposed; the wide reading of the model whose promote_when this does not meet -->
 
-# THEORY-2277: Zidda and colleagues found that, freely viewing pictures in which a cue specific to their own trauma was set in a neutral background, 19 unmedicated people with PTSD made their first fixation on the background later than 18 trauma-exposed controls without PTSD, though they reached the cue as fast, and that latency to the background, with the earliest visual potential, predicted recognition of rearranged cue–background pairs the next day
+# THEORY-2277: PTSD delays first gaze to background context
 
 ## Source
 

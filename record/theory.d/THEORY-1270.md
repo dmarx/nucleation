@@ -3,7 +3,15 @@ number: 1270
 status: Active
 formerly:
 - THEORY-tmpshz26
-title: 'Entropy production does not select which of several maintained steady states is the stable one: in the bistable Schlögl model the state the system occupies in the long run can carry either the higher or the lower deterministic entropy production rate, and the mean stochastic entropy production follows whichever state is more probable; in general the most dissipative attractor is the longest-lived only under special conditions, and lifetime tracks relaxation entropy only near detailed balance'
+title: 'Entropy production doesn''t select stable states'
+statement: >-
+  Entropy production does not select which of several maintained steady
+  states is the stable one: in the bistable Schlögl model the state the
+  system occupies in the long run can carry either the higher or the lower
+  deterministic entropy production rate, and the mean stochastic entropy
+  production follows whichever state is more probable; in general the most
+  dissipative attractor is the longest-lived only under special conditions,
+  and lifetime tracks relaxation entropy only near detailed balance
 version: 1
 tags:
 - thermodynamics
@@ -24,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-671 — Proposed; the account this one counts against, named as open -->
 
-# THEORY-1270: Entropy production does not select which of several maintained steady states is the stable one: in the bistable Schlögl model the state the system occupies in the long run can carry either the higher or the lower deterministic entropy production rate, and the mean stochastic entropy production follows whichever state is more probable; in general the most dissipative attractor is the longest-lived only under special conditions, and lifetime tracks relaxation entropy only near detailed balance
+# THEORY-1270: Entropy production doesn't select stable states
 
 ## Source
 

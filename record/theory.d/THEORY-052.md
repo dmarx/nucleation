@@ -20,7 +20,10 @@ promote_when: >-
   every frustration item is negatively worded and every satisfaction
   item positively. The same tests would separate it from, or
   join it to, the inflexibility account (THEORY-050).
-title: 'Frustration of the needs for autonomy, competence and relatedness is a transdiagnostic process in psychopathology'
+title: 'Need frustration is transdiagnostic'
+statement: >-
+  Frustration of the needs for autonomy, competence and relatedness is a
+  transdiagnostic process in psychopathology
 version: 2
 history:
 - version: 2
@@ -61,7 +64,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-050 THEORY-058 — Proposed; relations stated in prose, nothing here rests on them -->
 
-# THEORY-052: Frustration of the needs for autonomy, competence and relatedness is a transdiagnostic process in psychopathology
+# THEORY-052: Need frustration is transdiagnostic
 
 ## Source
 

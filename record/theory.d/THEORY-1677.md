@@ -3,7 +3,15 @@ number: 1677
 status: Proposed
 formerly:
 - THEORY-tmpcpzrq
-title: 'Brown (2025) argues that recommender systems bear on authenticity in two opposed ways: by ranking content on behavioural signals that cannot reveal users'' second-order desires they foster volitional misalignment by design, while by showing users whom they behave like they can prompt self-understanding, a benefit that opacity threatens, so that recommenders serve authenticity only if they are controllable and explain which similarity relation drove each recommendation.'
+title: 'Recommenders both erode and aid authenticity'
+statement: >-
+  Brown (2025) argues that recommender systems bear on authenticity in two
+  opposed ways: by ranking content on behavioural signals that cannot reveal
+  users' second-order desires they foster volitional misalignment by design,
+  while by showing users whom they behave like they can prompt
+  self-understanding, a benefit that opacity threatens, so that recommenders
+  serve authenticity only if they are controllable and explain which
+  similarity relation drove each recommendation.
 version: 1
 source:
 - LIT-2425
@@ -32,7 +40,7 @@ summary: >-
   recommendations are a source of self-knowledge).
 ---
 
-# THEORY-1677: Brown (2025) argues that recommender systems bear on authenticity in two opposed ways: by ranking content on behavioural signals that cannot reveal users' second-order desires they foster volitional misalignment by design, while by showing users whom they behave like they can prompt self-understanding, a benefit that opacity threatens, so that recommenders serve authenticity only if they are controllable and explain which similarity relation drove each recommendation.
+# THEORY-1677: Recommenders both erode and aid authenticity
 
 ## The account
 

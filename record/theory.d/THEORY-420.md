@@ -3,7 +3,13 @@ number: 420
 status: Active
 formerly:
 - THEORY-tmp2m74h
-title: "In trained transformers, zeroing a decile of a weight matrix's singular values does damage that falls monotonically with their size in square matrices, whose random-matrix null reaches zero, but not in rectangular ones, whose null has a positive lower edge: there the smallest decile is never the least damaging and can be among the most"
+title: 'Rectangular weights'' small singular values matter'
+statement: >-
+  In trained transformers, zeroing a decile of a weight matrix's singular
+  values does damage that falls monotonically with their size in square
+  matrices, whose random-matrix null reaches zero, but not in rectangular
+  ones, whose null has a positive lower edge: there the smallest decile is
+  never the least damaging and can be among the most
 version: 1
 tags:
 - representation-learning
@@ -28,7 +34,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-3012 — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
 <!-- inactive-ok-file: THEORY-2186 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# THEORY-420: In trained transformers, zeroing a decile of a weight matrix's singular values does damage that falls monotonically with their size in square matrices, whose random-matrix null reaches zero, but not in rectangular ones, whose null has a positive lower edge: there the smallest decile is never the least damaging and can be among the most
+# THEORY-420: Rectangular weights' small singular values matter
 
 ## Source
 

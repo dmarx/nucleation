@@ -27,7 +27,11 @@ promote_when: >-
   prefrontal decoding in no-report paradigms, since both leave
   post-perceptual cognition in place. An fMRI null alone cannot settle it
   either.
-title: 'The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex'
+title: 'Consciousness is sensory recurrence, not PFC'
+statement: >-
+  The neural basis of perceptual consciousness does not include the
+  prefrontal machinery of cognitive access: it is recurrent activity in
+  sensory cortex
 version: 4
 history:
 - version: 2
@@ -90,7 +94,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-100 — Proposed; named in Connections as data this account reads, no relation claimed -->
 <!-- inactive-ok-file: THEORY-096 — Proposed; the rival account, the relation declared on its file -->
 
-# THEORY-098: The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex
+# THEORY-098: Consciousness is sensory recurrence, not PFC
 
 ## Source
 

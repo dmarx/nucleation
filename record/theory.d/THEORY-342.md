@@ -3,7 +3,13 @@ number: 342
 status: Active
 formerly:
 - THEORY-tmpf8c2p
-title: "In AlphaZero on 9×9 Hex, at fixed playing strength, training compute and tree-search compute substitute along a straight line in log–log space, about 15× less search for each 10× more training over about two decades of training compute, down to a one-node search; the trade is measured for one search and counts no games played"
+title: 'Training and search compute trade log-linearly'
+statement: >-
+  In AlphaZero on 9×9 Hex, at fixed playing strength, training compute and
+  tree-search compute substitute along a straight line in log–log space,
+  about 15× less search for each 10× more training over about two decades of
+  training compute, down to a one-node search; the trade is measured for one
+  search and counts no games played
 version: 3
 history:
 - version: 2
@@ -56,7 +62,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# THEORY-342: In AlphaZero on 9×9 Hex, at fixed playing strength, training compute and tree-search compute substitute along a straight line in log–log space, about 15× less search for each 10× more training over about two decades of training compute, down to a one-node search; the trade is measured for one search and counts no games played
+# THEORY-342: Training and search compute trade log-linearly
 
 ## Source
 

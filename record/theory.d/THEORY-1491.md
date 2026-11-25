@@ -3,7 +3,15 @@ number: 1491
 status: Active
 formerly:
 - THEORY-tmptef2i
-title: "Neumark and Simpson's review finds that the US and European evidence on place-based policy shows gains at most while incentives are in force, often offset by relocation from nearby areas or captured in land and house values, and that the one program shown to leave gains after its funding ended, the Tennessee Valley Authority, did so through manufacturing agglomeration while its direct effect faded, with its agglomeration gains estimated to net to about zero nationally"
+title: 'Place-based gains rarely outlast incentives'
+statement: >-
+  Neumark and Simpson's review finds that the US and European evidence on
+  place-based policy shows gains at most while incentives are in force,
+  often offset by relocation from nearby areas or captured in land and house
+  values, and that the one program shown to leave gains after its funding
+  ended, the Tennessee Valley Authority, did so through manufacturing
+  agglomeration while its direct effect faded, with its agglomeration gains
+  estimated to net to about zero nationally
 version: 3
 history:
 - version: 2
@@ -57,7 +65,7 @@ corroborates:
 - CLAIM-597
 ---
 
-# THEORY-1491: Neumark and Simpson's review finds that the US and European evidence on place-based policy shows gains at most while incentives are in force, often offset by relocation from nearby areas or captured in land and house values, and that the one program shown to leave gains after its funding ended, the Tennessee Valley Authority, did so through manufacturing agglomeration while its direct effect faded, with its agglomeration gains estimated to net to about zero nationally
+# THEORY-1491: Place-based gains rarely outlast incentives
 
 ## Source
 

@@ -18,7 +18,13 @@ promote_when: >-
   refuted by a hard-line reply that removes the intuition that Plum in
   Case 1 is not responsible, rather than biting it. More surveys cannot
   settle it.
-title: "An agent manipulated so that he meets every leading compatibilist condition is not morally responsible in the basic-desert sense, no responsibility-relevant difference separates him from an ordinarily determined agent, and so causal determination by factors beyond the agent's control best explains why neither is responsible"
+title: 'Manipulation shows determinism defeats desert'
+statement: >-
+  An agent manipulated so that he meets every leading compatibilist
+  condition is not morally responsible in the basic-desert sense, no
+  responsibility-relevant difference separates him from an ordinarily
+  determined agent, and so causal determination by factors beyond the
+  agent's control best explains why neither is responsible
 version: 1
 tags:
 - free-will
@@ -47,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-823 — Skimmed; the partial reading of LIT-1006 -->
 <!-- inactive-ok-file: THEORY-040 THEORY-316 — Proposed; the manipulation account this bears on, and Pereboom's condition (3) that this argument would show true -->
 
-# THEORY-328: An agent manipulated so that he meets every leading compatibilist condition is not morally responsible in the basic-desert sense, no responsibility-relevant difference separates him from an ordinarily determined agent, and so causal determination by factors beyond the agent's control best explains why neither is responsible
+# THEORY-328: Manipulation shows determinism defeats desert
 
 ## Source
 

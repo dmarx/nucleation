@@ -3,7 +3,14 @@ number: 1344
 status: Active
 formerly:
 - THEORY-tmpuw92f
-title: 'Empowerment is the channel capacity from an agent''s next n actions to its sensor n steps later, an open-loop, interventional measure of how many perceptibly different futures the agent can bring about, which counts no control the agent cannot perceive; given side information about the channel''s state it is never lower, so it is ordered by what the agent can read, from full state through its own sensor history to none'
+title: 'Empowerment is action-to-sensor channel capacity'
+statement: >-
+  Empowerment is the channel capacity from an agent's next n actions to its
+  sensor n steps later, an open-loop, interventional measure of how many
+  perceptibly different futures the agent can bring about, which counts no
+  control the agent cannot perceive; given side information about the
+  channel's state it is never lower, so it is ordered by what the agent can
+  read, from full state through its own sensor history to none
 version: 3
 history:
 - version: 2
@@ -40,7 +47,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-1336 — Proposed; the cart-pole result, cited for what this definition does not say -->
 <!-- inactive-ok-file: CLAIM-787 — Proposed; the dated note of 2026-11-21 -->
 
-# THEORY-1344: Empowerment is the channel capacity from an agent's next n actions to its sensor n steps later, an open-loop, interventional measure of how many perceptibly different futures the agent can bring about, which counts no control the agent cannot perceive; given side information about the channel's state it is never lower, so it is ordered by what the agent can read, from full state through its own sensor history to none
+# THEORY-1344: Empowerment is action-to-sensor channel capacity
 
 ## Source
 

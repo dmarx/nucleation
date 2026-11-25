@@ -3,7 +3,15 @@ number: 1348
 status: Active
 formerly:
 - THEORY-tmpx0kxz
-title: 'In Froese''s Irruption Theory an agent''s motivations make a difference to behaviour only as an increase in its material underdetermination, measurable at best indirectly as neural or behavioural entropy, and such irruptions are by the theory''s own terms undirected: scaled up by chaos, 1/f noise or criticality, they loosen the current organization but "cannot force the formation of the behavior that is to come", so the theory places behaviour''s direction in the body''s attunement and not in the irruption'
+title: 'Irruptions loosen behaviour but don''t direct it'
+statement: >-
+  In Froese's Irruption Theory an agent's motivations make a difference to
+  behaviour only as an increase in its material underdetermination,
+  measurable at best indirectly as neural or behavioural entropy, and such
+  irruptions are by the theory's own terms undirected: scaled up by chaos,
+  1/f noise or criticality, they loosen the current organization but "cannot
+  force the formation of the behavior that is to come", so the theory places
+  behaviour's direction in the body's attunement and not in the irruption
 version: 2
 history:
 - version: 2
@@ -36,7 +44,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-2179 — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-1321 — Proposed; the companion THEORY and the claim this bears on, cited as open -->
 
-# THEORY-1348: In Froese's Irruption Theory an agent's motivations make a difference to behaviour only as an increase in its material underdetermination, measurable at best indirectly as neural or behavioural entropy, and such irruptions are by the theory's own terms undirected: scaled up by chaos, 1/f noise or criticality, they loosen the current organization but "cannot force the formation of the behavior that is to come", so the theory places behaviour's direction in the body's attunement and not in the irruption
+# THEORY-1348: Irruptions loosen behaviour but don't direct it
 
 ## Source
 

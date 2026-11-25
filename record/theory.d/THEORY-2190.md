@@ -12,7 +12,15 @@ promote_when: >-
   when the architecture changes. Not met by a restatement that cites this
   paper. Not defeated by unbounded norm growth across updates, which the
   title does not deny.
-title: "Bui and colleagues make an updated embedding model backward-compatible by lifting both models' embeddings into the Lorentz model and penalising each new embedding for leaving the entailment cone apexed at the same item's old embedding, beside an uncertainty-weighted contrastive loss, and on CIFAR100 and TinyImageNet this improves cross-model retrieval compatibility over Euclidean alignment baselines at little cost to the new model, most of all when the architecture changes"
+title: 'Hyperbolic cones make embeddings compatible'
+statement: >-
+  Bui and colleagues make an updated embedding model backward-compatible by
+  lifting both models' embeddings into the Lorentz model and penalising each
+  new embedding for leaving the entailment cone apexed at the same item's
+  old embedding, beside an uncertainty-weighted contrastive loss, and on
+  CIFAR100 and TinyImageNet this improves cross-model retrieval
+  compatibility over Euclidean alignment baselines at little cost to the new
+  model, most of all when the architecture changes
 version: 1
 tags:
 - representation-learning
@@ -32,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-860 — Proposed; the assistant's derivation of the norm growth -->
 
-# THEORY-2190: Bui and colleagues make an updated embedding model backward-compatible by lifting both models' embeddings into the Lorentz model and penalising each new embedding for leaving the entailment cone apexed at the same item's old embedding, beside an uncertainty-weighted contrastive loss, and on CIFAR100 and TinyImageNet this improves cross-model retrieval compatibility over Euclidean alignment baselines at little cost to the new model, most of all when the architecture changes
+# THEORY-2190: Hyperbolic cones make embeddings compatible
 
 ## Source
 

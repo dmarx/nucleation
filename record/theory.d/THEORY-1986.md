@@ -9,7 +9,12 @@ promote_when: >-
   alone, and that the violence is mostly frequent and low-level. Not
   satisfied by a sample drawn only from injury or police records, which
   the account says miss the pattern.
-title: 'Stark holds that coercive control, a strategic course of conduct combining violence, intimidation, isolation and control to dominate a partner and deprive her of rights and liberties, is the typical form of partner abuse, and that responses focused on discrete assaults miss it'
+title: 'Coercive control is the typical partner abuse'
+statement: >-
+  Stark holds that coercive control, a strategic course of conduct combining
+  violence, intimidation, isolation and control to dominate a partner and
+  deprive her of rights and liberties, is the typical form of partner abuse,
+  and that responses focused on discrete assaults miss it
 version: 1
 tags:
 - social-science
@@ -28,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2675 — Unavailable; the work this stands in for -->
 <!-- inactive-ok-file: CLAIM-709 — new or Proposed; the reading and the claim it corroborates -->
 
-# THEORY-1986: Stark holds that coercive control, a strategic course of conduct combining violence, intimidation, isolation and control to dominate a partner and deprive her of rights and liberties, is the typical form of partner abuse, and that responses focused on discrete assaults miss it
+# THEORY-1986: Coercive control is the typical partner abuse
 
 Stark (2015), [LIT-2772](../literature.d/LIT-2772.md).
 

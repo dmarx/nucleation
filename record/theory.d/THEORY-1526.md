@@ -9,7 +9,13 @@ promote_when: >-
   and popped-down nappes of a single rigid origami vertex near the flat
   state are disconnected, and that for small negative curvature they are
   connected.
-title: 'Near the flat state a non-intersecting rigid origami vertex with small positive Gaussian curvature has a configuration space split into two components (popped up and popped down) that no rigid, non-tearing motion joins, while for small negative curvature the two are joined by a neck, except at degree four'
+title: 'Vertex curvature sign decides flat-state split'
+statement: >-
+  Near the flat state a non-intersecting rigid origami vertex with small
+  positive Gaussian curvature has a configuration space split into two
+  components (popped up and popped down) that no rigid, non-tearing motion
+  joins, while for small negative curvature the two are joined by a neck,
+  except at degree four
 version: 1
 tags:
 - mathematics
@@ -29,7 +35,7 @@ summary: >-
   title excepts.
 ---
 
-# THEORY-1526: Near the flat state a non-intersecting rigid origami vertex with small positive Gaussian curvature has a configuration space split into two components (popped up and popped down) that no rigid, non-tearing motion joins, while for small negative curvature the two are joined by a neck, except at degree four
+# THEORY-1526: Vertex curvature sign decides flat-state split
 
 ## Source
 

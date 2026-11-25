@@ -10,7 +10,13 @@ promote_when: >-
   sampling showing whether the learned embedding still converges to the top
   eigenspace of the deviation-from-independence matrix in eigenvalue order.
   Further runs under the symmetric, tied setting cannot settle it.
-title: 'A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix''s relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum'
+title: 'Contrastive embeddings learn eigenvectors serially'
+statement: >-
+  A rank-limited contrastive word embedding trained from small
+  initialisation learns the top eigenvectors of the co-occurrence matrix's
+  relative deviation from independence, one at a time in order of
+  eigenvalue, not the best low-rank approximation of its unconstrained
+  optimum
 version: 2
 history:
 - version: 2
@@ -44,7 +50,7 @@ extends:
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; the unconstrained-optimum account this one is set beside -->
 
-# THEORY-182: A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix's relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum
+# THEORY-182: Contrastive embeddings learn eigenvectors serially
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1118
 status: Active
 formerly:
 - THEORY-tmpk6bx2
-title: 'McKenna and Coates argue, with Dryden and with Buss and Westlund, that a condition on free agency stated only in the agent''s present psychological structure is met by an agent whose structure a manipulator installed, so a mesh account must count that agent free or add a historical condition; Frankfurt, read first-hand, takes the first option'
+title: 'Mesh accounts must accept manipulees or history'
+statement: >-
+  McKenna and Coates argue, with Dryden and with Buss and Westlund, that a
+  condition on free agency stated only in the agent's present psychological
+  structure is met by an agent whose structure a manipulator installed, so a
+  mesh account must count that agent free or add a historical condition;
+  Frankfurt, read first-hand, takes the first option
 version: 2
 history:
 - version: 2
@@ -44,7 +50,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-040 — Proposed; the account this is split from, which holds the question whether any historical condition escapes -->
 
-# THEORY-1118: McKenna and Coates argue, with Dryden and with Buss and Westlund, that a condition on free agency stated only in the agent's present psychological structure is met by an agent whose structure a manipulator installed, so a mesh account must count that agent free or add a historical condition; Frankfurt, read first-hand, takes the first option
+# THEORY-1118: Mesh accounts must accept manipulees or history
 
 ## Source
 

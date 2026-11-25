@@ -9,7 +9,13 @@ promote_when: >-
   does: an entity that develops and overlaps materially with its
   progeny, reproduction being development plus progeneration, with no
   level fixed in advance. The survey's own wording does not meet it.
-title: 'Wilkins and Bourrat report Griesemer''s reproducer as an entity that develops and overlaps materially with its progeny, reproduction being development plus progeneration, inheritance a system property acquired in development, and replication an evolved terminal form of reproduction, with no level of organization fixed in advance'
+title: 'Reproducers develop and overlap with progeny'
+statement: >-
+  Wilkins and Bourrat report Griesemer's reproducer as an entity that
+  develops and overlaps materially with its progeny, reproduction being
+  development plus progeneration, inheritance a system property acquired in
+  development, and replication an evolved terminal form of reproduction,
+  with no level of organization fixed in advance
 version: 1
 source:
 - LIT-3140
@@ -28,7 +34,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-2367 — Skimmed; the partial reading this account comes from -->
 <!-- inactive-ok-file: LIT-1932 LIT-1937 — Unavailable; Griesemer's papers this report stands in for -->
 
-# THEORY-2275: Wilkins and Bourrat report Griesemer's reproducer as an entity that develops and overlaps materially with its progeny, reproduction being development plus progeneration, inheritance a system property acquired in development, and replication an evolved terminal form of reproduction, with no level of organization fixed in advance
+# THEORY-2275: Reproducers develop and overlap with progeny
 
 ## Source
 

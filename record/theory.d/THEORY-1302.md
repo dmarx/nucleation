@@ -13,7 +13,16 @@ promote_when: >-
   changes are "likely consequences of external parameters, like SNR" and
   of "internal brain dynamics"; neither does the absence of a microscopic
   derivation of the parameters.
-title: 'Sánchez-Cañizares reinterprets Irruption Theory for binary decisions (IAT*): irruption is the onset of a landscape with one attractor per option and absorption the passage to a single attractor, both correlated in mind and brain, reversing the sign of Froese''s variance hypothesis; the mind''s causal role is to set the landscape''s control parameters by "selecting the relevant physical coarse-graining", not to push the state, so on this account the mind controls which outcomes exist and not which one the state reaches'
+title: 'Mind sets the landscape, not the state'
+statement: >-
+  Sánchez-Cañizares reinterprets Irruption Theory for binary decisions
+  (IAT*): irruption is the onset of a landscape with one attractor per
+  option and absorption the passage to a single attractor, both correlated
+  in mind and brain, reversing the sign of Froese's variance hypothesis; the
+  mind's causal role is to set the landscape's control parameters by
+  "selecting the relevant physical coarse-graining", not to push the state,
+  so on this account the mind controls which outcomes exist and not which
+  one the state reaches
 version: 1
 tags:
 - free-will
@@ -34,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1132 — Proposed, Open or Unavailable; cited as open -->
 
-# THEORY-1302: Sánchez-Cañizares reinterprets Irruption Theory for binary decisions (IAT*): irruption is the onset of a landscape with one attractor per option and absorption the passage to a single attractor, both correlated in mind and brain, reversing the sign of Froese's variance hypothesis; the mind's causal role is to set the landscape's control parameters by "selecting the relevant physical coarse-graining", not to push the state, so on this account the mind controls which outcomes exist and not which one the state reaches
+# THEORY-1302: Mind sets the landscape, not the state
 
 ## Source
 

@@ -11,7 +11,17 @@ promote_when: >-
   correspondence is far from one-to-one, so that a rule which sharpens the
   current plan can be seen to fail. Further wins on the same benchmarks,
   by similar margins, do not settle it.
-title: 'Choosing which source objects to have an oracle match, by the derivative of a proxy utility of the entropic transport plan (its nearness to a permutation, or its consistency with the graphs) with respect to supervising each candidate match, averaged over matches by the current plan, raises held-out alignment accuracy more than uncertainty, centrality and matching-sampling query rules at the same label budget, by up to about three points on network alignment and less on image–text tasks; the gain depends on weighting by the current plan, without which the rule does worse than random'
+title: 'Plan-gradient queries beat other active rules'
+statement: >-
+  Choosing which source objects to have an oracle match, by the derivative
+  of a proxy utility of the entropic transport plan (its nearness to a
+  permutation, or its consistency with the graphs) with respect to
+  supervising each candidate match, averaged over matches by the current
+  plan, raises held-out alignment accuracy more than uncertainty, centrality
+  and matching-sampling query rules at the same label budget, by up to about
+  three points on network alignment and less on image–text tasks; the gain
+  depends on weighting by the current plan, without which the rule does
+  worse than random
 version: 1
 tags:
 - mathematics
@@ -28,7 +38,7 @@ summary: >-
   among fixed questions; it does not extend what can be asked.
 ---
 
-# THEORY-1160: Choosing which source objects to have an oracle match, by the derivative of a proxy utility of the entropic transport plan (its nearness to a permutation, or its consistency with the graphs) with respect to supervising each candidate match, averaged over matches by the current plan, raises held-out alignment accuracy more than uncertainty, centrality and matching-sampling query rules at the same label budget, by up to about three points on network alignment and less on image–text tasks; the gain depends on weighting by the current plan, without which the rule does worse than random
+# THEORY-1160: Plan-gradient queries beat other active rules
 
 ## Source
 

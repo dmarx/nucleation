@@ -9,7 +9,13 @@ promote_when: >-
   allocation of residual rights of control over the assets shifts the
   parties' incentives to invest in the relationship, strengthening the
   holder's and weakening the other's.
-title: 'Where contracts cannot specify in advance how assets will be used, ownership is the holding of residual rights of control over an asset, and allocating those rights to one party strengthens its incentive to invest in the relationship while weakening the other''s, so integration is best when one party''s investment matters much more than the other''s'
+title: 'Integrate when one side''s investment dominates'
+statement: >-
+  Where contracts cannot specify in advance how assets will be used,
+  ownership is the holding of residual rights of control over an asset, and
+  allocating those rights to one party strengthens its incentive to invest
+  in the relationship while weakening the other's, so integration is best
+  when one party's investment matters much more than the other's
 version: 1
 tags:
 - game-theory
@@ -31,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-728 — Proposed; cited with their standing, entries this reading bears on or files -->
 
-# THEORY-1985: Where contracts cannot specify in advance how assets will be used, ownership is the holding of residual rights of control over an asset, and allocating those rights to one party strengthens its incentive to invest in the relationship while weakening the other's, so integration is best when one party's investment matters much more than the other's
+# THEORY-1985: Integrate when one side's investment dominates
 
 Grossman & Hart (1986), [LIT-2745](../literature.d/LIT-2745.md).
 

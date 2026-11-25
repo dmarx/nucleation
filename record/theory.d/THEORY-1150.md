@@ -3,7 +3,14 @@ number: 1150
 status: Active
 formerly:
 - THEORY-tmpseu33
-title: 'In any logical system presented as an institution, theories can be glued wherever their vocabularies can: if the category of signatures has colimits, so does the category of theories, the glued theory being the semantic closure of the union of the parts'' translated sentences; and because constraints requiring free or initial interpretation also obey the Satisfaction Condition, theories carrying them glue the same way'
+title: 'Institution theories glue wherever signatures do'
+statement: >-
+  In any logical system presented as an institution, theories can be glued
+  wherever their vocabularies can: if the category of signatures has
+  colimits, so does the category of theories, the glued theory being the
+  semantic closure of the union of the parts' translated sentences; and
+  because constraints requiring free or initial interpretation also obey the
+  Satisfaction Condition, theories carrying them glue the same way
 version: 1
 tags:
 - logic
@@ -22,7 +29,7 @@ summary: >-
   is consistent, or anything about proofs: closure is semantic.
 ---
 
-# THEORY-1150: In any logical system presented as an institution, theories can be glued wherever their vocabularies can: if the category of signatures has colimits, so does the category of theories, the glued theory being the semantic closure of the union of the parts' translated sentences; and because constraints requiring free or initial interpretation also obey the Satisfaction Condition, theories carrying them glue the same way
+# THEORY-1150: Institution theories glue wherever signatures do
 
 ## Source
 

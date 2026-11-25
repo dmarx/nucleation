@@ -3,7 +3,15 @@ number: 393
 status: Active
 formerly:
 - THEORY-tmpbh0v2
-title: 'Any two families of n vectors of norm at most 1 have images in ⌊C log(2 + ε²n)/ε²⌋ dimensions whose cross inner products ⟨x_i, y_j⟩ are each within an additive ε of the originals, found by a randomized polynomial-time algorithm, which for small ε is below the log n/ε² of the Johnson–Lindenstrauss lemma; only cross products are kept, the new vectors'' norms are not bounded, and whether one set can be embedded that small is open'
+title: 'Cross inner products embed below JL dimension'
+statement: >-
+  Any two families of n vectors of norm at most 1 have images in ⌊C log(2 +
+  ε²n)/ε²⌋ dimensions whose cross inner products ⟨x_i, y_j⟩ are each within
+  an additive ε of the originals, found by a randomized polynomial-time
+  algorithm, which for small ε is below the log n/ε² of the
+  Johnson–Lindenstrauss lemma; only cross products are kept, the new
+  vectors' norms are not bounded, and whether one set can be embedded that
+  small is open
 version: 1
 tags:
 - mathematics
@@ -23,7 +31,7 @@ bears_on:
 - QUESTION-120
 ---
 
-# THEORY-393: Any two families of n vectors of norm at most 1 have images in ⌊C log(2 + ε²n)/ε²⌋ dimensions whose cross inner products ⟨x_i, y_j⟩ are each within an additive ε of the originals, found by a randomized polynomial-time algorithm, which for small ε is below the log n/ε² of the Johnson–Lindenstrauss lemma; only cross products are kept, the new vectors' norms are not bounded, and whether one set can be embedded that small is open
+# THEORY-393: Cross inner products embed below JL dimension
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1574
 status: Active
 formerly:
 - THEORY-tmp60gwu
-title: 'Bostrom argues that on aggregative, time-neutral views of value reducing existential risk is a global priority, and that it is undersupplied for lack of motivation as well as understanding, since its benefit is a pan-generational public good whose future beneficiaries cannot pay and moral sentiment is insensitive to scope'
+title: 'Existential risk reduction is a global priority'
+statement: >-
+  Bostrom argues that on aggregative, time-neutral views of value reducing
+  existential risk is a global priority, and that it is undersupplied for
+  lack of motivation as well as understanding, since its benefit is a
+  pan-generational public good whose future beneficiaries cannot pay and
+  moral sentiment is insensitive to scope
 version: 2
 history:
 - version: 1
@@ -38,7 +44,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-491 — Proposed; the owner's thesis, whose own note cites this reading as evidence, cited with its standing -->
 
-# THEORY-1574: Bostrom argues that on aggregative, time-neutral views of value reducing existential risk is a global priority, and that it is undersupplied for lack of motivation as well as understanding, since its benefit is a pan-generational public good whose future beneficiaries cannot pay and moral sentiment is insensitive to scope
+# THEORY-1574: Existential risk reduction is a global priority
 
 ## The account
 

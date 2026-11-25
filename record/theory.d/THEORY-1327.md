@@ -3,7 +3,15 @@ number: 1327
 status: Active
 formerly:
 - THEORY-tmpjdp4t
-title: 'As Ryan and colleagues'' 2022 meta-review maps it, the meta-analytic evidence for self-determination theory is concentrated in cognitive evaluation, organismic integration and basic needs theory, is mostly cross-sectional and heterogeneous, and has gaps: no meta-analysis of relationships motivation theory or of need frustration, one or two of causality orientations and goal contents, and none that separates integrated from identified regulation'
+title: 'SDT meta-evidence is cross-sectional, uneven'
+statement: >-
+  As Ryan and colleagues' 2022 meta-review maps it, the meta-analytic
+  evidence for self-determination theory is concentrated in cognitive
+  evaluation, organismic integration and basic needs theory, is mostly
+  cross-sectional and heterogeneous, and has gaps: no meta-analysis of
+  relationships motivation theory or of need frustration, one or two of
+  causality orientations and goal contents, and none that separates
+  integrated from identified regulation
 version: 2
 history:
 - version: 2
@@ -34,7 +42,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-052 THEORY-054 THEORY-049 — Proposed, Open or Unfetched; neighbours whose promote_when this map bears on, cited as open -->
 
-# THEORY-1327: As Ryan and colleagues' 2022 meta-review maps it, the meta-analytic evidence for self-determination theory is concentrated in cognitive evaluation, organismic integration and basic needs theory, is mostly cross-sectional and heterogeneous, and has gaps: no meta-analysis of relationships motivation theory or of need frustration, one or two of causality orientations and goal contents, and none that separates integrated from identified regulation
+# THEORY-1327: SDT meta-evidence is cross-sectional, uneven
 
 ## Source
 

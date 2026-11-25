@@ -14,7 +14,13 @@ promote_when: >-
   and weakened if learned nudges turn out to use only documented biases or
   if outcome monitoring catches the side effects as well. Further reports
   of learned policies exploiting known biases cannot settle it.
-title: "A nudge discovered by a learning system, unlike one a person designed, comes with no prior theory of why it works and may exploit a cognitive process no theory yet describes, so judging it by its outcomes cannot diagnose or repair its side effects; overseeing it needs inspection of which human processes it exploits, by people expert in human cognition"
+title: 'Learned nudges need cognitive inspection'
+statement: >-
+  A nudge discovered by a learning system, unlike one a person designed,
+  comes with no prior theory of why it works and may exploit a cognitive
+  process no theory yet describes, so judging it by its outcomes cannot
+  diagnose or repair its side effects; overseeing it needs inspection of
+  which human processes it exploits, by people expert in human cognition
 version: 1
 tags:
 - society-and-governance
@@ -34,7 +40,7 @@ summary: >-
   proposal is unspecified.
 ---
 
-# THEORY-627: A nudge discovered by a learning system, unlike one a person designed, comes with no prior theory of why it works and may exploit a cognitive process no theory yet describes, so judging it by its outcomes cannot diagnose or repair its side effects; overseeing it needs inspection of which human processes it exploits, by people expert in human cognition
+# THEORY-627: Learned nudges need cognitive inspection
 
 ## Source
 

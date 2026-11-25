@@ -3,7 +3,15 @@ number: 1741
 status: Proposed
 formerly:
 - THEORY-tmp6koy4
-title: 'Reiter (1987) defines a diagnosis as a minimal set of components whose abnormality, with all other components normal, is consistent with a system''s description and an observation; he proves that the diagnoses are exactly the minimal hitting sets of the conflict sets, that a new measurement can remove diagnoses but also create new strictly larger ones, and that the theory needs the components that might fail to be enumerated in advance.'
+title: 'Diagnoses are minimal hitting sets of conflicts'
+statement: >-
+  Reiter (1987) defines a diagnosis as a minimal set of components whose
+  abnormality, with all other components normal, is consistent with a
+  system's description and an observation; he proves that the diagnoses are
+  exactly the minimal hitting sets of the conflict sets, that a new
+  measurement can remove diagnoses but also create new strictly larger ones,
+  and that the theory needs the components that might fail to be enumerated
+  in advance.
 version: 1
 tags:
 - logic
@@ -20,7 +28,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1741: Reiter (1987) defines a diagnosis as a minimal set of components whose abnormality, with all other components normal, is consistent with a system's description and an observation; he proves that the diagnoses are exactly the minimal hitting sets of the conflict sets, that a new measurement can remove diagnoses but also create new strictly larger ones, and that the theory needs the components that might fail to be enumerated in advance.
+# THEORY-1741: Diagnoses are minimal hitting sets of conflicts
 
 ## The account
 

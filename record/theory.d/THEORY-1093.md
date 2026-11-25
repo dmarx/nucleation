@@ -3,7 +3,15 @@ number: 1093
 status: Active
 formerly:
 - THEORY-tmpyoeip
-title: 'In Di Biagio and Rovelli''s reformulation of relational quantum mechanics a relative fact is a conditional probability concentrated on one value: A is a fact relative to B when the relative information I_{A|B} = I_A + I_{A:B} is maximal; since only commuting variables have a joint distribution, perspectives belong to commutative subalgebras of observables, not to quantum systems, so a qubit has none, and the joint distribution is itself relative to a further system, so the relativity iterates'
+title: 'Perspectives belong to commutative subalgebras'
+statement: >-
+  In Di Biagio and Rovelli's reformulation of relational quantum mechanics a
+  relative fact is a conditional probability concentrated on one value: A is
+  a fact relative to B when the relative information I_{A|B} = I_A + I_{A:B}
+  is maximal; since only commuting variables have a joint distribution,
+  perspectives belong to commutative subalgebras of observables, not to
+  quantum systems, so a qubit has none, and the joint distribution is itself
+  relative to a further system, so the relativity iterates
 version: 2
 history:
 - version: 2
@@ -39,7 +47,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-621 — Proposed; the earlier statement, cited as open -->
 
-# THEORY-1093: In Di Biagio and Rovelli's reformulation of relational quantum mechanics a relative fact is a conditional probability concentrated on one value: A is a fact relative to B when the relative information I_{A|B} = I_A + I_{A:B} is maximal; since only commuting variables have a joint distribution, perspectives belong to commutative subalgebras of observables, not to quantum systems, so a qubit has none, and the joint distribution is itself relative to a further system, so the relativity iterates
+# THEORY-1093: Perspectives belong to commutative subalgebras
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1813
 status: Proposed
 formerly:
 - THEORY-tmp2zfsi
-title: 'Fuentes argues that the archive of Caribbean slavery was produced by the violence it records, so that enslaved women survive in it only as fragments shaped by owners, courts and abolitionist discourse, and that a historical method requiring a sufficient documentary base reproduces their erasure; the historian must write about what the archive does not offer'
+title: 'Slave archive''s violence erases enslaved women'
+statement: >-
+  Fuentes argues that the archive of Caribbean slavery was produced by the
+  violence it records, so that enslaved women survive in it only as
+  fragments shaped by owners, courts and abolitionist discourse, and that a
+  historical method requiring a sufficient documentary base reproduces their
+  erasure; the historian must write about what the archive does not offer
 version: 1
 source:
 - LIT-2524
@@ -21,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1893 — filed from the exchange "About Plantation Paradise" (2026-11-12), Skimmed -->
 
-# THEORY-1813: Fuentes argues that the archive of Caribbean slavery was produced by the violence it records, so that enslaved women survive in it only as fragments shaped by owners, courts and abolitionist discourse, and that a historical method requiring a sufficient documentary base reproduces their erasure; the historian must write about what the archive does not offer
+# THEORY-1813: Slave archive's violence erases enslaved women
 
 ## The account
 

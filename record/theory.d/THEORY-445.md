@@ -3,7 +3,13 @@ number: 445
 status: Active
 formerly:
 - THEORY-tmp5lcx6
-title: "A network built from group correlations over a discrete split group of plane symmetries, pointwise nonlinearities and coset pooling is equivariant to that group by construction, through the regular representation alone: the group is fixed before training and built into the weight sharing, not found in the data"
+title: 'Group convolutions are equivariant by design'
+statement: >-
+  A network built from group correlations over a discrete split group of
+  plane symmetries, pointwise nonlinearities and coset pooling is
+  equivariant to that group by construction, through the regular
+  representation alone: the group is fixed before training and built into
+  the weight sharing, not found in the data
 version: 1
 tags:
 - representation-learning
@@ -25,7 +31,7 @@ bears_on:
 - QUESTION-058
 ---
 
-# THEORY-445: A network built from group correlations over a discrete split group of plane symmetries, pointwise nonlinearities and coset pooling is equivariant to that group by construction, through the regular representation alone: the group is fixed before training and built into the weight sharing, not found in the data
+# THEORY-445: Group convolutions are equivariant by design
 
 ## Source
 

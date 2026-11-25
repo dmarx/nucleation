@@ -3,7 +3,13 @@ number: 2110
 status: Proposed
 formerly:
 - THEORY-tmpgv0cr
-title: 'Killen argues against Tomasello that cooperation and interdependence are a basis for morality but not sufficient for it, since from early childhood independent judgments of fairness coexist with group-minded cooperation and let children oppose group norms that treat others unequally, and peer conflict, not collaboration alone, drives moral change'
+title: 'Cooperation is needed but not enough for morality'
+statement: >-
+  Killen argues against Tomasello that cooperation and interdependence are a
+  basis for morality but not sufficient for it, since from early childhood
+  independent judgments of fairness coexist with group-minded cooperation
+  and let children oppose group norms that treat others unequally, and peer
+  conflict, not collaboration alone, drives moral change
 version: 1
 source:
 - LIT-2927
@@ -22,7 +28,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2110: Killen argues against Tomasello that cooperation and interdependence are a basis for morality but not sufficient for it, since from early childhood independent judgments of fairness coexist with group-minded cooperation and let children oppose group norms that treat others unequally, and peer conflict, not collaboration alone, drives moral change
+# THEORY-2110: Cooperation is needed but not enough for morality
 
 ## The account
 

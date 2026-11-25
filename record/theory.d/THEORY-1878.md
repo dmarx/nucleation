@@ -9,7 +9,15 @@ promote_when: >-
   content from hidden states than the output leaks, after at least one of
   the six unlearning methods, on at least one of TOFU, MUSE-News or
   WMDP-Bio.
-title: 'On Reisizadeh and colleagues, output-level unlearning can leave forget-set content in a language model''s hidden states: in a Gaussian model the output''s information about a sensitive variable and the representation''s are set by separate quantities, so the output can carry none while the representation carries arbitrarily much, and per-layer probe decoders trained on part of the forget set recover held-out forget content after six standard unlearning methods whose outputs show near-zero leakage'
+title: 'Unlearned content survives in hidden states'
+statement: >-
+  On Reisizadeh and colleagues, output-level unlearning can leave forget-set
+  content in a language model's hidden states: in a Gaussian model the
+  output's information about a sensitive variable and the representation's
+  are set by separate quantities, so the output can carry none while the
+  representation carries arbitrarily much, and per-layer probe decoders
+  trained on part of the forget set recover held-out forget content after
+  six standard unlearning methods whose outputs show near-zero leakage
 version: 1
 tags:
 - representation-learning
@@ -25,7 +33,7 @@ summary: >-
   the reader's; adopting it is the owner's call.
 ---
 
-# THEORY-1878: On Reisizadeh and colleagues, output-level unlearning can leave forget-set content in a language model's hidden states: in a Gaussian model the output's information about a sensitive variable and the representation's are set by separate quantities, so the output can carry none while the representation carries arbitrarily much, and per-layer probe decoders trained on part of the forget set recover held-out forget content after six standard unlearning methods whose outputs show near-zero leakage
+# THEORY-1878: Unlearned content survives in hidden states
 
 ## Source
 

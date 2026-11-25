@@ -3,7 +3,14 @@ number: 1041
 status: Active
 formerly:
 - THEORY-tmphvhg6
-title: 'In the Indian buffet process the feature probabilities in decreasing order are products of independent Beta(α, 1) draws, so the k-th has mean (α/(α + 1))^k, and keeping only the first K of them gives an expected number of occupied features among N objects that approaches αH_N from below: 8.97 at K = 16, N = 12 and α = 3, against 9.31 in the limit and 6.83 for the finite model with sixteen independent prevalences'
+title: 'Truncated stick-breaking IBP approaches αH_N'
+statement: >-
+  In the Indian buffet process the feature probabilities in decreasing order
+  are products of independent Beta(α, 1) draws, so the k-th has mean (α/(α +
+  1))^k, and keeping only the first K of them gives an expected number of
+  occupied features among N objects that approaches αH_N from below: 8.97 at
+  K = 16, N = 12 and α = 3, against 9.31 in the limit and 6.83 for the
+  finite model with sixteen independent prevalences
 version: 1
 history:
 - version: 1
@@ -32,7 +39,7 @@ summary: >-
   truncation error.
 ---
 
-# THEORY-1041: In the Indian buffet process the feature probabilities in decreasing order are products of independent Beta(α, 1) draws, so the k-th has mean (α/(α + 1))^k, and keeping only the first K of them gives an expected number of occupied features among N objects that approaches αH_N from below: 8.97 at K = 16, N = 12 and α = 3, against 9.31 in the limit and 6.83 for the finite model with sixteen independent prevalences
+# THEORY-1041: Truncated stick-breaking IBP approaches αH_N
 
 ## Source
 

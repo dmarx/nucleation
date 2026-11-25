@@ -3,7 +3,15 @@ number: 927
 status: Active
 formerly:
 - THEORY-tmp2p13l
-title: 'In a sparsely-gated mixture-of-experts layer trained without balancing losses, the gate came to give large weights to the same few experts, which the authors attribute to self-reinforcement, favoured experts being trained more and so selected more; in one 256-expert language model, the squared coefficient of variation of expert importance or load as an auxiliary loss reduced the peak-to-mean load from 17.8 to at most 1.47 and test perplexity from 39.8 to 35.6–35.7'
+title: 'MoE gates collapse without balancing loss'
+statement: >-
+  In a sparsely-gated mixture-of-experts layer trained without balancing
+  losses, the gate came to give large weights to the same few experts, which
+  the authors attribute to self-reinforcement, favoured experts being
+  trained more and so selected more; in one 256-expert language model, the
+  squared coefficient of variation of expert importance or load as an
+  auxiliary loss reduced the peak-to-mean load from 17.8 to at most 1.47 and
+  test perplexity from 39.8 to 35.6–35.7
 version: 3
 history:
 - version: 2
@@ -54,7 +62,7 @@ bears_on:
 - QUESTION-349
 ---
 
-# THEORY-927: In a sparsely-gated mixture-of-experts layer trained without balancing losses, the gate came to give large weights to the same few experts, which the authors attribute to self-reinforcement, favoured experts being trained more and so selected more; in one 256-expert language model, the squared coefficient of variation of expert importance or load as an auxiliary loss reduced the peak-to-mean load from 17.8 to at most 1.47 and test perplexity from 39.8 to 35.6–35.7
+# THEORY-927: MoE gates collapse without balancing loss
 
 ## Source
 

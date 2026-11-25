@@ -3,7 +3,19 @@ number: 1502
 status: Active
 formerly:
 - THEORY-tmp6zy9r
-title: 'For a real scalar field with a potential analytic at its minimum, the only one-parameter family of exactly time-periodic localized solutions that shrinks to the vacuum is the 1+1 dimensional sine-Gordon breather family; small-amplitude oscillons radiate at a rate exponentially small in their amplitude parameter, to leading order a coefficient times an exponential in minus a constant over that parameter, and, since their core energy scales as the parameter to the power 2 − d, in 3+1 dimensions they are stable only above a minimum amplitude and decay suddenly once radiation carries them below it, while in 1 and 2 dimensions small and moderate amplitude oscillons are stable and, their loss falling exponentially with amplitude, never decay'
+title: 'Only sine-Gordon breathers are exactly periodic'
+statement: >-
+  For a real scalar field with a potential analytic at its minimum, the only
+  one-parameter family of exactly time-periodic localized solutions that
+  shrinks to the vacuum is the 1+1 dimensional sine-Gordon breather family;
+  small-amplitude oscillons radiate at a rate exponentially small in their
+  amplitude parameter, to leading order a coefficient times an exponential
+  in minus a constant over that parameter, and, since their core energy
+  scales as the parameter to the power 2 − d, in 3+1 dimensions they are
+  stable only above a minimum amplitude and decay suddenly once radiation
+  carries them below it, while in 1 and 2 dimensions small and moderate
+  amplitude oscillons are stable and, their loss falling exponentially with
+  amplitude, never decay
 version: 2
 history:
 - version: 2
@@ -58,7 +70,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1555 — Proposed; the wider statement this entry was narrowed from -->
 
-# THEORY-1502: For a real scalar field with a potential analytic at its minimum, the only one-parameter family of exactly time-periodic localized solutions that shrinks to the vacuum is the 1+1 dimensional sine-Gordon breather family; small-amplitude oscillons radiate at a rate exponentially small in their amplitude parameter, to leading order a coefficient times an exponential in minus a constant over that parameter, and, since their core energy scales as the parameter to the power 2 − d, in 3+1 dimensions they are stable only above a minimum amplitude and decay suddenly once radiation carries them below it, while in 1 and 2 dimensions small and moderate amplitude oscillons are stable and, their loss falling exponentially with amplitude, never decay
+# THEORY-1502: Only sine-Gordon breathers are exactly periodic
 
 ## Source
 

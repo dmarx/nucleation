@@ -3,7 +3,14 @@ number: 522
 status: Active
 formerly:
 - THEORY-tmpfbdiq
-title: "Open text-to-image diffusion models of 2022–2023 render a single named object almost always but fail most on relative position and next on attribute binding, by human rating and by detector checks alike; scaling the image model or continuing pretraining does not fix position, and interactions are rated near ceiling only by rubrics that ask whether an action is depicted"
+title: 'Diffusion models fail most on relative position'
+statement: >-
+  Open text-to-image diffusion models of 2022–2023 render a single named
+  object almost always but fail most on relative position and next on
+  attribute binding, by human rating and by detector checks alike; scaling
+  the image model or continuing pretraining does not fix position, and
+  interactions are rated near ceiling only by rubrics that ask whether an
+  action is depicted
 version: 1
 tags:
 - compositionality
@@ -26,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-013 — Proposed; the record's own claims that cite these readings, named in Connections -->
 <!-- inactive-ok-file: THEORY-250 THEORY-678 — Proposed; neighbouring accounts named in Connections and in what this does not say, nothing here rests on them -->
 
-# THEORY-522: Open text-to-image diffusion models of 2022–2023 render a single named object almost always but fail most on relative position and next on attribute binding, by human rating and by detector checks alike; scaling the image model or continuing pretraining does not fix position, and interactions are rated near ceiling only by rubrics that ask whether an action is depicted
+# THEORY-522: Diffusion models fail most on relative position
 
 ## Source
 

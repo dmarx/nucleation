@@ -3,7 +3,15 @@ number: 2042
 status: Proposed
 formerly:
 - THEORY-tmpqvj8f
-title: 'Yin and Steinhardt show that, in twelve language models from 70M to 7B parameters, few-shot in-context accuracy depends mainly on function-vector heads and not on induction heads once heads with both properties are spared, increasingly so with scale, while induction heads matter more for the token-loss difference; and that across Pythia training induction heads form near step 1,000 while function-vector heads strengthen from about step 16,000 to the end, many of them having first been induction heads'
+title: 'Function-vector heads drive few-shot ICL'
+statement: >-
+  Yin and Steinhardt show that, in twelve language models from 70M to 7B
+  parameters, few-shot in-context accuracy depends mainly on function-vector
+  heads and not on induction heads once heads with both properties are
+  spared, increasingly so with scale, while induction heads matter more for
+  the token-loss difference; and that across Pythia training induction heads
+  form near step 1,000 while function-vector heads strengthen from about
+  step 16,000 to the end, many of them having first been induction heads
 version: 1
 source:
 - LIT-2808
@@ -34,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-990 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2042: Yin and Steinhardt show that, in twelve language models from 70M to 7B parameters, few-shot in-context accuracy depends mainly on function-vector heads and not on induction heads once heads with both properties are spared, increasingly so with scale, while induction heads matter more for the token-loss difference; and that across Pythia training induction heads form near step 1,000 while function-vector heads strengthen from about step 16,000 to the end, many of them having first been induction heads
+# THEORY-2042: Function-vector heads drive few-shot ICL
 
 ## The account
 

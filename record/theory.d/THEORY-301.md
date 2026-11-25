@@ -3,7 +3,12 @@ number: 301
 status: Active
 formerly:
 - THEORY-tmp52yl2
-title: 'The Procrustes distance between regularization-normalized representations and their average linear-decoding distance bound each other only through the participation ratio of the kernel difference: a small Procrustes distance forces a small decoding distance, but not conversely'
+title: 'Small Procrustes forces small decoding distance'
+statement: >-
+  The Procrustes distance between regularization-normalized representations
+  and their average linear-decoding distance bound each other only through
+  the participation ratio of the kernel difference: a small Procrustes
+  distance forces a small decoding distance, but not conversely
 version: 2
 history:
 - version: 2
@@ -39,7 +44,7 @@ summary: >-
   linear readouts only.
 ---
 
-# THEORY-301: The Procrustes distance between regularization-normalized representations and their average linear-decoding distance bound each other only through the participation ratio of the kernel difference: a small Procrustes distance forces a small decoding distance, but not conversely
+# THEORY-301: Small Procrustes forces small decoding distance
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 2174
 status: Proposed
 formerly:
 - THEORY-tmpwtoad
-title: 'Stringer, Pachitariu, Steinmetz, Carandini and Harris find that the stimulus-related responses of about 10,000 mouse V1 neurons to natural images have a cross-validated eigenspectrum close to a power law with exponent 1.04, fitted over ranks 11 to 500, and prove that in the many-neuron limit a code with finite expected derivative on a d-dimensional stimulus manifold has eigenvalues o(n^(−1−2/d)), a bound on the tail that lower-dimensional stimulus ensembles approach from above'
+title: 'V1 eigenspectrum follows a 1/n power law'
+statement: >-
+  Stringer, Pachitariu, Steinmetz, Carandini and Harris find that the
+  stimulus-related responses of about 10,000 mouse V1 neurons to natural
+  images have a cross-validated eigenspectrum close to a power law with
+  exponent 1.04, fitted over ranks 11 to 500, and prove that in the
+  many-neuron limit a code with finite expected derivative on a
+  d-dimensional stimulus manifold has eigenvalues o(n^(−1−2/d)), a bound on
+  the tail that lower-dimensional stimulus ensembles approach from above
 promote_when: >-
   An independent recording, or a reanalysis of the released data with
   cross-validated PCA, finds an exponent near 1 for natural images in V1
@@ -28,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-848 ARG-169 — Proposed or new; the claims this reading bears on and the argument for its support -->
 
-# THEORY-2174: Stringer, Pachitariu, Steinmetz, Carandini and Harris find that the stimulus-related responses of about 10,000 mouse V1 neurons to natural images have a cross-validated eigenspectrum close to a power law with exponent 1.04, fitted over ranks 11 to 500, and prove that in the many-neuron limit a code with finite expected derivative on a d-dimensional stimulus manifold has eigenvalues o(n^(−1−2/d)), a bound on the tail that lower-dimensional stimulus ensembles approach from above
+# THEORY-2174: V1 eigenspectrum follows a 1/n power law
 
 ## Source
 

@@ -9,7 +9,13 @@ promote_when: >-
   raises approach and flattens its decline with experimenter-set threat
   probability while steepening its decline with loss, in this
   approach-avoidance conflict task.
-title: 'Vestring and colleagues report that in healthy adults ketamine, given 90 to 150 minutes before an approach-avoidance conflict task with experimenter-set threat probability and loss, raised approach, flattened its decline with threat probability and steepened its decline with loss, while lorazepam raised approach and flattened both'
+title: 'Ketamine raises approach under threat'
+statement: >-
+  Vestring and colleagues report that in healthy adults ketamine, given 90
+  to 150 minutes before an approach-avoidance conflict task with
+  experimenter-set threat probability and loss, raised approach, flattened
+  its decline with threat probability and steepened its decline with loss,
+  while lorazepam raised approach and flattened both
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -25,7 +31,7 @@ summary: >-
   Proposed until replicated with the session order counterbalanced.
 ---
 
-# THEORY-2209: Vestring and colleagues report that in healthy adults ketamine, given 90 to 150 minutes before an approach-avoidance conflict task with experimenter-set threat probability and loss, raised approach, flattened its decline with threat probability and steepened its decline with loss, while lorazepam raised approach and flattened both
+# THEORY-2209: Ketamine raises approach under threat
 
 ## Source
 

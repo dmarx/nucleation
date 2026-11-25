@@ -8,7 +8,12 @@ promote_when: >-
   1801.01398) that settles whether the postulates imply a Kochen–Specker-type
   or Spekkens-type no-go, or a published comparison of contextual objectivity
   with either formal notion. A restatement of the position cannot settle it.
-title: 'Grangier and Auffèves''s contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model'
+title: 'Contextual objectivity is not formal contextuality'
+statement: >-
+  Grangier and Auffèves's contextual objectivity is an ontological
+  postulate, not contextuality in either formal sense: its one argued
+  consequence, unpredictability after a change of context, is reproduced by
+  an epistemically restricted classical model
 version: 1
 tags:
 - contextuality
@@ -29,7 +34,7 @@ corroborates:
 - CLAIM-041
 ---
 
-# THEORY-010: Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model
+# THEORY-010: Contextual objectivity is not formal contextuality
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 261
 status: Active
 formerly:
 - THEORY-tmpfdzw6
-title: "In sparse distributed memory, recall of uniform random data from exact cues is a signal-to-noise problem whose optimum activates about (2MT)^-1/3 of the hard locations, and capacity then grows in proportion to the number of hard locations, rising toward about a tenth of them at 0.999 bit fidelity, not with the word length"
+title: 'SDM capacity scales with hard locations'
+statement: >-
+  In sparse distributed memory, recall of uniform random data from exact
+  cues is a signal-to-noise problem whose optimum activates about (2MT)^-1/3
+  of the hard locations, and capacity then grows in proportion to the number
+  of hard locations, rising toward about a tenth of them at 0.999 bit
+  fidelity, not with the word length
 version: 3
 history:
 - version: 2
@@ -47,7 +53,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-180 — Proposed; open, and cited as open: a thesis of the nucleating-argument line under test -->
 <!-- inactive-ok-file: LIT-928 — Unavailable, unread; Kanerva's book, named as where the critical distance is derived, not leaned on -->
 
-# THEORY-261: In sparse distributed memory, recall of uniform random data from exact cues is a signal-to-noise problem whose optimum activates about (2MT)^-1/3 of the hard locations, and capacity then grows in proportion to the number of hard locations, rising toward about a tenth of them at 0.999 bit fidelity, not with the word length
+# THEORY-261: SDM capacity scales with hard locations
 
 ## Source
 

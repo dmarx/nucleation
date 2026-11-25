@@ -15,7 +15,12 @@ promote_when: >-
   a case in which a significant area of someone's social experience is
   obscured by an unequal share in making shared meanings and yet no
   injustice is done. More secondary summaries cannot settle it.
-title: "Hermeneutical injustice is having a significant area of one's social experience obscured from collective understanding owing to hermeneutical marginalisation, which may be systematic or incidental, so it does not require that the subject belong to a powerless social group"
+title: 'Hermeneutical injustice needs no powerless group'
+statement: >-
+  Hermeneutical injustice is having a significant area of one's social
+  experience obscured from collective understanding owing to hermeneutical
+  marginalisation, which may be systematic or incidental, so it does not
+  require that the subject belong to a powerless social group
 version: 2
 history:
 - version: 2
@@ -51,7 +56,7 @@ bounds:
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis, named as what would settle this -->
 <!-- inactive-ok-file: THEORY-317 — Proposed; the précis-based account whose group condition this one shows is the systematic case only -->
 
-# THEORY-326: Hermeneutical injustice is having a significant area of one's social experience obscured from collective understanding owing to hermeneutical marginalisation, which may be systematic or incidental, so it does not require that the subject belong to a powerless social group
+# THEORY-326: Hermeneutical injustice needs no powerless group
 
 ## Source
 

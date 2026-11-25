@@ -3,7 +3,14 @@ number: 439
 status: Active
 formerly:
 - THEORY-tmp4sei8
-title: "Given the same few demonstrations, temporarily updating a language model's weights on them and then conditioning beats conditioning alone, most on tasks with structural rules or distribution shift and most when the update is trained in the in-context format: for models of 1–8B parameters, examples used as context and the same examples used as a training signal are not interchangeable"
+title: 'Test-time training beats in-context alone'
+statement: >-
+  Given the same few demonstrations, temporarily updating a language model's
+  weights on them and then conditioning beats conditioning alone, most on
+  tasks with structural rules or distribution shift and most when the update
+  is trained in the in-context format: for models of 1–8B parameters,
+  examples used as context and the same examples used as a training signal
+  are not interchangeable
 version: 4
 history:
 - version: 2
@@ -57,7 +64,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-2007 THEORY-2049 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-439: Given the same few demonstrations, temporarily updating a language model's weights on them and then conditioning beats conditioning alone, most on tasks with structural rules or distribution shift and most when the update is trained in the in-context format: for models of 1–8B parameters, examples used as context and the same examples used as a training signal are not interchangeable
+# THEORY-439: Test-time training beats in-context alone
 
 ## Source
 

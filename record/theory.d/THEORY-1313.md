@@ -3,7 +3,15 @@ number: 1313
 status: Active
 formerly:
 - THEORY-tmp6nup8
-title: 'In two 7–8B chat models, the shift that finetuning induces along a difference-of-means persona vector correlates with how strongly the finetuned model then expresses that trait, r = 0.76–0.97 across synthetic datasets for evil, sycophancy and hallucination, above cross-trait baselines of 0.34–0.86; the last-prompt-token projection predicts a response''s trait at r = 0.75–0.83 overall but mainly by telling prompt types apart'
+title: 'Persona-vector shifts predict finetuned traits'
+statement: >-
+  In two 7–8B chat models, the shift that finetuning induces along a
+  difference-of-means persona vector correlates with how strongly the
+  finetuned model then expresses that trait, r = 0.76–0.97 across synthetic
+  datasets for evil, sycophancy and hallucination, above cross-trait
+  baselines of 0.34–0.86; the last-prompt-token projection predicts a
+  response's trait at r = 0.75–0.83 overall but mainly by telling prompt
+  types apart
 version: 2
 history:
 - version: 2
@@ -33,7 +41,7 @@ corroborates:
 - CLAIM-543
 ---
 
-# THEORY-1313: In two 7–8B chat models, the shift that finetuning induces along a difference-of-means persona vector correlates with how strongly the finetuned model then expresses that trait, r = 0.76–0.97 across synthetic datasets for evil, sycophancy and hallucination, above cross-trait baselines of 0.34–0.86; the last-prompt-token projection predicts a response's trait at r = 0.75–0.83 overall but mainly by telling prompt types apart
+# THEORY-1313: Persona-vector shifts predict finetuned traits
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 2171
 status: Proposed
 formerly:
 - THEORY-tmphbp5a
-title: 'Park, Bocchi, D''Amico, Lucini and Aarts show, exactly for a linear rank-1 teacher–student model under full-batch gradient descent and heuristically for nonlinear, finite-data and stochastic extensions, that training shrinks the weight covariance''s random bulk while growing a spike, so an outlier aligned with the teacher detaches by a BBP transition at a critical step size or a critical time set by the step size and the initial weight variance, while the student converges for every step size below one whether or not the outlier has yet appeared'
+title: 'Teacher spike detaches by a BBP transition'
+statement: >-
+  Park, Bocchi, D'Amico, Lucini and Aarts show, exactly for a linear rank-1
+  teacher–student model under full-batch gradient descent and heuristically
+  for nonlinear, finite-data and stochastic extensions, that training
+  shrinks the weight covariance's random bulk while growing a spike, so an
+  outlier aligned with the teacher detaches by a BBP transition at a
+  critical step size or a critical time set by the step size and the initial
+  weight variance, while the student converges for every step size below one
+  whether or not the outlier has yet appeared
 promote_when: >-
   A second reader confirms eqs. 17–19, 27–28 and 39 and the convergence
   statement of §II D against the paper, and an independent derivation or
@@ -30,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-799 ARG-171 CLAIM-855 ARG-174 — Proposed or new; the claims this reading bears on and the arguments for its support -->
 
-# THEORY-2171: Park, Bocchi, D'Amico, Lucini and Aarts show, exactly for a linear rank-1 teacher–student model under full-batch gradient descent and heuristically for nonlinear, finite-data and stochastic extensions, that training shrinks the weight covariance's random bulk while growing a spike, so an outlier aligned with the teacher detaches by a BBP transition at a critical step size or a critical time set by the step size and the initial weight variance, while the student converges for every step size below one whether or not the outlier has yet appeared
+# THEORY-2171: Teacher spike detaches by a BBP transition
 
 ## Source
 

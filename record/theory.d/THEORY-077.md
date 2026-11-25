@@ -19,7 +19,11 @@ promote_when: >-
   revised by modification indices. More cross-sectional correlations
   between "autonomous goals" and well-being cannot settle either half,
   since they do not test the sequence.
-title: "Goals pursued for identified or intrinsic reasons receive more sustained effort, which carries their better attainment, and attaining them raises well-being more than attaining goals pursued under pressure"
+title: 'Autonomous goals get more effort and well-being'
+statement: >-
+  Goals pursued for identified or intrinsic reasons receive more sustained
+  effort, which carries their better attainment, and attaining them raises
+  well-being more than attaining goals pursued under pressure
 version: 3
 history:
 - version: 2
@@ -65,7 +69,7 @@ bounds:
 <!-- inactive-ok-file: THEORY-047 THEORY-049 THEORY-052 THEORY-054 THEORY-029 THEORY-074 — Proposed; the SDT and self-governance accounts this one bears on, named in prose; only THEORY-054's graded continuum is presupposed, and this account is no firmer than it -->
 <!-- inactive-ok-file: LIT-594 — Unavailable; Taylor, named for the content objection the paper concedes, not leaned on -->
 
-# THEORY-077: Goals pursued for identified or intrinsic reasons receive more sustained effort, which carries their better attainment, and attaining them raises well-being more than attaining goals pursued under pressure
+# THEORY-077: Autonomous goals get more effort and well-being
 
 ## Which unity this is about
 

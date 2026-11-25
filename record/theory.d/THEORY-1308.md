@@ -14,7 +14,13 @@ promote_when: >-
   culture or among people who do not value or desire the need. Further
   non-significant interaction terms in small cross-sectional student
   samples cannot settle it.
-title: 'In Chen et al.''s student samples from Belgium, China, the USA and Peru, need satisfaction related to life satisfaction and vitality and need frustration to depressive symptoms with no detectable difference across countries, and neither relation was moderated by how much a person valued or desired the need'
+title: 'Need effects hold across cultures and values'
+statement: >-
+  In Chen et al.'s student samples from Belgium, China, the USA and Peru,
+  need satisfaction related to life satisfaction and vitality and need
+  frustration to depressive symptoms with no detectable difference across
+  countries, and neither relation was moderated by how much a person valued
+  or desired the need
 version: 1
 tags:
 - motivation
@@ -32,7 +38,7 @@ summary: >-
   measures of need strength.
 ---
 
-# THEORY-1308: In Chen et al.'s student samples from Belgium, China, the USA and Peru, need satisfaction related to life satisfaction and vitality and need frustration to depressive symptoms with no detectable difference across countries, and neither relation was moderated by how much a person valued or desired the need
+# THEORY-1308: Need effects hold across cultures and values
 
 ## Source
 

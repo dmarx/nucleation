@@ -3,7 +3,13 @@ number: 1582
 status: Active
 formerly:
 - THEORY-tmp85a21
-title: 'Kilduff, Elfenbein and Staw report that rivalry among NCAA men''s basketball teams, rated by student sportswriters, varied mostly with the particular pair of teams, grew with proximity, similarity, repeated play and above all a history of even contests, and was largely reciprocated, one-sided rivalry running from lower-status to higher-status teams'
+title: 'Rivalry grows from a history of even contests'
+statement: >-
+  Kilduff, Elfenbein and Staw report that rivalry among NCAA men's
+  basketball teams, rated by student sportswriters, varied mostly with the
+  particular pair of teams, grew with proximity, similarity, repeated play
+  and above all a history of even contests, and was largely reciprocated,
+  one-sided rivalry running from lower-status to higher-status teams
 version: 2
 history:
 - version: 1
@@ -33,7 +39,7 @@ bears_on:
 - QUESTION-298
 ---
 
-# THEORY-1582: Kilduff, Elfenbein and Staw report that rivalry among NCAA men's basketball teams, rated by student sportswriters, varied mostly with the particular pair of teams, grew with proximity, similarity, repeated play and above all a history of even contests, and was largely reciprocated, one-sided rivalry running from lower-status to higher-status teams
+# THEORY-1582: Rivalry grows from a history of even contests
 
 ## The account
 

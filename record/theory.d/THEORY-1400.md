@@ -9,7 +9,12 @@ promote_when: >-
   paths, the corresponding function over all input combinations, with
   programming done only by the path of an actuator steered by the array's
   own origami logic.
-title: 'An array of non-volatile bistable origami switches laid out one module per minterm can be programmed to any combinational function of its inputs by a mobile actuator that sets the modules it passes, so programmability moves from rewiring into an addressing path that origami logic itself steers'
+title: 'Mobile actuator programs origami logic arrays'
+statement: >-
+  An array of non-volatile bistable origami switches laid out one module per
+  minterm can be programmed to any combinational function of its inputs by a
+  mobile actuator that sets the modules it passes, so programmability moves
+  from rewiring into an addressing path that origami logic itself steers
 version: 2
 history:
 - version: 2
@@ -38,7 +43,7 @@ bears_on:
 - QUESTION-388
 ---
 
-# THEORY-1400: An array of non-volatile bistable origami switches laid out one module per minterm can be programmed to any combinational function of its inputs by a mobile actuator that sets the modules it passes, so programmability moves from rewiring into an addressing path that origami logic itself steers
+# THEORY-1400: Mobile actuator programs origami logic arrays
 
 ## Source
 

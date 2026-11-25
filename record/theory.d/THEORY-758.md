@@ -3,7 +3,18 @@ number: 758
 status: Active
 formerly:
 - THEORY-tmpm2oxc
-title: 'For a self-adjoint diffusion operator T with spectrum in [0, 1], the diffusion-wavelet levels are spectral subspaces spanned by the eigenvectors with λ^s ≥ ε for an increasing sequence of powers s, so they form an exactly nested chain of T-invariant subspaces whose differences are bands of the spectrum, about one octave each, not spatial blocks; Coifman and Maggioni''s compressed algorithm, which squares the operator on each orthonormal basis, thresholds T^{2^{j−1}} at level j and not T^{2^j−1} as the paper states; and since each level is T-invariant, each is an exactly closed linear coarse-graining whose localized basis is a choice the level does not fix'
+title: 'Diffusion-wavelet levels are spectral bands'
+statement: >-
+  For a self-adjoint diffusion operator T with spectrum in [0, 1], the
+  diffusion-wavelet levels are spectral subspaces spanned by the
+  eigenvectors with λ^s ≥ ε for an increasing sequence of powers s, so they
+  form an exactly nested chain of T-invariant subspaces whose differences
+  are bands of the spectrum, about one octave each, not spatial blocks;
+  Coifman and Maggioni's compressed algorithm, which squares the operator on
+  each orthonormal basis, thresholds T^{2^{j−1}} at level j and not
+  T^{2^j−1} as the paper states; and since each level is T-invariant, each
+  is an exactly closed linear coarse-graining whose localized basis is a
+  choice the level does not fix
 version: 3
 history:
 - version: 1
@@ -52,7 +63,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-2306 — new, filed by the lead run of 2026-11-23 and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion this account is contrasted with, open -->
 
-# THEORY-758: For a self-adjoint diffusion operator T with spectrum in [0, 1], the diffusion-wavelet levels are spectral subspaces spanned by the eigenvectors with λ^s ≥ ε for an increasing sequence of powers s, so they form an exactly nested chain of T-invariant subspaces whose differences are bands of the spectrum, about one octave each, not spatial blocks; Coifman and Maggioni's compressed algorithm, which squares the operator on each orthonormal basis, thresholds T^{2^{j−1}} at level j and not T^{2^j−1} as the paper states; and since each level is T-invariant, each is an exactly closed linear coarse-graining whose localized basis is a choice the level does not fix
+# THEORY-758: Diffusion-wavelet levels are spectral bands
 
 ## Source
 

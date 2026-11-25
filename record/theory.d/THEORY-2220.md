@@ -3,7 +3,14 @@ number: 2220
 status: Proposed
 formerly:
 - THEORY-tmpaygr8
-title: 'Mossio and Moreno (2010) hold that a flame maintains itself through a single constraint acting on its own boundary conditions, while an organism maintains itself through organisational closure, the direct mutual dependence of several constraints; closure is necessary for an organism but not sufficient, which also needs templates and control between parts working at different time scales'
+title: 'A flame self-maintains without closure'
+statement: >-
+  Mossio and Moreno (2010) hold that a flame maintains itself through a
+  single constraint acting on its own boundary conditions, while an organism
+  maintains itself through organisational closure, the direct mutual
+  dependence of several constraints; closure is necessary for an organism
+  but not sufficient, which also needs templates and control between parts
+  working at different time scales
 version: 1
 source:
 - LIT-3086
@@ -30,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-536 — Unfetched; the book this reading stands in for, in part -->
 <!-- inactive-ok-file: THEORY-072 — Proposed; the account this one bears on -->
 
-# THEORY-2220: Mossio and Moreno (2010) hold that a flame maintains itself through a single constraint acting on its own boundary conditions, while an organism maintains itself through organisational closure, the direct mutual dependence of several constraints; closure is necessary for an organism but not sufficient, which also needs templates and control between parts working at different time scales
+# THEORY-2220: A flame self-maintains without closure
 
 ## The account
 

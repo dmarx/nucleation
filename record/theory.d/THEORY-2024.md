@@ -3,7 +3,14 @@ number: 2024
 status: Proposed
 formerly:
 - THEORY-tmpeaw52
-title: 'Mordvintsev and colleagues show that a neural cellular automaton trained only to grow a target pattern from a seed grows it but does not reliably persist it, that training it to persist from its own outputs makes the pattern stable and often partly regenerative, and that adding damage during training gives robust regeneration, including from kinds of damage not seen in training'
+title: 'Damage in training makes NCAs regenerate'
+statement: >-
+  Mordvintsev and colleagues show that a neural cellular automaton trained
+  only to grow a target pattern from a seed grows it but does not reliably
+  persist it, that training it to persist from its own outputs makes the
+  pattern stable and often partly regenerative, and that adding damage
+  during training gives robust regeneration, including from kinds of damage
+  not seen in training
 version: 1
 source:
 - LIT-2798
@@ -37,7 +44,7 @@ summary: >-
   Read in its NOTE.
 ---
 
-# THEORY-2024: Mordvintsev and colleagues show that a neural cellular automaton trained only to grow a target pattern from a seed grows it but does not reliably persist it, that training it to persist from its own outputs makes the pattern stable and often partly regenerative, and that adding damage during training gives robust regeneration, including from kinds of damage not seen in training
+# THEORY-2024: Damage in training makes NCAs regenerate
 
 ## The account
 

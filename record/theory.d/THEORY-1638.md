@@ -3,7 +3,13 @@ number: 1638
 status: Proposed
 formerly:
 - THEORY-tmpw3g5u
-title: 'Chen, Kuo, Liu, Poon, Towey, Tse and Zhou hold that metamorphic testing alleviates but cannot solve the test-oracle problem: a program is checked against metamorphic relations, necessary properties relating two or more inputs and their outputs, so a violation shows a fault while satisfying them does not show correctness'
+title: 'Metamorphic testing eases, not solves, oracles'
+statement: >-
+  Chen, Kuo, Liu, Poon, Towey, Tse and Zhou hold that metamorphic testing
+  alleviates but cannot solve the test-oracle problem: a program is checked
+  against metamorphic relations, necessary properties relating two or more
+  inputs and their outputs, so a violation shows a fault while satisfying
+  them does not show correctness
 version: 1
 tags:
 - software-engineering
@@ -28,7 +34,7 @@ summary: >-
   version.
 ---
 
-# THEORY-1638: Chen, Kuo, Liu, Poon, Towey, Tse and Zhou hold that metamorphic testing alleviates but cannot solve the test-oracle problem: a program is checked against metamorphic relations, necessary properties relating two or more inputs and their outputs, so a violation shows a fault while satisfying them does not show correctness
+# THEORY-1638: Metamorphic testing eases, not solves, oracles
 
 ## The account
 

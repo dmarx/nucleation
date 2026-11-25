@@ -3,7 +3,13 @@ number: 1915
 status: Proposed
 formerly:
 - THEORY-tmp4z0a7
-title: 'Zeiser argues that AI decision support threatens responsibility chiefly as attributability rather than accountability: a decision a human makes with a tool that presupposes outcome-shaping values she has not endorsed does not express her value-judgements, an attributability gap that comes in degrees and that descriptive tools open as well as prescriptive ones'
+title: 'AI support opens an attributability gap'
+statement: >-
+  Zeiser argues that AI decision support threatens responsibility chiefly as
+  attributability rather than accountability: a decision a human makes with
+  a tool that presupposes outcome-shaping values she has not endorsed does
+  not express her value-judgements, an attributability gap that comes in
+  degrees and that descriptive tools open as well as prescriptive ones
 version: 2
 history:
 - version: 2
@@ -38,7 +44,7 @@ bears_on:
 <!-- inactive-ok-file: TERM-127 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpzdtc8 — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: QUESTION-068 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1915: Zeiser argues that AI decision support threatens responsibility chiefly as attributability rather than accountability: a decision a human makes with a tool that presupposes outcome-shaping values she has not endorsed does not express her value-judgements, an attributability gap that comes in degrees and that descriptive tools open as well as prescriptive ones
+# THEORY-1915: AI support opens an attributability gap
 
 ## Source
 

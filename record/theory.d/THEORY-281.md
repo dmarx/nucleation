@@ -3,7 +3,13 @@ number: 281
 status: Active
 formerly:
 - THEORY-tmprhafq
-title: 'Perfect concept erasure caps what a representation can keep at the information not about the concept: for X of finite support, if Z is independent of A then I(Z;X) is at most H(X|A), and a deterministic erasure reaches that cap only when the concept groups'' distributions are permutations of one another'
+title: 'Perfect erasure caps kept information at H(X|A)'
+statement: >-
+  Perfect concept erasure caps what a representation can keep at the
+  information not about the concept: for X of finite support, if Z is
+  independent of A then I(Z;X) is at most H(X|A), and a deterministic
+  erasure reaches that cap only when the concept groups' distributions are
+  permutations of one another
 version: 3
 history:
 - version: 2
@@ -45,7 +51,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-199 — Proposed; the partial answer of the same shape, open -->
 
-# THEORY-281: Perfect concept erasure caps what a representation can keep at the information not about the concept: for X of finite support, if Z is independent of A then I(Z;X) is at most H(X|A), and a deterministic erasure reaches that cap only when the concept groups' distributions are permutations of one another
+# THEORY-281: Perfect erasure caps kept information at H(X|A)
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 774
 status: Active
 formerly:
 - THEORY-tmpcvqfo
-title: 'In a one-dimensional lattice hopping model with 2N+1 free hopping probabilities, all particles starting at the origin and the density after t steps observed with fixed Gaussian error, the Fisher metric is exactly t² times the distribution of the difference of two independent (t−1)-step walks, evaluated at the lag between the two hops, so it does not depend on the drift; when the walk is aperiodic with nonzero variance, its k-th largest eigenvalue is of order t^(3/2−k) for k = 0, …, 2N, so successive eigenvalues separate by a factor of order t'
+title: 'Hopping-model Fisher eigenvalues split by factor t'
+statement: >-
+  In a one-dimensional lattice hopping model with 2N+1 free hopping
+  probabilities, all particles starting at the origin and the density after
+  t steps observed with fixed Gaussian error, the Fisher metric is exactly
+  t² times the distribution of the difference of two independent (t−1)-step
+  walks, evaluated at the lag between the two hops, so it does not depend on
+  the drift; when the walk is aperiodic with nonzero variance, its k-th
+  largest eigenvalue is of order t^(3/2−k) for k = 0, …, 2N, so successive
+  eigenvalues separate by a factor of order t
 version: 1
 history:
 - version: 1
@@ -39,7 +48,7 @@ bears_on:
 
 <!-- inactive-ok-file: THEORY-2167 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
 
-# THEORY-774: In a one-dimensional lattice hopping model with 2N+1 free hopping probabilities, all particles starting at the origin and the density after t steps observed with fixed Gaussian error, the Fisher metric is exactly t² times the distribution of the difference of two independent (t−1)-step walks, evaluated at the lag between the two hops, so it does not depend on the drift; when the walk is aperiodic with nonzero variance, its k-th largest eigenvalue is of order t^(3/2−k) for k = 0, …, 2N, so successive eigenvalues separate by a factor of order t
+# THEORY-774: Hopping-model Fisher eigenvalues split by factor t
 
 ## Source
 

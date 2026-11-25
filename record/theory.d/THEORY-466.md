@@ -3,7 +3,14 @@ number: 466
 status: Active
 formerly:
 - THEORY-tmp8lv8d
-title: "Among contestants of equal prowess with dangerous weapons, individual selection can favour conventional fighting backed by retaliation: an escalating Hawk is not evolutionarily stable, Retaliator is at most neutrally stable because Mouse ties it, and in a contest settled by persistence alone no fixed persistence is stable while an exponential mixture is"
+title: 'Hawk isn''t stable; conventional fighting can be'
+statement: >-
+  Among contestants of equal prowess with dangerous weapons, individual
+  selection can favour conventional fighting backed by retaliation: an
+  escalating Hawk is not evolutionarily stable, Retaliator is at most
+  neutrally stable because Mouse ties it, and in a contest settled by
+  persistence alone no fixed persistence is stable while an exponential
+  mixture is
 version: 2
 history:
 - version: 2
@@ -32,7 +39,7 @@ bears_on:
 
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation; cited for the hawk-dove contests it credits to Maynard Smith & Price -->
 
-# THEORY-466: Among contestants of equal prowess with dangerous weapons, individual selection can favour conventional fighting backed by retaliation: an escalating Hawk is not evolutionarily stable, Retaliator is at most neutrally stable because Mouse ties it, and in a contest settled by persistence alone no fixed persistence is stable while an exponential mixture is
+# THEORY-466: Hawk isn't stable; conventional fighting can be
 
 ## Source
 

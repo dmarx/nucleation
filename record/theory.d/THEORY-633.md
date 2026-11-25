@@ -15,7 +15,14 @@ promote_when: >-
   phenomenal judgments depend on something no topic-neutral mechanism
   supplies. Restating the Moorean conviction that we feel pain cannot
   settle it, since the account predicts exactly that conviction.
-title: "Experiences have no phenomenal properties: introspection represents physical, quasi-phenomenal properties of sensory states as phenomenal, so what needs explaining is why experiences seem to have phenomenal properties, not how a brain produces them; a weaker view that keeps a deflated phenomenal residue is unstable unless it can say what that residue is"
+title: 'Experiences have no phenomenal properties'
+statement: >-
+  Experiences have no phenomenal properties: introspection represents
+  physical, quasi-phenomenal properties of sensory states as phenomenal, so
+  what needs explaining is why experiences seem to have phenomenal
+  properties, not how a brain produces them; a weaker view that keeps a
+  deflated phenomenal residue is unstable unless it can say what that
+  residue is
 version: 2
 history:
 - version: 2
@@ -51,7 +58,7 @@ bounds:
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-101 THEORY-415 THEORY-563 THEORY-577 THEORY-694 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 
-# THEORY-633: Experiences have no phenomenal properties: introspection represents physical, quasi-phenomenal properties of sensory states as phenomenal, so what needs explaining is why experiences seem to have phenomenal properties, not how a brain produces them; a weaker view that keeps a deflated phenomenal residue is unstable unless it can say what that residue is
+# THEORY-633: Experiences have no phenomenal properties
 
 ## Source
 

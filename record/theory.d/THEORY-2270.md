@@ -11,7 +11,15 @@ promote_when: >-
   with the number of replicates stated. The criterion's part, that
   endogenization is what completes a transition, is interpretive and is
   not what would promote this; the model's result is.
-title: 'Bourrat proposes that collective properties imposed by an external ecological scaffold are only Darwinian-like, that a transition in individuality is complete only when internal mechanisms come to produce them so that they survive removal of the scaffold, and shows in an agent-based model that a pleiotropy coupling slow growth to staying on the patch keeps scaffolded collectives together after between-patch migration is reopened, for short propagule timescales and small patches'
+title: 'Transitions complete when scaffolds internalize'
+statement: >-
+  Bourrat proposes that collective properties imposed by an external
+  ecological scaffold are only Darwinian-like, that a transition in
+  individuality is complete only when internal mechanisms come to produce
+  them so that they survive removal of the scaffold, and shows in an
+  agent-based model that a pleiotropy coupling slow growth to staying on the
+  patch keeps scaffolded collectives together after between-patch migration
+  is reopened, for short propagule timescales and small patches
 version: 1
 source:
 - LIT-1927
@@ -33,7 +41,7 @@ summary: >-
   generations in place. The author calls the result preliminary.
 ---
 
-# THEORY-2270: Bourrat proposes that collective properties imposed by an external ecological scaffold are only Darwinian-like, that a transition in individuality is complete only when internal mechanisms come to produce them so that they survive removal of the scaffold, and shows in an agent-based model that a pleiotropy coupling slow growth to staying on the patch keeps scaffolded collectives together after between-patch migration is reopened, for short propagule timescales and small patches
+# THEORY-2270: Transitions complete when scaffolds internalize
 
 ## Source
 

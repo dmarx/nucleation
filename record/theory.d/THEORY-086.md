@@ -3,7 +3,13 @@ number: 86
 status: Active
 formerly:
 - THEORY-tmpo9r23
-title: 'In the kernel regime gradient descent fits the target eigenspace by eigenspace of the neural tangent kernel, at rates set by their eigenvalues; on uniform spherical data the eigenspaces are the harmonic degrees, and for fully connected ReLU networks the non-zero eigenvalues decay as k^(−d) at every depth'
+title: 'NTK fits eigenspaces at eigenvalue-set rates'
+statement: >-
+  In the kernel regime gradient descent fits the target eigenspace by
+  eigenspace of the neural tangent kernel, at rates set by their
+  eigenvalues; on uniform spherical data the eigenspaces are the harmonic
+  degrees, and for fully connected ReLU networks the non-zero eigenvalues
+  decay as k^(−d) at every depth
 version: 2
 history:
 - version: 2
@@ -38,7 +44,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-2174 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-084 THEORY-080 — Proposed; named in Connections, nothing here rests on them -->
 
-# THEORY-086: In the kernel regime gradient descent fits the target eigenspace by eigenspace of the neural tangent kernel, at rates set by their eigenvalues; on uniform spherical data the eigenspaces are the harmonic degrees, and for fully connected ReLU networks the non-zero eigenvalues decay as k^(−d) at every depth
+# THEORY-086: NTK fits eigenspaces at eigenvalue-set rates
 
 ## Source
 

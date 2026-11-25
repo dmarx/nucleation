@@ -11,7 +11,15 @@ promote_when: >-
   strictly optimal for some parameters; and the optimal audit is a
   threshold rule with a maximal punishment that is never imposed (outside
   the year-1 interval-rule case).
-title: 'Siemroth shows that when an agent privately knows its organization''s spending needs and gains from spending above them, a principal who commits in advance does weakly better by letting the agent roll over some share of unused funds than none, effective only when the share exceeds the agent''s marginal gain from misuse and sometimes best below full roll-over, while auditing only spending above a threshold under a punishment large enough that it is never imposed'
+title: 'Partial roll-over beats use-it-or-lose-it'
+statement: >-
+  Siemroth shows that when an agent privately knows its organization's
+  spending needs and gains from spending above them, a principal who commits
+  in advance does weakly better by letting the agent roll over some share of
+  unused funds than none, effective only when the share exceeds the agent's
+  marginal gain from misuse and sometimes best below full roll-over, while
+  auditing only spending above a threshold under a punishment large enough
+  that it is never imposed
 version: 1
 tags:
 - game-theory
@@ -30,7 +38,7 @@ summary: >-
   interval rule otherwise.
 ---
 
-# THEORY-1410: Siemroth shows that when an agent privately knows its organization's spending needs and gains from spending above them, a principal who commits in advance does weakly better by letting the agent roll over some share of unused funds than none, effective only when the share exceeds the agent's marginal gain from misuse and sometimes best below full roll-over, while auditing only spending above a threshold under a punishment large enough that it is never imposed
+# THEORY-1410: Partial roll-over beats use-it-or-lose-it
 
 ## Source
 

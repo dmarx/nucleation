@@ -12,7 +12,15 @@ promote_when: >-
   averaged network's features at some layer differ in direction or length
   from the interpolated or averaged features by as much as the endpoints'
   features differ from each other.
-title: 'Zhou, Chen, Chen, Zhang and Yan: networks fine-tuned on different tasks from one pretrained checkpoint, though not linearly connected in loss, have at the layers measured (MLPs and ResNet-18 on continual-learning splits, CLIP ViT-B/32 and ViT-L/14, T5-base) features at a weight interpolation approximately equal to the interpolation of their features, and averages of 5 or 10 ViT-B/32 fine-tunes have approximately the average of their members'' features'
+title: 'Fine-tunes from one start interpolate features'
+statement: >-
+  Zhou, Chen, Chen, Zhang and Yan: networks fine-tuned on different tasks
+  from one pretrained checkpoint, though not linearly connected in loss,
+  have at the layers measured (MLPs and ResNet-18 on continual-learning
+  splits, CLIP ViT-B/32 and ViT-L/14, T5-base) features at a weight
+  interpolation approximately equal to the interpolation of their features,
+  and averages of 5 or 10 ViT-B/32 fine-tunes have approximately the average
+  of their members' features
 version: 1
 tags:
 - loss-landscapes
@@ -42,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-498 THEORY-1892 THEORY-115 — new tmp codes, or Proposed; source, reading, the claim this corroborates and neighbouring accounts, named and not leaned on -->
 
-# THEORY-1890: Zhou, Chen, Chen, Zhang and Yan: networks fine-tuned on different tasks from one pretrained checkpoint, though not linearly connected in loss, have at the layers measured (MLPs and ResNet-18 on continual-learning splits, CLIP ViT-B/32 and ViT-L/14, T5-base) features at a weight interpolation approximately equal to the interpolation of their features, and averages of 5 or 10 ViT-B/32 fine-tunes have approximately the average of their members' features
+# THEORY-1890: Fine-tunes from one start interpolate features
 
 ## Source
 

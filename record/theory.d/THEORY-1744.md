@@ -3,7 +3,15 @@ number: 1744
 status: Proposed
 formerly:
 - THEORY-tmp8127k
-title: 'Salemi et al. report that, for LLM agents answering data-science questions over large file collections, a main agent that broadcasts requests to a blackboard and lets file-holding helper agents decide whether to respond outperforms a matched design in which the main agent assigns subtasks to named helpers, in end-to-end accuracy and in file-discovery F1, with the advantage growing with the size of the collection, at roughly 1.8× the per-question cost.'
+title: 'Blackboard broadcast beats assigning subtasks'
+statement: >-
+  Salemi et al. report that, for LLM agents answering data-science questions
+  over large file collections, a main agent that broadcasts requests to a
+  blackboard and lets file-holding helper agents decide whether to respond
+  outperforms a matched design in which the main agent assigns subtasks to
+  named helpers, in end-to-end accuracy and in file-discovery F1, with the
+  advantage growing with the size of the collection, at roughly 1.8× the
+  per-question cost.
 version: 1
 tags:
 - information-retrieval
@@ -24,7 +32,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1744: Salemi et al. report that, for LLM agents answering data-science questions over large file collections, a main agent that broadcasts requests to a blackboard and lets file-holding helper agents decide whether to respond outperforms a matched design in which the main agent assigns subtasks to named helpers, in end-to-end accuracy and in file-discovery F1, with the advantage growing with the size of the collection, at roughly 1.8× the per-question cost.
+# THEORY-1744: Blackboard broadcast beats assigning subtasks
 
 ## The account
 

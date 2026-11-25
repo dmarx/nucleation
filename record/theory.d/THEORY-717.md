@@ -3,7 +3,11 @@ number: 717
 status: Active
 formerly:
 - THEORY-tmp2m4ke
-title: 'For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix'
+title: 'More informative iff reproducible by garbling'
+statement: >-
+  For experiments with finitely many states and finitely many outcomes,
+  being at least as informative in every decision problem is the same as
+  being reproducible from the other by a Markov matrix
 version: 1
 history:
 - version: 1
@@ -37,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-778 — Unavailable; named as where the quantitative question lives, not read -->
 
-# THEORY-717: For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix
+# THEORY-717: More informative iff reproducible by garbling
 
 ## Source
 

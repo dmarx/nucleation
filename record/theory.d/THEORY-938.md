@@ -13,7 +13,13 @@ promote_when: >-
   application of Norman's theorems, or by a run of the unmodified process
   that stays interior. Results for other learning rules (with exploration,
   aspiration levels or softmax choice) neither promote nor refute it.
-title: 'Cross learning has the expected motion of the replicator dynamic and follows it on any finite horizon in the continuous-time limit, but for every learning speed the discrete process converges with probability one to a pure strategy profile, even in games where the replicator dynamic cycles'
+title: 'Cross learning converges to pure profiles'
+statement: >-
+  Cross learning has the expected motion of the replicator dynamic and
+  follows it on any finite horizon in the continuous-time limit, but for
+  every learning speed the discrete process converges with probability one
+  to a pure strategy profile, even in games where the replicator dynamic
+  cycles
 version: 1
 tags:
 - game-theory
@@ -32,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-905 CLAIM-446 — Proposed or new; the source and the accounts this bears on, named -->
 
-# THEORY-938: Cross learning has the expected motion of the replicator dynamic and follows it on any finite horizon in the continuous-time limit, but for every learning speed the discrete process converges with probability one to a pure strategy profile, even in games where the replicator dynamic cycles
+# THEORY-938: Cross learning converges to pure profiles
 
 ## Source
 

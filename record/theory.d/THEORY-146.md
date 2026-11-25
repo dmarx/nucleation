@@ -3,7 +3,16 @@ number: 146
 status: Active
 formerly:
 - THEORY-tmpm45lu
-title: 'In Holman and Bruner''s bandit model of honest Bayesian researchers whose beliefs funding cannot touch, who differ in method and whose influence and training of newcomers follow productivity, industry funding of those whose methods already favour its drug lowers, in the runs their figures report, the share of the community on the better treatment, and has no effect without methodological diversity; at the one setting reported, an independent funder that counts industry-funded trials toward its merit threshold lowers that share further, and one that excludes them raises it'
+title: 'Industry funding skews unbiased researchers'
+statement: >-
+  In Holman and Bruner's bandit model of honest Bayesian researchers whose
+  beliefs funding cannot touch, who differ in method and whose influence and
+  training of newcomers follow productivity, industry funding of those whose
+  methods already favour its drug lowers, in the runs their figures report,
+  the share of the community on the better treatment, and has no effect
+  without methodological diversity; at the one setting reported, an
+  independent funder that counts industry-funded trials toward its merit
+  threshold lowers that share further, and one that excludes them raises it
 version: 2
 history:
 - version: 2
@@ -41,7 +50,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-148 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 
-# THEORY-146: In Holman and Bruner's bandit model of honest Bayesian researchers whose beliefs funding cannot touch, who differ in method and whose influence and training of newcomers follow productivity, industry funding of those whose methods already favour its drug lowers, in the runs their figures report, the share of the community on the better treatment, and has no effect without methodological diversity; at the one setting reported, an independent funder that counts industry-funded trials toward its merit threshold lowers that share further, and one that excludes them raises it
+# THEORY-146: Industry funding skews unbiased researchers
 
 ## Source
 

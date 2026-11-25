@@ -3,7 +3,13 @@ number: 727
 status: Active
 formerly:
 - THEORY-tmpr7w9h
-title: 'For a fixed linear operator in an inner-product norm, growth over time t is the top singular value of the propagator, which the eigenvalues bound only from below; it starts at the numerical abscissa, which can be positive when every mode decays; and the forced response is bounded by the condition number of the eigenvectors over the distance to the spectrum'
+title: 'Transient growth exceeds what eigenvalues show'
+statement: >-
+  For a fixed linear operator in an inner-product norm, growth over time t
+  is the top singular value of the propagator, which the eigenvalues bound
+  only from below; it starts at the numerical abscissa, which can be
+  positive when every mode decays; and the forced response is bounded by the
+  condition number of the eigenvectors over the distance to the spectrum
 version: 2
 history:
 - version: 1
@@ -52,7 +58,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-323 THEORY-325 — Proposed; the account this was split from and its companions, cited as open -->
 
-# THEORY-727: For a fixed linear operator in an inner-product norm, growth over time t is the top singular value of the propagator, which the eigenvalues bound only from below; it starts at the numerical abscissa, which can be positive when every mode decays; and the forced response is bounded by the condition number of the eigenvectors over the distance to the spectrum
+# THEORY-727: Transient growth exceeds what eigenvalues show
 
 ## Source
 

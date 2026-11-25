@@ -3,7 +3,18 @@ number: 708
 status: Active
 formerly:
 - THEORY-tmpim3f9
-title: "The I_min redundancy credits two independent sources with shared information whenever each reduces surprise about the same target outcomes, so it gives two independent bits copied into the target 1 bit of redundancy; a bivariate redundancy built from reverse information projections, each source's information less what is lost when its posteriors are replaced by mixtures of the other's, satisfies symmetry, self-redundancy, monotonicity and the identity property, gives a nonnegative decomposition, and agrees with I_min on XOR, AND and their compositions but can reverse the state-independent/state-dependent split of a transfer entropy"
+title: 'I_min overcounts redundancy of independent bits'
+statement: >-
+  The I_min redundancy credits two independent sources with shared
+  information whenever each reduces surprise about the same target outcomes,
+  so it gives two independent bits copied into the target 1 bit of
+  redundancy; a bivariate redundancy built from reverse information
+  projections, each source's information less what is lost when its
+  posteriors are replaced by mixtures of the other's, satisfies symmetry,
+  self-redundancy, monotonicity and the identity property, gives a
+  nonnegative decomposition, and agrees with I_min on XOR, AND and their
+  compositions but can reverse the state-independent/state-dependent split
+  of a transfer entropy
 version: 3
 history:
 - version: 2
@@ -40,7 +51,7 @@ bears_on:
 - QUESTION-223
 ---
 
-# THEORY-708: The I_min redundancy credits two independent sources with shared information whenever each reduces surprise about the same target outcomes, so it gives two independent bits copied into the target 1 bit of redundancy; a bivariate redundancy built from reverse information projections, each source's information less what is lost when its posteriors are replaced by mixtures of the other's, satisfies symmetry, self-redundancy, monotonicity and the identity property, gives a nonnegative decomposition, and agrees with I_min on XOR, AND and their compositions but can reverse the state-independent/state-dependent split of a transfer entropy
+# THEORY-708: I_min overcounts redundancy of independent bits
 
 ## Source
 

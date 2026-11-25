@@ -10,7 +10,14 @@ promote_when: >-
   11) and held the words substantially true in the meaning it found. The
   title reports what the court found; whether the court was right is not
   asserted and not asked.
-title: 'The High Court found, on the balance of probabilities and incident by incident, that 12 of the 14 assaults pleaded against Mr Depp were proved, all but Incidents 6 and 11, and held The Sun''s words substantially true in the meaning that he had committed physical violence against Ms Heard, causing significant injury and on occasion leading her to fear for her life'
+title: 'Court found 12 of 14 Depp assaults proved'
+statement: >-
+  The High Court found, on the balance of probabilities and incident by
+  incident, that 12 of the 14 assaults pleaded against Mr Depp were proved,
+  all but Incidents 6 and 11, and held The Sun's words substantially true in
+  the meaning that he had committed physical violence against Ms Heard,
+  causing significant injury and on occasion leading her to fear for her
+  life
 version: 1
 tags:
 - society-and-governance
@@ -28,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-279 CLAIM-709 — Proposed; cited with their standing, entries this reading bears on or files -->
 
-# THEORY-1969: The High Court found, on the balance of probabilities and incident by incident, that 12 of the 14 assaults pleaded against Mr Depp were proved, all but Incidents 6 and 11, and held The Sun's words substantially true in the meaning that he had committed physical violence against Ms Heard, causing significant injury and on occasion leading her to fear for her life
+# THEORY-1969: Court found 12 of 14 Depp assaults proved
 
 Depp II v News Group Newspapers Ltd & Anor [2020] EWHC 2911 (QB), Nicol J,
 [LIT-2754](../literature.d/LIT-2754.md).

@@ -9,7 +9,13 @@ promote_when: >-
   during avoidance extinction at a conventional significance level, in a
   confirmatory test, while US expectancy ratings taken after the
   instruction do not differ between instruction groups.
-title: 'Sridhar, Biagi and Wake report that a brief instruction to withhold avoidance in order to test one''s threat expectancy left US expectancy and skin conductance unchanged, and propose that it reduced avoidance in more socially anxious people, a reduction their own tests give only as a non-significant exploratory trend'
+title: 'Withholding avoidance didn''t change expectancy'
+statement: >-
+  Sridhar, Biagi and Wake report that a brief instruction to withhold
+  avoidance in order to test one's threat expectancy left US expectancy and
+  skin conductance unchanged, and propose that it reduced avoidance in more
+  socially anxious people, a reduction their own tests give only as a
+  non-significant exploratory trend
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -25,7 +31,7 @@ summary: >-
   is shown confirmatorily.
 ---
 
-# THEORY-2210: Sridhar, Biagi and Wake report that a brief instruction to withhold avoidance in order to test one's threat expectancy left US expectancy and skin conductance unchanged, and propose that it reduced avoidance in more socially anxious people, a reduction their own tests give only as a non-significant exploratory trend
+# THEORY-2210: Withholding avoidance didn't change expectancy
 
 ## Source
 

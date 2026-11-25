@@ -3,7 +3,13 @@ number: 197
 status: Active
 formerly:
 - THEORY-tmp1hbbz
-title: 'Mehta and Schwab''s correspondence between Kadanoff''s variational renormalization group and restricted Boltzmann machines is an identity of parametrizations, under which an exact RG step is a perfect fit of the data distribution; away from that point it does not make training by distribution fitting a renormalization'
+title: 'RBM training is RG only at a perfect fit'
+statement: >-
+  Mehta and Schwab's correspondence between Kadanoff's variational
+  renormalization group and restricted Boltzmann machines is an identity of
+  parametrizations, under which an exact RG step is a perfect fit of the
+  data distribution; away from that point it does not make training by
+  distribution fitting a renormalization
 version: 4
 history:
 - version: 2
@@ -55,7 +61,7 @@ answers:
 - QUESTION-294
 ---
 
-# THEORY-197: Mehta and Schwab's correspondence between Kadanoff's variational renormalization group and restricted Boltzmann machines is an identity of parametrizations, under which an exact RG step is a perfect fit of the data distribution; away from that point it does not make training by distribution fitting a renormalization
+# THEORY-197: RBM training is RG only at a perfect fit
 
 ## Source
 

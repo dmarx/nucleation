@@ -13,7 +13,12 @@ promote_when: >-
   improves. The first kind promotes the representational half; only the
   second can bear on whether sharing in this form helps. A further count
   of incidents ingested cannot settle either.
-title: 'Disinformation incidents carried in STIX 2.1 as the DISINFOX mapping carries them are an interoperable representation that survives exchange between organisations, and sharing them in this form improves analysts'' correlation and exposure of incidents and their reuse of labels'
+title: 'STIX-mapped disinformation incidents interoperate'
+statement: >-
+  Disinformation incidents carried in STIX 2.1 as the DISINFOX mapping
+  carries them are an interoperable representation that survives exchange
+  between organisations, and sharing them in this form improves analysts'
+  correlation and exposure of incidents and their reuse of labels
 version: 1
 tags:
 - society-and-governance
@@ -32,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-083 — Proposed; the preprint this thesis comes from, read in full in NOTE-028 -->
 
-# THEORY-1238: Disinformation incidents carried in STIX 2.1 as the DISINFOX mapping carries them are an interoperable representation that survives exchange between organisations, and sharing them in this form improves analysts' correlation and exposure of incidents and their reuse of labels
+# THEORY-1238: STIX-mapped disinformation incidents interoperate
 
 ## Source
 

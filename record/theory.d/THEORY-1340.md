@@ -3,7 +3,18 @@ number: 1340
 status: Active
 formerly:
 - THEORY-tmpt161r
-title: 'Juarrero reads the delayed-response studies of Churchland, Shenoy and colleagues and of Mante, Sussillo and colleagues, as she reports them, as showing that training forms a task-defined, low-dimensional subregion of motor, premotor and prefrontal population activity (a preparatory subspace whose end state predicts reaction time and movement; an axis of choice organized as a line attractor) that acts as top-down governing constraints on a monkey''s delayed response while the trial''s cue and evidence select within it, and suggests that the axis of choice might be considered the neural correlate of a prior intention and the selection vector, found in a simulation, that of a proximate intention'
+title: 'Task-trained neural subspaces govern from above'
+statement: >-
+  Juarrero reads the delayed-response studies of Churchland, Shenoy and
+  colleagues and of Mante, Sussillo and colleagues, as she reports them, as
+  showing that training forms a task-defined, low-dimensional subregion of
+  motor, premotor and prefrontal population activity (a preparatory subspace
+  whose end state predicts reaction time and movement; an axis of choice
+  organized as a line attractor) that acts as top-down governing constraints
+  on a monkey's delayed response while the trial's cue and evidence select
+  within it, and suggests that the axis of choice might be considered the
+  neural correlate of a prior intention and the selection vector, found in a
+  simulation, that of a proximate intention
 version: 2
 history:
 - version: 2
@@ -58,7 +69,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1314 THEORY-1559 — Proposed or new; the entry it bears on and the wide form that extends it, cited as open -->
 
-# THEORY-1340: Juarrero reads the delayed-response studies of Churchland, Shenoy and colleagues and of Mante, Sussillo and colleagues, as she reports them, as showing that training forms a task-defined, low-dimensional subregion of motor, premotor and prefrontal population activity (a preparatory subspace whose end state predicts reaction time and movement; an axis of choice organized as a line attractor) that acts as top-down governing constraints on a monkey's delayed response while the trial's cue and evidence select within it, and suggests that the axis of choice might be considered the neural correlate of a prior intention and the selection vector, found in a simulation, that of a proximate intention
+# THEORY-1340: Task-trained neural subspaces govern from above
 
 ## Source
 

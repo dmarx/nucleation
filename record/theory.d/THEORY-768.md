@@ -23,7 +23,11 @@ promote_when: >-
   intact but unused during the illusion. A walking-back drift does not
   by itself measure self-location: the hand drift it is modelled on
   arises from vision alone (THEORY-766).
-title: "Minimal selfhood is identification with the whole body, located where that body is felt to be and seen from inside it; owning a body part does not reach it, and bodily agency enables it causally without being part of it"
+title: 'Minimal self is whole-body identification'
+statement: >-
+  Minimal selfhood is identification with the whole body, located where that
+  body is felt to be and seen from inside it; owning a body part does not
+  reach it, and bodily agency enables it causally without being part of it
 version: 2
 history:
 - version: 2
@@ -57,7 +61,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-064 THEORY-458 — Proposed; accounts this one is compared with, not leaned on -->
 <!-- inactive-ok-file: LIT-1186 — Unavailable; the attempted out-of-body study, named for the line it would need, not leaned on -->
 
-# THEORY-768: Minimal selfhood is identification with the whole body, located where that body is felt to be and seen from inside it; owning a body part does not reach it, and bodily agency enables it causally without being part of it
+# THEORY-768: Minimal self is whole-body identification
 
 ## Source
 

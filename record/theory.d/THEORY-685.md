@@ -3,7 +3,13 @@ number: 685
 status: Active
 formerly:
 - THEORY-tmpyi9lt
-title: "The Mizohata–Takeuchi conjecture fails for every compact C² hypersurface with a point of non-zero curvature: for each large R a function and a weight violate it by a factor of order log R, which refutes Stein's conjecture as stated and closes the Mizohata–Takeuchi route to loss-free endpoint multilinear restriction"
+title: 'Mizohata–Takeuchi conjecture is false'
+statement: >-
+  The Mizohata–Takeuchi conjecture fails for every compact C² hypersurface
+  with a point of non-zero curvature: for each large R a function and a
+  weight violate it by a factor of order log R, which refutes Stein's
+  conjecture as stated and closes the Mizohata–Takeuchi route to loss-free
+  endpoint multilinear restriction
 version: 1
 tags:
 - mathematics
@@ -22,7 +28,7 @@ summary: >-
   surfaces, per the abstract of a later paper.
 ---
 
-# THEORY-685: The Mizohata–Takeuchi conjecture fails for every compact C² hypersurface with a point of non-zero curvature: for each large R a function and a weight violate it by a factor of order log R, which refutes Stein's conjecture as stated and closes the Mizohata–Takeuchi route to loss-free endpoint multilinear restriction
+# THEORY-685: Mizohata–Takeuchi conjecture is false
 
 ## Source
 

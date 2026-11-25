@@ -10,7 +10,14 @@ promote_when: >-
   reliability secured instead by perspectives intersecting and
   interlacing, shown in its case studies; and that what is so known is
   modally robust phenomena, real without hidden essences.
-title: 'Massimi (2023, summarizing her 2022 book) holds that scientific knowledge is situated in the practices of historically and culturally placed epistemic communities and is still realist knowledge, because no community can certify its own claims by its own lights and reliability comes from many perspectives intersecting and interlacing over time, the reality so known being modally robust phenomena rather than hidden essences'
+title: 'Situated knowledge can still be realist'
+statement: >-
+  Massimi (2023, summarizing her 2022 book) holds that scientific knowledge
+  is situated in the practices of historically and culturally placed
+  epistemic communities and is still realist knowledge, because no community
+  can certify its own claims by its own lights and reliability comes from
+  many perspectives intersecting and interlacing over time, the reality so
+  known being modally robust phenomena rather than hidden essences
 version: 1
 tags:
 - philosophy-of-science
@@ -31,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1228 — Unfetched; the book the primer summarizes -->
 
-# THEORY-2274: Massimi (2023, summarizing her 2022 book) holds that scientific knowledge is situated in the practices of historically and culturally placed epistemic communities and is still realist knowledge, because no community can certify its own claims by its own lights and reliability comes from many perspectives intersecting and interlacing over time, the reality so known being modally robust phenomena rather than hidden essences
+# THEORY-2274: Situated knowledge can still be realist
 
 ## Source
 

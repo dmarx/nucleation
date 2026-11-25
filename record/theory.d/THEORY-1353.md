@@ -13,7 +13,15 @@ promote_when: >-
   learnability of a withheld capability where doubling its data
   concentration and a value-only re-initialization do not. Failure of any
   one refutes that clause.
-title: 'In transformer language models to about 1B parameters, a conjunction circuit forms when its last missing parts align together in one stochastic attempt, with no credit for partial alignment, so its formation time depends on how many parts are missing and not on its size, and ablating one part collapses the capability; plasticity loss is the same law read backward, a depletion of uncommitted attention heads that more data cannot undo and re-initializing query–key weights can'
+title: 'Circuits form when last parts align at once'
+statement: >-
+  In transformer language models to about 1B parameters, a conjunction
+  circuit forms when its last missing parts align together in one stochastic
+  attempt, with no credit for partial alignment, so its formation time
+  depends on how many parts are missing and not on its size, and ablating
+  one part collapses the capability; plasticity loss is the same law read
+  backward, a depletion of uncommitted attention heads that more data cannot
+  undo and re-initializing query–key weights can
 version: 1
 tags:
 - learning-theory
@@ -39,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2015 THEORY-2027 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-1353: In transformer language models to about 1B parameters, a conjunction circuit forms when its last missing parts align together in one stochastic attempt, with no credit for partial alignment, so its formation time depends on how many parts are missing and not on its size, and ablating one part collapses the capability; plasticity loss is the same law read backward, a depletion of uncommitted attention heads that more data cannot undo and re-initializing query–key weights can
+# THEORY-1353: Circuits form when last parts align at once
 
 ## Source
 

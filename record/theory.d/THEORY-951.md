@@ -3,7 +3,19 @@ number: 951
 status: Active
 formerly:
 - THEORY-tmpda363
-title: 'For independent identically distributed observations, and neglecting how far the log-likelihood-ratio walk overshoots its boundaries, Wald''s sequential probability ratio test accepts the null hypothesis with probability (A^h − 1)/(A^h − B^h), where h ≠ 0 solves E e^{hz} = 1, and takes on average [(1 − γ) log B + γ log A]/E z observations; no sequential test with the same error probabilities needs fewer on average under either hypothesis than Wald''s lower bounds, which the test attains when the overshoot is zero, and for a normal mean it saves 47–63% of the fixed-sample test''s observations at error rates from .01 to .05; the overshoot-free formulas are exact for Brownian motion with drift, which the paper never mentions'
+title: 'SPRT saves about half of fixed-sample size'
+statement: >-
+  For independent identically distributed observations, and neglecting how
+  far the log-likelihood-ratio walk overshoots its boundaries, Wald's
+  sequential probability ratio test accepts the null hypothesis with
+  probability (A^h − 1)/(A^h − B^h), where h ≠ 0 solves E e^{hz} = 1, and
+  takes on average [(1 − γ) log B + γ log A]/E z observations; no sequential
+  test with the same error probabilities needs fewer on average under either
+  hypothesis than Wald's lower bounds, which the test attains when the
+  overshoot is zero, and for a normal mean it saves 47–63% of the
+  fixed-sample test's observations at error rates from .01 to .05; the
+  overshoot-free formulas are exact for Brownian motion with drift, which
+  the paper never mentions
 version: 1
 history:
 - version: 1
@@ -32,7 +44,7 @@ summary: >-
   takes from Bogacz et al. ([LIT-569](../literature.d/LIT-569.md), [THEORY-068](THEORY-068.md)) is not stated by Wald. It
   is the case in which his approximations become exact.
 ---
-# THEORY-951: For independent identically distributed observations, and neglecting how far the log-likelihood-ratio walk overshoots its boundaries, Wald's sequential probability ratio test accepts the null hypothesis with probability (A^h − 1)/(A^h − B^h), where h ≠ 0 solves E e^{hz} = 1, and takes on average [(1 − γ) log B + γ log A]/E z observations; no sequential test with the same error probabilities needs fewer on average under either hypothesis than Wald's lower bounds, which the test attains when the overshoot is zero, and for a normal mean it saves 47–63% of the fixed-sample test's observations at error rates from .01 to .05; the overshoot-free formulas are exact for Brownian motion with drift, which the paper never mentions
+# THEORY-951: SPRT saves about half of fixed-sample size
 
 ## Source
 

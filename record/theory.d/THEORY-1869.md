@@ -12,7 +12,14 @@ promote_when: >-
   wherever the 2d vortex problem has a minimizer ordered by charge, which
   holds at λ = 1 and for large λ. Whether such strings are physical
   (cosmic strings) is not asserted and not asked.
-title: 'In the abelian Higgs model a thin vortex line follows a Nambu–Goto string: for a timelike minimal surface with zero initial velocity there are solutions whose energy concentrates near it and that stay close to the Nielsen–Olesen vortex across it, for a finite time, wherever the two-dimensional vortex problem has a minimizer ordered by charge, which is known at critical coupling and for large coupling'
+title: 'Thin Higgs vortices follow Nambu–Goto strings'
+statement: >-
+  In the abelian Higgs model a thin vortex line follows a Nambu–Goto string:
+  for a timelike minimal surface with zero initial velocity there are
+  solutions whose energy concentrates near it and that stay close to the
+  Nielsen–Olesen vortex across it, for a finite time, wherever the
+  two-dimensional vortex problem has a minimizer ordered by charge, which is
+  known at critical coupling and for large coupling
 version: 1
 tags:
 - mathematics
@@ -33,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2613 — Unavailable; the work this stands in for -->
 
-# THEORY-1869: In the abelian Higgs model a thin vortex line follows a Nambu–Goto string: for a timelike minimal surface with zero initial velocity there are solutions whose energy concentrates near it and that stay close to the Nielsen–Olesen vortex across it, for a finite time, wherever the two-dimensional vortex problem has a minimizer ordered by charge, which is known at critical coupling and for large coupling
+# THEORY-1869: Thin Higgs vortices follow Nambu–Goto strings
 
 Czubak & Jerrard (2012), [LIT-2610](../literature.d/LIT-2610.md).
 

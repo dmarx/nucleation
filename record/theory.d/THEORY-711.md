@@ -3,7 +3,15 @@ number: 711
 status: Active
 formerly:
 - THEORY-tmppkvwa
-title: "Directed information from an input sequence to an output sequence, the sum over time of the information the inputs up to now carry about the current output given the past outputs, is at most their mutual information and equal to it when the channel is used without feedback; in a causal system it bounds what the output reveals about the source, so feedback cannot raise a memoryless channel's capacity; and the usual definition of a memoryless channel holds only without feedback"
+title: 'Feedback can''t raise memoryless capacity'
+statement: >-
+  Directed information from an input sequence to an output sequence, the sum
+  over time of the information the inputs up to now carry about the current
+  output given the past outputs, is at most their mutual information and
+  equal to it when the channel is used without feedback; in a causal system
+  it bounds what the output reveals about the source, so feedback cannot
+  raise a memoryless channel's capacity; and the usual definition of a
+  memoryless channel holds only without feedback
 version: 1
 tags:
 - information-theory
@@ -19,7 +27,7 @@ summary: >-
   transfer entropy plus instantaneous terms is the record's derivation.
 ---
 
-# THEORY-711: Directed information from an input sequence to an output sequence, the sum over time of the information the inputs up to now carry about the current output given the past outputs, is at most their mutual information and equal to it when the channel is used without feedback; in a causal system it bounds what the output reveals about the source, so feedback cannot raise a memoryless channel's capacity; and the usual definition of a memoryless channel holds only without feedback
+# THEORY-711: Feedback can't raise memoryless capacity
 
 ## Source
 

@@ -3,7 +3,18 @@ number: 955
 status: Active
 formerly:
 - THEORY-tmpg6v1v
-title: 'On 480 sets of two to five public LoRAs on two Stable Diffusion 1.5 checkpoints, GPT-4V''s paired judgements, averaged over both presentation orders and three seeds, scored giving each LoRA its own denoising steps in rotation (LoRA Switch) and averaging every LoRA''s guided noise prediction at every step (LoRA Composite) above merging the LoRAs'' weights at 0.8 each, at every number of LoRAs, the composition gap growing from 0.04–0.11 points of 10 at two LoRAs to 0.92–1.32 at five as merging fell from about 8.7 to 5.2; two annotators rating 120 images agreed in direction; the design does not separate composing at sampling time from the merged update''s scale growing with the number of LoRAs'
+title: 'Sampling-time LoRA composition beats merging'
+statement: >-
+  On 480 sets of two to five public LoRAs on two Stable Diffusion 1.5
+  checkpoints, GPT-4V's paired judgements, averaged over both presentation
+  orders and three seeds, scored giving each LoRA its own denoising steps in
+  rotation (LoRA Switch) and averaging every LoRA's guided noise prediction
+  at every step (LoRA Composite) above merging the LoRAs' weights at 0.8
+  each, at every number of LoRAs, the composition gap growing from 0.04–0.11
+  points of 10 at two LoRAs to 0.92–1.32 at five as merging fell from about
+  8.7 to 5.2; two annotators rating 120 images agreed in direction; the
+  design does not separate composing at sampling time from the merged
+  update's scale growing with the number of LoRAs
 version: 1
 history:
 - version: 1
@@ -28,7 +39,7 @@ summary: >-
   adapter's scale.
 ---
 
-# THEORY-955: On 480 sets of two to five public LoRAs on two Stable Diffusion 1.5 checkpoints, GPT-4V's paired judgements, averaged over both presentation orders and three seeds, scored giving each LoRA its own denoising steps in rotation (LoRA Switch) and averaging every LoRA's guided noise prediction at every step (LoRA Composite) above merging the LoRAs' weights at 0.8 each, at every number of LoRAs, the composition gap growing from 0.04–0.11 points of 10 at two LoRAs to 0.92–1.32 at five as merging fell from about 8.7 to 5.2; two annotators rating 120 images agreed in direction; the design does not separate composing at sampling time from the merged update's scale growing with the number of LoRAs
+# THEORY-955: Sampling-time LoRA composition beats merging
 
 ## Source
 

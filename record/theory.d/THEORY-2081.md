@@ -3,7 +3,15 @@ number: 2081
 status: Proposed
 formerly:
 - THEORY-tmpsewbi
-title: 'Stern and colleagues find that in transformers below one billion parameters, spending a share of a fixed compute budget on a first phase of formal-language, cellular-automaton, synthetic or code data never lowers natural-language validation loss below spending it all on natural language, that earlier reported gains shrink when the baseline is better initialized, and that what the first phase taught is overwritten at the switch unless the data are interleaved'
+title: 'Formal first phase never beats all-language'
+statement: >-
+  Stern and colleagues find that in transformers below one billion
+  parameters, spending a share of a fixed compute budget on a first phase of
+  formal-language, cellular-automaton, synthetic or code data never lowers
+  natural-language validation loss below spending it all on natural
+  language, that earlier reported gains shrink when the baseline is better
+  initialized, and that what the first phase taught is overwritten at the
+  switch unless the data are interleaved
 version: 1
 source:
 - LIT-2864
@@ -25,7 +33,7 @@ summary: >-
   negatively at these scales. Proposed until its promote_when is met.
 ---
 
-# THEORY-2081: Stern and colleagues find that in transformers below one billion parameters, spending a share of a fixed compute budget on a first phase of formal-language, cellular-automaton, synthetic or code data never lowers natural-language validation loss below spending it all on natural language, that earlier reported gains shrink when the baseline is better initialized, and that what the first phase taught is overwritten at the switch unless the data are interleaved
+# THEORY-2081: Formal first phase never beats all-language
 
 ## The account
 

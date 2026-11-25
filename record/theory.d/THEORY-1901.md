@@ -13,7 +13,14 @@ promote_when: >-
   average held-out accuracy ahead by more than seed variation. A test of
   whether overlap causes merge loss would bear on the paper's reading,
   not on the title.
-title: 'CLIP image encoders fine-tuned on different domains of one classification task have more overlapping task-matrix singular subspaces than encoders fine-tuned on different tasks, and a data-free merge that projects each task matrix into a shared orthogonal basis and trims outlying off-diagonal couplings generalized to a held-out domain slightly better on average than TIES and TSV across eight benchmarks'
+title: 'Domain fine-tunes share more singular subspace'
+statement: >-
+  CLIP image encoders fine-tuned on different domains of one classification
+  task have more overlapping task-matrix singular subspaces than encoders
+  fine-tuned on different tasks, and a data-free merge that projects each
+  task matrix into a shared orthogonal basis and trims outlying off-diagonal
+  couplings generalized to a held-out domain slightly better on average than
+  TIES and TSV across eight benchmarks
 version: 1
 tags:
 - loss-landscapes
@@ -33,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-107 — Proposed; the coordinate account whose notion of conflict this one differs from -->
 
-# THEORY-1901: CLIP image encoders fine-tuned on different domains of one classification task have more overlapping task-matrix singular subspaces than encoders fine-tuned on different tasks, and a data-free merge that projects each task matrix into a shared orthogonal basis and trims outlying off-diagonal couplings generalized to a held-out domain slightly better on average than TIES and TSV across eight benchmarks
+# THEORY-1901: Domain fine-tunes share more singular subspace
 
 ## Source
 

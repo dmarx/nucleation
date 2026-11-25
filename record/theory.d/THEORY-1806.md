@@ -3,7 +3,14 @@ number: 1806
 status: Proposed
 formerly:
 - THEORY-tmpx4v17
-title: 'The W3C''s PROV-O (Lebo, Sahoo and McGuinness, eds., 2013) represents provenance as entities, activities and agents linked by generation, use, derivation, revision, quotation, attribution and invalidation, with bundles allowing provenance of provenance, and provides no terms for a statement''s evidential support or current standing, leaving those to domain extensions'
+title: 'PROV-O has no terms for evidential standing'
+statement: >-
+  The W3C's PROV-O (Lebo, Sahoo and McGuinness, eds., 2013) represents
+  provenance as entities, activities and agents linked by generation, use,
+  derivation, revision, quotation, attribution and invalidation, with
+  bundles allowing provenance of provenance, and provides no terms for a
+  statement's evidential support or current standing, leaving those to
+  domain extensions
 version: 1
 tags:
 - databases
@@ -25,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1859 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# THEORY-1806: The W3C's PROV-O (Lebo, Sahoo and McGuinness, eds., 2013) represents provenance as entities, activities and agents linked by generation, use, derivation, revision, quotation, attribution and invalidation, with bundles allowing provenance of provenance, and provides no terms for a statement's evidential support or current standing, leaving those to domain extensions
+# THEORY-1806: PROV-O has no terms for evidential standing
 
 ## The account
 

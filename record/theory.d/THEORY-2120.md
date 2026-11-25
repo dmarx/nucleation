@@ -3,7 +3,14 @@ number: 2120
 status: Proposed
 formerly:
 - THEORY-tmpqxwyk
-title: 'Schelling holds that people who must coordinate without communicating can often do far better than chance by converging on a focal point that their shared situation makes prominent and unique, and that the same convergence of mutual expectations on conspicuous terms such as equal splits, round numbers, precedent and natural boundaries settles where explicit bargains and tacit limits in war come to rest, even against one party''s interest'
+title: 'Focal points let people coordinate tacitly'
+statement: >-
+  Schelling holds that people who must coordinate without communicating can
+  often do far better than chance by converging on a focal point that their
+  shared situation makes prominent and unique, and that the same convergence
+  of mutual expectations on conspicuous terms such as equal splits, round
+  numbers, precedent and natural boundaries settles where explicit bargains
+  and tacit limits in war come to rest, even against one party's interest
 version: 1
 source:
 - LIT-2894
@@ -26,7 +33,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2120: Schelling holds that people who must coordinate without communicating can often do far better than chance by converging on a focal point that their shared situation makes prominent and unique, and that the same convergence of mutual expectations on conspicuous terms such as equal splits, round numbers, precedent and natural boundaries settles where explicit bargains and tacit limits in war come to rest, even against one party's interest
+# THEORY-2120: Focal points let people coordinate tacitly
 
 ## The account
 

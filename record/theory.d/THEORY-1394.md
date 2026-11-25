@@ -3,7 +3,13 @@ number: 1394
 status: Active
 formerly:
 - THEORY-tmph4325
-title: "Larson and Odoni's hypercube model represents an urban emergency service's N distinguishable units, each busy or free, as a Markov chain on the vertices of an N-cube under fixed-preference dispatch from point sources of Poisson calls, and from its steady state computes each unit's workload, the inter-district dispatch fractions and the mean travel times"
+title: 'Hypercube Markov chain models busy units'
+statement: >-
+  Larson and Odoni's hypercube model represents an urban emergency service's
+  N distinguishable units, each busy or free, as a Markov chain on the
+  vertices of an N-cube under fixed-preference dispatch from point sources
+  of Poisson calls, and from its steady state computes each unit's workload,
+  the inter-district dispatch fractions and the mean travel times
 version: 3
 history:
 - version: 2
@@ -58,7 +64,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: LIT-2105 — Unavailable; the unread original this account restates, cited as open -->
 
-# THEORY-1394: Larson and Odoni's hypercube model represents an urban emergency service's N distinguishable units, each busy or free, as a Markov chain on the vertices of an N-cube under fixed-preference dispatch from point sources of Poisson calls, and from its steady state computes each unit's workload, the inter-district dispatch fractions and the mean travel times
+# THEORY-1394: Hypercube Markov chain models busy units
 
 ## Source
 

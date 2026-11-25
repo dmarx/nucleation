@@ -3,7 +3,11 @@ number: 435
 status: Active
 formerly:
 - THEORY-tmp4dj55
-title: "In Moral Foundations Questionnaire responses, Care and Fairness are endorsed across the political spectrum, while Loyalty, Authority and Sanctity rise toward the conservative end, in every world region sampled"
+title: 'Care and Fairness are endorsed across politics'
+statement: >-
+  In Moral Foundations Questionnaire responses, Care and Fairness are
+  endorsed across the political spectrum, while Loyalty, Authority and
+  Sanctity rise toward the conservative end, in every world region sampled
 version: 1
 tags:
 - moral-psychology
@@ -22,7 +26,7 @@ summary: >-
   invariance in the MFQ-2.
 ---
 
-# THEORY-435: In Moral Foundations Questionnaire responses, Care and Fairness are endorsed across the political spectrum, while Loyalty, Authority and Sanctity rise toward the conservative end, in every world region sampled
+# THEORY-435: Care and Fairness are endorsed across politics
 
 ## Source
 

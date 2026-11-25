@@ -3,7 +3,16 @@ number: 972
 status: Active
 formerly:
 - THEORY-tmp7wy54
-title: 'In the author–topic model the likelihood of a corpus depends on the topics Φ and the authors'' topic distributions Θ only through the document–word matrix ΦΘA, A being fixed by the observed authorship, so LDA (each document its own author) and the topic-free author model (each author one topic) are special cases; and the likelihood leaves Φ and Θ unidentified not only up to the permutations of topics the paper names but along a continuum of changes of topic basis whenever every topic gives every word positive probability'
+title: 'Author–topic likelihood is unidentified in basis'
+statement: >-
+  In the author–topic model the likelihood of a corpus depends on the topics
+  Φ and the authors' topic distributions Θ only through the document–word
+  matrix ΦΘA, A being fixed by the observed authorship, so LDA (each
+  document its own author) and the topic-free author model (each author one
+  topic) are special cases; and the likelihood leaves Φ and Θ unidentified
+  not only up to the permutations of topics the paper names but along a
+  continuum of changes of topic basis whenever every topic gives every word
+  positive probability
 version: 2
 history:
 - version: 1
@@ -47,7 +56,7 @@ corroborates:
 - CLAIM-148
 ---
 
-# THEORY-972: In the author–topic model the likelihood of a corpus depends on the topics Φ and the authors' topic distributions Θ only through the document–word matrix ΦΘA, A being fixed by the observed authorship, so LDA (each document its own author) and the topic-free author model (each author one topic) are special cases; and the likelihood leaves Φ and Θ unidentified not only up to the permutations of topics the paper names but along a continuum of changes of topic basis whenever every topic gives every word positive probability
+# THEORY-972: Author–topic likelihood is unidentified in basis
 
 ## Source
 

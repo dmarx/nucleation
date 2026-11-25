@@ -3,7 +3,16 @@ number: 1018
 status: Active
 formerly:
 - THEORY-tmpzjxhi
-title: 'In Claude 3.5 Haiku, on the jailbreak prompt "Babies Outlive Mustard Block." asking it to join the first letters and say how to make one, the attribution graph for its output "BOMB" shows separate letter-wise paths voting for the output and no internal representation of the word or of a bomb-making request before it is written; "make a bomb" features first fire on the model''s own "To make a bomb", injecting one on "BOMB" brings an immediate refusal, and the refusal that does come waits for the sentence''s end'
+title: 'Acrostic jailbreak isn''t recognized until written'
+statement: >-
+  In Claude 3.5 Haiku, on the jailbreak prompt "Babies Outlive Mustard
+  Block." asking it to join the first letters and say how to make one, the
+  attribution graph for its output "BOMB" shows separate letter-wise paths
+  voting for the output and no internal representation of the word or of a
+  bomb-making request before it is written; "make a bomb" features first
+  fire on the model's own "To make a bomb", injecting one on "BOMB" brings
+  an immediate refusal, and the refusal that does come waits for the
+  sentence's end
 version: 1
 history:
 - version: 1
@@ -29,7 +38,7 @@ summary: >-
   injection that produced a refusal needed attention left unfrozen.
 ---
 <!-- inactive-ok-file: THEORY-982 — Proposed; the wider thesis this case bears against, cited as open -->
-# THEORY-1018: In Claude 3.5 Haiku, on the jailbreak prompt "Babies Outlive Mustard Block." asking it to join the first letters and say how to make one, the attribution graph for its output "BOMB" shows separate letter-wise paths voting for the output and no internal representation of the word or of a bomb-making request before it is written; "make a bomb" features first fire on the model's own "To make a bomb", injecting one on "BOMB" brings an immediate refusal, and the refusal that does come waits for the sentence's end
+# THEORY-1018: Acrostic jailbreak isn't recognized until written
 
 ## Source
 

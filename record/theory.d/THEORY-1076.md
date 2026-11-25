@@ -3,7 +3,13 @@ number: 1076
 status: Active
 formerly:
 - THEORY-tmpixkwj
-title: 'For Bohr a phenomenon is the observation obtained under a specified experimental arrangement, epistemic and derivative, with atomic object and instrument presupposed real; his relational holism is epistemic, and the subject–object, knower–known and word–world dualisms are presupposed by his account, so Bohr''s authority does not support agential realism'
+title: 'Bohr doesn''t support agential realism'
+statement: >-
+  For Bohr a phenomenon is the observation obtained under a specified
+  experimental arrangement, epistemic and derivative, with atomic object and
+  instrument presupposed real; his relational holism is epistemic, and the
+  subject–object, knower–known and word–world dualisms are presupposed by
+  his account, so Bohr's authority does not support agential realism
 version: 2
 history:
 - version: 2
@@ -33,7 +39,7 @@ corroborates:
 - CLAIM-477
 ---
 
-# THEORY-1076: For Bohr a phenomenon is the observation obtained under a specified experimental arrangement, epistemic and derivative, with atomic object and instrument presupposed real; his relational holism is epistemic, and the subject–object, knower–known and word–world dualisms are presupposed by his account, so Bohr's authority does not support agential realism
+# THEORY-1076: Bohr doesn't support agential realism
 
 ## Source
 

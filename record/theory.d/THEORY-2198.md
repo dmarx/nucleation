@@ -10,7 +10,14 @@ promote_when: >-
   for d > 2 separating a phase where the nonlinearity is irrelevant from
   the strong-coupling phase; χ = 2 − z from the tilt symmetry; and
   χ ≈ 0.387 in d = 2.
-title: "Le Doussal's retrospective holds that for d > 2 the KPZ coupling has an intermediate fixed point separating a weak-noise phase where the nonlinearity is irrelevant from the strong-noise KPZ phase, that the tilt symmetry fixes χ = 2 − z, and that the 1986 conjecture of dimension-independent exponents failed, with χ = 0.3869(4) in two dimensions"
+title: 'KPZ exponents depend on dimension'
+statement: >-
+  Le Doussal's retrospective holds that for d > 2 the KPZ coupling has an
+  intermediate fixed point separating a weak-noise phase where the
+  nonlinearity is irrelevant from the strong-noise KPZ phase, that the tilt
+  symmetry fixes χ = 2 − z, and that the 1986 conjecture of
+  dimension-independent exponents failed, with χ = 0.3869(4) in two
+  dimensions
 version: 1
 tags:
 - complex-systems
@@ -28,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-2293 ARG-195 CLAIM-862 — Skimmed or new; this reading and the entries it grounds -->
 <!-- inactive-ok-file: CLAIM-841 — Proposed -->
 
-# THEORY-2198: Le Doussal's retrospective holds that for d > 2 the KPZ coupling has an intermediate fixed point separating a weak-noise phase where the nonlinearity is irrelevant from the strong-noise KPZ phase, that the tilt symmetry fixes χ = 2 − z, and that the 1986 conjecture of dimension-independent exponents failed, with χ = 0.3869(4) in two dimensions
+# THEORY-2198: KPZ exponents depend on dimension
 
 ## Source
 

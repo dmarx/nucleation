@@ -3,7 +3,13 @@ number: 1426
 status: Active
 formerly:
 - THEORY-tmptcu66
-title: 'Hua, Luo, Swersey and Wen solve the spatial hypercube queueing model with server-specific service rates by an iteration on a birth–death reformulation, and state a proof that, under their Assumption 3.1, a technical bound on how far the rates differ, it converges to the exact stationary distribution at a geometric rate'
+title: 'Heterogeneous hypercube iteration converges'
+statement: >-
+  Hua, Luo, Swersey and Wen solve the spatial hypercube queueing model with
+  server-specific service rates by an iteration on a birth–death
+  reformulation, and state a proof that, under their Assumption 3.1, a
+  technical bound on how far the rates differ, it converges to the exact
+  stationary distribution at a geometric rate
 version: 3
 history:
 - version: 1
@@ -62,7 +68,7 @@ bears_on:
 - QUESTION-434
 ---
 
-# THEORY-1426: Hua, Luo, Swersey and Wen solve the spatial hypercube queueing model with server-specific service rates by an iteration on a birth–death reformulation, and state a proof that, under their Assumption 3.1, a technical bound on how far the rates differ, it converges to the exact stationary distribution at a geometric rate
+# THEORY-1426: Heterogeneous hypercube iteration converges
 
 ## Source
 

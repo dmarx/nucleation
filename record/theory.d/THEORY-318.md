@@ -3,7 +3,13 @@ number: 318
 status: Active
 formerly:
 - THEORY-tmpqnhih
-title: "A bound k on the max-information between a dataset and an analyst's chosen statistic multiplies by at most 2^k the probability that the statistic overfits that dataset, and an ε-differentially private mechanism on datasets of n points keeps k at most log₂e·εn, whatever the distribution on datasets"
+title: 'DP bounds max-information, hence overfitting'
+statement: >-
+  A bound k on the max-information between a dataset and an analyst's chosen
+  statistic multiplies by at most 2^k the probability that the statistic
+  overfits that dataset, and an ε-differentially private mechanism on
+  datasets of n points keeps k at most log₂e·εn, whatever the distribution
+  on datasets
 version: 3
 history:
 - version: 2
@@ -45,7 +51,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: NOTE-848 — Skimmed; the reading this rests on, of the Supplementary Material only -->
 
-# THEORY-318: A bound k on the max-information between a dataset and an analyst's chosen statistic multiplies by at most 2^k the probability that the statistic overfits that dataset, and an ε-differentially private mechanism on datasets of n points keeps k at most log₂e·εn, whatever the distribution on datasets
+# THEORY-318: DP bounds max-information, hence overfitting
 
 ## Source
 

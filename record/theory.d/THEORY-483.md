@@ -13,7 +13,13 @@ promote_when: >-
   resentment carries the prediction, which is what her own sketches
   suggest. Vignettes, recollections and further typologies cannot settle
   it.
-title: "Whether a person joins a fascist movement in a showdown is decided by inner disposition, whether she is secure and has a standard of her own that tells her what she likes and does not, and not by race, nationality, creed or class; humiliation, fear, spoilt entitlement and measuring worth by success make a person susceptible"
+title: 'Inner disposition decides who turns fascist'
+statement: >-
+  Whether a person joins a fascist movement in a showdown is decided by
+  inner disposition, whether she is secure and has a standard of her own
+  that tells her what she likes and does not, and not by race, nationality,
+  creed or class; humiliation, fear, spoilt entitlement and measuring worth
+  by success make a person susceptible
 version: 1
 tags:
 - society-and-governance
@@ -32,7 +38,7 @@ summary: >-
   tested such typologies is not yet read.
 ---
 
-# THEORY-483: Whether a person joins a fascist movement in a showdown is decided by inner disposition, whether she is secure and has a standard of her own that tells her what she likes and does not, and not by race, nationality, creed or class; humiliation, fear, spoilt entitlement and measuring worth by success make a person susceptible
+# THEORY-483: Inner disposition decides who turns fascist
 
 ## Source
 

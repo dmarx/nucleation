@@ -3,7 +3,14 @@ number: 1310
 status: Active
 formerly:
 - THEORY-tmp5tsat
-title: 'In Sheldon, Elliot, Kim and Kasser''s three studies of most satisfying events, self-esteem was as salient as autonomy, competence and relatedness in every sample and the largest unique predictor of event affect balance among ten candidate needs in two of the three US samples (β = .28, .38); the authors, SDT researchers, concluded that there may be four fundamental needs and judged it imprudent to treat self-esteem as an outcome'
+title: 'Self-esteem rivals SDT needs in satisfying events'
+statement: >-
+  In Sheldon, Elliot, Kim and Kasser's three studies of most satisfying
+  events, self-esteem was as salient as autonomy, competence and relatedness
+  in every sample and the largest unique predictor of event affect balance
+  among ten candidate needs in two of the three US samples (β = .28, .38);
+  the authors, SDT researchers, concluded that there may be four fundamental
+  needs and judged it imprudent to treat self-esteem as an outcome
 version: 2
 history:
 - version: 2
@@ -30,7 +37,7 @@ bears_on:
 - QUESTION-369
 ---
 
-# THEORY-1310: In Sheldon, Elliot, Kim and Kasser's three studies of most satisfying events, self-esteem was as salient as autonomy, competence and relatedness in every sample and the largest unique predictor of event affect balance among ten candidate needs in two of the three US samples (β = .28, .38); the authors, SDT researchers, concluded that there may be four fundamental needs and judged it imprudent to treat self-esteem as an outcome
+# THEORY-1310: Self-esteem rivals SDT needs in satisfying events
 
 ## Source
 

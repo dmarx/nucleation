@@ -15,7 +15,12 @@ promote_when: >-
   parametric families. Those are not the complexity-bounded classes the
   theorem is about, and the authors say the result does not transfer
   directly.
-title: 'For individual data, at every bound on model complexity, the model with the shortest two-part code is, to within O(log n), the best-fitting model in randomness deficiency, although the fit itself cannot be computed or approximated'
+title: 'Shortest two-part code gives best-fit model'
+statement: >-
+  For individual data, at every bound on model complexity, the model with
+  the shortest two-part code is, to within O(log n), the best-fitting model
+  in randomness deficiency, although the fit itself cannot be computed or
+  approximated
 version: 2
 history:
 - version: 2
@@ -51,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-036 — Proposed; the companion theories filed today and the entries named under Connections -->
 
-# THEORY-277: For individual data, at every bound on model complexity, the model with the shortest two-part code is, to within O(log n), the best-fitting model in randomness deficiency, although the fit itself cannot be computed or approximated
+# THEORY-277: Shortest two-part code gives best-fit model
 
 ## Source
 

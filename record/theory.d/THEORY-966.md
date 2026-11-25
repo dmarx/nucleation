@@ -3,7 +3,14 @@ number: 966
 status: Active
 formerly:
 - THEORY-tmp1bwxc
-title: 'Greedy edge pruning of the ACDC kind, which removes each edge whose removal changes the output metric by less than a threshold given the edges already removed, keeps only one input of a redundant OR gate, and which input it keeps depends on the order in which edges are visited, so when a model has redundant sufficient paths the circuit it returns is one of several sufficient subgraphs'
+title: 'ACDC keeps one input of a redundant OR'
+statement: >-
+  Greedy edge pruning of the ACDC kind, which removes each edge whose
+  removal changes the output metric by less than a threshold given the edges
+  already removed, keeps only one input of a redundant OR gate, and which
+  input it keeps depends on the order in which edges are visited, so when a
+  model has redundant sufficient paths the circuit it returns is one of
+  several sufficient subgraphs
 version: 2
 history:
 - version: 1
@@ -39,7 +46,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; the wider thesis on several correct explanations, cited as open -->
 
-# THEORY-966: Greedy edge pruning of the ACDC kind, which removes each edge whose removal changes the output metric by less than a threshold given the edges already removed, keeps only one input of a redundant OR gate, and which input it keeps depends on the order in which edges are visited, so when a model has redundant sufficient paths the circuit it returns is one of several sufficient subgraphs
+# THEORY-966: ACDC keeps one input of a redundant OR
 
 ## Source
 

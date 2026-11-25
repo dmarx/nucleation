@@ -19,7 +19,12 @@ promote_when: >-
   budget, finds a path whose barrier is small against the untrained loss.
   More single curves between more pairs cannot settle it, since that is the
   evidence already held.
-title: 'The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum'
+title: 'SGD solutions form one connected low-loss set'
+statement: >-
+  The solutions SGD finds in a deep network lie in one connected low-loss
+  set, joined by simple curves and spanning volumes of measurable dimension,
+  and this is a property of the solutions training finds, not of every
+  minimum
 version: 2
 history:
 - version: 2
@@ -59,7 +64,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-110 — Proposed; the accounts filed with this one that extend it, named in the body and in Connections -->
 
-# THEORY-109: The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum
+# THEORY-109: SGD solutions form one connected low-loss set
 
 ## Source
 

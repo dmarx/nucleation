@@ -3,7 +3,15 @@ number: 1078
 status: Active
 formerly:
 - THEORY-tmpkqzrf
-title: 'Constructor theory puts constraint in two places: a principle is a law that constrains other laws and is tested through its rivals, and a constructor is a physical thing that keeps its ability to cause a transformation; a task is possible when the laws set no limit, short of perfection, on how well it could be performed and that ability retained, so possibility needs no actual constructor, and constructor-theoretic statements mention none'
+title: 'Possibility needs no actual constructor'
+statement: >-
+  Constructor theory puts constraint in two places: a principle is a law
+  that constrains other laws and is tested through its rivals, and a
+  constructor is a physical thing that keeps its ability to cause a
+  transformation; a task is possible when the laws set no limit, short of
+  perfection, on how well it could be performed and that ability retained,
+  so possibility needs no actual constructor, and constructor-theoretic
+  statements mention none
 version: 2
 history:
 - version: 2
@@ -37,7 +45,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-477 — Proposed; the frame whose notion of a realized constraint this bears on, cited as open -->
 
-# THEORY-1078: Constructor theory puts constraint in two places: a principle is a law that constrains other laws and is tested through its rivals, and a constructor is a physical thing that keeps its ability to cause a transformation; a task is possible when the laws set no limit, short of perfection, on how well it could be performed and that ability retained, so possibility needs no actual constructor, and constructor-theoretic statements mention none
+# THEORY-1078: Possibility needs no actual constructor
 
 ## Source
 

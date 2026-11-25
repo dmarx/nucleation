@@ -3,7 +3,16 @@ number: 1464
 status: Active
 formerly:
 - THEORY-tmp5qpsj
-title: "Christie, Marine, French and Blouin show in Hood River steelhead that one generation of hatchery rearing selects for traits that raise reproductive success in captivity and lower it in the wild: offspring of the wild broodstock most successful in the hatchery have about 71% lower per capita reproductive success in the wild, and first-generation hatchery fish nearly double wild fish's success as hatchery broodstock, a difference significant only with one run-year, whose releases were treated very differently, excluded"
+title: 'One hatchery generation lowers wild fitness'
+statement: >-
+  Christie, Marine, French and Blouin show in Hood River steelhead that one
+  generation of hatchery rearing selects for traits that raise reproductive
+  success in captivity and lower it in the wild: offspring of the wild
+  broodstock most successful in the hatchery have about 71% lower per capita
+  reproductive success in the wild, and first-generation hatchery fish
+  nearly double wild fish's success as hatchery broodstock, a difference
+  significant only with one run-year, whose releases were treated very
+  differently, excluded
 version: 3
 history:
 - version: 2
@@ -51,7 +60,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: LIT-2159 — Unavailable; cited from the reading of Christie et al. (2012) as open -->
 
-# THEORY-1464: Christie, Marine, French and Blouin show in Hood River steelhead that one generation of hatchery rearing selects for traits that raise reproductive success in captivity and lower it in the wild: offspring of the wild broodstock most successful in the hatchery have about 71% lower per capita reproductive success in the wild, and first-generation hatchery fish nearly double wild fish's success as hatchery broodstock, a difference significant only with one run-year, whose releases were treated very differently, excluded
+# THEORY-1464: One hatchery generation lowers wild fitness
 
 ## Source
 

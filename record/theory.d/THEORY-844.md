@@ -3,7 +3,17 @@ number: 844
 status: Active
 formerly:
 - THEORY-tmpetatd
-title: 'A designer who commits to how players are informed, and may condition on the state and on their prior information but cannot choose their actions, can bring about exactly the Bayes correlated equilibria, the joint distributions of states and actions in which no player told his recommended action wants to deviate, a polytope cut out by linear constraints; with one uninformed receiver who would lose 1 by investing in the bad state and gain x < 1 in the good, the most investment attainable is certain investment in the good state and investment with probability x in the bad'
+title: 'Information design attains exactly the BCE'
+statement: >-
+  A designer who commits to how players are informed, and may condition on
+  the state and on their prior information but cannot choose their actions,
+  can bring about exactly the Bayes correlated equilibria, the joint
+  distributions of states and actions in which no player told his
+  recommended action wants to deviate, a polytope cut out by linear
+  constraints; with one uninformed receiver who would lose 1 by investing in
+  the bad state and gain x < 1 in the good, the most investment attainable
+  is certain investment in the good state and investment with probability x
+  in the bad
 version: 1
 history:
 - version: 1
@@ -34,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-853 — Proposed; filed from the same reading, the incentive order, cited as open -->
 
-# THEORY-844: A designer who commits to how players are informed, and may condition on the state and on their prior information but cannot choose their actions, can bring about exactly the Bayes correlated equilibria, the joint distributions of states and actions in which no player told his recommended action wants to deviate, a polytope cut out by linear constraints; with one uninformed receiver who would lose 1 by investing in the bad state and gain x < 1 in the good, the most investment attainable is certain investment in the good state and investment with probability x in the bad
+# THEORY-844: Information design attains exactly the BCE
 
 ## Source
 

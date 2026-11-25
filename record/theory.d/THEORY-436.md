@@ -18,7 +18,14 @@ promote_when: >-
   excerpt. More thought experiments about swarms or homunculi cannot
   settle the hypothesis, since they test condition (3), not pain's
   identity.
-title: "Pain is a functional state of a whole organism, possessing a certain functional organisation as a probabilistic automaton, rather than a brain state, and this is the more plausible empirical hypothesis because one pain predicate applies to physically different organisms; the hypothesis keeps swarms out only by a stipulated condition that no pain-feeler has parts that separately possess the organisation"
+title: 'Pain is a functional state, not a brain state'
+statement: >-
+  Pain is a functional state of a whole organism, possessing a certain
+  functional organisation as a probabilistic automaton, rather than a brain
+  state, and this is the more plausible empirical hypothesis because one
+  pain predicate applies to physically different organisms; the hypothesis
+  keeps swarms out only by a stipulated condition that no pain-feeler has
+  parts that separately possess the organisation
 version: 1
 tags:
 - cognition
@@ -42,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-396 — Unavailable; the original is closed, and this account rests on the reprint excerpt read in NOTE-335, which quotes the hypothesis verbatim -->
 <!-- inactive-ok-file: NOTE-335 — Skimmed; the excerpt this account rests on, and it says so -->
 
-# THEORY-436: Pain is a functional state of a whole organism, possessing a certain functional organisation as a probabilistic automaton, rather than a brain state, and this is the more plausible empirical hypothesis because one pain predicate applies to physically different organisms; the hypothesis keeps swarms out only by a stipulated condition that no pain-feeler has parts that separately possess the organisation
+# THEORY-436: Pain is a functional state, not a brain state
 
 ## Source
 

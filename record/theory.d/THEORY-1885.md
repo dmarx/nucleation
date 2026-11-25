@@ -10,7 +10,14 @@ promote_when: >-
   weights and shortest-path measures in predicting evoked responses,
   including between anatomically unconnected regions, with Euclidean
   distance the strongest single predictor.
-title: 'Seguin, Jedynak, David, Mansour L, Sporns and Zalesky find that diffusion-like communication measures on the human connectome, search information and communicability, predict the spread of cortico-cortical evoked potentials better than direct structural connection or routing measures, even between unconnected regions, though Euclidean distance is the strongest single predictor'
+title: 'Diffusive routes predict evoked potential spread'
+statement: >-
+  Seguin, Jedynak, David, Mansour L, Sporns and Zalesky find that
+  diffusion-like communication measures on the human connectome, search
+  information and communicability, predict the spread of cortico-cortical
+  evoked potentials better than direct structural connection or routing
+  measures, even between unconnected regions, though Euclidean distance is
+  the strongest single predictor
 version: 1
 tags:
 - neuroscience
@@ -29,7 +36,7 @@ summary: >-
   wording is the reader's; adopting it is the owner's call.
 ---
 
-# THEORY-1885: Seguin, Jedynak, David, Mansour L, Sporns and Zalesky find that diffusion-like communication measures on the human connectome, search information and communicability, predict the spread of cortico-cortical evoked potentials better than direct structural connection or routing measures, even between unconnected regions, though Euclidean distance is the strongest single predictor
+# THEORY-1885: Diffusive routes predict evoked potential spread
 
 ## Source
 

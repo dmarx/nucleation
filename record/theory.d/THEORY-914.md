@@ -14,7 +14,12 @@ promote_when: >-
   four return-of-fear effects, since that would show the original
   association can be erased. Whether exposure therapy in patients works
   this way is a further claim and is not carried here.
-title: 'In fear conditioning, extinction does not erase the original threat association but adds a competing inhibitory one, which is why extinguished fear can return with time, a change of context, an unsignalled aversive event or renewed pairing'
+title: 'Extinction adds inhibition, does not erase'
+statement: >-
+  In fear conditioning, extinction does not erase the original threat
+  association but adds a competing inhibitory one, which is why extinguished
+  fear can return with time, a change of context, an unsignalled aversive
+  event or renewed pairing
 version: 2
 history:
 - version: 2
@@ -41,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim this bears on, named, nothing here rests on it -->
 
-# THEORY-914: In fear conditioning, extinction does not erase the original threat association but adds a competing inhibitory one, which is why extinguished fear can return with time, a change of context, an unsignalled aversive event or renewed pairing
+# THEORY-914: Extinction adds inhibition, does not erase
 
 ## Source
 

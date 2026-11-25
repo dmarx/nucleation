@@ -3,7 +3,13 @@ number: 231
 status: Active
 formerly:
 - THEORY-tmpecylf
-title: 'Within classical realism, a generalized-noncontextuality no-go refutes Leibnizian representations, not realist representations as such; it rests on a stronger assumption than a Bell-like no-go and so applies where none exists, as in prepare-measure scenarios, but only Leibnizianity implying noncontextuality is proved'
+title: 'Noncontextuality no-go refutes Leibnizianity'
+statement: >-
+  Within classical realism, a generalized-noncontextuality no-go refutes
+  Leibnizian representations, not realist representations as such; it rests
+  on a stronger assumption than a Bell-like no-go and so applies where none
+  exists, as in prepare-measure scenarios, but only Leibnizianity implying
+  noncontextuality is proved
 version: 3
 history:
 - version: 2
@@ -47,7 +53,7 @@ answers:
 ---
 <!-- inactive-ok-file: CLAIM-142 — Open or Proposed; the question this answers in part and the claims its conditions bear on, named and not leaned on -->
 
-# THEORY-231: Within classical realism, a generalized-noncontextuality no-go refutes Leibnizian representations, not realist representations as such; it rests on a stronger assumption than a Bell-like no-go and so applies where none exists, as in prepare-measure scenarios, but only Leibnizianity implying noncontextuality is proved
+# THEORY-231: Noncontextuality no-go refutes Leibnizianity
 
 ## Source
 

@@ -15,7 +15,12 @@ promote_when: >-
   onset of activation. What cannot settle it: further demonstrations of
   pretuning before single-joint movements, which the account already
   rests on.
-title: 'Coordinated action is controlled by tuning relatively autonomous coordinative structures, not by commanding muscles: a higher level specifies an equivalence class of acceptable states and sets the parameters of self-regulating units, leaving the realized details to them'
+title: 'Action is controlled via coordinative structures'
+statement: >-
+  Coordinated action is controlled by tuning relatively autonomous
+  coordinative structures, not by commanding muscles: a higher level
+  specifies an equivalence class of acceptable states and sets the
+  parameters of self-regulating units, leaving the realized details to them
 version: 1
 tags:
 - behavioral-integration
@@ -37,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-069 — Proposed; the later coordination-dynamics account and the claim that names the term, open -->
 <!-- inactive-ok-file: LIT-902 LIT-907 — Unavailable; Kelso et al. and Bernstein, named for lineage -->
 
-# THEORY-302: Coordinated action is controlled by tuning relatively autonomous coordinative structures, not by commanding muscles: a higher level specifies an equivalence class of acceptable states and sets the parameters of self-regulating units, leaving the realized details to them
+# THEORY-302: Action is controlled via coordinative structures
 
 ## Source
 

@@ -12,7 +12,13 @@ promote_when: >-
   non-degeneracy; that EA^κ = 1 with A ≢ 1 forces E log A < 0; and that
   the max equation X = AX ∨ B has P{X > x} ∼ c x^(−κ) under the same
   conditions, with c > 0 if and only if P{B > 0} > 0.
-title: "Kevei restates the Kesten–Grincevičius–Goldie theorem: the stationary solution of X = AX + B has a two-sided Pareto-like tail with index κ solving EA^κ = 1, given EA^κ log⁺A < ∞, a nonarithmetic log A, E|B|^κ < ∞ and non-degeneracy, a condition that forces E log A < 0; and, after Goldie, the max equation X = AX ∨ B has the same tail index"
+title: 'X = AX + B has a Pareto tail, index EA^κ = 1'
+statement: >-
+  Kevei restates the Kesten–Grincevičius–Goldie theorem: the stationary
+  solution of X = AX + B has a two-sided Pareto-like tail with index κ
+  solving EA^κ = 1, given EA^κ log⁺A < ∞, a nonarithmetic log A, E|B|^κ < ∞
+  and non-degeneracy, a condition that forces E log A < 0; and, after
+  Goldie, the max equation X = AX ∨ B has the same tail index
 version: 1
 tags:
 - probabilistic-modeling
@@ -34,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-3005 — Unfetched; the original this reading stands in for -->
 <!-- inactive-ok-file: CLAIM-824 — Deferred or Proposed; Goldie, registered from this reading, and the claim it grounds -->
 
-# THEORY-2183: Kevei restates the Kesten–Grincevičius–Goldie theorem: the stationary solution of X = AX + B has a two-sided Pareto-like tail with index κ solving EA^κ = 1, given EA^κ log⁺A < ∞, a nonarithmetic log A, E|B|^κ < ∞ and non-degeneracy, a condition that forces E log A < 0; and, after Goldie, the max equation X = AX ∨ B has the same tail index
+# THEORY-2183: X = AX + B has a Pareto tail, index EA^κ = 1
 
 ## Source
 

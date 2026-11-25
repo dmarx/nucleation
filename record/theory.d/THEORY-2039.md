@@ -3,7 +3,15 @@ number: 2039
 status: Proposed
 formerly:
 - THEORY-tmppqtz3
-title: 'Pan and colleagues show that, in few-shot classification with GPT-3, LLaMA and OPT, accuracy with randomly drawn labels from the right label set (task recognition) is above chance even for the smallest models but barely changes with model size or number of demonstrations, while accuracy under a fresh mapping to abstract labels (task learning) is near flat for small models and rises with both size and demonstrations, matching gold labels with 16 examples in the largest'
+title: 'Task learning, not recognition, scales with size'
+statement: >-
+  Pan and colleagues show that, in few-shot classification with GPT-3, LLaMA
+  and OPT, accuracy with randomly drawn labels from the right label set
+  (task recognition) is above chance even for the smallest models but barely
+  changes with model size or number of demonstrations, while accuracy under
+  a fresh mapping to abstract labels (task learning) is near flat for small
+  models and rises with both size and demonstrations, matching gold labels
+  with 16 examples in the largest
 version: 1
 source:
 - LIT-2826
@@ -33,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-294 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2039: Pan and colleagues show that, in few-shot classification with GPT-3, LLaMA and OPT, accuracy with randomly drawn labels from the right label set (task recognition) is above chance even for the smallest models but barely changes with model size or number of demonstrations, while accuracy under a fresh mapping to abstract labels (task learning) is near flat for small models and rises with both size and demonstrations, matching gold labels with 16 examples in the largest
+# THEORY-2039: Task learning, not recognition, scales with size
 
 ## The account
 

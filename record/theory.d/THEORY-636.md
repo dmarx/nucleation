@@ -3,7 +3,13 @@ number: 636
 status: Active
 formerly:
 - THEORY-tmpt5gz6
-title: "In vignette studies of US online participants, judgements that an outcome happened because the agent wanted it move with judgements that it was done intentionally when luck is manipulated, and predict them better than know-how or probability-raising do; but they account for only about half of the luck effect, and in one morally neutral case the two come apart"
+title: 'Desire judgments track intentionality under luck'
+statement: >-
+  In vignette studies of US online participants, judgements that an outcome
+  happened because the agent wanted it move with judgements that it was done
+  intentionally when luck is manipulated, and predict them better than
+  know-how or probability-raising do; but they account for only about half
+  of the luck effect, and in one morally neutral case the two come apart
 version: 1
 tags:
 - agency
@@ -25,7 +31,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-616 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-144 — Unavailable; a related work named by the reading, not leaned on for its content -->
 
-# THEORY-636: In vignette studies of US online participants, judgements that an outcome happened because the agent wanted it move with judgements that it was done intentionally when luck is manipulated, and predict them better than know-how or probability-raising do; but they account for only about half of the luck effect, and in one morally neutral case the two come apart
+# THEORY-636: Desire judgments track intentionality under luck
 
 ## Source
 

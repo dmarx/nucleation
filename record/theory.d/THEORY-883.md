@@ -20,7 +20,16 @@ promote_when: >-
   cannot settle it, since the authors grant that many models fit the same
   data. Even if promoted it would be an account of which contents are
   accessed in humans, not of what makes a system experience (QUESTION-048).
-title: "Under active inference, the contents of consciousness are posterior beliefs about the hidden states of world, body or brain, and a posterior is conscious when it has the capacity to inform discrete, counterfactual policy selection, at a timescale slow enough to abstract from sensory flux and with enough precision to tell alternatives apart; on this account no conscious content changes without a change in the posterior, and a stimulus given precision by an attention or saccade policy should reach awareness sooner than a retinally matched one"
+title: 'Conscious contents are policy-informing posteriors'
+statement: >-
+  Under active inference, the contents of consciousness are posterior
+  beliefs about the hidden states of world, body or brain, and a posterior
+  is conscious when it has the capacity to inform discrete, counterfactual
+  policy selection, at a timescale slow enough to abstract from sensory flux
+  and with enough precision to tell alternatives apart; on this account no
+  conscious content changes without a change in the posterior, and a
+  stimulus given precision by an attention or saccade policy should reach
+  awareness sooner than a retinally matched one
 version: 1
 tags:
 - consciousness
@@ -44,7 +53,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-412 THEORY-094 THEORY-577 — Proposed; the claims and accounts it bears on, named, not leaned on -->
 <!-- inactive-ok-file: THEORY-882 — Proposed; filed in the same batch, named -->
 
-# THEORY-883: Under active inference, the contents of consciousness are posterior beliefs about the hidden states of world, body or brain, and a posterior is conscious when it has the capacity to inform discrete, counterfactual policy selection, at a timescale slow enough to abstract from sensory flux and with enough precision to tell alternatives apart; on this account no conscious content changes without a change in the posterior, and a stimulus given precision by an attention or saccade policy should reach awareness sooner than a retinally matched one
+# THEORY-883: Conscious contents are policy-informing posteriors
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1735
 status: Proposed
 formerly:
 - THEORY-tmp5lktm
-title: 'Khatua, Zhu et al. (2026) report that coding agents given compatible but overlapping features and a real-time messaging channel succeed markedly less often than one agent doing both features, that the channel reduces merge conflicts without raising success, and that the failures arise from gaps in communication, commitment and modelling the partner''s plans'
+title: 'Two coding agents do worse than one'
+statement: >-
+  Khatua, Zhu et al. (2026) report that coding agents given compatible but
+  overlapping features and a real-time messaging channel succeed markedly
+  less often than one agent doing both features, that the channel reduces
+  merge conflicts without raising success, and that the failures arise from
+  gaps in communication, commitment and modelling the partner's plans
 version: 1
 tags:
 - social-science
@@ -25,7 +31,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1735: Khatua, Zhu et al. (2026) report that coding agents given compatible but overlapping features and a real-time messaging channel succeed markedly less often than one agent doing both features, that the channel reduces merge conflicts without raising success, and that the failures arise from gaps in communication, commitment and modelling the partner's plans
+# THEORY-1735: Two coding agents do worse than one
 
 ## The account
 

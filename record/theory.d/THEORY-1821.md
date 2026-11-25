@@ -3,7 +3,14 @@ number: 1821
 status: Proposed
 formerly:
 - THEORY-tmprbzkv
-title: 'van der Weele argues that care theorists'' conceptions of dependency diverge because each rests on a different empirical paradigm case (the infant, the physically disabled person, the profoundly intellectually disabled person, the refugee), each bringing its own ethical sensibility toward care; Kittay''s paradigm of complete, one-way dependence makes care a social responsibility'
+title: 'Care theories diverge by paradigm dependency case'
+statement: >-
+  van der Weele argues that care theorists' conceptions of dependency
+  diverge because each rests on a different empirical paradigm case (the
+  infant, the physically disabled person, the profoundly intellectually
+  disabled person, the refugee), each bringing its own ethical sensibility
+  toward care; Kittay's paradigm of complete, one-way dependence makes care
+  a social responsibility
 version: 1
 source:
 - LIT-2541
@@ -20,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1892 — filed from the exchange "About Plantation Paradise" (2026-11-12), Skimmed -->
 
-# THEORY-1821: van der Weele argues that care theorists' conceptions of dependency diverge because each rests on a different empirical paradigm case (the infant, the physically disabled person, the profoundly intellectually disabled person, the refugee), each bringing its own ethical sensibility toward care; Kittay's paradigm of complete, one-way dependence makes care a social responsibility
+# THEORY-1821: Care theories diverge by paradigm dependency case
 
 ## The account
 

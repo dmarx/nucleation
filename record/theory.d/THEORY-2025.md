@@ -3,7 +3,14 @@ number: 2025
 status: Proposed
 formerly:
 - THEORY-tmpfhidr
-title: 'Raghu and colleagues show that on standard few-shot image-classification and RL benchmarks, MAML''s fast adaptation comes almost entirely from reusing features already present in its meta-initialization rather than from rapid change of representations, so that freezing all layers but the head at test time, or never adapting the body during training (ANIL), leaves performance about unchanged.'
+title: 'MAML works by feature reuse, not adaptation'
+statement: >-
+  Raghu and colleagues show that on standard few-shot image-classification
+  and RL benchmarks, MAML's fast adaptation comes almost entirely from
+  reusing features already present in its meta-initialization rather than
+  from rapid change of representations, so that freezing all layers but the
+  head at test time, or never adapting the body during training (ANIL),
+  leaves performance about unchanged.
 version: 1
 source:
 - LIT-2822
@@ -35,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-294 CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2025: Raghu and colleagues show that on standard few-shot image-classification and RL benchmarks, MAML's fast adaptation comes almost entirely from reusing features already present in its meta-initialization rather than from rapid change of representations, so that freezing all layers but the head at test time, or never adapting the body during training (ANIL), leaves performance about unchanged.
+# THEORY-2025: MAML works by feature reuse, not adaptation
 
 ## The account
 

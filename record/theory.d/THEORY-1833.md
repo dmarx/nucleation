@@ -12,7 +12,17 @@ promote_when: >-
   inverse; and discrete tunability for a small step. It does not need the
   empirical claim that trained GRUs become contracting, which the title
   does not assert.
-title: 'On Andrieu, Bernard, Brivadis, Praly and Wolf, a recurrent estimator ż = κg(z, o) whose latent vector field is contracting is a nonlinear KKL observer: if the observed system is differentially observable of order ℓ and the latent dynamics meet a generic filter-rank condition with dimension at least p(ℓ+1), then for a large enough gain the true state maps injectively into the latent space, and decoding gives an error bounded by a constant times κ^ℓ e^{−κt}, made small after any time at the price of a decoder growing like (κ^ℓ/ε)^m and a noise floor growing like κ^ℓ'
+title: 'Contracting recurrent estimators are KKL observers'
+statement: >-
+  On Andrieu, Bernard, Brivadis, Praly and Wolf, a recurrent estimator ż =
+  κg(z, o) whose latent vector field is contracting is a nonlinear KKL
+  observer: if the observed system is differentially observable of order ℓ
+  and the latent dynamics meet a generic filter-rank condition with
+  dimension at least p(ℓ+1), then for a large enough gain the true state
+  maps injectively into the latent space, and decoding gives an error
+  bounded by a constant times κ^ℓ e^{−κt}, made small after any time at the
+  price of a decoder growing like (κ^ℓ/ε)^m and a noise floor growing like
+  κ^ℓ
 version: 1
 tags:
 - control-theory
@@ -30,7 +40,7 @@ summary: >-
   outside the theorems' large-gain regime.
 ---
 
-# THEORY-1833: On Andrieu, Bernard, Brivadis, Praly and Wolf, a recurrent estimator ż = κg(z, o) whose latent vector field is contracting is a nonlinear KKL observer: if the observed system is differentially observable of order ℓ and the latent dynamics meet a generic filter-rank condition with dimension at least p(ℓ+1), then for a large enough gain the true state maps injectively into the latent space, and decoding gives an error bounded by a constant times κ^ℓ e^{−κt}, made small after any time at the price of a decoder growing like (κ^ℓ/ε)^m and a noise floor growing like κ^ℓ
+# THEORY-1833: Contracting recurrent estimators are KKL observers
 
 ## Source
 

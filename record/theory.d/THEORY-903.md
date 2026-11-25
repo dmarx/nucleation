@@ -3,7 +3,14 @@ number: 903
 status: Active
 formerly:
 - THEORY-tmp7wa5n
-title: 'In a 2026 meta-analysis of standalone safety-behaviour manipulations outside exposure, mostly with young non-clinical or subclinical adults and mostly on appearance concerns and social anxiety, reducing safety behaviours lowered symptoms relative to control (d = 0.43, about 0.31 after adjustment for publication bias), and instructed increases raised them (d = 0.65, five studies)'
+title: 'Dropping safety behaviours lowers symptoms'
+statement: >-
+  In a 2026 meta-analysis of standalone safety-behaviour manipulations
+  outside exposure, mostly with young non-clinical or subclinical adults and
+  mostly on appearance concerns and social anxiety, reducing safety
+  behaviours lowered symptoms relative to control (d = 0.43, about 0.31
+  after adjustment for publication bias), and instructed increases raised
+  them (d = 0.65, five studies)
 version: 2
 history:
 - version: 2
@@ -33,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-446 THEORY-058 — Proposed; the claim and account this bears on, named, nothing here rests on them -->
 
-# THEORY-903: In a 2026 meta-analysis of standalone safety-behaviour manipulations outside exposure, mostly with young non-clinical or subclinical adults and mostly on appearance concerns and social anxiety, reducing safety behaviours lowered symptoms relative to control (d = 0.43, about 0.31 after adjustment for publication bias), and instructed increases raised them (d = 0.65, five studies)
+# THEORY-903: Dropping safety behaviours lowers symptoms
 
 ## Source
 

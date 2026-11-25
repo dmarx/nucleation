@@ -14,7 +14,14 @@ promote_when: >-
   stages than within them. A single contrast of reappraisal against
   suppression cannot settle it, because accounts that deny a separate
   regulation process predict that contrast too.
-title: "Emotion regulation is a set of processes distinct from emotion generation, by which people influence which emotions they have, when, and how they are experienced and expressed; regulatory acts can be sorted by the point in the generative sequence where they act, and acting before response tendencies form (reappraisal) has different consequences from acting after (suppression)"
+title: 'Emotion regulation differs by point of action'
+statement: >-
+  Emotion regulation is a set of processes distinct from emotion generation,
+  by which people influence which emotions they have, when, and how they are
+  experienced and expressed; regulatory acts can be sorted by the point in
+  the generative sequence where they act, and acting before response
+  tendencies form (reappraisal) has different consequences from acting after
+  (suppression)
 version: 1
 tags:
 - emotion-and-affect
@@ -38,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-056 — Proposed; the rival account -->
 <!-- inactive-ok-file: THEORY-050 THEORY-055 — Proposed; named in Connections, not leaned on -->
 
-# THEORY-680: Emotion regulation is a set of processes distinct from emotion generation, by which people influence which emotions they have, when, and how they are experienced and expressed; regulatory acts can be sorted by the point in the generative sequence where they act, and acting before response tendencies form (reappraisal) has different consequences from acting after (suppression)
+# THEORY-680: Emotion regulation differs by point of action
 
 ## Source
 

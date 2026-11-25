@@ -7,7 +7,16 @@ promote_when: >-
   Proposition 1 checked from its proof, and an independent replication of
   one shaping experiment showing the original probe degrading while a
   refitted probe at the same or a later layer recovers the concept.
-title: 'On Fel, Kowal and colleagues, penalizing a model''s reliance on or expression of a probed concept during training can degrade the original probe, from 0.98 to 0.57 balanced accuracy when gradients pass through it in reward-hacking training, while a refitted linear probe recovers 0.97–0.98; in every experiment they ran the concept stayed readable by the original, a refitted, a nonlinear or another layer''s probe, and in their linear toy theory a fixed projection makes the concept regrow along the directions the readout uses for core features'
+title: 'Concept penalties fool probes; concept persists'
+statement: >-
+  On Fel, Kowal and colleagues, penalizing a model's reliance on or
+  expression of a probed concept during training can degrade the original
+  probe, from 0.98 to 0.57 balanced accuracy when gradients pass through it
+  in reward-hacking training, while a refitted linear probe recovers
+  0.97–0.98; in every experiment they ran the concept stayed readable by the
+  original, a refitted, a nonlinear or another layer's probe, and in their
+  linear toy theory a fixed projection makes the concept regrow along the
+  directions the readout uses for core features
 version: 1
 tags:
 - representation-learning
@@ -24,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1958 — Skimmed; the reading this account comes from -->
 
-# THEORY-1870: On Fel, Kowal and colleagues, penalizing a model's reliance on or expression of a probed concept during training can degrade the original probe, from 0.98 to 0.57 balanced accuracy when gradients pass through it in reward-hacking training, while a refitted linear probe recovers 0.97–0.98; in every experiment they ran the concept stayed readable by the original, a refitted, a nonlinear or another layer's probe, and in their linear toy theory a fixed projection makes the concept regrow along the directions the readout uses for core features
+# THEORY-1870: Concept penalties fool probes; concept persists
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 2041
 status: Proposed
 formerly:
 - THEORY-tmpqtb3q
-title: 'Schoenholz and colleagues show, in mean-field theory of wide random fully connected networks with bounded activations and in experiments on MNIST and CIFAR-10, that the correlation between two inputs approaches its limit over a depth scale that diverges only at the order-to-chaos transition, that gradients vanish or explode over the same scale on either side, that networks train when their depth is below about six times that scale, and that dropout removes the transition and so caps trainable depth'
+title: 'Trainable depth is set by a correlation scale'
+statement: >-
+  Schoenholz and colleagues show, in mean-field theory of wide random fully
+  connected networks with bounded activations and in experiments on MNIST
+  and CIFAR-10, that the correlation between two inputs approaches its limit
+  over a depth scale that diverges only at the order-to-chaos transition,
+  that gradients vanish or explode over the same scale on either side, that
+  networks train when their depth is below about six times that scale, and
+  that dropout removes the transition and so caps trainable depth
 version: 2
 history:
 - version: 2
@@ -46,7 +54,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-2168 LIT-3028 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22, and the Deferred work it names -->
 
-# THEORY-2041: Schoenholz and colleagues show, in mean-field theory of wide random fully connected networks with bounded activations and in experiments on MNIST and CIFAR-10, that the correlation between two inputs approaches its limit over a depth scale that diverges only at the order-to-chaos transition, that gradients vanish or explode over the same scale on either side, that networks train when their depth is below about six times that scale, and that dropout removes the transition and so caps trainable depth
+# THEORY-2041: Trainable depth is set by a correlation scale
 
 ## The account
 

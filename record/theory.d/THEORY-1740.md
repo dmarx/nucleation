@@ -3,7 +3,15 @@ number: 1740
 status: Proposed
 formerly:
 - THEORY-tmp6i5mw
-title: 'Johnson and Hayes-Roth describe BB1, in which domain knowledge sources work on a domain blackboard while control knowledge sources post strategies, foci and heuristics to a separate control blackboard whose current plan the scheduler uses to rate pending actions, and argue that this one explicit, dynamic control plan lets a system integrate hierarchical planning, opportunistic focusing and goal-directed reasoning through a uniform mechanism.'
+title: 'One control blackboard unifies control strategies'
+statement: >-
+  Johnson and Hayes-Roth describe BB1, in which domain knowledge sources
+  work on a domain blackboard while control knowledge sources post
+  strategies, foci and heuristics to a separate control blackboard whose
+  current plan the scheduler uses to rate pending actions, and argue that
+  this one explicit, dynamic control plan lets a system integrate
+  hierarchical planning, opportunistic focusing and goal-directed reasoning
+  through a uniform mechanism.
 version: 1
 tags:
 - cognition
@@ -21,7 +29,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1740: Johnson and Hayes-Roth describe BB1, in which domain knowledge sources work on a domain blackboard while control knowledge sources post strategies, foci and heuristics to a separate control blackboard whose current plan the scheduler uses to rate pending actions, and argue that this one explicit, dynamic control plan lets a system integrate hierarchical planning, opportunistic focusing and goal-directed reasoning through a uniform mechanism.
+# THEORY-1740: One control blackboard unifies control strategies
 
 ## The account
 

@@ -13,7 +13,15 @@ promote_when: >-
   structural claims that the algebra does not reconcile. Further informal
   readings of symmetry breaking or of superselection cannot settle it, nor
   can the technical results it borrows, which were never in dispute.
-title: "Unitarily inequivalent representations in quantum field theory need not refute ontic structural realism: what does physical work in spontaneous symmetry breaking and in the DHR derivation of quantum statistics is structure across representations, so a structural realist who takes structure to be modal and to span them can accept that work, though the modal conception is undeveloped and the removal of Howard's premise rests on Baker's sufficient condition for intertranslatability"
+title: 'Inequivalent representations needn''t sink OSR'
+statement: >-
+  Unitarily inequivalent representations in quantum field theory need not
+  refute ontic structural realism: what does physical work in spontaneous
+  symmetry breaking and in the DHR derivation of quantum statistics is
+  structure across representations, so a structural realist who takes
+  structure to be modal and to span them can accept that work, though the
+  modal conception is undeveloped and the removal of Howard's premise rests
+  on Baker's sufficient condition for intertranslatability
 version: 1
 tags:
 - philosophy-of-science
@@ -34,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-690 — Proposed; named as related accounts, nothing here rests on their being settled -->
 
-# THEORY-594: Unitarily inequivalent representations in quantum field theory need not refute ontic structural realism: what does physical work in spontaneous symmetry breaking and in the DHR derivation of quantum statistics is structure across representations, so a structural realist who takes structure to be modal and to span them can accept that work, though the modal conception is undeveloped and the removal of Howard's premise rests on Baker's sufficient condition for intertranslatability
+# THEORY-594: Inequivalent representations needn't sink OSR
 
 ## Source
 

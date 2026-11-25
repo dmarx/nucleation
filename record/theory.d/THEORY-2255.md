@@ -9,7 +9,14 @@ promote_when: >-
   faster than opinions the restriction maps reach public consistency while
   opinions move less than the bound, and the reverse with the rates
   swapped.
-title: 'Bosca and Ghrist show that on discourse sheaves with agents fixed in some opinion directions and some expression maps fixed, opinions settle by a sheaf Poisson equation, adapting maps converge to the Frobenius-nearest consistent sheaf, a conserved quantity excludes agreement by silence or vanishing opinions, and the ratio of expression to opinion rates bounds which of the two changes'
+title: 'Discourse sheaves settle by a Poisson equation'
+statement: >-
+  Bosca and Ghrist show that on discourse sheaves with agents fixed in some
+  opinion directions and some expression maps fixed, opinions settle by a
+  sheaf Poisson equation, adapting maps converge to the Frobenius-nearest
+  consistent sheaf, a conserved quantity excludes agreement by silence or
+  vanishing opinions, and the ratio of expression to opinion rates bounds
+  which of the two changes
 version: 1
 tags:
 - mathematics
@@ -28,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2346 — Skimmed; the reading this account comes from -->
 
-# THEORY-2255: Bosca and Ghrist show that on discourse sheaves with agents fixed in some opinion directions and some expression maps fixed, opinions settle by a sheaf Poisson equation, adapting maps converge to the Frobenius-nearest consistent sheaf, a conserved quantity excludes agreement by silence or vanishing opinions, and the ratio of expression to opinion rates bounds which of the two changes
+# THEORY-2255: Discourse sheaves settle by a Poisson equation
 
 ## Source
 

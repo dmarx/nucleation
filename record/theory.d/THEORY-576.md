@@ -3,7 +3,16 @@ number: 576
 status: Active
 formerly:
 - THEORY-tmplo7ui
-title: "In a bundled network, one fiber graph attached at a single node to every node of a base graph, the low Laplacian spectrum is the base spectrum divided by the fiber size to first order, so the gap exponent (Fiedler dimension) is set by the base while the density-of-states exponent (spectral dimension) is the fiber's; the two come apart generically and coincide only in special cases, and relaxation then decays with the spectral dimension at intermediate times but equilibrates on a time set by the Fiedler dimension"
+title: 'Bundled networks split Fiedler and spectral dims'
+statement: >-
+  In a bundled network, one fiber graph attached at a single node to every
+  node of a base graph, the low Laplacian spectrum is the base spectrum
+  divided by the fiber size to first order, so the gap exponent (Fiedler
+  dimension) is set by the base while the density-of-states exponent
+  (spectral dimension) is the fiber's; the two come apart generically and
+  coincide only in special cases, and relaxation then decays with the
+  spectral dimension at intermediate times but equilibrates on a time set by
+  the Fiedler dimension
 version: 1
 tags:
 - network-science
@@ -22,7 +31,7 @@ summary: >-
   its "generic property of composite architectures" outruns the proof.
 ---
 
-# THEORY-576: In a bundled network, one fiber graph attached at a single node to every node of a base graph, the low Laplacian spectrum is the base spectrum divided by the fiber size to first order, so the gap exponent (Fiedler dimension) is set by the base while the density-of-states exponent (spectral dimension) is the fiber's; the two come apart generically and coincide only in special cases, and relaxation then decays with the spectral dimension at intermediate times but equilibrates on a time set by the Fiedler dimension
+# THEORY-576: Bundled networks split Fiedler and spectral dims
 
 ## Source
 

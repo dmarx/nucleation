@@ -3,7 +3,13 @@ number: 1587
 status: Active
 formerly:
 - THEORY-tmp9511r
-title: 'Jawaid and Mansuy argue that in rodents parental trauma, stress and drugs pass behavioural phenotypes to offspring through the germline, with non-coding RNA in sperm the best-described candidate carrier, while granting that how effects pass beyond the first generation is unclear and that germline dependence is not established in humans'
+title: 'Rodent trauma passes via sperm RNA'
+statement: >-
+  Jawaid and Mansuy argue that in rodents parental trauma, stress and drugs
+  pass behavioural phenotypes to offspring through the germline, with
+  non-coding RNA in sperm the best-described candidate carrier, while
+  granting that how effects pass beyond the first generation is unclear and
+  that germline dependence is not established in humans
 version: 3
 history:
 - version: 1
@@ -52,7 +58,7 @@ bounds:
 ---
 <!-- inactive-ok-file: CLAIM-644 — Proposed; the claim whose scope this reading bounds, cited in the history note of 2026-11-11 -->
 
-# THEORY-1587: Jawaid and Mansuy argue that in rodents parental trauma, stress and drugs pass behavioural phenotypes to offspring through the germline, with non-coding RNA in sperm the best-described candidate carrier, while granting that how effects pass beyond the first generation is unclear and that germline dependence is not established in humans
+# THEORY-1587: Rodent trauma passes via sperm RNA
 
 ## The account
 

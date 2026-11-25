@@ -12,7 +12,11 @@ promote_when: >-
   lawful ones. It is refuted if such a coding finds unlawfulness spread
   evenly across causes, or the duration gap explained by the coding rule
   that counts overlong SOEs as unlawful.
-title: 'Unlawful states of emergency, in declaration, conduct or duration, follow political turmoil far more often than natural disasters, are rarer in democracies than in autocracies, and last much longer than lawful ones'
+title: 'Unlawful emergencies follow turmoil, last longer'
+statement: >-
+  Unlawful states of emergency, in declaration, conduct or duration, follow
+  political turmoil far more often than natural disasters, are rarer in
+  democracies than in autocracies, and last much longer than lawful ones
 version: 1
 history:
 - version: 1
@@ -50,7 +54,7 @@ summary: >-
   and part of the duration gap is built in by the coding.
 ---
 
-# THEORY-1198: Unlawful states of emergency, in declaration, conduct or duration, follow political turmoil far more often than natural disasters, are rarer in democracies than in autocracies, and last much longer than lawful ones
+# THEORY-1198: Unlawful emergencies follow turmoil, last longer
 
 ## Source
 

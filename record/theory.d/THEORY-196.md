@@ -12,7 +12,13 @@ promote_when: >-
   upper bound in depth, which would refute the linear dependence on ℓ.
   Further experiments in which deep trees need more bits than bushy ones
   cannot settle it, because the upper bound already predicts that.
-title: 'A finite tree embeds in the hyperbolic plane with worst-case distortion 1 + ε, but because a hyperbolic distance d takes about d bits to write, its coordinates need Θ((ℓ/ε) log deg_max) bits: logarithmic in the branching, linear in the longest path ℓ, so hyperbolic space is economical for shallow bushy hierarchies and not for deep ones'
+title: 'Hyperbolic trees need bits linear in depth'
+statement: >-
+  A finite tree embeds in the hyperbolic plane with worst-case distortion 1
+  + ε, but because a hyperbolic distance d takes about d bits to write, its
+  coordinates need Θ((ℓ/ε) log deg_max) bits: logarithmic in the branching,
+  linear in the longest path ℓ, so hyperbolic space is economical for
+  shallow bushy hierarchies and not for deep ones
 version: 3
 history:
 - version: 2
@@ -57,7 +63,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-119 — Proposed or open; cited as the accounts this one sits beside -->
 
-# THEORY-196: A finite tree embeds in the hyperbolic plane with worst-case distortion 1 + ε, but because a hyperbolic distance d takes about d bits to write, its coordinates need Θ((ℓ/ε) log deg_max) bits: logarithmic in the branching, linear in the longest path ℓ, so hyperbolic space is economical for shallow bushy hierarchies and not for deep ones
+# THEORY-196: Hyperbolic trees need bits linear in depth
 
 ## Source
 

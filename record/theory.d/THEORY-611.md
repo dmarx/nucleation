@@ -3,7 +3,14 @@ number: 611
 status: Active
 formerly:
 - THEORY-tmpq39lu
-title: "Classifier-free guidance extrapolates between a conditional and an unconditional score learned by one network; with exact scores this equals classifier guidance by the classifier the generative model defines through Bayes' rule, but learned scores need not be conservative, so the guided field is in general the gradient of no density and the tilted distribution that motivates guidance is not shown to be what is sampled"
+title: 'Guided field may be the gradient of no density'
+statement: >-
+  Classifier-free guidance extrapolates between a conditional and an
+  unconditional score learned by one network; with exact scores this equals
+  classifier guidance by the classifier the generative model defines through
+  Bayes' rule, but learned scores need not be conservative, so the guided
+  field is in general the gradient of no density and the tilted distribution
+  that motivates guidance is not shown to be what is sampled
 version: 4
 history:
 - version: 2
@@ -54,7 +61,7 @@ bears_on:
 ---
 
 
-# THEORY-611: Classifier-free guidance extrapolates between a conditional and an unconditional score learned by one network; with exact scores this equals classifier guidance by the classifier the generative model defines through Bayes' rule, but learned scores need not be conservative, so the guided field is in general the gradient of no density and the tilted distribution that motivates guidance is not shown to be what is sampled
+# THEORY-611: Guided field may be the gradient of no density
 
 ## Source
 

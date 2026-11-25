@@ -17,7 +17,14 @@ promote_when: >-
   symbiogenetic model predicts that. It is in trouble if the Asgard
   placements dissolve with better sampling, or if the exchanged-metabolite
   machinery points to a different kind of partnership.
-title: 'Eukaryotes began in a syntrophic partnership: an archaeal host fermented sugars and passed reducing equivalents to an alphaproteobacterial endosymbiont that contributed a TCA cycle and an electron transport chain, which is why the last eukaryotic common ancestor''s central carbon metabolism is archaeal in cytosolic glycolysis and the pentose phosphate pathway and alphaproteobacterial in the mitochondrial TCA cycle'
+title: 'Eukaryotes began as a fermenter–respirer syntrophy'
+statement: >-
+  Eukaryotes began in a syntrophic partnership: an archaeal host fermented
+  sugars and passed reducing equivalents to an alphaproteobacterial
+  endosymbiont that contributed a TCA cycle and an electron transport chain,
+  which is why the last eukaryotic common ancestor's central carbon
+  metabolism is archaeal in cytosolic glycolysis and the pentose phosphate
+  pathway and alphaproteobacterial in the mitochondrial TCA cycle
 version: 1
 tags:
 - endosymbiosis
@@ -38,7 +45,7 @@ summary: >-
   word for word.
 ---
 
-# THEORY-1205: Eukaryotes began in a syntrophic partnership: an archaeal host fermented sugars and passed reducing equivalents to an alphaproteobacterial endosymbiont that contributed a TCA cycle and an electron transport chain, which is why the last eukaryotic common ancestor's central carbon metabolism is archaeal in cytosolic glycolysis and the pentose phosphate pathway and alphaproteobacterial in the mitochondrial TCA cycle
+# THEORY-1205: Eukaryotes began as a fermenter–respirer syntrophy
 
 ## Source
 

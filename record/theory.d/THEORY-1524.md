@@ -10,7 +10,15 @@ promote_when: >-
   is not so tied, and (b) that interventions run on the four PDIA
   principles raise measured implementation capability relative to
   comparable best-practice interventions.
-title: 'When external funding and legitimacy are granted for adopting the forms of capable states (best-practice laws, agencies and procedures) rather than for demonstrated performance, recipient organizations engage in isomorphic mimicry, producing a capability trap in which state capability stagnates or declines while reform and aid continue, and it is escaped by locally defined problem-solving through authorized experimentation, tight feedback and broad engagement (PDIA)'
+title: 'PDIA escapes the isomorphic-mimicry trap'
+statement: >-
+  When external funding and legitimacy are granted for adopting the forms of
+  capable states (best-practice laws, agencies and procedures) rather than
+  for demonstrated performance, recipient organizations engage in isomorphic
+  mimicry, producing a capability trap in which state capability stagnates
+  or declines while reform and aid continue, and it is escaped by locally
+  defined problem-solving through authorized experimentation, tight feedback
+  and broad engagement (PDIA)
 version: 1
 tags:
 - society-and-governance
@@ -28,7 +36,7 @@ summary: >-
   [THEORY-1481](THEORY-1481.md) carried, word for word.
 ---
 
-# THEORY-1524: When external funding and legitimacy are granted for adopting the forms of capable states (best-practice laws, agencies and procedures) rather than for demonstrated performance, recipient organizations engage in isomorphic mimicry, producing a capability trap in which state capability stagnates or declines while reform and aid continue, and it is escaped by locally defined problem-solving through authorized experimentation, tight feedback and broad engagement (PDIA)
+# THEORY-1524: PDIA escapes the isomorphic-mimicry trap
 
 ## Source
 

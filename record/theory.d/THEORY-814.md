@@ -4,7 +4,12 @@ status: Proposed
 formerly:
 - THEORY-tmppuc79
 promote_when: 'A model in which the consensus has memory (a challenger must win repeatedly, or evidence accumulates) and in which scientists can learn. It must still find that a population whose proposals never put the true model against the consensus holds a false consensus with high reproducibility, while a population that keeps the model space connected does not. Alternatively, a meta-scientific study of a real field whose replications succeed at a high rate while independent evidence shows its standing model to be wrong, traced to which alternatives were tested. Further runs of the memoryless 14-model framework cannot settle it. Its result is already proven there.'
-title: 'In scientific communities that settle on a consensus model by sound model comparisons, high reproducibility of results is not evidence that the consensus is true, because which alternatives get proposed can hold a false consensus whose results reproduce almost perfectly'
+title: 'Reproducibility needn''t indicate true consensus'
+statement: >-
+  In scientific communities that settle on a consensus model by sound model
+  comparisons, high reproducibility of results is not evidence that the
+  consensus is true, because which alternatives get proposed can hold a
+  false consensus whose results reproduce almost perfectly
 version: 1
 tags:
 - philosophy-of-science
@@ -29,7 +34,7 @@ answers:
 - QUESTION-151
 ---
 
-# THEORY-814: In scientific communities that settle on a consensus model by sound model comparisons, high reproducibility of results is not evidence that the consensus is true, because which alternatives get proposed can hold a false consensus whose results reproduce almost perfectly
+# THEORY-814: Reproducibility needn't indicate true consensus
 
 ## Source
 

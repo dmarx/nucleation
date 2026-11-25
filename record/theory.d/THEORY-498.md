@@ -3,7 +3,15 @@ number: 498
 status: Active
 formerly:
 - THEORY-tmpd2ifs
-title: "A mathematical structure whose domains are aspects of experience and whose axioms hold there is not thereby a structure of experience, because that test passes incompatible topologies on one set and every rescaling of a metric without consulting experience; requiring, for each relation, an aspect that changes exactly when a variation of experience breaks the relation removes those automatic passes, and has so far been met only by relative similarity and a visual topology, each on an assumed premise"
+title: 'Axioms holding isn''t a structure of experience'
+statement: >-
+  A mathematical structure whose domains are aspects of experience and whose
+  axioms hold there is not thereby a structure of experience, because that
+  test passes incompatible topologies on one set and every rescaling of a
+  metric without consulting experience; requiring, for each relation, an
+  aspect that changes exactly when a variation of experience breaks the
+  relation removes those automatic passes, and has so far been met only by
+  relative similarity and a visual topology, each on an assumed premise
 version: 1
 tags:
 - consciousness
@@ -25,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-063 THEORY-523 THEORY-573 THEORY-633 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 
-# THEORY-498: A mathematical structure whose domains are aspects of experience and whose axioms hold there is not thereby a structure of experience, because that test passes incompatible topologies on one set and every rescaling of a metric without consulting experience; requiring, for each relation, an aspect that changes exactly when a variation of experience breaks the relation removes those automatic passes, and has so far been met only by relative similarity and a visual topology, each on an assumed premise
+# THEORY-498: Axioms holding isn't a structure of experience
 
 ## Source
 

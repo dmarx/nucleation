@@ -3,7 +3,16 @@ number: 374
 status: Active
 formerly:
 - THEORY-tmpg43pg
-title: "Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size under the open-world assumption when the views are conjunctive and the query conjunctive or datalog, but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries"
+title: 'Exact view answerability is NP-complete'
+statement: >-
+  Given views with conjunctive definitions, deciding that they answer a
+  conjunctive query exactly is NP-complete in the size of the query and
+  definitions, while a maximally-contained rewriting can be built in time
+  polynomial in that size without saying whether it is exact; and finding
+  all certain answers from the stored contents is polynomial in their size
+  under the open-world assumption when the views are conjunctive and the
+  query conjunctive or datalog, but co-NP-hard in that size under the
+  closed-world assumption even for conjunctive views and queries
 version: 2
 history:
 - version: 2
@@ -40,7 +49,7 @@ bears_on:
 - QUESTION-114
 ---
 
-# THEORY-374: Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size under the open-world assumption when the views are conjunctive and the query conjunctive or datalog, but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries
+# THEORY-374: Exact view answerability is NP-complete
 
 ## Source
 

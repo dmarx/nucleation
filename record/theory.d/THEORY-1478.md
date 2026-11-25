@@ -3,7 +3,14 @@ number: 1478
 status: Active
 formerly:
 - THEORY-tmpeqr8u
-title: 'In a global review of 514 conservation translocations of terrestrial vertebrates, practitioner-judged success was similar for captive-bred and wild-sourced stock and for soft and hard release, but population growth after release was negative on average for captive-bred stock and lower for soft than for hard release, and success rose with numbers released up to about 20–50 individuals'
+title: 'Captive-bred releases decline on average'
+statement: >-
+  In a global review of 514 conservation translocations of terrestrial
+  vertebrates, practitioner-judged success was similar for captive-bred and
+  wild-sourced stock and for soft and hard release, but population growth
+  after release was negative on average for captive-bred stock and lower for
+  soft than for hard release, and success rose with numbers released up to
+  about 20–50 individuals
 version: 3
 history:
 - version: 2
@@ -51,7 +58,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: LIT-2173 — Unavailable; cited from the reading of Morris et al. (2021) as open -->
 
-# THEORY-1478: In a global review of 514 conservation translocations of terrestrial vertebrates, practitioner-judged success was similar for captive-bred and wild-sourced stock and for soft and hard release, but population growth after release was negative on average for captive-bred stock and lower for soft than for hard release, and success rose with numbers released up to about 20–50 individuals
+# THEORY-1478: Captive-bred releases decline on average
 
 ## Source
 

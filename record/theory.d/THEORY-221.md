@@ -23,7 +23,13 @@ promote_when: >-
   performance of AI systems, which the account says is beside the point;
   or the bare assertion that some system does or does not produce its
   own causes.
-title: 'Organizational closure is a circular organization of efficient causes by which a system produces the conditions of its own existence, distinct from feedback, self-organization and catalytic cycles; systems whose loops do not regenerate the constraints that make them possible approximate closure without instantiating it'
+title: 'Organizational closure differs from feedback'
+statement: >-
+  Organizational closure is a circular organization of efficient causes by
+  which a system produces the conditions of its own existence, distinct from
+  feedback, self-organization and catalytic cycles; systems whose loops do
+  not regenerate the constraints that make them possible approximate closure
+  without instantiating it
 version: 2
 history:
 - version: 2
@@ -61,7 +67,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; accounts this one bears on, nothing here rests on their being settled -->
 
-# THEORY-221: Organizational closure is a circular organization of efficient causes by which a system produces the conditions of its own existence, distinct from feedback, self-organization and catalytic cycles; systems whose loops do not regenerate the constraints that make them possible approximate closure without instantiating it
+# THEORY-221: Organizational closure differs from feedback
 
 ## Source
 

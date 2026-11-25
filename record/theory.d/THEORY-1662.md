@@ -3,7 +3,16 @@ number: 1662
 status: Proposed
 formerly:
 - THEORY-tmp82z5p
-title: 'Sullivan, Dulac and colleagues (2025, preprint) report that in mice sterile immune challenges modelling bacterial, viral, parasitic, allergic and colitic conditions produce distinct sickness states in physiology and social behaviour, in whole-brain activity patterns that a classifier can tell apart, and in hypothalamic immune-gene expression, with the parasite-antigen and colitis challenges increasing rather than reducing social interaction, so that the brain''s response to infection is pathogen-specific rather than generic.'
+title: 'Brain sickness responses are pathogen-specific'
+statement: >-
+  Sullivan, Dulac and colleagues (2025, preprint) report that in mice
+  sterile immune challenges modelling bacterial, viral, parasitic, allergic
+  and colitic conditions produce distinct sickness states in physiology and
+  social behaviour, in whole-brain activity patterns that a classifier can
+  tell apart, and in hypothalamic immune-gene expression, with the
+  parasite-antigen and colitis challenges increasing rather than reducing
+  social interaction, so that the brain's response to infection is
+  pathogen-specific rather than generic.
 version: 1
 source:
 - LIT-2345
@@ -28,7 +37,7 @@ summary: >-
   with DSS; PLA2 apart.
 ---
 
-# THEORY-1662: Sullivan, Dulac and colleagues (2025, preprint) report that in mice sterile immune challenges modelling bacterial, viral, parasitic, allergic and colitic conditions produce distinct sickness states in physiology and social behaviour, in whole-brain activity patterns that a classifier can tell apart, and in hypothalamic immune-gene expression, with the parasite-antigen and colitis challenges increasing rather than reducing social interaction, so that the brain's response to infection is pathogen-specific rather than generic.
+# THEORY-1662: Brain sickness responses are pathogen-specific
 
 ## The account
 

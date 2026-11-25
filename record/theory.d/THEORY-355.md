@@ -14,7 +14,15 @@ promote_when: >-
   examples, or worst-case search counts like O(N) to O(log N), cannot settle it:
   those show that an arrangement could cut search, which is already held, not by
   how much or when it pays.
-title: "Agents arrange their surroundings so that perception and choice take the place of internal search, changing how much thinking a task needs without changing what can physically be done; the set-up is paid once and recovered over the later choice points the arrangement serves, so an arrangement whose scope is the whole task can repay a large set-up and a narrow one must repay within the next few actions, and the arrangement decays unless maintained; the savings are argued and piloted, not measured"
+title: 'Arranging surroundings replaces internal search'
+statement: >-
+  Agents arrange their surroundings so that perception and choice take the
+  place of internal search, changing how much thinking a task needs without
+  changing what can physically be done; the set-up is paid once and
+  recovered over the later choice points the arrangement serves, so an
+  arrangement whose scope is the whole task can repay a large set-up and a
+  narrow one must repay within the next few actions, and the arrangement
+  decays unless maintained; the savings are argued and piloted, not measured
 version: 1
 tags:
 - cognition
@@ -38,7 +46,7 @@ bears_on:
 - QUESTION-095
 ---
 
-# THEORY-355: Agents arrange their surroundings so that perception and choice take the place of internal search, changing how much thinking a task needs without changing what can physically be done; the set-up is paid once and recovered over the later choice points the arrangement serves, so an arrangement whose scope is the whole task can repay a large set-up and a narrow one must repay within the next few actions, and the arrangement decays unless maintained; the savings are argued and piloted, not measured
+# THEORY-355: Arranging surroundings replaces internal search
 
 ## Source
 

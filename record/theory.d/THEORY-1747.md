@@ -3,7 +3,14 @@ number: 1747
 status: Proposed
 formerly:
 - THEORY-tmp9qlii
-title: 'Li, Naito and Shirado report that on 65 hidden-profile tasks, multi-agent LLM groups pool distributed facts poorly (30.1% after discussion against 80.7% for one agent with every fact), that the loss lies in surfacing unshared facts rather than integrating them, since forced full disclosure nearly restores accuracy, and that a two-stage exchange-then-decide protocol raises accuracy on a subset of the tasks.'
+title: 'LLM groups fail to surface unshared facts'
+statement: >-
+  Li, Naito and Shirado report that on 65 hidden-profile tasks, multi-agent
+  LLM groups pool distributed facts poorly (30.1% after discussion against
+  80.7% for one agent with every fact), that the loss lies in surfacing
+  unshared facts rather than integrating them, since forced full disclosure
+  nearly restores accuracy, and that a two-stage exchange-then-decide
+  protocol raises accuracy on a subset of the tasks.
 version: 1
 tags:
 - social-science
@@ -27,7 +34,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1747: Li, Naito and Shirado report that on 65 hidden-profile tasks, multi-agent LLM groups pool distributed facts poorly (30.1% after discussion against 80.7% for one agent with every fact), that the loss lies in surfacing unshared facts rather than integrating them, since forced full disclosure nearly restores accuracy, and that a two-stage exchange-then-decide protocol raises accuracy on a subset of the tasks.
+# THEORY-1747: LLM groups fail to surface unshared facts
 
 ## The account
 

@@ -12,7 +12,13 @@ promote_when: >-
   excluded. Nearest-neighbour statistics within a tolerance, or a
   correlation with similarity ratings, do not settle it: they are
   necessary conditions that many non-Euclidean structures also meet.
-title: 'Normalized log co-occurrences of words in large corpora behave as distances in a Euclidean semantic space: they correlate with human similarity ratings (r = 0.75 against MEN) and their nearest-neighbour centrality and reciprocity fall in the range expected of points sampled in a Euclidean space, apart from superordinate and function words'
+title: 'Log co-occurrences act as Euclidean distances'
+statement: >-
+  Normalized log co-occurrences of words in large corpora behave as
+  distances in a Euclidean semantic space: they correlate with human
+  similarity ratings (r = 0.75 against MEN) and their nearest-neighbour
+  centrality and reciprocity fall in the range expected of points sampled in
+  a Euclidean space, apart from superordinate and function words
 version: 1
 tags:
 - representation-learning
@@ -29,7 +35,7 @@ summary: >-
   reciprocity criterion the paper states. Proposed.
 ---
 
-# THEORY-1124: Normalized log co-occurrences of words in large corpora behave as distances in a Euclidean semantic space: they correlate with human similarity ratings (r = 0.75 against MEN) and their nearest-neighbour centrality and reciprocity fall in the range expected of points sampled in a Euclidean space, apart from superordinate and function words
+# THEORY-1124: Log co-occurrences act as Euclidean distances
 
 ## Source
 

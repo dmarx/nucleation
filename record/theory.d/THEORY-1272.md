@@ -14,7 +14,11 @@ promote_when: >-
   that track the learning rate and damping as a quadratic model predicts
   and not the LLC, or a fitted d_s that exceeds λ in converged networks.
   More fits of log R on log t with d_s defined by the fit cannot settle it.
-title: "Late in training, SGD weights drift sub-diffusively, with displacement growing as a power of training time set by a spectral dimension and the local learning coefficient"
+title: 'Late SGD weights drift sub-diffusively'
+statement: >-
+  Late in training, SGD weights drift sub-diffusively, with displacement
+  growing as a power of training time set by a spectral dimension and the
+  local learning coefficient
 version: 1
 tags:
 - learning-theory
@@ -33,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-209 — Proposed or Open; Kunin's account of the same motion, and the question about timing -->
 
-# THEORY-1272: Late in training, SGD weights drift sub-diffusively, with displacement growing as a power of training time set by a spectral dimension and the local learning coefficient
+# THEORY-1272: Late SGD weights drift sub-diffusively
 
 ## Source
 

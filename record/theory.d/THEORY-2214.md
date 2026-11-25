@@ -3,7 +3,14 @@ number: 2214
 status: Proposed
 formerly:
 - THEORY-tmpc2ttm
-title: 'Martela and Ryan (2019) find that frustration of beneficence, measured as feeling one has harmed others, correlates with ill-being but adds no variance to it once autonomy, competence and relatedness frustration are controlled, and on that ground tentatively propose that beneficence is a basic wellness enhancer, whose satisfaction raises well-being but whose frustration has no unique cost, rather than a basic psychological need'
+title: 'Beneficence is an enhancer, not a need'
+statement: >-
+  Martela and Ryan (2019) find that frustration of beneficence, measured as
+  feeling one has harmed others, correlates with ill-being but adds no
+  variance to it once autonomy, competence and relatedness frustration are
+  controlled, and on that ground tentatively propose that beneficence is a
+  basic wellness enhancer, whose satisfaction raises well-being but whose
+  frustration has no unique cost, rather than a basic psychological need
 version: 1
 source:
 - LIT-1983
@@ -30,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2213 — Proposed; the same authors' experimental reading, filed in the same batch -->
 
-# THEORY-2214: Martela and Ryan (2019) find that frustration of beneficence, measured as feeling one has harmed others, correlates with ill-being but adds no variance to it once autonomy, competence and relatedness frustration are controlled, and on that ground tentatively propose that beneficence is a basic wellness enhancer, whose satisfaction raises well-being but whose frustration has no unique cost, rather than a basic psychological need
+# THEORY-2214: Beneficence is an enhancer, not a need
 
 ## The account
 

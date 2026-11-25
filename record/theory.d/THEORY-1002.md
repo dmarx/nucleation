@@ -3,7 +3,15 @@ number: 1002
 status: Active
 formerly:
 - THEORY-tmpqhbjf
-title: 'On frozen randomly initialized feed-forward networks at chance on hierarchical equality, with 16 input dimensions, distributed alignment search for the two-equality causal model reached interchange intervention accuracy of 0.50 to 0.51 at hidden sizes up to 256 but 0.55 at 1,028 and 0.64 at 4,096, so in a hidden layer much wider than the input a learned rotation can produce above-chance interchange accuracy for an algorithm the network does not implement'
+title: 'DAS finds unimplemented algorithms in wide nets'
+statement: >-
+  On frozen randomly initialized feed-forward networks at chance on
+  hierarchical equality, with 16 input dimensions, distributed alignment
+  search for the two-equality causal model reached interchange intervention
+  accuracy of 0.50 to 0.51 at hidden sizes up to 256 but 0.55 at 1,028 and
+  0.64 at 4,096, so in a hidden layer much wider than the input a learned
+  rotation can produce above-chance interchange accuracy for an algorithm
+  the network does not implement
 version: 2
 history:
 - version: 1
@@ -42,7 +50,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; a neighbouring account, cited as open -->
 
-# THEORY-1002: On frozen randomly initialized feed-forward networks at chance on hierarchical equality, with 16 input dimensions, distributed alignment search for the two-equality causal model reached interchange intervention accuracy of 0.50 to 0.51 at hidden sizes up to 256 but 0.55 at 1,028 and 0.64 at 4,096, so in a hidden layer much wider than the input a learned rotation can produce above-chance interchange accuracy for an algorithm the network does not implement
+# THEORY-1002: DAS finds unimplemented algorithms in wide nets
 
 ## Source
 

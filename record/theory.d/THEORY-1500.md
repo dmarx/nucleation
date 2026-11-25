@@ -10,7 +10,17 @@ promote_when: >-
   the cited existence analysis of the driven, damped nonlinear Schrödinger
   equation (Barashenkov and Smirnov 1996, the paper's ref. 30) confirming
   the window √3 < ζ0 < π²f²/8 under the conditions the paper uses.
-title: 'Temporal dissipative solitons in a continuously pumped Kerr microresonator, held by the pump against cavity loss, exist only in a window of normalized detuning between √3 and π²f²/8, form spontaneously from noise-seeded modulation when the pump laser is swept from the upper onto the lower branch of the Kerr-bistable resonance, show as discrete steps in transmission, one per soliton number, whose number varied between simulated scans with the random seeding, and persist with a shape fixed by resonator and pump until the pump is switched off or the detuning is pushed beyond the small thermal triangles'
+title: 'Kerr solitons exist in a detuning window'
+statement: >-
+  Temporal dissipative solitons in a continuously pumped Kerr
+  microresonator, held by the pump against cavity loss, exist only in a
+  window of normalized detuning between √3 and π²f²/8, form spontaneously
+  from noise-seeded modulation when the pump laser is swept from the upper
+  onto the lower branch of the Kerr-bistable resonance, show as discrete
+  steps in transmission, one per soliton number, whose number varied between
+  simulated scans with the random seeding, and persist with a shape fixed by
+  resonator and pump until the pump is switched off or the detuning is
+  pushed beyond the small thermal triangles
 version: 1
 tags:
 - natural-sciences
@@ -34,7 +44,7 @@ summary: >-
   (not measured), or how the number of solitons varies between
   experimental runs (reported for simulations only).
 ---
-# THEORY-1500: Temporal dissipative solitons in a continuously pumped Kerr microresonator, held by the pump against cavity loss, exist only in a window of normalized detuning between √3 and π²f²/8, form spontaneously from noise-seeded modulation when the pump laser is swept from the upper onto the lower branch of the Kerr-bistable resonance, show as discrete steps in transmission, one per soliton number, whose number varied between simulated scans with the random seeding, and persist with a shape fixed by resonator and pump until the pump is switched off or the detuning is pushed beyond the small thermal triangles
+# THEORY-1500: Kerr solitons exist in a detuning window
 
 ## Source
 

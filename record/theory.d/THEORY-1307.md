@@ -3,7 +3,15 @@ number: 1307
 status: Active
 formerly:
 - THEORY-tmp4q289
-title: 'In Slemp et al.''s meta-analysis of 881 mostly cross-sectional samples, perceived support for autonomy, competence and relatedness each correlated strongly with satisfaction of all three needs (ρ = .44–.62) and negatively with their frustration, but the three supports intercorrelated .67–.71, and their need-specificity appears only in joint models: with all three entered, relatedness support carried relatedness satisfaction (β = .56) and autonomy support added nothing to it (β = .007)'
+title: 'Need supports are need-specific only jointly'
+statement: >-
+  In Slemp et al.'s meta-analysis of 881 mostly cross-sectional samples,
+  perceived support for autonomy, competence and relatedness each correlated
+  strongly with satisfaction of all three needs (ρ = .44–.62) and negatively
+  with their frustration, but the three supports intercorrelated .67–.71,
+  and their need-specificity appears only in joint models: with all three
+  entered, relatedness support carried relatedness satisfaction (β = .56)
+  and autonomy support added nothing to it (β = .007)
 version: 2
 history:
 - version: 2
@@ -29,7 +37,7 @@ bears_on:
 - QUESTION-451
 ---
 
-# THEORY-1307: In Slemp et al.'s meta-analysis of 881 mostly cross-sectional samples, perceived support for autonomy, competence and relatedness each correlated strongly with satisfaction of all three needs (ρ = .44–.62) and negatively with their frustration, but the three supports intercorrelated .67–.71, and their need-specificity appears only in joint models: with all three entered, relatedness support carried relatedness satisfaction (β = .56) and autonomy support added nothing to it (β = .007)
+# THEORY-1307: Need supports are need-specific only jointly
 
 ## Source
 

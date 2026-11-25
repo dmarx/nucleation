@@ -3,7 +3,17 @@ number: 1418
 status: Active
 formerly:
 - THEORY-tmpq2qdv
-title: 'Stern, Pinson and Murugan find, in zero-temperature simulations of idealized rigid-panel crease patterns designed with one folding motion, distractor branches at the flat state whose number grows exponentially with the sheet''s boundary length on random meshes up to 6 × 6, which they trace to frustrated loops of two-branch vertices; and, on one 4 × 4 pattern, that whether the actuated creases'' folding islands cover the sheet predicts folding success much better than the number of actuators, and that an added actuator can ruin a folding that succeeded, without a necessary and sufficient condition'
+title: 'Distractor branches grow with boundary length'
+statement: >-
+  Stern, Pinson and Murugan find, in zero-temperature simulations of
+  idealized rigid-panel crease patterns designed with one folding motion,
+  distractor branches at the flat state whose number grows exponentially
+  with the sheet's boundary length on random meshes up to 6 × 6, which they
+  trace to frustrated loops of two-branch vertices; and, on one 4 × 4
+  pattern, that whether the actuated creases' folding islands cover the
+  sheet predicts folding success much better than the number of actuators,
+  and that an added actuator can ruin a folding that succeeded, without a
+  necessary and sufficient condition
 version: 3
 history:
 - version: 2
@@ -55,7 +65,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-1528 — Proposed and new; the authors' generalization split off at the status review of 2026-11-06, cited as open -->
 
-# THEORY-1418: Stern, Pinson and Murugan find, in zero-temperature simulations of idealized rigid-panel crease patterns designed with one folding motion, distractor branches at the flat state whose number grows exponentially with the sheet's boundary length on random meshes up to 6 × 6, which they trace to frustrated loops of two-branch vertices; and, on one 4 × 4 pattern, that whether the actuated creases' folding islands cover the sheet predicts folding success much better than the number of actuators, and that an added actuator can ruin a folding that succeeded, without a necessary and sufficient condition
+# THEORY-1418: Distractor branches grow with boundary length
 
 ## Source
 

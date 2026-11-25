@@ -3,7 +3,16 @@ number: 488
 status: Active
 formerly:
 - THEORY-tmpaw08o
-title: 'Clark (2020), synthesising open writing by Russian military authors of 2015 to 2020, chiefly Chekinov and Bogdanov, Bartosh and Kiselev, with no stated rule for choosing sources, reports that they use "hybrid war" for a category of war marked off by its objective, reshaping a target state''s governance, geostrategic orientation and worldview, in which every action up to conventional military force is subordinate to an information campaign, and not, as he says Western usage does, for a set of means below the threshold of armed conflict'
+title: 'Russian ''hybrid war'' names an aim, not a means'
+statement: >-
+  Clark (2020), synthesising open writing by Russian military authors of
+  2015 to 2020, chiefly Chekinov and Bogdanov, Bartosh and Kiselev, with no
+  stated rule for choosing sources, reports that they use "hybrid war" for a
+  category of war marked off by its objective, reshaping a target state's
+  governance, geostrategic orientation and worldview, in which every action
+  up to conventional military force is subordinate to an information
+  campaign, and not, as he says Western usage does, for a set of means below
+  the threshold of armed conflict
 version: 2
 history:
 - version: 2
@@ -51,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1207 — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 
-# THEORY-488: Clark (2020), synthesising open writing by Russian military authors of 2015 to 2020, chiefly Chekinov and Bogdanov, Bartosh and Kiselev, with no stated rule for choosing sources, reports that they use "hybrid war" for a category of war marked off by its objective, reshaping a target state's governance, geostrategic orientation and worldview, in which every action up to conventional military force is subordinate to an information campaign, and not, as he says Western usage does, for a set of means below the threshold of armed conflict
+# THEORY-488: Russian 'hybrid war' names an aim, not a means
 
 ## Source
 

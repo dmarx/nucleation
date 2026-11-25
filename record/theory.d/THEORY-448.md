@@ -15,7 +15,14 @@ promote_when: >-
   embryological and immunological evidence of entanglement cannot settle
   it: the paper adopts Kingma's four criteria as given, and they bear on
   whether the foster is merely contained, which is already conceded.
-title: "On a substance ontology, a gestated foster that is part of the pregnant organism either is no substance, so that mammals begin at birth and the foster is not the later baby, or is part and substance at once, which leaves no consistent count; a process ontology keeps both parthood and foster–neonate identity, at the price of a count between one and two that it does not define"
+title: 'Pregnancy defeats a consistent substance count'
+statement: >-
+  On a substance ontology, a gestated foster that is part of the pregnant
+  organism either is no substance, so that mammals begin at birth and the
+  foster is not the later baby, or is part and substance at once, which
+  leaves no consistent count; a process ontology keeps both parthood and
+  foster–neonate identity, at the price of a count between one and two that
+  it does not define
 version: 1
 tags:
 - individuation
@@ -43,7 +50,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-072 THEORY-221 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed; named as a parallel the reading draws, not leaned on -->
 
-# THEORY-448: On a substance ontology, a gestated foster that is part of the pregnant organism either is no substance, so that mammals begin at birth and the foster is not the later baby, or is part and substance at once, which leaves no consistent count; a process ontology keeps both parthood and foster–neonate identity, at the price of a count between one and two that it does not define
+# THEORY-448: Pregnancy defeats a consistent substance count
 
 ## Source
 

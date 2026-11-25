@@ -3,7 +3,16 @@ number: 1863
 status: Proposed
 formerly:
 - THEORY-tmpyot08
-title: 'Illich holds that beyond a socially critical threshold of energy per person motorized transport reduces equity and establishes a radical monopoly, the dominance of an industry as the means of satisfying a need that formerly occasioned a personal response, imposed not by scarcity or by eliminating competitors but by its acquired ability to create and shape the need it alone can satisfy, and that the encroachment of such a monopoly can be pinpointed by social analysis while its limit is a matter of politics'
+title: 'Past an energy threshold, transport cuts equity'
+statement: >-
+  Illich holds that beyond a socially critical threshold of energy per
+  person motorized transport reduces equity and establishes a radical
+  monopoly, the dominance of an industry as the means of satisfying a need
+  that formerly occasioned a personal response, imposed not by scarcity or
+  by eliminating competitors but by its acquired ability to create and shape
+  the need it alone can satisfy, and that the encroachment of such a
+  monopoly can be pinpointed by social analysis while its limit is a matter
+  of politics
 version: 1
 source:
 - LIT-2569
@@ -28,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-677 CLAIM-682 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: ARG-107 — Proposed; cited with its standing -->
 
-# THEORY-1863: Illich holds that beyond a socially critical threshold of energy per person motorized transport reduces equity and establishes a radical monopoly, the dominance of an industry as the means of satisfying a need that formerly occasioned a personal response, imposed not by scarcity or by eliminating competitors but by its acquired ability to create and shape the need it alone can satisfy, and that the encroachment of such a monopoly can be pinpointed by social analysis while its limit is a matter of politics
+# THEORY-1863: Past an energy threshold, transport cuts equity
 
 ## The account
 

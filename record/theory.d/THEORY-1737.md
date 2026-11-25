@@ -3,7 +3,13 @@ number: 1737
 status: Proposed
 formerly:
 - THEORY-tmp5vepa
-title: 'Hu, Wang and McAuley (2025) find that LLM memory agents fed information incrementally do well at retrieving stored snippets but all fail to act on the latest of conflicting facts when the answer needs several hops, reaching at most 28% accuracy, while long-context models do best at learning and understanding across the whole input.'
+title: 'Memory agents fail multi-hop conflict updates'
+statement: >-
+  Hu, Wang and McAuley (2025) find that LLM memory agents fed information
+  incrementally do well at retrieving stored snippets but all fail to act on
+  the latest of conflicting facts when the answer needs several hops,
+  reaching at most 28% accuracy, while long-context models do best at
+  learning and understanding across the whole input.
 version: 1
 tags:
 - learning-theory
@@ -22,7 +28,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1737: Hu, Wang and McAuley (2025) find that LLM memory agents fed information incrementally do well at retrieving stored snippets but all fail to act on the latest of conflicting facts when the answer needs several hops, reaching at most 28% accuracy, while long-context models do best at learning and understanding across the whole input.
+# THEORY-1737: Memory agents fail multi-hop conflict updates
 
 ## The account
 

@@ -10,7 +10,14 @@ promote_when: >-
   surveys the field after 2016 and finds no such link, which would promote
   it. The review's own side-by-side comparison cannot settle it, and
   neither can a further definition of work added to the list.
-title: "Quantum thermodynamics has at least four inequivalent notions of work, the ensemble average, the two-point-measurement random variable, the ε-deterministic single-shot work content and the resource-theory work, which answer different operational questions; only the two single-shot optima coincide, by identification of formulas and for energy-diagonal states"
+title: 'Quantum work has four inequivalent notions'
+statement: >-
+  Quantum thermodynamics has at least four inequivalent notions of work, the
+  ensemble average, the two-point-measurement random variable, the
+  ε-deterministic single-shot work content and the resource-theory work,
+  which answer different operational questions; only the two single-shot
+  optima coincide, by identification of formulas and for energy-diagonal
+  states
 version: 1
 tags:
 - quantum-foundations
@@ -30,7 +37,7 @@ summary: >-
   cannot be unified.
 ---
 
-# THEORY-416: Quantum thermodynamics has at least four inequivalent notions of work, the ensemble average, the two-point-measurement random variable, the ε-deterministic single-shot work content and the resource-theory work, which answer different operational questions; only the two single-shot optima coincide, by identification of formulas and for energy-diagonal states
+# THEORY-416: Quantum work has four inequivalent notions
 
 ## Source
 

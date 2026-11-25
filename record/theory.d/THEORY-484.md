@@ -14,7 +14,13 @@ promote_when: >-
   More correlational findings of task-set coding in DLPFC or
   context-dependent action coding in the striatum cannot settle it: they
   were the basis of the proposal.
-title: "The brain implements hierarchical reinforcement learning with options: dorsolateral prefrontal cortex represents which option is active, dorsolateral striatum holds option-specific policies, orbitofrontal cortex holds option-specific values, and dopamine carries option-level prediction errors at subtask boundaries"
+title: 'Brain implements options-based hierarchical RL'
+statement: >-
+  The brain implements hierarchical reinforcement learning with options:
+  dorsolateral prefrontal cortex represents which option is active,
+  dorsolateral striatum holds option-specific policies, orbitofrontal cortex
+  holds option-specific values, and dopamine carries option-level prediction
+  errors at subtask boundaries
 version: 1
 tags:
 - behavioral-integration
@@ -35,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-056 THEORY-062 — Proposed; named in Connections, not leaned on -->
 
-# THEORY-484: The brain implements hierarchical reinforcement learning with options: dorsolateral prefrontal cortex represents which option is active, dorsolateral striatum holds option-specific policies, orbitofrontal cortex holds option-specific values, and dopamine carries option-level prediction errors at subtask boundaries
+# THEORY-484: Brain implements options-based hierarchical RL
 
 ## Source
 

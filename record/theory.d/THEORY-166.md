@@ -3,7 +3,14 @@ number: 166
 status: Active
 formerly:
 - THEORY-tmp9wyar
-title: 'In the 66 Pew surveys of 2001–2011 that varied the order of two back-to-back binary questions, question order changed the answers but not the probability of giving the same answer to both, the equality a Lüders projection model predicts for any projectors; a classical model with order events can meet the same equality, so the regularity does not by itself favour quantum over classical probability'
+title: 'Question-order equality doesn''t favour quantum'
+statement: >-
+  In the 66 Pew surveys of 2001–2011 that varied the order of two
+  back-to-back binary questions, question order changed the answers but not
+  the probability of giving the same answer to both, the equality a Lüders
+  projection model predicts for any projectors; a classical model with order
+  events can meet the same equality, so the regularity does not by itself
+  favour quantum over classical probability
 version: 4
 history:
 - version: 2
@@ -60,7 +67,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-013 — Proposed; named as the neighbouring account this one is consistent with -->
 <!-- inactive-ok-file: THEORY-796 — Proposed; the general law this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 
-# THEORY-166: In the 66 Pew surveys of 2001–2011 that varied the order of two back-to-back binary questions, question order changed the answers but not the probability of giving the same answer to both, the equality a Lüders projection model predicts for any projectors; a classical model with order events can meet the same equality, so the regularity does not by itself favour quantum over classical probability
+# THEORY-166: Question-order equality doesn't favour quantum
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 361
 status: Active
 formerly:
 - THEORY-tmp095vr
-title: "When every object but one has full grade in exactly one of two attribute-sorted lists and the one has full grade in both, finding it under min takes at least about half the objects' worth of accesses for any algorithm that only reads the lists from the top and looks up objects already seen, and, with the tied objects in random order, about as many in expectation even for algorithms that may look up any object; a query on one attribute alone costs k accesses whatever the number of objects"
+title: 'Top-k under min needs ~n/2 accesses at worst'
+statement: >-
+  When every object but one has full grade in exactly one of two
+  attribute-sorted lists and the one has full grade in both, finding it
+  under min takes at least about half the objects' worth of accesses for any
+  algorithm that only reads the lists from the top and looks up objects
+  already seen, and, with the tied objects in random order, about as many in
+  expectation even for algorithms that may look up any object; a query on
+  one attribute alone costs k accesses whatever the number of objects
 version: 1
 tags:
 - databases
@@ -25,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1081 — Unavailable; the rival account of visual search, named as unread -->
 
-# THEORY-361: When every object but one has full grade in exactly one of two attribute-sorted lists and the one has full grade in both, finding it under min takes at least about half the objects' worth of accesses for any algorithm that only reads the lists from the top and looks up objects already seen, and, with the tied objects in random order, about as many in expectation even for algorithms that may look up any object; a query on one attribute alone costs k accesses whatever the number of objects
+# THEORY-361: Top-k under min needs ~n/2 accesses at worst
 
 ## Source
 

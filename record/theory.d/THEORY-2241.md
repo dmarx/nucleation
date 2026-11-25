@@ -10,7 +10,13 @@ promote_when: >-
   and a waiting arm, and no difference from them in delay discounting,
   with both gone two weeks later. The title asserts the authors'
   attribution to acceptance joined with monitoring only as theirs.
-title: 'Ge, Xie, Sun, Fan, Zhang and Liu find in a randomized trial that a week of brief smartphone mindfulness training combining monitoring and acceptance shortens Stroop and Go/No-go reaction times, without changing accuracy or delay discounting, and that no effect lasts two weeks; they attribute the effect to acceptance joined with monitoring'
+title: 'Brief mindfulness speeds responses briefly'
+statement: >-
+  Ge, Xie, Sun, Fan, Zhang and Liu find in a randomized trial that a week of
+  brief smartphone mindfulness training combining monitoring and acceptance
+  shortens Stroop and Go/No-go reaction times, without changing accuracy or
+  delay discounting, and that no effect lasts two weeks; they attribute the
+  effect to acceptance joined with monitoring
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -30,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-156 ARG-206 — Proposed or new; the claim this reading bears on and the judgement filed from it -->
 
-# THEORY-2241: Ge, Xie, Sun, Fan, Zhang and Liu find in a randomized trial that a week of brief smartphone mindfulness training combining monitoring and acceptance shortens Stroop and Go/No-go reaction times, without changing accuracy or delay discounting, and that no effect lasts two weeks; they attribute the effect to acceptance joined with monitoring
+# THEORY-2241: Brief mindfulness speeds responses briefly
 
 ## Source
 

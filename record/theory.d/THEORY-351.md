@@ -16,7 +16,15 @@ promote_when: >-
   better pilot recall. Further task analysis, or more observation of
   flights that succeed, cannot settle it: the account is already a task
   analysis of successful flights.
-title: "In a two-pilot airliner cockpit, setting the approach speeds as bugs on the airspeed indicators, prepared 25 to 30 minutes ahead in a low-workload phase from a card selected by the displayed gross weight, turns recall and scale reading at the moment of use into a judgement of spatial proximity, so the cockpit system remembers the speeds without either pilot's memory being improved; this is argued by task analysis of mandated procedure, not measured"
+title: 'Speed bugs let the cockpit remember speeds'
+statement: >-
+  In a two-pilot airliner cockpit, setting the approach speeds as bugs on
+  the airspeed indicators, prepared 25 to 30 minutes ahead in a low-workload
+  phase from a card selected by the displayed gross weight, turns recall and
+  scale reading at the moment of use into a judgement of spatial proximity,
+  so the cockpit system remembers the speeds without either pilot's memory
+  being improved; this is argued by task analysis of mandated procedure, not
+  measured
 version: 2
 history:
 - version: 2
@@ -55,7 +63,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: LIT-1060 — Unavailable; held without a reading, cited as such -->
 
-# THEORY-351: In a two-pilot airliner cockpit, setting the approach speeds as bugs on the airspeed indicators, prepared 25 to 30 minutes ahead in a low-workload phase from a card selected by the displayed gross weight, turns recall and scale reading at the moment of use into a judgement of spatial proximity, so the cockpit system remembers the speeds without either pilot's memory being improved; this is argued by task analysis of mandated procedure, not measured
+# THEORY-351: Speed bugs let the cockpit remember speeds
 
 ## Source
 

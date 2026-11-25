@@ -9,7 +9,12 @@ promote_when: >-
   state i jumps uniformly to a state below i, and of the asymptotic i^(−λ)
   occupation of its mixture with uniform jumps over all states. Not met
   by the word-frequency example, which the title does not assert.
-title: 'Corominas-Murtra, Hanel and Thurner prove that a process jumping uniformly to a lower state visits state i with probability exactly 1 over i, and that mixing its nested steps with uniform jumps gives occupation falling as i to the minus lambda'
+title: 'Jumping to lower states yields 1/i visits'
+statement: >-
+  Corominas-Murtra, Hanel and Thurner prove that a process jumping uniformly
+  to a lower state visits state i with probability exactly 1 over i, and
+  that mixing its nested steps with uniform jumps gives occupation falling
+  as i to the minus lambda
 version: 1
 history:
 - version: 1
@@ -34,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-795 THEORY-2150 LIT-3040 — Proposed, Deferred or new; this account's reading and the entries it bears on -->
 
-# THEORY-2175: Corominas-Murtra, Hanel and Thurner prove that a process jumping uniformly to a lower state visits state i with probability exactly 1 over i, and that mixing its nested steps with uniform jumps gives occupation falling as i to the minus lambda
+# THEORY-2175: Jumping to lower states yields 1/i visits
 
 ## Source
 

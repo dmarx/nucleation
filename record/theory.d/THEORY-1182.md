@@ -15,7 +15,12 @@ promote_when: >-
   aversive learning rates or valuation that the uncertainty account does
   not predict. More single studies chosen by the authors' knowledge of
   the literature cannot settle it.
-title: 'Across seven computational learning studies selected without a systematic search, anxiety goes with altered adjustment of learning rate to uncertainty, mostly for aversive outcomes, while overall learning rate, choice consistency and outcome valuation show little relation to it'
+title: 'Anxiety alters learning-rate tuning to uncertainty'
+statement: >-
+  Across seven computational learning studies selected without a systematic
+  search, anxiety goes with altered adjustment of learning rate to
+  uncertainty, mostly for aversive outcomes, while overall learning rate,
+  choice consistency and outcome valuation show little relation to it
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -34,7 +39,7 @@ summary: >-
   evidence.
 ---
 
-# THEORY-1182: Across seven computational learning studies selected without a systematic search, anxiety goes with altered adjustment of learning rate to uncertainty, mostly for aversive outcomes, while overall learning rate, choice consistency and outcome valuation show little relation to it
+# THEORY-1182: Anxiety alters learning-rate tuning to uncertainty
 
 ## Source
 

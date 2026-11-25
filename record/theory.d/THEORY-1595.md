@@ -3,7 +3,14 @@ number: 1595
 status: Active
 formerly:
 - THEORY-tmpe97rb
-title: 'Rubin and Hewstone report, from a count of experiments on social identity theory''s self-esteem hypothesis, that intergroup discrimination tends to raise self-esteem but is not in general motivated by low self-esteem, so the hypothesis is not supported in its full and unqualified form, and that most tests measured global personal self-esteem where the theory implies specific social state self-esteem'
+title: 'Low self-esteem doesn''t drive discrimination'
+statement: >-
+  Rubin and Hewstone report, from a count of experiments on social identity
+  theory's self-esteem hypothesis, that intergroup discrimination tends to
+  raise self-esteem but is not in general motivated by low self-esteem, so
+  the hypothesis is not supported in its full and unqualified form, and that
+  most tests measured global personal self-esteem where the theory implies
+  specific social state self-esteem
 version: 2
 history:
 - version: 1
@@ -34,7 +41,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1595: Rubin and Hewstone report, from a count of experiments on social identity theory's self-esteem hypothesis, that intergroup discrimination tends to raise self-esteem but is not in general motivated by low self-esteem, so the hypothesis is not supported in its full and unqualified form, and that most tests measured global personal self-esteem where the theory implies specific social state self-esteem
+# THEORY-1595: Low self-esteem doesn't drive discrimination
 
 ## The account
 

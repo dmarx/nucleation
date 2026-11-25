@@ -3,7 +3,12 @@ number: 1257
 status: Active
 formerly:
 - THEORY-tmp8ggnh
-title: "Averaging constant-rate SGD iterates at stationarity gives a covariance that shrinks with the number of examples processed, and equals the Gaussian posterior's for that many observations when the noise covariance equals the Hessian"
+title: 'Averaged SGD can match posterior covariance'
+statement: >-
+  Averaging constant-rate SGD iterates at stationarity gives a covariance
+  that shrinks with the number of examples processed, and equals the
+  Gaussian posterior's for that many observations when the noise covariance
+  equals the Hessian
 version: 2
 history:
 - version: 2
@@ -35,7 +40,7 @@ bears_on:
 - QUESTION-363
 ---
 
-# THEORY-1257: Averaging constant-rate SGD iterates at stationarity gives a covariance that shrinks with the number of examples processed, and equals the Gaussian posterior's for that many observations when the noise covariance equals the Hessian
+# THEORY-1257: Averaged SGD can match posterior covariance
 
 ## Source
 

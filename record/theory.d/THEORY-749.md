@@ -3,7 +3,13 @@ number: 749
 status: Active
 formerly:
 - THEORY-tmp99aof
-title: 'A weak solution of the incompressible Euler equations on the periodic box that lies in L³(0,T; B^α_{3,∞}) ∩ C([0,T]; L²) with α > 1/3 conserves kinetic energy, because the energy flux into scales below a mollification scale ε is bounded by Cε^(3α−1)∫‖u‖³ and so vanishes as ε → 0; this does not show that rougher solutions dissipate'
+title: 'Euler solutions above 1/3 conserve energy'
+statement: >-
+  A weak solution of the incompressible Euler equations on the periodic box
+  that lies in L³(0,T; B^α_{3,∞}) ∩ C([0,T]; L²) with α > 1/3 conserves
+  kinetic energy, because the energy flux into scales below a mollification
+  scale ε is bounded by Cε^(3α−1)∫‖u‖³ and so vanishes as ε → 0; this does
+  not show that rougher solutions dissipate
 version: 4
 history:
 - version: 1
@@ -58,7 +64,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-763 THEORY-776 — Proposed; the negative half, cited as open -->
 <!-- inactive-ok-file: LIT-1252 — Unavailable; Eyink 2005, cited for where finer versions of the same estimate are proved, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion named for context, nothing here rests on it -->
-# THEORY-749: A weak solution of the incompressible Euler equations on the periodic box that lies in L³(0,T; B^α_{3,∞}) ∩ C([0,T]; L²) with α > 1/3 conserves kinetic energy, because the energy flux into scales below a mollification scale ε is bounded by Cε^(3α−1)∫‖u‖³ and so vanishes as ε → 0; this does not show that rougher solutions dissipate
+# THEORY-749: Euler solutions above 1/3 conserve energy
 
 ## Source
 

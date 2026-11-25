@@ -18,7 +18,11 @@ promote_when: >-
   models and disappears in pretrained ones. More layer-wise curves of the
   matrix-based information estimate cannot settle it, since what that
   estimate measures is in question.
-title: 'Under distribution shift the best layer for a linear readout lies below the top: across the last layers of a trained network, in-distribution accuracy rises while out-of-distribution accuracy falls'
+title: 'Best OOD readout layer lies below the top'
+statement: >-
+  Under distribution shift the best layer for a linear readout lies below
+  the top: across the last layers of a trained network, in-distribution
+  accuracy rises while out-of-distribution accuracy falls
 version: 2
 history:
 - version: 2
@@ -54,7 +58,7 @@ bears_on:
 - QUESTION-051
 ---
 
-# THEORY-104: Under distribution shift the best layer for a linear readout lies below the top: across the last layers of a trained network, in-distribution accuracy rises while out-of-distribution accuracy falls
+# THEORY-104: Best OOD readout layer lies below the top
 
 ## Source
 

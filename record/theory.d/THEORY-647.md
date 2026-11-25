@@ -13,7 +13,12 @@ promote_when: >-
   with any explicit boundary (§3.5.5), or if conjunction behaviour tracks a
   fixed probability. More proofs inside relative analysis cannot settle it;
   they show the model is consistent, not that belief works this way.
-title: "If outright belief is credence ultraclose to 1 relative to a context level, conjunction holds for any standard ('few') number of believed propositions and fails for an ultralarge number, which dissolves the Lottery Paradox as an accumulation of negligible rounding errors"
+title: 'Ultraclose credence dissolves the lottery paradox'
+statement: >-
+  If outright belief is credence ultraclose to 1 relative to a context
+  level, conjunction holds for any standard ('few') number of believed
+  propositions and fails for an ultralarge number, which dissolves the
+  Lottery Paradox as an accumulation of negligible rounding errors
 version: 2
 history:
 - version: 2
@@ -44,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-171 — Unavailable; a neighbour on credence and belief, not engaged -->
 
-# THEORY-647: If outright belief is credence ultraclose to 1 relative to a context level, conjunction holds for any standard ('few') number of believed propositions and fails for an ultralarge number, which dissolves the Lottery Paradox as an accumulation of negligible rounding errors
+# THEORY-647: Ultraclose credence dissolves the lottery paradox
 
 ## Source
 

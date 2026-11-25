@@ -3,7 +3,16 @@ number: 1695
 status: Proposed
 formerly:
 - THEORY-tmpp061k
-title: 'Scalco, Gesualdo, Cerqueti and Cinelli (2026) propose detecting information voids as statistically anomalous periods in which online information demand (searches, page views), rescaled to its own mean, exceeds supply (posts, news volume), and report for COVID-19 vaccines in six European countries that such voids clustered at rollout and regulatory events, outlasted periods of overabundance, and coincided with a lower share of highly credible sources and a higher share of low-credibility ones among shared links.'
+title: 'Information voids clustered at vaccine rollout'
+statement: >-
+  Scalco, Gesualdo, Cerqueti and Cinelli (2026) propose detecting
+  information voids as statistically anomalous periods in which online
+  information demand (searches, page views), rescaled to its own mean,
+  exceeds supply (posts, news volume), and report for COVID-19 vaccines in
+  six European countries that such voids clustered at rollout and regulatory
+  events, outlasted periods of overabundance, and coincided with a lower
+  share of highly credible sources and a higher share of low-credibility
+  ones among shared links.
 version: 1
 source:
 - LIT-2376
@@ -27,7 +36,7 @@ summary: >-
   Lack / Balance / Abundance / Overabundance.
 ---
 
-# THEORY-1695: Scalco, Gesualdo, Cerqueti and Cinelli (2026) propose detecting information voids as statistically anomalous periods in which online information demand (searches, page views), rescaled to its own mean, exceeds supply (posts, news volume), and report for COVID-19 vaccines in six European countries that such voids clustered at rollout and regulatory events, outlasted periods of overabundance, and coincided with a lower share of highly credible sources and a higher share of low-credibility ones among shared links.
+# THEORY-1695: Information voids clustered at vaccine rollout
 
 ## The account
 

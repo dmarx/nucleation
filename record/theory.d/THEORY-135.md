@@ -15,7 +15,15 @@ promote_when: >-
   persist without any mechanism that detects or contains such cells.
   Further case reports of cancer-like growth cannot settle it, because
   the survey's broad definition of cancer is what makes them count.
-title: 'Multicellular cooperation depends on suppressing cells that gain fitness at the expense of the organism, across five foundations (proliferation inhibition, controlled cell death, division of labour, resource allocation and maintenance of the extracellular environment); cancer-like cheating on them is found across the independent origins of complex multicellularity, so complex multicellularity can be understood as a system for detecting and suppressing cheaters'
+title: 'Multicellularity is a cheater-suppression system'
+statement: >-
+  Multicellular cooperation depends on suppressing cells that gain fitness
+  at the expense of the organism, across five foundations (proliferation
+  inhibition, controlled cell death, division of labour, resource allocation
+  and maintenance of the extracellular environment); cancer-like cheating on
+  them is found across the independent origins of complex multicellularity,
+  so complex multicellularity can be understood as a system for detecting
+  and suppressing cheaters
 version: 2
 history:
 - version: 2
@@ -48,7 +56,7 @@ corroborates:
 <!-- inactive-ok-file: NOTE-1758 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-141 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 
-# THEORY-135: Multicellular cooperation depends on suppressing cells that gain fitness at the expense of the organism, across five foundations (proliferation inhibition, controlled cell death, division of labour, resource allocation and maintenance of the extracellular environment); cancer-like cheating on them is found across the independent origins of complex multicellularity, so complex multicellularity can be understood as a system for detecting and suppressing cheaters
+# THEORY-135: Multicellularity is a cheater-suppression system
 
 ## Source
 

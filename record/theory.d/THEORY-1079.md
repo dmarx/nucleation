@@ -3,7 +3,14 @@ number: 1079
 status: Active
 formerly:
 - THEORY-tmpksbqt
-title: 'An open system can tip away from an attractor that exists, keeps its stability and keeps its basin at every frozen value of its parameter, when the attractor moves faster than the system can track it; with steady drift what bifurcates is the ability to track, in a co-moving frame, not the attractor, and the critical rate depends on the relaxation rate, the distance to the tipping threshold and the starting state'
+title: 'Fast drift tips a stable attractor'
+statement: >-
+  An open system can tip away from an attractor that exists, keeps its
+  stability and keeps its basin at every frozen value of its parameter, when
+  the attractor moves faster than the system can track it; with steady drift
+  what bifurcates is the ability to track, in a co-moving frame, not the
+  attractor, and the critical rate depends on the relaxation rate, the
+  distance to the tipping threshold and the starting state
 version: 2
 history:
 - version: 2
@@ -32,7 +39,7 @@ bears_on:
 - QUESTION-281
 ---
 
-# THEORY-1079: An open system can tip away from an attractor that exists, keeps its stability and keeps its basin at every frozen value of its parameter, when the attractor moves faster than the system can track it; with steady drift what bifurcates is the ability to track, in a co-moving frame, not the attractor, and the critical rate depends on the relaxation rate, the distance to the tipping threshold and the starting state
+# THEORY-1079: Fast drift tips a stable attractor
 
 ## Source
 

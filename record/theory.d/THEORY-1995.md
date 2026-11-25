@@ -12,7 +12,13 @@ promote_when: >-
   conditions: gauge-invariant Hamiltonians, the local induction
   approximation, formal analysis. Exhibiting vortex solitons would not
   bear on it, since the title asserts none.
-title: 'Taking the local induction approximation of fluid helicity, instead of kinetic energy, as the Hamiltonian of a vortex filament under the Rasetti–Regge Dirac bracket gives a space-curve motion that the Hasimoto transformation maps to the complex modified KdV equation, the second equation of the NLS hierarchy'
+title: 'Helicity filament flow maps to complex mKdV'
+statement: >-
+  Taking the local induction approximation of fluid helicity, instead of
+  kinetic energy, as the Hamiltonian of a vortex filament under the
+  Rasetti–Regge Dirac bracket gives a space-curve motion that the Hasimoto
+  transformation maps to the complex modified KdV equation, the second
+  equation of the NLS hierarchy
 version: 1
 tags:
 - natural-sciences
@@ -33,7 +39,7 @@ summary: >-
   call.
 ---
 
-# THEORY-1995: Taking the local induction approximation of fluid helicity, instead of kinetic energy, as the Hamiltonian of a vortex filament under the Rasetti–Regge Dirac bracket gives a space-curve motion that the Hasimoto transformation maps to the complex modified KdV equation, the second equation of the NLS hierarchy
+# THEORY-1995: Helicity filament flow maps to complex mKdV
 
 ## Source
 

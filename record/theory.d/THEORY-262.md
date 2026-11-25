@@ -16,7 +16,12 @@ promote_when: >-
   uniform intergroup wiring gives C_N at least as high as patchy wiring.
   High C_N in recorded brains with no matched connectivity contrast
   cannot settle the connectivity clause.
-title: "Neural complexity is low when a system's parts are independent or uniformly dependent and high when small subsets are nearly independent while large ones are integrated; in simulated cortex, patchy grouped connectivity raises it above random connectivity of equal density"
+title: 'Complexity peaks with segregated integration'
+statement: >-
+  Neural complexity is low when a system's parts are independent or
+  uniformly dependent and high when small subsets are nearly independent
+  while large ones are integrated; in simulated cortex, patchy grouped
+  connectivity raises it above random connectivity of equal density
 version: 1
 tags:
 - neuroscience
@@ -36,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-157 THEORY-097 THEORY-063 — Proposed; the block criterion and the block-duration finding this measure is compared with, and the dynamic-core account named for lineage -->
 
-# THEORY-262: Neural complexity is low when a system's parts are independent or uniformly dependent and high when small subsets are nearly independent while large ones are integrated; in simulated cortex, patchy grouped connectivity raises it above random connectivity of equal density
+# THEORY-262: Complexity peaks with segregated integration
 
 ## Source
 

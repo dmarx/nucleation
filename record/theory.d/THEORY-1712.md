@@ -3,7 +3,14 @@ number: 1712
 status: Proposed
 formerly:
 - THEORY-tmpvmddc
-title: 'Adler argues that pornography''s move since 2007 to ad-supported, algorithm-driven tube sites controlled by one near-monopoly firm makes it a Big Tech speech-platform problem: recommendation, rigid categorization, search-term optimization and data-driven commissioning shape both what users come to want and what producers make, conforming content to the platform''s categories and mainstream viewing habits.'
+title: 'Tube-site algorithms shape porn demand and supply'
+statement: >-
+  Adler argues that pornography's move since 2007 to ad-supported,
+  algorithm-driven tube sites controlled by one near-monopoly firm makes it
+  a Big Tech speech-platform problem: recommendation, rigid categorization,
+  search-term optimization and data-driven commissioning shape both what
+  users come to want and what producers make, conforming content to the
+  platform's categories and mainstream viewing habits.
 version: 1
 source:
 - LIT-2392
@@ -28,7 +35,7 @@ summary: >-
   producers make.
 ---
 
-# THEORY-1712: Adler argues that pornography's move since 2007 to ad-supported, algorithm-driven tube sites controlled by one near-monopoly firm makes it a Big Tech speech-platform problem: recommendation, rigid categorization, search-term optimization and data-driven commissioning shape both what users come to want and what producers make, conforming content to the platform's categories and mainstream viewing habits.
+# THEORY-1712: Tube-site algorithms shape porn demand and supply
 
 ## The account
 

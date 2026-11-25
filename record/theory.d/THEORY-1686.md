@@ -3,7 +3,16 @@ number: 1686
 status: Proposed
 formerly:
 - THEORY-tmpin30w
-title: 'Nix argues that because Canadian law treats MAID as a medical intervention whose provision the duty of care permits only while the patient is suffering intolerably, and conceives that suffering as intolerable to the patient herself, an advance request for MAID by a person with dementia cannot be operationalized either by pre-specified impairments, which people cannot forecast, or by pre-specified behaviours, which an outside observer cannot read as subjective intolerability, unless an objective conception of suffering is adopted and validated scales are built.'
+title: 'Advance MAID for dementia can''t be operationalized'
+statement: >-
+  Nix argues that because Canadian law treats MAID as a medical intervention
+  whose provision the duty of care permits only while the patient is
+  suffering intolerably, and conceives that suffering as intolerable to the
+  patient herself, an advance request for MAID by a person with dementia
+  cannot be operationalized either by pre-specified impairments, which
+  people cannot forecast, or by pre-specified behaviours, which an outside
+  observer cannot read as subjective intolerability, unless an objective
+  conception of suffering is adopted and validated scales are built.
 version: 1
 source:
 - LIT-2383
@@ -28,7 +37,7 @@ summary: >-
   (PLWD) in Canada. He argues that, because Carter v.
 ---
 
-# THEORY-1686: Nix argues that because Canadian law treats MAID as a medical intervention whose provision the duty of care permits only while the patient is suffering intolerably, and conceives that suffering as intolerable to the patient herself, an advance request for MAID by a person with dementia cannot be operationalized either by pre-specified impairments, which people cannot forecast, or by pre-specified behaviours, which an outside observer cannot read as subjective intolerability, unless an objective conception of suffering is adopted and validated scales are built.
+# THEORY-1686: Advance MAID for dementia can't be operationalized
 
 ## The account
 

@@ -3,7 +3,12 @@ number: 496
 status: Active
 formerly:
 - THEORY-tmpcjqgc
-title: "In few-shot classification and multiple choice by language models up to 175B parameters, whether each demonstration's label is correct contributes little to the gain over zero-shot, while the distribution of the inputs, the label space and the paired format carry most of it"
+title: 'Demo label correctness barely matters in ICL'
+statement: >-
+  In few-shot classification and multiple choice by language models up to
+  175B parameters, whether each demonstration's label is correct contributes
+  little to the gain over zero-shot, while the distribution of the inputs,
+  the label space and the paired format carry most of it
 version: 2
 history:
 - version: 2
@@ -39,7 +44,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-2037 THEORY-2039 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-029 — Proposed; the claim that reads this result as support, named, not leaned on -->
 
-# THEORY-496: In few-shot classification and multiple choice by language models up to 175B parameters, whether each demonstration's label is correct contributes little to the gain over zero-shot, while the distribution of the inputs, the label space and the paired format carry most of it
+# THEORY-496: Demo label correctness barely matters in ICL
 
 ## Source
 

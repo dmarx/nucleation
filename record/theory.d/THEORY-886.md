@@ -17,7 +17,12 @@ promote_when: >-
   segmentation without prediction error between them. The neural mapping
   (anterior cingulate, midbrain neuromodulators, lateral prefrontal
   cortex) is not part of the claim.
-title: 'Event boundaries are perceived where perceptual prediction error rises transiently; at those points working-memory event models are reset and opened to sensory input, so that information from before a boundary becomes harder to retrieve after it'
+title: 'Prediction error spikes mark event boundaries'
+statement: >-
+  Event boundaries are perceived where perceptual prediction error rises
+  transiently; at those points working-memory event models are reset and
+  opened to sensory input, so that information from before a boundary
+  becomes harder to retrieve after it
 version: 1
 tags:
 - cognition
@@ -37,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-883 THEORY-888 — Proposed; claims and accounts this bears on, named, not leaned on -->
 
-# THEORY-886: Event boundaries are perceived where perceptual prediction error rises transiently; at those points working-memory event models are reset and opened to sensory input, so that information from before a boundary becomes harder to retrieve after it
+# THEORY-886: Prediction error spikes mark event boundaries
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 635
 status: Active
 formerly:
 - THEORY-tmpt3zy6
-title: "If the quantum state of a Bohmian system is identified with the velocity dispositions it induces on the particles, inequivalent states can share one dispositional history: every energy eigenstate of a free particle in a box induces zero velocity everywhere, so the reading erases differences of energy and of typicality unless the map from states to velocity fields is injective for generic solutions, which is conjectured, not proved"
+title: 'Bohmian dispositions erase state differences'
+statement: >-
+  If the quantum state of a Bohmian system is identified with the velocity
+  dispositions it induces on the particles, inequivalent states can share
+  one dispositional history: every energy eigenstate of a free particle in a
+  box induces zero velocity everywhere, so the reading erases differences of
+  energy and of typicality unless the map from states to velocity fields is
+  injective for generic solutions, which is conjectured, not proved
 version: 1
 tags:
 - quantum-foundations
@@ -25,7 +32,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-656 THEORY-669 — Proposed; named as neighbouring readings, not leaned on -->
 
-# THEORY-635: If the quantum state of a Bohmian system is identified with the velocity dispositions it induces on the particles, inequivalent states can share one dispositional history: every energy eigenstate of a free particle in a box induces zero velocity everywhere, so the reading erases differences of energy and of typicality unless the map from states to velocity fields is injective for generic solutions, which is conjectured, not proved
+# THEORY-635: Bohmian dispositions erase state differences
 
 ## Source
 

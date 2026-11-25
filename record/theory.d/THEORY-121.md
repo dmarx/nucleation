@@ -3,7 +3,12 @@ number: 121
 status: Active
 formerly:
 - THEORY-tmpmjijs
-title: "Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism"
+title: 'Guidance control suffices for responsibility'
+statement: >-
+  Moral responsibility requires guidance control, moderate
+  reasons-responsiveness of the agent's own actual-sequence mechanism, and
+  not regulative control over alternative possibilities, so responsibility
+  is compatible with causal determinism
 version: 7
 history:
 - version: 2
@@ -98,7 +103,7 @@ bounds:
 <!-- inactive-ok-file: THEORY-118 THEORY-122 — Proposed; Wolf's asymmetry (the rival) and her Reason View, filed in the same batch -->
 <!-- inactive-ok-file: THEORY-040 THEORY-029 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
-# THEORY-121: Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism
+# THEORY-121: Guidance control suffices for responsibility
 
 ## The evidence
 

@@ -3,7 +3,13 @@ number: 1588
 status: Active
 formerly:
 - THEORY-tmp9a3jx
-title: 'Akerlof and Kranton propose putting identity, a self-image tied to social categories and their prescriptions, into the utility function, so that one''s own and others'' departures from the prescriptions cost utility, and use it to account for gender-typed occupations, oppositional identities and the asymmetry in housework'
+title: 'Identity belongs in the utility function'
+statement: >-
+  Akerlof and Kranton propose putting identity, a self-image tied to social
+  categories and their prescriptions, into the utility function, so that
+  one's own and others' departures from the prescriptions cost utility, and
+  use it to account for gender-typed occupations, oppositional identities
+  and the asymmetry in housework
 version: 2
 history:
 - version: 1
@@ -39,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-491 — Proposed; the claim that names this work, and the tie rule under which its edge to QUESTION-300 was removed -->
 
-# THEORY-1588: Akerlof and Kranton propose putting identity, a self-image tied to social categories and their prescriptions, into the utility function, so that one's own and others' departures from the prescriptions cost utility, and use it to account for gender-typed occupations, oppositional identities and the asymmetry in housework
+# THEORY-1588: Identity belongs in the utility function
 
 ## The account
 

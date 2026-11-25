@@ -3,7 +3,14 @@ number: 1444
 status: Active
 formerly:
 - THEORY-tmp8xe45
-title: 'Douglas and colleagues report that custom multilayer DNA origami on a honeycomb lattice folds in one pot at 7 to 44 % of scaffold in monomer, many of the designs only with week-long thermal ramps at about 16 mM MgCl2 and low NaCl, short ramps, low Mg2+ or high Na+ giving slow-migrating, grossly misshapen products, whereas flat origami and simpler nanotube structures fold in 72-minute ramps'
+title: 'Multilayer origami needs long anneals, low yield'
+statement: >-
+  Douglas and colleagues report that custom multilayer DNA origami on a
+  honeycomb lattice folds in one pot at 7 to 44 % of scaffold in monomer,
+  many of the designs only with week-long thermal ramps at about 16 mM MgCl2
+  and low NaCl, short ramps, low Mg2+ or high Na+ giving slow-migrating,
+  grossly misshapen products, whereas flat origami and simpler nanotube
+  structures fold in 72-minute ramps
 version: 2
 history:
 - version: 2
@@ -49,7 +56,7 @@ summary: >-
   traverse harder kinetic traps, nor any mechanism for the cation effects.
 ---
 
-# THEORY-1444: Douglas and colleagues report that custom multilayer DNA origami on a honeycomb lattice folds in one pot at 7 to 44 % of scaffold in monomer, many of the designs only with week-long thermal ramps at about 16 mM MgCl2 and low NaCl, short ramps, low Mg2+ or high Na+ giving slow-migrating, grossly misshapen products, whereas flat origami and simpler nanotube structures fold in 72-minute ramps
+# THEORY-1444: Multilayer origami needs long anneals, low yield
 
 ## Source
 

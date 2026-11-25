@@ -14,7 +14,14 @@ promote_when: >-
   be thisness under another name. Further formulations of general relativity
   that fit the view cannot settle it: the paper already shows fit, and fit
   is not entailment.
-title: "Basic physical objects can be nothing beyond the bearers of their relations: relations give them identity conditions wherever they discern them, and where nothing discerns them, as with entangled systems of one kind or points of a symmetric space-time, a primitive numerical diversity that is not a thisness suffices; general relativity's tensor and fibre-bundle formulations fit this reading but do not require it"
+title: 'Physical objects can be mere relation-bearers'
+statement: >-
+  Basic physical objects can be nothing beyond the bearers of their
+  relations: relations give them identity conditions wherever they discern
+  them, and where nothing discerns them, as with entangled systems of one
+  kind or points of a symmetric space-time, a primitive numerical diversity
+  that is not a thisness suffices; general relativity's tensor and
+  fibre-bundle formulations fit this reading but do not require it
 version: 1
 tags:
 - metaphysics
@@ -39,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-038 THEORY-535 — Proposed; neighbouring accounts, named for comparison and for the census this reading corrects -->
 <!-- inactive-ok-file: CLAIM-134 CLAIM-136 CLAIM-138 — Proposed; the record's open claims this reading bears on, cited as open -->
 
-# THEORY-453: Basic physical objects can be nothing beyond the bearers of their relations: relations give them identity conditions wherever they discern them, and where nothing discerns them, as with entangled systems of one kind or points of a symmetric space-time, a primitive numerical diversity that is not a thisness suffices; general relativity's tensor and fibre-bundle formulations fit this reading but do not require it
+# THEORY-453: Physical objects can be mere relation-bearers
 
 ## Source
 

@@ -3,7 +3,17 @@ number: 1808
 status: Proposed
 formerly:
 - THEORY-tmpy4vu1
-title: 'Stasser and Titus (1985) found, in 4-person groups choosing among three candidates, that when the information favouring the best-supported candidate was split among members, so that each member''s own information favoured another, groups chose the candidate the initial plurality preferred (18% of groups chose the best-supported candidate against 83% when all information was shared), and members'' postdiscussion recall favoured shared and preference-consistent information, which they explain by a biased sampling model in which discussion favours information that more members hold and that supports existing preferences'
+title: 'Groups miss hidden profiles, discuss shared info'
+statement: >-
+  Stasser and Titus (1985) found, in 4-person groups choosing among three
+  candidates, that when the information favouring the best-supported
+  candidate was split among members, so that each member's own information
+  favoured another, groups chose the candidate the initial plurality
+  preferred (18% of groups chose the best-supported candidate against 83%
+  when all information was shared), and members' postdiscussion recall
+  favoured shared and preference-consistent information, which they explain
+  by a biased sampling model in which discussion favours information that
+  more members hold and that supports existing preferences
 version: 1
 tags:
 - social-science
@@ -24,7 +34,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1808: Stasser and Titus (1985) found, in 4-person groups choosing among three candidates, that when the information favouring the best-supported candidate was split among members, so that each member's own information favoured another, groups chose the candidate the initial plurality preferred (18% of groups chose the best-supported candidate against 83% when all information was shared), and members' postdiscussion recall favoured shared and preference-consistent information, which they explain by a biased sampling model in which discussion favours information that more members hold and that supports existing preferences
+# THEORY-1808: Groups miss hidden profiles, discuss shared info
 
 ## The account
 

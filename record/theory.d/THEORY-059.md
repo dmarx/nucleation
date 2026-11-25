@@ -22,7 +22,10 @@ promote_when: >-
   cannot settle it: more movement-locked averages, which both accounts
   predict; and decoding of an upcoming choice slightly above chance
   seconds early, which a biased fluctuation also produces.
-title: 'The readiness potential does not show that a neural decision to act precedes awareness of the urge to act'
+title: 'Readiness potential doesn''t show a prior decision'
+statement: >-
+  The readiness potential does not show that a neural decision to act
+  precedes awareness of the urge to act
 version: 1
 tags:
 - free-will
@@ -52,7 +55,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-029 THEORY-040 — Proposed; the record's free-will accounts, named to say they do not rest on Libet -->
 <!-- inactive-ok-file: THEORY-061 — Proposed; companion account named for the goal mechanism it generalises from this one -->
 
-# THEORY-059: The readiness potential does not show that a neural decision to act precedes awareness of the urge to act
+# THEORY-059: Readiness potential doesn't show a prior decision
 
 ## Source
 

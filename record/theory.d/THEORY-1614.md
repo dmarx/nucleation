@@ -3,7 +3,12 @@ number: 1614
 status: Active
 formerly:
 - THEORY-tmps1jnm
-title: 'Bird argues that mammals actively erase epigenetic marks between generations, that no validated mechanism lets the environment instruct a heritable epigenome, and that the human cases most cited, the Swedish famine studies and the Holocaust FKBP5 study, are weak'
+title: 'No validated route to inherited epigenomes'
+statement: >-
+  Bird argues that mammals actively erase epigenetic marks between
+  generations, that no validated mechanism lets the environment instruct a
+  heritable epigenome, and that the human cases most cited, the Swedish
+  famine studies and the Holocaust FKBP5 study, are weak
 version: 2
 history:
 - version: 1
@@ -35,7 +40,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1614: Bird argues that mammals actively erase epigenetic marks between generations, that no validated mechanism lets the environment instruct a heritable epigenome, and that the human cases most cited, the Swedish famine studies and the Holocaust FKBP5 study, are weak
+# THEORY-1614: No validated route to inherited epigenomes
 
 ## The account
 

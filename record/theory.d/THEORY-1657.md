@@ -3,7 +3,15 @@ number: 1657
 status: Proposed
 formerly:
 - THEORY-tmp65ljh
-title: 'Millum argues that there is no distinctive right to an open future: the argument from future autonomy fails because autonomy as demand is grounded in a present capacity young children lack, the argument from analogy explains its clear cases by bodily integrity and harm, and the positive version is only children''s interests, which give future options no priority over their other interests; so citing the right decides nothing and obscures the weighing that does.'
+title: 'There is no distinctive right to an open future'
+statement: >-
+  Millum argues that there is no distinctive right to an open future: the
+  argument from future autonomy fails because autonomy as demand is grounded
+  in a present capacity young children lack, the argument from analogy
+  explains its clear cases by bodily integrity and harm, and the positive
+  version is only children's interests, which give future options no
+  priority over their other interests; so citing the right decides nothing
+  and obscures the weighing that does.
 version: 1
 source:
 - LIT-2378
@@ -29,7 +37,7 @@ summary: >-
   a negative right it would rest either on future autonomy or on analogy.
 ---
 
-# THEORY-1657: Millum argues that there is no distinctive right to an open future: the argument from future autonomy fails because autonomy as demand is grounded in a present capacity young children lack, the argument from analogy explains its clear cases by bodily integrity and harm, and the positive version is only children's interests, which give future options no priority over their other interests; so citing the right decides nothing and obscures the weighing that does.
+# THEORY-1657: There is no distinctive right to an open future
 
 ## The account
 

@@ -9,7 +9,12 @@ promote_when: >-
   every compile and restored itself when rebuilt from clean source, until
   its binary was replaced from another machine. Whether the incident
   happened is not asked; the answer gives nothing that could check it.
-title: 'Stute tells, as his own experience, a departed graduate student''s compiler Trojan horse that restored a program''s hateful subliminal messages on every compile and restored itself when the compiler was rebuilt from clean source, removed only by installing a compiler binary from another machine'
+title: 'Self-restoring compiler Trojan met in practice'
+statement: >-
+  Stute tells, as his own experience, a departed graduate student's compiler
+  Trojan horse that restored a program's hateful subliminal messages on
+  every compile and restored itself when the compiler was rebuilt from clean
+  source, removed only by installing a compiler binary from another machine
 version: 1
 tags:
 - epistemology
@@ -26,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1560 — Proposed; the readings filed with this entry, cited with their standing -->
 
-# THEORY-1561: Stute tells, as his own experience, a departed graduate student's compiler Trojan horse that restored a program's hateful subliminal messages on every compile and restored itself when the compiler was rebuilt from clean source, removed only by installing a compiler binary from another machine
+# THEORY-1561: Self-restoring compiler Trojan met in practice
 
 ## The account
 

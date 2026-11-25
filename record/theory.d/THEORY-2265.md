@@ -12,7 +12,12 @@ promote_when: >-
   meta-awareness moves with it once the probe order is controlled. A
   replication by the same group without these controls cannot settle it,
   since the fixed order is the authors' own stated weakness.
-title: 'Frontal anodal transcranial direct current stimulation raises reported mind-wandering without changing rated meta-awareness of where attention is focused, so the stimulation effect on mind-wandering does not pass through a change in that awareness'
+title: 'tDCS mind-wandering effect bypasses meta-awareness'
+statement: >-
+  Frontal anodal transcranial direct current stimulation raises reported
+  mind-wandering without changing rated meta-awareness of where attention is
+  focused, so the stimulation effect on mind-wandering does not pass through
+  a change in that awareness
 version: 1
 tags:
 - neuroscience
@@ -41,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2264 THEORY-2266 — new in this filing and Proposed; the readings and the support verdict, cited as open -->
 
-# THEORY-2265: Frontal anodal transcranial direct current stimulation raises reported mind-wandering without changing rated meta-awareness of where attention is focused, so the stimulation effect on mind-wandering does not pass through a change in that awareness
+# THEORY-2265: tDCS mind-wandering effect bypasses meta-awareness
 
 ## Source
 

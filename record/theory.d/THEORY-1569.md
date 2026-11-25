@@ -3,7 +3,13 @@ number: 1569
 status: Active
 formerly:
 - THEORY-tmp35z1e
-title: 'Gardiner argues that climate change joins a global commons problem to an intergenerational one that institutions and reciprocity cannot solve, because the generations do not coexist, and that these, with our theories'' weakness, leave each generation open to moral corruption that hides its exploitation of its temporal position, even from itself'
+title: 'Climate invites intergenerational moral corruption'
+statement: >-
+  Gardiner argues that climate change joins a global commons problem to an
+  intergenerational one that institutions and reciprocity cannot solve,
+  because the generations do not coexist, and that these, with our theories'
+  weakness, leave each generation open to moral corruption that hides its
+  exploitation of its temporal position, even from itself
 version: 2
 history:
 - version: 1
@@ -34,7 +40,7 @@ bears_on:
 - QUESTION-299
 ---
 
-# THEORY-1569: Gardiner argues that climate change joins a global commons problem to an intergenerational one that institutions and reciprocity cannot solve, because the generations do not coexist, and that these, with our theories' weakness, leave each generation open to moral corruption that hides its exploitation of its temporal position, even from itself
+# THEORY-1569: Climate invites intergenerational moral corruption
 
 ## The account
 

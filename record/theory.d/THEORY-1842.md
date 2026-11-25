@@ -3,7 +3,13 @@ number: 1842
 status: Proposed
 formerly:
 - THEORY-tmpbgf6v
-title: 'Zuboff argues that surveillance capitalism is an institutional order that commodifies behaviour, concentrating knowledge about people in a few firms, so that epistemic inequality and a power to modify behaviour arise that compete with democratic governance and leave people practically without exit'
+title: 'Surveillance capitalism rivals democratic rule'
+statement: >-
+  Zuboff argues that surveillance capitalism is an institutional order that
+  commodifies behaviour, concentrating knowledge about people in a few
+  firms, so that epistemic inequality and a power to modify behaviour arise
+  that compete with democratic governance and leave people practically
+  without exit
 version: 1
 source:
 - LIT-2578
@@ -27,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2598 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: NOTE-1928 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
-# THEORY-1842: Zuboff argues that surveillance capitalism is an institutional order that commodifies behaviour, concentrating knowledge about people in a few firms, so that epistemic inequality and a power to modify behaviour arise that compete with democratic governance and leave people practically without exit
+# THEORY-1842: Surveillance capitalism rivals democratic rule
 
 ## The account
 

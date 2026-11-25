@@ -7,7 +7,11 @@ promote_when: >-
   A proof of the adaptive analogue, read or re-derived and checked;
   refuted by a map some non-contextual adaptive hom model induces and no
   adaptive procedure does.
-title: 'A convex map between two scenarios'' model sets is induced by a classical adaptive procedure exactly when some non-contextual model of the corresponding adaptive hom scenario induces it'
+title: 'Classical adaptive maps are non-contextual models'
+statement: >-
+  A convex map between two scenarios' model sets is induced by a classical
+  adaptive procedure exactly when some non-contextual model of the
+  corresponding adaptive hom scenario induces it
 version: 1
 tags:
 - contextuality
@@ -28,7 +32,7 @@ summary: >-
   procedures. Proposed until a proof is read or re-derived.
 ---
 
-# THEORY-1170: A convex map between two scenarios' model sets is induced by a classical adaptive procedure exactly when some non-contextual model of the corresponding adaptive hom scenario induces it
+# THEORY-1170: Classical adaptive maps are non-contextual models
 
 ## Source
 

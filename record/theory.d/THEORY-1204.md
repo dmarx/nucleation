@@ -3,7 +3,12 @@ number: 1204
 status: Proposed
 formerly:
 - THEORY-tmpc4jdo
-title: 'The strongest evidence that a quality-space model targets phenomenal experience, and not only behaviour or neural activity, is convergence between models of the same space derived through different behavioural procedures, since experience is what those procedures share'
+title: 'Convergent quality spaces best indicate experience'
+statement: >-
+  The strongest evidence that a quality-space model targets phenomenal
+  experience, and not only behaviour or neural activity, is convergence
+  between models of the same space derived through different behavioural
+  procedures, since experience is what those procedures share
 version: 1
 tags:
 - consciousness
@@ -33,7 +38,7 @@ summary: >-
   the convergence is partial by the paper's own account.
 ---
 
-# THEORY-1204: The strongest evidence that a quality-space model targets phenomenal experience, and not only behaviour or neural activity, is convergence between models of the same space derived through different behavioural procedures, since experience is what those procedures share
+# THEORY-1204: Convergent quality spaces best indicate experience
 
 ## Source
 

@@ -13,7 +13,12 @@ promote_when: >-
   resolvent statements this clause used to share are THEORY-727,
   Active. More examples of large variance in particular systems cannot
   settle it.
-title: 'Under spatially uncorrelated white noise, a stable non-normal linear system holds more variance than the sum of its pole contributions, and equality holds only when the operator is normal, so its spectrum understates the standing variance'
+title: 'Non-normal systems hold variance spectra miss'
+statement: >-
+  Under spatially uncorrelated white noise, a stable non-normal linear
+  system holds more variance than the sum of its pole contributions, and
+  equality holds only when the operator is normal, so its spectrum
+  understates the standing variance
 version: 3
 history:
 - version: 2
@@ -57,7 +62,7 @@ bounds:
 <!-- inactive-ok-file: CLAIM-186 — Proposed; the claim this account bears on, open -->
 <!-- inactive-ok-file: THEORY-325 — Proposed; companion accounts filed from the same readings -->
 
-# THEORY-323: Under spatially uncorrelated white noise, a stable non-normal linear system holds more variance than the sum of its pole contributions, and equality holds only when the operator is normal, so its spectrum understates the standing variance
+# THEORY-323: Non-normal systems hold variance spectra miss
 
 ## Source
 

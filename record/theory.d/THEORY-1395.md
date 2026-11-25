@@ -3,7 +3,16 @@ number: 1395
 status: Active
 formerly:
 - THEORY-tmphj1kw
-title: 'Kaelbling, Littman and Cassandra restate, citing Smallwood and Sondik among others, that for a finite-state Markov process controlled through noisy observations the probability distribution over states is a sufficient statistic for control, show that the optimal value with finitely many steps left is the upper surface of finitely many linear functions of that distribution, hence piecewise-linear and convex, and credit Sondik with the first exact finite-horizon algorithm, whose worst case is exponential'
+title: 'POMDP value is piecewise-linear and convex'
+statement: >-
+  Kaelbling, Littman and Cassandra restate, citing Smallwood and Sondik
+  among others, that for a finite-state Markov process controlled through
+  noisy observations the probability distribution over states is a
+  sufficient statistic for control, show that the optimal value with
+  finitely many steps left is the upper surface of finitely many linear
+  functions of that distribution, hence piecewise-linear and convex, and
+  credit Sondik with the first exact finite-horizon algorithm, whose worst
+  case is exponential
 version: 3
 history:
 - version: 1
@@ -62,7 +71,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: LIT-2038 — Unavailable; the unread original the neighbour cites, cited as open -->
 
-# THEORY-1395: Kaelbling, Littman and Cassandra restate, citing Smallwood and Sondik among others, that for a finite-state Markov process controlled through noisy observations the probability distribution over states is a sufficient statistic for control, show that the optimal value with finitely many steps left is the upper surface of finitely many linear functions of that distribution, hence piecewise-linear and convex, and credit Sondik with the first exact finite-horizon algorithm, whose worst case is exponential
+# THEORY-1395: POMDP value is piecewise-linear and convex
 
 ## Source
 

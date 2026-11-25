@@ -13,7 +13,15 @@ promote_when: >-
   of crossmodal bias with disparity, better than all of them. Refuted if a
   commit-to-one-structure rule or a fixed interaction prior predicts
   held-out data as well. A further fit to the 2007 data cannot settle it.
-title: 'Körding, Beierholm, Ma, Quartz, Tenenbaum and Shams propose that in auditory-visual localization the observer infers whether the two cues share a cause and weights fused against separate estimates by the posterior probability of a common cause, so that an ideal observer of this kind predicts human localization responses and the fall of crossmodal bias with disparity better than forced fusion, segregation or interaction-prior models'
+title: 'Observers infer whether cues share a cause'
+statement: >-
+  Körding, Beierholm, Ma, Quartz, Tenenbaum and Shams propose that in
+  auditory-visual localization the observer infers whether the two cues
+  share a cause and weights fused against separate estimates by the
+  posterior probability of a common cause, so that an ideal observer of this
+  kind predicts human localization responses and the fall of crossmodal bias
+  with disparity better than forced fusion, segregation or interaction-prior
+  models
 version: 1
 tags:
 - cognition
@@ -35,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-769 — Proposed; cited from the reading of Körding et al. (2007) as open -->
 
-# THEORY-1360: Körding, Beierholm, Ma, Quartz, Tenenbaum and Shams propose that in auditory-visual localization the observer infers whether the two cues share a cause and weights fused against separate estimates by the posterior probability of a common cause, so that an ideal observer of this kind predicts human localization responses and the fall of crossmodal bias with disparity better than forced fusion, segregation or interaction-prior models
+# THEORY-1360: Observers infer whether cues share a cause
 
 ## Source
 

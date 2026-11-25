@@ -3,7 +3,14 @@ number: 1796
 status: Proposed
 formerly:
 - THEORY-tmptc3ih
-title: 'Kephart and Chess (2003) propose that self-managing computing systems be built as collections of autonomic elements, each an autonomic manager that monitors its managed resources and environment, analyzes, plans and executes changes using its knowledge, under goals and constraints that humans specify as policy, and they name the correct specification and correction of those policies as a central unsolved challenge.'
+title: 'Autonomic elements run on human-set policy'
+statement: >-
+  Kephart and Chess (2003) propose that self-managing computing systems be
+  built as collections of autonomic elements, each an autonomic manager that
+  monitors its managed resources and environment, analyzes, plans and
+  executes changes using its knowledge, under goals and constraints that
+  humans specify as policy, and they name the correct specification and
+  correction of those policies as a central unsolved challenge.
 version: 1
 tags:
 - complex-systems
@@ -25,7 +32,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1796: Kephart and Chess (2003) propose that self-managing computing systems be built as collections of autonomic elements, each an autonomic manager that monitors its managed resources and environment, analyzes, plans and executes changes using its knowledge, under goals and constraints that humans specify as policy, and they name the correct specification and correction of those policies as a central unsolved challenge.
+# THEORY-1796: Autonomic elements run on human-set policy
 
 ## The account
 

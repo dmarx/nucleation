@@ -3,7 +3,13 @@ number: 2088
 status: Proposed
 formerly:
 - THEORY-tmp80vhs
-title: 'Goudar and colleagues find that a recurrent network trained without a meta-learning objective on successive sensorimotor association problems sharing a trial structure needs exponentially fewer trials for each new problem, reuses a low-dimensional decision subspace across problems, and loses the saving when its readout is barred from that subspace'
+title: 'Shared task structure speeds new associations'
+statement: >-
+  Goudar and colleagues find that a recurrent network trained without a
+  meta-learning objective on successive sensorimotor association problems
+  sharing a trial structure needs exponentially fewer trials for each new
+  problem, reuses a low-dimensional decision subspace across problems, and
+  loses the saving when its readout is barred from that subspace
 version: 1
 source:
 - LIT-2881
@@ -27,7 +33,7 @@ summary: >-
   saving. Proposed until its promote_when is met.
 ---
 
-# THEORY-2088: Goudar and colleagues find that a recurrent network trained without a meta-learning objective on successive sensorimotor association problems sharing a trial structure needs exponentially fewer trials for each new problem, reuses a low-dimensional decision subspace across problems, and loses the saving when its readout is barred from that subspace
+# THEORY-2088: Shared task structure speeds new associations
 
 ## The account
 

@@ -16,7 +16,13 @@ promote_when: >-
   if the entitlement condition cannot be stated without assuming the
   verdict. More documentaries, and more examples of fans' kinship talk,
   cannot settle it.
-title: "In fan–celebrity parasocial relationships the celebrity mostly directs fans' identities and the fans mostly interpret the celebrity's, so a mass audience that refuses uptake of a legitimately presented change of persona holds one person's identity fixed, which is a failure of recognition respect that restricts the celebrity's agency"
+title: 'Refusing persona change denies recognition'
+statement: >-
+  In fan–celebrity parasocial relationships the celebrity mostly directs
+  fans' identities and the fans mostly interpret the celebrity's, so a mass
+  audience that refuses uptake of a legitimately presented change of persona
+  holds one person's identity fixed, which is a failure of recognition
+  respect that restricts the celebrity's agency
 version: 1
 tags:
 - ethics
@@ -39,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-126 — Rejected; cited for the position it states, not leaned on -->
 <!-- inactive-ok-file: LIT-174 — Unavailable; a related work named by the reading, not leaned on for its content -->
 
-# THEORY-525: In fan–celebrity parasocial relationships the celebrity mostly directs fans' identities and the fans mostly interpret the celebrity's, so a mass audience that refuses uptake of a legitimately presented change of persona holds one person's identity fixed, which is a failure of recognition respect that restricts the celebrity's agency
+# THEORY-525: Refusing persona change denies recognition
 
 ## Source
 

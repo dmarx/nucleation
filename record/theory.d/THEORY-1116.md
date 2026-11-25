@@ -15,7 +15,13 @@ promote_when: >-
   multi-item measurement, or if identification rises with approval of
   the governing institutions. Further single-item cross-sectional
   surveys cannot settle it.
-title: "Football fans can identify with a superordinate community of fans across clubs and countries, a European fan community, alongside their club identity rather than in place of it; that identification goes with particularized trust in foreign fans and cross-border viewing, and is independent of attitudes to the sport's governing institutions"
+title: 'Fans can hold a European identity too'
+statement: >-
+  Football fans can identify with a superordinate community of fans across
+  clubs and countries, a European fan community, alongside their club
+  identity rather than in place of it; that identification goes with
+  particularized trust in foreign fans and cross-border viewing, and is
+  independent of attitudes to the sport's governing institutions
 version: 1
 tags:
 - social-identity
@@ -36,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1114 — Proposed; the self-categorization account this is compared with -->
 
-# THEORY-1116: Football fans can identify with a superordinate community of fans across clubs and countries, a European fan community, alongside their club identity rather than in place of it; that identification goes with particularized trust in foreign fans and cross-border viewing, and is independent of attitudes to the sport's governing institutions
+# THEORY-1116: Fans can hold a European identity too
 
 ## Source
 

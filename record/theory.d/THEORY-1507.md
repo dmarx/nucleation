@@ -14,7 +14,16 @@ promote_when: >-
   fixed by the vacua at its two ends. The reader's inference that such a
   soliton can end only by annihilation or at a boundary is not asserted and
   not asked.
-title: 'A configuration of finite energy must approach a vacuum at spatial infinity, and the map from the boundary into the vacua falls into homotopy classes that cannot be continuously deformed into one another, so the space of configurations splits into sectors labelled by a topological charge measured at the boundary; the energy, action or tension in a sector is bounded below by that charge and the soliton saturates the bound, and a kink, which interpolates between distinct vacua at its two ends, has its charge fixed by that boundary data'
+title: 'Topological charge bounds soliton energy'
+statement: >-
+  A configuration of finite energy must approach a vacuum at spatial
+  infinity, and the map from the boundary into the vacua falls into homotopy
+  classes that cannot be continuously deformed into one another, so the
+  space of configurations splits into sectors labelled by a topological
+  charge measured at the boundary; the energy, action or tension in a sector
+  is bounded below by that charge and the soliton saturates the bound, and a
+  kink, which interpolates between distinct vacua at its two ends, has its
+  charge fixed by that boundary data
 version: 2
 history:
 - version: 2
@@ -47,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-606 — Proposed; the claim whose topological route waits on this reading -->
 
-# THEORY-1507: A configuration of finite energy must approach a vacuum at spatial infinity, and the map from the boundary into the vacua falls into homotopy classes that cannot be continuously deformed into one another, so the space of configurations splits into sectors labelled by a topological charge measured at the boundary; the energy, action or tension in a sector is bounded below by that charge and the soliton saturates the bound, and a kink, which interpolates between distinct vacua at its two ends, has its charge fixed by that boundary data
+# THEORY-1507: Topological charge bounds soliton energy
 
 ## Source
 

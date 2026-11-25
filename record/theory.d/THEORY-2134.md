@@ -10,7 +10,16 @@ promote_when: >-
   initialization and Θ(1/L) from training with depthwise continuity
   exponent ½, and that for blocks of two or more layers the 1/√L scaling
   linearizes the interactions within each block.
-title: 'Yang, Yu, Zhu and Hayou show that in the infinite-width-then-depth limit of residual networks with one-layer blocks, training is stable and nontrivial only when the branch multiplier exponent is at least one half and the two exponents sum to one, and that Depth-μP, both exponents one half, uniquely maximizes feature diversity, each block contributing an independent order 1/√L at initialization and a correlated order 1/L through its update; for deeper blocks no parametrization keeps their layers interacting without instability or redundancy'
+title: 'Depth-μP uniquely maximizes feature diversity'
+statement: >-
+  Yang, Yu, Zhu and Hayou show that in the infinite-width-then-depth limit
+  of residual networks with one-layer blocks, training is stable and
+  nontrivial only when the branch multiplier exponent is at least one half
+  and the two exponents sum to one, and that Depth-μP, both exponents one
+  half, uniquely maximizes feature diversity, each block contributing an
+  independent order 1/√L at initialization and a correlated order 1/L
+  through its update; for deeper blocks no parametrization keeps their
+  layers interacting without instability or redundancy
 version: 1
 tags:
 - learning-theory
@@ -27,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-767 CLAIM-773 THEORY-2133 THEORY-2146 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
-# THEORY-2134: Yang, Yu, Zhu and Hayou show that in the infinite-width-then-depth limit of residual networks with one-layer blocks, training is stable and nontrivial only when the branch multiplier exponent is at least one half and the two exponents sum to one, and that Depth-μP, both exponents one half, uniquely maximizes feature diversity, each block contributing an independent order 1/√L at initialization and a correlated order 1/L through its update; for deeper blocks no parametrization keeps their layers interacting without instability or redundancy
+# THEORY-2134: Depth-μP uniquely maximizes feature diversity
 
 ## Source
 

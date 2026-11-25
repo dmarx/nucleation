@@ -3,7 +3,12 @@ number: 160
 status: Active
 formerly:
 - THEORY-tmp3dh4x
-title: 'In the algebraic Hamiltonian setting, symmetry and conservation correspond because the bracket is antisymmetric, which for a bilinear bracket is each observable conserving itself; the theorem''s content lies in identifying observables with generators'
+title: 'Bracket antisymmetry yields symmetry–conservation'
+statement: >-
+  In the algebraic Hamiltonian setting, symmetry and conservation correspond
+  because the bracket is antisymmetric, which for a bilinear bracket is each
+  observable conserving itself; the theorem's content lies in identifying
+  observables with generators
 version: 3
 history:
 - version: 2
@@ -50,7 +55,7 @@ bears_on:
 ---
 
 
-# THEORY-160: In the algebraic Hamiltonian setting, symmetry and conservation correspond because the bracket is antisymmetric, which for a bilinear bracket is each observable conserving itself; the theorem's content lies in identifying observables with generators
+# THEORY-160: Bracket antisymmetry yields symmetry–conservation
 
 ## Source
 

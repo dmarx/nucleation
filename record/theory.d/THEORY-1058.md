@@ -3,7 +3,16 @@ number: 1058
 status: Active
 formerly:
 - THEORY-tmp49y4o
-title: 'Given constructor theory''s principles of locality and of classical information, a single further prohibition, that two information observables with mutually disjoint attributes have a union that is not an information observable, is enough for a medium to have information attributes that cannot be distinguished, unclonable and jointly unsharp observables, measurements that are deterministic yet unpredictable, irreducible disturbance by measurement, and locally inaccessible information; quantum information is an instance'
+title: 'One prohibition yields quantum-like information'
+statement: >-
+  Given constructor theory's principles of locality and of classical
+  information, a single further prohibition, that two information
+  observables with mutually disjoint attributes have a union that is not an
+  information observable, is enough for a medium to have information
+  attributes that cannot be distinguished, unclonable and jointly unsharp
+  observables, measurements that are deterministic yet unpredictable,
+  irreducible disturbance by measurement, and locally inaccessible
+  information; quantum information is an instance
 version: 1
 tags:
 - quantum-foundations
@@ -21,7 +30,7 @@ summary: >-
   already assumed.
 ---
 
-# THEORY-1058: Given constructor theory's principles of locality and of classical information, a single further prohibition, that two information observables with mutually disjoint attributes have a union that is not an information observable, is enough for a medium to have information attributes that cannot be distinguished, unclonable and jointly unsharp observables, measurements that are deterministic yet unpredictable, irreducible disturbance by measurement, and locally inaccessible information; quantum information is an instance
+# THEORY-1058: One prohibition yields quantum-like information
 
 ## Source
 

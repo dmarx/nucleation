@@ -3,7 +3,13 @@ number: 1607
 status: Active
 formerly:
 - THEORY-tmpl13hb
-title: 'Blackiston, Shomrat and Levin argue, from learned behaviour reported to survive brain remodelling in metamorphosing insects, regenerating planaria and hibernating mammals, that synaptic plasticity alone does not explain lasting memory, and propose, untested, that a planarian''s memory may be stored outside the brain and imprinted on the regenerated one'
+title: 'Synaptic plasticity alone can''t explain memory'
+statement: >-
+  Blackiston, Shomrat and Levin argue, from learned behaviour reported to
+  survive brain remodelling in metamorphosing insects, regenerating planaria
+  and hibernating mammals, that synaptic plasticity alone does not explain
+  lasting memory, and propose, untested, that a planarian's memory may be
+  stored outside the brain and imprinted on the regenerated one
 version: 2
 history:
 - version: 1
@@ -37,7 +43,7 @@ bears_on:
 - QUESTION-302
 ---
 
-# THEORY-1607: Blackiston, Shomrat and Levin argue, from learned behaviour reported to survive brain remodelling in metamorphosing insects, regenerating planaria and hibernating mammals, that synaptic plasticity alone does not explain lasting memory, and propose, untested, that a planarian's memory may be stored outside the brain and imprinted on the regenerated one
+# THEORY-1607: Synaptic plasticity alone can't explain memory
 
 ## The account
 

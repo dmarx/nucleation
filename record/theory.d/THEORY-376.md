@@ -3,7 +3,16 @@ number: 376
 status: Active
 formerly:
 - THEORY-tmpgvxim
-title: "In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server; this matched page caching on a clustered index, beat it on an unclustered one, and, on an unindexed attribute with a disk cache, answered over 60% of 1% queries without contacting the server; the cost of computing probe and remainder queries was not charged"
+title: 'Semantic caching answers queries partly locally'
+statement: >-
+  In a simulated single-client, read-only database answering selection
+  queries on one relation, describing cached data by the predicates of past
+  queries let each query be answered partly from cache, with only the
+  remainder Q ∧ ¬V sent to the server; this matched page caching on a
+  clustered index, beat it on an unclustered one, and, on an unindexed
+  attribute with a disk cache, answered over 60% of 1% queries without
+  contacting the server; the cost of computing probe and remainder queries
+  was not charged
 version: 3
 history:
 - version: 2
@@ -44,7 +53,7 @@ bears_on:
 - QUESTION-237
 ---
 
-# THEORY-376: In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server; this matched page caching on a clustered index, beat it on an unclustered one, and, on an unindexed attribute with a disk cache, answered over 60% of 1% queries without contacting the server; the cost of computing probe and remainder queries was not charged
+# THEORY-376: Semantic caching answers queries partly locally
 
 ## Source
 

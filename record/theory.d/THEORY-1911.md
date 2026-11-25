@@ -9,7 +9,15 @@ promote_when: >-
   concept after at least one of the robust methods (RECE, RECELER or
   ADVUNLEARN), and the paper's tables read to confirm the stated rates
   across the six methods.
-title: 'On Braun and colleagues, a trigger bound to a concept before the model is sanitized survives six text-to-image concept-erasure methods, three of them built to search for residual representations, on Stable Diffusion v1.4 and v2.1 and FLUX, their deepest attack evading erasure in 71.6% of cases on average and up to 94.4%, and data poisoning alone, without model access, reaching up to 80.2% against celebrity erasure and 92.7% against object erasure'
+title: 'Pre-bound triggers survive concept erasure'
+statement: >-
+  On Braun and colleagues, a trigger bound to a concept before the model is
+  sanitized survives six text-to-image concept-erasure methods, three of
+  them built to search for residual representations, on Stable Diffusion
+  v1.4 and v2.1 and FLUX, their deepest attack evading erasure in 71.6% of
+  cases on average and up to 94.4%, and data poisoning alone, without model
+  access, reaching up to 80.2% against celebrity erasure and 92.7% against
+  object erasure
 version: 1
 tags:
 - representation-learning
@@ -24,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1980 — Skimmed; the reading this account comes from -->
 
-# THEORY-1911: On Braun and colleagues, a trigger bound to a concept before the model is sanitized survives six text-to-image concept-erasure methods, three of them built to search for residual representations, on Stable Diffusion v1.4 and v2.1 and FLUX, their deepest attack evading erasure in 71.6% of cases on average and up to 94.4%, and data poisoning alone, without model access, reaching up to 80.2% against celebrity erasure and 92.7% against object erasure
+# THEORY-1911: Pre-bound triggers survive concept erasure
 
 ## Source
 

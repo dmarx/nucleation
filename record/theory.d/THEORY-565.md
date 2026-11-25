@@ -13,7 +13,14 @@ promote_when: >-
   that can be stated; it is refuted in part if the limit keeps a density
   term. More embeddings that look right, or classification examples, cannot
   settle it.
-title: "From a symmetric, positivity-preserving, positive semi-definite affinity, the normalized Markov operator is conjugate to a symmetric one, so its leading eigenfunctions scaled by powers of their eigenvalues embed the data with Euclidean distance equal to diffusion distance, and a density-corrected normalization recovers the Laplace–Beltrami operator independently of how the data were sampled"
+title: 'Diffusion maps can recover Laplace–Beltrami'
+statement: >-
+  From a symmetric, positivity-preserving, positive semi-definite affinity,
+  the normalized Markov operator is conjugate to a symmetric one, so its
+  leading eigenfunctions scaled by powers of their eigenvalues embed the
+  data with Euclidean distance equal to diffusion distance, and a
+  density-corrected normalization recovers the Laplace–Beltrami operator
+  independently of how the data were sampled
 version: 3
 history:
 - version: 2
@@ -69,7 +76,7 @@ bears_on:
 
 <!-- inactive-ok-file: NOTE-784 — Superseded or Open; the skim this was first filed from, and the open heat-kernel step -->
 
-# THEORY-565: From a symmetric, positivity-preserving, positive semi-definite affinity, the normalized Markov operator is conjugate to a symmetric one, so its leading eigenfunctions scaled by powers of their eigenvalues embed the data with Euclidean distance equal to diffusion distance, and a density-corrected normalization recovers the Laplace–Beltrami operator independently of how the data were sampled
+# THEORY-565: Diffusion maps can recover Laplace–Beltrami
 
 ## Source
 

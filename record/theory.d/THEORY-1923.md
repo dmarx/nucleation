@@ -3,7 +3,14 @@ number: 1923
 status: Proposed
 formerly:
 - THEORY-tmpbkw8g
-title: 'Cuéllar argues that a newer, less-constrained presidential adjudication, fact-specific presidential decisions about particular parties made with limited judicial review, has grown as doctrine expanded White House control of agencies, norms against interference eroded and congressional oversight weakened, raising a risk of executive coercion that courts can check with a "harder look" assembled from existing doctrine'
+title: 'Presidential adjudication needs a harder look'
+statement: >-
+  Cuéllar argues that a newer, less-constrained presidential adjudication,
+  fact-specific presidential decisions about particular parties made with
+  limited judicial review, has grown as doctrine expanded White House
+  control of agencies, norms against interference eroded and congressional
+  oversight weakened, raising a risk of executive coercion that courts can
+  check with a "harder look" assembled from existing doctrine
 version: 2
 history:
 - version: 2
@@ -40,7 +47,7 @@ corroborates:
 <!-- inactive-ok-file: CLAIM-748 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpf7stg — removed at the reconciliation of 2026-11-18; named for provenance -->
 
-# THEORY-1923: Cuéllar argues that a newer, less-constrained presidential adjudication, fact-specific presidential decisions about particular parties made with limited judicial review, has grown as doctrine expanded White House control of agencies, norms against interference eroded and congressional oversight weakened, raising a risk of executive coercion that courts can check with a "harder look" assembled from existing doctrine
+# THEORY-1923: Presidential adjudication needs a harder look
 
 ## Source
 

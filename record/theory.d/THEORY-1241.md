@@ -19,7 +19,12 @@ promote_when: >-
   is controlled, or if the classifiers fail on held-out data from a second
   sample. More studies that compare meditators meditating with
   non-meditators doing something else cannot settle it.
-title: 'Experienced Transcendental Meditation practitioners report more pure awareness than matched counting controls, and multivariate EEG separates the meditation period from counting and from rest, but the reports are not shown to track any EEG feature'
+title: 'TM pure awareness reports not tied to EEG'
+statement: >-
+  Experienced Transcendental Meditation practitioners report more pure
+  awareness than matched counting controls, and multivariate EEG separates
+  the meditation period from counting and from rest, but the reports are not
+  shown to track any EEG feature
 version: 1
 history:
 - version: 1
@@ -49,7 +54,7 @@ summary: >-
   this entry's question.
 ---
 
-# THEORY-1241: Experienced Transcendental Meditation practitioners report more pure awareness than matched counting controls, and multivariate EEG separates the meditation period from counting and from rest, but the reports are not shown to track any EEG feature
+# THEORY-1241: TM pure awareness reports not tied to EEG
 
 ## Source
 

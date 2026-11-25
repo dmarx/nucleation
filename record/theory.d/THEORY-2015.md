@@ -3,7 +3,14 @@ number: 2015
 status: Proposed
 formerly:
 - THEORY-tmp8wxgt
-title: 'Han and colleagues show that, in Llama-2 and OLMo-2 language models of 0.5B-4B parameters pre-trained at 20 or 140 tokens per parameter, AdamW weight decay above the default 0.1 during pre-training yields models that score better on the fine-tuning task after fine-tuning, even where it leaves a worse pre-training loss, so that pre-training loss does not rank pre-trained models by their performance after further training.'
+title: 'Pre-training loss misranks fine-tuned models'
+statement: >-
+  Han and colleagues show that, in Llama-2 and OLMo-2 language models of
+  0.5B-4B parameters pre-trained at 20 or 140 tokens per parameter, AdamW
+  weight decay above the default 0.1 during pre-training yields models that
+  score better on the fine-tuning task after fine-tuning, even where it
+  leaves a worse pre-training loss, so that pre-training loss does not rank
+  pre-trained models by their performance after further training.
 version: 1
 source:
 - LIT-2820
@@ -38,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-294 CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2015: Han and colleagues show that, in Llama-2 and OLMo-2 language models of 0.5B-4B parameters pre-trained at 20 or 140 tokens per parameter, AdamW weight decay above the default 0.1 during pre-training yields models that score better on the fine-tuning task after fine-tuning, even where it leaves a worse pre-training loss, so that pre-training loss does not rank pre-trained models by their performance after further training.
+# THEORY-2015: Pre-training loss misranks fine-tuned models
 
 ## The account
 

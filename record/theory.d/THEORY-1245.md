@@ -3,7 +3,14 @@ number: 1245
 status: Proposed
 formerly:
 - THEORY-tmpvevpl
-title: 'Evaluating expected free energy recursively over the beliefs an agent would hold after each plausible outcome makes active inference a pruned tree search over belief states, formally analogous to Bellman recursion, which lets the agent plan through short-term costs that one-step agents cannot; that the pruning keeps deep search tractable beyond toy problems is argued, not shown'
+title: 'Recursive EFE makes active inference tree search'
+statement: >-
+  Evaluating expected free energy recursively over the beliefs an agent
+  would hold after each plausible outcome makes active inference a pruned
+  tree search over belief states, formally analogous to Bellman recursion,
+  which lets the agent plan through short-term costs that one-step agents
+  cannot; that the pruning keeps deep search tractable beyond toy problems
+  is argued, not shown
 version: 1
 tags:
 - probabilistic-modeling
@@ -35,7 +42,7 @@ summary: >-
   outcomes stay plausible, and runs no Bayes-adaptive planner beside it.
 ---
 
-# THEORY-1245: Evaluating expected free energy recursively over the beliefs an agent would hold after each plausible outcome makes active inference a pruned tree search over belief states, formally analogous to Bellman recursion, which lets the agent plan through short-term costs that one-step agents cannot; that the pruning keeps deep search tractable beyond toy problems is argued, not shown
+# THEORY-1245: Recursive EFE makes active inference tree search
 
 ## Source
 

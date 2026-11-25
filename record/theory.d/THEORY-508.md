@@ -3,7 +3,14 @@ number: 508
 status: Active
 formerly:
 - THEORY-tmpe57v7
-title: "The Belousov–Zhabotinsky oscillation is a relaxation cycle in which autocatalytic production of HBrO₂ oxidizes the catalyst until bromide, released as the oxidized catalyst is reduced by bromomalonic acid, switches the autocatalysis off; a closed batch oscillates only as a transient of up to several thousand cycles on its way to equilibrium, and only a continuous-flow reactor sustains it indefinitely"
+title: 'BZ oscillation is a bromide-switched relaxation'
+statement: >-
+  The Belousov–Zhabotinsky oscillation is a relaxation cycle in which
+  autocatalytic production of HBrO₂ oxidizes the catalyst until bromide,
+  released as the oxidized catalyst is reduced by bromomalonic acid,
+  switches the autocatalysis off; a closed batch oscillates only as a
+  transient of up to several thousand cycles on its way to equilibrium, and
+  only a continuous-flow reactor sustains it indefinitely
 version: 2
 history:
 - version: 2
@@ -36,7 +43,7 @@ corroborates:
 
 <!-- inactive-ok-file: LIT-524 — Unavailable: Nicolis & Prigogine 1977; cited only as the review's source for the far-from-equilibrium condition on oscillation -->
 
-# THEORY-508: The Belousov–Zhabotinsky oscillation is a relaxation cycle in which autocatalytic production of HBrO₂ oxidizes the catalyst until bromide, released as the oxidized catalyst is reduced by bromomalonic acid, switches the autocatalysis off; a closed batch oscillates only as a transient of up to several thousand cycles on its way to equilibrium, and only a continuous-flow reactor sustains it indefinitely
+# THEORY-508: BZ oscillation is a bromide-switched relaxation
 
 ## Source
 

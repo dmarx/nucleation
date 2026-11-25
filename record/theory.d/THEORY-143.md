@@ -13,7 +13,12 @@ promote_when: >-
   simulations of the same model family, in either direction, cannot
   settle whether real communities sit in the region where the effect
   occurs.
-title: 'When a group learns only about the options its members pursue and good evidence is scarce, sparser communication makes it more likely to settle on the better option, at a large cost in speed; when evidence is plentiful, sparsity only slows learning'
+title: 'Sparse networks find truth when evidence is scarce'
+statement: >-
+  When a group learns only about the options its members pursue and good
+  evidence is scarce, sparser communication makes it more likely to settle
+  on the better option, at a large cost in speed; when evidence is
+  plentiful, sparsity only slows learning
 version: 3
 history:
 - version: 2
@@ -57,7 +62,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-148 — Proposed; the transient-diversity account filed in this batch -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; Longino's account filed in this batch -->
 
-# THEORY-143: When a group learns only about the options its members pursue and good evidence is scarce, sparser communication makes it more likely to settle on the better option, at a large cost in speed; when evidence is plentiful, sparsity only slows learning
+# THEORY-143: Sparse networks find truth when evidence is scarce
 
 ## Source
 

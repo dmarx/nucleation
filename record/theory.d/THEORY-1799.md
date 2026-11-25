@@ -3,7 +3,13 @@ number: 1799
 status: Proposed
 formerly:
 - THEORY-tmpucrbf
-title: 'Hu, Lu and Clune (2024) report that a fixed foundation-model meta agent which writes new agents as code, scores each on validation data and conditions on an archive of earlier agents and their scores, finds agents that beat hand-designed agents on held-out test sets (for example +13.6 F1 on DROP and +14.4% on MGSM)'
+title: 'Meta agent search beats hand-designed agents'
+statement: >-
+  Hu, Lu and Clune (2024) report that a fixed foundation-model meta agent
+  which writes new agents as code, scores each on validation data and
+  conditions on an archive of earlier agents and their scores, finds agents
+  that beat hand-designed agents on held-out test sets (for example +13.6 F1
+  on DROP and +14.4% on MGSM)
 version: 1
 tags:
 - agency
@@ -22,7 +28,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1799: Hu, Lu and Clune (2024) report that a fixed foundation-model meta agent which writes new agents as code, scores each on validation data and conditions on an archive of earlier agents and their scores, finds agents that beat hand-designed agents on held-out test sets (for example +13.6 F1 on DROP and +14.4% on MGSM)
+# THEORY-1799: Meta agent search beats hand-designed agents
 
 ## The account
 

@@ -14,7 +14,15 @@ promote_when: >-
   theory's proponents granted that this bears on nothing. A further
   argument about which theories feel compatible with the challenge cannot
   settle it.
-title: "Our judgments that consciousness poses a hard problem are behaviour, so explaining them is an easy problem that can be solved without mentioning consciousness; and a theory that names a mechanism as the basis of consciousness owes an account of how that mechanism produces those judgments, which IIT and biological theories struggle to give, since a functional duplicate with zero integrated information, or in silicon, would make the same reports"
+title: 'Hard-problem judgments are an easy problem'
+statement: >-
+  Our judgments that consciousness poses a hard problem are behaviour, so
+  explaining them is an easy problem that can be solved without mentioning
+  consciousness; and a theory that names a mechanism as the basis of
+  consciousness owes an account of how that mechanism produces those
+  judgments, which IIT and biological theories struggle to give, since a
+  functional duplicate with zero integrated information, or in silicon,
+  would make the same reports
 version: 1
 tags:
 - consciousness
@@ -37,7 +45,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-043 THEORY-507 THEORY-523 THEORY-633 THEORY-694 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 
-# THEORY-577: Our judgments that consciousness poses a hard problem are behaviour, so explaining them is an easy problem that can be solved without mentioning consciousness; and a theory that names a mechanism as the basis of consciousness owes an account of how that mechanism produces those judgments, which IIT and biological theories struggle to give, since a functional duplicate with zero integrated information, or in silicon, would make the same reports
+# THEORY-577: Hard-problem judgments are an easy problem
 
 ## Source
 

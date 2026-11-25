@@ -10,7 +10,15 @@ promote_when: >-
   reading of a later source that restates the bound with its proof. The
   lower bound in F is already re-derived below and does not settle it, nor
   does a citation of the bound by others.
-title: 'For a finite partial-monitoring game in which every two actions whose cells meet can estimate their loss difference from their own two signals, RelExp3''s expected regret satisfies lim sup E[R_n]/√n ≤ 8√(2K_loc(1+F)(2+F) log K), with K_loc the most actions whose cells share a point and F the number of feedback symbols, and no other game-dependent constant; a two-action game shows that a factor linear in F cannot be avoided in general'
+title: 'RelExp3 regret needs only local constants'
+statement: >-
+  For a finite partial-monitoring game in which every two actions whose
+  cells meet can estimate their loss difference from their own two signals,
+  RelExp3's expected regret satisfies lim sup E[R_n]/√n ≤
+  8√(2K_loc(1+F)(2+F) log K), with K_loc the most actions whose cells share
+  a point and F the number of feedback symbols, and no other game-dependent
+  constant; a two-action game shows that a factor linear in F cannot be
+  avoided in general
 version: 1
 history:
 - version: 1
@@ -36,7 +44,7 @@ summary: >-
   for one algorithm in a sub-class of the easy games, not a
   characterisation of the constant.
 ---
-# THEORY-950: For a finite partial-monitoring game in which every two actions whose cells meet can estimate their loss difference from their own two signals, RelExp3's expected regret satisfies lim sup E[R_n]/√n ≤ 8√(2K_loc(1+F)(2+F) log K), with K_loc the most actions whose cells share a point and F the number of feedback symbols, and no other game-dependent constant; a two-action game shows that a factor linear in F cannot be avoided in general
+# THEORY-950: RelExp3 regret needs only local constants
 
 ## Source
 

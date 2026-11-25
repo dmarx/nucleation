@@ -10,7 +10,14 @@ promote_when: >-
   finite second moments of the exchange; and that the theorem says
   nothing on quasi-long-range order and does not exclude orientational
   order in a 2D crystal.
-title: "Halperin holds that the Hohenberg–Mermin–Wagner theorem excludes, at T > 0 in one and two dimensions and in equilibrium, true long-range order breaking a continuous symmetry whose generator is a sum of local operators, for interactions with finite second moments, and that it says nothing about quasi-long-range order or T = 0 and does not exclude orientational order in a two-dimensional crystal"
+title: 'Mermin–Wagner forbids only true long-range order'
+statement: >-
+  Halperin holds that the Hohenberg–Mermin–Wagner theorem excludes, at T > 0
+  in one and two dimensions and in equilibrium, true long-range order
+  breaking a continuous symmetry whose generator is a sum of local
+  operators, for interactions with finite second moments, and that it says
+  nothing about quasi-long-range order or T = 0 and does not exclude
+  orientational order in a two-dimensional crystal
 version: 1
 tags:
 - natural-sciences
@@ -33,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2985 — Unavailable; the original this reading stands in for -->
 <!-- inactive-ok-file: CLAIM-841 CLAIM-842 — Proposed -->
 
-# THEORY-2203: Halperin holds that the Hohenberg–Mermin–Wagner theorem excludes, at T > 0 in one and two dimensions and in equilibrium, true long-range order breaking a continuous symmetry whose generator is a sum of local operators, for interactions with finite second moments, and that it says nothing about quasi-long-range order or T = 0 and does not exclude orientational order in a two-dimensional crystal
+# THEORY-2203: Mermin–Wagner forbids only true long-range order
 
 ## Source
 

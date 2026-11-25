@@ -3,7 +3,15 @@ number: 214
 status: Active
 formerly:
 - THEORY-tmp07t7w
-title: 'On the 2022 r/place canvas, the abrupt overthrow of a crowd-built image from a stable period is predicted up to hours ahead, on held-out images and on the 2023 edition, by a combination of many image-level series far better than by any generic slowing-down indicator; the series the predictor relies on include low past restoring of attacked pixels as well as attack outrunning restoration, and about a quarter of overthrows give no warning at the 20-minute range'
+title: 'Image-level series predict r/place overthrows'
+statement: >-
+  On the 2022 r/place canvas, the abrupt overthrow of a crowd-built image
+  from a stable period is predicted up to hours ahead, on held-out images
+  and on the 2023 edition, by a combination of many image-level series far
+  better than by any generic slowing-down indicator; the series the
+  predictor relies on include low past restoring of attacked pixels as well
+  as attack outrunning restoration, and about a quarter of overthrows give
+  no warning at the 20-minute range
 version: 5
 history:
 - version: 2
@@ -73,7 +81,7 @@ bounds:
 ---
 <!-- inactive-ok-file: CLAIM-163 THEORY-069 THEORY-058 — Proposed; open claims and accounts, cited as what this bears on, nothing here rests on their being settled -->
 
-# THEORY-214: On the 2022 r/place canvas, the abrupt overthrow of a crowd-built image from a stable period is predicted up to hours ahead, on held-out images and on the 2023 edition, by a combination of many image-level series far better than by any generic slowing-down indicator; the series the predictor relies on include low past restoring of attacked pixels as well as attack outrunning restoration, and about a quarter of overthrows give no warning at the 20-minute range
+# THEORY-214: Image-level series predict r/place overthrows
 
 ## Source
 

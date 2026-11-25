@@ -3,7 +3,14 @@ number: 1627
 status: Active
 formerly:
 - THEORY-tmpxfzge
-title: 'Danieli, Norris and Engdahl report that, among 422 adult children of Holocaust survivors, parents'' wartime internment was linked to the children''s reported impacts only through the parents'' post-war victim style, that the post-war family milieu weighed more than wartime history, and that broken generational linkages, among them rarely counting the murdered grandparents as one''s own, had the largest total effect'
+title: 'Post-war family milieu outweighs wartime history'
+statement: >-
+  Danieli, Norris and Engdahl report that, among 422 adult children of
+  Holocaust survivors, parents' wartime internment was linked to the
+  children's reported impacts only through the parents' post-war victim
+  style, that the post-war family milieu weighed more than wartime history,
+  and that broken generational linkages, among them rarely counting the
+  murdered grandparents as one's own, had the largest total effect
 version: 2
 history:
 - version: 1
@@ -44,7 +51,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1627: Danieli, Norris and Engdahl report that, among 422 adult children of Holocaust survivors, parents' wartime internment was linked to the children's reported impacts only through the parents' post-war victim style, that the post-war family milieu weighed more than wartime history, and that broken generational linkages, among them rarely counting the murdered grandparents as one's own, had the largest total effect
+# THEORY-1627: Post-war family milieu outweighs wartime history
 
 ## The account
 

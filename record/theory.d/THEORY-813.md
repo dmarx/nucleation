@@ -4,7 +4,11 @@ status: Proposed
 formerly:
 - THEORY-tmpit8ng
 promote_when: 'A result beyond the one-dimensional case where the NTK and the NNGP differ by more than a within-class rescaling. That could be a derivation for multi-dimensional or multi-class data, or a measurement of NC1, with a stated metric, on networks trained in a verified lazy regime (the tangent kernel measured to stay fixed) on real data. The measurement should show NC1 staying at its initial value while the same architecture, trained out of the lazy regime, collapses. The account is refuted by a lazy-regime network, kernel verified static, whose hidden features'' NC1 falls substantially below its value at initialization. More Gaussian-mixture simulations of NNGP against NTK cannot settle it, and neither can finite networks whose regime is not checked.'
-title: 'Training a wide network in the lazy, kernel regime does not make its features more collapsed than at initialization, so neural collapse, where it occurs, is something only feature learning produces'
+title: 'Lazy training doesn''t produce neural collapse'
+statement: >-
+  Training a wide network in the lazy, kernel regime does not make its
+  features more collapsed than at initialization, so neural collapse, where
+  it occurs, is something only feature learning produces
 version: 2
 history:
 - version: 2
@@ -39,7 +43,7 @@ answers:
 <!-- inactive-ok-file: CLAIM-775 CLAIM-478 — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
 <!-- inactive-ok-file: THEORY-2185 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# THEORY-813: Training a wide network in the lazy, kernel regime does not make its features more collapsed than at initialization, so neural collapse, where it occurs, is something only feature learning produces
+# THEORY-813: Lazy training doesn't produce neural collapse
 
 ## Source
 

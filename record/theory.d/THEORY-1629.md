@@ -3,7 +3,13 @@ number: 1629
 status: Active
 formerly:
 - THEORY-tmpy94oh
-title: 'Chen and colleagues report that the mortality-salience literature, which uncorrected reproduces Burke and colleagues'' average effect, shrinks under corrections for publication bias to about r = .18, or to no effect on one method, with true effects so heterogeneous and studies so underpowered that many published effects are likely spurious'
+title: 'Mortality-salience effects shrink under correction'
+statement: >-
+  Chen and colleagues report that the mortality-salience literature, which
+  uncorrected reproduces Burke and colleagues' average effect, shrinks under
+  corrections for publication bias to about r = .18, or to no effect on one
+  method, with true effects so heterogeneous and studies so underpowered
+  that many published effects are likely spurious
 version: 2
 history:
 - version: 1
@@ -40,7 +46,7 @@ bears_on:
 - QUESTION-301
 ---
 
-# THEORY-1629: Chen and colleagues report that the mortality-salience literature, which uncorrected reproduces Burke and colleagues' average effect, shrinks under corrections for publication bias to about r = .18, or to no effect on one method, with true effects so heterogeneous and studies so underpowered that many published effects are likely spurious
+# THEORY-1629: Mortality-salience effects shrink under correction
 
 ## The account
 

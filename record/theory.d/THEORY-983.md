@@ -3,7 +3,16 @@ number: 983
 status: Active
 formerly:
 - THEORY-tmpgqlal
-title: 'In Geiger et al.''s three-layer feed-forward network trained on hierarchical equality and in BERT fine-tuned on monotonicity inference, interchange interventions on subspaces found by a learned rotation aligned the hypothesised two-variable causal models with interchange intervention accuracy of 1.00 on the rotation''s training data, where the axis-aligned alignment closest to the learned rotation reached 0.73 and 0.51; in BERT, the learned lexical-entailment subspace was in turn aligned, at 0.97 to 0.98, with a model holding only the identities of the two words'
+title: 'Learned rotations beat axis-aligned alignments'
+statement: >-
+  In Geiger et al.'s three-layer feed-forward network trained on
+  hierarchical equality and in BERT fine-tuned on monotonicity inference,
+  interchange interventions on subspaces found by a learned rotation aligned
+  the hypothesised two-variable causal models with interchange intervention
+  accuracy of 1.00 on the rotation's training data, where the axis-aligned
+  alignment closest to the learned rotation reached 0.73 and 0.51; in BERT,
+  the learned lexical-entailment subspace was in turn aligned, at 0.97 to
+  0.98, with a model holding only the identities of the two words
 version: 2
 history:
 - version: 1
@@ -48,7 +57,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; the account and claim this bears on, cited as open -->
 
-# THEORY-983: In Geiger et al.'s three-layer feed-forward network trained on hierarchical equality and in BERT fine-tuned on monotonicity inference, interchange interventions on subspaces found by a learned rotation aligned the hypothesised two-variable causal models with interchange intervention accuracy of 1.00 on the rotation's training data, where the axis-aligned alignment closest to the learned rotation reached 0.73 and 0.51; in BERT, the learned lexical-entailment subspace was in turn aligned, at 0.97 to 0.98, with a model holding only the identities of the two words
+# THEORY-983: Learned rotations beat axis-aligned alignments
 
 ## Source
 

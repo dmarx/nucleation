@@ -3,7 +3,14 @@ number: 1591
 status: Active
 formerly:
 - THEORY-tmpbkjpi
-title: 'Wade-Benzoni, Sondak and Galinsky report that framing an intergenerational decision as leaving burdens rather than using up benefits raised legacy concern, felt responsibility and affinity toward future generations, and that people kept more of a benefit than of a burden for themselves when the other party would receive it in the future, though no study measured legacy concern and allocation together'
+title: 'Burden framing raises legacy concern'
+statement: >-
+  Wade-Benzoni, Sondak and Galinsky report that framing an intergenerational
+  decision as leaving burdens rather than using up benefits raised legacy
+  concern, felt responsibility and affinity toward future generations, and
+  that people kept more of a benefit than of a burden for themselves when
+  the other party would receive it in the future, though no study measured
+  legacy concern and allocation together
 version: 2
 history:
 - version: 1
@@ -34,7 +41,7 @@ bears_on:
 - QUESTION-301
 ---
 
-# THEORY-1591: Wade-Benzoni, Sondak and Galinsky report that framing an intergenerational decision as leaving burdens rather than using up benefits raised legacy concern, felt responsibility and affinity toward future generations, and that people kept more of a benefit than of a burden for themselves when the other party would receive it in the future, though no study measured legacy concern and allocation together
+# THEORY-1591: Burden framing raises legacy concern
 
 ## The account
 

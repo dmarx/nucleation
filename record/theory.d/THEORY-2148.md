@@ -11,7 +11,14 @@ promote_when: >-
   order from M^(−2/3) to M^(−1/2). Baik and Silverstein (THEORY-2149)
   already confirm the threshold and the limit almost surely; the
   fluctuation part still rests on this paper alone.
-title: "Baik, Ben Arous and Péché prove that for complex Gaussian samples whose population covariance is the identity but for finitely many eigenvalues, with at least as many samples as variables, the largest sample eigenvalue leaves the bulk edge if and only if some population eigenvalue exceeds 1 + √(N/M), converging then to a stated outlier with fluctuations of order M^(-1/2) instead of the edge's Tracy-Widom M^(-2/3)"
+title: 'Spikes above 1+√(N/M) pull out the top eigenvalue'
+statement: >-
+  Baik, Ben Arous and Péché prove that for complex Gaussian samples whose
+  population covariance is the identity but for finitely many eigenvalues,
+  with at least as many samples as variables, the largest sample eigenvalue
+  leaves the bulk edge if and only if some population eigenvalue exceeds 1 +
+  √(N/M), converging then to a stated outlier with fluctuations of order
+  M^(-1/2) instead of the edge's Tracy-Widom M^(-2/3)
 version: 1
 tags:
 - mathematics
@@ -37,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2201 — new; the reading of Takeuchi and Sano, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2149 ARG-145 — Proposed; the neighbouring reading and the argument of 2026-11-21 -->
 
-# THEORY-2148: Baik, Ben Arous and Péché prove that for complex Gaussian samples whose population covariance is the identity but for finitely many eigenvalues, with at least as many samples as variables, the largest sample eigenvalue leaves the bulk edge if and only if some population eigenvalue exceeds 1 + √(N/M), converging then to a stated outlier with fluctuations of order M^(-1/2) instead of the edge's Tracy-Widom M^(-2/3)
+# THEORY-2148: Spikes above 1+√(N/M) pull out the top eigenvalue
 
 ## Source
 

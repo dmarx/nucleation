@@ -12,7 +12,16 @@ promote_when: >-
   preferred direction removes the anomalous fluctuations. The exactness
   of z = 6/5, ζ = 3/5, χ = −1/5 is not required, and is held separately
   (THEORY-1095).
-title: "In Toner and Tu's continuum theory of flocking, the ordered phase of a rotation-invariant, number-conserving flock without Galilean invariance scales anomalously throughout the phase, not only at its transition: below four dimensions convective nonlinearities replace diffusive transport, so that the long-range order the linearized theory loses in two dimensions survives, with exponents argued to be exact there, and density fluctuations whose structure factor diverges as q → 0; an explicit preferred direction removes the anomalous fluctuations"
+title: 'Ordered flocks scale with new exponents'
+statement: >-
+  In Toner and Tu's continuum theory of flocking, the ordered phase of a
+  rotation-invariant, number-conserving flock without Galilean invariance
+  scales anomalously throughout the phase, not only at its transition: below
+  four dimensions convective nonlinearities replace diffusive transport, so
+  that the long-range order the linearized theory loses in two dimensions
+  survives, with exponents argued to be exact there, and density
+  fluctuations whose structure factor diverges as q → 0; an explicit
+  preferred direction removes the anomalous fluctuations
 version: 1
 tags:
 - complex-systems
@@ -41,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-2285 ARG-197 CLAIM-862 — Skimmed or new; this reading and the entries it grounds -->
 <!-- inactive-ok-file: THEORY-1095 CLAIM-841 CLAIM-842 — Proposed; the 1995 reading this revises and the claims it bears on -->
 
-# THEORY-2199: In Toner and Tu's continuum theory of flocking, the ordered phase of a rotation-invariant, number-conserving flock without Galilean invariance scales anomalously throughout the phase, not only at its transition: below four dimensions convective nonlinearities replace diffusive transport, so that the long-range order the linearized theory loses in two dimensions survives, with exponents argued to be exact there, and density fluctuations whose structure factor diverges as q → 0; an explicit preferred direction removes the anomalous fluctuations
+# THEORY-2199: Ordered flocks scale with new exponents
 
 ## Source
 

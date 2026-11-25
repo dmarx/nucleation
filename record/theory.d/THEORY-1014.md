@@ -15,7 +15,14 @@ promote_when: >-
   copies of one mechanism, or if one carries nearly all the effect. More
   annotated circuit diagrams cannot settle it: that is the evidence it
   rests on.
-title: 'In a language model, a behaviour that looks like one mechanism, whether picked out by one contrast or by one cluster of next-token predictions, is often carried by several distinct pathways of sparse features that converge on the output without fully intersecting, as in Pythia-70M''s agreement across a relative clause, its prediction of "to" before an infinitival object, and its incrementing of sequences'
+title: 'One-mechanism behaviours run on several pathways'
+statement: >-
+  In a language model, a behaviour that looks like one mechanism, whether
+  picked out by one contrast or by one cluster of next-token predictions, is
+  often carried by several distinct pathways of sparse features that
+  converge on the output without fully intersecting, as in Pythia-70M's
+  agreement across a relative clause, its prediction of "to" before an
+  infinitival object, and its incrementing of sequences
 version: 1
 history:
 - version: 1
@@ -46,7 +53,7 @@ summary: >-
   mechanism, circuit-level analysis reveals in both cases a union of
   distinct mechanisms."
 ---
-# THEORY-1014: In a language model, a behaviour that looks like one mechanism, whether picked out by one contrast or by one cluster of next-token predictions, is often carried by several distinct pathways of sparse features that converge on the output without fully intersecting, as in Pythia-70M's agreement across a relative clause, its prediction of "to" before an infinitival object, and its incrementing of sequences
+# THEORY-1014: One-mechanism behaviours run on several pathways
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 1777
 status: Proposed
 formerly:
 - THEORY-tmpmgo6m
-title: 'Li, Zoumpoulis, Puranam, Parker et al. (2026) report that, in building and revising theories of inequality discourse against an empirical benchmark, LLMs matched or outperformed most individual human scientists and produced more complex theories, but the complexity did not improve prediction, human theories were more diverse and gained more from aggregation, and LLMs revised more after seeing evidence without the revision tracking their prior errors as humans'' did'
+title: 'LLM theories more complex, not more predictive'
+statement: >-
+  Li, Zoumpoulis, Puranam, Parker et al. (2026) report that, in building and
+  revising theories of inequality discourse against an empirical benchmark,
+  LLMs matched or outperformed most individual human scientists and produced
+  more complex theories, but the complexity did not improve prediction,
+  human theories were more diverse and gained more from aggregation, and
+  LLMs revised more after seeing evidence without the revision tracking
+  their prior errors as humans' did
 version: 1
 tags:
 - philosophy-of-science
@@ -24,7 +32,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1777: Li, Zoumpoulis, Puranam, Parker et al. (2026) report that, in building and revising theories of inequality discourse against an empirical benchmark, LLMs matched or outperformed most individual human scientists and produced more complex theories, but the complexity did not improve prediction, human theories were more diverse and gained more from aggregation, and LLMs revised more after seeing evidence without the revision tracking their prior errors as humans' did
+# THEORY-1777: LLM theories more complex, not more predictive
 
 ## The account
 

@@ -17,7 +17,12 @@ promote_when: >-
   coverage without linearly factored features. Further runs with oracle
   selection on the test pairs cannot settle it, since they measure the best
   case by construction.
-title: In vision models, compositional generalization to unseen combinations of concepts is driven by the diversity of the combinations seen in training rather than by data volume, and arrives with representations that are linearly factored by concept, as Uselis, Dittadi and Oh propose
+title: 'Compositional generalization needs diverse combos'
+statement: >-
+  In vision models, compositional generalization to unseen combinations of
+  concepts is driven by the diversity of the combinations seen in training
+  rather than by data volume, and arrives with representations that are
+  linearly factored by concept, as Uselis, Dittadi and Oh propose
 version: 1
 tags:
 - representation-learning
@@ -41,7 +46,7 @@ summary: >-
   claim.
 ---
 
-# THEORY-794: In vision models, compositional generalization to unseen combinations of concepts is driven by the diversity of the combinations seen in training rather than by data volume, and arrives with representations that are linearly factored by concept, as Uselis, Dittadi and Oh propose
+# THEORY-794: Compositional generalization needs diverse combos
 
 ## Source
 

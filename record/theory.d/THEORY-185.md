@@ -3,7 +3,16 @@ number: 185
 status: Active
 formerly:
 - THEORY-tmp5ocix
-title: 'When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; over the full hypercube of words, each attribute''s two values equally frequent, the raw co-occurrence ratio mixes in products of attributes, and keeps exact analogies only when the strengths are alike enough that every attribute mode outranks every product mode'
+title: 'Independent attributes make analogies exact'
+statement: >-
+  When each binary attribute of a word affects its co-occurrence
+  independently and multiplicatively, the PMI is affine in the attributes
+  with rank at most d + 1, so a spectral PMI embedding is a linear image of
+  the attribute hypercube and parallelogram analogies hold exactly; over the
+  full hypercube of words, each attribute's two values equally frequent, the
+  raw co-occurrence ratio mixes in products of attributes, and keeps exact
+  analogies only when the strengths are alike enough that every attribute
+  mode outranks every product mode
 version: 5
 history:
 - version: 2
@@ -67,7 +76,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-292 — Proposed; filed today, named in Connections as a rival and a counterpart, not leaned on -->
 <!-- inactive-ok-file: THEORY-183 THEORY-182 — Proposed; cited as the continuous counterpart, the premise about trained models, and the symmetry account this one bears on -->
 
-# THEORY-185: When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; over the full hypercube of words, each attribute's two values equally frequent, the raw co-occurrence ratio mixes in products of attributes, and keeps exact analogies only when the strengths are alike enough that every attribute mode outranks every product mode
+# THEORY-185: Independent attributes make analogies exact
 
 ## Source
 

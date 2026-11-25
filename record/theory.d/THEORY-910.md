@@ -3,7 +3,13 @@ number: 910
 status: Active
 formerly:
 - THEORY-tmpf8za8
-title: "Brown, Price and Dombrovski propose, without a model run or data, that in aversive environments avoiding uncertain states keeps their uncertainty high and so perpetuates avoidance, that anxiety strengthens this loop by misreading noise as change, and that exposure works by reducing the uncertainty rather than an excess of learned threat"
+title: 'Avoiding uncertainty perpetuates avoidance'
+statement: >-
+  Brown, Price and Dombrovski propose, without a model run or data, that in
+  aversive environments avoiding uncertain states keeps their uncertainty
+  high and so perpetuates avoidance, that anxiety strengthens this loop by
+  misreading noise as change, and that exposure works by reducing the
+  uncertainty rather than an excess of learned threat
 version: 2
 history:
 - version: 2
@@ -35,7 +41,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and readings this bears on, named, nothing here rests on them -->
 
-# THEORY-910: Brown, Price and Dombrovski propose, without a model run or data, that in aversive environments avoiding uncertain states keeps their uncertainty high and so perpetuates avoidance, that anxiety strengthens this loop by misreading noise as change, and that exposure works by reducing the uncertainty rather than an excess of learned threat
+# THEORY-910: Avoiding uncertainty perpetuates avoidance
 
 ## Source
 

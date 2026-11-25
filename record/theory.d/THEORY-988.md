@@ -3,7 +3,15 @@ number: 988
 status: Active
 formerly:
 - THEORY-tmphm85g
-title: 'In an attention-only transformer without layer norm or biases, once every attention pattern is held at its value on the input, the logits are exactly a sum of end-to-end path terms, a direct path from embedding to unembedding, one term per head and one per chain of heads composed through their values, and each head''s attention scores are a bilinear form in the tokens through which earlier heads can enter on the query side, the key side or both'
+title: 'Attention-only logits decompose into path terms'
+statement: >-
+  In an attention-only transformer without layer norm or biases, once every
+  attention pattern is held at its value on the input, the logits are
+  exactly a sum of end-to-end path terms, a direct path from embedding to
+  unembedding, one term per head and one per chain of heads composed through
+  their values, and each head's attention scores are a bilinear form in the
+  tokens through which earlier heads can enter on the query side, the key
+  side or both
 version: 1
 history:
 - version: 1
@@ -35,7 +43,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; the basis-relative account this is set beside, cited as open -->
 
-# THEORY-988: In an attention-only transformer without layer norm or biases, once every attention pattern is held at its value on the input, the logits are exactly a sum of end-to-end path terms, a direct path from embedding to unembedding, one term per head and one per chain of heads composed through their values, and each head's attention scores are a bilinear form in the tokens through which earlier heads can enter on the query side, the key side or both
+# THEORY-988: Attention-only logits decompose into path terms
 
 ## Source
 

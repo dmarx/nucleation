@@ -3,7 +3,16 @@ number: 358
 status: Active
 formerly:
 - THEORY-tmpy998n
-title: "In visual search among up to about 36 well-spaced items, a target that alone carries one colour or one distinctive shape part is found in time almost independent of the number of items, while a target identified only by a combination of features its neighbours carry separately takes time that grows linearly with the number of items, about twice as fast when the target is absent, the pattern of a serial self-terminating scan, and practice did not remove it; that conjunctions rather than similarity cause it is the paper's reading, not its result"
+title: 'Conjunction search is serial, feature search not'
+statement: >-
+  In visual search among up to about 36 well-spaced items, a target that
+  alone carries one colour or one distinctive shape part is found in time
+  almost independent of the number of items, while a target identified only
+  by a combination of features its neighbours carry separately takes time
+  that grows linearly with the number of items, about twice as fast when the
+  target is absent, the pattern of a serial self-terminating scan, and
+  practice did not remove it; that conjunctions rather than similarity cause
+  it is the paper's reading, not its result
 version: 2
 history:
 - version: 2
@@ -37,7 +46,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-1081 — Unavailable; the rival account, cited as unread -->
 
-# THEORY-358: In visual search among up to about 36 well-spaced items, a target that alone carries one colour or one distinctive shape part is found in time almost independent of the number of items, while a target identified only by a combination of features its neighbours carry separately takes time that grows linearly with the number of items, about twice as fast when the target is absent, the pattern of a serial self-terminating scan, and practice did not remove it; that conjunctions rather than similarity cause it is the paper's reading, not its result
+# THEORY-358: Conjunction search is serial, feature search not
 
 ## Source
 

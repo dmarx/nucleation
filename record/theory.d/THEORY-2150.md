@@ -13,7 +13,13 @@ promote_when: >-
   exponentially distributed observation time does the same, with tails
   x^(−1∓√(2λ)) in the zero-drift case. Not met by a proof of Kesten's
   theorem, which the title does not assert.
-title: "Mitzenmacher traces preferential attachment from Yule and Simon to the Web-graph models and Gibrat's multiplicative process to the lognormal, and shows that a lognormal can look straight on a log-log plot and that a lower reflecting barrier or an exponentially distributed observation time turns the multiplicative process's lognormal into a power law"
+title: 'Multiplicative growth can yield power laws'
+statement: >-
+  Mitzenmacher traces preferential attachment from Yule and Simon to the
+  Web-graph models and Gibrat's multiplicative process to the lognormal, and
+  shows that a lognormal can look straight on a log-log plot and that a
+  lower reflecting barrier or an exponentially distributed observation time
+  turns the multiplicative process's lognormal into a power law
 version: 1
 tags:
 - probabilistic-modeling
@@ -42,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-144 — Proposed; the term on the name Gibrat -->
 <!-- inactive-ok-file: THEORY-2177 THEORY-2175 — Proposed; the readings of 2026-11-22 -->
 
-# THEORY-2150: Mitzenmacher traces preferential attachment from Yule and Simon to the Web-graph models and Gibrat's multiplicative process to the lognormal, and shows that a lognormal can look straight on a log-log plot and that a lower reflecting barrier or an exponentially distributed observation time turns the multiplicative process's lognormal into a power law
+# THEORY-2150: Multiplicative growth can yield power laws
 
 ## Source
 

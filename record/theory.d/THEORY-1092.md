@@ -12,7 +12,14 @@ promote_when: >-
   the two can be told apart. A single case where the largest residuals
   share a sensor does not settle it, and neither does a large consistency
   radius, which says that something is wrong and not where.
-title: 'Read over the sensor domains, the discrepancies between each observation and the restrictions of others can single out a faulty sensor where the consistency radius alone does not: in Robinson''s simulated search, a 2° bearing bias was attributed to the right sensor, without prior knowledge of it, because every large discrepancy involved that sensor''s domains, while the radius was lower than in the unbiased case'
+title: 'Discrepancies can pinpoint a faulty sensor'
+statement: >-
+  Read over the sensor domains, the discrepancies between each observation
+  and the restrictions of others can single out a faulty sensor where the
+  consistency radius alone does not: in Robinson's simulated search, a 2°
+  bearing bias was attributed to the right sensor, without prior knowledge
+  of it, because every large discrepancy involved that sensor's domains,
+  while the radius was lower than in the unbiased case
 version: 1
 tags:
 - mathematics
@@ -28,7 +35,7 @@ summary: >-
   discrepancies in the same way as faults in the data.
 ---
 
-# THEORY-1092: Read over the sensor domains, the discrepancies between each observation and the restrictions of others can single out a faulty sensor where the consistency radius alone does not: in Robinson's simulated search, a 2° bearing bias was attributed to the right sensor, without prior knowledge of it, because every large discrepancy involved that sensor's domains, while the radius was lower than in the unbiased case
+# THEORY-1092: Discrepancies can pinpoint a faulty sensor
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 908
 status: Active
 formerly:
 - THEORY-tmpbhjiw
-title: 'Between tests, uncorrected for publication bias, implementation intentions in the contingent if-then format had larger effects than plans that schedule when, where and what without linking cue to response (d = .43 against .29); tests in which the plan was rehearsed had larger effects (.45 against .33, with no gain beyond one rehearsal), tests in which it was recorded had smaller ones (.31 against .44), and adding how or for how long to a time and place went with about half the effect (.24 against .46)'
+title: 'If-then plans outperform mere scheduling'
+statement: >-
+  Between tests, uncorrected for publication bias, implementation intentions
+  in the contingent if-then format had larger effects than plans that
+  schedule when, where and what without linking cue to response (d = .43
+  against .29); tests in which the plan was rehearsed had larger effects
+  (.45 against .33, with no gain beyond one rehearsal), tests in which it
+  was recorded had smaller ones (.31 against .44), and adding how or for how
+  long to a time and place went with about half the effect (.24 against .46)
 version: 2
 history:
 - version: 2
@@ -44,7 +52,7 @@ corroborates:
 - CLAIM-443
 ---
 
-# THEORY-908: Between tests, uncorrected for publication bias, implementation intentions in the contingent if-then format had larger effects than plans that schedule when, where and what without linking cue to response (d = .43 against .29); tests in which the plan was rehearsed had larger effects (.45 against .33, with no gain beyond one rehearsal), tests in which it was recorded had smaller ones (.31 against .44), and adding how or for how long to a time and place went with about half the effect (.24 against .46)
+# THEORY-908: If-then plans outperform mere scheduling
 
 ## Source
 

@@ -11,7 +11,12 @@ promote_when: >-
   also relieved did not, so that supply alone left the population
   dependent on further supply and relief of the threat together with
   supply did not.
-title: 'Supplying individuals by translocation while the habitat threat persists gives only ambiguous or transitory gains and perpetuates conservation reliance, which can fall below a reliance threshold only if extrinsic threats and intrinsic small-population limits are relieved together'
+title: 'Reliance ends only if all threats are relieved'
+statement: >-
+  Supplying individuals by translocation while the habitat threat persists
+  gives only ambiguous or transitory gains and perpetuates conservation
+  reliance, which can fall below a reliance threshold only if extrinsic
+  threats and intrinsic small-population limits are relieved together
 version: 1
 tags:
 - ecology
@@ -29,7 +34,7 @@ summary: >-
   question, under the condition [THEORY-1467](THEORY-1467.md) carried, word for word.
 ---
 
-# THEORY-1538: Supplying individuals by translocation while the habitat threat persists gives only ambiguous or transitory gains and perpetuates conservation reliance, which can fall below a reliance threshold only if extrinsic threats and intrinsic small-population limits are relieved together
+# THEORY-1538: Reliance ends only if all threats are relieved
 
 ## Source
 

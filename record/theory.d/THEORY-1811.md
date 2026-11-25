@@ -3,7 +3,13 @@ number: 1811
 status: Proposed
 formerly:
 - THEORY-tmpyzyqe
-title: 'Mo, Zheng and colleagues (2026) report that when LLMs must search the literature themselves rather than read a supplied set of papers, their scientific hypotheses separate more between models and improve about twice as fast across model generations, the gain coming from feasibility, clarity and specificity while LLM-judged originality is unchanged.'
+title: 'Self-searched literature speeds hypothesis gains'
+statement: >-
+  Mo, Zheng and colleagues (2026) report that when LLMs must search the
+  literature themselves rather than read a supplied set of papers, their
+  scientific hypotheses separate more between models and improve about twice
+  as fast across model generations, the gain coming from feasibility,
+  clarity and specificity while LLM-judged originality is unchanged.
 version: 1
 tags:
 - philosophy-of-science
@@ -23,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1860 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# THEORY-1811: Mo, Zheng and colleagues (2026) report that when LLMs must search the literature themselves rather than read a supplied set of papers, their scientific hypotheses separate more between models and improve about twice as fast across model generations, the gain coming from feasibility, clarity and specificity while LLM-judged originality is unchanged.
+# THEORY-1811: Self-searched literature speeds hypothesis gains
 
 ## The account
 

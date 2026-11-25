@@ -3,7 +3,14 @@ number: 1778
 status: Proposed
 formerly:
 - THEORY-tmpn7ukf
-title: 'De Kleer (1986) proposes that a truth maintenance system label each datum with the minimal sets of assumptions from which the recorded justifications derive it, so that the database need not be consistent, contradictions only mark assumption sets as inconsistent, rival contexts can be examined together, and retraction is done by contradicting an assumption rather than deleting a justification'
+title: 'ATMS labels data with minimal assumption sets'
+statement: >-
+  De Kleer (1986) proposes that a truth maintenance system label each datum
+  with the minimal sets of assumptions from which the recorded
+  justifications derive it, so that the database need not be consistent,
+  contradictions only mark assumption sets as inconsistent, rival contexts
+  can be examined together, and retraction is done by contradicting an
+  assumption rather than deleting a justification
 version: 1
 tags:
 - logic
@@ -28,7 +35,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1778: De Kleer (1986) proposes that a truth maintenance system label each datum with the minimal sets of assumptions from which the recorded justifications derive it, so that the database need not be consistent, contradictions only mark assumption sets as inconsistent, rival contexts can be examined together, and retraction is done by contradicting an assumption rather than deleting a justification
+# THEORY-1778: ATMS labels data with minimal assumption sets
 
 ## The account
 

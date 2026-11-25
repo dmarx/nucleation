@@ -3,7 +3,15 @@ number: 2079
 status: Proposed
 formerly:
 - THEORY-tmprqq7k
-title: 'Feng, Goodman and Frank find that small GPT-2 models trained from scratch on about 29M words of child-directed conversation reach about the same final syntactic and semantic performance whether conversations come in children''s age order, in reverse or at random, while shuffling utterances within conversations lowers performance on CHILDES, and conclude that the developmental curriculum of children''s input is not a uniquely valuable training signal for language models'
+title: 'Child-directed curriculum order doesn''t help LMs'
+statement: >-
+  Feng, Goodman and Frank find that small GPT-2 models trained from scratch
+  on about 29M words of child-directed conversation reach about the same
+  final syntactic and semantic performance whether conversations come in
+  children's age order, in reverse or at random, while shuffling utterances
+  within conversations lowers performance on CHILDES, and conclude that the
+  developmental curriculum of children's input is not a uniquely valuable
+  training signal for language models
 version: 1
 source:
 - LIT-2855
@@ -23,7 +31,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-2079: Feng, Goodman and Frank find that small GPT-2 models trained from scratch on about 29M words of child-directed conversation reach about the same final syntactic and semantic performance whether conversations come in children's age order, in reverse or at random, while shuffling utterances within conversations lowers performance on CHILDES, and conclude that the developmental curriculum of children's input is not a uniquely valuable training signal for language models
+# THEORY-2079: Child-directed curriculum order doesn't help LMs
 
 ## The account
 

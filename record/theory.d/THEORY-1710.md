@@ -3,7 +3,14 @@ number: 1710
 status: Proposed
 formerly:
 - THEORY-tmpv6d66
-title: 'UNESCO''s Recommendation on the Ethics of Neurotechnology (2025) extends protections for autonomy, freedom of thought and mental privacy from neural data to any data used to infer mental states, and makes prior, free and informed consent the condition of legitimate influence, calling on states to prohibit manipulative uses in recommender systems and real-time behavioural modification in closed-loop environments without consent.'
+title: 'Protect any data that infers mental states'
+statement: >-
+  UNESCO's Recommendation on the Ethics of Neurotechnology (2025) extends
+  protections for autonomy, freedom of thought and mental privacy from
+  neural data to any data used to infer mental states, and makes prior, free
+  and informed consent the condition of legitimate influence, calling on
+  states to prohibit manipulative uses in recommender systems and real-time
+  behavioural modification in closed-loop environments without consent.
 version: 1
 source:
 - LIT-2463
@@ -30,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1790 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1710: UNESCO's Recommendation on the Ethics of Neurotechnology (2025) extends protections for autonomy, freedom of thought and mental privacy from neural data to any data used to infer mental states, and makes prior, free and informed consent the condition of legitimate influence, calling on states to prohibit manipulative uses in recommender systems and real-time behavioural modification in closed-loop environments without consent.
+# THEORY-1710: Protect any data that infers mental states
 
 ## The account
 

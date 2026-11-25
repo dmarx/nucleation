@@ -3,7 +3,13 @@ number: 1950
 status: Proposed
 formerly:
 - THEORY-tmpxpdlu
-title: 'Smith argues that answerability is the only kind of moral responsibility: attributability without answerability is not responsibility, accountability is answerability where a specific obligation to others has been violated, and differences in warranted response belong to the ethics of blame, not to distinct conceptions of responsibility'
+title: 'Answerability is the only moral responsibility'
+statement: >-
+  Smith argues that answerability is the only kind of moral responsibility:
+  attributability without answerability is not responsibility,
+  accountability is answerability where a specific obligation to others has
+  been violated, and differences in warranted response belong to the ethics
+  of blame, not to distinct conceptions of responsibility
 version: 1
 tags:
 - ethics
@@ -19,7 +25,7 @@ rivals:
 - THEORY-147
 ---
 <!-- inactive-ok-file: LIT-2718 THEORY-147 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1950: Smith argues that answerability is the only kind of moral responsibility: attributability without answerability is not responsibility, accountability is answerability where a specific obligation to others has been violated, and differences in warranted response belong to the ethics of blame, not to distinct conceptions of responsibility
+# THEORY-1950: Answerability is the only moral responsibility
 
 ## Source
 

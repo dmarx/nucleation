@@ -13,7 +13,14 @@ promote_when: >-
   placed. Not satisfied by the organization's own statements of what
   gifting should be, nor by evidence that the placement reform worked,
   which the account does not assert.
-title: 'Burning Man''s gifting carries no obligation on the recipient to reciprocate, yet sustains circulation through gratitude that recipients return to the community in later labour, a generalized rather than bilateral reciprocity; non-participation is the most pressing threat to it, and the organization answered it in part by reforming how theme camps are registered and placed'
+title: 'Unreciprocated gifts circulate through gratitude'
+statement: >-
+  Burning Man's gifting carries no obligation on the recipient to
+  reciprocate, yet sustains circulation through gratitude that recipients
+  return to the community in later labour, a generalized rather than
+  bilateral reciprocity; non-participation is the most pressing threat to
+  it, and the organization answered it in part by reforming how theme camps
+  are registered and placed
 version: 1
 tags:
 - social-science
@@ -31,7 +38,7 @@ summary: >-
   carried, word for word.
 ---
 
-# THEORY-1546: Burning Man's gifting carries no obligation on the recipient to reciprocate, yet sustains circulation through gratitude that recipients return to the community in later labour, a generalized rather than bilateral reciprocity; non-participation is the most pressing threat to it, and the organization answered it in part by reforming how theme camps are registered and placed
+# THEORY-1546: Unreciprocated gifts circulate through gratitude
 
 ## Source
 

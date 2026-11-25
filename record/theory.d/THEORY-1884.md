@@ -14,7 +14,19 @@ promote_when: >-
   Refuted for the trained-model clause if training at the stated sizes
   yields MLPs that do not transfer. Probe results in released language
   models cannot settle it: the entry is about the toy.
-title: 'In a one-layer transformer trained to recall R random bijections from N subjects onto a shared set of N attributes, learnable embeddings let all N·R facts be memorized with embedding dimension O(R log N) and an MLP whose width does not grow with N, by encoding each subject as a linear superposition of its R attribute codes from which a relation-conditioned ReLU MLP selects, rather than by storing subject–attribute pairs as associations in the weights, which training finds only when the embeddings are frozen; without chain-of-thought, a counting bound makes k-hop recall pay either in weights that hold the facts or in an embedding exponential in k, as Ravfogel, Yehudai, Bruna and Bietti prove and find gradient descent to recover'
+title: 'Facts memorized as superposed embeddings'
+statement: >-
+  In a one-layer transformer trained to recall R random bijections from N
+  subjects onto a shared set of N attributes, learnable embeddings let all
+  N·R facts be memorized with embedding dimension O(R log N) and an MLP
+  whose width does not grow with N, by encoding each subject as a linear
+  superposition of its R attribute codes from which a relation-conditioned
+  ReLU MLP selects, rather than by storing subject–attribute pairs as
+  associations in the weights, which training finds only when the embeddings
+  are frozen; without chain-of-thought, a counting bound makes k-hop recall
+  pay either in weights that hold the facts or in an embedding exponential
+  in k, as Ravfogel, Yehudai, Bruna and Bietti prove and find gradient
+  descent to recover
 version: 1
 history:
 - version: 1
@@ -40,7 +52,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1030 THEORY-1039 — Proposed readings of FFN memory and fact recall, cited as open -->
 
-# THEORY-1884: In a one-layer transformer trained to recall R random bijections from N subjects onto a shared set of N attributes, learnable embeddings let all N·R facts be memorized with embedding dimension O(R log N) and an MLP whose width does not grow with N, by encoding each subject as a linear superposition of its R attribute codes from which a relation-conditioned ReLU MLP selects, rather than by storing subject–attribute pairs as associations in the weights, which training finds only when the embeddings are frozen; without chain-of-thought, a counting bound makes k-hop recall pay either in weights that hold the facts or in an embedding exponential in k, as Ravfogel, Yehudai, Bruna and Bietti prove and find gradient descent to recover
+# THEORY-1884: Facts memorized as superposed embeddings
 
 ## Source
 

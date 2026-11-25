@@ -10,7 +10,13 @@ promote_when: >-
   organization's hierarchy, so that a just-culture scheme can serve those
   who control it. Whether the survey Dekker and Nyce relay shows this is
   not asked.
-title: 'Dekker and Nyce argue that a just-culture scheme that sorts errors into honest mistakes, at-risk behaviour and recklessness treats culpability as an objective fact, when whether a response is just depends on where one stands in the organization''s hierarchy and who gets to say, so that the scheme can carry blame along lines of power'
+title: 'Just-culture sorting can carry blame along power'
+statement: >-
+  Dekker and Nyce argue that a just-culture scheme that sorts errors into
+  honest mistakes, at-risk behaviour and recklessness treats culpability as
+  an objective fact, when whether a response is just depends on where one
+  stands in the organization's hierarchy and who gets to say, so that the
+  scheme can carry blame along lines of power
 version: 1
 tags:
 - society-and-governance
@@ -33,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-750 — new; the reading and the claim this corroborates -->
 <!-- inactive-ok-file: LIT-2781 — Unavailable; the book this stands in for -->
 
-# THEORY-1997: Dekker and Nyce argue that a just-culture scheme that sorts errors into honest mistakes, at-risk behaviour and recklessness treats culpability as an objective fact, when whether a response is just depends on where one stands in the organization's hierarchy and who gets to say, so that the scheme can carry blame along lines of power
+# THEORY-1997: Just-culture sorting can carry blame along power
 
 Dekker and Nyce (2013), [LIT-2786](../literature.d/LIT-2786.md), read in [NOTE-2080](../notes.d/NOTE-2080.md).
 

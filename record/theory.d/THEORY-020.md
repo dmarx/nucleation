@@ -3,7 +3,12 @@ number: 20
 status: Active
 formerly:
 - THEORY-tmp2hqgn
-title: 'Every Boolean algebra is the clopen algebra of its Stone space of prime ideals, and a finite one is the power set of its atoms, so a single Boolean context always has two-valued valuations and the Kochen–Specker obstruction lies in how contexts overlap'
+title: 'KS obstruction lies in how contexts overlap'
+statement: >-
+  Every Boolean algebra is the clopen algebra of its Stone space of prime
+  ideals, and a finite one is the power set of its atoms, so a single
+  Boolean context always has two-valued valuations and the Kochen–Specker
+  obstruction lies in how contexts overlap
 version: 1
 tags:
 - mathematics
@@ -28,7 +33,7 @@ summary: >-
   duality of categories.
 ---
 
-# THEORY-020: Every Boolean algebra is the clopen algebra of its Stone space of prime ideals, and a finite one is the power set of its atoms, so a single Boolean context always has two-valued valuations and the Kochen–Specker obstruction lies in how contexts overlap
+# THEORY-020: KS obstruction lies in how contexts overlap
 
 ## Source
 

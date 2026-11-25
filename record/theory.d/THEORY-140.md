@@ -3,7 +3,17 @@ number: 140
 status: Active
 formerly:
 - THEORY-tmpe60l0
-title: 'The Columbia Accident Investigation Board found that the institutional causes of the Challenger accident had not been fixed and recurred in Columbia''s: in both, evidence that the design was not performing as expected was repeatedly reinterpreted as acceptable, each decision seeming correct in itself and each survived anomaly justifying the next flight, while budget and schedule pressure, consensus sign-off, a hierarchy that kept dissent from rising and a safety organization dependent on the program it oversaw sustained the pattern for twenty years and undid post-Challenger reforms'
+title: 'Columbia repeated Challenger''s causes'
+statement: >-
+  The Columbia Accident Investigation Board found that the institutional
+  causes of the Challenger accident had not been fixed and recurred in
+  Columbia's: in both, evidence that the design was not performing as
+  expected was repeatedly reinterpreted as acceptable, each decision seeming
+  correct in itself and each survived anomaly justifying the next flight,
+  while budget and schedule pressure, consensus sign-off, a hierarchy that
+  kept dissent from rising and a safety organization dependent on the
+  program it oversaw sustained the pattern for twenty years and undid
+  post-Challenger reforms
 version: 2
 history:
 - version: 2
@@ -52,7 +62,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-145 — Proposed; Argyris, named for comparison -->
 <!-- inactive-ok-file: THEORY-142 — Proposed; March, named for comparison -->
 
-# THEORY-140: The Columbia Accident Investigation Board found that the institutional causes of the Challenger accident had not been fixed and recurred in Columbia's: in both, evidence that the design was not performing as expected was repeatedly reinterpreted as acceptable, each decision seeming correct in itself and each survived anomaly justifying the next flight, while budget and schedule pressure, consensus sign-off, a hierarchy that kept dissent from rising and a safety organization dependent on the program it oversaw sustained the pattern for twenty years and undid post-Challenger reforms
+# THEORY-140: Columbia repeated Challenger's causes
 
 ## Source
 

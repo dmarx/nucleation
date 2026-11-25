@@ -17,7 +17,11 @@ promote_when: >-
   off at a clearly positive value as source models are added, or falling only
   as the centre's own loss rises, so that the centre is not a solution.
   Larger relative improvements over the pairwise baseline cannot settle it.
-title: 'A set of trained solutions has a centre that is linearly connected, after alignment, to the rest of them: the solution set is a star domain even where it is not convex'
+title: 'Solution sets are star domains'
+statement: >-
+  A set of trained solutions has a centre that is linearly connected, after
+  alignment, to the rest of them: the solution set is a star domain even
+  where it is not convex
 version: 2
 history:
 - version: 2
@@ -55,7 +59,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-109 — Proposed; the accounts this one extends, filed with it -->
 
-# THEORY-110: A set of trained solutions has a centre that is linearly connected, after alignment, to the rest of them: the solution set is a star domain even where it is not convex
+# THEORY-110: Solution sets are star domains
 
 ## Source
 

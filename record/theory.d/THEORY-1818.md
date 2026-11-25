@@ -3,7 +3,13 @@ number: 1818
 status: Proposed
 formerly:
 - THEORY-tmpk4d9t
-title: 'Fineman argues that because vulnerability is universal and constant and individuals'' resilience depends on the assets societal institutions confer, a state that brings those institutions into legal existence is responsible for monitoring them and for equal access and opportunity, and must justify any privilege it confers or tolerates'
+title: 'Universal vulnerability makes states answerable'
+statement: >-
+  Fineman argues that because vulnerability is universal and constant and
+  individuals' resilience depends on the assets societal institutions
+  confer, a state that brings those institutions into legal existence is
+  responsible for monitoring them and for equal access and opportunity, and
+  must justify any privilege it confers or tolerates
 version: 2
 history:
 - version: 2
@@ -29,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-671 — Proposed; cited as on the record -->
 <!-- inactive-ok-file: ARG-099 — filed with this reading, Rejected -->
 
-# THEORY-1818: Fineman argues that because vulnerability is universal and constant and individuals' resilience depends on the assets societal institutions confer, a state that brings those institutions into legal existence is responsible for monitoring them and for equal access and opportunity, and must justify any privilege it confers or tolerates
+# THEORY-1818: Universal vulnerability makes states answerable
 
 ## The account
 

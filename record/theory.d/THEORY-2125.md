@@ -3,7 +3,13 @@ number: 2125
 status: Proposed
 formerly:
 - THEORY-tmpvoer4
-title: 'Moll and Kadipasaoglu argue that social perspective-taking, tracking what a partner has desired, witnessed or said, emerges at least a year before level-1 visual perspective-taking because joint attention builds a common ground with specific partners, while young children treat co-presence as shared perception, and that the two converge at level 2 at 4 to 5 years'
+title: 'Social precedes visual perspective-taking'
+statement: >-
+  Moll and Kadipasaoglu argue that social perspective-taking, tracking what
+  a partner has desired, witnessed or said, emerges at least a year before
+  level-1 visual perspective-taking because joint attention builds a common
+  ground with specific partners, while young children treat co-presence as
+  shared perception, and that the two converge at level 2 at 4 to 5 years
 version: 1
 source:
 - LIT-2908
@@ -22,7 +28,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2125: Moll and Kadipasaoglu argue that social perspective-taking, tracking what a partner has desired, witnessed or said, emerges at least a year before level-1 visual perspective-taking because joint attention builds a common ground with specific partners, while young children treat co-presence as shared perception, and that the two converge at level 2 at 4 to 5 years
+# THEORY-2125: Social precedes visual perspective-taking
 
 ## The account
 

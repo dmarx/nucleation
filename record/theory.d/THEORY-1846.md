@@ -3,7 +3,12 @@ number: 1846
 status: Proposed
 formerly:
 - THEORY-tmpl7lm5
-title: 'Lanier holds that cybernetic totalism, the application of computer-science metaphors to people and reality, spreads through software design and grows the digital hive at the expense of individuality, and that information is alienated experience, which means nothing without a person to interpret it'
+title: 'Cybernetic totalism erodes individuality'
+statement: >-
+  Lanier holds that cybernetic totalism, the application of computer-science
+  metaphors to people and reality, spreads through software design and grows
+  the digital hive at the expense of individuality, and that information is
+  alienated experience, which means nothing without a person to interpret it
 version: 1
 source:
 - LIT-2582
@@ -24,7 +29,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1858 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: NOTE-1948 — Skimmed; the publisher's excerpt -->
 
-# THEORY-1846: Lanier holds that cybernetic totalism, the application of computer-science metaphors to people and reality, spreads through software design and grows the digital hive at the expense of individuality, and that information is alienated experience, which means nothing without a person to interpret it
+# THEORY-1846: Cybernetic totalism erodes individuality
 
 ## The account
 

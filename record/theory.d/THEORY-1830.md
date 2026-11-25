@@ -3,7 +3,16 @@ number: 1830
 status: Active
 formerly:
 - THEORY-tmper33k
-title: 'On Tu, a biochemical network at equilibrium has a steady state fixed by its free-energy landscape, so changing its rates cannot change where it sits; dissipation lets kinetics set the steady state, and functions such as proofreading, adaptation and synchronization need it, adaptation and synchronization only above a threshold; in a four-state model of adaptation the dissipation rate, speed and accuracy obey Ẇ = c₁V_a ln(c₂A_a) to leading order, and the author proposes, as a law for living systems, that dissipation is bounded below by a function of performance'
+title: 'Biochemical function needs dissipation'
+statement: >-
+  On Tu, a biochemical network at equilibrium has a steady state fixed by
+  its free-energy landscape, so changing its rates cannot change where it
+  sits; dissipation lets kinetics set the steady state, and functions such
+  as proofreading, adaptation and synchronization need it, adaptation and
+  synchronization only above a threshold; in a four-state model of
+  adaptation the dissipation rate, speed and accuracy obey Ẇ = c₁V_a
+  ln(c₂A_a) to leading order, and the author proposes, as a law for living
+  systems, that dissipation is bounded below by a function of performance
 version: 1
 history:
 - version: 1
@@ -38,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2196 — Proposed; the reading of Gingrich and colleagues, 2026-11-22 -->
 
-# THEORY-1830: On Tu, a biochemical network at equilibrium has a steady state fixed by its free-energy landscape, so changing its rates cannot change where it sits; dissipation lets kinetics set the steady state, and functions such as proofreading, adaptation and synchronization need it, adaptation and synchronization only above a threshold; in a four-state model of adaptation the dissipation rate, speed and accuracy obey Ẇ = c₁V_a ln(c₂A_a) to leading order, and the author proposes, as a law for living systems, that dissipation is bounded below by a function of performance
+# THEORY-1830: Biochemical function needs dissipation
 
 ## Source
 

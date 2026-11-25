@@ -8,7 +8,15 @@ promote_when: >-
   condition, and a numerical check on a ring of n-cells finds stable
   phase-locked states with nonzero winding only when the boundary has five
   or more cells.
-title: 'Bačić and colleagues show that the phase-locked states of the topological Kuramoto model on a cell complex are the solutions of linear balance conditions that also meet nonlinear cycle conditions, sums of inverse sines around each independent cycle equal to 2π times a winding number, and that because a stable phase difference is below π/2 in size, coexisting stable states with nonzero winding need a boundary of at least five cells'
+title: 'Topological Kuramoto winding needs five cells'
+statement: >-
+  Bačić and colleagues show that the phase-locked states of the topological
+  Kuramoto model on a cell complex are the solutions of linear balance
+  conditions that also meet nonlinear cycle conditions, sums of inverse
+  sines around each independent cycle equal to 2π times a winding number,
+  and that because a stable phase difference is below π/2 in size,
+  coexisting stable states with nonzero winding need a boundary of at least
+  five cells
 version: 1
 tags:
 - network-science
@@ -23,7 +31,7 @@ summary: >-
   results. Proposed until its promote_when is met.
 ---
 
-# THEORY-2247: Bačić and colleagues show that the phase-locked states of the topological Kuramoto model on a cell complex are the solutions of linear balance conditions that also meet nonlinear cycle conditions, sums of inverse sines around each independent cycle equal to 2π times a winding number, and that because a stable phase difference is below π/2 in size, coexisting stable states with nonzero winding need a boundary of at least five cells
+# THEORY-2247: Topological Kuramoto winding needs five cells
 
 ## Source
 

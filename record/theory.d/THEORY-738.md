@@ -3,7 +3,15 @@ number: 738
 status: Active
 formerly:
 - THEORY-tmpbyp9v
-title: 'In the unconstrained-features max-margin problem with k classes under step imbalance and feature dimension at least k − 1, the unique optimal logits are the simplex-encoded labels, every margin equals one, and the classifier and embedding Gram matrices are the two square-root factors of that matrix''s singular value decomposition; the geometry is the simplex equiangular tight frame exactly when the classes are balanced or there are two of them'
+title: 'Imbalanced max-margin optimum is simplex labels'
+statement: >-
+  In the unconstrained-features max-margin problem with k classes under step
+  imbalance and feature dimension at least k − 1, the unique optimal logits
+  are the simplex-encoded labels, every margin equals one, and the
+  classifier and embedding Gram matrices are the two square-root factors of
+  that matrix's singular value decomposition; the geometry is the simplex
+  equiangular tight frame exactly when the classes are balanced or there are
+  two of them
 version: 2
 history:
 - version: 1
@@ -48,7 +56,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-286 — Proposed; the account this core was split from and that extends it, cited as open -->
 <!-- inactive-ok-file: LIT-3011 LIT-3013 — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
 
-# THEORY-738: In the unconstrained-features max-margin problem with k classes under step imbalance and feature dimension at least k − 1, the unique optimal logits are the simplex-encoded labels, every margin equals one, and the classifier and embedding Gram matrices are the two square-root factors of that matrix's singular value decomposition; the geometry is the simplex equiangular tight frame exactly when the classes are balanced or there are two of them
+# THEORY-738: Imbalanced max-margin optimum is simplex labels
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 2163
 status: Proposed
 formerly:
 - THEORY-tmpbobud
-title: 'Amari, Park and Ozeki show that in a multilayer perceptron or gaussian mixture the Fisher information degenerates on a continuum of finite parameter values, where a unit vanishes or two units coincide, which the map to distributions collapses to a cone-type singular point; and that near it ordinary gradient learning has fast and slow manifolds, so the state is drawn quickly towards the singular set and then moves slowly along it, the plateau, even when the truth is regular, while natural gradient is repelled from it'
+title: 'Fisher singularities cause learning plateaus'
+statement: >-
+  Amari, Park and Ozeki show that in a multilayer perceptron or gaussian
+  mixture the Fisher information degenerates on a continuum of finite
+  parameter values, where a unit vanishes or two units coincide, which the
+  map to distributions collapses to a cone-type singular point; and that
+  near it ordinary gradient learning has fast and slow manifolds, so the
+  state is drawn quickly towards the singular set and then moves slowly
+  along it, the plateau, even when the truth is regular, while natural
+  gradient is repelled from it
 promote_when: >-
   The record rederives the Fisher rank loss on vw = 0 for one hidden unit
   and the cone model's split (ξ̇ of order 1 and θ̇ of order ξ under
@@ -33,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-3017 — Deferred, registered 2026-11-21 from this reading, unread -->
 
-# THEORY-2163: Amari, Park and Ozeki show that in a multilayer perceptron or gaussian mixture the Fisher information degenerates on a continuum of finite parameter values, where a unit vanishes or two units coincide, which the map to distributions collapses to a cone-type singular point; and that near it ordinary gradient learning has fast and slow manifolds, so the state is drawn quickly towards the singular set and then moves slowly along it, the plateau, even when the truth is regular, while natural gradient is repelled from it
+# THEORY-2163: Fisher singularities cause learning plateaus
 
 ## Source
 

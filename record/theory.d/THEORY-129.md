@@ -20,7 +20,12 @@ promote_when: >-
   more transcriptome time courses on their own, which add correlates and
   not causes, or field correlations of spawning with lunar phase, which
   were the starting point.
-title: 'In Acropora millepora the natural night-light regime is necessary for spawning on the expected night, and displacing it delays or abolishes both release and a spawning-night programme of G-protein-coupled signalling genes'
+title: 'Coral spawning needs the natural night light'
+statement: >-
+  In Acropora millepora the natural night-light regime is necessary for
+  spawning on the expected night, and displacing it delays or abolishes both
+  release and a spawning-night programme of G-protein-coupled signalling
+  genes
 version: 1
 tags:
 - natural-sciences
@@ -44,7 +49,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-126 THEORY-069 THEORY-128 — Proposed; the record's accounts of synchrony from a shared cause and from coupling, named for a parallel and a contrast, and the reef-recovery account filed in the same batch; nothing here rests on them -->
 
-# THEORY-129: In Acropora millepora the natural night-light regime is necessary for spawning on the expected night, and displacing it delays or abolishes both release and a spawning-night programme of G-protein-coupled signalling genes
+# THEORY-129: Coral spawning needs the natural night light
 
 ## Source
 

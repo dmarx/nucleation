@@ -3,7 +3,14 @@ number: 1795
 status: Proposed
 formerly:
 - THEORY-tmpt5rqc
-title: 'Zhao and colleagues report that for language models on multiple-choice reasoning benchmarks, tool evidence helps when the model''s pre-tool belief in the correct answer is weak and can flip correct answers when it is strong, even when the tool output is correct, and that the damage from a fixed misleading clue varies with how much authority the prompt frames it as having.'
+title: 'Tool evidence helps weak beliefs, flips strong'
+statement: >-
+  Zhao and colleagues report that for language models on multiple-choice
+  reasoning benchmarks, tool evidence helps when the model's pre-tool belief
+  in the correct answer is weak and can flip correct answers when it is
+  strong, even when the tool output is correct, and that the damage from a
+  fixed misleading clue varies with how much authority the prompt frames it
+  as having.
 version: 1
 tags:
 - logic
@@ -22,7 +29,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1795: Zhao and colleagues report that for language models on multiple-choice reasoning benchmarks, tool evidence helps when the model's pre-tool belief in the correct answer is weak and can flip correct answers when it is strong, even when the tool output is correct, and that the damage from a fixed misleading clue varies with how much authority the prompt frames it as having.
+# THEORY-1795: Tool evidence helps weak beliefs, flips strong
 
 ## The account
 

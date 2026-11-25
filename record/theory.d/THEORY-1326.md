@@ -12,7 +12,14 @@ promote_when: >-
   choices intact. Correlations of fixation or BOLD activity with later
   preference change do not settle it, nor does the model's consistency
   with dissonance studies.
-title: 'In Voigt''s model of hard decisions, when two options are valued equally the value differential is too small to choose (conflict, dACC), and the tie is broken during the choice by fixation: precuneus allocates spatial attention bottom-up to the salient item and dlPFC holds it in working memory, which both settles the choice and raises that item''s value, a change that lasts only if the choice is remembered (hippocampus)'
+title: 'Fixation breaks value ties in hard choices'
+statement: >-
+  In Voigt's model of hard decisions, when two options are valued equally
+  the value differential is too small to choose (conflict, dACC), and the
+  tie is broken during the choice by fixation: precuneus allocates spatial
+  attention bottom-up to the salient item and dlPFC holds it in working
+  memory, which both settles the choice and raises that item's value, a
+  change that lasts only if the choice is remembered (hippocampus)
 version: 1
 tags:
 - neuroscience
@@ -30,7 +37,7 @@ summary: >-
   capture by salience, not top-down prefrontal feedback.
 ---
 
-# THEORY-1326: In Voigt's model of hard decisions, when two options are valued equally the value differential is too small to choose (conflict, dACC), and the tie is broken during the choice by fixation: precuneus allocates spatial attention bottom-up to the salient item and dlPFC holds it in working memory, which both settles the choice and raises that item's value, a change that lasts only if the choice is remembered (hippocampus)
+# THEORY-1326: Fixation breaks value ties in hard choices
 
 ## Source
 

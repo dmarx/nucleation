@@ -3,7 +3,14 @@ number: 1267
 status: Active
 formerly:
 - THEORY-tmpmq3g1
-title: 'A safe set that a nominal barrier-function controller keeps invariant can be left under an arbitrarily small input disturbance, but if the barrier inequality holds with a disturbance penalty, ḣ ≥ −α(h) − ι(‖d‖), the state stays in a larger set {h + γ(‖d‖∞) ≥ 0} with γ class-K, and adding a damping term along the barrier''s input direction to any barrier controller gives this with an enlargement of ‖d‖²/(4ε) in units of h'
+title: 'Disturbance-robust barriers enlarge the safe set'
+statement: >-
+  A safe set that a nominal barrier-function controller keeps invariant can
+  be left under an arbitrarily small input disturbance, but if the barrier
+  inequality holds with a disturbance penalty, ḣ ≥ −α(h) − ι(‖d‖), the state
+  stays in a larger set {h + γ(‖d‖∞) ≥ 0} with γ class-K, and adding a
+  damping term along the barrier's input direction to any barrier controller
+  gives this with an enlargement of ‖d‖²/(4ε) in units of h
 version: 1
 tags:
 - control-theory
@@ -20,7 +27,7 @@ summary: >-
   universal construction, not proportional to the disturbance.
 ---
 
-# THEORY-1267: A safe set that a nominal barrier-function controller keeps invariant can be left under an arbitrarily small input disturbance, but if the barrier inequality holds with a disturbance penalty, ḣ ≥ −α(h) − ι(‖d‖), the state stays in a larger set {h + γ(‖d‖∞) ≥ 0} with γ class-K, and adding a damping term along the barrier's input direction to any barrier controller gives this with an enlargement of ‖d‖²/(4ε) in units of h
+# THEORY-1267: Disturbance-robust barriers enlarge the safe set
 
 ## Source
 

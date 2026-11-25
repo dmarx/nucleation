@@ -16,7 +16,11 @@ promote_when: >-
   alphaproteobacterial-against-other-bacteria difference disappears with
   denser sampling of close relatives, or if the non-alpha bacterial genes
   are dated after the mitochondrion's entry.
-title: 'The mitochondrion was acquired late in eukaryogenesis, by a host whose proteome was already chimaeric, with genes from several bacterial sources acquired before it'
+title: 'Late mitochondria, host already chimaeric'
+statement: >-
+  The mitochondrion was acquired late in eukaryogenesis, by a host whose
+  proteome was already chimaeric, with genes from several bacterial sources
+  acquired before it
 version: 1
 tags:
 - endosymbiosis
@@ -36,7 +40,7 @@ summary: >-
   and its promote_when is [THEORY-1102](THEORY-1102.md)'s old condition, word for word.
 ---
 
-# THEORY-1206: The mitochondrion was acquired late in eukaryogenesis, by a host whose proteome was already chimaeric, with genes from several bacterial sources acquired before it
+# THEORY-1206: Late mitochondria, host already chimaeric
 
 ## Source
 

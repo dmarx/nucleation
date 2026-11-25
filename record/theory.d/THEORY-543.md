@@ -3,7 +3,15 @@ number: 543
 status: Active
 formerly:
 - THEORY-tmphslyk
-title: "Diffusion can destabilise a homogeneous steady state of reacting chemicals that is stable without it: a disturbance of one finite wave-length grows while uniform and very short ones decay, so a stationary pattern appears whose spacing is set by the reaction and diffusion constants and only its phase by the disturbance; with two substances this needs them to diffuse at different rates, and the pattern lasts only while free energy is supplied"
+title: 'Diffusion can destabilise a stable steady state'
+statement: >-
+  Diffusion can destabilise a homogeneous steady state of reacting chemicals
+  that is stable without it: a disturbance of one finite wave-length grows
+  while uniform and very short ones decay, so a stationary pattern appears
+  whose spacing is set by the reaction and diffusion constants and only its
+  phase by the disturbance; with two substances this needs them to diffuse
+  at different rates, and the pattern lasts only while free energy is
+  supplied
 version: 2
 history:
 - version: 2
@@ -38,7 +46,7 @@ bears_on:
 <!-- inactive-ok-file: NOTE-418 — Skimmed; cited only for the later chemical realisations and the status of morphogens, which the skim read -->
 <!-- inactive-ok-file: THEORY-072 THEORY-088 — Proposed; neighbouring accounts named for context, nothing here rests on their being settled -->
 
-# THEORY-543: Diffusion can destabilise a homogeneous steady state of reacting chemicals that is stable without it: a disturbance of one finite wave-length grows while uniform and very short ones decay, so a stationary pattern appears whose spacing is set by the reaction and diffusion constants and only its phase by the disturbance; with two substances this needs them to diffuse at different rates, and the pattern lasts only while free energy is supplied
+# THEORY-543: Diffusion can destabilise a stable steady state
 
 ## Source
 

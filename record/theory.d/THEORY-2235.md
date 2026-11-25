@@ -14,7 +14,16 @@ promote_when: >-
   function without this shape, or finds that most current theories are
   not etiological. What cannot settle it: an argument that teleosemantics
   is false, which is a different question from what the field holds.
-title: "Teleosemantic theories derive the norms by which a representation is correct or in error from functional norms, which they take to be descriptive and, in most versions, etiological: what an item or its type was selected for, by natural selection, learning or another selection process; they divide on whether the consumer's or the producer's function fixes content, and face objections from indeterminacy, from a replica with no history, from attributing representations to all living things, and from sophisticated concepts"
+title: 'Teleosemantics derives content from function'
+statement: >-
+  Teleosemantic theories derive the norms by which a representation is
+  correct or in error from functional norms, which they take to be
+  descriptive and, in most versions, etiological: what an item or its type
+  was selected for, by natural selection, learning or another selection
+  process; they divide on whether the consumer's or the producer's function
+  fixes content, and face objections from indeterminacy, from a replica with
+  no history, from attributing representations to all living things, and
+  from sophisticated concepts
 version: 1
 tags:
 - philosophy-of-language
@@ -36,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-204 CLAIM-920 THEORY-2234 — Proposed; filed for LEAD-018 in this batch -->
 <!-- inactive-ok-file: CLAIM-650 CLAIM-648 THEORY-072 THEORY-220 — Proposed; held entries this reading bears on, cited with their standing -->
 
-# THEORY-2235: Teleosemantic theories derive the norms by which a representation is correct or in error from functional norms, which they take to be descriptive and, in most versions, etiological: what an item or its type was selected for, by natural selection, learning or another selection process; they divide on whether the consumer's or the producer's function fixes content, and face objections from indeterminacy, from a replica with no history, from attributing representations to all living things, and from sophisticated concepts
+# THEORY-2235: Teleosemantics derives content from function
 
 ## Source
 

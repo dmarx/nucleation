@@ -3,7 +3,14 @@ number: 580
 status: Active
 formerly:
 - THEORY-tmplzpix
-title: 'On any cover of a space of input histories, the empirical models compatible with a causal structure are exactly the points of a polytope cut from a product of simplices by linear causality equations, so how much of a model a causal structure can explain is a linear program; causal separability is relative to an assumed ambient structure, and the causally separable fraction is never less than the separable local fraction'
+title: 'Causal explainability is a linear program'
+statement: >-
+  On any cover of a space of input histories, the empirical models
+  compatible with a causal structure are exactly the points of a polytope
+  cut from a product of simplices by linear causality equations, so how much
+  of a model a causal structure can explain is a linear program; causal
+  separability is relative to an assumed ambient structure, and the causally
+  separable fraction is never less than the separable local fraction
 version: 2
 history:
 - version: 2
@@ -34,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-624 — Skimmed; the reading this account rests on, as it says -->
 <!-- inactive-ok-file: LIT-813 — Superseded; the withdrawn predecessor whose results this paper proves -->
 
-# THEORY-580: On any cover of a space of input histories, the empirical models compatible with a causal structure are exactly the points of a polytope cut from a product of simplices by linear causality equations, so how much of a model a causal structure can explain is a linear program; causal separability is relative to an assumed ambient structure, and the causally separable fraction is never less than the separable local fraction
+# THEORY-580: Causal explainability is a linear program
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 117
 status: Active
 formerly:
 - THEORY-tmpxlzlq
-title: "In Uselis, Dittadi and Oh's two-concept grids, ResNet-50s trained from scratch, with checkpoints chosen on the unseen pairs, reach unseen combinations as the share of combinations seen grows and not as up to four times more data of the same combinations is added; and when embeddings are exactly linearly factored, seen pairs that connect every value of both concepts, as two per value arranged in one cycle do, determine the embedding of every unseen pair"
+title: 'Pair coverage, not data volume, drives composition'
+statement: >-
+  In Uselis, Dittadi and Oh's two-concept grids, ResNet-50s trained from
+  scratch, with checkpoints chosen on the unseen pairs, reach unseen
+  combinations as the share of combinations seen grows and not as up to four
+  times more data of the same combinations is added; and when embeddings are
+  exactly linearly factored, seen pairs that connect every value of both
+  concepts, as two per value arranged in one cycle do, determine the
+  embedding of every unseen pair
 version: 4
 history:
 - version: 2
@@ -58,7 +66,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-794 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 
-# THEORY-117: In Uselis, Dittadi and Oh's two-concept grids, ResNet-50s trained from scratch, with checkpoints chosen on the unseen pairs, reach unseen combinations as the share of combinations seen grows and not as up to four times more data of the same combinations is added; and when embeddings are exactly linearly factored, seen pairs that connect every value of both concepts, as two per value arranged in one cycle do, determine the embedding of every unseen pair
+# THEORY-117: Pair coverage, not data volume, drives composition
 
 ## Source
 

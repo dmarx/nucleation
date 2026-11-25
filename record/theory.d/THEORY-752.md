@@ -3,7 +3,13 @@ number: 752
 status: Active
 formerly:
 - THEORY-tmpepvai
-title: 'In optimal prediction of a Hamiltonian system with separable energy and canonical initial law, projected by conditional expectation, the t-model''s leading-order memory term tPLQLx makes the effective Hamiltonian of the resolved variables non-increasing, so the eliminated variables'' memory enters as a damping that grows linearly in time'
+title: 't-model memory acts as growing damping'
+statement: >-
+  In optimal prediction of a Hamiltonian system with separable energy and
+  canonical initial law, projected by conditional expectation, the t-model's
+  leading-order memory term tPLQLx makes the effective Hamiltonian of the
+  resolved variables non-increasing, so the eliminated variables' memory
+  enters as a damping that grows linearly in time
 version: 1
 history:
 - version: 1
@@ -34,7 +40,7 @@ bears_on:
 - QUESTION-222
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the closure criterion this is contrasted with, open -->
-# THEORY-752: In optimal prediction of a Hamiltonian system with separable energy and canonical initial law, projected by conditional expectation, the t-model's leading-order memory term tPLQLx makes the effective Hamiltonian of the resolved variables non-increasing, so the eliminated variables' memory enters as a damping that grows linearly in time
+# THEORY-752: t-model memory acts as growing damping
 
 ## Source
 

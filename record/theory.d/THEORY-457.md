@@ -13,7 +13,12 @@ promote_when: >-
   allocations remain split into stable egalitarian, meritocratic and
   libertarian types when information and options are equal. Reinterpreting
   existing economic games cannot settle it.
-title: "When people can choose their cooperation partners and have equal outside options, the stable division of jointly produced gains is in proportion to each partner's contribution, and partner choice selects for a genuine sense of fairness as proportionality"
+title: 'Partner choice selects proportional fairness'
+statement: >-
+  When people can choose their cooperation partners and have equal outside
+  options, the stable division of jointly produced gains is in proportion to
+  each partner's contribution, and partner choice selects for a genuine
+  sense of fairness as proportionality
 version: 1
 tags:
 - moral-psychology
@@ -33,7 +38,7 @@ summary: >-
   moral at all.
 ---
 
-# THEORY-457: When people can choose their cooperation partners and have equal outside options, the stable division of jointly produced gains is in proportion to each partner's contribution, and partner choice selects for a genuine sense of fairness as proportionality
+# THEORY-457: Partner choice selects proportional fairness
 
 ## Source
 

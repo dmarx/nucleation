@@ -3,7 +3,14 @@ number: 1674
 status: Proposed
 formerly:
 - THEORY-tmpbnpoy
-title: 'Lefèvre, Errando and colleagues (2025) find, from 30 documents and 41 interviews covering 19 news outlets in France, Spain and French-speaking Belgium, that AI enters newsrooms experimentally and mainly for efficiency and audience retention, that dependence on platform algorithms for visibility shapes editorial choices, and that sector-specific regulation and outlets'' own public AI commitments are largely absent.'
+title: 'Newsroom AI is experimental, for efficiency'
+statement: >-
+  Lefèvre, Errando and colleagues (2025) find, from 30 documents and 41
+  interviews covering 19 news outlets in France, Spain and French-speaking
+  Belgium, that AI enters newsrooms experimentally and mainly for efficiency
+  and audience retention, that dependence on platform algorithms for
+  visibility shapes editorial choices, and that sector-specific regulation
+  and outlets' own public AI commitments are largely absent.
 version: 1
 source:
 - LIT-2445
@@ -39,7 +46,7 @@ summary: >-
   self-regulation is uneven and judged insufficient.
 ---
 
-# THEORY-1674: Lefèvre, Errando and colleagues (2025) find, from 30 documents and 41 interviews covering 19 news outlets in France, Spain and French-speaking Belgium, that AI enters newsrooms experimentally and mainly for efficiency and audience retention, that dependence on platform algorithms for visibility shapes editorial choices, and that sector-specific regulation and outlets' own public AI commitments are largely absent.
+# THEORY-1674: Newsroom AI is experimental, for efficiency
 
 ## The account
 

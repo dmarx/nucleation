@@ -9,7 +9,13 @@ promote_when: >-
   sequence of a multistable origami reservoir classifies better than the
   same readout on the raw inputs, and that retaining part of the
   configuration between steps lowers error on a sequential memory task.
-title: 'A multistable origami metamaterial driven by a fixed sequence of tension and compression can serve as the reservoir of a reservoir computer: a trained linear readout of its sequence of stable configurations classifies inputs better than the same readout of the raw inputs, and a retained buffer of cells carries input history'
+title: 'Multistable origami can be a reservoir computer'
+statement: >-
+  A multistable origami metamaterial driven by a fixed sequence of tension
+  and compression can serve as the reservoir of a reservoir computer: a
+  trained linear readout of its sequence of stable configurations classifies
+  inputs better than the same readout of the raw inputs, and a retained
+  buffer of cells carries input history
 version: 2
 history:
 - version: 2
@@ -39,7 +45,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-2158 — Proposed; the reading of 2026-11-21 cited in the dated note -->
 
-# THEORY-1431: A multistable origami metamaterial driven by a fixed sequence of tension and compression can serve as the reservoir of a reservoir computer: a trained linear readout of its sequence of stable configurations classifies inputs better than the same readout of the raw inputs, and a retained buffer of cells carries input history
+# THEORY-1431: Multistable origami can be a reservoir computer
 
 ## Source
 

@@ -12,7 +12,12 @@ promote_when: >-
   confirmed by rerunning the authors' open data and code (osf.io/3zg2k).
   A study attributing the change to bilingualism rather than to culture
   would establish more than this title asserts and is not required.
-title: 'Adult Tsimane''-Spanish bilinguals use Tsimane'' colour terms in narrower, less overlapping extensions than Tsimane'' monolinguals, and split the shared green-blue term pair into green and blue, without borrowing Spanish terms'
+title: 'Bilinguals split green-blue without borrowing'
+statement: >-
+  Adult Tsimane'-Spanish bilinguals use Tsimane' colour terms in narrower,
+  less overlapping extensions than Tsimane' monolinguals, and split the
+  shared green-blue term pair into green and blue, without borrowing Spanish
+  terms
 version: 1
 tags:
 - linguistics
@@ -35,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-082 — Proposed; the claim this reading corroborates -->
 <!-- inactive-ok-file: ARG-205 — Proposed; the argument for that corroboration -->
 
-# THEORY-2239: Adult Tsimane'-Spanish bilinguals use Tsimane' colour terms in narrower, less overlapping extensions than Tsimane' monolinguals, and split the shared green-blue term pair into green and blue, without borrowing Spanish terms
+# THEORY-2239: Bilinguals split green-blue without borrowing
 
 ## Source
 

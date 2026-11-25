@@ -3,7 +3,15 @@ number: 1753
 status: Proposed
 formerly:
 - THEORY-tmpd3j5r
-title: 'Doyle''s truth maintenance system records, for each belief, the justifications offered for it and holds a belief exactly when at least one justification is valid, a justification being valid when the beliefs it lists as required are held and those it lists as absent are not; contradictions are resolved by tracing support to the latest assumptions, recording the inconsistent set, and retracting one of them chosen by the backtracker, which may blame the wrong one.'
+title: 'JTMS holds beliefs with a valid justification'
+statement: >-
+  Doyle's truth maintenance system records, for each belief, the
+  justifications offered for it and holds a belief exactly when at least one
+  justification is valid, a justification being valid when the beliefs it
+  lists as required are held and those it lists as absent are not;
+  contradictions are resolved by tracing support to the latest assumptions,
+  recording the inconsistent set, and retracting one of them chosen by the
+  backtracker, which may blame the wrong one.
 version: 1
 tags:
 - logic
@@ -24,7 +32,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1753: Doyle's truth maintenance system records, for each belief, the justifications offered for it and holds a belief exactly when at least one justification is valid, a justification being valid when the beliefs it lists as required are held and those it lists as absent are not; contradictions are resolved by tracing support to the latest assumptions, recording the inconsistent set, and retracting one of them chosen by the backtracker, which may blame the wrong one.
+# THEORY-1753: JTMS holds beliefs with a valid justification
 
 ## The account
 

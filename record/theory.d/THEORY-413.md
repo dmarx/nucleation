@@ -13,7 +13,12 @@ promote_when: >-
   by it, or if the programmes that deny the ambiguity (Godfrey-Smith,
   Okasha) are shown not to use the four roles after all. Restatements of
   the anatomy and further histories of the debate cannot settle it.
-title: "'Unit of selection' names four separable roles, interactor, reproducer, manifestor of adaptation and beneficiary, and being an interactor at a level does not require engineering adaptations at that level, so showing that a level lacks them does not show it is not a unit of selection"
+title: 'Units of selection need not be adapted'
+statement: >-
+  'Unit of selection' names four separable roles, interactor, reproducer,
+  manifestor of adaptation and beneficiary, and being an interactor at a
+  level does not require engineering adaptations at that level, so showing
+  that a level lacks them does not show it is not a unit of selection
 version: 1
 tags:
 - philosophy-of-biology
@@ -32,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-465 — Proposed; Bourrat on reproducers, named for contrast, filed in the same batch -->
 
-# THEORY-413: 'Unit of selection' names four separable roles, interactor, reproducer, manifestor of adaptation and beneficiary, and being an interactor at a level does not require engineering adaptations at that level, so showing that a level lacks them does not show it is not a unit of selection
+# THEORY-413: Units of selection need not be adapted
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 1667
 status: Proposed
 formerly:
 - THEORY-tmpah8td
-title: 'Brenninger, Zug and Kokko (2025) give a unified minimal model in which a reproductive manipulator''s spread is set by infected females'' relative fecundity, vertical transmission and manipulation efficiency, and argue that cytoplasmic incompatibility''s positive frequency dependence makes it hard to invade but hard to displace, a priority effect that may explain its prevalence despite poorer invasion prospects.'
+title: 'Cytoplasmic incompatibility resists displacement'
+statement: >-
+  Brenninger, Zug and Kokko (2025) give a unified minimal model in which a
+  reproductive manipulator's spread is set by infected females' relative
+  fecundity, vertical transmission and manipulation efficiency, and argue
+  that cytoplasmic incompatibility's positive frequency dependence makes it
+  hard to invade but hard to displace, a priority effect that may explain
+  its prevalence despite poorer invasion prospects.
 version: 1
 source:
 - LIT-2468
@@ -29,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1786 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1667: Brenninger, Zug and Kokko (2025) give a unified minimal model in which a reproductive manipulator's spread is set by infected females' relative fecundity, vertical transmission and manipulation efficiency, and argue that cytoplasmic incompatibility's positive frequency dependence makes it hard to invade but hard to displace, a priority effect that may explain its prevalence despite poorer invasion prospects.
+# THEORY-1667: Cytoplasmic incompatibility resists displacement
 
 ## The account
 

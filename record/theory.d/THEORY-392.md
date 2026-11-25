@@ -3,7 +3,14 @@ number: 392
 status: Active
 formerly:
 - THEORY-tmp7nqd6
-title: 'Every map from an n-point subset of a metric space into Hilbert space extends to the whole space with Lipschitz constant at most K√(log n) times its own, by dimension reduction to K log n coordinates followed by Kirszbraun and the non-linear Hahn–Banach theorem; for L_p, 1 ≤ p < 2, the constant must be at least δ(Log n/Log Log n)^(1/p−1/2), so √(log n) is right up to a log log factor in the worst case'
+title: 'Hilbert extensions cost at most √(log n)'
+statement: >-
+  Every map from an n-point subset of a metric space into Hilbert space
+  extends to the whole space with Lipschitz constant at most K√(log n) times
+  its own, by dimension reduction to K log n coordinates followed by
+  Kirszbraun and the non-linear Hahn–Banach theorem; for L_p, 1 ≤ p < 2, the
+  constant must be at least δ(Log n/Log Log n)^(1/p−1/2), so √(log n) is
+  right up to a log log factor in the worst case
 version: 2
 history:
 - version: 2
@@ -29,7 +36,7 @@ summary: >-
   constants are loose.
 ---
 
-# THEORY-392: Every map from an n-point subset of a metric space into Hilbert space extends to the whole space with Lipschitz constant at most K√(log n) times its own, by dimension reduction to K log n coordinates followed by Kirszbraun and the non-linear Hahn–Banach theorem; for L_p, 1 ≤ p < 2, the constant must be at least δ(Log n/Log Log n)^(1/p−1/2), so √(log n) is right up to a log log factor in the worst case
+# THEORY-392: Hilbert extensions cost at most √(log n)
 
 ## Source
 

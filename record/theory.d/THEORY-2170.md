@@ -3,7 +3,15 @@ number: 2170
 status: Proposed
 formerly:
 - THEORY-tmpcij35
-title: 'Dandi, Pesce, Cui, Krzakala, Lu and Loureiro prove that after one maximal-update gradient step on Gaussian single-index data a two-layer network''s first-layer weights are a random bulk plus a rank-one spike along the target, and give the resulting feature covariance''s asymptotic spectrum, whose bulk widens and lengthens its tails beside outliers of order d from the feature means, and the exact test error of the ridge-fitted readout, a functional of the whole deterministic equivalent'
+title: 'One update step leaves a spiked weight bulk'
+statement: >-
+  Dandi, Pesce, Cui, Krzakala, Lu and Loureiro prove that after one
+  maximal-update gradient step on Gaussian single-index data a two-layer
+  network's first-layer weights are a random bulk plus a rank-one spike
+  along the target, and give the resulting feature covariance's asymptotic
+  spectrum, whose bulk widens and lengthens its tails beside outliers of
+  order d from the feature means, and the exact test error of the
+  ridge-fitted readout, a functional of the whole deterministic equivalent
 promote_when: >-
   An independent reading or replication confirms, for the stated setting,
   the rank-one spike approximation of Lemma 3.1 and the deterministic
@@ -26,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-799 ARG-166 — Proposed or new; the claim this reading bears on and the argument for its support -->
 
-# THEORY-2170: Dandi, Pesce, Cui, Krzakala, Lu and Loureiro prove that after one maximal-update gradient step on Gaussian single-index data a two-layer network's first-layer weights are a random bulk plus a rank-one spike along the target, and give the resulting feature covariance's asymptotic spectrum, whose bulk widens and lengthens its tails beside outliers of order d from the feature means, and the exact test error of the ridge-fitted readout, a functional of the whole deterministic equivalent
+# THEORY-2170: One update step leaves a spiked weight bulk
 
 ## Source
 

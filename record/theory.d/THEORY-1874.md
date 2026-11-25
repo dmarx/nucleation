@@ -13,7 +13,14 @@ promote_when: >-
   singular vectors overlap more across tasks lose more. It is refuted if
   accuracy loss does not track singular-vector overlap once rank and norm
   are held fixed.
-title: 'Gargiulo et al.: for CLIP ViTs fully fine-tuned on 8 to 20 image tasks from one start, each layer''s weight update is close to low-rank, merging loses accuracy where different tasks'' singular vectors overlap, and truncating each update to its top singular components and orthogonalising them across tasks raises merged accuracy by about 15 points over task arithmetic on ViT-B/32'
+title: 'Orthogonalising low-rank updates aids merging'
+statement: >-
+  Gargiulo et al.: for CLIP ViTs fully fine-tuned on 8 to 20 image tasks
+  from one start, each layer's weight update is close to low-rank, merging
+  loses accuracy where different tasks' singular vectors overlap, and
+  truncating each update to its top singular components and orthogonalising
+  them across tasks raises merged accuracy by about 15 points over task
+  arithmetic on ViT-B/32
 version: 1
 tags:
 - loss-landscapes
@@ -34,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-107 THEORY-1898 — new tmp codes, or Proposed; source, reading and neighbouring accounts, named and not leaned on -->
 
-# THEORY-1874: Gargiulo et al.: for CLIP ViTs fully fine-tuned on 8 to 20 image tasks from one start, each layer's weight update is close to low-rank, merging loses accuracy where different tasks' singular vectors overlap, and truncating each update to its top singular components and orthogonalising them across tasks raises merged accuracy by about 15 points over task arithmetic on ViT-B/32
+# THEORY-1874: Orthogonalising low-rank updates aids merging
 
 ## Source
 

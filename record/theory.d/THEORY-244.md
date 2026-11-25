@@ -3,7 +3,14 @@ number: 244
 status: Active
 formerly:
 - THEORY-tmp7cr5e
-title: "For a computable source distribution f, Shannon entropy and mutual information are the expectations of their Kolmogorov counterparts only to within the complexity of f: 0 ≤ E K(x) − H(f) ≤ K(f) + O(1), and I(X;Y) − K(f) − O(1) ≤ E I(x:y) ≤ I(X;Y) + 2K(f) + O(1); Grünwald and Vitányi's matching statement for the distortion-rate function rests on a step the record has not verified"
+title: 'Shannon is expected Kolmogorov up to K(f)'
+statement: >-
+  For a computable source distribution f, Shannon entropy and mutual
+  information are the expectations of their Kolmogorov counterparts only to
+  within the complexity of f: 0 ≤ E K(x) − H(f) ≤ K(f) + O(1), and I(X;Y) −
+  K(f) − O(1) ≤ E I(x:y) ≤ I(X;Y) + 2K(f) + O(1); Grünwald and Vitányi's
+  matching statement for the distortion-rate function rests on a step the
+  record has not verified
 version: 3
 history:
 - version: 2
@@ -48,7 +55,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-277 THEORY-157 — Proposed; the companion theory filed today and the entries named under Connections -->
 
-# THEORY-244: For a computable source distribution f, Shannon entropy and mutual information are the expectations of their Kolmogorov counterparts only to within the complexity of f: 0 ≤ E K(x) − H(f) ≤ K(f) + O(1), and I(X;Y) − K(f) − O(1) ≤ E I(x:y) ≤ I(X;Y) + 2K(f) + O(1); Grünwald and Vitányi's matching statement for the distortion-rate function rests on a step the record has not verified
+# THEORY-244: Shannon is expected Kolmogorov up to K(f)
 
 ## Source
 

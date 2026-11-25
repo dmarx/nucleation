@@ -3,7 +3,16 @@ number: 706
 status: Active
 formerly:
 - THEORY-tmpeogx6
-title: "Any redundancy function defined on the lattice of antichains of sources, ordered so that a collection precedes another when every source of the latter contains one of the former, has a Möbius inverse that decomposes the information a set of sources gives about a target into partial-information atoms summing to every subset's mutual information; for the I_min redundancy, the expected minimum specific information over sources, every atom is nonnegative, and interaction information is a signed mixture of atoms, synergy minus redundancy for three variables"
+title: 'PID atoms are Möbius inverses of redundancy'
+statement: >-
+  Any redundancy function defined on the lattice of antichains of sources,
+  ordered so that a collection precedes another when every source of the
+  latter contains one of the former, has a Möbius inverse that decomposes
+  the information a set of sources gives about a target into
+  partial-information atoms summing to every subset's mutual information;
+  for the I_min redundancy, the expected minimum specific information over
+  sources, every atom is nonnegative, and interaction information is a
+  signed mixture of atoms, synergy minus redundancy for three variables
 version: 2
 history:
 - version: 2
@@ -31,7 +40,7 @@ corroborates:
 - CLAIM-343
 ---
 
-# THEORY-706: Any redundancy function defined on the lattice of antichains of sources, ordered so that a collection precedes another when every source of the latter contains one of the former, has a Möbius inverse that decomposes the information a set of sources gives about a target into partial-information atoms summing to every subset's mutual information; for the I_min redundancy, the expected minimum specific information over sources, every atom is nonnegative, and interaction information is a signed mixture of atoms, synergy minus redundancy for three variables
+# THEORY-706: PID atoms are Möbius inverses of redundancy
 
 ## Source
 

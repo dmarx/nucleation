@@ -10,7 +10,13 @@ promote_when: >-
   authority require contractualism to be a multi-level theory of authority
   over as well as of owing to (§6). Whether the arguments succeed against
   Scanlon is not asserted.
-title: 'Wenar argues that Scanlon''s contractualism cannot, from its principles and their justifications alone, say which principles ascribe rights or to whom obligations are owed, and that because it must also account for rights of authority to change what is owed it must be a multi-level theory, of authority over as well as of owing to'
+title: 'Contractualism needs a multi-level rights theory'
+statement: >-
+  Wenar argues that Scanlon's contractualism cannot, from its principles and
+  their justifications alone, say which principles ascribe rights or to whom
+  obligations are owed, and that because it must also account for rights of
+  authority to change what is owed it must be a multi-level theory, of
+  authority over as well as of owing to
 version: 1
 tags:
 - ethics
@@ -35,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-735 — Proposed or new; the reading and the claim it corroborates -->
 
-# THEORY-1988: Wenar argues that Scanlon's contractualism cannot, from its principles and their justifications alone, say which principles ascribe rights or to whom obligations are owed, and that because it must also account for rights of authority to change what is owed it must be a multi-level theory, of authority over as well as of owing to
+# THEORY-1988: Contractualism needs a multi-level rights theory
 
 Wenar (2013), [LIT-2758](../literature.d/LIT-2758.md).
 

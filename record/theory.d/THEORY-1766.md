@@ -3,7 +3,9 @@ number: 1766
 status: Proposed
 formerly:
 - THEORY-tmphkpxr
-title: 'None recommended: the work is a programme statement with no findings'
+title: 'A programme statement with no findings'
+statement: >-
+  None recommended: the work is a programme statement with no findings
 version: 1
 tags:
 - agency
@@ -19,7 +21,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1766: None recommended: the work is a programme statement with no findings
+# THEORY-1766: A programme statement with no findings
 
 ## The account
 

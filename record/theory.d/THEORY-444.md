@@ -14,7 +14,13 @@ promote_when: >-
   count as not meaning although such an effect was intended, and that no
   amendment keeping the core can sort. Further examples that fit the
   analysis cannot settle it, since it was built from such examples.
-title: "To mean something by an utterance, in the non-natural sense, is to intend it to produce an effect in an audience by means of the audience's recognition of that intention, where the recognition is meant to be a reason for the effect and not merely its cause; an intention to produce the effect, or to have it recognised, is not enough"
+title: 'Meaning works through recognized intention'
+statement: >-
+  To mean something by an utterance, in the non-natural sense, is to intend
+  it to produce an effect in an audience by means of the audience's
+  recognition of that intention, where the recognition is meant to be a
+  reason for the effect and not merely its cause; an intention to produce
+  the effect, or to have it recognised, is not enough
 version: 2
 history:
 - version: 2
@@ -42,7 +48,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-221 THEORY-511 THEORY-665 — Proposed; the objection, the rational-speech-act account and the neighbouring accounts of illocution and assertion, cited as open -->
 
-# THEORY-444: To mean something by an utterance, in the non-natural sense, is to intend it to produce an effect in an audience by means of the audience's recognition of that intention, where the recognition is meant to be a reason for the effect and not merely its cause; an intention to produce the effect, or to have it recognised, is not enough
+# THEORY-444: Meaning works through recognized intention
 
 ## Source
 

@@ -17,7 +17,11 @@ promote_when: >-
   matched, the history of acquisition predicts nothing. Correlational
   studies linking parenting style to adolescents' current motives cannot
   settle it, since they cannot tell history from present structure.
-title: 'A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired shapes how autonomous acting on it is'
+title: 'Controlled internalization yields introjection'
+statement: >-
+  A regulation taken in under controlling conditions is introjected rather
+  than integrated, so the social history of how a value was acquired shapes
+  how autonomous acting on it is
 version: 2
 history:
 - version: 2
@@ -62,7 +66,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-054 LIT-1973 — new, Proposed or Deferred; cited as open -->
 <!-- inactive-ok-file: THEORY-040 — Proposed; the relations are stated, nothing here rests on THEORY-040 -->
 
-# THEORY-047: A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired shapes how autonomous acting on it is
+# THEORY-047: Controlled internalization yields introjection
 
 ## Source
 

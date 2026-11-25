@@ -9,7 +9,17 @@ promote_when: >-
   so that independent reconstruction beyond the selectivity range is shown
   and not only reported; and an angle-multiplexed demonstration storing
   about 1000 holograms or more in one volume, such as Mok (1993), is read.
-title: 'Márquez and co-authors review how, in a volume hologram, multi-plane diffraction makes reconstruction Bragg-selective in the angle (in transmission) or wavelength (in reflection) of the reading beam, so that holograms recorded in the same volume but detuned beyond the Bragg selectivity range are reconstructed independently, one per reading beam, sharing the material''s dynamic range; on this basis angle multiplexing is the most widespread holographic-data-storage method, with more than 1000 holograms stored, and thick layers are needed to keep crosstalk between pages down'
+title: 'Bragg selectivity enables hologram multiplexing'
+statement: >-
+  Márquez and co-authors review how, in a volume hologram, multi-plane
+  diffraction makes reconstruction Bragg-selective in the angle (in
+  transmission) or wavelength (in reflection) of the reading beam, so that
+  holograms recorded in the same volume but detuned beyond the Bragg
+  selectivity range are reconstructed independently, one per reading beam,
+  sharing the material's dynamic range; on this basis angle multiplexing is
+  the most widespread holographic-data-storage method, with more than 1000
+  holograms stored, and thick layers are needed to keep crosstalk between
+  pages down
 version: 1
 tags:
 - natural-sciences
@@ -26,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-182 NOTE-1968 THEORY-1876 — Proposed or Skimmed entries of this filing; and a Proposed claim, cited as an analogy or as having no bearing -->
 
-# THEORY-1882: Márquez and co-authors review how, in a volume hologram, multi-plane diffraction makes reconstruction Bragg-selective in the angle (in transmission) or wavelength (in reflection) of the reading beam, so that holograms recorded in the same volume but detuned beyond the Bragg selectivity range are reconstructed independently, one per reading beam, sharing the material's dynamic range; on this basis angle multiplexing is the most widespread holographic-data-storage method, with more than 1000 holograms stored, and thick layers are needed to keep crosstalk between pages down
+# THEORY-1882: Bragg selectivity enables hologram multiplexing
 
 Márquez, Li, Beléndez, Maier & Ren (2023), [LIT-2618](../literature.d/LIT-2618.md); skimmed in [NOTE-1968](../notes.d/NOTE-1968.md).
 

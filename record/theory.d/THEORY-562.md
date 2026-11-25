@@ -13,7 +13,13 @@ promote_when: >-
   catches them. It loses its point if, across constructs, the two
   diagnostics never disagree. Another run that passes both checks, as the
   chapter's worked example does, cannot settle it.
-title: "In REST2 replica-exchange simulations of intrinsically disordered proteins, high swap acceptance and short round trips show that replicas mix along the temperature ladder, not that conformations are sampled, because the upper rungs collapse the chain; sampling shows only when independent demultiplexed replicas agree in their structural distributions"
+title: 'REST2 replica mixing doesn''t show sampling'
+statement: >-
+  In REST2 replica-exchange simulations of intrinsically disordered
+  proteins, high swap acceptance and short round trips show that replicas
+  mix along the temperature ladder, not that conformations are sampled,
+  because the upper rungs collapse the chain; sampling shows only when
+  independent demultiplexed replicas agree in their structural distributions
 version: 1
 tags:
 - natural-sciences
@@ -33,7 +39,7 @@ summary: >-
   threshold.
 ---
 
-# THEORY-562: In REST2 replica-exchange simulations of intrinsically disordered proteins, high swap acceptance and short round trips show that replicas mix along the temperature ladder, not that conformations are sampled, because the upper rungs collapse the chain; sampling shows only when independent demultiplexed replicas agree in their structural distributions
+# THEORY-562: REST2 replica mixing doesn't show sampling
 
 ## Source
 

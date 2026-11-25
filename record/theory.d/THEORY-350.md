@@ -3,7 +3,15 @@ number: 350
 status: Active
 formerly:
 - THEORY-tmpntty3
-title: "Under a budget on maintenance time, a stored view's upkeep depends on which other views are stored, so upkeep is not additive and adding a view can lower it, and greedily adding the single view of best saving per unit of upkeep can be arbitrarily bad; on OR view graphs a greedy over inverted tree sets gets 1 − 1/e of the saving of an optimum given as much upkeep, using up to twice the budget, if no tree-piece of the optimum alone exceeds the budget"
+title: 'View upkeep is non-additive; greedy can fail'
+statement: >-
+  Under a budget on maintenance time, a stored view's upkeep depends on
+  which other views are stored, so upkeep is not additive and adding a view
+  can lower it, and greedily adding the single view of best saving per unit
+  of upkeep can be arbitrarily bad; on OR view graphs a greedy over inverted
+  tree sets gets 1 − 1/e of the saving of an optimum given as much upkeep,
+  using up to twice the budget, if no tree-piece of the optimum alone
+  exceeds the budget
 version: 1
 tags:
 - databases
@@ -31,7 +39,7 @@ bears_on:
 - QUESTION-114
 ---
 
-# THEORY-350: Under a budget on maintenance time, a stored view's upkeep depends on which other views are stored, so upkeep is not additive and adding a view can lower it, and greedily adding the single view of best saving per unit of upkeep can be arbitrarily bad; on OR view graphs a greedy over inverted tree sets gets 1 − 1/e of the saving of an optimum given as much upkeep, using up to twice the budget, if no tree-piece of the optimum alone exceeds the budget
+# THEORY-350: View upkeep is non-additive; greedy can fail
 
 ## Source
 

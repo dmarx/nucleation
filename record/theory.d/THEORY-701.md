@@ -3,7 +3,14 @@ number: 701
 status: Active
 formerly:
 - THEORY-tmp1jjkw
-title: "Transfer entropy from J to I is the Kullback entropy of assuming that I's next state, given its last k states, does not depend on J's last l states, so it is zero exactly when J's past leaves I's transition law unchanged; unlike time-delayed mutual information it is directional and zero for static correlation, and it removes a common input only when that input is conditioned on"
+title: 'Transfer entropy is directional, unlike TDMI'
+statement: >-
+  Transfer entropy from J to I is the Kullback entropy of assuming that I's
+  next state, given its last k states, does not depend on J's last l states,
+  so it is zero exactly when J's past leaves I's transition law unchanged;
+  unlike time-delayed mutual information it is directional and zero for
+  static correlation, and it removes a common input only when that input is
+  conditioned on
 version: 1
 tags:
 - information-theory
@@ -20,7 +27,7 @@ summary: >-
   tent-map coefficient appears to be twice what Eq. 4 gives.
 ---
 
-# THEORY-701: Transfer entropy from J to I is the Kullback entropy of assuming that I's next state, given its last k states, does not depend on J's last l states, so it is zero exactly when J's past leaves I's transition law unchanged; unlike time-delayed mutual information it is directional and zero for static correlation, and it removes a common input only when that input is conditioned on
+# THEORY-701: Transfer entropy is directional, unlike TDMI
 
 ## Source
 

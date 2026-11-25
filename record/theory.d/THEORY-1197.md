@@ -20,7 +20,12 @@ promote_when: >-
   It is also in trouble if one of the scattered bacterial donors turns out
   to have a functionally coherent, time-clustered contribution like the
   mitochondrion's.
-title: 'Eukaryogenesis involved one archaeal host lineage, of Asgard descent, and one bacterial endosymbiont, the alphaproteobacterial ancestor of mitochondria; the eukaryotic genes from other bacteria came by piecemeal gene transfer, not from further symbiotic partners'
+title: 'Eukaryotes came from one host, one symbiont'
+statement: >-
+  Eukaryogenesis involved one archaeal host lineage, of Asgard descent, and
+  one bacterial endosymbiont, the alphaproteobacterial ancestor of
+  mitochondria; the eukaryotic genes from other bacteria came by piecemeal
+  gene transfer, not from further symbiotic partners
 version: 1
 tags:
 - endosymbiosis
@@ -41,7 +46,7 @@ summary: >-
   word.
 ---
 
-# THEORY-1197: Eukaryogenesis involved one archaeal host lineage, of Asgard descent, and one bacterial endosymbiont, the alphaproteobacterial ancestor of mitochondria; the eukaryotic genes from other bacteria came by piecemeal gene transfer, not from further symbiotic partners
+# THEORY-1197: Eukaryotes came from one host, one symbiont
 
 ## Source
 

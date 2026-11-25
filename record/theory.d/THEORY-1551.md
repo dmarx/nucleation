@@ -11,7 +11,12 @@ promote_when: >-
   disuse. The remedies need nothing further, as the title gives them as
   Ahn's proposals and attributes them to him; whether they work is not
   what the title asserts.
-title: 'Bainbridge''s ironies of automation hold that automation takes the routine work and leaves the operator the atypical cases, recalls the operator at its failure, when the system is least predictable, and leaves the operator''s manual and cognitive skills degraded from disuse'
+title: 'Automation leaves operators the hardest cases'
+statement: >-
+  Bainbridge's ironies of automation hold that automation takes the routine
+  work and leaves the operator the atypical cases, recalls the operator at
+  its failure, when the system is least predictable, and leaves the
+  operator's manual and cognitive skills degraded from disuse
 version: 1
 tags:
 - cognition
@@ -32,7 +37,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-2225 — Unavailable; Bainbridge's own text, whose reading would settle this -->
 
-# THEORY-1551: Bainbridge's ironies of automation hold that automation takes the routine work and leaves the operator the atypical cases, recalls the operator at its failure, when the system is least predictable, and leaves the operator's manual and cognitive skills degraded from disuse
+# THEORY-1551: Automation leaves operators the hardest cases
 
 ## Source
 

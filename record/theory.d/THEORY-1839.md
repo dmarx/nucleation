@@ -3,7 +3,14 @@ number: 1839
 status: Proposed
 formerly:
 - THEORY-tmp8m1e4
-title: 'Crawford holds that attention has become a collective, cultural problem because shared spaces treat people as a captive audience whose mental space can be monetized, that distraction is a problem of political economy rather than of technology in itself, and that attention should be protected as an attentional commons by those who design shared environments'
+title: 'Attention is a commons to protect'
+statement: >-
+  Crawford holds that attention has become a collective, cultural problem
+  because shared spaces treat people as a captive audience whose mental
+  space can be monetized, that distraction is a problem of political economy
+  rather than of technology in itself, and that attention should be
+  protected as an attentional commons by those who design shared
+  environments
 version: 1
 source:
 - LIT-2556
@@ -29,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2574 until 2027-05-13 — Unavailable; the book this interview stands in for -->
 <!-- inactive-ok-file: CLAIM-682 — Proposed; cited with its standing -->
 
-# THEORY-1839: Crawford holds that attention has become a collective, cultural problem because shared spaces treat people as a captive audience whose mental space can be monetized, that distraction is a problem of political economy rather than of technology in itself, and that attention should be protected as an attentional commons by those who design shared environments
+# THEORY-1839: Attention is a commons to protect
 
 ## The account
 

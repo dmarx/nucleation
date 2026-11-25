@@ -3,7 +3,12 @@ number: 233
 status: Active
 formerly:
 - THEORY-tmpip5os
-title: "CKA and normalized Bures similarity are the Euclidean and the Bures comparison of normalized kernels, and each bounds the other only within a factor set by the kernels' ranks, so agreement in one does not carry to the other with a dimension-free constant"
+title: 'CKA and Bures bound each other by rank only'
+statement: >-
+  CKA and normalized Bures similarity are the Euclidean and the Bures
+  comparison of normalized kernels, and each bounds the other only within a
+  factor set by the kernels' ranks, so agreement in one does not carry to
+  the other with a dimension-free constant
 version: 3
 history:
 - version: 2
@@ -47,7 +52,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-002 — Proposed; cited for context, nothing here rests on them -->
 
-# THEORY-233: CKA and normalized Bures similarity are the Euclidean and the Bures comparison of normalized kernels, and each bounds the other only within a factor set by the kernels' ranks, so agreement in one does not carry to the other with a dimension-free constant
+# THEORY-233: CKA and Bures bound each other by rank only
 
 ## Source
 

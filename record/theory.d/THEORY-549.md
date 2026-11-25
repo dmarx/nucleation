@@ -15,7 +15,13 @@ promote_when: >-
   that survives vacancies. More examples of clubs with the same members
   cannot settle it, since the criterion is defended by such examples and
   a doubter of Coincidence redescribes each one.
-title: "A structured group is not identical to its members: two groups of one kind can have the same members at every time and still be two, which theories that identify a group with a plurality, fusion, aggregate or set of its members cannot allow, and a view of groups as realizations of structures with functionally defined nodes can"
+title: 'Groups with same members can still be two'
+statement: >-
+  A structured group is not identical to its members: two groups of one kind
+  can have the same members at every time and still be two, which theories
+  that identify a group with a plurality, fusion, aggregate or set of its
+  members cannot allow, and a view of groups as realizations of structures
+  with functionally defined nodes can
 version: 1
 tags:
 - social-ontology
@@ -39,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-575 — Proposed; the account that extends this one, filed in the same batch -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; uses this paper in its body, named to say its promote_when does not move -->
 
-# THEORY-549: A structured group is not identical to its members: two groups of one kind can have the same members at every time and still be two, which theories that identify a group with a plurality, fusion, aggregate or set of its members cannot allow, and a view of groups as realizations of structures with functionally defined nodes can
+# THEORY-549: Groups with same members can still be two
 
 ## Source
 

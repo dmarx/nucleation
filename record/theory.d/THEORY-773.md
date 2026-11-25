@@ -3,7 +3,17 @@ number: 773
 status: Active
 formerly:
 - THEORY-tmpcfuar
-title: 'In a singularly perturbed system ẋ = f(x, z, t), εż = g(x, z, ε), if g is contracting in z at rate λ_z for every x and ε, the reduced system ẋ = f(x, γ(x), t) on the slow manifold z = γ(x) is contracting at rate λ_x, f is α-Lipschitz in z, |∂γ/∂x · f| ≤ d and g is K-Lipschitz in ε, then for all t ≥ 0 the fast state is within χ_z e^{−λ_z t/ε}|z(0) − γ(x(0))| + εχ_z(d + K)/λ_z of the manifold and the slow state within χ_x|x(0) − x_γ(0)|e^{−λ_x t} + ε[C₁(e^{−λ_x t} − e^{−λ_z t/ε}) + C₂(1 − e^{−λ_x t})] of the reduced trajectory; partial contraction of f in x alone is not enough'
+title: 'Slow-manifold error is O(ε) under contraction'
+statement: >-
+  In a singularly perturbed system ẋ = f(x, z, t), εż = g(x, z, ε), if g is
+  contracting in z at rate λ_z for every x and ε, the reduced system ẋ =
+  f(x, γ(x), t) on the slow manifold z = γ(x) is contracting at rate λ_x, f
+  is α-Lipschitz in z, |∂γ/∂x · f| ≤ d and g is K-Lipschitz in ε, then for
+  all t ≥ 0 the fast state is within χ_z e^{−λ_z t/ε}|z(0) − γ(x(0))| +
+  εχ_z(d + K)/λ_z of the manifold and the slow state within χ_x|x(0) −
+  x_γ(0)|e^{−λ_x t} + ε[C₁(e^{−λ_x t} − e^{−λ_z t/ε}) + C₂(1 − e^{−λ_x t})]
+  of the reduced trajectory; partial contraction of f in x alone is not
+  enough
 version: 2
 history:
 - version: 1
@@ -43,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2043 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-773: In a singularly perturbed system ẋ = f(x, z, t), εż = g(x, z, ε), if g is contracting in z at rate λ_z for every x and ε, the reduced system ẋ = f(x, γ(x), t) on the slow manifold z = γ(x) is contracting at rate λ_x, f is α-Lipschitz in z, |∂γ/∂x · f| ≤ d and g is K-Lipschitz in ε, then for all t ≥ 0 the fast state is within χ_z e^{−λ_z t/ε}|z(0) − γ(x(0))| + εχ_z(d + K)/λ_z of the manifold and the slow state within χ_x|x(0) − x_γ(0)|e^{−λ_x t} + ε[C₁(e^{−λ_x t} − e^{−λ_z t/ε}) + C₂(1 − e^{−λ_x t})] of the reduced trajectory; partial contraction of f in x alone is not enough
+# THEORY-773: Slow-manifold error is O(ε) under contraction
 
 ## Source
 

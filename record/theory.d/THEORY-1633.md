@@ -3,7 +3,13 @@ number: 1633
 status: Active
 formerly:
 - THEORY-tmpywbv5
-title: 'Bostrom argues that delay in settling the local supercluster loses potential lives at a vast rate, but that on a total, undiscounted view even a small cut in existential risk outweighs any feasible acceleration, while on a person-affecting view, given some chance that people now alive share the cosmic future, safety must be balanced against speed'
+title: 'Risk reduction outweighs settling acceleration'
+statement: >-
+  Bostrom argues that delay in settling the local supercluster loses
+  potential lives at a vast rate, but that on a total, undiscounted view
+  even a small cut in existential risk outweighs any feasible acceleration,
+  while on a person-affecting view, given some chance that people now alive
+  share the cosmic future, safety must be balanced against speed
 version: 2
 history:
 - version: 1
@@ -34,7 +40,7 @@ bears_on:
 - QUESTION-299
 ---
 
-# THEORY-1633: Bostrom argues that delay in settling the local supercluster loses potential lives at a vast rate, but that on a total, undiscounted view even a small cut in existential risk outweighs any feasible acceleration, while on a person-affecting view, given some chance that people now alive share the cosmic future, safety must be balanced against speed
+# THEORY-1633: Risk reduction outweighs settling acceleration
 
 ## The account
 

@@ -3,7 +3,13 @@ number: 900
 status: Active
 formerly:
 - THEORY-tmp4ahqw
-title: "A systematic review of 116 studies of avoidance learning in healthy humans finds the evidence contradicting two-factor and other associative theories and favouring expectancy and inference-based accounts, but also finding residual avoidance after the outcome is visibly removed, which a purely inferential account does not predict"
+title: 'Avoidance evidence favours expectancy accounts'
+statement: >-
+  A systematic review of 116 studies of avoidance learning in healthy humans
+  finds the evidence contradicting two-factor and other associative theories
+  and favouring expectancy and inference-based accounts, but also finding
+  residual avoidance after the outcome is visibly removed, which a purely
+  inferential account does not predict
 version: 2
 history:
 - version: 2
@@ -36,7 +42,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and reading this bears on, named -->
 
-# THEORY-900: A systematic review of 116 studies of avoidance learning in healthy humans finds the evidence contradicting two-factor and other associative theories and favouring expectancy and inference-based accounts, but also finding residual avoidance after the outcome is visibly removed, which a purely inferential account does not predict
+# THEORY-900: Avoidance evidence favours expectancy accounts
 
 ## Source
 

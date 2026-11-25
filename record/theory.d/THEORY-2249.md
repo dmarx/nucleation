@@ -9,7 +9,15 @@ promote_when: >-
   Volterra equation of the second kind, and that for the spectral slow
   subspace Fω the memory term vanishes because Fω is invariant under the
   dynamics, rederived from the paper or a second source.
-title: 'Widder and Schilling show that the Dyson–Duhamel identity behind the generalized Langevin equation is proved only when PL is bounded, as for Mori''s projection, and is an unsolved equation for Zwanzig''s; that Mori''s equation follows from Volterra equations alone and predicts nothing beyond the autocorrelation fitted to it; and that its memory term is a coupling between the kept and omitted subspaces, which vanishes when the omitted subspace is invariant'
+title: 'Mori''s GLE predicts nothing beyond its fit'
+statement: >-
+  Widder and Schilling show that the Dyson–Duhamel identity behind the
+  generalized Langevin equation is proved only when PL is bounded, as for
+  Mori's projection, and is an unsolved equation for Zwanzig's; that Mori's
+  equation follows from Volterra equations alone and predicts nothing beyond
+  the autocorrelation fitted to it; and that its memory term is a coupling
+  between the kept and omitted subspaces, which vanishes when the omitted
+  subspace is invariant
 version: 1
 tags:
 - probabilistic-modeling
@@ -26,7 +34,7 @@ summary: >-
   Proposed until its promote_when is met.
 ---
 
-# THEORY-2249: Widder and Schilling show that the Dyson–Duhamel identity behind the generalized Langevin equation is proved only when PL is bounded, as for Mori's projection, and is an unsolved equation for Zwanzig's; that Mori's equation follows from Volterra equations alone and predicts nothing beyond the autocorrelation fitted to it; and that its memory term is a coupling between the kept and omitted subspaces, which vanishes when the omitted subspace is invariant
+# THEORY-2249: Mori's GLE predicts nothing beyond its fit
 
 ## Source
 

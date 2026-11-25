@@ -15,7 +15,14 @@ promote_when: >-
   runs showing stepwise rank growth, since the theory does not cover a
   moving tangent kernel and the paper's own initial-NTK predictions for
   ResNets are poor.
-title: Gradient flow on a symmetrized Barlow Twins loss with a linear or fixed-kernel model, from generic small initialization and not only from initialization aligned with the eigenvectors, learns the top eigenvectors of the pairs' symmetrized cross-correlation one at a time in order of eigenvalue and ends at a top spectral solution, as Simon and coauthors derive informally
+title: 'Barlow Twins learns eigenvectors one at a time'
+statement: >-
+  Gradient flow on a symmetrized Barlow Twins loss with a linear or
+  fixed-kernel model, from generic small initialization and not only from
+  initialization aligned with the eigenvectors, learns the top eigenvectors
+  of the pairs' symmetrized cross-correlation one at a time in order of
+  eigenvalue and ends at a top spectral solution, as Simon and coauthors
+  derive informally
 version: 1
 tags:
 - representation-learning
@@ -36,7 +43,7 @@ summary: >-
   This THEORY holds that generic case.
 ---
 
-# THEORY-793: Gradient flow on a symmetrized Barlow Twins loss with a linear or fixed-kernel model, from generic small initialization and not only from initialization aligned with the eigenvectors, learns the top eigenvectors of the pairs' symmetrized cross-correlation one at a time in order of eigenvalue and ends at a top spectral solution, as Simon and coauthors derive informally
+# THEORY-793: Barlow Twins learns eigenvectors one at a time
 
 ## Source
 

@@ -13,7 +13,12 @@ promote_when: >-
   one of the three abstract proofs is shown to use an axiom it does not
   state, or if a strictly positive Markov category is found in which a
   statistic meets Theorem 14.5's conditions and is not sufficient.
-title: 'The classical theorems on sufficient statistics need only the copy/discard structure of Markov kernels: Basu''s theorem holds in every Markov category, and Fisher–Neyman and Bahadur need only strict positivity, not the existence of conditional distributions'
+title: 'Sufficiency theorems hold in Markov categories'
+statement: >-
+  The classical theorems on sufficient statistics need only the copy/discard
+  structure of Markov kernels: Basu's theorem holds in every Markov
+  category, and Fisher–Neyman and Bahadur need only strict positivity, not
+  the existence of conditional distributions
 version: 1
 tags:
 - mathematics
@@ -35,7 +40,7 @@ bears_on:
 - QUESTION-065
 ---
 
-# THEORY-157: The classical theorems on sufficient statistics need only the copy/discard structure of Markov kernels: Basu's theorem holds in every Markov category, and Fisher–Neyman and Bahadur need only strict positivity, not the existence of conditional distributions
+# THEORY-157: Sufficiency theorems hold in Markov categories
 
 ## Source
 

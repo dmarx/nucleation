@@ -3,7 +3,17 @@ number: 365
 status: Active
 formerly:
 - THEORY-tmp4zwbu
-title: "In one study of a stack of proximity graphs on nested random subsets of the data, each element's top layer drawn geometrically, greedy search on uniform random data in 8 dimensions needed a number of distance computations that grew no worse than logarithmically with the number of items and stayed below a single-layer navigable graph's at every size tested, and in 4 dimensions the beam width needed for a fixed recall saturated; the logarithmic bound is derived only for exact Delaunay graphs of bounded degree, which the index does not build, and on 200 million SIFT vectors the measured growth departs from it"
+title: 'HNSW cost grew logarithmically in uniform tests'
+statement: >-
+  In one study of a stack of proximity graphs on nested random subsets of
+  the data, each element's top layer drawn geometrically, greedy search on
+  uniform random data in 8 dimensions needed a number of distance
+  computations that grew no worse than logarithmically with the number of
+  items and stayed below a single-layer navigable graph's at every size
+  tested, and in 4 dimensions the beam width needed for a fixed recall
+  saturated; the logarithmic bound is derived only for exact Delaunay graphs
+  of bounded degree, which the index does not build, and on 200 million SIFT
+  vectors the measured growth departs from it
 version: 4
 history:
 - version: 2
@@ -57,7 +67,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-815 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 
-# THEORY-365: In one study of a stack of proximity graphs on nested random subsets of the data, each element's top layer drawn geometrically, greedy search on uniform random data in 8 dimensions needed a number of distance computations that grew no worse than logarithmically with the number of items and stayed below a single-layer navigable graph's at every size tested, and in 4 dimensions the beam width needed for a fixed recall saturated; the logarithmic bound is derived only for exact Delaunay graphs of bounded degree, which the index does not build, and on 200 million SIFT vectors the measured growth departs from it
+# THEORY-365: HNSW cost grew logarithmically in uniform tests
 
 ## Source
 

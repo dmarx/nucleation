@@ -9,7 +9,14 @@ promote_when: >-
   their possessor) and the reasoning that the hearing must come when the
   deprivation can still be prevented because no later hearing or damage
   award can undo it. Whether the decision remains good law is not asserted.
-title: 'In Fuentes v. Shevin the Supreme Court held that prejudgment replevin statutes letting goods be seized from their possessor on a private party''s ex parte application, without a prior opportunity to be heard, deny due process, because the hearing must come when the deprivation can still be prevented and no later hearing or damage award can undo a deprivation already made, whether or not the possessor would have prevailed'
+title: 'Seizure without prior hearing denies due process'
+statement: >-
+  In Fuentes v. Shevin the Supreme Court held that prejudgment replevin
+  statutes letting goods be seized from their possessor on a private party's
+  ex parte application, without a prior opportunity to be heard, deny due
+  process, because the hearing must come when the deprivation can still be
+  prevented and no later hearing or damage award can undo a deprivation
+  already made, whether or not the possessor would have prevailed
 version: 1
 tags:
 - society-and-governance
@@ -32,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-723 CLAIM-734 — Proposed or new; the reading and the claims it bears on -->
 
-# THEORY-1972: In Fuentes v. Shevin the Supreme Court held that prejudgment replevin statutes letting goods be seized from their possessor on a private party's ex parte application, without a prior opportunity to be heard, deny due process, because the hearing must come when the deprivation can still be prevented and no later hearing or damage award can undo a deprivation already made, whether or not the possessor would have prevailed
+# THEORY-1972: Seizure without prior hearing denies due process
 
 Fuentes v. Shevin, 407 U.S. 67 (1972), [LIT-2735](../literature.d/LIT-2735.md).
 

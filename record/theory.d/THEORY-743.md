@@ -3,7 +3,13 @@ number: 743
 status: Active
 formerly:
 - THEORY-tmp35hmc
-title: 'For finite X and Y, every information-bottleneck optimum at every β gives one encoder to all inputs sharing p(y|x), so it is a stochastic coarsening of the minimal sufficient partition (the causal states of memoryless transduction); as β → ∞ the optima converge to that partition, but in general no finite β attains it, except when Y is a function of X'
+title: 'IB optima coarsen minimal sufficient partition'
+statement: >-
+  For finite X and Y, every information-bottleneck optimum at every β gives
+  one encoder to all inputs sharing p(y|x), so it is a stochastic coarsening
+  of the minimal sufficient partition (the causal states of memoryless
+  transduction); as β → ∞ the optima converge to that partition, but in
+  general no finite β attains it, except when Y is a function of X
 version: 2
 history:
 - version: 1
@@ -43,7 +49,7 @@ bounds:
 - CLAIM-387
 ---
 <!-- inactive-ok-file: THEORY-157 — Proposed; connections named for context, nothing here rests on them -->
-# THEORY-743: For finite X and Y, every information-bottleneck optimum at every β gives one encoder to all inputs sharing p(y|x), so it is a stochastic coarsening of the minimal sufficient partition (the causal states of memoryless transduction); as β → ∞ the optima converge to that partition, but in general no finite β attains it, except when Y is a function of X
+# THEORY-743: IB optima coarsen minimal sufficient partition
 
 ## Source
 

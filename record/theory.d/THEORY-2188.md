@@ -3,7 +3,16 @@ number: 2188
 status: Proposed
 formerly:
 - THEORY-tmpvwv5n
-title: 'Cai, Zhang, Liu and Shi show that as the number of negatives grows InfoNCE and its gradient converge to a deterministic energy over the representation''s distribution on a compact embedding manifold, which for one modality is a strictly convex free energy, alignment potential over temperature minus entropy, with a unique Gibbs minimizer, and for symmetric two-modality InfoNCE carries a negative symmetric KL divergence between the modalities that makes each one''s density a barrier for the other'
+title: 'InfoNCE converges to a convex free energy'
+statement: >-
+  Cai, Zhang, Liu and Shi show that as the number of negatives grows InfoNCE
+  and its gradient converge to a deterministic energy over the
+  representation's distribution on a compact embedding manifold, which for
+  one modality is a strictly convex free energy, alignment potential over
+  temperature minus entropy, with a unique Gibbs minimizer, and for
+  symmetric two-modality InfoNCE carries a negative symmetric KL divergence
+  between the modalities that makes each one's density a barrier for the
+  other
 promote_when: >-
   A second reading or an independent derivation confirms, under the stated
   assumptions (i.i.d. negatives, constant kernel volume, density floors),
@@ -29,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-798 ARG-189 — Proposed or new; the claim this reading grounds and the argument for it -->
 
-# THEORY-2188: Cai, Zhang, Liu and Shi show that as the number of negatives grows InfoNCE and its gradient converge to a deterministic energy over the representation's distribution on a compact embedding manifold, which for one modality is a strictly convex free energy, alignment potential over temperature minus entropy, with a unique Gibbs minimizer, and for symmetric two-modality InfoNCE carries a negative symmetric KL divergence between the modalities that makes each one's density a barrier for the other
+# THEORY-2188: InfoNCE converges to a convex free energy
 
 ## Source
 

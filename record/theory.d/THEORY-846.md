@@ -3,7 +3,16 @@ number: 846
 status: Active
 formerly:
 - THEORY-tmpgz4cf
-title: 'Information usable by a predictor restricted to a family V can be created by computing on the data, so the data-processing inequality fails for V-information: with Z the exclusive-or of two fair independent bits, linear and one-coordinate families extract nothing about Z from the pair and all of it from their exclusive-or; V-information computed from any function of the source is bounded by the source''s Shannon information when the family''s input-free predictions can match the marginal of the target, and can exceed it otherwise'
+title: 'Computation can create V-information'
+statement: >-
+  Information usable by a predictor restricted to a family V can be created
+  by computing on the data, so the data-processing inequality fails for
+  V-information: with Z the exclusive-or of two fair independent bits,
+  linear and one-coordinate families extract nothing about Z from the pair
+  and all of it from their exclusive-or; V-information computed from any
+  function of the source is bounded by the source's Shannon information when
+  the family's input-free predictions can match the marginal of the target,
+  and can exceed it otherwise
 version: 3
 history:
 - version: 1
@@ -49,7 +58,7 @@ bears_on:
 - QUESTION-110
 ---
 
-# THEORY-846: Information usable by a predictor restricted to a family V can be created by computing on the data, so the data-processing inequality fails for V-information: with Z the exclusive-or of two fair independent bits, linear and one-coordinate families extract nothing about Z from the pair and all of it from their exclusive-or; V-information computed from any function of the source is bounded by the source's Shannon information when the family's input-free predictions can match the marginal of the target, and can exceed it otherwise
+# THEORY-846: Computation can create V-information
 
 ## Source
 

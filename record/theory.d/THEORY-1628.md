@@ -3,7 +3,13 @@ number: 1628
 status: Active
 formerly:
 - THEORY-tmpy399d
-title: 'Bencherki, Brummans and Vézy hold, quoting Simondon, that research into individuation consists in following the being in its genesis and accomplishing the genesis of thought with the genesis of the object, so that researchers individuate into what they study, and they leave open what methods would do this'
+title: 'Researchers individuate into what they study'
+statement: >-
+  Bencherki, Brummans and Vézy hold, quoting Simondon, that research into
+  individuation consists in following the being in its genesis and
+  accomplishing the genesis of thought with the genesis of the object, so
+  that researchers individuate into what they study, and they leave open
+  what methods would do this
 version: 2
 history:
 - version: 1
@@ -37,7 +43,7 @@ bears_on:
 - QUESTION-366
 ---
 
-# THEORY-1628: Bencherki, Brummans and Vézy hold, quoting Simondon, that research into individuation consists in following the being in its genesis and accomplishing the genesis of thought with the genesis of the object, so that researchers individuate into what they study, and they leave open what methods would do this
+# THEORY-1628: Researchers individuate into what they study
 
 ## The account
 

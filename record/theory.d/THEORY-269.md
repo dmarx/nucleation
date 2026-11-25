@@ -3,7 +3,14 @@ number: 269
 status: Active
 formerly:
 - THEORY-tmpk5car
-title: 'In OLMo-1B, OLMo-7B and GPT-J, how well an affine map from subject to object representation reproduces a factual relation (its LRE causality) tracks how often the relation''s subjects and objects co-occur in pretraining, with mean causality above 0.9 beyond about 4.4k, 2.0k and 1.1k co-occurrences respectively, and, across OLMo-7B''s eight checkpoints, at whatever step that count is reached'
+title: 'LRE causality tracks pretraining co-occurrence'
+statement: >-
+  In OLMo-1B, OLMo-7B and GPT-J, how well an affine map from subject to
+  object representation reproduces a factual relation (its LRE causality)
+  tracks how often the relation's subjects and objects co-occur in
+  pretraining, with mean causality above 0.9 beyond about 4.4k, 2.0k and
+  1.1k co-occurrences respectively, and, across OLMo-7B's eight checkpoints,
+  at whatever step that count is reached
 version: 3
 history:
 - version: 2
@@ -59,7 +66,7 @@ bears_on:
 - QUESTION-344
 ---
 
-# THEORY-269: In OLMo-1B, OLMo-7B and GPT-J, how well an affine map from subject to object representation reproduces a factual relation (its LRE causality) tracks how often the relation's subjects and objects co-occur in pretraining, with mean causality above 0.9 beyond about 4.4k, 2.0k and 1.1k co-occurrences respectively, and, across OLMo-7B's eight checkpoints, at whatever step that count is reached
+# THEORY-269: LRE causality tracks pretraining co-occurrence
 
 ## Source
 

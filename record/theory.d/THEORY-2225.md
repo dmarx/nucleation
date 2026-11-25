@@ -3,7 +3,16 @@ number: 2225
 status: Proposed
 formerly:
 - THEORY-tmp4qq57
-title: 'Across ten US studies, Syropoulos, Law, Coleman and Young find that continuity with one''s own future self and consideration of one''s own future consequences correlate with felt responsibility for future generations (meta-analytic r = .21 and .54), partly through identification with and efficacy toward future generations, but that writing tasks raising future-self continuity raised responsibility in one pre-registered experiment and not in its replication, and never raised identification, so the route from self to future others is shown as association, not cause'
+title: 'Future-self link to posterity is correlational'
+statement: >-
+  Across ten US studies, Syropoulos, Law, Coleman and Young find that
+  continuity with one's own future self and consideration of one's own
+  future consequences correlate with felt responsibility for future
+  generations (meta-analytic r = .21 and .54), partly through identification
+  with and efficacy toward future generations, but that writing tasks
+  raising future-self continuity raised responsibility in one pre-registered
+  experiment and not in its replication, and never raised identification, so
+  the route from self to future others is shown as association, not cause
 version: 1
 source:
 - LIT-3082
@@ -31,7 +40,7 @@ summary: >-
   empathy and perspective-taking.
 ---
 
-# THEORY-2225: Across ten US studies, Syropoulos, Law, Coleman and Young find that continuity with one's own future self and consideration of one's own future consequences correlate with felt responsibility for future generations (meta-analytic r = .21 and .54), partly through identification with and efficacy toward future generations, but that writing tasks raising future-self continuity raised responsibility in one pre-registered experiment and not in its replication, and never raised identification, so the route from self to future others is shown as association, not cause
+# THEORY-2225: Future-self link to posterity is correlational
 
 ## The account
 

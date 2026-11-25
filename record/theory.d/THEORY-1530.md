@@ -13,7 +13,14 @@ promote_when: >-
   feedback fails to reproduce the same pattern. Correlations of prefrontal
   activity with choice do not settle it, and neither does Voigt's model
   being consistent with it.
-title: 'Attention is prioritization of processing by a subject that is the whole collection of an organism''s fixed, formed and fluid interests, separated from filtering by whether selection answers to that collection, marked by feedback from dorsolateral prefrontal cortex; when interests are equally weighted, attention breaks the stalemate and updates the chosen option''s value, so that a fluid interest becomes a formed one'
+title: 'Attention breaks stalemates, forming interests'
+statement: >-
+  Attention is prioritization of processing by a subject that is the whole
+  collection of an organism's fixed, formed and fluid interests, separated
+  from filtering by whether selection answers to that collection, marked by
+  feedback from dorsolateral prefrontal cortex; when interests are equally
+  weighted, attention breaks the stalemate and updates the chosen option's
+  value, so that a fluid interest becomes a formed one
 version: 1
 tags:
 - neuroscience
@@ -32,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1314 — Proposed; the paper's metaphysical half, cited as open -->
 
-# THEORY-1530: Attention is prioritization of processing by a subject that is the whole collection of an organism's fixed, formed and fluid interests, separated from filtering by whether selection answers to that collection, marked by feedback from dorsolateral prefrontal cortex; when interests are equally weighted, attention breaks the stalemate and updates the chosen option's value, so that a fluid interest becomes a formed one
+# THEORY-1530: Attention breaks stalemates, forming interests
 
 ## Source
 

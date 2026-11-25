@@ -3,7 +3,16 @@ number: 472
 status: Active
 formerly:
 - THEORY-tmp99ydy
-title: 'A speaker who chooses words to minimise the information lost about a single intended referent, with words'' literal meanings uniform over their extensions, picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; in one betting experiment, learners who knew the referent bet on a novel word''s meaning in line with the inversion of that speaker (r = .93 on condition means), and in one free-description study speakers'' word use followed it only weakly (r = .19)'
+title: 'Size principle follows from informative speech'
+statement: >-
+  A speaker who chooses words to minimise the information lost about a
+  single intended referent, with words' literal meanings uniform over their
+  extensions, picks each true word with probability inversely proportional
+  to a power of its extension, so the size principle follows from
+  informative communication; in one betting experiment, learners who knew
+  the referent bet on a novel word's meaning in line with the inversion of
+  that speaker (r = .93 on condition means), and in one free-description
+  study speakers' word use followed it only weakly (r = .19)
 version: 4
 history:
 - version: 2
@@ -55,7 +64,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-816 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: LIT-1041 — Unavailable; Grice 1975, read only at pp. 45–47, named as the informal ancestor and not leaned on -->
 
-# THEORY-472: A speaker who chooses words to minimise the information lost about a single intended referent, with words' literal meanings uniform over their extensions, picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; in one betting experiment, learners who knew the referent bet on a novel word's meaning in line with the inversion of that speaker (r = .93 on condition means), and in one free-description study speakers' word use followed it only weakly (r = .19)
+# THEORY-472: Size principle follows from informative speech
 
 ## Source
 

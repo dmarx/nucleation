@@ -3,7 +3,13 @@ number: 1944
 status: Proposed
 formerly:
 - THEORY-tmptc11p
-title: 'de Boer and Raaphorst find, in a survey of 549 Dutch food-safety inspectors, that working with a partially automated verdict system is associated with a more legal and more accommodative self-reported enforcement style and, weakly, with lower perceived discretion, and that perceived discretion does not mediate the association'
+title: 'Automated verdicts go with legalistic enforcement'
+statement: >-
+  de Boer and Raaphorst find, in a survey of 549 Dutch food-safety
+  inspectors, that working with a partially automated verdict system is
+  associated with a more legal and more accommodative self-reported
+  enforcement style and, weakly, with lower perceived discretion, and that
+  perceived discretion does not mediate the association
 version: 1
 tags:
 - society-and-governance
@@ -17,7 +23,7 @@ source:
 - LIT-2674
 ---
 
-# THEORY-1944: de Boer and Raaphorst find, in a survey of 549 Dutch food-safety inspectors, that working with a partially automated verdict system is associated with a more legal and more accommodative self-reported enforcement style and, weakly, with lower perceived discretion, and that perceived discretion does not mediate the association
+# THEORY-1944: Automated verdicts go with legalistic enforcement
 
 ## Source
 

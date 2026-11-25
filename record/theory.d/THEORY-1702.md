@@ -3,7 +3,16 @@ number: 1702
 status: Proposed
 formerly:
 - THEORY-tmprxaa7
-title: 'Nakhal and colleagues (2026) report that in mice, vancomycin-induced gut dysbiosis during pregnancy was associated with reduced maternal-to-offspring microbial transmission and, in offspring at postnatal day 14, with altered intestinal and enteric plexus structure and with shorter, less branched inhibitory interneurons in somatosensory and motor cortex but not entorhinal cortex or hippocampus, findings they present as descriptive associations that do not separate microbial from other antibiotic effects.'
+title: 'Maternal dysbiosis linked to pup brain changes'
+statement: >-
+  Nakhal and colleagues (2026) report that in mice, vancomycin-induced gut
+  dysbiosis during pregnancy was associated with reduced
+  maternal-to-offspring microbial transmission and, in offspring at
+  postnatal day 14, with altered intestinal and enteric plexus structure and
+  with shorter, less branched inhibitory interneurons in somatosensory and
+  motor cortex but not entorhinal cortex or hippocampus, findings they
+  present as descriptive associations that do not separate microbial from
+  other antibiotic effects.
 version: 1
 source:
 - LIT-2365
@@ -25,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1738 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1702: Nakhal and colleagues (2026) report that in mice, vancomycin-induced gut dysbiosis during pregnancy was associated with reduced maternal-to-offspring microbial transmission and, in offspring at postnatal day 14, with altered intestinal and enteric plexus structure and with shorter, less branched inhibitory interneurons in somatosensory and motor cortex but not entorhinal cortex or hippocampus, findings they present as descriptive associations that do not separate microbial from other antibiotic effects.
+# THEORY-1702: Maternal dysbiosis linked to pup brain changes
 
 ## The account
 

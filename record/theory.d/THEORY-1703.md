@@ -3,7 +3,14 @@ number: 1703
 status: Proposed
 formerly:
 - THEORY-tmps74c5
-title: 'Scoring an agent by whether one of k sampled trajectories of at most T interaction rounds succeeds separates capability expansion, a larger set of problems solved at some sampling budget, from efficiency improvement, more reliable success on problems already solvable; on sequential retrieval, RL expanded a 7B agent''s boundary while matched-data SFT contracted it'
+title: 'RL expands agent boundary; SFT contracts it'
+statement: >-
+  Scoring an agent by whether one of k sampled trajectories of at most T
+  interaction rounds succeeds separates capability expansion, a larger set
+  of problems solved at some sampling budget, from efficiency improvement,
+  more reliable success on problems already solvable; on sequential
+  retrieval, RL expanded a 7B agent's boundary while matched-data SFT
+  contracted it
 version: 1
 source:
 - LIT-2441
@@ -28,7 +35,7 @@ summary: >-
   monotone. Proposed on the experimental half.
 ---
 
-# THEORY-1703: Scoring an agent by whether one of k sampled trajectories of at most T interaction rounds succeeds separates capability expansion, a larger set of problems solved at some sampling budget, from efficiency improvement, more reliable success on problems already solvable; on sequential retrieval, RL expanded a 7B agent's boundary while matched-data SFT contracted it
+# THEORY-1703: RL expands agent boundary; SFT contracts it
 
 ## The account
 

@@ -3,7 +3,16 @@ number: 979
 status: Active
 formerly:
 - THEORY-tmpbtnf0
-title: 'On one prompt, a transformer whose MLPs are replaced by a cross-layer transcoder, with its attention patterns and normalization denominators frozen and each MLP''s reconstruction error added back as a constant, reproduces the model''s activations and outputs exactly and is linear between features, so each active feature''s pre-activation is the sum of its attribution-graph edges and constants; a perturbation that clamps MLP outputs up to the target feature''s encoder layer then confirms a direct edge by construction, and tests only knock-on effects and the output'
+title: 'Replacement model makes attributions exact'
+statement: >-
+  On one prompt, a transformer whose MLPs are replaced by a cross-layer
+  transcoder, with its attention patterns and normalization denominators
+  frozen and each MLP's reconstruction error added back as a constant,
+  reproduces the model's activations and outputs exactly and is linear
+  between features, so each active feature's pre-activation is the sum of
+  its attribution-graph edges and constants; a perturbation that clamps MLP
+  outputs up to the target feature's encoder layer then confirms a direct
+  edge by construction, and tests only knock-on effects and the output
 version: 2
 history:
 - version: 1
@@ -47,7 +56,7 @@ bears_on:
 corroborates:
 - CLAIM-454
 ---
-# THEORY-979: On one prompt, a transformer whose MLPs are replaced by a cross-layer transcoder, with its attention patterns and normalization denominators frozen and each MLP's reconstruction error added back as a constant, reproduces the model's activations and outputs exactly and is linear between features, so each active feature's pre-activation is the sum of its attribution-graph edges and constants; a perturbation that clamps MLP outputs up to the target feature's encoder layer then confirms a direct edge by construction, and tests only knock-on effects and the output
+# THEORY-979: Replacement model makes attributions exact
 
 ## Source
 

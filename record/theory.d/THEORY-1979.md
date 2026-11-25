@@ -10,7 +10,12 @@ promote_when: >-
   uses not specified by contract, and that allocating this right moves
   bargaining power and so the parties' incentives to invest in the
   relationship.
-title: 'When contracts are incomplete, the right to decide what the contract leaves out, the residual control right, belongs to the owner of the relevant non-human assets, and allocating it moves bargaining power between the parties and so their incentives to invest in the relationship'
+title: 'Asset owners hold residual control rights'
+statement: >-
+  When contracts are incomplete, the right to decide what the contract
+  leaves out, the residual control right, belongs to the owner of the
+  relevant non-human assets, and allocating it moves bargaining power
+  between the parties and so their incentives to invest in the relationship
 version: 1
 tags:
 - game-theory
@@ -30,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-728 LIT-2742 NOTE-2052 — Proposed, Skimmed, Unfetched; cited with their standing, entries this reading bears on or files -->
 
-# THEORY-1979: When contracts are incomplete, the right to decide what the contract leaves out, the residual control right, belongs to the owner of the relevant non-human assets, and allocating it moves bargaining power between the parties and so their incentives to invest in the relationship
+# THEORY-1979: Asset owners hold residual control rights
 
 Hart (2016), [LIT-2776](../literature.d/LIT-2776.md).
 

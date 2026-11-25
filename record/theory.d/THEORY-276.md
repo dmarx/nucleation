@@ -3,7 +3,12 @@ number: 276
 status: Active
 formerly:
 - THEORY-tmpov2tm
-title: "In a network of identical units with identical couplings, the orbits of the graph's symmetry group are synchronization clusters, and a cluster moved only by its own factor of the group can lose synchrony while the others keep it"
+title: 'Symmetry orbits are synchronization clusters'
+statement: >-
+  In a network of identical units with identical couplings, the orbits of
+  the graph's symmetry group are synchronization clusters, and a cluster
+  moved only by its own factor of the group can lose synchrony while the
+  others keep it
 version: 3
 history:
 - version: 2
@@ -46,7 +51,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the coupling and boundary claims this account bears on, open -->
 
-# THEORY-276: In a network of identical units with identical couplings, the orbits of the graph's symmetry group are synchronization clusters, and a cluster moved only by its own factor of the group can lose synchrony while the others keep it
+# THEORY-276: Symmetry orbits are synchronization clusters
 
 ## Source
 

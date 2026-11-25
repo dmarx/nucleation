@@ -16,7 +16,16 @@ promote_when: >-
   trained network have marginal values that differ widely, or if
   sparsity does not predict sharing. Further solved toy models, or the
   phase diagrams of six-feature models, cannot settle it.
-title: 'In trained neural networks, polysemantic neurons arise from the loss-optimal allocation of a layer''s limited capacity among features: a feature is shared between neurons when its marginal loss reduction from capacity equals that of the features it shares with, so that sparser, higher-kurtosis inputs, which make returns to capacity diminish, produce more polysemanticity, and the block structure of the embedding, which architecture shapes, sets how many features each neuron mixes, as Scherlis, Sachan, Jermyn, Benton and Shlegeris propose'
+title: 'Polysemanticity is loss-optimal capacity sharing'
+statement: >-
+  In trained neural networks, polysemantic neurons arise from the
+  loss-optimal allocation of a layer's limited capacity among features: a
+  feature is shared between neurons when its marginal loss reduction from
+  capacity equals that of the features it shares with, so that sparser,
+  higher-kurtosis inputs, which make returns to capacity diminish, produce
+  more polysemanticity, and the block structure of the embedding, which
+  architecture shapes, sets how many features each neuron mixes, as
+  Scherlis, Sachan, Jermyn, Benton and Shlegeris propose
 version: 1
 history:
 - version: 1
@@ -43,7 +52,7 @@ summary: >-
   stated assumptions; its application to trained networks, and the role
   of architecture, rest on toy models only.
 ---
-# THEORY-1035: In trained neural networks, polysemantic neurons arise from the loss-optimal allocation of a layer's limited capacity among features: a feature is shared between neurons when its marginal loss reduction from capacity equals that of the features it shares with, so that sparser, higher-kurtosis inputs, which make returns to capacity diminish, produce more polysemanticity, and the block structure of the embedding, which architecture shapes, sets how many features each neuron mixes, as Scherlis, Sachan, Jermyn, Benton and Shlegeris propose
+# THEORY-1035: Polysemanticity is loss-optimal capacity sharing
 
 ## Source
 

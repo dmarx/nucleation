@@ -3,7 +3,13 @@ number: 1422
 status: Active
 formerly:
 - THEORY-tmprk262
-title: 'Botnan and Lesnick report that multiparameter persistence modules are of wild representation type, so that no barcode-like complete invariant is practical and good barcodes need not exist, while the interleaving distance extends the bottleneck distance with stability and universality but is NP-hard to compute for two or more parameters'
+title: 'Multiparameter persistence has no good barcode'
+statement: >-
+  Botnan and Lesnick report that multiparameter persistence modules are of
+  wild representation type, so that no barcode-like complete invariant is
+  practical and good barcodes need not exist, while the interleaving
+  distance extends the bottleneck distance with stability and universality
+  but is NP-hard to compute for two or more parameters
 version: 3
 history:
 - version: 2
@@ -55,7 +61,7 @@ bears_on:
 - QUESTION-374
 - QUESTION-375
 ---
-# THEORY-1422: Botnan and Lesnick report that multiparameter persistence modules are of wild representation type, so that no barcode-like complete invariant is practical and good barcodes need not exist, while the interleaving distance extends the bottleneck distance with stability and universality but is NP-hard to compute for two or more parameters
+# THEORY-1422: Multiparameter persistence has no good barcode
 
 ## Source
 

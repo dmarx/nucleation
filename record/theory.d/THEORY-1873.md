@@ -9,7 +9,14 @@ promote_when: >-
   correlation lengths and disorder strengths, and branch peak intensities
   heavier-tailed than Rayleigh statistics; and a second branch, or a second
   film, is shown keeping its width over at least ten Rayleigh lengths.
-title: 'In a soap film under a micrometre thick, Patsyk, Sivan, Segev and Bandres observe light branching as it propagates, because smooth thickness variations act as a weak correlated potential for linear guided waves; the scintillation index peaks near a distance proportional to lc v0^−2/3, branch intensities are heavier-tailed than Rayleigh, and a branch keeps its width for at least ten Rayleigh lengths'
+title: 'Soap films branch light via thickness disorder'
+statement: >-
+  In a soap film under a micrometre thick, Patsyk, Sivan, Segev and Bandres
+  observe light branching as it propagates, because smooth thickness
+  variations act as a weak correlated potential for linear guided waves; the
+  scintillation index peaks near a distance proportional to lc v0^−2/3,
+  branch intensities are heavier-tailed than Rayleigh, and a branch keeps
+  its width for at least ten Rayleigh lengths
 version: 1
 tags:
 - natural-sciences
@@ -27,7 +34,7 @@ summary: >-
   wording is the reader's; adopting it is the owner's call.
 ---
 
-# THEORY-1873: In a soap film under a micrometre thick, Patsyk, Sivan, Segev and Bandres observe light branching as it propagates, because smooth thickness variations act as a weak correlated potential for linear guided waves; the scintillation index peaks near a distance proportional to lc v0^−2/3, branch intensities are heavier-tailed than Rayleigh, and a branch keeps its width for at least ten Rayleigh lengths
+# THEORY-1873: Soap films branch light via thickness disorder
 
 Patsyk, Sivan, Segev & Bandres (2020), [LIT-2647](../literature.d/LIT-2647.md); read in [NOTE-1967](../notes.d/NOTE-1967.md).
 

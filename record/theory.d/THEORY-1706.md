@@ -3,7 +3,16 @@ number: 1706
 status: Proposed
 formerly:
 - THEORY-tmptueyh
-title: 'Levin argues that cells and tissues are an agential material whose collective problem-solving in anatomical, transcriptional and physiological spaces, bound by bioelectric networks, is the tractable interface for regenerative medicine: interventions should rewrite the setpoints these collectives pursue rather than force molecular states, and cancer is cells reverting to smaller goals, so that ''cancer cells are not more selfish; they just have smaller selves'', normalizable by restoring their bioelectric connection to the tissue'
+title: 'Rewrite tissue setpoints, not molecular states'
+statement: >-
+  Levin argues that cells and tissues are an agential material whose
+  collective problem-solving in anatomical, transcriptional and
+  physiological spaces, bound by bioelectric networks, is the tractable
+  interface for regenerative medicine: interventions should rewrite the
+  setpoints these collectives pursue rather than force molecular states, and
+  cancer is cells reverting to smaller goals, so that 'cancer cells are not
+  more selfish; they just have smaller selves', normalizable by restoring
+  their bioelectric connection to the tissue
 version: 1
 source:
 - LIT-2405
@@ -32,7 +41,7 @@ summary: >-
   is "not a philosophical question but an empirical one".
 ---
 
-# THEORY-1706: Levin argues that cells and tissues are an agential material whose collective problem-solving in anatomical, transcriptional and physiological spaces, bound by bioelectric networks, is the tractable interface for regenerative medicine: interventions should rewrite the setpoints these collectives pursue rather than force molecular states, and cancer is cells reverting to smaller goals, so that 'cancer cells are not more selfish; they just have smaller selves', normalizable by restoring their bioelectric connection to the tissue
+# THEORY-1706: Rewrite tissue setpoints, not molecular states
 
 ## The account
 

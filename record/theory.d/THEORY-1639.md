@@ -5,7 +5,13 @@ formerly:
 - THEORY-tmp3jjfo
 promote_when: >-
   A second reading confirms, from Table 1, §4.3.1 and §5, the CLIP-I and CLIP-T scores against the fine-tuned image-prompt models, the reuse on SD v1.5-derived models without retraining, and the authors' statement that it does not reach subject-level consistency.
-title: 'An image-prompt adapter of about 22M parameters, trained once against a frozen Stable Diffusion v1.5, matches fully fine-tuned image-prompt models on COCO alignment metrics and can be reused without retraining on models fine-tuned from the same base, but by its authors'' account does not keep a given subject''s identity as Textual Inversion and DreamBooth do'
+title: '22M image adapter rivals fine-tuning, not identity'
+statement: >-
+  An image-prompt adapter of about 22M parameters, trained once against a
+  frozen Stable Diffusion v1.5, matches fully fine-tuned image-prompt models
+  on COCO alignment metrics and can be reused without retraining on models
+  fine-tuned from the same base, but by its authors' account does not keep a
+  given subject's identity as Textual Inversion and DreamBooth do
 version: 1
 history:
 - version: 1
@@ -25,7 +31,7 @@ summary: >-
   Hu Ye, Jun Zhang, Sibo Liu, Xiao Han and Wei Yang (2023), [LIT-2342](../literature.d/LIT-2342.md), read in [NOTE-1722](../notes.d/NOTE-1722.md). arXiv preprint (v1, the only version; no venue on the arXiv record).
 ---
 
-# THEORY-1639: An image-prompt adapter of about 22M parameters, trained once against a frozen Stable Diffusion v1.5, matches fully fine-tuned image-prompt models on COCO alignment metrics and can be reused without retraining on models fine-tuned from the same base, but by its authors' account does not keep a given subject's identity as Textual Inversion and DreamBooth do
+# THEORY-1639: 22M image adapter rivals fine-tuning, not identity
 
 ## Source
 

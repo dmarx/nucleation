@@ -3,7 +3,14 @@ number: 1042
 status: Active
 formerly:
 - THEORY-tmpjdph0
-title: 'In the Overview of Early Vision''s taxonomy of InceptionV1, every one of the 1,056 units of conv2d0 to mixed3b is assigned by the authors to exactly one of 77 groups, and 391 of them (37%), from 7% of conv2d2 to 48% of conv2d1 and 45% of mixed3b, are in groups whose own captions call them catch-all, broad and not well defined, low-confidence, unstudied or not understood; the mixed3b curve family is 10 of that layer''s 480 units'
+title: '37% of early-vision units sit in catch-alls'
+statement: >-
+  In the Overview of Early Vision's taxonomy of InceptionV1, every one of
+  the 1,056 units of conv2d0 to mixed3b is assigned by the authors to
+  exactly one of 77 groups, and 391 of them (37%), from 7% of conv2d2 to 48%
+  of conv2d1 and 45% of mixed3b, are in groups whose own captions call them
+  catch-all, broad and not well defined, low-confidence, unstudied or not
+  understood; the mixed3b curve family is 10 of that layer's 480 units
 version: 1
 history:
 - version: 1
@@ -32,7 +39,7 @@ summary: >-
   how many units are understood.
 ---
 <!-- inactive-ok-file: THEORY-1040 THEORY-1013 THEORY-1022 — Proposed; the authors' wider claim, the Zoom In account this count serves and the curve account, cited as open -->
-# THEORY-1042: In the Overview of Early Vision's taxonomy of InceptionV1, every one of the 1,056 units of conv2d0 to mixed3b is assigned by the authors to exactly one of 77 groups, and 391 of them (37%), from 7% of conv2d2 to 48% of conv2d1 and 45% of mixed3b, are in groups whose own captions call them catch-all, broad and not well defined, low-confidence, unstudied or not understood; the mixed3b curve family is 10 of that layer's 480 units
+# THEORY-1042: 37% of early-vision units sit in catch-alls
 
 ## Source
 

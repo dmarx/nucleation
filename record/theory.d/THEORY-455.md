@@ -3,7 +3,15 @@ number: 455
 status: Active
 formerly:
 - THEORY-tmp6wtwf
-title: "Every finite stochastic transition matrix on a configuration space equals the entrywise squared modulus of a complex matrix, unitary after dilation, so the Hilbert-space formalism can be written over any indivisible stochastic process as a non-unique representation; within that representation interference is the term by which the process fails to divide at an intermediate time, relative to the chosen configurations, and an ideal correlating environment restores divisibility"
+title: 'Quantum formalism fits indivisible stochastics'
+statement: >-
+  Every finite stochastic transition matrix on a configuration space equals
+  the entrywise squared modulus of a complex matrix, unitary after dilation,
+  so the Hilbert-space formalism can be written over any indivisible
+  stochastic process as a non-unique representation; within that
+  representation interference is the term by which the process fails to
+  divide at an intermediate time, relative to the chosen configurations, and
+  an ideal correlating environment restores divisibility
 version: 1
 tags:
 - quantum-foundations
@@ -26,7 +34,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-001 — Rejected; named as the contrasting stochastic-mechanics derivation its reading compares -->
 <!-- inactive-ok-file: THEORY-010 — Proposed; named in Connections, not leaned on -->
 
-# THEORY-455: Every finite stochastic transition matrix on a configuration space equals the entrywise squared modulus of a complex matrix, unitary after dilation, so the Hilbert-space formalism can be written over any indivisible stochastic process as a non-unique representation; within that representation interference is the term by which the process fails to divide at an intermediate time, relative to the chosen configurations, and an ideal correlating environment restores divisibility
+# THEORY-455: Quantum formalism fits indivisible stochastics
 
 ## Source
 

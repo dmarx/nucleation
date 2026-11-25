@@ -3,7 +3,13 @@ number: 722
 status: Active
 formerly:
 - THEORY-tmpm565o
-title: 'In Contextuality-by-Default 2.0, whether a system of non-binary variables is contextual depends on which variables represent the measurements: coarse-graining can turn a noncontextual system into a contextual one, while for connections of two variables, and for consistently connected systems, CbD 1.0 and 2.0 agree'
+title: 'CbD 2.0 contextuality depends on representation'
+statement: >-
+  In Contextuality-by-Default 2.0, whether a system of non-binary variables
+  is contextual depends on which variables represent the measurements:
+  coarse-graining can turn a noncontextual system into a contextual one,
+  while for connections of two variables, and for consistently connected
+  systems, CbD 1.0 and 2.0 agree
 version: 1
 history:
 - version: 1
@@ -36,7 +42,7 @@ summary: >-
   [THEORY-168](THEORY-168.md)'s asserted part.
 ---
 
-# THEORY-722: In Contextuality-by-Default 2.0, whether a system of non-binary variables is contextual depends on which variables represent the measurements: coarse-graining can turn a noncontextual system into a contextual one, while for connections of two variables, and for consistently connected systems, CbD 1.0 and 2.0 agree
+# THEORY-722: CbD 2.0 contextuality depends on representation
 
 ## Source
 

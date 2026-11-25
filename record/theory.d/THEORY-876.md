@@ -16,7 +16,16 @@ promote_when: >-
   sign of decline. Stating the theory's convergence with HCH or other
   theories, or the failures of language models, cannot settle it, and any
   marker inherits QUESTION-048's difficulty.
-title: "Phenomenal consciousness is the coherent functioning of an embodied agent's generative model of its sensorium, coherent in space, time and cause and run either coupled to sense data (perception) or decoupled from it (imagination); embodied grounding, the model's capacity to inform and be informed by action–perception cycles at behavioural timescales and the history of such coupling by which it was learned, is necessary, so that integrated information or a functional global workspace without it does not suffice"
+title: 'Consciousness needs an embodied generative model'
+statement: >-
+  Phenomenal consciousness is the coherent functioning of an embodied
+  agent's generative model of its sensorium, coherent in space, time and
+  cause and run either coupled to sense data (perception) or decoupled from
+  it (imagination); embodied grounding, the model's capacity to inform and
+  be informed by action–perception cycles at behavioural timescales and the
+  history of such coupling by which it was learned, is necessary, so that
+  integrated information or a functional global workspace without it does
+  not suffice
 version: 1
 tags:
 - consciousness
@@ -39,7 +48,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-412 THEORY-063 — Proposed; the claims, terms and accounts it bears on, named, not leaned on -->
 <!-- inactive-ok-file: THEORY-882 — Proposed; filed in the same batch, named -->
 
-# THEORY-876: Phenomenal consciousness is the coherent functioning of an embodied agent's generative model of its sensorium, coherent in space, time and cause and run either coupled to sense data (perception) or decoupled from it (imagination); embodied grounding, the model's capacity to inform and be informed by action–perception cycles at behavioural timescales and the history of such coupling by which it was learned, is necessary, so that integrated information or a functional global workspace without it does not suffice
+# THEORY-876: Consciousness needs an embodied generative model
 
 ## Source
 

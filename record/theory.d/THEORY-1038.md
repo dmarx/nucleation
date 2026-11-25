@@ -3,7 +3,19 @@ number: 1038
 status: Active
 formerly:
 - THEORY-tmp90225
-title: 'In InceptionV1, the ten curve units of mixed3b, which respond to curves of one orientation and not to the opposite one, regain the 180° echo of earlier curve units when their input is restricted to mixed3a early curves with the negative weights removed, and not when the negative weights are kept; a network one author wrote by hand from the described circuit, without looking at the original weights and tuned afterwards, has grayscale curve units that the authors show, by figures only, approximating the natural ones on synthetic curves across radii and orientations; and substituting them for the ten units recovered 26 of the 46 top-5 classifications lost by deleting the units, on 2,000 validation images, a result the authors call preliminary'
+title: 'Hand-written curve circuit partly replaces units'
+statement: >-
+  In InceptionV1, the ten curve units of mixed3b, which respond to curves of
+  one orientation and not to the opposite one, regain the 180° echo of
+  earlier curve units when their input is restricted to mixed3a early curves
+  with the negative weights removed, and not when the negative weights are
+  kept; a network one author wrote by hand from the described circuit,
+  without looking at the original weights and tuned afterwards, has
+  grayscale curve units that the authors show, by figures only,
+  approximating the natural ones on synthetic curves across radii and
+  orientations; and substituting them for the ten units recovered 26 of the
+  46 top-5 classifications lost by deleting the units, on 2,000 validation
+  images, a result the authors call preliminary
 version: 1
 history:
 - version: 1
@@ -31,7 +43,7 @@ summary: >-
   families.
 ---
 <!-- inactive-ok-file: THEORY-1047 THEORY-1013 THEORY-1022 — Proposed; the authors' full claim, the Zoom In account and the curve account it bears on, cited as open -->
-# THEORY-1038: In InceptionV1, the ten curve units of mixed3b, which respond to curves of one orientation and not to the opposite one, regain the 180° echo of earlier curve units when their input is restricted to mixed3a early curves with the negative weights removed, and not when the negative weights are kept; a network one author wrote by hand from the described circuit, without looking at the original weights and tuned afterwards, has grayscale curve units that the authors show, by figures only, approximating the natural ones on synthetic curves across radii and orientations; and substituting them for the ten units recovered 26 of the 46 top-5 classifications lost by deleting the units, on 2,000 validation images, a result the authors call preliminary
+# THEORY-1038: Hand-written curve circuit partly replaces units
 
 ## Source
 

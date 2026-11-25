@@ -25,7 +25,12 @@ promote_when: >-
   memory-malfunction reply, and arguments for or against short-arm
   functionalism or physicalism about qualia, which this account leaves
   open by design.
-title: 'Phenomenal character is not fixed by long-arm functional role or by externally individuated representational content: on Inverted Earth it stays the same while both invert, so only internal accounts, short-arm functional or physical, remain open'
+title: 'Inverted Earth leaves only internal accounts'
+statement: >-
+  Phenomenal character is not fixed by long-arm functional role or by
+  externally individuated representational content: on Inverted Earth it
+  stays the same while both invert, so only internal accounts, short-arm
+  functional or physical, remain open
 version: 3
 history:
 - version: 2
@@ -73,7 +78,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-063 THEORY-064 THEORY-023 — Proposed; named in prose to say this account does not bear on them, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-089 — Proposed; the two-factor account filed alongside, named in Connections, nothing here rests on it -->
 
-# THEORY-095: Phenomenal character is not fixed by long-arm functional role or by externally individuated representational content: on Inverted Earth it stays the same while both invert, so only internal accounts, short-arm functional or physical, remain open
+# THEORY-095: Inverted Earth leaves only internal accounts
 
 ## Source
 

@@ -9,7 +9,14 @@ promote_when: >-
   roughly monotonic curves, are objects of B, and that the strongest
   contract of a composed system is the conjunction of its components'
   contracts with the latent variables existentially quantified.
-title: 'Schultz and Spivak model behavior types as sheaves on a topos of time intervals, which include families whose short-window compliance does not compose and families that are the solution set of no differential equation, and give a constructive temporal logic, sound but undecidable, in which a composed system''s strongest contract is its components'' contracts conjoined with the latent variables existentially quantified'
+title: 'Composite contracts conjoin component contracts'
+statement: >-
+  Schultz and Spivak model behavior types as sheaves on a topos of time
+  intervals, which include families whose short-window compliance does not
+  compose and families that are the solution set of no differential
+  equation, and give a constructive temporal logic, sound but undecidable,
+  in which a composed system's strongest contract is its components'
+  contracts conjoined with the latent variables existentially quantified
 version: 1
 tags:
 - logic
@@ -28,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2349 — Skimmed; the reading this account comes from -->
 
-# THEORY-2258: Schultz and Spivak model behavior types as sheaves on a topos of time intervals, which include families whose short-window compliance does not compose and families that are the solution set of no differential equation, and give a constructive temporal logic, sound but undecidable, in which a composed system's strongest contract is its components' contracts conjoined with the latent variables existentially quantified
+# THEORY-2258: Composite contracts conjoin component contracts
 
 ## Source
 

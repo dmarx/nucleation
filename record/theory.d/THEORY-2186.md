@@ -3,7 +3,15 @@ number: 2186
 status: Proposed
 formerly:
 - THEORY-tmp9ltxi
-title: 'Wang, Wu and Fan prove that in a deep network with random Gaussian weights at linear width and an odd-type activation a bounded input spike yields an outlier of a layer''s conjugate kernel only if it passes a BBP-type test at every layer up to it, so the number of outliers and their alignment with the input cannot increase with depth, and that after a few gradient steps at unit-order step size a two-layer network''s test-data conjugate kernel has a label-aligned outlier only above a threshold'
+title: 'Spike outliers can''t increase with depth'
+statement: >-
+  Wang, Wu and Fan prove that in a deep network with random Gaussian weights
+  at linear width and an odd-type activation a bounded input spike yields an
+  outlier of a layer's conjugate kernel only if it passes a BBP-type test at
+  every layer up to it, so the number of outliers and their alignment with
+  the input cannot increase with depth, and that after a few gradient steps
+  at unit-order step size a two-layer network's test-data conjugate kernel
+  has a label-aligned outlier only above a threshold
 promote_when: >-
   An independent re-derivation, or a simulation, confirms for the stated
   setting the per-layer test and depth-wise non-increase of outliers and
@@ -29,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-799 ARG-188 — Proposed or new; the claim this reading grounds and the argument for it -->
 
-# THEORY-2186: Wang, Wu and Fan prove that in a deep network with random Gaussian weights at linear width and an odd-type activation a bounded input spike yields an outlier of a layer's conjugate kernel only if it passes a BBP-type test at every layer up to it, so the number of outliers and their alignment with the input cannot increase with depth, and that after a few gradient steps at unit-order step size a two-layer network's test-data conjugate kernel has a label-aligned outlier only above a threshold
+# THEORY-2186: Spike outliers can't increase with depth
 
 ## Source
 

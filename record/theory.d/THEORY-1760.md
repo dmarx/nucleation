@@ -3,7 +3,11 @@ number: 1760
 status: Proposed
 formerly:
 - THEORY-tmpgl5xy
-title: 'Jansen, Clark, Downey and Weld (2026) report that LLM-generated scientific laws grounded in up to 100 retrieved papers per query predict results in later-published papers better than laws from model knowledge alone'
+title: 'Paper-grounded LLM laws predict later results'
+statement: >-
+  Jansen, Clark, Downey and Weld (2026) report that LLM-generated scientific
+  laws grounded in up to 100 retrieved papers per query predict results in
+  later-published papers better than laws from model knowledge alone
 version: 1
 tags:
 - philosophy-of-science
@@ -20,7 +24,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1760: Jansen, Clark, Downey and Weld (2026) report that LLM-generated scientific laws grounded in up to 100 retrieved papers per query predict results in later-published papers better than laws from model knowledge alone
+# THEORY-1760: Paper-grounded LLM laws predict later results
 
 ## The account
 

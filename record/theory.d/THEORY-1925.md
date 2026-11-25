@@ -3,7 +3,15 @@ number: 1925
 status: Proposed
 formerly:
 - THEORY-tmpccx4i
-title: 'Johnson argues that partner violence comprises distinct types defined by the couple''s control context rather than by the violence, intimate terrorism, violent resistance, situational couple violence and mutual violent control, and finds in a mixed court, shelter and survey sample that intimate terrorism is almost all men''s and found in agency samples while situational couple violence is near gender-symmetric and dominates the general survey'
+title: 'Partner violence types differ by control context'
+statement: >-
+  Johnson argues that partner violence comprises distinct types defined by
+  the couple's control context rather than by the violence, intimate
+  terrorism, violent resistance, situational couple violence and mutual
+  violent control, and finds in a mixed court, shelter and survey sample
+  that intimate terrorism is almost all men's and found in agency samples
+  while situational couple violence is near gender-symmetric and dominates
+  the general survey
 version: 1
 tags:
 - social-science
@@ -20,7 +28,7 @@ corroborates:
 - CLAIM-709
 ---
 <!-- inactive-ok-file: LIT-2715 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1925: Johnson argues that partner violence comprises distinct types defined by the couple's control context rather than by the violence, intimate terrorism, violent resistance, situational couple violence and mutual violent control, and finds in a mixed court, shelter and survey sample that intimate terrorism is almost all men's and found in agency samples while situational couple violence is near gender-symmetric and dominates the general survey
+# THEORY-1925: Partner violence types differ by control context
 
 ## Source
 

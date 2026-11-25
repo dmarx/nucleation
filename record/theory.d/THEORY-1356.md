@@ -10,7 +10,15 @@ promote_when: >-
   than for one needing a new, partly overlapping task-set, and, in the
   latter, an excess of errors that would be correct under a previously
   learned task-set over other error types.
-title: 'Collins and Frank propose that people learning stimulus–action rules by reinforcement spontaneously build latent task-sets cued by one input dimension, even when that structure gives no advantage during learning, so that a new context signalling an old task-set is learned faster (positive transfer) while a new context whose rule partly overlaps old task-sets draws errors that would be correct under an old task-set (negative transfer)'
+title: 'People build latent task-sets unprompted'
+statement: >-
+  Collins and Frank propose that people learning stimulus–action rules by
+  reinforcement spontaneously build latent task-sets cued by one input
+  dimension, even when that structure gives no advantage during learning, so
+  that a new context signalling an old task-set is learned faster (positive
+  transfer) while a new context whose rule partly overlaps old task-sets
+  draws errors that would be correct under an old task-set (negative
+  transfer)
 version: 1
 tags:
 - cognition
@@ -32,7 +40,7 @@ summary: >-
   untested.
 ---
 
-# THEORY-1356: Collins and Frank propose that people learning stimulus–action rules by reinforcement spontaneously build latent task-sets cued by one input dimension, even when that structure gives no advantage during learning, so that a new context signalling an old task-set is learned faster (positive transfer) while a new context whose rule partly overlaps old task-sets draws errors that would be correct under an old task-set (negative transfer)
+# THEORY-1356: People build latent task-sets unprompted
 
 ## Source
 

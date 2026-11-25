@@ -22,7 +22,11 @@ promote_when: >-
   so their result does not meet this clause. Further pattern-fitting
   meta-analyses cannot settle it, because both accounts were fitted to
   the same patterns.
-title: 'Whether an external event lowers or raises intrinsic motivation depends on whether it is experienced as controlling or as information about competence'
+title: 'Control lowers motivation; competence info raises'
+statement: >-
+  Whether an external event lowers or raises intrinsic motivation depends on
+  whether it is experienced as controlling or as information about
+  competence
 version: 2
 history:
 - version: 2
@@ -67,7 +71,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-545 — Unavailable; Bandura, named for the rival side's self-efficacy, not leaned on -->
 <!-- inactive-ok-file: THEORY-054 THEORY-154 — Proposed; a neighbour named in Connections, and the rival account -->
 
-# THEORY-049: Whether an external event lowers or raises intrinsic motivation depends on whether it is experienced as controlling or as information about competence
+# THEORY-049: Control lowers motivation; competence info raises
 
 ## Source
 

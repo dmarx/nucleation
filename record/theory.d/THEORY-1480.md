@@ -3,7 +3,14 @@ number: 1480
 status: Active
 formerly:
 - THEORY-tmph35ra
-title: "Ostrom, Gibson, Shivakumar and Andersson hold that predictable aid weakens the recipient's own upkeep, as in the Samaritan's dilemma, so that assets built and repaired from outside decay and are rebuilt from outside, and that benefits outlast the aid only where beneficiaries state the demand, contribute their own assets, receive the benefits and share in deciding whether to continue"
+title: 'Predictable aid undermines local upkeep'
+statement: >-
+  Ostrom, Gibson, Shivakumar and Andersson hold that predictable aid weakens
+  the recipient's own upkeep, as in the Samaritan's dilemma, so that assets
+  built and repaired from outside decay and are rebuilt from outside, and
+  that benefits outlast the aid only where beneficiaries state the demand,
+  contribute their own assets, receive the benefits and share in deciding
+  whether to continue
 version: 3
 history:
 - version: 2
@@ -55,7 +62,7 @@ corroborates:
 - CLAIM-602
 ---
 
-# THEORY-1480: Ostrom, Gibson, Shivakumar and Andersson hold that predictable aid weakens the recipient's own upkeep, as in the Samaritan's dilemma, so that assets built and repaired from outside decay and are rebuilt from outside, and that benefits outlast the aid only where beneficiaries state the demand, contribute their own assets, receive the benefits and share in deciding whether to continue
+# THEORY-1480: Predictable aid undermines local upkeep
 
 ## Source
 

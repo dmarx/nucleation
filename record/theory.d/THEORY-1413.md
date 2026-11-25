@@ -3,7 +3,14 @@ number: 1413
 status: Active
 formerly:
 - THEORY-tmpo2ib0
-title: 'Schwerdtfeger shows that Gopalan, Kolaitis, Maneva and Papadimitriou''s connectivity dichotomies for Boolean constraint languages overlooked constraints in which a variable occurs twice, and that they hold once tight sets are replaced by safely tight ones, whose relations keep their component properties when variables are identified, which moves the boundary slightly toward the hard side'
+title: 'Safely tight sets fix Boolean connectivity'
+statement: >-
+  Schwerdtfeger shows that Gopalan, Kolaitis, Maneva and Papadimitriou's
+  connectivity dichotomies for Boolean constraint languages overlooked
+  constraints in which a variable occurs twice, and that they hold once
+  tight sets are replaced by safely tight ones, whose relations keep their
+  component properties when variables are identified, which moves the
+  boundary slightly toward the hard side
 version: 3
 history:
 - version: 2
@@ -42,7 +49,7 @@ bears_on:
 - QUESTION-377
 ---
 
-# THEORY-1413: Schwerdtfeger shows that Gopalan, Kolaitis, Maneva and Papadimitriou's connectivity dichotomies for Boolean constraint languages overlooked constraints in which a variable occurs twice, and that they hold once tight sets are replaced by safely tight ones, whose relations keep their component properties when variables are identified, which moves the boundary slightly toward the hard side
+# THEORY-1413: Safely tight sets fix Boolean connectivity
 
 ## Source
 

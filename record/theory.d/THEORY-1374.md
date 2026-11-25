@@ -11,7 +11,15 @@ promote_when: >-
   freedom spaces, and that comparing the elements' orders of constraint
   with the system's constraint space classifies a design correctly as
   exactly, over- or under-constrained.
-title: 'Hopkins (2013) holds that a flexure system''s freedom space is the intersection of its parallel limbs'' freedom spaces and the span of its serial stages'' freedom spaces, so the same finite library of freedom–constraint space types suffices to analyse and synthesize any combination of parallel and serial flexures, and comparing constraint orders with the system''s constraint space classifies a design as exactly, over- or under-constrained'
+title: 'Freedom spaces compose in parallel and series'
+statement: >-
+  Hopkins (2013) holds that a flexure system's freedom space is the
+  intersection of its parallel limbs' freedom spaces and the span of its
+  serial stages' freedom spaces, so the same finite library of
+  freedom–constraint space types suffices to analyse and synthesize any
+  combination of parallel and serial flexures, and comparing constraint
+  orders with the system's constraint space classifies a design as exactly,
+  over- or under-constrained
 version: 2
 history:
 - version: 2
@@ -38,7 +46,7 @@ bears_on:
 - QUESTION-383
 ---
 
-# THEORY-1374: Hopkins (2013) holds that a flexure system's freedom space is the intersection of its parallel limbs' freedom spaces and the span of its serial stages' freedom spaces, so the same finite library of freedom–constraint space types suffices to analyse and synthesize any combination of parallel and serial flexures, and comparing constraint orders with the system's constraint space classifies a design as exactly, over- or under-constrained
+# THEORY-1374: Freedom spaces compose in parallel and series
 
 ## Source
 

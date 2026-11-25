@@ -3,7 +3,16 @@ number: 968
 status: Active
 formerly:
 - THEORY-tmp4lqc8
-title: 'In the Mechanistic Interpretability Benchmark''s causal-variable localization baselines on Gemma-2 2B and Llama-3.1 8B, features of the public Gemma Scope and Llama Scope sparse autoencoders, selected by a learned binary mask, never gave a higher mean interchange-intervention accuracy than the same mask over the model''s own hidden dimensions, in all sixteen task–variable cells and by 1 to 14 points, while distributed alignment search, trained against the causal model it is scored on, gave the highest mean in fifteen of them'
+title: 'SAE features never beat raw dimensions on MIB'
+statement: >-
+  In the Mechanistic Interpretability Benchmark's causal-variable
+  localization baselines on Gemma-2 2B and Llama-3.1 8B, features of the
+  public Gemma Scope and Llama Scope sparse autoencoders, selected by a
+  learned binary mask, never gave a higher mean interchange-intervention
+  accuracy than the same mask over the model's own hidden dimensions, in all
+  sixteen task–variable cells and by 1 to 14 points, while distributed
+  alignment search, trained against the causal model it is scored on, gave
+  the highest mean in fifteen of them
 version: 2
 history:
 - version: 1
@@ -48,7 +57,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-802 — Proposed; the claim and account this bears on, cited as open -->
 <!-- inactive-ok-file: THEORY-965 — Proposed; the thesis this account tests, cited as open -->
 
-# THEORY-968: In the Mechanistic Interpretability Benchmark's causal-variable localization baselines on Gemma-2 2B and Llama-3.1 8B, features of the public Gemma Scope and Llama Scope sparse autoencoders, selected by a learned binary mask, never gave a higher mean interchange-intervention accuracy than the same mask over the model's own hidden dimensions, in all sixteen task–variable cells and by 1 to 14 points, while distributed alignment search, trained against the causal model it is scored on, gave the highest mean in fifteen of them
+# THEORY-968: SAE features never beat raw dimensions on MIB
 
 ## Source
 

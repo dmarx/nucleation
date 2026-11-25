@@ -7,7 +7,15 @@ promote_when: >-
   Layer-drop and adjacent-swap interventions in at least one further
   decoder family showing the same profile, and the stage signatures
   replicated by an independent group.
-title: 'Lad, Lee, Gurnee and Tegmark find that in GPT-2 and Pythia models deleting or swapping a single middle layer at inference leaves most top-1 predictions unchanged while first-layer interventions are catastrophic, and, from this and from probes, logit-lens and neuron statistics across 16 models in five families, hypothesize four ordered stages of inference: detokenization, feature engineering, prediction ensembling and residual sharpening'
+title: 'Single middle layers are removable; first isn''t'
+statement: >-
+  Lad, Lee, Gurnee and Tegmark find that in GPT-2 and Pythia models deleting
+  or swapping a single middle layer at inference leaves most top-1
+  predictions unchanged while first-layer interventions are catastrophic,
+  and, from this and from probes, logit-lens and neuron statistics across 16
+  models in five families, hypothesize four ordered stages of inference:
+  detokenization, feature engineering, prediction ensembling and residual
+  sharpening
 version: 1
 tags:
 - representation-learning
@@ -23,7 +31,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1030 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-771 THEORY-2140 THEORY-2145 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
-# THEORY-2144: Lad, Lee, Gurnee and Tegmark find that in GPT-2 and Pythia models deleting or swapping a single middle layer at inference leaves most top-1 predictions unchanged while first-layer interventions are catastrophic, and, from this and from probes, logit-lens and neuron statistics across 16 models in five families, hypothesize four ordered stages of inference: detokenization, feature engineering, prediction ensembling and residual sharpening
+# THEORY-2144: Single middle layers are removable; first isn't
 
 ## Source
 

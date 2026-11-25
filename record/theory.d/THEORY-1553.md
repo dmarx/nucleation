@@ -10,7 +10,11 @@ promote_when: >-
   cost accounted for by the time users spend evaluating, correcting or
   overriding the assistant's output rather than by the tasks' difficulty
   alone.
-title: "Generative AI assistants make easy tasks easier and hard tasks harder for their users, leaving the user the hard share of the work with the added task of evaluating the system's output"
+title: 'Generative AI makes hard tasks harder'
+statement: >-
+  Generative AI assistants make easy tasks easier and hard tasks harder for
+  their users, leaving the user the hard share of the work with the added
+  task of evaluating the system's output
 version: 1
 tags:
 - cognition
@@ -31,7 +35,7 @@ summary: >-
   science and law; the paper runs none.
 ---
 
-# THEORY-1553: Generative AI assistants make easy tasks easier and hard tasks harder for their users, leaving the user the hard share of the work with the added task of evaluating the system's output
+# THEORY-1553: Generative AI makes hard tasks harder
 
 ## Source
 

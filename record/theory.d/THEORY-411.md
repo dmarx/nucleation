@@ -16,7 +16,13 @@ promote_when: >-
   unranked, so that a list or a fixed weighting does the work after all.
   The arithmetic of the four-weight example cannot settle it, since it is
   true whatever the weights are for.
-title: "In Sen's capability approach the weighting of functionings is left to public reasoning, and evaluation can still guide action without agreement on weights: where every weighting in an agreed range, or every view by its own argument, ranks one option above another, that ranking holds, so the approach is deliberately incomplete and yields a partial ordering"
+title: 'Capability weights need only a partial ordering'
+statement: >-
+  In Sen's capability approach the weighting of functionings is left to
+  public reasoning, and evaluation can still guide action without agreement
+  on weights: where every weighting in an agreed range, or every view by its
+  own argument, ranks one option above another, that ranking holds, so the
+  approach is deliberately incomplete and yields a partial ordering
 version: 3
 history:
 - version: 2
@@ -58,7 +64,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-1845 THEORY-1852 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-025 THEORY-434 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 
-# THEORY-411: In Sen's capability approach the weighting of functionings is left to public reasoning, and evaluation can still guide action without agreement on weights: where every weighting in an agreed range, or every view by its own argument, ranks one option above another, that ranking holds, so the approach is deliberately incomplete and yields a partial ordering
+# THEORY-411: Capability weights need only a partial ordering
 
 ## Source
 

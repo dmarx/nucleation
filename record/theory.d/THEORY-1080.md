@@ -3,7 +3,15 @@ number: 1080
 status: Active
 formerly:
 - THEORY-tmpleurt
-title: 'In relational quantum mechanics as Rovelli first stated it, the relation between two observers'' descriptions is itself a quantum fact relative to a third system, so no observer''s view can be deduced from another''s and there is no description in toto, only a net of partial descriptions; the views are held consistent only in that the third system predicts correlated outcomes, which is shown for a single measurement and asserted in general'
+title: 'No observer''s view is deducible from another''s'
+statement: >-
+  In relational quantum mechanics as Rovelli first stated it, the relation
+  between two observers' descriptions is itself a quantum fact relative to a
+  third system, so no observer's view can be deduced from another's and
+  there is no description in toto, only a net of partial descriptions; the
+  views are held consistent only in that the third system predicts
+  correlated outcomes, which is shown for a single measurement and asserted
+  in general
 version: 2
 history:
 - version: 2
@@ -45,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-621 CLAIM-137 — Proposed; neighbours cited as open -->
 
-# THEORY-1080: In relational quantum mechanics as Rovelli first stated it, the relation between two observers' descriptions is itself a quantum fact relative to a third system, so no observer's view can be deduced from another's and there is no description in toto, only a net of partial descriptions; the views are held consistent only in that the third system predicts correlated outcomes, which is shown for a single measurement and asserted in general
+# THEORY-1080: No observer's view is deducible from another's
 
 ## Source
 

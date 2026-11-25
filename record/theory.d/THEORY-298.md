@@ -13,7 +13,12 @@ promote_when: >-
   settle it: further correlations of posterior or anterior activity with
   reported experience, since those are the evidence whose reach is in
   question.
-title: "Report-based evidence cannot test whether posterior cortex suffices for experience, because report itself needs anterior activity, and no marker that bypasses report has a validation resting neither on introspection nor on a contested theory"
+title: 'Report can''t test posterior sufficiency'
+statement: >-
+  Report-based evidence cannot test whether posterior cortex suffices for
+  experience, because report itself needs anterior activity, and no marker
+  that bypasses report has a validation resting neither on introspection nor
+  on a contested theory
 version: 1
 tags:
 - consciousness
@@ -36,7 +41,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-094 — Proposed; the evidential accounts this one sits beside, open -->
 
-# THEORY-298: Report-based evidence cannot test whether posterior cortex suffices for experience, because report itself needs anterior activity, and no marker that bypasses report has a validation resting neither on introspection nor on a contested theory
+# THEORY-298: Report can't test posterior sufficiency
 
 ## Source
 

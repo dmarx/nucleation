@@ -11,7 +11,12 @@ promote_when: >-
   arranged so the recipient can give back, in kind or onward, reduces
   that effect. A further restatement of Mauss's argument, or another
   single case, does not settle it.
-title: 'An international gift its recipient cannot repay leaves the recipient inferior and the relation resentful, and circular (kula-like) reciprocity that lets the recipient give back is the better design for aid between nations'
+title: 'Unrepayable international gifts breed resentment'
+statement: >-
+  An international gift its recipient cannot repay leaves the recipient
+  inferior and the relation resentful, and circular (kula-like) reciprocity
+  that lets the recipient give back is the better design for aid between
+  nations
 version: 1
 tags:
 - social-science
@@ -30,7 +35,7 @@ summary: >-
   word for word.
 ---
 
-# THEORY-1550: An international gift its recipient cannot repay leaves the recipient inferior and the relation resentful, and circular (kula-like) reciprocity that lets the recipient give back is the better design for aid between nations
+# THEORY-1550: Unrepayable international gifts breed resentment
 
 ## Source
 

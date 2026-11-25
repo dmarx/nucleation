@@ -3,7 +3,15 @@ number: 2056
 status: Proposed
 formerly:
 - THEORY-tmpzauel
-title: 'Yin and colleagues show that when meta-training tasks are not mutually exclusive, MAML and conditional neural processes can learn a single function that solves every training task without using its training data, reaching lower meta-training error than an adapting solution yet failing on new tasks, that standard weight regularization does not prevent this, and that penalizing the information held in the meta-parameters not used for adaptation does'
+title: 'Meta-learners can memorize, ignoring support data'
+statement: >-
+  Yin and colleagues show that when meta-training tasks are not mutually
+  exclusive, MAML and conditional neural processes can learn a single
+  function that solves every training task without using its training data,
+  reaching lower meta-training error than an adapting solution yet failing
+  on new tasks, that standard weight regularization does not prevent this,
+  and that penalizing the information held in the meta-parameters not used
+  for adaptation does
 version: 1
 source:
 - LIT-2838
@@ -35,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2056: Yin and colleagues show that when meta-training tasks are not mutually exclusive, MAML and conditional neural processes can learn a single function that solves every training task without using its training data, reaching lower meta-training error than an adapting solution yet failing on new tasks, that standard weight regularization does not prevent this, and that penalizing the information held in the meta-parameters not used for adaptation does
+# THEORY-2056: Meta-learners can memorize, ignoring support data
 
 ## The account
 

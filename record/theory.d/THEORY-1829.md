@@ -13,7 +13,15 @@ promote_when: >-
   previous-edits term alone, carries the preservation. It does not need
   the authors' account of distribution shift, which the title does not
   assert.
-title: 'On Fang and colleagues, projecting a locate-then-edit weight update onto the null space of the preserved knowledge keys, taken in practice as the eigenvectors of their uncentred covariance with eigenvalues at most 10⁻², and dropping the preservation term from the objective, keeps the edited layer''s outputs on preserved keys nearly unchanged and sustains edit success and general ability over thousands of sequential edits where MEMIT and ROME degrade'
+title: 'Null-space projection sustains sequential edits'
+statement: >-
+  On Fang and colleagues, projecting a locate-then-edit weight update onto
+  the null space of the preserved knowledge keys, taken in practice as the
+  eigenvectors of their uncentred covariance with eigenvalues at most 10⁻²,
+  and dropping the preservation term from the objective, keeps the edited
+  layer's outputs on preserved keys nearly unchanged and sustains edit
+  success and general ability over thousands of sequential edits where MEMIT
+  and ROME degrade
 version: 1
 tags:
 - representation-learning
@@ -31,7 +39,7 @@ summary: >-
   a misstated "best baseline" comparison.
 ---
 
-# THEORY-1829: On Fang and colleagues, projecting a locate-then-edit weight update onto the null space of the preserved knowledge keys, taken in practice as the eigenvectors of their uncentred covariance with eigenvalues at most 10⁻², and dropping the preservation term from the objective, keeps the edited layer's outputs on preserved keys nearly unchanged and sustains edit success and general ability over thousands of sequential edits where MEMIT and ROME degrade
+# THEORY-1829: Null-space projection sustains sequential edits
 
 ## Source
 

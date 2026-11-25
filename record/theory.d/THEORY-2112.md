@@ -3,7 +3,14 @@ number: 2112
 status: Proposed
 formerly:
 - THEORY-tmpj4l2c
-title: 'Rakoczy reviews theory-of-mind development as a perception–goal psychology from about nine months, which supports joint attention and joint intention, followed by explicit belief–desire meta-representation from about age four and a gradual later development of recursive mindreading, and reports that infant implicit false-belief findings have repeatedly failed direct replication'
+title: 'Implicit false-belief findings fail replication'
+statement: >-
+  Rakoczy reviews theory-of-mind development as a perception–goal psychology
+  from about nine months, which supports joint attention and joint
+  intention, followed by explicit belief–desire meta-representation from
+  about age four and a gradual later development of recursive mindreading,
+  and reports that infant implicit false-belief findings have repeatedly
+  failed direct replication
 version: 1
 source:
 - LIT-2911
@@ -21,7 +28,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2112: Rakoczy reviews theory-of-mind development as a perception–goal psychology from about nine months, which supports joint attention and joint intention, followed by explicit belief–desire meta-representation from about age four and a gradual later development of recursive mindreading, and reports that infant implicit false-belief findings have repeatedly failed direct replication
+# THEORY-2112: Implicit false-belief findings fail replication
 
 ## The account
 

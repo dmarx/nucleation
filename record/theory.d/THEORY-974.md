@@ -3,7 +3,15 @@ number: 974
 status: Active
 formerly:
 - THEORY-tmp9ii0y
-title: 'When a transformer''s MLP sublayers are replaced by transcoders and the attention patterns and LayerNorm scales on a prompt are held fixed, the contribution of an earlier transcoder feature at the same token to a later one''s pre-activation is the earlier feature''s activation times the dot product of its decoder with the later feature''s encoder, scaled by one LayerNorm constant per token, so the weight factor is fixed by the trained weights and holds on every input'
+title: 'Transcoder feature edges are input-invariant'
+statement: >-
+  When a transformer's MLP sublayers are replaced by transcoders and the
+  attention patterns and LayerNorm scales on a prompt are held fixed, the
+  contribution of an earlier transcoder feature at the same token to a later
+  one's pre-activation is the earlier feature's activation times the dot
+  product of its decoder with the later feature's encoder, scaled by one
+  LayerNorm constant per token, so the weight factor is fixed by the trained
+  weights and holds on every input
 version: 2
 history:
 - version: 1
@@ -41,7 +49,7 @@ bears_on:
 - QUESTION-275
 ---
 <!-- inactive-ok-file: THEORY-802 — Proposed; the record's own claim and a neighbouring account, named, nothing here rests on them -->
-# THEORY-974: When a transformer's MLP sublayers are replaced by transcoders and the attention patterns and LayerNorm scales on a prompt are held fixed, the contribution of an earlier transcoder feature at the same token to a later one's pre-activation is the earlier feature's activation times the dot product of its decoder with the later feature's encoder, scaled by one LayerNorm constant per token, so the weight factor is fixed by the trained weights and holds on every input
+# THEORY-974: Transcoder feature edges are input-invariant
 
 ## Source
 

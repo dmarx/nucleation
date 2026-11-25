@@ -16,7 +16,14 @@ promote_when: >-
   direction, since the dispute is over what passing would show, and so
   cannot reports that a model passed a game that drops Turing's human
   competitor or time limit.
-title: "Whether a machine thinks is best replaced by whether a digital computer can play the imitation game as well as a man, because the reasons for withholding thought from a machine that does would equally withhold it from other people, whose thinking we also infer from what they say; the objections from consciousness, mathematical limits and informality of behaviour fail on that test or rest on unproved premises"
+title: 'Replace machine thought with the imitation game'
+statement: >-
+  Whether a machine thinks is best replaced by whether a digital computer
+  can play the imitation game as well as a man, because the reasons for
+  withholding thought from a machine that does would equally withhold it
+  from other people, whose thinking we also infer from what they say; the
+  objections from consciousness, mathematical limits and informality of
+  behaviour fail on that test or rest on unproved premises
 version: 1
 tags:
 - cognition
@@ -39,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-092 THEORY-538 THEORY-638 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
-# THEORY-433: Whether a machine thinks is best replaced by whether a digital computer can play the imitation game as well as a man, because the reasons for withholding thought from a machine that does would equally withhold it from other people, whose thinking we also infer from what they say; the objections from consciousness, mathematical limits and informality of behaviour fail on that test or rest on unproved premises
+# THEORY-433: Replace machine thought with the imitation game
 
 ## Source
 

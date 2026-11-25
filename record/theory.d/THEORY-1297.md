@@ -14,7 +14,12 @@ promote_when: >-
   own initiative as readily as on-task thought is changed. A larger or
   smaller 30–50% figure for task-unrelated thought cannot settle it, because
   it does not tell deliberate daydreaming from loss of control.
-title: "Mind-wandering is a recurring loss of M-autonomy, the veto-centred ability to suspend or end one's own ongoing mental processes; on the figures Metzinger uses, it takes about half of conscious time, not the two thirds he states"
+title: 'Mind-wandering takes half, not two-thirds, of time'
+statement: >-
+  Mind-wandering is a recurring loss of M-autonomy, the veto-centred ability
+  to suspend or end one's own ongoing mental processes; on the figures
+  Metzinger uses, it takes about half of conscious time, not the two thirds
+  he states
 version: 2
 history:
 - version: 2
@@ -52,7 +57,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-1300 ARG-051 — Proposed; companion reading and the inference it grounds, cited as open -->
 <!-- inactive-ok-file: THEORY-064 CLAIM-156 — Proposed; readings and claims this one is set beside, cited as open -->
 
-# THEORY-1297: Mind-wandering is a recurring loss of M-autonomy, the veto-centred ability to suspend or end one's own ongoing mental processes; on the figures Metzinger uses, it takes about half of conscious time, not the two thirds he states
+# THEORY-1297: Mind-wandering takes half, not two-thirds, of time
 
 ## Source
 

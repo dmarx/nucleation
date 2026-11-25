@@ -10,7 +10,14 @@ promote_when: >-
   about which new objects are causes. The direction must be the one the
   hierarchical account predicts, and the effect must be larger when the
   test belongs to the same kind of causal system as the training.
-title: 'Lucas and Griffiths propose that people learn the functional form of causal relationships, such as whether causes act disjunctively or conjunctively and how reliably, as abstract theories in a hierarchical Bayesian model, and transfer them to new objects of the same kind, so that evidence about one set of objects changes their causal judgments about a different set'
+title: 'People learn abstract causal functional forms'
+statement: >-
+  Lucas and Griffiths propose that people learn the functional form of
+  causal relationships, such as whether causes act disjunctively or
+  conjunctively and how reliably, as abstract theories in a hierarchical
+  Bayesian model, and transfer them to new objects of the same kind, so that
+  evidence about one set of objects changes their causal judgments about a
+  different set
 version: 1
 history:
 - version: 1
@@ -38,7 +45,7 @@ summary: >-
   is the owner's call.
 ---
 
-# THEORY-1354: Lucas and Griffiths propose that people learn the functional form of causal relationships, such as whether causes act disjunctively or conjunctively and how reliably, as abstract theories in a hierarchical Bayesian model, and transfer them to new objects of the same kind, so that evidence about one set of objects changes their causal judgments about a different set
+# THEORY-1354: People learn abstract causal functional forms
 
 ## Source
 

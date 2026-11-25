@@ -3,7 +3,15 @@ number: 2050
 status: Proposed
 formerly:
 - THEORY-tmpvf16r
-title: 'Akyürek and colleagues show that transformers trained from scratch to do linear regression in context behave like standard estimators chosen by their capacity and the data: deep, wide ones match least squares on noiseless data and the Bayes-optimal ridge predictor under label noise, while one-layer models are closest to a single gradient step and two- to four-layer ones to ridge regression; the least-squares weights and moment vector can be decoded, nonlinearly, from their hidden states'
+title: 'ICL transformers act like standard estimators'
+statement: >-
+  Akyürek and colleagues show that transformers trained from scratch to do
+  linear regression in context behave like standard estimators chosen by
+  their capacity and the data: deep, wide ones match least squares on
+  noiseless data and the Bayes-optimal ridge predictor under label noise,
+  while one-layer models are closest to a single gradient step and two- to
+  four-layer ones to ridge regression; the least-squares weights and moment
+  vector can be decoded, nonlinearly, from their hidden states
 version: 1
 source:
 - LIT-2811
@@ -37,7 +45,7 @@ summary: >-
   [CLAIM-118](../claims.d/CLAIM-118.md)'s split. Read in its NOTE.
 ---
 
-# THEORY-2050: Akyürek and colleagues show that transformers trained from scratch to do linear regression in context behave like standard estimators chosen by their capacity and the data: deep, wide ones match least squares on noiseless data and the Bayes-optimal ridge predictor under label noise, while one-layer models are closest to a single gradient step and two- to four-layer ones to ridge regression; the least-squares weights and moment vector can be decoded, nonlinearly, from their hidden states
+# THEORY-2050: ICL transformers act like standard estimators
 
 ## The account
 

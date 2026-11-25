@@ -12,7 +12,14 @@ promote_when: >-
   random small weights, not aligned with the task's singular vectors. More
   runs from decoupled starts cannot settle it, since there the result is
   already exact.
-title: In a deep linear network trained by gradient descent from generic initial weights, not only from decoupled ones, depth slows learning through the initial end-to-end strength of each mode, so that random orthogonal weights, whose product is an isometry, learn in a number of iterations that stays bounded as depth grows, as Saxe, McClelland and Ganguli argue from simulation
+title: 'Orthogonal init keeps deep linear training fast'
+statement: >-
+  In a deep linear network trained by gradient descent from generic initial
+  weights, not only from decoupled ones, depth slows learning through the
+  initial end-to-end strength of each mode, so that random orthogonal
+  weights, whose product is an isometry, learn in a number of iterations
+  that stays bounded as depth grows, as Saxe, McClelland and Ganguli argue
+  from simulation
 version: 1
 tags:
 - learning-theory
@@ -33,7 +40,7 @@ summary: >-
   simulated and not derived.
 ---
 
-# THEORY-792: In a deep linear network trained by gradient descent from generic initial weights, not only from decoupled ones, depth slows learning through the initial end-to-end strength of each mode, so that random orthogonal weights, whose product is an isometry, learn in a number of iterations that stays bounded as depth grows, as Saxe, McClelland and Ganguli argue from simulation
+# THEORY-792: Orthogonal init keeps deep linear training fast
 
 ## Source
 

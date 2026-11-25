@@ -13,7 +13,14 @@ promote_when: >-
   in the stated direction would count against the account for that kind
   of remedy. Further illustrations of the kind the paper gives do not
   meet this.
-title: 'Remedies for algorithmic governance offered as access or as transparency can run against the people they are meant to serve: inclusion in a data system also gives its operators access to the included, and transparency can be demanded of the governed while the governing system stays opaque, so what an access or transparency remedy does depends on who is made visible to whom'
+title: 'Access and transparency remedies can backfire'
+statement: >-
+  Remedies for algorithmic governance offered as access or as transparency
+  can run against the people they are meant to serve: inclusion in a data
+  system also gives its operators access to the included, and transparency
+  can be demanded of the governed while the governing system stays opaque,
+  so what an access or transparency remedy does depends on who is made
+  visible to whom
 version: 1
 history:
 - version: 1
@@ -39,7 +46,7 @@ summary: >-
   will. It also does not claim that transparency is worthless.
 ---
 
-# THEORY-857: Remedies for algorithmic governance offered as access or as transparency can run against the people they are meant to serve: inclusion in a data system also gives its operators access to the included, and transparency can be demanded of the governed while the governing system stays opaque, so what an access or transparency remedy does depends on who is made visible to whom
+# THEORY-857: Access and transparency remedies can backfire
 
 ## Source
 

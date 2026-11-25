@@ -12,7 +12,12 @@ promote_when: >-
   semantic domain with its own independently grounded meaning space. A
   better fit with a source estimated from the same naming data cannot settle
   it.
-title: The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and differences in one trade-off parameter place each language along it, as Zaslavsky, Kemp, Regier and Tishby propose
+title: 'Colour naming lies near the IB bound'
+statement: >-
+  The colour-naming systems of the world's languages lie near the
+  information-bottleneck bound for compressing perceptual meanings into
+  words, and differences in one trade-off parameter place each language
+  along it, as Zaslavsky, Kemp, Regier and Tishby propose
 version: 1
 tags:
 - linguistics
@@ -37,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2238 — Proposed; the Nafaanra reading filed by LEAD-056 -->
 <!-- inactive-ok-file: LIT-3106 — Unfetched; the Nafaanra paper, not reached -->
 
-# THEORY-791: The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and differences in one trade-off parameter place each language along it, as Zaslavsky, Kemp, Regier and Tishby propose
+# THEORY-791: Colour naming lies near the IB bound
 
 ## Source
 

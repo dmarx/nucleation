@@ -3,7 +3,16 @@ number: 230
 status: Active
 formerly:
 - THEORY-tmpbbojk
-title: 'The Fisher–Rao geometry of a language model''s next-token laws over a set of contexts is a function of those laws alone, so models with identical laws share it, while activation geometry changes under invertible reparameterizations of the hidden layer that leave outputs unchanged; in Picozzi''s ten transformer, state-space and recurrent models it agreed at a mean rank correlation of 0.88 against 0.62 for activation geometry, and about 9% of the top eigenvector overlap exceeded a null matched to the shared laws'
+title: 'Fisher–Rao geometry agrees across LM families'
+statement: >-
+  The Fisher–Rao geometry of a language model's next-token laws over a set
+  of contexts is a function of those laws alone, so models with identical
+  laws share it, while activation geometry changes under invertible
+  reparameterizations of the hidden layer that leave outputs unchanged; in
+  Picozzi's ten transformer, state-space and recurrent models it agreed at a
+  mean rank correlation of 0.88 against 0.62 for activation geometry, and
+  about 9% of the top eigenvector overlap exceeded a null matched to the
+  shared laws
 version: 3
 history:
 - version: 2
@@ -48,7 +57,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-142 CLAIM-193 CLAIM-209 THEORY-002 — Open or Proposed; cited for context, nothing here rests on them -->
 
-# THEORY-230: The Fisher–Rao geometry of a language model's next-token laws over a set of contexts is a function of those laws alone, so models with identical laws share it, while activation geometry changes under invertible reparameterizations of the hidden layer that leave outputs unchanged; in Picozzi's ten transformer, state-space and recurrent models it agreed at a mean rank correlation of 0.88 against 0.62 for activation geometry, and about 9% of the top eigenvector overlap exceeded a null matched to the shared laws
+# THEORY-230: Fisher–Rao geometry agrees across LM families
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1566
 status: Active
 formerly:
 - THEORY-tmp2jk4m
-title: 'Tarsney argues that the chance an intervention''s effect is nullified acts as an exponential discount, so that under expectational utilitarianism and deliberately pessimistic inputs existential-risk reduction beats a strong global-health benchmark only if nullifying events are rare, and its robust win rests, on some views, on probabilities of order 10^-18 or less'
+title: 'Nullification acts as an exponential discount'
+statement: >-
+  Tarsney argues that the chance an intervention's effect is nullified acts
+  as an exponential discount, so that under expectational utilitarianism and
+  deliberately pessimistic inputs existential-risk reduction beats a strong
+  global-health benchmark only if nullifying events are rare, and its robust
+  win rests, on some views, on probabilities of order 10^-18 or less
 version: 2
 history:
 - version: 1
@@ -34,7 +40,7 @@ bears_on:
 - QUESTION-299
 ---
 
-# THEORY-1566: Tarsney argues that the chance an intervention's effect is nullified acts as an exponential discount, so that under expectational utilitarianism and deliberately pessimistic inputs existential-risk reduction beats a strong global-health benchmark only if nullifying events are rare, and its robust win rests, on some views, on probabilities of order 10^-18 or less
+# THEORY-1566: Nullification acts as an exponential discount
 
 ## The account
 

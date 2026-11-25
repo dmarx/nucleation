@@ -12,7 +12,11 @@ promote_when: >-
   trouble if a term's use stays fixed when its neighbours come and go.
   Further well-chosen illustrations like Saussure's, and the success of
   analyses that presuppose the account, cannot settle it.
-title: 'In a language a term''s value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value'
+title: 'A term''s value is set by its coexisting terms'
+statement: >-
+  In a language a term's value is fixed by its relations to the coexisting
+  terms of the same system, so terms that share a signification can differ
+  in value
 version: 1
 tags:
 - linguistics
@@ -34,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-3109, LIT-3110, LIT-3112, LIT-3111 — Deferred; registered by LEAD-056, unread -->
 <!-- inactive-ok-file: ARG-205 — Proposed; the support judgement filed by LEAD-056 -->
 
-# THEORY-159: In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value
+# THEORY-159: A term's value is set by its coexisting terms
 
 ## Source
 

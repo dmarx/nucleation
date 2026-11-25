@@ -3,7 +3,14 @@ number: 1212
 status: Proposed
 formerly:
 - THEORY-tmpmkl9i
-title: 'In 30 four-person student groups discussing 15 choice dilemmas, a member''s self-reported closure to influence on the next issue rose with their influence over prior outcomes, increasingly so along the sequence, and the groups'' influence networks thinned and their discussions shortened while the rate of consensus did not change: evidence for a reflected-appraisal step by which influence concentrates in deliberating groups'
+title: 'Influence breeds closure, concentrating power'
+statement: >-
+  In 30 four-person student groups discussing 15 choice dilemmas, a member's
+  self-reported closure to influence on the next issue rose with their
+  influence over prior outcomes, increasingly so along the sequence, and the
+  groups' influence networks thinned and their discussions shortened while
+  the rate of consensus did not change: evidence for a reflected-appraisal
+  step by which influence concentrates in deliberating groups
 version: 1
 tags:
 - social-science
@@ -33,7 +40,7 @@ summary: >-
   the predicted end state was not reached.
 ---
 
-# THEORY-1212: In 30 four-person student groups discussing 15 choice dilemmas, a member's self-reported closure to influence on the next issue rose with their influence over prior outcomes, increasingly so along the sequence, and the groups' influence networks thinned and their discussions shortened while the rate of consensus did not change: evidence for a reflected-appraisal step by which influence concentrates in deliberating groups
+# THEORY-1212: Influence breeds closure, concentrating power
 
 ## Source
 

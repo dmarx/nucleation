@@ -3,7 +3,14 @@ number: 1389
 status: Active
 formerly:
 - THEORY-tmpelyg5
-title: "Connelly and Whiteley prove that for tensegrity frameworks first-order rigidity implies prestress stability, which implies second-order rigidity, which implies rigidity, give bar-framework examples that none of these implications reverses, and prove that whether a first-order flex extends to second order is decided by a Farkas-type test on the framework's proper self-stresses"
+title: 'Tensegrity rigidity notions form a strict chain'
+statement: >-
+  Connelly and Whiteley prove that for tensegrity frameworks first-order
+  rigidity implies prestress stability, which implies second-order rigidity,
+  which implies rigidity, give bar-framework examples that none of these
+  implications reverses, and prove that whether a first-order flex extends
+  to second order is decided by a Farkas-type test on the framework's proper
+  self-stresses
 version: 3
 history:
 - version: 2
@@ -54,7 +61,7 @@ bears_on:
 - QUESTION-389
 ---
 
-# THEORY-1389: Connelly and Whiteley prove that for tensegrity frameworks first-order rigidity implies prestress stability, which implies second-order rigidity, which implies rigidity, give bar-framework examples that none of these implications reverses, and prove that whether a first-order flex extends to second order is decided by a Farkas-type test on the framework's proper self-stresses
+# THEORY-1389: Tensegrity rigidity notions form a strict chain
 
 ## Source
 

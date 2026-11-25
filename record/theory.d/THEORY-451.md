@@ -13,7 +13,15 @@ promote_when: >-
   Illustrative cases such as the mHealth programme cannot settle it, and
   neither can the formal point that a trial's result is not by its method
   about another population, which no party disputes.
-title: "A singular causal claim, that C will contribute or did contribute to E in a particular setting, is warranted only by joint evidence on each step of the causal process there, its causal principle, its support factors and the absence of its derailers, which no single method supplies; a well-run RCT secures at most the study population's average effect, and often not even that rigorously, and its result is not by its method evidence about any other population"
+title: 'Singular causal claims need more than RCTs'
+statement: >-
+  A singular causal claim, that C will contribute or did contribute to E in
+  a particular setting, is warranted only by joint evidence on each step of
+  the causal process there, its causal principle, its support factors and
+  the absence of its derailers, which no single method supplies; a well-run
+  RCT secures at most the study population's average effect, and often not
+  even that rigorously, and its result is not by its method evidence about
+  any other population
 version: 1
 tags:
 - philosophy-of-science
@@ -35,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-079 THEORY-491 THEORY-637 — Proposed; named as neighbouring readings and accounts, nothing here rests on their being settled -->
 
-# THEORY-451: A singular causal claim, that C will contribute or did contribute to E in a particular setting, is warranted only by joint evidence on each step of the causal process there, its causal principle, its support factors and the absence of its derailers, which no single method supplies; a well-run RCT secures at most the study population's average effect, and often not even that rigorously, and its result is not by its method evidence about any other population
+# THEORY-451: Singular causal claims need more than RCTs
 
 ## Source
 

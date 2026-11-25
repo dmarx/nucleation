@@ -3,7 +3,15 @@ number: 387
 status: Active
 formerly:
 - THEORY-tmptzp8y
-title: 'For positive recursive Datalog views under set semantics, deleting every derived tuple that has any derivation through a deleted base fact, then restoring each deleted tuple that still has a derivation from what remains, then adding what insertions derive, leaves exactly the tuples derivable from the new base (E − Δ⁻) ∪ Δ⁺, with no derivation counts stored; the extension to stratified negation and aggregation is asserted, not shown, and the size of the overestimate is not measured'
+title: 'Delete-and-rederive maintains recursive views'
+statement: >-
+  For positive recursive Datalog views under set semantics, deleting every
+  derived tuple that has any derivation through a deleted base fact, then
+  restoring each deleted tuple that still has a derivation from what
+  remains, then adding what insertions derive, leaves exactly the tuples
+  derivable from the new base (E − Δ⁻) ∪ Δ⁺, with no derivation counts
+  stored; the extension to stratified negation and aggregation is asserted,
+  not shown, and the size of the overestimate is not measured
 version: 3
 history:
 - version: 2
@@ -47,7 +55,7 @@ bears_on:
 - QUESTION-188
 ---
 
-# THEORY-387: For positive recursive Datalog views under set semantics, deleting every derived tuple that has any derivation through a deleted base fact, then restoring each deleted tuple that still has a derivation from what remains, then adding what insertions derive, leaves exactly the tuples derivable from the new base (E − Δ⁻) ∪ Δ⁺, with no derivation counts stored; the extension to stratified negation and aggregation is asserted, not shown, and the size of the overestimate is not measured
+# THEORY-387: Delete-and-rederive maintains recursive views
 
 ## Source
 

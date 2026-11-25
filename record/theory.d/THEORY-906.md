@@ -3,7 +3,13 @@ number: 906
 status: Active
 formerly:
 - THEORY-tmpaf612
-title: 'In five formerly stable democracies selected because they later autocratized (South Korea, India, Hungary, Venezuela and Turkey), formal emergency powers, extraordinary powers functionally equivalent to them, and emergency rhetoric each contributed, on the authors'' unsourced country accounts, to weakening democratic institutions'
+title: 'Emergency powers helped erode five democracies'
+statement: >-
+  In five formerly stable democracies selected because they later
+  autocratized (South Korea, India, Hungary, Venezuela and Turkey), formal
+  emergency powers, extraordinary powers functionally equivalent to them,
+  and emergency rhetoric each contributed, on the authors' unsourced country
+  accounts, to weakening democratic institutions
 version: 2
 history:
 - version: 2
@@ -46,7 +52,7 @@ corroborates:
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the claim this bears on, named, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-1229 — Proposed; filed beside this reading by the twenty-third status review: the wider thesis it reports -->
 
-# THEORY-906: In five formerly stable democracies selected because they later autocratized (South Korea, India, Hungary, Venezuela and Turkey), formal emergency powers, extraordinary powers functionally equivalent to them, and emergency rhetoric each contributed, on the authors' unsourced country accounts, to weakening democratic institutions
+# THEORY-906: Emergency powers helped erode five democracies
 
 ## Source
 

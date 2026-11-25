@@ -3,7 +3,11 @@ number: 3
 status: Active
 formerly:
 - THEORY-tmp8uwye
-title: 'Maximizing HSIC between representations and image identity maximizes the average squared MMD between the images'' view distributions, whose kernel mean embeddings exist by the Riesz representation theorem'
+title: 'HSIC with identity maximizes average squared MMD'
+statement: >-
+  Maximizing HSIC between representations and image identity maximizes the
+  average squared MMD between the images' view distributions, whose kernel
+  mean embeddings exist by the Riesz representation theorem
 version: 3
 history:
 - version: 2
@@ -47,7 +51,7 @@ bears_on:
 - QUESTION-052
 ---
 
-# THEORY-003: Maximizing HSIC between representations and image identity maximizes the average squared MMD between the images' view distributions, whose kernel mean embeddings exist by the Riesz representation theorem
+# THEORY-003: HSIC with identity maximizes average squared MMD
 
 ## Source
 

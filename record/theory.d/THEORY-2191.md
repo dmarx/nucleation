@@ -14,7 +14,16 @@ promote_when: >-
   seeds. Not met by a restatement that cites this paper. Not defeated by
   a showing that SGD's stages and the Bayesian posterior's differ, which
   the title does not assert.
-title: "Lee, Smith, Adam and Hoogland find that the Bayesian influence of one training sample on another, estimated as a negative posterior covariance from sampling localized at each checkpoint, changes in sign and magnitude over training: in a two-layer linear network on a hierarchical dataset it flips sign and peaks as each level of the hierarchy is learned, in small language models token-class influences shift around induction-circuit formation, and upweighting induction tokens speeds induction heads in the window where that influence falls and delays them earlier"
+title: 'Bayesian influence flips sign during training'
+statement: >-
+  Lee, Smith, Adam and Hoogland find that the Bayesian influence of one
+  training sample on another, estimated as a negative posterior covariance
+  from sampling localized at each checkpoint, changes in sign and magnitude
+  over training: in a two-layer linear network on a hierarchical dataset it
+  flips sign and peaks as each level of the hierarchy is learned, in small
+  language models token-class influences shift around induction-circuit
+  formation, and upweighting induction tokens speeds induction heads in the
+  window where that influence falls and delays them earlier
 version: 1
 tags:
 - learning-theory
@@ -37,7 +46,7 @@ summary: >-
   Proposed until reproduced.
 ---
 
-# THEORY-2191: Lee, Smith, Adam and Hoogland find that the Bayesian influence of one training sample on another, estimated as a negative posterior covariance from sampling localized at each checkpoint, changes in sign and magnitude over training: in a two-layer linear network on a hierarchical dataset it flips sign and peaks as each level of the hierarchy is learned, in small language models token-class influences shift around induction-circuit formation, and upweighting induction tokens speeds induction heads in the window where that influence falls and delays them earlier
+# THEORY-2191: Bayesian influence flips sign during training
 
 ## Source
 

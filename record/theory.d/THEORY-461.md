@@ -16,7 +16,14 @@ promote_when: >-
   by those markers. Further examples of chatbots ascribing bodily states to
   themselves cannot settle it, since both realist and anti-realist predict
   them.
-title: "If a substantial class of mental states, interoceptive, affective, perceptual and bodily-agentive, depends on an animate body, then today's text-only chatbots lack them and their self-ascriptions of such states are systematically untrue, and users can engage them without false belief by make-believe, as a new kind of interactive, self-involving and blended fictional character"
+title: 'Chatbots'' bodily self-reports are untrue'
+statement: >-
+  If a substantial class of mental states, interoceptive, affective,
+  perceptual and bodily-agentive, depends on an animate body, then today's
+  text-only chatbots lack them and their self-ascriptions of such states are
+  systematically untrue, and users can engage them without false belief by
+  make-believe, as a new kind of interactive, self-involving and blended
+  fictional character
 version: 1
 tags:
 - cognition
@@ -37,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-045 THEORY-490 THEORY-646 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
-# THEORY-461: If a substantial class of mental states, interoceptive, affective, perceptual and bodily-agentive, depends on an animate body, then today's text-only chatbots lack them and their self-ascriptions of such states are systematically untrue, and users can engage them without false belief by make-believe, as a new kind of interactive, self-involving and blended fictional character
+# THEORY-461: Chatbots' bodily self-reports are untrue
 
 ## Source
 

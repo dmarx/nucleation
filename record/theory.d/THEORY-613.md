@@ -13,7 +13,13 @@ promote_when: >-
   individualizing–binding split if that split appears in most non-WEIRD
   networks. Further online samples from the same consortium cannot settle
   it.
-title: "The Moral Foundations Questionnaire-2's six factors, Care, Equality, Proportionality, Loyalty, Authority and Purity, fit across 19 nations, Equality and Proportionality are nearly uncorrelated in WEIRD nations, and the US split between individualizing and binding foundations appears in only three national networks"
+title: 'MFQ-2''s six foundations fit across 19 nations'
+statement: >-
+  The Moral Foundations Questionnaire-2's six factors, Care, Equality,
+  Proportionality, Loyalty, Authority and Purity, fit across 19 nations,
+  Equality and Proportionality are nearly uncorrelated in WEIRD nations, and
+  the US split between individualizing and binding foundations appears in
+  only three national networks
 version: 1
 tags:
 - moral-psychology
@@ -32,7 +38,7 @@ summary: >-
   samples are online and about 200 per nation.
 ---
 
-# THEORY-613: The Moral Foundations Questionnaire-2's six factors, Care, Equality, Proportionality, Loyalty, Authority and Purity, fit across 19 nations, Equality and Proportionality are nearly uncorrelated in WEIRD nations, and the US split between individualizing and binding foundations appears in only three national networks
+# THEORY-613: MFQ-2's six foundations fit across 19 nations
 
 ## Source
 

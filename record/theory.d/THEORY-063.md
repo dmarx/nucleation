@@ -23,7 +23,10 @@ promote_when: >-
   first-hand reading of Being No One (LIT-467, Unavailable) would show what
   the book adds. More arguments that unity is a datum of introspection
   cannot settle it.
-title: "The unity of experience is the integration of one global world-model into a single functional cluster, and it does not require a self-model"
+title: 'Unity of experience needs no self-model'
+statement: >-
+  The unity of experience is the integration of one global world-model into
+  a single functional cluster, and it does not require a self-model
 version: 2
 history:
 - version: 2
@@ -63,7 +66,7 @@ bounds:
 <!-- inactive-ok-file: LIT-467 — Unavailable; Being No One, named as the unread book that could move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 THEORY-064 THEORY-065 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
-# THEORY-063: The unity of experience is the integration of one global world-model into a single functional cluster, and it does not require a self-model
+# THEORY-063: Unity of experience needs no self-model
 
 ## Which unity this is about
 

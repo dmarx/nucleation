@@ -3,7 +3,15 @@ number: 1103
 status: Active
 formerly:
 - THEORY-tmpehubi
-title: 'On Shigenobu and colleagues'' genome of Buchnera sp. APS, the aphid symbiont keeps the genes for the amino acids its host cannot make and has lost almost all of those its host can, uses host-made glutamate and aspartate as precursors, and lacks phospholipid synthesis and nearly all its own transcriptional regulators, so that its metabolism interlocks with the host''s and it presumably lives only inside the bacteriocyte, a state reached by gene loss from an E. coli-like ancestor'
+title: 'Buchnera keeps only what its host lacks'
+statement: >-
+  On Shigenobu and colleagues' genome of Buchnera sp. APS, the aphid
+  symbiont keeps the genes for the amino acids its host cannot make and has
+  lost almost all of those its host can, uses host-made glutamate and
+  aspartate as precursors, and lacks phospholipid synthesis and nearly all
+  its own transcriptional regulators, so that its metabolism interlocks with
+  the host's and it presumably lives only inside the bacteriocyte, a state
+  reached by gene loss from an E. coli-like ancestor
 version: 2
 history:
 - version: 1
@@ -58,7 +66,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1219 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: CASE-173 LIT-1573 — Open, Proposed or Unfetched; the question, case, account and unread work this is set beside, nothing here rests on them -->
-# THEORY-1103: On Shigenobu and colleagues' genome of Buchnera sp. APS, the aphid symbiont keeps the genes for the amino acids its host cannot make and has lost almost all of those its host can, uses host-made glutamate and aspartate as precursors, and lacks phospholipid synthesis and nearly all its own transcriptional regulators, so that its metabolism interlocks with the host's and it presumably lives only inside the bacteriocyte, a state reached by gene loss from an E. coli-like ancestor
+# THEORY-1103: Buchnera keeps only what its host lacks
 
 ## Source
 

@@ -8,7 +8,13 @@ promote_when: >-
   out (the chapters on tribal and ancient societies, the religiosity
   scale and most of the results chapters' text), finds nothing that
   changes the report as the title states.
-title: 'Sturesteps reports that in 440 Australian adults having a mode of symbolic immortality in one''s life, such as children, predicted accepting it as consolation in imagined terminal illness, that accepting the biological, creative and nature modes went with accepting death as final, and that the modes predicted death anxiety and personality only weakly'
+title: 'Lived immortality modes predict their consolation'
+statement: >-
+  Sturesteps reports that in 440 Australian adults having a mode of symbolic
+  immortality in one's life, such as children, predicted accepting it as
+  consolation in imagined terminal illness, that accepting the biological,
+  creative and nature modes went with accepting death as final, and that the
+  modes predicted death anxiety and personality only weakly
 version: 1
 history:
 - version: 1
@@ -37,7 +43,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-1714 NOTE-1312 — Skimmed or Unavailable; the works, notes, questions and claims the reading cites, cited with their standing -->
 
-# THEORY-1631: Sturesteps reports that in 440 Australian adults having a mode of symbolic immortality in one's life, such as children, predicted accepting it as consolation in imagined terminal illness, that accepting the biological, creative and nature modes went with accepting death as final, and that the modes predicted death anxiety and personality only weakly
+# THEORY-1631: Lived immortality modes predict their consolation
 
 ## The account
 

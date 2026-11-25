@@ -3,7 +3,14 @@ number: 1858
 status: Proposed
 formerly:
 - THEORY-tmpvajjd
-title: 'Lanier argues that cybernetic totalism, the cluster of beliefs that people are information patterns, that subjective experience does not matter, that Darwinian algorithms describe all creativity and that computing power will soon bring a cataclysm, is a dogma, that real software resists improvement through legacy and lock-in, and that criticizing the dogma is not rejecting digital technology'
+title: 'Cybernetic totalism is dogma, not technology'
+statement: >-
+  Lanier argues that cybernetic totalism, the cluster of beliefs that people
+  are information patterns, that subjective experience does not matter, that
+  Darwinian algorithms describe all creativity and that computing power will
+  soon bring a cataclysm, is a dogma, that real software resists improvement
+  through legacy and lock-in, and that criticizing the dogma is not
+  rejecting digital technology
 version: 1
 source:
 - LIT-2579
@@ -23,7 +30,7 @@ summary: >-
   ([LIT-2582](../literature.d/LIT-2582.md)).
 ---
 
-# THEORY-1858: Lanier argues that cybernetic totalism, the cluster of beliefs that people are information patterns, that subjective experience does not matter, that Darwinian algorithms describe all creativity and that computing power will soon bring a cataclysm, is a dogma, that real software resists improvement through legacy and lock-in, and that criticizing the dogma is not rejecting digital technology
+# THEORY-1858: Cybernetic totalism is dogma, not technology
 
 ## The account
 

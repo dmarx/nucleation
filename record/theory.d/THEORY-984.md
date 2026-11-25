@@ -3,7 +3,16 @@ number: 984
 status: Active
 formerly:
 - THEORY-tmpgx2s5
-title: 'In Claude 3.5 Haiku, on the prompt "Fact: the capital of the state containing Dallas is", which it completes with "Austin", an attribution graph shows Dallas features activating Texas features that, with "say a capital" features, promote Austin, beside a direct edge from Dallas to "say Austin"; inhibiting the Dallas features lowers the Texas features and leaves "say a capital" largely intact, and replacing the Texas features with those of California, Georgia, British Columbia, China or the Byzantine Empire makes the model name that place''s capital'
+title: 'Haiku composes Dallas→Texas→Austin in two hops'
+statement: >-
+  In Claude 3.5 Haiku, on the prompt "Fact: the capital of the state
+  containing Dallas is", which it completes with "Austin", an attribution
+  graph shows Dallas features activating Texas features that, with "say a
+  capital" features, promote Austin, beside a direct edge from Dallas to
+  "say Austin"; inhibiting the Dallas features lowers the Texas features and
+  leaves "say a capital" largely intact, and replacing the Texas features
+  with those of California, Georgia, British Columbia, China or the
+  Byzantine Empire makes the model name that place's capital
 version: 1
 history:
 - version: 1
@@ -30,7 +39,7 @@ summary: >-
   two steps, nor that the shortcut path is weak.
 ---
 <!-- inactive-ok-file: THEORY-982 — Proposed; the wider thesis, cited as open -->
-# THEORY-984: In Claude 3.5 Haiku, on the prompt "Fact: the capital of the state containing Dallas is", which it completes with "Austin", an attribution graph shows Dallas features activating Texas features that, with "say a capital" features, promote Austin, beside a direct edge from Dallas to "say Austin"; inhibiting the Dallas features lowers the Texas features and leaves "say a capital" largely intact, and replacing the Texas features with those of California, Georgia, British Columbia, China or the Byzantine Empire makes the model name that place's capital
+# THEORY-984: Haiku composes Dallas→Texas→Austin in two hops
 
 ## Source
 

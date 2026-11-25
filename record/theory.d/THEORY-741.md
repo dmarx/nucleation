@@ -3,7 +3,14 @@ number: 741
 status: Active
 formerly:
 - THEORY-tmpettm0
-title: "A two-layer ReLU student of width at least kM, fitting an orthonormal teacher of M neurons on the sphere, has for any k global minima a global minimum joined to each by a two-piece linear path of minima; and in a deep linear network of depth L and width above 1 + r(L − 1), any r global minima in general position share a global minimum linearly connected to each"
+title: 'Wide nets'' global minima share a linked minimum'
+statement: >-
+  A two-layer ReLU student of width at least kM, fitting an orthonormal
+  teacher of M neurons on the sphere, has for any k global minima a global
+  minimum joined to each by a two-piece linear path of minima; and in a deep
+  linear network of depth L and width above 1 + r(L − 1), any r global
+  minima in general position share a global minimum linearly connected to
+  each
 version: 1
 history:
 - version: 1
@@ -36,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-110 THEORY-109 — Proposed; the conjecture this was split from, and the precedent named in its history, neither leaned on -->
 
-# THEORY-741: A two-layer ReLU student of width at least kM, fitting an orthonormal teacher of M neurons on the sphere, has for any k global minima a global minimum joined to each by a two-piece linear path of minima; and in a deep linear network of depth L and width above 1 + r(L − 1), any r global minima in general position share a global minimum linearly connected to each
+# THEORY-741: Wide nets' global minima share a linked minimum
 
 ## Source
 

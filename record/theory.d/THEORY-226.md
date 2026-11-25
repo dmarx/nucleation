@@ -14,7 +14,11 @@ promote_when: >-
   one topic (self-driving cars). What cannot settle it: more PCA arrow
   plots, judge-labelled stance alone, or worked examples of changed
   sentences, which are evidence of a different and stronger claim.
-title: "LLM revisions of an essay move it further in sentence-embedding space than its author's own revision does, and in a direction shared across essays, models and prompts"
+title: 'LLM revisions move essays in a shared direction'
+statement: >-
+  LLM revisions of an essay move it further in sentence-embedding space than
+  its author's own revision does, and in a direction shared across essays,
+  models and prompts
 version: 1
 tags:
 - translation
@@ -34,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-147 THEORY-173 — Open or Proposed; the question, claims and account this bears on, named and not leaned on -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
-# THEORY-226: LLM revisions of an essay move it further in sentence-embedding space than its author's own revision does, and in a direction shared across essays, models and prompts
+# THEORY-226: LLM revisions move essays in a shared direction
 
 ## Source
 

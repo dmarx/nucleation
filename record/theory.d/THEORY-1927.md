@@ -3,7 +3,16 @@ number: 1927
 status: Proposed
 formerly:
 - THEORY-tmpcqstf
-title: 'Ensign, Friedler, Neville, Scheidegger and Venkatasubramanian prove that, in an urn model of predictive policing that learns only from incidents its own patrols discover, deployment converges on whichever region started ahead when crime rates are equal and on the higher-rate region however slight the difference when they are not, so the system learns where it looked rather than where crime is, and that discarding discovered incidents in proportion to patrol probability restores convergence to the true rates'
+title: 'Predictive policing learns where it looked'
+statement: >-
+  Ensign, Friedler, Neville, Scheidegger and Venkatasubramanian prove that,
+  in an urn model of predictive policing that learns only from incidents its
+  own patrols discover, deployment converges on whichever region started
+  ahead when crime rates are equal and on the higher-rate region however
+  slight the difference when they are not, so the system learns where it
+  looked rather than where crime is, and that discarding discovered
+  incidents in proportion to patrol probability restores convergence to the
+  true rates
 version: 2
 history:
 - version: 2
@@ -39,7 +48,7 @@ corroborates:
 ---
 <!-- unresolved-ok-file: THEORY-tmp0xl3k — removed at the reconciliation of 2026-11-18; named for provenance -->
 
-# THEORY-1927: Ensign, Friedler, Neville, Scheidegger and Venkatasubramanian prove that, in an urn model of predictive policing that learns only from incidents its own patrols discover, deployment converges on whichever region started ahead when crime rates are equal and on the higher-rate region however slight the difference when they are not, so the system learns where it looked rather than where crime is, and that discarding discovered incidents in proportion to patrol probability restores convergence to the true rates
+# THEORY-1927: Predictive policing learns where it looked
 
 ## Source
 

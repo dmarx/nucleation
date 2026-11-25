@@ -13,7 +13,12 @@ promote_when: >-
   no joint distribution. What cannot settle it: contextual examples on
   cyclic scenarios such as CHSH or KCBS, which the claim does not
   cover.
-title: 'A measurement scenario whose compatibility hypergraph is acyclic admits no contextuality: locally consistent context distributions always glue to a global one, so a contextual scenario needs an induced cycle of length at least four'
+title: 'Acyclic scenarios admit no contextuality'
+statement: >-
+  A measurement scenario whose compatibility hypergraph is acyclic admits no
+  contextuality: locally consistent context distributions always glue to a
+  global one, so a contextual scenario needs an induced cycle of length at
+  least four
 version: 1
 tags:
 - contextuality
@@ -33,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-013 — Proposed; the account of context-dependent marginals named as outside this one -->
 
-# THEORY-303: A measurement scenario whose compatibility hypergraph is acyclic admits no contextuality: locally consistent context distributions always glue to a global one, so a contextual scenario needs an induced cycle of length at least four
+# THEORY-303: Acyclic scenarios admit no contextuality
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 181
 status: Active
 formerly:
 - THEORY-tmps9ng8
-title: "In a model that decodes the sum of two learned embeddings, at zero training loss with an injective decoder, a training set fixes the generalising representation of addition when its same-answer pairs leave only translation and scale free; for non-modular addition with p = 10 and one-dimensional embeddings, generalisation sets in near the training fraction, about 0.4, at which that becomes likely"
+title: 'Addition generalises when pairs pin translation'
+statement: >-
+  In a model that decodes the sum of two learned embeddings, at zero
+  training loss with an injective decoder, a training set fixes the
+  generalising representation of addition when its same-answer pairs leave
+  only translation and scale free; for non-modular addition with p = 10 and
+  one-dimensional embeddings, generalisation sets in near the training
+  fraction, about 0.4, at which that becomes likely
 version: 4
 history:
 - version: 2
@@ -57,7 +64,7 @@ bears_on:
 
 <!-- inactive-ok-file: THEORY-022 — Proposed; named as the neighbouring account of the modular-addition circuit -->
 
-# THEORY-181: In a model that decodes the sum of two learned embeddings, at zero training loss with an injective decoder, a training set fixes the generalising representation of addition when its same-answer pairs leave only translation and scale free; for non-modular addition with p = 10 and one-dimensional embeddings, generalisation sets in near the training fraction, about 0.4, at which that becomes likely
+# THEORY-181: Addition generalises when pairs pin translation
 
 ## Source
 

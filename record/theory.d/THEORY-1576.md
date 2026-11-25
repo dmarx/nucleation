@@ -3,7 +3,12 @@ number: 1576
 status: Active
 formerly:
 - THEORY-tmp6sfo0
-title: 'Heard and Martienssen argue that an effect is transgenerational only in a generation never exposed to the trigger, and that two rounds of epigenetic reprogramming in mammals leave little chance for such inheritance, which is well documented in plants and nematodes and rare in mammals'
+title: 'Transgenerational inheritance is rare in mammals'
+statement: >-
+  Heard and Martienssen argue that an effect is transgenerational only in a
+  generation never exposed to the trigger, and that two rounds of epigenetic
+  reprogramming in mammals leave little chance for such inheritance, which
+  is well documented in plants and nematodes and rare in mammals
 version: 2
 history:
 - version: 1
@@ -33,7 +38,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1576: Heard and Martienssen argue that an effect is transgenerational only in a generation never exposed to the trigger, and that two rounds of epigenetic reprogramming in mammals leave little chance for such inheritance, which is well documented in plants and nematodes and rare in mammals
+# THEORY-1576: Transgenerational inheritance is rare in mammals
 
 ## The account
 

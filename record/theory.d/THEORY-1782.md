@@ -3,7 +3,13 @@ number: 1782
 status: Proposed
 formerly:
 - THEORY-tmpovyed
-title: 'Zhu and colleagues (2025) find, across six collaborative and competitive scenarios, that LLM multi-agent task success depends mainly on the underlying model rather than on coordination, that a graph-mesh topology does best and group-discussion planning worst in their research scenario, and that adding agents beyond a few lowers milestone achievement.'
+title: 'Agent teams succeed by model, not coordination'
+statement: >-
+  Zhu and colleagues (2025) find, across six collaborative and competitive
+  scenarios, that LLM multi-agent task success depends mainly on the
+  underlying model rather than on coordination, that a graph-mesh topology
+  does best and group-discussion planning worst in their research scenario,
+  and that adding agents beyond a few lowers milestone achievement.
 version: 1
 tags:
 - agency
@@ -23,7 +29,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1782: Zhu and colleagues (2025) find, across six collaborative and competitive scenarios, that LLM multi-agent task success depends mainly on the underlying model rather than on coordination, that a graph-mesh topology does best and group-discussion planning worst in their research scenario, and that adding agents beyond a few lowers milestone achievement.
+# THEORY-1782: Agent teams succeed by model, not coordination
 
 ## The account
 

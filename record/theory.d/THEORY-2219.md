@@ -3,7 +3,15 @@ number: 2219
 status: Proposed
 formerly:
 - THEORY-tmpkdnvu
-title: 'Ivern and Carbonell (2026), scoping 72 empirical studies of 2017–2026, catalogue 136 loot-box design features that the literature treats as problematic, in six categories (obfuscation, psychological manipulation, social influence and promotion, value, data or engagement manipulation, self-regulation obstacles, gambling resemblance), and find that the separate and joint effects of these features on players are largely unstudied'
+title: 'Loot-box design features are largely unstudied'
+statement: >-
+  Ivern and Carbonell (2026), scoping 72 empirical studies of 2017–2026,
+  catalogue 136 loot-box design features that the literature treats as
+  problematic, in six categories (obfuscation, psychological manipulation,
+  social influence and promotion, value, data or engagement manipulation,
+  self-regulation obstacles, gambling resemblance), and find that the
+  separate and joint effects of these features on players are largely
+  unstudied
 version: 1
 source:
 - LIT-2447
@@ -26,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-248 — Proposed; the case this reading bears on -->
 
-# THEORY-2219: Ivern and Carbonell (2026), scoping 72 empirical studies of 2017–2026, catalogue 136 loot-box design features that the literature treats as problematic, in six categories (obfuscation, psychological manipulation, social influence and promotion, value, data or engagement manipulation, self-regulation obstacles, gambling resemblance), and find that the separate and joint effects of these features on players are largely unstudied
+# THEORY-2219: Loot-box design features are largely unstudied
 
 ## The account
 

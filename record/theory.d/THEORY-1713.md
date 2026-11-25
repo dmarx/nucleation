@@ -3,7 +3,14 @@ number: 1713
 status: Proposed
 formerly:
 - THEORY-tmpw7q6c
-title: 'Greely argues that the Alabama Supreme Court''s LePage decision only extended a punitive-damages wrongful-death action to negligently destroyed frozen embryos and would not have ended IVF, but that its language provoked an overreaction ending in a statute that immunizes IVF providers far more than negligence warrants, and that broad political support keeps IVF largely safe in the United States.'
+title: 'LePage wouldn''t have ended IVF; law overreacted'
+statement: >-
+  Greely argues that the Alabama Supreme Court's LePage decision only
+  extended a punitive-damages wrongful-death action to negligently destroyed
+  frozen embryos and would not have ended IVF, but that its language
+  provoked an overreaction ending in a statute that immunizes IVF providers
+  far more than negligence warrants, and that broad political support keeps
+  IVF largely safe in the United States.
 version: 1
 source:
 - LIT-2399
@@ -25,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1733 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1713: Greely argues that the Alabama Supreme Court's LePage decision only extended a punitive-damages wrongful-death action to negligently destroyed frozen embryos and would not have ended IVF, but that its language provoked an overreaction ending in a statute that immunizes IVF providers far more than negligence warrants, and that broad political support keeps IVF largely safe in the United States.
+# THEORY-1713: LePage wouldn't have ended IVF; law overreacted
 
 ## The account
 

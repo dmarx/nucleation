@@ -9,7 +9,14 @@ promote_when: >-
   function belongs to the concept, and its report that agency and dignity
   grounds each seem to need supplementing. The title asserts the entry's
   characterization, not its correctness.
-title: 'Nickel and Etinson characterize human rights as plural, universal, high-priority rights held independently of whether local law, practice or morality recognizes them, deny that inalienability, minimalism or a political function belongs to the concept, and report that the grounds offered for them vary and that agency and dignity each seem to need supplementing'
+title: 'Human rights are universal, high-priority, plural'
+statement: >-
+  Nickel and Etinson characterize human rights as plural, universal,
+  high-priority rights held independently of whether local law, practice or
+  morality recognizes them, deny that inalienability, minimalism or a
+  political function belongs to the concept, and report that the grounds
+  offered for them vary and that agency and dignity each seem to need
+  supplementing
 version: 1
 tags:
 - ethics
@@ -29,7 +36,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 
-# THEORY-1964: Nickel and Etinson characterize human rights as plural, universal, high-priority rights held independently of whether local law, practice or morality recognizes them, deny that inalienability, minimalism or a political function belongs to the concept, and report that the grounds offered for them vary and that agency and dignity each seem to need supplementing
+# THEORY-1964: Human rights are universal, high-priority, plural
 
 Nickel & Etinson, "Human Rights" (SEP, 2024 revision), [LIT-2743](../literature.d/LIT-2743.md).
 

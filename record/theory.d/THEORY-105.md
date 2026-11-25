@@ -3,7 +3,15 @@ number: 105
 status: Active
 formerly:
 - THEORY-tmp5fzhc
-title: "For RoBERTa-base fine-tuned on English classification data, with loss measured by a linear probe refitted on the frozen encoder, points sampled from the convex hull of models fine-tuned on one dataset, one task family or twelve GLUE and SuperGLUE datasets lost no more than any model fine-tuned elsewhere and beat the group's own members in 88% to 96.7% of comparisons, and the centroid of the general-level models was a better starting point for BitFit than the pretrained model"
+title: 'Fine-tuned hull points beat their own members'
+statement: >-
+  For RoBERTa-base fine-tuned on English classification data, with loss
+  measured by a linear probe refitted on the frozen encoder, points sampled
+  from the convex hull of models fine-tuned on one dataset, one task family
+  or twelve GLUE and SuperGLUE datasets lost no more than any model
+  fine-tuned elsewhere and beat the group's own members in 88% to 96.7% of
+  comparisons, and the centroid of the general-level models was a better
+  starting point for BitFit than the pretrained model
 version: 2
 history:
 - version: 2
@@ -46,7 +54,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-828 — Proposed; the geometric thesis this narrowing dropped, named in the promotion note -->
 <!-- inactive-ok-file: THEORY-115 THEORY-107 THEORY-110 — Proposed; the account this one extends and siblings named in Connections, nothing here rests on their open parts -->
 
-# THEORY-105: For RoBERTa-base fine-tuned on English classification data, with loss measured by a linear probe refitted on the frozen encoder, points sampled from the convex hull of models fine-tuned on one dataset, one task family or twelve GLUE and SuperGLUE datasets lost no more than any model fine-tuned elsewhere and beat the group's own members in 88% to 96.7% of comparisons, and the centroid of the general-level models was a better starting point for BitFit than the pretrained model
+# THEORY-105: Fine-tuned hull points beat their own members
 
 ## Source
 

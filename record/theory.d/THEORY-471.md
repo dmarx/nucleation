@@ -3,7 +3,13 @@ number: 471
 status: Active
 formerly:
 - THEORY-tmp91cqx
-title: "Psychological states are not the machine-table states of an organism's unique best description as a probabilistic automaton, because some are never occurrent, several hold at once, there are indefinitely many and they contain one another, none of which a machine-table state can be; this leaves open that they are computational states of such a system"
+title: 'Mental states aren''t machine-table states'
+statement: >-
+  Psychological states are not the machine-table states of an organism's
+  unique best description as a probabilistic automaton, because some are
+  never occurrent, several hold at once, there are indefinitely many and
+  they contain one another, none of which a machine-table state can be; this
+  leaves open that they are computational states of such a system
 version: 1
 tags:
 - cognition
@@ -25,7 +31,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-335 — Skimmed; the excerpt of Putnam's paper, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-043 THEORY-092 — Proposed; accounts this one narrows or sits beside, named in Connections, not leaned on -->
 
-# THEORY-471: Psychological states are not the machine-table states of an organism's unique best description as a probabilistic automaton, because some are never occurrent, several hold at once, there are indefinitely many and they contain one another, none of which a machine-table state can be; this leaves open that they are computational states of such a system
+# THEORY-471: Mental states aren't machine-table states
 
 ## Source
 

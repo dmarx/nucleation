@@ -3,7 +3,15 @@ number: 922
 status: Active
 formerly:
 - THEORY-tmpxv4qd
-title: "Among 56 of 88 patients in one DBT intensive outpatient programme, kept because they finished a four-month cycle and gave enough diary data, skills-homework completion in months 1–3 correlated with larger falls in suicide and substance-use urges (r ≈ .35) and phone-coaching frequency with a larger fall in self-harm urges (r = .31); neither correlated with change in how often the behaviours occurred, and only homework separated patients with and without a target behaviour in month 4"
+title: 'DBT homework tracks falling urges, not acts'
+statement: >-
+  Among 56 of 88 patients in one DBT intensive outpatient programme, kept
+  because they finished a four-month cycle and gave enough diary data,
+  skills-homework completion in months 1–3 correlated with larger falls in
+  suicide and substance-use urges (r ≈ .35) and phone-coaching frequency
+  with a larger fall in self-harm urges (r = .31); neither correlated with
+  change in how often the behaviours occurred, and only homework separated
+  patients with and without a target behaviour in month 4
 version: 3
 history:
 - version: 2
@@ -45,7 +53,7 @@ bounds:
 - CLAIM-551
 ---
 
-# THEORY-922: Among 56 of 88 patients in one DBT intensive outpatient programme, kept because they finished a four-month cycle and gave enough diary data, skills-homework completion in months 1–3 correlated with larger falls in suicide and substance-use urges (r ≈ .35) and phone-coaching frequency with a larger fall in self-harm urges (r = .31); neither correlated with change in how often the behaviours occurred, and only homework separated patients with and without a target behaviour in month 4
+# THEORY-922: DBT homework tracks falling urges, not acts
 
 ## Source
 

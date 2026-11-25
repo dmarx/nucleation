@@ -3,7 +3,11 @@ number: 1755
 status: Proposed
 formerly:
 - THEORY-tmpdui86
-title: 'Boult et al. (2019) argue that a classifier that labels the whole input space, including the region far from its training data, has unbounded open space risk'
+title: 'Closed-set classifiers have unbounded open risk'
+statement: >-
+  Boult et al. (2019) argue that a classifier that labels the whole input
+  space, including the region far from its training data, has unbounded open
+  space risk
 version: 1
 tags:
 - learning-theory
@@ -20,7 +24,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1755: Boult et al. (2019) argue that a classifier that labels the whole input space, including the region far from its training data, has unbounded open space risk
+# THEORY-1755: Closed-set classifiers have unbounded open risk
 
 ## The account
 

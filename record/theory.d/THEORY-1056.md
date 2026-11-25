@@ -14,7 +14,17 @@ promote_when: >-
   More simulations at fixed n do not settle it, and neither does the ratio
   (5.34) as the paper states it, since it compares thresholds for an
   above-random correlation and for correct decoding.
-title: 'In angular synchronization with outlier offsets, a polynomial-time spectral relaxation, the top eigenvector of the Hermitian matrix of measured phase offsets, recovers the angles once the share of good offsets exceeds about 1/√n on the complete graph, within a factor √((L − 1)/(2 log₂ L)) of the information bound that limits every algorithm, while exact maximum likelihood is a non-convex search costing O(mLⁿ) exhaustively; in this model the price of recovering the global configuration cheaply instead of optimally is a constant factor in evidence, which vanishes for L ≤ 6'
+title: 'Spectral synchronization is near-optimal'
+statement: >-
+  In angular synchronization with outlier offsets, a polynomial-time
+  spectral relaxation, the top eigenvector of the Hermitian matrix of
+  measured phase offsets, recovers the angles once the share of good offsets
+  exceeds about 1/√n on the complete graph, within a factor √((L − 1)/(2
+  log₂ L)) of the information bound that limits every algorithm, while exact
+  maximum likelihood is a non-convex search costing O(mLⁿ) exhaustively; in
+  this model the price of recovering the global configuration cheaply
+  instead of optimally is a constant factor in evidence, which vanishes for
+  L ≤ 6
 version: 1
 tags:
 - mathematics
@@ -34,7 +44,7 @@ summary: >-
   fine angular resolution.
 ---
 
-# THEORY-1056: In angular synchronization with outlier offsets, a polynomial-time spectral relaxation, the top eigenvector of the Hermitian matrix of measured phase offsets, recovers the angles once the share of good offsets exceeds about 1/√n on the complete graph, within a factor √((L − 1)/(2 log₂ L)) of the information bound that limits every algorithm, while exact maximum likelihood is a non-convex search costing O(mLⁿ) exhaustively; in this model the price of recovering the global configuration cheaply instead of optimally is a constant factor in evidence, which vanishes for L ≤ 6
+# THEORY-1056: Spectral synchronization is near-optimal
 
 ## Source
 

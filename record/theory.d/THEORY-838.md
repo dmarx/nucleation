@@ -10,7 +10,12 @@ promote_when: >-
   which changes in a medium's emphasis precede changes in its own
   audience's ranking, with exposure measured per person. Further aggregate
   cross-sectional correlations, however high, do not settle it.
-title: 'The emphasis the news media give to issues raises the importance their audiences assign those issues, independently of any change in the audiences'' attitudes toward the issues: the media influence what people think about more than what they think'
+title: 'Media set what people think about, not what'
+statement: >-
+  The emphasis the news media give to issues raises the importance their
+  audiences assign those issues, independently of any change in the
+  audiences' attitudes toward the issues: the media influence what people
+  think about more than what they think
 version: 1
 history:
 - version: 1
@@ -35,7 +40,7 @@ summary: >-
   later literature the programme produced is not read here.
 ---
 
-# THEORY-838: The emphasis the news media give to issues raises the importance their audiences assign those issues, independently of any change in the audiences' attitudes toward the issues: the media influence what people think about more than what they think
+# THEORY-838: Media set what people think about, not what
 
 ## Source
 

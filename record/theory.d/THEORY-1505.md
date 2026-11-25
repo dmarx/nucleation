@@ -3,7 +3,19 @@ number: 1505
 status: Active
 formerly:
 - THEORY-tmplod57
-title: 'Bleakley and Lin find that US cities at historical portage sites, whose transport advantage ended with canals and railroads by about 1900, remain 60–100% denser than comparable sites in the same river watersheds, increasingly so relative to 1850, are neither oversupplied nor cheap in housing, infrastructure or other sunk assets conditional on density, and grow like comparably dense places from about 1930, with no effect where the upstream watershed was smallest; they read this as path dependence under strong local increasing returns, with portage a coordination device that selected the high-density equilibrium, rather than slow reversion through sunk capital, while granting that their results are not direct evidence of multiple equilibria'
+title: 'Portage cities stay dense by path dependence'
+statement: >-
+  Bleakley and Lin find that US cities at historical portage sites, whose
+  transport advantage ended with canals and railroads by about 1900, remain
+  60–100% denser than comparable sites in the same river watersheds,
+  increasingly so relative to 1850, are neither oversupplied nor cheap in
+  housing, infrastructure or other sunk assets conditional on density, and
+  grow like comparably dense places from about 1930, with no effect where
+  the upstream watershed was smallest; they read this as path dependence
+  under strong local increasing returns, with portage a coordination device
+  that selected the high-density equilibrium, rather than slow reversion
+  through sunk capital, while granting that their results are not direct
+  evidence of multiple equilibria
 version: 3
 history:
 - version: 2
@@ -65,7 +77,7 @@ bears_on:
 - QUESTION-422
 ---
 
-# THEORY-1505: Bleakley and Lin find that US cities at historical portage sites, whose transport advantage ended with canals and railroads by about 1900, remain 60–100% denser than comparable sites in the same river watersheds, increasingly so relative to 1850, are neither oversupplied nor cheap in housing, infrastructure or other sunk assets conditional on density, and grow like comparably dense places from about 1930, with no effect where the upstream watershed was smallest; they read this as path dependence under strong local increasing returns, with portage a coordination device that selected the high-density equilibrium, rather than slow reversion through sunk capital, while granting that their results are not direct evidence of multiple equilibria
+# THEORY-1505: Portage cities stay dense by path dependence
 
 ## Source
 

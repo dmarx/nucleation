@@ -3,7 +3,15 @@ number: 1392
 status: Active
 formerly:
 - THEORY-tmpgeseh
-title: 'Chou, Chua, Teo and Zheng report that Jordan and Graves found by simulation that limited flexibility configured as a chain gives most of the expected sales of full flexibility, and prove that for balanced plants with independent, identically distributed symmetric demand the long chain keeps about 89.6% (uniform) and 96% (normal, coefficient of variation 0.33) of full flexibility''s expected sales as the system grows, a smaller share of its gain over dedicated plants, and less for more variable demand'
+title: 'Long chain keeps most of full flexibility''s sales'
+statement: >-
+  Chou, Chua, Teo and Zheng report that Jordan and Graves found by
+  simulation that limited flexibility configured as a chain gives most of
+  the expected sales of full flexibility, and prove that for balanced plants
+  with independent, identically distributed symmetric demand the long chain
+  keeps about 89.6% (uniform) and 96% (normal, coefficient of variation
+  0.33) of full flexibility's expected sales as the system grows, a smaller
+  share of its gain over dedicated plants, and less for more variable demand
 version: 3
 history:
 - version: 1
@@ -65,7 +73,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: LIT-2045 — Unfetched; the unread original the neighbour reports, cited as open -->
 
-# THEORY-1392: Chou, Chua, Teo and Zheng report that Jordan and Graves found by simulation that limited flexibility configured as a chain gives most of the expected sales of full flexibility, and prove that for balanced plants with independent, identically distributed symmetric demand the long chain keeps about 89.6% (uniform) and 96% (normal, coefficient of variation 0.33) of full flexibility's expected sales as the system grows, a smaller share of its gain over dedicated plants, and less for more variable demand
+# THEORY-1392: Long chain keeps most of full flexibility's sales
 
 ## Source
 

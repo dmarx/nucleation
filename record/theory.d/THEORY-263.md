@@ -3,7 +3,12 @@ number: 263
 status: Active
 formerly:
 - THEORY-tmpgdeej
-title: "A coding rate that varies with the realised sample and output makes rate-distortion generalisation bounds data-dependent, and with the rate set to the pointwise information density log dP_{W|S}/dP(W) against a fixed prior the bound is the disintegrated PAC-Bayes bound"
+title: 'Variable-rate bounds give PAC-Bayes'
+statement: >-
+  A coding rate that varies with the realised sample and output makes
+  rate-distortion generalisation bounds data-dependent, and with the rate
+  set to the pointwise information density log dP_{W|S}/dP(W) against a
+  fixed prior the bound is the disintegrated PAC-Bayes bound
 version: 3
 history:
 - version: 2
@@ -46,7 +51,7 @@ bears_on:
 - QUESTION-174
 ---
 
-# THEORY-263: A coding rate that varies with the realised sample and output makes rate-distortion generalisation bounds data-dependent, and with the rate set to the pointwise information density log dP_{W|S}/dP(W) against a fixed prior the bound is the disintegrated PAC-Bayes bound
+# THEORY-263: Variable-rate bounds give PAC-Bayes
 
 ## Source
 

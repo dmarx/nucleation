@@ -3,7 +3,13 @@ number: 999
 status: Active
 formerly:
 - THEORY-tmppc921
-title: 'In the finite beta–Bernoulli feature model with prevalences Beta(α/K, 1), the expected number of occupied features among N objects is K(1 − (α/K)B(α/K, N + 1)), strictly below the Indian buffet process''s αH_N for every finite K and tending to it as K grows, and each object holds Kα/(K + α) features on average rather than α'
+title: 'Finite beta–Bernoulli undercounts the IBP'
+statement: >-
+  In the finite beta–Bernoulli feature model with prevalences Beta(α/K, 1),
+  the expected number of occupied features among N objects is K(1 −
+  (α/K)B(α/K, N + 1)), strictly below the Indian buffet process's αH_N for
+  every finite K and tending to it as K grows, and each object holds Kα/(K +
+  α) features on average rather than α
 version: 3
 history:
 - version: 1
@@ -47,7 +53,7 @@ bears_on:
 - QUESTION-276
 ---
 
-# THEORY-999: In the finite beta–Bernoulli feature model with prevalences Beta(α/K, 1), the expected number of occupied features among N objects is K(1 − (α/K)B(α/K, N + 1)), strictly below the Indian buffet process's αH_N for every finite K and tending to it as K grows, and each object holds Kα/(K + α) features on average rather than α
+# THEORY-999: Finite beta–Bernoulli undercounts the IBP
 
 ## Source
 

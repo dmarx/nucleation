@@ -24,7 +24,13 @@ promote_when: >-
   description explains the same transitions and the spiral description
   adds nothing. More decoding from the same HCP data, at the same scale,
   cannot settle it.
-title: 'Slow large-scale activity in human cortex is organised as in a pattern-forming medium: its flow is set by interacting spiral defects centred on phase singularities, which sit on boundaries between functional regions, annihilate with spirals of opposite rotation and repel those of the same'
+title: 'Cortical slow waves are organized by spirals'
+statement: >-
+  Slow large-scale activity in human cortex is organised as in a
+  pattern-forming medium: its flow is set by interacting spiral defects
+  centred on phase singularities, which sit on boundaries between functional
+  regions, annihilate with spirals of opposite rotation and repel those of
+  the same
 version: 2
 history:
 - version: 2
@@ -60,7 +66,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-571 — Proposed; named as the discrete-substate description, weighed against this account and not leaned on -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; named in Connections as the record's other phase-dynamics account of coordination, no relation claimed -->
 
-# THEORY-088: Slow large-scale activity in human cortex is organised as in a pattern-forming medium: its flow is set by interacting spiral defects centred on phase singularities, which sit on boundaries between functional regions, annihilate with spirals of opposite rotation and repel those of the same
+# THEORY-088: Cortical slow waves are organized by spirals
 
 ## Source
 

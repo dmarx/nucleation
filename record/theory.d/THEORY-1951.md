@@ -3,7 +3,12 @@ number: 1951
 status: Proposed
 formerly:
 - THEORY-tmpzrp4c
-title: 'Herd and Moynihan find that over the thirty years after welfare reform administrative burden fell on average in the large US means-tested programs, with rising take-up, while inequality in who bears it grew through federalism, delivery through the tax system and privatization'
+title: 'Welfare burdens fell but grew more unequal'
+statement: >-
+  Herd and Moynihan find that over the thirty years after welfare reform
+  administrative burden fell on average in the large US means-tested
+  programs, with rising take-up, while inequality in who bears it grew
+  through federalism, delivery through the tax system and privatization
 version: 1
 tags:
 - society-and-governance
@@ -16,7 +21,7 @@ source:
 - LIT-2699
 ---
 <!-- inactive-ok-file: CLAIM-710 LIT-2660 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1951: Herd and Moynihan find that over the thirty years after welfare reform administrative burden fell on average in the large US means-tested programs, with rising take-up, while inequality in who bears it grew through federalism, delivery through the tax system and privatization
+# THEORY-1951: Welfare burdens fell but grew more unequal
 
 ## Source
 

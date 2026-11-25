@@ -15,7 +15,15 @@ promote_when: >-
   fixed. A further intuition about a China brain or a silicon duplicate, in
   either direction, cannot settle it, since the argument was built to
   replace those intuitions.
-title: "Any system with the same fine-grained functional organisation as a conscious system has qualitatively the same experiences, with natural though not metaphysical necessity, because otherwise a neuron-by-neuron replacement would yield either a rational subject systematically wrong about its fading experience or experience that flips with a switch nobody could notice; the principle covers only isomorphs, so it says nothing about systems merely similar in kind to a conscious one"
+title: 'Functional isomorphs share experiences'
+statement: >-
+  Any system with the same fine-grained functional organisation as a
+  conscious system has qualitatively the same experiences, with natural
+  though not metaphysical necessity, because otherwise a neuron-by-neuron
+  replacement would yield either a rational subject systematically wrong
+  about its fading experience or experience that flips with a switch nobody
+  could notice; the principle covers only isomorphs, so it says nothing
+  about systems merely similar in kind to a conscious one
 version: 2
 history:
 - version: 2
@@ -52,7 +60,7 @@ bounds:
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the claim this reading bounds, cited in the history note, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-023 THEORY-043 THEORY-095 THEORY-252 THEORY-415 THEORY-694 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 
-# THEORY-507: Any system with the same fine-grained functional organisation as a conscious system has qualitatively the same experiences, with natural though not metaphysical necessity, because otherwise a neuron-by-neuron replacement would yield either a rational subject systematically wrong about its fading experience or experience that flips with a switch nobody could notice; the principle covers only isomorphs, so it says nothing about systems merely similar in kind to a conscious one
+# THEORY-507: Functional isomorphs share experiences
 
 ## Source
 

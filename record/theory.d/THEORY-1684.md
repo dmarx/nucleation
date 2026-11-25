@@ -3,7 +3,16 @@ number: 1684
 status: Proposed
 formerly:
 - THEORY-tmpgvn5u
-title: 'Rockström and colleagues (2026) set out the Earth Commission''s programme for 2024–2027: to extend quantified "safe" boundaries (protecting Earth-system resilience) and "just" boundaries (minimizing significant harm to people, other species and future generations) to novel entities and the ocean, and to translate them, by transcription into aggregate pressure budgets and then allocation among actors under stated fairness principles, into targets for countries, cities and companies, treating justice as a structural condition of planetary stability.'
+title: 'Safe and just boundaries become actor targets'
+statement: >-
+  Rockström and colleagues (2026) set out the Earth Commission's programme
+  for 2024–2027: to extend quantified "safe" boundaries (protecting
+  Earth-system resilience) and "just" boundaries (minimizing significant
+  harm to people, other species and future generations) to novel entities
+  and the ocean, and to translate them, by transcription into aggregate
+  pressure budgets and then allocation among actors under stated fairness
+  principles, into targets for countries, cities and companies, treating
+  justice as a structural condition of planetary stability.
 version: 1
 source:
 - LIT-2422
@@ -30,7 +39,7 @@ summary: >-
   dignified life, forming the floor.
 ---
 
-# THEORY-1684: Rockström and colleagues (2026) set out the Earth Commission's programme for 2024–2027: to extend quantified "safe" boundaries (protecting Earth-system resilience) and "just" boundaries (minimizing significant harm to people, other species and future generations) to novel entities and the ocean, and to translate them, by transcription into aggregate pressure budgets and then allocation among actors under stated fairness principles, into targets for countries, cities and companies, treating justice as a structural condition of planetary stability.
+# THEORY-1684: Safe and just boundaries become actor targets
 
 ## The account
 

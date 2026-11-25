@@ -3,7 +3,18 @@ number: 1705
 status: Proposed
 formerly:
 - THEORY-tmpthqa0
-title: 'Hu, Jagadeesan, Jordan and Steinhardt prove that, in a model where non-myopic, discounting producers choose content every round and a platform recommends by a standard no-regret online-learning algorithm (LinHedge or LinEXP3), equilibrium producer effort and user welfare vanish over time under typical learning-rate schedules, because a slow learner makes today''s effort move future recommendations too little to repay its cost; algorithms that permanently stop recommending producers whose content falls below a threshold sustain constant effort, and individualized criteria that make producers specialize recover near-optimal welfare in limiting cases'
+title: 'No-regret recommenders erode producer effort'
+statement: >-
+  Hu, Jagadeesan, Jordan and Steinhardt prove that, in a model where
+  non-myopic, discounting producers choose content every round and a
+  platform recommends by a standard no-regret online-learning algorithm
+  (LinHedge or LinEXP3), equilibrium producer effort and user welfare vanish
+  over time under typical learning-rate schedules, because a slow learner
+  makes today's effort move future recommendations too little to repay its
+  cost; algorithms that permanently stop recommending producers whose
+  content falls below a threshold sustain constant effort, and
+  individualized criteria that make producers specialize recover
+  near-optimal welfare in limiting cases
 version: 1
 source:
 - LIT-2407
@@ -27,7 +38,7 @@ summary: >-
   measured as producer effort ||p|| and as user welfare E[<u, p>].
 ---
 
-# THEORY-1705: Hu, Jagadeesan, Jordan and Steinhardt prove that, in a model where non-myopic, discounting producers choose content every round and a platform recommends by a standard no-regret online-learning algorithm (LinHedge or LinEXP3), equilibrium producer effort and user welfare vanish over time under typical learning-rate schedules, because a slow learner makes today's effort move future recommendations too little to repay its cost; algorithms that permanently stop recommending producers whose content falls below a threshold sustain constant effort, and individualized criteria that make producers specialize recover near-optimal welfare in limiting cases
+# THEORY-1705: No-regret recommenders erode producer effort
 
 ## The account
 

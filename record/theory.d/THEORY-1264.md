@@ -3,7 +3,16 @@ number: 1264
 status: Active
 formerly:
 - THEORY-tmpjzj2n
-title: 'Far from equilibrium, the weak-noise escape rate from an attractor goes as the exponential of minus system size times a barrier in the quasi-potential, not in any free energy, and that barrier is bracketed by thermodynamics: it is at most the entropy produced in relaxing from the saddle into the attractor and at least minus the entropy produced along the most likely escape path; the two bounds coincide at detailed balance and separate by twice the dissipation of the probability circulation, so far from equilibrium they can be very loose'
+title: 'Escape barriers are bracketed by entropy'
+statement: >-
+  Far from equilibrium, the weak-noise escape rate from an attractor goes as
+  the exponential of minus system size times a barrier in the
+  quasi-potential, not in any free energy, and that barrier is bracketed by
+  thermodynamics: it is at most the entropy produced in relaxing from the
+  saddle into the attractor and at least minus the entropy produced along
+  the most likely escape path; the two bounds coincide at detailed balance
+  and separate by twice the dissipation of the probability circulation, so
+  far from equilibrium they can be very loose
 version: 2
 history:
 - version: 2
@@ -36,7 +45,7 @@ bears_on:
 - QUESTION-071
 ---
 
-# THEORY-1264: Far from equilibrium, the weak-noise escape rate from an attractor goes as the exponential of minus system size times a barrier in the quasi-potential, not in any free energy, and that barrier is bracketed by thermodynamics: it is at most the entropy produced in relaxing from the saddle into the attractor and at least minus the entropy produced along the most likely escape path; the two bounds coincide at detailed balance and separate by twice the dissipation of the probability circulation, so far from equilibrium they can be very loose
+# THEORY-1264: Escape barriers are bracketed by entropy
 
 ## Source
 

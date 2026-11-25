@@ -15,7 +15,13 @@ promote_when: >-
   between ventromedial patients and controls cannot settle it: they show
   that the signal and good choice go together, not that one causes the
   other.
-title: "Ventromedial prefrontal cortex stores links between kinds of situation and the body states they produced, and re-enacting those states when an option is imagined marks it good or bad, overtly as a feeling or covertly as a bias, pruning the options before reasoning weighs them; without the marks, choice under uncertainty fails despite intact knowledge and intellect"
+title: 'Somatic markers prune options before reasoning'
+statement: >-
+  Ventromedial prefrontal cortex stores links between kinds of situation and
+  the body states they produced, and re-enacting those states when an option
+  is imagined marks it good or bad, overtly as a feeling or covertly as a
+  bias, pruning the options before reasoning weighs them; without the marks,
+  choice under uncertainty fails despite intact knowledge and intellect
 version: 1
 tags:
 - emotion-and-affect
@@ -37,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-045 THEORY-093 THEORY-662 THEORY-680 — Proposed; neighbouring accounts named in Connections, not leaned on -->
 
-# THEORY-500: Ventromedial prefrontal cortex stores links between kinds of situation and the body states they produced, and re-enacting those states when an option is imagined marks it good or bad, overtly as a feeling or covertly as a bias, pruning the options before reasoning weighs them; without the marks, choice under uncertainty fails despite intact knowledge and intellect
+# THEORY-500: Somatic markers prune options before reasoning
 
 ## Source
 

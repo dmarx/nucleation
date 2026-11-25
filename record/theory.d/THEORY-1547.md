@@ -12,7 +12,15 @@ promote_when: >-
   post-tests taken without the support; and that learners given control
   of help seek it less well than a rule set on their measured
   performance would give it.
-title: 'Instruction faces an assistance dilemma, help given buying accuracy and efficiency at the cost of shallow processing and help withheld buying generation and memory engagement at the cost of floundering, and within tutored problem solving, where the learner does the steps and help is added only on failure, more help does better than less, support should shift from worked examples toward problems and as-needed hints as competence grows, and learners left to ask for help ask badly'
+title: 'In tutored problem solving, more help does better'
+statement: >-
+  Instruction faces an assistance dilemma, help given buying accuracy and
+  efficiency at the cost of shallow processing and help withheld buying
+  generation and memory engagement at the cost of floundering, and within
+  tutored problem solving, where the learner does the steps and help is
+  added only on failure, more help does better than less, support should
+  shift from worked examples toward problems and as-needed hints as
+  competence grows, and learners left to ask for help ask badly
 version: 1
 tags:
 - social-science
@@ -30,7 +38,7 @@ summary: >-
   carried, word for word.
 ---
 
-# THEORY-1547: Instruction faces an assistance dilemma, help given buying accuracy and efficiency at the cost of shallow processing and help withheld buying generation and memory engagement at the cost of floundering, and within tutored problem solving, where the learner does the steps and help is added only on failure, more help does better than less, support should shift from worked examples toward problems and as-needed hints as competence grows, and learners left to ask for help ask badly
+# THEORY-1547: In tutored problem solving, more help does better
 
 ## Source
 

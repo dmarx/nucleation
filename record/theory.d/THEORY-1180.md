@@ -16,7 +16,12 @@ promote_when: >-
   anxious people check as much as others once the cost of detection is
   equated. Further correlational studies with a single anxiety measure
   cannot settle the mechanism.
-title: 'In foraging tasks, higher stress or anxiety goes consistently with less exploration, and in one task with a predator to check for, people higher in somatic anxiety checked less and did worse, a reduction associated with greater aversion to detecting the predator'
+title: 'Stress and anxiety go with less exploration'
+statement: >-
+  In foraging tasks, higher stress or anxiety goes consistently with less
+  exploration, and in one task with a predator to check for, people higher
+  in somatic anxiety checked less and did worse, a reduction associated with
+  greater aversion to detecting the predator
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -36,7 +41,7 @@ summary: >-
   evidence.
 ---
 
-# THEORY-1180: In foraging tasks, higher stress or anxiety goes consistently with less exploration, and in one task with a predator to check for, people higher in somatic anxiety checked less and did worse, a reduction associated with greater aversion to detecting the predator
+# THEORY-1180: Stress and anxiety go with less exploration
 
 ## Source
 

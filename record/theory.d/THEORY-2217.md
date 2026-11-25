@@ -3,7 +3,15 @@ number: 2217
 status: Proposed
 formerly:
 - THEORY-tmp4gziy
-title: 'Dorsch, Coeckelbergh and Vierkant (2026) argue, as an untested mechanism, that engagement-optimizing recommender systems threaten deliberative democracy not by isolating users from opposing views but by optimizing processing fluency, which inflates second-order confidence in one''s own epistemic stance and makes rejecting opponents'' views feel warranted, so that beliefs formed there carry reflective epistemic luck the user cannot detect from within'
+title: 'Recommenders inflate confidence via fluency'
+statement: >-
+  Dorsch, Coeckelbergh and Vierkant (2026) argue, as an untested mechanism,
+  that engagement-optimizing recommender systems threaten deliberative
+  democracy not by isolating users from opposing views but by optimizing
+  processing fluency, which inflates second-order confidence in one's own
+  epistemic stance and makes rejecting opponents' views feel warranted, so
+  that beliefs formed there carry reflective epistemic luck the user cannot
+  detect from within
 version: 1
 source:
 - LIT-2373
@@ -31,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1653 THEORY-662 — Proposed; the readings this one is set beside -->
 
-# THEORY-2217: Dorsch, Coeckelbergh and Vierkant (2026) argue, as an untested mechanism, that engagement-optimizing recommender systems threaten deliberative democracy not by isolating users from opposing views but by optimizing processing fluency, which inflates second-order confidence in one's own epistemic stance and makes rejecting opponents' views feel warranted, so that beliefs formed there carry reflective epistemic luck the user cannot detect from within
+# THEORY-2217: Recommenders inflate confidence via fluency
 
 ## The account
 

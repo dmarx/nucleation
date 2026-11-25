@@ -3,7 +3,14 @@ number: 2106
 status: Proposed
 formerly:
 - THEORY-tmpeqsoz
-title: 'Tomasello argues that uniquely human thinking evolved in two steps from great apes'' individual intentionality, first joint intentionality in dyadic collaboration and cooperative communication, yielding perspectival representation, recursive inference and social self-monitoring, then collective intentionality in cultural groups, yielding objective representation, self-reflective inference and normative self-governance'
+title: 'Human thinking evolved in two steps'
+statement: >-
+  Tomasello argues that uniquely human thinking evolved in two steps from
+  great apes' individual intentionality, first joint intentionality in
+  dyadic collaboration and cooperative communication, yielding perspectival
+  representation, recursive inference and social self-monitoring, then
+  collective intentionality in cultural groups, yielding objective
+  representation, self-reflective inference and normative self-governance
 version: 1
 source:
 - LIT-2889
@@ -25,7 +32,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2106: Tomasello argues that uniquely human thinking evolved in two steps from great apes' individual intentionality, first joint intentionality in dyadic collaboration and cooperative communication, yielding perspectival representation, recursive inference and social self-monitoring, then collective intentionality in cultural groups, yielding objective representation, self-reflective inference and normative self-governance
+# THEORY-2106: Human thinking evolved in two steps
 
 ## The account
 

@@ -3,7 +3,15 @@ number: 1147
 status: Active
 formerly:
 - THEORY-tmpr2ueq
-title: 'For entropy-regularized optimal transport with a fixed cost, the gradient of any differentiable function of the optimal plan with respect to the cost is obtained exactly from one linear system of size n + m whose matrix [[diag µ, T], [Tᵀ, diag ν]] is positive semidefinite and singular only along the gauge direction (1, −1), which does not affect the gradient; so the first-order effect of supervising any candidate pair on a utility of the whole alignment can be computed without forming the (nm)² Jacobian'
+title: 'Entropic OT gradients come from one linear system'
+statement: >-
+  For entropy-regularized optimal transport with a fixed cost, the gradient
+  of any differentiable function of the optimal plan with respect to the
+  cost is obtained exactly from one linear system of size n + m whose matrix
+  [[diag µ, T], [Tᵀ, diag ν]] is positive semidefinite and singular only
+  along the gauge direction (1, −1), which does not affect the gradient; so
+  the first-order effect of supervising any candidate pair on a utility of
+  the whole alignment can be computed without forming the (nm)² Jacobian
 version: 1
 tags:
 - mathematics
@@ -19,7 +27,7 @@ summary: >-
   only for plain entropic OT whose cost does not depend on the plan.
 ---
 
-# THEORY-1147: For entropy-regularized optimal transport with a fixed cost, the gradient of any differentiable function of the optimal plan with respect to the cost is obtained exactly from one linear system of size n + m whose matrix [[diag µ, T], [Tᵀ, diag ν]] is positive semidefinite and singular only along the gauge direction (1, −1), which does not affect the gradient; so the first-order effect of supervising any candidate pair on a utility of the whole alignment can be computed without forming the (nm)² Jacobian
+# THEORY-1147: Entropic OT gradients come from one linear system
 
 ## Source
 

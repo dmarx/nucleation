@@ -16,7 +16,12 @@ promote_when: >-
   Neither can derivations valid only in the linear regime, where MEP and
   Onsager–Prigogine theory agree, nor a failure explained afterwards as too
   few degrees of freedom.
-title: "An open system with enough internal degrees of freedom settles, among its possible steady states, into the one of maximum entropy production; this selects among steady states, where Prigogine's minimum principle only describes relaxation toward one"
+title: 'Open systems settle at maximum entropy production'
+statement: >-
+  An open system with enough internal degrees of freedom settles, among its
+  possible steady states, into the one of maximum entropy production; this
+  selects among steady states, where Prigogine's minimum principle only
+  describes relaxation toward one
 version: 1
 tags:
 - thermodynamics
@@ -39,7 +44,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-412 THEORY-532 THEORY-492 THEORY-517 — Proposed; named as accounts that reject or build on this one, not leaned on -->
 
-# THEORY-671: An open system with enough internal degrees of freedom settles, among its possible steady states, into the one of maximum entropy production; this selects among steady states, where Prigogine's minimum principle only describes relaxation toward one
+# THEORY-671: Open systems settle at maximum entropy production
 
 ## Source
 

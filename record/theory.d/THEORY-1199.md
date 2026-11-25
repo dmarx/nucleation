@@ -13,7 +13,12 @@ promote_when: >-
   coverage gives clusters that keep growing with strength in these same
   games, as they do in Blotto. Theorems about long cycles among weak
   strategies do not bear on it.
-title: 'Real-world games of skill have a spinning-top geometry: their non-transitive part, measured as Nash cluster size, is largest at intermediate strength and narrows toward the strongest and the weakest strategies'
+title: 'Skill games have a spinning-top geometry'
+statement: >-
+  Real-world games of skill have a spinning-top geometry: their
+  non-transitive part, measured as Nash cluster size, is largest at
+  intermediate strength and narrows toward the strongest and the weakest
+  strategies
 version: 1
 tags:
 - game-theory
@@ -32,7 +37,7 @@ summary: >-
   maximum-entropy equilibrium help set.
 ---
 
-# THEORY-1199: Real-world games of skill have a spinning-top geometry: their non-transitive part, measured as Nash cluster size, is largest at intermediate strength and narrows toward the strongest and the weakest strategies
+# THEORY-1199: Skill games have a spinning-top geometry
 
 ## Source
 

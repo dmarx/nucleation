@@ -9,7 +9,14 @@ promote_when: >-
   state's legitimacy depend on popular control and defines that control by
   individualized, unconditioned and efficacious influence, and says what
   "unconditioned" requires. Whether the theory is right is not asserted.
-title: 'Pettit proposes that a state is legitimate insofar as it imposes its order under popular control, and that the people control the state insofar as they have an individualized, unconditioned and efficacious influence over it that pushes it in a direction they find acceptable, realized by individual contestation, a resistive citizenry and channels of influence insulated from electoral pressures and private lobbies'
+title: 'Legitimacy requires popular control of the state'
+statement: >-
+  Pettit proposes that a state is legitimate insofar as it imposes its order
+  under popular control, and that the people control the state insofar as
+  they have an individualized, unconditioned and efficacious influence over
+  it that pushes it in a direction they find acceptable, realized by
+  individual contestation, a resistive citizenry and channels of influence
+  insulated from electoral pressures and private lobbies
 version: 1
 tags:
 - society-and-governance
@@ -30,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2047 — Skimmed; the reading -->
 
-# THEORY-1960: Pettit proposes that a state is legitimate insofar as it imposes its order under popular control, and that the people control the state insofar as they have an individualized, unconditioned and efficacious influence over it that pushes it in a direction they find acceptable, realized by individual contestation, a resistive citizenry and channels of influence insulated from electoral pressures and private lobbies
+# THEORY-1960: Legitimacy requires popular control of the state
 
 Pettit, *On the People's Terms* (2012), [LIT-2760](../literature.d/LIT-2760.md).
 

@@ -3,7 +3,13 @@ number: 356
 status: Active
 formerly:
 - THEORY-tmpxfpa7
-title: "When stored views are never updated, greedily storing the view of largest marginal saving in query cost gets at least 1 − 1/e of the optimal saving on a data-cube lattice or any OR or AND view graph, against the optimum for the same number of views or for the space the greedy ends up using, which may exceed the budget by one view"
+title: 'Greedy view selection gets 1 − 1/e of optimum'
+statement: >-
+  When stored views are never updated, greedily storing the view of largest
+  marginal saving in query cost gets at least 1 − 1/e of the optimal saving
+  on a data-cube lattice or any OR or AND view graph, against the optimum
+  for the same number of views or for the space the greedy ends up using,
+  which may exceed the budget by one view
 version: 1
 tags:
 - databases
@@ -29,7 +35,7 @@ bears_on:
 - QUESTION-114
 ---
 
-# THEORY-356: When stored views are never updated, greedily storing the view of largest marginal saving in query cost gets at least 1 − 1/e of the optimal saving on a data-cube lattice or any OR or AND view graph, against the optimum for the same number of views or for the space the greedy ends up using, which may exceed the budget by one view
+# THEORY-356: Greedy view selection gets 1 − 1/e of optimum
 
 ## Source
 

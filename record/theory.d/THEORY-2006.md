@@ -3,7 +3,14 @@ number: 2006
 status: Proposed
 formerly:
 - THEORY-tmp3dqbl
-title: 'Springer and colleagues show that, past an inflection point in pre-training length, language models degrade more under a fixed-size later modification (fine-tuning or weight noise), so that longer pre-training can leave a worse model after fine-tuning even though the base model keeps improving, and they attribute this mainly to forgetting of pre-trained capability that grows with pre-training ("progressive sensitivity").'
+title: 'Longer pre-training can worsen fine-tuned models'
+statement: >-
+  Springer and colleagues show that, past an inflection point in
+  pre-training length, language models degrade more under a fixed-size later
+  modification (fine-tuning or weight noise), so that longer pre-training
+  can leave a worse model after fine-tuning even though the base model keeps
+  improving, and they attribute this mainly to forgetting of pre-trained
+  capability that grows with pre-training ("progressive sensitivity").
 version: 1
 source:
 - LIT-2829
@@ -41,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-294 CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2006: Springer and colleagues show that, past an inflection point in pre-training length, language models degrade more under a fixed-size later modification (fine-tuning or weight noise), so that longer pre-training can leave a worse model after fine-tuning even though the base model keeps improving, and they attribute this mainly to forgetting of pre-trained capability that grows with pre-training ("progressive sensitivity").
+# THEORY-2006: Longer pre-training can worsen fine-tuned models
 
 ## The account
 

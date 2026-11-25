@@ -3,7 +3,12 @@ number: 1593
 status: Active
 formerly:
 - THEORY-tmpd9qd8
-title: 'Heijmans and colleagues report that people conceived during the Dutch Hunger Winter had, about six decades later, slightly lower methylation of the imprinted IGF2 gene in blood than their same-sex siblings, while people exposed only late in gestation showed no difference'
+title: 'Hunger Winter conception lowers IGF2 methylation'
+statement: >-
+  Heijmans and colleagues report that people conceived during the Dutch
+  Hunger Winter had, about six decades later, slightly lower methylation of
+  the imprinted IGF2 gene in blood than their same-sex siblings, while
+  people exposed only late in gestation showed no difference
 version: 2
 history:
 - version: 1
@@ -32,7 +37,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1593: Heijmans and colleagues report that people conceived during the Dutch Hunger Winter had, about six decades later, slightly lower methylation of the imprinted IGF2 gene in blood than their same-sex siblings, while people exposed only late in gestation showed no difference
+# THEORY-1593: Hunger Winter conception lowers IGF2 methylation
 
 ## The account
 

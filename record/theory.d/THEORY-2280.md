@@ -11,7 +11,13 @@ promote_when: >-
   Or an independent adoption or donor-gamete sample reproduces the
   unrelated-pair association. A twin or ordinary family study cannot
   meet it.
-title: 'Lewis and colleagues report that, in families with a child conceived by assisted reproduction, mothers'' and fathers'' depression symptoms went with the child''s depression and anxiety symptoms as strongly when the parent was genetically unrelated to the child as when related, and read this as environmental transmission not explained by shared adversity'
+title: 'Parent depression transmits environmentally'
+statement: >-
+  Lewis and colleagues report that, in families with a child conceived by
+  assisted reproduction, mothers' and fathers' depression symptoms went with
+  the child's depression and anxiety symptoms as strongly when the parent
+  was genetically unrelated to the child as when related, and read this as
+  environmental transmission not explained by shared adversity
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -30,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1017 NOTE-2370 — filed by the lead run of 2026-11-23 -->
 
-# THEORY-2280: Lewis and colleagues report that, in families with a child conceived by assisted reproduction, mothers' and fathers' depression symptoms went with the child's depression and anxiety symptoms as strongly when the parent was genetically unrelated to the child as when related, and read this as environmental transmission not explained by shared adversity
+# THEORY-2280: Parent depression transmits environmentally
 
 ## The account
 

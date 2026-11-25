@@ -3,7 +3,18 @@ number: 1099
 status: Active
 formerly:
 - THEORY-tmp5wptr
-title: 'On Kay and colleagues'' relaxed-clock dating of pre-LECA gene duplications, most duplications in eukaryotic gene families of archaeal origin, including actin, tubulin, vesicle-trafficking and nuclear-targeted families, predate the onset of duplications in genes of alphaproteobacterial origin at about 2.2 billion years ago, which the authors take as the start of mitochondrial endosymbiosis, so the host was elaborating its cytoskeleton, endomembranes and nuclear machinery before the mitochondrion; each date is a maximum age for its paralogues'' functions, many intervals reach below 2.2 billion years, and the order of phagocytosis and the mitochondrion is left open'
+title: 'Host complexity predates the mitochondrion'
+statement: >-
+  On Kay and colleagues' relaxed-clock dating of pre-LECA gene duplications,
+  most duplications in eukaryotic gene families of archaeal origin,
+  including actin, tubulin, vesicle-trafficking and nuclear-targeted
+  families, predate the onset of duplications in genes of
+  alphaproteobacterial origin at about 2.2 billion years ago, which the
+  authors take as the start of mitochondrial endosymbiosis, so the host was
+  elaborating its cytoskeleton, endomembranes and nuclear machinery before
+  the mitochondrion; each date is a maximum age for its paralogues'
+  functions, many intervals reach below 2.2 billion years, and the order of
+  phagocytosis and the mitochondrion is left open
 version: 3
 history:
 - version: 1
@@ -74,7 +85,7 @@ bounds:
 <!-- inactive-ok-file: THEORY-1203 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: LIT-1597 — Open, Deferred, Unavailable, Proposed or unmerged; the question this answers in part, the reading it comes from and the works set beside it, nothing here rests on them -->
 
-# THEORY-1099: On Kay and colleagues' relaxed-clock dating of pre-LECA gene duplications, most duplications in eukaryotic gene families of archaeal origin, including actin, tubulin, vesicle-trafficking and nuclear-targeted families, predate the onset of duplications in genes of alphaproteobacterial origin at about 2.2 billion years ago, which the authors take as the start of mitochondrial endosymbiosis, so the host was elaborating its cytoskeleton, endomembranes and nuclear machinery before the mitochondrion; each date is a maximum age for its paralogues' functions, many intervals reach below 2.2 billion years, and the order of phagocytosis and the mitochondrion is left open
+# THEORY-1099: Host complexity predates the mitochondrion
 
 ## Source
 

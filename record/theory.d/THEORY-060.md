@@ -23,7 +23,10 @@ promote_when: >-
   McLean (LIT-572, Deferred) would add the measures review this essay
   lacks. More correlations between redemptive stories and generativity in
   the same interview cannot settle either half.
-title: "A life story constructed from adolescence on is the form a person's diachronic identity takes, and its content shapes later well-being"
+title: 'Life story is the form of diachronic identity'
+statement: >-
+  A life story constructed from adolescence on is the form a person's
+  diachronic identity takes, and its content shapes later well-being
 version: 2
 history:
 - version: 2
@@ -61,7 +64,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-572 — Unavailable; McAdams and McLean 2013, named as the canonical review, not leaned on -->
 <!-- inactive-ok-file: THEORY-044 THEORY-050 THEORY-051 THEORY-076 THEORY-064 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
-# THEORY-060: A life story constructed from adolescence on is the form a person's diachronic identity takes, and its content shapes later well-being
+# THEORY-060: Life story is the form of diachronic identity
 
 ## Which unity, and which word
 

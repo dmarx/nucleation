@@ -25,7 +25,12 @@ promote_when: >-
   and the cases quoted stipulate only structural conditions
   (reasons-responsiveness, hierarchical desires), not a named historical
   one.
-title: 'A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record''s readings is shown to escape'
+title: 'Manipulation cases have no shown historical escape'
+statement: >-
+  A condition on free agency stated only in present psychological structure
+  is met by a manipulated agent, so the account must count that agent free
+  or add a historical condition, and no historical condition in the record's
+  readings is shown to escape
 version: 6
 history:
 - version: 2
@@ -103,7 +108,7 @@ bounds:
 <!-- inactive-ok-file: THEORY-065 THEORY-076 — Proposed; Korsgaard's and Bratman's accounts, named in Connections, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-328 — Proposed; the four-case argument filed 2026-10-14 from two surveys, cited in a dated note -->
 
-# THEORY-040: A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
+# THEORY-040: Manipulation cases have no shown historical escape
 
 ## Source
 

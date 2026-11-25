@@ -3,7 +3,14 @@ number: 2074
 status: Proposed
 formerly:
 - THEORY-tmply4g3
-title: 'Zhang and colleagues find that ordering pretraining documents from easy to hard by a cheap difficulty measure lets small decoder language models reach a randomly ordered baseline''s best accuracy in substantially fewer steps at the same total tokens, that the gap mostly closes by the end under strict ordering, and that a curriculum phase followed by the baseline''s own shuffled data ends above the baseline'
+title: 'Easy-to-hard ordering speeds LM pretraining'
+statement: >-
+  Zhang and colleagues find that ordering pretraining documents from easy to
+  hard by a cheap difficulty measure lets small decoder language models
+  reach a randomly ordered baseline's best accuracy in substantially fewer
+  steps at the same total tokens, that the gap mostly closes by the end
+  under strict ordering, and that a curriculum phase followed by the
+  baseline's own shuffled data ends above the baseline
 version: 1
 source:
 - LIT-2845
@@ -26,7 +33,7 @@ summary: >-
   change in later learning rate. Proposed until its promote_when is met.
 ---
 
-# THEORY-2074: Zhang and colleagues find that ordering pretraining documents from easy to hard by a cheap difficulty measure lets small decoder language models reach a randomly ordered baseline's best accuracy in substantially fewer steps at the same total tokens, that the gap mostly closes by the end under strict ordering, and that a curriculum phase followed by the baseline's own shuffled data ends above the baseline
+# THEORY-2074: Easy-to-hard ordering speeds LM pretraining
 
 ## The account
 

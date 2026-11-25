@@ -3,7 +3,13 @@ number: 2063
 status: Proposed
 formerly:
 - THEORY-tmp9adpz
-title: 'Ma and colleagues report that a 2.6B language model pretrained with a large share of code scores above a released text-only model of the same size on most of six reasoning tasks, without matched data or tokenizer, and that within instruction tuning a falling share of code works best on code tasks'
+title: 'Code-heavy LM reasons better, unmatched baseline'
+statement: >-
+  Ma and colleagues report that a 2.6B language model pretrained with a
+  large share of code scores above a released text-only model of the same
+  size on most of six reasoning tasks, without matched data or tokenizer,
+  and that within instruction tuning a falling share of code works best on
+  code tasks
 version: 1
 source:
 - LIT-2856
@@ -24,7 +30,7 @@ summary: >-
   question. Proposed until its promote_when is met.
 ---
 
-# THEORY-2063: Ma and colleagues report that a 2.6B language model pretrained with a large share of code scores above a released text-only model of the same size on most of six reasoning tasks, without matched data or tokenizer, and that within instruction tuning a falling share of code works best on code tasks
+# THEORY-2063: Code-heavy LM reasons better, unmatched baseline
 
 ## The account
 

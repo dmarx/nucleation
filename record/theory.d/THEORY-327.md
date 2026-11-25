@@ -3,7 +3,15 @@ number: 327
 status: Active
 formerly:
 - THEORY-tmpa9fyk
-title: "Fricker, in her 2003 paper and her 2017 retrospective, holds that testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, and that deliberate manipulation of credibility is a related but distinct wrong; and she accepts Anderson's structural form, which is pre-emptive: a speaker's word is never sought because of a structural prejudice, such as an un-refreshed list, that is no one's fault"
+title: 'Testimonial injustice is ingenuous, not deliberate'
+statement: >-
+  Fricker, in her 2003 paper and her 2017 retrospective, holds that
+  testimonial injustice is an ingenuous misjudgement of a speaker's
+  credibility caused by prejudice, and that deliberate manipulation of
+  credibility is a related but distinct wrong; and she accepts Anderson's
+  structural form, which is pre-emptive: a speaker's word is never sought
+  because of a structural prejudice, such as an un-refreshed list, that is
+  no one's fault
 version: 3
 history:
 - version: 2
@@ -55,7 +63,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis, named as what would settle this -->
 <!-- inactive-ok-file: THEORY-317 THEORY-326 — Proposed; the précis-based account this one refines on the testimonial side, and the hermeneutical account filed with it -->
 
-# THEORY-327: Fricker, in her 2003 paper and her 2017 retrospective, holds that testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, and that deliberate manipulation of credibility is a related but distinct wrong; and she accepts Anderson's structural form, which is pre-emptive: a speaker's word is never sought because of a structural prejudice, such as an un-refreshed list, that is no one's fault
+# THEORY-327: Testimonial injustice is ingenuous, not deliberate
 
 ## Source
 

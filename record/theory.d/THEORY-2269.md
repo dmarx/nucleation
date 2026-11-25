@@ -11,7 +11,15 @@ promote_when: >-
   population reached while scaffolded, and reverts when it has none. A
   model with the two peaks assumed and no reversion case does not meet
   it.
-title: 'Bourrat, Black, Rainey and colleagues hold that the Darwinian properties of a new level of individuality can be imposed first by an environmental scaffold, so that the puzzle of a transition is the origin of the scaffold and its endogenization, which needs a second, collective equilibrium in the unscaffolded environment that the scaffold lets the population reach, and that the line between what is internal and external to the collective shifts during the transition'
+title: 'Scaffolds can impose Darwinian properties first'
+statement: >-
+  Bourrat, Black, Rainey and colleagues hold that the Darwinian properties
+  of a new level of individuality can be imposed first by an environmental
+  scaffold, so that the puzzle of a transition is the origin of the scaffold
+  and its endogenization, which needs a second, collective equilibrium in
+  the unscaffolded environment that the scaffold lets the population reach,
+  and that the line between what is internal and external to the collective
+  shifts during the transition
 version: 1
 source:
 - LIT-3137
@@ -34,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1940 — Unfetched; the model this paper restates -->
 
-# THEORY-2269: Bourrat, Black, Rainey and colleagues hold that the Darwinian properties of a new level of individuality can be imposed first by an environmental scaffold, so that the puzzle of a transition is the origin of the scaffold and its endogenization, which needs a second, collective equilibrium in the unscaffolded environment that the scaffold lets the population reach, and that the line between what is internal and external to the collective shifts during the transition
+# THEORY-2269: Scaffolds can impose Darwinian properties first
 
 ## Source
 

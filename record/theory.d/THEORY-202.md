@@ -3,7 +3,14 @@ number: 202
 status: Active
 formerly:
 - THEORY-tmp5vljo
-title: 'In variational renormalization over general Boltzmann machines, neither a matched partition function nor Kadanoff''s exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a further stated condition'
+title: 'Trace and partition conditions don''t define RG'
+statement: >-
+  In variational renormalization over general Boltzmann machines, neither a
+  matched partition function nor Kadanoff's exact trace condition makes a
+  coarse-graining a renormalization: the first holds for joint Hamiltonians
+  whose marginal is not the data, the second for hidden variables that do
+  not interact with the system, so the variables a renormalization keeps
+  must be fixed by a further stated condition
 version: 4
 history:
 - version: 2
@@ -50,7 +57,7 @@ bears_on:
 - QUESTION-205
 ---
 
-# THEORY-202: In variational renormalization over general Boltzmann machines, neither a matched partition function nor Kadanoff's exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a further stated condition
+# THEORY-202: Trace and partition conditions don't define RG
 
 ## Source
 

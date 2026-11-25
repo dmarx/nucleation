@@ -7,7 +7,14 @@ promote_when: >-
   A reading of the full text confirming Theorems 16 and 18, Lemma 28 and
   Theorems 29–30 as stated, and that the paper places no constraint on the
   kernel component beyond the invariance or conservation property.
-title: 'De Pasquale, Smith, Bullo and Valcher show that ergodicity coefficients are induced matrix seminorms and that projection and distance seminorms are dual, so one coefficient bounds both averaging and the flow of distributions, and that in systems leaving a seminorm''s kernel or its complement invariant only the part off the kernel contracts, while differences along it may persist or grow'
+title: 'Ergodicity coefficients are induced seminorms'
+statement: >-
+  De Pasquale, Smith, Bullo and Valcher show that ergodicity coefficients
+  are induced matrix seminorms and that projection and distance seminorms
+  are dual, so one coefficient bounds both averaging and the flow of
+  distributions, and that in systems leaving a seminorm's kernel or its
+  complement invariant only the part off the kernel contracts, while
+  differences along it may persist or grow
 version: 1
 tags:
 - control-theory
@@ -25,7 +32,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2044 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2143 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
-# THEORY-2142: De Pasquale, Smith, Bullo and Valcher show that ergodicity coefficients are induced matrix seminorms and that projection and distance seminorms are dual, so one coefficient bounds both averaging and the flow of distributions, and that in systems leaving a seminorm's kernel or its complement invariant only the part off the kernel contracts, while differences along it may persist or grow
+# THEORY-2142: Ergodicity coefficients are induced seminorms
 
 ## Source
 

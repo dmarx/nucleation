@@ -3,7 +3,15 @@ number: 169
 status: Active
 formerly:
 - THEORY-tmpllqzv
-title: 'For unnormalized causal linear attention and for softmax attention, conditioning on a context is exactly training a learner on it and predicting: the first is one batch gradient step of a linear inner model from zero, the second kernel regression that stores the context, and one linear self-attention layer with constructed weights carries one gradient step of in-context linear regression; for these layers conditioning and per-sequence weight updates differ in what state is kept, not in kind'
+title: 'In-context conditioning is training, in kind'
+statement: >-
+  For unnormalized causal linear attention and for softmax attention,
+  conditioning on a context is exactly training a learner on it and
+  predicting: the first is one batch gradient step of a linear inner model
+  from zero, the second kernel regression that stores the context, and one
+  linear self-attention layer with constructed weights carries one gradient
+  step of in-context linear regression; for these layers conditioning and
+  per-sequence weight updates differ in what state is kept, not in kind
 version: 3
 history:
 - version: 2
@@ -52,7 +60,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-2050 THEORY-2052 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-169: For unnormalized causal linear attention and for softmax attention, conditioning on a context is exactly training a learner on it and predicting: the first is one batch gradient step of a linear inner model from zero, the second kernel regression that stores the context, and one linear self-attention layer with constructed weights carries one gradient step of in-context linear regression; for these layers conditioning and per-sequence weight updates differ in what state is kept, not in kind
+# THEORY-169: In-context conditioning is training, in kind
 
 ## Source
 

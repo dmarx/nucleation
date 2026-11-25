@@ -15,7 +15,13 @@ promote_when: >-
   families found in one model have no counterpart in the other. More
   hand-sorting of units, in this model or another, cannot settle it: that
   is the evidence it already rests on.
-title: 'The units of the early layers of trained vision networks fall largely into neuron families, sets of variants of one feature across orientation, colour or scale, which reflect structure in the network rather than a convenience of the person sorting them, and the same families form across models, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose'
+title: 'Early vision units form cross-model families'
+statement: >-
+  The units of the early layers of trained vision networks fall largely into
+  neuron families, sets of variants of one feature across orientation,
+  colour or scale, which reflect structure in the network rather than a
+  convenience of the person sorting them, and the same families form across
+  models, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose
 version: 1
 history:
 - version: 1
@@ -40,7 +46,7 @@ summary: >-
   ([THEORY-1042](THEORY-1042.md)) is by eye in one model; neither the factorization nor
   a second model's sorting is shown.
 ---
-# THEORY-1040: The units of the early layers of trained vision networks fall largely into neuron families, sets of variants of one feature across orientation, colour or scale, which reflect structure in the network rather than a convenience of the person sorting them, and the same families form across models, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose
+# THEORY-1040: Early vision units form cross-model families
 
 ## Source
 

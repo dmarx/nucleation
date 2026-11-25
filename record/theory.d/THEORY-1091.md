@@ -9,7 +9,13 @@ promote_when: >-
   or a proof that none is available without giving up the ontological
   holism. Not settled by restating that the apparatus cannot measure its
   own entanglement, which the authors grant.
-title: 'Agential realism has no answer to the measurement problem as it stands: holding that measurement never disentangles apparatus and object, it cannot borrow relational quantum mechanics'' treatment of the wave function as bookkeeping without giving up the ontological holism, and its appeal to an improper mixture does not explain why one value is found'
+title: 'Agential realism can''t answer measurement problem'
+statement: >-
+  Agential realism has no answer to the measurement problem as it stands:
+  holding that measurement never disentangles apparatus and object, it
+  cannot borrow relational quantum mechanics' treatment of the wave function
+  as bookkeeping without giving up the ontological holism, and its appeal to
+  an improper mixture does not explain why one value is found
 version: 1
 tags:
 - quantum-foundations
@@ -26,7 +32,7 @@ summary: >-
   problem", which is the strength the text supports.
 ---
 
-# THEORY-1091: Agential realism has no answer to the measurement problem as it stands: holding that measurement never disentangles apparatus and object, it cannot borrow relational quantum mechanics' treatment of the wave function as bookkeeping without giving up the ontological holism, and its appeal to an improper mixture does not explain why one value is found
+# THEORY-1091: Agential realism can't answer measurement problem
 
 ## Source
 

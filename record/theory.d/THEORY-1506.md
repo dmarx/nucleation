@@ -16,7 +16,17 @@ promote_when: >-
   covers one radius rather than the window, suffices is the owner's call.
   Nothing about nonspherical perturbations, the upper radius bound or
   permanence is asked.
-title: 'In a spherically symmetric real scalar field with a double-well potential in 3+1 dimensions, subcritical bubbles with energy above a plateau value, core field beyond the inflection point and initial radius in a window shed part of their energy and settle into oscillons of nearly constant energy and radius whatever their initial radius, which radiate almost nothing for 10^3 to 10^4 m^-1, against about 5 to 10 m^-1 in the linear theory, and then decay quickly once slow radiation has lowered the core amplitude below the value at which its fluctuations stop being unstable; no topological invariant or conserved charge protects them'
+title: 'Bubbles settle into long-lived oscillons'
+statement: >-
+  In a spherically symmetric real scalar field with a double-well potential
+  in 3+1 dimensions, subcritical bubbles with energy above a plateau value,
+  core field beyond the inflection point and initial radius in a window shed
+  part of their energy and settle into oscillons of nearly constant energy
+  and radius whatever their initial radius, which radiate almost nothing for
+  10^3 to 10^4 m^-1, against about 5 to 10 m^-1 in the linear theory, and
+  then decay quickly once slow radiation has lowered the core amplitude
+  below the value at which its fluctuations stop being unstable; no
+  topological invariant or conserved charge protects them
 version: 1
 tags:
 - natural-sciences
@@ -34,7 +44,7 @@ summary: >-
   reader's condensation of the paper's §§III–IV and VII.
 ---
 
-# THEORY-1506: In a spherically symmetric real scalar field with a double-well potential in 3+1 dimensions, subcritical bubbles with energy above a plateau value, core field beyond the inflection point and initial radius in a window shed part of their energy and settle into oscillons of nearly constant energy and radius whatever their initial radius, which radiate almost nothing for 10^3 to 10^4 m^-1, against about 5 to 10 m^-1 in the linear theory, and then decay quickly once slow radiation has lowered the core amplitude below the value at which its fluctuations stop being unstable; no topological invariant or conserved charge protects them
+# THEORY-1506: Bubbles settle into long-lived oscillons
 
 ## Source
 

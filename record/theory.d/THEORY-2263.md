@@ -12,7 +12,14 @@ promote_when: >-
   concavity (Prop. 2.3, Cor. 2.4) from the binding-constraint and
   replication argument, with the measure stated. The paper's own proof,
   already followed here, does not by itself promote the account.
-title: 'The Radner-Stiglitz nonconcavity of the value of information is an artifact of how the amount of information is measured: under a convex-divergence measure, the value of the efficiently acquired amount is concave with strictly positive marginal value at zero, while the value of the worst acquisition of each amount is almost never concave, and a max-min decision-maker''s value of information is concave too'
+title: 'Value of information nonconcavity is an artifact'
+statement: >-
+  The Radner-Stiglitz nonconcavity of the value of information is an
+  artifact of how the amount of information is measured: under a
+  convex-divergence measure, the value of the efficiently acquired amount is
+  concave with strictly positive marginal value at zero, while the value of
+  the worst acquisition of each amount is almost never concave, and a
+  max-min decision-maker's value of information is concave too
 version: 1
 history:
 - version: 1
@@ -34,7 +41,7 @@ bears_on:
 - QUESTION-374
 ---
 
-# THEORY-2263: The Radner-Stiglitz nonconcavity of the value of information is an artifact of how the amount of information is measured: under a convex-divergence measure, the value of the efficiently acquired amount is concave with strictly positive marginal value at zero, while the value of the worst acquisition of each amount is almost never concave, and a max-min decision-maker's value of information is concave too
+# THEORY-2263: Value of information nonconcavity is an artifact
 
 ## Source
 

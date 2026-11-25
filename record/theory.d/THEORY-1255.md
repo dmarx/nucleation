@@ -3,7 +3,12 @@ number: 1255
 status: Active
 formerly:
 - THEORY-tmp7gcht
-title: "Near a non-degenerate minimum, constant-rate SGD's stationary distribution is a Gaussian set by learning rate, batch size and preconditioner, which can be tuned to match the posterior at a given sample size; training time enters only as the wait for stationarity"
+title: 'Constant SGD''s stationary law can match posterior'
+statement: >-
+  Near a non-degenerate minimum, constant-rate SGD's stationary distribution
+  is a Gaussian set by learning rate, batch size and preconditioner, which
+  can be tuned to match the posterior at a given sample size; training time
+  enters only as the wait for stationarity
 version: 2
 history:
 - version: 2
@@ -39,7 +44,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-209 — Open or Proposed; the question this bears on, Kunin's deep-network reading, and the sibling filed from the same reading -->
 
-# THEORY-1255: Near a non-degenerate minimum, constant-rate SGD's stationary distribution is a Gaussian set by learning rate, batch size and preconditioner, which can be tuned to match the posterior at a given sample size; training time enters only as the wait for stationarity
+# THEORY-1255: Constant SGD's stationary law can match posterior
 
 ## Source
 

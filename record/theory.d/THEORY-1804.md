@@ -3,7 +3,13 @@ number: 1804
 status: Proposed
 formerly:
 - THEORY-tmpwnx3h
-title: 'Liu, Yang et al. (2025) report that, on a benchmark decomposing hypothesis discovery into inspiration retrieval, hypothesis composition and hypothesis ranking, LLMs retrieve non-obvious inspirations well but compose and rank hypotheses only moderately, ranking being dominated by position bias'
+title: 'LLMs find inspirations, rank by position bias'
+statement: >-
+  Liu, Yang et al. (2025) report that, on a benchmark decomposing hypothesis
+  discovery into inspiration retrieval, hypothesis composition and
+  hypothesis ranking, LLMs retrieve non-obvious inspirations well but
+  compose and rank hypotheses only moderately, ranking being dominated by
+  position bias
 version: 1
 tags:
 - philosophy-of-science
@@ -21,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1864 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# THEORY-1804: Liu, Yang et al. (2025) report that, on a benchmark decomposing hypothesis discovery into inspiration retrieval, hypothesis composition and hypothesis ranking, LLMs retrieve non-obvious inspirations well but compose and rank hypotheses only moderately, ranking being dominated by position bias
+# THEORY-1804: LLMs find inspirations, rank by position bias
 
 ## The account
 

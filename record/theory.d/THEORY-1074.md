@@ -3,7 +3,15 @@ number: 1074
 status: Active
 formerly:
 - THEORY-tmphcxoi
-title: 'In Di Biagio and Rovelli''s relational account two classical subsystems'' perspectives merge, agreeing on a variable''s value and on each other''s, when they couple to that variable or to each other, and a coupling to a complementary variable can remove a relative fact from a perspective that did not interact; that this answers the combination problem and keeps perspectives consistent is shown only in worked examples computed relative to a single outside system'
+title: 'Perspectives merge by coupling, in examples only'
+statement: >-
+  In Di Biagio and Rovelli's relational account two classical subsystems'
+  perspectives merge, agreeing on a variable's value and on each other's,
+  when they couple to that variable or to each other, and a coupling to a
+  complementary variable can remove a relative fact from a perspective that
+  did not interact; that this answers the combination problem and keeps
+  perspectives consistent is shown only in worked examples computed relative
+  to a single outside system
 version: 3
 history:
 - version: 2
@@ -57,7 +65,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-621 — Proposed; the earlier statement whose consistency gap this restates, cited as open -->
 
-# THEORY-1074: In Di Biagio and Rovelli's relational account two classical subsystems' perspectives merge, agreeing on a variable's value and on each other's, when they couple to that variable or to each other, and a coupling to a complementary variable can remove a relative fact from a perspective that did not interact; that this answers the combination problem and keeps perspectives consistent is shown only in worked examples computed relative to a single outside system
+# THEORY-1074: Perspectives merge by coupling, in examples only
 
 ## Source
 

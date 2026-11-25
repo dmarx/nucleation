@@ -3,7 +3,17 @@ number: 1827
 status: Active
 formerly:
 - THEORY-tmp7xj6i
-title: 'On Belrose and colleagues, no linear predictor under any convex loss can beat a constant at predicting a categorical concept from a representation if and only if every class has the same mean, that is, the representation''s cross-covariance with the concept is zero; an affine edit Px + b achieves this if and only if P annihilates that cross-covariance''s column space; and one closed-form oblique projection, which whitens, removes the whitened cross-covariance directions and unwhitens, makes the smallest such edit in mean squared distance under every inner-product norm at once'
+title: 'Linear guardedness iff class means are equal'
+statement: >-
+  On Belrose and colleagues, no linear predictor under any convex loss can
+  beat a constant at predicting a categorical concept from a representation
+  if and only if every class has the same mean, that is, the
+  representation's cross-covariance with the concept is zero; an affine edit
+  Px + b achieves this if and only if P annihilates that cross-covariance's
+  column space; and one closed-form oblique projection, which whitens,
+  removes the whitened cross-covariance directions and unwhitens, makes the
+  smallest such edit in mean squared distance under every inner-product norm
+  at once
 version: 2
 history:
 - version: 1
@@ -39,7 +49,7 @@ summary: >-
   oblique eraser can enlarge norms.
 ---
 
-# THEORY-1827: On Belrose and colleagues, no linear predictor under any convex loss can beat a constant at predicting a categorical concept from a representation if and only if every class has the same mean, that is, the representation's cross-covariance with the concept is zero; an affine edit Px + b achieves this if and only if P annihilates that cross-covariance's column space; and one closed-form oblique projection, which whitens, removes the whitened cross-covariance directions and unwhitens, makes the smallest such edit in mean squared distance under every inner-product norm at once
+# THEORY-1827: Linear guardedness iff class means are equal
 
 ## Source
 

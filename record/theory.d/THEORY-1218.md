@@ -3,7 +3,12 @@ number: 1218
 status: Proposed
 formerly:
 - THEORY-tmptcb8e
-title: 'In a sparsely-gated mixture-of-experts layer trained without balancing losses, the gate''s concentration on a few experts arises by self-reinforcement: favoured experts are trained more rapidly and so are selected still more'
+title: 'MoE gate collapse is self-reinforcing'
+statement: >-
+  In a sparsely-gated mixture-of-experts layer trained without balancing
+  losses, the gate's concentration on a few experts arises by
+  self-reinforcement: favoured experts are trained more rapidly and so are
+  selected still more
 version: 1
 history:
 - version: 1
@@ -40,7 +45,7 @@ summary: >-
   [THEORY-927](THEORY-927.md) as the report ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md), kind 1).
 ---
 
-# THEORY-1218: In a sparsely-gated mixture-of-experts layer trained without balancing losses, the gate's concentration on a few experts arises by self-reinforcement: favoured experts are trained more rapidly and so are selected still more
+# THEORY-1218: MoE gate collapse is self-reinforcing
 
 ## Source
 

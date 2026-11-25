@@ -3,7 +3,13 @@ number: 2121
 status: Proposed
 formerly:
 - THEORY-tmpsn2t0
-title: 'Arslan, Taatgen and Verbrugge report that children pass verbal second-order false-belief tasks one to three years after first-order ones, that five- to six-year-olds who fail them mostly answer at first order rather than from reality, and model this as failure to select a second-order strategy for lack of experience'
+title: 'Second-order false belief lags by years'
+statement: >-
+  Arslan, Taatgen and Verbrugge report that children pass verbal
+  second-order false-belief tasks one to three years after first-order ones,
+  that five- to six-year-olds who fail them mostly answer at first order
+  rather than from reality, and model this as failure to select a
+  second-order strategy for lack of experience
 version: 1
 source:
 - LIT-2895
@@ -21,7 +27,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2121: Arslan, Taatgen and Verbrugge report that children pass verbal second-order false-belief tasks one to three years after first-order ones, that five- to six-year-olds who fail them mostly answer at first order rather than from reality, and model this as failure to select a second-order strategy for lack of experience
+# THEORY-2121: Second-order false belief lags by years
 
 ## The account
 

@@ -3,7 +3,15 @@ number: 375
 status: Active
 formerly:
 - THEORY-tmpghhhx
-title: 'In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU was best on regular cyclic paths, by up to 2.3 times over the distance value and 9.6 times over LRU; none of the functions weighs what a region would cost to fetch again, and nothing is proved'
+title: 'No cache replacement value wins on every workload'
+statement: >-
+  In one simulator evicting whole query-shaped cache regions, no replacement
+  value function was best on every workload: a value based on distance from
+  the current query beat LRU where queries clustered around a hot region or
+  wandered with loops, while MRU was best on regular cyclic paths, by up to
+  2.3 times over the distance value and 9.6 times over LRU; none of the
+  functions weighs what a region would cost to fetch again, and nothing is
+  proved
 version: 3
 history:
 - version: 2
@@ -61,7 +69,7 @@ bears_on:
 - QUESTION-340
 ---
 
-# THEORY-375: In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU was best on regular cyclic paths, by up to 2.3 times over the distance value and 9.6 times over LRU; none of the functions weighs what a region would cost to fetch again, and nothing is proved
+# THEORY-375: No cache replacement value wins on every workload
 
 ## Source
 

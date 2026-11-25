@@ -13,7 +13,12 @@ promote_when: >-
   the geodesic is low-loss where the control is not, and refuted by
   functionally similar minima whose distribution-space geodesic crosses a
   barrier. One more pair of weight-matched networks cannot settle it.
-title: "Between two trained networks that compute nearly the same function, a chain of models minimising the summed Jensen–Shannon divergence between neighbours, a discretised Fisher–Rao geodesic found without labels, can be a low-loss path where the straight line in weights has a barrier"
+title: 'Fisher–Rao geodesics can be low-loss paths'
+statement: >-
+  Between two trained networks that compute nearly the same function, a
+  chain of models minimising the summed Jensen–Shannon divergence between
+  neighbours, a discretised Fisher–Rao geodesic found without labels, can be
+  a low-loss path where the straight line in weights has a barrier
 version: 1
 tags:
 - loss-landscapes
@@ -37,7 +42,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-109 — Proposed; the connectivity accounts this path family is set beside, not leaned on -->
 
-# THEORY-578: Between two trained networks that compute nearly the same function, a chain of models minimising the summed Jensen–Shannon divergence between neighbours, a discretised Fisher–Rao geodesic found without labels, can be a low-loss path where the straight line in weights has a barrier
+# THEORY-578: Fisher–Rao geodesics can be low-loss paths
 
 ## Source
 

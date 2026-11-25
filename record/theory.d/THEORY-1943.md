@@ -3,7 +3,13 @@ number: 1943
 status: Proposed
 formerly:
 - THEORY-tmptbi94
-title: 'Stark and Hester hold that coercive control, coercion by force or threat combined with control by deprivation, exploitation and command, is not a type of violence but a condition of unfreedom experienced as entrapment, and review evidence that the level of control, with or without violence, predicts harms including post-separation violence'
+title: 'Coercive control is unfreedom, not violence'
+statement: >-
+  Stark and Hester hold that coercive control, coercion by force or threat
+  combined with control by deprivation, exploitation and command, is not a
+  type of violence but a condition of unfreedom experienced as entrapment,
+  and review evidence that the level of control, with or without violence,
+  predicts harms including post-separation violence
 version: 1
 tags:
 - social-science
@@ -20,7 +26,7 @@ corroborates:
 - CLAIM-709
 ---
 <!-- inactive-ok-file: LIT-2675 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1943: Stark and Hester hold that coercive control, coercion by force or threat combined with control by deprivation, exploitation and command, is not a type of violence but a condition of unfreedom experienced as entrapment, and review evidence that the level of control, with or without violence, predicts harms including post-separation violence
+# THEORY-1943: Coercive control is unfreedom, not violence
 
 ## Source
 

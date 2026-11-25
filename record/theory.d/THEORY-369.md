@@ -3,7 +3,16 @@ number: 369
 status: Active
 formerly:
 - THEORY-tmpc74vc
-title: "Under uniformly distributed, independent data and queries in the unit cube with Euclidean distance and a fixed number of points, an optimal nearest-neighbour search over any index that partitions points into blocks or convex clusters of at least two points must read a fraction of blocks that grows toward all of them as dimension rises; with a five-fold sequential advantage for scanning, estimates put the crossover at about 15–26 dimensions for rectangular and spherical bounding regions, and two tree indexes measured on 50,000 points lost to a scan beyond about 10"
+title: 'Partitioning NN indexes lose to scans in high dim'
+statement: >-
+  Under uniformly distributed, independent data and queries in the unit cube
+  with Euclidean distance and a fixed number of points, an optimal
+  nearest-neighbour search over any index that partitions points into blocks
+  or convex clusters of at least two points must read a fraction of blocks
+  that grows toward all of them as dimension rises; with a five-fold
+  sequential advantage for scanning, estimates put the crossover at about
+  15–26 dimensions for rectangular and spherical bounding regions, and two
+  tree indexes measured on 50,000 points lost to a scan beyond about 10
 version: 2
 history:
 - version: 2
@@ -46,7 +55,7 @@ bears_on:
 - QUESTION-114
 ---
 
-# THEORY-369: Under uniformly distributed, independent data and queries in the unit cube with Euclidean distance and a fixed number of points, an optimal nearest-neighbour search over any index that partitions points into blocks or convex clusters of at least two points must read a fraction of blocks that grows toward all of them as dimension rises; with a five-fold sequential advantage for scanning, estimates put the crossover at about 15–26 dimensions for rectangular and spherical bounding regions, and two tree indexes measured on 50,000 points lost to a scan beyond about 10
+# THEORY-369: Partitioning NN indexes lose to scans in high dim
 
 ## Source
 

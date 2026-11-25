@@ -3,7 +3,13 @@ number: 348
 status: Active
 formerly:
 - THEORY-tmplx6hr
-title: "When staying in one state costs a fixed amount per request and leaving it costs a fixed one-time price, switching once the extra cost paid for staying equals that price is within 2 of the offline optimum on every request sequence, and no deterministic online rule does better; with a third option the best guaranteed ratio rises to 3"
+title: 'Switch-when-paid-equals-price is 2-competitive'
+statement: >-
+  When staying in one state costs a fixed amount per request and leaving it
+  costs a fixed one-time price, switching once the extra cost paid for
+  staying equals that price is within 2 of the offline optimum on every
+  request sequence, and no deterministic online rule does better; with a
+  third option the best guaranteed ratio rises to 3
 version: 1
 tags:
 - databases
@@ -27,7 +33,7 @@ bears_on:
 - QUESTION-114
 ---
 
-# THEORY-348: When staying in one state costs a fixed amount per request and leaving it costs a fixed one-time price, switching once the extra cost paid for staying equals that price is within 2 of the offline optimum on every request sequence, and no deterministic online rule does better; with a third option the best guaranteed ratio rises to 3
+# THEORY-348: Switch-when-paid-equals-price is 2-competitive
 
 ## Source
 

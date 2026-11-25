@@ -15,7 +15,13 @@ promote_when: >-
   neither form, or a lacuna owed to a group's powerlessness that wrongs
   no one, would count against it. More secondary summaries of Fricker
   cannot settle it.
-title: "Epistemic injustice wrongs a person in her capacity as a knower, testimonially through a hearer's prejudicially deflated credibility judgement, and hermeneutically through a gap in shared interpretive resources owed to her group's relative powerlessness, with no hearer's prejudice required"
+title: 'Epistemic injustice wrongs one as a knower'
+statement: >-
+  Epistemic injustice wrongs a person in her capacity as a knower,
+  testimonially through a hearer's prejudicially deflated credibility
+  judgement, and hermeneutically through a gap in shared interpretive
+  resources owed to her group's relative powerlessness, with no hearer's
+  prejudice required
 version: 5
 history:
 - version: 2
@@ -65,7 +71,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-1004 — Unavailable; read only through the author's précis, filed with that skim on 2026-10-14 -->
 <!-- inactive-ok-file: NOTE-832 — Skimmed; the reading of the précis this account rests on -->
 
-# THEORY-317: Epistemic injustice wrongs a person in her capacity as a knower, testimonially through a hearer's prejudicially deflated credibility judgement, and hermeneutically through a gap in shared interpretive resources owed to her group's relative powerlessness, with no hearer's prejudice required
+# THEORY-317: Epistemic injustice wrongs one as a knower
 
 ## Source
 

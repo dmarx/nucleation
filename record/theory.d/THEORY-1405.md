@@ -9,7 +9,13 @@ promote_when: >-
   second self-equilibrium state with the specified output displacement,
   with the obstacle in place, and that every thin-element strain stays at
   or below the cap, so that no point hinge forms.
-title: 'Kinoshita and Ohsaki show that a bistable compliant truss mechanism, whose second stable state comes from snap-through stopped by contact with an obstacle, can be converted into a single-piece frame mechanism with the same function by optimizing thin pseudo-joints at its former pin joints under a strain cap, without lumping deformation into a point hinge'
+title: 'Bistable truss becomes single-piece frame'
+statement: >-
+  Kinoshita and Ohsaki show that a bistable compliant truss mechanism, whose
+  second stable state comes from snap-through stopped by contact with an
+  obstacle, can be converted into a single-piece frame mechanism with the
+  same function by optimizing thin pseudo-joints at its former pin joints
+  under a strain cap, without lumping deformation into a point hinge
 version: 1
 tags:
 - natural-sciences
@@ -26,7 +32,7 @@ summary: >-
   fabricated frame behaves as computed.
 ---
 
-# THEORY-1405: Kinoshita and Ohsaki show that a bistable compliant truss mechanism, whose second stable state comes from snap-through stopped by contact with an obstacle, can be converted into a single-piece frame mechanism with the same function by optimizing thin pseudo-joints at its former pin joints under a strain cap, without lumping deformation into a point hinge
+# THEORY-1405: Bistable truss becomes single-piece frame
 
 ## Source
 

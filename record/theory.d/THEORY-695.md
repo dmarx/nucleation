@@ -3,7 +3,12 @@ number: 695
 status: Active
 formerly:
 - THEORY-tmpz1eac
-title: "Two quantum states can be broadcast if and only if they commute, and cloned if and only if they are identical or orthogonal; the theorem is proved for invertible density operators and marks a line within quantum theory, not a witness of nonclassicality"
+title: 'Broadcast iff commuting, clone iff orthogonal'
+statement: >-
+  Two quantum states can be broadcast if and only if they commute, and
+  cloned if and only if they are identical or orthogonal; the theorem is
+  proved for invertible density operators and marks a line within quantum
+  theory, not a witness of nonclassicality
 version: 1
 tags:
 - quantum-foundations
@@ -22,7 +27,7 @@ summary: >-
   itself certify nonclassicality.
 ---
 
-# THEORY-695: Two quantum states can be broadcast if and only if they commute, and cloned if and only if they are identical or orthogonal; the theorem is proved for invertible density operators and marks a line within quantum theory, not a witness of nonclassicality
+# THEORY-695: Broadcast iff commuting, clone iff orthogonal
 
 ## Source
 

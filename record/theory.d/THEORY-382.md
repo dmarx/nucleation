@@ -3,7 +3,17 @@ number: 382
 status: Active
 formerly:
 - THEORY-tmpqvlyg
-title: "When a web server keeps each page fragment either cached and invalidated by updates or stored and refreshed after them, materializing trades staleness for response time, and in one synthetic simulation with fixed costs a periodic greedy that moves a capped number of fragments between the two, to keep the share of fresh fragments served above a set threshold, tracked that threshold by the authors' reading of its curves, answered faster than caching alone and recovered from overload by materializing everything; no bound on its distance from the best plan is shown"
+title: 'Greedy fragment materialization tracks freshness'
+statement: >-
+  When a web server keeps each page fragment either cached and invalidated
+  by updates or stored and refreshed after them, materializing trades
+  staleness for response time, and in one synthetic simulation with fixed
+  costs a periodic greedy that moves a capped number of fragments between
+  the two, to keep the share of fresh fragments served above a set
+  threshold, tracked that threshold by the authors' reading of its curves,
+  answered faster than caching alone and recovered from overload by
+  materializing everything; no bound on its distance from the best plan is
+  shown
 version: 3
 history:
 - version: 2
@@ -43,7 +53,7 @@ bears_on:
 - QUESTION-194
 ---
 
-# THEORY-382: When a web server keeps each page fragment either cached and invalidated by updates or stored and refreshed after them, materializing trades staleness for response time, and in one synthetic simulation with fixed costs a periodic greedy that moves a capped number of fragments between the two, to keep the share of fresh fragments served above a set threshold, tracked that threshold by the authors' reading of its curves, answered faster than caching alone and recovered from overload by materializing everything; no bound on its distance from the best plan is shown
+# THEORY-382: Greedy fragment materialization tracks freshness
 
 ## Source
 

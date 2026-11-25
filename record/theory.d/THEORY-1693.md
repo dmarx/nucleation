@@ -3,7 +3,13 @@ number: 1693
 status: Proposed
 formerly:
 - THEORY-tmpo63wj
-title: 'Freer and Nosratabadi (2026) show that under the standard limited-attention model choices reveal almost no preferences, while assuming that a decision-maker compares at least two alternatives restores about a third of the full-attention revealed preferences at almost no loss of descriptive fit'
+title: 'Limited attention reveals almost no preferences'
+statement: >-
+  Freer and Nosratabadi (2026) show that under the standard
+  limited-attention model choices reveal almost no preferences, while
+  assuming that a decision-maker compares at least two alternatives restores
+  about a third of the full-attention revealed preferences at almost no loss
+  of descriptive fit
 version: 1
 source:
 - LIT-2435
@@ -26,7 +32,7 @@ summary: >-
   et al. 2012, "generic CLA") recovers almost nothing.
 ---
 
-# THEORY-1693: Freer and Nosratabadi (2026) show that under the standard limited-attention model choices reveal almost no preferences, while assuming that a decision-maker compares at least two alternatives restores about a third of the full-attention revealed preferences at almost no loss of descriptive fit
+# THEORY-1693: Limited attention reveals almost no preferences
 
 ## The account
 

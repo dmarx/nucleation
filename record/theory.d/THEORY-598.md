@@ -3,7 +3,15 @@ number: 598
 status: Active
 formerly:
 - THEORY-tmpodgn4
-title: "Group interactions that enter a dynamical model linearly, as in diffusion on simplices or random walks on hypergraphs with edge-independent vertex weights, reduce to pairwise dynamics on a reweighted graph; the abrupt transitions, bistability and stabilised coexistence reported for higher-order systems come from group terms that enter nonlinearly, and whether the representation is a hypergraph or a simplicial complex is itself a modelling claim that changes the outcome"
+title: 'Linear group interactions reduce to pairwise'
+statement: >-
+  Group interactions that enter a dynamical model linearly, as in diffusion
+  on simplices or random walks on hypergraphs with edge-independent vertex
+  weights, reduce to pairwise dynamics on a reweighted graph; the abrupt
+  transitions, bistability and stabilised coexistence reported for
+  higher-order systems come from group terms that enter nonlinearly, and
+  whether the representation is a hypergraph or a simplicial complex is
+  itself a modelling claim that changes the outcome
 version: 2
 history:
 - version: 2
@@ -34,7 +42,7 @@ bears_on:
 - QUESTION-133
 ---
 
-# THEORY-598: Group interactions that enter a dynamical model linearly, as in diffusion on simplices or random walks on hypergraphs with edge-independent vertex weights, reduce to pairwise dynamics on a reweighted graph; the abrupt transitions, bistability and stabilised coexistence reported for higher-order systems come from group terms that enter nonlinearly, and whether the representation is a hypergraph or a simplicial complex is itself a modelling claim that changes the outcome
+# THEORY-598: Linear group interactions reduce to pairwise
 
 ## Source
 

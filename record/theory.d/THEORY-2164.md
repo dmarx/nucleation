@@ -3,7 +3,18 @@ number: 2164
 status: Proposed
 formerly:
 - THEORY-tmpg4aat
-title: 'Wei, Zhang, Cousseau, Ozeki and Amari show that in two-layer networks trained by averaged online gradient descent, the flow near an overlap singularity has to leading order a universal first integral whose constant decides whether an orbit reaches the line of overlapping units or passes on to the elimination singularity, as most orbits do; that the line is stable, saddle or split by the signature of a residual matrix, a Milnor-like attractor on which a noise-driven random walk is the on-singularity plateau; and that orbits passing near it cross a flat region where the loss changes only at fourth order, a shorter near-singularity plateau'
+title: 'Overlap singularities are Milnor-like attractors'
+statement: >-
+  Wei, Zhang, Cousseau, Ozeki and Amari show that in two-layer networks
+  trained by averaged online gradient descent, the flow near an overlap
+  singularity has to leading order a universal first integral whose constant
+  decides whether an orbit reaches the line of overlapping units or passes
+  on to the elimination singularity, as most orbits do; that the line is
+  stable, saddle or split by the signature of a residual matrix, a
+  Milnor-like attractor on which a noise-driven random walk is the
+  on-singularity plateau; and that orbits passing near it cross a flat
+  region where the loss changes only at fourth order, a shorter
+  near-singularity plateau
 promote_when: >-
   The record integrates the averaged equations 3.6–3.7 numerically for a
   definite H and confirms that ½uᵀu − (2w∗²/3) log((z² + 3)²/|z|) is
@@ -26,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-3017 — Deferred, registered 2026-11-21 from this reading, unread -->
 
-# THEORY-2164: Wei, Zhang, Cousseau, Ozeki and Amari show that in two-layer networks trained by averaged online gradient descent, the flow near an overlap singularity has to leading order a universal first integral whose constant decides whether an orbit reaches the line of overlapping units or passes on to the elimination singularity, as most orbits do; that the line is stable, saddle or split by the signature of a residual matrix, a Milnor-like attractor on which a noise-driven random walk is the on-singularity plateau; and that orbits passing near it cross a flat region where the loss changes only at fourth order, a shorter near-singularity plateau
+# THEORY-2164: Overlap singularities are Milnor-like attractors
 
 ## Source
 

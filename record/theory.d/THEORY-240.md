@@ -18,7 +18,12 @@ promote_when: >-
   unresponsive patients shown to be covertly aware. What cannot settle
   it: more resting-state contrasts from the same datasets, or the
   non-robust increases.
-title: 'Loss of consciousness under propofol and in chronic disorders of consciousness goes with reduced pairwise integrated information between default-mode regions that rank as gateways of a synergy-defined workspace, not between its broadcasters'
+title: 'Unconsciousness cuts integration at gateways'
+statement: >-
+  Loss of consciousness under propofol and in chronic disorders of
+  consciousness goes with reduced pairwise integrated information between
+  default-mode regions that rank as gateways of a synergy-defined workspace,
+  not between its broadcasters
 version: 1
 tags:
 - consciousness
@@ -40,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-003 THEORY-096 THEORY-098 — Deferred or Proposed; the set-aside question and claim this bears on, and the accounts it is compared with, cited as open -->
 
-# THEORY-240: Loss of consciousness under propofol and in chronic disorders of consciousness goes with reduced pairwise integrated information between default-mode regions that rank as gateways of a synergy-defined workspace, not between its broadcasters
+# THEORY-240: Unconsciousness cuts integration at gateways
 
 ## Source
 

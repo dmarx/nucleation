@@ -15,7 +15,14 @@ promote_when: >-
   the kept nodes' function changes as much as the edges. More tables of
   node and edge change rates without a null cannot settle it, since a
   fixed fraction of a dense graph's edges produces the contrast by itself.
-title: 'When a pretrained language model is fine-tuned on a task it initially fails, it acquires the task mainly by reconnecting components it already has rather than by recruiting new ones: the circuits found before and after keep most of their nodes and change most of their edges, as Wang, Hu, Du, Cheng, Wang and Zou propose from LoRA fine-tuning of Pythia-1.4B on arithmetic'
+title: 'Fine-tuning rewires existing circuits'
+statement: >-
+  When a pretrained language model is fine-tuned on a task it initially
+  fails, it acquires the task mainly by reconnecting components it already
+  has rather than by recruiting new ones: the circuits found before and
+  after keep most of their nodes and change most of their edges, as Wang,
+  Hu, Du, Cheng, Wang and Zou propose from LoRA fine-tuning of Pythia-1.4B
+  on arithmetic
 version: 1
 history:
 - version: 1
@@ -40,7 +47,7 @@ summary: >-
   results, arithmetic only.
 ---
 
-# THEORY-997: When a pretrained language model is fine-tuned on a task it initially fails, it acquires the task mainly by reconnecting components it already has rather than by recruiting new ones: the circuits found before and after keep most of their nodes and change most of their edges, as Wang, Hu, Du, Cheng, Wang and Zou propose from LoRA fine-tuning of Pythia-1.4B on arithmetic
+# THEORY-997: Fine-tuning rewires existing circuits
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 1249
 status: Active
 formerly:
 - THEORY-tmp07kll
-title: 'In a fully observed, finite, communicating, stationary controlled Markov process, a deterministic goal-conditioned policy that achieves every composite goal of depth up to n with probability at least 1 − δ times the optimum determines every transition probability to within √(2P(1−P)/((n−1)(1−δ))), read from its first action on either-or goals; for a policy competent only at one-step goals no bound follows'
+title: 'Deep-goal competence determines the world model'
+statement: >-
+  In a fully observed, finite, communicating, stationary controlled Markov
+  process, a deterministic goal-conditioned policy that achieves every
+  composite goal of depth up to n with probability at least 1 − δ times the
+  optimum determines every transition probability to within
+  √(2P(1−P)/((n−1)(1−δ))), read from its first action on either-or goals;
+  for a policy competent only at one-step goals no bound follows
 version: 1
 tags:
 - agency
@@ -23,7 +30,7 @@ summary: >-
   determinism and the regret bound on every listed goal.
 ---
 
-# THEORY-1249: In a fully observed, finite, communicating, stationary controlled Markov process, a deterministic goal-conditioned policy that achieves every composite goal of depth up to n with probability at least 1 − δ times the optimum determines every transition probability to within √(2P(1−P)/((n−1)(1−δ))), read from its first action on either-or goals; for a policy competent only at one-step goals no bound follows
+# THEORY-1249: Deep-goal competence determines the world model
 
 ## Source
 

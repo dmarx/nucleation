@@ -20,7 +20,11 @@ promote_when: >-
   IID control. More cases of continual learning forgetting along a line
   will not settle it, because the continual endpoint's own loss on the
   earlier task explains most of the rise.
-title: 'Linear connectivity from a shared, already-stable start holds only when the objectives the runs optimise share structure, and breaks as that structure is removed'
+title: 'Shared-start connectivity needs shared objectives'
+statement: >-
+  Linear connectivity from a shared, already-stable start holds only when
+  the objectives the runs optimise share structure, and breaks as that
+  structure is removed
 version: 3
 history:
 - version: 2
@@ -64,7 +68,7 @@ presupposes:
 ---
 <!-- inactive-ok-file: LIT-676 — Proposed; Li et al. on GNNs, named as a limit on scope, not leaned on -->
 
-# THEORY-115: Linear connectivity from a shared, already-stable start holds only when the objectives the runs optimise share structure, and breaks as that structure is removed
+# THEORY-115: Shared-start connectivity needs shared objectives
 
 ## Source
 

@@ -9,7 +9,15 @@ promote_when: >-
   prescribed multi-cluster phase pattern by one open-loop common input
   designed from their measured responses, with the pattern held to within
   the stated phase error.
-title: 'Ocampo-Espindola and colleagues show, in a kinetic model and in nickel electrodissolution experiments, that one common open-loop periodic input designed from each unit''s natural frequency and phase response curve entrains uncoupled oscillators with different responses into a prescribed phase pattern, including one-, two- and three-cluster states of four units, where a design from the mean response curve can lock them into the wrong pattern'
+title: 'One input entrains oscillators into patterns'
+statement: >-
+  Ocampo-Espindola and colleagues show, in a kinetic model and in nickel
+  electrodissolution experiments, that one common open-loop periodic input
+  designed from each unit's natural frequency and phase response curve
+  entrains uncoupled oscillators with different responses into a prescribed
+  phase pattern, including one-, two- and three-cluster states of four
+  units, where a design from the mean response curve can lock them into the
+  wrong pattern
 version: 1
 tags:
 - complex-systems
@@ -27,7 +35,7 @@ summary: >-
   another. Proposed until its promote_when is met.
 ---
 
-# THEORY-2246: Ocampo-Espindola and colleagues show, in a kinetic model and in nickel electrodissolution experiments, that one common open-loop periodic input designed from each unit's natural frequency and phase response curve entrains uncoupled oscillators with different responses into a prescribed phase pattern, including one-, two- and three-cluster states of four units, where a design from the mean response curve can lock them into the wrong pattern
+# THEORY-2246: One input entrains oscillators into patterns
 
 ## Source
 

@@ -19,7 +19,12 @@ promote_when: >-
   a pivot label and label set, not of the embedding f(x) itself; the record
   has not decided that a Bures-type quantity on those coordinates counts;
   and the identity is the reader's, not a proved statement of the source.
-title: 'Convergence of representations, in the Platonic hypothesis''s sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used'
+title: 'Kernel convergence fixes features up to symmetry'
+statement: >-
+  Convergence of representations, in the Platonic hypothesis's sense, is
+  convergence of kernels, which fixes representations only up to the
+  symmetry group of what is observed; whether closeness in distribution
+  implies closeness of representation depends on the distance used
 version: 7
 history:
 - version: 2
@@ -99,7 +104,7 @@ extends:
 - THEORY-723
 ---
 
-# THEORY-002: Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used
+# THEORY-002: Kernel convergence fixes features up to symmetry
 
 ## Source
 

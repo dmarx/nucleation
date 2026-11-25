@@ -3,7 +3,13 @@ number: 1029
 status: Active
 formerly:
 - THEORY-tmpnu6ih
-title: 'On a three-layer parenthesis-balance classifier, causal-scrubbing hypotheses that resample the terms of one head''s input separately scored 81% and 84% of the loss recovered against 77% for the less specific hypothesis they refine, and the authors attribute the rise to resampling washing out a signal, not to a better explanation'
+title: 'Finer scrubbing gains reflect washout, not insight'
+statement: >-
+  On a three-layer parenthesis-balance classifier, causal-scrubbing
+  hypotheses that resample the terms of one head's input separately scored
+  81% and 84% of the loss recovered against 77% for the less specific
+  hypothesis they refine, and the authors attribute the rise to resampling
+  washing out a signal, not to a better explanation
 version: 2
 history:
 - version: 1
@@ -46,7 +52,7 @@ bears_on:
 - QUESTION-275
 ---
 
-# THEORY-1029: On a three-layer parenthesis-balance classifier, causal-scrubbing hypotheses that resample the terms of one head's input separately scored 81% and 84% of the loss recovered against 77% for the less specific hypothesis they refine, and the authors attribute the rise to resampling washing out a signal, not to a better explanation
+# THEORY-1029: Finer scrubbing gains reflect washout, not insight
 
 ## Source
 

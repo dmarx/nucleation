@@ -3,7 +3,14 @@ number: 489
 status: Active
 formerly:
 - THEORY-tmpaw5e2
-title: "Chains of human function learners, each trained on the previous learner's responses, forget their starting function and in 28 of 32 families converge within a few generations to a positive linear function, the bias earlier studies report, whatever function trained the first learner; this is convergence to the learners' favoured function, not shown to be convergence to their prior"
+title: 'Iterated learners converge to positive linear'
+statement: >-
+  Chains of human function learners, each trained on the previous learner's
+  responses, forget their starting function and in 28 of 32 families
+  converge within a few generations to a positive linear function, the bias
+  earlier studies report, whatever function trained the first learner; this
+  is convergence to the learners' favoured function, not shown to be
+  convergence to their prior
 version: 1
 tags:
 - cognition
@@ -27,7 +34,7 @@ corroborates:
 <!-- inactive-ok-file: LIT-768 — Unavailable; Bartlett's serial reproduction, named as the experimental lineage, not leaned on -->
 <!-- inactive-ok-file: CLAIM-090 — Proposed; the theorem this result is offered for and a claim that cites it, named in Connections, not leaned on -->
 
-# THEORY-489: Chains of human function learners, each trained on the previous learner's responses, forget their starting function and in 28 of 32 families converge within a few generations to a positive linear function, the bias earlier studies report, whatever function trained the first learner; this is convergence to the learners' favoured function, not shown to be convergence to their prior
+# THEORY-489: Iterated learners converge to positive linear
 
 ## Source
 

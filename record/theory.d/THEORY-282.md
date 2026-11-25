@@ -3,7 +3,12 @@ number: 282
 status: Active
 formerly:
 - THEORY-tmps4hmc
-title: 'A subspace intervention can reproduce the output effect of changing a variable without localizing it, by pairing a direction that varies with the variable but cannot reach the output with one that can reach the output but does not vary on the data'
+title: 'Subspace interventions can fake localization'
+statement: >-
+  A subspace intervention can reproduce the output effect of changing a
+  variable without localizing it, by pairing a direction that varies with
+  the variable but cannot reach the output with one that can reach the
+  output but does not vary on the data
 version: 3
 history:
 - version: 2
@@ -45,7 +50,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-287 — Proposed; filed with this account from the same dispute -->
 
-# THEORY-282: A subspace intervention can reproduce the output effect of changing a variable without localizing it, by pairing a direction that varies with the variable but cannot reach the output with one that can reach the output but does not vary on the data
+# THEORY-282: Subspace interventions can fake localization
 
 ## Source
 

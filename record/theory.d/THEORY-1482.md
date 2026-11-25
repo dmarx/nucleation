@@ -3,7 +3,13 @@ number: 1482
 status: Active
 formerly:
 - THEORY-tmpia26b
-title: "Brown, Donner, Ribic and Bocetti project that the Kirtland's Warbler, recovered on plantation habitat that replaces suppressed wildfire, settles at a lower plateau when the supplied breeding habitat is cut, without going extinct from habitat loss alone, so that the species remains reliant on humans to keep its breeding habitat at its current quantity"
+title: 'Kirtland''s warbler stays conservation-reliant'
+statement: >-
+  Brown, Donner, Ribic and Bocetti project that the Kirtland's Warbler,
+  recovered on plantation habitat that replaces suppressed wildfire, settles
+  at a lower plateau when the supplied breeding habitat is cut, without
+  going extinct from habitat loss alone, so that the species remains reliant
+  on humans to keep its breeding habitat at its current quantity
 version: 4
 history:
 - version: 2
@@ -54,7 +60,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-2146 — Unavailable; cited from the reading of Brown et al. (2019) as open -->
 
-# THEORY-1482: Brown, Donner, Ribic and Bocetti project that the Kirtland's Warbler, recovered on plantation habitat that replaces suppressed wildfire, settles at a lower plateau when the supplied breeding habitat is cut, without going extinct from habitat loss alone, so that the species remains reliant on humans to keep its breeding habitat at its current quantity
+# THEORY-1482: Kirtland's warbler stays conservation-reliant
 
 ## Source
 

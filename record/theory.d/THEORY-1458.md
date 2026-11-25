@@ -3,7 +3,15 @@ number: 1458
 status: Active
 formerly:
 - THEORY-tmp008j1
-title: 'In Shah, Shafir and Mullainathan''s working paper, players given small budgets of seconds or of guesses borrowed a larger share of their budget against later rounds than players given large ones and, when borrowing carried interest, scored lower than when they could not borrow, while large-budget players did not; the authors attribute this to constraint focus, attention shifted toward the binding resource at the cost of others, whose one direct test is a two-grid memory game with 33 players'
+title: 'Scarcity focus leads to costly borrowing'
+statement: >-
+  In Shah, Shafir and Mullainathan's working paper, players given small
+  budgets of seconds or of guesses borrowed a larger share of their budget
+  against later rounds than players given large ones and, when borrowing
+  carried interest, scored lower than when they could not borrow, while
+  large-budget players did not; the authors attribute this to constraint
+  focus, attention shifted toward the binding resource at the cost of
+  others, whose one direct test is a two-grid memory game with 33 players
 version: 2
 history:
 - version: 2
@@ -42,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2147 — Unavailable, Proposed or new; cited from the reading of Shah, Shafir & Mullainathan (working paper) as open -->
 
-# THEORY-1458: In Shah, Shafir and Mullainathan's working paper, players given small budgets of seconds or of guesses borrowed a larger share of their budget against later rounds than players given large ones and, when borrowing carried interest, scored lower than when they could not borrow, while large-budget players did not; the authors attribute this to constraint focus, attention shifted toward the binding resource at the cost of others, whose one direct test is a two-grid memory game with 33 players
+# THEORY-1458: Scarcity focus leads to costly borrowing
 
 ## Source
 

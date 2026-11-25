@@ -3,7 +3,16 @@ number: 2080
 status: Proposed
 formerly:
 - THEORY-tmps2gur
-title: 'Hessel, Tan and Lee report that on Reddit from 2006 to 2014, among subreddit pairs whose names differ by an affix and whose content is related, the newer community was usually far less active and often drew few of its early participants from the older; and that in spinoff pairs users who tried the spinoff were, in most kinds of pair, more likely than matched non-explorers to raise their activity in the original over the next 30 days, with the effect negative for some kinds and pairs and causation disclaimed'
+title: 'Newer affix subreddits are usually far smaller'
+statement: >-
+  Hessel, Tan and Lee report that on Reddit from 2006 to 2014, among
+  subreddit pairs whose names differ by an affix and whose content is
+  related, the newer community was usually far less active and often drew
+  few of its early participants from the older; and that in spinoff pairs
+  users who tried the spinoff were, in most kinds of pair, more likely than
+  matched non-explorers to raise their activity in the original over the
+  next 30 days, with the effect negative for some kinds and pairs and
+  causation disclaimed
 version: 1
 source:
 - LIT-2854
@@ -23,7 +32,7 @@ summary: >-
   Proposed until its promote_when is met.
 ---
 
-# THEORY-2080: Hessel, Tan and Lee report that on Reddit from 2006 to 2014, among subreddit pairs whose names differ by an affix and whose content is related, the newer community was usually far less active and often drew few of its early participants from the older; and that in spinoff pairs users who tried the spinoff were, in most kinds of pair, more likely than matched non-explorers to raise their activity in the original over the next 30 days, with the effect negative for some kinds and pairs and causation disclaimed
+# THEORY-2080: Newer affix subreddits are usually far smaller
 
 ## The account
 

@@ -3,7 +3,13 @@ number: 1175
 status: Proposed
 formerly:
 - THEORY-tmp6e444
-title: 'Between tests, implementation intentions in the contingent if-then format had larger effects than plans that schedule when, where and what without linking cue to response (d = .43 against .29); rehearsing the plan once raised the effect, keeping a copy to revisit lowered it (.31 against .44), and adding how or for how long to a time-and-place cue roughly halved it'
+title: 'If-then plans beat when-where scheduling'
+statement: >-
+  Between tests, implementation intentions in the contingent if-then format
+  had larger effects than plans that schedule when, where and what without
+  linking cue to response (d = .43 against .29); rehearsing the plan once
+  raised the effect, keeping a copy to revisit lowered it (.31 against .44),
+  and adding how or for how long to a time-and-place cue roughly halved it
 version: 1
 tags:
 - motivation
@@ -36,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-1 rule this entry is filed under -->
 
-# THEORY-1175: Between tests, implementation intentions in the contingent if-then format had larger effects than plans that schedule when, where and what without linking cue to response (d = .43 against .29); rehearsing the plan once raised the effect, keeping a copy to revisit lowered it (.31 against .44), and adding how or for how long to a time-and-place cue roughly halved it
+# THEORY-1175: If-then plans beat when-where scheduling
 
 ## Source
 

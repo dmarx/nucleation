@@ -3,7 +3,13 @@ number: 723
 status: Active
 formerly:
 - THEORY-tmp3z96c
-title: 'For the final embedding and unembedding of a softmax model, the output distribution fixes the representations only up to an invertible linear map, and whether closeness in distribution bounds representational dissimilarity depends on the distance: not for KL in the saturation regime, but yes for the log-likelihood variance distance'
+title: 'Softmax fixes representations up to linear map'
+statement: >-
+  For the final embedding and unembedding of a softmax model, the output
+  distribution fixes the representations only up to an invertible linear
+  map, and whether closeness in distribution bounds representational
+  dissimilarity depends on the distance: not for KL in the saturation
+  regime, but yes for the log-likelihood variance distance
 version: 1
 history:
 - version: 1
@@ -42,7 +48,7 @@ presupposes:
 ---
 <!-- inactive-ok-file: THEORY-002 — Proposed; the Platonic-hypothesis reading this core was split from and that extends it, cited as open -->
 
-# THEORY-723: For the final embedding and unembedding of a softmax model, the output distribution fixes the representations only up to an invertible linear map, and whether closeness in distribution bounds representational dissimilarity depends on the distance: not for KL in the saturation regime, but yes for the log-likelihood variance distance
+# THEORY-723: Softmax fixes representations up to linear map
 
 ## Source
 

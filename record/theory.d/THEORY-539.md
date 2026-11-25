@@ -14,7 +14,12 @@ promote_when: >-
   it refutes Sanctity's separate origin if condemnation follows perceived
   self-control or harm and disgust adds nothing. More MFQ self-report on the
   five scales cannot settle either.
-title: "Moral judgment draws on several innately prepared intuitive foundations, at least Care, Fairness, Loyalty, Authority and Sanctity, each a response to a different adaptive challenge, and Sanctity descends from pathogen avoidance rather than from cooperation"
+title: 'Sanctity descends from pathogen avoidance'
+statement: >-
+  Moral judgment draws on several innately prepared intuitive foundations,
+  at least Care, Fairness, Loyalty, Authority and Sanctity, each a response
+  to a different adaptive challenge, and Sanctity descends from pathogen
+  avoidance rather than from cooperation
 version: 1
 tags:
 - moral-psychology
@@ -40,7 +45,7 @@ summary: >-
   disgust findings behind Sanctity were later disputed.
 ---
 
-# THEORY-539: Moral judgment draws on several innately prepared intuitive foundations, at least Care, Fairness, Loyalty, Authority and Sanctity, each a response to a different adaptive challenge, and Sanctity descends from pathogen avoidance rather than from cooperation
+# THEORY-539: Sanctity descends from pathogen avoidance
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 2124
 status: Proposed
 formerly:
 - THEORY-tmpuyvpv
-title: 'Bohn, Kachel and Tomasello report that when speech is blocked young children create iconic gestural signs within one 30-minute reference game, that partners adopt them so that they become pair-specific and drift slightly toward the arbitrary as effort drops, and that six- and eight-year-olds combine signs into compositional sequences more often for complex relations, not in their native word order'
+title: 'Children invent iconic signs that conventionalize'
+statement: >-
+  Bohn, Kachel and Tomasello report that when speech is blocked young
+  children create iconic gestural signs within one 30-minute reference game,
+  that partners adopt them so that they become pair-specific and drift
+  slightly toward the arbitrary as effort drops, and that six- and
+  eight-year-olds combine signs into compositional sequences more often for
+  complex relations, not in their native word order
 version: 1
 source:
 - LIT-2923
@@ -23,7 +30,7 @@ summary: >-
   rating-based measures. Proposed until its promote_when is met.
 ---
 
-# THEORY-2124: Bohn, Kachel and Tomasello report that when speech is blocked young children create iconic gestural signs within one 30-minute reference game, that partners adopt them so that they become pair-specific and drift slightly toward the arbitrary as effort drops, and that six- and eight-year-olds combine signs into compositional sequences more often for complex relations, not in their native word order
+# THEORY-2124: Children invent iconic signs that conventionalize
 
 ## The account
 

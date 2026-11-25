@@ -3,7 +3,12 @@ number: 652
 status: Active
 formerly:
 - THEORY-tmpvk1js
-title: "Over any field, a finite-dimensional associative algebra with no nilpotent two-sided ideal is uniquely a direct sum of simple algebras, and each simple algebra is a full matrix algebra over a division algebra, which over the reals can be the complex numbers or the quaternions"
+title: 'Semisimple algebras are sums of matrix algebras'
+statement: >-
+  Over any field, a finite-dimensional associative algebra with no nilpotent
+  two-sided ideal is uniquely a direct sum of simple algebras, and each
+  simple algebra is a full matrix algebra over a division algebra, which
+  over the reals can be the complex numbers or the quaternions
 version: 1
 tags:
 - mathematics
@@ -25,7 +30,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-331 — Unavailable; named as the later generalisation, not read -->
 
-# THEORY-652: Over any field, a finite-dimensional associative algebra with no nilpotent two-sided ideal is uniquely a direct sum of simple algebras, and each simple algebra is a full matrix algebra over a division algebra, which over the reals can be the complex numbers or the quaternions
+# THEORY-652: Semisimple algebras are sums of matrix algebras
 
 ## Source
 

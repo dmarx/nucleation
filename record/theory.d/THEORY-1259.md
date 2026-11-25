@@ -3,7 +3,15 @@ number: 1259
 status: Active
 formerly:
 - THEORY-tmpfm1ma
-title: 'When a teacher''s next-token distribution depends on a context the student cannot observe, the forward-KL-optimal student is the teacher averaged over the contexts compatible with the student''s observation, the loss it cannot remove is the conditional mutual information between the teacher''s output and the hidden context, and the optimal student is at least as uncertain as the teacher is on average; the self-distillation objectives actually trained may not be forward KL at all'
+title: 'Hidden-context distillation leaves CMI loss'
+statement: >-
+  When a teacher's next-token distribution depends on a context the student
+  cannot observe, the forward-KL-optimal student is the teacher averaged
+  over the contexts compatible with the student's observation, the loss it
+  cannot remove is the conditional mutual information between the teacher's
+  output and the hidden context, and the optimal student is at least as
+  uncertain as the teacher is on average; the self-distillation objectives
+  actually trained may not be forward KL at all
 version: 2
 history:
 - version: 2
@@ -30,7 +38,7 @@ bears_on:
 - QUESTION-361
 ---
 
-# THEORY-1259: When a teacher's next-token distribution depends on a context the student cannot observe, the forward-KL-optimal student is the teacher averaged over the contexts compatible with the student's observation, the loss it cannot remove is the conditional mutual information between the teacher's output and the hidden context, and the optimal student is at least as uncertain as the teacher is on average; the self-distillation objectives actually trained may not be forward KL at all
+# THEORY-1259: Hidden-context distillation leaves CMI loss
 
 ## Source
 

@@ -13,7 +13,15 @@ promote_when: >-
   same training judgements. Refuted if a cue-based model with no
   mental-state variables does as well on held-out beliefs and desires
   together. A re-analysis of the 2017 data cannot settle it.
-title: 'Baker, Jara-Ettinger, Saxe and Tenenbaum propose that people attribute beliefs, desires and percepts to an agent moving through a spatial scene by jointly inverting a model of it as an approximately rational planner that perceives by line of sight and updates its beliefs, so that such a model predicts adults'' graded mental-state and world-state judgements better than versions lacking action costs or uncertain beliefs and better than motion-feature heuristics'
+title: 'Mind reading is inverting a rational planner'
+statement: >-
+  Baker, Jara-Ettinger, Saxe and Tenenbaum propose that people attribute
+  beliefs, desires and percepts to an agent moving through a spatial scene
+  by jointly inverting a model of it as an approximately rational planner
+  that perceives by line of sight and updates its beliefs, so that such a
+  model predicts adults' graded mental-state and world-state judgements
+  better than versions lacking action costs or uncertain beliefs and better
+  than motion-feature heuristics
 version: 1
 tags:
 - cognition
@@ -33,7 +41,7 @@ summary: >-
   from the owner's pasted synthesis.
 ---
 
-# THEORY-1361: Baker, Jara-Ettinger, Saxe and Tenenbaum propose that people attribute beliefs, desires and percepts to an agent moving through a spatial scene by jointly inverting a model of it as an approximately rational planner that perceives by line of sight and updates its beliefs, so that such a model predicts adults' graded mental-state and world-state judgements better than versions lacking action costs or uncertain beliefs and better than motion-feature heuristics
+# THEORY-1361: Mind reading is inverting a rational planner
 
 ## Source
 

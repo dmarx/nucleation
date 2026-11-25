@@ -3,7 +3,13 @@ number: 1824
 status: Proposed
 formerly:
 - THEORY-tmpvkzx3
-title: 'Ahmed holds, from the testimony of university complainants, that an institution''s complaint procedures can reproduce the problems they are offered to address and can be used against those who complain, and that a complaint goes further the higher its support in the organization, so that following complaints shows how an institution works and for whom'
+title: 'Complaint procedures can turn on complainants'
+statement: >-
+  Ahmed holds, from the testimony of university complainants, that an
+  institution's complaint procedures can reproduce the problems they are
+  offered to address and can be used against those who complain, and that a
+  complaint goes further the higher its support in the organization, so that
+  following complaints shows how an institution works and for whom
 version: 1
 source:
 - LIT-2534
@@ -23,7 +29,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-1901 — filed from the exchange "About Plantation Paradise" (2026-11-12), Skimmed -->
 <!-- inactive-ok-file: CLAIM-619 — Proposed; cited as on the record -->
 
-# THEORY-1824: Ahmed holds, from the testimony of university complainants, that an institution's complaint procedures can reproduce the problems they are offered to address and can be used against those who complain, and that a complaint goes further the higher its support in the organization, so that following complaints shows how an institution works and for whom
+# THEORY-1824: Complaint procedures can turn on complainants
 
 ## The account
 

@@ -3,7 +3,15 @@ number: 1275
 status: Active
 formerly:
 - THEORY-tmpzcsl4
-title: "In the toy model of superposition, at the paper's one SGD setting, the Bayesian counterparts of the observed training chain 4⁺⁺⁻ → 4⁺ → 5 → 5⁺ have critical sample sizes that rise in the order training meets it at the point estimates of the learning coefficients, though not across their spread; SGD was not seen to take the posterior's main transition, 5 → 6, and trained on 1,000 samples it ends in a phase that the posterior at n = 1,000, dominated by the 6-gon, does not favour"
+title: 'SGD transitions only partly match the posterior'
+statement: >-
+  In the toy model of superposition, at the paper's one SGD setting, the
+  Bayesian counterparts of the observed training chain 4⁺⁺⁻ → 4⁺ → 5 → 5⁺
+  have critical sample sizes that rise in the order training meets it at the
+  point estimates of the learning coefficients, though not across their
+  spread; SGD was not seen to take the posterior's main transition, 5 → 6,
+  and trained on 1,000 samples it ends in a phase that the posterior at n =
+  1,000, dominated by the 6-gon, does not favour
 version: 2
 history:
 - version: 2
@@ -46,7 +54,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2191 — Proposed; the reading of Lee et al. filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-# THEORY-1275: In the toy model of superposition, at the paper's one SGD setting, the Bayesian counterparts of the observed training chain 4⁺⁺⁻ → 4⁺ → 5 → 5⁺ have critical sample sizes that rise in the order training meets it at the point estimates of the learning coefficients, though not across their spread; SGD was not seen to take the posterior's main transition, 5 → 6, and trained on 1,000 samples it ends in a phase that the posterior at n = 1,000, dominated by the 6-gon, does not favour
+# THEORY-1275: SGD transitions only partly match the posterior
 
 ## Source
 

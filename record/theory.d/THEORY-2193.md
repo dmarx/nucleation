@@ -14,7 +14,16 @@ promote_when: >-
   Not met by a restatement that cites this paper. Not defeated by a
   showing that the probe's crossing does not cause the network's
   plateau, which the title does not assert.
-title: "Yang finds that a detached Gaussian-mixture probe fitted to an encoder's output loses its collapsed state through a supercritical pitchfork at a precision equal to the reciprocal of the largest eigenvalue of the features' covariance, that the visible split can lag that crossing by orders of magnitude, so that in modular-addition grokking the crossing comes near step 40 and generalisation thousands of steps later, sooner with more weight decay, and that in sparse autoencoders an atom's part-of-speech purity early in training predicts its purity at convergence"
+title: 'Features split by pitchfork long before seen'
+statement: >-
+  Yang finds that a detached Gaussian-mixture probe fitted to an encoder's
+  output loses its collapsed state through a supercritical pitchfork at a
+  precision equal to the reciprocal of the largest eigenvalue of the
+  features' covariance, that the visible split can lag that crossing by
+  orders of magnitude, so that in modular-addition grokking the crossing
+  comes near step 40 and generalisation thousands of steps later, sooner
+  with more weight decay, and that in sparse autoencoders an atom's
+  part-of-speech purity early in training predicts its purity at convergence
 version: 1
 tags:
 - learning-theory
@@ -36,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1429 — Proposed; the reading that qualifies the paper's language -->
 
-# THEORY-2193: Yang finds that a detached Gaussian-mixture probe fitted to an encoder's output loses its collapsed state through a supercritical pitchfork at a precision equal to the reciprocal of the largest eigenvalue of the features' covariance, that the visible split can lag that crossing by orders of magnitude, so that in modular-addition grokking the crossing comes near step 40 and generalisation thousands of steps later, sooner with more weight decay, and that in sparse autoencoders an atom's part-of-speech purity early in training predicts its purity at convergence
+# THEORY-2193: Features split by pitchfork long before seen
 
 ## Source
 

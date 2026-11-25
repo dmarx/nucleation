@@ -3,7 +3,12 @@ number: 1575
 status: Active
 formerly:
 - THEORY-tmp6axop
-title: 'Narveson argues that creating a person neither benefits nor harms them, that the existence of people with good lives is normally good and a reason to create them though no one is owed it, and that only harm to actual persons can justify coercion over procreation'
+title: 'Creating a person neither benefits nor harms'
+statement: >-
+  Narveson argues that creating a person neither benefits nor harms them,
+  that the existence of people with good lives is normally good and a reason
+  to create them though no one is owed it, and that only harm to actual
+  persons can justify coercion over procreation
 version: 2
 history:
 - version: 1
@@ -34,7 +39,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-1769 — Unavailable; the 1973 paper this reading stands in for, cited as the question names it -->
 
-# THEORY-1575: Narveson argues that creating a person neither benefits nor harms them, that the existence of people with good lives is normally good and a reason to create them though no one is owed it, and that only harm to actual persons can justify coercion over procreation
+# THEORY-1575: Creating a person neither benefits nor harms
 
 ## The account
 

@@ -3,7 +3,13 @@ number: 503
 status: Active
 formerly:
 - THEORY-tmpdkgv9
-title: "The nearest rank-r matrix to a real matrix in the least-squares norm keeps its r largest singular values and zeroes the rest; it is unique when the r-th and (r+1)-th singular values differ, its squared error is the sum of the dropped squares, and the singular-vector factors that build it are not unique"
+title: 'Truncated SVD is the best rank-r approximation'
+statement: >-
+  The nearest rank-r matrix to a real matrix in the least-squares norm keeps
+  its r largest singular values and zeroes the rest; it is unique when the
+  r-th and (r+1)-th singular values differ, its squared error is the sum of
+  the dropped squares, and the singular-vector factors that build it are not
+  unique
 version: 1
 tags:
 - mathematics
@@ -24,7 +30,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-002 — Proposed; named in Connections, not leaned on -->
 
-# THEORY-503: The nearest rank-r matrix to a real matrix in the least-squares norm keeps its r largest singular values and zeroes the rest; it is unique when the r-th and (r+1)-th singular values differ, its squared error is the sum of the dropped squares, and the singular-vector factors that build it are not unique
+# THEORY-503: Truncated SVD is the best rank-r approximation
 
 ## Source
 

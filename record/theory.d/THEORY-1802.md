@@ -3,7 +3,14 @@ number: 1802
 status: Proposed
 formerly:
 - THEORY-tmpvuz7f
-title: 'Xue and colleagues (2026) find, by running each later task with an agent''s retained memory, skills and history switched on and off in fresh sessions, that personal LLM agents do improve from retained experience but unevenly by capability, that equal score gains can rest on different persistence pathways, and that a typical failure is a corrected value whose old version stays active in the next session.'
+title: 'Agents learn from experience, unevenly'
+statement: >-
+  Xue and colleagues (2026) find, by running each later task with an agent's
+  retained memory, skills and history switched on and off in fresh sessions,
+  that personal LLM agents do improve from retained experience but unevenly
+  by capability, that equal score gains can rest on different persistence
+  pathways, and that a typical failure is a corrected value whose old
+  version stays active in the next session.
 version: 1
 tags:
 - agency
@@ -23,7 +30,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1802: Xue and colleagues (2026) find, by running each later task with an agent's retained memory, skills and history switched on and off in fresh sessions, that personal LLM agents do improve from retained experience but unevenly by capability, that equal score gains can rest on different persistence pathways, and that a typical failure is a corrected value whose old version stays active in the next session.
+# THEORY-1802: Agents learn from experience, unevenly
 
 ## The account
 

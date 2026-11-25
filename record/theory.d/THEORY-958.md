@@ -3,7 +3,19 @@ number: 958
 status: Active
 formerly:
 - THEORY-tmpt2q0g
-title: 'When each view takes pixels directly (a crop of a larger canvas, or the whole image under a region mask), MultiDiffusion''s step, the least-squares reconciliation of several denoisers'' proposed next states, is their per-pixel average weighted by the weights of the views covering that pixel; this is exact for 0/1 weights, the only ones the paper uses, while for other weights the loss as printed weights by their squares; with a deterministic update affine in the noise prediction it is one step taken with the per-pixel weighted mean of the views'' noise predictions; and the guarantee that each view then follows the reference model''s diffusion path holds only if the loss is zero at every step, which overlapping proposals that disagree do not reach'
+title: 'MultiDiffusion step is a per-pixel weighted mean'
+statement: >-
+  When each view takes pixels directly (a crop of a larger canvas, or the
+  whole image under a region mask), MultiDiffusion's step, the least-squares
+  reconciliation of several denoisers' proposed next states, is their
+  per-pixel average weighted by the weights of the views covering that
+  pixel; this is exact for 0/1 weights, the only ones the paper uses, while
+  for other weights the loss as printed weights by their squares; with a
+  deterministic update affine in the noise prediction it is one step taken
+  with the per-pixel weighted mean of the views' noise predictions; and the
+  guarantee that each view then follows the reference model's diffusion path
+  holds only if the loss is zero at every step, which overlapping proposals
+  that disagree do not reach
 version: 1
 history:
 - version: 1
@@ -36,7 +48,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-336 — Proposed; the operator model whose influence slot this instantiates, open -->
 
-# THEORY-958: When each view takes pixels directly (a crop of a larger canvas, or the whole image under a region mask), MultiDiffusion's step, the least-squares reconciliation of several denoisers' proposed next states, is their per-pixel average weighted by the weights of the views covering that pixel; this is exact for 0/1 weights, the only ones the paper uses, while for other weights the loss as printed weights by their squares; with a deterministic update affine in the noise prediction it is one step taken with the per-pixel weighted mean of the views' noise predictions; and the guarantee that each view then follows the reference model's diffusion path holds only if the loss is zero at every step, which overlapping proposals that disagree do not reach
+# THEORY-958: MultiDiffusion step is a per-pixel weighted mean
 
 ## Source
 

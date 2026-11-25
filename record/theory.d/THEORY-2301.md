@@ -10,7 +10,15 @@ promote_when: >-
   recovered where a single-resolution operator finds none because the gap
   between fast and slow rates is wide, and basin residences that are
   broad-tailed.
-title: 'Kaur, Jain and Berman report that representing animal posture across many time resolutions at once lets a transfer operator recover slow metastable behavioral states, one linear arm per basin around a central hub in its slow eigenvectors, which in flies persist for minutes against leg movements at tens of hertz and show heavy-tailed residences; where the gap between fast and slow rates is wide, a single-resolution operator finds no slow modes at all'
+title: 'Multiscale posture reveals slow behaviour states'
+statement: >-
+  Kaur, Jain and Berman report that representing animal posture across many
+  time resolutions at once lets a transfer operator recover slow metastable
+  behavioral states, one linear arm per basin around a central hub in its
+  slow eigenvectors, which in flies persist for minutes against leg
+  movements at tens of hertz and show heavy-tailed residences; where the gap
+  between fast and slow rates is wide, a single-resolution operator finds no
+  slow modes at all
 version: 1
 tags:
 - neuroscience
@@ -30,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2399 — Skimmed; the reading this account comes from -->
 
-# THEORY-2301: Kaur, Jain and Berman report that representing animal posture across many time resolutions at once lets a transfer operator recover slow metastable behavioral states, one linear arm per basin around a central hub in its slow eigenvectors, which in flies persist for minutes against leg movements at tens of hertz and show heavy-tailed residences; where the gap between fast and slow rates is wide, a single-resolution operator finds no slow modes at all
+# THEORY-2301: Multiscale posture reveals slow behaviour states
 
 ## Source
 

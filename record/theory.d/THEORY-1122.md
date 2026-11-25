@@ -3,7 +3,13 @@ number: 1122
 status: Active
 formerly:
 - THEORY-tmp1244l
-title: "Weiss's mark of a system, that the whole varies far less than the summed variances of its parts, is met by any aggregate of independent parts when the whole is measured as their average; when it is measured as their sum, it holds only if the parts' fluctuations compensate one another, with ∑ᵢ<ⱼ Cov(xᵢ, xⱼ) close to −½ ∑ᵢ Var(xᵢ)"
+title: 'Weiss''s variance mark is trivial for averages'
+statement: >-
+  Weiss's mark of a system, that the whole varies far less than the summed
+  variances of its parts, is met by any aggregate of independent parts when
+  the whole is measured as their average; when it is measured as their sum,
+  it holds only if the parts' fluctuations compensate one another, with ∑ᵢ<ⱼ
+  Cov(xᵢ, xⱼ) close to −½ ∑ᵢ Var(xᵢ)
 version: 2
 history:
 - version: 2
@@ -37,7 +43,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-902 — Proposed or Unavailable; cited in the reading review's history note of 2026-11-14, LIT-902 as QUESTION-035 names it -->
 
-# THEORY-1122: Weiss's mark of a system, that the whole varies far less than the summed variances of its parts, is met by any aggregate of independent parts when the whole is measured as their average; when it is measured as their sum, it holds only if the parts' fluctuations compensate one another, with ∑ᵢ<ⱼ Cov(xᵢ, xⱼ) close to −½ ∑ᵢ Var(xᵢ)
+# THEORY-1122: Weiss's variance mark is trivial for averages
 
 ## Source
 

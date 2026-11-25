@@ -3,7 +3,15 @@ number: 861
 status: Active
 formerly:
 - THEORY-tmpwl9bj
-title: 'When a deployed model changes the distribution it is scored on, retraining on the distribution the last model induced contracts at rate εβ/γ, for a β-jointly smooth, γ-strongly convex loss and a distribution map that is ε-Lipschitz in Wasserstein-1 distance, and so converges to a unique performatively stable point when ε < γ/β; each condition is needed, since dropping strong convexity, joint smoothness or the bound on ε each admits a case where retraining never converges'
+title: 'Repeated retraining converges if ε < γ/β'
+statement: >-
+  When a deployed model changes the distribution it is scored on, retraining
+  on the distribution the last model induced contracts at rate εβ/γ, for a
+  β-jointly smooth, γ-strongly convex loss and a distribution map that is
+  ε-Lipschitz in Wasserstein-1 distance, and so converges to a unique
+  performatively stable point when ε < γ/β; each condition is needed, since
+  dropping strong convexity, joint smoothness or the bound on ε each admits
+  a case where retraining never converges
 version: 2
 history:
 - version: 1
@@ -41,7 +49,7 @@ corroborates:
 - CLAIM-402
 ---
 
-# THEORY-861: When a deployed model changes the distribution it is scored on, retraining on the distribution the last model induced contracts at rate εβ/γ, for a β-jointly smooth, γ-strongly convex loss and a distribution map that is ε-Lipschitz in Wasserstein-1 distance, and so converges to a unique performatively stable point when ε < γ/β; each condition is needed, since dropping strong convexity, joint smoothness or the bound on ε each admits a case where retraining never converges
+# THEORY-861: Repeated retraining converges if ε < γ/β
 
 ## Source
 

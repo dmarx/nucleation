@@ -3,7 +3,12 @@ number: 2096
 status: Proposed
 formerly:
 - THEORY-tmptbea0
-title: 'Kuhn, as Kindi reads his 1959 essay, holds that innovation in a mature science depends on convergent thinking as much as on divergent, because training that commits a scientist firmly to a tradition is what lets research recognize where the tradition fails and break with it'
+title: 'Convergent training enables innovation'
+statement: >-
+  Kuhn, as Kindi reads his 1959 essay, holds that innovation in a mature
+  science depends on convergent thinking as much as on divergent, because
+  training that commits a scientist firmly to a tradition is what lets
+  research recognize where the tradition fails and break with it
 version: 1
 source:
 - LIT-2885
@@ -23,7 +28,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-2096: Kuhn, as Kindi reads his 1959 essay, holds that innovation in a mature science depends on convergent thinking as much as on divergent, because training that commits a scientist firmly to a tradition is what lets research recognize where the tradition fails and break with it
+# THEORY-2096: Convergent training enables innovation
 
 ## The account
 

@@ -3,7 +3,15 @@ number: 2049
 status: Proposed
 formerly:
 - THEORY-tmpv904w
-title: 'Tandon and colleagues show that a sliding-window Transformer which keeps training on its context by next-token prediction at test time, from an initialization meta-learned for its loss after those updates, matches full attention''s improvement in language-modelling loss with context length up to 128K at 3B parameters with constant per-token latency, while losing to full attention on verbatim retrieval, and that without the meta-learned initialization the test-time updates add little'
+title: 'Test-time training matches attention, not recall'
+statement: >-
+  Tandon and colleagues show that a sliding-window Transformer which keeps
+  training on its context by next-token prediction at test time, from an
+  initialization meta-learned for its loss after those updates, matches full
+  attention's improvement in language-modelling loss with context length up
+  to 128K at 3B parameters with constant per-token latency, while losing to
+  full attention on verbatim retrieval, and that without the meta-learned
+  initialization the test-time updates add little
 version: 1
 source:
 - LIT-2801
@@ -37,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-294 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2049: Tandon and colleagues show that a sliding-window Transformer which keeps training on its context by next-token prediction at test time, from an initialization meta-learned for its loss after those updates, matches full attention's improvement in language-modelling loss with context length up to 128K at 3B parameters with constant per-token latency, while losing to full attention on verbatim retrieval, and that without the meta-learned initialization the test-time updates add little
+# THEORY-2049: Test-time training matches attention, not recall
 
 ## The account
 

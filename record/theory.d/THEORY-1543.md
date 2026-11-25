@@ -11,7 +11,13 @@ promote_when: >-
   their later use of outside knowledge in that field falls, and does not
   return when opportunities in it rise, beyond firms that kept
   investing.
-title: 'A firm''s ability to recognize, assimilate and apply outside knowledge rests on its prior related knowledge, built largely as a byproduct of its own R&D and not quickly bought, and because this capacity accumulates and shapes what the firm expects of a field, a firm that stops investing in a fast-moving field may be locked out of it even after major advances'
+title: 'Absorptive capacity rests on prior R&D knowledge'
+statement: >-
+  A firm's ability to recognize, assimilate and apply outside knowledge
+  rests on its prior related knowledge, built largely as a byproduct of its
+  own R&D and not quickly bought, and because this capacity accumulates and
+  shapes what the firm expects of a field, a firm that stops investing in a
+  fast-moving field may be locked out of it even after major advances
 version: 1
 tags:
 - social-science
@@ -28,7 +34,7 @@ summary: >-
   carried, word for word.
 ---
 
-# THEORY-1543: A firm's ability to recognize, assimilate and apply outside knowledge rests on its prior related knowledge, built largely as a byproduct of its own R&D and not quickly bought, and because this capacity accumulates and shapes what the firm expects of a field, a firm that stops investing in a fast-moving field may be locked out of it even after major advances
+# THEORY-1543: Absorptive capacity rests on prior R&D knowledge
 
 ## Source
 

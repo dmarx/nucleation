@@ -3,7 +3,15 @@ number: 206
 status: Active
 formerly:
 - THEORY-tmppv845
-title: 'For networks of smooth units without biases, one hidden layer needs exactly ∏(rᵢ+1) neurons to match the monomial x₁^r₁⋯xₙ^rₙ''s Taylor polynomial at the origin, and a deep network O(Σ log rᵢ), with the upper bounds holding for uniform approximation too, so the cost of flattening a polynomial grows exponentially with its degree in distinct variables and not with the number of inputs: products of many inputs separate depths, bounded-degree polynomials do not'
+title: 'Flattening monomials costs exponential neurons'
+statement: >-
+  For networks of smooth units without biases, one hidden layer needs
+  exactly ∏(rᵢ+1) neurons to match the monomial x₁^r₁⋯xₙ^rₙ's Taylor
+  polynomial at the origin, and a deep network O(Σ log rᵢ), with the upper
+  bounds holding for uniform approximation too, so the cost of flattening a
+  polynomial grows exponentially with its degree in distinct variables and
+  not with the number of inputs: products of many inputs separate depths,
+  bounded-degree polynomials do not
 version: 3
 history:
 - version: 2
@@ -50,7 +58,7 @@ bears_on:
 ---
 
 
-# THEORY-206: For networks of smooth units without biases, one hidden layer needs exactly ∏(rᵢ+1) neurons to match the monomial x₁^r₁⋯xₙ^rₙ's Taylor polynomial at the origin, and a deep network O(Σ log rᵢ), with the upper bounds holding for uniform approximation too, so the cost of flattening a polynomial grows exponentially with its degree in distinct variables and not with the number of inputs: products of many inputs separate depths, bounded-degree polynomials do not
+# THEORY-206: Flattening monomials costs exponential neurons
 
 ## Source
 

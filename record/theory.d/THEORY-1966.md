@@ -8,7 +8,14 @@ promote_when: >-
   certifications in Rules 11(b)(1) and 26(g)(1)(B)(ii), the proportionality
   factors of Rule 26(b)(1), and the sanctions of Rules 11(c) and
   37(b)(2)(A). How effective the rules are in practice is not asserted.
-title: 'The Federal Rules of Civil Procedure forbid papers and discovery requests presented for an improper purpose such as to harass, cause unnecessary delay or needlessly increase the cost of litigation, limit discovery to what is proportional to the needs of the case with the parties'' resources among the factors, and back these limits with sanctions up to dismissal or default'
+title: 'Civil procedure bars abusive, outsized discovery'
+statement: >-
+  The Federal Rules of Civil Procedure forbid papers and discovery requests
+  presented for an improper purpose such as to harass, cause unnecessary
+  delay or needlessly increase the cost of litigation, limit discovery to
+  what is proportional to the needs of the case with the parties' resources
+  among the factors, and back these limits with sanctions up to dismissal or
+  default
 version: 1
 tags:
 - society-and-governance
@@ -31,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-748 — Proposed or new; the reading and the claim it corroborates -->
 
-# THEORY-1966: The Federal Rules of Civil Procedure forbid papers and discovery requests presented for an improper purpose such as to harass, cause unnecessary delay or needlessly increase the cost of litigation, limit discovery to what is proportional to the needs of the case with the parties' resources among the factors, and back these limits with sanctions up to dismissal or default
+# THEORY-1966: Civil procedure bars abusive, outsized discovery
 
 Federal Rules of Civil Procedure, Rules 11, 26 and 37, [LIT-2748](../literature.d/LIT-2748.md).
 

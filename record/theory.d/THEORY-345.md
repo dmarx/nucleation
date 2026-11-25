@@ -3,7 +3,15 @@ number: 345
 status: Active
 formerly:
 - THEORY-tmpktrsb
-title: "Choosing indexes for a known mix of queries and updates, to minimize query cost plus a per-index upkeep, is NP-hard as the number of attributes and query types grows, and the tools built for it choose one stored order and a set of secondary indexes per table by searching configurations costed with the query optimizer's own estimates, optimal at best relative to those estimates, with no proved guarantee for their heuristics and no term for the one-time cost of building"
+title: 'Index selection is NP-hard; tools are heuristic'
+statement: >-
+  Choosing indexes for a known mix of queries and updates, to minimize query
+  cost plus a per-index upkeep, is NP-hard as the number of attributes and
+  query types grows, and the tools built for it choose one stored order and
+  a set of secondary indexes per table by searching configurations costed
+  with the query optimizer's own estimates, optimal at best relative to
+  those estimates, with no proved guarantee for their heuristics and no term
+  for the one-time cost of building
 version: 1
 tags:
 - databases
@@ -31,7 +39,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-1086 — Unavailable; named only to say what is not cited for the hardness -->
 
-# THEORY-345: Choosing indexes for a known mix of queries and updates, to minimize query cost plus a per-index upkeep, is NP-hard as the number of attributes and query types grows, and the tools built for it choose one stored order and a set of secondary indexes per table by searching configurations costed with the query optimizer's own estimates, optimal at best relative to those estimates, with no proved guarantee for their heuristics and no term for the one-time cost of building
+# THEORY-345: Index selection is NP-hard; tools are heuristic
 
 ## Source
 

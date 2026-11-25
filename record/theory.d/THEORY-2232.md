@@ -11,7 +11,13 @@ promote_when: >-
   Magicicada species whose Hodgkinia is a single genome, or by conserved
   circle structure across the genus. Whether the pattern is nonadaptive
   is the authors' reading, outside this title.
-title: 'Campbell and colleagues report that in every periodical cicada species Hodgkinia exists as a complex of at least twenty circular molecules, with an order of magnitude more DNA than the ancestral genome and most of its genes, little synteny between species and gene dosages that differ between species groups, so that the splitting took a different course in each'
+title: 'Hodgkinia split differently in each cicada'
+statement: >-
+  Campbell and colleagues report that in every periodical cicada species
+  Hodgkinia exists as a complex of at least twenty circular molecules, with
+  an order of magnitude more DNA than the ancestral genome and most of its
+  genes, little synteny between species and gene dosages that differ between
+  species groups, so that the splitting took a different course in each
 version: 1
 history:
 - version: 1
@@ -37,7 +43,7 @@ summary: >-
   the circles are separate cells.
 ---
 
-# THEORY-2232: Campbell and colleagues report that in every periodical cicada species Hodgkinia exists as a complex of at least twenty circular molecules, with an order of magnitude more DNA than the ancestral genome and most of its genes, little synteny between species and gene dosages that differ between species groups, so that the splitting took a different course in each
+# THEORY-2232: Hodgkinia split differently in each cicada
 
 ## Source
 

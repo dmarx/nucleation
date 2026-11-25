@@ -3,7 +3,13 @@ number: 1163
 status: Active
 formerly:
 - THEORY-tmpx3lyj
-title: 'Krakauer et al.''s organismal and colonial individuality, A* = I(S_{n+1}; S_n) and A = I(S_{n+1}; S_n | E_n), cannot decrease when variables are moved from the environment into the candidate system, so maximizing either over candidate boundaries selects the largest candidate, and a boundary found this way needs a size cost the measures do not contain'
+title: 'Information individuality favours largest boundary'
+statement: >-
+  Krakauer et al.'s organismal and colonial individuality, A* = I(S_{n+1};
+  S_n) and A = I(S_{n+1}; S_n | E_n), cannot decrease when variables are
+  moved from the environment into the candidate system, so maximizing either
+  over candidate boundaries selects the largest candidate, and a boundary
+  found this way needs a size cost the measures do not contain
 version: 2
 history:
 - version: 1
@@ -44,7 +50,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; named as an untested candidate for the size cost, nothing here rests on it -->
 
-# THEORY-1163: Krakauer et al.'s organismal and colonial individuality, A* = I(S_{n+1}; S_n) and A = I(S_{n+1}; S_n | E_n), cannot decrease when variables are moved from the environment into the candidate system, so maximizing either over candidate boundaries selects the largest candidate, and a boundary found this way needs a size cost the measures do not contain
+# THEORY-1163: Information individuality favours largest boundary
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 239
 status: Active
 formerly:
 - THEORY-tmp1iy33
-title: "For any joint law of an input and a context, symmetric or not, the top-d left singular functions of the conditional-expectation operator attain the minimum, over d-dimensional spans, of worst-case linear-probe approximation error over tasks of compatibility at least 1 − ε, namely (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}) when s_{d+1} < 1 − ε ≤ s₁, though other spans can tie"
+title: 'Top singular functions minimize probe error'
+statement: >-
+  For any joint law of an input and a context, symmetric or not, the top-d
+  left singular functions of the conditional-expectation operator attain the
+  minimum, over d-dimensional spans, of worst-case linear-probe
+  approximation error over tasks of compatibility at least 1 − ε, namely
+  (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}) when s_{d+1} < 1 − ε ≤ s₁, though other
+  spans can tie
 version: 3
 history:
 - version: 2
@@ -54,7 +61,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-005 — Proposed; accounts and a claim this one bears on, open -->
 
-# THEORY-239: For any joint law of an input and a context, symmetric or not, the top-d left singular functions of the conditional-expectation operator attain the minimum, over d-dimensional spans, of worst-case linear-probe approximation error over tasks of compatibility at least 1 − ε, namely (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}) when s_{d+1} < 1 − ε ≤ s₁, though other spans can tie
+# THEORY-239: Top singular functions minimize probe error
 
 ## Source
 

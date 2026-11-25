@@ -23,7 +23,12 @@ promote_when: >-
   restate the agreement, a single case read through either account (both
   papers read herpes-encephalitis survivors as support), or behaviour
   "consistent with" feeling in animals.
-title: "Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled"
+title: 'Felt affect is experience of the regulatory state'
+statement: >-
+  Felt affect is the experience of the body's regulatory state, valenced by
+  what that state means for staying alive and present throughout waking
+  experience, not only in emotion; whether what is felt is a prediction of
+  that state or a map of it is unsettled
 version: 3
 history:
 - version: 2
@@ -69,7 +74,7 @@ rivals:
 <!-- inactive-ok-file: THEORY-023 THEORY-057 THEORY-055 — Proposed; the account's bearing on them is stated, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-570 — Proposed; the rival account of feeling, named as the dissent, not leaned on -->
 
-# THEORY-045: Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled
+# THEORY-045: Felt affect is experience of the regulatory state
 
 ## Source
 

@@ -10,7 +10,12 @@ promote_when: >-
   burdens changing with the political preferences of those who control
   it. Either half of the title can be promoted alone by splitting the
   account.
-title: 'Administrative burden in citizen-state interactions consists of learning, psychological and compliance costs, and its level and its distribution between state and individual are often a deliberate political choice, made easier by the opacity of burdens'
+title: 'Administrative burden is often a political choice'
+statement: >-
+  Administrative burden in citizen-state interactions consists of learning,
+  psychological and compliance costs, and its level and its distribution
+  between state and individual are often a deliberate political choice, made
+  easier by the opacity of burdens
 version: 1
 tags:
 - society-and-governance
@@ -28,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2660 NOTE-2045 — Skimmed, Unfetched; cited with their standing, entries this reading bears on or files -->
 
-# THEORY-1955: Administrative burden in citizen-state interactions consists of learning, psychological and compliance costs, and its level and its distribution between state and individual are often a deliberate political choice, made easier by the opacity of burdens
+# THEORY-1955: Administrative burden is often a political choice
 
 Moynihan, Herd & Harvey (2015), [LIT-2769](../literature.d/LIT-2769.md).
 

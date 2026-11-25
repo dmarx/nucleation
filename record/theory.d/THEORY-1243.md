@@ -17,7 +17,11 @@ promote_when: >-
   on both partners' obligacy and its dissociation on one partner's
   adhesion (the mapping that reverses the bias), or if young symbioses are
   found co-transmitted before they are mutually dependent.
-title: 'In incipient endosymbioses in nature, mutual dependence evolves ahead of reproductive cohesion, so that endosymbioses are more likely to be mutually dependent than cohesive'
+title: 'Endosymbiotic dependence precedes cohesion'
+statement: >-
+  In incipient endosymbioses in nature, mutual dependence evolves ahead of
+  reproductive cohesion, so that endosymbioses are more likely to be
+  mutually dependent than cohesive
 version: 1
 tags:
 - endosymbiosis
@@ -37,7 +41,7 @@ summary: >-
   entry's question, with [THEORY-1050](THEORY-1050.md)'s old condition.
 ---
 
-# THEORY-1243: In incipient endosymbioses in nature, mutual dependence evolves ahead of reproductive cohesion, so that endosymbioses are more likely to be mutually dependent than cohesive
+# THEORY-1243: Endosymbiotic dependence precedes cohesion
 
 ## Source
 

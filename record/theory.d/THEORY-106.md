@@ -18,7 +18,13 @@ promote_when: >-
   ridge of the size that minimizes the test error. More agreement between
   Liao et al.'s closed forms and MNIST-like data cannot settle it: that
   checks the formulas, not that the peak is the divergence.
-title: 'In random-features ridge regression the double-descent peak is a divergence of the test error at the interpolation threshold 2N = n as the ridge goes to zero, which a positive ridge keeps finite and a ridge of the tuned size removes; minimum-norm linear regression has the same peak at n = d in exact finite-sample form'
+title: 'Ridge removes the double-descent peak'
+statement: >-
+  In random-features ridge regression the double-descent peak is a
+  divergence of the test error at the interpolation threshold 2N = n as the
+  ridge goes to zero, which a positive ridge keeps finite and a ridge of the
+  tuned size removes; minimum-norm linear regression has the same peak at n
+  = d in exact finite-sample form
 version: 1
 tags:
 - learning-theory
@@ -46,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2170 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-2186 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# THEORY-106: In random-features ridge regression the double-descent peak is a divergence of the test error at the interpolation threshold 2N = n as the ridge goes to zero, which a positive ridge keeps finite and a ridge of the tuned size removes; minimum-norm linear regression has the same peak at n = d in exact finite-sample form
+# THEORY-106: Ridge removes the double-descent peak
 
 ## Source
 

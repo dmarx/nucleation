@@ -3,7 +3,14 @@ number: 1765
 status: Proposed
 formerly:
 - THEORY-tmphhyai
-title: 'Buçinca, Malaya and Gajos report that in a lay nutrition task with a simulated AI advisor, interaction designs that make people think before or without seeing the advice (on demand, update, wait) reduced their adoption of wrong AI suggestions compared with simple explanations, without eliminating it and without improving overall accuracy, and that people liked and trusted those designs less.'
+title: 'Forcing thought cuts AI overreliance, liked less'
+statement: >-
+  Buçinca, Malaya and Gajos report that in a lay nutrition task with a
+  simulated AI advisor, interaction designs that make people think before or
+  without seeing the advice (on demand, update, wait) reduced their adoption
+  of wrong AI suggestions compared with simple explanations, without
+  eliminating it and without improving overall accuracy, and that people
+  liked and trusted those designs less.
 version: 1
 tags:
 - cognition
@@ -22,7 +29,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1765: Buçinca, Malaya and Gajos report that in a lay nutrition task with a simulated AI advisor, interaction designs that make people think before or without seeing the advice (on demand, update, wait) reduced their adoption of wrong AI suggestions compared with simple explanations, without eliminating it and without improving overall accuracy, and that people liked and trusted those designs less.
+# THEORY-1765: Forcing thought cuts AI overreliance, liked less
 
 ## The account
 

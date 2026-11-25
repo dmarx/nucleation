@@ -3,7 +3,15 @@ number: 956
 status: Active
 formerly:
 - THEORY-tmpig9py
-title: 'In the normal linear model with known error variance and a conjugate normal prior of precision R/σ², the design that maximizes the expected Shannon information of the posterior is the one maximizing det(nM(η) + R), Bayes D-optimality, and the design that minimizes expected quadratic loss with weight matrix A is the one minimizing tr A(nM(η) + R)^-1, Bayes A-optimality; both criteria depend on the design and not on the data, so in this model a sequential design gains nothing over the best fixed one'
+title: 'Bayes D- and A-optimality are data-free'
+statement: >-
+  In the normal linear model with known error variance and a conjugate
+  normal prior of precision R/σ², the design that maximizes the expected
+  Shannon information of the posterior is the one maximizing det(nM(η) + R),
+  Bayes D-optimality, and the design that minimizes expected quadratic loss
+  with weight matrix A is the one minimizing tr A(nM(η) + R)^-1, Bayes
+  A-optimality; both criteria depend on the design and not on the data, so
+  in this model a sequential design gains nothing over the best fixed one
 version: 1
 history:
 - version: 1
@@ -29,7 +37,7 @@ summary: >-
   and in nonlinear models the criteria are approximations
   ([THEORY-954](THEORY-954.md)). E- and G-optimality have no utility behind them.
 ---
-# THEORY-956: In the normal linear model with known error variance and a conjugate normal prior of precision R/σ², the design that maximizes the expected Shannon information of the posterior is the one maximizing det(nM(η) + R), Bayes D-optimality, and the design that minimizes expected quadratic loss with weight matrix A is the one minimizing tr A(nM(η) + R)^-1, Bayes A-optimality; both criteria depend on the design and not on the data, so in this model a sequential design gains nothing over the best fixed one
+# THEORY-956: Bayes D- and A-optimality are data-free
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 305
 status: Active
 formerly:
 - THEORY-tmp7rs2e
-title: "SimCLR's InfoNCE loss, over all n objects with a Gaussian kernel on the unit sphere, equals a graph-Laplacian quadratic form on the augmentation matrix plus the log of InfoNCE's normalizers, which is spectral clustering only in a sense that admits any regularizer and does not make the minimizer the Laplacian's eigenvectors"
+title: 'InfoNCE isn''t spectral clustering proper'
+statement: >-
+  SimCLR's InfoNCE loss, over all n objects with a Gaussian kernel on the
+  unit sphere, equals a graph-Laplacian quadratic form on the augmentation
+  matrix plus the log of InfoNCE's normalizers, which is spectral clustering
+  only in a sense that admits any regularizer and does not make the
+  minimizer the Laplacian's eigenvectors
 version: 2
 history:
 - version: 2
@@ -33,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-001 — Proposed; accounts this one is contrasted with, not leaned on -->
 <!-- inactive-ok-file: THEORY-2188 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# THEORY-305: SimCLR's InfoNCE loss, over all n objects with a Gaussian kernel on the unit sphere, equals a graph-Laplacian quadratic form on the augmentation matrix plus the log of InfoNCE's normalizers, which is spectral clustering only in a sense that admits any regularizer and does not make the minimizer the Laplacian's eigenvectors
+# THEORY-305: InfoNCE isn't spectral clustering proper
 
 ## Source
 

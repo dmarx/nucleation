@@ -23,7 +23,12 @@ promote_when: >-
   that drift tracks visual exposure, not the illusion. Further reviews
   describing the 1998 result cannot settle it, and neither can more
   questionnaires without a suggestion control.
-title: "Brushing a seen rubber hand in synchrony with the hidden real hand makes touch be felt at the rubber hand, makes it be reported as one's own, and shifts the felt position of the real hand toward it; a small asynchrony removes these effects"
+title: 'Synchronous brushing induces rubber hand illusion'
+statement: >-
+  Brushing a seen rubber hand in synchrony with the hidden real hand makes
+  touch be felt at the rubber hand, makes it be reported as one's own, and
+  shifts the felt position of the real hand toward it; a small asynchrony
+  removes these effects
 version: 2
 history:
 - version: 2
@@ -50,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-769 THEORY-767 THEORY-768 — Proposed; filed from the same batch, named -->
 <!-- inactive-ok-file: THEORY-064 THEORY-458 — Proposed; accounts this finding bears on, named and not leaned on -->
 
-# THEORY-765: Brushing a seen rubber hand in synchrony with the hidden real hand makes touch be felt at the rubber hand, makes it be reported as one's own, and shifts the felt position of the real hand toward it; a small asynchrony removes these effects
+# THEORY-765: Synchronous brushing induces rubber hand illusion
 
 ## Source
 

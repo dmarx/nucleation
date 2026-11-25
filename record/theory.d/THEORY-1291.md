@@ -12,7 +12,14 @@ promote_when: >-
   must be found that cannot be. A further example chosen to fit does not
   settle it, and neither does an argument that only assumes every
   higher-level cause is mechanistically explained.
-title: 'Within levels of mechanisms, apparent top-down and bottom-up causes can be read as mechanistically mediated effects, intralevel causation among components together with the constitution of the whole by them, so that the relation between levels is constitution and not causation; Craver and Bechtel show the translation for six cases, on the assumption, not argued, that every higher-level cause has a mechanistic explanation'
+title: 'Interlevel causes are mediated by constitution'
+statement: >-
+  Within levels of mechanisms, apparent top-down and bottom-up causes can be
+  read as mechanistically mediated effects, intralevel causation among
+  components together with the constitution of the whole by them, so that
+  the relation between levels is constitution and not causation; Craver and
+  Bechtel show the translation for six cases, on the assumption, not argued,
+  that every higher-level cause has a mechanistic explanation
 version: 1
 history:
 - version: 1
@@ -41,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-072 — Open or Proposed; the question of a higher-level agent and an account of production this reading bears on, cited as open -->
 
-# THEORY-1291: Within levels of mechanisms, apparent top-down and bottom-up causes can be read as mechanistically mediated effects, intralevel causation among components together with the constitution of the whole by them, so that the relation between levels is constitution and not causation; Craver and Bechtel show the translation for six cases, on the assumption, not argued, that every higher-level cause has a mechanistic explanation
+# THEORY-1291: Interlevel causes are mediated by constitution
 
 ## Source
 

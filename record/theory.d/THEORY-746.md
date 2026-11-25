@@ -3,7 +3,15 @@ number: 746
 status: Active
 formerly:
 - THEORY-tmp45pcv
-title: 'Over a fixed finite set of basis functions, slow feature analysis is a generalized eigenproblem: the outputs that minimize ⟨ẏ²⟩ under zero mean, unit variance and decorrelation are the bottom generalized eigenvectors of the derivative covariance against the covariance, in order of slowness, and a stack of such stages, each of whose function spaces contains its inputs, can only keep or lower each of its first m slowness values on the training signal, and may keep them'
+title: 'Slow feature analysis is an eigenproblem'
+statement: >-
+  Over a fixed finite set of basis functions, slow feature analysis is a
+  generalized eigenproblem: the outputs that minimize ⟨ẏ²⟩ under zero mean,
+  unit variance and decorrelation are the bottom generalized eigenvectors of
+  the derivative covariance against the covariance, in order of slowness,
+  and a stack of such stages, each of whose function spaces contains its
+  inputs, can only keep or lower each of its first m slowness values on the
+  training signal, and may keep them
 version: 1
 history:
 - version: 1
@@ -40,7 +48,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-186 — Proposed; claims and accounts this bears on, nothing here rests on their being settled -->
 
-# THEORY-746: Over a fixed finite set of basis functions, slow feature analysis is a generalized eigenproblem: the outputs that minimize ⟨ẏ²⟩ under zero mean, unit variance and decorrelation are the bottom generalized eigenvectors of the derivative covariance against the covariance, in order of slowness, and a stack of such stages, each of whose function spaces contains its inputs, can only keep or lower each of its first m slowness values on the training signal, and may keep them
+# THEORY-746: Slow feature analysis is an eigenproblem
 
 ## Source
 

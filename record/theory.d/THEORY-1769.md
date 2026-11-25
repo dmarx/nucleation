@@ -3,7 +3,12 @@ number: 1769
 status: Proposed
 formerly:
 - THEORY-tmpiet4z
-title: 'Gottweis et al. (2026) report that in Co-Scientist, Gemini agents that generate, critique, rank by simulated-debate Elo tournaments and evolve research hypotheses produce top hypotheses whose Elo rises with computation across 203 research goals'
+title: 'Co-Scientist hypothesis Elo rises with compute'
+statement: >-
+  Gottweis et al. (2026) report that in Co-Scientist, Gemini agents that
+  generate, critique, rank by simulated-debate Elo tournaments and evolve
+  research hypotheses produce top hypotheses whose Elo rises with
+  computation across 203 research goals
 version: 1
 tags:
 - philosophy-of-science
@@ -25,7 +30,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1769: Gottweis et al. (2026) report that in Co-Scientist, Gemini agents that generate, critique, rank by simulated-debate Elo tournaments and evolve research hypotheses produce top hypotheses whose Elo rises with computation across 203 research goals
+# THEORY-1769: Co-Scientist hypothesis Elo rises with compute
 
 ## The account
 

@@ -12,7 +12,14 @@ promote_when: >-
   as the paper's reply moves the wrong of an unconsented MRI. Agreement with
   the cases already given (metal detectors, phone radiation, water
   molecules) cannot settle it, since the principles were drawn from them.
-title: "For moral purposes the body is bounded below by depth: objects whose real definitions are too microphysically committal are not body parts though they are parts in the ordinary sense, and bodily rights and interests concern only events that change the body's high-level properties, so a brain-computer interface user's implemented software can be a body part while the third-party server running it is not"
+title: 'BCI software can be a body part, server not'
+statement: >-
+  For moral purposes the body is bounded below by depth: objects whose real
+  definitions are too microphysically committal are not body parts though
+  they are parts in the ordinary sense, and bodily rights and interests
+  concern only events that change the body's high-level properties, so a
+  brain-computer interface user's implemented software can be a body part
+  while the third-party server running it is not
 version: 1
 tags:
 - mereology
@@ -34,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-589 — Proposed; the survey verdict this relation is placed against, not leaned on -->
 
-# THEORY-540: For moral purposes the body is bounded below by depth: objects whose real definitions are too microphysically committal are not body parts though they are parts in the ordinary sense, and bodily rights and interests concern only events that change the body's high-level properties, so a brain-computer interface user's implemented software can be a body part while the third-party server running it is not
+# THEORY-540: BCI software can be a body part, server not
 
 ## Source
 

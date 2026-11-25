@@ -3,7 +3,14 @@ number: 2305
 status: Proposed
 formerly:
 - THEORY-tmpw69kb
-title: 'Lippl and Lindsey show that in diagonal linear and one-hidden-layer ReLU networks both multi-task learning and pretraining then fine-tuning are biased to reuse pretrained features and to learn a sparse set of new ones, that the two biases trade off exactly, and that fine-tuning has a nested feature selection regime, reached by rescaling the weights after pretraining, which favours a sparse subset of the pretrained features'
+title: 'Fine-tuning biases toward reusing features'
+statement: >-
+  Lippl and Lindsey show that in diagonal linear and one-hidden-layer ReLU
+  networks both multi-task learning and pretraining then fine-tuning are
+  biased to reuse pretrained features and to learn a sparse set of new ones,
+  that the two biases trade off exactly, and that fine-tuning has a nested
+  feature selection regime, reached by rescaling the weights after
+  pretraining, which favours a sparse subset of the pretrained features
 version: 1
 source:
 - LIT-3172
@@ -30,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2077 CLAIM-1043 — Proposed; the reading that extends this one, and the claim filed by the lead run of 2026-11-23 -->
 
-# THEORY-2305: Lippl and Lindsey show that in diagonal linear and one-hidden-layer ReLU networks both multi-task learning and pretraining then fine-tuning are biased to reuse pretrained features and to learn a sparse set of new ones, that the two biases trade off exactly, and that fine-tuning has a nested feature selection regime, reached by rescaling the weights after pretraining, which favours a sparse subset of the pretrained features
+# THEORY-2305: Fine-tuning biases toward reusing features
 
 ## The account
 

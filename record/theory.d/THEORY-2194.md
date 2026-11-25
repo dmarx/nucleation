@@ -9,7 +9,14 @@ promote_when: >-
   (1992) confirms that spectral dimension at most 2 excludes spontaneous
   magnetization at finite temperature for O(n) and ferromagnetic
   Heisenberg models.
-title: "Gelfert and Nolting show that Mermin and Wagner's exclusion of ferro- and antiferromagnetic order in the one- and two-dimensional Heisenberg model rests on Bogoliubov's inequality reducing the order parameter's bound to the divergence of ∫d^Dk/k² in D ≤ 2, and report that Cassi, after Hattori, Hattori and Watanabe, extended the exclusion to fractal and disordered lattices of spectral dimension at most 2"
+title: 'No magnetic order in D ≤ 2 Heisenberg models'
+statement: >-
+  Gelfert and Nolting show that Mermin and Wagner's exclusion of ferro- and
+  antiferromagnetic order in the one- and two-dimensional Heisenberg model
+  rests on Bogoliubov's inequality reducing the order parameter's bound to
+  the divergence of ∫d^Dk/k² in D ≤ 2, and report that Cassi, after Hattori,
+  Hattori and Watanabe, extended the exclusion to fractal and disordered
+  lattices of spectral dimension at most 2
 version: 1
 tags:
 - natural-sciences
@@ -30,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2985 — Unavailable or Deferred; Mermin and Wagner, and Cassi -->
 <!-- inactive-ok-file: CLAIM-842 — Proposed -->
 
-# THEORY-2194: Gelfert and Nolting show that Mermin and Wagner's exclusion of ferro- and antiferromagnetic order in the one- and two-dimensional Heisenberg model rests on Bogoliubov's inequality reducing the order parameter's bound to the divergence of ∫d^Dk/k² in D ≤ 2, and report that Cassi, after Hattori, Hattori and Watanabe, extended the exclusion to fractal and disordered lattices of spectral dimension at most 2
+# THEORY-2194: No magnetic order in D ≤ 2 Heisenberg models
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1722
 status: Proposed
 formerly:
 - THEORY-tmpzryz3
-title: 'Sax (2026) argues that a coherent concept of dark patterns must make explicit the entwinement of a descriptive dimension (the interface trick) and a normative dimension (its wrong-making feature), with EU law''s normative influence-types serving as the hinge that explains how a given trick undermines autonomy'
+title: 'Dark patterns join a trick to a wrong-maker'
+statement: >-
+  Sax (2026) argues that a coherent concept of dark patterns must make
+  explicit the entwinement of a descriptive dimension (the interface trick)
+  and a normative dimension (its wrong-making feature), with EU law's
+  normative influence-types serving as the hinge that explains how a given
+  trick undermines autonomy
 version: 1
 source:
 - LIT-2437
@@ -22,7 +28,7 @@ summary: >-
   Luguri & Strahilevitz, Bösch et al.).
 ---
 
-# THEORY-1722: Sax (2026) argues that a coherent concept of dark patterns must make explicit the entwinement of a descriptive dimension (the interface trick) and a normative dimension (its wrong-making feature), with EU law's normative influence-types serving as the hinge that explains how a given trick undermines autonomy
+# THEORY-1722: Dark patterns join a trick to a wrong-maker
 
 ## The account
 

@@ -10,7 +10,13 @@ promote_when: >-
   points attract almost every start, or a published simulation by others
   that reproduces the contrast with the DeGroot–Friedkin map on the same
   networks. A larger simulation by this record would not settle it.
-title: 'Under reflected appraisal across issues, whether power concentrates in one member depends on the single-issue step: with Friedkin–Johnsen anchoring on initial positions almost every random strongly connected group evolves to a single leader, and with DeGroot consensus the same random complete networks keep power spread'
+title: 'Anchoring, not DeGroot, concentrates power'
+statement: >-
+  Under reflected appraisal across issues, whether power concentrates in one
+  member depends on the single-issue step: with Friedkin–Johnsen anchoring
+  on initial positions almost every random strongly connected group evolves
+  to a single leader, and with DeGroot consensus the same random complete
+  networks keep power spread
 version: 1
 tags:
 - network-science
@@ -32,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-916 — Proposed; the DeGroot–Friedkin account the comparison rests on, cited as open -->
 
-# THEORY-1232: Under reflected appraisal across issues, whether power concentrates in one member depends on the single-issue step: with Friedkin–Johnsen anchoring on initial positions almost every random strongly connected group evolves to a single leader, and with DeGroot consensus the same random complete networks keep power spread
+# THEORY-1232: Anchoring, not DeGroot, concentrates power
 
 ## Source
 

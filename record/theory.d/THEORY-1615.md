@@ -3,7 +3,13 @@ number: 1615
 status: Active
 formerly:
 - THEORY-tmps476s
-title: 'Castano, Yzerbyt, Paladino and Sacchi report that in 48 Italian students a reminder of their own death raised identification with Italians, the perceived entitativity of Italians and in-group bias, and propose, without separating it from worldview defence, that a group seen as a real entity lets the self project beyond death'
+title: 'Death reminders raise in-group entitativity'
+statement: >-
+  Castano, Yzerbyt, Paladino and Sacchi report that in 48 Italian students a
+  reminder of their own death raised identification with Italians, the
+  perceived entitativity of Italians and in-group bias, and propose, without
+  separating it from worldview defence, that a group seen as a real entity
+  lets the self project beyond death
 version: 2
 history:
 - version: 1
@@ -33,7 +39,7 @@ bears_on:
 - QUESTION-301
 ---
 
-# THEORY-1615: Castano, Yzerbyt, Paladino and Sacchi report that in 48 Italian students a reminder of their own death raised identification with Italians, the perceived entitativity of Italians and in-group bias, and propose, without separating it from worldview defence, that a group seen as a real entity lets the self project beyond death
+# THEORY-1615: Death reminders raise in-group entitativity
 
 ## The account
 

@@ -3,7 +3,14 @@ number: 2037
 status: Proposed
 formerly:
 - THEORY-tmpnivm0
-title: 'Min and colleagues show that fine-tuning a 770M-parameter language model on many tasks presented as few-shot episodes makes it better at learning held-out classification and multiple-choice tasks in context, without parameter updates, than the same model without such training or trained on the same tasks without demonstrations, with the largest gains on targets unlike the training tasks and with diverse training tasks mattering most'
+title: 'Meta-training improves in-context learning'
+statement: >-
+  Min and colleagues show that fine-tuning a 770M-parameter language model
+  on many tasks presented as few-shot episodes makes it better at learning
+  held-out classification and multiple-choice tasks in context, without
+  parameter updates, than the same model without such training or trained on
+  the same tasks without demonstrations, with the largest gains on targets
+  unlike the training tasks and with diverse training tasks mattering most
 version: 1
 source:
 - LIT-2803
@@ -36,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-294 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2037: Min and colleagues show that fine-tuning a 770M-parameter language model on many tasks presented as few-shot episodes makes it better at learning held-out classification and multiple-choice tasks in context, without parameter updates, than the same model without such training or trained on the same tasks without demonstrations, with the largest gains on targets unlike the training tasks and with diverse training tasks mattering most
+# THEORY-2037: Meta-training improves in-context learning
 
 ## The account
 

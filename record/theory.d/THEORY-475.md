@@ -3,7 +3,14 @@ number: 475
 status: Active
 formerly:
 - THEORY-tmp9tc4c
-title: "In simulations from the drift-diffusion model itself, with 12 subjects and 20 to 150 trials each, hierarchical Bayesian estimation recovers every DDM parameter with less error than per-subject maximum likelihood, χ²-quantile fitting or non-hierarchical Bayes, most of all at few trials; whether the gain survives misspecification, and how much of the power gain is the hierarchy's, is not shown"
+title: 'Hierarchical Bayes recovers DDM parameters best'
+statement: >-
+  In simulations from the drift-diffusion model itself, with 12 subjects and
+  20 to 150 trials each, hierarchical Bayesian estimation recovers every DDM
+  parameter with less error than per-subject maximum likelihood, χ²-quantile
+  fitting or non-hierarchical Bayes, most of all at few trials; whether the
+  gain survives misspecification, and how much of the power gain is the
+  hierarchy's, is not shown
 version: 1
 tags:
 - probabilistic-modeling
@@ -26,7 +33,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-061 — Proposed; named as the account whose parameters this method would measure, nothing here rests on it -->
 
-# THEORY-475: In simulations from the drift-diffusion model itself, with 12 subjects and 20 to 150 trials each, hierarchical Bayesian estimation recovers every DDM parameter with less error than per-subject maximum likelihood, χ²-quantile fitting or non-hierarchical Bayes, most of all at few trials; whether the gain survives misspecification, and how much of the power gain is the hierarchy's, is not shown
+# THEORY-475: Hierarchical Bayes recovers DDM parameters best
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 1463
 status: Active
 formerly:
 - THEORY-tmp2ece2
-title: 'Pritchett, Woolcock and Andrews argue that many low-capability states, at their measured pace of improvement, would take centuries to millennia to reach high state capability, and that the persistence is sustained by two techniques: isomorphic mimicry, keeping legitimacy by imitating the forms of functional organizations without their function, and premature load bearing, loading fledgling organizations with tasks too complex too soon'
+title: 'Low-capability states need centuries to catch up'
+statement: >-
+  Pritchett, Woolcock and Andrews argue that many low-capability states, at
+  their measured pace of improvement, would take centuries to millennia to
+  reach high state capability, and that the persistence is sustained by two
+  techniques: isomorphic mimicry, keeping legitimacy by imitating the forms
+  of functional organizations without their function, and premature load
+  bearing, loading fledgling organizations with tasks too complex too soon
 version: 3
 history:
 - version: 2
@@ -57,7 +64,7 @@ bears_on:
 - QUESTION-441
 ---
 
-# THEORY-1463: Pritchett, Woolcock and Andrews argue that many low-capability states, at their measured pace of improvement, would take centuries to millennia to reach high state capability, and that the persistence is sustained by two techniques: isomorphic mimicry, keeping legitimacy by imitating the forms of functional organizations without their function, and premature load bearing, loading fledgling organizations with tasks too complex too soon
+# THEORY-1463: Low-capability states need centuries to catch up
 
 ## Source
 

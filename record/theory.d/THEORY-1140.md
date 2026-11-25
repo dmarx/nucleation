@@ -3,7 +3,15 @@ number: 1140
 status: Active
 formerly:
 - THEORY-tmpf3jtf
-title: 'If every entity''s O(d) frame may change independently and relation transports change as Tᵢⱼ ↦ gᵢTᵢⱼgⱼ⁻¹, then functions of the transports alone carry no invariant information except around cycles, a triangle''s invariants are exactly the class functions of its holonomy H = TᵢⱼTⱼₖTₖᵢ, and an equivariant update of an edge from one cycle through it is Ψ(H)Tᵢⱼ with Ψ conjugation-equivariant; the symmetry fixes a family of updates, not one mechanism, and says nothing about whether a task has the symmetry'
+title: 'Frame symmetry leaves only holonomy invariants'
+statement: >-
+  If every entity's O(d) frame may change independently and relation
+  transports change as Tᵢⱼ ↦ gᵢTᵢⱼgⱼ⁻¹, then functions of the transports
+  alone carry no invariant information except around cycles, a triangle's
+  invariants are exactly the class functions of its holonomy H = TᵢⱼTⱼₖTₖᵢ,
+  and an equivariant update of an edge from one cycle through it is Ψ(H)Tᵢⱼ
+  with Ψ conjugation-equivariant; the symmetry fixes a family of updates,
+  not one mechanism, and says nothing about whether a task has the symmetry
 version: 2
 history:
 - version: 2
@@ -33,7 +41,7 @@ bounds:
 - CLAIM-496
 ---
 
-# THEORY-1140: If every entity's O(d) frame may change independently and relation transports change as Tᵢⱼ ↦ gᵢTᵢⱼgⱼ⁻¹, then functions of the transports alone carry no invariant information except around cycles, a triangle's invariants are exactly the class functions of its holonomy H = TᵢⱼTⱼₖTₖᵢ, and an equivariant update of an edge from one cycle through it is Ψ(H)Tᵢⱼ with Ψ conjugation-equivariant; the symmetry fixes a family of updates, not one mechanism, and says nothing about whether a task has the symmetry
+# THEORY-1140: Frame symmetry leaves only holonomy invariants
 
 ## Source
 

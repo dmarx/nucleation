@@ -3,7 +3,12 @@ number: 1622
 status: Active
 formerly:
 - THEORY-tmpv7b05
-title: 'Siegel''s oral history of the Juggernaut redub dates its making to November 2005 and its posting to 14 February 2006, and relays the film''s cowriter''s remark that the line was a reshoot addition by the director, but gives no production testimony on why the line was added'
+title: 'Juggernaut redub dated; line''s reason untold'
+statement: >-
+  Siegel's oral history of the Juggernaut redub dates its making to November
+  2005 and its posting to 14 February 2006, and relays the film's cowriter's
+  remark that the line was a reshoot addition by the director, but gives no
+  production testimony on why the line was added
 version: 2
 history:
 - version: 1
@@ -35,7 +40,7 @@ bears_on:
 - QUESTION-119
 ---
 
-# THEORY-1622: Siegel's oral history of the Juggernaut redub dates its making to November 2005 and its posting to 14 February 2006, and relays the film's cowriter's remark that the line was a reshoot addition by the director, but gives no production testimony on why the line was added
+# THEORY-1622: Juggernaut redub dated; line's reason untold
 
 ## The account
 

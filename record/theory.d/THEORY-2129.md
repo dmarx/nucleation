@@ -3,7 +3,14 @@ number: 2129
 status: Proposed
 formerly:
 - THEORY-tmpzt30n
-title: 'Davidson argues that a creature has beliefs, and so any propositional attitude and any rationality, only if it has the concept of belief, which liability to surprise shows every believer must have, and that this concept, being the concept of objective truth, comes only from triangulating with another creature in communication, so that only communicators are rational animals'
+title: 'Only communicators are rational animals'
+statement: >-
+  Davidson argues that a creature has beliefs, and so any propositional
+  attitude and any rationality, only if it has the concept of belief, which
+  liability to surprise shows every believer must have, and that this
+  concept, being the concept of objective truth, comes only from
+  triangulating with another creature in communication, so that only
+  communicators are rational animals
 version: 1
 source:
 - LIT-2901
@@ -24,7 +31,7 @@ summary: >-
   is met.
 ---
 
-# THEORY-2129: Davidson argues that a creature has beliefs, and so any propositional attitude and any rationality, only if it has the concept of belief, which liability to surprise shows every believer must have, and that this concept, being the concept of objective truth, comes only from triangulating with another creature in communication, so that only communicators are rational animals
+# THEORY-2129: Only communicators are rational animals
 
 ## The account
 

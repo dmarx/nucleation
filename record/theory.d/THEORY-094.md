@@ -23,7 +23,12 @@ promote_when: >-
   decoding of thought content that find none. More no-report studies
   cannot settle it, whatever they find in prefrontal cortex, because the
   question is what they leave in place.
-title: 'Neither report nor no-report paradigms isolate the neural basis of consciousness, because post-perceptual cognition that tracks the percept persists without report; only a design that removes differential post-perceptual cognition does'
+title: 'Neither report nor no-report isolates the NCC'
+statement: >-
+  Neither report nor no-report paradigms isolate the neural basis of
+  consciousness, because post-perceptual cognition that tracks the percept
+  persists without report; only a design that removes differential
+  post-perceptual cognition does
 version: 1
 tags:
 - consciousness
@@ -54,7 +59,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-098 THEORY-103 — Proposed; filed in the same batch and named in Connections -->
 <!-- inactive-ok-file: THEORY-2227 THEORY-2228 — Proposed; the readings of LEAD-112 cited in the note of 2026-11-22 -->
 
-# THEORY-094: Neither report nor no-report paradigms isolate the neural basis of consciousness, because post-perceptual cognition that tracks the percept persists without report; only a design that removes differential post-perceptual cognition does
+# THEORY-094: Neither report nor no-report isolates the NCC
 
 ## Source
 

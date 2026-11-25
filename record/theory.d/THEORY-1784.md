@@ -3,7 +3,15 @@ number: 1784
 status: Proposed
 formerly:
 - THEORY-tmppljay
-title: 'Chen, Zhu and Zheng (2026) find that of 26 recursive-self-improvement studies claiming a better improvement procedure, only 4 compare earlier and later improvers from identical starting artifacts at a matched budget, and they prove that when an improver changes deterministically with the system it acts on, its effect is not identified from the improvement trajectory, so only off-diagonal comparisons such as this swap test can establish an improver gain.'
+title: 'Improver gains need matched swap tests'
+statement: >-
+  Chen, Zhu and Zheng (2026) find that of 26 recursive-self-improvement
+  studies claiming a better improvement procedure, only 4 compare earlier
+  and later improvers from identical starting artifacts at a matched budget,
+  and they prove that when an improver changes deterministically with the
+  system it acts on, its effect is not identified from the improvement
+  trajectory, so only off-diagonal comparisons such as this swap test can
+  establish an improver gain.
 version: 1
 tags:
 - philosophy-of-science
@@ -23,7 +31,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1784: Chen, Zhu and Zheng (2026) find that of 26 recursive-self-improvement studies claiming a better improvement procedure, only 4 compare earlier and later improvers from identical starting artifacts at a matched budget, and they prove that when an improver changes deterministically with the system it acts on, its effect is not identified from the improvement trajectory, so only off-diagonal comparisons such as this swap test can establish an improver gain.
+# THEORY-1784: Improver gains need matched swap tests
 
 ## The account
 

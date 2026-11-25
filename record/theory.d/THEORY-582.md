@@ -3,7 +3,12 @@ number: 582
 status: Active
 formerly:
 - THEORY-tmpma6ht
-title: "Causal coupling between a process and something outside it does not by itself make that thing part of the process, so an argument from coupling to extended cognition needs a further premise saying what makes a process cognitive"
+title: 'Coupling alone doesn''t make cognition extended'
+statement: >-
+  Causal coupling between a process and something outside it does not by
+  itself make that thing part of the process, so an argument from coupling
+  to extended cognition needs a further premise saying what makes a process
+  cognitive
 version: 1
 tags:
 - cognition
@@ -26,7 +31,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-591 THEORY-528 THEORY-512 — Proposed; accounts that accept or answer this point, named in Connections, not leaned on -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-167 CLAIM-173 — Proposed or Rejected; the record's claims this objection bears on, named in Connections, not leaned on -->
 
-# THEORY-582: Causal coupling between a process and something outside it does not by itself make that thing part of the process, so an argument from coupling to extended cognition needs a further premise saying what makes a process cognitive
+# THEORY-582: Coupling alone doesn't make cognition extended
 
 ## Source
 

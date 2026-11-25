@@ -7,7 +7,13 @@ promote_when: >-
   A reading confirms that the paper demonstrates repeated rewriting of
   magnetization patterns in the same film (Figs. 2–3 and the 100-cycle
   test) producing distinct shapes under the same 150 mT actuation field.
-title: 'Deng and colleagues show that a soft composite whose magnetic particles are held in a meltable polymer can have its magnetization pattern rewritten by local laser melting under a programming field and fixed again on cooling, so one film can be given many different shape responses to the same actuation field'
+title: 'Laser-rewritable magnetization reprograms films'
+statement: >-
+  Deng and colleagues show that a soft composite whose magnetic particles
+  are held in a meltable polymer can have its magnetization pattern
+  rewritten by local laser melting under a programming field and fixed again
+  on cooling, so one film can be given many different shape responses to the
+  same actuation field
 version: 1
 tags:
 - natural-sciences
@@ -24,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2113 — Unfetched and new; the original Deng et al. (2020) stand in for, cited as open -->
 
-# THEORY-1403: Deng and colleagues show that a soft composite whose magnetic particles are held in a meltable polymer can have its magnetization pattern rewritten by local laser melting under a programming field and fixed again on cooling, so one film can be given many different shape responses to the same actuation field
+# THEORY-1403: Laser-rewritable magnetization reprograms films
 
 ## Source
 

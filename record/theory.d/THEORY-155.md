@@ -3,7 +3,10 @@ number: 155
 status: Active
 formerly:
 - THEORY-tmp0w0cu
-title: 'Iterated learning by Bayesian agents who sample from the posterior converges, in an ergodic chain, to the shared prior'
+title: 'Bayesian iterated learning converges to the prior'
+statement: >-
+  Iterated learning by Bayesian agents who sample from the posterior
+  converges, in an ergodic chain, to the shared prior
 version: 3
 history:
 - version: 2
@@ -56,7 +59,7 @@ bears_on:
 <!-- inactive-ok-file: NOTE-596 — Skimmed; cited for what Kirby, Cornish & Smith's chains do and do not test, not leaned on -->
 <!-- inactive-ok-file: LIT-768 — Unavailable, no lawful full text; named as the classical case the claim would have to meet, not leaned on -->
 
-# THEORY-155: Iterated learning by Bayesian agents who sample from the posterior converges, in an ergodic chain, to the shared prior
+# THEORY-155: Bayesian iterated learning converges to the prior
 
 ## Source
 

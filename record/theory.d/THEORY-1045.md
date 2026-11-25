@@ -3,7 +3,16 @@ number: 1045
 status: Active
 formerly:
 - THEORY-tmptn4xd
-title: 'On synthetic data from factorial hidden Markov models with three or five hidden chains of two or three states, an unconstrained hidden Markov model with as many states as the chains have joint settings overfits, its test-set excess over the true model rising to 175 bits per observation at five three-state chains against 4.5 for the factorial model trained exactly, while factorial models trained with completely factorized or structured variational E steps are not significantly worse than exact training'
+title: 'Factorial HMMs avoid flat-HMM overfitting'
+statement: >-
+  On synthetic data from factorial hidden Markov models with three or five
+  hidden chains of two or three states, an unconstrained hidden Markov model
+  with as many states as the chains have joint settings overfits, its
+  test-set excess over the true model rising to 175 bits per observation at
+  five three-state chains against 4.5 for the factorial model trained
+  exactly, while factorial models trained with completely factorized or
+  structured variational E steps are not significantly worse than exact
+  training
 version: 1
 history:
 - version: 1
@@ -32,7 +41,7 @@ summary: >-
   real data or long sequences.
 ---
 
-# THEORY-1045: On synthetic data from factorial hidden Markov models with three or five hidden chains of two or three states, an unconstrained hidden Markov model with as many states as the chains have joint settings overfits, its test-set excess over the true model rising to 175 bits per observation at five three-state chains against 4.5 for the factorial model trained exactly, while factorial models trained with completely factorized or structured variational E steps are not significantly worse than exact training
+# THEORY-1045: Factorial HMMs avoid flat-HMM overfitting
 
 ## Source
 

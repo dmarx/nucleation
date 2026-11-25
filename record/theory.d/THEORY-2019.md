@@ -3,7 +3,16 @@ number: 2019
 status: Proposed
 formerly:
 - THEORY-tmpbzf9h
-title: 'Nichol, Achiam and Schulman show that Reptile, which repeatedly trains on a sampled task for k steps and moves the initialization toward the result, matches MAML on few-shot Omniglot and Mini-ImageNet with first-order gradients only, and that to leading order its update and MAML''s both combine joint training on the expected loss with a term that raises the inner product of gradients from different mini-batches of one task, a term that grows with the step size and the number of inner steps and vanishes at one step'
+title: 'First-order Reptile matches MAML'
+statement: >-
+  Nichol, Achiam and Schulman show that Reptile, which repeatedly trains on
+  a sampled task for k steps and moves the initialization toward the result,
+  matches MAML on few-shot Omniglot and Mini-ImageNet with first-order
+  gradients only, and that to leading order its update and MAML's both
+  combine joint training on the expected loss with a term that raises the
+  inner product of gradients from different mini-batches of one task, a term
+  that grows with the step size and the number of inner steps and vanishes
+  at one step
 version: 1
 source:
 - LIT-2791
@@ -34,7 +43,7 @@ summary: >-
   NOTE.
 ---
 
-# THEORY-2019: Nichol, Achiam and Schulman show that Reptile, which repeatedly trains on a sampled task for k steps and moves the initialization toward the result, matches MAML on few-shot Omniglot and Mini-ImageNet with first-order gradients only, and that to leading order its update and MAML's both combine joint training on the expected loss with a term that raises the inner product of gradients from different mini-batches of one task, a term that grows with the step size and the number of inner steps and vanishes at one step
+# THEORY-2019: First-order Reptile matches MAML
 
 ## The account
 

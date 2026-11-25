@@ -3,7 +3,15 @@ number: 2053
 status: Proposed
 formerly:
 - THEORY-tmpy398k
-title: 'Rajendran, Irpan and Jang show that meta-learners can overfit either by ignoring the support set (memorization) or by a base learner that fails on new tasks (learner overfitting), and that randomly re-keying each task''s labels, the same key in support and query, which makes tasks mutually exclusive, improves meta-test performance on non-mutually-exclusive few-shot classification and pose regression, on top of Yin et al.''s meta-regularization'
+title: 'Label re-keying curbs meta-overfitting'
+statement: >-
+  Rajendran, Irpan and Jang show that meta-learners can overfit either by
+  ignoring the support set (memorization) or by a base learner that fails on
+  new tasks (learner overfitting), and that randomly re-keying each task's
+  labels, the same key in support and query, which makes tasks mutually
+  exclusive, improves meta-test performance on non-mutually-exclusive
+  few-shot classification and pose regression, on top of Yin et al.'s
+  meta-regularization
 version: 1
 source:
 - LIT-2817
@@ -33,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-294 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2053: Rajendran, Irpan and Jang show that meta-learners can overfit either by ignoring the support set (memorization) or by a base learner that fails on new tasks (learner overfitting), and that randomly re-keying each task's labels, the same key in support and query, which makes tasks mutually exclusive, improves meta-test performance on non-mutually-exclusive few-shot classification and pose regression, on top of Yin et al.'s meta-regularization
+# THEORY-2053: Label re-keying curbs meta-overfitting
 
 ## The account
 

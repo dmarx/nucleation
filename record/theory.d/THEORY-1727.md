@@ -3,7 +3,15 @@ number: 1727
 status: Proposed
 formerly:
 - THEORY-tmp1gvjx
-title: 'Apostolou et al. describe OntoGov, an ontology platform for e-government services in which service models are linked to legal and organisational ontologies, a service API detects inconsistencies arising from changes in law or data, and a Lifecycle Ontology records the design decisions behind a service, their reasons and the dependencies among stakeholders'' decisions, all over a meta-ontology cluster that stays fixed across deployments.'
+title: 'OntoGov records the decisions behind services'
+statement: >-
+  Apostolou et al. describe OntoGov, an ontology platform for e-government
+  services in which service models are linked to legal and organisational
+  ontologies, a service API detects inconsistencies arising from changes in
+  law or data, and a Lifecycle Ontology records the design decisions behind
+  a service, their reasons and the dependencies among stakeholders'
+  decisions, all over a meta-ontology cluster that stays fixed across
+  deployments.
 version: 1
 tags:
 - databases
@@ -23,7 +31,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1727: Apostolou et al. describe OntoGov, an ontology platform for e-government services in which service models are linked to legal and organisational ontologies, a service API detects inconsistencies arising from changes in law or data, and a Lifecycle Ontology records the design decisions behind a service, their reasons and the dependencies among stakeholders' decisions, all over a meta-ontology cluster that stays fixed across deployments.
+# THEORY-1727: OntoGov records the decisions behind services
 
 ## The account
 

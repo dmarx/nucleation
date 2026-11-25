@@ -9,7 +9,12 @@ promote_when: >-
   one-dimensional bars record transition paths the disconnectivity graph
   omits, and that the paper's barcode formula for the analytical alkane
   landscape is proved.
-title: 'The sublevelset persistent homology of an energy landscape contains its disconnectivity graph as the zero-dimensional part and also records alternative transition paths and higher critical points, and for the alkane torsional landscape it has a closed form in every dimension'
+title: 'Persistent homology extends disconnectivity graphs'
+statement: >-
+  The sublevelset persistent homology of an energy landscape contains its
+  disconnectivity graph as the zero-dimensional part and also records
+  alternative transition paths and higher critical points, and for the
+  alkane torsional landscape it has a closed form in every dimension
 version: 3
 history:
 - version: 2
@@ -53,7 +58,7 @@ corroborates:
 - CLAIM-581
 ---
 
-# THEORY-1420: The sublevelset persistent homology of an energy landscape contains its disconnectivity graph as the zero-dimensional part and also records alternative transition paths and higher critical points, and for the alkane torsional landscape it has a closed form in every dimension
+# THEORY-1420: Persistent homology extends disconnectivity graphs
 
 ## Source
 

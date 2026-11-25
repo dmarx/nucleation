@@ -16,7 +16,13 @@ promote_when: >-
   refuted if the losses are spread across genome sizes with no
   threshold, or if such endosymbionts prove to carry the missing
   functions in unannotated or highly divergent genes.
-title: 'Bacterial endosymbionts lose their cell-envelope and envelope-transport genes together below about 400 kb and begin to lose translation genes below about 200 kb, and the host supplies the membranes, transport and protein synthesis that the smallest-genome symbionts no longer encode, as for organelles'
+title: 'Symbionts lose envelope, then translation genes'
+statement: >-
+  Bacterial endosymbionts lose their cell-envelope and envelope-transport
+  genes together below about 400 kb and begin to lose translation genes
+  below about 200 kb, and the host supplies the membranes, transport and
+  protein synthesis that the smallest-genome symbionts no longer encode, as
+  for organelles
 version: 1
 tags:
 - endosymbiosis
@@ -37,7 +43,7 @@ summary: >-
   condition, word for word.
 ---
 
-# THEORY-1208: Bacterial endosymbionts lose their cell-envelope and envelope-transport genes together below about 400 kb and begin to lose translation genes below about 200 kb, and the host supplies the membranes, transport and protein synthesis that the smallest-genome symbionts no longer encode, as for organelles
+# THEORY-1208: Symbionts lose envelope, then translation genes
 
 ## Source
 

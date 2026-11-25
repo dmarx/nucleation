@@ -3,7 +3,13 @@ number: 1845
 status: Proposed
 formerly:
 - THEORY-tmpj32pb
-title: 'Sen argues that a person''s standard of living is a matter of the functionings achieved and the capabilities held, not of opulence or utility, since the same commodities yield different living conditions under different bodily, climatic and social circumstances, and that valued functionings can be ranked by a partial ordering without a complete index'
+title: 'Living standard is capabilities, not opulence'
+statement: >-
+  Sen argues that a person's standard of living is a matter of the
+  functionings achieved and the capabilities held, not of opulence or
+  utility, since the same commodities yield different living conditions
+  under different bodily, climatic and social circumstances, and that valued
+  functionings can be ranked by a partial ordering without a complete index
 version: 1
 source:
 - LIT-2572
@@ -26,7 +32,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2583 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: NOTE-1925 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
-# THEORY-1845: Sen argues that a person's standard of living is a matter of the functionings achieved and the capabilities held, not of opulence or utility, since the same commodities yield different living conditions under different bodily, climatic and social circumstances, and that valued functionings can be ranked by a partial ordering without a complete index
+# THEORY-1845: Living standard is capabilities, not opulence
 
 ## The account
 

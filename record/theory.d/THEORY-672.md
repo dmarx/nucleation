@@ -3,7 +3,14 @@ number: 672
 status: Active
 formerly:
 - THEORY-tmpxorvn
-title: "In the iterated Prisoner's Dilemma with a probability w of meeting again, no strategy does better against an established TIT FOR TAT than TIT FOR TAT does against itself if and only if w ≥ (T−R)/(T−P) and w ≥ (T−R)/(R−S); always defecting is stable for every w, a cluster of reciprocators can invade it, and a nice stable strategy resists clusters, but the stability is only neutral, since always cooperating ties"
+title: 'TIT FOR TAT is stable when w is high enough'
+statement: >-
+  In the iterated Prisoner's Dilemma with a probability w of meeting again,
+  no strategy does better against an established TIT FOR TAT than TIT FOR
+  TAT does against itself if and only if w ≥ (T−R)/(T−P) and w ≥
+  (T−R)/(R−S); always defecting is stable for every w, a cluster of
+  reciprocators can invade it, and a nice stable strategy resists clusters,
+  but the stability is only neutral, since always cooperating ties
 version: 2
 history:
 - version: 2
@@ -31,7 +38,7 @@ bears_on:
 - QUESTION-453
 ---
 
-# THEORY-672: In the iterated Prisoner's Dilemma with a probability w of meeting again, no strategy does better against an established TIT FOR TAT than TIT FOR TAT does against itself if and only if w ≥ (T−R)/(T−P) and w ≥ (T−R)/(R−S); always defecting is stable for every w, a cluster of reciprocators can invade it, and a nice stable strategy resists clusters, but the stability is only neutral, since always cooperating ties
+# THEORY-672: TIT FOR TAT is stable when w is high enough
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 1252
 status: Active
 formerly:
 - THEORY-tmp33nos
-title: 'In ℓ2-regularized regression held to a fixed training-error tolerance, refitting to one''s own predictions on the same inputs shrinks each eigencomponent of the labels by a factor that falls with its Gram eigenvalue, while the regularization weight needed to meet the tolerance rises as the labels shrink, so repeated rounds amplify regularization and reach the zero function after finitely many; the loss comes from the regularizer acting again, not from information the student lacks'
+title: 'Repeated self-distillation collapses to zero'
+statement: >-
+  In ℓ2-regularized regression held to a fixed training-error tolerance,
+  refitting to one's own predictions on the same inputs shrinks each
+  eigencomponent of the labels by a factor that falls with its Gram
+  eigenvalue, while the regularization weight needed to meet the tolerance
+  rises as the labels shrink, so repeated rounds amplify regularization and
+  reach the zero function after finitely many; the loss comes from the
+  regularizer acting again, not from information the student lacks
 version: 2
 history:
 - version: 2
@@ -31,7 +39,7 @@ bears_on:
 - QUESTION-361
 ---
 
-# THEORY-1252: In ℓ2-regularized regression held to a fixed training-error tolerance, refitting to one's own predictions on the same inputs shrinks each eigencomponent of the labels by a factor that falls with its Gram eigenvalue, while the regularization weight needed to meet the tolerance rises as the labels shrink, so repeated rounds amplify regularization and reach the zero function after finitely many; the loss comes from the regularizer acting again, not from information the student lacks
+# THEORY-1252: Repeated self-distillation collapses to zero
 
 ## Source
 

@@ -11,7 +11,16 @@ promote_when: >-
   stationary to breathing to chaotic while the membership stays fixed, and
   that branches end in jumps that enlarge the synchronized cluster, with
   the sequence depending on history.
-title: 'Augustsson and colleagues report that identical phase oscillators coupled through slowly adapting product-form weights split by themselves into a synchronized cluster and a desynchronized group; while the cluster fraction stays fixed, the desynchronized group passes from stationary through breathing to chaotic dynamics without any change of membership, each such branch ends in a crisis-like jump that enlarges the cluster, and which sequence of cluster sizes occurs depends on initial conditions and on the direction of a parameter sweep'
+title: 'Adaptive coupling splits oscillators by itself'
+statement: >-
+  Augustsson and colleagues report that identical phase oscillators coupled
+  through slowly adapting product-form weights split by themselves into a
+  synchronized cluster and a desynchronized group; while the cluster
+  fraction stays fixed, the desynchronized group passes from stationary
+  through breathing to chaotic dynamics without any change of membership,
+  each such branch ends in a crisis-like jump that enlarges the cluster, and
+  which sequence of cluster sizes occurs depends on initial conditions and
+  on the direction of a parameter sweep
 version: 1
 tags:
 - complex-systems
@@ -30,7 +39,7 @@ summary: >-
   reproduced independently.
 ---
 
-# THEORY-2300: Augustsson and colleagues report that identical phase oscillators coupled through slowly adapting product-form weights split by themselves into a synchronized cluster and a desynchronized group; while the cluster fraction stays fixed, the desynchronized group passes from stationary through breathing to chaotic dynamics without any change of membership, each such branch ends in a crisis-like jump that enlarges the cluster, and which sequence of cluster sizes occurs depends on initial conditions and on the direction of a parameter sweep
+# THEORY-2300: Adaptive coupling splits oscillators by itself
 
 ## Source
 

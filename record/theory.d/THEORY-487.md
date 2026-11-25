@@ -13,7 +13,13 @@ promote_when: >-
   as Schaffer and Hawley propose. The answer must engage the dissents; a
   survey that organises the field by the distinction, which is what this
   rests on, cannot settle whether the distinction is sharp.
-title: "Social ontology asks two separable questions about a social category: what grounds a fact of that kind, the conditions something must meet, and what anchors those conditions, the facts that put them in place; theories of the field, such as convention, collective acceptance and practice, answer the second, and a theory can be individualist about one and not the other"
+title: 'Grounding and anchoring are separable questions'
+statement: >-
+  Social ontology asks two separable questions about a social category: what
+  grounds a fact of that kind, the conditions something must meet, and what
+  anchors those conditions, the facts that put them in place; theories of
+  the field, such as convention, collective acceptance and practice, answer
+  the second, and a theory can be individualist about one and not the other
 version: 1
 tags:
 - social-ontology
@@ -34,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-043 THEORY-057 — Proposed; accounts that use this survey in their bodies, named and not leaned on -->
 <!-- inactive-ok-file: LIT-478 — Unavailable, only its introduction is lawfully readable; The Ant Trap, whose framework this account states from the entry and the précis -->
 
-# THEORY-487: Social ontology asks two separable questions about a social category: what grounds a fact of that kind, the conditions something must meet, and what anchors those conditions, the facts that put them in place; theories of the field, such as convention, collective acceptance and practice, answer the second, and a theory can be individualist about one and not the other
+# THEORY-487: Grounding and anchoring are separable questions
 
 ## Source
 

@@ -15,7 +15,13 @@ promote_when: >-
   a stated content test sorts the cases as it says and the search comes up
   empty. More lists of how notebooks differ from brains cannot settle it,
   since the dispute is over whether the differences matter.
-title: "Cognition has two necessary marks, involving non-derived content and a distinctive kind of causal processing, and as a contingent fact only processes in the brain have both, so notebooks, screens and tools coupled to a thinker are not parts of cognition, and human-plus-tool systems will support no science of their own"
+title: 'Cognition is contingently bound to the brain'
+statement: >-
+  Cognition has two necessary marks, involving non-derived content and a
+  distinctive kind of causal processing, and as a contingent fact only
+  processes in the brain have both, so notebooks, screens and tools coupled
+  to a thinker are not parts of cognition, and human-plus-tool systems will
+  support no science of their own
 version: 1
 tags:
 - cognition
@@ -43,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-412 — Unavailable; Clark's book, named as one of the replies, not leaned on -->
 <!-- inactive-ok-file: THEORY-528 THEORY-512 — Proposed; the rival account and a neighbouring critic, named in Connections, not leaned on -->
 
-# THEORY-591: Cognition has two necessary marks, involving non-derived content and a distinctive kind of causal processing, and as a contingent fact only processes in the brain have both, so notebooks, screens and tools coupled to a thinker are not parts of cognition, and human-plus-tool systems will support no science of their own
+# THEORY-591: Cognition is contingently bound to the brain
 
 ## Source
 

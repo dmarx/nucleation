@@ -3,7 +3,12 @@ number: 866
 status: Active
 formerly:
 - THEORY-tmp1lndf
-title: 'Expert texts of Shamatha, Transcendental and Stillness Meditation describe their so-called contentless goal-states as lacking thoughts, perceptions, images and memories but keeping many forms of content, and as differing across the practices in attentional stability and vividness'
+title: 'Contentless meditation states retain content'
+statement: >-
+  Expert texts of Shamatha, Transcendental and Stillness Meditation describe
+  their so-called contentless goal-states as lacking thoughts, perceptions,
+  images and memories but keeping many forms of content, and as differing
+  across the practices in attentional stability and vividness
 version: 3
 history:
 - version: 2
@@ -66,7 +71,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-1246 — Proposed; filed beside this reading by the twenty-fourth status review: the thesis about the experiences themselves -->
 <!-- inactive-ok-file: CLAIM-412 THEORY-063 — Proposed; the claims, terms and accounts this one bears on, named and not leaned on -->
 
-# THEORY-866: Expert texts of Shamatha, Transcendental and Stillness Meditation describe their so-called contentless goal-states as lacking thoughts, perceptions, images and memories but keeping many forms of content, and as differing across the practices in attentional stability and vividness
+# THEORY-866: Contentless meditation states retain content
 
 ## Source
 

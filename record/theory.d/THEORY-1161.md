@@ -3,7 +3,12 @@ number: 1161
 status: Active
 formerly:
 - THEORY-tmpbnint
-title: 'In Friedkin''s simulations of reflected appraisal with Friedkin–Johnsen anchoring on initial positions, 99.0–100% of 100,000 random strongly connected networks of 5 to 25 members, complete or with random zero weights, evolve to a single leader and the rest to two'
+title: 'Reflected appraisal yields a single leader'
+statement: >-
+  In Friedkin's simulations of reflected appraisal with Friedkin–Johnsen
+  anchoring on initial positions, 99.0–100% of 100,000 random strongly
+  connected networks of 5 to 25 members, complete or with random zero
+  weights, evolve to a single leader and the rest to two
 version: 3
 history:
 - version: 1
@@ -75,7 +80,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-1232 — Proposed; filed beside this reading by the twenty-fourth status review: the comparison of the two single-issue steps -->
 <!-- inactive-ok-file: THEORY-916 — Proposed; the companion account, cited as open and not leaned on -->
 
-# THEORY-1161: In Friedkin's simulations of reflected appraisal with Friedkin–Johnsen anchoring on initial positions, 99.0–100% of 100,000 random strongly connected networks of 5 to 25 members, complete or with random zero weights, evolve to a single leader and the rest to two
+# THEORY-1161: Reflected appraisal yields a single leader
 
 ## Source
 

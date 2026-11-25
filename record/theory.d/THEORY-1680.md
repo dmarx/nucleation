@@ -3,7 +3,15 @@ number: 1680
 status: Proposed
 formerly:
 - THEORY-tmpdzsxl
-title: 'Radsch (2026) argues that the emerging AI content licensing market reproduces the platform capture of the search era: bilateral deals reach only large publishers and lost their click-through advantage by late 2025, the intermediaries are exposed to acquisition by the platforms, local media are absent, and the firms whose AI products erode publishers'' traffic also come to control the licensing infrastructure publishers must use.'
+title: 'AI licensing repeats platform capture'
+statement: >-
+  Radsch (2026) argues that the emerging AI content licensing market
+  reproduces the platform capture of the search era: bilateral deals reach
+  only large publishers and lost their click-through advantage by late 2025,
+  the intermediaries are exposed to acquisition by the platforms, local
+  media are absent, and the firms whose AI products erode publishers'
+  traffic also come to control the licensing infrastructure publishers must
+  use.
 version: 1
 source:
 - LIT-2357
@@ -27,7 +35,7 @@ summary: >-
   local, regional and minority-language media effectively absent.
 ---
 
-# THEORY-1680: Radsch (2026) argues that the emerging AI content licensing market reproduces the platform capture of the search era: bilateral deals reach only large publishers and lost their click-through advantage by late 2025, the intermediaries are exposed to acquisition by the platforms, local media are absent, and the firms whose AI products erode publishers' traffic also come to control the licensing infrastructure publishers must use.
+# THEORY-1680: AI licensing repeats platform capture
 
 ## The account
 

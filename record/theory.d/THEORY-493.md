@@ -3,7 +3,15 @@ number: 493
 status: Active
 formerly:
 - THEORY-tmpbrxt2
-title: "From core mereology, classical extensional mereology (GEM) is reached by exactly three pairings of a decomposition principle with an unrestricted-sum principle: Supplementation with Sum2, Strong Supplementation with Sum3, and Complementation with Sum1; Supplementation with Sum3, the pairing given by Simons (1987), does not yield it, because which definition of 'sum' is used decides which decomposition axiom is needed"
+title: 'Three axiom pairings yield GEM; Simons'' doesn''t'
+statement: >-
+  From core mereology, classical extensional mereology (GEM) is reached by
+  exactly three pairings of a decomposition principle with an
+  unrestricted-sum principle: Supplementation with Sum2, Strong
+  Supplementation with Sum3, and Complementation with Sum1; Supplementation
+  with Sum3, the pairing given by Simons (1987), does not yield it, because
+  which definition of 'sum' is used decides which decomposition axiom is
+  needed
 version: 1
 tags:
 - mereology
@@ -24,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-589 THEORY-622 — Proposed; neighbouring accounts named for comparison; this result does not rest on them -->
 
-# THEORY-493: From core mereology, classical extensional mereology (GEM) is reached by exactly three pairings of a decomposition principle with an unrestricted-sum principle: Supplementation with Sum2, Strong Supplementation with Sum3, and Complementation with Sum1; Supplementation with Sum3, the pairing given by Simons (1987), does not yield it, because which definition of 'sum' is used decides which decomposition axiom is needed
+# THEORY-493: Three axiom pairings yield GEM; Simons' doesn't
 
 ## Source
 

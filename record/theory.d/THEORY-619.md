@@ -3,7 +3,15 @@ number: 619
 status: Active
 formerly:
 - THEORY-tmpqv891
-title: "Over the poset of commutative von Neumann subalgebras, coarse-graining a projector to a smaller subalgebra is exactly the direct image of its clopen region of the Gelfand spectrum under restriction, so the coarse-graining presheaf is the presheaf of clopen spectral regions; and a quantum state's sieve-valued truth values are fixed by one coherent family of regions, its supports: a proposition is true at a subcontext exactly when the support there lies under the coarse-grained proposition"
+title: 'Coarse-graining is direct image of clopens'
+statement: >-
+  Over the poset of commutative von Neumann subalgebras, coarse-graining a
+  projector to a smaller subalgebra is exactly the direct image of its
+  clopen region of the Gelfand spectrum under restriction, so the
+  coarse-graining presheaf is the presheaf of clopen spectral regions; and a
+  quantum state's sieve-valued truth values are fixed by one coherent family
+  of regions, its supports: a proposition is true at a subcontext exactly
+  when the support there lies under the coarse-grained proposition
 version: 1
 tags:
 - quantum-foundations
@@ -27,7 +35,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-380 — Superseded by LIT-382; named as the paper that introduced the base category and asserted the isomorphism this account states as proved -->
 
-# THEORY-619: Over the poset of commutative von Neumann subalgebras, coarse-graining a projector to a smaller subalgebra is exactly the direct image of its clopen region of the Gelfand spectrum under restriction, so the coarse-graining presheaf is the presheaf of clopen spectral regions; and a quantum state's sieve-valued truth values are fixed by one coherent family of regions, its supports: a proposition is true at a subcontext exactly when the support there lies under the coarse-grained proposition
+# THEORY-619: Coarse-graining is direct image of clopens
 
 ## Source
 

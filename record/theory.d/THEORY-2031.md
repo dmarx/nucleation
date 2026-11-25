@@ -3,7 +3,17 @@ number: 2031
 status: Proposed
 formerly:
 - THEORY-tmpitdat
-title: 'Poole, Lahiri, Raghu, Sohl-Dickstein and Ganguli show, in the mean-field theory of wide random fully connected networks, that the slope of the correlation map at correlation 1 divides the weight and bias variances into an ordered phase, where nearby inputs converge, and a chaotic one, where they separate; that in the chaotic phase an input curve''s length grows exponentially with depth while its curvature holds at a fixed point, so its global curvature grows exponentially with depth; and that a one-hidden-layer network can extend a curve''s length only in proportion to its width'
+title: 'Chaotic deep nets grow curvature exponentially'
+statement: >-
+  Poole, Lahiri, Raghu, Sohl-Dickstein and Ganguli show, in the mean-field
+  theory of wide random fully connected networks, that the slope of the
+  correlation map at correlation 1 divides the weight and bias variances
+  into an ordered phase, where nearby inputs converge, and a chaotic one,
+  where they separate; that in the chaotic phase an input curve's length
+  grows exponentially with depth while its curvature holds at a fixed point,
+  so its global curvature grows exponentially with depth; and that a
+  one-hidden-layer network can extend a curve's length only in proportion to
+  its width
 version: 1
 source:
 - LIT-2842
@@ -26,7 +36,7 @@ summary: >-
   met.
 ---
 
-# THEORY-2031: Poole, Lahiri, Raghu, Sohl-Dickstein and Ganguli show, in the mean-field theory of wide random fully connected networks, that the slope of the correlation map at correlation 1 divides the weight and bias variances into an ordered phase, where nearby inputs converge, and a chaotic one, where they separate; that in the chaotic phase an input curve's length grows exponentially with depth while its curvature holds at a fixed point, so its global curvature grows exponentially with depth; and that a one-hidden-layer network can extend a curve's length only in proportion to its width
+# THEORY-2031: Chaotic deep nets grow curvature exponentially
 
 ## The account
 

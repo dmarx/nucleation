@@ -11,7 +11,13 @@ promote_when: >-
   the hardest tasks) and exemption (by appeal to more important duties,
   such as protection and production) as ways care responsibilities are
   misallocated. Whether these are the only misallocations is not asked.
-title: 'Democracy, on Tronto''s account, is the allocation of caring responsibilities in a political community, with equal voice for all in making the allocations; care is misallocated by excluding those one wants to saddle with the hardest tasks, and by exempting oneself through appeal to more important duties such as protection and production'
+title: 'Democracy is allocating caring responsibilities'
+statement: >-
+  Democracy, on Tronto's account, is the allocation of caring
+  responsibilities in a political community, with equal voice for all in
+  making the allocations; care is misallocated by excluding those one wants
+  to saddle with the hardest tasks, and by exempting oneself through appeal
+  to more important duties such as protection and production
 version: 1
 tags:
 - ethics
@@ -33,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2669 CLAIM-707 — Unavailable, Proposed or new; the work this stands in for, the slides and their reading, and the entries it bears on -->
 
-# THEORY-1993: Democracy, on Tronto's account, is the allocation of caring responsibilities in a political community, with equal voice for all in making the allocations; care is misallocated by excluding those one wants to saddle with the hardest tasks, and by exempting oneself through appeal to more important duties such as protection and production
+# THEORY-1993: Democracy is allocating caring responsibilities
 
 Tronto (2014), [LIT-2774](../literature.d/LIT-2774.md), read in [NOTE-2049](../notes.d/NOTE-2049.md).
 

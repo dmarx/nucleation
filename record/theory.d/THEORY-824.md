@@ -36,8 +36,13 @@ promote_when: >-
 
 # The claim. Repeat it as the body's `# THEORY-824:` heading; the lint checks
 # that the two agree.
-title: 'Economics working papers increasingly back their claims with design-based identification: in NBER and CEPR working papers the share of claims supported by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose about fourfold from 1990 to 2020'
-
+title: 'Design-based identification rose fourfold'
+statement: >-
+  Economics working papers increasingly back their claims with design-based
+  identification: in NBER and CEPR working papers the share of claims
+  supported by difference-in-differences, instrumental variables, an RCT,
+  regression discontinuity or synthetic control rose about fourfold from
+  1990 to 2020
 version: 1
 
 # One or more topics from luria.yaml, primary first — the same table the
@@ -74,7 +79,7 @@ extends:
 ---
 
 <!-- inactive-ok-file: LIT-079 — Proposed by its close reading for edges never validated against human labels; the only source, and that limit is why this account is Proposed -->
-# THEORY-824: Economics working papers increasingly back their claims with design-based identification: in NBER and CEPR working papers the share of claims supported by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose about fourfold from 1990 to 2020
+# THEORY-824: Design-based identification rose fourfold
 
 ## Source
 

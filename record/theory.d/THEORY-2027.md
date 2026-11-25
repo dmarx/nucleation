@@ -3,7 +3,16 @@ number: 2027
 status: Proposed
 formerly:
 - THEORY-tmpgjb4y
-title: 'Dohare and colleagues show that networks trained by standard backpropagation on long sequences of new supervised tasks (Continual ImageNet, Permuted MNIST, class-incremental CIFAR-100) gradually lose the ability to learn each new task, down to about the level of a linear network, which is distinct from forgetting old tasks, and that methods which keep weights small while continually injecting fresh random units from the start of training, best of all their continual backpropagation, maintain that ability.'
+title: 'Backprop loses plasticity over many tasks'
+statement: >-
+  Dohare and colleagues show that networks trained by standard
+  backpropagation on long sequences of new supervised tasks (Continual
+  ImageNet, Permuted MNIST, class-incremental CIFAR-100) gradually lose the
+  ability to learn each new task, down to about the level of a linear
+  network, which is distinct from forgetting old tasks, and that methods
+  which keep weights small while continually injecting fresh random units
+  from the start of training, best of all their continual backpropagation,
+  maintain that ability.
 version: 1
 source:
 - LIT-2810
@@ -42,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2027: Dohare and colleagues show that networks trained by standard backpropagation on long sequences of new supervised tasks (Continual ImageNet, Permuted MNIST, class-incremental CIFAR-100) gradually lose the ability to learn each new task, down to about the level of a linear network, which is distinct from forgetting old tasks, and that methods which keep weights small while continually injecting fresh random units from the start of training, best of all their continual backpropagation, maintain that ability.
+# THEORY-2027: Backprop loses plasticity over many tasks
 
 ## The account
 

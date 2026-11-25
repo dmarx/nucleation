@@ -3,7 +3,18 @@ number: 385
 status: Active
 formerly:
 - THEORY-tmpsdhw2
-title: 'In HNSW over 10-dimensional data in 100 isolated clusters, linking each new item to its nearest neighbours leaves part of the bottom layer unreachable from the entry point and caps recall well short of 1 however wide the query search, while linking a candidate only when it is nearer the new item than to any neighbour already kept keeps that layer connected and reaches recall near 1 with about half the links; on uniform data at 10 and 64 dimensions the two rules differ little; shown in Malkov and Yashunin''s own tests on 10 million points and in an independent re-run on 30,000, which found the nearest-neighbour rule capped at a recall@10 of 0.72 to 0.83 against 0.999, at matched build cost too'
+title: 'HNSW heuristic links keep clustered data reachable'
+statement: >-
+  In HNSW over 10-dimensional data in 100 isolated clusters, linking each
+  new item to its nearest neighbours leaves part of the bottom layer
+  unreachable from the entry point and caps recall well short of 1 however
+  wide the query search, while linking a candidate only when it is nearer
+  the new item than to any neighbour already kept keeps that layer connected
+  and reaches recall near 1 with about half the links; on uniform data at 10
+  and 64 dimensions the two rules differ little; shown in Malkov and
+  Yashunin's own tests on 10 million points and in an independent re-run on
+  30,000, which found the nearest-neighbour rule capped at a recall@10 of
+  0.72 to 0.83 against 0.999, at matched build cost too
 version: 3
 history:
 - version: 2
@@ -53,7 +64,7 @@ bears_on:
 - QUESTION-187
 ---
 
-# THEORY-385: In HNSW over 10-dimensional data in 100 isolated clusters, linking each new item to its nearest neighbours leaves part of the bottom layer unreachable from the entry point and caps recall well short of 1 however wide the query search, while linking a candidate only when it is nearer the new item than to any neighbour already kept keeps that layer connected and reaches recall near 1 with about half the links; on uniform data at 10 and 64 dimensions the two rules differ little; shown in Malkov and Yashunin's own tests on 10 million points and in an independent re-run on 30,000, which found the nearest-neighbour rule capped at a recall@10 of 0.72 to 0.83 against 0.999, at matched build cost too
+# THEORY-385: HNSW heuristic links keep clustered data reachable
 
 ## Source
 

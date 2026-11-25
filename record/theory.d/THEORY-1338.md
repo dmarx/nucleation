@@ -3,7 +3,15 @@ number: 1338
 status: Active
 formerly:
 - THEORY-tmpr67qi
-title: 'In the Basic Psychological Need Satisfaction and Frustration Scale as Chen et al. built it, the distinction between satisfaction and frustration coincides with item direction: every satisfaction item states a positive experience and every frustration item an aversive one, so the better fit of six factors over three, which is the scale''s evidence that frustration is a separate dimension, is also what a keying or valence factor would produce'
+title: 'BPNSFS six-factor fit could be item keying'
+statement: >-
+  In the Basic Psychological Need Satisfaction and Frustration Scale as Chen
+  et al. built it, the distinction between satisfaction and frustration
+  coincides with item direction: every satisfaction item states a positive
+  experience and every frustration item an aversive one, so the better fit
+  of six factors over three, which is the scale's evidence that frustration
+  is a separate dimension, is also what a keying or valence factor would
+  produce
 version: 3
 history:
 - version: 2
@@ -41,7 +49,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-052 LIT-1954 — Proposed, Open, Deferred or Unfetched; the entries this bears on, cited as open -->
 
-# THEORY-1338: In the Basic Psychological Need Satisfaction and Frustration Scale as Chen et al. built it, the distinction between satisfaction and frustration coincides with item direction: every satisfaction item states a positive experience and every frustration item an aversive one, so the better fit of six factors over three, which is the scale's evidence that frustration is a separate dimension, is also what a keying or valence factor would produce
+# THEORY-1338: BPNSFS six-factor fit could be item keying
 
 ## Source
 

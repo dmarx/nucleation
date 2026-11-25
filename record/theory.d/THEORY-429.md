@@ -15,7 +15,15 @@ promote_when: >-
   payoffs change. Narrative histories chosen to illustrate the account,
   including the English and Spanish colonies it was built on, cannot
   settle it.
-title: "Institutions are the humanly devised formal and informal constraints on interaction; with technology they fix the costs of transacting, organisations arise to exploit the opportunities they offer, and an economy grows when its framework rewards productive rather than redistributive activity, while increasing returns to the institutional matrix make frameworks path dependent, so that economies with different frameworks diverge and need not converge"
+title: 'Institutions shape growth and are path dependent'
+statement: >-
+  Institutions are the humanly devised formal and informal constraints on
+  interaction; with technology they fix the costs of transacting,
+  organisations arise to exploit the opportunities they offer, and an
+  economy grows when its framework rewards productive rather than
+  redistributive activity, while increasing returns to the institutional
+  matrix make frameworks path dependent, so that economies with different
+  frameworks diverge and need not converge
 version: 1
 tags:
 - social-science
@@ -36,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-414 THEORY-043 — Proposed; the rules-in-equilibrium account and the group-mind account, named in Connections and in what this does not say, not leaned on -->
 
-# THEORY-429: Institutions are the humanly devised formal and informal constraints on interaction; with technology they fix the costs of transacting, organisations arise to exploit the opportunities they offer, and an economy grows when its framework rewards productive rather than redistributive activity, while increasing returns to the institutional matrix make frameworks path dependent, so that economies with different frameworks diverge and need not converge
+# THEORY-429: Institutions shape growth and are path dependent
 
 ## Source
 

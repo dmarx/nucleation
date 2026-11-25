@@ -3,7 +3,16 @@ number: 1231
 status: Proposed
 formerly:
 - THEORY-tmp3xe34
-title: 'When each agent''s Q-function is approximated as an average of pairwise terms and expanded about the mean action of its neighbours, the first-order term vanishes and the approximation error is a second-order remainder bounded by the curvature of the pairwise Q-function, leaving a two-body problem between an agent and its neighbours'' average; with homogeneous agents, mean field Q-learning converges to the Nash Q-value under assumptions the authors call strong, and learned tasks of 500 and 1000 agents where independent and centralized-critic baselines failed'
+title: 'Mean-field Q-learning reduces to two-body terms'
+statement: >-
+  When each agent's Q-function is approximated as an average of pairwise
+  terms and expanded about the mean action of its neighbours, the
+  first-order term vanishes and the approximation error is a second-order
+  remainder bounded by the curvature of the pairwise Q-function, leaving a
+  two-body problem between an agent and its neighbours' average; with
+  homogeneous agents, mean field Q-learning converges to the Nash Q-value
+  under assumptions the authors call strong, and learned tasks of 500 and
+  1000 agents where independent and centralized-critic baselines failed
 version: 1
 tags:
 - game-theory
@@ -37,7 +46,7 @@ summary: >-
   evidence is one task at two sizes.
 ---
 
-# THEORY-1231: When each agent's Q-function is approximated as an average of pairwise terms and expanded about the mean action of its neighbours, the first-order term vanishes and the approximation error is a second-order remainder bounded by the curvature of the pairwise Q-function, leaving a two-body problem between an agent and its neighbours' average; with homogeneous agents, mean field Q-learning converges to the Nash Q-value under assumptions the authors call strong, and learned tasks of 500 and 1000 agents where independent and centralized-critic baselines failed
+# THEORY-1231: Mean-field Q-learning reduces to two-body terms
 
 ## Source
 

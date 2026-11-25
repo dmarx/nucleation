@@ -3,7 +3,14 @@ number: 1379
 status: Active
 formerly:
 - THEORY-tmp8atfa
-title: 'Wille''s formal concept analysis, as restated by Ignatov: for any relation between objects and attributes, the two derivation operators form an antitone Galois connection whose closed pairs form a complete lattice, every complete lattice arises so, and an attribute implication A → B holds exactly when every object with all of A has all of B, that is, when B lies in the closure of A'
+title: 'Concept lattices come from Galois connections'
+statement: >-
+  Wille's formal concept analysis, as restated by Ignatov: for any relation
+  between objects and attributes, the two derivation operators form an
+  antitone Galois connection whose closed pairs form a complete lattice,
+  every complete lattice arises so, and an attribute implication A → B holds
+  exactly when every object with all of A has all of B, that is, when B lies
+  in the closure of A
 version: 2
 history:
 - version: 2
@@ -37,7 +44,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: LIT-344 — Skimmed and new, Unavailable, or Proposed; cited from the reading of Ignatov (2015) as open -->
 
-# THEORY-1379: Wille's formal concept analysis, as restated by Ignatov: for any relation between objects and attributes, the two derivation operators form an antitone Galois connection whose closed pairs form a complete lattice, every complete lattice arises so, and an attribute implication A → B holds exactly when every object with all of A has all of B, that is, when B lies in the closure of A
+# THEORY-1379: Concept lattices come from Galois connections
 
 ## Source
 

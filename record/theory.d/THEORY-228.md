@@ -3,7 +3,13 @@ number: 228
 status: Active
 formerly:
 - THEORY-tmpakup2
-title: 'On a finite augmentation space, at the population optimum of the spectral contrastive loss with k ≥ 2r, linear-probe error is bounded, up to constant and logarithmic factors, by the error of recovering the label from an augmentation divided by the squared sparsest-partition conductance of the augmentation graph'
+title: 'Probe error bounded by augmentation conductance'
+statement: >-
+  On a finite augmentation space, at the population optimum of the spectral
+  contrastive loss with k ≥ 2r, linear-probe error is bounded, up to
+  constant and logarithmic factors, by the error of recovering the label
+  from an augmentation divided by the squared sparsest-partition conductance
+  of the augmentation graph
 version: 3
 history:
 - version: 2
@@ -49,7 +55,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-005 — Proposed or Open, or Active and cited for context; this account rests on none of them -->
 
-# THEORY-228: On a finite augmentation space, at the population optimum of the spectral contrastive loss with k ≥ 2r, linear-probe error is bounded, up to constant and logarithmic factors, by the error of recovering the label from an augmentation divided by the squared sparsest-partition conductance of the augmentation graph
+# THEORY-228: Probe error bounded by augmentation conductance
 
 ## Source
 

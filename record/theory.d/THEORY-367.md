@@ -3,7 +3,14 @@ number: 367
 status: Active
 formerly:
 - THEORY-tmpbyiv8
-title: "For SPJU relational queries, which Buneman, Khanna and Tan's tree model encodes, the minimal witnesses of an output tuple, the inclusion-minimal sets of source facts from which the query still derives it, are the minimal sets matched by single derivations and so are the same for every equivalent query, while where-provenance, the source location a value was copied from, can differ between equivalent queries"
+title: 'Minimal witnesses are query-invariant'
+statement: >-
+  For SPJU relational queries, which Buneman, Khanna and Tan's tree model
+  encodes, the minimal witnesses of an output tuple, the inclusion-minimal
+  sets of source facts from which the query still derives it, are the
+  minimal sets matched by single derivations and so are the same for every
+  equivalent query, while where-provenance, the source location a value was
+  copied from, can differ between equivalent queries
 version: 3
 history:
 - version: 2
@@ -42,7 +49,7 @@ bears_on:
 - QUESTION-225
 ---
 
-# THEORY-367: For SPJU relational queries, which Buneman, Khanna and Tan's tree model encodes, the minimal witnesses of an output tuple, the inclusion-minimal sets of source facts from which the query still derives it, are the minimal sets matched by single derivations and so are the same for every equivalent query, while where-provenance, the source location a value was copied from, can differ between equivalent queries
+# THEORY-367: Minimal witnesses are query-invariant
 
 ## Source
 

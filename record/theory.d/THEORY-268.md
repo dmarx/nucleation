@@ -14,7 +14,11 @@ promote_when: >-
   values must or cannot go negative. What cannot settle it: more
   hand-built toys with negative local values, which show only that the
   arithmetic allows it, or a report of the average score alone.
-title: "An emergence measure averaged over a system's transitions can be positive while its local value is negative at particular transitions, so emergence so measured belongs to the ensemble, not to each moment"
+title: 'Averaged emergence can be locally negative'
+statement: >-
+  An emergence measure averaged over a system's transitions can be positive
+  while its local value is negative at particular transitions, so emergence
+  so measured belongs to the ensemble, not to each moment
 version: 3
 history:
 - version: 2
@@ -55,7 +59,7 @@ bounds:
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the claim whose scope this reading bounds, cited in the history note of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-161 — Proposed; the answer, persistence test and account this bears on, open -->
 
-# THEORY-268: An emergence measure averaged over a system's transitions can be positive while its local value is negative at particular transitions, so emergence so measured belongs to the ensemble, not to each moment
+# THEORY-268: Averaged emergence can be locally negative
 
 ## Source
 

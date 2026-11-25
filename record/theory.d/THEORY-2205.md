@@ -3,7 +3,17 @@ number: 2205
 status: Proposed
 formerly:
 - THEORY-tmpttfgp
-title: 'Shalizi and Moore propose that, for a chosen set of observables of a system with Markov microdynamics, the macrostates are the causal states of the observed process, the coarsest partition of observation histories that predicts the observables as well as the whole history does and whose own dynamics is therefore Markov, so that which observables to start from is the observer''s choice and the partition reached from them is fixed by the dynamics; and they call one causal description emergent from another when it is a coarse-graining of it and is predicted with higher efficiency E/Cµ, arguing both from examples rather than new theorems'
+title: 'Macrostates are causal states of observables'
+statement: >-
+  Shalizi and Moore propose that, for a chosen set of observables of a
+  system with Markov microdynamics, the macrostates are the causal states of
+  the observed process, the coarsest partition of observation histories that
+  predicts the observables as well as the whole history does and whose own
+  dynamics is therefore Markov, so that which observables to start from is
+  the observer's choice and the partition reached from them is fixed by the
+  dynamics; and they call one causal description emergent from another when
+  it is a coarse-graining of it and is predicted with higher efficiency
+  E/Cµ, arguing both from examples rather than new theorems
 promote_when: >-
   An independent source, or a worked model in the record, takes a stated
   observation function on a stated Markov microdynamics, computes the
@@ -35,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-146 THEORY-257 CLAIM-861 — Proposed or new; the term filed from this reading, the account it contrasts with and the claim it grounds -->
 <!-- inactive-ok-file: THEORY-2167 — Proposed; the reading of Quinn and colleagues, joined with this one in CLAIM-861 -->
 
-# THEORY-2205: Shalizi and Moore propose that, for a chosen set of observables of a system with Markov microdynamics, the macrostates are the causal states of the observed process, the coarsest partition of observation histories that predicts the observables as well as the whole history does and whose own dynamics is therefore Markov, so that which observables to start from is the observer's choice and the partition reached from them is fixed by the dynamics; and they call one causal description emergent from another when it is a coarse-graining of it and is predicted with higher efficiency E/Cµ, arguing both from examples rather than new theorems
+# THEORY-2205: Macrostates are causal states of observables
 
 ## Source
 

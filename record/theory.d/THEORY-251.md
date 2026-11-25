@@ -13,7 +13,11 @@ promote_when: >-
   rather than manifold capacity) falls with accuracy. What cannot settle
   it: further capacity curves of the kind already shown, which are the
   evidence the claim rests on.
-title: 'In few-shot classification by a base language model, failures from the choice of examples or from relabelled categories leave the class representations separable and fail at the vocabulary readout'
+title: 'Few-shot failures arise at the readout'
+statement: >-
+  In few-shot classification by a base language model, failures from the
+  choice of examples or from relabelled categories leave the class
+  representations separable and fail at the vocabulary readout
 version: 1
 tags:
 - representation-learning
@@ -31,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-029 THEORY-264 — Proposed; claims and theory this account bears on, open -->
 <!-- inactive-ok-file: TERM-136 THEORY-2189 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# THEORY-251: In few-shot classification by a base language model, failures from the choice of examples or from relabelled categories leave the class representations separable and fail at the vocabulary readout
+# THEORY-251: Few-shot failures arise at the readout
 
 ## Source
 

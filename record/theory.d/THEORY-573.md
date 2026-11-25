@@ -13,7 +13,14 @@ promote_when: >-
   unchanged, or if a manipulation that removes the feeling leaves the
   signal's effect intact. More cross-modal transfer effects, without a test
   of the experiential route, cannot settle it.
-title: "Signals of processing quality from different senses, such as fluency, familiarity and coherence, pool into one content-nonspecific feeling, and that pooled feeling contributes to the unity of conscious experience across modalities, alongside the integration of specific features; in support, coherence in one modality shifts judgments of regularity, familiarity and possibility about unrelated targets in another"
+title: 'Pooled fluency signals help unify experience'
+statement: >-
+  Signals of processing quality from different senses, such as fluency,
+  familiarity and coherence, pool into one content-nonspecific feeling, and
+  that pooled feeling contributes to the unity of conscious experience
+  across modalities, alongside the integration of specific features; in
+  support, coherence in one modality shifts judgments of regularity,
+  familiarity and possibility about unrelated targets in another
 version: 1
 tags:
 - consciousness
@@ -34,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-063 THEORY-096 THEORY-523 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 <!-- inactive-ok-file: LIT-190 — Proposed: read in full and unproven; this account states the hypothesis at the strength the reading gives it -->
 
-# THEORY-573: Signals of processing quality from different senses, such as fluency, familiarity and coherence, pool into one content-nonspecific feeling, and that pooled feeling contributes to the unity of conscious experience across modalities, alongside the integration of specific features; in support, coherence in one modality shifts judgments of regularity, familiarity and possibility about unrelated targets in another
+# THEORY-573: Pooled fluency signals help unify experience
 
 ## Source
 

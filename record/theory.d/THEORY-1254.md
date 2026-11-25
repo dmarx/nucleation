@@ -3,7 +3,15 @@ number: 1254
 status: Active
 formerly:
 - THEORY-tmp78ls3
-title: 'A controller that must stay safe under every model it has not ruled out cannot use the evidence its committing action produces: if the information it can gather before its first action that forecloses a safe continuation under an alternative is bounded by β, every such controller forfeits at least about ½e^{−β} of the value reachable only by committing, so a linear oracle gap gives linear regret, and acting on an exclusion at risk α needs about log(1/(2α)) nats gathered beforehand'
+title: 'Uniformly safe controllers forfeit committed value'
+statement: >-
+  A controller that must stay safe under every model it has not ruled out
+  cannot use the evidence its committing action produces: if the information
+  it can gather before its first action that forecloses a safe continuation
+  under an alternative is bounded by β, every such controller forfeits at
+  least about ½e^{−β} of the value reachable only by committing, so a linear
+  oracle gap gives linear regret, and acting on an exclusion at risk α needs
+  about log(1/(2α)) nats gathered beforehand
 version: 2
 history:
 - version: 2
@@ -36,7 +44,7 @@ bears_on:
 - QUESTION-467
 ---
 
-# THEORY-1254: A controller that must stay safe under every model it has not ruled out cannot use the evidence its committing action produces: if the information it can gather before its first action that forecloses a safe continuation under an alternative is bounded by β, every such controller forfeits at least about ½e^{−β} of the value reachable only by committing, so a linear oracle gap gives linear regret, and acting on an exclusion at risk α needs about log(1/(2α)) nats gathered beforehand
+# THEORY-1254: Uniformly safe controllers forfeit committed value
 
 ## Source
 

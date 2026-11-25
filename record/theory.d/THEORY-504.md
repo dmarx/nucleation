@@ -3,7 +3,13 @@ number: 504
 status: Active
 formerly:
 - THEORY-tmpdlewi
-title: "In the Gemma Scope sparse autoencoders on Gemma 2, the two fidelity measures disagree by site: residual-stream autoencoders cost more next-token loss than MLP or attention ones at comparable fraction of variance unexplained, and base-model autoencoders transfer to the instruction-tuned model by loss more than by variance explained"
+title: 'SAE fidelity measures disagree by site'
+statement: >-
+  In the Gemma Scope sparse autoencoders on Gemma 2, the two fidelity
+  measures disagree by site: residual-stream autoencoders cost more
+  next-token loss than MLP or attention ones at comparable fraction of
+  variance unexplained, and base-model autoencoders transfer to the
+  instruction-tuned model by loss more than by variance explained
 version: 3
 history:
 - version: 2
@@ -44,7 +50,7 @@ bears_on:
 - QUESTION-274
 ---
 
-# THEORY-504: In the Gemma Scope sparse autoencoders on Gemma 2, the two fidelity measures disagree by site: residual-stream autoencoders cost more next-token loss than MLP or attention ones at comparable fraction of variance unexplained, and base-model autoencoders transfer to the instruction-tuned model by loss more than by variance explained
+# THEORY-504: SAE fidelity measures disagree by site
 
 ## Source
 

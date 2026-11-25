@@ -11,7 +11,14 @@ promote_when: >-
   converse direction for one player are checked from the proof. The
   survey's statement of them does not suffice, and neither does the
   one-player inclusion re-derived below.
-title: 'Giving players more information shrinks what an information designer can make them do: for one player, being more informative in Blackwell''s sense, being a garbling''s source and leaving a smaller set of Bayes correlated equilibria in every decision problem are the same order; for many players the incentive order is individual sufficiency, which neither implies nor is implied by sufficiency of the players'' joint information'
+title: 'More information shrinks what designers achieve'
+statement: >-
+  Giving players more information shrinks what an information designer can
+  make them do: for one player, being more informative in Blackwell's sense,
+  being a garbling's source and leaving a smaller set of Bayes correlated
+  equilibria in every decision problem are the same order; for many players
+  the incentive order is individual sufficiency, which neither implies nor
+  is implied by sufficiency of the players' joint information
 version: 1
 history:
 - version: 1
@@ -37,7 +44,7 @@ summary: >-
   and easier to inform at once.
 ---
 
-# THEORY-853: Giving players more information shrinks what an information designer can make them do: for one player, being more informative in Blackwell's sense, being a garbling's source and leaving a smaller set of Bayes correlated equilibria in every decision problem are the same order; for many players the incentive order is individual sufficiency, which neither implies nor is implied by sufficiency of the players' joint information
+# THEORY-853: More information shrinks what designers achieve
 
 ## Source
 

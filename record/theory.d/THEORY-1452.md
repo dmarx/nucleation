@@ -3,7 +3,17 @@ number: 1452
 status: Active
 formerly:
 - THEORY-tmpy8h1y
-title: 'Scheckenbach, Schubert, Forthmann, Glembockyte and Tinnefeld show that folded DNA origami can be repaired from strands supplied in solution, transiently bound labels regenerating indiscriminately after photobleaching and added staples being taken up only where shorter staples left a scaffold toehold of 4 or 8 nt, which they take to be how damaged sites are repaired, so that a matching staple pool keeps 76 % of nanorulers intact over 11 days in 0.2 % serum against 12 % without; such self-healing fails to outpace damage at higher nuclease levels, and damage to the scaffold cannot be repaired'
+title: 'Staple pools let DNA origami self-heal'
+statement: >-
+  Scheckenbach, Schubert, Forthmann, Glembockyte and Tinnefeld show that
+  folded DNA origami can be repaired from strands supplied in solution,
+  transiently bound labels regenerating indiscriminately after
+  photobleaching and added staples being taken up only where shorter staples
+  left a scaffold toehold of 4 or 8 nt, which they take to be how damaged
+  sites are repaired, so that a matching staple pool keeps 76 % of
+  nanorulers intact over 11 days in 0.2 % serum against 12 % without; such
+  self-healing fails to outpace damage at higher nuclease levels, and damage
+  to the scaffold cannot be repaired
 version: 2
 history:
 - version: 2
@@ -48,7 +58,7 @@ summary: >-
   every damaged structure: missing staples were replaced in about half.
 ---
 
-# THEORY-1452: Scheckenbach, Schubert, Forthmann, Glembockyte and Tinnefeld show that folded DNA origami can be repaired from strands supplied in solution, transiently bound labels regenerating indiscriminately after photobleaching and added staples being taken up only where shorter staples left a scaffold toehold of 4 or 8 nt, which they take to be how damaged sites are repaired, so that a matching staple pool keeps 76 % of nanorulers intact over 11 days in 0.2 % serum against 12 % without; such self-healing fails to outpace damage at higher nuclease levels, and damage to the scaffold cannot be repaired
+# THEORY-1452: Staple pools let DNA origami self-heal
 
 ## Source
 

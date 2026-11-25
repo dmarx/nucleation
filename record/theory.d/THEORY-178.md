@@ -3,7 +3,13 @@ number: 178
 status: Active
 formerly:
 - THEORY-tmpcasth
-title: 'In an ensemble of sign-consistent Boolean rules on the 87-gene core of E. coli''s regulatory network, a transient knockout or overexpression of one gene can leave the network in a different attractor after release, and every gene that does so reaches a strongly connected component containing a positive circuit'
+title: 'Attractor-switching genes reach positive circuits'
+statement: >-
+  In an ensemble of sign-consistent Boolean rules on the 87-gene core of E.
+  coli's regulatory network, a transient knockout or overexpression of one
+  gene can leave the network in a different attractor after release, and
+  every gene that does so reaches a strongly connected component containing
+  a positive circuit
 version: 4
 history:
 - version: 2
@@ -58,7 +64,7 @@ bears_on:
 
 <!-- inactive-ok-file: THEORY-058 — Proposed; named as a neighbouring self-maintaining-loop account -->
 
-# THEORY-178: In an ensemble of sign-consistent Boolean rules on the 87-gene core of E. coli's regulatory network, a transient knockout or overexpression of one gene can leave the network in a different attractor after release, and every gene that does so reaches a strongly connected component containing a positive circuit
+# THEORY-178: Attractor-switching genes reach positive circuits
 
 ## Source
 

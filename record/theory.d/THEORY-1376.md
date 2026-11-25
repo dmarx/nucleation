@@ -3,7 +3,13 @@ number: 1376
 status: Active
 formerly:
 - THEORY-tmp5ebls
-title: 'Lawvere shows that a generalized metric space is exactly a category enriched in the extended non-negative reals under addition, with the triangle inequality as composition, so that dropping symmetry and finiteness is natural and enriched-category constructions specialise to metric-space theory'
+title: 'Metric spaces are categories enriched in [0,∞]'
+statement: >-
+  Lawvere shows that a generalized metric space is exactly a category
+  enriched in the extended non-negative reals under addition, with the
+  triangle inequality as composition, so that dropping symmetry and
+  finiteness is natural and enriched-category constructions specialise to
+  metric-space theory
 version: 2
 history:
 - version: 2
@@ -41,7 +47,7 @@ corroborates:
 - CLAIM-591
 ---
 
-# THEORY-1376: Lawvere shows that a generalized metric space is exactly a category enriched in the extended non-negative reals under addition, with the triangle inequality as composition, so that dropping symmetry and finiteness is natural and enriched-category constructions specialise to metric-space theory
+# THEORY-1376: Metric spaces are categories enriched in [0,∞]
 
 ## Source
 

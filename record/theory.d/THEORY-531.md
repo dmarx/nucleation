@@ -17,7 +17,13 @@ promote_when: >-
   of what people would in fact fear cannot settle it: the claim is about
   what fear can rationally follow, and Williams calls his own resolution
   "rather shaky".
-title: "Told in the third person, a transfer of memories and character between two bodies reads as the persons exchanging bodies; told in the first person, no predicted psychological change removes the subject's reason to fear pain to his own body, and the step that completes the exchange happens only to the other man, so the two tellings support opposite criteria"
+title: 'First vs third person: opposite identity verdicts'
+statement: >-
+  Told in the third person, a transfer of memories and character between two
+  bodies reads as the persons exchanging bodies; told in the first person,
+  no predicted psychological change removes the subject's reason to fear
+  pain to his own body, and the step that completes the exchange happens
+  only to the other man, so the two tellings support opposite criteria
 version: 2
 history:
 - version: 2
@@ -46,7 +52,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-447 THEORY-546 THEORY-650 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 
-# THEORY-531: Told in the third person, a transfer of memories and character between two bodies reads as the persons exchanging bodies; told in the first person, no predicted psychological change removes the subject's reason to fear pain to his own body, and the step that completes the exchange happens only to the other man, so the two tellings support opposite criteria
+# THEORY-531: First vs third person: opposite identity verdicts
 
 ## Source
 

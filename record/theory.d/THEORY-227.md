@@ -3,7 +3,11 @@ number: 227
 status: Active
 formerly:
 - THEORY-tmp7q33x
-title: "Mutual information between an input and its representation does not fix the representation's quality: invertible encoders all preserve it exactly, yet under a linear probe some do better than the raw input and some worse"
+title: 'Mutual information doesn''t fix representation'
+statement: >-
+  Mutual information between an input and its representation does not fix
+  the representation's quality: invertible encoders all preserve it exactly,
+  yet under a linear probe some do better than the raw input and some worse
 version: 3
 history:
 - version: 2
@@ -59,7 +63,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-001 CLAIM-193 — Proposed; cited for context, nothing here rests on them -->
 
-# THEORY-227: Mutual information between an input and its representation does not fix the representation's quality: invertible encoders all preserve it exactly, yet under a linear probe some do better than the raw input and some worse
+# THEORY-227: Mutual information doesn't fix representation
 
 ## Source
 

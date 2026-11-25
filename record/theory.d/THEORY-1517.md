@@ -3,7 +3,16 @@ number: 1517
 status: Active
 formerly:
 - THEORY-tmpymvl9
-title: 'Knack finds, across 80 aid-receiving countries from 1982 to 1995, that higher mean aid relative to GNP or to government spending goes with smaller gains in the ICRG governance index, controlling for initial governance, income growth and population growth; the effect roughly doubles when aid is instrumented with recipient need and donor interest, holds within sub-Saharan Africa for aid relative to GNP, is several times larger for technical assistance, does not depend on initial governance, and shrinks as aid becomes less predictable'
+title: 'More aid goes with worse governance gains'
+statement: >-
+  Knack finds, across 80 aid-receiving countries from 1982 to 1995, that
+  higher mean aid relative to GNP or to government spending goes with
+  smaller gains in the ICRG governance index, controlling for initial
+  governance, income growth and population growth; the effect roughly
+  doubles when aid is instrumented with recipient need and donor interest,
+  holds within sub-Saharan Africa for aid relative to GNP, is several times
+  larger for technical assistance, does not depend on initial governance,
+  and shrinks as aid becomes less predictable
 version: 2
 history:
 - version: 2
@@ -46,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2221 — Unavailable; the article this reading partly stands in for -->
 
-# THEORY-1517: Knack finds, across 80 aid-receiving countries from 1982 to 1995, that higher mean aid relative to GNP or to government spending goes with smaller gains in the ICRG governance index, controlling for initial governance, income growth and population growth; the effect roughly doubles when aid is instrumented with recipient need and donor interest, holds within sub-Saharan Africa for aid relative to GNP, is several times larger for technical assistance, does not depend on initial governance, and shrinks as aid becomes less predictable
+# THEORY-1517: More aid goes with worse governance gains
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1852
 status: Proposed
 formerly:
 - THEORY-tmpockqy
-title: 'Sen argues that development should be evaluated as the expansion of the substantive freedoms people enjoy, not as growth of income, industrialization or technological advance, and that freedoms are both its primary ends and among its principal means because freedoms of different kinds strengthen one another'
+title: 'Development is expanding substantive freedoms'
+statement: >-
+  Sen argues that development should be evaluated as the expansion of the
+  substantive freedoms people enjoy, not as growth of income,
+  industrialization or technological advance, and that freedoms are both its
+  primary ends and among its principal means because freedoms of different
+  kinds strengthen one another
 version: 1
 source:
 - LIT-2568
@@ -28,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1935 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
-# THEORY-1852: Sen argues that development should be evaluated as the expansion of the substantive freedoms people enjoy, not as growth of income, industrialization or technological advance, and that freedoms are both its primary ends and among its principal means because freedoms of different kinds strengthen one another
+# THEORY-1852: Development is expanding substantive freedoms
 
 ## The account
 

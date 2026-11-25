@@ -10,7 +10,12 @@ promote_when: >-
   them alive indefinitely prevents settling. Historical cases read through
   the model, such as the peptic-ulcer case, cannot settle it, because the
   model is what makes them evidence.
-title: 'A group learning by trying needs diversity in what its members pursue that lasts long enough to survive misleading early evidence and then gives way to consensus; limited communication and stubborn priors each supply it, and together they make it permanent, so the group never settles'
+title: 'Transient diversity lets groups learn'
+statement: >-
+  A group learning by trying needs diversity in what its members pursue that
+  lasts long enough to survive misleading early evidence and then gives way
+  to consensus; limited communication and stubborn priors each supply it,
+  and together they make it permanent, so the group never settles
 version: 1
 tags:
 - epistemology
@@ -36,7 +41,7 @@ bounds:
 ---
 <!-- inactive-ok-file: THEORY-143 — Proposed; the network account filed in this batch -->
 
-# THEORY-148: A group learning by trying needs diversity in what its members pursue that lasts long enough to survive misleading early evidence and then gives way to consensus; limited communication and stubborn priors each supply it, and together they make it permanent, so the group never settles
+# THEORY-148: Transient diversity lets groups learn
 
 ## Source
 

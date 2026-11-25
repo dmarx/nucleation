@@ -12,7 +12,14 @@ promote_when: >-
   inequivalent and have no compatible interpreted common core. More exact,
   low-dimensional examples (bosonization, electric–magnetic duality) cannot
   settle it, since that is where it is already argued.
-title: "In the physical dualities examined, theoretically inequivalent duals turn out empirically inequivalent, so dualities yield no genuine in-principle underdetermination; where duals would contradict each other a cautious realist is warranted in committing only to their common core, and because the exact cases' common cores are rich rather than empty, dualities give no support to structural realism"
+title: 'Dualities give no real underdetermination'
+statement: >-
+  In the physical dualities examined, theoretically inequivalent duals turn
+  out empirically inequivalent, so dualities yield no genuine in-principle
+  underdetermination; where duals would contradict each other a cautious
+  realist is warranted in committing only to their common core, and because
+  the exact cases' common cores are rich rather than empty, dualities give
+  no support to structural realism
 version: 1
 tags:
 - philosophy-of-science
@@ -34,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-038 THEORY-459 THEORY-594 — Proposed; named as related accounts, not leaned on -->
 
-# THEORY-690: In the physical dualities examined, theoretically inequivalent duals turn out empirically inequivalent, so dualities yield no genuine in-principle underdetermination; where duals would contradict each other a cautious realist is warranted in committing only to their common core, and because the exact cases' common cores are rich rather than empty, dualities give no support to structural realism
+# THEORY-690: Dualities give no real underdetermination
 
 ## Source
 

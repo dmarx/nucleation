@@ -13,7 +13,13 @@ promote_when: >-
   such studies find that model attribution lowers credibility relative to
   human testimony, so that amplification works, if at all, only through
   hearers' existing prejudice. More conceptual analyses cannot settle it.
-title: 'When a generative model reproduces a prejudiced narrative learned from its training data, the resulting testimonial injustice runs through a credibility excess assigned to the model, so that hearers believe the amplified account over the testimony of those it discredits, rather than through a hearer''s prejudiced judgement of a present speaker'
+title: 'AI testimonial injustice via credibility excess'
+statement: >-
+  When a generative model reproduces a prejudiced narrative learned from its
+  training data, the resulting testimonial injustice runs through a
+  credibility excess assigned to the model, so that hearers believe the
+  amplified account over the testimony of those it discredits, rather than
+  through a hearer's prejudiced judgement of a present speaker
 version: 1
 tags:
 - epistemology
@@ -30,7 +36,7 @@ summary: >-
   injustice in Fricker's sense, or that the amplification is a loop with
   any stated condition.
 ---
-# THEORY-864: When a generative model reproduces a prejudiced narrative learned from its training data, the resulting testimonial injustice runs through a credibility excess assigned to the model, so that hearers believe the amplified account over the testimony of those it discredits, rather than through a hearer's prejudiced judgement of a present speaker
+# THEORY-864: AI testimonial injustice via credibility excess
 
 ## Source
 

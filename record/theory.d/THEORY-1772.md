@@ -3,7 +3,10 @@ number: 1772
 status: Proposed
 formerly:
 - THEORY-tmpl4czv
-title: 'Lu et al. (2026) report an LLM pipeline that generates ML research ideas, runs the experiments and writes the paper'
+title: 'LLM pipeline runs ML research end to end'
+statement: >-
+  Lu et al. (2026) report an LLM pipeline that generates ML research ideas,
+  runs the experiments and writes the paper
 version: 1
 tags:
 - agency
@@ -24,7 +27,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1772: Lu et al. (2026) report an LLM pipeline that generates ML research ideas, runs the experiments and writes the paper
+# THEORY-1772: LLM pipeline runs ML research end to end
 
 ## The account
 

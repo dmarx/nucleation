@@ -12,7 +12,11 @@ promote_when: >-
   analyses of single tales that fit the scheme, or the scheme's use in
   later narratology, cannot settle it, since the scheme was built to fit
   such tales.
-title: 'The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how'
+title: 'All wondertales share one function sequence'
+statement: >-
+  The Russian wondertale is built from a small fixed set of character
+  functions in a fixed order, so that all wondertales share one composition
+  and differ in who performs the functions and how
 version: 3
 history:
 - version: 2
@@ -52,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-642 THEORY-432 — Skimmed and Proposed; the English translation's skim and the Lévi-Strauss account, named in Connections, not leaned on -->
 
-# THEORY-167: The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how
+# THEORY-167: All wondertales share one function sequence
 
 ## Source
 

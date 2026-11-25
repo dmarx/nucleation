@@ -17,7 +17,14 @@ promote_when: >-
   where a stance applied to a whole system predicts what nothing cheaper
   predicts, measured rather than imagined. More Martian-style thought
   experiments cannot settle it, since they assume what is at issue.
-title: "A system believes and desires when its behaviour is reliably and voluminously predictable by treating it as a rational agent with the beliefs and desires it ought to have, and the success of that strategy is an objective fact though adopting it is free; the more richly a system is connected to its world, the fewer interpretations fit, so thermostat and person differ in degree"
+title: 'Belief is intentional-stance predictability'
+statement: >-
+  A system believes and desires when its behaviour is reliably and
+  voluminously predictable by treating it as a rational agent with the
+  beliefs and desires it ought to have, and the success of that strategy is
+  an objective fact though adopting it is free; the more richly a system is
+  connected to its world, the fewer interpretations fit, so thermostat and
+  person differ in degree
 version: 1
 tags:
 - cognition
@@ -41,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-036 THEORY-043 THEORY-092 THEORY-433 THEORY-638 THEORY-691 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
-# THEORY-538: A system believes and desires when its behaviour is reliably and voluminously predictable by treating it as a rational agent with the beliefs and desires it ought to have, and the success of that strategy is an objective fact though adopting it is free; the more richly a system is connected to its world, the fewer interpretations fit, so thermostat and person differ in degree
+# THEORY-538: Belief is intentional-stance predictability
 
 ## Source
 

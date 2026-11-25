@@ -15,7 +15,13 @@ promote_when: >-
   found that the proportion measure cannot grade without a stimulus.
   More dictionary entries for '-able' adjectives cannot settle it; they bear
   on the words, not on the properties.
-title: "Ordinary dispositions can be modelled as restricted possibilities individuated by their manifestation alone: 'fragile' as manifestation in a sufficient proportion of cases over maximally varied external circumstances, 'breakable' as plain possibility; grading by closeness to an ideal world fails for any choice of ideal"
+title: 'Dispositions are restricted possibilities'
+statement: >-
+  Ordinary dispositions can be modelled as restricted possibilities
+  individuated by their manifestation alone: 'fragile' as manifestation in a
+  sufficient proportion of cases over maximally varied external
+  circumstances, 'breakable' as plain possibility; grading by closeness to
+  an ideal world fails for any choice of ideal
 version: 1
 tags:
 - metaphysics
@@ -38,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-144 — Unavailable; named as the held work whose counterfactual semantics this account bears on, not leaned on -->
 <!-- inactive-ok-file: THEORY-092 — Proposed; a neighbouring account of capacity ascriptions, named for comparison -->
 
-# THEORY-670: Ordinary dispositions can be modelled as restricted possibilities individuated by their manifestation alone: 'fragile' as manifestation in a sufficient proportion of cases over maximally varied external circumstances, 'breakable' as plain possibility; grading by closeness to an ideal world fails for any choice of ideal
+# THEORY-670: Dispositions are restricted possibilities
 
 ## Source
 

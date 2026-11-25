@@ -3,7 +3,16 @@ number: 1253
 status: Active
 formerly:
 - THEORY-tmp5nt8h
-title: 'Treating the Bayesian evidence as a partition function with sample size as inverse temperature, the analogue of heat capacity, the rate at which leave-one-out predictive loss falls with sample size, equals half the parameter count in a regular model, as equipartition, and the real log canonical threshold in a singular one, falling below these where prior or discreteness fixes parameters; with multiplicity above one the approach to the singular value is only logarithmic, and the correspondence has no counterpart of physical current or dissipation'
+title: 'Evidence heat capacity is half parameters or RLCT'
+statement: >-
+  Treating the Bayesian evidence as a partition function with sample size as
+  inverse temperature, the analogue of heat capacity, the rate at which
+  leave-one-out predictive loss falls with sample size, equals half the
+  parameter count in a regular model, as equipartition, and the real log
+  canonical threshold in a singular one, falling below these where prior or
+  discreteness fixes parameters; with multiplicity above one the approach to
+  the singular value is only logarithmic, and the correspondence has no
+  counterpart of physical current or dissipation
 version: 1
 tags:
 - learning-theory
@@ -24,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-812 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-# THEORY-1253: Treating the Bayesian evidence as a partition function with sample size as inverse temperature, the analogue of heat capacity, the rate at which leave-one-out predictive loss falls with sample size, equals half the parameter count in a regular model, as equipartition, and the real log canonical threshold in a singular one, falling below these where prior or discreteness fixes parameters; with multiplicity above one the approach to the singular value is only logarithmic, and the correspondence has no counterpart of physical current or dissipation
+# THEORY-1253: Evidence heat capacity is half parameters or RLCT
 
 ## Source
 

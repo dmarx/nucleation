@@ -13,7 +13,12 @@ promote_when: >-
   for the whole system and then applied to individuals by facts about
   them. What cannot settle it: further restatements of Harland's
   argument, or criticism of forward-looking accounts on other grounds.
-title: 'On a forward-looking justification of blame, a counterfactual capacity condition calibrated to what makes blaming effective is redundant: fixing its parameters presupposes that blaming such agents is good policy, so freedom is ascribed because of blameworthiness rather than grounding it'
+title: 'Forward-looking blame makes capacity redundant'
+statement: >-
+  On a forward-looking justification of blame, a counterfactual capacity
+  condition calibrated to what makes blaming effective is redundant: fixing
+  its parameters presupposes that blaming such agents is good policy, so
+  freedom is ascribed because of blameworthiness rather than grounding it
 version: 1
 tags:
 - free-will
@@ -33,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-068 — Deferred; the question this account bears on, on a set-aside line -->
 <!-- inactive-ok-file: THEORY-118 THEORY-119 THEORY-122 THEORY-147 — Proposed; the accounts of the competence and avoidability conditions this one is set beside, open -->
 
-# THEORY-310: On a forward-looking justification of blame, a counterfactual capacity condition calibrated to what makes blaming effective is redundant: fixing its parameters presupposes that blaming such agents is good policy, so freedom is ascribed because of blameworthiness rather than grounding it
+# THEORY-310: Forward-looking blame makes capacity redundant
 
 ## Source
 

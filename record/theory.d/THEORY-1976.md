@@ -9,7 +9,15 @@ promote_when: >-
   question (p. 460), the four classifying dimensions, and the three
   evaluative perspectives (pp. 463–67). The title asserts Bovens's
   framework, not that it is the right account of accountability.
-title: 'Bovens proposes that accountability, in a narrow analytical sense, is a social relation in which an actor is obliged to explain and justify its conduct to a forum that can question and judge it, with the possibility of consequences for the actor, and that whether a practice is accountability is an either/or question kept apart from classifying it by forum, actor, conduct and obligation and from evaluating it from democratic, constitutional and learning perspectives'
+title: 'Accountability is answering to a judging forum'
+statement: >-
+  Bovens proposes that accountability, in a narrow analytical sense, is a
+  social relation in which an actor is obliged to explain and justify its
+  conduct to a forum that can question and judge it, with the possibility of
+  consequences for the actor, and that whether a practice is accountability
+  is an either/or question kept apart from classifying it by forum, actor,
+  conduct and obligation and from evaluating it from democratic,
+  constitutional and learning perspectives
 version: 1
 tags:
 - society-and-governance
@@ -31,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-739 TERM-126 — Proposed or new; the reading and the entries it bears on -->
 
-# THEORY-1976: Bovens proposes that accountability, in a narrow analytical sense, is a social relation in which an actor is obliged to explain and justify its conduct to a forum that can question and judge it, with the possibility of consequences for the actor, and that whether a practice is accountability is an either/or question kept apart from classifying it by forum, actor, conduct and obligation and from evaluating it from democratic, constitutional and learning perspectives
+# THEORY-1976: Accountability is answering to a judging forum
 
 Bovens (2007), [LIT-2729](../literature.d/LIT-2729.md).
 

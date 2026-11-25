@@ -21,7 +21,11 @@ promote_when: >-
   cross-sectional partial-correlation networks, more simulations, or
   clinicians' and patients' reports of which symptom causes which, which
   is the evidence the account already has.
-title: 'Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers'
+title: 'Disorders are causal loops, not latent causes'
+statement: >-
+  Mental disorders are maintained by self-reinforcing causal loops rather
+  than expressing a latent common cause, which is how they can outlast their
+  triggers
 version: 2
 history:
 - version: 2
@@ -62,7 +66,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-2242 THEORY-2243 THEORY-2244 LIT-3122 LIT-3121 LIT-3117 — new, Proposed or Deferred; the works and readings of LEAD-032 cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; named as the record's measured case of a transition with hysteresis and critical slowing, not leaned on -->
 
-# THEORY-058: Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers
+# THEORY-058: Disorders are causal loops, not latent causes
 
 ## Source
 

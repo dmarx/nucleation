@@ -3,7 +3,14 @@ number: 266
 status: Active
 formerly:
 - THEORY-tmphaadr
-title: "For a loss in [0, 1] that is L-Lipschitz in a distortion, with probability at least 1 − δ the average generalisation error along an optimisation trajectory is bounded, under a square root, by the rate-distortion function of the trajectory's law given the sample, a coupling term that carries the trajectory's dependence on the sample, and a distortion term 4Lε"
+title: 'Trajectory rate-distortion bounds generalization'
+statement: >-
+  For a loss in [0, 1] that is L-Lipschitz in a distortion, with probability
+  at least 1 − δ the average generalisation error along an optimisation
+  trajectory is bounded, under a square root, by the rate-distortion
+  function of the trajectory's law given the sample, a coupling term that
+  carries the trajectory's dependence on the sample, and a distortion term
+  4Lε
 version: 3
 history:
 - version: 2
@@ -48,7 +55,7 @@ bears_on:
 - QUESTION-180
 ---
 
-# THEORY-266: For a loss in [0, 1] that is L-Lipschitz in a distortion, with probability at least 1 − δ the average generalisation error along an optimisation trajectory is bounded, under a square root, by the rate-distortion function of the trajectory's law given the sample, a coupling term that carries the trajectory's dependence on the sample, and a distortion term 4Lε
+# THEORY-266: Trajectory rate-distortion bounds generalization
 
 ## Source
 

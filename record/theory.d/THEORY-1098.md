@@ -3,7 +3,14 @@ number: 1098
 status: Active
 formerly:
 - THEORY-tmp247k7
-title: 'On Karnkowska and colleagues'' genome analysis, the oxymonad Monocercomonoides exilis lost its mitochondrion only after the organelle''s essential functions had been removed one by one, Fe–S cluster assembly to a bacterial-type SUF system shared with mitochondriate relatives and then the glycine cleavage system by loss, and the loss left the rest of the cell canonical, with no compensating changes found'
+title: 'Mitochondrion lost only after functions moved'
+statement: >-
+  On Karnkowska and colleagues' genome analysis, the oxymonad
+  Monocercomonoides exilis lost its mitochondrion only after the organelle's
+  essential functions had been removed one by one, Fe–S cluster assembly to
+  a bacterial-type SUF system shared with mitochondriate relatives and then
+  the glycine cleavage system by loss, and the loss left the rest of the
+  cell canonical, with no compensating changes found
 version: 2
 history:
 - version: 1
@@ -61,7 +68,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1223 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: CASE-168 — Open or Proposed; the question, case and accounts set beside this, nothing here rests on them -->
 
-# THEORY-1098: On Karnkowska and colleagues' genome analysis, the oxymonad Monocercomonoides exilis lost its mitochondrion only after the organelle's essential functions had been removed one by one, Fe–S cluster assembly to a bacterial-type SUF system shared with mitochondriate relatives and then the glycine cleavage system by loss, and the loss left the rest of the cell canonical, with no compensating changes found
+# THEORY-1098: Mitochondrion lost only after functions moved
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 1046
 status: Active
 formerly:
 - THEORY-tmpxim6p
-title: 'In infinite sparse factor analysis, where a binary mask says whether a source is active at a data point and an independent Gaussian value says how strongly, the evidence of that data point for the source being active, with its value integrated out, is σ̂·exp(μ̂²/(2σ̂²)) for the posterior mean μ̂ and standard deviation σ̂ of the value; when the residual has no component along the source''s loading the ratio is σ̂, below one, so the data favour an inactive source over an active one at zero by a factor that the prior on the value sets'
+title: 'Data favour inactive sources at zero residual'
+statement: >-
+  In infinite sparse factor analysis, where a binary mask says whether a
+  source is active at a data point and an independent Gaussian value says
+  how strongly, the evidence of that data point for the source being active,
+  with its value integrated out, is σ̂·exp(μ̂²/(2σ̂²)) for the posterior
+  mean μ̂ and standard deviation σ̂ of the value; when the residual has no
+  component along the source's loading the ratio is σ̂, below one, so the
+  data favour an inactive source over an active one at zero by a factor that
+  the prior on the value sets
 version: 1
 history:
 - version: 1
@@ -30,7 +39,7 @@ summary: >-
   with the loading known.
 ---
 
-# THEORY-1046: In infinite sparse factor analysis, where a binary mask says whether a source is active at a data point and an independent Gaussian value says how strongly, the evidence of that data point for the source being active, with its value integrated out, is σ̂·exp(μ̂²/(2σ̂²)) for the posterior mean μ̂ and standard deviation σ̂ of the value; when the residual has no component along the source's loading the ratio is σ̂, below one, so the data favour an inactive source over an active one at zero by a factor that the prior on the value sets
+# THEORY-1046: Data favour inactive sources at zero residual
 
 ## Source
 

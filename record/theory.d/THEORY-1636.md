@@ -3,7 +3,12 @@ number: 1636
 status: Proposed
 formerly:
 - THEORY-tmph775l
-title: 'Kiczales, des Rivières and Bobrow specify a metaobject protocol that describes CLOS as an extensible CLOS program, so that users can change the language''s behaviour by specializing its metaobjects, within explicit restrictions that preserve implementors'' freedom'
+title: 'CLOS is extensible via its metaobject protocol'
+statement: >-
+  Kiczales, des Rivières and Bobrow specify a metaobject protocol that
+  describes CLOS as an extensible CLOS program, so that users can change the
+  language's behaviour by specializing its metaobjects, within explicit
+  restrictions that preserve implementors' freedom
 version: 1
 tags:
 - software-engineering
@@ -26,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1718 — Skimmed; the reading of the source -->
 
-# THEORY-1636: Kiczales, des Rivières and Bobrow specify a metaobject protocol that describes CLOS as an extensible CLOS program, so that users can change the language's behaviour by specializing its metaobjects, within explicit restrictions that preserve implementors' freedom
+# THEORY-1636: CLOS is extensible via its metaobject protocol
 
 ## The account
 

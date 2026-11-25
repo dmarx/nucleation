@@ -13,7 +13,14 @@ promote_when: >-
   co-constitution, or if keeping the boundary licenses no inference that
   the merged description lacks. More worked illustrations cannot settle it,
   since every case so far was chosen to fit the diagram.
-title: "Organism–environment reciprocal causation, taken diachronically, unrolls into an acyclic sequence of organism, environment and experienced-environment states joined by interventionist arrows; on that representation each niche-construction type has a characteristic causal pattern, and multi-species cases come apart only if organism and environment are kept distinct"
+title: 'Reciprocal causation unrolls into acyclic graphs'
+statement: >-
+  Organism–environment reciprocal causation, taken diachronically, unrolls
+  into an acyclic sequence of organism, environment and
+  experienced-environment states joined by interventionist arrows; on that
+  representation each niche-construction type has a characteristic causal
+  pattern, and multi-species cases come apart only if organism and
+  environment are kept distinct
 version: 1
 tags:
 - philosophy-of-science
@@ -35,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-612 — Proposed; Hazelwood's account, named in Connections -->
 <!-- inactive-ok-file: THEORY-249 — Proposed; named for a parallel, nothing here rests on it -->
 
-# THEORY-446: Organism–environment reciprocal causation, taken diachronically, unrolls into an acyclic sequence of organism, environment and experienced-environment states joined by interventionist arrows; on that representation each niche-construction type has a characteristic causal pattern, and multi-species cases come apart only if organism and environment are kept distinct
+# THEORY-446: Reciprocal causation unrolls into acyclic graphs
 
 ## Source
 

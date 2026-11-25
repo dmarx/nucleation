@@ -11,7 +11,15 @@ promote_when: >-
   concession that sufficiency and relevance judgments are substantive and
   weaken the reductive view (pp. 53–54). Whether contractualism is right is
   not asserted.
-title: 'Scanlon now holds that an act is wrong when someone could reasonably reject, on personal reasons weighed against others'' opposing reasons, any principle permitting it, that besides the wrong of not complying with an established and needed practice there is a distinct wrong of failing to do one''s part in establishing a needed norm, and that the judgments of sufficiency and relevance this rests on are substantive, which weakens the view''s reductive explanatory power'
+title: 'Failing to help establish needed norms is a wrong'
+statement: >-
+  Scanlon now holds that an act is wrong when someone could reasonably
+  reject, on personal reasons weighed against others' opposing reasons, any
+  principle permitting it, that besides the wrong of not complying with an
+  established and needed practice there is a distinct wrong of failing to do
+  one's part in establishing a needed norm, and that the judgments of
+  sufficiency and relevance this rests on are substantive, which weakens the
+  view's reductive explanatory power
 version: 1
 tags:
 - ethics
@@ -37,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-729 — Proposed or new; the reading and the claim it corroborates -->
 
-# THEORY-1977: Scanlon now holds that an act is wrong when someone could reasonably reject, on personal reasons weighed against others' opposing reasons, any principle permitting it, that besides the wrong of not complying with an established and needed practice there is a distinct wrong of failing to do one's part in establishing a needed norm, and that the judgments of sufficiency and relevance this rests on are substantive, which weakens the view's reductive explanatory power
+# THEORY-1977: Failing to help establish needed norms is a wrong
 
 Scanlon, "Contractualism and Intuitionism" (2025), [LIT-2741](../literature.d/LIT-2741.md).
 

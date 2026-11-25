@@ -3,7 +3,14 @@ number: 1037
 status: Active
 formerly:
 - THEORY-tmp7bmmi
-title: 'In the infinite hidden Markov model, drawing at each time step a slice variable uniformly below the probability of the transition taken leaves the posterior unchanged and leaves only finitely many state trajectories with positive probability, so a whole trajectory can be resampled exactly by forward filtering and backward sampling, with no truncation of the state space'
+title: 'Beam slicing samples the iHMM without truncation'
+statement: >-
+  In the infinite hidden Markov model, drawing at each time step a slice
+  variable uniformly below the probability of the transition taken leaves
+  the posterior unchanged and leaves only finitely many state trajectories
+  with positive probability, so a whole trajectory can be resampled exactly
+  by forward filtering and backward sampling, with no truncation of the
+  state space
 version: 1
 history:
 - version: 1
@@ -33,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1044 — Proposed; the mixing claim this account leaves out, cited as open -->
 
-# THEORY-1037: In the infinite hidden Markov model, drawing at each time step a slice variable uniformly below the probability of the transition taken leaves the posterior unchanged and leaves only finitely many state trajectories with positive probability, so a whole trajectory can be resampled exactly by forward filtering and backward sampling, with no truncation of the state space
+# THEORY-1037: Beam slicing samples the iHMM without truncation
 
 ## Source
 

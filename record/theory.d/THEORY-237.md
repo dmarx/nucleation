@@ -3,7 +3,15 @@ number: 237
 status: Active
 formerly:
 - THEORY-tmpx4k5f
-title: "The critic-based variational lower bounds on mutual information, Donsker–Varadhan, NWJ, MINE's and InfoNCE, are relaxations of one unnormalized Barber–Agakov bound, and, when the joint and the product of the marginals are mutually absolutely continuous, each attains its supremum over critics only at a critic equal to the log density ratio up to a term its normalization leaves free, where every bound but InfoNCE equals the mutual information"
+title: 'MI lower bounds relax one Barber–Agakov bound'
+statement: >-
+  The critic-based variational lower bounds on mutual information,
+  Donsker–Varadhan, NWJ, MINE's and InfoNCE, are relaxations of one
+  unnormalized Barber–Agakov bound, and, when the joint and the product of
+  the marginals are mutually absolutely continuous, each attains its
+  supremum over critics only at a critic equal to the log density ratio up
+  to a term its normalization leaves free, where every bound but InfoNCE
+  equals the mutual information
 version: 3
 history:
 - version: 2
@@ -45,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; cited for context -->
 
-# THEORY-237: The critic-based variational lower bounds on mutual information, Donsker–Varadhan, NWJ, MINE's and InfoNCE, are relaxations of one unnormalized Barber–Agakov bound, and, when the joint and the product of the marginals are mutually absolutely continuous, each attains its supremum over critics only at a critic equal to the log density ratio up to a term its normalization leaves free, where every bound but InfoNCE equals the mutual information
+# THEORY-237: MI lower bounds relax one Barber–Agakov bound
 
 ## Source
 

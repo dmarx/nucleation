@@ -3,7 +3,17 @@ number: 1492
 status: Active
 formerly:
 - THEORY-tmpukudp
-title: 'Coates, Kegode, Galante and Blau report that in three Food for Peace projects in Kenya, followed 2–3 years after exit, impact at exit did not necessarily predict sustained benefit, and they read their within-country contrasts, which have no comparison group, as showing that the activities that continued had, before the project withdrew, their own resource stream, sufficient technical and managerial capacity, motivated participants and substantive linkages formed early, and had operated independently for a time, while activities that relied on project-supplied inputs until the end declined'
+title: 'Lasting exit needs resources and early linkage'
+statement: >-
+  Coates, Kegode, Galante and Blau report that in three Food for Peace
+  projects in Kenya, followed 2–3 years after exit, impact at exit did not
+  necessarily predict sustained benefit, and they read their within-country
+  contrasts, which have no comparison group, as showing that the activities
+  that continued had, before the project withdrew, their own resource
+  stream, sufficient technical and managerial capacity, motivated
+  participants and substantive linkages formed early, and had operated
+  independently for a time, while activities that relied on project-supplied
+  inputs until the end declined
 version: 3
 history:
 - version: 2
@@ -73,7 +83,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-2151 — Unavailable or new; cited from the reading of Coates et al. (2016) as open -->
 
-# THEORY-1492: Coates, Kegode, Galante and Blau report that in three Food for Peace projects in Kenya, followed 2–3 years after exit, impact at exit did not necessarily predict sustained benefit, and they read their within-country contrasts, which have no comparison group, as showing that the activities that continued had, before the project withdrew, their own resource stream, sufficient technical and managerial capacity, motivated participants and substantive linkages formed early, and had operated independently for a time, while activities that relied on project-supplied inputs until the end declined
+# THEORY-1492: Lasting exit needs resources and early linkage
 
 ## Source
 

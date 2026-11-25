@@ -8,7 +8,12 @@ promote_when: >-
   confirms what the title says: no spontaneous breaking of a continuous
   symmetry at finite temperature in d ≤ 2 for couplings of finite second
   moment, without translation invariance.
-title: "Nachtergaele proves, by energy-entropy balance on equilibrium states, that a continuous symmetry is not spontaneously broken at finite temperature in one or two dimensions for quantum spin systems whose couplings have a finite second moment, with no need for translation invariance"
+title: 'No continuous symmetry breaking in 1D or 2D'
+statement: >-
+  Nachtergaele proves, by energy-entropy balance on equilibrium states, that
+  a continuous symmetry is not spontaneously broken at finite temperature in
+  one or two dimensions for quantum spin systems whose couplings have a
+  finite second moment, with no need for translation invariance
 version: 1
 tags:
 - mathematics
@@ -26,7 +31,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2985 — Unavailable -->
 <!-- inactive-ok-file: CLAIM-842 — Proposed -->
 
-# THEORY-2195: Nachtergaele proves, by energy-entropy balance on equilibrium states, that a continuous symmetry is not spontaneously broken at finite temperature in one or two dimensions for quantum spin systems whose couplings have a finite second moment, with no need for translation invariance
+# THEORY-2195: No continuous symmetry breaking in 1D or 2D
 
 ## Source
 

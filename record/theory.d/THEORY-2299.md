@@ -12,7 +12,13 @@ promote_when: >-
   sample reproduces any of the germline DMPs. The title reports the
   authors' reading of these sites, so it does not wait on that reading
   being right.
-title: 'Mulligan and colleagues report that, among Syrian refugee families, grandchildren of women pregnant during the 1980 Hama violence differed at 14 DNA methylation sites from unexposed families, that directly exposed people differed at 21 other sites and prenatally exposed people at none, and read the first as a germline epigenetic signature of violence'
+title: 'Hama violence linked to grandchild methylation'
+statement: >-
+  Mulligan and colleagues report that, among Syrian refugee families,
+  grandchildren of women pregnant during the 1980 Hama violence differed at
+  14 DNA methylation sites from unexposed families, that directly exposed
+  people differed at 21 other sites and prenatally exposed people at none,
+  and read the first as a germline epigenetic signature of violence
 version: 1
 tags:
 - natural-sciences
@@ -35,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1017 CLAIM-1103 — filed by the lead run of 2026-11-23 -->
 
-# THEORY-2299: Mulligan and colleagues report that, among Syrian refugee families, grandchildren of women pregnant during the 1980 Hama violence differed at 14 DNA methylation sites from unexposed families, that directly exposed people differed at 21 other sites and prenatally exposed people at none, and read the first as a germline epigenetic signature of violence
+# THEORY-2299: Hama violence linked to grandchild methylation
 
 ## The account
 

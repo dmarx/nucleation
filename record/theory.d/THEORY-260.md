@@ -3,7 +3,14 @@ number: 260
 status: Active
 formerly:
 - THEORY-tmpevdge
-title: "An individual string's information splits non-trivially into structure and noise only in a model class without a universal member: with partial recursive models every string's minimal sufficient statistic is trivial, while with total recursive functions it is not, and the finite-set, computable-distribution and total-function classes agree to within logarithmic terms"
+title: 'Structure–noise split needs non-universal models'
+statement: >-
+  An individual string's information splits non-trivially into structure and
+  noise only in a model class without a universal member: with partial
+  recursive models every string's minimal sufficient statistic is trivial,
+  while with total recursive functions it is not, and the finite-set,
+  computable-distribution and total-function classes agree to within
+  logarithmic terms
 version: 4
 history:
 - version: 2
@@ -71,7 +78,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-036 THEORY-157 — Proposed; the real-patterns account this bears on, and the probabilistic sufficiency account it is set beside -->
 
-# THEORY-260: An individual string's information splits non-trivially into structure and noise only in a model class without a universal member: with partial recursive models every string's minimal sufficient statistic is trivial, while with total recursive functions it is not, and the finite-set, computable-distribution and total-function classes agree to within logarithmic terms
+# THEORY-260: Structure–noise split needs non-universal models
 
 ## Source
 

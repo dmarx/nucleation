@@ -12,7 +12,15 @@ promote_when: >-
   is computed without choice-phase trials. Further correlations of chosen load
   with group-level payoff, or a fitted model of memory capacity, cannot settle
   it: the claim is about each person's own measured optimum.
-title: "After a forced phase in which each person experienced every memory load from three to nine items, the load that had given that person the best reward rate predicted their later choices better than one item fewer or one more, in a copying task where items are seen once and cannot be looked up again; a steeper reward for long lists raised chosen load, a higher price for errors did not, and about one person in five kept choosing a non-optimal load"
+title: 'People choose their reward-optimal memory load'
+statement: >-
+  After a forced phase in which each person experienced every memory load
+  from three to nine items, the load that had given that person the best
+  reward rate predicted their later choices better than one item fewer or
+  one more, in a copying task where items are seen once and cannot be looked
+  up again; a steeper reward for long lists raised chosen load, a higher
+  price for errors did not, and about one person in five kept choosing a
+  non-optimal load
 version: 1
 tags:
 - cognition
@@ -33,7 +41,7 @@ bears_on:
 - QUESTION-095
 ---
 
-# THEORY-330: After a forced phase in which each person experienced every memory load from three to nine items, the load that had given that person the best reward rate predicted their later choices better than one item fewer or one more, in a copying task where items are seen once and cannot be looked up again; a steeper reward for long lists raised chosen load, a higher price for errors did not, and about one person in five kept choosing a non-optimal load
+# THEORY-330: People choose their reward-optimal memory load
 
 ## Source
 

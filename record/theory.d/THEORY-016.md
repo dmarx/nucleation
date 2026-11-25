@@ -3,7 +3,12 @@ number: 16
 status: Active
 formerly:
 - THEORY-tmpw2brf
-title: 'An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT''s dimension'
+title: 'Noncontextual model iff positive quasiprobability'
+statement: >-
+  An operational theory admits a generalized-noncontextual model exactly
+  when its GPT admits a positive quasiprobability representation, and for a
+  tomographically local theory any diagram-preserving such model is an exact
+  frame with exactly as many ontic states as the GPT's dimension
 version: 3
 history:
 - version: 2
@@ -39,7 +44,7 @@ answers:
 - QUESTION-246
 ---
 
-# THEORY-016: An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT's dimension
+# THEORY-016: Noncontextual model iff positive quasiprobability
 
 ## Source
 

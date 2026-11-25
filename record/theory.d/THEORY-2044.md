@@ -3,7 +3,15 @@ number: 2044
 status: Proposed
 formerly:
 - THEORY-tmprqrdn
-title: 'Wang and Slotine show that if an auxiliary system with the actual state as input is contracting, every trajectory of the actual system acquires exponentially any smooth property one of its solutions has, though the actual system need not be contracting; for identical units with symmetric positive-definite diffusive coupling on a connected graph this gives global exponential synchronization above a threshold set by the Laplacian''s spectrum, with the common phase left to initial conditions'
+title: 'Partial contraction yields synchronization'
+statement: >-
+  Wang and Slotine show that if an auxiliary system with the actual state as
+  input is contracting, every trajectory of the actual system acquires
+  exponentially any smooth property one of its solutions has, though the
+  actual system need not be contracting; for identical units with symmetric
+  positive-definite diffusive coupling on a connected graph this gives
+  global exponential synchronization above a threshold set by the
+  Laplacian's spectrum, with the common phase left to initial conditions
 version: 1
 source:
 - LIT-2837
@@ -29,7 +37,7 @@ summary: >-
   Proposed until its promote_when is met.
 ---
 
-# THEORY-2044: Wang and Slotine show that if an auxiliary system with the actual state as input is contracting, every trajectory of the actual system acquires exponentially any smooth property one of its solutions has, though the actual system need not be contracting; for identical units with symmetric positive-definite diffusive coupling on a connected graph this gives global exponential synchronization above a threshold set by the Laplacian's spectrum, with the common phase left to initial conditions
+# THEORY-2044: Partial contraction yields synchronization
 
 ## The account
 

@@ -3,7 +3,13 @@ number: 360
 status: Active
 formerly:
 - THEORY-tmpzye1b
-title: 'In Kirsh and Maglio''s Tetris keystroke data, rotation began in earnest by 400 to 600 ms after a piece appeared, sometimes before it was fully in view, and at each of three skill levels drops preceded by a move to the wall and back were longer than ordinary drops, about 19 to 20 squares against 13 to 16'
+title: 'Tetris players rotate early and probe the wall'
+statement: >-
+  In Kirsh and Maglio's Tetris keystroke data, rotation began in earnest by
+  400 to 600 ms after a piece appeared, sometimes before it was fully in
+  view, and at each of three skill levels drops preceded by a move to the
+  wall and back were longer than ordinary drops, about 19 to 20 squares
+  against 13 to 16
 version: 2
 history:
 - version: 2
@@ -44,7 +50,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-355 — Proposed; the maintained-arrangement case from the same author, named as a neighbour, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-823 — Proposed; the epistemic-action reading of these moves, filed when the narrowing dropped it -->
 
-# THEORY-360: In Kirsh and Maglio's Tetris keystroke data, rotation began in earnest by 400 to 600 ms after a piece appeared, sometimes before it was fully in view, and at each of three skill levels drops preceded by a move to the wall and back were longer than ordinary drops, about 19 to 20 squares against 13 to 16
+# THEORY-360: Tetris players rotate early and probe the wall
 
 ## Source
 

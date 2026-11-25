@@ -3,7 +3,13 @@ number: 1694
 status: Proposed
 formerly:
 - THEORY-tmpomlt0
-title: 'Ahmed et al. review evidence that gut-microbial metabolites act on brain function through immune, neural and endocrine routes, including enterochromaffin and enteroendocrine signalling to nerve fibres, and conclude that the evidence is largely preclinical, with human evidence limited and, for short-chain fatty acids, scarce and contradictory.'
+title: 'Metabolite–brain evidence is mostly preclinical'
+statement: >-
+  Ahmed et al. review evidence that gut-microbial metabolites act on brain
+  function through immune, neural and endocrine routes, including
+  enterochromaffin and enteroendocrine signalling to nerve fibres, and
+  conclude that the evidence is largely preclinical, with human evidence
+  limited and, for short-chain fatty acids, scarce and contradictory.
 version: 1
 source:
 - LIT-2442
@@ -28,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1767 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1694: Ahmed et al. review evidence that gut-microbial metabolites act on brain function through immune, neural and endocrine routes, including enterochromaffin and enteroendocrine signalling to nerve fibres, and conclude that the evidence is largely preclinical, with human evidence limited and, for short-chain fatty acids, scarce and contradictory.
+# THEORY-1694: Metabolite–brain evidence is mostly preclinical
 
 ## The account
 

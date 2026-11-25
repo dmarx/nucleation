@@ -3,7 +3,15 @@ number: 1648
 status: Proposed
 formerly:
 - THEORY-tmp0mlhk
-title: 'Nickl, Moussaïd and Lorenz-Spreen report that across some 40 million English-language news headlines from 2000 to the early 2020s, headlines became longer and more negative and took up more of the lexical and syntactic features associated with clickbait and higher click-through rates, a shift seen across countries, political leanings and outlets of high and lower journalistic quality, which they read, without testing a mechanism, as adaptation to competition for attention online.'
+title: 'Headlines grew longer, negative and clickbaity'
+statement: >-
+  Nickl, Moussaïd and Lorenz-Spreen report that across some 40 million
+  English-language news headlines from 2000 to the early 2020s, headlines
+  became longer and more negative and took up more of the lexical and
+  syntactic features associated with clickbait and higher click-through
+  rates, a shift seen across countries, political leanings and outlets of
+  high and lower journalistic quality, which they read, without testing a
+  mechanism, as adaptation to competition for attention online.
 version: 1
 source:
 - LIT-2377
@@ -33,7 +41,7 @@ summary: >-
   profile.
 ---
 
-# THEORY-1648: Nickl, Moussaïd and Lorenz-Spreen report that across some 40 million English-language news headlines from 2000 to the early 2020s, headlines became longer and more negative and took up more of the lexical and syntactic features associated with clickbait and higher click-through rates, a shift seen across countries, political leanings and outlets of high and lower journalistic quality, which they read, without testing a mechanism, as adaptation to competition for attention online.
+# THEORY-1648: Headlines grew longer, negative and clickbaity
 
 ## The account
 

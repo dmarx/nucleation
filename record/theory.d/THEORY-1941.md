@@ -3,7 +3,15 @@ number: 1941
 status: Proposed
 formerly:
 - THEORY-tmppelva
-title: 'Cerrato, Sahlgren and Heilmann find that, in a simulated hiring screen, an organization''s upstream choices of label, feature measurement and model-selection metric change the counterfactual explanations given to rejected candidates more than the explanation method''s own validity threshold does, and argue that counterfactual explanations used as justification or recourse therefore bracket the decision-maker''s contestable choices and put the burden of a better outcome on the subject'
+title: 'Upstream choices drive counterfactual explanations'
+statement: >-
+  Cerrato, Sahlgren and Heilmann find that, in a simulated hiring screen, an
+  organization's upstream choices of label, feature measurement and
+  model-selection metric change the counterfactual explanations given to
+  rejected candidates more than the explanation method's own validity
+  threshold does, and argue that counterfactual explanations used as
+  justification or recourse therefore bracket the decision-maker's
+  contestable choices and put the burden of a better outcome on the subject
 version: 2
 history:
 - version: 2
@@ -37,7 +45,7 @@ corroborates:
 ---
 <!-- unresolved-ok-file: THEORY-tmpu63nn — removed at the reconciliation of 2026-11-18; named for provenance -->
 
-# THEORY-1941: Cerrato, Sahlgren and Heilmann find that, in a simulated hiring screen, an organization's upstream choices of label, feature measurement and model-selection metric change the counterfactual explanations given to rejected candidates more than the explanation method's own validity threshold does, and argue that counterfactual explanations used as justification or recourse therefore bracket the decision-maker's contestable choices and put the burden of a better outcome on the subject
+# THEORY-1941: Upstream choices drive counterfactual explanations
 
 ## Source
 

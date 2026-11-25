@@ -3,7 +3,12 @@ number: 1857
 status: Proposed
 formerly:
 - THEORY-tmpt6mee
-title: 'Adewuyi reports Vallor as holding that AI systems mirror past human data and can change human character, that reliance on algorithmic decision produces moral deskilling, a loss of the capacity for moral reasoning, and that the remedy is collective self-renewal guided by practical wisdom'
+title: 'Algorithmic reliance deskills moral reasoning'
+statement: >-
+  Adewuyi reports Vallor as holding that AI systems mirror past human data
+  and can change human character, that reliance on algorithmic decision
+  produces moral deskilling, a loss of the capacity for moral reasoning, and
+  that the remedy is collective self-renewal guided by practical wisdom
 version: 1
 source:
 - LIT-2577
@@ -26,7 +31,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2591 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 <!-- inactive-ok-file: LIT-2599 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unfetched -->
 
-# THEORY-1857: Adewuyi reports Vallor as holding that AI systems mirror past human data and can change human character, that reliance on algorithmic decision produces moral deskilling, a loss of the capacity for moral reasoning, and that the remedy is collective self-renewal guided by practical wisdom
+# THEORY-1857: Algorithmic reliance deskills moral reasoning
 
 ## The account
 

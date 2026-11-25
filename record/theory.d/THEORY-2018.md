@@ -3,7 +3,15 @@ number: 2018
 status: Proposed
 formerly:
 - THEORY-tmpanqm0
-title: 'Zbontar and colleagues show that a joint-embedding objective which standardizes each embedding unit over the batch and drives the cross-correlation matrix between two views'' embeddings toward the identity learns ImageNet representations on par with contemporary self-supervised methods without negatives, predictors, stop-gradients or large batches, and that both the invariance (diagonal) and redundancy-reduction (off-diagonal) terms are needed'
+title: 'Identity cross-correlation learns SSL features'
+statement: >-
+  Zbontar and colleagues show that a joint-embedding objective which
+  standardizes each embedding unit over the batch and drives the
+  cross-correlation matrix between two views' embeddings toward the identity
+  learns ImageNet representations on par with contemporary self-supervised
+  methods without negatives, predictors, stop-gradients or large batches,
+  and that both the invariance (diagonal) and redundancy-reduction
+  (off-diagonal) terms are needed
 version: 1
 source:
 - LIT-2795
@@ -32,7 +40,7 @@ summary: >-
   its NOTE.
 ---
 
-# THEORY-2018: Zbontar and colleagues show that a joint-embedding objective which standardizes each embedding unit over the batch and drives the cross-correlation matrix between two views' embeddings toward the identity learns ImageNet representations on par with contemporary self-supervised methods without negatives, predictors, stop-gradients or large batches, and that both the invariance (diagonal) and redundancy-reduction (off-diagonal) terms are needed
+# THEORY-2018: Identity cross-correlation learns SSL features
 
 ## The account
 

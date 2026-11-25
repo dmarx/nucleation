@@ -3,7 +3,13 @@ number: 1435
 status: Active
 formerly:
 - THEORY-tmpzax66
-title: 'Marsden and Zwart propose that quantitative resource theories are categories enriched in a commutative quantale, whose monoid combines the costs, probabilities or strengths of successive conversion steps and whose join selects the best alternative, with costly conversions as profunctors and closure under composition as a free internal monad'
+title: 'Resource theories enrich in a quantale'
+statement: >-
+  Marsden and Zwart propose that quantitative resource theories are
+  categories enriched in a commutative quantale, whose monoid combines the
+  costs, probabilities or strengths of successive conversion steps and whose
+  join selects the best alternative, with costly conversions as profunctors
+  and closure under composition as a free internal monad
 version: 2
 history:
 - version: 2
@@ -42,7 +48,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-1527 — Proposed and new; the closure result split off at the status review of 2026-11-06, cited as open -->
 
-# THEORY-1435: Marsden and Zwart propose that quantitative resource theories are categories enriched in a commutative quantale, whose monoid combines the costs, probabilities or strengths of successive conversion steps and whose join selects the best alternative, with costly conversions as profunctors and closure under composition as a free internal monad
+# THEORY-1435: Resource theories enrich in a quantale
 
 ## Source
 

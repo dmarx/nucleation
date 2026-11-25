@@ -3,7 +3,14 @@ number: 2290
 status: Proposed
 formerly:
 - THEORY-tmpfysqg
-title: 'Lippl and Lindsey find that rescaling a pretrained ResNet''s weights by a factor below one before fine-tuning improves fine-tuning on small image classification tasks and gives the representation the signature of nested feature selection, lower dimension after fine-tuning with nearly all of it shared with the pretrained representation, while Vision Transformers show that signature unrescaled and are harmed by rescaling either way'
+title: 'Weight rescaling aids ResNet fine-tuning'
+statement: >-
+  Lippl and Lindsey find that rescaling a pretrained ResNet's weights by a
+  factor below one before fine-tuning improves fine-tuning on small image
+  classification tasks and gives the representation the signature of nested
+  feature selection, lower dimension after fine-tuning with nearly all of it
+  shared with the pretrained representation, while Vision Transformers show
+  that signature unrescaled and are harmed by rescaling either way
 version: 1
 source:
 - LIT-3172
@@ -28,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2305 CLAIM-754 — Proposed; the companion reading filed by the lead run of 2026-11-23, and the claim it parallels -->
 
-# THEORY-2290: Lippl and Lindsey find that rescaling a pretrained ResNet's weights by a factor below one before fine-tuning improves fine-tuning on small image classification tasks and gives the representation the signature of nested feature selection, lower dimension after fine-tuning with nearly all of it shared with the pretrained representation, while Vision Transformers show that signature unrescaled and are harmed by rescaling either way
+# THEORY-2290: Weight rescaling aids ResNet fine-tuning
 
 ## The account
 

@@ -12,7 +12,14 @@ promote_when: >-
   immunised child against the service alone. Not met by an evaluation of
   incentives without a reliable service, which tests a different
   comparison.
-title: 'Banerjee, Duflo, Glennerster and Kothari find, in a clustered randomized trial in 134 Rajasthan villages, that reliable monthly immunisation camps raised full immunisation of children aged 1-3 from 6 % to 18 %, that the same camps with small in-kind incentives raised it to 39 % at half the cost per fully immunised child, and that the incentive worked by stopping drop-out after the first injections'
+title: 'Small incentives doubled immunisation over camps'
+statement: >-
+  Banerjee, Duflo, Glennerster and Kothari find, in a clustered randomized
+  trial in 134 Rajasthan villages, that reliable monthly immunisation camps
+  raised full immunisation of children aged 1-3 from 6 % to 18 %, that the
+  same camps with small in-kind incentives raised it to 39 % at half the
+  cost per fully immunised child, and that the incentive worked by stopping
+  drop-out after the first injections
 version: 1
 history:
 - version: 1
@@ -39,7 +46,7 @@ summary: >-
   day served 13.4 immunisations instead of 4.5.
 ---
 
-# THEORY-2282: Banerjee, Duflo, Glennerster and Kothari find, in a clustered randomized trial in 134 Rajasthan villages, that reliable monthly immunisation camps raised full immunisation of children aged 1-3 from 6 % to 18 %, that the same camps with small in-kind incentives raised it to 39 % at half the cost per fully immunised child, and that the incentive worked by stopping drop-out after the first injections
+# THEORY-2282: Small incentives doubled immunisation over camps
 
 ## The account
 

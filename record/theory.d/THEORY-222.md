@@ -3,7 +3,12 @@ number: 222
 status: Active
 formerly:
 - THEORY-tmpuumxo
-title: 'With uniform interventions imposed separately at each level, a coarse-grained macro description of a known discrete mechanism can have more effective information than the micro description it supervenes on, so the level at which effective information is highest can be a macro level'
+title: 'Macro can beat micro in effective information'
+statement: >-
+  With uniform interventions imposed separately at each level, a
+  coarse-grained macro description of a known discrete mechanism can have
+  more effective information than the micro description it supervenes on, so
+  the level at which effective information is highest can be a macro level
 version: 8
 history:
 - version: 2
@@ -90,7 +95,7 @@ bounds:
 <!-- inactive-ok-file: THEORY-497 — Proposed; the ΦID account named for comparison, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-071 — Proposed; compared, nothing here rests on them -->
 
-# THEORY-222: With uniform interventions imposed separately at each level, a coarse-grained macro description of a known discrete mechanism can have more effective information than the micro description it supervenes on, so the level at which effective information is highest can be a macro level
+# THEORY-222: Macro can beat micro in effective information
 
 ## Source
 

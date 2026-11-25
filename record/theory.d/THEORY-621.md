@@ -13,7 +13,14 @@ promote_when: >-
   predictions for one system would refute it. No-go theorems against
   absolute facts cannot promote it, since other views also deny their
   premise.
-title: "Indexing each quantum fact to the system it is a fact for, and computing probabilities only between facts relative to the same system, removes the contradiction between the collapse and unitary probability rules in Wigner's-friend cases; the price is that values are not held at all times or by all systems alike, there is no global view, and no quantum state of the universe"
+title: 'Relative facts resolve Wigner''s friend'
+statement: >-
+  Indexing each quantum fact to the system it is a fact for, and computing
+  probabilities only between facts relative to the same system, removes the
+  contradiction between the collapse and unitary probability rules in
+  Wigner's-friend cases; the price is that values are not held at all times
+  or by all systems alike, there is no global view, and no quantum state of
+  the universe
 version: 1
 tags:
 - quantum-foundations
@@ -35,7 +42,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-586 THEORY-630 THEORY-631 THEORY-656 — Proposed; the rival and related accounts, named, not leaned on -->
 
-# THEORY-621: Indexing each quantum fact to the system it is a fact for, and computing probabilities only between facts relative to the same system, removes the contradiction between the collapse and unitary probability rules in Wigner's-friend cases; the price is that values are not held at all times or by all systems alike, there is no global view, and no quantum state of the universe
+# THEORY-621: Relative facts resolve Wigner's friend
 
 ## Source
 

@@ -3,7 +3,12 @@ number: 1919
 status: Proposed
 formerly:
 - THEORY-tmp856sf
-title: 'Anderson finds no general theory of how coercion affects the coerced party''s responsibility: the effect varies with the act and its moral context, runs mostly through justification rather than excuse, and no proposed moral or psychological test handles more than a fraction of cases'
+title: 'No test settles how coercion affects blame'
+statement: >-
+  Anderson finds no general theory of how coercion affects the coerced
+  party's responsibility: the effect varies with the act and its moral
+  context, runs mostly through justification rather than excuse, and no
+  proposed moral or psychological test handles more than a fraction of cases
 version: 1
 tags:
 - ethics
@@ -22,7 +27,7 @@ bears_on:
 - QUESTION-070
 ---
 <!-- inactive-ok-file: CLAIM-708 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1919: Anderson finds no general theory of how coercion affects the coerced party's responsibility: the effect varies with the act and its moral context, runs mostly through justification rather than excuse, and no proposed moral or psychological test handles more than a fraction of cases
+# THEORY-1919: No test settles how coercion affects blame
 
 ## Source
 

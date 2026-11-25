@@ -3,7 +3,14 @@ number: 427
 status: Active
 formerly:
 - THEORY-tmp3fv4l
-title: "For gradient matrices of rank at most r, the Kronecker product of the square roots of the accumulated row and column gradient second moments dominates the full-matrix AdaGrad statistic up to the factor r, so preconditioning each side of a weight matrix by a fourth root, as Shampoo does, preconditions at least as strongly as full-matrix AdaGrad and has O(√T) regret for convex Lipschitz losses"
+title: 'Shampoo preconditions at least as full AdaGrad'
+statement: >-
+  For gradient matrices of rank at most r, the Kronecker product of the
+  square roots of the accumulated row and column gradient second moments
+  dominates the full-matrix AdaGrad statistic up to the factor r, so
+  preconditioning each side of a weight matrix by a fourth root, as Shampoo
+  does, preconditions at least as strongly as full-matrix AdaGrad and has
+  O(√T) regret for convex Lipschitz losses
 version: 1
 tags:
 - information-geometry
@@ -22,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-085 — Proposed; named to contrast a Fisher-based Kronecker structure, not leaned on -->
 
-# THEORY-427: For gradient matrices of rank at most r, the Kronecker product of the square roots of the accumulated row and column gradient second moments dominates the full-matrix AdaGrad statistic up to the factor r, so preconditioning each side of a weight matrix by a fourth root, as Shampoo does, preconditions at least as strongly as full-matrix AdaGrad and has O(√T) regret for convex Lipschitz losses
+# THEORY-427: Shampoo preconditions at least as full AdaGrad
 
 ## Source
 

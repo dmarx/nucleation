@@ -3,7 +3,14 @@ number: 1748
 status: Proposed
 formerly:
 - THEORY-tmpaxysg
-title: 'Wu and colleagues (2024) find that chat assistants with memory and long-context LLMs lose roughly 30% to 60% accuracy when the evidence for a question about the user is spread through a long interaction history rather than given alone, and that storing extracted facts or summaries instead of the original rounds loses information and lowers accuracy except on questions that combine several sessions.'
+title: 'Spread-out user evidence cuts memory accuracy'
+statement: >-
+  Wu and colleagues (2024) find that chat assistants with memory and
+  long-context LLMs lose roughly 30% to 60% accuracy when the evidence for a
+  question about the user is spread through a long interaction history
+  rather than given alone, and that storing extracted facts or summaries
+  instead of the original rounds loses information and lowers accuracy
+  except on questions that combine several sessions.
 version: 1
 tags:
 - learning-theory
@@ -22,7 +29,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1748: Wu and colleagues (2024) find that chat assistants with memory and long-context LLMs lose roughly 30% to 60% accuracy when the evidence for a question about the user is spread through a long interaction history rather than given alone, and that storing extracted facts or summaries instead of the original rounds loses information and lowers accuracy except on questions that combine several sessions.
+# THEORY-1748: Spread-out user evidence cuts memory accuracy
 
 ## The account
 

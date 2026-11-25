@@ -3,7 +3,15 @@ number: 1437
 status: Active
 formerly:
 - THEORY-tmp07nzo
-title: 'Cumberworth and Reinhardt review simulation results indicating that, in DNA origami, a staple''s later domains bind without a second translational entropy penalty once its first domain is bound, while each loop closed with the scaffold adds a penalty that depends on the order of binding, and that in the small designs simulated the first effect outweighs the second, so that staples tend to bind fully once started, while assembly is mostly downhill and needs no nucleation barrier, unlike DNA bricks'
+title: 'Origami staples bind fully once started'
+statement: >-
+  Cumberworth and Reinhardt review simulation results indicating that, in
+  DNA origami, a staple's later domains bind without a second translational
+  entropy penalty once its first domain is bound, while each loop closed
+  with the scaffold adds a penalty that depends on the order of binding, and
+  that in the small designs simulated the first effect outweighs the second,
+  so that staples tend to bind fully once started, while assembly is mostly
+  downhill and needs no nucleation barrier, unlike DNA bricks
 version: 3
 history:
 - version: 2
@@ -55,7 +63,7 @@ bears_on:
 - QUESTION-445
 ---
 
-# THEORY-1437: Cumberworth and Reinhardt review simulation results indicating that, in DNA origami, a staple's later domains bind without a second translational entropy penalty once its first domain is bound, while each loop closed with the scaffold adds a penalty that depends on the order of binding, and that in the small designs simulated the first effect outweighs the second, so that staples tend to bind fully once started, while assembly is mostly downhill and needs no nucleation barrier, unlike DNA bricks
+# THEORY-1437: Origami staples bind fully once started
 
 ## Source
 

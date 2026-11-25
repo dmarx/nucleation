@@ -3,7 +3,15 @@ number: 1129
 status: Active
 formerly:
 - THEORY-tmp7cnkm
-title: 'Anchors entered as node features in fused Gromov–Wasserstein break a structural tie only when they move under it: with α strictly between 0 and 1, the zero-cost matchings of a structure with itself are exactly its automorphisms that fix every anchor, so a 6-cycle has 12 with no anchor, 2 with one anchor, 1 with two adjacent anchors and still 2 with two antipodal ones, and whether a set of anchors identifies the correspondence can be decided from the structure before any fit'
+title: 'Fused GW anchors break ties only if they move'
+statement: >-
+  Anchors entered as node features in fused Gromov–Wasserstein break a
+  structural tie only when they move under it: with α strictly between 0 and
+  1, the zero-cost matchings of a structure with itself are exactly its
+  automorphisms that fix every anchor, so a 6-cycle has 12 with no anchor, 2
+  with one anchor, 1 with two adjacent anchors and still 2 with two
+  antipodal ones, and whether a set of anchors identifies the correspondence
+  can be decided from the structure before any fit
 version: 1
 tags:
 - mathematics
@@ -20,7 +28,7 @@ summary: >-
   theorem says nothing about how near.
 ---
 
-# THEORY-1129: Anchors entered as node features in fused Gromov–Wasserstein break a structural tie only when they move under it: with α strictly between 0 and 1, the zero-cost matchings of a structure with itself are exactly its automorphisms that fix every anchor, so a 6-cycle has 12 with no anchor, 2 with one anchor, 1 with two adjacent anchors and still 2 with two antipodal ones, and whether a set of anchors identifies the correspondence can be decided from the structure before any fit
+# THEORY-1129: Fused GW anchors break ties only if they move
 
 ## Source
 

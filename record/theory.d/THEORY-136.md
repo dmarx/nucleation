@@ -3,7 +3,14 @@ number: 136
 status: Active
 formerly:
 - THEORY-tmp9v9w1
-title: 'A persistent or abrupt change is not evidence that a system has alternative stable states: field patterns such as jumps, multimodality and dual relationships also arise from a stepwise driver or a simple threshold, and only hysteresis, initial-state dependence or a lasting shift after a temporary disturbance, with slow return excluded, comes close to showing one'
+title: 'Abrupt change doesn''t show alternative states'
+statement: >-
+  A persistent or abrupt change is not evidence that a system has
+  alternative stable states: field patterns such as jumps, multimodality and
+  dual relationships also arise from a stepwise driver or a simple
+  threshold, and only hysteresis, initial-state dependence or a lasting
+  shift after a temporary disturbance, with slow return excluded, comes
+  close to showing one
 version: 6
 history:
 - version: 2
@@ -67,7 +74,7 @@ bounds:
 <!-- inactive-ok-file: THEORY-058 — Proposed; named as a case the evidential standard bears on -->
 <!-- inactive-ok-file: THEORY-128 — Proposed; the reef-recovery account, named for the Hughes case -->
 
-# THEORY-136: A persistent or abrupt change is not evidence that a system has alternative stable states: field patterns such as jumps, multimodality and dual relationships also arise from a stepwise driver or a simple threshold, and only hysteresis, initial-state dependence or a lasting shift after a temporary disturbance, with slow return excluded, comes close to showing one
+# THEORY-136: Abrupt change doesn't show alternative states
 
 ## Source
 

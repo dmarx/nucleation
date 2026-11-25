@@ -3,7 +3,15 @@ number: 2033
 status: Proposed
 formerly:
 - THEORY-tmpl3nl5
-title: 'Wang and Isola show that, as the number of negative samples grows, the normalized InfoNCE loss on the unit hypersphere converges to an alignment term, minimized exactly by encoders that map both members of every positive pair to the same feature, plus a uniformity term, minimized by encoders whose features are uniformly distributed on the sphere when such encoders exist; on a finite augmented dataset the two optima cannot both be met'
+title: 'Contrastive loss splits into alignment, uniformity'
+statement: >-
+  Wang and Isola show that, as the number of negative samples grows, the
+  normalized InfoNCE loss on the unit hypersphere converges to an alignment
+  term, minimized exactly by encoders that map both members of every
+  positive pair to the same feature, plus a uniformity term, minimized by
+  encoders whose features are uniformly distributed on the sphere when such
+  encoders exist; on a finite augmented dataset the two optima cannot both
+  be met
 version: 1
 source:
 - LIT-2819
@@ -36,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-2188 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# THEORY-2033: Wang and Isola show that, as the number of negative samples grows, the normalized InfoNCE loss on the unit hypersphere converges to an alignment term, minimized exactly by encoders that map both members of every positive pair to the same feature, plus a uniformity term, minimized by encoders whose features are uniformly distributed on the sphere when such encoders exist; on a finite augmented dataset the two optima cannot both be met
+# THEORY-2033: Contrastive loss splits into alignment, uniformity
 
 ## The account
 

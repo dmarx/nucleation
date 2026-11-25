@@ -13,7 +13,14 @@ promote_when: >-
   membrane is bona fide only at a level of description, which the paper's
   own concession about physics invites. Sorting further examples into the
   two kinds cannot settle it.
-title: "Spatial boundaries are bona fide where a spatial discontinuity or a heterogeneity of material is present and fiat where they exist only by demarcation; the two obey different topologies, distinct bodies are never in bona fide contact, so any whole of separate bodies is a fiat object, and real properties of the material still enable and constrain where fiat boundaries can be drawn"
+title: 'Wholes of separate bodies are fiat objects'
+statement: >-
+  Spatial boundaries are bona fide where a spatial discontinuity or a
+  heterogeneity of material is present and fiat where they exist only by
+  demarcation; the two obey different topologies, distinct bodies are never
+  in bona fide contact, so any whole of separate bodies is a fiat object,
+  and real properties of the material still enable and constrain where fiat
+  boundaries can be drawn
 version: 1
 tags:
 - mereology
@@ -36,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the record's open claims this reading bears on, cited as open -->
 <!-- inactive-ok-file: THEORY-072 THEORY-589 THEORY-452 — Proposed; neighbouring accounts named for comparison, not leaned on -->
 
-# THEORY-622: Spatial boundaries are bona fide where a spatial discontinuity or a heterogeneity of material is present and fiat where they exist only by demarcation; the two obey different topologies, distinct bodies are never in bona fide contact, so any whole of separate bodies is a fiat object, and real properties of the material still enable and constrain where fiat boundaries can be drawn
+# THEORY-622: Wholes of separate bodies are fiat objects
 
 ## Source
 

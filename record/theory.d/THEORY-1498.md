@@ -3,7 +3,19 @@ number: 1498
 status: Active
 formerly:
 - THEORY-tmpynupw
-title: "Golosov, Graber, Mogstad and Novgorodsky find, from US tax records of 90,731 state-lottery winners aged 21–64 with wins of at least $30,000 compared with later winners, that a windfall reduces work swiftly and persistently over the following five years, each dollar of annuitized unearned income lowering household pre-tax labour earnings by about 52 cents and raising consumption, imputed from the budget identity, by about 58 cents; that winners save and smooth most of the windfall, as imputed from their capital income; that the per-dollar earnings response rises with pre-win income and falls with prize size; and that wealth raises entry into low-profit self-employment but not into self-employment with profits above $15,000"
+title: 'Windfalls cut earnings 52 cents per dollar'
+statement: >-
+  Golosov, Graber, Mogstad and Novgorodsky find, from US tax records of
+  90,731 state-lottery winners aged 21–64 with wins of at least $30,000
+  compared with later winners, that a windfall reduces work swiftly and
+  persistently over the following five years, each dollar of annuitized
+  unearned income lowering household pre-tax labour earnings by about 52
+  cents and raising consumption, imputed from the budget identity, by about
+  58 cents; that winners save and smooth most of the windfall, as imputed
+  from their capital income; that the per-dollar earnings response rises
+  with pre-win income and falls with prize size; and that wealth raises
+  entry into low-profit self-employment but not into self-employment with
+  profits above $15,000
 version: 4
 history:
 - version: 2
@@ -65,7 +77,7 @@ summary: >-
   lost capability, and no threshold.
 ---
 
-# THEORY-1498: Golosov, Graber, Mogstad and Novgorodsky find, from US tax records of 90,731 state-lottery winners aged 21–64 with wins of at least $30,000 compared with later winners, that a windfall reduces work swiftly and persistently over the following five years, each dollar of annuitized unearned income lowering household pre-tax labour earnings by about 52 cents and raising consumption, imputed from the budget identity, by about 58 cents; that winners save and smooth most of the windfall, as imputed from their capital income; that the per-dollar earnings response rises with pre-win income and falls with prize size; and that wealth raises entry into low-profit self-employment but not into self-employment with profits above $15,000
+# THEORY-1498: Windfalls cut earnings 52 cents per dollar
 
 ## Source
 

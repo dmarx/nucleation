@@ -20,7 +20,14 @@ promote_when: >-
   a quality is the quality itself, as Dretske and Tye use the phrase.
   More cases of perception without report cannot settle it, since both
   sides predict them.
-title: "Representing a sensory quality, even in the distinctively sensory way, does not make there be something it is like for the subject to have it: a quality can occur unnoticed, as for an absent-minded driver, so what it is like to experience a quality is a further property that needs awareness, and a representational theory of sensory qualities leaves open what makes a state experienced"
+title: 'Sensory quality alone doesn''t make experience'
+statement: >-
+  Representing a sensory quality, even in the distinctively sensory way,
+  does not make there be something it is like for the subject to have it: a
+  quality can occur unnoticed, as for an absent-minded driver, so what it is
+  like to experience a quality is a further property that needs awareness,
+  and a representational theory of sensory qualities leaves open what makes
+  a state experienced
 version: 1
 tags:
 - consciousness
@@ -42,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the batch's claim and counter-claim this bears on, not leaned on -->
 <!-- inactive-ok-file: THEORY-103 THEORY-633 — Proposed; accounts this sits beside, named -->
 
-# THEORY-879: Representing a sensory quality, even in the distinctively sensory way, does not make there be something it is like for the subject to have it: a quality can occur unnoticed, as for an absent-minded driver, so what it is like to experience a quality is a further property that needs awareness, and a representational theory of sensory qualities leaves open what makes a state experienced
+# THEORY-879: Sensory quality alone doesn't make experience
 
 ## Source
 

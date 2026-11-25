@@ -3,7 +3,14 @@ number: 462
 status: Active
 formerly:
 - THEORY-tmp8bxd9
-title: "If commonsense knowledge includes defaults that later evidence displaces, a monotonic logic, in which an added axiom can never remove a theorem, cannot represent that displacement as it stands; Minsky's further claim, that no logistic system, one that separates propositions from general laws of inference, can carry commonsense knowledge even once repaired, is asserted, not shown"
+title: 'Monotonic logic can''t represent displaced defaults'
+statement: >-
+  If commonsense knowledge includes defaults that later evidence displaces,
+  a monotonic logic, in which an added axiom can never remove a theorem,
+  cannot represent that displacement as it stands; Minsky's further claim,
+  that no logistic system, one that separates propositions from general laws
+  of inference, can carry commonsense knowledge even once repaired, is
+  asserted, not shown
 version: 2
 history:
 - version: 2
@@ -54,7 +61,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-334 — Unavailable; Gärdenfors's conceptual spaces, named as a neighbouring account, not leaned on -->
 <!-- inactive-ok-file: THEORY-057 THEORY-541 — Proposed; accounts that cite the same memo, named in Connections, not leaned on -->
 
-# THEORY-462: If commonsense knowledge includes defaults that later evidence displaces, a monotonic logic, in which an added axiom can never remove a theorem, cannot represent that displacement as it stands; Minsky's further claim, that no logistic system, one that separates propositions from general laws of inference, can carry commonsense knowledge even once repaired, is asserted, not shown
+# THEORY-462: Monotonic logic can't represent displaced defaults
 
 ## Source
 

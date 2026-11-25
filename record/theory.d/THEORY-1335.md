@@ -3,7 +3,17 @@ number: 1335
 status: Active
 formerly:
 - THEORY-tmpny96e
-title: 'In Juarrero''s constraint account, context-independent constraints take conditions away from equiprobability and context-dependent ones away from independence (after Gatlin); enabling constraints couple separate processes into a coherent dynamic whose constitutive constraints then act top down as second-order governing constraints that confine its components to a subregion of state space; a constraint is defined as what raises or lowers barriers to energy flow without transferring kinetic energy, carries no time-scale condition, and the governing regime is held not to be other than the components'
+title: 'Enabling constraints yield top-down governance'
+statement: >-
+  In Juarrero's constraint account, context-independent constraints take
+  conditions away from equiprobability and context-dependent ones away from
+  independence (after Gatlin); enabling constraints couple separate
+  processes into a coherent dynamic whose constitutive constraints then act
+  top down as second-order governing constraints that confine its components
+  to a subregion of state space; a constraint is defined as what raises or
+  lowers barriers to energy flow without transferring kinetic energy,
+  carries no time-scale condition, and the governing regime is held not to
+  be other than the components
 version: 2
 history:
 - version: 2
@@ -33,7 +43,7 @@ corroborates:
 - CLAIM-582
 ---
 
-# THEORY-1335: In Juarrero's constraint account, context-independent constraints take conditions away from equiprobability and context-dependent ones away from independence (after Gatlin); enabling constraints couple separate processes into a coherent dynamic whose constitutive constraints then act top down as second-order governing constraints that confine its components to a subregion of state space; a constraint is defined as what raises or lowers barriers to energy flow without transferring kinetic energy, carries no time-scale condition, and the governing regime is held not to be other than the components
+# THEORY-1335: Enabling constraints yield top-down governance
 
 ## Source
 

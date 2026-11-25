@@ -15,7 +15,13 @@ promote_when: >-
   same verdict for different reasons. Restating the distinction, or more
   examples of authors running the two projects together, cannot settle
   it.
-title: "Whether an account of organismal goal-directedness must separate genuine teleology from mere self-organisation, such as a candle flame, depends on what the account is for: a scientific model of agency need not and perhaps cannot draw the line, while an account of how mind and value fit into nature may have to, and need not be operationalisable"
+title: 'Teleology line depends on the account''s purpose'
+statement: >-
+  Whether an account of organismal goal-directedness must separate genuine
+  teleology from mere self-organisation, such as a candle flame, depends on
+  what the account is for: a scientific model of agency need not and perhaps
+  cannot draw the line, while an account of how mind and value fit into
+  nature may have to, and need not be operationalisable
 version: 1
 tags:
 - agency
@@ -36,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-071 THEORY-072 THEORY-492 THEORY-532 THEORY-699 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 
-# THEORY-658: Whether an account of organismal goal-directedness must separate genuine teleology from mere self-organisation, such as a candle flame, depends on what the account is for: a scientific model of agency need not and perhaps cannot draw the line, while an account of how mind and value fit into nature may have to, and need not be operationalisable
+# THEORY-658: Teleology line depends on the account's purpose
 
 ## Source
 

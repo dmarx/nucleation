@@ -3,7 +3,15 @@ number: 1265
 status: Active
 formerly:
 - THEORY-tmpkze5s
-title: 'Approximating a chemical master equation by a Fokker–Planck or nonlinear Langevin equation gets the quasi-potential right only at the fixed points: between them it mis-estimates the barriers, so escape rates come out wrong by a factor exponential in system size and the approximation can pick the wrong one of two states as the long-run favourite, and its apparent entropy production vanishes at every steady state, missing the dissipation that sustains it'
+title: 'Diffusion approximations misplace barriers'
+statement: >-
+  Approximating a chemical master equation by a Fokker–Planck or nonlinear
+  Langevin equation gets the quasi-potential right only at the fixed points:
+  between them it mis-estimates the barriers, so escape rates come out wrong
+  by a factor exponential in system size and the approximation can pick the
+  wrong one of two states as the long-run favourite, and its apparent
+  entropy production vanishes at every steady state, missing the dissipation
+  that sustains it
 version: 2
 history:
 - version: 2
@@ -36,7 +44,7 @@ bears_on:
 - QUESTION-452
 ---
 
-# THEORY-1265: Approximating a chemical master equation by a Fokker–Planck or nonlinear Langevin equation gets the quasi-potential right only at the fixed points: between them it mis-estimates the barriers, so escape rates come out wrong by a factor exponential in system size and the approximation can pick the wrong one of two states as the long-run favourite, and its apparent entropy production vanishes at every steady state, missing the dissipation that sustains it
+# THEORY-1265: Diffusion approximations misplace barriers
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 527
 status: Active
 formerly:
 - THEORY-tmpgjsxj
-title: 'If agents are the systems that would adapt their policy were their actions to affect the world differently, then in mechanised causal games meeting Kenton et al.''s five assumptions (one agent per connected component of the decision–utility graph, best response to every mechanism intervention, a fixed tie-breaking order, terminal edges only into decision mechanisms, and mechanism interventions able to set any deterministic function) the game graph, with its decisions, utilities and agents, is recovered exactly from interventions on mechanisms'
+title: 'Causal game graphs recoverable by intervention'
+statement: >-
+  If agents are the systems that would adapt their policy were their actions
+  to affect the world differently, then in mechanised causal games meeting
+  Kenton et al.'s five assumptions (one agent per connected component of the
+  decision–utility graph, best response to every mechanism intervention, a
+  fixed tie-breaking order, terminal edges only into decision mechanisms,
+  and mechanism interventions able to set any deterministic function) the
+  game graph, with its decisions, utilities and agents, is recovered exactly
+  from interventions on mechanisms
 version: 6
 history:
 - version: 2
@@ -70,7 +79,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-1236 — Proposed; the rival account named in this entry's history, which now carries the rivals edge -->
 <!-- inactive-ok-file: CLAIM-170 CLAIM-174 THEORY-208 THEORY-249 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 
-# THEORY-527: If agents are the systems that would adapt their policy were their actions to affect the world differently, then in mechanised causal games meeting Kenton et al.'s five assumptions (one agent per connected component of the decision–utility graph, best response to every mechanism intervention, a fixed tie-breaking order, terminal edges only into decision mechanisms, and mechanism interventions able to set any deterministic function) the game graph, with its decisions, utilities and agents, is recovered exactly from interventions on mechanisms
+# THEORY-527: Causal game graphs recoverable by intervention
 
 ## Source
 

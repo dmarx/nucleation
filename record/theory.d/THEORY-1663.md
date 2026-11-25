@@ -3,7 +3,16 @@ number: 1663
 status: Proposed
 formerly:
 - THEORY-tmp84bs2
-title: 'Moats and colleagues (2026) argue, from ethnographic cases across European algorithmic deployments, that public values invoked without specification come apart from practice in five recurring ways (narrowing a broad value to a do-able measure while keeping its name, tickbox compliance that comes to redefine the value, imposing a value presumed shared, leaving conflicts between values to implementers, and vagueness that lets incompatible meanings coexist), and that these failures originate with those who state values, not only with those who implement them.'
+title: 'Value failures start with those who state them'
+statement: >-
+  Moats and colleagues (2026) argue, from ethnographic cases across European
+  algorithmic deployments, that public values invoked without specification
+  come apart from practice in five recurring ways (narrowing a broad value
+  to a do-able measure while keeping its name, tickbox compliance that comes
+  to redefine the value, imposing a value presumed shared, leaving conflicts
+  between values to implementers, and vagueness that lets incompatible
+  meanings coexist), and that these failures originate with those who state
+  values, not only with those who implement them.
 version: 1
 source:
 - LIT-2361
@@ -36,7 +45,7 @@ summary: >-
   AI; "green transition"; holism in digital twins).
 ---
 
-# THEORY-1663: Moats and colleagues (2026) argue, from ethnographic cases across European algorithmic deployments, that public values invoked without specification come apart from practice in five recurring ways (narrowing a broad value to a do-able measure while keeping its name, tickbox compliance that comes to redefine the value, imposing a value presumed shared, leaving conflicts between values to implementers, and vagueness that lets incompatible meanings coexist), and that these failures originate with those who state values, not only with those who implement them.
+# THEORY-1663: Value failures start with those who state them
 
 ## The account
 

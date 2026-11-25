@@ -3,7 +3,15 @@ number: 1894
 status: Active
 formerly:
 - THEORY-tmpmapw3
-title: 'Brown and colleagues find that drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over four orders of magnitude, so that with automatic verification DeepSeek-Coder-V2-Instruct goes from 15.9% of SWE-bench Lite issues with one sample to 56% with 250, while without a verifier majority voting and reward-model selection plateau far below coverage'
+title: 'Repeated sampling raises coverage log-linearly'
+statement: >-
+  Brown and colleagues find that drawing more independent samples from a
+  language model raises coverage, the fraction of problems at least one
+  sample solves, smoothly and often log-linearly over four orders of
+  magnitude, so that with automatic verification DeepSeek-Coder-V2-Instruct
+  goes from 15.9% of SWE-bench Lite issues with one sample to 56% with 250,
+  while without a verifier majority voting and reward-model selection
+  plateau far below coverage
 version: 2
 history:
 - version: 2
@@ -50,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1880 — Proposed; new entry filed in the same contribution -->
 <!-- inactive-ok-file: CLAIM-576 — Proposed; the claim this account corroborates -->
 
-# THEORY-1894: Brown and colleagues find that drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over four orders of magnitude, so that with automatic verification DeepSeek-Coder-V2-Instruct goes from 15.9% of SWE-bench Lite issues with one sample to 56% with 250, while without a verifier majority voting and reward-model selection plateau far below coverage
+# THEORY-1894: Repeated sampling raises coverage log-linearly
 
 ## The result
 

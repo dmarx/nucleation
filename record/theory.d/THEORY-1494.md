@@ -3,7 +3,16 @@ number: 1494
 status: Active
 formerly:
 - THEORY-tmpvmj93
-title: "Evans and Popova's count by sign and significance of 44 estimates from 19 studies of conditional and unconditional cash transfers in low- and middle-income countries finds that transfers almost never raise spending on alcohol and tobacco: 82% of the estimates are negative, only two are positive and significant, both non-experimental, none of 17 randomized estimates is positive and significant, and the pattern does not differ between conditional and unconditional programs, across regions or with duration of receipt"
+title: 'Cash transfers don''t raise alcohol or tobacco'
+statement: >-
+  Evans and Popova's count by sign and significance of 44 estimates from 19
+  studies of conditional and unconditional cash transfers in low- and
+  middle-income countries finds that transfers almost never raise spending
+  on alcohol and tobacco: 82% of the estimates are negative, only two are
+  positive and significant, both non-experimental, none of 17 randomized
+  estimates is positive and significant, and the pattern does not differ
+  between conditional and unconditional programs, across regions or with
+  duration of receipt
 version: 3
 history:
 - version: 2
@@ -47,7 +56,7 @@ bears_on:
 - QUESTION-418
 ---
 
-# THEORY-1494: Evans and Popova's count by sign and significance of 44 estimates from 19 studies of conditional and unconditional cash transfers in low- and middle-income countries finds that transfers almost never raise spending on alcohol and tobacco: 82% of the estimates are negative, only two are positive and significant, both non-experimental, none of 17 randomized estimates is positive and significant, and the pattern does not differ between conditional and unconditional programs, across regions or with duration of receipt
+# THEORY-1494: Cash transfers don't raise alcohol or tobacco
 
 ## Source
 

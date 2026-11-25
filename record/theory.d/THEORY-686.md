@@ -3,7 +3,12 @@ number: 686
 status: Active
 formerly:
 - THEORY-tmpyncg4
-title: "An observation modelled as a monotone map between preorders can show of a joined system more than the join of its observations of the parts, and out of a preorder with all joins the observations that preserve all joins, the empty join and infinite joins included, are exactly the left adjoints"
+title: 'Join-preserving observations are left adjoints'
+statement: >-
+  An observation modelled as a monotone map between preorders can show of a
+  joined system more than the join of its observations of the parts, and out
+  of a preorder with all joins the observations that preserve all joins, the
+  empty join and infinite joins included, are exactly the left adjoints
 version: 2
 history:
 - version: 2
@@ -45,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-601 — Skimmed; the reading this account rests on, which is why it is Proposed -->
 <!-- inactive-ok-file: CLAIM-119 — Proposed; named for the vocabulary it uses, not leaned on -->
 
-# THEORY-686: An observation modelled as a monotone map between preorders can show of a joined system more than the join of its observations of the parts, and out of a preorder with all joins the observations that preserve all joins, the empty join and infinite joins included, are exactly the left adjoints
+# THEORY-686: Join-preserving observations are left adjoints
 
 ## Source
 

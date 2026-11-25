@@ -3,7 +3,14 @@ number: 1581
 status: Active
 formerly:
 - THEORY-tmp83tvp
-title: 'Swann, Gómez, Seyle, Morales and Huici report that a single pictorial item picks out a distinct, group-specific class of Spanish participants fused with Spain, and that challenging or activating a fused person''s personal self raised their stated willingness to fight and die for the group while leaving the nonfused unchanged, which they read as personal and social identity being functionally equivalent in the fused'
+title: 'Self-activation raises fused willingness to die'
+statement: >-
+  Swann, Gómez, Seyle, Morales and Huici report that a single pictorial item
+  picks out a distinct, group-specific class of Spanish participants fused
+  with Spain, and that challenging or activating a fused person's personal
+  self raised their stated willingness to fight and die for the group while
+  leaving the nonfused unchanged, which they read as personal and social
+  identity being functionally equivalent in the fused
 version: 3
 history:
 - version: 1
@@ -47,7 +54,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-491 — Proposed or Unavailable; the claims and works this reading bears on or cites, named, not leaned on -->
 
-# THEORY-1581: Swann, Gómez, Seyle, Morales and Huici report that a single pictorial item picks out a distinct, group-specific class of Spanish participants fused with Spain, and that challenging or activating a fused person's personal self raised their stated willingness to fight and die for the group while leaving the nonfused unchanged, which they read as personal and social identity being functionally equivalent in the fused
+# THEORY-1581: Self-activation raises fused willingness to die
 
 ## The account
 

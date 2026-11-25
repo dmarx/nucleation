@@ -14,7 +14,14 @@ promote_when: >-
   analysts' transformations. Reproducing a published analysis from
   transformations chosen to reproduce it cannot settle it, since it
   cannot fail.
-title: "In Lévi-Straussian analysis of myth the group of transformations is not given by the material: which variants count as transforms of which, and by what operation, is cut by the analyst from a continuum, unlike transformations that develop an initial form by a rule, and the computational encodings of the method confirm this by taking the analyst's table of oppositions as input"
+title: 'Myth transformation groups are cut by the analyst'
+statement: >-
+  In Lévi-Straussian analysis of myth the group of transformations is not
+  given by the material: which variants count as transforms of which, and by
+  what operation, is cut by the analyst from a continuum, unlike
+  transformations that develop an initial form by a rule, and the
+  computational encodings of the method confirm this by taking the analyst's
+  table of oppositions as input
 version: 2
 history:
 - version: 2
@@ -46,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-014 — Rejected; the verdict that labels written to fit their examples cannot validate the account -->
 <!-- inactive-ok-file: LIT-775 — Unavailable; Lévi-Strauss's Structural Anthropology, unread, named and not leaned on -->
 
-# THEORY-432: In Lévi-Straussian analysis of myth the group of transformations is not given by the material: which variants count as transforms of which, and by what operation, is cut by the analyst from a continuum, unlike transformations that develop an initial form by a rule, and the computational encodings of the method confirm this by taking the analyst's table of oppositions as input
+# THEORY-432: Myth transformation groups are cut by the analyst
 
 ## Source
 
