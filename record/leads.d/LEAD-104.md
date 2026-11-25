@@ -67,4 +67,4 @@ status and stage of this lead are left for the owner to mark.
 
 ## Note of 2026-11-25: closed
 
-Closed as Done in the recomputation pass of LEAD-tmpc0rqa (history, version 2), after reading the run: CASE-364 builds CLAIM-605's model modified as CLAIM-721 says and demonstrates the trap, which is what would count. CASE-364 was not itself rerun in this pass. Whether the model moves CLAIM-721's warrant, and the adoption of CASE-364 and CLAIM-950, stay the owner's. The note is the assistant's (Claude, in this session).
+Closed as Done in the recomputation pass of [LEAD-tmpc0rqa](LEAD-tmpc0rqa.md) (history, version 2), after reading the run: [CASE-364](../cases.d/CASE-364.md) builds [CLAIM-605](../claims.d/CLAIM-605.md)'s model modified as [CLAIM-721](../claims.d/CLAIM-721.md) says and demonstrates the trap, which is what would count. [CASE-364](../cases.d/CASE-364.md) was not itself rerun in this pass. Whether the model moves [CLAIM-721](../claims.d/CLAIM-721.md)'s warrant, and the adoption of [CASE-364](../cases.d/CASE-364.md) and [CLAIM-950](../claims.d/CLAIM-950.md), stay the owner's. The note is the assistant's (Claude, in this session).

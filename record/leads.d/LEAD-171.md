@@ -66,4 +66,4 @@ here.
 
 ## Note of 2026-11-25: closed
 
-Closed as Done in the recomputation pass of LEAD-tmpc0rqa (history, version 2). The lead's model is CLAIM-605, Active, as the audit of 2026-11-22 found; nothing remains of the lead. The note is the assistant's (Claude, in this session).
+Closed as Done in the recomputation pass of [LEAD-tmpc0rqa](LEAD-tmpc0rqa.md) (history, version 2). The lead's model is [CLAIM-605](../claims.d/CLAIM-605.md), Active, as the audit of 2026-11-22 found; nothing remains of the lead. The note is the assistant's (Claude, in this session).
