@@ -27,7 +27,7 @@ summary: >-
   from the process I was using to steer a pair programming collaboration with
   an LLM to develop a webapp." The origin is the owner's testimony; the record
   held it nowhere before, and luria's own record does not mention the webapp.
-  The inference from it is interpretive; CLAIM-tmp5fv9h checks it against
+  The inference from it is interpretive; [CLAIM-tmp5fv9h](CLAIM-tmp5fv9h.md) checks it against
   luria's decision record.
 ---
 
@@ -50,7 +50,7 @@ kind can.
 
 ## What it does not say
 
-- Not that luria needed no change to govern Nucleation. CLAIM-tmp5fv9h
+- Not that luria needed no change to govern Nucleation. [CLAIM-tmp5fv9h](CLAIM-tmp5fv9h.md)
   finds that it needed many, and reads what kind they were.
 - Not that one second project establishes generality for every kind of
-  inquiry; CLAIM-tmpmnjir reads Nucleation as a test, not a proof.
+  inquiry; [CLAIM-tmpmnjir](CLAIM-tmpmnjir.md) reads Nucleation as a test, not a proof.

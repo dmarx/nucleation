@@ -22,7 +22,7 @@ complements:
 - CLAIM-419
 summary: >-
   A30 of the exchange "Hyper article interpretation" (2026-11-22), on the owner's correction
-  CLAIM-tmp97pg4: "Second, Nucleation is a transfer demonstration. The
+  [CLAIM-tmp97pg4](CLAIM-tmp97pg4.md): "Second, Nucleation is a transfer demonstration. The
   important question is whether distinctions first useful for governing
   software development remain useful when applied to intellectual inquiry.
   And where they don't, whether the framework can accommodate the differences
@@ -46,7 +46,7 @@ framework can take in only by ceasing to be general. A30 adds that "the
 development of Luria is itself an inquiry into what a reusable governance
 process has to preserve. The original webapp supplied one set of
 requirements; Nucleation supplies a substantially different set." That is
-CLAIM-470's reading of inquiry as specification, applied to luria: each
+[CLAIM-470](CLAIM-470.md)'s reading of inquiry as specification, applied to luria: each
 project fixes which differences the abstraction must keep.
 
 A30 also says the chronology "makes the publishing proposal an unexpected
@@ -56,7 +56,7 @@ proposal's history, not its merit, and is left in this body.
 
 ## What it does not say
 
-- Not that the test has been passed. CLAIM-tmp5fv9h reads what luria's
+- Not that the test has been passed. [CLAIM-tmp5fv9h](CLAIM-tmp5fv9h.md) reads what luria's
   record shows so far.
 - Not that the software distinctions and the inquiry's are the same
   mechanism; only that one framework is asked to hold both.

@@ -28,7 +28,7 @@ summary: >-
   you'd want to change? call that atlas a first draft"). A57 found its own
   thirty-title first draft "sounds a lot like the paper proliferation
   we're trying to avoid" and stated the criterion that the second draft
-  applies. It sharpens the owner's U10 (CLAIM-tmpkvi10). The wording is
+  applies. It sharpens the owner's U10 ([CLAIM-tmpkvi10](CLAIM-tmpkvi10.md)). The wording is
   A's (ChatGPT's, at A56 and A57 of the exchange "Hyper article
   interpretation"); adopting it is the owner's call.
 ---
@@ -60,12 +60,12 @@ or frontiers.
 
 ## Where it stands on the record
 
-QUESTION-258 asks how a manuscript drawn from the record should be chosen:
+[QUESTION-258](../questions.d/QUESTION-258.md) asks how a manuscript drawn from the record should be chosen:
 as a well-supported connected part of the argument, or as a smallest set
 of claims that changes what it can conclude. This claim answers a
 different part of it: when two candidate manuscripts are one contribution
 or two. Its test is the central claim and its evidence, which fits
-CLAIM-tmp2tzk5 (a contribution is a change in the state of knowledge, not
+[CLAIM-tmp2tzk5](CLAIM-tmp2tzk5.md) (a contribution is a change in the state of knowledge, not
 a publication). The record's own practice already folds works this way:
 four proposed essays were folded into organization-of-perspective when
 one manuscript superseded them (the `works` vocabulary).
@@ -74,4 +74,4 @@ one manuscript superseded them (the `works` vocabulary).
 
 How to tell two central claims apart when one refines the other. That is
 the same judgment as whether a revised claim is a new claim, which is
-QUESTION-tmpvpsv1's.
+[QUESTION-tmpvpsv1](../questions.d/QUESTION-tmpvpsv1.md)'s.

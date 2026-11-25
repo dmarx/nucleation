@@ -30,7 +30,7 @@ summary: >-
   share a flood of interrelated papers. I can provide the single tangle of
   ideas to evaluate, and present different views on it to different
   parties with differing and diverse interests." It extends the record's
-  claim that a manuscript is a view over the argument (CLAIM-178) from one
+  claim that a manuscript is a view over the argument ([CLAIM-178](CLAIM-178.md)) from one
   manuscript to many: the record is the one maintained object, and the
   papers a body of work would otherwise be split into become views over
   it. Filed in the owner's voice.
@@ -48,11 +48,11 @@ interrelated papers. I can provide the single tangle of ideas to evaluate,
 and present different views on it to different parties with differing and
 diverse interests."
 
-CLAIM-178 holds that a manuscript should be a view over the argument and
+[CLAIM-178](CLAIM-178.md) holds that a manuscript should be a view over the argument and
 not its only copy. This claim takes the step from one view to many. When
 a body of work is split into papers, the papers are maintained separately,
 so a revision made in one must be carried by hand into the others.
-CLAIM-178's case shows that a draft written apart from the record drops
+[CLAIM-178](CLAIM-178.md)'s case shows that a draft written apart from the record drops
 commitments and changes its thesis silently. A set of papers does the same
 thing to each other. If the record is the one maintained object, each paper
 becomes a view over it. The split then has no maintenance reason left, and
@@ -68,22 +68,22 @@ governance-of-becoming.
 
 ## What it does not say
 
-- Not that a view can be generated without writing. CLAIM-178: "The prose
+- Not that a view can be generated without writing. [CLAIM-178](CLAIM-178.md): "The prose
   is written, not assembled."
 - Not that separate papers are never warranted. A19 grants that distinct
   papers stay useful "when there are genuinely independent contributions to
   communicate", and that the career incentive to multiply papers is
-  untouched by the architecture alone (QUESTION-tmpz0154).
+  untouched by the architecture alone ([QUESTION-tmpz0154](../questions.d/QUESTION-tmpz0154.md)).
 - Not that a revision reaches every view by itself. The record reports a
   premise whose status changes at each entry that cites it (an `inactive-ok`
   directive must answer for it). An edit within a version is not
   reported that way, and a view written as prose has to be refreshed
-  (ADR-143). A19's "If a mathematical assumption changes, that change
+  ([ADR-143](../decisions.d/ADR-143.md)). A19's "If a mathematical assumption changes, that change
   becomes visible wherever the assumption is used" holds for the record's
   entries, and for a view only once it is refreshed.
 - Why different parties need different views, and not merely prefer them,
-  is the assistant's CLAIM-tmpu6e4u.
+  is the assistant's [CLAIM-tmpu6e4u](CLAIM-tmpu6e4u.md).
 - The owner's general thesis that publishing should publish the work, of
-  which any article is one view, is CLAIM-tmpjf44i (U1, U2). This claim is
+  which any article is one view, is [CLAIM-tmpjf44i](CLAIM-tmpjf44i.md) (U1, U2). This claim is
   its consequence for the number of papers. When two views should still
-  count as separate contributions is A's CLAIM-tmpotj4b.
+  count as separate contributions is A's [CLAIM-tmpotj4b](CLAIM-tmpotj4b.md).

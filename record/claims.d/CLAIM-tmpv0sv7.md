@@ -22,11 +22,11 @@ complements:
 summary: >-
   The owner's, at U6 of the exchange "Hyper article interpretation"
   (2026-11-22): "(Various) 'webhost'(s) as (satisfying the demands
-  normally met by a) 'publisher'." It completes U4's split (CLAIM-tmpzsuh2):
+  normally met by a) 'publisher'." It completes U4's split ([CLAIM-tmpzsuh2](CLAIM-tmpzsuh2.md)):
   authors make the work, editors judge it, journals are feeds over the
-  editors, and hosts serve it. A13 develops it (CLAIM-tmpk6vy2); which of a
+  editors, and hosts serve it. A13 develops it ([CLAIM-tmpk6vy2](CLAIM-tmpk6vy2.md)); which of a
   publisher's functions a host does not supply is the assistant's
-  CLAIM-tmpzz0eu. Filed in the owner's voice.
+  [CLAIM-tmpzz0eu](CLAIM-tmpzz0eu.md). Filed in the owner's voice.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpzsuh2 CLAIM-tmpk6vy2 CLAIM-tmpzz0eu — Proposed; the owner's U4, A's development and the assistant's gap fill -->
@@ -50,4 +50,4 @@ authority over the scientific literature."
 
 Not that one web server is a publisher. A13: "throwing an HTML file on a
 web server doesn't automatically make that server a credible scientific
-publisher." The functions a host leaves to others are CLAIM-tmpzz0eu.
+publisher." The functions a host leaves to others are [CLAIM-tmpzz0eu](CLAIM-tmpzz0eu.md).

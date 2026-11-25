@@ -22,7 +22,7 @@ rests_on:
 - CLAIM-250
 summary: >-
   A11 of the exchange "Hyper article interpretation" (2026-11-22),
-  developing the owner's U5 (TERM-tmpx49xx): memory "means maintaining
+  developing the owner's U5 ([TERM-tmpx49xx](../terms.d/TERM-tmpx49xx.md)): memory "means maintaining
   durable provenance for the decisions and events that shaped the view.
   The difference is that a cache tells you what was displayed. A memory
   can tell you why." And: "a feed could be modeled as a versioned query
@@ -51,15 +51,15 @@ record."
 
 ## Where the record meets it
 
-What a memory keeps, on this reading, is what CLAIM-250 says a developing
+What a memory keeps, on this reading, is what [CLAIM-250](CLAIM-250.md) says a developing
 argument should preserve through revision: its accountability structure,
 what was asserted, why, how it was challenged and what justified the
 change. The record's own curation journal is curation kept as part of the
-record, in A11's sense. CLAIM-tmptn64c (the assistant's) divides the memory
+record, in A11's sense. [CLAIM-tmptn64c](CLAIM-tmptn64c.md) (the assistant's) divides the memory
 further and says where a luria record keeps each part.
 
 ## What it does not say
 
 Not that the history must be append-only in a luria record, which rewrites
 its entries to stay true and leaves the history of what was written to git
-(LU-DP-017).
+([LU-DP-017](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-17)).

@@ -47,12 +47,12 @@ whole publishing architecture works."
 What the record implements: entries with stable codes, statuses, voices and
 declared relations; views generated from them (the indexes, chains and
 pages in `docs/`, and templates in `record/views.d`); and manuscripts written
-as views over the argument (CLAIM-178, ADR-143).
+as views over the argument ([CLAIM-178](CLAIM-178.md), [ADR-143](../decisions.d/ADR-143.md)).
 
 ## A correction to A45
 
 "This article is manually composed" was true of A45, which ChatGPT wrote
-from the outside. It is not the record's only way. ADR-143 (Proposed), dated
+from the outside. It is not the record's only way. [ADR-143](../decisions.d/ADR-143.md) (Proposed), dated
 the day after the exchange, holds a protocol by which a manuscript is
 written from the record as a view: each step cites the entry that holds it
 with its standing, nothing in it is new to the record, and each version is
@@ -66,5 +66,5 @@ what the record does not implement.
 
 ## What it does not say
 
-- Not that the hyperarticle proposal (CLAIM-tmpjf44i) is right; only how far Nucleation goes
+- Not that the hyperarticle proposal ([CLAIM-tmpjf44i](CLAIM-tmpjf44i.md)) is right; only how far Nucleation goes
   toward implementing it.

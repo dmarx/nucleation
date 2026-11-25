@@ -64,9 +64,9 @@ first; that is [QUESTION-496](../questions.d/QUESTION-496.md).
 The owner's U22 of the exchange "Hyper article interpretation" (2026-11-23)
 names how one of this claim's kinds of advance works: "noticing a
 distinction that maintains class stability contributes to the progression
-of an inquiry". It is filed as CLAIM-tmpyaro8, which complements this
-claim, with A47's development and qualification as CLAIM-tmph11zb and a
-test on the exchange's own corrections as LEAD-tmpf2lhq. This claim's
+of an inquiry". It is filed as [CLAIM-tmpyaro8](CLAIM-tmpyaro8.md), which complements this
+claim, with A47's development and qualification as [CLAIM-tmph11zb](CLAIM-tmph11zb.md) and a
+test on the exchange's own corrections as [LEAD-tmpf2lhq](../leads.d/LEAD-tmpf2lhq.md). This claim's
 "a distinction previous accounts conflate" is the split route in A47's
 three (split a class, merge instances into one, separate an object's
 identity from properties allowed to change). The note is the assistant's

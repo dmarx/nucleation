@@ -52,9 +52,9 @@ Register and read, as the record's reading procedure says:
 ## What would count
 
 - A function in those accounts that none of author, host, editor,
-  journal, custodian or registry performs bears against CLAIM-tmpv0sv7
-  and CLAIM-tmpzz0eu.
+  journal, custodian or registry performs bears against [CLAIM-tmpv0sv7](../claims.d/CLAIM-tmpv0sv7.md)
+  and [CLAIM-tmpzz0eu](../claims.d/CLAIM-tmpzz0eu.md).
 - An account of registration that a host's timestamps do satisfy bears
-  against CLAIM-tmpzz0eu's reading of registration as left to no party.
+  against [CLAIM-tmpzz0eu](../claims.d/CLAIM-tmpzz0eu.md)'s reading of registration as left to no party.
 - An overlay journal that certifies without hosting is a documented case
-  for CLAIM-tmpzsuh2.
+  for [CLAIM-tmpzsuh2](../claims.d/CLAIM-tmpzsuh2.md).

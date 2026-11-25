@@ -25,7 +25,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpqteki CLAIM-tmp0ncly CLAIM-tmpmacjk — new; filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmpqteki CLAIM-tmpmacjk — new; filed from the same exchange -->
 
 # LEAD-tmphmakt: Test whether instructors assess understanding better from a submission with its governed collaboration record and follow-up questions than from the submission alone
 
@@ -33,7 +33,7 @@ summary: >-
 
 Students do a problem set with an LLM allowed. Each keeps a collaboration
 record whose attributions are checked against the tool's own transcript
-(CLAIM-tmpmacjk). Instructors grade in two arms, blind to each other: from
+([CLAIM-tmpmacjk](../claims.d/CLAIM-tmpmacjk.md)). Instructors grade in two arms, blind to each other: from
 the submission alone, and from the submission with the record and up to a
 fixed number of questions put to the student where the record shows a
 rejected, modified or adopted step. The criterion is each student's score on
@@ -42,7 +42,7 @@ a related problem done without assistance afterwards.
 ## What it would settle
 
 Whether the record improves the agreement between the grade and the
-unassisted score (CLAIM-tmpqteki's defeat condition), and at what cost in
+unassisted score ([CLAIM-tmpqteki](../claims.d/CLAIM-tmpqteki.md)'s defeat condition), and at what cost in
 instructor time; a third arm with the transcript but no governed record would
 separate the record's structure from the transcript's content.
 

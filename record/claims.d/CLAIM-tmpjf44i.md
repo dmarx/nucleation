@@ -28,10 +28,10 @@ summary: >-
   (2026-11-22). U1: "github dmarx/nucleation as a "hyper article "". U2:
   ""just show your work " - an essay advocating the hyperarticle for
   modern scientific publishing via living documents and attribution". It
-  generalizes CLAIM-178, that a manuscript should be a view over the
+  generalizes [CLAIM-178](CLAIM-178.md), that a manuscript should be a view over the
   argument, from this record's manuscripts to scientific publishing.
-  A5's essay states it at length; its separable ideas are CLAIM-tmpgli4k
-  (credit at the level of the contribution) and TERM-tmpjn06u (the word).
+  A5's essay states it at length; its separable ideas are [CLAIM-tmpgli4k](CLAIM-tmpgli4k.md)
+  (credit at the level of the contribution) and [TERM-tmpjn06u](../terms.d/TERM-tmpjn06u.md) (the word).
   Filed in the owner's voice.
 ---
 
@@ -49,32 +49,32 @@ Three parts:
 
 - **The article is a view.** What is published is the work: its claims,
   evidence, methods, objections and revisions. A paper is one reading of
-  it, and several can be drawn from the same body. This is CLAIM-178's
+  it, and several can be drawn from the same body. This is [CLAIM-178](CLAIM-178.md)'s
   thesis, that a manuscript should be a view over the argument and not
-  its only copy, taken from this record to scientific publishing. ADR-143
+  its only copy, taken from this record to scientific publishing. [ADR-143](../decisions.d/ADR-143.md)
   is the record's procedure for drawing such a view.
 - **Living, and versioned.** The body keeps changing, and the versions it
   passes through stay citable. A5: "these are arguments for versioning,
   not for freezing scientific communication."
 - **Attributed.** Credit follows the contribution, not the byline
-  (CLAIM-tmpgli4k).
+  ([CLAIM-tmpgli4k](CLAIM-tmpgli4k.md)).
 
 Nucleation is offered as a case: a body of claims, questions, readings,
 objections and revisions, each addressable, from which manuscripts are
-drawn as views (the works vocabulary, ADR-104, ADR-143).
+drawn as views (the works vocabulary, [ADR-104](../decisions.d/ADR-104.md), [ADR-143](../decisions.d/ADR-143.md)).
 
 ## Where the record meets it
 
-- CLAIM-178 and ADR-143: the manuscript as a view over the argument.
-- THEORY-1758 (Clark, Ciccarese and Goble's micropublications): a
+- [CLAIM-178](CLAIM-178.md) and [ADR-143](../decisions.d/ADR-143.md): the manuscript as a view over the argument.
+- [THEORY-1758](../theory.d/THEORY-1758.md) (Clark, Ciccarese and Goble's micropublications): a
   publication represented as a claim with its attribution and a graph of
   support and challenge, quoted across publications. It is the nearest
   prior art the record has read.
-- CLAIM-179: when an agent does the filing, the cost of capture moves to
+- [CLAIM-179](CLAIM-179.md): when an agent does the filing, the cost of capture moves to
   the party that would otherwise re-derive. That is the record's answer
   to A5's "the cost of making knowledge legible" and to A8's "Don't make
   researchers do more paperwork".
-- CLAIM-tmpk6kcf (the assistant's): a luria record meets A5's "A citation
+- [CLAIM-tmpk6kcf](CLAIM-tmpk6kcf.md) (the assistant's): a luria record meets A5's "A citation
   to a particular version should remain resolvable even after the living
   document evolves" only by a link to a commit, since codes read on the
   branch reach current versions.
@@ -85,4 +85,4 @@ drawn as views (the works vocabulary, ADR-104, ADR-143).
 - Not that everything is published. A5: "The principle should not be
   *publish everything*."
 - Not, by itself, how journals, editors and publishers fit. Those are the
-  owner's U4 to U6 (CLAIM-tmpzsuh2, TERM-tmpx49xx, CLAIM-tmpv0sv7).
+  owner's U4 to U6 ([CLAIM-tmpzsuh2](CLAIM-tmpzsuh2.md), [TERM-tmpx49xx](../terms.d/TERM-tmpx49xx.md), [CLAIM-tmpv0sv7](CLAIM-tmpv0sv7.md)).

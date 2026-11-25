@@ -21,7 +21,7 @@ rests_on:
 bears_on:
 - QUESTION-072
 summary: >-
-  A35 of the exchange "Hyper article interpretation" (2026-11-22), on the owner's CLAIM-tmp0ncly:
+  A35 of the exchange "Hyper article interpretation" (2026-11-22), on the owner's [CLAIM-tmp0ncly](CLAIM-tmp0ncly.md):
   "Right now, educational assessment often treats the submitted artifact as a
   proxy for the student's understanding. LLMs make that proxy substantially
   less reliable." A record of the collaboration is not the remedy by itself:
@@ -33,7 +33,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: CLAIM-668 — Proposed; the premise that a record can represent who contributed -->
-<!-- inactive-ok-file: CLAIM-tmp0ncly CLAIM-tmpmacjk LEAD-tmphmakt — new; filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmp0ncly CLAIM-tmpmacjk — new; filed from the same exchange -->
 
 # CLAIM-tmpqteki: A record of a student's collaboration with an LLM is not proof of understanding but a better basis for questioning it: who first proposed a step, how it was evaluated and whether it was adopted are different pieces of information, and the submission becomes a view over a learning process
 
@@ -59,15 +59,15 @@ ways to assess understanding independently of the record."
 
 A35: "this connects directly to Nucleation's distinction between a
 contribution's *origin*, its *standing*, and its *warrant*." The record's
-three are not those. ADR-043 keeps apart a claim's `status` (the record's
+three are not those. [ADR-043](../decisions.d/ADR-043.md) keeps apart a claim's `status` (the record's
 credence), its `role` (thesis, counter, granted, disclaimed or supposed: its
 place in the dialectic) and its `warrant` (demonstrated, empirical or
 interpretive). Origin, who said it, is no field: it is the voice line each
-entry's summary carries ("The wording is A's ..."), under ADR-068's sixth
-invariant, and CLAIM-668 is the claim that a record can represent it. A35's
+entry's summary carries ("The wording is A's ..."), under [ADR-068](../decisions.d/ADR-068.md)'s sixth
+invariant, and [CLAIM-668](CLAIM-668.md) is the claim that a record can represent it. A35's
 point survives the correction; its citation does not.
 
 ## What it does not say
 
-- Not that the record is reliable as provenance; CLAIM-tmpmacjk says what
+- Not that the record is reliable as provenance; [CLAIM-tmpmacjk](CLAIM-tmpmacjk.md) says what
   that takes.

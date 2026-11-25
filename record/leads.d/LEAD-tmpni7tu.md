@@ -16,7 +16,7 @@ advances:
 - QUESTION-tmpz0154
 - QUESTION-458
 summary: >-
-  A gap fill (ADR-137) for A21 of the exchange "Hyper article
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A21 of the exchange "Hyper article
   interpretation" (2026-11-22). A21 names DORA and CoARA, which
   "advocate evaluating diverse research contributions using qualitative
   judgment", and Octopus, which publishes "linked research problems,
@@ -48,14 +48,14 @@ For each, the reading asks whether it has:
 - revision of a unit with its history kept;
 - standing apart from inclusion;
 - credit for maintenance and retirement;
-- a procedure for revising its own categories, which is CLAIM-469's last
-  clause and QUESTION-458's coupling.
+- a procedure for revising its own categories, which is [CLAIM-469](../claims.d/CLAIM-469.md)'s last
+  clause and [QUESTION-458](../questions.d/QUESTION-458.md)'s coupling.
 
 ## What would count
 
 A table of the three against those properties, filed as readings. A21's
 claim that the proposal adds "a more explicit theory of maintenance" is
 then confirmed, narrowed or answered. The record's reading of
-micropublications (THEORY-1758), done for CLAIM-469, is the model: it found
+micropublications ([THEORY-1758](../theory.d/THEORY-1758.md)), done for [CLAIM-469](../claims.d/CLAIM-469.md), is the model: it found
 that the "referable object" half was not new and put the weight on revision
 through use.

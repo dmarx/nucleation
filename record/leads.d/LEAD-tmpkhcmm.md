@@ -16,7 +16,7 @@ advances:
 - CLAIM-tmpmnjir
 - CLAIM-tmp97pg4
 summary: >-
-  The test CLAIM-tmp5fv9h leaves open, filling a gap in U14 and A30 of the
+  The test [CLAIM-tmp5fv9h](../claims.d/CLAIM-tmp5fv9h.md) leaves open, filling a gap in U14 and A30 of the
   exchange "Hyper article interpretation": whether Nucleation is evidence of luria's generality
   turns on what its transfer asked of luria. Classify each luria decision
   dated from 2026-09-25 by its occasion (Nucleation, another record, luria
@@ -25,7 +25,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp5fv9h CLAIM-tmpmnjir CLAIM-tmp97pg4 — new; filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmp5fv9h CLAIM-tmp97pg4 — new; filed from the same exchange -->
 
 # LEAD-tmpkhcmm: Classify luria's decisions since Nucleation began by what occasioned each and whether its answer is configuration any record can use or a change only Nucleation needs
 
@@ -41,8 +41,8 @@ which takes judgement.
 ## What it would settle
 
 Whether the Nucleation transfer was answered by generalizing luria
-(CLAIM-tmp5fv9h) or by fitting it to one record, and so whether the owner's
-inference in CLAIM-tmp97pg4 holds.
+([CLAIM-tmp5fv9h](../claims.d/CLAIM-tmp5fv9h.md)) or by fitting it to one record, and so whether the owner's
+inference in [CLAIM-tmp97pg4](../claims.d/CLAIM-tmp97pg4.md) holds.
 
 ## What it needs first
 

@@ -98,12 +98,12 @@ records an earlier exchange making the same turn).
 Asked for a decomposition of the whole record into hyperarticles (U25),
 ChatGPT drafted thirty and then judged its own draft "a lot like the paper
 proliferation we're trying to avoid" (A57). Its criterion, filed as
-CLAIM-tmpotj4b, answers a part of this question the question does not
+[CLAIM-tmpotj4b](../claims.d/CLAIM-tmpotj4b.md), answers a part of this question the question does not
 ask: not which subgraph to choose but when two candidates are one
 contribution, namely when they share a central claim and its evidence,
-whatever their audiences. It sharpens the owner's U10 (CLAIM-tmpkvi10).
+whatever their audiences. It sharpens the owner's U10 ([CLAIM-tmpkvi10](../claims.d/CLAIM-tmpkvi10.md)).
 A59's second draft also gives each scope "a question and a boundary",
 which is this question's "what else must the choice preserve" stated per
 manuscript, and lists the overlaps between scopes whose consistency must
-be checked, on cycles and not only pairs (CLAIM-tmp6xzjy). The note is the
+be checked, on cycles and not only pairs ([CLAIM-tmp6xzjy](../claims.d/CLAIM-tmp6xzjy.md)). The note is the
 assistant's (Claude, in this session). No status change.

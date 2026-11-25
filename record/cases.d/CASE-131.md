@@ -88,13 +88,13 @@ contributions were misclassified or abandoned because they did not fit".
 <!-- inactive-ok-block: CLAIM-tmplz7ng ARG-tmpmj7av CLAIM-tmpyaro8 — new; the atlas thesis, the argument from this case, the owner's class-stability thesis and the route lead -->
 ChatGPT, at A49 of the exchange "Hyper article interpretation"
 (2026-11-25), takes this case as "an unusually good persisted example" of
-its atlas thesis (CLAIM-tmplz7ng): two views of one argument, the
+its atlas thesis ([CLAIM-tmplz7ng](../claims.d/CLAIM-tmplz7ng.md)): two views of one argument, the
 supporting claim's and the supported claim's, described one relation
 incompatibly until `corroborates` was added. A's account of the case is
-accurate. ARG-tmpmj7av holds what the case shows for that thesis, an
+accurate. [ARG-tmpmj7av](../arguments.d/ARG-tmpmj7av.md) holds what the case shows for that thesis, an
 existence result for progress by a distinction that restores
 compatibility, and not more. A47 counts it among the distinctions that
-keep a class stable (CLAIM-tmpyaro8), and A61 makes it the first post of
-its first blog series, "The Knowledge Graph That Lied" (LEAD-tmpx9p54
+keep a class stable ([CLAIM-tmpyaro8](../claims.d/CLAIM-tmpyaro8.md)), and A61 makes it the first post of
+its first blog series, "The Knowledge Graph That Lied" ([LEAD-tmpx9p54](../leads.d/LEAD-tmpx9p54.md)
 checks that route against the record's edges). The note is the
 assistant's (Claude, in this session). No status change.

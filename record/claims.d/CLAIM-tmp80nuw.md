@@ -31,7 +31,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp48g02 CLAIM-tmpk6vy2 CLAIM-tmpjf44i CLAIM-tmpzz0eu — Proposed; A45's reference-implementation claim, A's guarantees and migration test, the owner's thesis, and the assistant's claim on registration -->
+<!-- inactive-ok-file: CLAIM-tmp48g02 CLAIM-tmpk6vy2 CLAIM-tmpjf44i — Proposed; A45's reference-implementation claim, A's guarantees and migration test, the owner's thesis, and the assistant's claim on registration -->
 
 # CLAIM-tmp80nuw: A record kept in git passes the migration test for its sources and their history, which are content-addressed and travel with any clone, but not for what lives only on its host, such as pull-request descriptions, reviews and CI logs, which keep the owner's choices before they are filed and which hundreds of its files cite by number, nor for authorship, which most of its commits do not sign
 
@@ -41,8 +41,8 @@ A13's test: "Suppose I publish a hyperarticle with Host A", Host A shuts
 down, and "I move the research record to Host B. Its stable identity,
 version history, contributor attribution, and editorial relationships
 survive." It adds: "That last bit requires actual engineering"
-(CLAIM-tmpk6vy2). The owner offers Nucleation as a hyperarticle
-(CLAIM-tmpjf44i). Does Nucleation pass?
+([CLAIM-tmpk6vy2](CLAIM-tmpk6vy2.md)). The owner offers Nucleation as a hyperarticle
+([CLAIM-tmpjf44i](CLAIM-tmpjf44i.md)). Does Nucleation pass?
 
 ## The claim
 
@@ -56,7 +56,7 @@ For the text and its revisions, git is the engineering A13 asks for.
 - *Pull-request descriptions and reviews.* The record puts the choices
   waiting on the owner in the promotion pull request's description, and
   the owner's inline rulings stay there until the owner removes them
-  (ADR-128). They reach the sources only as far as a history note or a
+  ([ADR-128](../decisions.d/ADR-128.md)). They reach the sources only as far as a history note or a
   curation entry files them.
 - *Citations of pull requests.* Of the record's 11,776 markdown files
   under `record/`, 297 cite a pull request by number (dmarx/nucleation#N,
@@ -76,7 +76,7 @@ authenticated than that.
 
 ## What it does not say
 
-It makes exact what CLAIM-tmp48g02 says in its title, that the
+It makes exact what [CLAIM-tmp48g02](CLAIM-tmp48g02.md) says in its title, that the
 record has "no archival or identifier guarantees beyond its repository".
 
 Not that the record should leave its host, and not that the host-bound

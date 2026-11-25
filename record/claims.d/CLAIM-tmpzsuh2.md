@@ -25,11 +25,11 @@ summary: >-
   The owner's, at U4 of the exchange "Hyper article interpretation"
   (2026-11-22): "bsky taggers as journal editors, a journal as a feed over
   editors". A10 develops it, splitting authors, editors and journals, and
-  A's refinement of what a tag must carry is CLAIM-tmpnqzvj. Filed in the
+  A's refinement of what a tag must carry is [CLAIM-tmpnqzvj](CLAIM-tmpnqzvj.md). Filed in the
   owner's voice.
 ---
 
-<!-- inactive-ok-file: TERM-tmpx49xx CLAIM-tmpjf44i CLAIM-tmpnqzvj CLAIM-tmptn64c CLAIM-tmpv0sv7 — Proposed; the owner's feed and hyperarticle, A's refinement, the assistant's gap fill, and the owner's U6 -->
+<!-- inactive-ok-file: CLAIM-tmpnqzvj CLAIM-tmptn64c CLAIM-tmpv0sv7 — Proposed; the owner's feed and hyperarticle, A's refinement, the assistant's gap fill, and the owner's U6 -->
 
 # CLAIM-tmpzsuh2: A journal can be a feed over editors, its editors being taggers who attach attributable judgements to work wherever it is published, as Bluesky's labellers attach labels to posts they do not host, so that editorial judgement is separated from publication
 
@@ -60,9 +60,9 @@ which "already uses volunteer taggers to curate scholarly information".
 ## What it does not say
 
 - Not that a tag is a review. A10: "Tagging something as interesting is
-  not the same as establishing that it's correct." CLAIM-tmpnqzvj is
+  not the same as establishing that it's correct." [CLAIM-tmpnqzvj](CLAIM-tmpnqzvj.md) is
   that refinement.
-- Not that every feed over editors is a journal. CLAIM-tmptn64c (the
+- Not that every feed over editors is a journal. [CLAIM-tmptn64c](CLAIM-tmptn64c.md) (the
   assistant's) asks what a feed needs to be one.
 - Not who keeps the work available. That is the owner's U6,
-  CLAIM-tmpv0sv7.
+  [CLAIM-tmpv0sv7](CLAIM-tmpv0sv7.md).

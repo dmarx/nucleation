@@ -16,12 +16,12 @@ advances:
 - CLAIM-tmpyaro8
 - CLAIM-tmph11zb
 summary: >-
-  A gap fill (ADR-137) for A47 of the exchange "Hyper article
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A47 of the exchange "Hyper article
   interpretation" (2026-11-23), which reads seven of the owner's
   corrections as distinctions that stabilized a class, proposes the
   exchange as "a candidate persisted CASE", and concedes that "we haven't
   independently tested" the reading. A47's sorting of the corrections is
-  one reader's interpretive classification, which ADR-143's sixth
+  one reader's interpretive classification, which [ADR-143](../decisions.d/ADR-143.md)'s sixth
   invariant says a second reader checks before it is reported. The lead
   gives the test its design. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
@@ -44,7 +44,7 @@ they cannot test it.
 
 Whether, in one exchange, the owner's corrections that changed the
 argument's later inferences were mostly distinctions that kept a class
-stable (CLAIM-tmpyaro8, CLAIM-tmph11zb), or mostly something else: new
+stable ([CLAIM-tmpyaro8](../claims.d/CLAIM-tmpyaro8.md), [CLAIM-tmph11zb](../claims.d/CLAIM-tmph11zb.md)), or mostly something else: new
 evidence, a change of scope, a correction of fact, a matter of style.
 
 ## The design
@@ -64,7 +64,7 @@ evidence, a change of scope, a correction of fact, a matter of style.
 - **Control.** The same coding on an exchange of the record whose owner
   turns are mostly not corrections, so that a high rate of
   distinction-type corrections is not just the base rate of the owner's
-  interventions. CASE-306 coded an exchange move by move under a codebook
+  interventions. [CASE-306](../cases.d/CASE-306.md) coded an exchange move by move under a codebook
   fixed in advance and is the model to follow.
 
 The result would be the persisted case A47 proposes, filed as a CASE of

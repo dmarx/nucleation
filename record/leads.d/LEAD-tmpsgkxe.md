@@ -24,7 +24,7 @@ summary: >-
   owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpd1a2h CLAIM-tmp6xzjy ADR-143 — Proposed or new; the coverage claim it would measure, the cycle check and the manuscript protocol -->
+<!-- inactive-ok-file: CLAIM-tmp6xzjy ADR-143 — Proposed or new; the coverage claim it would measure, the cycle check and the manuscript protocol -->
 
 # LEAD-tmpsgkxe: Generate a coverage report of the record's lines against its works, giving for each view the entries it draws on with their standings, whether it has been reviewed, and its missing dependencies, unsupported joins and unchecked overlaps
 
@@ -39,18 +39,18 @@ regions, unsupported joins, repeated exposition, and missing cases."
 ## What the record already derives
 
 Parts of it exist. The `works` field gives each view's members, and each
-work has a generated index. The synthesis review (ADR-083's coverage of
-scopes by accounts) and the reading review (ADR-091, readings no line
-builds on) derive two of A59's measures. ADR-143's manuscript workspaces
+work has a generated index. The synthesis review ([ADR-083](../decisions.d/ADR-083.md)'s coverage of
+scopes by accounts) and the reading review ([ADR-091](../decisions.d/ADR-091.md), readings no line
+builds on) derive two of A59's measures. [ADR-143](../decisions.d/ADR-143.md)'s manuscript workspaces
 keep each manuscript's review and its joins. What no report gives is the
 matrix of lines against works, with standings and review state, and the
-overlaps between views (CLAIM-tmp6xzjy: checked on cycles).
+overlaps between views ([CLAIM-tmp6xzjy](../claims.d/CLAIM-tmp6xzjy.md): checked on cycles).
 
 ## What it needs first
 
 A decision on whether the report is a luria report or a script, since a
 new generated view changes `luria.yaml` or CI, which waits on the owner;
 and a definition of "unsupported join" a script can apply, for which
-ADR-143's third invariant (a join no entry maps to) is the start.
+[ADR-143](../decisions.d/ADR-143.md)'s third invariant (a join no entry maps to) is the start.
 Counts alone would repeat a hand-made table as a generated one, and A53
 itself says counts do not measure coverage.

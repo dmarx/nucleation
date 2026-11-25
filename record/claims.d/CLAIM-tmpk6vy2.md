@@ -20,13 +20,13 @@ complements:
 - CLAIM-tmpv0sv7
 summary: >-
   A13 of the exchange "Hyper article interpretation" (2026-11-22),
-  developing the owner's U6 (CLAIM-tmpv0sv7): "these are separable
+  developing the owner's U6 ([CLAIM-tmpv0sv7](CLAIM-tmpv0sv7.md)): "these are separable
   guarantees", "The identity of the research must be independent of the
   identity of the host", and "A host can promise uptime; a custodian must
   also arrange for persistence after the host itself fails." Its slogan:
   "Scientific publishing should be a protocol, not a place." The
   assistant's check of the migration test on this record is
-  CLAIM-tmp80nuw. The wording is A's (ChatGPT's, at A13 of the exchange
+  [CLAIM-tmp80nuw](CLAIM-tmp80nuw.md). The wording is A's (ChatGPT's, at A13 of the exchange
   "Hyper article interpretation"); adopting it is the owner's call.
 ---
 
@@ -68,4 +68,4 @@ institutional roof."
 
 Not that publishers do nothing: "the useful things publishers do are
 services, and services can be provided independently of editorial
-authority." Which functions, and which a host lacks, is CLAIM-tmpzz0eu.
+authority." Which functions, and which a host lacks, is [CLAIM-tmpzz0eu](CLAIM-tmpzz0eu.md).

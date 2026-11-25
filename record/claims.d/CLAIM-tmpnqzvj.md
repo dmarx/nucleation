@@ -20,12 +20,12 @@ complements:
 - CLAIM-tmpzsuh2
 summary: >-
   A10 of the exchange "Hyper article interpretation" (2026-11-22),
-  developing the owner's U4 (CLAIM-tmpzsuh2): "A tag is an attributable
+  developing the owner's U4 ([CLAIM-tmpzsuh2](CLAIM-tmpzsuh2.md)): "A tag is an attributable
   editorial act. It has an author, a target, a meaning, and a timestamp",
   "A recommendation should be distinguishable from a formal review", and
   journals "just need to be clear about what their feeds actually mean".
   The record makes the same split for itself, between a claim's credence
-  and its membership in a work (ADR-032, ADR-104). The wording is A's
+  and its membership in a work ([ADR-032](../decisions.d/ADR-032.md), [ADR-104](../decisions.d/ADR-104.md)). The wording is A's
   (ChatGPT's, at A10 of the exchange "Hyper article interpretation");
   adopting it is the owner's call.
 ---
@@ -63,10 +63,10 @@ From that:
 
 The record keeps the same split for itself. A claim's `status` is the
 record's credence; its `works` say which manuscripts marshal it, and
-"Membership says nothing of status" (ADR-104; ADR-032: "Credence and
+"Membership says nothing of status" ([ADR-104](../decisions.d/ADR-104.md); [ADR-032](../decisions.d/ADR-032.md): "Credence and
 inclusion come apart"). A tag that recommends is inclusion; a review is a
 judgement of standing. A citation of a version is harder in a luria record
-than A10 assumes (CLAIM-tmpk6kcf).
+than A10 assumes ([CLAIM-tmpk6kcf](CLAIM-tmpk6kcf.md)).
 
 ## What it does not say
 

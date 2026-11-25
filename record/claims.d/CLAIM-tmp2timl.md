@@ -27,8 +27,8 @@ summary: >-
   point", and "You can't solve the problem of optimizing for a bad proxy
   by inventing a more complicated bad proxy." A24 grounds it in the
   record: a category institutions act on can produce the regularities
-  that confirm it (CLAIM-402), and probes used to optimize cannot also
-  certify (CLAIM-266); "an accountable history of contributions is
+  that confirm it ([CLAIM-402](CLAIM-402.md)), and probes used to optimize cannot also
+  certify ([CLAIM-266](CLAIM-266.md)); "an accountable history of contributions is
   evidence for evaluation, not a replacement for evaluation". The wording
   is A's (ChatGPT's, at A21 and A24 of the exchange "Hyper article
   interpretation"); adopting it is the owner's call.
@@ -49,12 +49,12 @@ construct elaborate networks of superficial references."
 
 A24 §6 grounds this in two Active claims:
 
-- CLAIM-402: a category that institutions act on can produce the
+- [CLAIM-402](CLAIM-402.md): a category that institutions act on can produce the
   regularities that confirm it. A24: "The resulting proliferation of papers
   is not independent evidence that paper count was a good measure of
   scientific contribution. The measure helped produce the behavior it
   records." A count over a record is a category of the same kind.
-- CLAIM-266: probes that supply an optimized system's training signal
+- [CLAIM-266](CLAIM-266.md): probes that supply an optimized system's training signal
   cannot also certify what it preserves. A24: "the evaluations used to
   reward researchers should not rely exclusively on the same signals those
   researchers were incentivized to optimize."
@@ -67,7 +67,7 @@ automatic score calculated from the topology of the record."
 
 - Not that metrics are useless. A24: "The lesson isn't that metrics are
   useless."
-- A24 adds CLAIM-404's two routes, the evidence an evaluator receives and
+- A24 adds [CLAIM-404](CLAIM-404.md)'s two routes, the evidence an evaluator receives and
   the criteria it weighs evidence by, as two vulnerabilities of a
   feed-based journal. That bears on the journal model (U4 of the same
   exchange), not on this claim.

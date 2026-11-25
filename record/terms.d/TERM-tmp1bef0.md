@@ -10,7 +10,7 @@ line:
 - record-as-apparatus
 summary: >-
   A61 of the exchange "Hyper article interpretation" (2026-11-25), on the
-  owner's U28 (CLAIM-tmpc4q8o). The senses are A's; the words are the
+  owner's U28 ([CLAIM-tmpc4q8o](../claims.d/CLAIM-tmpc4q8o.md)). The senses are A's; the words are the
   owner's. The wording is A's (ChatGPT's, at A61 of the exchange "Hyper
   article interpretation"); adopting it is the owner's call.
 ---
@@ -38,7 +38,7 @@ evaluate the tool itself".
 
 ## What it is a route through
 
-The views over the record (TERM-tmpjn06u's hyperarticles, the record's
+The views over the record ([TERM-tmpjn06u](TERM-tmpjn06u.md)'s hyperarticles, the record's
 manuscripts and generated indexes), crossing them by the entries they
 share. A route is the reader's, not the record's: it is published, not
 maintained as part of the argument.
@@ -46,7 +46,7 @@ maintained as part of the argument.
 ## What it does not fix
 
 A metric. "Short" and "distance" need one, and A61 concedes the routes are
-"not yet computed". LEAD-tmpx9p54 proposes one. The critical orbit is the
+"not yet computed". [LEAD-tmpx9p54](../leads.d/LEAD-tmpx9p54.md) proposes one. The critical orbit is the
 record's dialectic chain read as a route (objection, then revision); an
 orbit's return "changed" is formally a loop with nontrivial holonomy, an
-analogy CLAIM-tmp6xzjy notes and does not rest on.
+analogy [CLAIM-tmp6xzjy](../claims.d/CLAIM-tmp6xzjy.md) notes and does not rest on.

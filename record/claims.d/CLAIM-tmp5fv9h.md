@@ -31,13 +31,13 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp97pg4 CLAIM-tmpmnjir LEAD-tmpkhcmm — Proposed or new; filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmp97pg4 CLAIM-tmpmnjir — Proposed or new; filed from the same exchange -->
 
 # CLAIM-tmp5fv9h: Luria's own decision record shows Nucleation's transfer forcing changes to luria, answered as configurable mechanisms rather than code for one record: of the 22 decisions dated from Nucleation's first decision on, 17 name Nucleation, so the evidence of generality is that its misfits were answered by generalizing, not that none arose
 
 ## The claim
 
-The owner's inference (CLAIM-tmp97pg4) would be strongest if Nucleation had
+The owner's inference ([CLAIM-tmp97pg4](CLAIM-tmp97pg4.md)) would be strongest if Nucleation had
 needed nothing of luria but configuration. That is not what happened, and it
 is not what generality needs. Luria's decisions record the transfer:
 
@@ -60,16 +60,16 @@ is not what generality needs. Luria's decisions record the transfer:
   semantics. Each is configured per record; none is, by its title, a
   behaviour only Nucleation uses.
 
-So the evidence bears on A30's test (CLAIM-tmpmnjir) in the second way it
+So the evidence bears on A30's test ([CLAIM-tmpmnjir](CLAIM-tmpmnjir.md)) in the second way it
 names: the inquiry needed differences the framework did not have, and they
-were taken in by generalizing it. It is the pattern CLAIM-419 finds in the
+were taken in by generalizing it. It is the pattern [CLAIM-419](CLAIM-419.md) finds in the
 record's own grammar, one level down, in the tool.
 
 ## What it does not say
 
 - Not that every Nucleation-occasioned decision was general: the reading is
   from titles and a few contexts, not a classification of all 17.
-  LEAD-tmpkhcmm would do that.
+  [LEAD-tmpkhcmm](../leads.d/LEAD-tmpkhcmm.md) would do that.
 - Not that 17 of 22 measures Nucleation's share of the cause: naming is not
   occasioning.
 - Luria's decisions are cited by luria's codes ("luria's `ADR-126`"); they are

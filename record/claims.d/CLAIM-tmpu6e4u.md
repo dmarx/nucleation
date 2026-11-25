@@ -22,15 +22,15 @@ rests_on:
 complements:
 - CLAIM-tmpkvi10
 summary: >-
-  A gap fill (ADR-137) for A24 §4 of the exchange "Hyper article
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A24 §4 of the exchange "Hyper article
   interpretation" (2026-11-22). A24's design goal, "Provide the
   distinctions required for justified action", reads as though one
-  decision fixed one set of distinctions. CLAIM-535 says otherwise: where
+  decision fixed one set of distinctions. [CLAIM-535](CLAIM-535.md) says otherwise: where
   acceptable actions overlap, the coarsest sufficient observations are
   several and incomparable. A three-circumstance example, checked by
   script, shows it. Hence two evaluators facing one decision over one
   record can legitimately need incomparable views, which gives the
-  owner's many-views thesis (CLAIM-tmpkvi10) a reason from CLAIM-535 and
+  owner's many-views thesis ([CLAIM-tmpkvi10](CLAIM-tmpkvi10.md)) a reason from [CLAIM-535](CLAIM-535.md) and
   not only from audiences' interests. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
@@ -44,7 +44,7 @@ A24 §4 of the exchange "Hyper article interpretation"
 (https://chatgpt.com/share/6b064f1b-9ea8-83e8-951e-634ed41675b6) concludes
 that "which distinctions need to be legible depends on what decisions the
 institution needs to make", and sets the goal "Provide the distinctions
-required for justified action" (CLAIM-tmpts8ee). CLAIM-535's title says
+required for justified action" ([CLAIM-tmpts8ee](CLAIM-tmpts8ee.md)). [CLAIM-535](CLAIM-535.md)'s title says
 more: "where acceptable actions overlap the coarsest observations that
 suffice are several and incomparable, so which distinctions must be made
 legible depends on which acceptable action the organization commits to."
@@ -74,7 +74,7 @@ committee may face, and the actions are what it may do. Two committees with
 the same decision and the same acceptable actions can each be justified in
 asking for a different, incomparable view of one record. A record that
 serves evaluation must then be able to yield more than one minimal view.
-That is the owner's thesis (CLAIM-tmpkvi10), reached from CLAIM-535 rather
+That is the owner's thesis ([CLAIM-tmpkvi10](CLAIM-tmpkvi10.md)), reached from [CLAIM-535](CLAIM-535.md) rather
 than from differences of interest between audiences.
 
 ## What it does not say
@@ -83,5 +83,5 @@ than from differences of interest between audiences.
   this shape. The example shows that they can. Whether a tenure or a grant
   decision does is the defeat condition.
 - The example is demonstrated within its stated model, and the reading of
-  evaluators as CLAIM-535's organizations is interpretive. The warrant
+  evaluators as [CLAIM-535](CLAIM-535.md)'s organizations is interpretive. The warrant
   given is the claim's as stated.

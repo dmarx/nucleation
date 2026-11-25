@@ -35,7 +35,7 @@ summary: >-
   wording is A's (ChatGPT's, at A21 of the exchange "Hyper article
   interpretation"); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpkvi10 CLAIM-tmpgli4k CLAIM-tmp2timl CLAIM-tmp4rfba CLAIM-004 CLAIM-668 CLAIM-617 — Proposed; the claims it complements or defers to, and neighbours cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpgli4k CLAIM-tmp2timl CLAIM-tmp4rfba CLAIM-004 CLAIM-668 CLAIM-617 — Proposed; the claims it complements or defers to, and neighbours cited as open -->
 <!-- inactive-ok-file: CLAIM-006 — Superseded; cited as the record's own instance of a retired claim -->
 
 # CLAIM-tmp2tzk5: The unit of scholarly contribution is not the unit of publication: a paper is a communication artifact and a contribution a change in the state of knowledge, and corrections, narrowings, newly found dependencies, integrations, maintenance and retirements become recognizable as contributions once claims and their revisions have identities apart from the manuscripts that present them
@@ -76,7 +76,7 @@ Two further parts of A21 belong to the same claim:
 A21's own example: "An early theory of translation turns out to be too
 strong. Rather than disappearing, the old claim remains connected to the
 objection that defeated it and the narrower claim that replaced it." In the
-record, CLAIM-006 is Superseded by CLAIM-061. Its objection, CLAIM-004, is
+record, [CLAIM-006](CLAIM-006.md) is Superseded by [CLAIM-061](CLAIM-061.md). Its objection, [CLAIM-004](CLAIM-004.md), is
 still Proposed, because it "gives no criterion" for its own distinction. So
 the record holds that the claim was replaced, not that the objection
 defeated it. A16 had this right ("remains *Proposed*"). The example still
@@ -86,12 +86,12 @@ illustrates the claim, which needs only the supersession.
 
 - Not that every edit is a contribution. A21: "This doesn't mean everybody
   who edits a document gets equal credit."
-- Not where credit attaches. That is CLAIM-tmpgli4k (A5): at the level
+- Not where credit attaches. That is [CLAIM-tmpgli4k](CLAIM-tmpgli4k.md) (A5): at the level
   where the contribution occurred, with a citation naming the inference and
   its version. This claim says which contributions there are to credit.
-- Not how contributions are to be weighed. That is CLAIM-tmp2timl and
-  CLAIM-tmp4rfba.
+- Not how contributions are to be weighed. That is [CLAIM-tmp2timl](CLAIM-tmp2timl.md) and
+  [CLAIM-tmp4rfba](CLAIM-tmp4rfba.md).
 - Who contributed what is something a record can represent. What any
-  collaborator believes it cannot (CLAIM-668). A21's point that stewardship
+  collaborator believes it cannot ([CLAIM-668](CLAIM-668.md)). A21's point that stewardship
   is not ownership, and that provenance must tell originator, contributors
-  and maintainers apart, meets CLAIM-617 on the succession of stewards.
+  and maintainers apart, meets [CLAIM-617](CLAIM-617.md) on the succession of stewards.

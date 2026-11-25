@@ -60,17 +60,17 @@ about the apparatus:
 > legible is separated from the form in which you're productively
 > developing it.
 
-It rests on CLAIM-178, that a manuscript is a view over the argument and
+It rests on [CLAIM-178](CLAIM-178.md), that a manuscript is a view over the argument and
 not its only copy. If the argument is kept as it develops, a manuscript is
 drawn from it and is not rebuilt from scattered material, which A18 calls
 "forcing myself to do the intellectual work twice". It rests on the
-owner's CLAIM-tmpkvi10 for the many-manuscript case.
+owner's [CLAIM-tmpkvi10](CLAIM-tmpkvi10.md) for the many-manuscript case.
 
 ## What it does not say
 
 - Not that writing is only transcription. A18: "Writing can be a powerful
-  tool for thinking." CLAIM-178: a view's prose "is written, not
-  assembled", and ADR-143 makes drawing a manuscript from the record a
+  tool for thinking." [CLAIM-178](CLAIM-178.md): a view's prose "is written, not
+  assembled", and [ADR-143](../decisions.d/ADR-143.md) makes drawing a manuscript from the record a
   protocol with reviews and fact-checks.
 - Not luria's origin. A18 inferred that luria was built for the publishing
   bottleneck ("You were developing infrastructure for a problem you were
@@ -78,7 +78,7 @@ owner's CLAIM-tmpkvi10 for the many-manuscript case.
   Nucleation is its demonstration. At U14 of the same exchange the owner
   says: "luria evolved from the process I was using to steer a pair
   programming collaboration with an LLM to develop a webapp." That origin
-  is CLAIM-tmp97pg4.
-- CLAIM-1200's condition applies here too: where filing is tedious or the
+  is [CLAIM-tmp97pg4](CLAIM-tmp97pg4.md).
+- [CLAIM-1200](CLAIM-1200.md)'s condition applies here too: where filing is tedious or the
   grammar distorts what is filed, the record adds a cost and does not
   remove one.

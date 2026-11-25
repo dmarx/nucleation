@@ -28,8 +28,8 @@ complements:
 summary: >-
   A49 of the exchange "Hyper article interpretation" (2026-11-25), its
   "candidate thesis for the theory paper", developing the owner's U23
-  (CLAIM-tmpxkeu9) and joining it to A47's account of distinctions
-  (CLAIM-tmph11zb). Its evidence is CASE-131, argued in ARG-tmpmj7av. The
+  ([CLAIM-tmpxkeu9](CLAIM-tmpxkeu9.md)) and joining it to A47's account of distinctions
+  ([CLAIM-tmph11zb](CLAIM-tmph11zb.md)). Its evidence is [CASE-131](../cases.d/CASE-131.md), argued in [ARG-tmpmj7av](../arguments.d/ARG-tmpmj7av.md). The
   wording is A's (ChatGPT's, at A49 of the exchange "Hyper article
   interpretation"); adopting it is the owner's call.
 ---
@@ -71,21 +71,21 @@ the record can represent, test, challenge, and revise", and "In ordinary
 differential geometry, the space is given and the charts describe it. In
 inquiry, that relationship is less straightforward." What follows from
 that limit, and what the record's design already does about it, is the
-assistant's gap fill CLAIM-tmp6xzjy.
+assistant's gap fill [CLAIM-tmp6xzjy](CLAIM-tmp6xzjy.md).
 
 ## Its use of the record
 
-Checked against the entries: A49's account of CASE-131 is accurate, and
-so is its use of CLAIM-469 and CLAIM-419 for it; so is its citation of
-luria's principle against hand-maintained projections (LU-DP-003) and
+Checked against the entries: A49's account of [CASE-131](../cases.d/CASE-131.md) is accurate, and
+so is its use of [CLAIM-469](CLAIM-469.md) and [CLAIM-419](CLAIM-419.md) for it; so is its citation of
+luria's principle against hand-maintained projections ([LU-DP-003](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-3)) and
 luria's decision that a relation is walked transitively and rendered as
-sequences (luria's ADR-083, not this record's ADR-083, which is about
+sequences (luria's [ADR-083](../decisions.d/ADR-083.md), not this record's [ADR-083](../decisions.d/ADR-083.md), which is about
 accounts). Its point that "a faithful migration may need to remove
 relations the old representation incorrectly imposed" is held as
-CLAIM-666. Its point that an object's identity "need not depend on any
+[CLAIM-666](CLAIM-666.md). Its point that an object's identity "need not depend on any
 single representation of it" is held for communicative kinds
-(CLAIM-137, QUESTION-029); for the record's own objects it is
-QUESTION-tmpvpsv1.
+([CLAIM-137](CLAIM-137.md), [QUESTION-029](../questions.d/QUESTION-029.md)); for the record's own objects it is
+[QUESTION-tmpvpsv1](../questions.d/QUESTION-tmpvpsv1.md).
 
 ## What it does not say
 

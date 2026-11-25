@@ -29,31 +29,31 @@ problem: what if the academic incentive were to maintain a valuable body of
 knowledge, rather than maximize the number of times you can repackage it?"
 The owner, at U11, quoted the line and wrote: "double-click on that".
 
-It follows from the owner's CLAIM-tmpkvi10. If a body of work no longer
+It follows from the owner's [CLAIM-tmpkvi10](../claims.d/CLAIM-tmpkvi10.md). If a body of work no longer
 needs to be split into papers for maintenance reasons, the remaining reason
 is that papers are what is counted.
 
 ## What would count as an answer
 
 - What counts as a contribution once the paper is not the unit. A21's
-  answer is CLAIM-tmp2tzk5.
+  answer is [CLAIM-tmp2tzk5](../claims.d/CLAIM-tmp2tzk5.md).
 - What the evaluation would measure, and how it avoids becoming a new proxy.
-  A21 and A24 answer with CLAIM-tmp2timl, CLAIM-tmpts8ee and CLAIM-tmp4rfba.
-  CLAIM-tmp4rfba is A24's correction of the question's own wording:
+  A21 and A24 answer with [CLAIM-tmp2timl](../claims.d/CLAIM-tmp2timl.md), [CLAIM-tmpts8ee](../claims.d/CLAIM-tmpts8ee.md) and [CLAIM-tmp4rfba](../claims.d/CLAIM-tmp4rfba.md).
+  [CLAIM-tmp4rfba](../claims.d/CLAIM-tmp4rfba.md) is A24's correction of the question's own wording:
   "valuable" is left open, and maintaining a body of knowledge as such
   rewards accumulation.
 - A21's test of any answer: "could a researcher have an extraordinarily
   productive year, produce no new papers, and still demonstrate exactly
   what scientific progress they made?"
 - What prior proposals already do. A21 names DORA, CoARA and Octopus;
-  LEAD-tmpni7tu reads them.
+  [LEAD-tmpni7tu](../leads.d/LEAD-tmpni7tu.md) reads them.
 
 ## Held nearby
 
-- CLAIM-1064: in an institution that penalizes each violation it recognizes
+- [CLAIM-1064](../claims.d/CLAIM-1064.md): in an institution that penalizes each violation it recognizes
   and rewards no discovery of requirements, inquiry that only reveals
   requirements never raises its score. A21 puts the same point as a
   researcher's choice: "Why investigate a possible weakness in your earlier
   work when doing so might reduce its apparent significance?"
-- CLAIM-1200 (supposed): a governed record can bring a contributor's
+- [CLAIM-1200](../claims.d/CLAIM-1200.md) (supposed): a governed record can bring a contributor's
   immediate reward closer to the longer-run value of a coherent inquiry.

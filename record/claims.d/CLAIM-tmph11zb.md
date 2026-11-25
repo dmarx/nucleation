@@ -21,7 +21,7 @@ rests_on:
 summary: >-
   A47 of the exchange "Hyper article interpretation" (2026-11-23), its
   "candidate argument for Nucleation", developing the owner's thesis at
-  U22 (CLAIM-tmpyaro8) with what the stabilization buys and a
+  U22 ([CLAIM-tmpyaro8](CLAIM-tmpyaro8.md)) with what the stabilization buys and a
   qualification. The wording is A's (ChatGPT's, at A47 of the exchange
   "Hyper article interpretation"); adopting it is the owner's call.
 ---
@@ -57,13 +57,13 @@ the owner's, and each is filed from its own turn by this exchange's
 filing:
 
 1. where an abstraction originated against the contexts it applies to
-   (U14, luria's origin; CLAIM-tmp97pg4);
-2. the research object against its presentation (U10; CLAIM-tmpkvi10);
-3. a feed against a view with a memory (U5; TERM-tmpx49xx);
+   (U14, luria's origin; [CLAIM-tmp97pg4](CLAIM-tmp97pg4.md));
+2. the research object against its presentation (U10; [CLAIM-tmpkvi10](CLAIM-tmpkvi10.md));
+3. a feed against a view with a memory (U5; [TERM-tmpx49xx](../terms.d/TERM-tmpx49xx.md));
 4. editorial judgment against publication infrastructure (U4, U6;
-   CLAIM-tmpzsuh2, CLAIM-tmpv0sv7);
+   [CLAIM-tmpzsuh2](CLAIM-tmpzsuh2.md), [CLAIM-tmpv0sv7](CLAIM-tmpv0sv7.md));
 5. who generated an idea against its standing and against the user's
-   competence (U17, CLAIM-tmp0ncly; CLAIM-668 holds that a record can say who
+   competence (U17, [CLAIM-tmp0ncly](CLAIM-tmp0ncly.md); [CLAIM-668](CLAIM-668.md) holds that a record can say who
    contributed a proposition and its standing, not what anyone
    understands);
 6. theory, demonstration and proposal as three classes of contribution
@@ -73,12 +73,12 @@ filing:
 A47 also offers the exchange as "a candidate persisted CASE, with the
 successive corrections preserved as the observations", and itself says
 "we haven't independently tested whether the resulting distinctions
-improve performance on future tasks". The test is LEAD-tmpf2lhq.
+improve performance on future tasks". The test is [LEAD-tmpf2lhq](../leads.d/LEAD-tmpf2lhq.md).
 
 ## What it does not say
 
-The qualification is held: CASE-084 (a perfectly accountable record of a
+The qualification is held: [CASE-084](../cases.d/CASE-084.md) (a perfectly accountable record of a
 false theory) shows a stable vocabulary can omit the right explanation,
-and CLAIM-472 that choosing and keeping a distinction is open to
+and [CLAIM-472](CLAIM-472.md) that choosing and keeping a distinction is open to
 evaluation, not only verification. A49's point that a faithful migration
-may have to remove relations the old grammar imposed is CLAIM-666.
+may have to remove relations the old grammar imposed is [CLAIM-666](CLAIM-666.md).

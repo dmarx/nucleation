@@ -31,8 +31,8 @@ recognize failures in its representational and editorial categories, revise
 those categories through accountable governance, and demonstrate improved
 capacity to identify and support valuable research?"
 
-It asks whether the loop of CLAIM-tmp4r1x8 can run at the level of a
-publishing system, whose categories CLAIM-tmp158w7 takes to be an
+It asks whether the loop of [CLAIM-tmp4r1x8](../claims.d/CLAIM-tmp4r1x8.md) can run at the level of a
+publishing system, whose categories [CLAIM-tmp158w7](../claims.d/CLAIM-tmp158w7.md) takes to be an
 apparatus.
 
 ## What would count as an answer
@@ -42,10 +42,10 @@ All three parts, each shown:
 - recognition of a misfit in the system's categories;
 - a revision made through a recorded procedure;
 - a measured improvement afterwards, kept apart from the record of the
-  revision itself. CLAIM-299: a perfect history does not make the
+  revision itself. [CLAIM-299](../claims.d/CLAIM-299.md): a perfect history does not make the
   conclusions correct.
 
 The record's own hypotheses about its schema are the nearest tests held:
-CLAIM-667 and CLAIM-665 (governance helps where the inherited categories
-are inadequate, and not on routine tasks), and CLAIM-792 (the noticing of
+[CLAIM-667](../claims.d/CLAIM-667.md) and [CLAIM-665](../claims.d/CLAIM-665.md) (governance helps where the inherited categories
+are inadequate, and not on routine tasks), and [CLAIM-792](../claims.d/CLAIM-792.md) (the noticing of
 grammar misfits became procedural).

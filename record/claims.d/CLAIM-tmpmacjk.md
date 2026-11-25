@@ -31,18 +31,18 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: CLAIM-668 — Proposed; the premise that a record can represent who contributed -->
-<!-- inactive-ok-file: CLAIM-tmp0ncly CLAIM-tmpqteki LEAD-tmphmakt — new; filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmp0ncly — new; filed from the same exchange -->
 
 # CLAIM-tmpmacjk: A collaboration record's attributions are only as reliable as the step that makes them: this record attributes each contribution by quotation checked against a verbatim transcript the filer did not write, and a record kept by the student alone, with no such transcript, is self-report that leaves an adopted LLM proposal indistinguishable from the student's own
 
 ## The claim
 
-CLAIM-668 says a shared record can represent who contributed a proposition.
+[CLAIM-668](CLAIM-668.md) says a shared record can represent who contributed a proposition.
 It can represent it truly or falsely, and nothing in a record's grammar tells
 which. In Nucleation, attribution is anchored outside the record: an
 exchange is filed from its verbatim text, each owner's or assistant's turn is
 quoted, and the quote is rechecked against that text before filing
-(ADR-068's fifth invariant: "Every quote that a title, a claim or a status
+([ADR-068](../decisions.d/ADR-068.md)'s fifth invariant: "Every quote that a title, a claim or a status
 change leans on is rechecked against the source text by whoever files"). The voice
 line ("The wording is A's ...") is then a claim about a source anyone can
 reread.
@@ -54,7 +54,7 @@ checked against it. Without that, the record is self-report, and the case the
 owner's proposal is meant to catch, a student adopting an LLM's proposal and
 filing it as their own, leaves no trace: a proposal restated in the
 student's words looks like the student's. So the educational use of
-CLAIM-tmp0ncly needs two things the publishing use mostly has already: a
+[CLAIM-tmp0ncly](CLAIM-tmp0ncly.md) needs two things the publishing use mostly has already: a
 transcript the contributor did not write, and an attribution step checked
 against it.
 

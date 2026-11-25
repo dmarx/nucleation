@@ -24,8 +24,8 @@ summary: >-
   distinctions a scientific community can preserve, recognize, act on,
   and revise", and "Changing the representation of scientific work
   changes which forms of scientific labor become recognizable as
-  contributions." It carries CLAIM-469's account of luria as an
-  apparatus to scholarly publishing, and CLAIM-419's record of an
+  contributions." It carries [CLAIM-469](CLAIM-469.md)'s account of luria as an
+  apparatus to scholarly publishing, and [CLAIM-419](CLAIM-419.md)'s record of an
   amendable grammar to the rule that a publishing system must govern
   "changes to the rules by which scientific claims and contributions are
   represented or evaluated". The wording is A's (ChatGPT's, at A24 of
@@ -51,25 +51,25 @@ count."
 
 The two premises:
 
-- CLAIM-469: luria, through its schemes, vocabularies, validators and
+- [CLAIM-469](CLAIM-469.md): luria, through its schemes, vocabularies, validators and
   views, fixes what counts as a referable and governable object within the
   record. This claim says a publishing system does the same for scholarly
   work.
-- CLAIM-419: the record's grammar is amendable by decision, and a move it
+- [CLAIM-419](CLAIM-419.md): the record's grammar is amendable by decision, and a move it
   could not hold has repeatedly been treated as a defect and answered by
-  amendment (against the objection CLAIM-181). A24: "A hyperarticle
+  amendment (against the objection [CLAIM-181](CLAIM-181.md)). A24: "A hyperarticle
   platform cannot simply replace the paper with a fixed ontology of
   scientific contributions and declare the problem solved."
 
 A24 §3 adds the second half. A publishing system "should therefore govern
 two kinds of revision: changes to scientific claims and changes to the
 rules by which scientific claims and contributions are represented or
-evaluated". It cites CLAIM-667's hypothesis, which is Proposed and
+evaluated". It cites [CLAIM-667](CLAIM-667.md)'s hypothesis, which is Proposed and
 untested, as "a useful design principle", and not as support.
 
 ## What it does not say
 
-- The step from CLAIM-469 is an analogy. CLAIM-469 is about one record and
+- The step from [CLAIM-469](CLAIM-469.md) is an analogy. [CLAIM-469](CLAIM-469.md) is about one record and
   its tooling, which one owner governs. A publishing system's categories
   (paper, author, venue, citation) are kept by many institutions, and no
   one decision amends them. Whether "apparatus" carries over is the

@@ -27,12 +27,12 @@ summary: >-
   LLMs like they're going to anyway, while also maintaining a provenance for
   which contributions were theirs vs the LLM's." The essay's title names a
   second use of a governed record beside publishing: assessment in teaching.
-  It rests on CLAIM-668, that a shared record can represent who contributed a
+  It rests on [CLAIM-668](CLAIM-668.md), that a shared record can represent who contributed a
   proposition.
 ---
 
 <!-- inactive-ok-file: CLAIM-668 — Proposed; the premise that a record can represent who contributed -->
-<!-- inactive-ok-file: CLAIM-tmpqteki CLAIM-tmpmacjk LEAD-tmphmakt — new; filed from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmpqteki CLAIM-tmpmacjk — new; filed from the same exchange -->
 
 # CLAIM-tmp0ncly: Just show your work is also a proposal for educators: students will use LLMs anyway, and a record of the collaboration that keeps which contributions were the student's and which the LLM's lets them use LLMs while their own contribution stays assessable
 
@@ -45,10 +45,10 @@ rather than hidden, and keeps the student's own contribution something an
 instructor can assess. It is the same move the essay makes for publishing:
 show the work, not only its product.
 
-A35 develops it (CLAIM-tmpqteki). CLAIM-tmpmacjk names what the provenance
-needs to be reliable, and LEAD-tmphmakt a test.
+A35 develops it ([CLAIM-tmpqteki](CLAIM-tmpqteki.md)). [CLAIM-tmpmacjk](CLAIM-tmpmacjk.md) names what the provenance
+needs to be reliable, and [LEAD-tmphmakt](../leads.d/LEAD-tmphmakt.md) a test.
 
 ## What it does not say
 
-- Not that provenance shows understanding; CLAIM-tmpqteki keeps the two apart.
+- Not that provenance shows understanding; [CLAIM-tmpqteki](CLAIM-tmpqteki.md) keeps the two apart.
 - Not that LLM use should be unrestricted in every assignment.

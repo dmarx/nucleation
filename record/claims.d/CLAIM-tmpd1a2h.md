@@ -75,12 +75,12 @@ the assistant's (Claude, in this session).
 
 That a view's inclusion of a claim is not the claim's standing is held:
 "Membership says a claim is in the work; whether the record believes it
-is the status" (the `works` vocabulary, ADR-032), and CLAIM-178's
-"claims carry status and inclusion separately". ADR-143's second
+is the status" (the `works` vocabulary, [ADR-032](../decisions.d/ADR-032.md)), and [CLAIM-178](CLAIM-178.md)'s
+"claims carry status and inclusion separately". [ADR-143](../decisions.d/ADR-143.md)'s second
 invariant makes a manuscript show each step's standing. What is new is
 the division of coverage, and transition coverage in particular, whose
-check CLAIM-tmp6xzjy says must be on cycles of views. A report that
-would measure the four is LEAD-tmpsgkxe.
+check [CLAIM-tmp6xzjy](CLAIM-tmp6xzjy.md) says must be on cycles of views. A report that
+would measure the four is [LEAD-tmpsgkxe](../leads.d/LEAD-tmpsgkxe.md).
 
 ## What it does not say
 

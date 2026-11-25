@@ -38,9 +38,9 @@ summary: >-
 
 A5: "A citation to a particular version should remain resolvable even
 after the living document evolves." A10 binds a tag to "a particular
-versioned scholarly object" (CLAIM-tmpnqzvj), and CLAIM-tmpgli4k has a
+versioned scholarly object" ([CLAIM-tmpnqzvj](CLAIM-tmpnqzvj.md)), and [CLAIM-tmpgli4k](CLAIM-tmpgli4k.md) has a
 citation name "the version they used". The owner offers Nucleation as a
-hyperarticle (CLAIM-tmpjf44i). Does it meet the requirement?
+hyperarticle ([CLAIM-tmpjf44i](CLAIM-tmpjf44i.md)). Does it meet the requirement?
 
 ## The claim
 
@@ -53,7 +53,7 @@ hyperarticle (CLAIM-tmpjf44i). Does it meet the requirement?
   commit where the citing text was written, the text it relied on. A
   foreign code is a link to the other record's branch (this record's
   remotes name `ref: main`), so it always reaches the current text. The
-  record rewrites entries to keep them true (LU-DP-017: "A record states
+  record rewrites entries to keep them true ([LU-DP-017](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-17): "A record states
   what is true now — git already keeps what was written then"), so what a
   code reaches on the branch tomorrow need not be what the citing text
   relied on.
@@ -69,7 +69,7 @@ hyperarticle (CLAIM-tmpjf44i). Does it meet the requirement?
   writes one. The entry's `version` number is not enough: no luria link
   takes one.
 
-This is CLAIM-789's point from the other side. Copying exactly anchors a
+This is [CLAIM-789](CLAIM-789.md)'s point from the other side. Copying exactly anchors a
 copy to the version it was taken from; a code is the other kind of tie, one
 a revision passes through, so it follows the entry. A reader who wants the
 version relied on must browse by commit, and a reader outside the record
@@ -77,10 +77,10 @@ must be given the commit.
 
 ## What it does not say
 
-It sharpens CLAIM-tmp48g02, whose body notes that "versions are git's": they
+It sharpens [CLAIM-tmp48g02](CLAIM-tmp48g02.md), whose body notes that "versions are git's": they
 are, and the record's citations do not reach them.
 
 Not that following the current version is wrong. Inside the record it is
 the point: a dependant should meet its premise as it now stands, and
-retirement reports what rests on an entry (CLAIM-664). The gap is for a
+retirement reports what rests on an entry ([CLAIM-664](CLAIM-664.md)). The gap is for a
 reader outside, citing a claim as it stood.

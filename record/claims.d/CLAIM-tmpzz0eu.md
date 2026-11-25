@@ -29,7 +29,7 @@ summary: >-
   usually said to perform, so it cannot say which are left over. The
   four-function division is the one usually credited to Roosendaal and
   Geurts (1997) and used by Van de Sompel and colleagues (2004), neither
-  read by the record; LEAD-tmpxhtlf would read them. The wording is the
+  read by the record; [LEAD-tmpxhtlf](../leads.d/LEAD-tmpxhtlf.md) would read them. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
@@ -40,18 +40,18 @@ summary: >-
 ## The gap
 
 U6 says webhosts can meet "the demands normally met by a" publisher
-(CLAIM-tmpv0sv7), and A13 lists guarantees a host must give
-(CLAIM-tmpk6vy2). Neither names a publisher's functions, so neither can
+([CLAIM-tmpv0sv7](CLAIM-tmpv0sv7.md)), and A13 lists guarantees a host must give
+([CLAIM-tmpk6vy2](CLAIM-tmpk6vy2.md)). Neither names a publisher's functions, so neither can
 say which a host leaves undone.
 
 ## The claim
 
-The division usually used, not yet read by the record (LEAD-tmpxhtlf):
+The division usually used, not yet read by the record ([LEAD-tmpxhtlf](../leads.d/LEAD-tmpxhtlf.md)):
 
 | function | what it does | who gives it in the owner's split |
 |---|---|---|
 | registration | fixes who put forward what, and when | no one by name: A13's "attribution" and "versioned records" come nearest |
-| certification | judges it sound | editors, and journals as feeds over them (U4, CLAIM-tmpzsuh2; CLAIM-tmpnqzvj) |
+| certification | judges it sound | editors, and journals as feeds over them (U4, [CLAIM-tmpzsuh2](CLAIM-tmpzsuh2.md); [CLAIM-tmpnqzvj](CLAIM-tmpnqzvj.md)) |
 | awareness | brings it to readers | hosts, by access; journals, by selection |
 | archiving | keeps it after its first home goes | custodians (A13's "a custodian must also arrange for persistence after the host itself fails") |
 
@@ -65,7 +65,7 @@ A host's own timestamps fail that: they are the host's. A13 points at the
 remedy without naming the function ("Editorial assessments could be signed
 and versioned"). In a record kept in git, the dates and authors are the
 commits', which the committer sets and which are not authenticated unless
-signed (CLAIM-tmp80nuw).
+signed ([CLAIM-tmp80nuw](CLAIM-tmp80nuw.md)).
 
 ## What it does not say
 

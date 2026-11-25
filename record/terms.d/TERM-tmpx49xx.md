@@ -38,20 +38,20 @@ changes."
 It unifies the owner's earlier turns. A11:
 
 - "A hyperarticle is a view with memory over claims, evidence, arguments,
-  and revisions" (TERM-tmpjn06u);
+  and revisions" ([TERM-tmpjn06u](TERM-tmpjn06u.md));
 - "An editor maintains a view with memory over the research they
   encounter";
 - "A journal is a view with memory over the contributions of a selected
-  collection of editors" (the owner's U4, CLAIM-tmpzsuh2);
+  collection of editors" (the owner's U4, [CLAIM-tmpzsuh2](../claims.d/CLAIM-tmpzsuh2.md));
 - "A journal issue is simply a snapshot of that view at a particular point
   in time."
 
 ## Against the record's senses of view
 
 In the databases topic a view is a stored query, and a materialized view
-keeps its answer current as the data change (QUESTION-347). Neither keeps
+keeps its answer current as the data change ([QUESTION-347](../questions.d/QUESTION-347.md)). Neither keeps
 a memory: a materialized view is overwritten. In luria, views are the
 pages `luria index` generates from the sources, which hold no hand-written
 file and keep no history of their own. What the owner's word adds is the
-memory, and what the memory must keep is CLAIM-tmpmq8lk (A's) and
-CLAIM-tmptn64c (the assistant's).
+memory, and what the memory must keep is [CLAIM-tmpmq8lk](../claims.d/CLAIM-tmpmq8lk.md) (A's) and
+[CLAIM-tmptn64c](../claims.d/CLAIM-tmptn64c.md) (the assistant's).

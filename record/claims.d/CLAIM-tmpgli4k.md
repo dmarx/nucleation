@@ -30,13 +30,13 @@ summary: >-
   done, at the level where the contribution occurred", and "Rather than
   citing an entire paper when relying on one particular inference,
   researchers could identify that inference and the version they used."
-  A8 adds: "What we need is provenance." Micropublications (THEORY-1758)
+  A8 adds: "What we need is provenance." Micropublications ([THEORY-1758](../theory.d/THEORY-1758.md))
   are the read prior art. The wording is A's (ChatGPT's, at A5 of the
   exchange "Hyper article interpretation"); adopting it is the owner's
   call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpjf44i CLAIM-668 THEORY-1758 CLAIM-tmpk6kcf — Proposed; the owner's thesis, the claim on what a record represents, the reading and the assistant's gap fill -->
+<!-- inactive-ok-file: CLAIM-668 THEORY-1758 CLAIM-tmpk6kcf — Proposed; the owner's thesis, the claim on what a record represents, the reading and the assistant's gap fill -->
 
 # CLAIM-tmpgli4k: Credit should attach to the work that was done, at the level where the contribution occurred, so that a claim, method, critique or revision held as an identifiable object carries its own provenance and a citation can name the inference and the version it relied on rather than the paper that contained it
 
@@ -56,19 +56,19 @@ provenance."
 
 ## Where the record meets it
 
-- THEORY-1758: Clark, Ciccarese and Goble represent a publication as a
+- [THEORY-1758](../theory.d/THEORY-1758.md): Clark, Ciccarese and Goble represent a publication as a
   principal claim with its attribution, and challenges as attributed
   micropublications of their own.
-- CLAIM-668: a shared record can represent who contributed a proposition
+- [CLAIM-668](CLAIM-668.md): a shared record can represent who contributed a proposition
   and what standing it gives it, not what anyone believes. This record
   does attach credit at the level of the entry: each is filed in the
   voice of the owner, another assistant or this one, quoted from the turn.
-- QUESTION-072 asks whether that distributes credibility unevenly: what
+- [QUESTION-072](../questions.d/QUESTION-072.md) asks whether that distributes credibility unevenly: what
   gets a code gets cited, and what does not is re-derived or lost. Credit
   at the level of the contribution reaches only contributions that are
   filed.
 - The second half, citing "the version they used", is not met by a code
-  in a luria record. See CLAIM-tmpk6kcf.
+  in a luria record. See [CLAIM-tmpk6kcf](CLAIM-tmpk6kcf.md).
 
 ## What it does not say
 
