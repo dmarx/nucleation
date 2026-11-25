@@ -55,7 +55,7 @@ integrates:
 
 # SYNTHESIS-114: Inquiry in the record is a form of specification that can revise what an answer could be, reflexive when its language, answer space, interventions, observations, criteria or resources become its object; specifying is resource-bounded and stored specification cheapens some questions and hardens others; and what makes reconfiguration self-governed is an open question
 
-*A synthesis of a theme that crosses the lines learning-and-inquiry, record-as-apparatus and distributed-agency: principle P8 of the owner's manuscript from-obstruction-to-reorganization (§7.1). An independent reader's audit of 2026-11-20 found P8 to be a conjunction of entries the record holds rather than a claim of its own (ADR-075, step 5), so it is stated here from them and adds nothing to them.*
+*A synthesis of a theme that crosses the lines learning-and-inquiry, record-as-apparatus and distributed-agency: principle P8 of the owner's manuscript from-obstruction-to-reorganization (§7.1). An independent reader's audit of 2026-11-20 found P8 to be a conjunction of entries the record holds rather than a claim of its own ([ADR-075](../decisions.d/ADR-075.md), step 5), so it is stated here from them and adds nothing to them.*
 
 ## The question
 
@@ -71,7 +71,7 @@ the language it is posed in, the answer space that says which differences
 would count as an answer, the interventions and observations that make those
 differences accessible, the criteria that rank candidate answers, and the
 resources it runs on. It is reflexive when any of these becomes what it is
-pursuing (TERM-095). The tuple is the record's own construct, not a standard
+pursuing ([TERM-095](../terms.d/TERM-095.md)). The tuple is the record's own construct, not a standard
 definition.
 
 With it the record holds that inquiry is a form of specification. A question
@@ -80,20 +80,20 @@ operations that reach them, and what it finds can stabilize into a
 specification, a theory, method or rule, that constrains the next inquiry;
 so inquiry stands to its findings as a specification to its realizations,
 with one difference, that an inquiry can revise what an answer could be
-(CLAIM-470). That difference is the line between refining within a framework
+([CLAIM-470](../claims.d/CLAIM-470.md)). That difference is the line between refining within a framework
 and revising it: counterexample-guided refinement splits states ever more
 finely under a property it never questions, and so refines without revising
-(CLAIM-470). The thesis is stated in the term and is not part of its
-definition, so a reader who rejects it can still use the term (TERM-095).
+([CLAIM-470](../claims.d/CLAIM-470.md)). The thesis is stated in the term and is not part of its
+definition, so a reader who rejects it can still use the term ([TERM-095](../terms.d/TERM-095.md)).
 Nor does it say that inquiry makes what it investigates, only that the
 specification through which a thing is investigated can be historically
-constituted (CLAIM-470).
+constituted ([CLAIM-470](../claims.d/CLAIM-470.md)).
 
 Revision is sometimes forced rather than chosen, because a vocabulary can
 fail to state a constraint at all. A constraint inexpressible in a class of
 descriptions is neither false nor unknown; the failure is a fact about the
 vocabulary, the response is to enlarge it rather than to revise a value, and
-it is the case refinement within a fixed answer space cannot reach (TERM-091).
+it is the case refinement within a fixed answer space cannot reach ([TERM-091](../terms.d/TERM-091.md)).
 This is the language of an inquiry becoming its object.
 
 Engineering is the case in which the object does not exist apart from the
@@ -102,76 +102,76 @@ of a specification as its answer space, builds as interventions and tests as
 observations; it is reflexive, and more than search, when what building
 shows revises the specification, and it differs from inquiry into a given
 object in that its interventions make the object its observations judge
-(CLAIM-784). Not all engineering is reflexive: building to a fixed, adequate
-specification is search inside an answer space that does not move (CLAIM-784).
+([CLAIM-784](../claims.d/CLAIM-784.md)). Not all engineering is reflexive: building to a fixed, adequate
+specification is search inside an answer space that does not move ([CLAIM-784](../claims.d/CLAIM-784.md)).
 Building is also a method of inquiry into a theory: an artifact made to a
 specification drawn from a theory tests it, and the artifact's failures to
 behave as specified are findings about the theory, its yield coming mainly
-from failures (CLAIM-786). The record's own staging branch is the one case:
+from failures ([CLAIM-786](../claims.d/CLAIM-786.md)). The record's own staging branch is the one case:
 specified, reviewed and passed, it showed at its first promotion, made by
-hand, a requirement no one had stated (CASE-299). One case, found by the
+hand, a requirement no one had stated ([CASE-299](../cases.d/CASE-299.md)). One case, found by the
 assistant in tooling it wrote, does not show how often building finds what
-review misses (CASE-299).
+review misses ([CASE-299](../cases.d/CASE-299.md)).
 
 Specifying is itself bounded. Formulating a question spends time, concepts
 and computation as realizing a configuration spends energy and matter, so the
 questions an agent can ask are a product of what it has already realized
-(CLAIM-475). The symmetry is of kind, not of measure (CLAIM-475). The
+([CLAIM-475](../claims.d/CLAIM-475.md)). The symmetry is of kind, not of measure ([CLAIM-475](../claims.d/CLAIM-475.md)). The
 questions an agent can formulate within its budget are its inquiry frontier,
 distinct from those its language can express, those it can pursue to a
-stated standard and those that have answers (TERM-092); a question can be
+stated standard and those that have answers ([TERM-092](../terms.d/TERM-092.md)); a question can be
 expressible and still off the frontier.
 
 The bound is also how earlier inquiry pays forward. A stabilized
 specification is past inquiry stored so that later questions become cheaper
-to ask, and it can make other questions harder (CLAIM-475): reusable
+to ask, and it can make other questions harder ([CLAIM-475](../claims.d/CLAIM-475.md)): reusable
 specifications move the frontier without enlarging the budget, and can change
-its shape rather than its size (TERM-092). Carried from specifications to
+its shape rather than its size ([TERM-092](../terms.d/TERM-092.md)). Carried from specifications to
 constraints in general, a stabilized constraint can be stored work that
 changes which activities are realizable within a fixed per-task budget,
 without added degrees of freedom or resources; the gain is conditional on the
 costs of constructing, keeping, retrieving, verifying and revising the
 constraint and on the distribution of later demands, and the persistence
-that buys it can entrench (CLAIM-761). Persistence alone is not amortization,
+that buys it can entrench ([CLAIM-761](../claims.d/CLAIM-761.md)). Persistence alone is not amortization,
 and whether newly affordable operations widen freedom is left open
-(CLAIM-761). So the same storage that makes an inquiry cheap also raises the
+([CLAIM-761](../claims.d/CLAIM-761.md)). So the same storage that makes an inquiry cheap also raises the
 cost of revising what it stored, which is the cost the reflexive case has to
 pay.
 
 Inquiry, reflexive or not, is one achievement among others that form a
 partial order and not a nested sequence: inquiry, which measures and revises
 models and apparatuses under resource bounds, can occur without
-organizational autonomy (CLAIM-474). And self-revision is not reliability: an
+organizational autonomy ([CLAIM-474](../claims.d/CLAIM-474.md)). And self-revision is not reliability: an
 apparatus that revises its comparison rules by consistency alone converges to
-agreement, not knowledge (CLAIM-474). That an inquiry can revise its criteria
+agreement, not knowledge ([CLAIM-474](../claims.d/CLAIM-474.md)). That an inquiry can revise its criteria
 therefore does not yet say that it governs itself, and the rest of the theme
 is about that gap.
 
 It is held open. The question is what distinguishes a programmable system
-from one that governs its own reconfiguration (QUESTION-388). The readings
+from one that governs its own reconfiguration ([QUESTION-388](../questions.d/QUESTION-388.md)). The readings
 it rests on show that internal feedback is not enough: a system's next
 configuration can depend on its own state and response while the criterion
 the update applies is supplied from outside, by a robot, rig or supervisor
-(QUESTION-388). The record holds the parts an answer would use. An operative
+([QUESTION-388](../questions.d/QUESTION-388.md)). The record holds the parts an answer would use. An operative
 regime, the governing organization among regimes and the capacity to
-transform that organization can persist or fail separately (CLAIM-025). On
+transform that organization can persist or fail separately ([CLAIM-025](../claims.d/CLAIM-025.md)). On
 that ground, in the self-governing sense of governing oneself by one's own
 standards, what endogenous governance adds over a behaviourally equivalent
 system with an external scheduler is not that it allocates authority among
 its own processes but that it can revise its own governing standards when
 they break down, a difference observable only outside the regime in which the
-equivalence was measured (CLAIM-485). That capacity is one some organizations
+equivalence was measured ([CLAIM-485](../claims.d/CLAIM-485.md)). That capacity is one some organizations
 of perspective have and others lack, not what makes something a perspective,
 and the capacity to revise standards is not the capacity to revise them well
-(CLAIM-424). The regress of who revises the reviser is met, there, by mutually
+([CLAIM-424](../claims.d/CLAIM-424.md)). The regress of who revises the reviser is met, there, by mutually
 checking mechanisms rather than a top reviser, and the claim's defeater
-names an argument from that regress as one that would defeat it (CLAIM-424). For a collective that keeps
+names an argument from that regress as one that would defeat it ([CLAIM-424](../claims.d/CLAIM-424.md)). For a collective that keeps
 its inquiry in a governed record, the question becomes whether a later
 improver can do better than an earlier one from the same starting state at
 the same budget without the collective losing the capacity to detect failures
-in its own apparatus (QUESTION-457); and no study of that kind settles the
+in its own apparatus ([QUESTION-457](../questions.d/QUESTION-457.md)); and no study of that kind settles the
 first question, since its experimenter still defines the comparison
-(QUESTION-457).
+([QUESTION-457](../questions.d/QUESTION-457.md)).
 
 Where it is firm: the first half, inquiry as specification, the forced
 enlargement of a vocabulary, resource-bounded specifying and stored work, is
@@ -182,15 +182,15 @@ second half is an open question with held parts, not an answer.
 
 P8 stated that reflexive inquiry is self-governed only where the criteria of
 revision are the system's own and remain revisable. No component states it.
-Whether criteria are the system's own is what QUESTION-388 asks; requiring the
+Whether criteria are the system's own is what [QUESTION-388](../questions.d/QUESTION-388.md) asks; requiring the
 criteria of revision, and not only the governing standards, to be one's own
-goes beyond CLAIM-485, and opens the regress that CLAIM-424's defeater names.
-Nor does any component say that revising an inquiry's criteria, in TERM-095's
-sense, is revising governing standards in CLAIM-485's.
+goes beyond [CLAIM-485](../claims.d/CLAIM-485.md), and opens the regress that [CLAIM-424](../claims.d/CLAIM-424.md)'s defeater names.
+Nor does any component say that revising an inquiry's criteria, in [TERM-095](../terms.d/TERM-095.md)'s
+sense, is revising governing standards in [CLAIM-485](../claims.d/CLAIM-485.md)'s.
 
 That an entry's accrued predicates, which narrow the revisions still open to
-it and can lock it in (CLAIM-785), are a stabilized specification in
-CLAIM-475's sense, cheapening some later questions and hardening others, is
-not stated either. CLAIM-784 notes the kindred join, requirements as
+it and can lock it in ([CLAIM-785](../claims.d/CLAIM-785.md)), are a stabilized specification in
+[CLAIM-475](../claims.d/CLAIM-475.md)'s sense, cheapening some later questions and hardening others, is
+not stated either. [CLAIM-784](../claims.d/CLAIM-784.md) notes the kindred join, requirements as
 constraints and a design as a point in their intersection, and leaves it
 unmade.

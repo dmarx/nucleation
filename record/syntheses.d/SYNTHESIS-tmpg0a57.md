@@ -62,7 +62,7 @@ bears_on:
 
 # SYNTHESIS-tmpg0a57: Publishing over a governed record unbundles the paper: articles become views over a maintained record, editorial judgements attributable events that journals select as feeds, and hosts suppliers of access; the record shows the substrate and where its own guarantees stop, and leaves registration, signed authorship, version-resolvable citation and the advantage of the network open
 
-*The first synthesis of the line scholarly-publishing (atlas scope 15, ADR-tmpd3ckn), written under ADR-tmpw306d. It takes the exchange "Hyper article interpretation" into account; the exchange has no synthesis of its own, and its map of turns is in the curation entry of 2026-11-25. It adds nothing. Its standing is its components'.*
+*The first synthesis of the line scholarly-publishing (atlas scope 15, [ADR-tmpd3ckn](../decisions.d/ADR-tmpd3ckn.md)), written under [ADR-tmpw306d](../decisions.d/ADR-tmpw306d.md). It takes the exchange "Hyper article interpretation" into account; the exchange has no synthesis of its own, and its map of turns is in the curation entry of 2026-11-25. It adds nothing. Its standing is its components'.*
 
 ## The question
 
@@ -76,28 +76,28 @@ already supply?
 
 **The paper is a view, not the work.** The line starts from the claim
 that a manuscript should be a view over the argument and not its only copy
-(CLAIM-178). A draft written straight from an exchange drops commitments
+([CLAIM-178](../claims.d/CLAIM-178.md)). A draft written straight from an exchange drops commitments
 and changes its thesis without saying so, and this becomes visible only
 against a record that keeps a claim's status apart from its inclusion in a
 work. The evidence is one documented case, the What Survives Translation?
-exchange (CLAIM-324). The general form rests on that case alone, and the
+exchange ([CLAIM-324](../claims.d/CLAIM-324.md)). The general form rests on that case alone, and the
 comparison its own defeat condition names, a draft written against the
 record checked beside one written straight from an exchange, has not been
-made (CLAIM-178). A view here is written, not assembled: the record is
-what the draft is checked against. ADR-143 is the record's procedure for
+made ([CLAIM-178](../claims.d/CLAIM-178.md)). A view here is written, not assembled: the record is
+what the draft is checked against. [ADR-143](../decisions.d/ADR-143.md) is the record's procedure for
 drawing one.
 
 The owner carries this from the record's manuscripts to scientific
 publishing. What is published should be the work itself, a hyperarticle:
 a living, versioned body of claims, evidence, methods, objections and
 revisions, attributed at the level of each contribution, of which any
-article is one view; and Nucleation can be read as one (CLAIM-tmpjf44i,
-with the word in TERM-tmpjn06u, whose definition is ChatGPT's). It does
+article is one view; and Nucleation can be read as one ([CLAIM-tmpjf44i](../claims.d/CLAIM-tmpjf44i.md),
+with the word in [TERM-tmpjn06u](../terms.d/TERM-tmpjn06u.md), whose definition is ChatGPT's). It does
 not say the paper should go, or that everything should be published. A
 further step is also the owner's: once one maintained record holds a
 tangle of interrelated ideas, the reason to split it into a flood of
 interrelated papers is gone, and each party can be given its own view
-(CLAIM-tmpkvi10). The scope matters. A revision reaches the record's
+([CLAIM-tmpkvi10](../claims.d/CLAIM-tmpkvi10.md)). The scope matters. A revision reaches the record's
 entries, and a prose view only once it is refreshed, and separate papers
 can still be warranted.
 
@@ -105,15 +105,15 @@ can still be warranted.
 That a record can hold such a body is the firmest step on the line. Luria
 fixes, through its schemes, vocabularies, validators and generated views,
 what counts as a referable and governable object in the record, and the
-record revises those distinctions as it uses them (CLAIM-469). The case in
+record revises those distinctions as it uses them ([CLAIM-469](../claims.d/CLAIM-469.md)). The case in
 which a fixed relation asserted an inference nobody made, and the record
-answered by adding a relation, shows the revision at work (CASE-131). It
+answered by adding a relation, shows the revision at work ([CASE-131](../cases.d/CASE-131.md)). It
 does not show that such forcings are always noticed. The same record also
 fixes a limit on what any publishing built on it can promise. Decision
 sufficiency, historical accountability and correctness can each hold while
-the other two fail (CLAIM-299). A community with an impeccable record and a
+the other two fail ([CLAIM-299](../claims.d/CLAIM-299.md)). A community with an impeccable record and a
 vocabulary that leaves out the right explanation is accountable and wrong
-(CASE-084). Provenance is no warrant of truth, and every later step that
+([CASE-084](../cases.d/CASE-084.md)). Provenance is no warrant of truth, and every later step that
 leans on attribution inherits this.
 
 **What counts as a contribution, and how it is credited and evaluated.**
@@ -122,60 +122,60 @@ argument. A paper is a communication artifact and a contribution is a
 change in the state of knowledge. Corrections, narrowings, newly found
 dependencies, integrations, maintenance and retirements become
 recognizable as contributions once claims and their revisions have
-identities apart from the manuscripts that present them (CLAIM-tmp2tzk5).
+identities apart from the manuscripts that present them ([CLAIM-tmp2tzk5](../claims.d/CLAIM-tmp2tzk5.md)).
 Credit should attach where the contribution occurred, so that a citation
-names the inference and the version relied on (CLAIM-tmpgli4k). This
+names the inference and the version relied on ([CLAIM-tmpgli4k](../claims.d/CLAIM-tmpgli4k.md)). This
 reaches only contributions that are filed. A publishing system is then
 part of the apparatus of inquiry: its representation fixes which kinds of
 labour count, and to stay adequate it must govern revisions of its own
-rules as well as of its claims (CLAIM-tmp158w7). That step is an analogy
-from CLAIM-469, whose record one owner governs. A publishing system's
+rules as well as of its claims ([CLAIM-tmp158w7](../claims.d/CLAIM-tmp158w7.md)). That step is an analogy
+from [CLAIM-469](../claims.d/CLAIM-469.md), whose record one owner governs. A publishing system's
 categories are kept by many institutions, and whether "apparatus" carries
 over is left unsettled. A count taken from the record would not escape the
 proxy problem, because researchers would shape the record to the count. An
 accountable history of contributions is evidence for an evaluation, not a
-score computed from the record (CLAIM-tmp2timl), and applying its general
+score computed from the record ([CLAIM-tmp2timl](../claims.d/CLAIM-tmp2timl.md)), and applying its general
 premises to research evaluation is that claim's own step. Two questions
 stay open: what would follow if the incentive were to maintain a valuable
-body of knowledge rather than to repackage it (QUESTION-tmpz0154), and
+body of knowledge rather than to repackage it ([QUESTION-tmpz0154](../questions.d/QUESTION-tmpz0154.md)), and
 whether a publishing system can itself learn, recognizing failures in its
 categories, revising them accountably and showing a measured improvement
-afterwards (QUESTION-tmpkvxkh). Two answers to the first are filed, both
+afterwards ([QUESTION-tmpkvxkh](../questions.d/QUESTION-tmpkvxkh.md)). Two answers to the first are filed, both
 ChatGPT's. One narrows the incentive: what evaluation should recognize is
 contribution to a community's maintained capacity for inquiry, not the
 upkeep of a body of knowledge as such, since a record can grow while the
-community's capacities stay the same (CLAIM-tmp4rfba). The other says what
+community's capacities stay the same ([CLAIM-tmp4rfba](../claims.d/CLAIM-tmp4rfba.md)). The other says what
 the evaluating record must show: the distinctions the evaluating decision
 needs, not every detail, so that a publication count is adequate to a
 question about throughput and inadequate to one about contribution
-(CLAIM-tmpts8ee). The assistant's check of that answer finds a further
+([CLAIM-tmpts8ee](../claims.d/CLAIM-tmpts8ee.md)). The assistant's check of that answer finds a further
 reason views multiply: two evaluators facing the same decision can need
 incomparable views, because which coarsest view suffices depends on the
-action each commits to, not on the decision alone (CLAIM-tmpu6e4u). That
+action each commits to, not on the decision alone ([CLAIM-tmpu6e4u](../claims.d/CLAIM-tmpu6e4u.md)). That
 is a reason for several views; it is not, on its own, a reason for several
 contributions. Views are separate contributions only when they have
 different central claims needing different evidence, and an atlas of the
 record is organized around a few primary arguments with focused views
-beside them, not as a list of paper titles (CLAIM-tmpotj4b). What the
+beside them, not as a list of paper titles ([CLAIM-tmpotj4b](../claims.d/CLAIM-tmpotj4b.md)). What the
 arrangement offers the researcher is the other side of the same
 separation: the form in which knowledge becomes institutionally legible
 is apart from the form in which it is developed, so a researcher who can
 sustain an inquiry but not its conversion into manuscripts meets a design
 choice of the apparatus, which a record drawn on for views reduces
-(CLAIM-tmpbvvmp).
+([CLAIM-tmpbvvmp](../claims.d/CLAIM-tmpbvvmp.md)).
 
 **Editorial judgement goes to editors, and a journal is a feed over
 them.** The owner's architecture separates editorial judgement from
 publication. Editors are taggers who attach attributable judgements to work
 wherever it is published, and a journal is a feed over its editors
-(CLAIM-tmpzsuh2). A feed is a view with a memory over data (TERM-tmpx49xx,
+([CLAIM-tmpzsuh2](../claims.d/CLAIM-tmpzsuh2.md)). A feed is a view with a memory over data ([TERM-tmpx49xx](../terms.d/TERM-tmpx49xx.md),
 the owner's words, with ChatGPT's gloss). ChatGPT's refinements say what
 the parts must carry. A tag is an independently authored record linking
 an editor to a particular version, with a stated meaning and reason, so a
 journal can tell a recommendation from a review and must declare what
-inclusion in its feed means (CLAIM-tmpnqzvj). A feed's memory is the
+inclusion in its feed means ([CLAIM-tmpnqzvj](../claims.d/CLAIM-tmpnqzvj.md)). A feed's memory is the
 provenance of the decisions that shaped it, not a cache of what it showed
-(CLAIM-tmpmq8lk). The assistant's gap fill (CLAIM-tmptn64c) then makes the
+([CLAIM-tmpmq8lk](../claims.d/CLAIM-tmpmq8lk.md)). The assistant's gap fill ([CLAIM-tmptn64c](../claims.d/CLAIM-tmptn64c.md)) then makes the
 journal exact, and it is demonstrated. A feed's memory divides into the
 history of its data, of its definition and of its judgements. Where the
 feed is a deterministic query, why an object was included can be
@@ -186,25 +186,25 @@ Not every feed with memory is a journal: a journal is a feed whose data
 include attributable judgements kept as events, combined under a declared
 rule. On that account the record is one, with a single editor. The
 precedents ChatGPT cites for the split (Bluesky's labellers and Harvard's
-Open Access Tracking Project) are unchecked, and LEAD-tmpxhtlf would read
+Open Access Tracking Project) are unchecked, and [LEAD-tmpxhtlf](../leads.d/LEAD-tmpxhtlf.md) would read
 them, with the overlay journals that already certify work hosted
 elsewhere.
 
 **Hosts supply access, and registration is left to no one.** The owner's
 last layer is that webhosts, in the plural, can meet the demands normally
-met by a publisher (CLAIM-tmpv0sv7). That means meeting the demands, not
+met by a publisher ([CLAIM-tmpv0sv7](../claims.d/CLAIM-tmpv0sv7.md)). That means meeting the demands, not
 being one. ChatGPT treats publishing as separable guarantees: persistent
 access, identifiers, versioned records, metadata, attribution,
 discoverability and preservation. So the identity of a scholarly object
 must not depend on its host's, and keeping a work online is not keeping
-it after the host fails (CLAIM-tmpk6vy2). The assistant sets those
+it after the host fails ([CLAIM-tmpk6vy2](../claims.d/CLAIM-tmpk6vy2.md)). The assistant sets those
 guarantees against the four functions scholarly communication is commonly
-divided into (CLAIM-tmpzz0eu). Hosting supplies only access, which serves
+divided into ([CLAIM-tmpzz0eu](../claims.d/CLAIM-tmpzz0eu.md)). Hosting supplies only access, which serves
 awareness. Certification goes to editors and journals, and archiving to
 custodians. Registration goes to no party: a date and an author for each
 version that neither the author nor the host can later alter. The
 four-function division is the one usually credited to Roosendaal and
-Geurts, which the record has not read (LEAD-tmpxhtlf).
+Geurts, which the record has not read ([LEAD-tmpxhtlf](../leads.d/LEAD-tmpxhtlf.md)).
 
 **The record checked against the proposal.** The assistant's checks of
 this record mark where the substrate stops. A record kept in git passes
@@ -216,84 +216,84 @@ under `record/`, 297 cite a pull request by number. It also fails for
 authorship. Of the 5,416 commits in the checkout, 4,670 (86.2%) carry no
 signature, and the 746 signed ones were all committed by GitHub, so the
 history keeps who is said to have written each version, not proof of it
-(CLAIM-tmp80nuw, counted on 2026-11-25). A citation by code, read on the
+([CLAIM-tmp80nuw](../claims.d/CLAIM-tmp80nuw.md), counted on 2026-11-25). A citation by code, read on the
 branch or from another record, reaches the entry's current version, not
 the version cited. Entries are rewritten to stay true, and a content pin
 detects that a cited document changed without making the vouched version
 reachable. So a citation that must reach the version it relied on has to
-name a commit, and the record pins nothing (CLAIM-tmpk6kcf,
+name a commit, and the record pins nothing ([CLAIM-tmpk6kcf](../claims.d/CLAIM-tmpk6kcf.md),
 demonstrated). Inside the record, following the current version is the
 point. The gap is for a reader outside, citing a claim as it stood. So
 Nucleation is a reference implementation of a governed research record
 and of views over it, not of hyperarticle publishing. It has no
 distributed editorial network, and no archival or identifier guarantees
-beyond its repository (CLAIM-tmp48g02). Its manuscripts are composed with
+beyond its repository ([CLAIM-tmp48g02](../claims.d/CLAIM-tmp48g02.md)). Its manuscripts are composed with
 assistance and checked against the record, not composed automatically.
 
 **The same move for educators.** The owner extends "show your work" to
 teaching. Students will use LLMs anyway, and a record of the collaboration
 that keeps which contributions were whose lets them do so openly while
-their own contribution stays assessable (CLAIM-tmp0ncly). ChatGPT's
+their own contribution stays assessable ([CLAIM-tmp0ncly](../claims.d/CLAIM-tmp0ncly.md)). ChatGPT's
 development is that such a record is not proof of understanding. It is a
 better basis for questioning it, since who proposed a step, how it was
 evaluated and whether it was adopted are different facts
-(CLAIM-tmpqteki). The assistant adds what makes it reliable: attribution
+([CLAIM-tmpqteki](../claims.d/CLAIM-tmpqteki.md)). The assistant adds what makes it reliable: attribution
 is only as good as the step that makes it. This record checks each quoted
 contribution against a verbatim transcript the filer did not write. A
 record the student keeps alone is self-report, in which an adopted LLM
-proposal looks like the student's own (CLAIM-tmpmacjk). That reliability
+proposal looks like the student's own ([CLAIM-tmpmacjk](../claims.d/CLAIM-tmpmacjk.md)). That reliability
 is of the text's attributions against a transcript. It is not
-authentication of who committed them, which CLAIM-tmp80nuw finds the
+authentication of who committed them, which [CLAIM-tmp80nuw](../claims.d/CLAIM-tmp80nuw.md) finds the
 record lacks.
 
 **Legibility.** The line also carries the record's account of legibility
 as a relation among a representation, an observer's rules and resources
-and a task (TERM-064), and the claim that a discrepancy changes what an
+and a task ([TERM-064](../terms.d/TERM-064.md)), and the claim that a discrepancy changes what an
 organization does only through legibility, volitional efficacy and
-correctability, any of which can fail while the others hold (CLAIM-523).
+correctability, any of which can fail while the others hold ([CLAIM-523](../claims.d/CLAIM-523.md)).
 They come to the line from the atlas's core fiber for the scope. No
 component applies them to editorial governance (see below).
 
 ## Where it stands
 
-The firm steps are the record's own: CLAIM-469 and CLAIM-299 with their
-cases, and the assistant's checked results, CLAIM-tmptn64c,
-CLAIM-tmpk6kcf and CLAIM-tmp80nuw. What publishing should become is a
+The firm steps are the record's own: [CLAIM-469](../claims.d/CLAIM-469.md) and [CLAIM-299](../claims.d/CLAIM-299.md) with their
+cases, and the assistant's checked results, [CLAIM-tmptn64c](../claims.d/CLAIM-tmptn64c.md),
+[CLAIM-tmpk6kcf](../claims.d/CLAIM-tmpk6kcf.md) and [CLAIM-tmp80nuw](../claims.d/CLAIM-tmp80nuw.md). What publishing should become is a
 proposal. The architecture of hyperarticle, many views, journals as feeds
 over editors and hosts as publishers is the owner's. Its development into
 contributions, credit, separable guarantees and the publishing system as
 apparatus is ChatGPT's. What the assistant added at the gaps
-(CLAIM-tmpzz0eu, CLAIM-tmpmacjk) is reasoning that waits on readings
-(LEAD-tmpxhtlf). Whether the proposal adds anything to Octopus, DORA and
-CoARA is LEAD-tmpni7tu's question.
+([CLAIM-tmpzz0eu](../claims.d/CLAIM-tmpzz0eu.md), [CLAIM-tmpmacjk](../claims.d/CLAIM-tmpmacjk.md)) is reasoning that waits on readings
+([LEAD-tmpxhtlf](../leads.d/LEAD-tmpxhtlf.md)). Whether the proposal adds anything to Octopus, DORA and
+CoARA is [LEAD-tmpni7tu](../leads.d/LEAD-tmpni7tu.md)'s question.
 
 What the line leaves open:
 
 - **Registration.** No party in the split fixes, for each version, an
   author and a date that neither author nor host can alter
-  (CLAIM-tmpzz0eu).
+  ([CLAIM-tmpzz0eu](../claims.d/CLAIM-tmpzz0eu.md)).
 - **Signed authorship.** The record's own history does not authenticate
-  who wrote what (CLAIM-tmp80nuw).
+  who wrote what ([CLAIM-tmp80nuw](../claims.d/CLAIM-tmp80nuw.md)).
 - **Version-resolvable citation.** Nothing in the record's citation
-  syntax writes a link to the version relied on (CLAIM-tmpk6kcf).
+  syntax writes a link to the version relied on ([CLAIM-tmpk6kcf](../claims.d/CLAIM-tmpk6kcf.md)).
 - **The advantage of the network.** No component tests whether the
   separated arrangement serves scholarly communication better than the
   bundled paper. The record implements the substrate and not the
-  editorial network (CLAIM-tmp48g02), so a working governed record is no
+  editorial network ([CLAIM-tmp48g02](../claims.d/CLAIM-tmp48g02.md)), so a working governed record is no
   evidence for that.
 
 ## Not stated on the record
 
 - **Legibility, authority and correction applied to editorial
   governance.** The atlas's outline for this scope proposes reading
-  editorial feeds through CLAIM-523's three achievements and TERM-064. No
+  editorial feeds through [CLAIM-523](../claims.d/CLAIM-523.md)'s three achievements and [TERM-064](../terms.d/TERM-064.md). No
   component makes that application, and this synthesis does not.
 - **From a working record to a working publishing network.** That a
   governed record's success would carry over to distributed publishing is
   a transition no component argues. The atlas names it as the scope's open
-  seam. CLAIM-tmp48g02 only says the record does not implement the
+  seam. [CLAIM-tmp48g02](../claims.d/CLAIM-tmp48g02.md) only says the record does not implement the
   network.
-- **That the substrate's limit on correctness binds journals.** CLAIM-299
-  and CASE-084 are stated of records of inquiry. That an editorial feed
+- **That the substrate's limit on correctness binds journals.** [CLAIM-299](../claims.d/CLAIM-299.md)
+  and [CASE-084](../cases.d/CASE-084.md) are stated of records of inquiry. That an editorial feed
   built on such a record inherits the same separation of accountability
   from correctness is a natural reading, and no component states it.
