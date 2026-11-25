@@ -154,3 +154,8 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Clark, Ciccarese and Goble** ([THEORY-1758](../theory.d/THEORY-1758.md)): **Verdict: qualifies.** Micropublications is an earlier system of distinctions over claims. It has Claim, Statement, Data and Method types, and supports and challenges relations. It also makes judgements objects: a challenge or a similarity call is itself a micropublication. It therefore shows that the "referable object" half of CLAIM-469 is not new. The model's distinctions are fixed in an OWL vocabulary, with no provision in the paper for revising them through use. That puts the weight of CLAIM-469's distinctiveness on its last clause.
 
 The claim is unchanged.
+
+## Note of 2026-11-25: carried to publishing systems
+
+<!-- inactive-ok-block: CLAIM-tmp158w7 — new and Proposed; A's extension of this claim to publishing -->
+ChatGPT, at A24 of the exchange "Hyper article interpretation" (2026-11-22), cites this claim correctly: luria's schemes, vocabularies, validators and generated views "determine which differences become referable and governable within the record". It then carries it to scholarly publishing: "The publishing system's grammar is effectively telling us what kinds of things count." That is filed as [CLAIM-tmp158w7](CLAIM-tmp158w7.md), which rests here. The step is an analogy. This claim is about one record and its tooling. A publishing system's categories are kept by many institutions, and no one decision revises them, so whether CLAIM-469's last clause, revision through the record's own use, carries over is what the extension leaves open. The note is the assistant's (Claude, in this session); adopting it is the owner's call. The claim is unchanged.
