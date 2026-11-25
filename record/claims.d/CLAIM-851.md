@@ -3,7 +3,7 @@ number: 851
 status: Proposed
 formerly:
 - CLAIM-tmpz5c3x
-title: 'Scoring against a null certifies categories'
+title: 'Null scoring is a fourth route to category warrant'
 statement: >-
   Scoring against a null is a fourth route to certifying categories, beside
   evidence that does not pass through them, a model of the effect of using
@@ -37,7 +37,7 @@ date: '2026-11-21'
 ---
 <!-- inactive-ok-file: CLAIM-821 CLAIM-831 — Proposed or new; filed 2026-11-21 -->
 
-# CLAIM-851: Scoring against a null certifies categories
+# CLAIM-851: Null scoring is a fourth route to category warrant
 
 **Reading (a), an alternative to [CLAIM-831](CLAIM-831.md).** The three routes the manuscript draws from [CLAIM-402](CLAIM-402.md) all concern how the system's categories affect the evidence. A null concerns how the measure behaves when there are no learned categories at all. It needs no model of the categories' effect, since there is nothing to model, and no intervention on the system, since it can be computed for an ensemble the system never was. So it is a separate route.
 

@@ -3,7 +3,7 @@ number: 900
 status: Proposed
 formerly:
 - CLAIM-tmp6rhuv
-title: 'Selection-rule energy forecasts generalization'
+title: 'Early Fourier share predicts when nets generalize'
 statement: >-
   In small networks trained on addition modulo a prime, the share of the
   network's input-output Fourier energy on the couplings the group's
@@ -60,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-331 CLAIM-698 CASE-272 — new or Proposed; the run this claim reports, the thesis it bears on and the design it reduces -->
 
-# CLAIM-900: Selection-rule energy forecasts generalization
+# CLAIM-900: Early Fourier share predicts when nets generalize
 
 ## The claim
 

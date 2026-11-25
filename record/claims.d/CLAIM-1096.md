@@ -3,7 +3,7 @@ number: 1096
 status: Active
 formerly:
 - CLAIM-tmpfza2h
-title: 'Graded predicates against concept lattices'
+title: 'Graded predicates are distributive; concepts not'
 statement: >-
   Graded predicates on a measure space, identified almost everywhere and
   ordered pointwise, form a distributive lattice under minimum and maximum
@@ -61,7 +61,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-267 — Proposed; the graded perspectives this lattice orders, filed with it on 2026-11-22, and the paper whose lattice it is compared with -->
 
-# CLAIM-1096: Graded predicates against concept lattices
+# CLAIM-1096: Graded predicates are distributive; concepts not
 
 ## The claim
 

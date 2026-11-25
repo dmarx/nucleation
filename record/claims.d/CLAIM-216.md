@@ -3,7 +3,7 @@ number: 216
 status: Active
 formerly:
 - CLAIM-tmpattzh
-title: 'Split the conjoined thesis'
+title: 'A conjoined thesis falls whole; split it'
 statement: >-
   A thesis that conjoins relational constitution, statistical recovery,
   transport and receivers' recovery is defeated whole by any one of its
@@ -59,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-215 CLAIM-209 — Proposed; the separate theses filed with this entry on 2026-10-10, open -->
 
-# CLAIM-216: Split the conjoined thesis
+# CLAIM-216: A conjoined thesis falls whole; split it
 
 ## The objection
 

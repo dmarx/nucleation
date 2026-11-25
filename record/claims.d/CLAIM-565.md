@@ -3,7 +3,7 @@ number: 565
 status: Active
 formerly:
 - CLAIM-tmp84a10
-title: 'Reconfiguration complexity cuts across clones'
+title: 'Reconfiguration hardness ignores CSP algebra'
 statement: >-
   For Boolean constraint languages with constants and single-variable flips,
   the language fixes whether deciding that one solution reaches another is
@@ -84,7 +84,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1555 NOTE-1572 THEORY-1380 THEORY-1382 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
-# CLAIM-565: Reconfiguration complexity cuts across clones
+# CLAIM-565: Reconfiguration hardness ignores CSP algebra
 
 ## The claim
 

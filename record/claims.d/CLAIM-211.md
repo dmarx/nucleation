@@ -3,7 +3,7 @@ number: 211
 status: Active
 formerly:
 - CLAIM-tmp867uz
-title: 'Two theses that answer what survives'
+title: 'Two theses rival on what survives, yet linked'
 statement: >-
   Read as worded, the manuscript's thesis and the October thesis give rival
   answers to what survives, which come apart in both directions on the cases
@@ -47,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded; the two theses compared, as worded -->
 
-# CLAIM-211: Two theses that answer what survives
+# CLAIM-211: Two theses rival on what survives, yet linked
 
 ## The objection
 

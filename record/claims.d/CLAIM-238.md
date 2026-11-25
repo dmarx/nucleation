@@ -3,7 +3,7 @@ number: 238
 status: Active
 formerly:
 - CLAIM-tmplkh2i
-title: 'Defeat conditions that cannot be met'
+title: 'Many defeat conditions can''t be met in practice'
 statement: >-
   Many of the line's defeat conditions cannot in practice be met: the
   comparative ones are null results with no margin over an observable set
@@ -66,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-005 CLAIM-147 CLAIM-128 CLAIM-117 CLAIM-044 CLAIM-054 CLAIM-137 CLAIM-095 — Proposed; open, cited for the wording of their defeat conditions or their place in the chain, not as settled -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-202 CLAIM-204 — Proposed; the record's revised theses of 2026-10-10, open, cited in the history for their margins -->
 
-# CLAIM-238: Defeat conditions that cannot be met
+# CLAIM-238: Many defeat conditions can't be met in practice
 
 ## The objection
 

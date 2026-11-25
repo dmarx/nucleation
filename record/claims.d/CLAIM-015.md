@@ -3,7 +3,7 @@ number: 15
 status: Superseded
 formerly:
 - CLAIM-tmp4fgys
-title: 'Transport, not invariant structure, as object'
+title: 'Unlike structuralism, structure needn''t stay fixed'
 statement: >-
   Classical structuralism studies relations within a system, whereas this
   theory makes the transport of relational systems its object and does not
@@ -29,7 +29,7 @@ summary: >-
   too sharp."
 ---
 
-# CLAIM-015: Transport, not invariant structure, as object
+# CLAIM-015: Unlike structuralism, structure needn't stay fixed
 
 ## The claim
 

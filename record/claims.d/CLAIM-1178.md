@@ -3,7 +3,7 @@ number: 1178
 status: Proposed
 formerly:
 - CLAIM-tmpuvgxw
-title: 'Board changes outlast sanctions'
+title: 'Board changes outlast sanctions; monitors fade'
 statement: >-
   That firms whose deferred or non-prosecution agreements mandated board
   changes keep fewer penalised violations after the agreement ends, while a
@@ -53,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2304 CLAIM-1113 CLAIM-1169 — new, Proposed; the account and study this reading rests on, the alternative reading, and the claim on what the test can show -->
 <!-- inactive-ok-file: CLAIM-432 — Proposed; the claim whose prediction this reading supports -->
 
-# CLAIM-1178: Board changes outlast sanctions
+# CLAIM-1178: Board changes outlast sanctions; monitors fade
 
 ## The reading
 

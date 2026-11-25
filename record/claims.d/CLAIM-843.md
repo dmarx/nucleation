@@ -3,7 +3,7 @@ number: 843
 status: Proposed
 formerly:
 - CLAIM-tmpuc8ro
-title: 'Power-law relaxation of factored modes'
+title: 'Exponential modes sum to power-law relaxation'
 statement: >-
   A population of independent factored modes q = ab with zero target,
   started small and at random, relaxes on average as a power law with a
@@ -43,7 +43,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-811 CLAIM-844 CLAIM-807 — Proposed; filed with this claim -->
 
-# CLAIM-843: Power-law relaxation of factored modes
+# CLAIM-843: Exponential modes sum to power-law relaxation
 
 ## The claim
 

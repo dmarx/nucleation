@@ -1,6 +1,6 @@
 ---
 status: Rejected
-title: 'The atlas as an account over accounts'
+title: 'The atlas needs every scope''s account first'
 statement: >-
   The hyperarticle atlas can be an account only as an account over accounts:
   a cross-line SYNTHESIS integrating each scope's account, which needs every
@@ -49,7 +49,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmpcd1e0 ADR-tmpd3ckn SYNTHESIS-111 — Proposed or Open; the question, the alternative and the decision that made the lines -->
 
-# CLAIM-tmpqhazs: The atlas as an account over accounts
+# CLAIM-tmpqhazs: The atlas needs every scope's account first
 
 Two things stop the atlas from being an account as it stands, both stated
 by A65 itself:

@@ -3,7 +3,7 @@ number: 931
 status: Proposed
 formerly:
 - CLAIM-tmp95c61
-title: 'Unset scores keep the loop from locking in'
+title: 'Only authority-free scores stop lock-in'
 statement: >-
   In a simulated judgement–observation loop with action held fixed, what
   keeps it from locking in is a score or weight its own authority does not
@@ -64,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-353 — new; the study this claim grounds on, filed in the same contribution -->
 <!-- inactive-ok-file: TERM-147 — new on staging; the distinction between senses of independent scoring filed for LEAD-121 -->
 
-# CLAIM-931: Unset scores keep the loop from locking in
+# CLAIM-931: Only authority-free scores stop lock-in
 
 ## The claim
 

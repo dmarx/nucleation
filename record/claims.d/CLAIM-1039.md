@@ -3,7 +3,7 @@ number: 1039
 status: Proposed
 formerly:
 - CLAIM-tmp7580l
-title: 'Members separable, perspectives not'
+title: 'One perspective can span several team members'
 statement: >-
   A team's members are necessarily separable as carriers, but its
   perspectives need not be: one perspective can span members and one member
@@ -44,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1133 TERM-148 — Proposed; the claim objected to, the restatement filed beside this one, and neighbours -->
 
-# CLAIM-1039: Members separable, perspectives not
+# CLAIM-1039: One perspective can span several team members
 
 ## The objection
 

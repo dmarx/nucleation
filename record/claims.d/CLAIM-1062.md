@@ -3,7 +3,7 @@ number: 1062
 status: Proposed
 formerly:
 - CLAIM-tmpauu5r
-title: 'One postmortem is the wrong unit'
+title: 'Single postmortems can''t show where blame stops'
 statement: >-
   A single postmortem's causes and action items are the wrong unit for
   testing where a blameless practice's trace stops: Google's practice routes
@@ -44,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-418 — new; the reading the objection draws on and the specimen beside it -->
 <!-- inactive-ok-file: CLAIM-750 CASE-293 CASE-335 CLAIM-905 — Proposed; the claim objected to and the studies whose unit it questions -->
 
-# CLAIM-1062: One postmortem is the wrong unit
+# CLAIM-1062: Single postmortems can't show where blame stops
 
 ## The objection
 

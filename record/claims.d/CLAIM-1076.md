@@ -3,7 +3,7 @@ number: 1076
 status: Proposed
 formerly:
 - CLAIM-tmpcug8h
-title: 'PTSD and context sampling: weak support'
+title: 'Weak, indirect support for PTSD context-sampling'
 statement: >-
   No study found tests whether people with persistent PTSD sample
   disambiguating context less after cued trauma recall than trauma-exposed
@@ -50,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2277 THEORY-2284 ARG-224 CLAIM-1069 — new; the readings this rests on, its argument and its alternative -->
 <!-- inactive-ok-file: LIT-3149 LIT-3178 LIT-3171 LIT-3168 LIT-3146 LIT-3167 — Deferred; studies registered for the same lead, cited unread -->
 
-# CLAIM-1076: PTSD and context sampling: weak support
+# CLAIM-1076: Weak, indirect support for PTSD context-sampling
 
 ## The claim
 

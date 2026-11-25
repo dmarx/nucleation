@@ -3,7 +3,7 @@ number: 1015
 status: Proposed
 formerly:
 - CLAIM-tmp37le7
-title: 'Ecological unity of a self-like organization'
+title: 'A self can be unified without one perspective'
 statement: >-
   A self-like organization need not be unified by convergence on a single
   perspective: it can be unified ecologically, by a historically maintained
@@ -68,7 +68,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-362 — Proposed; the term this claim is stated in, filed with it on 2026-11-22, and the non-domination criterion it cites -->
 
-# CLAIM-1015: Ecological unity of a self-like organization
+# CLAIM-1015: A self can be unified without one perspective
 
 ## The claim
 

@@ -3,7 +3,7 @@ number: 741
 formerly:
 - CLAIM-tmpol7nz
 status: Proposed
-title: 'Respecting a right is a property of policy'
+title: 'Respecting a right depends on policy, not history'
 statement: >-
   Whether an arrangement respects a right that protects a choice is a
   property of its policy over the protected choices, not of any realized
@@ -68,7 +68,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-283 — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: TERM-124 CLAIM-545 TERM-118 — Proposed; the record's dispositional reading of domination, cited with its standing -->
 
-# CLAIM-741: Respecting a right is a property of policy
+# CLAIM-741: Respecting a right depends on policy, not history
 
 ## The claim
 

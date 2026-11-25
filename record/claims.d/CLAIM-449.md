@@ -3,7 +3,7 @@ number: 449
 status: Active
 formerly:
 - CLAIM-tmpf2p3p
-title: 'No frustration, no valence conflates two'
+title: 'Contested rankings aren''t infeasible demands'
 statement: >-
   The potential account of valence's first consequence, no frustration, no
   valence, runs together two relations: perspectives' contested rankings,
@@ -57,7 +57,7 @@ summary: >-
   request to record the exchange.
 ---
 
-# CLAIM-449: No frustration, no valence conflates two
+# CLAIM-449: Contested rankings aren't infeasible demands
 
 ## The objection
 

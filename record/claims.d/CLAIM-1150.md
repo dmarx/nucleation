@@ -3,7 +3,7 @@ number: 1150
 status: Active
 formerly:
 - CLAIM-tmppm30v
-title: 'Role-indexed grants follow competence'
+title: 'Role grants make meaning follow competence'
 statement: >-
   When critics are scored by observed relevance alone and sources' items
   lean by their side and not by their own meanings, a population's shared
@@ -64,7 +64,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 
-# CLAIM-1150: Role-indexed grants follow competence
+# CLAIM-1150: Role grants make meaning follow competence
 
 ## The claim
 

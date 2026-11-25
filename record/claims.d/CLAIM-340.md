@@ -3,7 +3,7 @@ number: 340
 status: Active
 formerly:
 - CLAIM-tmpkss5r
-title: 'Commitment alone is not Regime B'
+title: 'Prior commitment alone doesn''t prevent capture'
 statement: >-
   Scoring operators on predictions committed before the evidence is not by
   itself Regime B: in the linearized operator model the coupling of
@@ -53,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: SYNTHESIS-050 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
-# CLAIM-340: Commitment alone is not Regime B
+# CLAIM-340: Prior commitment alone doesn't prevent capture
 
 ## The claim
 

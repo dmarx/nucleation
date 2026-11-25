@@ -3,7 +3,7 @@ number: 478
 status: Proposed
 formerly:
 - CLAIM-tmpmx2ql
-title: 'Rate differences make structure'
+title: 'Fast-settling relations act as constraints'
 statement: >-
   Rate differences help make structure and not only mark it: where some
   degrees of freedom settle faster than others by more than the rates vary
@@ -136,7 +136,7 @@ bears_on:
 <!-- inactive-ok-file: ARG-125 CLAIM-826 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-1094 — new; LEAD-195's rulings on symmetries, conservation laws and possibility facts, 2026-11-22 -->
 
-# CLAIM-478: Rate differences make structure
+# CLAIM-478: Fast-settling relations act as constraints
 
 ## What version 5 changes
 

@@ -3,7 +3,7 @@ number: 1069
 status: Proposed
 formerly:
 - CLAIM-tmpc7tmg
-title: 'PTSD sampling account gets no support'
+title: 'Later first looks give PTSD sampling no support'
 statement: >-
   A later first look at a background that says nothing about whether a
   trauma cue is dangerous withholds no evidence, so the nearest study gives
@@ -47,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2277 THEORY-2284 — new; the readings it rests on -->
 <!-- inactive-ok-file: LIT-3149 LIT-3178 LIT-3171 LIT-3168 — Deferred; studies registered for the same lead, cited unread -->
 
-# CLAIM-1069: PTSD sampling account gets no support
+# CLAIM-1069: Later first looks give PTSD sampling no support
 
 ## The claim
 

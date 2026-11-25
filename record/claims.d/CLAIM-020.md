@@ -3,7 +3,7 @@ number: 20
 status: Rejected
 formerly:
 - CLAIM-tmp5yknw
-title: 'Quality as preserved constraints'
+title: 'Translation quality is constraints preserved'
 statement: >-
   A translation's quality is the number of formal and semantic constraints
   it preserves
@@ -28,7 +28,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-766 until 2027-02-10 — Unavailable; a premise this entry depends on (`grounds`): no lawful copy was reached, so the grounds it gives are unread; ask again whether this entry still holds -->
 <!-- inactive-ok-file: TERM-001 until 2027-02-10 — Superseded; a premise this entry depends on (`uses`): replaced; this entry is stated in its earlier sense, so ask again whether it holds in the successor's -->
 
-# CLAIM-020: Quality as preserved constraints
+# CLAIM-020: Translation quality is constraints preserved
 
 ## The claim
 

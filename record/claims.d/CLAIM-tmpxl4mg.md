@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Tolerances are not normative constraints'
+title: 'Error budgets can''t license rights violations'
 statement: >-
   A performance tolerance and a normative constraint do different work: an
   error budget permits a specified rate of service variation and allocates
@@ -43,7 +43,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-tmpvluk2 — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
-# CLAIM-tmpxl4mg: Tolerances are not normative constraints
+# CLAIM-tmpxl4mg: Error budgets can't license rights violations
 
 ## The claim
 

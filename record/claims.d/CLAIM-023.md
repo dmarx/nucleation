@@ -3,7 +3,7 @@ number: 23
 status: Active
 formerly:
 - CLAIM-tmp7cc3w
-title: 'The contribution: a testable fidelity account'
+title: 'Contribution: a testable account of preservation'
 statement: >-
   The contribution is not that translation is pragmatic or that speech acts
   change contexts, but a specified, testable account of which communicative
@@ -52,7 +52,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-095 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-784 — Unavailable; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 
-# CLAIM-023: The contribution: a testable fidelity account
+# CLAIM-023: Contribution: a testable account of preservation
 
 ## The claim
 

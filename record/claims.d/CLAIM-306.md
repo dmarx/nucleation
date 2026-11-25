@@ -3,7 +3,7 @@ number: 306
 status: Superseded
 formerly:
 - CLAIM-tmp3ejtf
-title: '"If I can''t find it, it isn''t there"'
+title: 'Failed search acts as negation as failure'
 statement: >-
   Under a deadline, search can establish presence by finding one item but
   absence only by exhausting the collection, so "If I can't find it, it
@@ -52,7 +52,7 @@ summary: >-
 ---
 <!-- ref::uses-file: TERM-055 — h, "the chance a search finds a present item within τ", and the restatement's reading of the rule as "operational unavailability", are stated in TERM-055's sense -->
 
-# CLAIM-306: "If I can't find it, it isn't there"
+# CLAIM-306: Failed search acts as negation as failure
 
 
 **Superseded 2026-10-15 by [CLAIM-312](CLAIM-312.md).** [CLAIM-311](CLAIM-311.md) showed absence

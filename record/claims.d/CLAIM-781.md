@@ -3,7 +3,7 @@ number: 781
 status: Proposed
 formerly:
 - CLAIM-tmpy75jv
-title: 'Rate ratios close levels and space the tree'
+title: 'Rate gaps close levels and set their spacing'
 statement: >-
   Rate differences between levels, where they exceed the rate differences
   within a level, do two jobs in a hierarchy: the ratio of the rate within a
@@ -88,7 +88,7 @@ works:
 <!-- inactive-ok-file: CLAIM-780 CLAIM-770 CLAIM-772 — Proposed; filed in this contribution or the one it builds on -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-157 THEORY-1558 THEORY-1429 CLAIM-762 SYNTHESIS-048 SYNTHESIS-108 CLAIM-755 LIT-1638 — Proposed or Unfetched; the claims and readings this joins -->
 
-# CLAIM-781: Rate ratios close levels and space the tree
+# CLAIM-781: Rate gaps close levels and set their spacing
 
 ## The claim
 

@@ -3,7 +3,7 @@ number: 1078
 status: Proposed
 formerly:
 - CLAIM-tmpddl2d
-title: 'Race reading''s failure does not reach its home'
+title: 'Island-race failure doesn''t refute self-folding'
 statement: >-
   The failure of a race reading of folding islands in a single-target
   constraint-growth system does not tell against it where it was built,
@@ -47,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-389 CLAIM-1090 CLAIM-1205 CLAIM-1204 — new; the study, the reading this objects to and the claims it grants, filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CASE-374 — Proposed; the earlier assembly study, cited as a design to adapt -->
 
-# CLAIM-1078: Race reading's failure does not reach its home
+# CLAIM-1078: Island-race failure doesn't refute self-folding
 
 ## The objection
 

@@ -3,7 +3,7 @@ number: 1184
 status: Proposed
 formerly:
 - CLAIM-tmpvv7fw
-title: 'Standing matters only through harm'
+title: 'Blocking standing wrongs only via the harm'
 statement: >-
   Standing to contest a harm matters only as a means of preventing or
   remedying harm, so defeating it wrongs those affected only through the
@@ -40,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-614 CLAIM-624 CLAIM-723 ARG-055 THEORY-1972 CLAIM-1155 ARG-228 — Proposed or new; the claims objected to, the held form of the wrong, and the reading the reply uses -->
 
-# CLAIM-1184: Standing matters only through harm
+# CLAIM-1184: Blocking standing wrongs only via the harm
 
 ## The objection
 

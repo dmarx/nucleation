@@ -3,7 +3,7 @@ number: 949
 status: Proposed
 formerly:
 - CLAIM-tmpnookt
-title: 'Specification, model-theoretic and typed'
+title: 'Type theory is specification, proof-relevant'
 statement: >-
   The record's account of specification is model-theoretic, a set of tests
   and the versions that pass them all, as an institution pairs sentences
@@ -59,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmptsz1u ARG-tmpcpo8g CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: CLAIM-783 CLAIM-943 TERM-152 — Proposed or Open; the claims, terms and lead this joins -->
 
-# CLAIM-949: Specification, model-theoretic and typed
+# CLAIM-949: Type theory is specification, proof-relevant
 
 ## Two ways to say what a specification is
 

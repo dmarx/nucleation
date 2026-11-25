@@ -3,7 +3,7 @@ number: 76
 status: Proposed
 formerly:
 - CLAIM-tmplwgbk
-title: 'Cross-modal chains expose reconstruction'
+title: 'Captioning chains add motives the source lacked'
 statement: >-
   Cross-modal chains expose reconstruction because media differ in
   expressive affordances, and each interpreter, such as a captioner, may add
@@ -40,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-087 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-076: Cross-modal chains expose reconstruction
+# CLAIM-076: Captioning chains add motives the source lacked
 
 ## The claim
 

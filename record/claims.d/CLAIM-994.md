@@ -3,7 +3,7 @@ number: 994
 status: Proposed
 formerly:
 - CLAIM-tmpv22hv
-title: 'Cue grain meets both clauses of the defeater'
+title: 'The toy study meets the barrier defeater'
 statement: >-
   Read at the grain of the input cue relied on, the toy study meets both
   clauses of the defeater of the claim that a barrier surviving alignment
@@ -47,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-385 CLAIM-993 CLAIM-992 — new; the study, the finding this rests on, and the alternative reading -->
 <!-- inactive-ok-file: CLAIM-263 CLAIM-187 THEORY-116 CLAIM-142 — Proposed; the claims this objects to, the reading behind their step 2, and the probe caution, open -->
 
-# CLAIM-994: Cue grain meets both clauses of the defeater
+# CLAIM-994: The toy study meets the barrier defeater
 
 ## The objection
 

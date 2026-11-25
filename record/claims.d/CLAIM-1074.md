@@ -3,7 +3,7 @@ number: 1074
 status: Proposed
 formerly:
 - CLAIM-tmpcljke
-title: 'Integration is a regenerated whole-level variable'
+title: 'Integration needs a regenerated whole variable'
 statement: >-
   A plurality of pseudo-selves can be ecologically unified without being a
   pseudo-self, and what marks the difference is whether some whole-level
@@ -41,7 +41,7 @@ summary: One of two answers to the owner's question of 2026-11-23 ([QUESTION-521
 
 <!-- inactive-ok-file: CLAIM-327 CLAIM-1015 TERM-166 CLAIM-1153 — Proposed; the premises, the term and the alternative -->
 
-# CLAIM-1074: Integration is a regenerated whole-level variable
+# CLAIM-1074: Integration needs a regenerated whole variable
 
 ## The claim
 

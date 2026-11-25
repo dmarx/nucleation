@@ -3,7 +3,7 @@ number: 644
 status: Proposed
 formerly:
 - CLAIM-tmphi4so
-title: 'Inherited trauma''s route unsettled in humans'
+title: 'No current design can isolate germline trauma'
 statement: >-
   No human study the record has read separates a germline route of inherited
   trauma from the womb, parenting and cultural inheritance, and none of the
@@ -54,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2293 CLAIM-1017 CLAIM-1182 THEORY-2299 CLAIM-1103 — filed by the lead run of 2026-11-23 -->
 
-# CLAIM-644: Inherited trauma's route unsettled in humans
+# CLAIM-644: No current design can isolate germline trauma
 
 ## The claim
 

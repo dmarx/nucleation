@@ -3,7 +3,7 @@ number: 766
 status: Proposed
 formerly:
 - CLAIM-tmpue255
-title: 'Equal sharing: joint motive, conspicuous content'
+title: 'Kids split equally: joint motive, focal solution'
 statement: >-
   In children's equal division of jointly earned spoils, the joint "we"
   supplies the motive to settle the division and the equal split supplies
@@ -44,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-495 THEORY-2111 THEORY-2112 THEORY-2121 THEORY-2108 THEORY-2113 LIT-2909 ARG-123 — Proposed or newly filed; the accounts this claim draws on and the argument for it -->
 
-# CLAIM-766: Equal sharing: joint motive, conspicuous content
+# CLAIM-766: Kids split equally: joint motive, focal solution
 
 ## The claim
 
