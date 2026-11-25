@@ -3,7 +3,10 @@ number: 4
 status: Active
 formerly:
 - CASE-tmp4sjw7
-title: 'Two people, an empty wallet: shared complicity, normative authority, and an underspecified relation'
+title: 'Two people and an empty wallet'
+statement: >-
+  Two people, an empty wallet: shared complicity, normative authority, and
+  an underspecified relation
 version: 2
 history:
 - version: 2
@@ -35,7 +38,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-013 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CASE-004: Two people, an empty wallet: shared complicity, normative authority, and an underspecified relation
+# CASE-004: Two people and an empty wallet
 
 ## The case
 

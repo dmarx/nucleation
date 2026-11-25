@@ -3,7 +3,12 @@ number: 145
 status: Active
 formerly:
 - CASE-tmp5xarm
-title: 'Perspective without collective agency: populations given the same structured norms, categories or interpretive training, some interacting and some acquiring similar dispositions independently, with and without any mechanism for collective decision or coordinated intervention'
+title: 'Perspective without collective agency'
+statement: >-
+  Perspective without collective agency: populations given the same
+  structured norms, categories or interpretive training, some interacting
+  and some acquiring similar dispositions independently, with and without
+  any mechanism for collective decision or coordinated intervention
 version: 5
 history:
 - version: 2
@@ -65,7 +70,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-2330 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-1800 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CASE-145: Perspective without collective agency: populations given the same structured norms, categories or interpretive training, some interacting and some acquiring similar dispositions independently, with and without any mechanism for collective decision or coordinated intervention
+# CASE-145: Perspective without collective agency
 
 ## The design
 

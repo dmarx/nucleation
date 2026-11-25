@@ -3,7 +3,11 @@ number: 134
 status: Active
 formerly:
 - CASE-tmpo48af
-title: 'Northstar''s commander handoff: twelve hours into an incident the commander goes off shift and hands command to a colleague, and the response continues without disruption and with no one continuous through it'
+title: 'Northstar''s commander handoff'
+statement: >-
+  Northstar's commander handoff: twelve hours into an incident the commander
+  goes off shift and hands command to a colleague, and the response
+  continues without disruption and with no one continuous through it
 version: 3
 history:
 - version: 2
@@ -41,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-009 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-355 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CASE-134: Northstar's commander handoff: twelve hours into an incident the commander goes off shift and hands command to a colleague, and the response continues without disruption and with no one continuous through it
+# CASE-134: Northstar's commander handoff
 
 ## The case
 

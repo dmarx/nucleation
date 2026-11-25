@@ -3,7 +3,15 @@ number: 190
 status: Active
 formerly:
 - CASE-tmpz9u5t
-title: 'A kinetic construction of self-maintaining reconstruction: a brief encounter captures a fuel, connector and two-catalyst core into a box that stays invariant under bounded degradation, keeping its copying catalyst regenerated and a grounded teacher and an erasable student within bounded error; with a resource allocator holding reserved minima and a revisable copy rule, the certificate holds for every allocation and rule, because neither the information variables nor the rule feed back into maintenance'
+title: 'Kinetic self-maintaining reconstruction'
+statement: >-
+  A kinetic construction of self-maintaining reconstruction: a brief
+  encounter captures a fuel, connector and two-catalyst core into a box that
+  stays invariant under bounded degradation, keeping its copying catalyst
+  regenerated and a grounded teacher and an erasable student within bounded
+  error; with a resource allocator holding reserved minima and a revisable
+  copy rule, the certificate holds for every allocation and rule, because
+  neither the information variables nor the rule feed back into maintenance
 version: 3
 history:
 - version: 2
@@ -56,7 +64,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: CASE-365 — new, filed under LEAD-093 on 2026-11-22 -->
 
-# CASE-190: A kinetic construction of self-maintaining reconstruction: a brief encounter captures a fuel, connector and two-catalyst core into a box that stays invariant under bounded degradation, keeping its copying catalyst regenerated and a grounded teacher and an erasable student within bounded error; with a resource allocator holding reserved minima and a revisable copy rule, the certificate holds for every allocation and rule, because neither the information variables nor the rule feed back into maintenance
+# CASE-190: Kinetic self-maintaining reconstruction
 
 ## The six-variable model (A17)
 

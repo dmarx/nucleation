@@ -3,7 +3,11 @@ number: 213
 status: Active
 formerly:
 - CASE-tmpt6fm7
-title: 'Provisional dispatch and cancellation of a specialized rescue resource: a capability is mobilized under uncertainty, then released without performing its specialized task'
+title: 'Provisional dispatch and cancellation'
+statement: >-
+  Provisional dispatch and cancellation of a specialized rescue resource: a
+  capability is mobilized under uncertainty, then released without
+  performing its specialized task
 version: 3
 history:
 - version: 2
@@ -47,7 +51,7 @@ summary: >-
   illustrates [CLAIM-559](../claims.d/CLAIM-559.md). The wording is A's; adopting it is the owner's call.
 ---
 
-# CASE-213: Provisional dispatch and cancellation of a specialized rescue resource: a capability is mobilized under uncertainty, then released without performing its specialized task
+# CASE-213: Provisional dispatch and cancellation
 
 ## The case
 

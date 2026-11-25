@@ -3,7 +3,14 @@ number: 192
 status: Proposed
 formerly:
 - CASE-tmp5hhsy
-title: 'Two organizations equally impaired during an emotional episode, one dysregulated in DBT''s sense, its threat perspective''s baseline raised by the episode and decaying slowly, the other in the attentional sense, its task sharing a fixed budget with a competing demand: only the first stays impaired after the episode ends, and lowering activation repairs only the first while removing the competing demand repairs only the second'
+title: 'Two impairments in an emotional episode'
+statement: >-
+  Two organizations equally impaired during an emotional episode, one
+  dysregulated in DBT's sense, its threat perspective's baseline raised by
+  the episode and decaying slowly, the other in the attentional sense, its
+  task sharing a fixed budget with a competing demand: only the first stays
+  impaired after the episode ends, and lowering activation repairs only the
+  first while removing the competing demand repairs only the second
 version: 1
 standing: fictional
 kind: construction
@@ -28,7 +35,7 @@ summary: >-
   the filer's.
 ---
 
-# CASE-192: Two organizations equally impaired during an emotional episode, one dysregulated in DBT's sense, its threat perspective's baseline raised by the episode and decaying slowly, the other in the attentional sense, its task sharing a fixed budget with a competing demand: only the first stays impaired after the episode ends, and lowering activation repairs only the first while removing the competing demand repairs only the second
+# CASE-192: Two impairments in an emotional episode
 
 ## The case
 

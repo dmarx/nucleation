@@ -3,7 +3,12 @@ number: 133
 status: Active
 formerly:
 - CASE-tmpd12oz
-title: 'American party realignment: each major party kept its name and organizational continuity across the twentieth century while its coalition and its stance on civil rights changed, and the change began in state parties, unions and constituencies before it reached national leaders'
+title: 'American party realignment'
+statement: >-
+  American party realignment: each major party kept its name and
+  organizational continuity across the twentieth century while its coalition
+  and its stance on civil rights changed, and the change began in state
+  parties, unions and constituencies before it reached national leaders
 version: 3
 history:
 - version: 2
@@ -46,7 +51,7 @@ reported_in:
 <!-- inactive-ok-file: LIT-1380 LIT-1381 — Unavailable; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-417 CLAIM-423 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CASE-133: American party realignment: each major party kept its name and organizational continuity across the twentieth century while its coalition and its stance on civil rights changed, and the change began in state parties, unions and constituencies before it reached national leaders
+# CASE-133: American party realignment
 
 ## The case
 

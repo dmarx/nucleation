@@ -3,7 +3,11 @@ number: 58
 status: Active
 formerly:
 - CASE-tmp58yn4
-title: 'FactBank''s source-relative factuality labels and Kiesling et al.''s stance-triangle annotation: one stance construct annotated reliably, the interpersonal ones not'
+title: 'FactBank and stance-triangle annotation'
+statement: >-
+  FactBank's source-relative factuality labels and Kiesling et al.'s
+  stance-triangle annotation: one stance construct annotated reliably, the
+  interpersonal ones not
 version: 2
 history:
 - version: 2
@@ -36,7 +40,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-780 — Unavailable; Goffman, unread here, named as the source of the footing construct and not leaned on -->
 
-# CASE-058: FactBank's source-relative factuality labels and Kiesling et al.'s stance-triangle annotation: one stance construct annotated reliably, the interpersonal ones not
+# CASE-058: FactBank and stance-triangle annotation
 
 Found on 2026-10-10 by a search the owner asked for: annotation studies in
 which several judges label stance or footing on the same material and an

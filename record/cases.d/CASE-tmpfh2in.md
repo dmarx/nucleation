@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'The presidential two-term tradition: a precedent from Washington''s retirement after two terms, kept as an expectation and not a rule until Franklin Roosevelt won third and fourth elections in 1940 and 1944, then made a constitutional limit on election to the presidency by the Twenty-Second Amendment, ratified in 1951'
+title: 'The presidential two-term tradition'
+statement: >-
+  The presidential two-term tradition: a precedent from Washington's
+  retirement after two terms, kept as an expectation and not a rule until
+  Franklin Roosevelt won third and fourth elections in 1940 and 1944, then
+  made a constitutional limit on election to the presidency by the
+  Twenty-Second Amendment, ratified in 1951
 version: 1
 standing: documented
 kind: specimen
@@ -26,7 +32,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmpzas6q — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
-# CASE-tmpfh2in: The presidential two-term tradition: a precedent from Washington's retirement after two terms, kept as an expectation and not a rule until Franklin Roosevelt won third and fourth elections in 1940 and 1944, then made a constitutional limit on election to the presidency by the Twenty-Second Amendment, ratified in 1951
+# CASE-tmpfh2in: The presidential two-term tradition
 
 ## The case
 

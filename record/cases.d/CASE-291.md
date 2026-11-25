@@ -3,7 +3,14 @@ number: 291
 formerly:
 - CASE-tmpolqas
 status: Proposed
-title: 'Identical harm, different histories of incapacity: two officials make the same wrongful decision in good faith, both lacking the distinction that would show the wrong, where in one institution the gap was not reasonably foreseeable and in the other a superior removed the review that would have caught it; the claimant''s claim and the officials'' culpability are the same, and responsibility for the mechanism differs'
+title: 'Identical harm, different histories of incapacity'
+statement: >-
+  Identical harm, different histories of incapacity: two officials make the
+  same wrongful decision in good faith, both lacking the distinction that
+  would show the wrong, where in one institution the gap was not reasonably
+  foreseeable and in the other a superior removed the review that would have
+  caught it; the claimant's claim and the officials' culpability are the
+  same, and responsibility for the mechanism differs
 version: 1
 standing: fictional
 kind: thought-experiment
@@ -32,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-114 CLAIM-714 CLAIM-733 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: CASE-229 CLAIM-624 — Proposed; the record's nearest entries, cited with their standing -->
 
-# CASE-291: Identical harm, different histories of incapacity: two officials make the same wrongful decision in good faith, both lacking the distinction that would show the wrong, where in one institution the gap was not reasonably foreseeable and in the other a superior removed the review that would have caught it; the claimant's claim and the officials' culpability are the same, and responsibility for the mechanism differs
+# CASE-291: Identical harm, different histories of incapacity
 
 ## The case
 

@@ -3,7 +3,11 @@ number: 57
 status: Active
 formerly:
 - CASE-tmp4iy8h
-title: 'Swapping the two persons of a dyad: nonreciprocal T/V address is changed by the swap and reciprocal address is not, with a constructed French–English dyad and a three-person teasing round'
+title: 'Swapping the two persons of a dyad'
+statement: >-
+  Swapping the two persons of a dyad: nonreciprocal T/V address is changed
+  by the swap and reciprocal address is not, with a constructed
+  French–English dyad and a three-person teasing round
 version: 2
 history:
 - version: 2
@@ -40,7 +44,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-137 — Proposed; the owner's character thesis, open, and cited as open -->
 <!-- inactive-ok-file: CLAIM-138 — Proposed; the Newman counter and the individuation thesis, cited as open -->
 
-# CASE-057: Swapping the two persons of a dyad: nonreciprocal T/V address is changed by the swap and reciprocal address is not, with a constructed French–English dyad and a three-person teasing round
+# CASE-057: Swapping the two persons of a dyad
 
 Found on 2026-10-10 by a search the owner asked for: a genuine symmetry,
 acting on the situation and not on labels, with anchored identification on

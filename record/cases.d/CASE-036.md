@@ -3,7 +3,9 @@ number: 36
 status: Active
 formerly:
 - CASE-tmpzunvm
-title: 'Northstar emergency governance that sustains itself'
+title: 'Self-sustaining Northstar emergency governance'
+statement: >-
+  Northstar emergency governance that sustains itself
 version: 2
 history:
 - version: 2
@@ -30,7 +32,7 @@ summary: >-
   criteria and keep the restrictions in place (Section 6.1).
 ---
 
-# CASE-036: Northstar emergency governance that sustains itself
+# CASE-036: Self-sustaining Northstar emergency governance
 
 ## The case
 

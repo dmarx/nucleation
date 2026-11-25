@@ -3,7 +3,13 @@ number: 320
 status: Proposed
 formerly:
 - CASE-tmpgfgy2
-title: 'Bourrat''s interventional and coarse-graining individuality measures computed exactly on a minimal ecological-scaffolding model: the variance criterion falls as the scaffold is endogenised, the environment-conditioned coarse-graining error is zero for the patches throughout, and both pass collectives that are not transitions'
+title: 'Bourrat''s individuality measures computed'
+statement: >-
+  Bourrat's interventional and coarse-graining individuality measures
+  computed exactly on a minimal ecological-scaffolding model: the variance
+  criterion falls as the scaffold is endogenised, the
+  environment-conditioned coarse-graining error is zero for the patches
+  throughout, and both pass collectives that are not transitions
 version: 1
 history:
 - version: 1
@@ -50,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1940 — Deferred; Black et al.'s own model, named as not reproduced -->
 <!-- inactive-ok-file: CLAIM-884 — new, filed with this case -->
 
-# CASE-320: Bourrat's interventional and coarse-graining individuality measures computed exactly on a minimal ecological-scaffolding model: the variance criterion falls as the scaffold is endogenised, the environment-conditioned coarse-graining error is zero for the patches throughout, and both pass collectives that are not transitions
+# CASE-320: Bourrat's individuality measures computed
 
 ## What was done
 

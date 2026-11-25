@@ -3,7 +3,11 @@ number: 408
 status: Proposed
 formerly:
 - CASE-tmpk3qls
-title: 'A fact a linear probe reads from a model''s activations almost without error, while the model''s answers and its further inferences use a contrary value: information stored and decodable, neither believed nor delivered'
+title: 'Probe-decodable fact the model contradicts'
+statement: >-
+  A fact a linear probe reads from a model's activations almost without
+  error, while the model's answers and its further inferences use a contrary
+  value: information stored and decodable, neither believed nor delivered
 version: 1
 standing: fictional
 kind: thought-experiment
@@ -30,7 +34,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-371 CASE-357 CASE-271 TERM-079 — Proposed; cited as related or as the criterion applied, not relied on -->
 <!-- inactive-ok-file: CASE-413 CLAIM-1100 CLAIM-1142 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CASE-408: A fact a linear probe reads from a model's activations almost without error, while the model's answers and its further inferences use a contrary value: information stored and decodable, neither believed nor delivered
+# CASE-408: Probe-decodable fact the model contradicts
 
 ## The case
 

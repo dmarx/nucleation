@@ -3,7 +3,15 @@ number: 302
 status: Proposed
 formerly:
 - CASE-tmpb2gly
-title: 'Two mechanisms that merge: in F(a, b) = (a + b, ab), and in a sum of two exponentials with rates u ± v, the predictions depend on the difference v only through v², so the smaller Fisher eigenvalue falls as v² and is zero on the stratum a = b, where the model image has a smooth fold edge, the learning coefficient at a true point on the edge is 3/4 against 1 inside, and a smooth prior pushed into prediction space diverges at the edge as the inverse square root of the distance'
+title: 'Two mechanisms that merge'
+statement: >-
+  Two mechanisms that merge: in F(a, b) = (a + b, ab), and in a sum of two
+  exponentials with rates u ± v, the predictions depend on the difference v
+  only through v², so the smaller Fisher eigenvalue falls as v² and is zero
+  on the stratum a = b, where the model image has a smooth fold edge, the
+  learning coefficient at a true point on the edge is 3/4 against 1 inside,
+  and a smooth prior pushed into prediction space diverges at the edge as
+  the inverse square root of the distance
 version: 1
 standing: stipulated
 kind: construction
@@ -39,7 +47,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-2167 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
 
-# CASE-302: Two mechanisms that merge: in F(a, b) = (a + b, ab), and in a sum of two exponentials with rates u ± v, the predictions depend on the difference v only through v², so the smaller Fisher eigenvalue falls as v² and is zero on the stratum a = b, where the model image has a smooth fold edge, the learning coefficient at a true point on the edge is 3/4 against 1 inside, and a smooth prior pushed into prediction space diverges at the edge as the inverse square root of the distance
+# CASE-302: Two mechanisms that merge
 
 ## The construction
 

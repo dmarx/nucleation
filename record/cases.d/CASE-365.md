@@ -3,7 +3,16 @@ number: 365
 status: Proposed
 formerly:
 - CASE-tmpy4orj
-title: 'A kinetic construction in which nuclei form fast only on a teacher and, once formed, make teachers from material: the loop closes, keeping its teacher with no outside supply of it, only below a teacher turnover set by the teaching rate; withdrawal becomes safe on crossing a separatrix, while nuclei are 0.02 % to 30 % of their maintained number; material supply is still needed; nuclei that only repair teachers cut the supply needed but never to zero; and in finite numbers closure is a lifetime that grows with size'
+title: 'Nuclei that make their own teachers'
+statement: >-
+  A kinetic construction in which nuclei form fast only on a teacher and,
+  once formed, make teachers from material: the loop closes, keeping its
+  teacher with no outside supply of it, only below a teacher turnover set by
+  the teaching rate; withdrawal becomes safe on crossing a separatrix, while
+  nuclei are 0.02 % to 30 % of their maintained number; material supply is
+  still needed; nuclei that only repair teachers cut the supply needed but
+  never to zero; and in finite numbers closure is a lifetime that grows with
+  size
 version: 1
 history:
 - version: 1
@@ -52,7 +61,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-953 CLAIM-952 CLAIM-951 CLAIM-957 CLAIM-956 CLAIM-958 CASE-265 CASE-308 CASE-311 — new or Proposed; the claims filed from this run, and the neighbouring constructions it is compared with -->
 
-# CASE-365: A kinetic construction in which nuclei form fast only on a teacher and, once formed, make teachers from material: the loop closes, keeping its teacher with no outside supply of it, only below a teacher turnover set by the teaching rate; withdrawal becomes safe on crossing a separatrix, while nuclei are 0.02 % to 30 % of their maintained number; material supply is still needed; nuclei that only repair teachers cut the supply needed but never to zero; and in finite numbers closure is a lifetime that grows with size
+# CASE-365: Nuclei that make their own teachers
 
 ## Why this construction
 

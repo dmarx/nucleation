@@ -3,7 +3,11 @@ number: 68
 status: Active
 formerly:
 - CASE-tmpo33kl
-title: 'Risk messages passed down diffusion chains: the evaluative signal kept and amplified while the content decays (Moussaïd, Brighton and Gaissmaier; Jagiello and Hills)'
+title: 'Risk messages passed down diffusion chains'
+statement: >-
+  Risk messages passed down diffusion chains: the evaluative signal kept and
+  amplified while the content decays (Moussaïd, Brighton and Gaissmaier;
+  Jagiello and Hills)
 version: 1
 standing: documented
 kind: reported-study
@@ -29,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-068 CLAIM-090 — Proposed; the claims this case illustrates, open -->
 <!-- inactive-ok-file: LIT-768 — Unavailable; Bartlett, unread here, named as the paradigm the studies follow and not leaned on -->
 
-# CASE-068: Risk messages passed down diffusion chains: the evaluative signal kept and amplified while the content decays (Moussaïd, Brighton and Gaissmaier; Jagiello and Hills)
+# CASE-068: Risk messages passed down diffusion chains
 
 Found on 2026-10-10 by a search the owner asked for: transmission-chain
 studies that measure a stance at each generation, the literature

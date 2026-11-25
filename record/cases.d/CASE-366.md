@@ -3,7 +3,16 @@ number: 366
 status: Proposed
 formerly:
 - CASE-tmpn19tk
-title: 'The three-perspective agenda model, run in numpy: with the latent Condorcet cycle W beats R, R beats S, S beats W held fixed, a chair installs any of the three options by leaving one contest off the agenda, a successive agenda elects the option introduced last, and raising the suppressed contest''s admission probability from nil to certain drops the share of coherent records from one to nil while recorded conflict rises from nil to its maximum, so the recorded outcome and the potential read off it are a function of admission, not of preference'
+title: 'Three-perspective agenda model'
+statement: >-
+  The three-perspective agenda model, run in numpy: with the latent
+  Condorcet cycle W beats R, R beats S, S beats W held fixed, a chair
+  installs any of the three options by leaving one contest off the agenda, a
+  successive agenda elects the option introduced last, and raising the
+  suppressed contest's admission probability from nil to certain drops the
+  share of coherent records from one to nil while recorded conflict rises
+  from nil to its maximum, so the recorded outcome and the potential read
+  off it are a function of admission, not of preference
 version: 1
 standing: documented
 kind: executed-study
@@ -26,7 +35,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-451 — Proposed; the nonintegrability-degree claim whose measure this study computes, cited in prose -->
 <!-- inactive-ok-file: CLAIM-440 — Proposed; the valence claim whose part 3 this study bears on, cited in prose -->
 
-# CASE-366: The three-perspective agenda model, run in numpy: with the latent Condorcet cycle W beats R, R beats S, S beats W held fixed, a chair installs any of the three options by leaving one contest off the agenda, a successive agenda elects the option introduced last, and raising the suppressed contest's admission probability from nil to certain drops the share of coherent records from one to nil while recorded conflict rises from nil to its maximum, so the recorded outcome and the potential read off it are a function of admission, not of preference
+# CASE-366: Three-perspective agenda model
 
 ## The case
 

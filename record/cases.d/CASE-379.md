@@ -3,7 +3,10 @@ number: 379
 status: Proposed
 formerly:
 - CASE-tmp5w2ty
-title: 'Directed decision signature reduces to a symmetric two-step operator for decisions about the input'
+title: 'Directed decision signature reduction'
+statement: >-
+  Directed decision signature reduces to a symmetric two-step operator for
+  decisions about the input
 version: 1
 standing: documented
 kind: executed-study
@@ -23,7 +26,7 @@ line:
 - formal-apparatus
 ---
 
-# CASE-379: Directed decision signature reduces to a symmetric two-step operator for decisions about the input
+# CASE-379: Directed decision signature reduction
 
 ## The case
 

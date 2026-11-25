@@ -3,7 +3,12 @@ number: 109
 status: Active
 formerly:
 - CASE-tmpffqbr
-title: 'Two people with the same demanding commitment, the same output and the same effort in the work, who differ in how their intrapersonal conflict is settled: one escalates it to deliberate override, the other''s processes accommodate one another'
+title: 'Override versus accommodation of inner conflict'
+statement: >-
+  Two people with the same demanding commitment, the same output and the
+  same effort in the work, who differ in how their intrapersonal conflict is
+  settled: one escalates it to deliberate override, the other's processes
+  accommodate one another
 version: 2
 history:
 - version: 2
@@ -41,7 +46,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-358 CLAIM-362 CLAIM-364 — Proposed; the claims and reading the case is set beside, open -->
 
-# CASE-109: Two people with the same demanding commitment, the same output and the same effort in the work, who differ in how their intrapersonal conflict is settled: one escalates it to deliberate override, the other's processes accommodate one another
+# CASE-109: Override versus accommodation of inner conflict
 
 ## The case
 

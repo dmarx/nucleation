@@ -3,7 +3,15 @@ number: 401
 status: Active
 formerly:
 - CASE-tmpd80em
-title: 'Two of the built meaning–influence institutions, an evaluator and an evaluated party, coupled through the evidence and resources the party supplies and the standing the evaluator''s reading confers: with each institution stable alone, the symmetric state of the pair is unstable exactly when (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, and the loop between them captures the evaluator''s reading even when its own conferral is independent of its interpretation'
+title: 'Evaluator and evaluated party, coupled'
+statement: >-
+  Two of the built meaning–influence institutions, an evaluator and an
+  evaluated party, coupled through the evidence and resources the party
+  supplies and the standing the evaluator's reading confers: with each
+  institution stable alone, the symmetric state of the pair is unstable
+  exactly when (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, and the loop between them
+  captures the evaluator's reading even when its own conferral is
+  independent of its interpretation
 version: 2
 history:
 - version: 1
@@ -57,7 +65,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
-# CASE-401: Two of the built meaning–influence institutions, an evaluator and an evaluated party, coupled through the evidence and resources the party supplies and the standing the evaluator's reading confers: with each institution stable alone, the symmetric state of the pair is unstable exactly when (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, and the loop between them captures the evaluator's reading even when its own conferral is independent of its interpretation
+# CASE-401: Evaluator and evaluated party, coupled
 
 ## What was done
 

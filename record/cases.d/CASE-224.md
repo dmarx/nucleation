@@ -3,7 +3,12 @@ number: 224
 status: Proposed
 formerly:
 - CASE-tmpdwka1
-title: 'One hidden mode fixed for a run, producing 1, 0, 0 over three periods in one setting and 0, 0, 1 in the other: the realizable observations of periods 1–2 and 2–3 include (1, 0) and (0, 1), which agree on period 2, and no run realizes their pasting (1, 0, 1)'
+title: 'One hidden mode over three periods'
+statement: >-
+  One hidden mode fixed for a run, producing 1, 0, 0 over three periods in
+  one setting and 0, 0, 1 in the other: the realizable observations of
+  periods 1–2 and 2–3 include (1, 0) and (0, 1), which agree on period 2,
+  and no run realizes their pasting (1, 0, 1)
 version: 1
 standing: stipulated
 kind: construction
@@ -26,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-623 — filed from the same exchange, Proposed -->
 
-# CASE-224: One hidden mode fixed for a run, producing 1, 0, 0 over three periods in one setting and 0, 0, 1 in the other: the realizable observations of periods 1–2 and 2–3 include (1, 0) and (0, 1), which agree on period 2, and no run realizes their pasting (1, 0, 1)
+# CASE-224: One hidden mode over three periods
 
 ## The case
 

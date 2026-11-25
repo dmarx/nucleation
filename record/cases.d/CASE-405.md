@@ -3,7 +3,13 @@ number: 405
 status: Proposed
 formerly:
 - CASE-tmphvbov
-title: 'Corporate sanctions that ended, coded from open sources for whether the firm kept weighing others'' harms after: a monitor''s effect on violations lasts only while it is on site, a sanction-only and a redesigned firm both went on doing the harm by report or allegation, the record''s own case is not yet ripe, and no case holds reputation and benefit fixed'
+title: 'Corporate sanctions that ended'
+statement: >-
+  Corporate sanctions that ended, coded from open sources for whether the
+  firm kept weighing others' harms after: a monitor's effect on violations
+  lasts only while it is on site, a sanction-only and a redesigned firm both
+  went on doing the harm by report or allegation, the record's own case is
+  not yet ripe, and no case holds reputation and benefit fixed
 version: 1
 history:
 - version: 1
@@ -56,7 +62,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-431 CLAIM-432 CLAIM-039 — Proposed; the claims whose test this study runs -->
 <!-- inactive-ok-file: THEORY-2304 CLAIM-1136 CLAIM-1169 CLAIM-1178 CLAIM-1113 — new, Proposed; the account used and the claims filed from this run -->
 
-# CASE-405: Corporate sanctions that ended, coded from open sources for whether the firm kept weighing others' harms after: a monitor's effect on violations lasts only while it is on site, a sanction-only and a redesigned firm both went on doing the harm by report or allegation, the record's own case is not yet ripe, and no case holds reputation and benefit fixed
+# CASE-405: Corporate sanctions that ended
 
 ## What was done
 

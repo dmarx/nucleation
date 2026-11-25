@@ -3,7 +3,14 @@ number: 202
 status: Proposed
 formerly:
 - CASE-tmp2p3i2
-title: 'A proposed study: two small constrained mechanisms that agree under a restricted family of probes and differ internally, probed at rising budgets, to find when they become distinguishable, what the distinguishing operations cost and whether the distinctions survive a change of architecture, with controls that separate finding a difference from making one'
+title: 'Two mechanisms alike under restricted probes'
+statement: >-
+  A proposed study: two small constrained mechanisms that agree under a
+  restricted family of probes and differ internally, probed at rising
+  budgets, to find when they become distinguishable, what the distinguishing
+  operations cost and whether the distinctions survive a change of
+  architecture, with controls that separate finding a difference from making
+  one
 version: 2
 history:
 - version: 2
@@ -45,7 +52,7 @@ bears_on:
 - QUESTION-382
 ---
 
-# CASE-202: A proposed study: two small constrained mechanisms that agree under a restricted family of probes and differ internally, probed at rising budgets, to find when they become distinguishable, what the distinguishing operations cost and whether the distinctions survive a change of architecture, with controls that separate finding a difference from making one
+# CASE-202: Two mechanisms alike under restricted probes
 
 ## The case
 

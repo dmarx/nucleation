@@ -3,7 +3,12 @@ number: 132
 status: Active
 formerly:
 - CASE-tmp8rpr6
-title: 'One complaint, two taxonomies: a report of an unsafe practice is correctly classified both by equipment and by workers'' obligations, the intake procedure needs one primary class, and the class chosen decides whether the report reaches a body that can change working conditions'
+title: 'One complaint, two taxonomies'
+statement: >-
+  One complaint, two taxonomies: a report of an unsafe practice is correctly
+  classified both by equipment and by workers' obligations, the intake
+  procedure needs one primary class, and the class chosen decides whether
+  the report reaches a body that can change working conditions
 version: 2
 history:
 - version: 2
@@ -33,7 +38,7 @@ summary: >-
   when routing becomes an allocation of authority, which the case asks.
 ---
 
-# CASE-132: One complaint, two taxonomies: a report of an unsafe practice is correctly classified both by equipment and by workers' obligations, the intake procedure needs one primary class, and the class chosen decides whether the report reaches a body that can change working conditions
+# CASE-132: One complaint, two taxonomies
 
 ## The case
 

@@ -3,7 +3,11 @@ number: 403
 status: Proposed
 formerly:
 - CASE-tmphawe9
-title: 'A frozen circuit that computes x² exactly on every input and cannot learn: it tracks the function under every change of input that preserves it and gains nothing when the target shifts to x² + c'
+title: 'Frozen circuit computing x²'
+statement: >-
+  A frozen circuit that computes x² exactly on every input and cannot learn:
+  it tracks the function under every change of input that preserves it and
+  gains nothing when the target shifts to x² + c
 version: 1
 standing: fictional
 kind: construction
@@ -34,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-438 CLAIM-754 TERM-131 — Proposed; cited as the criteria applied, not relied on -->
 <!-- inactive-ok-file: CASE-409 CASE-394 CLAIM-1092 CLAIM-1059 CLAIM-1142 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CASE-403: A frozen circuit that computes x² exactly on every input and cannot learn: it tracks the function under every change of input that preserves it and gains nothing when the target shifts to x² + c
+# CASE-403: Frozen circuit computing x²
 
 ## The case
 

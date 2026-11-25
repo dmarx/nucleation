@@ -3,7 +3,12 @@ number: 244
 status: Proposed
 formerly:
 - CASE-tmp10ykm
-title: 'Toxoplasma gondii and the ant-manipulating fungi: parasites whose hosts behave in ways that favour the parasite''s transmission, through the host''s own nervous system or muscles, the rat less averse to cat odour and the ant climbing and clamping before it dies'
+title: 'Toxoplasma gondii and ant-manipulating fungi'
+statement: >-
+  Toxoplasma gondii and the ant-manipulating fungi: parasites whose hosts
+  behave in ways that favour the parasite's transmission, through the host's
+  own nervous system or muscles, the rat less averse to cat odour and the
+  ant climbing and clamping before it dies
 version: 1
 standing: documented
 kind: specimen
@@ -36,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-660 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: LIT-2457 LIT-2380 — Deferred; registered from the same exchange, unread -->
 
-# CASE-244: Toxoplasma gondii and the ant-manipulating fungi: parasites whose hosts behave in ways that favour the parasite's transmission, through the host's own nervous system or muscles, the rat less averse to cat odour and the ant climbing and clamping before it dies
+# CASE-244: Toxoplasma gondii and ant-manipulating fungi
 
 ## The case
 

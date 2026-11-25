@@ -3,7 +3,12 @@ number: 151
 status: Active
 formerly:
 - CASE-tmpuxgzy
-title: 'Wells Fargo''s Community Bank, 2002–2016: unauthorized and unwanted accounts that the board''s own investigation traced to the sales model, the performance management that enforced it and a decentralized structure, while signals of the harm reached people who could not act on them'
+title: 'Wells Fargo''s Community Bank, 2002–2016'
+statement: >-
+  Wells Fargo's Community Bank, 2002–2016: unauthorized and unwanted
+  accounts that the board's own investigation traced to the sales model, the
+  performance management that enforced it and a decentralized structure,
+  while signals of the harm reached people who could not act on them
 version: 1
 standing: documented
 kind: specimen
@@ -36,7 +41,7 @@ reported_in:
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-131 THEORY-139 — Proposed; the accounts and the claim this case bears on, cited as open -->
 
-# CASE-151: Wells Fargo's Community Bank, 2002–2016: unauthorized and unwanted accounts that the board's own investigation traced to the sales model, the performance management that enforced it and a decentralized structure, while signals of the harm reached people who could not act on them
+# CASE-151: Wells Fargo's Community Bank, 2002–2016
 
 ## The case
 

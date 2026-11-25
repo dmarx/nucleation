@@ -3,7 +3,11 @@ number: 210
 status: Proposed
 formerly:
 - CASE-tmpoo2tj
-title: 'Two departments perform no extrications during ordinary operation, but only one can satisfy a deadline-constrained extrication demand under intervention'
+title: 'Two departments, one deadline extrication'
+statement: >-
+  Two departments perform no extrications during ordinary operation, but
+  only one can satisfy a deadline-constrained extrication demand under
+  intervention
 version: 1
 standing: fictional
 kind: construction
@@ -30,7 +34,7 @@ summary: >-
 <!-- inactive-ok-file: SYNTHESIS-009 — Superseded by CLAIM-632, its content returned to CLAIM on 2026-11-08; the synthesis the note of 2026-11-07 points to -->
 <!-- inactive-ok-file: ARG-053 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
-# CASE-210: Two departments perform no extrications during ordinary operation, but only one can satisfy a deadline-constrained extrication demand under intervention
+# CASE-210: Two departments, one deadline extrication
 
 ## The case
 

@@ -3,7 +3,12 @@ number: 299
 status: Active
 formerly:
 - CASE-tmpi16kb
-title: 'Building the record''s staging branch found a requirement no one had stated: at the first promotion, merged by hand, the workflow that was to merge main back into staging never ran, because it ran only after promoting something itself'
+title: 'The staging branch''s unstated requirement'
+statement: >-
+  Building the record's staging branch found a requirement no one had
+  stated: at the first promotion, merged by hand, the workflow that was to
+  merge main back into staging never ran, because it ran only after
+  promoting something itself
 version: 1
 standing: documented
 kind: specimen
@@ -23,7 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-116 CLAIM-784 CLAIM-786 — Proposed; the decision whose application this is, and the claims it illustrates -->
 
-# CASE-299: Building the record's staging branch found a requirement no one had stated: at the first promotion, merged by hand, the workflow that was to merge main back into staging never ran, because it ran only after promoting something itself
+# CASE-299: The staging branch's unstated requirement
 
 ## What happens
 

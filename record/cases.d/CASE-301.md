@@ -3,7 +3,12 @@ number: 301
 status: Proposed
 formerly:
 - CASE-tmp59xy5
-title: 'A two-class Gaussian mixture along a hidden direction, whose same-class cosines vanish with dimension while a readout along the direction stays 84 per cent accurate and PCA recovers the direction only above the BBP threshold'
+title: 'Two-class Gaussian mixture, hidden direction'
+statement: >-
+  A two-class Gaussian mixture along a hidden direction, whose same-class
+  cosines vanish with dimension while a readout along the direction stays 84
+  per cent accurate and PCA recovers the direction only above the BBP
+  threshold
 version: 1
 standing: stipulated
 kind: construction
@@ -34,7 +39,7 @@ draws_on:
 <!-- inactive-ok-file: THEORY-2152 THEORY-2153 THEORY-2148 ARG-135 ARG-143 — Proposed; the readings and arguments of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2186 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CASE-301: A two-class Gaussian mixture along a hidden direction, whose same-class cosines vanish with dimension while a readout along the direction stays 84 per cent accurate and PCA recovers the direction only above the BBP threshold
+# CASE-301: Two-class Gaussian mixture, hidden direction
 
 ## The case
 

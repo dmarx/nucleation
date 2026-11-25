@@ -3,7 +3,9 @@ number: 20
 status: Active
 formerly:
 - CASE-tmpkuw2b
-title: 'E3: the controlled inference harness, dry run only (C5)'
+title: 'E3: inference harness dry run'
+statement: >-
+  E3: the controlled inference harness, dry run only (C5)
 version: 2
 history:
 - version: 2
@@ -33,7 +35,7 @@ bears_on:
 - QUESTION-014
 ---
 
-# CASE-020: E3: the controlled inference harness, dry run only (C5)
+# CASE-020: E3: inference harness dry run
 
 ## The case
 

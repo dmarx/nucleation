@@ -3,7 +3,16 @@ number: 274
 status: Proposed
 formerly:
 - CASE-tmp9201a
-title: 'A proposed study: small transformers trained on randomized subject–relation–object facts, with matched training worlds, measured across query variants, inference budgets, interventions and merges, to find whether apparent forgetting is loss, readdressing, interference or downstream suppression, and whether a model of the network''s response geometry predicts which associations come back under unseen queries, compute and interventions better than feature similarity, activation strength and attribution'
+title: 'Forgetting of synthetic facts in transformers'
+statement: >-
+  A proposed study: small transformers trained on randomized
+  subject–relation–object facts, with matched training worlds, measured
+  across query variants, inference budgets, interventions and merges, to
+  find whether apparent forgetting is loss, readdressing, interference or
+  downstream suppression, and whether a model of the network's response
+  geometry predicts which associations come back under unseen queries,
+  compute and interventions better than feature similarity, activation
+  strength and attribution
 version: 2
 history:
 - version: 2
@@ -43,7 +52,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-271 CLAIM-697 CLAIM-698 THEORY-1888 THEORY-1870 — Proposed or new; the construction and claims the design tests, and the erasure bound it uses -->
 
-# CASE-274: A proposed study: small transformers trained on randomized subject–relation–object facts, with matched training worlds, measured across query variants, inference budgets, interventions and merges, to find whether apparent forgetting is loss, readdressing, interference or downstream suppression, and whether a model of the network's response geometry predicts which associations come back under unseen queries, compute and interventions better than feature similarity, activation strength and attribution
+# CASE-274: Forgetting of synthetic facts in transformers
 
 ## The design
 

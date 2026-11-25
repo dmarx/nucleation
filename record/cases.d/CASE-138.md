@@ -3,7 +3,12 @@ number: 138
 status: Active
 formerly:
 - CASE-tmpv2pte
-title: 'Challenger to Columbia: NASA corrected its launch decisions and its safety organization after 1986, and the Columbia board found in 2003 that related organizational failure mechanisms had recurred, while its lessons-learned system was little used in between'
+title: 'Challenger to Columbia'
+statement: >-
+  Challenger to Columbia: NASA corrected its launch decisions and its safety
+  organization after 1986, and the Columbia board found in 2003 that related
+  organizational failure mechanisms had recurred, while its lessons-learned
+  system was little used in between
 version: 4
 history:
 - version: 2
@@ -63,7 +68,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-715 — Unavailable; works sought and not reached, cited as unread -->
 
-# CASE-138: Challenger to Columbia: NASA corrected its launch decisions and its safety organization after 1986, and the Columbia board found in 2003 that related organizational failure mechanisms had recurred, while its lessons-learned system was little used in between
+# CASE-138: Challenger to Columbia
 
 ## The case
 

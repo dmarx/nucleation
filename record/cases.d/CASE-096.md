@@ -3,8 +3,10 @@ number: 96
 status: Active
 formerly:
 - CASE-tmpjuth9
-title: 'The smoothie: milk makes it better for a while and then worse, unless there
-  is more of everything else'
+title: 'The smoothie'
+statement: >-
+  The smoothie: milk makes it better for a while and then worse, unless
+  there is more of everything else
 version: 1
 standing: stipulated
 kind: thought-experiment
@@ -25,7 +27,7 @@ summary: >-
   taken on the owner's word.
 ---
 
-# CASE-096: The smoothie: milk makes it better for a while and then worse, unless there is more of everything else
+# CASE-096: The smoothie
 
 ## The case
 

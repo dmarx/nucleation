@@ -3,7 +3,11 @@ number: 129
 status: Active
 formerly:
 - CASE-tmp3bisu
-title: 'The alarm that learned and the alarm that was disabled: two systems that once warned too often are both quiet in ordinary operation, and only one responds when a new hazard appears'
+title: 'The alarm that learned and the one disabled'
+statement: >-
+  The alarm that learned and the alarm that was disabled: two systems that
+  once warned too often are both quiet in ordinary operation, and only one
+  responds when a new hazard appears
 version: 2
 history:
 - version: 2
@@ -40,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-122 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: CLAIM-364 ARG-030 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CASE-129: The alarm that learned and the alarm that was disabled: two systems that once warned too often are both quiet in ordinary operation, and only one responds when a new hazard appears
+# CASE-129: The alarm that learned and the one disabled
 
 ## The case
 

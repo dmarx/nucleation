@@ -3,7 +3,10 @@ number: 28
 status: Superseded
 formerly:
 - CASE-tmpsxrqq
-title: 'Stability AI: well-intentioned founders, near-total churn, generic successor'
+title: 'Stability AI''s churn and generic successor'
+statement: >-
+  Stability AI: well-intentioned founders, near-total churn, generic
+  successor
 version: 1
 standing: stipulated
 kind: specimen
@@ -21,7 +24,7 @@ summary: >-
   [CASE-006](CASE-006.md).
 ---
 
-# CASE-028: Stability AI: well-intentioned founders, near-total churn, generic successor
+# CASE-028: Stability AI's churn and generic successor
 
 ## The case
 

@@ -3,7 +3,14 @@ number: 195
 status: Proposed
 formerly:
 - CASE-tmpo70k5
-title: 'Four organizations alike in their members'' flexibility, one member trained in each, crossing that member''s leverage over the consequences colleagues meet with a culture that rewards or penalizes flexible action: only high leverage in a rewarding culture spreads it, low leverage there keeps it in the trained member alone, and a penalizing culture extinguishes it, so organizational flexibility is not the mean of members'' flexibility'
+title: 'Four organizations crossing leverage and culture'
+statement: >-
+  Four organizations alike in their members' flexibility, one member trained
+  in each, crossing that member's leverage over the consequences colleagues
+  meet with a culture that rewards or penalizes flexible action: only high
+  leverage in a rewarding culture spreads it, low leverage there keeps it in
+  the trained member alone, and a penalizing culture extinguishes it, so
+  organizational flexibility is not the mean of members' flexibility
 version: 2
 history:
 - version: 2
@@ -39,7 +46,7 @@ bears_on:
 - QUESTION-117
 ---
 
-# CASE-195: Four organizations alike in their members' flexibility, one member trained in each, crossing that member's leverage over the consequences colleagues meet with a culture that rewards or penalizes flexible action: only high leverage in a rewarding culture spreads it, low leverage there keeps it in the trained member alone, and a penalizing culture extinguishes it, so organizational flexibility is not the mean of members' flexibility
+# CASE-195: Four organizations crossing leverage and culture
 
 ## The case
 

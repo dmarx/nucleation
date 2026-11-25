@@ -3,7 +3,17 @@ number: 346
 status: Active
 formerly:
 - CASE-tmpxmuri
-title: 'The self-protecting sentry run: in a hidden world trained in danger and then safe, a sentry whose authority is rewarded by the apparent success of protection keeps protection on through 400 safe steps wherever it is strong enough, while still protecting when danger returns; restricting inspection turns protection that outlasts a corrected belief into protection that keeps the belief from being corrected; an independent audit shifts the boundary and a protected investigator corrects the belief without ending protection; and a habit of matched memory reproduces every intervention it can receive'
+title: 'The self-protecting sentry, run'
+statement: >-
+  The self-protecting sentry run: in a hidden world trained in danger and
+  then safe, a sentry whose authority is rewarded by the apparent success of
+  protection keeps protection on through 400 safe steps wherever it is
+  strong enough, while still protecting when danger returns; restricting
+  inspection turns protection that outlasts a corrected belief into
+  protection that keeps the belief from being corrected; an independent
+  audit shifts the boundary and a protected investigator corrects the belief
+  without ending protection; and a habit of matched memory reproduces every
+  intervention it can receive
 version: 2
 history:
 - version: 1
@@ -71,7 +81,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-445 CLAIM-446 ARG-025 CLAIM-923 CLAIM-924 — Proposed or new; the claims this run bears on, the grading of evidence it cites, and the claims filed with it -->
 
-# CASE-346: The self-protecting sentry run: in a hidden world trained in danger and then safe, a sentry whose authority is rewarded by the apparent success of protection keeps protection on through 400 safe steps wherever it is strong enough, while still protecting when danger returns; restricting inspection turns protection that outlasts a corrected belief into protection that keeps the belief from being corrected; an independent audit shifts the boundary and a protected investigator corrects the belief without ending protection; and a habit of matched memory reproduces every intervention it can receive
+# CASE-346: The self-protecting sentry, run
 
 ## The study
 

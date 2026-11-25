@@ -3,7 +3,9 @@ number: 44
 status: Active
 formerly:
 - CASE-tmp6ve1p
-title: 'The thermostat: Dennett''s knife edge between agent and device'
+title: 'The thermostat: Dennett''s knife edge'
+statement: >-
+  The thermostat: Dennett's knife edge between agent and device
 version: 1
 standing: stipulated
 kind: thought-experiment
@@ -24,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->
 
-# CASE-044: The thermostat: Dennett's knife edge between agent and device
+# CASE-044: The thermostat: Dennett's knife edge
 
 ## The case
 

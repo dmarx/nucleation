@@ -3,7 +3,15 @@ number: 341
 status: Proposed
 formerly:
 - CASE-tmpnti0m
-title: 'A population of identical linear operators under four influence rules: all differentiate into one specialist per context, a rare one included; with no spare operator a rare specialist made rare recovers, at a rate independent of its share under a multiplicative contribution rule and proportional to it under softmax-gradient routing; with two spare operators a removed specialist is replaced and a suppressed one is shut out, whether or not it kept its competence'
+title: 'Identical operators under four influence rules'
+statement: >-
+  A population of identical linear operators under four influence rules: all
+  differentiate into one specialist per context, a rare one included; with
+  no spare operator a rare specialist made rare recovers, at a rate
+  independent of its share under a multiplicative contribution rule and
+  proportional to it under softmax-gradient routing; with two spare
+  operators a removed specialist is replaced and a suppressed one is shut
+  out, whether or not it kept its competence
 version: 1
 history:
 - version: 1
@@ -61,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-918 CLAIM-919 — new, filed with this case -->
 <!-- inactive-ok-file: CLAIM-885 CLAIM-875 — Proposed, filed 2026-11-22 by LEAD-049 and LEAD-065, cited for comparison; nothing here rests on them -->
 
-# CASE-341: A population of identical linear operators under four influence rules: all differentiate into one specialist per context, a rare one included; with no spare operator a rare specialist made rare recovers, at a rate independent of its share under a multiplicative contribution rule and proportional to it under softmax-gradient routing; with two spare operators a removed specialist is replaced and a suppressed one is shut out, whether or not it kept its competence
+# CASE-341: Identical operators under four influence rules
 
 ## What was done
 

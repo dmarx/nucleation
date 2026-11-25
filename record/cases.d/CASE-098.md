@@ -3,7 +3,11 @@ number: 98
 status: Active
 formerly:
 - CASE-tmp3dw7j
-title: 'A long rivalry between two teams outlives every player, owner and supporter who first carried it: new fans inherit the antagonism, its history and its practices before they know why the game matters'
+title: 'A rivalry that outlives its carriers'
+statement: >-
+  A long rivalry between two teams outlives every player, owner and
+  supporter who first carried it: new fans inherit the antagonism, its
+  history and its practices before they know why the game matters
 version: 5
 history:
 - version: 2
@@ -69,7 +73,7 @@ draws_on:
 
 <!-- inactive-ok-file: CLAIM-157 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-1113 LIT-1125 LIT-1131 LIT-1682 — Proposed, Unavailable or Unfetched; the account and works named in the note of 2026-10-29, cited as open, nothing here rests on them -->
-# CASE-098: A long rivalry between two teams outlives every player, owner and supporter who first carried it: new fans inherit the antagonism, its history and its practices before they know why the game matters
+# CASE-098: A rivalry that outlives its carriers
 
 ## The case
 

@@ -3,7 +3,16 @@ number: 421
 status: Active
 formerly:
 - CASE-tmpz762n
-title: 'A simulated ladder on one sensor channel and a forager that learns its own warning signs: a fail-safe relay acts on an absence and keeps nothing, a tester registers a silent fault and cannot place it, a four-probe diagnoser places it, and only a diagnoser that reviews its record of real fires finds a fault that appears in heat; the forager needs to revise which features count only when the warning sign is a feature it never attended to, and loses its gains when its energy account is replaced by a matched score'
+title: 'Sensor-channel ladder and a learning forager'
+statement: >-
+  A simulated ladder on one sensor channel and a forager that learns its own
+  warning signs: a fail-safe relay acts on an absence and keeps nothing, a
+  tester registers a silent fault and cannot place it, a four-probe
+  diagnoser places it, and only a diagnoser that reviews its record of real
+  fires finds a fault that appears in heat; the forager needs to revise
+  which features count only when the warning sign is a feature it never
+  attended to, and loses its gains when its energy account is replaced by a
+  matched score
 version: 2
 history:
 - version: 1
@@ -69,7 +78,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-238 CASE-239 CASE-240 CASE-241 CASE-242 CLAIM-649 CLAIM-651 THEORY-220 THEORY-1646 CLAIM-920 — Proposed; the cases this run builds and the claims and readings it bears on, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-1141 CLAIM-1110 — new; the claims filed from this run and the companion run of the top rung -->
 
-# CASE-421: A simulated ladder on one sensor channel and a forager that learns its own warning signs: a fail-safe relay acts on an absence and keeps nothing, a tester registers a silent fault and cannot place it, a four-probe diagnoser places it, and only a diagnoser that reviews its record of real fires finds a fault that appears in heat; the forager needs to revise which features count only when the warning sign is a feature it never attended to, and loses its gains when its energy account is replaced by a matched score
+# CASE-421: Sensor-channel ladder and a learning forager
 
 ## What was done
 

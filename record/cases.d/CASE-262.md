@@ -3,7 +3,13 @@ number: 262
 status: Proposed
 formerly:
 - CASE-tmpf71w4
-title: 'A proposed study of assisted learning: learners matched on starting skill practise a skill under an assistant that does the hard step for them or one that does only what they cannot yet do, with unassisted performance measured at intervals and after the assistance is withdrawn, to test whether the capability trap of learning by doing holds for a human skill'
+title: 'Assisted learning: doing versus scaffolding'
+statement: >-
+  A proposed study of assisted learning: learners matched on starting skill
+  practise a skill under an assistant that does the hard step for them or
+  one that does only what they cannot yet do, with unassisted performance
+  measured at intervals and after the assistance is withdrawn, to test
+  whether the capability trap of learning by doing holds for a human skill
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -32,7 +38,7 @@ summary: >-
   wording is A's; adopting it is the owner's call.
 ---
 
-# CASE-262: A proposed study of assisted learning: learners matched on starting skill practise a skill under an assistant that does the hard step for them or one that does only what they cannot yet do, with unassisted performance measured at intervals and after the assistance is withdrawn, to test whether the capability trap of learning by doing holds for a human skill
+# CASE-262: Assisted learning: doing versus scaffolding
 
 ## The case
 

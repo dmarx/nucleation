@@ -3,7 +3,17 @@ number: 364
 status: Proposed
 formerly:
 - CASE-tmprcg71
-title: 'A numpy model of the competence-restriction loop: capacity dynamics where competence is learned by doing and decays with disuse, with reinstatement made a threshold on capacity, in which a restriction justified by a lack of competence causes the very decay that withholds reinstatement, so that with no route to practice or training the bar never lifts; the trap has a recoverability deadline past which even release no longer restores capacity; and it is escaped only by a route strong enough to restore practice or by training that adds capacity directly and so ignites from zero'
+title: 'The competence-restriction loop'
+statement: >-
+  A numpy model of the competence-restriction loop: capacity dynamics where
+  competence is learned by doing and decays with disuse, with reinstatement
+  made a threshold on capacity, in which a restriction justified by a lack
+  of competence causes the very decay that withholds reinstatement, so that
+  with no route to practice or training the bar never lifts; the trap has a
+  recoverability deadline past which even release no longer restores
+  capacity; and it is escaped only by a route strong enough to restore
+  practice or by training that adds capacity directly and so ignites from
+  zero
 version: 1
 history:
 - version: 1
@@ -52,7 +62,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-721 CLAIM-950 — Proposed or new; the claim this study makes demonstrable and the finding it grounds -->
 
-# CASE-364: A numpy model of the competence-restriction loop: capacity dynamics where competence is learned by doing and decays with disuse, with reinstatement made a threshold on capacity, in which a restriction justified by a lack of competence causes the very decay that withholds reinstatement, so that with no route to practice or training the bar never lifts; the trap has a recoverability deadline past which even release no longer restores capacity; and it is escaped only by a route strong enough to restore practice or by training that adds capacity directly and so ignites from zero
+# CASE-364: The competence-restriction loop
 
 ## The model
 

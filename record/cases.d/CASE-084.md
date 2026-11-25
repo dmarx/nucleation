@@ -3,8 +3,10 @@ number: 84
 status: Active
 formerly:
 - CASE-tmp96sdo
-title: 'The perfectly accountable false theory: a community whose record traces
-  every commitment and whose vocabulary leaves out the right explanation'
+title: 'The perfectly accountable false theory'
+statement: >-
+  The perfectly accountable false theory: a community whose record traces
+  every commitment and whose vocabulary leaves out the right explanation
 version: 3
 history:
 - version: 2
@@ -38,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-028 — Proposed or Superseded; cited in the correction of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-181 CLAIM-190 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# CASE-084: The perfectly accountable false theory: a community whose record traces every commitment and whose vocabulary leaves out the right explanation
+# CASE-084: The perfectly accountable false theory
 
 ## The case
 

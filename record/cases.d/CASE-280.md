@@ -3,7 +3,13 @@ number: 280
 status: Proposed
 formerly:
 - CASE-tmpyeqlj
-title: 'Two organizations with the same rules, appeal rights, decision rate and initial corrective capacity, one whose decisions leave that capacity intact and one whose decisions each use some of it up: with the rule revised after T days, the first can still correct its accumulated errors until T = 100, the second only until T = 20'
+title: 'Corrective capacity kept or used up'
+statement: >-
+  Two organizations with the same rules, appeal rights, decision rate and
+  initial corrective capacity, one whose decisions leave that capacity
+  intact and one whose decisions each use some of it up: with the rule
+  revised after T days, the first can still correct its accumulated errors
+  until T = 100, the second only until T = 20
 version: 3
 history:
 - version: 2
@@ -57,7 +63,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-705 CLAIM-701 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-327 CLAIM-423 — Proposed; the timescale claims, cited with their standing -->
 
-# CASE-280: Two organizations with the same rules, appeal rights, decision rate and initial corrective capacity, one whose decisions leave that capacity intact and one whose decisions each use some of it up: with the rule revised after T days, the first can still correct its accumulated errors until T = 100, the second only until T = 20
+# CASE-280: Corrective capacity kept or used up
 
 ## The construction
 

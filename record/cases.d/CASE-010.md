@@ -3,7 +3,9 @@ number: 10
 status: Active
 formerly:
 - CASE-tmpagzmj
-title: 'Henley''s rendering of Villon, "Booze and the blowens cop the lot"'
+title: 'Henley''s Villon: "Booze and the blowens"'
+statement: >-
+  Henley's rendering of Villon, "Booze and the blowens cop the lot"
 version: 2
 history:
 - version: 2
@@ -28,7 +30,7 @@ bears_on:
 - QUESTION-023
 ---
 
-# CASE-010: Henley's rendering of Villon, "Booze and the blowens cop the lot"
+# CASE-010: Henley's Villon: "Booze and the blowens"
 
 ## The case
 

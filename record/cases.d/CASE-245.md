@@ -3,7 +3,13 @@ number: 245
 status: Proposed
 formerly:
 - CASE-tmp3431v
-title: 'A start state with a one-step edge to the target and a one-step edge to an absorbing trap, and a process that takes the target edge when one step remains and the trap edge when more remain: the target is reachable by a path at every budget from 1, and the process reaches it at budget 1 and never at 2 or more'
+title: 'Start state with a target and a trap edge'
+statement: >-
+  A start state with a one-step edge to the target and a one-step edge to an
+  absorbing trap, and a process that takes the target edge when one step
+  remains and the trap edge when more remain: the target is reachable by a
+  path at every budget from 1, and the process reaches it at budget 1 and
+  never at 2 or more
 version: 2
 history:
 - version: 2
@@ -40,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-654 — Proposed; filed in the same follow-up -->
 
-# CASE-245: A start state with a one-step edge to the target and a one-step edge to an absorbing trap, and a process that takes the target edge when one step remains and the trap edge when more remain: the target is reachable by a path at every budget from 1, and the process reaches it at budget 1 and never at 2 or more
+# CASE-245: Start state with a target and a trap edge
 
 ## The case
 

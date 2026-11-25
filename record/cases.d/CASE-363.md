@@ -3,7 +3,17 @@ number: 363
 status: Active
 formerly:
 - CASE-tmpz4n6b
-title: 'The coupled meaning–influence model built with two hypotheses and two specialists and reduced to its mean field: the symmetric state destabilizes when gσ² > 2(1 − φ(1 − ε)), whatever the conferral memory and the meaning rate; the reduced map is exactly a weighted-averaging opinion model with two stubborn sources whose weights relax toward an agreement kernel, equal to smooth bounded confidence on a balanced corpus; and it gives authority chosen by the initial interpretation and switched by the evidence with hysteresis, which fixed-weight and reflected-appraisal models cannot'
+title: 'Meaning–influence model in mean field'
+statement: >-
+  The coupled meaning–influence model built with two hypotheses and two
+  specialists and reduced to its mean field: the symmetric state
+  destabilizes when gσ² > 2(1 − φ(1 − ε)), whatever the conferral memory and
+  the meaning rate; the reduced map is exactly a weighted-averaging opinion
+  model with two stubborn sources whose weights relax toward an agreement
+  kernel, equal to smooth bounded confidence on a balanced corpus; and it
+  gives authority chosen by the initial interpretation and switched by the
+  evidence with hysteresis, which fixed-weight and reflected-appraisal
+  models cannot
 version: 2
 history:
 - version: 1
@@ -57,7 +67,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-317 — Proposed or new; the study LEAD-081 filed today, and the claims this filing made -->
 
-# CASE-363: The coupled meaning–influence model built with two hypotheses and two specialists and reduced to its mean field: the symmetric state destabilizes when gσ² > 2(1 − φ(1 − ε)), whatever the conferral memory and the meaning rate; the reduced map is exactly a weighted-averaging opinion model with two stubborn sources whose weights relax toward an agreement kernel, equal to smooth bounded confidence on a balanced corpus; and it gives authority chosen by the initial interpretation and switched by the evidence with hysteresis, which fixed-weight and reflected-appraisal models cannot
+# CASE-363: Meaning–influence model in mean field
 
 ## What was done
 

@@ -3,7 +3,12 @@ number: 414
 status: Proposed
 formerly:
 - CASE-tmppqt0f
-title: 'A generator that reaches the right answer in about one sample of a hundred, paired with a verifier that checks answers but cannot produce them: under a budget of a few hundred samples the composite answers reliably and neither part does'
+title: 'Weak generator paired with a verifier'
+statement: >-
+  A generator that reaches the right answer in about one sample of a
+  hundred, paired with a verifier that checks answers but cannot produce
+  them: under a budget of a few hundred samples the composite answers
+  reliably and neither part does
 version: 1
 standing: fictional
 kind: thought-experiment
@@ -34,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-697 TERM-079 — Proposed; cited as the criteria applied, not relied on -->
 <!-- inactive-ok-file: CASE-400 CLAIM-1109 CLAIM-1142 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CASE-414: A generator that reaches the right answer in about one sample of a hundred, paired with a verifier that checks answers but cannot produce them: under a budget of a few hundred samples the composite answers reliably and neither part does
+# CASE-414: Weak generator paired with a verifier
 
 ## The case
 

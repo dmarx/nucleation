@@ -3,7 +3,12 @@ number: 211
 status: Proposed
 formerly:
 - CASE-tmpqk2kd
-title: 'Time for peak capacity: two cells that each need one unit of power for one minute need a peak of 2 under a one-minute deadline and a peak of 1 under a two-minute one, unless a coupling between them forbids folding one before the other'
+title: 'Time for peak capacity'
+statement: >-
+  Time for peak capacity: two cells that each need one unit of power for one
+  minute need a peak of 2 under a one-minute deadline and a peak of 1 under
+  a two-minute one, unless a coupling between them forbids folding one
+  before the other
 version: 1
 standing: fictional
 kind: construction
@@ -32,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-210 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 
-# CASE-211: Time for peak capacity: two cells that each need one unit of power for one minute need a peak of 2 under a one-minute deadline and a peak of 1 under a two-minute one, unless a coupling between them forbids folding one before the other
+# CASE-211: Time for peak capacity
 
 ## The case
 

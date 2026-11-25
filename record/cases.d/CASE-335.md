@@ -3,7 +3,13 @@ number: 335
 status: Proposed
 formerly:
 - CASE-tmp1ya4r
-title: 'A pilot coding of 30 public postmortems of software incidents and 10 Chemical Safety Board investigation reports, under a codebook fixed in advance, finds causes naming decisions above the engineering team in 2 of the postmortems and 7 of the reports, and action items above it in 4 and 9; one coder of the same model family as the claim it tests'
+title: 'Postmortems and Chemical Safety Board reports'
+statement: >-
+  A pilot coding of 30 public postmortems of software incidents and 10
+  Chemical Safety Board investigation reports, under a codebook fixed in
+  advance, finds causes naming decisions above the engineering team in 2 of
+  the postmortems and 7 of the reports, and action items above it in 4 and
+  9; one coder of the same model family as the claim it tests
 version: 1
 history:
 - version: 1
@@ -49,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-750 CASE-293 THEORY-2000 CASE-292 CLAIM-719 — Proposed; the claim the pilot tests, the study it pilots, the reading whose format it uses, and the NTSB case -->
 <!-- inactive-ok-file: CLAIM-905 — new; filed with this case -->
 
-# CASE-335: A pilot coding of 30 public postmortems of software incidents and 10 Chemical Safety Board investigation reports, under a codebook fixed in advance, finds causes naming decisions above the engineering team in 2 of the postmortems and 7 of the reports, and action items above it in 4 and 9; one coder of the same model family as the claim it tests
+# CASE-335: Postmortems and Chemical Safety Board reports
 
 ## What was done
 

@@ -3,7 +3,15 @@ number: 294
 status: Proposed
 formerly:
 - CASE-tmphsr99
-title: 'A proposed study: across Pythia checkpoints of one pretraining run, measure the budget each checkpoint needs to acquire held-out synthetic task families by fine-tuning, in-context learning and test-time training, and the success it reaches by sampling and interaction, to see whether later checkpoints are better now but cost more to teach new tasks (overconsolidation), and what exchange rates hold among these ways of spending work'
+title: 'Acquisition budgets across Pythia checkpoints'
+statement: >-
+  A proposed study: across Pythia checkpoints of one pretraining run,
+  measure the budget each checkpoint needs to acquire held-out synthetic
+  task families by fine-tuning, in-context learning and test-time training,
+  and the success it reaches by sampling and interaction, to see whether
+  later checkpoints are better now but cost more to teach new tasks
+  (overconsolidation), and what exchange rates hold among these ways of
+  spending work
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -33,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2006 THEORY-2013 THEORY-2019 THEORY-2025 THEORY-2039 THEORY-2042 THEORY-2049 THEORY-2053 THEORY-2056 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-697 CLAIM-758 THEORY-1353 THEORY-1703 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CASE-294: A proposed study: across Pythia checkpoints of one pretraining run, measure the budget each checkpoint needs to acquire held-out synthetic task families by fine-tuning, in-context learning and test-time training, and the success it reaches by sampling and interaction, to see whether later checkpoints are better now but cost more to teach new tasks (overconsolidation), and what exchange rates hold among these ways of spending work
+# CASE-294: Acquisition budgets across Pythia checkpoints
 
 ## The primary estimand
 

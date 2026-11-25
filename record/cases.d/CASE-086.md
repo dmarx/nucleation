@@ -3,8 +3,10 @@ number: 86
 status: Active
 formerly:
 - CASE-tmpccqh1
-title: 'The retracted finding and its descendants: an experiment fails to replicate
-  years after three conclusions were built on it'
+title: 'The retracted finding and its descendants'
+statement: >-
+  The retracted finding and its descendants: an experiment fails to
+  replicate years after three conclusions were built on it
 version: 2
 history:
 - version: 2
@@ -30,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# CASE-086: The retracted finding and its descendants: an experiment fails to replicate years after three conclusions were built on it
+# CASE-086: The retracted finding and its descendants
 
 ## The case
 

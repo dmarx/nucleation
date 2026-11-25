@@ -3,7 +3,10 @@ number: 47
 status: Active
 formerly:
 - CASE-tmpcm951
-title: 'Gut microbes and the host''s hunger and mood: a lower-level collective that can drive the person'
+title: 'Gut microbes and the host''s hunger and mood'
+statement: >-
+  Gut microbes and the host's hunger and mood: a lower-level collective that
+  can drive the person
 version: 1
 standing: documented
 kind: specimen
@@ -33,7 +36,7 @@ reported_in:
 <!-- inactive-ok-file: NOTE-1773 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-166 — Proposed; the threshold criterion and the owner's claim this case serves, open -->
 
-# CASE-047: Gut microbes and the host's hunger and mood: a lower-level collective that can drive the person
+# CASE-047: Gut microbes and the host's hunger and mood
 
 ## The case
 

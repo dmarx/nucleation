@@ -3,7 +3,16 @@ number: 355
 status: Proposed
 formerly:
 - CASE-tmp9e5vf
-title: 'Three synthetic organizations matched in pursuit of an outcome that grows unpleasant, one denying uptake to a registered evaluation, one accommodating it under a tolerance revised by compensation, one never registering it: perturbing the evaluating process and reading the organization''s record, with outcome, action and wanting held fixed, tells registered from unregistered without reading the registration setting and is not fooled by a decoy that fools the passive reading, while the endorsement relation is told apart only weakly'
+title: 'Registered evaluation in synthetic organizations'
+statement: >-
+  Three synthetic organizations matched in pursuit of an outcome that grows
+  unpleasant, one denying uptake to a registered evaluation, one
+  accommodating it under a tolerance revised by compensation, one never
+  registering it: perturbing the evaluating process and reading the
+  organization's record, with outcome, action and wanting held fixed, tells
+  registered from unregistered without reading the registration setting and
+  is not fooled by a decoy that fools the passive reading, while the
+  endorsement relation is told apart only weakly
 version: 1
 history:
 - version: 1
@@ -51,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-934 — new, filed with this case -->
 
-# CASE-355: Three synthetic organizations matched in pursuit of an outcome that grows unpleasant, one denying uptake to a registered evaluation, one accommodating it under a tolerance revised by compensation, one never registering it: perturbing the evaluating process and reading the organization's record, with outcome, action and wanting held fixed, tells registered from unregistered without reading the registration setting and is not fooled by a decoy that fools the passive reading, while the endorsement relation is told apart only weakly
+# CASE-355: Registered evaluation in synthetic organizations
 
 ## The case
 

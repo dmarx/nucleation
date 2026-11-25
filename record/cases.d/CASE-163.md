@@ -3,7 +3,15 @@ number: 163
 status: Proposed
 formerly:
 - CASE-tmpw6jjd
-title: 'Identifying how governing rules are maintained from diagnostic probes: a predictor fitted under reciprocal production fails under self-dependent production with histories matched, an audit pulse with a short producer interruption identifies which of four known mechanisms applies and predicts withheld interventions, and fitting decay and threshold as well helps after the parameters shift and hurts at nominal ones, within a known catalog and with every probe run on a counterfactual reset'
+title: 'Identifying rule maintenance from probes'
+statement: >-
+  Identifying how governing rules are maintained from diagnostic probes: a
+  predictor fitted under reciprocal production fails under self-dependent
+  production with histories matched, an audit pulse with a short producer
+  interruption identifies which of four known mechanisms applies and
+  predicts withheld interventions, and fitting decay and threshold as well
+  helps after the parameters shift and hurts at nominal ones, within a known
+  catalog and with every probe run on a counterfactual reset
 version: 2
 history:
 - version: 1
@@ -48,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 <!-- inactive-ok-file: CLAIM-427 CLAIM-278 — Superseded, by ARG-025 and ARG-036; the grades of evidence, the objection and the question on probes this case bears on, nothing here rests on them -->
 
-# CASE-163: Identifying how governing rules are maintained from diagnostic probes: a predictor fitted under reciprocal production fails under self-dependent production with histories matched, an audit pulse with a short producer interruption identifies which of four known mechanisms applies and predicts withheld interventions, and fitting decay and threshold as well helps after the parameters shift and hurts at nominal ones, within a known catalog and with every probe run on a counterfactual reset
+# CASE-163: Identifying rule maintenance from probes
 
 ## The case
 

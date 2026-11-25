@@ -3,7 +3,16 @@ number: 316
 status: Proposed
 formerly:
 - CASE-tmp8riid
-title: 'Same oversight, the acting institution''s speed varied, in a queueing model run over twenty seeds: at ten times the speed the share of objectionable actions stopped before they became irreversible fell from 0.99 to 0.40, and to 0.04 when speed also multiplied the volume of actions; precommitted limits brought back about the share they foresaw and automatic suspension up to the share detected in time, each keeping most of the speed''s benefit, while pauses brought it back only by giving up the speed, and not at all when volume rose'
+title: 'Oversight against acting speed, queueing run'
+statement: >-
+  Same oversight, the acting institution's speed varied, in a queueing model
+  run over twenty seeds: at ten times the speed the share of objectionable
+  actions stopped before they became irreversible fell from 0.99 to 0.40,
+  and to 0.04 when speed also multiplied the volume of actions; precommitted
+  limits brought back about the share they foresaw and automatic suspension
+  up to the share detected in time, each keeping most of the speed's
+  benefit, while pauses brought it back only by giving up the speed, and not
+  at all when volume rose
 version: 1
 history:
 - version: 1
@@ -56,7 +65,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-285 CASE-280 CLAIM-710 CLAIM-711 CLAIM-730 CLAIM-706 TERM-125 — Proposed; the design this study carries out and the entries it bears on -->
 
-# CASE-316: Same oversight, the acting institution's speed varied, in a queueing model run over twenty seeds: at ten times the speed the share of objectionable actions stopped before they became irreversible fell from 0.99 to 0.40, and to 0.04 when speed also multiplied the volume of actions; precommitted limits brought back about the share they foresaw and automatic suspension up to the share detected in time, each keeping most of the speed's benefit, while pauses brought it back only by giving up the speed, and not at all when volume rose
+# CASE-316: Oversight against acting speed, queueing run
 
 ## The study
 

@@ -3,7 +3,14 @@ number: 117
 status: Active
 formerly:
 - CASE-tmprbebk
-title: 'Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, grant-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity'
+title: 'Emergent specialization in adaptive operators'
+statement: >-
+  Emergent specialization and recovery in a population of adaptive
+  operators: identically parameterized operators whose contributions,
+  influence and training opportunities co-evolve over a changing task
+  distribution, compared across fixed and learned features, uniform,
+  grant-based and contribution-based influence, coupled and decoupled
+  training exposure, and imposed and endogenous diversity
 version: 7
 history:
 - version: 2
@@ -80,7 +87,7 @@ draws_on:
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-367 THEORY-514 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
-# CASE-117: Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, grant-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity
+# CASE-117: Emergent specialization in adaptive operators
 
 ## The design
 

@@ -3,7 +3,12 @@ number: 177
 status: Proposed
 formerly:
 - CASE-tmpx4tix
-title: 'Hodgkinia in cicadas: one endosymbiont splitting into two to dozens of interdependent lineages, with near-complementary gene sets, idiosyncratic fragmentation in Magicicada, and hosts transmitting up to six times as many cells to keep every lineage'
+title: 'Hodgkinia in cicadas'
+statement: >-
+  Hodgkinia in cicadas: one endosymbiont splitting into two to dozens of
+  interdependent lineages, with near-complementary gene sets, idiosyncratic
+  fragmentation in Magicicada, and hosts transmitting up to six times as
+  many cells to keep every lineage
 version: 3
 history:
 - version: 2
@@ -36,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2231 THEORY-2232 — new, filed for LEAD-138; the readings the note of 2026-11-22 reports -->
 <!-- inactive-ok-file: LIT-1563 LIT-1612 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 
-# CASE-177: Hodgkinia in cicadas: one endosymbiont splitting into two to dozens of interdependent lineages, with near-complementary gene sets, idiosyncratic fragmentation in Magicicada, and hosts transmitting up to six times as many cells to keep every lineage
+# CASE-177: Hodgkinia in cicadas
 
 ## The case
 

@@ -3,7 +3,10 @@ number: 3
 status: Active
 formerly:
 - CASE-tmp32e66
-title: 'Northstar-A and Northstar-B: same policy, same evidence, different escalation authority'
+title: 'Northstar-A and Northstar-B'
+statement: >-
+  Northstar-A and Northstar-B: same policy, same evidence, different
+  escalation authority
 version: 1
 standing: fictional
 kind: thought-experiment
@@ -21,7 +24,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-009 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CASE-003: Northstar-A and Northstar-B: same policy, same evidence, different escalation authority
+# CASE-003: Northstar-A and Northstar-B
 
 ## The case
 

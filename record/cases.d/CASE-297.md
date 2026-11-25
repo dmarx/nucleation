@@ -3,7 +3,14 @@ number: 297
 status: Proposed
 formerly:
 - CASE-tmp6idy5
-title: 'Communities forming subcommunities on Reddit, the owner''s example of learned abstractions becoming operative structures that change later behaviour: specializations nested in broad communities on the owner''s map, college-football team communities organized by inside jokes and rivalries, and joke communities that grew and lapsed; with a proposed longitudinal study of whether a community makes its descendants cheaper to form'
+title: 'Subcommunities forming on Reddit'
+statement: >-
+  Communities forming subcommunities on Reddit, the owner's example of
+  learned abstractions becoming operative structures that change later
+  behaviour: specializations nested in broad communities on the owner's map,
+  college-football team communities organized by inside jokes and rivalries,
+  and joke communities that grew and lapsed; with a proposed longitudinal
+  study of whether a community makes its descendants cheaper to form
 version: 1
 standing: documented
 kind: specimen
@@ -41,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-762 THEORY-2080 THEORY-2070 THEORY-2061 CASE-296 CLAIM-754 — Proposed or Deferred; cited in this filing of 2026-11-19 -->
 
-# CASE-297: Communities forming subcommunities on Reddit, the owner's example of learned abstractions becoming operative structures that change later behaviour: specializations nested in broad communities on the owner's map, college-football team communities organized by inside jokes and rivalries, and joke communities that grew and lapsed; with a proposed longitudinal study of whether a community makes its descendants cheaper to form
+# CASE-297: Subcommunities forming on Reddit
 
 ## The specimen
 

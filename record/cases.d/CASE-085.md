@@ -3,9 +3,11 @@ number: 85
 status: Active
 formerly:
 - CASE-tmp9qlz6
-title: 'The medication in the ambulance: a drug the EMT knew was stocked could not
-  be found during a resuscitation, the paramedic changed the request, and afterwards
-  said "If I can''t find it, it isn''t there"'
+title: 'The medication in the ambulance'
+statement: >-
+  The medication in the ambulance: a drug the EMT knew was stocked could not
+  be found during a resuscitation, the paramedic changed the request, and
+  afterwards said "If I can't find it, it isn't there"
 version: 2
 history:
 - version: 2
@@ -33,7 +35,7 @@ bears_on:
 - QUESTION-097
 ---
 
-# CASE-085: The medication in the ambulance: a drug the EMT knew was stocked could not be found during a resuscitation, the paramedic changed the request, and afterwards said "If I can't find it, it isn't there"
+# CASE-085: The medication in the ambulance
 
 ## The case
 

@@ -3,7 +3,16 @@ number: 374
 status: Proposed
 formerly:
 - CASE-tmpndpz3
-title: 'A stochastic assembly Markov chain with two alternative seams, a shared body and two kinetic traps, run and scored by committor: each seam alone raises the chance of completing from 0.19 to 0.81 while both seams together lower it to 0.04, the committor ranks a one-bond nucleus above the four-bond misfolded state, targeted stabilisation of one seam is productive and of both a trap, and reallocating a fixed component stock between the seams slides the realised form from one fold to the other with the attainable set unchanged'
+title: 'Assembly chain with two alternative seams'
+statement: >-
+  A stochastic assembly Markov chain with two alternative seams, a shared
+  body and two kinetic traps, run and scored by committor: each seam alone
+  raises the chance of completing from 0.19 to 0.81 while both seams
+  together lower it to 0.04, the committor ranks a one-bond nucleus above
+  the four-bond misfolded state, targeted stabilisation of one seam is
+  productive and of both a trap, and reallocating a fixed component stock
+  between the seams slides the realised form from one fold to the other with
+  the attainable set unchanged
 version: 1
 history:
 - version: 1
@@ -60,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-219 CASE-220 — Proposed; the proposed studies this executed study realises and extends -->
 <!-- inactive-ok-file: CLAIM-969 — new; the claim grounded in this study, filed with it -->
 
-# CASE-374: A stochastic assembly Markov chain with two alternative seams, a shared body and two kinetic traps, run and scored by committor: each seam alone raises the chance of completing from 0.19 to 0.81 while both seams together lower it to 0.04, the committor ranks a one-bond nucleus above the four-bond misfolded state, targeted stabilisation of one seam is productive and of both a trap, and reallocating a fixed component stock between the seams slides the realised form from one fold to the other with the attainable set unchanged
+# CASE-374: Assembly chain with two alternative seams
 
 ## The model
 

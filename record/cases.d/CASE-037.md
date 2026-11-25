@@ -3,7 +3,10 @@ number: 37
 status: Active
 formerly:
 - CASE-tmpg6rwh
-title: 'The parity triangle with uniform weights: a no-signalling, strongly contextual model beside a family of point sections that glues'
+title: 'The parity triangle with uniform weights'
+statement: >-
+  The parity triangle with uniform weights: a no-signalling, strongly
+  contextual model beside a family of point sections that glues
 version: 2
 history:
 - version: 2
@@ -36,7 +39,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: CLAIM-037 CLAIM-105 CLAIM-009 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
-# CASE-037: The parity triangle with uniform weights: a no-signalling, strongly contextual model beside a family of point sections that glues
+# CASE-037: The parity triangle with uniform weights
 
 ## The case
 

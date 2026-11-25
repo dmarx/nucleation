@@ -3,7 +3,12 @@ number: 235
 status: Proposed
 formerly:
 - CASE-tmp40vka
-title: 'Keeping a character consistent in image generation, by training a character LoRA once or by conditioning on reference images at every generation: a 2026 practitioner thread on MiniMax H3, and the earlier generations of the same choice'
+title: 'Character consistency: LoRA or references'
+statement: >-
+  Keeping a character consistent in image generation, by training a
+  character LoRA once or by conditioning on reference images at every
+  generation: a 2026 practitioner thread on MiniMax H3, and the earlier
+  generations of the same choice
 version: 2
 history:
 - version: 2
@@ -50,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-331 — Proposed; the reading of inference-aware scaling the case is set against -->
 <!-- inactive-ok-file: CASE-234 — Proposed; the study proposed with this case -->
 
-# CASE-235: Keeping a character consistent in image generation, by training a character LoRA once or by conditioning on reference images at every generation: a 2026 practitioner thread on MiniMax H3, and the earlier generations of the same choice
+# CASE-235: Character consistency: LoRA or references
 
 ## The case, as the owner gave it
 

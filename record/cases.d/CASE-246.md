@@ -3,7 +3,13 @@ number: 246
 status: Proposed
 formerly:
 - CASE-tmp34j9u
-title: 'A toy of exit-driven drift: an organization that sets a practice each period by revenue less a penalty for complaints from its present users, where the practice harms one group, whose members complain and leave at a rate rising with it, raises the practice from 0.05 to 0.223 as that group''s share falls from 0.30 to 0.18, with no act against complaint'
+title: 'Exit-driven drift toy'
+statement: >-
+  A toy of exit-driven drift: an organization that sets a practice each
+  period by revenue less a penalty for complaints from its present users,
+  where the practice harms one group, whose members complain and leave at a
+  rate rising with it, raises the practice from 0.05 to 0.223 as that
+  group's share falls from 0.30 to 0.18, with no act against complaint
 version: 1
 standing: stipulated
 kind: construction
@@ -31,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-652 — Proposed; filed from the exchange of 2026-11-11 and its follow-up -->
 
-# CASE-246: A toy of exit-driven drift: an organization that sets a practice each period by revenue less a penalty for complaints from its present users, where the practice harms one group, whose members complain and leave at a rate rising with it, raises the practice from 0.05 to 0.223 as that group's share falls from 0.30 to 0.18, with no act against complaint
+# CASE-246: Exit-driven drift toy
 
 ## The model
 

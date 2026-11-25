@@ -3,7 +3,16 @@ number: 380
 status: Proposed
 formerly:
 - CASE-tmpwj1k2
-title: 'An executive, a reviewer and an enforcer in two arrangements that differ only in whether the executive''s signal gates the execution of corrective orders, every probe enumerated and a payoff grid solved: with fixed policies the observable traces part only on an order against the executive that it withholds, and first at execution; with the order held rather than withheld, timing parts first and the outcome only past the deadline; with anticipation the first difference moves to the ruling and then to the executive''s own act'
+title: 'Executive, reviewer and enforcer arrangements'
+statement: >-
+  An executive, a reviewer and an enforcer in two arrangements that differ
+  only in whether the executive's signal gates the execution of corrective
+  orders, every probe enumerated and a payoff grid solved: with fixed
+  policies the observable traces part only on an order against the executive
+  that it withholds, and first at execution; with the order held rather than
+  withheld, timing parts first and the outcome only past the deadline; with
+  anticipation the first difference moves to the ruling and then to the
+  executive's own act
 version: 1
 history:
 - version: 1
@@ -49,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-978 CLAIM-979 — new; the two alternative readings filed from this case for LEAD-168 -->
 <!-- inactive-ok-file: CASE-316 CLAIM-879 — Proposed; LEAD-068's queueing study, cited for the timing margin -->
 
-# CASE-380: An executive, a reviewer and an enforcer in two arrangements that differ only in whether the executive's signal gates the execution of corrective orders, every probe enumerated and a payoff grid solved: with fixed policies the observable traces part only on an order against the executive that it withholds, and first at execution; with the order held rather than withheld, timing parts first and the outcome only past the deadline; with anticipation the first difference moves to the ruling and then to the executive's own act
+# CASE-380: Executive, reviewer and enforcer arrangements
 
 ## The case
 

@@ -3,7 +3,12 @@ number: 141
 status: Active
 formerly:
 - CASE-tmpa0raf
-title: 'The label that confirms itself: a pupil wrongly labelled disruptive is watched more closely, ordinary conduct is read as misconduct, the pupil''s frustration produces real misconduct, and the label looks justified in hindsight'
+title: 'The label that confirms itself'
+statement: >-
+  The label that confirms itself: a pupil wrongly labelled disruptive is
+  watched more closely, ordinary conduct is read as misconduct, the pupil's
+  frustration produces real misconduct, and the label looks justified in
+  hindsight
 version: 2
 history:
 - version: 2
@@ -32,7 +37,7 @@ summary: >-
   consequence of stigmatizing labels."
 ---
 
-# CASE-141: The label that confirms itself: a pupil wrongly labelled disruptive is watched more closely, ordinary conduct is read as misconduct, the pupil's frustration produces real misconduct, and the label looks justified in hindsight
+# CASE-141: The label that confirms itself
 
 ## The case
 

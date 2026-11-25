@@ -3,9 +3,11 @@ number: 90
 status: Active
 formerly:
 - CASE-tmpohd6m
-title: 'The rehabilitated hypothesis: an objection that displaced a hypothesis turns
-  out to rest on a faulty measurement, and the hypothesis can be reopened because
-  its defeat was recorded'
+title: 'The rehabilitated hypothesis'
+statement: >-
+  The rehabilitated hypothesis: an objection that displaced a hypothesis
+  turns out to rest on a faulty measurement, and the hypothesis can be
+  reopened because its defeat was recorded
 version: 2
 history:
 - version: 2
@@ -31,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-184 CLAIM-189 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# CASE-090: The rehabilitated hypothesis: an objection that displaced a hypothesis turns out to rest on a faulty measurement, and the hypothesis can be reopened because its defeat was recorded
+# CASE-090: The rehabilitated hypothesis
 
 ## The case
 

@@ -3,7 +3,14 @@ number: 288
 formerly:
 - CASE-tmpm0rpn
 status: Proposed
-title: 'Three hospitals with the same output, budget, staff competences and commitments, differing only in how extra work is obtained: negotiated cooperation, a competition for scarce advancement that all entrants pay for, and an appeal to professional duty; the second and third both make withholding labour individually costly while the institution takes the benefit, by incentive in one and by conscience in the other'
+title: 'Three hospitals obtaining extra work'
+statement: >-
+  Three hospitals with the same output, budget, staff competences and
+  commitments, differing only in how extra work is obtained: negotiated
+  cooperation, a competition for scarce advancement that all entrants pay
+  for, and an appeal to professional duty; the second and third both make
+  withholding labour individually costly while the institution takes the
+  benefit, by incentive in one and by conscience in the other
 version: 2
 history:
 - version: 2
@@ -43,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-728 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-264 TERM-123 — Proposed; the record's nearest entries, cited with their standing -->
 
-# CASE-288: Three hospitals with the same output, budget, staff competences and commitments, differing only in how extra work is obtained: negotiated cooperation, a competition for scarce advancement that all entrants pay for, and an appeal to professional duty; the second and third both make withholding labour individually costly while the institution takes the benefit, by incentive in one and by conscience in the other
+# CASE-288: Three hospitals obtaining extra work
 
 ## The case
 

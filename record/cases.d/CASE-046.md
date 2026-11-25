@@ -3,7 +3,9 @@ number: 46
 status: Active
 formerly:
 - CASE-tmpbv3ts
-title: 'A partner-dancing couple, lindy hop, tango or salsa, while they dance'
+title: 'A partner-dancing couple'
+statement: >-
+  A partner-dancing couple, lindy hop, tango or salsa, while they dance
 version: 2
 history:
 - version: 2
@@ -32,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-902 — Unavailable; Kelso et al. 1984, named as the source of the signature, unread and not leaned on -->
 
-# CASE-046: A partner-dancing couple, lindy hop, tango or salsa, while they dance
+# CASE-046: A partner-dancing couple
 
 ## The case
 

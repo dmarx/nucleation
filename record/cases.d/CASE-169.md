@@ -3,7 +3,13 @@ number: 169
 status: Active
 formerly:
 - CASE-tmpelq9w
-title: 'The Chagossians, 1965 to now: a people expelled from the Chagos Archipelago between 1967 and 1973 for the Diego Garcia base, dispersed to Mauritius, the Seychelles and Britain, whose practices, kinship and political organization continued or arose in exile while sovereignty over the islands was settled between states'
+title: 'The Chagossians, 1965 to now'
+statement: >-
+  The Chagossians, 1965 to now: a people expelled from the Chagos
+  Archipelago between 1967 and 1973 for the Diego Garcia base, dispersed to
+  Mauritius, the Seychelles and Britain, whose practices, kinship and
+  political organization continued or arose in exile while sovereignty over
+  the islands was settled between states
 version: 4
 history:
 - version: 2
@@ -62,7 +68,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-1598 LIT-1620 — Unavailable since 2026-10-29; Jeffery's works, sources of particulars kept as the exchange's, cited in the note of that date as not reached -->
 <!-- inactive-ok-file: LIT-1832 — Unfetched since 2026-10-29; Bancoult No 1, cited in the note of that date as not read, nothing here rests on it -->
 
-# CASE-169: The Chagossians, 1965 to now: a people expelled from the Chagos Archipelago between 1967 and 1973 for the Diego Garcia base, dispersed to Mauritius, the Seychelles and Britain, whose practices, kinship and political organization continued or arose in exile while sovereignty over the islands was settled between states
+# CASE-169: The Chagossians, 1965 to now
 
 ## The case
 

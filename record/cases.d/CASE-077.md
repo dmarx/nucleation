@@ -3,7 +3,11 @@ number: 77
 status: Active
 formerly:
 - CASE-tmp3djxc
-title: 'The reciprocal pair: two processes that grant influence only to each other under recursive delegation, so that each one''s authority returns to it through the other'
+title: 'The reciprocal pair under recursive delegation'
+statement: >-
+  The reciprocal pair: two processes that grant influence only to each other
+  under recursive delegation, so that each one's authority returns to it
+  through the other
 version: 2
 history:
 - version: 2
@@ -31,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
-# CASE-077: The reciprocal pair: two processes that grant influence only to each other under recursive delegation, so that each one's authority returns to it through the other
+# CASE-077: The reciprocal pair under recursive delegation
 
 ## The case
 

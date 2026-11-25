@@ -3,7 +3,15 @@ number: 383
 status: Proposed
 formerly:
 - CASE-tmprtp09
-title: 'The proposed study of corrigible resolve and entrenchment, its agents built as a two-channel choice task and ablated under matched information: a reset of the slow structure separates resolve from inertia but not from imposed protection, a reset the agent is left to recover from separates it from imposed protection, ablating the timescale or yoking the values misreads resolve as inertia, and only revision under a defeater as the commitment ages separates resolve from entrenchment'
+title: 'Corrigible resolve and entrenchment, ablated'
+statement: >-
+  The proposed study of corrigible resolve and entrenchment, its agents
+  built as a two-channel choice task and ablated under matched information:
+  a reset of the slow structure separates resolve from inertia but not from
+  imposed protection, a reset the agent is left to recover from separates it
+  from imposed protection, ablating the timescale or yoking the values
+  misreads resolve as inertia, and only revision under a defeater as the
+  commitment ages separates resolve from entrenchment
 version: 1
 history:
 - version: 1
@@ -48,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-982 — new, the claim this study grounds, filed in the same batch -->
 
-# CASE-383: The proposed study of corrigible resolve and entrenchment, its agents built as a two-channel choice task and ablated under matched information: a reset of the slow structure separates resolve from inertia but not from imposed protection, a reset the agent is left to recover from separates it from imposed protection, ablating the timescale or yoking the values misreads resolve as inertia, and only revision under a defeater as the commitment ages separates resolve from entrenchment
+# CASE-383: Corrigible resolve and entrenchment, ablated
 
 ## What was done
 

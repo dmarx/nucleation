@@ -3,7 +3,14 @@ number: 338
 status: Proposed
 formerly:
 - CASE-tmpkghqb
-title: 'Audited governance against a router matched on audits, delay and cost, built in numpy: frozen low-rank specialist denoisers after a reversal of expertise, with one arm each for cycles, no common scale, capture, bandit feedback and continued training; governance wins only against a router weaker in a stated respect, and the best router matches or beats the best governance in every arm'
+title: 'Audited governance vs a matched router'
+statement: >-
+  Audited governance against a router matched on audits, delay and cost,
+  built in numpy: frozen low-rank specialist denoisers after a reversal of
+  expertise, with one arm each for cycles, no common scale, capture, bandit
+  feedback and continued training; governance wins only against a router
+  weaker in a stated respect, and the best router matches or beats the best
+  governance in every arm
 version: 1
 history:
 - version: 1
@@ -47,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-906 — new; the claim this run grounds, cited for the owner's reading of the defeat condition -->
 
-# CASE-338: Audited governance against a router matched on audits, delay and cost, built in numpy: frozen low-rank specialist denoisers after a reversal of expertise, with one arm each for cycles, no common scale, capture, bandit feedback and continued training; governance wins only against a router weaker in a stated respect, and the best router matches or beats the best governance in every arm
+# CASE-338: Audited governance vs a matched router
 
 ## What was done
 

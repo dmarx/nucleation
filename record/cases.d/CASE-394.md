@@ -3,7 +3,11 @@ number: 394
 status: Proposed
 formerly:
 - CASE-tmp55ptq
-title: 'A learner that has found f(x) = x² but computes it with a noisy multiplier, so its values on large inputs are often wrong while it adapts to x² + c from two examples: understanding without reliably correct output'
+title: 'Right function, noisy multiplier'
+statement: >-
+  A learner that has found f(x) = x² but computes it with a noisy
+  multiplier, so its values on large inputs are often wrong while it adapts
+  to x² + c from two examples: understanding without reliably correct output
 version: 1
 standing: fictional
 kind: construction
@@ -32,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-438 CLAIM-754 — Proposed; cited as the criteria applied, not relied on -->
 <!-- inactive-ok-file: CASE-409 CLAIM-1092 CLAIM-1059 CLAIM-1142 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CASE-394: A learner that has found f(x) = x² but computes it with a noisy multiplier, so its values on large inputs are often wrong while it adapts to x² + c from two examples: understanding without reliably correct output
+# CASE-394: Right function, noisy multiplier
 
 ## The case
 

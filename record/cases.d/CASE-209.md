@@ -3,7 +3,12 @@ number: 209
 status: Proposed
 formerly:
 - CASE-tmpnqvjs
-title: 'A repertoire broader than simultaneous capacity: a rescue squad that can serve either of two distant incidents cannot serve both at once, and serves both in turn only when the second''s deadline leaves time for the first job and the travel between them'
+title: 'A repertoire broader than simultaneous capacity'
+statement: >-
+  A repertoire broader than simultaneous capacity: a rescue squad that can
+  serve either of two distant incidents cannot serve both at once, and
+  serves both in turn only when the second's deadline leaves time for the
+  first job and the travel between them
 version: 1
 standing: fictional
 kind: construction
@@ -34,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-211 TERM-113 — Proposed; A's proposals of 2026-11-04, a case filed beside this one, and a held term, cited as filed -->
 
-# CASE-209: A repertoire broader than simultaneous capacity: a rescue squad that can serve either of two distant incidents cannot serve both at once, and serves both in turn only when the second's deadline leaves time for the first job and the travel between them
+# CASE-209: A repertoire broader than simultaneous capacity
 
 ## The case
 

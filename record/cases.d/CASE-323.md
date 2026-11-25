@@ -3,7 +3,13 @@ number: 323
 status: Proposed
 formerly:
 - CASE-tmp413kq
-title: 'A proposed study: members of a group are asked to give to its present cause and to a fund for its members fifty years on, while the self''s extent toward the group is varied by salience and measured apart from concern for the group''s welfare, and a legacy prime is crossed with whether the gift is credited or known to no one'
+title: 'Giving to a group''s cause and its future fund'
+statement: >-
+  A proposed study: members of a group are asked to give to its present
+  cause and to a fund for its members fifty years on, while the self's
+  extent toward the group is varied by salience and measured apart from
+  concern for the group's welfare, and a legacy prime is crossed with
+  whether the gift is credited or known to no one
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -47,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2212 LIT-3083 LIT-3084 — new; the reading and works registered by the LEAD-062 search -->
 <!-- inactive-ok-file: CLAIM-491 — Proposed; the owner's thesis the design tests -->
 
-# CASE-323: A proposed study: members of a group are asked to give to its present cause and to a fund for its members fifty years on, while the self's extent toward the group is varied by salience and measured apart from concern for the group's welfare, and a legacy prime is crossed with whether the gift is credited or known to no one
+# CASE-323: Giving to a group's cause and its future fund
 
 ## The case
 

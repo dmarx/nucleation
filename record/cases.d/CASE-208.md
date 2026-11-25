@@ -3,7 +3,12 @@ number: 208
 status: Proposed
 formerly:
 - CASE-tmpjldzw
-title: 'A prestressed Kresling stack: reordering the cells'' energy barriers from outside opens the 8 of 56 transitions between stable states that the barrier order blocked, while the 16 that pass through other stable states are not made direct'
+title: 'A prestressed Kresling stack'
+statement: >-
+  A prestressed Kresling stack: reordering the cells' energy barriers from
+  outside opens the 8 of 56 transitions between stable states that the
+  barrier order blocked, while the 16 that pass through other stable states
+  are not made direct
 version: 1
 standing: documented
 kind: reported-study
@@ -37,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-198 — Proposed; the entries filed beside it on 2026-11-05, cited as filed, nothing here rests on their being settled -->
 
-# CASE-208: A prestressed Kresling stack: reordering the cells' energy barriers from outside opens the 8 of 56 transitions between stable states that the barrier order blocked, while the 16 that pass through other stable states are not made direct
+# CASE-208: A prestressed Kresling stack
 
 ## The case
 

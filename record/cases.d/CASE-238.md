@@ -3,7 +3,11 @@ number: 238
 status: Proposed
 formerly:
 - CASE-tmp4gw3m
-title: 'A fail-safe relay: a valve held closed only while current energizes a relay opens by spring when the current stops, so an absence of input has an immediate consequence with no test, stored expectation or timeout'
+title: 'The fail-safe relay'
+statement: >-
+  A fail-safe relay: a valve held closed only while current energizes a
+  relay opens by spring when the current stops, so an absence of input has
+  an immediate consequence with no test, stored expectation or timeout
 version: 2
 history:
 - version: 2
@@ -40,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-651 CASE-243 CASE-240 — filed from the same exchange, Proposed -->
 
-# CASE-238: A fail-safe relay: a valve held closed only while current energizes a relay opens by spring when the current stops, so an absence of input has an immediate consequence with no test, stored expectation or timeout
+# CASE-238: The fail-safe relay
 
 ## The case
 

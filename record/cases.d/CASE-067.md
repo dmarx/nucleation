@@ -3,7 +3,10 @@ number: 67
 status: Active
 formerly:
 - CASE-tmpnuxjp
-title: 'The reception of Deborah Smith''s The Vegetarian: the Booker judges'' task, the Korean critics'' task, and one critic''s two verdicts'
+title: 'The reception of Smith''s The Vegetarian'
+statement: >-
+  The reception of Deborah Smith's The Vegetarian: the Booker judges' task,
+  the Korean critics' task, and one critic's two verdicts
 version: 1
 standing: documented
 kind: specimen
@@ -28,7 +31,7 @@ illustrates:
 <!-- inactive-ok-file: CLAIM-240 — Proposed; the reply this case illustrates, open, and cited as open -->
 <!-- inactive-ok-file: CLAIM-244 CLAIM-128 — Proposed; the objection the claim answers and the relativity thesis it reconciles, cited as open -->
 
-# CASE-067: The reception of Deborah Smith's The Vegetarian: the Booker judges' task, the Korean critics' task, and one critic's two verdicts
+# CASE-067: The reception of Smith's The Vegetarian
 
 Found on 2026-10-10 by a search the owner asked for: a documented reception
 split over one translation, where each side's implicit task can be read

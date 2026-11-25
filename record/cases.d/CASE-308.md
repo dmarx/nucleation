@@ -3,7 +3,14 @@ number: 308
 status: Proposed
 formerly:
 - CASE-tmplsvee
-title: 'A small assembly model whose scaffold forms and holds a nucleus, withdrawn for good at chosen states: the drop in the chance of completing falls to under 0.05 two units into eight only where the bound units hold the nucleus and it speeds their binding, stays at 0.10 or more to the last unit where they do not hold it, and under withdrawal at a clock time falls to zero in every case as runs finish'
+title: 'Scaffold withdrawn from a small assembly model'
+statement: >-
+  A small assembly model whose scaffold forms and holds a nucleus, withdrawn
+  for good at chosen states: the drop in the chance of completing falls to
+  under 0.05 two units into eight only where the bound units hold the
+  nucleus and it speeds their binding, stays at 0.10 or more to the last
+  unit where they do not hold it, and under withdrawal at a clock time falls
+  to zero in every case as runs finish
 version: 1
 history:
 - version: 1
@@ -52,7 +59,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-865 — new; the claim this study grounds, filed with it -->
 
-# CASE-308: A small assembly model whose scaffold forms and holds a nucleus, withdrawn for good at chosen states: the drop in the chance of completing falls to under 0.05 two units into eight only where the bound units hold the nucleus and it speeds their binding, stays at 0.10 or more to the last unit where they do not hold it, and under withdrawal at a clock time falls to zero in every case as runs finish
+# CASE-308: Scaffold withdrawn from a small assembly model
 
 ## The model
 

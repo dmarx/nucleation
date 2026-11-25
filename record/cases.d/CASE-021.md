@@ -3,7 +3,10 @@ number: 21
 status: Active
 formerly:
 - CASE-tmpn2q0k
-title: 'Wording, attributed speaker and judgement order: the proposed factorial study'
+title: 'Wording, speaker and judgement order factorial'
+statement: >-
+  Wording, attributed speaker and judgement order: the proposed factorial
+  study
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -20,7 +23,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-005 CLAIM-009 CLAIM-052 CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CASE-021: Wording, attributed speaker and judgement order: the proposed factorial study
+# CASE-021: Wording, speaker and judgement order factorial
 
 ## The case
 

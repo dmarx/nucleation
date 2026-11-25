@@ -3,7 +3,14 @@ number: 345
 status: Proposed
 formerly:
 - CASE-tmp17sbe
-title: 'The staging experiment run on a model with a home and a staging architecture and one capacity: every kind of case A named occurs on an open region of budget and reserve, admitting the staging architecture creates reachability or only lowers the bottleneck budget according to whether the home space is connected, and a deadline shorter than every staging route takes the architectural remedy away'
+title: 'Staging experiment: home and staging spaces'
+statement: >-
+  The staging experiment run on a model with a home and a staging
+  architecture and one capacity: every kind of case A named occurs on an
+  open region of budget and reserve, admitting the staging architecture
+  creates reachability or only lowers the bottleneck budget according to
+  whether the home space is connected, and a deadline shorter than every
+  staging route takes the architectural remedy away
 version: 1
 history:
 - version: 1
@@ -50,7 +57,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-198 — Proposed; the case this study runs, cited as filed -->
 <!-- inactive-ok-file: CLAIM-922 — new; the claim filed from this study in the same batch -->
 
-# CASE-345: The staging experiment run on a model with a home and a staging architecture and one capacity: every kind of case A named occurs on an open region of budget and reserve, admitting the staging architecture creates reachability or only lowers the bottleneck budget according to whether the home space is connected, and a deadline shorter than every staging route takes the architectural remedy away
+# CASE-345: Staging experiment: home and staging spaces
 
 ## What was done
 

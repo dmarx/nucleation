@@ -3,7 +3,13 @@ number: 205
 status: Proposed
 formerly:
 - CASE-tmpe3itu
-title: 'Twenty folding cells and three actuators: with each actuator driving a fixed group of cells, the configurations the actuators can command form a three-dimensional slice of the twenty-dimensional set the mechanism admits, and which profiles lie in it is fixed by the grouping, not the count'
+title: 'Twenty folding cells and three actuators'
+statement: >-
+  Twenty folding cells and three actuators: with each actuator driving a
+  fixed group of cells, the configurations the actuators can command form a
+  three-dimensional slice of the twenty-dimensional set the mechanism
+  admits, and which profiles lie in it is fixed by the grouping, not the
+  count
 version: 1
 standing: fictional
 kind: construction
@@ -34,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-194 — Proposed; the record's claim that placement predicts better than count, and its case of one shared actuator setting, cited as filed -->
 
-# CASE-205: Twenty folding cells and three actuators: with each actuator driving a fixed group of cells, the configurations the actuators can command form a three-dimensional slice of the twenty-dimensional set the mechanism admits, and which profiles lie in it is fixed by the grouping, not the count
+# CASE-205: Twenty folding cells and three actuators
 
 ## The case
 

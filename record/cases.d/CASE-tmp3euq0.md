@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: 'Race-based power in the United States after abolition: the Thirteenth Amendment ends chattel slavery in 1865, a system of segregation and disfranchisement is upheld in Plessy v. Ferguson in 1896, and its legal form is dismantled by Brown v. Board of Education in 1954, the Civil Rights Act of 1964 and the Voting Rights Act of 1965, with resistance and de facto segregation continuing after'
+title: 'US race-based power after abolition'
+statement: >-
+  Race-based power in the United States after abolition: the Thirteenth
+  Amendment ends chattel slavery in 1865, a system of segregation and
+  disfranchisement is upheld in Plessy v. Ferguson in 1896, and its legal
+  form is dismantled by Brown v. Board of Education in 1954, the Civil
+  Rights Act of 1964 and the Voting Rights Act of 1965, with resistance and
+  de facto segregation continuing after
 version: 1
 standing: documented
 kind: specimen
@@ -28,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpjg5gx ARG-tmpqkfwb — Proposed or new; the claims this case illustrates, the argument on it and the lead that would check it -->
 
-# CASE-tmp3euq0: Race-based power in the United States after abolition: the Thirteenth Amendment ends chattel slavery in 1865, a system of segregation and disfranchisement is upheld in Plessy v. Ferguson in 1896, and its legal form is dismantled by Brown v. Board of Education in 1954, the Civil Rights Act of 1964 and the Voting Rights Act of 1965, with resistance and de facto segregation continuing after
+# CASE-tmp3euq0: US race-based power after abolition
 
 ## The events
 

@@ -3,7 +3,17 @@ number: 165
 status: Active
 formerly:
 - CASE-tmplcm41
-title: 'A dynamic beta–Bernoulli latent-feature model of an organization''s members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and its outputs cannot tell a feature one member holds at constant activation from that member''s private map, or features whose holdings and activations always coincide from their sum'
+title: 'Dynamic beta–Bernoulli member feature model'
+statement: >-
+  A dynamic beta–Bernoulli latent-feature model of an organization's
+  members: a finite Indian buffet prior over who holds which interpretive
+  features, a sticky logistic transition for holding them, activations, and
+  team, communication and authorization layers above; at the proposed size
+  of sixteen features it falls well short of the Indian buffet process it
+  quotes, its persistence term does not hold rare features, and its outputs
+  cannot tell a feature one member holds at constant activation from that
+  member's private map, or features whose holdings and activations always
+  coincide from their sum
 version: 7
 history:
 - version: 1
@@ -128,7 +138,7 @@ draws_on:
 <!-- inactive-ok-file: THEORY-1004 — Proposed; a reading of the same day, cited for its measure of presence against use -->
 <!-- inactive-ok-file: THEORY-1044 — Proposed; the beam sampler's mixing claim, cited as open -->
 
-# CASE-165: A dynamic beta–Bernoulli latent-feature model of an organization's members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and its outputs cannot tell a feature one member holds at constant activation from that member's private map, or features whose holdings and activations always coincide from their sum
+# CASE-165: Dynamic beta–Bernoulli member feature model
 
 ## The construction (T23)
 

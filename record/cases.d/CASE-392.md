@@ -3,7 +3,15 @@ number: 392
 status: Proposed
 formerly:
 - CASE-tmp44mzc
-title: 'How the league''s reported count, the club and its supporters count the 2005 Washington Nationals, coded from fourteen public statements: the franchise runs through the Montreal Expos, the original Senators'' seasons stay with the Twins, the club called itself a new team and honours both Senators clubs, the Expos and the Homestead Grays as Washington''s baseball, and no statement found counts the Nationals the Senators continued'
+title: 'The 2005 Washington Nationals'' lineage'
+statement: >-
+  How the league's reported count, the club and its supporters count the
+  2005 Washington Nationals, coded from fourteen public statements: the
+  franchise runs through the Montreal Expos, the original Senators' seasons
+  stay with the Twins, the club called itself a new team and honours both
+  Senators clubs, the Expos and the Homestead Grays as Washington's
+  baseball, and no statement found counts the Nationals the Senators
+  continued
 version: 1
 history:
 - version: 1
@@ -53,7 +61,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
-# CASE-392: How the league's reported count, the club and its supporters count the 2005 Washington Nationals, coded from fourteen public statements: the franchise runs through the Montreal Expos, the original Senators' seasons stay with the Twins, the club called itself a new team and honours both Senators clubs, the Expos and the Homestead Grays as Washington's baseball, and no statement found counts the Nationals the Senators continued
+# CASE-392: The 2005 Washington Nationals' lineage
 
 ## The study
 

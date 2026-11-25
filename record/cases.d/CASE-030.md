@@ -3,7 +3,10 @@ number: 30
 status: Active
 formerly:
 - CASE-tmpui6ic
-title: 'E2: assistant-authored reconstruction chains with content-word overlap (C4)'
+title: 'E2: assistant-authored reconstruction chains'
+statement: >-
+  E2: assistant-authored reconstruction chains with content-word overlap
+  (C4)
 version: 1
 standing: fictional
 kind: executed-study
@@ -24,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-084 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CASE-030: E2: assistant-authored reconstruction chains with content-word overlap (C4)
+# CASE-030: E2: assistant-authored reconstruction chains
 
 ## The case
 

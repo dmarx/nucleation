@@ -3,7 +3,10 @@ number: 60
 status: Active
 formerly:
 - CASE-tmp9u2cl
-title: 'Two identical unnumbered ballots in one tally: two votes that no relation in the structure of the vote tells apart'
+title: 'Two identical unnumbered ballots in one tally'
+statement: >-
+  Two identical unnumbered ballots in one tally: two votes that no relation
+  in the structure of the vote tells apart
 version: 1
 standing: stipulated
 kind: construction
@@ -28,7 +31,7 @@ illustrates:
 <!-- inactive-ok-file: CLAIM-136 — Proposed; the thesis this case illustrates, open -->
 <!-- inactive-ok-file: CLAIM-134 CLAIM-138 — Proposed; the two objections to CLAIM-136 each version's answer meets, open -->
 
-# CASE-060: Two identical unnumbered ballots in one tally: two votes that no relation in the structure of the vote tells apart
+# CASE-060: Two identical unnumbered ballots in one tally
 
 Filed on 2026-10-10 from a search the owner asked for. The search found no
 documented case of two communicative relata that no relation differentiates,

@@ -3,7 +3,12 @@ number: 418
 status: Proposed
 formerly:
 - CASE-tmptkkgm
-title: 'Google, 11 August 2014: a bug in turndown automation sent every satellite machine to disk erasure; the postmortem the SRE workbook shows as good blameless practice names a staffing limit among what went poorly and assigns its fourteen action items, all technical, to engineers'
+title: 'Google turndown erasure, 11 August 2014'
+statement: >-
+  Google, 11 August 2014: a bug in turndown automation sent every satellite
+  machine to disk erasure; the postmortem the SRE workbook shows as good
+  blameless practice names a staffing limit among what went poorly and
+  assigns its fourteen action items, all technical, to engineers
 version: 1
 standing: documented
 kind: specimen
@@ -37,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-750 CLAIM-905 CASE-335 — Proposed; the claim this illustrates and the pilot it parallels -->
 <!-- inactive-ok-file: ARG-219 CLAIM-1062 — new; the argument for the illustration and the objection filed with it -->
 
-# CASE-418: Google, 11 August 2014: a bug in turndown automation sent every satellite machine to disk erasure; the postmortem the SRE workbook shows as good blameless practice names a staffing limit among what went poorly and assigns its fourteen action items, all technical, to engineers
+# CASE-418: Google turndown erasure, 11 August 2014
 
 ## The case
 

@@ -3,7 +3,12 @@ number: 136
 status: Active
 formerly:
 - CASE-tmprzyow
-title: 'The doorway effect: memory for an object carried through a doorway into another room is worse than after walking as far within one, returning to the first room does not restore it, and outside the original laboratory''s set-up the effect has not always appeared'
+title: 'The doorway effect'
+statement: >-
+  The doorway effect: memory for an object carried through a doorway into
+  another room is worse than after walking as far within one, returning to
+  the first room does not restore it, and outside the original laboratory's
+  set-up the effect has not always appeared
 version: 5
 history:
 - version: 2
@@ -68,7 +73,7 @@ bears_on:
 - QUESTION-257
 ---
 
-# CASE-136: The doorway effect: memory for an object carried through a doorway into another room is worse than after walking as far within one, returning to the first room does not restore it, and outside the original laboratory's set-up the effect has not always appeared
+# CASE-136: The doorway effect
 
 ## The case
 

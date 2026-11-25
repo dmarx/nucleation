@@ -3,7 +3,15 @@ number: 317
 status: Proposed
 formerly:
 - CASE-tmpgustv
-title: 'The coupled meaning–influence model built with three declared demands and a feasible-update oracle: changing only the conferral rule, with search and information fixed, moves the share of steps on which a satisfiable demand goes unmet from about 0.95 under scoring by agreement with the update made to about 0.05 under scoring by each demand''s own residual; step size, noise and conditioning move it less, and the best fixed weighting chosen in hindsight does as well as the second rule'
+title: 'Coupled meaning–influence model run'
+statement: >-
+  The coupled meaning–influence model built with three declared demands and
+  a feasible-update oracle: changing only the conferral rule, with search
+  and information fixed, moves the share of steps on which a satisfiable
+  demand goes unmet from about 0.95 under scoring by agreement with the
+  update made to about 0.05 under scoring by each demand's own residual;
+  step size, noise and conditioning move it less, and the best fixed
+  weighting chosen in hindsight does as well as the second rule
 version: 1
 history:
 - version: 1
@@ -49,7 +57,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-500 — Proposed or new; the thesis this study tests, and the entries this filing made -->
 
-# CASE-317: The coupled meaning–influence model built with three declared demands and a feasible-update oracle: changing only the conferral rule, with search and information fixed, moves the share of steps on which a satisfiable demand goes unmet from about 0.95 under scoring by agreement with the update made to about 0.05 under scoring by each demand's own residual; step size, noise and conditioning move it less, and the best fixed weighting chosen in hindsight does as well as the second rule
+# CASE-317: Coupled meaning–influence model run
 
 ## What was done
 

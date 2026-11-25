@@ -3,7 +3,13 @@ number: 296
 status: Proposed
 formerly:
 - CASE-tmpsjjgx
-title: 'Genres and audiences as classes that engagement data identifies jointly (films by who engages with them, people by what they engage with), which become distinctions a platform acts on and then feed back on the data they were found in: the owner''s example, with a laboratory that separates classes inferred, classes used, and classes that reshape preferences'
+title: 'Genres and audiences found by engagement'
+statement: >-
+  Genres and audiences as classes that engagement data identifies jointly
+  (films by who engages with them, people by what they engage with), which
+  become distinctions a platform acts on and then feed back on the data they
+  were found in: the owner's example, with a laboratory that separates
+  classes inferred, classes used, and classes that reshape preferences
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -38,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2054 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-119 CLAIM-327 CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CASE-296: Genres and audiences as classes that engagement data identifies jointly (films by who engages with them, people by what they engage with), which become distinctions a platform acts on and then feed back on the data they were found in: the owner's example, with a laboratory that separates classes inferred, classes used, and classes that reshape preferences
+# CASE-296: Genres and audiences found by engagement
 
 ## The example
 

@@ -3,7 +3,18 @@ number: 325
 status: Active
 formerly:
 - CASE-tmpokq28
-title: 'Northstar modelled twice in a simulation over twenty seeds, once by control models that see the arrangement of authority only as an input and once by a will-organization whose relations of precedence, jurisdiction, suspension and override decide which regime becomes effective: where the case is as stipulated the will-organization wins by 10 to 71 nats beyond its Occam cost and alone predicts combined changes of authority never seen together, a gap more data does not close; it loses heavily where authority is idle or idiosyncratic, and it wins the training evidence even where a relation composes otherwise than it says, which only the unseen combinations expose'
+title: 'Northstar as a will-organization, simulated'
+statement: >-
+  Northstar modelled twice in a simulation over twenty seeds, once by
+  control models that see the arrangement of authority only as an input and
+  once by a will-organization whose relations of precedence, jurisdiction,
+  suspension and override decide which regime becomes effective: where the
+  case is as stipulated the will-organization wins by 10 to 71 nats beyond
+  its Occam cost and alone predicts combined changes of authority never seen
+  together, a gap more data does not close; it loses heavily where authority
+  is idle or idiosyncratic, and it wins the training evidence even where a
+  relation composes otherwise than it says, which only the unseen
+  combinations expose
 version: 1
 history:
 - version: 1
@@ -46,7 +57,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-166 — Proposed; the earlier Northstar simulation, reported and not reproduced, set beside this one -->
 <!-- inactive-ok-file: CLAIM-889 CLAIM-890 — new; the finding and the reading filed from this study -->
 
-# CASE-325: Northstar modelled twice in a simulation over twenty seeds, once by control models that see the arrangement of authority only as an input and once by a will-organization whose relations of precedence, jurisdiction, suspension and override decide which regime becomes effective: where the case is as stipulated the will-organization wins by 10 to 71 nats beyond its Occam cost and alone predicts combined changes of authority never seen together, a gap more data does not close; it loses heavily where authority is idle or idiosyncratic, and it wins the training evidence even where a relation composes otherwise than it says, which only the unseen combinations expose
+# CASE-325: Northstar as a will-organization, simulated
 
 ## The study
 

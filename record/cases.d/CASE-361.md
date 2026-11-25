@@ -3,7 +3,13 @@ number: 361
 status: Proposed
 formerly:
 - CASE-tmphabte
-title: 'Exact computation on small finite experiments checks the receiver-restricted order''s results: the exclusive-or rendering and a strict reversal of Blackwell''s order for a one-coordinate receiver, and random instances of the achievable-set criterion, the respected-garbling theorem, the ceiling and the code-reading converse, with no disagreement'
+title: 'Receiver-restricted order on finite experiments'
+statement: >-
+  Exact computation on small finite experiments checks the
+  receiver-restricted order's results: the exclusive-or rendering and a
+  strict reversal of Blackwell's order for a one-coordinate receiver, and
+  random instances of the achievable-set criterion, the respected-garbling
+  theorem, the ceiling and the code-reading converse, with no disagreement
 version: 1
 history:
 - version: 1
@@ -35,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-944 — new, filed with this case -->
 
-# CASE-361: Exact computation on small finite experiments checks the receiver-restricted order's results: the exclusive-or rendering and a strict reversal of Blackwell's order for a one-coordinate receiver, and random instances of the achievable-set criterion, the respected-garbling theorem, the ceiling and the code-reading converse, with no disagreement
+# CASE-361: Receiver-restricted order on finite experiments
 
 ## What was done
 

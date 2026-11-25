@@ -3,7 +3,10 @@ number: 45
 status: Active
 formerly:
 - CASE-tmpazmsq
-title: 'Measuring the dancing couple: is the pair a nearly decomposable block during the dance and not after it?'
+title: 'Measuring the dancing couple''s decomposability'
+statement: >-
+  Measuring the dancing couple: is the pair a nearly decomposable block
+  during the dance and not after it?
 version: 4
 history:
 - version: 2
@@ -48,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-157 CLAIM-167 — Proposed; the claim the study would test and the reply that rereads its direction measurement -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected; cited as the objection the measurement was first designed for -->
 
-# CASE-045: Measuring the dancing couple: is the pair a nearly decomposable block during the dance and not after it?
+# CASE-045: Measuring the dancing couple's decomposability
 
 ## The case
 

@@ -3,7 +3,10 @@ number: 344
 status: Proposed
 formerly:
 - CASE-tmpby7xp
-title: 'Measuring PMI additivity in text8 along WordNet hypernymy and across analogy families'
+title: 'PMI additivity in text8 along WordNet'
+statement: >-
+  Measuring PMI additivity in text8 along WordNet hypernymy and across
+  analogy families
 version: 1
 history:
 - version: 1
@@ -49,7 +52,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 
-# CASE-344: Measuring PMI additivity in text8 along WordNet hypernymy and across analogy families
+# CASE-344: PMI additivity in text8 along WordNet
 
 ## What was done
 

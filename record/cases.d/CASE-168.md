@@ -3,7 +3,13 @@ number: 168
 status: Proposed
 formerly:
 - CASE-tmpa087v
-title: 'Monocercomonoides: a eukaryote that lost its mitochondrion entirely after the organelle''s essential jobs were removed in steps, its Fe–S cluster assembly taken over by a bacterial-type SUF system that its relatives share and its glycine cleavage system lost, and kept canonical eukaryotic complexity'
+title: 'Monocercomonoides'
+statement: >-
+  Monocercomonoides: a eukaryote that lost its mitochondrion entirely after
+  the organelle's essential jobs were removed in steps, its Fe–S cluster
+  assembly taken over by a bacterial-type SUF system that its relatives
+  share and its glycine cleavage system lost, and kept canonical eukaryotic
+  complexity
 version: 4
 history:
 - version: 2
@@ -37,7 +43,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-2230 — new, filed for LEAD-138; the reading the note of 2026-11-22 reports -->
 
-# CASE-168: Monocercomonoides: a eukaryote that lost its mitochondrion entirely after the organelle's essential jobs were removed in steps, its Fe–S cluster assembly taken over by a bacterial-type SUF system that its relatives share and its glycine cleavage system lost, and kept canonical eukaryotic complexity
+# CASE-168: Monocercomonoides
 
 ## The case
 

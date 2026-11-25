@@ -3,7 +3,13 @@ number: 239
 status: Proposed
 formerly:
 - CASE-tmp5ijqy
-title: 'A proposed study: a forager that learns from its own energy dynamics which environmental distinctions predict a loss of viability, and revises its testing and action policy, to find whether it adapts its criteria of failure to changes nobody foresaw without the correct criterion being supplied'
+title: 'Forager learning its own failure criteria'
+statement: >-
+  A proposed study: a forager that learns from its own energy dynamics which
+  environmental distinctions predict a loss of viability, and revises its
+  testing and action policy, to find whether it adapts its criteria of
+  failure to changes nobody foresaw without the correct criterion being
+  supplied
 version: 2
 history:
 - version: 2
@@ -50,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-241 CASE-240 — filed in this pull request, Proposed -->
 <!-- inactive-ok-file: THEORY-220 THEORY-1646 THEORY-628 — Proposed; readings cited with their standing -->
 
-# CASE-239: A proposed study: a forager that learns from its own energy dynamics which environmental distinctions predict a loss of viability, and revises its testing and action policy, to find whether it adapts its criteria of failure to changes nobody foresaw without the correct criterion being supplied
+# CASE-239: Forager learning its own failure criteria
 
 ## Why
 

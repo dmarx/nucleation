@@ -3,7 +3,14 @@ number: 339
 status: Proposed
 formerly:
 - CASE-tmpg9x2o
-title: 'Three simulated evaluative contexts with transport derived by fit on shared commitments give holonomy indistinguishable from the identity in 3000 draws of the null, a holonomy angle equal to the sum of the contexts'' internal comparison angles in the planar case, and the spherical excess for local charts of a curved space of profiles; noise gives a measurable null, and few anchors per overlap let it flip orientation'
+title: 'Holonomy across three evaluative contexts'
+statement: >-
+  Three simulated evaluative contexts with transport derived by fit on
+  shared commitments give holonomy indistinguishable from the identity in
+  3000 draws of the null, a holonomy angle equal to the sum of the contexts'
+  internal comparison angles in the planar case, and the spherical excess
+  for local charts of a curved space of profiles; noise gives a measurable
+  null, and few anchors per overlap let it flip orientation
 version: 1
 history:
 - version: 1
@@ -40,7 +47,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-907 — Proposed; the claim filed with this study -->
 
-# CASE-339: Three simulated evaluative contexts with transport derived by fit on shared commitments give holonomy indistinguishable from the identity in 3000 draws of the null, a holonomy angle equal to the sum of the contexts' internal comparison angles in the planar case, and the spherical excess for local charts of a curved space of profiles; noise gives a measurable null, and few anchors per overlap let it flip orientation
+# CASE-339: Holonomy across three evaluative contexts
 
 ## The case
 

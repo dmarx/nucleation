@@ -5,7 +5,14 @@ formerly:
 - CASE-tmpmkc5v
 standing: stipulated
 kind: proposed-study
-title: 'A proposed comparison of own-maternal-cell NIMA tolerance against donor-supplied matched tolerogenic cells: supply the same tolerogenic function from inside the host''s own persisting lineage or from an outside donor transfer, apply the same depletion and restoration interventions to each, and ask whether any intervention short of removing the cells tells the internally maintained producer from the externally supplied one'
+title: 'NIMA tolerance: own-maternal vs donor cells'
+statement: >-
+  A proposed comparison of own-maternal-cell NIMA tolerance against
+  donor-supplied matched tolerogenic cells: supply the same tolerogenic
+  function from inside the host's own persisting lineage or from an outside
+  donor transfer, apply the same depletion and restoration interventions to
+  each, and ask whether any intervention short of removing the cells tells
+  the internally maintained producer from the externally supplied one
 version: 1
 tags:
 - individuation
@@ -37,7 +44,7 @@ summary: >-
 ---
 
 
-# CASE-356: A proposed comparison of own-maternal-cell NIMA tolerance against donor-supplied matched tolerogenic cells: supply the same tolerogenic function from inside the host's own persisting lineage or from an outside donor transfer, apply the same depletion and restoration interventions to each, and ask whether any intervention short of removing the cells tells the internally maintained producer from the externally supplied one
+# CASE-356: NIMA tolerance: own-maternal vs donor cells
 
 ## Why this case
 

@@ -3,7 +3,10 @@ number: 370
 status: Active
 formerly:
 - CASE-tmp7nwhq
-title: 'A noncontextual inequality for a pragmatic rendering experiment, derived from its operational equivalences and verified numerically'
+title: 'Noncontextual inequality for pragmatic rendering'
+statement: >-
+  A noncontextual inequality for a pragmatic rendering experiment, derived
+  from its operational equivalences and verified numerically
 version: 1
 standing: documented
 kind: executed-study
@@ -21,7 +24,7 @@ draws_on:
 - THEORY-315
 ---
 
-# CASE-370: A noncontextual inequality for a pragmatic rendering experiment, derived from its operational equivalences and verified numerically
+# CASE-370: Noncontextual inequality for pragmatic rendering
 
 ## The case
 

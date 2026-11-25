@@ -3,7 +3,12 @@ number: 170
 status: Active
 formerly:
 - CASE-tmpii28b
-title: 'The East Wing of the White House, 2025–2026: the wing demolished for a ballroom before the legal challenge to the project was decided, so that the remedy still available was to stop new construction, not to keep the old building'
+title: 'The East Wing of the White House, 2025–2026'
+statement: >-
+  The East Wing of the White House, 2025–2026: the wing demolished for a
+  ballroom before the legal challenge to the project was decided, so that
+  the remedy still available was to stop new construction, not to keep the
+  old building
 version: 3
 history:
 - version: 2
@@ -39,7 +44,7 @@ bears_on:
 - QUESTION-279
 ---
 
-# CASE-170: The East Wing of the White House, 2025–2026: the wing demolished for a ballroom before the legal challenge to the project was decided, so that the remedy still available was to stop new construction, not to keep the old building
+# CASE-170: The East Wing of the White House, 2025–2026
 
 ## The case
 

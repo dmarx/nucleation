@@ -3,7 +3,10 @@ number: 100
 status: Active
 formerly:
 - CASE-tmpj323r
-title: 'A fan redub of an X-Men cartoon, circulated online in 2006, put "I''m the Juggernaut, bitch!" into X-Men: The Last Stand three months later'
+title: 'The "I''m the Juggernaut, bitch!" fan redub'
+statement: >-
+  A fan redub of an X-Men cartoon, circulated online in 2006, put "I'm the
+  Juggernaut, bitch!" into X-Men: The Last Stand three months later
 version: 2
 history:
 - version: 2
@@ -35,7 +38,7 @@ reported_in:
 ---
 <!-- inactive-ok-file: CASE-410 NOTE-2396 NOTE-2412 NOTE-2411 CLAIM-1006 CLAIM-1022 CLAIM-1052 — new; filed by the lead run of 2026-11-23 -->
 
-# CASE-100: A fan redub of an X-Men cartoon, circulated online in 2006, put "I'm the Juggernaut, bitch!" into X-Men: The Last Stand three months later
+# CASE-100: The "I'm the Juggernaut, bitch!" fan redub
 
 ## The case
 

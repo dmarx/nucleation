@@ -3,7 +3,12 @@ number: 253
 status: Proposed
 formerly:
 - CASE-tmppm4do
-title: 'A proposed study of governed schema adaptation: agents given a record whose grammar may or may not be adequate, under fixed or modifiable schemas crossed with informal or explicit change governance, scored on semantic correction without regressions'
+title: 'Governed schema adaptation'
+statement: >-
+  A proposed study of governed schema adaptation: agents given a record
+  whose grammar may or may not be adequate, under fixed or modifiable
+  schemas crossed with informal or explicit change governance, scored on
+  semantic correction without regressions
 version: 2
 history:
 - version: 1
@@ -50,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-667 CLAIM-665 — filed from the same exchange, Proposed; the claims its interaction and its secondary estimand would test -->
 <!-- inactive-ok-file: THEORY-1728 THEORY-1730 THEORY-1733 THEORY-1755 THEORY-1756 THEORY-1762 THEORY-1766 THEORY-1786 THEORY-1790 THEORY-1792 THEORY-1807 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CASE-253: A proposed study of governed schema adaptation: agents given a record whose grammar may or may not be adequate, under fixed or modifiable schemas crossed with informal or explicit change governance, scored on semantic correction without regressions
+# CASE-253: Governed schema adaptation
 
 ## The case
 

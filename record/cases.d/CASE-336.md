@@ -3,7 +3,12 @@ number: 336
 status: Proposed
 formerly:
 - CASE-tmpmcgjj
-title: 'Matched constructions on one courier platform that vary only the capacity to formulate objections, control of review, the erosion of alternatives or the power to revise the rules, with variants that stipulate the protective reasons away'
+title: 'Courier platform matched constructions'
+statement: >-
+  Matched constructions on one courier platform that vary only the capacity
+  to formulate objections, control of review, the erosion of alternatives or
+  the power to revise the rules, with variants that stipulate the protective
+  reasons away
 version: 1
 standing: stipulated
 kind: construction
@@ -38,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1971 CLAIM-747 — Proposed; the SEP entry's statement of the test, used as the test applied, and the claim the third construction instantiates -->
 
-# CASE-336: Matched constructions on one courier platform that vary only the capacity to formulate objections, control of review, the erosion of alternatives or the power to revise the rules, with variants that stipulate the protective reasons away
+# CASE-336: Courier platform matched constructions
 
 ## The common setting
 

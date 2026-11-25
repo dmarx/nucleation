@@ -3,7 +3,11 @@ number: 184
 status: Active
 formerly:
 - CASE-tmpu88go
-title: 'The central defeat test as stated: human judgements of fidelity or shared kind, predicted by the theory''s judged measures against a text-similarity baseline'
+title: 'The central defeat test as stated'
+statement: >-
+  The central defeat test as stated: human judgements of fidelity or shared
+  kind, predicted by the theory's judged measures against a text-similarity
+  baseline
 version: 2
 history:
 - version: 2
@@ -36,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; cited as they stood, not as what the record now holds -->
 <!-- inactive-ok-file: ARG-026 — Rejected; the argument from this test to the theses, whose verdict this case reports -->
 
-# CASE-184: The central defeat test as stated: human judgements of fidelity or shared kind, predicted by the theory's judged measures against a text-similarity baseline
+# CASE-184: The central defeat test as stated
 
 ## The case
 

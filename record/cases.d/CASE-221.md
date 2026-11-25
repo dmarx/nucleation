@@ -3,7 +3,13 @@ number: 221
 status: Proposed
 formerly:
 - CASE-tmp3l0hh
-title: 'Three perspectives whose majority preferences cycle, x over y, y over z and z over x: a chair who admits only the contests x against y and y against z gets an acyclic record with x on top and one dissenter in each admitted contest, though a majority prefers z to x, and admitting z against x restores the cycle'
+title: 'Majority cycle and the chair''s agenda'
+statement: >-
+  Three perspectives whose majority preferences cycle, x over y, y over z
+  and z over x: a chair who admits only the contests x against y and y
+  against z gets an acyclic record with x on top and one dissenter in each
+  admitted contest, though a majority prefers z to x, and admitting z
+  against x restores the cycle
 version: 1
 standing: stipulated
 kind: construction
@@ -29,7 +35,7 @@ summary: >-
   is the owner's call.
 ---
 
-# CASE-221: Three perspectives whose majority preferences cycle, x over y, y over z and z over x: a chair who admits only the contests x against y and y against z gets an acyclic record with x on top and one dissenter in each admitted contest, though a majority prefers z to x, and admitting z against x restores the cycle
+# CASE-221: Majority cycle and the chair's agenda
 
 ## The case
 

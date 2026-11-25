@@ -3,7 +3,11 @@ number: 387
 status: Proposed
 formerly:
 - CASE-tmp17zl1
-title: 'Remote clock frequency differences estimated over satellite links and checked against a simultaneous optical-fibre comparison and a second, independent satellite technique'
+title: 'Satellite clock comparison checked by fibre'
+statement: >-
+  Remote clock frequency differences estimated over satellite links and
+  checked against a simultaneous optical-fibre comparison and a second,
+  independent satellite technique
 version: 1
 history:
 - version: 1
@@ -40,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-510 — Proposed; the claim this case illustrates and whose condition it is offered to meet -->
 <!-- inactive-ok-file: NOTE-2371 THEORY-2281 — new; the reading this case is taken from -->
 
-# CASE-387: Remote clock frequency differences estimated over satellite links and checked against a simultaneous optical-fibre comparison and a second, independent satellite technique
+# CASE-387: Satellite clock comparison checked by fibre
 
 ## The case
 

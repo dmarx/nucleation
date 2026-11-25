@@ -3,7 +3,9 @@ number: 9
 status: Active
 formerly:
 - CASE-tmp9n7ut
-title: 'Text → image → caption → image chains under four conditions'
+title: 'Text-image-caption chains, four conditions'
+statement: >-
+  Text → image → caption → image chains under four conditions
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -23,7 +25,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-076 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-087 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CASE-009: Text → image → caption → image chains under four conditions
+# CASE-009: Text-image-caption chains, four conditions
 
 ## The case
 

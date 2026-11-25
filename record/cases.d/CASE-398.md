@@ -3,7 +3,13 @@ number: 398
 status: Proposed
 formerly:
 - CASE-tmpc7lbu
-title: 'GPT-2 small and Pythia-70m measured for the subspaces that enter the logits: exactly, both meet the diversity condition, so every relation satisfies the all-or-none containments; at the tolerance stated in advance the containments fail for three factual relations, and the verdict turns on the tolerance'
+title: 'Logit subspaces in GPT-2 small and Pythia-70m'
+statement: >-
+  GPT-2 small and Pythia-70m measured for the subspaces that enter the
+  logits: exactly, both meet the diversity condition, so every relation
+  satisfies the all-or-none containments; at the tolerance stated in advance
+  the containments fail for three factual relations, and the verdict turns
+  on the tolerance
 version: 1
 history:
 - version: 1
@@ -48,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1020 CLAIM-1027 CLAIM-1080 — new; filed by the lead run of 2026-11-23 -->
 
-# CASE-398: GPT-2 small and Pythia-70m measured for the subspaces that enter the logits: exactly, both meet the diversity condition, so every relation satisfies the all-or-none containments; at the tolerance stated in advance the containments fail for three factual relations, and the verdict turns on the tolerance
+# CASE-398: Logit subspaces in GPT-2 small and Pythia-70m
 
 ## The case
 

@@ -3,7 +3,9 @@ number: 49
 status: Active
 formerly:
 - CASE-tmpjvzb6
-title: 'A tree falls in the woods with no one to hear it'
+title: 'A tree falls with no one to hear it'
+statement: >-
+  A tree falls in the woods with no one to hear it
 version: 1
 standing: stipulated
 kind: thought-experiment
@@ -20,7 +22,7 @@ summary: >-
   changes.
 ---
 
-# CASE-049: A tree falls in the woods with no one to hear it
+# CASE-049: A tree falls with no one to hear it
 
 ## The case
 

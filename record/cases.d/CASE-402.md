@@ -3,7 +3,13 @@ number: 402
 status: Active
 formerly:
 - CASE-tmpgqbyq
-title: 'In the toy model of superposition with six features in two dimensions, 1,008 SGD runs not started at the 6-gon, across n from 300 to 2,000, batch sizes 1 to 100, rates 0.001 to 0.2, four initialisations and up to 45,000 epochs, never reach it, while the sampled posterior passes from the 5-gon to the 6-gon at n ≈ 270 in the free-energy formula''s units, not 601'
+title: 'SGD vs the 6-gon in the toy superposition model'
+statement: >-
+  In the toy model of superposition with six features in two dimensions,
+  1,008 SGD runs not started at the 6-gon, across n from 300 to 2,000, batch
+  sizes 1 to 100, rates 0.001 to 0.2, four initialisations and up to 45,000
+  epochs, never reach it, while the sampled posterior passes from the 5-gon
+  to the 6-gon at n ≈ 270 in the free-energy formula's units, not 601
 version: 2
 history:
 - version: 1
@@ -56,7 +62,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1353 — Proposed; Dong's test of a temperature, cited as a check -->
 
-# CASE-402: In the toy model of superposition with six features in two dimensions, 1,008 SGD runs not started at the 6-gon, across n from 300 to 2,000, batch sizes 1 to 100, rates 0.001 to 0.2, four initialisations and up to 45,000 epochs, never reach it, while the sampled posterior passes from the 5-gon to the 6-gon at n ≈ 270 in the free-energy formula's units, not 601
+# CASE-402: SGD vs the 6-gon in the toy superposition model
 
 ## What was done
 

@@ -3,7 +3,13 @@ number: 258
 status: Proposed
 formerly:
 - CASE-tmpjrrhk
-title: 'Fairy circles in Sun and colleagues'' shrub–grass kernel model, rerun: the hollow rings are made by the kernel contraction imposed by hand, with or without grass, and grass erodes them rather than holding them in balance, so the model does not show a form whose making and keeping are separate mechanisms'
+title: 'Fairy circles in Sun''s kernel model, rerun'
+statement: >-
+  Fairy circles in Sun and colleagues' shrub–grass kernel model, rerun: the
+  hollow rings are made by the kernel contraction imposed by hand, with or
+  without grass, and grass erodes them rather than holding them in balance,
+  so the model does not show a form whose making and keeping are separate
+  mechanisms
 version: 1
 standing: documented
 kind: executed-study
@@ -34,7 +40,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 
-# CASE-258: Fairy circles in Sun and colleagues' shrub–grass kernel model, rerun: the hollow rings are made by the kernel contraction imposed by hand, with or without grass, and grass erodes them rather than holding them in balance, so the model does not show a form whose making and keeping are separate mechanisms
+# CASE-258: Fairy circles in Sun's kernel model, rerun
 
 ## The case
 

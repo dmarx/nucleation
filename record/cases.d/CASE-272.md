@@ -3,7 +3,13 @@ number: 272
 status: Proposed
 formerly:
 - CASE-tmp71zhd
-title: 'A proposed study: small transformers trained on modular addition, saved at many checkpoints, with the training kernel''s eigenspaces and each layer''s coupling among Fourier modes measured over training, to see whether changes in modal coupling forecast the Fourier circuit''s formation better than training loss, Fourier energy and the known progress measures'
+title: 'Modular-addition transformers over checkpoints'
+statement: >-
+  A proposed study: small transformers trained on modular addition, saved at
+  many checkpoints, with the training kernel's eigenspaces and each layer's
+  coupling among Fourier modes measured over training, to see whether
+  changes in modal coupling forecast the Fourier circuit's formation better
+  than training loss, Fourier energy and the known progress measures
 version: 1
 standing: stipulated
 kind: proposed-study
@@ -30,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-022 CLAIM-698 — Proposed or new; the held mechanism and the claim the study tests -->
 
-# CASE-272: A proposed study: small transformers trained on modular addition, saved at many checkpoints, with the training kernel's eigenspaces and each layer's coupling among Fourier modes measured over training, to see whether changes in modal coupling forecast the Fourier circuit's formation better than training loss, Fourier energy and the known progress measures
+# CASE-272: Modular-addition transformers over checkpoints
 
 ## The design
 

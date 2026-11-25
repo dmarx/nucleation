@@ -3,7 +3,16 @@ number: 324
 status: Proposed
 formerly:
 - CASE-tmp66fkd
-title: 'A simulation of the coupled meaning–influence model with three operators and four contexts, fitted beside separate models of matched complexity and training data: where authority is scored against the dominant reading, the joint model predicts the effects of held-out compositions of a governance intervention and a later change of context two to thirty times better than a model whose authority ignores interpretation or one that adds an interpretation model to a governance model, and where it is not, the joint model gains nothing and the information criterion prefers the cut one'
+title: 'Coupled meaning–influence model vs cut models'
+statement: >-
+  A simulation of the coupled meaning–influence model with three operators
+  and four contexts, fitted beside separate models of matched complexity and
+  training data: where authority is scored against the dominant reading, the
+  joint model predicts the effects of held-out compositions of a governance
+  intervention and a later change of context two to thirty times better than
+  a model whose authority ignores interpretation or one that adds an
+  interpretation model to a governance model, and where it is not, the joint
+  model gains nothing and the information criterion prefers the cut one
 version: 1
 history:
 - version: 1
@@ -47,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-286 CLAIM-336 ARG-065 CLAIM-888 — Proposed or new; the claims and the argument this study tests, and the claim filed with it -->
 
-# CASE-324: A simulation of the coupled meaning–influence model with three operators and four contexts, fitted beside separate models of matched complexity and training data: where authority is scored against the dominant reading, the joint model predicts the effects of held-out compositions of a governance intervention and a later change of context two to thirty times better than a model whose authority ignores interpretation or one that adds an interpretation model to a governance model, and where it is not, the joint model gains nothing and the information criterion prefers the cut one
+# CASE-324: Coupled meaning–influence model vs cut models
 
 ## The study
 

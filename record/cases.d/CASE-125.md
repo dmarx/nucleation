@@ -3,7 +3,12 @@ number: 125
 status: Active
 formerly:
 - CASE-tmpdc0tl
-title: 'A hidden governance bit: an output that is fresh fair noise whatever a fixed hidden bit K is, until an intervention h makes the output read K, so the output alone is exactly informationally closed under ordinary operation and keeps nothing about the response to h'
+title: 'A hidden governance bit'
+statement: >-
+  A hidden governance bit: an output that is fresh fair noise whatever a
+  fixed hidden bit K is, until an intervention h makes the output read K, so
+  the output alone is exactly informationally closed under ordinary
+  operation and keeps nothing about the response to h
 version: 3
 history:
 - version: 2
@@ -51,7 +56,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: CLAIM-336 — Proposed; named as the test this case cannot be, open -->
 
-# CASE-125: A hidden governance bit: an output that is fresh fair noise whatever a fixed hidden bit K is, until an intervention h makes the output read K, so the output alone is exactly informationally closed under ordinary operation and keeps nothing about the response to h
+# CASE-125: A hidden governance bit
 
 ## The case
 

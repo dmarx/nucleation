@@ -3,7 +3,16 @@ number: 162
 status: Active
 formerly:
 - CASE-tmpr1vuv
-title: 'Capture and selectively admitted evidence in two lab realizations: in a four-variable model of authority, record and competence the equilibrium fold under self-scoring is at c ≈ 0.4247 while the declared history is trapped from c ≈ 0.4469, and in a 32-member event-level population, admission of cues that depends on the record reverses the sign of the admitted evidence and leaves the worse alternative in charge in 41 of 64 worlds, which exact inverse-propensity weighting brings to 0 of 64 below full selectivity'
+title: 'Capture and selectively admitted evidence'
+statement: >-
+  Capture and selectively admitted evidence in two lab realizations: in a
+  four-variable model of authority, record and competence the equilibrium
+  fold under self-scoring is at c ≈ 0.4247 while the declared history is
+  trapped from c ≈ 0.4469, and in a 32-member event-level population,
+  admission of cues that depends on the record reverses the sign of the
+  admitted evidence and leaves the worse alternative in charge in 41 of 64
+  worlds, which exact inverse-propensity weighting brings to 0 of 64 below
+  full selectivity
 version: 2
 history:
 - version: 1
@@ -57,7 +66,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-286 — Proposed; a claim this case bears on, nothing here rests on its being settled -->
 
-# CASE-162: Capture and selectively admitted evidence in two lab realizations: in a four-variable model of authority, record and competence the equilibrium fold under self-scoring is at c ≈ 0.4247 while the declared history is trapped from c ≈ 0.4469, and in a 32-member event-level population, admission of cues that depends on the record reverses the sign of the admitted evidence and leaves the worse alternative in charge in 41 of 64 worlds, which exact inverse-propensity weighting brings to 0 of 64 below full selectivity
+# CASE-162: Capture and selectively admitted evidence
 
 ## The case
 

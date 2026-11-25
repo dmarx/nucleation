@@ -3,7 +3,10 @@ number: 32
 status: Active
 formerly:
 - CASE-tmpyegzd
-title: 'E4: within-session chains, stable complicit against a shift to moral instruction'
+title: 'E4: within-session chains under a moral shift'
+statement: >-
+  E4: within-session chains, stable complicit against a shift to moral
+  instruction
 version: 1
 standing: fictional
 kind: executed-study
@@ -24,7 +27,7 @@ summary: >-
   becomes advice.
 ---
 
-# CASE-032: E4: within-session chains, stable complicit against a shift to moral instruction
+# CASE-032: E4: within-session chains under a moral shift
 
 ## The case
 

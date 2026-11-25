@@ -3,7 +3,14 @@ number: 290
 formerly:
 - CASE-tmpohiyo
 status: Proposed
-title: 'A proposed study of a fall in complaints: with working conditions held fixed, measure separately whether members find the conditions acceptable, see the discrepancy from their standards, are moved to intervene, have a protected channel and can change what the institution does, and compare an organization with timely, protected escalation against one where complaint is costly or ineffective, to tell satisfaction from tolerance'
+title: 'Decomposing a fall in complaints'
+statement: >-
+  A proposed study of a fall in complaints: with working conditions held
+  fixed, measure separately whether members find the conditions acceptable,
+  see the discrepancy from their standards, are moved to intervene, have a
+  protected channel and can change what the institution does, and compare an
+  organization with timely, protected escalation against one where complaint
+  is costly or ineffective, to tell satisfaction from tolerance
 version: 2
 history:
 - version: 2
@@ -46,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-702 CLAIM-700 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-553 CLAIM-619 CASE-249 — Proposed or new; the claims the study would test -->
 
-# CASE-290: A proposed study of a fall in complaints: with working conditions held fixed, measure separately whether members find the conditions acceptable, see the discrepancy from their standards, are moved to intervene, have a protected channel and can change what the institution does, and compare an organization with timely, protected escalation against one where complaint is costly or ineffective, to tell satisfaction from tolerance
+# CASE-290: Decomposing a fall in complaints
 
 ## The case
 

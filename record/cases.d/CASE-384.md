@@ -3,7 +3,19 @@ number: 384
 status: Proposed
 formerly:
 - CASE-tmp6hkf9
-title: 'Three tabular agents on twenty 8x8 gridworld mazes, a planner on a learned transition table, a goal-conditioned value learner and a bank of occupancy-predicting demons, matched exactly in goal competence by one shared stream of experience: every query family can be read out of each with equal accuracy, but each answers a different family within its own per-decision computation; writing a blocked passage into the two units that carry it repairs every route of the planner and about a tenth of the others'', unless the block is propagated through all the demons, which repairs every route without a table; and the planner recovers fastest from change and damage and alone localizes the damage, though the same damage first costs it more'
+title: 'Planner, value learner and demons in mazes'
+statement: >-
+  Three tabular agents on twenty 8x8 gridworld mazes, a planner on a learned
+  transition table, a goal-conditioned value learner and a bank of
+  occupancy-predicting demons, matched exactly in goal competence by one
+  shared stream of experience: every query family can be read out of each
+  with equal accuracy, but each answers a different family within its own
+  per-decision computation; writing a blocked passage into the two units
+  that carry it repairs every route of the planner and about a tenth of the
+  others', unless the block is propagated through all the demons, which
+  repairs every route without a table; and the planner recovers fastest from
+  change and damage and alone localizes the damage, though the same damage
+  first costs it more
 version: 1
 history:
 - version: 1
@@ -53,7 +65,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-991 CLAIM-990 — Proposed or new; the claims this study illustrates and the two it grounds -->
 
-# CASE-384: Three tabular agents on twenty 8x8 gridworld mazes, a planner on a learned transition table, a goal-conditioned value learner and a bank of occupancy-predicting demons, matched exactly in goal competence by one shared stream of experience: every query family can be read out of each with equal accuracy, but each answers a different family within its own per-decision computation; writing a blocked passage into the two units that carry it repairs every route of the planner and about a tenth of the others', unless the block is propagated through all the demons, which repairs every route without a table; and the planner recovers fastest from change and damage and alone localizes the damage, though the same damage first costs it more
+# CASE-384: Planner, value learner and demons in mazes
 
 ## What was done
 
