@@ -1,0 +1,91 @@
+---
+number: 1276
+status: Proposed
+formerly:
+- CLAIM-tmpgx2ej
+title: 'Unresolved misunderstanding can be productive'
+statement: >-
+  A misunderstanding can be productive because it is left unresolved: where
+  each party's reading is satisfied on every case the cooperation meets,
+  keeping the ambiguity lets incompatible understandings cooperate, and
+  clarifying it would force a disagreement the arrangement cannot afford
+version: 1
+role: counter
+warrant: interpretive
+objects_to:
+- CLAIM-1329
+complements:
+- CLAIM-1317
+tags:
+- epistemology
+- society-and-governance
+date: '2026-11-24'
+line:
+- pragmatic-transport
+- dependence-and-domination
+summary: >-
+  The assistant's objection to the owner's [CLAIM-1329](CLAIM-1329.md), filed under the
+  dialectic regime on 2026-11-24, put at full strength. Cooperation across
+  communities often runs on what anthropologists have called a working
+  misunderstanding, and on what Star and Griesemer called boundary objects
+  ([LIT-2243](../literature.d/LIT-2243.md), not yet read here): each side reads a shared object its own
+  way, and the arrangement works because no case it meets separates the
+  readings. Productivity there lies in not clarifying. The objection
+  narrows the thesis rather than refuting it: what is productive is
+  managing when a latent distinction becomes consequential, and
+  clarification is one way to manage it. The wording is the assistant's
+  (Claude, in this session); adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-1329 CLAIM-1298 CLAIM-1317 CLAIM-621 LIT-2243 — Proposed, Deferred or new; the thesis objected to and the entries the objection draws on -->
+
+# CLAIM-1276: Unresolved misunderstanding can be productive
+
+## The objection
+
+The owner's thesis places a misunderstanding's productivity in its
+clarification. There is a familiar case where it lies elsewhere.
+
+Two parties cooperate on an object, a term, or a contract each reads its
+own way. Every case they meet satisfies both readings, so the cooperation
+goes on. If they clarified, one reading would govern, and the other party
+would have to give it up or leave. The misunderstanding is productive
+because it is kept, and because the cases that would separate the readings
+are avoided, deferred, or cheap when they come.
+
+The pattern is described in the literature on boundary objects, objects
+"plastic enough to adapt to local needs … yet robust enough to maintain a
+common identity" in Star and Griesemer's phrase, which the record has not
+yet checked against the text ([LIT-2243](../literature.d/LIT-2243.md), Deferred). It also runs through
+the record's own [CLAIM-621](CLAIM-621.md), where an expression stays in circulation
+precisely because communities contest what it means.
+
+## What it leaves of the thesis
+
+It does not refute [CLAIM-1329](CLAIM-1329.md). It shows that clarification is one way
+to handle a latent distinction, not the only productive one. Read with
+[CLAIM-1298](CLAIM-1298.md), the common element is timing: a misunderstanding is
+productive when the parties handle the moment a distinction becomes
+consequential well. Sometimes that means clarifying and reorganizing.
+Sometimes it means arranging things so the separating case is rare or
+cheap.
+
+## Its own risk
+
+Keeping an ambiguity has a cost that falls unevenly. [CLAIM-1317](CLAIM-1317.md): the
+party that controls when the ambiguity is resolved can treat one
+accommodation as owed or as discretionary as suits it. A working
+misunderstanding can be a domination that has not yet been called.
+
+## Note of 2026-11-24: the exchange had put the objection's case, the closing pass
+
+<!-- inactive-ok-file: CLAIM-1243 — Proposed; filed from the same exchange -->
+
+A30 §10, held as [CLAIM-1317](CLAIM-1317.md), lists "productive under-specification"
+first among ambiguity's uses, and says that ambiguity can "permit
+cooperation among parties whose interpretations are not yet fully
+reconciled". That is this objection's case, stated in the exchange before
+the owner's sidebar; A30 §5 ([CLAIM-1243](CLAIM-1243.md)) also declines to call
+ambiguity a defect. So the objection is the exchange's as well as the
+assistant's, and its risk, asymmetric invocation, is that same claim's
+main point. The wording is the assistant's (Claude, in this session);
+adopting it is the owner's call.

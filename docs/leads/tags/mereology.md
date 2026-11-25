@@ -6,9 +6,9 @@
 
 **Mereology** — parts and wholes — composition, individuation of systems and collectives (group: philosophy).
 
-2 of 234 LEAD documents. Back to the [full index](../README.md).
+2 of 282 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [LEAD-063](../../../record/leads.d/LEAD-063.md) | Apply an integration or dynamic-core measure, or a justified anti-nesting rule, to a modular-mind model and to a group model | Named in [QUESTION-046](../../../record/questions.d/QUESTION-046.md). Filed by the backlog audit of 2026-11-19. | Open |
-| [LEAD-110](../../../record/leads.d/LEAD-110.md) | Work the part-whole case through to one of its three results: which relation of part to whole grounds a norm concerning the part, and who bears the obligation | Named in [QUESTION-460](../../../record/questions.d/QUESTION-460.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-110](../../../record/leads.d/LEAD-110.md) v2 | Work the part-whole case through to one of its three results: which relation of part to whole grounds a norm concerning the part, and who bears the obligation | Named in [QUESTION-460](../../../record/questions.d/QUESTION-460.md). Filed by the backlog audit of 2026-11-19. | Done |

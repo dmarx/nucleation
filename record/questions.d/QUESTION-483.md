@@ -162,13 +162,13 @@ Four readings bear on the question; each THEORY carries bears_on to it. Wenar 20
 A contrast, not evidence. The owner's U14 proposes contracts between
 processes that "operationalize standing" by a prioritization structure,
 while doubting that the processes have "moral duties to each other
-precisely" ([CLAIM-tmpkvzcn](../claims.d/CLAIM-tmpkvzcn.md), [CLAIM-tmpe6yfm](../claims.d/CLAIM-tmpe6yfm.md)). Those contracts are not the
+precisely" ([CLAIM-1293](../claims.d/CLAIM-1293.md), [CLAIM-1267](../claims.d/CLAIM-1267.md)). Those contracts are not the
 contractualist's: they are maintained relations settling contention, not
 principles no one could reasonably reject, and A16 §16 keeps "operational
 normativity" apart from moral normativity. They bear on this question only
-by giving the record an operational sense of standing ([TERM-tmpgiy6r](../terms.d/TERM-tmpgiy6r.md))
+by giving the record an operational sense of standing ([TERM-174](../terms.d/TERM-174.md))
 that presupposes no principle of standing, which [LEAD-033](../leads.d/LEAD-033.md)'s constructions
 could use to state what a power's holder can do without saying who ought
 to hold it. Bearing: a contrast; no edge. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
-<!-- inactive-ok-file: CLAIM-tmpkvzcn CLAIM-tmpe6yfm TERM-tmpgiy6r — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->
+<!-- inactive-ok-file: CLAIM-1293 CLAIM-1267 TERM-174 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->

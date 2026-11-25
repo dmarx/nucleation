@@ -48,12 +48,12 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 7 illustrative case (ADR-tmpenzcn). No
+    stated or used in A49 Article 7 illustrative case (ADR-147). No
     change of title or status.
 - version: 7
   date: '2026-11-25'
   note: >-
-    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    Joins the work hyperarticles (ADR-145): Article 3 of A45 in the
     exchange "Hyper article interpretation" states its proposition or uses
     it as a step, in §8. No other change.
 role: thesis
@@ -267,7 +267,7 @@ than filed apart ([ADR-072](../decisions.d/ADR-072.md)). The claim is unchanged.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A44 §5
 
-<!-- inactive-ok-file: CLAIM-tmpefeb7 CLAIM-tmpyqjn0 — Proposed; filed from A42 and A48 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
+<!-- inactive-ok-file: CLAIM-1268 CLAIM-1340 — Proposed; filed from A42 and A48 of the exchange 'Memes, Contracts, and Systemic Normativity' -->
 
 A44 §5, on the owner's U28 ("the tyranny of metrics"), restates this claim
 for public rankings after Espeland and Sauder ([NOTE-1050](../notes.d/NOTE-1050.md)): "The metric can
@@ -279,6 +279,6 @@ desirable.**" It separates "predictive validity, independently grounded
 evaluative validity, and performatively produced agreement", which names
 the three things the claim's condition keeps apart. Two filings of the
 exchange apply the pattern: monitoring that produces the conformity it
-records ([CLAIM-tmpefeb7](CLAIM-tmpefeb7.md)) and a reading of fiduciary duty that produces the
-character later cited as legal necessity ([CLAIM-tmpyqjn0](CLAIM-tmpyqjn0.md)). Bearing:
+records ([CLAIM-1268](CLAIM-1268.md)) and a reading of fiduciary duty that produces the
+character later cited as legal necessity ([CLAIM-1340](CLAIM-1340.md)). Bearing:
 support by restatement, and two applications. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

@@ -520,6 +520,6 @@ of fiscal policy from the costs imposed by the mechanisms through which
 those debates are resolved".
 
 Bearing: two illustrations, one engineering and one fiscal; the fiscal one
-is [LEAD-tmps9jkd](../leads.d/LEAD-tmps9jkd.md)'s debt-limit case. A36's figure that the 2011 delay
+is [LEAD-273](../leads.d/LEAD-273.md)'s debt-limit case. A36's figure that the 2011 delay
 raised Treasury borrowing costs by about $1.3 billion is attributed to
 GAO and unchecked here. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

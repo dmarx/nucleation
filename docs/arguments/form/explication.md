@@ -6,7 +6,7 @@
 
 **Explication** — a definition does its declared job better than its predecessor and rivals, judged as more or less satisfactory and not as true (Carnap 1950, THEORY-2017; CLAIM-472). It concludes a TERM. Critical questions: is the explicandum clear, by examples of uses meant and not meant, and is it the one the rivals explicate? Is it clearly too wide or too narrow on cases of practical agreement, with other departures paid for by fruitfulness? Does it meet every necessary condition? Is it exact and interpreted? Is it fruitful: what becomes statable that was not? Is it as simple as the rest allow? Against which rivals, by what consequences, with evidence not drawn only from its own use? (ADR-107).
 
-2 of 240 ARG documents. Back to the [full index](../README.md).
+2 of 260 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

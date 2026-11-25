@@ -2,7 +2,7 @@
 
 # How the claims changed
 
-15 lines, walked from `supersedes_claim` (`(c:CLAIM)-[:supersedes]->(p:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+16 lines, walked from `supersedes_claim` (`(c:CLAIM)-[:supersedes]->(p:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From What fundamentally distinguishes variations of a translation is the frame from which it is delivered
 
@@ -78,6 +78,11 @@
 
 - [CLAIM-100](../record/claims.d/CLAIM-100.md) — Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem *(Superseded)*
   - [CLAIM-125](../record/claims.d/CLAIM-125.md) — Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data *(Active)*
+
+## From An implicit contract cannot be read off consistent behaviour: arrangements with the same ordinary interaction differ in how they respond to interruption, a substitute provider, competing demands, removal of an enforcer, withdrawal of a discretionary contribution and a request to renegotiate, and only those responses show whether a dependence is regulated, by what, and on whose terms
+
+- [CLAIM-1219](../record/claims.d/CLAIM-1219.md) — An implicit contract cannot be read off consistent behaviour: arrangements with the same ordinary interaction differ in how they respond to interruption, a substitute provider, competing demands, removal of an enforcer, withdrawal of a discretionary contribution and a request to renegotiate, and only those responses show whether a dependence is regulated, by what, and on whose terms *(Superseded)*
+  - [CLAIM-1270](../record/claims.d/CLAIM-1270.md) — An organization's characteristic structure can include the contracts maintained among its processes, which its ordinary behaviour does not reveal: two arrangements alike on the ordinary course can part when a contract is breached, an assumption fails or a process invokes its standing *(Proposed)*
 
 ## From Communicative identity is relational continuity under admissible transformation: translation transports relationally organized observational structure, correspondence fixes what can be compared, admissibility which transformations count, and fidelity which communicatively consequential distinctions remain recoverable
 

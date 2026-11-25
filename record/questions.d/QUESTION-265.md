@@ -113,7 +113,7 @@ keeping the procedure no longer pays. The question stays open.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A46 §§5–7 and 13, a candidate answer and a misreading
 
-<!-- inactive-ok-file: CLAIM-tmptrn75 — Proposed or Open; filed from A46 of the exchange 'Memes, Contracts, and Systemic Normativity', and the held answers -->
+<!-- inactive-ok-file: CLAIM-1322 — Proposed or Open; filed from A46 of the exchange 'Memes, Contracts, and Systemic Normativity', and the held answers -->
 
 On the owner's U29, which put "institutional sociopathy" beside
 measurement naivety, greedy agency and enshittification, A46 cites this
@@ -124,7 +124,7 @@ appropriate practical authority". Its distinctive step is that the
 institution may understand those it harms very well: "It may involve the
 ability to understand others without allowing their interests to govern
 activity in the ways their standing warrants." That is filed as a
-candidate answer, [CLAIM-tmptrn75](../claims.d/CLAIM-tmptrn75.md); it locates the deficit after the harm is
+candidate answer, [CLAIM-1322](../claims.d/CLAIM-1322.md); it locates the deficit after the harm is
 tracked, where [CLAIM-432](../claims.d/CLAIM-432.md) locates it in what the appraisals track.
 
 **A misreading.** A46 §14: "The record explicitly identifies the absence of
@@ -139,5 +139,5 @@ persistence criterion and adds restoration and attribution; its own test
 ("A costly remedy undertaken solely to avoid reputational damage ... does
 not establish that the institution would respond appropriately when
 wrongdoing remains commercially advantageous") is [CLAIM-1169](../claims.d/CLAIM-1169.md)'s
-condition. A46 §13's perturbation profiles are [LEAD-tmp466iv](../leads.d/LEAD-tmp466iv.md), beside
+condition. A46 §13's perturbation profiles are [LEAD-242](../leads.d/LEAD-242.md), beside
 [LEAD-101](../leads.d/LEAD-101.md). The question stays open. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

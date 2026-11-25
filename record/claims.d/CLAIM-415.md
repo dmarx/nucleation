@@ -70,7 +70,7 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 7 §7 (ADR-tmpenzcn). No change of
+    stated or used in A49 Article 7 §7 (ADR-147). No change of
     title or status.
 role: thesis
 warrant: interpretive
@@ -277,7 +277,7 @@ unchanged.
 
 ## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", U7/A8 and A10 §8
 
-<!-- inactive-ok-file: CLAIM-tmp5tjtg CLAIM-425 CLAIM-426 CLAIM-332 LIT-1394 — Proposed, Open or Unfetched; filed from or read against the exchange of 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-1236 CLAIM-425 CLAIM-426 CLAIM-332 LIT-1394 — Proposed, Open or Unfetched; filed from or read against the exchange of 2026-11-24 -->
 
 At U7 the owner asked to "apply this framework to probe the phrase 'I am
 whatever you say I am'". A8 found this claim and its neighbours ([LIT-1394](../literature.d/LIT-1394.md),
@@ -294,10 +294,10 @@ What is new:
   attribution act on responses and finds that conformity and opposition
   "transform according to the sign representation": "Defiance and
   submission can be structurally related forms of governability", Cooley's
-  "remoter conformity" in symmetry terms. The assistant's [CLAIM-tmpj4pw3](CLAIM-tmpj4pw3.md)
+  "remoter conformity" in symmetry terms. The assistant's [CLAIM-1281](CLAIM-1281.md)
   corrects A9's reading of it (the transformation type does not carry
   sensitivity) and states the condition it needs (the attribution reversed
-  with its grounds held fixed). A8's proposed test is [LEAD-tmp0w114](../leads.d/LEAD-tmp0w114.md).
+  with its grounds held fixed). A8's proposed test is [LEAD-236](../leads.d/LEAD-236.md).
 - **Three ways a label is confirmed.** A10 §8 separates
   "**Self-fulfillment:** I acquire characteristics that were initially
   misattributed to me", "**Adversarial constitution:** I become organized
@@ -311,7 +311,7 @@ What is new:
   separate question". [CASE-141](../cases.d/CASE-141.md) shows the first and third together.
 - **The phrase as a resource for revision.** A8 §9: the phrase "could
   subsequently provide a conceptual resource for recognizing and revising
-  that condition", generalized in [CLAIM-tmp5tjtg](CLAIM-tmp5tjtg.md) (A's, Proposed).
+  that condition", generalized in [CLAIM-1236](CLAIM-1236.md) (A's, Proposed).
 
 A8 §7's "distributed reflexive influence without a unified controller" is
 this claim's false unity seen from the attributors' side, and [CLAIM-332](CLAIM-332.md)'s

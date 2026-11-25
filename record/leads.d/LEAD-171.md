@@ -10,7 +10,7 @@ history:
   date: '2026-11-25'
   note: >-
     Done, at the owner's go-ahead of 2026-11-25 ("go ahead with the
-    reruns"), whose brief for the recomputation pass of LEAD-tmpc0rqa
+    reruns"), whose brief for the recomputation pass of LEAD-252
     took in closing the leads whose runs are recorded and meet their
     own "What would count", as housekeeping and not a change of
     credence. What would count, a model that shows whether CLAIM-602's
@@ -66,4 +66,4 @@ here.
 
 ## Note of 2026-11-25: closed
 
-Closed as Done in the recomputation pass of [LEAD-tmpc0rqa](LEAD-tmpc0rqa.md) (history, version 2). The lead's model is [CLAIM-605](../claims.d/CLAIM-605.md), Active, as the audit of 2026-11-22 found; nothing remains of the lead. The note is the assistant's (Claude, in this session).
+Closed as Done in the recomputation pass of [LEAD-252](LEAD-252.md) (history, version 2). The lead's model is [CLAIM-605](../claims.d/CLAIM-605.md), Active, as the audit of 2026-11-22 found; nothing remains of the lead. The note is the assistant's (Claude, in this session).

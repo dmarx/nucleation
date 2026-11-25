@@ -6,7 +6,7 @@
 
 **Emotion and affect** — emotions, feelings and affect — what they are, their bodily and neural basis (including the homeostatic and interoceptive states feelings are said to report), their role in decision, memory and behaviour, and whether they ground consciousness (group: philosophy; ADR-014).
 
-8 of 234 LEAD documents. Back to the [full index](../README.md).
+9 of 282 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -18,3 +18,4 @@
 | [LEAD-123](../../../record/leads.d/LEAD-123.md) | Build the three-perspective agenda model with a latent Condorcet cycle, in which a chair or a legibility regime controls which pairwise contests enter the record | Named in [CLAIM-448](../../../record/claims.d/CLAIM-448.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-134](../../../record/leads.d/LEAD-134.md) v2 | Run the imagined owner: a case with cause and report recorded apart, in which a unified self-model misdescribes who controls what | Named in [CLAIM-355](../../../record/claims.d/CLAIM-355.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-148](../../../record/leads.d/LEAD-148.md) | Show whether action readiness with control precedence can be had without hedonic valence, reading Veit first-hand | Named in [CLAIM-039](../../../record/claims.d/CLAIM-039.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-272](../../../record/leads.d/LEAD-272.md) | Test whether one intervention on an independently measured constraint, the concern-relative significance of a domain or the provenance of selected evidence, moves several named bias measures together with the information held fixed, against noisy-processing and resource-rational accounts of their co-variation | From A11 §15 and A12 §15 of the exchange "Memes, Contracts, and Systemic Normativity" (2026-11-24), whose tables propose the interventions without a design, and a gap fill ([ADR-137](../../../record/decisions.d/ADR-137.md)) for what a design needs: the shared constraint measured apart from the biases, bias measures whose reliability is known, and a rival that predicts co-variation from another manipulation. The wording of the plan is the assistant's (Claude, in this session); adopting it is the owner's call. | Open |

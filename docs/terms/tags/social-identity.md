@@ -6,8 +6,8 @@
 
 **Social identity** — the psychology of group membership — social identity and self-categorization theory, how people categorize themselves and others and when a group identity becomes salient, identification and its measurement, in-group bias and intergroup relations, rivalry, recategorization and common in-group identity, group-based emotion, crowds and fandom. What a group is, as ontology, is social-ontology; here it is how people come to see themselves and act as members (ADR-062).
 
-1 of 167 TERM documents. Back to the [full index](../README.md).
+1 of 179 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [TERM-096](../../../record/terms.d/TERM-096.md) v2 | group entity, as distinct from a category of members | A group entity is a collection taken as one bounded whole, by configural relations among its members, typically shared mental states; a category of members is a set whose members share a property and are, with respect to it, interchangeable. Membership in a category does not make someone part of a group entity, and the members of a group entity need not be alike. | Proposed |
+| [TERM-096](../../../record/terms.d/TERM-096.md) v2 | group entity | A group entity is a collection taken as one bounded whole, by configural relations among its members, typically shared mental states; a category of members is a set whose members share a property and are, with respect to it, interchangeable. Membership in a category does not make someone part of a group entity, and the members of a group entity need not be alike. | Proposed |

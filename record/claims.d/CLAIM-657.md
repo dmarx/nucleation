@@ -27,7 +27,7 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 6 abstract, §5 (ADR-tmpenzcn). No
+    stated or used in A49 Article 6 abstract, §5 (ADR-147). No
     change of title or status.
 role: thesis
 warrant: interpretive
@@ -178,11 +178,11 @@ Accurately discovering previously unrecognized problems can then be
 individually disadvantageous", so that "**Ignorance can be an
 organizational achievement without being anyone's objective.**" A6 sets
 this against Linsey McGoey's work on strategic ignorance, registered
-unread as [LIT-tmpmrlmt](../literature.d/LIT-tmpmrlmt.md), which treats nonknowledge as a resource someone
-uses. A6's account of transmitted ignorance ([CLAIM-tmpjlxfy](CLAIM-tmpjlxfy.md)) complements
+unread as [LIT-3242](../literature.d/LIT-3242.md), which treats nonknowledge as a resource someone
+uses. A6's account of transmitted ignorance ([CLAIM-1286](CLAIM-1286.md)) complements
 this claim. Bearing: an application and a contrast with outside
 literature, no edge; no change. The wording of this note is the
 assistant's (Claude, in this session), reporting A's (ChatGPT's) text;
 adopting what it reports is the owner's call.
 
-<!-- inactive-ok-file: CLAIM-tmpjlxfy LIT-tmpmrlmt — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->
+<!-- inactive-ok-file: CLAIM-1286 LIT-3242 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

@@ -6,8 +6,9 @@
 
 **What a record of inquiry keeps** — what a record of a developing argument or inquiry can secure through revision — traceable change, accountability structure, decision sufficiency — and what keeping it buys beyond current conclusions; split from nucleating-argument (ADR-082).
 
-0 of 167 TERM documents. Back to the [full index](../README.md).
+2 of 179 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-175](../../../record/terms.d/TERM-175.md) v2 | hyperarticle | The owner's word, at U1 of the exchange "Hyper article interpretation" (2026-11-22): "github dmarx/nucleation as a "hyper article "", taken up at U2. The definition is A's, at A5: "A hyperarticle is a living, navigable scholarly work in which claims, evidence, arguments, methods, data, objections, and revisions are interconnected rather than flattened into a single linear narrative." The record had no word for the thing [CLAIM-178](../../../record/claims.d/CLAIM-178.md) says a manuscript is a view over, as it is published. The wording of the definition is A's (ChatGPT's, at A5 of the exchange "Hyper article interpretation"); adopting it is the owner's call. | Proposed |
+| [TERM-177](../../../record/terms.d/TERM-177.md) v2 | feed | The owner's, at U5 of the exchange "Hyper article interpretation" (2026-11-22): "A 'feed' as: "A 'view' (with a memory) over data."". The gloss after the semicolon is A11's: the view "determines what gets included, how it's organized, and how it's presented", and the memory "preserves what the view has seen, selected, rejected, annotated, or changed over time". Filed in the owner's voice; the gloss is A's (ChatGPT's, at A11 of the exchange "Hyper article interpretation"), and adopting either is the owner's call. | Proposed |

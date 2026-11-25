@@ -46,7 +46,7 @@ history:
 - version: 5
   date: '2026-11-25'
   note: >-
-    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition or uses it as a step, in scope 03, scope 15. No
     other change.
 role: thesis
@@ -181,5 +181,5 @@ The claim is unchanged.
 
 ## Note of 2026-11-25: carried to publishing systems
 
-<!-- inactive-ok-block: CLAIM-tmp158w7 — new and Proposed; A's extension of this claim to publishing -->
-ChatGPT, at A24 of the exchange "Hyper article interpretation" (2026-11-22), cites this claim correctly: luria's schemes, vocabularies, validators and generated views "determine which differences become referable and governable within the record". It then carries it to scholarly publishing: "The publishing system's grammar is effectively telling us what kinds of things count." That is filed as [CLAIM-tmp158w7](CLAIM-tmp158w7.md), which rests here. The step is an analogy. This claim is about one record and its tooling. A publishing system's categories are kept by many institutions, and no one decision revises them, so whether CLAIM-469's last clause, revision through the record's own use, carries over is what the extension leaves open. The note is the assistant's (Claude, in this session); adopting it is the owner's call. The claim is unchanged.
+<!-- inactive-ok-block: CLAIM-1215 — new and Proposed; A's extension of this claim to publishing -->
+ChatGPT, at A24 of the exchange "Hyper article interpretation" (2026-11-22), cites this claim correctly: luria's schemes, vocabularies, validators and generated views "determine which differences become referable and governable within the record". It then carries it to scholarly publishing: "The publishing system's grammar is effectively telling us what kinds of things count." That is filed as [CLAIM-1215](CLAIM-1215.md), which rests here. The step is an analogy. This claim is about one record and its tooling. A publishing system's categories are kept by many institutions, and no one decision revises them, so whether CLAIM-469's last clause, revision through the record's own use, carries over is what the extension leaves open. The note is the assistant's (Claude, in this session); adopting it is the owner's call. The claim is unchanged.

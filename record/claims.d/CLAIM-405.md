@@ -27,7 +27,7 @@ history:
 - version: 3
   date: '2026-11-25'
   note: >-
-    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition without citing it, in scope 04. No other
     change.
 role: thesis

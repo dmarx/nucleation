@@ -28,7 +28,7 @@ history:
     as the status pass of 2026-11-24 and the reruns of 2026-11-25
     applied it to independently recomputed demonstrated claims and
     executed studies, in the recomputation pass of 2026-11-25
-    (LEAD-tmpc0rqa). Rerun by a session other than the filer's from
+    (LEAD-252). Rerun by a session other than the filer's from
     copies of scratch/studies/lead-015/ and lead-090/: e1, e2, e3 and
     e5 are byte for byte the stored results and e4 differs only in
     timings; the 14 tests pass; every figure in the claim matches.
@@ -102,4 +102,4 @@ The two are not rival results: each is true of its model. They differ in what [C
 
 ## Note of 2026-11-25: rerun by a session other than the filer's
 
-Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). From copies of `scratch/studies/lead-015/` and `lead-090/` (which its model loads by path) in the session's scratch space, with `results/` set aside: the 14 tests pass, and `run.py` regenerates e1, e2, e3 and e5 byte for byte and e4 identical but its `seconds` fields. Every figure above matches e5: the spectral radius 1.0048 at ω = 0, 0.5, 1 and 2; the captured reading 0.385, 0.498, 0.609 and 0.754 on the favoured side; 0.996 and 0.987 below threshold with captures from +0.9 only; and at θ = 0 (0.958) captures from +0.9 at ω = 5, ψ = 2 and ω = 10, ψ = 1 or 2, none from −0.9. Promoted in the same pass (history, version 2); the choice between this reading and [CLAIM-1202](CLAIM-1202.md)'s stays the owner's. The note is the assistant's (Claude, in this session).
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-252](../leads.d/LEAD-252.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). From copies of `scratch/studies/lead-015/` and `lead-090/` (which its model loads by path) in the session's scratch space, with `results/` set aside: the 14 tests pass, and `run.py` regenerates e1, e2, e3 and e5 byte for byte and e4 identical but its `seconds` fields. Every figure above matches e5: the spectral radius 1.0048 at ω = 0, 0.5, 1 and 2; the captured reading 0.385, 0.498, 0.609 and 0.754 on the favoured side; 0.996 and 0.987 below threshold with captures from +0.9 only; and at θ = 0 (0.958) captures from +0.9 at ω = 5, ψ = 2 and ω = 10, ψ = 1 or 2, none from −0.9. Promoted in the same pass (history, version 2); the choice between this reading and [CLAIM-1202](CLAIM-1202.md)'s stays the owner's. The note is the assistant's (Claude, in this session).

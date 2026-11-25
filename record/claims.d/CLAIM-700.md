@@ -85,7 +85,7 @@ history:
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 9 §4; Article 10 table; Article 12 §4
-    (ADR-tmpenzcn). No change of title or status.
+    (ADR-147). No change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -310,7 +310,7 @@ No status changes.
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A22
 
-<!-- inactive-ok-file: CLAIM-tmp8bimm — new; filed from A22 and A24 of the exchange on 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-1244 — new; filed from A22 and A24 of the exchange on 2026-11-24 -->
 
 A22 §11 (ChatGPT, 2026-11-24) restates this loop without citing it, as a
 "Hidden regulatory subsidy": ordinary demands need 100 units of work, the
@@ -328,4 +328,4 @@ non-human cases "an unaccounted resource subsidy or asymmetric functional
 appropriation", keeping exploitation for the human case "under an
 independently justified standard". And it places the compensation inside a
 wider class, the regulatory surplus a reliable maintainer frees for the
-other party, filed as [CLAIM-tmp8bimm](CLAIM-tmp8bimm.md). No status change.
+other party, filed as [CLAIM-1244](CLAIM-1244.md). No status change.

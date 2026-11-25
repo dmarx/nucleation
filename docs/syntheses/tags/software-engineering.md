@@ -6,8 +6,8 @@
 
 **Software engineering** — how software is specified, built, tested and changed — test oracles and metamorphic testing, verification against specifications, reflective and metaobject architectures, self-adaptive systems and models kept at run time, model-driven engineering and the coupled evolution of metamodels and their instances, and version control and change management; read for itself, not as ML practice, which belongs to the anthology (ADR-048); ontology and schema change as data organization stays with databases (ADR-097).
 
-0 of 124 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 126 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-125](../../../record/syntheses.d/SYNTHESIS-125.md) v5 | The argument filed from the exchange Memes, Contracts, and Systemic Normativity, mapped: from the owner's memes as nucleation sites and as characters of perspectives, through contracts between processes and implicit contracts formed by reliance, to norms stabilized by dependence, exploitation as the asymmetric use of reliance, and the exchange's applications to engineering reliability, American governance, three constitutional theories, legibility, metrics and corporate objectives | The account of the exchange 'Memes, Contracts, and Systemic Normativity' (the owner with ChatGPT, 2026-11-24, U1 to U30; U31 and its answer A49 are audited separately), with the owner's two sidebars of this session. It maps the entries nine filers filed, by the turns they came from, and attributes each link to the entry that states it. It adds nothing: what A's candidate syntheses asserted and no entry holds is listed under "Not stated on the record". The mapping is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

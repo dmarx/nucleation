@@ -10,7 +10,7 @@ history:
   date: '2026-11-25'
   note: >-
     Done, at the owner's go-ahead of 2026-11-25 ("go ahead with the
-    reruns"), whose brief for the recomputation pass of LEAD-tmpc0rqa
+    reruns"), whose brief for the recomputation pass of LEAD-252
     took in closing the leads whose runs are recorded and meet their
     own "What would count", as housekeeping and not a change of
     credence. What would count, any of CASE-256's three results, is
@@ -85,4 +85,4 @@ neither reading needs it settled. The stage is unchanged.
 
 ## Note of 2026-11-25: closed
 
-Closed as Done in the recomputation pass of [LEAD-tmpc0rqa](LEAD-tmpc0rqa.md) (history, version 2): the case was worked through to a result under each of its two readings, so the lead's work is done whichever the owner adopts. The choice between [CLAIM-960](../claims.d/CLAIM-960.md) and [CLAIM-959](../claims.d/CLAIM-959.md), and [QUESTION-460](../questions.d/QUESTION-460.md)'s prior part, stay open. The note is the assistant's (Claude, in this session).
+Closed as Done in the recomputation pass of [LEAD-252](LEAD-252.md) (history, version 2): the case was worked through to a result under each of its two readings, so the lead's work is done whichever the owner adopts. The choice between [CLAIM-960](../claims.d/CLAIM-960.md) and [CLAIM-959](../claims.d/CLAIM-959.md), and [QUESTION-460](../questions.d/QUESTION-460.md)'s prior part, stay open. The note is the assistant's (Claude, in this session).

@@ -25,7 +25,7 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 14 formal centre (ADR-tmpenzcn). No
+    stated or used in A49 Article 14 formal centre (ADR-147). No
     change of title or status.
 role: thesis
 warrant: interpretive

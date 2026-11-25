@@ -27,7 +27,7 @@ history:
 - version: 3
   date: '2026-11-25'
   note: >-
-    Gains the line rightful-power (atlas scope 13) under ADR-tmpd3ckn: the
+    Gains the line rightful-power (atlas scope 13) under ADR-146: the
     entry is in that scope's core fiber in the hyperarticle atlas v0.3
     (scratch/atlas/atlas-v0.3.md), and each atlas scope is documented as a
     line. No other change.

@@ -98,17 +98,17 @@ tied it to the size of the shift ([QUESTION-323](../questions.d/QUESTION-323.md)
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A11
 
-<!-- inactive-ok-file: CLAIM-tmpggu4v — Proposed; filed from the exchange of 2026-11-24 -->
+<!-- inactive-ok-file: CLAIM-1272 — Proposed; filed from the exchange of 2026-11-24 -->
 
 A11 §7 proposes a third mechanism of anchoring beside insufficient
 adjustment and selective accessibility: nucleation, in which the anchor
 helps a maintained response organization form, so its influence outlasts
-it ([CLAIM-tmpggu4v](CLAIM-tmpggu4v.md), A's, Proposed). It names the evidence that would tell
+it ([CLAIM-1272](CLAIM-1272.md), A's, Proposed). It names the evidence that would tell
 the third apart, "persistence, transfer, hysteresis or organizational
 transformation". It also says "Existing anchoring research already
 distinguishes insufficient adjustment from selective accessibility". On
 this claim's own reading the shift is established and the accessibility
 step is inferred and unmeasured ([THEORY-335](../theory.d/THEORY-335.md)), so A11 gives the second
 mechanism more standing than the record does. The test it calls for
-([LEAD-tmp3nqe0](../leads.d/LEAD-tmp3nqe0.md)) would measure the accessibility step as well. Bearing: an
+([LEAD-240](../leads.d/LEAD-240.md)) would measure the accessibility step as well. Bearing: an
 extension. The claim is unchanged.

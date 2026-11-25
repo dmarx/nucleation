@@ -46,12 +46,12 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 3 abstract, §1 (ADR-tmpenzcn). No
+    stated or used in A49 Article 3 abstract, §1 (ADR-147). No
     change of title or status.
 - version: 5
   date: '2026-11-25'
   note: >-
-    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition or uses it as a step, in scope 05. No other
     change.
 role: thesis

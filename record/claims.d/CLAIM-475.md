@@ -79,7 +79,7 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 5 abstract (ADR-tmpenzcn). No change
+    stated or used in A49 Article 5 abstract (ADR-147). No change
     of title or status.
 - version: 11
   date: '2026-11-25'
@@ -91,13 +91,13 @@ history:
 - version: 12
   date: '2026-11-25'
   note: >-
-    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    Joins the work conditions-of-correction (ADR-145): Article 1 of
     A45 in the exchange "Hyper article interpretation" states its
     proposition or uses it as a step, in §2. No other change.
 - version: 13
   date: '2026-11-25'
   note: >-
-    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition or uses it as a step, in scope 01, section V.
     No other change.
 role: thesis
@@ -413,8 +413,8 @@ cheaper. But it can make unfamiliar questions more expensive", since a
 challenger must "overcome its established jurisdiction, translate its
 objections into the accepted language, obtain permission to investigate,
 and mobilize resources for revision." A16 §9 makes the same move for
-heuristics ([CLAIM-tmpysg95](CLAIM-tmpysg95.md)). Bearing: an instance, a contract as a stored
+heuristics ([CLAIM-1341](CLAIM-1341.md)). Bearing: an instance, a contract as a stored
 specification, with [CLAIM-761](CLAIM-761.md)'s stored work and [CLAIM-358](CLAIM-358.md)'s amortized
 accommodation. The claim is unchanged. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
-<!-- inactive-ok-file: SYNTHESIS-114 CLAIM-358 CLAIM-tmpysg95 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->
+<!-- inactive-ok-file: SYNTHESIS-114 CLAIM-358 CLAIM-1341 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', whatever its standing -->

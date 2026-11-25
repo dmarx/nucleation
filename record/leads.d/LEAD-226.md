@@ -63,5 +63,5 @@ policy is an input": "Nothing in the model makes the choice between
 excising and revising." The manuscript's Article 6 (§6.10, G6.1) names the
 missing run, an institution whose choice to excise is learned, as in
 [CASE-396](../cases.d/CASE-396.md), scored against the original, its own and the true demands, as in
-[CASE-397](../cases.d/CASE-397.md) (the audit of what was left out (2026-11-25), B12). It is held as [LEAD-tmpv3s18](LEAD-tmpv3s18.md), kept apart from this lead
+[CASE-397](../cases.d/CASE-397.md) (the audit of what was left out (2026-11-25), B12). It is held as [LEAD-279](LEAD-279.md), kept apart from this lead
 since this lead's arms are done. No change of status. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

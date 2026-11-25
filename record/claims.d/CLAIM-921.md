@@ -32,7 +32,7 @@ history:
   date: '2026-11-24'
   note: >-
     Joins the work governance-of-becoming under ADR-104's rule, as
-    stated or used in A49 Article 3 §5; Article 10 table (ADR-tmpenzcn).
+    stated or used in A49 Article 3 §5; Article 10 table (ADR-147).
     No change of title or status.
 - version: 4
   date: '2026-11-24'
@@ -46,7 +46,7 @@ history:
     "so at the same expected funding a rarer capability is lost sooner".
     The title now says what is derived. The dropped ordering is the
     record's own extrapolation, observed in CASE-343 but not derived, so
-    it is filed as the Proposed interpretive claim CLAIM-tmpc3ndh,
+    it is filed as the Proposed interpretive claim CLAIM-1259,
     resting on this one (status-review README, narrowing kind 2). Old
     title: "Where competence decays without funded maintenance and a
     capability is committed only when competent enough, a budget that

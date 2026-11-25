@@ -51,14 +51,14 @@ history:
 - version: 6
   date: '2026-11-25'
   note: >-
-    Gains the line self-correction (atlas scope 10) under ADR-tmpd3ckn:
+    Gains the line self-correction (atlas scope 10) under ADR-146:
     the entry is in that scope's core fiber in the hyperarticle atlas v0.3
     (scratch/atlas/atlas-v0.3.md), and each atlas scope is documented as a
     line. No other change.
 - version: 7
   date: '2026-11-25'
   note: >-
-    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    Joins the work conditions-of-correction (ADR-145): Article 1 of
     A45 in the exchange "Hyper article interpretation" states its
     proposition or uses it as a step, in §4. No other change.
 role: thesis
@@ -194,5 +194,5 @@ needs no distinction among the three intents. No status change.
 
 ## Note of 2026-11-25: applied to research evaluation, and the half it drops
 
-<!-- inactive-ok-block: CLAIM-tmpts8ee CLAIM-tmpu6e4u — new and Proposed; A's application and the assistant's correction -->
-ChatGPT, at A24 §4 of the exchange "Hyper article interpretation" (2026-11-22), states this claim's condition correctly and applies it to academic evaluation. Publication count is adequate to a throughput question and inadequate to one about contribution ([CLAIM-tmpts8ee](CLAIM-tmpts8ee.md)). Its design goal, "Provide the distinctions required for justified action", drops this claim's second half: where acceptable actions overlap, the coarsest sufficient observations are several and incomparable. [CLAIM-tmpu6e4u](CLAIM-tmpu6e4u.md) makes the point with a three-circumstance example checked by script. Two evaluators facing one decision over one record can need incomparable minimal views. The note is the assistant's (Claude, in this session); adopting it is the owner's call. The claim is unchanged.
+<!-- inactive-ok-block: CLAIM-1323 CLAIM-1325 — new and Proposed; A's application and the assistant's correction -->
+ChatGPT, at A24 §4 of the exchange "Hyper article interpretation" (2026-11-22), states this claim's condition correctly and applies it to academic evaluation. Publication count is adequate to a throughput question and inadequate to one about contribution ([CLAIM-1323](CLAIM-1323.md)). Its design goal, "Provide the distinctions required for justified action", drops this claim's second half: where acceptable actions overlap, the coarsest sufficient observations are several and incomparable. [CLAIM-1325](CLAIM-1325.md) makes the point with a three-circumstance example checked by script. Two evaluators facing one decision over one record can need incomparable minimal views. The note is the assistant's (Claude, in this session); adopting it is the owner's call. The claim is unchanged.

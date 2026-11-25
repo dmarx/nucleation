@@ -122,8 +122,8 @@ A53 proposes a joint ruling on this claim and its objection [CLAIM-1185](CLAIM-1
 
 ## Note of 2026-11-24: [CLAIM-1185](CLAIM-1185.md) and [CLAIM-1202](CLAIM-1202.md) Active
 
-<!-- inactive-ok-block: CLAIM-tmpjdml5 — Proposed; filed at the status pass of 2026-11-24 -->
-At the status pass of 2026-11-24, at the owner's word ("handle the fixes for the twelve ... use your best judgement"), [CLAIM-1202](CLAIM-1202.md), the last of the four components, went Active with [CLAIM-1000](CLAIM-1000.md) and [CASE-401](../cases.d/CASE-401.md), and the objection [CLAIM-1185](CLAIM-1185.md) went Active after its title was narrowed to its model. Its concession on this claim is now due ([ADR-059](../decisions.d/ADR-059.md)) and is the owner's to write, since the claim is the owner's; A53's wording in the note above is a candidate. The general form of the objection, beyond that model, is the Proposed [CLAIM-tmpjdml5](CLAIM-tmpjdml5.md). The note is the assistant's (Claude, in this session). No status change.
+<!-- inactive-ok-block: CLAIM-1282 — Proposed; filed at the status pass of 2026-11-24 -->
+At the status pass of 2026-11-24, at the owner's word ("handle the fixes for the twelve ... use your best judgement"), [CLAIM-1202](CLAIM-1202.md), the last of the four components, went Active with [CLAIM-1000](CLAIM-1000.md) and [CASE-401](../cases.d/CASE-401.md), and the objection [CLAIM-1185](CLAIM-1185.md) went Active after its title was narrowed to its model. Its concession on this claim is now due ([ADR-059](../decisions.d/ADR-059.md)) and is the owner's to write, since the claim is the owner's; A53's wording in the note above is a candidate. The general form of the objection, beyond that model, is the Proposed [CLAIM-1282](CLAIM-1282.md). The note is the assistant's (Claude, in this session). No status change.
 
 ## Note of 2026-11-25: from the review of the manuscript governance-of-becoming, Part II
 

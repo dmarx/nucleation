@@ -38,19 +38,19 @@ history:
 - version: 6
   date: '2026-11-25'
   note: >-
-    Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
+    Joins the work conditions-of-correction (ADR-145): Article 1 of
     A45 in the exchange "Hyper article interpretation" states its
     proposition or uses it as a step, in §3. No other change.
 - version: 7
   date: '2026-11-25'
   note: >-
-    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    Joins the work hyperarticles (ADR-145): Article 3 of A45 in the
     exchange "Hyper article interpretation" states its proposition or uses
     it as a step, in §4. No other change.
 - version: 8
   date: '2026-11-25'
   note: >-
-    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition or uses it as a step, in scope 02, scope 15. No
     other change.
 role: thesis

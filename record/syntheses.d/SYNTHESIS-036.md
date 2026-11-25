@@ -358,7 +358,7 @@ to that listing:
 - **The title's "is open"** is still true, but narrower than it says: open
   across realizers, not for an organization against control and planning
   theory, where [CLAIM-890](../claims.d/CLAIM-890.md) gives a verdict. The second realizer is now held
-  as [LEAD-tmpb2w1a](../leads.d/LEAD-tmpb2w1a.md).
+  as [LEAD-249](../leads.d/LEAD-249.md).
 - **[CASE-325](../cases.d/CASE-325.md) was rerun** on 2026-11-25 by a session other than the
   filer's, every figure matching (its note of that date).
 

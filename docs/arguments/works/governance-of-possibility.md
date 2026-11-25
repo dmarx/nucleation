@@ -6,8 +6,8 @@
 
 **Regulation as the Governance of Possibility** — the owner's manuscript, requested at U24 and U25 of the exchange "Explain First Contact RL" and drafted by ChatGPT on 2026-11-23 (A48, fleshing out A46): Identity, Slow Modes, and the Temporal Organization of Adaptive Industrial Ecosystems. Regulation governs which organizations an industrial ecosystem can attain, sustain and revise, not only conduct within it; identity stabilization is selective temporal filtering indexed to the timescales of the demands; and adaptive governance keeps the capacity to reorganize viable, which a model with matched present performance separates from present performance. Its argument is held mainly in the lines realizability, distributed-agency, will-organization, formal-apparatus and readiness.
 
-1 of 240 ARG documents. Back to the [full index](../README.md).
+1 of 260 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [ARG-077](../../../record/arguments.d/ARG-077.md) v3 | The barrier at 1.3 between two configurations that each cost 0.7 shows that the threshold for reaching a configuration need not equal its requirement | Filed with [ADR-096](../../../record/decisions.d/ADR-096.md)'s first application: the construction case now grounds [CLAIM-571](../../../record/claims.d/CLAIM-571.md)'s existence clause, so the support is load-bearing and is argued here. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Active |
+| [ARG-077](../../../record/arguments.d/ARG-077.md) v5 | The barrier at 1.3 between two configurations that each cost 0.7 shows that the threshold for reaching a configuration need not equal its requirement | Filed with [ADR-096](../../../record/decisions.d/ADR-096.md)'s first application: the construction case now grounds [CLAIM-571](../../../record/claims.d/CLAIM-571.md)'s existence clause, so the support is load-bearing and is argued here. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Active |

@@ -236,7 +236,7 @@ B follows the body.) No change of status. The wording is the assistant's
 (Claude, in this session); adopting it is the owner's call.
 
 ## Note of 2026-11-25: what holds it back
-<!-- inactive-ok-file: CLAIM-735 CLAIM-908 CLAIM-tmp9xge5 — Proposed or new; entries that use this claim, cited as evidence of reliance -->
+<!-- inactive-ok-file: CLAIM-735 CLAIM-908 CLAIM-1251 — Proposed or new; entries that use this claim, cited as evidence of reliance -->
 
 A note for the targeted promotion review (write-manuscript step 6a), from
 the same draft.
@@ -259,11 +259,11 @@ the same draft.
 What would clear it: a recheck of [CASE-283](../cases.d/CASE-283.md) by another session, and an
 objection filed and answered (the outcome-only reading of rights of
 refusal is the natural one). Several entries use it ([CLAIM-725](CLAIM-725.md),
-[CLAIM-735](CLAIM-735.md), [CLAIM-908](CLAIM-908.md), [CLAIM-571](CLAIM-571.md)'s note, [CLAIM-tmp9xge5](CLAIM-tmp9xge5.md)), so its use is
+[CLAIM-735](CLAIM-735.md), [CLAIM-908](CLAIM-908.md), [CLAIM-571](CLAIM-571.md)'s note, [CLAIM-1251](CLAIM-1251.md)), so its use is
 evidence of reliance, not of truth. A candidate for promotion, not a
 promotion: that is the owner's call. The wording is the assistant's
 (Claude, in this session); adopting it is the owner's call.
 
 ## Note of 2026-11-25: rerun of the constructions, and what still holds it back
 
-Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-tmpc0rqa](../leads.d/LEAD-tmpc0rqa.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). The filer's check of [CASE-283](../cases.d/CASE-283.md) was not kept, so both separations were rebuilt from this entry and the case as `scratch/formal/patient_arrangements_check.py` (standard library), run with python3 -I. With π_A(c) = c, π_B(c) = 1 and the right of refusal Resp(1) = {treat, refrain}, Resp(0) = {refrain}: both give (1, 1) on the consenting history; A meets the test for both protected exercises and B fails it at c = 0; every one of the 16 verdict functions of the realized history (c, a) gives A and B the same verdict on the consenting occasion; and two histories to one endpoint, one through an authorization and one not, agree under every endpoint test and differ under a history test. A negative control, an evaluation of the policy's response to both choices, separates A and B. Everything reproduces. This is the second-session recheck the note of 2026-11-25 above asks for. What still holds it back: [ADR-057](../decisions.d/ADR-057.md)'s first criterion, its ground [CASE-283](../cases.d/CASE-283.md) being a Proposed construction; and the untested objection that note names (the outcome-only reading of rights of refusal), which is for the owner or a filed counter. The note is the assistant's (Claude, in this session). No status change.
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of [LEAD-252](../leads.d/LEAD-252.md), at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). The filer's check of [CASE-283](../cases.d/CASE-283.md) was not kept, so both separations were rebuilt from this entry and the case as `scratch/formal/patient_arrangements_check.py` (standard library), run with python3 -I. With π_A(c) = c, π_B(c) = 1 and the right of refusal Resp(1) = {treat, refrain}, Resp(0) = {refrain}: both give (1, 1) on the consenting history; A meets the test for both protected exercises and B fails it at c = 0; every one of the 16 verdict functions of the realized history (c, a) gives A and B the same verdict on the consenting occasion; and two histories to one endpoint, one through an authorization and one not, agree under every endpoint test and differ under a history test. A negative control, an evaluation of the policy's response to both choices, separates A and B. Everything reproduces. This is the second-session recheck the note of 2026-11-25 above asks for. What still holds it back: [ADR-057](../decisions.d/ADR-057.md)'s first criterion, its ground [CASE-283](../cases.d/CASE-283.md) being a Proposed construction; and the untested objection that note names (the outcome-only reading of rights of refusal), which is for the owner or a filed counter. The note is the assistant's (Claude, in this session). No status change.

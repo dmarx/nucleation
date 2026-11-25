@@ -279,7 +279,7 @@ No status, title or warrant changes.
 
 Rechecked after [LIT-1913](../literature.d/LIT-1913.md) (Tsoukas and Chia) and [LIT-1902](../literature.d/LIT-1902.md) were filed on 2026-10-31 and [NOTE-173](../notes.d/NOTE-173.md) was re-read on 2026-11-01. They offer a mechanism and a parallel. Neither is a within-study test of either defeat condition, and none has been run.
 
-<!-- inactive-ok-file: CLAIM-tmp80ny9 CLAIM-tmpsf9hp — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
+<!-- inactive-ok-file: CLAIM-1243 CLAIM-1319 — Proposed; filed or cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity', cited with their standing -->
 
 ## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A32
 
@@ -297,8 +297,8 @@ contract, invite a new contract, or ambiguously do both. The resulting
 relationship may not be fully determinate until subsequent interactions
 establish how the initial act is to be treated." This extends the claim
 to a favour's later treatment, which settles what the favour was; the
-third case is [CLAIM-tmp80ny9](CLAIM-tmp80ny9.md)'s constitutive indeterminacy, and formative
-invocation in [CLAIM-tmpsf9hp](CLAIM-tmpsf9hp.md). A32 §20 ranks this claim first among the
+third case is [CLAIM-1243](CLAIM-1243.md)'s constitutive indeterminacy, and formative
+invocation in [CLAIM-1319](CLAIM-1319.md). A32 §20 ranks this claim first among the
 points of contact. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
 
 ## Note of 2026-11-25: who coined "perspectival invitation", from the review of the manuscript governance-of-becoming, Part III

@@ -51,19 +51,19 @@ history:
 - version: 7
   date: '2026-11-25'
   note: >-
-    Joins the work luria-beyond-software (ADR-tmp85hdc): Article 2 of A45
+    Joins the work luria-beyond-software (ADR-145): Article 2 of A45
     in the exchange "Hyper article interpretation" states its proposition
     or uses it as a step, in §6. No other change.
 - version: 8
   date: '2026-11-25'
   note: >-
-    Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
+    Joins the work hyperarticles (ADR-145): Article 3 of A45 in the
     exchange "Hyper article interpretation" states its proposition or uses
     it as a step, in §2. No other change.
 - version: 9
   date: '2026-11-25'
   note: >-
-    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition or uses it as a step, in scope 15, section V.
     No other change.
 role: thesis
@@ -196,31 +196,31 @@ exchange, has not been made.
 
 ## Note of 2026-11-25: the exchange "Hyper article interpretation", U16 and U19
 
-<!-- inactive-ok-block: CLAIM-tmp48g02 ADR-143 — new or Proposed; the reference-implementation claim filed from the same exchange, and the manuscript protocol -->
-The owner stated this claim's practice as a requirement on 2026-11-22, the day before [ADR-143](../decisions.d/ADR-143.md): "this article should be demonstrating the point by example as well. it ought to be peppered with luria references, since that's what  is  supposed to be grounding the essay" (U16), and "The cases in the article should be invoking CASEs that are persisted in Nucleation. The claims in the article should be backed by CLAIMs and TERMs and ARGs (and maybe SYNTHESIS or even other stuff) in Nucleation. ... This paper is intended to be later persisted with Nucleation as one of the views it is describing" (U19). That is [ADR-143](../decisions.d/ADR-143.md)'s invariants 2, 3 and 7 in the owner's words, with one addition: a manuscript arguing that a paper should be a view over a record should itself be one. The exchange also holds the material for the comparison this claim's defeat condition names: drafts written straight from the exchange (A28, A32, A34, A38) beside drafts ChatGPT wrote against the record's entries after U19 (A41, A42, A45). They were not compared for dropped commitments; the second set's citations were checked in its filing and are mostly right. [CLAIM-tmp48g02](CLAIM-tmp48g02.md) records how far the record implements the publishing proposal these drafts make. The note is the assistant's (Claude, in this session), quoting the owner; adopting it is the owner's call. No status change.
+<!-- inactive-ok-block: CLAIM-1226 ADR-143 — new or Proposed; the reference-implementation claim filed from the same exchange, and the manuscript protocol -->
+The owner stated this claim's practice as a requirement on 2026-11-22, the day before [ADR-143](../decisions.d/ADR-143.md): "this article should be demonstrating the point by example as well. it ought to be peppered with luria references, since that's what  is  supposed to be grounding the essay" (U16), and "The cases in the article should be invoking CASEs that are persisted in Nucleation. The claims in the article should be backed by CLAIMs and TERMs and ARGs (and maybe SYNTHESIS or even other stuff) in Nucleation. ... This paper is intended to be later persisted with Nucleation as one of the views it is describing" (U19). That is [ADR-143](../decisions.d/ADR-143.md)'s invariants 2, 3 and 7 in the owner's words, with one addition: a manuscript arguing that a paper should be a view over a record should itself be one. The exchange also holds the material for the comparison this claim's defeat condition names: drafts written straight from the exchange (A28, A32, A34, A38) beside drafts ChatGPT wrote against the record's entries after U19 (A41, A42, A45). They were not compared for dropped commitments; the second set's citations were checked in its filing and are mostly right. [CLAIM-1226](CLAIM-1226.md) records how far the record implements the publishing proposal these drafts make. The note is the assistant's (Claude, in this session), quoting the owner; adopting it is the owner's call. No status change.
 
 ## Note of 2026-11-25: the exchange "Hyper article interpretation", U10
 
-<!-- inactive-ok-block: CLAIM-tmpkvi10 CLAIM-tmpbvvmp — new and Proposed; the owner's many-views thesis and A's claim about the separation it reduces -->
-The owner, at U10 of the exchange: "this manner of publishing also collapses the impetus to share a flood of interrelated papers. I can provide the single tangle of ideas to evaluate, and present different views on it to different parties with differing and diverse interests." That takes this claim from one manuscript to many, filed as the owner's [CLAIM-tmpkvi10](CLAIM-tmpkvi10.md), which rests here. ChatGPT's A24 reads the owner's account of their motivation (U9) as a separation between the form in which knowledge is developed and the form in which it becomes institutionally legible, which a view over the record reduces ([CLAIM-tmpbvvmp](CLAIM-tmpbvvmp.md), also resting here). The note is the assistant's (Claude, in this session), quoting the owner; adopting it is the owner's call. No status change.
+<!-- inactive-ok-block: CLAIM-1292 CLAIM-1258 — new and Proposed; the owner's many-views thesis and A's claim about the separation it reduces -->
+The owner, at U10 of the exchange: "this manner of publishing also collapses the impetus to share a flood of interrelated papers. I can provide the single tangle of ideas to evaluate, and present different views on it to different parties with differing and diverse interests." That takes this claim from one manuscript to many, filed as the owner's [CLAIM-1292](CLAIM-1292.md), which rests here. ChatGPT's A24 reads the owner's account of their motivation (U9) as a separation between the form in which knowledge is developed and the form in which it becomes institutionally legible, which a view over the record reduces ([CLAIM-1258](CLAIM-1258.md), also resting here). The note is the assistant's (Claude, in this session), quoting the owner; adopting it is the owner's call. No status change.
 
 ## Note of 2026-11-25: views of views, from "Hyper article interpretation", U23 to U28
 
-<!-- inactive-ok-block: CLAIM-tmpxkeu9 CLAIM-tmp6xzjy CLAIM-tmpd1a2h CLAIM-tmpc4q8o — new; the owner's atlas thesis, the cycle check, the coverage claim and the owner's route thesis -->
+<!-- inactive-ok-block: CLAIM-1335 CLAIM-1238 CLAIM-1263 CLAIM-1260 — new; the owner's atlas thesis, the cycle check, the coverage claim and the owner's route thesis -->
 The exchange's last turns rest on this claim and extend it. ChatGPT, at
 A53, names it "the manuscript-as-view claim" among the proposal's
 ancestors, correctly. The owner's U23 reads the whole record's views as an
-atlas of charts ([CLAIM-tmpxkeu9](CLAIM-tmpxkeu9.md)); the assistant's gap fill
-([CLAIM-tmp6xzjy](CLAIM-tmp6xzjy.md)) shows why this claim's practice matters for that
+atlas of charts ([CLAIM-1335](CLAIM-1335.md)); the assistant's gap fill
+([CLAIM-1238](CLAIM-1238.md)) shows why this claim's practice matters for that
 reading: a view whose every step passes through the record cannot be
 pairwise consistent and jointly inconsistent, while views related to one
-another directly can. A57's coverage dimensions ([CLAIM-tmpd1a2h](CLAIM-tmpd1a2h.md)) keep
+another directly can. A57's coverage dimensions ([CLAIM-1263](CLAIM-1263.md)) keep
 this claim's separation of inclusion from status, as a view's review
 status against its claims' standing. The owner's U28 adds series of posts
-as routes through the views ([CLAIM-tmpc4q8o](CLAIM-tmpc4q8o.md)), a view of views. The note
+as routes through the views ([CLAIM-1260](CLAIM-1260.md)), a view of views. The note
 is the assistant's (Claude, in this session). No status change.
 
 ## Note of 2026-11-25: the exchange "Hyper article interpretation", U1 and U2
 
-<!-- inactive-ok-block: CLAIM-tmpjf44i TERM-tmpjn06u TERM-tmpx49xx — new and Proposed; the owner's hyperarticle thesis, its term, and the owner's feed -->
-The owner opened the exchange with "github dmarx/nucleation as a "hyper article "" (U1) and "an essay advocating the hyperarticle for modern scientific publishing via living documents and attribution" (U2). That takes this claim from the record's own manuscripts to scientific publishing: what is published is the work, and a paper is one view of it. It is filed as the owner's [CLAIM-tmpjf44i](CLAIM-tmpjf44i.md), which rests here, with its word as [TERM-tmpjn06u](../terms.d/TERM-tmpjn06u.md) (ChatGPT's definition at A5). At U5 the owner gave a view a memory ("A 'view' (with a memory) over data", [TERM-tmpx49xx](../terms.d/TERM-tmpx49xx.md)), which this claim's views do not need: a manuscript drawn from the record is a view over a memory the record keeps. The note is the assistant's (Claude, in this session), quoting the owner; adopting it is the owner's call. No status change.
+<!-- inactive-ok-block: CLAIM-1283 TERM-175 TERM-177 — new and Proposed; the owner's hyperarticle thesis, its term, and the owner's feed -->
+The owner opened the exchange with "github dmarx/nucleation as a "hyper article "" (U1) and "an essay advocating the hyperarticle for modern scientific publishing via living documents and attribution" (U2). That takes this claim from the record's own manuscripts to scientific publishing: what is published is the work, and a paper is one view of it. It is filed as the owner's [CLAIM-1283](CLAIM-1283.md), which rests here, with its word as [TERM-175](../terms.d/TERM-175.md) (ChatGPT's definition at A5). At U5 the owner gave a view a memory ("A 'view' (with a memory) over data", [TERM-177](../terms.d/TERM-177.md)), which this claim's views do not need: a manuscript drawn from the record is a view over a memory the record keeps. The note is the assistant's (Claude, in this session), quoting the owner; adopting it is the owner's call. No status change.

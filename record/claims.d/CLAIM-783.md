@@ -59,9 +59,9 @@ summary: >-
   is the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: THEORY-tmpqj2d4 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
+<!-- inactive-ok-file: THEORY-2309 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
 
-<!-- inactive-ok-file: THEORY-tmptsz1u — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
+<!-- inactive-ok-file: THEORY-2310 — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: CLAIM-772 CLAIM-773 TERM-134 — Proposed; the contraction claims this formalizes for predicates, and the entries filed with it on 2026-11-21 -->
 
 # CLAIM-783: Projected predicates bound drift by intersection
@@ -216,7 +216,7 @@ in part 1. Parallels only; the derivation here is unaffected.
 
 A parallel, no edge. Part 6's argument, that descriptors never conflict
 because the entry witnesses them, has the shape of Kleene's existential
-clause ([THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md)): the entry, with trivial realizers of the tests it
+clause ([THEORY-2309](../theory.d/THEORY-2309.md)): the entry, with trivial realizers of the tests it
 passes, realizes "some version passes them all". The reading adds no
 support to a demonstrated result. No status changes.
 
@@ -224,20 +224,20 @@ support to a demonstrated result. No status changes.
 
 A parallel to part 6, no relation written. With intersection types a
 term that has type A₁ and type A₂ has A₁ ∧ A₂, and synthesizes all three
-(§4.6 of their survey of bidirectional typing; [THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md), read in
-[NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)): the term witnesses that the types it already has are jointly
+(§4.6 of their survey of bidirectional typing; [THEORY-2310](../theory.d/THEORY-2310.md), read in
+[NOTE-2421](../notes.d/NOTE-2421.md)): the term witnesses that the types it already has are jointly
 inhabited, as an entry witnesses its descriptors. The survey also reads
 subtyping as implication, so a type a term synthesizes can only be
 tested against weaker ones it entails (§4.6), which is part 1's
 shrinking seen from the other side.
 
 ## Note of 2026-11-25: Martin-Löf, read
-<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpneexr — Proposed or Skimmed; filed for LEAD-215 -->
+<!-- inactive-ok-file: THEORY-2307 NOTE-2419 ARG-253 — Proposed or Skimmed; filed for LEAD-215 -->
 
 A parallel to part 6 (no edge; this claim is demonstrated and needs no
-reading). In Martin-Löf's type theory ([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md); [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md))
+reading). In Martin-Löf's type theory ([THEORY-2307](../theory.d/THEORY-2307.md); [NOTE-2419](../notes.d/NOTE-2419.md))
 the set of a ∈ A such that B(a) has pairs (a,b), b ∈ B(a), as elements
 (p. 53). An entry that passes two descriptors gives (a,(b,c)), an element
 of the Σ over their conjunction, by &- and Σ-introduction (pp. 39, 44;
-the step is the filer's, [ARG-tmpneexr](../arguments.d/ARG-tmpneexr.md)): part 6's witness argument, with
+the step is the filer's, [ARG-253](../arguments.d/ARG-253.md)): part 6's witness argument, with
 the evidence that the entry passes each descriptor carried along.

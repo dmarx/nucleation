@@ -43,7 +43,7 @@ history:
     dropped generalization, "so correction is relative to the anchors it
     answers to, and an anchor's own errors need an anchor of their own",
     is the record's own extrapolation and is filed as the Proposed
-    interpretive claim CLAIM-tmpjdml5, resting on this one, with this
+    interpretive claim CLAIM-1282, resting on this one, with this
     entry's old general defeater, "A protected anchor whose own error
     the system it anchors can detect and correct without any further
     protected channel" (status-review README, narrowing kind 2). The

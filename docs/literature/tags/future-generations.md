@@ -6,7 +6,7 @@
 
 **Future generations** — what the living owe, and why they care about, people who will live after them — longtermism and existential risk, intergenerational justice, the non-identity problem and person-affecting views, population ethics, discounting of future welfare, and the psychology of concern for the future: legacy motivation, generativity, symbolic immortality and continuity with one's future self (ADR-063).
 
-41 of 3195 LIT documents. Back to the [full index](../README.md).
+41 of 3265 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
