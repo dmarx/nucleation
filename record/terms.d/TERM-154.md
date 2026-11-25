@@ -30,6 +30,7 @@ summary: >-
   owner's call.
 draws_on:
 - THEORY-tmpqj2d4
+- THEORY-tmpdsft8
 ---
 <!-- inactive-ok-file: LIT-tmp9cdlq THEORY-tmpqj2d4 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
 <!-- inactive-ok-file: TERM-153 TERM-152 TERM-134 CLAIM-949 — Proposed; the pair filed with this and the entries it is stated against -->
@@ -125,3 +126,15 @@ The witness is m, the first component, kept in the realizer. The clause
 also fixes the term's "witness without certificate": for decidable tests
 k is 0, so a Kleene realizer of "some version passes them all" is the
 witness and nothing else. Recorded as `draws_on`. No status changes.
+
+## Note of 2026-11-22: Kolmogorov, read
+<!-- inactive-ok-block: THEORY-tmpdsft8 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
+
+Kolmogorov 1932 ([THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md), read in [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md)) gives the witness's sense for
+existence. Brouwer's existence statement splits into "das objektive Element
+(die Aufgabe) und das subjektive (ihre Lösung)" (p. 65): the problem "in
+der Menge K ein Element mit der Eigenschaft A zu finden", and its solution,
+the element found. Nothing is left over to be an existence statement
+proper. The witness is that element; Kolmogorov adds that its having been
+found is a subjective fact (p. 61), which the term's "exhibited" keeps. The
+term now `draws_on` the reading. Unchanged otherwise.

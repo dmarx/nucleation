@@ -268,3 +268,37 @@ typing". It supports, and narrows (evidence; [ARG-tmpcpo8g](../arguments.d/ARG-t
 
 Defeat condition (b) is not met: the correspondence holds, more narrowly
 than stated. The status is the owner's.
+
+## Note of 2026-11-22: Kolmogorov, read
+<!-- inactive-ok-block: THEORY-tmpdsft8 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
+
+Kolmogorov, "Zur Deutung der intuitionistischen Logik" (1932), read in full
+for [LEAD-215](../leads.d/LEAD-215.md) ([LIT-tmpgnf38](../literature.d/LIT-tmpgnf38.md), [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md), [THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md)). It bears on the first
+correspondence, a question as a problem, and on nothing else here.
+
+**The correspondence is confirmed in what it asserts, and narrowed.** A
+Kolmogorov problem, like [CLAIM-470](CLAIM-470.md)'s question, demands rather than asserts,
+has no truth value ("für die Aufgaben hat man keinen dieser Richtigkeit
+entsprechenden Begriff", p. 61, n. 8), fixes what counts as solving it and
+may have many solutions; his conditional problems match questions under a
+presupposition. It is narrower in two respects: a problem is solved or not
+and has no answer space, so a question with several admissible answers is
+a disjunction of problems, not one; and a problem's sense is "von dem
+Zustand unserer Kenntnisse unabhängig" (p. 65), with a failed supposition
+counted as solved (p. 59), so nothing in the calculus revises a problem as
+[CLAIM-470](CLAIM-470.md)'s last clause revises a question. It is wider in one: fully
+stated, a problem carries "die erlaubten Konstruktionsmittel" (p. 59,
+n. 2), which the record puts in the inquiry ([TERM-095](../terms.d/TERM-095.md)), not the question.
+[ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md) argues this and does not find defeater (b) met.
+
+**A correction of attribution.** The body's "Kolmogorov read a proposition
+as a problem and its proof as a solution" is not this paper's. Kolmogorov
+keeps statements and problems apart and faults Heyting because "bei Heyting
+fehlt allerdings eine klare Unterscheidung zwischen Aussagen und Aufgaben"
+(p. 65, n. 17). What he reads as problems are the formulas of intuitionistic
+logic, whose objects "sind in Wirklichkeit keine theoretischen Aussagen,
+sondern vielmehr Aufgaben" (p. 58). Identifying propositions with problems
+is the later BHK and propositions-as-types gloss. A wording that fits the
+reading: "Kolmogorov read the formulas of intuitionistic logic as problems,
+kept apart from statements, and their proofs as solutions". The text and
+status are unchanged; revising them is the owner's call.

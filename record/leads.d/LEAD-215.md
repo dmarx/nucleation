@@ -151,3 +151,14 @@ but neither mode moves the term, and where the type comes from (mode) is
 not who must fit whom ([ARG-tmpcpo8g](../arguments.d/ARG-tmpcpo8g.md), [CLAIM-tmpugw2q](../claims.d/CLAIM-tmpugw2q.md)). Where elaboration sits is not
 answered by the survey; [LEAD-tmp7mkn0](LEAD-tmp7mkn0.md) plans that reading. The other four
 readings remain.
+
+## Note of 2026-11-22: Kolmogorov, read
+<!-- inactive-ok-block: THEORY-tmpdsft8 ARG-tmp6sdu6 — Proposed; the reading of 2026-11-22 and its argument -->
+
+The first item is done: Kolmogorov 1932 read in full from the GDZ scan
+([LIT-tmpgnf38](../literature.d/LIT-tmpgnf38.md), [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md), [THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md)), and its bearing on [CLAIM-949](../claims.d/CLAIM-949.md)'s question as
+problem argued in [ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md): confirmed in what it asserts, narrowed (a question
+with an answer space is a disjunction of problems; nothing in the calculus
+revises a problem), widened (a problem carries its permitted means), and
+one attribution corrected. The other four readings remain. Status and
+stage unchanged.
